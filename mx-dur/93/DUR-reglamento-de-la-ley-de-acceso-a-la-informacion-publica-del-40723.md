@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-de-la-ley-de-acceso-a-la-informacion-publica-del-407
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-22"
-last_updated: "2004-08-22"
+last_updated: "2008-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 REGLAMENTO DE LA LEY DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL PODER EJECUTIVO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 16 DE OCTUBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el domingo 22 de agosto de 2004.
 
@@ -1046,3 +1048,15 @@ LIC. ÁNGEL SERGIO GUERRERO MIER
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE DURANGO
 
 LIC. JOSÉ MIGUEL CASTRO CARRILLO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE OCTUBRE DE 2008.
+
+###### ARTICULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Reglamento de la Ley de Acceso a la Información Pública aplicable al ejecutivo publicado en el Periódico Oficial del Estado numero 16 de fecha 22 de agosto del 2004 y se derogan todas las disposiciones administrativas que se opongan al presente Reglamento.
