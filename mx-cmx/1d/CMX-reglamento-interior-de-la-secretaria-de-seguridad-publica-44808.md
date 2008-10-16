@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-secretaria-de-seguridad-publica-44808
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-20"
-last_updated: "2005-05-20"
+last_updated: "2008-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44808&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2005-05-16"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 16 DE OCTUBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 20 de mayo de 2005.
 
@@ -1093,3 +1095,17 @@ PRIMERO.- El presente Reglamento entrará en vigor el día de su publicación en
 SEGUNDO.- La Secretaría emitirá sus manuales en los plazos que establezca la Oficialía Mayor. Dichos Manuales deberán publicarse en la Gaceta Oficial del Distrito Federal.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los dieciséis días de mayo de dos mil cinco. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL, A. JOEL ORTEGA CUEVAS.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 16 DE OCTUBRE DE 2008.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Reglamento entrará en vigor el día de su publicación.
+
+TERCERO.- La Secretaría emitirá sus manuales en los plazos que establezca la Oficialía Mayor. Dichos manuales deberán publicarse en la Gaceta Oficial del Distrito Federal de acuerdo con lo establecido en el artículo 11 de la Ley de Procedimiento Administrativo del Distrito Federal y 18 del Reglamento Interior de la Administración Pública del Distrito Federal.
+
+CUARTO.- La Secretaría contará con treinta días hábiles, a partir del día siguiente de la publicación del presente Decreto, para realizar las adecuaciones y gestiones jurídico - administrativas, presupuestales y de movimientos de personal, para la adecuada instrumentación de las disposiciones que establece el Reglamento.
+
+QUINTO.- Se abroga el Reglamento Interior de la Secretaría de Seguridad Pública del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el veinte de mayo de dos mil cinco y se derogan las disposiciones administrativas que se opongan al presente ordenamiento.
