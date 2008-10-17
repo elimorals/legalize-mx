@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-las-entidades-paraestatales-del-estado-de-tlaxcala-8532"
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-13"
-last_updated: "2005-05-18"
+last_updated: "2008-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el viernes 13 de octubre de 1995.
 
@@ -261,7 +261,9 @@ XII.- Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a f
 
 XIII.- Aprobar las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles.
 
-XIV.- Otorgar poderes generales y especiales.
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2008)</small>
+
+XIV.- Otorgar y revocar poderes generales y especiales de representación legal al titular de la entidad paraestatal de que se trate, en los términos de esta Ley, así como facultarlo para que éste a su vez, los delegue a terceros en los casos que así le sea autorizado.
 
 Los órganos de gobierno ejercerán las atribuciones antes señaladas, sin perjuicio de las que les señalen otras Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones administrativas aplicables, atendiendo a la naturaleza de la entidad de que se trate.
 
@@ -478,3 +480,13 @@ P.O. 18 DE MAYO DE 2005.
 Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ATICULO SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto por esta reforma.
+
+P.O. 17 DE OCTUBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
