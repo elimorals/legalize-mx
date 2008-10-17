@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-mexicali-baja-22978
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2008-09-05"
+last_updated: "2008-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2008.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -753,9 +753,17 @@ XVI.- Ingerir bebidas alcohólicas a bordo de cualquier vehículo en la vía pú
 
 XVII.- Conducir bajo el influjo de bebidas alcohólicas. Para efectos de lo dispuesto en este Reglamento, para que se dé la falta a que se refiere este precepto, resultará intrascendente que se tenga la certeza de un grado de ebriedad determinado en el infractor, por lo que será suficiente, que mediante el examen de escencia (sic) psicofisiológico, quede comprobado que dicho infractor, había ingerido bebidas alcohólicas que le provoquen alteración de los sentidos;
 
-XVIII.- Conducir bajo el influjo de drogas, sustancias tóxicas o estupefacientes; y,
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2008)</small>
 
-XIX.- Conducir peligrosa y temerariamente. Incurre en esta falta a (sic) todo aquel conductor que ha violado de manera flagrante dos o más disposiciones de este Reglamento, y en su recorrido ha puesto en peligro su integridad física y la de los demás.
+XVIII.- Conducir bajo el influjo de drogas, sustancias tóxicas o estupefacientes;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2008)</small>
+
+XIX.- Conducir peligrosa y temerariamente. Incurre en esta falta a (sic) todo aquel conductor que ha violado de manera flagrante dos o más disposiciones de este Reglamento, y en su recorrido ha puesto en peligro su integridad física y la de los demás; y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2008)</small>
+
+XX.- Conducir utilizando teléfonos celulares y/o sistemas de comunicación de operación manual continua, en cualquiera de sus formas verbales o escritas, diversas a la modalidad manos libres.
 
 ###### ARTÍCULO 55.
 
@@ -1855,7 +1863,7 @@ Al conductor o pasajero que contravenga las disposiciones del presente Reglament
 
 > <small>N. DE E. VEASE TABLA DE SANCIONES EN EL P.O. DE 14 DE DICIEMBRE DE 2001, PAGINAS DE LA 96 A LA 106.</small>
 
-> <small>N. DE E. REFORMAS A LA TABLA DE SANCIONES, P.O. 21 DE FEBRERO DE 2003, PAGINAS DE LA 24 A LA 25, REPUBLICADO, P.O. 7 DE MARZO DE 2003, PAGINAS DE LA 45 A LA 46, P.O. 11 DE MARZO DE 2005, PAGINA 57.</small>
+> <small>N. DE E. REFORMAS A LA TABLA DE SANCIONES, P.O. 21 DE FEBRERO DE 2003, PAGINAS DE LA 24 A LA 25, REPUBLICADO, P.O. 7 DE MARZO DE 2003, PAGINAS DE LA 45 A LA 46, P.O. 11 DE MARZO DE 2005, PAGINA 57, P.O. 17 DE OCTUBRE DE 2008, PAGINAS DE LA 41 A LA 42.</small>
 
 ###### ARTÍCULO 148.
 
@@ -1876,6 +1884,10 @@ Cuando el infractor, en uno o en varios hechos, viole varias disposiciones de es
 Al infractor reincidente se le aplicará el doble de la multa correspondiente a la conducta infringida, y no contará con el beneficio de descuento por pronto pago; además, se le impondrá como sanción que asista a una sesión de educación vial.
 
 Para efectos de este Reglamento, se considerará reincidente a quien infrinja una misma disposición en un período de ciento ochenta días.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2008)</small>
+
+En el caso de que la infracción prevista en el numeral 433 de la tabla de sanciones pecuniarias del artículo 147 del presente Reglamento, se cometa por tercera vez o por un número mayor de veces dentro del término establecido en el párrafo anterior, sólo se aplicará el triple de la multa indicada en dicha tabla.
 
 ###### ARTÍCULO 150.
 
@@ -1958,3 +1970,9 @@ SEGUNDO.- La presente reforma entrará en vigor el día siguiente de su publicac
 P.O. 5 DE SEPTIEMBRE DE 2008.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 17 DE OCTUBRE DE 2008.
+
+PRIMERO.- Las presentes reformas entrarán en vigor a los noventa días siguientes de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La Dirección de Seguridad Pública y la Dirección de Comunicación Social instrumentarán una campaña de difusión sobre el contenido de la presente reforma durante el tiempo comprendido entre su publicación y la entrada en vigor de la misma.
