@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-adjudicacion-de-obra-publica-para-el-5253"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-08-11"
-last_updated: "2007-06-08"
+last_updated: "2008-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 REGLAMENTO DE ADJUDICACION DE OBRA PUBLICA EN EL MUNICIPIO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2008.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 11 de agosto de 1995.
 
@@ -71,21 +71,31 @@ DE LA INTEGRACION Y FUNCIONAMIENTO DEL COMITE DE ADJUDICACION DE OBRAS PUBLICAS
 
 ### CAPITULO I. DE LA INTEGRACION
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 5.
 
-El Comité de Adjudicación de Obras Públicas estará integrado por siete miembros, de la manera siguiente:
+El Comité de Adjudicación de Obras Públicas, estará integrado por nueve miembros, de la manera siguiente:
+
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2000)</small>
 
 I. El Presidente Municipal;
 
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2000)</small>
+
 II. El Tesorero Municipal;
+
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2000)</small>
 
 III. El Director de Obras Públicas;
 
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2000)</small>
+
 IV. El Contralor Municipal; y
 
-V. Tres miembros del cabildo, uno por cada (sic) de las fracciones políticas con mayor responsabilidad, todos con derecho a voz y voto.
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2008)</small>
+
+V. Cinco miembros del Honorable Ayuntamiento, dos por cada una de las primeras dos fracciones políticas con mayor responsabilidad y uno por la tercera fracción con mayor responsabilidad, todos con derecho a voz y voto.
 
 > <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
 
@@ -316,3 +326,9 @@ UNICO.- El presente acuerdo surtirá sus efectos al cuarto día siguiente al de 
 P.O. 8 DE JUNIO DE 2007.
 
 UNICO.- El presente acuerdo surtirá sus efectos al cuarto día siguiente al de su Publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE OCTUBRE DE 2008.
+
+Artículo primero. El presente acuerdo entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo segundo. Por una única ocasión, se hará la designación de dos miembros del Honorable Ayuntamiento, en Pleno, y entrarán en funciones una vez que entre en vigor el presente Acuerdo.
