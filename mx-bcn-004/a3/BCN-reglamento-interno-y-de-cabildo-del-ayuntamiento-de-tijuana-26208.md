@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2008-09-05"
+last_updated: "2008-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2008.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -835,9 +835,9 @@ X.- Comisión de Educación, Cultura y Bibliotecas;
 
 XI.- Comisión de Juventud;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2008)</small>
 
-XII.- Comisión de Asistencia, Salud, Desarrollo Social y Humano;
+XII.- Comisión de Desarrollo Social;
 
 > <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
@@ -1043,11 +1043,11 @@ I (sic).- Proponer al Cabildo la ejecución de programas especiales para combati
 
 III.- En general, aquellas que el Cabildo le encomiende.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 91.
 
-Comisión de Asistencia, Salud, Desarrollo Social y Humano.- La Comisión de Asistencia, Salud, Desarrollo Social y Humano, tendrá las siguientes atribuciones:
+Comisión de Desarrollo Social.- La Comisión de Desarrollo Social tendrá las siguientes atribuciones:
 
 I.- Promover acciones tendientes a incentivar la participación y desarrollo integral de los habitantes de (sic) Municipio;
 
@@ -1057,15 +1057,15 @@ II.- Vigilar la elaboración y actualización de programas en materia asistencia
 
 III.- Promover la organización de los habitantes en uniones vecinales con el fin de incentivar l (sic) democracia participativa y el desarrollo comunitario;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2008)</small>
 
-IV.- Supervisar y apoyar los programas de la Secretaría de Desarrollo Humano, del Sistema Municipal para el Desarrollo Integral de la Familia y del organismo descentralizado Desarrollo Social Municipal, e Instituto Municipal de la Mujer;
+IV.- Supervisar y apoyar los programas de la Secretaría de Desarrollo Social, del Sistema Municipal para el Desarrollo Integral de la Familia y del organismo descentralizado “Desarrollo Social Municipal” e Instituto municipal de la Mujer;
 
 V.- Procurar mediante el principio de subsidiaridad, el apoyo oportuno y adecuado a personas grupos (sic) marginados, discapacitados y damnificados por eventos de la naturaleza y otras causas, co (sic) programas y recursos destinados a la asistencia social, y (sic)
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2008)</small>
 
-VI.- Dictaminar respecto de los asuntos relativos a los proyectos de reglamentos, iniciativas de ley, disposiciones normativas de observancia general relacionadas con la asistencia, salud, desarrollo social y humano;
+VI.- Dictaminar respecto de los asuntos relativos a los proyectos de reglamentos, iniciativas de ley, disposiciones normativas de observancia general relacionadas con la asistencia social;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2003)</small>
 
@@ -1474,3 +1474,11 @@ SEGUNDO.- Se derogan todas aquellas disposiciones municipales que se opongan a l
 P.O. 5 DE SEPTIEMBRE DE 2008.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
+
+P.O. 17 DE OCTUBRE DE 2008.
+
+PRIMERO. Publíquese en el Periódico Oficial, órgano de difusión del Gobierno del Estado de Baja California, así como en la Gaceta Municipal para el conocimiento de los vecinos.
+
+SEGUNDO. Las presentes Reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO. Todas aquellas disposiciones que hagan mención a la Comisión de Asistencia, Salud, Desarrollo Social y Humano, se entenderá como la COMISIÓN DE DESARROLLO SOCIAL.
