@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-penales-para-el-estado-de-nayarit-1101
 country: "mx"
 rank: "codigo"
 publication_date: "1969-11-29"
-last_updated: "2007-06-27"
+last_updated: "2008-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2008.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1969.
 
@@ -987,7 +987,9 @@ La víctima u ofendido por el delito no son parte en el proceso penal, sin embar
 
 ## TITULO CUARTO. DISPOSICIONES COMUNES A LA AVERIGUACION PREVIA, AL PERIODO CONSTITUCIONAL Y A LA INSTRUCCION
 
-### CAPITULO II. HUELLAS DEL DELITO, Y ASEGURAMIENTO DE LOS INSTRUMENTOS Y OBJETOS DEL MISMO
+### CAPITULO II. HUELLAS DEL DELITO, ASEGURAMIENTO Y DECOMISO DE LOS INSTRUMENTOS Y OBJETOS DEL MISMO
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 130.
 
@@ -1065,17 +1067,147 @@ Para la comprobación del cuerpo del delito, los funcionarios de policía judici
 
 En los casos de manejo de vehículos en que el conductor se encuentre en estado de ebriedad o bajo la influencia de enervantes, el cuerpo del delito se comprobará con el examen médico que se practicará inmediatamente para determinar si el conductor se halla en alguno de los estados citados, señalando el grado de embriaguez o intoxicación, según el caso.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE OCTUBRE DE 2008)</small>
+
 ### CAPITULO III. ATENCION MEDICA A LOS LESIONADOS
 
 ###### ARTICULO 144.
 
-Los instrumentos, cosas, objetos o efectos del delito, así como aquéllos en que existan huellas del mismo, o pudieran tener relación con éste, serán asegurados ya sea recogiéndolos, poniéndolos en secuestro judicial o simplemente al cuidado y bajo la responsabilidad de alguna persona, con el fin de que no se alteren, destruyan o desaparezcan.
+Los instrumentos, objetos, cosas o efectos del delito, así como los bienes en que existan huellas del mismo, o pudieran tener relación con éste, serán asegurados a fin de que no se alteren, destruyan o desaparezcan. La administración de los bienes asegurados se realizará de conformidad con la normatividad aplicable.
 
-De todas las cosas aseguradas se hará un inventario en el que se describirán de tal manera que en cualquier tiempo puedan ser identificadas.
+Las autoridades o personas que actúen en auxilio del Ministerio Público, pondrán inmediatamente a disposición de éste los bienes a que se refiere el párrafo anterior. El Ministerio Público, al momento de recibir los bienes, resolverá sobre su aseguramiento.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 145.
 
-Las cosas inventariadas conforme al artículo anterior, deberán guardarse en lugar o recipiente adecuado, según su naturaleza, debiéndose tomar todas las precauciones necesarias para asegurar la conservación o identidad de esas cosas,
+Al realizar el aseguramiento, los Agentes del Ministerio Público con el auxilio de la Policía Estatal y demás funcionarios que designe la autoridad judicial para practicar la diligencia, según corresponda, deberán:
+
+I.- Proveer las medidas necesarias e inmediatas para evitar que los bienes asegurados se destruyan, alteren o desaparezcan;
+
+II.- Identificar los bienes asegurados con sellos, marcas, cuños, fierros, señales u otros medios adecuados;
+
+III.- Levantar acta que incluya inventario con la descripción, estado y valor probable que tengan los bienes que se aseguren;
+
+IV.- Solicitar que se haga constar el aseguramiento en los registros públicos que correspondan de acuerdo con lo dispuesto por el artículo 145-C de este Código, y
+
+V.- Una vez que hayan sido satisfechos los requisitos anteriores, poner los bienes a disposición de la autoridad competente para su resguardo, conservación y administración, dentro de las setenta y dos horas siguientes, en la fecha y los lugares que previamente se acuerden con dicha autoridad, de conformidad con las disposiciones aplicables.
+
+La autoridad que inicie el acto de aseguramiento está obligada a concluirlo en los términos previstos por este Capítulo.
+
+Los bienes asegurados durante la averiguación previa o el proceso penal, que puedan ser objeto de prueba, serán puestos a disposición para su guarda, conservación y administración por la Secretaría de Finanzas.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 145 A.- La autoridad judicial o el Ministerio Público deberán notificar la resolución del aseguramiento de forma personal al interesado o a su representante legal entregando o poniendo a su disposición, según sea el caso, una copia certificada del acta a que se refiere la fracción III del artículo anterior, para que manifieste lo que a su derecho convenga.
+
+En dicha notificación se apercibirá al interesado o a su representante legal para que no enajene o grave los bienes asegurados.
+
+En la notificación deberá apercibirse al interesado o a su representante legal, que de no manifestar lo que a su derecho convenga, en un término de noventa días naturales siguientes al de la notificación, los bienes causarán abandono a favor de la Hacienda Pública Estatal.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 145 B.- Cuando los bienes que se aseguren hayan sido previamente embargados, intervenidos, secuestrados o asegurados, se notificará el nuevo aseguramiento a las autoridades que hayan ordenado dichos actos. Los bienes continuarán en custodia de quien se haya designado para ese fin, y a disposición de la autoridad judicial o del Ministerio Público para los efectos del procedimiento penal.
+
+De levantarse el embargo, intervención, secuestro o aseguramiento previos, quien los tenga bajo su custodia, los entregará a la autoridad competente para efectos de su administración.
+
+Los bienes asegurados no podrán ser enajenados, gravados o adjudicados por sus propietarios, depositarios, interventores, administradores o autoridades, durante el tiempo que dure el aseguramiento, en el procedimiento penal, salvo los casos expresamente señalados por las disposiciones aplicables.
+
+El aseguramiento no implica modificación alguna a los gravámenes existentes con anterioridad sobre los bienes.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 145 C.- El aseguramiento decretado se inscribirá en el registro público que correspondan y comprenderán:
+
+I.- El aseguramiento de bienes inmuebles, derechos reales, bienes muebles, empresas, negociaciones, establecimientos, acciones, partes sociales, títulos bursátiles y cualquier otro bien o derecho; y
+
+II.- El nombramiento del depositario, interventor o administrador, de los bienes a que se refiere la fracción anterior.
+
+El registro o su cancelación se realizarán sin más requisito que el oficio de la autoridad judicial o del Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 145 D.- A los frutos o rendimientos de los bienes durante el tiempo del aseguramiento, se les dará el mismo tratamiento que a los bienes asegurados que los generen.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 145 E.- El aseguramiento de bienes no implica que éstos entren a la Hacienda Pública Estatal.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 145 F.- La moneda nacional o extranjera que se asegure, embargue o decomise, será administrada por la Secretaria de Finanzas.
+
+En caso de billetes o piezas metálicas que por tener marcas, señas u otras características, sea necesario conservar para fines de la averiguación previa o el proceso penal, la autoridad judicial o el Ministerio Público así lo indicará a la Secretaria de Finanzas para que ésta los guarde y conserve en el estado en que los reciba. En estos casos, los depósitos no devengarán intereses.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 145 G.- La autoridad judicial o el Ministerio Público que asegure depósitos, títulos de crédito y, en general, cualesquiera bienes o derechos relativos a operaciones, que las instituciones financieras establecidas en el país celebren con sus clientes, dará aviso inmediato a la autoridad encargada de la administración de los bienes asegurados y a las autoridades competentes, quienes tomarán las medidas necesarias para evitar que los titulares respectivos realicen cualquier acto contrario al aseguramiento.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 145 H.- Las especies de flora y fauna de reserva ecológica que se aseguren, serán provistas de los cuidados necesarios y depositadas en lugares designados para su cuidado, considerando la opinión de las autoridades estatales o federales responsables del medio ambiente.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 145 I.- Tratándose de delitos culposos ocasionados con motivo del tránsito de vehículos; éstos se entregarán en depósito al conductor o a quien se legitime como su propietario o poseedor, previo cumplimiento de las garantías que se señalen de conformidad con la ley aplicable, con la obligación de presentarlo cuantas veces sea requerido por la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 145 J.- Los inmuebles que se aseguren podrán quedar en posesión de su propietario, poseedor o de alguno de sus ocupantes, siempre y cuando no se afecte el interés social ni el orden público o afecte la averiguación o el proceso. Y por ningún motivo los podrán enajenar, adjudicar o gravar, y en caso de que generen frutos o productos deberán enterarlos a la Hacienda pública estatal. En todo caso, se respetarán los derechos legítimos de terceros.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 145 K.- El aseguramiento no será causa para el cierre o suspensión de actividades de empresas, negociaciones o establecimientos con actividades lícitas.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 145 L.- La devolución de bienes asegurados procede en los casos siguientes:
+
+I.- En la averiguación previa, cuando el Ministerio Público resuelva el no ejercicio de la acción penal, la reserva, o se levante el aseguramiento, de conformidad con las disposiciones aplicables, y
+
+II.- Durante el proceso, cuando la autoridad judicial no decrete el decomiso o levante el aseguramiento, de conformidad con las disposiciones aplicables.
+
+En cualquiera de los casos en que se decrete la procedencia de solicitudes de devolución de bienes asegurados puestos a disposición de la autoridad competente para su guarda, conservación y administración, dicha solicitud estará condicionada al pago de los derechos correspondientes a favor de terceros depositarios.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 145 M.- Cuando proceda la devolución de bienes asegurados, éstos quedarán a disposición de quien acredite tener derecho a ellos. La autoridad judicial o el Ministerio Público notificará su resolución al interesado o al representante legal para que en el plazo de sesenta días naturales a partir de la notificación se presente a recogerlos, bajo el apercibimiento que de no hacerlo los bienes causarán abandono a favor de la Hacienda Pública estatal.
+
+Cuando se haya hecho constar el aseguramiento de los bienes en los registros públicos, la autoridad judicial o el Ministerio Público ordenará su cancelación.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 145 N.- La devolución de los bienes asegurados incluirá la entrega de los frutos que, en su caso, hubieren generado.
+
+La devolución de numerario comprenderá la entrega del principal y de sus rendimientos a la tasa de cambio promedio durante el tiempo en que haya sido administrado.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 145 Ñ.- Cuando se determine por la autoridad competente la devolución de los bienes que hubieren sido previamente enajenados legalmente o exista la imposibilidad de devolverlos, dicha devolución se tendrá por cumplida entregando el valor de los bienes al realizarse el aseguramiento más los rendimientos correspondientes.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 145 O.- La autoridad judicial, mediante sentencia en el proceso penal correspondiente, podrá decretar el decomiso de bienes, con excepción de los que hayan causado abandono en los términos de este Código.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 145 P.- Los instrumentos, objetos o productos del delito, respecto de los cuales se decrete el decomiso se aplicarán a favor de la Hacienda Pública Estatal.
+
+Si son de uso lícito, se decomisarán sólo cuando el sujeto haya sido condenado por delito doloso; si pertenecen a un tercero, sólo se decomisarán cuando éste haya tenido conocimiento de su utilización para la comisión del delito y no lo denunció o no hizo cuanto estaba de su parte para impedirlo.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 145 Q.- Los objetos o valores que se encuentren a disposición de las autoridades investigadoras o judiciales, que no hayan sido decomisados y que no hayan sido recogidos por quien tenga derecho a ello, en un lapso de sesenta días naturales, contados a partir de la notificación al interesado, se venderán de conformidad con las disposiciones legales y administrativas aplicables.
+
+Si el interesado no se presenta dentro de los treinta días naturales siguientes a la fecha de venta, el producto de la misma se destinará al Fondo para la Atención y Apoyo a las Victimas del Delito, previas las deducciones de los gastos ocasionados en los términos de las disposiciones legales aplicables.
+
+En el caso de bienes que se encuentren a disposición de la autoridad, que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en las condiciones que más convengan, con la excepción prevista en el párrafo siguiente, y el producto se dejará a disposición de quien tenga derecho al mismo en un lapso de treinta días naturales a partir de la notificación que se haga, transcurrido el cual, dicho producto se destinará al mencionado Fondo.
+
+Los bienes perecederos podrán ser donados a instituciones de asistencia pública, en los términos y condiciones que se establezcan mediante acuerdo que emita el Procurador General de Justicia.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 145 R.- Los recursos que se obtengan por la enajenación de los bienes decomisados en procesos penales, así como por la enajenación de sus frutos y productos, serán entregados al Fondo para la atención y Apoyo a las Víctimas del Delito.
 
 ###### ARTICULO 146.
 
@@ -1165,9 +1297,9 @@ C) Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda ocu
 
 La violación a esta disposición hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2008)</small>
 
-Se califican como delitos graves para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal: homicidio por culpa grave previsto en el último párrafo del artículo 72; delitos contra el orden constitucional del Estado y su integridad territorial previsto en el artículo 127; rebelión, previsto en el artículo 130 y 131; sedición previsto en el artículo 140; terrorismo previsto en el artículo 145; evasión de presos previsto en los artículos 146 y 148; ataques a las vías de comunicación previsto en el artículo 166 en relación con los artículos 170 y 171; corrupción y prostitución de menores o incapaces previstos en el artículo 200 en relación con las fracciones III y IV, artículos 202 y 202 Bis; lenocinio previsto en el artículo 203; violación en relación con el artículo 206; tortura previsto en el artículo 214; cohecho y peculado, previsto por los artículos 217, 218 y 219; atentados al pudor previsto en el artículo 256 sancionable como violación en los términos del artículo 260; violación en relación con el artículo 260; violación en relación con el artículo 260; sustracción y tráfico de infantes, previsto en el artículo 265; amenazas graves, previsto en el último párrafo del artículo 276; asalto previsto en los artículos 281 y 282; secuestro previsto en el artículo 284; lesiones previsto en los artículos 309, 310, 314 y 315; homicidio previsto en el artículo 317 en relación con el 321, 323, 330, 331 y 332; robo calificado previsto en el artículo 343 en relación al 348; Abigeato con relación al primer párrafo, fracciones II y III del artículo 358; fraude en relación a la fracción XVI del artículo 369; delito contra el desarrollo urbano, despojo, previsto en el artículo 373 penúltimo párrafo; daño en propiedad ajena previsto en el artículo 375; encubrimiento previsto en el artículo 381 último párrafo; fraccionamiento ilegal de inmuebles, previsto por los artículos 393, 394 y 395; atentados al pudor previsto en el artículo 356 sancionable como violación en los términos del artículo 260, la tentativa de los delitos de violación, homicidio intencional, terrorismo, tortura, asalto y secuestro.
+Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante bienes jurídicos fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal: homicidio por culpa grave previsto en el último párrafo del artículo 72; delitos contra el orden constitucional del estado y su integridad territorial previsto en el artículo 127; rebelión, previsto en el artículo 130 y 131; sedición previsto en el artículo 140; terrorismo previsto en el artículo 145; evasión de presos, previsto en los artículos 146 y 148; ataques a las vías de comunicación previsto en el artículo 166 en relación con los artículos 170 y 171; corrupción y prostitución de menores o incapaces previstos en el artículo 200 fracciones III y IV; artículos 202 y 202 bis; lenocinio previsto en el articulo 203, violación en relación con el articulo 206; tortura previsto en el artículo 214; violación en relación con el artículo 260; sustracción y tráfico de infantes, previsto en el artículo 265; amenazas graves, previsto en el último párrafo del artículo 276; asalto previsto en los artículos 281 y 282; secuestro previsto en el artículo 284; lesiones previsto en los artículos 309, 310, 314 y 315; homicidio previsto en el artículo 317 en relación con el 321, 322, 323, 330, 331 y 332; robo calificado previsto en el artículo 343 en relación al 348, fracciones I, IV, V, VI, VII, VIII y IX; abigeato previsto en el articulo 357 en relación con las fracciones II y III del artículo 358; fraude en relación a la fracción XVI del artículo 369; delito contra el desarrollo urbano; despojo previsto en el artículo 373 penúltimo párrafo; daño en propiedad ajena previsto en el artículo 375; encubrimiento previsto en el artículo 381 último párrafo; fraccionamiento ilegal de inmuebles, previsto por los artículo (sic) 393 y 394; atentados al pudor previsto en el artículo 256 sancionable como violación en los términos del artículo 260; la tentativa de los delitos de violación, homicidio intencional, terrorismo, tortura, asalto y secuestro.
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2000)</small>
 
@@ -2363,9 +2495,13 @@ III. En garantía prendaria otorgada mediante la entrega de bienes muebles cuyo 
 
 IV. En fianza personal bastante que podrá ser otorgada en la siguiente forma:
 
-A) Por terceras personas cuya residencia en el lugar del juicio sea cuando menos de un año inmediato anterior al día que otorguen la fianza y siempre que el monto de la misma no exceda de cincuenta veces el salario mínimo general vigente en el Estado.
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2008)</small>
 
-B) Si el monto de la caución excede cincuenta veces el salario mínimo, la fianza personal solo se podrá otorgar por compañías afianzadoras legalmente autorizadas mediante la exhibición de la póliza correspondiente.
+A).- Por terceras personas cuya residencia en el lugar del juicio sea cuando menos de un año inmediato anterior al día que otorguen la fianza y siempre que el monto de la misma no exceda de trescientas veces el salario mínimo general vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2008)</small>
+
+B).- Si el monto de la caución excede trescientas veces el salario mínimo, la fianza personal solo se podrá otorgar por compañías afianzadoras legalmente autorizadas mediante la exhibición de la póliza correspondiente.
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2000)</small>
 
@@ -3368,3 +3504,11 @@ P.O. 29 DE NOVIEMBRE DE 2006.
 P.O. 27 DE JUNIO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 18 DE OCTUBRE DE 2008.
+
+Artículo Primero.- El presente decreto entrará en vigor a partir de la publicación del mismo en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Artículo Tercero.- El Congreso del Estado deberá realizar las adecuaciones necesarias a la legislación local para el cumplimiento del presente decreto.
