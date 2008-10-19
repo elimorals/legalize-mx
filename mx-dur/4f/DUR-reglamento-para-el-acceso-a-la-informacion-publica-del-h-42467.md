@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-para-el-acceso-a-la-informacion-publica-del-h-42467"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-16"
-last_updated: "2004-12-16"
+last_updated: "2008-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 REGLAMENTO PARA EL ACCESO A LA INFORMACION PUBLICA DEL H. CONGRESO DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO PARA LA TRANSPARENCIA Y EL ACCESO A LA INFORMACION PUBLICA DEL H. CONGRESO DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 16 de diciembre de 2004.
 
@@ -462,3 +464,19 @@ SECRETARIO.
 DIP. FERNANDO GURZA ZAMORA
 
 SECRETARIO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO</small>
+
+P.O. 19 DE OCTUBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día de su aprobación por el Pleno del H. Congeso (sic) del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez aprobado el mismo, deberá publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento para el Acceso a la Información Pública del H. Congreso del' Estado de Durango, aprobado mediante Decreto 46 de la Sexagésima Tercera Legislatura del Congreso del Estado publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No. 49 Bis, de fecha 16 de diciembre de 2004.
