@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-trabajadores-al-servicio-del-estado-de-michoacan-636
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-08"
-last_updated: "2007-11-21"
+last_updated: "2008-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACAN DE OCAMPO Y DE SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 8 de agosto de 1983.
 
@@ -385,11 +385,15 @@ Cuando el trabajador incurra en alguna de las causales a que se refiere el artí
 
 Ningún Jefe de Oficina, Departamento o Director, podrá destituir o suspender del empleo, cargo o comisión a un servidor público. En todo caso dará aviso al titular de la dependencia básica o entidad que corresponda, para que éste resuelva lo procedente.
 
-### CAPITULO X. DE LA REINSTALACION EN EL TRABAJO
+> <small>(ADICIONADA [N. DE E. REFORMADA] SU DENOMINACION, P.O. 20 DE OCTUBRE DE 2008)</small>
 
-###### Artículo 40.
+### CAPITULO X. DE LA REINSTALACION EN EL TRABAJO O DE LA INDEMNIZACION
 
-Cuando un trabajador resulte cesado injustamente tendrá derecho a optar por la reinstalación en el puesto o cargo que desempeñaba con todas las prestaciones que disfrutaba y en las mismas condiciones en que lo venía desempeñando, o a que se le cambie de adscripción con sus mismos derechos.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2008)</small>
+
+###### ARTICULO 40.
+
+Cuando un trabajador resulte cesado injustamente tendrá derecho a optar por la reinstalación en el puesto o cargo que desempeñaba con todas las prestaciones que disfrutaba y en las mismas condiciones en que lo venía desempeñando o a que se le cambie de adscripción con sus mismos derechos o a que se le indemnice con el importe de tres meses de salario.
 
 ###### ARTICULO 41.
 
@@ -948,3 +952,7 @@ En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Es
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE OCTUBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
