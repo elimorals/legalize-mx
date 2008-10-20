@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-50-2007-del-pleno-del-consejo-de-la-57524"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-11-22"
-last_updated: "2007-11-22"
+last_updated: "2008-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57524&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2007-11-14"
 
 ACUERDO GENERAL 50/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA LA FECHA DE INICIO DE LA ESPECIALIZACION DE LOS TRIBUNALES COLEGIADOS DEL DECIMOPRIMER CIRCUITO, PREVISTA EN ACUERDO GENERAL 39/2007
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL 61/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 20 DE OCTUBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 22 de noviembre de 2007.
 
@@ -48,3 +50,13 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su publicación en el Diario
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 50/2007, del Pleno del Consejo de la Judicatura Federal, por el que se Modifica la Fecha de Inicio de la Especialización de los Tribunales Colegiados del Decimoprimer Circuito, prevista en Acuerdo General 39/2007, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de catorce de noviembre de dos mil siete, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Miguel A. Quirós Pérez y Oscar Vázquez Marín.- México, Distrito Federal, a catorce de noviembre de dos mil siete.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 20 DE OCTUBRE DE 2008.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Se abroga el Acuerdo General 50/2007, del Pleno del Consejo de la Judicatura Federal, por el que se Modifica la Fecha de Inicio de la Especialización de los Tribunales Colegiados del Decimoprimer Circuito, prevista en Acuerdo General 39/2007.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
