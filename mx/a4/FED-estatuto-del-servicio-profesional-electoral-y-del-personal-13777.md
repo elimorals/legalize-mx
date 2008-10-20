@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-electoral-y-del-personal-1377
 country: "mx"
 rank: "estatuto"
 publication_date: "1999-03-29"
-last_updated: "2008-09-15"
+last_updated: "2008-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13777&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-03-16"
 
 ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEL PERSONAL DEL INSTITUTO FEDERAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE OCTUBRE DE 2008.
 
 Estatuto publicado en el Diario Oficial de la Federación el lunes 29 de marzo de 1999.
 
@@ -739,11 +739,13 @@ La readscripción es el acto mediante el cual un miembro del Servicio es adscrit
 
 La movilidad es el cambio del personal de carrera de un Cuerpo a otro del Servicio en un rango equivalente.
 
-> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
 
 ###### ARTÍCULO 56.
 
-La Junta podrá readscribir al personal de carrera por necesidades del Servicio o a petición del interesado, con base en el dictamen que al efecto emita la Dirección Ejecutiva sobre la procedencia de las solicitudes. La Dirección Ejecutiva presentará a la Junta sólo aquellas solicitudes dictaminadas con una anticipación mínima de tres días hábiles anteriores a la celebración de la siguiente sesión de la Junta. Para elaborar sus dictámenes, la Dirección Ejecutiva considerará la idoneidad del solicitante y los resultados obtenidos en sus evaluaciones, así como la adecuada integración de las juntas o Direcciones correspondientes, e informará a los titulares de las Direcciones y Juntas Locales respectivas, así como a la Comisión por medio de su Presidente, quienes tendrán un mínimo de dos días hábiles para emitir, en su caso, observaciones. En función de las necesidades del Servicio, la Junta podrá proponer al Consejo la readscripción de vocales ejecutivos.
+La Junta podrá readscribir al personal de carrera por necesidades del Servicio o a petición del interesado, con base en el dictamen que al efecto emita la Dirección Ejecutiva sobre la procedencia de las solicitudes. La Dirección Ejecutiva presentará a la Junta sólo aquellas solicitudes dictaminadas con una anticipación mínima de tres días hábiles anteriores a la celebración de la siguiente sesión de la Junta. Para elaborar sus dictámenes, la Dirección Ejecutiva considerará la idoneidad del solicitante y los resultados obtenidos en sus evaluaciones, así como la adecuada integración de las juntas o Direcciones correspondientes, e informará a los titulares de las Direcciones y Juntas Locales respectivas, así como a la Comisión por medio de su Presidente, quienes tendrán un mínimo de dos días hábiles para emitir, en su caso, observaciones. En función de las necesidades del Servicio, la Dirección Ejecutiva podrá proponer a la Junta la readscripción de vocales ejecutivos.
+
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2008)</small>
 
 Para elaborar su dictamen, la Dirección Ejecutiva dará preferencia, de entre quienes hayan solicitado su readscripción y cumplan con los requisitos para el cargo o puesto, a los miembros del Servicio que tengan titularidad y, en caso de miembros titulares, a aquellos que cuenten con mayor rango. Cuando los miembros titulares que soliciten readscripción tengan el mismo rango, se dará preferencia a quien cumpla con los requisitos y tenga mejores resultados en las evaluaciones globales de los últimos dos años.
 
@@ -3572,3 +3574,11 @@ PRIMERO. Las presentes modificaciones al Estatuto del Servicio Profesional Elect
 SEGUNDO. La Dirección Ejecutiva de Administración y la Dirección Ejecutiva del Servicio Profesional Electoral, dentro de un periodo de doce meses a partir de la entrada en vigor del presente Estatuto, llevaran a cabo la actualización de los Catálogos del Instituto Federal Electoral, los cuales concluido dicho término someterán para su aprobación ante la Junta, para su posterior aplicación. En consecuencia hasta en tanto no se aprueben los nuevos Catálogos, continuará rigiendo el actual.
 
 TERCERO. Las resoluciones emitidas por la Contraloría General en los procedimientos administrativos de responsabilidad que hayan sido instruidos en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, serán impugnadas a través del recurso de revocación previsto en el citado ordenamiento legal.
+
+D.O.F. 20 DE OCTUBRE DE 2008.
+
+SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+...
+
+Segundo. El presente Acuerdo surtirá efectos al momento de su aprobación.
