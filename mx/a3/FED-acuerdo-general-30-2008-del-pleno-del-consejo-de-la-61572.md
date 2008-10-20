@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-30-2008-del-pleno-del-consejo-de-la-61572"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-06-23"
-last_updated: "2008-06-23"
+last_updated: "2008-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61572&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-06-11"
 
 ACUERDO GENERAL 30/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE OCTUBRE DE 2008
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 23 de junio de 2008.
 
@@ -55,29 +55,41 @@ III. “Corte”: a la Suprema Corte de Justicia de la Nación;
 
 IV. “Consejo”: al Consejo de la Judicatura Federal;
 
-V. “Pleno del Consejo”: al Pleno del Consejo de la Judicatura Federal;
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
 
-VI. “Comisión”: a la Comisión de Carrera Judicial;
+V. "Tribunal Electoral": al Tribunal Electoral del Poder Judicial de la Federación;
 
-VII. “Instituto”: al Instituto de la Judicatura Federal;
+VI. “Pleno del Consejo”: al Pleno del Consejo de la Judicatura Federal;
 
-VIII. “Comité”: al Comité del concurso a que se refiere el artículo 116 de la Ley;
+VII. “Comisión”: a la Comisión de Carrera Judicial;
 
-IX. “Jurado”: al Jurado integrado en los términos del artículo 117 de la Ley;
+VIII. “Instituto”: al Instituto de la Judicatura Federal;
 
-X. “Magistrado”: al cargo de magistrado de Circuito;
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
 
-XI. “Juez”: al juez de Distrito;
+IX. "Centro de Capacitación": al Centro de Capacitación Judicial Electoral del Tribunal Electoral del Poder judicial de la Federación;
 
-XII. “Secretaría Ejecutiva”: a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos;
+X. “Comité”: al Comité del concurso a que se refiere el artículo 116 de la Ley;
 
-XIII. “Tribunal”: al tribunal de Circuito;
+XI. “Jurado”: al Jurado integrado en los términos del artículo 117 de la Ley;
 
-XIV. “Juzgado”: al juzgado de Distrito;
+XII. “Magistrado”: al cargo de magistrado de Circuito;
 
-XV. “Concurso”: al concurso interno de oposición para la designación de magistrados de Circuito; y
+XIII. “Juez”: al juez de Distrito;
 
-XVI. “Página web del Instituto”: a la página web del Instituto de la Judicatura Federal, www.ijf.cjf.gob.mx.
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
+
+XIV. "Magistrado Electoral": Magistrado de Sala Regional del Tribunal Electoral del Poder Judicial de la Federación;
+
+XV. “Secretaría Ejecutiva”: a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos;
+
+XVI. “Tribunal”: al tribunal de Circuito;
+
+XVII. “Juzgado”: al juzgado de Distrito;
+
+XVIII. “Concurso”: al concurso interno de oposición para la designación de magistrados de Circuito; y
+
+XIX. “Página web del Instituto”: a la página web del Instituto de la Judicatura Federal, www.ijf.cjf.gob.mx.
 
 ###### Artículo 2.
 
@@ -85,13 +97,17 @@ El perfil del magistrado conforme a las disposiciones contenidas en el artículo
 
 I. Los requisitos que establece el artículo 106 de la Ley;
 
-II. Tres años, al menos, de experiencia en la función de Juez, considerados como el profesionalismo necesario y formativo de la carrera judicial;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
+
+II. Tres años, al menos, de experiencia en la función de Juez o de Magistrado Electoral, considerados como el profesionalismo necesario y formativo de la carrera judicial;
 
 III. Conocimientos óptimos para aplicar e interpretar la ley, con objetividad, imparcialidad e independencia;
 
 IV. Preparación y estudios para llevar a cabo la función con excelencia y aplicación en la impartición de justicia; y
 
-V. Buen desempeño en las funciones de Juez, de acuerdo con los principios que rigen la carrera judicial.
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
+
+V. Buen desempeño en las funciones de Juez o de Magistrado Electoral, de acuerdo con los principios que rigen la carrera judicial.
 
 ###### Artículo 3.
 
@@ -107,9 +123,11 @@ IV. Profesionalismo: Capacidad técnica y formativa al elaborar el razonamiento 
 
 V. Excelencia: Aptitud de los juzgadores que aspiran a la perfección en el desempeño de las funciones que se le encomiendan; que comprende los atributos: humanismo, justicia, prudencia, responsabilidad, fortaleza, patriotismo, compromiso social, lealtad, orden, respeto, decoro, laboriosidad, perseverancia, humildad, sencillez, sobriedad y honestidad.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 4.
 
-El concurso tiene como objetivo convocar y evaluar a jueces de Distrito que a la fecha del último día del periodo de inscripción se encuentren en funciones y reúnan el perfil señalado en el artículo 2 de este acuerdo.
+El concurso tiene como objetivo, convocar y evaluar a jueces de Distrito y Magistrados Electorales que a la fecha del último día del periodo de inscripción, se encuentren en funciones y reúnan el perfil señalado en el artículo 2 de este acuerdo.
 
 ###### Artículo 5.
 
@@ -189,9 +207,11 @@ b) Escrito en el que manifieste el domicilio donde pueda ser ubicado y, en su ca
 
 c) Escrito en el que, bajo protesta de decir verdad, manifieste encontrarse en pleno goce de sus derechos, no haber sido condenado por delito intencional con sanción privativa de la libertad mayor de un año;
 
-d) Constancia expedida por la Dirección General de Recursos Humanos del Consejo en la cual se manifieste que en el expediente personal obran en copia certificada los siguientes documentos: el acta de nacimiento, el título y la cédula profesional; así como constancias de quejas o denuncias administrativas formuladas en su contra y el resultado de esos procedimientos, la de antigüedad y categorías de la carrera judicial desempeñadas en el Poder Judicial de la Federación; y
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
 
-e) En su caso, los que acrediten los estudios realizados a que se refiere el artículo 6, penúltimo párrafo, de este acuerdo;
+d) Constancia expedida por las Dirección General de Recursos Humanos del Consejo o del Tribunal Electoral, según corresponda, en la cual se manifieste que en el expediente personal obran en copia certificada los siguientes documentos: el acta de nacimiento, el título y la cédula profesional; así como constancias de quejas o denuncias administrativas formuladas en su contra y el resultado de esos procedimientos, la de antigüedad y categorías de la carrera judicial desempeñadas en el Poder Judicial de la Federación; y
+
+e) (DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)
 
 VIII. El señalamiento de que corresponderá al Instituto verificar que las solicitudes contengan todos los datos necesarios y que estén acompañadas de los documentos requeridos en los incisos a) al d) de la fracción anterior, sin los cuales las solicitudes serán rechazadas;
 
@@ -207,13 +227,21 @@ XII. La mención de que la lista de los aspirantes que resulten aprobados en la 
 
 Cerrado el plazo para la inscripción y verificados los requisitos, el Instituto elaborará un proyecto de la lista de los aspirantes que considere deben ser aceptados para participar en la primera etapa del concurso. Dicha lista se enviará a la Comisión para su conocimiento, la que deberá remitir al Pleno del Consejo para su aprobación.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 13.
 
-De cada aspirante, el Instituto, de oficio, integrará un expediente con los documentos presentados al momento de la inscripción, así como las constancias que acrediten su participación en cursos, seminarios, maestrías, doctorados o cualquier otro, impartidos por el propio Instituto u otra institución de reconocimiento oficial, que remitirá a la Comisión inmediatamente.
+De cada aspirante, el Instituto, de oficio, integrará un expediente con los documentos presentados al momento de la inscripción, es decir, a los que hace referencia el artículo 11, fracción VII, de este acuerdo.
+
+El expediente que se integre deberá estar sellado, rubricado, foliado y por ningún motivo podrá agregarse constancia o documento diferente de los que se mencionan en el párrafo anterior.
+
+De las personas inscritas que cumplan con los requisitos, el Instituto inmediatamente remitirá los expedientes integrados a la Comisión.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 14.
 
-La Comisión remitirá el expediente a que hace referencia el artículo anterior a la Secretaría Ejecutiva y la instruirá para que lleve a cabo la valoración de los factores del desempeño, en términos de lo que señalan los artículos 41 a 44 de este acuerdo; la que a su vez solicitará a la Dirección General de Recursos Humanos el envío del expediente personal del aspirante a la primera etapa. Los resultados de esta evaluación se entregarán al sustentante en la fecha y lugar que se señale para resolver el cuestionario.
+La Comisión remitirá el expediente a que hace referencia el artículo anterior, a la Secretaría Ejecutiva y la instruirá para que lleve a cabo la valoración de los factores del desempeño, en términos de lo que señalan los artículos 41 a 44 de este acuerdo; la que a su vez, solicitará a la Dirección General de Recursos Humanos del Consejo o del Tribunal Electoral, en su caso, el envío del expediente personal del aspirante a la primera etapa. Los resultados de esta evaluación se entregarán al sustentante en la fecha y lugar que se señale para resolver el cuestionario.
 
 ### CAPITULO CUARTO. Etapas del Concurso en lo particular
 
@@ -263,7 +291,9 @@ Con el resultado del cuestionario el Instituto elaborará una lista que hará de
 
 Pasarán al concurso de oposición las personas que hayan obtenido las más altas calificaciones aprobatorias; hasta cinco, por cada una de las vacantes sujetas a concurso.
 
-En caso de empate en las calificaciones de los aspirantes, se acudirá a la evaluación de los factores del desempeño judicial, para seleccionar al que haya obtenido mayor puntuación.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
+
+En caso de empate, la Comisión deberá acudir a la evaluación de los factores del desempeño judicial, con la finalidad de seleccionar al que obtenga mayor puntuación y, posteriormente, el Pleno aprobará la lista de las personas que tendrán acceso a la siguiente etapa.
 
 El Instituto, en su página web, publicará la lista correspondiente y en sesión pública, a la que podrán asistir los participantes que lo deseen, con base en el código de barras de cada uno, dará a conocer las personas que pasarán al concurso de oposición.
 
@@ -429,9 +459,11 @@ Al finalizar el examen oral, se levantará acta circunstanciada en forma de list
 
 ### CAPITULO QUINTO. Factores del Desempeño Judicial
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 41.
 
-Para llevar a cabo la evaluación de los factores del desempeño judicial, señalados en el artículo 114, fracción III, párrafo segundo, de la Ley, previamente a la designación de vencedores, la Comisión expresará en puntos dentro de una escala de 0 a 100 los siguientes elementos: hasta con 15 puntos la antigüedad en el Poder Judicial de la Federación; hasta con 30 puntos la carrera judicial; hasta 20 puntos los cursos que haya recibido en el Instituto y los cursos de actualización y especialización en el ámbito jurídico; y hasta con 35 puntos el desempeño en la función de Juez.
+Para llevar a cabo la evaluación de los factores del desempeño judicial, señalados en el artículo 114, fracción III, párrafo segundo, de la Ley, previamente a la designación de vencedores, la Comisión expresará en puntos dentro de una escala de 0 a 100 los siguientes elementos: hasta con 15 puntos la antigüedad en el Poder Judicial de la Federación; hasta con 30 puntos la carrera judicial; hasta 20 puntos los cursos que haya recibido en el Instituto, en la Corte, en el Tribunal Electoral o diversos de actualización y especialización, exclusivamente en el ámbito jurídico; y hasta con 35 puntos el desempeño en la función de Juez o de Magistrado Electoral.
 
 ###### Artículo 42.
 
@@ -445,7 +477,15 @@ a) Actuario 2 puntos
 
 b) Secretario de Juzgado 3 puntos
 
-c) Secretario de Tribunal 4 puntos
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
+
+c) Secretario de Tribunal de Circuito o
+
+Secretario de Estudio y Cuenta
+
+de las Salas Regionales del Tribunal
+
+Electoral 4 puntos
 
 d) Subsecretario de Acuerdos 4 puntos
 
@@ -459,27 +499,59 @@ f) Secretario de Estudio y 4 puntos
 
 Cuenta (tesis y otro)
 
-g) Secretario de Estudio y 5 puntos
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
 
-Cuenta de Ministro
+g) Secretario de Estudio y
 
-h) Subsecretario General 5 puntos
+Cuenta de Ministro o Secretarios
 
-de Acuerdos de la Corte
+de Estudio y Cuenta e Instructores
 
-i) Secretario General de 5 puntos
+de la Sala Superior del Tribunal
 
-Acuerdos de la Corte
+Electoral 5 puntos
 
-j) Juez de Distrito 6 puntos
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
 
-k) Ratificación de Juez de Distrito 8 puntos
+h) Subsecretario General de
+
+Acuerdos de la Corte o de la
+
+Sala Superior del Tribunal Electoral 5 puntos
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
+
+i) Secretario General de
+
+Acuerdos de la Corte o
+
+de la Sala Superior del
+
+Tribunal Electoral 5 puntos
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
+
+j) Juez o Magistrado Electoral 6 puntos
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
+
+k) Ratificación de Juez ó 6 años
+
+de Magistrado Electoral 8 puntos
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
+
+Al participante que reúna nueve meses o más laborados en alguna categoría de carrera judicial, se le asignará la puntuación correspondiente al año de servicio.
 
 La puntuación anterior será acumulativa y no podrá exceder de 30 puntos.
 
-III. Los cursos que se hayan recibido en el Instituto y los cursos de actualización y especialización, exclusivamente, en el ámbito jurídico, en la forma siguiente:
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
 
-a) Cursos de Especialización 5 puntos
+III. Los cursos que se hayan recibido en el Instituto, en la Corte, en el Tribunal Electoral o diversos de actualización y especialización, exclusivamente en el ámbito jurídico; en la forma siguiente:
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
+
+a) Cursos de Especialización
 
 Judicial, Básico de Formación
 
@@ -495,35 +567,61 @@ de Justicia en Juzgados de
 
 Distrito o su equivalente en
 
-Tribunales de Circuito
+Tribunales de Circuito o cursos
 
-b) Otros cursos de preparación 2 puntos
+equiparables en el Centro de
+
+Capacitación 5 puntos
+
+b) Otros cursos de preparación
 
 y capacitación en las distintas
 
-categorías de la carrera judicial
+categorías de la carrera judicial 2 puntos
 
-c) Otros cursos especiales, 2 puntos
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
 
-seminarios y paneles
+c) Otros cursos especiales,
 
-d) Doctorado 6 puntos
+seminarios y paneles impartidos
 
-e) Maestría 4 puntos
+por el Instituto, la Corte o el
 
-f) Especialidad 3 puntos
+Centro de Capacitación 2 puntos
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
+
+d) Doctorado con cédula 6 puntos
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
+
+e) Maestría con cédula 5 puntos
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
+
+f) Estudios de doctorado o
+
+maestría con acta de
+
+examen aprobatoria 3 puntos
 
 g) Diplomado 2 puntos
 
 h) Otros cursos 1 punto
 
-i) Mención o distinción 5 puntos
+i) (DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)
 
-académica o laboral
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
+
+j) Otros cursos de actualización
+
+o capacitación externos 1 punto
 
 La puntuación anterior será acumulativa y no podrá exceder de 20 puntos.
 
-IV. Desempeño en la función de juez:
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
+
+IV. Desempeño en la función de Juez o Magistrado Electoral:
 
 a) Estadística Judicial de 1 a 10 puntos
 
@@ -561,21 +659,27 @@ La evaluación se llevará a cabo por la Secretaría Ejecutiva, con apoyo de la 
 
 I. Elaborará el perfil amplio del aspirante que consiste en pormenorizar sus antecedentes laborales y profesionales, a los que se asignarán los puntos que correspondan;
 
-II. Perfil reducido: Se asentará en orden descendente la síntesis de la valoración, en forma de cuadro;
+II. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)
 
 III. Someterá a consideración de la Comisión los criterios y resultados que se obtengan;
 
 IV. Con su aprobación, la Comisión, los enviará al Instituto; y
 
-V. El expediente personal del aspirante se devolverá a la Dirección General de Recursos Humanos.
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
+
+V. El expediente personal del aspirante se devolverá a la Dirección General de Recursos Humanos del Consejo o del Tribunal Electoral.
+
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 45.
 
-La evaluación relativa al perfil amplio y reducido del concursante, le será entregada en la fecha señalada para resolver el cuestionario.
+La evaluación relativa al perfil amplio del concursante, le será entregada en la fecha señalada para resolver el cuestionario.
 
 Los perfiles podrán ser consultados a partir de ese mismo día en la página web del Instituto.
 
-A partir de la entrega de la evaluación de los factores del desempeño y su publicación, el sustentante contará con un plazo de cinco días hábiles, para hacer alguna aclaración ante la Comisión; en el entendido de que, para que proceda alguna modificación, únicamente se tomarán en cuenta aquellas constancias que se encuentren agregadas al expediente personal de la Dirección General de Recursos Humanos, hasta la fecha de la inscripción.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
+
+A partir de la entrega de la evaluación de los factores del desempeño y su publicación, el sustentante contará con un plazo de cinco días hábiles, para hacer alguna aclaración ante la Comisión; en el entendido de que, para que proceda alguna modificación, únicamente se tomarán en cuenta aquellas constancias que se encuentren agregadas al expediente personal de la Dirección General de Recursos Humanos del Consejo o del Tribunal Electoral, hasta la fecha de la inscripción.
 
 El resultado de la solicitud de aclaración se hará del conocimiento del interesado.
 
@@ -627,13 +731,15 @@ La actualización de alguna de las causas señaladas en este mismo artículo tra
 
 La descalificación se decretará sin perjuicio del inicio de los procedimientos de responsabilidad y otros que procedan.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 52.
 
-Los aspirantes que hayan accedido al concurso de oposición en los términos de este acuerdo, sin haber sido designados Magistrados en el concurso de que se trate, con apoyo en los artículos 113 y 114 de la Ley, podrán participar en los concursos que se lleven a cabo dentro de los dos años siguientes, para lo cual podrán:
+Los aspirantes que hayan accedido a una etapa de oposición anterior, que no hubieren sido designados vencedores, podrán participar en los concursos que se lleven a cabo dentro de los dos años siguientes, sin necesidad de presentar la primera etapa (selección de aspirantes), consistente en resolver por escrito un cuestionario.
 
-I. Presentar en su totalidad las evaluaciones que correspondan a la segunda etapa y a la valoración de los factores del desempeño judicial; o
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
 
-II. Acceder directamente al examen oral y a la valoración de los factores del desempeño judicial, permaneciendo con la puntuación que hubieren obtenido al resolver el caso práctico.
+En este caso, la puntuación que hubieren obtenido en esa etapa se respetará y quedarán sujetos a los resultados de los nuevos concursantes.
 
 Para ese efecto, deberán presentar su solicitud de inscripción y a ésta, acompañar el documento en el que bajo protesta de decir verdad manifiesten su elección y que se encuentran en el supuesto de este artículo.
 
@@ -650,3 +756,13 @@ SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el 
 TERCERO. Se abroga el Acuerdo General 31/2007 del Pleno del Consejo de la Judicatura Federal.
 
 LA LICENCIADA ADRIANA GARDUÑO REBOLLEDO, SECRETARIA EJECUTIVA DE DISCIPLINA DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 30/2008, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Capítulo I del Título Séptimo de la Ley Orgánica del Poder Judicial de la Federación, por el que se Establecen los Lineamientos Generales para la Celebración de Concursos Internos de Oposición para la Designación de Magistrados de Circuito, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de once de junio de dos mil ocho, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Indalfer Infante Gonzales, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a once de junio de dos mil ocho.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 20 DE OCTUBRE DE 2008.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en la página web del Consejo de la Judicatura Federal y del Tribunal Electoral.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma al Acuerdo General 30/2008, del Pleno del Consejo de la judicatura Federal, que Reglamenta el Capítulo I del Título Séptimo de la Ley Orgánica del Poder Judicial de la Federación, por el que se Establecen los Lineamientos Generales para la Celebración de Concursos Internos de Oposición para la Designación de Magistrados de Circuito.
