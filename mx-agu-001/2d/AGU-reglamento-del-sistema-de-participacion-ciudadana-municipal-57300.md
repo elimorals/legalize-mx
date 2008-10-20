@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-sistema-de-participacion-ciudadana-municipal-573
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-15"
-last_updated: "2007-10-15"
+last_updated: "2008-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DEL SISTEMA DE PARTICIPACION CIUDADANA MUNICIPAL DE AGUASCALIENTES, AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2008.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 15 de octubre de 2007.
 
@@ -199,7 +199,9 @@ II. Dos representantes electos democráticamente de cada uno de los Consejos Del
 
 III. Un Vocal de Control y Vigilancia designado por los miembros del Consejo a propuesta de los Consejos Delegacionales de Desarrollo Comunitario el cual no podrá ser servidor público y durará en su cargo hasta dos años.
 
-IV. Un equipo asesor integrado por el Tesorero Municipal, el titular de la Secretaría de Desarrollo Humano quien fungirá como Secretario Técnico, el titular de la Comisión de Desarrollo Humano del H. Ayuntamiento, el Secretario de Obras Públicas y un representante de el (sic) Comité de Planeación y Desarrollo del Estado y de la Secretaría de Desarrollo Social Federal.
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2008)</small>
+
+IV. Un equipo asesor integrado por el Tesorero Municipal, el titular de la Secretaría de Desarrollo Social, quien fungirá como Secretario Técnico, el Director de Desarrollo Social de la Secretaría de Desarrollo Social, el Secretario de Obras Públicas y un Representante del Comité de Planeación y Desarrollo Regional del Estado, un representante de la Secretaría de Desarrollo Social Federal, el Regidor Presidente de la Comisión de Desarrollo Social, el Regidor Presidente de la Comisión de Obra Pública del H. Ayuntamiento.
 
 Cuando se traten asuntos relacionados con el Fondo para la Infraestructura Social Municipal del Ramo 33, el equipo asesor sólo tendrá derecho a voz y durará en el cargo el tiempo que dure su gestión.
 
@@ -590,3 +592,11 @@ Por lo que tiene el honor de comunicarlo, para su conocimiento y efectos legales
 En cumplimiento a lo ordenado por el Presidente Municipal de Aguascalientes, con fundamento en los Artículos 120, fracción VII de la Ley Municipal par (sic) el Estado de Aguascalientes; 102, fracción IX del Código Municipal de Aguascalientes, tengo a bien solicitar la publicación del presente.
 
 El Secretario del H. Ayuntamiento y Director General de Gobierno.- M. en D. Gabriel Ochoa Amador.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 20 DE OCTUBRE DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Toda disposición legal vigente que haga referencia a la integración del Consejo de Desarrollo Municipal incluirá, dentro del mismo, al Regidor Presidente de la Comisión de Obras Públicas y el Regidor Presidente de la Comisión de Desarrollo Social.
