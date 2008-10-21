@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2008-10-02"
+last_updated: "2008-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE OCTUBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -898,7 +898,11 @@ XVI. Elaborar, coordinar y evaluar programas de enseñanza e investigación y pr
 
 XVII. Organizar congresos en materia de salud, sanidad y asistencia social;
 
-XVIII. Estudiar, adoptar y poner en vigor las medidas necesarias para combatir las enfermedades transmisibles y las adicciones, así como la prevención de accidentes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 21 DE OCTUBRE DE 2008)</small>
+
+XVIII. Estudiar, adoptar y poner en vigor las medidas necesarias para combatir las enfermedades trasmisibles, no transmisibles y las adicciones, así como la prevención de accidentes;
 
 XIX. Desarrollar actividades tendientes al mejoramiento y especialización de los servicios, y
 
@@ -1915,3 +1919,9 @@ G.O. 2 DE OCTUBRE DE 2008.
 PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Se ordena su publicación en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO. A más tardar en 90 días deberán actualizarse las disposiciones reglamentarias para dar cumplimiento a esta reforma.
+
+G.O. 21 DE OCTUBRE DE 2008.
+
+Articulo Primero. El Presente decreto entrará en vigor 30 días después de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Articulo Segundo. Publíquese en la Gaceta Oficial del Distrito Federal y, para su mayor difusión, en el Diario Oficial de la Federación.
