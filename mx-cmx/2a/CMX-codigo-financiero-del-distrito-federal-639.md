@@ -4,7 +4,7 @@ identifier: "CMX-codigo-financiero-del-distrito-federal-639"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-31"
-last_updated: "2008-10-10"
+last_updated: "2008-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=639&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1994-12-30"
 
 CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE OCTUBRE DE 2008.
 
 Código publicado en la Segunda, Tercera y Cuarta Secciones del Diario Oficial de la Federación el sábado 31 de diciembre de 1994.
 
@@ -6424,10 +6424,6 @@ ARTICULO 264 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 #### Sección Décima Quinta. De los Derechos por los Servicios de Recolección y Recepción de Residuos Sólidos
 
-ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
-
-ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
-
 > <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 265.
@@ -6465,6 +6461,10 @@ En el caso en que el monto de los derechos causados resulte superior al efectuad
 Cuando los mercados públicos celebren convenios con la autoridad competente para el depósito de residuos sólidos orgánicos generados en alto volumen y realicen el traslado de dichos residuos por cuenta propia al lugar autorizado por la Secretaría de Obras y Servicios quedarán exentos del pago a que se refiere la fracción II del presente artículo.
 
 La Secretaría de Finanzas celebrará convenios con los Órganos Político-Administrativos a efecto de que una vez determinado el monto mensual recaudado por concepto de los derechos que se detallan en este artículo, participe con el 50% del recurso recaudado a las Delegaciones, mismas que lo destinarán a la adquisición de insumos utilizados en la prestación del servicio de limpia.
+
+ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
+
+ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 ARTICULO 265 B.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -8900,49 +8900,29 @@ No procederá hacer pago alguno por concepto de servicios personales a servidore
 
 ### CAPITULO IV. Del Pago por Concepto de Responsabilidad Patrimonial
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL DISTRITO FEDERAL.</small>
 
 ###### ARTICULO 389.
 
-De conformidad con la legislación aplicable y lo establecido en la Constitución y Estatuto, el Distrito Federal tiene la obligación de pagar los daños que se causen en los bienes o derechos de los particulares, con motivo de su actividad administrativa que no cumpla con las disposiciones legales y administrativas que se deben observar.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL DISTRITO FEDERAL, G.O. 21 DE OCTUBRE DE 2008)
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
-
-Los pagos de indemnización se efectuarán una vez que se haya comprobado que efectivamente le corresponde al particular la indemnización. Dichos pagos atenderán a las disposiciones de este Código y estarán a cargo del presupuesto de la dependencia, órgano desconcentrado, delegación y entidad, a los que se hayan encontrado adscritos los servidores públicos que los causen.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
-
-Tratándose de servidores públicos de los órganos a que se refiere el artículo 448 de este Código, los pagos estarán a cargo del presupuesto de los órganos en que se encuentre adscrito el servidor público que haya causado el daño.
-
-Los pagos a que se refiere este precepto, estarán sujetos en todo momento a la disponibilidad presupuestaria del ejercicio fiscal de que se trate.
-
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL DISTRITO FEDERAL.</small>
 
 ###### ARTICULO 390.
 
-Para efectuar los pagos a que se refiere el artículo anterior el documento justificante del gasto, según el caso, será:
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL DISTRITO FEDERAL, G.O. 21 DE OCTUBRE DE 2008)
 
-I. La resolución firme en que la Contraloría reconozca la responsabilidad de indemnizar la reparación del daño en cantidad líquida, y en consecuencia ordene el pago correspondiente, siempre y cuando ésta no sea impugnada, por la autoridad competente;
-
-II. La recomendación de la Comisión que haya sido aceptada por alguna dependencia o entidad en la que se proponga la reparación de daños y perjuicios;
-
-III. La resolución firme del Tribunal de lo Contencioso que declare la responsabilidad de indemnizar la reparación del daño y por lo tanto condene a su pago;
-
-IV. La resolución que haya quedado firme, dictada por cualquier órgano judicial competente, declarando la responsabilidad de indemnizar y por lo tanto ordene su pago, y
-
-V. La recomendación de la Procuraduría Social del Distrito Federal, que haya sido aceptada por alguna área, unidad, órgano desconcentrado o entidad, en la que se proponga la reparación de daños y perjuicios.
-
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL DISTRITO FEDERAL.</small>
 
 ###### ARTICULO 391.
 
-En los casos señalados en el artículo anterior cuando no se hubiese determinado en cantidad líquida el monto de la indemnización, la Procuraduría Fiscal, con base en la información proporcionada por las dependencias, delegaciones y entidades, determinará en cantidad líquida dicha reparación y lo hará saber a la Secretaría para que ésta ordene su pago.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL DISTRITO FEDERAL, G.O. 21 DE OCTUBRE DE 2008)
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL DISTRITO FEDERAL.</small>
 
 ###### ARTICULO 392.
 
-El Distrito Federal exigirá de los servidores públicos el pago de la indemnización hecha a los particulares, a que se refiere el artículo 389, mediante el procedimiento administrativo de ejecución.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL DISTRITO FEDERAL, G.O. 21 DE OCTUBRE DE 2008)
 
 (REUBICADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -18501,3 +18481,21 @@ Segundo.- El presente decreto entrará en vigor a los treinta días hábiles sig
 Tercero.- Los juicios actualmente en trámite que tengan por objeto la rectificación o modificación de las actas el (sic) estado civil de las personas continuarán tramitándose en la vía en que hayan sido admitidos.
 
 Cuarto.- A partir de la publicación del presente Decreto, el Jefe del Gobierno de Distrito Federal deberá realizar las adecuaciones jurídicas administrativas necesarias, en un plazo de sesenta días naturales.
+
+G.O. 21 DE OCTUBRE DE 2008.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIO QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- La presente ley entrará en vigor a partir del 1º de enero del año 2009.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- Los asuntos que se encuentren en trámite en las dependencias, entidades o en la Contraloría General del Distrito Federal, relacionados con la indemnización a los particulares, derivada de las faltas administrativas en que hubieran incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo a las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
+
+CUARTO.- Los asuntos que se encuentren en trámite ante las Salas del Tribunal de los (sic) Contencioso Administrativo del Distrito Federal, relacionados con la responsabilidad patrimonial de dicha entidad federativa, se atenderán hasta su total terminación, de acuerdo a las disposiciones aplicables a la fecha en que inició el juicio contencioso-administrativo correspondiente.
+
+QUINTO.- El Decreto de Presupuesto de Egresos para el ejercicio fiscal del año 2009 deberá contener el monto y las partidas que se destinarán a cubrir los compromisos derivados de la responsabilidad patrimonial de los Entes Públicos, órganos locales de gobierno del Distrito Federal, entidades, dependencias, órganos político administrativos y órganos autónomos.
+
+SEXTO.- Se derogan los artículos 389, 390, 391 y 392 del Código Financiero del Distrito Federal, una vez que entre en vigor la presente Ley.
+
+...
