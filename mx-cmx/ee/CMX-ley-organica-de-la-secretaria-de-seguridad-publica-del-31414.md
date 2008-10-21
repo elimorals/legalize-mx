@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-secretaria-de-seguridad-publica-del-31414"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-05-20"
-last_updated: "2006-06-07"
+last_updated: "2008-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31414&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-07"
 
 LEY ORGANICA DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE OCTUBRE DE 2008.
 
 Ley Orgánica publicada en la Gaceta Oficial del Distrito Federal, el martes 20 de mayo de 2003.
 
@@ -118,7 +118,9 @@ XVII. Retirar de la vía pública, conforme a las disposiciones aplicables, los 
 
 XVIII. Instrumentar en coordinación con otras dependencias, programas y campañas y cursos de seguridad, educación vial, prevención de accidentes y cortesía urbana, conforme a las disposiciones aplicables;
 
-XIX. Formular, ejecutar y difundir programas de control y programas preventivos de ingestión de alcohol u otras sustancias tóxicas para conductores de vehículos;
+> <small>(REFORMADA, G.O. 21 DE OCTUBRE DE 2008)</small>
+
+XIX. Formular, ejecutar y difundir programas de control y preventivos en la ingesta de bebidas alcohólicas y consumo de estupefacientes, preferentemente en la cercanía de puntos de mayor consumo y vialidades de alta incidencia en accidentes automovilísticos;
 
 XX. Establecer y administrar depósitos para los vehículos que deban remitirse y custodiarse con motivo de una infracción de tránsito;
 
@@ -638,7 +640,9 @@ VII. E] retiro de la vía pública, conforme a las disposiciones aplicables, de 
 
 VIII. Instrumentar en coordinación con otras dependencias, programas y campañas y cursos de seguridad, educación vial, prevención de accidentes y cortesía urbana, conforme a las disposiciones aplicables; y
 
-IX. Formular, ejecutar y difundir programas de control y programas preventivos de ingestión de alcohol u otras sustancias tóxicas para conductores de vehículos.
+> <small>(REFORMADA, G.O. 21 DE OCTUBRE DE 2008)</small>
+
+IX.- Formular, ejecutar y difundir programas de control y preventivos en la ingesta de bebidas alcohólicas y consumo de estupefacientes, preferentemente en la cercanía de puntos de mayor consumo y vialidades de alta incidencia en accidentes automovilísticos.
 
 ### CAPÍTULO III. DE LA ESTRUCTURA POLICIAL
 
@@ -950,9 +954,15 @@ III. Desarrollar diagnósticos y programas comunitarios de prevención, para def
 
 IV. Capacitar y entrenar a los elementos de la policía en métodos de trabajo con la comunidad, estrategias de resolución de problemas, mediación y desarrollo de proyectos;
 
-V. Coordinar la actuación de la unidad de protección ciudadana correspondiente con otras dependencias o entidades públicas con el objeto de reducir la incidencia delictiva así como para resolver problemas específicos en rubros como lugares de venta de armas de fuego y de estupefacientes y psicotrópicos, prostitución, alumbrado público, limpia y recolección de basura, balizamiento, pavimentación, bacheo, banquetas, desazolve, poda, nomenclatura, espacios públicos, terrenos baldíos, infraestructura y mobiliario urbano, y en general sobre la prestación de servicios públicos en la zona; y
+V. Coordinar la actuación de la unidad de protección ciudadana correspondiente con otras dependencias o entidades públicas con el objeto de reducir la incidencia delictiva así como para resolver problemas específicos en rubros como lugares de venta de armas de fuego y de estupefacientes y psicotrópicos, prostitución, alumbrado público, limpia y recolección de basura, balizamiento, pavimentación, bacheo, banquetas, desazolve, poda, nomenclatura, espacios públicos, terrenos baldíos, infraestructura y mobiliario urbano, y en general sobre la prestación de servicios públicos en la zona; y (sic)
 
-VI. Realizar jornadas de seguridad y participación ciudadana, visitas de puerta a puerta, campañas de prevención, información y educación y de responsabilidad del ciudadano, en asuntos de competencia de la Secretaría.
+VI. Realizar jornadas de seguridad y participación ciudadana, visitas de puerta a puerta, campañas de prevención, información y educación y de responsabilidad del ciudadano, en asuntos de competencia de la Secretaría;
+
+> <small>(ADICIONADA, G.O. 21 DE OCTUBRE DE 2008)</small>
+
+VII. Realizar y difundir semestralmente, por unidades y coordinaciones territoriales, en escuelas públicas de nivel preescolar, primaria y secundaria, jornadas de difusión, prevención, educación y comunicación, respecto de temas relevantes en materia de seguridad pública tales como: actuación de los cuerpos de seguridad pública, efectos y consecuencias de las adicciones, educación peatonal, números de emergencia, zonas de peligro en la comunidad, comportamiento delictivo, delincuencia juvenil, prostitución, cultura de respeto, coordinación y confianza hacia los cuerpos policíacos, entre otros; con la finalidad de implementar en las futuras generaciones una cultura de prevención del delito, ética y conductas adecuadas, fortalecimiento de la seguridad pública y dignificación de los cuerpos policíacos.
+
+La Secretaría podrá celebrar los convenios necesarios con las instancias competentes, para implementar dichas jornadas de difusión, prevención, educación y comunicación, respecto de los temas previstos en esta fracción.
 
 ###### Artículo 63.
 
@@ -1031,3 +1041,19 @@ CUARTO.- De manera periódica y en atención a las plazas disponibles, la Secret
 Los elementos que rebasen la edad referida, se acogerán a los programas de retiro que para este efecto instrumente la Secretaría.
 
 QUINTO.- Por este único año, la Secretaría de Seguridad Pública del Distrito Federal, inmediato a la entrada en vigor del presente decreto, publicará en la Gaceta Oficial del Distrito Federal la lista de plazas disponibles para ascensos.
+
+g.O. 21 DE OCTUBRE DE 2008.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 3°, FRACCION XIX Y 34, FRACCION IX DE LA LEY ORGANICA DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- La presente reforma entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial para el Distrito Federal.
+
+G.O. 21 DE OCTUBRE DE 2008.
+
+DECRETO POR EL QUE SE ADICIONA UNA FRACCION VII, AL ARTICULO 62 DE LA LEY ORGANICA DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- La presente reforma entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial para el Distrito Federal.
