@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2008-10-10"
+last_updated: "2008-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE OCTUBRE DE 2008.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -9335,9 +9335,11 @@ ARTICULO 1,925.- Los jefes de casa o los dueños de hoteles o casas de hospedaje
 
 ARTICULO 1,926.- En los casos previstos por los artículos 1923, 1924 y 1925 el que sufra el daño puede exigir la reparación directamente del responsable, en los términos de este Capítulo.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL DISTRITO FEDERAL.</small>
 
-ARTICULO 1,927.- El Estado tiene obligación de responder del pago de los daños y perjuicios causados por sus servidores públicos con motivo del ejercicio de las atribuciones que les estén encomendadas. Esta responsabilidad será solidaria tratándose de actos ilícitos dolosos, y subsidiaria en los demás casos, en los que sólo podrá hacerse efectiva en contra del Estado cuando el servidor público directamente responsable no tenga bienes o los que tenga no sean suficientes para responder de los daños y perjuicios causados por sus servidores públicos.
+> <small>(REFORMADO, G.O. 21 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 1,927.- El Estado tiene obligación de responder del pago de los daños causado por sus empleados y servidores públicos con motivo del ejercicio de las atribuciones que les estén encomendadas. Esta responsabilidad será objetiva y directa por la actividad administrativa irregular conforme a la Ley de la materia y en los demás casos en términos del presente Código.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -14068,3 +14070,21 @@ Segundo.- El presente decreto entrará en vigor a los treinta días hábiles sig
 Tercero.- Los juicios actualmente en trámite que tengan por objeto la rectificación o modificación de las actas el (sic) estado civil de las personas continuarán tramitándose en la vía en que hayan sido admitidos.
 
 Cuarto.- A partir de la publicación del presente Decreto, el Jefe del Gobierno de Distrito Federal deberá realizar las adecuaciones jurídicas administrativas necesarias, en un plazo de sesenta días naturales.
+
+G.O. 21 DE OCTUBRE DE 2008.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO QUE SE RELACIONA CON EL CODIGO.
+
+PRIMERO.- La presente ley entrará en vigor a partir del 1° de enero del año 2009.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- Los asuntos que se encuentren en trámite en las dependencias, entidades o en la Contraloría General del Distrito Federal, relacionados con la indemnización a los particulares, derivada de las faltas administrativas en que hubieran incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo a las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
+
+CUARTO.- Los asuntos que se encuentren en trámite ante las Salas del Tribunal de los (sic) Contencioso Administrativo del Distrito Federal, relacionados con la responsabilidad patrimonial de dicha entidad federativa, se atenderán hasta su total terminación, de acuerdo a las disposiciones aplicables a la fecha en que inició el juicio contencioso-administrativo correspondiente.
+
+QUINTO.- El Decreto de Presupuesto de Egresos para el ejercicio fiscal del año 2009 deberá contener el monto y las partidas que se destinarán a cubrir los compromisos derivados de la responsabilidad patrimonial de los Entes Públicos, órganos locales de gobierno del Distrito Federal, entidades, dependencias, órganos político administrativos y órganos autónomos.
+
+...
+
+SÉPTIMO.- La reforma al artículo 1927 del Código Civil para el Distrito Federal, entrará en vigor el 1º de enero de 2009.
