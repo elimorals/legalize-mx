@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-procuraduria-general-de-justicia-del-13193"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-19"
-last_updated: "2006-09-12"
+last_updated: "2008-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de diciembre de 1998.
 
@@ -155,7 +155,11 @@ VIII. Un Subprocurador Regional Zona Altiplano, con sede en la cabecera municipa
 
 IX. Un Subprocurador Especializado para la atención de Delitos Sexuales y Violencia Familiar;
 
-X. Un Subprocurador Especializado para la Atención de las Etnias del Estado, con sede en la cabecera municipal de Tancanhuitz de Santos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2008)</small>
+
+X. Un Subprocurador de Asuntos Indígenas en el Estado; con sede en el municipio de Tancanhuitz. S.L.P., que contará con agencias del Ministerio Público Especializadas en Asuntos Indígenas, con sede en la cabecera del municipio de Cárdenas. S.L.P.; y una sede en cada una de las cabeceras de los municipios de Tamazunchale, S.L.P., y Xilitla.S.L.P.;
 
 XI. Un Director de Averiguaciones Previas;
 
@@ -319,7 +323,11 @@ Los Subprocuradores serán designados y removidos libremente por el Procurador G
 
 Los Subprocuradores podrán ser generales, regionales y especializados, y en el ejercicio de sus funciones tendrán el carácter de Ministerio Público.
 
-Para ser Subprocurador se requiere reunir los mismos requisitos que para ser Procurador. Tratándose del Subprocurador de Etnias, además deberá hablar y escribir, cuando menos una lengua indígena de las imperantes en la entidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2008)</small>
+
+Para ser Subprocurador se requiere reunir los mismos requisitos que para ser Procurador. Tratándose del Subprocurador Especializado en Asuntos Indígenas, además, deberá hablar y escribir cuando menos una lengua indígena de las imperantes en la Entidad, y tener conocimiento del marco jurídico en materia indígena; así como la historia, los sistemas normativos, cultura, tradiciones, usos y costumbres de los pueblos y comunidades indígenas del Estado.
 
 ###### ARTICULO 13.
 
@@ -355,17 +363,31 @@ IV. Las que le delegue expresamente el Procurador, y
 
 V. Las que señale el Reglamento del presente ordenamiento y las leyes respectivas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2008)</small>
+
 ###### ARTICULO 16.
 
-El Subprocurador Especializado para la Atención de las Etnias tendrá las siguientes atribuciones:
+La Subprocuraduría de Asuntos Indígenas tendrá las siguientes atribuciones:
 
-I. Atender primordialmente los asuntos de la población indígena del Estado;
+I. Velar por el respeto de las garantías constitucionales y legales de las personas indígenas que intervienen en asuntos del orden penal;
 
-II. Organizar, controlar y vigilar la actuación de los Agentes del Ministerio Público de Etnias y de la Policía Ministerial;
+II. Proponer, al Procurador General de Justicia, la política de atención de casos y asuntos de comunidades y personas indígenas del Estado;
 
-III. Las que le delegue expresamente el Procurador, y
+III. Garantizar que las personas indígenas que intervienen en una investigación penal, cuenten en todo momento, con un traductor que hable y entienda su lengua indígena, en términos de lo dispuesto por el Código de Procedimientos Penales para el Estado de San Luis Potosí;
 
-IV. Las que señale el Reglamento del presente ordenamiento y las leyes respectivas.
+IV. Solicitar el auxilio de las instituciones especializadas en la materia, tales como, la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, o instituciones académicas, para la elaboración de los estudios sociológicos y antropológicos conducentes y, celebrar con las mismas, los convenios que fueran necesarios;
+
+V. Capacitar a su personal administrativo y ministerial, en materia de derechos y cultura indígena; así como respecto al conocimiento del marco histórico-jurídico relativo a los sistemas normativos indígenas; y promoverá la capacitación de aquéllos que no dominen la lengua indígena de la zona en la que están asignados;
+
+VI. Proporcionar la protección a las personas indígenas víctimas del delito, en los términos de lo que dispone el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos;
+
+VII. Organizar, controlar y vigilar la actuación de los agentes del Ministerio Público Especializado en Asuntos Indígenas, y de los agentes de la policía ministerial de su adscripción; y elegirá para esos cargos, a quienes hablen la lengua de la zona indígena a la que sean asignados;
+
+VIII. Las que le delegue el Procurador General de Justicia, y
+
+IX. Las que señalen el Reglamento de la presente Ley y demás disposiciones aplicables.
 
 ### CAPITULO IV. DE LAS DIRECCIONES
 
@@ -808,3 +830,9 @@ c) El Director del Centro de Readaptación Social para Menores, "Profesor Angel 
 Las medidas impuestas, tanto las de internamiento, como las de externación, serán adecuadas por el Juez de Ejecución.
 
 d) Si las autoridades del Consejo Tutelar par Menores del Estado tuvieren detenidos a menores de catorce años, ordenarán su inmediata libertad. Los nuevos órganos y autoridades proseguirán con el trámite del procedimiento, de acuerdo con las reglas de la Ley de Justicia para Menores del Estado de San Luis Potosí, salvo en los aspectos en que resulte más benéfica para el menor, la aplicación de la ley que se abroga.
+
+P.O. 21 DE OCTUBRE DE 2008.
+
+PRIMERO. Este Decreto entrará en vigor el día uno de enero del año 2009.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
