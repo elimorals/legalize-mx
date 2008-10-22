@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-para-el-distrito-federal-265"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-15"
-last_updated: "2008-10-01"
+last_updated: "2008-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=265&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1986-12-19"
 
 LEY DE SALUD PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE OCTUBRE DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 15 de enero de 1987.
 
@@ -646,13 +646,173 @@ Cuando se imponga una multa, con motivo del ejercicio de las facultades que en m
 
 El Gobierno con la intervención que corresponda al Comité de Planeación para el Desarrollo del Distrito Federal, definirá la forma de coordinación y colaboración en materia de planeación de los servicios de salud, de conformidad con las disposiciones de esta Ley, y las que al efecto sean aplicables.
 
-### CAPITULO I. De los Conceptos Básicos
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.O. 22 DE OCTUBRE DE 2008)</small>
+
+### CAPITULO III. De la Donación y Trasplantes en el Distrito Federal
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 22 DE OCTUBRE DE 2008)</small>
+
+#### SECCION PRIMERA. Disposiciones Generales
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 22 DE OCTUBRE DE 2008)</small>
+
+###### ARTICULO 20 Bis 1.
+
+Todo lo relacionado a la disposición de órganos y tejidos de seres humanos con fines terapéuticos, se regirá conforme a lo establecido en la Ley General de Salud, sus disposiciones reglamentarias y las normas oficiales mexicanas correspondientes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 22 DE OCTUBRE DE 2008)</small>
+
+###### ARTICULO 20 Bis 2.
+
+Toda persona es disponente de los órganos y tejidos de su cuerpo y podrá donarlo para los fines y con los requisitos previstos en el presente capítulo. En todo momento deberá respetarse la decisión del donante. Las autoridades garantizarán el cumplimiento de esta voluntad.
+
+Se considerará disposición ilícita de órganos y tejidos de seres humanos toda aquella que se efectué sin estar autorizada por la Ley.
+
+Esta prohibido el comercio de órganos y tejidos de seres humanos. La donación de los mismos con fines de trasplantes, se regirá por principios de altruismo, ausencia de ánimo de lucro y confidencialidad, por lo que su obtención y utilización serán estrictamente a título gratuito.
+
+Sólo en caso de que la pérdida de la vida del donante este relacionada con la averiguación de un delito, se dará intervención al Ministerio Público y a la Autoridad Judicial, para la extracción de órganos y tejidos, de conformidad a las disposiciones aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 22 DE OCTUBRE DE 2008)</small>
+
+###### ARTICULO 20 Bis 3.
+
+La cultura de donación de órganos y tejidos es de interés público. El Gobierno del Distrito Federal implementará programas permanentes destinados a difundir la importancia de la donación de órganos y tejidos, en coordinación con el Centro Nacional de Trasplantes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 22 DE OCTUBRE DE 2008)</small>
+
+#### SECCION SEGUNDA. Del Consejo de Trasplantes del Distrito Federal
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 22 DE OCTUBRE DE 2008)</small>
+
+###### ARTICULO 20 Bis 4.
+
+El Consejo de Trasplantes del Distrito Federal es el órgano colegiado del Gobierno del Distrito Federal, que tiene a su cargo apoyar, coordinar, promover y consolidar las estrategias, programas y en materia de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, así como vigilar la asignación de éstos de conformidad con la legislación aplicable.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 22 DE OCTUBRE DE 2008)</small>
+
+###### ARTICULO 20 Bis 5.
+
+El Consejo de Trasplantes del Distrito Federal se integra por:
+
+I. El Jefe de Gobierno del Distrito Federal, quien será el Presidente;
+
+II. El Secretario de Salud del Distrito Federal, quien fungirá como Vicepresidente;
+
+III. El Procurador General de Justicia del Distrito Federal;
+
+IV. El Secretario de Educación del Distrito Federal;
+
+V. El Secretario de Finanzas del Distrito Federal;
+
+VI. Un Diputado de la Asamblea Legislativa del Distrito Federal;
+
+VII. Un representante del Tribunal Superior de Justicia del Distrito Federal;
+
+VIII. Un representante del Colegio de Notarios del Distrito Federal;
+
+IX. Un representante de las instituciones privadas de salud del Distrito Federal, designado conforme se establezca en el Reglamento Interior del Consejo, y
+
+X. El titular del Programa de Transplantes del Distrito Federal.
+
+El Consejo contará con un Secretario Técnico que será propuesto por el Presidente, con las responsabilidades que le señale su Reglamento Interior.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 22 DE OCTUBRE DE 2008)</small>
+
+###### ARTICULO 20 Bis 6.
+
+El Consejo de Trasplantes del Distrito Federal tendrá las atribuciones siguientes:
+
+I. Dirigir y orientar el Sistema de Trasplantes del Distrito Federal, de conformidad a las disposiciones en la materia;
+
+II. Aprobar el Programa de Donación y Trasplantes del Distrito Federal que ponga a su consideración el Director del Centro de Trasplantes del Distrito Federal, el cual deberá guardar congruencia con el Programa Nacional que elabore la Secretaría de Salud;
+
+III. Expedir su Reglamento Interno;
+
+IV. Promover una cultura social de donación de órganos y tejidos;
+
+V. Fomentar el estudio y la investigación de todo lo referente a la donación y trasplante de órganos y tejidos;
+
+VI. Alentar la participación de los sectores social y privado en materia de la donación y trasplante de órganos y tejidos;
+
+VII. Aprobar sus normas, lineamientos y políticas internas; y
+
+VIII. Las demás que le otorgue la presente Ley y otras disposiciones legales vigentes y aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 22 DE OCTUBRE DE 2008)</small>
+
+###### ARTICULO 20 Bis 7.
+
+El Consejo sesionará por lo menos dos veces al año y de manera extraordinaria cuando lo convoque su Secretario Técnico.
+
+A sus sesiones podrán ser invitados especialistas, funcionarios o representantes de instituciones y organizaciones, vinculados a la donación y trasplante de órganos y tejidos.
+
+Su organización y funcionamiento será establecido en su Reglamento interno.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 22 DE OCTUBRE DE 2008)</small>
+
+#### SECCION TERCERA. Del Centro de Trasplantes del Distrito Federal
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 22 DE OCTUBRE DE 2008)</small>
+
+###### ARTICULO 20 Bis 8.
+
+El Centro de Trasplantes del Distrito Federal es la unidad administrativa desconcentrada de la Secretaría de Salud del Distrito Federal, responsable de aplicar el Programa de Donación y Trasplantes del Distrito Federal, de conformidad a las disposiciones legales aplicables, con las atribuciones siguientes:
+
+I. Decidir y vigilar la asignación de órganos y tejidos en el Distrito Federal, de conformidad con las disposiciones aplicables;
+
+II. Participar en las actividades y programas del Consejo Nacional de Trasplantes, en los términos de las disposiciones aplicables;
+
+III. Integrar el Consejo Estatal de Trasplantes del Distrito Federal;
+
+IV. Tener a su cargo y actualizar la información correspondiente a la entidad, para proporcionarla al Registro Nacional de Trasplantes;
+
+V. Diseñar e implementar, en el ámbito de sus facultades, el Programa de Donación y Trasplantes del Distrito Federal, mismo que una vez aprobado será integrado Programa Operativo Anual de la Secretaria de Salud del Distrito Federal;
+
+VI. Proponer, a las autoridades competentes, políticas, estrategias y acciones en materia de donación y transplantes, incluyendo aquellas relacionadas con los ámbitos de investigación, difusión, promoción de una cultura de donación de órganos y tejidos, colaboración interinstitucional, formación, capacitación y especialización médica, así como de evaluación y control, entre otras.
+
+VII. Participar con la Coordinación Especializada en materia de Voluntad Anticipada de la Secretaría de Salud del Distrito Federal, en relación con la promoción y difusión de la cultura de donación de órganos y tejidos;
+
+VIII. Coordinar la participación de las dependencias y entidades del gobierno del Distrito Federal, en la instrumentación del Programa de Donación y Trasplantes del Distrito Federal;
+
+IX. Promover la colaboración entre las autoridades sanitarias federales y locales involucradas en lo relacionado a la disposición de órganos y tejidos de seres humanos con fines terapéuticos, así como con los Consejos Estatales de Trasplantes;
+
+X. Celebrar convenios y acuerdos de colaboración y cooperación con instituciones, organismos, fundaciones y asociaciones públicas o privadas dedicadas a la promoción, difusión, asignación, donación y trasplante de órganos y tejidos;
+
+XI. Proponer a las autoridades competentes, la autorización, revocación o cancelación de las autorizaciones sanitarias y registros de los establecimientos o profesionales dedicados a la disposición de órganos y tejidos con fines de trasplantes;
+
+XII. Elaborar su presupuesto anual a efecto de someterlo a la consideración del titular de la Secretaría de Salud del Distrito Federal para que sea integrado en el Presupuesto de Egresos de la dependencia;
+
+XIII. Coadyuvar con las autoridades competentes en la prevención y combate de la disposición ilegal de órganos y tejidos humanos;
+
+XIV. Las demás que le otorgue la presente Ley y otras disposiciones legales vigentes y aplicables.
 
 ## TITULO SEGUNDO. De la Salubridad Local
 
-### CAPITULO II. De la Central de Abastos, los Mercados y Centros de Abasto
-
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
+### CAPITULO I. De los Conceptos Básicos
 
 ###### ARTICULO 21.
 
@@ -778,7 +938,7 @@ Para el funcionamiento de los establecimientos enunciados en el artículo 21 de 
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 30 DE MARZO DE 1999)</small>
 
-### CAPITULO III. De las Construcciones, Edificios y Fraccionamientos
+### CAPITULO II. De la Central de Abastos, los Mercados y Centros de Abasto
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -798,7 +958,7 @@ La Central de Abastos, los mercados y centros de abasto, serán objeto de verifi
 
 Los vendedores y personas cuya actividad esté vinculada con la Central de Abastos, los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénicas reglamentadas para el debido mantenimiento de sus locales o puestos.
 
-### CAPITULO IV. De los Cementerios, Crematorios y Funerarias
+### CAPITULO III. De las Construcciones, Edificios y Fraccionamientos
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -852,7 +1012,7 @@ Los establecimientos dedicados a actividades industriales, comerciales y de serv
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 30 DE MARZO DE 1999)</small>
 
-### CAPITULO V. De la Limpieza Pública
+### CAPITULO IV. De los Cementerios, Crematorios y Funerarias
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -874,7 +1034,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida el Gobierno, en lo dispuesto en la Ley Ambiental del Distrito Federal y las demás disposiciones que dicte la Secretaría.
 
-### CAPITULO VI. De los Rastros, Establos, Caballerizas y Otros Similares
+### CAPITULO V. De la Limpieza Pública
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -916,9 +1076,9 @@ El depósito final de los residuos sólidos deberá observar lo dispuesto en la 
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 30 DE MARZO DE 1999)</small>
 
-### CAPITULO VII. Del Agua Potable y Alcantarillado
+### CAPITULO VI. De los Rastros, Establos, Caballerizas y Otros Similares
 
-> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 41.
 
@@ -962,9 +1122,9 @@ Queda prohibido el funcionamiento de establos, caballerizas y otros similares qu
 
 El manejo, disposición y expendio de la carne para consumo humano y sus derivados se sujetará a las acciones de verificación sanitaria establecidas en las disposiciones emitidas por la Secretaría.
 
-### CAPITULO VIII. De los Reclusorios y Centros de Readaptación Social
+### CAPITULO VII. Del Agua Potable y Alcantarillado
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 44.
 
@@ -1012,9 +1172,9 @@ El Gobierno vigilará y procurará que todas las Delegaciones cuenten con sistem
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 30 DE MARZO DE 1999)</small>
 
-### CAPITULO IX. De las Albercas y Baños Públicos
+### CAPITULO VIII. De los Reclusorios y Centros de Readaptación Social
 
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
 
 ###### Artículo 51.
 
@@ -1032,9 +1192,9 @@ Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el t
 
 El personal médico deberá, a partir de que tengan conocimiento de alguna enfermedad transmisible, proceder a adoptar las medidas de seguridad sanitaria previstas en el Capítulo I del Título Quinto de esta Ley, para evitar su propagación, así como informar en un plazo no mayor de 24 horas al Gobierno.
 
-### CAPITULO X. De los Centros de Reunión y Espectáculos Públicos
+### CAPITULO IX. De las Albercas y Baños Públicos
 
-> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 53.
 
@@ -1048,7 +1208,9 @@ Estos establecimientos deberán contar con personal capacitado y un sistema de v
 
 Igualmente con el objeto de prestar los primeros auxilios, contarán con botiquín completo que reúna los medicamentos y materiales de curación necesarios y autorizados por el Gobierno, el que se ubicará en un lugar visible y apropiado para esta finalidad.
 
-### CAPITULO XI. Establecimientos que Prestan Servicios de Peluquería, Masajes, Salones de Belleza, Estéticas, y en General Establecimientos de esta Indole
+### CAPITULO X. De los Centros de Reunión y Espectáculos Públicos
+
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 55.
 
@@ -1068,9 +1230,7 @@ Los establecimientos cubiertos y descubiertos dedicados al fisicoculturismo, a e
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 30 DE MARZO DE 1999)</small>
 
-### CAPITULO XII. De los Establecimientos de Hospedaje
-
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
+### CAPITULO XI. Establecimientos que Prestan Servicios de Peluquería, Masajes, Salones de Belleza, Estéticas, y en General Establecimientos de esta Indole
 
 ###### ARTICULO 57.
 
@@ -1082,7 +1242,7 @@ Está prohibido utilizar productos de belleza no autorizados ni registrados por 
 
 Los procedimientos de embellecimiento del cuerpo humano, son aquellos que se utilizan para modificar las características externas y superficiales, mediante la aplicación de substancias, productos o preparados de uso externo, los destinados a incrementar la belleza del cuerpo humano o a mejorar su apariencia física y en lo que no haya intervención quirúrgica o la aplicación de cualquier procedimiento de atención médica.
 
-### CAPITULO XIII. Del Transporte Urbano y Suburbano
+### CAPITULO XII. De los Establecimientos de Hospedaje
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -1092,7 +1252,7 @@ En los establecimientos de hospedaje se contará necesariamente con los elemento
 
 En caso de contar con los servicios complementarios como restaurantes, servicio de bar, peluquería, sala de belleza, baños, lavandería y tintorería, éstos quedarán sujetos a las normas y requisitos que fijen los capítulos correspondientes de este ordenamiento y de sus reglamentos respectivos.
 
-### CAPITULO XIV. De las Gasolineras y Estaciones de Servicios Similares
+### CAPITULO XIII. Del Transporte Urbano y Suburbano
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -1102,7 +1262,7 @@ El Gobierno vigilará y establecerá los controles para que la prestación de es
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 30 DE MARZO DE 1999)</small>
 
-### CAPITULO XV. De la Venta de Alimentos en la Vía Pública
+### CAPITULO XIV. De las Gasolineras y Estaciones de Servicios Similares
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -1114,7 +1274,7 @@ Se pondrá especial atención en que los servicios sanitarios estén disponibles
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 30 DE MARZO DE 1999)</small>
 
-### CAPITULO I. De las Autorizaciones
+### CAPITULO XV. De la Venta de Alimentos en la Vía Pública
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -1124,7 +1284,7 @@ La venta de alimentos en vía pública deberá cumplir con las condiciones higi�
 
 ## TITULO TERCERO. De las Autorizaciones y los Certificados
 
-### CAPITULO II. De la Revocación de Autorizaciones
+### CAPITULO I. De las Autorizaciones
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -1196,7 +1356,7 @@ II.- El embalsamamiento y traslado de cadáveres, y
 
 III.- Los demás casos que señalen esta Ley y otras disposiciones legales aplicables.
 
-### CAPITULO III. De los Certificados
+### CAPITULO II. De la Revocación de Autorizaciones
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -1252,7 +1412,7 @@ El Gobierno emitirá la resolución que corresponda al concluir la audiencia o d
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de venta, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO UNICO
+### CAPITULO III. De los Certificados
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -1292,7 +1452,7 @@ Los certificados a que se refiere este capítulo se extenderán en los modelos a
 
 ## TITULO CUARTO. De la Vigilancia Sanitaria
 
-### CAPITULO I. De las Medidas de Seguridad Sanitaria
+### CAPITULO UNICO
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -1374,7 +1534,7 @@ El procedimiento de muestreo no impide que la autoridad sanitaria competente eje
 
 ## TITULO QUINTO. Medidas de Seguridad, y Sanciones
 
-### CAPITULO II. De las Sanciones Administrativas
+### CAPITULO I. De las Medidas de Seguridad Sanitaria
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -1446,7 +1606,7 @@ XII.- La orientación y vigilancia de quienes ejercen el sexoservicio y de quien
 
 XIII.- Las demás de índole sanitaria que determinen las autoridades sanitarias competentes, que puedan evitar que se causen o continúen causando riesgos o daños a la salud.
 
-### CAPITULO III. Del Recurso de Inconformidad
+### CAPITULO II. De las Sanciones Administrativas
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -1586,7 +1746,9 @@ En los casos de suspensión de trabajos o de servicios o de clausura temporal o 
 
 Sin perjuicio de la imposición de las sanciones procedentes, cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, el Gobierno, formulará la denuncia correspondiente ante el Ministerio Público.
 
-### CAPITULO IV. De la Prescripción
+### CAPITULO III. Del Recurso de Inconformidad
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 105.
 
@@ -1685,6 +1847,8 @@ b).- Cuando la ejecución del acto o resolución causen al recurrente, daños y 
 ###### ARTICULO 112.
 
 En la tramitación del recurso de inconformidad, se aplicará supletoriamente la Ley de Procedimiento Administrativo del Distrito Federal.
+
+### CAPITULO IV. De la Prescripción
 
 ###### ARTICULO 113.
 
@@ -1827,3 +1991,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en la
 Publíquese en la Gaceta Oficial del Distrito Federal para su mayor difusión.
 
 ...
+
+G.O. 22 DE OCTUBRE DE 2008.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal y, para su mayor difusión, en el Diario Oficial de la Federación.
+
+Segundo.- Este Decreto entrará en vigor 30 días después de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- El Consejo de Trasplantes del Distrito Federal deberá ser instalado 60 días posteriores a la publicación del presente Decreto.
+
+Cuarto.- La Asamblea Legislativa del Distrito Federal dispondrá las medidas presupuestales necesarias para la correcta instalación y funcionamiento del Centro de Trasplantes del Distrito Federal en los Presupuestos de Egresos del Distrito Federal de 2008 y sucesivos, entre los cuales, se asignarán recursos para la realización de campañas permanentes para la creación y fomento de una cultura de donación de órganos y tejidos.
+
+Quinto.- Las presentes reformas derogan en lo conducente y aplicable lo establecido en el artículo Séptimo Transitorio del Decreto de creación de la Ley de Voluntad Anticipada para el Distrito Federal, en relación con las facultades en materia de donación de órganos y tejidos.
