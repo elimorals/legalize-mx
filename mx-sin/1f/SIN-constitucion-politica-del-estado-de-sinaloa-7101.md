@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2008-05-26"
+last_updated: "2008-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2008.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -555,11 +555,13 @@ En los últimos tres casos, la convocatoria se hará por conducto de la misma Di
 
 Si el Congreso estuviere en período extraordinario de sesiones cuando deba comenzar el ordinario, cerrará aquél para inaugurar éste. A la apertura y clausura de todo período extraordinario de sesiones o prórroga del ordinario, deberán preceder los decretos respectivos.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2008)</small>
 
 ###### Art. 40.
 
-El quince de noviembre de cada año, el Ejecutivo del Estado enviará al Congreso del Estado un informe por escrito sobre la situación que guarda la Administración Pública. Una vez recibido el informe, dentro de los quince días siguientes, el Congreso celebrará reunión de trabajo, en los términos de su Ley Orgánica, con el titular del Ejecutivo y los miembros de su gabinete, para la valoración y análisis del informe rendido.
+El quince de noviembre de cada año, el Ejecutivo del Estado enviará al Congreso del Estado un informe por escrito sobre la situación que guarda la Administración Pública.
+
+El Congreso del Estado realizará el análisis del informe y podrá solicitar al titular del Ejecutivo del Estado ampliar la información mediante pregunta por escrito y citar a los Secretarios, al Procurador General del Estado, a los directores de las entidades paraestatales quienes comparecerán y rendirán informes bajo protesta de decir verdad. La Ley Orgánica del Congreso regulará el ejercicio de esta facultad.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1961)</small>
 
@@ -793,11 +795,15 @@ Las leyes y decretos son obligatorios desde el día siguiente al de su promulgac
 
 #### SECCION IV. DE LA DIPUTACION PERMANENTE
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2008)</small>
 
 ###### Art. 49.
 
-Durante los recesos del Congreso del Estado, habrá una Diputación Permanente compuesta de once miembros, de los cuales funcionarán siete como propietarios y cuatro como suplentes generales. Los miembros de la Diputación Permanente serán elegidos por mayoría de votos, de los Diputados presentes, en la víspera de la clausura del período de sesiones, o de su prórroga en su caso.
+Durante los recesos del Congreso del Estado, habrá una Diputación Permanente que se integrará bajo la fórmula de nueve Propietarios y nueve Suplentes. Cada Grupo Parlamentario contará, como mínimo, con un representante propietario y su respectivo suplente.
+
+Los miembros de la Diputación Permanente serán elegidos por mayoría de votos de los Diputados presentes, en la última sesión de cada Período Ordinario de Sesiones de ejercicio constitucional.
 
 ###### Art. 50.
 
@@ -1071,11 +1077,15 @@ Los Secretarios y Sub-Secretarios de los diversos ramos de la Administración P�
 
 Para ser válidos los decretos, reglamentos y acuerdos del Gobernador, deberán estar firmados por éste y por el Secretario encargado del Ramo a que el asunto corresponda, de los que serán solidariamente responsables.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2008)</small>
 
 ###### Art. 70.
 
-El Congreso del Estado podrá citar a cualesquiera de los Secretarios de los diversos ramos de la Administración del Poder Ejecutivo, así como a los titulares de las Unidades Administrativas, Organismos Descentralizados y Desconcentrados de carácter estatal, para que informen cuando se discuta una Ley o Decreto o se estudie un negocio concerniente a sus respectivos ramos o actividades.
+Los Secretarios de la Administración Pública Estatal, al inicio de cada Período Ordinario de Sesiones, enviarán al Congreso del Estado un informe por escrito sobre la situación que guarda la Secretaría a su cargo.
+
+El Congreso del Estado podrá convocar a los Secretarios de Estado, al Procurador General de Justicia del Estado, a los Directores de las entidades paraestatales, así como a los titulares de los órganos autónomos, unidades administrativas, organismos descentralizados y desconcentrados o de carácter estatal para que informen bajo protesta de decir verdad, cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades o para que respondan a interpelaciones o preguntas.
+
+El Congreso del Estado podrá requerir información o documentación a los titulares de las dependencias y entidades del gobierno estatal, mediante pregunta por escrito, la cual deberá ser respondida en un término no mayor de 15 días naturales a partir de su recepción. El ejercicio de estas atribuciones se realizará de conformidad con la Ley Orgánica del Congreso del Estado.
 
 > <small>(REFORMADO P.O. 27 DE FEBRERO DE 1985)</small>
 
@@ -3222,6 +3232,16 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 En tanto no se aprueben reformas a la Ley de los Trabajadores al Servicio del Estado de Sinaloa o se expida una nueva ley de pensiones, para establecer la instancia que aprobará las pensiones previamente propuestas por el Ejecutivo Estatal, el Congreso del Estado, continuará ejerciendo dicha facultad.
+
+P.O. 22 DE OCTUBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa", exclusivamente por lo que hace a sus artículos 40 y 70.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones contenidas en el artículo 49 de este Decreto, iniciarán su vigencia el día 2 de abril de 2009, siempre y cuando se hayan aprobado y publicado en el Periódico Oficial "El Estado de Sinaloa", las correspondientes modificaciones a la legislación secundaria.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57 POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
 
