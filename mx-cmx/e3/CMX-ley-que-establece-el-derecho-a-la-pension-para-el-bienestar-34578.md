@@ -4,7 +4,7 @@ identifier: "CMX-ley-que-establece-el-derecho-a-la-pension-para-el-bienestar-345
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-18"
-last_updated: "2007-02-16"
+last_updated: "2008-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34578&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,15 +20,19 @@ issue_date: "2003-11-13"
 ---
 # LEY QUE ESTABLECE EL DERECHO A LA PENSION PARA EL BIENESTAR DE LAS PERSONAS MAYORES, RESIDENTES EN LA CIUDAD DE MEXICO -- ANTES LEY QUE ESTABLECE EL DERECHO A LA PENSION ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS, RESIDENTES EN LA CIUDAD DE MEXICO -- ANTES LEY QUE ESTABLECE EL DERECHO A LA PENSION ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS, RESIDENTES EN EL DISTRITO FEDERAL --
 
-LEY QUE ESTABLECE EL DERECHO A LA PENSION ALIMENTARIA PARA LOS ADULTOS MAYORES DE SETENTA AÑOS, RESIDENTES EN EL DISTRITO FEDERAL
+LEY QUE ESTABLECE EL DERECHO A LA PENSION ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS, RESIDENTES EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE OCTUBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 18 de noviembre de 2003.
 
 (Al margen superior izquierdo dos escudos que dicen: GOBIERNO DEL DISTRITO FEDERAL.- México.- La Ciudad de la Esperanza.- JEFE DE GOBIERNO DEL DISTRITO FEDERAL)
 
-LEY QUE ESTABLECE EL DERECHO A LA PENSION ALIMENTARIA PARA LOS ADULTOS MAYORES DE SETENTA AÑOS, RESIDENTES EN EL DISTRITO FEDERAL.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 22 DE OCTUBRE DE 2008)</small>
+
+LEY QUE ESTABLECE EL DERECHO A LA PENSIÓN ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS, RESIDENTES EN EL DISTRITO FEDERAL.
 
 ANDRÉS MANUEL LÓPEZ OBRADOR, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed:
 
@@ -44,15 +48,27 @@ III LEGISLATURA
 
 D E C R E T A :
 
-LEY QUE ESTABLECE EL DERECHO A LA PENSION ALIMENTARIA PARA LOS ADULTOS MAYORES DE SETENTA AÑOS, RESIDENTES EN EL DISTRITO FEDERAL.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 22 DE OCTUBRE DE 2008)</small>
+
+LEY QUE ESTABLECE EL DERECHO A LA PENSIÓN ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS, RESIDENTES EN EL DISTRITO FEDERAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 22 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 1.
 
-Los adultos mayores de setenta años, residentes en el Distrito Federal tienen derecho a recibir una pensión diaria no menor a la mitad del salario mínimo vigente en el Distrito Federal.
+Los adultos mayores de sesenta y ocho años, residentes en el Distrito Federal tienen derecho a recibir una pensión diaria no menor a la mitad del salario mínimo vigente en el Distrito Federal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 22 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 2.
 
-El Jefe de Gobierno del Distrito Federal deberá incluir en el Proyecto de Presupuesto de Egresos del Distrito Federal, la asignación que garantice, efectivamente, el derecho a la pensión alimentaria a todos los adultos mayores de setenta años, residentes en el Distrito Federal.
+El Jefe de Gobierno del Distrito Federal deberá incluir en el Proyecto de Presupuesto de Egresos del Distrito Federal, la asignación que garantice, efectivamente, el derecho a la pensión alimentaria a todos los adultos mayores de sesenta y ocho años, residentes en el Distrito Federal.
 
 ###### Artículo 3.
 
@@ -89,3 +105,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 TERCERO.- El Gobierno del Distrito Federal tomará las medidas necesarias para la debida instrumentación y el uso de la tarjeta electrónica a que se refiere el artículo 4 de la ley que se reforma por el presente decreto. Para lo cual se considerarán los criterios de los representantes de los locatarios de los mercados públicos y una vez concluidos los trabajos relativos a la adecuación de los sistemas, procedimientos e instrumentos, el Gobierno del Distrito Federal publicará en la Gaceta Oficial del Distrito Federal, el Aviso que da inicio a la operación de la tarjeta electrónica en los mercados públicos del Distrito Federal.
+
+G.O. 22 DE OCTUBRE DE 2008.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su entrada en vigor y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor el 1 de septiembre de 2009.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+CUARTO.- En un periodo no mayor de 60 días contado a partir de la entrada en vigor de las presentes reformas, el Jefe de Gobierno del Distrito Federal deberá publicar las reformas y adecuaciones necesarias al Reglamento de la Ley.
