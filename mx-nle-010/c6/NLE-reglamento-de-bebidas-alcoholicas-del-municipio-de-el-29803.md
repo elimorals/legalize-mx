@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-bebidas-alcoholicas-del-municipio-de-el-29803"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-03-31"
-last_updated: "2003-03-31"
+last_updated: "2008-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE BEBIDAS ALCOHOLICAS DEL MUNICIPIO DE EL CARMEN, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2008.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el lunes 31 de marzo de 2003.
 
@@ -245,15 +245,19 @@ XXI.- No permitir el consumo de bebidas alcohólicas y/o cerveza en el interior,
 
 Solo para la venta de cerveza, y/u otras bebidas alcohólicas, los negocios que a continuación se detallan se sujetarán a los horarios que se señalan:
 
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2008)</small>
+
 I).- DEPOSITOS Y SUB-AGENCIAS.- Son los giros comerciales que se dedican a la venta de cerveza y/o bebidas alcohólicas al menudeo en botella cerrada y/o por cajas para llevar.
 
 Solo podrán funcionar:
 
 DE LUNES A VIERNES: DE LAS 8:00 A LAS 23:00 HRS.
 
-LOS SABADOS: DE LAS 8:00 A LAS 24:00 HRS.
+LOS SÁBADOS: DE LAS 8:00 A LAS 24:00 HRS.
 
 LOS DOMINGOS: DE LAS 8:00 A LAS 21:00 HRS.
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2008)</small>
 
 II).- ABARROTES.- Son los establecimientos que venden artículos alimenticios y comestibles y que además venden cerveza y/o bebidas alcohólicas al menudeo en botella cerrada o por cajas para llevar.
 
@@ -261,11 +265,13 @@ Solo podrán vender estos últimos productos en los siguientes horarios:
 
 DE LUNES A VIERNES: DE LAS 8:00 A LAS 23:00 HRS.
 
-LOS SABADOS: DE LAS 8:00 A LAS 24:00 HRS.
+LOS SÁBADOS: DE LAS 8:00 A LAS 24:00 HRS.
 
-LOS DOMINGOS: DE LAS 8:00 A LAS 21:00 HRS.
+LOS DOMINGOS: DE LAS 8:00 A LAS 18:00 HRS.
 
-Los domingos después de las 21:00 hrs. podrán permanecer abiertos, pero deberán abstenerse de vender cerveza, y/o bebidas alcohólicas.
+Los domingos después de las 18:00 hrs. Podrán permanecer abiertos, pero deberán abstenerse de vender cerveza, y/o bebidas alcohólicas.
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2008)</small>
 
 III).- SUPER Y MINI-SUPER.- Son aquellos giros comerciales que venden artículos de abarrotes, carnes, lácteos, laterías, y artículos básicos; además de cerveza y/o bebidas alcohólicas al menudeo en botella cerrada, o por cajas para llevar.
 
@@ -273,11 +279,13 @@ Sólo podrán vender estos últimos productos en los siguientes horarios:
 
 DE LUNES A VIERNES: DE LAS 8:00 A LAS 23:00 HRS.
 
-LOS SABADOS: DE LAS 8:00 A LAS 24:00 HRS.
+LOS SÁBADOS: DE LAS 8:00 A LAS 24:00 HRS.
 
-LOS DOMINGOS: DE LAS 8:00 A LAS 21:00 HRS.
+LOS DOMINGOS: DE LAS 8:00 A LAS 18:00 HRS.
 
-Los domingos después de las 21:00 horas, podrán permanecer abiertos, pero deberán abstenerse de vender cerveza y/o bebidas alcohólicas.
+Los domingos después de las 18:00 horas, podrán permanecer abiertos, pero deberán abstenerse de vender cerveza y/o bebidas alcohólicas.
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2008)</small>
 
 IV.- TIENDAS DE AUTOSERVICIO Y SUPERMERCADOS.- Son los negocios que por su giro comercial cuentan con todo tipo de satisfactores para los consumidores, y además, venden cerveza y/o bebidas alcohólicas al menudeo en botella cerrada.
 
@@ -285,11 +293,13 @@ Sólo podrán vender estos últimos productos en los siguientes horarios:
 
 DE LUNES A VIERNES: DE LAS 8:00 A LAS 23:00 HRS.
 
-LOS SABADOS: DE LAS 8:00 A LAS 24:00 HRS.
+LOS SÁBADOS: DE LAS 8:00 A LAS 24:00 HRS.
 
-LOS DOMINGOS: DE LAS 8:00 A LAS 21:00 HRS.
+LOS DOMINGOS: DE LAS 8:00 A LAS 18:00 HRS.
 
-Los domingos después de las 21:00 HRS. Podrán permanecer abiertos pero deberán abstenerse de vender cerveza, y/o bebidas alcohólicas.
+Los domingos después de las 18:00 hrs. Podrán permanecer abiertos pero deberán abstenerse de vender cerveza, y/o bebidas alcohólicas.
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2008)</small>
 
 V.- CANTINAS Y BARES.- Son los establecimientos que venden al menudeo cerveza y/o bebidas alcohólicas al copeo o en botella abierta. Esto para consumo inmediato dentro de sus instalaciones.
 
@@ -297,147 +307,149 @@ Sólo podrán funcionar en los siguientes horarios:
 
 DE LUNES A VIERNES: DE LAS 8:00 A LAS 24:00 HRS.
 
-SABADO: DE LAS 8:00 A LAS 1:00 HRS. DEL DIA SIGUIENTE.
+SÁBADO: DE LAS 8:00 A LAS 1:00 HRS. DEL DÍA SIGUIENTE.
 
-DOMINGO: DE LAS 8:00 A LAS 21:00 HRS.
+DOMINGO: DE LAS 8:00 A LAS 18:00 HRS.
 
-VI.- CERVECERIAS.- Son los negocios que venden exclusivamente cerveza en botella abierta o de barril para el consumo inmediato dentro de sus instalaciones. Sólo podrán funcionar en los siguientes horarios:
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2008)</small>
+
+VI.- CERVECERÍAS.- Son los negocios que venden exclusivamente cerveza en botella abierta o de barril para el consumo inmediato dentro de sus instalaciones. Sólo podrán funcionar en los siguientes horarios:
 
 DE LUNES A VIERNES: DE LAS 8:00 A LAS 24:00 HRS.
 
-SABADO: DE LAS 8:00 A LAS 1:00 HRS. DEL DIA SIGUIENTE.
+SÁBADO: DE LAS 8:00 A LAS 1:00 HRS. DEL DÍA SIGUIENTE.
 
-DOMINGO: DE LAS 8:00 A LAS 21:00 HRS.
+DOMINGO: DE LAS 8:00 A LAS 18:00 HRS.
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2008)</small>
 
 VII.- RESTAURANTES-BARES.- Son los establecimientos que comercian con productos alimenticios elaborados y procesados por ellos, que cuentan con un menú y que venden cerveza y/o bebidas alcohólicas al copeo o en botella abierta para consumo inmediato dentro de sus instalaciones.
 
-A estos negocios se les permitirá contar con una mesa de billar sin fines de lucro para esparcimiento de sus clientes y estarán sujetos a cubrir los siguientes requisitos:
+A éstos negocios se les permitirá contar con una mesa de billar sin fines de lucro para esparcimiento de sus clientes y estarán sujetos a cubrir los siguientes requisitos:
 
 a).- Abstenerse de permitir la entrada a menores de edad.
 
-b) En sus fachadas deberán contar con un anuncio que corresponda al giro para el cual fueron autorizados (RESTAURANTE - BAR).
+b) En sus fachadas deberán contar con un anuncio que corresponda al giro para el cual fueron autorizados (RESTAURANTE - BAR). Estos establecimientos estarán sujetos al siguiente horario:
 
-Estos establecimientos estarán sujetos al siguiente horario:
+DE LUNES A VIERNES DE LAS 8:00 A LAS 24:00 HRS.
 
-DE LUNES A VIERNES: DE LAS 8:00 A LAS 24:00 HRS.
+SABADO DE LAS 8:00 A LAS 1:00 HRS DEL DÍA SIGUIENTE.
 
-SABADO: DE LAS 8:00 A LAS 1:00 HRS. DEL DIA SIGUIENTE.
+DOMINGOS DE LAS 8:00 A LAS 18:00 HRS.
 
-DOMINGOS: DE LAS 8:00 A LAS 21:00 HRS.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2008)</small>
 
-VIII.- RESTAURANTES.- Son los negocios con ambiente estrictamente familiar, que comercian con productos alimenticios elaborados y procesados por ellos, que cuentan con un menú y que venden cerveza y/o bebidas alcohólicas al copeo o en botella abierta para el consumo inmediato dentro de sus instalaciones y en todos los casos sólo con el consumo de alimentos.
-
-Estos establecimientos estarán sujetos para la venta y consumo de bebidas alcohólicas al siguiente horario:
+VIII.- RESTAURANTES.- Son los negocios con ambiente estrictamente familiar, que comercian con productos alimenticios elaborados y procesados por ellos, que cuentan con un menú y que venden cerveza y/o bebidas alcohólicas al copeo o en botella abierta para el consumo inmediato dentro de sus instalaciones y en todos los casos sólo con el consumo de alimentos. Estos establecimientos estarán sujetos para la venta y consumo de bebidas alcohólicas al siguiente horario:
 
 DE LUNES A VIERNES: DE LAS 8:00 A LAS 23:00 HRS.
 
-SABADO: DE 8:00 A LAS 24:00 HRS.
+SÁBADO: DE 8:00 A LAS 24:00 HRS.
 
-DOMINGO: DE 8:00 A LAS 21:00 HRS.
+DOMINGO: DE 8:00 A LAS 18:00 HRS.
 
-IX.- BILLARES.- Son los negocios que dentro de sus instalaciones cuentan con este tipo de juegos para el esparcimiento de sus clientes y que venden cerveza y/o bebidas alcohólicas al copeo o en botella abierta para el consumo inmediato dentro de sus instalaciones.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2008)</small>
 
-Este tipo de establecimientos estarán sujetos al siguiente horario:
+IX.- BILLARES.- Son los negocios que dentro de sus instalaciones cuentan con este tipo de juegos para el esparcimiento de sus clientes y que venden cerveza y/o bebidas alcohólicas al copeo o en botella abierta para el consumo inmediato dentro de sus instalaciones. Este tipo de establecimientos estarán sujetos al siguiente horario:
 
-DE LUNES A SABADO: DE LAS 12:00 A LAS 24:00 HRS.
+DE LUNES A SÁBADO: DE LAS 12:00 A LAS 24:00 HRS.
 
-LOS DOMINGOS: DE LAS 8:00 A LAS 21:00 HRS.
+LOS DOMINGOS: DE LAS 8:00 A LAS 18:00 HRS.
 
-X.- DISCOTECAS.- Son los establecimientos comerciales cuya actividad predominante es el baile, que ofrecen al público eventos artísticos con acceso a hombres y mujeres mayores de edad, y que venden al menudeo cerveza y/o bebidas alcohólicas al copeo o en botella abierta para el consumo inmediato dentro de sus instalaciones.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2008)</small>
 
-Estos establecimientos estarán sujetos para la venta y consumo de bebidas alcohólicas al siguiente horario:
+X.- DISCOTECAS.- Son los establecimientos comerciales cuya actividad predominante es el baile, que ofrecen al público eventos artísticos con acceso a hombres y mujeres mayores de edad, y que venden al menudeo cerveza y/o bebidas alcohólicas al copeo o en botella abierta para el consumo inmediato dentro de sus instalaciones. Estos establecimientos estarán sujetos para la venta y consumo de bebidas alcohólicas al siguiente horario:
 
-LUNES A MIERCOLES: DE LAS 18:00 A LAS 24:00 HRS.
+LUNES A MIÉRCOLES: DE LAS 18:00 A LAS 24:00 HRS.
 
-LOS JUEVES A SABADO: DE LAS 18:00 A LAS 02:00 HRS. DEL DIA SIGUIENTE.
+LOS JUEVES A SÁBADO: DE LAS 18:00 A LAS 02:00 HRS. DEL DÍA SIGUIENTE.
 
-LOS DOMINGOS: EN ESTOS ESTABLECIMIENTOS SE PROHIBE ESTRICTAMENTE LA VENTA Y CONSUMO DE CUALQUIER TIPO DE BEBIDA ALCOHOLICA, PERMITIENDOSE EL ACCESO A MENORES DE EDAD.
+LOS DOMINGOS: EN ESTOS ESTABLECIMIENTOS SE PROHIBE ESTRICTAMENTE LA VENTA Y CONSUMO DE CUALQUIER TIPO DE BEBIDA ALCOHÓLICA, PERMITIÉNDOSE EL ACCESO A MENORES DE EDAD.
 
-XI.- CENTROS SOCIALES.- Son los salones o establecimientos que se rentan para eventos particulares (XV años, bodas, aniversarios, graduaciones, etc.) y que dentro de sus instalaciones se consume cerveza y/o bebidas alcohólicas.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2008)</small>
 
-Estos establecimientos estarán sujetos al siguiente horario:
+XI.- CENTROS SOCIALES.- Son los salones o establecimientos que se rentan para eventos particulares (XV años, bodas, aniversarios, graduaciones, etc.) y que dentro de sus instalaciones se consume cerveza y/o bebidas alcohólicas. Estos establecimientos estarán sujetos al siguiente horario:
 
-LUNES A DOMINGO: DE LAS 8:00 A LAS 2:00 HRS. DEL DIA SIGUIENTE.
+LUNES A DOMINGO: DE LAS 8:00 A LAS 2:00 HRS. DEL DÍA SIGUIENTE.
 
-Nota: Salvo el caso en que este horario representara una inconformidad para los vecinos de un Centro Social en particular, el R. Ayuntamiento ajustará los horarios a estos establecimientos objeto de la queja.
+Nota: Salvo en caso en que este horario representara una inconformidad para los vecinos de un Centro Social en particular, el R. Ayuntamiento ajustará los horarios a estos establecimientos objeto de la queja.
 
-XII.- RODEOS.- Son los establecimientos comerciales que cuentan con una pista de baile y un área acondicionada con medidas de seguridad apropiadas, donde se ofrece al público el espectáculo de monta de animales y se presentan eventos artísticos con acceso a hombres y mujeres mayores de edad; que venden al menudeo cerveza y/o bebidas alcohólicas al copeo o en botella abierta para consumo inmediato dentro de sus instalaciones.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2008)</small>
 
-Estos establecimientos estarán sujetos para la venta y consumo de cerveza y bebidas alcohólicas al siguiente horario:
+XII.- RODEOS.- Son los establecimientos comerciales que cuentan con una pista de baile y un área acondicionada con medidas de seguridad apropiadas, donde se ofrece al público el espectáculo de monta de animales y se presentan eventos artísticos con acceso a hombres y mujeres mayores de edad; que venden al menudeo cerveza y/o bebidas alcohólicas al copeo o en botella abierta para consumo inmediato dentro de sus instalaciones. Estos establecimientos estarán sujetos para la venta y consumo de cerveza y bebidas alcohólicas al siguiente horario:
 
-DE LUNES A MIERCOLES: DE LAS 18:00 A LAS 24:00 HRS.
+DE LUNES A DOMINGO: DE LAS 10:00 A LAS 24:00 HRS.
 
-LOS JUEVES, VIERNES Y SABADO: DE LAS 18:00 A LAS 2:00 HRS. DEL DIA SIGUIENTE.
+LOS JUEVES, VIERNES Y SÁBADO: DE LAS 18:00 A LAS 2:00 HRS. DEL DÍA SIGUIENTE.
 
-LOS DOMINGOS: DE LAS 16:00 A LAS 21:00 HRS.
+LOS DOMINGOS: DE LAS 08:00 A LAS 18:00 HRS.
 
-XIII.- BALNEARIOS PUBLICOS.- Son establecimientos con una o más albercas para el esparcimiento de sus clientes, que venden al menudeo cerveza y/o bebidas alcohólicas al copeo o en botella abierta para el consumo inmediato dentro de sus instalaciones.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2008)</small>
 
-Estos establecimientos estarán sujetos para la venta y consumo de cerveza y bebidas alcohólicas al siguiente horario:
+XIII.- BALNEARIOS PÚBLICOS.- Son establecimientos con una o más albercas para el esparcimiento de sus clientes, que venden al menudeo cerveza y/o bebidas alcohólicas al copeo o en botella abierta para el consumo inmediato dentro de sus instalaciones. Estos establecimientos estarán sujetos para la venta y consumo de cerveza y bebidas alcohólicas al siguiente horario:
 
-DE LUNES A SABADO: DE LAS 8:00 A LAS 24:00 HRS.
+DE LUNES A SÁBADO: DE LAS 8:00 A LAS 24:00 HRS.
 
-LOS DOMINGOS: DE LAS 8:00 A LAS 21:00 HRS.
+LOS DOMINGOS: DE LAS 8:00 A LAS 18:00 HRS.
 
-XIV.- ALMACENES.- Son establecimientos que expenden al mayoreo bebidas alcohólicas y/o cerveza en envase cerrado, que cuentan con instalaciones bodegas, oficinas y servicio de distribución realizando actos mercantiles.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2008)</small>
 
-Estos establecimientos sólo podrán funcionar:
+XIV.- ALMACENES.- Son establecimientos que expenden al mayoreo bebidas alcohólicas y/o cerveza en envase cerrado, que cuentan con instalaciones bodegas, oficinas y servicio de distribución realizando actos mercantiles. Estos establecimientos sólo podrán funcionar:
 
-DE LUNES A SABADOS: DE LAS 9:00 A LAS 24:00 HRS.
+DE LUNES A SÁBADO: DE LAS 9:00 A LAS 24:00 HRS.
 
 LOS DOMINGOS: DE LAS 9:00 A LAS 14:00 HRS.
 
-XV.- AGENCIAS.- Son establecimientos que expenden al mayoreo cerveza en envase cerrado, que cuentan con instalaciones, bodegas, oficinas y servicio de distribución realizando actos mercantiles.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2008)</small>
 
-Estos establecimientos sólo podrán funcionar:
+XV.- AGENCIAS.- Son establecimientos que expenden al mayoreo cerveza en envase cerrado, que cuentan con instalaciones, bodegas, oficinas y servicio de distribución realizando actos mercantiles. Estos establecimientos sólo podrán funcionar:
 
-DE LUNES A SABADOS: DE LAS 8:00 A LAS 19:00 HRS.
-
-LOS DOMINGOS: DE LAS 8:00 A LAS 14:00 HRS.
-
-XVI.- LICORERIAS.- Son giros que se dedican a la venta de todo tipo de bebidas alcohólicas y/o cerveza en envase cerrado y otros productos no alcohólicos.
-
-Estos establecimientos sólo podrán funcionar:
-
-DE LUNES A SABADOS: DE LAS 8:00 A LAS 24:00 HRS.
+DE LUNES A SÁBADOS: DE LAS 8:00 A LAS 19:00 HRS.
 
 LOS DOMINGOS: DE LAS 8:00 A LAS 14:00 HRS.
 
-XVII.- SERVICAR.- Son aquéllos giros mercantiles que cuentan con un área de acceso a vehículos y que comercializan artículos básicos, comestibles, latería, carnes frías y bebidas alcohólicas y/o cerveza en envase cerrado.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2008)</small>
 
-Estos establecimientos sólo podrán funcionar:
+XVI.- LICORERÍAS.- Son giros que se dedican a la venta de todo tipo de bebidas alcohólicas y/o cerveza en envase cerrado y otros productos no alcohólicos. Estos establecimientos sólo podrán funcionar:
 
-DE LUNES A SABADOS: DE LAS 8:00 A LAS 24:00 HRS.
+DE LUNES A SÁBADOS: DE LAS 8:00 A LAS 24:00 HRS.
 
-LOS DOMINGOS: DE LAS 8:00 A LAS 21:00 HRS.
+LOS DOMINGOS: DE LAS 8:00 A LAS 14:00 HRS.
 
-XVIII.- CENTROS DEPORTIVOS O RECREATIVOS.- Son establecimientos que ofrecen al público eventos deportivos, musicales y otros, tales como estadios deportivos, lienzos charros, plazas de toros, arenas de box y lucha y otros en los cuales pueden expender solo cerveza en los recipientes de plástico o material similar.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2008)</small>
 
-Sólo podrán vender cerveza dentro del siguiente horario:
+XVII.- SERVICAR.- Son aquéllos giros mercantiles que cuentan con un área de acceso a vehículos y que comercializan artículos básicos, comestibles, latería, carnes frías y bebidas alcohólicas y/o cerveza en envase cerrado. Estos establecimientos sólo podrán funcionar:
+
+DE LUNES A SÁBADOS: DE LAS 8:00 A LAS 24:00 HRS.
+
+LOS DOMINGOS: DE LAS 8:00 A LAS 18:00 HRS.
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2008)</small>
+
+XVIII.- CENTROS DEPORTIVOS O RECREATIVOS.- Son establecimientos que ofrecen al público eventos deportivos, musicales y otros, tales como estadios deportivos, lienzos charros, plazas de toros, arenas de box y lucha y otros en los cuales pueden expender solo cerveza en los recipientes de plástico o material similar. Sólo podrán vender cerveza dentro del siguiente horario:
 
 DE LUNES A VIERNES DE 8:00 A LAS 23 HRS.
 
-LOS SABADOS: DE LAS 8:00 A LAS 24:00 HRS.
+LOS SÁBADOS: DE LAS 8:00 A LAS 24:00 HRS.
 
-LOS DOMINGOS: DE LAS 8:00 A LAS 21:00 HRS.
+DE LUNES A DOMINGO: DE LAS 10:00 A LAS 24:00 HRS.
 
-XIX.- CABARETS, CENTROS NOCTURNOS.- Son establecimientos que ofrecen al público eventos musicales o artísticos con música en vivo o grabada y que cuentan con pista de baile y expenden todo tipo de bebidas alcohólicas y/o cerveza.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2008)</small>
 
-Sólo podrán vender cerveza y bebidas alcohólicas dentro del siguiente horario:
+XIX.- CABARETS, CENTROS NOCTURNOS.- Son establecimientos que ofrecen al público eventos musicales o artísticos con música en vivo o grabada y que cuentan con pista de baile y expenden todo tipo de bebidas alcohólicas y/o cerveza. Sólo podrán vender cerveza y bebidas alcohólicas dentro del siguiente horario:
 
-DE LUNES A DOMINGO DE 9:00 A LAS 03:00 HRS. DEL DIA SIGUIENTE.
+DE LUNES A SÁBADO DE 9:00 A LAS 02:00 HRS. DEL DÍA SIGUIENTE.
 
-XX.- HOTELES Y MOTELES.- Son establecimientos que ofrecen al público renta de habitaciones y en sus instalaciones destinan áreas para restaurante bar y/o cafetería, la (sic) cuales venden bebidas alcohólicas y/o cerveza en envase abierto o al copeo.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2008)</small>
 
-Sólo podrán vender cerveza y bebidas alcohólicas dentro del siguiente horario:
+XX.- HOTELES Y MOTELES.- Son establecimientos que ofrecen al público renta de habitaciones y en sus instalaciones destinan áreas para restaurante bar y/o cafetería, las cuales venden bebidas alcohólicas y/o cerveza en envase abierto o al copeo. Sólo podrán vender cerveza y bebidas alcohólicas dentro del siguiente horario:
 
-DE LUNES A DOMINGO DE 9:00 HRS. A 02:00 HRS DEL DIA SIGUIENTE.
+DE LUNES A DOMINGO DE 9:00 HRS. A 02:00 HRS. DEL DÍA SIGUIENTE.
 
-XXI.- BOLICHES.- Establecimientos que tienen líneas de boliche y restaurante con venta solo de cerveza.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2008)</small>
 
-Sólo podrán vender cerveza dentro del siguiente horario:
+XXI.- BOLICHES.- Establecimientos que tienen líneas de boliche y restaurante con venta solo de cerveza. Sólo podrán vender cerveza dentro del siguiente horario:
 
-DE LUNES A DOMINGO DE 9:00 HRS. A 02:00 HRS DEL DIA SIGUIENTE.
+DE LUNES A DOMINGO DE 9:00 HRS. A 02:00 HRS. DEL DÍA SIGUIENTE.
 
 Todos aquellos lugares en cuyas instalaciones operen dos o más giros deberán contar con las licencias correspondientes a cada giro.
 
@@ -752,3 +764,9 @@ Tesorero Municipal
 Lic. Juan Leonardo Villarreal Tamez
 
 Síndico Municipal
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2008.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
