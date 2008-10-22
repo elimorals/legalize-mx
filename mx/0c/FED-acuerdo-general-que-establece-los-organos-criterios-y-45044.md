@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-que-establece-los-organos-criterios-y-45044"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-06-12"
-last_updated: "2003-06-12"
+last_updated: "2008-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45044&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-06-09"
 
 ACUERDO GENERAL QUE ESTABLECE LOS ORGANOS, CRITERIOS Y PROCEDIMIENTOS INSTITUCIONALES PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE TRANSPARENCIA, ACCESO A LA INFORMACION Y PROTECCION DE DATOS PERSONALES DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, PUBLICADO EN EL D.O.F. DE 22 DE OCTUBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 12 de junio de 2003.
 
@@ -496,3 +498,27 @@ Segundo. Los particulares podrán presentar las solicitudes de acceso a la infor
 Tercero. A más tardar el 1 de enero de 2005, se deberá completar la organización y funcionamiento de los archivos, así como la publicación de criterios para la catalogación, clasificación y conservación de los documentos correspondientes. Asimismo, se deberá elaborar y poner a disposición del público una guía simple del sistema de clasificación y catalogación de la información.
 
 El licenciado Antonio Tomás Martínez y Blanco, Secretario de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, con fundamento en lo dispuesto por el artículo 33, fracción VIII, del Reglamento Interior del Tribunal Electoral del Poder Judicial de la Federación, Certifica: Que el presente "ACUERDO GENERAL QUE ESTABLECE LOS ORGANOS, CRITERIOS Y PROCEDIMIENTOS INSTITUCIONALES PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION", fue aprobado por la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, en ejercicio de las facultades que le confieren los artículos 61 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; 209, fracciones III y XXXI, de la Ley Orgánica del Poder Judicial de la Federación y 31, fracción XI, del Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación, en la Décima Primera Sesión Extraordinaria celebrada el nueve de junio de dos mil tres, por los integrantes de la Comisión: Magistrado José Luis De la Peza, Presidente de la Comisión de Administración por Ministerio de Ley.- Magistrado Adolfo O. Aragón Mendía, Comisionado del Consejo de la Judicatura Federal.- Licenciado Manuel Barquín Alvarez, Comisionado del Consejo de la Judicatura Federal.- Magistrada Alfonsina Berta Navarro Hidalgo, del Tribunal Electoral del Poder Judicial de la Federación.- Licenciado Sergio Armando Valls Hernández, Comisionado del Consejo de la Judicatura Federal, ante el Secretario de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, que autoriza y da fe.- México, Distrito Federal, a nueve de junio de dos mil tres.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 22 DE OCTUBRE DE 2008.
+
+PRIMERO
+
+El presente Acuerdo entrará en vigor, al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO
+
+Se abroga el Acuerdo General que establece los Organos, Criterios y Procedimientos Institucionales para la Transparencia y Acceso a la Información Pública del Tribunal Electoral del Poder Judicial de la Federación, aprobado por la Comisión de Administración en su Décima Primera Sesión Extraordinaria del 9 de junio de 2003, publicado en el Diario Oficial de la Federación el 12 de junio de 2003.
+
+TERCERO
+
+Dentro de los ciento ochenta días siguientes a la publicación del presente Acuerdo, deberán emitirse los lineamientos a que se hace referencia en el mismo.
+
+CUARTO
+
+A más tardar en un año a partir de la publicación del presente Acuerdo, se deberá completar la organización y funcionamiento de los archivos, así como la publicación de criterios para la catalogación, clasificación y conservación de los documentos correspondientes.
+
+QUINTO
+
+Las solicitudes de acceso a la información y los recursos que a la entrada en vigor del presente Acuerdo se encuentren en sustanciación, se resolverán conforme al Acuerdo que se abroga.
