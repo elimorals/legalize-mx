@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2008-08-07"
+last_updated: "2008-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE OCTUBRE DE 2008.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -479,6 +479,8 @@ La vecindad en un municipio no se perderá cuando el vecino se traslade a residi
 
 ### CAPITULO PRIMERO. Integración e Instalación de los Ayuntamientos
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 1o.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
@@ -501,7 +503,7 @@ Lic. ALFREDO CRISTERNA.
 
 ###### Artículo 15.
 
-Cada municipio será administrado por un ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+Cada municipio será gobernado por un ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
 > <small>(REFORMADO, G.G. 11 DE SEPTIEMBRE DE 1997)</small>
 
@@ -2512,3 +2514,9 @@ G.G. 7 DE AGOSTO DE 2008.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 23 DE OCTUBRE DE 2008.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
