@@ -4,7 +4,7 @@ identifier: "CMX-lineamientos-que-regiran-la-operacion-del-centro-de-61067"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2008-05-27"
-last_updated: "2008-06-12"
+last_updated: "2008-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61067&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2008-05-26"
 
 ACUERDO 227/SE/26-05/2008 POR EL QUE SE APRUEBAN LOS LINEAMIENTOS QUE REGIRAN LA OPERACION DEL CENTRO DE ATENCION TELEFONICA DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL (TEL-INFODF), Y SE ABROGAN LOS APROBADOS MEDIANTE EL ACUERDO 247/SE/04-09/2007
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO 427/SO/07-10/2008 MEDIANTE EL CUAL SE APRUEBAN LOS LINEAMIENTOS QUE REGIRAN LA OPERACION DEL CENTRO DE ATENCION TELEFONICA, PUBLICADO EN LA G.O. DE 23 DE OCTUBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el martes 27 de mayo de 2008.
 
@@ -283,3 +285,9 @@ G.O. 12 DE JUNIO DE 2008.
 SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
 
 SEGUNDO. El presente acuerdo entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 23 DE OCTUBRE DE 2008.
+
+Primero. Los presentes lineamientos entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. Se abrogan los Lineamientos que regirán la operación del Centro de Atención Telefónica del Instituto de Acceso a la Información Pública del Distrito Federal (TEL-INFODF), aprobados mediante el acuerdo 227/SE/26-05/2008 y modificados mediante el acuerdo 245/SO/04-06/2008.
