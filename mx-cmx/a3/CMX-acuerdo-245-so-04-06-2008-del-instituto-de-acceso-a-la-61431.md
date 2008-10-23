@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-245-so-04-06-2008-del-instituto-de-acceso-a-la-61431"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-06-12"
-last_updated: "2008-06-12"
+last_updated: "2008-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61431&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2008-06-04"
 
 ACUERDO 245/SO/04-06/2008 MEDIANTE EL CUAL SE MODIFICAN LOS NUMERALES QUE SE INDICAN, DE LOS LINEAMIENTOS QUE REGIRAN LA OPERACION DEL CENTRO DE ATENCION TELEFONICA DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL (TEL-INFODF)
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO 427/SO/07-10/2008 MEDIANTE EL CUAL SE APRUEBAN LOS LINEAMIENTOS QUE REGIRAN LA OPERACION DEL CENTRO DE ATENCION TELEFONICA, PUBLICADO EN LA G.O. DE 23 DE OCTUBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el jueves 12 de junio de 2008.
 
@@ -143,3 +145,11 @@ Comisionado Ciudadano
 María Elena Pérez-Jaén Zermeño
 
 Comisionada Ciudadana
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUEROS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 23 DE OCTUBRE DE 2008.
+
+Primero. Los presentes lineamientos entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. Se abrogan los Lineamientos que regirán la operación del Centro de Atención Telefónica del Instituto de Acceso a la Información Pública del Distrito Federal (TEL-INFODF), aprobados mediante el acuerdo 227/SE/26-05/2008 y modificados mediante el acuerdo 245/SO/04-06/2008.
