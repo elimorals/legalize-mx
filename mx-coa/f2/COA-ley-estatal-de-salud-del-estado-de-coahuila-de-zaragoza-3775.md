@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2005-02-15"
+last_updated: "2008-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -163,7 +163,11 @@ El Sistema Estatal de Salud está constituido por las dependencias y entidades p
 
 El Sistema Estatal de Salud, con la intervención que corresponda al Comité de Planeación para el Desarrollo del Estado de Coahuila, definirán los mecanismos de coordinación y colaboración en materia de planeación, de los servicios de salud en el Estado, de conformidad con las disposiciones de esta Ley y las que al respecto sean aplicables.
 
-(SIC)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 6o.
+
+El Sistema Estatal de Salud tiene los siguientes objetivos:
 
 I. Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios del Estado y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas;
 
@@ -171,7 +175,9 @@ II. Contribuir al desarrollo demográfico armónico del Estado;
 
 III. (DEROGADA, P.O. 15 DE FEBRERO DE 2005)
 
-IV. Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+IV. Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez y brindar todos los servicios médicos necesarios a las mujeres embarazadas y sus hijos en gestación y en infancia temprana.
 
 V. Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente del Estado, que propicien el desarrollo satisfactorio de la vida;
 
@@ -367,9 +373,11 @@ II. De salud pública, y
 
 III. (DEROGADA, P.O. 15 DE FEBRERO DE 2005)
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 27.
 
-Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables.
+Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables y a las mujeres embarazadas y sus hijos en gestación y en infancia temprana.
 
 ###### Artículo 28.
 
@@ -573,9 +581,13 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I. Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
 
-II. Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil, y
+II. Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil, y (sic)
 
-III. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarréicos y las infecciones respiratorias agudas de los menores de 5 años.
+III. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarréicos y las infecciones respiratorias agudas de los menores de 5 años;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+IV. La Red de Apoyo a las Mujeres Embarazadas y los mecanismos informativos y técnicos necesarios para asegurarles su derecho a atención médica oportuna y eficiente para ellas y sus hijos en infancia temprana.
 
 ###### Artículo 60.
 
@@ -2366,3 +2378,15 @@ P.O. 15 DE FEBRERO DE 2005.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 24 DE OCTUBRE DE 2008.
+
+PRIMERO. Las reformas hechas a los ordenamientos señalados en el presente decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Ante la concurrencia de normas incompatibles entre sí, que se susciten con motivo de la aplicación de este decreto, prevalecerá aquella que otorgue mayor protección a la mujer embarazada.
+
+TERCERO. El Instituto Coahuilense de las Mujeres, contará con un plazo de seis meses a partir de la publicación del presente decreto, para crear la Red de Apoyo a Mujeres Embarazadas de Coahuila.
+
+CUARTO. El Instituto Coahuilense de las Mujeres creará el Reglamento para la Cooperación y Funcionamiento de las Redes de Apoyo a Mujeres Embarazadas de Coahuila.
+
+QUINTO. Publíquese el presente decreto en el Periódico Oficial del Estado.
