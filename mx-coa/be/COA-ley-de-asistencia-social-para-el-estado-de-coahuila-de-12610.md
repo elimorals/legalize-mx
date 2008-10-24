@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-para-el-estado-de-coahuila-de-12610"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-23"
-last_updated: "2008-06-03"
+last_updated: "2008-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 23 de enero de 1998.
 
@@ -83,7 +83,9 @@ I.- Garantizar la extensión cuantitativa y cualitativa de los servicios de asis
 
 II.- Coadyuvar a la definición de criterios respecto de la distribución de universos de usuarios de servicios de asistencia social, de regionalización, de escalonamiento de los servicios, así como de universalización de cobertura; y
 
-III.- Establecer y llevar a cabo programas interinstitucionales, que aseguren la atención integral de los grupos sociales vulnerables.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+III.- Establecer y llevar a cabo programas interinstitucionales, que aseguren la atención integral de los grupos sociales vulnerables y a las mujeres embarazadas y sus hijos en infancia temprana.
 
 ###### ARTICULO 6°.
 
@@ -93,7 +95,9 @@ Son sujetos de la recepción de los servicios de asistencia social, preferenteme
 
 I.- Menores en situación extraordinaria, ya sea por encontrarse en estado de abandono, desamparo, desnutrición o sujetos a maltrato, así como aquellos menores de doce años que hayan realizado una conducta prevista como delito en la ley;
 
-II.- Mujeres en período de gestación o lactancia;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+II.- Mujeres en período de gestación o lactancia y sus hijos en edad de infancia temprana conforme a lo previsto por la Ley de Protección a la Maternidad para el Estado de Coahuila;
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
 
@@ -187,9 +191,9 @@ XIV.- El establecimiento y manejo del Sistema Estatal de Información Básica en
 
 XV.- La colaboración y auxilio a las autoridades laborales competentes, en la vigilancia y aplicación de la legislación laboral aplicable a menores;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
 
-XVI.- El fomento de acciones de paternidad y maternidad responsable, que propicien la preservación de los derechos de menores a la satisfacción de sus necesidades y a la salud física y mental;
+XVI.- El fomento de acciones de paternidad y maternidad responsable, que propicien la preservación de los derechos de menores a la satisfacción de sus necesidades y a la salud física y mental, así como la conformación de la Red de Apoyo a las Mujeres Embarazadas;
 
 XVII.- La promoción, supervisión, vigilancia y evaluación de las instituciones de asistencia privada; y
 
@@ -1582,3 +1586,15 @@ P.O. 3 DE JUNIO DE 2008.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2008.
+
+PRIMERO. Las reformas hechas a los ordenamientos señalados en el presente decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Ante la concurrencia de normas incompatibles entre sí, que se susciten con motivo de la aplicación de este decreto, prevalecerá aquella que otorgue mayor protección a la mujer embarazada.
+
+TERCERO. El Instituto Coahuilense de las Mujeres, contará con un plazo de seis meses a partir de la publicación del presente decreto, para crear la Red de Apoyo a Mujeres Embarazadas de Coahuila.
+
+CUARTO. El Instituto Coahuilense de las Mujeres creará el Reglamento para la Cooperación y Funcionamiento de las Redes de Apoyo a Mujeres Embarazadas de Coahuila.
+
+QUINTO. Publíquese el presente decreto en el Periódico Oficial del Estado.
