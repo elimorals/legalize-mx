@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-12552"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-25"
-last_updated: "2007-12-25"
+last_updated: "2008-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2008.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de julio de 1997.
 
@@ -417,7 +417,11 @@ Cuando no se logre obtener la mayoría de los integrantes electos del Ayuntamien
 
 El Ayuntamiento instalado, sin la totalidad de los miembros electos propietarios, procederá de inmediato a notificar a los ausentes para que asuman su cargo en un plazo no mayor de quince días hábiles, si no se presentan transcurrido este plazo, serán llamados los suplentes, quienes entrarán en ejercicio definitivo.
 
-Se considera falta absoluta del presidente municipal electo, cuando transcurrido el plazo de quince días hábiles, citado en el párrafo anterior, no se presente sin causa justificada. En tanto, el síndico hará sus funciones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+Se considera falta absoluta del presidente, municipal electo, cuando transcurrido el plazo de quince días hábiles, citado en el párrafo anterior, no se presente sin causa justificada. En tanto, el síndico o primer síndico desempeñará sus funciones.
 
 ###### Artículo 37.
 
@@ -501,11 +505,15 @@ XIII.- La demás información que se estime relevante para garantizar la continu
 
 El secretario del Ayuntamiento entrante, levantará acta circunstanciada de la entrega-recepción, la cual deberá ser firmada por los que intervinieron y se proporcionará copia certificada a los integrantes del Ayuntamiento saliente que participaron y al representante del Órgano de Fiscalización Superior del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 43.
 
-Una vez concluida la entrega-recepción, el Ayuntamiento entrante designará una comisión especial, integrada de manera plural y proporcional a la conformación del Ayuntamiento, que se encargará de analizar el expediente integrado con la documentación conducente, para formular un informe en un plazo de treinta días hábiles.
+Una vez concluida la entrega-recepción, el Ayuntamiento entrante designará una comisión especial, integrada de manera plural y proporcional a la conformación del Ayuntamiento, que se encargará de analizar el expediente integrado con la documentación conducente, debiendo elaborar con la participación de la contraloría municipal, un informe en un plazo de treinta días hábiles.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 El informe deberá referirse a todos y cada uno de los puntos contenidos en el expediente a que se refiere el artículo 41 de la presente Ley; el cual se someterá dentro de los quince días hábiles siguientes al conocimiento y consideración del Ayuntamiento, y éste podrá llamar a los servidores públicos que intervinieron en el acta de entrega-recepción, para solicitar cualquier información o documentación relacionada con la misma; los que estarán obligados a proporcionarla y atender las observaciones consecuentes.
 
@@ -775,9 +783,17 @@ r) Intervenir en la formulación y aplicación de programas de transporte públi
 
 s) Solicitar, por acuerdo de la mayoría calificada de sus integrantes al Congreso del Estado, que realice la declaración de que el Municipio se encuentra imposibilitado para ejercer una función o prestar un servicio público, a efecto de que el Ejecutivo del Estado la ejerza o lo preste.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+t) Acordar la división territorial del Municipio, determinando las categorías políticas y su denominación.
+
 II.- En materia de obra pública y desarrollo urbano:
 
-a) Acordar la división territorial del Municipio, determinando las categorías políticas y su denominación;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+a).- (DEROGADO, P.O. 24 DE OCTUBRE DE 2008)
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
@@ -863,7 +879,11 @@ g) Impartir la educación, en los términos previstos en las leyes Federal y Est
 
 h) Formular programas de organización y participación social, que permitan una mayor cooperación entre autoridades y habitantes del Municipio;
 
-i) Promover la participación de los diferentes sectores organizados del Municipio y de habitantes interesados en la solución de la problemática municipal, para la estructura del plan de desarrollo municipal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+i) Desarrollar mecanismos para promover la participación de los diferentes sectores organizados del Municipio y de habitantes interesados en la solución de la problemática municipal, para la estructura del plan de desarrollo municipal;
 
 j) Promover la organización de asociaciones de habitantes y elaborar procedimientos de consulta, de acuerdo a lo establecido por esta Ley y demás ordenamientos legales aplicables; y
 
@@ -963,7 +983,11 @@ I.- Vigilar la correcta observancia de los acuerdos y disposiciones del Ayuntami
 
 II.- Cumplir las funciones correspondientes a su cargo y las inherentes a las comisiones de que formen parte, informando al Ayuntamiento de sus gestiones;
 
-III.- Vigilar los ramos de la administración que les encomiende el Ayuntamiento y los programas respectivos, proponiendo las medidas que estimen procedentes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+III.- Vigilar el cumplimiento de las atribuciones a cargo de las dependencias y entidades de la administración pública municipal, así como los ramos de la administración que les encomiende el Ayuntamiento y los programas respectivos, proponiendo las medidas que estimen procedentes;
 
 IV.- Presentar al Ayuntamiento, iniciativas de reglamentos, bandos de policía y buen gobierno y demás disposiciones administrativas de observancia general o, en su caso, de reformas y adiciones a los mismos;
 
@@ -1225,7 +1249,11 @@ Los Consejos de Planeación de Desarrollo Municipales se integrarán por:
 
 I.- El Presidente Municipal, quien lo presidirá;
 
-II.- El titular de la dependencia encargada de la planeación del desarrollo en el Municipio, quien será el Secretario Técnico;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+II.- El titular de la dependencia o entidad encargada de la planeación del desarrollo en el Municipio, quien será el secretario técnico;
 
 III.- Representantes de la sociedad organizada que participen en las Comisiones de Trabajo, designados en los términos que señale el reglamento que al efecto emita el Ayuntamiento;
 
@@ -1351,6 +1379,12 @@ El Ayuntamiento podrá crear dependencias que le estén subordinadas directament
 
 También, podrá crear entidades paramunicipales, cuando el desarrollo económico y social lo haga necesario.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+El Ayuntamiento deberá establecer una unidad de acceso a la información pública, en los términos de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
+
 ###### Artículo 108.
 
 Las dependencias y entidades de la administración pública municipal, ejercerán las funciones que les asigne esta Ley y el reglamento respectivo, o en su caso, el acuerdo de Ayuntamiento que para el efecto se expida, en el que se regule la creación, estructura y funcionamiento de éstos.
@@ -1397,9 +1431,11 @@ IX.- Las demás que el Ayuntamiento determine, considerando las condiciones terr
 
 Los ayuntamientos en el reglamento correspondiente, deberán señalar las atribuciones que tendrán las dependencias señaladas en las fracciones IV a VIII de este artículo; asimismo, podrán otorgarles la denominación que corresponda atendiendo a su organización administrativa.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Artículo 110 A.- Los titulares de las dependencias señaladas en el artículo anterior, deberán proporcionar a los integrantes del Ayuntamiento, la información que les soliciten y sea necesaria para el ejercicio de su función.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+Artículo 110 A.- Los titulares de las dependencias señaladas en el artículo anterior, deberán proporcionar a los integrantes del Ayuntamiento, la información que les soliciten para el ejercicio de su función.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
@@ -1481,9 +1517,13 @@ X.- Elaborar y someter a la aprobación del Ayuntamiento, el programa financiero
 
 XI.- Glosar oportunamente las cuentas de la administración pública municipal;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XII.- Remitir al Congreso del Estado, la cuenta pública municipal, así como rendir los informes contables y financieros mensuales, dentro del mes siguiente, y atender las observaciones que se formulen sobre los mismos. Los informes contables y financieros, deberán ser firmados, además, por el presidente municipal;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+XII.- Remitir al Congreso del Estado, la cuenta pública municipal, la que deberá ser firmada preferentemente por un integrante de la primera minoría de la Comisión de Hacienda en el Ayuntamiento.
+
+Asimismo, rendir los informes contables y financieros mensuales, dentro del mes siguiente, y atender las observaciones que se formulen sobre los mismos. Dichos informes deberán ser firmados, además, por el presidente municipal;
 
 XIII.- Formar y actualizar el catastro municipal;
 
@@ -1511,7 +1551,25 @@ El Ayuntamiento tendrá por designado como contralor municipal al integrante de 
 
 Cuando por cualquier causa la primera minoría no ejerza su derecho, el contralor municipal será designado por mayoría absoluta del Ayuntamiento a propuesta de cualquiera de sus integrantes, en la sesión ordinaria siguiente a la referida en el primer párrafo de este artículo.
 
-En el presupuesto de egresos deberán preverse los recursos materiales y humanos necesarios y suficientes, con los que deberá contar la Contraloría Municipal para el ejercicio de su función.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+La Contraloría Municipal para efecto de cumplir con sus atribuciones contemplará por lo menos las siguientes áreas:
+
+I.- Auditoría;
+
+II.- Quejas, Denuncias y Sugerencias;
+
+III.- Evaluación y Control de Obra Pública; y
+
+IV.- Asuntos Jurídicos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+En el presupuesto de egresos municipal deberán preverse los recursos materiales y humanos con los que deberá contar la Contraloría Municipal para el ejercicio de sus atribuciones.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
@@ -1521,17 +1579,25 @@ I.- A propuesta de la primera minoría, requiriendo para su aprobación la mayor
 
 II.- A propuesta de la mayoría absoluta del Ayuntamiento, requiriendo para su aprobación, la mayoría calificada del Ayuntamiento.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Artículo 115 B.- En caso de falta o ausencia mayor de quince días hábiles del contralor municipal se deberá proceder a designar a la persona que lo supla o sustituya, aplicando en lo conducente el procedimiento a que se refiere el artículo anterior.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+Artículo 115 B.- En caso de falta o ausencia mayor de quince días hábiles sin causa justificada del contralor municipal se deberá proceder a designar a la persona que lo supla sustituya, aplicando en lo conducente el procedimiento a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 Cuando las faltas o ausencias no excedan del término de quince días hábiles, el contralor municipal designará quien lo supla, del personal que tenga a su cargo.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 116.
 
-Para asumir el cargo de contralor municipal, se deben reunir los siguientes requisitos:
+Para ser contralor municipal, se deben reunir los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 I.- Ser ciudadano guanajuatense, en ejercicio de sus derechos civiles y políticos, y no haber sido condenado ejecutoriamente por delito grave del orden común;
 
@@ -1541,7 +1607,11 @@ II.- Contar con título profesional legalmente expedido en las áreas contables,
 
 Si entre los integrantes de la terna propuesta por la primera minoría concurre igualdad de circunstancias en relación a la experiencia profesional, se preferirá a quien posea experiencia en actividades administrativas relativas a la función de control;
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
 III.- Ser de reconocida honradez; y
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 IV.- No haber sido dirigente de partido político ni candidato durante la elección del ayuntamiento en funciones.
 
@@ -1577,15 +1647,21 @@ VIII.- Vigilar que las adquisiciones, enajenaciones y arrendamientos de los bien
 
 IX.- Vigilar que la obra pública municipal se ajuste a las disposiciones de la Ley de Obra Pública y Servicios relacionados con la misma para el Estado y los Municipios de Guanajuato y demás disposiciones aplicables en la materia;
 
-X.- Establecer y operar un sistema de quejas, denuncias y sugerencias;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+X.- Implementar y operar un sistema de quejas, denuncias y sugerencias, fomentando la participación social;
 
 XI.- Participar en la entrega-recepción de las dependencias y entidades de la administración pública municipal;
 
 XII.- Verificar los estados financieros de la tesorería municipal, así como revisar la integración, la remisión en tiempo y la solventación de observaciones de la cuenta pública municipal;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIII.- Vigilar el comportamiento de la situación patrimonial de los servidores públicos municipales, en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+XIII.- Recibir, controlar, registrar y verificar la información patrimonial de los servidores públicos municipales obligados a declararla, fijando las normas, criterios, formatos oficiales y requisitos para el rendimiento de dicha información, en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios;
 
 XIV.- Vigilar el desarrollo administrativo de las dependencias y entidades de la administración pública municipal, a fin de que en el ejercicio de sus funciones apliquen con eficiencia los recursos humanos y patrimoniales;
 
@@ -1720,6 +1796,12 @@ XI.- Las demás que se regulen en el reglamento o acuerdo de Ayuntamiento y sean
 La administración de los organismos descentralizados estará a cargo de un órgano de gobierno, que será un consejo directivo o su equivalente, designado por el Ayuntamiento en los términos del acuerdo y reglamento respectivo.
 
 El consejo directivo o su equivalente, elegirá de entre sus miembros a su presidente y, en su caso, designará al director general y demás personal necesario para el cumplimiento de sus funciones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+Las sesiones del consejo directivo o su equivalente serán públicas, con las excepciones previstas en la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
 
 ###### Artículo 129.
 
@@ -1882,6 +1964,12 @@ En la aplicación del presente capítulo, se atenderá en lo conducente, lo disp
 ###### Artículo 140.
 
 Los ayuntamientos vigilarán que la prestación de los servicios públicos, se realice en igualdad de condiciones a todos los habitantes del Municipio, en forma permanente, general, uniforme, continua, y de acuerdo al Plan de Gobierno Municipal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+En el presupuesto de egresos deberán preverse los recursos materiales y humanos necesarios y suficientes, para la prestación eficiente y oportuna de los servicios de seguridad pública, policía preventiva, tránsito y vialidad.
 
 ###### Artículo 141.
 
@@ -2475,6 +2563,12 @@ Para el desempeño de las funciones de la administración pública municipal, el
 
 Para los efectos del artículo anterior, se creará un comité de adquisiciones, enajenaciones, arrendamientos y contratación de servicios, el cual se integrará con un regidor de cada una de las diversas fuerzas políticas que constituyan el Ayuntamiento y los servidores públicos que determine el mismo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+A las reuniones del comité de adquisiciones, enajenaciones, arrendamientos y contratación de servicios asistirá el contralor municipal quien tendrá derecho a voz.
+
 ###### Artículo 194.
 
 El comité de adquisiciones, enajenaciones, arrendamientos y contratación de servicios, tendrá las siguientes atribuciones:
@@ -2575,6 +2669,28 @@ IX.- Medios de impugnación; y
 
 X.- Transitorios, en donde se deberá establecer, entre otras previsiones, la fecha en que inicie su vigencia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+Artículo 203 A.- Cualquier integrante del Ayuntamiento podrá presentar al Pleno de dicho órgano colegiado iniciativas de reglamentos, bandos de policía y buen gobierno, circulares y disposiciones administrativas de observancia general.
+
+El proceso reglamentario o normativo municipal se compondrá de las siguientes etapas:
+
+I.- Iniciativa;
+
+II.- Dictamen;
+
+III.- Discusión;
+
+IV.- Aprobación; y
+
+V.- Publicación.
+
+Las iniciativas deberán contener exposición de motivos y la manifestación de impacto regulatorio que establece la Ley de Mejora Regulatoria para el Estado de Guanajuato, además de la propuesta normativa de reglamento, bando de policía y buen gobierno, circular o disposición administrativa de observancia general, según corresponda.
+
+Los procesos para cada una de las etapas citadas en el presente artículo serán desarrollados en el reglamento interior correspondiente de cada Municipio.
+
 ###### Artículo 204.
 
 Los ayuntamientos podrán expedir y promulgar, entre otros, los siguientes reglamentos municipales:
@@ -2609,11 +2725,45 @@ Los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones 
 
 La Justicia Administrativa en los municipios del Estado de Guanajuato se imparte a través de los Juzgados Administrativos Municipales, conforme a las disposiciones del Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+En cada Municipio existirá al menos un Juzgado Administrativo Municipal con el personal y los recursos materiales y presupuestales adecuados y necesarios para el ejercicio de su función, en los términos del presente Título.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+Dos o más municipios podrán asociarse y coordinarse entre sí, para crear un Juzgado Administrativo Regional, cuya jurisdicción abarcará al territorio de los municipios que acuerden su creación. En el convenio respectivo los municipios podrán acordar la creación de una Unidad de la Defensoría de Oficio Regional en materia administrativa municipal, la que ejercerá sus funciones en la misma jurisdicción de aquél.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+En el convenio de asociación y coordinación cuyo objeto sea el señalado en el párrafo anterior, los municipios que pretendan asociarse y coordinarse deberán estipular, además de lo dispuesto en el Título Quinto, Capítulo Tercero de esta Ley, lo siguiente:
+
+I.- La aportación de recursos a cargo de cada Municipio para la creación y sostenimiento del Juzgado Administrativo Regional y el compromiso de que anualmente contemplarán en sus respectivos presupuestos de egresos las partidas necesarias para tal objeto, durante la vigencia del convenio;
+
+II.- El Municipio que fungirá como la sede del Juzgado Administrativo Regional. Esta sede será a su vez la que corresponda a la Unidad de la Defensoría de Oficio Regional en materia administrativa municipal. Los municipios que intervengan en el convenio podrán acordar que exista en cada uno de ellos, además, una oficialía de partes, para el sólo efecto de facilitar la presentación de promociones a los particulares que residan en alguno de los municipios asociados y coordinados;
+
+III.- El personal jurisdiccional y administrativo con el que deberá contar como mínimo, observando lo dispuesto en este Capítulo;
+
+IV.- El procedimiento al que se sujetarán para la designación y nombramiento, así como la remoción del personal jurisdiccional y administrativo del Juzgado Administrativo Regional, observando lo que dispone esta Ley;
+
+V.- El procedimiento a través del cual los municipios aprobarán las disposiciones reglamentarias y administrativas que regularán el funcionamiento del Juzgado Administrativo Regional; y
+
+VI.- Para regular las relaciones laborales, administrativas o civiles que deriven del nombramiento o la contratación del personal jurisdiccional y administrativo del Juzgado Administrativo Regional, los municipios acordarán cuál de ellos fungirá como representante común. Los municipios que intervengan en el convenio serán solidariamente responsables por las obligaciones que deriven de dichas relaciones, salvo lo que los municipios acuerden expresamente en el convenio al respecto.
+
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
 Artículo 206 A.- Los actos y resoluciones administrativas dictadas por el Ayuntamiento, podrán ser impugnados ante el Tribunal de lo Contencioso Administrativo cuando afecten intereses de los particulares.
 
-Los actos y resoluciones administrativas dictadas por el Presidente Municipal y por las dependencias y entidades de la Administración Pública Municipal podrán ser impugnados ante los Juzgados Administrativos Municipales, cuando afecten intereses de los particulares.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+Los actos y resoluciones administrativas dictadas por el presidente municipal y por las dependencias y entidades de la administración pública municipal podrán ser impugnados optativamente ante los juzgados administrativos municipales o ante el Tribunal de lo Contencioso Administrativo, cuando afecten intereses de los particulares. Ejercida la acción ante cualquiera de ellos, no se podrá impugnar ante el otro el mismo acto.
 
 Las resoluciones de los Juzgados Administrativos Municipales que pongan fin al proceso administrativo podrán ser impugnados por las partes, mediante el recurso de revisión ante las Salas del Tribunal de lo Contencioso Administrativo.
 
@@ -2659,49 +2809,199 @@ Las resoluciones de los Juzgados Administrativos Municipales que pongan fin al p
 
 ### CAPITULO TERCERO. DE LOS JUZGADOS ADMINISTRATIVOS MUNICIPALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 216.
 
-Los Juzgados Administrativos Municipales son depositarios de la función jurisdiccional del Municipio, están dotados de plena autonomía para dictar sus fallos, así como de plena jurisdicción e imperio para hacer cumplir sus resoluciones, siendo órganos de control de legalidad que tienen a su cargo dirimir las controversias administrativas que se susciten entre la Administración Pública Municipal y los gobernados.
+Los juzgados administrativos municipales son depositarios de la función jurisdiccional del Municipio, están dotados de plena autonomía para dictar sus fallos, así como de plena jurisdicción e imperio para hacer cumplir sus resoluciones siendo órganos de control de legalidad que tienen a su cargo dirimir las controversias administrativas que se susciten entre la administración pública municipal y los gobernados. Su relación jurídica se establecerá directamente con el Ayuntamiento. El presidente municipal sólo podrá ejecutar sobre estos órganos jurisdiccionales municipales, los acuerdos e instrucciones que apruebe el Ayuntamiento.
 
 > <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
 
 La actuación de los juzgados administrativos municipales se sujetará a los principios de igualdad, publicidad, audiencia y legalidad.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+Artículo 216 A.- Los juzgados administrativos municipales se integran, como mínimo, de la siguiente manera:
+
+I.- Con un juez administrativo municipal;
+
+II.- Con un secretario de estudio y cuenta;
+
+III.- Con un actuario; y
+
+IV.- Con el personal administrativo que autorice el presupuesto de egresos municipal.
+
+Las ausencias del juez administrativo municipal hasta por quince días, serán suplidas por el secretario de estudio y cuenta. En el caso de ausencia mayor a quince días, el Ayuntamiento designará un suplente.
+
+Las ausencias del secretario de estudio y cuenta hasta por seis meses serán suplidas por el actuario.
+
+Las ausencias del actuario mayores a quince días y hasta por seis meses serán suplidas por la persona que designe el juez administrativo municipal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+Artículo 216 B.- Son facultades de los jueces administrativos municipales las siguientes:
+
+I.- Conocer y resolver de los procesos administrativos;
+
+II.- Imponer las correcciones disciplinarias, así como hacer uso de los medios de apremio que procedan, en el ámbito de su competencia;
+
+III.- Dirigir el desarrollo de las audiencias y mantener el orden en las mismas;
+
+IV.- Dictar las medidas tendientes a la conservación del orden, el buen funcionamiento y la disciplina de su juzgado, exigiendo se guarde el respeto y consideración debidos;
+
+V.- Llevar la correspondencia del juzgado, autorizándola con su firma;
+
+VI.- Gestionar el apoyo técnico, administrativo y financiero necesario para el debido funcionamiento del juzgado;
+
+VII.- Formular el anteproyecto anual de egresos de su juzgado, así como ejercer el presupuesto aprobado por el Ayuntamiento;
+
+VIII.- Conceder o negar licencias al personal adscrito a su juzgado;
+
+IX.- Rendir al Ayuntamiento un informe anual de labores; y
+
+X.- Las demás que les confiera el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+Artículo 216 C.- Corresponde a los secretarios de estudio y cuenta:
+
+I.- Integrar los expedientes y presentar proyectos de autos, acuerdos y resoluciones;
+
+II.- Autorizar con su firma las actuaciones que se realicen;
+
+III.- Dar cuenta en las audiencias con los asuntos correspondientes;
+
+IV.- Redactar las actas correspondientes de las audiencias;
+
+V.- Dar cuenta al juez, de las promociones que presenten las partes;
+
+VI.- Expedir certificaciones de las constancias que obren en los expedientes a su cargo;
+
+VII.- Practicar las diligencias que les competan;
+
+VIII.- Turnar los asuntos para notificación al actuario correspondiente;
+
+IX.- Asentar las ratificaciones de las representaciones que otorguen los particulares; y
+
+X.- Las demás atribuciones que les confiera esta Ley y el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+Artículo 216 D.- Corresponde a los actuarios:
+
+I.- Notificar las resoluciones recaídas en los expedientes que para tal efecto les sean turnados;
+
+II.- Practicar las diligencias que les encomiende el juez o el secretario de estudio y cuenta;
+
+III.- Levantar las actas correspondientes a las diligencias que practiquen; y
+
+IV.- Las demás atribuciones que les confiera esta Ley y el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+Artículo 216 E.- Los jueces, los secretarios de estudio y cuenta y los actuarios no podrán ejercer la profesión de abogado, sino en negocio propio, de su cónyuge, de sus ascendientes o descendientes, sin limitación de grado, ni desempeñar otro empleo o cargo público o privado, a excepción de los docentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+Artículo 216 F.- Además de lo previsto en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, se consideran faltas administrativas graves en que pueden incurrir los jueces administrativos municipales las siguientes:
+
+I.- Impedir material e intencionalmente que las partes ejerzan en los procedimientos judiciales, los derechos que les correspondan;
+
+II.- Desatender o retrasar injustificada y generalizadamente la iniciación, tramitación o resolución de los asuntos a su cargo;
+
+III.- Faltar a la verdad en los informes que rindan o en los datos que proporcionen o asienten en constancias, certificaciones y diligencias; y
+
+IV.- Obstaculizar la práctica de diligencias.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 217.
 
-Los Juzgados Administrativos Municipales serán unitarios; su organización y funcionamiento se establecerá en el reglamento que para el efecto expida el Ayuntamiento.
+En el presupuesto de egresos deberán preverse los recursos materiales y humanos necesarios y suficientes, con los que deberá contar el Juzgado Administrativo Municipal para el ejercicio de su función.
 
-El Ayuntamiento acordará lo conducente, para que los Juzgados Administrativos Municipales cuenten con el personal jurídico y administrativo, así como con los recursos financieros y técnicos, necesarios para el cumplimiento de su función.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 218.
 
-Los jueces administrativos municipales serán nombrados por el Ayuntamiento por mayoría calificada, de entre la terna que presente el presidente municipal y únicamente podrán ser removidos en los términos del artículo 110 B de esta Ley.
+Los jueces administrativos municipales serán nombrados por el Ayuntamiento, por mayoría calificada, de entre la terna que presente el presidente municipal, previa convocatoria pública y únicamente podrán ser removidos en los términos del artículo 110 B de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 219.
 
-Los jueces administrativos municipales, deberán satisfacer los siguientes requisitos:
+Los jueces administrativos municipales, secretarios de estudio y cuenta y actuarios deberán contar con los siguientes requisitos:
 
-I.- Ser ciudadano guanajuatense, en pleno ejercicio de sus derechos civiles y políticos;
+I.- Ser mexicano, en pleno ejercicio de sus derechos civiles y políticos;
 
-II.- Ser mayor de veinticinco años de edad;
+II.- Contar con título profesional de licenciado en derecho o su equivalente académico legalmente expedido por la institución facultada para ello, con por lo menos dos años de práctica profesional o docencia en materia administrativa o fiscal;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+III.- Gozar de buena reputación y ser de reconocida honradez;
 
-III.- Contar con título de licenciado en Derecho o su equivalente académico, legalmente expedido por la institución facultada para ello, con por lo menos, tres años de práctica profesional; y
+IV.- No haber sido condenado por delito intencional que amerite pena privativa de libertad por más de un año; pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama pública, quedará imposibilitado para el cargo, cualquiera que haya sido la pena; y
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1999)</small>
+V.- Preferentemente haber cursado la especialidad en justicia administrativa, debiendo acreditarlo con la constancia respectiva.
 
-IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de libertad por más de un año; pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama pública, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
+Los actuarios deberán satisfacer los requisitos señalados en las fracciones anteriores, con excepción de la práctica profesional.
 
-### CAPITULO CUARTO. DE LAS INFRACCIONES Y SANCIONES
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+### CAPITULO CUARTO. DE LA PROCURACION DE JUSTICIA EN MATERIA ADMINISTRATIVA MUNICIPAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+Artículo 219 A.- Las defensorías de oficio en materia administrativa municipal son los órganos técnico especializados adscritos al Juzgado Administrativo Municipal, autónomas en su actividad, encargadas de asesorar y representar a los gobernados en las controversias administrativas y fiscales que se presenten contra las autoridades municipales, mediante el proceso ante los juzgados administrativos municipales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+Artículo 219 B.- Las defensorías de oficio en materia administrativa municipal se integran de la siguiente manera:
+
+I.- Con uno o varios defensores de oficio; y
+
+II.- Con el personal administrativo que autorice el presupuesto de egresos municipal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+Artículo 219 C.- Los defensores de oficio serán nombrados y removidos siguiendo el procedimiento previsto por el artículo 218 de esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+Artículo 219 D.- Los defensores de oficio deberán reunir los requisitos previstos en el artículo 219 de esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+(REUBICADO [N. DE E. ANTES CAPITULO CUARTO], P.O. 24 DE OCTUBRE DE 2008)
+
+### CAPITULO QUINTO. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 220.
 
@@ -2854,3 +3154,11 @@ Artículo Primero. El presente decreto entrará en vigencia el uno de enero de d
 Artículo Segundo. Los asuntos que actualmente estén pendientes de resolverse ante los Juzgados Administrativos Municipales, se tramitarán con base en lo dispuesto por los Capitulas Primero, Segundo y Tercero del Título Décimo de la Ley Orgánica Municipal para el Estado de Guanajuato que se encontraban vigentes al momento de su inicio, hasta su debida conclusión.
 
 Artículo Tercero. En los municipios que aún no cuenten con Juzgado Administrativo Municipal, los particulares podrán impugnar directamente ante el Tribunal de lo Contencioso Administrativo, los actos y resoluciones administrativas a que se refiere el párrafo segundo del articulo 206-A.
+
+P.O. 24 DE OCTUBRE DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor el seis de julio de dos mil nueve.
+
+Artículo Segundo.- Los ayuntamientos contarán con un plazo de sesenta días contados a partir de la entrada en vigor del presente decreto, para adecuar los reglamentos, bandos de policía y buen gobierno, circulares y demás disposiciones administrativas de observancia general al contenido del mismo.
+
+Artículo Tercero.- Los asuntos que actualmente estén pendientes de resolverse ante los juzgados administrativos municipales, se tramitarán con base en lo dispuesto en la legislación vigente al momento de su inicio, hasta su debida conclusión.
