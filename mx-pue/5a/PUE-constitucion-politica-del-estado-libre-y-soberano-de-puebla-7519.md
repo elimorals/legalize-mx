@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2007-08-20"
+last_updated: "2008-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -207,19 +207,23 @@ V.- La atención de la salud de los habitantes del Estado, la promoción de una 
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
 
-VI. La creación del organismo de protección, respeto y defensa de los derechos humanos, el que conocerá de quejas en contra de actos u omisiones administrativos que emanen de autoridades o servidores públicos que violen los mismos, a excepción de los del Poder Judicial del Estado; podrá formular recomendaciones públicas autónomas, de ninguna manera obligatorias para las autoridades o servidores involucrados y asimismo, denuncias y quejas ante las autoridades respectivas. Este Organismo carecerá de competencia para conocer de asuntos electorales, laborales y jurisdiccionales; y (sic)
+VI.- La creación del organismo de protección, respeto y defensa de los derechos humanos, el que conocerá de quejas en contra de actos u omisiones administrativos que emanen de autoridades o servidores públicos que violen los mismos, a excepción de los del Poder Judicial del Estado; podrá formular recomendaciones públicas autónomas, de ninguna manera obligatorias para las autoridades o servidores involucrados y asimismo, denuncias y quejas ante las autoridades respectivas. Este Organismo carecerá de competencia para conocer de asuntos electorales, laborales y jurisdiccionales; y (sic)
 
 > <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
 
 VII.- Garantizar el acceso a la información pública gubernamental, en los términos que establezca la ley de la materia;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
 
-VIII.- La protección de los derechos de los pueblos y comunidades indígenas; y
+VIII.- La protección de los derechos de los pueblos y comunidades indígenas;
 
-> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
 
-IX.- Garantizar los derechos de las personas menores de dieciocho años a quienes se atribuya la realización de una conducta tipificada como delito, mediante el establecimiento de un Sistema Integral de Justicia en el que se respeten los derechos establecidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales y las leyes aplicables.
+IX.- Garantizar los derechos de las personas menores de dieciocho años a quienes se atribuya la realización de una conducta tipificada como delito, mediante el establecimiento de un Sistema Integral de Justicia en el que se respeten los derechos establecidos en la Constitución Política de los Estados Unidos Mexicanos , los Tratados Internacionales y las leyes aplicables; y
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+X.- Instituir un Tribunal de lo Contencioso Administrativo Estatal, dotado de plena autonomía en el pronunciamiento de sus fallos y con facultades para resolver las controversias derivadas de actos administrativos que se susciten entre la administración pública estatal y los particulares.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -438,6 +442,8 @@ II.- En los demás casos por cumplimiento de la pena, por haber finalizado el t�
 ###### Artículo 27.
 
 Las leyes determinarán a qué autoridad corresponde decretar la suspensión, pérdida o recuperación de los derechos de ciudadano, en qué términos y con qué requisitos ha de dictarse el fallo respectivo, y el tiempo que deba durar la suspensión.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
 ## TITULO SEGUNDO. DEL PODER PUBLICO
 
@@ -743,13 +749,13 @@ XII.- Crear y suprimir empleos públicos, señalando, aumentando o disminuyendo 
 
 XIII.- Erigirse en Gran Jurado para declarar si ha lugar o no a formación de causa contra funcionarios públicos que gocen de fuero constitucional, por delitos del orden común, y si dichos funcionarios son o no culpables de los delitos oficiales que se les imputen.
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
 
-XIV.- Elegir a los Magistrados del Tribunal Superior de Justicia, a propuesta en terna del Ejecutivo y a los del Tribunal Electoral del Estado, en los términos señalados por la legislación electoral vigente;
+XIV.- Elegir a los Magistrados del Tribunal Superior de Justicia y del Tribunal Contencioso Administrativo, a propuesta en terna del Ejecutivo y a los del Tribunal Electoral del Estado, en los términos señalados en la legislación vigente.
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
 
-XV.- Conocer y resolver sobre las renuncias y licencias por más de treinta días del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia y de los del Tribunal Electoral del Estado;
+XV.- Conocer y resolver sobre las renuncias y licencias por más de treinta días del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal Contencioso Administrativo y del Tribunal Electoral del Estado;
 
 > <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
@@ -825,9 +831,13 @@ XXVIII.- Aprobar las leyes de ingresos de los Municipios, así como revisar y fi
 
 XXIX.- Establecer las bases que permitan al Estado y a los Municipios, coordinarse en materia de ingreso, gasto, deuda y patrimonio público, para su desarrollo e inversión;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
 
-XXX.- Expedir leyes que definan los principios y las bases de la planeación para el desarrollo integral, sustentable y equilibrado del Estado y de los Municipios; que establezcan los mecanismos para que la planeación sea coordinada, democrática y congruente en los tres niveles de gobierno, a la vez que cuenten con los instrumentos jurídicos que garanticen la consecución de sus fines y objetivos, así como, el control, evaluación y seguimiento de los planes y programas que la conformen.
+XXX.- Expedir leyes que definan los principios y las bases de la planeación para el desarrollo integral, sustentable y equilibrado del Estado y de los Municipios; que establezcan los mecanismos para que la planeación sea coordinada, democrática y congruente en los tres niveles de gobierno, a la vez que cuenten con los instrumentos jurídicos que garanticen la consecución de sus fines y objetivos, así como el control, evaluación y seguimiento de los planes y programas que la conformen; y
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+XXXI.- Instituir mediante las leyes que para tal efecto expida, el Tribunal de lo Contencioso Administrativo, dotado de autonomía plena en el pronunciamiento de sus fallos y con facultades para resolver los conflictos y controversias que se susciten entre los particulares y la administración pública estatal, ya sea centralizada o paraestatal, estableciendo las normas que regulen su organización y funcionamiento; así como las atribuciones de sus integrantes y los requisitos para su nombramiento, sus procedimientos y los recursos contra las resoluciones que pronuncien.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -2366,6 +2376,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2008.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones legales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ###### ARTÍCULO CUARTO.
 
