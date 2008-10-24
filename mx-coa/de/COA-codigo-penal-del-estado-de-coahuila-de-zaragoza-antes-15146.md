@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2008-08-01"
+last_updated: "2008-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -1641,11 +1641,15 @@ III. IMPOSIBILIDAD DE EJECUTAR OTRO SUSTITUTIVO. Cuando la dependencia encargada
 
 > <small>(ADICIONADA, P.O. 11 DE MAYO DE 2007)</small>
 
-IV. EDAD. Cuando el sentenciado cumpla o haya cumplido setenta años de edad al momento de dictarse la sentencia o durante la ejecución de la pena, y
+IV. EDAD. Cuando el sentenciado cumpla o haya cumplido setenta años de edad al momento de dictarse la sentencia o durante la ejecución de la pena, y (sic)
 
 > <small>(ADICIONADA, P.O. 11 DE MAYO DE 2007)</small>
 
 V. CONDICIÓN FÍSICA Y/O ENFERMEDAD. Cuando el sentenciado sufra alguna discapacidad de tipo físico en los términos de la ley de la materia o se encuentre afectado de una enfermedad crónica cuyo tratamiento, atención y cuidados no puedan prestarse de una manera apropiada en los Centros de Readaptación Social.
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+VI. MUJER EMBARAZADA. Cuando la mujer embarazada privada de su libertad que requiera por prescripción médica y previo dictamen de las autoridades penitenciarias el vivir su embarazo y parto en libertad temporal o internada en una institución médica externa, o bien, que con arreglo a este Código y a la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad para el Estado de Coahuila, se le pueda conceder este beneficio aunque no medie la justificación clínica.
 
 ###### ARTÍCULO 83.
 
@@ -4636,3 +4640,15 @@ P.O. 1 DE AGOSTO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2008.
+
+PRIMERO. Las reformas hechas a los ordenamientos señalados en el presente decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Ante la concurrencia de normas incompatibles entre sí, que se susciten con motivo de la aplicación de este decreto, prevalecerá aquella que otorgue mayor protección a la mujer embarazada.
+
+TERCERO. El Instituto Coahuilense de las Mujeres, contará con un plazo de seis meses a partir de la publicación del presente decreto, para crear la Red de Apoyo a Mujeres Embarazadas de Coahuila.
+
+CUARTO. El Instituto Coahuilense de las Mujeres creará el Reglamento para la Cooperación y Funcionamiento de las Redes de Apoyo a Mujeres Embarazadas de Coahuila.
+
+QUINTO. Publíquese el presente decreto en el Periódico Oficial del Estado.
