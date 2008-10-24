@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ejecucion-de-sanciones-privativas-y-restrictivas-de-4743
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2008-01-15"
+last_updated: "2008-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD PARA EL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 2 de diciembre de 2005.
 
@@ -273,6 +273,10 @@ Toda persona, al momento de quedar recluida en un establecimiento penitenciario,
 
 En caso de que la valoración médica así lo indique, se le suministrará la atención médica correspondiente. De igual forma, se procurará conocer sus necesidades vitales para satisfacerlas en la medida que lo permita la capacidad del establecimiento.
 
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+Las mujeres embarazadas contarán con todos los derechos previstos en la Ley para la Protección de la Maternidad en el Estado de Coahuila, los que se aplicarán conforme a lo que prevenga esta ley y el Código Penal del Estado.
+
 ###### ARTÍCULO 26.
 
 En todo establecimiento destinado a procesados y sentenciados, se llevará al día un libro de registro estampado y foliado. Dicho libro deberá contener:
@@ -305,9 +309,11 @@ A los indiciados, procesados y sentenciados en general, se les concederán todas
 
 Tanto las personas y los vehículos que entren o salgan de algún centro de readaptación social, como los objetos que sean transportados por los mismos, quedarán sujetos a las medidas de revisión y registro establecidas en el reglamento interior del centro respectivo.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
 ###### ARTÍCULO 32.
 
-Todo interno tiene derecho a comunicarse con sus familiares y otras personas, sujetándose al reglamento o a lo dispuesto por medio de las circulares pertinentes giradas por la Dirección de Readaptación Social. Así mismo, los internos podrán enviar y recibir correspondencia, así como cualquier tipo de paquetes, los que podrán ser abiertos y supervisados por la Dirección del centro, de acuerdo a las disposiciones reglamentarias del mismo. La apertura de paquetes destinados a los internos la hará el Director o persona que él determine en presencia del interno, resolviendo lo que proceda conforme al reglamento o a lo dispuesto por la Dirección de Readaptación Social.
+Todo interno tiene derecho a comunicarse con sus familiares, médicos de su elección y otras personas, sujetándose al reglamento o a lo dispuesto por medio de las circulares pertinentes giradas por la Dirección de Readaptación Social. Así mismo, los internos podrán enviar y recibir correspondencia, así como cualquier tipo de paquetes, los que podrán ser abiertos y supervisados por la Dirección del Centro, de acuerdo a las disposiciones reglamentarias del mismo. La apertura de paquetes destinados a los internos la hará el Director o persona que él determine en presencia del interno, resolviendo lo que proceda conforme al reglamento o a lo dispuesto por la Dirección de Readaptación Social.
 
 ###### ARTÍCULO 33.
 
@@ -332,6 +338,10 @@ Si el fallecimiento o la enfermedad grave ocurre dentro de la jurisdicción del 
 Cuando el interno padezca de una enfermedad para cuyo tratamiento y curación sea indispensable su externamiento, el Director del Centro la podrá autorizar, siempre y cuando la atención vaya a ser recibida dentro de la jurisdicción del mismo; en caso contrario la autorización deberá ser emitida por la Dirección de Readaptación Social.
 
 La autorización se dará siempre y cuando se haya comprobado fehacientemente la existencia de la enfermedad, se realice en horas hábiles y previa expedición del certificado conducente por el médico del Centro o, en su defecto, por el médico del sector salud de la localidad. En estos casos, siempre se proveerá la custodia del externado, con las medidas de seguridad pertinentes.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+Las internas embarazadas podrán acceder a los derechos previstos en las leyes sanitarias y de asistencia social del Estado, con estricto apego los requisitos que para su externamiento disponga esta ley y la legislación penal de Coahuila.
 
 ###### ARTÍCULO 38.
 
@@ -561,7 +571,9 @@ a. Los internos mayores de 60 años;
 
 b. Los impedidos física y mentalmente; y
 
-c. Las mujeres, durante las seis semanas anteriores al parto y en las seis siguientes al mismo.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+c. Las mujeres, durante las ocho semanas anteriores al parto y en las ocho siguientes al mismo.
 
 Las personas comprendidas en los incisos a y c que voluntariamente deseen trabajar, podrán dedicarse a la ocupación que elijan siempre que no fuere perjudicial a su salud.
 
@@ -1210,3 +1222,15 @@ SEGUNDO. Las dependencias y entidades que actualmente ejecutan funciones que med
 TERCERO. Se otorga un plazo de 30 días hábiles para que se lleven a cabo las reformas y adecuaciones a las disposiciones reglamentarias que correspondan.
 
 CUARTO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2008.
+
+PRIMERO. Las reformas hechas a los ordenamientos señalados en el presente decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Ante la concurrencia de normas incompatibles entre sí, que se susciten con motivo de la aplicación de este decreto, prevalecerá aquella que otorgue mayor protección a la mujer embarazada.
+
+TERCERO. El Instituto Coahuilense de las Mujeres, contará con un plazo de seis meses a partir de la publicación del presente decreto, para crear la Red de Apoyo a Mujeres Embarazadas de Coahuila.
+
+CUARTO. El Instituto Coahuilense de las Mujeres creará el Reglamento para la Cooperación y Funcionamiento de las Redes de Apoyo a Mujeres Embarazadas de Coahuila.
+
+QUINTO. Publíquese el presente decreto en el Periódico Oficial del Estado.
