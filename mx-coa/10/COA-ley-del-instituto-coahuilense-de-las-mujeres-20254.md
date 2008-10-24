@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-coahuilense-de-las-mujeres-20254"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-13"
-last_updated: "2001-02-13"
+last_updated: "2008-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL INSTITUTO COAHUILENSE DE LAS MUJERES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 13 de febrero de 2001.
 
@@ -57,11 +57,19 @@ I. Formular, coordinar, dar seguimiento y evaluar el Programa Estatal de las Muj
 
 II. Coadyuvar, con las instancias que correspondan, para eliminar toda forma de discriminación hacia las mujeres, entendiéndose por tal: toda distinción, exclusión o restricción basada en su condición de género femenino que tuviera como resultado el limitar el reconocimiento, goce o ejercicio de sus derechos, independientemente de su estado civil y sus libertades fundamentales en los ámbitos político, económico, social, cultural y civil.
 
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+III. Crear, administrar y vigilar en el ámbito de su competencia la Red de Apoyo a Mujeres Embarazadas, con objeto de brindar todos los apoyos necesarios para el ejercicio de los derechos de la mujer embarazada, resguardar su salud, la del niño en gestación y en infancia temprana.
+
 ###### ARTÍCULO 3°.
 
 Para el cumplimiento de su objeto, el Instituto tendrá las atribuciones siguientes:
 
-I. Elaborar, en coordinación con las dependencias y entidades de la administración pública del estado, el Programa Estatal de las Mujeres que deberá contener los objetivos, estrategias y líneas de acción para lograr el avance en la equidad entre las mujeres y los hombres.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
+
+I. Elaborar, en coordinación con las dependencias y entidades de la administración pública del Estado, el Programa Estatal de las Mujeres que deberá contener los objetivos, estrategias y líneas de acción para lograr el avance en la equidad entre las mujeres y los hombres.
+
+Asimismo, crear, administrar y mantener vigente la Red de Apoyo a las Mujeres Embarazadas. Esto, en coordinación con todas las dependencias e instancias conforme a lo previsto en la Ley de Protección a la Maternidad en el Estado de Coahuila.
 
 II. Coordinar, dar seguimiento y evaluar las acciones que lleven a cabo las dependencias y entidades estatales, en el marco del Programa Estatal de las Mujeres.
 
@@ -598,3 +606,17 @@ LIC. JAVIER GUERRERO GARCIA
 LA SECRETARIA DE LA CONTRALORIA Y MODERNIZACION ADMINISTRATIVA
 
 C.P. Y M.I. MA. INES GARZA ORTA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE OCTUBRE DE 2008.
+
+PRIMERO. Las reformas hechas a los ordenamientos señalados en el presente decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Ante la concurrencia de normas incompatibles entre sí, que se susciten con motivo de la aplicación de este decreto, prevalecerá aquella que otorgue mayor protección a la mujer embarazada.
+
+TERCERO. El Instituto Coahuilense de las Mujeres, contará con un plazo de seis meses a partir de la publicación del presente decreto, para crear la Red de Apoyo a Mujeres Embarazadas de Coahuila.
+
+CUARTO. El Instituto Coahuilense de las Mujeres creará el Reglamento para la Cooperación y Funcionamiento de las Redes de Apoyo a Mujeres Embarazadas de Coahuila.
+
+QUINTO. Publíquese el presente decreto en el Periódico Oficial del Estado.
