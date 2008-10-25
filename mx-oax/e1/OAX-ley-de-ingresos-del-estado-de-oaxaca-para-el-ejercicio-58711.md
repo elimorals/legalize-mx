@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ingresos-del-estado-de-oaxaca-para-el-ejercicio-58711"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2007-12-29"
-last_updated: "2008-09-27"
+last_updated: "2008-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE INGRESOS DEL ESTADO DE OAXACA PARA EL EJERCICIO FISCAL 2008
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2008.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 29 de diciembre de 2007.
 
@@ -561,17 +561,33 @@ motocicletas, motonetas y otros vehículos
 
 similares sin remolque: 5.50
 
-l) Por baja de placas: 1.65
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2008)</small>
 
-m) Por tarjetón de carga para transporte de carga
+l) Por juego de placas y tarjeta de circulación
+
+para motocicletas, motonetas y otros vehículos
+
+similares con remolque y/o cabina dedicadas al
+
+al (sic) servicio público o de alquiler 8.25
+
+m) Por baja de placas: 1.65
+
+n) Por tarjetón de carga para transporte de carga
 
 particular: 8.80
 
 II. Por refrendo anual vehicular:
 
-a) Por el refrendo anual vehicular de motonetas,
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2008)</small>
 
-motocicletas y otros vehículos similares: 2.20
+a) Refrendo anual vehicular de motonetas,
+
+motocicletas y otros vehículos similares del:
+
+servicio particular: 2.20
+
+servicio público 3.20
 
 b) Por el refrendo vehicular de automóviles,
 
@@ -585,9 +601,15 @@ automóviles, omnibuses, autobuses y camiones
 
 del servicio público o particular: 3.30
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2008)</small>
+
 d) Por reposición de tarjeta de circulación de
 
-motocicletas, motonetas y vehículos similares: 3.30
+motocicletas, motonetas y vehículos similares del:
+
+servicio particular 3.30
+
+servicio público 4.30
 
 Para que la autoridad fiscal entregue placas o calcomanía de identificación vehicular y la tarjeta de circulación o en su caso cuando opere la baja de las placas a que se refiere las fracciones anteriores, es requisito indispensable la comprobación del pago de los Impuestos Sobre Tenencia o Uso de Vehículo federal o estatal de los cinco últimos ejercicios fiscales, así como del Impuesto Sobre Enajenación de Automóviles, Camiones y demás vehículos de motor usados y de los derechos por servicios de control vehicular que correspondan.
 
@@ -3678,5 +3700,9 @@ ING. TEOFILO MANUEL GARCÍA CORPUS.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 27 DE SEPTIEMBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE OCTUBRE DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
