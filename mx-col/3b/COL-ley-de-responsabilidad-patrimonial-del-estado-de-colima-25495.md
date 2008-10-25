@@ -4,7 +4,7 @@ identifier: "COL-ley-de-responsabilidad-patrimonial-del-estado-de-colima-25495"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-22"
-last_updated: "2002-06-22"
+last_updated: "2008-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2008.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 22 de junio de 2002.
 
@@ -105,13 +105,17 @@ En la fijación de los montos de las partidas presupuestales, deberán preverse 
 
 El monto absoluto que se fije en cada uno de los presupuestos de egresos destinado al concepto de responsabilidad patrimonial a que se refiere el artículo anterior, deberá ajustarse anualmente en una proporción igual al incremento promedio que se registre en dichos presupuestos, salvo que exista una propuesta justificada de modificación presupuestal diferente a la regla general antes prevista.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 8º.
 
-Las indemnizaciones fijadas por las autoridades administrativas o contencioso administrativas, que excedan del monto máximo presupuestado en un ejercicio fiscal determinado, serán cubiertas en el siguiente ejercicio fiscal, según el orden de registro a que se refiere el artículo 19 de la presente ley, sin perjuicio del pago de intereses por demora que como compensación financiera se calculen en los términos de esta Ley, el Código Fiscal del Estado o, en su caso, la Ley General de Hacienda Municipal.
+Las indemnizaciones fijadas por las autoridades administrativas o contencioso administrativas, que excedan del monto máximo presupuestado en un ejercicio fiscal determinado, serán cubiertas en el siguiente ejercicio fiscal, según el orden de registro a que se refiere el artículo 19 de la presente Ley, sin perjuicio del pago de intereses por demora que como compensación financiera se calculen en los términos de esta Ley, el Código Fiscal o, en su caso, el Código Fiscal Municipal, ambos Códigos, del Estado de Colima.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 9º.
 
-A falta de disposición expresa en esta ley, se aplicarán las disposiciones contenidas en el Código Fiscal y el Código Civil vigentes para el Estado.
+A falta de disposición expresa en esta Ley, se aplicarán supletoriamente las disposiciones contenidas en el Código Fiscal, el Código Civil y el Código de Procedimientos Civiles, vigentes para el Estado de Colima.
 
 ###### Artículo 10.
 
@@ -119,11 +123,13 @@ A quien promueva una reclamación notoriamente improcedente o que sea declarada 
 
 Si con motivo de una impugnación posterior se determinara que la reclamación de indemnización debe ser admitida a trámite, se iniciará el procedimiento correspondiente.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 11.
 
 Las dependencias o entidades estarán obligadas a denunciar ante el Ministerio Público a toda persona que directa o indirectamente participe, coadyuve, asista o simule la producción de daños con el propósito de acreditar indebidamente la responsabilidad patrimonial del Estado o de obtener alguna de las indemnizaciones a que se refiere esta Ley.
 
-Para que proceda una reclamación de indemnización ésta nunca deberá ser inferior a veinticinco unidades.
+Para que proceda una reclamación de indemnización ésta nunca deberá ser inferior a cincuenta unidades.
 
 ### CAPÍTULO II. DE LAS INDEMNIZACIONES
 
@@ -189,15 +195,33 @@ Los procedimientos de responsabilidad patrimonial del Estado se iniciarán por r
 
 La parte interesada podrá presentar indistintamente su reclamación ante la dependencia o entidad presuntamente responsable o bien ante el órgano contencioso administrativo competente que indiquen las leyes de la materia.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 22.
 
-En caso de optar por la vía administrativa, la solicitud deberá contener como mínimo: los datos generales del reclamante; domicilio para oír notificaciones; la narración de hechos así como la relación de causalidad a que se refiere el artículo 25 de la presente Ley; la fecha y hora en que ocurrió el acto que generó el daño; un cálculo estimado del mismo daño; el ofrecimiento de las pruebas, así como la firma o huella digital.
+En caso de optar por la vía administrativa, la solicitud de reclamación deberá contener como mínimo lo siguiente:
+
+I.- El nombre, denominación o razón social del promovente y, en su caso, del representante legal, agregándose los documentos que acrediten la personería;
+
+II.- Señalar en su solicitud al o los servidores públicos involucrados en la actividad administrativa que se considere lesiva, solo (sic) en el caso de que pueda identificarlos;
+
+III.- Describir los hechos y razones en los que apoya su petición;
+
+IV.- Indicar el monto de la indemnización que se exija;
+
+V.- Anexar los documentales y ofrecer los demás medios probatorios que estime oportuno para acreditar la actividad administrativa, la lesión y la relación de causalidad entre la primera y la segunda; y
+
+VI.- Toda reclamación deberá estar firmada por quien formule y sin este requisito se tendrá por no presentada, a menos que el solicitante no sepa o no pueda firmar, caso en el cual, imprimirá su huella digital y firmará otra persona a su ruego.
 
 Por el solo hecho de presentar por escrito la solicitud se tendrá por ratificada para los efectos de procedimiento.
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 22 Bis.
+
 Después de recibida la solicitud, el titular de la dependencia o entidad involucrada emplazará al servidor público a quien se le atribuye la lesión, a efecto de que en un plazo no mayor de cinco días hábiles dé contestación, alegue lo que a su derecho convenga y ofrezca las pruebas de descargo. A continuación se abrirá un periodo probatorio, con una duración no mayor a los diez días hábiles, durante el cual se desahogarán las pruebas ofrecidas.
 
-Concluido el periodo probatorio el titular estará obligado en un plazo que no excederá de los diez días hábiles, a estudiar el asunto y a emitir resolución por escrito, debidamente fundada y motivada, misma que deberá contener los elementos a que se refiere el Artículo 27 de la presente Ley.
+Concluido el periodo probatorio el titular estará obligado en un plazo que no excederá de los diez días hábiles, a estudiar el asunto y a emitir resolución por escrito, debidamente fundada y motivada, misma que deberá contener los elementos a que se refiere el artículo 27 de la presente Ley.
 
 ###### Artículo 23.
 
@@ -271,9 +295,11 @@ En los casos de concurrencia de dos o más dependencias o entidades en la produc
 
 ### CAPÍTULO V. DE LA PRESCRIPCIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 35.
 
-El derecho de reclamar indemnización prescribe en un año que se computará a partir del día siguiente a aquél en que se hubiera producido la lesión patrimonial o a partir del momento que hubiesen cesado sus efectos lesivos, si fuesen de carácter continuo.
+El derecho de reclamar indemnización ante la dependencia o entidad presuntamente responsable o bien ante los órganos de lo contencioso administrativo, prescribe en un año que se computará a partir del día siguiente a aquél en que se hubiera producido la lesión patrimonial, o a partir del momento que hubiesen cesado sus efectos lesivos, si fuesen de carácter continuo.
 
 Cuando existan daños de carácter físico o psicológico a las personas, el plazo de prescripción empezará a contar desde la fecha en que ocurra el alta del paciente o la determinación del alcance de las secuelas de las lesiones inferidas.
 
@@ -328,3 +354,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 19 días del mes de junio del año dos mil dos.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA, Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA. Rúbrica.
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.
+
+P.O. 25 DE OCTUBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
