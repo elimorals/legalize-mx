@@ -4,7 +4,7 @@ identifier: "TAB-ley-estatal-de-presupuesto-contabilidad-y-gasto-publico-19200"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2000-12-30"
+last_updated: "2008-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ESTATAL DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2008.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 30 de diciembre de 2000.
 
@@ -103,15 +103,27 @@ b) Las demás que establezca esta ley y otras disposiciones aplicables.
 
 Asimismo llevarán en forma analítica, el estado de ejercicio de sus presupuestos.
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2008)</small>
+
+Artículo 5 bis.- Para los efectos de esta Ley, se entenderá por
+
+I. Equidad de género: Se refiere al principio que, consciente de la desigualdad existente entre géneros, apoya claramente que las mujeres accedan con justicia e igualdad al uso, control y beneficio de los bienes, servicios, oportunidades y recompensas de la sociedad. Mediante él, el Estado impulsa con todas sus herramientas y acciones que se logre su participación plena en todos los ámbitos de la vida social, económica, política, cultural y familiar.
+
+II. Perspectiva de género: Herramienta de análisis que permite identificar las diferencias entre mujeres y hombres, para establecer acciones públicas diferenciadas, acordes con las características y necesidades de hombres y mujeres. El uso de la perspectiva de género permite que las acciones de gasto público en las diferentes unidades administrativas establezcan deliberadamente condiciones reales para mejorar el acceso de las mujeres a los bienes y servicios públicos, incrementando su eficacia e impacto público.
+
+III. Transversalidad de la equidad de género: Es una estrategia que considera las necesidades de los diversos sectores de la población de forma integral. Una política de género parte de un diagnóstico participativo que permite conocer las necesidades e intereses de las mujeres y de los hombres beneficiarios, de manera que la asignación de recursos responda a la problemática específica de cada sector, incluyendo en todas las fases del proyecto tanto a hombres como a mujeres.
+
+Los conceptos utilizados en la presente Ley que requieran ser precisados y que no se encuentren incluidos en este apartado deberán incluirse en el reglamento respectivo.
+
 ###### Artículo 6.
 
 Las entidades del Ejecutivo del Estado orientarán y coordinarán la planeación, programación, presupuestación, control y evaluación del gasto de acuerdo al Plan Estatal de Desarrollo.
 
-> <small>(F. DE E., P.O. 3 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 7.
 
-Cada entidad a que se refiere esta Ley, deberá planear, programar, presupuestar, controlar y evaluar sus actividades respecto del gasto público. La Secretaría de Planeación y Finanzas, previo acuerdo con el Ejecutivo del Estado podrá efectuar las modificaciones y adecuaciones que con respecto de la programación del gasto social deban incorporarse a los presupuestos de sus entidades.
+Cada entidad a que se refiere esta Ley, deberá planear, programar, presupuestar, controlar y evaluar sus actividades respecto al gasto público con perspectiva y transversalidad de género. La Secretaría de Planeación y Finanzas, previo acuerdo con el Ejecutivo del Estado podrá efectuar las modificaciones y adecuaciones que con respecto de la programación del gasto social deban incorporarse a los presupuestos de sus entidades.
 
 > <small>(F. DE E., P.O. 3 DE ENERO DE 2001)</small>
 
@@ -129,9 +141,11 @@ Para constituir fideicomisos de los señalados en el artículo 3, fracción III 
 
 Unicamente se podrán concertar créditos para financiar programas incluidos en los presupuestos de las entidades a que se refiere el artículo 3, fracción III, incisos a), b) y c), de esta Ley. Estos créditos se concertarán y contratarán con autorización expresa de la Secretaría de Planeación y Finanzas, respetándose las directrices marcadas en la Ley de Deuda Pública y las facultades conferidas al Congreso del Estado en el artículo 36, fracción XII, de la Constitución Política del Estado.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 11.
 
-El Ejecutivo del Estado por conducto de la Secretaria de Planeación y Finanzas, proporcionará a solicitud del Congreso del Estado, todos los datos, estadísticas e información general que puedan contribuir a una mejor comprensión de las proposiciones contenidas en los proyectos del presupuesto de ingresos y egresos.
+El Ejecutivo del Estado por conducto de la Secretaría de Administración y Finanzas, proporcionará a solicitud del Congreso del Estado todos los datos, estadísticas, indicadores de género e información general que puedan contribuir a una mejor comprensión de las proposiciones contenidas en los proyectos de presupuesto de ingresos y egresos.
 
 ###### Artículo 12.
 
@@ -179,9 +193,13 @@ c) El desglose de los ingresos, calculándose los impuestos, derechos, productos
 
 II. El proyecto de Presupuesto de Egresos
 
-a) La descripción de los programas que sea la base de proyecto, señalándose objetivos, metas y unidades responsable (sic), de su ejecución, así como su valuación estimada por programas, y
+a) La descripción de los programas que sea la base de proyecto, señalándose objetivos, metas y unidades responsable (sic), de su ejecución, así como su valuación estimada por programas, y (sic)
 
-b) La explicación de los principales programas y, en especial, de aquellos que abarquen dos o más ejercicios fiscales.
+b) La explicación de los principales programas y, en especial, de aquellos que abarquen dos o más ejercicios fiscales;
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2008)</small>
+
+c) A nivel de programas deberá contener la perspectiva de género, identificando a los beneficiarios por hombres y mujeres, zona y grado de marginalidad.
 
 ###### Artículo 19.
 
@@ -285,9 +303,11 @@ Las entidades que reciban, administren y ejerzan recursos del erario federal, y 
 
 ### CAPITULO V. CONTROL Y EVALUACION DEL GASTO PUBLICO
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 37.
 
-La Secretaría de Contraloría y Desarrollo Administrativo fijará las normas de control, fiscalización, y auditoría que deban observar las entidades del Ejecutivo del Estado, al efecto establecerá y pondrá en operación un sistema de control y evaluación del gasto público con relación al Presupuesto de Egresos, al Plan Estatal de Desarrollo, los programas y las políticas gubernamentales.
+La Secretaría de Contraloría fijará las normas de control, fiscalización y auditoria que deban observar las entidades del Ejecutivo del Estado. Al efecto, establecerá y pondrá en operación un sistema de control del gasto público con relación al Presupuesto de Egresos, al Plan Estatal de Desarrollo, los programas y las políticas gubernamentales, construyendo indicadores con la perspectiva de género en cada sector, de manera transversal, para revisar y evaluar cómo los programas y los proyectos están contribuyendo a la equidad de género.
 
 ###### Artículo 38.
 
@@ -345,9 +365,11 @@ La Secretaría de Contraloría y Desarrollo Administrativo informará al Titular
 
 ### CAPITULO VI. DE LA CUENTA PUBLICA
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 47.
 
-La Cuenta Pública Estatal se conformará de acuerdo con la contabilidad gubernamental y deberá contener la información financiera, presupuestaria, programática y económica.
+La Cuenta Pública Estatal se conformará de acuerdo con la contabilidad gubernamental y deberá contener la información financiera, presupuestaria, programática y económica, así como los avances e impactos de la perspectiva de género de manera descriptiva, en tanto no se cuente con los indicadores de género respectivos.
 
 ###### Artículo 48.
 
@@ -402,3 +424,11 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 LIC. CARLOS MANUEL PÉREZ PRIEGO.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE OCTUBRE DE 2008.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se sustituye a lo largo de esta Ley, "Secretaría de Planeación y Finanzas" por "Secretaría de Administración y Finanzas" y "Secretaría de Contraloría y Desarrollo Administrativo" por "Secretaría de Contraloría".
