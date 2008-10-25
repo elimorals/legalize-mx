@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-planeacion-9023"
 country: "mx"
 rank: "ley"
 publication_date: "1983-07-13"
-last_updated: "1999-06-16"
+last_updated: "2008-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,9 @@ state: "TAB"
 
 LEY DE PLANEACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2008.
 
-Ley publicada en el Periódico Oficial del Estado de Tabasco, el 13 de julio de 1983.
+Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 13 de julio de 1983.
 
 ENRIQUE GONZALEZ PEDRERO; GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TABASCO, A SUS HABITANTES SABED:
 
@@ -56,9 +56,17 @@ III.- Las bases para que el Ejecutivo Estatal coordine sus actividades de planea
 
 IV.- Las bases para que el Ejecutivo Estatal coordine sus actividades de planeación con los Municipios, conforme a la Legislación aplicable;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2008)</small>
+
 V.- Las bases para promover y garantizar la participación Democrática de los diversos grupos sociales, a través de sus organizaciones representativas, en la elaboración de los planes y programas a que se refiere esta Ley;
 
-VI.- Las bases para que las acciones de particulares contribuyan a alcanzar los objetivos y prioridades de planes y programas.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2008)</small>
+
+VI.- Las bases para que las acciones de particulares contribuyan a alcanzar los objetivos y prioridades de planes y programas; y
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2008)</small>
+
+VII.- Las bases necesarias para que el Ejecutivo estatal incorpore el enfoque de género en las actividades de planeación de la Administración Pública Estatal, así como en las que coordine con la Federación y los Municipios.
 
 ###### ARTICULO 2°.
 
@@ -68,7 +76,9 @@ I.- El fortalecimiento de la Soberanía y la ampliación del régimen de garant�
 
 II.- La preservación y el perfeccionamiento del régimen democrático, republicano, federal y representativo que la Constitución General de la República y la Local establecen; y la consolidación de la democracia como sistema de vida, fundada en el constante mejoramiento económico, social y cultural del pueblo, impulsando su participación activa en la planeación y ejecución de las actividades del Gobierno;
 
-III.- La igualdad de derechos, la atención de las necesidades básicas de la población y la mejoría en todos los aspectos de la calidad de vida; para lograr una sociedad más igualitaria;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2008)</small>
+
+III.- La igualdad de derechos, la atención de las necesidades básicas de la población y la mejoría en todos los aspectos de la calidad de vida; para lograr una sociedad que favorezca la equidad y la igualdad de oportunidades entre hombres y mujeres;
 
 IV.- El respeto irrestricto de las garantías individuales y de las libertades y derechos sociales y políticos;
 
@@ -126,9 +136,11 @@ Lo dispuesto en el párrafo anterior será aplicable a las Entidades de la Admin
 
 Los proyectos de iniciativas de Leyes y los Reglamentos, Decretos y Acuerdos que formule el Ejecutivo Estatal, señalarán las relaciones que, en su caso, existan entre el proyecto de que se trate y el Plan y los programas respectivos.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2008)</small>
+
 ###### ARTICULO 13.
 
-En caso de duda sobre la interpretación de las disposiciones de esta Ley se estará a lo que resuelva el Ejecutivo Estatal, para efectos administrativos, por conducto de la Secretaría de Programación.
+En caso de duda sobre la interpretación de las disposiciones de esta Ley se estará a lo que resuelva el Ejecutivo Estatal, para efectos administrativos, por conducto de la Secretaría de Planeación.
 
 ### CAPITULO SEGUNDO
 
@@ -158,13 +170,23 @@ IV.- Asegurar que los planes y los programas que se generen en el Sistema, mante
 
 V.- Coordinar las actividades, que en materia de investigación y capacitación para la planeación, realicen las dependencias de la administración pública estatal;
 
-VI.- Elaborar los programas anuales globales para la ejecución del Plan Estatal y de los Programas Regionales y especiales, tomando en cuenta las propuestas que para el efecto realicen las Secretarías de la Administración Pública Estatal y los respectivos Gobiernos Municipales; y
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2008)</small>
 
-VII.- Verificar, periódicamente, la relación que guarden los programas y presupuestos de las diversas dependencias de la administración pública, así como los resultados de su ejecución, con los objetivos y prioridades del Plan y los programas a que se refiere esta Ley, a fin de adoptar las medidas necesarias que corrijan las desviaciones detectadas y retomar, en su caso, el Plan y los programas respectivos.
+VI.- Elaborar los programas anuales globales para la ejecución del Plan Estatal y de los Programas Regionales y especiales, tomando en cuenta las propuestas que para el efecto realicen las Secretarías de la Administración Pública Estatal y los respectivos Gobiernos Municipales;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2008)</small>
+
+VII.- Verificar, periódicamente, la relación que guarden los programas y presupuestos de las diversas dependencias de la administración pública, así como los resultados de su ejecución, con los objetivos y prioridades del Plan y los programas a que se refiere esta Ley, a fin de adoptar las medidas necesarias que corrijan las desviaciones detectadas y retomar, en su caso, el Plan y los programas respectivos; y
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2008)</small>
+
+VIII.- Promover la construcción de indicadores de género, que permitan evaluar el impacto de las políticas públicas contenidas en el Plan desde una perspectiva de género que permita que las acciones de gasto público en las diferentes unidades administrativas, establezcan deliberadamente condiciones reales para mejorar el acceso de las mujeres a los bienes y servicios públicos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 17.
 
-A la Secretaría de Finanzas le corresponde:
+A la Secretaría de Planeación le corresponde:
 
 I.- Participar en la elaboración del Plan Estatal de Desarrollo; respecto a la definición de las políticas financieras, fiscales y crediticias; estableciendo la congruencia con las políticas que sobre esta materia haya dictado la Federación;
 
@@ -294,13 +316,17 @@ Las dependencias encargadas de la ejecución del Plan Estatal y de los Municipal
 
 Los planes y programas a que se refieren los artículos anteriores, especificarán las acciones que serán objeto de coordinación entre los gobernantes de los municipios, del Estado y de la Federación, así como de inducción o concertación con los grupos sociales interesados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2008)</small>
+
 ###### ARTICULO 36.
 
-El plan estatal y los programas regionales, estatales y especiales deberán ser sometidos por la Secretaría de Programación en el seno del Comité de Planeación para el Desarrollo del Estado de Tabasco a que alude el artículo 16 de esta Ley, a la consideración y aprobación del Gobernador del Estado.
+El plan estatal y los programas regionales, estatales y especiales deberán ser sometidos por la Secretaría de Planeación en el seno del Comité de Planeación para el Desarrollo del Estado de Tabasco a que alude el artículo 16 de esta Ley, a la consideración y aprobación del Gobernador del Estado.
 
 Los programas institucionales deberan ser sometidos por el organo de Gobierno y Administración de la entidad paraestatal o paramunicipal respectiva, a la aprobación del titular de la dependencia coordinadora del sector, en el primer caso, y al ayuntamiento en el segundo.
 
-Si la entidad paraestatal no estuviera agrupada en un sector específico, la aprobación a que alude el párrafo anterior corresponderá a la Secretaría de Programación.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2008)</small>
+
+Si la entidad paraestatal no estuviera agrupada en un sector específico, la aprobación a que alude el párrafo anterior corresponderá a la Secretaría de Planeación.
 
 Los programas sectoriales deberán ser sometidos a la consideración y aprobación del Gobernador del Estado, en el seno del comité de planeación para el desarrollo del Estado de Tabasco a que alude el artículo 16 de esta Ley, por la dependencia coordinadora del sector correspondiente.
 
@@ -493,3 +519,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Para efectos de la publicación del Programa Operativo Anual, a que se refieren los artículos 37 y 38, por esta ocasión se publicarán a más tardar el día 30 de junio de 1999, conteniendo las adecuaciones o ajustes a dichos programas realizados al primer trimestre del presente ejercicio fiscal.
+
+P.O. 25 DE OCTUBRE DE 2008.
+
+PRIMERO.- El presente decreto, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
