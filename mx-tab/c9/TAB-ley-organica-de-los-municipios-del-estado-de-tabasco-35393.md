@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-35393"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-03"
-last_updated: "2008-02-23"
+last_updated: "2008-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2008.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de diciembre de 2003.
 
@@ -1201,13 +1201,17 @@ XI. Dirección de Tránsito;
 
 XII. Dirección de Asuntos Jurídicos;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2008)</small>
 
-XIII. Dirección de Atención Ciudadana; y
+XIII. Dirección de Atención Ciudadana;
 
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2008)</small>
 
-XIV.- Dirección de Atención a las Mujeres.
+XIV. Dirección de Atención a las Mujeres, y
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2008)</small>
+
+XV. Dirección de Protección Ambiental y Desarrollo Sustentable.
 
 ###### Artículo 74.
 
@@ -1503,7 +1507,7 @@ I. Formular los programas de desarrollo urbano municipal y las políticas de cre
 
 II. Conducir, controlar y vigilar la utilización del suelo en la jurisdicción municipal, e intervenir en los trámites para regularizar la tenencia de la tierra urbana;
 
-III. Proponer al presidente municipal la creación de las zonas de reserva ecológicas y la expedición de los reglamentos correspondientes;
+III. (DEROGADA, P.O. 25 DE OCTUBRE DE 2008)
 
 IV. Proponer y vigilar el cumplimiento de las normas y criterios para la regularización y rehabilitación de los asentamientos humanos irregulares, promoviendo, en su caso, la colaboración de los habitantes para su aplicación;
 
@@ -1513,7 +1517,9 @@ VI. Elaborar y vigilar el cumplimiento de los planos reguladores del crecimiento
 
 VII. Participar en la realización de los programas de vivienda y urbanización;
 
-VIII. Participar en la formulación y operación de los planes, programas específicos y servicios públicos, para el abastecimiento y tratamiento de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, de la competencia municipal, y en su caso, de acuerdo a los convenios respectivos, que se firmen con el gobierno Estatal;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2008)</small>
+
+VIII. Participar coordinadamente con la Dirección de Protección Ambiental y Desarrollo Sustentable, en la formulación y operación de los planes, programas específicos y servicios públicos, para las obras de abastecimiento y tratamiento de agua potable, drenaje y alcantarillado de la competencia municipal, y en su caso, de acuerdo a los convenios que se firmen con el gobierno estatal;
 
 IX. Participar en la planeación y elaborar el Programa de Obras Públicas del Municipio, formulando los estudios, proyectos y presupuesto de las mismas, excepto las encomendadas expresamente a otras dependencias o entes creados legalmente para ello;
 
@@ -1527,7 +1533,7 @@ XIII. Elaborar y mantener al corriente el avalúo de los bienes inmuebles del Mu
 
 XIV. Determinar la nomenclatura de las calles o avenidas y la numeración de las casas del Municipio;
 
-XV. Realizar las acciones necesarias para preservar y proteger el equilibrio ecológico en el Municipio;
+XV. (DEROGADA, P.O. 25 DE OCTUBRE DE 2008)
 
 XVI. En general realizar todas las obras requeridas para la prestación de los servicios públicos enumerados en esta Ley;
 
@@ -1535,7 +1541,7 @@ XVII. Planear, elaborar y ejecutar el programa de conservación, mantenimiento y
 
 XVIII. Realizar los estudios, programas y presupuestos necesarios para la prestación de los servicios públicos municipales;
 
-XIX. Prestar los servicios de limpieza, recolección, traslado, tratamiento y disposición final de residuos y almacenamiento de la basura;
+XIX. (DEROGADA, P.O. 25 DE OCTUBRE DE 2008)
 
 XX. Mantener en buen estado el alumbrado público y ampliarlo en los asentamientos humanos que lo requieran;
 
@@ -1547,13 +1553,25 @@ XXIII. Administrar los rastros, cuidando que el sacrificio de los animales se ha
 
 XXIV. Mantener en óptimas condiciones de funcionamiento y limpieza las calles, monumentos, parques, puentes, jardines y demás sitios de uso público;
 
-XXV. Establecer los criterios y lineamientos para el trámite de manifestación de impacto ambiental, en la esfera de sus atribuciones;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2008)</small>
 
-XXVI. Colaborar, en congruencia con sus atribuciones, con las áreas municipales, sobre comunicaciones, asentamientos y obras públicas para regulación y supervisar los programas y actividades que se realicen para la construcción, conservación, mantenimiento y operación de las instalaciones y servicios para el manejo, tratamiento y el reciclamiento de desechos sólidos, residuos industriales, restauración de sitios contaminados y tóxicos y aguas residuales, considerando las responsabilidades de las áreas de la administración municipal involucradas;
+XXV. Coordinarse con la Dirección de Protección Ambiental y Desarrollo Sustentable, con el objeto de establecer los criterios ambientales que deban observarse en las obras urbanas y rurales, así como para los trámites de evaluación de impacto ambiental, ante las instancias correspondientes;
 
-XXVII. Colaborar con las autoridades federales y estatales, en la protección y preservación de los recursos de fauna y flora silvestres del Municipio, de acuerdo con lo que establezca la legislación aplicable; y
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2008)</small>
 
-XXVIII. Las demás que le atribuyan expresamente las leyes, reglamentos, y las que le encomiende directamente el Ayuntamiento o el presidente municipal.
+XXVI. Trabajar de manera conjunta con la Dirección de Protección Ambiental y Desarrollo Sustentable y demás dependencias municipales, en la supervisión y vigilancia de las obras que se realicen en el territorio municipal, que tengan relación con el manejo, tratamiento y reciclaje de residuos domésticos e industriales, restauración de sitios contaminados y descargas de aguas industriales, considerando la responsabilidad de las empresas e instituciones involucradas y dar seguimiento de acuerdo al ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2008)</small>
+
+XXVII. Colaborar con la Dirección de Protección Ambiental y Desarrollo Sustentable, así como las autoridades federales y estatales, en las obras de protección y preservación de los recursos de fauna y flora silvestre del municipio, con el objeto de conservar los recursos naturales;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2008)</small>
+
+XXVIII. En coordinación con la Dirección de Protección Ambiental y Desarrollo Sustentable, elaborar el Programa de Desarrollo Urbano Municipal, estableciendo las medidas necesarias para evitar afectaciones a los elementos naturales; y
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2008)</small>
+
+XXIX. Las demás que le atribuyan expresamente las leyes, reglamentos y las que le encomiende directamente el Ayuntamiento o el presidente municipal.
 
 ### CAPÍTULO XI. De la Dirección de Educación, Cultura y Recreación
 
@@ -1749,11 +1767,63 @@ X.- Elaborar y proponer al Presidente Municipal, las iniciativas de reglamentaci
 
 XI.- Las demás que le atribuyan expresamente las leyes, reglamento y las que le encomienden directamente el Ayuntamiento o el presidente municipal.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE OCTUBRE DE 2008)</small>
+
+### CAPÍTULO XV TER. De la Dirección de Protección Ambiental y Desarrollo Sustentable
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2008)</small>
+
+Artículo 94 ter. A la Dirección de Protección Ambiental y Desarrollo Sustentable, le corresponde el despacho de los siguientes asuntos:
+
+I.- Formular, conducir, regular, ejecutar y evaluar la política ambiental y de desarrollo sustentable municipal, debiendo presentar al Ayuntamiento un Programa Municipal Anual en la materia, en el que se procure la promoción, cuidado y conservación de las riquezas naturales del municipio;
+
+II.- Aplicar los instrumentos de política ambiental previstos en la ley de Protección Ambiental de Estado de Tabasco, el Bando de Policía y Gobierno y reglamentos emitidos por la autoridad municipal, en el ámbito de su competencia;
+
+III.- Coadyuvar con los órdenes de Gobierno Federal y Estatal, así como con los Sectores Social y Privado, en la realización conjunta y coordinada de acciones de protección y restauración ambiental e instrumentar, regular y remover la utilización de técnicas y procedimientos de aprovechamiento sustentable, para racionalizar el uso de los recursos naturales del municipio;
+
+IV.- Ejercer por delegación del Presidente Municipal, las atribuciones y funciones que en materia de medio ambiente y preservación de los recursos naturales, contengan los convenios firmados entre el Presidente Municipal y la Administración Pública Federal y/o Estatal;
+
+V.- Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica, generada por fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como de emisiones de contaminantes a la atmósfera, provenientes de fuentes móviles que no sean consideradas de jurisdicción federal, con la participación, que de acuerdo con la legislación estatal, corresponda al gobierno del Estado;
+
+VI.- Aplicar las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos;
+
+VII.- Prestar los servicios de limpieza, recolección y traslado de los residuos sólidos domésticos, haciéndose cargo del manejo integral de los mismos, su adecuada disposición final, así como las alternativas de reuso y reciclaje de residuos que no requieran de un manejo especial;
+
+VIII.- Regular, desde el ámbito de la protección ambiental, a los comercios y prestadores de servicios, para que cotidianamente clasifiquen los desechos sólidos en orgánicos, inorgánicos y reciclables, con la finalidad de garantizar el reuso que sea conducente.
+
+IX.- Participar en la supervisión de los programas de obras municipales, que se realicen para el mejoramiento de los servicios a la población, considerado en la Ley de Obras Públicas y Servicios Relacionadas con las Mismas, con el objeto que se apliquen las medidas necesarias que garanticen la integridad de los ecosistemas en que éstas se desarrollen;
+
+X.- Proponer al Ayuntamiento, la creación de zonas de preservación ecológica de los centros de población, parques urbanos, jardines públicos y demás áreas análogas previstas por la legislación municipal, encargándose de su administración;
+
+XI.- Aplicar las disposiciones jurídicas relativas a la prevención y control de la contaminación por ruido, vibraciones, energía térmica, radiaciones electromagnéticas y lumínicas y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como la vigilancia del cumplimiento de las disposiciones que, en su caso, resulten aplicables a las fuentes móviles;
+
+XII.- Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación de las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, así como de las aguas nacionales que tengan asignadas, con la participación que conforme a la legislación local en la materia corresponda a los gobiernos de los estados;
+
+XIII.- Formular y expedir el programa de ordenamiento ecológico local del territorio municipal, así como el control y la vigilancia del uso y cambio del uso del suelo, establecidos en dicho programa;
+
+XIV.- Preservar y restaurar el equilibrio ecológico y la protección al ambiente en los centros de población, en relación con los efectos derivados de los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, tránsito y transporte locales;
+
+XV.- Participar en coordinación con las autoridades estatales y federales en la vigilancia de cuerpos de agua y zonas conservadas que contengan especies de flora y fauna consideradas vulnerables de conformidad con las normas oficiales mexicanas aplicables;
+
+XVI.- Participar en emergencias y contingencias ambientales conforme a las políticas y programas de protección civil que al efecto se establezcan, promoviendo la cultura de la prevención a través de un programa de capacitación permanente de las comunidades;
+
+XVII.- Vigilar el cumplimiento de las normas oficiales mexicanas expedidas por la Federación, en las materias y supuestos a que se refieren las fracciones III, IV, VI, y VII de este artículo;
+
+XVIII.- Informar anualmente a la sociedad, los resultados de la política, planes y programas de medio ambiente y desarrollo sustentable, garantizando la participación de la sociedad en los mismos;
+
+XIX.- Participar en la evaluación del impacto ambiental de las obras o actividades de competencia estatal, cuando las mismas se realicen en el ámbito de su circunscripción territorial;
+
+XX.- Formular, ejecutar y evaluar el programa municipal de educación ambiental, y
+
+XXI.- Atender los demás asuntos que en materia de preservación del equilibrio ecológico al ambiente les conceda esta ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente al Estado o la Federación.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2008)</small>
+
+Artículo 94 quáter. El titular la (sic) Dirección de Protección Ambiental y Desarrollo Sustentable, además de los requisitos previstos en el párrafo segundo del artículo 75 de esta Ley, preferentemente deberá contar con título profesional o técnico en la materia.
+
 ### CAPÍTULO XVI. Del Cronista Municipal
 
 ### CAPÍTULO XVII. De las Organizaciones de Participación Ciudadana
-
-### CAPÍTULO XVIII. Disposiciones Complementarias Relativas a este Título
 
 ###### Artículo 95.
 
@@ -1783,7 +1853,7 @@ En el presupuesto anual de egresos de cada Municipio, se destinará una partida 
 
 Dos o más municipios vecinos podrán convenir en la designación de un Cronista Regional.
 
-### CAPÍTULO XIX. De las Ausencias Definitivas o Temporales de otros Servidores Públicos de los Ayuntamientos
+### CAPÍTULO XVIII. Disposiciones Complementarias Relativas a este Título
 
 ###### Artículo 96.
 
@@ -1797,7 +1867,7 @@ El Cabildo, establecerá los requisitos, derechos y obligaciones de los ciudadan
 
 En todo lo concerniente a este artículo, se deberá tomar en cuenta a los pueblos o comunidades indígenas, para su inclusión y demás efectos correspondientes.
 
-### CAPÍTULO I. Facultades y Obligaciones de los Delegados, Subdelegados, Jefes de Sector y Jefes de Sección
+### CAPÍTULO XIX. De las Ausencias Definitivas o Temporales de otros Servidores Públicos de los Ayuntamientos
 
 ###### Artículo 97.
 
@@ -1829,7 +1899,7 @@ XII. Previo acuerdo y autorización del presidente municipal, proporcionar la in
 
 XIII. Las demás que las disposiciones legales y administrativas le confieran.
 
-### CAPÍTULO II. Limitaciones de los Delegados
+### CAPÍTULO I. Facultades y Obligaciones de los Delegados, Subdelegados, Jefes de Sector y Jefes de Sección
 
 ###### Artículo 98.
 
@@ -1841,7 +1911,7 @@ En faltas menores de diez días naturales de servidores públicos, distintos a l
 
 ## TÍTULO QUINTO. DE LOS DELEGADOS, SUBDELEGADOS, JEFES DE SECTOR Y JEFES DE SECCIÓN
 
-### CAPÍTULO III. Territorialidad de las Delegaciones Municipales
+### CAPÍTULO II. Limitaciones de los Delegados
 
 ###### Artículo 99.
 
@@ -1861,7 +1931,7 @@ VI. Auxiliar en todo lo que requiera el presidente municipal para el mejor cumpl
 
 VII. Las demás que les otorguen otras leyes, reglamentos y disposiciones aplicables.
 
-### CAPÍTULO IV. Procedimiento para la Elección de Delegados, Subdelegados, Jefes de Sector y de Sección
+### CAPÍTULO III. Territorialidad de las Delegaciones Municipales
 
 ###### Artículo 100.
 
@@ -1873,7 +1943,7 @@ II. Cobrar personalmente o por interpósita persona, multa, servicio, gestión o
 
 III. Y demás prohibiciones establecidas en la presente Ley y en otras disposiciones aplicables.
 
-### CAPÍTULO ÚNICO. Hacienda Municipal
+### CAPÍTULO IV. Procedimiento para la Elección de Delegados, Subdelegados, Jefes de Sector y de Sección
 
 ###### Artículo 101.
 
@@ -1881,7 +1951,7 @@ Las ciudades podrán ser divididas para su gobierno en Delegaciones y Subdelegac
 
 Los ayuntamientos harán la demarcación territorial interna a cada Municipio.
 
-### CAPÍTULO ÚNICO. De la Planeación y Convenios para el Desarrollo
+### CAPÍTULO ÚNICO. Hacienda Municipal
 
 ###### Artículo 102.
 
@@ -1943,7 +2013,7 @@ Las autoridades salientes deberán entregar las instalaciones de la delegación 
 
 ## TÍTULO SEXTO. DE LA HACIENDA PÚBLICA MUNICIPAL
 
-### CAPÍTULO I. De los Servicios Públicos
+### CAPÍTULO ÚNICO. De la Planeación y Convenios para el Desarrollo
 
 ###### Artículo 106.
 
@@ -2035,7 +2105,7 @@ El manejo indebido de fondos municipales y cualquier otro hecho que se estime co
 
 ## TÍTULO SÉPTIMO. DEL DESARROLLO MUNICIPAL
 
-### CAPÍTULO II. De las Tarifas, Cuotas y Horarios para la Prestación de los Servicios Públicos
+### CAPÍTULO I. De los Servicios Públicos
 
 ###### Artículo 119.
 
@@ -2087,7 +2157,7 @@ El Estado y los municipios, en los términos de las leyes aplicables, podrán ce
 
 ## TÍTULO OCTAVO. DE LOS SERVICIOS COMPETENCIA DE LOS MUNICIPIOS Y CONVENIOS PARA SU MEJOR EJECUCIÓN
 
-### CAPÍTULO III. Alumbrado Público
+### CAPÍTULO II. De las Tarifas, Cuotas y Horarios para la Prestación de los Servicios Públicos
 
 ###### Artículo 126.
 
@@ -2133,7 +2203,7 @@ Los servicios públicos municipales concesionados o concertados mediante contrat
 
 En lo que respecta al otorgamiento, cancelación, caducidad y trámites para expedir una concesión, se estará a lo dispuesto en esta Ley y demás disposiciones aplicables.
 
-### CAPÍTULO IV. Limpia
+### CAPÍTULO III. Alumbrado Público
 
 ###### Artículo 131.
 
@@ -2151,7 +2221,7 @@ En los casos del artículo anterior, las tarifas o cuotas deberán publicarse en
 
 Los ayuntamientos, concesionarios o contratantes, podrán solicitar la revisión en cualquier tiempo, de las tarifas o cuotas a que se refieren los artículos anteriores, cuando a juicio de éstos, los aprobados ya no garanticen el equilibrio financiero para la eficaz prestación de los servicios públicos concesionados o contratados.
 
-### CAPÍTULO V. Mercados y Centrales de Abasto
+### CAPÍTULO IV. Limpia
 
 ###### Artículo 135.
 
@@ -2165,7 +2235,7 @@ Para los efectos de este capítulo se consideran lugares de uso común: Los bule
 
 La prestación del servicio de alumbrado público se sujetará, a las prioridades establecidas en los Programas Municipales de Desarrollo Urbano de Centros de Población y, en lo conducente, a las leyes federales aplicables y a las normas técnicas que emitan las autoridades competentes.
 
-### CAPÍTULO VI. Panteones
+### CAPÍTULO V. Mercados y Centrales de Abasto
 
 ###### Artículo 138.
 
@@ -2197,7 +2267,7 @@ El transporte de basura, desperdicios o residuos sólidos, sin perjuicio de lo s
 
 En la prestación del servicio público de limpia, la Secretaría de Desarrollo Social y Protección del Medio Ambiente del Poder Ejecutivo del Estado, tendrá la participación que le señalen las leyes y demás disposiciones aplicables.
 
-### CAPÍTULO VII. Calles
+### CAPÍTULO VI. Panteones
 
 ###### Artículo 145.
 
@@ -2247,7 +2317,7 @@ En el supuesto de que los ayuntamientos presten el servicio público a que se re
 
 En relación con las concesiones, uso o posesión de los espacios ubicados en el interior de los mercados y centrales de abasto, se observará lo establecido en esta Ley y demás disposiciones reglamentarias correspondientes.
 
-### CAPÍTULO VIII. Parques, Jardines y Centros Deportivos
+### CAPÍTULO VII. Calles
 
 ###### Artículo 153.
 
@@ -2315,7 +2385,7 @@ Los cadáveres o restos humanos de personas desconocidas, se depositarán en el 
 
 Los cadáveres y restos humanos de personas desconocidas que remitan las autoridades competentes para su inhumación en la fosa común, deberán estar relacionados individualmente con el número de acta que corresponda, debiéndose satisfacer, además, los requisitos que señalen las leyes aplicables.
 
-### CAPÍTULO IX. Estacionamientos
+### CAPÍTULO VIII. Parques, Jardines y Centros Deportivos
 
 ###### Artículo 165.
 
@@ -2333,7 +2403,7 @@ Cuando a solicitud de los particulares resulte necesario realizar obras para la 
 
 Los particulares, conforme a las disposiciones fiscales relativas, deberán de contribuir a la ejecución de las obras que, para la eficaz prestación del servicio público a que se refiere este capítulo, resulten necesarias.
 
-### CAPÍTULO X. Rastros
+### CAPÍTULO IX. Estacionamientos
 
 ###### Artículo 169.
 
@@ -2357,7 +2427,7 @@ La ejecución de las obras que se requieran para la prestación de los servicios
 
 En el establecimiento de campos deportivos, se observarán los requisitos que fijen las normas técnicas establecidas para cada una de las ramas y categorías del deporte de aficionados.
 
-### CAPÍTULO XI. De los Convenios
+### CAPÍTULO X. Rastros
 
 ###### Artículo 173.
 
@@ -2385,7 +2455,7 @@ IV. Las demás que se consideren necesarias.
 
 Los ayuntamientos, cuando presten directamente el servicio público a que se refiere este capítulo y los concesionarios del mismo, serán responsables de la pérdida o de los daños causados a los vehículos, cuando los mismos se encuentren bajo su guarda. Para este efecto, deberán contratar el seguro correspondiente.
 
-### CAPÍTULO I. De la Administración Paramunicipal
+### CAPÍTULO XI. De los Convenios
 
 ###### Artículo 177.
 
@@ -2435,7 +2505,7 @@ El sacrificio clandestino será sancionado conforme a la Ley de Ganadería del E
 
 Los administradores o encargados de los rastros o lugares a que se refiere el segundo párrafo del artículo anterior, serán los responsables de la observancia de este capítulo y las demás disposiciones aplicables.
 
-### CAPÍTULO II. De los Organismos Públicos Descentralizados Constitución, Organización y Fundamento
+### CAPÍTULO I. De la Administración Paramunicipal
 
 ###### Artículo 182.
 
@@ -2513,7 +2583,7 @@ X. Dicha resolución será definitiva y será publicada en el Periódico Oficial
 
 ## TÍTULO NOVENO. DE LA ADMINISTRACIÓN PÚBLICA PARAMUNICIPAL
 
-### CAPÍTULO III. De las Empresas de Participación Municipal Mayoritaria
+### CAPÍTULO II. De los Organismos Públicos Descentralizados Constitución, Organización y Fundamento
 
 ###### Artículo 184.
 
@@ -2541,7 +2611,7 @@ El presidente municipal, previa autorización del Ayuntamiento, aprobará la par
 
 Los órganos de gobierno de las entidades estarán a cargo de la administración de los organismos descentralizados, de las empresas de participación municipal mayoritaria, así como, en su caso, los comités técnicos de los fideicomisos públicos, y deberán estar integrados mayoritariamente por servidores públicos de la administración pública municipal, sin que en ningún caso existan regímenes especiales de voto que afecten la capacidad de decisión de dichos servidores públicos.
 
-### CAPÍTULO IV. De los Fideicomisos Públicos
+### CAPÍTULO III. De las Empresas de Participación Municipal Mayoritaria
 
 ###### Artículo 190.
 
@@ -2625,7 +2695,7 @@ VIII. Sustituir o revocar poderes generales o especiales.
 
 Los directores ejercerán las facultades a que se refieren las fracciones II, III, IV y VII bajo su responsabilidad y dentro de las limitaciones que señale el órgano de gobierno.
 
-### CAPÍTULO V. De la Operación y Control de las Entidades Paramunicipales
+### CAPÍTULO IV. De los Fideicomisos Públicos
 
 ###### Artículo 197.
 
@@ -2679,7 +2749,7 @@ Los integrantes de dicho órgano de gobierno que representen la participación d
 
 El Consejo de Administración o su equivalente se reunirá con la periodicidad que señale el acta constitutiva de la empresa, sin que pueda ser menor a cuatro veces al año.
 
-### CAPÍTULO I. De las Responsabilidades de los Servidores Públicos
+### CAPÍTULO V. De la Operación y Control de las Entidades Paramunicipales
 
 ###### Artículo 205.
 
@@ -2717,7 +2787,7 @@ La institución fiduciaria deberá abstenerse de cumplir las resoluciones que el
 
 Cuando para el cumplimiento de la encomienda fiduciaria se requiera la realización de actos urgentes, cuya omisión pueda causar notoriamente perjuicios al fideicomiso, si no es posible reunir al Comité Técnico por cualquier instancia, la institución fiduciaria procederá a consultar al presidente municipal a través de la Dirección de Finanzas, quedando facultada para ejecutar aquellos actos que aquél autorice.
 
-### CAPÍTULO II. De la Declaración de la Situación Patrimonial
+### CAPÍTULO I. De las Responsabilidades de los Servidores Públicos
 
 ###### Artículo 210.
 
@@ -2801,7 +2871,7 @@ Los órganos internos de control serán parte integrante de la estructura de la 
 
 ## TÍTULO DÉCIMO. DE LOS SERVIDORES PÚBLICOS DE LOS AYUNTAMIENTOS
 
-### CAPÍTULO III. De las Relaciones Laborales
+### CAPÍTULO II. De la Declaración de la Situación Patrimonial
 
 ###### Artículo 218.
 
@@ -2839,7 +2909,7 @@ Las sanciones económicas constituyen créditos fiscales a favor del erario muni
 
 Tratándose de los servidores públicos de base, la suspensión y la destitución se sujetará a lo previsto en la ley que regula las relaciones laborales de aquéllos con el Municipio.
 
-### CAPÍTULO I. De las Adquisiciones
+### CAPÍTULO III. De las Relaciones Laborales
 
 ###### Artículo 226.
 
@@ -2875,7 +2945,7 @@ Cuando los que no presenten su declaración de situación patrimonial o de modif
 
 Para efectos de registro y control, el contralor municipal remitirá al Órgano Superior de Fiscalización del Estado, un tanto de las declaraciones de situación patrimonial que le sean presentadas. Asimismo, también deberá remitir a dicho Órgano, la información relacionada con la situación patrimonial de los servidores públicos que le requiera, por acuerdo de la comisión competente del Congreso del Estado, en términos del artículo 90, segundo párrafo de la Ley de Responsabilidades de los Servidores Públicos.
 
-### CAPÍTULO II. De las Enajenaciones
+### CAPÍTULO I. De las Adquisiciones
 
 ###### Artículo 230.
 
@@ -2891,7 +2961,7 @@ TÍTULO DECIMOPRIMERO
 
 DE LOS ACTOS ADMINISTRATIVOS
 
-### CAPÍTULO III. De los Contratos Celebrados por los Ayuntamientos
+### CAPÍTULO II. De las Enajenaciones
 
 ###### Artículo 232.
 
@@ -2899,7 +2969,7 @@ Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, presta
 
 Cuando las licitaciones a que se hace referencia no sean idóneas para asegurar las condiciones, y de conformidad con las leyes aplicables, se estudiarán de las ofrecidas las que presenten mejores condiciones en cuanto a economía, eficiencia, eficacia, imparcialidad y honradez a fin de que los contratos que se celebren aseguren las mejores condiciones para el Municipio.
 
-### CAPÍTULO IV. De las Concesiones
+### CAPÍTULO III. De los Contratos Celebrados por los Ayuntamientos
 
 ###### Artículo 233.
 
@@ -2939,7 +3009,7 @@ Una vez recibida la solicitud, el Cabildo emitirá por acuerdo de las dos tercer
 
 Las enajenaciones de bienes muebles propiedad de los ayuntamientos, se ajustará en lo conducente al procedimiento señalado en el numeral anterior y se efectuarán en subasta pública siguiendo un procedimiento semejante al previsto para los remates judiciales en el Código de Procedimientos Civiles del Estado.
 
-### CAPÍTULO V. De los Recursos
+### CAPÍTULO IV. De las Concesiones
 
 ###### Artículo 235.
 
@@ -3056,6 +3126,8 @@ Las resoluciones por las que se rescinda un contrato se publicarán en el Perió
 ###### Artículo 245.
 
 Los actos, contratos, concesiones, permisos y autorizaciones realizados en contravención a lo dispuesto por los artículos 235, último párrafo, 238, fracciones I y II, 246, fracción I, 250 de esta Ley y aquellos que requiriendo la aprobación de la mayoría calificada, se otorguen sin satisfacer la misma, son nulos de pleno derecho.
+
+### CAPÍTULO V. De los Recursos
 
 ###### Artículo 246.
 
@@ -3365,7 +3437,7 @@ El presente Decreto entrará en vigor tres días después de su publicación en 
 
 ###### ARTÍCULO SEGUNDO.
 
-Los Ayuntamientos de cada Municipio del Estado deberán fijar una partida dentro del presupuesto para la Dirección de Atención a las Mujeres en cada Programa Operativo Anual, para su aplicación durante el ejercicio 2007 y subsecuentes aplicaciones.
+Los Ayuntamientos de cada Municipio del Estado deberán fijar una partida dentro del presupuesto la Dirección de Atención a las Mujeres en cada Programa Operativo Anual, para su aplicación durante el ejercicio 2007 y subsecuentes aplicaciones.
 
 P.O. 23 DE FEBRERO DE 2008.
 
@@ -3374,3 +3446,13 @@ P.O. 23 DE FEBRERO DE 2008.
 El presente Decreto iniciará su vigencia a los 30 días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ARTÍCULO. SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 25 DE OCTUBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos de los Municipios del Estado, deberán realizar los ajustes administrativos y presupuestales necesarios para el funcionamiento de la Dirección de Protección Ambiental y Desarrollo Sustentable, a partir del inicio del ejercicio 2009, debiendo establecer la partida presupuestal correspondiente dentro de su presupuesto de egresos.
