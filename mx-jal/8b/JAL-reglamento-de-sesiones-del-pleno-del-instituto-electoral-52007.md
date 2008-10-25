@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-sesiones-del-pleno-del-instituto-electoral-52007"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-02"
-last_updated: "2005-08-02"
+last_updated: "2008-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52007&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 REGLAMENTO DE SESIONES DEL PLENO DEL INSTITUTO ELECTORAL DEL ESTADO Y DE LAS COMISIONES DISTRITALES Y MUNICIPALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 25 DE OCTUBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección II al Periódico Oficial del Estado de Jalisco, el martes 2 de agosto de 2005.
 
@@ -228,3 +230,11 @@ A las reuniones de trabajo de las Comisiones, podrán asistir los miembros del P
 T R A N S I T O R I O:
 
 ÚNICO.- Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 25 DE OCTUBRE DE 2008.
+
+Primero. Se abroga el Reglamento de Sesiones del Pleno del Instituto Electoral del Estado y de las Comisiones Distritales y Municipales aprobado mediante acuerdo de fecha 11 de septiembre de 1997.
+
+Segundo. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
