@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-estatal-de-los-derechos-humanos-28798"
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-10"
-last_updated: "2007-05-28"
+last_updated: "2008-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 10 de febrero de 2003.
 
@@ -71,11 +71,19 @@ V. AUTORIDAD RESPONSABLE. Autoridades y servidores públicos de carácter estata
 
 VI. QUEJOSO. Persona física o moral que considere vulnerador por acción u omisión sus derechos humanos constitucionalmente reconocidos, o que se le hayan alterado las expectativas de derechos por parte de la Autoridad Responsable;
 
-VII. INTERESES. El conjunto de las expectativas de las personas orientadas a la preservación de sus propiedades, posesiones y derechos frente a las acciones u omisiones de la actividad administrativa del sector público; y
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
-VIII. SERVIDORES PUBLICOS. Se reputarán como servidores públicos afectos a esta Ley, los señalados en el Artículo 73 de la Constitución Política del Estado, incluyendo a los de las administraciones públicas de los municipios del Estado.
+VII. INTERESES. El conjunto de las expectativas de las personas orientadas a la preservación de sus propiedades, posesiones y derechos frente a las acciones u omisiones de la actividad administrativa del sector público;
 
-Asimismo, se entenderá por superior jerárquico al titular de la dependencia correspondiente, y por superior inmediato, al servidor público del cual depende, reporta o recibe órdenes directas el presunto infractor, conforme a la estructura de la dependencia de que se trate.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+VIII. SERVIDORES PÚBLICOS. Se reputarán como servidores públicos afectos a esta Ley, los señalados en el Artículo 73 de la Constitución Política del Estado, incluyendo a los de las administraciones públicas de los Municipios del Estado.
+
+Asimismo, se entenderá por superior jerárquico al titular de la dependencia correspondiente, y por superior inmediato, al servidor público del cual depende, reporta o recibe órdenes directas el presunto infractor, conforme a la estructura de la dependencia de que se trate; y
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+IX. DISCRIMINACIÓN. Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas.
 
 ### CAPITULO II. De la Naturaleza Jurídica de la Comisión
 
@@ -151,15 +159,39 @@ XXIII. Solicitar el auxilio de las autoridades competentes, a efecto de obtener 
 
 XXIV. Elaborar su anteproyecto de Presupuesto de Egresos, el cual remitirá directamente al Secretario de Finanzas del Gobierno del Estado, para el trámite correspondiente;
 
-XXV. Contar con franquicia radiofónica y televisiva en las empresas propiedad de (sic) Gobierno del Estado, cuando así lo justifique el ejercicio de sus funciones; y
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
-XXVI. Las demás que le fijen las leyes y disposiciones aplicables.
+XXV. Contar con franquicia radiofónica y televisiva en las empresas propiedad de Gobierno del Estado, cuando así lo justifique el ejercicio de sus funciones;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+XXVI. El ejercicio de las acciones tendientes a la prevención y eliminación de todas las formas de discriminación en el Estado; y
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+XXVII. Las demás establecidas en esta Ley y demás disposiciones legales aplicables.
 
 ###### ARTICULO 9°.
 
 La Comisión no será competente tratándose de asuntos electorales, laborales, jurisdiccionales, y de consultas formuladas por autoridades, particulares u otras entidades sobre la interpretación de las disposiciones constitucionales y legales.
 
 En los términos de esta Ley, la Comisión será competente para conocer quejas o inconformidades contra actos u omisiones de autoridades judiciales estatales que presuntamente hayan violado derechos humanos, solamente cuando dichos actos u omisiones tengan carácter estrictamente administrativo. La Comisión por ningún motivo podrá examinar cuestiones jurisdiccionales de fondo.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+No se considerarán conductas discriminatorias y por lo tanto ajenas a la jurisdicción de la Comisión:
+
+I. Las acciones legislativas, educativas o de políticas públicas positivas que sin afectar derechos de terceros, establezcan tratos diferenciados con el objeto de promover condiciones de equidad e igualdad de oportunidades;
+
+II. Las distinciones basadas en capacidades o conocimientos especializados para desempeñar una actividad determinada;
+
+III. La distinción establecida por las instituciones públicas de seguridad social entre sus asegurados y la población en general;
+
+IV. En el ámbito educativo, los requisitos académicos, de evaluación y los límites por razón de edad;
+
+V. Las que se establezcan como requisitos de ingreso o permanencia para el desempeño del servicio público y cualquier otro señalado en los ordenamientos legales; y
+
+VI. El trato diferenciado que en su beneficio reciba una persona que padezca alguna enfermedad mental.
 
 ## TITULO SEGUNDO. INTEGRACION DE LA COMISION
 
@@ -425,13 +457,65 @@ III. Tener título profesional de Licenciado en Derecho o su equivalente, prefer
 
 IV. Tener buena reputación y no haber sido condenado por delito doloso alguno.
 
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 27 BIS.- Para el cumplimiento de sus fines, la Comisión habilitará el número de visitadores que considere necesarios para que atiendan las quejas presentadas por actos de discriminación, los cuales tendrán las siguientes facultades:
+
+I. Diseñar estrategias e instrumentos, así como promover programas, proyectos y acciones para prevenir y eliminar la discriminación;
+
+II. Verificar la adopción de medidas y programas para prevenir y eliminar la discriminación en las instituciones públicas, así como expedir los reconocimientos respectivos;
+
+III. Desarrollar, fomentar y difundir estudios sobre las prácticas discriminatorias en los ámbitos político, económico, social y cultural;
+
+IV. Realizar estudios sobre los ordenamientos jurídicos y administrativos vigentes en la materia, y proponer, en su caso, de conformidad con las disposiciones aplicables, las modificaciones que correspondan;
+
+V. Divulgar los compromisos asumidos por el Estado en la materia; así como promover su cumplimiento en el ámbito municipal;
+
+VI. Difundir y promover contenidos para prevenir y eliminar las prácticas discriminatorias en los medios de comunicación;
+
+VII. Investigar presuntos actos y prácticas discriminatorias, en el ámbito de su competencia;
+
+VIII. Brindar asesoría y orientación a los individuos o grupos objeto de discriminación;
+
+IX. Formular denuncias por actos u omisiones de conductas ilícitas de contenido discriminatorio que cometan las autoridades, que impliquen una responsabilidad penal prevista en las disposiciones legales aplicables;
+
+X. Conocer y dar seguimiento a las quejas por violación a los derechos humanos, con motivo de actos discriminatorios cometidos por autoridades estatales o municipales;
+
+XI. Solicitar a las instituciones públicas la información para verificar el cumplimiento de este ordenamiento, en el ámbito de su competencia; y
+
+XII. Las demás que le sean encomendadas por el Presidente de la Comisión.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 27 TER.- Queda prohibida en el Estado de Aguascalientes cualquier forma de discriminación que tenga por objeto impedir o anular a cualquier persona en el goce y el ejercicio de los derechos fundamentales a que se refiere el orden jurídico mexicano y el cual tutela la presente Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 27 QUATER.- Las Visitadurías encargadas de atender las quejas por motivo de actos de discriminación podrán contar con el apoyo y asesoría de representantes de los sectores privado, social y de la comunidad académica expertos en evitar la discriminación, los cuales serán honorarios y podrán participar en todos los trabajos de la visitaduría.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 27 QUINQUIES.- La Comisión proveerá a las Vísitadurías habilitadas para atender las quejas motivadas por actos discriminatorios los recursos necesarios para el desempeño de sus actividades, de acuerdo con su disposición presupuestal, las cuales podrán proponer, en su caso, la adopción de las siguientes medidas para prevenir y eliminar la discriminación:
+
+I. La impartición o toma de cursos o seminarios que promuevan la igualdad de oportunidades;
+
+II. La fijación de carteles en cualquier establecimiento de quienes incumplan alguna disposición de esta Ley, en los que se promueva la modificación de conductas discriminatorias;
+
+III. La presencia del personal de la Comisión para promover y verificar la adopción de medidas a favor de la igualdad de oportunidades y la eliminación de toda forma de discriminación en cualquier establecimiento, por el tiempo que disponga;
+
+IV. La publicación íntegra de la recomendación por la Comisión a través de sus órganos de difusión;
+
+V. La publicación o difusión de una síntesis de la recomendación en los medios impresos o electrónicos de comunicación; y
+
+VI. Otorgar reconocimiento a las instituciones públicas que se distingan por llevar a cabo programas y medidas para prevenir la discriminación. Además de todas aquellas que se consideren necesarias.
+
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 28 DE MAYO DE 2007)</small>
 
 ### CAPITULO VI. De la Prevención, Estudio, Difusión y Promoción de los Derechos Humanos
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES ARTICULO 27 BIS], P.O. 27 DE OCTUBRE DE 2008)</small>
 
-ARTICULO 27 BIS. Para el cumplimiento de sus fines, la Comisión contará con una Dirección de Educación en Derechos Humanos, dependiente de la Presidencia y tendrá las siguientes facultades:
+ARTICULO 27 SEXIES.- Para el cumplimiento de sus fines, la Comisión contará con una Dirección de Educación en Derechos Humanos, dependiente de la Presidencia y tendrá las siguientes facultades:
 
 I. Difundir, divulgar, promocionar y capacitar a la población en materia de derechos humanos;
 
@@ -536,6 +620,10 @@ Las personas con capacidad diferente que soliciten la intervención de la Comisi
 ###### ARTICULO 41.
 
 Para la disposición de los servicios del personal especializado, cuando así se requiera, se estará a lo dispuesto en los convenios que para tal efecto se celebren con otras instituciones públicas o privadas.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 41 BIS.- Serán causa de responsabilidad administrativa, los actos u omisiones de carácter discriminatorio en que incurran los servidores públicos estatales y municipales, por lo que, con independencia de las recomendación (sic) de la Comisión, serán sancionados en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado, sin perjuicio de lo que establece la Legislación Penal vigente.
 
 ### CAPITULO II. De la Admisión de la Queja
 
@@ -668,6 +756,16 @@ El Presidente tendrá la facultad de recomendar en cualquier momento a las autor
 ###### ARTICULO 64.
 
 La Comisión notificará al interesado, al servidor público y a la autoridad o dependencia administrativa correspondiente, el resultado de sus investigaciones y las decisiones adoptadas en el ámbito de su competencia. La notificación será efectuada por personal competente, quien ostentará el cargo de notificador para todos los efectos, llevando un libro de registro en el que consten las diligencias realizadas.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 64 BIS.- En el supuesto de que la Comisión tenga conocimiento de conductas discriminatorias entre particulares, proveerá lo necesario para que se otorgue la orientación debida a los Involucrados, propiciando que se respete el derecho a la no discriminación.
+
+En ningún caso la Comisión podrá emitir recomendaciones a los particulares para el cumplimiento del derecho a la no discriminación.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+ARTICULO 64 TER.- Las recomendaciones emitidas por el Presidente de la Comisión, contenidas en los expedientes tramitados por discriminación, deberán ser publicadas en las páginas de Internet tanto de la Comisión, como de las correspondientes a las dependencias involucradas.
 
 ### CAPITULO VI. De los Recursos de Queja e Impugnación
 
@@ -814,3 +912,13 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La Dirección de Educación en Derechos Humanos, a que se refiere el Artículo 10, Fracción V del presente Decreto, iniciará sus funciones a partir del primero de enero del año dos mil ocho, debiendo para tal efecto, considerarse la partida correspondiente en el Presupuesto de Egresos del Gobierno del Estado, en su apartado "Del Ramo Autónomo 17 Órganos Autónomos".
+
+P.O. 27 DE OCTUBRE DE 2008
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del Presupuesto de Egresos del Estado para el Ejercicio Fiscal del Año 2009, deberán preverse las partidas respectivas para la puesta en marcha de las Visitadurías para la prevención de la Discriminación, en tanto, la Comisión deberá realizarlos ajustes presupuesta/es necesarios para la aplicación y vigencia del presente Decreto.
