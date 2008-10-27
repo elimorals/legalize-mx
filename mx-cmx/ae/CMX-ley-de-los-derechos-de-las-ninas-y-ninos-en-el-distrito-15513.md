@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-ninas-y-ninos-en-el-distrito-15513"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-31"
-last_updated: "2008-01-04"
+last_updated: "2008-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15513&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-27"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE OCTUBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 31 de enero de 2000.
 
@@ -368,9 +368,23 @@ XIII. Elaborar, dentro del ámbito de sus atribuciones, lineamientos generales p
 
 XIV. Las demás que le confieran otros ordenamientos jurídicos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 19.
 
-Las Secretaría de Desarrollo Social, de Salud y el Sistema para el Desarrollo Integral de la Familia en el Distrito Federal, se coordinarán a fin de que promuevan y vigilen el cumplimiento del derecho a la alimentación de las niñas y niños, estableciendo las medidas y mecanismos necesarios para coadyuvar a que reciban la alimentación de calidad que necesitan para su desarrollo integral.
+Las Secretaría de Desarrollo Social, de Salud, de Educación y el Sistema para el Desarrollo Integral de la Familia en el Distrito Federal, en el ámbito de sus respectivas competencias, deberán realizar acciones de coordinación, a fin de promover y vigilar el cumplimiento del derecho a la alimentación de las niñas y niños, estableciendo las medidas y mecanismos necesarios para coadyuvar a que reciban una alimentación nutritiva para su desarrollo integral.
+
+Los programas de apoyo alimentario deberán seguir las recomendaciones establecidas en la normatividad vigente en materia de orientación alimentaria, a fin de prevenir el sobrepeso, la obesidad y otros trastornos alimenticios.
+
+La Secretaría de Educación, instrumentará las acciones pertinentes dentro de los programas que ejecute para garantizar una cobertura precisa y focalizada en materia alimentaria para las y los niños beneficiados; para ello, deberá:
+
+I.- Organizar campañas de orientación alimentaria y de educación para la salud de acuerdo con las condiciones físicas de las y los niños;
+
+II.- Publicar materiales de difusión e implementar campañas de orientación alimentaria y promoción de la actividad física en medios masivos de comunicación, y
+
+III.- Celebrar convenios específicos de coordinación con instituciones y organismos públicos, y convenios de colaboración con organismos sociales y privados que brinden orientación alimentaria a las y los niños.
 
 ### CAPITULO III. DE LA SECRETARIA DE SALUD
 
@@ -400,21 +414,41 @@ X. Diseñar programas para garantizar la atención, en los servicios integrales 
 
 XI. Orientar a la comunidad sobre el significado de la maternidad y paternidad responsables, del parto y de los cuidados personales de la madre y de la niña o niño;
 
-XII. Promover campañas de sensibilización a fin de mantener los vínculos de la madre con su hijo, con su familia y su comunidad; y
+XII. Promover campañas de sensibilización a fin de mantener los vínculos de la madre con su hijo, con su familia y su comunidad; y (sic)
 
-XIII. Las demás que le confieran la Ley de Salud para el Distrito Federal y otros ordenamientos jurídicos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2008)</small>
+
+XIII.- Realizar la evaluación del estado nutricional mediante indicadores antropométricos, y promover campañas de información nutricional, prevención y atención médica para las y los niños con desnutrición, sobrepeso, obesidad, particularmente aquellos con obesidad mórbida, trastornos alimenticios como bulimia, anorexia, y adicciones;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E., ADICIONADA], G.O. 27 DE OCTUBRE DE 2008)</small>
+
+XIV.- Las demás que le confieran la Ley de Salud para el Distrito Federal y otros ordenamientos jurídicos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 21.
 
-La Secretaría de Salud del Distrito Federal diseñará, en concordancia con el Programa Nacional de Salud, políticas y programas en materia de salud integral de las niñas y niños, tendientes a prevenir enfermedades endémicas y epidémicas, a la desnutrición, accidentes o situaciones de riesgo para su integridad física, psicológica y social. Estas políticas tendrán por objeto:
+La Secretaría de Salud del Distrito Federal diseñará y aplicará permanentemente en concordancia con el Programa Nacional de Salud, políticas y programas en materia de salud integral de las niñas y niños, tendientes a prevenir, enfermedades endémicas y epidémicas, la desnutrición, el sobrepeso, la obesidad, los trastornos alimenticios, adicciones, accidentes o situaciones de riesgo para su integridad física, psicológica y social. Estas políticas tendrán por objeto:
 
 I. Reducir la mortalidad infantil;
 
 II. Asegurar la prestación de la asistencia médica necesaria;
 
-III. Asegurar que todos los sectores de la sociedad, y en particular los padres, madres, niñas y niños conozcan los principios básicos de la salud y la nutrición, así como las ventajas de la lactancia materna, la higiene y las medidas de prevención de accidentes; y
+III. Asegurar que todos los sectores de la sociedad, y en particular los padres, madres, niñas y niños conozcan los principios básicos de la salud y la nutrición, así como las ventajas de la lactancia materna, la higiene y las medidas de prevención de accidentes; y (sic)
 
-IV. Desarrollar campañas en materia de educación sexual, encaminadas a la prevención de embarazos no deseados y enfermedades de transmisión sexual.
+IV. Desarrollar campañas en materia de educación sexual, encaminadas a la prevención de embarazos no deseados y enfermedades de transmisión sexual;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E., ADICIONADA], G.O. 27 DE OCTUBRE DE 2008)</small>
+
+V.- Realizar campañas para prevenir el sobrepeso y la obesidad, trastornos alimenticios como bulimia, anorexia, y adicciones, orientadas a la prevención y tratamiento de dichas enfermedades.
 
 ###### Artículo 22.
 
@@ -460,9 +494,19 @@ XVI. Promover la filiación de las niñas y niños, para efectos de su identidad
 
 XVII. Comparecer ante las autoridades o instituciones competentes, en los casos en que corresponda o se le designe para ejercer la guarda y custodia provisional y en su caso, la tutela de las niñas y niños en los términos de las disposiciones legales aplicables;
 
-XVIII. Recabar los informes y datos estadísticos que requiera para el debido cumplimiento de sus atribuciones y solicitar el auxilio de las demás autoridades en el ámbito de su competencia; y
+XVIII. Recabar los informes y datos estadísticos que requiera para el debido cumplimiento de sus atribuciones y solicitar el auxilio de las demás autoridades en el ámbito de su competencia; y (sic)
 
-XIX. Las demás que le confieran otros ordenamientos jurídicos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2008)</small>
+
+XIX.- Realizar campañas sobre educación nutricional y formación de hábitos alimenticios, de prevención del sobrepeso y la obesidad, trastornos alimenticios, como anorexia, bulimia, y adicciones; así como de detección y canalización de las y los niños que sufran dichas enfermedades a las instituciones competentes para que reciban la ayuda pertinente;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2008)</small>
+
+XX.- Las demás que le confieran otros ordenamientos jurídicos.
 
 ### CAPITULO V. DE LOS JEFES DELEGACIONALES
 
@@ -823,3 +867,11 @@ Artículo Tercero.- El Gobierno del Distrito Federal a través del Sistema para 
 Artículo Cuarto.- El Gobierno del Distrito Federal a través del Sistema para el Desarrollo Integral de la Familia emitirá dentro de los 120 días siguientes a la fecha de publicación del presente decreto, el Reglamento a que se refiere el artículo 494-D.
 
 Artículo Quinto.- La Asamblea Legislativa del Distrito Federal considerará una partida presupuestal de recursos financieros suficientes para asegurar la atención, cuidado y protección de los menores en situación de desamparo en el ejercicio presupuestal de 2008 y años subsecuentes.
+
+G.O. 27 DE OCTUBRE DE 2008.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente decreto y las modificaciones que en éste se contienen entrarán en vigor a los treinta días de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se contrapongan a las aquí reformadas.
