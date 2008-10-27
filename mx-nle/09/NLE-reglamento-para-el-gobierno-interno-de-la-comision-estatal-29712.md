@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interno-de-la-comision-estatal-2971
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-05-07"
-last_updated: "2004-06-02"
+last_updated: "2008-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,21 +21,23 @@ state: "NLE"
 ---
 # REGLAMENTO PARA EL GOBIERNO INTERNO DE LA COMISION ESTATAL ELECTORAL Y DE LAS COMISIONES MUNICIPALES ELECTORALES -ANTES REGLAMENTO DE LA COMISION ESTATAL ELECTORAL Y DE LAS COMISIONES MUNICIPALES ELECTORALES DEL ESTADO DE NUEVO LEON-
 
-REGLAMENTO PARA EL GOBIERNO INTERNO DE LA COMISION ESTATAL ELECTORAL Y DE LAS COMISIONES MUNICIPALES ELECTORALES
+REGLAMENTO PARA EL GOBIERNO INTERNO DE LA COMISIÓN ESTATAL ELECTORAL Y DE LAS COMISIONES MUNICIPALES ELECTORALES DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA COMISIÓN ESTATAL ELECTORAL Y DE LAS COMISIONES MUNICIPALES ELECTORALES DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 27 DE OCTUBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 7 de mayo de 1997.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MARZO DE 2003)</small>
 
 REGLAMENTO PARA EL GOBIERNO INTERNO DE LA COMISIÓN ESTATAL ELECTORAL Y DE LAS COMISIONES MUNICIPALES ELECTORALES
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MARZO DE 2003)</small>
 
 ## TITULO PRIMERO. DE LA COMISIÓN ESTATAL ELECTORAL
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MARZO DE 2003)</small>
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -601,7 +603,7 @@ V. Los acuerdos que en la sesión se aprobaron.
 
 La Coordinación Técnica es un órgano profesional, que realiza las funciones técnico-administrativas de la Comisión y auxilia a los Comisionados en el desarrollo de sus actividades electorales; y contará con el personal necesario para su correcto funcionamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2004)</small>
 
 ###### Artículo 52.
 
@@ -695,7 +697,7 @@ El Coordinador Técnico podrá delegar o revocar las facultades contenidas en la
 
 #### SECCION PRIMERA. DEL SECRETARIADO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2004)</small>
 
 ###### Artículo 58.
 
@@ -785,7 +787,7 @@ Las actividades de difusión y comunicación social, deben preservar la naturale
 
 La Comisión fomentará el acercamiento permanente con los medios de comunicación, con la finalidad de garantizar la plena y oportuna información hacia la ciudadanía en general, de todos sus proyectos, planes, programas, campañas y de toda actividad que desarrolle la Comisión, las Comisiones Municipales, las Mesas Directivas de Casilla y las Mesas Auxiliares de Cómputo del Estado, estableciendo para tal efecto la Unidad Técnica de Comunicación Social, dependiente de la Coordinación Técnica, de conformidad con lo establecido en los artículos 81 fracción VII, 84, 86 y 87 de la Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2004)</small>
 
 ###### Artículo 63.
 
@@ -893,7 +895,7 @@ VI. Determinación conjunta de los temas a tratar y la sujeción a los mismos.
 
 Para la optimización y mejoramiento del desempeño de las actividades de la Comisión, se contará con la Unidad Técnica de Tecnología y Sistemas, dependiente de la Coordinación Técnica, encargada del diseño, construcción, desarrollo, soporte, mantenimiento y seguridad de los sistemas de información computacionales y la infraestructura tecnológica de servicios de cómputo y telecomunicaciones de la Comisión y los demás organismos dependientes de ésta, de conformidad con los artículos 81 fracción VII, 84, 86 y 87 de la Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2004)</small>
 
 ###### Artículo 67.
 
@@ -927,7 +929,7 @@ VI. El sistema de cómputo y difusión electrónica relativo a la información p
 
 VII. Las demás que le sean encomendadas por la Coordinación Técnica.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JUNIO DE 2004)</small>
 
 #### SECCIÓN CUARTA. DE LA UNIDAD DE PLANEACIÓN Y DEL SERVICIO PROFESIONAL ELECTORAL
 
@@ -935,9 +937,9 @@ VII. Las demás que le sean encomendadas por la Coordinación Técnica.
 
 ###### Artículo 68.
 
-Para contribuir a un mejor uso y aprovechamiento de los recursos, al cumplimiento normativo y al desarrollo y consolidación de sistemas de control y evaluación que permitan lograr lo objetivos y fines de la Comisión, los proyectos y programas para organizar coordinar y desarrollar el Servicio Profesional Electoral, así como el Personal Administrativo de la Comisión, se crea la Unidad Técnica de Planeación y del Servicio Profesional Electoral.
+Para contribuir a un mejor uso y aprovechamiento de los recursos, al cumplimiento normativo y al desarrollo y consolidación de sistemas de control y evaluación que permitan lograr los objetivos y fines de la Comisión, los proyectos y programas para organizar coordinar y desarrollar el Servicio Profesional Electoral, así como el Personal Administrativo de la Comisión, se crea la Unidad Técnica de Planeación y del Servicio Profesional Electoral.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2004)</small>
 
 ###### Artículo 69.
 
@@ -1143,7 +1145,7 @@ XII. Proponer, elaborar y coordinar una revista especializada en asuntos políti
 
 XIII. Las demás que el presente Reglamento o la Comisión le encomiende.
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADO], P.O. 31 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 31 DE MARZO DE 2003)</small>
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LA DIRECCIÓN DEL REGISTRO ESTATAL DE ELECTORES
 
@@ -1595,7 +1597,7 @@ Lic. Gilberto Rogelio Villarreal de la Garza
 
 Comisionado Secretario de la Comisión Estatal Electoral del Estado de Nuevo León.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 7 DE MARZO DE 2003.
 
@@ -1624,3 +1626,11 @@ P.O. 2 DE JUNIO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 Estas modificaciones entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 27 DE OCTUBRE DE 2008.
+
+Artículo Primero.- El presente Reglamento de la Comisión Estatal Electoral y de las Comisiones Municipales Electorales del Estado de Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Artículo Segundo.- Se abroga el Reglamento de la Comisión Estatal Electoral y de las Comisiones Municipales Electorales del Estado de Nuevo León, aprobado en fecha 1° -primero de mayo de 1997-mil novecientos noventa y siete, publicado en el Periódico Oficial del Estado, en fecha 7-siete de mayo de 1997-mil novecientos noventa y siete, así como sus reformas.
+
+Artículo Tercero.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Reglamento serán resueltos conforme a las normas vigentes al momento de su inicio.
