@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2007-11-19"
+last_updated: "2008-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2008.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -521,11 +521,13 @@ Si el reconocimiento se hace por alguno de los otros medios establecidos en este
 
 La omisión del registro en el caso del artículo anterior no suspende los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero a los responsables de la omisión se les aplicará una multa de treinta a cincuenta días de salario mínimo general vigente en el Estado.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 74.
 
-En el registro de reconocimiento hecho con posterioridad al registro de nacimiento, se hará mención de éste, poniendo en él la anotación marginal correspondiente.
+En el registro de reconocimiento hecho con posterioridad al registro de nacimiento, se hará mención de éste con la nota marginal correspondiente en el acta de nacimiento originaria, la cual quedará reservada, por lo que no se podrá expedir constancia de ella ni se podrá publicar salvo mandato judicial o a petición del interesado.
+
+En caso de que no exista mandato judicial o petición del interesado, se expedirá el acta con los datos actualizados y sin la nota marginal.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
@@ -5915,7 +5917,7 @@ Si alguno perforase pozos o hiciere otras obras de captación de aguas subterrá
 
 La indemnización no comprenderá el lucro que se deje de obtener, ni el valor del agua, sino únicamente los daños, como los que se causen por lo infructuoso que resultan las inversiones que se hicieron para aprovechar el agua en el uso a que estaba destinada.
 
-El empresario de la obra avisaá previamente a los dueños de aguas que se encuentren dentro de la zona de cuatrocientos metros, para que, de común acuerdo o con la intervención judicial, se mida o pesen las aguas existentes, a fin de determinarse la cantidad en que puedan disminuir. La falta de aviso, es causa para presumir que las aguas han disminuido en la cantidad que afirma el perjudicado salvo prueba en contrario.
+El empresario de la obra avisará previamente a los dueños de aguas que se encuentren dentro de la zona de cuatrocientos metros, para que, de común acuerdo o con la intervención judicial, se mida o pesen las aguas existentes, a fin de determinarse la cantidad en que puedan disminuir. La falta de aviso, es causa para presumir que las aguas han disminuido en la cantidad que afirma el perjudicado salvo prueba en contrario.
 
 ###### Artículo 948.
 
@@ -12541,15 +12543,27 @@ DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDADOR.
 
 El arrendador está obligado, aunque no haya pacto expreso:
 
-I.- A entregar al arrendatario la finca arrendada, con todas sus pertenencias y en estado de servir para el uso convenido; si no hubo convenio expreso, para aquel a que por su misma naturaleza estuviere destinada; así como en condiciones que ofrezcan al arrendatario la higiene y seguridad del inmueble
+I.- A entregar al arrendatario la finca arrendada, con todas sus pertenencias y en estado de servir para el uso convenido; si no hubo convenio expreso, para aquel a que por su misma naturaleza estuviere destinada; así como en condiciones que ofrezcan al arrendatario la higiene y seguridad del inmueble;
 
 II.- A conservar la cosa arrendada en el mismo estado durante el arrendamiento, haciendo para ello todas las reparaciones necesarias;
 
 III.- A no estorbar ni embarazar de manera alguna el uso de la cosa arrendada, a no ser por causa de reparaciones urgentes o indispensables;
 
-IV.- A garantizar el uso o goce pacífico de la cosa por todo el tiempo del contrato; y
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
-V.- A responder de los daños y perjuicios que sufra el arrendatario por los defectos o vicios ocultos de la cosa anteriores al arrendamiento.
+IV.- A garantizar el uso o goce pacifico de la cosa por todo el tiempo del contrato;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+V.- A responder de los daños y perjuicios que sufra el arrendatario por los defectos o vicios ocultos de la cosa, anteriores al arrendamiento;
+
+(ADICIONADA, P.O. 27 DE OCTUBRE DE 2008) (F. DE E., P.O. 1 DE DICIEMBRE DE 2008)
+
+VI.- A solicitar al arrendatario copia de su identificación oficial y comprobante de domicilio, así como los del fiador u obligado solidario y en su caso de su representante legal; si el arrendatario es extranjero, adicionalmente, le deberá solicitar copia de la documentación oficial que acredite su estancia legal en el país; y
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+VII.- Inscribir o dar aviso del contrato de arrendamiento al Registro Público de la Propiedad, conforme a lo dispuesto por el Artículo 2876 de este Código, formalidad que en caso de no cumplirse, será causa de rescisión imputable al arrendador.
 
 ###### Artículo 2284.
 
@@ -12619,7 +12633,13 @@ I.- A satisfacer la renta en la forma y tiempo convenidos;
 
 II.- A responder de los perjuicios que la cosa arrendada sufra por su culpa o negligencia, la de sus familiares, sirvientes o subarrendatarios;
 
-III.- A servirse de la cosa solamente para el uso convenido conforme a la naturaleza y destino de ella.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+III.- A servirse de manera licita de la cosa, solamente para el uso convenido conforme a la naturaleza y destino de ella; y
+
+(ADICIONADA, P.O. 27 DE OCTUBRE DE 2008) (F. DE E., P.O. 1 DE DICIEMBRE DE 2008)
+
+IV.- A proporcionar al arrendador al momento de celebrar el contrato, copia de su identificación oficial y comprobante de domicilio, así como los del fiador u obligado solidario y representante legal en su caso; si el arrendatario es extranjero, deberá proporcionar al arrendador copia de la documentación oficial que acredite su estancia legal en el país.
 
 ###### Artículo 2297.
 
@@ -15747,7 +15767,9 @@ I.- Los títulos por los cuales se adquiere, trasmite, modifica, grava o extingu
 
 II.- La constitución del patrimonio de familia;
 
-III.- Los contratos de arrendamiento de bienes inmuebles por un período mayor de seis años y aquellos en que haya anticipo de rentas por más de tres;
+(REFORMADA, P.O. 27 DE OCTUBRE DE 2008) (F. DE E., P.O. 1 DE DICIEMBRE DE 2008)
+
+III.- Los contratos de arrendamiento de bienes inmuebles por un periodo mayor de seis años y aquellos en que haya anticipo de rentas por más de tres; en cualquier otro supuesto, bastará que se dé aviso de la celebración del contrato, especificando la ubicación del inmueble y anexando copia de identificación oficial y comprobantes de domicilio de los contratantes y del fiador u obligado solidario en su caso, el aviso podrá entregarse en la oficina de catastro correspondiente; la recepción de este aviso será gratuita;
 
 IV.- La condición resolutoria en las ventas a que se refieren las fracciones I y II del artículo 2181;
 
@@ -16278,6 +16300,34 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 P.O. 19 DE NOVIEMBRE DE 2007.
 
 DECRETO No. 398.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE OCTUBRE DE 2008.
+
+DECRETO NO. 146, POR EL CUAL SE REFORMAN Y ADICIONAN LOS ARTICULOS 2283, 2296, 2876 DEL CODIGO CIVIL DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia a los treinta días naturales siguientes al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a treinta días naturales posteriores al de la publicación del presente Decreto, se deberá adecuar el Reglamento del Registro Público de la Propiedad para dar cumplimiento a las reformas aprobadas.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo no mayor a treinta días naturales posteriores al de la publicación del presente Decreto, el Poder Ejecutivo del Estado establecerá los acuerdos de coordinación necesarios para que los avisos recibidos en las oficinas catastrales de los Municipios del Estado sean remitidos al Registro Público de la Propiedad.
+
+###### ARTÍCULO CUARTO.
+
+El Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus atribuciones deberán promover la naturaleza y alcance del presente Decreto, a través de la difusión en los medios de comunicación que estén a su disposición, a partir de su publicación.
+
+P.O. 27 DE OCTUBRE DE 2008
+
+DECRETO NO. 147, POR EL CUAL SE REFORMA EL ARTICULO 74 DEL CODIGO CIVIL DEL ESTADO DE AGUASCALIENTES.
 
 ###### ARTÍCULO ÚNICO.
 
