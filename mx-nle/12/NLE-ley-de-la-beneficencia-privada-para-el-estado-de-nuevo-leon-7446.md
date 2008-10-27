@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-beneficencia-privada-para-el-estado-de-nuevo-leon-744
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-02"
-last_updated: "2008-04-11"
+last_updated: "2008-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA BENEFICENCIA PRIVADA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 2 de enero de 1984.
 
@@ -301,11 +301,11 @@ Los herederos darán aviso a la Junta de los bienes objeto de la sucesión que s
 
 El albacea o ejecutor testamentario no podrá gravar, ni enajenar los bienes de la sucesión en que tenga interés la beneficencia, sin previa autorización de la Junta, la que sólo se dará, si se justifica que dicha operación es necesaria para consolidarla.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 34o.
 
-Los Notarios deberán enviar a la Junta, en un término de ocho días hábiles a la fecha de la autorización de un instrumento que se otorgue en su protocolo, testimonio de la escritura respectiva, donde conste cualquier operación en la que intervenga alguna institución de beneficencia y vigilará que, en su caso, se inscriban tales actos en el Registro Público de la Propiedad.
+Los Notarios deberán enviar a la Junta, en un término de ocho días hábiles a la fecha de la autorización de un instrumento que se otorgue en su protocolo, testimonio de la escritura respectiva, donde conste cualquier operación en la que intervenga alguna institución de beneficencia y vigilará que, en su caso, se inscriban tales actos en el Registro Público de la Propiedad y del Comercio.
 
 ###### ARTICULO 35o.
 
@@ -627,7 +627,9 @@ En caso que la fusión extinga alguna institución, se indicará el sistema a se
 
 Una vez dictaminada por la Junta la documentación respectiva, emitirá su resolución dentro de los siguientes quince días hábiles, la cual se enviará al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado.
 
-De aprobarse la fusión o escisión, se procederá a la protocolización de los estatutos, a su inscripción en el Registro Público de la Propiedad y a la cancelación de las inscripciones que correspondan. Si la resolución fuere negativa se procederá en los mismos términos previstos en el artículo 74 de la presente Ley.
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+De aprobarse la fusión o escisión, se procederá a la protocolización de los estatutos, a su inscripción en el Registro Público de la Propiedad y del Comercio, y a la cancelación de las inscripciones que correspondan. Si la resolución fuere negativa se procederá en los mismos términos previstos en el artículo 74 de la presente Ley.
 
 ## TITULO CUARTO. DE LOS ORGANOS ESTATALES DE VIGILANCIA DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA
 
@@ -699,7 +701,9 @@ I. Ser mexicano en pleno ejercicio de sus derechos civiles;
 
 II. Tener reconocida honorabilidad y solvencia moral;
 
-III. Tener no más de 75 años ni menos de 30 de edad al día de su nombramiento;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+III. Tener más de 30 años de edad al día de su nombramiento;
 
 IV. No haber sido condenado por la comisión de delito doloso, ni haber sido inhabilitado para ocupar cargos públicos;
 
@@ -1216,3 +1220,7 @@ Artículo Primero: El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo: Los asuntos en trámite que se lleven a cabo a la entrada en vigor del presente Decreto, culminarán conforme a las disposiciones vigentes en la fecha en que se iniciaron.
 
 Artículo Tercero: Quienes actualmente funjan como integrantes de la Junta de Beneficencia Privada permanecerán en su cargo hasta cumplir el término de cinco años que establece el artículo 85 de esta Ley, contados a partir de la vigencia del presente Decreto.
+
+P.O. 27 DE OCTUBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
