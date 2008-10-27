@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-consejo-de-relaciones-laborales-y-41379
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-12"
-last_updated: "2004-10-12"
+last_updated: "2008-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE RELACIONES LABORALES Y PRODUCTIVIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el martes 12 de octubre de 2004.
 
@@ -85,7 +85,7 @@ II. Dirección de Capacitación y Competitividad;
 
 III. Dirección del Servicio Estatal de Empleo;
 
-IV. Dirección de Auto Empleo y Pequeños Negocios, y
+IV. (DEROGADA, P.O. 27 DE OCTUBRE DE 2008)
 
 V. Dirección de Inspección del Trabajo.
 
@@ -299,23 +299,27 @@ II. Proponer al Presidente Ejecutivo programas en materia de empleo que se sumen
 
 III. Impulsar programas de apoyo al empleo especialmente dirigidos a los grupos vulnerables, a los adultos mayores y a las personas con capacidades diferentes;
 
-IV. Realizar todos los actos que sean necesarios o conducentes para el logro de su misión y objetivos, y
+IV. Realizar todos los actos que sean necesarios o conducentes para el logro de su misión y objetivos, y (sic)
 
-V. Las demás que expresamente le confiera el Presidente Ejecutivo, las leyes y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+V. Diseñar e implementar programas de capacitación que fomenten una cultura de autoempleo;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+VI. Promover la creación y el desarrollo de micronegocios, a través de asesoría, capacitación y suministro de equipo;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+VII. Implementar el programa emprendedor en los grupos urbanos marginados y comunidades rurales, y
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+VIII. Las demás que expresamente le confiera el Presidente Ejecutivo, las leyes y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 22.
 
-La Dirección de Auto Empleo y Pequeños Negocios, además de las atribuciones señaladas en el artículo 16 de este Reglamento Interior, contará con las siguientes:
-
-I. Diseñar e implementar programas de capacitación que fomenten una cultura de autoempleo;
-
-II. Promover la creación y el desarrollo de micronegocios, a través de asesoría, capacitación y suministro de equipo;
-
-III. Implementar el programa emprendedor en los grupos urbanos marginados y comunidades rurales;
-
-IV. Realizar todos los actos que sean necesarios o conducentes para el logro de su misión y objetivos, y
-
-V. Las demás que expresamente le confiera el Presidente Ejecutivo, las leyes y otras disposiciones jurídicas aplicables.
+(DEROGADO, P.O. 27 DE OCTUBRE DE 2008)
 
 ###### Artículo 23.
 
@@ -362,3 +366,11 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 NAPOLEÓN CANTÚ CERNA
 
 LA PRESENTE HOJA DE FIRMAS CORRESPONDE AL REGLAMENTO INTERIOR DEL CONSEJO DE RELACIONES LABORALES Y PRODUCTIVIDAD, SUSCRITO EN MONTERREY, NUEVO LEÓN, EL DÍA 05 DE OCTUBRE DEL 2004.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE OCTUBRE DE 2008.
+
+PRIMERO.- El presente Acuerdo por el que se reforma el Reglamento Interior del Consejo de Relaciones Laborales y Productividad entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Consejo de Relaciones Laborales y Productividad se deberá coordinar con la Secretaria de Finanzas y Tesorería General del Estado y con la Oficialía Mayor de Gobierno a efecto de llevar a cabo los trámites correspondientes a la transferencia de los recursos financieros, materiales y humanos de la extinta Dirección de Autoempleo y Pequeños Negocios a la Dirección del Servicio Estatal de Empleo.
