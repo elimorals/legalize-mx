@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-mediacion-y-conciliacion-del-estado-de-aguascalientes-42
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2004-12-27"
+last_updated: "2008-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE MEDIACION Y CONCILIACION DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2008.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 27 de diciembre de 2004.
 
@@ -53,19 +53,25 @@ Los procedimientos de mediación y conciliación estarán a cargo del Centro de 
 
 También podrán proporcionar servicios de mediación y conciliación los Jueces Menores Mixtos, las dependencias del Poder Ejecutivo y las Municipales que lo requieran para la mejor solución de los conflictos que ante ellas se presenten, de acuerdo con sus funciones, las instituciones privadas constituidas para tal efecto y las personas físicas.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 3º.
 
-Todos los mediadores y conciliadores deberán someterse a la presente ley y contar con certificación y registro del Centro de Mediación.
+Todos los mediadores y conciliadores deberá (sic) someterse a la presente Ley y contar con certificación y registro del Centro de Mediación; además de contar con la capacitación que se requiera en materia de violencia y perspectiva de género, independientemente de que presten sus servicios para instituciones públicas o privadas, de conformidad con la presente Ley.
 
 ###### Artículo 4º.
 
 Podrán someterse a mediación o conciliación los derechos y obligaciones susceptibles de transacción o convenio entre particulares, los que se relacionen con conductas que pudieran constituir delitos perseguibles por querella o en los cuales sea admisible el perdón de la víctima u ofendido para extinguir la acción penal y la facultad de ejecutar penas y/o medidas de seguridad, así como los relativos a la reparación del daño en los demás delitos.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 5º.
 
-Los procedimientos de mediación y conciliación se sujetarán a los principios de rapidez, neutralidad, imparcialidad, confidencialidad y equidad; serán proporcionados por personas aptas y capacitadas para tal efecto. Además, serán gratuitos cuando se impartan por el Centro de Mediación del Poder Judicial, Juzgados Menores Mixtos, dependencias del Poder Ejecutivo, instancias municipales o universidades.
+Los procedimientos de mediación y conciliación se sujetarán a los principios de rapidez, neutralidad, imparcialidad, confidencialidad y equidad; serán proporcionados por personas aptas y capacitadas para tal efecto, quienes acreditarán contar con las actitudes idóneas desde la perspectiva de género, para substanciar dichos procedimientos, libres de estereotipos, prejuicios o conceptos de subordinación de un género hacia otro. Además, serán gratuitos cuando se impartan por el Centro de Mediación del Poder Judicial, Juzgados Menores Mixtos, dependencias del Poder Ejecutivo, instancias municipales o universidades.
 
 Los servicios de mediación y conciliación proporcionados por instituciones privadas o por personas físicas, serán remunerados en forma convencional, pero en ningún caso el monto de la remuneración excederá del equivalente al 10% del valor del asunto motivo del conflicto mediado, si este es susceptible de cuantificarse económicamente, salvo pacto expreso en contrario.
+
+Sus mediadores y conciliadores estarán atentos a los requisitos señalados en los Artículos 4° y 5° de la presente Ley, y será motivo del retiro de la certificación, la queja fundada sobre discriminación o mala práctica de género; entendiendo esta última como la que fomenta subordinación, control o sometimiento de las mujeres.
 
 ###### Artículo 6º.
 
@@ -81,6 +87,8 @@ La conciliación es el procedimiento voluntario en el cual un tercero llamado co
 
 Los mediadores y conciliadores podrán ser oficiales y privados. Oficiales son aquellos que se encuentren adscritos al Centro de Mediación, Juzgados Menores Mixtos, dependencias del Poder Ejecutivo, instancias municipales o universidades. Privados son las personas físicas que hayan sido autorizadas mediante una certificación y registro del Centro de Mediación para desempeñar estas funciones, las cuales podrán realizar en forma individual o como integrantes de una institución de mediación o conciliación privada.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 9º.
 
 Para ser mediador o conciliador se requiere:
@@ -91,23 +99,33 @@ II. Ser licenciado en derecho, trabajo social, psicología, sociología, asesor�
 
 III. Ser de reconocida honradez y gozar de buena reputación;
 
-IV. No haber sido condenado por delito doloso por sentencia que haya causado ejecutoria;
+IV. No haber sido condenado por delito doloso por sentencia que haya causado ejecutoria; ni existir procedimiento administrativo donde se le impute la calidad de generador de violencia familiar, en términos de la legislación de la materia;
 
-V. Acreditar haber recibido la capacitación especializada en mediación y conciliación; y,
+V. Acreditar haber recibido la capacitación especializada en mediación y conciliación, violencia y perspectiva de género;
 
-VI. Obtener certificación y registro del Centro de Mediación, debiendo refrendar este último anualmente.
+VI. Obtener certificación y registro del Centro de Mediación, debiendo refrendar este último anualmente; y
 
-Se considera capacitación especializada para los efectos de esta ley, aquella que es impartida por el Centro de Mediación del Poder Judicial o por las instituciones educativas, públicas o privadas, que estén autorizadas por la Secretaría de Educación Pública o por los Institutos de Educación Estatales, para impartir estudios de enseñanza superior en la materia.
+VII. Contar con la evaluación de actitudes anualmente del Instituto Aguascalentense de las Mujeres.
+
+Se considera capacitación especializada para los efectos de esta Ley, aquella que es impartida por el Centro de Mediación del Poder Judicial o por las instituciones educativas, públicas o privadas, que estén autorizadas por la Secretaría de Educación Pública o por los institutos de educación estatales, para impartir estudios de enseñanza superior en la materia.
+
+Así como la proporcionada por el Instituto Aguascalentense de la Mujer, en materia de violencia y perspectiva de género.
 
 ###### Artículo 10.
 
 Podrá cancelarse el registro o denegarse su refrendo:
 
-I. A los mediadores y conciliadores que hayan dejado de reunir cualquiera de los requisitos a que se refieren las fracciones I, III y IV del artículo anterior.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+I. A los mediadores y conciliadores que hayan dejado de reunir cualquiera de los requisitos a que se refieren las Fracciones I, III, IV y VI del Artículo anterior.
 
 II. A los mediadores y conciliadores cuya evaluación realizada con motivo de alguna queja presentada en su contra, ponga de manifiesto el incumplimiento de los principios de la Mediación o de las disposiciones de la presente ley.
 
 Las quejas a que se refiere este artículo, deberán presentarse por la parte afectada ante el Director del Centro de Mediación y Conciliación del Poder Judicial, quien inmediatamente procederá a solicitar un informe de su actuación al mediador o conciliador denunciado, el cual deberá rendirse en un plazo máximo de cinco días hábiles junto con las pruebas que lo justifiquen, bajo apercibimiento de tener por ciertos los hechos de la queja, en caso de rebeldía.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+Tratándose de los casos en que las quejas versen sobre malas prácticas de género, se dará vista al Instituto Aguascalentense de la Mujer, para que manifieste lo conducente.
 
 El Director del Centro de Mediación procederá a integrar la investigación correspondiente en un plazo no mayor a quince días hábiles, al término del cual, emitirá la resolución que en derecho proceda.
 
@@ -121,15 +139,19 @@ La cancelación del registro que se realice antes de la publicación anual de la
 
 La cancelación del registro a un mediador o conciliador, o la negativa de su refrendo, no lo exime de las responsabilidades en que haya incurrido, las cuales, en ningún caso podrán hacerse extensivas al Centro de Mediación o al Poder Judicial del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 13.
 
 Las instituciones de mediación y conciliación privadas deberán cumplir los siguientes requisitos:
 
 I. Acreditar ante el Centro de Mediación la constitución, existencia y representación de la institución;
 
-II. Contar con un registro de mediadores y conciliadores certificados por el Centro de Mediación; y,
+II. Contar con un registro de mediadores y conciliadores certificados por el Centro de Mediación;
 
-III. Contar con un reglamento interno debidamente autorizado por el Centro de Mediación, que detalle la organización del centro y sus reglas generales de funcionamiento.
+III. Contar con un reglamento interno debidamente autorizado por el Centro de Mediación, que detalle la organización del Centro y sus reglas generales de funcionamiento; y
+
+IV. Tener la constancia anual de capacitación sobre violencia y perspectiva de género, por alguna institución avalada por el Instituto Aguascalentense de la Mujer, o por éste.
 
 ###### Artículo 14.
 
@@ -149,9 +171,13 @@ II. Vigilar que en los trámites de mediación y conciliación en los que interv
 
 III. Actualizarse permanentemente para el mejor desempeño de su función;
 
-IV. Propiciar soluciones que armonicen los intereses en conflicto, buscando en todo caso la equidad entre los interesados;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
-V. Conservar la confidencialidad de los datos, informes, comentarios, conversaciones, acuerdos y posturas de las partes a los cuales tengan acceso con motivo de su función. Por tanto, estarán obligados a conservar en concepto de secreto profesional, todo aquello que hayan conocido al intervenir en los procedimientos de mediación y conciliación e impedidos para fungir como testigos en asuntos relacionados con los negocios en los que hayan sido mediadores o conciliadores. Tampoco podrán ser patrocinadores o abogados en esos asuntos;
+IV. Propiciar soluciones que armonicen los intereses en conflicto, buscando en todo caso la igualdad sustantiva entre las partes, absteniéndose de tratar asuntos en materias expresamente prohibidas por la presente Ley;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+V. Conservar la confidencialidad de los datos, informes, comentarios, conversaciones, acuerdos y posturas de las partes a los cuales tengan acceso con motivo de su función. Por tanto, estarán obligados a conservar en concepto de secreto profesional, todo aquello que hayan conocido al intervenir en los procedimientos de mediación y conciliación e impedidos para fungir como testigos en asuntos relacionados con los negocios en los que hayan sido mediadores o conciliadores. Tampoco podrán ser patrocinadores o abogados en esos asuntos; y
 
 VI. Abstenerse de intervenir en asuntos en los que pudiera verse afectada su imparcialidad, aplicándose en lo conducente el Código de Procedimientos Civiles del Estado de Aguascalientes.
 
@@ -175,9 +201,13 @@ II. Ser Licenciado en Derecho;
 
 III. Ser de reconocida honradez y gozar de buena reputación;
 
-IV. No haber sido condenado por delito doloso por sentencia que haya causado ejecutoria; y
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
-V. Acreditar haber recibido la capacitación especializada en mediación y conciliación.
+IV. No haber sido condenado por delito doloso por sentencia que haya causado ejecutoria; y no haber estado involucrado en un procedimiento administrativo de violencia familiar, como generador de la misma; y
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+V. Acreditar haber recibido la capacitación especializada en mediación y conciliación, violencia y perspectiva de género.
 
 ###### Artículo 20.
 
@@ -199,7 +229,9 @@ VII. Expedir la certificación y registrar a los mediadores oficiales y privados
 
 VIII. Adscribir a los mediadores y conciliadores del Poder Judicial, a las oficinas dependientes del Centro de Mediación instaladas en los lugares que señale la Presidencia del Supremo Tribunal de Justicia;
 
-IX. Vigilar que los mediadores y conciliadores dependientes del Centro a su cargo, cumplan con sus funciones y, en caso de no ser así, proceder en los términos de la presente ley;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+IX. Vigilar que los mediadores y conciliadores dependientes del Centro a su cargo, cumplan con sus funciones y desarrollen su encargo con actitudes libres de prejuicios o estereotipos de sumisión entre los géneros, en caso de no ser así, proceder en los términos de la presente Ley; y
 
 X. Recibir las quejas que se presenten en contra de los mediadores o conciliadores Oficiales y Privados, practicar la investigación del caso, respetando el derecho de audiencia del interesado y tomar la resolución que corresponda, debiendo levantar al efecto las actas respectivas.
 
@@ -209,17 +241,19 @@ La Presidencia del Supremo Tribunal de Justicia del Estado formará, en la terce
 
 ### CAPITULO CUARTO. Del Procedimiento ante el Centro de Mediación del Poder Judicial
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 22.
 
 La mediación y conciliación ante el Centro de Mediación del Poder Judicial, podrá iniciarse a petición de parte interesada con capacidad para obligarse, mediante solicitud verbal o escrita. En el primer caso, se llenarán los formatos de control interno establecidos para ello.
 
 En ambos supuestos, la solicitud deberá contener, por lo menos, los siguientes datos:
 
-I. Un resumen de los hechos que constituyen el conflicto que se pretende resolver;
+I. Un resumen de los hechos que constituyen el conflicto que se pretende resolver señalando expresamente que no existen actos de violencia familiar entre las partes;
 
-II. El nombre y domicilio del solicitante y de la persona con la que se tenga la controversia;
+II. El nombre y domicilio del solicitante y de la persona con la que se tenga la controversia; así como el parentesco o relación existente, y si en algún momento ha existido alguna dinámica de cualquier modalidad o tipo de violencia de los señalados en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
 
-III. La adhesión expresa del solicitante a los principios que rigen la mediación y conciliación, acerca de los cuales se le informará al ser presentada su solicitud.
+III. La adhesión expresa del solicitante a los principios que rigen la mediación y conciliación acerca de los cuales se le informará al ser presentada su solicitud; y,
 
 IV. Firma o huella digital del solicitante.
 
@@ -249,7 +283,9 @@ III. En caso de comportamiento irrespetuoso o agresivo de alguno de los mediados
 
 IV. Por inasistencia injustificada de uno o ambos mediados a dos sesiones;
 
-V. Por impedimento insuperable de cualquiera de los mediados para continuar con el procedimiento; y
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+
+V. Por impedimento insuperable de cualquiera de los mediados para continuar con el procedimiento; o
 
 VI. En el caso de que alguno de los mediados deje de ser titular u obligado con respecto a la materia del conflicto.
 
@@ -261,11 +297,15 @@ Posteriores a la inicial, se llevarán a cabo las sesiones necesarias, de acuerd
 
 Cuando los mediados lleguen a la solución de la controversia, de acuerdo con las características de la misma, podrán optar por un compromiso de cumplir los acuerdos alcanzados, sin sujetarlo a formalidad alguna, o por la elaboración de un convenio escrito.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 29.
 
-El mediador auxiliará a los mediados en la elaboración del convenio al que llegaren, cuidando siempre que no se afecten intereses de orden público y que prevalezca la equidad.
+El mediador auxiliará a los mediados en la elaboración del convenio al que llegaren, cuidando siempre que no se afecten intereses de orden público y que prevalezca la igualdad sustantiva entre las partes.
 
-Una vez suscrito el mismo, lo remitirá al Director para los efectos del artículo 20 de la presente ley, que sean conducentes.
+Entendiéndose por igualdad sustantiva, la existente entre los géneros, que incluyan las acciones afirmativas necesarias para dar derechos a quienes son desiguales para facilitar la igualdad real y de facto.
+
+Una vez suscrito el mismo, lo remitirá al Director para los efectos del Artículo 20 de la presente Ley, que sean conducentes.
 
 ### CAPITULO QUINTO. De los Efectos del Procedimiento ante el Centro de Mediación del Poder Judicial y del Convenio
 
@@ -281,13 +321,17 @@ La suspensión a que se refiere este artículo sólo podrá concederse en una oc
 
 El procedimiento de mediación o conciliación no interrumpe los términos de prescripción y caducidad respecto de los derechos y obligaciones que sean materia del mismo, a menos que así lo señale expresamente la legislación aplicable a la materia de que se trate.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 32.
 
 Los convenios celebrados para poner fin a un procedimiento de mediación o conciliación, tendrán carácter de títulos ejecutivos civiles y serán obligatorios para las partes mediadas, quienes estarán vinculadas a su cumplimiento.
 
 En caso de que el procedimiento de mediación o conciliación hubiese sido referido al Centro de Mediación y Conciliación del Poder Judicial por un juez de primera instancia, en virtud de un juicio contencioso tramitado ante dicha autoridad, el convenio podrá ser elevado a la categoría de cosa juzgada por el juez de la causa, una vez que el Director del Centro de Mediación lo haga de su conocimiento y siempre que a juicio del juez, no sea contrario a derecho.
 
-Cuando en el convenio se imponga a una de las partes la obligación de otorgar el perdón o de darse por pagado de la reparación del daño, en un proceso penal, ello sólo será exigible hasta que la contraparte cumpla con las prestaciones a su cargo.
+Cuando en el convenio se imponga a una de las partes la obligación de otorgar el perdón o de darse por pagado de la reparación del daño, en un proceso penal, ello sólo será exigible hasta que la contraparte cumpla con las prestaciones a su cargo, y bajo ninguna circunstancia se pactará la condonación o disminución de la indemnización del daño moral.
+
+Tampoco podrá considerarse como reparación del daño, el apoyo psicoemocional que el Ejecutivo brinda a la víctima del delito y que disminuye el impacto de éste.
 
 TRANSITORIOS:
 
@@ -323,4 +367,20 @@ Aguascalientes, Ags; 22 de diciembre de 2004.
 
 EL SECRETARIO GENERAL DE GOBIERNO,
 
-Lic. Jorge Mauricio Martínez Estebanez
+Lic Jorge Mauricio Martínez Estebanez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE OCTUBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El personal que se encuentra ya en funciones de mediador o conciliador, contará con noventa días para acreditar su capacitación en materia de violencia y perspectiva de género, contados a partir de su publicación, para los efectos del refrendo anual que señala la Ley.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las normas que se opongan al presente Decreto.
