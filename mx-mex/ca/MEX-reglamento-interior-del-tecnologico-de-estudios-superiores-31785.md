@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-3178
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2003-05-27"
+last_updated: "2008-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE TIANGUISTENCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE OCTUBRE DE 2008.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el martes 27 de mayo de 2003.
 
@@ -57,9 +57,11 @@ IV. Director, al Director del Tecnológico de Estudios Superiores de Tianguisten
 
 El Tecnológico es un organismo público descentralizado de carácter estatal, con personalidad jurídica y patrimonio propios, que tiene a su cargo el despacho de los asuntos que le confieren el Decreto y otras disposiciones legales.
 
+> <small>(REFORMADO, G.G. 28 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 4.
 
-El Tecnológico se sujetará a lo dispuesto por la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y su reglamento, y por lo que establezcan otros ordenamientos aplicables.
+El Tecnológico se sujetará a lo dispuesto por la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y su reglamento, y por lo que establezcan otros ordenamientos aplicables.
 
 ###### Artículo 5.
 
@@ -89,9 +91,11 @@ Corresponde a la Junta el ejercicio de las atribuciones señaladas en el Decreto
 
 ### CAPITULO III. DE LAS ATRIBUCIONES DEL DIRECTOR
 
+> <small>(REFORMADO, G.G. 28 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 10.
 
-Al frente de la Dirección habrá un Director, quien será nombrado y removido por el Gobernador del Estado, a propuesta del Secretario de Educación, Cultura y Bienestar Social, y durará en su cargo cuatro años, pudiendo ser confirmado para un segundo periodo.
+Al frente de la Dirección habrá un Director, quien será nombrado y removido por el Gobernador del Estado, a propuesta del Secretario de Educación, y durará en su cargo cuatro años pudiendo ser confirmado para un segundo periodo.
 
 ###### Artículo 11.
 
@@ -115,9 +119,15 @@ VIII. Someter a la aprobación de la Junta el nombramiento de los subdirectores,
 
 IX. Conceder en el ámbito de su competencia, licencias, permisos y autorizaciones al personal del Tecnológico;
 
-X. Integrar el Consejo Consultivo Académico y el Patronato del Tecnológico; y
+X. Integrar el Consejo Consultivo Académico y el Patronato del Tecnológico; y (sic)
 
-XI. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende la Junta.
+> <small>(REFORMADA, G.G. 28 DE OCTUBRE DE 2008)</small>
+
+XI. Coordinar y supervisar el funcionamiento de las Unidades de Estudios Superiores y, en su caso, disponer las acciones y estrategias para el cumplimiento de sus objetivos;
+
+> <small>(ADICIONADA, G.G. 28 DE OCTUBRE DE 2008)</small>
+
+XII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende la Junta.
 
 ###### Artículo 12.
 
@@ -129,21 +139,39 @@ II. Subdirección de Planeación y Vinculación;
 
 III. Subdirección de Servicios Administrativos;
 
-IV. División de Ingeniería Mecánica; y
+IV. División de Ingeniería Mecánica; y (sic)
 
-V. División de Licenciatura en Contaduría.
+V. División de Licenciatura en Contaduría;
+
+> <small>(ADICIONADA, G.G. 28 DE OCTUBRE DE 2008)</small>
+
+VI. Unidad Jurídica.
 
 El Director contará con los servidores públicos, órganos técnicos y unidades administrativas necesarias para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable y con el presupuesto de egresos respectivo.
 
-### CAPITULO IV. DE LAS ATRIBUCIONES GENERICAS DE LOS SUBDIRECTORES Y JEFES DE DIVISIÓN
+> <small>(ADICIONADO, G.G. 28 DE OCTUBRE DE 2008)</small>
+
+El Tecnológico podrá contar con unidades administrativas desconcentradas, denominadas Unidades de Estudios Superiores, las cuales se ubicarán en los municipios que determine la Junta y tendrán por objeto instrumentar programas académicos y de investigación correspondientes al Organismo.
+
+> <small>(ADICIONADO, G.G. 28 DE OCTUBRE DE 2008)</small>
+
+Las Unidades de Estudios Superiores se adscribirán directamente al Director y sus funciones se establecerán en el Manual General de Organización del Tecnológico.
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 28 DE OCTUBRE DE 2008)</small>
+
+### CAPITULO IV. DE LAS ATRIBUCIONES GENERICAS DE LOS SUBDIRECTORES, JEFES DE DIVISION Y JEFES DE UNIDAD
+
+> <small>(REFORMADO, G.G. 28 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 13.
 
-Al frente de cada Subdirección y División habrá un titular, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la organización interna aprobada al Tecnológico y con el presupuesto de egresos respectivo.
+Al frente de cada Subdirección, División y Unidad habrá un titular, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la organización interna aprobada al Tecnológico y con el presupuesto de egresos respectivo.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 28 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 14.
 
-Corresponde a los Subdirectores y Jefes de División el ejercicio de las atribuciones genéricas siguientes:
+Corresponde a los Subdirectores y Jefes de División y de Unidad, el ejercicio de las atribuciones genéricas siguientes:
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones encomendadas a la unidad administrativa a su cargo;
 
@@ -169,7 +197,9 @@ XI. Participar, en el ámbito de su competencia, en la elaboración, ejecución 
 
 XII. Las demás que les confieran otras disposiciones legales y aquellas que les encomiende su superior inmediato.
 
-### CAPITULO V. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS SUBDIRECCIONES Y DE LAS DIVISIONES
+> <small>(REFORMADA SU DENOMINACION, G.G. 28 DE OCTUBRE DE 2008)</small>
+
+### CAPITULO V. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS SUBDIRECCIONES, DIVISIONES Y UNIDAD
 
 ###### Artículo 15.
 
@@ -307,6 +337,24 @@ XIII. Vigilar que los estudios realizados en otras instituciones de educación q
 
 XIV. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director.
 
+> <small>(ADICIONADO, G.G. 28 DE OCTUBRE DE 2008)</small>
+
+Artículo 19 bis.- Corresponde a la Unidad Jurídica:
+
+I. Representar al Tecnológico en los asuntos jurisdiccionales, con los poderes específicos que le otorgue el Director.
+
+II. Atender y promover las demandas, amparos, juicios, citatorios y demás requerimientos de autoridades diversas, que se emitan o se instauren con relación y en contra del Tecnológico y su personal, a fin de proteger el interés jurídico y patrimonio del mismo.
+
+III. Compilar y divulgar los ordenamientos jurídicos que regulen la organización y el funcionamiento del Tecnológico.
+
+IV. Asistir jurídicamente al personal del Tecnológico en las diligencias de carácter judicial, cuando se traten asuntos inherentes al Organismo.
+
+V. Asesorar al personal del Tecnológico respecto a los ordenamientos jurídicos que se vinculen con el desarrollo de sus funciones.
+
+VI. Revisar y, en su caso, elaborar los proyectos de ordenamientos jurídicos que pretenda suscribir o expedir el Tecnológico.
+
+VII. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Director.
+
 ### CAPITULO VI. DEL CONSEJO CONSULTIVO ACADEMICO
 
 ###### Artículo 20.
@@ -331,7 +379,9 @@ El cargo de miembro del Consejo Consultivo Académico será honorífico.
 
 Corresponde al Consejo Consultivo Académico las funciones siguientes:
 
-I. Dictaminar los proyectos académicos presentados a la Junta y los que ésta le proponga, sometiéndolos a la consideración de la Secretaría de Educación, Cultura y Bienestar Social, a través del Director;
+> <small>(REFORMADA, G.G. 28 DE OCTUBRE DE 2008)</small>
+
+I. Dictaminar los proyectos académicos presentados a la Junta y los que ésta le proponga, sometiéndolos a la consideración de la Secretaría de Educación, a través del Director;
 
 II. Vigilar el cumplimiento de los planes y programas de estudio aprobados por las autoridades educativas;
 
@@ -355,9 +405,11 @@ El Consejo Consultivo Académico celebrará sesiones ordinarias, de acuerdo con 
 
 El Director será suplido en sus ausencias temporales menores de 15 días, por el Subdirector que aquél designe. En las mayores de 15 días, por el Subdirector que designe el Presidente de la Junta.
 
+> <small>(REFORMADO, G.G. 28 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 26.
 
-Los Subdirectores y Jefes de División serán suplidos en sus ausencias temporales menores de 15 días, por el servidor público que ellos designen. En las mayores de 15 días, por el servidor público que designe el Director.
+Los Subdirectores y Jefes de División y de Unidad serán suplidos en sus ausencias temporales menores de 15 días, por el servidor público que ellos designen. En las mayores de 15 días por el servidor público que designe el Director.
 
 T R A N S I T O R I O S
 
@@ -371,12 +423,30 @@ Aprobado por la Junta Directiva del Tecnológico de Estudios Superiores de Tiang
 
 ING. ALBERTO CURI NAIME
 
-SECRETARIO DE EDUCACION, CULTURA Y BIENESTAR SOCIAL Y PRESIDENTE DE LA JUNTA DIRECTIVA
+SECRETARIO DE EDUCACION, CULTURA
+
+Y BIENESTAR SOCIAL Y PRESIDENTE
+
+DE LA JUNTA DIRECTIVA
 
 (RUBRICA).
 
 LIC. BENJAMIN VALDES PLATA
 
-DIRECTOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE TIANGUISTENCO Y SECRETARIO DE LA JUNTA DIRECTIVA
+DIRECTOR DEL TECNOLOGICO DE ESTUDIOS
+
+SUPERIORES DE TIANGUISTENCO Y
+
+SECRETARIO DE LA JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+G.G. 28 DE OCTUBRE DE 2008.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
