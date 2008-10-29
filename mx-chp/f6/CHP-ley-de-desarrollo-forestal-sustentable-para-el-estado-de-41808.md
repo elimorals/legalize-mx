@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-41808"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-08"
-last_updated: "2004-11-08"
+last_updated: "2008-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 29 DE OCTUBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el lunes 8 de noviembre del 2004.
 
@@ -1802,3 +1804,27 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los cinco días del mes de noviembre del año dos mil cuatro.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Rubén F. Velazquez López, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE OCTUBRE DE 2008.
+
+Artículo Primero.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley de Desarrollo Forestal Sustentable para el Estado de Chiapas, publicada en el Periódico Oficial del Estado de fecha 08 de noviembre de 2004, y se derogan todas las demás disposiciones normativas que se opongan a este ordenamiento.
+
+Artículo Tercero.- Las autorizaciones a las que hace referencia la presente ley, otorgadas con anterioridad a la fecha del inicio de su vigencia, seguirán surtiendo sus efectos y su prórroga e inspección se sujetarán a las disposiciones del presente ordenamiento.
+
+Artículo Cuarto.- Dentro del lapso de noventa días, contado a partir de la entrada en vigor de la presente ley, el Ejecutivo Estatal solicitará al Ejecutivo Federal la celebración de los convenios de coordinación necesarios para el cumplimiento de las disposiciones contenidas en la Ley General y en la presente Ley.
+
+Artículo Quinto.- La primera sesión ordinaria del Fideicomiso para el Desarrollo Forestal Sustentable será convocada y presidida por el Gobernador del Estado en su carácter de Presidente del Comité Técnico, dentro de los sesenta días siguientes a la entrada en vigor de esta ley, y en ese acto se instalará el Comité Técnico, y en la misma se aprobará el calendario de las sesiones subsecuentes.
+
+De igual forma, en un plazo de noventa días hábiles a partir de la entrada en vigor de la presente Ley, la Comisión emitirá las Reglas de Operación del Fideicomiso Forestal, previa aprobación del Ejecutivo Estatal.
+
+Artículo Sexto.- En un término de noventa días siguientes a la entrada en vigor de esta Ley, se instalará el Consejo Estatal Forestal: Una vez instalado, en un término de sesenta días hábiles presentará su reglamento Interno al titular de la Comisión Forestal.
+
+Artículo Séptimo.- Se abroga el Decreto número 272, que crea la Comisión de Inspección y Vigilancia Forestal del Estado de Chiapas, publicado en el Periódico Oficial No. 103 de fecha 17 de abril de 2002.
+
+Artículo Octavo.- Los municipios del Estado de acuerdo a sus recursos presupuestales crearán dentro del plazo de un año contado a partir de la entrada en vigor de la presente Ley, el área administra 1iva encargada de cumplir con el Servicio Forestal Municipal.
+
+Artículo Noveno.- El Ejecutivo contará con noventa días hábiles a partir del inicio de la vigencia de este ordenamiento, para expedir su Reglamento.
