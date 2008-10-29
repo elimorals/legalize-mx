@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-cultura-fisica-y-deporte-del-35829
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2003-12-24"
+last_updated: "2008-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE CULTURA FISICA Y DEPORTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -167,37 +167,69 @@ El Consejo de Cultura Física y Deporte se integrará por los siguientes miembro
 
 I. Un Presidente Honorario, que será el Gobernador del Estado;
 
-II. Un Presidente del Consejo de Cultura Física y Deporte, que será el Director General del Instituto y actuará como representante del Gobernador del Estado;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2008)</small>
 
-III. Un Secretario designado por el Director General del Instituto, quien sólo tendrá derecho de voz pero no de voto; y
+II. Un Presidente del Consejo que será un ciudadano designado por el Ejecutivo Estatal a propuesta del Director General del Instituto;
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2008)</small>
+
+III. Un Secretario, que será elegido por los integrantes del Consejo de entre sus miembros Vocales Consejeros, quien conservará su derecho de voz y voto sólo en su carácter de vocal; y
 
 IV. Doce Vocales Consejeros, que serán los siguientes:
 
 a) Un representante de la Secretaría de Educación del Estado;
 
-b) Un representante del Instituto Estatal de la Juventud;
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2008)</small>
 
-c) Una representante del Instituto Estatal de las Mujeres;
+b) Un representante de municipios metropolitanos;
 
-d) Un representante de los deportistas con capacidades diferenciadas;
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2008)</small>
 
-e) Un representante de los adultos mayores deportistas;
+c) Un representante de municipios rurales;
 
-f) Un deportista destacado en el Estado;
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2008)</small>
 
-g) Dos representantes de la iniciativa privada vinculados a la cultura física y
+d) Un entrenador, instructor ó profesor de educación física de destacada trayectoria en el Estado;
 
-el deporte;
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2008)</small>
 
-h) Dos representantes del ámbito deportivo dentro del sector educativo, y
+e) Un representante de los deportistas con discapacidad;
 
-i) Dos personalidades del ámbito deportivo estatal o nacional.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2008)</small>
+
+f) Un representante de los adultos mayores;
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2008)</small>
+
+g) Un deportista destacado en el Estado;
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2008)</small>
+
+h) Un representante de la iniciativa privada, vinculado a la cultura física y al deporte;
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2008)</small>
+
+i) Un representante de equipos profesionales;
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2008)</small>
+
+j) Un representante del ámbito deportivo dentro del sector educativo;
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2008)</small>
+
+k) Un representante de las asociaciones olímpicas, de las registradas en el Sistema Estatal de Cultura Física y Deporte; y
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2008)</small>
+
+I) Un representante de las asociaciones no olímpicas, de las registradas en el Sistema Estatal de Cultura Física y Deporte.
 
 Por cada Consejero Vocal se podrá designar a su respectivo suplente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 9.
 
-Los Vocales Consejeros, propietarios y suplentes, a que se refieren los incisos d) al i) de la fracción IV del Artículo 8, serán nombrados por invitación del Gobernador del Estado, a propuesta del Director General, previa consulta que este último realice entre los sectores de la comunidad involucrados con la cultura física y el deporte en el Estado.
+Los Vocales Consejeros, propietarios y suplentes, a que se refieren los incisos b) a I) de la fracción IV del Artículo 8, serán nombrados por invitación del Gobernador del Estado, a propuesta del Director General, previa consulta que este último realice entre los sectores de la comunidad involucrados con la cultura física y el deporte en el Estado.
 
 Los mencionados Vocales Consejeros durarán en su encargo dos años, pudiendo ser designados nuevamente al término del período correspondiente, cuantas veces sea necesario para el adecuado cumplimiento del objeto y atribuciones del Instituto.
 
@@ -225,15 +257,19 @@ VIII. Integrar comisiones y comités para la atención de asuntos específicos; 
 
 IX. Las demás que establezca esta Ley, otros ordenamientos legales y el Reglamento Interior del Instituto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 11.
 
-El Consejo de Cultura Física y Deporte celebrará sesiones ordinarias por lo menos cada tres meses y las extraordinarias que sean necesarias, cuando así convoquen el Presidente Honorario o el Presidente del Consejo de Cultura Física y Deporte.
+El Consejo de Cultura Física y Deporte celebrará sesiones ordinarias por lo menos cada dos meses y las extraordinarias que sean necesarias, cuando así convoquen el Presidente Honorario o el Presidente del Consejo de Cultura Física y Deporte.
 
 Las sesiones del Consejo de Cultura Física y Deporte, en primera convocatoria, serán válidas con la asistencia del Presidente Honorario o el Presidente del Consejo de Cultura Física y Deporte y de al menos la mitad de los vocales, y en segunda convocatoria, con la asistencia del Presidente Honorario o el Presidente del Consejo de Cultura Física y Deporte y los vocales que asistan.
 
 El Consejo de Cultura Física y Deporte sesionará de acuerdo al calendario anual de sesiones ordinarias. De no haberse aprobado, al término de cada sesión se citará a los presentes a la siguiente sesión, enviando convocatoria a los integrantes que no hubiesen asistido.
 
-Las funciones de los Vocales Consejeros a que se refieren los incisos d) al i) de la fracción IV del Artículo 8 serán las de miembros de un órgano colegiado, su participación será a título de colaboración ciudadana y su desempeño tendrá carácter honorífico, rigiéndose por principios de buena fe y propósitos de interés general, por lo que no percibirán remuneración alguna por el desempeño de sus funciones, ni serán por motivo de su encargo considerados servidores públicos.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2008)</small>
+
+Las funciones de los Vocales Consejeros a que se refieren los incisos b) al l) de la fracción IV del Artículo 8 serán las de miembros de un órgano colegiado, su participación será a título de colaboración ciudadana y su desempeño tendrá carácter honorífico, rigiéndose por principios de buena fe y propósitos de interés general, por lo que no percibirán remuneración alguna por el desempeño de sus funciones, ni serán por motivo de su encargo considerados servidores públicos.
 
 ###### Artículo 12.
 
@@ -331,7 +367,9 @@ El Titular del Ejecutivo del Estado designará y removerá libremente al Directo
 
 El Director General del Instituto tendrá las siguientes atribuciones:
 
-I. Asistir a las sesiones del Consejo de Cultura Física y Deporte y de la Junta de Gobierno, con derecho de voz y voto;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2008)</small>
+
+I. Asistir a las sesiones del Consejo de Cultura Física y Deporte como invitado permanente con derecho a voz; y a la Junta de Gobierno, con derecho a voz y voto;
 
 II. Administrar y representar legalmente al Instituto;
 
@@ -363,7 +401,9 @@ XII. Presentar un informe anual al Consejo de Cultura Física y Deporte y a la J
 
 XIII. Vigilar el cumplimiento de la legislación estatal en materia de cultura física y de deporte, así como aplicar las sanciones por infracciones a dicha legislación y, en su caso, conocer y resolver los recursos de reconsideración que se interpongan ante la Dirección General del Instituto;
 
-XIV. Designar y remover al Secretario del Consejo de Cultura Física y Deporte, quien fungirá como Secretario de la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2008)</small>
+
+XIV. Designar y remover al Secretario de la Junta de Gobierno;
 
 XV. Autorizar la creación de comisiones y comités técnicos especializados que coadyuven al cumplimiento de los objetivos del Instituto;
 
@@ -379,25 +419,39 @@ XX. Ejercer dentro del ámbito estatal las atribuciones que le correspondan en v
 
 XXI. Las demás que establezca esta Ley, otros ordenamientos legales, el Reglamento Interior del Instituto, así como las derivadas de los acuerdos de la Junta de Gobierno.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 2008)</small>
+
 #### Sección Cuarta. Del Comisario
 
 ###### Artículo 19.
 
-Para la realización de las actividades del Consejo de Cultura Física y Deporte y de la Junta de Gobierno, el Director General designará a un Secretario quien realizará las siguientes funciones:
+El Secretario del Consejo de Cultura Física y Deporte y el Secretario de la Junta de Gobierno, tendrán respectivamente las siguientes facultades:
 
-I. Convocar a las sesiones ordinarias y extraordinarias de la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2008)</small>
+
+I. Convocar a las sesiones ordinarias y extraordinarias;
 
 II. Dar lectura al orden del día;
 
-III. Llevar el registro de asistencia de las sesiones de la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2008)</small>
+
+III. Llevar el registro de asistencia de las sesiones;
 
 IV. Redactar las actas de las sesiones;
 
-V. Integrar y custodiar el archivo de la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2008)</small>
 
-VI. Colaborar en la redacción del informe de la Junta de Gobierno;
+V. Integrar y custodiar el archivo;
 
-VII. Fungir como Secretario del Consejo de Cultura Física y Deporte; y
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2008)</small>
+
+VI. Colaborar en la redacción del informe;
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2008)</small>
+
+VII. Fungir como Secretario de las sesiones; y
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2008)</small>
 
 VIII. Las demás que le sean encomendadas para el debido cumplimiento del objeto y atribuciones del Instituto.
 
@@ -482,3 +536,11 @@ NAPOLEÓN CANTÚ CERNA
 EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RUBÉN EDUARDO MARTÍNEZ DONDÉ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE OCTUBRE DE 2008.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Dentro de 30 días naturales contados a partir de la entrada en vigor del presente Decreto, se convocará al Consejo de Cultura Física y Deporte para designar al nuevo Presidente quien substituirá en dicha fecha al Presidente actual.
