@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-integral-de-seguridad-publica-del-estado-de-330
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-30"
-last_updated: "2005-05-11"
+last_updated: "2008-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SISTEMA INTEGRAL DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 30 de julio de 2003.
 
@@ -321,15 +321,21 @@ IX. En general toda persona física o moral de derecho privado, que en virtud de
 
 Los integrantes de instituciones públicas que son auxiliares de la seguridad pública regirán su actuación por sus leyes, reglamentos y demás disposiciones respectivas.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2008)</small>
+
 ###### Artículo 27.
 
-Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, los particulares, personas físicas o morales que presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores, incluido su traslado, o servicios de sistemas de alarmas; deberán obtener la autorización y el registro de la Secretaría de Gobierno para prestar sus servicios.
+Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, los particulares, personas físicas o morales que presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores, incluido su traslado, o servicios de sistemas de alarmas; deberán obtener la autorización y el registro de la Secretaría de de Seguridad Pública para prestar sus servicios.
+
+Si los prestadores de servicios de seguridad privada ejercieran las actividades referidas en el párrafo que antecede, sin contar con la autorización y registro expedido por la Secretaría de Seguridad Pública Estatal, la actividad será considerada como una usurpación de funciones públicas y uso indebido de uniformes, por lo que deberán ser sancionados por la autoridad competente, conforme a lo dispuesto por el artículo 295 del Código Penal para el Estado de Morelos.
 
 ###### Artículo 28.
 
 Las personas físicas o morales interesadas en prestar el servicio de seguridad privada, deberán sujetarse a los siguientes lineamientos:
 
-I. Sólo podrán prestar este servicio las personas físicas o morales de nacionalidad mexicana que hayan obtenido el registro y la autorización correspondiente ante la Secretaría de Gobierno; los prestadores que no hayan cumplido con el registro podrán ser sancionados en los términos del reglamento en la materia. Toda solicitud de registro se hará del conocimiento de la unidad administrativa federal competente en materia de protección ciudadana, para que formule las observaciones que estime permanentes;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2008)</small>
+
+I. Sólo podrán prestar este servicio las personas físicas o morales de nacionalidad mexicana que hayan obtenido el registro y la autorización correspondiente ante la Secretaría de Seguridad Pública Estatal; además del registro de las personas, es obligación de la propia Secretaría de Seguridad Pública Estatal, llevar libro de registro en papel y en formato electrónico, de las fotografías, huellas digitales y registro de voz de todos los elementos, personal directivo y administrativo de los prestadores de servicios de seguridad privada; los prestadores que no hayan cumplido con el registro, podrán ser sancionados en los términos del reglamento en la materia. Toda solicitud de registro se hará del conocimiento de la unidad administrativa federal competente en materia de protección ciudadana, para que formule las observaciones que estime pertinentes;
 
 II. No podrán realizar funciones que constitucional o legalmente sean competencia exclusiva de los cuerpos de seguridad pública o de las fuerzas armadas;
 
@@ -339,7 +345,9 @@ IV. Queda prohibido usar en su denominación, razón social o nombre, en su pape
 
 V. En sus documentos, insignias e identificaciones no podrán usar emblemas oficiales ni el escudo o los colores nacionales, tampoco podrán utilizar escudos o banderas oficiales de otros países. Queda prohibido el uso de todo tipo de placas metálicas de identidad;
 
-VI.- Sólo podrán utilizar uniformes, insignias, divisas o equipos distintos de los que reglamentariamente corresponde usar a los cuerpos de seguridad pública o a las fuerzas armadas, de forma tal que a simple vista no exista la posibilidad de confusión, mismas que invariablemente tendrán que ser autorizadas por la Secretaria de Gobierno. Para el caso de utilizar uniformes, insignias, divisas o equipos no autorizados, podrán ser sancionados en los términos del artículo 295 del Código Penal para el Estado de Morelos;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2008)</small>
+
+VI. Sólo podrán utilizar uniformes, insignias, divisas o equipos distintos de los que reglamentariamente corresponde usar a los cuerpos de seguridad pública o a las fuerzas armadas, de forma tal que a simple vista no exista la posibilidad de confusión, mismas que invariablemente tendrán que ser autorizadas y aprobadas por escrito por la Secretaría de Seguridad Pública. Para el caso de utilizar uniformes, insignias, divisas o equipos no autorizados, podrán ser sancionados en los términos del artículo 295 del Código Penal para el Estado de Morelos;
 
 VII. Deberán cumplir todas y cada una de las obligaciones que les imponga el reglamento y la autorización correspondiente; y
 
@@ -373,11 +381,11 @@ Los elementos auxiliares de seguridad pública y de seguridad privada contemplad
 
 Será responsabilidad del Colegio Estatal de Seguridad Pública, determinar las modalidades para certificar a los auxiliares de seguridad pública.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 35.
 
-La Secretaría de Gobierno aportará al Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública la información relativa al registro del personal y equipo de los auxiliares de seguridad pública a que se refiere el artículo 24 de la presente Ley, y en general proporcionar la información estadística y sobre la delincuencia que aporte datos relevantes para una mejor coordinación en materia de seguridad pública.
+La Secretaría de Seguridad Pública aportará al Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública la información relativa al registro del personal y equipo de los auxiliares de seguridad pública a que se refiere el artículo 24 de la presente Ley, y en general proporcionar la información estadística y sobre la delincuencia que aporte datos relevantes para una mejor coordinación en materia de seguridad pública.
 
 ### CAPÍTULO V. DE LA COMPETENCIA
 
@@ -2350,3 +2358,15 @@ P.O. 11 DE MAYO DE 2005.
 Primero.- Remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación ene. Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado.
+
+P.O. 29 DE OCTUBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Los reglamentos generales de las leyes y reglamentos interiores de las dependencias a que se refiere el presente Decreto, deberán modificarse en un mismo Decreto del Poder Ejecutivo, en un plazo de 60 días hábiles, a partir de la entrada en vigor del presente Decreto; en tanto, se mantendrán vigentes los actuales, interpretados de acuerdo a lo dispuesto en el presente Decreto.
+
+TERCERO.- Los recursos humanos, financieros y materiales de las unidades administrativas a que se refiere el presente Decreto, deberán transferirse a la Secretaría de Seguridad Pública, en un plazo de hasta 30 días hábiles a partir de la publicación de los reglamentos a que se refiere el artículo anterior, con la participación que corresponda a las dependencias del Poder Ejecutivo en el ámbito de sus respectivas competencias.
+
+CUARTO.- Los asuntos que con motivo de este Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la dependencia que señale este Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables, que serán resueltos por la dependencia que tenga el asunto a su cargo.
+
+QUINTO.- La Ley de Ejecución de Sanciones y Medidas de Seguridad, Privativas y Restrictivas de la Libertad para el Estado de Morelos, deberá interpretarse conforme al presente ordenamiento, en lo que se oponga al mismo.
