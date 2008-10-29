@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-garantiza-la-transparencia-y-el-derecho-a-la-52402"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-12"
-last_updated: "2008-08-13"
+last_updated: "2008-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # LEY QUE GARANTIZA LA TRANSPARENCIA Y EL DERECHO A LA INFORMACION PUBLICA PARA EL ESTADO DE CHIAPAS
 
-LEY QUE GARANTIZA LA TRANSPARENCIA Y EL DERECHO A LA INFORMACION PUBLICA PARA EL ESTADO DE CHIAPAS
+LEY QUE GARANTIZA LA TRANSPARENCIA Y EL DERECHO A LA INFORMACIÓN PUBLICA PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2008.
 
 Ley publicada en el Tomo II del Periódico Oficial del Estado de Chiapas, el jueves 12 de octubre de 2006.
 
@@ -593,9 +593,23 @@ VI. Los resultados de las auditorias públicas concluidas que no contengan obser
 
 VII. El nombre, domicilio oficial y correo electrónico institucional de los servidores públicos responsables de las Unidades de Acceso a la Información Pública y de las unidades de enlace;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2008)</small>
 
-VIII. Los procedimientos de licitaciones de adquisiciones y de obra pública;
+VIII. Los procedimientos de licitaciones de adquisiciones y de obra pública.
+
+Respecto de la obra pública:
+
+a) Las convocatorias a concurso, licitación o adjudicación directa de la obra, y sus resultados.
+
+b) Las áreas operativas responsables de la adjudicación del contrato de obra, indicando la modalidad y las justificaciones correspondientes, así como el dictamen del fallo.
+
+c) El monto, la fecha y demás datos para la identificación precisa del contrato de obra.
+
+d) Las modificaciones al contrato de obra, indicando motivos, responsables de las autorizaciones, costos y tiempos adicionales.
+
+e) Las unidades administrativas y contratistas responsables de su ejecución, así como las fechas previstas para la iniciación y terminación de los trabajos de acuerdo al contrato.
+
+f) Los mecanismos de vigilancia y/o supervisión de la sociedad civil durante el proceso de licitación;
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
@@ -1260,3 +1274,9 @@ Artículo Segundo.- Se derogan las disposiciones legales que se opongan al prese
 Artículo Tercero.- Para la observancia del artículo 70, de la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas, los municipios que tengan una población superior a los setenta mil habitantes, deberán contar con sistemas electrónicos para que los solicitantes puedan hacer uso de mecanismos de acceso a la información y de los procedimientos del recurso de revisión al que se refiere el Capítulo II, de la misma Ley, a más tardar al veintiuno de julio de dos mil nueve.
 
 Artículo Cuarto.- Los municipios con población menor a setenta mil habitantes, deberán atender el ejercicio del derecho de acceso a la información pública a través de las solicitudes que por escrito se presenten ante la unidad de acceso a la información pública municipal respectiva, o si sus condiciones presupuestarias, humanas y técnicas se lo permiten, implementarán los sistemas electrónicos de acceso a la información pública y del procedimiento del recurso de revisión antes señalado.
+
+P.O. 29 DE OCTUBRE DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales que se opongan al presente Decreto.
