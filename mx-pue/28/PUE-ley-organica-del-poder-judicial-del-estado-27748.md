@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-27748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2006-09-11"
+last_updated: "2008-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2008.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2002.
 
@@ -2097,11 +2097,13 @@ Los Servidores Públicos del Poder Judicial del Estado, una vez nombrados, tomar
 
 Los Servidores Públicos del Poder Judicial del Estado, nombrados por falta absoluta de los propietarios, también tomarán posesión, previa protesta legal, ante la Autoridad que expidió su nombramiento.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2008)</small>
 
 ###### ARTÍCULO 183.
 
-El Gobernador del Estado dará posesión de sus cargos al Presidente del Tribunal Superior de Justicia y a los Magistrados. Por lo que hace a los Jueces Civiles, Familiares y Penales y a los Directores Administrativos, corresponderá al Presidente del Tribunal Superior de Justicia o al Coordinador General de la Junta de Administración del Poder Judicial, darles posesión.
+El Tribunal Superior de Justicia, funcionando en Pleno, dará posesión de sus cargos, al Presidente del propio Tribunal, a los Magistrados y a los Jueces Civiles, Penales, Familiares y especializados en adolescentes.
+
+El Presidente del Tribunal Superior de Justicia, dará posesión de sus cargos a los Directores Administrativos.
 
 > <small>(F. DE E., P.O. 3 DE FEBRERO DE 2003)</small>
 
@@ -2552,3 +2554,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 29 DE OCTUBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
