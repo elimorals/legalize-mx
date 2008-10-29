@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-instituto-de-bioenergeticos-y-energias-58775"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-12-28"
-last_updated: "2007-12-28"
+last_updated: "2008-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY ORGANICA DEL INSTITUTO DE BIOENERGETICOS Y ENERGIAS ALTERNATIVAS DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 254, PUBLICADO EN EL P.O. DE 29 DE OCTUBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 28 de diciembre de 2007.
 
@@ -340,3 +342,21 @@ Dado en el salón de Sesiones del Honorable Congreso del Estado de Chiapas, en l
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los veintiocho días del mes de diciembre del año dos mil siete.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE OCTUBRE DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día uno de enero de dos mil nueve, salvo lo dispuesto en el Artículo Segundo Transitorio del presente instrumento.
+
+Artículo Segundo.- Hasta en tanto entre en vigor el presente Decreto, el Ejecutivo del Estado podrá designar como Director General del Instituto de Bioenergéticos y Energías Alternativas del Estado de Chiapas, a la misma persona que desempeñe el cargo de Director General del Instituto de Fomento de la Agricultura Tropical, quien deberá realizar las acciones necesarias para la consolidación de los programas y proyectos que correspondan para la integración de ambos organismos, en términos de este instrumento.
+
+A efecto de lo dispuesto en el párrafo que antecede, podrá concurrir en una misma persona la Titularidad de la Dirección General del Instituto de Bioenergéticos y Energías Alternativas del Estado de Chiapas y de la Dirección General del Instituto de Fomento de la Agricultura Tropical, cuando así lo determine el Gobernador del Estado mediante el nombramiento respectivo, para lo cual la persona en la que concurra la titularidad de los dos órganos, tendrá derecho a devengar solamente el salario que corresponda a uno de éstos y el otro, lo desempeñará de manera honorífica.
+
+Artículo Tercero.- La Secretaría de Hacienda y la Secretaría de Administración, en el ámbito de sus respectivas competencias, realizarán las acciones necesarias para el debido cumplimiento del presente Decreto.
+
+Artículo Cuarto.- Los recursos humanos, materiales y financieros que a la entrada en vigor del presente Decreto, forman parte del Instituto de Bioenergéticos y Energías Alternativas del Estado de Chiapas que se extingue, serán transferidos al órgano desconcentrado de la Secretaría del Campo que para tal efecto se cree, respetando los derechos laborales de los trabajadores en términos de las disposiciones legales aplicables, así como de la normatividad respectiva.
+
+Artículo Quinto.- Las atribuciones y los compromisos adquiridos, así como los asuntos a cargo del Instituto de Bioenergétícos y Energías Alternativas del Estado de Chiapas que se extingue, que a la fecha de entrada en vigor del presente Decreto se encontraban en trámite o correspondían a éste, serán asumidos y se entenderán conferidos de inmediato al órgano desconcentrado a que se refiere el artículo transitorio que antecede, en términos del decreto administrativo respectivo.
+
+Las referencias, atribuciones o menciones que hagan otros ordenamientos en relación con el Instituto de Bioenergéticos y Energías Alternativas del Estado de Chiapas que se extingue, serán transferidas y se entenderán conferidas al órgano desconcentrado a que se refiere el artículo transitorio que antecede, en términos del decreto administrativo respectivo.
