@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2008-07-09"
+last_updated: "2008-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2008.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -3417,9 +3417,17 @@ Al que cometa un delito en contra de un servidor público en el acto de ejercer 
 
 Se impondrá de noventa a ciento ochenta días de semilibertad, al que:
 
-I. Sin ser servidor público, se atribuya ese carácter y ejerza alguna de las funciones de tal; y
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2008)</small>
 
-II. Use uniforme, insignia, distintivo o condecoración a los que no tenga derecho.
+I. Sin ser servidor público, se atribuya ese carácter y ejerza alguna de las funciones de tal;
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2008)</small>
+
+II. Use uniforme, insignia, distintivo o condecoración a los que no tenga derecho, y
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2008)</small>
+
+III. Desempeñe actividades de seguridad privada en cualquiera de sus modalidades, sin que para tal efecto se encuentre autorizado y registrado por parte de la autoridad estatal competente.
 
 ###### ARTICULO 296.
 
@@ -3920,3 +3928,15 @@ Aprobado que sea, remítase el presente al Titular del Poder Ejecutivo del Estad
 ###### ARTÍCULO TERCERO.
 
 Los Municipios, dentro del plazo de treinta días hábiles, contados a partir de la vigencia de la presente reforma, deberán adecuar sus normas reglamentarias para dar cumplimiento a los efectos derivados de su aplicación.
+
+P.O. 29 DE OCTUBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Los reglamentos generales de las leyes y reglamentos interiores de las dependencias a que se refiere el presente Decreto, deberán modificarse en un mismo Decreto del Poder Ejecutivo, en un plazo de 60 días hábiles, a partir de la entrada en vigor del presente Decreto; en tanto, se mantendrán vigentes los actuales, interpretados de acuerdo a lo dispuesto en el presente Decreto.
+
+TERCERO.- Los recursos humanos, financieros y materiales de las unidades administrativas a que se refiere el presente Decreto, deberán transferirse a la Secretaría de Seguridad Pública, en un plazo de hasta 30 días hábiles a partir de la publicación de los reglamentos a que se refiere el artículo anterior, con la participación que corresponda a las dependencias del Poder Ejecutivo en el ámbito de sus respectivas competencias.
+
+CUARTO.- Los asuntos que con motivo de este Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la dependencia que señale este Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables, que serán resueltos por la dependencia que tenga el asunto a su cargo.
+
+QUINTO.- La Ley de Ejecución de Sanciones y Medidas de Seguridad, Privativas y Restrictivas de la Libertad para el Estado de Morelos, deberá interpretarse conforme al presente ordenamiento, en lo que se oponga al mismo.
