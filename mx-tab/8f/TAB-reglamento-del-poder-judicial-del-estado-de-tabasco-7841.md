@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-del-poder-judicial-del-estado-de-tabasco-7841"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-07-14"
-last_updated: "1993-07-14"
+last_updated: "2008-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO DEL PODER JUDICIAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tabasco, el miércoles 14 de julio de 1993.
 
@@ -95,9 +95,11 @@ DEL TRIBUNAL
 
 En caso de mayoría, el Magistrado disidente formulará y razonará su voto particular.
 
-26.- Cada Magistrado llevará un legajo personal por fechas y por materias según las Salas, tanto de los asuntos en que sea ponente como de los votos particulares que emita.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2008)</small>
 
-Al terminar el segundo período de sesiones de cada año, los Magistrados entregarán el legajo a la Oficialía Mayor para su encuadernación y archivo.
+26.- Cada Magistrado llevará un registro personal por fechas según las Salas, tanto de los asuntos en que sea ponente como de los votos particulares que emita.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 29 DE OCTUBRE DE 2008)</small>
 
 27.- Las Salas resolverán dentro de los términos los asuntos que se les turnen.
 
@@ -431,7 +433,7 @@ V.- Realizar las demás funciones y asumir las responsabilidades que las disposi
 
 1º.- Relación de procesados en libertad provisional.
 
-2º.- Copias de las sentencias dictadas en el mes.
+2º.- (DEROGADO, P.O. 29 DE OCTUBRE DE 2008)
 
 3º.- Copia de las listas de acuerdos y audiencias procesales.
 
@@ -726,3 +728,9 @@ MAGISTRADO DE LA SALA CIVIL
 EL SECRETARIO GENERAL DE ACUERDOS.
 
 LIC. RAUL MENDEZ CORNELIO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE OCTUBRE DE 2008.
+
+Único. Las reformas al Reglamento del Poder Judicial del Estado contenidas en este Acuerdo, entrarán en vigor al día siguiente de su publicación.
