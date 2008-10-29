@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-garantiza-la-transparencia-y-el-derecho-a-la-52402"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-12"
-last_updated: "2008-08-13"
+last_updated: "2008-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,37 +21,43 @@ state: "CHP"
 ---
 # LEY QUE GARANTIZA LA TRANSPARENCIA Y EL DERECHO A LA INFORMACION PUBLICA PARA EL ESTADO DE CHIAPAS
 
-LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE SAN LUIS POTOSÍ
+LEY QUE GARANTIZA LA TRANSPARENCIA Y EL DERECHO A LA INFORMACIÓN PUBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2008.
 
-Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 11 de julio de 2009.
+Ley publicada en el Tomo II del Periódico Oficial del Estado de Chiapas, el jueves 12 de octubre de 2006.
 
-C.P. Marcelo de los Santos Fraga, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed; Que el Congreso del Estado ha Decretado lo siguiente:
+Pablo Salazar Mendiguchía, Gobernador del Estado libre y Soberano de Chiapas, a sus habitantes hace saber: Que la Honorable Sexagésima Segunda Legislatura del mismo, se ha servido dirigir al Ejecutivo a su cargo el siguiente:
 
-DECRETO 809
+Decreto Número 412
 
-LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
+La Honorable Sexagésima Segunda Legislatura Constitucional del Estado Libre y Soberano de Chiapas, en uso de las facultades que le concede la Constitución Política local; y,
 
-EXPOSICION DE MOTIVOS.
+Considerando
 
-###### ARTICULO PRIMERO.
+.
 
-Se expide la Ley del Registro Público de la Propiedad del Estado de San Luis Potosí, para quedar como sigue
+Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido ha bien emitir la siguiente:
 
-LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE SAN LUIS POTOSI
+Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas
 
-TlTULO PRIMERO
+## Título Primero
 
-DISPOSICIONES GENERALES
+### Capítulo I. Disposiciones Generales
 
-## TITULO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL REGISTRO
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-### Capítulo Único
+###### Artículo 1°.
 
-###### ARTICULO 1°.
+La presente Ley es de orden público e interés social y tiene por objeto garantizar plenamente la transparencia del servicio público y el derecho fundamental de toda persona al acceso a la información pública y a la protección de sus datos personales, en el Estado de Chiapas.
 
-La presente Ley es de orden público y de observancia general en el Estado de San Luis Potosí; y tiene por objeto preservar la seguridad jurídica del tráfico inmobiliario en el Estado, con base en los principios registrales de publicidad, legitimación, rogación, prelación, calificación consentimiento, inscripción, especialización y tracto sucesivo; así como regular la organización y funcionamiento del Registro Público de la Propiedad del Estado.
+Toda la información a que se refiere esta Ley es pública y solo está sujeta a las reservas temporales que por razones de interés público establece la misma. Los solicitantes tendrán acceso a dicha información en los términos y condiciones que la propia Ley establece.
+
+La información que se refiera a la vida privada de las personas y a sus datos personales, siempre será considerada como confidencial, por lo que no podrá desclasificarse y sin excepción alguna será considerada de acceso restringido, en los términos y condiciones que también fija esta Ley.
+
+Solo los servidores públicos de los sujetos obligados, serán responsables de la publicación de la información reservada o confidencial.
+
+Los titulares de cada sujeto obligado deberán adoptar las medidas necesarias para asegurar la protección, custodia, resguardo y conservación de los expedientes clasificados como reservados y confidenciales.
 
 ###### Artículo 2º.
 
@@ -60,12 +66,6 @@ Están obligados al cumplimiento de esta Ley los servidores públicos de los pod
 ###### ARTICULO 2°.
 
 El Registro Público de la Propiedad es un servicio público que consiste en dar publicidad a los actos jurídicos inscritos, que precisan de ese requisito para surtir plenamente efectos contra terceros.
-
-###### ARTICULO 3°.
-
-La prestación del servicio del Registro Público de la Propiedad corresponde a la Secretaría General de Gobierno, a través de la Dirección General del Registro Público de la Propiedad, en términos de esta Ley.
-
-Para la adecuada prestación de este servicio existirán las oficinas registrales en el Estado, y la estructura orgánica prevista por la presente Ley y su Reglamento.
 
 ###### Artículo 3º.
 
@@ -183,7 +183,7 @@ XXIX. Servidor Público: La persona física que desempeñe algún empleo, cargo 
 
 XXX. Órganos Autónomos: La Fiscalía General del Estado, la Fiscalía Electoral, la Contraloría de la Legalidad Electoral, el Instituto Estatal Electoral, la Comisión Estatal de los Derechos Humanos y demás instituciones que la ley otorgue autonomía y cualquier otro establecido en la Constitución Política del Estado de Chiapas.
 
-### Capítulo I. De la Estructura Orgánica
+### Capítulo II. Principios del Acceso a la Información Pública
 
 ###### Artículo 4º.
 
@@ -243,10 +243,6 @@ IX. Reglamento: el Reglamento de la Ley del Registro Público de la Propiedad de
 
 X. Secretaría: la Secretaría General de Gobierno.
 
-###### ARTICULO 6°.
-
-Cuando menos el diez por ciento del ingreso recurso recaudado por el cobro de derechos por la prestación de servicios del Registro, deberá ser destinado a los procesos de modernización y actualización del mismo.
-
 ###### Artículo 6º.
 
 El uso que se haga de la información pública a la que se acceda por los procedimientos establecidos en esta ley, será responsabilidad del solicitante.
@@ -271,237 +267,211 @@ El Registro operará con un programa informático o cualquier otro medio previst
 
 El Registro, la Dirección de Catastro de la Secretaría de Finanzas, y los municipios, a través de la dependencia encargada del catastro, establecerán los lineamientos generales para la existencia de una coordinación entre estas entidades, a fin de obtener la certeza en la inscripción y localización de los bienes inscritos, así como en cualquier otra información relativa a los mismos.
 
-###### ARTICULO 9°.
-
-Los funcionarios del Registro y los registradores del mismo, se excusarán de ejercer la función de calificar y autorizar el registro de actos, cuando él, su cónyuge, sus parientes por consanguinidad o afinidad en línea recta sin limitación de grado, los consanguíneos en la colateral hasta el cuarto grado inclusive, y los de por afinidad en la colateral hasta el segundo grado, tengan algún interés directo o indirecto en el asunto sobre el que verse el acto a calificar, sea cual fuere su naturaleza, con las personas físicas o morales interesadas directamente en el asunto.
-
-En estos casos será el Director General el que autorice a quien actúe en nombre de quien presente la excusa; cuando sea el Director General el que se excuse, tratará el asunto el Director de Asuntos Normativos.
-
-Cuando se excuse un registrador, la calificación y resolución de la inscripción en el Registro se hará por el diverso registrador que designe el Director General.
-
 ###### Artículo 9º.
 
 A 105 sujetos obligados, no se les podrá exigir información que no se encuentre en sus archivos.
 
-### Capítulo II. De la Dirección General del Registro
+### Capítulo III. De la Cultura en Materia de Acceso a la Información Pública
 
-###### ARTICULO 10.
+###### Artículo 10.
 
-Para el cumplimiento de las disposiciones contenidas en la presente Ley, el Registro tendrá la siguiente estructura orgánica:
+Los sujetos obligados deberán capacitar y actualizar de forma permanente a sus servidores públicos, en materia de acceso a la información pública, ejercicio del derecho de protección a los datos personales y la clasificación, resguardo, conservación y protección de archivos.
 
-I. Dirección General;
+###### Artículo 11.
 
-II. Dirección de Area;
+El Instituto cooperará con las autoridades educativas en la preparación de contenidos y diseños de materiales didácticos que versen sobre la importancia social del derecho de acceso a la información pública, el derecho de protección a los datos personales, la transparencia y la rendición de cuentas.
 
-III. Dirección de Innovación Tecnológica;
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-IV. Dirección de Asuntos Normativos;
+###### Artículo 12.
 
-V. Subdirecciones de Oficinas Registrales;
+El Instituto promoverá la participación ciudadana y de organizaciones sociales en talleres, seminarios y actividades que tengan por objeto la difusión de los objetivos de esta ley; así mismo promoverá la participación de las Universidades en la implementación de diplomados o estudios de posgrado relativos a los temas de Transparencia y Derecho de Acceso a la Información Pública.
 
-VI. Departamento Administrativo;
+Las universidades públicas y privadas deberán dentro de sus actividades académicas curriculares y extracurriculares, incluir temas que ponderen la importancia social del derecho de acceso a la información pública, la protección de datos personales y la rendición de cuentas.
 
-VII. Registradores, y
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-VIII. El personal que se establezca en el Reglamento.
+###### Artículo 13.
 
-###### ARTICULO 11.
+Tanto el Instituto, como las Unidades de Acceso a la Información Pública de todos los sujetos obligados, coordinarán acciones, compartirán experiencias y firmarán convenios, en el ámbito de sus respectivas competencias, con sus equivalentes o similares en la Federación y las entidades federativas de los Estados Unidos Mexicanos, para consolidar la cultura de la transparencia y el acceso a la información pública en el Estado y en todo el territorio nacional.
 
-El Registro estará a cargo de una Dirección General, que tendrá las obligaciones y atribuciones que establecen la presente Ley y su Reglamento.
+## Título Segundo
 
-###### ARTICULO 12.
+### Capítulo I. Del Acceso a la Información
 
-Para ser Director General del Registro se requiere:
+###### Artículo 14.
 
-I. Ser mexicano por nacimiento, y contar con cuando menos veintiocho años de edad cumplidos a la fecha de su nombramiento;
+Toda persona, tiene derecho a solicitar y recibir información de cualquiera de los sujetos obligados.
 
-II. Ser abogado o licenciado en derecho con título debidamente registrado, y contar con cédula profesional expedida por la autoridad competente;
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-III. Encontrarse en pleno ejercicio de sus derechos civiles y políticos;
+La solicitud podrá hacerse por escrito o a través de medios electrónicos, a menos que las condiciones del solicitante se lo impidan, en cuyo caso será verbal y el sujeto obligado, registrará en un formato los requisitos de la solicitud y procederá a entregar una copia del mismo al interesado.
 
-IV. Gozar de buena reputación, y no haber sido condenado por delito que haya ameritado pena privativa de libertad de más de un año pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-V. Contar con experiencia profesional de cuando menos tres años.
+Cuando la solicitud sea por escrito o verbal, deberá de presentarse ante la Unidad de Acceso a la Información Pública del sujeto obligado correspondiente; y cuando se realice a través de medios electrónicos, la solicitud se deberá hacer a través del Portal de los sujetos obligados.
 
-###### ARTICULO 13.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-Corresponde al Director General del Registro ejercer las siguientes atribuciones:
+###### Artículo 15.
 
-I. Aplicar y vigilar el debido cumplimiento de la presente Ley y demás ordenamientos aplicables, en el ámbito de su competencia;
+Es obligación de los sujetos obligados recibir y dar trámite a todas las solicitudes de acceso a la información pública que les presenten, excepto aquéllas que sean irrespetuosas u ofensivas o que estén formuladas en un idioma distinto al español, sin la traducción correspondiente.
 
-II. Dirigir y coordinar las funciones y actividades de las unidades administrativas a su cargo, para que cumplan con lo previsto en esta Ley y su Reglamento;
+Los sujetos obligados designarán, entre los servidores públicos adscritos, a los responsables de las Unidades de Acceso a la Información Pública.
 
-III. Ser depositario de la fe pública registral de la propiedad en el Estado, autorizando con su firma autógrafa o electrónica los registros, anotaciones o certificaciones que se practiquen, para cuyo pleno ejercicio se auxiliará de los directores, subdirectores, registradores y demás funcionarios del Registro a su cargo;
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-IV. Permitir la consulta de los asientos registra les que obren en el Registro, así como expedir las certificaciones que le soliciten;
+###### Artículo 16.
 
-V. Operar el programa informático del sistema registral automatizado, conforme a lo previsto en esta Ley y demás ordenamientos aplicables;
+La solicitud de acceso a la información pública que se presente, deberá contener los siguientes requisitos:
 
-VI. Resolver los recursos que se presenten en los términos de esta Ley y su Reglamento;
+l. Nombre de la autoridad a quien se dirija y los datos que permitan identificarla.
 
-VII. Ordenar, en su caso, la reposición o restauración de libros, documentos, folios registrales, destruidos o extraviados, de acuerdo con las constancias existentes en el Registro, y las que proporcionen las autoridades, los notarios o quien tenga facultad para solicitarlo;
+II. Nombre del solicitante, sin necesidad de acreditar interés alguno o justificar su utilidad.
 
-VIII. Representar legalmente al Registro y delegar la representación en los servidores públicos que para el efecto designe, para que la ejerzan en toda clase de procedimientos o juicios ante todo tipo de autoridades, en los casos de controversia en que el mismo sea parte;
+III. Señalar el medio a través del cual el solicitante pueda recibir notificaciones, mismos que podrán ser:
 
-IX. Proponer, previo acuerdo con su superior jerárquico, la celebración de convenios, actos jurídicos y contratos que se requieran para la mejor realización de sus funciones;
+a) Por correo electrónico; y/o,
 
-X. Coordinar las relaciones de colaboración con los titulares de otros registros públicos, y el Colegio de Notarios, y de más órganos colegiados y usuarios del Registro;
+b) Por estrados.
 
-XI. Designar de entre los funcionarios envestidos de fe pública registral, a quien provisionalmente supla las ausencias temporales de los directores y subdirectores en los casos previstos por esta Ley y demás ordenamientos aplicables;
+IV. Datos del representante legal, en caso de que lo hubiera.
 
-XII. Designar de entre los directores y subdirectores de las oficinas registrales, a quienes darán apoyo con su firma autógrafa o electrónica en los diversos distritos, y
+V. Los datos claros y precisos que permitan identificar la información que requiere.
 
-XIII. Las demás que le confieren esta Ley, su Reglamento y demás ordenamientos aplicables.
+VI. Cualquier otro dato que propicie la localización de la información con el objeto de facilitar su búsqueda.
 
-## TITULO TERCERO. DE LOS SERVICIOS DEL REGISTRO
+VII. Modalidad en que prefiere se otorgue la información, en términos del artículo 17, de esta Ley.
 
-### Capítulo III. De la Dirección de Area
+Si la solicitud no es precisa o no contiene todos los datos requeridos, las Unidades de Acceso a la Información Pública, a través del Portal, requerirán al solicitante, para que dentro del plazo no mayor de cinco días hábiles siguientes a la presentación de la solicitud, para que en un término igual, complemente o aclare su petición, apercibiéndolo que en caso de no hacerlo, se tendrá por no presentada. Este requerimiento interrumpirá el plazo establecido en el artículo 20.
 
-###### ARTICULO 14.
+En todos los casos, se orientará al solicitante respeto del sujeto obligado a quien pueda dirigir su solicitud.
 
-Para ser Director de Area se requiere:
+Los encargados de proporcionar la información auxiliarán a los solicitantes en la elaboración de las peticiones de acceso a la información, en los casos en que el solicitante no sepa leer ni escribir.
 
-I. Ser mexicano por nacimiento;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-II. Ser abogado o licenciado en derecho con titulo debidamente registrado, y cédula legalmente expedida por la autoridad competente;
+###### Artículo 17.
 
-III. Tener cuando menos veinticinco años de edad al día de su nombramiento;
+Con la presentación de la solicitud se deberá iniciar el expediente administrativo correspondiente, al cual se le proporcionará un número de folio, y se le dará el control y seguimiento necesarios hasta la entrega de la información requerida.
 
-IV. Contar con experiencia profesional en materia registral o notarial de cuando menos dos años;
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-V. Encontrarse en pleno ejercicio de sus derechos civiles y políticos, y
+Cuando se presente por escrito, verbal o medio electrónico las Unidades de Acceso a la Información Pública, deberán acusar de recibido la solicitud a que se refiere este artículo.
 
-VI. Gozar de buena reputación, y no haber sido condenado por delito que haya ameritado pena privativa de libertad de más de un año~ (sic) pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
+La solicitud de acceso a la información, se dará por cumplida cuando los documentos se pongan a disposición del solicitante para su consulta en el sitio donde se encuentre, o bien, mediante la expedición de copias simples, certificadas o por cualquier otro medio.
 
-###### ARTICULO 15.
+La información podrá ser entregada:
 
-Son facultades y obligaciones del Director de Area:
+I. Por escrito;
 
-I. Suplir las ausencias del Director General, conjuntamente con el Director de Asuntos Normativos;
+II. Mediante consulta física;
 
-II. Ejercer la fe pública registral en ausencia de los subdirectores de oficinas registrales, cuando mediante oficio así lo autorice el Director General;
+III. En copias simples o certificadas;
 
-III. Asesorar a los directores y subdirectores de las oficinas registrales en todo lo relativo al proceso de calificación registral;
+IV. Por medio de comunicación electrónica;
 
-IV. Firmar las constancias que se pongan en el original y duplicado del testamento ológrafo, y desempeñar las demás funciones que le correspondan de acuerdo con el Código, y
+V. En medio magnético u óptico, y cualquier otro medio posible.
 
-V. Las demás que le impongan las leyes y disposiciones aplicables.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-###### ARTICULO 16.
+###### Artículo 18.
 
-El Registro contara con una Dirección de Innovación Tecnológica, dependiente de la Dirección General; encargada de diseñar, desarrollar, aplicar y mantener los sistemas informáticos del Registro.
+Si la información solicitada ya está disponible al público en medios impresos, tales como libros, compendios, trípticos, en las páginas de Internet de los sujetos obligados, en el propio Portal de Transparencia o en cualquier otro medio, el sujeto obligado orientará al solicitante la fuente, el lugar, la dirección o liga en Internet y la forma en que puede consultar, reproducir y/o adquirir dicha información.
 
-###### ARTICULO 17.
+###### Artículo 19.
 
-Para ser Director de Innovación Tecnológica del Registro se requiere:
+Queda expresamente prohibido para el sujeto obligado o servidor público a cargo, aplicar en el procedimiento de acceso a la información, fórmulas que propicien recabar datos personalísimos del solicitante o que den lugar a indagatorias, sobre las motivaciones del pedido de información y su uso posterior.
 
-I. Ser mexicano por nacimiento, y contar con cuando meno veinticinco años cumplidos a la fecha de su nombramiento;
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-II. Contar con titulo profesional registrado de licenciado en informática o ingeniero en computación, o carrera afín, y cédula legalmente expedida por autoridad competente, y contar con una experiencia mínima de dos años en el área de informática;
+###### Artículo 20.
 
-III. Contar con experiencia en administración de centros de cómputo, análisis, diseño y desarrollo de sistemas;
+Toda solicitud de información pública, deberá ser resuelta en un plazo no mayor de veinte días hábiles, contados a partir al día siguiente de su presentación; de mediar circunstancias que hagan difícil reunir la información solicitada, el plazo se podrá prorrogar mediante acuerdo, hasta por diez días hábiles más.
 
-IV. Encontrarse en pleno ejercicio de sus facultades civiles y políticas, y
+Las resoluciones que se dicten en el procedimiento de acceso a la información pública se notificarán por estrados, en el Portal y por medio de correo electrónico si el solicitante lo proporcionó; en caso de no haberlo otorgado, la notificación correspondiente se hará a través del Portal.
 
-V. Gozar de buena reputación, y no haber sido condenado por delito que haya ameritado pena privativa de libertad de más de un año~ (sic) pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
+Las resoluciones que emita el Instituto se notificarán a través de su estrado, de su Portal y por correo electrónico, en su caso.
 
-###### ARTICULO 18.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-Son facultades y obligaciones del Director de Innovación Tecnológica:
+###### Artículo 21.
 
-I. Ser responsable de las áreas de desarrollo, ingeniería y soporte técnico del Registro;
+En caso de que la información solicitada esté clasificada, también se comunicará dicha situación al interesado dentro del término de los veinte días hábiles siguientes a la presentación.
 
-II. Proponer al Director General, el diseño, desarrollo y adquisición de nuevos equipos de computo y otros servicios requeridos como consultorías, contratos de mantenimiento o capacitación;
+Con independencia de lo previsto en el artículo 22, de esta Ley, el silencio de los sujetos obligados no se interpretará como negativa de una solicitud de información, sino como un acto de incumplimiento de obligaciones, en el que, en su caso, incurrirían servidores públicos adscritos a los mismos, lo que deberá sancionarse conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-III. Proponer al Director General, la planeación de la infraestructura informática de las oficinas registrales, tanto en los equipos de cómputo, como en sistemas de información;
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-IV. Administrar y dar mantenimiento a las bases de datos del Registro;
+###### Artículo 22.
 
-V. Brindar accesoria apoyo y soporte necesarios para controlar y mantener en operación las instalaciones de cómputo del Registro;
+Si la solicitud de información no se hubiese satisfecho, el solicitante podrá interponer el recurso en la forma y términos que dispone el Capítulo II, del Título Sexto, de esta Ley.
 
-VI. Efectuar visitas a cada una de las oficinas registrales cuando sus necesidades así lo requieran;
+###### Artículo 23.
 
-VII. Mantener la integridad y la seguridad de la información procesada en los sistemas informáticos a su cargo, y
+Los sujetos obligados, en el ámbito de sus respectivas competencias, establecerán, mediante reglamentos o acuerdos de carácter general, los órganos, criterios y procedimientos para proporcionar a los particulares el acceso a la información pública, de conformidad con las bases y principios establecidos en ésta.
 
-VIII. Evaluar periódicamente el desempeño y nivel técnico en su personal, estableciendo los requerimientos de capacitación y actualización.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-###### ARTICULO 19.
+###### Artículo 24.
 
-Para ser Director de Asuntos Normativos del Registro, es necesario cumplir los mismos requisitos que establece el artículo 14 de esta Ley.
+Los sujetos obligados contemplarán en sus reglamentos o acuerdos de carácter general lo siguiente:
 
-###### ARTICULO 20.
+I. A las unidades administrativas responsables de publicar la información pública señalada en el artículo 37, de esta ley;
 
-Son facultades y obligaciones del Director de Asuntos Normativos:
+II. Las unidades de información pública;
 
-I. Proporcionar asesoría jurídica en materia registral, de forma gratuita a los usuarios que así lo soliciten;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
-II. Representar legalmente al personal que labora en la dependencia, que llegare a requerirlo como consecuencia del ejercicio de sus funciones;
+III. La integración de los Comités de Información entre los servidores públicos que tengan adscritos;
 
-III. Coadyuvar en los procedimientos de responsabilidad de los servidores públicos que laboren para la dependencia, con apego a lo que dispongan las leyes aplicables;
+IV. Los criterios y procedimientos de clasificación y conservación de la información reservada o confidencial;
 
-IV. Diseñar los programas de capacitación y actualización jurídica, al personal del Registro, y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
-V. Las demás que le confiera la presente Ley y demás ordenamientos aplicables.
+V. El procedimiento interno de acceso a la información pública, con base en lo dispuesto por el Capítulo I, Título Sexto de esta Ley;
 
-###### ARTICULO 21.
+VI. Los procedimientos de acceso y rectificación de datos personales a los que se refiere esta ley;
 
-Para un mejor funcionamiento y prestación de los servicios, el Registro se apoyará en las oficinas registrales, dependientes de la Dirección de Area, cuya demarcación territorial será establecida en el Reglamento de la presente Ley.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
-###### ARTICULO 22.
+VII. La instancia de control interno responsable de aplicar las sanciones, en términos del Título IV, Capítulo Único de esta Ley;
 
-En cada Oficina Registral habrá un Subdirector, que deberá cumplir con los requisitos que establece el artículo 14 de esta Ley; el cual tendrá las siguientes obligaciones y facultades:
+VIII. (DEROGADA, P.O. 29 DE AGOSTO DE 2007)
 
-I. Ejercer la fe pública registral en la adscripción de su competencia, o en las oficinas que para el efecto le autorice el Director General del Registro;
+IX. Las demás facultades y obligaciones que le otorga este ordenamiento.
 
-II. Practicarlos registros que le sean presentados, previa calificación y cumpliendo con los requisitos establecidos en la presente Ley y demás ordenamientos aplicables;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-III. Expedir certificaciones de los asientos registrales a su cargo;
+###### Artículo 25.
 
-IV. Autorizar con su firma autógrafa o electrónica los registros, anotaciones o certificaciones que se practiquen;
+Las Unidades de Acceso a la Información Pública, tendrán las siguientes funciones:
 
-V. Firmar las constancias que se pongan en el original y duplicado del testamento ológrafo;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
-VI. Contestar las demandas que se promuevan en contra de la Oficina Registral a su cargo, dando seguimiento a los juicios. En cada caso deberá integrar un expediente para uso exclusivo de la oficina;
+I. Recabar y difundir la información a que se refiere el artículo 37, además se propiciar que las Unidades de Enlace la actualicen periódicamente;
 
-VII. Optimizar los recursos humanos y materiales a su cargo, siendo su responsabilidad el cabal cumplimiento de los parámetros de calidad e índices de desempeño establecidos por la Dirección General;
+II. Recibir y dar trámite a las solicitudes de acceso a la información;
 
-VIII. Rendir a la Dirección mensualmente, o cuando ésta así lo solicite, un informe completo de las operaciones realizadas en el mes inmediato anterior de la oficina a su cargo, y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
-IX. Las demás que le impongan las leyes y demás ordenamientos aplicables.
+III. Auxiliar a los solicitantes en la elaboración de sus peticiones y, en su caso, orientarlos sobre los sujetos obligados que pudieran tener la información que solicitan;
 
-###### ARTICULO 23.
+IV. Realizar los trámites necesarios para entregar la información solicitada, además de efectuar las notificaciones a los particulares;
 
-El Registro contará con un Departamento Administrativo, encargado de la administración del mismo.
+V. Proponer al Comité los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
 
-###### ARTICULO 24.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
-Para ser Jefe del Departamento Administrativo del Registro se requiere:
+VI. Habilitar a los servidores públicos que tengan adscritos para recibir y dar trámite a las solicitudes de acceso a la información pública;
 
-I. Ser mexicano por nacimiento y contar con cuando menos veinticinco años de edad cumplidos, a la fecha de su nombramiento;
+VII. Llevar un registro de las solicitudes de acceso a la información; y,
 
-II. Contar con título profesional registrado de licenciado en administración de empresas o carrera afín, con práctica profesional en la materia;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
-III. Encontrarse en pleno ejercicio de sus facultades civiles, políticas, y
+VIII. Las demás necesarias para garantizar y agilizar la información entre la Unidad de Enlace de los sujetos obligados y los solicitantes.
 
-IV. Gozar de buena reputación, y no haber sido condenado por delito que haya ameritado pena privativa de libertad de más de un año~ (sic) pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
-
-###### ARTICULO 25.
-
-Son facultades y obligaciones del Jefe del Departamento Administrativo:
-
-I. Proporcionar los recursos materiales que sean necesarios para el desarrollo de las funciones que sean inherentes al Registro;
-
-II. Llevar a cabo el procedimiento de las altas y bajas del personal;
-
-III. Encargarse de los servicios de mantenimiento necesarios, para preservar en óptimas condiciones las instalaciones físicas del Registro;
-
-IV. Coordinar y supervisar el uso de bienes muebles e inmuebles ocupados por las diferentes oficinas registrales, así como llevar el control del inventario de activos fijos y materiales de la dependencia;
-
-V. Realizar lo concerniente a la selección de personal, así como los trámites necesarios para la contratación;
-
-VI. Llevar el registro contable de los gastos y viáticos que se originen por el ejercicio de la función registral, y
-
-VII. Las demás que establezca el Reglamento, y las que sean necesarios (sic) para el buen funcionamiento del Registro, previa aprobación del Director General.
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 25 Bis.
 
@@ -543,596 +513,810 @@ XVI. Las demás acciones necesarias para garantizar y agilizar el acceso a la in
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-###### ARTICULO 26.
+###### Artículo 26.
 
-El Registrador, mediante los sistemas reconocidos en el Reglamento, en el folio inmobiliario electrónico, o manual, con su firma autógrafa o electrónica, autorizará los asientos en que se materializa su registro, para lo cual contará con las siguientes funciones:
+En cada sujeto obligado, inclusive en los órganos autónomos previstos en la Constitución Política del Estado de Chiapas y en las leyes estatales, cuya autonomía solo sea de gestión, se integrarán los comités que se consideren necesarios, mismos que tendrán las funciones siguientes:
 
-I. Calificar los actos que le sean turnados para su inscripción en el Registro;
+I. Coordinar y supervisar las acciones de las unidades administrativas tendientes a proporcionar la información prevista en esta Ley;
 
-II. Revisar si se han cubierto los derechos y contribuciones correspondientes por concepto de registro, establecidos por las leyes aplicables;
+II. Instituir los procedimientos para asegurar la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
 
-III. Dar cuenta a su superior inmediato de los resultados de los actos calificados, y
+III. Confirmar, modificar o revocar la clasificación de la información hecha por los titulares de las unidades administrativas; y,
 
-IV. Las demás que le confieren esta Ley y su Reglamento, y demás ordenamientos aplicables.
+IV. Establecer y supervisar la aplicación de los criterios específicos para las unidades administrativas, en materia de clasificación y conservación de los documentos administrativos, así como, la organización de archivos.
 
-### Capítulo lV. De la Dirección de Innovación Tecnológica
+### Capítulo II. De la Reserva de la Información Pública
 
-###### ARTICULO 27.
+###### Artículo 27.
 
-Para formar parte del personal adscrito al Registro, se requiere cumplir con los requisitos que establezca la Oficialía Mayor del Poder Ejecutivo del Estado, y los que dispongan las demás legislaciones aplicables a la materia, y ser de reconocida solvencia moral.
+El ejercicio del derecho de acceso a la información pública, solo será limitado en los términos dispuestos por esta Ley, mediante las figuras de reserva o confidencialidad.
 
-El personal operativo de las diferentes secciones, así como de las oficinas registrales, tendrá las funciones que se establezcan en el Reglamento y, en su caso, los manuales administrativos aprobados, debiendo realizarlas conforme a los procedimientos establecidos en los mismos.
+###### Artículo 28.
 
-###### ARTICULO 28.
+La clasificación de reserva de la información procederá en los siguientes casos:
 
-Son obligaciones del personal del Registro, las siguientes:
+I. Cuando se trate de información, cuya divulgación ponga en riesgo la seguridad del Estado y la seguridad pública;
 
-I. Asistir con puntualidad a su centro de trabajo, y desempeñar con dedicación y sentido de responsabilidad las labores propias de su empleo, en el tiempo señalado como horario de trabajo;
+II. La que comprometa la seguridad, la vida o la salud de cualquier persona;
 
-II. Vigilar que la consulta y manejo de los libros, documentos y folios registrales, se realice con el cuidado y bajo la normatividad establecida para su conservación;
+III. Cuando su divulgación pueda causar perjuicio a las actividades de prevención o persecución de los delitos, la impartición de justicia, la recaudación de las contribuciones;
 
-III. Asistir cada vez que se le encomiende, a los cursos de capacitación, seminarios, congresos y demás eventos en los que el Registro intervenga;
+IV. La generada por la realización de un trámite administrativo, que por el estado que guarda, se requiera mantener en reserva hasta la finalización del mismo;
 
-IV. Observar ante el usuario, una conducta solícita y respetuosa que contribuya a mejorar la imagen de la institución, y
+V. La que refiera a expedientes de procesos jurisdiccionales o de procedimientos administrativos, seguidos en forma de juicio, en tanto, no hayan causado estado, en los términos de esta Ley;
 
-V. Cumplir con las disposiciones señaladas en la presente Ley y demás ordenamientos aplicables.
+VI. Cuando la información trate sobre estudios y proyectos, cuya divulgación pueda causar daños al interés del Estado, o suponga un riesgo para su realización;
 
-###### ARTICULO 29.
+VII. Cuando la información consista en cuestiones industriales, comerciales, financieras, científicas, técnicas, invenciones y patentes, que fueran recibidas por un órgano del Estado y su revelación, perjudique o lesione los intereses generales;
 
-Los encargados del Registro tienen la obligación de permitir a las personas que soliciten, que se enteren de los asientos que obren en los folios o libros del Registro, y de los documentos relacionados con los mismos.
+VIII. Cuando se trate de información correspondiente a documentos o comunicaciones internas, que sean parte de un proceso deliberativo previo a la toma de una decisión administrativa; o se trate de un procedimiento administrativo en el que no se haya perfeccionado el acto administrativo que se persigue;
 
-Asimismo, expedirán las certificaciones registrales de los asientos que obren en sus archivos.
+IX. Cuando la información pueda generar una ventaja personal indebida en perjuicio de un tercero;
 
-La prestación de los servicios a que se refieren los párrafos anteriores, se condicionará al pago de derechos o cobros correspondientes, y a las disposiciones contenidas en la legislación de la materia.
+X. La de particulares, recibida por los sujetos obligados con el carácter de reservada;
 
-###### ARTICULO 30.
+XI. La que se refiere a los datos individuales de las personas, arrestadas como presuntos responsables de la comisión de algún delito, hasta antes de que sea resuelta la sanción administrativa o la sentencia respectiva; y,
 
-El Registro tiene la obligación de expedir a quien lo solicite, certificaciones literales o, en extracto, de las inscripciones o constancias asentadas en los libros o folios registrales. Las certificaciones expedidas cuya información se encuentren contenidas en los archivos, tendrán el carácter de documento público.
+XII. La que se encuentra clasificada por disposición expresa de otra ley, como de acceso prohibido o restringido.
 
-###### ARTICULO 31.
+###### Artículo 29.
 
-Las inscripciones de los actos jurídicos en el Registro tienen efectos declarativos, y no constitutivos; salvo los casos de excepción que señalen los ordenamientos aplicables.
+El acuerdo que clasifique información como reservada deberá estar debidamente fundado y motivado.
 
-###### ARTICULO 32.
+###### Artículo 30.
 
-En virtud de su carácter declarativo, ninguna inscripción convalida los actos o contratos que sean nulos conforme a las leyes.
+El acuerdo de clasificación deberá indicar la fuente de la información, la causa debidamente justificada por la que se clasifica, las partes de los documentos que se reservan, el plazo de reserva y la designación de la autoridad responsable de su conservación.
 
-### Capítulo V. De la Dirección de Asuntos Normativos
+La reserva podrá ser parcial y las partes del documento que no estén expresamente reservadas se considerarán de acceso público.
 
-###### ARTICULO 33.
+No podrá invocarse el carácter de reservado, cuando se trate de la investigación de violaciones graves de derechos fundamentales o delitos de lesa humanidad.
 
-Los actos que se inscribirán en el Registro son los siguientes:
+###### Artículo 31.
 
-I. Los títulos por los cuales se crea, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, posesión originaria y los demás derechos reales sobre inmuebles;
+La información clasificada como reservada, tendrá este carácter hasta por seis años.
 
-II. La constitución del patrimonio familiar, modificaciones y extinción;
+Excepcionalmente, los sujetos obligados podrán solicitar a la instancia correspondiente la ampliación del período de reserva, hasta por otro plazo igual siempre y cuando justifiquen que subsisten las causas que dieron origen a su clasificación.
 
-III. Los planes y programas de desarrollo urbano que determine la ley de la materia;
+Será pública, aún cuando no se hubiese cumplido el plazo anterior, si dejan de concurrir las circunstancias que motivaron su clasificación a juicio del Comité, que se encuentra definido en el artículo 3º, de esta ley.
 
-IV. La constitución de fianzas a que se refiere el Código, así como su modificación y extinción;
+###### Artículo 32.
 
-V. La constitución de hipoteca, prenda, modificaciones y extinción;
+Solo los servidores públicos serán responsables de la publicación de la información reservada o confidencial.
 
-VI. Los contratos de arrendamiento de bienes inmuebles, por un periodo mayor de seis años, y aquéllos en que haya anticipos de rentas por más de tres años;
+### Capítulo III. De la Información Confidencial
 
-VII. Los contratos de compraventa de bienes sujetos a condición, así como cuando el vendedor se reserva el dominio de los mismos;
+###### Artículo 33.
 
-VIII. Los instrumentos por los que se constituyan, reformen o disuelvan las sociedades y asociaciones civiles y sus estatutos, asociaciones y sociedades extranjeras de carácter civil, y las fundaciones y asociaciones de beneficencia;
+Para los efectos de esta Ley, se considera información confidencial los datos personales, en los términos previstos en el artículo 3º, fracciones IV y XII, de esta Ley, los que solo podrán darse a conocer con el consentimiento expreso de la persona.
 
-IX. Los testamentos por efecto de los cuales se afecte la propiedad de bienes raíces, o dé derechos reales, haciéndose el registro después de la muerte del testador; así como en los casos de intestado, el auto declaratorio de los herederos legítimos, y el nombramiento de albacea definitivo.
+###### Artículo 34.
 
-En los casos previstos en esta fracción se tomará razón del acta de defunción del autor de la herencia;
+Cuando los particulares entreguen a los sujetos obligados información confidencial, deberán señalar los documentos que la contengan, siempre que tengan el derecho de reservarse la información, de conformidad con las leyes aplicables.
 
-X. La representación voluntaria, en su caso;
+###### Artículo 35.
 
-XI. Las resoluciones judiciales que deban registrarse por mandato de ley, y
+En el caso de que exista una solicitud de acceso que incluya información confidencial, los sujetos obligados la comunicarán, previo consentimiento expreso del particular y titular de la información confidencial.
 
-XII. Los demás actos que establezcan los ordenamientos aplicables.
+No se considerará confidencial la información que se halle en los registros públicos o en fuentes de acceso público.
 
-###### ARTICULO 34.
+###### Artículo 36.
 
-No podrán inscribirse mediante información posesoria, las servidumbres continuas no aparentes, ni las discontinuas, sean o no aparentes, ni tampoco el derecho hipotecario.
+En la información de carácter confidencial que sea parte de los procesos judiciales, las autoridades competentes, tomarán las previsiones debidas para que dicha información se mantenga restringida y que solo tengan acceso a la misma, las partes involucradas en el proceso judicial respectivo.
 
-###### ARTICULO 35.
+## Título Tercero
 
-Los actos que conforme a ésta u otras leyes deban inscribirse en el Registro deberán constar en:
+### Capítulo I. De la Transparencia
 
-I. Instrumento público otorgado ante notario público;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-II. Resoluciones y providencias judiciales o administrativas certificadas, o
+###### Artículo 37.
 
-III. Los demás documentos auténticos que conforme a la ley y demás ordenamientos, sean susceptibles de registro.
+Con excepción de la información reservada o confidencial prevista en esta Ley, los sujetos obligados deberán poner a disposición del público, en forma permanente y de acuerdo a sus facultades, a través del Portal o los medios electrónicos disponibles, la siguiente información:
 
-###### ARTICULO 36.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
-La prelación registral respecto de dos o más actos que se refieran a un mismo asiento registral, se determinará por la fecha y hora de su presentación en el Registro, cualquiera que sea la fecha de adquisición, celebración o constitución.
+I. El directorio de servidores públicos, desde mandos medios o sus equivalentes, hasta los niveles jerárquicos superiores;
 
-## TITULO CUARTO. DEL PROCEDIMIENTO DE REGISTRO
+II. La remuneración mensual por empleo, cargo o comisión;
 
-### Capítulo l. De la Solicitud de Registro
+III. Los actos resolutorios que justifican el otorgamiento de permisos, concesiones o licencias que la Ley confiere autorizar a cualquiera de los sujetos obligados, especificando el nombre o razón social del titular, concepto de la concesión, autorización o permiso y vigencia de los mismos;
 
-### Capítulo VI. De las Subdirecciones de Oficinas Registrales
+IV. Normas básicas de competencia, servicios, y programas de apoyo que incluyan trámites, requisitos, formatos, manuales de organización;
 
-###### ARTICULO 37.
+V. La estructura orgánica, los servicios públicos que presta, las atribuciones por unidad administrativa, las disposiciones jurídicas y administrativas que las rigen, así como información de su organización y funcionamiento;
 
-El control de prelación se llevará en un registro único que puede ser procesado de forma manual o electrónica.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
-###### ARTICULO 38.
+VI. Los resultados de las auditorias públicas concluidas que no contengan observaciones por solventar o que ya hayan causado estado;
 
-Los actos ejecutados y los contratos que se hagan en otra Entidad federativa, sólo se inscribirán si reúnen las formalidades exigidas por las leyes del lugar de su otorgamiento, y además sean susceptibles de registro, conforme al marco jurídico estatal.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
-En el caso del párrafo anterior y tratándose de actos celebrados en el extranjero, se requiere además que la firma del funcionario que autorizó el acto esté legalizada, conforme a las prescripciones de ley y, en su caso, deberá acompañarse al documento la traducción hecha por perito legalmente autorizado.
+VII. El nombre, domicilio oficial y correo electrónico institucional de los servidores públicos responsables de las Unidades de Acceso a la Información Pública y de las unidades de enlace;
 
-###### ARTICULO 39.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2008)</small>
 
-Se anotarán preventivamente en el Registro:
+VIII. Los procedimientos de licitaciones de adquisiciones y de obra pública.
 
-I. Las demandas relativas a la propiedad de bienes inmuebles, o a la constitución, declaración, modificación o extinción de cualquier derecho real sobre aquéllos;
+Respecto de la obra pública:
 
-II. El mandamiento de embargo que se haya hecho efectivo en bienes inmuebles, y el acta correspondiente, en su caso;
+a) Las convocatorias a concurso, licitación o adjudicación directa de la obra, y sus resultados.
 
-III. Las demandas promovidas para exigir el cumplimiento de contratos preparatorios, o para dar forma legal al acto o contrato concertado, cuando tenga por objeto inmuebles o derechos reales sobre los mismos;
+b) Las áreas operativas responsables de la adjudicación del contrato de obra, indicando la modalidad y las justificaciones correspondientes, así como el dictamen del fallo.
 
-IV. Las providencias judiciales que ordenen el secuestro, o prohíban la enajenación de bienes inmuebles o derechos reales;
+c) El monto, la fecha y demás datos para la identificación precisa del contrato de obra.
 
-V. El decreto de expropiación y de ocupación temporal y declaración de limitación de dominio de bienes inmuebles conforme a las leyes de la materia;
+d) Las modificaciones al contrato de obra, indicando motivos, responsables de las autorizaciones, costos y tiempos adicionales.
 
-VI. Las resoluciones judiciales en materia de amparo que ordenen la suspensión en relación con bienes inscritos en el Registro, y
+e) Las unidades administrativas y contratistas responsables de su ejecución, así como las fechas previstas para la iniciación y terminación de los trabajos de acuerdo al contrato.
 
-VII. Cualquier otro título que sea susceptible de anotarse conforme a esta Ley y demás ordenamientos aplicables.
+f) Los mecanismos de vigilancia y/o supervisión de la sociedad civil durante el proceso de licitación;
 
-###### ARTICULO 40.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
-Cuando vaya a otorgarse un instrumento público en el que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes inmuebles o cualquier derecho real sobre los mismos, o que sin serlo, sea inscribible, el notario ante quien vaya a otorgarse podrá, a su criterio, o deberá a solicitud de quien pretenda adquirir el derecho, excepto en el caso previsto en el artículo 2147 del Código, en que el notario estará obligado a hacerlo, dar a la oficina del Registro, un primer aviso preventivo al solicitar el certificado sobre la existencia de la inscripción en favor del titular registral, o sobre los gravámenes que reporte el inmueble o derecho o la libertad de los mismos.
+IX. Las leyes, decretos, reglamentos y demás disposiciones de observancia general, contenidas en el Periódico Oficial del Estado;
 
-Dicho aviso deberá señalar con precisión:
+X. Las cuentas públicas del Estado y de los municipios;
 
-I. Naturaleza del acto jurídico;
+XI. Las iniciativas que se presenten y los dictámenes del Congreso, así como, las actas de sesión, puntos de acuerdo, decretos, acuerdos, leyes, transcripciones estenográficas y Diario de Debates;
 
-II. Nombre del titular registral;
+XII. Sentencias y resoluciones que hayan causado estado, pudiendo las partes oponerse a la publicación de sus datos personales;
 
-III. La descripción del inmueble o derecho materia de la escritura de que se trate, y
+XIII. Las sentencias que recaigan en las controversias entre poderes públicos;
 
-IV. El antecedente registral.
+XIV. Los recursos que se generen por servicios que presten los sujetos obligados o constituyan fondos que se incluyan al presupuesto de las mismas;
 
-El registrador, con el aviso preventivo y sin cobro de derechos por la anotación, hará inmediatamente el asiento de presentación y asentará al margen de la inscripción correspondiente, una anotación de primer aviso preventivo que tendrá vigencia por un término de sesenta días naturales, contados a partir de la fecha de su presentación.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
-###### ARTICULO 41.
+XV. Los recursos públicos que los sujetos obligados entreguen a personas físicas o morales;
 
-Si durante la vigencia del primer aviso y en relación con el mismo asiento registral se presenta otro documento para su registro, éste último será objeto de anotación preventiva, a fin de que se le otorgue la prelación que le corresponda, en caso de que opere o se produzca la cancelación o caducidad de la anotación de éste.
+XVI. Los informes presentados por los partidos políticos ante las autoridades estatales electorales;
 
-### Capítulo VII. Del Departamento Administrativo
+XVII. Las formas de participación ciudadana, en su caso, para la toma de decisiones por parte de los sujetos obligados;
 
-###### ARTICULO 42.
+XVIII. Una descripción de los programas, proyectos, acciones y recursos asignados a cada uno de ellos por el presupuesto asignado; y (sic),
 
-Presentándose el testimonio para su registro dentro del término señalado en el artículo 40 de esta Ley, éste surtirá efectos contra terceros desde el día y hora de presentación de la solicitud del primer aviso, siempre y cuando exista identidad.
+XIX. La información de sus actividades que considere relevante;
 
-Si se presenta fuera del término a que se refiere el párrafo anterior, o no existiere identidad respecto a la solicitud del primer aviso, el testimonio ingresado para su registro surtirá efectos desde la fecha de su presentación.
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2008)</small>
 
-###### ARTICULO 43.
+XX. La información completa y actualizada de los indicadores de gestión.
 
-Cuando se firme una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes inmuebles o cualquier derecho real sobre los mismos, el notario ante quien se realice la operación, dentro los cuatro días hábiles siguientes a aquél en que se haya firmado la escritura, por escrito o por los medios electrónicos previstos por ley y demás disposiciones, deberá presentar segundo aviso preventivo, en el que se señale:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-I. El acto jurídico de que se trate;
+###### Artículo 38.
 
-II. El inmueble materia de la operación, describiéndolo de manera indubitable señalando sus antecedentes registrales;
+Los sujetos obligados deberán preservar sus documentos en archivos administrativos y mantener actualizada la información a que se refiere el presente Capítulo.
 
-III. Nombre de las partes que intervienen en la operación, y
+Para tal efecto, expedirán las normas de operación y los lineamientos pertinentes, con el propósito de establecer formatos sencillos, entendibles y claros para la consulta expedita de la información difundida.
 
-IV. Fecha y número de la escritura pública.
+###### Artículo 39.
 
-###### ARTICULO 44.
+Los sujetos obligados deberán sistematizar la información para facilitar su acceso, procurando su publicación a través de medios electrónicos.
 
-La vigencia del segundo aviso preventivo terminará al momento de la presentación del testimonio correspondiente. Su registro surtirá efectos contra terceros desde el día de la presentación de este aviso o del primero, si entre estos hechos existe relación.
+###### Artículo 40.
 
-###### ARTICULO 45.
+En los sujetos obligados, así como, en las bibliotecas y archivos públicos a cargo del Estado y de los municipios, se preverá, como mínimo, la instalación de un equipo de cómputo que facilite el acceso a la información que refiere el presente Capítulo.
 
-Los avisos preventivos podrán registrarse a través una anotación dentro de la inscripción, documento o folio registral correspondiente al inmueble de que se trate, y podrá realizarse según el sistema o modo de registro que se encuentre operando.
+###### Artículo 41.
 
-### Capítulo VIII. De los Registradores
+Los sujetos obligados elaborarán anualmente un informe de las actividades realizadas para garantizar el acceso a la información.
 
-###### ARTICULO 46.
+### Capítulo II. Protección de los Datos Personales
 
-Atendiendo a la distinta naturaleza de los actos jurídicos presentados en el Registro, se inscribirán a través de las siguientes secciones:
+###### Artículo 42.
 
-I. Sección Inmobiliaria;
+Los datos personales en poder de los sujetos obligados, deberán sistematizarse en archivos actualizados de manera permanente y utilizarse exclusivamente para los fines legales para los que fueron creados.
 
-II. Sección Mobiliaria;
+La finalidad del archivo y su utilización deberá especificarse y justificarse. Su creación, deberá ser objeto de una medida de publicidad que permita el conocimiento de la persona interesada, a fin de que ésta, ulteriormente, pueda asegurarse de que:
 
-III. Sección de Personas Morales, y
+I. Todos los datos personales reunidos y registrados siguen siendo pertinentes a la finalidad perseguida;
 
-IV. Sección Auxiliar.
+II. Ninguno de esos datos personales es utilizado o revelado sin su consentimiento, con un propósito incompatible con el que se haya especificado; y,
 
-#### SECCION PRIMERA. DE LA SECCION INMOBILIARIA
+III. El período de conservación de los datos personales no excede del necesario para alcanzar la finalidad con que se han registrado.
 
-###### ARTICULO 47.
+###### Artículo 43.
 
-En la Sección Inmobiliaria se inscribirán todos aquéllos títulos o documentos por los cuales se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, la posesión de bienes inmuebles o cualquier derecho real sobre los mismos, y las demás resoluciones, actos, títulos y contratos que las leyes o decretos ordenen expresamente que sean registrados.
+Toda persona que demuestre su identidad tiene derecho a saber si se está procesando información que le concierne, ante los sujetos obligados, a conseguir una comunicación comprensible, a obtener las rectificaciones o supresiones que correspondan cuando los registros sean injustificados o inexactos y a conocer a los destinatarios cuando esta información sea transmitida, permitiéndole saber las razones que motivaron su pedimento.
 
-#### SECCION SEGUNDA. DE LA SECCION MOBILIARIA
+###### Artículo 44.
 
-###### ARTICULO 48.
+Los sujetos obligados, adoptarán medidas de seguridad para proteger los archivos de datos personales, riesgos naturales, como la pérdida accidental o la destrucción por siniestro y contra el acceso sin autorización, la utilización encubierta de datos o la contaminación por virus informáticos.
 
-Para que una operación sobre muebles sea inscribible, se requiere que recaiga sobre bienes muebles individualmente identificados, y que el acto jurídico haya sido otorgado y certificado de acuerdo a las formalidades del lugar en que se celebró.
+Queda prohibido registrar datos personales en archivos, registros o bancos de datos que no reúnan condiciones técnicas de integridad o seguridad para el debido resguardo de la información.
 
-###### ARTICULO 49.
+###### Artículo 45.
 
-La solicitud para el registro de bienes muebles deberá tener:
+No se requerirá el consentimiento de los individuos para proporcionar los datos personales en los siguientes casos:
 
-I. Los nombres de los contratantes;
+I. Los necesarios por razones estadísticas, científicas o de interés general, que no puedan obtener con el individuo a quien se refieran;
 
-II. La naturaleza del acto jurídico, y
+II. Cuando se transmitan entre los sujetos obligados, siempre y cuando los datos se utilicen para el ejercicio de facultades propias de las mismas;
 
-III. Los demás datos que deban contener de acuerdo al Reglamento respectivo y demás disposiciones aplicables.
+III. Cuando exista una orden judicial.
 
-#### SECCION TERCERA. DE LA SECCION DE PERSONAS MORALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE AGOSTO DE 2007)</small>
 
-###### ARTICULO 50.
+### Capítulo III. Del Recurso de Revisión
 
-Serán inscritos en la Sección de Personas Morales los actos jurídicos siguientes:
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-I. Los instrumentos por los que se constituyan, reformen, disuelvan o liquiden las sociedades y asociaciones civiles, sus estatutos, los nombramientos de directores, administradores y mandatarios;
+###### Artículo 46.
 
-II. Los estatutos de las sociedades o asociaciones extranjeras de carácter civil y sus reformas, previa traducción de perito autorizado;
+Los solicitantes que se consideren afectados por los actos y resoluciones del Comité o las Unidades de Enlace, por negar, limitar u omitir el acceso a la información pública, podrán promover el recurso ante la Unidad de Acceso a la Información Pública o a través de los medios electrónicos que pongan a disposición los sujetos obligados, dentro de los diez días hábiles siguientes a la fecha de notificación, observando para tal efecto las formalidades previstas en esta Ley.
 
-III. Las fundaciones de beneficencia pública, y
+###### Artículo 47.
 
-IV. La inscripción de poderes de personas morales y su revocación.
+El recurso procederá contra lo siguiente:
 
-#### SECCION CUARTA. DE LA SECCION AUXILIAR
+I. Negativa de información.
 
-###### ARTICULO 51.
+II. Información incompleta o inexacta.
 
-Se inscribirán en la Sección Auxiliar los testamentos ológrafos, en los términos señalados por el Código, y el Código de Procedimientos.
+III. Entrega en formatos incomprensibles.
 
-###### ARTICULO 52.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
-El Director de Area deberá autorizar un libro o medio especial de registro de testamentos ológrafos, y proveerá lo necesario bajo su responsabilidad para la debida custodia del ejemplar del testamento depositado, hasta su entrega ya sea al mismo testador o al juez, lo anterior de acuerdo a lo que dispone el artículo 1409 del Código.
+IV. La omisión o el retraso en la entrega.
 
-###### ARTICULO 53.
+V. La negativa a efectuar modificaciones o correcciones a los datos personales.
 
-De igual manera será materia de registro en la presente sección, los actos a los que se refiere la fracción IX del artículo 33 de esta Ley.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-## TITULO QUINTO. DE LA RECTlFICACION Y CANCELACION DE INSCRIPCIONES
+###### Artículo 48.
 
-### Capítulo l. De la Rectificación de Asiento Registral
+El recurso podrá presentarse por escrito ante la Unidad de Acceso a la Información Pública de los sujetos obligados o a través de los medios electrónicos, cumpliendo con los siguientes requisitos:
 
-### Capítulo IX. Del Personal del Registro
+I. Estará dirigido a la autoridad a la que se solicitó la información;
 
-###### ARTICULO 54.
+II. El nombre del recurrente y, en su caso, el de su representante legal que acredite su personalidad;
 
-Se deberán inscribir en esta Sección, los planes y programas de desarrollo urbano que determine la ley de la materia; la representación voluntaria, en su caso; las resoluciones judiciales que deban registrarse por mandato de ley; y todos aquéllos actos jurídicos que no sean registrables en las secciones anteriores.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
-### Capítulo V. De los Sistemas y Bases de Datos
+III. Señalar el medio a través del cual el solicitante pueda recibir notificaciones, mismos que podrán ser:
 
-###### ARTICULO 55.
+a) Por correo electrónico; y/o,
 
-Los registradores podrán inscribir documentos, hacer anotaciones y extender certificaciones, mediante firma autógrafa y sello impreso, o mediante firma electrónica y sello digital.
+b) Por estrados del Instituto.
 
-###### ARTICULO 56.
+IV. Precisar el acto u omisión, o la resolución impugnada, la autoridad responsable del mismo y los conceptos de impugnación;
 
-El Registro contará con una base de datos estatal, constituida por los asientos registrales en el Estado, la cual estará a cargo de la Dirección General y, en su caso, interconectada a las oficinas registrales, en las que se contendrán las inscripciones y anotaciones relativas a todos los actos jurídicos que sean registrables, según lo dispuesto en esta Ley y las demás disposiciones aplicables.
+V. Mencionar de manera expresa y clara los hechos en que se funde la impugnación;
 
-###### ARTICULO 57.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
-La base de datos se integrará mediante el uso de un programa informático para la captura, almacenamiento, custodia, seguridad, consulta, reproducción y transmisión de la información registral. En todo caso dicha base deberá contar con respaldo electrónico.
+VI. Adjuntar como anexo copia de la resolución o acto que se impugna y de la notificación correspondiente; cuando se trate de actos que no se resolvieron en tiempo, acompañar la solicitud con que se dio inicio al trámite, señalando la fecha que corresponda.
 
-La información registral podrá ser consultada en forma manual o electrónica.
+VII. (DEROGADA, P.O. 29 DE AGOSTO DE 2007)
 
-###### ARTICULO 58.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-En caso de existir discrepancia o presunción de alteración de la información del Registro contenida en las oficinas registrales correspondientes, o sobre cualquier otro respaldo que hubiere, prevalecerá aquélla registrada en la base de datos estatal, salvo prueba en contrario.
+###### Artículo 49.
 
-###### ARTICULO 59.
+El Instituto en la resolución que dé al recurso, deberá:
 
-El Registro podrá dar acceso a su sistema de información en sus instalaciones o vía remota, conforme lo establezca esta Ley y su Reglamento.
+I. Sobreseer;
+
+II. Confirmar el acto impugnado; o,
+
+III. Revocar total o parcialmente el acto impugnado, debiendo precisar la forma y los términos en que la resolución deba cumplirse.
+
+###### Artículo 50.
+
+Son causas de sobreseimiento del recurso, las siguientes:
+
+I. El desistimiento expreso del recurrente;
+
+II. La modificación o revocación del acto impugnado que deje sin materia el recurso;
+
+III. El fallecimiento del recurrente, o tratándose de personas morales, su disolución;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
+
+IV. Cuando admitido el recurso, aparezca alguna causal de improcedencia en los términos de la presente Ley;
+
+V. Cuando la materia de la impugnación no sea facultad de conocimiento de la autoridad emisora del acto impugnado.
+
+###### Artículo 51.
+
+El recurso será desechado por improcedente cuando:
+
+I. El acto recurrido no corresponda a la materia de acceso a la información o protección de datos personales;
+
+II. Se haya consentido el acto. Se considera el consentimiento del solicitante cuando transcurrido el plazo señalado en el artículo 46, de esta Ley no haya sido impugnado;
+
+III. Se recurra una resolución que no haya sido emitida por el sujeto obligado correspondiente; o,
+
+IV. El acto o la resolución impugnados hubiesen sido consentidos expresamente.
+
+###### Artículo 52.
+
+La resolución que ponga fin al recurso deberá constar por escrito debidamente fundado y motivado.
+
+Cuando la solicitud se haya realizado por medios electrónicos, el recurrente tendrá un plazo de tres días naturales para acusar recibo de la resolución; transcurrido el plazo, se le tendrá como legalmente notificado.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
+
+###### Artículo 53.
+
+La persona agraviada, tendrá en todo tiempo el derecho a acudir a los órganos jurisdiccionales para hacer valer lo que a su derecho corresponda. En la resolución del recurso el Instituto deberá señalar los medios por los que pueda impugnarse.
+
+## Título Cuarto. De las Responsabilidades y Sanciones
+
+### Capítulo Único. De las Faltas Administrativas y Sanciones
+
+###### Artículo 54.
+
+El titular del sujeto obligado que incumpla con el deber de publicidad mínima de oficio, previsto en el artículo 37, de la presente Ley, será sancionado con amonestación por la instancia competente. Si en un período no mayor de treinta días naturales, no se ha puesto a disposición del público la información a que se refiere dicho precepto, será suspendido de sus funciones temporalmente, en los términos de la Ley de Responsabilidades de los Servidores Públicos para el Estado de Chiapas.
+
+###### Artículo 55.
+
+El servidor público que oculte información para no liberar contenidos informativos, incumple las obligaciones previstas en el artículo 45, fracción 1, de la Ley de Responsabilidades de los Servidores Públicos para el Estado de Chiapas, por lo que será sancionado de conformidad con lo dispuesto en dicho ordenamiento legal.
+
+###### Artículo 56.
+
+El servidor público que destruya indebidamente, en forma total o parcial, información pública que tenga a su cargo, incumple la obligación prevista en el artículo 45, fracción IV, de la Ley de Responsabilidades de los Servidores Públicos para el Estado de Chiapas, por lo que será sancionado de conformidad con dicho ordenamiento legal, sin perjuicio de la responsabilidad civil o penal a que hubiere lugar.
+
+###### Artículo 57.
+
+El servidor público que actúe negligentemente al dar respuesta, a solicitudes de acceso a la información, o bien, que no ejecute las autorizaciones para liberar contenidos informativos, incumple las obligaciones previstas en el artículo 45, fracción I, de la Ley de Responsabilidades de los Servidores Públicos para el Estado de Chiapas, por lo que será sancionado de conformidad con lo dispuesto en dicho ordenamiento legal.
+
+###### Artículo 58.
+
+Las sanciones a que hace referencia este capítulo, serán aplicadas en los términos y condiciones señaladas en la Ley de Responsabilidades del los Servidores Públicos para el Estado de Chiapas.
+
+###### Artículo 59.
+
+En todo momento, si los servidores públicos adscritos a los sujetos obligados a que se refiere esta Ley consideran que hay motivo para suponer la comisión de un delito, deben hacerlo del conocimiento del Fiscal del Ministerio Público.
 
 ## Título Quinto
 
-### Capítulo I. Generalidades
+### Capítulo Único. Del Instituto de Acceso a la Información Pública de la Administración Pública Estatal
 
-###### ARTICULO 60.
+###### Artículo 60.
 
-La consulta a través de los sistemas de información no autoriza en ningún caso a modificar los contenidos de los sistemas registrales. La violación a esta norma será sancionada por lo dispuesto en el artículo 229 del Código Penal para el Estado de San Luis Potosí, y demás disposiciones penales aplicables.
+El Instituto de Acceso a la Información Pública de la Administración Pública Estatal, es un organismo público descentralizado no sectorizable de la referida administración pública estatal, con personalidad jurídica y patrimonio propios, autonomía de gestión, así como, facultades de operación, decisión, resolución, administración, fomento, promoción y sanción en lo concerniente al derecho de acceso a la información pública, a que se encuentran obligados los sujetos previstos en el artículo 2º, de esta ley.
 
-###### ARTICULO 61.
+###### Artículo 61.
 
-El Registro podrá autorizar a acceder a la base de datos del Registro a los notarios públicos que así lo soliciten, mediante certificado electrónico expedido por la Dirección General.
+El Instituto, estará integrado por tres consejeros, uno de los cuales tendrá el carácter de Consejero General, quién llevará la representación legal del Instituto.
 
-###### ARTICULO 62.
+Los consejeros, durarán en el ejercicio de su cargo siete años y elegirán por orden alfabético a quien ocupará el cargo de Consejero General para un período de dos años. Los consejeros serán nombrados por el Titular del Poder Ejecutivo del Estado, quienes deberán ser ratificados por el Congreso del Estado, o en su caso por la Comisión Permanente, por mayoría calificada de votos de los diputados presentes. La ratificación o rechazo de la propuesta, se deberá realizar dentro de un plazo de quince días naturales, si el Congreso o la Comisión Permanente, no resuelven dentro de dicho plazo, la propuesta se tendrá por aprobada, si la propuesta formulada fuera rechazada, el ejecutivo deberá realizar una nueva propuesta.
 
-Los notarios podrán solicitar el registro de los actos otorgados ante su fe, mediante el envío por medios electrónicos de la forma precodificada, y del instrumento en el que conste el acto a registrar, con los datos requeridos y su firma electrónica, a través del uso de la clave privada que se le haya otorgado para ello.
+Los consejeros sólo podrán ser removidos de sus funciones cuando transgredan en forma grave o reiterada las disposiciones contenidas en la Constitución Política del Estado de Chiapas, y esta Ley, cuando por actos u omisiones se afecten las atribuciones del Instituto, o cuando hayan sido sentenciados por un delito grave.
 
-Recibida por el Registrador la forma precodificada firmada electrónicamente por el notario, emitirá inmediatamente por la misma vía, la boleta de ingreso electrónica con su número progresivo.
+El Instituto, para efectos de sus resoluciones, no estará subordinado a autoridad alguna, adoptará sus decisiones con plena independencia y contará con los recursos humanos y materiales necesarios para el desempeño de sus funciones.
 
-###### ARTICULO 63.
+###### Artículo 62.
 
-El Registro podrá dar acceso a su sistema de información en sus instalaciones a quienes lo soliciten.
+Para ser Consejero se requiere:
 
-###### ARTICULO 64.
+I. Ser ciudadano chiapaneco en pleno uso de sus derechos;
 
-Los notarios serán responsables de la información contenida en la forma precodificada que sirvió para inscribir el acto, del pago de los derechos correspondientes para su inscripción, de la clave privada y de su firma electrónica, por lo que será causa de cancelación de la autorización para acceder a la base de datos del Registro Público de la Propiedad, el hacerlo con fines distintos a los permitidos, o si el notario ha revelado la clave confidencial para el uso de su firma electrónica, independientemente de las responsabilidades de otra naturaleza en las que pudieran incurrir.
+II. Tener cuando menos treinta y cinco años cumplidos al día de la designación;
 
-El notario al que le haya sido cancelada su autorización, en términos de lo previsto por el párrafo anterior, quedará impedido por el término de dos años para solicitar nueva autorización.
+III. Contar con título y cédula profesional, preferentemente con estudios de postgrado;
 
-###### ARTICULO 65.
+IV. Gozar de reconocido prestigio moral y profesional;
 
-Los notarios deberán dar aviso a la Dirección General para suspender su acceso a la base de datos del Registro Público de la Propiedad, en los supuestos que a continuación se indican:
+V. No ser ni haber sido dirigente de ningún partido o asociación política, ministro de ningún culto religioso, ni titular de alguna dependencia o entidad de los órganos autónomos estatales, cuando menos tres años antes al momento de su designación; y,
 
-I. Cuando sea su voluntad dejar de tener dicho acceso, al menos con quince días de anticipación;
+VI. No haber sido condenado por delito doloso.
 
-II. Cuando haya extraviado la clave confidencial de acceso, o
+###### Artículo 63.
 
-III. Cuando haya mediado violencia para el uso de su clave confidencial de acceso.
+El Consejero General, durará en su encargo un período de dos años, sin posibilidad de ser reelecto y no podrá ser retirado de su cargo durante el período para el que fue nombrado.
 
-Recibido el aviso, la Dirección General procederá a suspender el acceso.
+El cargo de Consejero General, es incompatible con cualquier otro empleo o actividad, salvo la docencia o la beneficencia pública o privada.
 
-###### ARTICULO 66.
+###### Artículo 64.
 
-La consulta a través del sistema de información, no autoriza en ningún caso a quien lo hace, a modificar los contenidos registrales.
+El Instituto tendrá las siguientes atribuciones:
 
-Queda prohibido modificar, destruir o provocar pérdida de información contenida en sistemas o equipos de informática del Registro, protegidos por algún mecanismo de seguridad, o copiar información contenida en sistemas o equipos de informática del Registro, sin autorización del funcionario competente. La violación a estas disposiciones será sancionada conforme a la legislación penal.
+I. Vigilar el cumplimiento de la presente Ley;
 
-Asimismo, se sancionará conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, sin perjuicio de la sanción penal que corresponda, a quien estando autorizado para acceder a sistemas y equipos de informática del Registro, indebidamente modifique, destruya o provoque pérdida de información que contengan.
+II. Vigilar que en el acceso a la información se cumplan los principios establecidos en esta ley;
 
-###### ARTICULO 67.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
-Las solicitudes presentadas por los notarios, interesados o los mandatos de los jueces o autoridades administrativas, deberán expresar con claridad los datos registrales de los bienes motivo de la certificación, su ubicación, medidas y colindancias, titulares registrales, y además, expresar con precisión el periodo con que ésta se solicita. En caso contrario no se expedirá documento alguno hasta en tanto se aclare la solicitud, orden judicial o administrativa, respectiva.
+III. Garantizar que los sujetos obligados proporcionen información a los solicitantes en los términos de la presente Ley;
 
-###### ARTICULO 68.
+IV. Orientar y asesorar a los particulares acerca de las solicitudes de acceso a la información;
 
-Toda inscripción que se haga en el Registro expresará las circunstancias siguientes:
+V. Elaborar los formatos de solicitudes de acceso a la información, así como, los de acceso y corrección de datos personales;
 
-I. La naturaleza, situación y linderos de los inmuebles objeto de la inscripción, o a los cuales afecte el derecho que debe inscribirse; su medida superficial, nombre y número si constare en el título, la referencia al registro anterior en donde consten esos datos; asimismo, constará la mención de haberse agregado el plano o croquis al legajo respectivo;
+VI. Establecer los criterios de clasificación, desclasificación y custodia de la información reservada y confidencial y supervisar que los criterios de clasificación de la información pública y su aplicación sean acordes a la ley;
 
-II. La naturaleza, extensión, condiciones y cargas del derecho que se constituya, transmita, modifique o extinga;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
-III. El valor de los bienes o derechos a que se refieren las fracciones anteriores. Si el derecho no fuere de cantidad determinada, los interesados fijarán en el título la estimación que le den;
+VII. Supervisar el cumplimiento de las obligaciones de transparencia de los sujetos obligados;
 
-IV. Tratándose de hipotecas, la época en que podrá exigirse el pago del capital garantizado, y si causare réditos, la tasa o el modo de éstos y la fecha desde que deban correr;
+VIII. Verificar la instalación y funcionamiento conforme a esta ley, de las unidades y de los Comités y emitir las observaciones pertinentes;
 
-V. Los nombres, edades, domicilios y profesiones de las personas que por si mismas o por medio de representantes hubieren celebrado el contrato o ejecutado el acto sujeto a inscripción. Las personas morales se designarán por el nombre oficial que lleven, y las sociedades, por su razón o denominación;
+IX. (DEROGADA, P.O. 29 DE AGOSTO DE 2007)
 
-VI. La naturaleza del acto o contrato;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
-VII. La fecha del título y el funcionario que lo haya autorizado, y
+X. Promover que los sujetos obligados protejan los datos personales;
 
-VIII. El día y la hora de la presentación del título en el Registro.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
-Ningún registro podrá efectuarse si no consta que quien lo pretende tiene derecho a pedir que se realice, o es representante legal o legitimo de quien lo tenga, y se hayan cubierto los derechos correspondientes.
+XI. Sustanciar y resolver el recurso;
 
-###### ARTICULO 69.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
-El Registro deberá elaborar, suspender o denegar la inscripción, dentro de los términos que para cada caso establezcan esta Ley y su Reglamento.
+XII. Solicitar a los sujetos obligados los informes relacionados con las resoluciones que emitan a las solicitudes de acceso a la información pública;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
+
+XIII. Vigilar que los sujetos obligados cumplan con las resoluciones que emitan y denunciar su incumplimiento ante su órgano de control interno;
+
+XIV. Celebrar convenios, gestionar y recibir fondos de organismos nacionales e internacionales, para el cumplimiento de sus atribuciones;
+
+XV. Realizar y publicar los estudios e investigaciones en la materia y organizar seminarios, cursos y talleres que promuevan el conocimiento de la presente Ley y las prerrogativas derivadas del derecho de acceso a la información pública;
+
+XVI. Elaborar su proyecto de presupuesto de egresos anual, el cual será enviado al titular del Ejecutivo Estatal para que lo integre a la Iniciativa de Presupuesto de Egresos del Estado;
+
+XVII. Designar a los servidores públicos necesarios para el cumplimiento de sus atribuciones;
+
+REFORMADA, P.O. 29 DE AGOSTO DE 2007)
+
+XVIII. Elaborar y someter a consideración del Ejecutivo del Estado, el proyecto de Reglamento lnterior del Instituto, así como sus modificaciones, para su expedición y publicación correspondientes, así como, expedir los manuales necesarios para su funcionamiento;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
+
+XIX. Emitir los criterios para dirimir los conflictos que se susciten en relación a la interpretación de esta Ley, en los que se haga prevalecer el principio de máxima publicidad, siempre y cuando exista solicitud por parte de los sujetos obligados;
+
+XX. Establecer relaciones de cooperación y coordinación con los demás sujetos obligados para homologar formatos y sitios web que permitan una mejor accesibilidad a la información pública; y,
+
+XXI. Las demás que le confiera esta ley, su reglamento y demás disposiciones aplicables.
+
+###### Artículo 65.
+
+Para el ejercicio de sus facultades y atribuciones el Instituto contará con la estructura orgánica que determine su Reglamento Interior.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
+
+###### Artículo 66.
+
+El Instituto contará con un órgano permanente de vigilancia, a cargo de un Comisario Público, que será designado y removido libremente por la Contraloría General del Poder Ejecutivo del Estado, en términos de la legislación aplicable, quién deberá de llevar a cabo las funciones de vigilancia y control interno.
+
+El Comisario evaluará la eficiencia con la que el Instituto maneje y aplique los recursos públicos conforme a las disposiciones aplicables, solicitará información y efectuará los actos que requiera para el adecuado cumplimiento de sus funciones, sin perjuicio de las facultades que le corresponden a la Contraloría General.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
+
+###### Artículo 67.
+
+Los Órganos Administrativos del Instituto proporcionarán al Comisario la información que les solicite y le prestarán las facilidades necesarias para comprobar y vigilar que las políticas, normas, procedimientos y demás disposiciones se apliquen correctamente.
+
+El Comisario deberá elaborar los informes derivados de las revisiones practicadas y proponer al Consejero General las medidas preventivas y correctivas tendentes a mejorar la organización, funcionamiento y control interno del Instituto, estableciendo el seguimiento para su aplicación, por lo que, en todo caso, deberá dirigir sus acciones en apoyo y promoción para el mejoramiento de la gestión del Instituto.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
+
+###### Artículo 68.
+
+Los sujetos obligados presentarán ante el Instituto, en el primer trimestre de cada año, un informe relacionado con las solicitudes de acceso a la información, mismo que deberá incluir:
+
+I. El número de solicitudes:
+
+a) Presentadas.
+
+b) Procesadas.
+
+c) Resueltas.
+
+d) Pendientes.
+
+II. El objeto de las mismas.
+
+III. Las prórrogas por circunstancias excepcionales.
+
+IV. La cantidad de resoluciones dictadas: denegando las solicitudes de información presentadas y los fundamentos de cada una de las resoluciones.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
+
+###### Artículo 69.
+
+El Consejero General del Instituto, rendirá a los tres Poderes del Estado, un informe anual de labores el cual incluirá la descripción de la información remitida por los sujetos obligados, el número de asuntos atendidos, así como, las dificultades observadas en el cumplimiento de esta Ley.
+
+El informe anual será publicado y difundido con amplitud en el portal de cada sujeto obligado, y su circulación será obligatoria para éstos.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ## Título Sexto
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2007)</small>
 
-### Capítulo II. De las Inscripciones
+### Capítulo I. Del Procedimiento de Acceso a la Información Pública
 
-###### ARTICULO 70.
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-Cuando la documentación presentada no contenga los datos o no cumpla con los requisitos previstos en esta Ley y su Reglamento, el Registrador deberá prevenir mediante notificación al interesado y por una sola vez, para que dentro del término de diez días hábiles subsane la omisión.
+###### Artículo 70.
 
-Notificada·la prevención se suspenderá el plazo para que el Registrador resuelva, y se reanudará a partir del día hábil inmediato siguiente a aquél en que el interesado subsane la omisión. En el supuesto de que no se desahogue la prevención en el término señalado, el Registrador desechará la solicitud de inscripción.
+Las solicitudes de acceso a la información pública podrán presentarse por escrito ante la Unidad de Acceso a la Información Pública de los sujetos obligados, personalmente o a través de un representante legal.
 
-###### ARTICULO 71.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2008)</small>
 
-En los títulos a que se refiere la fracción III del artículo 35 de la presente Ley, el Registrador hará la inscripción si encuentra que el título presentado es de los que deben inscribirse, llena las formas extrínsecas exigidas por la ley y contiene los datos a que se refiere el artículo 68 de este Ordenamiento. En caso contrario, devolverá el título sin registrar, fundando y motivando las razones por las que se niega el registro, siendo necesaria resolución judicial para que se haga el registro.
+De igual forma, el solicitante podrá presentar su petición de acceso a la información pública por medios electrónicos, a través del sistema que los sujetos obligados establezcan para tal fin. En todo caso el sistema generará un acuse de recibo, que será el documento que ampare la recepción de la solicitud, en el cual conste de manera fehaciente la fecha de presentación respectiva.
 
-###### ARTICULO 72.
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-En el caso de la devolución a que se refiere la parte final del artículo anterior de esta Ley, el Registrador tiene obligación de hacer una inscripción preventiva a fin de que si la autoridad judicial ordena que se registre el título rechazado, la inscripción definitiva surta sus efectos desde que por primera vez se presentó el titulo. Si el juez aprueba la calificación hecha por el Registrador, notificará esta resolución al Registrador quien una vez que cause ejecutoria ese fallo cancelará la inscripción preventiva, asentando razón de la resolución judicial.
+###### Artículo 71.
 
-Transcurrido un mes sin que se comunique al Registrador la instauración del procedimiento, o la calificación que del título presentado haya hecho el juez, de oficio se cancelará la inscripción preventiva.
+Una vez que la Unidad de Acceso a la Información Pública de los sujetos obligados, reciba solicitud por parte del solicitante, deberá enviarlo a la unidad de enlace correspondiente que tenga la información y éste deberá realizar lo siguiente:
 
-En ningún caso los efectos de la inscripción preventiva excederán de un año.
+l. Determinar, si cuenta con la información;
 
-###### ARTICULO 73.
+II. Revisar la forma en que se encuentra clasificada la información, o en su caso, proponer la clasificación de la información solicitada;
 
-El Registrador no juzgará de la legalidad de la orden judicial o administrativa que decrete una inscripción, anotación o cancelación, pero si a su juicio aparecen algunas circunstancias por las que legalmente no se pueda hacer la legalización, le hará saber a la autoridad respectiva. Si ésta última insistiere en el registro, se efectuará el mismo insertándose al documento o folio registral, el oficio que contuviere la orden judicial.
+III. Determinar la procedencia o improcedencia de la entrega de la información pública solicitada;
 
-### Capítulo II. De los Bienes Registrables y su Inscripción
+IV. Remitir la información o el acuerdo de negativa a la Unidad de Acceso a la Información Pública del sujeto obligado; y,
 
-###### ARTICULO 74.
+V. Hacer de conocimiento a la Unidad de Acceso a la Información Pública del sujeto obligado, la ampliación del plazo para entregar la información en los términos del artículo 25 Bis, de esta Ley, para la notificación correspondiente al solicitante y así la Unidad de Acceso a la Información Pública pueda cumplir con el plazo previsto en el artículo 20, de la Ley.
 
-Podrán ser objeto de primer registro los bienes que se encuentren en el supuesto señalado por el Capítulo de Información Ad-Perpetuam del Código de Procedimientos.
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-###### ARTICULO 75.
+###### Artículo 72.
 
-El que tenga una posesión apta para prescribir, de bienes inmuebles no inscritos en el Registro a favor de persona alguna, aún antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión, mediante resolución judicial que dicte el juez competente.
+Cuando la solicitud se refiera a la información pública obligatoria que se encuentra permanentemente publicada en el Portal, la Unidad de Enlace, al dar respuesta a la misma, integrará en el formato solicitado siempre que se tenga disponible la información requerida, haciendo del conocimiento del solicitante, para futuras consultas la ubicación de la misma en el Portal del sujeto obligado.
 
-###### ARTICULO 76.
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-Tratándose de bienes inmuebles que consten en escrituras privadas fehacientes, para lograr su inscripción deberá llevarse a cabo procedimiento judicial, a efecto de que el juzgado de la jurisdicción del inmueble emita resolución en la que ordene su registro.
+###### Artículo 73.
 
-###### ARTICULO 77.
+De ser procedente la solicitud, la Unidad de Enlace proporcionará la información, tal como se encuentra en sus archivos, en consecuencia no estarán obligados a procesarla, resumirla, efectuar cálculos, ni practicar investigaciones, sin que ello implique el incumplimiento alguno a las disposiciones de esta Ley.
 
-Si el Registrador suspende o deniega la inscripción, deberá notificar al interesado de la manera siguiente:
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-I. Por medios electrónicos, o
+###### Artículo 74.
 
-II. Mediante boleta de devolución.
+La Unidad de Enlace correspondiente, deberá remitir el acuerdo de resolución a la Unidad de Acceso a la Información Pública del sujeto obligado, en un plazo no mayor a quince días hábiles, posteriores a la recepción de la solicitud, de no ser así, la Unidad de Acceso a la Información Pública, requerirá al responsable de la Unidad de Enlace, para que a más tardar al día siguiente del requerimiento, remita dicha resolución y de esta manera la Unidad de Acceso a la Información Pública del sujeto obligado, puede cumplir con la notificación, y en su caso, realice la entrega de la información dentro del plazo previsto en el artículo 20, de esta Ley.
 
-###### ARTICULO 78.
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-El Registrador denegará la inscripción de los actos que se presenten a registro, en cualquiera de los casos siguientes:
+###### Artículo 75.
 
-I. Cuando se trate de actos que no sean inscribibles por disposición de esta Ley u otros ordenamientos legales;
+Cuando la Unidad de Enlace correspondiente del sujeto obligado, determine que no se ha clasificado la información solicitada y considere que ésta deba ser clasificada como reservada o confidencial, deberá coadyuvar remitiendo a su Comité la propuesta del acuerdo, debidamente fundado y motivado para la clasificación correspondiente.
 
-II. Cuando el contenido de los asientos inscritos en el Registro Público de la Propiedad no coincida plenamente con el acto cuya inscripción se solicita, o
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-III. Cuando falte algún requisito que no sea subsanable y que deba constar en la forma precodificada para efectos de su registro, de acuerdo con esta Ley y su Reglamento.
+###### Artículo 76.
 
-###### ARTICULO 79.
+Los sujetos obligados respetarán el derecho de acceso a la información que ejerza cualquier persona, sin más limitación que la establecida en la Ley, el Reglamento o normatividad, que conforme al artículo 24, de está Ley expidan.
 
-La rectificación del asiento registral por causa de error material o de concepto, sólo procede cuando exista discrepancia entre el contenido del documento donde consta el acto y la inscripción respectiva.
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-Existe error material cuando se escriban unas palabras por otras, se equivoquen los nombre propios, las cantidades, o se omita la expresión de alguna circunstancia, sin cambiar por ello el sentido general de la inscripción, ni el de alguno de sus conceptos, o cuando se practique una inscripción en una sección o espacio distinto del que le corresponda en el folio respectivo.
+###### Artículo 77.
 
-Habrá error de concepto cuando al efectuarse la inscripción se altere o varié el sentido de alguno de los contenidos del acto registrado, ya sea porque el Registrador se hubiere formado un juicio equivocado del mismo, por una errónea calificación del sujeto o acto en el consignado, o por cualquier otra causa.
+Los formatos autorizados estarán disponibles en las Unidades de Acceso a la Información Pública de los sujetos obligados y en el Portal que para tal efecto pongan a disposición del público.
 
-###### ARTICULO 80.
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-Cuando Se trate de errores de concepto, los asientos practicados en el documento incorporado o en el folio, registral, sólo podrán rectificarse con el consentimiento del titular registral o quien acredite su interés jurídico al presentar la solicitud, en caso contrario, sólo podrá realizarse por orden de autoridad judicial.
+###### Artículo 78.
 
-En el caso de sociedad conyugal, cualquiera de los cónyuges u otro interesado tiene derecho a pedir la rectificación del acto inscrito, cuando alguno de esos bienes pertenezca a dicha sociedad y estén inscritos a nombre de uno solo de aquéllos, debiendo acompañar a la solicitud, los documentos con los que pruebe el régimen matrimonial.
+La Unidad de Enlace de los sujetos obligados, revisará si la solicitud corresponde al ámbito de su competencia. De no ser así la Unidad de Enlace emitirá dentro de los tres días hábiles siguientes un acuerdo de resolución, en la que fundada y motivadamente se determine la imposibilidad de entregarle la información solicitada por no encontrarse en sus archivos. De ser posible, en el texto de ese mismo acuerdo se orientará al solicitante para que presente la solicitud ante el sujeto obligado competente.
 
-El concepto rectificado surtirá efectos desde la fecha de rectificación del asiento registral.
+La Unidad de Enlace, deberá hacer llegar el acuerdo a que se refiere el párrafo anterior de este artículo, dentro del término de dos días hábiles siguientes al emitido el acuerdo.
 
-### Capítulo II. De la Cancelación de Inscripciones
+La Unidad de Acceso a la Información Pública del sujeto obligado, deberá hacer del conocimiento del solicitante dentro del término de cinco días hábiles, a partir de la recepción de acuerdo que refiere este precepto, para que haga valer, nuevamente, su derecho de acceso a la información pública ante el sujeto obligado competente.
 
-### Capítulo III. De las Anotaciones y Avisos Preventivos
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-###### ARTICULO 81.
+###### Artículo 79.
 
-Las inscripciones no se extinguen sino por su cancelación, o por el registro de la transmisión del dominio o derecho real inscrito a favor de otra persona.
+En caso de que la Unidad de Enlace niegue la información, la entregue incompleta, inexacta, en formato incomprensible, omita información, la retrase o se niegue a efectuar modificaciones o correcciones a los datos personales, deberá fundar y motivar su acto o resolución con base en esta Ley, a los criterios de clasificación de su comité y demás disposiciones aplicables.
 
-La cancelación de una inscripción puede hacerse por consentimiento de las personas a cuyo favor están hechas, el que se hará constar en instrumento público otorgado ante notario, o por resolución judicial. Sin embargo, podrán ser canceladas a petición de parte interesada, sin satisfacer dicho requisito, cuando el acto inscrito, quede extinguido por disposición de ley o por causas que resulten del documento presentado para su inscripción.
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-Las anotaciones preventivas podrán ser canceladas sólo por caducidad, por realizarse el registro definitivo, o por cancelación ordenada o autorizada por el funcionario o autoridad competente.
+###### Artículo 80.
 
-###### ARTICULO 82.
+La Unidad de Acceso a la Información Pública deberá entregar la información al solicitante inmediatamente en la forma que éste la requirió, observando en todos los casos lo dispuesto en el Título Séptimo, Capítulo Único, de esta Ley.
 
-Podrá pedirse la cancelación total de inscripciones o registros definitivos, cuando:
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2007)</small>
 
-I. Se extinga por completo el bien objeto de la inscripción o registro;
+### Capítulo II. Del Procedimiento del Recurso de Revisión
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-II. Se extinga por completo el derecho inscrito;
+###### Artículo 81.
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+El Recurso podrá presentarse por el solicitante de la información que se considere afectado por las resoluciones del Comité o de la Unidad de Enlace, por escrito ante la Unidad de Acceso a la Información Pública del sujeto obligado correspondiente o a través de medio electrónico.
 
-III. Se declare la nulidad del acto consignado en el documento, en donde se haya realizado la inscripción o registro;
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+###### Artículo 82.
 
-IV. Se declare la nulidad de la inscripción;
+Cuando el Recurso se interponga por escrito, deberá reunir los requisitos que establece el artículo 48, de esta Ley.
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+En caso de que el Recurso sea presentado por medio electrónico, a través del sistema que al efecto se establezcan por los sujetos obligados, el recurrente deberá reunir los requisitos que señala el artículo 48, de esta Ley.
 
-V. Sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 2155 del Código Civil para el Estado, y
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+###### Artículo 83.
 
-VI. Tratándose de un embargo, hayan transcurrido tres años desde la fecha de su inscripción y no se haya reinscrito; con excepción del embargo para garantizar el pago de alimentos, créditos laborales y aquéllos que por Ministerio de Ley deban ser ordenados por las autoridades competentes.
+La Unidad de Acceso a la Información Pública del sujeto obligado correspondiente remitirá por medio de oficio o a través de los medios electrónicos, la interposición del recurso y copia del expediente al Instituto, dentro del término de cinco días hábiles contados a partir del día siguiente al de la recepción del recurso. Al mismo tiempo rendirá el informe que la Unidad de Enlace o el Comité respectivo le remita para justificar el acto o resolución que se impugna, precisando la forma en que el Recurso fue presentado.
 
-###### ARTICULO 83.
+Para tal efecto, la Unidad de Acceso a la información Pública correspondiente, tan pronto tenga conocimiento de la interposición del recurso, deberá requerir a las Unidades de Enlace o Comités de los sujetos obligados, el informe a que se refiere el párrafo anterior, así como, la documentación que soporte el acto impugnado,
 
-La cancelación parcial de una inscripción podrá pedirse, y se procederá a efectuar, en los casos siguientes:
+Al emitir copias certificadas del expediente, la Unidad de Acceso a la Información Pública de los sujetos obligados deberá conservar el original para su resguardo.
 
-I. Cuando se reduzca el inmueble objeto del acto inscrito, o
+Cuando por alguna circunstancia el recurso se presente indebidamente ante el Instituto u otra instancia que no sea competente, el personal de éstos deberá orientar al recurrente para que lo presente ante la Unidad de Acceso a la Información Pública del sujeto obligado que corresponda. Lo anterior no interrumpirá el término a que se refiere el artículo 46, de esta Ley.
 
-II. Cuando se reduzca el derecho sobre el acto inscrito.
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-###### ARTICULO 84.
+###### Artículo 84.
 
-La cancelación de las inscripciones de hipotecas constituidas en garantía de títulos transmisibles por endoso, puede hacerse presentando instrumento público otorgado ante notario, porque se haya cobrado el crédito en el cual deba constar haberse inutilizado los titulas endosables en el acto de su otorgamiento, o bien, por ofrecimiento del pago y consignación del importe de los títulos, tramitados y resueltos de acuerdo con las disposiciones legales aplicables.
+El Instituto examinará, ante todo, el escrito de interposición del Recurso; y si encuentra alguno o varios de los motivos de improcedencia que establece el artículo 51, de esta Ley, deberá desecharlo de plano y sin substanciación alguna, comunicando su resolución a la Unidad de Acceso a la Información Pública del sujeto obligado correspondiente y al recurrente.
 
-###### ARTICULO 85.
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-Las inscripciones de hipotecas constituidas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar por instrumento público otorgado ante notario, estar recogida y en poder del deudor la emisión, de títulos inutilizados.
+###### Artículo 85.
 
-###### ARTICULO 86.
+Si hubiere irregularidad en el escrito del recurso por no haber satisfecho los requisitos que establece el artículo 48, de la Ley, el Instituto señalará al recurrente un término que no excederá de tres días hábiles, siguientes a la notificación, para que subsane las omisiones o corrija los defectos en que hubiere incurrido, los que se precisarán en el acuerdo relativo.
 
-Procederá la cancelación total si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan. La cancelación en este caso deberá acordarse por sentencia, según lo dispuesto en el Código de Procedimientos.
+Si el recurrente no diere cumplimiento a lo dispuesto en el párrafo anterior, se tendrá por no interpuesto el Recurso y se comunicará la resolución a las partes.
 
-###### ARTICULO 87.
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trate, presentando instrumento público otorgado ante notario, que acrediten estar recogidos y en poder del deudor, inutilizados, títulos por un valor equivalente al importe de la hipoteca que se trate de extinguir, siempre que dichos títulos asciendan, por lo menos, a la décima parte del total de la emisión.
+###### Artículo 86.
 
-###### ARTICULO 88.
+Si el Instituto no encuentra motivo alguno de improcedencia o defecto en el escrito del Recurso, o si fueron subsanadas las deficiencias a que se refiere el artículo anterior, admitirá la impugnación y mandará notificar a las partes el acuerdo relativo.
 
-Procederá la cancelación total o parcial de la hipoteca que garantice, tanto títulos nominativos, como al portador, por consentimiento del representante común de los tenedores de los títulos, siempre que se encuentre autorizado para ello y declare bajo su responsabilidad, que ha recibido el importe por el que se hace la cancelación de la emisión.
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-###### ARTICULO 89.
+###### Artículo 87.
 
-Las cancelaciones en la forma que para tal efecto fije el Reglamento de la presente Ley, deberán contener para su validez, los datos necesarios para ser identificados, la causa por la que se hace, y su fecha.
+Una vez que el Instituto, haya admitido el Recurso respectivo, se seguirá el siguiente procedimiento:
 
-### Capítulo III. De la Reposición de Documentos Registrales
+I. El Consejero General mandará turnar en el mismo acuerdo de admisión, el expediente, dentro del término de cinco días hábiles al Consejero ponente que corresponda a efecto de que formule por escrito su proyecto de resolución del recurso.
 
-###### ARTICULO 90.
+II. El Consejero ponente tendrá un plazo de diez días hábiles, para elaborar el proyecto de resolución fundada, motivada y relatada como si fuera una sentencia.
 
-La reposición de documentos extraviados o destruidos se realizará de oficio, o a petición de parte interesada.
+III. Una vez concluido lo anterior se pasará copia de dicho proyecto, dentro de los cinco días hábiles, a los demás Consejeros, quedando el expediente a su disposición, para su estudio.
 
-Cuando se realice de oficio, el Registrador atenderá al procedimiento que para tal efecto establece el Reglamento.
+IV. Formulado el proyecto de resolución, se señalará día y hora dentro de los cinco días hábiles siguientes para su discusión y resolución en Pleno.
 
-###### ARTICULO 91.
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-Para que proceda la reposición de folios o documentos bastará que la persona que tenga interés jurídico debidamente acreditado, solicite por escrito dicha reposición, declarando bajo protesta de decir verdad, que el inmueble relativo a la solicitud tiene o no tiene gravámenes o limitaciones de dominio, aportando todos los elementos relativos en el primer caso.
+###### Artículo 88.
 
-Asimismo, deberá acompañar las constancias catastrales debidamente certificadas, relativas a la transmisión patrimonial a su favor respecto del inmueble, así como aquéllos documentos que acrediten sus derechos.
+Para la resolución del Recurso, el Instituto observará las siguientes reglas:
 
-###### ARTICULO 92.
+l. El auto por virtud del cual se turne el expediente del Recurso al Consejero ponente, tendrá efectos de citación a las partes para oír resolución, que se pronunciará dentro del término establecido en las fracciones I, II, III y IV, del artículo anterior, por unanimidad o mayoría de votos.
 
-En los documentos o folios en que consten los asientos repuestos, deberá asentarse la leyenda de "REPOSICION"; en caso de que aparezcan los documentos originales extraviados, se cancelarán de manera indubitable los repuestos para evitar la duplicación, trasladándose la información faltante de los repuestos a los originales.
+II. El sentido de la resolución del Recurso deberá ser en los términos establecidos en el artículo 49, de la Ley.
 
-TlTULO SEXTO
+III. Toda resolución del Recurso deberá señalar al recurrente los medios e instancias con que cuenta para impugnarla.
 
-DE LA FORMA DE IMPUGNAR LAS RESOLUCIONES DEL REGISTRO
+IV. Los asuntos se resolverán en el orden en que se listen.
 
-### Capítulo Unico
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
+
+###### Artículo 89.
+
+Toda resolución que pronuncie el Instituto deberá ser firmada por los tres Consejeros que lo integran, con la intervención del titular de su área jurídica, al momento de que se hubiese aprobado la resolución.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
+
+###### Artículo 90.
+
+Una vez emitida la resolución, el Instituto, deberá notificarla a la Unidad de Acceso a la Información Pública y al recurrente en un plazo que no deberá exceder de tres días hábiles.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
+
+###### Artículo 91.
+
+El sujeto obligado deberá dar cumplimiento a las resoluciones del Recurso que emita el Instituto, en el entendido que de no hacerlo, éste podrá ejercer la atribución señalada en la fracción XIII del artículo 64, de la Ley.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 2007)</small>
+
+###### Artículo 92.
+
+El derecho de Acceso a la Información Pública es gratuito. Cuando los solicitantes requieran que se entregue la información de acuerdo a lo que establece el artículo 17, de esta Ley, deberán acreditar previamente el pago por concepto de derechos establecidos en las Leyes de Ingresos respectivas.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ## Título Séptimo
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2007)</small>
 
-### Capítulo IV. De las Secciones del Registro
+### Capítulo Único. De los Costos de Reproducción y Gastos de Envío
 
-###### ARTICULO 93.
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-Las resoluciones dictadas por el Registro que afecten intereses de los usuarios, podrán ser recurridas en términos de lo dispuesto en la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí.
+###### Artículo 93.
 
-TITULO SEPTlMO
+La reproducción de copias simples o elementos técnicos, debe tener un costo directamente relacionado con el material empleado, cuyo pago se hará ante las oficinas de recaudación de ingresos autorizadas para el cobro, sin que lo anterior implique lucro a favor de la autoridad generadora de la información.
 
-DE LAS RESPONSABlLIDADES DE LOS SERVIDORES PUBLICOS DEL REGISTRO
+Los costos por obtener la información no podrán ser superiores al costo de los materiales utilizados en la reproducción de la misma y al costo del envío.
 
-### Capítulo Unico
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-###### ARTICULO 94.
+###### Artículo 94.
 
-Las faltas y omisiones de carácter administrativo en que incurran los servidores públicos que laboren en las oficinas del Registro, serán sancionadas en los términos establecidos por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, ello sin perjuicio de la responsabilidad civil, administrativa o penal en que incurran.
+Se entregará o se enviará la información pública una vez cubierto el costo correspondiente, cuando éste proceda. Si se solicitara en un medio electrónico, el solicitante podrá proveer a la Unidad de Acceso a la Información Pública a la que se le solicitó la información, los discos cintas que para el caso se requieran.
 
-###### ARTICULO 95.
+## Transitorios
 
-El Registro será responsable de los daños y perjuicios que por incumplimiento o violación de la presente Ley se causen a los particulares, y demás usuarios del mismo. Para efectos del párrafo anterior, el Registro deberá hacer llegar su previsión de manera anual al área competente del Ejecutivo del Estado, a fin de que la misma sea contemplada en el Presupuesto de Egresos, en términos de lo dispuesto por la Ley de Responsabilidad Patrimonial del Estado y Municipios de San Luis Potosí.
+Artículo Primero,- La presente Ley entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, bajo las modalidades previstas en los artículos siguientes.
 
-## TRANSITORIOS
+Artículo Segundo.- Los consejeros del Instituto de Acceso a la Información Pública, serán nombrados dentro de los treinta días siguientes de la entrada en vigor de la presente Ley.
 
-PRIMERO. Este Decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+Para la integración inicial del Instituto y por única vez, los Consejeros serán elegidos por tres, cuatro y cinco años, respectivamente, con el objeto de que al momento de la renovación de los mismos, siempre sea posible contar con una adecuada combinación.
 
-SEGUNDO. Se abroga la Ley del Registro Público de la Propiedad y de Comercio del Estado de San Luis Potosí, publicada con fecha 16 de noviembre de 1992 mediante Decreto No. 160, en el Periódico Oficial del Estado.
+El Instituto expedirá su Reglamento Interior en un período no mayor a noventa días a partir de su constitución.
 
-TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+A partir de la toma de posesión, los miembros del Instituto, deberán instrumentar las acciones concernientes para que la presente Ley sea conocida y difundida entre los diversos sectores sociales, así como, a concientizar a los ciudadanos y servidores públicos.
 
-Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
+Artículo Tercero.- Tan pronto como tomen protesta los consejeros del instituto, comenzarán a difundir el conocimiento sobre el derecho de acceso a la información y la acción protección (sic) de datos personales, de conformidad con el siguiente calendario:
 
-D A D O en el Salón de sesiones del Honorable Congreso del Estado, el veintinueve de junio de dos mil nueve.
+Durante los meses de noviembre y diciembre de 2006, los consejeros realizarán labores de capacitación en materia de derecho de acceso a la información pública, a los servidores públicos que integren las unidades de Información Pública de las dependencias y entidades.
 
-Diputado Presidente: José Luis Ramiro Galero, Diputado Primer Secretario: Vicente Toledo Alvarez, Diputada Segunda Secretaria: Ma. Guadalupe Castro Almanza (Rúbricas).
+Del mismo modo, en el mes de enero de 2007, brindarán dicha capacitación a los integrantes de los comités de información pública.
 
-Por tanto mando se cumpla y ejecute el presente Decreto y que todas las autoridades lo hagan cumplir y guardar y al efecto se imprima, publique y circule a quienes corresponda.
+En el mes de febrero de 2007, los consejeros brindarán a los servidores públicos adscritos a las unidades de Información Pública ya los integrantes de los comités de información pública de las dependencias y entidades, la capacitación necesaria en materia de Acceso a la Información Pública, para que lleven a cabo sus funciones conforme a lo dispuesto en las disposiciones, criterios y principios que les dieron origen.
 
-D A D O en el Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí, a los nueve días del mes de julio de dos mil nueve
+Durante los meses de marzo, abril y mayo de 2007, se llevará a cabo la instalación de las unidades de Acceso a la Información y de los comités de información, lo cual deberá ser supervisado por los consejeros, quienes vigilarán que queden debidamente consolidados.
 
-El Gobernador Constitucional del Estado
+Artículo Cuarto.- Los municipios comenzarán a difundir el conocimiento sobre el derecho de acceso a la información y la acción de protección de datos personales, atendiendo a su capacidad presupuestaria y a su número de habitantes, integrándose inicialmente a las disposiciones establecidas en esta ley, aquellos municipios con una población mayor a cien mil habitantes; a partir del Primer semestre del año 2007, se integrarán aquellos cuyo número de habitantes se ubique entre los cincuenta y los cien mil habitantes, y a partir del segundo semestre del año 2007, se incorporarán aquellos municipios de entre cinco y cincuenta mil habitantes.
 
-C.P. Marcelo de los Santos Fraga
+Artículo Quinto.- Para efectos de la expedición de la normatividad a que se refiere el artículo 23, de esta Ley, el plazo será de tres meses.
 
-(Rúbrica)
+Artículo Sexto.- (DEROGADO POR EL ARTICULO NOVENO TRANSITORIO DEL DECRETO DE REFORMA A LA LEY QUE GARANTIZA LA TRANSPARENCIA Y EL DERECHO A LA INFORMACION PUBLICA PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL PERIODICO OFICIAL DE 29 DE AGOSTO DE 2007.)
 
-El Secretario General de Gobierno
+Artículo Séptimo.- Los sujetos obligados deberán realizar los trámites que sean necesarios para integrar su documentación e implementar su archivo.
 
-Lic. Héctor Vega Robles
+Asimismo, deberán realizar la difusión de la información pública a que se refiere la presente Ley, en un plazo no mayor de ciento ochenta días, contados a partir de la entrada en vigor del presente ordenamiento.
 
-(Rúbrica)
+Artículo Octavo.- El Instituto de Acceso de la Información Pública, para el cumplimiento de sus fines, tramitará lo conducente a los recursos humanos, materiales y financieros ante las Secretarías de: Planeación y Finanzas y de Administración para que éstas provean lo necesario para su funcionamiento, en el marco de sus respectivas competencias.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+El Ejecutivo dispondrá se publique, circule y se le de el debido cumplimiento.
 
-P.O. 12 DE OCTUBRE DE 2013.
+Dado en el salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, a los 11 días del mes de octubre del año 2006.- D. P. C. Enrique Orozco González.- D. S. C. Héctor H. Roblero Gordillo.- Rúbricas.
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 12 días del mes de octubre del año 2006.
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+Pablo Salazar Mendiguchía, Gobernador del Estado.- Roger Grajales González, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE AGOSTO DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado, bajo las modalidades previstas en los artículos siguientes.
+
+Artículo Segundo.- Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- Derivado de la entrada en vigor del presente decreto y en términos de los artículos quinto, sexto, séptimo y noveno transitorios del presente decreto, los solicitantes podrán ejercer su derecho de acceso a la información a partir del día primero de enero de 2008.
+
+Artículo Cuarto.- Los sujetos obligados deberán emitir sus reglamentos o acuerdos generales de esta ley, o en su caso, realizar las modificaciones necesarias, en un plazo no mayor a los noventa días, contados a partir del día siguiente de la entrada en vigor de este decreto.
+
+Artículo Quinto.- Los Poderes del Estado, los Órganos Autónomos, así como los Municipios que tengan una población superior a los setenta mil habitantes, deberán contar con sistemas electrónicos para que los solicitantes puedan hacer uso de los mecanismos de acceso a la información y de los procedimientos del recurso de revisión a los que se refieren este Decreto, a más tardar al treinta y uno de diciembre de 2007.
+
+Artículo Sexto.- Los Municipios con población inferior a setenta mil habitantes deberán contar con sistemas electrónicos para que los solicitantes puedan hacer uso de los mecanismos de acceso a la información y de los procedimientos del recurso de revisión a los que se refieren este Decreto, a más tardar dentro de un año a partir de la entrada en vigor del presente Decreto.
+
+Artículo Séptimo.- Los solicitantes podrán ejercer su derecho de acceso a la información en los Municipios con población inferior a setenta mil habitantes, por la vía electrónica, a partir del día siguiente en que se haya cumplido el plazo a que se refiere el artículo transitorio anterior; y por escrito a partir del día primero de enero de 2008.
+
+Artículo Octavo.- A partir de la entrada en vigencia del presente decreto, se abroga el Reglamento Interior del Instituto de Acceso a la Información Pública para la Administración Pública Estatal, publicado en el Periódico Oficial del Estado número 013, de fecha 14 de febrero de 2007, con publicación número 064-A-2007.
+
+Artículo Noveno.- Se deroga el artículo sexto transitorio de la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas, publicado en el Periódico Oficial del Estado número 388, de fecha 12 de octubre del año 2006.
+
+Artículo Décimo.- El Instituto a través del Consejero General, deberá someter a consideración del Poder Ejecutivo del Estado, en un plazo no mayor a los noventa días, contados a partir de la publicación del presente decreto, el proyecto de Reglamento Interior de dicho organismo público descentralizado, para su expedición y publicación correspondiente.
+
+Artículo Décimo Primero.- El Instituto en el ámbito de su competencia y apego a la Ley, cumplirá y vigilará la observancia de los artículos transitorios del presente Decreto.
+
+P.O. 13 DE AGOSTO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- Para la observancia del artículo 70, de la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas, los municipios que tengan una población superior a los setenta mil habitantes, deberán contar con sistemas electrónicos para que los solicitantes puedan hacer uso de mecanismos de acceso a la información y de los procedimientos del recurso de revisión al que se refiere el Capítulo II, de la misma Ley, a más tardar al veintiuno de julio de dos mil nueve.
+
+Artículo Cuarto.- Los municipios con población menor a setenta mil habitantes, deberán atender el ejercicio del derecho de acceso a la información pública a través de las solicitudes que por escrito se presenten ante la unidad de acceso a la información pública municipal respectiva, o si sus condiciones presupuestarias, humanas y técnicas se lo permiten, implementarán los sistemas electrónicos de acceso a la información pública y del procedimiento del recurso de revisión antes señalado.
+
+P.O. 29 DE OCTUBRE DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales que se opongan al presente Decreto.
