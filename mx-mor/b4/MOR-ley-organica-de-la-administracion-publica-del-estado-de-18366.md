@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-18366"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-29"
-last_updated: "2008-07-16"
+last_updated: "2008-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 29 de septiembre de 2000.
 
@@ -289,7 +289,9 @@ V. Planear, organizar, coordinar, dirigir y promover acciones tendientes a la re
 
 VI. Adquirir, en coordinación con la Federación y los ayuntamientos, las reservas territoriales, así como promover su desarrollo, enajenación y ocupación a través de las instancias que corresponda;
 
-VII. Planear, organizar, regular, vigilar y, en su caso, administrar el servicio público de transporte en cualquiera de sus modalidades así como otorgar concesiones y permisos necesarios para la explotación de las vialidades de jurisdicción estatal, tomando en cuenta la opinión de los ayuntamientos en el ámbito de su competencia, conforme a las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2008)</small>
+
+VII. Planear, organizar, regular y, en su caso, administrar el servicio público de transporte en cualquiera de sus modalidades así como otorgar concesiones y permisos necesarios para la explotación de las vialidades de jurisdicción estatal, tomando en cuenta la opinión de los ayuntamientos en el ámbito de su competencia, conforme a las disposiciones jurídicas aplicables;
 
 VIII. Intervenir en auxilio o coordinación de las autoridades federales, en los términos de las leyes relativas, en materia de:
 
@@ -349,13 +351,13 @@ XXIX. Organizar y controlar la documentación que emitan las dependencias y enti
 
 XXX. Tramitar los recursos administrativos que competa conocer al Gobernador del Estado así como los del área de su competencia;
 
-XXXI. Regular, supervisar y controlar la prestación de los servicios de seguridad privada y expedir la autorización del Ejecutivo para su establecimiento, integración y operación;
+XXXI. (DEROGADA, P.O. 29 DE OCTUBRE DE 2008)
 
-XXXII. Administrar y controlar el Sistema Penitenciario Estatal y los centros de reclusión y de custodia preventiva en el Estado, asegurando las medidas tendientes a la readaptación social integral de los individuos, mediante los principios de educación y trabajo, conforme lo disponen las leyes de la materia;
+XXXII. (DEROGADA, P.O. 29 DE OCTUBRE DE 2008)
 
-XXXIII. Vigilar y coordinar el funcionamiento de las instituciones del Consejo Tutelar para Menores Infractores, así como elaborar y ejecutar los programas de tratamiento de los mismos; y
+XXXIII. (DEROGADA, P.O. 29 DE OCTUBRE DE 2008)
 
-XXXIV. Las demás que señalen las disposiciones jurídicas o le delegue el Titular del Ejecutivo por mandato específico;
+XXXIV. Las demás que señalen las disposiciones jurídicas o le delegue el Titular del Ejecutivo por mandato específico.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 2003)</small>
 
@@ -779,9 +781,15 @@ III. La prevención del delito en el ámbito de su competencia;
 
 IV. Establecer la creación, estructuración y aplicación de los programas tendientes a combatir los hechos delictivos, en los que deben participar las diferentes instituciones policiales;
 
-V. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2003)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2008)</small>
 
-VI. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2003)
+V. Regular, supervisar, controlar y vigilar la prestación de los servicios de seguridad privada, y en consecuencia, expedir la autorización del Ejecutivo para el establecimiento, integración y operación de las empresas del ramo que llevan a cabo sus funciones dentro del territorio estatal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2008)</small>
+
+VI. Administrar y controlar el Sistema Penitenciario Estatal y los centros de reclusión y de custodia preventiva en el Estado, asegurando las medidas tendientes a la reinserción social integral de los individuos, mediante los principios de trabajo, capacitación para el mismo, la educación, la salud y el deporte, conforme lo disponen las leyes de la materia.
+
+Asimismo, asegurar las medidas cautelares y sancionadoras aplicables a los menores que hayan cometido alguna conducta antisocial tipificada como delito, en términos de lo dispuesto por los artículos 18 de la Constitución Política de los Estados Unidos Mexicanos, 19 de la Constitución Política del Estado Libre y Soberano de Morelos, y de las leyes relativas y aplicables;
 
 VII. Diseñar, implantar y evaluar la política del Estado, tendiente a la prevención de conductas antisociales, atendiendo a las modalidades sociales, económicas y culturales de la colectividad;
 
@@ -809,9 +817,13 @@ XVIII. Otorgar a los tribunales al auxilio que soliciten para el ejercicio de su
 
 XIX. Vigilar y coordinar el funcionamiento, selección y capacitación de los cuerpos policiacos, así como de custodia penitenciaria, por conducto del Colegio Estatal de Seguridad Pública;
 
-XX. Planear, organizar, regular y vigilar los sistemas de vialidad y tránsito en el Estado tomando en cuenta la opinión de los Ayuntamientos en el ámbito de su competencia, conforme a las disposiciones jurídicas aplicables, y
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2008)</small>
 
-XXI. Las demás que le sean encomendadas por el Titular del Poder Ejecutivo, le confiera esta Ley y otras disposiciones legales aplicables.
+XX. Vigilar que el servicio público de transporte del Estado, en cualquiera de las modalidades de la prestación del mismo, sea conforme a lo dispuesto por la Ley de Transporte del Estado de Morelos, su Reglamento y las demás disposiciones jurídicas aplicables;
+
+XXI. Planear, organizar, regular y vigilar los sistemas de vialidad y tránsito en el Estado tomando en cuenta la opinión de los Ayuntamientos en el ámbito de su competencia, conforme a las disposiciones jurídicas aplicables, y
+
+XXII. Las demás que le sean encomendadas por el Titular del Poder Ejecutivo, le confiera esta Ley y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 34.
 
@@ -1260,3 +1272,15 @@ P.O. 16 DE JULIO DE 2008.
 Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas en lo que se opongan o de cualquier forma contravengan el presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Los reglamentos generales de las leyes y reglamentos interiores de las dependencias a que se refiere el presente Decreto, deberán modificarse en un mismo Decreto del Poder Ejecutivo, en un plazo de 60 días hábiles, a partir de la entrada en vigor del presente Decreto; en tanto, se mantendrán vigentes los actuales, interpretados de acuerdo a lo dispuesto en el presente Decreto.
+
+TERCERO.- Los recursos humanos, financieros y materiales de las unidades administrativas a que se refiere el presente Decreto, deberán transferirse a la Secretaría de Seguridad Pública, en un plazo de hasta 30 días hábiles a partir de la publicación de los reglamentos a que se refiere el artículo anterior, con la participación que corresponda a las dependencias del Poder Ejecutivo en el ámbito de sus respectivas competencias.
+
+CUARTO.- Los asuntos que con motivo de este Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la dependencia que señale este Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables, que serán resueltos por la dependencia que tenga el asunto a su cargo.
+
+QUINTO.- La Ley de Ejecución de Sanciones y Medidas de Seguridad, Privativas y Restrictivas de la Libertad para el Estado de Morelos, deberá interpretarse conforme al presente ordenamiento, en lo que se oponga al mismo.
