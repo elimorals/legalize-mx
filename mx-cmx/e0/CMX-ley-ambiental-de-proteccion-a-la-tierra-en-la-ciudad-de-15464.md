@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2007-04-30"
+last_updated: "2008-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE OCTUBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -84,9 +84,11 @@ III. En la conservación y control de la contaminación del suelo;
 
 IV. En la conservación, restauración y aprovechamiento sustentable de los recursos naturales de jurisdicción del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V. En la protección y preservación de la flora y fauna en las áreas verdes, áreas de valor ambiental y áreas naturales protegidas y en el suelo de conservación competencia del Distrito Federal;
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+
+V. En la conservación, protección y preservación de la flora y fauna en el suelo de conservación y suelo urbano y en las áreas verdes, áreas de valor ambiental, áreas naturales protegidas competencia del Distrito Federal;
 
 VI. En la evaluación y autorización del impacto ambiental y riesgo de obras y actividades;
 
@@ -116,9 +118,11 @@ Se consideran de utilidad pública:
 
 I. El ordenamiento ecológico del territorio del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. El establecimiento, protección, preservación, restauración y mejoramiento de las áreas verdes, áreas de valor ambiental, áreas naturales protegidas de competencia del Distrito Federal, las zonas de restauración ecológica y en general del suelo de conservación, para la preservación de los ecosistemas y elementos naturales;
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+
+II. El establecimiento, protección, preservación, restauración mejoramiento y vigilancia de las áreas verdes, áreas de valor ambiental, áreas naturales protegidas de competencia del Distrito Federal, las zonas de restauración ecológica y en general del suelo de conservación y suelo urbano para la preservación de los ecosistemas y elementos naturales;
 
 > <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
 
@@ -132,9 +136,15 @@ V. Las actividades vinculadas con la prestación del servicio público de sumini
 
 VI. La Ejecución de programas destinados a fomentar la educación ambiental y a otorgar incentivos para la aplicación de tecnología ambiental y para la conservación de servicios ambientales en las áreas naturales protegidas de competencia del Distrito Federal, las áreas comunitarias de conservación ecológica y el suelo de conservación;
 
-VII. La participación social encaminada al desarrollo sustentable del Distrito Federal; y
+VII. La participación social encaminada al desarrollo sustentable del Distrito Federal; y (sic)
 
-VIII. La elaboración y aplicación de planes y programas que contengan políticas de desarrollo integral de la entidad bajo criterios ambientales.
+VIII. La elaboración y aplicación de planes y programas que contengan políticas de desarrollo integral de la entidad bajo criterios ambientales;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 31 DE OCTUBRE DE 2008)</small>
+
+IX. La celebración de convenios o acuerdos de coordinación entre autoridades ambientales y otras autoridades administrativas para la realización coordinada y conjunta de acciones de protección, vigilancia, conservación y preservación de los ecosistemas y sus elementos naturales.
 
 > <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
 
@@ -378,9 +388,13 @@ XI. Expedir los ordenamientos y demás disposiciones necesarias para proveer el 
 
 XII. Las demás que conforme a esta Ley le correspondan.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE OCTUBRE DE 2008)</small>
+
 ###### ARTÍCULO 9°.
 
-Corresponde a la Secretaría, además de las facultades que le confiere la ley orgánica de la Administración Pública del Distrito Federal, el ejercicio de las siguientes atribuciones:
+Corresponde a la Secretaría, además de las facultades que le confiere la Ley Orgánica de la Administración Pública del Distrito Federal, el ejercicio de las siguientes atribuciones:
 
 I. Formular, conducir y evaluar la política ambiental en el Distrito Federal, así como los planes y programas que de esta se deriven, en congruencia con la que en su caso hubiere formulado la Federación;
 
@@ -434,6 +448,24 @@ XVIII. Realizar y promover en forma coordinada, concertada y corresponsable, acc
 
 XIX. Coordinar la participación de las dependencias y entidades de la administración pública del Distrito Federal, y de las delegaciones en las acciones de educación ambiental, de prevención y control del deterioro ambiental, conservación, protección y restauración del ambiente en el territorio del Distrito Federal, así como celebrar con éstas y con la sociedad, los acuerdos que sean necesarios con el propósito de dar cumplimiento a la presente Ley;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+
+XIX. Bis. Establecer las políticas y lineamientos de integración y operación del cuerpo de Policías Ambientales; en coordinación con la Secretaría de Seguridad Pública del Distrito Federal en las acciones de conservación, vigilancia, restauración y protección de los ecosistemas y sus elementos naturales, en suelo de conservación y urbano;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+
+XIX. Bis 1. Realizar acciones de control, supervisión y vigilancia ambiental, con auxilio de la Secretaría de Seguridad Pública del Distrito Federal, en suelo de conservación y suelo urbano, tendientes a prevenir actos o hechos constitutivos de violación a esta ley, al Código Penal para el Distrito Federal, en materia de delitos ambientales y de las disposiciones que de ella emanen;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+
+XIX. Bis 2. Con el auxilio de la Secretaría de Seguridad Pública del Distrito Federal retirar a las personas y bienes que integren asentamientos humanos establecidos en contravención con los programas de desarrollo urbano o de ordenamiento ecológico del territorio; así como ejecutar las acciones necesarias para prevenir el establecimiento de dichos asentamientos humanos irregulares;
+
 XX. Realizar y promover programas para el desarrollo de técnicas, ecotecnias y procedimientos que permitan prevenir, controlar y abatir el deterioro ambiental, propiciar el aprovechamiento sustentable de los recursos naturales y la conservación de los ecosistemas, con instituciones de educación superior, centros de investigación, instituciones privadas y grupos civiles, con los sectores industrial, comercial y de servicio;
 
 XXI. Conducir la política del Distrito Federal relativa a la información y difusión en materia ambiental;
@@ -455,6 +487,12 @@ XXVIII. Hacer efectivas las obligaciones derivadas de la Ley General, esta Ley, 
 > <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
 XXIX. Ordenar la realización de visitas de inspección para verificar el cumplimiento de los preceptos de esta ley, su reglamento, normas aplicables en materia ambiental, ordenamiento ecológico del territorio, declaratorias de áreas naturales protegidas, programas de manejo, las condicionantes que en materia de impacto y riesgo ambiental se impongan, así como todas las disposiciones legales aplicables al suelo de conservación;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+
+XXIX Bis.- Realizar acciones de vigilancia y supervisión para verificar el cumplimiento de los preceptos de esta ley y las disposiciones que de ella emanen en suelo de conservación y suelo urbano, con el auxilio de la Secretaría de Seguridad Pública del Distrito Federal;
 
 XXX. Aplicar las sanciones administrativas, medidas correctivas y de seguridad correspondientes por infracciones a la Ley General, en materias de competencia local, esta Ley y sus reglamentos;
 
@@ -1180,11 +1218,17 @@ Las autorizaciones que se otorguen en materia de impacto ambiental estarán refe
 
 ### CAPÍTULO VI BIS. LICENCIA AMBIENTAL ÚNICA PARA EL DISTRITO FEDERAL
 
-ARTÍCULO 61 bis. La Licencia Ambiental Única para el Distrito Federal es el instrumento de política ambiental por el que se concentran diversas obligaciones ambientales de los responsables de fuentes fijas que están sujetos a las disposiciones de esta Ley, mediante la tramitación de un solo procedimiento que ampare los permisos y autorizaciones referidos en la normatividad ambiental.
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+###### ARTÍCULO 61 Bis.
+
+La Licencia Ambiental Única para el Distrito Federal es el instrumento de política ambiental por el que se concentran diversas obligaciones ambientales de los responsables de fuentes fijas que están sujetos a las disposiciones de esta Ley, mediante la tramitación de un solo procedimiento que ampare los permisos y autorizaciones referidos en la normatividad ambiental.
 
 > <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
 
-ARTÍCULO 61 bis 1. Para obtener la Licencia Ambiental Única para el Distrito Federal a que se refiere el artículo anterior, los responsables de las fuentes fijas deberán presentar a la Secretaría la solicitud correspondiente acompañada de la siguiente información:
+###### ARTÍCULO 61 Bis 1.
+
+Para obtener la Licencia Ambiental Única para el Distrito Federal a que se refiere el artículo anterior, los responsables de las fuentes fijas deberán presentar a la Secretaría la solicitud correspondiente acompañada de la siguiente información:
 
 I. Datos generales del solicitante;
 
@@ -1688,7 +1732,9 @@ La Secretaría y las Delegaciones podrán celebrar convenios con los vecinos de 
 
 > <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
-Artículo 88 bis 1. En los parques y jardines, plazas jardinadas o arboladas, zonas con cualquier cubierta vegetal en la vía pública, alamedas y arboledas, jardineras y barrancas, queda prohibido:
+###### Artículo 88 Bis 1.
+
+En los parques y jardines, plazas jardinadas o arboladas, zonas con cualquier cubierta vegetal en la vía pública, alamedas y arboledas, jardineras y barrancas, queda prohibido:
 
 I. La construcción de edificaciones, y de cualesquier obra o actividad que tengan ese fin;
 
@@ -1703,30 +1749,6 @@ IV. El depósito de cascajo y de cualquier otro material proveniente de edificac
 ARTÍCULO 88 bis 2. Las áreas verdes bajo las categorías de parques, jardines, alamedas y arboledas o áreas análogas, establecidas en los programas de desarrollo urbano, deberán conservar su extensión y en caso de modificarse para la realización de alguna obra pública deberán ser compensadas con superficies iguales o mayores a la extensión modificada, en el lugar más cercano.
 
 > <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
-
-ARTÍCULO 88 bis 3. La construcción de edificaciones en las áreas verdes previstas en las fracciones VI a la IX del artículo 87 de la presente Ley, podrá ser autorizada o realizada por la autoridad competente, para su protección, fomento y educación ambiental, para lo cual, se requerirá de la emisión de un dictamen técnico preliminar en el que se determinen las acciones y medidas que habrán de considerarse y en su caso ordenarse en la autorización correspondiente, a efecto de evitar que se generen afectaciones a los recursos naturales de la zona durante el desarrollo de la construcción.
-
-> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
-
-ARTÍCULO 88 bis 4. La Secretaría establecerá el Inventario General de las Áreas Verdes del Distrito Federal, con la finalidad de conocer, proteger y preservar dichas áreas, así como para proponer a la Secretaría de Desarrollo Urbano y Vivienda y a las delegaciones, según su competencia, el incremento de dichas áreas en zonas donde se requiera, el cual deberá contener, por lo menos:
-
-I. La ubicación y superficie;
-
-II. Los tipos de área verde;
-
-III. Las especies de flora y fauna que la conforman;
-
-IV. Las zonas en las cuales se considera establecer nuevas áreas verdes;
-
-V. Las demás que establezca el Reglamento.
-
-Las delegaciones llevarán el inventario de áreas verdes de su competencia en su demarcación territorial, en los términos establecidos en el párrafo anterior y lo harán del conocimiento de la Secretaría para su integración en el inventario general al que se refiere el presente artículo, proporcionando anualmente las actualizaciones correspondientes, en los términos del Reglamento. Dicho inventario formará parte del Sistema de Información Ambiental del Distrito Federal.
-
-###### ARTÍCULO 88 Bis 1.
-
-Las áreas verdes bajo las categorías de parques, jardines, alamedas y arboledas o áreas análogas, establecidas en los programas de desarrollo urbano, no podrán ser alteradas en su superficie o ser sujetas a cambio de uso de suelo, y queda prohibida la construcción de edificaciones en las categorías establecidas en las fracciones I a V del artículo 87 de la presente Ley, con excepción de autorizar dicha (sic) construcciones en las áreas establecidas en las fracciones VI a IX del artículo 87 para su cuidado, fomento cultural y educación ambiental.
-
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
 
 ###### ARTÍCULO 88 Bis 2.
 
@@ -1744,6 +1766,28 @@ V. Las demás que establezca el Reglamento.
 
 Las delegaciones llevarán el inventario de áreas verdes de su competencia en su demarcación territorial, en los términos establecidos en el párrafo anterior y lo harán del conocimiento de la Secretaría para su integración en el inventario general al que se refiere el presente artículo, proporcionando semestralmente las actualizaciones correspondientes, en los términos del Reglamento. Dicho inventario formará parte del Sistema de Información Ambiental del Distrito Federal.
 
+###### ARTÍCULO 88 Bis 3.
+
+La construcción de edificaciones en las áreas verdes previstas en las fracciones VI a la IX del artículo 87 de la presente Ley, podrá ser autorizada o realizada por la autoridad competente, para su protección, fomento y educación ambiental, para lo cual, se requerirá de la emisión de un dictamen técnico preliminar en el que se determinen las acciones y medidas que habrán de considerarse y en su caso ordenarse en la autorización correspondiente, a efecto de evitar que se generen afectaciones a los recursos naturales de la zona durante el desarrollo de la construcción.
+
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+###### ARTÍCULO 88 Bis 4.
+
+La Secretaría establecerá el Inventario General de las Áreas Verdes del Distrito Federal, con la finalidad de conocer, proteger y preservar dichas áreas, así como para proponer a la Secretaría de Desarrollo Urbano y Vivienda y a las delegaciones, según su competencia, el incremento de dichas áreas en zonas donde se requiera, el cual deberá contener, por lo menos:
+
+I. La ubicación y superficie;
+
+II. Los tipos de área verde;
+
+III. Las especies de flora y fauna que la conforman;
+
+IV. Las zonas en las cuales se considera establecer nuevas áreas verdes;
+
+V. Las demás que establezca el Reglamento.
+
+Las delegaciones llevarán el inventario de áreas verdes de su competencia en su demarcación territorial, en los términos establecidos en el párrafo anterior y lo harán del conocimiento de la Secretaría para su integración en el inventario general al que se refiere el presente artículo, proporcionando anualmente las actualizaciones correspondientes, en los términos del Reglamento. Dicho inventario formará parte del Sistema de Información Ambiental del Distrito Federal.
+
 ###### ARTÍCULO 89.
 
 Todos los trabajos de mantenimiento, mejoramiento, fomento y conservación a desarrollarse en las áreas verdes, deberán sujetarse a la normatividad que establezca la Secretaría.
@@ -1754,7 +1798,9 @@ La remoción o retiro de árboles dentro de las áreas verdes, requerirá autori
 
 > <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
 
-ARTÍCULO 89 bis. En todo caso, la autorización para el derribo, poda o trasplante del arbolado en suelo de conservación, áreas de valor ambiental y áreas naturales protegidas, se limitará a medidas fitosanitarias o de prevención de incendios.
+###### ARTÍCULO 89 Bis.
+
+En todo caso, la autorización para el derribo, poda o trasplante del arbolado en suelo de conservación, áreas de valor ambiental y áreas naturales protegidas, se limitará a medidas fitosanitarias o de prevención de incendios.
 
 > <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
@@ -1946,15 +1992,9 @@ Los refugios de vida silvestre son aquellos que constituyen el hábitat natural 
 
 > <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
-Artículo 92 bis 4. Las Reservas Ecológicas Comunitarias son aquellas establecidas por pueblos, comunidades y ejidos en terrenos de su propiedad destinadas a la preservación, protección y restauración de la biodiversidad y del equilibrio ecológico, sin que se modifique el régimen de propiedad.
+###### Artículo 92 Bis 4.
 
-La Secretaría promoverá la expedición de la declaratoria correspondiente, mediante la cual se establecerá el programa de manejo del área por parte del promovente, con la participación de la Secretaría conforme a las atribuciones que al respecto se le otorgan en la presente Ley.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 10 DE FEBRERO DE 2004)</small>
-
-###### ARTÍCULO 92 Bis 4.
-
-Las Reservas Ecológicas Comunitarias son aquellas establecidas por pueblos, comunidades y ejidos en terrenos de su propiedad destinadas a la preservación, protección y restauración de la biodiversidad, sin que se modifique el régimen de propiedad.
+Las Reservas Ecológicas Comunitarias son aquellas establecidas por pueblos, comunidades y ejidos en terrenos de su propiedad destinadas a la preservación, protección y restauración de la biodiversidad y del equilibrio ecológico, sin que se modifique el régimen de propiedad.
 
 La Secretaría promoverá la expedición de la declaratoria correspondiente, mediante la cual se establecerá el programa de manejo del área por parte del promovente, con la participación de la Secretaría conforme a las atribuciones que al respecto se le otorgan en la presente Ley.
 
@@ -1966,7 +2006,9 @@ La administración y manejo de las áreas naturales protegidas propiedad del Gob
 
 > <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
 
-ARTÍCULO 92 bis 6. Las Zonas de Protección Especial son aquellas que se localizan en suelo de conservación y que tienen la característica de presentar escasa vegetación natural, vegetación inducida o vegetación fuertemente modificada y que por su extensión o características no pueden estar dentro de las otras categorías de áreas naturales protegidas, aun cuando mantienen importantes valores ambientales.
+###### ARTÍCULO 92 Bis 6.
+
+Las Zonas de Protección Especial son aquellas que se localizan en suelo de conservación y que tienen la característica de presentar escasa vegetación natural, vegetación inducida o vegetación fuertemente modificada y que por su extensión o características no pueden estar dentro de las otras categorías de áreas naturales protegidas, aun cuando mantienen importantes valores ambientales.
 
 ###### ARTÍCULO 93.
 
@@ -3174,11 +3216,27 @@ Los procedimientos en materia de inspección y vigilancia ambiental estarán suj
 
 Serán de aplicación supletoria al presente Título, en el orden que se indica, las disposiciones de la Ley de Procedimiento Administrativo y del Código de Procedimientos Civiles, del Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### ARTÍCULO 201 Bis.
 
-La Secretaría organizará y coordinará el servicio de inspección y vigilancia ambiental del Distrito Federal, con el propósito de establecer los criterios y lineamientos que se habrán (sic) observarse por las distintas unidades administrativas del gobierno del Distrito Federal que realicen acciones para verificar el cumplimiento de las disposiciones jurídicas señaladas en el artículo 201 de esta Ley, así como para fortalecer la capacitación y profesionalización de los servidores públicos que participen en dichas tareas.
+La Secretaría organizará y coordinará el servicio de inspección y vigilancia ambiental del Distrito Federal, con el propósito de establecer los criterios y lineamientos que se habrán de observar por las distintas unidades administrativas del gobierno del Distrito Federal que realicen acciones para verificar el cumplimiento de las disposiciones jurídicas señaladas en el artículo 201 de esta Ley, así como para fortalecer la capacitación y profesionalización de los servidores públicos que participen en dichas tareas.
+
+El servicio a que se refiere el párrafo anterior estará integrado orgánicamente con los servidores públicos de la Secretaría que intervengan en los procedimientos de inspección ambiental; de los inspectores ambientales; de vigilantes ecoguardas en funciones de vigilancia ambiental; y del cuerpo de policías ambientales.
+
+La Secretaría de Seguridad Pública establecerá el cuerpo de policías ambientales como una unidad de apoyo técnico operativo diario para la ejecución de acciones de prevención de delitos e infracciones administrativas en materia ambiental que se realicen en suelo urbano y de conservación en auxilio de la Secretaría.
+
+La Secretaría establecerá y aplicará los sistemas de capacitación y profesionalización de los policías ambientales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY</small>
+
+> <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2008)</small>
+
+###### ARTÍCULO 201 Bis 1.
+
+Con independencia de las medidas de seguridad, correctivas y de urgente aplicación, las sanciones y medidas de apremio que en materia administrativa correspondan, los policías ambientales pondrán a disposición de la autoridad competente a quienes realicen actos u omisiones probablemente constitutivos de delito o infracción administrativa en materia ambiental, que sucedan en suelo urbano y suelo de conservación así como en áreas de valor ambiental y áreas naturales protegidas.
 
 ### CAPÍTULO IV. SANCIONES ADMINISTRATIVAS
 
@@ -3226,11 +3284,15 @@ Cuando en el domicilio, lugar o zona donde se practique la diligencia de inspecc
 
 La persona con quien se entienda una visita domiciliaria o acto de inspección, estará obligada a permitir al personal autorizado el acceso al lugar o lugares donde se deba practicar la diligencia, en los términos previstos en la orden escrita correspondiente, así como a proporcionar al personal que ejecute la visita, toda clase de información que conduzca a cumplir con el objeto de la orden respectiva, con excepción de lo relativo a derechos de propiedad industrial que sean confidenciales conforme a las disposiciones jurídicas aplicables, debiendo la autoridad mantenerlos en absoluta reserva sí así lo solicita el interesado, salvo que la información sea pública en los términos de la Ley de Acceso a la Información Pública del Distrito Federal o de cualquier otro ordenamiento jurídico aplicable.
 
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### ARTÍCULO 205.
 
-La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar una visita domiciliaria o un acto de inspección, así como cualquier otra actuación que determine con motivo de los procedimientos que inicie.
+Para efectuar una visita domiciliaria o un acto de inspección, así como cualquier otra actuación que determine con motivo de los procedimientos de inspección y vigilancia ambiental, la autoridad competente podrá asistirse de elementos de la policía ambiental.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 Lo anterior, sin perjuicio de las sanciones o medios de apremio que procedan para las personas que obstaculicen o se opongan a la práctica de la diligencia de que se trate.
 
@@ -3430,7 +3492,9 @@ En el caso en que el infractor realice las medidas correctivas o de urgente apli
 
 > <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
 
-Artículo 216 bis. La autoridad ambiental competente, a solicitud del infractor, podrá otorgar a éste la opción de conmutar hasta la mitad del monto de la multa por la realización de inversiones equivalentes a dicha reducción, en adquisición o instalación de equipos para evitar la contaminación ambiental o en la protección, preservación o restauración del ambiente y los recursos naturales, siempre y cuando se garanticen las obligaciones del infractor y la autoridad justifique plenamente su decisión.
+###### ARTÍCULO 216 Bis.
+
+La autoridad ambiental competente, a solicitud del infractor, podrá otorgar a éste la opción de conmutar hasta la mitad del monto de la multa por la realización de inversiones equivalentes a dicha reducción, en adquisición o instalación de equipos para evitar la contaminación ambiental o en la protección, preservación o restauración del ambiente y los recursos naturales, siempre y cuando se garanticen las obligaciones del infractor y la autoridad justifique plenamente su decisión.
 
 El plazo para la interposición de la solicitud de conmutación será de quince días, contados a partir de la notificación de la resolución administrativa correspondiente. La solicitud deberá indicar las acciones propuestas y el plazo para ejecutarlas.
 
@@ -3579,3 +3643,17 @@ G.O. 30 DE ABRIL DE 2007.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 31 DE OCTUBRE DE 2008.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las presentes modificaciones de ley entrarán en vigor 90 días después de su publicación en la Gaceta Oficial para el Distrito Federal.
+
+TERCERO.- De conformidad con el artículo 39 de la Ley Orgánica de la Secretaría de Seguridad Pública del Distrito Federal, la Secretaria de Seguridad Pública denominará a los agrupamientos que cumplan con las nuevas especificaciones de esa ley, como "Policía ambiental" y que formarán parte de la Policía Metropolitana.
+
+...
+
+QUINTO.- La Secretaría de Seguridad Pública del Gobierno del Distrito Federal, establecerá la estructura administrativa, así como los recursos humanos y materiales necesarios para la creación del cuerpo de policía ambiental con los recursos adicionales que le sean autorizados.
