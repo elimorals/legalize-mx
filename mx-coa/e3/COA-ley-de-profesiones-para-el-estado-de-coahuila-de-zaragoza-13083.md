@@ -4,7 +4,7 @@ identifier: "COA-ley-de-profesiones-para-el-estado-de-coahuila-de-zaragoza-13083
 country: "mx"
 rank: "ley"
 publication_date: "1998-11-06"
-last_updated: "1998-11-06"
+last_updated: "2008-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROFESIONES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 6 de noviembre de 1998.
 
@@ -307,13 +307,17 @@ Los profesionistas podrán formar colegios para la defensa de sus intereses, el 
 
 En su estructura, los colegios tendrán la posibilidad de contar con grupos que conjunten especialistas y secciones en municipios o regiones distintos a los de su domicilio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2008)</small>
+
 ###### ARTICULO 25.
 
-En el Estado de Coahuila de Zaragoza las agrupaciones de profesionistas funcionarán como colegios, cuando cumplan los siguientes requisitos:
+En el Estado de Coahuila de Zaragoza las agrupaciones de profesionistas funcionarán como colegios cuando cumplan los siguientes requisitos:
 
-I.- Constituirse en asociación civil con los fines a que se refiere el ARTICULO anterior y conforme a las disposiciones del Código Civil vigente en el estado;
+I.- Constituirse en asociación civil con los fines a que se refiere el Artículo anterior y conforme a las disposiciones del Código Civil vigente en el estado;
 
-II.- Contar con un mínimo de cincuenta profesionistas legalmente acreditados;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+II.- Contar con un mínimo de treinta profesionistas legalmente acreditados.
 
 III.- Obtener el registro de la Secretaría de Educación Pública, a quien deberá presentar la solicitud y acompañarla de:
 
@@ -323,7 +327,9 @@ b) Documentos que amparen el carácter de profesionista de sus miembros y la ace
 
 c) Directorio de sus integrantes, en el que se incluyan: nombre, domicilio y nacionalidad.
 
-Cuando en una determinada rama profesional no exista en el estado el número de profesionistas a que se refiere la fracción II de este ARTICULO, el Consejo para el Fomento y Vigilancia de las Profesiones podrá señalar discrecionalmente el mínimo de integrantes que se requiere para la constitución de un colegio.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE OCTUBRE DE 2008)</small>
+
+Cuando en una determinada rama profesional no exista en el Estado o Municipio involucrado en la creación de un colegio, el número de profesionistas a que se refiere la fracción II de este artículo, el Consejo para el Fomento y Vigilancia de las Profesiones, podrá señalar discrecionalmente el mínimo de integrantes que se requiere para la constitución de un colegio, número que en ningún momento deberá ser menor de 5 miembros.
 
 ###### ARTICULO 26.
 
@@ -610,3 +616,11 @@ LIC. CARLOS JUARISTI SEPTIEN
 EL SECRETARIO DE EDUCACION PUBLICA
 
 LIC. OSCAR PIMENTEL GONZALEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE OCTUBRE DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
