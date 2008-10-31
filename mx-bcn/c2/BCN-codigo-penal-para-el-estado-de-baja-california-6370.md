@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2008-05-16"
+last_updated: "2008-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2008.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2321,6 +2321,10 @@ Requisitos de procedibilidad.- Los delitos a que se refiere el presente capítul
 
 Tipo y punibilidad.- Al que para obtener un lucro obligue a otro, a realizar u omitir un acto en perjuicio de su patrimonio o el de un tercero, se le impondrá prisión de dos a ocho años y hasta cuatrocientos días multa.
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+Cuando se utilice como medio comisivo la vía telefónica, el correo electrónico o cualquier otro medio de comunicación electrónica, se impondrá pena de cuatro a ocho años de prisión y hasta quinientos días multa.
+
 ### CAPITULO VI. INCESTO
 
 ###### Artículo 225.
@@ -2489,7 +2493,9 @@ Exención o disminución de pena o de arrepentimiento post-factum.- En los casos
 
 Artículo 234 BIS.- Agravación de la punibilidad.- Las penas señaladas en los artículos 208 BIS y 208 TER se incrementarán hasta en una tercera parte, cuando el autor haya sido integrante de alguna institución de seguridad pública o corporación policíaca.
 
-Las penas señaladas en los artículos 224 y 232, se incrementarán hasta en una tercera parte, cuando el autor sea o haya sido integrante de alguna institución de seguridad pública o corporación policíaca, hasta un año después de haber concluido el empleo, cargo o comisión.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+Las penas señaladas en los artículos 224 y 232, se incrementarán hasta en una tercera parte, cuando el autor sea o haya sido integrante de alguna institución de seguridad pública o corporación policíaca, hasta un año después de haber concluido el empleo, cargo o comisión. Además de la agravación a que se refiere este párrafo, se le impondrá la destitución e inhabilitación desde uno hasta cinco años para desempeñar cualquier empleo, cargo o comisión públicos.
 
 #### SECCION SEGUNDA. DELITOS CONTRA LA FAMILIA
 
@@ -4498,3 +4504,7 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 P.O. 16 DE MAYO DE 2008.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 31 DE OCTUBRE DE 2008.
+
+ÚNICO.- La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
