@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-secretaria-de-seguridad-publica-del-31414"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-05-20"
-last_updated: "2008-10-21"
+last_updated: "2008-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31414&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-07"
 
 LEY ORGANICA DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE OCTUBRE DE 2008.
 
 Ley Orgánica publicada en la Gaceta Oficial del Distrito Federal, el martes 20 de mayo de 2003.
 
@@ -140,9 +140,23 @@ XXVII. Establecer las características de la identificación oficial de los serv
 
 XXVIII. Autorizar los procedimientos administrativos de la Secretaría en materia de administración de recursos humanos, materiales y servicios generales de la misma, atendiendo los lineamientos y normas que al efecto emita la Oficialía Mayor del Distrito Federal;
 
-XXIX.- Difundir a la sociedad los resultados de la supervisión de la actuación policial y de la verificación del cumplimiento de las obligaciones de los elementos de policía, así como de los mecanismos de medición de su desempeño; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXX. Las demás que le atribuyan las leyes así como los reglamentos, decretos, acuerdos y órdenes del Presidente de la República y del Jefe de Gobierno, en el ámbito de sus respectivas competencias.
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+
+XXIX. Difundir a la sociedad los resultados de la supervisión de la actuación policial y de la verificación del cumplimiento de las obligaciones de los elementos de policía, así como de los mecanismos de medición de su desempeño;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+
+XXX. Realizar acciones de prevención de faltas administrativas y comisión de delitos ambientales en suelo urbano y suelo de conservación, así como en áreas de valor ambiental y áreas naturales protegidas de la competencia del Distrito Federal, en coordinación con la Secretaría del Medio Ambiente del Distrito Federal para tal efecto; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+
+XXXI. Las demás que le atribuyan las leyes, así como los reglamentos, decretos, acuerdos y órdenes del Presidente de la República y del Jefe de Gobierno, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 4°.
 
@@ -520,9 +534,23 @@ VI. Vigilar y proteger los espacios públicos y de acceso al público en el Dist
 
 VII. Vigilar lugares estratégicos para la seguridad pública del Distrito Federal;
 
-VIII. Actuar en coordinación con otras instituciones de seguridad pública e instancias de gobierno, federales, estatales o municipales, cuando las necesidades del servicio lo requieran; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IX. Realizar funciones de control, supervisión y regulación del tránsito de personas y vehículos en la vía pública.
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+
+VIII. Actuar en coordinación con otras instituciones de seguridad pública e instancias de gobierno, federales, estatales o municipales, cuando las necesidades del servicio lo requieran;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+
+IX. Realizar funciones de control, supervisión y regulación del tránsito de personas y vehículos en la vía pública; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+
+X. Realizar acciones de prevención de faltas administrativas y comisión de delitos ambientales en suelo urbano y suelo de conservación, así como en áreas de valor ambiental y áreas naturales protegidas de la competencia del Distrito Federal, en coordinación con la Secretaría del Medio Ambiente del Distrito Federal para tal efecto.
 
 ###### Artículo 27.
 
@@ -644,6 +672,30 @@ VIII. Instrumentar en coordinación con otras dependencias, programas y campaña
 
 IX.- Formular, ejecutar y difundir programas de control y preventivos en la ingesta de bebidas alcohólicas y consumo de estupefacientes, preferentemente en la cercanía de puntos de mayor consumo y vialidades de alta incidencia en accidentes automovilísticos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 34 Bis.
+
+La atribución de realizar acciones de prevención de faltas administrativas y comisión de delitos ambientales en suelo urbano y suelo de conservación, así como en áreas de valor ambiental y áreas naturales protegidas de competencia del Distrito Federal, a que se refiere la fracción X del artículo 26 de esta Ley, comprende:
+
+I. Realizar acciones de patrullaje y prevención de faltas administrativas y delitos ambientales, a través de la policía especializada en materia ambiental;
+
+II. Auxiliar a la Secretaría del Medio Ambiente del Distrito Federal en el retiro de personas y bienes que integren asentamientos humanos establecidos, en contravención con los programas de desarrollo urbano o de ordenamiento ecológico del territorio;
+
+III. Auxiliar a la Secretaría de Medio Ambiente en las acciones que realice para la prevención del establecimiento de asentamientos humanos irregulares, así como en el desempeño de sus atribuciones en suelo urbano, suelo de conservación, en áreas de valor ambiental y áreas naturales protegidas, competencia del Distrito Federal;
+
+IV. Establecer operativos y líneas de colaboración conjuntas con el Secretario del medio Ambiente a fin de coordinarse en la realización de sus respectivas atribuciones en suelo de conservación y suelo urbano, así como en áreas de valor ambiental y áreas naturales protegidas, competencia del distrito federal;
+
+V. Asegurar y presentar ante las autoridades competentes a los presuntos responsables de actos u omisiones que constituyan un delito ambiental conforme al Código Penal del Distrito Federal o infracción administrativa conforme a la normatividad ambiental aplicable, con independencia de las medidas de seguridad, correctivas y de urgente aplicación, las sanciones y medidas de apremio que en materia administrativa correspondan;
+
+VI. Capacitar elementos de seguridad pública en materia ambiental, en coordinación con la Secretaría del Medio Ambiente del Distrito Federal;
+
+VII. Coordinarse con las autoridades competentes en materia ambiental y de protección civil para prevenir incendios forestales;
+
+VIII. Las que determinen las leyes y reglamentos en materia ambiental y los convenios que celebre la Secretaría con la Secretaría del Medio Ambiente del Distrito Federal.
+
 ### CAPÍTULO III. DE LA ESTRUCTURA POLICIAL
 
 ###### Artículo 35.
@@ -686,9 +738,27 @@ d) Realización de acciones de disuasión en actos que pongan en peligro el orde
 
 e) Diseño y ejecución de dispositivos, tácticas y estrategias para la vigilancia y protección de inmuebles e instalaciones públicas;
 
-f) Realización de labores de rescate y auxilio médico prehospitalario en casos de siniestros y situaciones de emergencia; y
+f) Realización de labores de rescate y auxilio médico prehospitalario en casos de siniestros y situaciones de emergencia; y (sic)
 
-g) Las demás que determinen el reglamento respectivo y el manual administrativo de la Secretaría.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 31 DE OCTUBRE DE 2008)</small>
+
+g) Ejecución de dispositivos, tácticas y estrategias en auxilio de la Secretaría del Medio Ambiente, para el patrullaje, control y supervisión para proteger, resguardar y prevenir actos o hechos constitutivos de delito o infracción administrativa en materia ambiental en suelo de conservación y suelo urbano, así como en áreas de valor ambiental y áreas naturales protegidas de competencia del Distrito Federal, y verificar su cumplimiento.
+
+En ese sentido, los policías ambientales deberán coordinarse con los bomberos forestales en términos de lo establecido en el artículo 34 bis de esta Ley;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2008)</small>
+
+h) Realización de labores de patrullaje para la prevención de la comisión de delitos e infracciones administrativas cometidas en en (sic) suelo urbano y suelo de conservación, áreas naturales protegidas y áreas de valor ambiental competencia del Distrito Federal, en auxilio de la Secretaría del Medio Ambiente; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2008)</small>
+
+i) Las demás que determinen el reglamento respectivo y el manual administrativo de la Secretaría.
 
 III. Servicios:
 
@@ -880,6 +950,12 @@ En el catálogo de puestos correspondiente se contemplarán las percepciones dif
 
 La profesionalización de la Policía será permanente y obligatoria conforme al sistema de carrera policial. Para permanecer al servicio de la Secretaría dentro de la carrera policial, los interesados deberán participar en los programas de formación y actualización profesional, a tal efecto, el órgano responsable de la formación policial difundirá en todas las instalaciones de la Secretaría los cursos a su cargo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2008)</small>
+
+Aquellos policías que en auxilio de la Secretaría del Medio Ambiente realicen acciones destinadas al patrullaje y prevención de delitos e infracciones administrativas en materia ambiental en suelo urbano y de conservación, áreas naturales protegidas y áreas de valor ambiental de competencia del Distrito Federal, además de la obligación de participar en los programas de formación a que se refiere el párrafo anterior, deberán ser capacitados en materia ambiental y para responder ante incendios forestales y apoyar a los bomberos, en coordinación con la Secretaría del Medio Ambiente y el Heroico Cuerpo de Bomberos, ambos del Distrito Federal.
+
 ###### Artículo 55.
 
 Los elementos de la Policía que hayan cumplido con el tiempo mínimo de permanencia que determine el ordenamiento respectivo, en una jerarquía o nivel, deberán participar en los sistemas de ascenso a que sean convocados. En caso de no haberlos aprobado hasta en tres oportunidades, dejarán de ser miembros de la carrera policial y causarán baja de la Policía.
@@ -1042,7 +1118,7 @@ Los elementos que rebasen la edad referida, se acogerán a los programas de reti
 
 QUINTO.- Por este único año, la Secretaría de Seguridad Pública del Distrito Federal, inmediato a la entrada en vigor del presente decreto, publicará en la Gaceta Oficial del Distrito Federal la lista de plazas disponibles para ascensos.
 
-g.O. 21 DE OCTUBRE DE 2008.
+G.O. 21 DE OCTUBRE DE 2008.
 
 DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 3°, FRACCION XIX Y 34, FRACCION IX DE LA LEY ORGANICA DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL.
 
@@ -1057,3 +1133,17 @@ DECRETO POR EL QUE SE ADICIONA UNA FRACCION VII, AL ARTICULO 62 DE LA LEY ORGANI
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO.- La presente reforma entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial para el Distrito Federal.
+
+G.O. 31 DE OCTUBRE DE 2008.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las presentes modificaciones de ley entrarán en vigor 90 días después de su publicación en la Gaceta Oficial para el Distrito Federal.
+
+TERCERO.- De conformidad con el artículo 39 de la Ley Orgánica de la Secretaría de Seguridad Pública del Distrito Federal, la Secretaria de Seguridad Pública denominará a los agrupamientos que cumplan con las nuevas especificaciones de esa ley, como "Policía ambiental" y que formarán parte de la Policía Metropolitana.
+
+...
+
+QUINTO.- La Secretaría de Seguridad Pública del Gobierno del Distrito Federal, establecerá la estructura administrativa, así como los recursos humanos y materiales necesarios para la creación del cuerpo de policía ambiental con los recursos adicionales que le sean autorizados.
