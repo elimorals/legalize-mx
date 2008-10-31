@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-ecologia-del-estado-48249"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-22"
-last_updated: "2007-01-23"
+last_updated: "2008-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48249&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ECOLOGIA DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2008.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el jueves 22 de diciembre de 2005.
 
@@ -267,7 +267,9 @@ Para el estudio, planeación, programación, ejecución y despacho de los asunto
 
 I.- Dirección General:
 
-a) Coordinación de Educación Ambiental;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+a) (DEROGADO, P.O. 31 DE OCTUBRE DE 2008)
 
 b) Coordinación de Relaciones Públicas y Comunicación Social; y
 
@@ -279,11 +281,21 @@ a) Coordinación de Áreas Naturales Protegidas; y
 
 b) Coordinación de Ordenamiento Ecológico y Programas Especiales.
 
-III.- Dirección de Mejoramiento Ambiental:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a) Coordinación de Impacto Ambiental;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
-b) Coordinación de Mejoramiento de la Calidad del Aire; y
+III.- Dirección de Impacto Ambiental y Manejo Integral de Residuos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+a) Coordinación de Impacto y Riesgo Ambiental;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+b) (DEROGADO, P.O. 31 DE OCTUBRE DE 2008)
 
 c) Coordinación de Manejo Integral de Residuos.
 
@@ -293,9 +305,19 @@ a) Coordinación de Normatividad Ambiental y Asesoría Jurídica; y
 
 b) Coordinación de Contratos, Convenios y de lo Contencioso.
 
-V.- Dirección de Vinculación y Seguimiento;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI.- Dirección de Planeación;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+V.- Dirección de Vinculación;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+VI.- Dirección de Planeación y Política Ambiental;
+
+a) Coordinación de Educación Ambiental;
 
 VII.- Dirección Administrativa:
 
@@ -304,6 +326,12 @@ a) Coordinación de Recursos Humanos;
 b) Coordinación de Recursos Financieros y Contabilidad; y
 
 c) Coordinación de Recursos Materiales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+VIII.- Dirección de Gestión de la Calidad del Aire.
 
 Asimismo, el Instituto podrá contar con las unidades administrativas que requieran las necesidades del servicio y permita su presupuesto.
 
@@ -501,9 +529,19 @@ IX.- Coadyuvar en la formulación y determinación de estrategias y lineamientos
 
 X.- Participar en los consejos y comités en materia de recursos naturales, ordenamiento ecológico del territorio e información geográfica y dar seguimiento a los acuerdos contraídos en los mismos;
 
-XI.- Dirigir, organizar y promover el desarrollo, manejo y actualización del Ordenamiento Ecológico del Territorio del Estado y del Sistema Estatal de Información Geográfica Ambiental, así como vincular las acciones necesarias con las instituciones y autoridades competentes para su mejor aprovechamiento; y
+XI.- Dirigir, organizar y promover el desarrollo, manejo y actualización del Ordenamiento Ecológico del Territorio del Estado y del Sistema Estatal de Información Geográfica Ambiental, así como vincular las acciones necesarias con las instituciones y autoridades competentes para su mejor aprovechamiento; y (sic)
 
-XII.- Dirigir y dictaminar los estudios técnicos tendientes al establecimiento de Normas Técnicas Ambientales, relacionadas con las materias de su competencia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+XII.- Dirigir y dictaminar los estudios técnicos tendientes al establecimiento de Normas Técnicas Ambientales, relacionadas con las materias de su competencia; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+XIII.- Impulsar y participar en proyectos que contribuyan a la captura de carbono.
 
 ###### Artículo 31.
 
@@ -561,81 +599,99 @@ VII.- Emitir opinión técnica en calidad de dictamen, en los asuntos relativos 
 
 VIII.- Las demás que le confieran el Director General del Instituto y el Director de Recursos Naturales.
 
-### CAPÍTULO SÉPTIMO. DE LA DIRECCIÓN DE MEJORAMIENTO AMBIENTAL
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+### CAPÍTULO SÉPTIMO. DE LA DIRECCIÓN DE IMPACTO AMBIENTAL Y MANEJO INTEGRAL DE RESIDUOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 34.
 
-La Dirección de Mejoramiento Ambiental tiene por función general prevenir y controlar la contaminación del ambiente en el Estado, a través del establecimiento de medidas de prevención, control y mitigación del impacto ambiental, así como la regulación de los procesos productivos en lo referente a emisiones contaminantes a la atmósfera y generación de residuos.
+La Dirección de Impacto Ambiental y Manejo Integral de Residuos tiene por función general prevenir, controlar y mitigar el impacto ambiental de las obras o actividades de competencia estatal y el deterioro ambiental producido por los residuos, a través del establecimiento de diferentes medidas y el fomento de su manejo integral.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 35.
 
-Para el desarrollo, trámite y atención de los asuntos de su competencia, el Director de Mejoramiento Ambiental tendrá las siguientes facultades:
+Para el desarrollo, trámite y atención de los asuntos de su competencia, el Director de Impacto Ambiental y Manejo Integral de Residuos tendrá las siguientes facultades:
 
-I.- Formular, establecer, actualizar y evaluar los programas para la prevención y control de la contaminación;
+l.- Formular, establecer, actualizar y evaluar los programas y estrategias para la conservación, protección y restauración de la calidad del suelo; así como la prevención y control de la contaminación en materia de residuos;
 
 II.- Evaluar y actualizar las políticas ambientales en materia de impacto y riesgo ambiental;
 
-III.- Dirigir y coordinar la evaluación y dictaminación de los estudios de impacto y riesgo ambiental, así como los procesos para determinar la procedencia o no, de la expedición de registros, autorizaciones y licencias solicitadas al Instituto, de conformidad con lo establecido en la Ley Ambiental y en la Ley de Residuos, en las siguientes materias:
+III.- Dirigir y coordinar la evaluación y dictaminación de los estudios de impacto y riesgo ambiental, así como los procesos para determinar la procedencia o no, de la expedición de registros y autorizaciones solicitadas al Instituto, de conformidad con lo establecido en la Ley Ambiental y en la Ley de Residuos en las siguientes materias:
 
-a) Impacto Ambiental;
+a) Impacto Ambiental; y
 
-b) Licencias Ambientales de Funcionamiento para fuentes fijas de jurisdicción estatal y sus re-licenciamientos;
+b) Manejo integral de residuos de manejo especial y, en su caso, manejo integral de residuos peligrosos, de conformidad con lo establecido en la fracción XVI del artículo 8 de la Ley de Residuos;
 
-c) Establecimiento y funcionamiento de centros de verificación vehicular;
+IV.- Promover la restauración de sitios explotados, como bancos de materiales pétreos;
 
-d) Manejo integral de residuos de manejo especial y, en su caso, manejo integral de residuos peligrosos, de conformidad con lo establecido en la fracción XVI del artículo 8 de la Ley de Residuos; y
+V.- Coordinar y dar seguimiento al trámite integral para la expedición de las licencias ambientales competencia del Instituto;
 
-e) Padrón de Prestadores de Servicios Ambientales.
+VI.- Promover programas de prevención y gestión integral de residuos sólidos urbanos;
 
-IV.- Definir los lineamientos generales para el establecimiento, operación y actualización del Registro de Fuentes, Emisiones y Transferencia de Contaminantes, Sistema de Información de la Calidad del Aire, Inventario Estatal de Emisiones a la Atmósfera, Programas para el Mejoramiento de la Calidad del Aire y de Monitoreo Atmosférico;
+VII.- Determinar los indicadores que permitan evaluar la aplicación y eficacia de la Ley de Residuos;
 
-V.- Establecer los criterios técnicos de operación de la Red Estatal de Monitoreo Atmosférico;
+VIII.- Promover el establecimiento y aplicación de instrumentos económicos, fiscales, financieros y de mercado para la prevención de la generación de residuos, su valorización y su gestión integral;
 
-VI.- Elaborar con apoyo de la Dirección de Asuntos Jurídicos el Programa Estatal de Verificación Vehicular;
+IX.- Dirigir la realización de los diagnósticos básicos de residuos, así como el establecimiento y operación de sistemas de monitoreo de la calidad del suelo en coordinación con autoridades federales, estatales y municipales, organismos no gubernamentales e instituciones educativas;
 
-VII.- Determinar las especificaciones técnicas para la adquisición de certificados con calcomanía holográfica adherida para el Programa Estatal de Verificación Vehicular;
+X.- Formular, promover, evaluar y actualizar el Programa Estatal para la Prevención y Gestión Integral de los Residuos y el Programa para la Prevención y Gestión Integral de Residuos de Manejo Especial conforme a las disposiciones establecidas en la Ley de Residuos;
 
-VIII.- Promover programas de prevención y gestión integral de residuos sólidos urbanos;
+XI.- Coordinar el establecimiento, operación y actualización del Registro de Planes de Manejo de Residuos de Manejo Especial y el Padrón de Empresas de Servicios de Manejo;
 
-IX.- Determinar los indicadores que permitan evaluar la aplicación y eficacia de la Ley de Residuos;
+XII.- Coordinar y validar los estudios y proyectos de obras de infraestructura para el manejo integral de residuos sólidos urbanos y de manejo especial;
 
-X.- Promover el establecimiento y aplicación de instrumentos económicos, fiscales, financieros y de mercado para la prevención de la generación de residuos, su valorización y su gestión integral;
+XIII.- Autorizar los dictámenes, relativos al diseño, construcción, operación y cierre de estaciones de transferencia, plantas de selección y tratamiento y sitios de disposición final de residuos;
 
-XI.- Dirigir la realización de los diagnósticos básicos de residuos;
+XIV.- Coordinar las acciones de asesoría técnica y colaboración institucional en materia de prevención y control de la contaminación por residuos;
 
-XII.- Formular, promover, evaluar y actualizar el Programa Estatal para la Prevención y Gestión Integral de los Residuos y el Programa para la Prevención y Gestión Integral de Residuos de Manejo Especial, conforme a las disposiciones establecidas en la Ley de Residuos;
+XV.- Supervisar el proceso de consulta pública en torno a los proyectos que se sometan al procedimiento de evaluación de impacto ambiental, de conformidad con las disposiciones jurídicas aplicables;
 
-XIII.- Coordinar el establecimiento, operación y actualización del Registro de Planes de Manejo de Residuos de Manejo Especial y el Padrón de Empresas de Servicios de Manejo;
+XVI.- Dirigir y dictaminar los estudios técnicos tendientes al establecimiento de Normas Técnicas Ambientales, relacionadas con el manejo de residuos y el impacto ambiental en las materias de su competencia; y
 
-XIV.- Coordinar y validar los estudios y proyectos de obras de infraestructura para el manejo integral de residuos sólidos urbanos y de manejo especial;
+XVII.- Impulsar y participar en proyectos que contribuyan a la reducción de emisiones de gases de efecto invernadero.
 
-XV.- Emitir opinión técnica en calidad de dictamen, relativa al diseño, construcción, operación y cierre de estaciones de transferencia, plantas de selección y tratamiento y sitios de disposición final de residuos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XVI.- Formular y evaluar los sistemas de manejo ambiental de la Administración Pública Estatal;
-
-XVII.- Coordinar las acciones de asesoría técnica y colaboración institucional en materia de prevención y control de la contaminación y del deterioro ambiental;
-
-XVIII.- Coadyuvar en la formulación y determinación de estrategias y lineamientos para prevenir y controlar contingencias ambientales;
-
-XIX.- Promover el uso de combustibles menos contaminantes en las fuentes fijas y móviles de jurisdicción estatal; y
-
-XX.- Dirigir y dictaminar los estudios técnicos tendientes al establecimiento de Normas Técnicas Ambientales, relacionadas con la prevención y control de la contaminación y el deterioro ambiental en las materias de su competencia.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 36.
 
-La Dirección de Mejoramiento Ambiental deberá planear, apoyar, dirigir, coordinar y supervisar el trabajo de las siguientes coordinaciones:
+La Dirección de Impacto Ambiental y Manejo Integral de Residuos deberá planear, apoyar dirigir, coordinar y supervisar el trabajo de las siguientes coordinaciones:
 
-I.- Coordinación de Impacto Ambiental;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Coordinación de Mejoramiento de la Calidad del Aire; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+I.- Coordinación de Impacto y Riesgo Ambiental;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+II.- (DEROGADA, P.O. 31 DE OCTUBRE DE 2008)
 
 III.- Coordinación de Manejo Integral de Residuos.
 
-#### SECCIÓN PRIMERA. COORDINACIÓN DE IMPACTO AMBIENTAL
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+#### SECCIÓN PRIMERA. COORDINACIÓN DE IMPACTO Y RIESGO AMBIENTAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 37.
 
-La Coordinación de Impacto Ambiental tendrá, a través de su Coordinador, las siguientes facultades:
+La Coordinación de Impacto y Riesgo Ambiental tendrá, a través de su Coordinador, las siguientes facultades:
 
 I.- Evaluar y emitir dictamen técnico para efectos de resolución, de los estudios de impacto y riesgo ambiental, que se presenten al Instituto, de conformidad con las disposiciones aplicables de la Ley Ambiental y su Reglamento en materia de evaluación del impacto ambiental;
 
@@ -653,7 +709,9 @@ VII.- Establecer procesos de definición y controles de cumplimiento de las cond
 
 VIII.- Realizar los estudios técnicos necesarios para la determinación de las obras y actividades que no requieren someterse al proceso de evaluación de impacto ambiental, de acuerdo a la normatividad ambiental vigente;
 
-IX.- Coordinar el funcionamiento y actualización del Padrón de Prestadores de Servicios Ambientales y dar trámite a las solicitudes de los particulares para su inscripción en el mismo, observando lo dispuesto en la normatividad aplicable;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+IX.- (DEROGADA, P.O. 31 DE OCTUBRE DE 2008)
 
 X.- Compilar y mantener actualizada la información relativa a los dictámenes y resoluciones emitidos con motivo de la evaluación de las manifestaciones de impacto ambiental y los estudios de riesgo;
 
@@ -665,51 +723,19 @@ XIII.- Promover, coordinar y asesorar en la regeneración y control de la erosi�
 
 XIV.- Elaborar y actualizar el inventario de bancos de material pétreo existentes en el Estado; y
 
-XV.- Las demás que le confieran el Director General del Instituto y el Director de Mejoramiento Ambiental.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+XV.- Las demás que le confieran el Director General del Instituto y el Director de Impacto Ambiental y Manejo Integral de Residuos.
 
 #### SECCIÓN SEGUNDA. COORDINACIÓN DE MEJORAMIENTO DE LA CALIDAD DEL AIRE
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 ###### Artículo 38.
 
-La Coordinación de Mejoramiento de Calidad del Aire tendrá, a través de su Coordinador, las siguientes facultades:
-
-I.- Establecer, operar y actualizar el Registro de Fuentes, Emisiones y Transferencia de Contaminantes, Sistema de Información de la Calidad del Aire, Inventario Estatal de Emisiones a la Atmósfera, así como los Programas para el Mejoramiento de la Calidad del Aire y de Monitoreo Atmosférico del Estado;
-
-II.- Coordinar la elaboración e implementación en el Estado de programas para el mejoramiento de la calidad del aire, así como promover la participación de dependencias y organismos en estas acciones;
-
-III.- Participar en el diseño, establecimiento y actualización de los programas de contingencias ambientales atmosféricas, y dictaminar la inclusión o exención de las fuentes fijas de jurisdicción estatal en dichos programas;
-
-IV.- Coordinar la operación de la Red Estatal de Monitoreo Atmosférico y difundir la información de programas y acciones relativos a la calidad del aire;
-
-V.- Validar y difundir a través de reportes de calidad del aire, la información generada por la Red Estatal de Monitoreo Atmosférico;
-
-VI.- Elaborar, implementar y evaluar los programas anuales de operación y mantenimiento de los equipos que conforman la Red Estatal de Monitoreo Atmosférico;
-
-VII.- Tramitar toda solicitud que presenten los particulares a fin de obtener la autorización para el establecimiento y operación de centros de verificación vehicular, o bien la Licencia Ambiental de Funcionamiento para fuentes fijas de jurisdicción estatal y su correspondiente re-licenciamiento para lo cual deberá:
-
-a) Evaluar y emitir dictamen técnico para efectos de resolución de las solicitudes que se le turnen para atención;
-
-b) Integrar y controlar los expedientes respectivos; y
-
-c) Generar los proyectos de resolución, solicitando las asesorías administrativas y jurídicas que considere necesarias.
-
-VIII.- Analizar, registrar y controlar la información que se presente al Instituto, a través de las Cédulas de Operación Anual;
-
-IX.- Proporcionar los datos estadísticos e información relativa a los asuntos de su competencia para que se generen informes y programas de educación y capacitación ambiental;
-
-X.- Coadyuvar en la elaboración del Programa Estatal de Verificación Vehicular;
-
-XI.- Elaborar informes mensuales y anuales de las verificaciones realizadas en los distintos centros de verificación vehicular autorizados en el Estado;
-
-XII.- Difundir, en coordinación con los Municipios y los Centros de Verificación Vehicular autorizados, el Programa Estatal de Verificación Vehicular para su adecuado cumplimiento;
-
-XIII.- Asesorar a los Municipios, que así lo soliciten, para la operación del Programa Estatal de Verificación Vehicular;
-
-XIV.- Generar y promover acciones de capacitación y actualización para técnicos de verificación vehicular;
-
-XV.- Coordinar conjuntamente con la Coordinación de Recursos Materiales, los lineamientos generales de la convocatoria para licitar en concurso la adquisición de certificados con calcomanía holográfica adherida para el Programa Estatal de Verificación Vehicular; y
-
-XVI.- Las demás que le confieran el Director General del Instituto y el Director de Mejoramiento Ambiental.
+(DEROGADO, P.O. 31 DE OCTUBRE DE 2008)
 
 #### SECCIÓN TERCERA. COORDINACIÓN DE MANEJO INTEGRAL DE RESIDUOS
 
@@ -735,11 +761,25 @@ VIII.- Realizar visitas técnicas con motivo de las solicitudes de autorización
 
 IX.- Generar los proyectos de resolución de las solicitudes de autorización para el manejo integral de residuos de manejo especial, solicitando las asesorías administrativas y jurídicas que considere necesarias;
 
-X.- Coordinar y dar seguimiento a la implementación de los sistemas de manejo ambiental de la Administración Pública Estatal, efectuando las acciones necesarias para tal efecto;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XI.- Promover, coordinar y asesorar en la remediación y control de sitios contaminados por residuos; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2008)</small>
 
-XII.- Las demás que le confieran el Director General del Instituto y el Director de Mejoramiento Ambiental.
+X.- Coadyuvar con los municipios en la formulación, evaluación, implementación y actualización del Programa para la Prevención y Gestión Integral de Residuos Sólidos Urbanos;
+
+XI.- Promover, coordinar y asesorar en la remediación y control de sitios contaminados por residuos; y (sic)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+XII.- Proponer y evaluar tecnologías alternativas para la gestión integral de los residuos sólidos urbanos y de manejo especial; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+XIII.- Las demás que le confieran el Director General del Instituto y el Director de Impacto Ambiental y Manejo Integral de Residuos.
 
 ### CAPÍTULO OCTAVO. DE LA DIRECCIÓN DE ASUNTOS JURÍDICOS
 
@@ -823,47 +863,69 @@ VII.- Coadyuvar con las unidades administrativas de la Dirección de Asuntos Jur
 
 VIII.- Las demás que le confieran el Director General del Instituto y el Director de Asuntos Jurídicos.
 
-### CAPÍTULO NOVENO. DE LA DIRECCIÓN DE VINCULACIÓN Y SEGUIMIENTO
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMAD SU DENOMINACION, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+### CAPÍTULO NOVENO. DE LA DIRECCIÓN DE VINCULACIÓN
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 45.
 
-La Dirección de Vinculación y Seguimiento tiene por función general atender y dar seguimiento a los asuntos y compromisos del Instituto para que tengan la celeridad adecuada, de tal forma que se responda eficazmente a los requerimientos sociales, administrativos y judiciales y en general, todo lo relacionado con sus fines y objetivos.
+La Dirección de Vinculación tiene por función general establecer el enlace entre el Instituto con los sectores público, privado y social, para impulsar la gestión ambiental coordinada.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 46.
 
-Para el desarrollo, trámite y atención de los asuntos de su competencia, el Director de Vinculación y Seguimiento tendrá las siguientes facultades:
+Para el desarrollo, trámite y atención de los asuntos de su competencia, el Director de Vinculación tendrá las siguientes facultades:
 
-I.- Establecer vinculación con diversas instituciones y organizaciones de apoyo técnico y financiero, tanto nacionales como internacionales para el desarrollo de proyectos institucionales;
+I.- Promover la participación social en las acciones y medidas de protección al ambiente y en el aprovechamiento sustentable de los recursos naturales;
 
-II.- Promover acuerdos interinstitucionales con la Federación, Estados y Municipios para dar atención a problemas ambientales concretos en el Estado;
+II.- Establecer vinculación con diversas instituciones y organizaciones de apoyo técnico y financiero, tanto nacionales como internacionales para el desarrollo de proyectos Institucionales y, en su caso, solicitar y obtener el financiamiento correspondiente;
 
-III.- Realizar acciones interinstitucionales con los sectores público, privado y social para atender sus demandas en programas relacionados con el medio ambiente;
+III.- Promover acuerdos interinstitucionales con la Federación, estados y municipios para prevenir y dar atención a problemas ambientales concretos en el Estado;
 
-IV.- Fungir como unidad de enlace con la Unidad de Acceso a la Información Pública del Poder Ejecutivo de conformidad con la normatividad aplicable;
+IV.- Fungir como enlace para la promoción y el fortalecimiento de la coordinación con los municipios en lo relativo a la gestión ambiental;
 
-V.- Dar seguimiento a los asuntos que se tramiten ante el Instituto a efecto de que los mismos sean resueltos en tiempo y forma;
+V.- Dar trámite a las solicitudes o inquietudes de los sectores público, privado y social relacionadas con el medio ambiente, atendiéndolas o canalizándolas a la instancia competente;
 
-VI.- Fungir como enlace en la Comisión Gubernamental de Interacción con Municipios en materia ambiental;
+VI.- Fungir como unidad de enlace con la Unidad de Acceso a la Información Pública del Poder Ejecutivo de conformidad con la normatividad aplicable.
 
-VII.- Coordinar acciones encaminadas al desarrollo de políticas ambientales a través de la Unidad de Medio Ambiente con enlaces gubernamentales, municipales y federales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VIII.- Coordinar los eventos especiales que lleve a cabo el Instituto o en los que forme parte, en colaboración con otras dependencias; y
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE OCTUBRE DE 2008)</small>
 
-IX.- Apoyar y dar seguimiento a programas en vinculación con instituciones de apoyo social.
+### CAPÍTULO DÉCIMO. DE LA DIRECCIÓN DE PLANEACIÓN Y POLÍTICA AMBIENTAL
 
-### CAPÍTULO DÉCIMO. DE LA DIRECCIÓN DE PLANEACIÓN
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 47.
 
-La Dirección de Planeación tiene por función general desarrollar elementos que permitan la planeación ambiental continua y la evaluación de las políticas ambientales instrumentadas a través de la reacción de mecanismos técnicos y de coordinación entre diversos sectores de la sociedad y el Gobierno.
+La Dirección de Planeación y Política Ambiental tiene por función general desarrollar elementos que permitan la planeación ambiental continua y la evaluación de las políticas ambientales instrumentadas a través de la creación de mecanismos técnicos y de coordinación entre diversos sectores de la sociedad y el gobierno.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 48.
 
-Para el desarrollo, trámite y atención de los asuntos de su competencia, el Director de Planeación tendrá las siguientes facultades:
+Para el desarrollo, trámite y atención de los asuntos de su competencia, el Director de Planeación y Política Ambiental tendrá las siguientes facultades:
 
 I.- Definir, desarrollar e implementar los planes estratégicos y operativos del Instituto, congruentes a su objeto y al Plan de Gobierno;
 
-II.- Evaluar, dar seguimiento y reportar los avances institucionales con relación al cumplimiento de objetivos y metas del Plan de Gobierno y el Programa Sectorial;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+II.- Evaluar, dar seguimiento y reportar los avances institucionales con relación al cumplimiento de objetivos y metas contemplados en el Plan de Gobierno, Programa Sectorial, Programa Institucional y el Programa Especial de Cambio Climático;
 
 III.- Definir, desarrollar y promover la instrumentación de nuevos proyectos en el Instituto, a propuesta de las demás Direcciones;
 
@@ -881,11 +943,87 @@ IX.- Diseñar estrategias de funcionamiento de la estructura organizacional para
 
 X.- Diseñar e instrumentar estrategias para el desarrollo y fortalecimiento integral del Instituto;
 
-XI.- Diseñar y establecer los criterios, procedimientos y controles necesarios que permitan la implementación de los sistemas de manejo ambiental; y
+XI.- Diseñar y establecer los criterios, procedimientos y controles necesarios que permitan la implementación de los sistemas de manejo ambiental; y (sic)
 
-XII.- Participar en el diseño de la política ambiental en materia de estímulos e incentivos y proponer la creación de instrumentos económicos para el control de la contaminación ambiental del Estado.
+XII.- Participar en el diseño de la política ambiental en materia de estímulos e incentivos y proponer la creación de instrumentos económicos para el control de la contaminación ambiental del Estado;
 
-#### SECCIÓN PRIMERA. COORDINACIÓN DE RECURSOS HUMANOS
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+XIII.- Coadyuvar en la elaboración de los programas de educación y capacitación ambiental dirigidos a todos los sectores de la sociedad, enfocados al cuidado del ambiente y la promoción de la concientización ambiental;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+XIV.- Coordinar el funcionamiento y actualización del Padrón de Prestadores de Servicios Ambientales y dar trámite a las solicitudes de los particulares para su inscripción en el mismo, observando lo dispuesto en la normatividad aplicable;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+XV.- Coordinar las acciones de mitigación y adaptación al cambio climático que le corresponden al Instituto, así como las de asesoría técnica y de colaboración institucional en esta materia; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+XVI.- Dar seguimiento a los acuerdos tomados en los comités, consejos y comisiones en los que participe el Instituto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O 31 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 48 Bis.
+
+La Dirección de Planeación y Política Ambiental deberá planear, apoyar, dirigir, coordinar y supervisar el trabajo de la Coordinación de Educación Ambiental.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+#### SECCIÓN ÚNICA. COORDINACIÓN DE EDUCACIÓN AMBIENTAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 48 Ter.
+
+La Coordinación de Educación Ambiental tendrá, a través de su Coordinador, las siguientes facultades:
+
+I.- Diseñar, instrumentar, actualizar y dar seguimiento a los programas de educación y capacitación ambiental;
+
+II.- Organizar y sistematizar la información proporcionada por las unidades administrativas del Instituto y demás instituciones, para la elaboración de los programas de educación ambiental;
+
+III.- Apoyar en los proyectos y programas Institucionales, en los que se requiera concienciar a la población a favor del ambiente;
+
+IV.- Colaborar con grupos, consejos y comités para el desarrollo de proyectos en materia de educación ambiental;
+
+V.- Proporcionar capacitación e información ambiental a los grupos sociales que así lo soliciten, en coordinación con las áreas correspondientes;
+
+VI.- Sistematizar y administrar el Centro de Información Ambiental del Instituto,
+
+VII.- Diseñar, proyectar y distribuir el material didáctico que proporcione la información orientada al fortalecimiento de la educación ambiental;
+
+VIII.- Promover la creación de centros regionales de Competitividad Ambiental en la entidad, así como gestionar los apoyos financieros necesarios para su operación y administración;
+
+IX.- Diseñar, coordinar y dar seguimiento a las estrategias y acciones para el manejo, operación y administración de los centros regionales de Competitividad Ambiental;
+
+X.- Coadyuvar con la Coordinación de Relaciones Públicas y Comunicación Social en el diseño de materiales de difusión para promover la educación, capacitación y concientización ambiental;
+
+XI.- Realizar diagnósticos de necesidades de capacitación y asesoría ambiental para los sectores prioritarios del Estado;
+
+XII.- Diseñar, promover y organizar eventos de capacitación y educación ambiental para los diferentes sectores;
+
+XIII.- Llevar a cabo las evaluaciones de los cursos y eventos organizados por el Instituto, así como el análisis de los resultados obtenidos para su mejora continua;
+
+XIV.- Coordinarse con las diferentes áreas administrativas del Instituto para atender sus necesidades de educación y capacitación en materia de medio ambiente, así como proponer cursos y programas y darles seguimiento;
+
+XV.- Integrar y mantener actualizado el acervo documental, audiovisual y hemerográfico del Instituto; y
+
+XVI.- Las demás que le confiera el Director General del Instituto y el Director de Planeación y Política Ambiental.
 
 ### CAPÍTULO DÉCIMO PRIMERO. DE LA DIRECCIÓN ADMINISTRATIVA
 
@@ -929,7 +1067,7 @@ II.- Coordinación de Recursos Financieros y Contabilidad; y
 
 III.- Coordinación de Recursos Materiales.
 
-#### SECCIÓN SEGUNDA. COORDINACIÓN DE RECURSOS FINANCIEROS Y CONTABILIDAD
+#### SECCIÓN PRIMERA. COORDINACIÓN DE RECURSOS HUMANOS
 
 ###### Artículo 52.
 
@@ -961,7 +1099,7 @@ XII.- Proporcionar asesoría y apoyo en materia de prestaciones y servicios al p
 
 XIII.- Las demás que le confieran el Director General del Instituto y el Director Administrativo.
 
-#### SECCIÓN TERCERA. COORDINACIÓN DE RECURSOS MATERIALES
+#### SECCIÓN SEGUNDA. COORDINACIÓN DE RECURSOS FINANCIEROS Y CONTABILIDAD
 
 ###### Artículo 53.
 
@@ -999,7 +1137,7 @@ XV.- Elaborar las solicitudes mensuales de ministración de recursos de los subs
 
 XVI.- Las demás que le confieran el Director General del Instituto y el Director Administrativo.
 
-#### SECCIÓN PRIMERA. RELACIONES LABORALES
+#### SECCIÓN TERCERA. COORDINACIÓN DE RECURSOS MATERIALES
 
 ###### Artículo 54.
 
@@ -1023,43 +1161,81 @@ VIII.- Prestar a todas las unidades administrativas del Instituto los servicios 
 
 IX.- Las demás que le confieran el Director General del Instituto y el Director Administrativo.
 
-### CAPÍTULO DÉCIMO SEGUNDO. DE LA COORDINACIÓN DE EDUCACIÓN AMBIENTAL
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE OCTUBRE DE 2008)</small>
+
+### CAPÍTULO DÉCIMO SEGUNDO. DE LA DIRECCIÓN DE GESTIÓN DE LA CALIDAD DEL AIRE
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 55.
 
-La Coordinación de Educación Ambiental estará adscrita a la Dirección General del Instituto y tendrá por función general el desarrollo de la educación ambiental en el Estado, así como fomentar la capacitación en todos los sectores de la sociedad en el cuidado del ambiente y promover la concientización ambiental.
+La Dirección de Gestión de la Calidad del Aire tendrá por función general diseñar e implementar diferentes medidas para prevenir, controlar y mitigar la contaminación atmosférica en el Estado, así como coadyuvar al impulso de acciones de mitigación y adaptación al cambio climático.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 56.
 
-La Coordinación de Educación Ambiental tendrá, a través de su Coordinador, las siguientes facultades:
+Para el desarrollo, trámite y atención de los asuntos de su competencia, el Director de Gestión de la Calidad del Aire tendrá las siguientes facultades:
 
-I.- Diseñar, instrumentar, actualizar y dar seguimiento a los programas de educación y capacitación ambiental;
+l.- Formular, establecer, actualizar y evaluar estrategias para la prevención y control de la contaminación atmosférica generada por fuentes fijas y móviles;
 
-II.- Organizar y sistematizar la información proporcionada por las unidades administrativas del Instituto y demás instituciones, para la elaboración de los programas de educación ambiental;
+II.- Proporcionar los elementos técnicos para el diseño y aplicación de las políticas ambientales en materia de prevención y control de la contaminación atmosférica y la emisión de gases de efecto invernadero;
 
-III.- Apoyar en los proyectos y programas institucionales, en los que se requiera concienciar a la población a favor del ambiente;
+III.- Llevar a cabo la gestión en la prevención y control de la contaminación originada por la emisión de ruidos, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales al equilibrio ecológico o al ambiente, proveniente de fuentes fijas que funcionen como establecimientos industriales, así como en su caso de fuentes móviles que no sean de competencia federal;
 
-IV.- Colaborar con grupos, consejos y comités para el desarrollo de proyectos en materia de educación ambiental;
+IV.- Integrar, establecer y actualizar el Registro de Emisiones y Transferencia de Contaminantes al Aire;
 
-V.- Proporcionar capacitación e información ambiental a los grupos sociales que así lo soliciten, en coordinación con las áreas correspondientes;
+V.- Integrar, establecer y actualizar el Registro de Fuentes Fijas de Emisiones de competencia estatal;
 
-VI.- Sistematizar y administrar el Centro de Información Ambiental del Instituto;
+VI.- Establecer y mantener actualizados los inventarios de emisiones a la atmósfera e Inventario de Gases de Efecto Invernadero del Estado;
 
-VII.- Diseñar, proyectar y distribuir el material didáctico que proporcione la información orientada al fortalecimiento de la educación ambiental;
+VII.-Definir los lineamientos generales para el establecimiento, operación y actualización de la Red Estatal de Monitoreo Atmosférico;
 
-VIII.- Promover la creación de Centros Regionales de Competitividad Ambiental en la Entidad, así como gestionar los apoyos financieros necesarios para su operación y administración;
+VIII.- Definir los lineamientos generales para el establecimiento, operación y actualización del Sistema de Información de la Calidad del Aire;
 
-IX.- Diseñar, coordinar y dar seguimiento a las estrategias y acciones para el manejo, operación y administración de los Centros Regionales de Competitividad Ambiental;
+IX.- Gestionar e impulsar la elaboración e implementación en el Estado de programas para mejorar la calidad del aire, así como promover la participación en estos programas del sector público, privado y organismos de la sociedad civil;
 
-X.- Coadyuvar con la Coordinación de Relaciones Públicas y Comunicación Social en el diseño de materiales de difusión para promover la educación, capacitación y concientización ambiental;
+X.- Diseñar, establecer y actualizar los programas de contingencias ambientales atmosféricas;
 
-XI.- Realizar diagnósticos de necesidades de capacitación y asesoría ambiental para los sectores prioritarios del Estado;
+XI.- Dirigir y coordinar la expedición de registros, autorizaciones y licencias solicitadas al Instituto, de conformidad con lo establecido en la legislación ambiental, en materia de:
 
-XII.- Diseñar, promover y organizar eventos de capacitación y educación ambiental para los diferentes sectores;
+a) Licencias Ambientales de Funcionamiento para fuentes fijas de jurisdicción estatal; y
 
-XIII.- Llevar a cabo las evaluaciones de los cursos y eventos organizados por el Instituto, así como el análisis de los resultados obtenidos para su mejora continua; y
+b) Establecimiento y funcionamiento de centros de verificación vehicular;
 
-XIV.- Las demás que le confiera el Director General del Instituto.
+XII.- Elaborar, con apoyo de la Dirección de Asuntos Jurídicos, el Programa Estatal de Verificación Vehicular;
+
+XIII.- Establecer los lineamientos generales de la convocatoria para licitar en concurso la adquisición de certificados de calcomanía holográfica adherida para el Programa Estatal de Verificación Vehicular;
+
+XIV.- Elaborar informes mensuales y anuales de las verificaciones realizadas en los distintos centros de verificación vehicular autorizados en el Estado;
+
+XV.- Difundir el Programa Estatal de Verificación Vehicular, en coordinación con los municipios y los centros de verificación vehicular autorizados, para su adecuado cumplimiento;
+
+XVI.- Asesorar a los municipios que así lo soliciten para la operación del Programa Estatal de Verificación Vehicular;
+
+XVII.- Generar y promover acciones de capacitación y actualización para técnicos de verificación vehicular;
+
+XVIII.- Coordinar las acciones de asesoría técnica y colaboración institucional en materia de prevención y control de la contaminación atmosférica;
+
+XIX.- Participar en el diseño de instrumentos económicos aplicables a la gestión de la calidad del aire, en coordinación con la Dirección de Planeación y Política Ambiental;
+
+XX.- Promover, conjuntamente con la Coordinación de Relaciones Públicas y Comunicación Social el uso de combustibles menos contaminantes en las fuentes fijas y móviles de jurisdicción estatal;
+
+XXI.- Impulsar, participar y coordinar proyectos de reducción de emisiones de gases de efecto invernadero;
+
+XXII.- Evaluar los beneficios de la reducción de gases de efecto invernadero, proporcionando los elementos técnicos;
+
+XXIII.- Difundir la información de programas y acciones relativos a la calidad del aire;
+
+XXIV.- Analizar, registrar y controlar la información que se presente al Instituto a través de la Cédula de Operación Anual; y
+
+XXV.- Proporcionar los datos estadísticos e información relativa a los asuntos de su competencia para que se generen informes y programas de educación y capacitación ambiental.
 
 ### CAPÍTULO DÉCIMO TERCERO. DE LA COORDINACIÓN DE RELACIONES PÚBLICAS Y COMUNICACIÓN SOCIAL
 
@@ -1129,11 +1305,13 @@ El Consejo Consultivo Ambiental Estatal participará en el proceso de planeació
 
 ### CAPÍTULO DÉCIMO SEXTO. DE LAS RELACIONES LABORALES, LICENCIAS Y SUPLENCIAS
 
-#### SECCIÓN SEGUNDA. LICENCIAS Y SUPLENCIAS
+#### SECCIÓN PRIMERA. RELACIONES LABORALES
 
 ###### Artículo 62.
 
 Las relaciones laborales entre el Instituto y sus trabajadores, se regirán de conformidad con la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios.
+
+#### SECCIÓN SEGUNDA. LICENCIAS Y SUPLENCIAS
 
 ###### Artículo 63.
 
@@ -1161,10 +1339,14 @@ EL SECRETARIO DE DESARROLLO ECONÓMICO SUSTENTABLE
 
 HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
 
 P.O. 23 DE ENERO DE 2007.
 
 Artículo Primero.- El presente Decreto Gubernativo entrará en vigencia el primero de febrero de 2007 dos mil siete.
 
 Artículo Segundo.- Las promociones para la obtención de autorizaciones, licencias y registros iniciados por los particulares ante el Instituto de Ecología del Estado antes de la entrada en vigencia del presente decreto, serán tramitados y concluidos en la ciudad de Salamanca.
+
+P.O. 31 DE OCTUBRE DE 2008.
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
