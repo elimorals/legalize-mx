@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-fomentar-la-donacion-altruista-en-materia-12166"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-06"
-last_updated: "1998-02-06"
+last_updated: "2008-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA FOMENTAR LA DONACION ALTRUISTA EN MATERIA ALIMENTARIA EN EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 6 de febrero de 1998.
 
@@ -39,17 +39,25 @@ LEY PARA FOMENTAR LA DONACION ALTRUISTA EN MATERIA ALIMENTARIA EN EL ESTADO DE B
 
 ### CAPITULO I. DEL OBJETO
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+
 ###### ARTICULO 1º.
 
-Las disposiciones de esta ley son de interés público y social. Tienen por objeto impulsar las acciones altruistas tendientes a coadyuvar en la satisfacción de las necesidades alimentarias de los individuos que no cuentan con los medios mínimos para satisfacer sus necesidades elementales.
+Las disposiciones de esta ley son de orden público e interés social y tienen por objeto fomentar la donación de alimentos, dinero, especie o servicios con fines alimentarios, para coadyuvar en la satisfacción de las necesidades alimentarias de la población que no cuente con los medios económicos suficientes para atender plenamente sus requerimientos elementales de subsistencia.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 2º.
 
-Queda prohibido en Baja California, el desperdicio en cantidades industriales de productos alimenticios, cuando éstos sean susceptibles de donación para su aprovechamiento altruista por alguna institución de beneficencia privada reconocida por las autoridades competentes.
+En el Estado de Baja California queda prohibido el desperdicio de alimentos, cuando éstos sean susceptibles de aprovechamiento por alguna institución de beneficencia, reconocida por las autoridades competentes.
+
+Se consideran susceptibles de aprovechamiento aquellos alimentos que, siendo inútiles para su dueño, se encuentren en condiciones aptas para el consumo humano, conforme a los ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 3º.
 
-Quedan relevados de toda responsabilidad los donantes a que se refiere el artículo 4º de este ordenamiento, que entreguen o distribuyan sin dolo o mala fe, alimentos para el consumo humano que resulten dañinos para la salud.
+Para los efectos de esta Ley, se considera desperdicio de alimentos susceptibles de aprovechamiento, el desecho de piezas que en su conjunto sobrepasen los cien kilogramos de peso.
 
 ### CAPITULO II. DE LAS DEFINICIONES
 
@@ -137,13 +145,27 @@ Los actos y contratos celebrados por las instituciones debidamente constituidas 
 
 ### CAPITULO V. ATRIBUCIONES DEL DIF
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+
 ###### ARTICULO 16º.
 
-El DIF como organismo rector de la Asistencia Social en el Estado de Baja California, será el encargado de gestionar ante autoridades federales y estatales la creación de las condiciones más favorables para que productores, industriales o cualquier persona física o moral reciban estímulos fiscales y sus donativos altruistas sean deducibles en los términos de la ley de la materia, incentivando esta práctica en nuestra Entidad, asimismo sugerirá y en su caso prestará la asesoría legal y contable a las instituciones que lo requieran, para alcanzar los objetivos de esta Ley.
+El DIF como organismo rector de la asistencia social en el Estado de Baja California deberá:
+
+I.- Gestionar ante las autoridades federales y estatales estímulos fiscales para los donantes de alimentos;
+
+II.- Promover la participación activa de los medios de comunicación en la difusión de donaciones altruistas de alimentos;
+
+III.- Realizar campañas permanentes para motivar a la ciudadanía a que se involucre en la donación de alimentos y evite su desperdicio;
+
+IV.- Entregar anualmente un reconocimiento público a los donantes que se hayan distinguido por sus contribuciones; y,
+
+V.- Establecer y fomentar los vínculos entre donante y donatario para hacer efectivo y permanente el suministro de alimentos, minimizando los gastos que se originen por tal motivo.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 17º.
 
-Se promoverá la participación activa de los medios de comunicación tendientes a llevar a cabo campañas que promocionen y concienticen a los ciudadanos, productores y empresarios sobre los beneficios que conlleva realizar donaciones de alimentos y recursos con la finalidad de satisfacer las necesidades más elementales de los individuos pertenecientes a las clases sociales menos favorecidas, correspondiendo al DIF junto con las Instituciones Privadas de Asistencia Social realizar campañas permanentes de sensibilidad en un afán de abatir esta problemática social.
+El DIF elaborará y mantendrá actualizado un padrón que comprenderá a los posibles donantes y a las Instituciones, mismo que les será entregado a ambos a efecto de que tengan la posibilidad de realizar programas de trabajo que permita el suministro periódico de donaciones.
 
 ###### ARTICULO 18º.
 
@@ -155,9 +177,19 @@ Cualquier resolución emitida por el Sistema del Desarrollo Integral de la Famil
 
 ### CAPITULO VI. DELITOS CONTRA LA ASISTENCIA SOCIAL
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+
 ###### ARTICULO 20º.
 
-TIPO Y PUNIBILIDAD.- Se impondrán de tres días a tres años de prisión y hasta trescientos días de multa al empleado o funcionario de las Instituciones Privadas de Asistencia Social, con reconocimiento oficial, que intencionalmente desvíen los recursos donados que reciba la institución, destinándolos para su aprovechamiento personal o que propicien su uso indebido en perjuicio de comerciantes y productores. Igual pena se aplicará a los terceros que sean coautores del delito.
+TIPO Y PUNIBILIDAD.- Se impondrá de tres días a tres años de prisión y hasta trescientos días de multa al empleado, asociado o directivo de una institución que desvíe la correcta utilización de recursos donados para su beneficio personal.
+
+La misma pena señalada en el párrafo anterior se impondrá al empleado, asociado o directivo de una institución, que ordene la entrega de recursos donados, a personas con capacidad económica suficiente para proveérselos por ellos mismos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE OCTUBRE DE 2008)</small>
+
+###### ARTICULO 21º.
+
+La misma sanción señalada en el artículo anterior, se le impondrá a los terceros que sean coautores del delito.
 
 ## TRANSITORIOS
 
@@ -188,3 +220,11 @@ HECTOR TERAN TERAN.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 RODOLFO VALDEZ GUTIERREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE OCTUBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
