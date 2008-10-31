@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-el-procedimiento-de-acceso-a-la-informacion-368
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-27"
-last_updated: "2006-11-17"
+last_updated: "2008-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO PARA EL PROCEDIMIENTO DE ACCESO A LA INFORMACION PUBLICA EN EL PODER EJECUTIVO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 31 DE OCTUBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el martes 27 de enero de 2004.
 
@@ -468,3 +470,9 @@ P.O. 17 DE NOVIEMBRE DE 2006.
 Artículo Primero.- El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan las fracciones III, IV y VII del artículo 12, la fracción II del artículo 15 y el Capítulo Décimo del Reglamento para el Procedimiento de Acceso a la Información Pública en el Poder Ejecutivo.
+
+P.O. 31 DE OCTUBRE DE 2008.
+
+Artículo Primero. El presente Reglamento entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Se abroga el Reglamento para el Procedimiento de Acceso a la Información Pública en el Poder Ejecutivo, contenido en el Decreto Gubernativo número 181, publicado en el Periódico Oficial del Gobierno del Estado número 16, Segunda Parte, de fecha 27 de enero de 2004.
