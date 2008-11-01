@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2008-07-19"
+last_updated: "2008-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2008.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -295,7 +295,9 @@ f).- Continuando con la sesión y puestos de pié los integrantes de la Legislat
 
 g).- Enseguida, el Presidente del Congreso puesto de pié al igual que los demás asistentes, declarará "legítima y solemnemente instalada la (número) Legislatura Constitucional del Estado Libre y Soberano de Colima" y acto continuo dirigirá un breve mensaje; y
 
-h).- Finalmente, el Presidente citará a sesión para ese mismo día, a partir de las 17:00 horas, a efecto de recibir el informe a que se refiere el artículo 31 de la Constitución, y clausurará la sesión.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+
+h).- Finalmente, el Presidente citará a la próxima sesión ordinaria.
 
 ###### Artículo 25.
 
@@ -319,7 +321,7 @@ El presidente declarará un receso, para el efecto de que la Directiva prepare e
 
 Las Diputaciones plurinominales vacantes, se cubrirán siguiendo el orden de prelación de las listas registradas por los partidos.
 
-Finalmente, el Presidente citará a sesión ese mismo día a partir de las 17:00 horas, para efectos de recibir el informe a que se refiere el artículo 31 de la Constitución.
+> <small>(DEROGADO PENULTIMO PARRAFO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
 El Oficial Mayor será el encargado de hacer las notificaciones a que se refiere la Ley y este Reglamento.
 
@@ -1353,6 +1355,10 @@ En la primera sesión de un período ordinario o extraordinario, el Presidente o
 
 Al pronunciarse estas palabras, los Diputados y los concurrentes deberán estar de pie, debiendo permanecer sentado el Presidente.
 
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+
+A la sesión de apertura del primer período ordinario de sesiones de cada año, asistirán los titulares de los Poderes Ejecutivo y Judicial.
+
 ###### Artículo 123.
 
 En la última sesión de cualquier período ordinario o extraordinario, al concluir ésta, el Presidente del Congreso, puestos de pie los asistentes, declarará clausurado el período respectivo, en los siguientes términos: "EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE COLIMA CLAUSURA HOY SU (número de período y la expresión de ser ordinario o extraordinario), CORRESPONDIENTE AL (número del año) DEL EJERCICIO CONSTITUCIONAL DE LA (el número) LEGISLATURA".
@@ -1841,21 +1847,27 @@ Al momento de rendir la protesta el Gobernador, los Diputados y demás asistente
 
 Cuando se trate de la sesión en que deban rendir la protesta constitucional algún Diputado, Magistrado del Poder Judicial o cualquier otro funcionario que esté obligado a rendirla ante el Congreso, la Asamblea, a propuesta del Presidente, designará una comisión de cortesía que lo introduzca y acompañe a salir del Recinto Parlamentario.
 
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 197.
 
-La sesión solemne, en la que el Gobernador del Estado rinda el informe a que se refiere el artículo 31 de la Constitución, deberá sujetarse al siguiente orden:
+El informe que rinda el Titular del Poder Ejecutivo, del estado que guarda la Administración Pública de la Entidad, se celebrará el día 18 de diciembre de cada año en Sesión Solemne del Congreso del Estado, a la que asistirán el Presidente del Supremo Tribunal de Justicia y los integrantes de la Legislatura, de conformidad al procedimiento establecido en el artículo 31 de la Constitución; con excepción del sexto Informe de Gobierno que deberá rendirse el primero de octubre de ese año.
 
-I.- Una vez que se haya tomado lista de asistencia y se instale legalmente la sesión se fijarán los posicionamientos de cada fracción representada en el Congreso hasta por cinco minutos cada uno, inmediatamente después se declarará un receso para que las comisiones de cortesía designadas cumplan con su cometido;
+Después de haber rendido el Gobernador del Estado el informe que guarda la Administración Pública de la Entidad ante el Congreso del Estado, en sesiones subsecuentes comparecerán los Secretarios de la Administración Pública, el Procurador General de Justicia y funcionarios que sean requeridos de las mismas dependencias, y podrá hacerlo el Ejecutivo Estatal junto con el funcionario, para explicar, ampliar y dar contestación a las interrogantes que les formulen los Legisladores bajo el siguiente procedimiento:
 
-II.- Las comisiones de cortesía acompañarán al ciudadano Gobernador del Estado y al Presidente del Supremo Tribunal de Justicia, para que ocupen su lugar en el presidium, debiendo estar todos los asistentes de pié al hacer su entrada al Recinto Parlamentario, excepto el Presidente del Congreso que permanecerá en su asiento, salvo que se toque el Himno Nacional, pues en este caso también él deberá ponerse de pié;
+I.- La Comisión de Gobierno Interno y Acuerdos Parlamentarios, en cumplimiento a los artículos 8° y 9° de la Ley Orgánica del Poder Legislativo mediante acuerdo aprobado por la mayoría de la Asamblea, establecerá la fecha de la sesión y la agenda de comparecencias de los titulares de las Secretarías del Ejecutivo del Estado, y del Procurador General de Justicia del Estado con motivo de la glosa del informe del Gobernador;
 
-III.- Ya en el Recinto Parlamentario el ciudadano Gobernador del Estado, habiendo ocupado su lugar en el presidium, el Presidente le concederá la palabra para que rinda el informe del estado que guarda la administración pública a su cargo;
+II.- Por conducto de la Oficialía Mayor del Congreso, mediante oficio deberá comunicarse al Ejecutivo del Estado, el Acuerdo que contenga la agenda de comparecencias de los funcionarios a que se refiere la fracción anterior;
 
-IV.- El Presidente del Congreso recibirá el informe que por escrito le entregue el Gobernador y podrá dirigirse y hacer alusión al mismo en términos generales; y
+III.- Los Secretarios de la Administración Pública en la Entidad y el Procurador General de Justicia, comparecerán en las instalaciones del Poder Legislativo a la sesión de glosa del informe del Gobernador. Al inicio de cada comparecencia el Presidente de la Mesa Directiva, hará saber de viva voz al servidor público compareciente que, para todos los efectos que correspondan a partir de ese momento se encuentra bajo protesta de decir verdad;
 
-V.- Antes de que el ciudadano Gobernador y los demás servidores públicos abandonen el Recinto Parlamentario, el Presidente levantará la sesión, citará para la próxima y pedirá a las comisiones de cortesía cumplan con su cometido.
+IV.- Se concederá la palabra hasta por diez minutos al funcionario compareciente para que informe a la Cámara las acciones de la dependencia a su cargo en el periodo que se informa y exponga cuantos fundamentos quiera en apoyo a la opinión que pretenda sostener; después se concederá la palabra a un Diputado de cada fracción parlamentaria representada en la Legislatura el cual deberá inscribirse en la Presidencia de la Mesa Directiva.
 
-El informe que rinda el ciudadano Gobernador del Estado será analizado por el Congreso en sesiones subsecuentes. Para el efecto, comparecerán los titulares de las dependencias y entidades respectivas que sean requeridos, con el objeto de explicar o ampliar la información contenida en el informe.
+Si durante la discusión el funcionario o funcionarios comparecientes fueren interrogados, deberán contestar las interrogaciones que le fueren formuladas. Si alguno de los diputados inscritos en pro quisiere ceder su turno al funcionario compareciente, se concederá a éste la palabra, sin perjuicio de que al venir la discusión se le permita hablar sobre los puntos versados durante el debate;
+
+V.- Los legisladores tendrán derecho a réplica por dos ocasiones cada uno y hasta por cinco minutos, debiendo contestar el funcionario compareciente hasta por cinco minutos; y
+
+VI.- Una vez concluida la comparecencia el funcionario de la Administración Pública, el Presidente de la Mesa Directiva declarará un receso, para reanudar la sesión en la próxima comparecencia y así sucesivamente hasta concluir la sesión.
 
 ###### Artículo 198.
 
@@ -2212,3 +2224,7 @@ P.O. 19 DE JULIO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- La Comisión de Desarrollo Rural, Fomento Pesquero y Asuntos Indígenas de la Quincuagésima Quinta Legislatura estará integrada por los Diputados que forman la Comisión de Desarrollo Rural y Fomento Pesquero.
+
+P.O. 1 DE NOVIEMBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
