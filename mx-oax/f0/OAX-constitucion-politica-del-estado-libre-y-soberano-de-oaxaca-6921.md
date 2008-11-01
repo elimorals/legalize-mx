@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2008-08-16"
+last_updated: "2008-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2008.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -589,9 +589,13 @@ I.- Solo los ciudadanos podrán afiliarse libre e individualmente a los partidos
 
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señale la Ley;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
-II.- Los partidos políticos recibirán en forma equitativa financiamiento público para el sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales. Los fondos del financiamiento público, bajo ninguna circunstancia podrán aplicarse a la promoción de precandidatos dentro de los procedimientos internos de selección;
+II.- Los partidos políticos recibirán en forma equitativa financiamiento público para el sostenimiento de sus actividades ordinarias permanentes, la organización de los procesos internos de selección de candidatas y candidatos y las tendientes a la obtención del voto durante los procesos electorales.
+
+No tendrán derecho al financiamiento público los partidos políticos que hubieren perdido su registro, así como los partidos políticos nacionales que no alcancen por lo menos el 1.5 por ciento de la votación en la elección de Diputadas y Diputados al Congreso del Estado por el principio de mayoría relativa.
+
+El Consejo General del Instituto Estatal Electoral de Oaxaca, determinará los topes de gastos de precampaña por precandidata o precandidato y tipo de elección para la que pretenda ser postulado. El tope será equivalente al veinte por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate;
 
 III.- Los partidos políticos registrarán fórmulas completas de candidatos a diputados según los principios de mayoría relativa y de representación proporcional. La ley establecerá los medios para garantizar una efectiva equidad de género e impedir la discriminación;
 
@@ -627,9 +631,9 @@ VIII.- La ley fijará los criterios para establecer los límites a las erogacion
 
 IX.- La Ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos políticos que pierdan su registro y los supuestos en los que sus bienes y remanentes sean adjudicados al patrimonio estatal;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
-X.- El periodo de campaña electoral para Gobernador, tendrá una duración máxima de noventa días, para diputados sesenta días y para concejales municipales por el régimen de partidos políticos treinta días;
+X.- El periodo de campaña electoral para Gobernadora o Gobernador, tendrá una duración de sesenta días, para Diputadas y Diputados cuarenta días y para Concejales Municipales por el régimen de partidos políticos treinta días;
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
 
@@ -649,17 +653,19 @@ C. DEL INSTITUTO ELECTORAL
 
 La organización y desarrollo de las elecciones, es una función estatal que realiza el organismo público de carácter permanente, autónomo en su funcionamiento e independiente en sus decisiones, con personalidad jurídica y patrimonio propios, denominado Instituto Estatal Electoral. El ejercicio de sus funciones se sujetará a los principios rectores de certeza, legalidad, independencia, imparcialidad y objetividad.
 
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
-El Instituto Estatal Electoral es la autoridad administrativa competente para celebrar los convenios a que se refieren los artículos 41 apartado D, fracción V, párrafo doce y 116 fracción IV inciso d) de la Constitución Política de los Estados Unidos Mexicanos.
+El Instituto Estatal Electoral es la autoridad administrativa competente para celebrar el convenio a que se refieren los artículos 41 fracción V, párrafo doce y 116 fracción IV inciso d) de la Constitución Política de los Estados Unidos Mexicanos, en los términos establecidos en la ley de la materia.
 
 I.- El Instituto Estatal Electoral será autoridad en la materia y profesional en su desempeño. Su estructura contará con órganos de dirección, ejecutivos, técnicos, de vigilancia y de fiscalización. En la integración de sus diversos órganos, se dispondrá de personal profesionalizado o capacitado en la materia;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
-II.- El Órgano Superior de Dirección es el Consejo General, el cual estará integrado por un Consejero Presidente y seis Consejeros Electorales, con derecho a voz y voto, elegidos por el Congreso del Estado, mediante el voto aprobatorio de las dos terceras partes de sus integrantes: los representantes del Poder Legislativo con derecho a voz y voto, así como por los representantes nombrados por los partidos políticos, en los términos que disponga la Ley;
+II.- El Órgano Superior de Dirección es el Consejo General, el cual estará integrado por una Consejera Presidenta o Consejero Presidente y seis Consejeras o seis Consejeros Electorales con derecho a voz y voto elegidos por el Congreso del Estado, en forma escalonada de acuerdo al criterio que establezca la ley, mediante el voto aprobatorio de las dos terceras partes de sus integrantes, las y los representantes del Poder Legislativo con derecho a voz y voto, así como las y los representantes nombrados por los partidos políticos en los términos que disponga la ley;
 
-III.- El Instituto Estatal Electoral agrupará para su desempeño, en forma integral y directa, además de las que determine la ley, las facultades relativas a la capacitación electoral, la educación cívica, la impresión de materiales electorales, la preparación de la jornada electoral, la realización de cómputos, la calificación, y en su caso, la declaración de validez de las elecciones y el otorgamiento de constancias. Asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Las sesiones de todos los órganos colegiados electorales serán públicas en los términos que disponga la ley; y (sic)
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+
+III.- El Instituto Estatal Electoral agrupará para su desempeño, en forma integral y directa, además de las que determine la ley, las facultades relativas a la capacitación electoral, la educación cívica, la impresión de materiales electorales, la preparación de la jornada electoral, la realización de cómputos, la calificación, y en su caso, la declaración de validez de las elecciones y el otorgamiento de constancias. El Consejo General del Instituto Estatal Electoral efectuará el cómputo general de la elección de Gobernadora o Gobernador del Estado, emitirá la declaratoria de validez de la elección y extenderá la Constancia de Mayoría correspondiente y remitirá el expediente del cómputo al Tribunal Estatal Electoral, para los efectos constitucionales. Asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Las sesiones de todos los órganos colegiados electorales serán públicas en los términos que disponga la ley; y (sic)
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
 
@@ -687,11 +693,15 @@ E. DEL TRIBUNAL ESTATAL ELECTORAL
 
 El Tribunal Estatal Electoral es un órgano del Poder Judicial de carácter permanente, autónomo en su funcionamiento e independiente en sus decisiones. Es la máxima autoridad jurisdiccional en materia electoral del Estado de Oaxaca.
 
-I.- El Tribunal Estatal Electoral conocerá de los recursos y medios de impugnación que se interpongan respecto de las elecciones de Gobernador del Estado, Diputados y Concejales de los Ayuntamientos por los regímenes de partidos políticos y de usos y costumbres, así como de todas las demás controversias que determine la ley respectiva;
+I.- El Tribunal Estatal Electoral conocerá de los recursos y medios de impugnación que se interpongan respecto de las elecciones de Gobernador del Estado, Diputados y Concejales de los Ayuntamientos por los regímenes de partidos políticos y de usos y costumbres, así como de todas las demás controversias que determine la ley respectiva.
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+
+Por lo que respecta a las impugnaciones que se presenten en contra de la elección de Gobernadora o Gobernador del Estado, éstas serán resueltas en única instancia por el Tribunal Estatal Electoral, quien realizará el cómputo final y la calificación de la elección de Gobernadora o Gobernador del Estado, una vez resueltas las impugnaciones que se hubieren interpuesto sobre la misma, o cuando se tenga constancia de que no se presentó ningún recurso, procediendo a formular la declaratoria de Gobernadora electa o Gobernador electo, respecto de la candidata o candidato que hubiese obtenido el mayor número de votos, comunicándolo a la Legislatura para difundirlo mediante Bando Solemne y por otros medios idóneos;
 
 II.- Las resoluciones del Tribunal serán definitivas e inatacables en el ámbito local;
 
-III.- El Tribunal Estatal Electoral está integrado por tres magistrados propietarios y tres suplentes, que serán elegidos por la Legislatura, mediante el voto aprobatorio de las dos terceras partes de sus integrantes, de una lista por ternas para propietarios y suplentes, propuesta por el Tribunal Superior de Justicia del Estado. La ley determinará el proceso de selección, previa convocatoria y examen por oposición.
+III.- El Tribunal Estatal Electoral esta integrado por tres magistrados propietarios y tres suplentes, que serán elegidos por la Legislatura, mediante el voto aprobatorio de las dos terceras partes de sus integrantes, de una lista por ternas para propietarios y suplentes, propuesta por el Tribunal Superior de Justicia del Estado. La ley determinará el proceso de selección, previa convocatoria y examen por oposición.
 
 Los magistrados del Tribunal Estatal Electoral deberán reunir los mismos requisitos que los magistrados del Tribunal Superior de Justicia y durarán en su encargo cuatro años, pudiendo ser reelectos por una sola vez.
 
@@ -843,9 +853,9 @@ III.- El Partido que cumpla con los supuestos señalados en las fracciones I y I
 
 IV.- La Ley determinará la fórmula electoral y los procedimientos que se observarán en dicha asignación, en la que se seguirá el orden que tuviesen los candidatos en la lista correspondiente.
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
-V.- Los partidos políticos tendrán derecho a que les sean asignados los Diputados que obtengan por mayoría relativa; pero, en su caso, ningún partido podrá tener más de veintidós Diputados considerando ambos principios; y
+V.- Los partidos políticos tendrán derecho a que les sean reconocidos hasta veinticinco Diputadas o Diputados, sumando a las electas y a los electos por los principios de mayoría relativa y representación proporcional; y
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
@@ -891,15 +901,15 @@ La vecindad no se pierde por ausencia debida al desempeño de otros cargos públ
 
 El Gobernador del Estado no puede ser electo diputado durante el período de su ejercicio.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
-Los Magistrados del Tribunal Superior de Justicia, el Secretario General de Gobierno, los Secretarios de los diferentes ramos de la Administración Pública Estatal, Subsecretarios de Gobierno, el Procurador General de Justicia, el Contador Mayor de Hacienda de la Cámara de Diputados, los funcionarios de la Federación, militares en servicio activo y los servidores públicos con facultades ejecutivas, sólo pueden ser electos si se separan de sus cargos con 120 días de anticipación a la fecha de su elección.
+Las Magistradas y Magistrados del Tribunal Superior de Justicia, la Secretaria o Secretario General de Gobierno, las y los Secretarios de los diferentes ramos de la Administración Pública Estatal, Subsecretarias o Subsecretarios de Gobierno, la Procuradora o el Procurador General de Justicia, las Presidentas o los Presidentes Municipales, Militares en servicio activo y cualquier otra u otro servidor público de la Federación, del Estado o de los Municipios con facultades ejecutivas, sólo pueden ser electas o electos si se separan de sus cargos con noventa días de anticipación a la fecha de su elección.
 
 Para los efectos de esta última disposición se consideran también como militares en servicio activo, los jefes y oficiales de las fuerzas de seguridad pública del Estado, cualesquiera que sea su denominación.
 
-(REFORMADO, 29 DE SEPTIEMBRE DE 1997) (F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
-Los Magistrados del Tribunal Estatal Electoral; el Presidente del Consejo General del Instituto Estatal Electoral, así como el Director y Secretario Generales del Instituto mencionado, no podrán ser electos para ningún cargo de elección popular, sino hasta después de transcurridos dos años de haberse separado de su cargo.
+Las Magistradas y Magistrados y la Secretaria o Secretario General del Tribunal Estatal Electoral; la Presidenta o Presidente y las Consejeras y Consejeros Electorales del Consejo General del Instituto Estatal Electoral, así como la Directora o Director General, la Secretaria o Secretario General y Directoras Ejecutivas o Directores Ejecutivos del Instituto mencionado; la Auditora o Auditor y las Sub Auditoras y Sub Auditores de la Auditoría Superior del Estado; las Comisionadas y los Comisionados del Instituto Estatal de Acceso a la Información Pública de Oaxaca; la Presidenta o Presidente, las Consejeras y los Consejeros, la Visitadora o el Visitador General y la Secretaria Ejecutiva o Secretario Ejecutivo de la Comisión para la Defensa de los Derechos Humanos del Estado de Oaxaca, así como las Magistradas y Magistrados del Tribunal de lo Contencioso Administrativo, no podrán ser electas o electos para ningún cargo de elección popular, sino hasta después de transcurridos dos años de haberse separado de su cargo.
 
 ###### ARTICULO 36.
 
@@ -1451,11 +1461,11 @@ El titular de la Auditoria Superior del Estado será electo por el Congreso, con
 
 El Poder Ejecutivo del Estado de Oaxaca, se ejerce por un solo individuo que se denominará Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 67.
 
-La elección del Gobernador será mediante sufragio universal, libre, secreto y directo, por mayoría relativa y en una circunscripción uninominal que comprende todo el territorio del Estado, en los términos de la Ley Electoral. El Instituto Estatal Electoral hará el cómputo final de la elección, la calificación y en su caso la declaración de validez, expedirá la constancia de mayoría y formulará la declaratoria de Gobernador Electo, comunicándolo a la Legislatura para difundirlo mediante Bando Solemne y por otros medios idóneos.
+La elección de Gobernadora o Gobernador será mediante sufragio universal, libre, secreto y directo, por mayoría relativa y en una circunscripción uninominal que comprende todo el territorio del Estado, en los términos de la Ley Electoral.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 1939)</small>
 
@@ -1463,27 +1473,29 @@ La elección del Gobernador será mediante sufragio universal, libre, secreto y 
 
 Para ser Gobernador del Estado, se requiere:
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
-I. Ser mexicano por nacimiento, en el ejercicio de sus derechos y nativo del Estado con residencia mínima de una año, o vecino de él durante un período no menor de cinco años, inmediatamente anteriores al día de la elección. La vecindad no se pierde por ausencia en el desempeño de cargo público de elección popular;
+I. Ser mexicana o mexicano por nacimiento, en el ejercicio de sus derechos y nativa o nativo del Estado, con residencia mínima de tres años, vecina o vecino de él durante un periodo no menor de cinco años, inmediatamente anteriores al día de la elección. La vecindad no se pierde por ausencia en el desempeño de cargo público de elección popular;
 
-II. Tener treinta y cinco años cumplidos el (sic) día de la elección;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
+II. Tener treinta años cumplidos el día de la elección;
 
-III. No ser Presidente de la República, Secretario Estatal o Federal, Magistrado del Tribunal Superior, Procurador General de Justicia, ni Director de organismo descentralizado o empresa de participación estatal, a menos que se separe del cargo ciento ochenta días antes de la fecha de la elección;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+III. No ser Presidenta o Presidente de la República, Secretaria o Secretario Estatal o Federal, Magistrada o Magistrado del Tribunal Superior, Procuradora o Procurador General de Justicia, ni Directora o Director de organismo descentralizado o empresa de participación estatal, a menos que se separe del cargo ciento veinte días antes de la fecha de la elección;
 
-IV. No ser Servidor Público judicial de la Federación con jurisdicción en el Estado, a no ser que renuncie su cargo ciento ochenta días antes de la elección;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+
+IV. No ser servidora o servidor público judicial de la Federación con jurisdicción en el Estado, a no ser que renuncie a su cargo ciento veinte días antes de la fecha de la elección;
 
 V. No haber intervenido directa ni indirectamente en alguna asonada, motín o cuartelazo;
 
 VI. No tener parentesco de consanguinidad en los cuatro primeros grados, ni de afinidad en los dos primeros, con el Gobernador saliente;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 1939)</small>
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
-VII. Separarse del servicio activo con ciento ochenta días de anticipación al día de la elección si se trata de miembros del Ejército Nacional, o de las fuerzas de seguridad pública del Estado;
+VII. Separarse del servicio activo con ciento veinte días de anticipación al día de la elección si se trata de miembros del Ejército Nacional, o de las fuerzas de seguridad pública del Estado;
 
 VIII. Tener un modo honesto de vivir.
 
@@ -2149,7 +2161,9 @@ c) Estar avecindado en el municipio, por un período no menor de un año inmedia
 
 d) No pertenecer a las fuerzas armadas permanentes federales, a las fuerzas de seguridad pública estatales o de la seguridad pública municipal;
 
-e) No ser servidor público municipal, del Estado o de la Federación;
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+
+e) No ser servidora o servidor público municipal, del Estado o de la Federación, con facultades ejecutivas;
 
 f) No pertenecer al estado eclesiástico ni ser ministro de algún culto;
 
@@ -2157,9 +2171,9 @@ g) No haber sido sentenciado por delitos intencionales; y
 
 h) Tener un modo honesto de vivir.
 
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
-Los ciudadanos comprendidos en los supuestos de los incisos d) y e), podrán ser concejales siempre y cuando se separen del servicio activo o de sus cargos, con ciento veinte días de anticipación a la fecha de la elección.
+Las ciudadanas y ciudadanos comprendidos en los supuestos de los incisos d) y e), podrán ser concejales, siempre y cuando se separen del servicio activo o de sus cargos, con setenta días de anticipación a la fecha de la elección.
 
 Si alguno de los miembros del Ayuntamiento dejare de desempeñar su cargo, será sustituido por su suplente o se procederá según lo disponga la ley.
 
@@ -3310,6 +3324,12 @@ P.O. 26 DE JULIO DE 2008.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 16 DE AGOSTO DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE NOVIEMBRE DE 2008.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
