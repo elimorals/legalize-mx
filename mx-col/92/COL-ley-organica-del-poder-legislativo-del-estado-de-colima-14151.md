@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2008-07-19"
+last_updated: "2008-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -105,7 +105,9 @@ El Congreso o una comisión legislativa podrá citar a cualquier funcionario o s
 
 I.- Cuando se encuentre en estudio una iniciativa para la expedición o reformas de un ordenamiento relacionado con el área de su competencia;
 
-II.- Para ampliar el contenido del informe anual rendido por el Gobernador del Estado; y
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+
+II.- Para ampliar el contenido del informe anual rendido por el Gobernador del Estado, de conformidad al procedimiento establecido en el artículo 31 de la Constitución Local;
 
 III.- Cuando exista la necesidad de conocer información sobre la aplicación de las políticas públicas en el ámbito de su competencia.
 
@@ -405,15 +407,23 @@ Acto seguido el Presidente del Congreso tomará a los demás miembros integrante
 
 El Presidente del Congreso puesto de pie, al igual que los demás Diputados y el público asistente, pronunciará las siguientes palabras: "SE DECLARA LEGITIMA Y SOLEMNEMENTE INSTALADA LA (su número) LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA".
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 35.
 
-A la sesión de instalación de la Legislatura asistirán como invitados de honor el Gobernador del Estado y el Presidente del Supremo Tribunal de Justicia.
+El Gobernador del Estado y el Presidente del Supremo Tribunal de Justicia, asistirán como invitados de honor a las sesiones solemnes de instalación de la Legislatura y a la apertura del primer período ordinario de sesiones de cada año de ejercicio constitucional de la misma.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 36.
 
-En el mismo acto, el Presidente citará a sesión del Congreso para ese día, a partir de las 17:00 horas, a efecto de recibir el informe a que se refiere el artículo 31 de la Constitución.
+El sexto informe de gobierno que corresponda al período constitucional del Gobernador, se rendirá el primero de octubre de ese año.
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTICULO 36 Bis.
+
+El 30 de septiembre del último año de ejercicio de la Legislatura, en sesión solemne a la que asistirán los titulares de los Poderes Ejecutivo y Judicial, los Diputados declararán clausurada la Legislatura, pronunciándose las siguientes palabras: "EL DIA DE HOY, 30 DE SEPTIEMBRE DE (el año) SE DECLARAN CLAUSURADOS LOS TRABAJOS DE LA (su número) LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE COLIMA".
 
 ### CAPITULO II
 
@@ -955,9 +965,13 @@ f).- Ocurran en visita delegaciones parlamentarias del Congreso de la Unión, de
 
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
 
-g).- Rindan protesta los Magistrados Presidentes y Consejeros de los Tribunales Administrativos, Electorales y los Consejeros del Instituto Electoral del Estado y de la Comisión de Derechos Humanos del Estado, de acuerdo con las leyes respectivas; y
+g).- Rindan protesta los Magistrados Presidentes y Consejeros de los Tribunales Administrativos, Electorales y los Consejeros del Instituto Electoral del Estado y de la Comisión de Derechos Humanos del Estado, de acuerdo con las leyes respectivas; y (sic)
 
-h).- Se imponga alguna presea o reconocimiento instituidos por el Congreso.
+h).- Se imponga alguna presea o reconocimiento instituidos por el Congreso;
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+
+i).- Inicie el primer período ordinario de sesiones de cada año de ejercicio constitucional de la Legislatura.
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2007)</small>
 
@@ -1310,3 +1324,7 @@ P.O. 19 DE JULIO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- La Comisión de Desarrollo Rural, Fomento Pesquero y Asuntos Indígenas de la Quincuagésima Quinta Legislatura estará integrada por los Diputados que forman la Comisión de Desarrollo Rural y Fomento Pesquero.
+
+P.O. 1 DE NOVIEMBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
