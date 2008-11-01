@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-educacion-del-estado-de-tabasco-10929"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-26"
-last_updated: "2007-12-19"
+last_updated: "2008-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE EDUCACION DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 26 de febrero de 1997.
 
@@ -103,11 +103,17 @@ XV.- Concientizar y comprometer a la sociedad en acciones para la protección, a
 
 XVI.- Fomentar actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar general;
 
-> <small>(F. DE E., P.O. 1 DE MARZO DE 1997)</small>
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
-XVII.- Formar al educando para incorporarse a la vida económica y social del Estado y del país, y en su oportunidad desarrollar una actividad productiva que permita asimismo al trabajador, estudiar; y
+XVII.- Formar al educando para incorporarse a la vida económica y social del Estado y del país, y en su oportunidad desarrollar una actividad productiva que permita asimismo al trabajador, estudiar;
 
-XVIII.- Promover una educación de amplia cobertura y calidad educativa, en favor de personas con discapacidad, que permita su integración social y evite la segregación.
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+
+XVIII.- Promover una educación de amplia cobertura y calidad educativa, en favor de personas con discapacidad, que permita su integración social y evite la segregación; y
+
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+
+XIX.- Destacar la importancia de una alimentación completa, equilibrada, suficiente y variada para el desarrollo pleno del individuo.
 
 Artículo 10 El criterio que orientará a la educación que proporcionen el Estado, los Municipios, los organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, incluyendo la educación primaria, la secundaria, la normal y demás para la formación de docentes de educación básica, se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios, además:
 
@@ -161,7 +167,11 @@ VIII.- Expedir constancias, certificados, certificaciones de estudios, diplomas,
 
 IX.- Llevar el registro y control de egresados de instituciones educativas de nivel medio superior y superior, públicas y particulares incorporadas al Sistema Estatal de Educación y organizar el servicio social en el Estado;
 
-X.- Otorgar, negar o revocar las autorizaciones que soliciten los particulares para impartir educación primaria, secundaria, normal y demás para la formación de docentes de educación básica;
+X.- Otorgar, negar o revocar las autorizaciones que soliciten los particulares para impartir educación primaria, secundaria, normal y demás para la formación de docentes de educación básica.
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+
+La Secretaría de Educación podrá otorgar, negar o revocar concesiones para la operación de centros de distribución de alimentos que se ubiquen en el interior de los centros educativos de educación básica del Sistema Estatal de Educación, de acuerdo a los lineamientos que para tal efecto expida, aprobados por el Consejo Educativo de Tabasco;
 
 XI.- Planear, programar, presupuestar, organizar, dirigir, operar, controlar y evaluar el servicio educativo a corto, mediano y largo plazo, según las necesidades de la entidad, las posibilidades del erario público y el programa educativo del Gobierno del Estado;
 
@@ -244,6 +254,18 @@ Artículo 21 Las autoridades educativas municipales podrán celebrar convenios c
 > <small>(F. DE E., P.O. 1 DE MARZO DE 1997)</small>
 
 Artículo 22 Las autoridades educativas estatal y municipales, se reunirán periódicamente con el propósito de analizar e intercambiar opiniones sobre el desarrollo del Sistema Educativo Estatal y formular recomendaciones para apoyar la función social educativa. Estas reuniones serán presididas por la Secretaría de Educación.
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+
+Artículo 22 Bis La Secretaría de Educación en coordinación con la Secretaría de Salud de Tabasco y el Sistema para el Desarrollo Integral de la Familia de Tabasco, de conformidad con sus respectivas competencias, llevarán a cabo, en los planteles de educación básica del Sistema Estatal de Educación y en los planteles incorporados al mismo, las siguientes acciones:
+
+I. Inspeccionar el contenido nutricional de los alimentos que se expendan en las tiendas;
+
+II. Vigilar y controlar las condiciones de higiene en el manejo y procesamiento de los alimentos;
+
+III. Promover mejores prácticas nutricionales y hábitos saludables de alimentación en los educandos; y
+
+IV. Prohibir la venta de alimentos y golosinas preparados con predominio de carbohidratos refinados y grasas vegetales que contengan ácidos grasos hidrogenados en su forma trans, dentro de las escuelas de educación básica, de conformidad con lo dispuesto en la Ley de Salud del Estado de Tabasco.
 
 ### Capítulo III. DE LA ESTRUCTURA DEL SISTEMA EDUCATIVO ESTATAL
 
@@ -1184,3 +1206,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Ejecutivo del Estado y los Ayuntamientos de cada municipio adecuarán sus respectivos reglamentos dentro del plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 1 DE NOVIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
