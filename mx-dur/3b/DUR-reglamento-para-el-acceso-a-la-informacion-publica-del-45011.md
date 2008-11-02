@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-para-el-acceso-a-la-informacion-publica-del-45011"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-12"
-last_updated: "2005-05-12"
+last_updated: "2008-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,458 +21,786 @@ state: "DUR"
 ---
 # REGLAMENTO PARA EL ACCESO A LA INFORMACION PUBLICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE DURANGO
 
-REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE DURANGO
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE OCTUBRE DE 2025 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
-TEXTO ORIGINAL.
+LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE MORELOS
 
-Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 12 de mayo de 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
 
-ACTA No. 07/2005
+Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 20 de mayo de 2015.
 
-ACTA DE APROBACIÓN DEL REGLAMENTO PARA EL ACCESO A LA INFORMACIÓN PÚBLICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE DURANGO.
+Al margen izquierdo un Escudo del Estado de Morelos que dice: “Tierra y Libertad”.- La tierra volverá a quienes la trabajan con sus manos.- Poder Legislativo. LII Legislatura. 2012-2015.
 
-En la ciudad de Durango, Durango, siendo las diez horas del día siete de abril-:del año dos mil cinco, día y hora convocada para que tenga verificativo la séptima sesión plenaria de este Tribunal de lo Contencioso Administrativo, cito en Boulevard Felipe Pescador número 411 D Oriente, segundo piso de esta Ciudad, y encontrándose presente en la Sala de Sesiones de este Tribunal, los Ciudadanos Magistrados que lo integran MARÍA DE LOURDES HERNÁNDEZ VÁZQUEZ, en su calidad de Presidenta; HUMBERTO MORALES CAMPA, titular de la Primera Sala Ordinaria y ARMANDO JAVIER VELA MONTES, como titular de la Segunda Sala Ordinaria, se procede a su celebración, con la lectura del siguiente orden del día:
+GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
 
-ORDEN DEL DÍA:
+Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
 
-PRIMERO.- Lista de Asistencia.
+LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:
 
-SEGUNDO.- Declaración de Instalación del Pleno.
+ANTECEDENTES …
 
-TERCERO.- El Secretario General de Acuerdos, da cuenta al Pleno de las modificaciones realizadas al proyecto del Reglamento para el Acceso a la Información Pública del Tribunal de lo Contencioso Administrativo del Estado de Durango en término de la minuta de trabajo levantada para constancia de fecha primero de abril del presente año, y que forma parte de la presente acta.
+Por lo anteriormente expuesto, esta LII Legislatura ha tenido a bien expedir la siguiente:
 
-CUARTO.- Acuerdo de aprobación por parte del Pleno, al proyecto del Reglamento para el Acceso a la Información Pública del Tribunal de lo Contencioso Administrativo del Estado de Durango.
-
-QUINTO.- Integración de los Órganos y Unidades responsables de garantizar el acceso a la información pública.
-
-SEXTO.-Asuntos Generales.
-
-Aprobado en sus términos el orden del día, sé inicia con el desahogo de sus puntos en forma correlativa:
-
-Primero.- Se encuentran presentes en el Salón de Sesión de Plenos de este Tribunal la C. -Magistrada Presidenta Lic. María de Lourdes Hernández Vázquez, el C. Magistrado Lic. Humberto Morales Campa titular de la Primera Sala Ordinaria, el Magistrado Lic. Armando Javier Vela Montes titular de la Segunda Sala Ordinaria y el Secretario General de Acuerdos de este Tribunal Lic. Laura Elena Santiago Arteaga, a quienes se toma lista de asistencia.
-
-Segundo.- El Secretario General de Acuerdos de este Tribunal, da fe de que se encuentra constituido legalmente el Pleno de conformidad con los artículos 325 y 326 del. Código de Justicia Administrativa para el Estado de Durango.
-
-Tercero.- El Secretario General de Acuerdos, da cuenta al Pleno de las modificaciones realizadas al proyecto del Reglamento para el Acceso a la Información Pública del Tribunal de lo Contencioso Administrativo del Estado de Durango, en términos de la minuta de trabajo de fecha primero del presente mes y año, levantada para constancia.- El C. Secretarlo General de Acuerdos, hace entrega al Pleno para su revisión, del proyecto del Reglamento para el Acceso a la Información Pública del Tribunal de lo Contencioso Administrativo del Estado de Durango, con las modificaciones indicadas en la minuta de trabajo del Pleno levantada para constancia.- En atención a lo anterior, el Pleno acuerda: Téngase por recibido el documento que contiene el proyecto de Reglamento para el Acceso a la: Información Pública de este Tribunal, así como la minuta que se levantó respecto a la sesión de trabajo desahogada por el Pleno de fecha primero de abril del año en curso, misma que debe formar parte integrante de la presente acta, debiendo incorporarse como anexo.- Conste.
-
-Cuarto.- Acuerdo de aprobación por parte del Pleno, al proyecto que contiene el Reglamento para el Acceso a la Información Pública del Tribunal de lo Contencioso Administrativo del Estado de Durango.- Atendiendo al contenido del proyecto que pone a nuestra consideración el Secretario General de Acuerdos, y revisado que fue en sus términos, se estima que contiene en su totalidad las modificaciones indicadas por el Pleno en la sesión de trabajo a que se hizo referencia.- Por lo tanto, en cumplimiento al Artículo Tercero transitorio de la Ley de Acceso a la Información Pública del Estado de Durango, el Pleno, actuando como máxima autoridad del Tribunal, APRUEBA por unanimidad y en lo general, el proyecto puesto a nuestra consideración el día de hoy como: el "REGLAMENTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE DURANGO" quedando para su publicación en los términos siguientes:
-
-Reglamento de Acceso a la Información Publica del Tribunal de lo Contencioso Administrativo del Estado de Durango.
-
-EXPOSICIÓN DE MOTIVOS:
-
-A efecto de dar cumplimiento a lo que establece el Articulo Tercero Transitorio de la Ley de Acceso a la Información Publica del Estado de Durango, en el cual se determina que los Entes Públicos están obligados en el ámbito de sus respectivas competencias a establecer mediante reglamento o acuerdos de carácter general, los órganos, criterios y procedimientos institucionales, para proporcionar a los particulares el acceso a la información pública, de conformidad a las bases y principios establecidos en la Ley; es por ello, que debe expedirse el presente Reglamento de Acceso a la Información Pública del Tribunal De lo Contencioso Administrativo del Estado de Durango, cuyo propósito fundamental deberá ser el establecer los criterios, procedimientos y órganos para garantizar el derecho de acceso a la información en poder del Tribunal.
-
-Es importante mencionar, qué fortalecer el derecho de acceso a la información representa contribuir al mejoramiento de la conciencia ciudadana y hoy estamos viviendo un cambio profundo, en las formas y modos de los llamados Entes Públicos y los ciudadanos, que están exigiendo respuestas puntales, por ello, resulta fundamental crear este instrumento jurídico que haga valer el derecho de acceso a la información, que se encuentre en poder del Tribunal de lo Contencioso Administrativo del Estado de Durango.
-
-Tomando en cuenta que el Tribunal de lo Contencioso Administrativo del Estado de Durango, es considerado como un Ente Público obligado en materia de acceso a la Información, en los términos que establece, el artículo 5 fracción V de la Ley de Acceso a la Información Publica del Estado de Durango, y que ha transcurrido el plazo legal previsto para los efectos anteriormente mencionados, ello, es causa para que este Tribunal en ejercicio de sus atribuciones y en el ámbito de su competencia, que le confiere el Código de Justicia Administrativa para el Estado de Durango y su Reglamento Interior, expida el presente Reglamento de Acceso a la Información Publica del Tribunal de lo Contencioso Administrativo del Estado de Durango y;
-
-CONSIDERANDO
-
-PRIMERO.- Que una de las expresiones que actualmente se vive en la práctica de la democracia, es la de la cultura de la apertura para garantizar a los ciudadanos el derecho de conocer e Informarse mediante la transparencia de los actos de los Entes Públicos, ya que ello conlleva a mejorar la calidad de vida de los duranguenses.
-
-SEGUNDO.- Que como referencia histórica legislativa, la Ley de Acceso a la Información Pública del Estado de Durango, es expedida por el H. Congreso del Estado de Durango, mediante decreto número 193 publicado en el Periódico Oficial del Gobierno del Estado, Numero 17, de fecha veintisiete de febrero del año, dos mil tres, en congruencia con el artículo 6 constitucional el cual, establece el marco normativo para garantizar el derecho de acceso a la información pública en los Estados; como un reclamo ciudadano que consolida una oportunidad de fortalecer el estado de derecho.
-
-TERCERO.- Que con motivo de la referida ley, se estableció en la misma, que uno de los ente públicos obligados a cumplir con sus disposiciones legales, es el Tribunal de lo Contencioso Administrativo del Estado de Durango, el cual deberá establecer los criterios, los procedimientos, y los órganos para garantizar el acceso a la información a los ciudadanos; esto conlleva a realizar la positividad y transparencia de un derecho, que permite al particular tener acceso al espacio publico de la información, para verificar la transparencia en su actuación.
-
-CUARTO.- Que como ente público obligado, el Tribunal de lo Contencioso Administrativo del Estado de Durango, se avocó a instrumentar las disposiciones reglamentarias del presente ordenamiento legal, acordes, con el principio de legalidad y los criterios de aplicación de la Ley de Acceso a la Información Publica del Estado de Durango, el Código de Justicia Administrativa para el Estado de Durango, su Reglamenta' Interior; y demás disposiciones legales aplicables en la materia.
-
-QUINTO.- Que algunos de los aspectos de mayor relevancia del presente reglamento se mencionan, que el Tribunal contará con los órganos y unidades responsables de garantizar el acceso a la información pública, en los términos previstos en la Ley y el presente Reglamento, y tales Órganos son; el Consejo de información, la Unidad de Acceso, Documentación y Difusión para la Información Publica; y las Unidades de Enlace y de Apoyo.
-
-SEXTO.- Que el pleno del Tribunal, es el Órgano que fungirá como consejo de información en ejercicio de las atribuciones que le confiere el presente reglamento; y tendrá a su cargo, la vigilancia, custodia, sistematización, clasificación y descalcificación de la información así como, atender y resolver los requerimientos y establecer los criterios y lineamientos a las unidades de acceso, Documentación y Difusión, Enlace y de Apoyo; además, de aplicar todo aquello que la ley, el Código, el presente reglamento y demás disposiciones legales aplicables en la materia le faculten.
-
-SEPTIMO.- Que otro aspecto importante, es el de que la unidad de acceso Documentación y Difusión estará integrada por el Presidente del Tribunal un Magistrado de la Sala Ordinaria que se ha designado por el Pleno, la Secretaría General de Acuerdos y el Director Administrativo del Tribunal, y estará a cargo de este ultimo; además, se instalará en su oficina o lugar que estime pertinente un modulo de acceso con la finalidad de atender de manera pronta y expedita el acceso a la información.
-
-OCTAVO.- Que el Consejo de Información, establecerá los plazos dentro de los cuales se deberán organizar los archivos por parte de las unidades de acceso, enlace y de apoyo, así como, el calendario o libros de registro para contar con un inventario de los documentos que integran dichos archivos.
-
-NOVENO.- Por lo tanto, en mérito de las consideraciones precedentemente expuestas y con fundamento en las disposiciones legales invocadas, este H. Tribunal de Contencioso Administrativo del Estado de Durango, en Pleno, expide el siguiente:
-
-REGLAMENTO PARA EL ACCESO A LA INFORMACIÓN PÚBLICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DURANGO.
+LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE MORELOS.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
-Las disposiciones del presente Reglamento tienen por objeto establecer los criterios, los procedimientos y los órganos para garantizar el acceso a la Información en poder del Tribunal de lo Contencioso Administrativo del Estado de Durango, en los términos que establece la Ley de Acceso a la Información Pública del Estado de Durango, este Reglamento; y demás disposiciones legales aplicables en la materia.
+La presente Ley es de orden público, interés social y de observancia general en la Entidad; y tiene por objeto prevenir y eliminar todas las formas de discriminación que se ejerzan contra cualquier persona en términos de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Morelos, así como promover la igualdad real de oportunidades.
 
 ###### Artículo 2.
 
-Para efectos del acceso a la información publica en poder del Tribunal de lo Contencioso Administrativo del Estado de Durango, contenida en los instrumentos, documentos y demás elementos, incluso los de carácter técnico, ya sea que se generen dentro del mismo; o bien, los reciba, adquiera, transforme, conserve por cualquier concepto, se regulará por disposiciones de Ley de Acceso a la Información Pública de Estado de Durango, el presente Reglamento y demás acuerdos que se emitan en la materia.
+Para los efectos de esta Ley se entenderá por:
+
+I. Acciones afirmativas, aquellas medidas especiales, específicas y de carácter temporal, a favor de personas o grupos en situación de discriminación, cuyo objeto es corregir situaciones patentes de desigualdad en el disfrute o ejercicio de derechos y libertades, aplicables mientras subsistan dichas situaciones. Se adecuarán a la situación que quiera remediarse, deberán ser legítimas y respetar los principios de justicia y proporcionalidad;
+
+II. Ajustes razonables, a las modificaciones y adaptaciones necesarias y adecuadas en la infraestructura y los servicios, que al realizarlas no impongan una carga desproporcionada o afecten derechos de terceros, que se aplican cuando se requieran en un caso particular, para garantizar que las personas gocen o ejerzan sus derechos en igualdad de condiciones con las demás;
+
+III. Autoridades estatales y municipales, a las diferentes autoridades de las Secretarías, Dependencias y Entidades estatales y municipales, de los Poderes Legislativo y Judicial y de los órganos constitucionales autónomos en la Entidad;
+
+IV. Congreso Estatal, al Congreso del Estado de Morelos;
+
+V. Consejo Estatal, al Consejo Estatal para Prevenir la Discriminación;
+
+VI. Consejos Municipales, a los Consejos Municipales para prevenir la Discriminación pertenecientes a cada uno de los municipios del estado de Morelos;
+
+VII. Constitución Federal, a la Constitución Política de los Estados Unidos Mexicanos;
+
+VIII. Constitución Local, a la Constitución Política del Estado Libre y Soberano de Morelos;
+
+IX. Discriminación directa, aquella que se presenta cuando una persona es tratada de manera menos favorable que otra en situación análoga, por razón de su origen racial, étnico, religión, convicciones, discapacidad, edad, orientación sexual, género o cualquier otra causa;
+
+X. Discriminación indirecta, aquella que se presenta cuando una disposición legal o reglamentaria, una cláusula convencional o contractual, un pacto individual o una decisión unilateral, aparentemente neutros, puedan ocasionar una desventaja particular a una persona respecto de otras por razón de origen racial, étnico, religión, convicciones, discapacidad, edad, orientación sexual, género o cualquier otra causa, siempre que objetivamente no respondan a una finalidad legítima y que los medios para la consecución de esta finalidad no sean adecuados y necesarios;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+XI. Discriminación, a toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella; no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, anular o menoscabar el reconocimiento, goce o el ejercicio de los derechos humanos, las libertades y la igualdad sustantiva de oportunidades en las esferas social, cultural, educativa, política, institucional, laboral o cualquier otra, incluyendo cualquier acción u omisión que directa o indirectamente provoque o perpetúe la brecha de género en cualquier ámbito. Lo anterior, cuando la distinción, exclusión, restricción o preferencia en esos términos, se base en uno o más de los motivos siguientes: origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, las creencias religiosas o espirituales, las opiniones, la orientación sexual, la identidad de género, el estado civil, la situación familiar, las responsabilidades familiares, profesión o actividad laboral, la apariencia y/o condición física, las características genéticas, la situación migratoria, las opiniones, el embarazo, la lengua, el idioma, la identidad o filiación política, los antecedentes penales o cualquier otro motivo análogo.
+
+También se entenderá como discriminación la homofobia, la misoginia, la transfobia, cualquier manifestación de xenofobia, la segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XII. Discriminación contra la Mujer, a toda distinción, exclusión o restricción basada en el género que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
+
+XIII. Diseño universal, al diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado;
+
+XIV. Igualdad real de oportunidades, al acceso que tienen las personas o grupos de personas, por la vía de las normas o los hechos, para el igual disfrute de sus derechos;
+
+XV. Instancia Municipal, a la instancia que cada uno de los Ayuntamientos del Estado determine como encargadas de aplicar las disposiciones de la presente Ley, conforme su competencia;
+
+XVI. Ley Federal, a la Ley Federal para Prevenir y Eliminar la Discriminación;
+
+XVII. Ley, al presente ordenamiento;
+
+XVIII. Medidas de inclusión, aquellas disposiciones, de carácter preventivo o correctivo, cuyo objeto es eliminar mecanismos de exclusión o diferenciaciones desventajosas para que todas las personas gocen y ejerzan sus derechos en igualdad de trato;
+
+XIX. Medidas de nivelación, aquellas que buscan hacer efectivo el acceso de todas las personas a la igualdad real de oportunidades, eliminando las barreras físicas, comunicacionales, normativas o de otro tipo, que obstaculizan el ejercicio de derechos y libertades prioritariamente a las mujeres y a los grupos en situación de discriminación o vulnerabilidad;
+
+XX. Medidas de política pública, al conjunto de acciones que formulan e implementan las instituciones de gobierno encaminadas o dirigidas a atender las demandas o necesidades económicas, políticas, sociales, culturales, entre otras, de las personas, grupos o comunidades en situación de discriminación;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+
+XXI. Perspectiva de Género, a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+
+XXII. Programa, al Programa Estatal para la Igualdad y no Discriminación;
+
+XXIII. Reglamento, al Reglamento de esta Ley;
+
+XXIV. Resolución por disposición, a la resolución emitida por la Unidad Administrativa o la Instancia Municipal, según corresponda, con carácter vinculante, por medio de la cual se declara que se acreditó una conducta o práctica social discriminatoria y, por tanto, de manera fundada y motivada se imponen medidas administrativas y de reparación a quien resulte responsable de dichas conductas o prácticas;
+
+XXV. Secretaría, a la Secretaría de Gobierno del Poder Ejecutivo Estatal, y
+
+XXVI. Unidad Administrativa, a la unidad administrativa de la Secretaría de Gobierno a la que se refiere el artículo 27 de la presente Ley.
 
 ###### Artículo 3.
 
-En la interpretación de la Ley de Acceso a la Información Publica del Estado de Durango, así como, del presente Reglamento y demás acuerdos que se emitan en la materia; se deberá favorecer el principio de publicidad de la información.
+Corresponde a las autoridades estatales y municipales promover las condiciones para que la libertad y la igualdad de las personas sean reales y efectivas, para lo cual deberán eliminar aquellos obstáculos que limiten en los hechos su ejercicio e impidan el pleno desarrollo de las personas, así como su efectiva participación en la vida política, económica, cultural y social del Estado; debiendo promover su participación, así como de las autoridades que integran al Gobierno Federal y de los particulares, en la eliminación de esos obstáculos.
 
 ###### Artículo 4.
 
-Para efectos de los procedimientos regulados en el presente Reglamento, son días hábiles e inhábiles aquellos determinados en el Reglamento Interior del Tribunal de lo Contencioso Administrativo del Estado de Durango.
+Las autoridades estatales y municipales adoptarán las medidas que estén a su alcance, tanto por separado como coordinadamente, de conformidad con la disponibilidad de recursos que se haya determinado para tal fin en el Presupuesto de Egresos del Estado o de cada municipio, según sea el caso, para el ejercicio fiscal correspondiente, para que toda persona goce, sin discriminación alguna, de todos los derechos y libertades consagrados en la Constitución Federal, la Constitución Local, las leyes y los tratados internacionales de los que el Estado Mexicano sea parte y haya ratificado.
+
+Asimismo, en el Presupuesto de Egresos del Estado para cada ejercicio fiscal, se incluirán las asignaciones correspondientes para promover las medidas de nivelación, de inclusión y acciones afirmativas a que se refiere el Capítulo III de esta Ley.
 
 ###### Artículo 5.
 
-Los lineamientos contenidos en el presente Reglamento son de observancia obligatoria para los Servidores Públicos, Unidades administrativas y de apoyo del Tribunal, que tengan bajo su resguardo la información prevista en la Ley de Acceso a la Información Publica del Estado de Durango, y quienes deberán:
-
-I.- Facilitar el acceso a la información pública generada por el Tribunal; y
-
-II.- Custodiar y resguardar la información reservada, confidencial y sensible que se encuentre en poder del Tribunal.
+Queda prohibida toda práctica discriminatoria que tenga por objeto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades en términos del artículo 1°de (sic) la Constitución Federal, el 2º de la Constitución Local y el artículo 2, fracción XI, de esta Ley.
 
 ###### Artículo 6.
 
-En los términos de la Ley, la obligación de proporcionar información que se en encuentre en poder del Tribunal, no comprende el procesamiento de la misma, ni el presentarla conforme al interés del solicitante. Tampoco comprende el proporcionar información que no exista o no se encuentre bajo su dominio.
+No se considerarán discriminatorias las acciones afirmativas que tengan por efecto promover la igualdad real de oportunidades. Tampoco será juzgada como discriminatoria la distinción basada en criterios razonables, proporcionales y objetivos cuya finalidad no sea el menoscabo de derechos.
 
 ###### Artículo 7.
 
-Además de las definiciones contenidas en el Código de Justicia Administrativa para el Estado de Durango y su Reglamento Interior; La Ley de Acceso a la Información Pública del Estado de Durango, para efectos del presente Reglamento se entenderá por:
-
-I.- Ley: La Ley de Acceso a la Información Pública del Estado de Durango;
-
-II - Código: Código de Justicia Administrativa del Estado de Durango;
-
-III.- Reglamento: Reglamento para el Acceso a la información Pública del Tribunal de lo Contencioso Administrativo del Estado de Durango;
-
-IV.- Tribunal: El Tribunal de lo Contencioso Administrativo del Estado de Durango;
-
-V.- Consejo de Información: Al Consejo de Información del Tribunal;
-
-VI.- Unidad de Acceso, Documentación y Difusión: La Unidad de Acceso, Documentación y Difusión para la Información Pública del Tribunal, en ejercicio de las atribuciones que le confiere el Código y su Reglamento Interior, así como, el presente Reglamento;
-
-VII.- Unidades de Enlace y de Apoyo: Los servidores Públicos habilitados, que serán designados por el Consejo de Información del Tribunal;
-
-VIII.-Acuerdos: Los expedidos por el Pleno en funciones de Consejo de Información del Tribunal;
-
-IX.- Clasificación: Acto por el cual se determina mediante previo acuerdo, cual información es reservada, confidencial o sensible total o parcialmente;
-
-X.- Desclasificación: Acto por el cual se determina previo acuerdo, la publicidad de la información, que con anterioridad fue clasificada como reservada, confidencial o sensible.
-
-XI.- Medio electrónico: El medio a través del cual, el Tribunal suministrará el acceso a la información, utilizando la página de Internet, los sistemas computacionales, o en su caso, cualquier otra tecnología que se estime pertinente y que permita su uso posterior.
+La interpretación del contenido de esta Ley, así como la actuación de las autoridades estatales y municipales se ajustará a los instrumentos internacionales en materia de derechos humanos de los que el Estado Mexicano sea parte, así como con la jurisprudencia emitida por los órganos jurisdiccionales internacionales, las recomendaciones y resoluciones adoptadas por los organismos multilaterales y regionales y demás normativa aplicable.
 
 ###### Artículo 8.
 
-Los Órganos y Unidades responsables de garantizar el acceso, a la información Publica del Tribunal, en los términos previstos en la Ley, el presente Reglamento y demás disposiciones legales aplicables en la materia, son los siguientes:
-
-I.- El Consejo de Información del Tribunal;
-
-II.-La Unidad de Acceso, Documentación y Difusión para la Información Pública del Tribunal;
-
-III.- Unidades de Enlace y de Apoyo.
+Para los efectos del artículo anterior, cuando se presenten diferentes interpretaciones, se deberá preferir aquella que proteja con mayor eficacia a las personas o a los grupos que sean afectados por conductas discriminatorias.
 
 ###### Artículo 9.
 
-El Pleno del Tribunal, es el Órgano que fungirá como Consejo de Información en ejercicio de las atribuciones que le confiere el presente Reglamento, y estará integrado en términos del artículo 325 del Código.
+En la aplicación de la presente Ley intervendrán las autoridades estatales y municipales, así como el Consejo, los Consejos Municipales, la Unidad Administrativa y la Instancia Municipal, siendo la Secretaría la autoridad encargada de la rectoría de las acciones que por motivo de la presente Ley se realicen.
+
+Será obligación de las autoridades estatales y municipales establecer, en el ámbito de sus competencias, mediante reglamentos o acuerdos de carácter general, los procedimientos e instrumentos institucionales para promover, respetar, y garantizar el derecho a la no discriminación en estricto apego a la Constitución Federal, la Constitución Local y la presente Ley, así como proveer los medios de defensa necesarios para restituir sus derechos.
 
 ###### Artículo 10.
 
-El Consejo de Información del Tribunal, es el Órgano que tendrá a su cargo, la vigilancia, custodia, sistematización, clasificación y desclasificación de la Información, así como, atender y resolver los requerimientos y establecer los criterios y lineamientos a las Unidades de Acceso, Documentación y Difusión; Enlace y de Apoyo; además, de aplicar todo aquello que la Ley, Código, el presente Reglamento y demás disposiciones legales aplicables en la materia, le faculten.
+Para el cumplimiento y ejecución de la presente Ley, el Ejecutivo Estatal, a través de la Secretaría, podrá celebrar convenios de colaboración, coordinación, concertación o asociación, con las autoridades federales, los Ayuntamientos y los Poderes Judicial y Legislativo; así como con los sectores social, privado y académico. Así mismo, las Secretarías, Dependencias y Entidades Estatales podrán celebrar los actos jurídicos necesarios para tal fin.
 
-### CAPITULO II. DE LOS RESPONSABLES DEL ACCESO A LA INFORMACIÓN
+### CAPÍTULO II. DE LAS MEDIDAS PARA PREVENIR LA DISCRIMINACIÓN
 
 ###### Artículo 11.
 
-Los acuerdos que expida el Consejo de Información en el ámbito de su competencia serán públicos, en los términos y condiciones que establecen los artículos 324, 326 y 327 del Código.
+Con base en el artículo 2, fracción XI, de esta Ley se consideran (sic) como Discriminación, entre otras, las siguientes acciones u omisiones:
 
-### CAPITULO III. DE LA INFORMACIÓN QUE DEBE DIFUNDIRSE DE OFICIO
+I. Impedir el acceso o la permanencia a la educación pública o privada, así como a becas e incentivos en los institutos y centros educativos;
+
+II. Establecer contenidos, métodos o instrumentos pedagógicos en que se asignen papeles contrarios a la igualdad o que difundan una condición de subordinación;
+
+III. Prohibir la libre elección de empleo o restringir las oportunidades de acceso, permanencia y ascenso en el mismo;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
+
+IV. Establecer diferencias en la remuneración, las prestaciones y las condiciones laborales para trabajos iguales, generando prácticas que perpetúan la brecha salarial de género;
+
+V. Limitar el acceso y permanencia a los programas de capacitación y de formación profesional;
+
+VI. Negar o limitar información sobre derechos sexuales y reproductivos o impedir el libre ejercicio de la determinación del número y espaciamiento de los hijos y las hijas;
+
+VII. Negar o condicionar los servicios de atención médica, o impedir la participación en las decisiones sobre su tratamiento médico o terapéutico dentro de sus posibilidades y medios;
+
+VIII. Impedir la participación bajo condiciones equitativas en asociaciones civiles, políticas o de cualquier otra índole;
+
+IX. Negar o condicionar el derecho de participación política y, específicamente, el derecho al sufragio activo o pasivo, la elegibilidad y el acceso a todos los cargos públicos, así como la participación en el desarrollo y ejecución de políticas y programas de gobierno, en los casos y bajo los términos que establezcan las disposiciones aplicables;
+
+X. Impedir el ejercicio de los derechos de propiedad, administración y disposición de bienes de cualquier otro tipo;
+
+XI. Impedir o limitar el acceso a la procuración e impartición de justicia;
+
+XII. Impedir, negar o restringir el derecho a ser oídos y vencidos, a la defensa o asistencia; así como a la asistencia de intérpretes o traductores en los procedimientos administrativos o judiciales, de conformidad con la normativa aplicable; así como el derecho de las niñas y niños a ser escuchados;
+
+XIII. Aplicar cualquier tipo de uso o costumbre que atente contra la igualdad, dignidad e integridad humana;
+
+XIV. Impedir la libre elección de cónyuge o pareja;
+
+XV. Promover el odio y la violencia a través de mensajes e imágenes en los medios de comunicación y redes sociales;
+
+XVI. Limitar la libre expresión de las ideas, impedir la libertad de pensamiento, conciencia, religión, de prácticas o costumbres religiosas, siempre que éstas no atenten contra el orden público;
+
+XVII. Negar asistencia religiosa a personas privadas de la libertad o que estén internadas en instituciones de salud o asistencia, cuando así lo soliciten;
+
+XVIII. Restringir el acceso a la información, salvo en aquellos supuestos que sean establecidos por la normativa estatal y federal, así como instrumentos jurídicos internacionales aplicables;
+
+XIX. Obstaculizar las condiciones mínimas necesarias para el crecimiento y desarrollo integral, especialmente de las niñas y los niños, con base en el interés superior de la niñez;
+
+XX. Impedir el acceso a los programas sociales y a sus beneficios o establecer limitaciones para la contratación de seguros médicos, salvo en los casos que la ley así lo disponga;
+
+XXI. Limitar el derecho a la alimentación, la vivienda, el recreo y los servicios de atención médica adecuados, en los casos que la normativa aplicable así lo prevea;
+
+XXII. Impedir el acceso a cualquier servicio público o institución privada que preste servicios al público, así como limitar el acceso y libre desplazamiento en los espacios públicos;
+
+XXIII. La falta de accesibilidad en el entorno físico, el transporte, la información, la tecnología y las comunicaciones, en servicios e instalaciones abiertos al público o de uso público;
+
+XXIV. La denegación de ajustes razonables que garanticen, en igualdad de condiciones, el goce o ejercicio de los derechos de las personas con discapacidad;
+
+XXV. Explotar o dar un trato abusivo o degradante a las personas;
+
+XXVI. Restringir la participación en actividades deportivas, recreativas o culturales;
+
+XXVII. Restringir o limitar el uso de su lengua, usos, costumbres y cultura, en actividades públicas o privadas, en términos de la normativa aplicable;
+
+XXVIII. Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones para el aprovechamiento, administración o usufructo de recursos naturales, una vez satisfechos los requisitos establecidos en las disposiciones jurídicas aplicables;
+
+XXIX. Incitar al odio, violencia, rechazo, burla, injuria, persecución o la exclusión a través de cualquier medio;
+
+XXX. Realizar o promover violencia física, sexual o psicológica, patrimonial o económica por la edad, identidad de género, discapacidad, apariencia física, forma de vestir, hablar, gesticular, por asumir públicamente su preferencia u orientación sexual o por cualquier otro motivo de discriminación;
+
+XXXI. Estigmatizar o negar derechos a personas con adicciones, aquellas que hayan estado o se encuentren en centros de reclusión o en instituciones de atención a personas con discapacidad mental o psicosocial;
+
+XXXII. Negar la prestación de servicios financieros a personas con discapacidad y personas adultas mayores;
+
+XXXIII. Difundir, sin consentimiento del paciente, información sobre su condición de salud;
+
+XXXIV. Estigmatizar y negar derechos a personas diagnosticadas con VIH;
+
+XXXV. Implementar o ejecutar políticas públicas, programas u otras acciones de gobierno que tengan un impacto desventajoso en los derechos de las personas, y
+
+XXXVI. En general, cualquier otro acto u omisión discriminatorio análogos a los anteriores en términos del artículo 2, fracción XI, de esta Ley y otras disposiciones jurídicas aplicables.
+
+### CAPÍTULO III. DE LAS MEDIDAS DE NIVELACIÓN, LAS MEDIDAS DE INCLUSIÓN Y LAS ACCIONES AFIRMATIVAS
 
 ###### Artículo 12.
 
-La Unidad de Acceso, Documentación y Difusión, estará integrad por el Presidente del Tribunal, un Magistrado de la Sala Ordinaria que sea designado por el Pleno, la Secretaría General de Acuerdos, y el Director Administrativo del Tribunal; y estará a cargo de éste último, quien tendrá además de las atribuciones que le confiere la Ley, el Código y su Reglamento Interior, las siguientes:
+Cada una de las autoridades estatales y municipales y demás instancias que estén bajo su regulación o competencia, están obligadas a realizar las medidas de nivelación, de inclusión y las acciones afirmativas necesarias para garantizar a toda persona la igualdad real de oportunidades y el derecho a la no discriminación.
 
-I.- Elaborar semestralmente y por rubros temáticos, un índice de la información o de los expedientes clasificados como reservados, confidenciales y sensibles;
-
-II.- Vigilar que solo sea difundida la información de oficio, y publicarla en los medios oficiales de difusión, en la página de Internet, folletos, y demás medios que se estimen pertinentes, en los términos y condiciones de la Ley, el presente Reglamento; y demás disposiciones aplicables en la materia;
-
-III- Proporcionar los datos personales de los Servidores Públicos en los supuestos y bajo las condiciones previstas en los artículos 23 fracción II, 24 y 26 de la Ley;
-
-IV.- Custodiar la Información clasificada como reservada, confidencial y sensible;
-
-V.- Recibir en coordinación con oficialía de Partes, las solicitudes de Acceso a la Información y darles seguimiento hasta su desahogo, en los términos aplicables;
-
-VI.- Diseñar y Operar un sistema de solicitudes de Acceso a la Información Pública, sencillo, ágil y expedito;
-
-VII.- Llevar un registro y un expediente por cada una de las solicitudes de acceso a la información;
-
-VIII.- Entregar la información solicitada, o en su caso, emitir la resolución correspondiente fundando y motivando la misma;
-
-IX.- Integrar un catalogo respecto de la Información con que cuentan las Unidades de Enlace y de Apoyo y mantenerlo actualizado;
-
-X.- Verificar si la Unidad de Enlace, a la que pretende remitir la solicitud es competente para darle trámite de acuerdo a la información que maneja;
-
-XI.- Requerir a la Unidad de Enlace antes del vencimiento del plazo señalado para darle el trámite debido de respuesta a la solicitud de acceso a la información;
-
-XII.- Proponer al Presidente del Tribunal, las disposiciones complementarias en cuanto al trámite de las solicitudes de acceso a la información publica;
-
-XIII.- Orientar al solicitante, respecto de la unidad de enlace que tenga la información requerida, cuando la misma no corresponda al ámbito de su competencia;
-
-XIV.- Elaborar un programa para facilitar la obtención de la información, el cual deberá ser actualizado periódicamente y que incluya las medidas necesarias para la organización de archivos;
-
-XV.- En caso de negativa de acceso a la información solicitada o en el supuesto de que la solicitud contenga información reservada, confidencial o sensible, deberá remitir el proyecto de acuerdo respectivo debidamente fundado y motivado en los términos establecidos en la Ley, y el presente Reglamento;
-
-XVI.- En su caso, coordinar las funciones de la biblioteca y archivo central del Tribunal;
-
-XVII.- Apoyar a los particulares, orientándolos y facilitándoles los medios para que puedan ejercitar el derecho de acceso a la Información;
-
-XVIII.- Tramitar todo lo relativo para el logro de los propósitos de acceso a la información requerida por los particulares en poder del Tribunal; y
-
-XIX.- Las demás que le confiera el Presidente del Tribunal y el presente Reglamento.
+La adopción de estas medidas forma parte de la perspectiva antidiscriminatoria, la cual debe ser incorporada de manera transversal y progresiva en el quehacer público y, de manera particular, en el diseño, implementación y evaluación de las políticas públicas que lleven a cabo cada una de las autoridades estatales y municipales. Por lo tanto, las medidas de nivelación, inclusión y acciones afirmativas no se consideran discriminatorias.
 
 ###### Artículo 13.
 
-Las Unidades de Enlace y de Apoyo, estarán integradas por los Servidores Públicos habilitados, quienes serán designados por el Consejo de Información del Tribunal; y podrán apoyar a la Unidad de Acceso, Documentación y Difusión, en lo que les solicite para el cumplimiento de sus atribuciones de acuerdo con la Ley, el presente Reglamento y demás disposiciones legales aplicables en la materia.
+Las medidas de nivelación, entre otras, incluyen las siguientes:
+
+I. Ajustes razonables en materia de accesibilidad física y de información y comunicaciones;
+
+II. Adaptación de los puestos de trabajo para personas con discapacidad;
+
+III. Diseño y distribución de comunicaciones oficiales, convocatorias públicas, libros de texto, licitaciones, entre otros, en formato braille o en lenguas indígenas;
+
+IV. Uso de intérpretes de lengua de señas mexicanas en los eventos públicos de las autoridades estatales y municipales;
+
+V. Uso de intérpretes y traductores de lenguas indígenas;
+
+VI. La accesibilidad del entorno social, incluyendo acceso físico, de comunicaciones y de información;
+
+VII. La promoción de la derogación o abrogación de las disposiciones normativas que impongan requisitos discriminatorios de ingreso y permanencia a escuelas o trabajos, entre otros;
+
+VIII. La creación de licencias de paternidad, así como la homologación de condiciones de derechos y prestaciones para los grupos en situación de discriminación o vulnerabilidad, y
+
+IX. Las demás que prevean otras disposiciones jurídicas aplicables.
 
 ###### Artículo 14.
 
-La Información que deberá ser difundida de oficio por el Tribunal de manera permanente, en los medios oficiales de difusión, en la página de Internet, folletos, y demás medios que estime pertinentes, en los términos que establece la Ley, es la siguiente:
+Las medidas de inclusión podrán comprender, entre otras, las siguientes:
 
-I.- Su estructura orgánica los servicios que presta, dando a conocer los trámites y requisitos correspondientes, las atribuciones por unidad administrativa y la normatividad que las rige;
+I. La educación para la igualdad y la diversidad dentro del Sistema Educativo Estatal;
 
-II.- Leyes, Reglamentos, Decretos, Acuerdos, Convenios, Manuales de organización y demás, documentos y disposiciones administrativas de observancia general que regulan la actuación del Tribunal;
+II. La integración en el diseño, instrumentación y evaluación de las políticas públicas del derecho a la igualdad y a la no discriminación;
 
-III.- Informes anuales de actividades del Tribunal, así como, de las a auditorias que se practiquen por los órganos de control interno del Tribunal o externo al mismo;
+III. El desarrollo de políticas contra la homofobia, transfobia, xenofobia, misoginia, discriminación por apariencia o el adultocentrismo;
 
-IV.- El Presupuesto de Egresos aprobado para cada ejercicio fiscal, para la administración de la Justicia Administrativa y partidas de aplicación;
+IV. Las acciones de sensibilización y capacitación dirigidas a integrantes del servicio público con el objeto de combatir actitudes discriminatorias;
 
-V.- Las publicaciones del órgano de Difusión Oficial del Tribunal, Memoriales, Compendios de Legislación y Jurisprudencia;
+V. El llevar a cabo campañas de difusión al interior de las autoridades estatales y municipales, y
 
-VI.- Directorio de los Servidores Públicos, desde el mando superior y del personal jurídico y administrativo del Tribunal, el cual incluirá, el nombre, cargo, numero de teléfono y domicilio oficial, y en su caso, el número de fax y la dirección de correo electrónico, siempre y cuando se cuente con ellos;
-
-VII.- El salario mensual por puesto, de los servidores públicos del Tribunal;
-
-VIII.- Domicilio de la Unidad de Acceso, Documentación y Difusión del Tribunal, así como, el nombre del responsable y horario de atención al público, número telefónico y correo electrónico;
-
-XI.- Medios y requisitos para solicitar el acceso a la Información requerida;
-
-X.- Contratos, convenios o acuerdos de asignación sobre el control patrimonial y de coordinación o colaboración con Instituciones públicas y privadas con fines de apoyar a la administración de justicia;
-
-XI.- Inventario de bienes inmuebles adquiridos o asignados que conformen el patrimonio del Tribunal; y
-
-XII.- La demás información que en términos y condiciones de la Ley y presente Reglamento, deba ser difundida de oficio.
+VI. Las demás que prevean otras disposiciones jurídicas aplicables.
 
 ###### Artículo 15.
 
-La información que debe ser difundida de oficio, deberá actualizarse periódicamente atendiendo a su ciclo de generación para que la consulta por los particulares resulte certera, útil, pronta y expedita.
+Las acciones afirmativas podrán incluir, entre otras, las medidas para favorecer el acceso, permanencia y promoción de personas pertenecientes a grupos en situación de discriminación y subrepresentados, en espacios educativos, laborales y cargos de elección popular a través del establecimiento de porcentajes o cuotas.
 
-En todo caso, la actualización de la información que no tenga un ciclo de generación definido, se hará cada tres meses.
+Las acciones afirmativas serán prioritariamente aplicables hacia personas pertenecientes a los pueblos indígenas, afrodescendientes, del colectivo de la diversidad sexual, mujeres, niñas, niños y adolescentes, personas con discapacidad, personas adultas mayores, personas diagnosticadas con VIH, personas migrantes y demás grupos en situación de vulnerabilidad bajo la perspectiva de género.
+
+A fin de dar cumplimiento a las acciones afirmativas, en la aplicación de las sanciones correspondientes, se deberá tomar en cuenta si la acción discriminatoria es una forma de discriminación directa o indirecta, conforme lo establezca el Reglamento; además, se deberá tomar en cuenta la edad de las personas a fin de aplicar las acciones afirmativas a niñas, niños, adolescentes y personas adultas mayores en los ámbitos relevantes.
 
 ###### Artículo 16.
 
-La Unidad de Acceso, Documentación y Difusión, instalará en su oficina o lugar que estime conveniente un módulo de acceso, a fin de atender de manera pronta y expedita en lo conducente la información de oficio, a través de los medios oficiales de difusión, la página de Internet, folletos, y demás medios que estime pertinentes.
+Las autoridades estatales y municipales que adopten medidas de nivelación, medidas de inclusión y acciones afirmativas, deben reportarlas periódicamente al Consejo y a los Consejos Municipales para su registro y monitoreo; éstos recabarán, registrarán y tratarán la información en los términos que establezca el Reglamento.
 
-### CAPÍTULO IV. DE LA CLASIFICACIÓN DE LA INFORMACIÓN
+### CAPÍTULO IV. DEL CONSEJO ESTATAL
+
+#### SECCIÓN PRIMERA. DE SU NATURALEZA, OBJETO Y ATRIBUCIONES
 
 ###### Artículo 17.
 
-El acceso a la información será permanente y gratuito; sin embargo, la expedición de documentos, reproducciones y el suministro de materiales utilizados en la reproducción de la información, se sujetará en su caso, al costo relacionado con el material empleado y al de envío, salvo las copias certificadas cuyo costo se debe contemplar en el pago de los derechos, productos y aprovechamientos establecidos, en la legislación correspondiente.
+El Consejo Estatal es un órgano plural de consulta, asesoría, vinculación y evaluación entre el Gobierno y la sociedad; es el rector de la política pública sobre igualdad y no discriminación en el Estado.
 
 ###### Artículo 18.
 
-El ejercicio del derecho de acceso a la información publica en poder del Tribunal, solo será restringido, en los términos y condiciones que disponga la Ley, el presente Reglamento y los acuerdos, mediante los cuales se determine por la Comisión de Información la clasificación de reservada, confidencial o sensible.
+El Consejo Estatal tiene como objeto:
+
+I. Contribuir al desarrollo cultural, social y democrático del Estado;
+
+II. En el ámbito de su competencia, llevar a cabo las acciones conducentes para prevenir y eliminar la discriminación;
+
+III. Formular y promover políticas públicas para la igualdad de oportunidades y de trato a favor de las personas que se encuentren en territorio estatal, y
+
+IV. Coordinar las acciones de las Secretarías, Dependencias y Entidades de los Poderes Públicos Estatales, en materia de prevención y eliminación de la discriminación.
 
 ###### Artículo 19.
 
-El acuerdo que clasifique o desclasifique la información deberá estar debidamente fundado y motivado en los términos y supuestos que para tal efecto dispone la Ley.
+El Consejo Estatal tiene las siguientes atribuciones:
+
+I. Asesorar a la Unidad Administrativa en cuestiones relacionadas con la prevención y eliminación de la discriminación;
+
+II. Atender las consultas y formular las opiniones que le sean solicitadas por la Unidad Administrativa;
+
+III. Generar y promover políticas públicas, programas, proyectos o acciones cuyo objeto o resultado esté encaminado a la prevención y eliminación de la discriminación;
+
+IV. Elaborar instrumentos de acción pública que contribuyan a incorporar la perspectiva de no discriminación en el ámbito de las políticas públicas;
+
+V. Formular observaciones, sugerencias y directrices a quien omita el cumplimiento o desvíe la ejecución del Programa; así como facilitar la articulación de acciones y actividades que tengan como finalidad atender su cumplimiento;
+
+VI. Solicitar auxilio a las autoridades Estatales, a fin de que remitan la información que juzgue pertinente sobre la materia, para el desarrollo de su objeto;
+
+VII. Promover que, en el Presupuesto de Egresos de la Entidad, se destinen los recursos necesarios para la efectiva realización de las obligaciones en materia de no discriminación;
+
+VIII. Elaborar guías de acción pública con la finalidad de aportar elementos de política pública, para prevenir y eliminar la discriminación;
+
+IX. Promover, a través de las autoridades que integren el Consejo y conforme a su competencia, el derecho a la no discriminación mediante campañas de difusión y divulgación y una cultura de denuncia de prácticas discriminatorias;
+
+X. Promover que, en los medios de comunicación, se incorporen contenidos orientados a prevenir y eliminar las prácticas discriminatorias;
+
+XI. Promover el uso no sexista del lenguaje y la introducción de formas de comunicación incluyentes en el ámbito público y privado;
+
+XII. Reconocer públicamente a personas que, en lo individual, con sus acciones se distingan o se hayan distinguido en su trayectoria, por impulsar una cultura de igualdad de oportunidades y de no discriminación y el ejercicio real de los derechos de todas las personas;
+
+XIII. Coadyuvar con la Unidad Administrativa en materia de discriminación conforme a su competencia;
+
+XIV. Proponer a las instituciones del Sistema Educativo Estatal, lineamientos y criterios para el diseño, elaboración o aplicación de contenidos, materiales pedagógicos y procesos de formación en materia de igualdad y no discriminación, y
+
+XV. Las demás que le otorgue la normativa aplicable.
 
 ###### Artículo 20.
 
-La falta del acuerdo que clasifique o desclasifique alguna información como reservada, confidencial o sensible, no implica la pérdida de ese carácter; en tal caso el Consejo de Información subsanar de inmediato dicha omisión.
+El Consejo Estatal difundirá periódicamente los avances, resultados e impactos de las políticas, programas y acciones en materia de prevención y eliminación de la discriminación, a fin de mantener informada a la sociedad, conforme lo establezca el Reglamento.
+
+#### SECCIÓN SEGUNDA. DE SU INTEGRACIÓN Y SESIONES
 
 ###### Artículo 21.
 
-La clasificación de la información se llevará a cabo en el momento en que:
+El Consejo Estatal se integra de la siguiente forma:
 
-I.- Se reciba una solicitud de acceso y la información no se hubiere clasificado previamente; o
+I. La persona titular del Poder Ejecutivo Estatal, quien lo presidirá por sí o por el representante que designe al efecto;
 
-II.- Se genere, obtenga, adquiera, recopile, procese o transforme la información.
+II. La persona titular de la Secretaría, quien fungirá como Secretario Técnico del Consejo;
+
+III. La persona titular de la Secretaría de Hacienda del Poder Ejecutivo Estatal;
+
+IV. La persona titular de la Secretaría de Salud del Poder Ejecutivo Estatal;
+
+V. La persona titular de la Secretaría de Educación del Poder Ejecutivo Estatal;
+
+VI. La persona titular de la Secretaría del Trabajo del Poder Ejecutivo Estatal;
+
+VII. La persona titular de la Secretaría de Desarrollo Social del Poder Ejecutivo Estatal;
+
+VIII. La persona titular de la Secretaría de Cultura del Poder Ejecutivo Estatal;
+
+IX. La persona titular de la rectoría de la Universidad Autónoma del Estado de Morelos;
+
+X. La persona titular de la presidencia de la Comisión de Derechos Humanos del Estado de Morelos;
+
+XI. La persona titular de la Dirección General del Instituto de la Mujer para el Estado de Morelos;
+
+XII. Una persona representante del Congreso Estatal;
+
+XIII. Una persona representante del Poder Judicial Estatal;
+
+XIV. Una persona representante de la Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos, y
+
+XV. Tres representantes de la sociedad civil.
+
+El Consejo Estatal podrá invitar a sus sesiones, con derecho a voz, pero sin voto, a representantes de instituciones, asociaciones, organizaciones y personas que considere oportunas a fin de que aporten ideas sobre los temas a tratar.
+
+Por cada integrante propietario habrá un suplente, quien será designado por el titular y que contará con las mismas atribuciones que los propietarios.
+
+Para el caso de que el representante que designe la persona titular del Poder Ejecutivo Estatal para fungir como Presidente del Consejo Estatal sea un integrante de éste último, en términos del presente artículo, dicho integrante deberá designar a su vez a la persona que lo supla, a fin de evitar la concentración de votos en una sola persona para la toma de decisiones.
 
 ###### Artículo 22.
 
-El Consejo de Información, formulará y expedirá un índice temático de información clasificada, el cual deberá contener:
+El cargo de integrante del Consejo Estatal será honorífico, por lo que no se recibirá retribución, emolumento ni compensación alguna por su desempeño.
 
-I.- El rubro temático o fuente de información;
+Las y los integrantes del Consejo Estatal a que se refieren las fracciones de la I a la XIV del artículo que antecede, cuentan con cargo institucional por lo que durarán en su encargo por todo el tiempo que subsistan su designación y nombramiento.
 
-II.- Causa o motivo por la cual se clasifica fundamentándola legal y debidamente;
-
-III.- La Unidad de Acceso, Enlace o de apoyo, que lo generó, obtuvo, adquirió, transformó o conservó la información;
-
-IV.- Fecha de clasificación;
-
-V.- El plazo de reserva;
-
-VI.- Las partes de los documentos, expedientes o archivos que se reservan; y
-
-VII.- La autoridad o el responsable de su conservación.
+Los ciudadanos representantes a que hace referencia el artículo anterior serán designados conforme lo establezca el Reglamento.
 
 ###### Artículo 23.
 
-Cuando sea necesario ampliar el plazo de reserva de un expediente o documento, la Unidad correspondiente deberá, hacer la solicitud al Consejo de Información, debidamente fundada y motivada, por lo menos un mes de anticipación, al vencimiento del periodo de reserva.
+Las sesiones del Consejo Estatal se desarrollarán conforme la normativa aplicable, debiéndose observar, cuando menos, lo siguiente:
 
-### CAPÍTULO V. DE LA INFORMACIÓN RESERVADA, CONFIDENCIAL Y SENSIBLE
+I. Sesionará válidamente cuando se encuentren presentes más de la mitad de sus integrantes, siempre que esté la persona titular de la Presidencia del Consejo Estatal o el servidor público que al efecto se designe;
+
+II. Los acuerdos se tomarán por mayoría de votos y, en caso de empate, la persona titular de la Presidencia del Consejo Estatal, tendrá voto de calidad, y
+
+III. Las sesiones serán ordinarias y extraordinarias; las ordinarias se llevarán a cabo por lo menos dos veces al año y, las extraordinarias, cuando las convoque la persona titular de la Presidencia del Consejo Estatal, a petición de la tercera parte de sus integrantes, las veces que sean necesarias, tratándose de un asunto imprevisto, de imperiosa necesidad o extrema urgencia, en la forma y términos que establezca la normativa aplicable.
+
+### CAPÍTULO V. DE LOS CONSEJOS MUNICIPALES
 
 ###### Artículo 24.
 
-Se considera información reservada, confidencial y sensible, la expresamente clasificada como tal, mediante el previo acuerdo que determine el Consejo de Información, en los términos y condiciones que disponga la Ley y el presente Reglamento.
+Los Consejos Municipales son órganos plurales de consulta, asesoría, vinculación y evaluación entre los municipios y la sociedad.
+
+A fin de que en la Entidad se mantengan medidas uniformes de política pública sobre acciones antidiscriminatorias, así como la formulación de estrategias conjuntas, los Consejos Municipales y el Consejo Estatal deberán realizar los actos de coordinación o cooperación necesarios para lograr tal fin.
 
 ###### Artículo 25.
 
-Además de lo previsto en el artículo anterior, se considerará como información reservada, confidencial y sensible la siguiente:
+Los Consejos Municipales se integran de la siguiente manera:
 
-I.- El contenido de los expedientes hasta en tanto no hayan causado ejecutoria las sentencias definitivas o resoluciones que pongan fin al proceso;
+I. La persona titular de la Presidencia Municipal, quien lo presidirá;
 
-II.- Los datos personales que obren en los expedientes, por lo que hace a las partes, testigos y peritos;
+II. La persona titular de la Secretaría del Ayuntamiento, como secretario ejecutivo, que suplirá a la persona titular de la Presidencia Municipal en caso de ausencia;
 
-III.- Los expedientes relativos a procedimientos de responsabilidades administrativas de los servidores públicos, hasta que se dicte resolución definitiva o que se haya dado por concluido el procedimiento, y no exista medio de impugnación en su contra;
+III. La persona titular de la Instancia Municipal de la Mujer con que, en su caso, cuente el Ayuntamiento, de conformidad con la normativa aplicable;
 
-IV.- El contenido de los proyectos de resolución de las sentencias, así como, las opiniones, criterios, recomendaciones o puntos de vista que se generen en la discusión de los asuntos;
+IV. Las personas titulares de las regidurías del Ayuntamiento, y
 
-V.- Los datos personales de los servidores públicos del Tribunal, que sólo podrán ser proporcionados, mediante su consentimiento y en los términos que dispone la Ley, y el presente Reglamento;
+V. Tres representantes de la sociedad civil.
 
-VI.- La que por disposición de la Ley, se considere como tal.
+Los Consejos Municipales desarrollarán sus sesiones y designarán a sus integrantes conforme la normativa que al efecto expidan; garantizando en todo caso, la representación de los grupos en situación de vulnerabilidad y la igualdad de género en su integración.
 
 ###### Artículo 26.
 
-Para efectos de lo dispuesto en la Ley; y el presente Reglamento, se considera información sensible la que está en poder del Tribunal y que contenga datos que revelen el origen racial y étnico, las opiniones políticas, convicciones filosóficas, religiosas, morales, afiliación sindical o política, preferencias sexuales, estado de salud físico o mental, relaciones familiares, o conyugales u otras análogas que afecten la intimidad.
+Los Consejos Municipales tienen las siguientes atribuciones:
 
-### CAPITULO VI. DEL PROCEDIMIENTO PARA EL ACCESO A LA INFORMACIÓN PÚBLICA
+I. Fomentar la eliminación de las diferentes formas de discriminación conforme lo establecido en la presente Ley;
 
-###### Articulo 27.
+II. Generar y promover políticas públicas, programas, proyectos o acciones cuyo objeto o resultado esté encaminado a la prevención y eliminación de la discriminación, así como el derecho a la igualdad;
 
-La información en poder del Tribunal, relativa a los datos personales de una persona física identificada o identificable, y la entregada por los particulares al mismo, constituyen información confidencial, por lo que no podrán ser objeto de divulgación y su acceso, estará vedado a toda persona distinta del concernido, salvo las excepciones previstas en la Ley y el presente Reglamento.
+III. Elaborar instrumentos de acción pública que contribuyan a incorporar la perspectiva de no discriminación en el ámbito de las políticas públicas;
+
+IV. Fomentar la igualdad de oportunidades dentro del municipio con principal atención a los grupos en situación de discriminación;
+
+V. Impulsar y promover la capacitación y sensibilización de las personas servidoras públicas del Ayuntamiento en temas de igualdad, inclusión y no discriminación;
+
+VI. Promover la presentación de denuncias o quejas por actos discriminatorios ante las instancias correspondientes para la defensa del derecho a la no discriminación, y
+
+VII. Las demás que les otorgue la normativa aplicable.
+
+### CAPÍTULO VI. DE LA UNIDAD ADMINISTRATIVA Y LAS INSTANCIAS MUNICIPALES
+
+###### Artículo 27.
+
+Las atribuciones y funciones que esta Ley le encomienda a la Secretaría, serán ejercidas por la Unidad Administrativa que le sea asignada en su estructura orgánica; por su parte, los Ayuntamientos establecerán una Instancia Municipal correspondiente, en el ámbito de su respectiva competencia.
+
+La Unidad Administrativa y las Instancias Municipales serán las autoridades competentes para dar cumplimiento a lo dispuesto por la presente Ley y diversos trámites relativos, conforme su respectivo ámbito de competencia, o bien conforme los acuerdos de coordinación o cooperación que al efecto se celebren.
+
+La Unidad Administrativa y las Instancias Municipales regirán sus funciones conforme lo dispuesto en la presente Ley, su Reglamento y demás normativa aplicable.
+
+#### SECCIÓN PRIMERA. DE LA COMPETENCIA
 
 ###### Artículo 28.
 
-Los expedientes y documentos clasificados como reservados, serán debidamente custodiados y reservados conforme a los lineamientos y criterios que expida el Consejo de Información del Tribunal y la Unidad de Enlace respectiva, en el ámbito de sus respectivas competencias; en los términos y condiciones que dispone la Ley, y demás disposiciones legales aplicables.
+La Unidad Administrativa conocerá de las quejas que se interpongan por presuntos actos, omisiones o prácticas sociales discriminatorias, que sean atribuidos a particulares, personas físicas o morales, así como a servidores públicos y autoridades estatales; imponiendo, en su caso, las medidas administrativas y de reparación respectivas, en términos de esta Ley.
 
 ###### Artículo 29.
 
-Por ningún motivo, los Servidores Públicos y demás personal administrativo y jurídico, podrán sustraer de las instalaciones del Tribunal, los expedientes, documentos o comunicaciones internas que sean parte de un proceso deliberativo, salvo que sea por causa debidamente justificada. Tampoco podrá hacer del conocimiento público o de las partes, el sentido de los proyectos de sentencias que se emitan en los asuntos jurisdiccionales, si éstos no han sido resueltos por el Pleno, divulgar la información que con motivo de sus funciones tenga acceso. La contravención a esta disposición, será causa de responsabilidad en los términos del presente Reglamento, el Código y su Reglamento Interior.
+Las Instancias Municipales conocerán de las quejas que se interpongan por presuntos actos, omisiones o prácticas sociales discriminatorias, que sean atribuidos a servidores públicos y autoridades municipales; imponiendo, en su caso, las medidas administrativas y de reparación respectivas, en términos de esta Ley.
+
+#### SECCIÓN SEGUNDA. DEL OBJETO Y LAS ATRIBUCIONES
 
 ###### Artículo 30.
 
-Cuando un expediente contenga documentos públicos y reservados, se deberá entregar aquellos que estén clasificados como públicos. Tratándose de un documento que contenga partes o secciones reservadas, se deberá entregar una versión en el (sic) que se omitan estas últimas. Las reproducciones de los expedientes o documentos constituirán las versiones públicas correspondientes.
+La Unidad Administrativa y las Instancias Municipales tienen por objeto realizar acciones para prevenir y eliminar toda forma de discriminación e intolerancia, garantizando la igualdad de oportunidades entre las personas en el Estado.
 
 ###### Artículo 31.
 
-Cuando la Unidad de Acceso, reciba una solicitud para acceder a la información de un expediente o documento que contenga información confidencial, podrá requerir al particular titular de la información su consentimiento expreso para entregarla, quien tendrá un término de tres hábiles para responder a partir de la notificación correspondiente. El silencio del particular será considerado como una negativa.
+Para el cumplimiento de su objeto, la Secretaría, a través de la Unidad Administrativa y los Ayuntamientos, a través de la Instancia Municipal respectiva, tendrán las siguientes atribuciones, según corresponda:
 
-### CAPÍTULO VII. DE LOS RECURSOS
+I. Verificar que las autoridades estatales y municipales e instituciones y organismos privados, adopten medidas y programas para prevenir y eliminar la discriminación;
+
+II. Participar en el diseño del Plan Estatal de Desarrollo o el Plan Municipal de Desarrollo, según el caso, en los programas que de ellos se deriven y en los programas sectoriales, procurando que en su contenido se incorpore la perspectiva del derecho a la no discriminación;
+
+III. Exclusivamente a la Unidad Administrativa, elaborar, coordinar y supervisar la instrumentación del Programa, que tendrá el carácter de especial y de cumplimiento obligatorio, de conformidad con la Ley Estatal de Planeación;
+
+IV. Desarrollar acciones y estrategias de promoción cultural que incentiven el uso de espacios, obras, arte y otras expresiones para sensibilizar sobre la importancia del respeto a la diversidad y la participación de la sociedad en pro de la igualdad y la no discriminación;
+
+V. Promover el derecho a la no discriminación mediante campañas de difusión y divulgación;
+
+VI. Celebrar convenios para llevar a cabo procesos de formación que fortalezcan la multiplicación y profesionalización de recursos en la materia;
+
+VII. Difundir las obligaciones asumidas por el Estado Mexicano en los instrumentos internacionales que establecen disposiciones en materia de no discriminación, así como promover su cumplimiento por parte de las autoridades estatales y municipales, para lo cual podrá formular observaciones generales o particulares;
+
+VIII. Elaborar y difundir pronunciamientos sobre temas relacionados con la no discriminación que sean de interés público;
+
+IX. Efectuar, fomentar, coordinar y difundir estudios e investigaciones sobre el derecho a la no discriminación;
+
+X. Exclusivamente a la Unidad Administrativa, emitir opiniones con relación a los proyectos de reformas en la materia que se presenten en el Congreso Estatal;
+
+XI. Promover en las instituciones públicas y privadas y organizaciones de la sociedad civil la aplicación de acciones afirmativas, buenas prácticas y experiencias exitosas en materia de no discriminación;
+
+XII. Establecer una estrategia que permita a las instituciones públicas, privadas y organizaciones sociales, llevar a cabo programas y medidas para prevenir y eliminar la discriminación en sus prácticas, instrumentos organizativos y presupuestos;
+
+XIII. Sensibilizar, capacitar y formar a servidores públicos en materia de no discriminación;
+
+XIV. Instrumentar la profesionalización y formación permanente de su personal;
+
+XV. Elaborar programas de formación para las personas y organizaciones de la sociedad civil a fin de generar activos y recursos multiplicadores capaces de promover y defender el derecho a la igualdad y no discriminación;
+
+XVI. Conocer e investigar los presuntos casos de discriminación que se presenten, cometidos por servidores públicos y autoridades estatales y municipales o particulares y velar porque se garantice el cumplimiento de todas sus resoluciones, en ámbito de su competencia o jurisdicción;
+
+XVII. Emitir Resoluciones por Disposición, informes especiales y, en su caso, establecer medidas administrativas y de reparación en contra de servidores públicos, autoridades estatales o municipales, así como particulares, según corresponda el ámbito de su competencia, en caso de que hayan cometido alguna acción u omisión de discriminación previstas en esta Ley;
+
+XVIII. Orientar y canalizar a las personas, grupos y comunidades a la instancia correspondiente en caso de que no surta la competencia de la Unidad Administrativa o la Instancia Municipal;
+
+XIX. Promover la presentación de denuncias, quejas o alguna otra instancia, por actos que puedan dar lugar a responsabilidades previstas en esta Ley u otras disposiciones jurídicas; así como ejercer ante las autoridades competentes acciones colectivas para la defensa del derecho a la no discriminación;
+
+XX. Celebrar convenios de colaboración con las autoridades federales, estatales y municipales, con los órganos de la Administración Pública de la Entidad, con particulares, con organismos internacionales u organizaciones de la sociedad civil, a fin de dar cumplimiento a su objeto;
+
+XXI. Proporcionar orientación, formación y capacitación bajo diversas modalidades, a fin de lograr la erradicación de la discriminación en la Entidad, y
+
+XXII. Las demás que les otorgue la normativa aplicable.
+
+### CAPÍTULO VII. DEL PROCEDIMIENTO DE QUEJA
+
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 32.
 
-La solicitud para obtener información podrá hacerse por escrito o verbalmente según proceda. Cuando sea verbal, se registrará en el formato respectivo y procederá a entregarse una copia debidamente sellada de recibido de la misma al interesado.
+Las quejas se tramitarán y sustanciarán conforme a lo dispuesto en el Reglamento. El procedimiento será breve y sencillo, y se regirá por los principios pro persona, de inmediatez, concentración, eficacia, profesionalismo, buena fe, gratuidad y suplencia de la deficiencia de la queja. En todo caso, deberán de observar lo dispuesto por la presente Ley.
 
 ###### Artículo 33.
 
-La solicitud de acceso a la información que se presente por escrito, deberá contener los siguientes datos:
+Toda persona podrá presentar quejas por presuntos actos, omisiones, prácticas sociales discriminatorias o por actos de discriminación, directa o indirecta, de acuerdo con lo dispuesto en el artículo 2 de la presente Ley, ante la Unidad Administrativa o la Instancia Municipal, según corresponda, ya sea directamente o por medio de su representante.
 
-I.- Dirigirse al Tribunal;
+Las organizaciones de la sociedad civil podrán presentar quejas en los términos del Reglamento, designando un representante.
 
-II.- Nombre completo, datos generales e identificación con documento oficial del solicitante;
-
-III.- Descripción clara y precisa de los datos e información que se solicita, y si se trata de la reproducción de algún documento, especificarlo si se pretende obtener copia simple o certificada del mismo, o lo requiere en algún otro medio legalmente autorizado para reproducirlo;
-
-IV.- Lugar y medio señalado para recibir las notificaciones o la información;
-
-V.- Nombre y domicilio de la persona que se faculta, en su caso, para que a su nombre y representación reciba la información o notificaciones que correspondan y;
-
-VI.-Firma del solicitante.
-
-Cuando el solicitante actúe en nombre y representación de otra persona física o moral, deberá acreditar su personalidad, los datos que se contengan en la solicitud serán incorporados al sistema de registro de solicitudes que al efecto llevará la Unidad de Acceso.
+Cuando fueren varias las personas peticionarias que formulan una misma queja, nombrarán a una persona representante común; la omisión dará lugar a que la Unidad Administrativa o la Instancia Municipal, según corresponda, la designen de entre aquéllas, con quien se practicarán las notificaciones.
 
 ###### Artículo 34.
 
-Si la solicitud no contiene los requisitos señalados en el Artículo anterior, o se solicita información que no se encuentra en poder del Tribunal, o dentro de su competencia, la Unidad de Acceso deberá hacérselo saber al solicitante durante su presentación, si tal irregularidad fuese manifiesta, para que en un término de cinco días hábiles la aclare o complete, debiendo apercibirlo, de que en caso omiso, en un termino de tres días hábiles siguientes al aviso, dicha solicitud será desechada de plano.
+La Unidad Administrativa o la Instancia Municipal, según corresponda, podrán proporcionar orientación a las personas peticionarias o agraviadas, dependiendo el caso, respecto a los derechos que les asisten y los medios para hacerlos valer y, en su caso, las canalizará ante las instancias correspondientes en la defensa de los citados derechos.
 
 ###### Artículo 35.
 
-Toda persona por sí misma, o a través de su representante legal, podrá en cualquier momento presentar su solicitud de acceso a la información, ante la Unidad de Acceso.
+La Unidad Administrativa o la Instancia Municipal, según corresponda, iniciarán sus actuaciones a petición de parte; pero podrán actuar de oficio en aquellos casos en que así lo determinen, mediante acuerdo fundado y motivado.
+
+Las imputaciones se harán del conocimiento de los particulares, servidores públicos o autoridades estatales o municipales, a quienes se atribuyan éstas, a su superior jerárquico o a su respectivo representante legal, según sea el caso; lo anterior para que rindan un informe por escrito en donde afirmen, refuten o nieguen todos y cada uno de los hechos, actos, omisiones o prácticas discriminatorias imputadas, además de detallar y documentar los antecedentes del asunto, sus fundamentos y motivaciones y, en su caso, expongan y proporcionen los elementos jurídicos o de otra naturaleza que sustenten su informe, así como los demás que consideren necesarios.
 
 ###### Artículo 36.
 
-Tratándose de documentos reservados, solo podrán ser consultados por quienes demuestren fehacientemente que tienen un interés jurídico y legítimo directo en el negocio de que se trate, y para allegarse de ella se debe estar a lo que dispone la Ley; y el presente Reglamento.
+Tanto los particulares como los servidores públicos y autoridades estatales o municipales, están obligados a auxiliar a la Unidad Administrativa o la Instancia Municipal, según corresponda, en el desempeño de sus funciones y a rendir los informes que se les soliciten en los términos requeridos, conforme lo dispuesto en el Reglamento.
+
+En el supuesto de que las autoridades o servidores públicos sean omisos para atender los requerimientos de la Unidad Administrativa o Instancia Municipal, según corresponda, se informará a su superior jerárquico y, en caso de continuar con el incumplimiento, se dará vista a la autoridad sancionadora competente para lo conducente, en términos de la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 ###### Artículo 37.
 
-La oficina designada para la recepción de solicitudes será oficialía de partes, en coordinación con la Dirección Administrativa del Tribunal, y ésta última fungirá como Unidad de Acceso, Documentación y Difusión.
+La prescripción de la queja se surtirá conforme lo disponga el Reglamento.
 
 ###### Artículo 38.
 
-Toda solicitud de acceso a la información, debe sellarse de recibido en original y copia, debiendo esta última entregarse al solicitante.
+La forma de presentación de las quejas, su prevención, aclaración, admisión, registro y presupuestos de procedencia, se establecerán en el Reglamento.
+
+La reserva de los datos procederá sólo en los casos en que con ello no se imposibilite la investigación de la queja o la actuación en la Unidad Administrativa o la Instancia Municipal, según corresponda.
 
 ###### Artículo 39.
 
-Recibida la solicitud, la Unidad de Acceso, Documentación y Difusión, la incorporará al registro respectivo y formará el expediente que corresponda, en caso, de ser procedente realizará las acciones necesarias para su trámite correspondiente.
-
-Dicha solicitud deberá ser atendida en un plazo no mayor de 20 días hábiles contados desde su presentación. El plazo se podrá prorrogar en forma excepcional por otros diez días hábiles en caso de mediar circunstancias que hagan difícil reunir la información solicitada; en este caso la unidad de acceso, deberá comunicarlo al solicitante, antes del vencimiento del plazo de 20 días, las razones por las cuales hará uso de la prórroga excepcional. En ningún caso el plazo para obtener la información solicitada no excederá de treinta días hábiles.
+Si la Unidad Administrativa o la Instancia Municipal, según corresponda, no resultan competentes o no se trata de un acto, omisión o práctica social discriminatoria, podrán brindar a la parte interesada la orientación necesaria para que, en su caso, acuda ante la autoridad a la cual le corresponda conocer de su asunto.
 
 ###### Artículo 40.
 
-Cuando la información solicitada se encuentre disponible por ser difundida de oficio, se hará del conocimiento del solicitante dicha circunstancia, y se le indicará la forma o medio para acceder a la misma, quedando con ello satisfecha dicha solicitud.
+En ningún momento la presentación de una queja ante la Unidad Administrativa o la Instancia Municipal, interrumpirá la prescripción de las acciones judiciales o recursos administrativos previstos por la normativa correspondiente.
 
 ###### Artículo 41.
 
-Los particulares afectados por los actos y. resoluciones de los órganos responsables del acceso a la información en poder del Tribunal, podrán interponer el Recurso de inconformidad previsto en la Ley, ante el Consejo de Información, por conducto de la Unidad de Acceso, Documentación y Difusión.
+La Unidad Administrativa o la Instancia Municipal, según corresponda, podrán excusarse de conocer de un determinado caso, conforme lo dispuesto en el Reglamento. Los particulares que consideren haber sido discriminados por actos de autoridades o de servidores públicos, estatales o municipales, en el ejercicio de sus funciones o con motivo de ellas, podrán acudir en queja ante la Comisión de Derechos Humanos del Estado de Morelos; si ésta fuera admitida, la Unidad Administrativa o la Instancia Municipal, según corresponda, estará impedida para conocer de los mismos hechos que dieron fundamento a la queja.
 
 ###### Artículo 42.
 
-Las personas interesadas que se consideren afectadas por la resolución que el Consejo emita del recurso de Inconformidad, podrán interponer el Recurso de Revisión en los términos y condiciones previstos en la Ley, ante la Comisión Estatal para el Acceso a la Información Pública.
+Cuando se presenten dos o más quejas que se refieran a los mismos hechos, actos, omisiones o prácticas sociales presuntamente discriminatorias, la Unidad Administrativa o la Instancia Municipal, según corresponda, a su juicio, podrá acumularlas para su trámite y resolución, cuando reúnan los requisitos de procedibilidad y proporcionen elementos relevantes al caso que se investiga, de conformidad con lo establecido en el Reglamento.
+
+SECIÓN (SIC) SEGUNDA
+
+DE LA SUSTANCIACIÓN
 
 ###### Artículo 43.
 
-Son causas de responsabilidad administrativa de los Servidores Públicos por incumplimiento de las obligaciones establecidos (sic) en la Ley, el presente Reglamento, los acuerdos y demás disposiciones que emanen de los mismos los siguientes:
+La persona titular de la Unidad Administrativa o la Instancia Municipal, según corresponda, que tenga a su cargo la tramitación de expedientes de queja, así como el personal que al efecto se designe, tendrán en sus actuaciones fe pública para certificar la veracidad de hechos relacionados; las orientaciones que se proporcionen, la verificación de medidas administrativas y de reparación, entre otras necesarias para la debida sustanciación del procedimiento.
 
-I.- Usar, sustraer, destruir, ocultar, inutilizar, divulgar o alterar total o parcialmente y de manera indebida la información que se encuentre bajo su custodia a la cual tenga acceso o conocimiento con motivo de su empleo, cargo o comisión;
-
-II.- Actuar con negligencia, dolo o mala fe en la sustanciación de las solicitudes acceso a la información, o en la difusión de la información a que están obligados conforme a la Ley, el presente Reglamento y demás acuerdos o disposiciones en la materia;
-
-III- Entregar información considerada como reservada, confidencial o sensible conforme a lo dispuesto en el presente Reglamento;
-
-IV.- Entregar intencionalmente de manera incompleta, la información requerida en la solicitud de acceso;
-
-V.- No proporcionar la información cuya entrega haya sido ordenada por las autoridades competentes;
-
-VI.- Clasificar como reserva con dolo, información que no cumpla con las características señaladas en la Ley, el presente Reglamento y demás acuerdos que así lo determinen;
-
-VII.- No proporcionar intencionalmente información no clasificada como reservada, confidencial o sensible conforme a la Ley, el presente Reglamento.
+Para los efectos de esta Ley, la fe pública consistirá en la facultad de autenticar documentos preexistentes o declaraciones y hechos que tengan lugar o estén aconteciendo en su presencia.
 
 ###### Artículo 44.
 
-La responsabilidad a que se refiere este Artículo o cualquier otra derivad del incumplimiento de las obligaciones establecidas en la Ley, serán sancionadas en los términos previstos en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, y el presente Reglamento.
+En los casos que sean considerados como graves por la Unidad Administrativa o la Instancia Municipal, según corresponda, se podrá solicitar, a cualquier particular o autoridad, la adopción de las medidas precautorias o cautelares necesarias para evitar consecuencias de difícil o imposible reparación.
 
-## TRANSITORIOS
+#### SECCIÓN TERCERA. DE LA CONCILIACIÓN
 
-Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+###### Artículo 45.
 
-Artículo Segundo.- El Consejo de Información establecerá los criterios y lineamientos para la organización y conservación de archivos, de las Unidades de Acceso, Enlace y de apoyo del Tribunal, de conformidad con lo establece la Ley, el presente Reglamento y demás disposiciones legales aplicables.
+La conciliación es la etapa del procedimiento de queja por medio del cual personal de la Unidad Administrativa o la Instancia Municipal, según corresponda, en los casos que sea procedente, intenta avenir a las partes para resolverla, a través de alguna de las soluciones que se propongan, mismas que siempre velarán por la máxima protección de los derechos de las personas presuntamente víctimas de conductas o prácticas sociales discriminatorias. Su sustanciación y requisitos se establecerán en el Reglamento.
 
-Artículo Tercero.- El Consejo de Información establecerá los plazos, dentro de los cuales se deberán organizar lo archivos por parte de las unidades de Acceso, Enlace y de apoyo, así como, el calendario o libros de registro para contar con un inventario de los documentos que integran dichos archivos.
+###### Artículo 46.
 
-Artículo Cuarto.- El Consejo Información tendrá un plazo de diez días de la entrada en vigor del presente reglamento para aprobar el formato de acceso a la información a que hace referencia el presente Reglamento.
+En el caso de que las partes residan fuera del domicilio de la Unidad Administrativa o la Instancia Municipal, según corresponda, la conciliación podrá efectuarse por escrito, medios electrónicos u otros, con la intermediación de éstas.
 
-Artículo Quinto.- Una vez instalada la Unidad de Acceso a la Información, Documentación y Difusión del Tribunal, tendrá un plazo de Diez días para instalar el módulo de acceso a la información a que se refiere el presente Reglamento.
+###### Artículo 47.
 
-Artículo Sexto.- Una vez instalada la Unidad de Acceso a la Información, Documentación y Difusión, tendrá un plazo de 90 días para difundir la información de oficio a que se refiere el presente ordenamiento legal, así como para presentar el plan de trabajo al Consejo de Información del Tribunal.
+De lograrse un acuerdo conciliatorio entre las partes, se suscribirá un convenio que tendrá la calidad de cosa juzgada y traerá aparejada ejecución, debiendo la Unidad Administrativa o la Instancia Municipal, según corresponda, dictar un acuerdo de conclusión del expediente de queja, sin que sea admisible recurso alguno, quedando sujeto el convenio a seguimiento hasta su total cumplimiento.
 
-Artículo Séptimo.- En tanto se instale la red estructural de Internet, el Tribunal, utilizará los medios electrónicos, y otros que estime convenientes que permitan facilitar y agilizar, el suministro de acceso a la información.
+En el supuesto de que la Unidad Administrativa o la Instancia Municipal, según corresponda, verifiquen la falta de cumplimiento de lo convenido, su ejecución podrá promoverse ante los tribunales competentes en la vía de apremio o en juicio ejecutivo, a elección de la parte interesada o por la persona que designe la Unidad Administrativa o la Instancia Municipal, según corresponda, a petición de aquella.
 
-El presente Reglamento es aprobado en la Sesión Ordinaria Número 07/2005, celebrada el día siete de abril del año dos mil cinco en el Salón de sesiones del Pleno del Tribunal de lo Contencioso Administrativo del Estado de Durango, con residencia oficial en la Ciudad de Victoria de Durango, Capital del Estado de Durango y fue aprobado por unanimidad de votos de los Magistrados que integran dicho Órgano Colegiado.
+#### SECCIÓN CUARTA. DE LA INVESTIGACIÓN
 
-Se expide el Reglamento de Acceso a la Información Pública del Tribunal de lo Contencioso Administrativo del Estado de Durango, en cumplimiento a lo dispuesto por el Artículo Tercero Transitorio de la Ley de Acceso a la. Información Pública del Estado de Durango. Y para su debida aplicación y observancia se ordena su publicación en el Periódico Oficial del Gobierno del Estado de Durango, firmado para constancia los Magistrados que integran el Tribunal de lo Contencioso Administrativo del Estado de Durango: M. D. F. MARÍA DE LOURDES HERNÁNDEZ VÁZQUEZ, Magistrada Presidenta; LIC. HUMBERTO MORALES CAMPA, Magistrado de Primera Sala Ordinaria; LIC. ARMANDO JAVIER VELA MONTES, Magistrado de la Segunda Sala ordinaria; ante la fe de la LIC. LAURA ELENA SANTIAGO ARTEAGA, Secretario General de Acuerdos del propio Tribunal quien actúa y también firma para constancia.- CONSTE.
+###### Artículo 48.
 
-Quinto.- Integración de los órganos y Unidades responsables de garantizar el acceso a la Información Pública.- Atendiendo al contenido de este punto el Pleno por decisión unánime acuerda: Con fundamento en el Artículo ocho del Reglamento de Acceso a la Información Pública de este Tribunal los Órganos y Unidades responsables de garantizar el acceso a la información pública son: el Consejo de Información del Tribunal; la Unidad de Acceso, Documentación y Difusión para la Información Pública y las Unidades de Enlace y de Apoyo.-Atendiendo a ello el Artículo nueve del mismo ordenamiento establece que el Pleno del Tribunal, es el Órgano que fungirá como Consejo de Información.- Por lo que respecta a la Unidad de Acceso, Documentación y Difusión para la Información Pública el Pleno por decisión unánime señala: como lo establece el diverso artículo doce del Reglamento que no ocupa, esta integrado por el Presidente, quien funge como tal la Magistrada Lic. María de Lourdes Hernández Vázquez; por un Magistrado de Sala Ordinaria, designando en estos momentos al Lic. Magistrado Armando Javier Vela Montes; el Secretario General de Acuerdos del Tribunal actuando como tal por así desempeñar esas funciones la Lic. Laura Elena Santiago Arteaga y finalmente por el Director Administrativo del Tribunal. C. P. Rosalía Rayas Narváez.- Esta Unidad de acceso desempeñará las funciones de acuerdo a lo dispuesto por el artículo 12 del Reglamento de Acceso a la Información Pública que hoy se aprueba.- La referida Unidad estará a cargo del Director Administrativo, quien tendrá y ejercerá las atribuciones que le confiere el Código de Justicia Administrativa del Estado de Durango, el Reglamento Interior de este Tribunal y el Reglamento de Acceso a la Información Pública que regirá a este Tribunal.- Por otra parte, en relación a las Unidades de Enlace y Apoyo se habilita al Contralor Interno de este Tribunal, al Lic. Jesús Leyva Rueda, para que sea éste el encargado de las Unidades de referencia; lo anterior de conformidad con el artículo trece del Reglamento de Acceso a la Información Pública de este Tribunal.- Hágase del conocimiento lo aquí resuelto por los servidores públicos que hoy fueron designados para que integren cada uno de los Órganos y Unidades que se describen, para efecto de que cumplan con responsabilidad el encargo y las funciones que les han sido encomendadas.- Conste.-
+De no lograrse conciliación entre las partes, se abrirá la etapa de la investigación o se dictará de inmediato la determinación respecto de la queja, siempre que la Unidad Administrativa o la Instancia Municipal, según corresponda, consideren que se cuenta con los elementos o pruebas necesarios para ello.
 
-Sexto.- Asuntos Generales.- Publicación del Reglamento.- Cúmplase en sus términos el acuerdo de publicación del acta en el medio a que se hizo referencia, debiendo para tal efecto la Magistrada Presidenta de este Órgano Jurisdiccional girar atento oficio con los insertos necesarios al C. Secretario General de Gobierno de esta entidad.- Agréguese al libro de actas la minuta de trabajo que se menciona para que obre como anexo.- No habiendo más asuntos por tratar, se da por concluida la presente Sesión Plenaria del Tribunal de lo Contencioso Administrativo, siendo las doce horas del día de hoy firmando la presente acta la C. Lic. MARÍA DE LOURDES HERNÁNDEZ VÁZQUEZ, Magistrada Presidenta del Tribunal de lo Contencioso Administrativo; el C. LIC. HUMBERTO MORALES CAMPA, Magistrado de la Primera Sala Ordinaria, El. C. LIC, ARMANDO JAVIER VELA MONTES, Magistrado de la Segunda Sala Ordinaria, en unión de la C. Lic. Laura Elena Santiago Arteaga, Secretario General de Acuerdos de este Tribunal, quien actúa y da fe.
+###### Artículo 49.
 
-M. D. F. MARÍA DE LOURDES HERNÁNDEZ VÁZQUEZ
+La Unidad Administrativa o la Instancia Municipal, según corresponda, efectuarán la investigación, para lo cual tendrán las siguientes atribuciones:
 
-MAGISTRADA PRESIDENTA.
+I. Solicitar a las autoridades o personas a los que se atribuyen los hechos motivo de queja la remisión de informes complementarios y documentos relacionados con el asunto materia de la investigación;
 
-C. LIC.-HUMBERTO MORALES CAMPA
+II. Solicitar a otros particulares, servidores públicos o autoridades estatales o municipales que puedan tener relación con los hechos o motivos de la queja, la remisión de informes o documentos vinculados con el asunto;
 
-MAGISTRADO DE LA PRIMERA SALA ORDINARIA
+III. Realizar la investigación sin que sea impedimento para ello el carácter confidencial o reservado de la información; sin embargo, la Unidad Administrativa o la Instancia Municipal, según corresponda, deberán manejarla con la más estricta confidencialidad y apego a la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos;
 
-C. LIC. ARMANDO VELA MONTES
+IV. Practicar inspecciones en los lugares en que se presume ocurrieron los hechos, así como en los archivos de particulares, autoridades, o servidores públicos imputados. En su caso, se asistirá de personal técnico o profesional especializado;
 
-MAGISTRADO DE LA SEGUNDA SALA ORDINARIA
+V. Citar a las personas que deban comparecer como testigos o peritos en la investigación, y
 
-C. LIC. LAURA ELENA SANTIAGO ARTEAGA
+VI. Las demás acciones que se estimen convenientes para el mejor conocimiento del asunto.
 
-SECRETARIO GENERAL DE ACUERDOS.
+###### Artículo 50.
 
-### CAPÍTULO VIII. DE LAS RESPONSABILIDADES. Y SANCIONES
+Para documentar debidamente las evidencias, la Unidad Administrativa o la Instancia Municipal, según corresponda, podrán solicitar la rendición y desahogo de todas aquellas pruebas que estimen necesarias, conforme lo establezca el Reglamento.
+
+###### Artículo 51.
+
+Las pruebas que se presenten por las partes así como aquellas que de oficio se alleguen la Unidad Administrativa o la Instancia Municipal, según corresponda, serán valoradas en su conjunto, de acuerdo con los principios de la lógica, la experiencia y la legalidad, a fin de que puedan producir convicción sobre los hechos motivo de queja, conforme lo establecido en el Reglamento.
+
+#### SECCIÓN QUINTA. DE LA RESOLUCIÓN POR DISPOSICIÓN
+
+###### Artículo 52.
+
+Las Resoluciones por Disposición que emitan la Unidad Administrativa o la Instancia Municipal, según corresponda, estarán basadas en las constancias del expediente de queja.
+
+###### Artículo 53.
+
+La Resolución por Disposición contendrá, cuando menos, una síntesis de los puntos controvertidos, las motivaciones y los fundamentos de derecho que correspondan, así como los puntos resolutivos en los que con toda claridad se precisará su alcance. En la construcción de los argumentos que la funden y motiven, se atenderá a los criterios y principios de interpretación dispuestos en esta Ley.
+
+###### Artículo 54.
+
+La Unidad Administrativa o la Instancia Municipal, según corresponda, podrán dictar acuerdos de trámite en el curso del procedimiento de queja, los cuales serán obligatorios para las partes; su incumplimiento traerá aparejadas las medidas administrativas y responsabilidades señaladas en este ordenamiento y su Reglamento.
+
+###### Artículo 55.
+
+Si al concluir la investigación no se logra comprobar que se hayan cometido los actos, omisiones o prácticas discriminatorias imputadas, la Unidad Administrativa o la Instancia Municipal, según corresponda, dictarán un acuerdo de no discriminación, conforme los requisitos señalados en el Reglamento.
+
+###### Artículo 56.
+
+Si una vez finalizada la investigación, la Unidad Administrativa o la Instancia Municipal, según corresponda, comprueban los actos, omisiones o prácticas sociales discriminatorias imputados, dictarán la correspondiente Resolución por Disposición, en la cual se señalarán, además de lo previsto por el artículo 53 que antecede, las medidas administrativas y de reparación a que se refiere el Capítulo correspondiente de esta Ley, así como los demás requisitos previstos en el Reglamento.
+
+La notificación de la Resolución por Disposición se realizará conforme lo previsto en el Reglamento para el efecto.
+
+###### Artículo 57.
+
+Con la finalidad de visibilizar y hacer del conocimiento de la opinión pública aquellos casos relacionados con presuntos actos, omisiones o prácticas sociales discriminatorias que a juicio de la Unidad Administrativa o la Instancia Municipal, según corresponda, sean graves, reiterativos o que tengan una especial trascendencia, podrá emitir informes especiales en los que se expondrán los resultados de las investigaciones; en su caso, las omisiones u obstáculos atribuibles a particulares y servidores públicos; estableciendo además, propuestas de acciones y medidas para lograr condiciones de igualdad y no discriminación.
+
+###### Artículo 58.
+
+Los servidores públicos estatales o municipales a quienes se les compruebe haber cometido actos, omisiones o prácticas discriminatorias, además de las medidas administrativas y de reparación que se les imponga, quedarán sujetas a las responsabilidades a que haya lugar, en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos.
+
+Para los efectos del párrafo anterior la Unidad Administrativa o la Instancia Municipal, según corresponda, enviarán copia certificada de la Resolución por Disposición a la autoridad sancionadora competente, la que constituirá prueba plena dentro del procedimiento respectivo.
+
+### CAPÍTULO VIII. DE LAS MEDIDAS ADMINISTRATIVAS Y DE REPARACIÓN Y LOS CRITERIOS PARA SU IMPOSICIÓN
+
+#### SECCIÓN PRIMERA. DE LAS MEDIDAS ADMINISTRATIVAS Y DE REPARACIÓN
+
+###### Artículo 59.
+
+La Unidad Administrativa o la Instancia Municipal, según corresponda, dispondrán la adopción de las siguientes medidas administrativas para prevenir y eliminar la discriminación:
+
+I. La impartición de cursos o talleres que promuevan el derecho a la no discriminación y la igualdad de oportunidades;
+
+II. La fijación de carteles donde se señale que en ese establecimiento, asociación o institución se realizaron hechos, actos, omisiones o prácticas discriminatorias o mediante los que se promueva la igualdad y la no discriminación;
+
+III. La presencia de personal de la Unidad Administrativa o la Instancia Municipal, según corresponda, para promover y verificar la adopción de medidas a favor de la igualdad de oportunidades y la eliminación de toda forma de discriminación;
+
+IV. La difusión de la versión pública de la Resolución por Disposición correspondiente, en el medio de difusión de la Unidad Administrativa o la Instancia Municipal, según corresponda, y
+
+V. La publicación o difusión de una síntesis de la Resolución por Disposición en los medios impresos o electrónicos de comunicación que se estime pertinente.
+
+###### Artículo 60.
+
+La Unidad Administrativa o la Instancia Municipal, según corresponda y cuando resulte procedente, podrán imponer las siguientes medidas de reparación:
+
+I. Restitución del derecho conculcado por el acto, omisión o práctica social discriminatoria;
+
+II. Compensación por el daño ocasionado;
+
+III. Amonestación pública;
+
+IV. Disculpa pública o privada, y
+
+V. Garantía de no repetición del acto, omisión o práctica discriminatoria.
+
+###### Artículo 61.
+
+Las medidas administrativas y de reparación señaladas se impondrán sin perjuicio de la responsabilidad administrativa, civil, penal, o de cualquier otra naturaleza a que hubiere lugar y resulte concomitante.
+
+#### SECCIÓN SEGUNDA. DE LOS CRITERIOS PARA LA IMPOSICIÓN DE MEDIDAS ADMINISTRATIVAS Y DE REPARACIÓN
+
+###### Artículo 62.
+
+Para la imposición de las medidas administrativas y de reparación, se tendrá en consideración:
+
+I. La gravedad de la conducta o práctica social discriminatoria;
+
+II. La concurrencia de dos o más motivos o formas de discriminación;
+
+III. La reincidencia, entendiéndose por ésta cuando la misma persona incurra en igual, semejante o nueva violación al derecho a la no discriminación, sea en perjuicio de la misma o diferente parte agraviada, y
+
+IV. El efecto producido por la conducta o práctica social discriminatoria.
+
+#### SECCIÓN TERCERA. DE LA EJECUCIÓN DE LAS MEDIDAS ADMINISTRATIVAS Y DE REPARACIÓN
+
+###### Artículo 63.
+
+Tratándose de servidores públicos, la omisión en el cumplimiento a la Resolución por Disposición en el plazo concedido, dará lugar a que la Unidad Administrativa o la Instancia Municipal, según corresponda, lo hagan del conocimiento a la autoridad sancionadora competente para que proceda conforme a sus atribuciones.
+
+Si se trata de particulares, personas físicas o morales, que omitan cumplir, total o parcialmente, la Resolución por Disposición; la Unidad Administrativa o la Instancia Municipal, según corresponda, podrán dar vista a la autoridad competente por la desobediencia en que haya incurrido.
+
+La Unidad Administrativa o la Instancia Municipal, según corresponda, tendrán a su cargo la aplicación de las medidas administrativas y de reparación prevista en los artículos anteriores.
+
+###### Artículo 64.
+
+Independientemente de la aplicación de las medidas administrativas y de reparación, previstas en la presente Ley, los costos que se generen por esos conceptos deberán ser asumidos por la persona a la que se le haya imputado el acto, omisión o práctica social discriminatoria.
+
+### CAPÍTULO IX. DEL RECURSO DE REVISIÓN
+
+###### Artículo 65.
+
+Contra las resoluciones y actos de la Unidad Administrativa o de la Instancia Municipal, según corresponda, las personas interesadas podrán interponer el recurso de revisión, de conformidad con lo dispuesto en el Reglamento y, de manera supletoria, en la Ley de Procedimiento Administrativo para el Estado de Morelos.
+
+DISPOSICIONES TRANSITORIAS
+
+PRIMERA. Remítase la presente Ley al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. La presente Ley iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se abroga la Ley para Prevenir y Erradicar toda clase de Discriminación en el Estado de Morelos, publicada en el Periódico Oficial “Tierra y Libertad”, número 5110, el catorce de agosto de 2013, y se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+CUARTA. Dentro de un plazo de ciento veinte días hábiles, contados a partir del día siguiente a la entrada en vigor de la presente Ley se deberá de expedir su Reglamento; por su parte, la Secretaría de Gobierno del Poder Ejecutivo Estatal deberá, además, adecuar su normativa interna conforme lo previsto en la presente Ley.
+
+Recinto Legislativo en la Sesión Ordinaria de Pleno iniciada el día cuatro y concluida el día once del mes de marzo de dos mil quince.
+
+Atentamente. Los CC. Diputados Integrantes de la Mesa Directiva del Congreso del Estado. Dip. Lucía Virginia Meza Guzmán. Presidenta. Dip. Erika Cortés Martínez. Secretaria. Dip. Jordi Messeguer Gally. Secretario. Rúbricas.
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Dado en la Residencia del Poder Ejecutivo, Casa Morelos, en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los veintisiete días del mes de abril de dos mil quince.
+
+“SUFRAGIO EFECTIVO. NO REELECCIÓN”
+
+GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+
+GRACO LUIS RAMÍREZ GARRI DO (SIC) ABREU
+
+SECRETARIO DE GOBIERNO
+
+DR. MATÍAS QUIROZ MEDINA
+
+RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CATORCE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO”.]
+
+PRIMERO.- Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 y 47, fracción XVIII del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto será publicado en el Periódico Oficial “Tierra y Libertad” de (sic) Gobierno del Estado de Morelos, órgano de difusión oficial del Gobierno del estado de Morelos, y entrará en vigor a partir del día siguiente de su publicación, con excepción de lo dispuesto en el artículo Séptimo Transitorio del presente Decreto.
+
+TERCERO.- En un plazo no mayor a ciento ochenta días hábiles, contados a partir del día siguiente al que dé inicio la vigencia del presente Decreto, deberán de actualizarse o modificarse las disposiciones reglamentarias que derivan de los instrumentos legislativos reformados.
+
+CUARTO.- Dentro del plazo a que refiere la Disposición Transitoria que antecede deberá de expedirse también el Programa Estatal para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+QUINTO.- En un plazo no mayor a treinta días hábiles contados a partir del inicio de vigencia del presente Decreto deberá de instalarse con su nueva integración el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la violencia contra las mujeres.
+
+SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deberá informar de la entrada en vigor del presente Decreto a la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres, con motivo de la Declaratoria de Alerta de Género emitida con relación a ocho municipios del estado de Morelos, para los efectos a que haya lugar.
+
+SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
+
+OCTAVO.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO QUINIENTOS CUARENTA Y TRES POR EL QUE SE REFORMA Y ADICIONA (SIC) LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE MORELOS, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS, LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS Y LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE MORELOS, EN MATERIA ELIMINACIÓN DE LA BRECHA SALARIAL”.]</small>
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
