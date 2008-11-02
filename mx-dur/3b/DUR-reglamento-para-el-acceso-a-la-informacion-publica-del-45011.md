@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-para-el-acceso-a-la-informacion-publica-del-45011"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-12"
-last_updated: "2005-05-12"
+last_updated: "2008-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA LA TRANSPARENCIA y ACCESO A LA INFORMACION PUBLICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 2 DE NOVIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 12 de mayo de 2005.
 
@@ -476,3 +478,11 @@ MAGISTRADO DE LA SEGUNDA SALA ORDINARIA
 C. LIC. LAURA ELENA SANTIAGO ARTEAGA
 
 SECRETARIO GENERAL DE ACUERDOS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO</small>
+
+P.O. 2 DE NOVIEMBRE DE 2008.
+
+Primero.- Se abroga el Reglamento anterior aprobado por el Pleno de este Tribunal, Publicado en el Periódico Oficial del Gobierno del Estado N° 37 del 8 de Mayo del 2005.
+
+Segundo.- El presente Reglamento entrara en vigor al día siguiente de su publicación en el Periódico Oficial del estado de Durango. Siendo aprobado en la Trigésima Octava sesión plenaria del Tribunal de lo Contencioso Administrativo, celebrada el día 02 de Octubre de 2008. Ordénese su publicación en el mismo.
