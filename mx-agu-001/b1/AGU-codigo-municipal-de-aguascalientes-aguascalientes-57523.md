@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2008-09-08"
+last_updated: "2008-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2008.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -669,9 +669,11 @@ En todo lo no previsto en este Código, se recurrirá a las disposiciones de la 
 
 ### CAPÍTULO IX. De las Comisiones
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 82.
 
-El Cabildo nombrará las Comisiones permanentes que tendrán la obligación de vigilar el ramo de la administración que se les encomiende y serán las siguientes:
+El Cabildo nombrará las Comisiones Permanentes que tendrán la obligación de vigilar el ramo de la administración que se les encomiende y serán las siguientes:
 
 REGIDORES
 
@@ -707,11 +709,21 @@ XlV. Parques, Jardines y Panteones.
 
 XV. Juventud y Deporte.
 
-XVI. Todas (sic) que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+XVI. Igualdad y Género.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+XVII. Todas (sic) que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
 SÍNDICOS
 
-I. Procurador De Hacienda.
+I. Procurador.
+
+II. De Hacienda.
 
 ###### ARTÍCULO 83.
 
@@ -1013,53 +1025,59 @@ Departamento de Evaluación a Obras Públicas.
 
 Departamento de Evaluación a Servicios Públicos.
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
-IX.- SECRETARIA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO:
+IX.- SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO:
 
-Secretaría Particular:
+Secretaría Particular;
 
 Departamento de Junta Municipal de Reclutamiento.
 
-Coordinación Administrativa:
+Coordinación Administrativa
 
 Subsecretaría del H. Ayuntamiento y Subdirección General de Gobierno
 
-Dirección de Justicia Municipal:
+Dirección de Justicia Municipal
 
-Departamento de Servicios Médicos, Psicología y Trabajo Social
+Departamento de Servicios Médicos, Psicología y Trabajo Social.
 
 Dirección de Asuntos Jurídicos:
 
-Coordinación de Asuntos de Cabildo
+Coordinación de Asuntos de Cabildo.
 
-Coordinación Jurídica de lo Contencioso
+Coordinación Jurídica de lo Contencioso.
 
-Coordinación Jurídico-Legislativa
+Coordinación Jurídico-Legislativa.
 
 Dirección de Reglamentación:
 
-Coordinación de Licencias
+Coordinación de Licencias.
 
-Coordinación de Verificación
+Coordinación de Verificación.
 
 Dirección de Mercados, Estacionamientos y Áreas Comerciales:
 
-Departamento de Mercados y Estacionamientos
+Departamento de Mercados y Estacionamientos.
 
-Departamento de Áreas Comerciales
+Departamento de Áreas Comerciales.
 
-Dirección de la Unidad Municipal de Protección Civil:
+Dirección de la Unidad Municipal de Protección Civil.
 
-Departamento Operativo de Protección Civil
+Departamento Operativo de Protección Civil.
 
-Dirección de Bomberos
+Dirección de Bomberos:
 
-Departamento de Bomberos:
+Departamento de Atención Médica Prehospitalaria.
 
-Departamento de Atención Médica Prehospitalaria
+Departamento de Bomberos.
 
-Coordinación de Asuntos Internos de Seguridad Pública
+Dirección de Asuntos Internos de Seguridad Pública y Tránsito.
+
+Departamento de Procedimientos, Registro y Estadística.
+
+Departamento de Investigación y Control de Confianza.
+
+Coordinación de Asuntos de Honor y Justicia.
 
 X.- SECRETARÍA DE FINANZAS PÚBLICAS
 
@@ -1701,7 +1719,9 @@ VIII. Validar con su firma todos los documentos oficiales emanados del H. Ayunta
 
 IX. Solicitar la publicación de leyes, decretos, bandos y reglamentos, y tener una colección ordenada y anotada de éstos, así como Periódicos Oficiales del Estado, circulares y órdenes relativas a los distintos ramos de la administración pública municipal.
 
-X. Tener bajo su mando la Coordinación de Asuntos Internos encargada de atender y dar seguimiento a las denuncias que se presenten sobre la actuación de los elementos operativos que conforman los cuerpos de seguridad pública municipal.
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+X. Tener bajo su mando la Dirección de Asuntos Internos de Seguridad Pública y Tránsito encargada de atender y dar seguimiento a las denuncias que se presenten sobre la actuación de los elementos operativos que conforman los cuerpos de seguridad pública municipal.
 
 XI. Las demás que señale la ley que en materia municipal expida el Poder legislativo del Estado o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
@@ -3773,7 +3793,17 @@ XII. Llevar el control de la correspondencia y registro de todos los oficios en 
 
 XIII. Dictar las medidas y lineamientos necesarios al personal de Seguridad Pública y Tránsito para el buen funcionamiento del Juzgado.
 
-XIV Las demás que se desprendan del presente Código y demás disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+XIV. Están facultados para aplicar las sanciones establecidas en el artículo 157 de la Ley de Vialidad del Estado de Aguascalientes, así como para llevar a cabo los procedimientos establecidos en el Capitulo Décimo Noveno del Reglamento de Tránsito del Municipio de Aguascalientes y aplicar sus respectivas sanciones. Lo anterior, independientemente de si el Juez Municipal esté adscrito o no a Tránsito Municipal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+XV. Para imponer, como sanción administrativa, el servicio comunitario, conforme a lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, los artículos 179 y 179 BIS de la Ley Municipal para el Estado de Aguascalientes y el Reglamento que para tal efecto expida el H. Ayuntamiento.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+XVI. Las demás que se desprendan del presente Código y demás disposiciones legales aplicables.
 
 ###### ARTÍCULO 299.
 
@@ -3829,11 +3859,13 @@ APARTADO QUINTO
 
 De los Jueces Municipales adscritos a Tránsito Municipal
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 306.
 
-Es facultad exclusiva de los Jueces Municipales adscritos a Tránsito Municipal, la calificación, reclasificación y reconsideración de las multas a que se hagan acreedores los infractores de la ley de Vialidad del Estado, de conformidad con el término establecido por el artículo 144 fracción VI de dicha Ley.
+Es facultad de los Jueces Municipales adscritos a Tránsito Municipal, la calificación y reconsideración de las sanciones a que se hagan acreedores los infractores del Reglamento de Tránsito del Municipio de Aguascalientes y la Ley de Vialidad del Estado de Aguascalientes. Además, contarán con las atribuciones establecidas en el artículo 298 del presente Código, para efecto de la aplicación del Reglamento de Tránsito del Municipio de Aguascalientes, y la Ley de Vialidad del Estado de Aguascalientes, así como el Reglamento que en materia de servicio comunitario expida el H. Ayuntamiento.
 
-Transcurrido dicho término, el monto de la sanción será establecido por la Secretaría de Finanzas Públicas Municipales y será considerado como crédito fiscal.
+En el caso de la multa, el monto de la misma será establecido por la Secretaría de Finanzas Públicas Municipales y será considerada como crédito fiscal.
 
 ###### ARTÍCULO 307.
 
@@ -3997,21 +4029,57 @@ Del Proceso ante el Juzgado Municipal
 
 Los detenidos serán atendidos sucesivamente por el receptor de detenidos, según el orden en que fueron llegando.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 320.
 
 Antes de ser puesto a disposición del Juez, el detenido será identificado ante el receptor de detenidos mediante la aportación de nombre, datos personales, señas particulares y domicilio, acreditándose, de existir, con una identificación personal.
 
-Cuando se trate de menores de edad que hayan sido sancionados con multa, será necesaria para su liquidación la presencia ante el Juez Municipal, de al menos uno de los padres o de quien acredite tener la patria potestad o custodia del mismo, a juicio del Juez Municipal.
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTÍCULO 320
+
+BIS.- En caso de que la infracción sea cometida por un menor de dieciséis años pero mayor de doce, la autoridad administrativa correspondiente citará a la persona que ejerza la patria potestad, la tutela o la custodia del menor y se entenderá con ella las actuaciones conducentes. Asimismo, se oirá al menor por sí mismo, para que exprese lo que considere pertinente o responda a las preguntas de la autoridad o de la persona que por él comparezca.
+
+En caso de no existir una persona que ejerza la patria potestad, la tutela o la custodia del menor, el Juez Municipal procederá a nombrar a una persona de trabajo social adscrita a la Dirección de Justicia Municipal o al DIF Municipal para efecto del párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTÍCULO 320
+
+TER.- Cuando se determine la responsabilidad del menor y se emita la resolución que proceda, imponiendo la sanción aplicable, la autoridad deberá, en todo caso, imponer adicionalmente una medida correctiva de naturaleza formativa, instructiva o educativa, de conformidad con los programas que para tal efecto apruebe la Dirección de Justicia Municipal.
+
+En caso de que el menor infractor no cumpla con la medida correctiva mencionada en el párrafo anterior, se procederá a la detención inmediata del menor para la aplicación de la sanción que determine el Juez Municipal en los términos del presente Código.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTÍCULO 320
+
+QUATER.- Cuando el menor sea sancionado con arresto, en ningún caso, lo purgará en una celda con personas mayores de edad.
+
+Para efectos del presente artículo, el Juez Municipal clasificará la custodia preventiva del menor de la siguiente manera:
+
+I.- En el caso de menores de 18 años pero mayores de 16, se internarán en celdas preventivas.
+
+II.- En el caso de menores de 16 años pero mayores de 12, se confinarán en áreas de observación.
+
+III.- En el caso de menores de 12 años, se remitirán a las áreas de psicología y trabajo social de la Dirección de Justicia Municipal.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 321.
 
-Si al momento de ser presentado ante el Juez, el detenido se encuentra intoxicado a grado tal que le sea imposible ejercer su derecho de audiencia, y por tanto rendidos sus alegatos, el juzgador determinará la imposición de una medida de seguridad consistente en la retención en un área especial habilitada para ello, bajo el cuidado y observación médica, antes de que le sea determinada su situación jurídica.
+El Juez Municipal determinará la imposición de una medida de seguridad consistente en la retención del infractor en un área especial de observación habilitada para ello, bajo el cuidado y vigilancia médica, antes de que le sea determinada su situación jurídica, cuando de forma enunciativa más no limitativa, existan los siguientes supuestos:
 
-Igual medida podrá aplicarse cuando el detenido sea agresivo y no haga posible el normal desarrollo del proceso al que se encuentra sujeto.
+I.- Si al momento de ser presentado ante el Juez, el detenido se encuentra intoxicado a grado tal que le sea imposible ejercer su derecho de audiencia y, por tanto, rendidos sus alegatos.
 
-La medida de seguridad subsistirá hasta en tanto cesen los efectos de la intoxicación o cambie su comportamiento, pero en ningún caso podrá exceder de treinta y seis horas.
+II.- Cuando el detenido sea agresivo y no haga posible el normal desarrollo del proceso al que se encuentra sujeto.
 
-En todo caso, la sanción impuesta deberá de computarse desde el momento de que el detenido hubiera sido puesto a disposición del Juez.
+III.- En caso de que el detenido pueda poner en riesgo su integridad física y la de las demás personas.
+
+La medida de seguridad subsistirá hasta en tanto cesen los efectos de la intoxicación o cambie su comportamiento, pero, en ningún caso, podrá exceder de treinta y seis horas.
+
+En todo caso, la sanción impuesta deberá de computarse desde el momento en que el detenido hubiera sido puesto a disposición del Juez Municipal.
 
 ###### ARTÍCULO 322.
 
@@ -4027,13 +4095,17 @@ Si el detenido no puede o no sabe leer o escribir, plasmará en el recibo de inv
 
 El receptor de detenidos entregará la documentación necesaria al Juez Municipal en turno a efecto de imponer las sanciones correspondientes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 324.
 
-En términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, el Juez sancionará con arresto o la imposición de una multa.
+En términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, el Juez Municipal sancionará con multa, arresto hasta por treinta y seis horas o servicio comunitario.
 
 En el segundo caso, habiendo sido notificado el infractor del monto de la multa, se le requerirá por el pago inmediato de la misma, y de no hacerlo, se le conmutará por arresto.
 
-En ningún caso la sanción de arresto excederá las treinta y seis horas.
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+En ningún caso, la sanción de arresto excederá las treinta y seis horas. La ejecución del servicio comunitario será en los términos del Reglamento que para tal efecto expida el H. Ayuntamiento.
 
 Cuando el infractor alegue su calidad específica de obrero, jornalero o asalariado y así lo acredite a satisfacción del juzgador se reducirá el importe de la multa en términos del artículo 21 de la Constitución Federal.
 
@@ -4097,9 +4169,11 @@ Tratándose de los segundos, el Director remitirá en su caso, oficio a las auto
 
 En ningún caso el personal del Municipio podrá obtener dominio de los bienes para sí o para sus cónyuges, ascendientes, descendientes y colaterales dentro del cuarto grado, consanguíneos o por afinidad.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 332.
 
-En caso de que cualquier persona adscrita a la Dirección de Justicia Municipal constatara que el infractor, al momento de su detención fue objeto de malos tratos, de abuso, golpes o merma en sus pertenencias, por parte del personal de la Secretaría de Seguridad Pública y Tránsito Municipal, deberá de elaborar informe de hechos, para los efectos de remitirlo a la Coordinación de Asuntos Internos, con el objeto de proceder a los correctivos a que haya lugar, o en su caso dar vista al Ministerio Público.
+En caso de que cualquier persona adscrita a la Dirección de Justicia Municipal constatara que el infractor, al momento de su detención fue objeto de malos tratos, de abuso, golpes o merma en sus pertenencias, por parte del personal de la Secretaría de Seguridad Pública y Tránsito Municipal, deberá de elaborar informe de hechos, para los efectos de remitirlo a la Dirección de Asuntos Internos de Seguridad Pública y Tránsito, con el objeto de proceder a los correctivos a que haya lugar, o en su caso dar vista al Ministerio Público.
 
 ### CAPÍTULO IX. De los Centros de Detención Preventiva
 
@@ -4279,7 +4353,7 @@ IX. Maltratar, rayar, pintar o ensuciar los vehículos automotores o cualquier o
 
 X. Deambular en lugar público en notorio estado de intoxicación producido por sustancias estimulantes o depresores del sistema nervioso central, contrariando el orden público o turbando la tranquilidad de los vecinos, o realizando actos temerarios que pongan en riesgo su propia integridad física.
 
-XI. Poner en peligro la integridad de las personas o patrimonio por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de narcóticos u otras sustancias, que produzcan efectos similares.
+XI. (DEROGADA, P.O. 3 DE NOVIEMBRE DE 2008)
 
 XII. Comunicar dolosamente a una o más personas de la imputación que se hace a otra persona física de un hecho cierto o falso, que le cause deshonra, descrédito o afecte su reputación.
 
@@ -6103,7 +6177,9 @@ III. Prevenir la comisión de delitos e infracciones a las leyes y reglamentos a
 
 IV. Colaborar en la investigación y persecución de los delitos, siendo auxiliar del Ministerio Público, del Poder Ejecutivo y del Poder Judicial, tanto Federales como del Estado, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos;
 
-V. Vigilar, aplicar y hacer cumplir en el ámbito de su competencia las disposiciones contenidas en la Ley de Vialidad del Estado;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+V. Vigilar, aplicar y hacer cumplir, en el ámbito de su competencia, las disposiciones contenidas en el Reglamento de Tránsito del Municipio de Aguascalientes y la Ley de Vialidad del Estado de Aguascalientes;
 
 VI. Practicar detenciones de personas y el aseguramiento de bienes en los casos de flagrancia por la presunta comisión de faltas administrativas o hechos delictivos en los términos de ley;
 
@@ -6247,37 +6323,57 @@ X.- Coordinar sus acciones con otras autoridades para prevenir y combatir la del
 
 XI.- Ejercer las facultades y obligaciones previstas en la reglamentación vigente.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 553.
 
-Sin perjuicio de las atribuciones que en materia de supervisión y control operativos correspondan a los mandos de la Secretaría de Seguridad Pública y Tránsito Municipal, la Coordinación de Asuntos Internos dependiente de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, cuidará que el personal operativo, se conduzca con ética y legalidad en cumplimiento de los principios de actuación contenidos en el presente Código, para lo cual contará con las siguientes facultades:
+Sin perjuicio de las atribuciones que, en materia de supervisión y control operativos correspondan a los mandos de la Secretaría de Seguridad Pública y Tránsito Municipal, la Dirección de Asuntos Internos de Seguridad Pública y tránsito adscrito a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, cuidará que el personal operativo se conduzca con ética y legalidad, en cumplimiento de los principios de actuación contenidos en el presente Código. La Dirección de Asuntos Internos de Seguridad Pública tendrá las siguientes facultades:
 
-I. Recibir las quejas y denuncias presentadas en contra de los elementos de la Secretaría;
+l. Recibir las quejas, denuncias, acusaciones y querellas presentadas en relación con la actividad de los elementos de la Secretaría de Seguridad Pública y Tránsito Municipal;
 
-II. Realizar las investigaciones que correspondan, ya sea de oficio o a petición de cualquier persona, a efecto de determinar la existencia de conductas violatorias a los principios de actuación, así como la probable responsabilidad de algún elemento, ya sea en servicio o fuera de el;
+II. Iniciar el procedimiento de investigación cuando se pretenda condecorar o rendir homenaje a algún elemento operativo de la Secretaría de Seguridad Pública y Tránsito Municipal, por actos destacados en la prestación del servicio;
 
-III. Allegarse de los elementos jurídicos y de prueba necesarios que acrediten la probable responsabilidad y en su caso someterlos a la Comisión de Honor y Justicia para su resolución;
+III. Realizar las investigaciones que correspondan, ya sea de oficio o a petición de cualquier persona, a efecto de determinar la existencia de conductas violatorias a los principios de actuación, así como la probable responsabilidad de algún elemento, ya sea en servicio, con motivo del mismo o fuera de él;
 
-IV. Practicar visitas de vigilancia únicamente para cerciorarse del cumplimiento a los principios de actuación señaladas en el presente Código;
+IV. Allegarse de los elementos jurídicos y de prueba necesarios, que acrediten la existencia de la violación a los principios de actuación denunciada y la probable responsabilidad de algún elemento operativo en su comisión. En el ejercicio de su facultad de investigación, la Dirección realizará las diligencias conducentes;
 
-V Elaborar los manuales de procedimientos y prácticas, así como los programas de inspección a los cuales deberá de apegarse la actuación de los integrantes de la Coordinación;
+V. Practicar visitas de vigilancia únicamente para cerciorarse del cumplimiento a los principios de actuación señalados en el presente Código;
 
-VI. Solicitar por escrito a la Comisión de Honor y Justicia, en los casos en los que por su importancia y trascendencia se considere conveniente, la separación temporal de los elementos sujetos a investigación, en términos de la fracción III del artículo 616 del presente Código;
+VI. Elaborar manuales de procedimientos y prácticas, así como los programas de inspección a los cuales deberán apegarse los integrantes de la Dirección;
 
-VII. Solicitar al Secretario de Seguridad Pública y Tránsito Municipal, cuando a criterio del Presidente de la Comisión de Honor y Justicia se facilite con ello, las investigaciones, el retiro del servicio asignado y puesta a disposición de los elementos sujetos a investigación.
+VII. Solicitar por escrito a la Comisión de Honor y Justicia, en todos los casos, la separación temporal de los elementos sujetos a proceso ante la misma Comisión, en términos de la fracción III del artículo 616 del presente Código;
 
-La puesta a disposición implica la separación de las funciones ordinarias del elemento y la asignación de nuevas funciones por parte del Presidente de la Comisión de Honor y Justicia en coordinación con el Secretario de Seguridad Pública.
+VIII. Solicitar al Secretario de Seguridad Pública y Tránsito Municipal, durante la integración de la averiguación y cuando se facilite con ello las investigaciones, el retiro del servicio asignado y puesta a disposición de los elementos sujetos a investigación.
+
+La puesta a disposición implica la separación de las funciones ordinarias del elemento y la asignación de nuevas funciones por parte del Presidente de la Comisión de Honor y Justicia en coordinación con el Secretario de Seguridad Pública y Tránsito Municipal.
 
 Dicha puesta a disposición no prejuzga sobre la responsabilidad, ni impedirá que los elementos perciban sus haberes, ni ejerzan sus derechos, cumpliendo con sus horarios de servicio, en los lugares designados para tal efecto.
 
-La duración de la puesta a disposición no podrá exceder de 15 días naturales;
+La duración de la puesta a disposición será hasta que finalice el procedimiento de averiguación integrado por la Dirección de Asuntos Internos de Seguridad Pública;
 
-VIII. Mantener un registro, de las quejas, denuncias e investigaciones seguidas ante la Coordinación, que deberá contener el nombre, cargo, número de expediente del elemento sujeto a investigación, faltas imputadas, número de investigación, estado de la investigación y en su caso la resolución dictada, debiendo informar en forma mensual al Secretario del H. Ayuntamiento y Director General de Gobierno;
+IX. Mantener un registro de las quejas, denuncias e investigaciones seguidas ante la Dirección, que deberá contener el nombre, cargo, número de expediente del elemento sujeto a investigación, faltas imputadas, número de investigación, estado de la investigación y, en su caso, la resolución dictada, debiendo informar, en forma mensual, al Secretario del H. Ayuntamiento y Director General de Gobierno y al Secretario de Seguridad Pública y Tránsito Municipal;
 
-IX. Informar periódicamente al Secretario de Seguridad Pública y Transito Municipal y al Presidente de la Comisión de Honor y Justicia, lo relativo a las investigaciones que esté realizando; y
+X. Vigilar que los mandos y elementos operativos de la Secretaría de Seguridad Pública y Tránsito Municipal cumplan con los convenios de coordinación para la realización de acciones en torno a los Programas Estatal y Nacional de Seguridad Publica;
 
-X. Las demás que le indique el Secretario del H. Ayuntamiento y Director General de Gobierno.
+XI. Dar vista al Ministerio Público de los hechos materia de sus investigaciones que puedan ser constitutivos de delito;
 
-Los elementos de la Secretaría de Seguridad Pública y Tránsito Municipal, estarán obligados en todo momento a colaborar con el Coordinador de Asuntos Internos en el cumplimiento de sus facultades, sin que para ello medie excusa alguna. Los mandos operativos, incluyendo al Secretario de Seguridad Pública y Tránsito Municipal, serán responsables de que los elementos a su cargo cumplan con lo anterior. El Coordinador limitará su actuación al riguroso ejercicio de sus facultades, sin interferir en cuestiones operativas.
+XII. Operar el sistema de seguimiento de ex policías municipales y ex agentes de Tránsito Municipal;
+
+XIII. Dirigir, coordinar, ejecutar y calificar los procesos de evaluación del desempeño de aspirantes como elementos en activo, así como la aplicación de exámenes médicos, toxicológicos, psicológicos, de polígrafo, de control patrimonial y. entorno social;
+
+XlV. Aplicar pruebas diversas de control de confianza en general y específicas, cuando se haya iniciado alguna investigación;
+
+XV. A efecto de hacer cumplir sus determinaciones, podrá imponer medidas de apremio consistentes en apercibimiento, uso de la fuerza pública y arresto hasta por treinta y seis horas, dichas medidas, serán ejecutadas por el Secretario de Seguridad Pública y Tránsito Municipal;
+
+XVI. Delegar sus facultades en los responsables operativos de la Dirección, por necesidades del servicio;
+
+XVII. Solicitar en cualquier momento, al Secretario de Seguridad Pública y Tránsito Municipal la baja administrativa por pérdida de confianza. La cual el Secretario si así lo considera conveniente, procederá a aplicar dicha baja;
+
+XVIII. Las demás que le otorgue el Reglamento de la Dirección de Asuntos Internos de Seguridad Pública y Tránsito, y las que le indique el Presidente Municipal y/o el Secretario del H. Ayuntamiento y Director General de Gobierno.
+
+Los elementos de la Secretaría de Seguridad Pública y Tránsito Municipal estarán obligados, en todo momento, a colaborar y a prestar información a la Dirección de Asuntos Internos de Seguridad Pública en el cumplimiento de sus facultades, sin que para ello medie excusa alguna. Los mandos operativos, además del Secretario de Seguridad Pública y Tránsito Municipal, serán responsables de que los elementos a su cargo cumplan con lo anterior. El Director de Asuntos Internos de Seguridad Pública y Tránsito limitará su actuación al riguroso ejercicio de sus facultades, sin interferir en cuestiones operativas.
+
+Asimismo, el Director de Asuntos Internos de Seguridad Pública y Tránsito vigilará que las sanciones impuestas por la Comisión de Honor y Justicia sean aplicadas en los términos de la resolución correspondiente.
 
 ###### ARTÍCULO 554.
 
@@ -6427,7 +6523,9 @@ a) Un Presidente. Que será el Regidor que presida la Comisión de Seguridad Pú
 
 b) Un Secretario Técnico. Que será el Jefe del Departamento de Asuntos Jurídicos.
 
-c) Cinco Consejeros. Que serán los titulares de las Direcciones de Estado Mayor, Policía Preventiva, Tránsito Municipal y Dirección de Capacitación, Formación y Profesionalización así como el coordinador de Asuntos Internos.
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+c) Cinco Consejeros. Que serán los titulares de las Direcciones de Estado Mayor, Policía Preventiva, Tránsito Municipal y Dirección de Capacitación, Formación y Profesionalización así como el Director de Asuntos Internos.
 
 d) Cinco Vocales. Que serán nombrados por cada una de las Direcciones de la Secretaría, a propuesta de los propios elementos operativos o en su defecto nombrados por el Secretario.
 
@@ -6515,9 +6613,11 @@ El H. Ayuntamiento está facultado para celebrar contratos con particulares para
 
 Los elementos de la Policía Comercial, Bancaria y Residencial en cualquier momento podrán gozar de un ascenso de grado.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 570.
 
-A los elementos de Seguridad Pública que pertenezcan a Policía Comercial, Bancaria y Residencial para efectos de determinar si incurrieron en alguna falta leve o grave y para la aplicación de alguna sanción, se les realizará la investigación correspondiente a través de la Coordinación de Asuntos Internos de Seguridad Pública, quien remitirá a su vez el expediente respectivo al Secretario para la aplicación de las sanciones que señalan los Artículos 601, 602, 604 y 605 del presente Código. Asimismo la Coordinación de Asuntos Internos de Seguridad Pública y Tránsito remitirá a la Comisión de Honor y Justicia, el expediente correspondiente en los casos previstos en este Código.
+A los elementos de seguridad pública que pertenezcan a la Policía Comercial, Bancaria y Residencial, para efectos de determinar si incurrieron en alguna falta leve o grave y para la aplicación de alguna sanción, se les realizará la investigación correspondiente a través de la Dirección de Asuntos Internos de Seguridad Pública y Tránsito, quien remitirá, a su vez, el expediente respectivo al Secretario de Seguridad Pública y Transito Municipal para la aplicación de las sanciones que señalan los artículos 601, 602, 604, 605 y 605 BIS del presente Código. Asimismo, la Dirección de Asuntos Internos de Seguridad Pública y Tránsito remitirá a la Comisión de Honor y Justicia, el expediente correspondiente, en los casos previstos en este Código.
 
 ###### ARTÍCULO 571.
 
@@ -6887,7 +6987,11 @@ VI. Poner a disposición de la autoridad competente todo objeto o persona que en
 
 VII. Realizar juntas generales con el personal a su cargo una vez al mes para escuchar en forma directa, quejas o sugerencias relacionadas con el servicio;
 
-VIII. Poner a disposición del Médico de Guardia de cualquiera de las Delegaciones al o los elementos que se presenten al pase de lista, o que durante su servicio se le sorprenda con aliento alcohólico, o en su caso que conduzca un vehículo oficial con aliento alcohólico o bajo los efectos del alcohol dando parte a la Coordinación de Asuntos Internos de Seguridad Pública para que integre el expediente Correspondiente; y
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+VIII. Poner a disposición del Médico de Guardia de cualquiera de las Delegaciones al o los elementos que se presenten al pase de lista, o que durante su servicio se le sorprenda con aliento alcohólico, o en su caso que conduzca un vehículo oficial con aliento alcohólico o bajo los efectos del alcohol dando parte a la Dirección de Asuntos Internos de Seguridad Pública y Tránsito para que integre el expediente Correspondiente y;
+
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
 IX. Hacer que sus subordinados conozcan y apliquen las disposiciones establecidas en los manuales que al efecto expida la Secretaría.
 
@@ -6989,39 +7093,77 @@ b) Amonestación Pública.
 
 c) Arresto hasta por 36 horas.
 
-d) Suspensión Temporal hasta por 5 días.
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
-e) Suspensión Temporal del cargo hasta por 60 días.
+d) Suspensión temporal del cargo de 1 a 10 días.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+e) Suspensión temporal del cargo de 11 a 15 días.
 
 f) Destitución del cargo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+g) Inhabilitación.
+
 En todos los casos que se señalan en el presente artículo los correctivos disciplinarios que se impongan a los elementos de la Secretaría deberán constar por escrito y estar debidamente fundados y motivados.
 
-Las sanciones anteriormente descritas consisten en lo siguiente:
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
-I.- La amonestación es el acto por el cual se advierte al integrante sobre la acción u omisión indebida que cometió en el cumplimiento de sus deberes. Mediante ella se informa al elemento, las consecuencias de su infracción, y se le exhorta a que enmiende su conducta para no incurrir en una nueva infracción, apercibido de que, en caso contrario, se hará acreedor a una sanción mayor. La aplicación de esta sanción se hará en términos que no denigren al infractor, en público o en privado.
+Las sanciones anteriormente enunciadas consisten en lo siguiente:
+
+I.- La amonestación es el acto por el cual se advierte al integrante sobre la acción u omisión indebida que cometió en el cumplimiento de sus deberes. Mediante ella se informa al elemento, las consecuencias de su infracción y se le exhorta a que enmiende su conducta para no incurrir en una nueva infracción.
+
+El elemento será apercibido de que, en caso de acumular tres amonestaciones por faltas leves o dos amonestaciones originadas por las faltas enunciadas en el artículo 605 del presente Código, dentro del término de un año, dichas faltas se equipararán a una falta grave.
+
+La aplicación de esta sanción se hará en términos de que no denigren al infractor, en público o en privado.
 
 Dependerá de la gravedad de la falta aplicar una u otra forma de amonestación, pero, en todo caso, procederá la amonestación pública cuando el infractor se niegue a recibir la notificación de la resolución.
 
 La amonestación pública se hará frente a integrantes de la Unidad Administrativa a la que se encuentre adscrito el infractor, quienes deberán ostentar el mismo o mayor grado que el sancionado. Nunca se amonestará a un infractor en presencia de subordinados en categoría jerárquica.
 
-II.- El arresto puede ser sin perjuicio del servicio o con el, y consiste en el confinamiento que dentro o fuera de las instalaciones de la Secretaría, a que se hace acreedor el subalterno por haber incurrido en faltas considerables o por haber acumulado tres amonestaciones.
+II.- El arresto consiste en el confinamiento del elemento de Seguridad Pública dentro de las instalaciones de la corporación, realizando sus actividades y cumpliendo con los horarios establecidos, al término de los cuales, si no ha concluido con dicho arresto, se concentrará en su unidad administrativa para concluirlo. Un elemento de la Secretaría de Seguridad Pública y Tránsito Municipal se hace acreedor al arresto por haber incurrido en las faltas enumeradas en los artículos 604 y 605 del presente Código.
 
-La orden de arresto deberá hacerse por escrito especificando el motivo, lugar y duración del mismo, la cual no podrá exceder de treinta y seis horas;
+La orden de arresto deberá hacerse por escrito especificando el motivo, fundamento, lugar y duración del mismo, la cual no podrá exceder de treinta y seis horas.
 
-El arresto sin perjuicio del servicio, consiste en realizar normalmente sus actividades dentro o fuera de las instalaciones según corresponda, cumpliendo con los horarios establecidos, al término de los cuales, si no ha concluido con dicho arresto, se concentrará en su unidad administrativa para concluirlo.
+III.- La suspensión temporal sin goce de sueldo es la sanción consistente en la interrupción de la relación jurídica existente entre el infractor y la Secretaría, la cual no excederá de quince días.
 
-El arresto con perjuicio del servicio, consiste en que el arrestado desempeñará sus actividades, exclusivamente dentro de las instalaciones.
+Una vez notificada la suspensión, el infractor deberá entregar inmediatamente, a quien designe el Secretario de Seguridad Pública y Tránsito Municipal, su identificación, municiones, armamento, equipo y todo material que se le haya ministrado para el cumplimiento de sus funciones,
 
-III.- La suspensión es la interrupción de la relación jurídica existente entre el infractor y la Secretaría, misma que no excederá de sesenta días naturales.
+Concluida la suspensión, el integrante comparecerá ante el titular de la unidad de su adscripción, a quien informará por escrito de su reincorporación al servicio.
 
-Una vez notificada la suspensión el infractor deberá entregar su identificación, municiones, armamento, equipo y todo material que se le haya ministrado para el cumplimiento de sus funciones.
+IV.- La destitución es el cese definitivo del cargo como elemento de la Secretaría de Seguridad Pública y Tránsito Municipal, sin posibilidad de reingreso de manera definitiva.
 
-Concluida la suspensión el integrante comparecerá ante el titular de la unidad de su adscripción, a quien informará por escrito de su reincorporación al servicio.
+Una vez notificada la destitución, el infractor deberá entregar inmediatamente, a quien designe el Secretario de Seguridad Pública y Tránsito Municipal, su identificación, municiones, armamento, equipo y todo material que se le haya ministrado para el cumplimiento de sus funciones.
 
-IV.- La Destitución, es el cese definitivo del cargo como elemento de la Secretaría de Seguridad Pública y Tránsito Municipal.
+V.- La inhabilitación es la imposibilidad jurídica de reincorporación al cargo como elemento de la Secretaría de. Seguridad Pública y Tránsito Municipal, derivado de la comisión de una falta de las denominadas como graves conforme al artículo 605 BIS fracción II del presente Código, y al momento del proceso ante la Comisión de Honor y Justicia no se encuentre en servicio activo, ya sea por suspensión, renuncia o baja del elemento.
 
-Una vez notificada la Destitución el infractor deberá entregar su identificación, municiones, armamento, equipo y todo material que se le haya ministrado para el cumplimiento de sus funciones.
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTÍCULO 601
+
+BIS.- Todos los elementos .de la Secretaría de Seguridad Pública y Tránsito Municipal son personal de confianza.
+
+Por instrucciones del Secretario de Seguridad Pública y Tránsito Municipal o del Presidente Municipal, el Departamento de Recursos Humanos de la Dirección de (sic) Administrativa de la Secretaría de Seguridad Pública y Tránsito Municipal podrá aplicar la baja administrativa en cualquiera de sus modalidades. Asimismo el Director de Asuntos Internos de Seguridad Pública y Tránsito podrá solicitar en cualquier momento al Secretario de Seguridad Pública y Tránsito Municipal la baja administrativa por pérdida de confianza de un elemento; el Secretario, si así lo considera conveniente, girará instrucciones al Departamento de Recursos Humanos citado para tal efecto. En caso de que el Secretario de Seguridad Pública y Tránsito Municipal se niegue a aplicar la baja administrativa solicitada por la Dirección de Asuntos Internos de Seguridad Pública y Tránsito, rendirá un informe al Presidente Municipal con las razones de su negativa.
+
+I.- La baja administrativa, tendrá dos modalidades:
+
+a) Baja administrativa por inasistencia, la cual es el cese definitivo del cargo como elemento de la Secretaría de Seguridad Pública y Tránsito Municipal, que tendrá lugar cuando un elemento falte a sus labores por más de tres ocasiones en un periodo de treinta días naturales, sin permiso o causa justificada.
+
+b) Baja administrativa por pérdida de confianza, la cual es el cese definitivo del cargo como elemento de la Secretaría de Seguridad Pública y Tránsito Municipal e imposible reincorporación, la cual tendrá lugar cuando:
+
+1. Un elemento falte a los principios que regulan la actuación de los elementos de seguridad pública, enunciados en el artículo 552 del presente Código.
+
+2. Que incurra en las faltas establecidas en los artículos 604, 605 y 605 BIS del presente Código, cuando el Secretario de Seguridad Pública y Tránsito Municipal considere que dicha conducta generó la pérdida de confianza en el elemento.
+
+3. Que derivado de sus acciones, el elemento haya generado en su superior desconfianza para el cumplimiento de su deber.
+
+4. Que no apruebe, que no se presente o que se niegue a dar información en alguna de las pruebas de control de confianza realizadas por la Dirección de Asuntos Internos de Seguridad Pública y Tránsito adscrita a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno o que realice cualquier órgano de revisión competente.
+
+5. Cuando el Secretario de Seguridad Pública y Tránsito Municipal lo considere necesario, no importando el supuesto o conducta del elemento.
+
+Una vez notificada cualquiera de las bajas antes citadas, el infractor deberá entregar inmediatamente, a quien designe el Secretario de Seguridad Pública y Tránsito Municipal, su identificación, municiones, armamento, equipo y todo material que se le haya ministrado para el cumplimiento de sus funciones.
 
 ### CAPÍTULO VII. De la Ocupación o Habitabilidad de las Construcciones
 
@@ -7031,27 +7173,43 @@ La calificación, aplicación y ejecución de los correctivos disciplinarios ser
 
 a) Los Directores de área y los Jefes Operativos de la Secretaría podrán imponer a sus subordinados los correctivos disciplinarios que establecen los incisos a), b) y c) del Artículo 601, informando a la Comisión de Honor y Justicia, dentro de los tres días hábiles siguientes a su aplicación, exponiendo las causas que lo motivaron.
 
-b) El Secretario tiene la facultad de imponer las sanciones previstas en las fracciones b), c) y d) del Artículo 601.
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
-c) La Comisión de Honor y Justicia, podrá aplicar según la gravedad de la infracción cualquiera de los correctivos disciplinarios del Artículo 601, sin embargo tratándose de las fracciones d), e) y f) del artículo en cuestión, corresponde dictarlas a la Comisión y su ejecución al Secretario.
+b) El Secretario tiene la facultad de imponer las sanciones previstas en las fracciones b), c) d), y e) del artículo 601 del presente Código.
 
-Las sanciones señaladas en el artículo 601 no constituyen obligación para aplicarlas en forma progresiva, estas se impondrán cuando proceda, sin respetar orden o consecución alguna, dependiendo de la gravedad de la falta.
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+c) La Comisión de Honor y Justicia, podrá imponer según la gravedad de la infracción los correctivos de los incisos f) y g) del artículo 601, y su ejecución corresponde al Secretario.
+
+Las sanciones señaladas en el artículo 601 no constituyen obligación para aplicarlas en forma progresiva, éstas se impondrán cuando proceda, sin respetar orden o consecución alguna, dependiendo de la gravedad de la falta.
 
 Con independencia de las acciones que competan a otras autoridades ajenas a la Secretaría, no podrá aplicarse más de una sanción por los mismos hechos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+De conformidad con lo establecido por el artículo 123, apartado B, fracción XIII de la Constitución Política de los Estados Unidos Mexicanos, cualquier elemento de seguridad pública, podrá ser separado de sus (sic) cargo si no cumple con los requisitos de las leyes vigentes que, en el momento del acto, señalen para permanecer en dichas instituciones o removido por incurrir en responsabilidad en el desempeño de sus funciones. Si cualquier autoridad de las descritas en el presente artículo resolviere la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fuese injustificada, el Municipio sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que, en ningún caso, procesa (sic) su reincorporación al servicio, cualquiera que sea el resultado del juicio a medio de defensa que se hubiere promovido.
 
 ###### ARTÍCULO 603.
 
 Las sanciones o correctivos disciplinarios a que se hace mención deberán incluirse en el expediente personal de los elementos.
 
-Contra la aplicación de las sanciones y correctivos disciplinarios impuestos por los Directores de Área, Jefes Operativos y el Secretario, procederá el recurso de revocación, el cual deberá interponerse personalmente y por escrito ante el superior jerárquico de quien emitió la misma, dentro de las setenta y dos horas posteriores a su notificación.
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+Contra la aplicación de las sanciones y correctivos disciplinarios impuestos por los Directores de Área y Jefes Operativos, procederá el recurso de revocación, el cual deberá interponerse personalmente y por escrito ante el superior jerárquico inmediato de quien emitió la misma, dentro de las cuarenta y ocho horas posteriores a su notificación.
 
 El superior jerárquico de quien emitió la sanción, una vez recibido el recurso resolverá de plano el recurso interpuesto; si el mismo resulta procedente el efecto será exclusivamente eliminar del expediente personal del elemento el antecedente de la sanción.
 
-La resolución que se emita con motivo del recurso, deberá ser notificada personalmente al infractor por la Coordinación de Asuntos Internos dentro del término de tres días.
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+La resolución con motivo del recurso se emitirá a los tres días hábiles siguientes, la cual deberá ser notificada personalmente al infractor por la Coordinación de Asuntos Jurídicos de la Secretaría de Seguridad Pública y Tránsito Municipal dentro del término de tres días hábiles siguientes a la resolución.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
 APARTADO DÉCIMO PRIMERO
 
-Causas de Destitución
+De las Faltas
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
 ## TÍTULO TERCERO. DE LOS REQUISITOS PARA LICENCIAS DE CONSTRUCCIÓN
 
@@ -7059,35 +7217,49 @@ Causas de Destitución
 
 ###### ARTÍCULO 604.
 
-Son faltas leves por las que podrán ser sancionados los elementos de Seguridad Pública y que conocerán y aplicarán el Secretario, Directores de Área y Jefes Operativos, las violaciones a lo dispuesto por los Artículos 589 fracciones II, III, IV, VI, VII, XII, XV, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXXII y XXXIII; Artículo 598 fracciones I, III, IV, XII, XV, XVI, XVII, XXIII y el Artículo 599 del presente ordenamiento.
+Son faltas leves por las que podrán ser sancionados los elementos de seguridad pública, mediante amonestación privada, pública o arresto, que conocerán y aplicarán, los Directores de Área y Jefes Operativos, las violaciones a lo dispuesto por los artículos 589, fracciones II, III, IV, VI, VII, XII, XV, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXXII ó XXXIII; 598 fracciones III, IV, XVI, XVII, XIX, XXV Y 599 fracciones I, II, III ó IV del presente ordenamiento.
 
 Las faltas consideradas como leves conforme al presente artículo perderán ese carácter y serán consideradas como graves, cuando a juicio del superior jerárquico, el resultado de dichas conductas causen perjuicio al servicio que presta, vayan en detrimento del Municipio o de la sociedad en general, o sean reiterativas.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 605.
 
-Son faltas graves por las que podrán ser sancionados los elementos de Seguridad Pública y que conocerá y aplicará en forma exclusiva la Comisión de Honor y Justicia las siguientes:
+Son faltas sancionadas con amonestación pública, arresto hasta por 36 horas o suspensión temporal de 1 a 10 días, aplicadas por el Secretario de Seguridad Pública y tránsito Municipal, las siguientes:
 
-I.- Faltar a sus labores por más de tres ocasiones en un periodo de treinta días naturales, sin permiso o causa justificada;
+I. Disparar el arma de fuego sin causa justificada, siempre y cuando no se haya puesto en peligro la integridad física y psicológica de persona alguna o se hayan producido lesiones; y
 
-II.- Que se le dicte sentencia condenatoria por la comisión de un delito doloso en el ejercicio de sus funciones o delito considerado grave;
+II. Las violaciones a lo dispuesto por los artículos 589, fracciones I, VIII, IX, XIII, XVII, XVlll ó XXXI; 598 fracciones II, V, VI, XV, XVIII ó XX y 599 fracción V del presente ordenamiento.
 
-III.- Disparar el arma de fuego sin causa justificada;
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
-IV.- Poner en peligro la integridad física o psicológica de los particulares o sus subalternos por una acción u omisión, por causa de imprudencia, descuido, negligencia, pánico o abandono del servicio;
+###### ARTÍCULO 605
 
-V.- Presentar documentación alterada, informes alejados a la verdad o realidad de los hechos de los que tenga conocimiento o que se le hayan encomendado;
+BIS.- Son faltas por las cuales podrán ser sancionados los elementos de seguridad pública, mismas que conocerá y sancionará el Secretario de Seguridad Pública y Tránsito Municipal o por la Comisión de Honor y Justicia, en sus respectivos ámbitos de competencia, las siguientes:
 
-VI.- Obligar o sugerirle a sus subalternos a entregarles dinero o cualquier otro tipo de dádivas a cambio de permitirles el goce de las prestaciones a que todo policía tiene derecho;
+I. Serán sancionados los elementos de seguridad pública, por el Secretario de Seguridad Pública y Tránsito Municipal mediante suspensión temporal del cargo de 11 a 15 días sin goce de sueldo a quienes cometan las siguientes faltas:
 
-VII.- Obligar, sugerir o despojar a los particulares de sus pertenencias ya sea en efectivo o en especie haciendo uso de sus atribuciones;
+a) Haber cometido 3 faltas leves en el lapso de un año;
 
-VIII.- Las violaciones a lo dispuesto por los Artículos 589 fracción I, V, VIII, IX, X, XI, XIII, XIV, XVI, XVII, XVIII, XIX, XX, XXVII, XXVIII, XXIX, XXX y XXXI y 598 fracción II, V, VI, VII, VIII, IX, X, XI, XIII, XIV, XVIII, XIX, XX, XXI, XXII.
+b) Las violaciones a lo dispuesto por los artículos 589 fracciones V, X, XIV, XXI, XXVll ó XXIX y 598 fracciones I ó IX del presente Código; y
 
-IX.- Por falta grave a los principios de actuación y a las normas disciplinarias, previstas en el presente Código, según la calificación de la Comisión de Honor y Justicia atendiendo a la gravedad de la falta y el perjuicio ocasionado a la sociedad; y
+c) Poner en peligro la integridad física o psicológica de los particulares o sus subalternos por una acción u omisión, por causa de imprudencia, descuido, negligencia, pánico o abandono del servicio.
 
-X.- Las demás que señale el presente Código.
+II. .Serán sancionados los elementos de seguridad pública, por la Comisión de Honor y Justicia, mediante destitución o inhabilitación a quienes cometan las siguientes faltas:
 
-Sin perjuicio de las facultades establecidas en el artículo anterior, la Comisión de Honor y Justicia podrá aplicar cualquiera de las sanciones establecidas en el Artículo 601 del presente ordenamiento.
+a) Que se le dicte sentencia condenatoria por cometer un delito doloso, cualquiera que éste sea;
+
+b) Presentar documentación alterada, informes alejados a la verdad o realidad de los hechos de los que tenga conocimiento o que se le hayan encomendado;
+
+c) Obligar o sugerirle a sus subalternos a entregarles dinero o cualquier otro tipo de dádivas a cambio de permitirles el goce de las prestaciones a que todo policía tiene derecho;
+
+d) Obligar, sugerir o despojar a los particulares de sus pertenencias ya sea en efectivo o en especie, haciendo uso de sus atribuciones;
+
+e) Las violaciones a lo dispuesto por los artículos 589 fracción XI, XVI, XIX, XX ó XXX, 598 fracciones VII, VIII, X, XI, XII, XIII, XIV, XXII, XXIII ó XXIV y 599 fracción V del presente Código; y
+
+f) Haber cometido dos faltas de las sancionadas por el Secretario de Seguridad Pública y Tránsito Municipal, de acuerdo al artículo 605 en el lapso de un año.
+
+Ningún elemento de la Secretaría de Seguridad Pública podrá ser sancionado más de una vez por el secretario de Seguridad Pública por la contravención de las conductas establecidas en la fracción I del presente artículo, por lo cual la reiteración de dichas faltas causará la destitución inmediata, la cual operará de inmediato.
 
 APARTADO DÉCIMO SEGUNDO
 
@@ -7145,9 +7317,11 @@ APARTADO DÉCIMO TERCERO
 
 Comisión de Honor y Justicia
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 613.
 
-La Comisión de Honor y Justicia de la Secretaría de Seguridad Pública y Tránsito Municipal, es el órgano colegiado y autónomo encargado de conocer, resolver y sancionar los casos de faltas cometidas por los elementos operativos de la Secretaría de Seguridad Pública y Tránsito, en servicio o fuera de él, por actos u omisiones que de cualquier forma infrinjan los principios de actuación y normas disciplinarias previstos en el presente ordenamiento, así como otorgar reconocimientos a las acciones relevantes en que intervinieron los miembros de la Secretaría de Seguridad Pública y Tránsito.
+La Comisión de Honor y Justicia, es el órgano colegiado e imparcial encargado de conocer, resolver y sancionar únicamente los casos que ponga a su disposición la Dirección de Asuntos Internos de Seguridad Pública y Tránsito, en su caso, el Secretario de Seguridad Pública y Tránsito Municipal relacionados con las controversias cometidas por los elementos operativos de la Secretaría de Seguridad Pública y Tránsito Municipal, en servicio o fuera de él, por actos u omisiones que, de cualquier forma, infrinjan los principios de actuación y normas disciplinarias en los términos del presente ordenamiento, así como otorgar reconocimientos y condecoraciones a las acciones relevantes en que intervinieron los miembros de la Secretaría de Seguridad Pública y Tránsito Municipal.
 
 ### CAPÍTULO II. Espacios sin Construir
 
@@ -7157,39 +7331,59 @@ La Comisión de Honor y Justicia se integrará por:
 
 I. Un Presidente que será el Regidor titular de la Comisión de Seguridad Pública y Tránsito.
 
-II. Un Secretario Técnico que contará solo con voz y será el Director de Asuntos Jurídicos del H. Ayuntamiento o cualquiera de los Coordinadores Jurídicos que éste designe.
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+II. Un Secretario Técnico que contará sólo con voz y será el Coordinador de Asuntos de Honor y Justicia adscrito a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
+
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
 III. Seis Vocales:
 
-a) Tres de la Dirección de Policía Preventiva;
+a) Un representante del H. Cabildo, que no sea el Presidente de la Comisión de Seguridad Pública;
 
-b) Dos de la Dirección de Tránsito; y
+b) Un representante de la Dirección de Estado Mayor de la Secretaría de Seguridad Pública y Tránsito Municipal;
 
-c) Uno del Departamento de Bomberos.
+c) Un elemento operativo de la Dirección de Policía Preventiva;
 
-IV. Un Fiscal que será el Coordinador de Asuntos Internos y Denuncias quien contará sólo con voz.
+d) Un elemento operativo de la Dirección de Tránsito;
 
-Para cada uno de estos cargos también se designará un suplente. Los anteriores cargos son honorarios y no percibirán retribución alguna por sus funciones.
+e) Dos representantes del Consejo Ciudadano de Seguridad Pública;
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+IV. Un Fiscal, que será el Director de Asuntos Internos de Seguridad Pública y Tránsito quien contará sólo con voz.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+El Presidente, el Secretario Técnico y cada uno de los vocales designarán un suplente. Los anteriores cargos son honoríficos y no percibirán retribución alguna por sus funciones.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 615.
 
-Los vocales que integran la Comisión de Honor y Justicia, deberán de ser de reconocida honorabilidad, contando con un mínimo de dos años de experiencia en la Secretaria y estar en servicio activo, quienes durarán en su encargo un año, siendo elegidos por la Dirección de Estado Mayor, mediante el siguiente proceso:
+Los vocales que integran la Comisión de Honor y Justicia, durarán en su encargo un año, siendo elegidos, mediante el siguiente proceso:
 
-I. La convocatoria para ocupar los cargos de vocales se publicará en los destacamentos, a más tardar, el día quince de febrero de cada año.
+I. El vocal integrante del H. Ayuntamiento será elegido por éste mismo, a más tardar el día 30 de enero de cada año, mediante terna propuesta por el Presidente de la Comisión de Seguridad Pública y Tránsito Municipal.
 
-II. Los interesados presentarán su solicitud, a más tardar, el día primero de marzo del mismo año, ante la Dirección de Estado Mayor, anexando las constancias con las que acredite cumplir con los requisitos señalados con anterioridad.
+II. El representante de la Dirección de Estado Mayor de la Secretaría de Seguridad Pública, será el titular de dicha Dirección o la persona que éste designe para ocupar el cargo.
 
-III. El Director de Estado Mayor analizará cada una de las solicitudes presentadas y designará los vocales de entre aquellos que cumplan con les requisitos, valorando cualitativamente el cumplimiento de los mismos, así como la experiencia previa en un cargo similar.
+III. Los integrantes de la Dirección de Policía Preventiva y los de la Dirección de Tránsito deberán contar con un mínimo de dos años de experiencia en la Secretaría y estar en servicio activo, y se elegirán por convocatoria, bajo los siguientes lineamientos:
 
-IV. De no haber solicitudes suficientes para ocupar el número de vocalías integrantes de la Comisión o las presentadas no cumplieren con los requisitos, el Director de Estado de Mayor hará la designación, misma que será obligatoria para los elementos.
+a) La convocatoria para ocupar los cargos de vocales de la Dirección de Policía Preventiva y de la Dirección de Tránsito se publicará en los destacamentos, por parte de la Dirección de Estado Mayor, a más tardar, el día diez de enero de cada año.
 
-V. El Director de Estado Mayor notificará al Presidente de la Comisión de los nombramientos realizados, a más tardar, el día 15 de marzo del mismo año.
+b) Los interesados presentarán su solicitud, a más tardar, el veinte de enero del mismo año, ante la Dirección de Estado Mayor anexando las constancias con las que acredite cumplir con los requisitos señalados en la fracción III del presente artículo.
 
-VI. Los vocales están obligados a cumplir con su encargo hasta en tanto no sean relevados por los nuevos.
+c) El Director de Estado Mayor analizará cada una de las solicitudes presentadas y, a más tardar, el primero de febrero, designará los vocales de entre aquellos que cumplan con los requisitos, valorando cualitativamente el cumplimiento de los mismos, así como la experiencia previa en un cargo similar.
 
-Cuando el Presidente de la Comisión considere que la actuación de alguno de los vocales designados pone en riesgo el correcto desempeño de la Comisión, solicitará por escrito al Secretario de Seguridad Pública y Tránsito Municipal, valore la designación de un vocal sustituto que concluya el periodo anual para el que fue electo el vocal removido.
+d) De no haber solicitudes suficientes para ocupar el número de vocalías integrantes de la Comisión de Honor y Justicia o las presentadas no cumplieren con los requisitos, el Director de Estado de Mayor, declarará desierta la convocatoria y los lugares quedarán vacantes hasta nueva convocatoria en los términos del presente artículo.
+
+e) El Director de Estado Mayor notificará al Presidente de la Comisión de Honor y Justicia de los nombramientos realizados, a más tardar, el día quince de febrero del mismo año.
+
+f) Los vocales están obligados a cumplir con su encargo hasta en tanto no sean relevados por los nuevos.
+
+IV. Los representantes del Consejo Ciudadano de Seguridad Pública, serán elegidos de forma democrática al interior del Consejo, considerando para la elección de los vocales las aptitudes, experiencia y conocimientos relacionados con la materia de seguridad pública, debiendo informar los nombramientos realizados, a más tardar, el quince de febrero de cada año.
+
+Cuando el Presidente de la Comisión de Honor y Justicia considere que la actuación de alguno de los vocales previstos en el articulo 614 fracción III incisos b), c), d), ó e) del presente Código, pone en riesgo el correcto desempeño de la Comisión, tendrá la facultad de remover al vocal en cuestión, para lo cual rendirá informe al Secretario de Seguridad Pública y Tránsito Municipal, en un término de tres días, exponiendo las causas que lo motivaron a tomar dicha decisión. Asimismo, al día siguiente a la remoción del vocal en cuestión, el Presidente de la Comisión de Honor y Justicia deberá solicitar a la instancia correspondiente la designación de uno nuevo en un término de cinco días y, en caso de que agotado el término no exista designación alguna, el Presidente procederá a designarlo directamente.
 
 ### CAPÍTULO III. Circulaciones en las Construcciones
 
@@ -7197,63 +7391,81 @@ Cuando el Presidente de la Comisión considere que la actuación de alguno de lo
 
 La Comisión de Honor y Justicia tendrá las siguientes facultades y obligaciones:
 
-I. Conocer sobre las faltas previstas en el Artículo 605, del presente ordenamiento, en que incurran los elementos a los principios de actuación previstos en este Código y las normas disciplinarias de cada una de las Corporaciones de Seguridad, respecto de los asuntos propuestos por la Coordinación de Asuntos Internos;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
-II. Dictar durante el proceso las medidas necesarias para conocer la verdad legal sobre cada caso en particular;
+I. Conocer los asuntos que le turne la Dirección de Asuntos Internos de Seguridad Pública y Tránsito respecto de las faltas previstas en el artículo 605 BIS fracción II del presente ordenamiento, en que incurran los elementos a los principios de actuación previstos en este Código y las normas disciplinarias de cada una de las corporaciones de seguridad pública;
 
-III. Determinar en cualquier tiempo, a solicitud de la Coordinación de Asuntos Internos, la separación temporal del presunto infractor de su empleo, cargo o comisión, si a juicio de la misma así conviene para la conducción o continuación de las investigaciones, en los casos en que pueda resultar la comisión de una falta grave de las contempladas en el Artículo 605 del presente ordenamiento. La separación temporal no prejuzga sobre la responsabilidad que se impute;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
-La separación temporal a que se refiere el párrafo anterior, surtirá efectos desde el momento en que sea notificado al presunto infractor la separación cesará cuando así lo resuelva la Comisión, independientemente de la etapa en que se encuentre el procedimiento, pero en ningún caso excederá al momento en que quede total y definitivamente resuelto en la instancia final del procedimiento correspondiente.
+II. Dictar, durante el proceso, las medidas necesarias para conocer la verdad legal sobre cada caso en particular, ajustado a los principios esenciales de debido proceso;
 
-Si el elemento separado temporalmente no resultare responsable de la falta que se le atribuye, será restituido en el goce de sus derechos y se le cubrirán íntegramente las percepciones que debió recibir durante el tiempo que estuvo separado;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
-IV. Determinar a solicitud del Coordinador de Asuntos Internos o del Ministerio Público, la separación temporal de cualquier elemento de la Secretaría de Seguridad Pública y Tránsito Municipal, que se encuentre sujeto a averiguación previa por los actos u omisiones de los que puedan derivarse probable responsabilidad y cuya permanencia en el servicio a juicio de la Comisión, puedan afectar a la investigación, a la Secretaría o a la comunidad en general, aplicándose en lo conducente las disposiciones contenidas en el párrafo anterior;
+III. Dictar, en todos los casos que conozca, la medida de seguridad consistente en la separación indefinida de la corporación sin goce de sueldo del presunto infractor, para la conducción o continuación de las investigaciones, en los casos en que pueda resultar la comisión de una falta de las contempladas en el artículo 605 BIS fracción II del presente ordenamiento. La separación no prejuzga sobre la responsabilidad que se impute.
+
+La separación temporal a que se refiere el párrafo anterior, surtirá efectos desde el momento en que sea notificado al presunto infractor.
+
+La separación cesará cuando la Comisión de Honor y Justicia resuelva el asunto.
+
+Si el elemento que se sujeto a la medida de seguridad, y separado indefinidamente no resultare responsable de la falta que se le atribuye, será restituido en el goce de sus derechos y se le cubrirán íntegramente las percepciones que debió recibir durante el tiempo que estuvo separado;
+
+IV. (DEROGADA, P.O. 3 DE NOVIEMBRE DE 2008)
 
 V. Dictar en cada caso la resolución que corresponda, imponiendo las sanciones de su competencia a los elementos operativos de la Secretaría de Seguridad Pública y Tránsito, por la comisión de las faltas previstas en el presente ordenamiento;
 
 VI. Aprobar en su caso el otorgamiento de las condecoraciones, estímulos y recompensas, previstos en este Código;
 
-VII. Rendir informes trimestrales al Secretario del H. Ayuntamiento y Director General de Gobierno.
+VII. Rendir informes trimestrales al Secretario del H. Ayuntamiento y Director General de Gobierno;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+VIII. Notificar al Registro Nacional de Personal de Seguridad Pública, sobre las faltas graves sancionadas con destitución que resolviere respecto de los elementos de seguridad pública, en un término de tres días hábiles siguientes a su resolución.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 617.
 
-La Comisión de Honor y Justicia conocerá de los casos consignados por la Coordinación de Asuntos Internos, quien deberá remitir al presidente de la Comisión el expediente integrado con todos los elementos jurídicos y de prueba, junto con el resumen de actuaciones y el acuerdo de remisión, en el cual deberán de exponerse los hechos que considere constitutivos de las faltas, las pruebas en los que se basa la acusación y los razonamientos lógico-jurídicos que relacionen los hechos, las pruebas y los principios de actuación infringidos.
+La Comisión de Honor y Justicia conocerá de los casos consignados por la Dirección de Asuntos Internos de Seguridad Pública y Tránsito o el Secretario de Seguridad Pública y Tránsito Municipal, quien deberá remitir al Secretario Técnico de la Comisión, en un término de treinta días naturales a partir de haber recibido la queja o iniciado las investigaciones correspondientes, el expediente integrado con todos los elementos jurídicos y de prueba, junto con el resumen de actuaciones y el acuerdo de remisión, en el cual deberán exponerse los hechos que considere constitutivos de las faltas, las pruebas en los que se base la acusación y los razonamientos lógico-jurídicos que relacionen los hechos, las pruebas y los principios de actuación infringidos, en el que se determine la materia de la falta y se demuestre la plena responsabilidad del elemento de seguridad pública respecto de la falta que se le imputa.
 
-El Presidente de la Comisión asistido por el Secretario Técnico, revisarán que el expediente remitido cumpla con los requisitos de forma en cuyo caso lo radicará, asignándole el número consecutivo que le corresponda, señalando fecha para que tenga verificativo la sesión.
+El Secretario Técnico revisará que existan suficientes elementos que comprueben la probable responsabilidad del elemento en el expediente remitido. Si cumple con dichos elementos, lo radicará en un término no mayor a cinco días hábiles, lo radicará asignándole el número consecutivo que le corresponda, señalando fecha para que tenga verificativo la audiencia de inicio. En caso contrario, devolverá el expediente para que se integren nuevas pruebas, previo acuerdo de la Comisión de Honor y Justicia.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 618.
 
-La Comisión de Honor y Justicia seguirá el procedimiento sencillo que previene el presente Apartado de éste ordenamiento para el trámite de los asuntos de su competencia y cuidando respetar la garantía de audiencia que consagra el Artículo 14 de la Constitución Política de los Estados Unidos Mexicanos, de tal modo que se conceda al presunto infractor el derecho a ser oído y probar sus afirmaciones, sujetándose al siguiente procedimiento:
+La Comisión de Honor y Justicia seguirá el procedimiento que previene el presente apartado para el trámite de los asuntos de su competencia y cuidando respetar la garantía de audiencia, legalidad y debido proceso que consagra la Constitución Política de los Estados Unidos Mexicanos, de tal modo que se conceda al elemento de seguridad pública el derecho a un proceso justo, sujetándose al siguiente procedimiento:
 
-I. El Presidente citará cuando menos veinticuatro horas antes de la sesión, al elemento o elementos involucrados, haciéndoles saber la naturaleza y causa del procedimiento a fin de que conozca los hechos que se le imputan corriéndole traslado con todas las constancias que integran el expediente respectivo y las pruebas que haya en su contra, para que se presente ante la Comisión aportando los elementos de prueba que juzgue convenientes, apercibido que en caso de no comparecer o no justificar la causa legal de su inasistencia, se tendrán por ciertos los hechos propuestos por la coordinación y por perdidos los derechos que pudiera haber ejercitado.
+I. El Presidente citará cuando menos tres días antes de la audiencia de la Comisión de Honor y Justicia, al elemento o elementos involucrados, haciéndoles saber la naturaleza y causa del procedimiento a fin de que conozca los hechos que se le imputan corriéndole traslado con todas las constancias que integran el expediente respectivo y las pruebas que haya en su contra, para que se presente ante la Comisión de Honor y Justicia, aportando los elementos de prueba que juzgue convenientes, apercibido de que, en caso de no comparecer o no justificar la causa legal de su inasistencia, se tendrán por ciertos los hechos establecidos por la Dirección de Asuntos Internos de Seguridad Pública y Tránsito, y por perdidos, .los derechos que pudiera haber ejercitado.
 
-II. Abiertos los trabajos de la sesión, el Secretario Técnico expondrá a la Comisión los hechos constitutivos de la falta, así como las pruebas que existieren, hecho lo cual y si estuviese presente se concederá el uso de la voz al presunto infractor a efecto que de considerarlo pertinente, manifieste su versión de los hechos, pudiendo los miembros de la Comisión formular las preguntas que juzguen procedentes.
+II. Abiertos los trabajos de la sesión de inicio, el Secretario Técnico expondrá a la Comisión de Honor y Justicia los hechos constitutivos de la falta, así como las pruebas que existieren y, si estuviese presente, se concederá el uso de la voz al elemento de seguridad pública a efecto de que, de considerarlo pertinente, manifieste su versión de los hechos, pudiendo los miembros de la Comisión de Honor y Justicia formular las preguntas que juzguen procedentes.
 
-III. Concluida su participación, el Secretario Técnico, requerirá al presunto infractor para que ofrezca los medios de prueba que a su parte correspondan. Admitiéndosele toda clase de pruebas siempre que puedan ser desahogadas dentro los 15 días naturales siguientes a la sesión excepto la confesional de la autoridad y las que fueren en contra del derecho, la moral y las buenas costumbres.
+III. Dentro de la de (sic) Comisión, el Secretario Técnico, requerirá al elemento de seguridad pública y a la Dirección de Asuntos Internos de Seguridad Publica para que ofrezcan los medios de prueba que considere necesarios. Se les admitirán toda clase de pruebas, siempre que puedan ser desahogadas dentro de la audiencia, excepto la confesional de la autoridad y las que fueren en contra del derecho, la moral y las buenas costumbres. Su desahogo no podrá exceder de los diez días hábiles siguientes a su ofrecimiento.
 
-IV. Cuando las pruebas admitidas dentro del procedimiento requieran de un desahogo especial, los costos y la aportación de los medios para su desahogo serán responsabilidad de quien las ofrezcan, por lo que el incumplimiento o falta de preparación o la voluntad de tercero que hagan imposible el desahogo en el día y hora que se hayan designado para tal efecto será causa suficiente para declarar desierta la prueba ofertada.
+IV. Cuando las pruebas admitidas dentro del procedimiento requieran de un desahogo especial, los costos y la aportación de los medios para su desahogo serán responsabilidad de quienes las ofrezcan, por lo que el incumplimiento o falta de preparación o la voluntad de tercero que hagan imposible el desahogo en el día y hora de la audiencia que se hayan designado para tal efecto será causa suficiente para declarar desierta la prueba ofertada.
 
-Únicamente en materia de desahogo de pruebas serán aplicables en forma supletoria disposiciones del Código de Procedimientos Civiles de Aguascalientes.
+En materia de pruebas, para las reglas específicas de ofrecimiento y desahogo de pruebas, será aplicable, en forma supletoria, la Legislación Penal del Estado de Aguascalientes, en lo que no contradiga el presente procedimiento.
 
-Las pruebas ofrecidas por el Coordinador de Asuntos Internos, tendrán valor probatorio pleno, sin necesidad de perfeccionamiento alguno, salvo prueba en contrario.
+V. Una vez desahogadas las pruebas, inmediatamente la Dirección de Asuntos Internos de Seguridad Publica y Tránsito procederá a formular, de manera verbal o por escrito, sus conclusiones y determinará la sanción que solicita. El elemento de seguridad pública podrá presentar, en forma verbal o por escrito, los alegatos que a su derecho convengan, de forma inmediata a las conclusiones rendidas por parte de la Dirección. Posterior a la rendición de conclusiones y alegatos, la Comisión de Honor y Justicia declarará cerrada la instrucción del procedimiento.
 
-V. Desahogadas las pruebas o transcurrido el término de quince días mencionado en la fracción III, el presunto infractor podrá presentar en forma verbal o por escrito los alegatos que a su derecho convengan, cerrándose la instrucción del procedimiento.
+VI. La Comisión de Honor y Justicia levantará constancia por escrito de todo lo actuado en las audiencias.
 
-VI. De todo lo actuado en la sesión se levantará constancia por escrito.
+VII. La Comisión de Honor y Justicia dictará su resolución debidamente fundada y motivada, tomando en consideración la falta cometida, la jerarquía del elemento y las pruebas desahogadas, dentro de los cinco días hábiles siguientes al cierre de la instrucción y la notificará personalmente al presunto infractor. Debiendo notificar personalmente su resolución al elemento de seguridad pública en un término no mayor a cinco días.
 
-VII. La Comisión dictará su resolución debidamente fundada y motivada, tomando en consideración la falta cometida, la jerarquía del elemento y las pruebas desahogadas, dentro de los diez días hábiles siguientes al cierre de la instrucción y la notificará personalmente al presunto infractor.
+VIII. Las resoluciones de la Comisión de Honor y Justicia no admitirán recurso alguno y se agregarán a los expedientes de los elementos de seguridad pública.
 
-VIII. Las resoluciones de la Comisión de Honor y Justicia no admitirán recurso alguno y se agregarán a los expedientes de los elementos de Seguridad Pública.
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
 ## TÍTULO CUARTO. PROYECTO ARQUITECTÓNICO
 
 ###### ARTÍCULO 619.
 
-En el momento de la citación el Notificador requerirá al presunto infractor para que designe domicilio para oír y recibir notificaciones, apercibiéndosele que en caso de no designar o no ser cierto el domicilio señalado o no dar aviso del cambio, las subsiguientes notificaciones aún las de carácter personal le serán hechas en los estrados del Palacio Municipal.
+En el momento de la citación, el notificador requerirá al o los elementos de seguridad pública para que designe domicilio para oír y recibir notificaciones, apercibiéndosele de que, en caso de no designar, no ser cierto el domicilio señalado o no dar aviso del cambio, las subsiguientes notificaciones aún las de carácter personal le serán hechas en los estrados del Palacio Municipal.
 
-También podrán hacerse notificaciones al abogado del presunto infractor cuando en autos hayan sido facultados para tal efecto. La facultad de recibir notificaciones autoriza al abogado designado para ello para realizar promociones de mero trámite, ofrecer y rendir pruebas y alegar en las audiencias.
+También podrán hacerse notificaciones al abogado del elemento de seguridad pública cuando en autos haya sido facultado para tal efecto. La facultad de recibir notificaciones autoriza al abogado designado para ello para realizar promociones de mero trámite, ofrecer y rendir pruebas y alegar en la audiencia.
 
-A las notificaciones derivadas del presente procedimiento le será aplicable lo dispuesto por el Capítulo V, del Título Segundo del Libro Noveno del presente Código.
+A las notificaciones derivadas del presente procedimiento le será aplicable lo dispuesto por el apartado de de notificaciones establecido en la Legislación Penal del Estado de Aguascalientes.
+
+En caso de que el elemento de seguridad pública se negare a firmar la notificación, el notificador podrá dar fe de dicha conducta y así asentarlo en la cédula de notificación. Dicha negativa no afectará la validez de la notificación realizada.
 
 ###### ARTÍCULO 620.
 
@@ -18242,3 +18454,63 @@ ARTÍCULO ÚNICO (SIC).- El presente Decreto entrará en vigor al día siguiente
 ###### ARTÍCULO SEGUNDO.
 
 A partir de la entrada en vigor del presente Decreto, el personal y los recursos materiales y financieros de los departamentos creados, serán asignados por la Secretaría de Administración del H. Ayuntamiento de Aguascalientes.
+
+P.O. 3 DE NOVIEMBRE DE 2008.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 82 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+A más tardar quince días después de la entrada en vigor del presente decreto, el H. Cabildo deberá nombrar los Regidores que conformarán la Comisión de Igualdad y Género así como su Presidente.
+
+P.O. 3 DE NOVIEMBRE DE 2008.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 98, 107, 332, 553, 559, 570, 597, 601, 602, 603, 604, 605, 613, 614, 615, 616, 617, 618, 619, Y SE ADICIONAL LOS ARTICULOS 601 BIS, 605 BIS DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los tres días siguientes a la entrada en vigencia de las presentes modificaciones, el Presidente de la Comisión de Honor y Justicia tendrá las siguientes obligaciones:
+
+I.- Proponer al H. Ayuntamiento la terna para elegir al representante del mismo que desempeñará el cargo de vocal, para que, en un término no mayor a diez días naturales, seleccione de la terna el representante del H. Ayuntamiento que se integrará a la Comisión de Honor y Justicia;
+
+II.- Elegir a los vocales que representarán a la Secretaría de Seguridad Pública y Tránsito Municipal, en relación a la Dirección de Policía Preventiva ya la Dirección de Tránsito;
+
+III.- Solicitar al Director de Estado Mayor que, en un término no mayor a diez días naturales, se integre o designe algún miembro representante para desempeñar el cargo de vocal. En caso de que, en el plazo establecido, el Director de Estado Mayor no se integre o no haya designado algún representante, el Presidente de la Comisión de Honor y Justicia lo designará a más tardar a los tres días de vencido el plazo; y
+
+IV.- Requerir, al Consejo Ciudadano de Seguridad Pública, la designación de sus dos representantes en un término no mayor a diez días naturales. En caso de que, en el plazo establecido, el Consejo no haya designado a sus representantes, el Presidente de la Comisión de Honor y Justicia lo designará a más tardar a los tres días naturales de vencido el plazo.
+
+###### ARTÍCULO TERCERO.
+
+Tanto los asuntos nuevos que sean de competencia de la Comisión de Honor y Justicia, como los que están en investigación, así como los que están en conocimiento de la Comisión de Honor y Justicia vigente, serán conocidos y resueltos por la Comisión de Honor y Justicia que se integre por el procedimiento previsto en el artículo Transitorio Segundo del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+En un término no mayor a cinco días naturales, el Presidente Municipal, nombrará al Coordinador Jurídico de Asuntos de Honor y Justicia, quién fungirá como Secretario Técnico de la Comisión de Honor y Justicia.
+
+###### ARTÍCULO QUINTO.
+
+Extraordinariamente, la Comisión de Honor y Justicia que se integre como resultado de estas reformas durará en su encargo hasta la convocatoria de integración de la Comisión de Honor y Justicia del año de 2010, conforme al procedimiento establecido en el artículo 615 del Código Municipal de Aguascalientes. Pudiendo estos ser ratificados en su caso, al término de dicho periodo.
+
+###### ARTÍCULO SEXTO.
+
+Cualquier disposición vigente que haga referencia a la Coordinación de Asuntos Internos de Seguridad Pública o al Coordinador de Asuntos Internos de Seguridad Pública, se entenderá en lo subsiguiente, referido a la Dirección de Asuntos Internos de Seguridad Pública y Tránsito y, Director de Asuntos Internos de Seguridad Pública y Tránsito, de manera correspondiente, conforme al presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Secretario (sic) Administración, asignará los recursos materiales, humanos y financieros necesarios para su funcionamiento. A más tardar a los 10 días hábiles siguientes a la entrada en vigor del presente reglamento.
+
+P.O. 3 DE NOVIEMBRE DE 2008.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 298, 306, 320, 321, 324, Y 545, SE ADICIONAN LOS ARTICULOS 320 BIS, 320 TER Y 320 QUATER, SE DEROGA LA FRACCION XI DEL ARTICULO 343 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día 16 de noviembre del año 2008.
