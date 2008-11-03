@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2008-01-30"
+last_updated: "2008-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE NOVIEMBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -681,127 +681,71 @@ Las Comisiones del Congreso serán Permanentes, Especiales y de Protocolo y Cort
 
 Las Comisiones Permanentes tendrán la competencia que se deriva de su denominación y las especiales las de los asuntos que motivaron su integración.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 3 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 39.
 
-Serán permanentes las comisiones siguientes:
-
-> <small>(REFORMADA, G.O. 2 DE ENERO DE 2003)</small>
+Serán permanentes las Comisiones siguientes:
 
 I. Administración y Presupuesto;
 
-> <small>(REFORMADA, G.O. 2 DE ENERO DE 2003)</small>
-
 II. Asuntos Indígenas;
 
-> <small>(REFORMADA, G.O. 2 DE ENERO DE 2003)</small>
+III. Ciencia y Tecnología;
 
-III. Comunicaciones;
+IV. Comunicaciones;
 
-> <small>(REFORMADA, G.O. 2 DE ENERO DE 2003)</small>
+V. Derechos Humanos y Atención a Grupos Vulnerables;
 
-IV. Derechos Humanos y Atención a Grupos Vulnerables;
+VI. Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación;
 
-> <small>(REFORMADA, G.O. 2 DE ENERO DE 2003)</small>
+VII. Desarrollo Económico;
 
-V. Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación;
+VIII. Desarrollo Regional;
 
-> <small>(REFORMADA, G.O. 2 DE ENERO DE 2003)</small>
+IX. Desarrollo y Fortalecimiento Municipal;
 
-VI. Desarrollo Económico;
+X. Editorial, Biblioteca y Archivo;
 
-> <small>(REFORMADA, G.O. 2 DE ENERO DE 2003)</small>
+XI. Educación y Cultura;
 
-VII. Desarrollo Regional;
+XII. Equidad, Género y Familia;
 
-> <small>(REFORMADA, G.O. 2 DE ENERO DE 2003)</small>
+XIII. Gestoría y Quejas;
 
-VIII. Desarrollo y Fortalecimiento Municipal;
+XIV. Gobernación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 25 DE JULIO DE 2003)</small>
+XV. Hacienda del Estado;
 
-IX. Editorial, biblioteca y archivo;
+XVI. Hacienda Municipal;
 
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
+XVII. Instructora;
 
-X. Educación y Cultura;
+XVIII. Justicia y Puntos Constitucionales;
 
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
+XIX. Juventud y Deporte;
 
-XI. Equidad, Género y Familia;
+XX. Límites Territoriales Intermunicipales;
 
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
+XXI. Medio Ambiente, Recursos Naturales y Aguas;
 
-XII. Gestoría y Quejas;
+XXII. Organización Política y Procesos Electorales;
 
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
+XXIII. Procuración de Justicia;
 
-XIII. Gobernación;
+XXIV. Protección Civil;
 
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
+XXV. Salud y Asistencia;
 
-XIV. Hacienda del Estado;
+XXVI. Seguridad Pública;
 
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
+XXVII. Trabajo y Previsión Social;
 
-XV. Hacienda Municipal;
+XXVIII. Transporte, Tránsito y Vialidad;
 
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
+XXIX. Turismo; y
 
-XVI. Instructora;
-
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
-
-XVII. Justicia y Puntos Constitucionales;
-
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
-
-XVIII. Juventud y Deporte;
-
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
-
-XIX. Límites Territoriales Intermunicipales;
-
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
-
-XX. Medio Ambiente, Recursos Naturales y Aguas;
-
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
-
-XXI. Organización Política y Procesos Electorales;
-
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
-
-XXII. Protección Civil;
-
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
-
-XXIII. Salud y Asistencia;
-
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
-
-XXIV. Seguridad Pública y Procuración de Justicia;
-
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
-
-XXV. Trabajo y Previsión Social; y (sic)
-
-> <small>(REFORMADA, G.O. 2 DE ENERO DE 2003)</small>
-
-XXVI. Vigilancia;
-
-> <small>(REFORMADA, G.O. 6 DE MARZO DE 2007)</small>
-
-XXVII. Turismo;
-
-> <small>(REFORMADA, G.O. 6 DE MARZO DE 2007)</small>
-
-XXVIII. Transporte, Tránsito y Vialidad, y
-
-> <small>(ADICIONADA, G.O. 6 DE MARZO DE 2007)</small>
-
-XXIX. Ciencia y Tecnología.
+XXX. Vigilancia.
 
 > <small>(REFORMADO, G.O. 25 DE ABRIL DE 2003)</small>
 
@@ -1320,3 +1264,9 @@ G.O. 30 DE ENERO DE 2008.
 Artículo primero. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 3 DE NOVIEMBRE DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
