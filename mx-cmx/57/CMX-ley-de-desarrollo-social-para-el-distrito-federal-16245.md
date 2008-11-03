@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-social-para-el-distrito-federal-16245"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-23"
-last_updated: "2007-02-06"
+last_updated: "2008-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16245&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-04-24"
 
 LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE NOVIEMBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de mayo de 2000.
 
@@ -606,41 +606,75 @@ II. Recibirá las propuestas de los Consejos Delegacionales, organizaciones civi
 
 Los programas sociales específicos de la Administración Pública del Distrito Federal deberán enmarcarse en los principios de esta Ley y ser congruentes con el contenido del Programa General de Desarrollo Social.
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 33.
 
-Todos los programas deberán contar con lineamientos y mecanismos de operación en los que se incluirán, al menos:
+Todos los programas sociales de la Administración Pública del Distrito Federal deberán contar con lineamientos y mecanismos de operación en los que se incluirán, al menos:
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 a) La entidad o dependencia responsable del programa.
 
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+
 b) Los objetivos y alcances
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 c) Sus metas físicas
 
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+
 d) Su programación presupuestal
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 e) Los requisitos y procedimientos de acceso
 
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+
 f) El procedimiento de queja o inconformidad ciudadana
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 g) Los mecanismos de evaluación y los indicadores
 
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+
 h) Las formas de participación social
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 i) La articulación con otros programas sociales
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+> <small>(ADICIONADO, G.O. 3 DE NOVIEMBRE DE 2008)</small>
+
+Las convocatorias para los programas sociales de la Administración Pública del Distrito Federal deberán publicarse en la Gaceta Oficial del Distrito Federal, en el Sistema de Información del Desarrollo Social, en los demás medios oficiales de difusión del Gobierno del Distrito Federal y, mínimo, en dos de los periódicos de mayor circulación en el Distrito Federal. Dichas convocatorias deberán contener, por lo menos, un resumen de los elementos establecidos en los incisos a) al i) del párrafo primero de este artículo.
+
+> <small>(REFORMADO, G.O. 3 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 34.
 
-Cada uno de los programas deberá tener actualizado un padrón de participantes o beneficiarios. Dichos programas serán auditables en términos de la legislación vigente por los órganos facultados para ello.
+Cada uno de los programas sociales de la Administración Pública del Distrito Federal deberá tener actualizado un padrón de participantes o beneficiarios. Dichos programas serán auditables en términos de la legislación por los órganos facultados para ello.
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+Para el cumplimiento de lo dispuesto en el párrafo anterior, y en los artículos 33 y 35 de esta ley, las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades de la Administración Pública del Distrito Federal que tengan a su cargo programas destinados al desarrollo social, deberán:
+
+I. Publicar en la Gaceta Oficial del Distrito Federal a más tardar el 31 de enero del año de ejercicio, las reglas de operación de los diferentes programas de desarrollo social, en términos de la presente ley;
+
+II. Publicar en la Gaceta Oficial del Distrito Federal, a más tardar el 31 de marzo del año de ejercicio y en un solo formato, los padrones con nombres, edad, sexo, unidad territorial y delegación de los beneficiarios de los programas sociales. Dichos padrones deberán ser entregados en el mismo plazo a la Asamblea Legislativa del Distrito Federal, en medio electrónico e impreso;
+
+III. Presentar trimestralmente a la Asamblea Legislativa del Distrito Federal, un informe pormenorizado de la evaluación y ejercicio de los recursos del gasto social, en el que se indique de forma analítica el monto y destino de los recursos por programa social; y
+
+IV. Una vez presentados los padrones de los programas sociales, el Consejo de Evaluación del Desarrollo Social del Distrito Federal, mediante la Contraloría General del Distrito Federal realizará, trimestralmente, un programa de verificación que para tal efecto presente a la Asamblea Legislativa, de los datos contenidos en los programas y en los informes correspondientes, salvaguardando siempre conforme a la Ley los datos personales de los beneficiarios. El Gobierno del Distrito Federal otorgará a la institución señalada toda la información necesaria que permita realizar dicha verificación.
+
+El incumplimiento de las obligaciones establecidas en este artículo será sancionado en términos de la Ley Federal de Responsabilidades de los Servidores Públicos.
+
+> <small>(REFORMADO, G.O. 3 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 35.
 
-La información general sobre el número de participantes o beneficiarios, el monto de los recursos asignados, su distribución por sexo y grupos de edad y su distribución por unidades territoriales serán de conocimiento público.
+La información general sobre el número de participantes o beneficiarios, el monto de los recursos asignados, su distribución por sexo y grupos de edad y su distribución por unidades territoriales serán de conocimiento público, en términos del artículo 34 de esta ley.
 
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
@@ -821,3 +855,13 @@ CUARTO.- Cuando alguna Unidad Administrativa de las establecidas por las leyes a
 QUINTO.- Los asuntos que con motivo del presente Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las Unidades Administrativas que los tramiten se incorporen a la Dependencia que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazo improrrogable
 
 SEXTO.- El Titular de la Jefatura de Gobierno por conducto de la Secretaría de Finanzas, y de conformidad con la normatividad aplicable, dotará de recursos a las Secretarías de reciente creación, adecuando el presupuesto autorizado para las dependencias en el ejercicio 2007, mediante movimientos programáticos-presupuestarios compensados.
+
+G.O. 3 DE NOVIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal para su entrada en vigor y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+CUARTO.- En un periodo no mayor de 60 días contado a partir de la entrada en vigor de las presentes reformas, el Jefe de Gobierno del Distrito Federal deberá publicar las reformas y adecuaciones necesarias al Reglamento de la Ley de Desarrollo Social para el Distrito Federal.
