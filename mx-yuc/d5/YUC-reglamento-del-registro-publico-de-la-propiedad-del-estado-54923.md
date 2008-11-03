@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-registro-publico-de-la-propiedad-del-estado-5492
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-20"
-last_updated: "2007-09-17"
+last_updated: "2008-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE NOVIEMBRE DE 2008.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 20 de marzo de 2007.
 
@@ -363,13 +363,39 @@ Todo Título que se pretenda inscribir o anotar deberá hacer referencia expresa
 
 Cuando el acto o convenio a que se refiere un Título inscribible se haya celebrado por medio de representantes de las partes, se hará constar este hecho en la inscripción.
 
+> <small>(REFORMADO, D.O. 3 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 34.
 
-Los asientos no surtirán efectos mientras no estén firmados por el Registrador correspondiente. En caso de que un asiento no esté firmado debiendo estarlo, el interesado podrá exigir sea firmado presentando el Título original respectivo con la nota o boleta de registro.
+Los asientos no surtirán efectos mientras no estén firmados por el Registrador correspondiente.
+
+> <small>(REFORMADO, D.O. 3 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 35.
 
-Si la firma omitida fue de un Registrador que ya no esté en el cargo, deberá firmar el asiento respectivo el Registrador en funciones, siempre que, con vista del Título original inscrito y la nota o boleta de registro, estime que dicho asiento se practicó correctamente, haciendo constar la fecha en que se firma y la circunstancia de haber firmado por omisión.
+Cuando en alguna inscripción, anotación o asiento, se hubiere omitido la firma del Registrador, el Registro Público podrá subsanar esta omisión a solicitud de quien tuviere interés legítimo, o de cualquier fedatario o a solicitud de la autoridad que hubiere intervenido en el acto jurídico o convenio registrado, mediante escrito al cual se anexará el mencionado documento público que motivó la inscripción que carece de firma.
+
+Tratándose de solicitud escrita de alguno de los señalados en el párrafo inmediato anterior, deberá de anexarse, cuando menos, uno de los siguientes documentos:
+
+a).- El documento público en original o en copia certificada en el que obre el acto jurídico o convenio que motivó la inscripción que carece de firma, en el cual conste la nota de la inscripción del Registro Público.
+
+b).- Segundo o ulteriores testimonios del propio acto jurídico o convenio, que contenga en forma fehaciente los datos de la inscripción, anotación o asiento en la que se hubiere omitido la firma.
+
+c).- Copia certificada del protocolo donde conste el acto jurídico o convenio, expedida por quien esté legalmente facultado para ello y que del mismo documento se aprecie la anotación referente a la inscripción que se realizó del documento en el Registro Público.
+
+d).- Documental pública que acredite la existencia del acto jurídico o convenio y su inscripción, anotación o asiento.
+
+Al subsanarse la omisión de la firma, se hará constar la fecha en que se realizó dicho acto y el nombre del solicitante.
+
+El Registrador, de oficio y sin necesidad que medie una solicitud, subsanará la omisión de la firma cuando un Título fuere presentado para su trámite registral, relacionado con la inscripción, anotación o asiento que carece de firma, y se desprenda del mismo Título presentado alguno de los supuestos siguientes:
+
+I. - Que el obligado al cumplimiento de la obligación contenida en el Registro que carezca de firma, reconozca la existencia y validez de dicha inscripción, y
+
+II.- Que el acreedor declare cumplida la obligación que motivó el Registro carente de firma y solicite el trámite de cancelación de la misma.
+
+En los casos en que el Registrador proceda de oficio para subsanar la omisión de la firma, respetará la prelación registral de las solicitudes en trámite relacionadas con la firma de la inscripción que fue subsanada.
+
+Si de la pretensión de subsanar la firma omitida se advirtiera que se afecta a derechos inscritos de terceros propiciados por la misma omisión, se requerirá orden judicial para proceder a la corrección de la omisión de la firma y las consecuencias jurídicas que origine.
 
 ### CAPÍTULO II
 
@@ -711,13 +737,47 @@ Declarada la nulidad de una inscripción en sentencia firme y comunicada que sea
 
 DE LA RECTIFICACIÓN.
 
+> <small>(REFORMADO, D.O. 3 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 93.
 
-La rectificación de errores, omisiones o cualquiera modificación equivalente que deba hacerse por el Registrador después de haberse firmado la inscripción o anotación, se realizará a petición de parte interesada cuando fuere procedente y será objeto de una anotación que se hará en el folio correspondiente a la inscripción respectiva. Lo anterior no es aplicable a los errores que provengan de la falta de adecuación de la anotación y el oficio remitido por la autoridad solicitante antes de emitir la contestación respectiva, ya que en este caso, el Registrador de oficio y con la vista de la orden procederá a realizar la corrección.
+En cualquiera de los sistemas de inscripción del Registro Público de la Propiedad y del Comercio, se entiende por error material u omisión las discrepancias que existan entre el título y la inscripción, ya sea porque se asentaron unas palabras por otras o porque se omitió la expresión de alguna circunstancia, sin cambiar por ello el sentido de la inscripción; o bien error de interpretación o concepto, cuando al realizar la inscripción ésta discrepe del acto jurídico o convenio contenido en el Título.
+
+> <small>(REFORMADO, D.O. 3 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 94.
 
-Cualquier persona que tenga interés legitimo, el Fedatario Público o Autoridad que haya autorizado el acto o convenio registrado que advirtiere error u omisión en su inscripción consistente en la falta de concordancia entre ésta y el Título que la motivó, podrá mediante solicitud por escrito, anexando el Título y la fotocopia de ambos, pedir su rectificación al Registrador, quien procederá a realizar la anotación respectiva; pero si no debiere rectificarse o subsanarse con sólo la vista del título, se requerirá mandato judicial para hacerla.
+La rectificación de errores u omisiones señaladas en el artículo anterior puede realizarse:
+
+I.- De oficio por el Registrador;
+
+II.- A solicitud de cualquier persona que tenga interés legítimo;
+
+III.- A solicitud de cualquier fedatario;
+
+IV.- A solicitud de la autoridad que hubiere intervenido en el acto jurídico o convenio registrado; o
+
+V.- Por orden judicial.
+
+En el caso de la fracción I, la corrección procederá cuando el propio Registrador detecte por medio de los asientos existentes en el Registro Público, el error u omisión.
+
+En el caso de las fracciones II a la IV, la solicitud deberá realizarse mediante escrito firmado por quien solicite la corrección, exhibiendo, cuando menos alguno de los siguientes documentos:
+
+a).- El documento público en original o en copia certificada en el que obre el acto jurídico o convenio que motivó la inscripción que se pretende corregir.
+
+b).- Segundo o ulteriores testimonios, del propio acto jurídico o convenio que motivó la inscripción que se pretende corregir y que contenga en forma fehaciente los datos de la inscripción, anotación o asiento.
+
+c).- Copia certificada del protocolo donde conste el acto jurídico o convenio, expedida por quien esté legalmente facultado para ello y que del mismo documento se aprecie la existencia del error u omisión cuya corrección se pretende.
+
+d).- La constancia catastral del predio de cuya inscripción se pretende corregir, cuando se trate únicamente de la ubicación del mismo.
+
+La rectificación de error de concepto sólo podrá realizarse a petición de parte interesada. Si de los antecedentes registrales o documentos presentados al Registrador para efectuar la corrección, éste considera que no son suficientes o claros, podrá pedirle al solicitante que presente una aclaración en la misma forma y términos que se otorgó el título original con la intervención de todas la partes otorgantes del acto jurídico o convenio. Si en la aclaración solicitada no se cumple con todos los aspectos que señale el Registrador, únicamente podrá hacerse la corrección mediante orden judicial.
+
+De proceder la corrección de oficio, se respetará la prelación registral de las solicitudes en trámite.
+
+En los casos que proceda la rectificación, se efectuarán las correcciones que resulten de otros asientos registrales que se relacionen con la misma.
+
+Si al pretender corregir un error de la inscripción, se detecta que pueden resultar afectados derechos inscritos de terceros motivados por el propio error, la corrección sólo podrá realizarse por orden judicial.
 
 ###### Artículo 95.
 
@@ -850,3 +910,7 @@ ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ
 D.O. 17 DE SEPTIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 3 DE NOVIEMBRE DE 2008.
+
+ÚNICO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
