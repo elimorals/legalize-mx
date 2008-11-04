@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-agentes-de-pronosticos-para-la-asistencia-51088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-08-01"
-last_updated: "2006-08-01"
+last_updated: "2008-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51088&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-06-23"
 
 REGLAMENTO DE AGENTES DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE NOVIEMBRE DE 2008.
 
 Reglamento publicado en la Primera Sección en el Diario Oficial de la Federación, el martes 1 de agosto de 2006.
 
@@ -49,31 +49,71 @@ Para los efectos del presente Reglamento se entenderá por:
 
 I. Agencia.- Inmueble en donde opere el agente autorizado para comercializar los concursos, sorteos, productos o servicios que Pronósticos ofrezca al público; y/o
 
-Lugar o establecimiento donde se concentran los registros de participaciones de los concursos, sorteos, productos o servicios que comercializa Pronósticos y que son registrados en el Sistema Central del Registro de Apuestas de Pronósticos.
+Lugar o establecimiento donde se concentran los registros de participaciones de los concursos, sorteos, productos o servicios que comercializa Pronósticos y que son registrados en el Sistema Central del Registro de Apuestas de Pronósticos;
 
-II. Agente autorizado (agente).- La persona física o moral que haya celebrado contrato de comisión mercantil con Pronósticos y cuya función consiste en captar las ventas de las participaciones, productos o servicios que ofrezca Pronósticos, en la forma y términos señalados en las disposiciones reglamentarias.
+> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
 
-También se entenderá como agente autorizado a los terceros y/o corredores que hayan celebrado un contrato de comisión mercantil con Pronósticos.
+II. Agencia madura.- A la agencia que haya concluido su periodo de prueba a que hace referencia el Artículo 24o. de este Reglamento, rebasando el promedio semanal mínimo establecido en el contrato de comisión mercantil;
 
-III. Boleto.- Documento o registro electrónico autorizado que acredita al portador o titular el derecho de participar en un juego con apuesta, concurso o sorteo y garantiza sus derechos, según sea el caso, los cuales deberán estar impresos en el mismo documento o bien contenidos en el sistema en donde se resguarden los registros;
+> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
 
-IV. Centro de soporte a terminales.- Asistencia remota proporcionada por quien designe Pronósticos al agente, tendiente a resolver problemas técnicos o de funcionamiento de terminales;
+III. Agente autorizado.- A la persona física o moral que haya celebrado el contrato de comisión mercantil con Pronósticos y cuya función consistirá en captar las ventas de las participaciones, productos o servicios que ofrezca Pronósticos, en la forma y términos señalados por este Reglamento y demás disposiciones aplicables;
 
-V. Concentrador.- Persona física o moral cuya función será almacenar y entregar al agente el material operativo, publicitario u otro que reciba de Pronósticos;
+También se entenderá como agente autorizado a los terceros y/o corredores que hayan celebrado un contrato de comisión mercantil con Pronósticos;
 
-VI. Concurso.- Actividad en la que los poseedores o titulares de un boleto, mediante la selección previa de un resultado deportivo o competencia, obtienen el derecho a participar en un procedimiento previamente estipulado y aprobado por la Secretaría de Gobernación, conforme al cual se determina uno o varios ganadores de un premio;
+> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
 
-VII. Material operativo.- Bienes e insumos de distintos tipos cuya finalidad es facilitar las actividades de comercialización del organismo;
+IV. Agente cadenero.- A la persona física o moral que cuenta con dos o más agencias;
 
-VIII. Premio.- Retribución en efectivo o en especie que obtiene el ganador de un juego con apuesta, pronóstico, concurso o sorteo;
+> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
 
-IX. Pronósticos.- Pronósticos para la Asistencia Pública.
+V. Boleto.- Al documento o registro electrónico autorizado, que acredita al portador o titular el derecho de participar en un juego con apuesta, concurso o sorteo y garantiza sus derechos, según sea el caso. Los Boletos quedarán almacenados en el Sistema de Cómputo Central.
 
-X. Sorteo.- Actividad en la que los poseedores o titulares de un boleto mediante la selección previa de un número, combinación de números o cualquier otro símbolo, obtienen el derecho a participar en un procedimiento previamente estipulado y aprobado por la Secretaría de Gobernación, conforme al cual se determina al azar un número, combinación de números, símbolo o símbolos que generan uno o varios ganadores de un premio;
+El Boleto consigna un contrato de adhesión, acredita el derecho de participar en el concurso o sorteo respectivo y constituye un documento civil al portador comprendido en el Artículo 6o. de la Ley General de Títulos y Operaciones de Crédito, y no un título de crédito;
 
-XI. Tercero y/o corredor.- Comercializa uno o varios productos de Pronósticos y se encuentra sujeto al contrato de comisión mercantil y a la observancia del presente Reglamento en lo conducente:
+> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
 
-XII. Terminal.- Aparato cuya función consiste en captar los datos de la participación hecha por el concursante.
+VI. Centro de soporte a terminales.- A la asistencia remota proporcionada por quien designe Pronósticos para la Asistencia Pública al agente autorizado, tendiente a resolver problemas técnicos o de funcionamiento de terminales;
+
+> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
+VII. Concentrador.- A la persona física o moral cuya función será almacenar y entregar al agente el material operativo, publicitario u otro que reciba de Pronósticos para la Asistencia Pública;
+
+> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
+VIII. Concurso.- A la actividad en la que los poseedores o titulares de un boleto, mediante la selección previa de un resultado deportivo o competencia, obtienen el derecho a participar en un procedimiento previamente estipulado y aprobado por la Secretaría de Gobernación, conforme al cual se determina uno o varios ganadores de un premio;
+
+> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
+IX. Material operativo.- A los bienes e insumos de distintos tipos cuya finalidad es facilitar las actividades de comercialización de Pronósticos;
+
+> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
+X. Premio.- A la retribución en efectivo o en especie que obtiene el ganador de un juego con apuesta, pronóstico, concurso o sorteo;
+
+> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
+XI. Pronósticos.- Pronósticos para la Asistencia Pública;
+
+> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
+XII. Sistema de Cómputo Central.- Al sistema de cómputo de Pronósticos utilizado para captar los registros de las participaciones de los clientes de los productos de Pronósticos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
+XIII. Sorteo.- A la actividad en la que los poseedores o titulares de un boleto mediante la selección previa de un número, combinación de números o cualquier otro símbolo, obtienen el derecho a participar en un procedimiento previamente estipulado y aprobado por la Secretaría de Gobernación, conforme al cual se determina al azar un número, combinación de números, símbolo o símbolos que generan uno o varios ganadores de un premio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
+XIV. Tercero y/o comisionista.- A la persona física o moral que comercializa uno o varios productos de Pronósticos y se encuentra sujeto al contrato de comisión mercantil y a la observancia del presente Reglamento en lo conducente, y (sic)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
+XV. Terminal.- Al aparato cuya función consiste en captar los datos de la participación hecha por el concursante;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
+XVI. Canales Alternos de Distribución.- Son todos aquellos Agentes autorizados que operen la comercialización masiva de los productos de Pronósticos a través de sus propios puntos de venta, equipos o terminales y medios de comunicación, debidamente enlazados con el Sistema de Cómputo Central de Pronósticos.
 
 ###### Artículo 3o.
 
@@ -87,19 +127,39 @@ I. Pronósticos no cuenta (sic) con equipo disponible;
 
 II. El lugar donde solicitan la colocación de la agencia no recibe señal para su funcionamiento;
 
-III. Por estrategia comercial, y
+III. Por estrategia comercial, y (sic)
 
-IV. No cumpla con los requisitos que establece el presente Reglamento.
+> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
+IV. No cumpla con los requisitos que establece el presente Reglamento, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
+V. Que el solicitante se encuentre en el buró de agentes con antecedentes comerciales y de cobranza negativos frente a Pronósticos.
 
 ###### Artículo 4o.
 
 Antes de iniciarse en el desempeño de las actividades objeto del presente Reglamento, los interesados deberán recibir y aprobar los programas de entrenamiento y capacitación que imparta Pronósticos, para manejar, operar y conservar en buen estado de funcionamiento las terminales que le son entregadas en calidad de comodato, así como los demás elementos de apoyo.
 
+> <small>(REFORMADO, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 5o.
 
-El agente deberá exhibir sin excepción alguna, antes de que inicie sus actividades, fianza de compañía legalmente autorizada por la Secretaría de Hacienda y Crédito Público, por la cantidad mínima que la Subdirección General de Ventas de Pronósticos le comunique al momento de la firma del contrato de comisión mercantil y deberá renovarla ocho días naturales antes de su vencimiento a fin de que la misma no se extinga, para garantizar el debido manejo de los bienes, fondos y valores que le asigne Pronósticos o que reciba por razón de su encargo.
+El agente previo al inicio de sus actividades deberá entregar a la Entidad, copia del recibo de pago efectuado en el banco que corresponda, por el monto de la prima de fianza de compañía legalmente autorizada por la Secretaría de Hacienda y Crédito Público, por la cantidad mínima que la Subdirección General de Ventas de Pronósticos le comunique al momento de la firma del contrato de comisión mercantil y deberá renovarla ocho días naturales antes de su vencimiento a fin de que la misma no se extinga, para garantizar el debido manejo de los bienes, fondos y valores que le asigne Pronósticos o que reciba por razón de su encargo.
 
-El monto mínimo de la fianza a que se refiere el párrafo anterior, podrá incrementar a petición del agente, dependiendo del incremento de sus ventas semanales y de los productos y servicios que ofrezca.
+El monto mínimo de la fianza a que se refiere el párrafo anterior podrá incrementar a petición del agente, dependiendo del incremento de sus ventas semanales y de los productos y servicios que ofrezca.
+
+En el caso de Agentes personas morales que operen canales alternos de distribución de los productos de la Entidad, éstos podrán garantizar el debido manejo de los bienes, fondos y valores que les asigne Pronósticos o que reciban por razón de su encargo, mediante la exhibición de cualquiera de las siguientes garantías:
+
+a) Depósito de dinero constituido a través de certificado o billete de depósito expedido por institución de crédito autorizada;
+
+b) Fianza otorgada por institución autorizada;
+
+c) Depósito de dinero constituido ante la Tesorería de la Entidad;
+
+d) Carta de crédito irrevocable, expedida por institución de crédito autorizada; y
+
+e) Cheque certificado o de caja expedido a favor de la Tesorería de la Entidad.
 
 ###### Artículo 6o.
 
@@ -167,9 +227,11 @@ En aquellos casos que lo estime procedente, el Consejo Directivo de Pronósticos
 
 Pronósticos podrá aumentar los concursos, sorteos, productos o servicios que deba comercializar y prestar el agente, notificándole los términos y el porcentaje de la comisión correspondiente mediante las formas establecidas en el artículo 10o. del presente Reglamento.
 
+> <small>(REFORMADO, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 19o.
 
-Las ventas semanales deberán ser como mínimo a la cantidad equivalente a 43 (cuarenta y tres) salarios mínimos generales vigentes en el Distrito Federal, para lo cual pondrá toda su actividad, diligencia y capacidad de venta.
+El importe mínimo de ventas semanales deberá ser la cantidad equivalente a 57 días de salario mínimo general vigente en el Distrito Federal, para lo cual el Agente pondrá toda su actividad, diligencia y capacidad de venta, sin embargo por estrategia comercial la Entidad podrá mantener como máximo el 5% del total de las Agencias vendiendo por debajo del mínimo requerido.
 
 ###### Artículo 20o.
 
@@ -183,9 +245,27 @@ El agente que no efectúe el entero de las ventas de los concursos, sorteos, pro
 
 El agente deberá pagar, previa validación en la terminal, aquellos boletos premiados que se le presenten para su cobro hasta por un monto de $9,999.99 (nueve mil novecientos noventa y nueve pesos 99/100 M.N.). El pago lo efectuará únicamente contra la presentación y entrega material del boleto correspondiente a la combinación que hubiere resultado ganadora, asimismo deberá entregar a Pronósticos dichos boletos, dentro de los plazos que le sean previamente comunicados en el contrato de comisión mercantil.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 22o.
 
-El agente deberá hacer entrega de la totalidad de los boletos cancelados y boletos premiados pagados en la terminal que le ha sido asignada, haciéndose responsable del pago por el mal uso que pueda darse a los boletos cancelados y boletos premiados pagados que no entreguen en su liquidación a Pronósticos y que deriven en una contingencia legal o reclamo de pago. Asimismo, el precio de aquellos boletos cancelados y boletos premiados pagados de los cuales el agente no haga entrega, le serán cargados en el siguiente o ulterior estado de cuenta.
+El agente deberá hacer entrega de la totalidad de los boletos cancelados en la terminal que le ha sido asignada, haciéndose responsable del pago por el mal uso que pueda darse a los boletos cancelados que no entregue en su liquidación a Pronósticos y que deriven en una contingencia legal o reclamo de pago.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
+El agente deberá pagar el importe de aquellos boletos cancelados no entregados en su liquidación a Pronósticos y le serán cargados en el siguiente o ulterior estado de cuenta.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
+El Agente deberá hacer entrega de los boletos premiados mayores a $1,000.00 (mil pesos 00/100 M.N.) pagados en la terminal que le ha sido asignada. Los boletos premiados pagados en su terminal que no entregue en su liquidación a Pronósticos, le serán cargados en el siguiente estado de cuenta, haciéndose responsable por el mal uso que pueda darse a estos boletos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
+El Agente tiene la obligación de destruir todos aquellos boletos premiados pagados en su terminal que correspondan a premios por importe desde $1.00 (un peso 00/100 M.N.) y hasta $999.99 (novecientos noventa y nueve pesos 99/100 M.N.).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
+El Agente será responsable del mal uso que pueda darse a todos los boletos premiados pagados en su terminal y que deriven en una contingencia legal o reclamo de pago.
 
 El agente será directamente responsable del cumplimiento de las obligaciones del presente Reglamento. Pronósticos no será en ningún caso responsable de los actos u omisiones, dolosos o culposos realizados por el agente o por su personal dependiente, en caso de violación o inobservancia de las disposiciones legales, reglamentarias y administrativas aplicables. El agente deberá interponer denuncia ante la autoridad competente en caso de surgir conflictos relativos al pago de premios derivados del mal uso que pueda darse a los boletos cancelados y boletos premiados pagados, y con ello excluir de cualquier responsabilidad de pago a Pronósticos.
 
@@ -193,11 +273,15 @@ El agente será directamente responsable del cumplimiento de las obligaciones de
 
 El Contrato de Comisión Mercantil que celebre el agente con Pronósticos tendrá una vigencia de un año contado a partir de la fecha de su firma, transcurrido este plazo automáticamente queda renovado por tiempo indefinido, siempre y cuando no exista manifestación en contra de alguna de las partes. Pronósticos se reserva el derecho de reconsiderar la renovación automática cuando hubiere duda del cabal cumplimiento de las obligaciones contraídas, evaluando los siguientes aspectos: ventas, pagos oportunos, entrega de boletos cancelados o boletos premiados pagados y no adeudos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 24o.
 
-Pronósticos, por estrategia comercial o por así convenir a sus intereses, estará en aptitud de dar por terminado el contrato de comisión mercantil en cualquier tiempo, para lo cual notificará su decisión al agente, cuando menos ocho días naturales antes de que deba surtir efectos la terminación, en los términos establecidos en el artículo 10o. del presente Reglamento; sin perjuicio de que proceda a exigir reparación del daño si es el caso, debiendo cumplir el agente sus obligaciones y liquidar los adeudos pendientes.
+Pronósticos, por estrategia comercial o por así convenir a sus intereses, estará en aptitud de dar por terminado el contrato de comisión mercantil en cualquier tiempo, para lo cual notificará su decisión al agente, cuando menos tres días naturales antes de que deba surtir efectos la terminación, en los términos establecidos en el Artículo 10o. del presente Reglamento, sin perjuicio de que proceda a exigir reparación del daño si es el caso, debiendo cumplir el agente sus obligaciones y liquidar los adeudos pendientes.
 
-El agente podrá dar por terminado anticipadamente el contrato de comisión mercantil en cualquier tiempo, sin embargo, si la terminación se realiza en las primeras 20 semanas de inicio de operaciones, se generará a favor de Pronósticos un cargo por concepto de gastos de administración por la cantidad equivalente a 60 (sesenta) salarios mínimos vigentes en el Distrito Federal.
+> <small>(REFORMADO, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
+El Agente podrá dar por terminado anticipadamente el contrato de comisión mercantil en cualquier tiempo, sin embargo, si la terminación se realiza dentro del plazo de prueba de 20 semanas, se generará en favor de Pronósticos un cargo por concepto de gastos de administración, equivalente a 57 días de salario mínimo vigente en el Distrito Federal.
 
 Pronósticos podrá dar por terminado el contrato de comisión mercantil en los siguientes supuestos:
 
@@ -211,7 +295,9 @@ d) El agente no realice la notificación de baja de agencia y giro del estableci
 
 e) El agente contravenga lo dispuesto en el artículo 22o. del presente Reglamento, dando mal uso a los boletos cancelados y boletos premiados pagados.
 
-f) Durante las primeras 20 semanas consecutivas, contadas a partir de la fecha de inicio de las operaciones de la terminal, el agente no logre la venta mínima promedio señalada en el artículo 19o. del presente Reglamento. En este supuesto, se generará un cargo al agente, por concepto de gastos de administración en favor de Pronósticos por la cantidad equivalente de 43 (cuarenta y tres) salarios mínimos generales vigentes en el Distrito Federal, misma que se incluirá a su estado de adeudo y, de no cubrirse el mismo, se hará efectiva la fianza a que hace referencia el artículo 5o. del presente Reglamento.
+> <small>(REFORMADO, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
+f) El periodo de prueba de una Agencia será de 20 semanas a partir de su inicio de operación, para lo cual deberá alcanzar la venta mínima promedio en las últimas 8 semanas, de conformidad con lo pactado en el Artículo 19o. del presente Reglamento. En el caso de que una Agencia concluya su periodo de prueba y no logre la venta mínima promedio requerida, se generará a favor de la Entidad un cargo al Agente por concepto de gastos de Administración, equivalente a 57 días de salario mínimo vigente en el Distrito Federal, debiendo el Agente liquidar los saldos pendientes con la Entidad.
 
 g) En caso de que, habiendo transcurrido el tiempo a que se refiere el inciso anterior, el agente que no alcance durante 10 semanas consecutivas el promedio de venta mínima promedio señalada en el artículo 19o. del presente Reglamento.
 
@@ -221,15 +307,23 @@ i) El agente que por cuenta propia repare o intente reparar la terminal, equipo 
 
 El agente será amonestado por Pronósticos en los casos que se enlistan a continuación:
 
-a) El agente o el personal subordinado a su cargo que opere la terminal no porten credencial expedida por Pronósticos, que los acredite como personas capacitadas y autorizadas para operar las terminales utilizadas para el desempeño del mandato.
+> <small>(REFORMADO, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
 
-b) El agente o el personal subordinado a su cargo se niegue a comercializar los concursos, sorteos, productos o servicios que Pronósticos ofrezca al público; así como a participar en los programas promocionales que Pronósticos desarrolle para sus marcas o en conjunto con un socio promocional.
+a) El agente o el personal subordinado a su cargo se niegue a comercializar los concursos, sorteos, productos o servicios que Pronósticos ofrezca al público; así como a participar en los programas promocionales que Pronósticos desarrolle para sus marcas o en conjunto con un socio promocional.
 
-c) El agente o el personal subordinado a su cargo se niegue a pagar los premios, de conformidad a lo establecido en el artículo 21o. del presente Reglamento.
+> <small>(REFORMADO, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
 
-d) El agente o el personal subordinado a su cargo se niegue a registrar cualquier apuesta de los productos que Pronósticos comercialice.
+b) El agente o el personal subordinado a su cargo se niegue a pagar los premios, de conformidad a lo establecido en el Artículo 21o. del presente Reglamento.
+
+> <small>(REFORMADO, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
+c) El agente o el personal subordinado a su cargo se niegue a registrar cualquier apuesta de los productos que Pronósticos comercialice.
 
 En caso de que el agente o el personal subordinado incurra en tres ocasiones en las conductas referidas en los incisos anteriores, en un periodo de seis meses, contados a partir de la fecha de la primera amonestación, Pronósticos podrá dar por terminado el contrato de comisión mercantil.
+
+> <small>(REFORMADO, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+
+d) En el caso de que se compruebe una mala Atención y Servicio a los consumidores.
 
 ###### Artículo 25o.
 
@@ -260,3 +354,13 @@ Cuarto.- En tanto no se publiquen en el Diario Oficial de la Federación; el acu
 México, D.F., a 23 de junio de 2006.
 
 Presidente del Consejo Directivo C. Alonso Pascual García Tamés Rúbrica. Secretario del Consejo Directivo Lic. Sergio Eduardo Huacuja Betancourt. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 4 DE NOVIEMBRE DE 2008.
+
+Primero.- El presente acuerdo entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+
+Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente acuerdo, serán resueltos mediante las disposiciones que se encontraban vigentes al inicio de su trámite.
