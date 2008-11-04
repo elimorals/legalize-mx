@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-comision-consultiva-estatal-de-56028"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-08"
-last_updated: "2007-06-08"
+last_updated: "2008-11-04"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA COMISION CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2008.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 8 de junio de 2007.
 
@@ -49,9 +49,11 @@ La Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo se constitu
 
 La Comisión es un órgano consultivo, plural, tripartita, participativo y de apoyo a las autoridades del trabajo a nivel Federal, en lo relativo a Seguridad e Higiene en los centros de trabajos sujetos a jurisdicción local y a los comprendidos en las ramas de industria que se establecen en la Ley Federal del Trabajo, previo acuerdo o convenio con la Comisión Consultiva Nacional de Seguridad e Higiene en el Trabajo.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 4.
 
-La Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo, estará integrada por las siguientes instancias. Por el sector público; El Gobernador del Estado, quien será el Presidente de la Comisión, el representante de la Secretaría del Trabajo y Previsión Social en la entidad, que será el Delegado y que fungirá como Secretario; un representante de la Secretaría de Salud y uno del Instituto Mexicano del Seguro Social; Por el sector obrero: un representante de la Confederación de Trabajadores de México (CTM.); uno de la Confederación Revolucionaria de Obreros y Campesinos (CROC); y uno de la Confederación Revolucionaria de Obreros Mexicanos (CROM). Por el sector empresarial, un representante de la Cámara Nacional de la Industria de la Transformación (CANACINTRA); un representante de la Cámara Nacional de Comercio (CANACO); y uno de la Cámara de la Industria de la Construcción (CMIC). Por cada representante propietario, será designado un suplente, y permanecerán en sus cargos por el periodo de tres años.
+La Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo, estará integrada por las siguientes instancias: Por el sector público: El Gobernador del Estado, quien será el Presidente de la Comisión, el representante de la Secretaría del Trabajo y Previsión Social en la entidad, que será el Delegado Estatal y que fungirá como Secretario; un representante de la Secretaría de Salud y uno del Instituto Mexicano del Seguro Social; Por el Sector Obrero: Un representante de la Confederación de Trabajadores de México (CTM); un representante de la Confederación Revolucionaria de Obreros y Campesinos (CROC); un representante de la Confederación Revolucionaria de Obreros Mexicanos (CROM) y un representante de la Federación Estatal de Sindicatos Independientes (FNSI). Por el sector empresarial: Un representante de la Cámara Nacional de la Industria de la Transformación (CANACINTRA); un representante de la Cámara Nacional de Comercio (CANACO); un representante de la Cámara de la Industria de la Construcción (CMIC) y un representante del Centro Empresarial Coahuila Sureste (COPARMEX). Por cada representante propietario, será designado un suplente y permanecerán en sus cargos por un período de tres años.
 
 ###### Artículo 5.
 
@@ -286,3 +288,9 @@ El Delegado Federal del Trabajo en Coahuila
 Lic. Miguel Ángel Mendoza González
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE NOVIEMBRE DE 2008.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
