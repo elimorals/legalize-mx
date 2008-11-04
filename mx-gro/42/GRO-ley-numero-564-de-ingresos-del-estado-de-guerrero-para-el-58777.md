@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-564-de-ingresos-del-estado-de-guerrero-para-el-58777
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-28"
-last_updated: "2007-12-28"
+last_updated: "2008-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 564 DE INGRESOS DEL ESTADO DE GUERRERO PARA EL EJERCICIO FISCAL DEL AÑO 2008
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2007.
 
@@ -40,6 +40,8 @@ CONSIDERANDO
 Por lo anteriormente expuesto y con fundamento en lo dispuesto en los artículos 47 fracción I de la Constitución Política Local y 8 fracción I de la Ley Orgánica del Poder Legislativo en vigor, el Honorable Congreso del Estado, decreta y expide la siguiente:
 
 LEY NÚMERO 564 DE INGRESOS DEL ESTADO DE GUERRERO PARA EL EJERCICIO FISCAL DEL AÑO 2008
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 1.
 
@@ -457,19 +459,25 @@ Socorro de Ley. 10,620.0
 
 TOTAL INGRESOS FEDERALES 19,108,517.9
 
-FINANCIAMIENTO PARA OBRAS Y
-
-PROYECTOS 0.0
+FINANCIAMIENTO 3, 580, 831. 4
 
 TOTAL DE INGRESOS DEL
 
 GOBIERNO DEL ESTADO
 
-PARA EL AÑO 2008 28,769,199.6
+PARA EL AÑO 2008 32,350,031.0
 
 ###### ARTÍCULO 2.
 
 El Estado a través de la Secretaría de Finanzas y Administración, ingresará por concepto de participaciones y aportaciones provenientes del Gobierno Federal, de conformidad con lo que establece la Ley de Coordinación Fiscal, y de los Convenios suscritos con el Gobierno Federal por conducto de la Secretaría de Hacienda Y (sic) Crédito Público, derivado de esto las cantidades estimadas son susceptibles de sufrir modificaciones en sus montos.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2008)</small>
+
+Los Municipios del Estado de Guerrero, podrán disponer el destino y afectación de sus Aportaciones Federales al pago de servicios por concepto de suministro de energía Eléctrica que les proporcione la Comisión Federal de Electricidad (CFE).
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2008)</small>
+
+Así también los Municipios del Estado de Guerrero, podrán disponer el destino y afectación de los recursos del Fondo de Aportaciones para el fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal para el pago de derechos o aprovechamientos de agua que deben pagarle a la Comisión Nacional del Agua (CNA).
 
 ###### ARTÍCULO 3.
 
@@ -555,11 +563,11 @@ c) Por la expedición de Fiat para el ejercicio del Notariado y de los servicios
 
 ###### ARTÍCULO 9.
 
-Se otorga autorización al Titular del Ejecutivo del Estado para que, conforme a las disposiciones de la Ley Numero 616 de Deuda Pública para el Estado de Guerrero, pueda contratar un endeudamiento neto a nombre del Estado de Guerrero, hasta por un monto equivalente a tres punto cinco por ciento del total de los ingresos ordinarios que se obtengan en el ejercicio fiscal 2008, para aplicarse en los términos de lo que disponen los artículos 117, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos y demás aplicables de la Ley Numero 616 de Deuda Pública para el Estado de Guerrero, para destinarse a inversiones públicas productivas. En garantía o fuente de pago de los financiamientos que celebre, el Estado podrá afectar los derechos e ingresos que percibe de las participaciones federales que le corresponde, y los derechos e ingresos que deriven de programas, ramos o aportaciones de apoyo, instrumentados por la Federación que, conforme a las disposiciones legales que los rijan, puedan destinarse al saneamiento financiero; así como ingresos propios, sin incluir aquellos que tengan un destino especifico.
+(DEROGADO, P.O. 4 DE NOVIEMBRE DE 2008)
 
 ###### ARTÍCULO 10.
 
-Se autoriza al Ejecutivo del Estado, para que por conducto de la Secretaría de Finanzas y Administración, obtenga un financiamiento o realice la emisión de valores para el Estado de Guerrero, por un monto equivalente hasta el veinticinco por ciento de los recursos y/o derechos que le correspondan al Estado de Guerrero, por concepto del Fondo de Aportaciones Federales para el Fortalecimiento de las Entidades Federativas y/o el Fondo de Aportaciones para la Infraestructura Social, que contraiga con las instituciones de crédito que operen en territorio nacional o con personas físicas o morales de nacionalidad mexicana, para ser destinado a inversión pública productiva, y en términos de la Ley de Coordinación Fiscal, que entrará en vigor el 02 de enero de 2007, por un plazo de hasta treinta años, procurando conseguir las mejores condiciones, en base a los requerimientos financieros del mercado y cuya fuente de pago y/o garantía sea la afectación de los recursos y/o derechos que le correspondan al Estado de Guerrero del Fondo de Aportaciones Federales para el Fortalecimiento de las Entidades Federativas y/o el Fondo de Aportaciones para la Infraestructura Social, que como Aportaciones Federales le correspondan al Estado de Guerrero, y/o aquellos fondos o recursos que los sustituyan y/o complementen, de conformidad con las disposiciones jurídicas aplicables. Dicho financiamiento deberá inscribirse en los Registros de Obligaciones y Empréstitos de Entidades Federativas y Municipios de la Secretaría de Hacienda y Crédito Público y en el del Estado de Guerrero.
+(DEROGADO, P.O. 4 DE NOVIEMBRE DE 2008)
 
 ###### ARTÍCULO 11.
 
@@ -584,6 +592,12 @@ La Secretaría de Finanzas y Administración contará con facultades suficientes
 Los Organismos Públicos Descentralizados, las empresas de Participación Estatal, los Fideicomisos y demás organismos que se instituyan con tal carácter que constituyen la Administración Pública Paraestatal y que por el ámbito de sus funciones registren ingresos propios, informarán a la Secretaría de Finanzas y Administración de los ingresos mensuales que obtengan en un plazo no mayor a los diez días siguientes al mes que corresponda, quedando a salvo los derechos de la Secretaría de Finanzas y Administración, para la validación de la información.
 
 Lo anterior con excepción de los organismos con autonomía constitucional.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTÍCULO 15.
+
+El monto de endeudamiento anual autorizado, bajo la partida de Financiamiento a que se refiere el artículo 1 de esta Ley, mismo que asciende a la cantidad de $3´580,831,421.04 (TRES MIL QUINIENTOS OCHENTA MILLONES OCHOCIENTOS TREINTA Y UN MIL CUATROCIENTOS VEINTIUN PESOS 04/100 M.N.), será aplicado en los términos que señale el Presupuesto de Egresos del Estado Libre y Soberano de Guerrero para el Ejercicio Fiscal 2008.
 
 ## TRANSITORIOS
 
@@ -640,3 +654,31 @@ EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN.
 C.P. CARLOS ÁLVAREZ REYES.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE NOVIEMBRE DE 2008.
+
+DECRETO NUMERO 972, POR EL QUE SE ADICIONAN LOS PARRAFOS SEGUNDO Y TERCERO AL ARTICULO 2 DE LA LEY NUMERO 564 DE INGRESOS DEL ESTADO DE GUERRERO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Lo dispuesto en los párrafos que se adicionan al artículo 2° de la presente iniciativa, tendrán efectos retroactivos a partir del 1° de enero del Ejercicio Fiscal de 2008.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 4 DE NOVIEMBRE DE 2008.
+
+DECRETO NUMERO 973, POR EL QUE SE REFORMA, ADICIONA Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY NUMERO 564 DE INGRESOS DEL ESTADO DE GUERRERO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero.
