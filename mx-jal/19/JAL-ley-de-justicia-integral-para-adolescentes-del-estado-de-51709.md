@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-integral-para-adolescentes-del-estado-de-51709"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-12"
-last_updated: "2007-12-13"
+last_updated: "2008-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA INTEGRAL PARA ADOLESCENTES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 12 de septiembre de 2006.
 
@@ -645,9 +645,11 @@ Para imponer cualquier tipo de medida precautoria se deberá acreditar la existe
 
 Las medidas precautorias podrán dictarse y revocarse en cualquier momento hasta antes de dictarse sentencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 45.
 
-La reclusión preventiva vinculada al procedimiento debe aplicarse sólo de manera excepcional, cuando no sea posible aplicar otra medida precautoria menos gravosa y hasta un plazo máximo de noventa días, siempre que se actualice cualquiera de los supuestos siguientes:
+La reclusión preventiva vinculada al procedimiento debe aplicarse sólo de manera excepcional, cuando no sea posible aplicar otra medida precautoria menos gravosa y hasta por un plazo máximo de doscientos días, siempre que se actualice cualquiera de los supuestos siguientes:
 
 I. La conducta atribuida amerite la medida de internamiento;
 
@@ -1249,9 +1251,15 @@ V. Cualquier otra acción que permita a los padres, familiares, responsables, tu
 
 #### Sección I. Adecuación y Cumplimiento Anticipado de la Medida
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 119.
 
-Al momento de darse el cumplimiento de la mitad de la duración de la medida impuesta por el Juez el adolescente o su defensor podrán solicitar a la Sala la celebración de una audiencia de adecuación de la medida, a la que se citará a las partes a fin de tomar en cuenta sus argumentos y valorar la procedencia de la adecuación, misma que se realizará dentro de los diez días posteriores a la emisión de la notificación.
+Al momento de darse el cumplimiento de la mitad de la duración de la medida impuesta por el Juez, de oficio o a petición de parte podrán solicitar la celebración de una audiencia de adecuación de la medida.
+
+La Sala solicitará a las autoridades competentes, rindan informe sobre los avances y desarrollo que ha presentado el adolescente durante ese tiempo, en función del cumplimiento de los objetivos trazados en el programa individual de ejecución aprobado y citará a las partes para que expongan sus argumentos.
+
+La Sala, previa valoración del informe y de los argumentos vertidos por las partes, en forma fundada y motivada, emitirá la determinación sobre la solicitud de procedencia de adecuación de la medida, misma que en su caso, se realizará dentro de los diez días posteriores a la notificación.
 
 ###### Artículo 120.
 
@@ -1512,5 +1520,9 @@ P.O. 23 DE JUNIO DE 2007.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 13 DE DICIEMBRE DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 4 DE NOVIEMBRE DE 2008.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
