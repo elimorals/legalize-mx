@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-6681
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-08"
-last_updated: "2008-07-16"
+last_updated: "2008-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 8 de febrero de 1995.
 
@@ -149,11 +149,11 @@ Las dependencias y entidades deberán proporcionar, en el Estado, a la Secretar�
 
 Todas las dependencias y entidades que de sus actividades generen ingresos que con base a la legislación estatal o municipal, se consideren ingresos fiscales, deberán coordinarse con la Secretaría de Hacienda en el primer caso y con las Tesorerías Municipales en el segundo para que se incorporen en la Ley de Ingresos respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 11.
 
-Los proyectos de Presupuestos de Ingresos incluirán la expectativa de entradas de efectivo por ingresos fiscales y, las Entidades, incluirán los ingresos que generen con relación directa al cumplimiento de su objeto social, los que serán objeto de revisión por el Congreso del Estado, a través del Órgano Superior de Auditoría.
+Los proyectos de Presupuestos de Ingresos incluirán la expectativa de entradas de efectivo por ingresos fiscales y, las Entidades, incluirán los ingresos que generen con relación directa al cumplimiento de su objeto social, los que serán objeto de revisión por el Congreso del Estado, a través del Órgano de la Auditoría Superior de Fiscalización.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -419,9 +419,9 @@ En el ámbito Municipal, la facultad a que se refiere el primer párrafo del art
 
 Los Ayuntamientos enviarán al Congreso del Estado, de conformidad con el artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos, a más tardar el 31 de enero de cada año, la cuenta pública correspondiente al año anterior, a excepción del año en que concluyan un período constitucional e inicien uno nuevo, en cuyo caso la aprobación de la cuenta pública y su presentación ante el Congreso la hará cada uno por el período a su cargo. El Ayuntamiento que concluya su gestión deberá presentar, a más tardar el 30 de noviembre, la cuenta pública correspondiente a los meses de enero a octubre del año en que termine el período constitucional. El Ayuntamiento que inicie su gestión deberá presentar, a más tardar el 31 de enero del año siguiente a aquel en que inicie su período constitucional, la cuenta pública, correspondiente a los meses de noviembre y diciembre del año en que inicie dicho período. En el supuesto anterior, el Ayuntamiento entrante presentará la cuenta pública anual, consolidando los doce meses del ejercicio presupuestal, sin perjuicio de las responsabilidades que correspondan a los funcionarios públicos en funciones en cada período constitucional.
 
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
-Así mismo, los Ayuntamientos enviarán las cuentas públicas mensuales a la Auditoría Superior Gubernamental, dentro de los primeros veinte días naturales del mes siguiente al que corresponda rendir dicho informe.
+Así mismo, los Ayuntamientos enviarán las cuentas públicas mensuales a la Auditoría Superior de Fiscalización, dentro de los primeros veinte días naturales del mes siguiente al que corresponda rendir dicho informe.
 
 Los propios Ayuntamientos serán responsables de solventar las observaciones sobre la Cuenta Pública que finque el Congreso del Estado.
 
@@ -604,3 +604,17 @@ P.O. 16 DE JULIO DE 2008.
 Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas en lo que se opongan o de cualquier forma contravengan el presente Decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos del reglamento del Congreso del estado la presente reforma entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
