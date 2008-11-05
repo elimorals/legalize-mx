@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-contratos-de-colaboracion-publico-privada-para-el-62099"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-16"
-last_updated: "2008-07-16"
+last_updated: "2008-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE CONTRATOS DE COLABORACION PUBLICO PRIVADA PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 16 de julio de 2008.
 
@@ -57,7 +57,9 @@ Para los efectos de esta Ley, se entiende por:
 
 I. Activos Financiados: Los activos necesarios para llevar a cabo el proyecto de colaboración público privada provistos y/o financiados por el contratista colaborador;
 
-II. Auditoria Superior Gubernamental: El Organismo de Auditoria Superior Gubernamental del Congreso del Estado de Morelos;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+II. Auditoría Superior de Fiscalización: El Organismo de Auditoría Superior Gubernamental del Congreso del Estado de Morelos;
 
 III. Comité Estatal de Proyectos de Colaboración Público Privada: El órgano colegiado de consulta, decisión y apoyo técnico que tiene por objeto coadyuvar con las Entidades Estatales en la preparación y sustanciación de los procedimientos de contratación previstos en esta Ley;
 
@@ -331,7 +333,9 @@ XIV. La previsión de que los derechos al cobro y las garantías otorgadas en t�
 
 XV. Los datos fundamentales de las autorizaciones otorgadas con base en esta Ley, para su celebración;
 
-XVI. La obligación del contratista colaborador de proporcionar la información relacionada con el contrato que le solicite la Auditoria Superior Gubernamental, excepto aquella información protegida por derechos de propiedad intelectual o que esté obligado el contratista colaborador a no divulgar; y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+XVI. La obligación del contratista colaborador de proporcionar la información relacionada con el contrato que le solicite la Auditoría Superior de Fiscalización, excepto aquella información protegida por derechos de propiedad intelectual o que esté obligado el contratista colaborador a no divulgar; y
 
 XVII. Los métodos para la resolución de controversias, pudiendo incorporar mecanismos de conciliación.
 
@@ -501,9 +505,11 @@ Los titulares de las Entidades de la Administración Pública Paraestatal y de l
 
 El Poder Ejecutivo del Estado y los Ayuntamientos, deberán informar al Congreso sobre el ejercicio de las partidas correspondientes a los contratos de colaboración público privada autorizados al rendir la cuenta pública estatal o municipal en términos de lo previsto por el artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 54.
 
-Sin perjuicio de lo señalado en el artículo anterior, el Poder Ejecutivo del Estado, los Ayuntamientos y las Entidades de la Administración Pública Paraestatal y las Entidades de la Administración Pública Paramunicipal deberán proporcionar al Congreso, por conducto de la Auditoría Superior Gubernamental, la información que ésta les requiera de acuerdo con la Ley, en relación con los contratos de colaboración público privada que celebren.
+Sin perjuicio de lo señalado en el artículo anterior, el Poder Ejecutivo del Estado, los Ayuntamientos y las Entidades de la Administración Pública Paraestatal y las Entidades de la Administración Pública Paramunicipal deberán proporcionar al Congreso, por conducto de la Auditoría Superior de Fiscalización, la información que ésta les requiera de acuerdo con la Ley, en relación con los contratos de colaboración público privada que celebren.
 
 ###### Artículo 55.
 
@@ -1075,11 +1081,13 @@ Los actos, contratos y convenios que las Entidades Contratantes realicen o celeb
 
 Las Entidades Contratantes deberán remitir a la Contraloría, en el caso de Entidades Estatales, y a sus órganos internos de control, en el caso de Entidades Municipales, la información relativa a los actos y contratos materia de esta Ley que, en el ámbito de sus atribuciones, les soliciten.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 105.
 
-Los órganos internos de control y la Auditoria Superior Gubernamental, en el ejercicio de sus facultades, podrán verificar en cualquier tiempo que la prestación de los servicios se realice conforme a lo establecido en los contratos correspondientes, en esta Ley, su Reglamento y demás disposiciones aplicables.
+Los órganos internos de control y la Auditoría Superior de Fiscalización, en el ejercicio de sus facultades, podrán verificar en cualquier tiempo que Ia prestación de los servicios se realice conforme a lo establecido en los contratos correspondientes, en esta Ley, su Reglamento y demás disposiciones aplicables.
 
-Los órganos internos de control y la Auditoría Superior Gubernamental podrán realizar las visitas e inspecciones que estimen pertinentes a las Entidades Contratantes que ejecuten contratos de colaboración público privada, e igualmente podrán solicitar a los servidores públicos y a los contratistas colaboradores que participen en ellos, todos los datos e informes relacionados con los actos de que se trate, pudiendo solicitarle rendición de cuentas a la Entidad Contratante en cualquier momento.
+Los órganos internos de control y la Auditoría Superior de Fiscalización podrán realizar las visitas e inspecciones que estimen pertinentes a las Entidades Contratantes que ejecuten contratos de colaboración público privada, e igualmente podrán solicitar a los servidores públicos y a los contratistas colaboradores que participen en ellos, todos los datos e informes relacionados con los actos de que se trate, pudiendo solicitarle rendición de cuentas a la Entidad Contratante en cualquier momento.
 
 ###### Artículo 106.
 
@@ -1252,3 +1260,19 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos del reglamento del Congreso del estado la presente reforma entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
