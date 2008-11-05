@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-deuda-publica-para-el-estado-de-morelos-62071"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-16"
-last_updated: "2008-07-16"
+last_updated: "2008-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DEUDA PUBLICA PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 16 de julio de 2008.
 
@@ -283,7 +283,9 @@ XX.- Aprobar, previamente a la autorización por el Congreso, los montos y conce
 
 XXI.- Informar trimestralmente al Congreso, sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y con relación a la situación de la deuda pública estatal, al rendir la cuenta pública;
 
-XXII.- Proporcionar al Congreso, por conducto de la Auditoría Superior Gubernamental, la información que éste le requiera de acuerdo con la Ley, en relación con las operaciones de deuda pública que celebre;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+XXII.- Proporcionar al Congreso, por conducto de la Auditoría Superior de Fiscalización, la información que éste le requiera de acuerdo con la Ley, en relación con las operaciones de deuda pública que celebre;
 
 XXIII.- Contratar a instituciones calificadoras de valores debidamente autorizadas en México, a efecto de que emitan la calificación sobre la calidad crediticia del Estado y las calificaciones sobre la calidad crediticia de los financiamientos bancarios, bursátiles o de cualquier otra naturaleza, que en su caso, se proponga implementar el Estado y para que realicen la revisión periódica de las calificaciones respectivas;
 
@@ -357,7 +359,9 @@ XXI.- Aprobar, previamente a su autorización por el Congreso, los montos y conc
 
 XXII.- Informar al Congreso sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y con relación a la situación de su deuda pública, al rendir la cuenta pública municipal en los plazos establecidos por el Artículo 32 de la Constitución Política del Estado;
 
-XXIII.- Proporcionar al Congreso, por conducto de la Auditoría Superior Gubernamental y al Poder Ejecutivo por conducto de la Secretaría, cuando el Estado funja como garante, avalista, deudor solidario, subsidiario o sustituto, la información que éstos le requieran en relación con las operaciones de deuda pública que celebren;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+XXIII.- Proporcionar al Congreso, por conducto de la Auditoría Superior de Fiscalización y al Poder Ejecutivo por conducto de la Secretaría, cuando el Estado funja corno garante, avalista, deudor solidario, subsidiario o sustituto, la información que éstos le requieran en relación con las operaciones de deuda pública que celebren;
 
 XXIV.- Contratar, en caso de que a juicio del ayuntamiento, así convenga a los intereses del Municipio de que se trate, a instituciones calificadoras de valores debidamente autorizadas en México, a efecto de que emitan la calificación sobre la calidad crediticia del Municipio y las calificaciones sobre la calidad crediticia de los financiamientos bancarios, bursátiles o de cualquier otra naturaleza que, en su caso, se proponga implementar el Municipio y para que realicen la revisión periódica de las calificaciones respectivas;
 
@@ -417,7 +421,9 @@ XIII.- Incluir anualmente dentro de los presupuestos de egresos de las entidades
 
 XIV.- Realizar oportunamente los pagos del servicio de la deuda pública a cargo de las entidades de la administración pública paraestatal y paramunicipal;
 
-XV.- Proporcionar al Congreso, por conducto de la Auditoría Superior Gubernamental; al Poder Ejecutivo, por conducto de la Secretaría; y a los ayuntamientos, según corresponda, la información que éstos les requieran en relación con las operaciones de deuda pública que celebren las entidades de la administración pública paraestatal y paramunicipal;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+XV.- Proporcionar al Congreso, por conducto de la Auditoría Superior de Fiscalización; al Poder Ejecutivo, por conducto de la Secretaría; y a los ayuntamientos, según corresponda, la información que éstos les requieran en relación con las operaciones de deuda pública que celebren las entidades de la administración pública paraestatal y paramunicipal;
 
 XVI.- Contratar, en caso de que a su juicio así convenga a los intereses de la entidad de que se trate, a instituciones calificadoras de valores debidamente autorizadas en México, a efecto de que emitan la calificación sobre la calidad crediticia de las entidades y la calificación sobre la calidad crediticia de los financiamientos bancarios, bursátiles o de cualquier otra naturaleza que en su caso, se propongan implementar las entidades de la administración pública paraestatal y paramunicipal y para que realicen la revisión periódica de las calificaciones respectivas;
 
@@ -505,9 +511,11 @@ Los titulares de las entidades de la administración pública paraestatal y para
 
 El Poder Ejecutivo del Estado y los Ayuntamientos, deberán informar al Congreso sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y con relación a la situación de su deuda pública al rendir la cuenta pública estatal o municipal en términos de lo previsto por el Artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 31.
 
-Sin perjuicio de lo señalado en el Artículo anterior, el Poder Ejecutivo del Estado, los ayuntamientos y las entidades de la administración pública paraestatal y paramunicipal deberán proporcionar al Congreso, directamente o por conducto de la Auditoría Superior Gubernamental, la información que éste les requiera de acuerdo con la Ley, en relación con las operaciones de deuda pública que celebren.
+Sin perjuicio de lo señalado en el Artículo anterior, el Poder Ejecutivo del Estado, los ayuntamientos y las entidades de la administración pública paraestatal y paramunicipal deberán proporcionar al Congreso, directamente o por conducto de la Auditoría Superior de Fiscalización, la información que éste les requiera de acuerdo con la Ley, en relación con las operaciones de deuda pública que celebren.
 
 ### Capítulo Cuarto. De la Contratación de Empréstitos y Créditos
 
@@ -926,3 +934,19 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA RÚBRICAS.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos del reglamento del Congreso del estado la presente reforma entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
