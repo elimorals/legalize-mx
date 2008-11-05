@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-de-planeacion-y-construccion-de-escuelas-1475
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-26"
-last_updated: "2007-06-30"
+last_updated: "2008-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY DEL INSTITUTO DE PLANEACION Y CONSTRUCCION DE ESCUELAS DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO DEL DECRETO No. 312/08 III P.E. DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 5 DE NOVIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 26 de mayo de 1999.
 
@@ -396,3 +398,41 @@ Lo mismo se observará respecto a la intervención que otorgan a la ya inexisten
 ###### ARTÍCULO SEXTO.
 
 Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
+
+P.O. 5 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Todos los recursos humanos, financieros, administrativos, presupuestales, unidades administrativas, así como los bienes muebles e inmuebles adscritos o propiedad del Instituto de Planeación y Construcción de Escuelas del Estado de Chihuahua, serán transferidos al Instituto Chihuahuense de Infraestructura Física Educativa del Estado de Chihuahua, creado mediante el presente Decreto, dentro de los sesenta días hábiles posteriores a su entrada en vigor, para lo cual se suscribirán las actas de entrega-recepción a que hubiera lugar o instrumentos notariales en su caso. Igualmente, y en los mismos términos, se harán las transferencias respectivas que por su naturaleza le correspondan al nuevo organismo, y que se encontraban en distinta adscripción dentro de la administración centralizada o descentralizada del Poder Ejecutivo del Estado, antes de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan en vigor todos aquellos instrumentos contraídos al tenor o por motivo de los convenios de coordinación para la creación, operación y apoyo financiero del Instituto de Planeación y Construcción de Escuelas del Estado de Chihuahua, suscritos con el Poder Ejecutivo Federal y demás instancias intervinientes, siendo ahora entendidas las relaciones derivadas de dichos instrumentos, hacia el Instituto Chihuahuense de Infraestructura Física Educativa del Estado de Chihuahua.
+
+###### ARTÍCULO TERCERO.
+
+Igualmente, los derechos y obligaciones contraídos con terceros, previos y vigentes a la entrada en vigor del presente Decreto, cuyo titular u obligado sea el Instituto de Planeación y Construcción de Escuelas del Estado de Chihuahua, quedan subsistentes en sus mismos términos ahora entendidos y válidos hacia el Instituto Chihuahuense de Infraestructura Física Educativa del Estado de Chihuahua.
+
+###### ARTÍCULO CUARTO.
+
+Los derechos laborales, contractuales y el régimen de seguridad social a favor de los empleados o trabajadores del Instituto de Planeación y Construcción de Escuelas del Estado de Chihuahua, subsistirán en los mismos términos en que se encuentren a la entrada en vigor del presente Decreto, siendo ahora el contratante o patrón, el Instituto Chihuahuense de Infraestructura Física Educativa del Estado de Chihuahua.
+
+###### ARTÍCULO QUINTO.
+
+El Director General del Instituto Chihuahuense de Infraestructura Física Educativa del Estado de Chihuahua, será nombrado por el Gobernador del Estado dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+El Secretario de Educación y Cultura del Poder Ejecutivo del Estado, en su calidad de Presidente de la Junta de Gobierno, deberá convocar a la integración de la misma, en un lapso no mayor a treinta días hábiles contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las normas reglamentarias, administrativas, o registros que hayan sido expedidos o gestionados por el Órgano de Gobierno del Instituto de Planeación y Construcción de Escuelas del Estado de Chihuahua o por sus instancias competentes con anterioridad a la entrada en vigor del presente Decreto, se entenderán ahora respecto al Instituto Chihuahuense de Infraestructura Física Educativa del Estado de Chihuahua. En todo caso y de ser necesario, se harán las adecuaciones acordes a la Ley creada mediante el presente Decreto, siguiendo las formalidades necesarias.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan las demás disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
