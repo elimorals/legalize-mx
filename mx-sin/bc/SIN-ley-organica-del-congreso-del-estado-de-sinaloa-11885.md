@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2008-07-25"
+last_updated: "2008-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -85,19 +85,45 @@ El Congreso del Estado tendrá su residencia en la Capital del Estado y sesionar
 
 Esta Ley, sus reformas y adiciones no necesitarán de promulgación del Gobernador del Estado, ni podrá ser objeto de veto.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 9.
 
-El quince de noviembre de cada año, el Ejecutivo del Estado enviará al Congreso del Estado un informe por escrito sobre la situación que guarda la Administración Pública. Una vez recibido se remitirá a Comisiones para su conocimiento.
+El quince de noviembre de cada año, el Ejecutivo del Estado enviará al Congreso del Estado un informe por escrito sobre la situación que guarda la Administración Pública.
 
-Dentro de los quince días siguientes, el Congreso del Estado celebrará reunión de trabajo, en los términos de este artículo, con el Gobernador del Estado y los miembros de su gabinete sobre la valoración del informe rendido.
+El análisis de este informe se realizará por el Congreso del Estado, con observancia a las bases siguientes:
 
-La sesión de trabajo se desarrollará de acuerdo al protocolo y a la práctica parlamentaria, concediéndose el uso de la palabra al Gobernador del Estado, para exponer las líneas generales del informe. Enseguida, en el orden ascendente que resulta del número de integrantes en el Congreso, de cada partido, participarán el orador que cada uno de sus grupos parlamentarios registren para expresar su posición respecto al informe. A continuación los Diputados que equitativamente autorice la Comisión de Concertación Política, plantearán sus preguntas al Gobernador, que responderá por sí o auxiliado por los miembros del gabinete, con derecho a réplica y contrarréplica, respectivamente.
+PRIMERA. Informe del Ejecutivo, en su caso, la ampliación de información y la comparecencia de los Secretarios, Procurador General del Estado o directores de las entidades paraestatales.
 
-En esta reunión de trabajo, durante la intervención del Gobernador y las de los grupos parlamentarios no procederán interrupciones de los Diputados.
+a) La Gran Comisión, al siguiente día hábil en que se reciba por el Congreso el informe del Ejecutivo, lo remitirá por escrito a Comisiones con el señalamiento expreso para que, en un término de quince días, envíen a la Comisión de Concertación Política sus observaciones y, en su caso, las preguntas que se requieran para ampliar la información.
 
-Así mismo, para garantizar que la reunión se dé ante un auditorio plural y representativo de todos los sectores sociales, se girarán invitaciones por la Presidencia de la Gran Comisión, a colegios y asociaciones de profesionistas, cámaras de comercio e industria y otros organismos representativos de los sectores productivos del estado, a organismos sociales, instituciones de educación superior, partidos políticos, directivos de medios de comunicación representantes de las iglesias, servidores públicos de los tres niveles de gobierno y organismos no gubernamentales.
+b) La Gran Comisión, si las Comisiones lo solicitan por escrito, podrá ampliar el plazo anterior, haciéndolo del conocimiento de la Comisión de Concertación Política.
+
+Concluido el plazo, lo declarará cerrado.
+
+c) La Comisión de Concertación Política, una vez que la Gran Comisión haya declarado cerrado el período para recibir observaciones y preguntas para el Ejecutivo del Estado, en un término no mayor de cinco días, procederá a realizar una reunión con la finalidad de organizar y sistematizar las observaciones y preguntas.
+
+d) La Comisión de Concertación Política, con los resultados de su reunión, acordará:
+
+1. En su caso, el envío de preguntas al Ejecutivo para que amplíe la información o la comparecencia de los Secretarios, Procurador General del Estado o directores de las entidades paraestatales, para que rindan informes sobre sus respectivas áreas, bajo protesta de decir verdad.
+
+2. El plazo para la respuesta del Ejecutivo y, en su caso, los términos para la comparecencia de los Secretarios, Procurador General del Estado o directores de las entidades paraestatales.
+
+e) La Gran Comisión recibirá los acuerdos de la Comisión de Concertación Política y procederá de conformidad a ellos.
+
+f) La Gran Comisión, recibida la información del Ejecutivo, o concluida la comparecencia de los Secretarios, Procurador General del Estado o directores de las entidades paraestatales, remitirá los resultados a la Comisión de Concertación Política para los efectos que procedan.
+
+g) La Comisión de Concertación Política, dentro de los quince días siguientes, celebrará reunión de trabajo con Comisiones Unidas, para la valoración del informe rendido y la ampliación de la información proporcionada por el Ejecutivo.
+
+SEGUNDA: De la Sesión de trabajo de Comisiones Unidas.
+
+a) La Sesión se desarrollará de acuerdo al protocolo y a la práctica parlamentaria, concediéndose el uso de la palabra al Presidente de la Gran Comisión, para presentar las líneas generales de la valoración sobre el informe y las respuestas enviadas para ampliar la información.
+
+b) A continuación, y en el orden ascendente que resulta del número de integrantes en el Congreso, participará un Diputado por cada uno de los Grupos Parlamentarios.
+
+c) Finalmente, participarán los Diputados que, habiéndose inscrito, equitativamente autorice la Comisión de Concertación Política.
+
+d) La Gran Comisión y la Comisión de Concertación Política del Congreso acordarán las medidas convenientes para la publicación de una memoria con los resultados del análisis del informe del Ejecutivo.
 
 ###### ARTICULO 10.
 
@@ -745,9 +771,9 @@ Cuando un Grupo Parlamentario cambie de Coordinador, el designado se integrará 
 
 La Comisión de Concertación Política tendrá a su cargo las funciones tendientes a la realización de las acciones específicas que propicien el mejor desarrollo de las labores camarales, previo a los Acuerdos a que lleguen los Diputados integrantes de la misma Comisión, buscando siempre los puntos de consenso para hacer las propuestas que se requieran para el cumplimiento de sus funciones.
 
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
-Esta Comisión organizará y dirigirá la reunión de trabajo entre los Diputados y el Ejecutivo y su gabinete, dentro de los quince días siguientes, de la presentación del informe del Gobernador del Estado, para valorar la situación que guarda la Administración Pública, cuidando por el orden del acto y la participación equitativa de los Diputados de los distintos partidos o grupos parlamentarios.
+La Comisión de Concertación Política y la Gran Comisión, de conformidad con las bases establecidas en el artículo 9 de esta Ley, se coordinarán para realizar las acciones dirigidas al análisis del informe presentado por el Ejecutivo del Estado sobre el estado que guarda la Administración Pública.
 
 ###### ARTICULO 74.
 
@@ -2046,3 +2072,9 @@ El presente Decreto entrará en vigor un día después de su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 La integración de la Comisión de Fiscalización deberá hacerse a más tardar en la última sesión del Segundo Periodo Ordinario de Sesiones del Primer Año de Ejercicio Constitucional de la Quincuagésima Novena Legislatura.
+
+P.O. 5 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+La vigencia del presente Decreto iniciará al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
