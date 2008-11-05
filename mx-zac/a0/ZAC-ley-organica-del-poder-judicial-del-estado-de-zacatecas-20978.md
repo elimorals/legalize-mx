@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-judicial-del-estado-de-zacatecas-20978"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-04"
-last_updated: "2006-10-07"
+last_updated: "2008-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 4 de abril del 2001.
 
@@ -171,13 +171,17 @@ II. El Tribunal Estatal Electoral;
 
 III. El Tribunal de lo Contencioso Administrativo;
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2003)</small>
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
-IV. Los Juzgados de Primera Instancia; y
+IV. El Tribunal Especializado en Justicia para Adolescentes;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+V. Los Juzgados de Primera Instancia, que podrán ser Civiles, Penales, Familiares, Mercantiles, Mixtos, de Garantías, de Juicio Oral para Adultos, Especializados para Adolescentes y de Ejecución de Sanciones; y
 
 > <small>(ADICIONADA, P.O. 11 DE ENERO DE 2003)</small>
 
-V. Los Juzgados Municipales.
+VI. Los Juzgados Municipales.
 
 ###### Artículo 5º.
 
@@ -257,7 +261,9 @@ Corresponde al Tribunal Superior de Justicia en Pleno:
 
 I. Velar por la autonomía de los órganos del Poder Judicial del Estado, la independencia de sus miembros y dictar las providencias necesarias para la mejor impartición de justicia;
 
-II. Elegir a su Presidente, mediante escrutinio secreto, el primer día hábil del mes de febrero de cada tres años;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+II. Elegir a su Presidente, mediante escrutinio secreto, el primer día hábil del mes de febrero de cada cuatro años;
 
 III. Adscribir a los magistrados que deban integrar cada una de las Salas, teniendo en cuenta su especialización o experiencia;
 
@@ -297,7 +303,9 @@ XX. Adscribir a los jueces en los juzgados en que deban ejercer su función y ca
 
 XXI. Formular y aplicar los exámenes de oposición a los aspirantes a jueces de Primera Instancia, Municipales y demás servidores públicos de Poder Judicial;
 
-XXII. Nombrar, por conducto del Presidente, a los servidores públicos del Poder Judicial y determinar su adscripción;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+XXII. Nombrar, por conducto del Presidente, al Coordinador y a los Administradores de los Juzgados de Garantía y de los Tribunales de Juicio Oral y demás servidores públicos del Poder Judicial y determinar su adscripción;
 
 XXIII. Conceder licencias sin goce de sueldo, que no excedan de tres meses por año calendario a magistrados y hasta por seis meses a jueces y demás servidores públicos del Poder Judicial;
 
@@ -317,13 +325,23 @@ XXX. Ejercer en forma independiente al presupuesto de egresos, el Fondo Auxiliar
 
 XXXI. Vigilar que se lleve un inventario actualizado de los bienes muebles e inmuebles que sean patrimonio del Poder Judicial;
 
-XXXII. Proponer a la Legislatura del Estado, las ternas para el nombramiento de los magistrados que deben integrar los Tribunales Estatal Electoral y Contencioso Administrativo;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+XXXII. Proponer a la Legislatura del Estado, las ternas para el nombramiento de los magistrados que deben integrar los Tribunales Estatal Electoral, Contencioso Administrativo y Especializado en Justicia para Adolescentes;
 
 XXXIII. Imponer correcciones disciplinarias a sus miembros o a cualquier otro servidor público del Poder Judicial, así como a las partes, abogados patronos y procuradores, cuando falten al respeto a los órganos del Poder Judicial;
 
-XXXIV. Vigilar la observancia de la Ley de Profesiones del Estado, en lo que concierne al ejercicio de la abogacía; y
+XXXIV. Vigilar la observancia de la Ley de Profesiones del Estado, en lo que concierne al ejercicio de la abogacía; y (sic)
 
-XXXV. Las demás que esta ley, su reglamento interior y otros ordenamientos le señalen.
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+XXXV. Determinar, mediante acuerdo general, la instalación y funcionamiento de Salas Regionales en Materia Penal adversarial para el único fin de practicar audiencias orales, cuya jurisdicción territorial estará determinada por el acuerdo de creación respectivo;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+XXXVI. Acordar dentro de las posibilidades presupuestales, la conformación de Juzgados, por los Jueces que sean necesarios para una mejor prestación del servicio judicial, quienes actuarán de forma Unitaria o Colegiada de conformidad con lo dispuesto por la Ley. En estos casos el Pleno designará a propuesta del Presidente a uno de los Jueces en calidad de coordinador; y
+
+XXXVII. Las demás que esta ley, su reglamento interior y otros ordenamientos le señalen.
 
 ###### Artículo 12.
 
@@ -349,7 +367,9 @@ VI. Establecer la jurisprudencia del Pleno del Tribunal Superior de Justicia y r
 
 Atribuciones
 
-El Presidente del Tribunal Superior de Justicia será electo por el Pleno, durará en el ejercicio del cargo tres años, podrá ser reelecto por una sola vez, no integrará sala y ejercerá las atribuciones siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+El presidente del Tribunal Superior de Justicia será electo por el Pleno, durará en el ejercicio del cargo cuatro años y no podrá ser reelecto para el periodo inmediato, no integrará sala y ejercerá las atribuciones siguientes:
 
 I. Ser el representante legal del Poder Judicial del Estado;
 
@@ -375,43 +395,47 @@ XI. Registrar y distribuir entre las Salas los asuntos que fueren de la competen
 
 XII. Designar al magistrado que deba suplir a otro en sus ausencias temporales o, por excusas, impedimentos o recusaciones;
 
-XIII. Remitir a los jueces que correspondan, los exhortos, requisitorias y despachos para su diligenciación;
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
-XIV. Legalizar la firma de los funcionarios del Poder Judicial, cuando la ley exija este requisito;
+XIII. Designar al Juez que deba suplir a otro en sus ausencias temporales y habilitar a jueces para que integren Tribunales de Juicio Oral en diverso Distrito Judicial al de su adscripción, en cuyo caso ésta no se verá modificada, por lo cual se reincorporarán al lugar de su adscripción una vez realizada la comisión para la que fueron habilitados;
 
-XV. Hacer del conocimiento del Pleno las faltas absolutas de los magistrados, jueces y demás servidores públicos del Poder Judicial;
+XIV. Remitir a los jueces que correspondan, los exhortos, requisitorias y despachos para su diligenciación;
 
-XVI. Comunicar al Gobernador y a la Legislatura del Estado, las faltas absolutas o temporales de los magistrados del Tribunal Superior de Justicia, que deban ser cubiertas o suplidas mediante nombramiento;
+XV. Legalizar la firma de los funcionarios del Poder Judicial, cuando la ley exija este requisito;
 
-XVII. Expedir oportunamente los nombramientos de los servidores públicos del Poder Judicial que acuerde el Pleno;
+XVI. Hacer del conocimiento del Pleno las faltas absolutas de los magistrados, jueces y demás servidores públicos del Poder Judicial;
 
-XVIII. Tomar a los servidores públicos del Poder Judicial, la protesta de ley que deben rendir al asumir el cargo que se les confiera;
+XVII. Comunicar al Gobernador y a la Legislatura del Estado, las faltas absolutas o temporales de los magistrados del Tribunal Superior de Justicia, que deban ser cubiertas o suplidas mediante nombramiento;
 
-XIX. Conceder o negar licencias económicas hasta por diez días, con goce de sueldo o sin él, a los magistrados, jueces y demás servidores públicos del Poder Judicial;
+XVIII. Expedir oportunamente los nombramientos de los servidores públicos del Poder Judicial que acuerde el Pleno;
 
-XX. Dictar las medidas que estime pertinentes, para que en las oficinas del Poder Judicial, se cumpla con el horario de trabajo y el deber de impartir administración de justicia pronta, honesta y sin obstáculos;
+XIX. Tomar a los servidores públicos del Poder Judicial, la protesta de ley que deben rendir al asumir el cargo que se les confiera;
 
-XXI. Emitir acuerdos generales para garantizar el buen servicio y la disciplina, en las unidades de apoyo a las funciones jurisdiccionales y administrativas del Poder Judicial;
+XX. Conceder o negar licencias económicas hasta por diez días, con goce de sueldo o sin él, a los magistrados, jueces y demás servidores públicos del Poder Judicial;
 
-XXII. Ordenar se elabore el proyecto de presupuesto anual de egresos del Poder Judicial y someterlo a la consideración del Pleno;
+XXI. Dictar las medidas que estime pertinentes, para que en las oficinas del Poder Judicial, se cumpla con el horario de trabajo y el deber de impartir administración de justicia pronta, honesta y sin obstáculos;
 
-XXIII. Ejecutar los acuerdos del Pleno, relativos al ejercicio del presupuesto de egresos que apruebe la Legislatura del Estado para el Poder Judicial;
+XXII. Emitir acuerdos generales para garantizar el buen servicio y la disciplina, en las unidades de apoyo a las funciones jurisdiccionales y administrativas del Poder Judicial;
 
-XXIV. Cumplir los acuerdos del Pleno para ejercer, en forma independiente al presupuesto de egresos, el Fondo Auxiliar para la Administración de Justicia;
+XXIII. Ordenar se elabore el proyecto de presupuesto anual de egresos del Poder Judicial y someterlo a la consideración del Pleno;
 
-XXV. Vigilar el control del archivo judicial del Estado, así como la conservación de los bienes que constituyen su patrimonio;
+XXIV. Ejecutar los acuerdos del Pleno, relativos al ejercicio del presupuesto de egresos que apruebe la Legislatura del Estado para el Poder Judicial;
 
-XXVI. Recibir denuncias o quejas sobre irregularidades cometidas en la administración de justicia y, dictar las medidas conducentes y oportunas para su corrección; o bien, dar cuenta al Pleno para su conocimiento y efectos correspondientes;
+XXV. Cumplir los acuerdos del Pleno para ejercer, en forma independiente al presupuesto de egresos, el Fondo Auxiliar para la Administración de Justicia;
 
-XXVII. Autorizar el registro de los títulos y cédulas profesionales de licenciados en derecho y, las autorizaciones temporales para el ejercicio de la abogacía, cuando se reúnan los requisitos;
+XXVI. Vigilar el control del archivo judicial del Estado, así como la conservación de los bienes que constituyen su patrimonio;
 
-XXVIII. Representar al Tribunal Superior en los actos oficiales y en caso necesario delegar su representación;
+XXVII. Recibir denuncias o quejas sobre irregularidades cometidas en la administración de justicia y, dictar las medidas conducentes y oportunas para su corrección; o bien, dar cuenta al Pleno para su conocimiento y efectos correspondientes;
 
-XXIX. Vigilar se recabe, mensualmente, un informe estadístico pormenorizado de las Salas del Tribunal, de los juzgados de Primera Instancia y Municipales y, dictar las medidas adecuadas para agilizar el trámite de los negocios;
+XXVIII. Autorizar el registro de los títulos y cédulas profesionales de licenciados en derecho y, las autorizaciones temporales para el ejercicio de la abogacía, cuando se reúnan los requisitos;
 
-XXX. Rendir en el mes de enero, en sesión solemne, informe anual del estado que guarda la administración del Poder Judicial del Estado; y
+XXIX. Representar al Tribunal Superior en los actos oficiales y en caso necesario delegar su representación;
 
-XXXI. Las demás que determinen ésta ley y otras disposiciones generales.
+XXX. Vigilar se recabe, mensualmente, un informe estadístico pormenorizado de las Salas del Tribunal, de los juzgados de Primera Instancia y Municipales y, dictar las medidas adecuadas para agilizar el trámite de los negocios;
+
+XXXI. Rendir en el mes de enero, en sesión solemne, informe anual del estado que guarda la administración del Poder Judicial del Estado; y
+
+XXXII. Las demás que determinen ésta ley y otras disposiciones generales.
 
 ### CAPITULO CUARTO. DE LAS SALAS DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
@@ -449,6 +473,10 @@ Resoluciones de las Salas
 
 Las resoluciones que se dicten en las Salas se aprobarán por unanimidad o mayoría de votos, pero en caso de que un magistrado no esté de acuerdo con el resultado, tendrá opción a formular voto razonado sobre su posición, más no a negarse o abstenerse de votar.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+Las audiencias que celebren las Salas Penales, en materia penal adversarial oral, serán presididas por el Magistrado Ponente, independientemente de quien funja como Presidente de Sala y deberán aplicarse, en lo conducente, las reglas establecidas para la audiencia de juicio oral.
+
 ###### Artículo 18.
 
 Competencia de las Salas Civiles
@@ -475,7 +503,9 @@ Competencia de las Salas Penales
 
 Las Salas Penales conocerán:
 
-I. De los recursos de apelación y denegada apelación que se interpongan contra las resoluciones dictadas por los jueces de Primera Instancia y Municipales en materia penal, así como en las que emitan en los incidentes de responsabilidad civil que surjan en el procedimiento;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+I. De los recursos de apelación, denegada apelación, nulidad y de revisión que se interpongan contra las resoluciones dictadas por los jueces de Primera Instancia, Tribunales de Juicio Oral y Municipales en materia penal, así como en las que emitan en los incidentes de responsabilidad civil que surjan en el procedimiento;
 
 II. De los impedimentos, excusas y recusaciones de sus miembros;
 
@@ -486,6 +516,12 @@ IV. De los conflictos de competencia que surjan entre los jueces de Primera Inst
 V. Sobre las solicitudes de libertad provisional que se promuevan ante la Sala; y
 
 VI. De los demás asuntos que les corresponda conforme a las leyes, o les asigne el Pleno.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+Artículo 19 BIS. Salas Regionales
+
+Las Salas Penales del Tribunal Superior de Justicia podrán actuar como Salas Regionales, en cualquier Juzgado o en Salas funcionando ex profeso, para la práctica de audiencias orales de su competencia en los juicios penales que, por las circunstancias particulares del caso, así lo exijan.
 
 ### CAPITULO QUINTO. DE LOS SERVIDORES DEL TRIBUNAL SUPERIOR DE JUSTICIA EN
 
@@ -521,11 +557,11 @@ III. No tener vínculo matrimonial, ni parentesco por consanguinidad o por afini
 
 IV. Ser de reconocida honorabilidad y no haber sido condenado por delito intencional.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 22.
 
-Requisitos para ser titular de Unidad de Apoyo
-
-Para ser titular de una unidad de apoyo a la función jurisdiccional, se deberán satisfacer los mismos requisitos que se exigen, excepto el examen de oposición.
+Para ser titular de una unidad de apoyo a la función jurisdiccional, se deberán satisfacer los mismos requisitos que se exigen para ser titular de una unidad de apoyo a las funciones administrativas, excepto el examen de oposición.
 
 ###### Artículo 23.
 
@@ -563,7 +599,9 @@ X. Recabar oportunamente los datos necesarios para los informes que el President
 
 XI. Llevar el control de procesos;
 
-XII. Organizar y controlar el archivo general del Poder Judicial;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+XII. Organizar y controlar el archivo general del Poder Judicial, el cual contará con un área especial para la guarda, custodia y conservación de los archivos, documentos e información almacenada en medios ópticos, magnéticos, informáticos o telemáticos que deriven de procedimientos penales adversariales a fin de garantizar su integridad y autenticidad;
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
@@ -661,53 +699,71 @@ Son atribuciones del Oficial Mayor:
 
 I. Instrumentar las normas y políticas administrativas para el manejo de recursos humanos, financieros y materiales de los órganos del Poder Judicial, que disponga la ley o acuerde el Pleno;
 
-II. Proponer al Presidente del Tribunal Superior de Justicia las acciones necesarias para mejorar la administración de los recursos;
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
-III. Vigilar el cumplimiento de las disposiciones legales referentes a las relaciones entre el Poder Judicial y sus servidores públicos y, representar al Tribunal Superior en juicios laborales con aquéllos;
+II. Dirigir, organizar y supervisar la Unidad de Coordinación Administrativa de los Juzgados de Garantía y Tribunales de Juicio Oral; y (sic)
 
-IV. Contratar y controlar, en cumplimiento a las indicaciones del Pleno, al personal del Poder Judicial;
+III. Proponer al Presidente del Tribunal Superior de Justicia las acciones necesarias para mejorar la administración de los recursos;
 
-V. Proponer los tabuladores de sueldos y prestaciones que deban percibir los servidores públicos del Poder Judicial;
+IV. Vigilar el cumplimiento de las disposiciones legales referentes a las relaciones entre el Poder Judicial y sus servidores públicos y, representar al Tribunal Superior en juicios laborales con aquéllos;
 
-VI. Elaborar y pagar las nóminas del personal del Poder Judicial, realizando las retenciones y enteros que procedan conforme a la ley;
+V. Contratar y controlar, en cumplimiento a las indicaciones del Pleno, al personal del Poder Judicial;
 
-VII. Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los servidores públicos del Poder Judicial;
+VI. Proponer los tabuladores de sueldos y prestaciones que deban percibir los servidores públicos del Poder Judicial;
 
-VIII. Elaborar y mantener actualizado el escalafón de los servidores públicos del Poder Judicial;
+VII. Elaborar y pagar las nóminas del personal del Poder Judicial, realizando las retenciones y enteros que procedan conforme a la ley;
 
-IX. Cuidar que se apliquen las correcciones disciplinarias que dicten el Pleno y las Salas del Tribunal a su personal;
+VIII. Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los servidores públicos del Poder Judicial;
 
-X. Fomentar actividades sociales, culturales y deportivas en beneficio de los trabajadores al servicio del Poder Judicial;
+IX. Elaborar y mantener actualizado el escalafón de los servidores públicos del Poder Judicial;
 
-XI. Formular y administrar los presupuestos de ingresos y egresos del Poder Judicial;
+X. Cuidar que se apliquen las correcciones disciplinarias que dicten el Pleno y las Salas del Tribunal a su personal;
 
-XII. Administrar, conforme lo dispongan el reglamento respectivo y los acuerdos generales del Pleno, el Fondo Auxiliar para la Administración de Justicia;
+XI. Fomentar actividades sociales, culturales y deportivas en beneficio de los trabajadores al servicio del Poder Judicial;
 
-XIII. Llevar un registro de las fianzas y contrafianzas otorgadas ante los órganos del Poder Judicial;
+XII. Formular y administrar los presupuestos de ingresos y egresos del Poder Judicial;
 
-XIV. Programar las adquisiciones y destino de bienes y servicios para las dependencias del Poder Judicial;
+XIII. Administrar, conforme lo dispongan el reglamento respectivo y los acuerdos generales del Pleno, el Fondo Auxiliar para la Administración de Justicia;
 
-XV. Adquirir y proporcionar los bienes y servicios que requiera para su funcionamiento el Poder Judicial y suministrar a sus órganos los elementos de trabajo necesarios para el desarrollo de sus actividades, con apego a las normas y controles que, para el efecto, expida el Presidente del Tribunal Superior;
+XIV. Llevar un registro de las fianzas y contrafianzas otorgadas ante los órganos del Poder Judicial;
 
-XVI. Integrar, conservar, mantener actualizado y administrar el patrimonio del Poder Judicial;
+XV. Programar las adquisiciones y destino de bienes y servicios para las dependencias del Poder Judicial;
 
-XVII. Elaborar e impulsar programas de mejoramiento administrativo en coordinación con los demás órganos del Poder Judicial, que permitan revisar permanentemente los sistemas, métodos y procedimientos de trabajo que se requieran para adecuar la organización administrativa;
+XVI. Adquirir y proporcionar los bienes y servicios que requiera para su funcionamiento el Poder Judicial y suministrar a sus órganos los elementos de trabajo necesarios para el desarrollo de sus actividades, con apego a las normas y controles que, para el efecto, expida el Presidente del Tribunal Superior;
 
-XVIII. Llevar una estadística de los negocios sobre los que conozcan los tribunales del Estado e integrar sistemas de control;
+XVII. Integrar, conservar, mantener actualizado y administrar el patrimonio del Poder Judicial;
 
-XIX. Vigilar que los juzgados remitan puntualmente sus informes;
+XVIII. Elaborar e impulsar programas de mejoramiento administrativo en coordinación con los demás órganos del Poder Judicial, que permitan revisar permanentemente los sistemas, métodos y procedimientos de trabajo que se requieran para adecuar la organización administrativa;
 
-XX. Recabar oportunamente, los datos que el Presidente requiera para rendir su informe en el área de administración;
+XIX. Llevar una estadística de los negocios sobre los que conozcan los tribunales del Estado e integrar sistemas de control;
 
-XXI. Administrar y controlar los almacenes del Poder Judicial;
+XX. Vigilar que los juzgados remitan puntualmente sus informes;
 
-XXII. Organizar y controlar la recepción, despacho y archivo de la correspondencia oficial;
+XXI. Recabar oportunamente, los datos que el Presidente requiera para rendir su informe en el área de administración;
 
-XXIII. Proponer al Pleno los proyectos de condiciones generales del servicio y manuales administrativos y una vez aprobados, vigilar su observancia;
+XXII. Administrar y controlar los almacenes del Poder Judicial;
 
-XXIV. Organizar y controlar el servicio de intendencia; y
+XXIII. Organizar y controlar la recepción, despacho y archivo de la correspondencia oficial;
 
-XXV. Las demás que le señalen las leyes y reglamentos o le encomiende el Presidente del Tribunal Superior.
+XXIV. Proponer al Pleno los proyectos de condiciones generales del servicio y manuales administrativos y una vez aprobados, vigilar su observancia;
+
+XXV. Organizar y controlar el servicio de intendencia; y
+
+XXVI. Las demás que le señalen las leyes y reglamentos o le encomiende el Presidente del Tribunal Superior.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+Artículo 30 BIS. Coordinación Administrativa
+
+La Coordinación Administrativa tiene como objetivo estructurar, organizar y planear los proyectos para la implementación y funcionamiento de los Juzgados de Garantía y Tribunales de Juicio Oral. Tendrá las siguientes atribuciones:
+
+I. Establecer los modelos de gestión para el funcionamiento de los Juzgados de Garantía y Tribunales de Juicio Oral, adoptando las metodologías propias a la estructura, acorde a lo establecido en las leyes;
+
+II. Establecer y mantener actualizados los programas de capacitación al personal administrativo de los Juzgados de Garantía y Tribunales de Juicio Oral;
+
+III. Implementar acciones, en las diferentes instancias del Poder Judicial, con el objeto de que funcionen adecuadamente los Juzgados de Garantía y los Tribunales de Juicio Oral; y
+
+IV. Las demás que señalen las leyes y los acuerdos del Pleno.
 
 ###### Artículo 31.
 
@@ -741,7 +797,65 @@ Los juzgados de Primera Instancia son competentes para conocer de todos aquéllo
 
 Cuando haya dos o más juzgados de Primera Instancia con la misma competencia, en un distrito judicial, se designarán por el número de orden de su creación;
 
-El personal de los juzgados de Primera Instancia, lo integrarán: un juez, el o los secretarios de acuerdos, los actuarios, notificadores, oficiales de partes, secretarios auxiliares y demás empleados que se requieran.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+El personal de los juzgados de Primera Instancia, lo integrarán: el o los Jueces, el secretario de acuerdos cuando lo exijan las leyes de la materia, los actuarios, notificadores, oficiales de partes, secretarios auxiliares y demás empleados que se requieran.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+Los Jueces de Garantía y los integrantes de los Tribunales de Juicio Oral comprenden la jurisdicción de primera instancia en materia penal adversarial oral para adultos. En materia de justicia para adolescentes existirá, además, el Juez de Ejecución.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+Los Juzgados de Garantía y los Tribunales de Juicio Oral contarán, además, con los servidores públicos que sean necesarios para su buen funcionamiento.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+El Pleno del Tribunal Superior de Justicia podrá determinar que sean prestados servicios comunes de notificación, ejecución, oficialía de partes y otras áreas para dos o más juzgados de un mismo Distrito Judicial.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+Los Juzgados de Garantía, los Especializados para Adolescentes y el de Ejecución de Sanciones se integran por un juez para conocer del caso. El Tribunal de Juicio Oral en materia penal siempre se integrará por tres Jueces.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+En los Juzgados de Garantía y en los Tribunales de Juicio Oral deberá nombrarse un Administrador.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+Articulo 32 BIS. Administrador
+
+El Administrador adscrito a los Juzgados de Garantía y a los Tribunales de Juicio Oral tendrá las siguientes atribuciones:
+
+l. Dirigir las labores administrativas del Juzgado o Tribunal de su adscripción;
+
+II. Vigilar y controlar el buen desempeño de los funcionarios y empleados a su cargo en el ejercicio de las funciones encomendadas, conforme a lo dispuesto por las leyes;
+
+III. Proveer, en la esfera administrativa, la programación de las diligencias a desarrollarse en las Salas de audiencia a su cargo y, en general, todas las medidas necesarias para la buena marcha de los juzgados o tribunales;
+
+IV. Remitir a la Presidencia del Tribunal Superior de Justicia, un informe estadístico mensual dentro de los primeros cinco días hábiles del mes, sobre los trámites realizados en los juzgados o tribunales;
+
+V. Vigilar la conservación y funcionalidad de los bienes muebles e inmuebles asignados, debiendo poner en inmediato conocimiento al área correspondiente sobre cualquier deterioro que sufran;
+
+VI. Custodiar los bienes y valores que se encuentren a disposición del Juzgado o Tribunal con motivo de la tramitación de los asuntos;
+
+VII. Entregar y recibir bajo riguroso inventario, los bienes y valores a que se refieren las dos fracciones anteriores, cuando se requiera;
+
+VIII. Distribuir los asuntos entre los jueces por turno riguroso, respetando la agenda previamente establecida; y
+
+IX. Las demás que determine la Ley o el Pleno del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+Artículo 32 TER. Requisitos para ser Administrador
+
+Para ser Administrador se requiere:
+
+l. Ser mayor de veinticinco años;
+
+II. Ser profesionista titulado y tener conocimientos y experiencia en administración; y
+
+III. No haber sido condenado por la comisión de un delito intencional.
 
 ###### Artículo 33.
 
@@ -779,11 +893,41 @@ Competencia de los Jueces de Primera Instancia en materia mercantil
 
 Los jueces de lo mercantil conocerán de los negocios que por materia les corresponda, de conformidad con los Códigos Civil, de Procedimientos Civiles y de Comercio, la Ley General de Títulos y Operaciones de Crédito, y de aquellos que por jurisdicción concurrente o delegada les confieran otras leyes.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 37.
 
 Competencia de los Jueces de Primera Instancia en materia penal
 
-Los jueces del ramo penal conocerán de los asuntos que por materia les corresponda de conformidad con los Códigos Penal y de Procedimientos Penales y de aquellos que por jurisdicción auxiliar les confieran otras leyes.
+Los jueces del ramo penal, los de Garantía, los Especializados para Adolescentes, los integrantes de los Tribunales de Juicio Oral y los de Ejecución de Sanciones conocerán de los asuntos que por materia les corresponda, de conformidad con las leyes aplicables y de aquellos que por jurisdicción auxiliar les confieran otras leyes.
+
+En el proceso penal adversarial oral y en materia de justicia para adolescentes, los Jueces y Magistrados podrán actuar sin asistencia de secretarios o testigos de asistencia, y en ese caso ellos tendrán fe pública para certificar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, de video o se transcriban por escrito.
+
+En los Juzgados Especializados para Adolescentes existirá un Juez de Garantía, un Juez de Juicio y un Juez de Ejecución, quienes para conocer de los asuntos de su competencia, se sujetarán a un riguroso turno e intercambio de roles o funciones a fin de equilibrar sus cargas laborales.
+
+Los Jueces de Garantía y los Jueces integrantes del Tribunal de Juicio Oral de un mismo Distrito Judicial, para equilibrar sus cargas laborales, podrán adoptar el sistema rotativo de roles o funciones basado en la competencia en razón del turno, siempre que el Pleno del Tribunal Superior de Justicia así lo determine.
+
+Bajo ninguna circunstancia el Juez de Garantía podrá fungir como Juez de Juicio Oral en un mismo asunto y viceversa.
+
+Todo incidente de liquidación, autorización para el pago en parcialidades o para embargo de bienes, remate en pública almoneda o cualquier otra incidencia o controversia que se suscite en la etapa de ejecución de sentencia, serán resueltas por el Juez de Garantía a quien inicialmente haya correspondido el asunto, salvo disposición legal en contrario.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+Artículo 37 BIS.
+
+Sistema de Registro en Materia Penal Adversarial
+
+En materia penal adversarial oral y en materia de justicia para adolescentes, tendrán la validez y eficacia de un documento físico original de registro, los archivos de documentos, mensajes, imágenes, bancos de datos y toda aplicación almacenada o transmitida por medios electrónicos, informáticos, magnéticos, ópticos, telemáticos o producidos por nuevas tecnologías, destinados a la tramitación judicial, ya sea que registren actos o resoluciones judiciales. Lo anterior siempre que cumplan con los procedimientos establecidos para garantizar su autenticidad, integridad y seguridad.
+
+Las alteraciones que afecten la autenticidad o integridad de dichos soportes los harán perder el valor jurídico que se les otorga en el párrafo anterior.
+
+Cuando un Juez de las referidas materias utilice los medios indicados en el primer párrafo de este artículo, para hacer constar sus actos o resoluciones, los medios de protección del sistema resultarán suficientes para acreditar su autenticidad, aunque no se impriman en papel ni sean firmados.
+
+Las autoridades judiciales de la materia penal y las especializadas para adolescentes infractores, podrán utilizar los medios referidos para comunicarse oficialmente entre si, remitiéndose informes, comisiones y cualquier otra documentación. Las partes en materia penal también podrán utilizar esos medios para presentar sus solicitudes y recursos a los tribunales, siempre que remitan el documento original dentro de los tres días siguientes, en cuyo caso la presentación de la petición o recurso se tendrá como realizada en el momento de recibida la primera comunicación.
+
+El Pleno del Tribunal Superior de Justicia expedirá el reglamento o los acuerdos necesarios para normar el envío, recepción, trámite y almacenamiento de los citados medios para garantizar su seguridad y conservación, así como para determinar el acceso del público a la información contenida en las bases de datos, conforme a la Ley.
+
+Sin embargo, cuando una autoridad en materia penal adversarial oral o en materia de justicia para adolescentes reciba por exhorto, mandamiento o comisión, una solicitud para la realización de un acto procesal, deberá seguir los procedimientos vigentes para la autoridad que remite la solicitud.
 
 ###### Artículo 38.
 
@@ -959,7 +1103,9 @@ V. Las demás que les fijen las leyes, reglamentos y acuerdos.
 
 Suplencia de Jueces de Primera Instancia y Municipales
 
-Los jueces de Primera Instancia y Municipales, en sus ausencias temporales que no excedan de un mes, previa disposición del Pleno, podrán ser sustituidos por el secretario de acuerdos.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+Los jueces de Primera Instancia y Municipales, en sus ausencias temporales que no excedan de un mes, podrán ser sustituidos por el secretario de acuerdos.
 
 Cuando las ausencias de los jueces de Primera Instancia o Municipales, excedan del término a que se refiere el párrafo anterior, el Pleno del Tribunal Superior de Justicia, designará un juez interino que se haga cargo del despacho, en tanto regresa el titular o se hace la designación definitiva.
 
@@ -1957,6 +2103,78 @@ Organización Atribuciones y Funcionamiento
 
 El Tribunal de lo Contencioso Administrativo tendrá la organización, funcionamiento, competencia, procedimiento y recursos que disponga su propia ley.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+## TITULO SEPTIMO. DEL TRIBUNAL ESPECIALIZADO EN JUSTICIA PARA ADOLESCENTES
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+### CAPITULO UNICO. DE LA COMPETENCIA, ORGANIZACION Y FUNCIONAMIENTO DEL TRIBUNAL ESPECIALIZADO
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 127.
+
+Competencia
+
+El Tribunal Especializado en Justicia para Adolescentes es un órgano del Poder Judicial del Estado, dependiente del Pleno del Tribunal Superior de Justicia, estará dotado de plena jurisdicción y autonomía para dictar y ejecutar sus resoluciones y será la instancia competente para conocer y resolver, en Segunda Instancia, de las cuestiones y recursos siguientes:
+
+I. De las excusas, recusaciones, impedimentos e incompetencias de los Jueces que operen el Sistema Estatal de Justicia para Adolescentes;
+
+II. De los recursos de apelación, de apelación especial y de revisión que se interpongan en contra de las resoluciones dictadas por los Jueces de Justicia Especializada para Adolescentes;
+
+III. Sobre las solicitudes de libertad provisional que ante el Tribunal Especializado se promuevan; y
+
+IV. De las demás cuestiones que señalen las leyes o determine el Pleno del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 128.
+
+Integración y Nombramiento.
+
+El Tribunal Especializado es unitario, constituido por un Magistrado que no integrará Pleno y tendrá su residencia en la Ciudad de Zacatecas.
+
+El nombramiento del Magistrado compete a la Legislatura del Estado previa terna que al respecto proponga el Pleno del Tribunal Superior de Justicia.
+
+Para ser Magistrado del Tribunal Especializado se deberán reunir los mismos requisitos que se exigen para ser Magistrado del Poder Judicial.
+
+Durará en su cargo cuatro años y podrá ser ratificado. Sólo podrá ser privado de su cargo en los casos y mediante el procedimiento previsto en la Constitución Política del Estado y en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+El Magistrado del Tribunal Especializado deberá rendir la protesta de Ley, en los términos de la Constitución Política del Estado, ante el Pleno de la Legislatura.
+
+El Tribunal Especializado se integrará, además, con los Secretarios, Notificadores y demás servidores públicos que se requieran para el ejercicio de sus funciones, quienes tendrán las obligaciones que esta Ley y el Reglamento Interior del Tribunal Especializado en Justicia para Adolescentes les confieran.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 129.
+
+Deberes y Obligaciones del Magistrado
+
+Son atribuciones y deberes del Magistrado:
+
+l. Conocer y resolver de las cuestiones y recursos de su competencia;
+
+II. Emitir los proveídos, autos y resoluciones necesarias para el trámite de los asuntos de su competencia;
+
+III. Presidir las audiencias en los asuntos de su competencia;
+
+IV. Firmar las resoluciones que emita el Tribunal Especializado a su cargo;
+
+V. Conocer y resolver sobre las denuncias o quejas contra los secretarios y demás personal del Tribunal Especializado;
+
+VI. Proponer al Pleno del Tribunal Superior de Justicia el Proyecto de Reglamento Interior del Tribunal Especializado en Justicia para Adolescentes, en su caso, sus reformas;
+
+VII. Despachar la correspondencia del Tribunal a su cargo;
+
+VIII. Realizar los actos jurídicos y administrativos que le competen de conformidad a su cargo;
+
+IX. Rendir, dentro de los primeros cinco días hábiles de cada mes, un informe estadístico a la Presidencia del Tribunal Superior de Justicia sobre el estado que guardan los asuntos del Tribunal Especializado;
+
+X. Ejecutar los acuerdos que el Pleno establezca con respecto al ámbito de competencia del Tribunal Especializado; y
+
+XI. Las demás que señalen las leyes.
+
 ## ARTICULOS TRANSITORIOS
 
 PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado, con las salvedades a que se refieren los siguientes artículos transitorios.
@@ -2018,3 +2236,19 @@ SEGUNDO.- Al inicio de vigencia del presente decreto, quedarán derogadas las di
 P.O. 7 DE OCTUBRE DE 2006.
 
 Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 5 DE NOVIEMBRE DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor una vez que se publiquen en el Periódico Oficial, Órgano de Gobierno del Estado, las reformas a la Constitución Política del Estado, relativas a la creación del Tribunal Especializado en Justicia para Adolescentes.
+
+SEGUNDO. Los órganos que se instituyen por virtud de este Decreto, excepto el Tribunal Especializado en Justicia para Adolescentes, deberán funcionar al inicio de la vigencia del Nuevo Código Procesal Penal para el Estado de Zacatecas, para lo cual el Tribunal Superior de Justicia emitirá los acuerdos respectivos y adoptará las medidas necesarias de infraestructura y de capacitación de personal.
+
+TERCERO. El Juzgado Especializado en Materia de Justicia para Adolescentes con sede en la carretera federal 54, kilómetro 35, Comunidad del Venado, Colonia Felipe Ángeles, Villanueva, Zacatecas, tendrá jurisdicción en todo el Estado, hasta en tanto se instalen diversos Juzgados en esta materia, en cuyo caso el Pleno del Tribunal Superior de Justicia determinará la jurisdicción territorial que les corresponda.
+
+CUARTO. El Pleno del Tribunal Superior de Justicia establecerá el lugar físico en que habrá de instalarse el referido Órgano Jurisdiccional, el cual será dotado del personal e infraestructura que resulten necesarios para su funcionamiento.
+
+QUINTO. El Magistrado del Tribunal Especializado entrará en funciones a partir de que rinda la protesta de ley, ante la legislatura del Estado.
+
+SEXTO. El Magistrado que integre el Tribunal Especializado en Justicia para Adolescentes dispondrá de un término de noventa días contados a partir de la entrada en vigor de esta reforma, para que someta a aprobación del Pleno del Tribunal Superior de Justicia el Reglamento Interior del Tribunal Especializado en Justicia para Adolescentes.
+
+SÉPTIMO. Se derogan las disposiciones que contravengan este Decreto.
