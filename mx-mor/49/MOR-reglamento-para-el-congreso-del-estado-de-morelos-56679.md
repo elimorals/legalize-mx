@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-congreso-del-estado-de-morelos-56679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-25"
-last_updated: "2008-05-07"
+last_updated: "2008-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007
 
@@ -1479,9 +1479,11 @@ Los órganos administrativos del Congreso, deberán presentar al órgano de gobi
 
 Así mismo, deberán presentar durante los primeros 15 días del mes de agosto de cada año, su informe anual de actividades, ante el mismo órgano.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 157.
 
-En todo lo referente a la Auditoría Superior Gubernamental, se estará a lo que señale la ley de la materia.
+En todo lo referente a la Auditoría Superior de Fiscalización, se estará a los (sic) que señale la ley de la materia.
 
 ###### ARTÍCULO 158.
 
@@ -1864,3 +1866,17 @@ P.O. 7 DE MAYO DE 2008.
 Primero.- Una vez aprobado el presente Dictamen, entrará en vigor el mismo día de su aprobación.
 
 Segundo.- Para efectos de su difusión, publíquese en la gaceta legislativa de este Congreso del Estado y en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 5 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos del reglamento del Congreso del estado la presente reforma entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
