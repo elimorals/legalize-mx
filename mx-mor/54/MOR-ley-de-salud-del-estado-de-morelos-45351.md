@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2005-06-29"
+last_updated: "2008-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -605,9 +605,11 @@ Las familias y personas que no sean derechohabientes de las Instituciones de Seg
 
 Las atribuciones y obligaciones, así como los mecanismos de coordinación entre Gobierno Federal, Gobierno Estatal y usuarios se regirán de acuerdo a lo establecido en el Título Tercero bis de la Protección Social en Salud de la Ley General de Salud vigente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 49.
 
-Las cuotas de recuperación que en su caso se recauden por la prestación de servicios de salud en las Instituciones Públicas Estatales, se ajustarán a lo que disponga el tabulador de la Beneficencia Pública Estatal. Misma que vigilará la Administración de estas cuotas cuidando que sean aplicadas prioritariamente en el financiamiento de los centros en donde se recaben, sin perjuicio de las atribuciones que competen a la Auditoría Superior Gubernamental.
+Las cuotas de recuperación que en su caso se recauden por la prestación de servicios de salud en las Instituciones Públicas Estatales, se ajustarán a lo que disponga el tabulador de la Beneficencia Pública Estatal. Misma que vigilará la Administración de estas cuotas cuidando que sean aplicadas prioritariamente en el financiamiento de los centros en donde se recaben, sin perjuicio de las atribuciones que competen a la Auditoría Superior de Fiscalización.
 
 Para la determinación de las cuotas de recuperación se tomará en cuenta el costo de los servicios y las condiciones socioeconómicas del usuario.
 
@@ -3274,3 +3276,19 @@ SECRETARIO DE SALUD
 DR. ANTONIO CAMPOS RENDÓN
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos del reglamento del Congreso del estado la presente reforma entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
