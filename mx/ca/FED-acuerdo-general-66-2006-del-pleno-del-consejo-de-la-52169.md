@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-66-2006-del-pleno-del-consejo-de-la-52169"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-11-09"
-last_updated: "2007-08-21"
+last_updated: "2008-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52169&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-10-30"
 
 ACUERDO GENERAL 66/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA EL PROCESO PRESUPUESTARIO EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE NOVIEMBRE DE 2008.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 9 de noviembre de 2006.
 
@@ -197,11 +197,29 @@ El Pleno podrá autorizar erogaciones adicionales a las aprobadas en el Presupue
 
 Los ingresos excedentes que obtenga el Consejo, deberán:
 
-I. Contar con la aprobación del Pleno, para su incorporación al presupuesto como ampliación líquida;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 49/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 2008)</small>
+
+I. Contar con la aprobación de la Comisión, para su incorporación al Presupuesto como adecuaciones presupuestales en ampliación líquida.
 
 II. Registrarse ante la Secretaría de Hacienda conforme lo establece la Ley; y
 
 III. Informar a la Secretaría de Hacienda sobre la obtención y la aplicación de dichos ingresos, para efectos de la integración de los informes trimestrales y la Cuenta Pública.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 49/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 2008)</small>
+
+Para efectos de la aprobación a que se refiere la fracción I de este artículo, la Secretaría deberá someter a consideración de la Comisión los montos, origen y conceptos de ampliación. Además, la Secretaría deberá elaborar un informe mensual al Pleno en el que se reúnan los ingresos registrados en un mes de calendario, el que deberá contener, al menos, la descripción de los conceptos de ingreso; el monto de cada uno y la suma total; así como la partida o partidas presupuestales a las que se aplicará la ampliación líquida.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 49/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 2008)</small>
+
+El informe relativo corresponderá a los ingresos registrados en el Sistema Integral Financiero en el mes anterior de calendario y deberá someterse, previamente, a consideración de la Comisión en la primera sesión de ésta del mes siguiente.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 49/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 2008)</small>
+
+No obstante lo dispuesto en el párrafo anterior, los ingresos registrados al 15 de noviembre podrán ser incorporados al presupuesto como ampliación líquida, durante el periodo de receso, con la sola autorización de la Comisión de Receso; de lo cual, la Secretaría informará al Pleno en la primera sesión ordinaria del año siguiente.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 49/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 2008)</small>
+
+Las adecuaciones presupuestales como ampliaciones líquidas provenientes de recursos presupuestales de la Suprema Corte de Justicia de la Nación o del Tribunal Electoral del Poder Judicial de la Federación, deberán ser autorizadas por el Pleno.
 
 ###### Artículo 9.
 
@@ -437,7 +455,21 @@ VI. Las normas generales que para tal efecto emita el Pleno.
 
 Cuando se requiera actualizar los montos plurianuales autorizados que sirvieron de base para celebrar originalmente los contratos derivados de la variación de costos o montos, se deberá presentar al Pleno la justificación correspondiente, así como el avance financiero y en el caso de obra pública, además el avance físico.
 
-El Consejo no contraerá compromisos plurianuales que impliquen riesgos de incumplimiento de sus obligaciones o que restrinjan la flexibilidad requerida para el adecuado ejercicio del gasto. Por ello, el monto total de este tipo de contratos, sin incluir aquellos derivados de proyectos para prestación de servicios para cualquier año de su vigencia, no rebasará el veinte por ciento del gasto total aprobado para el año en que se celebren en las partidas de gasto correspondientes. En casos excepcionales y debidamente justificados, el Pleno podrá autorizar un porcentaje mayor.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 49/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 2008)</small>
+
+La autorización de contratos plurianuales se sujetará a las siguientes reglas:
+
+a) El monto total de los contratos plurianuales no deberá implicar riesgos de incumplimiento de las obligaciones a cargo del Consejo ni restricciones a la flexibilidad requerida para el adecuado ejercicio del gasto;
+
+b) El monto máximo para la contratación plurianual, de cada ejercicio, deberá fijarse hasta por el monto que, como porcentaje del Presupuesto de Egresos en que se ejerza, autorice el Pleno a propuesta de la Secretaría Ejecutiva de Finanzas, lo que podrá ser reducido o ampliado conforme a las economías obtenidas en los capítulos de gasto corriente;
+
+c) En todo caso se tomarán en consideración las erogaciones plurianuales aprobadas en ejercicios anteriores;
+
+d) Los compromisos plurianuales excedentes no cubiertos tendrán preferencia respecto de otras previsiones de gasto de infraestructura, quedando la ejecución de éstos sujeta a la disponibilidad presupuestaria anual;
+
+e) Tratándose de contratos plurianuales de obra pública, deberá preferirse la contratación mediante el esquema conocido como precio alzado, a no ser que el Comité correspondiente justifique motivadamente al Pleno, la conveniencia de otro esquema de contratación; y
+
+f) En todo caso, las asignaciones de recursos de los ejercicios fiscales subsecuentes a la aprobación de dichas erogaciones deberán incluirse en el Presupuesto de Egresos.
 
 Las unidades globalizadoras deberán informar al Pleno sobre cualquier variación significativa en los términos y estimaciones presentadas para obtener las autorizaciones correspondientes, así como cualquier asunto superveniente que afecte sustancialmente el desarrollo de la prestación de servicios de que se trate, en los términos de las disposiciones aplicables.
 
@@ -1268,3 +1300,11 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General 75/2000, del Pleno del Consejo de la Judicatura Federal, que Fija las Bases para que las Adquisiciones, Arrendamientos, Prestaciones de Servicios y Obra Pública en el Consejo de la Judicatura Federal se Ajusten a los Criterios Contemplados en el Artículo 134 Constitucional, así como al Acuerdo General 66/2006, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Proceso Presupuestario en el Consejo de la Judicatura Federal, según corresponda.
+
+D.O.F. 5 DE NOVIEMBRE DE 2008.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar, de inmediato, el texto de esta reforma, al Acuerdo General 66/2006, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Proceso Presupuestario en el Consejo de la Judicatura Federal, así como al diverso Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del Propio Consejo.
