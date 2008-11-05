@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2008-07-23"
+last_updated: "2008-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -823,9 +823,13 @@ II. Conocer y dictaminar sobre el Presupuesto de Egresos del Gobierno del Estado
 
 III. Conocer sobre la Cuenta Pública Anual que rindan los Ayuntamientos;
 
-IV. Solicitar del Órgano de Auditoría Superior Gubernamental, la información sobre el ejercicio de los recursos públicos por parte del Gobierno del Estado y de los Ayuntamientos;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
-V. Recibir de la Mesa Directiva los informes sobre las revisiones de las Cuentas Públicas que haya practicado la Auditoría Superior Gubernamental y remitir los mismos al pleno para ordenar su publicación en el Periódico Oficial "Tierra y Libertad";
+IV. Solicitar del Órgano de Auditoría Superior de Fiscalización, la información sobre el ejercicio de los recursos públicos por parte del Gobierno del Estado y de los Ayuntamientos;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+V. Recibir de la Mesa Directiva los informes sobre las revisiones de las Cuentas Públicas que haya practicado la Auditoría Superior de Fiscalización y remitir los mismos al pleno para ordenar su publicación en el Periódico Oficial “Tierra y Libertad”;
 
 VI. Dictaminar las iniciativas o proyectos de Leyes de Ingresos y las que se refieran a la creación de impuestos extraordinarios o especiales, ya sean estatales o municipales;
 
@@ -1191,7 +1195,9 @@ I. Vigilar la correcta administración y aplicación de los recursos económicos
 
 II. Revisar los inventarios de los recursos materiales con que cuente el Congreso del Estado, y
 
-III. Someter a consideración del pleno del Congreso del Estado, la revisión de la cuenta pública trimestral del Congreso del Estado, previo análisis y dictamen de la Auditoría Superior Gubernamental, para efectos de su aprobación cuando así proceda.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+III. Someter a consideración del pleno del Congreso del Estado, la revisión de la cuenta pública trimestral del Congreso del Estado, previo análisis y dictamen de la Auditoría Superior de Fiscalización, para efectos de su aprobación cuando así proceda.
 
 ###### Artículo 87.
 
@@ -1241,7 +1247,9 @@ I. Secretaria del Congreso;
 
 II. Secretaria de Administración y Finanzas;
 
-III. Auditoría Superior Gubernamental;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+III. Auditoría Superior de Fiscalización;
 
 IV. Instituto de Investigaciones legislativas; y
 
@@ -1259,7 +1267,9 @@ Para el funcionamiento interno, el Congreso del Estado contará además con las 
 
 Para ocupar cualquiera de los cargos a que se refieren los artículos anteriores, deberá acreditarse ante la Junta Política y de Gobierno, la documentación relativa con los requisitos que cada cargo requiere.
 
-### CAPÍTULO IV. DE LA AUDITORÍA SUPERIOR GUBERNAMENTAL
+### CAPÍTULO IV. DE LA AUDITORÍA SUPERIOR DE FISCALIZACIÓN
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
 ### CAPÍTULO V. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
 
@@ -1367,15 +1377,19 @@ XIV. Tendrá a su cargo el resguardo y el manejo de la agenda de eventos en las 
 
 XV. Las demás que la presente Ley y su Reglamento le confieran.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
 ### CAPÍTULO ÚNICO
 
 ###### Artículo 99.
 
-La Auditoría Superior Gubernamental es el órgano de fiscalización perteneciente al Congreso del Estado que se integra y rige en los términos de la ley de la materia.
+La Auditoría Superior de Fiscalización es el órgano de fiscalización perteneciente al Congreso del Estado que se integra y rige en los términos de la ley de la materia.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 100.
 
-El titular de la Auditoría Superior Gubernamental, no podrá ser o haber sido militante de ninguno de los partidos políticos con registro en el Estado.
+El titular de la Auditoría Superior de Fiscalización, no podrá ser o haber sido militante de ninguno de los partidos políticos con registro en el Estado.
 
 ###### Artículo 101.
 
@@ -1576,3 +1590,17 @@ P.O. 23 DE JULIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su aprobación. Para efectos de su divulgación, remítase el mismo al Titular del Poder Ejecutivo del Estado, para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 5 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos del reglamento del Congreso del estado la presente reforma entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
