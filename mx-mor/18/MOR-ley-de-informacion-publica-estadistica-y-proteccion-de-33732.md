@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-informacion-publica-estadistica-y-proteccion-de-33732"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-27"
-last_updated: "2008-04-30"
+last_updated: "2008-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE INFORMACION PUBLICA, ESTADISTICA Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de agosto de 2003.
 
@@ -353,7 +353,9 @@ Cuando se trate del otorgamiento de concesiones, licencias, permisos o autorizac
 
 11. Información detallada de las obras que directa o indirectamente tienen que ejecutar las entidades con cargo al presupuesto público, con préstamos, subvenciones o aportaciones privadas de carácter nacional e internacional. En este caso deberá precisarse el monto, lugar, plazo de ejecución, entidad pública y servidores públicos responsables de la obra y mecanismos de vigilancia ciudadana.
 
-12. Información contendida (sic) en los documentos y expedientes relativos a todo tipo de auditorías concluidas y realizadas para evaluar el ejercicio presupuestal y la gestión de cada dependencia o unidad administrativa del Estado y los municipios, que realicen la Secretaría de la Contraloría del Estado, las contralorías internas, la Contaduría Mayor de Hacienda del Congreso del Estado o la Auditoría Superior de la Federación, o las equivalentes de cualquiera de todas las anteriores, así como las aclaraciones que correspondan.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+12. Información contendida (sic) en los documentos y expedientes relativos a todo tipo de auditorías concluidas y realizadas para evaluar el ejercicio presupuestal y la gestión de cada dependencia o unidad administrativa del Estado y los municipios, que realicen la Secretaría de la Contraloría del Estado, las contralorías internas, la Auditoría Superior de Fiscalización del Congreso del Estado o la Auditoría Superior de la Federación, o las equivalentes de cualquiera de todas las anteriores, así como las aclaraciones que correspondan.
 
 13. Información contenida en las minutas, acuerdos y actas de las reuniones oficiales, de cualquier órgano colegiado de las entidades públicas.
 
@@ -1296,3 +1298,17 @@ P.O. 30 DE ABRIL DE 2008.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDO.- Remítase al Titular del Poder Ejecutivo del Estado de Morelos para efectos de lo dispuesto en los artículos 44 y 70, fracción XVII de la Constitución Política del Estado de Morelos.
+
+P.O. 5 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos del reglamento del Congreso del estado la presente reforma entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
