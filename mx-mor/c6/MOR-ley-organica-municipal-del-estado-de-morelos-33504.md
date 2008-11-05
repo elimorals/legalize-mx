@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2008-07-16"
+last_updated: "2008-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -781,9 +781,9 @@ LIX. Contribuir al desarrollo de la vida democrática coadyuvando con el Institu
 
 LX. En general, proveer en la esfera administrativa todo lo necesario para el mejor desempeño de las funciones que le competen de acuerdo con esta u otras leyes y reglamentos;
 
-> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
-LXI. Los Ayuntamientos enviarán las cuentas públicas mensuales a la Auditoría Superior Gubernamental, dentro de los primeros veinte días naturales del mes siguiente al que corresponda rendir dicho informe;
+LXI. Los Ayuntamientos enviarán las cuentas públicas mensuales a la Auditoría Superior de Fiscalización, dentro de los primeros veinte días naturales del mes siguiente al que corresponda rendir dicho informe, y
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2267,7 +2267,7 @@ II.- La realización conjunta de programas de desarrollo común;
 
 III.- La organización de empresas para la prestación de servicios públicos de alcance intermunicipal;
 
-IV.- La instrucción de programas de urbanismo y planeación del crecimiento de los centros de población, y
+IV.- La instrucción de programas de urbanismo y planeación del crecimiento de los centros de población. y
 
 V.- Las demás acciones que tiendan a promover el bienestar y progreso de sus respectivas comunidades.
 
@@ -2569,6 +2569,18 @@ Remítase el presente Decreto al Titular del poder Ejecutivo del Estado, para ef
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos del reglamento del Congreso del estado la presente reforma entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
+
 ###### ARTÍCULO CUARTO.
 
 (sic) Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto en el presente Decreto.
@@ -2592,3 +2604,5 @@ P.O. 16 DE JULIO DE 2008.
 Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas en lo que se opongan o de cualquier forma contravengan el presente Decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2008.
