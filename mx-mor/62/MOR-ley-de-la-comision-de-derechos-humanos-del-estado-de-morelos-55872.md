@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-comision-de-derechos-humanos-del-estado-de-morelos-55
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-06"
-last_updated: "2008-04-09"
+last_updated: "2008-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de junio de 2007.
 
@@ -277,7 +277,9 @@ X. Ejercer el presupuesto de la Comisión, previa aprobación del Consejo Consul
 
 XI. Presentar al Congreso del Estado el informe sobre el ejercicio del presupuesto dentro de los treinta días hábiles posteriores al término del ejercicio;
 
-XII. Proporcionar a la Auditoria Superior Gubernamental del Congreso, la documentación que le sea requerida en ejercicio de su función fiscalizadora y a la sociedad en general en los términos de la Ley de Acceso a la Información Pública y Protección de Datos Personales del Estado de Morelos.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+XII. Proporcionar a la Auditoría Superior de Fiscalización del Congreso, la documentación que le sea requerida en ejercicio de su función fiscalizadora y a la sociedad en general en los términos de la Ley de Acceso a la Información Pública y Protección de Datos Personales del Estado de Morelos;
 
 XIII. Promover y crear los mecanismos necesarios para la capacitación y adiestramiento del personal;
 
@@ -652,3 +654,17 @@ EN UN TÉRMINO NO MAYOR A 60 DÍAS HÁBILES, LA COMISIÓN DE DERECHOS HUMANOS DE
 ###### ARTÍCULO SEGUNDO.
 
 LA PRESENTE REFORMA ENTRARÁ EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL "TIERRA Y LIBERTAD", ÓRGANO OFICIAL DE DIFUSIÓN DEL GOBIERNO DEL ESTADO.
+
+P.O. 5 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos del reglamento del Congreso del estado la presente reforma entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
