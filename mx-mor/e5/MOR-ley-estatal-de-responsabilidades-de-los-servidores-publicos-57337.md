@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-responsabilidades-de-los-servidores-publicos-573
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-24"
-last_updated: "2008-04-02"
+last_updated: "2008-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 24 de octubre de 2007.
 
@@ -105,7 +105,9 @@ En el caso de la investigación, a juicio de la autoridad sancionadora, el quejo
 
 Son autoridades sancionadoras en los términos que establece la presente Ley y en el ámbito de su competencia:
 
-I. La Auditoría Superior Gubernamental.- Para conocer de las quejas o denuncias en contra de los servidores públicos del Poder Legislativo del Gobierno del Estado y de los titulares de los órganos autónomos constitucionales.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+I. La Auditoría Superior de Fiscalización.- Para conocer de las quejas o denuncias en contra de los servidores públicos del Poder Legislativo del Gobierno del Estado y de los titulares de los órganos autónomos constitucionales.
 
 II. La Secretaría de la Contraloría.- Para conocer de las quejas o denuncias en contra de los servidores públicos del Poder Ejecutivo del Gobierno del Estado de Morelos y de las Entidades Paraestatales, así como de aquellos que ejerzan recursos federales y estatales a través de convenios.
 
@@ -773,17 +775,19 @@ Contra la declaración de caducidad o denegación de ésta no procede recurso al
 
 ### CAPÍTULO ÚNICO. DE LA DECLARACION PATRIMONIAL
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 75.
 
-La Secretaría de la Contraloría recibirá y registrará las declaraciones patrimoniales de los servidores públicos de los Poderes Ejecutivo y Judicial, así como la que corresponda a los Titulares y Consejeros de los órganos autónomos y los titulares de la administración pública paraestatal, mientras que la Auditoría Superior Gubernamental del Congreso del Estado, hará lo propio con las declaraciones patrimoniales de los servidores públicos del Poder Legislativo y Ayuntamientos, así como la de los titulares de los organismos descentralizados que integran la administración pública paramunicipal.
+La Secretaría de la Contraloría recibirá y registrará las declaraciones patrimoniales de los servidores públicos de los Poderes Ejecutivo y Judicial, así como la que corresponda a los Titulares y Consejeros de los órganos autónomos y los titulares de la administración pública paraestatal, mientras que la Auditoría Superior de Fiscalización del Congreso del Estado, hará lo propio con las declaraciones patrimoniales de los servidores públicos del Poder Legislativo y Ayuntamientos, así como la de los titulares de los organismos descentralizados que integran la administración pública paramunicipal.
 
-La Secretaría de la Contraloría y la Auditoría Superior Gubernamental reglamentarán la forma y requisitos para la presentación de la declaración de situación patrimonial de los servidores públicos en el ámbito de su competencia y el monto de las sanciones económicas a imponer por el incumplimiento de la obligación de presentación de dichas declaraciones.
+La Secretaría de la Contraloría y la Auditoria Superior de Fiscalización reglamentarán la forma y requisitos para la presentación de la declaración de situación patrimonial de los servidores públicos en el ámbito de su competencia y el monto de las sanciones económicas a imponer por el incumplimiento de la obligación de presentación de dichas declaraciones.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 76.
 
-La Secretaría de la Contraloría y la Auditoría Superior Gubernamental coordinarán acciones en todo lo relativo a las declaraciones patrimoniales de los servidores públicos en términos de la presente Ley y sus reglamentos, a efecto de contar con un registro preciso y permanente; se establecerán entre estas dependencias los mecanismos necesarios para el intercambio de información.
+La Secretaría de la Contraloría y la Auditoría Superior de Fiscalización coordinarán acciones en todo lo relativo a las declaraciones patrimoniales de los servidores públicos en términos de la presente Ley y sus reglamentos, a efecto de contar con un registro preciso y permanente; se establecerán entre estas dependencias los mecanismos necesarios para el intercambio de información.
 
 ###### ARTÍCULO 77.
 
@@ -795,11 +799,11 @@ II. De modificación. Durante el mes de enero de cada año; y
 
 III. De conclusión. Dentro de los treinta días naturales siguientes a la conclusión del cargo.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 78.
 
-La Secretaría de la Contraloría del Estado, el Consejo de la Judicatura y la Auditoría Superior Gubernamental, deberán publicar, respectivamente, el reglamento y el catálogo de servidores públicos obligados a rendir su declaración patrimonial.
+La Secretaría de la Contraloría del Estado, el Consejo de la Judicatura y Auditoría Superior de Fiscalización, deberán publicar, respectivamente, el reglamento y el catálogo de servidores públicos obligados a rendir su declaración patrimonial.
 
 ###### ARTÍCULO 79.
 
@@ -884,3 +888,17 @@ Se derogan todas las disposiciones legales o reglamentarias que se opongan al pr
 ###### ARTÍCULO CUARTO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 5 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos del reglamento del Congreso del estado la presente reforma entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
