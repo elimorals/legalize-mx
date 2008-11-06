@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-7-2008-del-pleno-del-consejo-de-la-59912"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-03-13"
-last_updated: "2008-08-08"
+last_updated: "2008-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59912&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-02-06"
 
 ACUERDO GENERAL 7/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DE LA VISITADURIA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL Y ABROGA EL DIVERSO ACUERDO GENERAL 28/2003, DEL PROPIO CUERPO COLEGIADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE NOVIEMBRE DE 2008.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 13 de marzo de 2008.
 
@@ -435,9 +435,11 @@ Efectos. Las visitas ordinarias de inspección tienen como objeto recabar, en fo
 
 Periodicidad. Las visitas ordinarias de inspección se llevarán a cabo cuando menos dos veces por año: una inspección se realizará de manera física por los visitadores judiciales “B” en la sede del órgano jurisdiccional; la otra, se verificará a través de la inspección ordinaria a distancia que practiquen los mismos visitadores que designe el visitador general, con el auxilio de los magistrados, jueces o encargados del despacho correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 72/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 39.
 
-Duración. Las visitas ordinarias durarán cuando más, dos días tratándose de tribunales colegiados, unitarios de Circuito y unidades de notificadores comunes; tres días para la inspección de los juzgados de Distrito, con excepción de los juzgados de procesos penales federales, en cuyo caso la duración de la visita no excederá de cuatro días.
+Duración. Las visitas ordinarias durarán cuando más, dos días tratándose de tribunales colegiados, unitarios de Circuito y unidades de notificadores comunes; tres días para la inspección de los juzgados de Distrito, con excepción de los juzgados de procesos penales federales, en cuyo caso la duración de la visita no excederá de cuatro días. Los tribunales de Circuito y juzgados de Distrito que integren centros auxiliares, que no tengan facultades para el trámite de los asuntos hasta ponerlos en estado de resolución y que coadyuven a otros órganos en el dictado de sentencias, serán visitados en un día.
 
 El visitador general podrá autorizar la modificación de los plazos señalados, siempre que exista causa justificada.
 
@@ -892,5 +894,13 @@ D.O.F. 8 DE AGOSTO DE 2008.
 PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, y para su mayor difusión, en la página web del Consejo de la Judicatura Federal.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, de inmediato, el texto de esta reforma, al Acuerdo General 7/2008, del Pleno del Consejo de la Judicatura Federal, que Regula la Organización y Funcionamiento de la Visitaduría Judicial del Consejo de la Judicatura Federal y Abroga el Diverso Acuerdo General 28/2003, del propio Cuerpo Colegiado.
+
+D.O.F. 6 DE NOVIEMBRE DE 2008.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, y para su mayor difusión, en la página web del Consejo de la Judicatura Federal.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, de inmediato, el texto de esta reforma, al Acuerdo General 7/2008, del Pleno del Consejo de la Judicatura Federal, que Regula la Organización y Funcionamiento de la Visitaduría Judicial del Consejo de la Judicatura Federal y Abroga el Diverso Acuerdo General 28/2003, del propio Cuerpo Colegiado.
