@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-procedimiento-administrativo-del-estado-de-jalisco-1746
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-15"
-last_updated: "2008-06-12"
+last_updated: "2008-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 15 de julio del 2000.
 
@@ -723,7 +723,9 @@ Los notificadores deben hacer constar únicamente lo concerniente a la práctica
 
 I. Cerciorase de que el domicilio del administrado, corresponde con el señalado para recibir notificaciones.
 
-II. Entregar la copia del acto que se notifica.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2008)</small>
+
+II. Entregar las copias completas y legibles del documento donde conste el acto que se notifica;
 
 III. Señalar la fecha y hora en cuando se efectúa la diligencia.
 
@@ -1376,3 +1378,7 @@ P.O. 24 DE FEBRERO DE 2007.
 P.O. 12 DE JUNIO DE 2008.
 
 ÚNICO. El presente decreto entrará en vigor 30 días hábiles posteriores a su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 6 DE NOVIEMBRE DE 2008.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
