@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-sindicatura-del-municipio-de-61946"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-27"
-last_updated: "2008-06-27"
+last_updated: "2008-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ REGLAMENTO INTERNO DE LA SINDICATURA DEL MUNICIPIO DE TECATE, BAJA CALIFORNIA
 
 TEXTO ORIGINAL.
 
-Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 27 de junio de 2008
+Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 27 de junio de 2008. (REPUBLICADO EN EL P.O. 7 DE NOVIEMBRE DE 2008).
 
 C. José Carlos Pérez Pérpuly, Secretario Municipal del H. XIX Ayuntamiento de Tecate, Baja California, hace constar y
 
