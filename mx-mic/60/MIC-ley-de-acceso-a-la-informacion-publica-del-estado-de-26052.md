@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-acceso-a-la-informacion-publica-del-estado-de-26052"
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-28"
-last_updated: "2007-11-21"
+last_updated: "2008-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO PUBLICADA EN EL P.O. DE 7 DE NOVIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el miércoles 28 de agosto de 2002.
 
@@ -672,3 +674,33 @@ En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Es
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Acceso a la Información Pública del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el 28 de agosto de 2002.
+
+###### ARTÍCULO TERCERO.
+
+El personal de la Comisión pasará a formar parte del Instituto. Los actuales Comisionados pasarán a formar parte del Instituto como Consejeros.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto y los sujetos obligados deberán emitir la reglamentación correspondiente, dentro del plazo de sesenta días, contados a partir de la entrada en vigencia de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Los sujetos obligados por esta Ley deberán implementar el procedimiento para la solicitud de información vía electrónica a más tardar dentro de los ciento ochenta días después de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+El patrimonio, las obligaciones civiles, mercantiles, administrativas, fiscales y laborales adquiridas por la Comisión Estatal de Acceso a la Información Pública del Estado de Michoacán, pasarán a formar parte y serán reconocidas por el Instituto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos en trámite ante la Comisión Estatal de Acceso a la Información Pública del Estado de Michoacán, serán sustanciados y resueltos por el Instituto en los términos de la Ley anterior.
