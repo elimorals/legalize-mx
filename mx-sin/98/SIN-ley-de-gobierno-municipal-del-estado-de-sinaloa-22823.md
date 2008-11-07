@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2004-08-13"
+last_updated: "2008-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2008.
 
-Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 26 de noviembre de 2001.
+Ley publicada en el Periódico Oficial de Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
 GOBIERNO DEL ESTADO
 
@@ -495,7 +495,11 @@ I. Dirigir el gobierno y la administración pública municipal y proponer al Ayu
 
 II. Presidir las sesiones y dirigir los debates del Ayuntamiento, tomando parte en las deliberaciones con voz y voto;
 
-III. Rendir el segundo sábado de diciembre de cada año, ante el Cabildo reunido en sesión solemne, un informe por escrito sobre el estado que guarde la administración municipal, del cual enviará copia al Ejecutivo y al Congreso del Estado;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2008)</small>
+
+III. Rendir en la primera sesión ordinaria del mes de diciembre, un informe por escrito ante el Cabildo sobre la situación que guarda la administración municipal, del cual se enviará copia al Ejecutivo y al Congreso del Estado para su conocimiento.
+
+Las Comisiones del Cabildo realizarán el análisis del informe y podrán solicitar al Presidente Municipal dentro de los quince días siguientes ampliar la información mediante pregunta por escrito y citar a los miembros de la Administración Pública Municipal, quienes comparecerán y rendirán informes bajo protesta de decir verdad. El ejercicio de estas atribuciones se realizará de conformidad con el reglamento que para tal efecto se emita;
 
 IV. Cumplir y hacer cumplir las disposiciones legales de los diversos ordenamientos municipales;
 
@@ -1348,3 +1352,9 @@ P.O. 13 DE AGOSTO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 7 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
