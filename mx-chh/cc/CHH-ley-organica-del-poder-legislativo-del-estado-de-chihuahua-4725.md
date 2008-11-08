@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2008-05-10"
+last_updated: "2008-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -782,6 +782,40 @@ Las comisiones, previo acuerdo de sus integrantes, podrán recabar informes de l
 En las comparecencias de los servidores públicos ante las comisiones, el Presidente cuidará que se lleven en forma ordenada y de que todos sus miembros tengan igual oportunidad de participación.
 
 Las comisiones podrán igualmente invitar a estar presentes en sus reuniones de trabajo a personas que por razón de su oficio, ocupación o profesión posean conocimientos útiles para el mejor cumplimiento de las tareas propias de las comisiones, para lo cual sus presidentes extenderán directamente la invitación.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+
+###### Art. 56 Bis.
+
+Las comparecencias de los servidores públicos deberán llevarse a cabo bajo el siguiente procedimiento:
+
+I.- La Comisión o Comisiones del H. Congreso del Estado que consideren necesaria la comparecencia de cualquier servidor público, deberán de enviar la solicitud debidamente fundada a la Junta de Coordinación Parlamentaria, para que ésta analice su viabilidad y la autorice en su caso.
+
+II.- Recibida la autorización de la Junta de Coordinación Parlamentaria para la celebración de la comparecencia, la Comisión o Comisiones procederán a enviarle al funcionario el citatorio correspondiente, al menos con diez días hábiles de anticipación a aquél en que deberá presentarse a comparecer, el cual deberá contener al menos los siguientes puntos:
+
+a) El día, hora y lugar de la comparecencia, y
+
+b) El tema o temas sobre los que versará la comparecencia.
+
+De igual forma, se deberá hacer del conocimiento de la totalidad de los legisladores integrantes del Congreso, sobre los términos de la comparecencia del servidor público de que se trate.
+
+III.- El servidor público deberá de presentar por escrito lo correspondiente al tema requerido, con al menos cuarenta y ocho horas de anticipación, al o los Presidentes de la o las Comisiones que solicitaron su comparecencia.
+
+IV.- El servidor público podrá comparecer acompañado con su equipo de trabajo y de asesores, quienes lo podrán apoyar en cualquier momento.
+
+V.- Las comparecencias tendrán como duración un máximo de cuatro horas, pudiendo a petición del Presidente de la Comisión, decretar un receso razonable y continuar con la misma hasta que se considere por la o las Comisiones agotado el tema.
+
+En caso de que se agote el tiempo establecido en el párrafo anterior, se volverá a citar al servidor público, en los términos de la fracción I de este artículo.
+
+VI.- Al comparecer el servidor público, la exposición será en etapas, sin que éstas excedan de ocho minutos y, al término de las mismas, se procederá a una etapa de preguntas con un máximo de tres minutos por cada una de ellas y de respuestas por un máximo de cinco minutos por cada una; así mismo, se tendrá una etapa de réplica con una duración máxima de un minuto y de contrarréplica con una duración máxima de tres minutos, por parte de los integrantes de la Comisión ante la cual comparece, siempre y cuando las preguntas sean relacionadas con el tema para el cual fue citado el compareciente.
+
+Para esta etapa, el recinto en el cual se lleve a cabo la comparecencia deberá contar con un reloj o cronómetro a la vista de todos los de la mesa para tomar y respetar los tiempos señalados anteriormente.
+
+AsÍ (sic) mismo, podrán participar con hasta seis preguntas, cada representación política en el Congreso.
+
+VII.- El servidor público podrá asistir a la comparecencia acompañado de su equipo de trabajo y asesores.
+
+VIII.- En caso grave o de urgencia, considerados así por la Comisión correspondiente y avalado por la Junta de Coordinación Parlamentaria, el servidor público será citado para que comparezca a la brevedad, siguiendo las reglas del presente artículo para el desahogo de la comparecencia, sin observar los plazos establecidos en las fracciones II, y III del mismo.
 
 > <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
 
@@ -2200,3 +2234,7 @@ P.O. 10 DE MAYO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 Esta reforma entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2008.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
