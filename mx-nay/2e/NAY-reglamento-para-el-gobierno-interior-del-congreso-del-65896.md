@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-el-gobierno-interior-del-congreso-del-65896"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-16"
-last_updated: "2008-08-16"
+last_updated: "2008-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2008.
 
 Reglamento publicado en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -1311,7 +1311,7 @@ III. La presidencia de la Mesa Directiva acordará la ubicación de los servidor
 
 IV. Cuando el Gobernador del Estado rinda protesta para asumir el ejercicio de su cargo, los diputados y el público permanecerán de pie, guardando respetuoso silencio, y (sic)
 
-V. El presidente del Congreso permanecerá sentado cuando ingresen comparecientes o invitados hasta el lugar del estrado.
+V. El presidente del Congreso permanecerá sentado cuando ingresen comparecientes o invitados hasta el lugar del estrado;
 
 VI. En las Sesiones del Congreso y de la Diputación Permanente, el Presidente, ocupará siempre la curul situada al lado derecho del presidium y el Vicepresidente estará a su lado izquierdo. Los secretarios se sentarán sin preferencia alguna.
 
@@ -1841,35 +1841,43 @@ La autenticidad del contenido del diario de los debates así como la oportunidad
 
 #### Sección Única. Comparecencias e Interpelaciones
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 144.
 
-De conformidad a lo dispuesto por la Constitución Local, el Titular del Poder Ejecutivo, el día previo a la presentación del Informe de Gobierno comparecerá ante las Comisiones Legislativas, con las que entablará un diálogo fundado en el respeto a la pluralidad y libertad de expresión.
+De conformidad a lo dispuesto por la Constitución Local, el Congreso recibirá el informe que por escrito presente el Gobernador, sobre el estado general que guarda la Administración Pública.
 
-Para los efectos previstos por el párrafo anterior, la Comisión de Gobierno emitirá acuerdo mediante el cual se determine el formato de dicho encuentro.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 145.
 
-Con antelación a la comparecencia del Gobernador, y para los efectos de la evaluación correspondiente, los titulares de las dependencias y entidades de la administración pública centralizada y descentralizada, respectivamente, previa calendarización autorizada por la Asamblea, comparecerán ante las Comisiones Legislativas para informar sobre sus respectivos ramos de conformidad con el siguiente formato:
+El análisis del informe se realizará enunciativamente de conformidad a las siguientes prescripciones:
 
-I. La comparecencia estará presidida por el presidente de la Comisión que por su propia denominación se identifique con el ámbito competencial de la dependencia;
+I. La Asamblea procederá al desahogo del análisis dentro de los quince días naturales de iniciado el periodo ordinario de sesiones respectivo, en los términos del Acuerdo aprobado por la Comisión de Gobierno;
 
-II. De ser competente más de una comisión, se estará a lo acordado por la Asamblea al momento de resolver la calendarización de las comparecencias;
+II. Concluido el análisis, la Asamblea podrá acordar preguntas al Gobernador para que amplíe por escrito la información;
 
-III. El titular de la dependencia hará una explicación del ramo a su cargo que no excederá de sesenta minutos, con apoyo de todos los medios que considere pertinentes a fin de que ésta sea lo más completa y basada en datos objetivos;
+III. Igualmente la Asamblea podrá acordar preguntas a los titulares de la administración pública centralizada y descentralizada y al Procurador General de Justicia para que amplíen por escrito la información, las cuales deberán ser respondidas en un término no mayor a quince días naturales a partir de su recepción;
 
-IV. Concluida la exposición se abrirá el debate en el que podrán participar todos los diputados presentes;
+IV. Si del análisis del informe y de las respuestas resultaren elementos para citar a los titulares de la administración pública centralizada y descentralizada y al Procurador General de Justicia, la Asamblea podrá hacerlo para que comparezcan ante ella y rindan un informe sobre el estado que guardan sus respectivos ramos;
 
-V. El orden de participación de los diputados será conforme lo soliciten;
+V. Las comparecencias se sujetarán a las siguientes reglas y de resultar necesario al formato que para tal efecto apruebe la Asamblea:
 
-VI. El debate lo definirá la Presidencia;
+a) Previamente a la exposición, el Presidente de la Mesa Directiva solicitará la manifestación expresa de que la comparecencia la realiza bajo protesta de decir verdad, de conformidad a lo dispuesto por la Constitución Local;
 
-VII. Los diputados se concretarán a formular las preguntas que consideren oportunas, contando con un tiempo máximo de cinco minutos;
+b) El compareciente hará una explicación del ramo a su cargo que no excederá de sesenta minutos, con apoyo de todos los medios que considere pertinentes a fin de que ésta sea completa y objetiva;
 
-VIII. La respuesta del compareciente se ajustará a un tiempo máximo de 10 minutos y concluida esta, el diputado tendrá derecho a replicar de inmediato por un tiempo de hasta cinco minutos;
+c) Concluida la exposición se abrirá el debate en el que podrán participar todos los diputados, en una sola ocasión y con derecho de réplica;
 
-IX. Para finalizar el debate el compareciente podrá tener una participación final para formular sus conclusiones ajustándose a un tiempo máximo de quince minutos; y
+d) El orden de las participaciones de los diputados y del compareciente lo coordinará el Presidente de la Mesa Directiva;
 
-X. La clausura de los trabajos podrá correr a cargo del presidente de la Comisión o de algún diputado integrante de la Comisión de Gobierno.
+e) Los diputados se concretarán a formular preguntas contando con un tiempo máximo de cinco minutos;
+
+f) Por cada participación, la respuesta del compareciente se ajustará a un tiempo máximo de diez minutos y concluida ésta, el diputado tendrá derecho de réplica de inmediato por un tiempo de hasta cinco minutos;
+
+g) Para finalizar el debate el compareciente deberá tener una participación a efecto de formular sus conclusiones ajustándose a un tiempo máximo de quince minutos; y
+
+h) Si de las comparecencias de los servidores públicos existiera inconformidad por parte de la Asamblea, ésta podrá acordar lo conducente y lo comunicará al Gobernador para los efectos legales correspondientes.
 
 ###### Artículo 146.
 
@@ -2784,6 +2792,12 @@ Generales 83
 ### Capítulo II. Secretaría General del Congreso 67
 
 #### Sección Tercera. Unidad de Transparencia y Acceso a la Información 90
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE NOVIEMBRE DE 2008.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 ## TÍTULO CUARTO. Organización y Funciones Administrativas del Congreso
 
