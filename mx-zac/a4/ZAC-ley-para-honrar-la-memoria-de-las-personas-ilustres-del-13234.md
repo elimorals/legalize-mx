@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-honrar-la-memoria-de-las-personas-ilustres-del-13234"
 country: "mx"
 rank: "ley"
 publication_date: "1978-05-27"
-last_updated: "1978-05-27"
+last_updated: "2008-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY PARA HONRAR LA MEMORIA DE LAS PERSONAS ILUSTRES DEL ESTADO DE ZACATECAS -ANTES LEY PARA HONRAR LA MEMORIA DE LOS ZACATECANOS ILUSTRES-
 
-LEY PARA HONRAR LA MEMORIA DE LOS ZACATECANOS ILUSTRES
+LEY PARA HONRAR LA MEMORIA DE LAS PERSONAS ILUSTRES DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 27 de mayo de 1978.
 
@@ -37,9 +37,13 @@ EL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS.
 
 DECRETA:
 
-LEY PARA HONRAR LA MEMORIA DE LOS ZACATECANOS ILUSTRES
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
-### CAPITULO PRIMERO. DE LOS RESTOS QUE PODRAN SER DEPOSITADOS EN EL MAUSOLEO DE LOS HOMBRES ILUSTRES
+LEY PARA HONRAR LA MEMORIA DE LAS PERSONAS ILUSTRES DEL ESTADO DE ZACATECAS
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+
+### CAPITULO PRIMERO. DE LOS RESTOS QUE PODRAN SER DEPOSITADOS EN EL MAUSOLEO DE LAS PERSONAS ILUSTRES
 
 ###### ARTICULO 1o.
 
@@ -77,9 +81,11 @@ El honor de ser acogidos sus restos en el Mausoleo sólo podrá ser conferido a 
 
 La iniciativa de Ley deberá emanar del Ejecutivo, como culminación de un expediente en que se hayan observado las formalidades instituídas en este capítulo.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 6o.
 
-El expediente podrá ser incoado por propia determinación del Ejecutivo o solicitud de cualquier Institución Pública o Privada, que sea representativa de intereses generales o cuyos fines estén constituídos por el mejoramiento de la colectividad en cualquiera de las formas de la convivencia humana, oyendo cuando lo juzgue conveniente la opinión de personas físicas o morales que estime necesarias, para honrar la memoria de los Zacatecanos Ilustres.
+El expediente podrá ser incoado por propia determinación del Ejecutivo o a solicitud de cualquier Institución Pública o Privada, que sea representativa de intereses generales o cuyos fines estén constituidos por el mejoramiento de la colectividad en cualquiera de las formas de la convivencia humana, oyendo cuando lo juzgue conveniente la opinión de personas físicas o morales que estime necesarias, para honrar la memoria de las Personas Ilustres.
 
 ###### ARTICULO 7o.
 
@@ -133,21 +139,29 @@ El Gobernador del Estado podrá suspender o diferir el traslado cuando se oponga
 
 ### CAPITULO CUARTO. DE LA CONSERVACION Y MANTENIMIENTO DEL MAUSOLEO Y ORGANIZACION DE ACTOS DIVERSOS EN EL MISMO
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 19o.
 
-El mantenimiento, limpieza y mejoramiento del Mausoleo de los Hombres Ilustres de esta ciudad que se llevará a cabo por medio de la Dirección de Obras Públicas del Gobierno del Estado.
+El mantenimiento, limpieza y mejoramiento del Mausoleo de las Personas Ilustres de esta ciudad que se llevará a cabo por medio de la Secretaría de Obras Públicas del Gobierno del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 20o.
 
-La Dirección de Educación Pública del Estado tendrá las siguientes atribuciones:
+La Secretaría de Educación y Cultura tendrá las siguientes atribuciones:
 
 I. Organizar las ceremonias públicas, conjuntamente con las Instituciones que crea convenientes, para el depósito de los restos de cada una de las personas en favor de quienes, de acuerdo con la presente Ley, se dicierne (sic) tal honor.
 
-II. Presentar ante las autoridades correspondientes toda clase de iniciativa que tenga por objeto mejorar el culto a la memoria de los Zacatecanos Ilustres.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+
+II. Presentar ante las autoridades correspondientes toda clase de iniciativa que tenga por objeto mejorar el culto a la memoria de las Personas Ilustres.
 
 III. Organizar visitas, guardias, depósito de ofrendas y ceremonias públicas en que participen grupos de niños y jóvenes escolares, personalidades oficiales de los diversos Municipios del Estado, Misiones, Delegaciones o Representaciones del Gobierno Federal o de los Estatales, o de Instituciones y Organizaciones Zacatecanas, Nacionales o Extranjeras.
 
-IV. Emitir opinión, cuando para ello sea requerida por el Ejecutivo, sobre la conveniencia o méritos para incoar expediente en favor de determinada persona para promover que sus restos sean depositados en el Mausoleo de los Zacatecanos Ilustres.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+
+IV. Emitir opinión, cuando para ello sea requerida por el Ejecutivo, sobre la conveniencia o méritos para incoar expediente en favor de determinada persona para promover que sus restos sean depositados en el Mausoleo de las Personas Ilustres.
 
 V. Dictaminar, previo estudio que lleve a cabo por sí o por medio de comisiones auxiliares que específicamente designe en cada caso, sobre los méritos que deban hacerse valer para fundamentar la resolución del Ejecutivo a que se refiere el artículo 13 de la presente Ley.
 
@@ -173,6 +187,16 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
 
 FERNANDO PAMANES ESCOBEDO
 
-EL SECRETARIO GENERAL DE GOBIERNO
+EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. URIEL MARQUEZ VALERIO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE NOVIEMBRE DE 2008.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Dentro del término de sesenta días naturales a la entrada en vigor de este Decreto, el Ejecutivo del Estado en coordinación con el Ayuntamiento de Zacatecas, realizará las obras necesarias para que se sustituya el término "Hombres Ilustres" que se encuentra grabado en el Mausoleo ubicado en el Crestón del Cerro de la Bufa de la Ciudad de Zacatecas, por la expresión "Personas Ilustres".
+
+Tercero.- Se derogan las disposiciones que contravengan el presente Decreto.
