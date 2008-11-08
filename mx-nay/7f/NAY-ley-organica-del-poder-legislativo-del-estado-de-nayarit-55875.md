@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2008-03-01"
+last_updated: "2008-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2008.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -483,7 +483,9 @@ XVII. Llevar, con acuerdo del presidente de la Comisión de Gobierno, la represe
 
 XVIII. Presentar por escrito un informe de actividades al concluir su encargo; y
 
-XIX. Contestar el informe que rinda el titular del Poder Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+
+XIX. Recibir el informe que rinda el titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 48.
 
@@ -1126,3 +1128,7 @@ Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Const
 P.O. 1 DE MARZO DE 2008.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2008.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado.
