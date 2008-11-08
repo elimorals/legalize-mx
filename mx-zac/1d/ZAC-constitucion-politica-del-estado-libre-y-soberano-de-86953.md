@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2008-08-30"
+last_updated: "2008-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2008.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -1343,11 +1343,15 @@ El Procurador y sus agentes se someterán estrictamente a las disposiciones de l
 
 ###### Artículo 90.
 
-El ejercicio del Poder Judicial del Estado se deposita en un Tribunal Superior de Justicia, en un Tribunal Estatal Electoral, en un Tribunal de lo Contencioso Administrativo, en Juzgados de primera instancia y municipales.
+El ejercicio del Poder Judicial del Estado se deposita en un Tribunal Superior de Justicia, en un Tribunal Estatal Electoral, en un Tribunal de lo Contencioso Administrativo, en un Tribunal Especializado en Justicia para Adolescentes, Juzgados de primera instancia y municipales.
 
 Corresponde a los tribunales del Estado la facultad de aplicar las leyes en asuntos del orden común, así como en materia federal cuando las leyes los faculten.
 
 Las leyes establecerán los medios necesarios para que se garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+
+La ley determinará la organización, competencia y funcionamiento del Tribunal Especializado en Justicia para Adolescentes.
 
 ###### Artículo 91.
 
@@ -1369,7 +1373,7 @@ Los Magistrados y Jueces no podrán en ningún caso aceptar y desempeñar empleo
 
 #### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 95.
 
@@ -1451,33 +1455,37 @@ III. Conocer como Jurado de Sentencia en los casos previstos por el Título VII 
 
 IV. Dirimir los conflictos que surjan entre los municipios y los Poderes Legislativo y Ejecutivo del Estado, o entre aquéllos, que no sean de los previstos por la fracción XXVIII del artículo 65 de esta Constitución o que se refieran a la materia electoral; sin perjuicio de lo dispuesto en el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
 
-V. Nombrar a los demás trabajadores al servicio del Poder Judicial, así como adscribir a Jueces y trabajadores de un Juzgado a otro o a distrito distinto; admitirles sus renuncias; concederles, sin goce de sueldo, las licencias que soliciten para separarse del despacho; destituirlos o suspenderlos hasta por tres meses, previa audiencia del interesado, por causa grave justificada que no dé lugar a que se le enjuicie, e imponerles las sanciones económicas que determinen las leyes;
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
-VI. Conceder licencias a Magistrados, Jueces y trabajadores de confianza del Poder Judicial, según lo establezca su Ley Orgánica y reglamentos, así como a los trabajadores de base conforme a la Ley del Servicio Civil;
+V. Enviar la propuesta de terna para la elección de Magistrado Especializado en Justicia para Adolescentes, a la Legislatura del Estado, para su designación;
+
+VI. Nombrar a los demás trabajadores al servicio del Poder Judicial, así como adscribir a Jueces y trabajadores de un Juzgado a otro o a distrito distinto; admitirles sus renuncias; concederles, sin goce de sueldo, las licencias que soliciten para separarse del despacho; destituirlos o suspenderlos hasta por tres meses, previa audiencia del interesado, por causa grave justificada que no dé lugar a que se le enjuicie, e imponerles las sanciones económicas que determinen las leyes;
+
+VII. Conceder licencias a Magistrados, Jueces y trabajadores de confianza del Poder Judicial, según lo establezca su Ley Orgánica y reglamentos, así como a los trabajadores de base conforme a la Ley del Servicio Civil;
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 1999)</small>
 
-VII. Supervisar el estado de la Administración de Justicia en los juzgados de primera instancia y municipales.
+VIII. Supervisar el estado de la Administración de Justicia en los juzgados de primera instancia y municipales.
 
-VIII. Ejercer y administrar en forma autónoma el presupuesto de egresos que apruebe anualmente la Legislatura del Estado;
+IX. Ejercer y administrar en forma autónoma el presupuesto de egresos que apruebe anualmente la Legislatura del Estado;
 
-IX. Formular y aplicar los exámenes de oposición a los aspirantes a Jueces de primera instancia;
+X. Formular y aplicar los exámenes de oposición a los aspirantes a Jueces de primera instancia;
 
-X. Emitir opinión acerca de la legalidad de una ley antes de que sea publicada, siempre que lo solicite el Gobernador del Estado, la cual en ningún caso se hará pública; y (sic)
+XI. Emitir opinión acerca de la legalidad de una ley antes de que sea publicada, siempre que lo solicite el Gobernador del Estado, la cual en ningún caso se hará pública; y (sic)
 
 > <small>(ADICIONADA, P.O. 26 DE MAYO DE 1999)</small>
 
-XI. Establecer la distritación judicial de conformidad con las reglas que contemple la ley;
+XII. Establecer la distritación judicial de conformidad con las reglas que contemple la ley;
 
 > <small>(ADICIONADA, P.O. 10 DE MAYO DE 2000)</small>
 
-XII. Establecer la jurisprudencia del Tribunal Superior de Justicia y resolver las contradicciones, en base a las ejecutorias de las Salas, en términos de ley;
+XIII. Establecer la jurisprudencia del Tribunal Superior de Justicia y resolver las contradicciones, en base a las ejecutorias de las Salas, en términos de ley;
 
 > <small>(ADICIONADA, P.O. 10 DE MAYO DE 2000)</small>
 
-XIII. Ejercer, en forma independiente al presupuesto de egresos, el Fondo Auxiliar para la Administración de Justicia;
+XIV. Ejercer, en forma independiente al presupuesto de egresos, el Fondo Auxiliar para la Administración de Justicia;
 
-XIV. Las demás facultades y obligaciones que les señalen esta Constitución y las leyes.
+XV. Las demás facultades y obligaciones que les señalen esta Constitución y las leyes.
 
 ###### Artículo 101.
 
@@ -2694,3 +2702,15 @@ P.O. 30 DE AGOSTO DE 2008.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2008.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Dentro del término de treinta días naturales siguientes a la entrada en vigor de este Decreto, el Tribunal Superior de Justicia someterá a consideración de la Legislatura del Estado, la terna correspondiente para nombrar al Magistrado Especializado en Justicia para Adolescentes.
+
+Artículo tercero.- El Poder Judicial del Estado procederá a organizar administrativa, jurisdiccional y orgánicamente el funcionamiento del Tribunal que se crea.
+
+Artículo cuarto.- Deberán dejarse sin efecto las medidas provisionales tomadas por el Pleno del H. Tribunal Superior de Justicia del Estado, en cumplimiento del artículo tercero transitorio de la Ley de Justicia para Adolescentes, para establecerse la vigencia plena de la referida Ley.
+
+Artículo quinto.- Se derogan las disposiciones que contravengan este Decreto.
