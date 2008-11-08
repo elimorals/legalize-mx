@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-instituciones-politicas-y-procedimientos-6914"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-12"
-last_updated: "1997-10-09"
+last_updated: "2008-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 CODIGO DE INSTITUCIONES POLITICAS Y PROCEDIMIENTOS ELECTORALES DE OAXACA (CIPPEO)
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 1997.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE INSTITUCIONES POLITICAS Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 8 DE NOVIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en el Periódico Oficial del Estado de Oaxaca, el miércoles 12 de febrero de 1992.
 
@@ -5028,3 +5030,25 @@ QUINTO.- En todos los artículos que se haga referencia a Consejeros Ciudadanos 
 P.O. 9 DE OCTUBRE DE 1997.
 
 ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2008.
+
+PRIMERO.- El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se abroga el Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca, aprobado por Decreto No. 185, de fecha 30 de enero de 1992, y publicado en el Extra del Periódico Oficial de fecha 12 de febrero de 1992.
+
+TERCERO.- Para los efectos de la renovación escalonada del Consejo General del Instituto a que se refiere el artículo 86 párrafo 2 de este Código, los consejeros Electorales y el Consejero Presidente del Instituto designados mediante decreto número 177 publicado en el Periódico Oficial del Gobierno del Estado de Oaxaca de fecha 16 de febrero del año 2008, continuarán en sus cargos hasta el 08 de abril del 2011, en tanto concluye el periodo para el que fueron nombrados; en consecuencia, la reforma mencionada entrará en vigor el 08 de abril del año 2011, para lo cual el Congreso del Estado procederá a integrar el Consejo General del Instituto, conforme a las siguientes bases:
+
+a) Elegirá a un nuevo Consejero Presidente cuyo mandato concluirá el 08 de abril del 2014; llegado el caso, el así nombrado podrá ser ratificado por una sola vez, en los términos de lo establecido en el citado artículo 86 párrafo 2 de este Código;
+
+b) Elegirá tres nuevos Consejeros Electorales, cuyo mandato concluirá el 08 de abril del 2013;
+
+c) Elegirá, tres nuevos Consejeros Electorales cuyo mandato concluirá el 08 de abril del 2015.
+
+CUARTO.- El financiamiento público estatal a que se refiere el artículo 62 del Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca, será actualizado por el Consejo General del Instituto Estatal Electoral, para los años 2009 y 2010.
+
+QUINTO.- La integración y funcionamiento del Tribunal Estatal Electoral formará parte de este Código hasta en tanto se reforme la Ley Orgánica del Poder Judicial del Estado de Oaxaca.
+
+SEXTO.- En relación al artículo 286 párrafo 2 de este Código, el Contralor deberá ser nombrado dentro de los treinta días posteriores a su entrada en vigor.
+
+SÉPTIMO.- Se derogan todas las disposiciones que se opongan al presente Código.
