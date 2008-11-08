@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-alumnos-de-la-universidad-tecnologica-de-23700"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-16"
-last_updated: "2008-04-12"
+last_updated: "2008-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE ALUMNOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2008.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 16 de febrero de 2002.
 
@@ -465,11 +465,17 @@ I. Tener integrado debidamente su expediente académico y administrativo;
 
 II. Haber cursado y aprobado todas las asignaturas de la carrera;
 
-III. Haber realizado la estadía y presentar la memoria correspondiente, en un plazo de 15 días naturales después del término de ésta, debidamente aprobado por el Tutor Empresarial y el Tutor Académico, así como requisitado de acuerdo al Reglamento de Estadías;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
-IV. Presentar examen profesional dentro de los 30 días naturales siguientes a la recepción de la memoria, mismo que consistirá en la exposición oral por parte del alumno del contenido del reporte de estadía ante el Director de Carrera, Tutor Académico y opcionalmente el Tutor Empresarial donde se realizó la estadía, y la contestación del interrogatorio formulado por los sinodales. El examen podrá ser público o privado, a elección del alumno;
+III. Haber liberado el Servicio Social;
 
-V. Los casos de alumnos que presenten su examen de manera extemporánea, después de los 30 días naturales siguientes a la recepción de la memoria, se someterán al dictamen del Director de Vinculación, el Director de Carrera y el Tutor Académico.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+
+IV. Haber realizado la Estadía, aprobado la memoria correspondiente, y presentado las conclusiones de la misma al empresario, de conformidad con el Reglamento de Estadías;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+
+V. Haber presentado el Examen General de Egreso del Técnico Superior Universitario (EGETSU), sobre el cual la Comisión Académica determinará el puntaje mínimo requerido para su aprobación.
 
 ###### Artículo 54.
 
@@ -608,5 +614,9 @@ P.O. 13 DE MARZO DE 2008.
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
 
 P.O. 12 DE ABRIL DE 2008.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
+
+P.O. 8 DE NOVIEMBRE DE 2008.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
