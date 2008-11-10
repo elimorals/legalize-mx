@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-6-2001-de-la-presidencia-4082
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-08-06"
-last_updated: "2001-08-06"
+last_updated: "2008-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40824&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-08-06"
 
 ACUERDO GENERAL DE ADMINISTRACION 6/2001 DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE ESTABLECEN LOS PROCEDIMIENTOS PARA LA ADQUISICION DE BIENES, LA CONTRATACION DE SERVICIOS, USOS, OBRA PUBLICA Y DESINCORPORACION DE BIENES QUE REQUIERA LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACION VI/2008, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 10 DE NOVIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: DEROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XIV, Agosto de 2001, página 1459.
 
@@ -2010,3 +2012,21 @@ SEXTO.- Cuando se presente alguna queja o inconformidad por los proveedores, pre
 SÉPTIMO.- Publíquese en el Semanario Judicial de la Federación y su Gaceta.
 
 Así lo acordó y firma el Ministro Genaro David Góngora Pimentel, presidente de la Suprema Corte de Justicia de la Nación, a los seis días del mes de agosto del año dos mil uno, ante el secretario de la Contraloría y de Gestión Administrativa, el secretario de Finanzas y Servicios Administrativos y el coordinador general de Asuntos Jurídicos de la Presidencia de la Suprema Corte de Justicia de la Nación, que dan fe.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 10 DE NOVIEMBRE DE 2008.
+
+PRIMERO. El presente Acuerdo General entrará en vigor el doce de noviembre de dos mil ocho.
+
+SEGUNDO. Se deroga el Acuerdo General de Administración 6/2001, del seis de agosto de dos mil uno, de la Presidencia de la Suprema Corte de Justicia de la Nación, por el que se establecen los procedimientos para la adquisición de bienes, la contratación de servicios, usos, obra pública y desincorporación de bienes que requiera la Suprema Corte, así como cualquier otra disposición que se oponga al contenido del presente Acuerdo General.
+
+TERCERO. La división de atribuciones entre la Dirección General de Adquisiciones y Servicios y la Dirección General de Obras y Mantenimiento, así como las conferidas a la Secretaría Ejecutiva de Asuntos Jurídicos, previstas en los artículos 2o., fracción XXIV, 67, fracción II y 166, y las otorgadas a las Casas de la Cultura Jurídica, entrarán en vigor el dos de enero de dos mil nueve, por lo que las facultades respectivas se continuarán ejerciendo por los órganos competentes de conformidad con lo establecido en el Acuerdo General de Administración 6/2001, del seis de agosto de dos mil uno.
+
+CUARTO. Todos los procedimientos de contratación iniciados durante la vigencia del Acuerdo General de Administración 6/2001 que se encuentren pendientes de conclusión, así como los actos de ejecución de los contratos derivados de los mismos, se continuarán tramitando hasta su terminación conforme a las disposiciones de dicho Acuerdo y las aplicables relacionadas con el mismo, salvo en el caso de la ejecución del contrato de obra pública relativos a la restauración y adecuación de la Casa de la Cultura Jurídica en Ario de Rosales, Michoacán y en los procedimientos relativos a la adquisición de material bibliohemerográfico, los que se regirán por lo previsto en las disposiciones aplicables de este Acuerdo General.
+
+QUINTO. Los catálogos referenciales regulados en el Capítulo Primero, del Titulo VII, de este Acuerdo General, se integrarán por la información contenida en el Catálogo de Proveedores, Prestadores de Servicios y Contratistas al que se refiere el título VII del Acuerdo General de Administración 6/2001, en la inteligencia de que durante los dos meses siguientes a la entrada en vigor de este Acuerdo General VI/2008, Adquisiciones y Servicios y Obras y Mantenimiento realizarán las labores necesarias para su adecuación y oportuna separación.
+
+SEXTO. Dentro de los dos meses siguientes a la entrada en vigor de este Acuerdo General, el Comité deberá emitir los lineamientos y formatos previstos en este ordenamiento, sin menoscabo de qué hasta que éstos entren en vigor se continuarán aplicando los vigentes a la fecha.
+
+SEPTIMO. Publíquese este Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
