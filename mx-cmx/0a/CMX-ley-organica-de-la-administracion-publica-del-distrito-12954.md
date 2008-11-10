@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2008-10-21"
+last_updated: "2008-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE NOVIEMBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -710,7 +710,9 @@ X. Actuar como órgano coordinador y enlace con las cámaras, asociaciones y rep
 
 XI. Presidir los comités técnicos, comisiones y órganos de fomento establecidos para el desarrollo económico de la Ciudad;
 
-XII. Proponer y establecer en coordinación con la Oficialía Mayor el marco de actuación y normatividad de las ventanillas de atención al sector productivo;
+> <small>(REFORMADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+XII. Proponer y establecer en coordinación con la Contraloría General el marco de actuación y normatividad de las ventanillas de atención al sector productivo;
 
 XIII. Instrumentar la normatividad que regule, coordine y dé seguimiento a los subcomités de promoción y fomento económico delegacional;
 
@@ -718,7 +720,9 @@ XIV. Mantener la consulta permanente con los organismos y asociaciones represent
 
 XV. Proponer acciones con base en estudios y programas especiales, sobre la simplificación y desregulación administrativa de la actividad económica;
 
-XVI. Atender, en coordinación con la Oficialía Mayor, las ventanillas y centros de gestión y fomento económico, establecidos en las distintas Cámaras, Asociaciones, Colegios y Banca de Desarrollo;
+> <small>(REFORMADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+XVI. Atender, en coordinación con la Contraloría General, las ventanillas y centros de gestión y fomento económico, establecidos en las distintas Cámaras, Asociaciones, Colegios y banca de desarrollo;
 
 XVII. Formular y proponer, en el marco de los programas de desrregulación (sic) y simplificación administrativa, las acciones que incentiven la creación de empresas, la inversión y el desarrollo tecnológico, fortaleciendo el mercado interno y la promoción de las exportaciones;
 
@@ -1094,29 +1098,35 @@ XXIV. Administrar y programar las actividades de los museos, las agrupaciones mu
 
 XXV. Las demás que le confieran las leyes y otros ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 33.
 
-A la Oficialía Mayor corresponde el despacho de las materias relativas a la administración y desarrollo de personal; al servicio público de carrera; a la modernización y simplificación administrativa; los recursos materiales; los servicios generales; el patrimonio inmobiliario; y, en general, la administración interna del Distrito Federal.
+A la Oficialía Mayor corresponde el despacho de las materias relativas a la administración y desarrollo de personal; al servicio público de carrera; a los recursos materiales y a los servicios generales; al patrimonio inmobiliario; y, en general, a la administración interna de la Administración Publica del Distrito Federal.
 
 Específicamente cuenta con las siguientes atribuciones:
 
-I. Proponer al Jefe de Gobierno las medidas técnicas y políticas administrativas para la organización, funcionamiento y modernización de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
 
-II. Diseñar, coordinar e implementar el desarrollo administrativo de las dependencias, órganos desconcentrados y entidades paraestatales que integran la Administración Pública del Distrito Federal;
+I. Proponer a la Contraloría General medidas técnicas y políticas de administración para la organización, y funcionamiento de la Administración Pública del Distrito Federal;
 
-III. Establecer la normatividad y dictaminar las modificaciones a la estructura orgánica de las dependencias, órganos desconcentrados y entidades paraestatales de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
 
-IV. Establecer la normatividad y vigilar la aplicación de los programas de modernización, simplificación, desarrollo y mejoramiento administrativo, cuidando la permanente comunicación con la población en cuanto a sus necesidades respecto de los trámites que realiza y servicios que solicita;
+II. Diseñar, coordinar e implementar en el ámbito de sus atribuciones, las normas, políticas y criterios que en materia de administración interna deben observar las dependencias, órganos desconcentrados y entidades que integran la Administración Pública del Distrito Federal;
 
-V. Establecer la normatividad y vigilar la aplicación a los programas de desconcentración y descentralización del Distrito Federal;
+III. (DEROGADA, G.O. 10 DE NOVIEMBRE DE 2008)
 
-VI. Determinar la política de informática, diseñando los sistemas que se requieran para optimizar el uso y la administración de los recursos;
+IV. (DEROGADA, G.O. 10 DE NOVIEMBRE DE 2008)
 
-VII. Proponer al Jefe de Gobierno las normas y políticas tendientes al desarrollo de las entidades paraestatales;
+V. (DEROGADA, G.O. 10 DE NOVIEMBRE DE 2008)
+
+VI. (DEROGADA, G.O. 10 DE NOVIEMBRE DE 2008)
+
+VII. (DEROGADA, G.O. 10 DE NOVIEMBRE DE 2008)
 
 VIII. Apoyar al Jefe de Gobierno en la conducción de las entidades paraestatales agrupadas en cada subsector, y participar en la elaboración de sus respectivos programas, en congruencia con el Plan Nacional de Desarrollo y el Plan General de Desarrollo del Distrito Federal;
 
-IX. Recibir, clasificar, sistematizar y automatizar, a través del órgano que al efecto se establezca, la información que en las materias registral, normativa, de trámites, servicios y territorial le remitan las áreas competentes, para consulta de las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal y público en general;
+IX. (DEROGADA, G.O. 10 DE NOVIEMBRE DE 2008)
 
 X. Operar la organización, funcionamiento y desarrollo del Servicio Público de Carrera y vigilar su implementación de conformidad con las disposiciones jurídicas aplicables;
 
@@ -1144,15 +1154,17 @@ XXI. Dirigir y coordinar el Sistema de Valuación de Bienes del Gobierno del Dis
 
 XXII. Establecer la normatividad y control sobre la administración y enajenación de bienes del patrimonio de la ciudad, así como el establecimiento de lineamientos para su adquisición, uso y destino; conforme a los ordenamientos jurídicos aplicables;
 
-XXIII. Establecer la normatividad, supervisar y evaluar la operación de las ventanillas de atención ciudadana;
+XXIII. (DEROGADA, G.O. 10 DE NOVIEMBRE DE 2008)
 
 XXIV. Celebrar, otorgar y suscribir los contratos, convenios, escrituras públicas y demás actos jurídicos de cualquier índole, necesarios para el ejercicio de las atribuciones del órgano ejecutivo local, excepto los relativos a obra pública, los servicios relacionados con ésta, la contratación de créditos o firma de títulos crediticios y otros que sean atribución de otra dependencia, unidad administrativa u órgano desconcentrado, o correspondan a una facultad indelegable del Jefe del Gobierno del Distrito Federal, y
 
 XXV. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 34.
 
-A la Contraloría General del Distrito Federal corresponde el despacho de las materias relativas al control y evaluación de la gestión pública de las dependencias, órganos desconcentrados y entidades paraestatales del Distrito Federal.
+A la Contraloría General corresponde el despacho de las materias relativas al control y evaluación de la gestión pública de las dependencias, órganos desconcentrados y entidades que integran la Administración Pública del Distrito Federal, así como el desarrollo, modernización, innovación y simplificación administrativos, y la atención ciudadana.
 
 Específicamente cuenta con las siguientes atribuciones:
 
@@ -1218,9 +1230,63 @@ XXX. A través del Órgano de Control Interno de la Contraloría General, vigila
 
 XXXI. Establecer, en coordinación con la Oficialía Mayor y la Secretaría de Finanzas, políticas o lineamientos en materia de adquisiciones, arrendamientos, desincorporación de activos, servicios y obra pública de la Administración Pública del Distrito Federal, a efecto de eficientar los recursos y transparentar el manejo de los mismos;
 
-XXXII. Intervenir directamente o como coadyuvante, ante las autoridades administrativas o judiciales, en todos los asuntos en que la Contraloría General sea parte, cuando tenga interés jurídico o se afecte el patrimonio del Gobierno del Distrito Federal, y éstos se encuentren relacionados con la (sic) facultades que tiene encomendadas, pudiendo delegar tal atribución, tomando en cuenta la importancia que el asunto revista para el interés público, y
+XXXII. Intervenir directamente o como coadyuvante, ante las autoridades administrativas o judiciales, en todos los asuntos en que la Contraloría General sea parte, cuando tenga interés jurídico o se afecte el patrimonio del Gobierno del Distrito Federal, y éstos se encuentren relacionados con la (sic) facultades que tiene encomendadas, pudiendo delegar tal atribución, tomando en cuenta la importancia que el asunto revista para el interés público, y (sic)
 
-XXXIII. Las demás que le atribuyan expresamente las leyes y reglamentos.
+> <small>(REFORMADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+XXXIII. Proponer al Jefe de Gobierno medidas técnicas y políticas para simplificar, modernizar e innovar la actuación administrativa de la Administración Publica del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+XXXIV. Diseñar, coordinar y normar el desarrollo, simplificación, modernización e innovación de la actuación administrativa de las dependencias, órganos desconcentrados y entidades que integran la Administración Publica del Distrito Federal, así como los programas y acciones relativas;
+
+> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+XXXV. Establecer la normatividad y dictaminar las modificaciones a la estructura orgánica de las dependencias, órganos desconcentrados y entidades paraestatales de la Administración Pública del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+XXXVI. Normar y vigilar la aplicación de las medidas de desconcentración y descentralización administrativas que resulten de los procesos de modernización de la Administración Publica del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+XXXVII. Normar, vigilar y evaluar los programas de modernización y simplificación administrativa procurando la permanente comunicación con la población en cuanto a sus necesidades respecto de los trámites que gestiona y de los servicios que solicita;
+
+> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+XXXVIII. Determinar y conducir la política de atención ciudadana y normar, supervisar y evaluar la operación de las unidades de atención al público;
+
+> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+XXXIX. Determinar y conducir la política informática y de telecomunicaciones y normar la elaboración de los sistemas y la adquisición o arrendamiento de bienes y servicios relacionados, dando a la oficialía Mayor, la participación que en el ámbito de su competencia le corresponde;
+
+> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+XL. Proponer al Jefe de Gobierno las normas y políticas para el desarrollo, modernización, simplificación e innovación de la actuación administrativa de las entidades paraestatales;
+
+> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+XLI. Conducir las políticas de modernización, simplificación y desregulación administrativa de la Administración Publica del Distrito Federal, vigilando que las acciones y programas que formulen y ejecuten en esta materia las dependencias, órganos desconcentrados y entidades se orienten a cumplir con esas políticas;
+
+> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+XLII. Coadyuvar con las dependencias, órganos desconcentrados, delegaciones y entidades, en el cumplimiento de las obligaciones de transparencia y acceso a la información pública así como de protección de datos personales;
+
+> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+XLIII. Establecer las normas y procedimientos de evaluación de las aptitudes y el desempeño de los servidores públicos de la Administración Pública, y así como quien desee incorporarse, para su implementación a través de la unidad administrativa que al efecto se establezca;
+
+> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+XLIV. Organizar, conducir y dar seguimiento a los procesos para la evaluación del desempeño de las Dependencias, Órganos Desconcentrados, y Entidades de la Administración Pública del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+XLV. Elaborar, ejecutar y dar seguimiento al programa de Contraloría Ciudadana, estableciendo las normas y procedimientos en la materia; y
+
+> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+XLVI. Las demás que les atribuyan expresamente las leyes y reglamentos.
 
 > <small>N. DE E. PARA SU ENTRADA EN VIGOR VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO.</small>
 
@@ -1925,3 +1991,21 @@ G.O. 21 DE OCTUBRE DE 2008.
 Articulo Primero. El Presente decreto entrará en vigor 30 días después de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Articulo Segundo. Publíquese en la Gaceta Oficial del Distrito Federal y, para su mayor difusión, en el Diario Oficial de la Federación.
+
+G.O. 10 DE NOVIEMBRE DE 2008.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Las referencias hechas en otros ordenamientos legales a la Oficialía Mayor respecto a las materias que por virtud de este decreto dejan de ser de su competencia, se entenderán hechas a la Contraloría General a partir de su entrada en vigor.
+
+CUARTO.- El Jefe de Gobierno del Distrito Federal contara con un plazo de noventa días hábiles para realizar las modificaciones al Reglamento Interior de la Administración Publica del Distrito Federal y demás disposiciones administrativas, a efecto de adecuarlas al presente decreto.
+
+QUINTO.- El personal que, en ejecución del presente decreto, deba ser transferido de una dependencia a otra, no resultara afectado en los derechos que hubiere adquirido en virtud de su relación laboral con la Administración Publica del Distrito Federal.
+
+SEXTO.- En la transferencia de la Unidades Administrativas que por la ejecución del presente decreto deban pasar de una dependencia a otra, se incluirá al personal de servicio, mobiliario, equipo, instrumentos, vehículos, maquinaria, aparatos, archivos y, en general, todos los efectos y dispositivos que se utilicen para la atención de los asuntos a su cargo, así como los recursos presupuestales correspondientes.
+
+SÉPTIMO.- Los Asuntos que a la entrada en vigor del presente decreto se encuentren en tramite y deban ser atendidos por las unidades administrativas objeto de trasferencia, serán resueltos por la dependencia que los recibe, dentro de los plazos establecidos al efecto.
+
+OCTAVO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
