@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-instituto-de-vivienda-del-estado-de-477
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-12"
-last_updated: "2005-12-12"
+last_updated: "2008-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE VIVIENDA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE NOVIEMBRE DE 2008.
 
 Reglamento publicado en la Sección IV del Boletín Oficial del Estado de Sonora, el lunes 12 de diciembre de 2005.
 
@@ -73,17 +73,27 @@ El Consejo Directivo evaluará la forma en que los objetivos serán alcanzados y
 
 El Consejo Directivo estará presidido por el Gobernador del Estado cuando se encuentre presente, en caso contrario, será presidido por el Secretario de Economía en su calidad de Vicepresidente y celebrará sesiones en forma ordinaria y extraordinaria en el lugar, fecha y hora que para el efecto se indique en la respectiva convocatoria.
 
-###### ARTÍCULO 6º.
+> <small>(REFORMADO, B.O. 10 DE NOVIEMBRE DE 2008)</small>
 
-Las sesiones ordinarias se celebrarán por lo menos tres veces al año, y cuantas veces fueren convocados por su Presidente, por conducto del Secretario del Consejo Directivo. Las sesiones extraordinarias se llevarán a cabo, a petición de las personas mencionadas, cuando sea necesario para su debido funcionamiento.
+###### ARTÍCULO 6°.
 
-###### ARTÍCULO 7º.
+El Consejo Directivo del Instituto, deberá sesionar previa convocatoria que realice el Secretario Técnico del propio Órgano, con una periodicidad no menor a cuatro veces al año para la celebración de sesiones ordinarias, pudiendo celebrar además las sesiones extraordinarias que fueren necesarias para tratar asuntos que por su importancia o urgencia lo ameriten.
 
-El Consejo Directivo funcionará válidamente con la asistencia de cinco de sus consejeros con voz y voto, sus decisiones se tomarán por mayoría de votos de los miembros presentes y, en caso de empate, el Presidente o quien preside la sesión de acuerdo al artículo 5° de este Reglamento tendrá voto de calidad.
+En la última sesión ordinaria del Consejo Directivo que se celebre en el año, se acordará el calendario de las sesiones a llevarse a cabo durante el próximo ejercicio.
 
-###### ARTÍCULO 8º.
+> <small>(REFORMADO, B.O. 10 DE NOVIEMBRE DE 2008)</small>
 
-Para la celebración de las sesiones del Consejo Directivo se deberá emitir convocatoria por parte del Director General del Instituto, en su carácter de Secretario del mismo. A la convocatoria se acompañará el orden del día, el proyecto de acta de la sesión anterior y el proyecto documental de los asuntos a tratar, mismos que se harán llegar a los integrantes de dicho Consejo, cuando menos con cinco días hábiles de anticipación a la fecha de celebración de la sesión, cuando ésta tenga carácter de ordinaria y con tres días, cuando sea extraordinaria.
+###### ARTÍCULO 7°.
+
+Para que las sesiones del Consejo Directivo sean válidas, deberán estar presentes cuando menos la mitad mas uno del total de sus miembros, para lo cual el Comisario Público verificará que exista el quórum legal respectivo y, en su caso, el Presidente o quien presida la sesión procederá a declarar la instalación de la misma.
+
+Las decisiones del Consejo se tomarán por mayoría de votos de los miembros presentes y, en caso de empate, el Presidente o quien presida la sesión tendrá voto de calidad.
+
+> <small>(REFORMADO, B.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTÍCULO 8°.
+
+Para la celebración de las sesiones del Consejo Directivo se deberá emitir convocatoria por escrito por parte del Director General del Instituto, en su carácter de Secretario Técnico del mismo. A la convocatoria se acompañará el orden del día, el proyecto de acta de la sesión anterior y el proyecto documental de los asuntos a tratar, así como la documentación necesaria para el análisis señalado y la demás información pertinente, mismos que se harán llegar personalmente a cada uno de los integrantes de dicho Consejo, cuando menos con cinco días hábiles de anticipación a la fecha de celebración de la sesión, cuando ésta tenga carácter de ordinaria, y con cuarenta y ocho horas, cuando sea de carácter extraordinaria.
 
 ###### ARTÍCULO 9º.
 
@@ -127,31 +137,51 @@ III. Las demás que le confiera el presente Reglamento y otras disposiciones leg
 
 Los integrantes del Consejo Directivo tendrán derecho de voz y voto en la toma de decisiones respecto de los asuntos que se traten por dicho Órgano. Las mismas facultades tendrán los suplentes de cada representante propietario, en caso de ausencia de éstos en las sesiones, previa comprobación ante el Presidente del Consejo, de su carácter de suplentes.
 
+> <small>(REFORMADO, B.O. 10 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 13.
 
-Las sesiones se desarrollarán en el siguiente orden:
+Las sesiones que realice el Consejo Directivo se desarrollarán en el siguiente orden:
 
-I. Lista de presentes y declaratoria relativa al quórum;
+I. Lista de Asistencia;
 
-II. Instalación legal de la reunión;
+II. Verificación de quórum legal por parte del Comisario Público y, en su caso, instalación legal de la sesión;
 
-III. Lectura y aprobación, en su caso, del acta de la sesión anterior;
+III. Lectura y aprobación del orden del día;
 
-IV. Discusión y resolución de los puntos comprendidos en el orden del día;
+IV. Lectura y, en su caso, aprobación del acta de la sesión anterior;
 
-V. Consignación de acuerdos;
+V. Informe del Director General;
 
-VI. Asuntos generales; y
+VI. Informe del Comisario;
 
-VII. Clausura de la reunión.
+VII. Lectura, discusión y en su caso aprobación de asuntos;
+
+VIII. Asuntos generales;
+
+IX. Resumen de acuerdos aprobados; y
+
+X. Clausura de la reunión.
+
+> <small>(REFORMADO, B.O. 10 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 14.
 
-En caso de que la reunión convocada no pudiera llevarse a cabo en la fecha prevista, deberá de celebrarse ésta, entre los cinco y quince días hábiles siguientes, o en la nueva fecha que determine el Secretario en acuerdo con el Presidente del Consejo Directivo.
+En caso de que la sesión convocada por el Consejo Directivo no pudiera llevarse a cabo en la fecha programada, deberá celebrarse entre los tres y diez días hábiles siguientes, cuando se trate de sesiones ordinarias, y dentro de las cuarenta y ocho horas siguientes cuando se trate de sesiones extraordinarias, previa notificación correspondiente en ambos casos a los miembros, que realice el Secretario Técnico del Órgano de Gobierno.
+
+> <small>(REFORMADO, B.O. 10 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 15.
 
-El acta de cada sesión deberá ser aprobada por el Consejo Directivo y suscrita por los miembros presentes en la misma, sujetándose al contenido del artículo 13 de este Reglamento.
+De cada sesión el Secretario Técnico deberá levantar un acta en el que conste circunstanciadamente el desarrollo de la misma, señalando el lugar, la fecha y la hora de inicio y termino de ésta, los miembros que se encontraron presentes, la existencia de quórum legal, el orden del día aprobado, las intervenciones, observaciones y los acuerdos aprobados por el Consejo Directivo.
+
+> <small>(ADICIONADO, B.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTÍCULO 15 Bis.
+
+El acta que se levante deberá remitirse para su revisión dentro de los cinco días hábiles siguientes a la fecha de la clausura de la sesión, a los miembros del Consejo Directivo que hubiesen asistido a la sesión respectiva, así como al Comisario Público y Titular del Órgano de Control y Desarrollo Administrativo, quienes podrán formular al Secretario Técnico dentro de los cinco días hábiles siguientes a su recepción, las observaciones que consideren pertinentes con relación al contenido de dicha acta, a efecto de que se realicen las modificaciones que resulten procedentes.
+
+El acta de cada sesión deberá ser aprobada por el Consejo Directivo y suscrita por los miembros presentes de la misma.
 
 ### CAPÍTULO III. DEL DIRECTOR GENERAL
 
@@ -159,7 +189,9 @@ El acta de cada sesión deberá ser aprobada por el Consejo Directivo y suscrita
 
 El Director General del Instituto, además de las facultades y obligaciones que le confiere el artículo 15° del Decreto que lo crea, tendrá las siguientes atribuciones:
 
-I. Conducir el funcionamiento del Instituto vigilando el exacto y oportuno cumplimiento de los acuerdos del Órgano de Gobierno;
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+l. Conducir el funcionamiento del Instituto vigilando el exacto y oportuno cumplimiento de los acuerdos del Consejo Directivo;
 
 II. Acordar con los titulares de las Unidades Administrativas y con los servidores públicos el despacho de los asuntos de la competencia de éstos, cuando así lo considere necesario;
 
@@ -167,9 +199,17 @@ III. Presentar anualmente al Consejo Directivo, dentro de los dos primeros meses
 
 IV. Someter a consideración del Consejo Directivo, el anteproyecto del programa-presupuesto, mismo que deberá elaborarse de conformidad con la legislación aplicable;
 
-V. Someter a consideración del Consejo Directivo los informes del desempeño de las actividades del Instituto, incluyendo el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes. En el informe y documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por el Director General con las metas alcanzadas y las acciones correctivas; y
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2008)</small>
 
-VI. Las demás que le fije el Consejo Directivo, este Reglamento Interior y demás disposiciones legales aplicables.
+V. Someter a consideración del Consejo Directivo los informes del desempeño de las actividades del Instituto, incluyendo el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes. En el informe y documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por el Director General con las metas alcanzadas y las acciones correctivas;
+
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+VI. Implementar las acciones necesarias para el cumplimiento del Sistema Integral de Archivos de acuerdo a la normatividad en la materia; y
+
+> <small>(ADICIONADA, B.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+VII. Las demás que le fije el Consejo Directivo, este Reglamento Interior y demás disposiciones legales aplicables.
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES GENÉRICAS DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -191,9 +231,17 @@ VI. Acordar con el Director General los asuntos de la competencia de la Unidad a
 
 VII. Someter a la consideración del Director General los proyectos de modernización y desarrollo administrativo de la Unidad Administrativa correspondiente, para su mejor funcionamiento y despacho de los asuntos a su cargo;
 
-VIII. Atender al público en los asuntos de la competencia de la Unidad Administrativa bajo su cargo; y
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2008)</small>
 
-IX. Desempeñar las demás atribuciones que les confieran las distintas disposiciones legales y reglamentarias vigentes o les encomiende el Director General.
+VIII. Atender al público en los asuntos de la competencia de la Unidad Administrativa bajo su cargo;
+
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+IX. Coadyuvar en el cumplimiento de la normatividad expedida para el control, organización, circulación y conservación de los documentos y archivo; y
+
+> <small>(ADICIONADA, B.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+X. Desempeñar las demás atribuciones que le confieren las distintas disposiciones legales y reglamentarias vigentes o les encomiende el Director General.
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -291,17 +339,33 @@ VII. Coordinar acciones encaminadas a promover ante las instituciones de crédit
 
 VIII. Coordinar la localización de reservas territoriales, la realización de estudios de viabilidad técnica y financiera para su adquisición, incluyendo la revisión de proyectos, presupuestos, cuantificación de obra y programas de obra;
 
-IX. Promover, evaluar y revisar los proyectos habitacionales en terrenos del Fideicomiso de Reservas Territoriales para Programas de Vivienda;
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2008)</small>
 
-X. Operar y administrar el Fideicomiso Público Traslativo de Dominio y Garantía, de acuerdo a la estructura, lineamientos y normatividad que rige al propio Fideicomiso, según Decreto que lo creó y Reglamento Interior del Fideicomiso;
+IX. Promover, evaluar y revisar los proyectos habitacionales en terrenos del Fideicomiso Patrimonial de Reservas Territoriales;
+
+X. (DEROGADA, B.O. 10 DE NOVIEMBRE DE 2008)
 
 XI. Administrar la reserva territorial, la cual podrá adquirir, poseer y enajenar para los diversos Programas de Vivienda a desarrollarse, coordinándose con los Municipios del Estado;
 
-XII. Operar y administrar el Fideicomiso de Reservas Territoriales para Programas de Vivienda, procurando el mayor rendimiento social y económico del suelo que usufructúan ejidatarios, comuneros y particulares, promoviendo la regularización, transmisión, desarrollo y comercialización de dichas reservas;
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2008)</small>
 
-XIII. Preparar la información técnica para las reuniones del Comité Técnico del Fideicomiso de Reservas Territoriales para Programas de Vivienda; y
+XII. Operar y administrar los fideicomisos públicos que el Gobernador del Estado tenga a bien designarles, o los que en su caso se constituyan en ejercicio de sus facultades;
 
-XIV. Las demás que de manera específica le señale el Director General y la normatividad aplicable.
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+XIII. Preparar información técnica para las reuniones del Consejo Directivo, relativa a los Fideicomisos de Reservas Territoriales que se creen;
+
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+XIV. Implementar y mantener en el Instituto, el Sistema Integral de Archivos, así como elaborar la normatividad de control de administración documental, los procedimientos y criterios específicos de organización de archivos, de acuerdo con la normatividad de la materia;
+
+XV (SIC). (DEROGADA, B.O. 10 DE NOVIEMBRE DE 2008)
+
+XVI (SIC). (DEROGADA, B.O. 10 DE NOVIEMBRE DE 2008)
+
+> <small>(ADICIONADA, B.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+XVII. Las demás que de manera específica le señale el Director General y la normatividad aplicable.
 
 ### CAPÍTULO VI. DEL CONTROL Y VIGILANCIA
 
@@ -323,9 +387,11 @@ En las ausencias del Comisario Público Titular, éste será suplido por el Comi
 
 El Consejo Directivo, el Director General y demás dependientes jerárquicos de éste, en su caso, deberán proporcionar oportunamente al Comisario Público, la información y documentación que requiera para el cumplimiento de sus funciones.
 
+> <small>(REFORMADO, B.O. 10 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 25.
 
-El titular del Órgano de Control y Desarrollo Administrativo y el Comisario Público, asistirán con voz pero sin voto a las sesiones del Consejo Directivo del Instituto, previa citación por escrito que se les formule y notifique con cinco días de anticipación a la fecha de celebración de la sesión, cuando ésta tenga carácter de ordinaria y con tres días, cuando sea extraordinaria.
+El titular del Órgano de Control y Desarrollo Administrativo y el Comisario Público, asistirán con voz pero sin voto a las sesiones del Consejo Directivo del Instituto, previa citación por escrito que se les formule y notifique con cinco días de anticipación a la fecha de celebración de la sesión, cuando ésta tenga carácter de ordinaria y con cuarenta y ocho horas, cuando sea extraordinaria.
 
 ### CAPÍTULO VII. DE LAS RELACIONES LABORALES
 
@@ -418,3 +484,15 @@ Técnica Promoción Administración,
 Finanzas y Reservas
 
 Territoriales
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 10 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Dirección de Administración, Finanzas y Reservas Territoriales participará en el proceso de extinción y traspaso del Fideicomiso Publico Traslativo de Dominio y Garantía denominado "Reservas Territoriales para Programas de Vivienda RH-573", hasta que se concluyan los impedimentos legales que existan para ello, en los términos del Artículo Tercero Transitorio del "Decreto que Extingue el Fideicomiso de Reservas Territoriales para Programas de Vivienda y se autoriza traspasar todos sus activos líquidos y en inmuebles al nuevo Fideicomiso Patrimonial de Reservas Territoriales, que será operado por el Instituto de Vivienda del Estado de Sonora."
