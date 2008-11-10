@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2008-10-10"
+last_updated: "2008-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE NOVIEMBRE DE 2008.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -6974,7 +6974,9 @@ ARTICULO 902
 
 Ninguna tutela puede conferirse sin que previamente se declare el estado de minoridad o de incapacidad de la persona que va a quedar sujeta a ella.
 
-La declaración del estado de minoridad, o de incapacidad por las causas a las que se refiere la fracción II del artículo 450 del Código Civil, pueden pedirse: 1o. por el mismo menor si ha cumplido 16 años; 2o. por su cónyuge; 3o. por sus presuntos herederos legítimos; 4o. por su albacea; 5o. por el Ministerio Público.
+> <small>(REFORMADO, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+La declaración del estado de minoridad, o de incapacidad por las causas a las que se refiere la fracción II del artículo 450 del Código Civil, pueden pedirse: 1º. por el mismo menor si ha cumplido 16 años; 2º. por su cónyuge; 3º. por sus presuntos herederos legítimos; 4º. por su albacea; 5º. por el Ministerio Público; 6º. por la institución pública o privada, de asistencia social que acoja al hijo o hijos del presunto incapaz.
 
 Pueden pedir la declaración de minoridad los funcionarios encargados de ello por el Código Civil.
 
@@ -7224,27 +7226,11 @@ Rendidas las constancias que se exigen en el artículo anterior y obtenido el co
 
 La sentencia consentida por los promoventes causara ejecutoria.
 
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
+ARTICULO 925 (DEROGADO, G.O. 10 DE NOVIEMBRE DE 2008)
 
-ARTICULO 925
+ARTICULO 925 A (DEROGADO, G.O. 10 DE NOVIEMBRE DE 2008)
 
-Cuando el adoptante y el adoptado pidan que la adopción simple sea revocada, el Juez los citará a una audiencia verbal, para que dentro de los tres días siguientes, se resuelva conforme a lo dispuesto en el artículo 407 del Código Civil.
-
-Si el adoptado fuere menor de edad, para resolver sobre la revocación se oirá previamente a las personas que prestaron su consentimiento conforme al Código Civil, cuando fuere conocido su domicilio o, en su caso, se oirá al Ministerio Público.
-
-Para acreditar cualquier hecho relativo a la revocación, las partes podrán ofrecer toda clase de pruebas, conforme a las disposiciones de este Código.
-
-> <small>(ADICIONADO, D.O.F. 28 DE MAYO DE 1998)</small>
-
-ARTICULO 925 A
-
-Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a plena y se reúnan los requisitos previstos en el artículo 404 del Código Civil, el Juez los citará a una audiencia verbal dentro de los ocho días siguientes con la intervención del Ministerio Público, luego de la cual se resolverá lo conducente, en el término de ocho días.
-
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
-
-ARTICULO 926
-
-Los procedimientos de revocación en materia de adopción simple, se seguirán por la vía ordinaria.
+ARTICULO 926 (DEROGADO, G.O. 10 DE NOVIEMBRE DE 2008)
 
 ### CAPITULO V. De las informaciones ad perpetuam
 
@@ -8593,3 +8579,13 @@ Segundo.- El presente decreto entrará en vigor a los treinta días hábiles sig
 Tercero.- Los juicios actualmente en trámite que tengan por objeto la rectificación o modificación de las actas el (sic) estado civil de las personas continuarán tramitándose en la vía en que hayan sido admitidos.
 
 Cuarto.- A partir de la publicación del presente Decreto, el Jefe del Gobierno de Distrito Federal deberá realizar las adecuaciones jurídicas administrativas necesarias, en un plazo de sesenta días naturales.
+
+G.O. 10 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto se publicará en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación.
