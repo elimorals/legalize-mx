@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-general-de-gobierno-47708"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-30"
-last_updated: "2007-02-20"
+last_updated: "2008-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE NOVIEMBRE DE 2008.
 
 Reglamento publicado en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 30 de diciembre de 2005.
 
@@ -49,15 +49,17 @@ II. Dirección General del Trabajo y Previsión Social;
 
 III. Dirección de Transporte;
 
-IV. Dirección Estatal del Registro Público de la Propiedad y del Comercio, Registro Civil y Archivo de Notarías;
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+IV.- Dirección Estatal del Registro Civil;
 
 V. Coordinación de Certificaciones y Anuencias;
 
 VI. Coordinación de Asuntos Jurídicos;
 
-VII. Coordinación de Estudios Legislativos;
+> <small>(ADICIONADA, B.O. 10 DE NOVIEMBRE DE 2008)</small>
 
-VIII.- (DEROGADA, B.O. 20 DE FEBRERO DE 2007)
+VIII.- Coordinación del Archivo General de Notarias y Registro Público de la Propiedad y del Comercio;
 
 IX. Unidad de Apoyo Técnico;
 
@@ -227,7 +229,9 @@ XXIV. Cumplir las funciones que en materia de tránsito tiene el Gobernador del 
 
 XXV. Coadyuvar con las autoridades federales, en el desempeño de sus funciones, cuando éstas lo soliciten;
 
-XXVI. Vigilar lo concerniente al Registro Público de la Propiedad y del Comercio; así como lo referente a los asuntos catastrales en el Estado;
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+XXVI.- Vigilar lo concerniente al Registro Público de la Propiedad y del Comercio en el Estado; así como lo referente a ejercicio del Notariado Público en el Estado;
 
 XXVII. Formular la política de desarrollo cultural, bienestar social, deporte y atención a la juventud;
 
@@ -235,9 +239,17 @@ XXVIII. Proporcionar los elementos necesarios para el funcionamiento del Patrona
 
 XXIX.- (DEROGADA, B.O. 15 DE ENERO DE 2006)
 
-XXX. Resolver las dudas que se susciten con motivo de la interpretación y aplicación de este Reglamento, así como los casos no previstos en el mismo; y
+> <small>(ADICIONADA, B.O. 10 DE NOVIEMBRE DE 2008)</small>
 
-XXXI. Las demás que le señalen las disposiciones vigentes o las que le asigne el Gobernador del Estado.
+XXX.- Vigilar lo concerniente a las actividades del Registro Civil en el Estado;
+
+> <small>(ADICIONADA, B.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+XXXI.- Resolver las dudas que se susciten con motivo de la interpretación y aplicación de este Reglamento, así como los casos no previstos en el mismo; y
+
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+XXXII.- Las demás que le señalen las disposiciones vigentes o las que le asigne el Gobernador del Estado.
 
 ### CAPÍTULO III
 
@@ -305,9 +317,13 @@ VIII. Emitir su opinión y, en su caso, elaborar los documentos y actos jurídic
 
 IX. Tramitar y dar seguimiento a los recursos administrativos contra actos de las diversas autoridades de la Secretaría y demás dependencias y entidades de la administración pública estatal;
 
-X. Coordinar y supervisar las funciones de la Dirección del Registro Público de la Propiedad y del Comercio, Registro Civil y Archivo General de Notarías;
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2008)</small>
 
-XI. Coordinar y supervisar las actividades de la Coordinación de Defensorías de Oficio;
+X.- Coordinar y supervisar las funciones de la Dirección Estatal del Registro Civil;
+
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+XI.- Coordinar y supervisar las funciones de la Coordinación del Archivo General de Notarías y Registro Público de la Propiedad y del Comercio;
 
 XII. Aplicar las facultades que en materia de inspección y vigilancia le otorga la Ley del Notariado al Gobernador del Estado;
 
@@ -329,27 +345,23 @@ XX. Asistir al Congreso del Estado cuando se discutan iniciativas de ley o decre
 
 XXI. Las demás que, conforme a las necesidades de las áreas jurídicas de las dependencias, se requieran para el adecuado ejercicio y coordinación de las mismas y las que le encomiende el Secretario.
 
+> <small>(REFORMADO, B.O. 10 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 9.
 
 La Dirección General de Asuntos Jurídicos y Estudios Legislativos, se integrará con las siguientes Unidades Administrativas:
 
-- Dirección Estatal del Registro Civil, Registro Público de la Propiedad y del Comercio y Archivo General de Notarías;
+- Dirección Estatal del Registro Civil
 
-- Coordinación de Certificaciones y Anuencias;
+- Coordinación del Archivo General de Notarías y Registro Público de la Propiedad y del Comercio;
 
-- Archivo General del Estado;
+-Coordinación de Certificaciones y Anuencias;
+
+-Archivo General del Estado;
 
 - Coordinación de Asuntos Jurídicos; y
 
 - Coordinación de Estudios Legislativos.
-
-Así mismo, coordinará los siguientes órganos desconcentrados:
-
-- Junta Local de Conciliación y Arbitraje;
-
-- Coordinación de Defensorías de Oficio; y
-
-- Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y Municipios.
 
 ###### ARTÍCULO 10.
 
@@ -419,9 +431,11 @@ La Dirección de Transporte, se auxiliará con las representaciones municipales 
 
 Las representaciones municipales de la Dirección de Transporte serán creadas por acuerdo del Gobernador del Estado, mismo que deberá ser publicado en el Boletín Oficial del Gobierno del Estado.
 
+> <small>(REFORMADO, B.O. 10 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 14.
 
-A la Dirección Estatal del Registro Público de la Propiedad y del Comercio, Registro Civil y Archivo General de Notarías, le corresponde el ejercicio de las siguientes funciones:
+A la Dirección Estatal del Registro Civil, le corresponde el ejercicio de las siguientes funciones:
 
 I. Ejecutar programas que contribuyan al mejoramiento del sistema registral en el Estado;
 
@@ -431,23 +445,15 @@ III. Coordinar, vigilar y evaluar el servicio de los sistemas registral y de Reg
 
 IV. Asesorar a los responsables de las oficinas registrales para incorporar al sistema registral todos los actos que procedan, conforme a la legislación;
 
-V. Recabar, clasificar, actualizar y archivar los documentos y protocolos de las Notarías Públicas en el Estado;
+V. Homologar con las Oficialías del Registro Civil de la entidad; y
 
-VI. Integrar los expedientes de los notarios públicos con ejercicio en el Estado, así como los convenios de suplencia respectivos;
+VI. Las demás que le señalen los Códigos Civil y de Procedimientos Civiles del Estado, las disposiciones legales vigentes, el Reglamento del Registro Civil en el Estado y las que le asignen el Gobernador del Estado, el Secretario o el Director General, en ejercicio de sus atribuciones.
 
-VII. Homologar con las Oficialías del Registro Civil de la entidad las funciones del Registro Público de la Propiedad y del Comercio; y
-
-VIII. Las demás que le señalen los Códigos Civil y de Procedimientos Civiles del Estado, las disposiciones legales vigentes y las que le asignen el Gobernador del Estado, el Secretario o el Director General, en ejercicio de sus atribuciones.
+> <small>(REFORMADO, B.O. 10 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 15.
 
-La Dirección Estatal del Registro Público de la Propiedad y del Comercio, Registro Civil y Archivo General de Notarías, se auxiliará de los siguientes departamentos:
-
-• Departamento del Registro Civil;
-
-• Departamento del Registro Público de la Propiedad y del Comercio; y
-
-• Departamento del Archivo General de Notarías.
+La Dirección Estatal del Registro Civil, se auxiliará de la estructura orgánica que le asigne el Reglamento del Registro Civil del Estado.
 
 ###### ARTÍCULO 16.
 
@@ -533,13 +539,33 @@ Departamento Evaluación y Seguimiento;
 
 Departamento de Anuencias, Apostillamiento y Certificación; y (sic).
 
+> <small>(ADICIONADO, B.O. 10 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 21.
 
-(DEROGADO, B.O. 20 DE FEBRERO DE 2007)
+A la Coordinación del Archivo General de Notarías y Registro Público de la Propiedad y del Comercio, le corresponden las siguientes funciones:
+
+l. Recabar, clasificar, actualizar y archivar los documentos y protocolos de las Notarías Públicas en el Estado;
+
+II. Integrar los expedientes de los notarios públicos con ejercicio en el Estado, así como los convenios de suplencia respectivos;
+
+III. Llevar un índice general de los testamentos que se otorguen o depositen en las Notarías Públicas del Estado, dando aviso a las autoridades que fueran necesarias;
+
+IV. Expedir testimonios, copias simples y certificadas de las escrituras y actas contenidas en los protocolos y sus apéndices que se encuentran depositados en el archivo;
+
+V. Cuando se le instruya, ejecutar las funciones de inspección y vigilancia que la Ley del Notariado del Estado establece como funciones del Gobernador del Estado y del Director General;
+
+VI. Recibir y atender las quejas de los particulares en contra de los Notarios Públicos del Estado;
+
+VII. Coordinarse con los Registros Municipales de la Propiedad y del Comercio, con el fin de integrar una base de datos estatal y agilizar los servicios a su cargo; y
+
+VII. Las demás que le señalen los Códigos Civil y de Procedimientos Civiles del Estado, las disposiciones legales vigentes, el Reglamento del Archivo General de Notarías y Registro Público de la Propiedad y del Comercio; así como las que le asignen el Gobernador del Estado, el Secretario o el Director General, en ejercicio de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 10 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 22.
 
-(DEROGADO, B.O. 15 DE ENERO DE 2006)
+La Coordinación del Archivo General de Notarías y Registro Público de la Propiedad y del Comercio, se auxiliará de la estructura orgánica que le asigne el Reglamento respectivo.
 
 ###### ARTÍCULO 23.
 
@@ -756,5 +782,15 @@ SEGUNDO.- A la entrada en vigor del presente Decreto, los recursos humanos, fina
 Asimismo, los recursos humanos, financieros y materiales, así como los bienes muebles asignados a la Coordinación de Enlace Gubernamental de la secretaría General de Gobierno que se deroga, pasarán a formar parte de la Coordinación de Enlace Gubernamental de las Dependencias Auxiliares del Gobernador del Estado.
 
 TERCERO.- A la entrada en vigor del presente Decreto, los recursos humanos, financieros y materiales, así como los bienes muebles e inmuebles asignados a la Dirección de Relaciones Públicas que se extingue, pasarán a formar parte de la Secretaria Particular del C. Gobernador del Estado.
+
+CUARTO.- La Secretaría de Finanzas y la Oficialía Mayor de Gobierno realizarán las modificaciones presupuestales y administrativas que haya lugar.
+
+B.O. 10 DE NOVIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno de Baja California Sur.
+
+SEGUNDO.- Se abroga el Decreto expedido por el Titular del Poder Ejecutivo del Estado, mediante el cual se crea la Dirección Estatal del Registro Público de la Propiedad y del Comercio, Registro Civil y Archivo General de Notarías, publicado en el Boletín Oficial del Gobierno del Estado número 48, de fecha 20 de noviembre de 1997.
+
+TERCERO.- Los Reglamentos del Registro Civil y del Registro Público de la Propiedad y del Comercio y Archivo de Notarías, se expedirán en un plazo no mayor de 30 días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
 
 CUARTO.- La Secretaría de Finanzas y la Oficialía Mayor de Gobierno realizarán las modificaciones presupuestales y administrativas que haya lugar.
