@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-de-hidalgo-39600"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-05-10"
-last_updated: "2008-10-20"
+last_updated: "2008-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de mayo de 2004.
 
@@ -701,9 +701,9 @@ IV.- Comisión de Gobernación;
 
 V.- Comisión de Educación;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2008)</small>
 
-VI.- Comisión de Juventud;
+VI.- Comisión de Juventud y del Deporte;
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2005)</small>
 
@@ -2104,3 +2104,9 @@ P.O. 20 DE OCTUBRE DE 2008.
 > <small>(F. DE E., P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto, entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
