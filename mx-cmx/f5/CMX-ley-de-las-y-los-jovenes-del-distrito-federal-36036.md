@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-las-y-los-jovenes-del-distrito-federal-36036"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-25"
-last_updated: "2008-02-14"
+last_updated: "2008-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36036&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-05-30"
 
 LEY DE LAS Y LOS JOVENES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE NOVIEMBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 25 de julio del 2000.
 
@@ -210,9 +210,13 @@ La educación es el medio más importante para la transformación positiva de la
 
 El Plan debe contemplar un sistema de becas, estímulos e intercambios académicos nacionales y extranjeros que promuevan, apoyen y fortalezcan el desarrollo educativo de la juventud.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 13.
 
-En los programas educativos se debe dar especial énfasis a la información y prevención con relación a las diferentes temáticas y problemáticas de la juventud del Distrito Federal, en particular en temas como la ecología, la participación ciudadana, las adicciones, la sexualidad, VIH-SIDA, problemas psico-sociales, entre otros.
+En los programas educativos se debe dar especial énfasis a la información y prevención con relación a las diferentes temáticas y problemáticas de la juventud del Distrito Federal, en particular en temas como la ecología, la participación ciudadana, las adicciones, la sexualidad, VIH-SIDA, problemas psico-sociales, el sedentarismo, el sobrepeso, la obesidad y los trastornos alimenticios, como bulimia y anorexia, entre otros.
 
 > <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
 
@@ -234,9 +238,15 @@ III. Mejorar la educación media superior y superior, así como el desarrollo de
 
 IV. Prevenir, erradicar y sancionar todas las formas de castigos físicos o psicológicos, o sanciones disciplinarias crueles, inhumanas o degradantes;
 
-V. Garantizar el libre funcionamiento de las organizaciones estudiantiles; y
+V. Garantizar el libre funcionamiento de las organizaciones estudiantiles; y (sic)
 
-VI. Promover la investigación, formación y la creación científicas.
+VI. Promover la investigación, formación y la creación científicas;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+VII. Informar, para prevenir, las causas y consecuencias que trae consigo la práctica de conductas que atentan contra el sano desarrollo de las y los jóvenes, tales como: el sedentarismo y la adopción de hábitos alimentarios inadecuados; los trastornos alimenticios, como la bulimia y la anorexia; el consumo de cualquier droga o sustancia que altere su estado físico y mental, entre otros.
 
 ### CAPITULO IV. DEL DERECHO A LA SALUD
 
@@ -252,27 +262,29 @@ El Gobierno debe formular las políticas y establecer los mecanismos que permita
 
 El Plan debe incluir lineamientos y acciones que permitan generar y divulgar información referente a temáticas de salud de interés y prioritarias para las y los jóvenes, adicciones, VIH-SIDA, infecciones de transmisión sexual (ITS), nutrición, salud pública y comunitaria, entre otros.
 
-#### SECCION PRIMERA. DE LOS JOVENES CON DISCAPACIDAD
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 10 DE NOVIEMBRE DE 2008)</small>
 
-Artículo 46 BIS.- Los jóvenes con discapacidad tienen derecho a disfrutar de una vida plena y digna. El plan estratégico para el Desarrollo Integral de la Juventud del Distrito Federal deberá contemplar los mecanismos necesarios para que el joven discapacitado pueda llegar a bastarse a sí mismo, teniendo como objetivo su participación activa a la comunidad.
+#### SECCION PRIMERA. PREVENCION Y ATENCION DE LA OBESIDAD Y TRASTORNOS ALIMENTICIOS
 
-Los jóvenes con discapacidad, son aquellos que presentan una disminución en sus facultades físicas, intelectuales o sensoriales que le limitan para realizar una actividad normal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, G.O. 10 DE NOVIEMBRE DE 2008)</small>
 
-Artículo 46 TER.- El plan debe establecer lineamientos que permitan asegurar el cuidado y asistencia que se solicite para el joven con discapacidad, tomando en cuenta la situación económica de sus padres o de quienes ejerzan la patria potestad o custodia.
+Artículo 17 BIS.- El Gobierno deberá realizar campañas permanentes e intensivas, dirigidas a las y los jóvenes, a fin de prevenir el sobrepeso, la obesidad y otros trastornos alimenticios.
 
-> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Artículo 46 QUATER.- El Gobierno a través del Plan dispondrá de los recursos y medios que permitan asegurar que el joven con discapacidad tenga un acceso efectivo a la educación, a la capacitación laboral, servicios sanitarios, servicios de rehabilitación, oportunidades de esparcimiento, con el objetivo de lograr su desarrollo individual e integración social.
+> <small>(ADICIONADO, G.O. 10 DE NOVIEMBRE DE 2008)</small>
 
-> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+Artículo 17 TER.- Las y los jóvenes podrán solicitar información y atención a la Secretaría de Salud del Distrito Federal para conocer las medidas de prevención y tratamiento del sobrepeso y la obesidad, así como de los trastornos alimenticios.
 
-Artículo 46 QUINTUS.- Las empresas que contraten a jóvenes con discapacidad recibirán los beneficios que establezca el Código Financiero.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 24 DE MAYO DE 2006)</small>
+> <small>(ADICIONADO, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+Artículo 17 QUÁTER.- La Secretaría de Salud deberá proporcionar atención a las y los jóvenes que padezcan sobrepeso, obesidad, o cualquier trastorno alimenticio así como anorexia y bulimia. Para ello, el gobierno deberá destinar recursos presupuestales suficientes a la prevención y tratamiento del sobrepeso y la obesidad, así como de los trastornos alimenticios, entre las y los jóvenes del Distrito Federal.
 
 ### CAPITULO V. DE LOS DERECHOS SEXUALES Y REPRODUCTIVOS
 
@@ -331,6 +343,12 @@ Todas las y los jóvenes tienen el derecho a practicar cualquier deporte de acue
 ###### Artículo 28.
 
 El Gobierno debe promover y garantizar, por todos los medios a su alcance, la práctica del deporte juvenil ya sea como medio para aprovechar productivamente el tiempo libre juvenil o como profesión.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+
+El Gobierno deberá difundir permanentemente los beneficios que trae consigo la práctica cotidiana de actividad física y deportiva.
 
 ###### Artículo 29.
 
@@ -435,6 +453,28 @@ e) A no ser arrestado, detenido, preso o desterrado arbitrariamente. Todo joven 
 f) En todo proceso judicial, las y los jóvenes contarán con un defensor especializado en derechos juveniles.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+#### SECCION PRIMERA. DE LOS JOVENES CON DISCAPACIDAD
+
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+Artículo 46 BIS.- Los jóvenes con discapacidad tienen derecho a disfrutar de una vida plena y digna. El plan estratégico para el Desarrollo Integral de la Juventud del Distrito Federal deberá contemplar los mecanismos necesarios para que el joven discapacitado pueda llegar a bastarse a sí mismo, teniendo como objetivo su participación activa a la comunidad.
+
+Los jóvenes con discapacidad, son aquellos que presentan una disminución en sus facultades físicas, intelectuales o sensoriales que le limitan para realizar una actividad normal.
+
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+Artículo 46 TER.- El plan debe establecer lineamientos que permitan asegurar el cuidado y asistencia que se solicite para el joven con discapacidad, tomando en cuenta la situación económica de sus padres o de quienes ejerzan la patria potestad o custodia.
+
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+Artículo 46 QUATER.- El Gobierno a través del Plan dispondrá de los recursos y medios que permitan asegurar que el joven con discapacidad tenga un acceso efectivo a la educación, a la capacitación laboral, servicios sanitarios, servicios de rehabilitación, oportunidades de esparcimiento, con el objetivo de lograr su desarrollo individual e integración social.
+
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+Artículo 46 QUINTUS.- Las empresas que contraten a jóvenes con discapacidad recibirán los beneficios que establezca el Código Financiero.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 24 DE MAYO DE 2006)</small>
 
 #### SECCION SEGUNDA. DE LAS POLITICAS DE PROMOCION DE LA EQUIDAD
 
@@ -891,3 +931,13 @@ SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicac
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 CUARTO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 10 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su Mayor difusión.
+
+###### ARTÍCULO SEGUNDO.
+
+El Presente Decreto entrará en vigor 30 días después de su publicación en la Gaceta Oficial del Distrito Federal.
