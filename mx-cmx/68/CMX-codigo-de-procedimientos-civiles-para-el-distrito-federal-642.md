@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2008-11-10"
+last_updated: "2008-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE NOVIEMBRE DE 2008.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -954,15 +954,23 @@ ARTICULO 111
 
 Las notificaciones en juicio se deberán hacer:
 
-I.- Personalmente o por cédula;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 11 DE NOVIEMBRE DE 2008)</small>
+
+I.- Personalmente, con cédula, por instructivo o por adhesión que incluirá las anteriores.
 
 II.- Por Boletín Judicial, en los términos de los artículos 123 y 125;
 
 III.- Por edictos que se hagan ostensibles en los sitios públicos de costumbre o que se manden publicar en los periódicos que al efecto se autoricen en los plazos que se precisen;
 
-IV.- Por correo, y
+IV.- Por correo, y (sic)
 
-V.- Por telégrafo.
+V.- Por telégrafo;
+
+> <small>(ADICIONADA, G.O. 11 DE NOVIEMBRE DE 2008)</small>
+
+VI.- Por cualquier otro medio de comunicación efectivo que de constancia indubitable de recibido;
+
+En este supuesto el emplazamiento o la diligencia de notificación, citación, requerimiento o apercibimiento de que se trate podrá corroborarse por medios electrónicos o tecnológicos que hagan presumir válidamente que se practicó conforme a derecho, bajo la más estricta responsabilidad del fedatario público que la lleve a cabo.
 
 La forma en que se lleven a cabo las notificaciones anteriores, será de acuerdo con lo que se dispone en los artículos siguientes.
 
@@ -1070,6 +1078,28 @@ La cédula, en los casos de este artículo y del anterior, se entregará a los p
 
 Además de la cédula, se entregará a la persona con quien se entienda la diligencia, copia simple de la demanda debidamente cotejada y sellada, más, en su caso, copias simples de los demás documentos que el actor haya exhibido con su libelo inicial.
 
+> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2008)</small>
+
+Si en el domicilio señalado por el actor, no se encontrara el demandado o destinatario de la diligencia señalado en el artículo anterior, ni persona alguna que pudiera legalmente recibir la notificación o bien este se negare a recibir la documentación respectiva y una vez cerciorado el notificador que el domicilio efectivamente es el del demandado o destinatario del procedimiento judicial, entonces tratándose de la primera diligencia o ulteriores, procederá el actuario o notificador del juzgado a fijar en lugar visible del domicilio del demandado o destinatario del procedimiento judicial, un citatorio de emplazamiento en el que se señalará el motivo de la diligencia, la fecha, la hora, el lugar de la diligencia, la fundamentación legal correspondiente, la hora hábil del día para que le espere, nombre del promoverte, Tribunal que ordena la diligencia, la determinación que se manda notificar y el apercibimiento de que si en la fecha señalada para llevar a cabo la diligencia de emplazamiento no se encontrara al demandado o destinatario el procedimiento judicial, entonces se procederá a la notificación por adhesión, así como la razón o motivo de la citación, misma que en ningún caso podrá exceder de tres días hábiles contados a partir del día en que se dio la citación.
+
+> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2008)</small>
+
+Tratándose de una segunda diligencia y pese al citatorio con antelación adherido, si nuevamente el demandado o destinatario del procedimiento judicial no se encontrare y no hubiere persona con quien entender la diligencia, entonces se procederá a realizar el emplazamiento por adhesión, que consistirá que el notificador dejara adherido en lugar visible al domicilio del demandado o destinatario del procedimiento judicial, las cédulas de notificación con las copias de traslado correspondientes así como el instructivo en el que se explique el motivo del emplazamiento por adhesión, mismo que tendrá las características de la cédula de notificación usual, dicho emplazamiento o notificación tendrá el carácter de personal y deberá tener todas las disposiciones a que se refiere la notificación de tal estilo.
+
+> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2008)</small>
+
+Aunado a lo anterior, se deberá tomar fotografías convencionales o digitales del domicilio con las documentales citadas en los párrafos anteriores adheridas a este o cualquier otro medio tecnológico que pruebe que la notificación se llevó a cabo de forma legal, las fotografías o medios de prueba tecnológicos deberán ser debidamente certificados por el fedatario que lleve a cabo la diligencia bajo su más estricta responsabilidad.
+
+> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2008)</small>
+
+La diligencia señalada en el párrafo anterior deberá contar como medida de seguridad:
+
+Que el actor o interesado en compañía del actuario o notificador se presenten al domicilio auxiliados de dos testigos propuestos por la parte interesada, mismos que firmarán la cédula de notificación y las copias de traslado con tal carácter, anexando a la cédula de notificación en esta diligencia copia simple de sus identificaciones oficiales, documentos que también serán puestos a disposición del Ministerio Público adscrito al juzgado para que este se imponga de las actuaciones antes señaladas y manifieste lo que a su representación convenga, pudiendo en su caso iniciar indagatoria en contra del funcionario notificador, parte interesada y los testigos que llevaron a cabo la diligencia, si existieren elementos que prueben fehacientemente que la diligencia a su juicio se hizo de forma irregular y que deriven actos que pudieran tipificarse como delitos.
+
+> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2008)</small>
+
+Al arbitrio del juzgador y valorando los hechos planteados de la demanda incoada y pese a las circunstancias dadas en los párrafos anteriores, además se ordenará el emplazamiento por edictos, si lo estima necesario y respecto de las demás diligencias les surtirán efectos por boletín judicial.
+
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
 ARTICULO 118
@@ -1114,7 +1144,9 @@ I.- Cuando se trate de personas inciertas;
 
 II.- Cuando se trate de personas cuyo domicilio se ignora, previo informe de una institución que cuente con registro oficial de personas; en este caso el juicio deberá seguirse con los trámites y solemnidades a que se refiere el título noveno de este código;
 
-En los casos de las dos fracciones que preceden, los edictos se publicarán por tres veces, de tres en tres días, en el Boletín Judicial y en el periódico local que indique el juez, haciéndose saber que debe presentarse el citado dentro de un término que no será inferior a quince días ni excederá de sesenta días; y
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2008)</small>
+
+En los casos de las dos fracciones que preceden, los edictos se publicarán por tres veces, de tres en tres días, en el boletín judicial y en el periódico local que indique el juez, debiendo mediar entre cada publicación dos días hábiles, haciéndose saber que debe de presentarse el citado, dentro de un termino que no será inferior a quince días ni excederá de sesenta días; y
 
 > <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1991)</small>
 
@@ -7718,11 +7750,23 @@ II.- El lugar en que trabaje u otro que frecuente y en que se ha de creerse que 
 
 III.- (DEROGADA, D.O.F. 7 DE FEBRERO DE 1985)
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 11 DE NOVIEMBRE DE 2008)</small>
 
 ARTICULO 9
 
-El secretario actuario que lleve la cita se cerciorará de que el demandado se encuentra en el lugar designado y le entregará la cita personalmente. Si no lo encontrare y el lugar fuere alguno de los enumerados en las fracciones I o III del artículo anterior, cerciorándose de este hecho, dejará la cita con la persona de mayor confianza que encuentre. Si no se encontrare al demandado, y el lugar no fuere de los enumerados en las fracciones I o III no se le dejará la cita, debiéndose expedir de nuevo cuando lo promueva el actor.
+El secretario actuario que lleve la cita se cerciorará de que el demandado se encuentra en el lugar designado y le entregará la cita personalmente. Si no lo encontrare y el lugar fuere alguno de los enumerados en las fracciones I o III del artículo anterior, cerciorándose de este hecho dejará la cita con la persona de mayor confianza que encuentre.
+
+Si en el domicilio señalado por el actor, no se encontrara el demandado o destinatario de la diligencia señalado en el artículo anterior, ni persona alguna que pudiera legalmente recibir la notificación o bien este se negare a recibir la documentación respectiva y una vez cerciorado el notificador que el domicilio efectivamente es el del demandado o destinatario del procedimiento judicial, entonces tratándose de la primera diligencia o ulteriores, procederá el actuario o notificador del juzgado a fijar en lugar visible del domicilio del demandado o destinatario del procedimiento judicial, un citatorio de emplazamiento en el que se señalará el motivo de la diligencia, la fecha, la hora, el lugar de la diligencia, la fundamentación legal correspondiente, la hora hábil del día para que le espere, nombre del promoverte, Tribunal que ordena la diligencia, la determinación que se manda notificar y el apercibimiento de que si en la fecha señalada para llevar a cabo la diligencia de emplazamiento no se encontrara al demandado o destinatario el procedimiento judicial, entonces se procederá a la notificación por adhesión, así como la razón o motivo de la citación, misma que en ningún caso podrá exceder de tres días hábiles contados a partir del día en que se dio la citación.
+
+Tratándose de una segunda diligencia y pese al citatorio con antelación adherido, si nuevamente el demandado o destinatario del procedimiento judicial no se encontrare y no hubiere persona con quien entender la diligencia, entonces se procederá a realizar el emplazamiento por adhesión, que consistirá que el notificador dejara adherido en lugar visible al domicilio del demandado o destinatario del procedimiento judicial, las cédulas de notificación con las copias de traslado correspondientes así como el instructivo en el que se explique el motivo del emplazamiento por adhesión, mismo que tendrá las características de la cédula de notificación usual, dicho emplazamiento o notificación tendrá el carácter de personal y deberá tener todas las disposiciones a que se refiere la notificación de tal estilo.
+
+Aunado a lo anterior, se deberá tomar fotografías convencionales o digitales del domicilio con las documentales citadas en los párrafos anteriores adheridas a este o cualquier otro medio tecnológico que pruebe que la notificación se llevó a cabo de forma legal, las fotografías o medios de prueba tecnológicos deberán ser debidamente certificados por el fedatario que lleve a cabo la diligencia bajo su más estricta responsabilidad.
+
+La diligencia señalada en el párrafo anterior deberá contar como medida de seguridad:
+
+Que el actor o interesado en compañía del actuario o notificador se presenten al domicilio auxiliados de dos testigos propuestos por la parte interesada, mismos que firmarán la cédula de notificación y las copias de traslado con tal carácter, anexando a la cédula de notificación en esta diligencia copia simple de sus identificaciones oficiales, documentos que también serán puestos a disposición del Ministerio Público adscrito al juzgado para que este se imponga de las actuaciones antes señaladas y manifieste lo que a su representación convenga, pudiendo en su caso iniciar indagatoria en contra del funcionario notificador, parte interesada y los testigos que llevaron a cabo la diligencia, si existieren elementos que prueben fehacientemente que la diligencia a su juicio se hizo de forma irregular y que deriven actos que pudieran tipificarse como delitos.
+
+Al arbitrio del juzgador y valorando los hechos planteados de la demanda incoada y pese a las circunstancias dadas en los párrafos anteriores, además se ordenará el emplazamiento por edictos, si lo estima necesario y respecto de las demás diligencias les surtirán efectos por boletín judicial.
 
 ARTICULO 10
 
@@ -8589,3 +8633,23 @@ El presente decreto se publicará en la Gaceta Oficial del Distrito Federal y en
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 11 DE NOVIEMBRE DE 2008.
+
+DECRETO POR EL QUE SE ADICIONAN LOS ARTICULOS 111 Y 117, ASI COMO EL ARTICULO 9 DEL TITULO ESPECIAL DE LA JUSTICIA DE PAZ DEL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto iniciará su vigencia a partir del día siguiente de su publicación.
+
+G.O. 11 DE NOVIEMBRE DE 2008.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCION II DEL ARTICULO 122 DEL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
