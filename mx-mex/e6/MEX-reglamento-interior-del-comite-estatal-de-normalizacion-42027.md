@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-comite-estatal-de-normalizacion-42027"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-03"
-last_updated: "2005-06-21"
+last_updated: "2008-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL COMITE ESTATAL DE NORMALIZACION AMBIENTAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE NOVIEMBRE DE 2008.
 
-Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 3 de diciembre del 2004.
+Reglamento publicado en la Sección Primera a la Gaceta del Gobierno del Estado de México, el viernes 3 de diciembre del 2004.
 
 Con fundamento en lo dispuesto en los artículos 27 de la Constitución Política de los Estados Unidos Mexicanos; 18 de la Constitución Política del Estado Libre y Soberano de México; 32 Bis fracción III, de la Ley Orgánica de la Administración Pública del Estado, 1.31, 4.1 y 4.4, del Código Administrativo del Estado de México; 32 y 51 fracción VII, del Reglamento del Libro Cuarto del Código Administrativo del Estado de México; 1, 2, 5, 6 fracciones VII, VIII, XII, XIII y XXVII del Reglamento Interior de la Secretaría de Ecología y Cuarto y Cuarto Transitorio del Decreto que modifica el Acuerdo del Ejecutivo del Estado por el que se crea el Comité Estatal de Normalización Ambiental; y
 
@@ -107,7 +107,9 @@ Para el mejor funcionamiento del Comité se integrarán tres Subcomités, encarg
 
 I. El Subcomité de Residuos Sólidos y Actividades Económicas, se hará cargo de la coordinación de los Grupos de Trabajo para la elaboración de las normas técnicas estatales ambientales, para el manejo integral de los residuos sólidos urbanos y residuos de manejo especial, así como para prevenir y controlar la contaminación ambiental ocasionada por el desarrollo de actividades económicas y de servicios.
 
-II. El Subcomité de Recursos Naturales, se hará cargo de la coordinación de los Grupos de Trabajo para la elaboración de las normas técnicas estatales ambientales, para el uso y aprovechamiento sustentable de los recursos naturales del Estado.
+> <small>(REFORMADA, G.G. 11 DE NOVIEMBRE DE 2008)</small>
+
+II. El Subcomité de Contaminación Atmosférica, se hará cargo de la coordinación de los Grupos de Trabajo para la elaboración de las normas técnicas estatales ambientales para prevenir y controlar la contaminación atmosférica.
 
 III. El Subcomité de Desarrollo Sustentable, se hará cargo de la coordinación de los Grupos de Trabajo para la elaboración de las normas técnicas estatales ambientales, para proteger el ambiente y lograr un desarrollo sostenido en la entidad.
 
@@ -503,8 +505,12 @@ M. en C. Arlette López Trujillo
 
 (Rúbrica).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 21 DE JUNIO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 11 DE NOVIEMBRE DE 2008.
 
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
