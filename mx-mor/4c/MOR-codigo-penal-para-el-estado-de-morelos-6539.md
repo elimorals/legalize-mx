@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2008-10-29"
+last_updated: "2008-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2008.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -786,6 +786,18 @@ Las autoridades locales auxiliarán a la autoridad judicial competente respecto 
 Los objetos o valores que no sean recogidos por quien tenga derecho a ellos, dentro de los sesenta días naturales siguientes a la notificación que se le haga, se enajenarán en pública subasta y el producto de la venta se aplicará a quien esté facultado para recibirlo. Si éste no se presenta para ello, dentro de los seis meses siguientes a la notificación que se le haga, el producto de la venta se aplicará conforme a lo previsto en el primer párrafo del artículo anterior.
 
 En el caso de los bienes que se hallen a disposición de la autoridad, que no se deban destruir y tampoco se puedan conservar, o sean de costoso mantenimiento, se procederá a su venta en subasta pública y el producto se dejará a disposición de quien tenga derecho a recibirlo, durante seis meses contados a partir de la notificación respectiva. En caso de que no se presente en ese tiempo, se aplicará en la forma prevista por el primer párrafo del artículo anterior.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2008)</small>
+
+El aseguramiento de bienes recuperados con motivo de la investigación del delito y puestos a disposición del Ministerio Público, podrán aplicarse a favor del Estado cuando hayan sido objeto de abandono, por parte de quien con legítimo derecho, hubiere podido reclamar su entrega desde su aseguramiento.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2008)</small>
+
+Se decretará el abandono por parte del Ministerio Público o de la autoridad judicial, respecto de los bienes cuya devolución proceda y que no sean reclamados o recogidos dentro del plazo de 1 año a. partir de que dicho bien fue puesto a disposición de la autoridad judicial o del Ministerio Público, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2008)</small>
+
+El Ministerio Público o la autoridad judicial podrán decretar el destino final de los bienes a que se refiere el párrafo anterior, consistente en la destrucción o compactación de vehículos automotores, bienes muebles, objetos, instrumentos o sustancias en general perecederas, puestas a su disposición. Queda bajo su más estricta responsabilidad el solicitar previamente los dictámenes periciales de identificación y valuación que resulten necesarios para determinar las condiciones o características físicas de éstos.
 
 ###### ARTICULO 46.
 
@@ -3940,3 +3952,13 @@ TERCERO.- Los recursos humanos, financieros y materiales de las unidades adminis
 CUARTO.- Los asuntos que con motivo de este Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la dependencia que señale este Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables, que serán resueltos por la dependencia que tenga el asunto a su cargo.
 
 QUINTO.- La Ley de Ejecución de Sanciones y Medidas de Seguridad, Privativas y Restrictivas de la Libertad para el Estado de Morelos, deberá interpretarse conforme al presente ordenamiento, en lo que se oponga al mismo.
+
+P.O. 12 DE NOVIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+TERCERO.- Los bienes asegurados de los que, a la fecha de entrada en vigor de este Decreto, se carezca de datos de identificación para relacionarlos con una indagatoria; los vehículos ingresados a los depósitos de vehículos de la Procuraduría General de Justicia del Estado de Morelos, y los depositados en los corralones propiedad de particulares que hayan celebrado contrato de prestación de servicios de arrastre y depósito con fecha anterior al 31 de diciembre del año 2007, que no hayan sido recogidos por quien tiene derecho a ellos, así como todos aquellos bienes que por su larga permanencia en los depósitos correspondientes, se decrete su abandono, quedarán a disposición de la autoridad competente para que por conducto de la unidad administrativa que corresponda, se proceda a su destrucción o compactación. En este último caso, el producto que se obtenga de los vehículos será destinado para el mejoramiento de la procuración de justicia.
+
+CUARTO.- Los particulares que se consideren con derecho legítimo, respecto de los bienes a que se refiere el ARTÍCULO TRANSITORIO SEGUNDO de este Decreto, podrán hacer valer esos derechos ante la Procuraduría General de Justicia del Estado de Morelos, dentro del término de seis meses a partir de la fecha de entrada en vigor del presente Decreto.
