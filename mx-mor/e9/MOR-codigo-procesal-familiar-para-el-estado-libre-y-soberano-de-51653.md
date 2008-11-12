@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-familiar-para-el-estado-libre-y-soberano-de-516
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2007-08-15"
+last_updated: "2008-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2008.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -6319,7 +6319,9 @@ III. Los demás muebles que no están asegurados; se estimarán por avalúo peri
 
 IV. Los valores serán estimados de acuerdo con la cotización en Bolsa. En defecto de estos datos, se ocurrirá al avalúo pericial;
 
-V. Para el de bienes inmuebles se tendrá en cuenta su valor comercial fijado por institución bancaria;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2008)</small>
+
+V. Para el de bienes inmuebles se tendrá en cuenta su valor comercial fijado por una institución bancaria o por peritos que en la materia, reconozca el Poder Judicial del Estado Libre y Soberano de Morelos;
 
 VI. Los establecimientos mercantiles o industriales, y la participación en las utilidades de una sociedad, se valorizarán tomando en cuenta los datos del activo y pasivo de la contabilidad en la fecha del fallecimiento del causante, o el balance practicado en relación con la misma época; y,
 
@@ -6664,3 +6666,13 @@ El presente Decreto iniciará su vigencia, al día siguiente de su publicación 
 ###### ARTÍCULO SEGUNDO.
 
 Aprobado que sea remítase el presente, al titular del poder Ejecutivo del Estado de Morelos, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 12 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor, al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad, órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
