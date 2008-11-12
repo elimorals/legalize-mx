@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2008-03-27"
+last_updated: "2008-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE NOVIEMBRE DE 2008.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -2063,7 +2063,7 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION TECNICA Y DEL PERIODICO
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
-#### SECCION CUARTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE DESARROLLO URBANO
+#### SECCION CUARTA. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE DESARROLLO URBANO
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -2791,7 +2791,7 @@ D). Los servicios conexos:
 
 4. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
-> <small>(ADICIONADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 E). La instalación de anuncios publicitarios en el transporte:
 
@@ -4937,7 +4937,7 @@ que imparten educación preescolar
 
 al Sistema Educativo Estatal. $3,796
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACION, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 #### SECCION SEGUNDA. DE LOS DERECHOS DEL REGISTRO CIVIL
 
@@ -4945,7 +4945,7 @@ al Sistema Educativo Estatal. $3,796
 
 Por los servicios prestados por la Secretaría de Desarrollo Urbano se pagarán los siguientes derechos:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMERA PARRAFO, G.G. 1 DE JULIO DE 2007)</small>
 
 I. Por la supervisión de las obras de urbanización infraestructura y equipamiento de conjuntos urbanos, lotificaciones condominales y, en su caso, de subdivisiones de más de 6,000 metros cuadrados de superficie, se pagarán derechos equivalentes al 2% sobre el monto total del presupuesto aprobado, a costo directo de las obras.
 
@@ -7857,7 +7857,9 @@ No pagarán los derechos previstos en este artículo los conjuntos urbanos o uni
 
 Los Ayuntamientos, que de conformidad con las características o circunstancias técnicas y operativas de la prestación de los servicios a que se refiere esta sección, requieran de tarifas diferentes a las establecidas, las propondrán a más tardar el 15 de noviembre a la Legislatura.
 
-Las tarifas que se propongan no podrán ser inferiores a las señaladas en esta sección ni a los costos directos que implique su prestación.
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2008)</small>
+
+Las tarifas que se propongan deberán atender a los costos directos que implique su prestación, determinados con base en el Manual Metodológico aprobado en el marco del Sistema de Coordinación Hacendaria.
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -9463,7 +9465,7 @@ Las disposiciones de este título tienen por objeto normar la actividad catastra
 
 > <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
-En lo concerniente a la integración, conservación y actualización de la información e investigación catastral, se estará a lo dispuesto en el LIGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables en la materia.
+En lo concerniente a la integración, conservación y actualización de la información e investigación catastral, se estará a lo dispuesto en la LIGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables en la materia.
 
 > <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -13763,7 +13765,7 @@ El valor de los ingresos obtenidos por la adjudicación del bien se registrará,
 
 El registro a que se refiere el párrafo anterior se realizará disminuyendo de las cantidades a que alude dicho párrafo, según corresponda, los gastos de administración, mantenimiento y enajenación y las erogaciones extraordinarias que se hubiesen efectuado por las autoridades fiscales, durante el período comprendido desde su adjudicación y hasta su enajenación y los montos que en los términos de este artículo se destinen a los fondos de administración, mantenimiento y enajenación de bienes o negociaciones adjudicados y de contingencia para reclamaciones.
 
-Los bienes o negociaciones adjudicados por las autoridades fiscales de conformidad con lo dispuesto en este artículo, serán considerados, para todos los efectos legales, como bienes del dominio privado hasta en tanto sean destinados o donados para obras o servicios públicos.
+Los bienes o negociaciones adjudicados por las autoridades fiscales de conformidad con lo dispuesto en este articulo, serán considerados, para todos los efectos legales, como bienes del dominio privado hasta en tanto sean destinados o donados para obras o servicios públicos.
 
 Los bienes que se adjudiquen conforme a este artículo, a favor del fisco estatal, podrán ser donados para obras o servicios públicos o a instituciones asistenciales.
 
@@ -14360,3 +14362,9 @@ QUINTO.- El Ejecutivo Estatal presentará ante la Legislatura Local, dentro de l
 SEXTO.- Los porcentajes máximos de retención contenidos en la tabla del Artículo Tercero Transitorio del presente Decreto, cubrirán las tarifas de los conceptos referidos en dicho artículo, cuando los aumentos anuales a las mismas no excedan del incremento porcentual al Índice Nacional de Precios al Consumidor, para cada uno de los ejercicios de que se trate, en el entendido de que a partir del año 2012, la cobertura de la garantía será del 100%.
 
 Si el incremento de las tarifas es superior al aumento del Índice Nacional de Precios al Consumidor, el porcentaje de retención a que se refiere la tabla del Artículo Tercero Transitorio, cubrirá hasta un monto equivalente a la tarifa anterior más el porcentaje del aumento que se hubiera dado a conocer para el Índice Nacional de Precios al Consumidor para el período de que se trate.
+
+G.G. 12 DE NOVIEMBRE DE 2008.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
