@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-procedimientos-penales-del-estado-de-morelos-57615"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-22"
-last_updated: "2007-12-19"
+last_updated: "2008-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el jueves 22 de noviembre de 2007.
 
@@ -1419,6 +1419,14 @@ Las preguntas serán claras y precisas y no estarán permitidas las capciosas.
 
 La inobservancia de los preceptos relativos a la declaración del imputado impedirá que ésta se utilice en su contra, aun cuando él haya dado su consentimiento para infringir alguna regla o utilizar su declaración.
 
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2008)</small>
+
+Tratándose de vehículos automotores asegurados con motivo de las investigaciones del delito, cuando proceda su devolución y los interesados no la reclamen, el Ministerio Público decretará su abandono y notificará al propietario, para que en un plazo de 60 días hábiles a partir de que surta efectos dicha notificación, se presente a recogerlo bajo el apercibimiento de que, de no hacerlo, se decretará el destino final de los mismos ordenando su destrucción o compactación, de conformidad con el artículo 45 del Código Penal del Estado. En este caso, las autoridades darán aviso al Sistema Estatal y Nacional de Información de Vehículos Robados y Recuperados, para que ordenen su cancelación correspondiente.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2008)</small>
+
+La notificación a que se refiere el párrafo anterior, se practicará personalmente, o por edictos cuando se desconozca la identidad o domicilio de él o los interesados, dicha notificación se realizará por una sola ocasión, mediante la publicación por edicto en el periódico "Tierra y Libertad", órgano de difusión del Gobierno del Estado, así como en un diario de circulación nacional. Los edictos deberán contener un resumen del acuerdo de abandono a notificar.
+
 ###### Artículo 140.
 
 Varios imputados.
@@ -2570,6 +2578,18 @@ Si existiere controversia o duda acerca de la tenencia, posesión o dominio sobr
 Concluido el proceso, si no fue posible averiguar a quién corresponden, las cosas podrán ser entregadas en depósito a un establecimiento o institución de beneficencia pública, quienes sólo podrán utilizarlas para cumplir el servicio que brindan al público.
 
 Cuando se estime conveniente, se dejará constancia de los elementos restituidos o devueltos, mediante fotografías u otros medios que resulten adecuados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 256 Bis.
+
+Destino final de Bienes que Causen Abandono.
+
+Tratándose de vehículos automotores asegurados con motivo de las investigaciones del delito, cuando proceda su devolución en términos del artículo anterior y los interesados no la reclamen, el Ministerio Público decretará su abandono y notificará al propietario, para que en un plazo de 60 días hábiles a partir de que surta efectos dicha notificación, se presente a recogerlo bajo el apercibimiento de que, de no hacerlo, se decretará el destino final de los mismos ordenando su destrucción o compactación, de conformidad con el artículo 45 del Código Penal del Estado. En este caso, las autoridades darán aviso al Sistema Estatal y Nacional de Información de Vehículos Robados y Recuperados, para que ordenen su cancelación correspondiente.
+
+La notificación a que se refiere el párrafo anterior, se practicará personalmente, o por edictos cuando se desconozca la identidad o domicilio de él o los interesados, dicha notificación se realizará por una sola ocasión, mediante la publicación por edicto en el periódico Tierra y Libertad, órgano de difusión del Gobierno del Estado, así como en un diario de circulación nacional. Los edictos deberán contener un resumen del acuerdo de abandono a notificar.
 
 ###### Artículo 257.
 
@@ -4422,3 +4442,25 @@ P.O. 19 DE DICIEMBRE DE 2007.
 PRIMERO.- El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
 
 SEGUNDO.- Remítase la presente Ley al Gobernador Constitucional del Estado de Morelos, para los efectos previstos por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 12 DE NOVIEMBRE DE 2008.
+
+DECRETO NUMERO 995, POR EL QUE SE ADICIONA UN SEXTO Y SEPTIMO PARRAFOS AL ARTICULO 139 DEL CODIGO DE PROCEDIMIENTOS DEL ESTADO DE MORELOS.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+TERCERO.- Los bienes asegurados de los que, a la fecha de entrada en vigor de este Decreto, se carezca de datos de identificación para relacionarlos con una indagatoria; los vehículos ingresados a los depósitos de vehículos de la Procuraduría General de Justicia del Estado de Morelos, y los depositados en los corralones propiedad de particulares que hayan celebrado contrato de prestación de servicios de arrastre y depósito con fecha anterior al 31 de diciembre del año 2007, que no hayan sido recogidos por quien tiene derecho a ellos, así como todos aquellos bienes que por su larga permanencia en los depósitos correspondientes, se decrete su abandono, quedarán a disposición de la autoridad competente para que por conducto de la unidad administrativa que corresponda, se proceda a su destrucción o compactación. En este último caso, el producto que se obtenga de los vehículos será destinado para el mejoramiento de la procuración de justicia.
+
+CUARTO.- Los particulares que se consideren con derecho legítimo, respecto de los bienes a que se refiere el ARTÍCULO TRANSITORIO SEGUNDO de este Decreto, podrán hacer valer esos derechos ante la Procuraduría General de Justicia del Estado de Morelos, dentro del término de seis meses a partir de la fecha de entrada en vigor del presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2008.
+
+DECRETO NUMERO 996, POR EL QUE SE ADICIONA UN ARTICULO 256 BIS AL CODIGO DE PROCEDIMIENTOS DEL ESTADO DE MORELOS.
+
+PRIMERO.- Este Decreto entrara en vigor de conformidad con las modalidades y en las fechas que se aplican a hechos que concurran a partir de las cero horas del día 30 de octubre del año 2008 en el primer distrito judicial, a partir de las cero horas del 1 de junio del 2009 en el sexto distrito judicial con sede en Cuautla y en el quinto distrito judicial con sede en Yautepec, Morelos. Y a partir de las cero horas del día 1 de febrero del año 2010 en el cuarto distrito judicial con sede en Jojutla, en el segundo distrito judicial con sede en Tetecala, en el tercer distrito judicial con sede en Puente de Ixtla y el séptimo distrito judicial con sede en Jonacatepec.
+
+SEGUNDO.- Se derogan todas las disposiciones de igualo menor rango que se opongan al presente Decreto.
+
+TERCERO.- Publíquese en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
