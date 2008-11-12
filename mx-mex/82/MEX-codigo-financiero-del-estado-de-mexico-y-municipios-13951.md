@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2008-03-27"
+last_updated: "2008-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,221 +21,519 @@ state: "MEX"
 ---
 # CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
+CÓDIGO DE CONDUCTA DEL INSTITUTO SINALOENSE DE LA JUVENTUD
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MARZO DE 2008.
+TEXTO ORIGINAL.
 
-Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
+Código publicado en la Primera Sección del Periódico Oficial del Estado de Sinaloa, el lunes 11 de octubre de 2021.
 
-CESAR CAMACHO QUIROZ, Gobernador del Estado Libre y Soberano de México, a sus habitantes, sabed:
+CÓDIGO DE CONDUCTA DEL INSTITUTO SINALOENSE DE LA JUVENTUD
 
-Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
+INTRODUCCIÓN.
 
-DECRETO NUMERO 111
+El presente Código de Conducta se emite en cumplimiento a los artículos 47 y 48 del Código de Ética de los Servidores Públicos del Gobierno del Estado de Sinaloa, publicado el 7 de septiembre de 2020 en el periódico oficial "El Estado de Sinaloa" y tiene como propósito impulsar, fortalecer y velar por la consolidación de los principios, valores y reglas emanadas del Código de Ética de los Servidores Públicos del Gobierno del Estado de Sinaloa, y a las que deben sujetarse los servidores públicos del Instituto Sinaloense de la Juventud, quienes tienen a su cargo la administración, supervisión y ejecución de los procesos sustantivos y adjetivos de la institución, anteponiendo el interés general al personal y asumiendo plenamente las responsabilidades encomendadas.
 
-La H. "LIII" LEGISLATURA DEL ESTADO DE MEXICO
+Las acciones que el personal operativo y administrativo del Instituto Sinaloense de la Juventud, deben observar en el desempeño de sus funciones y que se encuentren encaminadas a cumplir con los objetivos y metas del Instituto Sinaloense de la Juventud, que deberán regirse por los principios, valores y reglas establecidas en el presente Código.
 
-DECRETA:
+A efecto de cumplir con lo anteriormente señalado, es fundamental impulsar valores como: interés público, respeto, respeto a los derechos humanos, igualdad y no discriminación, equidad de género, entorno cultural y ecológico, cooperación, liderazgo legalidad, honradez, disciplina, profesionalismo e integridad; relacionados con el objetivo y actividades de la institución.
 
-CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
+El presente instrumento determina una serie de reglas de integridad, mismas que son enunciativas más no limitativas, estas definen el actuar del servidor público con base en las disposiciones establecidas en el Código de Ética de los Servidores Públicos del Gobierno del Estado de Sinaloa, con lo que se contribuye al impulso e institucionalización de los principios y valores rectores del servicio público, impulsando en (sic) cumplimiento de las metas y objetivos de la institución.
+
+MARCO JURÍDICO.
+
+- Constitución Política de los Estados Unidos Mexicanos.
+
+- Ley General de Responsabilidades Administrativas.
+
+- Ley General del Sistema Nacional Anticorrupción. Constitución Política del Estado de Sinaloa.
+
+- Ley de Responsabilidades Administrativas del Estado de Sinaloa.
+
+- Ley del Sistema Anticorrupción del Estado de Sinaloa.
+
+- Ley de la Auditoria Superior del Estado de Sinaloa.
+
+- Código de Ética de los servidores públicos del Gobierno del Estado de Sinaloa.
+
+- Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la ley General de Responsabilidades Administrativas.
+
+- Ley de la Juventud del Estado de Sinaloa.
+
+En virtud de lo anteriormente señalado, se expide el
+
+CÓDIGO DE CONDUCTA DEL INSTITUTO SINALOENSE DE LA JUVENTUD
 
 ## TITULO PRIMERO. DE LAS DISPOSICIONES PRELIMINARES
 
 ###### Artículo 1.
 
-Las disposiciones de este Código son de orden público e interés general y tienen por objeto regular la actividad financiera del Estado de México y municipios, en el ámbito de sus respectivas competencias.
-
-La actividad financiera comprende la obtención, administración y aplicación de los ingresos públicos.
-
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+Objeto. Que los servidores públicos del Instituto Sinaloense de la Juventud, que tienen a su cargo la administración, supervisión y ejecución de los procesos sustantivos y adjetivos de la institución, adopten e implementen los principios, valores y reglas de integridad emanadas del Código de Ética de los Servidores Públicos del Gobierno del Estado de Sinaloa, previniendo conductas discriminatorias, conflictos de interés y acoso sexual, e impulsando la cero tolerancia a la corrupción.
 
 ###### Artículo 2.
 
-Los actos, procedimientos y resoluciones que dicten o ejecuten las autoridades, así como las inconformidades que se susciten por la aplicación de este ordenamiento, se tramitarán y resolverán conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México, salvo que se trate de actos y procedimientos regulados expresamente en este Código.
+Misión y visión:
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+Misión del Instituto Sinaloense de la Juventud
+
+Generar e impulsar políticas públicas que le permitan a la juventud sinaloense mejorar su calidad de vida y su desarrollo integral.
+
+Visión del Instituto Sinaloense de la Juventud
+
+Construir un Sinaloa prospero a través de jóvenes líderes comprometidos con su entorno.
 
 ###### Artículo 3.
 
-Para efectos de este Código, Ley de Ingresos del Estado y del Presupuesto de Egresos se entenderá por:
-
-I. Ahorro Presupuestario. A la diferencia que resulte entre los recursos del presupuesto autorizado y el presupuesto que ejerza la dependencia u organismo auxiliar en el ejercicio de que se trate, sin afectar el cumplimiento de las metas de los programas, en los términos de las disposiciones aplicables. En este rubro se encuentran comprendidas las medidas previstas en las disposiciones generales en materia de ahorro y las vacantes en materia de servicios personales.
-
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
-
-II. Ampliación de Recursos Presupuestarios. A la adecuación presupuestaria que implique un aumento líquido o compensado a la asignación de una clave presupuestaria.
-
-III. Asociación en Participación. Es un contrato por el cual una persona concede a otras que le aporten bienes o servicios, una participación en las utilidades y en las perdidas de una negociación mercantil o de una o varias operaciones de comercio.
-
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
-
-Para efectos fiscales, las asociaciones en participación se consideran personas jurídicas colectivas.
-
-IV. Ayuntamiento. A los Ayuntamientos del Estado de México.
-
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
-
-V. Cancelación de Recursos Presupuestarios. A la adecuación presupuestaria que reduce el presupuesto autorizado a las unidades ejecutoras.
-
-> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
-
-VI. Catálogo General de Puestos. Instrumento administrativo en el que se reúne, clasifica y sistematiza la información de los empleos públicos y que define la naturaleza, objetivos, tipos, especificaciones, categorías y requisitos para ocuparlos. Así mismo, incluirá por puesto, las políticas genéricas para la asignación de prestaciones y estímulos o beneficios adicionales al salario;
-
-VII. Código. Al Código Financiero del Estado de México y Municipios.
-
-VIII. Conjuntos Urbanos:
-
-A). Habitacional.
-
-B). Industrial.
-
-C). Agroindustrial.
-
-D). Abasto, comercio y servicios.
-
-E). Mixto.
-
-IX. Contraloría. A la Secretaría de la Contraloría.
-
-X. Dependencias. A las Secretarías que se señalan en la Ley Orgánica de la Administración Pública del Estado de México, incluyendo a sus unidades administrativas y órganos administrativos desconcentrados.
-
-XI. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2006)
-
-XII. Ejercicio Fiscal. Al que comprende del primero de enero al treinta y uno de diciembre.
-
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
-
-XIII. Organismos Autónomos. Aquellas Entidades que cuentan con personalidad jurídica y patrimonio propios, autonomía de gestión e independencia de los Poderes Legislativo, Ejecutivo y Judicial, tales como la Universidad Autónoma del Estado de México, Comisión de Derechos Humanos del Estado de México y órganos electorales del Estado de México.
-
-XIV. Entidades Públicas. A tribunales administrativos y organismos públicos descentralizados, empresas de participación estatal o municipal y fideicomisos públicos.
-
-XV. Estado. Al Estado Libre y Soberano de México.
-
-XVI. Estructura Programática. Al conjunto de categorías y elementos programáticos que sirven para dar orden y dirección al gasto público y para conocer el rendimiento esperado de la utilización de los fondos públicos y para vincular los propósitos de las políticas públicas derivadas del Plan de Desarrollo del Estado de México, con la misión de las dependencias y entidades públicas.
-
-XVII. (DEROGADA, G.G. 4 DE JUNIO DE 2004)
-
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
-
-XVIII. Gasto Corriente. A las erogaciones realizadas por las dependencias, entidades públicas, entes autónomos y municipios destinadas al pago de servicios personales, así como a la adquisición de bienes de consumo inmediato y servicios, con cargo a los capítulos de gasto 1000, 2000, 3000, 4000 y 8000.
-
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
-
-XIX. Gasto de Inversión en Obras y Acciones. A las erogaciones realizadas por los Poderes del Estado, municipios y organismos autónomos, destinados al pago de obras públicas, adquisición de bienes muebles e inmuebles y ejecución de proyectos productivos de carácter social con cargo a los capítulos de gasto 5000, 6000, 7000 y 9000.
-
-XX. Gasto irreductible. Son las erogaciones mínimas indispensables para que pueda ejercer sus funciones una dependencia o entidad, principalmente asociados a las remuneraciones salariales, retenciones de seguridad social y fiscales, así como los bienes y servicios básicos.
-
-XXI. Gobernador. Al Gobernador del Estado de México.
-
-XXII. Hacienda Pública. A la obtención, administración y aplicación de los ingresos públicos del gobierno, en el ámbito de su competencia, que se conforma por las contribuciones, productos, aprovechamientos, bienes, propiedades y derechos que al gobierno, estatal o municipal le pertenecen y forman parte de su patrimonio.
-
-XXIII. IGECEM. Al Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México.
-
-XXIV. Inversión financiera. Al importe de las erogaciones que se realizan para la adquisición de acciones, bonos y otros títulos de crédito. Incluye el otorgamiento de créditos para el fomento de actividades productivas y las que tienen por objeto las prestaciones y apoyos distintos a las laborales de los servidores públicos y de los subsidios para la población.
-
-XXV. Legislatura. A la Legislatura del Estado Libre y Soberano de México.
-
-> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
-
-XXVI. LIGECEM. Al Libro Décimo Cuarto del Código Administrativo del Estado de México, denominado "De la Información e Investigación Geográfica, Estadística y Catastral del Estado de México".
-
-XXVII. Ley de Ingresos. A la Ley de Ingresos del Estado de México y a la Ley de Ingresos de los Municipios del Estado de México.
-
-> <small>(ADICIONADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
-
-XXVIII. Manual Catastral. Al Manual Catastral del Estado de México.
-
-> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XXVIII-A. Marco de Referencia para las Finanzas Públicas Estatales. Al documento emitido por el Ejecutivo Estatal por conducto de la Secretaría de Finanzas, que contendrá los principales objetivos y parámetros en materia de ingresos y egresos para el ejercicio fiscal siguiente.
-
-XXIX. Municipios. A los municipios que señala la Ley Orgánica Municipal del Estado de México.
-
-XXX. Periódico Oficial. A la "Gaceta del Gobierno" del Estado de México y a la Gaceta Municipal, en el caso de los municipios.
-
-XXXI. Procuraduría. A la Procuraduría General de Justicia.
-
-> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
-
-XXXII. Remuneración: A los pagos hechos por concepto de sueldo, compensaciones, gratificaciones, habitación, primas, comisiones, prestaciones en especie y cualquier otra percepción o prestación que se entregue al servidor público por su trabajo. Esta definición no será aplicable para los efectos del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal;
-
-> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
-
-XXXIII. Secretaría. A la Secretaría de Finanzas.
-
-XXXIV. Sector. A la agrupación de objetivos, proyectos y acciones que responden a un segmento de los fenómenos económicos y sociales que atienden de manera agregada a las previsiones del Plan de Desarrollo del Estado de México.
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XXXV. Servicio de Deuda Pública. Al importe de las erogaciones destinadas a cubrir los intereses generados por los créditos y empréstitos concertados.
-
-XXXVI. Tesorería. A la tesorería municipal.
-
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
-
-XXXVII. Transferencia. Asignaciones previstas en el presupuesto de egresos, que reciben los organismos auxiliares y fideicomisos públicos para sufragar su operación, inversión patrimonial y actividades inherentes.
-
-> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
-
-XXXVIII. Traspaso Presupuestario Externo. Serán aquellos que se realicen entre programas o capítulos de gasto.
-
-> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
-
-XXXIX. Traspaso Presupuestario Interno. A las modificaciones de los recursos asignados que se realicen dentro de un mismo programa y capítulo de gasto.
-
-XL. Vivienda. Es la prevista en la fracción I del artículo 5.41 del Código Administrativo del Estado de México y que se refiere a los tipos siguientes:
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-A). Social Progresiva. Aquella cuyo valor al término de la construcción o adquisición no exceda de 216,180 pesos.
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-B). Interés Social. La que tenga al término de la construcción o adquisición un valor entre 216,181 pesos y 281,034 pesos.
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-C). Popular. La que tenga al término de la construcción o adquisición un valor entre 281,035 pesos y 410,742 pesos.
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-D). Media. La que tenga al término de la construcción o adquisición un valor entre 410,743 pesos y 1'163,439 pesos.
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-E). Residencial. La que tenga al término de la construcción o adquisición un valor entre 1'163,440 pesos y 1'933,824 pesos.
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-F). Residencial alto y campestre. La que tenga al término de la construcción o adquisición un valor que exceda de la cantidad de 1'933,825 pesos.
-
-En el caso que las leyes federales incrementen o disminuyan los montos estimados, se deberá estar a lo dispuesto en esas disposiciones legales.
-
-Cuando en este ordenamiento se señale al Estado y municipios o sus dependencias y entidades públicas, se entenderá que cada una actúa de acuerdo con su competencia.
+Las disposiciones de este Código son aplicables a todos los servidores públicos que desempeñen un empleo, cargo o comisión en el Instituto Sinaloense de la Juventud, sin distinción de jerarquías, grados y funciones, mismos que deberán de cumplir con las disposiciones establecidas en el presente Código.
 
 ###### Artículo 4.
 
-La Secretaría y los ayuntamientos, interpretarán para efectos administrativos las disposiciones de este Código, sin que por ningún motivo se puedan variar los elementos propios de las contribuciones.
+Para efectos del presente Código se entenderá por:
+
+I. Administración Pública: Administración Pública del Estado de Sinaloa;
+
+II. Bases: Las Bases para la Integración, Organización y Funcionamiento de los Comités de Ética y de Prevención de Conflictos de Interés;
+
+III. Código de Conducta: El instrumento emitido por el titular de la dependencia o entidad a propuesta de los Comités de Ética y de Prevención de Conflictos de Interés;
+
+IV. Código de Ética: El Código de Ética de los Servidores Públicos del Estado de Sinaloa
+
+V. Comité: El Comité de Ética y de Prevención de Conflictos de Interés de cada Ente Público. En su caso, los subcomités o comisiones permanentes o temporales que se establezcan conforme a los Lineamientos generales;
+
+VI. Conflicto de interés: La situación que se presenta cuando los intereses personales, familiares o de negocios del servidor público puedan afectar el desempeño independiente e imparcial de sus empleos, cargos, comisiones o funciones;
+
+VII. Ética: Conjunto de principios, valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la Administración Pública del Estado de Sinaloa;
+
+VIII. ISJU: Instituto Sinaloense de la Juventud.
+
+IX. Ley Estatal: Ley de Responsabilidades Administrativas del Estado de Sinaloa;
+
+X. Ley General: Ley General de Responsabilidades Administrativas;
+
+XI. Secretaría: La Secretaría de Transparencia y Rendición de Cuentas; y
+
+XII. Unidad: La unidad administrativa competente de la Secretaría de Transparencia y Rendición de Cuentas facultada para dar seguimiento y verificar el cumplimiento de las disposiciones del presente ordenamiento
 
 ###### Artículo 5.
 
-Las leyes, reglamentos y demás disposiciones financieras de observancia general, obligan y surten sus efectos al día siguiente de su publicación en el Periódico Oficial, salvo que en las mismas se señale una fecha diferente.
+Los servidores públicos adscritos al Instituto Sinaloense de la Juventud, deben observar los principios constitucionales y legales que rigen el servicio público contenidos en el Código de Ética de los servidores públicos del Gobierno del Estado de Sinaloa, que son congruentes con los principios estipulados en los Lineamientos para la emisión del Código de Ética aprobados por el Comité Coordinador del Sistema Nacional Anticorrupción, a saber:
+
+I. Legalidad: Los servidores públicos hacen solo aquello que las normas expresamente les confieren y en todo momento someten su actuación a las facultades que las leyes, reglamentos y demás disposiciones jurídicas atribuyen a su empleo, cargo o comisión, por lo que conocen y cumplen las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones.
+
+II. Honradez: Los servidores públicos se conducen con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscan o aceptan compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización, debido a que están conscientes que ello compromete sus funciones y que el ejercicio de cualquier cargo público implica un alto sentido de austeridad y vocación de servicio.
+
+III. Lealtad: Los servidores públicos corresponden a la confianza que el Estado les ha conferido; tienen una vocación absoluta de servicio a la sociedad y satisfacen el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población.
+
+IV. Imparcialidad: Los servidores públicos dan a la ciudadanía, y a la población en general, el mismo trato, sin conceder privilegios o preferencias a organizaciones o personas, ni permiten que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva.
+
+V. Eficiencia: Los servidores públicos actúan en apego a los planes y programas previamente establecidos y optimizan el uso y la asignación de los recursos públicos en el desarrollo de sus actividades para lograr los objetivos propuestos.
+
+VI. Economía: Los servidores públicos en el ejercicio del gasto público administrarán los bienes, recursos y servicios públicos con legalidad, austeridad y disciplina, satisfaciendo los objetivos y metas a los que estén destinados, siendo éstos de interés social.
+
+VII. Disciplina: Los servidores públicos desempeñarán su empleo, cargo o comisión, de manera ordenada, metódica y perseverante, con el propósito de obtener los mejores resultados en el servicio o bienes ofrecidos.
+
+VIII. Profesionalismo: Los servidores públicos deberán conocer, actuar y cumplir con las funciones, atribuciones y comisiones encomendadas de conformidad con las leyes, reglamentos y demás disposiciones jurídicas atribuibles a su empleo, cargo o comisión, observando en todo momento disciplina, integridad y respeto, tanto a los demás servidores públicos como a las y los particulares con los que llegare a tratar.
+
+IX. Objetividad: Los servidores públicos deberán preservar el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general, actuando de manera neutral e imparcial en la toma de decisiones, que a su vez deberán de ser informadas en estricto apego a la legalidad.
+
+X. Transparencia: Los servidores públicos en el ejercicio de sus funciones y conforme a las disposiciones jurídicas aplicables, privilegian el principio de máxima publicidad de la información pública, atendiendo con diligencia los requerimientos de acceso y proporcionando la documentación que generan, obtienen, adquieren, transforman o conservan; y en el ámbito de su competencia, difunden de manera proactiva información gubernamental, como un elemento que genera valor a la sociedad y promueve un gobierno abierto, protegiendo los datos personales que estén bajo su custodia.
+
+XI. Rendición de Cuentas: Los servidores públicos asumen plenamente ante la sociedad y autoridades la responsabilidad que deriva del ejercicio de su empleo, cargo o comisión, por lo que en términos de las disposiciones jurídicas aplicables, informan, explican y justifican sus decisiones y acciones, y se sujetan a un sistema de sanciones, así como a la evaluación y al escrutinio público de sus funciones por parte de la ciudadanía.
+
+XII. Competencia por mérito: Los servidores públicos deberán ser seleccionados para sus puestos de acuerdo a su habilidad profesional, capacidad y experiencia, garantizando la igualdad de oportunidad, atrayendo a los mejores candidatos para ocupar los puestos mediante procedimientos transparentes, objetivos y equitativos, conforme a las disposiciones Jurídicas aplicables.
+
+XIII. Eficacia: Los servidores públicos actúan conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades y mediante el uso responsable y claro de los recursos públicos, eliminando cualquier ostentación y discrecionalidad Indebida en su aplicación.
+
+XIV. Integridad: Los servidores públicos actúan siempre de manera congruente con los principios que se deben observar en el desempeño de un empleo, cargo, comisión o función, convencidas en el compromiso de ajustar su conducta para que impere en su desempeño una ética que responda al interés público y generen certeza plena de su conducta frente a todas las personas con las que se vinculen u observen su actuar.
+
+XV. Equidad: Los servidores públicos procurarán que toda persona acceda con justicia e igualdad al uso, disfrute y beneficio de los bienes, servicios, recursos y oportunidades.
 
 ###### Artículo 6.
 
-(DEROGADO, G.G. 29 DE DICIEMBRE DE 2000)
+Los servidores públicos del Instituto Sinaloense de la Juventud, deben observar los valores que orientan el servicio público realizado en la Administración Pública del Estado de Sinaloa, contenidos en el Código de Ética de los servidores públicos del Gobierno del Estado de Sinaloa, y que son congruentes con el catálogo de valores y sus definiciones estipulados en los Lineamientos para la emisión del Código de Ética aprobados por el Comité Coordinador del Sistema Nacional Anticorrupción, a saber:
+
+I. Interés Público: Los servidores públicos actúan buscando en todo momento la máxima atención de las necesidades y demandas de la sociedad por encima de intereses y beneficios particulares, ajenos a la satisfacción colectiva.
+
+II. Respeto: Los servidores públicos se conducen con austeridad y sin ostentación, y otorgan un trato digno y cordial a las personas en general y a sus compañeras y compañeros de trabajo, superiores y subordinados, considerando sus derechos, de tal manera que propician el diálogo cortés y la aplicación armónica de instrumentos que conduzcan al entendimiento, a través de la eficacia y el interés público.
+
+III. Respeto a los Derechos Humanos: Los servidores públicos respetan los derechos humanos, y en el ámbito de sus competencias y atribuciones, los garantizan, promueven y protegen de conformidad con los Principios de: Universalidad que establece que los derechos humanos corresponden a toda persona por el simple hecho de serlo; de Interdependencia que implica que los derechos humanos se encuentran vinculados íntimamente entre si; de Indivisibilidad que refiere que los derechos humanos conforman una totalidad de tal forma que son complementarios e inseparables, y de Progresividad que prevé que los derechos humanos están en constante evolución y bajo ninguna circunstancia se justifica un retroceso en su protección.
+
+IV. Igualdad y No Discriminación: Los servidores públicos prestan sus servicios a todas las personas sin distinción, exclusión, restricción, o preferencia basada en el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o en cualquier otro motivo.
+
+V. Equidad de Género: Los servidores públicos, en el ámbito de sus competencias y atribuciones, garantizan que tanto mujeres como hombres accedan con las mismas condiciones, posibilidades y oportunidades a los bienes y servicios públicos; a los programas, beneficios institucionales, a los empleos, cargos y comisiones gubernamentales.
+
+VI. Entorno Cultural y Ecológico: Los servidores públicos en el desarrollo de sus actividades evitan la afectación del patrimonio cultural de cualquier nación y de los ecosistemas del planeta; asumen una férrea voluntad de respeto, defensa y preservación de la cultura y del medio ambiente, y en el ejercicio de sus funciones y conforme a sus atribuciones, promueven en la sociedad la protección y conservación de la cultura y el medio ambiente, al ser el principal legado para las generaciones futuras.
+
+VII. Cooperación: Los servidores públicos colaboran entre si y propician el trabajo en equipo para alcanzar los objetivos comunes previstos en los planes y programas gubernamentales, generando así una plena vocación de servicio público en beneficio de la colectividad y confianza de la ciudadanía en sus instituciones.
+
+VIII. Liderazgo: Los servidores públicos son guía, ejemplo y promotoras del Código de Ética y las Reglas de integridad; fomentan y aplican en el desempeño de sus funciones los principios que la Constitución Federal, la Constitución Política del Estado de Sinaloa y los que otras leyes les imponen, así como aquellos valores adicionales que por su importancia son intrínsecos a la función pública.
 
 ## TITULO SEGUNDO. DE LOS PRINCIPIOS DE CARACTER FISCAL
 
-### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 7.
 
-Para cubrir el gasto público y demás obligaciones a su cargo, el Estado y los Municipios percibirán en cada ejercicio fiscal los impuestos, derechos, aportaciones de mejoras, productos, aprovechamientos, ingresos derivados de la coordinación hacendaria, e ingresos provenientes de financiamientos, establecidos en la Ley de Ingresos. Tratándose del Estado, también percibirá las aportaciones y cuotas de seguridad social.
+Tomando en cuenta los principios y valores establecidos en el presente Código, se determinaron las reglas de integridad, las cuales consisten en conductas específicas esperadas de los servidores públicos adscritos al Instituto Sinaloense de la Juventud, dichas reglas se definen como las acciones y prohibiciones que guían el actuar de los mismos, así mismo, éstas se encuentran establecidas en el Código de Ética, en virtud de ello, de manera enunciativa y no limitativa, se expresan a continuación:
 
-La Ley de Ingresos del Estado se elaborará con base en el Marco de Referencia para las Finanzas Públicas Estatales y/o en los criterios generales de política económica emitidos por el Gobierno Federal y, en su caso, con la última información económica publicada por el Banco de México y la Secretaría de Hacienda y Crédito Público, y deberá ser congruente con el Plan de Desarrollo del Estado y los programas que de él deriven.
+I. Actuación Pública
+
+Los servidores públicos que desempeñan un empleo, cargo, comisión o función, conducen su actuación con transparencia, honestidad, lealtad, cooperación, austeridad; sin ostentación y con una clara orientación al interés público.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+a) Abstenerse de ejercer las atribuciones y facultades que le impone el servicio público y que le confieren los ordenamientos legales y normativos correspondientes.
+
+b) Adquirir para sí o para terceros, bienes o servicios de personas u organizaciones beneficiadas con programas o contratos gubernamentales, a un precio notoriamente inferior o bajo condiciones de crédito favorables, distintas a las del mercado.
+
+c) Favorecer o ayudar a otras personas u organizaciones a cambio o bajo la promesa de recibir dinero, dádivas, obsequios, regalos o beneficios personales o para terceros.
+
+d) Utilizar las atribuciones de su empleo, cargo, comisión o funciones para beneficio personal o de terceros.
+
+e) Ignorar las recomendaciones de los organismos públicos protectores de los derechos humanos y de prevención de la discriminación, u obstruir alguna investigación por violaciones en esta materia.
+
+f) Hacer proselitismo en su jornada laboral u orientar su desempeño laboral hacia preferencias político-electorales.
+
+g) Utilizar recursos humanos, materiales o financieros institucionales para fines distintos a los asignados.
+
+h) Obstruir la presentación de denuncias administrativas, penales o políticas, por parte de compañeros de trabajo, subordinados o de ciudadanos en general.
+
+i) Asignar o delegar responsabilidades y funciones sin apegarse a las disposiciones normativas aplicables.
+
+j) Permitir que los servidores públicos subordinados incumplan total o parcialmente con su jornada u horario laboral.
+
+k) Realizar cualquier tipo de discriminación tanto a otros servidores públicos como a toda persona en general.
+
+l) Actuar como abogado o procurador en juicios de carácter penal, civil, mercantil o laboral que se promuevan en contra de instituciones públicas de cualquiera de los tres órdenes y niveles de Gobierno.
+
+m) Dejar de establecer medidas preventivas al momento de ser informado por escrito como superior jerárquico, de una posible situación de riesgo o de conflicto de interés.
+
+n) Hostigar, agredir, amedrentar, acosar, intimidar, extorsionar o amenazar a personal subordinado o compañeros de trabajo.
+
+ñ) Desempeñar dos o más puestos o celebrar dos o más contratos de prestación de servicios profesionales o la combinación de unos con otros, sin contar con dictamen de compatibilidad.
+
+o) Dejar de colaborar con otros servidores públicos y de propiciar el trabajo en equipo para alcanzar los objetivos comunes previstos en los planes y programas gubernamentales.
+
+p) Obstruir u obstaculizar la generación de soluciones a dificultades que se presenten para la consecución de las metas previstas en los planes y programas gubernamentales.
+
+q) Evitar conducirse bajo criterios de austeridad, sencillez y uso apropiado de los bienes y medios que disponga con motivo del ejercicio del cargo público.
+
+r) Conducirse de forma ostentosa, incongruente y desproporcionada a la remuneración y apoyos que perciba con motivo de cargo público.
+
+s) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
+
+II. Información Pública
+
+Los servidores públicos que desempeñan un empleo, cargo, comisión o función, conducen su actuación conforme al principio de transparencia y resguardan la documentación e información gubernamental que tienen bajo su responsabilidad.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+a) Asumir actitudes intimidatorias frente a las personas que requieren de orientación para la presentación de una solicitud de acceso a información pública.
+
+b) Retrasar de manera negligente las actividades que permitan atender de forma ágil y expedita las solicitudes de acceso a información pública.
+
+c) Declarar la incompetencia para la atención de una solicitud de acceso a información pública, a pesar de contar con atribuciones o facultades legales o normativas.
+
+d) Declarar la inexistencia de información o documentación pública, sin realizar una búsqueda exhaustiva en los expedientes y archivos institucionales bajo su resguardo.
+
+e) Ocultar información y documentación pública en archivos personales, ya sea dentro o fuera de los espacios institucionales.
+
+f) Alterar, ocultar o eliminar de manera deliberada, información pública.
+
+g) Permitir o facilitar la sustracción, destrucción o inutilización indebida, de información o documentación pública.
+
+h) Proporcionar indebidamente documentación e información confidencial o reservada.
+
+i) Utilizar con fines lucrativos las bases de datos a las que tenga acceso o que haya obtenido con motivo de su empleo, cargo, comisión o funciones.
+
+j) Obstaculizar las actividades para la identificación, generación, procesamiento, difusión y evaluación de la información en materia de transparencia proactiva y gobierno abierto.
+
+k) Difundir información pública en materia de transparencia proactiva y gobierno abierto en formatos que, de manera deliberada, no permitan su uso, reutilización o redistribución por cualquier interesado.
+
+l) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
+
+III. Contrataciones públicas, Licencias, Permisos, Autorización y Concesiones
+
+Los servidores públicos que con motivo de su empleo, cargo, comisión o función o a través de subordinados, participan en contrataciones públicas o en el otorgamiento y prórroga de licencias, permisos, autorizaciones y concesiones, se conducen con transparencia, imparcialidad y legalidad; orientan sus decisiones a las necesidades e intereses de la sociedad, y garantizan las mejores condiciones para el Estado.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+a) Omitir declarar conforme a las disposiciones aplicables los posibles conflictos de interés, negocios y transacciones comerciales que de manera particular haya tenido con personas u organizaciones inscritas en el Registro Único de Contratistas para la Administración Pública del Estado de Sinaloa.
+
+b) Dejar de aplicar el principio de equidad de la competencia que debe prevalecer entre los participantes dentro de los procedimientos de contratación.
+
+c) Formular requerimientos diferentes a los estrictamente necesarios para el cumplimiento del servicio público, provocando gastos excesivos e innecesarios.
+
+d) Establecer condiciones en las invitaciones o convocatorias que representen ventajas o den un trato diferenciado a los licitantes.
+
+e) Favorecer a los licitantes teniendo por satisfechos los requisitos o reglas previstos en las invitaciones o convocatorias cuando no lo están; simulando el cumplimiento de éstos o coadyuvando a su cumplimiento extemporáneo.
+
+f) Beneficiar a los proveedores sobre el cumplimiento de los requisitos previstos en las solicitudes de cotización.
+
+g) Proporcionar de manera indebida información de los particulares que participen en los procedimientos de contrataciones públicas.
+
+h) Ser parcial en la selección, designación, contratación, y en su caso, remoción o rescisión del contrato, en los procedimientos de contratación.
+
+i) Influir en las decisiones de otros servidores públicos para que se beneficie a un participante en los procedimientos de contratación o para el otorgamiento de licencias, permisos, autorizaciones y concesiones.
+
+j) Evitar imponer sanciones a licitantes, proveedores y contratistas que infrinjan las disposiciones jurídicas aplicables.
+
+k) Enviar correos electrónicos a los licitantes, proveedores, contratistas o concesionarios a través de cuentas personales o distintas al correo institucional.
+
+l) Reunirse con licitantes, proveedores, contratistas y concesionarios fuera de los inmuebles oficiales, salvo para los actos correspondientes a la visita al sitio.
+
+m) Solicitar requisitos sin sustento para el otorgamiento y prórroga de licencias, permisos, autorizaciones y concesiones.
+
+n) Dar trato inequitativo o preferencial a cualquier persona u organización en la gestión que se realice para el otorgamiento y prórroga de licencias, permisos, autorizaciones y concesiones.
+
+ñ) Recibir o solicitar cualquier tipo de compensación, dádiva, obsequio o regalo en la gestión que se realice para el otorgamiento y prórroga de licencias, permisos, autorizaciones y concesiones.
+
+o) Dejar de observar el protocolo de actuación en materia de contrataciones públicas y otorgamiento de licencias, permisos, autorizaciones, concesiones y sus prórrogas.
+
+p) Ser beneficiario directo o a través de familiares hasta el cuarto grado, de contratos gubernamentales relacionados con la dependencia o entidad que dirige o en la que presta sus servicios.
+
+q) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
+
+IV. Programas Gubernamentales
+
+Los servidores públicos que con motivo de su empleo, cargo, comisión o función o a través de subordinados, participan en el otorgamiento y operación de subsidios y apoyos de programas gubernamentales, garantizan que la entrega de estos beneficios se apeguen a los principios de igualdad y no discriminación, legalidad, imparcialidad, transparencia y respeto.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+a) Ser beneficiario directo o a través de familiares hasta el cuarto grado, de programas de subsidios o apoyos de la dependencia o entidad que dirige o en la que presta sus servicios.
+
+b) Permitir la entrega o entregar subsidios o apoyos de programas gubernamentales, de manera diferente a la establecida en la (sic) reglas de operación.
+
+c) Brindar apoyos o beneficios de programas gubernamentales a personas, agrupaciones o entes que no cumplan con los requisitos y criterios de elegibilidad establecidos en las reglas de operación.
+
+d) Proporcionar los subsidios o apoyos de programas gubernamentales en períodos restringidos por la autoridad electoral, salvo casos excepcionales por desastres naturales o de otro tipo de contingencia declarada por las autoridades competentes.
+
+e) Dar trato inequitativo o preferencial a cualquier persona u organización en la gestión del subsidio o apoyo del programa, lo cual incluye el ocultamiento, retraso o entrega engañosa o privilegiada de información.
+
+f) Discriminar a cualquier interesado para acceder a los apoyos o beneficios de un programa gubernamental.
+
+g) Alterar, ocultar, eliminar o negar información que impida el control y evaluación sobre el otorgamiento de los beneficios o apoyos a personas, agrupaciones o entes, por parte de las autoridades facultadas.
+
+h) Entregar, disponer o hacer uso de la información de los padrones de beneficiarios de programas gubernamentales diferentes a las funciones encomendadas.
+
+i) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
+
+V. Trámites y Servicios
+
+Los servidores públicos que con motivo de su empleo, cargo, comisión o función participan en las prestaciones de trámites y en el otorgamiento de servicios, atienden a los usuarios de forma respetuosa, eficiente, oportuna, responsable e imparcial.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+a) Ejercer una actitud contraria de servicio, respeto y cordialidad en el trato, incumpliendo protocolos de actuación o atención al público.
+
+b) Otorgar información falsa sobre el proceso y requisitos para acceder a consultas, trámites, gestiones y servicios.
+
+c) Realizar trámites y otorgar servicios de forma deficiente, retrasando los tiempos de respuesta, consultas, trámites, gestiones y servicios.
+
+d) Exigir, por cualquier medio, requisitos o condiciones adicionales a los señalados por las disposiciones jurídicas que regulan los trámites y servicios.
+
+e) Discriminar por cualquier motivo en la atención de consultas, la realización de trámites y gestiones, y la prestación de servicios.
+
+f) Recibir o solicitar cualquier tipo de compensación, dádiva, obsequio o regalo en la gestión que se realice para el otorgamiento del trámite o servicio.
+
+g) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
+
+VI. Recursos Humanos
+
+Los servidores públicos que participan en procedimientos de recursos humanos, de planeación de estructuras o que desempeñan en general un empleo, cargo, comisión o función, se apegan a los principios de igualdad y no discriminación, legalidad, imparcialidad, transparencia y rendición de cuentas.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+a) Dejar de garantizar la igualdad de oportunidades en el acceso a la función pública con base en el mérito.
+
+b) Designar, contratar o nombrar en un empleo, cargo, comisión o función, a personas cuyos intereses particulares, laborales, profesionales, económicos o de negocios puedan estar en contraposición o percibirse como contrarios a los intereses que les corresponderá velar si se desempeñaran en el servicio público.
+
+c) Proporcionar a un tercero no autorizado, información contenida en expedientes del personal y en archivos de recursos humanos bajo su resguardo.
+
+d) Suministrar información sobre los reactivos de los exámenes elaborados para la ocupación de plazas vacantes a personas ajenas a la organización de los concursos.
+
+e) Seleccionar, contratar, nombrar o designar a personas, sin haber obtenido previamente, la constancia de no inhabilitación.
+
+f) Seleccionar, contratar, nombrar o designar a personas que no cuenten con el perfil del puesto, con los requisitos y documentos establecidos, o que no cumplan con las obligaciones que las leyes imponen a todo ciudadano.
+
+g) Seleccionar, contratar, designar o nombrar directa o indirectamente como subalternos a familiares hasta el cuarto grado de parentesco.
+
+h) Inhibir la formulación o presentación de inconformidades o recursos que se prevean en las disposiciones aplicables para los procesos de ingreso.
+
+i) Otorgar a un servidor público subordinado, durante su proceso de evaluación, una calificación que no corresponda a sus conocimientos, actitudes, capacidades o desempeño.
+
+j) Disponer del personal a su cargo en forma indebida, para que le realice trámites, asuntos o actividades de carácter personal o familiar ajenos al servicio público.
+
+k) Presentar información y documentación falsa o que induzca al error, sobre el cumplimiento de metas de su evaluación del desempeño.
+
+l) Remover, cesar, despedir, separar o dar o solicitar la baja de servidores públicos de carrera, sin tener atribuciones o por causas y procedimientos no previstos en las leyes aplicables.
+
+m) Omitir excusarse de conocer asuntos que puedan implicar cualquier conflicto de interés.
+
+n) Evitar que el proceso de evaluación del desempeño de los servidores públicos se realice en forma objetiva y en su caso, dejar de retroalimentar sobre los resultados obtenidos cuando el desempeño del servidor público sea contrario a lo esperado.
+
+ñ) Eludir, conforme a sus atribuciones, la reestructuración de áreas identificadas como sensibles o vulnerables a la corrupción o en las que se observe una alta incidencia de conductas contrarias al Código de Ética, a las Reglas de Integridad o al Código de Conducta.
+
+o) así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
+
+VII. Administración de Bienes Muebles e Inmuebles
+
+Los servidores públicos que con motivo de su empleo, cargo, comisión o función, participan en procedimientos de baja, enajenación, transferencia o destrucción de bienes muebles o de administración de bienes inmuebles, administran los recursos con eficiencia, transparencia y honradez para satisfacer los objetivos a los que están destinados.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+a) Solicitar la baja, enajenación, transferencia o destrucción de bienes, cuando éstos sigan siendo útiles.
+
+b) Compartir información con terceros ajenos a los procedimientos de baja, enajenación, transferencia o destrucción de bienes públicos, o sustituir documentos o alterar éstos.
+
+c) Recibir o solicitar cualquier tipo de compensación, dádiva, obsequio o regalo, a cambio de beneficiar a los participantes en los procedimientos de enajenación de bienes muebles e inmuebles.
+
+d) Intervenir o influir en las decisiones de otros servidores públicos para que se beneficie a algún participante en los procedimientos de enajenación de bienes muebles e inmuebles.
+
+e) Tomar decisiones en los procedimientos de enajenación de bienes muebles e inmuebles, anteponiendo intereses particulares que dejen de asegurar las mejores condiciones en cuanto a precio disponible en el mercado.
+
+f) Manipular la información proporcionada por los particulares en los procedimientos de enajenación de bienes muebles e inmuebles.
+
+g) Utilizar el parque vehicular terrestre, marítimo o aéreo, de carácter oficial o arrendado para este propósito, para uso particular, personal o familiar, fuera de la normativa establecida por la dependencia o entidad en que labore.
+
+h) Utilizar los bienes inmuebles para uso ajeno a la normatividad aplicable.
+
+i) Disponer de los bienes y demás recursos públicos sin observar las normas a los que se encuentran afectos y destinarlos a fines distintos al servicio público.
+
+j) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
+
+VIII. Procesos de Evaluación
+
+Los servidores públicos que con motivo de su empleo, cargo, comisión o función, participan en procesos de evaluación, se apegan en todo momento a los principios de legalidad, imparcialidad y rendición de cuentas.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+a) Proporcionar indebidamente la información contenida en los sistemas de información de la Administración Pública del Estado de Sinaloa o acceder a ésta por causas distintas al ejercicio de sus funciones y facultades.
+
+b) Trasgredir el alcance y orientación de los resultados de las evaluaciones que realice cualquier instancia externa o interna en materia de evaluación o rendición de cuentas.
+
+c) Dejar de atender las recomendaciones formuladas por cualquier instancia de evaluación, ya sea interna o externa.
+
+d) Alterar registros de cualquier índole para simular o modificar los resultados de las funciones, programas y proyectos gubernamentales.
+
+e) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
+
+IX. Control Interno
+
+Los servidores públicos que en el ejercicio de su empleo, cargo, comisión o función, participan en procesos en materia de control interno, generan, obtienen, utilizan y comunican información suficiente, oportuna, confiable y de calidad, apegándose a los principios de legalidad, imparcialidad y rendición de cuentas.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+a) Dejar de comunicar los riesgos asociados al cumplimiento de objetivos institucionales, así como los relacionados con corrupción y posibles irregularidades que afecten los recursos económicos públicos.
+
+b) Omitir diseñar o actualizar las políticas o procedimientos necesarios en materia de control interno.
+
+c) Generar información financiera, presupuestaria y de operación sin el respaldo suficiente.
+
+d) Comunicar información financiera, presupuestaria y de operación incompleta, confusa o dispersa.
+
+e) Omitir supervisar los planes, programas o proyectos a su cargo, en su caso, las actividades y el cumplimiento de las funciones del personal que le reporta.
+
+f) Dejar de salvaguardar documentos e información que se deban conservar por su relevancia o por sus aspectos técnicos, jurídicos, económicos o de seguridad.
+
+g) Ejecutar sus funciones sin establecer las medidas de control que le correspondan.
+
+h) Omitir modificar procesos y tramos de control, conforme a sus atribuciones, en áreas en las que se detecten conductas contrarias al Código de Ética o al Código de Conducta.
+
+i) Dejar de implementar, en su caso, de adoptar, mejores prácticas y procesos para evitar la corrupción y prevenir cualquier conflicto de interés.
+
+j) Inhibir las manifestaciones o propuestas que tiendan a mejorar o superar deficiencias de operación, de procesos, de calidad de trámites y servicios, o de comportamiento ético de los servidores públicos.
+
+k) Eludir establecer estándares o protocolos de actuación en aquellos trámites o servicios de atención directa al público o dejar de observar aquéllos previstos por las instancias competentes.
+
+l) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
+
+X. Procedimiento Administrativo
+
+Los servidores públicos que en el ejercicio de su empleo, cargo, comisión o función, participan en procedimientos administrativos tienen una cultura de denuncia, respetan las formalidades esenciales del procedimiento y la garantía de audiencia conforme al principio de legalidad.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+a) Omitir notificar el inicio del procedimiento y sus consecuencias.
+
+b) Dejar de otorgar la oportunidad de ofrecer pruebas.
+
+c) Prescindir el desahogo de pruebas en que se finque la defensa.
+
+d) Excluir la oportunidad de presentar alegatos.
+
+e) Omitir señalar los medios de defensa que se pueden interponer para combatir la resolución dictada.
+
+f) Negarse a informar, declarar o testificar sobre hechos que le consten relacionados con conductas contrarias a la normatividad, así como al Código de Ética y al Código de Conducta.
+
+g) inobservar criterios de legalidad, imparcialidad, objetividad y discreción en los asuntos de los que tenga conocimiento que impliquen contravención a la normatividad, así como al Código de Ética o al Código de Conducta.
+
+h) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
+
+XI. Desempeño Permanente con Integridad
+
+Los servidores públicos que desempeñan un empleo, cargo, comisión o función, conducen su actuación con legalidad, imparcialidad, objetividad, transparencia, certeza, cooperación, ética e integridad.
+
+Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
+
+a) Omitir conducirse con un trato digno y cordial, conforme a los protocolos de actuación o atención al público, y de cooperación entre servidores públicos.
+
+b) Realizar cualquier tipo de discriminación tanto a otros servidores públicos como a toda persona en general.
+
+c) Retrasar de manera negligente las actividades que permitan atender de forma ágil y expedita al público en general.
+
+d) Hostigar, agredir, amedrentar, acosar, intimidar o amenazar a compañeros de trabajo o personal subordinado.
+
+e) Ocultar información y documentación gubernamental, con el fin de entorpecer las solicitudes de acceso a información pública.
+
+f) Recibir, solicitar o aceptar cualquier tipo de compensación, dádiva, obsequio o regalo en la gestión y otorgamiento de trámites y servicios.
+
+g) Realizar actividades particulares en horarios de trabajo que contravengan las medidas aplicables para el uso eficiente, transparente y eficaz de los recursos públicos.
+
+h) Omitir excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar, de negocios, o cualquier otro en el que tenga algún conflicto de interés.
+
+i) Aceptar documentación que no reúna los requisitos fiscales para la comprobación de gastos de representación, viáticos, pasajes, alimentación, telefonía celular, entre otros.
+
+j) Utilizar el parque vehicular terrestre, marítimo o aéreo, de carácter oficial o arrendado para este propósito, para uso particular, personal o familiar, fuera de la normativa establecida por la dependencia o entidad en que labore.
+
+k) Solicitar la baja, enajenación, transferencia o destrucción de bienes muebles, cuando éstos sigan siendo útiles.
+
+l) Obstruir la presentación de denuncias o acusaciones o sobre el uso indebido o de derroche de recursos económicos que impidan o propicien la rendición de cuentas.
+
+m) Evitar conducirse con criterios de sencillez, austeridad y uso adecuado de los bienes y medios que disponga con motivo del ejercicio del cargo público.
+
+n) Conducirse de manera ostentosa, inadecuada desproporcionada respecto a la remuneración y apoyos que se determinen presupuestalmente para su cargo público.
+
+ñ) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
+
+XII. Cooperación con la Integridad
+
+Los servidores públicos en el desempeño de su empleo, cargo, comisión o función, cooperan con la dependencia o entidad en la que laboran y con las instancias encargadas de velar por la observancia de los principios y valores intrínsecos a la función pública, en el fortalecimiento de la cultura ética y de servicio a la sociedad.
+
+Son acciones que, de manera enunciativa y no limitativa, hacen posible propiciar un servicio público integro, las siguientes:
+
+a) Detectar áreas sensibles o vulnerables a la corrupción.
+
+b) Proponer, en su caso, adoptar cambios a las estructuras y procesos a fin de inhibir ineficiencias, corrupción y conductas antiéticas.
+
+c) Recomendar, diseñar y establecer mejores prácticas a favor del servicio público.
+
+d) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
+
+XIII. Comportamiento Digno
+
+Los servidores públicos en el desempeño de su empleo, cargo, comisión o función, conducen su actuación respetando estrictamente la dignidad de todas las personas con la (sic) que tienen trato durante el cumplimiento de sus obligaciones institucionales.
+
+Son acciones que, de manera enunciativa y no limitativa, hacen posible propiciar un servicio público digno, las siguientes:
+
+a) Desempeñarse en el quehacer institucional considerando que la dignidad humana es el derecho que tiene cada ser humano, de ser respetado y valorado como ser individual y social, con sus características y condiciones particulares, por el solo hecho de ser persona.
+
+b) Concientizar de que todas las personas somos iguales como sujetos de derechos, y aquellos con menores posibilidades deben ser ayudados para que tengan igualdad de oportunidades.
+
+c) Dar un trato igualitario a todas las personas independientemente de su origen étnico o nacional, sexo, religión, ideología, coeficiente intelectual, mucho o poco dinero, problemas de salud, rasgos físicos (alto, bajo, rubio, moreno, delgado, robusto, etcétera).
+
+d) Manifestar y difundir que como seres dignos (valiosos) somos merecedores del derecho a la vida, a la libertad, a la educación y a la cultura, al trabajo, a poseer una vivienda, a constituir una familia, tener alimentación saludable y recreación. Debemos poder elegir nuestro destino, nuestra vocación, nuestras ideas, con el único límite del respeto a la dignidad de las demás personas.
+
+e) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
 
 ###### Artículo 8.
 
@@ -463,7 +761,7 @@ No quedan comprendidos entre los bienes del dominio público los inmuebles que l
 
 Quienes de acuerdo con este Código, no estén obligadas a pagar contribuciones, únicamente tendrán las obligaciones de carácter administrativo que en el mismo se establezcan.
 
-### CAPITULO SEGUNDO. DEL NACIMIENTO, DETERMINACION, GARANTIA Y EXTINCION DE CREDITOS FISCALES
+### CAPITULO SEGUNDO. PRINCIPIOS RECTORES DEL SERVICIO PÚBLICO
 
 ###### Artículo 24.
 
@@ -975,7 +1273,7 @@ La cancelación de créditos fiscales, procederá cuando sea incosteable o impos
 
 La cancelación de los créditos a que se refiere este artículo no libera de su pago.
 
-### CAPITULO TERCERO. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES
+### CAPITULO TERCERO. VALORES
 
 ###### Artículo 46.
 
@@ -1153,72 +1451,6 @@ IV. El dictamen sea formulado y presentado de conformidad con los lineamientos e
 
 > <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-###### Artículo 47-D.
-
-El Contador Público que desee obtener autorización para formular dictamen fiscal a los contribuyentes sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal en los términos de este Código, deberán cubrir los siguientes requisitos:
-
-I. Presentar solicitud ante la Secretaría, en la que manifieste lo siguiente:
-
-A). Nombre, nacionalidad, registro federal de contribuyentes, clave única de registro de población y el número de registro asignado por la Dirección General de Auditoria Fiscal Federal para formular dictamen a nivel federal, en caso de contar con dicho registro.
-
-B). Domicilio en el territorio del Estado para oír y recibir notificaciones por los actos que se emitan en relación con los dictámenes que formule.
-
-C). El nombre, denominación o razón social del colegio profesional o asociación de contadores públicos reconocida y autorizada por la Secretaría de Educación Pública y, en su caso, de la Federación de Colegios Profesionales a la que pertenezca, al momento de presentar esta solicitud, así como el número de socio que tenga en dichas agrupaciones.
-
-D). Manifestar bajo protesta de decir verdad que cuenta con experiencia mínima de tres años participando en la elaboración de dictámenes fiscales, que ha sido miembro de colegios profesionales o asociaciones de contadores públicos reconocidos y autorizados por la Secretaría de Educación Pública cuando menos durante los últimos tres años previos a la presentación de esta solicitud y que no está sujeto a proceso o condenado por delitos de carácter fiscal o intencionales que ameriten pena corporal.
-
-E). En caso de ser funcionario, socio, accionista, integrante o miembro de personas jurídicas colectivas, o en caso de tener conferido algún cargo o función en éstas o de estar vinculado de cualquier otra forma con dichas personas, deberá indicar el nombre, denominación o razón social y registro federal de contribuyentes de éstas, manifestando el vínculo que tienen entre sí y la fecha a partir de la cual se estableció dicho vínculo.
-
-Para el caso de que la persona jurídica colectiva a la que preste sus servicios profesionales, proporcione servicios de auditoria adicionalmente deberá indicar el número de registro que ésta tenga asignado por la Dirección General de Auditoria Fiscal Federal.
-
-II. Adjuntar a la solicitud de autorización los siguientes documentos en original o copia certificada para cotejo y fotocopia simple:
-
-A). El que acredite su nacionalidad mexicana, o extranjera cuando tenga derecho a dictaminar conforme a los tratados internacionales de que México sea parte.
-
-B). Cédula profesional de Contador Público otorgada por la Secretaría de Educación Pública.
-
-C). Identificación oficial.
-
-D). Cédula de Identificación Fiscal.
-
-E). Comprobante del domicilio que señale dentro del territorio del Estado con fecha de expedición no mayor a dos meses.
-
-F) Constancia emitida por colegios profesionales o asociaciones de contadores públicos reconocidos y autorizados por la Secretaría de Educación Pública en la que acredite su calidad de miembro activo en alguna de dichas agrupaciones cuando menos en los últimos tres años previos a la presentación de la solicitud de autorización para formular dictamen.
-
-G). Constancia de cumplimiento de la norma de educación profesional continua o de actualización académica relativa al año previo al de la solicitud de autorización para formular dictamen, expedida por colegios profesionales o asociaciones de contadores públicos reconocidos y autorizados por la Secretaría de Educación Pública.
-
-El Contador Público que sea autorizado para formular dictamen, deberá manifestar a la autoridad fiscal competente cualquier modificación a la información que le proporcione a dicha autoridad fiscal conforme a este artículo, dentro de los quince días siguientes a la fecha en que esto ocurra, presentando los documentos pertinentes que amparen la actualización de esa información.
-
-Asimismo, el Contador Público autorizado deberá comprobar ante la autoridad fiscal competente dentro de los tres primeros meses de cada año, que continúa siendo miembro activo de un colegio profesional o asociación que estén reconocidos y autorizados por la Secretaría de Educación Pública y que cumplió con la norma de educación profesional continua o con su actualización académica, presentando las constancias pertinentes.
-
-El registro otorgado a los contadores públicos para formular el dictamen será dado de baja del padrón de profesionistas autorizados que tengan las autoridades fiscales cuando dichos contadores no formulen dictamen a contribuyente alguno sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal en un periodo de tres años, plazo que se computará a partir del día siguiente a aquel en que se presentó el último dictamen que hayan formulado. En estos casos, se dará inmediatamente aviso por escrito al Contador Público en cuestión, al colegio profesional o asociación de contadores públicos y, en su caso, a la federación de colegios profesionales a la que pertenezca. El Contador Público podrá solicitar a la autoridad fiscal competente que quede sin efectos la baja de su registro del padrón citado en un plazo de 15 días posteriores a la fecha en que reciba el aviso correspondiente, manifestando los motivos que tenga para ello.
-
-Cuando un Contador Público formule dictamen sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal en contravención a lo dispuesto en este Código, la autoridad fiscal competente lo amonestará, suspenderá temporalmente los efectos de su registro para formular dictamen o cancelará definitivamente el registro que le haya otorgado revocando la autorización correspondiente, de conformidad a la fracción III del artículo 362 Bis de este Código, previa la garantía de audiencia establecida en el artículo 129 del Código de Procedimientos Administrativos del Estado de México.
-
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-###### Artículo 47-E.
-
-Estará impedido para formular dictamen sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, por afectar su independencia mental e imparcialidad de criterio, el Contador Público autorizado que:
-
-I. Sea cónyuge, pariente por consanguinidad o civil en línea recta sin limitación de grado, transversal dentro del cuarto y por afinidad dentro del segundo, del propietario o socio principal del contribuyente a dictaminar o de algún director, administrador o empleado que tenga intervención importante en la administración.
-
-II. Sea o haya sido en el ejercicio fiscal que dictamina, director, miembro del consejo de administración, administrador, comisario o empleado del contribuyente o de una empresa afiliada, subsidiaria o que esté vinculada económica o administrativamente a él, cualquiera que sea la forma como se le designe aún y cuando no se le retribuyan sus servicios.
-
-III. Tenga o haya tenido en el ejercicio fiscal que dictamine, alguna injerencia o vinculación económica en los negocios del contribuyente que le impida mantener su independencia mental e imparcialidad de criterio.
-
-IV. Reciba, por cualquier circunstancia o motivo, participación directa en función de los resultados del dictamen que formule o lo emita en circunstancias en las que su emolumento dependa del resultado del mismo.
-
-V. Sea agente o corredor de bolsa de valores en ejercicio.
-
-VI. Sea funcionario o empleado del Gobierno Federal, Estatal o Municipal o de un organismo descentralizado competente para determinar contribuciones locales o federales.
-
-VII. Se encuentre vinculado él o la persona jurídica colectiva a la que preste sus servicios profesionales, en cualquier otra forma con el contribuyente, que le impida independencia mental e imparcialidad de criterio.
-
-Para los efectos del presente artículo, el Contador Público autorizado que formule dictamen deberá manifestar bajo protesta de decir verdad en dicho dictamen, que no existe impedimento alguno que afecte su independencia mental e imparcialidad de criterio respecto del contribuyente dictaminado. En caso de que el Contador Público que formula el dictamen o la persona jurídica colectiva a la que preste sus servicios profesionales hayan proporcionado directamente o a través de terceros, servicios contables, fiscales, legales, financieros, consultivos, de asesoría o de cualquier otra índole a dicho contribuyente hasta por los dos ejercicios fiscales inmediatos anteriores al que se dictamina, el Contador Público en cuestión deberá manifestar el registro federal de contribuyentes de quien prestó dichos servicios, la descripción de los mismos y la fecha en que éstos fueron prestados.
-
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
 ###### Artículo 47-F.
 
 Las normas de auditoria a que se refiere la fracción II del artículo 47 C de este Código, se consideran cumplidas en la forma siguiente:
@@ -1237,28 +1469,6 @@ En caso de excepciones a lo anterior, el Contador Público deberá mencionar cla
 
 > <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-###### Artículo 47-G.
-
-La información cuantitativa a que se refiere la fracción III del quinto párrafo del artículo 47 B de este Código, se presentará en forma mensual, se expresará en pesos y se referirá en forma precisa a los conceptos o parámetros y tasa que conforme a este Código resulten aplicables durante el ejercicio fiscal dictaminado, para la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, incluyendo pagos definitivos y en su caso pagos provisionales, misma que deberá contener y cumplir con lo siguiente:
-
-I. La integración de esta información se presentará por cada uno de los establecimientos dentro del territorio del Estado, en los que se haya realizado el hecho generador o actividades que generen obligaciones fiscales respecto del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, indicando su domicilio o ubicación.
-
-II. La información se mostrará relacionada con la descripción de la base para la determinación y el pago de la contribución revisada, observando las diferencias determinadas respecto del cálculo del contribuyente dictaminado, debiendo manifestarse todos los pagos realizados por dicho contribuyente en efectivo o en especie por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado, independientemente de la denominación que se les haya otorgado, así como el número total de trabajadores a los que se realizaron dichos pagos, informando aquellos pagos que no se consideraron en la determinación y pago referido.
-
-III. En cuanto a los pagos de la contribución revisada que haya realizado el contribuyente dictaminado, deberá mencionarse su importe, así como la fecha y la forma en que éstos se efectuaron y los datos que permitan su identificación. Asimismo, se indicará el monto de las compensaciones, bonificaciones o estímulos fiscales disminuidos del impuesto a cargo determinado por el contribuyente durante el ejercicio fiscal que se dictamina, cuando dichas aplicaciones hayan sido autorizadas por las autoridades fiscales y surtido sus efectos en ese ejercicio fiscal.
-
-IV. En caso de que el contribuyente dictaminado tenga saldos a favor de la contribución revisada provenientes de ejercicios fiscales anteriores al que se refiera el dictamen y que se encuentren pendientes de aplicación al cierre del ejercicio fiscal inmediato anterior al que se revisa, dichos saldos y los que en su caso se generen en el ejercicio fiscal revisado, deberán manifestarse en el dictamen indicando la fecha en la cual se originaron. En el supuesto de que los saldos a favor referidos se hayan compensado o solicitado en devolución durante el ejercicio fiscal revisado, deberá de señalarse dicha aplicación.
-
-V. Análisis pormenorizado de la contribución revisada cuando se encuentre por pagar al cierre del ejercicio fiscal que se dictamina, el cual se presentará por cada período de causación al que esté sujeta, una vez considerados los pagos que hayan sido cubiertos por el contribuyente a la fecha de presentación del dictamen formulado. Si el contribuyente solicitó y en su caso, obtuvo la autorización para el pago en parcialidades del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, esta situación deberá manifestarse señalando los datos de referencia del documento pertinente.
-
-VI. Análisis entre las cifras dictaminadas acumuladas de las remuneraciones al trabajo personal prestado dentro del territorio del Estado determinadas por el Contador Público y los saldos finales de las cuentas y subcuentas de gastos de fabricación, de administración, de ventas, financieros y otros gastos incluidos en la balanza de comprobación del contribuyente dictaminado que respalde la información contenida en sus estados financieros al cierre del ejercicio fiscal revisado, resultantes de la contabilidad que esté obligado a llevar, indicando además por cada una de dichas cuentas y subcuentas el número de referencia contable de conformidad con el catálogo de cuentas que tenga establecido el contribuyente en cuestión, debiendo manifestarse las aclaraciones pertinentes por las diferencias observadas. Los saldos finales referidos serán aquellos que se obtengan una vez realizados los asientos de ajuste contables que en su caso resulten pertinentes con motivo de la auditoria practicada.
-
-En caso de que los saldos finales de las cuentas y subcuentas de los gastos mencionados en el párrafo inmediato anterior contengan información relativa a erogaciones realizadas por concepto de remuneraciones al trabajo personal prestado fuera del territorio del Estado, el análisis descrito en este inciso deberá efectuarse únicamente respecto del monto que represente en dichos saldos las erogaciones realizadas por el contribuyente dictaminado por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado.
-
-VII. Análisis comparativo respecto de los conceptos o parámetros considerados por el contribuyente dictaminado en relación con la contribución revisada, presentado en forma comparativa con el ejercicio fiscal inmediato anterior al que se refiera el dictamen.
-
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
 ###### Artículo 47-H.
 
 En el informe a que se refiere la fracción IV del quinto párrafo del artículo 47 B, en relación a la fracción III del artículo 47 C ambos del Código, el Contador Público deberá manifestar bajo protesta de decir verdad lo siguiente:
@@ -1273,7 +1483,9 @@ IV. Que se revisaron en función de su naturaleza y mecánica de aplicación uti
 
 V. Que se revisó la información relativa a la aplicación de compensaciones, devoluciones, bonificaciones, estímulos fiscales o exenciones efectuadas en su caso por el contribuyente y que éstas se aplicaron en estricto apego a las disposiciones fiscales respectivas.
 
-### CAPITULO CUARTO. DE LAS FACULTADES DE LAS AUTORIDADES FISCALES
+### CAPITULO CUARTO
+
+REGLAS DE INTEGRIDAD.
 
 ###### Artículo 48.
 
@@ -13850,6 +14062,18 @@ I. Por la interposición del recurso administrativo o la presentación de la dem
 II. Por consulta entre autoridades, si de dicha consulta depende la entrega de los bienes a los interesados.
 
 ## TRANSITORIOS
+
+PRIMERO.- El presente Código de Conducta del Instituto Sinaloense de la Juventud, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En cumplimiento de lo establecido en el artículo Décimo Tercero de los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativa, (sic) emitidos por la Secretaría Ejecutiva del Sistema Nacional Anticorrupción, el presente Código, deberá de publicarse en el Periódico Oficial "El Estado de Sinaloa"; asimismo, en concordancia con lo establecido en el artículo 9 del Código de Ética de los Servidores Públicos del Gobierno del Estado de Sinaloa publicado el 7 de septiembre de 2020 en el periódico oficial "El Estado de Sinaloa", el presente Código deberá de difundirse y publicarse, en la página de internet institucional del Instituto Sinaloense de la Juventud.
+
+TERCERO.- Las Áreas del Instituto Sinaloense de la Juventud, a través del Comité de Ética, deberán hacer del conocimiento al personal adscrito a sus áreas el Código de Conducta de esta Dependencia, mediante oficios y acuse, presentaciones presenciales, cuadernillo impreso, correo electrónico y por otras vías más eficaces existentes, una vez publicado el mismo.
+
+Dado en la Ciudad de Culiacán, Sinaloa a los 25 días del mes de noviembre del dos mil veinte.
+
+C. Jesús Joaquín Rodríguez Astengo
+
+Director General del Instituto Sinaloense de la Juventud
 
 ###### ARTICULO PRIMERO.
 
