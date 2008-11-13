@@ -4,7 +4,7 @@ identifier: "LFPRH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2006-03-30"
-last_updated: "2007-10-01"
+last_updated: "2008-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49841&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPRH"
 
 LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE NOVIEMBRE DE 2008.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de marzo de 2006.
 
@@ -392,6 +392,14 @@ El Ejecutivo Federal reportará en los informes trimestrales el avance de las ac
 
 En caso de que el Congreso de la Unión modifique el déficit presupuestario en la Ley de Ingresos, deberá motivar su decisión sujetándose a las fracciones I y II de este artículo. A partir de la aprobación del déficit a que se refiere este párrafo el Ejecutivo Federal deberá dar cumplimiento a los demás requisitos previstos en este artículo.
 
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+
+El gasto en inversión de Petróleos Mexicanos y sus organismos subsidiarios no se contabilizará para efectos del equilibrio presupuestario previsto en este artículo. Lo anterior, sin perjuicio de que los requerimientos financieros del sector público deberán contribuir a mantener la salud financiera de la Administración Pública Federal y a una evolución ordenada del saldo histórico de los requerimientos financieros del sector público.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+
+Los proyectos en que se ejerza el gasto de inversión a que se refiere el párrafo anterior se sujetarán a las disposiciones legales en materia de registro y seguimiento. Dichos proyectos deberán incrementar el valor patrimonial total de Petróleos Mexicanos y sus organismos subsidiarios. Asimismo, los proyectos de inversión de Petróleos Mexicanos y sus organismos subsidiarios cuya ejecución comprenda más de un ejercicio fiscal serán incluidos, según corresponda, en los capítulos específicos del proyecto de Presupuesto de Egresos relativos a los compromisos plurianuales y a las erogaciones plurianuales para proyectos de inversión, a que se refieren, respectivamente, los incisos g) y ñ) de la fracción II del artículo 41 de esta Ley, y su evolución se incluirá en los informes trimestrales.
+
 ###### Artículo 18.
 
 A toda propuesta de aumento o creación de gasto del proyecto de Presupuesto de Egresos, deberá agregarse la correspondiente iniciativa de ingreso distinta al financiamiento o compensarse con reducciones en otras previsiones de gasto.
@@ -430,7 +438,11 @@ c) En un 40% al Fondo de Estabilización de los Ingresos Petroleros.
 
 d) En un 10% a programas y proyectos de inversión en infraestructura y equipamiento de las entidades federativas. Dichos recursos se destinarán a las entidades federativas conforme a la estructura porcentual que se derive de la distribución del Fondo General de Participaciones reportado en la Cuenta Pública más reciente.
 
-Los ingresos excedentes se destinarán a los Fondos a que se refiere esta fracción hasta alcanzar una reserva adecuada para afrontar una caída de la Recaudación Federal Participable o de los ingresos petroleros del Gobierno Federal y de Petróleos Mexicanos. El monto de dichas reservas, en pesos, será igual al producto de la plataforma de producción de hidrocarburos líquidos estimada para el año, expresada en barriles, por un factor de 1.875 para el caso de los incisos a) y b), y de 3.75 en el caso del inciso c), en todos los casos por el tipo de cambio del dólar estadounidense con respecto al peso esperado para el ejercicio. En el caso de los ingresos excedentes para el Fondo a que se refiere el inciso b) de esta fracción, estos recursos se transferirán anualmente a Petróleos Mexicanos para que éste constituya la reserva.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+
+Los ingresos excedentes se destinarán a los Fondos a que se refiere esta fracción hasta alcanzar una reserva adecuada para afrontar una caída de la Recaudación Federal Participable o de los ingresos petroleros del Gobierno Federal y de Petróleos Mexicanos. El monto de dichas reservas, en pesos, será igual al producto de la plataforma de producción de hidrocarburos líquidos estimada para el año, expresada en barriles, por un factor de 3.25 para el caso de los incisos a) y b), y de 6.50 en el caso del inciso c), en todos los casos por el tipo de cambio del dólar estadounidense con respecto al peso esperado para el ejercicio. En el caso de los ingresos excedentes para el Fondo a que se refiere el inciso b) de esta fracción, estos recursos se transferirán anualmente a Petróleos Mexicanos para que éste constituya la reserva, quién podrá emplear hasta el 50% de los recursos acumulados en este fondo al cierre del ejercicio fiscal anterior para la ampliación de la infraestructura de refinación en territorio de los Estados Unidos Mexicanos.
 
 Los Fondos de Estabilización a que se refiere esta fracción se sujetarán a reglas de operación que deberán ser publicadas en el Diario Oficial de la Federación.
 
@@ -468,7 +480,9 @@ En caso de que durante el ejercicio fiscal disminuyan los ingresos previstos en 
 
 I. La disminución de alguno de los rubros de ingresos aprobados en la Ley de Ingresos, podrá compensarse con el incremento que, en su caso, observen otros rubros de ingresos aprobados en dicha Ley, salvo en el caso en que estos últimos tengan un destino específico por disposición expresa de leyes de carácter fiscal o conforme a éstas se cuente con autorización de la Secretaría para utilizarse en un fin específico, así como tratándose de ingresos propios de las entidades de control directo. En caso de que no pueda realizarse la compensación para mantener la relación de ingresos y gastos aprobados o ésta resulte insuficiente, se procederá en los términos de las siguientes fracciones;
 
-II. La disminución de los ingresos petroleros del Gobierno Federal, asociada a disminuciones en el precio promedio ponderado de barril de petróleo crudo mexicano y de otros hidrocarburos o a movimientos del tipo de cambio del peso respecto del dólar de los Estados Unidos de América durante el ejercicio fiscal en cuestión, por debajo de los estimados para la Ley de Ingresos, se podrá compensar con los recursos del Fondo de Estabilización de los Ingresos Petroleros en los términos de las reglas de operación que emita la Secretaría. En caso de que, conforme a lo previsto en dichas reglas, se llegue al límite de recursos del Fondo sin poder compensar dicha disminución, se procederá a compensar con los ajustes a que se refiere la fracción III del presente artículo.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+
+II. La disminución de los ingresos totales del Gobierno Federal, asociada a una menor recaudación de ingresos tributarios no petroleros, a disminuciones en el precio promedio ponderado de barril de petróleo crudo mexicano y de otros hidrocarburos o de su plataforma de producción, o a movimientos del tipo de cambio del peso respecto del dólar de los Estados Unidos de América durante el ejercicio fiscal en cuestión, por debajo de los estimados para la Ley de Ingresos, se podrá compensar con los recursos del Fondo de Estabilización de los Ingresos Petroleros en los términos de las reglas de operación que emita la Secretaría. En caso de que, conforme a lo previsto en dichas reglas, se llegue al límite de recursos del Fondo sin poder compensar dicha disminución, se procederá a compensar con los ajustes a que se refiere la fracción III del presente artículo.
 
 La disminución en la Recaudación Federal Participable con respecto a lo estimado en la Ley de Ingresos, se podrá compensar con los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas de acuerdo con sus respectivas reglas de operación.
 
@@ -654,7 +668,9 @@ La adquisición de los bienes productivos a que se refiere esta fracción tendr�
 
 Los ingresos que genere cada proyecto de infraestructura productiva de largo plazo, durante la vigencia de su financiamiento, sólo podrán destinarse al pago de las obligaciones fiscales atribuibles al propio proyecto, las de inversión física y costo financiero del mismo, así como de todos sus gastos de operación y mantenimiento y demás gastos asociados, de conformidad con lo dispuesto en el artículo 18 de la Ley General de Deuda Pública. Los remanentes serán destinados a programas y proyectos de inversión de las propias entidades, distintos a proyectos de infraestructura productiva de largo plazo o al gasto asociado de éstos.
 
-En coordinación con la Secretaría, las entidades que lleven a cabo proyectos de infraestructura productiva de largo plazo deberán establecer mecanismos para atenuar el efecto sobre las finanzas públicas derivado de los incrementos previstos en los pagos de amortizaciones e intereses en ejercicios fiscales subsecuentes, correspondientes a financiamientos derivados de dichos proyectos.
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+
+En coordinación con la Secretaría, las entidades que lleven a cabo proyectos de infraestructura productiva de largo plazo deberán establecer mecanismos para atenuar el efecto sobre las finanzas públicas derivado de los incrementos previstos en los pagos de amortizaciones e intereses en ejercicios fiscales subsecuentes, correspondientes a financiamientos derivados de dichos proyectos. Petróleos Mexicanos no podrá realizar los proyectos de infraestructura productiva de largo plazo a que se refieren este artículo y el 18, tercer párrafo, de la Ley General de Deuda Pública.
 
 > <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
@@ -977,6 +993,46 @@ Los Poderes Legislativo y Judicial y los entes autónomos, en caso de ser necesa
 ###### Artículo 48.
 
 El ejercicio de recursos previstos en el gasto de inversión aprobado en el Presupuesto de Egresos se autoriza por las dependencias y entidades, en los términos del Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+
+En el ejercicio del gasto de inversión, exclusivamente en infraestructura y servicios relacionados con la misma, las dependencias y entidades observarán, además de lo dispuesto por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas, lo siguiente:
+
+I. Las personas que previo a un proceso de contratación hayan realizado o se encuentren realizando, por sí o a través de empresas que formen parte del mismo grupo empresarial, en virtud de otro contrato, los trabajos que se mencionan a continuación, que sirvan de base para la realización de un proyecto de infraestructura, podrán participar en la licitación para la construcción o ejecución de dicho proyecto:
+
+a) Trabajos de preparación de especificaciones, presupuesto o la elaboración de cualquier documento vinculado con el procedimiento en que se encuentren interesadas en participar, y
+
+b) Trabajos de preparación de especificaciones de construcción, presupuesto de los trabajos y selección o aprobación de materiales, equipo y procesos.
+
+II. Tratándose de los sectores de comunicaciones, transportes, hidráulico, medio ambiente y turístico, las personas físicas y morales especializadas en las materias respectivas, así como las entidades federativas y municipios, podrán presentar a consideración de las dependencias y entidades competentes propuestas de estudios para la realización de obras asociadas a proyectos de infraestructura, las cuales deberán reunir los requisitos que mediante disposiciones de carácter general expidan las secretarías de Comunicaciones y Transportes, de Medio Ambiente y Recursos Naturales y de Turismo, para cada uno de los sectores mencionados.
+
+Una vez recibidas las propuestas, las dependencias y entidades realizarán un análisis con el objeto de determinar su viabilidad conforme a las disposiciones referidas en el párrafo anterior y su congruencia con el Plan Nacional de Desarrollo y los programas correspondientes y notificarán al promovente su autorización, negativa o, en su caso, observaciones, dentro de un plazo que no excederá de un año. Tratándose de las entidades, la dependencia coordinadora de sector deberá emitir su previa opinión respecto de las propuestas que se autoricen. No procederá recurso alguno en contra de esta resolución.
+
+En caso de que una propuesta sea autorizada en lo general, la dependencia o, tratándose de las entidades, la dependencia coordinadora del sector respectivo, evaluará las condiciones y tiempos de ejecución del proyecto dentro de un plazo no mayor de seis meses.
+
+Las dependencias y entidades a que se refiere el presente artículo podrán adjudicar directamente a los promoventes, distintos a las entidades federativas y municipios, el o los servicios que tengan por objeto concluir los estudios necesarios para proceder a la licitación de la obra de que se trate. El pago de dichos estudios en ningún caso será superior al 5% del monto total del proyecto ejecutivo de que se trate, o bien a la cantidad de 40 millones de pesos, lo que resulte menor, y sólo se realizará en caso de que se adjudique el contrato de obra correspondiente.
+
+Si como resultado del procedimiento de contratación de la obra, la persona física o moral que haya realizado los estudios y demás actividades relacionadas con el proyecto ejecutivo de que se trate resulta ganadora del mismo, dicha persona absorberá el costo de los estudios correspondientes.
+
+Si como resultado del procedimiento de contratación de la obra, quien realizó los estudios y demás actividades relacionadas con el proyecto ejecutivo de la misma no resulta ganador, una vez adjudicado el fallo para la ejecución de la obra, el participante ganador deberá cubrir al primero el costo de los estudios que hubiese autorizado la dependencia o entidad.
+
+Lo dispuesto en los dos párrafos anteriores deberá preverse en las bases de licitación correspondientes.
+
+III. En los casos en que de acuerdo a las leyes respectivas los participantes en procesos de contratación de proyectos de infraestructura interpongan un recurso de inconformidad en contra del fallo, la suspensión se otorgará únicamente a petición de parte y el inconforme deberá otorgar garantía conforme a las disposiciones aplicables, y
+
+IV. Se considerará que las contrataciones de servicios por adjudicación directa, que realicen las instituciones de banca de desarrollo con objeto de financiar y otorgar asistencia técnica a entidades federativas y municipios o como parte del desarrollo o financiamiento de proyectos de infraestructura de los mismos, acreditan los criterios de economía, eficacia, eficiencia, imparcialidad y honradez y que aseguran las mejores condiciones para el Estado cuando se lleven a cabo, exclusivamente, con base en lo que al respecto determinen los órganos de gobierno de dichas Instituciones.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+
+Para efectos de las fracciones I y II de este artículo, la persona física o moral que haya realizado los estudios, trabajos y demás actividades relacionadas con el proyecto ejecutivo, podrá participar en el procedimiento de contratación para la ejecución de la obra, en las mismas condiciones que los demás concursantes. En estos casos, el participante en dicho procedimiento deberá declarar bajo protesta de decir verdad que el proyecto que presenta incluye supuestos, especificaciones y demás información verídicos, así como estimaciones apegadas a las condiciones de mercado. Toda manipulación de los elementos antes referidos, ya sea para que se le adjudique el proyecto o para obtener un beneficio económico indebido, dará lugar a la inhabilitación del participante y, en su caso, al pago de los daños que haya ocasionado al Estado.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+
+Las entidades y demás vehículos o mecanismos que dispongan preponderantemente de recursos públicos federales que sean titulares de una concesión al amparo de la Ley de Caminos, Puentes y Autotransporte Federal, podrán ceder los derechos y obligaciones establecidos en la misma sin sujetarse al plazo establecido en dicho ordenamiento, siempre y cuando recaben la autorización previa de la Secretaría de Comunicaciones y Transportes y se haga mediante concurso público.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+
+Para los supuestos previstos en este artículo la información no podrá ser reservada y será de acceso general, desde el inicio de la propuesta del proyecto y hasta la conclusión de la realización del mismo, pero siempre en apego a las disposiciones legales aplicables en materia de transparencia y acceso a la información pública, así como de adquisiciones, arrendamientos, obras y servicios relacionados con las mismas.
 
 ###### Artículo 49.
 
@@ -1865,3 +1921,37 @@ X. Las modificaciones a los artículos 32, último párrafo; 41, fracción II, i
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Se derogan el artículo 41 de la Ley del Servicio de Tesorería de la Federación y las demás disposiciones que se opongan a lo previsto en el presente Decreto.
+
+D.O.F. 13 DE NOVIEMBRE DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo los límites de las reservas de los fondos de estabilización a que se refiere el artículo 19, fracción IV de esta Ley, los cuales entrarán en vigor a partir del 1 de enero de 2009.
+
+Segundo. Durante los ejercicios fiscales de 2009, 2010 y 2011, el 30% de los ingresos excedentes a que se refiere el último párrafo de la fracción I del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, una vez realizadas, en su caso, las compensaciones entre rubros de ingresos a que se refieren la fracción IV, párrafo primero, del precepto anteriormente citado y el artículo 21, fracción I, de dicha Ley, se destinarán a lo siguiente:
+
+a) En un 35% a programas y proyectos de inversión en infraestructura y equipamiento de las entidades federativas. Dichos recursos se destinarán a las entidades federativas conforme a la estructura porcentual que se derive de la distribución del Fondo General de Participaciones reportado en la Cuenta Pública más reciente.
+
+b) En un 65% a aumentar el alcance de los programas y proyectos de inversión en infraestructura que establezca el Presupuesto de Egresos de la Federación del ejercicio que corresponda.
+
+El resto de los referidos ingresos excedentes se destinará a los fines y en los porcentajes establecidos en las fracciones IV y, en su caso, V del artículo 19 de la Ley citada.
+
+Tercero. Petróleos Mexicanos podrá emplear los recursos acumulados al cierre del ejercicio fiscal 2008 en el Fondo de Estabilización para la Inversión en Infraestructura de Petróleos Mexicanos con el propósito de financiar la construcción de una nueva refinería en territorio de los Estados Unidos Mexicanos e inversión en infraestructura de la entidad.
+
+Cuarto. Petróleos Mexicanos deberá contar con un comité en materia de estrategia e inversiones el cual tendrá, entre otras funciones, el análisis del plan estratégico y el portafolio de inversiones de dicha entidad y sus organismos subsidiarios. Asimismo, el referido comité llevará el seguimiento de las inversiones y su evaluación, una vez que hayan sido realizadas.
+
+Para la realización de sus funciones, el comité a que se refiere el párrafo anterior se apoyará en un área especializada en evaluación de proyectos de inversión del propio organismo. Dicho comité, con la opinión del responsable de llevar el registro de la cartera de inversión en términos del artículo 34 de esta Ley, emitirá los lineamientos a que deberán sujetarse las metodologías que se empleen para la evaluación de los proyectos de inversión. Dichos lineamientos deberán prever, entre otros aspectos, que los proyectos que se financien con recursos provenientes de obligaciones que sean constitutivas de deuda pública, deberán generar los flujos de ingreso necesarios para cubrir dichas obligaciones y su servicio.
+
+El Plan Estratégico Integral de Negocios de Petróleos Mexicanos deberá señalar las principales características de todos los proyectos de inversión plurianuales susceptibles de ser realizados durante el horizonte de tiempo que cubra dicho Plan.
+
+Asimismo, Petróleos Mexicanos deberá contar con un comité en materia de transparencia, el cual deberá emitir reglas para la divulgación al público de información sobre los proyectos de inversión de Petróleos Mexicanos y sus organismos subsidiarios, tales como su monto y rentabilidad, así como de su evaluación, una vez que hayan sido realizados.
+
+Para el seguimiento de la deuda pública, Petróleos Mexicanos entregará reportes semestrales sobre los proyectos de inversión financiados con recursos provenientes de obligaciones constitutivas de deuda pública, en términos de lo dispuesto por el artículo 28 de la Ley General de Deuda Pública y de acuerdo con los lineamientos que para tal efecto se emitan. Estos reportes también se entregarán al Comisario de la entidad.
+
+En términos de lo dispuesto en el párrafo sexto del artículo 32 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, Petróleos Mexicanos a más tardar el 31 de enero de 2009, reconocerá para efectos contables y presupuestarios como deuda pública directa todos los financiamientos asumidos por terceros y por vehículos financieros, garantizados por la entidad, para financiar proyectos de infraestructura productiva de largo plazo a que se refieren los artículos 18, tercer párrafo, de la Ley General de Deuda Pública y 32 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, correspondientes a proyectos autorizados con anterioridad a la entrada en vigor de este Decreto y que se encuentren en etapa de operación o en proceso de construcción en este último caso sólo en la parte correspondiente a la inversión efectivamente realizada. Petróleos Mexicanos podrá utilizar sus disponibilidades para el pago de obligaciones constitutivas de deuda pública de manera anticipada a su vencimiento. Asimismo, en términos del artículo 17 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, de manera excepcional se autoriza registrar en el ejercicio fiscal 2009 el pasivo correspondiente por el reconocimiento de la deuda pública directa a que se refiere este párrafo, así como realizar los ajustes correspondientes en el presupuesto de Petróleos Mexicanos.
+
+Los proyectos de infraestructura productiva de largo plazo ya autorizados que, al cierre del ejercicio fiscal 2008, se encuentren en etapa de construcción, se continuarán realizando bajo la modalidad de inversión presupuestaria; se entenderán autorizados bajo esa modalidad, y en esos términos se deberá incorporar al presupuesto de inversión de Petróleos Mexicanos la parte correspondiente a la inversión que se encuentre pendiente de ejecutar. Los proyectos de infraestructura productiva de largo plazo ya autorizados que, al cierre del ejercicio fiscal 2008, aún no se encuentren en proceso de construcción, para todos los ejercicios fiscales que se requiera hasta en tanto dichos proyectos entren en su etapa de operación, se continuarán realizando bajo la modalidad de inversión presupuestaria; se entenderán autorizados bajo esa modalidad, y en esos términos se deberán incorporar al presupuesto de inversión de Petróleos Mexicanos.
+
+La formalización del reconocimiento como deuda pública a que se refiere el sexto párrafo del presente artículo se deberá formalizar dentro del ejercicio fiscal 2009, pudiendo Petróleos Mexicanos celebrar con dichos terceros y vehículos financieros los actos jurídicos que correspondan para el reconocimiento y servicio de la deuda referidos bajo la modalidad que determine la propia entidad. Petróleos Mexicanos podrá optar por la subrogación, cesión de deudas u otro mecanismo mediante el cual las obligaciones respectivas sean pagadas. Asimismo, Petróleos Mexicanos podrá realizar las operaciones o utilizar los bienes que, en su caso, se requieran para el financiamiento de dicho reconocimiento.
+
+Petróleos Mexicanos, por conducto de su Director General, deberá presentar en marzo de cada año a la dependencia coordinadora de sector y por conducto de ésta al H. Congreso de la Unión, un informe que deberá difundirse en la página de Internet de Petróleos Mexicanos. Asimismo, dicha página deberá difundir la información de la cartera de programas y proyectos de inversión, así como la relativa a sus análisis de costo y beneficio, con excepción de aquélla que, por su naturaleza, se considere como reservada, de acuerdo con los lineamientos que emita el comité respectivo.
+
+Quinto. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
