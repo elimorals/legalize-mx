@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-salud-en-materia-de-38404"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-05"
-last_updated: "2004-04-05"
+last_updated: "2008-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38404&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-03-30"
 
 REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE PROTECCION SOCIAL EN SALUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE NOVIEMBRE DE 2008.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 5 de abril de 2004.
 
@@ -378,6 +378,10 @@ Los Regímenes Estatales serán responsables de verificar la información propor
 ###### Artículo 44.
 
 El inicio de vigencia de derechos del Sistema para los beneficiarios comenzará a partir del primer día del mes calendario siguiente a la fecha de incorporación, contemplando doce meses calendario de vigencia.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+
+La Secretaría mediante disposiciones de carácter general que se publiquen en el Diario Oficial de la Federación, podrá establecer, para el inicio de la vigencia de derechos de los beneficiarios del Sistema, un término menor al señalado en el primer párrafo de este artículo cuando así se requiera para el adecuado cumplimiento de las funciones a su cargo o para la correcta operación del Sistema.
 
 La vigencia de derechos podrá ser constatada en las unidades prestadoras de servicios mediante la Credencial Única de Beneficiario del Sistema o por los instrumentos que determine la Comisión como válidos para tales efectos y que formen parte del proceso de incorporación al Sistema.
 
@@ -970,3 +974,9 @@ Para efectos de la compensación mencionada en este artículo, la Comisión comu
 Décimo Octavo. Todas las disposiciones de carácter general que para efectos del Sistema de Protección Social en Salud, emitan las autoridades federales con base en la Ley y el presente Reglamento, deberán publicarse en el Diario Oficial de la Federación para su debida observancia.
 
 Dado en la Residencia del Poder Ejecutivo Federal en la Ciudad de México, Distrito Federal, a los treinta días del mes de marzo de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Salud, Julio Frenk Mora.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 13 DE NOVIEMBRE DE 2008.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
