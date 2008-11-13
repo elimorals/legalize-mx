@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2008-10-10"
+last_updated: "2008-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE NOVIEMBRE DE 2008.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -235,7 +235,9 @@ XII.- DECIMOSEGUNDO CIRCUITO:
 
 1.- Cuatro tribunales colegiados con residencia en Mazatlán.
 
-2.- Dos tribunales unitarios con sede en Mazatlán.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL 69/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+
+2.- Dos tribunales unitarios con sede en Mazatlán y un tribunal unitario con sede en Culiacán.
 
 3.- Diez juzgados de Distrito en el Estado de Sinaloa: cuatro con residencia en Culiacán, tres con sede en Los Mochis y tres con residencia en Mazatlán.
 
@@ -437,7 +439,13 @@ X.- DECIMO CIRCUITO: Estado de Tabasco y los municipios de Acayucan, Agua Dulce,
 
 XI.- DECIMOPRIMER CIRCUITO: Estado de Michoacán.
 
-XII.- DECIMOSEGUNDO CIRCUITO: Estado de Sinaloa.
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL 69/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+
+XII.- DECIMOSEGUNDO CIRCUITO: Respecto de los tribunales colegiados es el Estado de Sinaloa.
+
+En relación con los dos tribunales unitarios con residencia en Mazatlán, será igual a la establecida para los juzgados de Distrito en el Estado de Sinaloa, con residencia en esa misma ciudad, así como en Los Mochis.
+
+Por lo que hace al tribunal unitario con residencia en Culiacán, será la misma que la establecida para los juzgados de Distrito en el Estado de Sinaloa, con sede en la citada ciudad.
 
 XIII.- DECIMOTERCER CIRCUITO: Estado de Oaxaca.
 
@@ -1014,3 +1022,9 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 27/2008, del Pleno del Consejo de la Judicatura Federal, por el que se Crea el Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, así como los Organos Jurisdiccionales que lo Integrarán.
+
+D.O.F. 13 DE NOVIEMBRE DE 2008.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
