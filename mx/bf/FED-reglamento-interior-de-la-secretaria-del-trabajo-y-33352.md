@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-del-trabajo-y-33352"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-18"
-last_updated: "2003-08-18"
+last_updated: "2008-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33352&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-08-14"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y PREVISION SOCIAL, PUBLICADO EN EL D.O.F. DE 14 DE NOVIEMBRE DE 2008, EL PRESENTE REGLAMENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación el lunes 18 de agosto de 2003.
 
@@ -1152,3 +1154,19 @@ CUARTO. Continuarán en vigor los acuerdos secretariales de delegación de facul
 QUINTO. Las unidades administrativas con denominación nueva o distinta a la que aparece en el instrumento que se abroga u otros ordenamientos jurídicos o con competencia en asuntos que correspondían a otras, se harán cargo de los mismos a partir de la fecha de entrada en vigor del presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de agosto de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Carlos María Abascal Carranza.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 14 DE NOVIEMBRE DE 2008.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría del Trabajo y Previsión Social de fecha 14 de agosto de 2003, publicado en el Diario Oficial de la Federación el día 18 del mismo mes y año; asimismo, se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO. Las unidades administrativas con denominación nueva o distinta a la que aparece en el instrumento que se abroga u otros ordenamientos jurídicos o con competencia en asuntos que correspondían a otras, se harán cargo de los mismos a partir de la fecha de entrada en vigor del presente Reglamento.
+
+CUARTO. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Reglamento, sea adscrito de una unidad administrativa a otra, se respetarán conforme a la ley. La Oficialía Mayor deberá emitir los nombramientos acordes con las nuevas denominaciones de las unidades administrativas que corresponda.
+
+QUINTO. La Oficialía Mayor realizará las acciones necesarias para que los recursos humanos, financieros y materiales con que cuentan las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan, en los términos del presente ordenamiento y de conformidad con las normas aplicables.
+
+SEXTO. Continuarán en vigor los acuerdos secretariales de delegación de facultades, desconcentración de funciones y demás que hayan sido expedidos por el titular de la Secretaría y que se encuentren actualmente vigentes, en lo que no se opongan a las disposiciones del presente ordenamiento, en tanto el Secretario del Trabajo y Previsión Social no los modifique o deje sin efectos.
