@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2008-06-27"
+last_updated: "2008-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCION AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2008.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -467,9 +467,21 @@ V. El titular de la Secretaría de Desarrollo Económico;
 
 VI. El titular de la Secretaría de Turismo;
 
-VII. El Presidente de la Comisión del Congreso del Estado responsable de la materia ambiental; y
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
-VIII. Un ciudadano por cada uno de los municipios, electos mediante procedimientos participativos y transparentes.
+VII. El titular de la Secretaría de Fomento Agropecuario;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+VIII. El titular de la Secretaría de Pesca y Acuacultura;
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+IX. El Presidente de la Comisión del Congreso del Estado responsable de la materia ambiental; y
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+X. Un ciudadano por cada uno de los municipios, electos mediante procedimientos participativos y transparentes.
 
 Los puestos ocupados por los integrantes ciudadanos del Consejo serán honoríficos. Los apoyos que sus integrantes ciudadanos deban recibir para el mejor ejercicio de sus funciones, serán establecidos en el Reglamento.
 
@@ -2306,3 +2318,7 @@ Las autoridades Estatales y Municipales, en el ámbito de su competencia, emitir
 P.O. 27 DE JUNIO DE 2008.
 
 ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE NOVIEMBRE DE 2008.
+
+ÚNICO.- Las presentes reformas entraran en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
