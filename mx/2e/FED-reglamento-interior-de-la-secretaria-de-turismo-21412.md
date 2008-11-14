@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-turismo-21412"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-15"
-last_updated: "2002-08-09"
+last_updated: "2008-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21412&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-06-13"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE NOVIEMBRE DE 2008.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 15 de junio de 2001.
 
@@ -37,9 +37,11 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO
 
 La Secretaría de Turismo, como dependencia del Poder Ejecutivo Federal, tiene a su cargo el desempeño de las atribuciones y facultades que le encomiendan la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Turismo y otras leyes, así como los reglamentos, decretos, acuerdos y órdenes del Presidente de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 2.
 
-Al frente de la Secretaría de Turismo estará el Secretario del Despacho, quien para el estudio, planeación y desahogo de los asuntos de su competencia, se auxiliará de las unidades administrativas y órgano administrativo desconcentrado siguientes:
+Al frente de la Secretaría de Turismo estará el Secretario del Despacho, quien para el estudio, planeación y desahogo de los asuntos de su competencia, se auxiliará de las unidades administrativas y órganos administrativos desconcentrados siguientes:
 
 > <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2002)</small>
 
@@ -71,19 +73,25 @@ XII. Dirección General de Administración;
 
 XIII. Dirección General de Desarrollo Institucional y Coordinación Sectorial, y
 
-XIV. Dirección General de Servicios al Turista.
+XIV. (DEROGADA, D.O.F. 14 DE NOVIEMBRE DE 2008)
 
-B. Órgano Administrativo Desconcentrado:
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
 
-Centro de Estudios Superiores en Turismo.
+B. Órganos Administrativos Desconcentrados:
+
+I. Centro de Estudios Superiores en Turismo; y
+
+II. Corporación Ángeles Verdes.
 
 La Secretaría de Turismo cuenta con una Contraloría Interna, órgano de control interno, que se regirá conforme a lo dispuesto por el artículo 10 de este Reglamento Interior.
 
 La Secretaría contará, asimismo, con las direcciones y subdirecciones de área, jefaturas de departamento, coordinaciones de unidad técnica, jefaturas de unidad técnica, jefaturas de proyecto y con las demás unidades subalternas que las necesidades del servicio requiera y que el presupuesto autorice, las que deberán especificarse en el manual de organización de la misma.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 3.
 
-La Secretaría de Turismo, a través de sus unidades administrativas y de su órgano administrativo desconcentrado, conducirá sus actividades en forma programada y con base en las políticas que, para el logro de sus objetivos y prioridades de la planeación nacional del desarrollo y de los programas a cargo de la Secretaría, establezca el Presidente de los Estados Unidos Mexicanos.
+La Secretaría de Turismo, a través de sus unidades administrativas y de sus órganos administrativos desconcentrados, conducirá sus actividades en forma programada y con base en las políticas que, para el logro de sus objetivos y prioridades de la planeación nacional del desarrollo y de los programas a cargo de la Secretaría, establezca el Presidente de los Estados Unidos Mexicanos.
 
 Las acciones de fomento, conducción y coordinación previstas en el presente Reglamento, que realice la Secretaría con administraciones nacionales de turismo de otros países y otros organismos internacionales, se realizarán en coordinación con la Secretaría de Relaciones Exteriores.
 
@@ -113,7 +121,9 @@ VII. Someter a la consideración del Presidente de los Estados Unidos Mexicanos 
 
 VIII. Aprobar la organización y el funcionamiento de la Secretaría, autorizando y disponiendo la publicación del Manual de Organización General, así como de los demás manuales administrativos, de procedimientos y de servicios al público;
 
-IX. Adscribir orgánicamente las unidades administrativas y órgano administrativo desconcentrado establecidos en este Reglamento Interior, expidiendo el acuerdo respectivo y ordenar su publicación en el Diario Oficial de la Federación;
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
+IX. Adscribir orgánicamente las unidades administrativas y órganos administrativos desconcentrados establecidos en este Reglamento Interior, expidiendo el acuerdo respectivo y ordenar su publicación en el Diario Oficial de la Federación;
 
 X. Establecer las unidades de coordinación, asesoría y de apoyo técnico que requiera el funcionamiento administrativo de la Secretaría;
 
@@ -299,9 +309,13 @@ XXV. Coadyuvar en la organización y coordinar la evaluación del evento denomin
 
 El Subsecretario de Innovación y Calidad tendrá las siguientes facultades específicas:
 
-I. Establecer, con la aprobación del Secretario, los lineamientos, criterios, sistemas y procedimientos para la administración del personal y de los recursos financieros y materiales de la Secretaría y de su órgano administrativo desconcentrado y coordinar los de las entidades sectorizadas, de acuerdo a sus objetivos y programas;
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
 
-II. Diseñar, aplicar, dar seguimiento y evaluar las políticas y procedimientos para la innovación gubernamental de la Secretaría, de su órgano administrativo desconcentrado y de sus entidades sectorizadas;
+I. Establecer, con la aprobación del Secretario, los lineamientos, criterios, sistemas y procedimientos para la administración del personal y de los recursos financieros y materiales de la Secretaría y de sus órganos administrativos desconcentrados y coordinar los de las entidades sectorizadas, de acuerdo a sus objetivos y programas;
+
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
+II. Diseñar, aplicar, dar seguimiento y evaluar las políticas y procedimientos para la innovación gubernamental de la Secretaría, de sus órganos administrativos desconcentrados y de sus entidades sectorizadas;
 
 III. Proponer al Secretario la autorización, asignación y modificación al presupuesto de la Secretaría y entidades del sector y tabuladores de sueldos, para su promoción ante la Secretaría de Hacienda y Crédito Público;
 
@@ -311,17 +325,25 @@ V. Autorizar las erogaciones del presupuesto autorizado de la Secretaría, vigil
 
 VI. Tramitar las ministraciones de los recursos fiscales autorizados a las entidades del sector;
 
-VII. Evaluar el programa administrativo de la Secretaría, de su órgano administrativo desconcentrado y entidades paraestatales sectorizadas, en términos de operación, equipamiento, normas administrativas y racionalización del presupuesto;
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
 
-VIII. Integrar la Cuenta Pública de la Secretaría, de su órgano administrativo desconcentrado y de las entidades del sector;
+VII. Evaluar el programa administrativo de la Secretaría, de sus órganos administrativos desconcentrados y entidades paraestatales sectorizadas, en términos de operación, equipamiento, normas administrativas y racionalización del presupuesto;
+
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
+VIII. Integrar la Cuenta Pública de la Secretaría, de sus órganos administrativos desconcentrados y de las entidades del sector;
 
 IX. Evaluar, mediante el sistema de seguimiento físico y financiero, los avances de los programas y presupuestos, señalar sus desviaciones y proponer los ajustes correspondientes;
 
-X. Analizar y dictaminar las propuestas de reestructuración orgánica de las unidades administrativas de la Secretaría, de su órgano administrativo desconcentrado y de sus entidades sectorizadas;
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
+X. Analizar y dictaminar las propuestas de reestructuración orgánica de las unidades administrativas de la Secretaría, de sus órganos administrativos desconcentrados y de sus entidades sectorizadas;
 
 XI. Integrar el programa anual de actividades para la transparencia y el combate a la corrupción en la Secretaría y en sus entidades sectorizadas;
 
-XII. Someter a la aprobación del Secretario las medidas técnicas y administrativas para la organización, funcionamiento, desconcentración, simplificación y descentralización y modernización administrativa de la Secretaría y su órgano administrativo desconcentrado, así como los manuales de organización, procedimientos y de servicios al público;
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
+XII. Someter a la aprobación del Secretario las medidas técnicas y administrativas para la organización, funcionamiento, desconcentración, simplificación y descentralización y modernización administrativa de la Secretaría y de sus órganos administrativos desconcentrados, así como los manuales de organización, procedimientos y de servicios al público;
 
 XIII. Planear y establecer los programas de desarrollo del personal de la Secretaría, para el mejor desempeño de sus actividades;
 
@@ -349,7 +371,7 @@ XXIV. Presidir el Comité de Informática del Sector Turismo;
 
 XXV. Fomentar la creación de instancias interinstitucionales de coordinación para la atención integral de los turistas;
 
-XXVI. Establecer y coordinar las políticas destinadas a la asistencia, orientación, información, atención y auxilio de los turistas nacionales y extranjeros;
+XXVI. (DEROGADA, D.O.F. 14 DE NOVIEMBRE DE 2008)
 
 XXVII. Coordinar las acciones de la red nacional de oficinas y módulos y de servicios de información y orientación a los turistas nacionales y extranjeros, y
 
@@ -361,7 +383,9 @@ XXVIII. Coadyuvar, en el ámbito de su competencia, en la organización del even
 
 La Secretaría de Turismo cuenta con una Contraloría Interna, órgano interno de control, al frente de la cual el Contralor Interno designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, en ejercicio de sus facultades, se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades designados en los mismos términos.
 
-Con sujeción a su presupuesto autorizado, el órgano administrativo desconcentrado de la Secretaría contará, en su caso, con una Contraloría Interna en los términos del párrafo anterior. En el supuesto de que el órgano administrativo desconcentrado no cuente con dicha Contraloría, las facultades a que se refiere este artículo se ejercerán por la Contraloría Interna de la dependencia.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
+Con sujeción a su presupuesto autorizado, los órganos administrativos desconcentrados de la Secretaría contarán, en su caso, con una Contraloría Interna en los términos del párrafo anterior. En el supuesto de que los órganos administrativos desconcentrados no cuenten con dicha Contraloría, las facultades a que se refiere este artículo, se ejercerán por la Contraloría Interna de la dependencia.
 
 Los servidores públicos a que se refieren los párrafos anteriores, ejercen en el ámbito de sus respectivas competencias las facultades previstas en la Ley Orgánica de la Administración Pública Federal, en la Ley Federal de Responsabilidades de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en lo conducente por el Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
 
@@ -409,17 +433,23 @@ XIII. Las demás que les confieran las disposiciones jurídicas aplicables y sus
 
 La Dirección General de Asuntos Jurídicos tendrá las siguientes facultades:
 
-I. Asesorar jurídicamente al Secretario y a las demás unidades administrativas de la Secretaría, a su órgano administrativo desconcentrado y a las entidades paraestatales del sector, actuando como órgano jurídico de consulta, sistematizando y difundiendo los criterios necesarios para interpretar y aplicar, para efectos administrativos, las disposiciones legales que normen sus actividades;
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
+I. Asesorar jurídicamente al Secretario y a las demás unidades administrativas de la Secretaría, a sus órganos administrativos desconcentrados y a las entidades paraestatales del sector, actuando como órgano jurídico de consulta, sistematizando y difundiendo los criterios necesarios para interpretar y aplicar, para efectos administrativos, las disposiciones legales que normen sus actividades;
 
 II. Otorgar seguridad al patrimonio e intereses de la Secretaría, apoyando legalmente el ejercicio de sus atribuciones, así como atender todos aquellos asuntos en que la propia Secretaría tenga interés jurídico;
 
 III. Compilar y difundir las disposiciones jurídicas relacionadas con las atribuciones de la Secretaría;
 
-IV. Formular y revisar los anteproyectos de circulares, órdenes y demás disposiciones de carácter general y pronunciarse sobre los que propongan otras unidades administrativas de la Secretaría, su órgano administrativo desconcentrado o las entidades paraestatales del sector y, en su caso, remitirlos al Diario Oficial de la Federación para su publicación, así como formular y revisar las iniciativas de leyes o decretos y los anteproyectos de decretos, reglamentos, acuerdos y otras disposiciones relacionadas con la actividad turística, en coordinación con la Consejería Jurídica del Ejecutivo Federal;
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
+IV. Formular y revisar los anteproyectos de circulares, órdenes y demás disposiciones de carácter general y pronunciarse sobre los que propongan otras unidades administrativas de la Secretaría, sus órganos administrativos desconcentrados o las entidades paraestatales del sector y, en su caso, remitirlos al Diario Oficial de la Federación para su publicación, así como formular y revisar las iniciativas de leyes o decretos y los anteproyectos de decretos, reglamentos, acuerdos y otras disposiciones relacionadas con la actividad turística, en coordinación con la Consejería Jurídica del Ejecutivo Federal;
 
 V. Revisar los anteproyectos de normas oficiales mexicanas en materia turística, que formule la Dirección General de Mejora Regulatoria;
 
-VI. Elaborar y dictaminar los convenios, contratos, acuerdos, bases de coordinación o colaboración y, en general, cualquier instrumento jurídico que celebre la Secretaría con organismos de los sectores público, privado y social, nacionales e internacionales, de conformidad con los requerimientos de las respectivas unidades administrativas y el órgano administrativo desconcentrado;
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
+VI. Elaborar y dictaminar los convenios, contratos, acuerdos, bases de coordinación o colaboración y, en general, cualquier instrumento jurídico que celebre la Secretaría con organismos de los sectores público, privado y social, nacionales e internacionales, de conformidad con los requerimientos de las respectivas unidades administrativas y los órganos administrativos desconcentrados;
 
 VII. Representar legalmente a la Secretaría tanto en los juicios de orden laboral como en los asuntos contenciosos en los que sea parte e intervenir en las reclamaciones de carácter jurídico que puedan afectar sus intereses, así como formular denuncias, promover querellas y desistirse de las mismas;
 
@@ -429,7 +459,9 @@ IX. Certificar documentos existentes en los archivos de la Secretaría, cuando l
 
 X. Tramitar los recursos administrativos que se interpongan ante la Secretaría y proyectar las resoluciones correspondientes de conformidad con lo dispuesto por las leyes y reglamentos;
 
-XI. Participar con otras unidades administrativas de la Secretaría y con su órgano administrativo desconcentrado, en las comisiones mixtas previstas en las leyes y reglamentos, de las que forme parte la Secretaría y los prestadores de servicios turísticos, apoyando jurídicamente el funcionamiento de las mismas;
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
+XI. Participar con otras unidades administrativas de la Secretaría y con sus órganos administrativos desconcentrados, en las comisiones mixtas previstas en las leyes y reglamentos, de las que forme parte la Secretaría y los prestadores de servicios turísticos, apoyando jurídicamente el funcionamiento de las mismas;
 
 XII. Emitir opinión ante las autoridades que corresponda, en aquellos casos en que la inversión extranjera concurra en proyectos de desarrollo turístico o en el establecimiento de servicios turísticos;
 
@@ -683,21 +715,31 @@ XVI. Establecer los criterios de determinación de zonas de desarrollo turístic
 
 La Dirección General de Administración tendrá las siguientes facultades:
 
-I. Aplicar y difundir entre las unidades administrativas de la Secretaría y su órgano administrativo desconcentrado, las normas para la elaboración del anteproyecto del programa-presupuesto anual del sector e integrarlo conforme a las normas establecidas por la Secretaría de Hacienda y Crédito Público;
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
+I. Aplicar y difundir entre las unidades administrativas de la Secretaría y sus órganos administrativos desconcentrados, las normas para la elaboración del anteproyecto del programa-presupuesto anual del sector e integrarlo conforme a las normas establecidas por la Secretaría de Hacienda y Crédito Público;
 
 II. Instrumentar las actividades relacionadas con la programación que permitan a la Secretaría cumplir con el ejercicio correcto y oportuno del presupuesto;
 
-III. Proporcionar a las unidades administrativas de la Secretaría y a su órgano administrativo desconcentrado, los recursos financieros que requieran para su operación, de conformidad con la asignación presupuestal aprobada, así como autorizar las afectaciones presupuestales y la documentación comprobatoria conforme a las normas establecidas para tal efecto;
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
 
-IV. Proponer y difundir las normas y políticas de gasto para su observancia en la Secretaría, instrumentando los mecanismos de control de los ingresos y egresos presupuestales y no presupuestales de sus unidades administrativas y órgano administrativo desconcentrado;
+III. Proporcionar a las unidades administrativas de la Secretaría y a sus órganos administrativos desconcentrados, los recursos financieros que requieran para su operación, de conformidad con la asignación presupuestal aprobada, así como autorizar las afectaciones presupuestales y la documentación comprobatoria conforme a las normas establecidas para tal efecto;
 
-V. Integrar el informe del estado de posición financiera y de ejecución de presupuesto de la Secretaría y su órgano administrativo desconcentrado, elaborando los informes internos y externos de situación financiera presupuestal respectivos;
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
+IV. Proponer y difundir las normas y políticas de gasto para su observancia en la Secretaría, instrumentando los mecanismos de control de los ingresos y egresos presupuestales y no presupuestales de sus unidades administrativas y sus órganos administrativos desconcentrados;
+
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
+V. Integrar el informe del estado de posición financiera y de ejecución de presupuesto de la Secretaría y sus órganos administrativos desconcentrados, elaborando los informes internos y externos de situación financiera presupuestal respectivos;
 
 VI. Elaborar la cuenta pública de la Secretaría, con la colaboración de las demás unidades administrativas y del Centro de Estudios Superiores en Turismo;
 
 VII. Planear, programar e instrumentar el sistema integral de administración de recursos humanos de la Secretaría;
 
-VIII. Proponer políticas y normas para satisfacer las necesidades que en materia de personal requieran las unidades administrativas y el órgano administrativo desconcentrado de la Secretaría, con base en las disposiciones legales vigentes;
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
+VIII. Proponer políticas y normas para satisfacer las necesidades que en materia de personal requieran las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, con base en las disposiciones legales vigentes;
 
 IX. Establecer y atender los sistemas de administración del personal relacionados con el reclutamiento, selección, contratación, nombramiento, reubicación y control del personal, así como del servicio social y la integración de la bolsa de trabajo de la Secretaría;
 
@@ -727,7 +769,9 @@ XXI. Celebrar las licitaciones que se requieran para la adquisición de los bien
 
 XXII. Aplicar las normas y criterios para la adquisición de bienes y suministros, operación de almacenes, control de activos y aprovechamiento óptimo de los recursos materiales de la Secretaría;
 
-XXIII. Fijar y aplicar las normas para proporcionar los servicios generales necesarios para el adecuado funcionamiento de las unidades administrativas y órgano administrativo desconcentrado de la Secretaría;
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
+XXIII. Fijar y aplicar las normas para proporcionar los servicios generales necesarios para el adecuado funcionamiento de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría;
 
 XXIV. Instrumentar las medidas de mantenimiento preventivo, correctivo y de conservación de los bienes de la Secretaría;
 
@@ -789,45 +833,27 @@ XIX. Definir las normas para el uso de los bienes informáticos y para la explot
 
 ###### ARTÍCULO 24.
 
-La Dirección General de Servicios al Turista tendrá las siguientes facultades:
+(DEROGADO, D.O.F. 14 DE NOVIEMBRE DE 2008)
 
-I. Coadyuvar al incremento del flujo de turistas nacionales y extranjeros, así como su permanencia en los destinos turísticos del país;
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
 
-II. Coordinar las estrategias relacionadas con la sistematización de la información, orientación y reservaciones hoteleras, además de las acciones inherentes a la atención a connacionales y turistas en general, al ingresar y salir del país;
+### CAPÍTULO VII. De los Órganos Administrativos Desconcentrados
 
-III. Coordinar acciones con otras dependencias y entidades de la Administración Pública Federal y con otros organismos públicos y privados, nacionales y extranjeros, para atender al turismo carretero en viajes al interior del país, proporcionando servicio de radiocomunicación, información y asistencia en su tránsito por las carreteras nacionales;
-
-IV. Establecer las políticas concernientes a la investigación, actualización y utilización de la información sobre destinos y servicios turísticos para orientar a los turistas;
-
-V. Producir y distribuir, en coordinación con otras dependencias y entidades de la Administración Pública Federal, gobiernos de las entidades federativas y de los municipios y los sectores social y privado, materiales y guías de orientación e información al turista;
-
-VI. Fomentar, en coordinación con los gobiernos de las entidades federativas y de los municipios la instalación de módulos de orientación e información turística;
-
-VII. Coordinar el desarrollo de programas especiales de información, orientación, atención y protección al turista, con la participación que corresponda a otras dependencias y entidades de la Administración Pública Federal y a los gobiernos de las entidades federativas y de los municipios;
-
-VIII. Instrumentar, en el ámbito de su competencia, las acciones para el desarrollo y mejoramiento del Programa Paisano en coordinación con las dependencias y entidades de la Administración Pública Federal participantes;
-
-IX. Coordinar la red nacional de oficinas y módulos de orientación e información turística, con la participación que corresponda a otras dependencias y entidades de la administración Pública Federal, a los gobiernos de las entidades federativas y de los municipios;
-
-X. Efectuar visitas de supervisión a módulos y oficinas de información;
-
-XI. Proponer los mecanismos y creación de organismos que considere pertinentes para allegarse de recursos económicos y materiales necesarios para cumplir con los objetivos y funciones que tiene encomendados;
-
-XII. Coordinar la instrumentación y vigilancia de las medidas de asistencia y auxilio a los turistas;
-
-XIII. Apoyar la operación del turismo de superficie, a través del servicio de auxilio turístico denominado Ángeles Verdes, en coordinación con otras dependencias y entidades de la Administración Pública Federal, gobiernos de las entidades federativas y de los municipios y, en su caso, con los sectores social y privado;
-
-XIV. Dirigir y controlar el servicio de auxilio turístico denominado Ángeles Verdes, coordinando los servicios de información, orientación, asistencia mecánica y de primeros auxilios en las carreteras y caravanas de vehículos automotores;
-
-XV. Controlar el sistema nacional de radiocomunicación turística, atendiendo las disposiciones que al efecto emitan las autoridades correspondientes;
-
-XVI. Establecer las medidas necesarias para la conservación y el mantenimiento del equipo y las instalaciones utilizadas en el servicio de auxilio turístico, y
-
-XVII. Establecer la coordinación que se requiera con otras autoridades e instituciones para auxiliar a los turistas en casos de emergencia y desastres.
-
-### CAPÍTULO VII. Del Órgano Administrativo Desconcentrado
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 25.
+
+Para la más eficaz atención y el eficiente despacho de los asuntos de su competencia, la Secretaría contará con órganos administrativos desconcentrados que le estarán jerárquicamente subordinados.
+
+Los órganos administrativos desconcentrados y sus titulares tendrán las competencias y facultades que este Reglamento les confiere.
+
+El Secretario establecerá la estructura orgánica y funciones complementarias de los órganos administrativos desconcentrados, mediante acuerdos que serán publicados en el Diario Oficial de la Federación.
+
+Los titulares de los órganos administrativos desconcentrados tendrán las atribuciones que se determinan para los Directores Generales, en los artículos 11, 12 y 28 del presente Reglamento, con la salvedad de que las referencias hechas a los Directores Generales o a las Direcciones Generales, deberán entenderse hechas al Director General del Centro de Estudios Superiores en Turismo, al Jefe de la Unidad de la Corporación Ángeles Verdes o a los respectivos órganos administrativos desconcentrados, según sea el caso.
+
+> <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTÍCULO 25 Bis.
 
 El Centro de Estudios Superiores en Turismo es el órgano administrativo desconcentrado de la Secretaría de Turismo, que tiene a su cargo las siguientes facultades:
 
@@ -839,13 +865,63 @@ III. Impulsar la innovación y el desarrollo tecnológico de las instituciones y
 
 IV. Fomentar la actualización y especialización profesional del personal de las instituciones y empresas de los sectores público, social y privado relacionado con la actividad turística, a través de las actividades de extensión;
 
-V. Servir como órgano de consulta a las unidades administrativas de la Secretaría, respecto de los proyectos relacionados por él;
+V. Servir como órgano de consulta a las unidades administrativas de la secretaría, respecto de los proyectos relacionados por él;
 
-VI. Emitir opinión técnica relativa a las propuestas de elaboración de estudios por parte de las unidades administrativas de la Secretaría, así como por el Consejo de Promoción Turística de México, S.A. de C.V. y por el Fondo Nacional de Fomento al Turismo, a fin de conducir al uso racional de los recursos federales destinados para la investigación y la realización de estudios relacionados con la actividad turística;
+VI. Emitir opinión técnica relativa a las propuestas de elaboración de estudios por parte de las unidades administrativas de la Secretaría, así como por el Consejo de Promoción Turística de México, S. A de C. V. y por el Fondo Nacional de Fomento al Turismo, a fin de conducir al uso racional de los recursos federales destinados para la investigación y la realización de estudios relacionados con la actividad turística;
 
-VII. Suscribir convenios para el préstamo e intercambio de material documental, así como todos aquellos acuerdos, bases y otros instrumentos jurídicos con los sectores público, privado y social, nacionales e internacionales, para cumplir con las funciones que tiene asignadas, y
+VII. Suscribir convenios para el préstamo e intercambio de material documental, así como todos aquellos acuerdos, bases y otros instrumentos jurídicos con los sectores público, privado y social, nacionales e internacionales, para cumplir con las funciones que tiene asignadas; y
 
 VIII. Las demás que expresamente determine el titular de la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTÍCULO 25 Ter.
+
+La Corporación Ángeles Verdes es el órgano administrativo desconcentrado de la Secretaría de Turismo, con autonomía técnica, operativa y de gestión, la cual tiene a su cargo la prestación de servicios integrales de información, orientación, asesoría, asistencia, de emergencia mecánica, auxilio y apoyo al turista nacional y extranjero.
+
+La administración de la Corporación Ángeles Verdes, estará a cargo de un Jefe de la Unidad, que será nombrado y removido libremente por el Secretario de Turismo.
+
+> <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTÍCULO 25 Quáter.
+
+La Corporación Ángeles Verdes tiene a su cargo las siguientes facultades:
+
+I. Coadyuvar al incremento del flujo de turistas nacionales y extranjeros, así como su permanencia en los destinos turísticos del país;
+
+II. Coordinar las estrategias relacionadas con la sistematización de la información, orientación y reservaciones hoteleras, además de las acciones inherentes a la atención a connacionales y turistas en general, al ingresar y salir del país;
+
+III. Coordinar acciones con otras dependencias y entidades de la Administración Pública Federal y con otros organismos públicos y privados, nacionales y extranjeros, para atender al turismo carretero en viajes al interior del país, proporcionando servicio de radio comunicación, información y asistencia en su tránsito por las carreteras nacionales;
+
+IV. Establecer las políticas concernientes a la investigación, actualización y utilización de la información sobre destinos y servicios turísticos para orientar a los turistas;
+
+V. Producir y distribuir, en coordinación con la Dirección General de Comunicación Social de la Secretaría, así como en su caso, con otras dependencias y entidades de la Administración Pública Federal, gobiernos de las entidades federativas y de los municipios y los sectores social y privado, materiales y guías de orientación e información al turista;
+
+VI. Fomentar, en coordinación con los gobiernos de las entidades federativas y de los municipios, la instalación de módulos de información y orientación turística, en terminales aéreas, de autobuses, de ferrocarriles y puertos turísticos, así como en cualquier parte en donde se estime que se requieran;
+
+VII. Coordinar el desarrollo de programas especiales de información, orientación, atención y protección al turista, con la participación que corresponda a otras dependencias y entidades de la Administración Pública Federal y a los gobiernos de las entidades federativas y de los municipios;
+
+VIII. Instrumentar, en el ámbito de su competencia, las acciones para el desarrollo y mejoramiento del Programa Paisano en coordinación con las dependencias y entidades de la Administración Pública Federal participantes;
+
+IX. Coordinar la red nacional de oficinas y módulos de orientación e información turística, con la participación que corresponda a otras dependencias y entidades de la administración Pública Federal, a los gobiernos de las entidades federativas y de los municipios;
+
+X. Efectuar visitas de supervisión a módulos y oficinas de información;
+
+XI. Proponer los mecanismos y creación de organismos que se estimen necesarios, así como suscribir los instrumentos jurídicos que se consideren pertinentes, ya sean nacionales o internacionales, para allegarse de recursos económicos y materiales necesarios para cumplir con los objetivos y funciones que tiene encomendados;
+
+XII. Coordinar la instrumentación y vigilancia de las medidas de asistencia y auxilio a los turistas;
+
+XIII. Apoyar la operación del turismo de superficie, a través del servicio de auxilio turístico, en coordinación con otras dependencias y entidades de la Administración Pública Federal, gobiernos de las entidades federativas y de los municipios y, en su caso, con los sectores social y privado;
+
+XIV. Dirigir y controlar el servicio de auxilio turístico, coordinando los servicios de información, orientación, asistencia mecánica y de primeros auxilios en las carreteras y caravanas de vehículos automotores;
+
+XV. Dirigir y controlar el sistema nacional de radio comunicación turística, atendiendo las disposiciones que al efecto emitan las autoridades correspondientes;
+
+XVI. Establecer las medidas necesarias para la conservación y el mantenimiento del equipo y las instalaciones utilizadas en el servicio de auxilio turístico;
+
+XVII. Establecer la coordinación que se requiera con otras autoridades e instituciones para auxiliar a los turistas y a la población en general, en casos de emergencia y desastres; y
+
+XVIII. Dirigir y controlar el Centro Integral de Atención Telefónica, coordinando el servicio nacional de orientación e información telefónica, sobre destinos, atractivos y servicios turísticos estatales y regionales, así como el apoyo a los turistas ante otras autoridades federales, estatales o municipales.
 
 ### CAPÍTULO VIII. De la Suplencia de los Servidores Públicos
 
@@ -857,9 +933,11 @@ Durante las ausencias del Secretario, el despacho y la resolución de los asunto
 
 En sus ausencias, los subsecretarios serán suplidos por el director general o por el servidor público de jerarquía inmediata inferior a ellos adscrito, según la naturaleza de los asuntos de que se trate.
 
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 28.
 
-Los directores generales, directores, subdirectores, jefes de departamento y el titular del órgano administrativo desconcentrado, serán suplidos por los servidores públicos de jerarquía inmediata inferior, según la naturaleza de los asuntos de que se trate.
+Los directores generales, directores, subdirectores, jefes de departamento y los titulares de los órganos administrativos desconcentrados, serán suplidos por los servidores públicos de jerarquía inmediata inferior, según la naturaleza de los asuntos de que se trate.
 
 ###### ARTÍCULO 29.
 
@@ -892,3 +970,19 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los asuntos pendientes de la Dirección General de Asuntos Internacionales a la entrada en vigor del presente Decreto, así como aquellos supervinientes de los que debiera conocer dicha unidad administrativa, serán resueltos por el Titular de la Secretaría de Turismo.
 
 TERCERO.- El titular de la Secretaría de Turismo interpretará y resolverá las dudas que se originen con motivo de la expedición del presente Decreto.
+
+D.O.F. 14 DE NOVIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Dentro de los 180 días hábiles siguientes a la entrada en vigor del presente Decreto, el Secretario de Turismo expedirá el reglamento que regule la administración y funcionamiento del Órgano Administrativo Desconcentrado Corporación Ángeles Verdes; que será publicado en el Diario Oficial de la Federación.
+
+TERCERO.- Los recursos materiales, financieros y tecnológicos, con que cuente la Dirección General de Servicios al Turista, que haya venido utilizando en la realización de sus funciones; se transferirán para su operación y funcionamiento, de manera no onerosa, al órgano desconcentrado que se crea a través del presente Decreto, por lo que no se asignará presupuesto adicional para tal efecto, en el presente ejercicio fiscal.
+
+CUARTO.- Los recursos humanos y el personal de apoyo que se encuentra adscrito a la Dirección General de Servicios al Turista, se transfieren al órgano administrativo desconcentrado, creado mediante este Decreto; en el entendido de que les serán respetados sus derechos laborales.
+
+QUINTO.- Al entrar en vigor el presente Decreto, las menciones que se hagan en cualquier disposición administrativa, a la Dirección General de Servicios al Turista, se entenderán hechas a la Corporación Ángeles Verdes.
+
+SEXTO.- Al entrar en vigor el presente Decreto, la Corporación Ángeles Verdes se subroga en los derechos y obligaciones asumidos por la Dirección General de Servicios al Turista.
+
+SÉPTIMO.- Se derogan todas aquellas disposiciones reglamentarias y administrativas que se opongan al presente Decreto.
