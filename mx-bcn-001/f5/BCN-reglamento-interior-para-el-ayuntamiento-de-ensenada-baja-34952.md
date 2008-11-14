@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2008-07-18"
+last_updated: "2008-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -459,7 +459,7 @@ El Ayuntamiento se reunirá en sesión solemne de Cabildo sólo en los siguiente
 
 I.- Cuando deba instalarse el Ayuntamiento entrante.
 
-II.- Cuando deba rendirse el informe anual de Gobierno.
+II.- (DEROGADA, P.O. 14 DE NOVIEMBRE DE 2008)
 
 III.- Cuando así lo determine el propio Ayuntamiento, en atención a la importancia del caso o cuando conmemore actos relevantes.
 
@@ -555,21 +555,21 @@ La sesión extraordinaria de cabildo que habrá de realizarse el primer día de 
 
 INFORME ANUAL DE GOBIERNO MUNICIPAL.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 52.
 
-El Ayuntamiento tendrá la obligación de informar cada año a la comunidad en Sesión Solemne de Cabildo a celebrarse durante el mes de Noviembre, sobre las acciones del Gobierno Municipal y el estado que guarda la Administración Pública Municipal, así como los avances y logros del Plan Municipal de Desarrollo.
-
-Dicho informe será por conducto del Presidente Municipal en su carácter de Presidente y órgano ejecutivo del Ayuntamiento, así como responsable de la conducción de la Administración Pública Municipal.
-
-En su intervención, el Presidente Municipal entregará por escrito el documento a los Regidores y Síndico Procurador y podrá dirigir un mensaje político a la comunidad.
+El Presidente Municipal, como responsable de la conducción de la Administración Pública Municipal cada año tendrá la obligación de presentar al Ayuntamiento un informe por escrito en Sesión Ordinaria a celebrarse durante el mes de Noviembre, sobre las acciones del Gobierno Municipal y el estado que guarda la Administración Pública Municipal, así como los avances y logros del Plan Municipal de Desarrollo; y deberá en forma posterior a la Sesión Ordinaria, difundir ante la comunidad los principales avances y logros de su Gestión.
 
 PARTICIPACIÓN DE LOS REGIDORES EN EL INFORME.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 53.
 
-Durante la sesión solemne, previo al informe que rinda el Presidente Municipal a la comunidad, los coordinadores de cada una de las distintas fuerzas políticas con presencia en el Ayuntamiento, podrá hacer uso de la voz hasta por cinco minutos, a efecto de emitir su posicionamiento político sobre el estado que guarda la administración municipal.
+Durante la Sesión Ordinaria, los Coordinadores de cada una de las distintas fuerzas políticas con presencia en el Ayuntamiento, podrán hacer uso de la voz hasta por cinco minutos, a efecto de emitir su posicionamiento político sobre el estado que guarda la administración municipal.
 
-La participación será en orden ascendente según el porcentaje de representación, concluyendo el coordinador que represente al grupo mayoritario.
+La participación será en orden ascendente según el porcentaje de representación, concluyendo el coordinador que represente, al grupo mayoritario.
 
 DEL INFORME.
 
@@ -1656,3 +1656,7 @@ TERCERO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan 
 CUARTO.- Que los integrantes de esta Comisión permanente de pesca y acuacultura sustentable serán los mismos que integraban la Comisión de pesca no permanente de este XIX Ayuntamiento de Ensenada: REGIDOR, JULIO FELIPE GARCIA MUÑOZ, COMO COORDINADOR, RICARDO MANCILLAS AMADOR, COMO SECRETARIO Y EDUARDO COTA OSUNA, COMO VOCAL.
 
 QUINTO.- La Comisión de Pesca y Acuacultura Sustentables de Ayuntamiento de Ensenada deberá instalarse a más tardar, dentro de los treinta días siguientes a la publicación del presente acuerdo.
+
+P.O. 14 DE NOVIEMBRE DE 2008.
+
+UNICO.- Una vez aprobado el presente punto de acuerdo, publíquese en el Periódico Oficial del Gobierno del Estado.
