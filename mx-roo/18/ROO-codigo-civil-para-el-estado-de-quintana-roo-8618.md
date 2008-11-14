@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2007-11-27"
+last_updated: "2008-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2008.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -3515,9 +3515,11 @@ DEL DERECHO DE FAMILIA
 
 ### CAPITULO PRIMERO. De los requisitos formales para contraer matrimonio
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 680.
 
-Las personas que pretendan contraer matrimonio presentarán un escrito al oficial del Registro Civil del domicilio de cualquiera de ellas, que exprese:
+Las personas que pretendan contraer matrimonio presentarán un escrito al oficial del Registro Civil, ante el cual celebrarán el contrato respectivo, que exprese:
 
 I.- Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio, tanto de los pretendientes como de sus padres, si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
 
@@ -3533,11 +3535,17 @@ El escrito a que se refiere el artículo anterior, deberá ser firmado por los s
 
 Al escrito a que se refiere el artículo anterior se acompañará:
 
-I.- Un certificado médico por cada pretenso, en el que asegure que no padece enfermedad crónica o incurable que además sea contagiosa y hereditaria.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+I.- El acta de nacimiento o pasaporte de cada uno de los contrayentes;
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+II.- Un certificado médico por cada pretenso, en el que se asegure que no padece enfermedad crónica o incurable que además sea contagiosa y hereditaria, o bien la constancia a que se refiere el último párrafo del Artículo 700.
 
 Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de sanidad de carácter oficial.
 
-II.- Copia de la dispensa de impedimentos, si los hubo.
+III.- Copia de la dispensa de impedimentos, si los hubo.
 
 ###### Artículo 683.
 
@@ -3651,7 +3659,13 @@ XI.- La locura, el idiotismo y la imbecilidad; y
 
 XII.- El matrimonio subsistente con persona distinta de aquélla con quien se pretenda contraer, o subsistente con ésta.
 
-De estos impedimentos sólo son dispensables por el Presidente Municipal o por el Delegado Municipal que deba substituirlo, la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+De estos impedimentos son dispensables por el Presidente Municipal o por el Delegado Municipal que deba sustituirlo, la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+Las fracciones IX y X son dispensables cuando ambos contrayentes acrediten fehacientemente haber obtenido de institución o médico especialista el conocimiento de los alcances, efectos y prevención de la enfermedad motivo del impedimento y manifiesten por escrito su consentimiento para contraer matrimonio.
 
 ###### Artículo 701.
 
@@ -14455,7 +14469,7 @@ El depósito es un contrato por el cual el depositario se obliga a custodiar el 
 
 ###### Artículo 2775.
 
-Salvo pacto en contrario, el depositario tiene derecho a exigir retribución por el depósito, la cual se arreglará a los términos del contrato y, en su defecto, a la costumbre del lugar en que constituya el depósito.
+Salvo pacto en contrario, el depositario tiene derecho a exigir retribución por el depósito, la cual se arreglará a los términos del contrato y, en su defecto, a la costumbre del lugar en que se constituya el depósito.
 
 ###### Artículo 2776.
 
@@ -17080,3 +17094,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 P.O. 27 DE NOVIEMBRE DE 2007.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+P.O. 14 DE NOVIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Los trámites iniciados en el Registro Civil del Estado para el efecto de contraer matrimonio con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones vigentes en el momento de su solicitud.
