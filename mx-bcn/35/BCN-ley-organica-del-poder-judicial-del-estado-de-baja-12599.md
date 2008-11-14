@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2007-10-19"
+last_updated: "2008-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO TRANSITORIO DEL DECRETO NO. 422, LA PRESENTE REFORMA ENTRARA EN VIGOR 18 MESES DESPUES DE SU PUBLICACION.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -171,17 +169,25 @@ Las cabeceras de los partidos judiciales del Estado, serán, respectivamente, la
 
 Los nombramientos de los Magistrados del Tribunal Superior de Justicia, se harán en forma y términos que previene el Artículo 58 de la Constitución Política del Estado y rendirán la protesta de Ley ante el Congreso o la Comisión Permanente, en su caso.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 8.
 
-Los jueces en todas sus categorías serán nombrados por el Consejo de la Judicatura del Estado.
+Los Jueces, Secretario General de Acuerdos, Secretarios de Estudio y Cuenta, Secretarios Auxiliares y Actuarios del Tribunal Superior de Justicia, así como los Secretarios de Acuerdos y Actuarios de los Juzgados, serán designados en los términos que señala la Constitución Política del Estado, esta Ley y demás disposiciones normativas aplicables.
+
+Los demás servidores públicos del Tribunal Superior de Justicia, Juzgados y otros órganos del Poder Judicial del Estado serán nombrados por el Consejo de la Judicatura.
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 9.
 
-El Secretario General de Acuerdos, Secretarios Auxiliares, Secretarios de Estudio y Cuenta, Actuarios y Empleados del Tribunal Superior de Justicia del Estado, serán nombrados por el Consejo de la Judicatura.
+Las designaciones o nombramientos de servidores públicos del Poder Judicial que ocupen temporalmente los cargos públicos a los que hace mención el artículo anterior, serán realizados por los órganos o servidores públicos a quienes la Constitución y esta Ley confieran la facultad de realizar los nombramientos o designaciones definitivos.
+
+Tratándose de los Jueces se aplicará lo dispuesto en el párrafo anterior, salvo los supuestos especiales contenidos en otros artículos de esta Ley.
 
 ###### ARTICULO 10.
 
-Los Secretarios de Acuerdos, Actuarios y demás empleados de los Juzgados, serán nombrados por el Consejo de la Judicatura.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2008)
 
 ###### ARTICULO 11.
 
@@ -189,7 +195,7 @@ Los servidores Públicos a que se refieren los tres artículos precedentes, rend
 
 ###### ARTICULO 12.
 
-Cuando se presente una o varias vacantes, el Consejo de la Judicatura resolverá sobre el nombramiento o nombramientos necesarios en los términos previstos por ésta ley y la del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2008)
 
 ### CAPITULO II. DE LAS CONDICIONES
 
@@ -249,39 +255,11 @@ Además contará con una Sala Unitaria Especializada para Adolescentes.
 
 Uno de los Magistrados Propietarios será el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo de la Judicatura del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 23.
 
-Para ser designado Magistrado del Poder Judicial, se requiere:
-
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
-
-I.- Ser ciudadano Mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
-
-II.- Tener cuando menos treinta y cinco años cumplidos al día de la designación.
-
-III.- Poseer al día de la designación con antigüedad mínima de diez años, Título profesional de Licenciado en Derecho, expedido por autoridad o institución legalmente facultada para ello.
-
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
-
-IV.- Haber realizado por lo menos durante tres años, una actividad profesional relacionada con la aplicación, interpretación, elaboración, o investigación de normas jurídicas.
-
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
-
-V.- Tener residencia mínima de cinco años en el Estado, anteriores al día de la designación.
-
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
-
-VI.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
-
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
-
-VII.- No haber ocupado el cargo de Gobernador del Estado, Titular de una Secretaría, o Procurador de Justicia, durante el año previo al día de la designación.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2006)</small>
-
-Tratándose del Magistrado Especializado para Adolescentes, de conformidad con el artículo 60 fracción IV, de la Constitución Política del Estado, deberá contar con experiencia profesional o capacitación especializada demostrable, en dicha materia.
+Para ser designado Magistrado del Poder Judicial, se requiere cumplir con los requisitos que señala la Constitución Política del Estado.
 
 ###### ARTICULO 24.
 
@@ -561,7 +539,7 @@ Si el proyecto del Magistrado ponente fue aprobado sin adiciones ni reformas, se
 
 ###### ARTICULO 49.
 
-Cuando un magistrado estuviere impedido a conocer de un negocio o se excuse; aceptada que sea ésta o calificada de procedente el impedimento, o faltare accidentalmente, o esté ausente por un término no mayor de quince días, será suplido por el magistrado que de la Sala correspondiente designe el Presidente del Tribunal. En el caso del Magistrado de Sala Unitaria, el Pleno del Tribunal Superior de Justicia, por unanimidad o mayoría de votos, designará a uno de los Magistrados integrante de una de las Salas que conozcan de la materia penal, para que lo supla.
+Cuando un Magistrado estuviere impedido a conocer de un negocio o se excuse; aceptada que sea ésta o calificada de procedente el impedimento, o faltare accidentalmente, o esté ausente por un término no mayor de quince días, será suplido por el magistrado que de la Sala correspondiente designe el Presidente del Tribunal. En el caso del Magistrado de Sala Unitaria, el Pleno del Tribunal Superior de Justicia, por unanimidad o mayoría de votos, designará a uno de los Magistrados integrante de una de las Salas que conozcan de la materia penal, para que lo supla.
 
 Cuando la excusa o impedimento afecte a dos o más de los magistrados de la Sala, conocerá del negocio la Sala que corresponda según la materia.
 
@@ -605,9 +583,11 @@ Son Jueces de Unica Instancia, para los efectos que prescribe la Constitución G
 
 Los jueces de Paz, en las resoluciones dictadas en materia Civil o Penal, en contra de los cuales no procede ningún recurso ordinario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 53.
 
-Son Jueces de Primera Instancia, para los efectos que prescribe la Constitución General de la República y las demás leyes secundarias:
+Son Jueces de Primera Instancia:
 
 I.- Los de Primera Instancia Civil.
 
@@ -619,11 +599,19 @@ III.- Los de Primera Instancia Penal.
 
 IV.- Los de Primera Instancia Especializados para Adolescentes.
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
-V.- Los mixtos de Primera Instancia, y
+V.- Los mixtos de Primera Instancia.
 
-VI.- Los de Paz en materia penal, en las causas en que proceda la apelación y denegada apelación.
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+VI.- Los de Paz en materia penal, en las causas en que proceda la apelación y denegada apelación, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+VII.- Los Jueces de Garantías y Jueces de Tribunales de Juicio Oral.
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
@@ -663,11 +651,17 @@ Los Servidores Públicos del Poder Judicial del Estado que deberán protestar al
 
 I.- Los Magistrados y Consejeros al Consejo de la Judicatura, en la forma prevenida por la Constitución Política del Estado de Baja California.
 
-II.- Los Jueces cualquiera que sea su categoría, ante el Presidente del Consejo de la Judicatura o ante el Consejero que al efecto el propio Consejo designe.
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
-III.- El Secretario General de Acuerdos, Secretarios Auxiliares, Secretarios de Estudio y Cuenta y Actuarios del Tribunal Superior de Justicia, ante el Pleno del Consejo de la Judicatura.
+II.- Los Jueces cualquiera que sea su categoría, ante el Pleno del Tribunal Superior de Justicia.
 
-IV.- Los Secretarios de Acuerdos y Actuarios de los Juzgados, ante el Consejo que al efecto se designe o bien ante el Juez que deban estar adscritos.
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+III.- El Secretario General de Acuerdos, Secretarios de Estudio y Cuenta, Secretarios Auxiliares y Actuarios del Tribunal Superior de Justicia, ante el Pleno de este último.
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+IV.- Los Secretarios de Acuerdos y Actuarios de los Juzgados, ante el Juez al que sean adscritos.
 
 ###### ARTICULO 61.
 
@@ -683,29 +677,11 @@ De toda protesta y aceptación del cargo de los servidores públicos del Poder J
 
 Los nombramientos de jueces serán hechos, preferentemente de entre aquellas personas que presten o hubieren prestado sus servicios con eficacia y probidad en la Administración de Justicia, o que, sin haber laborado en el Poder Judicial, lo merezcan por su honorabilidad, competencia y antecedentes profesionales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 64.
 
-Para ser Juez de lo Civil, de lo Familiar, de lo Penal, Especializado para Adolescentes, Mixto de Primera Instancia o de Paz, se requiere:
-
-I.- Ser mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos.
-
-II.- No tener menos de treinta años de edad, al día de la designación.
-
-III.- Tener título de Abogado o Licenciado en Derecho debidamente registrado en la Dirección de Profesiones del Estado.
-
-IV.- Acreditar, cuando menos cinco años de práctica profesional, y aprobar el examen correspondiente.
-
-V.- Gozar de buena reputación y no haber sido condenado por un delito intencional que amerite pena corporal de más de un año de prisión, pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lesione la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
-
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
-
-VI.- Tener residencia mínima de cinco años en el Estado, anteriores al día de la designación.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2006)</small>
-
-Además, en el caso de los Jueces de Primera Instancia Especializados para Adolescentes, es necesario contar con experiencia profesional o capacitación especializada demostrable, en dicha área.
+Para ser Juez, se requiere cumplir con los requisitos que señala la Constitución Política del Estado.
 
 ###### ARTICULO 65.
 
@@ -747,9 +723,11 @@ Los jueces de lo Civil, de lo Familiar, de lo Penal, Mixtos de Primera Instancia
 
 Cuando dentro de la jurisdicción territorial de un Juzgado Mixto de Primera Instancia, no hubiere juzgados de Paz, conocerán también de los negocios jurídicos que de acuerdo con la Ley son de la competencia de estos juzgados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 71.
 
-Los nombramientos de los jueces del Poder Judicial del Estado, serán de tres años, y podrán ser ratificados por períodos iguales para la misma adscripción o la que señale el Consejo de la Judicatura.
+Los períodos de designación y de ratificación de los Jueces, serán los que señala la Constitución Política del Estado.
 
 Los períodos a que se refiere el presente artículo se iniciarán del día primero de diciembre del año correspondiente.
 
@@ -918,6 +896,12 @@ I.- Conocer de todos los asuntos de carácter penal que no estén encomendados p
 II.- Designar al personal que durante los períodos vacacionales deban quedar de guardia.
 
 III.- Las demás que les confieren las leyes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 81 BIS.- Los Jueces de Garantía podrán ser parte de los Tribunales de Juicio Oral y ejercer las facultades que competen a los Jueces que integran a estos, siempre y cuando no hayan conocido en las etapas previas del asunto que le corresponda resolver al citado Tribunal.
 
 ###### ARTICULO 82.
 
@@ -1125,9 +1109,11 @@ Cuando las ausencias sean mayores de un mes al tiempo excedente le será pagado 
 
 Las faltas temporales de los demás empleados se suplirán, cuando así lo determine el Pleno del Consejo de la Judicatura por medio de nombramientos que en los designados tendrán el carácter de interinos.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 100.
 
-Las faltas absolutas de los Jueces, Secretarios y demás empleados de la Administración de Justicia, serán cubiertos mediante nuevos nombramientos que deberá hacer el Consejo de la Judicatura del Estado, conforme a las disposiciones de ésta Ley.
+Las faltas absolutas de los Jueces, Secretarios y demás servidores públicos de la Administración de Justicia, serán cubiertas mediante nuevas designaciones o nombramientos en los términos que señala la Constitución Política del Estado, esta Ley y demás disposiciones normativas aplicables.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -1801,7 +1787,25 @@ XXXVII.- Dar trámite a las iniciativas de leyes y decretos ante la Legislatura 
 
 XXXVIII.- Solicitar la celebración de sesiones al Tribunal Superior de Justicia, cuando lo estime pertinente.
 
-XXXIX.- Desempeñar cualquier otra función que la ley encomiende al Consejo de la Judicatura del Estado.
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+XXXIX.- Expedir la convocatoria y desarrollar el proceso de selección de las personas que aspiren a ocupar los cargos que se mencionan en las fracciones XL, XLI y XLII, de este artículo, para la elaboración de las listas de personas que deben ser consideradas para ocupar dichos cargos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+XL.- Remitir al Congreso del Estado, la lista de las personas que deben ser consideradas para ocupar las vacantes en el cargo de Magistrado del Tribunal Superior de Justicia del Estado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+XLI.- Remitir al Pleno del Tribunal Superior de Justicia, la lista de las personas que deben ser consideradas para ocupar las vacantes en los cargos de Jueces, Secretario General de Acuerdos, Secretarios de Estudio y Cuenta, Secretarios Auxiliares y Actuarios del Tribunal Superior de Justicia del Estado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+XLlI.- Remitir al Juez que tenga vacantes en los cargos de Secretario de Acuerdos y Actuarios, la lista de las personas que deben ser consideradas para ocupar dichas vacantes.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+XLlII.- Las demás que la Constitución Política del Estado, esta Ley y otros ordenamientos jurídicos le confieran.
 
 ###### ARTICULO 169.
 
@@ -3382,3 +3386,51 @@ P.O. 27 DE OCTUBRE DE 2006.
 P.O. 19 DE OCTUBRE DE 2007.
 
 ÚNICO.- La presente reforma entrará en vigor dieciocho meses después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE NOVIEMBRE DE 2008.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción en lo dispuesto en el siguiente artículo tercero transitorio.
+
+SEGUNDO.- Los Jueces Penales en funciones del Partido Judicial de Mexicali, podrán ser readscritos como Jueces del nuevo sistema de justicia penal, siempre y cuando cubran las etapas que se señalan en los incisos c) y f) del artículo cuarto transitorio.
+
+TERCERO.- Las reformas a los artículos 53 fracción VII y 81 BIS, entrarán en vigor en la misma fecha en que alcance vigencia el primer párrafo del artículo primero transitorio del Código de Procedimientos Penales, publicado el día 19 de octubre de 2007 en el Periódico Oficial del Estado.
+
+Los efectos de las designaciones de los Jueces del nuevo sistema de justicia penal, se materializarán en la fecha que se señala en la disposición transitoria a la que hace mención el párrafo anterior.
+
+Hasta en tanto surtan sus efectos jurídicos las citadas designaciones, las personas nombradas como Jueces para el nuevo sistema, seguirán recibiendo la remuneración que les correspondía antes de su designación.
+
+CUARTO.- Para la integración por parte del Consejo de la Judicatura, de la lista que será sometida a consideración del Pleno del Tribunal Superior de Justicia del Estado de los aspirantes en el Partido Judicial de Mexicali, a los cargos de Jueces a los que alude la reforma al artículo 53 fracción VII, deberán observarse como mínimo las siguientes etapas:
+
+a).- Publicación de la convocatoria.
+
+b).- Revisión de los requisitos que se establezcan en la Convocatoria.
+
+c).- Capacitación básica.
+
+d).- Examen teórico de conocimientos básicos.
+
+e).- Evaluación psicométrica.
+
+f).- Capacitación avanzada y especializada, así como la evaluación respectiva.
+
+g).- Entrevista pública.
+
+h).- Evaluación de méritos.
+
+i).- Elaboración y remisión de la lista de aspirantes al Tribunal Superior de Justicia del Estado.
+
+La convocatoria a la que hace mención el inciso a), y los nombres de los aspirantes que vayan superando cada una de la etapas que se señalan en los incisos b), c), d), e), f), g), h) e i), deberán ser publicados en el Boletín Judicial del Estado en los términos de la citada convocatoria.
+
+Dentro de los requisitos que se establezcan en la convocatoria que deben cumplir los aspirantes al cargo de Juez, se deberán establecer los que señala el artículo 62 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+En la convocatoria dentro de la etapa que señala el inciso g), deberá precisarse que será valorada la integridad profesional, presentación, seguridad, habilidad de comunicación, madurez y objetividad de los aspirantes.
+
+De igual forma, en la convocatoria dentro de la etapa que señala el inciso h), deberá precisarse que será valorada la preparación académica, experiencia profesional y prestigio profesional de los aspirantes, por lo que deberán solicitarse la opinión de colegios y barras de abogados.
+
+El desarrollo de las disposiciones normativas que se contienen en los artículos transitorios, así como los aspectos no previstos por estos y que sean necesarios para alcanzar los fines del concurso, se establecerán en la convocatoria que expida el Consejo de la Judicatura.
+
+QUINTO.- Los aspirantes del Poder Judicial del Estado que accedan a la etapa de capacitación avanzada y especializada, así como los Jueces que sean readscritos al nuevo sistema, serán separados provisionalmente de sus funciones con goce de sueldo, únicamente durante el tiempo en el que se impartan las citadas capacitaciones.
+
+SEXTO.- Los aspirantes que aparezcan en la lista que remita el Consejo de la Judicatura al Pleno del Tribunal Superior de Justicia y que no hayan sido designados Jueces, integrarán una reserva de personas que en caso de existir vacantes para el nuevo sistema de justicia penal, podrán ser designados Jueces por el Pleno del Tribunal Superior de Justicia del Estado.
+
+La citada reserva, tendrá vigencia de un año contado a partir de la fecha en que se hayan realizado las designaciones de Jueces y será exclusivamente para el Partido Judicial de Mexicali.
