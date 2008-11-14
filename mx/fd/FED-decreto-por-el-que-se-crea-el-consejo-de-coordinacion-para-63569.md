@@ -4,7 +4,7 @@ identifier: "FED-decreto-por-el-que-se-crea-el-consejo-de-coordinacion-para-6356
 country: "mx"
 rank: "decreto"
 publication_date: "2008-10-13"
-last_updated: "2008-10-13"
+last_updated: "2008-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-10-09"
 
 DECRETO POR EL QUE SE CREA EL CONSEJO DE COORDINACION PARA LA IMPLEMENTACION DEL SISTEMA DE JUSTICIA PENAL COMO UNA INSTANCIA DE COORDINACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE NOVIEMBRE DE 2008.
 
 Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 13 de octubre de 2008.
 
@@ -199,7 +199,9 @@ VIII. Realizar las demás funciones que el Consejo de Coordinación acuerde.
 
 La Secretaría Técnica, es un Órgano Administrativo Desconcentrado de la Secretaría de Gobernación, con el carácter de instancia de seguridad nacional, con autonomía administrativa, creada para operar y ejecutar los acuerdos y determinaciones del Consejo de Coordinación; así como para coadyuvar y brindar apoyo a las autoridades locales y federales en la implementación del Sistema de Justicia Penal, cuando lo soliciten.
 
-La Secretaría Técnica, estará a cargo de un servidor público con nivel de subsecretario, nombrado y, en su caso, removido por el Presidente de la República por conducto del Secretario de Gobernación. Durante las ausencias temporales del Titular de la Secretaría Técnica, el despacho de los asuntos estarán a cargo del Director General de Estudios y Proyectos Normativos.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
+La Secretaría Técnica, estará a cargo de un servidor público nombrado y, en su caso, removido por el Presidente de la República, por conducto del Secretario de Gobernación. Durante las ausencias del Titular de la Secretaría Técnica, el despacho de los asuntos estará a cargo del Director General de Estudios y Proyectos Normativos.
 
 La Secretaría Técnica contará, por lo menos, con las siguientes Direcciones Generales: de Estudios y Proyectos Normativos; de Asistencia Técnica; de Coordinación Interinstitucional; de Planeación, Capacitación y Difusión, y de Administración y Finanzas, auxiliadas por las direcciones generales adjuntas, direcciones, subdirecciones de área, jefaturas de departamento o sus similares y personal de apoyo suficientes para cubrir las necesidades de servicio y que figuren en su plantilla autorizada, conforme a las disposiciones normativas aplicables.
 
@@ -209,7 +211,9 @@ Son requisitos para ser nombrado Secretario Técnico, los siguientes:
 
 I. Ser ciudadano mexicano;
 
-II. Tener más de treinta y cinco años de edad cumplidos el día de la designación;
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
+II. Tener más de treinta años de edad cumplidos el día de la designación;
 
 III. Contar con título de licenciatura debidamente registrado, con una antigüedad de cinco años como mínimo;
 
@@ -294,3 +298,9 @@ SEXTO.- La Secretaría Técnica operará durante el año 2008 con los recursos h
 La contratación del personal que se requiera, se hará en forma eventual sin que se exceda del período de vigencia del presente decreto.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de octubre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 14 DE NOVIEMBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
