@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2008-10-14"
+last_updated: "2008-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE NOVIEMBRE DE 2008.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -117,9 +117,9 @@ Las autoridades del Estado promoverán las condiciones necesarias para el pleno 
 
 La ley garantizará que la mujer no sea objeto de discriminación y que tenga los mismos derechos y obligaciones que el varón en la vida política, social, económica y cultural del Estado. Asimismo, promoverá que la igualdad entre hombres y mujeres se regule también en las denominaciones correspondientes a los cargos públicos.
 
-> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
 
-Los habitantes del Estado gozarán del derecho a la información. La ley establecerá los requisitos que determinarán la publicidad de la información en posesión de los sujetos obligados y el procedimiento para obtenerla, así como la acción para corregir o proteger la información confidencial.
+Los habitantes del Estado gozarán del derecho a la información. La ley establecerá los requisitos que determinarán la publicidad de la información en posesión de los sujetos obligados y el procedimiento para obtenerla, así como la acción para corregir o proteger la información confidencial. El derecho de réplica será ejercido en los términos dispuestos por la Ley.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -299,35 +299,49 @@ Los diputados y los ediles serán elegidos por sufragio universal, libre, secret
 
 El Gobernador del Estado será elegido por el principio de mayoría relativa, mediante sufragio universal, libre, secreto y directo.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+En los casos a que se refieren los párrafos anteriores, la jornada electoral tendrá lugar el primer domingo de julio del año que corresponda.
+
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 19.
 
-Los partidos políticos son entidades de interés público que tienen como finalidad promover la participación de los ciudadanos en la vida democrática y contribuir a la integración de la representación estatal y municipal. La ley reconocerá y regulará otras formas de organización política.
+Los partidos políticos son entidades de interés público que tienen como finalidad promover la participación de los ciudadanos en la vida democrática y contribuir a la integración de la representación estatal y municipal, con el derecho exclusivo para solicitar el registro de candidatos a cargos de elección popular. La ley reconocerá y regulará otras formas de organización política.
 
-En los términos que señale la ley, los partidos políticos recibirán, en forma equitativa, financiamiento público ordinario, extraordinario o, en su caso, especial, para su sostenimiento y el desarrollo de las actividades tendientes a la obtención del sufragio. Contarán, además, con acceso permanente, en condiciones de equidad, a los medios de comunicación social en el Estado.
+Los partidos políticos sólo podrán constituirse por ciudadanos, sin intervención de organizaciones gremiales o con objeto social diferente y sin que haya afiliación corporativa.
 
-(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2006) (F. DE E., G.O. 9 DE FEBRERO DE 2007) (F. DE E., G.O. 26 DE FEBRERO DE 2007)
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos en los términos que expresamente señale la ley.
 
-En periodos electorales las autoridades estatales y municipales cesarán toda campaña publicitaria relativa a obras y programas públicos durante los 30 días previos a la celebración de la jornada electoral local o federal. A las autoridades electorales corresponderá la vigilancia de lo dispuesto en este párrafo.
+Los partidos políticos recibirán, en forma equitativa, financiamiento público ordinario, extraordinario o, en su caso, especial, en los términos que señale la ley, para su sostenimiento y el desarrollo de las actividades tendientes a la obtención del sufragio. También tendrán derecho de acceder a los tiempos en radio y televisión, conforme a lo previsto en el artículo 41, Base III, Apartado B, de la Constitución Política de los Estados Unidos Mexicanos.
+
+Durante el tiempo que comprendan las campañas electorales y hasta el día de la jornada electoral, las autoridades estatales y municipales cesarán toda campaña publicitaria relativa a obras y programas públicos. A las autoridades electorales corresponderá la vigilancia de lo dispuesto en este párrafo.
+
+Se exceptúan de lo anterior las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud y las necesarias para la protección civil en casos de emergencia.
 
 El financiamiento a los partidos políticos se sujetará a las siguientes bases:
 
-I. El financiamiento público ordinario para el sostenimiento de sus actividades permanentes se fijará cada año por el Instituto Electoral Veracruzano al elaborar su presupuesto. El monto total se determinará multiplicando una quinta parte del salario mínimo vigente en la capital del Estado por el número de ciudadanos inscritos en la lista nominal de electores de la entidad;
+l. El financiamiento público ordinario para el sostenimiento de sus actividades permanentes se fijará cada año por el Instituto Electoral Veracruzano al elaborar su presupuesto. El monto total se determinará multiplicando una quinta parte del salario mínimo vigente en la capital del Estado por el número de ciudadanos inscritos en el padrón electoral de la Entidad;
 
 II. El financiamiento público extraordinario para las actividades de los partidos tendientes a la obtención del voto se otorgará durante el año en que se celebren elecciones locales y consistirá en una cantidad igual a la que corresponda por concepto de financiamiento ordinario;
 
-III. El financiamiento público, ordinario y extraordinario, se distribuirá entre los partidos políticos que hubiesen obtenido al menos el dos por ciento de la votación total emitida en la elección anterior de diputados, de acuerdo con las siguientes bases:
+III. El financiamiento público, ordinario y extraordinario, se distribuirá entre los partidos políticos que hubieren obtenido al menos el dos por ciento de la votación total emitida en la elección anterior de diputados, de acuerdo con las siguientes bases:
 
 a) Un treinta por ciento del monto total del financiamiento público estatal se distribuirá en partes iguales, y
 
 b) Un setenta por ciento se distribuirá según el porcentaje de la votación estatal que hubiese obtenido cada uno de los partidos en la elección mencionada;
 
-IV. Los partidos políticos que hubiesen obtenido su registro con fecha posterior a la última elección, o los que no hubieren alcanzado el dos por ciento de la votación total emitida en el Estado en la elección anterior de diputados, recibirán financiamiento público de carácter especial, otorgándose a cada uno de ellos, para el sostenimiento de sus actividades ordinarias, el dos por ciento del monto total que en forma igualitaria corresponda distribuir al conjunto de los partidos políticos, y una cantidad igual adicional para gastos de campaña en año de elecciones, y
+IV. Los partidos políticos que hubieren obtenido su registro con fecha posterior a la última elección, o los que no hubieren alcanzado el dos por ciento de la votación total emitida en el Estado en la elección anterior de diputados, recibirán financiamiento público de carácter especial, otorgándose a cada uno de ellos, para el sostenimiento de sus actividades ordinarias, el dos por ciento del monto total que en forma igualitaria corresponda distribuir al conjunto de los partidos políticos, y una cantidad igual adicional para gastos de campaña en año de elecciones; y
 
-V. El financiamiento público prevalecerá sobre el privado; por lo tanto, las aportaciones que los partidos políticos reciban de sus militantes y simpatizantes no podrán exceder del equivalente al diez por ciento del monto total de recursos que reciban por concepto de financiamiento público ordinario.
+V. El financiamiento público prevalecerá sobre el privado; por tanto, las aportaciones que los partidos políticos reciban de sus militantes y simpatizantes no podrán exceder del equivalente al diez por ciento del monto total del tope de gastos de campaña previsto para la última elección de Gobernador.
 
-La ley establecerá: los criterios para fijar límites a los gastos de campaña y precisará los mecanismos y procedimientos para el control y vigilancia del origen y uso de los recursos con que cuenten los partidos y demás organizaciones políticas, así como las sanciones por el incumplimiento de las disposiciones que se expidan en la materia.
+La ley establecerá los criterios para fijar límites a los gastos de precampaña y campaña y precisará los mecanismos y procedimientos para el control y vigilancia del origen y uso de los recursos con que cuenten los partidos y demás organizaciones políticas, las sanciones por el incumplimiento de las disposiciones que se expidan en la materia, así como el procedimiento para la liquidación de las obligaciones de los partidos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado.
+
+Las reglas para las precampañas y las campañas electorales se señalarán en la ley.
+
+La duración máxima de las campañas será: para gobernador, de noventa días, para diputados y ediles, de sesenta días; la ley establecerá con precisión la duración de las mismas. En ningún caso las precampañas excederán las dos terceras partes del tiempo previsto para las campañas electorales.
+
+La violación a estas disposiciones será sancionada conforme a la Ley.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -593,7 +607,9 @@ h) La creación de entidades paramunicipales.
 
 XVII. Llevar el registro de la situación patrimonial de los servidores públicos estatales y municipales, los cuales se harán públicos en los términos establecidos por la ley;
 
-XVIII. Designar, a propuesta de los partidos políticos y con la aprobación de las dos terceras partes de sus integrantes, a los Consejeros Electorales del Consejo General del Instituto Electoral Veracruzano, en los términos que fije la ley;
+> <small>(REFORMADA, G.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+XVIII. Con la aprobación de las dos terceras partes de sus miembros presentes, designar a propuesta de los partidos políticos representados en el Congreso del Estado, previa realización de una amplia consulta a la sociedad que realicen éstos, a los Consejeros Electorales del Consejo General del Instituto Electoral Veracruzano, en los términos que fije la ley; y nombrar al titular de la Contraloría General del Instituto Electoral Veracruzano, a propuesta de instituciones públicas de educación superior del Estado, previa convocatoria que para el efecto se emita;
 
 > <small>(REFORMADA, G.O. 29 DE ENERO DE 2007)</small>
 
@@ -1259,6 +1275,10 @@ VII. Convocar a elecciones extraordinarias, si faltaren a la vez un diputado pro
 
 VIII. Designar provisionalmente a quien sustituya al Consejero de la Judicatura que hubiere designado el Congreso, y resolver, en su caso, sobre la renuncia que presente dicho servidor público, informando al Congreso en la primera sesión que lleve al cabo tras concluir el receso;
 
+> <small>(ADICIONADA, G.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+VIII bis. Designar provisionalmente a quien sustituya al Contralor General del Instituto Electoral Veracruzano, en caso de renuncia, inhabilitación, ausencia o muerte, informando al Congreso en la primera sesión que lleve a cabo tras concluir el receso, para que se proceda a la designación definitiva;
+
 IX. Conocer de los asuntos relacionados con la hacienda de los municipios y la práctica de auditorías, revisión y aprobación de las cuentas respectivas; y
 
 X. Las demás que le confiera expresamente esta Constitución.
@@ -1313,11 +1333,11 @@ El cargo de Gobernador del Estado sólo es renunciable por causa grave, que cali
 
 El Gobernador, en el acto de toma de posesión de su cargo, rendirá formal protesta ante el Congreso del Estado, ante la Diputación Permanente en los recesos de aquél, o, en su caso, ante el Presidente del Tribunal Superior de Justicia, en los términos siguientes: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las Leyes que de ambas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado de Veracruz de Ignacio de la Llave; y si así no lo hiciere, que la Nación y el Estado me lo demanden".
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 46.
 
-Si al iniciar el período constitucional no se presentare el Gobernador electo o la elección no estuviere hecha o declarada, cesará en sus funciones el Gobernador cuyo período haya concluido, encargándose desde luego del Poder Ejecutivo, en calidad de Gobernador interino, a quien designe el Congreso, y éste convocará de inmediato a elecciones extraordinarias, las cuales deberán realizarse en un plazo no mayor de doce meses a partir del inicio del período constitucional.
+Si al iniciar en (sic) período constitucional no se presentare el Gobernador electo o la elección no estuviere hecha o declarada válida, cesará en sus funciones el Gobernador cuyo período haya concluido, encargándose desde luego del Poder Ejecutivo, en calidad de Gobernador interino, a quien designe el Congreso, y este convocará de inmediato a elecciones extraordinarias, las cuales deberán realizarse en un plazo no mayor de doce meses a partir del inicio del período constitucional.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1659,6 +1679,14 @@ La Sala Electoral, integrada por tres magistrados, funcionará con motivo de la 
 
 El sistema de medios de impugnación dará definitividad a las distintas etapas en los procesos electorales, de plebiscito o referendo, y garantizará los derechos políticos de los ciudadanos de votar, ser votado y de libre asociación. La interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto impugnado.
 
+> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+La ley fijará las causales de nulidad de las elecciones de gobernador, diputados y ediles, así como los plazos para el desahogo de todas las instancias impugnativas.
+
+> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+Asimismo, los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación y, en su caso, la declaración de validez y el otorgamiento de constancias en las elecciones de diputados y ediles, así como el cómputo de la elección de Gobernador en cada uno de los distritos electorales uninominales.
+
 Las autoridades estatales y municipales están obligadas a coadyuvar en todo aquello que les sea requerido por el Instituto o la Sala Electoral. Los servicios notariales que cualquiera de estos organismos soliciten con motivo de los procesos electorales, plebiscitarios o de referendo, serán gratuitos.
 
 Las leyes establecerán los delitos, procedimientos y sanciones en materia electoral.
@@ -1681,13 +1709,29 @@ I. La organización, desarrollo y vigilancia de las elecciones, plebiscitos y re
 
 a) El Instituto se regirá por los principios de legalidad, imparcialidad, objetividad, certeza, independencia, profesionalismo, equidad y definitividad, y tendrá la integración y funcionamiento que señale la ley;
 
-(REFORMADO, G.O. 22 DE DICIEMBRE DE 2006) (F. DE E., G.O. 9 DE FEBRERO DE 2007) (F. DE E., G.O. 26 DE FEBRERO DE 2007)
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
 
-b) El Instituto tendrá las siguientes atribuciones: las actividades relativas a la capacitación y educación cívica, la geografía electoral, los derechos y prerrogativas de los partidos y demás organizaciones políticas, las campañas electorales, el acceso en condiciones de equidad a los medios de comunicación por parte de los candidatos, partidos y organizaciones políticas, el padrón y la lista de electores, la impresión de materiales electorales, la preparación de la jornada electoral, los cómputos en los términos que señale la ley, la declaración de validez y el otorgamiento de constancias en las elecciones de diputados y ayuntamientos; así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales, y las demás que señale la ley;
+b) El Instituto tendrá las siguientes atribuciones: las actividades relativas a la capacitación y educación cívica, la geografía electoral, los derechos y prerrogativas de los partidos y demás organizaciones políticas, vigilancia de los procesos internos y precampañas de los partidos políticos, las campañas electorales partidos y organizaciones políticas, el padrón y la lista de electores, la impresión de materiales electorales, la preparación de la jornada electoral, los cómputos en los términos que señale la ley, la declaración de validez y el otorgamiento de constancias en las elecciones de diputados y ayuntamientos; así como la regulación de la observación electoral y de las encuestas y sondeos de opinión con fines electorales, y las demás que señale la ley. El Instituto podrá convenir con el Instituto Federal Electoral la organización del proceso electoral en los términos que establezca la ley;
+
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
 
 c) El órgano superior de dirección del Instituto será el Consejo General, que funcionará de manera permanente.
 
-d) El Instituto contará con el personal ejecutivo y técnico necesario para el cumplimiento de sus funciones. El Consejo General, para hacer cumplir sus determinaciones, designará un Secretario Ejecutivo, en los términos que señale la ley.
+El Consejo General se integrará por un Presidente Consejero y cuatro consejeros electorales, con derecho a voz y voto en las sesiones del Consejo General; y los representantes por cada uno de los partidos políticos que hubieren obtenido su registro o acreditación, en su caso, para participar en las elecciones correspondientes, con derecho a voz pero sin voto en las sesiones del Consejo General.
+
+El consejero Presidente durará en su cargo seis años y podrá ser reelecto una sola vez. Los consejeros electorales durarán en su cargo nueve años, serán renovados en forma escalonada y no podrán ser reelectos. Según sea el caso, uno y otros serán elegidos sucesivamente por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, a propuesta de los partidos políticos representados en el mismo, previa realización de una amplia consulta a la sociedad. De darse la falta absoluta del consejero Presidente o de cualquiera de los consejeros electorales, el sustituto será elegido para concluir el periodo de la vacante. La ley establecerá las reglas y el procedimiento correspondientes;
+
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+d) El Instituto Electoral contará con una Contraloría General que tendrá a su cargo, con autonomía técnica y de gestión, la fiscalización de todos los ingresos y egresos del Instituto.
+
+El titular de la Contraloría General del Instituto será designado por el Congreso del Estado con el voto de las dos terceras partes de sus miembros presentes a propuesta de instituciones públicas de educación superior del Estado, en la forma y términos que determine la ley. Durará seis años en el cargo y podrá ser reelecto por una sola vez. Estará adscrito administrativamente a la presidencia del Consejo General y mantendrá la coordinación técnica necesaria con la entidad de fiscalización superior de la entidad;
+
+> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+e) El Instituto contará con el personal ejecutivo y técnico necesario para el cumplimiento de sus funciones. La fiscalización de las finanzas de los partidos políticos estatales y en lo que corresponda los nacionales, estará a cargo de un órgano técnico del Consejo General del Instituto Electoral, dotado de autonomía de gestión, cuyo titular será designado por el voto de la mayoría del propio Consejo a propuesta del Consejero Presidente y deberá coordinarse con el órgano de fiscalización del Instituto Federal Electoral en los términos que regule la ley.
+
+El Consejo General, para hacer cumplir sus determinaciones, designará un Secretario Ejecutivo, en los términos que señale la ley.
 
 II. El conocimiento y sustanciación de las quejas en contra de los actos u omisiones de naturaleza administrativa que violen derechos humanos, provenientes de cualquier autoridad o servidor público, la realizará la Comisión Estatal de Derechos Humanos, conforme a las siguientes bases:
 
@@ -1927,11 +1971,11 @@ Los servidores públicos serán responsables por las faltas o delitos en que inc
 
 El Gobernador, durante el ejercicio de su cargo, sólo podrá ser acusado ante el Congreso por la comisión de delitos graves del orden común. Por los demás delitos y faltas podrá ser acusado, conforme a las leyes respectivas, al concluir su mandato.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 77.
 
-Podrán ser sujetos de juicio político, por los actos u omisiones que conforme a la ley afecten a los intereses públicos fundamentales y a su correcto despacho: los Diputados; el Gobernador, los Secretarios de Despacho, el Procurador General de Justicia, el Contralor General; los Magistrados; los Presidentes Municipales o de Concejos Municipales y los Síndicos; el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Electoral Veracruzano; los Consejeros del Instituto Veracruzano de Acceso a la Información; los titulares o sus equivalentes, de las entidades de la administración pública estatal y municipal.
+Podrán ser sujetos de juicio político, por los actos u omisiones que conforme a la ley afecten a los intereses públicos fundamentales y a su correcto despacho, los Diputados, el Gobernador, los Secretarios de Despacho, el Procurador General de Justicia, el Contralor General, los Magistrados, los Presidentes Municipales o de Concejos Municipales y los Síndicos; el Consejero Presidente, los Consejeros Electorales, el Contralor General y el Secretario Ejecutivo del Instituto Electoral Veracruzano; los Consejeros del Instituto Veracruzano de Acceso a la Información; los titulares o sus equivalentes de las entidades de la administración pública estatal y municipal.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1981,13 +2025,29 @@ No se requiere declaración de procedencia por parte del Congreso, cuando alguno
 
 En demandas del orden civil que se entablen contra cualquier servidor público, no se requerirá declaración de procedencia.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(ADICIONADO PRIMER PARRAFO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 79.
 
+Los servidores públicos tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+
+> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública, del Estado y de los municipios, deberán tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+Las leyes garantizarán el estricto cumplimiento de lo previsto en los párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+
 Se aplicarán sanciones administrativas consistentes en suspensión, destitución e inhabilitación, así como de carácter pecuniario en los términos que establezca la ley, a los servidores públicos que incurran en actos u omisiones contrarios a la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben caracterizar al desempeño de sus funciones, cargos, empleos o comisiones.
 
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+
 Las sanciones económicas que señale la ley, deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios causados por sus actos u omisiones, pero no podrán ser mayores a tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 La legislación determinará las obligaciones de los servidores públicos, los procedimientos, las sanciones y las autoridades encargadas de aplicarlas. La responsabilidad administrativa, prescribirá a los tres años siguientes al término del cargo.
 
@@ -11748,6 +11808,12 @@ DECRETO NUMERO 293, POR EL QUE REFORMAN LAS FRACCIONES I Y III DEL ARTICULO 22 D
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 14 DE NOVIEMBRE DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1915 DEL CÓDIGO CIVIL FEDERAL".]
 
