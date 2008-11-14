@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2008-08-01"
+last_updated: "2008-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -34,8 +34,6 @@ Que el Congreso Constituyente del mismo, ha tenido a bien decretar lo siguiente:
 Número 5
 
 El XXV Congreso Constitucional del Estado Libre y Soberano de Tlaxcala, en funciones de Constituyente, a nombre y con la autoridad del pueblo tlaxcalteca, ha tenido a bien expedir la siguiente Constitución Política del Estado Libre y Soberano de Tlaxcala
-
-> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO NUMERO 11, MODIFICA DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DE LA CONSTITUCION DEL ESTADO DE TLAXCALA, DANDO COMO RESULTADO UN TEXTO DIFERENTE; Y SI BIEN, DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR, SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 1 DE AGOSTO DE 2008.</small>
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -715,11 +713,11 @@ Los diputados suplentes podrán ser electos para el periodo inmediato siguiente 
 
 Los diputados propietarios no podrán ser electos para el periodo inmediato, ni aún como suplentes.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 36.
 
-Los diputados tendrán fuero constitucional durante su ejercicio legal y por las opiniones que expresen jamás podrán ser reconvenidos. La Gran Comisión del Congreso velará por el respeto a la inviolabilidad del recinto parlamentario.
+Los diputados tendrán fuero constitucional durante su ejercicio legal y por las aportaciones que expresen jamás podrán ser reconvenidos. La Junta de Coordinación y Concertación Política del Congreso velará por el respeto a la inviolabilidad del recinto parlamentario.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 1984)</small>
 
@@ -927,15 +925,17 @@ Una vez aprobada la Ley de Ingresos para el Estado y los municipios, se deberá 
 
 Así mismo, podrá autorizar en dicho presupuesto las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos;
 
-XIII. Discutir, aprobar o modificar, en su caso, el Presupuesto de Egresos que para el ejercicio anual del Congreso, proponga la Comisión de Finanzas, Contraloría y Administración Pública del mismo;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+XIII. Discutir, aprobar o modificar, en su caso, el presupuesto de egresos que para el ejercicio anual del Congreso, proponga la Comisión de Finanzas y Fiscalización del mismo;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
 XIV. Determinar las participaciones que correspondan a los municipios de los impuestos federales y estatales;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
-XV. Expedir leyes que regulen las relaciones de trabajo entre los poderes del Estado, los municipios, organismos autónomos y los organismos paraestatales con sus trabajadores, con base en lo dispuesto por los artículos 115 y 123 de la Constitución Política de los Estados Unidos Mexicanos, así como las relativas al sistema de seguridad social que deban gozar éstos;
+XV. Expedir leyes que regulen las relaciones de trabajo entre los poderes del Estado, los municipios, organismos autónomos y los organismos paraestatales con sus trabajadores, con base en lo dispuesto por los artículos 115 y 123 de la Constitución Política de los Estados Unidos Mexicanos, así como las relativas al sistema de seguridad social de que deban gozar éstos. Para tal efecto se creará un Tribunal de Conciliación y Arbitraje, con autonomía técnica para emitir sus resoluciones y patrimonio propio, dotado de plena jurisdicción para conocer de los conflictos individuales y colectivos de carácter laboral y de seguridad social, integrado con tres representantes, designados en los términos previstos en la Ley Laboral de los Servidores Públicos del Estado de Tlaxcala y sus Municipios;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -1581,7 +1581,7 @@ ARTICULO 78 BIS.- (DEROGADO, P.O. 1 DE AGOSTO DE 2008)
 
 ### CAPITULO I. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-(NOTA: EL 8 DE NOVIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO Y NOVENO ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 138/2008, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A PARTIR DEL 1 DE ENERO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 8 DE NOVIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 138/2008, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A PARTIR DEL 1 DE ENERO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -1591,7 +1591,7 @@ ARTICULO 78 BIS.- (DEROGADO, P.O. 1 DE AGOSTO DE 2008)
 
 ### CAPITULO II. DEL CONSEJO DE LA JUDICATURA
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 79.
 
@@ -1799,25 +1799,45 @@ Los magistrados serán nombrados por el Congreso, con la votación de las dos te
 
 ###### ARTICULO 85.
 
-El Consejo de la Judicatura es un órgano del Poder Judicial con independencia técnica, de gestión y para emitir sus resoluciones, encargado de la vigilancia y administración de los recursos del Poder Judicial; se integrará por:
+El Consejo de (sic) Judicatura es un órgano del Poder Judicial con independencia técnica de gestión y para emitir sus resoluciones, encargado de la vigilancia y administración de los recursos del Poder Judicial; se integrará por cinco consejeros, para quedar como sigue:
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
 I. El presidente del Tribunal Superior de Justicia, quien lo presidirá;
 
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+
 II. Un representante de los magistrados que será designado por las dos terceras partes de los integrantes del pleno del Tribunal Superior de Justicia;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
 III. Un representante de los jueces que será designado por las dos terceras partes de los integrantes del pleno del Tribunal Superior de Justicia;
 
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+
 IV. Un profesional del derecho de reconocido prestigio académico o que haya destacado en el ejercicio de la profesión designado previa convocatoria, por las dos terceras partes del total de los integrantes de la Legislatura, y
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
 V. Un profesional del derecho de reconocido prestigio académico o que haya destacado en el ejercicio de la profesión designado por el Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+
 El presidente del Consejo de la Judicatura deberá informar por escrito al Tribunal Superior de Justicia y al Congreso del Estado, semestralmente, sobre el estado que guarda la administración del Poder Judicial y cuantas veces sea requerido por el Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 Las demás facultades y obligaciones del presidente así como aquellas para el funcionamiento del Consejo de la Judicatura, serán previstas por la ley correspondiente.
 
-Los consejeros a excepción del presidente, durarán en el cargo tres años y no podrán ser designados para otro período inmediato posterior.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+Los consejeros, a excepción del presidente, durarán en el cargo tres años y no podrán ser designados para otro período inmediato posterior. Los consejeros no representarán a quien los designa y ejercerán su función con independencia e imparcialidad, durante su encargo sólo podrán ser removidos en los términos del Título XI de la presente Constitución.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 El Consejo de la Judicatura será responsable de implementar el sistema de carrera judicial, con auxilio del instituto de capacitación de la judicatura, bajo los principios de legalidad, excelencia, objetividad, imparcialidad, profesionalismo e independencia; nombrará y removerá a los servidores públicos del Poder Judicial con excepción de los magistrados, asimismo les concederá licencia y resolverá sobre la renuncia que presenten, en los términos que establezca la ley.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 Las decisiones o resoluciones del Consejo serán impugnadas por la vía administrativa o jurisdiccional que corresponda.
 
@@ -1985,11 +2005,15 @@ No se establecerán exenciones o subsidios a favor de persona o institución alg
 
 Quedan exentos de contribuir, la Federación, los Estados y los Municipios en torno de los bienes de dominio público, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-Como principio general, todos los recursos que transfiera la Federación al Estado, para atención de la educación, salud, vivienda, ecología, cultura, deporte, desarrollo agropecuario y social o con cualquier otro fin general o específico, deberán ser canalizados a los Municipios para su ejercicio. El Ejecutivo y los Ayuntamientos, si así conviene a éstos últimos, celebrarán los convenios necesarios para el ejercicio de estos recursos.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
-Los criterios de distribución de estos recursos, siempre tomarán en cuenta el número de habitantes, así como los planteamientos para lograr los objetivos específicos de cada programa.
+Como principio general, todos los recursos que transfiera la Federación al Estado, para atención de la educación, salud, vivienda, ecología, cultura, deporte, uso y derecho de agua, desarrollo agropecuario y social o con cualquier otro fin general o específico, deberán ser canalizados a los municipios para su ejercicio, de conformidad con las reglas de operación respectivas. El Ejecutivo y los ayuntamientos, si así conviene a estos últimos, celebrarán los convenios necesarios para el ejercicio de estos recursos.
 
-Los ayuntamientos, en sesión pública de Cabildo, efectuarán la distribución hacia las presidencias de comunidad, tomando como principal referencia de distribución, la proporción del número de habitantes de éstas.
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+
+Los ayuntamientos, en sesión pública de Cabildo, efectuarán la distribución hacia las presidencias de comunidad para su ejercicio, de conformidad con las reglas de operación respectivas.
 
 Los presupuestos de egresos serán aprobados por los Ayuntamientos, con base en sus ingresos disponibles, debiéndose publicar en el Periódico Oficial del Estado. El registro, control y publicación de las operaciones obedecerán a los lineamientos específicos establecidos por el Congreso.
 
@@ -2313,11 +2337,11 @@ Todo servidor público será responsable política, administrativa, penal y civi
 
 El Congreso expedirá la Ley que determine las responsabilidades y sanciones de los servidores públicos, señalará las causas y procedimientos, así como las autoridades competentes para tales efectos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 109.
 
-El juicio político procede contra los servidores públicos a que se refiere el párrafo segundo del artículo 107, los titulares de las secretarías del Ejecutivo, de la Procuraduría General de Justicia, de la Oficialía Mayor, del Órgano de Fiscalización Superior y de las coordinaciones y los organismos que integran la administración pública paraestatal, así como contra los consejeros electorales del Consejo General del Instituto Electoral de TIaxcala y del Secretario General de éste, así como en contra de los jueces del Poder Judicial del Estado de Tlaxcala, por actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen desempeño de acuerdo a las prevenciones siguientes:
+El juicio político procede contra los servidores públicos a que se refiere el párrafo segundo del artículo 107, los titulares de las Secretarías del Ejecutivo, de la Procuraduría General de Justicia, de la Oficialía Mayor, del Órgano de Fiscalización Superior y de las Coordinaciones y los Organismos que integran la Administración Pública Paraestatal, así como contra los Consejeros Electorales del Consejo Electoral del Instituto Electoral de Tlaxcala y el Secretario General de éste, así como en contra de los jueces del Poder Judicial del Estado de Tlaxcala, de los presidentes municipales y los miembros de los ayuntamientos de los municipios del Estado, así como contra los titulares de las secretarías o despachos de las presidencias municipales, por actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, de acuerdo a las prevenciones siguientes:
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -3034,3 +3058,21 @@ La actual denominación de los Títulos y Capítulos que integran el presente De
 ###### ARTÍCULO DÉCIMO QUINTO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 14 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez que entre en vigor el presente Decreto y dentro de los treinta días hábiles siguientes, el Honorable Tribunal Superior de Justicia del Estado, a través de su Presidente deberá entregar al Presidente del Tribunal de Conciliación y Arbitraje, los expedientes laborales que conoció e instruyó la extinta Sala Laboral Burocrática, durante su funcionamiento.
+
+###### ARTÍCULO TERCERO.
+
+Con fundamento en lo dispuesto por el artículo 96 fracción I de la Ley Orgánica del Poder Legislativo, se instruye al Secretario Parlamentario para que una vez que entre en vigor el presente Decreto, lo notifique al Presidente del Honorable Tribunal Superior de Justicia del Estado, para los efectos correspondientes.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
