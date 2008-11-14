@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-y-fomento-apicola-para-el-estado-de-nuevo-579
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-07"
-last_updated: "2007-12-07"
+last_updated: "2008-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCION Y FOMENTO APICOLA PARA EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de diciembre de 2007.
 
@@ -255,7 +255,7 @@ Las Asociaciones de apicultores se formarán y regirán por la Ley Federal de Or
 
 ###### Artículo 18.
 
-No podrán formar parte de las asociaciones de apicultura, las personas sobre las cuales haya recaído sentencia ejecutoria, como autor o copartícipe de delitos patrimoniales.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2008)
 
 ###### Artículo 19.
 
@@ -834,3 +834,9 @@ ALDO FASCI ZUAZUA
 EL C. SECRETARIO DE DESARROLLO ECONÓMICO
 
 ALEJANDRO ALBERTO CARLOS PÁEZ Y ARAGÓN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE NOVIEMBRE DE 2008.
+
+Único: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
