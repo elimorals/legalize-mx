@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-28-2005-del-pleno-del-consejo-de-la-45657"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-08-12"
-last_updated: "2008-09-11"
+last_updated: "2008-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45657&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-07-13"
 
 ACUERDO GENERAL 28/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE NOVIEMBRE DE 2008.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 12 de agosto de 2005.
 
@@ -379,7 +379,9 @@ Para recibir la pensión complementaria a que se refiere este Acuerdo, será nec
 
 Una vez presentada la solicitud de pensión complementaria, el titular de Servicios al Personal deberá ordenar se recabe la información necesaria para integrar el expedientillo respectivo y, con base en éste, elaborar un proyecto de resolución en el que proponga a la Comisión, previo visto bueno del titular de la Contraloría, el sentido de la resolución que determine sobre la procedencia o no de la pensión solicitada, en un plazo que no deberá exceder de treinta días siguientes a la integración del citado expedientillo.
 
-De toda resolución que dicte la Comisión deberá informar al Pleno en la siguiente sesión ordinaria; así como a la Suprema Corte de Justicia de la Nación para su conocimiento.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 60/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
+La Comisión deberá rendir un informe mensual al Pleno de las resoluciones que emita, mediante una relación de asuntos autorizados, en la que se señale el nombre del solicitante, el sentido de la resolución y, en su caso, el monto otorgado. A dicho informe se anexará documento que acredite la situación financiera del Fondo.
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
 
@@ -489,6 +491,12 @@ La resolución que determine la cancelación de la pensión complementaria será
 
 Tratándose del supuesto previsto en la fracción III del artículo 3 de este Acuerdo, la cancelación de la pensión procederá de pleno derecho, sin substanciación de procedimiento alguno, cuando los beneficiarios cumplan la mayoría de edad, excepto los incapaces.
 
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 60/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 34.
+
+Para efectos de los (sic) dispuesto en el artículo 12 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, se publicará trimestralmente la información del fideicomiso constituido por el Consejo para financiar el Plan, y se remitirá a las autoridades que conforme a la ley corresponda.
+
 ## TRANSITORIOS
 
 PRIMERO.- Este Acuerdo entrará en vigor a partir del uno de septiembre de dos mil cinco.
@@ -562,3 +570,11 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, y para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, de inmediato, el texto de esta reforma, al Acuerdo General 28/2005, del Pleno del Consejo de la Judicatura Federal, que Regula el Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito.
+
+D.O.F. 14 DE NOVIEMBRE DE 2008.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar, de inmediato, el texto de esta reforma al Acuerdo General 28/2005, del Pleno del Consejo de la Judicatura Federal, que Regula el Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito.
