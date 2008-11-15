@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2008-11-01"
+last_updated: "2008-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2008.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -321,9 +321,13 @@ e).- A no ser separado del hogar, sino en los casos excepcionales que las leyes 
 
 Los ancianos tienen derecho a un albergue decoroso e higiénico y a la atención y cuidado de su salud, alimentación y debido esparcimiento por parte de sus familiares.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
-El Estado promoverá lo necesario para que la población tenga acceso a una vivienda digna, a la asistencia médica y social, a la cultura, a la recreación y al deporte. En la asistencia médica y social se dará prioridad a los menores, ancianos y minusválidos.
+El Estado promoverá lo necesario para que la población tenga acceso a una vivienda digna, a la asistencia médica y social, a la recreación y al deporte. En la asistencia médica y social se dará prioridad a los menores, a las personas de la tercera edad y discapacitados.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
+
+Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios culturales. El Estado garantizará su cumplimiento y promoverá el derecho a la creación y formación artística; la diversidad cultural de los individuos, comunidades y pueblos; la vinculación entre cultura y desarrollo sustentable; y la difusión y protección del patrimonio cultural, fomentando la participación social.
 
 > <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
@@ -701,7 +705,7 @@ Por lo que respecta a las impugnaciones que se presenten en contra de la elecci�
 
 II.- Las resoluciones del Tribunal serán definitivas e inatacables en el ámbito local;
 
-III.- El Tribunal Estatal Electoral esta integrado por tres magistrados propietarios y tres suplentes, que serán elegidos por la Legislatura, mediante el voto aprobatorio de las dos terceras partes de sus integrantes, de una lista por ternas para propietarios y suplentes, propuesta por el Tribunal Superior de Justicia del Estado. La ley determinará el proceso de selección, previa convocatoria y examen por oposición.
+III.- El Tribunal Estatal Electoral está integrado por tres magistrados propietarios y tres suplentes, que serán elegidos por la Legislatura, mediante el voto aprobatorio de las dos terceras partes de sus integrantes, de una lista por ternas para propietarios y suplentes, propuesta por el Tribunal Superior de Justicia del Estado. La ley determinará el proceso de selección, previa convocatoria y examen por oposición.
 
 Los magistrados del Tribunal Estatal Electoral deberán reunir los mismos requisitos que los magistrados del Tribunal Superior de Justicia y durarán en su encargo cuatro años, pudiendo ser reelectos por una sola vez.
 
@@ -1245,9 +1249,9 @@ XXXVII. Cambiar la sede de los Poderes del Estado;
 
 XXXVIII. Crear y suprimir, con las limitaciones que establezcan las leyes, empleos públicos del Estado, y señalar, aumentar o disminuir sus dotaciones;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
-XXXIX. Legislar en los ramos de educación y salubridad públicas;
+XXXIX. Legislar en los ramos de educación, cultura y salubridad pública;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -3334,6 +3338,10 @@ P.O. 1 DE NOVIEMBRE DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE NOVIEMBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
