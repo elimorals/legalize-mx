@@ -4,7 +4,7 @@ identifier: "COL-ley-de-presupuesto-contabilidad-y-gasto-publico-municipal-21156
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-14"
-last_updated: "2004-07-24"
+last_updated: "2008-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 14 de abril de 2001.
 
@@ -423,9 +423,17 @@ Cualquier erogación con cargo al presupuesto deberá liquidarse a través de ó
 
 El Tesorero Municipal es responsable por los pagos que se realicen en contravención a lo dispuesto en este artículo.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 31.
 
-Los pagos deberán realizarse mediante cheques nominativos, con cargo a las cuentas bancarias del Ayuntamiento. Los cheques que expida la Tesorería Municipal deberán ser firmados en forma mancomunada por el Tesorero Municipal y por el Presidente Municipal o en su caso por otro servidor público que autorice éste. Se exceptúan de esta regla los sueldos y los gastos hasta por la cantidad que determine el Cabildo. Queda estrictamente prohibido expedir cheques al portador o en blanco. La violación a este artículo implica responsabilidad para el Tesorero Municipal.
+Los pagos deberán realizarse mediante cheques nominativos o bien a través de los medios electrónicos que se convengan específica y claramente con las instituciones bancarias, proveedores y empleados, con cargo a las cuentas bancarias del Ayuntamiento. Los cheques que expida la Tesorería Municipal y los registros de transferencias electrónicas deberán ser firmados en forma mancomunada por el Tesorero Municipal y por el Presidente Municipal o, en su caso, por otro servidor público que éste autorice. Se exceptúan de esta regla los sueldos y los gastos hasta por la cantidad que determine el Cabildo.
+
+Queda estrictamente prohibido expedir cheques o realizar pagos electrónicos al portador, en blanco o a beneficiario diferente al que ampare documentación comprobatoria de la adquisición de bienes o servicios, nombramientos, decretos, acuerdos o convenios específicos previa y debidamente aprobados.
+
+La liberación de recursos para cubrir fondos revolventes se hará a través de cheques nominativos y su importe no podrá exceder de cien días de salario mínimo vigente en el Estado.
+
+La violación a este artículo implica responsabilidad para el Tesorero Municipal y el servidor público autorizado por el Presidente Municipal a que se refiere este artículo.
 
 ###### ARTICULO 32.
 
@@ -602,3 +610,7 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La revisión y fiscalización de la cuenta pública municipal correspondiente al ejercicio fiscal 2003, se sujetará a las bases y disposiciones constitucionales del sistema anual de rendición de cuentas establecidas antes de la presente reforma.
 
 TERCERO.- Para el caso de la aprobación por el cabildo y su remisión al Congreso del dictamen de revisión de los resultados de la cuenta pública, correspondiente al primer semestre del 2004, por única vez se amplía el plazo al 31 de agosto de 2004. Sujetándose la Contaduría Mayor de Hacienda y el Congreso para su revisión fiscalización a la fecha establecida en el artículo 33 fracción XI de la Constitución del Estado.
+
+P.O. 15 DE NOVIEMBRE DE 2008.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
