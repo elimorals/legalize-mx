@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2007-09-29"
+last_updated: "2008-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2008.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -395,7 +395,7 @@ Las leyes determinarán a qué autoridad corresponde decretar la suspensión, p�
 
 DEL PODER PUBLICO.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
 ###### Art. 27.
 
@@ -403,21 +403,31 @@ La soberanía del Estado, reside, originariamente en el pueblo, y en nombre de �
 
 Los partidos políticos son entidades de interés público; la ley determinará las formas específicas en su intervención en el proceso electoral.
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuyendo a la integración de la representación local y Municipal y organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan el Sufragio Universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuyendo a la integración de la representación local y municipal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente, en la creación de partidos políticos estatales y cualquier forma de afiliación corporativa.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta Constitución y las leyes.
 
-Todas las campañas electorales serán laicas.
+Es revocable el mandato de los servidores públicos electos mediante el voto. La solicitud de revocación del mandato deberá ser suscrita cuando menos por el 10% de los ciudadanos del Estado, municipio o distrito, según sea el caso y podrá presentarse una vez transcurrido una tercera parte del período para el cual fue electo el funcionario, para estos efectos quedan comprendidos en la categoría de servidores públicos revocables de mandato, el Gobernador, los diputados, presidentes municipales, regidores y síndicos. La ley establecerá las bases y procedimientos para la revocación, así como los medios de impugnación.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
-Es revocable el mandato de los funcionarios públicos electos mediante el voto. La solicitud de revocación del mandato deberá ser suscrita cuando menos por el 10% de los ciudadanos del Estado, Municipio o Distrito, según sea el caso y podrá presentarse una vez transcurrido una tercera parte del período para el cual fue electo el funcionario. Quedan comprendidos en la categoría de funcionarios públicos el Gobernador, los diputados, presidentes municipales, regidores y síndicos. La ley establecerá las bases y procedimientos para la revocación, así como los medios de impugnación.
+Art. 27 bis.- El financiamiento público para los partidos políticos se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico.
 
-Los partidos políticos recibirán en forma equitativa, de acuerdo con las disponibilidades presupuestales y en los términos que establezca la ley, recursos del erario público estatal para su sostenimiento y para que cuenten durante los procesos electorales con apoyos para sus actividades tendientes a la obtención del Sufragio Universal.
+La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. Así mismo, establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no podrá exceder anualmente, para cada partido, al diez por ciento del tope de gastos establecido para la última campaña de Gobernador; además ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
-La ley establecerá los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales, así como los montos máximos que tengan las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten; asimismo establecerá las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias.
+De igual manera, la ley garantizará que los recursos públicos prevalezcan sobre los de origen privado y establecerá el procedimiento para la liquidación de las obligaciones de los partidos políticos estatales que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado.
 
-La autoridad electoral garantizará condiciones de equidad para el acceso de los partidos políticos a los medios de comunicación social.
+La Ley establecerá las bases para la coordinación entre el Instituto Estatal Electoral y el Instituto Federal Electoral, en materia de fiscalización de las finanzas de los partidos políticos.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
+
+Art. 27 ter.- Los partidos políticos estatales en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
+
+Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor ni en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en el territorio de Chihuahua de este tipo de mensajes contratados en el extranjero.
+
+En la propaganda política o electoral que difundan los partidos políticos deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas.
+
+Durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social, de toda propaganda gubernamental, estatal y municipal y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -495,49 +505,45 @@ V.- Sucesivamente, el Presidente Municipal que, habiendo permanecido dentro del 
 
 La persona que asuma el Poder Ejecutivo conforme a este artículo, convocará dentro de los noventa días siguientes a elecciones de diputados al Congreso, y éste una vez instalado, nombrará Gobernador con el carácter que corresponda.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE NOVIEMBRE DE 2008)</small>
+
 ## TITULO VI.
 
-DE LAS ELECCIONES.
+DE LOS PROCESOS ELECTORALES.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
 ###### Art. 36.
 
-Los procesos electorales del Estado se efectuarán conforme a las bases que establece la presente Constitución y las demás leyes de la materia, y se sujetarán a los siguientes principios rectores: certeza, legalidad, imparcialidad, objetividad e independencia.
+La renovación de los Poderes Legislativo, Ejecutivo y los Ayuntamientos, se realizará mediante sufragio universal, libre, secreto y directo, conforme a las bases que establezca la presente Constitución. La jornada electoral tendrá lugar el primer domingo de julio del año que corresponda.
+
+Los procesos electorales ordinarios se celebrarán cada tres años y se sujetarán a los principios rectores de certeza, legalidad, imparcialidad, objetividad e independencia.
 
 Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales, fijando los plazos convenientes para el desahogo de todas las instancias impugnativas.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+La Ley establecerá los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación y las causales de nulidad de las elecciones de Gobernador, diputados y ayuntamientos.
 
-La organización, dirección y vigilancia de las elecciones y demás procesos que requieran consulta pública en el Estado estarán a cargo de un organismo público denominado Instituto Estatal Electoral, que gozará de autonomía en su funcionamiento e independencia en sus decisiones, con personalidad jurídica y patrimonio propios; se compondrá de un órgano central de mayor jerarquía denominado Asamblea General y los órganos distritales y municipales. Los órganos y servidores de este Instituto, se sujetarán a la organización y facultades que señalen esta Constitución y la Ley, la que garantizará que en el ejercicio de la función electoral sean principios rectores los de legalidad, imparcialidad, objetividad, certeza e independencia.
+Todas las precampañas y campañas electorales serán laicas.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+La duración de las campañas en el año de elecciones para Gobernador, diputados y miembros de ayuntamientos, no podrán exceder de noventa días; en el año en que sólo se elijan diputados y miembros de ayuntamientos, las campañas no podrán exceder de sesenta días. En ningún caso las precampañas excederán las dos terceras partes del tiempo previsto para las campañas electorales. La ley fijará las sanciones para quienes infrinjan esta disposición.
 
-La Asamblea General se integra por un consejero presidente, seis consejeros electorales, un secretario general y un representante que cada Partido Político designe o su respectivo suplente.
+La organización, dirección y vigilancia de las elecciones y demás procesos que requieran consulta pública en el Estado, estarán a cargo de un organismo público denominado Instituto Estatal Electoral, que gozará de autonomía en su funcionamiento e independencia en sus decisiones, con personalidad jurídica y patrimonio propios; se compondrá de un órgano central de mayor jerarquía denominado Asamblea General y los órganos distritales y municipales.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+La Asamblea General se integra por un Consejero Presidente, seis consejeros electorales, un Secretario General y un representante que cada Partido Político designe o su respectivo suplente.
 
-El consejero presidente y los consejeros electorales serán designados cada uno por el voto de cuando menos las dos terceras partes de los diputados presentes, de entre los aspirantes que concurran a la convocatoria pública que el propio Congreso o la Diputación Permanente expidan. Si la mencionada mayoría no se logra en única votación, la Junta de Coordinación Parlamentaria propondrá una terna de candidatos, para cada uno de los cargos que no se hubieren cubierto, de entre los aspirantes que concurran a la convocatoria pública, efectuándose la elección por mayoría calificada de los diputados presentes; si no se logra tal elección, la designación se hará mediante insaculación de entre los candidatos propuestos por la Junta de Coordinación Parlamentaria. Conforme al mismo procedimiento se designará un consejero electoral suplente por cada propietario. La ley establecerá las reglas, procedimientos de designación y demás requisitos correspondientes.
+El Consejero Presidente y los consejeros electorales serán designados cada uno por el voto de cuando menos las dos terceras partes de los diputados presentes de entre los aspirantes que concurran a la convocatoria pública que el propio Congreso o la Diputación Permanente expidan. Si la mencionada mayoría no se logra en única votación, la Junta de Coordinación Parlamentaria propondrá una terna de candidatos, para cada uno de los cargos que no se hubieran cubierto, de entre los aspirantes que concurran a la convocatoria pública, efectuándose la elección por mayoría calificada de los diputados presentes; si no se logra tal elección, la designación se hará mediante insaculación de entre los candidatos propuestos por la Junta de Coordinación Parlamentaria. Conforme al mismo procedimiento se designará un consejero electoral suplente por cada propietario. La ley establecerá las reglas, procedimientos de designación y demás requisitos correspondientes.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+La Asamblea General designará al Secretario General y su suplente, a propuesta del Consejero Presidente. La falta definitiva del Consejero Presidente será suplida por el consejero electoral que se designe conforme a la ley, hasta que el Congreso haga la nueva designación de Consejero Presidente.
 
-La Asamblea General designará al secretario general y su suplente, a propuesta del consejero presidente. La falta definitiva del consejero presidente será suplida por el consejero electoral que se designe conforme a la ley, hasta que el Congreso haga la nueva designación de consejero presidente.
+El Consejero Presidente y los consejeros electorales participan con voz y voto. Aquél tendrá voto de calidad. Los restantes miembros de la Asamblea General participan sólo con voz, pero sin voto.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+La duración del cargo de Consejero Presidente será de tres años y los consejeros electorales serán designados para un solo proceso electoral, pudiendo ambos ser reelectos por una sola vez. La ley regulará lo relativo al llamamiento de los consejeros electorales designados para el proceso electoral inmediato anterior, para la celebración de procesos de plebiscito, referéndum y revocación de mandato.
 
-El consejero presidente y los consejeros electorales participan con voz y voto. Aquel tendrá voto de calidad. Los restantes miembros de la Asamblea General participan solo con voz pero sin voto.
-
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
-
-La duración del cargo de consejero presidente será de tres años y los consejeros electorales serán designados para un solo proceso electoral, pudiendo ambos ser reelectos por una sola vez. La ley regulará lo relativo al llamamiento de los consejeros electorales designados para el proceso electoral inmediato anterior, para la celebración de procesos de plebiscito, referéndum y revocación de mandato.
-
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
-
-Las sesiones de los órganos electorales serán públicas y sus resoluciones recurribles ante el Tribunal Estatal Electoral conforme disponga la ley.
-
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+Las sesiones de los órganos electorales serán públicas y sus resoluciones recurribles ante el Tribunal Estatal Electoral, conforme disponga la ley.
 
 Las actividades, funciones y servicios de carácter electoral, incluidas las relativas al padrón de electores, podrán desarrollarse en coordinación con el órgano federal competente. La ley establecerá las condiciones, requisitos y modalidades en que se convenga dicha coordinación.
+
+El Instituto Estatal Electoral podrá realizar convenios con el Instituto Federal Electoral, para que éste organice los procesos electorales locales.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
@@ -557,9 +563,11 @@ El Tribunal Estatal Electoral funcionará en pleno durante los procesos electora
 
 Concluido cada proceso electoral, el Tribunal Estatal Electoral presentará al Congreso y hará público un informe del desempeño de sus funciones.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
+
 ###### Art. 38.
 
-Ningún ciudadano puede ser detenido la víspera o el día de las elecciones, sino por delito flagrante; en este caso, la autoridad tomará las providencias necesarias para la aprehensión del delincuente, después que el mismo hubiere depositado su voto.
+Ningún ciudadano puede ser detenido la víspera o el día de las elecciones, sino por delito flagrante; en este caso, la autoridad tomará las providencias necesarias para la aprehensión del delincuente, después que el mismo hubiere depositado su voto. La legislación penal tipificará los delitos, faltas administrativas y sanciones en materia electoral.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
@@ -1065,13 +1073,17 @@ Nombrar y remover libremente al Oficial Mayor del Congreso del Estado.
 
 Una vez nombrados, tomarles la protesta de ley a ambos servidores públicos.
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
-XLV.- Expedir todas las leyes necesarias a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución a los Poderes del Estado.
+XLV.- Aprobar, por mayoría calificada, los convenios que celebre el Instituto Estatal Electoral con el Instituto Federal Electoral, tendientes a la organización de los procesos electorales en el Estado.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
-XLVI.- Las demás que le confieren esta Constitución, la Federal y demás leyes.
+XLVI.- Expedir todas las leyes necesarias a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución a los Poderes del Estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2008)</small>
+
+XLVII.- Las demás que le confieren esta Constitución, la Federal y demás leyes.
 
 ### CAPITULO IV.
 
@@ -2801,11 +2813,13 @@ En las cuestiones de orden administrativo que señale la ley y con arreglo a lo 
 
 Ningún ciudadano podrá desempeñar ni conservar dos o más cargos de elección popular; pero el electo podrá optar por el que le conviniere entendiéndose renunciado uno con la aceptación del otro.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
 ###### Art. 191.
 
 Todo cargo público es incompatible con cualquier función o empleo federal, de éste o de otro Estado o de los municipios, cuando por ambos se perciba remuneración, exceptuándose los de enseñanza y beneficencia, salvo lo dispuesto para casos especiales y cuando el Congreso otorgue licencia expresa para ello al interesado.
+
+La ley establecerá los casos en que exista conflicto entre el desempeño de la función pública y el ejercicio profesional.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -2833,11 +2847,15 @@ Todo servidor público del Estado o de los municipios, que tenga funciones de di
 
 La ley determinará la fórmula de la protesta y ante quien deba otorgarse, en los casos que esta Constitución no especifique.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
 ###### Art. 197.
 
-La Ley establecerá los casos en que exista conflicto entre el desempeño de la función pública y el ejercicio profesional.
+Los servidores públicos del Estado y los municipios tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública estatal y municipal, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
 ###### Art. 198.
 
@@ -3412,3 +3430,7 @@ Por lo que respecta a la reforma constitucional, conforme lo dispone el artícul
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, por lo que se refiere a la reforma a la Constitución Política del Estado de Chihuahua, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. En tanto, la reforma a la Ley Orgánica del Poder Judicial tendrá aplicación el día inmediato posterior a la vigencia de la reforma constitucional.
+
+P.O. 15 DE NOVIEMBRE DE 2008.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
