@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-participacion-ciudadana-para-el-estado-de-durango-56446"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-28"
-last_updated: "2007-06-28"
+last_updated: "2008-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PARTICIPACION CIUDADANA PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 28 de junio de 2007.
 
@@ -633,27 +633,19 @@ Los recursos se canalizarán a través del Instituto, a quien le corresponde lle
 
 ###### ARTÍCULO 61.
 
-Se considera como un acto de autoridad administrativa, la declaratoria que emita la Comisión sobre la improcedencia de la solicitud de un proceso de plebiscito o referéndum, por lo que podrá ser impugnado por el representante común de los ciudadanos ante el Tribunal de lo Contencioso Administrativo del Estado de Durango.
-
-El juicio contencioso administrativo se tramitará conforme a las disposiciones aplicables del Código de Justicia Administrativa para el Estado de Durango.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2008)
 
 ### CAPÍTULO II. DE LA IMPUGNACIÓN ANTE EL TRIBUNAL ESTATAL ELECTORAL
 
 ###### ARTÍCULO 62.
 
-El acuerdo de validación de resultados que emita la Comisión en un proceso de plebiscito o referéndum, podrá ser impugnado mediante el recurso de apelación ante el Tribunal Estatal Electoral por:
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2008)
 
-I. El Gobernador, cuando se trate de un plebiscito en el ámbito estatal;
-
-II. El Congreso del Estado, cuando se trate de un referéndum en el ámbito estatal;
-
-III. El Ayuntamiento, cuando se trate de un plebiscito o referéndum, en el ámbito de su municipio; y
-
-IV. Por el representante común de los ciudadanos solicitantes de un plebiscito o referéndum, respecto de la improcedencia de las solicitudes de declaración de procedencia; o bien, respecto de los efectos de los procedimientos citados, en cuyos casos se tendrá por entendido que las resoluciones serán definitivas e inatacables.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 63.
 
-El juicio ante el Tribunal Estatal Electoral, se regirá conforme a las disposiciones establecidas en el Código Estatal Electoral.
+Las impugnaciones que se interpongan en los procesos de plebiscito y referéndum se sustanciarán y resolverán por el Tribunal Estatal Electoral, conforme a las disposiciones establecidas en la ley de la materia.
 
 T R A N S I T O R I O S
 
@@ -696,3 +688,11 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE NOVIEMBRE DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
