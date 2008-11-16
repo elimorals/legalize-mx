@@ -4,7 +4,7 @@ identifier: "DUR-codigo-estatal-electoral-4880"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-11-27"
-last_updated: "2007-12-02"
+last_updated: "2008-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 CODIGO ESTATAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL PARA EL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 16 DE NOVIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 27 de noviembre de 1994.
 
@@ -6510,3 +6512,29 @@ TERCERO.- El Consejo Estatal Electoral expedirá los reglamentos relativos a las
 CUARTO.- El Consejo Estatal Electoral contará con un periodo de 60 (sesenta) días contados a partir de la entrada en vigor del presente Decreto, para la elaboración del nuevo Reglamento de Fiscalización de los Recursos de los Partidos Políticos y Agrupaciones Políticas.
 
 En tanto no se expida el Reglamento mencionado en el párrafo anterior, las normas, acuerdos y disposiciones existentes, continuarán vigentes.
+
+P.O. 16 DE NOVIEMBRE DE 2008.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. Se abroga el Decreto 406. Publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango numero 43, de fecha 27 de noviembre de 1994. Que contiene el CODIGO ESTATAL ELECTORAL.
+
+TERCERO. Para efectos de la sustitución escalonada de los Consejeros Electorales que integran el Consejo Estatal, se estará a lo siguiente:
+
+I. A la entrada en vigor del presente decreto concluirán su encargo los Consejeros Electorales C.C. Esmeralda Valles López propietario y Martha Guadalupe Amaro Herrera suplente; Enrique Torres Cabral propietario y Raúl Netzahualcoyotl Muñoz Segovia suplente y Claudia Judith Martínez Medina propietario y Alfredo Gutiérrez Maldonado suplente;
+
+II. Se procederá a elegir tres consejeros electorales propietarios con sus respectivos suplentes, los cuales durarán en su encargo por un periodo de nueve años, pudiendo participar en este proceso electivo los ciudadanos que se mencionan en la fracción I de este artículo, pudiendo además participar funcionarios y empleados del Instituto Electoral y de Participación Ciudadana.
+
+III. La elección de los consejeros electorales propietarios y sus respectivos suplentes, deberá realizarse a más tardar el día quince de diciembre de dos mil ocho.
+
+IV. Los cuatro consejeros electorales propietarios y sus respectivos suplentes a los cuales no se les da por concluido su encargo, terminarán el mismo en los términos establecidos en el decreto de su designación, y no podrán ser reelectos;
+
+V. En tanto se realiza la designación de los Consejeros Electorales propietarios y suplentes, los consejeros electorales que continúen en su encargo nombrarán por mayoría a un presidente interino, el cual ocupará dicho encargo hasta que se realice el nombramiento de los consejeros a que se refiere la fracción III, procediendo el consejo a designar al Presidente del Consejo Estatal en los términos del articulo 111 de esta ley.
+
+CUARTO. El Secretario Ejecutivo concluirá el cargo por el término por el cual fue designado, salvo renuncia o remoción, en cuyo caso el nuevo será designado por el término establecido en el artículo 124 de esta ley.
+
+QUINTO. El Consejo Estatal del Instituto Electoral y de Participación Ciudadana del Estado de Durango, dictará los acuerdos necesarios para hacer efectivas las disposiciones de esta ley y deberá expedir los reglamentos que se deriven de la misma, a más tardar en ciento ochenta días a partir de su entrada en vigor.
+
+SEXTO. El establecimiento del Servicio Profesional Electoral estará sujeto a la disponibilidad presupuestal que se señale en la partida correspondiente.
+
+SEPTIMO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por la presente ley.
