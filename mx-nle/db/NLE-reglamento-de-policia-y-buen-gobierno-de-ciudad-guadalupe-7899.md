@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-de-ciudad-guadalupe-7899"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-15"
-last_updated: "2007-04-20"
+last_updated: "2008-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 15 de noviembre de 1995.
 
@@ -159,7 +159,9 @@ I.- Conservar el orden en los mercados, ferias, ceremonias públicas, diversione
 
 II.- Vigilar durante el día y particularmente por la noche, las calles y demás sitios públicos, para impedir que se cometan atentados en contra de las personas y sus propiedades; procediendo a detener en el momento a todo aquel individuo que se sorprenda intentando llevar acabo dichos actos.
 
-III.- Retirar de la Vía Pública a toda persona que se encuentre mendigando, así como aquellas que inciten a la consumación de actos de violencia, haciendo solicitaciones para ejecutar actos inmorales o contrarios a las buenas costumbres.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
+III.- Retirar de la vía pública a toda persona que se encuentre mendigando; así como aquellas que inciten a la consumación de actos de violencia, haciendo solicitaciones para ejecutar actos inmorales o contrarios a las buenas costumbres.
 
 > <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2007)</small>
 
@@ -177,41 +179,121 @@ VIII.- Intervenir para evitar y/o resolver cualquier suspensión en el tránsito
 
 IX.- Colaborar y/o auxiliar a la Dirección de Tránsito, a fin de que en las proximidades de los centros escolares o en los sitios que ésta señale, el tránsito de vehículos se haga con la velocidad moderada de acuerdo con lo establecido en el Reglamento de Tránsito y Vialidad.
 
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
+X.- Expedir las disposiciones que contengan la estructura jerárquica, normativa operativa administrativa, principios de organización, así como funcionamiento, de organización territorial, mandos administrativos y operativos, patrullaje, vigilancia, dirección y disciplina del régimen interno de la Policía con sujeción a las disposiciones contenidas en este Reglamento.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
+XI.- Determinar mediante convenio y con aprobación del R. Ayuntamiento, las bases para la organización y funcionamiento de la policía metropolitana, su estructura operativa, despliegue territorial, clasificación de mandos, asignación de recursos, las previsiones presupuestarias y las demás consideraciones que hagan viable el cumplimiento de su objetivo.
+
+En dicho convenio se deberá prever la determinación de reglas operativas para la identificación, clasificación y formas de intervención en situaciones de alerta o contingencias y los términos y condiciones en que habrá de coordinarse con las autoridades de Seguridad Pública del Estado.
+
 ### CAPITULO 3
 
 DE LAS FACULTADES Y OBLIGACIONES DE LA DIRECCION DE POLICÍA MUNICIPAL.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 7.
 
-Al Secretario de Seguridad Ciudadana y Tránsito, le corresponde las siguientes facultades y Obligaciones:
+Compete al Secretario de Seguridad Ciudadana y Tránsito a través de la Dirección de Policía, las atribuciones siguientes:
 
-I.- Vigilar, aplicar y hacer cumplir el presente Reglamento.
+I. Prevenir las conductas delictivas e infracciones administrativas;
 
-II.- Tomar las medidas necesarias para la exacta aplicación y observancia de este Reglamento.
+II. Proteger la integridad física de las personas, sus propiedades, derechos y libertades;
 
-III.- Dictar los acuerdos correspondientes.
+III. La Vigilancia del cumplimiento estricto de las Leyes, el Reglamento de Policía y Buen Gobierno; y demás disposiciones jurídicas aplicables en la materia.
 
-IV.- Rendir un Informe Mensual de las actividades realizadas en esa Dirección.
+IV. Mantener el orden, la paz y tranquilidad de los lugares públicos;
 
-V.- Coordinarse con otras Autoridades para el mejor cumplimiento de este Reglamento.
+V. Vigilar las calles, parques, jardines, vías públicas, escuelas, plazas, comercios, mercados, panteones, zonas ecológicas, espectáculos públicos, centros de diversión, centros de reunión y aquellas que sean de la misma naturaleza;
 
-VI.- Arrestar a todo aquel individuo que contravenga cualquier disposición de este Reglamento, y ponerlo a disposición de la Autoridad Municipal; y ésta a su vez remitirlo a la Autoridad competente en su caso.
+VI. Proceder a la detención en los casos de flagrancia del delito y poner inmediatamente a disposición de las autoridades competentes a las personas detenidas, los bienes, objetos o instrumentos que se hayan asegurado y que se encuentren bajo su custodia; lo anterior, en los términos que dispone el Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
 
-VII.- Retirar de la Vía Pública, a todos aquellos individuos que practiquen la mendicidad, así como a aquellas personas que alteren el orden.
+VII. A petición expresa del Ministerio Público auxiliar en la investigación y persecución de los delitos;
 
-VIII.- Vigilar los centros de diversión, centros educativos y de reuniones.
+VIII. Llevar el registro y control estadístico de los delitos, y las infracciones administrativas cometidas al Reglamento de Policía y Buen Gobierno;
 
-IX.- Prevenir que los menores de edad ingresen a los bares, cantinas y demás negocios donde se consuman bebidas alcohólicas.
+IX. Instrumentar programas, proyectos o acciones para garantizar la seguridad pública, prevenir del (sic) delito y las infracciones administrativas;
 
-X.- Tomar todas aquellas medidas que tengan por objeto el mantener el orden, la paz, la tranquilidad y la seguridad de los ciudadanos.
+X. Observar y hacer cumplir lo dispuesto en el Programa Estatal de Seguridad Pública, que corresponda al ejercicio de sus atribuciones;
 
-XI.- Las demás conferidas por las Leyes y los Reglamentos vigentes.
+XI. Coordinar acciones con la Agencia Estatal de Policía para el cumplimiento de los objetivos y fines de la Ley de Seguridad Pública del Estado;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2000)</small>
+XII. Brindar las medidas de protección y seguridad a los servidores públicos municipales, en los términos y condiciones que establece este ordenamiento y el Reglamento respectivo;
 
-Facultades que podrá delegar en el Director de Policía Preventiva.
+XIII. Ejecutar tareas de auxilio a la población en caso de accidentes, riesgos, siniestros, emergencias o desastres naturales, en apoyo a las instituciones de protección civil del Estado y del Municipio;
+
+XIV. Colaborar con el organismo de participación ciudadana en materia de Seguridad Pública del Municipio;
+
+XV. Coordinar acciones con los Comités de Participación Comunitaria del Municipio;
+
+XVI. Solicitar a las autoridades de Seguridad Pública del Estado, cuando la circunstancia lo requiera, la intervención de sus Grupos Tácticos o Unidades Especiales de Intervención o de Reacción;
+
+XVII. Dictar los Acuerdos correspondientes;
+
+XVIII. Rendir un Informe mensual de las actividades realizadas en esa Dirección;
+
+XIX. Arrestar todo aquel individuo que contravengan cualquier disposición de este Reglamento y ponerlo a disposición de la Autoridad Municipal; y ésta a su vez remitirlo a la Autoridad competente en su caso;
+
+XX. Retirar de la Vía Pública a todos aquellos individuos que practiquen la mendicidad; así como aquellas personas que alteren el orden;
+
+XXI. Prevenir que los menores de edad no ingresen a los bares, cantinas y demás negocios donde se consuman bebidas alcohólicas;
+
+XXII. Tomar todas aquellas medidas que tengan por objeto el mantener el orden, la paz, la tranquilidad y la seguridad de los ciudadanos; y
+
+XXIII. Las demás conferidas por las leyes y los Reglamentos vigentes.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 7 BIS.- La Secretaría de Seguridad Ciudadana y Tránsito orientará su organización y funcionamiento a que la conservación del orden, la paz y tranquilidad pública; prevenir los delitos y las infracciones administrativas, privilegiando la proximidad y comunicación con la ciudadanía, procurando su participación en actividades relacionadas con la seguridad pública municipal.
+
+1.- La Secretaría de Seguridad Ciudadana y Tránsito a través de la Dirección de Policía orientará el ejercicio de sus atribuciones conforme a lo ordenado por la Ley de Seguridad Pública para el Estado de Nuevo León aplicando los siguientes principios:
+
+I. Principio de Territorialidad: Consiste en el conocimiento y sentido de pertenencia que tiene el elemento de policía sobre la zona o extensión territorial que le corresponde vigilar y proteger, integrándose por los siguientes elementos:
+
+a) Actuar dentro de un esquema operativo y funcional de mayor cobertura, delimitado geográficamente, mediante la conformación de distritos y sectores que le faciliten ejercer con cercanía y prontitud el servicio de vigilancia, protección y prevención;
+
+b) Conocer la distribución geográfica, poblacional y socioeconómica del territorio, distrito o zona de cobertura que le corresponda; y
+
+c) Contar con información sobre el comportamiento delictivo o de las infracciones administrativas que se generen en su territorio, distrito o sector, para lo cual se proveerá de la información estadística necesaria y de estudios e informes que sobre el particular se realicen.
+
+II. Principio de Proximidad: Consiste en establecer un vínculo permanente de comunicación, cercanía y colaboración con la comunidad, que le permita al elemento policial ejercer con mayor eficacia el cumplimiento de sus atribuciones, integrándose por los siguientes elementos:
+
+a) Mantener una estrecha comunicación y cercanía con la comunidad para identificar sus necesidades y prioridades en materia de vigilancia, seguridad, protección y prevención del delito e infracciones administrativas;
+
+b) Promover y facilitar la participación de la comunidad en las tareas de seguridad, protección y prevención del delito e infracciones administrativas;
+
+c) Instrumentar alianzas con organizaciones y asociaciones de vecinos, padres de familia, comerciantes o de cualesquier otra naturaleza que posibiliten el cumplimiento de sus objetivos;
+
+d) Brindar la orientación e información necesaria a las víctimas de cualquier delito o infracción, buscando que se les proporcione una atención adecuada y oportuna por parte de las Instituciones correspondientes;
+
+e) Servir como una instancia auxiliar para el conocimiento de la problemática social de la comunidad y canalizar sus planteamientos e inquietudes ante las dependencias u organismos que correspondan; y
+
+f) Rendir cuentas periódicamente a la comunidad sobre la evaluación de las actividades que realiza y sobre la problemática delictiva que se genera en su entorno o sector, estableciendo compromisos de acción que tiendan a su mejoramiento, escuchando en todo momento las opiniones y experiencias de la comunidad.
+
+III. Principio de Proactividad: Consiste en la participación activa del elemento policial en el diseño e instrumentación de estrategias o acciones para evitar la generación de delitos e infracciones administrativas, integrándose por los siguientes elementos:
+
+a) Participar en el diseño y puesta en marcha de los programas de prevención del delito que al respecto se instrumenten conforme a las disposiciones contenidas en esta Ley;
+
+b) Recabar información que de acuerdo con su criterio pueda representar un riesgo o peligro para la comunidad; o bien, que pueda ser de utilidad para prever posibles conductas delictivas o infracciones administrativas o lograr, en su caso, la identificación o detención de personas que hayan cometido algún delito o infracción; y,
+
+c) Privilegiar, en los casos en que la Ley lo prevé, la solución de conflictos de menor impacto mediante el diálogo, la conciliación o la mediación, con el propósito de restaurar y armonizar los intereses de las partes en conflicto.
+
+IV. Principio de Promoción: Consiste en las actividades que realiza el elemento policial con el propósito de generar en la comunidad una cultura de la legalidad, del respeto a las Instituciones, de la denuncia ciudadana y de la prevención o autoprotección al delito, integrándose por los elementos siguientes:
+
+a) Fomentar entre la comunidad el respeto irrestricto a los Derechos Humanos; y
+
+b) Promover una cultura de la legalidad, de la denuncia ciudadana y de la prevención o autoprotección del delito.
+
+Estos principios deberán de incorporarse en los programas de formación, capacitación, actualización, desarrollo, profesionalización y especialización para los integrantes de las instituciones policiales preventivas del Municipio que se impartan en la Academia.
+
+II (SIC).- La policía preventiva municipal se coordinara previo acuerdo del Cabildo, en el esquema intermunicipal denominado Policía Metropolitana (METROPOL), a fin de que conjuntamente con los demás municipios que lo integren, diseñen las estrategias operativas para prevenir y contralar conductas delictivas o infracciones administrativas que afecten la paz, el orden y la tranquilidad pública de los habitantes.
+
+La policía podrá constituirse en instancia de Coordinación Intermunicipal Regional, con sujeción a las disposiciones contenidas en la Ley de Seguridad Pública para el Estado de Nuevo León.
+
+III.- El Municipio se coordinará con las autoridades de Seguridad Pública del Estado para ejercer funciones de intervención, control o de reacción frente a delitos de alto impacto social o que la legislación penal los califica de graves.
 
 ###### ARTICULO 8.
 
@@ -864,3 +946,11 @@ Las presentes reformas y adiciones entrarán en vigor el día siguiente de su pu
 ###### ARTÍCULO SEGUNDO.
 
 Envíese a la C. Presidenta Municipal para que tenga a bien instruir al C. Secretario del R. Ayuntamiento lo remita para su publicación en el Periódico Oficial del Estado de Nuevo León y en la Gaceta Municipal.
+
+P.O. 17 DE NOVIEMBRE DE 2008.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abrogan todas las disposiciones reglamentarias circulares y demás disposiciones jurídicas que se opongan a las presentes modificaciones y reformas.
+
+TERCERO.- Envíese a la C. Presidencia Municipal para que tenga a bien instruir al C. Secretario del R. Ayuntamiento lo mande publicar en el Periódico Oficial del Estado de Nuevo León y en la Gaceta Municipal.
