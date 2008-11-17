@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2007-05-28"
+last_updated: "2008-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -209,129 +209,109 @@ El Congreso se integrará con representantes del pueblo que residan en el territ
 
 Por cada Diputado Propietario se eligirá (sic) un Suplente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 17.
 
-El Congreso del Estado estará integrado por dieciocho Diputados electos según el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales y hasta nueve Diputados Electos según el principio de representación proporcional mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado.
+En el Estado la renovación de los Poderes Legislativo y Ejecutivo, así como los Ayuntamientos se verificarán por medio de elecciones democráticas directas, a través del ejercicio del sufragio universal y secreto.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+A. El Congreso del Estado estará integrado por dieciocho Diputados electos según el principio de votación de mayoría relativa mediante el sistema de Distritos electorales uninominales y nueve Diputados electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado.
 
-El Instituto Estatal Electoral fijará el ámbito territorial de los distritos electorales uninominales basado en un criterio poblacional. Se tomarán en cuenta los principios de contigüidad de fronteras, conectividad, compacidad y respeto a la división seccional; se propiciará la unidad geográfica de los distritos electorales. El número de habitantes que contendrá cada distrito no podrá diferir en veinte por ciento, más o menos, del cociente resultante. La revisión o adecuación se realizará después de cada Censo General de Población.
+El Instituto Estatal Electoral, fijará el ámbito territorial de los distritos electorales uninominales basados en un criterio poblacional. Se tomarán en cuenta los principios de contigüidad de fronteras, conectividad, compacidad y respeto a la división seccional; se propiciará la unidad geográfica de los distritos electorales. El número de habitantes que contendrá cada distrito electoral. El número de habitantes que contendrá cada distrito no podrá diferir en veinte por ciento, más o menos del cociente resultante. La revisión o adecuación, se realizará después de cada Censo General de Población o Conteo de Población más reciente que realicen (sic) el Instituto Nacional de Estadística y Geografía.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
+La asignación de los Diputados según el principio de representación proporcional, se sujetará a las siguientes bases y a lo que en particular determine la Ley en materia electoral:
 
-La asignación de los Diputados según el principio de representación proporcional, se sujetará a las siguientes bases y a lo que en particular disponga el Código Estatal Electoral:
+l. El partido político deberá acreditar que tiene su registro nacional e inscribir candidatos a Diputados por mayoría relativa, en por lo menos catorce de los dieciocho distritos uninominales;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+II. Las diputaciones por el principio de representación proporcional, se otorgarán a todo partido político que obtenga por lo menos el dos punto cinco por ciento de la votación emitida; y
 
-I.- El partido político deberá acreditar que tiene su registro nacional e inscribir candidatos a diputados por mayoría relativa, en por lo menos catorce de los dieciocho distritos uninominales.
+III. La Ley de la materia determinará la fórmula y el procedimiento que se observará en dicha asignación.
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2001)</small>
+Los Diputados por mayoría relativa y de representación proporcional, tendrán la misma jerarquía e igualdad de derechos y obligaciones.
 
-II.- Las diputaciones por el principio de representación proporcional se otorgarán a todo partido político que obtenga por lo menos el dos punto cinco por ciento de la votación emitida.
+Las obligaciones de los Diputados consisten en el ejercicio de las funciones, legislativa, de representación popular, fiscalización, nombramiento, presupuestal, de control, jurisdiccional, sanción y demás que establezcan las leyes; y desempeñarán sus funciones en el Pleno del Congreso del Estado, Diputación Permanente, Gran Jurado, Comisiones y Comités del Poder Legislativo.
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2001)</small>
+B. El Sistema Estatal Electoral se regirá por los principios rectores de certeza, legalidad, independencia, imparcialidad, definitividad y objetividad.
 
-III.- El Código Estatal Electoral determinará la fórmula y el procedimiento que se observará en dicha asignación; y
+La organización de las elecciones en el Estado, así como del fomento del modelo de vida democrático, de participación y representación es una función pública que se ejerce a través de un organismo público autónomo denominado, Instituto Estatal Electoral.
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2001)</small>
+El Instituto Estatal Electoral, como ente de interés público, será autoridad en la materia, actuará con independencia en sus decisiones, funcionamiento y profesionalismo en su desempeño; estará dotado de autonomía, personalidad jurídica y patrimonio propio, tendrá como autoridad máxima de gobierno un Consejo General.
 
-IV.- Los Diputados por mayoría relativa y de representación proporcional, tendrán la misma jerarquía e igualdad de derechos y obligaciones.
+El Consejo General será electo por el voto de la mayoría calificada de los integrantes del Congreso del Estado y estará integrado en forma ordinaria por tres Consejeros Electorales, de los cuales uno será presidente y dos vocales, durarán en su encargo tres años y podrán ser reelectos hasta por un nuevo período.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+El Consejo General, en año electoral, se ampliará en su integración con cuatro Consejeros Electorales temporales, electos por el voto de la mayoría calificada de los integrantes del Congreso del Estado, quienes desempeñarán el cargo del primero de enero del año de la elección a la fecha en que se declare por concluido el proceso electoral por el propio Consejo General. Los Consejeros Electorales temporales, serán electos para ejercer el cargo durante dos procesos electorales.
 
-Sus obligaciones consisten en el ejercicio de la representación popular y desempeñarán sus funciones en el Congreso del Estado, Diputación Permanente y Gran Jurado.
+Por cada consejero permanente o temporal, se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+El cargo de Consejero Electoral, no será compatible con cargo de servidor público alguno, así como con cualquier cargo por el que se reciba pago o retribución alguna con recursos públicos.
 
-La renovación de los Poderes Legislativo y Ejecutivo y de los Ayuntamientos se verificará por medio de elecciones directas, cuya organización es una función pública que se ejerce por los Poderes Legislativo y Ejecutivo del Estado, con la participación de los partidos políticos acreditados y de los ciudadanos, reglamentada por la Ley de la materia. En el ejercicio de esta función pública, la certeza, legalidad, independencia, imparcialidad y objetividad, serán principios rectores.
+La Ley de la materia determinará la organización del Instituto, sus facultades y estructura orgánica, debiendo contar el Instituto con un órgano auxiliar para la fiscalización de los recursos de los partidos políticos y asociaciones políticas estatales, una Contraloría especializada en la fiscalización de los recursos y programas del Instituto, ambos dotados con autonomía técnica y de gestión, así como la estructura del servicio profesional electoral necesaria para el cumplimento de sus labores. El titular de la Contraloría, será electo mediante el voto de la mayoría calificada de los integrantes del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+Las elecciones ordinarias deberán celebrase, el primer domingo de julio del año de la elección.
 
-El Código Estatal Electoral de Aguascalientes regulará el ejercicio de los derechos y obligaciones políticos y electorales de los ciudadanos y partidos políticos; determinará las prerrogativas que tendrán estos últimos; dispondrá la forma, procedimientos y requisitos a los que deberán ajustarse las elecciones; reglamentará las atribuciones de los organismos electorales y jurisdiccionales que gozarán de autonomía en su funcionamiento e independencia en sus decisiones.
+Los partidos políticos nacionales con registro en el Estado, serán entidades de interés público, podrán y serán los únicos facultados para participar en las elecciones estatales, distritales y municipales; estando asimismo facultados para participar en la vida política del Estado, para lo cual tendrán acceso a financiamiento público y apoyos gubernamentales en términos de lo estipulado en la Ley de la materia.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+Los partidos políticos nacionales con registro en el Estado tendrán como fin el promover la participación del pueblo en la vida democrática, en la representación estatal y el acceso al poder público.
 
-Los procedimientos, mecanismos, plazos, términos, medios de impugnación y publicidad de los resultados electorales que sean aplicables, a las figuras del plebiscito y el referéndum, serán calificados por el Consejo General del Instituto Estatal Electoral en los términos establecidos en las Leyes de la materia.
+La Ley de la materia regulará los derechos, prerrogativas y obligaciones de los partidos políticos nacionales con registro en el Estado, al igual que los respectivos de los ciudadanos y la población en general para la participación en la vida política del Estado y el acceso al poder. Se establecerán en dicha norma los procedimientos, requisitos y normas para el desarrollo de las elecciones ordinarias y extraordinarias estatales y municipales, así como la participación y procedimientos jurisdiccionales y medios de impugnación que darán certeza al Sistema Estatal Electoral y sus procesos.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+El Tribunal Estatal Electoral, será un órgano jurisdiccional, temporal, autónomo en su funcionamiento e independiente en sus decisiones. Estará integrado por tres Magistrados, adscritos al Poder Judicial del Estado. En tiempo no electoral será el Pleno del Supremo Tribunal de Justicia del Estado quien conozca y resuelva de los recursos. El Tribunal Estatal Electoral, tendrá entre sus facultades, resolver los medios de impugnación y nulidades que la ley electoral establezca, así como declarar la validez de las elecciones.
 
-La Ley del Sistema de Medios de Impugnación en Materia Electoral, reglamentará todos los actos y resoluciones electorales para que se sujeten invariablemente a los principios de constitucionalidad, legalidad y definitividad de las etapas de los procesos electorales, tomando en cuenta los plazos convenientes para el desahogo de todas las instancias impugnativas.
+La norma penal del Estado, determinará los delitos en materia electoral, así como las sanciones aplicables.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+Los partidos políticos, en ningún momento podrán contratar o adquirir por sí o por terceras personas, tiempos o espacios en cualquier modalidad de radio, televisión o prensa escrita o electrónica.
 
-Los Códigos Penal y Estatal Electoral tipificarán los delitos y determinarán las faltas en materia electoral, así como las sanciones de carácter administrativo y/o penal que por ellos deban imponerse a los infractores de sus disposiciones.
+El Sistema Estatal Electoral, estará regulado por la Ley de la materia, y deberá garantizar en todo momento los siguientes derechos y obligaciones:
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+a) Los partidos políticos se constituirán sólo por ciudadanos sin intervención de organizaciones gremiales, afiliación corporativa, quienes tendrán el derecho exclusivo para solicitar el registro de candidatos a cargos de elección popular;
 
-Con relación a las figuras del Plebiscito, Referéndum e Iniciativa Popular, el Instituto Estatal Electoral será el órgano responsable de organizarlos.
+b) Las autoridades electorales sólo intervendrán en la vida interna de los partidos en términos de lo establecido en el Código Electoral;
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+c) Establecer las fórmulas y criterios para la asignación de financiamiento y prerrogativas de los partidos políticos, así como los topes y límites del financiamiento que éstos pueden recibir de sus simpatizantes;
 
-El Referéndum y Plebiscito podrán solicitarlo:
+d) Fijar criterios y límites para establecer las erogaciones de los partidos políticos en sus precampañas y campañas;
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2001)</small>
+e) Establecer las bases y procedimientos para la liquidación y destino de los bienes y recursos de los partidos políticos que pierdan su registro;
 
-I.- El cinco por ciento de los ciudadanos inscritos en el Padrón Electoral, cuya identificación se acreditará con el folio, nombre y firma que se contienen en la credencial de elector; o
+f) Establecer las bases para los procedimientos relativos al control, vigilancia y sanción, respecto del origen y destino de los recursos de los partidos políticos; y
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2001)</small>
+g) Establecer las bases y normas para las precampañas y campañas de los partidos políticos, así como las conductas prohibidas y las sanciones por incumplimiento y el respectivo sistema de medios de impugnación.
 
-II.- Una tercera parte de los Diputados que integran el H. Congreso del Estado.
+C. Con relación a las figuras del Plebiscito y el Referéndum, el Instituto Estatal Electoral será el órgano responsable de organizarlo, previa aprobación del H. Congreso del Estado.
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2001)</small>
+El Plebiscito y Referéndum podrán solicitarlos:
 
-III.- Los Ayuntamientos de los Municipios del Estado, en el ámbito de su competencia; y
+a) El dos punto cinco por ciento de los ciudadanos inscritos en el Padrón Electoral, cuya identificación se acreditará con el folio, nombre y firma que se contiene en la credencial de elector;
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2001)</small>
+b) Una tercera parte de los Diputados que integran el H. Congreso del Estado;
 
-IV.- El Gobernador del Estado.
+c) Los Ayuntamientos de los Municipios del Estado, en el ámbito de su competencia; o
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+d) El Gobernador del Estado.
 
-Para que la solicitud se declare aprobada se requiere del voto favorable de las dos terceras partes de los integrantes del H. Congreso del Estado, la cual será turnada al Instituto Estatal Electoral para que a su vez, elabore la pregunta para expedir enseguida la convocatoria correspondiente.
+Para que la solicitud se declare aprobada se requiere el voto favorable de las dos terceras partes de los integrantes del H. Congreso del Estado la cual, deberá ser turnada al Instituto Estatal Electoral para que a su vez, elabore la pregunta para expedir enseguida la convocatoria correspondiente.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+No podrán someterse a referéndum ni a Plebiscito aquéllas Leyes o Artículos que contemplen las siguientes materias:
 
-No podrán someterse a Referéndum ni a Plebiscito aquellas leyes o artículos que contemplen las siguientes materias:
+a) Las disposiciones constitucionales y legales en materia tributaria o fiscal, así como la Ley de Ingresos y Presupuestos de Egresos en el Estado de Aguascalientes;
 
-a).- Las disposiciones constitucionales y legales en materia tributaria o fiscal, así como Ley de Ingresos y Presupuesto de Egresos en el Estado de Aguascalientes.
+b) Ley Orgánica de la Administración Pública del Estado de Aguascalientes;
 
-b).- Ley Orgánica del Poder Ejecutivo del Estado de Aguascalientes.
+c) Ley Orgánica del Poder Legislativo y sus Reglamentos;
 
-c).- Ley Orgánica del Poder Legislativo y sus Reglamentos.
+d) Ley Orgánica del Poder Judicial del Estado; y
 
-d).- Ley Orgánica del Poder Judicial del Estado; y
+e) Las demás que determinen las leyes.
 
-e).- Las demás que determinen las leyes.
+Los procedimientos, mecanismos, plazos, términos, medios de impugnación y publicidad de los procesos electorales serán aplicables a las figuras del plebiscito y el referéndum.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+Se establece en el Estado la Iniciativa Popular, como un medio ciudadano para proponer al Congreso del Estado la creación, reformas, adición, derogación o abrogación de leyes del marco jurídico estatal, la cual opera bajo los siguientes requisitos;
 
-El Tribunal Local Electoral será un órgano jurisdiccional autónomo en su funcionamiento e independiente en sus decisiones, temporal, integrado por tres Magistrados, adscritos al Poder Judicial del Estado. En tiempo no electoral será el Pleno del Supremo Tribunal de Justicia del Estado quien conozca y resuelva de los recursos. El Tribunal Local Electoral tendrá la facultad de declarar la validez de la elección.
+a) Podrán solicitarla, el dos punto cinco por ciento de los ciudadanos inscritos en el Padrón Electoral.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+b) Deberán acreditar los solicitantes estar inscritos en el Padrón Electoral Federal.
 
-El Instituto Estatal Electoral se integrará y funcionará conforme a lo que disponga el Código Estatal Electoral.
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
-
-Se consideran a los partidos políticos como entidades de interés público; el Código Estatal Electoral determinará las formas específicas de su intervención en el proceso electoral.
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
-
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal, y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios y plataformas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
-
-Los partidos políticos nacionales con registro, tendrán derecho a participar en las elecciones estatales y municipales, y deberán contar, en forma equitativa, con un mínimo de elementos para el desarrollo de sus actividades tendientes a la obtención del sufragio popular.
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
-
-Los partidos políticos tendrán derecho al uso permanente y en condiciones de equidad de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezcan las leyes aplicables.
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
-
-El Código Estatal Electoral establecerá las reglas a que se sujetará el financiamiento público de los partidos políticos y sus campañas electorales, de acuerdo a las disponibilidades del Presupuesto de Egresos del Estado y a lo que determine el Instituto Estatal Electoral. También determinará los topes para gastos de precampañas, campañas y los montos máximos de las aportaciones pecuniarias de los particulares. De igual forma, regulará los procedimientos de control y vigilancia del origen y uso del financiamiento en su conjunto y las sanciones que en su caso corresponda por incumplimiento.
+c) Se dará trámite a la Iniciativa en los términos y procedimientos de la Ley Orgánica del Poder Legislativo.
 
 ###### Artículo 17 Bis.
 
@@ -1047,13 +1027,35 @@ El Municipio es la institución jurídica política y social de carácter públi
 
 El Municipio es libre en su régimen interior, será gobernado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-Los Ayuntamientos se integrarán por un Presidente Municipal y el número de Regidores y Síndicos que la Ley determine; serán electos por el sistema de mayoría relativa y residirán en las cabeceras de los Municipios.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
+Los Ayuntamientos se integrarán por un Presidente Municipal, Regidores y Síndicos que serán electos por el sistema de mayoría relativa y residirán en las cabeceras de los Municipios; además se elegirán regidores de representación proporcional que serán asignados a los partidos políticos, entre los cuales no debe figurar el que haya obtenido mayoría de votos, de acuerdo al procedimiento establecido en la Ley.
 
 El Presidente Municipal presidirá el Ayuntamiento y representará a éste y al Municipio política y administrativamente.
 
 Los Regidores de mayoría relativa y los de representación proporcional tendrán la misma categoría e iguales derechos y obligaciones.
 
-Tendrán, además, hasta seis Regidores que serán elegidos según el principio de representación proporcional y su asignación a los partidos políticos, entre los cuales no debe figurar el que haya obtenido mayoría de votos, se hará de acuerdo con el procedimiento que establezca la Ley.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
+Cada Municipio será gobernado por un Ayuntamiento integrado por representantes electos por los principios de mayoría relativa y de representación proporcional, de la siguiente manera:
+
+I. Se elegirán bajo el principio de mayoría relativa:
+
+a) Un Presidente Municipal;
+
+b) Siete regidores y dos síndicos para el Municipio de Aguascalientes;
+
+c) Cuatro regidores y un Síndico para los municipios que tengan más de treinta mil habitantes, un año antes del día de la elección; y
+
+d) Tres regidores y un síndico para cada uno de los demás municipios.
+
+II. Se elegirán por el principio de representación proporcional:
+
+a) Siete regidores para el Municipio de Aguascalientes;
+
+b) Cuatro regidores para los municipios que tengan más de treinta mil habitantes, un año antes del día de la elección; y
+
+c) Tres regidores para cada uno de los demás municipios.
 
 Los Ayuntamientos se renovarán en su totalidad cada tres años. Se elegirá un suplente por el Presidente Municipal y por cada Regidor y Síndico para que cubra las faltas temporales o absolutas del propietario correspondiente, serán cubiertas conforme a lo dispuesto por la Ley Orgánica Municipal del Estado.
 
@@ -1323,11 +1325,17 @@ Los servidores públicos que entren a ejercer su encargo después del día seña
 
 Cuando por circunstancias imprevistas no pudiere instalarse el Congreso, ni el Gobernador tomar posesión de su cargo el día fijado por esta Constitución, lo harán luego que sea posible.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 89.
 
-La ley que aumente las dietas de los Diputados no podrá tener efecto, sino después de concluído el período constitucional correspondiente.
+La Ley que aumente las dietas de los Diputados no podrá tener efecto, sino después de concluido el período constitucional correspondiente.
+
+Los servidores públicos del Estado y los Municipios, tienen la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública centralizada, desconcentrada, descentralizada estatal o municipal, y cualquier otro ente de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+La violación a lo establecido en el presente Artículo será sancionada en la forma y términos que señalen las leyes.
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2007)</small>
 
@@ -1966,3 +1974,13 @@ P.O. 28 DE MAYO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Intégrese el expediente respectivo y túrnese a todos y cada uno de los Ayuntamientos del Estado, para los efectos de lo dispuesto en el Artículo 94 de la Constitución Política local y Artículo 155 de la Ley Orgánica del Poder Legislativo.
