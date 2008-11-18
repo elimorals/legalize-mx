@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-del-estado-de-guerrero-numero-429-23164"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-28"
-last_updated: "2007-12-28"
+last_updated: "2008-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO FISCAL DEL ESTADO DE GUERRERO, NUMERO 429
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Alcance Número I del Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -133,6 +133,48 @@ Son aprovechamientos los recargos, las multas y los demás ingresos del Estado n
 
 Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el sexto párrafo del artículo 35 de este Código, que se apliquen en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTICULO 9o.
+
+BIS.- Se entiende por enajenación de bienes:
+
+I. Toda transmisión de propiedad, aun en la que el enajenante se reserve el dominio del bien enajenado.
+
+II. Las adjudicaciones, aun cuando se realicen a favor del acreedor.
+
+III. La aportación a una sociedad o asociación.
+
+IV. La que se realiza mediante el arrendamiento financiero.
+
+V. La que se realiza a través del fideicomiso, en los siguientes casos:
+
+a) En el acto en el que el fideicomitente designe o se obliga a designar fideicomisario diverso de el y siempre que no tenga derecho a readquirir del fiduciario los bienes.
+
+b) En el acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho.
+
+Cuando el fideicomitente reciba certificados de participación por los bienes que afecte en fideicomiso, se consideraran enajenados esos bienes al momento en que el fideicomitente reciba los certificados, salvo que se trate de acciones.
+
+VI. La cesión de los derechos que se tengan sobre los bienes afectos al fideicomiso , en cualquiera de los siguientes momentos:
+
+a) En el acto en el que el fideicomisario designado ceda sus derechos o de instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero, en estos casos se considerara que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones.
+
+b) En el acto en el que el fideicomitente ceda sus derechos si entre estos se incluye el de que los bienes se transmitan a su favor.
+
+Cuando se emitan certificados de participación por los bienes afectos al fideicomiso y se coloquen entre el gran público inversionista, no se consideraran enajenados dichos bienes al enajenarse esos certificados, salvo que estos les den a sus tenedores derechos de aprovechamiento directo de esos bienes, o se trate de acciones. la (sic) enajenación de los certificados de participación se considerara como una enajenación de títulos de crédito que no representan la propiedad de bienes y tendrán las consecuencias fiscales que establecen las leyes fiscales para la enajenación de tales títulos.
+
+VII. La transmisión de dominio de un bien tangible o del derecho para adquirirlo que se efectué a través de enajenación de títulos de crédito, o de la cesión de derechos que los representen.
+
+Lo dispuesto en esta fracción no es aplicable a las acciones o partes sociales.
+
+VIII. La transmisión de derechos de crédito relacionados a proveeduría de bienes, de servicios o de ambos a través de un contrato de factoraje financiero en el momento de la celebración de dicho contrato, excepto cuando se transmitan a través de factoraje con mandato de cobranza o con cobranza delegada así como en el caso de transmisión de derechos de crédito a cargo de personas físicas, en los que se considerara que existe enajenación hasta el momento en que se cobre los créditos correspondientes.
+
+Se considera que la enajenación se efectúa en el Estado, entre otros casos, si el bien se encuentra en dicho Estado al efectuarse el envío al adquirente y cuando no habiendo envió, en el Estado se realiza la entrega material del bien por el enajenante.
+
+Cuando de conformidad con este articulo se entienda que hay enajenación, el adquirente se considerara propietario de los bienes para efectos fiscales.
+
 ###### ARTICULO 10.
 
 El Estado tendrá derecho a percibir las participaciones que se le otorguen en impuestos o en otros ingresos federales, en los términos que señalan las leyes federales, estatales y los acuerdos o convenios de coordinación hacendaria que los regulen.
@@ -185,9 +227,13 @@ Sólo podrá afectarse un ingreso estatal a un fin especial, que a su vez consti
 
 Las leyes y demás disposiciones de carácter general que se refieran a la Hacienda Pública del Estado y que no prevengan expresamente otra cosa, obligan y surten efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; o el de la fecha que señalen las mismas leyes, reglamentos y demás disposiciones legales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 14.
 
-En los plazos fijados en días no se contarán los sábados, los domingos, ni el 1o. de enero; el 5 de febrero; el 21 de marzo; 1o. y 5 de mayo; el 1o. y 16 de septiembre; el 20 de noviembre; el 1o. de diciembre de cada seis años, cuando corresponda la transmisión del Poder Ejecutivo Federal; y el 25 de diciembre.
+En los plazos fijados en días no se contarán los sábados, los domingos, ni el 1o. de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1o. de mayo; el 16 de septiembre; el tercer lunes de noviembre en conmemoración del 20 de noviembre; el primero de diciembre de cada 6 años cuando corresponda a la transmisión del Poder Ejecutivo Federal; el 25 de diciembre; y el que determinen las leyes federales y locales electorales, en el caso de elecciones ordinarias, para efecto de la jornada electoral.
 
 Tampoco se contarán en dichos plazos, los días en que tengan vacaciones generales las autoridades fiscales estatales, excepto cuando se trate de plazos para la presentación de declaraciones y pago de contribuciones, exclusivamente, en cuyos casos esos días se consideran hábiles. No son vacaciones generales las que se otorguen en forma escalonada.
 
@@ -253,7 +299,11 @@ b).- Bienes inmuebles por el 75% del valor de avalúo catastral;
 
 En la hipoteca, el otorgamiento de la garantía se hará en escritura pública que deberá inscribirse en el Registro Público de la Propiedad, del Comercio y Crédito Agrícola del Estado y contener los datos relacionados con el crédito fiscal.
 
-III.- Póliza de fianza ante institución autorizada por la Dirección General de Fianzas y Valores de la Secretaría de Hacienda y Crédito Público, misma que no gozará de los beneficios de orden y excusión; ésta deberá quedar invariablemente en poder y guarda de la autoridad fiscal, para los efectos legales a que haya lugar;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+III.- Póliza de fianza ante institución autorizada por la Secretaría de Hacienda y Crédito Público, misma que no gozará de los beneficios de orden y excusión; ésta deberá quedar invariablemente en poder y guarda de la autoridad fiscal, para los efectos legales a que haya lugar;
 
 IV.- Embargo en la vía administrativa;
 
@@ -299,19 +349,37 @@ La autoridad fiscal para aceptar la garantía, deberá verificar que se cumplan 
 
 La Secretaría de Finanzas y Administración vigilará y aceptará las garantías en su caso, previa calificación correspondiente, cuidando periódicamente su eficacia y en caso contrario, tomará las medidas necesarias para asegurar el interés del fisco.
 
-V.- La cancelación de la garantía procederá en los siguientes casos:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-a).- Por el pago del crédito fiscal;
+V.- (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2008)
 
-b).- Cuando en definitiva quede sin efecto la resolución que dio origen al otorgamiento de la garantía; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-c).- En cualquier otro caso que deba cancelarse de conformidad con las disposiciones de este Código.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-El contribuyente o un tercero que tenga un interés jurídico deberá presentar solicitud de cancelación de garantía ante la autoridad recaudadora que la haya exigido o recibido, acompañando los documentos necesarios para tal efecto.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO TERCER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 21 BIS. - La cancelación de la garantía procederá en los siguientes casos:
+
+a) Por el pago del crédito fiscal;
+
+b) Cuando en definitiva quede sin efecto la resolución que dio origen al otorgamiento de la garantía; y
+
+c) En cualquier otro caso que deba cancelarse de conformidad con las disposiciones de este Código.
+
+El contribuyente o un tercero que tenga un interés jurídico deberán presentar solicitud de cancelación de garantía ante la autoridad recaudadora que la haya exigido o recibido, acompañando los documentos necesarios para tal efecto.
 
 La cancelación de las garantías en las que con motivo de su otorgamiento se hubiera efectuado la inscripción en el Registro Público de la Propiedad, del Comercio y del Crédito Agrícola del Estado, se hará mediante oficio que emita la autoridad fiscal.
-
-No se considerará como garantía el embargo realizado en el procedimiento de ejecución fiscal.
 
 ###### ARTICULO 22.
 
@@ -339,7 +407,11 @@ III.- Si ante ambos acreedores se han constituido garantías reales, la preferen
 
 Para determinar la preferencia de los créditos fiscales se estará a lo siguiente:
 
-I.- Los créditos del Gobierno del Estado provenientes de impuestos, derechos, productos o aprovechamientos, son preferentes a cualesquiera otros, con excepción de los créditos con garantía hipotecaria o prendaría, de alimentación, de salarios o sueldos devengados durante el último año, o de indemnizaciones a los obreros, de conformidad con lo que dispone la Ley Federal del Trabajo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+I.- Los créditos del Gobierno del Estado provenientes de impuestos, derechos, productos o aprovechamientos, son preferentes a cualesquiera otros, con excepción de los créditos con garantía hipotecaria o prendaría, de alimentación, de salarios o sueldos devengados durante el último año, o de indemnizaciones laborales, de conformidad con lo que dispone la Ley Federal del Trabajo;
 
 II.- Para que sea aplicable la excepción señalada en la fracción anterior, será requisito indispensable que antes que se notifique al deudor el crédito fiscal, se haya presentado la demanda ante la autoridad competente, y ésta hubiere dictado el auto que lo admite y los créditos hipotecarios con garantía prendaría se encuentren debidamente inscritos en el Registro Público de la Propiedad que corresponda; y
 
@@ -357,9 +429,13 @@ Para lograr un mejor y más exacto cumplimiento de las disposiciones de carácte
 
 ### CAPITULO I. DE LOS SUJETOS Y DEL DOMICILIO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 27.
 
-Sujeto pasivo de un crédito fiscal es la persona física o moral que de acuerdo con las leyes está obligada al pago de una contribución determinada por el Fisco estatal.
+Sujeto pasivo de un crédito fiscal es la persona física o moral que de acuerdo con las leyes está obligada al pago de una prestación a favor del fisco estatal.
 
 También es sujeto pasivo cualquier agrupación que constituya una unidad económica diversa de la de sus miembros. Para la aplicación de las leyes fiscales, se asimilan estas agrupaciones a las personas morales.
 
@@ -433,6 +509,12 @@ En el pago de derechos, el Estado, cuando su actividad corresponda a sus funcion
 
 II.- Las instituciones de asistencia sin fines de lucro, de conformidad a las limitaciones que señala la Ley de Instituciones Privadas;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Las exenciones previstas en las fracciones I y II serán aplicables salvó lo que disponga las leyes que establecen los impuestos y derechos respectivos.
+
 La exención de pago de impuestos y derechos que se otorgan a las personas morales indicadas en las fracciones I y II de este artículo, no las libera del cumplimiento de otras obligaciones fiscales de carácter formal;
 
 III.- Las exenciones se solicitarán por escrito, por lo menos con diez días de anticipación a la presentación del evento, al Secretario de Finanzas y Administración, debiéndose ofrecer y acompañar las pruebas en que se funden, con base a las que se resolverán las que procedan.
@@ -457,11 +539,25 @@ b).- Si existen varios establecimientos, en donde se encuentre la administració
 
 c).- A falta de los anteriores, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal;
 
-d).- Tratándose de personas físicas o morales residentes fuera del Estado, que realicen actividades en el mismo a través de representantes, se considerará como su domicilio el del representante, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+d).- (DEROGADO, P.O. 18 DE NOVIEMBRE DE 2008)
 
-e).- Si no se pudiera determinar el domicilio conforme a las fracciones e incisos anteriores, lo determinará la Secretaría de Finanzas y Administración, mediante reglas de carácter general.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+e).- (DEROGADO, P.O. 18 DE NOVIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Cuando se realicen actividades en el mismo domicilio a través de sus representantes, se considerará como domicilio fiscal el de dicho representante, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Si no se pudiera determinar el domicilio conforme a las fracciones e incisos anteriores, lo determinará la Secretaría de Finanzas y Administración mediante reglas de carácter general.
 
 ### CAPITULO II. DEL NACIMIENTO Y DETERMINACION DE LOS CREDITOS FISCALES
 
@@ -481,11 +577,13 @@ Se entiende como transferencia electrónica de fondos el pago de las contribucio
 
 Así mismo las contribuciones y sus accesorios fiscales se podrán pagar mediante giro telegráfico o postal, en los casos previstos en el artículo 52 de éste Código.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 34.
 
-El crédito fiscal es la contribución fiscal determinada en cantidad líquida o en especie que incluye los accesorios legales, que deberán pagarse en los términos que determinen las disposiciones fiscales.
+El crédito fiscal es la cantidad líquida, determinada, a la que tiene derecho a percibir el Estado que provengan de contribuciones, de aprovechamientos o de sus accesorios, así como las que se deriven de responsabilidades de sus servidores o de particulares que el Estado tenga derecho de exigir, y todos aquellos a los que las leyes les den ese carácter.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -647,7 +745,15 @@ I.- Cuando el pago de lo indebido, total o parcialmente se hubiere efectuado en 
 
 II.- Tratándose de créditos fiscales cuyo importe hubiere sido efectivamente retenido a los sujetos pasivos; el derecho a la devolución sólo corresponderá a éstos;
 
-III.- No procederá la devolución de cantidades pagadas indebidamente cuando el crédito fiscal haya sido recaudado por terceros o repercutido o trasladado por el contribuyente que hizo el entero correspondiente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+III.- (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+No procederá la devolución de cantidades pagadas indebidamente cuando el crédito fiscal haya sido recaudado por terceros o repercutido o trasladado por el contribuyente que hizo el entero correspondiente.
 
 Sin embargo, si la repercusión se realizó en forma expresa, mediante la indicación en el documento respectivo del monto de crédito fiscal cargado, el tercero que hubiere sufrido la repercusión, tendrá derecho a la devolución.
 
@@ -661,11 +767,19 @@ II.- Que no haya créditos fiscales exigibles, en cuyo caso cualquier excedente 
 
 III.- Que la acción para reclamar la devolución no se haya extinguido;
 
-IV.- Que se dicte acuerdo escrito de la Secretaría de Finanzas y Administración o exista sentencia ejecutoriada de la autoridad correspondiente.
+IV.- Que se dicte acuerdo escrito de la Secretaría de Finanzas y Administración o exista sentencia ejecutoriada de la autoridad correspondiente;
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Las autoridades fiscales podrán ejercer facultades de comprobación para verificar la procedencia de las solicitudes de devolución que presentes (sic) los contribuyentes, las cuales no deberán rebasar el término de noventa días; si de los resultados de la revisión se concluye que es factible la devolución esta deberá hacérsele al contribuyente en un plazo que no excederá de 20 días a aquel en que se notifique la autorización.
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+V.- Que acompañe a la solicitud de devolución o a la promoción judicial en la que solicite el reembolso de la cantidad erogada, el recibo original con el cual acredite el pago de la cantidad de la cual solicita reintegro.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Las autoridades fiscales podrán ejercer facultades de comprobación para verificar la procedencia de las solicitudes de devolución que presenten los contribuyentes, las cuales no deberán rebasar el término de noventa días; si de los resultados de la revisión se concluye que es factible la devolución esta deberá hacérsele al contribuyente en un plazo que no excederá de 20 días a aquel en que se notifique la autorización.
 
 Contra la negativa de autoridad competente, para la devolución a que este artículo se refiere, el contribuyente podrá optar por interponer el recurso de revocación que establece este Código o interponer juicio de nulidad, ante el Tribunal de lo Contencioso Administrativo del Estado.
 
@@ -887,9 +1001,13 @@ III.- Promoverán el espíritu de servicio y la superación técnica y profesion
 
 IV.- La oficina recaudadora expedirá a las personas físicas o morales que paguen contribuciones estatales, el recibo oficial o la forma prellenada en los que conste la impresión original de la máquina electrónica y cuando se carece de ella, deberá constar el sello de la oficina recaudadora y el nombre y firma del cajero o servidor público autorizado. Tratándose de los pagos efectuados en las oficinas de las instituciones de crédito autorizadas, el comprobante para el contribuyente deberá contener la impresión del equipo electrónico, el sello y la firma del cajero.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 79.
 
-Cuando las leyes fiscales estatales establezcan obligaciones de llevar contabilidad y expedir comprobantes por las actividades que se realicen, dichas obligaciones deberán cumplirse de conformidad a lo establecido por el Código Fiscal de la Federación y su Reglamento.
+Cuando las leyes fiscales estatales establezcan obligaciones de llevar contabilidad y de expedir comprobantes por las actividades que se realicen, dichas obligaciones deberán cumplirse de conformidad a lo establecido en este Código y en su defecto por el Código Fiscal de la Federación y su Reglamento.
 
 ###### ARTICULO 80.
 
@@ -1085,17 +1203,37 @@ c).- Los gravámenes de cuya verificación se trata y en su caso, los ejercicios
 
 II.- Si al presentarse los visitadores al lugar donde deba practicarse la diligencia no estuviere el visitado o su representante, dejarán citatorio con la persona que se encuentre en dicho lugar para que el mencionado visitado o su representante los esperen en hora determinada del día hábil siguiente para recibir la orden de visita; si no lo hicieren, la visita se iniciará con quien se encuentre en el lugar visitado, debiendo los visitadores identificarse plenamente con la persona con quien se entienda la diligencia, asentando tal situación en el acta que al efecto se levante;
 
-III.- El visitado será requerido para que proponga dos testigos y en su ausencia o negativa de aquél serán designados por el personal que practique la visita.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-Los testigos señalados por el contribuyente podrán ser sustituidos en los casos en que se ausenten del lugar donde se esté practicando la diligencia o manifiesten su voluntad de dejar de ser testigos;
+III.- De toda visita en el domicilio fiscal se levantara acta en la que se hará constar en forma circunstanciada los hechos u omisiones que se hubieren conocido por los visitadores. los (sic) hechos u omisiones consignados por los visitadores en las actas, hacen prueba de la existencia de tales hechos o de las omisiones encontradas, para efectos de cualquiera de las contribuciones a cargo del visitado en el periodo revisado.
 
-IV.- Los libros, los registros y documentos serán examinados en el domicilio, establecimiento o dependencia del visitado. Para tal efecto el visitado deberá mantenerlos a disposición de los visitadores desde el momento de la iniciación de la visita hasta su terminación. La Secretaría de Finanzas y Administración tomará las medidas necesarias para el cumplimiento de este precepto;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+IV.- Si la visita se realiza simultáneamente en dos o más lugares, en cada uno de ellos se deberán levantar actas parciales, mismas que se agregaran al acta final que de la visita se haga, la cual puede ser levantada en cualquiera de dichos lugares. en (sic) los casos a que se refiere esta fracción, se requerirá la presencia de dos testigos en cada establecimiento visitado en donde se levante acta parcial, cumpliendo al respecto con lo previsto en la fracción II, de este numeral.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+V.- El visitado será requerido para que proponga dos testigos y en su ausencia o negativa de aquél serán designados por el personal que practique la visita;
+
+Los testigos señalados por el contribuyente, podrán ser sustituidos en los casos en que se ausenten del lugar donde se esté practicando la diligencia o manifiesten su voluntad de dejar de ser testigos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+VI.- Los libros, los registros y documentos serán examinados en el domicilio, establecimiento o dependencia del visitado. Para tal efecto el visitado deberá mantenerlos a disposición de los visitadores desde el momento de la iniciación de la visita hasta su terminación.
+
+La Secretaría de Finanzas y Administración tomará las medidas necesarias para el cumplimiento de este precepto;
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-V.- Cuando los visitadores detecten alguna de las siguientes irregularidades, podrán obtener copias de los libros, registros y documentos del visitado:
+VII.- Cuando los visitadores detecten alguna de las siguientes irregularidades, podrán obtener copias de los libros, registros y documentos del visitado:
 
 a).- Cuando únicamente existan libros, registros o sistemas de contabilidad que no estén autorizados;
 
@@ -1111,27 +1249,61 @@ e).- Cuando los documentos no estén registrados en los libros, registros o sist
 
 En caso de que los visitadores obtengan copias certificadas de la contabilidad por encontrarse el visitado en cualquier de los supuestos previstos en esta fracción, deberán levantar acta parcial debidamente circunstanciada con los hechos u omisiones que se hubieren conocido por los visitadores. En ningún caso las autoridades fiscales podrán recoger la contabilidad del visitado;
 
-VI.- Cuando en el desarrollo de una visita domiciliaria, las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los consignarán en forma circunstanciada en actas parciales, también se consignarán los hechos u omisiones que se conozcan de terceros en la última acta parcial que al efecto se levante, haciendo mención expresa de tal circunstancia entre ésta y el acta final, debiendo transcurrir cuando menos quince días por cada período de doce meses o fracción de éste sin que en su conjunto excedan, por todos los ejercicios revisados de un máximo de cuarenta y cinco días, durante los cuales el contribuyente podrá presentar los documentados, (sic) libros o registros que desvirtúen los hechos u omisiones;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+VIII.- Cuando en el desarrollo de una visita domiciliaria, las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones consignarán los hechos u omisiones que se conozcan de terceros en la última acta parcial que al efecto se levante, haciendo mención expresa de tal circunstancia entre ésta y el acta final, debiendo transcurrir cuando menos quince días por cada período de doce meses o fracción de éste sin que en su conjunto excedan, por todos los ejercicios revisados de un máximo de cuarenta y cinco días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones.
 
 Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia, o no señale el lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad o no prueba que estos se encuentran en poder de una autoridad.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-VII.- La Secretaría de Finanzas y Administración deberá concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes o la revisión de la contabilidad de los mismos, que se efectúen en las propias oficinas de las autoridades, dentro de un plazo máximo de doce meses, contados a partir de la fecha en que se le notifique a los contribuyentes el inicio de las facultades de comprobación.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+IX.- La Secretaría de Finanzas y Administración deberá concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes o la revisión de la contabilidad de los mismos, que se efectúen en las propias oficinas de las autoridades, dentro de un plazo máximo de doce meses, contados a partir de la fecha en que se le notifique a los contribuyentes el inicio de las facultades de comprobación.
 
 Cuando las autoridades no levanten el acta final de visita o no notifiquen el oficio de observaciones de la revisión dentro de los plazos mencionados, ésta se entenderá concluida en esa fecha, quedando sin efectos la orden y las actuaciones que de ella se derivaron durante la visita o revisión;
 
-VIII.- Los visitadores harán constar en acta los hechos, condiciones y circunstancias observadas. Las opiniones de los visitadores sobre el cumplimiento o incumplimiento de las disposiciones fiscales o sobre la situación financiera del visitado no producirán efecto de resolución fiscal;
+X.- Los visitadores harán constar en acta los hechos, condiciones y circunstancias observadas. Las opiniones de los visitadores sobre el cumplimiento o incumplimiento de las disposiciones fiscales o sobre la situación financiera del visitado no producirán efecto de resolución fiscal;
 
-Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona se requerirá nueva orden, inclusive cuando las facultades de comprobación sean para el mismo ejercicio y por las mismas contribuciones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IX.- El visitado o la persona con la que se entienda la diligencia los testigos y los visitadores firmarán el acta. Si el visitado o los testigos se niegan a firmar, así lo harán constar los visitadores sin que esta circunstancia afecte el valor probatorio del documento. Un ejemplar del acta se entregará en todo caso al visitado o a la persona con la que se entienda la diligencia; y
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-X.- Con las mismas formalidades inducidas en la fracción anterior se levantarán actas previas o complementarias para hacer constar hechos concretos en el curso de una visita o después de su conclusión.
+Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona se requerirá nueva orden, inclusive cuando las facultades de comprobación sean para el mismo ejercicio y por las mismas contribuciones siempre y cuando se trate de hechos diferentes. Se entenderá que se trata de hechos diferentes conforme a lo previsto por el Código Fiscal de la Federación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+XI.- El visitado o la persona con la que se entienda la diligencia los testigos y los visitadores firmarán el acta. Si el visitado o los testigos se niegan a firmar, así lo harán constar los visitadores sin que esta circunstancia afecte el valor probatorio del con (sic) la que se entienda la diligencia; y
+
+XII.- Con las mismas formalidades inducidas en la fracción anterior se levantarán actas previas o complementarias para hacer constar hechos concretos en el curso de una visita o después de su conclusión.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 88 BIS. Para los efectos de lo dispuesto por el artículo 37 de la Ley de Hacienda del Estado de Guerrero numero 428, las visitas domiciliarias se realizaran conforme a las siguientes reglas:
+
+I.- La visita domiciliaria se llevará a cabo en el lugar donde se realice la obra de construcción en proceso o concluida.
+
+II.- Cuando se ignore el nombre de la persona a la que va dirigida la orden de visita domiciliaria, se señalaran los datos suficientes que permitan su identificación, en todo caso el lugar de ubicación de la obra en cuestión.
+
+III.- Al presentarse los visitadores al lugar en donde deba practicarse la diligencia, entregaran la orden de visita al visitado, a su representante legal, al encargado o a quien se encuentre al frente del lugar visitado, indistintamente, y con dicha persona se entenderá la visita de inspección, sin necesidad de dejar citatorio.
+
+IV.- Los visitadores se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si estos no son designados o los designados no aceptan servir como tales los visitadores los designaran, haciendo constar tal situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la inspección.
+
+V.- La persona con quien se entienda la diligencia deberá poner a disposición de los visitadores la documentación que se mencione en la orden de visita de manera inmediata; en el caso de que exista causa justificada que impida que el visitado entregue la documentación requerida a juicio de los visitadores se le podrá conceder un término de seis días para que la entregue en el lugar que se señale en el acta de visita.
+
+VI.- En toda visita domiciliaria se levantara acta en la que se harán constar en forma circunstanciada los hechos u omisiones conocidas por los visitadores en los términos de este código, o en su caso, las irregularidades detectadas durante la misma.
+
+VII.- Si al cierre del acta de visita domiciliaria el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar el acta, o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, dicha circunstancia se asentara en la propia acta, sin que esto afecte la validez y el valor probatorio de la misma; dándose por concluida la visita domiciliaria.
+
+VIII.- Si con motivo de la visita domiciliaria a que se refiere este artículo, las autoridades conocieron incumplimientos a las disposiciones fiscales, se procederá a la formulación y notificación de la resolución correspondiente, dentro del término de 40 días hábiles. Fenecido este plazo y las autoridades no notifiquen la resolución al visitado, se entenderá concluida la revisión en esa fecha, quedando sin efectos la orden de visita.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTICULO 88 BIS], P.O. 28 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 88 BIS I.- Quedan incluidos en la contabilidad los registros y cuentas especiales a que se obliguen las disposiciones fiscales, los que lleven los contribuyentes aún cuando no sean obligatorios y los libros y registros sociales que obliguen otras leyes.
+
+En los casos en que las demás disposiciones de este Código hagan referencia a la contabilidad se entenderá que la misma se integra por los sistemas y registros contables, por los papeles de trabajo, registros, cuentas especiales, libros y registros sociales señalados en el párrafo precedente por los equipos y sistemas electrónicos de registro fiscal y sus registros por las máquinas registradoras de comprobación fiscal y sus registros, cuando se este obligado a llevar dichas maquinas así como la documentación comprobatorios (sic) de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales.
 
 ###### ARTICULO 88 Bis.
 
@@ -1195,6 +1367,12 @@ II.- Fallecimiento del contribuyente, hasta en tanto se designe al representante
 
 III.- Cuando el contribuyente desocupe su domicilio fiscal para efectos Estatales sin haber presentado el aviso de cambio correspondiente o cuando no se le localice en el que haya señalado, hasta que se le localice.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+IV.- Cuando el contribuyente no atienda el requerimiento de datos, informes o documentos solicitados por las autoridades fiscales para verificar el cumplimiento de sus obligaciones fiscales, durante el periodo que transcurra entre el día del vencimiento del plazo otorgado en el requerimiento y hasta el día en que conteste o atienda el requerimiento, sin que la suspensión pueda exceder de seis meses. En el caso de dos o mas solicitudes de información, se sumaran los distintos periodos de suspensión y en ningún caso el periodo de suspensión podrá exceder de un año.
+
 Si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad del contribuyente en las oficinas de las propias autoridades, o de las prorrogas que procedan, los contribuyentes interponen algún medio de defensa o la autoridad inicia el juicio de lescividad contra los actos o actividades que deriven del ejercicio de sus facultades de comprobación, dichos plazos se suspenderán desde la fecha en que se interpongan los citados medios de defensa hasta que se dicte resolución definitiva de los mismos.
 
 ###### ARTICULO 91.
@@ -1207,7 +1385,11 @@ ARTICULO 91 BIS.- Las personas físicas con actividades empresariales y las pers
 
 I.- Las que en el ejercicio anterior hayan obtenido ingresos acumulables superiores a $25´000,000.00 para efecto del impuesto sobre la renta.
 
-II.- O que por lo menos cien de sus trabajadores les hayan prestado servicio en cada uno de los meses del ejercicio inmediato anterior.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+II.- O que por lo menos cien de sus trabajadores en promedio mensual les hayan prestado servicio en el ejercicio inmediato anterior.
 
 Las personas físicas y las personas morales que no se encuentren en alguno de los supuestos señalados en las fracciones de este artículo, tendrán la opción de hacer dictaminar el cumplimiento de sus obligaciones fiscales.
 
@@ -2087,7 +2269,9 @@ Las notificaciones se harán en el último domicilio que la persona a quien se d
 
 La diligencia de notificación se entenderá con la persona que deba ser notificada o su representante legal, a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio para que se le espere a una hora fija del día siguiente, si el domicilio se encuentra cerrado, el citatorio se dejará con el vecino más inmediato o con un agente de la policía.
 
-Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla, se realizará por instructivo que se fijará en la puerta del domicilio, asentando razón de tal circunstancia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 En el momento de la notificación se entregará al notificado o, a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación, asentándose razón por el notificador.
 
@@ -2095,9 +2279,25 @@ Las notificaciones practicadas en los términos de los párrafos anteriores se t
 
 b).- Por edicto que se publique una sola vez en el Periódico Oficial del Estado y durante tres días consecutivos en uno de los periódicos de mayor circulación, cuando el causante a notificar haya desaparecido, se ignore su domicilio en la entidad, se encuentre en el extranjero sin haber dejado representante legal, o hubiere fallecido y no se conozca al albacea de la sucesión.
 
-c).- Por estrados, cuando la persona a quien deba notificarse desaparezca después de haberse iniciado tanto el procedimiento administrativo de ejecución, como después de haberse iniciado las facultades de comprobación, se opongan a la diligencia de notificación o no haya notificado su cambio de domicilio, después de que la autoridad le haya notificado la orden de visita o un crédito fiscal y antes que este se haya garantizado, pagado o quedado sin efecto y en los demás casos que señalen las leyes fiscales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+c).- Por estrados, cuando la persona a quien deba notificarse desaparezca después de haberse iniciado tanto el procedimiento administrativo de ejecución, como después de haberse iniciado las facultades de comprobación, se opongan a la diligencia de notificación o no haya notificado su cambio de domicilio, después de que la autoridad le haya notificado la orden de visita o un crédito fiscal y antes que este se haya garantizado, pagado o quedado sin efecto y en los demás casos que señalen las leyes fiscales. Esta notificación se hará fijando durante 5 días el documento que se pretenda notificar en un sitio abierto al público de la oficina de la autoridad que efectúe la notificación, la autoridad dejará constancia de ello en el expediente respectivo.
 
 d).- En los demás casos por medio de oficios o telegramas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+e).- Por instructivo cuando la persona a quien haya de notificarse no atendiere el citatorio, y la persona que se encuentre en el domicilio en que se realice la diligencia se niegue a recibirla, la notificación se realizará fijando el documento en la puerta del domicilio, asentando las circunstancias que dieron origen a la notificación por instructivo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 136 BIS.- Las notificaciones también podrán hacerse en las oficinas de las autoridades fiscales, si las personas a quienes se tiene que notificar se presentaren en las mismas. Gozarán de plena validez y legalidad, la notificación realizada con quien deba entenderse, aún cuando no se efectúe en el domicilio respectivo o en las oficinas de las autoridades fiscales, siempre y cuando se apegue a lo dispuesto por el artículo 15 del presente ordenamiento.
 
 ###### ARTICULO 137.
 
@@ -2141,7 +2341,11 @@ IV.- Las que se hagan por edicto desde el día siguiente hábil al de la última
 
 V.- Desde la fecha en que el interesado o su representante manifiesten que conocen la resolución o acuerdo respectivo si lo hacen con anterioridad a la fecha en que la notificación deba surtir efectos, de acuerdo con las fracciones anteriores;
 
-VI.- Las que se hagan por estrados, se harán fijando durante cinco días el documento que se pretenda notificar en un sitio abierto al público de la oficina de la autoridad que efectúe la notificación, la autoridad dejará constancia de ello en el expediente respectivo; en estos casos, se tendrá como fecha de notificación, la del sexto día siguiente a aquel en que se hubiera fijado el documento.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+VI.- Las que se hagan por estrados, se tendrá como fecha de notificación, la del sexto día siguiente a aquel en que se hubiera fijado el documento.
 
 ###### ARTICULO 139.
 
@@ -2181,9 +2385,13 @@ No satisfecho o garantizado un crédito a favor del erario del Estado dentro del
 
 En ningún caso se aplicará el procedimiento administrativo de ejecución, para cobrar créditos derivados por concepto de productos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 144.
 
-Los vencimientos que ocurran durante el procedimiento administrativo de ejecución, incluso recargos, gastos de ejecución, y cualesquiera otros, se harán efectivos junto con el crédito inicial sin necesidad de nueva notificación ni otras formalidades especiales.
+Los vencimientos que ocurran durante el procedimiento administrativo de ejecución, incluso recargos, gastos de ejecución, y cualesquiera otros, se harán efectivos junto con el crédito inicial.
 
 ###### ARTICULO 145.
 
@@ -2251,9 +2459,13 @@ III.- En los demás casos que prevengan las leyes. En los casos de las fraccione
 
 Son aplicables al embargo precautorio a que este artículo se refiere y al previsto por el artículo 38 Fracción II, las disposiciones establecidas para el embargo y para la intervención en el procedimiento administrativo de ejecución que conforme a su naturaleza le sean aplicables.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 151.
 
-Las autoridades fiscales, una vez que haya transcurrido el término de cinco días de la notificación del crédito fiscal sin que se haya realizado el pago procederán a requerir al deudor, y en caso de no efectuar el pago en el acto procederán como sigue:
+Las autoridades fiscales, una vez que haya transcurrido el término de quince días de la notificación del crédito fiscal sin que se haya realizado el pago procederán a requerir al deudor, y en caso de no efectuar el pago en el acto procederán como sigue:
 
 I.- A embargar bienes suficientes para en su caso rematarlos, enajenarlos fuera de subasta o adjudicarlos a favor del fisco;
 
@@ -2803,6 +3015,20 @@ IV.- Dejar sin efecto el acto impugnado;
 
 V.- Modificar el acto impugnado o dictar uno nuevo que lo sustituya cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 205 BIS.- Es procedente el Sobreseimiento del Recursos (sic) de Revocación en los siguientes casos:
+
+I. Cuando el promoverte (sic) se desista expresamente de su Recurso.
+
+II. Cuando durante el procedimiento en que se substancie el recurso administrativo, sobrevenga alguna de las causales de improcedencia a que se refiere el artículo 207 de este ordenamiento.
+
+III. Cuando de las constancias que obran en el expediente administrativo correspondiente, se demuestre que no existe el acto o resolución impugnada.
+
+IV. Cuando hayan cesado los efectos de acto o resolución recurrida.
+
 ###### ARTICULO 206.
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 2005)
@@ -2992,3 +3218,11 @@ Para efectos de dar cumplimiento al Dictamen Fiscal Estatal 2007, que se estable
 ###### ARTÍCULO TERCERO.
 
 Publíquese el presente Decreto en el periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE NOVIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor el día primero de enero del año dos mil nueve.
+
+SEGUNDO.- Para efectos de dar cumplimiento al Dictamen Fiscal Estatal 2008, se prorroga la vigencia de los avisos oficiales, y Cuadernillo del Dictamen para el cumplimiento de la presentación del Dictamen Fiscal Estatal, publicadas en el Periódico Oficial del Estado de Guerrero No. 77 de fecha 26 de septiembre de 2006.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
