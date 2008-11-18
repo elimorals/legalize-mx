@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-aguas-para-el-estado-libre-y-soberano-de-guerrero-27269"
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-03"
-last_updated: "2003-01-03"
+last_updated: "2008-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE AGUAS PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 574
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 3 de enero de 2003.
 
@@ -1479,7 +1479,51 @@ Los cargos en el Consejo de Administración serán de carácter honorífico.
 
 Por cada representante propietario se nombrará al respectivo suplente.
 
-Se podrá invitar a las sesiones del Consejo de Administración, con voz pero sin voto a representantes de las dependencias federales, estatales o municipales; así como a un representante de los usuarios domésticos, comerciales, industriales y de servicios, cuando se trate algún asunto que por su competencia deban de conocer.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Se podrá invitar a las Sesiones del Consejo de Administración, con voz pero sin voto a representantes de las dependencias federales, estatales o municipales; así como representantes de los usuarios domésticos, comerciales, industriales y de servicios; así también a los trabajadores del organismo operador, cuando se trate algún asunto que por su competencia o interés deban de conocer.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+El Consejero representante del Consejo Consultivo del Organismo Operador, durará en el encargo 4 años con posibilidades de ser reelecto una única vez, por otro periodo igual por acuerdo del Consejo de Administración.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 47 BIS.- El Consejo de Administración, de los Organismos Operadores municipales en los que la población del Municipio sea mayor a 100,000 habitantes, se integrará conforme a los términos y procedimientos que establezca esta Ley, su reglamento y el reglamento interno de los Organismos Operadores.
+
+En su conformación el Consejo de Administración deberá incluir con voz y voto a representantes del Ayuntamiento, de Gobierno del Estado, y mediante convocatoria, a los usuarios de los servicios y de la sociedad civil organizada, bajo los siguientes términos:
+
+I.- El Presidente Municipal o quien éste designe, que lo presidirá;
+
+II.- El Regidor de Servicios Públicos o su equivalente;
+
+III.- El Regidor de Salud o su equivalente;
+
+IV.- El Regidor de Ecología o su equivalente;
+
+V.- Un Representante de la Comisión de Agua Potable, Alcantarillado y Saneamiento del Estado de Guerrero;
+
+VI.- Un Representante de las Agrupaciones, Cámaras o Asociaciones de la Sociedad Civil Organizada representativas de la actividad económica preponderante en el Municipio, o instancias equivalentes;
+
+VII.- Un Representante de los Colegios de Profesionistas de la Sociedad civil Organizada en el Municipio, o instancias equivalentes;
+
+VIII.- Un Representante de las Agrupaciones, Cámaras o Asociaciones de la Sociedad Civil Organizada, relacionadas con el desarrollo urbano, la vivienda, la construcción y el desarrollo inmobiliario en el Municipio, o instancias equivalentes;
+
+IX.- El Presidente del Consejo Consultivo del Organismo Operador.
+
+X.- El Representante en el Estado de la Comisión Nacional del Agua, con voz pero sin voto; y
+
+XI.- El Director del Organismo Operador, que fungirá como Secretario Técnico del Consejo con voz pero sin voto.
+
+Ningún consejero salvo los que integran el cabildo municipal, el representante del Gobierno del Estado, el Director General del Organismo Operador, y el representante de la Comisión Nacional del Agua en el Estado, podrán ser servidores públicos o miembros activos de algún partido ó agrupación de tipo político.
+
+Los consejeros representantes de la Sociedad Civil Organizada y del Consejo Consultivo del Organismo Operador durarán en el encargo 4 años, pudiendo ser reelectos dos de ellos, por el voto de las dos terceras partes de los consejeros presentes en sesión de consejo, por un único período igual.
+
+Los cargos en el Consejo de Administración serán de carácter honorífico.
+
+En caso de incumplimiento de responsabilidades, renuncia o faltas reiteradas a las sesiones de Consejo de Administración por parte de algún consejero de la Sociedad Civil Organizada o del Consejo Consultivo del Organismo; éste podrá ser sustituido por acuerdo del Propio Consejo de Administración, debiendo solicitar una nueva propuesta a las instancias que presentaron la propuesta original.
+
+Se podrá invitar a las sesiones del Consejo de Administración, con voz pero sin voto a representantes de las dependencias federales, estatales o municipales; así como a representantes de los usuarios domésticos, comerciales, industriales y de servicios; así también a los trabajadores del Organismo Operador, cuando se trate algún asunto que por su competencia o interés deban conocer.
 
 ###### ARTICULO 48.
 
@@ -1507,15 +1551,23 @@ III.- Determinar las normas y criterios aplicables, conforme a los cuales deber�
 
 IV.- Aprobar el Programa de Agua Potable, Alcantarillado y Saneamiento Municipal, que le presente el Director y supervisar que se actualice periódicamente;
 
-V.- Aprobar las cuotas y tarifas de conformidad con lo establecido en esta Ley;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+V.- Aprobar por el voto de las dos terceras partes de los consejeros presentes en sesión de consejo, cuotas y tarifas de conformidad a lo establecido por esta ley;
 
 VI.- Resolver sobre los asuntos que en materia de servicios públicos, someta a su consideración el Director;
 
-VII.- Autorizar el proyecto de presupuesto anual de ingresos y egresos del Organismo Operador Municipal, conforme a la propuesta formulada por el Director;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-VIII.- Autorizar al Organismo Operador Municipal para que gestione la contratación de los créditos que sean necesarios para la prestación de los servicios públicos, realización de las obras y amortización de pasivos, conforme a la legislación aplicable;
+VII.- Autorizar por el voto de las dos terceras partes de los consejeros presentes en sesión de consejo, el proyecto de presupuesto anual pormenorizado de ingresos y egresos del Organismo Operador Municipal, conforme a la propuesta formulada por el Director. El proyecto deberá hacerse llegar a los consejeros con al menos 72 horas de anticipación a la sesión correspondiente a su análisis, discusión y aprobación;
 
-IX.- Aprobar previo análisis, los proyectos de inversión del Organismo Operador Municipal;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+VIII.- Autorizar al Organismo Operador Municipal por el voto de las dos terceras partes de los consejeros presentes en sesión de consejo, para que gestione la contratación de los créditos que sean necesarios para la prestación de los servicios públicos, realización de las obras y amortización de pasivos, conforme a la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+IX.- Aprobar previo análisis y por el voto de las dos terceras partes de los consejeros presentes en sesión de consejo, los proyectos de inversión del Organismo Operador Municipal;
 
 X.- Examinar y aprobar los estados financieros y los informes que presente el Director, previo conocimiento del informe del Auditor Interno y ordenar su publicación en el Periódico Oficial del Gobierno del Estado y en la Gaceta Municipal;
 
@@ -1523,19 +1575,39 @@ XI.- Acordar la extensión de los servicios públicos a otros Municipios, previa
 
 XII.- Opinar sobre la estructura orgánica del Organismo Operador Municipal;
 
-XIII.- Aprobar y expedir el Reglamento Interior del Organismo Operador Municipal, así como los manuales de organización, de procedimientos y de servicios al público; y
+XIII.- Aprobar y expedir el Reglamento Interior del Organismo Operador Municipal, así como los manuales de organización, de procedimientos y de servicios al público; y (sic)
 
-XIV.- Las demás aplicables del artículo 10 de la presente Ley.
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+XIV.- Autorizar por el voto de las dos terceras partes de los consejeros presentes en sesión de consejo, las ampliaciones, disminuciones y transferencias de recursos en las partidas del presupuesto anual autorizado, a propuesta formulada por el Director;
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+XV.- Autorizar por el voto de las dos terceras partes de los consejeros presentes en sesión de consejo, previa propuesta formulada por el Director, los convenios, adquisiciones, contratos, obras, o actos jurídicos análogos que el organismo Operador Municipal quiera efectuar, cuando estos superen los 10,000 salarios mínimos vigentes;
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+XVI.- Autorizar por el voto de las dos terceras partes dé los consejeros presentes en sesión de consejo, todo incremento y/o modificación de la plantilla laboral, previa propuesta formulada por el Director, a excepción de los contratos temporales del personal que se requiera, los cuales no podrán ser mayores de 3 meses y tendrán que ser informados al Consejo de Administración;
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+XVII.- Autorizar por el voto de las dos terceras partes de los consejeros presentes en sesión de consejo, los tabuladores de percepciones y toda aquella percepción adicional, ordinaria o extraordinaria de la plantilla laboral, previa propuesta formulada por el Director;
+
+XVIII.- Las demás aplicables del artículo 10 de la presente Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 51.
 
-Podrán crearse cuando las condiciones y necesidades lo requieran por cada Organismo Operador Municipal, un Consejo Consultivo Municipal que se integrará con representantes de los usuarios de los servicios públicos y de los sectores social y privado del Municipio y sesionará en la forma que se señale en el instrumento de creación del Organismo Operador.
+Deberá crearse por cada Organismo Operador Municipal, un Consejo Consultivo del Organismo Operador Municipal, que se integrará con representantes de los usuarios de los servicios públicos de Agua Potable Alcantarillado y Saneamiento del Municipio y sesionará en la forma que se señale en el instrumento de creación y la reglamentación interna del Organismo Operador.
 
 El Organismo Operador Municipal promoverá y proporcionará los elementos necesarios para que se integre el Consejo Consultivo, apoyando y atendiendo las recomendaciones que emanen de esta instancia.
 
 No podrán formar parte del Consejo Consultivo funcionarios o empleados del Organismo Operador Municipal o servidores públicos.
 
-Los integrantes del Consejo Consultivo designarán democráticamente entre ellos a un Presidente, el cual lo representará ante el Consejo de Administración del Organismo Operador Municipal con derecho a voz pero sin voto. Igualmente se designará a un Vicepresidente que suplirá al Presidente en sus ausencias.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Los integrantes del Consejo Consultivo designarán democráticamente entre ellos a un Presidente, el cual lo representará ante el Consejo de Administración del Organismo Operador Municipal con derecho a voz y voto. Igualmente se designará a un Vicepresidente que suplirá al Presidente en sus anuencias.
 
 ###### ARTICULO 52.
 
@@ -1571,9 +1643,13 @@ II.- Ser mayor de treinta años de edad;
 
 III.- Contar con un título y cédula profesional afín a la materia;
 
-IV.- Tener experiencia técnica y administrativa en materia de aguas de cuando menos tres años, anteriores a la fecha de su nombramiento; y
+IV.- Tener experiencia técnica y administrativa en materia de aguas de cuando menos tres años, anteriores a la fecha de su nombramiento; y (sic)
 
-V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión.
+V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión;
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+VI.- No haber sido anteriormente inhabilitado por instancias Federales, Estatales y/o Municipales para ocupar cargos públicos.
 
 ###### ARTICULO 55.
 
@@ -1583,7 +1659,9 @@ I.- Ejercer la representación legal del Organismo Operador Municipal, con las m
 
 Para la celebración de actos de dominio sobre inmuebles requerirá de la autorización del Cabildo Municipal;
 
-II.- Autorizar las erogaciones correspondientes del presupuesto y someter a la aprobación del Consejo de Administración las erogaciones extraordinarias;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+II.- Autorizar las erogaciones correspondientes del presupuesto, salvo los casos que requieran la autorización del Consejo de Administración y someter a la aprobación del Consejo de Administración, por el voto de las dos terceras partes de los consejeros presentes en sesión de consejo, las erogaciones extraordinarias;
 
 III.- Ordenar el pago de los derechos por el uso o aprovechamiento de aguas y bienes nacionales inherentes, de conformidad con la legislación fiscal aplicable;
 
@@ -1597,7 +1675,9 @@ VII.- Establecer relaciones de coordinación con las autoridades federales, esta
 
 VIII.- Fungir como secretario del Consejo de Administración;
 
-IX.- Nombrar y remover al personal directivo del Organismo Operador Municipal en los términos de esta Ley, debiendo obtener el visto bueno del Consejo de Administración en su siguiente sesión;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+IX.- Nombrar y remover al personal directivo del Organismo Operador Municipal en los términos de esta Ley; con autorización previa por el voto de las dos terceras partes de los consejeros presentes en sesión de consejo;
 
 X.- Presentar a la aprobación del Consejo de Administración el proyecto de Reglamento del Organismo Operador Municipal;
 
@@ -1627,7 +1707,9 @@ Los Organismos Operadores Municipales contarán con un auditor interno, mismo qu
 
 I.- Vigilar que la administración de los recursos se realice conforme a lo dispuesto en la presente Ley, los programas y presupuestos aprobados;
 
-II.- Practicar las auditorías de los estados financieros y las de carácter técnico o administrativo al término del ejercicio o antes, si así lo considera conveniente;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+II.- Practicar las auditorias de los estados financieros y las de carácter técnico o administrativo presentando informes de resultados trimestrales al Cabildo y al Consejo de Administración;
 
 III.- Rendir anualmente ante el Consejo de Administración un informe respecto de las acciones practicadas en cumplimiento de su responsabilidad;
 
@@ -1637,9 +1719,13 @@ V.- Vigilar ilimitadamente en cualquier tiempo las operaciones del Organismo Ope
 
 VI.- Vigilar el cumplimiento de las normas técnicas a las que debe sujetarse el Organismo Operador Municipal;
 
-VII.- Verificar la observancia de las disposiciones legales por parte de los servidores públicos del Organismo Operador Municipal; y
+VII.- Verificar la observancia de las disposiciones legales por parte de los servidores públicos del Organismo Operador Municipal; y (sic)
 
-VIII.- Las demás que, en materia de control gubernamental, le confiera el Consejo de Administración.
+VIII.- Las demás que, en materia de control gubernamental, le confiera el Consejo de Administración;
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+IX.- Denunciar ante las instancias competentes el incumplimiento de las disposiciones legales e irregularidades incurridas por parte de los servidores públicos del Organismo Operador Municipal.
 
 Para el debido cumplimiento de sus atribuciones, se podrá auxiliar del personal técnico y administrativo que requiera del Organismo Operador Municipal con la aprobación del Consejo de Administración;
 
@@ -1724,6 +1810,40 @@ Los cargos en el Consejo de Administración serán de carácter honorífico.
 Por cada representante propietario se nombrará al respectivo suplente.
 
 Se podrá invitar a las sesiones del Consejo de Administración, con voz pero sin voto a representantes de las dependencias federales, estatales o municipales; así como a un representante de los usuarios domésticos, comerciales, industriales y de servicios, cuando se trate algún asunto que por su competencia deban de conocer.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 67 BIS.- El Consejo de Administración del Organismo Operador Intermunicipal, en los que la población de los Municipios en su conjunto sea mayor a 100.000 habitantes, se integrará por:
+
+I.- Los Presidentes Municipales de los Ayuntamientos que hayan celebrado el convenio;
+
+II.- Los Regidores de Servicios Públicos o su equivalente de los Ayuntamientos que hayan celebrado el convenio;
+
+III.- Los Regidores de Salud o su equivalente de los Ayuntamientos que hayan celebrado el convenio;
+
+IV.- Los Regidores de Ecología o su equivalente de los Ayuntamientos que hayan celebrado el convenio;
+
+V.- Un Representante de la Comisión de Agua Potable, Alcantarillado y Saneamiento del Estado de Guerrero;
+
+VI.- Un Representante de las Agrupaciones, Cámaras o Asociaciones de la Sociedad Civil Organizada representativas de la actividad económica preponderante de los Municipios;
+
+VII.- Un Representante de los Colegios de Profesionistas de la Sociedad Civil Organizada en los Municipios;
+
+VIII.- Un Representante de las Agrupaciones, Cámaras o Asociaciones de la Sociedad Civil Organizada, relacionadas con el desarrollo urbano, la vivienda, la construcción y el desarrollo inmobiliario en los Municipios;
+
+IX.- Los Representantes de los Consejos Consultivos de cada uno de los Organismos Operadores Municipales, que convengan la integración del Organismo Operador Intermunicipal: y
+
+X.- El Director del Organismo Operador, que fungirá como Secretario Técnico con voz pero sin voto.
+
+Ningún consejero salvo los que integran los cabildos municipales, el representante del Gobierno del Estado y el Director General del Organismo Operador, podrán ser servidores públicos o miembros activos de algún partido o agrupación de tipo político.
+
+Los consejeros representantes de la Sociedad Civil Organizada y del Consejo Consultivo del Organismo Operador durarán en el encargo 4 años, pudiendo ser reelectos dos de ellos por acuerdo del Consejo de Administración, por un único período igual.
+
+Los cargos en el Consejo de Administración serán de carácter honorífico.
+
+En caso de incumplimiento de responsabilidades, renuncia o faltas reiteradas a las sesiones de consejo de administración por parte de algún consejero, este podrá ser sustituido por acuerdo del Propio Consejo de Administración, debiendo solicitar una nueva propuesta a las instancias que presentaron la propuesta original.
+
+Se podrá invitar a las sesiones del Consejo de Administración, con voz pero sin voto a representantes de las dependencias federales, estatales o municipales; así como a representantes de los usuarios domésticos, comerciales, industriales y de servicios, así también a los trabajadores del Organismo Operador, cuando se trate algún asunto que por su competencia o interés deban conocer.
 
 ###### ARTICULO 68.
 
@@ -2880,3 +3000,23 @@ El Secretario de Desarrollo Urbano y Obras Públicas.
 C. ARQ. JUAN FARRIL HERRERA.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 45 días naturales siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se instalará el Consejo de Administración de los Organismos Operadores, de acuerdo a las disposiciones establecidas en este Decreto, a los cinco días naturales de la entrada en vigor del presente.
+
+###### ARTÍCULO TERCERO.
+
+El reglamento de esta Ley, así como los reglamentos internos de los Organismos Operadores Municipales, deberán adecuarse de acuerdo a las disposiciones establecidas en este Decreto, en un periodo no mayor a 45 días naturales a partir de la publicación del presente.
+
+###### ARTÍCULO CUARTO.
+
+Se abrogan todas las disposiciones jurídicas que se contrapongan al presente.
