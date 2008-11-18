@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-del-estado-de-guerrero-numero-428-22965"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2007-12-28"
+last_updated: "2008-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA DEL ESTADO DE GUERRERO, NUMERO 428
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -295,7 +295,11 @@ III.- Por la protocolización de documentos, sean públicos o privados: 1.27
 
 IV.- En los casos que no se exprese cantidad o valor de la operación: 3.15
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Este impuesto se pagará mediante declaración ante las oficinas o por los medios autorizados.
 
 ###### ARTICULO 10.
 
@@ -335,67 +339,57 @@ Es base para el pago del impuesto el monto total de los ingresos obtenidos.
 
 Se considerará como ingreso del espectáculo público la cantidad total que se cobre por los boletos o cuotas de entradas, donativos, cooperaciones o cualquier concepto, al que se condicione el acceso al espectáculo ya sea directamente o por un tercero incluyendo las que se paguen por derecho a reservar, apartar o adquirir anticipadamente el boleto de acuerdo al espectáculo público.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Los contribuyentes que perciban ingresos de los señalados en este Capitulo deberán presentar declaraciones mensuales del pago de este Impuesto, ante las oficinas o por los medios autorizados, a más tardar el día 17 del mes del calendario inmediato posterior al que corresponda el pago.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Los contribuyentes que perciban ingresos de los señalados en este Capítulo deberán efectuar pagos mensuales de este Impuesto, mediante declaración ante las oficinas o por los medios autorizados, a más tardar el día 17 del mes inmediato posterior al que corresponda el pago.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 16.
 
-El impuesto sobre diversiones, espectáculos públicos y juegos permitidos, se causará de conformidad con las siguientes:
+El impuesto sobre diversiones, espectáculos públicos y juegos permitidos, se causará de conformidad con la siguiente:
 
-T A S A S
+TARIFA:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+Limite Limite Tasa
 
-I.- Teatros, teatros de revista, carpas o circos, sobre el boletaje vendido 3.9%
+Inferior Superior Aplicable
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+$ $1,500.00 3.5 %
 
-II.- Corridas de toros, funciones de box y lucha libre, sobre el boletaje vendido 5.17%
+00.01 3,000.00 4.5 %
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+1,501.00 En adelante 5.0 %.
 
-III.- Novilladas, jaripeos, bailes, variedades y discoteques sobre el boletaje vendido 5.17%
+3,001.00
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- Carreras de automóviles, motocicletas, caballos, etc., sobre el boletaje vendido 5.17%
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
-
-V.- Basquetbol, béisbol, fútbol y otros espectáculos deportivos similares, sobre el boletaje vendido 5%
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
-
-VI.- Frontón, en cualquiera de sus modalidades en que se juegue, sobre el boletaje vendido 5.17%
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
-
-VII.- Balnearios, balnearios con juegos recreativos y otras diversiones análogas, sobre el boletaje vendido 5.17%
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
-
-VIII.- Tenis y squash en cualquiera de sus modalidades en que se juegue, sobre el boletaje vendido 5.0%.
-
-IX.- Por cualquier otra diversión o espectáculo no especificado en las fracciones anteriores, sobre el monto de los ingresos, siempre y cuando no se cause el impuesto al valor agregado 5.17%
-
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
-
-X.- En el caso de espectáculos realizados de manera promocional en el que se regale el boleto, condicionado a la compra de determinados productos y/o servicios, se causara el impuesto sobre el valor determinado para su obtención, a la tasa del 5.17%
-
-En el caso de que en una misma función se presenten dos o más espectáculos de los gravados, se causará el impuesto según el espectáculo que tenga señalada la mayor tasa.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 17.
 
-Los contribuyentes del impuesto sobre diversiones y espectáculos públicos, tendrán las siguientes obligaciones:
+Los contribuyentes habituales tendrán las siguientes obligaciones:
 
-I.- Llevar un registro específico de las operaciones relativas a este impuesto en el mismo acto en que se realice el espectáculo público;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+I.- Inscribirse en el Padrón Fiscal Estatal a más tardar tres días antes al que vayan a dar principio las actividades y presentar los Avisos de cambio de domicilio o suspensión de actividades, ante la Autoridad Fiscal Estatal dentro de los tres días siguientes a la fecha en que ocurran tales hechos o circunstancias;
 
 II.- Presentar ante las Autoridades Fiscales el permiso otorgado por la autoridad competente para la realización del espectáculo público, a más tardar tres días antes de la realización de los espectáculos públicos;
 
 III.- Manifestar ante la autoridad fiscal, dentro del mismo plazo a que se refiere la fracción anterior, el aforo, clase, precio de las localidades, las fechas y horarios en que se realizarán los espectáculos, así como presentar muestra de cada uno de los tipos de boletos de acceso debidamente numerados;
 
-IV.- A más tardar un día antes de la celebración del espectáculo público, manifestar los cambios que al programa se hayan realizado con posterioridad al cumplimiento de las obligaciones previstas en las fracciones II y III de este artículo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+IV.- Notificar por escrito a la Autoridad Fiscal Estatal, de cualquier cambio en los precios fijados para los boletos de entrada o en los programas que correspondan a cada función o espectáculo públicos, a mas tardar el mismo día de la celebración, antes de que se lleven a cabo los mismos;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -408,6 +402,30 @@ VII.- Los propietarios de los locales, establecimientos, salones de fiestas y ot
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 VIII.- En el caso de los ingresos esporádicos, derivados de la presentación de espectáculos de carácter eventual o transitorio, la empresa garantizará previamente en efectivo o en algunas de las formas señaladas en el Código Fiscal del Estado a satisfacción de la oficina recaudadora respectiva, el importe probable del impuesto el cual se liquidará al finalizar cada función o espectáculo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+IX.- Los contribuyentes que organicen eventos o espectáculos públicos, con venta de boletos electrónico para acceder a los mismos, estarán sujeto (sic) a las siguientes disposiciones:
+
+a) Facilitar el acceso al evento a personal interventor a fin de validar la información del boletaje vendido.
+
+b) Llevar un registro específico de las operaciones relativas a este impuesto en el mismo acto en que se realice el espectáculo público.
+
+c) Presentar Auto declaración del Impuesto a pagar, dentro de los 15 días naturales, posterior al término del evento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 17 A.- Cuando no se cumplan las obligaciones previstas en esta Ley, la Autoridad Fiscal Estatal, mediante mandamiento escrito podrá suspender el evento, solicitando, en su caso, el auxilio de la fuerza pública.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 17 B.- Los funcionarios encargados de dar permiso o licencia para la celebración de cualquier diversión o espectáculo público deberán informar a la Autoridad Fiscal Estatal de las autorizaciones que otorguen a más tardar el día hábil anterior al de la realización de los eventos generadores del impuesto.
 
 ###### ARTICULO 18.
 
@@ -473,21 +491,23 @@ El impuesto sobre los premios que se otorgan como resultados de las loterías, r
 
 Cuando se acumulen dos o más premios a favor de una misma persona, sobre la suma total de los premios que se obtengan se aplicará la tasa antes señalada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 25.
 
-Las personas físicas o morales que perciban ingresos de los señalados en este Capitulo deberán presentar declaraciones mensuales del pago de este Impuesto, ante las oficinas o por los medios autorizados, a más tardar el día 17 del mes del calendario inmediato posterior al que corresponda el pago, debiendo cumplir además con las siguientes obligaciones:
+Las personas físicas o morales que perciban ingresos de los señalados en este Capítulo deberán efectuar pagos mensuales de este Impuesto, mediante declaración ante las oficinas o por los medios autorizados, a más tardar el día 17 del mes inmediato posterior al que corresponda el pago, debiendo cumplir además con las siguientes obligaciones:
 
-I.- Dar aviso a la Secretaría de Finanzas y Administración o a sus oficinas fiscales recaudadoras en las formas aprobadas al día siguiente de la fecha en que les haya sido autorizado el permiso por la autoridad competente.
+I.- Dar aviso a la Secretaría de Finanzas y Administración, el cual presentarán en las Administraciones autorizadas al día siguiente de la fecha en que les haya sido autorizado el permiso por la autoridad competente.
 
-II.- Otorgar a favor de la Secretaría de Finanzas y Administración o a sus oficinas recaudadoras, antes de efectuarse las loterías, rifas o sorteos, garantía especial para el cumplimiento del pago del impuesto;
+II.- Otorgar garantía especial a favor de la Secretaria de Finanzas y Administración, la cual presentarán en las Administraciones autorizadas, antes de efectuarse las loterías, rifas o sorteos, para el cumplimiento del pago del impuesto.
 
-III.- Presentar ante las Administraciones o Agencias Fiscales de su jurisdicción, el boletaje que se utilizará para la celebración de la rifa o sorteo, los cuales serán debidamente sellados y controlados numéricamente por la Oficina Fiscal.
+III.- Presentar ante las Administraciones autorizadas de su jurisdicción, el boletaje que se utilizará para la celebración de la rifa o sorteo, los cuales serán debidamente sellados y controlados numéricamente por la Administración.
 
-IV.- Proporcionar a los interventores que en su caso designe la Secretaría de Finanzas o sus oficinas recaudadoras, los libros comprobantes y demás documentos que se consideren necesarios.
+IV.- Proporcionar a los interventores que en su caso designe la Secretaria de Finanzas o su Administración autorizada, los libros, comprobantes y demás documentos que se consideren necesarios.
 
-V.- Los organizadores o promotores de los eventos a que hace alusión el artículo 21, estarán obligados a retener y enterar a la oficina rentística de su jurisdicción, el impuesto correspondiente, sobre los premios que se otorguen.
+V.- Los organizadores o promotores de los eventos a que hace alusión el artículo 21, estarán obligados a retener y enterar a la Administración autorizada de su jurisdicción, el impuesto correspondiente, sobre los premios les otorguen.
 
 ###### ARTICULO 26.
 
@@ -517,51 +537,53 @@ La Secretaría de Finanzas y Administración se reserva el derecho para practica
 
 ### CAPITULO V. IMPUESTO SOBRE COMPRAVENTA DE VEHICULOS DE MOTOR USADOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 ###### ARTICULO 29.
 
-Es objeto del impuesto sobre Compraventa de Vehículos de Motor Usados la percepción de ingresos derivados de la compra-venta de automóviles, camiones, yates, lanchas motorizadas y demás clases de vehículos de motor usados, salvo que se encuentre gravado por el Impuesto al Valor Agregado.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 30.
 
-Son sujetos de este impuesto, las personas físicas que perciban ingresos como resultado de las operaciones de compraventa a que se refiere el artículo anterior, siendo solidario responsable como retenedor el adquirente, quien adquiere la obligación de enterarlo ante las oficinas o por los medios autorizados, a más tardar dentro de los 17 días siguientes a la operación de compraventa, siempre y cuando por dichas operaciones, no se cause el Impuesto al Valor Agregado.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 31.
 
-La base gravable para efectos de este impuesto, será determinada conforme a las tablas que al efecto emita la Secretaría de Finanzas y Administración.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2008)
 
-Las autoridades fiscales, mediante reglas de carácter general, podrán emitir criterios y procedimientos que simplifiquen la práctica de la determinación del valor comercial.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 32.
 
-El impuesto sobre la compra-venta de vehículos de motor usados, se causará con la tasa del 0.5%.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2008)
 
-En el caso de la venta de motocicletas, yates, lanchas, motonetas náuticas y otros vehículos de motor acuáticos, su impuesto se causará con la tasa del 1.5% sobre el valor de la operación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 33.
 
-Para la aplicación de este impuesto se observarán las siguientes disposiciones:
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
-
-I.- Las personas físicas o morales que lleven a cabo las operaciones de compraventa a que este impuesto se refiere, deberán presentar dentro de los 30 días siguientes a la fecha de la misma, declaración informativa ante la oficina recaudadora correspondiente, a fin de proporcionar los datos y documentos que acrediten la transacción tales como domicilio, los nombres de los contratantes, vehículo, marca, modelo, etc.; así como los comprobantes de estar al corriente de sus obligaciones fiscales.
-
-No se causará este impuesto en los casos de operaciones realizadas en otras entidades federativas o el Distrito Federal, siempre y cuando, se exhiba el recibo oficial de pago que compruebe haber cubierto este impuesto.
-
-II.- La oficina recaudadora, al recibir dicha declaración procederá a efectuar el cobro del impuesto, expedirá el comprobante respectivo y sellará la factura que ampare la propiedad del vehículo que es materia de contrato para hacer constar que el impuesto ha sido cubierto por esta operación; medida que se observa para las ulteriores operaciones de compraventa del propio vehículo.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2008)
 
 ### CAPITULO VI. IMPUESTO SOBRE REMUNERACIONES AL TRABAJO PERSONAL
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 34.
 
-Es objeto del impuesto sobre Remuneraciones al Trabajo Personal, la realización de pagos en efectivo o en especie por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado bajo la dirección y dependencia de un patrón o de un tercero, que actúe en su nombre aún cuando éstos tengan su domicilio fuera de la Entidad.
+Es objeto del Impuesto Sobre Remuneraciones al Trabajo Personal, la realización de pagos en efectivo o en especie por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado aún cuando éstos tengan su domicilio fuera de la Entidad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 35.
 
-La base para el pago de este impuesto será el total de remuneraciones al trabajo personal, las cuales incluyen todas las prestaciones y contraprestaciones, cualquiera que sea el nombre que se les designe, ya sea ordinarias o extraordinarias, incluyendo sueldos y salarios, primas vacacionales, viáticos, gastos de representación, comisiones permisos, gratificaciones, tiempo extraordinario de trabajo, premios, bonos, estímulos, incentivos, compensaciones, aguinaldo, pagos realizados a administradores, comisarios, miembros de los consejos directivos de vigilancia o de administración de sociedades o asociaciones y otros conceptos de naturaleza análoga.
+La base para el pago de este impuesto será el total de remuneraciones al trabajo personal, las cuales incluyen todas las prestaciones y contraprestaciones, cualquiera que sea el nombre que se les designe, ya sea ordinarias o extraordinarias, incluyendo sueldos y salarios, primas vacacionales, comisiones, permisos, gratificaciones, tiempo extraordinario de trabajo, premios, bonos, estímulos, incentivos, compensaciones, aguinaldo, pagos realizados a administradores, comisarios, miembros de los consejos directivos de vigilancia o de administración de sociedad o asociaciones y otros conceptos de naturaleza análoga.
 
 A la base gravable para el cálculo de este impuesto le serán deducidos las erogaciones exentas estipuladas en el artículo 41 de esta Ley de Hacienda del Estado de Guerrero.
 
@@ -569,33 +591,159 @@ A la base gravable para el cálculo de este impuesto le serán deducidos las ero
 
 El impuesto se causará en el momento que se realicen las erogaciones por remuneraciones al trabajo personal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 36.
 
-Son sujetos de este impuesto las personas físicas y morales que habitual o accidentalmente realicen las erogaciones a que se refiere el artículo anterior. Para los efectos de este impuesto se considera que existe relación laboral cuando así lo sea para efectos de la Ley Federal del Trabajo.
+Son sujetos de este impuesto las personas físicas y morales que habitual o accidentalmente realicen erogaciones a que se refiere el artículo anterior.
+
+La federación, el Estado, los municipios, los organismos autónomos, descentralizados, fideicomisos y demás entidades paraestatales y municipales, deberán cubrir el impuesto a su cargo,
 
 ###### ARTICULO 37.
 
 Los propietarios de inmuebles que contraten los servicios de personas físicas o morales para la construcción de sus obras, están obligados a informar a la Secretaría de Finanzas y Administración dentro de los 30 días siguientes a la fecha de iniciación de operaciones, el tipo del servicio contraído, debiendo acompañar el aviso de alta de estos últimos efectuado ante la oficina rentística de la jurisdicción en donde se encuentre ubicada la obra; caso contrario, serán responsables solidarios del crédito que se determine para el pago del impuesto a que se refiere este Capítulo.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Cuando se trate de obras de construcción concluidas y el propietario de las mismas no exhiba la documentación respectiva por concepto de erogación de mano de obra, se considerará como acto accidental y el pago del impuesto se causará sobre la base que resulte de elevar cuatro veces el salario mínimo general del área geográfica del contribuyente por cada trabajador a su servicio, pudiendo la Secretaría de Finanzas y Administración allegarse de información o de dictámenes de otras dependencias facultades para determinar las bases de los gravámenes que corresponda.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Cuando se trate de obras de construcción concluidas y el propietario de las mismas no exhiba la documentación respectiva por concepto de erogación de mano de obra, se considerará como acto accidental y el pago del impuesto se causará de conformidad aplicando lo que establece el Artículo 37-A de esta misma ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 37 A.- Quienes realicen pagos a trabajadores por concepto de edificación de obra, acabados, modificaciones y/o remodelaciones e incumplan con la obligación puntual del pago de este impuesto, deberán proporcionar a la oficina rentística correspondiente, la base para determinar correctamente la cantidad a pagar y los accesorios legales generados.
+
+En caso de que el contribuyente después de ser requerido por la autoridad fiscal competente, no aporte dentro del término de 5 días, los datos y documentos necesarios y suficientes para la determinación del impuesto o cuando no sea posible establecer la base, se calculará considerando el número de metros cuadrados de construcción que declare el propio contribuyente o determine la autoridad fiscal.
+
+Los propietarios que realicen la edificación de una sola vivienda social progresiva para su habitación personal, cuyo monto global no exceda de 200 veces el salario mínimos (sic) de la Zona Económica “A” elevado al mes, no causarán este impuesto. Tampoco causarán este impuesto, los propietarios que realicen modificaciones y/o remodelaciones a una vivienda social progresiva, cuando la obra no exceda un monto que no exceda (sic) de 50 veces el salario mínimo de la Zona Económica “A” elevado al mes. El documento con el que se acreditarán los supuestos anteriores lo constituirá la licencia de construcción que expida la autoridad municipal correspondiente.
+
+Al importe que resulte de multiplicar el número de metros cuadrados de construcción por el costo de mano de obra por metro cuadrado, de acuerdo a la siguiente tabla, se le aplicará la tasa vigente a que se refiere el artículo 37-B de esta Ley.
+
+Tipo de obra Costo por m2
+
+Bardas $ 249
+
+Bodegas $ 331
+
+Canchas de tenis $ 138
+
+Casa habitación de interés social $ 554
+
+Casa habitación tipo medio $ 657
+
+Casa habitación residencial de lujo $ 860
+
+Cines $ 641
+
+Edificios habitacionales de interés social $ 535
+
+Edificios habitacionales tipo medio $ 623
+
+Edificios habitacionales de lujo $ 917
+
+Edificios de oficinas $ 535
+
+Edificios de oficinas y locales comerciales $ 707
+
+Escuelas de estructura de concreto $ 483
+
+Escuelas de estructura metálica $ 580
+
+Estacionamientos $ 312
+
+Gasolineras $ 369
+
+Gimnasios $ 554
+
+Hospitales $ 952
+
+Hoteles $ 959
+
+Hoteles de lujo $ 1,291
+
+Locales comerciales $ 575
+
+Naves industriales $ 491
+
+Naves para fábricas, bodegas y/o talleres $ 344
+
+Piscinas $ 438
+
+Remodelaciones $ 564
+
+Templos $ 528
+
+Urbanizaciones $ 191
+
+Vías de comunicación subterráneas y $ 977
+
+Conexas
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 37 B.- El impuesto se determinará aplicando la tasa del 2% sobre el monto total de los pagos efectuados por concepto de remuneraciones al trabajo personal a que se refiere el artículo 56 de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 37 C.- Este impuesto se causará en el momento en que se realicen las erogaciones por remuneraciones al trabajo personal a que se refiere el artículo 56 de este Código, y se pagará mediante declaración en la forma oficial aprobada, que deberá presentarse a más tardar el día diez del mes siguiente a aquél en que se causó el impuesto.
 
 ###### ARTICULO 38.
 
 Los contribuyentes habituales de este impuesto, además de las obligaciones establecidas en otras disposiciones fiscales, tendrán las siguientes:
 
-I.- Elaborar y conservar a disposición de la Secretaría de Finanzas y Administración, documentos en que consten la relación laboral y las remuneraciones correspondientes. Dentro del concepto de documentos a que se refiere esta fracción quedan comprendidos los contratos de trabajo individuales y colectivos, nóminas, listas de raya, recibos de remuneraciones y otros de naturaleza análoga.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+I.- Elaborar y conservar a disposición de la Secretaría de Finanzas y Administración, documentos en que consten la relación laboral y las remuneraciones correspondientes. Dentro del concepto de documentos a que se refiere esta fracción quedan comprendidos los contratos de trabajo individuales y colectivos, nóminas, listas de raya, recibos de remuneraciones, avisos de altas y bajas de los trabajadores a su servicio y otros de naturaleza análoga.
 
 II.- Llevar contabilidad y efectuar los registros en la misma de las remuneraciones a que se refiere el artículo 34 de esta Ley.
 
-III.- Inscribirse en el Registro Estatal de Contribuyentes, ante la Administración o Agencia Fiscal que le corresponda dentro de los treinta días siguientes a la fecha de inicio de sus actividades, utilizando las formas oficiales aprobadas por la Secretaría de Finanzas y Administración.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-IV.- Presentar declaraciones mensuales del pago de este impuesto, ante las oficinas o por los medios autorizados, a más tardar el día 17 del mes del calendario inmediato posterior al que corresponda el pago. Los contribuyentes que tributen en el Régimen de Pequeños Contribuyentes de la Ley del Impuesto Sobre la Renta deberán presentar las declaraciones de este impuesto bimestralmente, a más tardar el día 17 del mes de calendario posterior al bimestre que corresponda el pago en las oficinas o por los medios autorizados.
+III.- Inscribirse en el Registro Estatal de Contribuyentes ante las administraciones autorizadas dentro de los treinta días siguientes a la fecha de inicio de sus actividades, utilizando las formas oficiales aprobadas por la Secretaría de Finanzas y Administración.
 
-V.- Presentar ante la Administración o Agencia Fiscal que le corresponda a la jurisdicción de su domicilio fiscal, los avisos de cambio de denominación o razón social, cambio de domicilio fiscal, suspensión o reanudación de actividades, dentro de los treinta días siguientes a la fecha en que ocurra cualquiera de estas situaciones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+IV.- Presentar declaraciones mensuales del pago de este impuesto, disminuyendo, en su caso, el monto de las retenciones que le hubieren efectuado, ante las oficinas o por los medios autorizados, a más tardar el día 17 del mes del calendario inmediato posterior al que corresponda el pago. En los casos en que se cuente con uno más establecimientos o locales el entero se deberá de realizar de forma consolidada, para el caso de que se tenga el domicilio fiscal fuera de la circunscripción territorial del Estado, el entero respecto de la o las sucursales que se tengan dentro del Estado, se deberá de realizar en las oficinas o por los medios autorizados debiendo, en su caso, realizarlo de igual forma.
+
+Los contribuyentes que tributen en el Régimen de Pequeños Contribuyentes de la Ley del Impuesto Sobre la Renta deberán presentar las declaraciones de este impuesto bimestralmente, a más tardar el día 17 del mes de calendario posterior al bimestre que corresponda el pago en las oficinas o por los medios autorizados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+V.- Presentar en los lugares o medios autorizados que le corresponda a la jurisdicción de su domicilio fiscal, los avisos de sus altas y bajas de los trabajadores a su servicio, así como de cambio de denominación o razón social, cambio de domicilio fiscal, suspensión o reanudación de actividades, dentro de de (sic) los treinta días siguientes a la fecha en que ocurra cualquiera de estas actuaciones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+VI.- Inscribir a las personas que contraten para prestar servicios subordinados en el Registro Estatal de Contribuyentes mediante solicitud que presentaran en las Administraciones autorizadas dentro de los 30 días siguientes de su contratación en la forma oficial que al efecto publique la autoridad fiscal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+VII.- Presentar a más tardar el 15 de febrero de cada año, declaración proporcionando información sobre las personas a las que se les hayan efectuado dichos pagos, en la forma oficial que al efecto publique la autoridad fiscal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+VIII.- Solicitar a las personas que contraten para prestar servicios subordinados, les proporcionen los datos necesarios a fin de inscribirlas en el Registro Estatal de Contribuyentes, o bien cuando ya hubieran sido inscritas con anterioridad, les proporcionen su clave del citado registro.
 
 ###### ARTICULO 39.
 
@@ -649,6 +797,12 @@ e) Gastos funerarios.
 
 f) Gastos de representación y viáticos efectiva y directamente erogados por el patrón y debidamente comprobados, en los mismos términos que para deducibilidad requiera la Ley del Impuesto Sobre la Renta.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+En caso de no cumplir con los requisitos señalados en el párrafo que antecede, que para deducibilidad son necesarios, se tomará como base del impuesto los importes que por estos conceptos sufrague el contribuyente, siempre y cuando sean a favor de un trabajador o subordinado.
+
 g) Servicios de comedor y comida proporcionada a los trabajadores.
 
 h) Vales de despensa.
@@ -691,9 +845,9 @@ r) Los pagos realizados a un trabajador cuyo salario no exceda de un salario mí
 
 II.- Las erogaciones que efectúen:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a) El Estado y Municipio. No quedan comprendidos en esta exención los cubiertos por los organismos públicos descentralizados, estatales o municipales, las empresas de participación estatal y las que se asemejan a éstas, así como los organismos públicos descentralizados del sector educación.
+a) (DEROGADO, P.O. 18 DE NOVIEMBRE DE 2008)
 
 b) Instituciones de Beneficencia Pública o privada, siempre y cuando realicen actividades de fines asistencia social en cualquier tiempo o formas, así como actividades deportivas, culturales o sociales.
 
@@ -737,11 +891,13 @@ h).- Derechos por todas clases de servicios públicos.
 
 Para el cobro del impuesto adicional para el fomento de la construcción de los caminos en el Estado, se aplicará una tasa del 15%, misma que se aplicará sobre los derechos por toda clase de servicios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 45.
 
-Con el interés de fomentar la corriente turística, se causará un impuesto adicional de los conceptos señalados en el artículo 43 de la presente Ley, la tasa que se aplicará será del 15%. El presente impuesto adicional no se causará sobre los premios derivados de la celebración de loterías, rifas, sorteos y concursos de toda clase, previstos por el artículo 22 de esta Ley.
+Con el interés de fomentar la corriente turística, se causará un impuesto adicional de los conceptos señalados en el artículo 43 de la presente Ley, la tasa que se aplicará será del 15%.
 
 El presente impuesto adicional no se causará sobre los premios derivados de la celebración de loterías, rifas, sorteos y concursos de toda clase, previstos por el artículo 22 de este Ley.
 
@@ -773,19 +929,27 @@ Es objeto del Impuesto sobre la Prestación de Servicios de Hospedaje, la percep
 
 Para los efectos de este impuesto se consideran servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-De los ingresos que genere este impuesto, el 93 % será destinado para la promoción turística nacional e internacional, en la que se considere la planeación, organización, ejecución, desarrollo, supervisión y evaluación de programas de promoción y publicidad que tengan como objetivos incrementar cuantitativa y cualitativamente los flujos turísticos que determinen los Comités Técnicos de los Fideicomisos de Promoción Turística a los que corresponderá la administración de los recursos recaudados por este impuesto y en los que se integrarán representantes de la Secretaría de Finanzas y Administración del Gobierno del Estado y del Sector Turístico.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+De los ingresos que genere este impuesto, el 62% será destinado para la promoción turística nacional e internacional, en la que se considere la planeación, organización, ejecución, desarrollo, supervisión y evaluación de programas de promoción y publicidad que tengan como objetivos incrementar cuantitativa y cualitativamente los flujos turísticos que determinen los Comités Técnicos de los Fideicomisos de Promoción Turística a los que corresponderá la administración de los recursos recaudados por este impuesto y en los que se integrarán representantes de la Secretaría de Finanzas y Administración del Gobierno del Estado y del Sector Turístico.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 El Gobernador del Estado establecerá mediante acuerdos que se publiquen en el Periódico Oficial del Gobierno del Estado de Guerrero las reglas a las que se sujetará la constitución y, operación de los Fideicomisos.
 
-El 7% de los ingresos que genere la recaudación de este impuesto, se destinará a la Secretaría de Finanzas y Administración para absorber los gastos de administración del mismo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-Cuando el ingreso de esta contribución derive del ejercicio de facultades de comprobación, se destinará un 30% a la Secretaría de Finanzas y Administración para solventar los gastos extraordinarios de administración por su recuperación.
+El 31% se destinará de acuerdo a lo establecido en la Ley de Ingresos y el Presupuesto de Egresos vigente en el año en curso. El 7% de los ingresos que genere la recaudación de este impuesto, se destinará a la Secretaria de Finanzas y Administración para absorber los gastos de administración del mismo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Cuando el ingreso de esta contribución derive del ejercicio de facultades de comprobación, se destinará un 30% a la Secretaría de Finanzas y Administración para solventar los gastos extraordinarios de administración por su recuperación, un 40% a la promoción y un 30% para seguridad pública.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -819,9 +983,13 @@ Tratándose de los servicios proporcionados bajo el sistema de tiempo compartido
 
 Para efectos del párrafo que antecede, se entenderá por tiempo compartido, lo que al respecto establezca la Ley de Regulación y Fomento del Sistema de Tiempo Compartido del Estado de Guerrero.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 51.
 
-El pago de este impuesto se determinará aplicando a la base gravable, la tasa del 2%.
+El pago de este impuesto se determinará aplicando a la base gravable, la tasa del 3%.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -845,89 +1013,383 @@ Sobre los impuestos, excepto predial y adquisición de inmuebles, derechos, con 
 
 Las Tesorerías Municipales serán las responsables de hacer efectiva la contribución Estatal, dándose ingreso en caja al importe total; mensualmente entregarán el producto de esta contribución en las oficinas o por los medios autorizados, durante los primeros 17 días del mes siguiente, mediante la presentación de la declaración correspondiente.
 
-### CAPITULO X. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS AUTOMOTORES
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-TERRESTRES, DE 10 O MAS AÑOS DE ANTIGÜEDAD.
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+### CAPITULO X
+
+DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 56.
 
-Es objeto de este impuesto, la tenencia o uso de vehículos automotores cuyos modelos tengan diez o más años de antigüedad.
+Es objeto del impuesto de esta Ley la tenencia y uso de vehículos que se efectué en el territorio del Estado.
+
+Para efectos de este impuesto se entiende por vehículo entre otros: los automóviles, omnibuses, camiones y tractores no agrícolas tipo quinta rueda, las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, tabla de oleaje con motor, automóviles eléctricos y motocicleta.
+
+Asimismo, para efectos de este impuesto, se considera que el uso o tenencia del vehículo se efectúa dentro de la circunscripción territorial del Estado, cuando se inscriba en el registro vehicular del Estado, cuando el domicilio fiscal en materia federal del tenedor o usuario del vehículo se localice en el Estado, o en su defecto, cuando el domicilio del contribuyente se encuentre en el Estado.
+
+Para los efectos de esta Ley, se presume que el propietario es el tenedor o usuario del vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 56 A.- Están obligados al pago del impuesto sobre tenencia o uso de vehículos las personas físicas y morales, tenedores o usuarios de los vehículos a que se refiere el artículo 56 de esta ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 57.
 
-Son sujetos de este impuesto las personas físicas o morales tenedoras o usuarias de vehículos automotores objeto de este impuesto.
+La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, deberán pagar el impuesto de tenencia y uso de vehículos que se establece en este Capítulo, con las excepciones que en la misma se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar contribuciones estatales o estén exentos de ellos.
 
-Para los efectos de este impuesto, se considera que el propietario es el tenedor o usuario del vehículo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El año modelo del vehículo es el consignado en la factura original de compraventa.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 58.
 
-Son responsables solidarios del pago de este impuesto:
+Son solidariamente responsables del pago del impuesto sobre tenencia y uso de vehículos establecido en este Capítulo:
 
-I.- Quienes por cualquier título, adquieran la propiedad, tenencia o uso del vehículo objeto de este gravamen, hasta por el monto del crédito fiscal omitido y sus accesorios.
+I.- Quienes por cualquier título, adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera, aún cuando se trate de personas que no están obligadas al pago de este impuesto.
 
-II.- Quienes reciban en consignación o comisión para su enajenación los vehículos objeto de este gravamen, hasta por el monto del crédito y sus accesorios que se hubieran dejado de pagar.
+II.- Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que en su caso existiera.
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE 2003)</small>
+III.- Las autoridades y funcionarios competentes que autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matriculas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por este impuesto correspondiente a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
 
-III.- Los servidores públicos que en el ejercicio de sus funciones expidan permisos o constancias para circular, autoricen altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por este impuesto, correspondientes a los últimos cinco años.
+IV.- Las autoridades competentes que expidan los certificados de aeronavegabilidad, de matrícula para las aeronaves, o de inspección de seguridad a embarcaciones cuando al expedirlos el tenedor o usuario del vehículo no compruebe el pago del impuesto sobre tenencia y uso de vehículos a que se refiere en este capítulo, a excepción de los casos en que se encuentre liberado de ese pago. De no comprobarse que se ha cumplido con la obligación de pago, dichas oficinas lo harán del conocimiento de las autoridades fiscales correspondientes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 59.
 
-El impuesto sobre tenencia o uso de vehículos automotores terrestres, se causará de acuerdo a la siguiente tarifa:
+En el caso de vehículos nuevos hasta de 15 pasajeros, así como motocicletas, aeronaves y vehículos eléctricos, el impuesto se calculará tomando en consideración su valor total.
 
-I.- En el caso de vehículos de uso particular, la determinación se hará atendiendo al cilindraje del motor, conforme a lo siguiente:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-CILINDRAJE CUOTA
-
-Hasta 4 cilindros 1.54
-
-de 6 cilindros 2.31
-
-de 8 cilindros 3.08
-
-II.- En el caso de vehículos importados, diferentes a los de fabricación nacional, pagarán una cuota de 10.74 %
-
-III.- En el caso de motocicletas de fabricación nacional y de las importadas, pagarán atendiendo a su potencia expresada en centímetros cúbicos, conforme a la tabla siguiente:
-
-CENTIMETROS CUBICOS CUOTA
-
-HASTA 100 1.01
-
-DE 101 A 200 1.08
-
-DE 201 A 500 1.35
-
-DE 501 A 800 1.52
-
-DE 801 A 1200 1.69
-
-DE 1201 EN ADELANTE 2.03
-
-IV.- En el caso de vehículos destinados al transporte público de pasajeros, pagarán atendiendo a su capacidad, conforme a la siguiente:
-
-CAPACIDAD DEL VEHICULO CUOTA.
-
-De 1 a 10 pasajeros 3.08
-
-De 11 a 30 pasajeros 3.46
-
-De 31 en adelante 3.84
-
-V.- En el caso de vehículos de carga o de arrastre, se pagará una cuota de 0.95 por cada tonelada de capacidad de carga o de arrastre.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 60.
 
-Este Impuesto se pagará anualmente mediante declaración, en la forma oficial autorizada por la Secretaría de Finanzas y Administración dentro de los tres primeros meses de cada año, conjuntamente con los derechos de control vehicular ante las oficinas o por los medios autorizados.
+El impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
 
-### CAPITULO I. DISPOSICIONES GENERALES
+TARIFA
+
+Límite inferior Límite superior Cuota fija Tasa para
+
+$ $ $ aplicarse
+
+sobre el
+
+excedente
+
+del límite
+
+inferior
+
+0.01 428,768.31 0.00 3.0
+
+428,768.32 825,140.79 12,863.05 8.7
+
+825,140.80 1,109,080.70 47,347.45 13.3
+
+1,109,080.71 1,393,020.60 85,111.46 16.8
+
+1,393,020.61 En adelante 132,813.36 19.1
+
+I.- Para automóviles nuevos destinados al transporte de más de 15 pasajeros o de carga cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros el, impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil.
+
+II.- Para automóviles nuevos, cuyo peso bruto vehicular sea de 15 o mas toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50 al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30.
+
+Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
+
+III.- Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehiculo de que se trate el 2.0%.
+
+VI(sic).- En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación de este capítulo, se pagará el impuesto correspondiente al año de calendario en el que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
+
+Las cantidades establecida (sic) en la tarifa, se actualizarán en el mes de enero de cada año, aplicando el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquel por el que se van a aplicar la tarifa entre el mes de noviembre de dos años inmediatos anteriores a dicha aplicación, el cual se publicará en el Periódico Oficial del Estado, a más tardar el diez de enero de cada año.
+
+El Índice Nacional de precios al Consumidor que aplicará para los efectos del párrafo anterior es el publicado por el Banco de México en los términos de los artículos 20 segundo párrafo y 20 Bis del Código Fiscal de la Federación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 60 A.- Tratándose de vehículos usados de fabricación nacional o importados de mas de quince pasajeros o de carga cuyo peso bruto vehicular sea menor a quince toneladas, así como los destinados al transporte público, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, tabla de oleaje con motor, automóviles eléctricos, motocicletas y aeronaves, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
+
+TABLA
+
+Años de Factor
+
+antigüedad
+
+1 0.900
+
+2 0.889
+
+3 0.875
+
+4 0.857
+
+5 0.833
+
+6 0.800
+
+7 0.750
+
+8 0.667
+
+9 o más 0.500
+
+Tratándose de automóviles de servicio particular, que pasen a ser de servicio público para transporte de pasajeros, el impuesto se calculará para el ejercicio fiscal siguiente a aquel en que se de esta circunstancia conforme al siguiente procedimiento:
+
+I.- El valor total del automóvil se multiplicará por el factor de depreciación de acuerdo al año modelo del vehículo, de acuerdo con la tabla establecida en este artículo, y
+
+II.- La cantidad obtenida, se multiplicará por el 0.245%.
+
+Las cantidades que resulten de la aplicación de los factores de la presente tabla, se actualizaran en el mes de enero de cada año, aplicando el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquel por el que se van aplicar los factores entre el mes de noviembre de dos años inmediatos anteriores a dicha aplicación, el cual se publicara en el periódico oficial del Gobierno del Estado a más tardar el día 10 de enero de cada año.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 60 B.- Tratándose de automóviles de fabricación nacional o importados usados, destinados al transporte de hasta 15 pasajeros, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+a).- El valor total del vehículo se multiplicara por el factor de aplicación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
+
+TABLA
+
+Años de Factor de
+
+antigüedad depreciación
+
+1 0.850
+
+2 0.725
+
+3 0.600
+
+4 0.500
+
+5 0.400
+
+6 0.300
+
+7 0.225
+
+8 0.150
+
+9 o mas 0.075
+
+Las cantidades que resulten de la aplicación de los factores de la presente tabla, se actualizaran en el mes de enero de cada año, aplicando el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes de noviembre del año inmediato anterior a aquel por el que se van aplicar los factores entre el mes de noviembre de dos años inmediatos anteriores a dicha aplicación; al resultado se le aplicara la tarifa a que hace referencia el artículo 60 de esta ley. El factor de referencia se publicara en el periódico oficial del gobierno del estado a más tardar el día 10 de enero cada (sic) año.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 60 C.- Los contribuyentes pagarán mediante declaración el impuesto por año calendario durante los tres primeros meses, salvo en el caso de vehículos cuya inscripción al Registro Estatal Vehicular se solicite por primera vez, supuesto en el que el impuesto deberá calcularse y enterarse en el momento en el cual se solicite la inscripción al Registro, permiso provisional para circulación en traslado o dentro de los quince días de su adquisición, lo que ocurra primero.
+
+Los fabricantes, ensambladores, distribuidores o comerciantes en el ramo de vehículos que enajenen vehículos por primera vez al consumidor deberán retener y enterar a la Secretaría de Finanzas y Administración del Gobierno del Estado el Impuesto a que se refiere este capítulo.
+
+El impuesto se pagará en los lugares y medios autorizados por la Secretaría de Finanzas y Administración y bajo las modalidades que esta señale para tal efecto.
+
+En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto a que se refiere este capítulo, se pagará como si éste fuese nuevo.
+
+Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente.
+
+Mes de Factor
+
+adquisición aplicable al
+
+impuesto
+
+causado
+
+Febrero 0.92
+
+Marzo 0.83
+
+Abril 0.75
+
+Mayo 0.67
+
+Junio 0.58
+
+Julio 0.50
+
+Agosto 0.42
+
+Septiembre 0.33
+
+Octubre 0.25
+
+Noviembre 0.17
+
+Diciembre 0.08
+
+Los contribuyentes tendrán derecho a solicitar la devolución cuando ocurra la pérdida total por robo o siniestro. La devolución procedente del impuesto a que se refiere este Capítulo será la parte proporcional correspondiente a los meses del año, a partir del mes en que se solicite y acredité ante la autoridad competente de conformidad con las reglas que al efecto expida la Secretaría de Finanzas y Administración del Gobierno del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 60 D.- Para efecto del impuesto establecido en este Capítulo, se entiende por:
+
+I.- Vehículo nuevo:
+
+a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos.
+
+b) El importado definitivamente al país que corresponda al año modelo posterior al de aplicación en este Capítulo, al año modelo en que se efectúe la importación, o a los nueve años modelos inmediatos anteriores al año de la importación definitiva, y
+
+II.- Valor total del vehículo, el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
+
+En el valor total de vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
+
+III.- Año modelo, la clasificación que asigne e informe a la Secretaria de Economía del Gobierno Federal el fabricante o ensamblador. Para el caso de vehículos importados el señalado por el fabricante o ensamblador.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 60 E.- No se pagará el impuesto de tenencia y uso de los siguientes vehículos:
+
+I.- Los importados temporalmente en los términos de la legislación aduanera.
+
+II.- Los vehículos de la Federación, Estados, Municipios y Distrito Federal que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpo de bomberos.
+
+III.- Los automóviles al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad.
+
+IV.- Las embarcaciones dedicadas al transporte mercante o a la pesca comercial.
+
+V.- No se pagará el impuesto que establece este Capítulo, en los casos que se acredite haber cubierto un impuesto correspondiente al año de calendario de que se trate en otra entidad federativa, cuyo objeto coincida con el de este Capítulo.
+
+Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate. Para tal efecto se aplicará la tabla prevista en el artículo 60 de este mismo Capítulo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 60 F.- Los tenedores o usuarios de los vehículos a que se refieren las fracciones I y II del artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría Finanzas y Administración en el Estado que se encuentran comprendidos en dichos supuestos, cumpliendo los lineamientos que para tal efecto emita la citada Secretaria.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+### CAPITULO XI
+
+DEL IMPUESTO CEDULAR A LOS INGRESOS DE LAS PERSONAS FISICAS.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+#### SECCION I
+
+DISPOSICIONES GENERALES.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 60 Bis A.- Están obligadas al pago de los impuestos cedulares establecidos en esta ley, las personas físicas que en territorio del Estado perciban ingresos en efectivo, en bienes, en servicios, en crédito o de cualquier otro tipo, por la realización de las siguientes actividades:
+
+Por la obtención de ingresos por el otorgamiento del uso o goce temporal de bienes inmuebles, ubicados en el territorio del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO.60 Bis B.- A fin de facilitar a los contribuyentes el cumplimiento de sus obligaciones, el Gobierno del Estado podrá convenir el cobro de los impuestos cedulares con la Federación, a través de la Secretaría de Hacienda y Crédito Público, en los términos del artículo 43 de la Ley del Impuesto al Valor Agregado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 60 Bis C.- Para los efectos del presente Capítulo, a falta de disposición expresa se aplicará supletoriamente, adicionalmente a la legislación fiscal del Estado, la Ley del Impuesto sobre la Renta, siempre y cuando la disposición de dicho ordenamiento de carácter federal, no contravenga a esta Ley.
+
+Para los efectos de esta Ley, se considera como base fija, el local que utilicen las personas físicas para el desarrollo de sus actividades profesionales.
+
+Para determinar el valor de un bien o de una operación al término de un período, se utilizará el factor de actualización que se obtendrá dividiendo el Indicie Nacional de Precios al Consumidor del mes más reciente del período, entre el citado índice correspondiente al mes más antiguo de dicho período.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+#### SECCION II
+
+DEL IMPUESTO CEDULAR A LOS INGRESOS POR ARRENDAMIENTO Y EN GENERAL POR OTORGAR EL USO O GOCE TEMPORAL DE INMUEBLES.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 60 Bis D.- Están obligadas al pago de este impuesto las personas físicas que obtengan ingresos por otorgar el uso o goce temporal de bienes inmuebles que se encuentren ubicados en el territorio del Estado de Guerrero, con independencia de que el contribuyente tenga su domicilio fiscal fuera del mismo.
+
+Se consideran ingresos por otorgar en uso o goce temporal de bienes inmuebles, los provenientes del arrendamiento o subarrendamiento y en general por otorgar a título oneroso el uso o goce temporal de bienes inmuebles, en cualquier otra forma.
+
+Los contribuyentes no estarán obligados a pagar este impuesto por los ingresos provenientes de contratos de arrendamiento prorrogados por disposición de ley.
+
+Para los efectos de esta Sección, los ingresos en crédito se declararán y se calcularán el impuesto que les corresponda hasta el año de calendario en el que sean cobrados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 60 Bis E.- En lo relativo a los ingresos y deducciones de este impuesto cedular, se atenderá adicionalmente a lo previsto en esta Ley, a lo establecido en el apartado correspondiente a Disposiciones Generales y a los Capítulos III y X, ambos del Título IV y al Título VII, de la Ley del Impuestos Sobre la Renta.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 60 Bis F.- En las operaciones de fideicomiso por las que se otorgue el uso o goce tempo al de bienes inmuebles, se considera que los rendimientos son ingresos del fideicomitente en los casos en que este sea persona física y aun cuando el fideicomisario sea una persona distinta, a excepción de los fideicomisos irrevocables en los cuales el fideicomitente no tenga derecho a readquirir el fiduciario el bien inmueble, en cuyo caso se considera que los rendimientos son ingresos del fideicomisario desde el momento en que el fideicomitente pierda el derecho de readquirir el bien inmueble.
+
+La institución fiduciaria efectuará pagos provisionales de este impuesto por cuenta de aquel a quien corresponda el rendimiento en los términos del párrafo anterior, mediante declaración mensual, que presentará ante las oficinas autorizadas en los términos previstos en el artículo 60 bis-M de esta Ley.
+
+La institución fiduciaria presentará ante las oficinas autorizadas a más tardar el último día de febrero de cada año, declaración proporcionando información sobre el nombre, clave de registro estatal de contribuyentes, rendimientos, pagos efectuados de este impuesto y deducciones, relacionados con cada una de las personas a las que les correspondan los rendimientos, durante el año de calendario que corresponda.
+
+Igual tratamiento se dará a cualquier modalidad jurídica que se utilice para la administración de bienes inmuebles.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 60 Bis G.- Los contribuyentes a que se refiere esta Sección, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, mediante declaración, a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda el impuesto declarado.
+
+El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponde el pago, las deducciones autorizadas del mismo periodo. Al resultado que se obtenga se le aplicará la tasa del 5%.
+
+Contra el pago provisional determinado conforme a este artículo, se acreditan los pagos provisionales y el impuesto retenido del mismo ejercicio efectuados con anterioridad.
+
+Las personas que efectúen las retenciones a que se refiere el presente artículo deberán presentar declaración ante las oficinas autorizadas por la secretaría, de Finanzas y de Administración a más tardar el día 28 de febrero de cada año, proporcionando la información correspondiente de las personas a las que les hubieran efectuado retenciones en el año de calendario inmediato anterior, en los formatos que autorice dicha secretaria.
+
+El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo periodo. Al resultado se le aplicará la tasa establecida en esta Sección. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales y el impuesto retenido durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 60 Bis H.- Los contribuyentes que obtengan ingresos de los señalados en esta Sección, además de efectuar los pagos de este impuesto, tendrán las siguientes obligaciones:
+
+I Solicitar su inscripción en el registro estatal de contribuyentes.
+
+II. Llevar contabilidad del conformidad con el Código Fiscal del Estado. No quedan comprendidos en lo dispuesto en esta fracción quienes opten por la deducción del 35%.
+
+III. Expedir comprobantes que reúnan los requisitos fiscales previstos en el Código Fiscal del Estado, por las contraprestaciones recibidas.
+
+IV. Presentar declaraciones en los términos de esta Ley.
+
+Cuando los ingresos a que se refiere esta sección sean percibidos a través de operaciones de fideicomiso, será la institución fiduciaria quien lleve los libros, expida los recibos y efectúe los pagos de este impuesto.
 
 ## TITULO SEGUNDO. DE LOS DERECHOS
 
-### CAPITULO II. DERECHOS DE COOPERACION PARA OBRAS PUBLICAS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 61.
 
@@ -952,6 +1414,24 @@ Tratándose de los derechos de control Vehicular, los pagos deberán realizarse 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 Observando que para cualquier trámite vehicular, el contribuyente deberá tener su residencia dentro de la jurisdicción del Estado que se encuentra ubicada la agencia fiscal, demostrando esto a suficiencia documentalmente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Tratándose de los derechos por cambio de propietario de vehículos de motor usados, éstos se deberán pagar al momento en que se efectúe el pago del Impuesto Sobre Tenencia Estatal o al momento de solicitar el registro del vehículo el nuevo propietario.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Al momento de efectuar la baja de placa, la oficina autorizada, deberá cerciorarse que el vehículo esté al corriente en el pago de sus contribuciones fiscales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+No se causará el derecho por cambio de propietario en el caso de operaciones realizadas en otras Entidades Federativas o el Distrito Federal, siempre y cuando se exhiba el comprobante de pago que acredite haber cubierto esta operación.
 
 ###### ARTICULO 65.
 
@@ -983,19 +1463,19 @@ III.- Emitir de manera personal el dictamen técnico plasmado en el avalúo con 
 
 IV.- La vigencia del Avalúo con Fines Fiscales será de seis meses, contados a partir de la fecha de su autorización.
 
-###### ARTÍCULO 69.
+###### ARTICULO 69.
 
 Para obtener el registro como Perito Valuador de bienes inmuebles ante la Secretaría de Finanzas y Administración del Gobierno del Estado, se deberá cumplir con los requisitos establecidos en el Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero.
 
-###### ARTÍCULO 70.
+###### ARTICULO 70.
 
 Para obtener la revalidación del Registro como Perito Valuador de bienes inmuebles se deberá cumplir con los requisitos establecidos en el Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero.
 
-###### ARTÍCULO 71.
+###### ARTICULO 71.
 
 La Secretaría de Finanzas y Administración del Gobierno del Estado, asumirá la facultad de autorizar los Avalúos para Fines Fiscales, elaborados por los peritos valuadores inscritos en el Registro Estatal.
 
-###### ARTÍCULO 72.
+###### ARTICULO 72.
 
 Los Avalúos con Fines Fiscales formulados por los Peritos Valuadores inscritos en el Registro Estatal, quedarán sujetos al control y supervisión de la Secretaría de Finanzas y Administración del Gobierno del Estado.
 
@@ -1007,13 +1487,11 @@ En los Avalúos para Fines Fiscales que se elaboren se utilizará el formato que
 
 Los valores unitarios de suelo y de construcción que se utilicen en los avalúos con fines fiscales, serán autorizados por la Secretaría de Finanzas y Administración del Gobierno del Estado, mismos que podrán ser elaborados con apoyo de las diferentes asociaciones legalmente constituidas que en materia de valuación inmobiliaria existen en la entidad, y serán objeto de actualización al inicio de cada ejercicio fiscal.
 
-###### ARTÍCULO 74.
+###### ARTICULO 74.
 
 No surtirán efectos para fines fiscales los avalúos formulados por Peritos Valuadores que no estén autorizados e inscritos en el Registro Estatal.
 
-### CAPITULO III
-
-DE LOS DERECHOS POR SERVICIOS PROPORCIONADOS POR LAS AUTORIDADES DE TRÁNSITO.
+### CAPITULO II. DERECHOS DE COOPERACION PARA OBRAS PUBLICAS
 
 ###### ARTICULO 75.
 
@@ -1025,7 +1503,7 @@ Estarán obligados al pago de los derechos de cooperación, los propietarios o p
 
 ###### ARTICULO 77.
 
-No causarán los derechos de cooperación a que este capitulo se refiere, los bienes pertenecientes a la Federación, Estado, Municipios, la Universidad Autónoma de Guerrero, así como la Beneficencia Pública y a las instituciones de beneficencia privada, siempre que, en este último caso, se compruebe que los bienes están destinados al objeto propio de tales instituciones.
+No causarán los derechos de cooperación a que este capítulo se refiere, los bienes pertenecientes a la Federación, Estado, Municipios, la Universidad Autónoma de Guerrero, así como la Beneficencia Pública y a las instituciones de beneficencia privada, siempre que, en este último caso, se compruebe que los bienes están destinados al objeto propio de tales instituciones.
 
 ###### ARTICULO 78.
 
@@ -1033,9 +1511,11 @@ El pago de los derechos de cooperación se hará a través de las oficinas recau
 
 ###### ARTICULO 79.
 
-Los adquirentes de predios afectos al pago de derechos de cooperación que se establece en este capitulo, son solidariamente responsables del pago de los mismos.
+Los adquirentes de predios afectos al pago de derechos de cooperación que se establece en este capítulo, son solidariamente responsables del pago de los mismos.
 
-### CAPITULO IV. DE LOS DERECHOS POR SERVICIOS DE CONTROL VEHICULAR
+### CAPITULO III
+
+DE LOS DERECHOS POR SERVICIOS PROPORCIONADOS POR LAS AUTORIDADES DE TRÁNSITO.
 
 ###### ARTICULO 80.
 
@@ -1047,61 +1527,137 @@ I.- LICENCIAS PARA MANEJAR VEHICULOS:
 
 A).- Expedición o reposición por extravío o deterioro, por 3 años:
 
-1.- Chofer; 4.64
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-2.- Automovilista; 3.45
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-3.- Motociclistas, operadores de motonetas o similares, y 2.07
+1.- Chofer; 4.78
 
-4.- Duplicado de licencias por extravío 2.38
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+2.- Automovilista; 3.55
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+3.- Motociclistas, operadores de motonetas o similares, y 2.13
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+4.- Duplicado de licencias por extravío 2.45
 
 B).- Expedición o reposición por extravío, por 5 años:
 
-1.- Chofer; 6.21
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-2.- Automovilista; 4.95
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-3.- Motociclistas, operadores de motonetas o similares, y 2.72
+1.- Chofer; 6.58
 
-4.- Duplicado de Licencia por extravío. 3.22
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-C).- Licencia provisional para manejar hasta por 30 días: 1.72
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+2.- Automovilista; 5.10
 
-D).- Para menores de edad de 16 a 18 años hasta por 6 meses: 6.72
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+3.- Motociclistas, operadores de motonetas o similares, y 2.80
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+4.- Duplicado de Licencias por extravío. 3.32
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+C).- Licencia provisional para manejar hasta por 30 días: 1.77
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+D).- Para menores de edad de 16 a 18 años hasta por 6 meses: 6.92
 
 El pago de estos derechos incluye examen médico y de manejo.
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 II.- OTROS SERVICIOS
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-A).- Permiso provisional para circular sin placas a particulares por 30 días únicamente a vehículos modelo 2005 y 206 8.53
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+A).- Permiso Provisional para circular sin placas por 30 días, únicamente a vehículos modelo 2005 y 2006 8.78
 
-B).- Permisos Provisionales de 30 días para circular sin una placa según acta levantada en el Ministerio Público o Juzgado de Paz 3 .15
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-C).- Expedición de duplicados de infracción por pérdida de la misma 0.66
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+B).- Permisos Provisionales de 30 días para circular sin una placa según acta levantada en el Ministerio Público o Juzgado de Paz 3.24
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+C).- Expedición de duplicados de infracción por pérdida de la misma 0.68
 
 D).- Por arrastre con grúa de vía pública a los corralones
 
-1.- Cuando se requiera el servicio con vehículos cuya capacidad de arrastre sea de hasta 3.5 toneladas 4.73
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-2.- Cuando se requiera el servicio con vehículos cuya capacidad de arrastre sea mayor a 3.5 toneladas 7.10
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-E).- Constancia Certificada de documento 0.66
+1.- Cuando se requiera el servicio con vehículos cuya capacidad de arrastre sea hasta 3.5 toneladas 4.87
 
-F).- Por pisaje en el corralón e tránsito por unidad, por día 0.43
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+2.- Cuando se requiera el servicio con vehículos cuya capacidad de arrastre sea mayor a 3.5 toneladas 7.31
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+E).- Constancia Certificada de documento 0.68
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+F).- Por pisaje en el corralón e tránsito por unidad, por día 0.44
 
 G).- Por cada verificación obligatoria, sobre emisión de contaminantes de un vehículo automotor, su propietario poseedor deberá pagar previamente los derechos por los servicios de esta verificación conforme las siguientes cuotas:
 
-1.- Vehículos de motor a gasolina, incluyendo motocicletas 1.77
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-2.- Vehículos de motor a diesel 5.30
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+1.- Vehículos de motor a gasolina, incluyendo motocicletas 1.82
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+2.- Vehículos de motor a diesel 5.46
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+H).- Constancia de inexistencia de infracción 1.62
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
@@ -1109,13 +1665,13 @@ III. REVISTAS
 
 A).- Todo tipo de servicio particular de carga, incluyendo tarjetón
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-1.- Electromecánica 1.50
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-### CAPITULO V
+1.- Electromecánica 1.54
 
-DE LOS DERECHOS POR SERVICIOS PROPORCIONADOS POR LAS AUTORIDADES DE TRANSPORTE.
+### CAPITULO IV. DE LOS DERECHOS POR SERVICIOS DE CONTROL VEHICULAR
 
 ###### ARTICULO 81
 
@@ -1125,39 +1681,127 @@ T A R I F A
 
 I.- Por la expedición de placas, tarjeta de circulación y calcomanía de matrícula de automóviles, camionetas, remolques y similares de servicio particular:
 
-A).- Expedición inicial., y 5.49
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-B).- Para la reposición, canje de placas o por cualquier circunstancia, se deberá cubrir la cantidad de: 6.61
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-II.- Por el refrendo anual de la matrícula: 2.54
+A).- Automóviles, camiones, camionetas, autobuses y microbuses 5.65
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+B).- Remolques y similares 2.32
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+C).- Por canje de placas o reposición por cualquier circunstancia 6.81
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+II.- Por el refrendo anual de la tarjeta de circulación 2.54
 
 III.- Por la expedición inicial, reposición por extravío o deterioro y canje de placas y tarjeta de circulación de:
 
-A).- Motocicletas, motonetas y similares 3.73
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-B).- Bicicletas 0.85
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-C).- Vehículos de mano 0.58
+A).- Motocicletas, motonetas y similares 3.84
 
-D).- Placas para demostración 13.75
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-IV.- Cambio de vehículo, si se conservan las mismas placas por unidad 4.46
+B).- Bicicletas 0.88
 
-V.- Cambio de motor o carrocerías de vehículos por unidad 3.00
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI.- Baja de vehículos por unidad 3.00
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-VII.- Baja de placas 3.00
+C).- Vehículos de mano 0.60
 
-VIII.- Expedición de constancia de alta y baja del servicio 5.49
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IX.- Por reposición de tarjeta de circulación y holograma 3.73
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-### CAPITULO VI
+D).- Placas para demostración 14.16
 
-DE LOS DERECHOS POR REGISTRO PÚBLICO DE LA PROPIEDAD, DEL COMERCIO Y CRÉDITO AGRÍCOLA.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+IV.- Por la expedición inicial, reposición por extravío o deterioro, canje de placas y tarjeta de circulación de vehículos para discapacitados 3.0
+
+a).- Baja de placas 2.50
+
+b).- Refrendo anual 2.50
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+V.- Cambio de vehículo, si se conservan las mismas placas por unidad 4.59
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+VI.- Cambio de motor o carrocerías de vehículos por unidad 3.09
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+VII.- Baja de vehículos por unidad 3.09
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+VIII.- Baja de placas 3.09
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+IX.- Expedición de constancia de alta y baja del servicio 5.65
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+X.- Por reposición de tarjeta de circulación y holograma 3.84
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+XI.- Por cambio de propietario de vehículo de motor usado
+
+De acuerdo a la tabla siguiente:
+
+Años de Factor
+
+antigüedad
+
+Actual 12.0
+
+1-3 9.0
+
+4-7 7.0
+
+8-10 5 0
+
+10 o más 4.0
+
+### CAPITULO V
+
+DE LOS DERECHOS POR SERVICIOS PROPORCIONADOS POR LAS AUTORIDADES DE TRANSPORTE.
 
 ###### ARTICULO 82
 
@@ -1211,7 +1855,9 @@ J).- Permiso para circular fuera de ruta, por día 0.98
 
 K).- Reposición de holograma y tarjeta de circulación 8.83
 
-L).- Cambio de naturaleza de servicio 60.64
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+L).- (DEROGADO, P.O. 18 DE NOVIEMBRE DE 2008)
 
 III.- CONCESIONES.
 
@@ -1289,9 +1935,9 @@ V.- EXPEDICIÓN O REPOSICIÓN DE LICENCIA ÚNICA DE MANEJO PARA EL SERVICIO PUBL
 
 A) Por el servicio médico de medicina preventiva de transporte, para expedición de la licencia única de manejo 1.75
 
-### CAPITULO VII
+### CAPITULO VI
 
-DERECHOS POR LEGALIZACIÓN DE FIRMAS, CERTIFICACIONES, EXPEDICIÓN DE DOCUMENTOS Y DEL REGISTRO CIVIL.
+DE LOS DERECHOS POR REGISTRO PÚBLICO DE LA PROPIEDAD, DEL COMERCIO Y CRÉDITO AGRÍCOLA.
 
 ###### ARTICULO 83.
 
@@ -1323,25 +1969,49 @@ VII.- Todos los actos de inscripción de cooperativas legalmente registradas ant
 
 VIII.- Las anotaciones por herencias o remates, causarán derechos sobre el valor de los mismos; 4 al millar
 
-IX.- Las anotaciones y sus cancelaciones que se hicieren a solicitud de los interesados o por mandato judicial; 3.0
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+IX.- Las anotaciones y sus cancelaciones que se hicieren a solicitud de los interesados o por mandato judicial; 4.0
 
 X.- Por la inscripción de planos de fraccionamientos de terrenos, así como de actos, convenios o resoluciones administrativas o judiciales por las que se lotifique, relotifique, divida o subdivida un inmueble, causarán derechos de inscripción como sigue:
 
-a).- Por cada lote urbano, y 3.0
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-b).- Por cada lote rústico 1.0
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-XI.- Por la inscripción de poderes y sus sustituciones, cada uno; 3.0
+a).- Por cada lote urbano, y 4.0
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+b).- Por cada lote rústico 2.0
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+XI.- Por la inscripción de poderes y sus sustituciones, cada uno; 4.0
 
 XII.- Por las inscripciones de autos o sentencias judiciales o administrativas, por cada una; 3.0
 
 XIII.- Por la inscripción de sentencias judiciales sobre usucapión e información ad-perpetuam, causarán los derechos sobre el valor de los mismos; 4 al millar
 
-XIV.- Por la expedición de cada certificado de libertad de gravamen o de gravámenes, por cada unidad de propiedad:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a) Por los últimos 20 años o fracción; 3.0
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-b) Por más de 20 años 4.0
+XIV.- Por la expedición de cada certificado de libertad de gravamen o de gravámenes, por cada unidad de propiedad 4.0
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+a) (DEROGADO, P.O. 18 DE NOVIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+b) (DEROGADO, P.O. 18 DE NOVIEMBRE DE 2008)
 
 c) Por historial registral 8.0
 
@@ -1349,11 +2019,23 @@ XV.- Por certificados de no inscripción de propiedad:
 
 a).- Para Acapulco y Zihuatanejo 4.0
 
-b).- En caso de más de un Distrito, por cada uno 2.0
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-c).- Para el resto del Estado 2.5
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-d).- En caso de más de un Distrito, por cada uno 1.5
+b).- En caso de más de un Distrito, por cada uno. 2.5,
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+c).- Para el resto del Estado 3.0
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+d).- En caso de más de un Distrito, por cada uno 2.0
 
 XVI.- Por la expedición de constancias de propiedad y no propiedad:
 
@@ -1363,7 +2045,11 @@ b) En caso de más de un Distrito por cada uno 2.0
 
 XVII.- Por la búsqueda y expedición de constancia de testamentos en el Archivo del Registro Público de la Propiedad, del Comercio y Crédito Agrícola; 6.0
 
-XVIII.- Por la inscripción de testamento o su depósito; 2.5
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+XVIII.- Por la Inscripción de testamento o su depósito; 3.0
 
 XIX.- Por búsqueda en índices y/o antecedentes registrales y por consulta electrónica de información:
 
@@ -1375,13 +2061,17 @@ XX.- Por la expedición de copias certificadas:
 
 a).- De los apéndices si no excede de tres hojas 3.0
 
-b).- Por cada hoja excedente. 1.0
+b).- Por cada hoja excedente 1.0
 
 c ).- De folios 3.0
 
 d).- De inscripción en libros, por las tres primeras hojas 3.0
 
-XXI.- Por la ratificación de firmas ante los funcionarios del Registro Público de la Propiedad, del Comercio y Crédito Agrícola, se causará la tarifa equivalente a dos días de salario mínimo vigente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+XXI.- Por la ratificación de firmas ante los funcionarios del Registro Público de la Propiedad, del Comercio y Crédito Agrícola, se causará la tarifa equivalente a Cuatro días de salario mínimo vigente.
 
 XXII.- Por la inscripción de la escritura constitutiva del régimen de propiedad en condominio, se cobrará sobre el valor más alto que resulte entre el avalúo catastral y el avalúo con fines fiscales, el cual deberá ser elaborado por perito valuador debidamente autorizado por la Secretaría de Finanzas y Administración; 6 al millar
 
@@ -1393,11 +2083,17 @@ Por el registro de los derechos de los tiempo-compartidarios del Sistema de Tiem
 
 Cuando se solicite el registro de Sistemas de Tiempo Compartido que aún no se encuentren construidos o estén en proceso, la base para el cobro de este derecho será el valor fiscal que de acuerdo al proyecto tenga el inmueble. 4 al millar
 
-XXIV.- Tratándose del registro de documentos inscribibles señalados en las fracciones anteriores, que se elaboren fuera del Estado 6.0 al millar; cuando sean de aquellos que no expresan valor, se causará una cuota de 11.0 a 13.0 que se determinará por el Director del Registro Público de la Propiedad, del Comercio y Crédito Agrícola, tomando en consideración el volumen del documento y complejidad de la inscripción.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-XXV.- Por el Servicio de Tramite Urgente o Agilización de documentos para ser entregados el mismo día de su solicitud se cobrara 4 salarios mínimos diarios del área geográfica del contribuyente, adicionales al costo del servicio.
+XXIV.- Tratándose del registro de documentos inscribibles señalados en las fracciones anteriores, que se elaboren fuera del Estado 6.0 al millar; cuando sean de aquellos que no expresan valor, se causará una cuota de 11.50 que se determinará por el Director del Registro Público de la Propiedad, del Comercio y Crédito Agrícola.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+XXV.- Por el Servicio de Tramite Urgente o Agilización de documentos para ser entregados el mismo día, siempre y cuando la solicitud se haya entregado antes de las 11:00 horas se cobrara 5 salarios mínimos diarios del área geográfica del contribuyente, adicionales al costo del servicio, de no ser así el trámite se entregará al día siguiente.
 
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -1405,11 +2101,9 @@ XXVI.- Los casos no previstos en este precepto, causarán los derechos señalado
 
 Las autoridades fiscales estarán facultadas para verificar en cualquier tiempo, mientras no prescriba el crédito fiscal, la veracidad de los documentos que hayan servido de base para el pago de los derechos a que se refieren todas las fracciones de este artículo.
 
-### CAPITULO VIII
+### CAPITULO VII
 
-DERECHOS POR SERVICIOS EDUCATIVOS PARA LAS ESCUELAS OFICIALES, PARTICULARES, ACADEMIAS DE CAPACITACIÓN PARA EL TRABAJO Y EXPEDICIÓN DE DOCUMENTOS, ASÍ COMO POR LOS SERVICIOS PRESTADOS POR LA DIRECCIÓN DEL REGISTRO PÚBLICO PARA EL EJERCICIO TÉCNICO PROFESIONAL.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DICIEMBRE 2002)</small>
+DERECHOS POR LEGALIZACIÓN DE FIRMAS, CERTIFICACIONES, EXPEDICIÓN DE DOCUMENTOS Y DEL REGISTRO CIVIL.
 
 ###### ARTICULO 84.
 
@@ -1417,7 +2111,11 @@ Por legalización de firmas, certificaciones, expedición de copias de documento
 
 T A R I F A
 
-I.- Certificaciones de firmas de actas constitutivas de sociedades cooperativas 1.27
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+I.- Certificaciones de firmas de actas constitutivas de sociedades cooperativas 1.31
 
 II.- Certificaciones de otros documentos y actas de registro civil, cuando sean expedidas por la Coordinación Técnica y por sus oficialías correspondientes:
 
@@ -1441,13 +2139,29 @@ C).- Registro de Adopción 4.95
 
 D).- Registro de Matrimonio
 
-1.- En la oficina en horas ordinarias 3.35
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-2.- A domicilio dentro de la población 7.80
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-3.- Matrimonio entre extranjeros en la oficina 29.72
+1.- En la oficina entre nacionales 3.99
 
-4.- Matrimonio entre extranjeros a domicilio dentro de la población 79.25
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+2.- A domicilio entre nacionales 14.80
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+3.- Matrimonio entre extranjeros en la oficina 17.57
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+4.- Matrimonio entre extranjeros a domicilio 53.22
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -1457,9 +2171,17 @@ E) Registro de Divorcio
 
 2.- Divorcio Judicial entre extranjeros 9.90
 
-3.- Divorcio administrativo entre nacionales 49.53
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-4.- Divorcio administrativo entre extranjeros 79.25
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+3.- Divorcio administrativo entre nacionales 23.50
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+4.- Divorcio administrativo entre extranjeros 53.22
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -1477,65 +2199,257 @@ H).- Registro de Inscripción de Sentencias 1.77
 
 I).- Otros:
 
-1.- Expedición de copias certificadas 0.67
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-2.- Constancia de inexistencia de registro 1.00
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-3.- Búsquedas 0.23 por año
+1.- Expedición de copias certificadas 0.69
 
-4.- Autorización administrativa de registro extemporáneo de nacimiento para personas mayores de 12 años 4.80
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-5.- Anotaciones marginales de actas del registro civil 2.08
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-6.- Aclaración administrativa de actas del registro civil 5.76
+2.- Constancia de inexistencia de registro 1.03
 
-7.- Legalización de firmas 1.92
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-8.- Por apostilla 3.84
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-9.- Otros servicios no especificados 2.40
+3.- Búsquedas 0.24 por año
 
-10.- Cualquier otra certificación que se expida distinta a las expresadas 0.96
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+4.- Autorización administrativa de registro extemporáneo de nacimiento para personas mayores de 12 años 4.94
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+5.- Anotaciones marginales de actas del registro civil 2.14
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+6.- Aclaración administrativa de actas del registro civil 5.93
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+7.- Legalización de firmas 1.98
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+8.- Por apostilla 3.96
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+9.- Otros servicios no especificados 2.47
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+10.- Cualquier otra certificación que se expida distinta a las expresadas 0.99
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 No se causarán los impuestos adicionales a que se refieren los artículos 43 en su inciso h), 44, 45 y 46 de la Presente Ley de Hacienda del estado de Guerrero, en los conceptos del inciso I) de esta fracción.
 
-III.- Certificados a ministros de las distintas religiones que estén autorizados para oficiar 1.27
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- Certificados de “no adeudo” por cada concepto 1.27
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-V.- Certificados de fechas de pago de créditos fiscales 1.27
+III.- Certificados a ministros de las distintas religiones que estén autorizados para oficiar 1.31
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+IV.- Certificados de “no adeudo” por cada concepto 1.31
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+V.- Certificados de fechas de pago de créditos fiscales 1.31
 
 VI.- Copias certificadas de documentos:
 
-a).- Certificación de antecedentes 1.27
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-b).- Las que expidan las autoridades del Estado, si no exceden de 10 hojas 1.27
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+a).- Certificación de antecedentes 1.31
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+b).- Las que expidan las autoridades del Estado, si no exceden de 10 hojas 1.31
 
 c).- Si exceden de 10 hojas, por cada una excedente 0.16
 
 d).- Si se solicitan copias al carbón además del original por cada hoja 0.16
 
-e).- Copias simples, si no exceden de 10 hojas 0.46
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+e).- Copias simples, si no exceden de 10 hojas 0.47
 
 f).- Si se exceden de 10 hojas, por cada una excedente 0.16
 
-### CAPITULO IX. DERECHOS POR SERVICIOS DE SALUBRIDAD Y DE PROTECCIÓN CONTRA RIESGOS SANITARIOS
+### CAPITULO VIII
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+DERECHOS POR SERVICIOS EDUCATIVOS PARA LAS ESCUELAS OFICIALES, PARTICULARES, ACADEMIAS DE CAPACITACIÓN PARA EL TRABAJO Y EXPEDICIÓN DE DOCUMENTOS, ASÍ COMO POR LOS SERVICIOS PRESTADOS POR LA DIRECCIÓN DEL REGISTRO PÚBLICO PARA EL EJERCICIO TÉCNICO PROFESIONAL.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DICIEMBRE 2002)</small>
 
 ###### Artículo 85.
 
 Por el reconocimiento de estudios, grados académicos, expedición de títulos profesionales, de certificados de estudios y diplomas que expidan instituciones particulares incorporadas al Sistema Estatal, así como por los servicios prestados por el Departamento de Profesiones y Servicio Social para el Ejercicio Técnico Profesional, se causarán los siguientes derechos:
 
-VEASE TABLA ANEXA
+I.- Por cada título o diploma que expida cualquiera institución oficial del Gobierno del Estado y particular incorporada.
+
+a).- Tipo superior 1.91
+
+b).- Tipo medio 0.46
+
+c).- Capacitación para el trabajo industrial. 0.31
+
+II.- Por reconocimiento de validez oficial de estudios a particulares por cada plan de estudios:
+
+a).- Elemental. 9.86
+
+b).- Medio. 9.86
+
+c).- Medio Superior. 9.86
+
+d).- Superior. 38.24
+
+III.- Por exámenes profesionales o de grados; para el pago de sinodales en la institución, capacitación del magisterio.
+
+a).- De tipo superior normal 1.95
+
+b).- De tipo medio, academias de capacitación para el trabajo 0.96
+
+IV.- Por exámenes a título de suficiencia:
+
+a).- De educación primaria. 0.37
+
+b).- De tipo medio, por materia. 0.23
+
+c).- De tipo superior, por materia. 0.71
+
+d).- Del INBA y Literatura. 0.94
+
+V.- Por exámenes extraordinarios, por materia.
+
+a).- De tipo medio 0.18
+
+b).- De tipo superior 0.71
+
+c).- Del INBA y Literatura. 0.56
+
+VI.- Por acreditación y certificación de conocimientos de tipo elemental a instituciones particulares:
+
+a).- Completo. 0.37
+
+b).- Por grado. 0.06
+
+c).- Por área. 0.10
+
+VII.- Por acreditación y certificación de conocimientos de tipo medio y superior por materia en instituciones particulares. 0.04
+
+VIII.- Por expedición de duplicado de certificado de estudios: de tipo elemental, oficial y particular incorporada.
+
+a).- De tipo medio 0.46
+
+b).- De tipo superior 1.45
+
+IX.- Por revalidación de estudios o equivalencia de instituciones oficiales y particulares:
+
+a).- De primaria 0.31
+
+b).- De tipo medio 3.15
+
+c).- De tipo superior 9.49
+
+X.- Por compulsa de documentos, por hoja 0.12
+
+XI.- Expedición de hoja de servicios. 0.31
+
+XII.- Expedición de constancia de estudios:
+
+a).- Elemental 0.41
+
+b).- Medio y Superior 0.86
+
+XIII.- Por duplicado de documentos de estudio, en instituciones oficiales y particulares de tipo medio y superior por materia 0.04
+
+XIV.- Por los servicios prestados por la Dirección del Registro Público para el ejercicio técnico profesional:
+
+a).- Registro de títulos de técnicos o profesionales y grados académicos. 8.01
+
+b).- Expedición de Cédula Profesional. 3.19
+
+c).- Expedición de duplicado de Cédula Profesional. 3.21
+
+d).- Autorización para ejercer como pasante. 3.20
+
+e).- Autorización definitiva para ejercer una especialidad. 8.08
+
+f).- Autorización provisional para la práctica o para el ejercicio técnico profesional. 3.20
+
+g).- Autorización para la creación de colegios de técnicos y profesionistas.8.01
+
+XV.- Actualización de constancia de trabajo. 0.31
+
+XVI.- Actualización de credencial del magisterio. 0.20
+
+XVII.- Por expedición de duplicado de constancia por terminación de Educación Preescolar. 0.20
+
+XVIII.- Legalización de firmas de documentos por escolaridad para instituciones particulares incorporadas. 0.58
+
+XIX.- No especificado según costo de operación, siempre y cuando no se oponga a lo dispuesto en el artículo 10-A de la Ley de Coordinación Fiscal Federal.
+
+XX.- Consultas de archivo. 1.48
+
+XXI.- Acreditación y certificación a estudiantes de preparatoria abierta, por examen. 0.77
+
+XXII.- Revisión de certificados de estudio, por grado escolar:
+
+a).- De tipo medio 0.10
+
+b).- De tipo superior 0.37
+
+c).- Del INBA y Literatura 0.37
+
+XXIII.- Inspección y vigilancia de establecimientos educativos particulares, por alumno inscrito en cada ejercicio escolar:
+
+a).- De tipo superior 0.75
+
+b).- De tipo medio 0.33
+
+c).- De tipo elemental 0.08
+
+XXIV.- Permiso provisional de práctica de locución. 0.90
+
+XXV.- Dictamen jurídico por rectificación de nombre. 0.64
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO X
+### CAPITULO IX. DERECHOS POR SERVICIOS DE SALUBRIDAD Y DE PROTECCIÓN CONTRA RIESGOS SANITARIOS
 
-DERECHOS POR LA EXPEDICIÓN DE CONSTANCIA DEL EJECUTIVO DEL ESTADO DE NO EXISTENCIA DE RIESGOS PARA EL TRANSPORTE O USO DE EXPLOSIVOS.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 86.
 
@@ -1629,17 +2543,27 @@ Por cada solicitud de visita de verificación para constatar la destrucción de 
 
 El monto de las cuotas señaladas en esta fracción, se cobrarán conforme al tabulador de cobros que publique la Secretaría de finanzas y Administración.
 
-### CAPITULO XI. DERECHOS POR LA EXPEDICIÓN ANUAL DE LOS CERTIFICADOS DE OPERACIÓN DE LOS DESARROLLADORES DEL SISTEMA DE TIEMPO COMPARTIDO Y PROPIEDAD FRACCIONAL
+### CAPITULO X
+
+DERECHOS POR LA EXPEDICIÓN DE CONSTANCIA DEL EJECUTIVO DEL ESTADO DE NO EXISTENCIA DE RIESGOS PARA EL TRANSPORTE O USO DE EXPLOSIVOS.
 
 ###### ARTICULO 87.
 
 Los derechos por el servicio de expedición de constancia por parte del Ejecutivo del Estado, de no existencia de riesgos para el transporte o uso de explosivos en la Entidad, se liquidarán conforme a la siguiente:
 
-VEASE TABLA ANEXA
+T A R I F A:
+
+I.- De 1 a 10 cajas de 25 kilogramos de peso cada una. 5.15
+
+II.- De 11 a 50 cajas de 25 kilogramos de peso cada una. 28.53
+
+III.- De 51 a 100 cajas de 25 kilogramos de peso cada una. 70.10
+
+IV.- De 100 cajas en adelante con peso de 25 kilogramos cada una. 94.17
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO XII. DERECHOS DE AUTORIZACION DE LA PROCURADURÍA DE PROTECCIÓN ECOLOGICA DEL ESTADO
+### CAPITULO XI. DERECHOS POR LA EXPEDICIÓN ANUAL DE LOS CERTIFICADOS DE OPERACIÓN DE LOS DESARROLLADORES DEL SISTEMA DE TIEMPO COMPARTIDO Y PROPIEDAD FRACCIONAL
 
 ###### ARTICULO 88.
 
@@ -1647,35 +2571,233 @@ Por la expedición anual de los certificados de operación de los desarrolladore
 
 Quedan obligados al pago de este derecho, todos aquellos desarrollos que conforme a la Ley de Regulación y Fomento del Sistema de Tiempo Compartido del Estado de Guerrero y su Reglamento, hayan sido legalmente constituidos, previa autorización de la Comisión Técnica de Vigilancia de Tiempo Compartido.
 
-### CAPITULO XIII. DERECHOS DIVERSOS
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+### CAPITULO XII
+
+DERECHOS DE LA AUTORIZACION DE LA SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES DEL ESTADO.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 89.
 
-Por la autorización en materia de Impacto Ambiental y Análisis de Riesgo, a empresas industriales y de servicios del sector público y privado, se autoriza el cobro de las siguientes tarifas:
+Por los trámites de recepción, revisión, evaluación, dictamen o en su caso resolución en materia de Impacto Ambiental y Análisis de Riesgo, a personas físicas o morales que realicen obras o actividades industriales y de servicios del sector público y privado, se autoriza el cobro de las siguientes tarifas, que se calcula en días de salario mínimo vigente en el Estado:
 
-VEASE TABLA ANEXA
+I.- A la micro industria o servicio
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Por la recepción, evaluación y dictamen del Informe Preventivo 50.0
+
+En caso de que el proyecto en cuestión implique la necesidad de mayores estudios, se ajustarán a la tarifa de la pequeña industria.
+
+II.- A la pequeña industria o servicio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Por recepción, evaluación y dictamen del Informe Preventivo. 50.0
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Por recepción, evaluación y resolución de la Manifestación de Impacto Ambiental.
+
+General 62.5
+
+Intermedia 78.1
+
+Específica 97.6
+
+Por recepción, evaluación y autorización del Estudio de Riesgo. 55.0
+
+III.- A la mediana industria o servicios.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Por recepción, evaluación y dictamen del Informe Preventivo. 50.0
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Por recepción, evaluación y resolución de la Manifestación de Impacto Ambiental.
+
+General 97.6
+
+Intermedia 122.0
+
+Específica 152.6
+
+Por recepción, evaluación y autorización del Estudio de Riesgo. 68.8
+
+IV.- A la gran industria o servicio.
+
+Por recepción, evaluación y autorización del Informe Preventivo. 50.0
+
+Por recepción, evaluación y autorización de la Manifestación de Impacto Ambiental.
+
+General 152.6
+
+Intermedia 190.7
+
+Específica 238.4
+
+Por recepción, evaluación y autorización del Estudio de Riesgo. 86.0
 
 ###### ARTICULO 90.
 
-Por la exploración, extracción y procesamiento de minerales o sustancias que constituyen depósitos de naturaleza semejante a los componentes de terrenos, tales como rocas o productos de su descomposición que solo pueden utilizarse para la fabricación de materiales para la construcción u ornamentos
+Por la exploración, extracción y procesamiento de minerales o sustancias que constituyen depósitos de naturaleza semejante a los componentes de terrenos, tales como rocas o productos de su descomposición que solo pueden utilizarse para la fabricación de materiales para la construcción u ornamentos.
 
-VER TABLA ANEXA
+I.- Por la extracción en superficies menores de una hectárea.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Recepción, evaluación y dictamen del Informe Preventivo. 50.0
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Recepción, evaluación y resolución de Manifestación de Impacto Ambiental:
+
+General 62.5
+
+Intermedia 78.1
+
+Específica 97.6
+
+II.- Por la extracción en superficies de una a menos de tres hectáreas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Recepción, evaluación y dictamen del Informe Preventivo 50.0
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Recepción, evaluación y resolución de Manifestación de Impacto Ambiental:
+
+General 97.6
+
+Intermedia 122.0
+
+Específica 152.6
+
+III.- Por la extracción en superficies de tres hectáreas o más hectáreas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Recepción, evaluación y dictamen del Informe Preventivo 50.0
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Recepción, evaluación y resolución de Manifestación de Impacto Ambiental:
+
+General 152.6
+
+Intermedia 190.7
+
+Específica 238.4
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 91.
 
-Por la recepción y autorización de Impacto Ambiental a desarrollos urbanos y habitacionales se autoriza el cobro de las siguientes tarifas:
+Por la recepción y dictamen o en su caso resolución de Impacto Ambiental a desarrollos urbanos y habitacionales se autoriza el cobro de las siguientes tarifas:
 
-VEASE TABLA ANEXA
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+I.- Por recepción, evaluación y dictamen del Informe Preventivo.
+
+Menor a 5 ha. 62.5
+
+De 5.1 al 15 ha. 78.1
+
+Mayor de 15.1 ha. 97.6
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+II.- Por recepción, evaluación y resolución de Manifestación de Impacto Ambiental General.
+
+Menor a 5 ha. 97.6
+
+De 5.1 a 15 ha. 122.0
+
+Mayor a 15.1 ha. 152.6
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+III.- Por recepción, evaluación y resolución de Manifestaciones de Impacto Ambiental Intermedia.
+
+Menor a 5 ha. 152.6
+
+De 5.1 a 15 ha. 190.0
+
+Mayor a 15.1 ha. 238.4
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+IV.- Por recepción, evaluación y resolución autorización (sic) de Manifestación de Impacto Ambiental Específica.
+
+Menor a 5 ha. 238.4
+
+De 5.1 a 15 ha. 298.0
+
+Mayor a 15.1 ha. 372.5
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 92.
 
-. Por la revalidación de la autorización del:
+Por la revalidación del dictamen o resoluciones del:
 
-VEASE TABLA ANEXA
+I.- Informe preventivo 50.0
+
+II.- Manifestación de Impacto Ambiental General 80.0
+
+III.- Manifestación de Impacto Ambiental Intermedia 124.0
+
+IV.- Manifestación de Impacto Ambiental Específica 194.0
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 93.
 
-Por la revalidación de la autorización del estudio de riesgo ambiental cuya evaluación corresponde al Gobierno Estatal. 50.0
+Por la revalidación de la resolución del estudio de riesgo ambiental cuya evaluación corresponde al Gobierno Estatal. 50.0
 
 ###### ARTICULO 94.
 
@@ -1685,17 +2807,23 @@ Por la opinión técnica a estudios de impacto ambiental reservados a la federac
 
 Por los servicios de inscripción o por la renovación al registro Estatal de prestadores de servicios que realicen estudios de impacto ambiental se establece la siguiente cuota. 30.0
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 96.
 
-Por la reposición de documentos expedidos por esta Procuraduría tales como, autorizaciones en materia de Impacto Ambiental e inscripciones y/o renovaciones como prestadores de servicios de Impacto Ambiental. 10.0
+Por la reposición de documentos expedidos por esta Secretaria tales como, dictamen o resolución en materia de Impacto Ambiental a inscripciones y/o renovaciones como prestadores de servicios de Impacto Ambiental. 10.0
 
-### CAPITULO XIV. DERECHOS POR REPRODUCCION Y ENVIO DE MATERIALES QUE CONTENGAN INFORMACION PUBLICA DEL GOBIERNO DEL ESTADO DE GUERRERO Y DE SUS ENTIDADES PUBLICAS
+### CAPITULO XIII. DERECHOS DIVERSOS
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 97.
 
-Por el registro de los libros de notarías, por cada uno 8.53
+Por el registro de los libros de notarías, por cada uno 8.79
 
 ###### ARTICULO 98.
 
@@ -1703,37 +2831,61 @@ Por los servicios prestados por el Archivo de Notarías, se causarán los siguie
 
 I.- Por la búsqueda de testamento 10.14
 
-II.- Por la expedición de copias certificadas de documentos, por cada hoja. 1.81
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+II.- Por la expedición de copias certificadas de documentos, por cada hoja. 1.86
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTICULO 98 Bis.
+
+Por la participación en el concurso de Licitación Pública para la adquisición de bienes o servicios que realice el Estado.
+
+El pago por este Derecho se realizará conforme al Tabulador que publique en el Periódico Oficial del Gobierno del Estado de Guerrero, la Secretaría de Finanzas y Administración.
 
 ###### ARTICULO 99.
 
 Por la expedición de la cédula de perito valuador de bienes inmuebles, para efectos fiscales:
 
-I.- Expedición Inicial 155.59
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Refrendo Anual 51.83
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+I.- Expedición Inicial 163.37
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACICON, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+II.- Refrendo Anual 53.39
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 99 Bis.
 
-Para el cobro de los derechos por el servicio de certificación de avalúos con fines fiscales, se aplicará una tarifa general del 2.0 al millar sobre el valor fiscal del avalúo, bajo la siguiente clasificación:
+Para el cobro de los derechos por el servicio de certificación de avalúos con fines fiscales, se tomará como base y se aplicará la siguiente clasificación:
 
-a).- Valor fiscal menor hasta 800, se aplicará sobre el 60% del valor fiscal; la cantidad base a cobrar no será menor a un salario mínimo del área geográfica “A”.
+a).- Valor Fiscal de hasta $ 42,400.00 se pagará un salario mínimo del área geográfica “A”.
 
-b).- Valor fiscal mayor a 800 salarios mínimos del área geográfica “A” y hasta 1,100 salarios mínimos del área geográfica “A” se aplicará sobre el 60% del valor fiscal; la cantidad base a cobrar no será menor a 1.32 salarios mínimos del área geográfica “A”.
+b).- Valor Fiscal de $ 42,401.00 hasta $ 58,300.00 se determinará y pagará considerando el monto total del avalúa dividido entre $ 42,401. 00 multiplicado por una tarifa de 0.8303 Salarios Mínimos del área geográfica “A”, más $ 9.00.
 
-c).- Valor fiscal mayor a 1, 000 salarios mínimos del área geográfica “A” y hasta 2,150 salarios mínimos del área geográfica “A”, se aplicará sobre el 50% del valor fiscal; la cantidad base a cobrar no será menor a 2.15 salarios mínimos del área geográfica “A”.
+c).- Valor Fiscal de $ 58,301.00 hasta $ 113,950.00 se determinará y pagará considerando el monto total del avalúo dividiendo entre $ 58,301.00 multiplicado por una tarifa de 0. 8832 Salarios Mínimos del área geográfica “A”, más $ 23.00.
 
-d).- Valor fiscal mayor a 2,150 salarios mínimos del área geográfica “A” y hasta 10,600 salarios mínimos del área geográfica “A”, se aplicará sobre el 40% del valor fiscal; la cantidad base a cobrar no será menor a 8.48 salarios mínimos del área geográfica “A”.
+d).- Valor Fiscal de $ 113,951.00 hasta $ 561,800.00 se determinará y pagará considerando el monto total del avalúo dividido entre $ 113,951.00 multiplicado por una tarifa de 1.6087 Salarios Mínimos del área geográfica A, más $ 29.00.
 
-e).- Valor fiscal mayor a 10,600 salarios mínimos hasta 32,050 salarios mínimos del área geográfica “A”, se aplicará sobre el 30% del valor fiscal; la cantidad base a cobrar no será menor a 19.23 salarios mínimos del área geográfica “A”.
+e).- Valor Fiscal de $ 561,801. 00 hasta $ 1´698,650.00 se determinará y pagará considerando el monto total del avalúo dividido entre $ 561,801.00 multiplicado por una tarifa de 5.3075 Salarios Mínimos del área geográfica “A”, más $ 168.00.
 
-f).- Valor fiscal mayor a 32,050 salarios mínimos hasta 86,500 salarios mínimos del área geográfica “A”, se aplicará sobre el 25% del valor fiscal; la cantidad base a cobrar no será menor a 42.75 salarios mínimos del área geográfica “A”.
+f).- Valor Fiscal de $ 1´698,651.00 hasta $ 4 584,500.00 se determinará y pagará considerando el monto total del avalúo dividido entre $ 1´698,651.00 multiplicado por una tarifa de 14.1323 Salarios Mínimos del área geográfica “A”, más $ 270.00.
 
-g).- Valor fiscal mayor a 86,500 salarios mínimos del área geográfica “A” hasta 164,500 salarios mínimos, se aplicará sobre el 20% del valor fiscal; la cantidad base a cobrar no será menor a 65.80 salarios mínimos del área geográfica “A”.
+g).- Valor Fiscal de $ 4´584,501.00 hasta $ 8 718,500.00 se determinará y pagará considerando el monto total del avalúo dividido entre $ 4´584,501.00 multiplicado por una tarifa de 24.9872 Salarios Mínimos del área geográfica “A”, más $ 968.00.
 
-h).- Valor fiscal mayor a 164,500 salarios mínimos del área geográfica “A” se aplicará sobre el 15% del calor fiscal; la cantidad base a cobrar no será menor a 65.80 salarios mínimos del área geográfica “A”.
+h).- Valor Fiscal de $ 8´718.501.00 en adelante se determinará y pagará considerando el monto total del avalúo dividido entre $ 8718,501.00 multiplicado por una tarifa de 45.8800 Salarios Mínimos del área geográfica “A”, más $ 1,055.00.
 
 > <small>(ADICIONADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -1743,13 +2895,29 @@ ARTICULO 99 Bis I.- Para el cobro de los derechos por el servicio de cartografí
 
 I.- Planos
 
-A. Ortofoto (Plano 45 cm x 30 cm). 8 Salarios Mínimos Diarios del Área Geográfica “A”
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-B. Curvas de Nivel (Planos 45 cm x 30 cm). 6 Salarios Mínimos Diarios del Área Geográfica “A”
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-C. Plano 45 cm x 30 cm (de una a tres coberturas). 4 Salarios Mínimos Diarios del Área Geográfica “A”
+A. Ortofoto (Plano 45 cm x 30 cm) 8.25 Salarios Mínimos Diarios del Área Geográfica “A”,
 
-D. Cada capa o cobertura adicional. 1 Salarios Mínimos Diarios del Área Geográfica “A”
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+B. Curvas de Nivel (Planos 45 cm x 30 cm). 6.25 Salarios Mínimos Diarios del Área Geográfica “A”,
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+C. Plano 45 cm x 30 cm (de una a .tres coberturas). 4.12 Salarios Mínimos Diarios del Área Geográfica “A”,
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+D. Cada capa o cobertura adicional. 1.03 Salarios Mínimos Diarios del Área Geográfica “A”,
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -1761,15 +2929,35 @@ A. Renta de computadora y cartografía por hora o fracción. 2 Salarios Mínimos
 
 III.- Conexión al servidor
 
-A. Dependencias Estatales y OPDS 25 SMG.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-B. Instituciones de Educación Pública 50 SMG.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-C. Instituciones de Educación privada 75 SMG.
+A. Dependencias Estatales y OPDS 26 SMG.
 
-D. Dependencias Federales 100 SMG.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-E. Instituciones Extranjeras 200 SMG.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+B. Instituciones de Educación Pública 52 SMG.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+C. Instituciones de Educación Privada 77.25 SMG.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+D. Dependencias Federales 103 SMG.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+E. Instituciones Extranjeras 206 SMG.
 
 ###### ARTICULO 100.
 
@@ -1791,7 +2979,107 @@ Las instituciones, organismos o sindicatos del Estado de Guerrero que utilicen e
 
 Por la autorización de los Servicios de Seguridad Privada:
 
-VEASE TABLA ANEXA
+I.- POR EL REGISTRO INICIAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+a).- Para empresas de seguridad privada en inmuebles 159.55
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+b).- Para empresas de traslado y custodia de bienes o valores 239.31
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+c).- Para empresas de traslado y protección de personas 159.55
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+d).- Para empresas que presten los servicios de localización e información sobre personas físicas o morales y bienes 159.55
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+e).- Para empresas que presten servicios a establecimientos y operación de sistemas de alarma y equipo de seguridad 159.55
+
+f).- Servicios de seguridad privada pertenecientes a organismos turísticos 154.89
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+g).- Seguridad privada en general con uso de canes 159.55
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+h).- Para empresas que realicen una actividad distinta a las anteriores, relacionada y vinculada directamente con los servicios de seguridad privada 159.55
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+II.- POR LA RENOVACION ANUAL 135.61
+
+III.- OTROS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+a).- Por la expedición de la autorización o su revalidación 31.98
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+b).- Por la inscripción de cada persona que preste los servicios a que se refiere este artículo en el Registro Estatal del Personal de Seguridad Pública 1.60
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+c).- Por cada elemento que preste los servicios a que se refiere este artículo inscrito en el Registro Estatal de Personal de Seguridad Pública.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+d).- Por la inscripción de cada arma de fuego o equipo utilizado por las personas físicas o morales a que se refiere este artículo en el Registro Estatal de Armamento y Equipo 0.80
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+e).- Por la consulta de antecedentes policiales en el Registro Estatal del Personal de Seguridad Pública, respecto del personal con que cuentan las instituciones que presten los servicios de seguridad privada, por cada integrante 0.80
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+f).- Por cambio de representante legal 47.86
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+g).- Por cambio de la titularidad de las acciones o partes sociales 47.86
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Los pagos que se realicen por este Derecho deberán hacerse por conducto de las oficinas autorizadas por la Secretaria de Finanzas y Administración del Estado, en los términos que se establezcan en la Ley de Ingresos del ejercicio fiscal al que corresponda.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE 2003)</small>
 
@@ -1801,21 +3089,49 @@ Por los servicios relacionados con el otorgamiento de permisos para la contratac
 
 I.- Por el permiso para la construcción de accesos que afecten el derecho de carretera o camino local incluyendo la supervisión de la obra 14% sobre el costo de la obra.
 
-II.- Por el estudio técnico de planos, proyectos y memorias de obras y expedición de autorización para la construcción de obras e instalaciones marginales subterráneas o aéreas, para cables de redes de telecomunicación que se realicen dentro de los derechos de vía de carreteras o caminos o puentes locales, por cada Kilómetro 18.40
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- Por estudios técnicos de planos, proyectos y memorias de obra, para construcción de obras por cruzamientos superficiales, subterráneos o aéreos que atraviesen carreteras, caminos o puentes locales 30.78.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+II.- Por el estudio técnico de planos, proyectos y memorias de obras y expedición de autorización para la construcción de obras e instalaciones marginales subterráneas o aéreas, para cables de redes que se realicen dentro de los derechos de vía de carreteras o caminos o puentes locales, por cada kilómetro. 19.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+III.- Por estudios técnicos de planos, proyectos y memorias de obra, para construcción de obras por cruzamientos superficiales, subterráneos o aéreos que atraviesen carreteras, caminos o puentes locales. 32.00
 
 IV.- Por el permiso para la instalación de anuncios publicitarios fuera del derecho de vía e instalación de señalamientos informativos dentro del derecho de vía de carreteras o caminos locales, se pagarán anualmente los derechos conforme a las cuotas que para cada caso a continuación se señalan:
 
-Anuncios publicitarios que tienen una superficie total hasta de 50 metros cuadrados 73.08.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Anuncios publicitarios que tienen una superficie total de más de 50 metros cuadrados y de hasta 75 metros cuadrados 109.52.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-Señales informativas 109.61.
+Anuncios publicitarios que tienen una superficie total hasta de 50 metros cuadrados. 75.00
 
-V.- Por el permiso para llevar a cabo instalaciones marginales que afecten el derecho de vía de la carretera o camino local incluyendo la supervisión de obra, por cada cien metros 30.78.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI.- Por el permiso para llevar a cabo la realización de cruzamientos aéreos o subterráneos que afecten el derecho de vía de la carretera o camino local incluyendo la supervisión de obra, mismo que se pagará anualmente 30.78.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Anuncios publicitarios que tienen una superficie total de más de 50 metros cuadrados y de hasta 75 metros cuadrados. 112.80
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Señales informativas. 112.80
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+V.- Por el permiso para llevar a cabo instalaciones marginal que afecten el derecho de vía de la carretera o camino local incluyendo la supervisión de obra, por cada cien metros. 32.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+VI.- Por el permiso para llevar a cabo la realización de cruzamientos aéreos o subterráneos que afecten el derecho de vía de la carretera o camino local incluyendo la supervisión de obra, mismo que se pagará anualmente. 32.00
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE 2003)</small>
 
@@ -1829,7 +3145,9 @@ Los diversos derechos no especificados en esta Ley se causarán aplicando los d�
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO UNICO
+### CAPITULO XIV. DERECHOS POR REPRODUCCION Y ENVIO DE MATERIALES QUE CONTENGAN INFORMACION PUBLICA DEL GOBIERNO DEL ESTADO DE GUERRERO Y DE SUS ENTIDADES PUBLICAS
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 102 Bis.
 
@@ -1871,9 +3189,13 @@ Las mismas cuotas y tarifas serán aplicables por la expedición de los document
 
 ### CAPITULO UNICO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 103.
 
-Los productos que obtenga como ingresos el Gobierno del Estado, serán los derivados del uso, explotación o enajenación de su bienes patrimoniales.
+Son productos los ingresos que percibe el Estado, provenientes de actividades que no correspondan al desarrollo de sus funciones propias de derecho público, o por la explotación de sus bienes patrimoniales.
 
 ###### ARTICULO 104.
 
@@ -1887,11 +3209,139 @@ III.- Los generados por los establecimientos o empresas del Gobierno del Estado.
 
 IV.- Los productos derivados de la renta de maquinaria propiedad del Gobierno del Estado, a la cual se le aplicarán las cuotas de recuperación siguientes:
 
-VEASE TABLA ANEXA
+TIPO DE MAQUINARIA CUOTAS POR
+
+UN DIA DE
+
+SERVICIO EN
+
+7 HORAS
+
+TRACTOR D-85-A-12 y 18 98.78
+
+TRACTOR D-65-A y E 90.90
+
+TRACTOR D-53-A 64.54
+
+MOTOCONFORMADORA,
+
+CM-14, CM17 y 120-B 69.20
+
+TRAXCAVO, D-41-S 38.18
+
+TRAXCAVO, D-53-5 48.72
+
+TRAXCAVO, D-57-S 54.30
+
+TRAXCAVO, D-75-S 83.67
+
+PAYLOADERS, 45-B 53.40
+
+RETROEXCAVADORA 310-C y 580-D 34.57
+
+VIBROCOMPACTADOR, CV-25 y 27 42.76
+
+VIBRO COMPACTADOR, PATA DE
+
+CABRA 45.45
+
+PLANCHA CT.1014 33.67
+
+COMPRESOR, XA-120 y 175 38.72
+
+VOLTEO 40.40
+
+PETROLIZADORA 6 M3 53.93
+
+PIPA DE 10 M3 39.93
+
+TRACTO CAMION CON CAMA 84 POR
+
+KILOMETRO
+
+GONDOLA CON TRACTOCAMIÓN 84 POR
+
+KILOMETRO
+
+TORTON 60 POR
+
+KILOMETRO
+
+RABON 40 POR
+
+KILOMETRO
+
+ORQUESTA 55.92
+
+LAS GRASAS Y ACEITES PARA HACER EL SERVICIO CON EL INTERESADO.
+
+La cuota cubierta por un día de servicio, equivale a la prestación del equipo y maquinaria por una jornada máxima de 7 horas en un lapso de 24 horas; las horas de trabajo serán conforme a los horarios acordados.
+
+Los costos por los servicios a que se refiere este artículo, no causarán los impuestos adicionales que establecen los artículos 43, 44, 45 y 46 de la presente Ley.
+
+Las cuotas de recuperación a que se refiere este artículo, se modificarán en períodos semestrales, tomando como base las variaciones del Indice Nacional de Precios al Consumidor, publicados por el Banco de México.
+
+Las cuotas de recuperación que se aplicarán en los casos de la maquinaria y equipo no especificados en este artículo, serán las que se cubran por aquél con el que tenga mayor similitud.
+
+Los adeudos que los municipios tengan por concepto de ejecución de trabajos realizados por el área encargada y previo convenio que al efecto se celebre entre las partes; la Dependencia podrá solicitar como garantía la afectación de las participaciones federales de los municipios observándose las disposiciones de la Ley de Coordinación Fiscal Federal.
+
+V.- Los productos derivados de publicaciones oficiales.
+
+A).- Los avisos, edictos, inserciones y toda publicación que se haga en el Periódico Oficial del Estado, causarán:
+
+1.- Por una publicación, cada palabra o cifra 0.03
+
+2.- Por dos publicaciones, cada palabra o cifra 0.05
+
+3.- Por tres publicaciones, cada palabra o cifra 0.07
+
+B).- Suscripciones en el interior del País:
+
+1.- Por seis meses 5.01
+
+2.- Por un año 10.75
+
+C).- Suscripciones para el extranjero:
+
+1.- Por seis meses 8.80
+
+2.- Por un año 17.35
+
+D).- Números sueltos:
+
+1.- Del día 0.23
+
+2.- Atrasados 0.35
+
+VI.- Papel para los encargados del Registro Civil:
+
+a).- Por cada hoja para las copias certificadas 0.35
+
+b).- Por cada formato para el registro de defunción gratuito
+
+c).- Por cada formato para el registro de nacimiento y matrimonio 0.39
+
+VII.- Por cada juego de formas de guía de tránsito de ganado .84
+
+VIII.- Productos diversos
+
+a).- Las leyes, libros y demás publicaciones tendrán el precio que señale el Ejecutivo del Estado mediante disposición expresa.
+
+b).- Se considerará también como productos, el importe de los esqueletos de las manifestaciones que se suministren en las oficinas rentísticas, las que serán previstas por la Secretaría de Finanzas y Administración y cuyo precio será determinado por la misma.
+
+c).- Los particulares que necesiten trabajos de la imprenta solicitarán autorización directamente de la Secretaría de Finanzas y Administración, misma que fijará su costo el cual se pagará en la Oficina Fiscal respectiva, en cuyo recibo indicará la ejecución del trabajo.
+
+d).- Otros.
 
 ###### ARTICULO 105.
 
 Están exentas del pago de las cuotas respectivas, las publicaciones que se hagan en el Periódico Oficial del Estado a solicitud de las dependencias de los poderes Legislativo, Ejecutivo y Judicial, siempre que se trate de asuntos oficiales que estén comprendidos dentro de la esfera de su atribución.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
+Únicamente estarán exentas del pago de la cuota indicada en el artículo 104, fracción V, inciso D las Dependencias del Poder Ejecutivo Estatal.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -1913,7 +3363,9 @@ II.- Multas fiscales, judiciales y administrativas por violaciones a la Legislac
 
 III.- Rezagos de cuentas correspondientes a ejercicios fiscales anteriores, concesiones, contratos, reintegros, indemnizaciones, cancelaciones de contratos, donativos, subsidios, cauciones cuyas pérdidas se declaren por resolución firme a favor del Gobierno del Estado, cooperación de los municipios para el sostenimiento de los Centros de Readaptación Social del Estado, y gastos de Requerimiento y Ejecución.
 
-Serán considerados como rezagos para los efectos de esta Ley los impuestos o saldos de éstos y/o que hubieren sido causados y no pagados en los años anteriores del ejercicio fiscal en curso.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 IV.- Los incentivos que la Federación cubra al Estado por las actividades de colaboración administrativa que éste último realice, en los términos de los convenios que al efecto se celebren:
 
@@ -2001,7 +3453,7 @@ g) Fondo de aportación para la Educación Tecnológica y de Adultos.
 
 ## TITULO SEPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
 
-### CAPITULO I. IMPUESTOS SOBRE PRODUCTOS AGRICOLAS
+### CAPITULO UNICO
 
 ###### ARTICULO 112.
 
@@ -2067,17 +3519,19 @@ Los porcentajes de recargos que establece el artículo 45 de la presente Ley, su
 
 La participación de los municipios en la recaudación federal, se hará con base a la Ley de Coordinación Fiscal, Ley Número 251 que crea el Sistema Estatal de Coordinación Fiscal y Establece las Bases, Montos y Plazos a los que se sujetarán las Participaciones Federales y al Convenio de Colaboración Administrativa en materia Fiscal Federal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 117.
 
-Los ingresos que se obtengan por los diversos conceptos que establece esta Ley, se recaudarán por la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero en sus oficinas fiscales, en la Caja General de la Tesorería de la propia Secretaría; en instituciones bancarias autorizadas para ese fin: así como por los Ayuntamientos con los que se convenga que realicen por cuenta de la dependencia la captación de ingresos, mismos que se concentrarán al erario estatal.
+Los ingresos que se obtengan por los diversos conceptos que establece esta Ley, se recaudarán por la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero en las oficinas o por los medios autorizados, para ese fin: así como por Ayuntamientos con los que se que convenga que realicen por cuenta de la dependencia la captación de ingresos, mismos que se concentrarán al erario estatal.
 
 Se faculta al Gobernador del Estado, para celebrar convenios con instituciones de crédito, para coordinarse en el cobro de impuestos, cuando así lo considere conveniente.
 
 ## TITULO DECIMO PRIMERO. DISPOSICIONES SUSPENDIDAS EN TANTO EL ESTADO DE GUERRERO PERMANEZCA COORDINADO CON LA FEDERACION EN MATERIA DEL IMPUESTO AL VALOR AGREGADO
 
-### CAPITULO II. IMPUESTO SOBRE COMPRAVENTA DE GANADO
-
-Y SUS ESQUILMOS
+### CAPITULO I. IMPUESTOS SOBRE PRODUCTOS AGRICOLAS
 
 ###### ARTICULO 118.
 
@@ -2113,7 +3567,7 @@ IV.- Los compradores o almacenistas de los productos gravados por este impuesto,
 
 ###### ARTICULO 124.
 
-Se autoriza a la Secretaría de Finanzas y la misma podrá delegar esta facultad en el personal que estime pertinente para hacer huso de las medidas de control y vigilancia que considere necesarias para el fiel cumplimiento de lo establecido en este capitulo.
+Se autoriza a la Secretaría de Finanzas y la misma podrá delegar esta facultad en el personal que estime pertinente para hacer huso de las medidas de control y vigilancia que considere necesarias para el fiel cumplimiento de lo establecido en este capítulo.
 
 Asimismo, establecerá las medidas reglamentarias conducentes para el debido control y comprobación del destino de los productos agrícolas que vayan a ser transformados industrialmente en el Estado.
 
@@ -2121,7 +3575,9 @@ Asimismo, establecerá las medidas reglamentarias conducentes para el debido con
 
 Para los efectos del pago de este impuesto, se considerara realizada la compraventa de los productos agrícolas por el solo hecho de que los productos sean sacados de los lugares de producción o donde se encuentran almacenados, salvo prueba fehaciente en contrario, exceptuándose del gravamen aquellos productos que se demuestre son para consumo familiar.
 
-### CAPITULO III. IMPUESTO SOBRE PRODUCTOS DE CAPITALES
+### CAPITULO II. IMPUESTO SOBRE COMPRAVENTA DE GANADO
+
+Y SUS ESQUILMOS
 
 ###### ARTICULO 126.
 
@@ -2155,9 +3611,9 @@ Las autoridades municipales y las asociaciones locales ganaderas, no autorizará
 
 ###### ARTICULO 133.
 
-Las operaciones de compraventa de animales destinados expresamente al mejoramiento de las especies, no causarán el impuesto a que se refiere este capitulo, siempre que se justifique ante la Dirección de Fomento Agropecuario del Estado que los animales de que se trata deben exceptuarse del gravamen por su calidad y el objeto a que se destine.
+Las operaciones de compraventa de animales destinados expresamente al mejoramiento de las especies, no causarán el impuesto a que se refiere este capítulo, siempre que se justifique ante la Dirección de Fomento Agropecuario del Estado que los animales de que se trata deben exceptuarse del gravamen por su calidad y el objeto a que se destine.
 
-### CAPITULO IV. IMPUESTO SOBRE ARRENDAMIENTO Y SUBARRENDAMIENTO DE BIENES INMUEBLES
+### CAPITULO III. IMPUESTO SOBRE PRODUCTOS DE CAPITALES
 
 ###### ARTICULO 134.
 
@@ -2199,7 +3655,7 @@ Para los efectos de este impuesto, se considerará:
 
 I.- Que se tiene derecho a obtener ingresos gravables las personas que celebren alguno de los actos o contratos que se enumeran en el artículo 134.
 
-II.- Que tiene derecho a percibir ingresos en el Estado por alguno de los conceptos a que se refiere el artículo 134 cuando el acreedor tenga su residencia en el mismo Estado, aún cuando el pago se obtenga fuera de el o en el contrato respectivo se estipule que el pago se haga fuera del propio Estado. Se exceptúan de esta los casos que en los créditos de que deriven los ingresos gravables estén a cargo de personas que radiquen fuera del Estado, siempre que el pago se haga fuera del mismo, y se compruebe que, por la percepción de los mismos ingresos se causa un ingreso local, igual al establecido en este capitulo en el lugar de los bienes con que se garantiza el crédito, o de la residencia del deudor.
+II.- Que tiene derecho a percibir ingresos en el Estado por alguno de los conceptos a que se refiere el artículo 134 cuando el acreedor tenga su residencia en el mismo Estado, aún cuando el pago se obtenga fuera de él o en el contrato respectivo se estipule que el pago se haga fuera del propio Estado. Se exceptúan de esta los casos que en los créditos de que deriven los ingresos gravables estén a cargo de personas que radiquen fuera del Estado, siempre que el pago se haga fuera del mismo, y se compruebe que, por la percepción de los mismos ingresos se causa un ingreso local, igual al establecido en este capítulo en el lugar de los bienes con que se garantiza el crédito, o de la residencia del deudor.
 
 III.- Que se tiene derecho a obtener ingresos de fuentes de riqueza en el Estado.
 
@@ -2227,7 +3683,7 @@ Los deudores, empresarios, explotadores o arrendatarios que paguen los intereses
 
 ###### ARTICULO 140.
 
-No se causa el impuesto que establece este capitulo, cuando los ingresos a que se tenga derecho percibir sean por concepto:
+No se causa el impuesto que establece este capítulo, cuando los ingresos a que se tenga derecho percibir sean por concepto:
 
 I.- De intereses de bonos, obligaciones o cédulas hipotecarias.
 
@@ -2269,7 +3725,7 @@ Los notarios ante quienes se efectúen operaciones o contratos que den derecho a
 
 Dentro del mismo término a la fecha de la autorización definitiva de las escrituras respectivas, los notarios estarán obligados a hacer del conocimiento de las oficinas recaudadoras las modificaciones que sufran las escrituras a que se refiere el párrafo anterior.
 
-La misma obligación tendrán en los casos de escrituras en que se haga constar la extinción de las obligaciones nacidas de los actos o contratos de los que se derive el derecho a obtener los ingresos objeto del impuesto a que este capitulo se refiere. Expresarán en estos avisos, los datos que se exijan en las formas oficiales respectivas.
+La misma obligación tendrán en los casos de escrituras en que se haga constar la extinción de las obligaciones nacidas de los actos o contratos de los que se derive el derecho a obtener los ingresos objeto del impuesto a que este capítulo se refiere. Expresarán en estos avisos, los datos que se exijan en las formas oficiales respectivas.
 
 ###### ARTICULO 145.
 
@@ -2279,13 +3735,13 @@ Tampoco deberán los encargados del Registro Público cancelar las inscripciones
 
 ###### ARTICULO 146.
 
-Las autoridades judiciales, además de las obligaciones que les señala este capitulo, tienen, para los efectos del impuesto, la de dar a conocer a la Secretaría de Finanzas y Administración las resoluciones que se dicten en los juzgados y que tengan o que puedan tener alguna afectación de impuestos a favor del Estado.
+Las autoridades judiciales, además de las obligaciones que les señala este capítulo, tienen, para los efectos del impuesto, la de dar a conocer a la Secretaría de Finanzas y Administración las resoluciones que se dicten en los juzgados y que tengan o que puedan tener alguna afectación de impuestos a favor del Estado.
 
 ###### ARTICULO 147.
 
 El impuesto deberá ser cubierto mensualmente, durante el mes siguiente al que hubiere causado.
 
-Cuando, de acuerdo con lo convenido en el contrato, el acreedor tenga derecho a obtener ingresos u otras prestaciones por periodos mayores de un mes, se hará el calculo de la cantidad que y de estas prestaciones corresponda a un mes a fin de que el pago del impuesto se haga en los términos que dispone el párrafo anterior.
+Cuando, de acuerdo con lo convenido en el contrato, el acreedor tenga derecho a obtener ingresos u otras prestaciones por periodos mayores de un mes, se hará el cálculo de la cantidad que y de estas prestaciones corresponda a un mes a fin de que el pago del impuesto se haga en los términos que dispone el párrafo anterior.
 
 En los casos de contratos de cuenta corriente o cualesquiera otros en que no sea posible determinar anticipadamente ni el monto de los ingresos que sirvan de base para la determinación del impuesto, ni quien sea el contribuyente de éste, el pago se hará dentro de los 15 días siguientes al corte de la cuenta o de la fecha en que pueda definirse quien es el acreedor y el importe de los ingresos.
 
@@ -2317,13 +3773,13 @@ Cuando los pagos efectuados deban aplicarse, de acuerdo con el documento constit
 
 Las remisiones de adeudo que comprendan la totalidad o parte de los intereses vencidos, no surtirán efectos fiscales y, por lo mismo, se reputaran en todo caso, que la cancelación de un crédito implica el pago total de los intereses vencidos sobre cuyo monto deberá pagarse el impuesto correspondiente.
 
-Cuando se revoque o rescinda un contrato a plazo fijo, del que se deriven ingresos de los gravados por este capitulo, el impuesto solo se causara sobre los ingresos que realmente se perciban de acuerdo con el convenio que extinga la obligación.
+Cuando se revoque o rescinda un contrato a plazo fijo, del que se deriven ingresos de los gravados por este capítulo, el impuesto solo se causara sobre los ingresos que realmente se perciban de acuerdo con el convenio que extinga la obligación.
 
 ###### ARTICULO 153.
 
 En los casos de que la adjudicación de bienes hecha en remate judicial, en pago de créditos que incluyen ingresos por alguno de los conceptos a que se refiere el artículo 134 ya sea que la adjudicación se haga al acreedor o a un tercero, el impuesto se pagara sobre la totalidad de los intereses vencidos hasta la fecha de la adjudicación, y se hará efectivo, a más tardar, al momento de cubrirse el impuesto de translación de dominio correspondiente.
 
-### CAPITULO V. IMPUESTO SOBRE OPERACIONES MERCANTILES E INDUSTRIALES
+### CAPITULO IV. IMPUESTO SOBRE ARRENDAMIENTO Y SUBARRENDAMIENTO DE BIENES INMUEBLES
 
 ###### ARTICULO 154.
 
@@ -2359,7 +3815,7 @@ III.- Registrar cada uno de los contratos de arrendamiento o subarrendamiento de
 
 IV.- Dar aviso de las modificaciones o rescisiones de los contratos, dentro de los quince días naturales siguientes a la fecha en que esto ocurra.
 
-### CAPITULO VI. IMPUESTO SOBRE VENTA DE GASOLINA Y DEMAS DERIVADOS DEL PETROLEO
+### CAPITULO V. IMPUESTO SOBRE OPERACIONES MERCANTILES E INDUSTRIALES
 
 ###### ARTICULO 160.
 
@@ -2389,7 +3845,7 @@ Quedan comprendidas en esta fracción, entre otras, las actividades que desarrol
 
 ###### ARTICULO 162.
 
-Son sujetos de este impuesto, las personas físicas o morales que obtengan habitualmente los ingresos gravados por este capitulo, cuyas operaciones sean realizadas o que surtan sus efectos en el territorio del Estado.
+Son sujetos de este impuesto, las personas físicas o morales que obtengan habitualmente los ingresos gravados por este capítulo, cuyas operaciones sean realizadas o que surtan sus efectos en el territorio del Estado.
 
 Igualmente son sujetos del impuesto, las unidades económicas que habitual o eventualmente obtengan ingresos gravados.
 
@@ -2427,7 +3883,7 @@ Es base para el pago de este impuesto, el ingreso total derivado a las operacion
 
 En el caso de los comisionistas la base gravable estará formada por la cantidad que perciban de acuerdo con el contrato de comisión y, en su caso, por los ingresos percibidos como reembolso por concepto de viáticos, gastos de viajes o de oficina y demás erogaciones que por cualquier concepto cargue o cobre a su comitente o representante, siempre que satisfagan los requisitos siguientes:
 
-I.- Que exista contrato escrito en el que se estipule la remuneración, ya sea en una cantidad fija o en un porcentaje determinado sobre el precio de la operación y que se envíe para su registro una copia autógrafa o certificada de el y de sus modificaciones a la oficina recaudadora correspondiente, dentro de los 30 días siguientes a la celebración de aquel o a que estas se acuerden;
+I.- Que exista contrato escrito en el que se estipule la remuneración, ya sea en una cantidad fija o en un porcentaje determinado sobre el precio de la operación y que se envíe para su registro una copia autógrafa o certificada de él y de sus modificaciones a la oficina recaudadora correspondiente, dentro de los 30 días siguientes a la celebración de aquel o a que estas se acuerden;
 
 II.- Que el comisionista no haga descuentos o bonificaciones a los clientes en el precio de las operaciones, con cargo a su comisión.
 
@@ -2449,7 +3905,7 @@ El impuesto se causara y pagara mensualmente conforme a la tarifa que al efecto 
 
 ###### ARTICULO 169.
 
-Las personas físicas sujetos de este impuesto, para efectos del cumplimiento de las obligaciones que señala este capitulo, se clasifican en mayores y menores, tomando en cuenta los ingresos anuales obtenidos.
+Las personas físicas sujetos de este impuesto, para efectos del cumplimiento de las obligaciones que señala este capítulo, se clasifican en mayores y menores, tomando en cuenta los ingresos anuales obtenidos.
 
 Son contribuyentes mayores aquellos cuyos ingresos anuales percibidos sean superiores a la cantidad de $ 3 000,000.00 y menores quienes obtengan ingresos hasta por dicha cantidad.
 
@@ -2495,7 +3951,7 @@ III.- Por el gerente o encargado de la sucursal y por el contador si lo hubiere,
 
 ###### ARTICULO 175.
 
-Los contribuyentes menores podrán cubrir sus impuestos a cuota predeterminada, pero estarán obligados a presentar una declaración complementaria al finalizar cada ejercicio, en el caso de que los ingresos reales percibidos hayan excedido en más de un 20 % a los que hubiesen servido de base para la determinación de la cuota. Para presentar tal declaración, se establece como plazo el mes de enero para efectos del cumplimiento de las obligaciones que señala este capitulo, febrero siguiente al término del ejercicio y con ella se cubrirán las diferencias de impuesto a que haya lugar.
+Los contribuyentes menores podrán cubrir sus impuestos a cuota predeterminada, pero estarán obligados a presentar una declaración complementaria al finalizar cada ejercicio, en el caso de que los ingresos reales percibidos hayan excedido en más de un 20 % a los que hubiesen servido de base para la determinación de la cuota. Para presentar tal declaración, se establece como plazo el mes de enero para efectos del cumplimiento de las obligaciones que señala este capítulo, febrero siguiente al término del ejercicio y con ella se cubrirán las diferencias de impuesto a que haya lugar.
 
 ###### ARTICULO 176.
 
@@ -2557,13 +4013,13 @@ En los contratos de comisión y representación, serán responsables del pago de
 
 ###### ARTICULO 183.
 
-La Secretaría de Finanzas y Administración es la autoridad fiscal facultada para vigilar el cumplimiento de las disposiciones contenidas en este capitulo, especialmente para:
+La Secretaría de Finanzas y Administración es la autoridad fiscal facultada para vigilar el cumplimiento de las disposiciones contenidas en este capítulo, especialmente para:
 
 I.- Revisar las declaraciones de los contribuyentes, y cuando se descubra que no manifiestan totalmente sus ingresos o manifestándolos omiten total o parcialmente los impuestos correspondientes, se procederá a hacer efectivas las diferencias respectivas, sin perjuicio de las sanciones a que haya lugar.
 
 II.- Exigir de los contribuyentes la adaptación y establecimiento de medidas de control.
 
-III.- Ordenar la práctica de auditoria a los contribuyentes así como obtener los datos e informes que tengan relación con el objeto de las mismas.
+III.- Ordenar la práctica de auditoría a los contribuyentes así como obtener los datos e informes que tengan relación con el objeto de las mismas.
 
 IV.- Exigir en el domicilio de los contribuyentes, la exhibición de los libros de contabilidad, auxiliares, registros y documentos comprobatorios de los asientos respectivos.
 
@@ -2581,7 +4037,7 @@ Se procederá a la clausura de los establecimientos en los términos del Código
 
 La clausura solo se levantara si la Secretaría de Finanzas y Administración concede el empadronamiento o previo el pago de las prestaciones procedentes.
 
-Para los efectos de este capitulo; se consideran clandestinos los giros que funcionan sin estar registrados o empadronados.
+Para los efectos de este capítulo; se consideran clandestinos los giros que funcionan sin estar registrados o empadronados.
 
 También se consideran clandestinos los giros que funcionen en forma distinta a la en que se encuentren empadronados.
 
@@ -2619,13 +4075,13 @@ Para los efectos de empadronamiento cuando un negocio comprenda dos o más giros
 
 ###### ARTICULO 189.
 
-En los casos de clausura, traspaso, o cambio de domicilio de algún establecimiento, el contribuyente, dentro de los cinco días siguientes a la fecha de sucedido el hecho, esta obligado a dar aviso por escrito a la oficina rentas correspondiente, con la certificación de la autoridad municipal del lugar.
+En los casos de clausura, traspaso, o cambio de domicilio de algún establecimiento, el contribuyente, dentro de los cinco días siguientes a la fecha de sucedido el hecho, está obligado a dar aviso por escrito a la oficina rentas correspondiente, con la certificación de la autoridad municipal del lugar.
 
 ###### ARTICULO 190.
 
 Los presidentes municipales dentro de los primeros cinco días de cada mes remitirán a las oficinas de rentas respectivas, un informe de las licencias que hayan otorgado durante el mes anterior para negociaciones comerciales o industriales, el que contendrá: nombre de negociación y de su propietario, clase de giro y su ubicación.
 
-### CAPITULO VII. IMPUESTO SOBRE ALCOHOL Y BEBIDAS ALCOHOLICAS
+### CAPITULO VI. IMPUESTO SOBRE VENTA DE GASOLINA Y DEMAS DERIVADOS DEL PETROLEO
 
 ###### ARTICULO 191.
 
@@ -2637,13 +4093,13 @@ El impuesto se causar de conformidad con la tarifa que fije la Ley de Ingresos.
 
 ###### ARTICULO 193.
 
-Petróleos Mexicanos y sus agencias, así como los expendedores de gasolina y demás derivados del petróleo, cubrirán el impuesto a que se refiere este capitulo, mediante la presentación de declaraciones que deberán exhibir dentro de los primeros quince días de cada mes, en las que consignarán los ingresos percibidos por las ventas realizadas, en el mes anterior.
+Petróleos Mexicanos y sus agencias, así como los expendedores de gasolina y demás derivados del petróleo, cubrirán el impuesto a que se refiere este capítulo, mediante la presentación de declaraciones que deberán exhibir dentro de los primeros quince días de cada mes, en las que consignarán los ingresos percibidos por las ventas realizadas, en el mes anterior.
 
 ###### ARTICULO 194.
 
 El Ejecutivo del Estado está facultado para adoptar la medidas pertinentes a efecto de que este impuesto sea percibido por conducto de Petróleos Mexicanos, de acuerdo con el procedimiento que se convenga al efecto.
 
-### CAPITULO VIII. IMPUESTO SOBRE FUNCIONES NOTARIALES
+### CAPITULO VII. IMPUESTO SOBRE ALCOHOL Y BEBIDAS ALCOHOLICAS
 
 ###### ARTICULO 195.
 
@@ -2679,7 +4135,7 @@ III.- Los sujetos del impuesto que por error de cálculo hubieren pagado el impu
 
 Para los efectos de este impuesto, se consideran:
 
-I.- Alcohol, la sustancia conocida comúnmente como alcohol etílico, o etanol, cualquiera que esa su fuente y proceso seguido en su elaboración, siempre que a la temperatura de 15° centígrados tenga una graduación mayor de 55° G. L.
+I.- Alcohol, la sustancia conocida comúnmente como alcohol etílico, o etanol, cualquiera que sea su fuente y proceso seguido en su elaboración, siempre que a la temperatura de 15° centígrados tenga una graduación mayor de 55° G. L.
 
 II.- Aguardiente, cualquier producto alcohólico producido de la caña de azúcar o de sus derivados, cuya graduación a la temperatura de 15° centígrados, queda comprendida entre 2° y 55° G. L.
 
@@ -2693,7 +4149,7 @@ VI.- Adquirente o comprador de primera mano, la persona que adquiera de los prod
 
 VII.- Expendedores, los propietarios o poseedores de los establecimientos en donde habitual o accidentalmente se enajenan bebidas destiladas y, en general bebidas alcohólicas en botella cerrada o al copeo, así como alcohol y aguardiente común, al menudeo.
 
-VIII.- Importadores, las personas que reciban, directa o indirectamente del extranjero bebidas alcohólicas, ya sea en propiedad o en comisión, depósito, representación o bajo cualquier otro titulo.
+VIII.- Importadores, las personas que reciban, directa o indirectamente del extranjero bebidas alcohólicas, ya sea en propiedad o en comisión, depósito, representación o bajo cualquier otro título.
 
 IX.- Embotelladores o envasadores, las personas que embazan alcohol común, bebidas alcohólicas, por cuenta propia o ajena.
 
@@ -2701,7 +4157,7 @@ X.- Almacenista, comisionista o distribuidores, las personas que posean alcohol,
 
 XI.- Porteadores, las personas que habitual o accidentalmente se dediquen al transporte de bebidas destiladas y, en general bebidas alcohólicas, aguardiente común y alcohol en cantidades mayores de quince litros, cualquiera que sea el vehículo o medio que utilicen.
 
-XII.- Retenedor, la persona que conforme a las disposiciones de la presente Ley esta obligada a retener de los expendedores el impuesto.
+XII.- Retenedor, la persona que conforme a las disposiciones de la presente Ley está obligada a retener de los expendedores el impuesto.
 
 ###### ARTICULO 202.
 
@@ -2773,15 +4229,13 @@ Para los efectos de este impuesto se presumirá realizada la venta de los produc
 
 ###### ARTICULO 210.
 
-Los contribuyentes cuyos ingresos anuales no rebasen el total de $ 3 000,000.00 podrán pagar impuesto a cuota fija, aplicándose el mismo procedimiento que señala para los contribuyentes menores el titulo séptimo, capitulo V, relativo al impuesto sobre operaciones mercantiles e industriales.
+Los contribuyentes cuyos ingresos anuales no rebasen el total de $ 3 000,000.00 podrán pagar impuesto a cuota fija, aplicándose el mismo procedimiento que señala para los contribuyentes menores el titulo séptimo, capítulo V, relativo al impuesto sobre operaciones mercantiles e industriales.
 
 ###### ARTICULO 211.
 
 Por expendio accidental del alcohol, aguardiente y bebidas alcohólicas, se pagara por el derecho de permiso, impuesto y vigilancia especial, de $300.00 a $ 3,000.00 diarios. La cuota asignada se pagará por adelantado, debiéndose solicitar permiso previo correspondiente, ante la Oficina Recaudadora respectiva.
 
-### CAPITULO I
-
-DE LOS DERECHOS POR REGISTRO DE GIROS COMERCIALES E INDUSTRIALES.
+### CAPITULO VIII. IMPUESTO SOBRE FUNCIONES NOTARIALES
 
 ###### ARTICULO 212.
 
@@ -2806,6 +4260,10 @@ Los recaudadores de rentas y auditores fiscales están autorizados para efectuar
 ## TITULO DECIMO SEGUNDO
 
 DERECHOS SUSPENDIDOS EN TANTO EL ESTADO DE GUERRERO PERMANEZCA COORDINADO CON LA FEDERACIÓN EN ESTA MATERIA.
+
+### CAPITULO I
+
+DE LOS DERECHOS POR REGISTRO DE GIROS COMERCIALES E INDUSTRIALES.
 
 ### CAPITULO II
 
@@ -2956,5 +4414,39 @@ Para el cumplimiento del pago de la revista electromecánica y de confort, que s
 2.- 2ª. Revista se aplicará (sic) dentro de los meses de julio, agosto y septiembre. Se hará aplicable a todo tipo de servicio público, así como el servicio particular de carga, incluyendo el tarjetón.
 
 ###### ARTÍCULO CUARTO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+presente Decreto entra en vigor el día primero de enero del año dos mil nueve.
+
+###### ARTÍCULO SEGUNDO.
+
+Los pagos del impuesto sobre tenencia o uso de-vehículos de ejercicios fiscales de 2008 y anteriores, se realizaran conforme a las disposiciones vigentes en el ejercicio fiscal correspondiente, de cuya recaudación se participará a los Municipios en términos de lo dispuesto de la Ley 251 que crea el Sistema Estatal de Coordinación Fiscal y establece las Bases, Monto y Plazos a los que se sujetarán las Participaciones Federales.
+
+###### ARTÍCULO TERCERO.
+
+Los vehículos de transporte de servicio particular y, público que pagaron el impuesto sobre tenencia o uso de vehículos estatal, de acuerdo a las disposiciones contenidas en los, artículos 56, 57, 58, 59 Y 60 de la Ley de Hacienda, del Estado vigentes hasta el ejercicio 2008, continuaran calculando el impuesto conforme a las tabla y tarifa, vigente hasta dicho él 110, este supuesto aplicará, también a vehículos que reporten adeudos del ejercicio fiscal de 2008 y anteriores
+
+###### ARTÍCULO CUARTO.
+
+Los contribuyentes propietarios o tenedores, de vehículos, registrados conforme, a la normatividad establecida en la Ley del Impuesto Sobre Tenencia o Uso de Vehículos Federal; a partir del ejercicio fiscal 2009 pasaran a formar parte del Registro Vehicular Estatal de acuerdo con las disposiciones contenidas en el Capítulo X del Impuesto sobre tenencia o uso de vehículos de la Ley de Hacienda del Estado de Guerrero.
+
+###### ARTÍCULO QUINTO.
+
+Se otorgan estímulos fiscales de hasta el 40% de descuento en los conceptos que señala el artículo 82 fracción I inciso A) punto 1 sobre la expedición inicial, inciso B); Fracción II, inciso C), D) y G) Fracción III inciso A), punto 1 número 4 y número 5, inciso C), número 1 inciso D), número 1, 4 y 5, Fracción IV, inciso A), número 1 y 2.
+
+###### ARTÍCULO SEXTO.
+
+Para el cumplimiento del pago de la revista electromecánica y de confort, que señala el artículo 82 Fracción IV inciso A, subinciso 1 y 2.
+
+1.- 1a. Revista se aplicará el pago dentro de los 3 primeros meses del año, enero, febrero y marzo.
+
+2.- 2a. Revista se aplicará dentro de los meses de julio, agosto y septiembre. Se hará aplicable, a todo tipo de servicio público, así como el servicio particular de carga incluyendo el tarjetón.
+
+###### ARTÍCULO SÉPTIMO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
