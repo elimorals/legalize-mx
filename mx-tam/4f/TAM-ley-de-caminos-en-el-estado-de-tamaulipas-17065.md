@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-caminos-en-el-estado-de-tamaulipas-17065"
 country: "mx"
 rank: "ley"
 publication_date: "1928-05-26"
-last_updated: "1928-05-26"
+last_updated: "2008-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DE CAMINOS EN EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 18 DE NOVIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 26 de mayo de 1928.
 
@@ -240,3 +242,19 @@ T R A N S I T O R I O .
 Artículo único.- Esta Ley comenzará a regir un mes después de su publicación en el Periódico Oficial del Estado.
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Tamaulipas, a los diecinueve días del mes de mayo de mil novecientos veintiocho.- El Gobernador del Estado, E. Portes Gil.- El Srio. Gral. De Gobierno, Lic. F. Canales.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE NOVIEMBRE DE 2008.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Caminos del Estado de Tamaulipas, expedida por Decreto del Ejecutivo el 19 de mayo de 1928 y publicada en el Periódico Oficial del Estado, el 26 de mayo de 1928.
+
+###### ARTICULO TERCERO.
+
+Con objeto de proveer las medidas necesarias para la mejor observancia de este ordenamiento, el Ejecutivo del Estado expedirá el Reglamento de la misma y dictará las determinaciones administrativas de su competencia para propiciar el tránsito de vehículos, lograr la conservación y llevar a cabo la vigilancia de los caminos, carreteras y puentes estatales, así como de los servicios auxiliares previstos en esta ley.
