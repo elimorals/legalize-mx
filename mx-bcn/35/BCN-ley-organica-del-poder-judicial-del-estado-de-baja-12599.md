@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2008-11-14"
+last_updated: "2008-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -103,7 +103,9 @@ V.- Los Juzgados de Primera Instancia Especializados para Adolescentes;
 
 VI.- Los Juzgados de Paz, y
 
-VII.- El Tribunal de Justicia Electoral.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+VII.- El Tribunal de Justicia Electoral, actuando en Pleno o en Salas.
 
 Los órganos del Poder Judicial del Estado, funcionarán de modo permanente e ininterrumpido durante cada año de actividades. El Consejo de la Judicatura dictará las medidas correspondientes para la organización permanente de las actividades de los juzgados de conformidad con el Título Decimoprimero de esta Ley.
 
@@ -187,7 +189,7 @@ Tratándose de los Jueces se aplicará lo dispuesto en el párrafo anterior, sal
 
 ###### ARTICULO 10.
 
-(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2008)
+(REFORMADO [N. DE E. DEROGADO], P.O. 14 DE NOVIEMBRE DE 2008)
 
 ###### ARTICULO 11.
 
@@ -195,7 +197,7 @@ Los servidores Públicos a que se refieren los tres artículos precedentes, rend
 
 ###### ARTICULO 12.
 
-(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2008)
+(REFORMADO [N. DE E. DEROGADO], P.O. 14 DE NOVIEMBRE DE 2008)
 
 ### CAPITULO II. DE LAS CONDICIONES
 
@@ -539,7 +541,7 @@ Si el proyecto del Magistrado ponente fue aprobado sin adiciones ni reformas, se
 
 ###### ARTICULO 49.
 
-Cuando un Magistrado estuviere impedido a conocer de un negocio o se excuse; aceptada que sea ésta o calificada de procedente el impedimento, o faltare accidentalmente, o esté ausente por un término no mayor de quince días, será suplido por el magistrado que de la Sala correspondiente designe el Presidente del Tribunal. En el caso del Magistrado de Sala Unitaria, el Pleno del Tribunal Superior de Justicia, por unanimidad o mayoría de votos, designará a uno de los Magistrados integrante de una de las Salas que conozcan de la materia penal, para que lo supla.
+Cuando un magistrado estuviere impedido a conocer de un negocio o se excuse; aceptada que sea ésta o calificada de procedente el impedimento, o faltare accidentalmente, o esté ausente por un término no mayor de quince días, será suplido por el magistrado que de la Sala correspondiente designe el Presidente del Tribunal. En el caso del Magistrado de Sala Unitaria, el Pleno del Tribunal Superior de Justicia, por unanimidad o mayoría de votos, designará a uno de los Magistrados integrante de una de las Salas que conozcan de la materia penal, para que lo supla.
 
 Cuando la excusa o impedimento afecte a dos o más de los magistrados de la Sala, conocerá del negocio la Sala que corresponda según la materia.
 
@@ -901,7 +903,9 @@ III.- Las demás que les confieren las leyes.
 
 > <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
-ARTICULO 81 BIS.- Los Jueces de Garantía podrán ser parte de los Tribunales de Juicio Oral y ejercer las facultades que competen a los Jueces que integran a estos, siempre y cuando no hayan conocido en las etapas previas del asunto que le corresponda resolver al citado Tribunal.
+###### ARTICULO 81 Bis.
+
+Los Jueces de Garantía podrán ser parte de los Tribunales de Juicio Oral y ejercer las facultades que competen a los Jueces que integran a estos, siempre y cuando no hayan conocido en las etapas previas del asunto que le corresponda resolver al citado Tribunal.
 
 ###### ARTICULO 82.
 
@@ -1003,9 +1007,9 @@ VII. Las demás que le confiera esta Ley, y la Ley de la materia.
 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-###### ARTICULO 90
+###### ARTICULO 90 Ter.
 
-Ter.- Son obligaciones de los Secretarios de Acuerdos de los Juzgados de Primera Instancia Especializados para Adolescentes:
+Son obligaciones de los Secretarios de Acuerdos de los Juzgados de Primera Instancia Especializados para Adolescentes:
 
 I.- Dar cuenta diariamente al Juez y acordar con él, los escritos y promociones de las partes, así como los oficios que se dirijan al Juzgado;
 
@@ -1017,9 +1021,9 @@ IV.- Las demás que les impongan las leyes.
 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-###### ARTICULO 90
+###### ARTICULO 90 Quater.
 
-Quater.- El Primer Secretario de Acuerdos tendrá además, las siguientes atribuciones:
+El Primer Secretario de Acuerdos tendrá además, las siguientes atribuciones:
 
 I. Sustituir al Juez en sus faltas temporales que no excedan de dos meses, en los términos que señale esta Ley;
 
@@ -1031,9 +1035,9 @@ IV. Dirigir las labores interiores de la oficina, de acuerdo con las instruccion
 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-###### ARTICULO 90
+###### ARTICULO 90 Quinquies.
 
-Quinquies.- El Actuario tendrá las siguientes obligaciones:
+El Actuario tendrá las siguientes obligaciones:
 
 I. Recibir de los Secretarios de Acuerdos los expedientes de notificaciones personales o de diligencias que deban llevarse a cabo fuera del Juzgado, firmando en el libro correspondiente;
 
@@ -2485,45 +2489,31 @@ Contará con presupuesto propio que administrará y ejercerá en los términos q
 
 Para los efectos de este Título, se entenderá por Tribunal, al Tribunal de Justicia Electoral del Poder Judicial del Estado de Baja California.
 
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 245.
 
 El Tribunal es competente para:
 
-I.- Resolver en forma definitiva y firme:
+I. Resolver en Pleno, en forma definitiva y firme:
 
-a) Las impugnaciones de las elecciones de Diputados, Munícipes y Gobernador del Estado.
+a) Las impugnaciones de las elecciones de Diputados. Munícipes y Gobernador del Estado.
 
-b) Las impugnaciones de actos y resoluciones de la autoridad electoral local distintas a las señaladas en el inciso anterior.
+El Tribunal sólo podrá declarar la nulidad de una elección por las causales que expresamente se establezcan en la Ley Electoral del Estado;
 
-c) Las impugnaciones de actos y resoluciones que violen los derechos político-electorales de los ciudadanos de votar y ser votado y de afiliación libre y pacífica para tomar parte de los asuntos políticos del Estado.
+b) Las impugnaciones de actos y resoluciones de la autoridad electoral local distintas a las señaladas en el inciso anterior;
 
-d) Sobre la imposición de sanciones en la materia.
+c) Las impugnaciones de actos y resoluciones que violen los derechos político electorales de los ciudadanos de votar y ser votado y de afiliación libre y pacífica para tomar parte de los asuntos políticos del Estado;
 
-e) Las demás que le señale la Ley.
+d) Las impugnaciones en contra de las resoluciones que dicten las Salas Unitarias del Tribunal;
 
-II.- Sustanciar y resolver los recursos que se interpongan en los términos de la Ley de la materia.
+e) Las impugnaciones en contra de los actos y resoluciones suscitados con motivo de los procesos de participación ciudadana, en los términos de la ley de la materia, y
 
-III.- Desechar, sobreseer y tener por no interpuestos, cuando proceda, los recursos o los escritos de terceros interesados.
+f) Las demás que le señale esta Ley y otros ordenamientos;
 
-IV.- Encomendar al secretario y actuario, la realización de diligencias que deban practicarse fuera del Tribunal.
+II. Resolver en Sala Unitaria, la imposición de sanciones derivadas de las quejas o denuncias instruidas por el Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado, por actos o hechos emitidos por los partidos políticos, sus dirigentes, militantes o simpatizantes, a excepción de las derivadas en materia de fiscalización sobre el origen, monto y destino de sus recursos, y
 
-V.- Determinar la fecha y hora de sus sesiones públicas.
-
-VI.- Presentar iniciativas de Leyes y Decretos en materia electoral, ante el Congreso del Estado.
-
-VII.- Fijar criterios obligatorios en los términos del Artículo 289 de esta Ley.
-
-VIII.- Expedir su Reglamento Interior y los acuerdos generales necesarios para su adecuado funcionamiento.
-
-IX.- Realizar tareas de capacitación, investigación y difusión en materia de derecho electoral.
-
-X.- Celebrar convenios de colaboración con otros tribunales, instituciones y autoridades para su mejor desempeño.
-
-XI.- Elaborar anualmente el Proyecto de Presupuesto de Egresos del Tribunal.
-
-XII.- Las demás que le señale esta Ley.
+III. Fijar criterios obligatorios en los términos del Artículo 289 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2543,13 +2533,25 @@ Los Juzgados de Primera Instancia del Orden Común, Civiles y Penales y los Juzg
 
 El Tribunal se integra con tres Magistrados Numerarios y hasta dos Magistrados Supernumerarios para cubrir ausencias o vacantes en los términos de esta Ley. Tendrá su sede en la Capital del Estado.
 
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+El Tribunal contará con un Secretario General de Acuerdos, Secretarios de Estudio y Cuenta, Actuarios y demás personal que requiera el servicio, conforme a la disponibilidad presupuestal del mismo.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 248.
 
-El Tribunal, para el cumplimiento de las atribuciones que la Ley le confiere, funcionará en Pleno y en única instancia.
+El Tribunal, para el cumplimiento de las atribuciones que la Ley le confiere, funcionará en Pleno y Salas.
 
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+El Pleno estará integrado por los tres Magistrados Numerarios, que conformarán en lo individual las Salas del Tribunal.
+
+Para la resolución de los medios de impugnación interpuestos en contra de las resoluciones que emitan las Salas, el Secretario General de Acuerdos, integrará el Pleno, en sustitución del Magistrado que hubiera dictado el fallo impugnado. El Secretario General de Acuerdos será sustituido para la Sesión, por el Secretario de Estudio y Cuenta que sea decano, o en su caso el de mayor edad, conforme al procedimiento reglamentario respectivo, observando lo dispuesto en el artículo 98 de esta Ley.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+#### SECCION PRIMERA. DEL PLENO
+
+(ADICIONADO, P.O. 4 DE MAYO DE 1998) (REUBICADO, P.O. 19 DE NOVIEMBRE DE 2008)
 
 ###### ARTICULO 249.
 
@@ -2561,21 +2563,31 @@ I.- Elegir de entre los Magistrados Electorales Numerarios a más tardar el diec
 
 II.- Designar, suspender, remover o cesar a propuesta del Presidente del Tribunal, al Secretario General y al Tribunal del Organo Administrativo de la Comisión de Administración.
 
-III.- Designar, suspender, remover o cesar a propuesta del Presidente del Tribunal o de alguno de los Magistrados Electorales, a los Secretarios, actuarios y demás personal jurídico del Tribunal.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+III.- Designar, suspender, remover o cesar a propuesta del Presidente del Tribunal o de alguno de los Magistrados Electorales, a los Secretarios de Estudio y Cuenta, actuarios y demás personal jurídico del Tribunal.
 
 IV.- Conceder o negar licencias por un plazo menor de dos meses, a los Magistrados Electorales que lo soliciten, y en su caso, llamar al Magistrado Supernumerario, en el orden de prelación que los nombró el Congreso del Estado.
 
-V.- Conceder o negar Licencias y acordar sobre las renuncias del Secretario General, secretarios, actuarios, demás personal jurídico, así como del Titular del Organo Administrativo.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
 
-VI.- Acordar llamar, en su caso, al Magistrado Supernumerario, en el orden de prelación que los nombró el Congreso del Estado por motivo de licencias por un plazo mayor de dos meses.
+V.- Conceder o negar Licencias y acordar sobre las renuncias del Secretario General, Secretarios de Estudio y Cuenta, actuarios, demás personal jurídico, así como del Titular del Organo Administrativo.
 
-VII.- Acordar llamar, en caso de renuncia y ausencia definitiva, al Magistrado Supernumerario, en el orden de prelación que los nombró el Congreso del Estado, hasta en tanto se elija al Magistrado Electoral Numerario.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+VI.- Acordar llamar, en su caso, al Magistrado Supernumerario, en el orden de prelación que los nombró el Congreso del Estado por motivo de licencias por un plazo mayor de dos meses, renuncia o ausencia definitiva hasta en tanto se elija al Magistrado Electoral Numerario.
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+VII.- Realizar tareas de capacitación, investigación y difusión en materia de derecho electoral.
 
 VIII.- Aprobar la suspensión, remoción y cese del personal administrativo, a propuesta de la Comisión de Administración o de algún Magistrado Electoral.
 
 IX.- Calificar y resolver sobre las excusas o impedimentos de los Magistrados Electorales, y en su caso, acordar llamar al Magistrado Supernumerario en el orden de prelación que los nombró el Congreso del Estado.
 
-X.- Aprobar lo relativo a los períodos vacacionales de los Magistrados Electorales, Secretario General, Secretarios, Actuarios y demás personal jurídico; así como aprobar el calendario oficial de los días de asueto.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+X.- Aprobar lo relativo a los períodos vacacionales de los Magistrados Electorales, Secretario General, Secretarios de Estudio y Cuenta, Actuarios y demás personal jurídico; así como aprobar el calendario oficial de los días de asueto.
 
 XI.- Conocer y resolver sobre la responsabilidad de los Magistrados Electorales y servidores del Tribunal en los términos de lo que dispone esta Ley.
 
@@ -2587,7 +2599,9 @@ XIV.- Suspender en sus cargos a los Magistrados Electorales, previa declaración
 
 XV.- Acordar las iniciativas de leyes y decretos, así como su presentación ante el Congreso del Estado.
 
-XVI.- Aprobar y en su caso, modificar el Reglamento Interior del Tribunal con base en el proyecto que le presente la Comisión de Administración.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+XVI.- Aprobar y en su caso, modificar el Reglamento Interior del Tribunal con base en el proyecto que le presente la Comisión de Administración o los magistrados electorales, así como expedir los acuerdos generales necesarios para su adecuado funcionamiento.
 
 XVII.- Discutir y en su caso, aprobar el proyecto de Presupuesto de Egresos del Tribunal, y acordar su envío al Tribunal Superior de Justicia, por conducto de su Presidente, para que se incluya agregadamente al Proyecto del Poder Judicial.
 
@@ -2601,21 +2615,73 @@ XXI.- Vigilar que se cumplan las normas de registro y seguimiento de situación 
 
 XXII.- Emitir las bases, mediante acuerdos generales, para que las adquisiciones, arrendamientos, enajenaciones de todo tipo de bienes, y las contrataciones que realice el Tribunal, en ejercicio de su Presupuesto de Egresos, se ajuste a los criterios previstos en las leyes correspondientes.
 
-XXIII.- Las demás que esta Ley y el Reglamento Interior establezcan.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
 
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+XXIII.- Celebrar convenios de colaboración con otros tribunales, instituciones y autoridades para su mejor desempeño, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+XXIV.- Las demás que esta Ley y el Reglamento Interior establezcan.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 250.
 
-Las sesiones de resolución del Tribunal funcionando en única instancia, serán públicas.
+Las sesiones de resolución del Pleno del Tribunal funcionando en única instancia, serán públicas.
 
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 251.
 
-Para que el Tribunal sesione válidamente en única instancia, se requiere la presencia de todos los Magistrados Electorales, y las resoluciones se tomarán por unanimidad o mayoría de votos.
+Para que el Pleno del Tribunal sesione válidamente en única instancia, se requiere la presencia de todos los Magistrados Electorales, y las resoluciones se tomarán por unanimidad o mayoría de votos.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
 Para sesionar válidamente en Pleno y resolver cuestiones administrativas internas del funcionamiento del Tribunal, es necesaria la presencia de por lo menos las dos terceras partes de sus integrantes, y sus determinaciones serán válidas con el voto de la mayoría de los presentes.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+#### SECCION SEGUNDA. DE LAS SALAS
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 251 BIS.- Las Salas del Tribunal serán Unitarias, integradas por un Magistrado Electoral Numerario, designadas por número ordinario. Las resoluciones se tomarán por decisión del Magistrado integrante.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 251 TER.- Las Salas Unitarias del Tribunal son competentes para sustanciar y resolver exclusivamente las denuncias o quejas a que se refiere la fracción 11del artículo 245 de esta Ley, conforme al procedimiento previsto en la Ley Electoral del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 251 QUATER.- Son facultades de los Magistrados de Salas:
+
+I. Llevar la correspondencia de la Sala, autorizándola con su firma;
+
+II. Aplicar las medidas y criterios que exijan el orden, buen servicio y la disciplina de la Sala;
+
+III. Requerir cualquier informe o documento que, obrando en poder de los órganos del Instituto Electoral y de Participación Ciudadana del Estado, o de las autoridades estatales y municipales, puedan servir para la sustanciación o resolución de las denuncias o quejas competencia de la Sala;
+
+IV. Dictar resolución en los expedientes sobre denuncias y quejas competencia de las Salas, que le sean turnados;
+
+V. Imponer las correcciones disciplinarias al personal adscrito a la Sala;
+
+VI. Emitir opinión respecto de las solicitudes de Licencia, que presente el personal de la Sala;
+
+VII. Rendir oportunamente un Informe al Presidente del Tribunal, respecto de las labores de las Salas y principales resoluciones dictadas por ellas, y
+
+VIII. Las demás que les señalen las disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 251 QUINQUES.- Toda resolución que pronuncien las Salas deberá ser firmada por el Magistrado integrante, y por el Secretario de Estudio y Cuenta, adscrito a ella, quien dará fé; le corresponderá de igual forma firmar las actuaciones de la Salas, y expedir las constancias o certificaciones que se requieran.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 251 SEXIES.- Cuando un Magistrado estuviere impedido a conocer de alguna denuncia o queja o se excuse; aceptada que sea ésta o calificada de procedente el impedimento por el Pleno, el Presidente del Tribunal turnará de manera inmediata, el expediente a la Sala siguiente en turno.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 251 SEPTIES.- Para el desempeño de los asuntos que tiene encomendados cada Sala Unitaria, tendrá por lo menos en año electoral dos Secretarios de Estudio y Cuenta, un Actuario, y demás personal jurídico que fije el presupuesto de egresos respectivo.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2639,7 +2705,9 @@ II.- Presidir el Tribunal y a la Comisión de Administración.
 
 III.- Convocar a los demás Magistrados Electorales para el inicio de sus Trabajos.
 
-IV.- Convocar a los Magistrados Electorales del Tribunal, a sesiones públicas y a reuniones privadas; y tomar las medidas necesarias para coordinar las funciones jurisdiccionales y administrativas del mismo.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+IV.- Convocar a los Magistrados Electorales del Tribunal, a sesiones públicas por lo menos con veinticuatro horas de anticipación, y a reuniones privadas; y tomar las medidas necesarias para coordinar las funciones jurisdiccionales y administrativas del mismo.
 
 V.- Conducir las sesiones, dirigir los debates y conservar el orden durante los mismos; cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo y la continuación de la sesión en privado.
 
@@ -2659,9 +2727,13 @@ XII.- Llamar a los Magistrados Supernumerarios, para cubrir las ausencias tempor
 
 XIII.- Incorporarse al Consejo de la Judicatura, en los términos que disponga esta Ley.
 
-XIV.- Turnar a los Magistrados Electorales, de conformidad con lo dispuesto en el Reglamento Interior, los expedientes de los recursos interpuestos, a través del procedimiento que acuerde el Pleno.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
 
-XV.- Requerir cualquier informe o documento que, obrando en poder de los órganos del Instituto Estatal Electoral o de las autoridades estatales y municipales, puedan servir para la sustanciación o resolución de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos señalados en las leyes.
+XIV.- Turnar a los Magistrados Electorales, de conformidad con lo dispuesto en el Reglamento Interior, los expedientes de los recursos interpuestos; así como distribuir los asuntos a cada una de las Salas, como mejor convenga a la buena marcha del Tribunal, por riguroso turno.
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+XV.- Requerir cualquier informe o documento que, obrando en poder de los órganos del Instituto Electoral y de Participación Ciudadana del Estado, o de las autoridades estatales y municipales, puedan servir para la sustanciación o resolución de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos señalados en las leyes.
 
 XVI.- Ordenar, en casos extraordinarios, que se realicen diligencias o se perfeccione alguna prueba, siempre que ésto no sea obstáculo para resolver dentro de los plazos establecidos en las leyes.
 
@@ -2687,7 +2759,9 @@ XXVI.- Rendir al Pleno, un informe en el que se de cuenta de la marcha del Tribu
 
 XXVII.- Conocer diariamente durante el proceso electoral, el número y tipo de recursos recibidos, los expedientes que se encuentran en etapa de substanciación, los que estén para resolución, los Magistrados ponentes, y las resoluciones que les hubieren recaído.
 
-XXVIII.- Proporcionar al Congreso del Estado y al Consejo Estatal Electoral, los informes que soliciten respecto a la impartición de justicia electoral.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+XXVIII.- Proporcionar al Congreso del Estado y al Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado, los informes que soliciten respecto a la impartición de justicia electoral.
 
 XXIX.- Proyectar y someter a la consideración del Pleno, el Presupuesto Anual de Egresos del Tribunal, y una vez aprobado enviarlo oportunamente al Presidente del Tribunal Superior de Justicia, a efecto de que se incluya agregadamente en el Presupuesto del Poder Judicial.
 
@@ -2789,7 +2863,9 @@ XV.- Someter a la consideración del Tribunal, los proyectos de acumulación de 
 
 XVI.- Someter al Tribunal, los proyectos de resolución que ordenen archivar como asuntos total y definitivamente concluídos, las impugnaciones que se encuadren en estos supuestos, de conformidad con la Ley aplicable.
 
-XVII.- Formular los requerimientos necesarios para la debida integración de los expedientes, y solicitar al Presidente del Tribunal se requiera cualquier informe o documento que obre en poder de los órganos del Instituto Estatal Electoral, de las autoridades federales, estatales, municipales o de los partidos políticos, o de particulares, que pueda servir para la sustanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos, de conformidad con la Ley aplicable.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+XVII.- Formular los requerimientos necesarios para la debida integración de los expedientes, y solicitar al Presidente del Tribunal se requiera cualquier informe o documento que obre en poder de los órganos del Instituto Electoral y de Participación Ciudadana, de las autoridades federales, estatales, municipales o de los partidos políticos, o de particulares, que pueda servir para la sustanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos, de conformidad con la Ley aplicable.
 
 XVIII.- Girar exhortos a los juzgados federales o estatales encomendándoles la realización de alguna diligencia en el ámbito de su competencia.
 
@@ -2811,9 +2887,13 @@ I.- Apoyar al Presidente del Tribunal en las tareas que le encomiende y en gener
 
 II.- Dar cuenta, tomar las votaciones y formular el acta respectiva en las sesiones del Pleno y del Tribunal.
 
-III.- Autorizar con su firma las actuaciones del Pleno y del Tribunal, y expedir las constancias que se requieran.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
 
-IV.- Llevar el control del turno de los Magistrados Electorales para conocer los recursos interpuestos, y de las ponencias de resolución o sentencia sobre los mismos.
+III.- Tener Título de Licenciado en Derecho, expedido cuando menos con tres años de anterioridad al día de la designación, por institución legalmente facultada.
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+IV.- Llevar el control del turno de los Magistrados Electorales para conocer los recursos interpuestos, y de las ponencias de resolución o sentencia sobre los mismos; así como llevar el control de turno que corresponda a las Salas del Tribunal.
 
 V.- Llevar el registro de las sustituciones de los Magistrados Electorales.
 
@@ -2977,13 +3057,19 @@ III.- El cumplimiento de las normas y disposiciones relativas a los sistemas de 
 
 Para ser electo Magistrado Electoral del Tribunal, se requiere, además de satisfacer los requisitos señalados en el Artículo 60 de la Constitución Política del Estado, los siguientes:
 
-I.- Estar inscrito en el Padrón Estatal Electoral y contar con su Credencial Estatal de Elector.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+I.- Estar inscrito en el Padrón Electoral y contar con su credencial para votar que expida la autoridad electoral federal.
 
 II.- No ser, ni haber sido Ministro de alguna asociación o culto religioso.
 
 III.- No desempeñar, ni haber desempeñado cargo directivo en algún partido político.
 
 IV.- No haber sido postulado o registrado a cargo de elección popular.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+V.- No haber desempeñado cargo de representante de partido político ante algún órgano electoral federal o estatal.
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2997,15 +3083,55 @@ II.- Tener treinta años de edad por lo menos, al día de la designación.
 
 III.- Tener Título Profesional, expedido cuando menos con tres años de anterioridad al día de la designación, por institución legalmente facultada.
 
-IV.- Estar inscrito en el Padrón Estatal Electoral y contar con su Credencial Estatal de Elector.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+IV.- Estar inscrito en el Padrón Electoral y contar con su credencial para votar que expida la autoridad electoral federal.
 
 V.- No ser, ni haber sido Ministro de alguna asociación o culto religioso.
 
 VI.- No ser o haber sido dirigente nacional, estatal o municipal de algún partido político.
 
-VII.- No haber sido postulado o registrado a cargos de elección popular, en los últimos seis años anteriores a la elección.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+VII.- No haber sido postulado o registrado a cargos de elección popular.
 
 VIII.- Gozar de buena reputación.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+IX.- No haber desempeñado cargo de representante de partido político ante algún órgano electoral federal o estatal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO269.- Para ser Secretario de Estudio y Cuenta del Tribunal, deberán reunirse los requisitos siguientes:
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
+
+I.- Ser ciudadano mexicano con residencia efectiva en el Estado no menor de tres años, y en pleno ejercicio de sus derechos políticos y civiles.
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
+
+II.- Haber cumplido por lo menos veinticinco años de edad al día de la designación.
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
+
+III.- Tener título de Licenciado en Derecho, expedido y registrado en los términos de la Ley de la materia.
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+IV.- Estar inscrito en el Padrón Electoral y contar con su credencial para votar que expida la autoridad electoral federal.
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+V.- No haber sido postulado a cargos de elección popular.
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
+
+VI.- Gozar de buena reputación.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+VII.- No haber desempeñado cargo de representante de partido político ante algún órgano electoral federal o estatal.
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -3037,11 +3163,19 @@ II.- Haber cumplido por lo menos veintitrés años de edad al día de la designa
 
 III.- Tener título de Licenciado en Derecho, expedido y registrado en los términos de la Ley de la materia.
 
-IV.- Estar inscrito en el Padrón Estatal Electoral y contar con su Credencial Estatal de Elector.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
 
-V.- No haber sido postulado a cargos de elección popular, en los últimos seis años anteriores a la elección.
+IV.- Estar inscrito en el Padrón Electoral y contar con su credencial para votar que expida la autoridad electoral federal.
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+V.- No haber sido postulado a cargos de elección popular.
 
 VI.- Gozar de buena reputación.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+VII.- No haber desempeñado cargo de representante de partido político ante algún órgano electoral federal o estatal.
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -3055,11 +3189,19 @@ II.- Haber cumplido por lo menos veintiocho años de edad al día de la designac
 
 III.- Tener Título Profesional de Licenciado en Contaduría Pública, Derecho, Administración de Empresas, Economía, Administración Pública o Licenciaturas afines.
 
-IV.- Estar inscrito en el Padrón Estatal Electoral y contar con su Credencial Estatal de Elector.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
 
-V.- No haber sido postulado a cargos de elección popular en los últimos seis años anteriores a la elección.
+IV.- Estar inscrito en el Padrón Electoral y contar con su credencial para votar que expida la autoridad electoral federal.
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+V.- No haber sido postulado a cargos de elección popular.
 
 VI.- Gozar de buena reputación.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+VII.- No haber desempeñado cargo de representante de partido político ante algún órgano electoral federal o estatal.
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -3083,7 +3225,13 @@ Los Magistrados Electorales del Tribunal, sólo podrán ser removidos de sus car
 
 Los Magistrados Electorales deberán excusarse de conocer los asuntos que tengan interés personal por relaciones de parentesco, negocios, amistad estrecha o enemistad que pueda afectar su imparcialidad. El Pleno del Tribunal, calificará y resolverá de inmediato la excusa, de conformidad con el Reglamento Interior, llamando, en su caso, al Magistrado Supernumerario en el orden de prelación señalado por el Congreso del Estado.
 
-Asimismo, al Secretario General y a los secretarios del Tribunal, les será aplicable, lo dispuesto en el párrafo anterior.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+Los Magistrados Electorales están impedidos para conocer de los medios de impugnación que se interponga en contra de las resoluciones emitidas por la Sala que integren. En estos casos, corresponderá al Secretario General de Acuerdos, integrar el Pleno para la resolución respectiva.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+Asimismo, al Secretario General Acuerdos y a los Secretarios de Estudio y Cuenta del Tribunal, les será aplicable, lo dispuesto en el párrafo primero.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -3434,3 +3582,13 @@ QUINTO.- Los aspirantes del Poder Judicial del Estado que accedan a la etapa de 
 SEXTO.- Los aspirantes que aparezcan en la lista que remita el Consejo de la Judicatura al Pleno del Tribunal Superior de Justicia y que no hayan sido designados Jueces, integrarán una reserva de personas que en caso de existir vacantes para el nuevo sistema de justicia penal, podrán ser designados Jueces por el Pleno del Tribunal Superior de Justicia del Estado.
 
 La citada reserva, tendrá vigencia de un año contado a partir de la fecha en que se hayan realizado las designaciones de Jueces y será exclusivamente para el Partido Judicial de Mexicali.
+
+P.O. 19 DE NOVIEMBRE DE 2008.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Tribunal de Justicia Electoral del Poder Judicial del Estado, de conformidad a sus atribuciones, deberá adecuar su reglamentación interna, a más tardar en el mes de febrero de 2009.
+
+TERCERO.- Quienes se encuentren ejerciendo el cargo de Secretario General y Secretarios al momento de la entrada en vigor del presente Decreto, pasarán a ser el Secretario General de Acuerdos y los Secretarios de Estudio y Cuenta a que se refiere la presente reforma, según corresponda, conservando sus derechos laborales adquiridos.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
