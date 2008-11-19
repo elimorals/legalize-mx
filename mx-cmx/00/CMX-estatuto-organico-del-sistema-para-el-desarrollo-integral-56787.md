@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-sistema-para-el-desarrollo-integral-56787
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-09-24"
-last_updated: "2008-07-17"
+last_updated: "2008-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56787&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-07-06"
 
 ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE NOVIEMBRE DE 2008.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el lunes 24 de septiembre de 2007.
 
@@ -576,17 +576,21 @@ XLIV. Establecer las políticas generales y específicas para el uso y aprovecha
 
 XLV. Desarrollar acciones de Protección Civil, al interior del Organismo, que garanticen la integridad de los trabajadores, así como de los bienes de la institución;
 
-> <small>(REFORMADA, G.O. 17 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, G.O. 19 DE NOVIEMBRE DE 2008)</small>
 
-XLVI. Celebrar los contratos de prestación de servicios, adquisiciones y obras, así como iniciar y agotar el procedimiento de rescisión de dichos contratos;
+XLVI. Celebrar toda clase de contratos, convenios, acuerdos y demás instrumentos jurídicos contemplados en la normatividad vigente, relativos a adquisiciones, arrendamientos, obras y prestación de servicios, en materia civil, administrativa, mercantil, laboral. Así como conocer, iniciar, substanciar, agotar y resolver los procedimientos de rescisión administrativa, terminación anticipada, suspensión temporal y definitiva de los contratos, convenios, acuerdos y demás instrumentos jurídicos que haya celebrado en nombre y representación del Sistema para el Desarrollo Integral de la Familia del Distrito Federal, adicionalmente podrá efectuar la ejecución de las garantías de cumplimiento de los contratos;
 
 > <small>(ADICIONADA, G.O. 17 DE JULIO DE 2008)</small>
 
 XLVII. Delegar atribuciones a sus direcciones de área con base en el Manual Administrativo del DIF-DF;
 
-> <small>(ADICIONADA, G.O. 17 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, G.O. 19 DE NOVIEMBRE DE 2008)</small>
 
-XLVIII. Las demás que le confieran la Dirección General y las disposiciones legales vigentes.
+XLVIII. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de los que tenga acceso con motivo del desarrollo de sus funciones; y
+
+> <small>(ADICIONADA, G.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+XLIX. Las demás que le confiera la Dirección General y las disposiciones legales vigentes.
 
 ### CAPÍTULO XII. DE LAS ATRIBUCIONES DE LA COMISARIA O COMISARIO
 
@@ -594,45 +598,81 @@ XLVIII. Las demás que le confieran la Dirección General y las disposiciones le
 
 Corresponde a la Contraloría Interna la competencia de los siguientes asuntos:
 
-I. Proponer para la aprobación del o la titular de la Dirección General de Contralorías Internas, el programa de implantación y seguimiento de control interno para cada ejercicio presupuestal, manteniendo un seguimiento sistemático de su ejecución;
+> <small>(REFORMADA, G.O. 19 DE NOVIEMBRE DE 2008)</small>
 
-II. Asistir a las sesiones de los Comités y Subcomités instalados en la Entidad en términos de las disposiciones jurídicas administrativas aplicables;
+I. Proponer, para la aprobación del o la Titular de la Dirección General de Contralorías Internas en Entidades, el Programa de Auditoría para cada ejercicio presupuestal, sus modificaciones y mantener el seguimiento sistemático de su ejecución;
 
-III. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo de la práctica de verificaciones, revisiones, inspecciones, visitas, procedimientos disciplinarios y demás de las que tenga acceso con motivo del desarrollo de sus actividades;
+> <small>(REFORMADA, G.O. 19 DE NOVIEMBRE DE 2008)</small>
 
-IV. Intervenir en todos los procesos administrativos, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, enajenación de bienes muebles, almacenes e inventarios, a efecto de vigilar que cumplan con las normas jurídicas y administrativas aplicables;
+II. Asistir y participar en los órganos de gobierno, comités, subcomités y demás cuerpos colegiados, instalados en la Entidad, en términos de las disposiciones jurídicas y administrativas aplicables;
 
-V. Atender los requerimientos que les formule la Contraloría General derivados de las funciones que tienen encomendadas;
+> <small>(REFORMADA, G.O. 19 DE NOVIEMBRE DE 2008)</small>
 
-VI. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las Direcciones Ejecutivas y la Coordinación de Administración, así como a proveedores, contratistas y prestadores de servicio, cuando lo estime conveniente;
+III. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo de la práctica de auditorías, verificaciones, revisiones, inspecciones y visitas; procedimientos administrativos disciplinarios, y demás de las que tenga acceso con motivo del desarrollo de sus actividades;
 
-VII. Intervenir en las actas de entrega-recepción que realicen los titulares y servidores públicos de la Entidad, a fin de vigilar de que se cumpla la normatividad aplicable, y en caso de incumplimiento, determinar las responsabilidades y sanciones administrativas correspondientes;
+> <small>(REFORMADA, G.O. 19 DE NOVIEMBRE DE 2008)</small>
 
-VIII. Conocer, investigar, desahogar y resolver procedimientos disciplinarios sobre actos u omisiones de servidores públicos adscritos a la Entidad que pudiera afectar la legalidad, honradez, lealtad, imparcialidad y eficiencia que debe observar en el desempeño de su empleo, cargo o comisión de las cuales tengan conocimiento por cualquier medio, para determinar en su caso las sanciones que correspondan en términos de la ley de la materia;
+IV. Ejecutar verificaciones, revisiones, inspecciones, visitas e intervenir en todos los procesos administrativos que efectúe la Entidades (sic), en las materia relativas a: procedimientos, ingresos, egresos, programación, presupuestación, ejercicio presupuestal, inversión, financiamiento, recursos económicos en general, deuda pública, subsidios, ayudas, donaciones, aportaciones y trasferencias federales, sistemas de registro, contabilidad y presupuesto, recursos humanos, adquisiciones, arrendamientos, servicios, obra pública, conservación, uso, destino, afectación, enajenación, adquisición y baja de bienes muebles e inmuebles, almacenes, inventarios, activos, pasivos y demás que correspondan; en términos de las disposiciones jurídicas y administrativas aplicables;
 
-IX. Substanciar y resolver los recursos de revocación que se promuevan en contra de resoluciones que impongan sanciones administrativas a los servidores públicos, en términos de las disposiciones jurídicas y administrativas aplicables;
+> <small>(REFORMADA, G.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+V. Atender los requerimientos que les formule la Contraloría General, por conducto de su titular o, a través de sus direcciones generales, ejecutivas o de área;
+
+> <small>(REFORMADA, G.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+VI. Requerir de acuerdo con la naturaleza de sus funciones, información y documentación a las Dependencias y Órganos Desconcentrados, Delegaciones, Entidades, y Contralorías Internas, así como a proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenaciones y todos los que tengan alguna participación en los procedimientos previstos en el marco jurídico del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+VII. Intervenir en las actas de entrega-recepción que realicen los titulares y servidores públicos de la Entidad, y personal de la contraloría interna, a fin de vigilar que se cumpla con la normatividad aplicable, y en caso de incumplimiento, determinar las responsabilidades y sanciones administrativas correspondientes;
+
+> <small>(REFORMADA, G.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+VIII. Conocer, investigar, iniciar, desahogar y resolver procedimientos administrativos disciplinarios sobre actos, omisiones e incumplimiento a los requerimientos que efectúe la contraloría interna, respecto de servidores públicos adscritos a la Entidad, que pudieran afectar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión, de los cuales tengan conocimiento por cualquier medio, para determinar, en su caso, las sanciones que correspondan en los términos de la Ley de la materia;
+
+> <small>(REFORMADA, G.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+IX. Conocer, substanciar y resolver los recursos de revocación que se promuevan en contra de resoluciones que impongan sanciones administrativas a los servidores públicos, en términos de las disposiciones jurídicas y administrativas aplicables;
 
 X. Acordar cuando proceda, la suspensión temporal de los servidores públicos de sus empleos, cargos o comisiones cuando a su juicio resulte conveniente para la conducción o continuación de las investigaciones;
 
-XI. Verificar a través del Sistema de Seguimiento que para tal efecto se establezca, que la entidad atienda hasta su conclusión las observaciones y recomendaciones de la Contaduría Mayor de Hacienda de la Asamblea Legislativa, así como de las de la Auditoría Superior de la Federación;
+> <small>(REFORMADA, G.O. 19 DE NOVIEMBRE DE 2008)</small>
 
-XII. Verificar la aplicación de los indicadores de gestión que emita la Dirección General de Evaluación y Diagnóstico para lograr el cumplimiento por parte de la Entidad, de las disposiciones en materia de planeación, programación, presupuestación, ingreso, egresos, financiamiento, inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado de éstas, así como en materia de adquisiciones, arrendamientos, servicios, obra pública y demás que señalen las disposiciones jurídicas administrativas aplicables;
+XI. Dar seguimiento hasta su solventación, a las observaciones y recomendaciones generadas a la Entidad, por la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, de la Auditoría Superior de la Federación, y otros órganos de fiscalización. Asimismo, dar seguimiento a la Carta de Recomendaciones de los Auditores Externos, en su caso;
+
+> <small>(REFORMADA, G.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+XII. Verificar la aplicación de los indicadores de gestión establecidos por la Contraloría General para la Entidad, a efecto de evaluar el desempeño y resultados de las mismas;
 
 XIII. Conocer, desahogar y resolver a través de la unidad correspondiente el proceso de Aclaración de los Actos, en términos de la Ley de Obras Públicas del Distrito Federal;
 
 XIV. Supervisar el cumplimiento de las obligaciones fiscales por parte de la Entidad;
 
-XV. Participar con la representación que corresponda, en los Comités de Control y Auditoria y demás sistemas de evaluación y diagnóstico, para verificar el cumplimiento de la implantación de Sistemas de Control y Prevención específicos por parte de la entidad;
+> <small>(REFORMADA, G.O. 19 DE NOVIEMBRE DE 2008)</small>
 
-XVI. Asistir a las sesiones de la Junta de Gobierno;
+XV. Ordenar y ejecutar auditorías ordinarias y extraordinarias a la Entidad, conforme a los programas establecidos y autorizados; a fin de promover la eficiencia en sus operaciones y verificar el cumplimiento de sus objetivos, y de las disposiciones legales, reglamentarias y administrativas vigentes;
+
+> <small>(REFORMADA, G.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+XVI. Elaborar y remitir a la Dirección General de Contralorías Internas en Entidades, los informes periódicos relativos al Programa de Auditoría, Programa Operativo Anual, otros programas, informes, reportes, datos, y demás documentación solicitada que se les requiera;
 
 XVII. Formular propuestas de mejoras regulatorias y administrativas tendientes a hacer más eficiente la operación y prevención de cualquier posible desviación en la operación de la Entidad;
 
 XVIII. Dar contestación a las opiniones y propuestas de las Contraloras o Contralores Ciudadanos que sean remitidos por la Dirección Ejecutiva de Contraloría Ciudadana;
 
-XIX. Vigilar que la entidad cumpla con las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y su Reglamento; y
+XIX. Vigilar que la entidad cumpla con las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y su Reglamento; y (sic)
 
-XX. Las demás atribuciones que se deriven de este Estatuto u otras disposiciones legales.
+> <small>(REFORMADA, G.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+XX. Suspender temporal o definitivamente, declarar la nulidad y reposición, en su caso, de los procedimientos de licitación pública, invitación restringida a cuando menos tres proveedores o contratistas, adjudicaciones directas, así como cualesquiera otros procesos y procedimientos administrativos previstos en los ordenamientos aplicables vigentes;
+
+> <small>(ADICIONADA, G.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+XXI. Ordenar y realizar visitas e inspecciones a las instalaciones de los proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en los procesos administrativos que efectúa la Entidad, las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos y demás previstos en el marco jurídico del Gobierno del Distrito Federal, para vigilar que cumplan con lo establecido en los contratos, convenios, títulos concesión, acuerdos, permisos, cualquier otro instrumento jurídico, así como en las normas y disposiciones jurídicas y administrativas aplicables; y
+
+> <small>(ADICIONADA, G.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+XXII. Las demás atribuciones que se deriven de este Estatuto, así como las que le instruya el titular de la Contraloría General, el titular de la Dirección General de Contralorías Internas en Entidades; y las que le otorguen otros ordenamientos jurídicos ó administrativos.
 
 ### CAPÍTULO XIII. DE LA SUPLENCIA DE LAS Y LOS SERVIDORES PÚBLICOS
 
@@ -737,3 +777,7 @@ C. JESÚS SALVADOR VALENCIA GUZMAN
 G.O. 17 DE JULIO DE 2008.
 
 PRIMERO. Las reformas del presente Estatuto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 19 DE NOVIEMBRE DE 2008.
+
+PRIMERO. Las reformas del presente Estatuto entrará (sic) en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
