@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2008-11-05"
+last_updated: "2008-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -189,7 +189,9 @@ II. Formar parte de por lo menos una comisión legislativa o comité;
 
 III. Formar parte de la Mesa Directiva del Congreso del Estado;
 
-IV. Iniciar leyes o decretos, proponer reformas, acuerdos, exhortos, pronunciamientos e intervenir en las discusiones y votaciones de los mismos;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+IV. Iniciar leyes o decretos, proponer reformas, acuerdos, exhortos, pronunciamientos e intervenir en las discusiones y votaciones de los mismos; proponer al pleno del Congreso del Estado modificaciones a la Constitución Política de los Estados Unidos Mexicanos o leyes federales;
 
 V. Formar parte de un grupo o fracción parlamentaria;
 
@@ -577,6 +579,8 @@ VII. Las demás que se derivan de esta Ley y de los ordenamientos relativos.
 
 ### CAPÍTULO III. DE LAS COMISIONES LEGISLATIVAS
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 44.
 
 La Junta Política y de Gobierno es la expresión de la pluralidad del Congreso del Estado; por tanto, es el órgano colegiado en el que se impulsan entendimientos y convergencias políticas, con las instancias y órganos que resulten necesarios a fin de alcanzar acuerdos para que el pleno del Congreso del Estado, adopte las decisiones que constitucional y legalmente le corresponda.
@@ -701,7 +705,7 @@ El procedimiento para la integración de la Agenda Legislativa, se establecerá 
 
 ###### Artículo 53.
 
-Las comisiones legislativas, son órganos colegiados constituidos por el pleno del Congreso del Estado, cuyas funciones son las de conocer, analizar, investigar, discutir y en su caso dictaminar, las iniciativas de ley, los proyectos de decreto y demás asuntos que les sean turnados.
+Las comisiones legislativas, son órganos colegiados constituidos por el pleno del Congreso del Estado, cuyas funciones son las de conocer, analizar, investigar, discutir y en su caso dictaminar, las iniciativas de ley, los proyectos de decreto y demás asuntos que les sean turnados. Emitirán en su caso, acuerdos parlamentarios que se someterán a la aprobación del pleno.
 
 ###### Artículo 54.
 
@@ -1604,3 +1608,9 @@ Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para
 ###### ARTÍCULO TERCERO.
 
 Para los efectos del reglamento del Congreso del estado la presente reforma entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
+
+P.O. 19 DE NOVIEMBRE DE 2008.
+
+Primero.- Una vez aprobado que sea el presente Decreto, entrará en vigor el mismo día de su aprobación.
+
+Segundo.- Para efectos de su difusión, publíquese en la Gaceta Legislativa de este Congreso del Estado y en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
