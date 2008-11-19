@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-instituciones-y-procesos-electorales-del-estado-de-20104
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-30"
-last_updated: "2006-10-16"
+last_updated: "2008-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 19 DE NOVIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 30 de octubre de 2000.
 
@@ -6544,3 +6546,59 @@ TERCERO.- Lo dispuesto en los artículos 281 BIS y 281 TER se aplicará por lo m
 CUARTO.- Lo dispuesto en los artículos 94 y 105 se aplicará a partir del proceso electoral estatal que se lleve a cabo en el año 2010.
 
 QUINTO.- La acreditación que hayan obtenido los partidos políticos nacionales en términos de la ley que se reforma conservará su validez hasta en tanto no se actualicen los supuestos de cancelación.
+
+P.O. 19 DE NOVIEMBRE DE 2008.
+
+PRIMERO.- La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.-Se abroga la Ley de Instituciones y Procesos Electorales del Estado de Baja California, publicada en el Periódico Oficial del Estado, de fecha 30 de octubre de 2000, así como sus reformas y adiciones.
+
+TERCERO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+CUARTO.-Todos los documentos expedidos por los órganos del Instituto Estatal Electoral y el Instituto Electoral de Participación Ciudadana, antes de la entrada en vigor de esta Ley, conservarán su plena validez.
+
+QUINTO.-El Consejo General al tercer día de la entrada en vigor del presente Decreto, deberá designar al Director General del Instituto Electoral conforme al procedimiento del artículo 154 de esta Ley.
+
+SEXTO.- Cuando con motivo del presente Decreto, cualquier departamento del Instituto Electoral cambie de adscripción, el traspaso se hará incluyendo al personal a su servicio, las asignaciones presupuestales autorizadas, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y demás bienes que haya utilizado para la atención de los asuntos a su cargo, con las previsiones siguientes:
+
+I.- La Dirección General del Registro Estatal de Electores, vigente con motivo de la Ley que se abroga, deberá en un plazo de cinco días naturales contados a partir de la entrada en vigor del presente Decreto, entregar los archivos, bienes y recursos materiales de la misma, a 1ª Dirección General del Instituto Electoral y de Participación Ciudadana del Estado, o en su caso, al responsable de la administración de dicho Instituto.
+
+II.- La Dirección de Prerrogativas y Partidos Políticos.,estará en funciones hasta en tanto se designe al Titular de la Dirección de Fiscalización de los Recursos de 10s Partidos Políticos del Consejo General del Instituto Electoral y de Participación Ciudadana del Estado, para ejercer exclusivamente las funciones de fiscalización a partidos políticos en términos de la Ley que se abroga; asimismo deberá en un plazo de cinco días contados a partir de la vigencia del presente Decreto, poner a disposición del Secretario Fedatario del Consejo General, los archivos relacionados con los partidos políticos, para el ejercicio de las funciones que conforme al presente Decreto le corresponde a éste.
+
+III.- Las Direcciones de Organización Electoral, y de Capacitación Electoral y Educación Cívica, vigentes con motivo de 1a Ley que se abroga, deberán en un plazo de cinco días contados a partir de la entrada en vigor del presente Decreto, entregar los archivos, bienes y recursos materiales de las mismas, a la Dirección General del Instituto Electora1 y de Participación Ciudadana del Estado, o en su caso, al responsable de la administración de dicho Instituto.
+
+IV.- El Auxiliar de Auditoría Interna de la Comisión de 1a Fiscalización, Presupuesto y Administración del Consejo Estatal Electoral vigente con motivo de la Ley que se abroga, desempeñará su encargo hasta en tanto entre en funciones el Titular de la Contraloría General del Instituto Electoral y de Participación Ciudadana del Estado, debiendo en su oportunidad poner a disposición de éste, los archivos y bienes relacionados con su función.
+
+El Consejero Presidente del Consejo General, bajo su más estricta responsabilidad, garantizará el cumplimiento de este artículo.
+
+SÉPTlMO.- Los medios de impugnación, denuncias o quejas, que a la entrada en vigor del presente Decreto se encuentren en trámite, deberán resolverse conforme ala Ley que se abroga.
+
+OCTAVO.- La fiscalización de los ingresos y egresos de los partidos políticos correspondientes al ejercicio fiscal 2007, así como la presentación y fiscalización del ejercicio fiscal 2008, se realizarán en los términos de la Ley que se abroga, y del Reglamento que establece los lineamientos para la presentación y fiscalización de los informes financieros de tos partidos políticos y coaliciones, aprobado en los términos de la Ley que se abroga.
+
+NOVENO.- El Consejo General a más tardar en el mes de marzo de 2009, deberá designar al Titular de la Dirección de Fiscalización de los Recursos de los Partidos Políticos del Consejo General del Instituto Electoral y de Participación Ciudadana del Estado.
+
+DÉCIMO.-El Congreso del Estado, dentro de los cinco días siguientes a la entrada en vigor de este Decreto, emitirá la convocatoria pública a que se refiere el artículo 502 del presente Decreto, para la designación del Titular de la Contraloría General del Instituto Electoral y de Participación Ciudadana del Estado; debiendo en esta ocasión designar10 a más tardar el 20 de diciembre de 2008.
+
+DÉCIMO PRIMERO.-El registro o acreditación que hayan obtenido los partidos políticos estatales o nacionales, en términos de la Ley que se abroga conservará su validez hasta en tanto no se actualicen los supuestos de cancelación conforme al presente Decreto.
+
+DÉCIMO SEGUNDO.- El Consejo General dictará los acuerdos necesarios para hacer efectivas las disposiciones de esta Ley. Deberá expedir su Reglamento Interior a más tardar el 31 de enero de 2009; y expedir los demás reglamentos que se deriven de la Ley a más tardar en el mes de junio de 2009.
+
+DÉCIMO TERCERO.- Los Consejos Distritales Electorales conformados para el proceso electoral 2007, continuarán con la misma integración, hasta en tanto el Consejo General designe a los nuevos integrantes conforme al presente Decreto.
+
+DÉCIMO CUARTO.-La retribución económica a que hace referencia los artículos 195 y 212 del presente Decreto, deberá estar prevista en el presupuestos (sic) de egresos de 2009.
+
+DÉCIMO QUINTO.- Para la elección de 2010 en la determinación de los topes de precampaña y campaña, la actualización a que se refiere el inciso a), fracción 1, del artículo 271 del presente Decreto, se establecerá con el índice Nacional del Precio del Consumidor del mes de enero del año 2010, entre él del mes de abril del año 2007.
+
+DÉCIMO SEXTO.- Para los efectos de la actualización a que hace referencia el inciso a), fracción V, del articulo 78 de este Decreto, durante los años 2009 al 2013, el factor se obtendrá dividiendo el índice Nacional del Precio del Consumidor del mes de enero del año que corresponda, entre él del mes de abril del año 2007.
+
+DÉCIMO SÉPTIMO.- Dentro de los diez días posteriores a su designación el Director General del Instituto Electoral, instalará la Comisión Estatal de Vigilancia a que se refiere el artículo 209 del presente Decreto.
+
+Durante el mes siguiente a que se instale la Comisión, deberá sesionar a efecto de acordar el procedimiento y plazo para la destrucción de los documentos relativos a la extinta credencial estatal de elector.
+
+DÉCIMO OCTAVO.- El Consejo General celebrará sesión extraordinaria dentro de los dos días siguientes a la entrada en vigor del presente Decreto, a efecto de integrar las Comisiones Permanentes a que hace referencia el artículo 144 de esta Ley. Terminada la Sesión, en un plazo de seis horas, las comisiones integradas designarán a su presidente.
+
+DÉCIMO NOVENO.- El Consejo General deberá nombrar a más tardar el 30 de noviembre de 2008, a los Directores Ejecutivos de la Dirección General del Instituto Electoral, señalados en el artículo 151 del presente Decreto.
+
+VIGÉSIMO.- Por única ocasión, corresponderá a la Dirección General del Instituto Electoral formular el proyecto de financiamiento público permanente a entregarse a los partidos políticos en el ejercicio fiscal 2009, para someter1os a la aprobación al Consejo General; así como entregar las ministraciones conforme al calendario que se apruebe, hasta en tanto este en funcionamiento la Direccion de Fiscalización.
+
+VIGÉSIMO PRIMERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
