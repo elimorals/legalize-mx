@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-congreso-del-estado-de-morelos-56679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-25"
-last_updated: "2008-11-05"
+last_updated: "2008-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007
 
@@ -887,6 +887,10 @@ Cuando algún servidor público titular de dependencia u organismo se presente e
 
 Las iniciativas de leyes y decretos, serán presentadas por escrito y en medio magnético, deberán contener una parte expositiva que tendrá los elementos de justificación, legitimación, explicación interpretación, alcances y oportunidad de lo que se propone, así como una parte preceptual o normativa que estará constituida por un articulado ordenado en forma lógica.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+Las propuestas para modificar la Constitución Política de los Estados Unidos Mexicanos o leyes federales, deberán cumplir, en lo conducente lo previsto en el presente capítulo y con respecto a su procedencia, estarán sujetas a lo estipulado en el artículo 104 del presente reglamento.
+
 ###### ARTÍCULO 96.
 
 Toda iniciativa que presenten los diputados deberá contener preferentemente y en lo conducente lo siguiente:
@@ -1062,6 +1066,10 @@ Los dictámenes elaborados por las comisiones unidas se realizarán, por turno d
 ###### ARTÍCULO 111.
 
 Las propuestas de acuerdos parlamentarios presentados por uno o más diputados, se harán por escrito ante la mesa directiva, deberán contener el nombre y firma de quien promueve. Los autores podrán exponer los fundamentos de su propuesta, misma que será turnada a la comisión para su atención según la materia.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+
+El acuerdo parlamentario por el que se apruebe la presentación de iniciativa alguna ante el Congreso de la Unión, será remitido por la mesa directiva.
 
 ###### ARTÍCULO 112.
 
@@ -1880,3 +1888,9 @@ Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para
 ###### ARTÍCULO TERCERO.
 
 Para los efectos del reglamento del Congreso del estado la presente reforma entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
+
+P.O. 19 DE NOVIEMBRE DE 2008.
+
+Primero.- Una vez aprobado que sea el presente Decreto, entrará en vigor el mismo día de su aprobación.
+
+Segundo.- Para efectos de su difusión, publíquese en la Gaceta Legislativa de este Congreso del Estado y en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
