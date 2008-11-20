@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2006-12-27"
+last_updated: "2008-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -1837,9 +1837,9 @@ II. Carta de no antecedentes penales; 1.0;
 
 III. Certificaciones de copias fotostáticas de documentos que obren en los archivos de las diferentes secretarías de Estado, 1.0 por foja, y
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2008)</small>
 
-IV. Copias fotostáticas simples de códigos, decretos, leyes y demás documentos a los que pueda tener acceso el público, 0.1 por foja.
+IV. Copias fotostáticas simples de, códigos, decretos, leyes y demás documentos a los que pueda tener acceso el público, 0.01, por foja.
 
 ###### ARTICULO 93.
 
@@ -2368,3 +2368,7 @@ PRIMERO. Este Decreto entrará en vigencia a partir del uno de enero del año 20
 SEGUNDO. En relación con los ingresos que se obtengan por concepto del impuesto estatal sobre tenencia o uso de vehículos, se recomienda al Ejecutivo del Estado ejercerlos en infraestructura de impacto municipal.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2008.
+
+UNICO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
