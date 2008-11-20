@@ -4,7 +4,7 @@ identifier: "LISSFAM"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-09"
-last_updated: "2006-05-08"
+last_updated: "2008-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32514&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSFAM"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 9 de julio de 2003.
 
@@ -90,7 +90,9 @@ II. Las cuotas que aporten los militares y sus familiares derechohabientes en lo
 
 III. Las aportaciones del Gobierno Federal señaladas en esta Ley, para prestaciones específicas;
 
-IV. Una cantidad anual a cargo del Gobierno Federal, equivalente a un 11% de los haberes y haberes de retiro de los miembros de las Fuerzas Armadas para las demás prestaciones que, conforme a esta Ley, deba otorgar el Instituto;
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+IV. Una cantidad anual a cargo del Gobierno Federal, equivalente a un 15% de los haberes, haberes de retiro y de las pensiones de los miembros de las Fuerzas Armadas Mexicanas y de sus familiares, según corresponda; para las demás prestaciones que, conforme a esta Ley, deba otorgar el Instituto;
 
 V. Los bienes que por cualquier título adquiera el Instituto, así como los rendimientos y remanentes que obtenga por virtud de sus operaciones, y
 
@@ -116,7 +118,9 @@ VII. Beneficiario, la persona en cuyo favor se ha designado un beneficio económ
 
 VIII. Deudos, los parientes o familiares del militar fallecido;
 
-IX. Declaración de procedencia de retiro, el documento que le expide al militar la secretaría de origen, para trámite de retiro, a fin de que la Junta Directiva determine sobre la procedencia, naturaleza y monto del beneficio;
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+IX. Declaración de Procedencia de Retiro, el documento que le expide al militar la Secretaría de origen, para trámite de retiro, a fin de que la Junta Directiva determine sobre la procedencia, naturaleza y monto del beneficio, el cual es provisional al inicio del trámite administrativo y definitivo a su término;
 
 X. Haber o haberes, la percepción base que se establece en el tabulador que expide la Secretaría de Hacienda y Crédito Público;
 
@@ -124,9 +128,25 @@ XI. Prima de perseverancia, la percepción a que se refieren los artículos 51 d
 
 XII. Asignación de técnico, la percepción que se cubre a los militares en activo por tener estudios a nivel licenciatura y estar desempeñando funciones específicas de su profesión;
 
-XIII. Asignación de técnico especial, la percepción que se cubre a los militares del activo de los grados de Coronel a General de División y sus equivalentes en la Armada, y
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
-XIV. Asignación de vuelo y de salto, las remuneraciones que se cubren a los miembros del Ejército, Fuerza Aérea y Armada, que habitualmente desempeñan este tipo de actividades.
+XIII. Asignación de técnico especial, la percepción que se cubre a los militares del activo de los grados de Coronel a General de División y sus equivalentes en la Armada;
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+XIV. Asignación de vuelo y de salto, las remuneraciones que se cubren a los miembros del Ejército, Fuerza Aérea y Armada, que habitualmente desempeñan este tipo de actividades;
+
+> <small>(ADICIONADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+XV. Sobrehaber, remuneración adicional que se cubre al personal militar en activo en atención al incremento en el costo de la vida o insalubridad del lugar donde preste sus servicios;
+
+> <small>(ADICIONADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+XVI. Sobrehaber mínimo vigente, es el sobrehaber más bajo que se cubre al personal militar en activo en la República Mexicana, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+XVII. Sueldo Base de Servidor Público, el que se señala en el tabulador para servidores públicos superiores, mandos medios y, en su caso, enlaces, correspondientes a las Secretarías de la Defensa Nacional y de Marina, autorizados por la Secretaría de Hacienda y Crédito Público.
 
 ###### Artículo 5o.
 
@@ -196,7 +216,9 @@ V. Conocer y determinar los montos máximos de los créditos que se otorguen, as
 
 VI. Autorizar créditos a plazo mayor de 10 y hasta 20 años con cargo al Fondo de la Vivienda para los miembros del activo del Ejército, Fuerza Aérea y Armada cuando se destinen a la adquisición o construcción de casas habitación. La Junta Directiva tendrá también facultad para autorizar créditos a plazo menor de 10 años cuando se destinen a la reparación, ampliación o mejoramiento de las casas habitación o al pago de los pasivos en los términos del inciso c) de la fracción II del artículo 100 de esta Ley;
 
-VII. Aprobar y poner en vigor el estatuto orgánico, manuales, normas y procedimientos interiores;
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+VII. Aprobar y poner en vigor el Reglamento Interno y expedir los manuales, normas y procedimientos que se hagan necesarios para el adecuado funcionamiento del Instituto;
 
 VIII. Establecer o suprimir delegaciones del Instituto en los estados;
 
@@ -210,7 +232,9 @@ XII. Analizar y aprobar, en su caso, los informes periódicos que rinda el Direc
 
 XIII. Conceder licencias a los miembros de la Junta Directiva;
 
-XIV. Proponer al Ejecutivo Federal los proyectos de reformas a esta Ley;
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+XIV. Proponer al Ejecutivo Federal la expedición del Reglamento de la Ley, así como las reformas a ambos ordenamientos jurídicos;
 
 > <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2006)</small>
 
@@ -316,13 +340,25 @@ XX. Centros deportivos y de recreo;
 
 XXI. Orientación social;
 
-XXII. Servicio médico integral, y
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
-XXIII. Farmacias económicas.
+XXII. Servicio médico integral;
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+XXIII. Farmacias económicas, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+XXIV. Vivienda.
 
 ###### Artículo 19.
 
 Las Secretarías de la Defensa Nacional y de Marina, tramitarán ante el Instituto, la afiliación de su respectivo personal en situación de activo y de retiro, y a sus derechohabientes. Los documentos de identificación que expida el Instituto serán válidos para ejercitar los derechos a las prestaciones a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+Es facultad del militar afiliar a sus derechohabientes y designar a sus beneficiarios, y su obligación mantener actualizada dicha afiliación y designación.
 
 ###### Artículo 20.
 
@@ -338,13 +374,15 @@ Situación de retiro es aquella en que son colocados, mediante órdenes expresas
 
 Haber de retiro es la prestación económica vitalicia a que tienen derecho los militares retirados en los casos y condiciones que fija esta Ley. Una vez integrado el haber de retiro en los términos del artículo 31 de la presente Ley, será considerado como un solo concepto para todos los efectos legales.
 
-El sobrehaber promedio se conforma con el resultante entre el sobrehaber mínimo y el máximo imperante en la República, aplicado al porcentaje que correspondió a su retiro.
+> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 > <small>(F. DE E., D.O.F. 24 DE FEBRERO DE 2004)</small>
 
 Pensión es la prestación económica vitalicia a que tienen derecho los familiares de los militares en los casos y condiciones que fije esta Ley.
 
-Compensación es la prestación económica a que tienen derecho los militares retirados, en una sola exhibición, cada vez que el militar sea puesto en situación de retiro, en los casos y condiciones que fija esta Ley.
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+Compensación es la prestación económica a que tienen derecho los militares y sus familiares, en una sola exhibición, en los términos y condiciones que fije esta Ley.
 
 ###### Artículo 22.
 
@@ -354,11 +392,15 @@ I. Los militares que, encontrándose en situación de activo, pasen a la de reti
 
 II. Los familiares de los militares que fallezcan en activo o estando en situación de retiro, siempre que en este último caso se les haya concedido haber de retiro o no hayan cobrado la compensación acordada;
 
-III. Los miembros de los Cuerpos de Defensa Rurales inutilizados en actos del servicio o a consecuencia de ellos y los familiares de los que mueran en las mismas circunstancias. Fuera de estos casos, los miembros de los Cuerpos de Defensas Rurales sólo tendrán derecho a las retribuciones, prestaciones o estímulos que se establezcan en los términos del artículo 121 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos;
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+III. Los miembros de los Cuerpos de Defensas Rurales incapacitados en actos del servicio o a consecuencia de ellos y los familiares de los que mueran en las mismas circunstancias. Fuera de estos casos, los miembros de los Cuerpos de Defensas Rurales sólo tendrán derecho a las retribuciones, prestaciones o estímulos que se establezcan en los términos del artículo 121 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos;
 
 IV. Los soldados, marineros y cabos que no sean reenganchados y pasen a la reserva, y
 
-V. El personal de la milicia auxiliar que haya sido separado del activo por órdenes expresas de la Secretaría de origen, por no ser necesarios sus servicios.
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+V. El personal de la milicia auxiliar que haya sido separado del activo por órdenes expresas de la Secretaría de origen, por no ser necesarios sus servicios o al término de su contrato.
 
 ###### Artículo 23.
 
@@ -372,15 +414,23 @@ Son causas de retiro:
 
 I. Llegar a la edad límite que fija el artículo 25 de esta Ley;
 
-II. Quedar inutilizado en acción de armas o como consecuencia de las lesiones recibidas en ella;
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
-III. Quedar inutilizado en otros actos del servicio o como consecuencia de ellos; incluyendo la inutilización que se produzca al trasladarse el militar directamente de su domicilio al lugar donde preste sus servicios, así como el retorno directo de éste a su domicilio particular;
+II. Quedar incapacitado en acción de armas o como consecuencia de las lesiones recibidas en ella;
 
-IV. Quedar inutilizado en actos fuera del servicio;
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+III. Quedar incapacitado en otros actos del servicio o como consecuencia de ellos; incluyendo la incapacidad que se produzca al trasladarse el militar directamente de su domicilio al lugar donde preste sus servicios, así como el retorno directo de éste a su domicilio particular;
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+IV. Quedar incapacitado en actos fuera del servicio;
 
 V. Estar imposibilitados para el desempeño de las obligaciones militares, por enfermedad que dure más de seis meses, pudiendo el Secretario de la Defensa Nacional o, en su caso, el de Marina prorrogar este lapso hasta por tres meses más con base en el dictamen expedido por dos médicos militares o navales en activo, en el que se establezca la posibilidad de recuperación en ese tiempo, y
 
-VI. Solicitarlo después de haber prestado por lo menos veinte años de servicios efectivos o con abonos.
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+VI. Solicitarlo después de haber prestado por lo menos veinte años de servicios.
 
 ###### Artículo 25.
 
@@ -446,59 +496,111 @@ Cuando fallezca el militar en situación de activo y hubiera satisfecho los requ
 
 Los militares retirados y los pensionistas tendrán obligación de pasar revista de supervivencia en los términos de las disposiciones reglamentarias. Los Generales y Jefes del Ejército y la Fuerza Aérea, así como los Almirantes y Capitanes de la Armada de México retirados, quedan exceptuados de esta obligación.
 
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 30.
 
-Los militares que hayan sido retirados por enfermedad que dure más de seis meses podrán volver al activo cuando esta enfermedad hubiere sido contraída en campaña o en actos del servicio y logren su curación definitiva, comprobada con dictámenes expedidos por médicos militares o navales en servicio activo, que designe la Secretaría de la Defensa Nacional o la de Marina, en su caso, siempre que no adquieran otra nacionalidad. Al ocurrir una nueva causal de retiro, se tramitará éste.
+Los militares retirados podrán volver al activo:
 
-Cuando las necesidades de la Nación lo exijan, los militares retirados podrán ser llamados al activo, requiriéndose para ello acuerdo suscrito por el Presidente de la República.
+I. Cuando hayan sido retirados por enfermedad que dure más de seis meses, siempre que la enfermedad hubiere sido contraída en campaña o en actos del servicio y logren su curación definitiva, comprobada con dictámenes expedidos por médicos militares o navales en servicio activo, que designe la Secretaría de la Defensa Nacional o la de Marina en su caso, siempre que no adquieran otra nacionalidad; al ocurrir una nueva causal de retiro se tramitará éste, o
 
-Al desaparecer el motivo anterior, los militares volverán a la situación de retiro, sin necesidad de que sobrevenga una nueva causa de retiro.
+II. Cuando las necesidades de la Nación lo exijan, requiriéndose para ello acuerdo suscrito por el Presidente de la República. Al desaparecer esta necesidad, los militares volverán a la situación de retiro sin necesidad de que sobrevenga una nueva causa de retiro.
 
-En los casos anteriores se observarán las siguientes reglas:
+En los casos anteriores, se observarán las reglas siguientes:
 
-a) Siempre que por cualquier motivo el militar retirado vuelva al activo, le corresponderá el último grado que ostentó en su primera estancia en tal situación, no pudiendo conservar el grado que le fue conferido para efectos de retiro.
+a) Siempre que por cualquier motivo el militar retirado vuelva al activo, le corresponderá el último grado que ostentó en su primera estancia en tal situación, no pudiendo conservar el grado que le fue conferido para efectos de retiro;
 
-b) La vuelta al activo dejará insubsistentes los beneficios económicos correspondientes al primer retiro y, en el caso de que se hubiere concedido compensación, su importe será reintegrado totalmente mediante descuentos quincenales de un 25% en los haberes de activo o de retiro, en su caso.
+b) La vuelta al activo dejará insubsistente la compensación o haber de retiro correspondiente al primer retiro, salvo cuando la vuelta al activo sea por acuerdo presidencial, en tal caso si se estuviere cubriendo haber de retiro se suspenderá el pago por el tiempo que el militar permanezca en activo;
 
-c) Al cómputo de servicios formulado para el primer retiro, el cual no podrá aumentarse ni disminuirse, se sumarán los nuevos servicios, y el total obtenido servirá de base para el cálculo del nuevo beneficio.
+c) Si se hubiere concedido compensación en el primer retiro, el importe cobrado deberá ser reintegrado totalmente por el militar mediante descuentos quincenales de un 25% en los haberes del activo;
 
-d) Al tiempo en el grado ostentado en la permanencia anterior en el activo se sumará el nuevo tiempo si se conserva el mismo grado.
+d) Si el importe de la compensación no fue reintegrado totalmente, se deducirá lo que corresponda de la nueva compensación o, en su caso, se harán descuentos quincenales de un 25% en sus haberes de retiro hasta la total reintegración, y
 
-e) Si se hubiere concedido compensación en el primer retiro y su importe no haya sido reintegrado totalmente, se deducirá lo que corresponda de la nueva compensación o, en su caso, se harán descuentos quincenales de un 25% en sus haberes de retiro hasta la total reintegración.
+e) Cuando la vuelta al activo sea con motivo de la curación definitiva del militar, sólo se declarará insubsistente el haber de retiro sin que exista la obligación de reintegrar las cantidades cobradas.
+
+Cuando la vuelta al activo implique el pago de los haberes por parte de la Secretaría de origen, que dejó de percibir el militar al encontrarse en situación de retiro, el militar, previo procedimiento administrativo, reintegrará lo que haya cobrado por concepto de: haber de retiro o compensación, devolución de aportaciones al Seguro Colectivo de Retiro, Seguro de Vida Militar, devolución de aportaciones al Fondo de la Vivienda Militar, y Seguro Colectivo de Retiro.
+
+Si el militar reingresa al activo por situaciones distintas a las señaladas en las fracciones I y II del presente artículo, tendrá la obligación de reintegrar el importe de la compensación que se hubiere cobrado, y el reintegro se hará en los términos que señalan los incisos c) y d) anteriores.
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 31.
 
-Para integrar el monto total del haber de retiro o de la compensación, se tomará como base el haber del grado con que vayan a ser retirados y se adicionará a éste el 70% de dicho haber. En el caso de la integración del monto total de la pensión correspondiente a familiares de militares muertos en situación de retiro, se tomará como base el haber del grado con que hayan sido retirados o que les hubiere correspondido en caso de retiro y se adicionará a éste el 60% de dicho haber, incluyendo los militares en activo que fallecen en actos del servicio. En ambos casos se adicionarán las primas complementarias del haber que les corresponda por condecoraciones de perseverancia ya otorgadas, así como las asignaciones de técnico, de vuelo, de salto o técnico especial y aquellas otras que autorice la Secretaría de Hacienda y Crédito Público, cuando las estén percibiendo los militares en el momento en que ocurra alguna de las causales de retiro señaladas en las fracciones I, II, III y IV del artículo 24 de esta Ley, o bien al cumplirse el plazo a que se refiere la fracción V del mismo precepto, o a la fecha en que se formuló la solicitud mencionada en la fracción VI del artículo citado anteriormente, o el fallecimiento.
+Para integrar el monto total de:
 
-A los militares que pasan a situación de retiro con más de 45 años de servicios efectivos, se les fijará el haber de retiro que ya se indicó en el párrafo anterior, aumentando en un 10%.
+I. Haber de retiro, se tomará como base el porcentaje del haber del grado con que vayan a ser retirados y se adicionará a éste el 80% de dicho haber, más las primas complementarias del haber que les corresponda por condecoraciones de perseverancia ya otorgadas, así como las asignaciones de técnico, de vuelo, de salto o técnico especial y aquellas otras asignaciones de técnico, cuando las estén percibiendo los militares en el momento en que ocurra alguna de las causales de retiro señaladas en las fracciones I, II, III y IV del artículo 24 de esta Ley o bien al cumplirse el plazo a que se refiere la fracción V del mismo precepto, o a la fecha en que se formuló la solicitud mencionada en la fracción VI del artículo citado anteriormente;
 
-Para los efectos de los párrafos anteriores, el haber de retiro será calculado con base en el haber fijado en los tabuladores autorizados por la Secretaría de Hacienda y Crédito Público o en el Presupuesto de Egresos de la Federación vigente en la fecha en que el militar cause baja del activo.
+II. La compensación por tiempo de servicios o por fallecimiento, se integrará con los conceptos señalados en la fracción I, tomando como base el haber del grado que haya ostentado el militar en servicio activo;
+
+III. A los militares que pasan a situación de retiro con 30 ó más años de servicios efectivos, se les fijará el haber de retiro como se indicó en la fracción I, aumentando los porcentajes que se indican en la tabla siguiente:
+
+Años de servicios Tanto por ciento
+
+30 60%
+
+31 62%
+
+32 64%
+
+33 66%
+
+34 68%
+
+35 70%
+
+36 72%
+
+37 74%
+
+38 76%
+
+39 78%
+
+40 80%
+
+41 82%
+
+42 84%
+
+43 86%
+
+44 88%
+
+45 ó más 90%
+
+IV. Para la integración de la pensión por fallecimiento del militar fuera de actos del servicio, se tomará como base el porcentaje del haber del grado que le hubiere correspondido al militar en caso de retiro y se adicionará a éste el 80% de dicho haber, más las primas complementarias por condecoraciones de perseverancia ya otorgadas, así como las asignaciones de técnico, de vuelo, de salto o técnico especial y aquellas otras asignaciones de técnico y que estuviere percibiendo el militar a la fecha del fallecimiento;
+
+V. La pensión por el fallecimiento del militar en situación de retiro con haber de retiro, se integrará con el porcentaje del haber del grado que se reconoció al militar para efectos de retiro, más el 80% de dicho haber y las primas de perseverancia y asignaciones que se le hubieren reconocido en su haber de retiro.
+
+Para los efectos de las fracciones anteriores, el haber de retiro, pensión o compensación serán calculados con base en el haber fijado en los tabuladores autorizados por la Secretaría de Hacienda y Crédito Público o en el Presupuesto de Egresos de la Federación vigente, en la fecha en que el militar cause alta en situación de retiro o en la reserva o baja por fallecimiento.
 
 ###### Artículo 32.
 
 Los haberes de retiro, compensaciones y pensiones quedan exentos de todo impuesto. Sólo podrán reducirse por adeudos contraídos con el Instituto por créditos hipotecarios o resolución judicial en caso de alimentos. No podrán ser materia de cesión ni de compensación, salvo cuando provenga de crédito a favor del Estado por error en el pago del haber de retiro, compensación o pensión. En este caso, el descuento se hará efectivo hasta el veinticinco por ciento del importe de la percepción periódica.
 
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 33.
 
-Tienen derecho al haber de retiro integrado, calculado en la forma establecida en el artículo 31 de esta Ley:
+Tienen derecho al 100% del haber de la jerarquía que se reconozca para efectos de retiro, como base de cálculo para determinar el monto del haber de retiro en la forma establecida en el artículo 31 de esta Ley:
 
-I. Los militares inutilizados en acción de armas o a consecuencia de lesiones recibidas en ella;
+I. Los militares incapacitados en acción de armas o a consecuencia de lesiones recibidas en ella;
 
-II. Los militares que tuviesen las asignaciones de técnico, de vuelo, de salto o técnico especial, que se inutilicen en actos propios de su servicio;
+II. Los militares que tuviesen las asignaciones de técnico, de vuelo, de salto o técnico especial, que se incapaciten en actos propios de su servicio;
 
-III. Los militares inutilizados en otros actos del servicio o a consecuencia de éstos, siempre que su inutilización se clasifique en la primera categoría, conforme a las tablas anexas a esta Ley. También tienen derecho al mismo beneficio los comprendidos en la segunda categoría de inutilización, si tienen 14 o más años de servicio;
+III. Los militares incapacitados en otros actos del servicio o a consecuencia de éstos, siempre que su incapacidad se clasifique en la primera categoría, de conformidad con las tablas del artículo 226 de esta Ley. También tienen derecho al mismo beneficio los comprendidos en la segunda categoría de incapacidad, si tienen 14 ó más años de servicio, y
 
-IV. Los militares que hayan cumplido 30 o más años de servicios;
+IV. Los militares que hayan cumplido 30 ó más años de servicios.
 
-V. El personal que constituyó orgánicamente la Fuerza Aérea Expedicionaria Mexicana que participó en la Segunda Guerra Mundial, formando parte de unidades que combatieron en el Lejano Oriente, en el periodo comprendido entre el dieciséis de julio de mil novecientos cuarenta y cuatro y el primero de diciembre de mil novecientos cuarenta y cinco, siempre que figure en la relación oficial, y
-
-VI. El personal de la Armada de México, embarcado en la flota de Petróleos Mexicanos durante el tiempo de la Segunda Guerra Mundial, siempre que figure en la relación oficial. El personal de la Armada de México embarcado en las unidades a flote de la misma que, en cumplimiento de órdenes de operaciones, escoltaron a embarcaciones de la citada flota de Petróleos y de la Marina Mercante Nacional, durante el mismo periodo de guerra.
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 34.
 
-Los militares inutilizados en actos del servicio o a consecuencia de éstos, comprendidos en la fracción III del artículo 33 de esta Ley, con tiempo de servicios menor de 14 años y cuya inutilización se clasifique en la segunda categoría tendrán derecho a un haber de retiro igual a un porcentaje sobre el haber calculado conforme al artículo 31, en que se tomarán en cuenta los años de servicios, en la forma siguiente:
+Los militares incapacitados en actos del servicio o a consecuencia de éstos, comprendidos en la fracción III del artículo 33 de esta Ley, con tiempo de servicios menor de 14 años y cuya incapacidad se clasifique en la segunda categoría, tendrán derecho a un haber de retiro igual a un porcentaje sobre el haber calculado conforme al artículo 31, en que se tomarán en cuenta los años de servicios, en la forma siguiente:
 
-Años de Servicios Segunda Categoría de Inutilización
+Años de servicios Segunda Categoría de
+
+Incapacidad
 
 10 o menos 80%
 
@@ -508,9 +610,11 @@ Años de Servicios Segunda Categoría de Inutilización
 
 13 95%
 
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 35.
 
-Los militares que hayan llegado a la edad límite que fija el artículo 25 de esta Ley; los que se hayan inutilizado fuera de actos del servicio, los imposibilitados para el desempeño de las obligaciones militares a causa de enfermedad que dure más de seis meses y los que soliciten su retiro voluntariamente, siempre que en todos los casos anteriores se les computen cuando menos 20 años de servicios, tienen derecho a un haber de retiro, en cuya cuota se tomarán en cuenta los años de servicios en la forma siguiente:
+Los militares que hayan llegado a la edad límite que fija el artículo 25 de esta Ley, los que se hayan incapacitado fuera de actos del servicio, los imposibilitados para el desempeño de las obligaciones militares a causa de enfermedad que dure más de seis meses, y los que soliciten su retiro voluntariamente, siempre que en todos los casos anteriores se les computen cuando menos 20 años de servicios, tienen derecho a un haber de retiro, en cuya cuota se tomarán en cuenta los años de servicios en la forma siguiente:
 
 Años de Servicios Tanto por Ciento
 
@@ -534,13 +638,9 @@ Años de Servicios Tanto por Ciento
 
 29 95%
 
-Los militares con padecimientos catalogados en la tercera categoría o con trastornos funcionales de menos del 20% que ameriten cambio de arma, cuerpo o servicio podrán ser cambiados del que pertenezcan, a juicio de la Secretaría de la Defensa Nacional o de Marina, en su caso, de la siguiente manera:
+Los militares con padecimientos catalogados en la tercera categoría o con trastornos funcionales de menos del 20% que ameriten cambio de Arma, Cuerpo o Servicio podrán ser cambiados del que pertenezcan, a juicio de la Secretaría de la Defensa Nacional o de Marina, de acuerdo a lo dispuesto en la Ley Orgánica correspondiente.
 
-I. Para el personal del activo del Ejército y Fuerza Aérea, se estará a lo dispuesto en el artículo 164 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos;
-
-II. El personal del activo de la Armada podrá ser cambiado de un cuerpo a un servicio, de un servicio a otro, de una escala y especialidad a otra, debiendo recibir un curso de capacitación. Su nueva patente o nombramiento se expedirá con la antigüedad que tenga el interesado en su empleo.
-
-Cuando se trate de padecimientos señalados en la tercera categoría y la Secretaría correspondiente opte por retirar del activo al militar, el cálculo de su haber de retiro se hará con base en lo dispuesto para los de segunda categoría de inutilización.
+Cuando se trate de padecimientos señalados en la tercera categoría, contraídos en actos del servicio o como consecuencia de ellos, y la Secretaría correspondiente opte por retirar del activo al militar, el cálculo de su haber de retiro se hará con base en lo dispuesto para los de segunda categoría de incapacidad.
 
 ###### Artículo 36.
 
@@ -548,13 +648,17 @@ Tienen derecho a compensación los militares que tengan cinco o más años de se
 
 I. Haber llegado a la edad límite que fija el artículo 25 de esta Ley;
 
-II. Haberse inutilizado en actos fuera de servicio;
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+II. Haberse incapacitado en actos fuera de servicio;
 
 III. Estar en el caso previsto por la fracción V del artículo 24 de esta Ley;
 
 IV. Haber causado baja en el activo y alta en la reserva los soldados, marineros y cabos que no hayan sido reenganchados, y
 
-V. El personal de la milicia auxiliar que haya sido separado del activo por órdenes expresas de la Secretaría de origen por no ser necesarios sus servicios.
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+V. El personal de la milicia auxiliar que haya sido separado del activo por órdenes expresas de la Secretaría de origen por no ser necesarios sus servicios o al término de su contrato.
 
 ###### Artículo 37.
 
@@ -596,7 +700,11 @@ Años de Servicios Meses de Haber
 
 Se consideran familiares de los militares, para los efectos de pensión y/o compensación:
 
-I. La viuda o el viudo solos o en concurrencia con los hijos o éstos solos, si son menores de edad; o si son mayores y que no hayan contraído matrimonio, si comprueban cada año, mediante la presentación del certificado de estudios correspondiente que se encuentran estudiando en instituciones oficiales o con reconocimiento de validez oficial de nivel medio superior o superior, con límite hasta de 25 años, que no tengan un trabajo remunerado; así como los mayores de edad incapacitados o imposibilitados para trabajar en forma total y permanente;
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+I. La viuda o el viudo solos o en concurrencia con los hijos, o estos solos si son menores de edad; si son mayores de edad, que no hayan contraído matrimonio o establecido una relación de concubinato, si comprueban cada año, mediante la presentación del certificado de estudios correspondiente, que se encuentran estudiando en instituciones oficiales o con reconocimiento de validez oficial de nivel medio superior o superior, con límite hasta de 25 años de edad, siempre que acrediten mediante información testimonial que dependían económicamente del militar.
+
+Los hijos mayores de edad incapacitados o imposibilitados para trabajar en forma total y permanente, siempre que el padecimiento o enfermedad que lo coloque en dicha situación, sea de origen congénito o se haya contraído dentro del período de la vigencia de sus derechos;
 
 II. La concubina o el concubinario solos o en concurrencia con los hijos, o éstos solos que reúnan las condiciones a que se refiere la fracción anterior, siempre que, por lo que hace a la concubina o concubinario, existan las siguientes circunstancias:
 
@@ -610,19 +718,23 @@ IV. El padre;
 
 V. La madre conjuntamente con el padre, y
 
-VI. Los hermanos menores, los mayores incapacitados y los imposibilitados para trabajar en forma total y permanente. Si se trata de hermanas, mientras permanezcan solteras.
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+VI. Los hermanos menores de edad que dependan económicamente del militar hasta los 25 años de edad siempre y cuando acrediten los requisitos que se establecen para los hijos en la fracción I del presente artículo; así como los hermanos incapacitados e imposibilitados para trabajar en forma total y permanente, que dependan económicamente del militar, siempre que la enfermedad o el padecimiento sea de origen congénito o se haya contraído dentro del periodo de vigencia de sus derechos.
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 39.
 
-Los familiares mencionados en cada una de las fracciones del artículo anterior excluyen a los comprendidos en las siguientes, salvo los casos de los padres considerados conjunta o separadamente, los cuales pueden concurrir con los familiares señalados en las fracciones I, II, III y IV, siempre que demuestren su dependencia económica con el militar.
+Los familiares mencionados en cada una de las fracciones del artículo anterior, excluyen a los comprendidos en las siguientes, salvo los casos de los padres, los cuales pueden concurrir con los familiares señalados en las fracciones I y II, siempre que demuestren su dependencia económica con el militar.
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 40.
 
-Los familiares del militar muerto en el activo en actos del servicio o como consecuencia de ellos, tienen derecho a una pensión equivalente al 100% del haber del grado que le hubiere correspondido para efectos de retiro, y el 100% del sobrehaber, de las primas complementarias por condecoración de perseverancia y de las asignaciones de técnico que estuviere percibiendo el militar al ocurrir el fallecimiento. En caso de que haya fallecido fuera de actos del servicio, los familiares tendrán derecho a una pensión equivalente al 100% del haber de retiro integrado como lo señala el artículo 31 de esta Ley que le hubiere correspondido en la fecha de su fallecimiento o, en su caso, a una compensación de igual cuantía a la que hubiere correspondido al militar en la misma fecha.
+Los familiares del militar muerto en el activo en actos del servicio o como consecuencia de ellos, tienen derecho a una pensión equivalente al 100% del haber del grado que le hubiera correspondido para efectos de retiro y el 100% del sobrehaber, de las primas complementarias por condecoración de perseverancia y de las asignaciones de técnico que estuviere percibiendo el militar al ocurrir el fallecimiento. En caso de que haya fallecido fuera de actos del servicio, los familiares tendrán derecho a una pensión o compensación integrada como lo señala el artículo 31 de esta Ley.
 
-También tendrán derecho a pensión los familiares del militar muerto en el activo durante el traslado del domicilio al lugar donde prestaba sus servicios o viceversa.
-
-Los familiares del militar muerto en situación de retiro y a quien se le hubiere otorgado haber de retiro, tienen derecho a una pensión equivalente al 100% del importe de dicho haber.
+Se considerará como consecuencia de actos del servicio, el fallecimiento del militar durante el traslado de su domicilio al lugar donde prestaba sus servicios o viceversa.
 
 ###### Artículo 41.
 
@@ -690,37 +802,51 @@ III. Llegar a la mayoría de edad los hijos pensionados, siempre que no estén i
 
 IV. Contraer matrimonio o vivir en concubinato el cónyuge supérstite, las hijas y hermanas solteras; o en nuevo concubinato la concubina y el concubinario;
 
-V. Dejar de percibir una pensión o una compensación ya otorgada y sancionada sin hacer gestión de cobro en un lapso de tres años, y
+> <small>(ADICIONADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
-VI. Por no hacer trámite alguno de gestión de beneficio durante los cinco años siguientes a la muerte del militar.
+V. Tener descendencia la cónyuge o concubina, después de los trescientos días siguientes al fallecimiento del militar; y en cualquier momento después del deceso, el cónyuge o concubinario. Las hijas, hijos, hermanos y hermanas, en cualquier momento;
+
+VI. Dejar de percibir una pensión o una compensación ya otorgada y sancionada sin hacer gestión de cobro en un lapso de tres años, y
+
+VII. Por no hacer trámite alguno de gestión de beneficio durante los cinco años siguientes a la muerte del militar.
 
 ###### Artículo 53.
 
 La renuncia de derechos para percibir beneficios económicos nunca será en perjuicio de terceros. Si la formulase algún militar, sus familiares percibirán la compensación o la pensión que les corresponda conforme a esta Ley, al ocurrir el fallecimiento de aquél. Si la renuncia proviene de un familiar de militar, su parte acrecentará proporcionalmente la de los demás familiares, si los hubiere.
 
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 54.
 
-Los términos a que se refieren las fracciones V y VI del artículo 52 de esta Ley no proceden para los menores o incapacitados.
+Los términos a los que se refieren las fracciones VI y VII del artículo 52 de esta Ley, no proceden para los menores de edad o incapacitados.
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 55.
 
-En caso de fallecimiento de un militar, sus beneficiarios tendrán derecho a que se les cubra, por concepto de pagas de defunción, el equivalente a cuatro meses del haber y del sobrehaber, más cuatro meses de asignaciones cuando las estuviere percibiendo en la fecha del deceso, o cuatro meses del haber de retiro, en su caso, para atender los gastos de sepelio.
+En caso de fallecimiento de un militar, el familiar que acredite mediante factura original haber realizado los gastos de sepelio tendrá derecho a que se les cubra, por concepto de pagas de defunción, el equivalente a cuatro meses del haber y del sobrehaber, más cuatro meses de asignaciones cuando las estuviere percibiendo en la fecha del deceso, o cuatro meses del haber de retiro, en su caso, para atender los gastos de sepelio.
 
-Si fuere veterano de la Revolución reconocido por la Secretaría de la Defensa Nacional, sus deudos recibirán el importe de dos meses más de esos haberes o haberes de retiro.
+Esta prestación será cubierta, en caso de militares en activo por la Unidad Ejecutora de Pago correspondiente o por el Instituto, en caso de militares retirados que a la fecha del deceso estuvieren percibiendo haber de retiro.
 
-Esta prestación será cubierta por la Unidad Ejecutora de Pagos correspondiente o quien haga sus veces, donde se cubran los haberes o haberes de retiro y demás emolumentos del militar de que se trate.
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 56.
 
-Cuando no hubiere constancia de afiliación de familiares o los deudos del militar fallecido no acudieren a atender la inhumación, la autoridad militar o naval correspondiente tendrá la obligación de encargarse del sepelio. Los gastos originados por el mismo se cubrirán por la Unidad Ejecutora de Pagos de acuerdo con su comprobación y nunca podrán ser mayores de la cantidad equivalente señalada en el artículo anterior.
+Cuando los familiares del militar fallecido no acudieren a atender la inhumación, la autoridad militar o naval correspondiente tendrá la obligación de encargarse del sepelio. Los gastos originados por el mismo se cubrirán por la Unidad Ejecutora de Pago en el caso de los militares en activo y por el Instituto si se trata de militares en situación de retiro, de acuerdo con su comprobación y nunca podrán ser mayores de la cantidad equivalente señalada en el artículo anterior.
+
+En caso que la autoridad militar o naval no se encargara del sepelio y los gastos hayan sido cubiertos por otra persona que no sea familiar, ésta tendrá derecho a que se le cubra el beneficio en los términos del presente artículo.
 
 ###### Artículo 57.
 
 Los Generales, Jefes, Oficiales, y sus equivalentes en la Armada tendrán derecho a que se les otorgue el equivalente a veinte días de haber o haber de retiro, más asignaciones, cuando las estuvieren percibiendo, como ayuda para los gastos de sepelio en caso de defunción del cónyuge, concubina, concubinario, del padre, de la madre o de algún hijo. En los mismo casos, el personal de tropa y de marinería tendrán derecho a que se le otorgue el equivalente a cuarenta días de haberes o haberes de retiro para igual fin, sumadas las asignaciones que estuviere percibiendo.
 
-En el caso de padres que tengan varios hijos militares, la ayuda para gastos de sepelio se le cubrirá al hijo que los haya efectuado.
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
-Esta prestación será cubierta por la Unidad Ejecutora de Pagos correspondiente o quien haga sus veces dependiente de la Tesorería de la Federación, donde se cubran los haberes o haberes de retiro y demás emolumentos del militar de que se trate.
+En el caso de padres que tengan varios hijos militares, la ayuda para gastos de sepelio se le cubrirá al hijo que los haya efectuado, situación que se acreditará con la factura original.
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+Esta prestación será cubierta, en el caso de militares en activo por la Unidad Ejecutora de Pago correspondiente o por el Instituto, en caso de militares retirados que a la fecha del deceso estuvieren percibiendo haber de retiro.
 
 ### Capítulo Tercero: Fondo de trabajo, fondo de ahorro, seguro de vida militar y seguro colectivo de retiro.
 
@@ -734,9 +860,11 @@ Este fondo será administrado por el Banco Nacional del Ejército, Fuerza Aérea
 
 Para constituir el fondo de ahorro los Generales, Jefes, Oficiales y sus equivalentes en la Armada en servicio activo, deberán aportar una cuota quincenal equivalente al 6% de sus haberes. Al Gobierno Federal le corresponderá efectuar una aportación de igual monto. Este fondo será administrado por el Banco Nacional del Ejército, Fuerza Aérea y Armada, SNC, conforme a su Ley Orgánica.
 
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 60.
 
-El seguro de vida militar es la prestación que tiene por objeto proporcionar un beneficio económico a los beneficiarios o familiares de los militares por el fallecimiento de éstos, cualquiera que sea la causa de la muerte, así como a los militares que hayan causado baja del activo y alta en situación de retiro por inutilidad clasificada en primera o segunda categorías, de conformidad con las tablas anexas en esta Ley, contraída en actos del servicio o como consecuencia de ellos.
+Seguro de Vida Militar es la prestación que tiene por objeto proporcionar un beneficio económico a los beneficiarios o familiares de los militares por el fallecimiento de éstos, cualquiera que sea la causa de la muerte, así como a los militares que hayan causado baja del activo y alta en situación de retiro por incapacidad clasificada en primera o segunda categorías, de conformidad con las tablas contenidas en el artículo 226 de esta Ley, contraída en actos del servicio o como consecuencia de ellos.
 
 ###### Artículo 61.
 
@@ -764,11 +892,15 @@ I. El equivalente a cuarenta meses de haberes y sobrehaberes para las Fuerzas Ar
 
 a) Por fallecimiento del militar en servicio activo, siendo entregada la suma asegurada a sus beneficiarios, y
 
-b) Por causar baja del activo y alta en situación de retiro por inutilidad clasificada en la primera o segunda categorías, de conformidad con las tablas anexas a esta Ley, contraída en actos del servicio o como consecuencia de ellos, siendo entregado el importe respectivo al militar asegurado o a su representante legal, en su caso.
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+b) Por causar baja del activo y alta en situación de retiro por incapacidad clasificada en la primera o segunda categorías, de conformidad con las tablas contenidas en el artículo 226 de esta Ley, contraída en actos del servicio o como consecuencia de ellos, siendo entregado el importe respectivo al militar asegurado o a su representante legal, en su caso.
 
 II. En caso de fallecimiento del militar en situación de retiro que estuviere percibiendo haber de retiro, el Instituto pagará por concepto de suma asegurada el equivalente a cuarenta meses de su haber de retiro, siendo entregado el importe respectivo directamente a sus beneficiarios;
 
-III. En caso de fallecimiento o inutilidad en primera o en segunda categoría, de conformidad con las tablas anexas a esta Ley, contraída en actos del servicio o como consecuencia de ellos, el Instituto pagará por concepto de suma asegurada el equivalente a cuarenta meses de haberes y sobrehaber mínimo vigente para las Fuerzas Armadas que corresponda a los siguientes miembros:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+III. En caso de fallecimiento o incapacidad en primera o en segunda categoría, de conformidad con las tablas contenidas en el artículo 226 de esta Ley, contraída en actos del servicio o como consecuencia de ellos, el Instituto pagará por concepto de suma asegurada el equivalente a cuarenta meses de haberes y sobrehaber mínimo vigente para las Fuerzas Armadas que corresponda a los siguientes miembros:
 
 a) Al personal militar que estudie en planteles militares y que no perciba haberes, el cómputo de la suma asegurada será con base en el haber y el sobrehaber mínimo vigente para las Fuerzas Armadas en la República que corresponda a un Sargento Primero en servicio activo o a su equivalente en la Armada, y
 
@@ -776,17 +908,23 @@ b) Al personal de Defensas Rurales, así como a los soldados o marineros del Ser
 
 IV. No tendrán derecho al seguro de vida militar los militares que causen baja definitiva de las Fuerzas Armadas Mexicanas por haberla solicitado, por mala conducta, por haber permanecido prófugo de la justicia militar, o bien por efectos de sentencia ejecutoria que determine dicha baja o la destitución del empleo militar.
 
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 64.
 
-El pago de la suma asegurada, en cualquiera de los casos, se hará en una sola exhibición directamente a los beneficiarios del militar fallecido; tratándose de inutilidad la entrega se hará al mismo militar asegurado o a la persona legalmente acreditada por él, según proceda.
+El pago de la suma asegurada, en cualquiera de los casos, se hará en una sola exhibición directamente a los beneficiarios del militar fallecido; tratándose de incapacidad, la entrega se hará al mismo militar asegurado o a la persona legalmente acreditada por él, según proceda.
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 65.
 
-El pago de la suma asegurada por inutilidad excluye el pago de la suma asegurada por fallecimiento.
+El pago de la suma asegurada por incapacidad excluye el pago de la suma asegurada por fallecimiento.
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 66.
 
-El importe de la prima correspondiente al seguro de vida de los militares en servicio activo estará a cargo del Gobierno Federal y será del 1.8% (uno punto ocho por ciento) de los haberes y el sobrehaber que disfrute el militar en la República Mexicana o del sueldo base de servidor público autorizado conforme a las percepciones correspondientes.
+El importe de la prima correspondiente al seguro de vida de los militares en servicio estará a cargo del Gobierno Federal y será del 2.0% (dos punto cero por ciento) de los haberes y el sobrehaber que disfrute el militar en la República Mexicana o del sueldo base de servidor público autorizado conforme a las percepciones correspondientes.
 
 ###### Artículo 67.
 
@@ -910,7 +1048,9 @@ c) Identificación oficial del o los beneficiarios.
 
 d) Comprobante del último pago de la prima correspondiente.
 
-IV. Para el pago de la suma asegurada por inutilidad clasificada en primera o segunda categorías en actos del servicio o como consecuencia de ellos de los militares en activo, de conformidad con las tablas anexas a esta Ley, y que causen alta en situación de retiro con derecho a percibir haber de retiro:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+IV. Para el pago de la suma asegurada por incapacidad clasificada en primera o segunda categoría en actos del servicio o como consecuencia de ellos de los militares en activo, de conformidad con las tablas contenidas en el artículo 226 de esta Ley, y que causen alta en situación de retiro con derecho a percibir haber de retiro:
 
 a) Orden de baja expedida por la Secretaría correspondiente.
 
@@ -920,13 +1060,17 @@ c) Certificado de último pago emitido por la Unidad Ejecutora de Pagos correspo
 
 d) Identificación oficial del militar o de su representante legal, así como la documentación que acredite tal personalidad.
 
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 81.
 
-Todas las acciones de cobro del beneficio del seguro de vida militar que se deriven de lo estipulado en el presente Capítulo, prescribirán en dos años para los beneficiarios designados por el asegurado y en tres años para los familiares señalados en el artículo 77 de esta Ley; tratándose de fallecimiento, dicho término se computará a partir del suceso; en caso de inutilidad o desaparición, el término de dos años empezará a computarse desde el día en que la Secretaría correspondiente gire la orden de baja del servicio activo por dichos supuestos.
+Todas las acciones de cobro del beneficio del seguro de vida militar que se deriven de lo estipulado en el presente Capítulo, prescribirán en dos años para los beneficiarios designados por el asegurado y en tres años para los familiares señalados en el artículo 77 de esta Ley; tratándose de fallecimiento, dicho término se computará a partir del suceso; en caso de incapacidad o desaparición, el término de dos años empezará a computarse desde el día en que la Secretaría correspondiente gire la orden de baja del servicio activo por dichos supuestos.
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 82.
 
-El Instituto podrá disponer y utilizar hasta el 0.5% (cero punto cinco por ciento) anual del total de los recursos que integran el fondo para el seguro de vida militar, por concepto de gastos de administración y operación del mismo, para lo cual el Instituto informará a la Junta Directiva en los periodos que se determine sobre los resultados de la administración del fondo.
+El Instituto podrá disponer y utilizar hasta el 1.0% (uno punto cero por ciento) anual del total de los recursos que integran el Fondo para el Seguro de Vida Militar, por concepto de gastos de administración y operación del mismo, para lo cual el Instituto informará a la Junta Directiva en los periodos que se determine sobre los resultados de la administración del fondo.
 
 ###### Artículo 83.
 
@@ -952,11 +1096,15 @@ I. A quienes soliciten su retiro y hayan cumplido 20 o más años de servicios e
 
 II. A quienes por haber cumplido la edad límite en el grado que ostenten, de conformidad con esta Ley, pasen a situación de retiro y hayan cumplido 20 o más años de servicios efectivos prestados;
 
-III. A los militares inutilizados en actos dentro del servicio o como consecuencia de ellos en primera o segunda categoría, de conformidad con las tablas anexas a esta Ley, sin tomar en cuenta los años de servicios efectivos prestados; en su caso, dicha suma asegurada será pagada a la persona legalmente acreditada por el militar;
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+III. A los militares incapacitados en actos dentro del servicio o como consecuencia de ellos en primera o segunda categoría, de conformidad con las tablas contenidas en el artículo 226 de esta Ley, sin tomar en cuenta los años de servicios efectivos prestados; en su caso, dicha suma asegurada será pagada a la persona legalmente acreditada por el militar;
 
 IV. A los beneficiarios de los militares que fallezcan en actos dentro del servicio o como consecuencia de ellos, sin tomar en cuenta los años de servicios efectivos prestados;
 
-V. A los militares inutilizados en actos fuera del servicio en primera o segunda categoría, de conformidad con las tablas anexas a esta Ley, y que hayan cumplido 20 o más años de servicios efectivos prestados; en su caso, dicha suma asegurada será pagada a la persona legalmente acreditada por el militar, y
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+V. A los militares incapacitados en actos fuera del servicio en primera o segunda categoría, de conformidad con las tablas contenidas en el artículo 226 de esta Ley, y que hayan cumplido 20 o más años de servicios efectivos prestados; en su caso, dicha suma asegurada será pagada a la persona legalmente acreditada por el militar, y
 
 VI. A los beneficiarios de los militares que fallezcan en actos fuera del servicio y hayan cumplido 20 o más años de servicios efectivos prestados.
 
@@ -1042,23 +1190,31 @@ Años de Servicios Factor (meses)
 
 50 o más 50
 
-A los militares que se inutilicen en actos del servicio o como consecuencia de ellos en primera o segunda categoría, de conformidad con las tablas anexas a esta Ley; así como a los beneficiarios de los militares que fallezcan en actos dentro del servicio o como consecuencia de ellos, se les cubrirá como suma asegurada el equivalente a 50 meses del haber y sobrehaber mínimo vigente de su grado para las Fuerzas Armadas, independientemente de sus años de servicios efectivos prestados.
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
-A los militares que cuenten con menos de 20 años de servicios, que se inutilicen en actos del servicio o como consecuencia de ellos, en tercera categoría, de conformidad con las tablas anexas a esta Ley, se les cubrirá como suma asegurada el equivalente a 16 meses del haber y sobrehaber mínimo vigente de su grado para las Fuerzas Armadas, independientemente de sus años de servicios efectivos prestados.
+A los militares que se incapaciten en actos del servicio o como consecuencia de ellos en primera o segunda categoría, de conformidad con las tablas contenidas en el artículo 226 de esta Ley; así como a los beneficiarios de los militares que fallezcan en actos del servicio o como consecuencia de ellos, se les cubrirá como suma asegurada el equivalente a 50 meses del haber y sobrehaber mínimo vigente de su grado para las Fuerzas Armadas, independientemente de sus años de servicios efectivos prestados.
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+A los militares que cuenten con menos de 20 años de servicios, que se incapaciten en actos del servicio o como consecuencia de ellos, en tercera categoría, de conformidad con las tablas contenidas en el artículo 226 de esta Ley, se les cubrirá como suma asegurada el equivalente a 16 meses del haber y sobrehaber mínimo vigente de su grado para las Fuerzas Armadas, independientemente de sus años de servicios efectivos prestados.
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 90.
 
 El importe de la prima mensual correspondiente al seguro colectivo de retiro se integrará de la siguiente forma:
 
-I. El 0.5% (cero punto cinco por ciento) del total de los haberes mensuales de todos los militares en activo de acuerdo con su jerarquía, y por;
+I. El 3.0% (tres punto cero por ciento) del total de los haberes mensuales de todos los militares en activo de acuerdo con su jerarquía;
 
-II. El 3.0% (tres punto cero por ciento) del total de los haberes y sobrehaber mínimo vigente mensual, de los militares en activo de acuerdo con su jerarquía;
+II. El 3.0% (tres punto cero por ciento) del total de los haberes y sobrehaber mínimo vigente mensual de todos los militares en activo, de acuerdo a su jerarquía;
 
-III. El 0.5% (cero punto cinco por ciento) a que se refiere la fracción I será cubierto con cargo al presupuesto de las Secretarías de la Defensa Nacional y de Marina de acuerdo con el número de integrantes en servicio activo de cada Secretaría. Para integrar la parte de la prima mensual a que se refiere la fracción II, cada militar deberá aportar el 3.0% (tres punto cero por ciento) del haber y sobrehaber mínimo vigente mensual, el cual será retenido por dichas Secretarías;
+III. El 3.0% (tres punto cero por ciento) a que se refiere la fracción I, será cubierto con cargo al presupuesto de las Secretarías de la Defensa Nacional y de Marina de acuerdo con el número de integrantes en servicio activo de cada Secretaría.
 
-IV. El personal de procesados o sentenciados que se mantengan en servicio activo podrán aportar directamente al Instituto la prima del 3.0% (tres punto cero por ciento) a que se refiere la fracción II de este artículo. En este caso, el 0.5% (cero punto cinco por ciento) a que se refiere la fracción I será cubierto con cargo al presupuesto de la Secretaría correspondiente. Las aportaciones de la prima mensual hechas por estos militares les otorgará el derecho de que el tiempo en que estén en dichas situaciones les sea considerado como tiempo de servicios efectivos prestados, únicamente para efectos de este seguro;
+Para integrar la parte de la prima mensual a que se refiere la fracción II, cada militar deberá aportar el 3.0% (el tres punto cero por ciento) del haber y sobrehaber mínimo vigente mensual, el cual será retenido por dichas Secretarías;
 
-V. En los casos de licencia ilimitada durante los 6 y 4 años que la Ley Orgánica del Ejército y Fuerza Aérea o la de la Armada, respectivamente, les concede para solicitar el reingreso, así como en los casos de licencia especial, los militares podrán aportar directamente al Instituto las primas a que se refieren las fracciones I y II de este artículo, siempre y cuando lo manifiesten por escrito dentro de los 30 días siguientes a la fecha en que se les conceda la licencia. Las aportaciones de la prima mensual hechas por estos militares durante la citada licencia, les otorgará el derecho de que el tiempo en que estén en dicha situación les sea considerado como tiempo de servicios efectivos prestados, únicamente para efectos de este seguro, y
+IV. Sólo en caso de que el personal de procesados o sentenciados que se mantengan en servicio activo aporten al Instituto la prima a que se refiere la fracción II de este artículo, la Secretaría correspondiente aportará el 3.0% (tres punto cero por ciento) a que se refiere la fracción I, el cual será cubierto con cargo al presupuesto de la Secretaría correspondiente. Las aportaciones de la prima mensual hechas por estos militares, les otorgarán el derecho de que el tiempo en que estén en dichas situaciones les sea considerado como tiempo de servicios efectivos prestados, únicamente para efectos de este seguro;
+
+V. En los casos de licencia ilimitada durante el tiempo que la normatividad del Ejército y Fuerza Aérea o de la Armada, les concede para solicitar su reingreso, así como en los casos de licencia especial, los militares podrán aportar directamente al Instituto las primas a que se refieren las fracciones I y II de este artículo, siempre y cuando lo manifiesten por escrito dentro de los 30 días siguientes a la fecha en que se les conceda la licencia, las aportaciones de la prima mensual hecha por estos militares durante la citada licencia, les otorgará el derecho de que el tiempo en que estén en dicha situación les sea considerado como tiempo de servicios prestados, únicamente para efectos de este seguro, y
 
 VI. Todas las cantidades anteriores, deberán ser entregadas al Instituto dentro de los cinco días siguientes al pago de la primera quincena de cada mes.
 
@@ -1076,11 +1232,15 @@ c) A los militares auxiliares que causen baja después de haber cumplido el cont
 
 d) A los militares que se les otorgue licencia ilimitada y tengan derecho a compensación al momento de la separación del servicio activo;
 
-e) A los militares que se inutilicen en actos fuera del servicio, en primera o segunda categoría, de conformidad a las tablas anexas a esta Ley y que no hayan cumplido 20 años de servicios efectivos prestados;
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+e) A los militares que se incapaciten en actos fuera del servicio, en primera o segunda categoría, de conformidad con las tablas contenidas en el artículo 226 de esta Ley y que no hayan cumplido 20 años de servicios efectivos prestados;
 
 f) A los beneficiarios de los militares que fallezcan en actos fuera del servicio y que no hayan cumplido 20 años de servicios efectivos prestados, y
 
-g) A los militares que causen baja del activo por haberse inutilizado en tercera categoría en actos fuera del servicio y que no hayan cumplido 20 o más años de servicios efectivos prestados.
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+g) A los militares que causen baja del activo por haberse incapacitado en tercera categoría en actos fuera del servicio y que no hayan cumplido 20 ó más años de servicios efectivos prestados.
 
 II. A los militares o sus beneficiarios que tengan derecho a recibir la suma asegurada de conformidad con el artículo 87 de esta Ley, además de aquellas aportaciones mensuales que cada militar hubiere realizado entre el año cumplido y el subsecuente y no se hubieren considerado para efectos de dicha suma asegurada;
 
@@ -1108,9 +1268,13 @@ Para los beneficiarios, este término comenzará a partir de la fecha en que el 
 
 El pago de la suma asegurada no estará sujeto al impuesto sobre la renta, de conformidad con el artículo 77 fracción V de la Ley del Impuesto Sobre la Renta.
 
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 95.
 
-El Instituto practicará cada año una revisión actuarial para mantener el equilibrio financiero entre los ingresos y egresos que constituyen el fondo del seguro colectivo de retiro, con objeto de garantizar el pago de las sumas aseguradas que correspondan. En caso de presentarse un déficit, éste se cubrirá con cargo al patrimonio del Instituto proveniente de las aportaciones equivalentes al 11% (once por ciento) de los haberes y haberes de retiro que anualmente realiza el Gobierno Federal en los términos del artículo 3o. fracción IV de esta Ley.
+El Instituto practicará cada año una revisión actuarial para mantener el equilibrio financiero entre los ingresos y egresos que constituyen el Fondo del Seguro Colectivo de Retiro, con objeto de garantizar el pago de las sumas aseguradas que correspondan.
+
+En caso de presentar un déficit, éste se cubrirá con cargo al patrimonio del Instituto proveniente de las aportaciones que anualmente realiza el Gobierno Federal de acuerdo a lo establecido en esta Ley, o de cualquier otra aportación extraordinaria del propio Gobierno Federal que contribuya a la solvencia del mismo.
 
 ###### Artículo 96.
 
@@ -1190,9 +1354,13 @@ VI. A las demás erogaciones relacionadas con su objeto.
 
 Las aportaciones al fondo de la vivienda, se aplicarán en su totalidad a constituir en favor de los militares depósitos que no devengan intereses y se sujetarán a las bases siguientes:
 
-I. Cuando un militar reciba financiamiento del fondo de vivienda, el cuarenta por ciento del importe de los depósitos que en su favor se hayan acumulado hasta esa fecha, se aplicará de inmediato como pago inicial del crédito concedido;
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
-II. Durante la vigencia del crédito, se continuará aplicando el cuarenta por ciento de la aportación gubernamental al pago de los abonos subsecuentes que debe hacer dicho miembro de las Instituciones Armadas;
+I. Cuando un militar reciba financiamiento del Fondo de Vivienda, el total del importe de los depósitos que en su favor se hayan acumulado hasta esa fecha, se aplicará de inmediato como pago inicial del crédito concedido;
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+II. Durante la vigencia del crédito, se continuará aplicando el total de la aportación gubernamental al pago de los abonos subsecuentes que debe hacer dicho miembro de las Instituciones Armadas;
 
 III. Una vez liquidado el crédito otorgado al miembro de las Instituciones Armadas, se continuará aplicando el total de las aportaciones al depósito en su favor;
 
@@ -1260,9 +1428,23 @@ Los créditos que se otorguen con cargo al fondo, deberán darse por vencidos an
 
 Los créditos que se otorguen con cargo al fondo de vivienda, estarán cubiertos por un seguro que libere al militar o a sus beneficiarios de las obligaciones derivadas del crédito para los casos de inutilización permanente y total para el servicio activo, así como para los casos de muerte.
 
-Por inutilidad total y permanente se entiende, la imposibilidad física y/o mental que constituye causal de retiro, clasificada en la primera o segunda categoría, conforme a las tablas anexas a la presente Ley, siempre y cuando la inutilidad se produzca durante actos del servicio o como consecuencia de ellos y con fecha posterior a la formalización del crédito, debiendo acreditar dicho padecimiento con el certificado médico de inutilidad expedido por dos médicos militares o navales de las Secretarías de la Defensa Nacional o de Marina, según corresponda, así como la declaración de procedencia de retiro emitida por la dependencia correspondiente.
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+Por incapacidad total y permanente se entiende, la imposibilidad física y/o mental que constituya causal de retiro, clasificada en la primera o segunda categoría, conforme a las tablas contenidas en el artículo 226 de esta Ley, siempre y cuando la incapacidad se produzca durante actos del servicio o como consecuencia de ellos y con fecha posterior a la formalización del crédito, debiendo acreditar dicho padecimiento con el certificado médico de incapacidad expedido por dos médicos militares o navales de las Secretaría de la Defensa Nacional o de Marina, según corresponda, así como la Declaración de Procedencia de Retiro emitida por la Dependencia correspondiente.
 
 Este seguro estará en vigor durante el tiempo que permanezca insoluto el adeudo y el importe de las primas del seguro señalado será cubierto con los intereses que devenguen los créditos otorgados.
+
+> <small>(ADICIONADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+El seguro se aplicará a petición del militar o, en su caso, de los derechohabientes o herederos, dentro de un término no mayor de dos años a partir de la fecha en la que el militar cause baja del servicio activo por incapacidad dentro de actos del servicio en primera o segunda categoría o de la fecha del fallecimiento; transcurrido dicho término, se tendrá por prescrito el derecho para la aplicación del seguro.
+
+> <small>(ADICIONADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+La aplicación del seguro no exime al militar, derechohabientes o herederos a cubrir el adeudo que se registre antes del fallecimiento o de que se reciba en el Instituto la solicitud del militar.
+
+> <small>(ADICIONADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+Para acreditar el derecho a la aplicación del seguro, el militar deberá presentar copia certificada de la declaración definitiva de procedencia de retiro y del dictamen pericial que sirvió de base para declarar la causal de retiro; en su caso, los derechohabientes o herederos deberán presentar acta de defunción, oficio de baja por defunción y el documento que acredite su carácter de derechohabiente o heredero.
 
 ###### Artículo 112.
 
@@ -1314,17 +1496,11 @@ En caso de adjudicación o de recepción en pago de bienes inmuebles, el Institu
 
 El Instituto cuidará que sus actividades en la administración del fondo de la vivienda para los militares en activo del Ejército, Fuerza Aérea y Armada que están percibiendo haberes se realicen, dentro de una política integrada de vivienda y desarrollo urbano. Para ello podrá coordinarse con otros organismos del sector público.
 
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 121.
 
-Con el fin de que los recursos del fondo se inviertan de conformidad con lo que dispone la presente Ley, el Gobierno Federal, tendrá las siguientes facultades:
-
-I. La Secretaría de Hacienda y Crédito Público, vigilará que los programas financieros anuales con recursos del fondo no excedan a los presupuestos de ingresos corrientes y de los financiamientos que reciba el Instituto. Dichos financiamientos deberán ser aprobados por la propia Secretaría, y
-
-II. La Comisión Nacional Bancaria y de Valores ejercerá la supervisión y regulación del fondo en el ámbito de su competencia dictándole las normas de registro contable de sus operaciones, fijándole las reglas para la estimación de sus activos y, en su caso, de sus obligaciones y responsabilidades, expidiéndole las normas de carácter prudencial a que se sujetarán sus operaciones, ejerciendo todas las demás facultades aplicables que le son conferidas, conforme a lo dispuesto en su propia ley y reglamento en materia de inspección, vigilancia y contabilidad, informando a la Secretaría de Hacienda y Crédito Público de las irregularidades que pudiera encontrar.
-
-En virtud de lo anterior, no son aplicables al fondo de la vivienda las disposiciones de la Ley para el control por parte del Gobierno Federal, de los Organismos Descentralizados y Empresas de Participación Estatal.
-
-Por su parte, el Instituto, en su carácter de administrador del fondo de la vivienda, estará obligado a proporcionar a la Comisión Nacional Bancaria y de Valores los datos, informes, registros, libros de actas, auxiliares, documentos, correspondencia y, en general, la información relativa al propio fondo, que la misma estime necesaria en la forma y términos que esa Comisión señale.
+Con el fin de que los recursos del fondo se inviertan de conformidad con lo que dispone la presente Ley, el Gobierno Federal, a través de la Secretaría de Hacienda y Crédito Público, tendrá la facultad de vigilar que los programas financieros anuales con recursos del fondo, no excedan a los presupuestos de ingresos corrientes y de los financiamientos que reciba el Instituto. Dichos financiamientos deberán ser aprobados por la propia Secretaría.
 
 ###### Artículo 122.
 
@@ -1428,11 +1604,11 @@ El Instituto cooperará con las Secretarías de la Defensa Nacional y de Marina 
 
 ### Capítulo Sexto: Servicio Médico Integral.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 142.
 
-La atención médica quirúrgica es el sistema por el cual se trata de conservar y preservar la salud de las personas, entendiéndose por este concepto no sólo el bienestar físico y mental, sino también la ausencia de enfermedad.
+La Atención Médica Quirúrgica es el sistema por el cual se trata de conservar y preservar la salud de las personas, entendiéndose por este concepto no sólo el bienestar físico y mental, sino también la ausencia de enfermedad.
 
 La atención médico-quirúrgica a los militares con haber de retiro y a los familiares de los militares que perciban haberes y haber de retiro, se prestará por el Instituto en sus propias instalaciones o como servicio subrogado, con base en la aportación del Gobierno Federal especificada en el artículo 221 de esta Ley.
 
@@ -1444,13 +1620,27 @@ I. El cónyuge o en su defecto la concubina o concubinario siempre y cuando el m
 
 II. Los hijos solteros menores de 18 años;
 
-III. Los hijos mayores de edad que se encuentren estudiando en planteles oficiales incorporados, con límite hasta de 25 años, excepcionalmente y a juicio del Instituto, podrá extenderse este beneficio hasta los 30 años de edad, si además de cubrir los requisitos mencionados, están realizando estudios a nivel licenciatura o superiores y demuestran su dependencia económica;
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2006)</small>
+III. Los hijos mayores de edad que no hayan contraído matrimonio o establecido una relación de concubinato sin descendencia, que se encuentren estudiando en instituciones oficiales o con reconocimiento de validez oficial, con límite hasta de 25 años de edad; excepcionalmente y a juicio del Instituto, podrá extenderse este beneficio hasta los 30 años de edad, si además de cubrir los requisitos mencionados, están realizando estudios a nivel licenciatura o superiores y demuestran su dependencia económica con el militar. Para ello se deberán presentar los siguientes documentos, mismos que serán actualizados anualmente por el interesado:
 
-IV. Los hijos discapacitados o incapacitados para trabajar en forma temporal o total y permanente, y
+a) Información testimonial de dependencia económica;
 
-V. El padre y la madre.
+b) Constancia de inexistencia de registro de matrimonio expedida por el Registro Civil, y
+
+c) Certificado o constancia de estudios;
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+IV. Los hijos incapacitados o imposibilitados para trabajar en forma total y permanente, siempre que la enfermedad o padecimiento sea de origen congénito o se haya contraído dentro del periodo de la vigencia de sus derechos;
+
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+V. El padre y la madre, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+VI. Al fallecimiento del militar retirado o en activo, sus familiares tendrán derecho a la prestación del servicio médico gratuito, siempre que la Junta Directiva les reconozca el carácter de pensionistas.
 
 ###### Artículo 143.
 
@@ -1488,15 +1678,33 @@ En casos graves de urgencia o emergencia.
 
 Tratándose de menores de edad, discapacitados mental o sensorialmente, incapacitados y personas adultas mayores con alguna discapacidad mental, sensorial o alguna incapacidad física, no podrá ordenarse la hospitalización sin el consentimiento de los padres o quienes legalmente los representen.
 
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 148.
 
-En caso de que los militares o sus familiares no se sujeten al tratamiento médico respectivo, no tendrán derecho a exigir que se les continúe prestando la atención médica únicamente por lo que hace a la enfermedad que sufran, mientras no cese tal actitud; en caso de que los militares padezcan enfermedades que les inutilicen temporalmente para el servicio y no se sujeten al tratamiento adecuado, no se les expedirá el certificado de inutilidad correspondiente.
+En caso de que los militares o sus familiares no se sujeten al tratamiento médico respectivo, no tendrán derecho a exigir que se les continúe prestando la atención médica únicamente por lo que hace a la enfermedad que sufran, mientras no cese tal actitud; en caso de que los militares padezcan enfermedades que les incapaciten temporalmente para el servicio y no se sujeten al tratamiento adecuado, no se les expedirá el certificado de incapacidad correspondiente.
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 149.
 
-El servicio materno infantil se impartirá al personal militar femenino y a la esposa o en su caso, a la concubina del militar, comprendiendo:
+El servicio materno infantil se otorgará a los sujetos siguientes:
 
-Consulta y tratamiento ginecológico, obstétrico y prenatal; atención del parto; atención del infante y ayuda a la lactancia.
+I. Personal militar femenino;
+
+II. Esposa del militar;
+
+III. Concubina del militar, e
+
+IV. Hijas menores de edad, dependientes económicas del militar, que no hayan contraído matrimonio o establecido una relación de concubinato.
+
+El servicio materno infantil comprende: consulta y tratamiento obstétrico y prenatal; atención del parto; atención del infante, y ayuda a la lactancia.
+
+> <small>(ADICIONADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 149 Bis.
+
+El derecho al servicio materno infantil para la cónyuge, la concubina y las hijas menores de edad dependientes económicas, se perderá al fallecimiento del militar, salvo cuando acrediten que el nacimiento fue dentro del término de 300 días a partir del deceso del militar.
 
 > <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2006)</small>
 
@@ -1546,9 +1754,11 @@ La dependencia económica deberá ser probada con información testimonial, rend
 
 (NOTA: EL 18 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD 1/2021, DECLARÓ LA INCONSTITUCIONALIDAD DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 3 DE OCTUBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 160.
 
-La relación de concubinato será acreditada necesariamente, y en todo caso, con la designación que el militar haya hecho de la persona interesada, como concubina, ante el Instituto o la Secretaría de la Defensa Nacional o de Marina, sin que sea admisible otro medio de prueba. La designación posterior anula la anterior, siempre que se haya formulado dentro del plazo establecido en el artículo 143 de esta Ley y acreditado las circunstancias de los incisos a) y b) de la fracción II del artículo 38 de esta Ley, se acreditarán con los medios de prueba establecidos por el Código Federal de Procedimientos Civiles.
+La relación de concubinato será acreditada necesariamente, y en todo caso, con la designación que el militar haya hecho de la persona interesada, como concubina o concubinario, ante el Instituto o la Secretaría de la Defensa Nacional o de Marina, sin que sea admisible otro medio de prueba. La designación posterior anula la anterior, siempre que se haya formulado dentro del plazo establecido en el artículo 143 de esta Ley y acreditado las circunstancias de los incisos a) y b) de la fracción II del artículo 38 de esta Ley, se acreditarán con los medios de prueba establecidos por el Código Federal de Procedimientos Civiles.
 
 ###### Artículo 161.
 
@@ -1618,7 +1828,9 @@ La muerte por lesiones sufridas en otros actos del servicio será probada:
 
 I. Con acta que se levante en averiguación de los hechos o con copia de las diligencias practicadas por la autoridad que haya conocido de los mismos;
 
-II. Con el certificado de autopsia o certificado médico de relación de causalidad;
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+II. Con el certificado de autopsia y dictamen médico de relación de causalidad;
 
 III. Con certificado que acredite el servicio que desempeñaba el militar al recibir las lesiones, expedido por el Comandante de quien dependiere;
 
@@ -1626,9 +1838,11 @@ IV. Con el acta de defunción expedida por el Registro Civil, y
 
 V. A falta de los documentos a que se refieren las cuatro fracciones anteriores, con las demás pruebas que establece el Código Federal de Procedimientos Civiles.
 
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 168.
 
-El fallecimiento o la inutilidad como consecuencia de otros actos del servicio, cuando éstos se refieran a atenciones médico-quirúrgicas, será probada necesariamente y en todo caso, con la sentencia ejecutoriada dictada por los tribunales militares en la que se declare la responsabilidad médica.
+El fallecimiento o la incapacidad como consecuencia de otros actos del servicio, cuando éstos se refieran a atenciones médico-quirúrgicas, será probada necesariamente y en todo caso, con la sentencia ejecutoriada dictada por los tribunales militares en la que se declare la responsabilidad médica.
 
 ###### Artículo 169.
 
@@ -1646,9 +1860,11 @@ IV. Con copia certificada del acta de defunción.
 
 La muerte por causas ajenas al servicio se acreditará únicamente con la copia certificada del acta de defunción expedida por el Registro Civil.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 171.
 
-La inutilización por lesiones recibidas en acción de armas u otros actos de servicio, será probada:
+La incapacidad por lesiones recibidas en acción de armas u otros actos de servicio, será probada:
 
 I. Con el parte de la acción de armas o del servicio que rinda el Comandante de la fuerza a que pertenezca el militar;
 
@@ -1658,9 +1874,11 @@ III. Con un certificado médico en el que se haga constar la inutilización, as�
 
 IV. A falta de los documentos a que se refieren las tres fracciones anteriores, con los medios de prueba que establece el Código Federal de Procedimientos Civiles.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 172.
 
-La inutilización proveniente de enfermedades contraídas en el servicio será probada:
+La incapacidad proveniente de enfermedades contraídas en el servicio será probada:
 
 I. Con el informe del Comandante de quien depende el militar, que acredite el cargo o comisión que desempeñaba y las circunstancias del caso;
 
@@ -1668,17 +1886,23 @@ II. Con los documentos que acrediten que el militar estaba sano al ingresar al a
 
 III. Con el dictamen pericial emitido por dos médicos militares o navales que establezcan la relación de causalidad entre el servicio y la enfermedad debiendo practicarse el reconocimiento en hospitales y por médicos especialistas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 173.
 
-Cuando la inutilización o la muerte de un militar ocurran antes de transcurridos dos años de recibidas las lesiones en acción de armas o en otros actos del servicio, se presumen la relación de causalidad entre las lesiones y la inutilización o la muerte, salvo prueba en contrario.
+Cuando la incapacidad o la muerte de un militar ocurran antes de transcurridos dos años de recibidas las lesiones en acción de armas o en otros actos del servicio, se presume la relación de causalidad entre las lesiones y la incapacidad o la muerte, salvo prueba en contrario.
 
-En los casos en que la inutilidad o la muerte del militar ocurra antes de transcurridos tres años de acaecidos los hechos que se pretende ocasionaron la inutilidad o la muerte por enfermedad contraída en actos del servicio, se presume la relación de causalidad entre los mismos y la enfermedad y entre ésta, y la inutilidad o la muerte, salvo prueba en contrario.
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+En los casos en que la incapacidad o la muerte del militar ocurra antes de transcurridos tres años de acaecidos los hechos que se pretende ocasionaron la incapacidad o la muerte por enfermedad contraída en actos del servicio, se presume la relación de causalidad entre los mismos y la enfermedad y entre ésta, y la incapacidad o la muerte, salvo prueba en contrario.
 
 Después de los plazos indicados debe probarse las relaciones de causalidad expresadas.
 
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 174.
 
-La inutilización por causas extrañas al servicio se acreditará únicamente con los certificados que deben expedir los médicos militares o navales especialistas que designen las Secretarías de la Defensa Nacional o de Marina.
+La incapacidad por causas extrañas al servicio se acreditará únicamente con los certificados que deben expedir los médicos militares o navales especialistas que designen las Secretarías de la Defensa Nacional o de Marina.
 
 ###### Artículo 175.
 
@@ -1748,11 +1972,13 @@ VIII. Total de servicios con abonos, y
 
 IX. Clave Única de Registro de Población.
 
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 181.
 
-El tiempo de servicios comprende tanto el de los efectivos como el de los abonos y será computado en la forma establecida en la Ley para la Comprobación, Ajuste y Cómputo de Servicios.
+El tiempo de servicios comprende tanto el de los efectivos como el de los abonos y será computado en la forma establecida en la Ley para la Comprobación, Ajuste y Cómputo de Servicios aplicable a cada una de las Secretarías, según corresponda.
 
-La fracción que exceda de seis meses, será computada como un año completo.
+La fracción que exceda de seis meses, será computada como un año completo, únicamente para efectos del cálculo del haber de retiro, pensión o compensación.
 
 ###### Artículo 182.
 
@@ -1760,9 +1986,11 @@ La Junta Directiva al acordar el beneficio de retiro, fijará su cuantía amplia
 
 En caso de que el militar genere beneficios en el tiempo que transcurra de la resolución de la Junta Directiva a la emisión de las órdenes de baja del activo, el Instituto someterá a consideración de dicha Junta la petición del interesado para efecto de que resuelva sobre los derechos adquiridos por el militar, sin modificar la situación de retiro en la que haya sido colocado.
 
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 183.
 
-En todos los casos en que se requiera la presentación de dictámenes médicos, éstos deberán estar suscritos, cuando menos por dos médicos militares o navales especialistas.
+En todos los casos en que se requiera la presentación de certificados y dictámenes médicos, éstos deberán estar suscritos, cuando menos por dos médicos militares o navales especialistas en el padecimiento que presenta el militar.
 
 ###### Artículo 184.
 
@@ -1780,9 +2008,11 @@ III. Cuando el militar esté tomando parte en una campaña, esté próxima a abr
 
 IV. Cuando por disposición legal o por compromiso suscrito por el militar, éste deba prestar determinado tiempo de servicios, después de haber terminado o interrumpido un curso superior, de formación, de aplicación y perfeccionamiento, capacitación, especialización o actualización en algún establecimiento nacional o extranjero.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 186.
 
-En los casos de retiro forzoso, las Dependencias encargadas del manejo del personal militar en las Secretarías de la Defensa Nacional o de Marina, informarán a la que corresponda tramitar el retiro, los casos en que se estime comprobada una causa de retiro proporcionando la documentación comprobatoria. Cuando no se proceda de oficio, los interesados podrán solicitar su retiro en la forma antes establecida para el retiro voluntario.
+En los casos de retiro forzoso, las dependencias encargadas del manejo del personal militar en las Secretarías de la Defensa Nacional o de Marina, informarán a la Dirección encargada de tramitar administrativamente los retiros que corresponda, los casos en que se estime comprobada una causa de retiro proporcionando la documentación comprobatoria. Cuando no se proceda de oficio, los interesados podrán solicitar su retiro en la forma antes establecida para el retiro voluntario.
 
 Los militares que se encuentren gozando de licencia ilimitada, formularán su pliego de solicitud de retiro ante la Secretaría que corresponda y acompañarán la documentación comprobatoria de sus derechos.
 
@@ -1798,15 +2028,21 @@ Estas declaraciones se notificarán al militar, dándosele a conocer, en su caso
 
 Si lo estimare pertinente, en el mismo escrito de inconformidad ofrecerá pruebas, las cuales se recibirán en un plazo de quince días siguientes a la terminación del plazo anterior.
 
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 189.
 
-Si la Secretaría respectiva estimare la procedencia del retiro, pero el Presidente de la República o la propia Secretaría considerare necesarios los servicios del militar conforme a lo establecido en esta Ley, podrán ejercitar su derecho de retención en el activo, girando las órdenes conducentes. Este derecho de retención podrá ser ejercitado en tanto no se giren las órdenes de baja en el activo y alta en situación de retiro.
+Si la Dirección encargada de tramitar administrativamente los retiros de la Secretaría respectiva estimare la procedencia del retiro, pero el Presidente de la República o la propia Secretaría considere necesarios los servicios del militar conforme a lo establecido en esta Ley, podrán ejercitar su derecho de retención en el activo, girando las órdenes conducentes.
+
+Este derecho de retención podrá ser ejercido en tanto no se giren las órdenes de baja en el activo y alta en situación de retiro.
 
 Declarada la retención, se interrumpirá el trámite de retiro, dándose aviso al Instituto y a la Secretaría de Hacienda y Crédito Público para que den por concluidos los trámites que se hubieren realizado y, en su caso, dejen sin efecto las resoluciones de otorgamiento de beneficio y su aprobación.
 
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 190.
 
-En caso de retiro voluntario el militar podrá desistirse de su solicitud desde la declaración de procedencia de retiro que formule la Secretaría respectiva, hasta antes de que le sea comunicada por el Instituto la aprobación del beneficio de retiro emitida por la Junta Directiva. El desistimiento sólo será denegado si aparece comprobada alguna causa de retiro forzoso.
+En caso de retiro voluntario, el militar podrá desistirse de su solicitud desde la Declaración de Procedencia de Retiro que formule la Dirección encargada de tramitar administrativamente los retiros de la Secretaría respectiva, hasta antes de que le sea comunicada por el Instituto la aprobación del beneficio de retiro emitida por la Junta Directiva. El desistimiento sólo será denegado si aparece comprobada alguna causa de retiro forzoso.
 
 ###### Artículo 191.
 
@@ -1814,45 +2050,63 @@ Para la comprobación de la causa de retiro voluntario y la cuantificación del 
 
 Esta ineficacia no invalidará los actos derivados de tales cómputos ajenos al trámite de retiro actual. Sólo se les reconocerá plena eficacia dentro del trámite de retiro y de beneficio de retiro, a los cómputos de tiempo de servicios que hayan servido de base a retiros anteriores; en tales casos, los cómputos anteriores no podrán ser modificados por ningún motivo, sumándose su resultado al tiempo posterior a la fecha de reingreso al activo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 192.
 
-Los familiares de militares que se consideren con derecho a beneficio, solicitarán el otorgamiento de compensación o pensión directamente al Instituto, acompañando la documentación comprobatoria necesaria y éste, en un término que no exceda de cinco días hábiles, turnará el escrito petitorio y sus anexos a la Secretaría de la Defensa Nacional o de Marina, en su caso, misma que dentro de los siguientes sesenta días hábiles resolverá lo concerniente, previo estudio del expediente militar y de las pruebas aportadas por los interesados, determinen la personalidad militar, la jerarquía y la situación en que quedaba como miembro de las Fuerzas Armadas, en el momento de su muerte, la persona de quien deriven sus derechos los peticionarios. éstos podrán, después de presentada la solicitud, aportar directamente a la Secretaría correspondiente de que se trate las pruebas que estimen pertinentes.
+Los familiares de militares que se consideren con derecho a beneficio, solicitarán el otorgamiento de compensación o pensión directamente al Instituto, acompañando la documentación comprobatoria necesaria y éste, en un término que no exceda de cinco días hábiles, turnará el escrito petitorio y sus anexos a la Dirección encargada de tramitar administrativamente los retiros de la Secretaría de la Defensa Nacional o de Marina, en su caso, misma que dentro de los siguientes sesenta días hábiles resolverá lo concerniente, previo estudio del expediente militar y de las pruebas aportadas por los interesados, determinen la personalidad militar, la jerarquía y la situación en que quedaba como miembro de las Fuerzas Armadas, en el momento de su muerte, la persona de quien deriven sus derechos los peticionarios. Éstos podrán, después de presentada la solicitud, aportar directamente a la Secretaría correspondiente de que se trate las pruebas que estimen pertinentes.
 
-Reunidos los elementos de convicción necesarios, la Secretaría declarará la existencia o inexistencia de la personalidad militar de la persona señalada por los interesados y en su caso, si al morir se encontraba en el activo o en situación de retiro. Esta declaración y el cómputo de servicios militares, si los hubiere prestado la persona aludida, se notificarán a los peticionarios para los efectos de su manifestación de conformidad o de inconformidad, y en este último caso, para que ofrezcan y rindan pruebas, en la misma forma y términos mencionados en esta Ley.
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+Reunidos los elementos de convicción necesarios, la Dirección encargada de tramitar administrativamente los retiros, declarará la existencia o inexistencia de la personalidad militar de la persona señalada por los interesados y en su caso, si al morir se encontraba en el activo o en situación de retiro. Esta declaración y el cómputo de servicios militares, si los hubiere prestado la persona aludida, se notificarán a los peticionarios para los efectos de su manifestación de conformidad o de inconformidad, y en este último caso, para que ofrezcan y rindan pruebas, en la misma forma y términos mencionados en esta Ley.
 
 Las objeciones sólo podrán referirse a la inexistencia de personalidad militar y la jerarquía o cómputo de servicios, en su caso, de la persona señalada por los familiares.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 193.
 
-En los casos en que los militares y los familiares de éstos hubieran formulado objeciones a las declaraciones pronunciadas por la Secretaría que corresponda, o a los cómputos de servicios, dicha Secretaría formulará dentro de los 45 días hábiles siguientes, su declaración definitiva en la cual resolverá las objeciones aceptándolas o rechazándolas, y haciendo pormenorizada valorización de las pruebas y cuestiones alegadas. También será notificada a los interesados esta declaración.
+En los casos en que los militares y los familiares de éstos hubieran formulado objeciones a las declaraciones pronunciadas por la Dirección encargada de tramitar administrativamente los retiros de la Secretaría que corresponda, o a los cómputos de servicios, dicha Dirección formulará dentro de los 45 días hábiles siguientes, su declaración definitiva en la cual resolverá las objeciones aceptándolas o rechazándolas, y haciendo pormenorizada valorización de las pruebas y cuestiones alegadas. También será notificada a los interesados esta declaración.
 
 Si los militares o los familiares manifestaron su conformidad a las declaraciones provisionales o dejaren transcurrir el primer plazo señalado en el artículo 188 de esta Ley -lo que se considerará como una aceptación tácita-, se tendrá como definitiva dicha declaración.
 
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 194.
 
-Cuando en las declaraciones de las Secretarías se reconociere la procedencia del retiro del militar interesado, o se tuviere por probada la personalidad militar de la persona de que hacen derivar sus derechos los peticionarios, y el hecho de que su muerte haya ocurrido en el activo o en situación de retiro, se remitirá el incidente de retiro y el expediente militar al Instituto. En los casos en que la declaración fuere adversa, se notificará ésta a los interesados, dando aviso al Instituto y a la Secretaría de Hacienda y Crédito Público.
+Cuando en las declaraciones de la Dirección encargada de tramitar administrativamente los retiros de las Secretarías de la Defensa Nacional o de Marina, respectivamente, se reconociere la procedencia del retiro del militar interesado, o se tuviere por probada la personalidad militar de la persona de que hacen derivar sus derechos los peticionarios, y el hecho de que su muerte haya ocurrido en el activo o en situación de retiro, se remitirá el incidente de retiro y el expediente militar al Instituto. En los casos en que la declaración fuere adversa, se notificará ésta a los interesados, dando aviso al Instituto y a la Secretaría de Hacienda y Crédito Público.
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 195.
 
-Cuando estando concluido el trámite conforme al procedimiento establecido en esta Ley, existan pruebas supervinientes con las que se acredite que la inutilidad o fallecimiento fue consecuencia de los actos a que se refiere el artículo 168 de esta Ley, las Secretarías de origen tendrán la obligación de rectificar la resolución definitiva que se haya emitido para el trámite inicial para efectos de que, se le otorgue el beneficio económico que le corresponda con apego a la presente Ley.
+Cuando estando concluido el trámite conforme al procedimiento establecido en esta Ley, existan pruebas supervenientes con las que se acredite que la incapacidad o fallecimiento fue consecuencia de los actos a que se refiere el artículo 168 de esta Ley, las Secretarías de origen por conducto de sus Direcciones encargadas de tramitar administrativamente los retiros respectivamente, tendrán la obligación de rectificar la resolución definitiva que se haya emitido para el trámite inicial para efectos de que se le otorgue el beneficio económico que le corresponda con apego a la presente Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 196.
 
-Al recibir el Instituto la documentación proveniente de la Secretaría de que se trate, realizará el estudio de los antecedentes y formulará un dictamen, dentro de los 45 días hábiles siguientes sobre la procedencia del beneficio, su naturaleza y su monto, pudiendo solicitar los datos aclaratorios necesarios a la Secretaría remitente, a la autoridad que corresponda o al militar o familiares peticionarios. En caso de que el Instituto advierta que la Secretaría remitente ha omitido formalidades de procedimiento que le corresponda y que pudieran dar lugar a reclamaciones ante los tribunales, devolverá la documentación del caso a dicha Secretaría para que se proceda legalmente.
+Al recibir el Instituto la documentación proveniente de la Dirección encargada de tramitar administrativamente los retiros de la Secretaría de que se trate, realizará el estudio de los antecedentes y formulará un dictamen, dentro de los 45 días hábiles siguientes sobre la procedencia del beneficio, su naturaleza y su monto, pudiendo solicitar los datos aclaratorios necesarios a la Dirección remitente, a la autoridad que corresponda o al militar o familiares peticionarios. En caso de que el Instituto advierta que la Dirección remitente ha omitido formalidades de procedimiento que le corresponda y que pudieran dar lugar a reclamaciones ante los tribunales, devolverá la documentación del caso a dicha Dirección para que se proceda legalmente.
 
 La Junta Directiva, con vista del dictamen y toda la documentación relativa, dictará resolución dentro de 45 días hábiles siguientes concediendo o negando el beneficio, especificando en el primer caso, su naturaleza, su cuantía y demás particularidades del mismo. El otorgamiento o la negativa se basarán en los hechos y circunstancias que aparezcan probados, hubieran sido o no alegados o impugnados por los promoventes, pero se hará referencia a todas las cuestiones planteadas y se valorará cada una de las pruebas presentadas por los interesados.
 
-La Junta del Instituto, en sus resoluciones, acatará las declaraciones definitivas de las Secretarías de la Defensa Nacional o de Marina, en cuanto reconozcan personalidad militar, determinen jerarquías en el activo o para efectos de retiro, precisen específicamente la causa o causas del retiro acreditadas y fijen situaciones dentro del activo o de retiro. También se sujetará a los cómputos de servicios formulados en dichas Secretarías.
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+La Junta del Instituto, en sus resoluciones, acatará las declaraciones definitivas de la Dirección de la Defensa Nacional o de Marina, en cuanto reconozcan personalidad militar, determinen jerarquías en el activo o para efectos de retiro, precisen específicamente la causa o causas del retiro acreditadas y fijen situaciones dentro del activo o de retiro. También se sujetará a los cómputos de servicios formulados en dichas Direcciones.
+
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 197.
 
-En tanto se llevan a cabo los trámites a que se refieren los artículos anteriores, el Instituto indicará a la Unidad Ejecutora de Pagos correspondiente, se continúe cubriendo el 50% del haber o haber de retiro que percibía el militar fallecido, a los familiares que se acrediten con la credencial de afiliación respectiva, sin perjuicio de que posteriormente se establezca en definitiva a quienes corresponde este derecho, de acuerdo a lo dispuesto por el articulado de esta Ley.
+En tanto se llevan a cabo los trámites a que se refiere el artículo 196 de la Ley, el Instituto cubrirá con cargo al erario federal el 50% del haber o haber de retiro que percibía el militar fallecido a los familiares a quienes se les haya otorgado el beneficio por resolución de la Junta Directiva.
 
-Una vez dictada la resolución definitiva; al efectuarse la liquidación correspondiente, de la cantidad que debe percibirse, se descontará la cantidad que les ha sido cubierta.
+Al efectuarse la liquidación correspondiente, de la cantidad que debe percibirse, se descontará la cantidad que les ha sido cubierta.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 198.
 
-Al notificarse la resolución anterior; que tendrá carácter de provisional, los interesados podrán ejercitar dentro de un plazo de quince días el recurso de reconsideración, contando con quince días para la presentación de pruebas si las ofrecieran precisamente en el escrito con que interpusieron el recurso. El recurso de reconsideración a que se refiere este artículo, se rechazará de plano en lo que se refiere a lo ya resuelto por las Secretarías de la Defensa Nacional o de Marina, en su caso.
+Al notificarse la resolución anterior, que tendrá carácter de provisional, los interesados podrán ejercitar dentro de un plazo de quince días el recurso de reconsideración, contando con quince días para la presentación de pruebas si las ofrecieran precisamente en el escrito con que interpusieron el recurso. El recurso de reconsideración a que se refiere este artículo, se rechazará de plano en lo que se refiere a lo ya resuelto por la Dirección encargada de tramitar administrativamente los retiros respectivamente, de las Secretarías de la Defensa Nacional o de Marina, en su caso.
 
 Si dentro del primer plazo manifiestan su conformidad o dejaren que transcurra en silencio, lo que significará una aceptación tácita, se tendrá como definitiva la resolución de la Junta.
 
@@ -1922,7 +2176,9 @@ I. Los cadetes y los demás alumnos de los establecimientos militares que no per
 
 II. El personal de tropa y marinería del Servicio Militar por conscripción, con la categoría que tenga mientras se encuentren desempeñando actos del servicio, y
 
-III. Los miembros de los Cuerpos de Defensas Rurales que se inutilicen o fallezcan en actos del servicio o a consecuencia de ellos, como soldados.
+> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+III. Los miembros de los Cuerpos de Defensas Rurales que se incapaciten o fallezcan en actos del servicio o a consecuencia de ellos, como soldados.
 
 ###### Artículo 210.
 
@@ -1978,9 +2234,11 @@ Las responsabilidades de los funcionarios y empleados del Instituto, se normará
 
 El Gobierno Federal aportará al Instituto y al Banco Nacional del Ejército, Fuerza Aérea y Armada, SNC, las cantidades necesarias para cumplir las obligaciones que impone esta Ley, respecto a las siguientes prestaciones: seguro de vida militar, pagas de defunción, ayuda para gastos de sepelio, fondo de trabajo y fondo de ahorro.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 221.
 
-El Gobierno Federal destinará anualmente una cantidad equivalente al 11% de los haberes y haberes de retiro para las siguientes prestaciones:
+El Gobierno Federal destinará anualmente una cantidad equivalente al 15% de los haberes, haberes de retiro y pensiones para las siguientes prestaciones:
 
 I. El servicio médico integral que el Instituto debe prestar gratuitamente a los militares que perciben haber de retiro, a los familiares de éstos, a los familiares de los militares en activo que perciben haber y a los familiares de los militares sentenciados, en los términos del artículo 142 de esta Ley, y
 
@@ -2002,9 +2260,11 @@ El Instituto se presume de acreditada solvencia, por lo que no estará obligado 
 
 No obstante su plena capacidad para actuar en juicio, el Instituto no podrá desistir de continuar ninguna acción judicial cuando se trate de asuntos que afecten a su patrimonio, si no media para ello autorización expresa de su Junta Directiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 226.
 
-Para la determinación de las categorías y grados de accidentes o enfermedades que den origen a retiro por inutilidad se aplicarán las siguientes tablas:
+Para la determinación de las categorías y grados de accidentes o enfermedades que den origen a retiro por incapacidad se aplicarán las siguientes tablas:
 
 Primera Categoría
 
@@ -2172,7 +2432,9 @@ Primera Categoría
 
 82. Los estados de inmunodeficiencia de cualquier etiología, con susceptibilidad a infecciones recurrentes.
 
-83. La seropositividad a los anticuerpos contra los virus de la inmunodeficiencia humana, confirmada con pruebas suplementarias más infecciones por gérmenes oportunistas y/o neoplasias malignas.
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+83. La seropositividad a los anticuerpos contra los virus de la inmunodeficiencia humana, confirmada con pruebas suplementarias más infecciones por gérmenes oportunistas y/o neoplasias malignas, en etapa terminal por más de seis meses.
 
 84. Las secuelas no tratables de la enfermedad injerto contra huésped.
 
@@ -2260,7 +2522,7 @@ d. De tres dedos de la mano dominante que no incluyan el pulgar.
 
 122. Otras alteraciones o estados que se constituyen con la suma de diversas categorías o trastornos funcionales, y que a criterio médico ocasionen incapacidades mayores al 60% de función en relación a la actividad del sujeto.
 
-Respecto del personal técnico aeronáutico de la Fuerza Aérea Mexicana (personal de pilotos aviadores, de los servicios y especialistas), los especialistas en medicina de aviación, apoyados por especialistas del área médica que implique la patología de que dicho personal pudiera ser portador, serán los responsables de clasificarlos en esta categoría.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 Segunda Categoría
 
@@ -2360,9 +2622,9 @@ d) De todos los dedos de un pie.
 
 44. Las alteraciones permanentes, orgánicas o funcionales, de los diversos aparatos y sistemas que disminuyen la capacidad del individuo entre el 40 y 50% y que no han quedado comprendidas en esta categoría.
 
-45. La seropositividad a los anticuerpos contra los virus de la inmunodeficiencia humana confirmada con pruebas suplementarias.
+45. (DEROGADO, D.O.F. 20 DE NOVIEMBRE DE 2008)
 
-Respecto del personal técnico aeronáutico de la Fuerza Aérea Mexicana (personal de pilotos aviadores, de los servicios y especialistas), los especialistas en medicina de aviación, apoyados por especialistas del área médica que implique la patología de que dicho personal pudiera ser portador, serán los responsables de clasificarlos en esta categoría.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 Tercera Categoría
 
@@ -2476,9 +2738,11 @@ b) Del cuarto y quinto dedos de la mano dominante.
 
 53. Las alteraciones permanentes anatómicas o funcionales de los diversos aparatos o sistemas, que disminuyan la capacidad funcional del individuo entre el 20% y el 40% y que no han quedado comprendidas en esta categoría, o que se constituyan con los diversos grados de ella.
 
-Respecto del personal técnico aeronáutico de la Fuerza Aérea Mexicana (personal de pilotos aviadores, de los servicios y especialistas), los especialistas en medicina de aviación, apoyados por especialistas del área médica que implique la patología de que dicho personal pudiera ser portador, serán los responsables de clasificarlos en esta categoría.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
-Lista de padecimientos que por producir trastornos funcionales de menos del 20% ameritan cambio de arma o servicio a petición de un consejo médico.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+Lista de padecimientos que por producir trastornos funcionales de menos del 20% ameritan cambio de Arma o Servicio a petición de un Consejo Médico.
 
 1. Las alteraciones orgánicas o funcionales irreparables que provoquen que la visión central en cada ojo, aun después de corregir los vicios de refracción, alcance a lo sumo 20/40.
 
@@ -2506,7 +2770,9 @@ Lista de padecimientos que por producir trastornos funcionales de menos del 20% 
 
 13. La obesidad con un índice de masa corporal entre 28 a 29.9.
 
-14. La diabetes mellitus tipo 2 con complicación crónica.
+> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+
+14. La diabetes mellitus tipo 2 sin complicación crónica.
 
 15. Las lesiones permanentes orgánicas o funcionales de cualquiera de los tejidos o glándulas del sistema endocrino, que ocasionen hiperfunción o hipofunción de menos del 20%.
 
@@ -2520,9 +2786,13 @@ a) Pérdida parcial o incompleta de 2 o más dedos de una mano.
 
 b) De falange distal de uno o de ambos pulgares.
 
-19. Las alteraciones permanentes, anatómicas o funcionales, de los diversos aparatos y sistemas, que disminuyen la capacidad funcional del individuo entre el 10% y el 20% y que no han quedado comprendidas en esta categoría.
+> <small>(ADICIONADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
-Para el personal técnico aeronáutico de la Fuerza Aérea Mexicana (personal de pilotos aviadores, de los servicios y especialistas), especialistas en medicina de aviación, apoyados por especialistas del área médica que implique la patología de que dicho personal pudiera ser portador, serán los responsables de clasificarlos en los trastornos correspondientes antes mencionados.
+19. La seropositividad a los anticuerpos contra los virus de la inmunodeficiencia humana confirmada con pruebas suplementarias, que limite la actividad funcional militar por requerir de control y tratamiento médico.
+
+20. Las alteraciones permanentes, anatómicas o funcionales, de los diversos aparatos y sistemas, que disminuyen la capacidad funcional del individuo entre el 10% y el 20% y que no han quedado comprendidas en esta categoría.
+
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 227.
 
@@ -2561,3 +2831,69 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 8 DE MAYO DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE NOVIEMBRE DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo las disposiciones que impliquen impacto económico, las cuales se aplicarán en los siguientes términos:
+
+a) A partir del 1 de enero de 2008, los haberes de retiro, compensaciones y pensiones se integrarán con el 80% a que se refieren las fracciones I y V del artículo 31 del presente Decreto; a partir de la citada fecha, dicho porcentaje sustituirá al 70% que vienen percibiendo los militares que se encuentren en situación de retiro con derecho al pago de haber de retiro y al 60% que perciben los pensionistas.
+
+Para efectos del párrafo anterior, el porcentaje aumentará del 70% al 75% en el año 2008 y, a partir del año 2009, se alcanzará el porcentaje del 80%.
+
+b) Los militares que pasen a situación de retiro y los que se encuentren en dicha situación con 30 ó más años de servicios efectivos, a partir del mes de enero de 2011 percibirán su haber de retiro con el total del porcentaje adicional que se establece en la fracción III del artículo 31; para dicho efecto, a partir del mes de enero de 2008 se aplicará al monto del haber de retiro integrado con la suma de los conceptos a los que se refiere la fracción I del citado numeral; el porcentaje para cada año se indica en la tabla siguiente:
+
+Años de servicios 2008 2009 2010 2011
+
+30 15.00% 30.00% 45.00% 60.00%
+
+31 15.50% 31.00% 46.50% 62.00%
+
+32 16.00% 32.00% 48.00% 64.00%
+
+33 16.50% 33.00% 49.50% 66.00%
+
+34 17.00% 34.00% 51.00% 68.00%
+
+35 17.50% 35.00% 52.50% 70.00%
+
+36 18.00% 36.00% 54.00% 72.00%
+
+37 18.50% 37.00% 55.50% 74.00%
+
+38 19.00% 38.00% 57.00% 76.00%
+
+39 19.50% 39.00% 58.50% 78.00%
+
+40 20.00% 40.00% 60.00% 80.00%
+
+41 20.50% 41.00% 61.50% 82.00%
+
+42 21.00% 42.00% 63.00% 84.00%
+
+43 21.50% 43.00% 64.50% 86.00%
+
+44 22.00% 44.00% 66.00% 88.00%
+
+45 ó más 22.50% 45.00% 67.50% 90.00%
+
+Los porcentajes que se señalan para los militares con 45 ó más años de servicios efectivos, sustituirán al porcentaje adicional del 10% que se les viene cubriendo.
+
+c) La aportación del Gobierno Federal a la que se refiere el artículo 66 del presente Decreto, para constituir a favor de los militares el Fondo del Seguro de Vida Militar, se realizará a partir del mes de enero de 2010 a razón del 1.9%, y al 2.0% a partir del mes de enero de 2011.
+
+d) La aportación del 3.0% que se cubre con cargo al presupuesto de las Secretarías de la Defensa Nacional y de Marina para integrar el importe de la prima mensual del Seguro Colectivo de Retiro conforme a lo dispuesto en la fracción I del artículo 90 del presente Decreto, se realizará a partir del mes de enero de 2008 a razón del 1.333%; a partir del mes de enero de 2009 a razón del 2.166%, y a partir del mes de enero de 2010 a razón del 3.0%.
+
+e) La aportación del 15% que el Gobierno Federal realice en términos del artículo 221 del presente Decreto sobre los haberes, haberes de retiro y pensiones, se empezará a cubrir a partir del mes de enero de 2008 conforme a la tabla siguiente, a fin de que a partir del mes de enero de 2011, la aportación del Gobierno Federal sea equivalente al 15% de los conceptos que señala la norma:
+
+Año Haberes Haberes de Retiro Pensiones
+
+2008 11.8% 11.8% 0%
+
+2009 12.8% 12.8% 5%
+
+2010 13.9% 13.9% 10%
+
+2011 15.0% 15.0% 15%
+
+SEGUNDO. El porcentaje correspondiente al año 2008 será proporcionado del presupuesto actual de las dependencias y entidades involucradas: Secretaría de la Defensa Nacional, Secretaría de Marina e Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente ordenamiento, quedando a salvo los derechos y beneficios que se vengan ejerciendo y disfrutando en términos de las Leyes del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas de 1976 y 2003.
