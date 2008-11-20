@@ -4,7 +4,7 @@ identifier: "SLP-lineamientos-para-la-gestion-de-archivos-administrativos-y-6271
 country: "mx"
 rank: "lineamientos"
 publication_date: "2008-07-17"
-last_updated: "2008-07-17"
+last_updated: "2008-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LINEAMIENTOS PARA LA GESTION DE ARCHIVOS ADMINISTRATIVOS Y RESGUARDO DE LA INFORMACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-LINEAMIENTOS PARA LA GESTION DE ARCHIVOS ADMINISTRATIVOS Y RESGUARDO DE LA INFORMACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
+LINEAMIENTOS PARA LA GESTIÓN DE ARCHIVOS ADMINISTRATIVOS Y RESGUARDO DE LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2008.
 
 Lineamientos publicados en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de julio de 2008.
 
@@ -55,9 +55,11 @@ LINEAMIENTOS PARA LA GESTION DE ARCHIVOS ADMNISTRATIVOS Y RESGUARDO DE LA INFORM
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
-###### ARTICULO 1º.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2008)</small>
 
-Estos lineamientos son de observancia obligatoria para los entes obligados señalados en el artículo 3º, fracción XII de la Ley de Transparencia y Acceso a la Información Pública, y tiene por objeto establecer los criterios técnicos para organizar y sistematizar la integración, administración y resguardo de los archivos en posesión de los entes obligados, así como la integración y organización del Sistema Estatal de Documentación y Archivos.
+###### ARTICULO 1°.
+
+Estos lineamientos son de observancia obligatoria para los entes obligados señalados en el artículo 3°, fracción XII de la Ley de Transparencia y Acceso a 1a Información Pública, y tienen por objeto establecer los criterios técnicos para organizar y sistematizar la integración, administración y resguardo de los archivos en posesión de los entes obligados, (sic)
 
 ###### ARTICULO 2º.
 
@@ -153,17 +155,11 @@ Recibir, registrar, manejar y controlar la correspondencia que ingrese al ente o
 
 Manejar, controlar y despachar oportunamente la documentación que egrese del ente obligado en forma centralizada.
 
-###### ARTICULO 8º.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2008)</small>
 
-Son funciones de la Unidad de Archivo de Trámite:
+###### ARTICULO 8°.
 
-La Unidad de Archivo de Trámite del ente obligado debe organizar los Fondos, Secciones y Series que constituyan su acervo, de conformidad con el principio de procedencia y orden original;
-
-Recibir, registrar y controlar la correspondencia que ingrese directamente al área administrativa de adscripción y, en su caso, la que reciba de la Unidad Central de Correspondencia (Oficialía de Partes);
-
-Coadyuvar con el Coordinador de Archivos del ente obligado en el desarrollo, instrumentación y actualización de la normatividad archivística aplicable a escala institucional, Integrar o coadyuvar en la integración en las áreas generadoras, los expedientes asociados a la gestión institucional del área administrativa de adscripción, recibiéndolos de ellas para su clasificación, ordenación, descripción, resguardo y para facilitar el acceso, valoración y transferencia de la documentación al Archivo de Concentración del ente obligado;
-
-Despachar la correspondencia de su área de adscripción, llevando los controles y registros de distribución que se establezcan al efecto.
+Son funciones de la Unidad de Archivo de Trámite, organizar los Fondos, Secciones y Series que constituyan su acervo, de conformidad con el principio de procedencia y orden original, siendo responsable de éste, el Director de cada área administrativa de la entidad pública de que se trate.
 
 ###### ARTICULO 9º.
 
@@ -195,9 +191,11 @@ III. Elaborar la Guía General de Fondos del Archivo Histórico del ente obligad
 
 El Coordinador de Archivos es el responsable de regular la organización de los archivos y el comité de Información será su órgano técnico consultivo.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 12.
 
-El Coordinador de Archivos será designado por el servidor público que tenga facultades legales para ello, quien, en su caso, establecerá su nivel jerárquico y adscripción administrativa. Deberá contar con experiencia y conocimientos en administración de documentos, el perfil del coordinador de archivos se basa en las funciones descritas a continuación.
+En cada una de las entidades públicas el coordinador de archivos será designado por el servidor público que tenga las facultades legales para ello. Dicho coordinador deberá tener un nivel jerárquico Directivo y se auxiliará de personal profesional en materia archivística.
 
 ###### ARTICULO 13.
 
@@ -245,11 +243,15 @@ VI. Baja o depuración documental, y
 
 VII. Transferencias primarias y secundarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 16.
 
 Los documentos de archivo deben integrarse y obrar en expedientes, o unidades de documentación compuesta, constituidos por uno o varios documentos de archivo, ordenados lógica y cronológicamente y relacionados por un mismo asunto, materia, actividad o trámite.
 
-Organizando los documentos el más antiguo al final del expediente y el más reciente al inicio del expediente.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2008)</small>
+
+En lo que se refiere a la correspondencia se organizaran los documentos el más antiguo al final del expediente y el más reciente al inicio del expediente, (sic)
 
 La integración de expedientes deberá hacerse en carpetas o legajos plenamente identificados, preferentemente con carátulas estandarizadas en todo el ente obligado, con el objeto de homologar su clasificación y descripción. Los expedientes deberán foliarse para la integridad de la información que contienen y también deberá evitarse incorporar en ellos, en lo posible, elementos que dañen o lastimen a los elementos que los constituyen, como clips o grapas.
 
@@ -387,7 +389,9 @@ Las carátulas de los expedientes deberán registrar la información que permita
 
 El formato para la carátula estandarizada de los expedientes del ente obligado deberá considerar la información siguiente:
 
-I. Nombre de la unidad administrativa generadora de los expedientes (Fondo);
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2008)</small>
+
+I. Nombre de la entidad pública (Fondo);
 
 II. Área productora del expediente (sección);
 
@@ -650,3 +654,9 @@ LA SECRETARIA DE ACTAS
 LIC. ROSA MARÍA MOTILLA GARCÍA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE NOVIEMBRE DE 2012.
+
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSÍ.
