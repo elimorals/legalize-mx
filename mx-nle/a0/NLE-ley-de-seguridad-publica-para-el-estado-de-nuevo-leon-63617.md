@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2008-09-22"
+last_updated: "2008-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -1487,9 +1487,11 @@ La Academia deberá incorporar en los programas de formación, capacitación, ac
 
 Le corresponde a los Ayuntamientos de los Municipios expedir la reglamentación que contenga las disposiciones jerárquicas, de estructura normativa, operativas, administrativas, principios de organización y funcionamiento, de organización territorial, mandos administrativos y operativos, patrullaje, vigilancia, dirección y disciplina del régimen interno de la Policía Preventiva Municipal, con sujeción a las disposiciones contenidas en esta Ley.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 135.
 
-Las instituciones policiales preventivas de los Municipios de Monterrey, Guadalupe, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina, Apodaca, Escobedo, Santiago, Juárez, Cadereyta Jiménez y García, Nuevo León, se coordinarán en un esquema intermunicipal denominado como Policía Metropolitana o por sus siglas METROPOL, con el objeto de diseñar en conjunto las estrategias operativas para prevenir y controlar conductas delictivas o infracciones administrativas que afectan la paz, el orden y la tranquilidad pública de sus habitantes, coordinándose con las autoridades de Seguridad Pública del Estado para ejercer funciones de intervención, control o de reacción frente a delitos de alto impacto social o que la legislación penal lo califica de graves.
+Las instituciones policiales preventivas de los Municipios de Monterrey, Guadalupe, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina, Apodaca, Escobedo, Santiago, Juárez, Cadereyta Jiménez y García, Nuevo León, y la Secretaría; se coordinarán en un esquema intermunicipal denominado como Policía Metropolitana o por sus siglas METROPOL, con el objeto de diseñar en conjunto las estrategias operativas para prevenir y controlar conductas delictivas o infracciones administrativas que afectan la paz, el orden y la tranquilidad pública de sus habitantes, coordinándose con las autoridades del sistema de Seguridad Pública del Estado o de la Federación, según corresponda, para ejercer funciones de intervención, control o de reacción frente a delitos de alto impacto social o que la legislación penal califica de graves.
 
 ###### Artículo 136.
 
@@ -2592,3 +2594,9 @@ GILBERTO MONTIEL AMOROSO
 EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RUBEN EDUARDO MARTÍNEZ DONDÉ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE NOVIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
