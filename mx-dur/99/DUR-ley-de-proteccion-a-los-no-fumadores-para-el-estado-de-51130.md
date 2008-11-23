@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-a-los-no-fumadores-para-el-estado-de-51130"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-29"
-last_updated: "2006-06-29"
+last_updated: "2008-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51130&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PROTECCION A LOS NO FUMADORES PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 2006.
 
@@ -39,125 +39,123 @@ DECRETO No. 240
 
 LA H HONORABLE LXIII LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, CON LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A NOMBRE DEL PUEBLO DECRETA:
 
+> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO No. 186, POR LA SEXAGESIMA CUARTA LEGISLATURA, MODIFICA DE MANERA SUSTANCIAL, PRÁCTICAMENTE TODO EL TEXTO DE LA PRESENTE LEY, DANDO COMO RESULTADO EN TEXTO; DEBIDO A LO ANTERIOR SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO DEL 23 DE NOVIEMBRE DE 2008.</small>
+
 LEY DE PROTECCIÓN A LOS NO FUMADORES PARA EL ESTADO DE DURANGO
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
-### CAPÍTULO ÚNICO. GENERALIDADES
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 1.
 
-Esta Leyes de orden público e interés social y su observancia es obligatoria en todo el territorio del Estado de Durango.
+La presente ley es de orden público, interés social, de observancia general en el territorio del Estado, y tiene por objeto la protección de la salud de la población contra los efectos nocivos del consumo de tabaco.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 2.
 
-La presente Ley tiene por objeto:
+La presente Ley tiene como finalidad:
 
-I. Promover la cultura de tolerancia y respeto en la convivencia entre no fumadores y fumadores;
+I. La protección de la salud de la población de los efectos nocivos del consumo del tabaco;
 
-II. Proteger la salud de los no fumadores de los efectos por inhalación involuntaria del humo ambiental generado por la combustión del tabaco, al convivir en espacios cerrado con fumadores;
+II. La protección de los derechos de los no fumadores, a vivir y convivir en espacios 100% libres de humo de tabaco;
 
-III. Promover la difusión de las consecuencias para la salud de las personas, generadas por el consumo voluntario de productos de tabaco;
+III. Fomentar la promoción y la educación para la protección de la salud, y concientizar a la población de las consecuencias negativas del consumo y exposición al humo del tabaco;
 
-IV. Establecer mecanismos y acciones tendientes a prevenir y disminuir las consecuencias generadas en la salud de la población" derivadas de la inhalación involuntaria del humo ambiental generado por la combustión del tabaco en cualquiera de sus formas; y
+IV. Establecer la coordinación entre los distintos niveles de gobierno tendiente al establecimiento de programas y acciones que procuren reducir los daños a la salud de las personas, derivados del consumo de productos de tabaco;
 
-V. Establecer la coordinación entre los ayuntamientos y el Gobierno del Estado tendiente al establecimiento de programas y acciones públicas que procuren reducir los daños a la salud de las personas, derivados del consumo de productos de tabaco.
+V. Establecer los lineamientos generales para el diseño y evaluación de las políticas públicas en esta materia, y
+
+VI. Las demás que sean necesarias para el cumplimiento de su objetivo.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 3.
 
-Para efectos de la presente Ley se entiende por:
+Para efectos de la presente Ley, se entiende por:
 
-I. Área abierta: Los espacios que se encuentran ubicados al aire libre;
+I. Área abierta.- Los espacios que se encuentran ubicados al aire libre;
 
-II. Área cerrada: El espacio de un establecimiento, local o similares que se encuentra separado por bardas, techos o cualquier otro material que lo aísle del exterior;
+II. Certificado de espacio 100% libre de humo de tabaco.- El documento que acredite el reconocimiento de aquellos establecimientos que demuestren y garanticen la protección a los no fumadores;
 
-III. Bar: Establecimiento donde se consumen preponderantemente bebidas, botanas y en menor medida algún alimento;
+III. Cigarrillo.- El cigarro pequeño de picadura envuelta en un papel de fumar;
 
-IV. Cafetería: Establecimiento donde se sirve café y otras bebidas, así como alimentos fríos o que requieran poca preparación;
+IV. Cigarro o puro.- El rollo de hojas de tabaco, que enciende por un extremo y se fuma por el opuesto;
 
-V. Centro de Entretenimiento: A los parques de diversiones, circos, kermeses, ferias y otros similares;
+V. Denuncia Ciudadana.- La que realiza cualquier persona respecto de los hechos de incumplimiento de las disposiciones contenidas en esta Ley, su reglamento y demás disposiciones aplicables, ante la autoridad competente;
 
-VI. Centro de Entretenimiento para Adultos: Cabaret, centros de espectáculos y otros similares;
+VI. Establecimiento.- El espacio cerrado con acceso al público, independientemente de la actividad a que se destine;
 
-VII. Discotecas: Establecimiento de acceso exclusivo para adultos con horario preferentemente nocturno para escuchar música, bailar y consumir bebidas con contenido alcohólico;
+VII. Entes Públicos.- El Poder Legislativo del Estado, y cualquiera de sus dependencias; El Poder Ejecutivo del Estado y todas las dependencias y entes de la administración pública estatal y paraestatal; el Poder Judicial del Estado y todos sus órganos; los Tribunales Estatales Autónomos; los Ayuntamientos de los municipios y todas las dependencias y entidades de la administración pública municipal y paramunicipal; y los órganos autónomos previstos en la constitución y en las leyes estatales reconocidos como de interés público;
 
-VIII. Dueño: Persona física o moral titular de la licencia de operación o concesión, o quien asuma esa responsabilidad con motivo de la operación o explotación del establecimiento o del vehículo de transporte público o escolar o la persona física o moral titular de la tarjeta de circulación del vehículo de transporte público o escolar;
+VIII. Espacio cerrado de acceso al público.- Todo aquél en el que hacia su interior no circula de manera libre el aire natural. Las ventanas, puertas, ventilas y demás orificios o perforaciones en delimitaciones físicas, no se considerarán espacios para la circulación libre de aire natural;
 
-IX. Entes Públicos: El Poder legislativo del Estado, y cualquiera de sus dependencias, El Poder Ejecutivo del Estado y todas las dependencias y entes de la administración pública estatal y paraestatal, el Poder judicial del Estado y todos sus órganos, los Tribunales Estatales, los Ayuntamientos de los municipios, todas las dependencias y entidades de la administración pública municipal y paramunicipal, los órganos autónomos previstos en la constitución y en las leyes estatales reconocidos como de interés público;
+IX. Espacio 100% libre de humo de tabaco.- El establecimiento, todo lugar de trabajo interior o transporte público, escolar, de personal y los vehículos oficiales de los entes públicos, en los que queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco;
 
-X. Escuelas: Los recintos de enseñanza indígena, especial, inicial, preescolar, primaria, secundaria, media, media superior, superior, para adultos y de formación para el trabajo del sector público y privado;
+X. Humo de Tabaco.- Las emisiones de los productos de tabaco originadas por encender o consumir cualquier producto del tabaco y que afectan al no fumador;
 
-XI. Establecimientos: A los locales que se dedican al expendio para su consumo en el lugar, de alimentos y bebidas como los restaurantes, bares de los restaurantes, cantinas, cervecerías, discotecas, pulquerías y cafeterías;
+XI. Promoción de la salud.- Las acciones tendientes a desarrollar actitudes y conductas que favorezcan estilos de vida saludables en la familia, el trabajo y la comunidad;
 
-XII. Fumador pasivo: A la persona que se encuentra en condiciones de inhalar involuntaria mente el humo producto de la combustión de tabaco, como consecuencia de la cercanía con alguna persona que fume;
+XII. Reincidencia.- La violación a las disposiciones de esta Ley o su Reglamento, dos o más veces, dentro del periodo de un año calendario, contado a partir de la notificación de la sanción inmediata anterior;
 
-XIII. Fumador: La persona que consume productos de tabaco mediante la inhalación por la combustión del mismo, bajo la forma de cigarrillo, puros, otros tabacos labrados y mediante el uso de pipas o instrumento similar;
+XIII. Secretaría.- La Secretaría de Salud del Estado de Durango, y
 
-XIV. Fumar: A la acción de consumir tabaco mediante combustión;
+XIV. Zona exclusiva para fumar.- Los espacios destinados para fumadores que deben cumplir los requisitos señalados en esta Ley.
 
-XV. Hoteles: A todo establecimiento mercantil que tenga por objeto brindar servicios de hospedaje, entendiéndose por estos a moteles, casa de huéspedes; hostales o cualquier otro similar;
-
-XVI. Menor de edad: A toda persona menor de 18 años;
-
-XVII. Reincidencia: La violación a las disposiciones de esta Ley, dos o más veces dentro del periodo de seis meses calendario, contado a partir de la aplicación de la multa inmediata anterior;
-
-XVIII. Restaurante: A las fondas, comedores o cualquier otro establecimiento mercantil similar que tiene por objeto la preparación y expendio de alimentos para su consumo;
-
-XIX. Sanción: A la pena que se establece para las violaciones establecidas en la presente Ley;
-
-XX. Sección de bar de restaurantes: Al área delimitada dentro de un establecimiento donde las personas consumen preponderadamente bebidas botanas y en menor medida alimentos;
-
-XXI. Sección: Al área delimitada de un establecimiento; y
-
-XXII. Secretaría de Salud: A la Secretaría de Salud del Estado de Durango.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 4.
 
-La aplicación y vigilancia del cumplimiento de esta Ley corresponderá al Gobierno del Estado de Durango a través de la Secretaría de Salud, y las instancias administrativas correspondientes, en sus respectivos ámbitos de competencia salvo tratándose de aquellas facultades que haya de ejercer directamente al Gobernador Constitucional del Estado, en los términos de la Ley Orgánica de la Administración Pública del Estado de Durango y demás normas aplicables.
+La aplicación y vigilancia del cumplimiento de esta Ley, corresponderá al Titular del Poder Ejecutivo a través de la Secretaría y a las instancias administrativas correspondientes, en sus respectivos ámbitos de competencia.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 5.
 
-En la vigilancia del cumplimiento de esta Ley coadyuvarán activamente:
+En la vigilancia del cumplimiento de esta Ley, coadyuvarán:
 
-l. Los propietarios, poseedores, responsables y empleados de los locales establecimientos y medios de transporte a los que se refiere esta Ley;
+I. Los propietarios, poseedores, responsables y empleados de los espacios 100% libres de humo de tabaco, a los que se refiere esta Ley;
 
-II. Las asociaciones de padres de familia de las escuelas e institutos públicos o privados;
+II. Los maestros, el personal administrativo de las instituciones dé educación y los integrantes de las asociaciones de padres de familia;
 
-III. Los usuarios de los establecimientos oficinas o industrias que en todo momento podrán exigir el cumplimiento de las disposiciones de la presente Ley;
+III. Los usuarios de los espacios 100% libres de humo de tabaco que en todo momento podrán exigir el cumplimiento de las disposiciones de la presente Ley;
 
-IV. Los órganos de control interno de los Entes Públicos, cuando el infractor sea un servidor público o personas físicas que se encuentren en dichas instalaciones;
+IV. Los órganos de control interno de los Entes Públicos, cuando el infractor sea un servidor público;
 
-V. Los ayuntamientos del Estado de Durango, en el ámbito de su competencia; y
+V. Los ayuntamientos, en el ámbito de su competencia, y
 
-VI. Las organizaciones de la sociedad civil cuyo campo de acción tenga que ver con temas de educación, salubridad y desarrollo humano.
+VI. Las organizaciones de la sociedad civil, cuyo campo de acción tenga que ver con temas de educación, salubridad y desarrollo humano.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 6.
 
-En el procedimiento de verificación, impugnaciones y sanciones será aplicable el Código de Justicia Administrativa para el Estado de Durango.
+Son supletorias del presente ordenamiento, la Ley General de Salud, la Ley General para el Control del Tabaco; la Ley de Salud del Estado de Durango y los demás ordenamientos aplicables.
 
-### CAPÍTULO ÚNICO. DE LA DISTRIBUCIÓN DE COMPETENCIAS Y DE LAS ATRIBUCIONES
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
+
+### CAPÍTULO II. DE LA COMPETENCIA Y ATRIBUCIONES DE LA AUTORIDAD
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 7.
 
-Son supletorias del presente ordenamiento las disposiciones de la Ley General de Salud, la Ley de Salud del Estado de Durango y las demás disposiciones aplicables.
+La aplicación y vigilancia del cumplimiento de esta Ley, corresponde, en el ámbito de sus respectivas competencias:
 
-En el caso del procedimiento se estará a lo que dispone el Código de Justicia Administrativa para el Estado de Durango.
-
-## TÍTULO SEGUNDO. ATRIBUCIONES DE LA AUTORIDAD
-
-###### Artículo 8.
-
-La aplicación y vigilancia del cumplimiento de ésta Ley corresponde, en el ámbito de sus respectivas competencias:
-
-I. Al Ejecutivo del Estado, a través de la Secretaría de Salud, en los términos de esta Ley;
+I. Al Ejecutivo del Estado, a través de la Secretaría;
 
 II. A las autoridades municipales;
 
-III. Los Juzgados Administrativos de los municipios; y
+III. A los Juzgados Administrativos de los municipios, y
 
 IV. A los Titulares de los Órganos de Control Interno de los Entes Públicos.
 
-###### Artículo 9.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 8.
 
 Corresponde al Ejecutivo del Estado:
 
@@ -165,245 +163,231 @@ I. Coordinarse con las autoridades sanitarias federales y municipales para la ej
 
 II. Formular y conducir la política estatal para la prevención y el tratamiento de padecimientos originados por el tabaquismo;
 
-III. Gestionar y promover la educación sobre los efectos del tabaquismo en la salud dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva incluyendo la orientación a la población para que se abstengan de fumar en lugares públicos;
+III. Gestionar y promover una educación sobre los efectos del tabaquismo en la salud dirigida a la población en general, a través de métodos individuales, colectivos o de comunicación masiva;
 
-IV. Determinar y ejercer medios de control en el expendio de tabaco en cualquiera de sus formas para prevenir su consumo por parte de los menores de edad;
+IV. Suscribir convenios con los ayuntamientos para la aplicación de la presente Ley, y
 
-V. Suscribir convenios con los ayuntamientos para la aplicación de la presente Ley; y
+V. Ejercer las demás atribuciones que determine la presente Ley y sus disposiciones reglamentarias.
 
-VI. Ejercer las demás atribuciones que determine la presente Ley y sus disposiciones reglamentarias.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
-###### Artículo 10.
+###### Artículo 9.
 
 Corresponde a la Secretaría de Salud:
 
-l. Conocer de las denuncias presentadas por los ciudadanos o usuarios cuando en los edificios, establecimientos mercantiles, médicos, industriales, de enseñanza, edificios e instalaciones de los Entes Públicos, no se establezcan salas para fumadores aislados de las áreas de uso común, o habiéndolas no se respete la prohibición de fumar fuera de las áreas destinadas para ello.
+I. Vigilar el cumplimiento de las disposiciones previstas en la presente Ley;
 
-Para el caso de las instalaciones de los Entes Públicos, dictará las medidas preventivas necesarias a efecto de proteger la salud de los no fumadores, mismas que se prolongarán hasta que sea corregida la falta;
+II. Realizar campañas permanentes de información, concientización y difusión a la población en general, para prevenir el uso y consumo de tabaco;
 
-II. Ordenar de oficio o por denuncia ciudadana la realización de visitas de verificación en los establecimientos, empresas y oficinas de los Entes públicos, para cerciorarse del cumplimiento de las disposiciones de esta Ley;
+III. Promover espacios 100% libres de humo de tabaco;
 
-III. Diseñar el catálogo de letreros y/o señalamientos preventivos, informativos o restrictivos que serán colocados al interior de los establecimientos, empresas y oficinas de los Entes Públicos y vehículos de transporte público y escolar, para prevenir el consumo de tabaco y establecer las prohibiciones pertinentes;
+IV. Elaborar el manual de señalamientos, avisos, letreros, logotipos y emblemas, que serán colocados obligatoriamente en los lugares 100 % libres de humo de tabaco, las zonas exclusivas para fumadores, vehículos de transporte público, escolar o de personal, y vehículos oficiales de entes públicos;
 
-IV. Vigilar el cumplimiento de la prohibición de fumar fuera de los lugares permitidos en edificios, oficinas y cualquier otra instalación destinada al servicio público por parte de los Entes Públicos; y
+V. Conocer de la denuncia ciudadana cuando se fume, se encienda o se consuma cualquier producto del tabaco en los espacios 100% libres de humo de tabaco;
 
-V. Las demás que le otorgue la Ley y demás disposiciones jurídica aplicables.
+VI. Ordenar de oficio, o por denuncia ciudadana, la realización de visitas de verificación en los espacios 100% libres de humo de tabaco y aplicar las sanciones correspondientes;
 
-###### Artículo 11.
+VII. Difundir las disposiciones legales en materia del control de los productos del tabaco;
 
-Corresponde a los Ayuntamientos en el ámbito de su competencia:
+VIII. Promover la investigación para la generación de la evidencia científica sobre los efectos en la salud del consumo de tabaco; y
+
+IX. Las demás que le otorgue la Ley y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 10.
+
+Corresponde a los Ayuntamientos:
 
 I. Coordinarse con las autoridades sanitarias federales y estatales para la ejecución en el Municipio de los programas contra el tabaquismo;
 
-II. Formular y conducir la política municipal para la prevención y el tratamiento de padecimientos ocasionados por el tabaquismo;
+II. Vigilar el cumplimiento de las disposiciones previstas en la presente Ley, en el ámbito de sus respectivas competencias;
 
-III. Gestionar y promover la educación sobre los efectos del tabaquismo en la salud dirigida especialmente a la familia, niños y adolescentes a través de métodos individuales, colectivos o de comunicación masiva incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos;
+III. Apoyar, mediante los elementos de la policía preventiva, el respeto de esta Ley;
 
-IV. Vigilar el cumplimiento de la prohibición de fumar fuera de los lugares permitidos en edificios, oficinas y cualquier otra instalación al servicio del gobierno municipal o de los organismos públicos municipales;
+IV. Suscribir convenios con el Estado para la aplicación de la presente Ley; y
 
-V. Apoyar mediante los cuerpos de policía municipal el acatamiento y respeto de esta Ley;
+V Ejercer las demás atribuciones que determine la presente Ley y sus disposiciones reglamentarias.
 
-VI. Sancionar mediante los Juzgados Administrativos, las infracciones al presente ordenamiento;
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
-VII. suscribir convenios con el Estado para la aplicación de la presente Ley; y
+###### Artículo 11.
 
-VIII. Ejercer las demás atribuciones que determine la presente ley y sus disposiciones reglamentarias.
+Corresponde a los juzgados administrativos municipales, conocer de las infracciones a la presente Ley, realizadas por las personas físicas, siempre y cuando hayan sido puestas a su disposición por los elementos de la policía preventiva.
 
-### CAPÍTULO I. PROHIBICIONES
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
+
+### CAPÍTULO III. DE LA PROTECCIÓN A LOS NO FUMADORES
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 12.
 
-Corresponde a los Juzgados Administrativos en el ámbito de su competencia:
+En el Estado de Durango por razones de orden público e interés social, queda prohibido fumar, consumir o encender cualquier producto del tabaco en los espacios 100% libres de humo de tabaco.
 
-I. Conocer de las infracciones realizadas por las personas físicas que ponga a su disposición los elementos de Policía Preventiva;
+Corresponde a la Secretaría, con la participación del Consejo Estatal Contra las Adicciones, otorgar el Certificado de Espacio 100% Libre de Humo de Tabaco, en los términos de esta Ley.
 
-II. Aplicar las sanciones que se deriven del incumplimiento de la presente Ley; y
+Los propietarios, poseedores, administradores o responsables de los espacios 100% libres de humo de tabaco, podrán establecer zonas exclusivas para fumar, mismas que deberán cumplir los requisitos establecidos en la presente Ley.
 
-III. Abstenerse de conocer de las visitas de verificación, competencia de la Secretaría de Salud, así como de sancionar a los titulares de establecimientos o empresas donde deban practicarse visitas de verificación.
-
-## TÍTULO TERCERO. MEDIDAS PARA LA PROTECCIÓN A LOS NO FUMADORES
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 13.
 
-En el Estado de Durango queda prohibido fumar en los siguientes lugares:
+En los espacios 100% libres de humo de tabaco y en las zonas exclusivas para fumar, deberán colocarse letreros en los lugares visibles, que indiquen claramente su naturaleza, incluyendo un número telefónico para la denuncia ciudadana a que se refiere esta Ley.
 
-I. Los elevadores de edificios públicos o particulares destinados al uso del público en general;
-
-II. Las áreas cerradas de oficinas bancarias, tiendas de autoservicios, de conveniencia, departamentales y/o de servicios en los que se proporcione atención directa al público con excepción de los lugares específicos designados para ello;
-
-III. En las oficinas de cualquier dependencia o entidad de la Administración Pública del Estado o Municipios y de los órganos autónomos de éstos; oficinas, juzgados o instalaciones del Poder Judicial y oficinas administrativas, módulos de atención y en el Poder Legislativo del Estado.
-
-Lo anterior con excepción de los lugares establecidos de conformidad con esta Ley, como espacios para fumadores;
-
-IV. En hospitales, guardería, asilos o casas de reposo público y privado, clínicas, centros de salud, centros de atención médica públicos y privados;
-
-V. En las áreas cerradas de bibliotecas, hemerotecas, museos, casas de la cultura y centros públicos de cómputo;
-
-VI. Áreas cerradas donde se practique deporte;
-
-VII. En centros de educación inicial básica, indígena, especial, media y media superior, incluyendo bibliotecas, laboratorios, centros de computo, salones de clase y sanitarios.
-
-Salvo que se habiliten espacios para ello de acuerdo a lo establecido en esta Ley;
-
-VIII. Las áreas cerradas de los cines, teatros, museos, centros de entretenimiento a los que tenga acceso el público en general.
-
-Salvo que se habiliten espacios para ello de acuerdo a lo establecido en esta Ley;
-
-IX. En los sanitarios de acceso público, baños públicos y sanitarios móviles;
-
-X. En los vehículos de servicio público o privado de transporte de pasajeros que circulen en el Estado;
-
-XI. Los vehículos de transporte escolar;
-
-XII. En los centros de entretenimiento para adultos, discotecas, o similares, salvo que se designen espacios para ello de conformidad con lo establecido en esta Ley; y
-
-XIII. Las secciones en donde expresamente se prohíba fumar correspondientes a establecimientos distintos de los señalados en las fracciones anteriores, al que tenga acceso el público en general, debiendo habilitar espacios para fumadores de acuerdo a lo establecido en esta Ley;
-
-Será responsabilidad de los propietarios o funcionarios de los establecimientos o instalaciones a que se refieren las fracciones III, VII, VIII y XII de este artículo, asignar áreas para fumadores, mismas que deberán cumplir con los requisitos definidos en la presente Ley.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 14.
 
-Los menores de edad, no podrán ingresar a las secciones de designadas como áreas para fumadores de los lugares públicos señalados por la presente Ley.
+Los menores de edad, no deberán ingresar a las zonas exclusivas para fumar.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 15.
 
-En los restaurantes, cafeterías, o similares, los propietarios, administradores, responsables, empleados y/o encargados de los mismos establecerán secciones de no fumar y de fumar.
+En los lugares cerrados con acceso al público, en áreas interiores de trabajo, en las instituciones de educación superior, podrán existir zonas exclusivas para fumar, en los términos de la presente Ley.
 
-La sección para no fumadores no podrá ser menor al 40% del espacio del establecimiento.
-
-Estas secciones deberán contar con los señalamientos o indicaciones suficientemente visibles para el público, que delimiten las áreas de fumar y de no fumar.
-
-Los responsables de los establecimientos cuya dimensión no exceda de los 50 metros cuadrados de superficie para el servicio, o que no tengan más de diez mesas para comensales no estarán sujetos a la obligación de delimitar secciones para fumar y no fumar, y podrán libremente decidir si sus establecimientos cuentan o no con secciones para fumar y no fumar en función de su demanda.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 16.
 
-En los bares, centros de entretenimiento para adultos y discotecas, los propietarios, responsables, empleados y/o encargados de los mismos, deberán delimitar las secciones para fumadores y no fumadores de acuerdo a la demanda, con señalamientos o letreros suficientemente visibles al público.
+Las zonas exclusivas para fumar, deberán contar con las siguientes características:
 
-En dichos establecimientos, la sección destinada para los no fumadores, no podrá ser menor del 15% del espacio total del establecimiento.
+I. Estar en un área abierta, o
+
+II. Estar aislada de los espacios 100% libres de humo de tabaco, mediante mecanismos que eviten el traslado de partículas; y
+
+III. Que no sean paso obligado para los no fumadores.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 17.
 
-Las secciones para fumadores y no fumadores deberán quedar separadas una de la otra, contar con comodidades similares, estar identificadas permanentemente con señalamientos y avisos en los lugares visibles al público asistente.
+Los empleados, propietarios, poseedores, administradores o responsables de los espacios 100% libres de humo de tabaco, incluidos los que tengan zonas exclusivas para fumar, están obligados a respetar y hacer respetar las disposiciones de esta Ley.
 
-Las secciones de no fumar deberán contar con al menos una de las siguientes características:
-
-I.- Tener ventilación hacia el exterior, o estar en un área abierta;
-
-II.- Contar con un sistema de extracción de aire tal que garantice que el aire no contiene humo de tabaco proveniente de la sección de fumar; y
-
-III.- Estar aislada de las áreas de no fumadores o contar con los estudios y equipos que avalen y garanticen que el humo producido por la práctica de fumar tabaco, no filtre a las áreas reservadas para no fumadores.
-
-###### Artículo 18.
-
-En los establecimientos dedicados al hospedaje, los propietarios, administradores, responsables, empleados y/o encargados de los mismos, deberán delimitar secciones para fumadores y no fumadores, las cuales serán designadas de acuerdo a su demanda. En todo caso, dicho porcentaje no podrá ser menor al 40% para no fumadores.
-
-### CAPÍTULO II. DE LAS OBLIGACIONES
-
-###### Artículo 19.
-
-Los propietarios, poseedores o responsables de los locales cerrados con secciones que fumar y no fumar, coadyuvarán en forma solidaria con las autoridades correspondientes en la vigilancia de la restricción de no fumar.
-
-El propietario o titular del establecimiento, o su personal, deberá exhortar, a quienes se encuentren fumando fuera de las áreas autorizadas, a que se abstengan de hacerlo, o trasladen a las áreas autorizadas para tal fin en caso de negativa, se le invitará a abandonar las instalaciones, si el infractor se resiste a dar cumplimiento al exhorto, el titular o sus dependientes solicitarán el auxilio de algún policía preventivo, a efecto de que ponga al infractor a disposición del Juez Administrativo competente.
-
-La responsabilidad de los propietarios, poseedores o administradores, a que se refiere el párrafo anterior, terminará en el momento en que el propietario o titular del local o establecimiento dé aviso a la policía preventiva correspondiente.
+En caso de incumplimiento, se exhortará al infractor que se abstenga de realizar la conducta indebida; en caso de negativa, se le conminará a abandonar las instalaciones o la unidad de transporte; en caso contrario, se solicitará el auxilio de la policía preventiva.
 
 Los mecanismos y procedimientos que garanticen la eficacia en la aplicación de la medida referida en el párrafo anterior, quedarán establecidos en el reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 18.
+
+Los propietarios, poseedores o responsables de los vehículos que presten servicio público, transporte escolar o de personal y los vehículos oficiales de los entes públicos, deberán fijar, en el interior y exterior de los mismos, letreros, logotipos o emblemas que indiquen que se trata de un espacio 100% libre de humo de tabaco.
+
+En caso de que algún pasajero incumpla con la prohibición de fumar, el conductor procederá en los términos del segundo párrafo del Artículo 17 de esta Ley.
+
+Los conductores de los vehículos que presten servicio de transporte público, que no acaten las disposiciones del presente ordenamiento, deberán ser reportados en forma inmediata a la Dirección de Transportes del Estado de Durango, para que ésta implemente las medidas disciplinarias correspondientes, sin perjuicio de las sanciones que establece esta Ley.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
+
+### CAPÍTULO IV. DEL CERTIFICADO DE ESPACIO 100% LIBRE DE HUMO DE TABACO
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 19.
+
+La Secretaría expedirá el manual de procedimiento conforme al cual, con la participación del Consejo Estatal contra las adicciones, se otorgará el Certificado de Espacio 100% Libre de Humo de Tabaco, con base en el siguiente procedimiento:
+
+I. Se realizarán tres visitas de verificación, de las cuales sólo la primera será anunciada; en caso necesario, se solicitará el apoyo de las autoridades municipales;
+
+II. Por cada visita, se otorgará una calificación, la cual se establecerá con base en el manual de procedimientos correspondiente;
+
+III. Si el establecimiento satisface los requisitos previstos en el manual de procedimientos, se otorgará el certificado correspondiente, el cual contendrá la firma del titular de la Secretaría en su carácter de Presidente del Consejo Estatal contra las Adicciones; y
+
+IV. Si el establecimiento no logra satisfacer los requisitos para obtener el certificado, la resolución deberá estar fundada y motivada, señalando las deficiencias observadas y otorgándose un plazo hasta de tres meses para su corrección.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 20.
 
-Las personas que violen lo previsto en este capítulo, después de ser conminadas a modificar su conducta, cuando no lo hicieren, serán sujetos de una sanción administrativa de acuerdo a lo establecido en el artículo 30 de la presente Ley.
+El procedimiento para la asignación del Certificado de Espacio 100% Libre de Humo de Tabaco, no exime de la responsabilidad administrativa a los infractores de esta Ley.
 
-### CAPÍTULO III. DE LOS ÓRGANOS DEL GOBIERNO DEL ESTADO
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
+
+### CAPÍTULO V. DE LA DENUNCIA CIUDADANA
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 21.
 
-Los propietarios, poseedores o responsables de los vehículos que presten servicio público o transporte escolar, deberán fijar, en el interior y exterior de los mismos, letreros, logotipos o emblemas que indiquen la prohibición de fumar, en caso de que algún pasajero se niegue a cumplir con la prohibición, se deberá dar aviso a la policía preventiva a fin de que sea remitido al Juzgado Administrativo correspondiente.
+Cualquier persona podrá presentar ante la autoridad correspondiente, la denuncia derivada del incumplimiento de las obligaciones establecidas en esta Ley, su reglamento y demás disposiciones aplicables.
 
-Los conductores de los vehículos que no acaten las disposiciones del presente ordenamiento, deberán ser reportados en forma inmediata la Dirección de Tránsito y Transportes del Estado de Durango, para que ésta implemente las medidas disciplinarias correspondientes, sin perjuicio de las sanciones que establece esta Ley.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 22.
 
-En los locales cerrados y establecimientos en los que se expenden alimentos y bebidas para su consumo en el lugar, los propietarios, poseedores o responsables de la negociación deberán:
+La autoridad competente salvaguardará la integridad del ciudadano denunciante.
 
-I.- Informar a las personas mayores de edad, de la prohibición de ingresar con menores de edad a las áreas destinadas para fumadores;
-
-II.- Colocar en los accesos de las áreas para fumadores la señalización adecuada para indicar que se trata de un área de fumar; y
-
-III.- Colocar permanentemente en las mesas de las áreas para no fumadores distintivos de señalización que aclaren que se trata de una sección de no fumar.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 23.
 
-En las oficinas o instalaciones de los Entes Públicos, deberán acondicionarse áreas o salas para fumadores, mismos que deberán cumplir con los requerimientos especificados en la presente Ley.
+La Secretaría pondrá en operación una línea telefónica de acceso gratuito, para que los ciudadanos puedan efectuar denuncias, quejas y sugerencias sobre los espacios 100% libres de humo de tabaco, así como del incumplimiento de esta Ley, su reglamento y demás disposiciones aplicables.
 
-### CAPÍTULO I. DE LOS TIPOS DE SANCIONES
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
+
+### CAPÍTULO VI. DE LAS SANCIONES
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 24.
 
-Las personas físicas que no sean servidores públicos, y que no respeten las disposiciones de la presente Ley, cuando se encuentren en edificios públicos, y después de ser conminadas a modificar su conducta o abandonar el lugar, cuando no lo hicieren podrán ser puestas de inmediato a disposición del Juzgado Administrativo por cualquier elemento de la policía preventiva.
+La contravención a las disposiciones de la presente Ley, será considerada falta administrativa, y dará lugar a la imposición de las siguientes sanciones:
+
+I. Amonestación con apercibimiento;
+
+II. Multa;
+
+III. Arresto hasta por 36 horas;
+
+IV. Cancelación de la concesión o permiso o clausura temporal o definitiva, que podrá ser parcial o total, según corresponda, y
+
+V. Las demás que señalan las leyes o reglamentos.
+
+La Secretaría podrá aplicar las medidas preventivas y correctivas establecidas en la Ley General de Salud, en la Ley de Salud del Estado de Durango, en la Ley General para el Control del Tabaco, en sus respectivos reglamentos, así como en las Normas Oficiales Mexicanas y en los acuerdos y decretos que se expidan en materia de salud.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 25.
 
-Los Entes Públicos instruirán a los titulares de las dependencias unidades administrativas, órganos, entidades, y cualquier autoridad de estas áreas a fin de que en sus oficinas, sanitarios, bodegas o cualquier otra instalación, sean colocados los señalamientos que determine la Secretaría de Salud que indique cuales son las áreas en que se prohíbe fumar.
+Se sancionará con multa de hasta 100 veces el salario mínimo diario general vigente en el Estado, el incumplimiento a lo dispuesto en el artículo 12 de esta Ley.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 26.
 
-Todas aquellas concesiones o permisos que otorguen el Gobierno del Estado y los Municipios según corresponda la competencia y cuyo objeto sea brindar un servicio público, en la concesión se deberá establecer los mecanismos necesarios para que se de cumplimiento a la presente Ley.
+Se sancionará con multa de mil hasta cuatro mil veces el salario mínimo diario general vigente en el Estado, el incumplimiento de los artículos 16 y 17 cuando se trate de los propietarios, poseedores, responsables y empleados de los espacios 100% libres de humo de tabaco.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 27.
 
-El Ejecutivo del Estado o los municipios en su caso, deberá garantizar, que los recursos económicos que se recauden por la imposición de sanciones derivadas del incumplimiento a la presente Ley, sean canalizados a la ejecución de acciones para la prevención y tratamiento de enfermedades atribuibles al tabaco o para llevar a cabo investigaciones sobre el tabaquismo y sus riesgos.
+El arresto hasta por 36 horas procederá en contra de quien interfiera el ejercicio de las funciones que esta Ley establece a las autoridades correspondientes, o se niegue a cumplir las obligaciones establecidas en el presente ordenamiento. Sólo procederá esta sanción si previamente se dictó cualquiera de las sanciones señaladas en las fracciones I y II del Artículo 24.
 
-## TÍTULO CUARTO. DE LAS SANCIONES
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 28.
 
-La contravención a las disposiciones de la presente Ley, será considerada falta administrativa, y dará lugar a la imposición de una sanción económica, y en su caso, un arresto hasta por 12 horas.
+Para la fijación de la sanción, la autoridad tomará en cuenta los daños producidos o que puedan producirse en la salud de las personas; la gravedad de la infracción; las condiciones socioeconómicas del infractor; la reincidencia; el beneficio obtenido por el infractor y las demás circunstancias que sirvan para individualizar la sanción.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 29.
 
-Para la fijación de la sanción económica, se tomarán en cuenta la gravedad de la infracción, la reincidencia y demás circunstancias que sirvan para individualizar la sanción.
+Procederá la cancelación de la concesión o permiso; así como la clausura temporal o definitiva, parcial o total, según la gravedad de la infracción y las características de la actividad o establecimiento.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 30.
 
-Las sanciones administrativas podrán consistir en:
+En caso de reincidencia, se aplicará el doble de la sanción impuesta. Los recursos económicos que se recauden por la imposición de sanciones derivadas del incumplimiento a la presente Ley, deberán ser destinados a través de la Secretaría, la ejecución de acciones para la prevención y tratamiento de enfermedades atribuibles al tabaco.
 
-I.- Multa, que podrá ser de hasta por el importe de diez hasta cien días de salario mínimo diario general vigente en el Estado;
-
-II.- Arresto hasta por 12 horas; y
-
-III.- Clausura temporal de establecimiento y/o cancelación de concesiones o permisos según sea el caso.
-
-En caso de reincidencia, se aplicará el doble del monto de la última sanción impuesta.
-
-El arresto hasta por 12 horas, procederá en contra de quien cometiera tres o más infracciones en un período de 6 meses.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 31.
 
-Se sancionará con multa equivalente a diez días de salario mínimo diario general vigente en el Estado, a las personas que fumen en los lugares que prohíbe el presente ordenamiento, la multa será impuesta por el Juez Administrativo correspondiente.
-
-###### Artículo 32.
-
-Se sancionará con multa equivalente de treinta y hasta cien veces días de salario mínimo diario general vigente en el Estado, cuando se trate de propietarios, poseedores o responsables de los locales cerrados establecimientos que no cumplan con las disposiciones de la presente Ley.
-
-En caso de reincidencia, se aplicará el doble de la última sanción impuesta. En caso de segunda reincidencia, se procederá a la clausura temporal del establecimiento según lo establecido en la fracción III del artículo 29.
-
-###### Artículo 33.
-
-Se sancionará con veinte días de salario mínimo diario general vigente en el Estado, al titular de la concesión o permiso cuando se trate de medios de transporte; en el caso de que no fijen las señalizaciones a que se refiere esta Ley, o permitan la realización de conductas prohibidas, por esta Ley.
-
-En caso de reincidencia, se aplicará el doble de la última sanción económica impuesta, en caso de segunda reincidencia, procederá la cancelación de la concesión o permiso.
-
-###### Artículo 34.
-
-Si el infractor fuese jornalero, obrero o trabajador, la multa no excederá del equivalente a un día de su ingreso neto, el Juez Admistrativo (sic) podrá instruir al infractor a efecto de que conmute su sanción por la realización de trabajos a favor de la comunidad.
-
-Para la fijación del ingreso neto por día, se tomará en cuenta el tipo de actividad que desempeña y se hará por determinación presuntiva, comparando los ingresos de otras personas que desempeñen la misma labor.
-
-La calidad de jornalero obrero o trabajador, podrá demostrarse con cualquier documento fehaciente expedido por el patrón o empleador, o por alguna institución de seguridad social.
-
-Los trabajadores no asalariados podrán demostrar esta calidad con cualquier documento público, que compruebe el tipo de actividad que realiza de manera preponderante.
-
-Los infractores a que hacen referencia los párrafos anteriores, tendrán un período de tres días hábiles para demostrar su calidad de trabajador jornalero, obrero o trabajador no asalariado, ante el juez Admistrativo (sic) correspondiente, y pagar el importe de la multa o los trabajos a favor de la comunidad.
+Para el procedimiento de impugnación de las sanciones derivadas de esta Ley, será aplicable el Código de Justicia Administrativa para el Estado de Durango.
 
 ## TRANSITORIOS
 
@@ -458,3 +442,27 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RICARDO LÓPEZ PESCADOR.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+El Reglamento de esta Ley, se expedirá en un plazo que no exceda de 180 días posteriores a la publicación del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+En un periodo que no excederá de noventa días naturales, la Secretaría emitirá el Manual de Procedimientos a que se refiere el artículo 22 de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Los propietarios, poseedores, responsables y administradores de los establecimientos que pretendan contar con zonas exclusivas para fumar, dispondrán de 180 días posteriores a la publicación del presente Decreto, para llevar a cabo las modificaciones o adecuaciones necesarias.
