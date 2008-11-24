@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-desarrollo-forestal-sustentable-28605"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-02-25"
-last_updated: "2005-12-26"
+last_updated: "2008-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28605&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDFS"
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE NOVIEMBRE DE 2008.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el martes 25 de febrero de 2003.
 
@@ -248,7 +248,11 @@ XLVI. Vegetación exótica: Conjunto de plantas arbóreas, arbustivas o crasas a
 
 XLVII. Ventanilla única: El sistema administrativo que reúne al mayor número posible de las dependencias y entidades del sector público forestal, tanto federal, estatal como municipal, para la atención integral de los distintos usuarios del sector;
 
-XLVIII. Visita de Inspección: La supervisión que realiza el personal autorizado para verificar que el aprovechamiento, manejo, transporte, almacenamiento y transformación de recursos forestales, se ajuste a la Ley y demás disposiciones legales aplicables.
+XLVIII. Visita de Inspección: La supervisión que realiza el personal autorizado para verificar que el aprovechamiento, manejo, transporte, almacenamiento y transformación de recursos forestales, se ajuste a la Ley y demás disposiciones legales aplicables;
+
+> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2008)</small>
+
+XLIX. Vivero forestal: Sitio que cuenta con un conjunto de instalaciones, equipo, herramientas e insumos, en el cual se aplican técnicas apropiadas para la producción de plántulas forestales con talla y calidad apropiada según la especie, para su plantación en un lugar definitivo.
 
 ## TITULO SEGUNDO. DE LA ORGANIZACION Y ADMINISTRACION DEL SECTOR PUBLICO FORESTAL
 
@@ -2357,3 +2361,7 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 26 DE DICIEMBRE DE 2005.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE NOVIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
