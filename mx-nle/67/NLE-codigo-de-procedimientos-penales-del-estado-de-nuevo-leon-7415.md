@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2008-09-23"
+last_updated: "2008-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -2289,6 +2289,12 @@ La autopsia de los cadáveres de personas que hayan fallecido en un hospital pú
 
 A excepción de los casos previstos en los dos artículos anteriores, el reconocimiento o la autopsia se practicarán por los médicos legistas oficiales, o por los peritos médicos que designe el juez o el Ministerio Público.
 
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTICULO 244 Bis.
+
+Cuando se trate de daño a la integridad psicológica, proveniente del delito de violencia familiar, los peritos podrán emitir un dictamen previo como resultado de la primera entrevista.
+
 ###### ARTICULO 245.
 
 Los peritos que acepten el cargo, con excepción de los oficiales, tienen obligación de presentarse al juez o al Ministerio Público, para que les tome la protesta legal.
@@ -4027,7 +4033,9 @@ IV.- Que no se trate de los casos de delitos graves previstos en las cuatro frac
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2006)</small>
 
-ARTICULO 493 bis.- En caso de delitos no graves, a solicitud del Ministerio Público, el Juez podrá negar la libertad provisional, cuando el inculpado haya sido condenado con anterioridad, por algún delito calificado como grave por la Ley, o cuando el Ministerio Público aporte elementos al Juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
+###### ARTICULO 493 Bis.
+
+En caso de delitos no graves, a solicitud del Ministerio Público, el Juez podrá negar la libertad provisional, cuando el inculpado haya sido condenado con anterioridad, por algún delito calificado como grave por la Ley, o cuando el Ministerio Público aporte elementos al Juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
 
 ###### ARTICULO 494.
 
@@ -5552,3 +5560,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 23 DE SEPTIEMBRE DE 2008.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
