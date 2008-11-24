@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2008-07-07"
+last_updated: "2008-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -2595,7 +2595,9 @@ III.- Los ebrios consuetudinarios y los vagos;
 
 IV.- EL que haya sido condenado por el delito de falsedad;
 
-V.- Los parientes por consanguinidad, dentro del cuarto grado, y por afinidad dentro del segundo; a no ser que el juicio verse sobre edad, parentesco, filiación, divorcio o nulidad de matrimonio;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2008)</small>
+
+V.- Los parientes por consanguinidad, dentro del cuarto grado, y por afinidad dentro del segundo; a no ser que el juicio verse sobre asuntos de orden familiar;
 
 VI.- Un cónyuge a favor del otro;
 
@@ -2619,7 +2621,7 @@ XIV.- El tahúr de profesión; y
 
 > <small>(ADICIONADA, P.O. 14 DE ENERO DE 2005)</small>
 
-XV. El prestador de servicios de métodos alternos de solución de conflictos que hubiere conocido o resuelto algún conflicto relacionado con el asunto materia del juicio.
+XV.- El prestador de servicios de métodos alternos de solución de conflictos que hubiere conocido o resuelto algún conflicto relacionado con el asunto materia del juicio.
 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
 
@@ -6845,6 +6847,14 @@ V.- El juez mandará que se fijen las señales convenientes en los puntos deslin
 
 Los puntos respecto de los cuales hubiere oposición, no quedarán deslindados ni se fijarán en ellos señal alguna, mientras no haya sentencia ejecutoria que resuelva la cuestión, dictada en el juicio correspondiente.
 
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 948 Bis.
+
+Si no existiera controversia y todos los colindantes del predio al que se pretende determinar sus medidas y colindancias estuvieran de acuerdo, el apeo y deslinde se podrá realizar por Notario Público, observando los requisitos, formalidades y procedimientos a que se refieren los artículos precedentes.
+
+Siempre que alguno de los colindantes al predio objeto del apeo y deslinde expresara oposición, el Notario suspenderá su intervención.
+
 ###### Artículo 949.
 
 Los gastos generales del apeo se harán por el que promueva. Los que importen la intervención de los peritos que designan y de los testigos que presenten los colindantes serán pagados por el que nombre a los unos y presente a los otros.
@@ -9162,3 +9172,15 @@ Artículo Primero: El presente Decreto entrará en vigor a partir del día prime
 Artículo Segundo: Los usuarios ya registrados en el Tribunal Virtual al inicio de la vigencia del presente decreto deberán de renovar su registro conforme a lo establecido en el mismo. El administrador del sistema hará llegar mediante formato electrónico, el convenio de uso a que se refiere el artículo 55 que se adiciona, a todos los usuarios que se hayan registrado con anterioridad al presente título, a fin de que puedan hacer uso de los servicios del Tribunal Virtual.
 
 Artículo Tercero: Quedan derogadas todas las disposiciones legislativas expedidas con anterioridad al presente decreto y que se opongan al mismo.
+
+P.O. 24 DE NOVIEMBRE DE 2008.
+
+DECRETO NUM. 297, POR EL QUE SE ADICIONA UN ARTICULO 948 BIS, AL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NUEVO LEON.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 2008.
+
+DECRETO NUM. 298, POR EL QUE SE REFORMA LA FRACCION V DEL ARTICULO 325, DEL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NUEVO LEON.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
