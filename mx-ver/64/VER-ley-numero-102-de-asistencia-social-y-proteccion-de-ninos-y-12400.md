@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-102-de-asistencia-social-y-proteccion-de-ninos-y-124
 country: "mx"
 rank: "ley"
 publication_date: "1998-09-08"
-last_updated: "2006-03-02"
+last_updated: "2008-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 25 DE NOVIEMBRE DE 2008., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 8 de septiembre de 1998.
 
@@ -786,3 +788,13 @@ G.O. 2 DE MARZO DE 2006.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente.
+
+G.O. 25 DE NOVIEMBRE DE 2008.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Asistencia Social y Protección de Niños y Niñas del Estado de Veracruz, publicada en la Gaceta Oficial del Estado el ocho de septiembre de mil novecientos noventa y ocho y se derogan todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO. Los recursos humanos, financieros y materiales de cualquier naturaleza que al inicio de la vigencia de la presente ley estén asignados a la Secretaría Ejecutiva del Consejo Estatal de Asistencia Social y Protección de Niños y Niñas serán transferidos a la Secretaría Ejecutiva del Consejo Estatal de Asistencia para la Niñez y la Adolescencia.
+
+CUARTO. Se respetarán los derechos de los trabajadores que se transfieran al Consejo Estatal de Asistencia para la Niñez y la Adolescencia.
