@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2008-09-17"
+last_updated: "2008-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE NOVIEMBRE DE 2008 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 2008.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 25 DE NOVIEMBRE DE 2008 NO APLICA AL ARTICULADO DEL DECRETO LIX-924 PUBLICADO EN EL P.O. DE 17 DE SEPTIEMBRE DE 2008.</small>
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
