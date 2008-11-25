@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2008-10-15"
+last_updated: "2008-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE NOVIEMBRE DE 2008.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -438,9 +438,7 @@ XI BIS. A la Secretaría de Cultura:
 
 7.- Coordinación de Circuito de Festivales; y
 
-> <small>(ADICIONADO, G.O. 26 DE OCTUBRE DE 2007)</small>
-
-8.- Coordinación de Educación Artística.
+8.- (DEROGADO, G.O. 25 DE NOVIEMBRE DE 2008)
 
 XII. La Procuraduría General de Justicia del Distrito Federal, se ubica en el ámbito orgánico del Gobierno del Distrito Federal; su estructura y funcionamiento se rige por las disposiciones jurídicas y administrativas correspondientes.
 
@@ -5608,7 +5606,13 @@ XVIII. Coordinar con las áreas de la Secretaría, el apoyo a las organizaciones
 
 XIX. Elaborar y mantener actualizado un directorio de organizaciones de la sociedad civil dedicadas al área de cultura;
 
-XX. Ejecutar los proyectos y programas especiales que requieran de la concurrencia de diferentes niveles o instancias de gobierno, actores privados y sociales, así como de diversas áreas de la Secretaría de Cultura.
+> <small>(REFORMADA, G.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+XX. Ejecutar los proyectos y programas especiales que requieran de la concurrencia de diferentes niveles o instancias de gobierno, actores privados y sociales, así como de diversas áreas de la Secretaría de Cultura; y
+
+> <small>(ADICIONADA, G.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+XXI. Establecer las directrices de administración y programación de actividades de los centros culturales José Martí y Xavier Villaurrutia.
 
 > <small>(REFORMADO, G.O. 26 DE OCTUBRE DE 2007)</small>
 
@@ -5686,9 +5690,13 @@ IV. Concertar y desarrollar, de forma conjunta con otras instituciones del secto
 
 V. Concertar y coordinar los apoyos que sean necesarios para las actividades diplomáticas del Gobierno del Distrito Federal;
 
-VI. (DEROGADA, G.O. 26 DE OCTUBRE DE 2007)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 25 DE NOVIEMBRE DE 2008)</small>
 
-VII. (DEROGADA, G.O. 26 DE OCTUBRE DE 2007)
+VI. Promover el circuito metropolitano de artes visuales y artes plásticas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+VII. Promover el arte público y la creación de nuevas galerías abiertas en la ciudad;
 
 > <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -5706,7 +5714,9 @@ X. Apoyar las acciones tendientes a conservar, administrar y acrecentar los bien
 
 XI. Proponer políticas y lineamientos para la salvaguarda, preservación, restauración, exhibición, uso y mantenimiento del acervo cultural e histórico de la Ciudad de México;
 
-XII. (DEROGADA, G.O. 26 DE OCTUBRE DE 2007)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+XII. Programar, gestionar y ejecutar las exposiciones en el circuito de galerías abiertas de la Secretaría de Cultura;
 
 > <small>(ADICIONADA, G.O. 15 DE JULIO DE 2005)</small>
 
@@ -5724,7 +5734,9 @@ XV. Conducir y promover investigaciones históricas y bibliográficas;
 
 XVI. Coordinar, administrar y programar las actividades del Archivo Histórico del Distrito Federal y el Museo Archivo de la Fotografía;
 
-XVII. (DEROGADA, G.O. 26 DE OCTUBRE DE 2007)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+XVII. Diseñar los lineamientos para la operación de los circuitos de las galerías abiertas de la Secretaría de Cultura;
 
 > <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
 
@@ -5940,37 +5952,19 @@ III. Llevar la oferta cultural de los festivales de primer nivel al público que
 
 IV. Recuperar espacios públicos a través de la programación de actividades artístico-culturales;
 
-V. Promover el circuito metropolitano de artes visuales y artes plásticas;
+V. (DEROGADA, G.O. 25 DE NOVIEMBRE DE 2008)
 
-VI. Promover el arte público;
+VI. (DEROGADA, G.O. 25 DE NOVIEMBRE DE 2008)
 
-VII. Programar, gestionar y ejecutar las exposiciones en el circuito de galerías abiertas de la Secretaría de Cultura;
+VII. (DEROGADA, G.O. 25 DE NOVIEMBRE DE 2008)
 
-VIII. Diseñar los lineamientos para la operación de los circuitos de las galerías abiertas de la Secretaría de Cultura; y
+VIII. (DEROGADA, G.O. 25 DE NOVIEMBRE DE 2008)
 
-IX. Promover la creación de nuevas galerías abiertas en la ciudad.
-
-> <small>(ADICIONADO, G.O. 26 DE OCTUBRE DE 2007)</small>
+IX. (DEROGADA, G.O. 25 DE NOVIEMBRE DE 2008)
 
 ###### Artículo 97-H.
 
-Corresponde a la Coordinación de Educación Artística:
-
-I. Diseñar y operar estrategias de intervención para el fortalecimiento de la vida académica y artística de la (sic) escuelas, programas, agrupaciones artísticas y grupos residentes del Centro Cultural Ollin Yoliztli;
-
-II. Proponer estrategias de participación para fortalecer la educación artística en los niveles de educación básica y media superior;
-
-III. Diseñar y operar modelos de educación artística no formal;
-
-IV. Proponer los programas de educación artística y sus mecanismos de evaluación, para las fábricas de artes y oficios (FAROS);
-
-V. Establecer las directrices de administración y de programación de actividades de los centros culturales Ollin Yoliztli, José Martí y Xavier Villaurrutia;
-
-VI. Proponer los contenidos de los programas de capacitación dirigidos a promotores y gestores culturales de la Secretaría de Cultura;
-
-VII. Gestionar ante las autoridades correspondientes la validación de los planes y programas de estudio de la Secretaría de Cultura; y
-
-VIII. Establecer convenios de capacitación con las delegaciones para fortalecer la educación artística en las Casas de Cultura.
+(DEROGADO, G.O. 25 DE NOVIEMBRE DE 2008)
 
 #### SECCION XII
 
@@ -8600,21 +8594,49 @@ F) Dirección General de Participación Ciudadana y Gestión Social; y
 
 G) Dirección General de Seguridad Pública.
 
-> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE NOVIEMBRE DE 2008)</small>
 
-VII. Al Órgano Político-Administrativo en Gustavo A. Madero;
+VII. Al órgano político-administrativo en Gustavo A. Madero;
+
+> <small>(ADICIONADO, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
 A) Dirección General Jurídica y de Gobierno;
 
+> <small>(ADICIONADO, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+
 B) Dirección General de Administración;
+
+> <small>(ADICIONADO, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
 C) Dirección General de Obras y Desarrollo Urbano;
 
+> <small>(ADICIONADO, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+
 D) Dirección General de Servicios Urbanos;
 
-E) Dirección General de Desarrollo Social; y
+> <small>(REFORMADO, G.O. 25 DE NOVIEMBRE DE 2008)</small>
 
-F) Dirección General de Desarrollo Delegacional.
+E) Dirección General de Desarrollo Social;
+
+> <small>(REFORMADO, G.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+F) Dirección General de Desarrollo Delegacional;
+
+> <small>(ADICIONADO, G.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+G) Dirección Ejecutiva de Seguridad Pública;
+
+> <small>(ADICIONADO, G.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+H) Dirección Ejecutiva de Desarrollo Económico;
+
+> <small>(ADICIONADO, G.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+I) Dirección Ejecutiva de Participación Ciudadana; y
+
+> <small>(ADICIONADO, G.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+J) Dirección Ejecutiva de Fomento Cooperativo.
 
 > <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -10265,6 +10287,130 @@ XII. Coordinar con los Directores Territoriales, las visitas, actos o recorridos
 XIII. Asistir en representación del Jefe Delegacional, a actos de carácter social y cívico, cuando así lo indique; y
 
 XIV. Las demás que de manera directa el titular del Órgano Político-Administrativo, así como las que establezcan en los Manuales Administrativos.
+
+> <small>(ADICIONADO, G.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 156 Bis.
+
+Corresponde a la Dirección Ejecutiva de Seguridad Pública:
+
+I. Cooperar con la Jefatura Delegacional en la determinación de las medidas conducentes, para el cumplimiento de las políticas generales de Seguridad Pública, que al efecto establezca el Jefe de Gobierno del Distrito Federal;
+
+II. Establecer, formular, ejecutar y vigilar el Programa de Seguridad Pública Delegacional en coordinación con las dependencias competentes;
+
+III. Conjuntar el esfuerzo de las diversas corporaciones que inciden en Gustavo A. Madero para el desarrollo del Programa de Seguridad Pública de la Delegación, con base en los estudios sobre los Índices de Delincuencia, tomando en consideración las propuestas de grupos sociales, organizaciones y ciudadanos en general;
+
+IV. Coordinar con las diversas instancias delegacionales y de gobierno, el desarrollo e instrumentación de proyectos, acciones y medidas tendientes a prevenir el delito y a fomentar la cultura de la legalidad;
+
+V. Establecer los Programas de Trabajo de las Unidades Administrativas de Apoyo Técnico - Operativo que le estén adscritas;
+
+VI. Coordinar, organizar y vigilar el buen funcionamiento del Comité Delegacional de Seguridad Pública y Procuración de Justicia, como instancia colegiada de consulta y participación ciudadana en los términos de las disposiciones jurídicas aplicables;
+
+VII. Coadyuvar en los estudios, análisis y propuestas, para la aplicación de las adecuaciones geométricas, cambios de sentido, modificaciones al sistema de semáforos y cualquier acción o medida que mejore la infraestructura vial, la seguridad de los conductores de vehículos y peatones y la fluidez vehicular;
+
+VIII. Coordinar, organizar y vigilar el buen funcionamiento del Comité Delegacional de Transporte y Vialidad, como instancia colegiada de consulta y participación ciudadana en los términos de las disposiciones jurídicas aplicables;
+
+IX. Fungir como enlace entre la Delegación y la Secretaría de Seguridad Pública, la Secretaría de Transportes y Vialidad y la Procuraduría General de Justicia del Distrito Federal y demás autoridades relativas tanto de la federación, del Gobierno del Distrito Federal como del Estado de México, y de los Municipios conurbados;
+
+X. Desarrollar las acciones y medidas pertinentes para la instrumentación de operativos conjuntos tendientes a garantizar la adecuada prestación del servicio público de transporte en sus diversos modos y modalidades;
+
+XI. Establecer la coordinación correspondiente con las áreas de la Delegación, así como de otras Dependencias para la atención de emergencias, siniestros o desastres, así como en eventos de alta concentración masiva que se presenten en la demarcación territorial de Gustavo A. Madero;
+
+XII. Coadyuvar en la estructuración del Programa General de Desarrollo del Distrito Federal a través de la formulación de propuestas en materia de seguridad pública, prevención del delito, transporte y vialidad;
+
+XIII. Evaluar, planear y resolver los asuntos de la Delegación Gustavo A. Madero que le asigna el acuerdo por el que se delegan las facultades en Materia de Transporte y Vialidad, del 25 de abril de 2005;
+
+XIV. Supervisar de manera integral el servicio de transporte de personas en bicicletas adaptadas, en coordinación con las instancias correspondientes a efecto de garantizar su óptimo desempeño y en su caso, imponer las sanciones establecidas en la normatividad vigente;
+
+XV. Actualizar permanentemente el padrón de los permisionarios de transporte de personas en bicicletas adaptadas, así como de las sanciones a los representantes, conductores, y los demás que sean necesarios a juicio de la Delegación;
+
+XVI. Regular la publicidad en las bicicletas adaptadas que prestan el servicio de transporte de personas, de conformidad con las leyes correspondientes y demás disposiciones jurídicas y administrativas aplicables;
+
+XVII. Emitir el visto bueno para la aprobación de bases, sitios y lanzaderas de transporte público, en las vías secundarias de esta demarcación;
+
+XVIII. Tramitar las solicitudes de autorización y avisos de inscripción para el uso de las vialidades secundarias;
+
+XIX. Informar de las acciones que realice en ejercicio de las facultades delegadas en materia de transporte y vialidad, al Jefe Delegacional y a la Dirección General de Jurídica y Gobierno;
+
+XX. Celebrar convenios y demás actos Jurídicos en materia de Transporte y vialidad en representación del Órgano Político Administrativo; y
+
+XXI. Planear y Coordinar el desarrollo de las acciones que lleva a cabo el Centro de Reacción Inmediata de Máxima Alerta (Base CRIMA Plata).
+
+> <small>(ADICIONADO, G.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 156 Bis 1.
+
+Corresponde a la Dirección Ejecutiva de Desarrollo Económico:
+
+I. Acordar con el titular del Órgano Político-Administrativo el trámite y resolución de los asuntos de su competencia;
+
+II. Establecer, conducir y coordinar los mecanismos de apoyo a las micros y pequeñas empresas, mediante asesorías, asistencia técnica y gestión para el financiamiento, a través de FONDESO y la Secretaría de Economía, para apoyar la actividad productiva;
+
+III. Actuar como incubadora de empresas, que cuenten con la característica de innovación tecnológica;
+
+IV. Prestar la asesoría y apoyo técnico necesario para la ejecución de las acciones del Programa de Fomento y Desarrollo Económico en su demarcación, así como desarrollar las acciones de fomento económico de esta Delegación;
+
+V. Promover la instalación de ferias, exposiciones, congresos y eventos de carácter local y nacional, vinculadas a la promoción de actividades comerciales y de servicio;
+
+VI. Instrumentar acciones de fomento al empleo, a través de ferias del empleo y de vinculación con las cámaras empresariales de la demarcación, en coordinación con la Jefatura de Unidad Departamental de Empleo, de la Dirección General del Servicio de Empleo de la Secretaría del Trabajo;
+
+VII. Organizar, promover y coordinar la instalación y seguimiento del Comité de Fomento Económico Delegacional;
+
+VIII. Actuar como órgano coordinador y enlace con las cámaras empresariales, asociaciones y representaciones del sector empresarial, sector social, instituciones académicas y otras instancias que coadyuven a la inversión y al desarrollo económico de la Delegación;
+
+IX. Promover la desregulación y simplificación administrativa, en materia de fomento económico;
+
+X. Establecer y coordinar los programas de abasto y comercialización de productos básicos, promoviendo la modernización y optimización en la materia.
+
+> <small>(ADICIONADO, G.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 156 Bis 2.
+
+Corresponde a la Dirección Ejecutiva de Participación Ciudadana:
+
+I. Dar seguimiento en tiempo y forma a los compromisos que asuma la Delegación y el Jefe Delegacional con las diferentes instancias de participación ciudadana y los instrumentos establecidos en la Ley de Participación Ciudadana del Distrito Federal;
+
+II. Promover la actualización de los directorios de organizaciones ciudadanas y de la representación vecinal de la Delegación;
+
+III. Organizar los Recorridos y la Audiencia Pública del Jefe Delegacional conjuntamente con las Direcciones Territoriales cuando ésta última se efectúe en áreas vecinales fuera del edificio Delegacional;
+
+IV. Dar seguimiento a los compromisos que el Jefe Delegacional asuma durante la Audiencia Pública con vecinos y/o Representantes Vecinales durante la Audiencia Pública, así como de aquellas solicitudes y demandas que éste reciba durante los Recorridos que realice;
+
+V. Establecer los mecanismos necesarios para garantizar a los ciudadanos y agrupaciones sociales su derecho a respuestas institucionales concretas y oportunas ante las gestiones y demandas que presenten;
+
+VI. Solicitar periódicamente a las Direcciones Generales, Direcciones Ejecutivas y Direcciones Territoriales la información estadística relativa al número, tipo y resultado de las demandas ciudadanas que reciban y atiendan;
+
+VII. Establecer las políticas y estrategias que permitan vincular las acciones de gobierno con los organismos sociales, a efecto de ejecutar eficaz y eficientemente los programas y proyectos delegacionales;
+
+VIII. Evaluar, y en su caso atender y/o canalizar, las demandas de apoyos logísticos y recursos materiales de las organizaciones sociales y órganos de representación vecinal que soliciten el apoyo a la Delegación, conforme a los programas y presupuestos asignados;
+
+IX. Opinar sobre las solicitudes de colaboración en la ejecución de obras que sean competencia de la Delegación por parte de los ciudadanos que residan en la misma;
+
+X. Determinar los mecanismos y procedimientos necesarios que permitan ejercer mayor control del presupuesto asignado a la Dirección Ejecutiva de Participación Ciudadana, correspondiente al Subprograma de Prevención al Delito y Presupuesto de la Dirección Ejecutiva de Participación Ciudadana; y
+
+XI. Coordinar las acciones de video-vigilancia y alarmas vecinales del Centro de Monitoreo del Subprograma de Prevención del Delito.
+
+> <small>(ADICIONADO, G.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 156 Bis 3.
+
+Corresponde a la Dirección Ejecutiva de Fomento Cooperativo:
+
+I. Participar en la elaboración y ejecución de los programas de fomento cooperativo de la demarcación;
+
+II. Impulsar las actividades de fomento cooperativo, por si y en coordinación con otras instancias de gobierno;
+
+III. Promover la concertación, con otras instancias de Gobierno y con los sectores social y privado, para impulsar el desarrollo cooperativo en la delegación;
+
+IV. Apoyar a la organización, constitución, registro, desarrollo e integración de las Sociedades Cooperativas;
+
+V. Difundir la cultura cooperativista, basada en la organización social, autogestiva y democrática del trabajo;
+
+VI. Planear, organizar, fomentar, difundir, ejecutar y evaluar programas de apoyo al sector cooperativista;
+
+VII. Vigilar, supervisar, coordinar y ejecutar los programas de fomento cooperativo; y
+
+VIII. Impulsar la coordinación de los programas de fomento cooperativo en las unidades administrativas de apoyo técnico-operativo, de su competencia.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -12011,3 +12157,9 @@ Primero.- Publíquese en la Gaceta Oficial del Distrito Federal para su conocimi
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Tercero.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
+
+G.O. 25 DE NOVIEMBRE DE 2008.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Las Unidades Administrativas que con motivo de la entrada en vigor del presente Decreto deban transferir recursos humanos, materiales, técnicos y financieros a las Unidades Administrativas de nueva creación, lo harán en los términos y condiciones establecidos por la Secretaría de Finanzas y la Oficialía Mayor.
