@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-la-administracion-publica-de-yucatan-57283"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-16"
-last_updated: "2007-10-16"
+last_updated: "2008-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO DE LA ADMINISTRACION PUBLICA DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE NOVIEMBRE DE 2008.
 
 Código publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 16 de octubre de 2007.
 
@@ -239,11 +239,21 @@ XV.- Secretaría de Fomento Agropecuario y Pesquero;
 
 XVI.- Secretaría de Desarrollo Urbano y Medio Ambiente;
 
-XVII.-Secretaría de la Contraloría General, y
+> <small>(REFORMADA, D.O. 25 DE NOVIEMBRE DE 2008)</small>
 
-XVIII.- Coordinación General de Comunicación Social.
+XVII.- Secretaría de la Contraloría General;
 
-Las Dependencias señaladas en las fracciones de la II a la XVIII tendrán igual rango entre ellas.
+> <small>(REFORMADA, D.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+XVIII.- Coordinación General de Comunicación Social, y
+
+> <small>(ADICIONADA, D.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+XIX.- Secretaría del Trabajo y Previsión Social.
+
+> <small>(REFORMADO, D.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+Las Dependencias señaladas en las fracciones de la II a la XIX tendrán igual rango entre ellas.
 
 ## TÍTULO III. DE LOS TITULARES DE LAS DEPENDENCIAS
 
@@ -375,7 +385,9 @@ XX.- Aplicar la Ley de Ejecución de Sanciones del Estado a través de la Direcc
 
 XXI.- Dar seguimiento, en materia de Derechos Humanos, a las recomendaciones, y procurar la colaboración con las Comisiones Nacional y Estatal de la materia;
 
-XXII.- Conducir las relaciones del Ejecutivo con la Junta Local de Conciliación y Arbitraje, con el Tribunal de lo Contencioso Administrativo y con el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado, con miras a la eficacia de los mismos, proporcionándoles el apoyo administrativo que para su funcionamiento requieran, sin perjuicio de su autonomía jurisdiccional;
+> <small>(REFORMADA, D.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+XXII.- Conducir las relaciones del Ejecutivo con el Tribunal de lo Contencioso Administrativo del Estado, con miras a la eficacia del mismo, proporcionándole el apoyo administrativo que para su funcionamiento requiera, sin perjuicio de su autonomía jurisdiccional;
 
 XXIII.- Coordinar la administración y vigilar el debido funcionamiento del Consejo Estatal de Población;
 
@@ -951,9 +963,9 @@ XVII.- Implementar la adecuada vigilancia, control y demás acciones en coordina
 
 XVIII.- Dar cumplimiento a los convenios que en la materia celebre el Estado con la Federación y con los municipios;
 
-XIX.- Ejercer las funciones que al Ejecutivo del Estado corresponda, en materia de trabajo y previsión social, y
+XIX.- (DEROGADA, D.O. 25 DE NOVIEMBRE DE 2008)
 
-XX.- Coadyuvar con las autoridades federales con las que se convenga y con las propias del Estado, en la aplicación y vigilancia de las normas de trabajo.
+XX.- (DEROGADA, D.O. 25 DE NOVIEMBRE DE 2008)
 
 ### CAPÍTULO XIV. De la Secretaría de Fomento Turístico
 
@@ -1207,13 +1219,61 @@ XV.- Organizar cursos de capacitación para optimizar los procesos de comunicaci
 
 XVI.- Elaborar el Manual de Imagen Institucional del Estado y supervisar el cumplimiento de sus disposiciones.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+### CAPITULO XIX. De la Secretaría del Trabajo y Previsión Social
+
+> <small>(ADICIONADO, D.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+Artículo 47 bis. A la Secretaría del Trabajo y Previsión Social le corresponde el despacho de los siguientes asuntos:
+
+I.- Ejercer las atribuciones que en materia de trabajo y previsión social le correspondan al Poder Ejecutivo del Estado;
+
+II.- Coadyuvar con las autoridades competentes, en la vigilancia y aplicación de las disposiciones contenidas en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, así como las aplicables en el ámbito local de la Ley Federal del Trabajo y sus reglamentos;
+
+III.- Promover el equilibrio de los factores de la producción, para lo cual será eje rector el impulso de la cultura laboral basada en el diálogo y la concertación;
+
+IV.- Promover la capacitación y el adiestramiento de los trabajadores con el fin de impulsar el desarrollo del Estado;
+
+V.- Dirigir y coordinar el Servicio Nacional de Empleo, Yucatán, así como las bolsas de trabajo de índole pública y vigilar su funcionamiento en el Estado;
+
+VI.- Organizar, dirigir, ordenar y supervisar, en el ámbito de su competencia, las visitas de verificación y de inspección que sean necesarias, para comprobar el cumplimiento de las disposiciones legales y reglamentarias en materia laboral y, en su caso, aplicar las sanciones administrativas que correspondan;
+
+VII.- Dirigir y coordinar la Procuraduría Local de la Defensa del Trabajo, así como vigilar su correcto funcionamiento;
+
+VIII.- Conducir las relaciones del Poder Ejecutivo con la Junta Local de Conciliación y Arbitraje y con el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado, con miras a la eficacia de los mismos, proporcionándoles el apoyo administrativo que para su funcionamiento requieran, sin perjuicio de su autonomía jurisdiccional;
+
+IX.- Mantener actualizadas y vigilar el cumplimiento de las normas relativas a la seguridad, higiene y medio ambiente en el trabajo;
+
+X.- Vigilar el cumplimiento de las normas relativas a la capacitación y adiestramiento de los trabajadores, así como elaborar y ejecutar programas de capacitación laboral en el Estado;
+
+XI.- Revisar, previa solicitud de la parte interesada, el contenido de los contratos colectivos de trabajo;
+
+XII.- Desarrollar y ejecutar programas en materia de trabajo, de conformidad con la normatividad aplicable;
+
+XIII.- Proponer al Comité de Planeación para el Desarrollo del Estado, políticas en materia laboral con visión regional y local que impulsen estrategias y líneas de acción que contribuyan a mejorar la productividad, la ocupación y el empleo, la capacitación y adiestramiento, la salud e higiene, y todas las medidas institucionales que persigan el fortalecimiento de la productividad en el Estado;
+
+XIV.- Instrumentar políticas y acciones que mejoren las condiciones laborales de las mujeres y los grupos en situación de vulnerabilidad en el Estado;
+
+XV.- Difundir a través de los medios de comunicación social las modificaciones que se den en las normas laborales y llevar las estadísticas en materia de trabajo y previsión social a nivel estatal;
+
+XVI.- Ejecutar los convenios y acuerdos que en materia de Trabajo suscriba el Poder Ejecutivo del Estado con la Federación y coadyuvar con la dependencia federal correspondiente, en la solución de los conflictos suscitados con motivo de Contratos-Ley de empresas asentadas en la Entidad;
+
+XVII.- Promover programas en materia de previsión social, así como organizar conferencias, exposiciones, reuniones, cursos y demás actividades que contribuyan a elevar el nivel de vida de los trabajadores y sus familias;
+
+XVIII.- Aportar a las autoridades federales del trabajo, la información que soliciten para el cumplimiento de sus funciones;
+
+XIX.- Mediar y conciliar, a solicitud de la parte interesada o cuando la situación lo amerite, en los conflictos que surjan de presuntas violaciones a las leyes laborales, contratos colectivos de trabajo o a las condiciones generales de trabajo;
+
+XX.- Fomentar y apoyar la organización social para el trabajo y autoempleo, y
+
+XXI.- Aplicar las disposiciones que por Ley, Decreto, Acuerdo o Convenio se le confieran, así como aquellas que le asigne el Gobernador del Estado.
+
 ### CAPÍTULO ÚNICO. Disposiciones Comunes
 
 ### CAPÍTULO I. De su Constitución, Organización y Funcionamiento
 
 ### CAPÍTULO II. Del Registro
-
-### CAPÍTULO ÚNICO. De su Constitución, Organización y Funcionamiento
 
 # LIBRO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
@@ -1303,7 +1363,7 @@ Las infracciones a este Código serán sancionadas en los términos que legalmen
 
 ## TÍTULO II. DE LOS ORGANISMOS DESCENTRALIZADOS
 
-### CAPÍTULO I. De las Obligaciones
+### CAPÍTULO ÚNICO. De su Constitución, Organización y Funcionamiento
 
 ###### Artículo 66.
 
@@ -1407,7 +1467,7 @@ En todo caso las facultades establecidas en las fracciones II, III, IV y VII, la
 
 Para acreditar la personalidad y facultades según el caso de los miembros del Órgano de Gobierno, del Secretario de éste, del Director General y de los Apoderados Generales de los organismos descentralizados, bastará con exhibir una certificación de su nombramiento o mandato en el Registro de Organismos Descentralizados.
 
-### CAPÍTULO II. Del Programa Institucional
+### CAPÍTULO I. De las Obligaciones
 
 ###### Artículo 78.
 
@@ -1445,7 +1505,7 @@ Procederá la cancelación de las inscripciones en el Registro de Organismos Des
 
 ## TÍTULO III. DE LAS EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA
 
-### CAPÍTULO III. De los Presupuestos
+### CAPÍTULO II. Del Programa Institucional
 
 ###### Artículo 82.
 
@@ -1503,7 +1563,7 @@ En los casos en que se acuerde la enajenación, en igualdad de condiciones y res
 
 ## TÍTULO IV. DE LOS FIDEICOMISOS PÚBLICOS
 
-### CAPÍTULO IV. De la Inversión de Recursos
+### CAPÍTULO III. De los Presupuestos
 
 ###### Artículo 93.
 
@@ -1549,7 +1609,7 @@ En los contratos constitutivos de fideicomisos de la Administración Pública Es
 
 ## TÍTULO V. DEL DESARROLLO Y OPERACIÓN DE LAS ENTIDADES PARAESTATALES
 
-### CAPÍTULO V. De los Programas Financieros
+### CAPÍTULO IV. De la Inversión de Recursos
 
 ###### Artículo 101.
 
@@ -1567,7 +1627,7 @@ IV.- Los rasgos más destacados de su organización para la producción de los b
 
 Las entidades paraestatales, para su desarrollo y operación, deberán sujetarse a las disposiciones de este Código, a la Ley de Planeación del Estado de Yucatán, a los programas sectoriales que se deriven del mismo y a las asignaciones de gastos y financiamientos autorizados. Dentro de tales preceptos las entidades formularán sus programas institucionales a corto, mediano y largo plazos.
 
-### CAPÍTULO VI. De los Comités
+### CAPÍTULO V. De los Programas Financieros
 
 ###### Artículo 103.
 
@@ -1577,7 +1637,7 @@ En el programa institucional estarán incluidos los compromisos trazados y deber
 
 El programa Institucional de la entidad paraestatal se elaborará en los términos y condiciones a que se refiere la Ley de Planeación y se revisará anualmente para introducir las modificaciones que las circunstancias le impongan.
 
-### CAPITULO VII. De las Atribuciones de los Órganos de Gobierno
+### CAPÍTULO VI. De los Comités
 
 ###### Artículo 105.
 
@@ -1591,7 +1651,7 @@ La entidad paraestatal manejará y erogará sus recursos por medio de sus órgan
 
 Las entidades paraestatales en lo referente a la formulación y al ejercicio de sus presupuestos, concertación y cumplimiento de compromisos, registro de operaciones, rendimiento de informes sobre estados financieros e integración de datos para efecto de cuenta pública deberá (sic) sujetarse en primer término a lo dispuesto por este Código y las normas aplicables, así como a los lineamientos establecidos por la Secretaría de Planeación y Presupuesto.
 
-### CAPÍTULO VIII. De las Facultades y Obligaciones de los Directores Generales
+### CAPITULO VII. De las Atribuciones de los Órganos de Gobierno
 
 ###### Artículo 108.
 
@@ -1601,7 +1661,7 @@ La inversión de los recursos de las entidades paraestatales debe hacerse en las
 
 Las entidades paraestatales no podrán utilizar formas de inversión que tengan carácter especulativo, quedando prohibidas las inversiones en acciones o valores de Casas de Bolsa.
 
-### CAPÍTULO IX. Del Control y Evaluación
+### CAPÍTULO VIII. De las Facultades y Obligaciones de los Directores Generales
 
 ###### Artículo 110.
 
@@ -1610,6 +1670,8 @@ Los programas financieros de la entidad paraestatal deberán formularse conforme
 ###### Artículo 111.
 
 El Director de las entidades paraestatales someterá el Programa Financiero para su autorización al Órgano de Gobierno respectivo una vez aprobado, remitirá a las Secretarías de Planeación y Presupuesto a la de Hacienda, la parte correspondiente a la suscripción de créditos externos para su autorización y registro en los términos de las leyes correspondientes.
+
+### CAPÍTULO IX. Del Control y Evaluación
 
 ###### Artículo 112.
 
@@ -1842,3 +1904,43 @@ C. ROLANDO RODRIGO ZAPATA BELLO
 SECRETARIO GENERAL DE GOBIERNO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 25 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+La Titular del Poder Ejecutivo del Estado, en un plazo no mayor de sesenta días hábiles contados a partir del día en que entre en vigor este Decreto, deberá expedir la reglamentación interior de la Secretaría del Trabajo y Previsión Social, así como la que contemple las sanciones aplicables en materia laboral.
+
+###### ARTÍCULO TERCERO.
+
+Se transfiere el Servicio Nacional de Empleo, Yucatán, de la Secretaría de Fomento Económico a la Secretaría del Trabajo y Previsión Social, manteniendo la figura jurídica de organismo administrativo desconcentrado con los mismos objetivos para los que fue creado.
+
+###### ARTÍCULO CUARTO.
+
+Todas las disposiciones normativas y documentos referentes al Servicio Nacional de Empleo, Yucatán, en los que se haga alusión a la Secretaría de Fomento Económico o a su Titular, se entenderán que se refieren, a la Secretaría del Trabajo y Previsión Social o a su Titular.
+
+###### ARTÍCULO QUINTO.
+
+Se transfieren a partir de la entrada en vigor de este Decreto, de la Secretaría de Fomento Económico a la Secretaría del Trabajo y Previsión Social todos los recursos presupuestales, financieros, materiales y en general, todos aquellos bienes y medios que permiten el funcionamiento y cumplimiento de las obligaciones y facultades del Servicio Nacional de Empleo, Yucatán.
+
+###### ARTÍCULO SEXTO.
+
+Los convenios, actos jurídicos asuntos pendientes y en trámite, del organismo desconcentrado denominado Servicio Nacional de Empleo, Yucatán, actualmente a cargo de la Secretaría de Fomento Económico, serán asumidos por la Secretaría del Trabajo y Previsión Social, de conformidad con las disposiciones legales aplicables.
+
+###### ARTÍCULO SÉPTIMO.
+
+El personal que al entrar en vigor este Decreto, preste sus servicios en la Junta Local de Conciliación y Arbitraje, el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado y la Procuraduría Local de la Defensa del Trabajo, quedarán adscritos administrativa y presupuestalmente a la Secretaría del Trabajo y Previsión Social, en las mismas condiciones y términos con que se han estado desempeñando y se estará a lo que señalen las disposiciones legales aplicables.
+
+###### ARTÍCULO OCTAVO.
+
+Se transferirán a partir de la entrada en vigor de este Decreto, de la Secretaría General de Gobierno a la Secretaría del Trabajo y Previsión Social los recursos presupuestales, financieros, materiales y en general, todos aquellos bienes y medios que permiten el cumplimiento de las obligaciones asignadas a la Junta Local de Conciliación y Arbitraje, el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado y la Procuraduría Local de la Defensa del Trabajo, para los fines legales que correspondan.
+
+###### ARTÍCULO NOVENO.
+
+Todas las disposiciones normativas y documentos referentes a la Junta Local de Conciliación y Arbitraje, el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado y la Procuraduría Local de la Defensa del Trabajo en los que se haga alusión a la Secretaría General de Gobierno o a su Titular, se entenderá que se refieren, a la Secretaría del Trabajo y Previsión Social o a su Titular.
