@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-interino-sobre-44698"
 country: "mx"
 rank: "otro"
 publication_date: "2000-06-26"
-last_updated: "2008-07-25"
+last_updated: "2008-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,39 +19,53 @@ issue_date: "2000-06-19"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO INTERINO SOBRE COMERCIO Y CUESTIONES RELACIONADAS CON EL COMERCIO (COMUNIDAD EUROPEA, 1997)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA INTERNAR A LA COMUNIDAD EUROPEA, BANANAS O PLATANOS, FRESCOS (EXCLUIDOS PLATANOS HORTALIZA) ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
+ACUERDO QUE MODIFICA EL DIVERSO POR EL QUE SE DA A CONOCER EL CUPO PARA INTERNAR A LA COMUNIDAD EUROPEA EN EL PERIODO DEL 1 DE JULIO DE UN AÑO AL 30 DE JUNIO DEL AÑO SIGUIENTE, JUGO DE NARANJA CONCENTRADO CONGELADO CON GRADO DE CONCENTRACION MAYOR A 20° BRIX, ORIGINARIO DE LOS ESTADOS UNIDOS MEXICANOS
 
-Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 25 de julio de 2008.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 25 de noviembre de 2008.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 1 de la Decisión 2/2008 del Consejo Conjunto UE-México; 4o., fracción III, 5o., fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o., fracción III, 26, 31, 32, 33 y 35 del Reglamento de la Ley de Comercio Exterior, y 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+GERARDO RUIZ MATEOS, Secretario de Economía, con fundamento en los artículos 8 párrafos 7 y 8 de la Decisión 2/2000 del Consejo Conjunto CE-México; 34, fracciones I y XXXI de la Ley Orgánica de la Administración Pública Federal; 5o., fracción V, 6o., 13, 23 y 24, segundo párrafo de la Ley de Comercio Exterior; 14, 16, 26, 31 y 32 del Reglamento de la Ley de Comercio Exterior; 5, fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Acuerdo de Asociación Económica, Concertación Política y Cooperación entre los Estados Unidos Mexicanos, por una parte, y la Comunidad Europea y sus Estados Miembros, por otra (en adelante “el Acuerdo Global”), fue aprobado por el Senado de la República el 20 de marzo de 2000, publicado en el Diario Oficial de la Federación el 26 de junio del mismo año y entró en vigor el 1 de octubre de 2000;
+Que el Acuerdo por el que se da a conocer el cupo para internar a la Comunidad Europea en el periodo del 1 de julio de un año al 30 de junio del año siguiente, jugo de naranja concentrado congelado con grado de concentración mayor a 20° Brix, originario de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 19 de septiembre de 2007, establece el procedimiento para la asignación del cupo referido entre los exportadores nacionales;
 
-Que la Decisión No. 2/2000 del Consejo Conjunto CE-México fue aprobada por el Senado de la República el 20 de marzo de 2000, publicada en el Diario Oficial de la Federación el 26 de junio del mismo año y entró en vigor el 1 de julio de 2000, con objeto de establecer las disposiciones que regulan el comercio de bienes originarios entre las Partes;
+Que dicho procedimiento establece los diez primeros días hábiles de julio para la presentación de solicitudes, y que este periodo resulta ineficiente para que los exportadores puedan planear sus operaciones con el exterior y presentar sus peticiones conforme a las necesidades que les impone su planeación;
 
-Que el 29 de julio de 2004 se adoptó la Decisión No. 3/2004 del Consejo Conjunto CE-México por la que se modifica la Decisión No. 2/2000 del Consejo Conjunto CE-México y se dio a conocer mediante Acuerdo publicado en el Diario Oficial de la Federación el 30 de abril del mismo año;
+Que debido a lo anterior, el procedimiento se ha constituido en un obstáculo administrativo para el pleno ejercicio de los beneficios que otorgan los países miembros de la Comunidad Europea a las exportaciones mexicanas de jugo de naranja concentrado congelado con grado de concentración mayor a 20° Brix;
 
-Que el 25 de abril de 2005 se suscribió en Luxemburgo, el Tratado entre los Estados Miembros de la Unión Europea y la República de Bulgaria y Rumania relativo a la adhesión de la República de Bulgaria y Rumania a la Unión Europea;
+Que es prioridad de la presente administración facilitar las operaciones de los agentes del comercio exterior, así como desregular la actividad económica a efecto de promover la competitividad entre las empresas mexicanas;
 
-Que el 29 de noviembre de 2006 se firmó el Segundo Protocolo Adicional al Acuerdo Global, el cual fue aprobado por el Senado de la República el 14 de diciembre del mismo año, se publicó en el Diario Oficial de la Federación el 28 de febrero de 2007 y entró en vigor el 1 de marzo de 2007, con objeto de incorporar a la República de Bulgaria y Rumania al propio acuerdo;
+Que el procedimiento de asignación de los cupos que se tratan en el presente Acuerdo, es un instrumento de la política sectorial para promover la competitividad y la mayor participación de los sectores involucrados, y
 
-Que con motivo de lo anterior, el 25 de julio de 2008 se adoptó la Decisión No. 2/2008 del Consejo Conjunto UE-México por la que se modifica la Decisión No. 2/2000 del Consejo Conjunto de 23 de marzo de 2000, modificada por la Decisión No. 3/2004 del Consejo Conjunto de 29 de julio de 2004 (en adelante “la Decisión No. 2/2008”), publicada en el Diario Oficial de la Federación el 25 de julio de 2008, a fin de adaptar determinadas disposiciones relativas al comercio de bienes, certificación de origen y compras del sector público;
+Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-Que la Decisión No. 2/2008 prevé en el Anexo I que el contingente arancelario para bananas o plátanos, frescos (excluidos plátanos hortaliza), permanecerá abierto del 1 de enero al 31 de diciembre de cada año calendario, y se aplicará por primera vez a partir del tercer día después de la publicación de la Decisión referida en el Diario Oficial de la Unión Europea;
-
-Que el procedimiento de asignación del cupo que prevé el presente Acuerdo es un instrumento de la política sectorial para promover la competitividad de los sectores involucrados, y
-
-Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
-
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA INTERNAR A LA COMUNIDAD EUROPEA, BANANAS O PLATANOS, FRESCOS (EXCLUIDOS PLATANOS HORTALIZA) ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
+ACUERDO QUE MODIFICA EL DIVERSO POR EL QUE SE DA A CONOCER EL CUPO PARA INTERNAR A LA COMUNIDAD EUROPEA EN EL PERIODO DEL 1 DE JULIO DE UN AÑO AL 30 DE JUNIO DEL AÑO SIGUIENTE, JUGO DE NARANJA CONCENTRADO CONGELADO CON GRADO DE CONCENTRACION MAYOR A 20° BRIX, ORIGINARIO DE LOS ESTADOS UNIDOS MEXICANOS
 
 ###### ARTICULO UNICO.
 
-Los artículos 3, 4 y 5 del Decreto que modifica al diverso por el que se establece la Tasa aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la Tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón, publicado en el Diario Oficial de la Federación el 3 de marzo del presente año, entrarán en vigor el próximo 1 de junio.
+Se reforma el antepenúltimo párrafo del inciso a) del artículo tercero del Acuerdo por el que se da a conocer el cupo para internar a la Comunidad Europea en el periodo del 1 de julio de un año al 30 de junio del año siguiente, jugo de naranja concentrado congelado con grado de concentración mayor a 20° Brix, originario de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 19 de septiembre de 2007, para quedar como sigue:
+
+"ARTICULO TERCERO.- . . .
+
+. . .
+
+a) . . .
+
+. . .
+
+. . .
+
+Las solicitudes para esta asignación podrán presentarse durante el periodo de julio de un año a marzo del siguiente año. La Secretaría de Economía, a través de la Dirección General de Comercio Exterior, emitirá la "Asignación de Cupo" correspondiente, la cual le dará derecho al beneficiario a solicitar su Certificado de Cupo de Exportación.
+
+. . .
+
+. . .
+
+b) . . .
+
+. . .".
 
 ###### ARTICULO PRIMERO.
 
@@ -159,10 +173,8 @@ a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”: 
 
 b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
 
-## TRANSITORIOS
+## TRANSITORIO
 
-PRIMERO.- El presente Acuerdo entrará en vigor el segundo día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+UNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO.- Para el año 2008 la vigencia de las constancias de asignación será a partir de la fecha de la emisión de la misma y hasta el 31 de diciembre de 2008.
-
-México, D.F., a 4 de julio de 2008.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+México, D.F., a 18 de noviembre de 2008.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
