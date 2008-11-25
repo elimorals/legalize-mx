@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-4115
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-14"
-last_updated: "2004-09-14"
+last_updated: "2008-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA DE SILAO GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el martes 14 de septiembre de 2004.
 
@@ -67,13 +67,17 @@ IX.- INFORMACIÓN CONFIDENCIAL.- La información en poder de los sujetos obligad
 
 La Unidad de Acceso a la Información Pública será el vínculo entre el Ayuntamiento y el solicitante, ya que es la responsable de entregar o negar la información.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 4º.
 
-Es información pública toda aquella que no se encuentre clasificada como reservada o confidencial.
+Es información pública todo documento, registro, archivo o cualquier dato que se recopile, procese o posean las entidades o dependencias administrativas del Ayuntamiento de Silao, Guanajuato y que no se encuentre clasificada como reservada o confidencial.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 5º.
 
-Es información pública de oficio la siguiente:
+Es información pública de oficio y se publicará a través de los medios disponibles de información la siguiente:
 
 I.- Las leyes, reglamentos, decretos administrativos, circulares y demás normas que le resulten aplicables;
 
@@ -81,39 +85,91 @@ II.- Su estructura orgánica;
 
 III.- El directorio de servidores públicos, desde el nivel de jefe de departamento o sus equivalentes hasta el nivel del funcionario de mayor jerarquía;
 
-IV.- El tabulador de dietas, sueldos y salarios; el sistema de premios, estímulos y recompensas; los gastos de representación, costo de viajes, viáticos y otro tipo de gastos realizados por los servidores públicos en ejercicio o con motivo de sus funciones;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
 
-V.- El domicilio, número telefónico y la dirección electrónica de la Unidad de Acceso a la Información Pública donde podrán recibirse las solicitudes para obtener la información pública;
+IV.- El tabulador mensual de dietas, sueldos y salarios, indicando todo tipo de percepciones y descuentos;
 
-VI.- Las metas y objetivos de sus programas;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
 
-VII.- Los servicios que ofrecen, los trámites, requisitos y formatos y, en su caso, el monto de los derechos para acceder a los mismos;
+V.- El sistema de premios, estímulos y recompensas;
 
-VIII.- El monto del presupuesto asignado, así como los informes sobre su ejecución;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
 
-IX.- Los destinatarios y el uso autorizado de toda entrega de recursos públicos, cualquiera que sea su destino, así como los informes que dichas personas deben entregar sobre el uso y destino de éstos;
+VI.- Los gastos de representación, costo de viajes, viáticos y otro tipo de gastos realizados por los servidores públicos en ejercicio o con motivo de sus funciones;
 
-X.- Las enajenaciones de bienes que realicen por cualquier título o acto, indicando los motivos, beneficiarios o adquirentes y los montos de las operaciones;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
 
-XI.- Los montos asignados y criterios de acceso a los programas de subsidio;
+VII.- El domicilio, número telefónico y la dirección electrónica de la Unidad de Acceso a la Información Pública donde podrán recibirse las solicitudes para obtener la información pública;
 
-XII.- Los resultados finales de las auditorias que se practiquen;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
 
-XIII.- Las reglas para otorgar concesiones, licencias, permisos o autorizaciones;
+VIII.- Los indicadores de gestión, las metas y objetivos de sus programas y el informe del ejercicio de los recursos públicos asignados o asociados a ellos;
 
-XIV.- El padrón inmobiliario;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
 
-XV.- Los contratos de obra pública, su monto y a quien le fueron asignados;
+IX.- Los servicios que ofrecen, los trámites, requisitos y formatos y, en su caso, el monto de los derechos para acceder a los mismos;
 
-XVI.- Los informes que por disposición legal genere el sujeto obligado;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
 
-XVII.- Los documentos en que consten las cuentas públicas, empréstitos y deudas contraídas;
+X.- El monto del presupuesto asignado, así como los informes sobre su ejecución;
 
-XVIII.- Las iniciativas de Leyes que se presenten en el Congreso del Estado, sus avances en los trabajos de dictaminación, así como los acuerdos y decretos legislativos aprobados.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
 
-XIX.- La aplicación de fondos auxiliares especiales y el origen de los ingresos; y
+XI.- Los destinatarios y el uso autorizado de toda entrega de recursos públicos, cualquiera que sea su destino, así como los informes que dichas personas deben entregar sobre el uso y destino de éstos;
 
-XX.- La relación de solicitudes de acceso a la información pública y las respuestas que se les den.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+XII.- Las enajenaciones de bienes que realicen por cualquier título o acto, indicando los motivos, beneficiarios o adquirentes y los montos de las operaciones;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+XIII.- Los montos asignados y criterios de acceso a los programas de subsidio;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+XIV.- Los resultados finales de las auditorías que se practiquen;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+XV.- Las reglas para otorgar concesiones, licencias, permisos o autorizaciones;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+XVI.- El padrón inmobiliario;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+XVII.- El listado de contratos, su monto y a quien le fueron asignados; y en su caso, los participantes en el concurso o licitación;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+XVIII.- Los informes que por disposición legal genere el sujeto obligado, así como las actas o minutas de sesiones públicas del Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+XIX.- Los documentos en que consten las cuentas públicas, empréstitos y deudas contraídas;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+XX.- Las iniciativas de leyes que se presenten en el Congreso del Estado, sus avances en los trabajos de dictaminación, así como los acuerdos y decretos legislativos aprobados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+XXI.- La aplicación de fondos auxiliares especiales y el origen de los ingresos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+XXII.- La relación de solicitudes de Acceso a la Información Pública y las respuestas que se les den;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+XXIII.- La resolución ejecutoria de los procedimientos de responsabilidad de los servidores públicos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+La información a que se refiere este artículo deberá actualizarse al menos cada dos meses.
 
 ###### ARTÍCULO 6º.
 
@@ -131,7 +187,9 @@ V.- La que lesione los procesos de negociación de lo (sic) sujetos obligados en
 
 VI.- La información de estudios y proyectos cuya divulgación pueda causar daño al interés del Municipio, o suponga un riesgo para su realización;
 
-VII.- Los procedimientos de responsabilidad de los servidores públicos. Será pública la resolución definitiva;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+VII.- Los procedimientos de responsabilidad de los servidores públicos será pública en resolución ejecutoria;
 
 VIII.- La que contenga las opiniones, estudios, recomendaciones o punto de vista que forme parte del proceso deliberativo de los servidores públicos y pueda ser perjudicial al interés público, hasta en tanto no sea adoptada la decisión definitiva;
 
@@ -149,7 +207,11 @@ XIV.- La que por mandato expreso de una Ley se considere reservada;
 
 XV.- Los expedientes, la discusión de los asuntos materia de sesión secreta del ayuntamiento. La resolución final, con su fundamentación y motivación, es pública siempre y cuando no contravenga otras disposiciones legales;
 
-XVI.- Las demás previstas en este reglamento y leyes aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+XVI.- Los expedientes que derivaron un procedimiento judicial o administrativo seguidos en forma de averiguación previa o juicio por las autoridades correspondientes; y,
+
+XVI (SIC).- Las demás previstas en este reglamento y leyes aplicables.
 
 ###### ARTÍCULO 7º.
 
@@ -245,7 +307,7 @@ XII.- Elaborar semestralmente un índice, por rubros temáticos de la informaci�
 
 XIII.- Vigilar que no se distribuya, difunda o comercialicen los datos personales contenidos en los sistemas de acceso a la información pública;
 
-XIV.- Proporcionar los datos personales en los supuestos y bajo las condiciones previstas en el artículo 24 de la Ley, previa petición fundada y motivada del sujeto obligado solicitante;
+XIV.- (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2008)
 
 XV.- Integrar un catálogo respecto de la información con que cuenta cada Unidad Administrativa y mantenerlo actualizado; y
 
@@ -359,11 +421,17 @@ III.- Salvo que de la solicitud realizada por medio de internet se desprenda el 
 
 Una vez recibida la solicitud respectiva en la Unidad de Acceso, esta procederá al análisis de la misma, y en su caso:
 
-I.- Si del análisis de la solicitud se determina que los datos proporcionados en la misma, no son suficientes para localizar los documentos o son erróneos, procederá en los términos señalados en el artículo 39 de la Ley, dentro de los 2 dos días hábiles siguientes al de recepción de la solicitud;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
 
-II.- El término de veinte días, de acuerdo con la Ley, para proporcionar la información se interrumpe, hasta en tanto el solicitante satisfaga el requerimiento de aclaración, por parte de la unidad de acceso;
+I.- Si del análisis de la solicitud se determina que los datos proporcionados en la misma, no son suficientes para localizar los documentos o son erróneos, procederá en los términos señalados en el artículo 39 de la Ley, dentro de los 10 diez días hábiles siguientes al de recepción de la solicitud para requerir al solicitante y éste a su vez tendrá un término de 3 tres días hábiles para que aclare su solicitud;
 
-III.- En caso de modificación sustancial de la solicitud de acceso presentada como respuesta al requerimiento, comenzará a correr un nuevo plazo de 20 veinte días, de conformidad con lo previsto en el artículo 42 de la Ley;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+II.- El término de quince días hábiles, de acuerdo con la Ley, para proporcionar la información se interrumpe, hasta en tanto el solicitante satisfaga el requerimiento de aclaración, por parte de la Unidad de Acceso;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+III.- En caso de modificación sustancial de la solicitud de acceso presentada como respuesta al requerimiento, comenzará a correr un nuevo plazo de 15 quince días hábiles, de conformidad con lo previsto en el artículo 42 de la Ley;
 
 IV.- Cuando la solicitud de información contenga los datos necesarios para darle trámite, se requerirá al titular de la Unidad Administrativa que corresponda dentro de los 2 dos días hábiles siguientes al en que se haya recibido la solicitud, la información respectiva.
 
@@ -371,11 +439,15 @@ IV.- Cuando la solicitud de información contenga los datos necesarios para darl
 
 Los plazos para resolver sobre las solicitudes de información empezarán a correr a partir del día hábil siguiente al de su presentación y se incluirá en ellos, el día del vencimiento.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 29º.
 
-El titular de la Unidad Administrativa procederá a revisar la petición de la Unidad de Acceso a efecto de determinar si se cuenta con la información; si ésta es pública deberá remitirla a la Unidad de Acceso dentro de los diez días hábiles siguientes, a fin de que se le dé el trámite correspondiente.
+El Titular de la Unidad Administrativa procederá a revisar la petición de la Unidad de Acceso a efecto de determinar si se cuenta con la información; si ésta es pública deberá remitirla a la Unidad de Acceso dentro de los ocho días hábiles siguientes, a fin de que se le dé el trámite correspondiente.
 
-Si no existe respuesta de la Unidad Administrativa, el Titular de la Unidad de Acceso le requerirá a fin de que dé contestación a la petición en el plazo de dos días hábiles.
+Si el Titular de la Unidad Administrativa considera que la información es Reservada o Confidencial, éste hará la Preclasificación enviando dicha consideración y la información a la Unidad de Acceso para que el Titular de esta analice y determine su clasificación definitiva.
+
+Si en el término señalado anteriormente no existe respuesta de la Unidad Administrativa, el Titular de la Unidad de Acceso le requerirá a fin de que dé contestación a la petición en el plazo de dos días hábiles, si en este término sigue sin existir respuesta, el Titular de la Unidad de Acceso procederá a dar vista al Ayuntamiento y a la Contraloría Municipal para la aplicación de las sanciones que correspondan.
 
 ###### ARTÍCULO 30º.
 
@@ -405,9 +477,11 @@ En el supuesto que en la información solicitada se detecte que existen datos pe
 
 Si el titular de los datos personales dentro del término de 5 cinco días hábiles no da contestación al requerimiento se entenderá que no desea que se conozca tal información.
 
-###### ARTÍCULO 36°
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2008)</small>
 
-Cuando la información solicitada contenga datos clasificados como reservados o confidenciales, se eliminarán las partes o secciones que contengan dichos datos, siempre y cuando se puedan eliminar del documento sin alterarlo en su totalidad, señalando las partes o secciones que fueron eliminadas, dicha información se proporcionará dentro de los veinte días hábiles siguientes al de recepción de la solicitud.
+###### ARTÍCULO 36º.
+
+Cuando la información solicitada contenga datos clasificados como reservados o confidenciales, se eliminarán las partes o secciones que contengan dichos datos, siempre y cuando se puedan eliminar del documento sin alterarlo en su totalidad, señalando las partes o secciones que fueron eliminadas, dicha información se proporcionará dentro de los quince días hábiles siguientes al de recepción de la solicitud.
 
 ### CAPÍTULO SEXTO. DE LA AMPLIACIÓN DEL PLAZO PARA LA ENTREGA DE INFORMACIÓN
 
@@ -415,9 +489,11 @@ Cuando la información solicitada contenga datos clasificados como reservados o 
 
 En su caso, la Unidad Administrativa, dentro de los cinco días hábiles siguientes al requerimiento de información, podrá solicitar a la Unidad de Acceso la ampliación del término para la entrega de la misma, exponiendo los motivos para dicha ampliación.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 38º.
 
-La Unidad de Acceso resolverá dentro de los tres días hábiles siguientes a la presentación de la solicitud de ampliación del plazo, si procede o no, informando de ello al solicitante señalando el término de ampliación el cual no excederá en lo previsto en el artículo 42 de la Ley.
+La Unidad de Acceso resolverá dentro de los dos días hábiles siguientes a la presentación de la solicitud de ampliación del plazo, si procede o no, informando de ello al solicitante señalando el término de ampliación el cual no excederá en lo previsto en el artículo 42 de la Ley.
 
 ###### ARTÍCULO 39º.
 
@@ -429,7 +505,15 @@ Causas de ampliación del término para la entrega de información:
 
 I.- Cuando el sujeto obligado tenga la información solicitada, pero se requiera entregar una reproducción de la misma, y ésta contenga en video, DVD, cassette, que haga imposible tenerla en el lapso de término previsto por la Ley;
 
-II.- Cuando la Unidad Administrativa no tenga la información solicitada y se inicie el análisis respectivo para localizar la información, en caso de que corresponda al sujeto obligado requerido.
+II.- Cuando la Unidad Administrativa no tenga la información solicitada y se inicie el análisis respectivo para localizar la información, en caso de que corresponda al sujeto obligado requerido;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+III.- Cuando la información solicitada sea bastante y que se requiera más tiempo para poder recopilarla; y,
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+IV.- Las demás que a juicio del Titular de la Unidad de Acceso a la Información Pública previo análisis de la causa de la ampliación del término.
 
 ###### ARTÍCULO 41°.
 
@@ -445,53 +529,43 @@ III.- Tratándose del supuesto previsto en el párrafo tercero, numeral 40 de la
 
 ###### ARTÍCULO 42°.
 
-Se procederá a la rectificación de datos personales cuando exista solicitud expresa por parte del interesado, dirigida a la Unidad de Acceso.
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2008)
 
 ###### ARTÍCULO 43°.
 
-La solicitud de corrección de datos deberá contener:
-
-I.- Los datos que se pretenden corregir haciendo referencia en dónde constan los mismos;
-
-II.- Indicar los datos correctos y acreditar la exactitud de los que se proporcionen;
-
-III.- En caso de que se pretendan complementar los datos personales, indicar la información faltante.
-
-Debiendo acreditar los particulares su personalidad como titulares de los datos personales a que hacen referencia o sus representantes, respectivamente, en el caso de éstos últimos la representación será de carácter legal en los términos de la normatividad correspondiente.
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2008)
 
 ###### ARTÍCULO 44°.
 
-La Unidad de Acceso a la Información Pública solicitará en un plazo de tres días hábiles siguientes al de la recepción de la solicitud respectiva, a la Unidad Administrativa, la remisión del expediente o documentos que contengan los datos personales del solicitante, indicando se señale cómo se obtuvieron los datos personales que en dicha documentación constan.
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2008)
 
 ###### ARTÍCULO 45°.
 
-La Unidad de Acceso con el apoyo de la Unidad Administrativa de enlace respectiva, analizará la procedencia de dicha modificación, éste análisis se realizará en un término de quince días hábiles a partir de la recepción de la solicitud.
-
-Asimismo, se podrá requerir al solicitante la información que se considere pertinente a efecto de verificar la exactitud de los datos.
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2008)
 
 ###### ARTÍCULO 46°.
 
-Si resulta procedente la modificación se emitirá un acuerdo en el cual se instruya a la Unidad Administrativa correspondiente, a realizar la modificación de los datos respectivos, señalando los datos correctos e indicando que se anexe a la corrección del documento el acuerdo de modificación de los mismos.
-
-Asimismo, la Unidad de Acceso, notificará al solicitante en un plazo que no excederá de 30 treinta días hábiles siguientes al de la determinación de procedencia de las notificaciones, que las mismas fueron conducentes.
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2008)
 
 ###### ARTÍCULO 47°.
 
-En caso de que se determine que no es procedente la modificación, la Unidad de Acceso notificará al interesado expresando las razones y fundamento que tomó en consideración para determinar la no procedencia de la corrección de los datos, dicho plazo no excederá de treinta días hábiles siguientes a la presentación de la solicitud, conforme a lo previsto en el artículo 26 de la Ley.
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2008)
 
 ###### ARTÍCULO 48°.
 
-A quienes incurran en responsabilidad por incumplimiento de lo previsto en el presente ordenamiento se les aplicarán las sanciones y los procedimientos previstos en la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato, así como, en su caso, la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato y demás disposiciones legales aplicables.
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2008)
 
 ### CAPÍTULO OCTAVO. DEL RECURSO DE INCONFORMIDAD
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 49º.
 
-Contra las resoluciones de las Unidades de Acceso a la Información, o bien cuando ésta no haya sido proporcionada dentro de los plazos correspondientes, el solicitante de la información podrá interponer por si mismo o a través de su representante, recurso de inconformidad ante el Director General del Instituto dentro de los quince días hábiles siguientes a la notificación o a la configuración de la negativa ficta.
+Contra las resoluciones de la Unidad de Acceso a la Información, que niegue el acceso a la información o bien cuando ésta no haya sido proporcionada dentro de los plazos correspondientes, el solicitante de la información podrá interponer por si mismo o a través de su representante, por escrito o por medios electrónicos el recurso de inconformidad en los términos establecidos en la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
 
 El recurso de inconformidad también podrá ser interpuesto cuando:
 
-I. El sujeto obligado se niegue a efectuar modificaciones o correcciones a los datos personales;
+I. (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2008)
 
 II. El solicitante considere que la información pública entregada es incompleta o no corresponda a la requerida en la solicitud.
 
@@ -529,9 +603,11 @@ En la substanciación del recurso de inconformidad, en lo no previsto por esta l
 
 Contra las resoluciones del Director General del Instituto, los sujetos obligados podrán interponer el recurso de revisión ante el propio Director y resolverá el Consejo General.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 55º.
 
-El recurso de revisión se interpondrá por escrito, con expresión de agravios, ante el Director General del Instituto, dentro del término de diez días hábiles siguientes a la notificación respectiva.
+El recurso de revisión se interpondrá por escrito o por medios electrónicos con expresión de agravios, ante el Director General del Instituto, dentro del término de diez días hábiles siguientes a la notificación respectiva.
 
 ###### ARTÍCULO 56º.
 
@@ -548,6 +624,22 @@ IV. El consejero ponente contará con un plazo de diez días hábiles para formu
 ###### ARTÍCULO 57º.
 
 En la substanciación del recurso de revisión, en lo no previsto por esta Ley, será aplicable de manera supletoria la Ley de Justicia Administrativa del Estado de Guanajuato.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+### CAPÍTULO DÉCIMO. DE LAS SANCIONES
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTÍCULO 58º.
+
+A los Titulares de las Unidades Administrativas que nieguen o no entreguen en los términos establecidos en el presente Reglamento la información solicitada a la Unidad de Acceso o no cumplan con lo establecido en este precepto Legal se les impondrán las sanciones establecidas por la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTÍCULO 59º.
+
+La Contraloría Municipal será la encargada de efectuar el procedimiento de responsabilidad de los servidores públicos que incumplan lo establecido por el presente Reglamento.
 
 ## TRANSITORIOS
 
@@ -570,3 +662,11 @@ LIC. GUILLERMO AGUIRRE VELAZQUEZ
 SECRETARIO DEL H. AYUNTAMIENTO
 
 LIC. MARIO GALLARDO VELAZQUEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 25 DE NOVIEMBRE DE 2008.
+
+Artículo Primero. El presente Acuerdo de las reformas, adiciones y derogaciones del Reglamento de la Unidad de Acceso a la Información Pública del Municipio de Silao, Guanajuato entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Las solicitudes que antes de (sic) entrada en vigencia del presente Acuerdo, hayan presentado los solicitantes ante la Unidad de Acceso a la Información Pública, deberán concluir observándose las disposiciones contenidas en el Reglamento aplicable en su momento de la solicitud de información.
