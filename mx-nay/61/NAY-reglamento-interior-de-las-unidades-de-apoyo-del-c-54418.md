@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-las-unidades-de-apoyo-del-c-54418"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-14"
-last_updated: "2007-02-14"
+last_updated: "2008-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LAS UNIDADES DE APOYO DEL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2008.
 
 Reglamento publicado en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el miércoles 14 de febrero de 2007.
 
@@ -69,9 +69,13 @@ VIII. Coordinación General de Innovación Gubernamental;
 
 IX. Coordinación General de Logística;
 
-X. Dirección General de Atención al Pueblo; y
+X. Dirección General de Atención al Pueblo; y (sic)
 
-XI. Consejo Estatal de los Pueblos Indígenas.
+XI. Consejo Estatal de los Pueblos Indígenas;
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2008)</small>
+
+Xll. Coordinación General del Plan Carretero.
 
 ###### Artículo 4°.
 
@@ -287,6 +291,48 @@ VI. Apoyar las acciones que emprenda el Consejo Consultivo para el Desarrollo de
 
 VII. Las demás que le encomiende el Gobernador.
 
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 21 Bis.
+
+La Coordinación General del Plan Carretero, será un órgano colegiado estratégico con el objeto de apoyar, orientar y armonizar las acciones para el desarrollo e implementación del Plan Carretero de Nayarit, para lo cual tendrá las siguientes funciones:
+
+l. Aprobar el programa anual de actividades que elaborará el Coordinador General, para la implementación del Plan Carretero;
+
+II. Promover la suscripción de los acuerdos necesarios con los sectores público o privado para la ejecución del Plan Carretero de Nayarit;
+
+III. Promover y gestionar recursos económicos para el desarrollo de los proyectos relacionados con el Plan Carretero de Nayarit, con las Dependencias y Entidades, organismos nacionales e internacionales ya sean públicos o privados;
+
+IV. Promover el establecimiento de mecanismos de coordinación y colaboración con las dependencias y entidades federales y los municipios; así como con instituciones públicas y privadas nacionales e internacionales, para el desarrollo del Plan Carretero de Nayarit y la realización de proyectos conjuntos;
+
+V. Las demás que sean necesarias para el cumplimiento de su objeto.
+
+La Coordinación General podrá constituir grupos de trabajo con la finalidad (sic) coadyuvar a la materialización de las acciones del Plan Carretero de Nayarit.
+
+La Coordinación General del Plan Carretero Nayarit, le corresponde organizar las acciones que fortalezcan la realización del plan carretero en la entidad, de conformidad al Plan Estatal de Desarrollo 2005-2011 y al Programa Integral de la Red Carretera Estatal y de las Comunicaciones.
+
+La Coordinación General del Plan Carretero de Nayarit, se integra por los siguientes funcionarios:
+
+I. Un Coordinador General quien la presidirá y designado por el Gobernador;
+
+II. El Secretario General del Gobierno;
+
+III. El Secretario de Planeación;
+
+IV. El Secretario de Obras Públicas;
+
+V. El Secretario de Finanzas;
+
+VI. El Secretario de Turismo;
+
+VII. El Secretario de la Contraloría General;
+
+VIII. El Secretario del Medio Ambiente del Estado de Nayarit; y
+
+IX. Los invitados de las dependencias federales, municipales u organizaciones sociales necesarias para el cumplimiento de los fines del presente acuerdo.
+
+Los cargos de los integrantes de la Coordinación serán de carácter honorífico, excepto el Coordinador General, tendrán derecho a voz y voto; los invitados solo tendrán derecho a voz.
+
 ### Capítulo XII. Disposiciones Generales
 
 ###### Artículo 22.
@@ -310,3 +356,9 @@ CUARTO.- Las Unidades de Apoyo, deberán expedir su manual interno de organizaci
 Dado en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Nayarit, en Tepic, su capital; a los quince días del mes de enero del año dos mil siete, para su debida observancia.
 
 A T E N T A M E N T E.-"Sufragio efectivo. No reelección".- LIC. NEY GONZÁLEZ SÁNCHEZ, Gobernador Constitucional del Estado.- Rúbrica.- PROFA. CORA CECILIA PINEDO ALONSO, Secretaria General de Gobierno.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2008.
+
+ÚNICO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
