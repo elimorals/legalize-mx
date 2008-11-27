@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-el-gobierno-interior-del-congreso-del-65896"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-16"
-last_updated: "2008-11-08"
+last_updated: "2008-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2008.
 
 Reglamento publicado en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -2169,21 +2169,25 @@ La Coordinación de Informática Legislativa tendrá las siguientes funciones:
 
 a) Planear, organizar y supervisar los servicios de informática parlamentaria;
 
-b) Administrar los sistemas y equipos informáticos del Congreso y promover su óptimo aprovechamiento, así como proporcionar el apoyo técnico para la adquisición de bienes informáticos;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2008)</small>
 
-c) Mantener en óptimo funcionamiento los sistemas de cómputo existentes y solicitar la adquisición de los que sean necesarios para la modernización administrativa;
+b) Realizar la digitalización de los documentos que genere el Congreso en ejercicio de sus atribuciones;
 
-d) Capacitar al personal en el manejo de los equipos de cómputo, sistemas operativos, paquetería de procesos y lenguaje de programación;
+c) Administrar los sistemas y equipos informáticos del Congreso y promover su óptimo aprovechamiento, así como proporcionar el apoyo técnico para la adquisición de bienes informáticos;
 
-e) Realizar las tareas de apoyo administrativo que le indique la Secretaría General;
+d) Mantener en óptimo funcionamiento los sistemas de cómputo existentes y solicitar la adquisición de los que sean necesarios para la modernización administrativa;
 
-f) Desarrollar y promover los servicios de internet y página web del Congreso, aplicando la normatividad que se establezca;
+e) Capacitar al personal en el manejo de los equipos de cómputo, sistemas operativos, paquetería de procesos y lenguaje de programación;
 
-g) Implantar, en coordinación con las unidades administrativas y legislativas, redes de datos y mantenerlos en operación a fin de facilitar la comunicación electrónica, tanto interna como externa;
+f) Realizar las tareas de apoyo administrativo que le indique la Secretaría General;
 
-h) Recomendar a las unidades administrativas y legislativas del Congreso, soluciones tecnológicas e informáticas para optimizar los recursos y procesos operativos, y
+g) Desarrollar y promover los servicios de internet y página web del Congreso, aplicando la normatividad que se establezca;
 
-i) Formular y aplicar los programas de mantenimiento preventivo y correctivo.
+h) Implantar, en coordinación con las unidades administrativas y legislativas, redes de datos y mantenerlos en operación a fin de facilitar la comunicación electrónica, tanto interna como externa;
+
+i) Recomendar a las unidades administrativas y legislativas del Congreso, soluciones tecnológicas e informáticas para optimizar los recursos y procesos operativos, y
+
+j) Formular y aplicar los programas de mantenimiento preventivo y correctivo.
 
 #### Sección Primera. Disposiciones Generales para los Directores y Coordinadores Adscritos a la Secretaría General
 
@@ -2539,9 +2543,17 @@ Las áreas de apoyo técnico de la Comisión de Gobierno son las dependencias ad
 
 I. Coordinación de Comunicación Social,
 
-II. Unidad de Gestoría Social; y
+II. Unidad de Gestoría Social; y (sic)
 
-III. Unidad de Enlace para la Transparencia y Acceso a la Información Pública.
+III. Unidad de Enlace para la Transparencia y Acceso a la Información Pública;
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2008)</small>
+
+IV. Unidad de Relaciones Públicas y Eventos Especiales; y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2008)</small>
+
+V. Unidad de Asesores.
 
 #### Sección Tercera. Departamento de Recursos Materiales y Servicios Generales
 
@@ -2583,7 +2595,7 @@ e) Captar, analizar y difundir entre los diputados, la información de los medio
 
 f) Asistir a los diputados en el desarrollo de las acciones necesarias para difundir sus actividades, y
 
-g) Proponer y coordinar, previo acuerdo de la Comisión de Gobierno, el programa de relaciones públicas del Congreso.
+g) (DEROGADO, P.O. 27 DE NOVIEMBRE DE 2008)
 
 #### Sección Primera. Departamento de Auditoría Financiera
 
@@ -2601,6 +2613,14 @@ Su titular será nombrado por la Comisión de Gobierno por el voto ponderado de 
 
 #### Sección Tercera. Unidad de Transparencia y Acceso a la Información
 
+#### Sección Cuarta. Unidad de Relaciones Públicas y Eventos Especiales
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2008)</small>
+
+#### Sección Quinta. Unidad de Asesores
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2008)</small>
+
 #### Sección Primera. Justificaciones 8
 
 #### Sección Segunda. Permanencia 9
@@ -2616,10 +2636,6 @@ Su titular será nombrado por la Comisión de Gobierno por el voto ponderado de 
 #### Sección Segunda. Competencia de las Comisiones 23
 
 #### Sección Tercera. Junta Directiva de las Comisiones 35
-
-#### Sección Cuarta. Funcionamiento de las Comisiones 36
-
-#### Sección Primera. Clasificación y Reglas Generales 40
 
 ### Capítulo I. Disposiciones Generales 2
 
@@ -2637,7 +2653,7 @@ d) No haber sido condenado por delito intencional que haya ameritado pena privat
 
 El titular de la Unidad de Gestoría Social será sustituido en sus ausencias por el funcionario que designe la Comisión de Gobierno.
 
-#### Sección Segunda. Orden del Día de las Sesiones 42
+#### Sección Cuarta. Funcionamiento de las Comisiones 36
 
 ###### Artículo 190.
 
@@ -2645,7 +2661,7 @@ La Unidad de Enlace y Acceso a la Información, es la unidad administrativa resp
 
 Tendrá las funciones que establece la ley de la materia su titular será nombrado por la Comisión de Gobierno por el voto ponderado de sus integrantes.
 
-#### Sección Tercera. Acta de las Sesiones 44
+#### Sección Primera. Clasificación y Reglas Generales 40
 
 ###### Artículo 191.
 
@@ -2675,6 +2691,22 @@ El Poder Legislativo tendrá un Comité de información, que se denominará Comi
 
 El Comité será el órgano interno del Congreso y tiene por objeto analizar, discutir y resolver sobre la organización y clasificación de la información pública conforme la Ley de la materia y su Reglamento así como los acuerdos que se emitan al efecto.
 
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 27 DE NOVIEMBRE DE 2008)</small>
+
+#### Sección Segunda. Orden del Día de las Sesiones 42
+
+###### Artículo 193.
+
+La Unidad de Relaciones Públicas y Eventos Especiales, es la responsable de desarrollar las actividades relacionadas con la atención a los distintos sectores que integran a la sociedad en general, así como planear, organizar y ejecutar la celebración de eventos de conformidad con el programa de actividades que dicte la Comisión de Gobierno.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 27 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 194.
+
+La Unidad de Asesores es la responsable de proporcionar asesoría multidisciplinaria a la Comisión de Gobierno; y por conducto de su Presidente, a los Grupos y Representaciones Parlamentarias.
+
+#### Sección Tercera. Acta de las Sesiones 44
+
 #### Sección Cuarta. Público que Asista a las Sesiones 45
 
 #### Sección Quinta. Ceremonial y Protocolo de las Sesiones 46
@@ -2682,10 +2714,6 @@ El Comité será el órgano interno del Congreso y tiene por objeto analizar, di
 #### Sección Primera. Formalidades 47
 
 #### Sección Segunda. Iniciativas de Ley o Decreto 48
-
-#### Sección Tercera. Iniciativa de Acuerdo 49
-
-#### Sección Cuarta. Dictámenes Legislativos 50
 
 ## TRANSITORIOS
 
@@ -2713,9 +2741,9 @@ REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO
 
 ### Capítulo I. Asamblea Legislativa 10
 
-#### Sección Quinta. Dispensa de Trámites 53
+#### Sección Tercera. Iniciativa de Acuerdo 49
 
-#### Sección Sexta. Debates Legislativos 53
+#### Sección Cuarta. Dictámenes Legislativos 50
 
 ### Capítulo II. Comisión de Gobierno Legislativo 11
 
@@ -2729,11 +2757,11 @@ REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO
 
 ### Capítulo VI. Diputación Permanente 21
 
+#### Sección Quinta. Dispensa de Trámites 53
+
+#### Sección Sexta. Debates Legislativos 53
+
 #### Sección Séptima. Moción Suspensiva 59
-
-#### Sección Octava. Votaciones 60
-
-#### Sección Novena. Resoluciones del Congreso 62
 
 ### Capítulo VII. Comisiones Legislativas 22
 
@@ -2741,9 +2769,17 @@ REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO
 
 ### Capítulo II. Procedimiento Legislativo 47
 
+#### Sección Octava. Votaciones 60
+
+#### Sección Novena. Resoluciones del Congreso 62
+
 #### Sección Décima. Diario de los Debates 64
 
 #### Sección Única. Comparecencias e Interpelaciones 64
+
+## TÍTULO TERCERO. Proceso legislativo
+
+### Capítulo III. Informe de Gobierno 64
 
 #### Sección Primera. Disposiciones Generales para los Directores y
 
@@ -2751,21 +2787,17 @@ Coordinadores Adscritos a la Secretaria General 70
 
 #### Sección Segunda. Dirección de Proceso Legislativo 71
 
-## TÍTULO TERCERO. Proceso legislativo
-
-### Capítulo III. Informe de Gobierno 64
-
 #### Sección Tercera. Dirección de Asuntos Jurídicos 72
 
 #### Sección Cuarta. Dirección de Investigación Legislativa y Biblioteca 73
 
 #### Sección Quinta. Coordinación de la Crónica Parlamentaria 75
 
+### Capítulo I. Estructura Técnica y Administrativa del Congreso 66
+
 #### Sección Sexta. Coordinación de Informática Legislativa 75
 
 #### Sección Séptima. Coordinación de Apoyo Parlamentario 76
-
-### Capítulo I. Estructura Técnica y Administrativa del Congreso 66
 
 #### Sección Octava. Archivo 78
 
@@ -2785,11 +2817,17 @@ Generales 83
 
 #### Sección Segunda. Departamento de Auditoría Operacional y Administrativa 87
 
+### Capítulo II. Secretaría General del Congreso 67
+
 #### Sección Primera. Coordinación de Comunicación Social 88
 
-#### Sección Segunda. Unidad de Gestoría Social 89
+## TÍTULO CUARTO. Organización y Funciones Administrativas del Congreso
 
-### Capítulo II. Secretaría General del Congreso 67
+### Capítulo III. Oficialía Mayor 79
+
+### Capítulo IV. Contraloría Interna 85
+
+#### Sección Segunda. Unidad de Gestoría Social 89
 
 #### Sección Tercera. Unidad de Transparencia y Acceso a la Información 90
 
@@ -2799,10 +2837,8 @@ P.O. 8 DE NOVIEMBRE DE 2008.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado.
 
-## TÍTULO CUARTO. Organización y Funciones Administrativas del Congreso
+P.O. 27 DE NOVIEMBRE DE 2008.
 
-### Capítulo III. Oficialía Mayor 79
-
-### Capítulo IV. Contraloría Interna 85
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 ### Capítulo V. Áreas de Apoyo Técnico Administrativo 88
