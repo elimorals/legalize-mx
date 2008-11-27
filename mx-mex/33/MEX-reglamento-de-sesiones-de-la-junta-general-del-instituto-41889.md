@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-sesiones-de-la-junta-general-del-instituto-41889"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-29"
-last_updated: "2004-10-29"
+last_updated: "2008-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO DE SESIONES DE LA JUNTA GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE SESIONES DE LA JUNTA GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, PUBLICADO EN LA G.O. DE 27 DE NOVIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el viernes 29 de octubre de 2004.
 
@@ -594,3 +596,17 @@ EL DIRECTOR DEL SERVICIO ELECTORAL PROFESIONAL
 I.S.E. FRANCISCO JAVIER LÓPEZ CORRAL
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 27 DE NOVIEMBRE DE 2008.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
+
+SEGUNDO.- Se abroga el Reglamento aprobado por el Consejo General mediante Acuerdo número 49 (cuarenta y nueve), de fecha veintinueve de octubre del año dos mil cuatro.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO.- El Consejo General expide el Reglamento de Sesiones de la Junta General, del Instituto Electoral del Estado de México, adjunto al presente Acuerdo.
+
+SEGUNDO.- El Reglamento de Sesiones de la Junta General, del Instituto Electoral del Estado de México, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
