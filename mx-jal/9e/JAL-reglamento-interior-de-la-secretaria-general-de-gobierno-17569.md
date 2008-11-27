@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-general-de-gobierno-17569"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-12"
-last_updated: "2007-12-08"
+last_updated: "2008-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17569&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2008.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 12 de septiembre de 2000.
 
@@ -461,9 +461,17 @@ XIV. Coordinar y apoyar la ejecución de los programas de capacitación instituc
 
 XV. Proporcionar los datos, información o la cooperación técnica contable y administrativa que le sean requeridos por otras dependencias y entidades, de acuerdo a las normas y políticas establecidas en la materia;
 
-XVI. Supervisar la Dirección de Publicaciones; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2008)</small>
 
-XVII. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera directamente el Secretario.
+XVI. Supervisar la Dirección de Publicaciones;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2008)</small>
+
+XVII. Ser Prestador de Servicios de Certificación de Firma Electrónica para los servidores públicos del Poder Ejecutivo, de conformidad con las disposiciones legales aplicables en la materia; y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2008)</small>
+
+XVIII. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera directamente el Secretario.
 
 ### CAPÍTULO VIII. De la Dirección General de Trabajo y Previsión Social
 
@@ -630,3 +638,7 @@ QUINTO. Se derogan todas las disposiciones reglamentarias que se opongan al pres
 P.O. 8 DE DICIEMBRE DE 2007.
 
 ÚNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 27 DE NOVIEMBRE DE 2008.
+
+ÚNICO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
