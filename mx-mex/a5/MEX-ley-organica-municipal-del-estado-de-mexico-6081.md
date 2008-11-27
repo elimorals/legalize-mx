@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2008-10-23"
+last_updated: "2008-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE NOVIEMBRE DE 2008.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -559,7 +559,9 @@ II. Que los habitantes del municipio conozcan los lineamientos generales del pla
 
 A las nueve horas del día 18 de agosto del año en que se hayan efectuado las elecciones municipales, el ayuntamiento saliente dará posesión de las oficinas municipales a los miembros del ayuntamiento entrante, que hubieren rendido la protesta de ley, cuyo presidente municipal hará la siguiente declaratoria formal y solemne: "Queda legítimamente instalado el ayuntamiento del municipio de ..., que deberá funcionar durante los años de ...".
 
-A continuación se procederá a la suscripción de las actas y demás documentos relativos a la entrega-recepción de la administración municipal, con la participación de los miembros de los ayuntamientos y los titulares de sus dependencias administrativas salientes y entrantes, designados al efecto; la cual se realizará siguiendo los lineamientos, términos, instructivos, formatos, cédulas y demás documentación que disponga la Contaduría General de Glosa de la Legislatura del Estado para el caso, misma que tendrá en ese acto, la intervención que establezcan las leyes. La documentación que se señala anteriormente deberá ser conocida en la primera sesión de Cabildo por los integrantes del Ayuntamiento a los cuales se les entregará copia de la misma. El ayuntamiento saliente, a través del presidente municipal, presentará al ayuntamiento entrante, con una copia para la Legislatura, un documento que contenga sus observaciones, sugerencias y recomendaciones en relación a la administración y gobierno municipal.
+> <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2008)</small>
+
+A continuación se procederá a la suscripción de las actas y demás documentos relativos a la entrega recepción de la administración municipal, con la participación de los miembros de los ayuntamientos y los titulares de sus dependencias administrativas salientes y entrantes, designados al efecto; la cual se realizará siguiendo los lineamientos, términos, instructivos, formatos, cédulas y demás documentación que disponga el Órgano Superior de Fiscalización del Estado de México para el caso, misma que tendrá en ese acto, la intervención que establezcan las leyes. La documentación que se señala anteriormente deberá ser conocida en la primera sesión de Cabildo por los integrantes del Ayuntamiento a los cuales se les entregará copia de la misma. El ayuntamiento saliente, a través del presidente municipal, presentará al ayuntamiento entrante, con una copia para la Legislatura, un documento que contenga sus observaciones, sugerencias y recomendaciones en relación a la administración y gobierno municipal.
 
 > <small>(ADICIONADO, G.G. 11 DE AGOSTO DEL 2000)</small>
 
@@ -1031,9 +1033,13 @@ III. Cuidar que la aplicación de los gastos se haga llenando todos los requisit
 
 IV. Vigilar que las multas que impongan las autoridades municipales ingresen a la tesorería, previo comprobante respectivo;
 
-V. Asistir a las visitas de inspección que realice la Contaduría General de Glosa a la tesorería e informar de los resultados al ayuntamiento;
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2008)</small>
 
-VI. Hacer que oportunamente se remitan a la Contaduría General de Glosa de la Legislatura del Estado las cuentas de la tesorería municipal y remitir copia del resumen financiero a los miembros del ayuntamiento;
+V. Asistir a las visitas de inspección que realice el Órgano Superior de Fiscalización del Estado de México a la tesorería e informar de los resultados al ayuntamiento;
+
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2008)</small>
+
+VI. Hacer que oportunamente se remitan al Órgano Superior de Fiscalización del Estado de México las cuentas de la tesorería municipal y remitir copia del resumen financiero a los miembros del ayuntamiento;
 
 VII. Intervenir en la formulación del inventario general de los bienes muebles e inmuebles propiedad del municipio, haciendo que se inscriban en el libro especial, con expresión de sus valores y de todas las características de identificación, así como el uso y destino de los mismos;
 
@@ -1447,9 +1453,11 @@ III. No estar inhabilitado para desempeñar cargo, empleo o comisión públicos.
 
 La tesorería municipal es el órgano encargado de la recaudación de los ingresos municipales y responsable de realizar las erogaciones que haga el ayuntamiento.
 
+> <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 94.
 
-El tesorero municipal, al tomar posesión de su cargo, recibirá la hacienda pública de acuerdo con las previsiones a que se refiere el artículo 19 de esta Ley y remitirá un ejemplar de dicha documentación al ayuntamiento, a la Contaduría General de Glosa del Poder Legislativo y al archivo de la tesorería.
+El tesorero municipal, al tomar posesión de su cargo, recibirá la hacienda pública de acuerdo con las previsiones a que se refiere el artículo 19 de esta Ley y remitirá un ejemplar de dicha documentación al ayuntamiento, al Órgano Superior de Fiscalización del Estado de México y al archivo de la tesorería.
 
 ###### Artículo 95.
 
@@ -1481,13 +1489,17 @@ XII. Intervenir en la elaboración del programa financiero municipal;
 
 XIII. Elaborar y mantener actualizado el Padrón de Contribuyentes;
 
-XIV. Ministrar a su inmediato antecesor todos los datos oficiales que le solicitare, para contestar los pliegos de observaciones y alcances que formule y deduzca la Contaduría General de Glosa;
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2008)</small>
+
+XIV. Ministrar a su inmediato antecesor todos los datos oficiales que le solicitare, para contestar los pliegos de observaciones y alcances que formule y deduzca el Órgano Superior de Fiscalización del Estado de México;
 
 XV. Solicitar a las instancias competentes, la práctica de revisiones circunstanciadas, de conformidad con las normas que rigen en materia de control y evaluación gubernamental en el ámbito municipal;
 
 XVI. Glosar oportunamente las cuentas del ayuntamiento;
 
-XVII. Contestar oportunamente los pliegos de observaciones y responsabilidad que haga la Contaduría General de Glosa de la Legislatura, informando al ayuntamiento;
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2008)</small>
+
+XVII. Contestar oportunamente los pliegos de observaciones y responsabilidad que haga el Órgano Superior de Fiscalización del Estado de México, informando al ayuntamiento;
 
 XVIII. Expedir copias certificadas de los documentos a su cuidado sólo por acuerdo expreso del ayuntamiento;
 
@@ -1593,9 +1605,11 @@ Podrá transmitirse onerosa o gratuitamente la propiedad de los bienes muebles d
 
 Los tribunales del Estado serán competentes para conocer de los juicios que se relacionen con los bienes del dominio público o privado de los municipios.
 
+> <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 109.
 
-Se reconoce acción popular para denunciar ante el ayuntamiento, ante la Contaduría General de Glosa del Poder Legislativo, o ante el Ejecutivo del Estado, la malversación de fondos municipales y cualquier otro hecho presuntamente delictivo en contra de la hacienda municipal.
+Se reconoce acción popular para denunciar ante el ayuntamiento, ante el Órgano Superior de Fiscalización del Estado de México, o ante el Ejecutivo del Estado, la malversación de fondos municipales y cualquier otro hecho presuntamente delictivo en contra de la hacienda municipal.
 
 ### CAPITULO CUARTO BIS. De los Comités Ciudadanos de
 
@@ -1677,7 +1691,9 @@ VI. Vigilar que los recursos federales y estatales asignados a los ayuntamientos
 
 VII. Vigilar el cumplimiento de las obligaciones de proveedores y contratistas de la administración pública municipal;
 
-VIII. Coordinarse con la Contaduría General de Glosa y la Contraloría del Poder Legislativo y con la Secretaría de la Contraloría del Estado para el cumplimiento de sus funciones;
+(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2008) (F. DE E., G.G. 19 DE DICIEMBRE DE 2008)
+
+VIII. Coordinarse con el Órgano Superior de Fiscalización del Estado de México y la Contraloría del Poder Legislativo y con la Secretaría de la Contraloría del Estado para el cumplimiento de sus funciones;
 
 IX. Designar a los auditores externos y proponer al ayuntamiento, en su caso, a los Comisarios de los Organismos Auxiliares;
 
@@ -1687,7 +1703,9 @@ XI. Realizar auditorías y evaluaciones e informar del resultado de las mismas a
 
 XII. Participar en la entrega-recepción de las unidades administrativas de las dependencias, organismos auxiliares y fideicomisos del municipio;
 
-XIII. Dictaminar los estados financieros de la tesorería municipal y verificar que se remitan los informes correspondientes a la Contaduría General de Glosa;
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2008)</small>
+
+XIII. Dictaminar los estados financieros de la tesorería municipal y verificar que se remitan los informes correspondientes al Órgano Superior de Fiscalización del Estado de México;
 
 XIV. Vigilar que los ingresos municipales se enteren a la tesorería municipal conforme a los procedimientos contables y disposiciones legales aplicables;
 
@@ -2520,3 +2538,13 @@ G.G. 23 DE OCTUBRE DE 2008.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 27 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial" Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
