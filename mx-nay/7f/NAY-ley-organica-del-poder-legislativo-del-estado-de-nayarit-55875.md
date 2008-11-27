@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2008-11-08"
+last_updated: "2008-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2008.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -745,9 +745,21 @@ Los titulares de las demás áreas internas de cada dependencia se designarán y
 
 Los servidores públicos del Congreso a que se hace referencia en la presente sección, no podrán durante el período de sus funciones, desempeñar otra comisión o empleo de la Federación, Estado o Municipio por el cual disfrute sueldo.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 77.
 
-Las Unidades de Gestoría Social, y la de Transparencia y Acceso a la Información Pública, así como la Coordinación de Comunicación Social, dependerán directamente de la Comisión de Gobierno.
+Son parte de la estructura orgánica de la Comisión de Gobierno Legislativo, las unidades administrativas que a continuación se indican:
+
+l. Unidad de Transparencia y Acceso a la Información Pública;
+
+II. Unidad de Gestoría Social;
+
+III. Unidad de Relaciones Públicas y Eventos Especiales;
+
+IV. Unidad de Asesores; y
+
+V. Coordinación de Comunicación Social.
 
 #### SECCIÓN SEGUNDA. SECRETARÍA GENERAL
 
@@ -1130,5 +1142,9 @@ P.O. 1 DE MARZO DE 2008.
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 P.O. 8 DE NOVIEMBRE DE 2008.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2008.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado.
