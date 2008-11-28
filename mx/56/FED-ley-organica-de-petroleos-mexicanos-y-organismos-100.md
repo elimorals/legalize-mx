@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-petroleos-mexicanos-y-organismos-100"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-07-16"
-last_updated: "2006-01-12"
+last_updated: "2008-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1992-07-15"
 
 LEY ORGANICA DE PETROLEOS MEXICANOS Y ORGANISMOS SUBSIDIARIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE ENERO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PETROLEOS MEXICANOS, PUBLICADA EN EL D.O.F. DE 28 DE NOVIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE FEDERACION: ABROGADO.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 16 de julio de 1992.
 
@@ -226,3 +228,141 @@ D.O.F. 12 DE ENERO DE 2006.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales que entren en contradicción con el presente Decreto; y se dejan sin efecto todas las disposiciones reglamentarias, circulares, acuerdos y todos los actos administrativos de carácter general que contradigan las disposiciones del presente Decreto.
+
+D.O.F. 28 DE NOVIEMBRE DE 2008.
+
+Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo que se señala en los transitorios siguientes.
+
+Segundo. Se abroga la Ley Orgánica de Petróleos Mexicanos y Organismos Subsidiarios, publicada en el Diario Oficial de la Federación el 16 de julio de 1992, con excepción de lo dispuesto en el transitorio siguiente, y se derogan todas las disposiciones que se opongan a la presente Ley.
+
+Tercero. Los organismos subsidiarios de Petróleos Mexicanos: PEMEX-Exploración y Producción; PEMEX-Refinación; PEMEX-Gas y Petroquímica Básica y PEMEX-Petroquímica continuarán realizando sus actividades en cumplimiento de su objeto, garantizando los compromisos asumidos y los que asuman en los Estados Unidos Mexicanos y en el extranjero, hasta en tanto el Ejecutivo Federal emita los decretos de reorganización respectivos y determine lo conducente, con base en la propuesta que le presente el Consejo de Administración.
+
+Mientras tanto continuarán vigentes los artículos 3o., 11, y 15 de la Ley Orgánica de Petróleos Mexicanos y Organismos Subsidiarios, publicada en el Diario Oficial de la Federación el 16 de julio de 1992, únicamente por lo que se refiere a dichos descentralizados y a su operación, en lo que no se opongan a la presente Ley.
+
+Cuarto. El Ejecutivo Federal enviará al Senado o a la Comisión Permanente los nombramientos de los cuatro consejeros profesionales dentro de un plazo de treinta días a partir de la entrada en vigor del presente decreto. Por única ocasión los cuatro consejeros profesionales terminarán su periodo sucesivamente, el primero nombrado, tres años después de la ratificación del Senado; el segundo nombrado, cuatro años después; el tercer nombrado, cinco años después; y el cuarto nombrado, seis años después.
+
+Quinto. El Consejo de Administración de Petróleos Mexicanos deberá quedar instalado a más tardar dentro de los quince días hábiles siguientes a la designación de los consejeros profesionales. En tanto ello sucede, el Consejo de Administración actual seguirá en funciones con base en lo establecido en la ley que se abroga.
+
+En tanto se instalan los comités a que se refiere la presente Ley, continuarán en operación los existentes a la entrada en vigor de la misma, de acuerdo con las disposiciones jurídicas correspondientes
+
+Sexto. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, el Director General presentará para aprobación del Consejo de Administración el Estatuto Orgánico de Petróleos Mexicanos.
+
+Séptimo. Desde la entrada en vigor de la presente Ley, Petróleos Mexicanos gozará de las facilidades siguientes por lo que podrá:
+
+I. Llevar a cabo las adquisiciones, arrendamientos, obras y servicios relacionados con las actividades sustantivas de carácter productivo a que se refiere el artículo 3o. y 4o. de la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo, así como de la petroquímica distinta de la básica, conforme a lo señalado en la presente Ley, en cuanto el Consejo de Administración emita las disposiciones a que se refiere el artículo 19, fracción IV, inciso j), de la Ley. Mientras tanto, continuarán sujetos a las regulaciones vigentes en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, sin perjuicio de que aplique lo dispuesto en los artículos 60 y 61 de esta Ley
+
+Los procedimientos de adquisiciones, arrendamientos y prestación de servicios, así como de obras públicas y servicios relacionados con las mismas iniciados con anterioridad a la emisión de las disposiciones a que se refiere el artículo 19, fracción IV, inciso j) de la Ley, concluirán con la aplicación de las normas con que se iniciaron;
+
+II. Formular y remitir a la Secretaría de Hacienda y Crédito Público sus propuestas de financiamiento, conforme a la fracción I del artículo 44 de esta Ley y únicamente registrará ante dicha Secretaría las operaciones de crédito, y (sic)
+
+III. Realizar, sin la autorización de la Secretaría de Hacienda y Crédito Público, las adecuaciones presupuestarias que considere, salvo las que incrementen el techo global de gasto o el presupuesto regularizable de servicios personales o pensiones.
+
+Asimismo, podrá emplear hasta el 20% de sus excedentes de ingresos propios o hasta 10,000 millones de pesos, lo que resulte mayor, para incrementar su gasto de inversión, mantenimiento y operación, siempre que no se incremente el presupuesto regularizable de servicios personales o pensiones.
+
+Lo previsto en esta fracción se realizará siempre y cuando Petróleos Mexicanos no afecte durante el año de que se trate, sus metas de balance primario y financiero.
+
+Los trámites en las materias a que se refiere este artículo, iniciados con anterioridad a la entrada en vigor de esta Ley, se concluirán conforme a las disposiciones con que se iniciaron;
+
+IV. Aplicar lo dispuesto en el artículo 49, fracción VI de esta Ley, una vez que esté en funcionamiento el comité de estrategia e inversiones.
+
+Disposición Transitoria en Materia de Deuda
+
+Octavo. Petróleos Mexicanos podrá realizar, sin requerir autorización de la Secretaría de Hacienda y Crédito Público, negociaciones, gestiones informales o exploratorias sobre la posibilidad de acudir al mercado externo de dinero y capitales; contratar los financiamientos externos que se requieran o que se concierten en moneda extranjera, así como contratar obligaciones constitutivas de deuda, cuando:
+
+I. Los montos a contratar formen parte del endeudamiento neto autorizado por el Congreso de la Unión;
+
+Il. Cumpla, a juicio del Ejecutivo Federal, las metas establecidas en el plan de negocios a que se refiere el artículo 19, fracción III, de la presente Ley, para los dos primeros años posteriores a la entrada en vigor de la misma, salvo que existan causas que justifiquen los incumplimientos, y
+
+III. Estén en funcionamiento los comités de Auditoría y Evaluación del Desempeño; Estrategia e Inversiones y Remuneraciones.
+
+La determinación respecto del cumplimiento de las metas establecidas en el plan de negocios se realizará por conducto de las Secretarías de Hacienda y Crédito Público y de Energía, con base en un dictamen externo. Dicho plan se revisará anualmente de manera conjunta por dichas dependencias y Petróleos Mexicanos.
+
+Disposiciones Transitorias en Materia de Presupuesto
+
+Noveno. Petróleos Mexicanos realizará el manejo de su presupuesto, de conformidad con las modalidades progresivas siguientes:
+
+I. Podrá emplear hasta el 35% de sus excedentes de ingresos propios o hasta 11,000 millones de pesos, lo que resulte mayor, para incrementar su gasto de inversión, mantenimiento y operación.
+
+Lo previsto en los párrafos anteriores se realizará siempre y cuando no afecte durante el año de que se trate, sus metas de balance primario y financiero y el presupuesto regularizable de servicios personales o pensiones.
+
+Lo dispuesto en esta fracción será aplicable una vez que Petróleos Mexicanos cumpla, a juicio del Ejecutivo Federal, las metas establecidas en el plan de negocios a que se refiere el artículo 19, fracción III, de la Ley, para el primer año posterior a su entrada en vigor, salvo que existan causas que justifiquen los incumplimientos;
+
+II. Una vez que se cumpla con lo dispuesto en el último párrafo de la fracción anterior y siempre y cuando no afecte, durante el año de que se trate su meta de balance financiero, podrá realizar sin la autorización de la Secretaría de Hacienda y Crédito Público, las adecuaciones presupuestarias que considere, salvo las que incrementen el techo global de gasto o el presupuesto regularizable de servicios personales; así como emplear hasta el 50% de sus excedentes de ingresos propios o hasta 12,500 millones de pesos, lo que resulte mayor, para incrementar su gasto de inversión, mantenimiento y operación, siempre que no se incremente el presupuesto regularizable de servicios personales.
+
+Lo dispuesto en esta fracción será aplicable una vez que Petróleos Mexicanos:
+
+a) Cumpla, a juicio del Ejecutivo Federal, las metas establecidas en el plan de negocios a que se refiere el artículo 19, fracción III, de la Ley, para los dos primeros años posteriores a su entrada en vigor, salvo que existan causas que justifiquen los incumplimientos;
+
+b) Emita su estatuto orgánico y estén en funcionamiento los comités de Auditoría y Evaluación del Desempeño, Estrategia e Inversiones y Remuneraciones, y
+
+c) Haya colocado bonos ciudadanos por al menos el 3% del total de deuda de corto y largo plazos reportado en sus últimos estados financieros consolidados;
+
+III. Al año siguiente de que se aplique lo dispuesto en la fracción II anterior y siempre y cuando Petróleos Mexicanos no afecte, durante el año de que se trate, su meta de balance financiero, podrá emplear hasta el 62.5% de sus excedentes de ingresos propios o hasta 14,000 millones de pesos, lo que resulte mayor, para incrementar su gasto de inversión, mantenimiento y operación, siempre que no se incremente el presupuesto regularizable de servicios personales.
+
+Lo dispuesto en esta fracción será aplicable una vez que Petróleos Mexicanos cumpla, a juicio del Ejecutivo Federal, las metas establecidas en el plan de negocios a que se refiere el artículo 19, fracción III, de la Ley, para el siguiente año a que se cumpla el supuesto previsto en el inciso a) de la fracción anterior;
+
+IV. Una vez que se cumpla con lo indicado en el último párrafo de la fracción anterior y siempre y cuando Petróleos Mexicanos no afecte, durante el año de que se trate, su meta de balance financiero, podrá emplear hasta el 75% de sus excedentes de ingresos propios o hasta 15,000 millones de pesos, lo que resulte mayor, para incrementar su gasto de inversión, mantenimiento y operación, siempre que no se incremente el presupuesto regularizable de servicios personales.
+
+Lo anterior siempre que:
+
+a) Cumpla, a juicio del Ejecutivo Federal, las metas establecidas en el plan de negocios a que se refiere el artículo 19, fracción III, de la Ley, para el año posterior a que se cumpla el supuesto previsto en el último párrafo de la fracción III anterior, salvo que existan causas que justifiquen los incumplimientos, y
+
+b) Haya colocado bonos ciudadanos por al menos el 5% del total de deuda de corto y largo plazos reportado en sus últimos estados financieros consolidados;
+
+V. Al año siguiente de que se aplique lo dispuesto en la fracción IV anterior, podrá emplear hasta el 87.5% de sus excedentes de ingresos propios o hasta 15,000 millones de pesos, lo que resulte mayor, para incrementar su gasto de inversión, mantenimiento y operación, siempre que no se afecte el presupuesto regularizable de servicios personales.
+
+Lo anterior siempre que cumpla, a juicio del Ejecutivo Federal, las metas establecidas en el plan de negocios a que se refiere el artículo 19, fracción III, de la Ley, para el siguiente año a que se cumpla el supuesto previsto en los incisos a) y b) de la fracción IV anterior.
+
+La determinación respecto del cumplimiento de las metas establecidas en el plan de negocios se realizará por conducto de las Secretarías de Hacienda y Crédito Público y de Energía, con base en un dictamen externo. Dicho plan se revisará anualmente de manera conjunta por dichas dependencias y Petróleos Mexicanos.
+
+Los estados financieros consolidados a que hace referencia este transitorio deberán ser elaborados y auditados conforme a las normas de información financiera en México, emitidas por el Consejo Mexicano para la Investigación y Desarrollo de Normas de Información Financiera.
+
+Décimo. Al año siguiente de que se aplique lo dispuesto en la fracción V del artículo anterior y se cumpla, a juicio del Ejecutivo Federal, las metas establecidas en el plan estratégico a que se refiere el artículo 19, fracción III, de la Ley, para el año siguiente a que se cumpla el supuesto previsto en el segundo párrafo de la fracción V del artículo anterior, entrará en vigor la fracción III del artículo 49 de la Ley.
+
+Los trámites iniciados con anterioridad a la entrada en vigor del precepto a que se refiere este artículo, se concluirán conforme a las disposiciones con que se iniciaron.
+
+Décimo Primero. El otorgamiento de los incentivos a que se refiere el artículo 25 de la Ley podrá realizarse a partir de cuando se dé cumplimiento a lo indicado en el artículo octavo transitorio, fracción I.
+
+Décimo Segundo. Los contratos, convenios y otros actos jurídicos celebrados por Petróleos Mexicanos y sus organismos subsidiarios, que se encuentren vigentes a la entrada en vigor de la presente Ley, se respetarán en los términos pactados. No obstante lo anterior, Petróleos Mexicanos y sus organismos subsidiarios podrán pactar su modificación para ajustarlos a las disposiciones de esta Ley, con base en los lineamientos que emita en Consejo de Administración de Petróleos Mexicanos.
+
+Otras Disposiciones Transitorias
+
+Décimo Tercero. Dentro los 180 días siguientes a la entrada en vigor del presente ordenamiento, Petróleos Mexicanos y sus organismos subsidiarios establecerán una estrategia para apoyar el desarrollo de proveedores y contratistas nacionales como parte del Plan Estratégico Integral de Negocios. Dicha estrategia deberá incluir un diagnóstico de la participación de los proveedores y contratistas mexicanos en las obras, las adquisiciones y arrendamientos de bienes y servicios, así como objetivos específicos y metas cuantitativas anuales a alcanzar del grado de contenido nacional en bienes, servicios y obras, respetando lo establecido en los tratados internacionales.
+
+La estrategia tendrá como finalidad incrementar el grado de contenido nacional en un mínimo de 25 por ciento. En el Plan Estratégico deberá especificarse el periodo en el que se alcanzará el porcentaje indicado. Para ello, se tomarán en cuenta las subcontrataciones que realicen los proveedores.
+
+Esta estrategia pondrá énfasis en el desarrollo de las pequeñas y medianas empresas, con el fin de coadyuvar al cumplimiento de lo previsto en el artículo 9, fracción IX de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.
+
+Con el fin de llevar un registro de los avances de la estrategia, Petróleos Mexicanos y sus organismos subsidiarios formularán un plan anual de compras a pequeñas y medianas empresas y registrarán todas sus cuentas por pagar en el Programa Cadenas Productivas de Nacional Financiera S.N.C.
+
+Asimismo, para coadyuvar al cumplimiento de lo previsto en el presente artículo, Petróleos Mexicanos y sus organismos subsidiarios se apoyarán en un área especializada de promoción e incorporación de nuevos contratistas y proveedores nacionales. Esta área tendrá a su cargo las funciones siguientes:
+
+I. Publicar y promover la estrategia a que se refiere este artículo;
+
+II. Identificar las oportunidades para el desarrollo de proveedores y contratistas nacionales;
+
+III. Proponer las políticas y acciones para dar cumplimiento a los objetivos de este artículo;
+
+IV. Coadyuvar en las acciones de Petróleos Mexicanos y sus organismos subsidiarios para alcanzar los objetivos planteados;
+
+V. Dar seguimiento al desarrollo de la estrategia y reportar los avances al Consejo de Administración;
+
+VI. Apoyar a Nacional Financiera S.N.C. en las acciones que realice el fondo a que se refiere el artículo siguiente, así como promover esquemas de financiamiento para el desarrollo de proveedores y contratistas nacionales, y
+
+VII. Las demás se establezcan en las disposiciones aplicables.
+
+El Director General comunicará semestralmente al Congreso de la Unión sobre los avances de las metas cuantitativas de esta estrategia.
+
+Décimo Cuarto. Con el fin de coadyuvar en la instrumentación de la estrategia a que se refiere el artículo anterior, el Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, constituirá un fondo en Nacional Financiera S.N.C. dentro de los 90 días siguientes a la entrada en vigor del presente ordenamiento.
+
+Este fondo tendrá por objeto promover el desarrollo de proveedores y grandes contratistas nacionales para la industria petrolera estatal, con atención a las pequeñas y medianas empresas.
+
+Lo señalado en este artículo no será excluyente para que dichas empresas puedan acceder a otros programas de apoyo de la banca de desarrollo o de otras dependencias o entidades del Gobierno Federal.
+
+Para complementar el fondo, Nacional Financiera S. N. C. gestionará créditos ante los organismos financieros internacionales que corresponda, con el fin de promover financiamiento y otros apoyos, en los mejores términos y condiciones, a los proveedores y contratistas nacionales de Petróleos Mexicanos y sus organismos subsidiarios, así como para detonar el desarrollo de la ingeniería mexicana.
+
+Para el ejercicio fiscal de 2009, el Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, de conformidad con la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el Decreto de Presupuesto de Egresos de la Federación y la Ley de Ingresos de la Federación, para el Ejercicio Fiscal 2009, realizará las reasignaciones de gasto conducente y la contratación de deuda dentro de los techos autorizados, con el fin de que se destinen el (sic) fondo cinco mil millones de pesos, incluyendo los recursos a que se refiere el párrafo anterior.
+
+Además, para el ejercicio fiscal de 2010, el monto propuesto en el proyecto de Decreto de Presupuesto de Egresos de la Federación para el fondo a que se refiere este artículo será de dos mil quinientos millones de pesos.
+
+Décimo Quinto. En un plazo máximo de un año, a partir de la publicación del presente Decreto, el Director General de Petróleos Mexicanos deberá proponer al Consejo de Administración, para su aprobación, un programa de reestructuración del organismo, basado en los principios de racionalidad administrativa y eficiencia para evitar la duplicidad de actividades y reducir los costos de operación, así como para aumentar la eficiencia de y entre las áreas corporativas, los organismos subsidiarios y las estructuras administrativas y operativas regionales. Una vez aprobado el programa, el Director General de Petróleos Mexicanos informará, de inmediato, a la Cámara de Diputados y a la Cámara de Senadores sobre los alcances, metas y acciones que se deriven de su aplicación.
