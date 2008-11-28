@@ -4,7 +4,7 @@ identifier: "FED-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1529
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-04"
-last_updated: "2008-07-02"
+last_updated: "2008-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15293&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAASSP"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2008.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 4 de enero de 2000.
 
@@ -59,6 +59,10 @@ V. Las empresas de participación estatal mayoritaria y los fideicomisos en los 
 VI. Las entidades federativas, con cargo total o parcial a fondos federales, conforme a los convenios que celebren con el Ejecutivo Federal, con la participación que, en su caso, corresponda a los municipios interesados. No quedan comprendidos los fondos previstos en el Capítulo V de la Ley de Coordinación Fiscal.
 
 Las personas de derecho público de carácter federal con autonomía derivada de la Constitución, aplicarán los criterios y procedimientos previstos en esta Ley, en lo que no se contraponga a los ordenamientos legales que los rigen, sujetándose a sus propios órganos de control.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+Las adquisiciones, arrendamientos y servicios relacionados con las actividades sustantivas de carácter productivo a que se refieren los artículos 3o. y 4o. de la Ley Reglamentaría del Artículo 27 Constitucional en el Ramo del Petróleo que realicen Petróleos Mexicanos y sus organismos subsidiarios quedan excluidos de la aplicación de este ordenamiento, por lo que se regirán por lo dispuesto en su Ley, salvo en lo que expresamente ésta remita al presente ordenamiento.
 
 > <small>(ADICIONADO, D.O.F. 21 DE AGOSTO DE 2006)</small>
 
@@ -1431,3 +1435,9 @@ D.O.F. 2 DE JULIO DE 2008.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las reformas y adiciones a los artículos 26, 28 y 42 entrarán en vigor seis meses después de la publicación del presente Decreto en el Diario Oficial de la Federación. En dicho plazo, el Ejecutivo Federal deberá emitir las disposiciones reglamentarias y administrativas respectivas.
+
+D.O.F. 28 DE NOVIEMBRE DE 2008.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abrogan o derogan todas las demás disposiciones que se opongan a lo establecido en esta Ley.
