@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "2008-08-27"
+last_updated: "2008-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -2496,6 +2496,26 @@ El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos d
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
 
 El adoptante dará nombre y sus apellidos al adoptado, salvo que por circunstancias específicas, en el caso de la adopción simple, no se estime conveniente.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 396 Bis.
+
+Por custodia familiar preadoptiva se entiende al período previo de convivencia del menor de edad con su previsible familia adoptiva, con el fin de que la niña, niño o adolescente viva lo más pronto posible en un ambiente familiar y, para comprobar que las relaciones que se establezcan entre ellos pronostiquen un buen desarrollo de los lazos familiares.
+
+La casa de asistencia social pública o privada que tenga acogido a un menor de edad por su estado de desamparo más de cuatro meses y ha elevado la solicitud judicial de pérdida de la patria potestad o de adopción, lo podrá dar en custodia familiar preadoptiva, que se formalizará ante el juez a petición de quien acogió al infante, siempre que los acogedores reúnan los requisitos necesarios para adoptar, excepto el consentimiento de los que ejercen la patria potestad; hayan sido seleccionados mirando el interés superior de la niña, niño o adolescente.
+
+Cuando las personas que ejercen la patria potestad de una niña, niño o adolescente, lo entreguen voluntariamente a una institución social pública o privada, o no se conozca el nombre de sus progenitores no se requerirá que transcurra el tiempo señalado en el párrafo anterior.
+
+La casa de asistencia pública o privada podrá formalizar, asimismo, una custodia familiar preadoptiva cuando considere, con anterioridad a la presentación de la propuesta de adopción, que fuera necesario establecer un período de adaptación del menor a la familia. Este periodo será lo más breve posible y, en todo caso, no podrá exceder del plazo de un año.
+
+El desarrollo de la custodia familiar preadoptiva será vigilado por el Ministerio Público, y en caso de anomalías las pondrá del conocimiento al Juez para que dicte las medidas de protección necesarias; lo relativo a administración bienes, si los hubiera, se aplicarán las reglas de la tutela.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 396 Ter.
+
+La custodia familiar preadoptiva cesa por resolución judicial, por, haber concluido el plazo señalado por el Juez o, por haberse consumado la adopción.
 
 ###### Artículo 397.
 
@@ -16288,3 +16308,9 @@ P.O. 27 DE AGOSTO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial" El Estado de Sinaloa".
+
+P.O. 28 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
