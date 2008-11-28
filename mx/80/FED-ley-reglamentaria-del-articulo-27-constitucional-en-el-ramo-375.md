@@ -4,7 +4,7 @@ identifier: "FED-ley-reglamentaria-del-articulo-27-constitucional-en-el-ramo-375
 country: "mx"
 rank: "ley"
 publication_date: "1958-11-29"
-last_updated: "2006-06-26"
+last_updated: "2008-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=375&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1958-11-27"
 
 LEY REGLAMENTARIA DEL ARTICULO 27 CONSTITUCIONAL EN EL RAMO DEL PETROLEO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2008.
 
-Ley publicada en el Diario Oficial de la Federación el sábado 29 de noviembre de 1958.
+Ley publicada en el Diario Oficial de la Federación, el sábado 29 de noviembre de 1958.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -37,15 +37,27 @@ DECRETO:
 
 LEY REGLAMENTARIA DEL ARTICULO 27 CONSTITUCIONAL EN EL RAMO DEL PETROLEO
 
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 1o.
 
-Corresponde a la Nación el dominio directo, inalienable e imprescriptible de todos los carburos de hidrógeno que se encuentren en el territorio nacional -incluída la plataforma continental- en mantos o yacimientos, cualquiera que sea su estado físico, incluyendo los estados intermedios, y que componen el aceite mineral crudo, lo acompañan o se derivan de él.
+Corresponde a la Nación el dominio directo, inalienable e imprescriptible de todos los carburos de hidrógeno que se encuentren en el territorio nacional, incluida la plataforma continental y la zona económica exclusiva situada fuera del mar territorial y adyacente a éste, en mantos o yacimientos, cualquiera que sea su estado físico, incluyendo los estados intermedios, y que componen el aceite mineral crudo, lo acompañan o se derivan de él.
+
+Para los efectos de esta Ley, se considerarán yacimientos transfronterizos aquellos que se encuentren dentro de la jurisdicción nacional y tengan continuidad física fuera de ella.
+
+También se considerarán como transfronterizos aquellos yacimientos o mantos fuera de la jurisdicción nacional, compartidos con otros países de acuerdo con los tratados en que México sea parte o bajo lo dispuesto en la Convención sobre Derecho del Mar de las Naciones Unidas.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 2o.
 
-Sólo la Nación podrá llevar a cabo las distintas explotaciones de los hidrocarburos, que constituyen la industria petrolera en los términos del artículo siguiente.
+De conformidad con lo dispuesto en los párrafos cuarto del artículo 25 y sexto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, sólo la Nación podrá llevar a cabo las distintas explotaciones de los hidrocarburos, que constituyen la industria petrolera en los términos del artículo siguiente.
 
 En esta Ley se comprende con la palabra petróleo a todos los hidrocarburos naturales a que se refiere el artículo 1o.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+Los yacimientos transfronterizos a que se refiere el artículo anterior podrán ser explotados en los términos de los tratados en los que México sea parte, celebrados por el Presidente de la República y aprobados por la Cámara de Senadores.
 
 > <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
 
@@ -95,25 +107,43 @@ Salvo lo dispuesto en el artículo 3o., el transporte, el almacenamiento y la di
 
 El transporte, el almacenamiento y la distribución de gas metano, queda incluida en las actividades y con el régimen a que se refiere el párrafo anterior.
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
-Cuando en la elaboración de productos petroquímicos distintos a los básicos enumerados en la fracción III del artículo 3o. de esta Ley se obtengan, como subproductos, petrolíferos o petroquímicos básicos, éstos podrán ser aprovechados en el proceso productivo dentro de las plantas de una misma unidad o complejo, o bien ser entregados a Petróleos Mexicanos o a sus organismos subsidiarios, bajo contrato y en los términos de las disposiciones administrativas que la Secretaría de Energía expida.
+El gas asociado a los yacimientos de carbón mineral se sujetará a las disposiciones aplicables de transporte, almacenamiento y distribución de gas.
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
-Las empresas que se encuentren en el supuesto a que se refiere el párrafo anterior tendrán la obligación de dar aviso a la Secretaría de Energía, la cual tendrá la facultad de verificar el cumplimiento de las citadas disposiciones administrativas y, en su caso, imponer las sanciones a que se refiere el artículo 15 de esta Ley.
+Cuando en la elaboración de productos petroquímicos distintos a los básicos enumerados en la fracción III del artículo 3o. de esta Ley se obtengan, como subproductos, petrolíferos o petroquímicos básicos, éstos podrán ser aprovechados en el proceso productivo dentro de las plantas de una misma unidad o complejo, o bien ser entregados a Petróleos Mexicanos o a sus organismos subsidiarios, bajo contrato y en los términos de las disposiciones administrativas que la Secretaría de Energía expida, excepto cuando su valor comercial sea menor al veinticinco por ciento de la facturación total del particular en un año calendario.
 
-> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+Las personas que se encuentren en el supuesto a que se refiere el párrafo anterior tendrán la obligación de dar aviso a la Secretaría de Energía, la cual tendrá la facultad de verificar el cumplimiento de las citadas disposiciones administrativas y, en su caso imponer las sanciones a que se refiere el artículo 15 Bis de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTICULO 4o. Bis.
+
+Las actividades de Petróleos Mexicanos y su participación en el mercado mundial se orientarán de acuerdo con los intereses nacionales, incluyendo los de seguridad energética del país, sustentabilidad de la plataforma anual de extracción de hidrocarburos, diversificación de mercados, incorporación del mayor valor agregado a sus productos, desarrollo de la planta productiva nacional y protección del medio ambiente. Esos criterios se incorporarán en la Estrategia Nacional de Energía.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 5o.
 
-La Secretaría de Energía asignará a Petróleos Mexicanos los terrenos que esta institución le solicite o que el Ejecutivo Federal considere conveniente asignarle para fines de exploración y explotación petroleras.
+El Ejecutivo Federal, por conducto de la Secretaría de Energía, otorgará exclusivamente a Petróleos Mexicanos y sus organismos subsidiarios las asignaciones de áreas para exploración y explotación petroleras.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
 
 El Reglamento de esta Ley establecerá los casos en que la Secretaría de Energía podrá rehusar o cancelar las asignaciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 6o.
 
-Petróleos Mexicanos podrá celebrar con personas físicas o morales los contratos de obras y de prestación de servicios que la mejor realización de sus actividades requiere. Las remuneraciones que en dichos contratos se establezcan, serán siempre en efectivo y en ningón (sic) caso concederán por los servicios que se presten o las obras que se ejecuten, porcentajes en los productos, ni participación en los resultados de las explotaciones.
+Petróleos Mexicanos y sus organismos subsidiarios podrán celebrar con personas físicas o morales los contratos de obras y de prestación de servicios que la mejor realización de sus actividades requiere. Las remuneraciones que en dichos contratos se establezcan serán siempre en efectivo y en ningún caso se concederán por los servicios que se presten y las obras que se ejecuten propiedad sobre los hidrocarburos, ni se podrán suscribir contratos de producción compartida o contrato alguno que comprometa porcentajes de la producción o del valor de las ventas de los hidrocarburos ni de sus derivados, ni de las utilidades de la entidad contratante.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+Petróleos Mexicanos no se someterá, en ningún caso, a jurisdicciones extranjeras tratándose de controversias referidas a contratos de obra y prestación de servicios en territorio nacional y en las zonas donde la Nación ejerce soberanía, jurisdicción o competencia. Los contratos podrán incluir acuerdos arbitrales conforme a las leyes mexicanas y los tratados internacionales de los que México sea parte.
 
 > <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2006)</small>
 
@@ -123,15 +153,23 @@ Petróleos Mexicanos, los organismos subsidiarios y sus empresas podrán cogener
 
 En el Proyecto de Presupuesto de Egresos de la Federación, se someterán a discusión, análisis, aprobación y modificación de la Cámara de Diputados los recursos destinados a los proyectos de cogeneración de electricidad que Petróleos Mexicanos, los organismos subsidiarios y sus empresas propongan ejecutar, los recursos y esquemas de inversión pública con los que se pretendan llevar a cabo dichas obras, así como la adquisición de los excedentes por parte de las entidades.
 
-> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 7o.
 
-El reconocimiento y la exploración superficial de los terrenos para investigar sus posibilidades petrolíferas, requerirán únicamente permiso de la Secretaría de Energía. Si hubiere oposición del propietario o poseedor cuando los terrenos sean particulares, o de los representantes legales de los ejidos o comunidades, cuando los terrenos estén afectados al régimen ejidal o comunal, la Secretaría de Energía, oyendo a las partes, concederá el permiso mediante reconocimiento que haga Petróleos Mexicanos de la obligación de indemnizar a los afectados por los daños y perjuicios que pudieren causarle de acuerdo con el peritaje que la Comisión de Avalúos de Bienes Nacionales practique dentro de un plazo que no excederá de seis meses, pudiendo entregar Petróleos Mexicanos un anticipo, en consulta con la propia Comisión. El resto del pago será finiquitado una vez concluido el peritaje.
+El reconocimiento y la exploración superficial de las áreas para investigar sus posibilidades petrolíferas, requerirán únicamente permiso de la Secretaría de Energía. Si hubiere oposición del propietario o poseedor cuando las áreas incluyan terrenos particulares, o de los representantes legales de los ejidos o comunidades, cuando las áreas comprendan terrenos afectados al régimen ejidal o comunal, la Secretaría de Energía, oyendo a las partes, concederá el permiso mediante reconocimiento que haga Petróleos Mexicanos de la obligación de indemnizar a los afectados por los daños y perjuicios que pudieren causarle, de acuerdo con el valor comercial que arroje el peritaje que en términos de la Ley General de Bienes Nacionales se practique, dentro de un plazo que no excederá de seis meses, pudiendo entregar Petróleos Mexicanos un anticipo, en consulta con la Secretaría de la Función Pública. El resto del pago será finiquitado una vez concluido el peritaje.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTICULO 7o. Bis.
+
+Petróleos Mexicanos ejecutará las acciones de prevención y de reparación de daños al medio ambiente o al equilibrio ecológico a causa de las obras u operaciones de la industria petrolera y está obligado a sufragar sus costos, cuando sea declarado responsable por resolución de la autoridad competente, en términos de las disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 8o.
 
-El Ejecutivo Federal establecerá zonas de reservas petroleras en terrenos que por sus posibilidades petrolíferas así lo ameriten, con la finalidad de garantizar el abastecimiento futuro del país. La incorporación de terrenos a las reservas y su desincorporación de las mismas, serán hechas por decreto presidencial, fundado en los dictámenes técnicos respectivos.
+El Ejecutivo Federal establecerá zonas de reservas petroleras en áreas que por sus posibilidades así lo ameriten. La incorporación de áreas a las reservas y su desincorporación de las mismas serán hechas por decreto presidencial, fundado en los dictámenes técnicos respectivos.
 
 > <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
 
@@ -139,23 +177,35 @@ El Ejecutivo Federal establecerá zonas de reservas petroleras en terrenos que p
 
 La industria petrolera y las actividades a que se refiere el artículo 4o., segundo párrafo, son de la exclusiva jurisdicción federal. En consecuencia, únicamente el Gobierno federal puede dictar las disposiciones técnicas, reglamentarias y de regulación que las rijan.
 
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+Con el fin de promover el desarrollo sustentable de las actividades que se realizan en los términos de esta Ley, en todo momento deberán seguirse criterios que fomenten la protección, la restauración y la conservación de los ecosistemas, además de cumplir estrictamente con las leyes, reglamentos y demás normatividad aplicable en materia de medio ambiente, recursos naturales, aguas, bosques, flora y fauna silvestre, terrestre y acuática, así como de pesca.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+Los criterios que se mencionan en el párrafo anterior serán expedidos, conjuntamente, por la Secretaría de Energía y la Secretaría de Medio Ambiente y Recursos Naturales.
+
 > <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 10.
 
 La industria petrolera es de utilidad pública, preferente sobre cualquier aprovechamiento de la superficie y del subsuelo de los terrenos, incluso sobre la tenencia de los ejidos o comunidades y procederá la ocupación provisional, la definitiva o la expropiación de los mismos, mediante la indemnización legal, en todos los casos en que lo requieran la Nación o su industria petrolera.
 
-Son de utilidad pública las actividades de construcción de ductos. Petróleos Mexicanos, sus organismos subsidiarios y las empresas de los sectores social y privado estarán obligados a prestar a terceros el servicio de transporte y distribución de gas por medio de ductos, en los términos y condiciones que establezcan las disposiciones reglamentarias.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+Son de utilidad pública las actividades de construcción de ductos y de plantas de almacenamiento. Petróleos Mexicanos, sus organismos subsidiarios y las empresas de los sectores social y privado estarán obligados a prestar a terceros el servicio de transporte y distribución de gas por medio de ductos, en los términos y condiciones que establezcan las disposiciones reglamentarias.
+
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 11.
 
-El Ejecutivo Federal dictará las disposiciones relacionadas con la vigilancia de los trabajos petroleros y las normas técnicas a que deberá estar sujeta la explotación.
+El Ejecutivo Federal, por conducto de la Secretaría de Energía, con la participación que corresponda a la Comisión Nacional de Hidrocarburos y a la Comisión Reguladora de Energía, establecerán, en el ámbito de sus respectivas atribuciones y conforme a la legislación aplicable, la regulación de la industria petrolera y de las actividades a que se refiere esta Ley.
 
-> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 12.
 
-En lo no previsto por esta ley, se consideran mercantiles los actos de la industria petrolera y las actividades a las que se refiere el artículo 4o., segundo párrafo, que se regirán por el Código de Comercio y, de modo supletorio, por las disposiciones del Código Civil para el Distrito Federal en materia común y para toda la República en materia federal.
+En lo no previsto por esta Ley, se consideran mercantiles los actos de la industria petrolera y las actividades a las que se refieren el artículo 4o. segundo párrafo, que se regirán por el Código de Comercio y, de modo supletorio, por las disposiciones del Código Civil Federal.
 
 > <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
 
@@ -173,9 +223,17 @@ II. Interrumpir sin causa justificada y autorización de la Secretaría de Energ
 
 III. Realizar prácticas discriminatorias en perjuicio de los usuarios, y violar los precios y tarifas que, en su caso, llegare a fijar la autoridad competente;
 
-IV. Ceder, gravar o transferir los permisos en contravención a lo dispuesto en esta Ley, y
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
-V. No cumplir con las normas oficiales mexicanas, así como con las condiciones establecidas en el permiso.
+IV. Ceder, gravar o transferir los permisos en contravención a lo dispuesto en esta Ley;
+
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+V. No cumplir con las normas oficiales mexicanas, así como con las condiciones establecidas en el permiso, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+VI. Se haya actualizado el supuesto previsto en la fracción VII del artículo 15 Ter de esta Ley y, en consecuencia, se hayan desmantelado las instalaciones o sistemas.
 
 Los permisionarios están obligados a permitir el acceso a sus instalaciones a los verificadores de la Secretaría de Energía, así como a proporcionar a ésta toda la información que le sea requerida para comprobar el cumplimiento de las obligaciones a su cargo.
 
@@ -197,7 +255,9 @@ d) El acceso no discriminatorio y en condiciones competitivas a los servicios de
 
 e) La presentación de información suficiente y adecuada para fines de regulación;
 
-II. La determinación de los precios y tarifas aplicables, cuando no existan condiciones de competencia efectiva, a juicio de la Comisión Federal de Competencia. Los sectores social y privado podrán solicitar a la mencionada Comisión que se declare la existencia de condiciones competitivas;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+II. La determinación de los precios y tarifas aplicables, salvo que existan condiciones de competencia efectiva, a juicio de la Comisión Federal de Competencia, o que sean establecidos por el Ejecutivo Federal mediante acuerdo. Los sectores social y privado podrán solicitar a la mencionada Comisión que se declare la existencia de condiciones competitivas;
 
 III. El procedimiento de consulta pública para la definición de criterios de regulación, en su caso;
 
@@ -207,25 +267,139 @@ V. Los procedimientos de conciliación y arbitraje para resolver las controversi
 
 VI. Los demás instrumentos de regulación que establezcan las disposiciones aplicables.
 
-> <small>(ADICIONADO, D.O.F. 11 DE MAYO DE 1995)</small>
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTICULO 14 Bis.
+
+La gasolina y los demás combustibles líquidos producto de la refinación del petróleo que se vendan directamente al público, a través de las estaciones de servicio, deberán distribuirse y expenderse o suministrarse sin alteración, de conformidad con lo que establece esta Ley y demás disposiciones aplicables.
+
+El expendio de gasolinas y otros combustibles líquidos producto de la refinación del petróleo que se realice a través de estaciones de servicio con venta directa al público o de autoconsumo operarán en el marco del contrato de franquicia u otros esquemas de comercialización que al efecto suscriban los organismos subsidiarios de Petróleos Mexicanos con personas físicas o sociedades mexicanas con cláusula de exclusión de extranjeros, de conformidad con la presente Ley y lo dispuesto por la Ley de Inversión Extranjera.
+
+Las especificaciones de las gasolinas y otros combustibles líquidos producto de la refinación del petróleo serán establecidas por la Secretaría de Energía, conjuntamente con la Secretaría de Medio Ambiente y Recursos Naturales.
+
+Para efectos de la presente Ley, se considerará que la gasolina y otros combustibles líquidos producto de la refinación del petróleo han sido alterados cuando se modifique su composición respecto a las especificaciones establecidas en las disposiciones aplicables.
+
+Los métodos de prueba, muestreo y verificación aplicables a las características cualitativas, así como al volumen en la distribución y el despacho de gasolina y otros combustibles líquidos producto de la refinación del petróleo, se establecerán en las normas oficiales mexicanas que para tal efecto expidan las Secretarías de Energía y de Economía, en el ámbito de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 15.
 
-Las infracciones a esta ley y a sus disposiciones reglamentarias podrán ser sancionadas con multas de 1,000 a 100,000 veces el importe del salario mínimo general vigente en el Distrito Federal, en la fecha en que se incurra en la falta, a juicio de la autoridad competente, tomando en cuenta la importancia de la falta.
+Las personas que realicen alguna de las actividades a que se refiere la presente Ley, deberán cumplir con las disposiciones administrativas y normas de carácter general que expidan en el ámbito de sus competencias, la Secretaría de Energía, la Comisión Nacional de Hidrocarburos y la Comisión Reguladora de Energía, en términos de la normatividad aplicable, así como entregar la información o reportes que les sean requeridos por aquellas.
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 1996)</small>
+De manera específica, se señalan las siguientes obligaciones:
 
-En caso de infracción a lo dispuesto por los párrafos cuarto y quinto del artículo 4o. de esta Ley, sin perjuicio de las sanciones previstas en el párrafo anterior, el infractor perderá en favor de Petróleos Mexicanos los subproductos petrolíferos o petroquímicos básicos obtenidos.
+I. Petróleos Mexicanos y sus organismos subsidiarios, tratándose de actividades que constituyen la industria petrolera, deberán:
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 1996)</small>
+a) Cumplir los términos y condiciones establecidos en las asignaciones, así como abstenerse de ceder, traspasar, enajenar o gravar, total o parcialmente, los derechos u obligaciones derivados de las mismas;
 
-Para aplicar este artículo, se seguirá el procedimiento previsto en la Ley Federal de Procedimiento Administrativo.
+b) Reducir o evitar la quema o el venteo de gas;
 
-> <small>(ADICIONADO, D.O.F. 11 DE MAYO DE 1995)</small>
+c) Evitar desperdicio o derrame de hidrocarburos, en el entendido de que Petróleos Mexicanos no será responsable de los que resulten de actos ilícitos, caso fortuito o fuerza mayor;
+
+d) Ejecutar las acciones que, ordene la Secretaría de Energía, para evitar que las obras o sus instalaciones puedan ocasionar un daño grave en las personas o en sus bienes, y
+
+e) Obtener de manera previa a la realización de las obras, los permisos que requieran las distintas autoridades en el ámbito de sus respectivas competencias;
+
+II. Petróleos Mexicanos y sus organismos subsidiarios, en materia de ventas de primera mano, deberán:
+
+a) Cumplir con los términos y condiciones que, al efecto, se establezcan, así como abstenerse de realizar prácticas indebidas;
+
+b) Entregar la cantidad y calidad de gas, de productos que se obtengan de la refinación del petróleo y de petroquímicos básicos pactadas de conformidad con las disposiciones aplicables, y
+
+c) Respetar el precio que para los distintos productos se determine;
+
+III. Los permisionarios deberán:
+
+a) Prestar los servicios de forma eficiente, uniforme, homogénea, regular, segura y continua, así como cumplir los términos y condiciones contenidos en los permisos;
+
+b) Contar con un servicio permanente de recepción de quejas y reportes de emergencia, que les permita atenderlas de inmediato;
+
+c) Dar aviso inmediato a la Secretaría de Energía o a la Comisión Reguladora de Energía, según corresponda, y a las autoridades competentes sobre cualquier siniestro, hecho o contingencia que, como resultado de sus actividades permisionadas, ponga en peligro la vida, la salud y seguridad públicas, y presentar ante dicha dependencia, en un plazo no mayor a diez días, contados a partir de aquél en que el siniestro se encuentre controlado, un informe detallado sobre las causas que lo originaron y las medidas tomadas para su control;
+
+d) Proporcionar el auxilio que les sea requerido por las autoridades competentes en caso de emergencia o siniestro;
+
+e) Presentar anualmente, en los términos de las normas oficiales mexicanas aplicables, el programa de mantenimiento del sistema y comprobar su cumplimiento con el dictamen de una unidad de verificación debidamente acreditada;
+
+f) Llevar un libro de bitácora para la operación, supervisión y mantenimiento de obras e instalaciones, así como capacitar a su personal en materias de prevención y atención de siniestros;
+
+g) Obtener autorización de la Secretaría de Energía o de la Comisión Reguladora de Energía, según corresponda, para modificar las condiciones técnicas de los ductos, sistemas, instalaciones o equipos;
+
+h) Dar aviso inmediato a la Secretaría de Energía o a la Comisión Reguladora de Energía, según corresponda de cualquier circunstancia que implique la modificación de los términos y condiciones en la prestación del servicio;
+
+i) Abstenerse de otorgar subsidios cruzados en la prestación de los servicios permisionados, así como de realizar prácticas discriminatorias;
+
+j) Respetar los precios o tarifas máximas que se establezcan;
+
+k) Entregar la cantidad y calidad de gas, conforme se establezca en las disposiciones aplicables, y
+
+l) Obtener autorización de la Secretaría de Energía o de la Comisión Reguladora de Energía, según corresponda, para la suspensión de los servicios, salvo que exista causa justificada, a juicio de ésta.
+
+Quienes vendan gasolina y demás combustibles líquidos producto de la refinación del petróleo, directamente al público, a través de estaciones de servicio, deberán expenderlos sin alteración, en términos del artículo 14 Bis de esta Ley.
+
+Adicionalmente a las obligaciones previstas en las fracciones anteriores, los permisionarios de transporte y distribución de gas que se realice por medio de ductos, así como de almacenamiento, cuando las instalaciones se encuentren interconectadas a ductos, deberán publicar oportunamente, en los términos que se establezca mediante directivas, la información referente a su capacidad disponible y aquélla no contratada.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 15], D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTICULO 15 Bis.
+
+Las infracciones a esta Ley y a sus disposiciones reglamentarias podrán ser sancionadas con multas de mil a un millón quinientas mil veces el importe del salario mínimo general diario vigente en el Distrito Federal, a juicio de la Secretaría de Energía, la Comisión Nacional de Hidrocarburos o de la Comisión Reguladora de Energía, en el ámbito de sus respectivas competencias, tomando en cuenta la importancia de la falta, de acuerdo con lo siguiente:
+
+I. El incumplimiento a las obligaciones contenidas en la fracción I del artículo anterior, se sancionarán con multa de cincuenta mil a setecientas mil veces el importe del salario mínimo;
+
+II. El incumplimiento a las obligaciones contenidas en la fracción II del artículo anterior se sancionarán con multa de veinte mil a trescientos cincuenta mil veces el importe del salario mínimo;
+
+III. El incumplimiento a las obligaciones contenidas en los incisos a), d), e), g), i), j) y k) de la fracción III del artículo anterior, se sancionarán con multa de diez mil a un millón de veces el importe del salario mínimo;
+
+IV. El incumplimiento a las obligaciones contenidas en los incisos b), c) y f) de la fracción III del artículo anterior, se sancionarán con multa de diez mil a ochocientas mil veces el importe del salario mínimo;
+
+V. El incumplimiento a las obligaciones contenidas en los incisos h) y l) de la fracción III del artículo anterior, se sancionarán con multa de cinco mil a quinientas mil veces el importe del salario mínimo;
+
+VI. El incumplimiento o entorpecimiento de la obligación de informar o reportar a la Secretaría de Energía, a la Comisión Nacional de Hidrocarburos o a la Comisión Reguladora de Energía, conforme a las disposiciones jurídicas aplicables, cualquier situación relacionada con esta Ley, sus disposiciones reglamentarias o las atribuciones de aquellas, se sancionarán con multa de mil a un millón de veces el importe del salario mínimo;
+
+VII. La realización de actividades estratégicas que constituyen la industria petrolera por toda persona distinta a Petróleos Mexicanos y sus organismos subsidiarios, se sancionará con multa de un millón a un millón quinientas mil veces el importe del salario mínimo;
+
+VIII. La realización de las actividades previstas en el artículo 4o., segundo párrafo de la presente Ley, sin el permiso respectivo, se sancionará con multa de cincuenta mil a quinientas mil veces el importe del salario mínimo.
+
+IX. La venta al público, a través de estaciones de servicio, de gasolina y demás combustibles líquidos producto de la refinación del petróleo que hayan sido alterados, se sancionará con multa de diez mil a cincuenta mil veces el importe del salario mínimo.
+
+En caso de reincidencia, se podrá imponer una multa hasta por el doble de la anteriormente impuesta. Se considerará reincidente, al que habiendo incurrido en una infracción que haya sido sancionada, cometa otra del mismo tipo o naturaleza, dentro de un plazo de diez años, contados a partir de la imposición de la sanción.
+
+Las demás violaciones a esta Ley y a sus disposiciones reglamentarias, se sancionarán con multa de mil a un millón de veces el importe del salario mínimo, a juicio de la Secretaría de Energía o de la Comisión Reguladora de Energía, según corresponda, las que tomarán en cuenta para fijar su monto la gravedad de la infracción.
+
+Para efectos del presente artículo, se entiende por salario mínimo, el salario mínimo general diario vigente en el Distrito Federal al momento de cometerse la infracción.
+
+Las sanciones señaladas en este artículo se aplicarán sin perjuicio de la responsabilidad civil, penal o administrativa que resulte y, en su caso, de la revocación del permiso correspondiente. Asimismo la imposición de estas sanciones no implica por sí misma responsabilidad administrativa, civil, o penal de los servidores públicos.
+
+En caso de infracción a lo dispuesto por los párrafos quinto y sexto del artículo 4o. de esta Ley, sin perjuicio de las sanciones previstas en los párrafos anteriores, el infractor perderá en favor de Petróleos Mexicanos los subproductos petrolíferos o petroquímicos básicos obtenidos.
+
+Para la imposición de las sanciones previstas en el presente artículo se estará a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTICULO 15 Ter.
+
+Con base en los resultados del análisis de los documentos e información requeridos a Petróleos Mexicanos y sus organismos subsidiarios, así como a los permisionarios o como resultado de una visita de verificación, cuando alguna obra o instalación represente un peligro grave para las personas o sus bienes, la Secretaría de Energía, la Comisión Nacional de Hidrocarburos y la Comisión Reguladora de Energía, en el ámbito de sus respectivas competencias, sin perjuicio de las sanciones a que se refieren los artículos 13 y 15 Bis de esta Ley, podrán ordenar cualquiera de las siguientes medidas de seguridad:
+
+I. Suspender trabajos relacionados con la construcción de obras e instalaciones;
+
+II. Clausurar temporal, total o parcialmente obras, instalaciones o sistemas;
+
+III. Ordenar la suspensión temporal del suministro, en términos de las disposiciones reglamentarias respectivas;
+
+IV. Asegurar substancias, materiales, equipo, accesorios, ductos, instalaciones de aprovechamiento, sistemas de transporte, distribución y almacenamiento, así como recipientes portátiles, auto-tanques, carro-tanques, buque-tanques, semirremolques y vehículos de reparto;
+
+V. Inmovilizar auto-tanques, carro-tanques, buque-tanques, semirremolques y vehículos de reparto que no cumplan con las medidas mínimas de seguridad establecidas en las normas oficiales mexicanas aplicables;
+
+VI. Inutilizar substancias, materiales, equipo o accesorios, y
+
+VII. Ordenar el desmantelamiento de las instalaciones y sistemas destinados a la prestación de los servicios.
+
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 16.
 
-La aplicación de esta ley corresponde a la Secretaría de Energía, con la participación que esté a cargo de la Comisión Reguladora de Energía, en términos de las disposiciones reglamentarias.
+La aplicación de esta Ley corresponde a la Secretaría de Energía, con la participación que esté a cargo de la Comisión Nacional de Hidrocarburos y de la Comisión Reguladora de Energía.
 
 TRANSITORIOS:
 
@@ -292,3 +466,13 @@ D.O.F. 26 DE JUNIO DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las autoridades competentes expedirán dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, las disposiciones relativas a la recuperación y aprovechamiento de parte de los concesionarios, la información geológica relacionada con la recuperación y aprovechamiento de gas asociado a los yacimientos de carbón mineral y la metodología relacionada con la contraprestación por el servicio de entrega a Petróleos Mexicanos del gas asociado a los yacimientos de carbón mineral que se realice al amparo de una concesión minera.
+
+D.O.F. 28 DE NOVIEMBRE DE 2008.
+
+Primero.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las solicitudes de asignaciones y de permisos de exploración presentadas por Petróleos Mexicanos que se encuentren en trámite a la entrada en vigor de esta Ley, se resolverán conforme a las disposiciones vigentes al momento de la solicitud.
+
+Tercero.- La Cámara de Diputados proveerá lo necesario en el Presupuesto de Egresos de la Federación para que la Secretaría de Energía cuente con los recursos humanos y materiales para dar cabal cumplimiento a las atribuciones conferidas con motivo del presente Decreto.
+
+Cuarto.- Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente ordenamiento.
