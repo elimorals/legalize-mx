@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-secretaria-de-seguridad-publica-63641
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-16"
-last_updated: "2008-10-16"
+last_updated: "2008-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63641&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-10-10"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2008.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 16 de octubre de 2008.
 
@@ -67,6 +67,10 @@ a) Dirección General de Asuntos Jurídicos.
 b) Dirección General de Asuntos Internos.
 
 c) Dirección Ejecutiva de Comunicación Social.
+
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+d) Coordinación General del Proyecto Bicentenario.
 
 II. Unidades de Policía Complementaria:
 
@@ -136,7 +140,7 @@ b) Dirección General de Inteligencia Policial.
 
 c) Dirección General de Registro Vehicular y Seguridad Privada.
 
-d) Coordinación General del Proyecto Bicentenario.
+d) (DEROGADO, G.O. 28 DE NOVIEMBRE DE 2008)
 
 7. Oficialía Mayor:
 
@@ -1042,15 +1046,31 @@ II. Establecer y aplicar los mecanismos de coordinación para la planeación e i
 
 III. Integrar y coordinar estudios, análisis, aspectos técnicos, tecnológicos, operativos y logísticos para la creación, ejecución y desarrollo del Proyecto “Bicentenario”;
 
-IV. Coordinar procedimientos y acciones de control de la aplicación en materia de obra y servicios, conjuntamente con la Coordinación responsable e instancias correspondientes del Gobierno del Distrito Federal y Gobiernos Federal y Locales;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+IV. Coordinar procedimientos y acciones de control de la aplicación en materia de obras, adquisiciones, arrendamientos y servicios que correspondan conforme a la legislación y normatividad aplicable, al proyecto, conjuntamente con la Coordinación responsable e instancias correspondientes del Gobierno del Distrito Federal y Gobiernos Federal y Locales;
 
 V. Vigilar el cumplimiento de los reglamentos, leyes y demás ordenamientos jurídico - administrativos que competan para la implementación y ejecución del proyecto “Bicentenario”;
 
 VI. Supervisar el desarrollo del Proyecto “Bicentenario”, apegándose a los objetivos, alcances y tiempos comprometidos;
 
-VII. Coordinar la elaboración de bitácoras, memorias e informes diversos, que den a conocer objetivamente avances, tendencias y modificaciones del Proyecto “Bicentenario”; y
+VII. Coordinar la elaboración de bitácoras, memorias e informes diversos, que den a conocer objetivamente avances, tendencias y modificaciones del Proyecto “Bicentenario”; y (sic)
 
-VIII. Las demás que le atribuya la normativa vigente.
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+VIII. Suscribir documentos relativos al ejercicio de sus atribuciones, así como suscribir dictámenes, justificaciones, contratos, convenios, incluyendo su rescisión y terminación anticipada de estos últimos, y demás actos jurídicos de carácter administrativo o de cualquier otra índole que se celebren de conformidad con la Ley de Adquisiciones y su Reglamento, y Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y su Reglamento;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+IX. Establecer y coordinar los mecanismos necesarios para garantizar la operación del proyecto en operación cotidiana, en crisis y en desastres mayores;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+X. Coordinar y supervisar los trabajos, estudios, aspectos técnicos, operativos, tecnológicos y logísticos para la correcta transferencia de conocimiento y tecnología al Gobierno del Distrito Federal en relación al Proyecto “Bicentenario”; y
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XI. Las demás que le atribuya la normativa vigente.
 
 ###### Artículo 42.
 
@@ -1347,3 +1367,11 @@ CUARTO.- La Secretaría contará con treinta días hábiles, a partir del día s
 QUINTO.- Se abroga el Reglamento Interior de la Secretaría de Seguridad Pública del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el veinte de mayo de dos mil cinco y se derogan las disposiciones administrativas que se opongan al presente ordenamiento.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los diez días del mes de octubre del año dos mil ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 28 DE NOVIEMBRE DE 2008.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación.
