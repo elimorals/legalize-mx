@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "2008-08-04"
+last_updated: "2008-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 2008.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -7341,17 +7341,29 @@ A la solicitud se acompañará certificado médico de buena salud, estudios soci
 
 II.- Cuando el menor hubiere sido acogido por una institución de asistencia social, pública o privada, el presunto adoptante o la institución según sea el caso, recabarán constancia del tiempo de la exposición o abandono para los efectos del artículo 445, fracción IV, del Código Civil;
 
-III.- Si hubieran transcurrido menos de seis meses de la exposición o abandono, se decretará el depósito de quien se pretende adoptar con el presunto adoptante, entre tanto se consuma dicho plazo;
+III.- (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2008)
 
-IV.- Si no se conociera el nombre de los padres o no hubiere sido acogido por institución de asistencia social, pública o privada, se decretará la custodia con el presunto adoptante, por el término de seis meses para los mismos efectos, siempre y cuando ello, sea en beneficio del pretenso adoptado.
-
-En los supuestos en que el menor haya sido entregado a dichas instituciones por quienes ejerzan en él la patria potestad, para promover su adopción en cualquiera de sus dos formas, no se requerirá que transcurra el plazo de seis meses a que se refiere el presente artículo, y
+IV.- (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2008)
 
 V.- Tratándose de extranjeros se deberá acreditar su legal estancia o residencia en el país y así como la autorización para adoptar.
 
 Los extranjeros con residencia en otro país deberán presentar certificado de idoneidad expedido por la autoridad competente de su país de origen que acredite que el solicitante es considerado apto para adoptar; constancia de que el menor que se pretende adoptar ha sido autorizado para entrar y residir permanentemente en dicho Estado; autorización de la Secretaría de Gobernación para internarse y permanecer en el país con la finalidad de realizar una adopción.
 
 La documentación que presenten los solicitantes extranjeros en idioma distinto al español, deberá acompañarse de la traducción oficial, la misma deberá estar apostillada por el Cónsul mexicano.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 978 Bis.
+
+La niña, niño o adolescente que ha sido acogido por una institución de asistencia social pública o privada, podrá ser entregada en custodia familiar preadoptiva, para ese efecto la institución social pública o privada, junto con la solicitud entregará al Juez los estudios y constancias a que se refiere el artículo anterior, y con la ratificación, consentimiento del Director o Representante de la institución para que sea entregado, se resolverá sobre la custodia; a no ser que encuentre algún inconveniente y para ello tenga que emplear alguna diligencia previa, la que practicará en un plazo no mayor de diez días y dentro de los cinco siguientes, de oficio, se pronunciará sobre el fondo de la solicitud.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 978 Ter.
+
+Una vez aprobada la custodia familiar preadoptiva, el Juez le enviará al Ministerio Público Especializado o del lugar las copias del expediente, quien vigilará la custodia preadoptiva y le entregará al menos un informe semestral y, en caso de anomalías podrá promover cualquier medida de protección.
+
+La vigilancia del Ministerio Público, no eximirá a la casa de asistencia pública o privada la de seguir velando por los intereses de la niña, niño o adolescente sujeto a la custodia preadoptiva y de su obligación de poner en conocimiento del Ministerio Público cualquier circunstancia que afecte sus derechos para que proceda en favor del infante.
 
 > <small>(REFORMADO, P.O. 02 DE FEBRERO DE 2001)</small>
 
@@ -8130,3 +8142,9 @@ Artículo Segundo. Las demandas y promociones iniciales presentadas a partir de 
 Artículo Tercero. Los procesos actualmente en trámite, al igual que los que tengan lugar con motivo de promociones iniciales presentadas antes de la fecha de entrada en vigor de este Decreto, continuarán rigiéndose por las disposiciones vigentes, hasta que exista sentencia que haya causado ejecutoria.
 
 Artículo Cuarto. La ejecución de las sentencias ejecutoriadas dictadas a partir de la fecha de entrada en vigor del presente Decreto, inclusive, se regirán por éste.
+
+P.O. 28 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
