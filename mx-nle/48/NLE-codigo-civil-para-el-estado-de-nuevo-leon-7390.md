@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2008-05-09"
+last_updated: "2008-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -649,11 +649,11 @@ Art. 34 Bis II.- Para acreditar la posesión de estado civil se deberá atender,
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Art. 35.
 
-El Registro Civil es la Institución de orden público por medio de la cual el Estado inscribe, autentifica y dá publicidad a los actos y hechos del estado civil de las personas.
+El Registro Civil es la Institución de orden público por medio de la cual el Estado inscribe, autentifica y da publicidad a los actos y hechos del estado civil de las personas. Su organización y funcionamiento se regirá por lo dispuesto en la Ley del Registro Civil para el Estado de Nuevo León.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -661,17 +661,17 @@ El Registro Civil es la Institución de orden público por medio de la cual el E
 
 Las inscripciones a que se refiere el artículo que antecede harán prueba plena y surtirán efectos frente a terceros.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
-
 ###### Art. 37.
 
-El Registro Civil está constituído por la Dirección General del Registro Civil, con su área de archivo estatal del Registro Civil, las Oficialías y demás organismos que determine el reglamento respectivo.
+(DEROGADO, P.O. 28 DE NOVIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Art. 38.
 
-La titularidad de las Oficialías del Registro Civil estará a cargo de Funcionarios Estatales, denominados Oficiales del Registro Civil, quienes tendrán fé pública en el desempeño de las labores propias de su cargo.
+La titularidad de las Oficialías del Registro Civil estará a cargo de Servidores Públicos, denominados Oficiales del Registro Civil, quienes tendrán fe pública en el desempeño de las labores propias de su cargo.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 Los Oficiales no podrán asentar en las actas ni por vía de nota ni advertencia, sino lo que deba ser declarado en el acto preciso a que ella se refiere y lo que está expresamente prevenido en la Ley.
 
@@ -681,17 +681,19 @@ Los Oficiales no podrán asentar en las actas ni por vía de nota ni advertencia
 
 En el asentamiento de las actas del Registro Civil intervendrán: El Oficial del Registro Civil que autoriza y dá fé, los particulares que soliciten el servicio o sus representantes legales y, en su caso, los testigos y personas que intervengan en las mismas quienes deberán firmarlas en el espacio correspondiente, imprimiéndose además el sello de la Oficialía. Si alguno de los testigos o personas que intervengan no saben firmar, se hará constar dicha circunstancia y se estamparán sus huellas digitales de ambos pulgares.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Art. 40.
 
-Para los efectos del artículo 35, el Reglamento del Registro Civil establecerá las técnicas que se emplearán para la conservación perenne de los documentos de la Institución.
+Para los efectos del artículo 35, la Ley del Registro Civil y el Reglamento establecerán las técnicas que se emplearán para la conservación perenne de los documentos de la Institución.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Art. 41.
 
-Las actas del Registro Civil contendrán las anotaciones que señale este Código y solo podrán asentarse en las formas especiales que el Reglamento respectivo establezca. Las inscripciones se harán mecanográficamente por quintuplicado.
+Las actas del Registro Civil contendrán las anotaciones que señale este Código, la Ley del Registro Civil y su Reglamento, sólo podrán asentarse en las formas especiales que el Reglamento respectivo establezca. Las inscripciones se harán por triplicado en formatos con características especiales denominados formas del registro civil.
+
+En la expedición de certificaciones y para la integración de los apéndices, se emplearán las técnicas y modelos electrónicos más avanzados para salvaguardar la seguridad jurídica de los actos y hechos del estado civil de las personas.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -705,11 +707,11 @@ Para asentar las actas del Registro Civil en el Estado de Nuevo León, habrá la
 
 Si se perdiere o destruyere alguna acta del Registro Civil, se sacará inmediatamente copia de alguno de los otros ejemplares bajo la responsabilidad del Oficial del Registro Civil o del Director del Registro Civil en su caso. Para ese efecto, el funcionario titular de la dependencia donde ocurra la pérdida, solicitará de cualquiera de los otros el ejemplar correspondiente para proceder a la reposición.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Art. 44.
 
-Las formas del Registro Civil se proporcionarán por la Dirección del Registro Civil, las cuales tendrán los requisitos y leyendas que señale la Ley y el Reglamento respectivo. Los Oficiales del Registro Civil, al levantar las actas, las numerarán progresivamente cada año y entregarán una al interesado; otro quedará en el archivo de la Oficialía y los restantes los remitirán a la Dirección del Registro Civil.
+Las formas del Registro Civil se proporcionarán por la Dirección del Registro Civil, las cuales tendrán los requisitos y leyendas que señale la Ley del Registro Civil y el Reglamento respectivo. Los Oficiales del Registro Civil, al levantar las actas, las numerarán progresivamente cada año y entregarán una al interesado; otra quedará en el archivo de la Oficialía y la restante se remitirá a la Dirección del Registro Civil.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -729,13 +731,13 @@ Toda persona puede solicitar que se le muestre o se le expida copia certificada 
 
 El estado civil de las personas solo se comprueba con las copias certificadas de las actas del Registro Civil. Ningún otro medio de prueba es admisible para comprobarlo, salvo los casos expresamente exceptuados por la Ley.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Art. 48.
 
-Cuando la edad del menor no exceda evidentemente de siete años o se acredite dicha circunstancia con certificado médico legal, el Oficial del Registro Civil hará la inscripción conforme a las disposiciones relativas a este Código. Tratándose de nacimientos no registrados, de personas mayores de 7 años, se faculta a la Dirección del Registro Civil, para que se avoque al conocimiento de las solicitudes de registro de dichos nacimientos. Para los efectos de lo aquí previsto, el interesado presentará su solicitud ante la mencionada Dirección en Juicio Especial Administrativo, haciendo constar los hechos en que funde su acción de registro de nacimiento; recibida la citada solicitud, se fijará día y hora para la celebración de una audiencia en la que se admitirán cualesquier medios de prueba reconocidos por la Ley y después de alegar de bien probado, se resolverá lo conducente en derecho. Si se declarare procedente la acción de registro, se ordenará su asentamiento como corresponde, y en caso contrario, se dejarán a salvo los derechos del interesado para que ocurra en Jurisdicción Voluntaria a acreditar el hecho objeto de la inscripción, para su postrer registro, o ejercite la acción o derecho que estime conveniente.
+Cuando la edad del menor no exceda evidentemente de siete años o se acredite dicha circunstancia con certificado médico legal, el Oficial del Registro Civil hará la inscripción conforme a las disposiciones relativas a este Código y a la Ley del Registro Civil.
 
-Cuando no hayan existido los libros, se hayan perdido, estuvieren ilegibles o faltaren las actas en que se pueda suponer se encontraba la inscripción, el Oficial del Registro Civil lo hará del conocimiento de la Dirección para que de acuerdo a lo preceptuado en este Código acuerde lo conducente, y de no ser posible su inscripción en forma administrativa, quedarán a salvo los derechos de los interesados, para ocurrir en Jurisdicción Voluntaria a acreditar el hecho o acto correspondiente materia de la inscripción y exhibir, para dicho efecto, ante el Oficial del Registro Civil, la copia certificada de la resolución que se pronuncie.
+Cuando no hayan existido los libros, se hayan perdido, estuvieren ilegibles o faltaren las actas en que se pueda suponer se encontraba la inscripción, el Oficial del Registro Civil lo hará del conocimiento de la Dirección para que de acuerdo a lo preceptuado en este Código y en la Ley del Registro Civil acuerde lo conducente, y de no ser posible su inscripción en forma administrativa, quedarán a salvo los derechos de los interesados, para ocurrir en Jurisdicción Voluntaria a acreditar el hecho o acto correspondiente materia de la inscripción y exhibir, para dicho efecto, ante el Oficial del Registro Civil, la copia certificada de la resolución que se pronuncie.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -761,11 +763,11 @@ La nulidad del hecho o acto inscrito y la falsedad de las actas del Registro Civ
 
 Para acreditar el estado civil adquirido por los mexicanos fuera de la República, bastarán las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto en las Leyes Federales en cuanto a su legalización, debiendo inscribirse en la Oficialía de la adscripción de su domicilio.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Art. 53.
 
-La Dirección del Registro Civil supervisará las actuaciones de los Oficiales del Registro Civil, ejercitando las facultades que le señale el reglamento respectivo.
+La Dirección del Registro Civil supervisará las actuaciones de los Oficiales del Registro Civil, ejerciendo las facultades que le señale la Ley del Registro Civil para el Estado de Nuevo León y el reglamento respectivo.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -779,11 +781,11 @@ Para la inscripción de los hechos y actos del Registro Civil, dispondrán los i
 
 En las actas del Registro Civil se efectuarán las anotaciones que relacionen el acto con los demás que estén inscritos de la misma persona; y las otras que establezca la Ley.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Art. 56.
 
-Los hechos y actos del estado civil del propio Oficial, de su cónyuge, ascendientes y descendientes de cualquiera de ellos, no podrán autorizarse por el propio Oficial. Se asentarán en las formas correspondientes, autorizándose por el Director del Registro Civil en lo que toca a los Municipios de Apodaca, Garza García, General Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, Santa Catarina y García. En los demás Municipios por otro Oficial del Registro Civil habiendo varios y habiendo uno solo por el Presidente Municipal del lugar.
+Los hechos y actos del estado civil del propio Oficial, de su cónyuge, ascendientes y descendientes de cualquiera de ellos, no podrán autorizarse por el propio Oficial. Se asentarán en las formas correspondientes, y serán autorizadas por el Director del Registro Civil en lo que corresponde a los Municipios de Apodaca, San Pedro Garza García, General Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, Santa Catarina y García. En los demás Municipios serán autorizadas por otro Oficial del Registro Civil, y en el caso de que exista un solo Oficial, por el Presidente Municipal del lugar.
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -959,11 +961,11 @@ El acta de reconocimiento contendrá: nombre, apellidos, sexo, fecha y lugar de 
 
 Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará copia certificada del documento ante el Oficial del Registro Civil, para que se inserte la parte relativa del mismo en el acta.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Art. 81.
 
-Los oficiales que no cumplan con el requisito del artículo que antecede, dentro de un término de treinta días a partir de la fecha en que reciban la documentación para la anotación, se harán acreedores a una sanción pecuniaria hasta de cinco mil pesos, que impondrá la Dirección del Registro Civil.
+Los oficiales que no cumplan con el requisito del artículo que antecede, dentro de un término de treinta días naturales a partir de la fecha en que reciban la documentación para la anotación, se harán acreedores a la destitución del cargo de conformidad con lo dispuesto en la Ley del Registro Civil.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -977,11 +979,11 @@ La omisión del registro civil no quita los efectos legales al reconocimiento he
 
 En el acta de reconocimiento hecho con posterioridad al acta de nacimiento, se hará mención de ésta poniendo en ella la anotación correspondiente.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Art. 84.
 
-Si el reconocimiento se hiciera en Oficialía diferente de aquella en que se levantó el acta de nacimiento, se enviará copia certificada del acta de reconocimiento al Oficial correspondiente para que se haga la anotación en el acta de nacimiento. El Oficial que no cumpla con este requisito será sancionado con una multa hasta de cinco mil pesos que impondrá la Dirección del Registro Civil.
+Si el reconocimiento se hiciera en Oficialía diferente de aquella en que se levantó el acta de nacimiento, se enviará copia certificada del acta de reconocimiento al Oficial correspondiente para que se haga la anotación en el acta de nacimiento. El Oficial que no cumpla con este requisito será sancionado de conformidad con lo dispuesto en la Ley del Registro Civil.
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1005,11 +1007,11 @@ El Acta de Adopción contendrá: Nombre, Apellidos, Sexo, Edad, Fecha y Lugar de
 
 En el Acta de Adopción se insertará la parte resolutiva de la sentencia que haya autorizado la adopción. Por lo que se refiere a las adopciones hechas con anterioridad que no contengan todos los datos del Artículo 86, se probarán por medio de Diligencias de Jurisdicción Voluntaria sobre Información Ad-Perpetuam.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Art. 88.
 
-La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el Artículo 84.
+La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la sanción señalada en el artículo 84.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -1143,11 +1145,11 @@ El acta será firmada por el Oficial del Registro Civil, los contrayentes, los t
 
 En el acta se imprimirán las huellas digitales de los contrayentes.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Art. 102.
 
-Tratándose de matrimonio en que alguno o ambos pretendientes sean extranjeros deberá cumplirse con lo que dispongan las leyes federales.
+Tratándose de matrimonio en que alguno o ambos pretendientes sean extranjeros deberá cumplirse con lo que dispongan las leyes federales y la Ley del Registro Civil para el Estado de Nuevo León.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1197,11 +1199,11 @@ Las denuncias anónimas o hechas por cualquier otro medio, si no se presentare p
 
 Denunciado un impedimento, el matrimonio no podrá celebrarse aunque el denunciante se desista, mientras no recaiga sentencia judicial que declare su inexistencia o se obtenga dispensa de él.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Art. 111.
 
-El Oficial del Registro Civil que autorice un matrimonio teniendo conocimiento de que hay impedimento legal, o de que éste se ha denunciado, será castigado como lo disponga el Código Penal.
+El Oficial del Registro Civil que autorice un matrimonio teniendo conocimiento de que hay impedimento legal, o de que éste se ha denunciado, será castigado como lo disponga el Código Penal, sin perjuicio de las sanciones previstas en la Ley del Registro Civil.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1209,11 +1211,11 @@ El Oficial del Registro Civil que autorice un matrimonio teniendo conocimiento d
 
 Los Oficiales del Registro Civil sólo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes, o los dos carecen de aptitud legal para celebrar el matrimonio.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Art. 113.
 
-El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será castigado, por la primera vez, con una multa de mil pesos, y en caso de reincidencia con la destitución de su cargo.
+El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será sancionado de conformidad con lo previsto en la Ley del Registro Civil.
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1337,11 +1339,11 @@ En todos los casos de muerte violenta en los establecimientos de reclusión, no 
 
 En los registros de nacimiento y matrimonio se hará referencia al acta de defunción, expresándose los folios en que conste ésta.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Art. 130.
 
-Los Oficiales del Registro Civil que no cumplan con lo dispuesto en este capítulo, serán acreedores de las sanciones previstas en el artículo 81.
+Los Oficiales del Registro Civil que no cumplan con lo dispuesto en este Capítulo, serán acreedores a la sanción prevista en el artículo 81.
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1409,7 +1411,9 @@ La cancelación puede pedirse también por el Ministerio Público.
 
 El procedimiento a seguir en los casos a que se refieren los anteriores artículos, será el que se señale en el Código de Procedimientos Civiles.
 
-No obstante lo dispuesto en éste y los artículos precedentes, la aclaración de las actas del registro civil procede cuando en la inscripción respectiva existan errores mecanográficos u ortográficos manifiestos. Para los efectos de lo aquí previsto, se entiende por error manifiesto el que se desprenda fehacientemente de la sola lectura de la inscripción correspondiente. En estos casos la tramitación se hará ante la Dirección del Registro Civil, de acuerdo a las formalidades señaladas en el Reglamento respectivo.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+No obstante lo dispuesto en éste y los artículos precedentes, la aclaración de las actas del registro civil procede cuando en la inscripción respectiva existan errores mecanográficos u ortográficos manifiestos. Para los efectos de lo aquí previsto, se entiende por error manifiesto el que se desprenda fehacientemente de la sola lectura de la inscripción correspondiente. En estos casos la tramitación se hará ante la Dirección del Registro Civil, de acuerdo a las formalidades señaladas en la Ley del Registro Civil y el Reglamento respectivo.
 
 La infracción de lo antes previsto se sancionará con la destitución, sin perjuicio de la responsabilidad civil y penal en que se incurra.
 
@@ -2215,13 +2219,13 @@ Son causas de divorcio los actos inmorales ejecutados por el marido o por la muj
 
 Para que pueda pedirse el divorcio por el estado de interdicción declarado, es necesario que hayan transcurrido dos años desde que se declaró.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Art. 272.
 
-Cuando ambos consortes convengan en divorciarse y sean mayores de edad, tengan más de un año de casados, no tengan hijos o teniéndolos estos sean mayores de 30 años y no sean incapaces, de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Oficial del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, y manifestarán de una manera terminante y explícita su voluntad de divorciarse.
+Cuando ambos consortes convengan en divorciarse y sean mayores de edad, tengan más de un año de casados, no tengan hijos o teniéndolos estos sean mayores de 30 años y no sean incapaces, de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, podrán acudir a promover divorcio administrativo ante el Oficial del Registro Civil del lugar de su domicilio; sujetándose al procedimiento establecido para el efecto en el Capítulo XI de la Ley del Registro Civil.
 
-El Oficial del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el Oficial del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la del matrimonio anterior.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -16598,6 +16602,12 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 9 DE MAYO DE 2008.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE NOVIEMBRE DE 2008.
+
+Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- La vigencia del presente Decreto establece la del diverso 225 que contiene la Ley del Registro Civil para el Estado de Nuevo León, de conformidad con lo previsto en el Artículo Primero Transitorio de dicho Decreto, publicado el día 10 de abril del 2008 en el Periódico Oficial del Estado.
 
 ###### ARTICULO TERCERO.
 
