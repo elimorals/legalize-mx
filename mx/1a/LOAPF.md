@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2007-10-01"
+last_updated: "2008-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -930,35 +930,71 @@ XL.- Diseñar y operar, con la participación que corresponda a otras dependenci
 
 XLI.- Los demás que le atribuyan expresamente las leyes y reglamentos.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 33.
 
 A la Secretaría de Energía corresponde el despacho de los siguientes asuntos:
 
-I.- Conducir la política energética del país;
+I. Establecer y conducir la política energética del país, así como supervisar su cumplimiento con prioridad en la seguridad y diversificación energéticas, el ahorro de energía y la protección del medio ambiente, para lo cual podrá, entre otras acciones y en términos de las disposiciones aplicables, coordinar, realizar y promover programas, proyectos, estudios e investigaciones sobre las materias de su competencia;
 
-II.- Ejercer los derechos de la nación en materia de petróleo y todos los carburos de hidrógeno sólidos, líquidos y gaseosos; energía nuclear; así como respecto del aprovechamiento de los bienes y recursos naturales que se requieran para generar, conducir, transformar, distribuir y abastecer energía eléctrica que tenga por objeto la prestación de servicio público;
+II. Ejercer los derechos de la Nación en materia de petróleo y todos los carburos de hidrógeno sólidos, líquidos y gaseosos; de minerales radioactivos; así como respecto del aprovechamiento de los bienes y recursos naturales que se requieran para generar, conducir, transformar, distribuir y abastecer energía eléctrica que tenga por objeto la prestación de servicio público;
 
-III.- Conducir la actividad de las entidades paraestatales cuyo objeto esté relacionado con la explotación y transformación de los hidrocarburos y la generación de energía eléctrica y nuclear, con apego a la legislación en materia ecológica;
+III. Conducir y supervisar la actividad de las entidades paraestatales sectorizadas en la Secretaría, así como la programación de la exploración, explotación y transformación de los hidrocarburos y la generación de energía eléctrica y nuclear, con apego a las disposiciones aplicables;
 
-IV.- Participar en foros internacionales respecto de las materias competencia de la Secretaría, con la intervención que corresponda a la Secretaría de Relaciones Exteriores, y proponer a ésta la celebración de convenios y tratados internacionales en tales materias;
+IV. Promover que la participación de los particulares en las actividades del sector sea en los términos de la legislación y de las disposiciones aplicables;
 
-V.- Promover la participación de los particulares, en los términos de las disposiciones aplicables, en la generación y aprovechamiento de energía, con apego a la legislación en materia ecológica;
+V. Llevar a cabo la planeación energética a mediano y largo plazos, así como fijar las directrices económicas y sociales para el sector energético paraestatal.
 
-VI.- Llevar a cabo la planeación energética a mediano y largo plazos, así como fijar las directrices económicas y sociales para el sector energético paraestatal;
+La planeación energética deberá atender los siguientes criterios: la soberanía y la seguridad energéticas, el mejoramiento de la productividad energética, la restitución de reservas de hidrocarburos, la reducción progresiva de impactos ambientales de la producción y consumo de energía, la mayor participación de las energías renovables en el balance energético nacional, la satisfacción de las necesidades energéticas básicas de la población, el ahorro de energía y la mayor eficiencia de su producción y uso, el fortalecimiento de las entidades públicas del sector energético como organismos públicos, y el apoyo a la investigación y el desarrollo tecnológico nacionales en materia energética;
 
-VII.- Otorgar concesiones, autorizaciones y permisos en materia energética, conforme a las disposiciones aplicables;
+VI. Integrar el Consejo Nacional de Energía y expedir sus reglas de funcionamiento para realizar tareas de planeación energética. El Consejo tendrá las siguientes tareas: a) proponer a la Secretaría de Energía criterios y elementos de política energética, y b) apoyar a la Secretaría de Energía en el diseño de la planeación energética a mediano y largo plazos.
 
-VIII.- Realizar y promover estudios e investigaciones sobre ahorro de energía, estructuras, costos, proyectos, mercados, precios y tarifas, activos, procedimientos, reglas, normas y demás aspectos relacionados con el sector energético, y proponer, en su caso, las acciones conducentes;
+El Consejo Nacional de Energía se constituye por el titular de la Secretaría de Energía, quien lo presidirá, por los subsecretarios y el oficial mayor de dicha dependencia, así como por los titulares de los órganos desconcentrados y organismos descentralizados del sector y de la Comisión Nacional del Agua.
 
-IX.- Regular y en su caso, expedir normas oficiales mexicanas sobre producción, comercialización, compraventa, condiciones de calidad, suministro de energía y demás aspectos que promuevan la modernización, eficiencia y desarrollo del sector, así como controlar y vigilar su debido cumplimiento;
+En los casos en que las deliberaciones del Consejo se refieran de manera sustantiva a cuestiones que competan a otras dependencias del Ejecutivo Federal, su Presidente podrá invitar a participar a éstas a las reuniones que correspondan.
 
-X.- Regular y en su caso, expedir normas oficiales mexicanas en materia de seguridad nuclear y salvaguardas, incluyendo lo relativo al uso, producción, explotación, aprovechamiento, transportación, enajenación, importación y exportación de materiales radioactivos, así como controlar y vigilar su debido cumplimiento;
+El Consejo contará con un Foro Consultivo, en el que participarán, según los temas a considerar, representantes de los poderes legislativos federal y estatales, de autoridades locales, de instituciones públicas de educación superior e investigación científica y de los sectores social y privado, para contribuir al desempeño de las tareas de planeación que competen al Consejo y promover la participación ciudadana.
 
-XI.- Llevar el catastro petrolero, y
+El Ejecutivo Federal enviará al Congreso, en el mes de febrero de cada año, para su ratificación en un plazo máximo de 30 días hábiles, la Estrategia Nacional de Energía con un horizonte de quince años, elaborada con la participación del Consejo Nacional de Energía;
 
-XII.- Los demás que le encomienden expresamente las leyes y reglamentos.
+VII. Otorgar, y en su caso, cancelar permisos y autorizaciones en materia energética, conforme a las disposiciones aplicables;
+
+VIII. Otorgar, rehusar, modificar, revocar y, en su caso, cancelar asignaciones para exploración y explotación de hidrocarburos, tomando en consideración los dictámenes técnicos que emita la Comisión Nacional de Hidrocarburos;
+
+IX. Aprobar los principales proyectos de exploración y explotación de hidrocarburos que elabore Petróleos Mexicanos con base en los lineamientos de la política energética y con apoyo en los dictámenes técnicos que emita la Comisión Nacional de Hidrocarburos;
+
+X. Promover el ahorro de energía, regular y, en su caso, expedir normas oficiales mexicanas sobre eficiencia energética, así como realizar y apoyar estudios e investigaciones sobre ahorro de energía, estructuras, costos, proyectos, mercados, precios y tarifas, activos, procedimientos, reglas, normas y demás aspectos relacionados;
+
+XI. Regular y promover el desarrollo y uso de fuentes de energía alternas a los hidrocarburos, así como proponer, en su caso, los estímulos correspondientes;
+
+XII. Regular y en su caso, expedir normas oficiales mexicanas sobre producción, comercialización, compraventa, condiciones de calidad, suministro de energía y demás aspectos que promuevan la modernización, eficiencia y desarrollo del sector, así como controlar y vigilar su debido cumplimiento;
+
+XIII. Regular y en su caso, expedir normas oficiales mexicanas en materia de seguridad nuclear y salvaguardas, incluyendo lo relativo al uso, producción, explotación, aprovechamiento, transportación, enajenación, importación y exportación de materiales radioactivos, así como controlar y vigilar su debido cumplimiento;
+
+XIV. Llevar el catastro petrolero;
+
+XV. Establecer la regulación en materia de asignación de áreas para la exploración y explotación petrolera y de permisos de reconocimientos y exploración superficial, así como supervisar su debido cumplimiento;
+
+XVI. Proponer al Titular del Ejecutivo Federal el establecimiento de zonas de reservas petroleras;
+
+XVII. Proponer al Titular del Ejecutivo Federal la plataforma anual de producción de petróleo y de gas de Petróleos Mexicanos, con base en las reservas probadas y los recursos disponibles, dando prioridad a la seguridad energética del país en el marco de la Estrategia Nacional de Energía;
+
+XVIII. Establecer la política de restitución de reservas de hidrocarburos;
+
+XIX. Regular y, en su caso, expedir Normas Oficiales Mexicanas en materia de seguridad industrial del sector de hidrocarburos, así como supervisar su debido cumplimiento;
+
+XX. Registrar y dar a conocer, con base en la información proporcionada por la Comisión Nacional de Hidrocarburos, las reservas de hidrocarburos, conforme a los estudios de evaluación y de cuantificación, así como a las certificaciones correspondientes;
+
+XXI. Requerir la información necesaria para el desarrollo de sus funciones a los órganos desconcentrados, organismos descentralizados y empresas del sector y, en general, a toda persona física o moral que realice cualquiera de las actividades a que se refiere la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo;
+
+XXII. Ordenar que se realicen visitas de inspección a las instalaciones de los órganos, organismos y empresas del sector, y, en general, a toda persona física o moral que realice cualquiera de las actividades a que se refiere la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo;
+
+XXIII. Participar en foros internacionales respecto de las materias competencia de la Secretaría, con la intervención que corresponda a la Secretaría de Relaciones Exteriores y proponer a ésta la celebración de convenios y tratados internacionales en tales materias; y, asimismo, participar en la concertación y el seguimiento de la ejecución de los acuerdos internacionales en materia de explotación de yacimientos transfronterizos de hidrocarburos de los que el Estado mexicano sea parte;
+
+XXIV. Iniciar, tramitar y resolver procedimientos administrativos e imponer las sanciones que correspondan, en términos de las disposiciones aplicables, y
+
+XXV. Los demás que le encomienden expresamente las leyes y reglamentos.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
 
@@ -2201,3 +2237,13 @@ D.O.F. 1 DE OCTUBRE DE 2007.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Se derogan el artículo 41 de la Ley del Servicio de Tesorería de la Federación y las demás disposiciones que se opongan a lo previsto en el presente Decreto.
+
+D.O.F. 28 DE NOVIEMBRE DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Secretaría de Energía integrará el Consejo Nacional de Energía y expedirá sus reglas de funcionamiento a más tardar 180 días a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. La Cámara de Diputados proveerá lo necesario en el Presupuesto de Egresos de la Federación para que la Secretaría de Energía cuente con los recursos humanos y materiales para dar cabal cumplimiento a las atribuciones conferidas con motivo del presente Decreto.
+
+CUARTO. El Titular del Ejecutivo Federal enviará al Congreso el primer documento relativo a la Estrategia Nacional de Energía, a que hace referencia la fracción sexta del artículo 33 de la Ley Orgánica de la Administración Pública Federal que contiene el presente Decreto, en el mes de febrero del año 2010.
