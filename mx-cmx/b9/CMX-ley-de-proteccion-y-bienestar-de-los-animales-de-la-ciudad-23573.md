@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-bienestar-de-los-animales-de-la-ciudad-2357
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-26"
-last_updated: "2006-10-13"
+last_updated: "2008-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23573&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-01-08"
 
 LEY DE PROTECCION A LOS ANIMALES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de febrero de 2002.
 
@@ -46,61 +46,127 @@ DECRETO LEY DE PROTECCIÓN A LOS ANIMALES DEL DISTRITO FEDERAL
 
 ### Capítulo I. De las Disposiciones Generales
 
-###### Artículo 1º.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
-La presente Ley es de observancia general en el Distrito Federal; sus disposiciones son de orden público e interés social, tiene por objeto proteger a los animales y garantizar su bienestar, estableciendo las bases para definir:
+###### Artículo 1°.
 
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+La presente Ley es de observancia general en el Distrito Federal; sus disposiciones son de orden público e interés social, tienen por objeto proteger a los animales, garantizar su bienestar, brindarles atención, buen trato, manutención, alojamiento, desarrollo natural, salud y evitarles el maltrato, la crueldad, el sufrimiento, la zoofilia y la deformación de sus características físicas; asegurando la sanidad animal y la salud pública, estableciendo las bases para definir:
 
-I. Los principios para proteger la vida y el bienestar de los animales;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+I. Los principios para proteger la vida y garantizar el bienestar de los animales;
 
 II. Las atribuciones que corresponde a las autoridades del Distrito Federal en las materias derivadas de la presente Ley;
 
-III. La regulación del trato digno y respetuoso a los animales;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+III. La regulación del trato digno y respetuoso a los animales; de su entorno y de sus derechos esenciales;
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 IV. La expedición de normas ambientales en materia de protección a los animales para el Distrito Federal;
 
-V. El fomento de la participación de los sectores social y privado; y
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+V. El fomento de la participación de los sectores publico, privado y social, para la atención y bienestar de los animales domésticos y silvestres;
 
-VI. La regulación de las disposiciones correspondientes a la denuncia, verificación, vigilancia, medidas de seguridad, sanciones y recurso de inconformidad.
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+V Bis. Promover en todas las instancias públicas, privadas, sociales y científicas, el reconocimiento de la importancia ética, ecológica y cultural, que representa la protección de los animales, a efecto de obtener mejores niveles educativos de bienestar social;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+VI. La regulación de las disposiciones correspondientes a la denuncia, vigilancia, verificación; medidas de seguridad y acciones de defensa y recurso de inconformidad, relativos al bienestar animal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+VII. El Gobierno del Distrito Federal, las Delegaciones, las Secretarías de Medio Ambiente, Salud y Educación, deberán implementar anualmente programas específicos para difundir la cultura y las conductas de buen trato y respeto a los animales.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+VIII. El Consejo Consultivo Ciudadano del Distrito Federal, para la Atención y Bienestar de los Animales, es un Órgano de coordinación Institucional y de participación y colaboración ciudadana, cuya finalidad principal es, establecer acciones programáticas y fijar líneas de políticas zoológicas, ambientales y de sanidad, a efecto de garantizar los derechos a todos los animales del Distrito Federal.
+
+El Consejo estará integrado por dos Representantes de cada una de las Secretarias de Medio Ambiente, Salud, Educación Pública y de la Procuraduría Ambiental y Ordenamiento Territorial del Distrito Federal; los 16 Jefes Delegacionales y tres representantes de las Asociaciones Protectoras de Animales.
+
+Funcionará conforme a lo dispuesto, por su propio Reglamento, que emitirá la Secretaría.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+IX. Los Consejos Ciudadanos Delegacionales. Son Órganos de consulta y de participación ciudadana; cuya finalidad principal es realizar acciones de promoción cultural y participación para la protección y bienestar de los animales.
+
+Funcionarán conforme a lo dispuesto por su propio Reglamento, que emitirá la Secretaría.
 
 En todo lo no previsto en la presente Ley, se aplicarán las disposiciones contenidas en otras leyes, reglamentos, normas y demás ordenamientos jurídicos relacionados con las materias que regula este ordenamiento.
 
-> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 2°.
 
-Son objeto de tutela y protección de esta Ley los animales, que se encuentren de forma permanente o transitoria dentro de la jurisdicción del Distrito Federal en los cuales se incluyen:
+Son objeto de tutela y protección de esta Ley los animales, que no constituyan plaga, que se encuentren de forma permanente o transitoria dentro del territorio del Distrito Federal en los cuales se incluyen:
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 I. Domésticos;
 
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
 II. Abandonados;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 III. Ferales;
 
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
 IV. Deportivos;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 V. Adiestrados;
 
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
 VI. Guía;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 VII. Para espectáculos;
 
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
 VIII. Para exhibición;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 IX. Para monta, carga y tiro;
 
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
 X. Para abasto;
 
-XI. Para medicina tradicional; y
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
-XII. Para utilización en investigación científica
+XI. Para medicina tradicional; y (sic)
 
-XIII. (sic)
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XII. Para utilización en investigación científica;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XIII. Seguridad y Guarda;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XIV. Animaloterapía;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XV. Silvestres, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XVI. Acuarios y Delfinarios.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -110,9 +176,9 @@ Sin perjuicio de lo establecido en el párrafo anterior, corresponde a las autor
 
 Queda expresamente prohibida la caza y captura de cualquier especie de fauna silvestre en el Distrito Federal.
 
-> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
-Las autoridades del Distrito Federal deben auxiliar a las federales para aplicar las medidas necesarias para la regulación del comercio de animales silvestres, sus productos o subproductos, así como para evitar la posesión y exhibición ilegal de éstos, mediante la celebración de convenios o acuerdos de coordinación, de acuerdo con la ley en la materia.
+Las autoridades del Distrito Federal deben auxiliar a las federales para aplicar las medidas necesarias para la regulación del comercio de animales silvestres, sus productos o subproductos, así como para evitar la posesión y exhibición ilegal de éstos, mediante la celebración de convenios o acuerdos de coordinación, conforme a la ley en la materia.
 
 > <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -130,13 +196,19 @@ IV. Animal deportivo: Los animales utilizados en la práctica de algún deporte;
 
 V. Animal Doméstico: El animal que ha sido reproducido y criado bajo el control del ser humano, que convive con él y requiere de este para su subsistencia y que no se trate de animales silvestres;
 
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+V Bis. Animal en Exhibición. Todos aquellos que se encuentran en cautiverio en zoológicos y espacios similares de propiedad pública o privada;
+
 VI. Animal feral: El animal doméstico que al quedar fuera del control del ser humano se establecen en el hábitat de la vida silvestre, así como sus descendientes nacidos en este hábitat;
 
 VII. Animal guía: Los animales que son utilizados o adiestrados para ayudar al desarrollo de las personas con cualquier tipo de discapacidad;
 
 VIII. Animal para abasto: Animales cuyo destino final es el sacrificio para el consumo de su carne o derivados;
 
-IX. Animal para espectáculos: Los animales, que son utilizados para o en un espectáculo público o privado, fijo o itinerante, bajo el adiestramiento del ser humano;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+IX. Animal para espectáculos. Los animales, que son utilizados para o en un espectáculo público o privado, fijo o itinerante, bajo el adiestramiento del ser humano, o en la práctica de algún deporte;
 
 X. Animal para la investigación científica: Animal que es utilizado para la generación de nuevos conocimientos, por instituciones científicas y de enseñanza superior;
 
@@ -144,7 +216,9 @@ XI. Animal para monta, carga y tiro: Los caballos, yeguas, ponis, burros, mulas,
 
 XII. Animal Silvestre.- Especies no domésticas sujetas a procesos evolutivos y que se desarrollan ya sea en su hábitat, o poblaciones e individuos de éstas que se encuentran bajo el control del ser humano;
 
-XIII. Asociaciones protectoras de animales: Las instituciones de asistencia privada, organizaciones no gubernamentales y asociaciones civiles legalmente constituidas, con capacitación y conocimiento sobre el tema que dediquen sus actividades a la protección a los animales;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XIII. Asociaciones protectoras de animales. Las asociaciones de asistencia privada, organizaciones no gubernamentales y legalmente constituidas, con conocimiento sobre el tema que dediquen sus actividades a la asistencia, protección y bienestar de los animales, deberán inscribirse en el Registro de la Secretaría, presentando sus Actas Constitutivas, su objeto social y las autorizaciones, como Asociación Civil, en términos de la normatividad aplicable;
 
 XIV. Autoridad competente: La autoridad federal y las del Distrito Federal a las que se les otorguen facultades expresas en esta ley, reglamentos y demás ordenamientos jurídicos aplicables;
 
@@ -152,11 +226,25 @@ XV. Aves de presa: Aves carnívoras depredadoras y que pueden ser adiestradas;
 
 XVI. Aves urbanas: Conjunto de especies de aves que habitan en libertad en el área urbana;
 
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XVI Bis. Animales para Zooterapia. Son aquellos que conviven con una persona o con un grupo humano, con fines terapéuticos, para algún tipo de enfermedades neurológicas, psicológicas o siquiátricas, entre otras;
+
 XVII. Bienestar Animal: Estado en que el animal tiene satisfechas sus necesidades de salud, de comportamiento y fisiológicas frente a cambios en su ambiente, generalmente impuestos por el ser humano;
 
 XVIII. Campañas: Acción pública realizada de manera periódica por alguna autoridad para el control, prevención o erradicación de alguna epizootia, zoonosis o epidemia; para controlar el aumento de población de animales; o para difundir la concienciación entre la población para la protección y el trato digno y respetuoso a los animales;
 
-XIX. Centros de control animal: Los centros públicos destinados para la captura y sacrificio humanitario de animales abandonados y/o los ferales, y que pueden ofrecer los servicios de esterilización, orientación y clínica a los animales de la ciudadanía que así lo requieran; centros antirrábicos y demás que realicen acciones análogas;
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XVIII Bis. Certificados de Compra. Las constancias de venta, expedidas por los propietarios de comercios legalmente constituidos, en los que consten: número de identificación del animal; raza, edad; nombre del propietario, teléfono y el domicilio habitual del animal; así como el microchip;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XIX. Centros de control animal, asistencia y zoonosis. Los centros públicos destinados para la captura y sacrificio humanitario de animales abandonados, o ferales, que pueden ofrecer los servicios de esterilización, orientación y clínica a los animales de la ciudadanía que así lo requieran, centros antirrábicos y demás que realicen acciones análogas;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XIX Bis. Centro Hospitalario de Asistencia para la Atención y Protección de los Animales del Distrito Federal. Dependiente de la Secretaría de Salud del Distrito Federal;
 
 XX. Condiciones adecuadas: Las condiciones de trato digno y respetuoso que esta Ley establece, así como las referencias que al respecto determinan las normas oficiales mexicanas y las normas ambientales;
 
@@ -168,15 +256,37 @@ XXIII. Epizootia: La enfermedad que se presenta en una población animal durante
 
 XXIV. Espacios idóneos en la vía pública: Las áreas verdes, vías secundarias, espacios públicos y áreas comunes;
 
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXIV Bis. Fauna. Es el conjunto de animales, característicos de una región, que viven y se desarrollan en un mismo hábitat;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXIV Bis 1. Hábitat. Es un espacio del Medio Ambiente físico, en el que se desarrollan organismos, especies, población o comunidades de animales, en un determinado tiempo;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXIV Bis 2. Insectos productores. Especies biológicas clasificados como insectos, que por sus propias características generan materias primas, de utilidad para el hombre, produciendo miel, cera y pigmentos, que son empleados para consumo animal o humano y para producción artesanal;
+
 XXV. Instrumentos económicos: Los estímulos fiscales, financieros y administrativos que expidan las autoridades del Distrito Federal en las materias de la presente Ley;
 
 XXVI. Ley: La Ley de Protección a los Animales del Distrito Federal;
 
 XXVII. Limitación razonable del tiempo e intensidad de trabajo: El tiempo e intensidad de trabajo que, de acuerdo a su especie pueden realizar los animales sin que se comprometa su estado de bienestar;
 
-XXVIII. Maltrato: Todo hecho, acto u omisión que pueda ocasionar dolor o sufrimiento afectando el bienestar animal, poner en peligro la vida del animal o afectar gravemente su salud, así como la sobreexplotación de su trabajo;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXVIII. Maltrato. Todo hecho, acto u omisión del ser humano, que puede ocasionar dolor o sufrimiento afectando el bienestar animal, poner en peligro la vida del animal o afectar gravemente su salud, así como la sobreexplotación de su trabajo;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXVIII Bis. Actitud Permanente y de Respeto para los Animales. Que incluye todas y cada una de las disposiciones, contenidas en esta Ley y en otros ordenamientos análogos, con disposiciones normativas, para evitar el dolor, la angustia o el desamparo, durante su propiedad, posesión, captura, desarrollo, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento y sacrificio;
 
 XXIX. Mascota: ejemplar de una especie doméstica o silvestre utilizado como compañía y recreación para el ser humano;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXIX Bis. Microchip. Placa diminuta de material semiconductor, que incluye un circuito integrado, que contiene datos relativos al animal que la porta y que se coloca en el cuerpo de animal de manera subcutánea;
 
 XXX. Normas ambientales: Las normas ambientales para el Distrito Federal en materia de protección a los animales;
 
@@ -184,17 +294,41 @@ XXXI. Personal capacitado: Personas que prestan sus servicios y que cuentan con 
 
 XXXII. Plaga: Población excesiva de alguna especie animal que tiene un efecto dañino sobre el medio ambiente, otras poblaciones animales, o el ser humano;
 
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXXII Bis. Prevención. Conjunto de acciones y medidas programáticas, con el propósito de evitar la transmisión de enfermedades propias de las especies a los seres humanos o a los animales, procurando permanentemente la conservación del equilibrio ecológico;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXXII Bis 1. Perros de Pelea. Especie de canidos con características genéticas, que los hacen proclives al ataque; generalmente entrenados;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXXII Bis 2. Pelea de Perros. Espectáculo público o privado, en el que se enfrentan perros con características específicas, que azuzados, generan crueldad entre los animales;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXXII Bis 3. Procedimientos Eutanásicos. Sacrificio de los animales, bajo responsiva de médico veterinario, con métodos humanitarios, con aplicación de inyección de barbitúricos, por inhalación, para realizar el sacrificio y de este modo sufra lo menos posible;
+
 XXXIII. Procuraduría: La Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal;
 
 XXXIV. Reglamento: El Reglamento de la Ley de Protección a los Animales del Distrito Federal;
 
 XXXV. Sacrificio humanitario: El sacrificio necesario con métodos humanitarios que se practica en cualquier animal de manera rápida, sin dolor ni sufrimiento innecesario, utilizando métodos físicos o químicos, efectuado por personal capacitado, atendiendo a las normas oficiales mexicanas y las normas ambientales expedidas para tal efecto;
 
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXXV Bis. Salud. El equilibrio armónico, biológico, psicológico y social, de las especies y del hombre, representado por la ausencia de enfermedades y el pleno ejercicio de sus facultades;
+
 XXXVI. Secretaría: La Secretaría del Medio Ambiente del Distrito Federal;
 
 XXXVII. Secretaría de Salud: La Secretaría de Salud del Distrito Federal;
 
 XXXVIII. Seguridad Pública: La Secretaría de Seguridad Pública del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXXVIII Bis. Sobrepoblación Canina y Felina. Existencia desproporcional y en exceso de especies domésticas que causan desequilibrio zoológico y ambiental.
 
 XXXIX. Sufrimiento: La carencia de bienestar animal causada por diversos motivos que pone en riesgo la salud, integridad o vida del animal;
 
@@ -203,6 +337,22 @@ XL. Trato digno y respetuoso: Las medidas que esta Ley, su reglamento, las norma
 XLI. Vivisección: Realizar un procedimiento quirúrgico a un animal vivo en condiciones asépticas y bajo los efectos de un anestésico apropiado, considerando en todo momento el bienestar del animal, con el objeto de ampliar los conocimientos acerca de los procesos patológicos y fisiológicos de los animales y los humanos; y
 
 XLII. Zoonosis: Enfermedad transmisible de los animales a los seres humanos.
+
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 4° Bis.
+
+Son obligaciones de los habitantes del Distrito Federal:
+
+I. Proteger a los animales, garantizar su bienestar, brindarles atención, asistencia, auxilio, buen trato, velar por su desarrollo natural, salud y evitarles el maltrato, la crueldad, el sufrimiento y la zoofilia.
+
+II.- Denunciar, ante las autoridades correspondientes, cualquier irregularidad o violación a la presente Ley, en las que incurran los particulares, profesionistas, asociaciones protectoras u autoridades.
+
+III. Promover en todas las instancias públicas y privadas la cultura y la protección, atención y buen trato de los animales.
+
+IV. Participar en las instancias de carácter social y vecinal, que cuiden, asistan y protejan a los animales.
+
+V. Cuidar y velar por la observancia y aplicación de la presente Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -240,25 +390,35 @@ VIII. Todo acto que implique la muerte innecesaria o injustificada de un animal 
 
 IX. Todo acto que implique la muerte injustificada de un gran número de animales es un crimen contra las especies;
 
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
-X. Un animal muerto debe ser tratado con respeto; y
+X. El cadáver de todo animal, debe ser tratado con respeto;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA Y REUBICADA, ANTES ULTIMO PARRAFO], G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
-XI. Ninguna persona, por ningún motivo, podrá ser obligada o coaccionada a provocar daño, lesión, a mutilar o provocar la muerte de algún animal y podrá referirse a esta Ley en su defensa.
+XI. Ninguna persona, en ningún caso será obligada o coaccionada a provocar daño, lesión, mutilar o provocar la muerte de algún animal y podrá referirse a esta Ley en su defensa; y
 
-> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XII. Las Secretarías de Salud, Educación y Medio Ambiente del Distrito Federal, implementaran acciones pedagógicas, a través de proyectos y programas, destinadas a fomentar en los niños, jóvenes y la población en general, una cultura de buen trato, protección y respeto hacia los derechos de los animales; las acciones específicas serán implementadas en forma coordinada, por las Secretarías.
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 6°.
 
-Toda persona tiene derecho a que las autoridades competentes pongan a su disposición la información que le soliciten en materia de protección y trato digno y respetuoso a los animales cuyo procedimiento se sujetará a lo previsto en la Ley Ambiental del Distrito Federal y la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, relativo al derecho a la información. Asimismo, toda persona física o moral que maneje animales tiene la obligación de proporcionar la información que le sea requerida por la autoridad.
+Toda persona tiene derecho a que las autoridades competentes pongan a su disposición la información que le soliciten, en materia de protección y trato digno y respetuoso a los animales cuyo procedimiento se sujetará a los previsto en la Ley Ambiental del Distrito Federal y a la Ley de Transparencia y Acceso al a Información Pública del Distrito Federal; relativo al derecho a la información, siempre que ésta se formule por escrito y de manera pacifica y la información sea viable y conforme a derecho, en términos de lo que dispone el Artículo 33 de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
+
+Asimismo, toda persona física o moral que maneje animales, tiene la obligación de proporcionar la información que le sea requerida por la autoridad, siempre que se formule por escrito y sea suscrita por autoridad competente, que funde y motive la causa legal del procedimiento.
 
 ### Capítulo II. De la Competencia
 
 ###### Artículo 7º.
 
 Las autoridades a las que esta Ley hace referencia quedan obligadas a vigilar y exigir el cumplimiento de las disposiciones contenidas en esta Ley, en el marco de sus respectivas competencias.
+
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+Las diversas instancias gubernamentales, que actúen en programas específicos para la protección de los derechos de los animales, deberán establecer la coordinación correspondiente para eficientar su actividad.
 
 ###### Artículo 8º.
 
@@ -290,19 +450,21 @@ II. El desarrollo de programas de educación y capacitación en materia de prote
 
 III. La regulación para el manejo, control y remediación de los problemas asociados a los animales ferales;
 
-IV. La celebración de convenios de concertación con los sectores social y privado;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+IV. La celebración de convenios de colaboración y participación, con los sectores social y privado;
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 V. La creación y administración de un registro de establecimientos comerciales, criadores y prestadores de servicios vinculados con el manejo, producción, exhibición, y venta de animales en el Distrito Federal;
 
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
-VI. Proponer a la o el Jefe de Gobierno del Distrito Federal, en coordinación con la Secretaría de Salud, el reglamento y las normas ambientales;
+VI. Proponer al Jefe de Gobierno del Distrito Federal; en coordinación con la Secretaria de Salud, el reglamento y las normas ambientales;
 
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
-VII. Crear y operar el Padrón de las Asociaciones Protectoras de Animales y de Organizaciones Sociales dedicadas al mismo objeto; y
+VII. Establecer y operar el Padrón de las Asociaciones Protectoras de Animales y de Organizaciones Sociales, debidamente constituidas y registradas, dedicadas al mismo objeto; y
 
 VIII. Las demás que esta Ley y aquellos ordenamientos jurídicos aplicables le confieran.
 
@@ -314,11 +476,13 @@ Corresponde a la Secretaría de Salud el ejercicio de las siguientes facultades:
 
 I. Establecer, regular y verificar los centros de control animal;
 
-II. Proceder al sacrificio humanitario de animales y habilitar centros de incineración para animales y ponerlos a la disposición de toda autoridad y personas que lo requieran;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+II. Proceder al sacrificio humanitario de animales e incinerarlos con el equipo apropiado, depositando las cenizas en un lugar específico y en su caso ponerlos a la disposición de la autoridad o personas que legítimamente tengan derecho;
 
-III. Proceder a capturar animales abandonados en la vía pública y a los ferales, en los términos de la presente Ley y canalizarlos a los centros de control animal o a las asociaciones protectoras legalmente constituidas y registradas;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+III. Proceder a capturar animales abandonados en la vía pública y a los ferales, en coordinación con las autoridades delegacionales, en términos de la presente Ley y canalizarlos a los centros de control animal o a las asociaciones protectoras legalmente constituidas y registradas;
 
 > <small>(ADICIONADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -328,9 +492,9 @@ IV. Verificar cuando exista denuncia falta de higiene, hacinamiento, u olores f�
 
 V. Establecer campañas de vacunación antirrábicas, campañas sanitarias para el control y erradicación de enfermedades zoonóticas, así como de desparasitación, y de esterilización, en coordinación con las delegaciones;
 
-> <small>(ADICIONADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
-VI. Crear y administrar el registro de laboratorios, instituciones científicas y académicas, vinculados con la investigación, educación, crianza, producción y manejo de animales en el Distrito Federal; y
+VI. Implementar y administrar el registro de laboratorios, instituciones científicas y académicas, vinculados con la investigación, educación, crianza, producción y manejo de animales en el Distrito Federal; y
 
 > <small>(REFORMADA Y REUBICADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -390,7 +554,9 @@ Las delegaciones ejercerán las siguientes facultades en el ámbito de su compet
 
 I. Difundir e impulsar por cualquier medio las disposiciones tendientes a la protección y trato digno y respetuoso a los animales y señalizar en espacios idóneos de la vía pública las sanciones derivadas por el incumplimiento de la presente Ley;
 
-II. Recabar y actualizar el registro de establecimientos comerciales, criadores y prestadores de servicios vinculados con el manejo, producción y venta de animales en el Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+II. Implementar y actualizar el registro de establecimientos comerciales, criadores y prestadores de servicios vinculados con el manejo, producción y venta de animales en el Distrito Federal;
 
 III. Establecer y regular los centros de control de animales de su competencia;
 
@@ -398,11 +564,15 @@ IV. Proceder a capturar animales abandonados o ferales en la vía pública, en l
 
 V. Verificar cuando exista denuncia sobre ruidos, hacinamiento, falta de seguridad u olores fétidos que se producen por el mantenimiento, la crianza o reproducción de animales, en detrimento del bienestar animal, así como dar aviso a la Secretaría de Salud cuando tenga conocimiento de asuntos relativos a la falta de higiene;
 
-VI. Celebrar convenios de concertación con los sectores social y privado;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+VI. Celebrar convenios de colaboración con los sectores social y privado;
 
 VII. Proceder al sacrificio humanitario de los animales en los términos de la presente Ley, así como a la disposición adecuada de los cadáveres y residuos biológicos peligrosos conforme a la normatividad vigente; y poner a disposición de toda autoridad y persona que lo requiera los centros de incineración;
 
-IX (sic). Supervisar y controlar en materia de la presente Ley los criaderos, establecimientos, instalaciones, transporte, espectáculos públicos, instituciones académicas, de investigación y particulares que manejen animales;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+IX. Supervisar, verificar y sancionar en materia de la presente ley los criaderos, establecimientos, refugios, asilos, instalaciones, transporte, espectáculos públicos, instituciones académicas, de investigación y particulares que manejen animales;
 
 X. Impulsar campañas de concientización para la protección y el trato digno y respetuoso a los animales y la desincentivación de la compra venta de especies silvestres;
 
@@ -422,9 +592,13 @@ Es facultad del Juez Cívico conocer cualquier hecho, acto u omisión derivado d
 
 Los centros de control animal y análogos a cargo de la Secretaría de Salud y de las delegaciones, además de las funciones que les confieren esta ley y demás ordenamientos jurídicos aplicables, tienen como funciones:
 
-I. Dar a los animales un trato digno y respetuoso, evitando en todo momento el maltrato o sufrimiento;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
-II. Llevar a cabo campañas permanentes de vacunación y esterilización; y
+I. Dar a los animales un trato digno y respetuoso, observando siempre la normatividad en el procedimiento y especialmente en la acción de sacrificio, para evitar en todo momento el maltrato o sufrimiento innecesario.
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+II. Llevar a cabo campañas permanentes de vacunación, desparasitación interna y externa y esterilización; y
 
 III. Proporcionar los collares de identificación de vacunación antirrábica.
 
@@ -442,37 +616,61 @@ III. Proveer alimento y agua suficiente en todo momento a los animales resguarda
 
 IV. Tener un técnico capacitado en sacrificio de acuerdo a las normas vigentes para tal efecto;
 
-V. Emitir una constancia del estado general del animal tanto a su ingreso como a su salida; y
+V. Emitir una constancia del estado general del animal tanto a su ingreso como a su salida; y (sic)
 
-VI. Separar y atender a los animales que estén lastimados, heridos o presenten signos de enfermedad infecto contagiosa.
+VI. Separar y atender a los animales que estén lastimados, heridos o presenten signos de enfermedad infecto contagiosa;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+VII. Disponer de vehículos para la captura y traslado de animales abandonados;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+VIII. Prestar los servicios siguientes: Consulta veterinaria; animal en observación; pensión de mascota; captura de animal agresor o animal no deseado en domicilio particular o espacios públicos; esterilización canina o felina; corte de orejas; corte de cola; curación de heridas pos quirúrgicas; necrosis; sacrificio de animales; desparasitación; devolución de animal capturado en abandono; alimentación; cirugía mayor; cirugía menor; cesárea canina y felina; vacuna triple; vacuna parvovirus; reducción de fracturas; reducción de fracturas con clavo intramedular; extirpación de la glándula Harder; además de un área de convivencia y educación animal para procurar cultura en niños y jóvenes, en un área de entrenamiento.
 
 ### Capítulo III. De la Participación Social
 
-> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 13.
 
-Los particulares, así como las asociaciones protectoras de animales, podrán colaborar para alcanzar los fines que persigue esta Ley.
+Los particulares, las asociaciones protectoras de animales y los profesionales de la medicina veterinaria y zootecnia, podrán colaborar en los programas correspondientes, para alcanzar los fines tutelares y asistenciales, que persigue esta Ley.
 
-> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 13 Bis.
+
+La Secretaría, implementará el Censo, Registro y Control de las Asociaciones destinadas a la protección, buen trato, manutención, alojamiento y desarrollo pleno de los animales, cuyo objeto sea de conservación, estabilidad, eliminación del maltrato y crueldad en los mismos.
+
+Para ello el Reglamento establecerá los mecanismos del Registro, así como los requisitos a cumplir.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 14.
 
-Las autoridades competentes promoverán la participación de las personas, las asociaciones protectoras de animales y las organizaciones sociales legalmente constituidas y registradas, así como las instituciones académicas, y de investigación científica en las acciones gubernamentales relacionadas con la protección y el trato digno y respetuoso a los animales, y podrán celebrar convenios de concertación con éstas.
+Las autoridades competentes promoverán la participación de las personas, las asociaciones protectoras de animales y las organizaciones sociales legalmente constituidas y registradas, así como las instituciones académicas, y de investigación científica en las acciones gubernamentales relacionadas con la protección, la asistencia y el trato digno y respetuoso a los animales, y podrán celebrar convenios de colaboración con estas.
+
+> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 Los requisitos mínimos indispensables para pertenecer al Padrón de Asociaciones Protectoras de Animales y Organizaciones Sociales dedicadas al mismo objeto que puedan ser beneficiarias de estímulos y coadyuvar en la observancia de las tareas definidas en la presente Ley son:
 
 I. Contar con acta constitutiva, registro federal de contribuyentes y poder notarial del representante legal;
 
-II. Descripción de la organización y estructura funcional, así como de los recursos materiales que acrediten su capacidad técnica, jurídica y financiera; y
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+II. Objeto social, descripción de la organización y estructura funcional, así como de los recursos materiales que acrediten su capacidad técnica, jurídica y financiera; y
 
 III. Contar con personal debidamente capacitado y con conocimientos suficientes demostrables en materia de protección a los animales.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 15.
 
-Las delegaciones podrán celebrar convenios de concertación con las asociaciones protectoras de animales legalmente constituidas para apoyar en la captura de los animales abandonados y ferales en la vía pública y los entregados por sus dueños(as) y remitirlos a los centros públicos de control animal o, en su caso, a los refugios legalmente autorizados de las asociaciones protectoras de animales en los términos establecidos en el artículo 32 de la presente Ley; y en el sacrificio humanitario de animales, siempre y cuando cuenten con el personal capacitado debidamente comprobado y autorizado para dicho fin. La Procuraduría será la autoridad encargada de vigilar el cumplimiento de los convenios.
+Las delegaciones podrán celebrar convenios de colaboración con las asociaciones protectoras de animales legalmente constituidas para apoyar en la captura de los animales abandonados y ferales en la vía pública y los entregados por sus dueños(as) y remitirlos a los centros públicos de control animal o, en su caso, a los refugios legalmente autorizados de las asociaciones protectoras de animales en los términos establecidos en el artículo 32 de la presente Ley; y en el sacrificio humanitario de animales, siempre y cuando cuenten con el personal capacitado debidamente comprobado y autorizado para dicho fin. La Procuraduría será la autoridad encargada de vigilar el cumplimiento de los convenios.
 
-El reglamento de la presente Ley establecerá los requisitos y las condiciones para la celebración de estos convenios, así como para su cancelación.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+El reglamento de la presente Ley establecerá los requisitos y las condiciones para la celebración de estos convenios, así como para su rescisión.
 
 > <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -604,9 +802,9 @@ V. Torturar o maltratar a un animal por maldad, brutalidad, egoísmo o negligenc
 
 VI. No brindarles atención médico veterinaria cuando lo requieran o lo determinen las condiciones para el bienestar animal;
 
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
-VII. Provocar a los animales para que se ataquen entre ellos o a las personas y hacer de las peleas así provocadas un espectáculo público o privado;
+VII. Azuzar a los animales para que se ataquen entre ellos o a las personas y hacer de las peleas asi provocadas, un espectáculo público o privado;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -634,7 +832,9 @@ II. El uso de animales vivos como blanco de ataque en el entrenamiento de animal
 
 III. El obsequio, distribución, venta y cualquier uso de animales vivos para fines de propaganda política o comercial, obras benéficas, ferias, kermesses escolares, o como premios en sorteos, juegos, concursos, rifas, loterías o cualquier otra actividad análoga, con excepción de aquellos eventos que tienen como objeto la venta de animales y que están legalmente autorizados para ello;
 
-IV. La venta de animales vivos a menores de doce años de edad, si no están acompañados por una persona mayor de edad, quien se responsabilice ante el vendedor, por el menor, de la adecuada subsistencia y trato digno y respetuoso para el animal;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+IV. La venta de animales vivos a menores de dieciocho años de edad, si no están acompañados por una persona mayor de edad, quien se responsabilice ante el vendedor, por el menor, de la adecuada subsistencia, trato digno y respetuoso para el animal;
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -674,17 +874,23 @@ XV. Ofrecer cualquier clase de alimento u objetos cuya ingestión pueda causar d
 
 Quedan exceptuadas de las disposiciones establecidas en la fracción IX del presente artículo, de las fracciones I, III y VII del artículo 24, y del artículo 54 de la presente Ley las corridas de toros, novillos y becerros, así como las peleas de gallos, las que habrán de sujetarse a lo dispuesto en las leyes, reglamentos y demás ordenamientos jurídicos aplicables.
 
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+Las excepciones que establece el párrafo inmediato anterior, respecto a Corridas de Toros, Novillos, Jaripeos, Charreadas, Carrera de Caballos o Perros; espectáculos de adiestramiento y entretenimiento familiar, en que sean víctimas de abuso o maltrato los animales; se atenderá a petición de parte o denuncia ciudadana, ante el Juzgado Cívico correspondiente o autoridad competente. Los actos de zoofilia, podrán ser denunciados ante las instancias judiciales correspondientes competentes.
+
 > <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 26.
 
 Cualquier persona que tenga conocimiento de un acto, hecho u omisión en perjuicio de los animales objeto de tutela de la presente Ley, tiene la obligación de informarlo a la autoridad competente.
 
-> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 27.
 
-Previa venta de cualquier animal, éste deberá contar con un certificado veterinario de salud en el que se haga constar que se encuentra al corriente en sus calendarios de vacunación y desparasitación y que se encuentra libre de enfermedad aparente.
+Previa venta de cualquier animal, el vendedor deberá entregar al comprador un certificado de vacunación, que contenga la aplicación de vacunas de rabia y desparasitación interna y externa, suscrito por medico veterinario con Cédula Profesional.
+
+Asimismo entregará un certificado de salud, en el cual conste y dé fe que el animal se encuentra libre de enfermedad aparente, incluyendo en el mismo el calendario de vacunación correspondiente, que registre las vacunas que le fueron suministradas al animal y las vacunas a realizar, por parte del comprador.
 
 > <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -778,13 +984,13 @@ Toda persona física o moral que se dedique al adiestramiento de perros de segur
 
 La exhibición de animales será realizada atendiendo a las necesidades básicas de bienestar de los animales, de acuerdo a las características propias de cada especie y cumpliendo las disposiciones de las autoridades correspondientes, a las normas oficiales mexicanas o, en su caso, a las normas ambientales.
 
-> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 37.
 
-La o el propietario, poseedor o encargado de animales para la monta, carga y tiro y animales para espectáculo; debe contar con la autorización correspondiente y alimentar y cuidar apropiadamente a sus animales, sin someterlos a jornadas excesivas de trabajo conforme a lo establecido en la norma ambiental correspondiente, debiendo mantener las instalaciones de guarda en buen estado higiénico sanitario y en condiciones adecuadas de espacio para el animal de que se trate, así como cumplir con lo establecido en el reglamento de la presente Ley y las normas oficiales mexicanas que correspondan.
+El propietario, poseedor o encargado de animales para la monta, carga y tiro y animales para espectáculo; debe contar con la autorización correspondiente y alimentar y cuidar apropiadamente a sus animales, sin someterlos a jornadas excesivas de trabajo conforme a lo establecido en la norma ambiental correspondiente, debiendo mantener las instalaciones de guarda en buen estado higiénico sanitario y en condiciones adecuadas de espacio para el animal de que se trate, así como cumplir con lo establecido en el reglamento de la presente Ley y las normas oficiales mexicanas que correspondan.
 
-La prestación del servicio de monta recreativa requiere autorización de la Delegación, salvo en las áreas de valor ambiental o áreas naturales protegidas en cuyo caso corresponde a la Secretaría su autorización, mismas que se sujetarán a las disposiciones correspondientes que establece esta Ley, su reglamento y demás disposiciones jurídicas aplicables. En ningún caso se autorizará la prestación de estos servicios en los parques públicos en el suelo urbano del Distrito Federal.
+La prestación del servicio de monta recreativa requiere autorización de la Delegación, salvo en las áreas de valor ambiental o áreas naturales protegidas en cuyo caso corresponde a la Secretaría su autorización, mismas que se sujetarán a las disposiciones correspondientes que establece esta Ley, su reglamento y demás disposiciones jurídicas aplicables. En ningún caso se autorizará la prestación de estos servicios en los parques públicos en el suelo urbano, ni en la vía o espacios públicos del Distrito Federal.
 
 > <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -878,9 +1084,9 @@ En el Distrito Federal quedan expresamente prohibidas las prácticas de vivisecc
 
 Ningún alumno(a) podrá ser obligado(a) a experimentar con animales contra su voluntad, y el profesor(a) correspondiente deberá proporcionar prácticas alternativas para otorgar calificación aprobatoria. Quien obligue a un alumno(a) a realizar estas prácticas contra su voluntad podrá ser denunciado en los términos de la presente Ley.
 
-> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
-Cuando los casos sean permitidos, ningún animal podrá ser usado más de tres veces en experimentos de vivisección, debiendo previamente ser insensibilizado, curado y alimentado en forma debida, antes y después de la intervención. Si sus heridas son de consideración o implican mutilación grave, serán sacrificados inmediatamente al término de la operación.
+Cuando los casos sean permitidos, ningún animal podrá ser usado más de una vez en experimentos de vivisección, debiendo previamente ser insensibilizado, según las características de la especie y del tipo de procedimiento experimental, curado y alimentado en forma debida, antes y después de la intervención. Si sus heridas son de consideración o implican mutilación grave, serán sacrificados inmediatamente al término de la operación.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -972,17 +1178,17 @@ En caso de tener conocimiento de que un animal se encuentre bajo sufrimiento irr
 
 ### Capítulo VIII. De la Denuncia y Vigilancia
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 56.
 
-Toda persona podrá denunciar ante la Secretaría de Salud, la Procuraduría o las delegaciones, según corresponda, todo hecho, acto u omisión que contravenga a las disposiciones de la presente Ley y demás ordenamientos jurídicos aplicables.
+Toda persona podrá denunciar ante la Secretaría de Salud, la Procuraduría o las Delegaciones, según corresponda, todo hecho, acto u omisión que contravenga las disposiciones de la presente Ley y demás ordenamientos jurídicos aplicables, de conformidad con lo que establece el Artículo 83 de la Ley Ambiental para el Distrito Federal.
 
 Si por la naturaleza de los hechos denunciados se tratare de asuntos de competencia del orden federal o sujetos a la jurisdicción de otra autoridad federativa, las autoridades deberán turnarla a la autoridad competente.
 
-> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
-Sin perjuicio de lo anterior, las o los interesados podrán presentar su denuncia directamente ante la Procuraduría General de Justicia del Distrito Federal si se considera que los hechos u omisiones de que se trate pueden ser constitutivos de algún delito, en cuyo caso deberá sujetarse a lo dispuesto por el Código de Procedimientos Penales para el Distrito Federal, o bien ante el juez cívico correspondiente quien calificará la sanción.
+Sin perjuicio de lo anterior, los interesados podrán presentar su denuncia directamente ante la Procuraduría General de Justicia del Distrito Federal, si se considera que los hechos u omisiones de que se trate pueden ser constitutivos de algún delito, en cuyo caso deberá sujetarse a lo dispuesto por el Código de Procedimientos Penales para el Distrito Federal, o bien ante el juez cívico correspondiente, quien resolverá sobre la responsabilidad en el asunto de su competencia y notificará sobre la denuncia a las Delegaciones, o a la Secretaría de Salud, para el seguimiento de los procedimientos de verificación y vigilancia, previstos en el primer párrafo del presente artículo, si procediera.
 
 ###### Artículo 57.
 
@@ -1004,15 +1210,31 @@ Sin perjuicio de la resolución señalada en el párrafo anterior, la autoridad 
 
 La autoridad está obligada a informar a la o el denunciante sobre el trámite que recaiga a su denuncia.
 
-> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+Si fuese una denuncia ciudadana, derivada de un espectáculo público o algún deporte, bastara que el o los denunciantes se presenten ante la instancia correspondiente, a manifestar los hechos de su denuncia, a través de una comparecencia o fe de hechos.
+
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+La autoridad correspondiente ejecutará el procedimiento de verificación y vigilancia, previsto en el presente capitulo, a efecto de aplicar las sanciones y medidas de seguridad que correspondan, de acuerdo a esta Ley; la Legislación Ambiental Sanitaria; Administrativa o de Establecimientos Mercantiles, que correspondan, de acuerdo a su competencia, observando, en cuanto al procedimiento, de manera supletoria, la Ley de Procedimientos Administrativos del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+Conforme sea el caso, se podrán canalizar a los interesados, sin perjuicio alguno, ante el Juzgado Cívico competente, los asuntos que les corresponda conocer a dicha autoridad, cuando estos no sean competencia de las Delegaciones; la Procuraduría o la Secretaría de Salud; al que corresponderá aplicar las sanciones previstas en el capitulo X de la presente Ley, las que solamente consistirán en amonestación, multa o arresto, aplicando el procedimiento previsto en el artículo 12 Bis de la presente Ley; en cuyo caso deberá sujetarse a los dispuesto por el Código Penal para el Distrito Federal, en cuanto lo que hace al rubro de sanciones y en cuanto al procedimiento al Código de Procedimientos Penales para el Distrito Federal.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 58.
 
-Corresponde a la Secretaría, la Secretaría de Salud, la Secretaría de Seguridad Pública, la Procuraduría y las Delegaciones, en el ámbito de sus respectivas competencias, ejercer las funciones de vigilancia y supervisión para lograr el cumplimiento de la presente Ley.
+Corresponde a la Secretaria, a la Secretaria de Salud, a la Secretaria de Seguridad Pública, a la Procuraduría y las Delegaciones, en el ámbito de sus respectivas competencias, ejercer las funciones de vigilancia y supervisión para lograr el cumplimiento de la presente Ley.
+
+> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 Las visitas de verificación que estas autoridades realicen deberán sujetarse a lo que determinan la Ley de Procedimiento Administrativo del Distrito Federal y su reglamento en la materia.
 
-El personal designado al efecto debe contar con conocimientos en las materias que regula la presente Ley y cumplir con los requisitos que establezca el reglamento.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+El personal designado al efecto debe contar con conocimientos en las materias que regula la presente Ley y cumplir con los requisitos de aprobación que emita la Secretaria.
 
 ### Capítulo IX. De las Medidas de Seguridad
 
@@ -1050,19 +1272,25 @@ Cuando la autoridad competente ordene algunas de las medidas de seguridad previs
 
 ### Capítulo X. De las Sanciones
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 62.
 
-Se considera infracción todo acto u omisión, sancionado por esta ley, su reglamento, y demás ordenamientos jurídicos aplicables, ya sea que el responsable haya actuado intencionalmente, o por imprudencia; por sí mismo, o provocando, ordenando, o permitiendo que otra persona o personas bajo su mando, tutela, encargo o responsabilidad lo hagan.
+Para los efectos de esta Ley, se consideran responsables ante los Juzgados Cívicos, las personas mayores de 18 años, que cometan infracciones.
 
-Los padres, madres o tutores(as) de la o el menor de edad son responsables por las faltas que estos cometan. Las personas discapacitadas o sus tutores(as) legales, cuando sea el caso, son responsables por los daños que provoquen a un animal, así como los daños físicos que sus animales causen a terceros.
+Las personas morales o físicas, que sean propietarias u operen establecimientos mercantiles, laboratorios, rastros, centros de espectáculos, de transporte animal, recreativos que empleen animales u otros establecimientos involucrados con actos regulados por la presente Ley, serán responsables y sancionados en los términos del artículo 56, párrafo primero de este Capitulo, por la autoridad competente.
 
-La imposición de cualquier sanción prevista por la presente Ley no excluye la responsabilidad civil o penal y la eventual indemnización o reparación del daño correspondiente que puedan recaer sobre el sancionado.
+En los casos que la conducta conocida por un Juzgado Cívico, no se imputen en forma directa a una persona física, sino a un establecimiento de los enunciados, en la primera parte del presente párrafo o se imputen a una persona física, con motivo de la operación de un establecimiento con giros relacionados con los animales, se declarará incompetente y deberá remitir el expediente a la Delegación correspondiente o a la Secretaria de Salud, informando el nombre y domicilio proporcionado del probable infractor responsable, para que sea emplazado al procedimiento que corresponda.
+
+Los padres o los tutores de los menores de edad, son responsables, por las faltas que estos cometan en los términos de la legislación civil aplicable.
+
+La imposición de las sanciones previstas por la presente Ley, no excluye la responsabilidad civil o penal y la eventual indemnización o reparación del daño que pudiera corresponder y recaer sobre el sancionado.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 63.
 
-Las infracciones administrativas podrán ser:
+Las Sanciones aplicables a las infracciones previstas en la presente Ley, podrán ser:
 
 I. Amonestación;
 
@@ -1070,33 +1298,79 @@ II. Multa;
 
 III. Arresto; y
 
-IV. Las demás que señalen las leyes o reglamentos.
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+IV. Las demás que señalen las leyes o reglamentos, en los casos regulados por el artículo 56, párrafo primero de la presente Ley; a excepción de lo que dispone la Ley de Justicia para Adolescentes para el Distrito Federal.
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 64.
 
-Para aquellos casos en los que por primera vez se moleste a algún animal o se le produzca un traumatismo que no deje huella o secuela, o bien para aquellos (as) que incumplan con la fracción X del artículo 25 y con el primer párrafo del artículo 15 de esta Ley, procederá la amonestación.
+Tratándose de menores de edad, para aquello casos, en que por primera vez se moleste a algún animal y/o en que se cometan infracciones a la presente Ley de la competencia de los Juzgados Cívicos, siempre que no deje huella o secuela aparente en el animal, se estará a lo que dispone la Ley de Justicia para Adolescentes, se informará a los padres o tutores.
+
+Para el caso de mayores de dieciocho años, se procederá la amonestación o la sanción correspondiente, en los términos de la Fracción III del artículo 65 de la presente Ley, a juicio del Juez; tomando en consideración la intencionalidad en la acción de la conducta, la edad, el grado de educación, la situación social, económica y demás características del infractor. En todos los casos se aplicará la sanción correspondiente para el tipo de infracción de que se trate, no procediendo la amonestación en los casos de las violaciones a lo dispuesto por los artículos 24, Fracción I, IV, V, VII; 25 Fracción VIII y 33 de la presente Ley.
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 65.
 
-Las infracciones cometidas por la violación de las disposiciones de la presente Ley, se aplicarán conforme a lo siguiente:
+Las sanciones por las infracciones cometidas por la violación a las disposiciones de la presente Ley, se aplicarán conforme a lo siguiente:
 
-I. Multa de 1 a 150 días de salario mínimo vigente en el Distrito Federal contra quien por segunda ocasión realice alguna de las conductas descritas en el artículo anterior o por violaciones a lo dispuesto por los artículos 24, fracción VI; 27; 29; 31; 36; 37; 42; y 43 de la presente Ley;
+I. Corresponde a la Secretaría de Salud, en el ámbito de su respectiva competencia, siguiendo el procedimiento regulado por el artículo 56 párrafo primero, de la presente Ley, imponer sin perjuicio de las sanciones reguladas, en otras Legislaciones aplicables, multas de ciento cincuenta a trescientos días de salario mínimo vigente en el Distrito Federal, por violaciones a lo dispuesto a los artículos 24, Fracciones II, III, 25 Fracción XIV, 46, 47, 49, 50, 52 y 53 de la presente Ley.
 
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+II. Corresponde a las Delegaciones, a través de su respectiva Dirección General Jurídica y de Gobierno, en el ámbito de sus respectivas competencias, observando el procedimiento regulado por el artículo 56 párrafo primero, de la presente Ley, imponer, sin perjuicio de las sanciones reguladas en otras Legislaciones, aplicables las sanciones siguientes:
 
-II. Multa de 150 a mil días de salario mínimo vigente en el Distrito Federal las violaciones a lo dispuesto por los artículos 24, fracciones III, V, VII, VIII y IX; 25, fracciones I, III a VII, IX, X, XI, y XIV; 28; párrafos primero, segundo, tercero y quinto; 29, tercer párrafo; 30; 32 tercer párrafo; 34; 35; 39; 40; 44; 45 y 46 de la presente Ley; y
+a) Amonestación. Para quienes incumplan con el primer párrafo del artículo 15 de está Ley y por violaciones a lo dispuesto por el artículo 31 de este ordenamiento.
 
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+b) Multa de 1 a 150 días de salario mínimo vigente en el Distrito Federal, por violaciones a lo dispuesto por los artículos 25, Fracciones III, VI, VII, XII, XIII y XV, 27, 28, 32, 35, 36, 37, 39, 40, 41, 42, 43, 45, 45 Bis, 54 y 55 de la presente Ley.
 
-III. Arresto inconmutable de 36 horas y multa por mil a dos mil 500 días de salario mínimo vigente en el Distrito Federal por violaciones a lo dispuesto por los artículos 24, fracciones I, II y IV; 25, fracciones II, VIII y XIII, 33; y 51 al 55 de la presente Ley.
+c) Multa de 150 a 300 días de salario mínimo vigente en el Distrito Federal, por violaciones a lo dispuesto por el artículo 25, Fracción II de la presente Ley.
+
+III. Corresponde a los Juzgados Cívicos, siguiendo el procedimiento regulado por el artículos 56 párrafo primero y 12 Bis de la presente Ley, imponer las sanciones siguientes:
+
+a) Multa de 1 a 10 días de salario mínimo vigente en el Distrito Federal o arresto administrativo de 6 a 12 horas, por violaciones a lo dispuesto por el artículo 25 fracciones I y XI de la presente Ley;
+
+b) Multa de 1 a 20 días de salario mínimo vigente en el Distrito Federal, o arresto administrativo de 13 a 24 horas, por violaciones a lo dispuesto por los artículos 24, fracciones VI, VIII, IX; 25, fracciones IV, V; IX y X; 29 y 34 de la presente Ley, y
+
+c) Multa de 21 a 30 días de salario mínimo vigente en el Distrito Federal, o arresto administrativo de 25 a 36 horas, por violaciones a lo dispuesto por los artículos 24, fracciones I, IV, V y VII; 25, fracción VIII; 30, 33 y 51 de la presente Ley.
+
+Los animales que sean presentados y que estén relacionados con las infracciones enunciadas en la Fracción III, serán retenidos y canalizados a los Centros de Control Animal de las Delegaciones, para los efectos de los artículos 27, 29, 30 y 32 de la presente Ley; los que expedirán en caso de reclamación del animal por el propietario, el Certificado Veterinario de Salud, procediendo a la desparasitación interna y externa y la vacunación, a efecto de evitar enfermedades transmisibles a otros animales o personas y otorgará la placa de identificación correspondiente, previo pago de los derechos que se causen, con cargo al propietario.
+
+Si derivado de las denuncias que se sigan a petición de interesado, resultaré que el propietario del animal, es responsable de la conducta desplegada por el animal, este será canalizado a los Centros de Control Animal, para los efectos señalados o en su defecto el propietario podrá llevar al animal, en forma voluntaria, en el término de tres días hábiles y si no se presenta voluntariamente, se girará oficio al Centro de Control Animal, para que proceda a su captura, retención, a efecto de dar cumplimiento al presente párrafo.
+
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 65 Bis.
+
+En los casos, que se actualicen la hipótesis, que se contempla en el último párrafo del artículo anterior, tratándose de animales, que hayan sido causa de infracciones, que previstas en la presente Ley, que no hayan sido reclamados por el propietario; que sean animales perdidos y sin dueño, las Asociaciones Protectoras de Animales, reconocidas conforme a la normatividad aplicable y que deben estar debidamente registradas, tendrán derecho, previo al cumplimiento del trámite correspondiente a recogerlos y brindarles asilo.
+
+Cuando las infracciones que se cometan, sean competencia de las Delegaciones o de la Secretaria de Salud, la autoridad correspondiente del decomiso o la entrega, según sea el caso; a la solicitud expresa y escrita por parte de las Asociaciones Protectoras de Animales, proceda la entrega del animal, cuando estas se comprometan a brindar protección y asilo, cumpliendo con lo establecido en la presente Ley.
+
+A falta de solicitud, se decretará su envío a los Centros Delegacionales de Control Animal, para los efectos del cumplimiento de los artículos 27, 29, 30, 32 y demás relativos y concordantes de la presente Ley.
+
+En los casos de infracciones, cuya competencia corresponda a los Juzgados Cívicos, estos podrán decretar, a solicitud expresa de las Asociaciones Protectoras, la entrega del animal, únicamente en los casos de que se trate de un animal sin dueño. En la solicitud que formulen, se comprometerán a brindarle protección y asilo, de conformidad con la presente Ley.
+
+Para los casos, de ausencia de reclamación, por parte de los propietarios o poseedores, será entregado a los Centros de Control Delegacional, en los términos establecidos por el artículo 65.
+
+En todos los casos los jueces deberán hacer mención de la procedencia en la entrega de los animales.
+
+Tratándose de animales perdidos o abandonados en la vía pública y sin dueño o poseedor aparente; podrán ser recogidos por las Asociaciones Protectoras de Animales, sin mayor trámite, que la notificación correspondiente, ante la autoridad competente.
+
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 65 Bis 1.
+
+El Reglamento, establecerá los mecanismos de registro de las Asociaciones y los procedimientos para acreditar su personalidad y poder actuar ante las autoridades administrativas competentes.
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 66.
 
-Las infracciones a lo dispuesto en esta Ley, que en el cuerpo de la misma no tuviere señalada una sanción especial, serán sancionadas a juicio de las autoridades competentes con multa de diez a cincuenta días de salario mínimo vigente en el Distrito Federal o arresto inconmutable hasta por 24 horas, según la gravedad de la falta, la intención con la cual ésta fue cometida y las consecuencias a que haya dado lugar.
+Las infracciones a lo dispuesto en esta Ley, que en el cuerpo de la misma no tuviere señalada una sanción especial, serán sancionadas a juicio de las autoridades competentes con multa de veintiuno a treinta días de salario mínimo vigente en el Distrito Federal o arresto inconmutable de 24 a 36 horas, según la gravedad de la falta, la intención con la cual ésta fue cometida y las consecuencias a que haya dado lugar; cuando las sanciones sean de la competencia de las Delegaciones o de la Secretaría de Salud, la sanción consistirá solamente en multa.
 
-En el caso de que las infracciones hayan sido cometidas por personas que ejerzan cargos de dirección en Instituciones Científicas o directamente vinculadas con la explotación y cuidado de los animales víctimas de maltrato o se trate de propietarios(as) de vehículos exclusivamente destinados al transporte de éstos, la multa será de cincuenta a ciento cincuenta días de salario mínimo vigente en el Distrito Federal, sin perjuicio de las demás sanciones que proceden conforme a otras Leyes.
+Las infracciones a lo dispuesto por esta Ley, cuyo conocimiento no se encuentre reservado a una autoridad especial, será de la competencia de las Delegaciones, a través de su respectiva Dirección General Jurídica y de Gobierno.
+
+En el caso de que las infracciones hayan sido cometidas por personas que ejerzan cargos de dirección en Instituciones Científicas o directamente vinculadas con la explotación y cuidado de los animales víctimas de maltrato o se trate de propietarios de vehículos exclusivamente destinados al transporte de éstos, el conocimiento de la infracción será competencia de las Delegaciones y la multa será de cincuenta a ciento cincuenta días de salario mínimo vigente en el Distrito Federal, sin perjuicio de las demás sanciones que proceden conforme a otras Leyes.
 
 ###### Artículo 67.
 
@@ -1112,15 +1386,27 @@ IV. La reincidencia en la comisión de infracciones, la gravedad de la conducta 
 
 V. El carácter intencional, imprudencial o accidental del hecho, acto u omisión constitutiva de la infracción.
 
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
 ###### Artículo 68.
 
-La violación a las disposiciones de esta Ley por parte de laboratorios científicos o quien ejerza la profesión de Médico Veterinario Zootécnico, independientemente de la responsabilidad civil, penal o administrativa en la que incurra, ameritará aumento de la multa hasta en un treinta por ciento.
+Para el caso de violaciones que realicen los laboratorios científicos o quienes ejerzan la profesión de Médico Veterinario Zootécnico, violen las obligaciones que establece la presente Ley, serán sancionados por la Secretaría de Salud, independientemente de la responsabilidad civil, penal o administrativa en la que incurran y se incrementara el monto de la multa hasta en un treinta por ciento.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 69.
 
-En el caso de haber reincidencia en la violación a las disposiciones de la presente Ley, la sanción se duplicará y podrá imponerse arresto del responsable legal o administrativo hasta por 36 horas inconmutables.
+En el caso de haber reincidencia en la violación a las disposiciones de la presente Ley, la sanción podrá duplicarse, sin exceder, en los casos que proceda, arresto administrativo, al máximo Constitucional de 36 horas.
 
 Para efectos de la presente Ley, se reincide cuando habiendo quedado firme una resolución que imponga una sanción, se cometa una nueva falta dentro de los doce meses contados a partir de aquélla.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+Las multas que fueren impuestas por las Delegaciones, la Secretaría, la Secretaría de Salud, o la Procuraduría Ambiental y del Ordenamiento Territorial, en los términos de la Legislación aplicable, serán remitidas a la Secretaría de Finanzas del Distrito Federal, para su cobro como crédito fiscal, mediante la aplicación de los procedimientos fiscales correspondientes y si el importe de las mismas no fuere satisfecho por los infractores, no se procederá a la cancelación de las medidas de seguridad que se hubieren impuesto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+Las multas impuestas por los Juzgados Cívicos, serán cobradas en los términos establecidos en la Ley de Cultura Cívica del Distrito Federal.
 
 ###### Artículo 70.
 
@@ -1161,3 +1447,13 @@ G.O. 13 DE OCTUBRE DE 2006.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El Ejecutivo deberá publicar el Reglamento de la Presente Ley en un plazo no mayor de 180 días naturales posteriores a su publicación.
+
+G.O. 28 DE NOVIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto, entrara en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, para su mayor difusión.
+
+SEGUNDO.- Se Derogan todas aquellas disposiciones que contravengan lo dispuesto en esta Ley.
+
+TERCERO.- El Jefe de Gobierno del Distrito Federal, expedirá el Reglamento correspondiente dentro de los ciento veinte días naturales a la fecha de entrada en vigor el presente Decreto.
+
+CUARTO.- El Jefe de Gobierno del Distrito Federal, destinará en el Presupuesto de Egresos 2009, una partida especial que se otorgará como subsidio a las Asociaciones Protectoras de Animales, debidamente legitimadas, para que se apliquen a la prevención, curación, atención y vacunación de las especies que están bajo su cuidado y asistencia, así como para el mantenimiento y conservación de sus instalaciones.
