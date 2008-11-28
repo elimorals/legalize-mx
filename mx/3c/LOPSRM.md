@@ -4,7 +4,7 @@ identifier: "LOPSRM"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-04"
-last_updated: "2007-10-01"
+last_updated: "2008-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15294&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPSRM"
 
 LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2008.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 4 de enero de 2000.
 
@@ -59,6 +59,10 @@ V. Las empresas de participación estatal mayoritaria y los fideicomisos en los 
 VI. Las entidades federativas, con cargo total o parcial a fondos federales, conforme a los convenios que celebren con el Ejecutivo Federal, con la participación que, en su caso, corresponda a los municipios interesados. No quedan comprendidos los fondos previstos en el capítulo V de la Ley de Coordinación Fiscal.
 
 Las personas de derecho público de carácter federal con autonomía derivada de la Constitución, aplicarán los criterios y procedimientos previstos en esta Ley, en lo que no se contraponga a los ordenamientos legales que los rigen, sujetándose a sus propios órganos de control.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+Las obras públicas y servicios relacionados con las mismas, relativos a las actividades sustantivas de carácter productivo a que se refieren los artículos 3o. y 4o. de la Ley Reglamentaría del Artículo 27 Constitucional en el Ramo del Petróleo que realicen Petróleos Mexicanos y sus organismos subsidiarios quedan excluidos de la aplicación de este ordenamiento, por lo que se regirán por lo dispuesto en su Ley, salvo en lo que expresamente ésta remita al presente ordenamiento.
 
 Los contratos que celebren las dependencias con las entidades, o entre entidades y los actos jurídicos que se celebren entre dependencias, o bien, los que se lleven a cabo entre alguna dependencia o entidad de la Administración Pública Federal con alguna perteneciente a la administración pública de una entidad federativa, no estarán dentro del ámbito de aplicación de esta Ley. Cuando la dependencia o entidad obligada a realizar los trabajos no tenga la capacidad para hacerlo por sí misma y contrate a un tercero para llevarlos a cabo, este acto quedará sujeto a este ordenamiento.
 
@@ -1389,3 +1393,9 @@ D.O.F. 1 DE OCTUBRE DE 2007.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Se derogan el artículo 41 de la Ley del Servicio de Tesorería de la Federación y las demás disposiciones que se opongan a lo previsto en el presente Decreto.
+
+D.O.F. 28 DE NOVIEMBRE DE 2008.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abrogan o derogan todas las demás disposiciones que se opongan a lo establecido en esta Ley.
