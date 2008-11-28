@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-materno-infantil-del-29292"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-25"
-last_updated: "2003-02-25"
+last_updated: "2008-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29292&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL INSTITUTO MATERNO INFANTIL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOB IERNO: 28 DE NOVIEMBRE DE 2008.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 25 de febrero de 2003.
 
 EL CONSEJO INTERNO DEL INSTITUTO MATERNO INFANTIL DEL ESTADO DE MEXICO, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO 2.14 DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO, EN SESION ORDINARIA CELEBRADA EL VEINTIDOS DE ENERO DE DOS MIL TRES; Y
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
+
+.
 
 En razón de lo anterior, ha tenido a bien expedir el siguiente:
 
@@ -59,9 +61,11 @@ V. Unidades Médico-Administrativas, a las Unidades de Apoyo, Direcciones, Subdi
 
 El Instituto es un organismo público descentralizado con personalidad jurídica y patrimonio propios, que tiene por objeto la investigación, enseñanza y prestación de servicios de alta especialidad en el rubro materno infantil.
 
-###### Artículo 4.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2008)</small>
 
-El Instituto se sujetará a lo dispuesto por el Código, por la Ley de Planeación del Estado de México y Municipios, por la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y su reglamento, y por las demás disposiciones aplicables; y conducirá sus actividades en forma programada, con base en el Plan de Desarrollo del Estado de México y en los programas a su cargo.
+###### Articulo 4.
+
+El Instituto se sujetará a lo dispuesto por el Código, por la Ley de Planeación del Estado de México y Municipios, por la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y su Reglamento, y por las demás disposiciones aplicables; asimismo, conducirá sus actividades en forma programada, con base en el Plan de Desarrollo del Estado de México y en los programas a su cargo o en los que participe en razón de sus atribuciones.
 
 ###### Artículo 5.
 
@@ -91,11 +95,21 @@ II. Un Secretario, quien será nombrado por el Consejo a propuesta de su Preside
 
 III. Un Comisario, quien será el representante de la Secretaría de la Contraloría.
 
-IV. Dos Vocales, quienes serán:
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
 
-a) Un representante de la Secretaría de Finanzas y Planeación.
+IV. Cinco Vocales, quienes serán:
 
-b) Un representante de la Secretaría de Administración.
+a) Un representante de la Secretaria de Finanzas.
+
+b) Un representante de la Secretaría de Educación.
+
+c) Un representante del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+d) Un representante de la Junta de Asistencia Privada del Estado de México.
+
+A invitación del Presidente:
+
+e) Un representante de la Universidad Autónoma del Estado de México.
 
 Por cada uno de los integrantes del Consejo habrá un suplente propuesto por el propietario, quien fungirá con voz y voto, a excepción de aquellos a los que se refieren las fracciones II y III del presente artículo, quienes sólo tendrán voz. El cargo de integrante del Consejo será honorífico.
 
@@ -183,7 +197,25 @@ XII. Coordinar sus actividades con los titulares de las demás unidades administ
 
 XIII. Asesorar y apoyar técnicamente en asuntos de su competencia a los servidores públicos que lo soliciten.
 
-XIV. Las demás que les confieren otras disposiciones legales y aquellas que les encomiende el Director General.
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+
+XIV. Establecer lineamientos y mecanismos técnico-administrativos para mejorar el desempeño de la unidad administrativa a su cargo, así como la calidad de los servicios que se ofrecen.
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+
+XV. Proponer al Director General la suscripción de los acuerdos, convenios y contratos que se requieran para el cumplimiento del objeto del Instituto y ejecutar las acciones que, en el ámbito de su competencia, les correspondan.
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+
+XVI. Participar, en el ámbito de su competencia, en la elaboración, actualización y aplicación de los reglamentos, manuales administrativos y de cualquier otra disposición de carácter general que regule la organización y el funcionamiento del Instituto.
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+
+XVII. Emitir constancias y expedir copias certificadas de los documentos existentes en sus archivos, cuando se refieran a asuntos de su competencia.
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+
+XVIII. Las demás que les confieren otras disposiciones legales y aquellas que les encomiende el Director General.
 
 Quedan excluidos de esta disposición los Directores de Hospitales y del Centro de Especialidades.
 
@@ -213,7 +245,13 @@ IX. Impulsar el desarrollo de los proyectos de investigación científica, a tra
 
 X. Apoyar y supervisar el desempeño de los comités técnico, médicos y hospitalarios.
 
-XI. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Director General.
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+
+XI. Aplicar los recursos conferidos a la investigación y enseñanza médica.
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+
+XII. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Director General.
 
 ###### Artículo 16.
 
@@ -225,17 +263,37 @@ II. Supervisar el cumplimiento de los programas y acciones en materia de salud m
 
 III. Realizar supervisiones periódicas a las unidades médicas, a fin de verificar la calidad de los servicios que proporcionan y sugerir, en su caso, medidas correctivas.
 
-IV. Programar, coordinar y supervisar, con los titulares de las unidades médicas, el desarrollo oportuno de de campañas de vacunación, epidemiología, y medicina preventiva a cargo del Instituto.
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
 
-V. Integrar el catálogo de insumos de medicamentos, de acuerdo con el nivel de atención y difundirlo entre el personal usuario.
+IV. Programar, coordinar y supervisar, con los titulares de las unidades médicas, el desarrollo oportuno de los programas orientados a mejorar la atención médica.
 
-VI. Coordinar las acciones que realizan los comités técnicos, médicos y hospitalarios.
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+
+V. Integrar el catálogo de insumos de medicamentos, de acuerdo con el nivel de atención que se otorga y difundirlo entre el personal usuario.
+
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+
+VI. Coordinar y supervisar las acciones que realizan los comités técnicos, médicos y hospitalarios.
 
 VII. Apoyar a los comités interinstitucionales en el desarrollo de sus funciones.
 
 VIII. Proponer mecanismos de coordinación con instituciones estatales y federales vinculadas con el sector salud.
 
-IX. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Director General.
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+
+IX. Promover, fomentar, ejecutar y vigilar, en coordinación con las autoridades competentes, el cumplimiento de las normas, programas y acciones de control epidemiológico y de prevención y control de enfermedades.
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+
+X. Participar en la formulación de los programas de adquisiciones de insumos para la salud.
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+
+XI. Operar mecanismos para el cumplimiento de la normatividad en materia de salud y colaborar en la ejecución de los programas establecidos en la materia.
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+
+XII. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Director General.
 
 ###### Artículo 17.
 
@@ -269,7 +327,21 @@ XIII. Elaborar y presentar al Director General los estados financieros del Insti
 
 XIV. Coordinar los procesos de entrega y recepción de las unidades administrativas del Instituto.
 
-XV. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Director General.
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+
+XV. Elaborar proyecciones financieras y demás información económica relativa, así como los requerimientos programáticos de las unidades administrativas del Instituto.
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+
+XVI. Difundir las normas, políticas y procedimientos relativos a los sistemas de adquisición, almacenamiento, distribución y control de bienes de activo fijo, articulas de consumo y para la prestación de servicios, así como verificar su cumplimiento.
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+
+XVII. Coadyuvar en el desarrollo y establecimiento de sistemas integrales de planeación para la programación, evaluación y presupuestación de los recursos del Instituto.
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+
+XVIII. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Director General.
 
 ###### Artículo 18.
 
@@ -279,7 +351,9 @@ I. Intervenir en la regularización de la propiedad de los bienes inmuebles que 
 
 II. Otorgar asistencia jurídica a las unidades administrativas del Instituto cuando así lo requieran e intervenir como representante del Organismo en asuntos jurídicos.
 
-III. Elaborar y revisar los convenios o contratos que pretenda celebrar el Instituto, procurando la protección de sus intereses.
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+
+III. Coordinar y participar en la elaboración de proyectos de reglamentos, acuerdos, convenios, contratos y demás disposiciones jurídicas que se requieran para e! (sic) funcionamiento del Instituto.
 
 IV. Compilar las leyes, reglamentos, decretos, acuerdos, convenios y demás disposiciones legales de carácter federal y estatal aplicables al Instituto.
 
@@ -341,9 +415,19 @@ VI. Participar en la operación del sistema integral de enseñanza, capacitació
 
 VII. Coadyuvar en la integración del catálogo de insumos de medicamentos necesarios para atender las demandas presentadas ante la unidad médica a su cargo.
 
-VIII. Acordar con su superior inmediato todas aquellas funciones inherentes al área de su competencia.
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
 
-IX. Las demás que les confieren otros ordenamientos legales y aquellas que les encomiende el Director de Servicios Médicos.
+VIII. Reducir el monto de la cuota de recuperación tomando como base el estudio socioeconómico practicado al
+
+paciente.
+
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+
+IX. Acordar con su superior inmediato todas aquellas funciones inherentes al área de su competencia.
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+
+X. Las demás que les confieren otros ordenamientos legales y aquellas que les encomiende el Director de Servicios Médicos.
 
 ### CAPITULO VII. DE LAS ATRIBUCIONES DE LA CONTRALORIA INTERNA
 
@@ -410,3 +494,13 @@ DR. JOSE ENRIQUE DUEÑAS MILLAN
 SECRETARIO DEL CONSEJO INTERNO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+G.G. 28 DE NOVIEMBRE DE 2008.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
