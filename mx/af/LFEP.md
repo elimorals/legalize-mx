@@ -4,7 +4,7 @@ identifier: "LFEP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1986-05-14"
-last_updated: "2006-08-21"
+last_updated: "2008-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=292&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFEP"
 
 LEY FEDERAL DE LAS ENTIDADES PARAESTATALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 14 de mayo de 1986.
 
@@ -61,6 +61,10 @@ Las entidades de la Administración Pública Federal que sean reconocidas como C
 > <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2006)</small>
 
 La Comisión Nacional de los Derechos Humanos, la Procuraduría Agraria, la Procuraduría Federal del Consumidor y la Agencia de Noticias del Estado Mexicano, atendiendo a sus objetivos y a la naturaleza de sus funciones, quedan excluidas de la observancia del presente ordenamiento.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+Petróleos Mexicanos y los organismos subsidiarios, creados por ley o decreto expedido por el Ejecutivo Federal, cualquiera que sea la estructura jurídica que adopten, se regularan por sus propias leyes o decretos de creación. Esta Ley se aplicará sólo en lo que no se oponga o en lo no previsto por aquéllas. Los decretos antes referidos que, en su caso, expida el Ejecutivo Federal, invariablemente deberán cumplir y apegarse a lo dispuesto por la Ley de Petróleos Mexicanos y la presente Ley, en lo que resulten compatibles entre sí.
 
 ###### ARTICULO 4o.
 
@@ -677,3 +681,9 @@ D.O.F. 21 DE AGOSTO DE 2006.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Los Centros Públicos de Investigación contarán con un plazo de un año para celebrar el convenio de administración por resultados que establece el artículo 59 de la Ley de Ciencia y Tecnología del presente Decreto.
+
+D.O.F. 28 DE NOVIEMBRE DE 2008.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo establecido en este Decreto.
