@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-reguladora-de-energia-873"
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-31"
-last_updated: "1998-01-23"
+last_updated: "2008-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=873&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1995-10-30"
 
 LEY DE LA COMISION REGULADORA DE ENERGIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2008.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 31 de octubre de 1995.
 
@@ -39,9 +39,11 @@ LEY DE LA COMISION REGULADORA DE ENERGIA
 
 ### CAPITULO I. Naturaleza y Atribuciones
 
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 1.
 
-La Comisión Reguladora de Energía, órgano desconcentrado de la Secretaría de Energía, gozará de autonomía técnica y operativa en los términos de esta Ley.
+La Comisión Reguladora de Energía, órgano desconcentrado de la Secretaría de Energía, gozará de autonomía técnica, operativa, de gestión y de decisión en los términos de esta Ley.
 
 ###### ARTICULO 2.
 
@@ -55,13 +57,19 @@ III. La adquisición de energía eléctrica que se destine al servicio público;
 
 IV. Los servicios de conducción, transformación y entrega de energía eléctrica, entre las entidades que tengan a su cargo la prestación del servicio público de energía eléctrica y entre éstas y los titulares de permisos para la generación, exportación e importación de energía eléctrica;
 
-V. Las ventas de primera mano de gas natural y gas licuado de petróleo;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
-VI. El transporte y el almacenamiento de gas natural que no sean indispensables y necesarios para interconectar su explotación y elaboración;
+V. Las ventas de primera mano del gas, del combustóleo y de los petroquímicos básicos. Por venta de primera mano se entenderá la primera enajenación que Petróleos Mexicanos y sus subsidiarios realicen en territorio nacional a un tercero y para los efectos de esta Ley se asimilarán a éstas las que realicen a terceros las personas morales que aquellos controlen;
 
-VII. La distribución de gas natural, y
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
-VIII. El transporte y la distribución de gas licuado de petróleo por medio de ductos.
+VI. El transporte y distribución de gas, de los productos que se obtengan de la refinación del petróleo y de los petroquímicos básicos, que se realice por medio de ductos, así como los sistemas de almacenamiento que se encuentran directamente vinculados a los sistemas de transporte o distribución por ducto, o que forman parte integral de las terminales de importación o distribución, de dichos productos;
+
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+VII. El transporte y distribución de bioenergéticos que se realice por ductos, así como el almacenamiento de los mismos que se encuentren directamente vinculado a los sistemas de transporte o distribución por ducto, así como las terminales de importación o distribución de dichos productos;
+
+VIII. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2008)
 
 Para los efectos de esta Ley, se entenderá por actividades reguladas las mencionadas en las fracciones anteriores.
 
@@ -83,25 +91,41 @@ V. Aprobar las metodologías para el cálculo de las contraprestaciones por los 
 
 VI. Opinar, a solicitud de la Secretaría de Energía, sobre la formulación y seguimiento del programa sectorial en materia de energía; sobre las necesidades de crecimiento o sustitución de capacidad de generación del sistema eléctrico nacional; sobre la conveniencia de que la Comisión Federal de Electricidad ejecute los proyectos o que los particulares sean convocados para suministrar la energía eléctrica y, en su caso, sobre los términos y condiciones de las convocatorias y bases de licitación correspondientes;
 
-VII. Aprobar los términos y condiciones a que deberán sujetarse las ventas de primera mano de gas natural y de gas licuado de petróleo y expedir las metodologías para la determinación de sus precios, salvo que existan condiciones de competencia efectiva a juicio de la Comisión Federal de Competencia.
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
-Si existiendo condiciones de competencia efectiva, la Comisión Federal de Competencia determina que al realizar las ventas de primera mano de gas natural o de gas licuado de petróleo se acude a prácticas anticompetitivas, la Comisión Reguladora de Energía restablecerá los términos y condiciones a que dichas ventas deban sujetarse;
+VII. Aprobar y expedir los términos y condiciones a que deberán sujetarse las ventas de primera mano del combustóleo, del gas y de los petroquímicos básicos, así como las metodologías para la determinación de sus precios, salvo que existan condiciones de competencia efectiva a juicio de la Comisión Federal de Competencia, o que sean establecidos por el Ejecutivo Federal mediante Acuerdo.
 
-VIII. Aprobar los términos y condiciones a que deberá sujetarse la prestación de los servicios de transporte, almacenamiento y distribución de gas natural, a que se refieren las fracciones VI y VII del artículo 2 de esta Ley;
+Si habiendo existido condiciones de competencia efectiva la Comisión Federal de Competencia determina que se acude a prácticas anticompetitivas al realizar las ventas de primera mano a que se refiere esta fracción, la Comisión Reguladora de Energía restablecerá los términos y condiciones a que dichas ventas y enajenaciones deban sujetarse;
 
-IX. Aprobar los términos y condiciones a que deberá sujetarse la prestación de los servicios de transporte y distribución de gas licuado de petróleo por medio de ductos;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
-X. Expedir las metodologías para el cálculo de las contraprestaciones por los servicios a que se refieren las dos fracciones anteriores, salvo que existan condiciones de competencia efectiva a juicio de la Comisión Federal de Competencia;
+VIII. Aprobar y expedir los términos y condiciones a que deberá sujetarse la prestación de los servicios de transporte, almacenamiento y distribución, a que se refieren las fracciones VI y VII del artículo 2 de esta Ley;
 
-XI. Solicitar a la Secretaría de Energía la aplicación de las medidas necesarias para garantizar la continuidad de los servicios a que se refieren las fracciones VIII y IX anteriores;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+IX. Determinar las zonas geográficas exclusivas de distribución de los productos y actividades, regulados conforme al artículo 2 de esta Ley, considerando los elementos que permitan el desarrollo rentable y eficiente de los sistemas de distribución. Para efectos de lo anterior, la Comisión escuchará la opinión de las autoridades competentes, incluyendo las de desarrollo urbano;
+
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+X. Expedir las metodologías para el cálculo de las contraprestaciones por los servicios a que se refiere la fracción VIII de este artículo, salvo que existan condiciones de competencia efectiva a juicio de la Comisión Federal de Competencia, así como en relación con las actividades reguladas por esta Ley, y establecer los términos y condiciones a que deberán sujetarse los sistemas de transporte y almacenamiento que formen parte de sistemas integrados y las tarifas de los sistemas que correspondan en las condiciones generales de los servicios de cada permisionario que se trate;
+
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+XI. Solicitar a la Secretaría de Energía la aplicación de las medidas necesarias para garantizar la continuidad de los servicios a que se refiere la fracción VIII anterior;
 
 XII. Otorgar y revocar los permisos y autorizaciones que, conforme a las disposiciones legales aplicables, se requieran para la realización de actividades reguladas;
 
-XIII. Aprobar modelos de convenios y contratos de adhesión para la realización de las actividades reguladas;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
-XIV. Expedir disposiciones administrativas de carácter general, aplicables a las personas que realicen actividades reguladas;
+XIII. Aprobar y expedir modelos de convenios y contratos de adhesión para la realización de las actividades reguladas;
 
-XV. Proponer a la Secretaría de Energía actualizaciones al marco jurídico del sector de energía, y participar con las dependencias competentes en la formulación de los proyectos de iniciativas de leyes, decretos, disposiciones reglamentarias y normas oficiales mexicanas relativas a las actividades reguladas;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+XIV. Expedir y vigilar el cumplimiento de las disposiciones administrativas de carácter general, aplicables a las personas que realicen actividades reguladas;
+
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+XV. Proponer a la Secretaría de Energía actualizaciones al marco jurídico en el ámbito de su competencia, así como los términos en los que la Comisión pueda participar con las dependencias competentes en la formulación de los proyectos de iniciativas de leyes, decretos, disposiciones reglamentarias y normas oficiales mexicanas relativas a las actividades reguladas;
 
 XVI. Llevar un registro declarativo y con fines de publicidad, sobre las actividades reguladas;
 
@@ -113,7 +137,9 @@ XIX. Ordenar visitas de verificación, requerir la presentación de información
 
 XX. Imponer las sanciones administrativas previstas en los artículos 40 y 41 de la Ley del Servicio Público de Energía Eléctrica, a quienes incurran en los supuestos de las fracciones V y VI del artículo 40 de dicho ordenamiento;
 
-XXI. Imponer las sanciones administrativas previstas en el artículo 15 de la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo, por infracciones a las disposiciones de esa Ley y sus disposiciones reglamentarias en las actividades de transporte, almacenamiento y distribución de gas natural, y de transporte y distribución de gas licuado de petróleo por medio de ductos, y
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXI. Ordenar las medidas de seguridad e imponer en el ámbito de su competencia, las sanciones administrativas previstas en la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo y en la Ley de Promoción y Desarrollo de los Bioenergéticos, por infracciones a las disposiciones de esas leyes y sus disposiciones reglamentarias en las actividades reguladas, y
 
 XXII. Las demás que le confieran las leyes reglamentarias del Artículo 27 Constitucional y otras disposiciones jurídicas aplicables.
 
@@ -123,7 +149,13 @@ XXII. Las demás que le confieran las leyes reglamentarias del Artículo 27 Cons
 
 La Comisión estará integrada por cinco comisionados, incluyendo al Presidente de la misma. Los comisionados deliberarán en forma colegiada y decidirán los asuntos por mayoría de votos, teniendo su Presidente voto de calidad.
 
-Las resoluciones de la Comisión se inscribirán en el registro a que se refiere la fracción XVI del artículo 3 de esta Ley.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+La Comisión gozará de plena autonomía para emitir sus decisiones, mismas que se inscribirán en el registro a que se refiere la fracción XVI del artículo 3 de esta Ley. En las decisiones fundadas y motivadas que sean aprobadas por la Comisión no podrá alegarse un daño o perjuicio en la esfera económica de las personas que realicen actividades reguladas.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+La Comisión contará con las instancias, unidades administrativas y servidores públicos necesarios para la consecución de su objeto.
 
 ###### ARTICULO 5.
 
@@ -137,9 +169,11 @@ II. Haberse desempeñado en forma destacada en cuestiones profesionales o acadé
 
 III. No tener conflicto de interés con empresas dedicadas a las actividades reguladas o vinculadas a éstas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 6.
 
-Los comisionados serán designados para períodos escalonados de cinco años, renovables. Durante cada período sólo podrán ser removidos por:
+Los comisionados serán designados por períodos escalonados de cinco años de sucesión anual e inicio el 1 de enero del año respectivo, con posibilidad de ser designados, nuevamente, por única ocasión por un período igual. La vacante que se produzca en un cargo de comisionado será cubierta por la persona que designe el Ejecutivo Federal en términos del artículo 5 de esta Ley. Si la vacante se produce antes de la terminación del período respectivo, la persona que se designe para cubrirla durará en su encargo sólo el tiempo que le faltare desempeñar a la sustituida, pudiendo ser designada nuevamente al término de ese período. Durante cada período sólo podrán ser removidos por:
 
 I. Causa que así lo amerite de conformidad con la Ley Federal de Responsabilidades de los Servidores Públicos, y
 
@@ -165,7 +199,9 @@ VI. Nombrar y remover al resto del personal de la Comisión, salvo el personal d
 
 VII. Formular anualmente el anteproyecto de presupuesto de la Comisión, el cual será aprobado por la misma;
 
-VIII. Publicar un informe anual sobre el desempeño de las funciones de la Comisión, y
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+VIII. Publicar un informe anual que deberá ser enviado al Congreso de la Unión y que deberá incluir, entre otros elementos sobre el desempeño de las funciones de la Comisión, lo siguiente: un registro de los permisos otorgados durante el año; un listado de las solicitudes de permisos no otorgados durante el año y la fundamentación de las deliberaciones adoptadas por los comisionados, y
 
 IX. Las demás que le confieran las leyes y reglamentos.
 
@@ -183,15 +219,31 @@ El procedimiento arbitral que propongan quienes realizan actividades reguladas, 
 
 Los usuarios o solicitantes de servicios que tengan el carácter de consumidores en los términos de la Ley Federal de Protección al Consumidor, resolverán sus controversias conforme a lo establecido en dicha Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 10.
 
-El otorgamiento de permisos para la prestación de los servicios de transporte y distribución de gas natural o gas licuado de petróleo por medio de ductos implicará la declaratoria de utilidad pública para el tendido de los ductos en predios de propiedad pública, social y privada, de conformidad con el trazado aprobado por la Comisión en coordinación con las demás autoridades competentes.
+El otorgamiento de permisos para la prestación de los servicios de transporte, distribución y almacenamiento, a que se refieren las fracciones VI y VII del artículo 2 de esta Ley, implicará la declaratoria de utilidad pública para el tendido de los ductos y construcciones en predios de propiedad pública, social y privada, de conformidad con el trazado aprobado por la Comisión en coordinación con las demás autoridades competentes.
 
 La Comisión promoverá los actos jurídicos que se requieran para el tendido de los ductos.
 
 ###### ARTICULO 11.
 
 En la vía administrativa, contra los actos de la Comisión sólo podrá interponerse el recurso de reconsideración, el cual se resolverá por la propia Comisión conforme a las disposiciones del Título Sexto de la Ley Federal de Procedimiento Administrativo.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTICULO 12.
+
+Las personas físicas y morales sujetas conforme a esta y otras leyes a la supervisión o regulación de la Comisión y aquellas que reciban servicios por parte de ésta, deberán cubrir los derechos correspondientes, en los términos de las disposiciones legales aplicables.
+
+Será causal de revocación de los permisos otorgados por la Comisión para la prestación de actividades reguladas que el permisionario incumpla, de manera continua, en el pago de derechos por los servicios de supervisión de los permisos que otorga la Comisión. Se considera que el incumplimiento sea continuo cuando el permisionario omita el pago de derechos señalados en este párrafo por más de un ejercicio fiscal.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTICULO 13.
+
+La Comisión Reguladora de Energía interpretará y aplicará para efectos administrativos esta Ley.
 
 ## TRANSITORIOS
 
@@ -208,3 +260,11 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 23 DE ENERO DE 1998.
 
 ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 28 DE NOVIEMBRE DE 2008.
+
+Primero.- El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Cámara de Diputados proveerá lo necesario en el Presupuesto de Egresos de la Federación para que la Secretaría de Energía cuente con los recursos humanos y materiales necesarios para que la Comisión dé cabal cumplimiento a las atribuciones conferidas con motivo del presente Decreto.
+
+Tercero.- Respecto de los comisionados que al inicio de la vigencia de este Decreto hubiesen sido designados por el Ejecutivo Federal y cuyos nombramientos expiren los días 24 de febrero de 2009, 14 de diciembre de 2010, 31 de agosto y 31 de octubre de 2011 y 15 de noviembre de 2012, sus períodos de gestión vencerán los días 31 de diciembre de los años 2009, 2010, 2011, 2012 y 2013, por única vez, como excepción a lo establecido en el artículo 6 de esta Ley.
