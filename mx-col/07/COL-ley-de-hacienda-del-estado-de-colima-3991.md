@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2007-12-22"
+last_updated: "2008-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 2008.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -387,6 +387,10 @@ Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de u
 
 Artículo 41 C.- Este impuesto se determinará y liquidará, aplicando a la base a que se refiere el artículo anterior, la tasa del 2%.
 
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
+
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 D.- Cuando los contribuyentes convengan la prestación de servicios de hospedaje con otros servicios accesorios incluidos, tales como transportación, alimentos, bebidas, uso de instalaciones u otros similares, deberán desglosar el monto que corresponda a hospedaje y sobre dicha cantidad calcularan el impuesto.
@@ -398,10 +402,6 @@ Artículo 41 C BIS-1.- Los contribuyentes enterarán el impuesto mediante declar
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Si el contribuyente opera en dos o mas establecimientos, presentará declaración por cada uno de ellos, sustituyendo la homoclave del Registro Federal de Contribuyentes por una determinante numérica de tres dígitos diferente para cada establecimiento, la cual será progresiva, a partir del 001.
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
@@ -1065,9 +1065,19 @@ b).- Por la expedición o refrendo de gafetes de representación y gestoría 1.0
 
 Los derechos de refrendo a que se refieren los incisos a) y b) que anteceden, deberán tramitarse durante los meses de enero y febrero
 
-> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIII.- Por la aplicación de examen para determinar estado de ebriedad, en caso de resultar positivo 5.000
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+XIII.- Por la aplicación de examen para determinar estado toxicológico por alcohol y/o drogas o sustancias enervantes o psicotrópicas en los conductores, con apoyo de alcoholímetro y revisión médica ocular 2.000
+
+De requerirse la utilización de reactivos y apoyo de laboratorio, si se confirma el estado toxicológico, el conductor examinado pagará además 5.000
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+XIV.- Por la colocación temporal de dispositivo físico de monitoreo a vehículos que transportan productos o sustancias peligrosas, por evento 100.000
 
 ###### Artículo 51.
 
@@ -1645,6 +1655,12 @@ n).- (DEROGADO, P.O. 28 DE DICIEMBRE DE 2005)
 
 ñ).- Por cada copia fotostática de planos de fraccionamiento 4.600
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+o). Copia fotostática simple por mancha ejidal y por hoja. 2.300
+
 II.- Certificaciones:
 
 a).- Certificaciones de documentos catastrales a solicitud del interesado 1.800
@@ -1864,6 +1880,32 @@ X.- Por cartografía en formato digital por cada mancha urbana que incluya:
 a).- Archivo en formato "Shape", manzanas y predios 100.000
 
 b).- Por cada capa adicional 50.000
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+XI.- Por cartografía a escala 1:1,000 en formato digital de los distintos polígonos ejidales parcelarios o solares, así como de predios de pequeña propiedad por municipio:
+
+a).- Archivos DXF (predios) 75.000
+
+b).- Por cada capa adicional 20.000
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+XII.- Por cartografía en formato digital por cada mancha ejidal parcelaria o solar, así como de predios de pequeña propiedad por municipio:
+
+a).- Archivos DXF (predios) 100.000
+
+b).- Por cada capa adicional 50.000
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+XIII.- Por búsqueda en los archivos históricos catastrales 1.000
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -2497,9 +2539,11 @@ II.- Recepción, evaluación y otorgamiento del resolutivo de la manifestación 
 
 2.- En su modalidad MIA-2 120.000
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- Por la recepción, evaluación y en su caso otorgamiento del refrendo de la autorización o ampliación de vigencia:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+III.- Por la recepción, evaluación y en su caso otorgamiento del refrendo del resolutivo o ampliación de vigencia:
 
 1.- En su modalidad de informe de factibilidad: 10.000
 
@@ -2515,9 +2559,11 @@ III.- Por la recepción, evaluación y en su caso otorgamiento del refrendo de l
 
 5.- En su modalidad de riesgo ambiental 20.000
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- Por la recepción, evaluación y otorgamiento del resolutivo del manifiesto de riesgo ambiental 30.000
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+IV.- Por la recepción, evaluación y otorgamiento del resolutivo del manifiesto de riesgo ambiental 70.000
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
@@ -2667,11 +2713,19 @@ Numero de días de salario mínimo
 
 I.- Expedición de títulos 9.900
 
-II.- Expedición de certificados de estudio para dentro y fuera del Estado 0.860
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- Expedición de certificados originales y duplicados de academias incorporadas a la educación oficial del Estado 1.620
+II.- (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2008)
 
-IV.- Expedición de constancias 1.670
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+III.- Expedición de certificados, originales y duplicados así como constancias o diplomas originales y/o certificaciones de capacitación para y en el trabajo, educación media y superior, incorporados a la educación oficial del Estado 1.620
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+IV.- (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2008)
 
 > <small>(REFORMADA PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -2685,11 +2739,19 @@ c).- Primaria 35.990
 
 d).- Secundaria 44.990
 
-e).- Academias comerciales, contador privado, secretaria ejecutiva, taquígrafa e idiomas 40.490
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-f).- Academias de belleza, corte y confección de ropa y alta costura 31.490
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
-g).- Instituto de computación 58.480
+e).- Capacitación para y en el trabajo 43.486
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+f).- (DEROGADO, P.O. 29 DE NOVIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+g).- (DEROGADO, P.O. 29 DE NOVIEMBRE DE 2008)
 
 h).- Bachillerato 62.980
 
@@ -2729,9 +2791,17 @@ g).- Técnico superior 0.960
 
 h).- Postgrado 0.960
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Para la determinación del número de alumnos, se tomará como base la estadística inicial del ciclo escolar inmediato anterior.
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+i).- Capacitación para y en el trabajo 0.800
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+Para la determinación del número de alumnos, se tomará como base la estadística inicial del ciclo escolar en curso.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -2773,9 +2843,41 @@ a).- Media superior 900.000
 
 b).- Técnico superior universitario o profesional asociado 1,200.000
 
-c) Licenciatura 1,2000.000
+c).- Licenciatura 1,2000.000
 
-d) Postgrado 1,500.000
+d).- Postgrado 1,500.000
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+e).- Capacitación para y en el trabajo 707.000
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+Artículo 57 A.- Por los servicios prestados en la Dirección Estatal de Profesiones, se pagarán los siguientes derechos:
+
+NUMERO DE
+
+DIAS DE
+
+SALARIO MINIMO
+
+I.- Por gestión de registro de título de licenciatura, registro de título de grado académico, registro de diploma de especialidad, expedición de cédula profesional, expedición de duplicado, autorización para ejercer como pasante, constancia de registro y no sanción, constancia de antecedentes profesionales 4.040
+
+II.- Por el pago de timbre de holograma como registro de título 1.212
+
+III.-Por gestión de registro de instituciones educativas 20.202
+
+IV.- Por autorización y registro estatal de Colegios Profesionistas 127.858
+
+V.- Por enmienda al registro estatal de un colegio de profesionistas:
+
+a).- Registro de Consejo Directivo 11.616
+
+b).- Registro por cada socio 0.464
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -2787,69 +2889,117 @@ Numero de días de salario mínimo
 
 I.- Por el derecho a examen de admisión:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a).- Bachillerato 3.000
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+a).- Bachillerato 3.700
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 b).- Licenciatura 4.500
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+c).- Posgrado 8.000
+
 II.- Por inscripción:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a).- Bachillerato 7.500
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+a).- Bachillerato 12.200
 
-b).- Licenciatura 10.000
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+b).- Licenciatura 18.500
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+c).- Licenciatura en modalidad mixta 60.600
 
 III.- Por exámenes de regularización:
 
 a).- Bachillerato:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-1.- Primera oportunidad 2.000
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+1.- Primera oportunidad 3.000
 
-2.- Segunda oportunidad 2.500
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
-3.- Tercera oportunidad 3.000
+2.- Segunda oportunidad 3.500
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+3.- Tercera oportunidad 4.000
 
 b).- Licenciatura:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-1.- Primera oportunidad 2.500
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+1.- Primera oportunidad 3.500
 
-2.- Segunda oportunidad 3.000
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
-3.- Tercera oportunidad 3.500
+2.- Segunda oportunidad 4.000
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- Por expedición de duplicados de certificados de estudios 1.500
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
+3.- Tercera oportunidad 4.500
 
-V.- Por expedición de constancias de estudio 1.000
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+c).- Posgrado, única oportunidad 6.000
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+IV.- Por expedición de duplicados de certificados de estudios 2.500
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+V.- Por expedición de constancias de estudio 2.000
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 VI.- Por trámites de baja 1.000
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII.- Por exámenes profesionales 19.000
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+VII.- Por exámenes profesionales
+
+a).- Licenciatura 24.240
+
+b).- Posgrado 50.500
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
 
@@ -2857,7 +3007,11 @@ VIII.- Por la inscripción semestral o ciclo equivalente a estudios de postgrado
 
 a).- Especialidad 160.000
 
-b).- Maestría 170.000
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+b).- Maestría 172.000
 
 c).- Doctorado 180.000
 
@@ -3087,13 +3241,15 @@ número de días
 
 de salario Mínimo
 
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- Expedición de copias simples:
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
-a).- Por la primera hoja 0.000
+I.- Expedición de copias simples en procedimientos civiles, mercantiles y sucesosrios (sic):
 
-b).- Por cada hoja más o fracción 0.000
+a).- Por la primera hoja 0.100
+
+b).- Por cada hojas (sic) más o fracción 0.040
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
 
@@ -3225,21 +3381,51 @@ V.- Bienes vacantes, tesoros ocultos, herencias, legados, donaciones y otros con
 
 VI.- Gastos de ejecución:
 
-a).- 10% por la notificación de los créditos fiscales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-b).- 10% por el embargo de bienes, y
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
-c).- 10% por el remate, enajenación fuera de remate o adjudicación al fisco estatal.
+a).- 4% por la notificación de los créditos fiscales.
 
-Estos porcentajes se aplicarán sobre el crédito fiscal insoluto y no podrá ser inferior a un salario mínimo general diario de la zona económica correspondiente al Estado de Colima, por cada diligencia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+b).- 4% por el embargo de bienes, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+c).- 4% por el remate, enajenación fuera de remate o adjudicación al fisco estatal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+Cuando en los casos de los incisos anteriores, el 4% del crédito sea inferior a dos días de salario mínimo general diario del área geográfica a la que corresponde el Estado de Colima, se cobrará está cantidad en vez del 4% del crédito.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere esta fracción, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de 400 días de salario mínimo general diario del área geográfica a la que corresponde el Estado de Colima.
 
 VII.- Honorarios por notificación:
 
-El equivalente a un día de salario mínimo general diario de la zona económica correspondiente al Estado de Colima, por cada notificación de requerimiento para el cumplimiento de obligaciones relativas a la presentación de solicitudes, avisos o declaraciones no presentadas en los plazos legales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+El equivalente a un día de salario mínimo general diario del área geográfica a la que corresponde el Estado de Colima, por cada notificación de requerimiento para el cumplimiento de obligaciones relativas a la presentación de solicitudes, avisos o declaraciones no presentadas en los plazos legales.
 
 VIII.- Gastos Extraordinarios de Ejecución;
 
-El equivalente a cinco veces el salario mínimo general diario de la zona económica correspondiente al Estado de Colima, por el transporte y almacenaje de los bienes embargados por las autoridades fiscales, hasta el remate, adjudicación en favor del fisco estatal o la recuperación de los mismos por parte de los contribuyentes, cuando dichos actos se realicen con recursos del Gobierno del Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+El equivalente a cinco días de salario mínimo general diario del área geográfica a la que corresponde el Estado de Colima, por el transporte y almacenaje de los bienes embargados por las autoridades fiscales, hasta el remate, adjudicación a favor del fisco estatal o la recuperación de los mismos por parte de los contribuyentes, cuando dichos actos se realicen con recursos del Gobierno del Estado.
 
 IX.- Subsidios.
 
@@ -3582,3 +3768,17 @@ PRIMERO.- Los contribuyentes del Impuesto a la Prestación del Servicio de Ense�
 SEGUNDO.- Para los efectos del ajuste monetario en el pago de las contribuciones a que se refiere el artículo segundo transitorio del decreto de reformas a la Ley de Hacienda del Estado, publicado en el Periódico Oficial «El Estado de Colima» el 31 de diciembre de 1997 y en el caso concreto de los derechos que se causan por los servicios prestados en los Kioscos de Servicios e Información de Gobierno, durante el año 2008 el monto se ajustará a la decena de pesos inferior más próxima con excepción de la cuota señalada en el artículo 64, fracción III, en cuyo caso la cuota será de $5.00 (cinco pesos 00/100 M.N.).
 
 TERCERO.- El presente decreto entrará en vigor el día 1° de enero de 2008, previa su publicación en el Periódico Oficial "EL ESTADO DE COLlMA".
+
+P.O. 29 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día 1° de enero de 2009, previa su publicación en el Periódico Oficial "EL ESTADO DE COLlMA".
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos del ajuste monetario en el pago de las contribuciones a que se refiere el artículo segundo transitorio del decreto de reformas a la Ley de Hacienda del Estado, publicado en el Periódico Oficial "El Estado de Colima" el 31 de diciembre de 1997 y en el caso concreto de los derechos que se causan por los servicios prestados en los Kioscos de Servicios e Información de Gobierno, durante el año 2009 el monto se ajustará a la decena de pesos inferior más próxima, con excepción de la cuota señalada en el artículo 64, fracción III, en cuyo caso la cuota será de $5.00 (cinco pesos 00/100 M.N.).
+
+###### ARTÍCULO TERCERO.
+
+Los contribuyentes del Impuesto a la Prestación del Servicio de Enseñanza y del Impuesto sobre Ejercicio de Profesiones, no estarán obligados a presentar la declaración anual del ejercicio fiscal 2008, siendo por lo tanto optativa su presentación.
