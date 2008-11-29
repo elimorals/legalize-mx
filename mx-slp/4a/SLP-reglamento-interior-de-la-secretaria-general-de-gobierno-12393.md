@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-secretaria-general-de-gobierno-12393"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-01-23"
-last_updated: "2005-06-18"
+last_updated: "2008-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2008.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de San Luis Potosí, el viernes 23 de enero de 1998.
 
@@ -59,6 +59,8 @@ a).- La Dirección de Desarrollo Político; y
 
 b).- La Dirección de Enlace Internacional.
 
+d).- (DEROGADO, P.O. 29 DE NOVIEMBRE DE 2008) (SIC)
+
 III.- La Subsecretaría Jurídica y de Servicios, integrada por:
 
 La Dirección General de Asuntos Jurídicos, de la que a su vez dependen:
@@ -77,15 +79,13 @@ e).- La Dirección del Registro Civil.
 
 f).- El Instituto de Investigaciones Jurídicas
 
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
 IV.- La Subsecretaría de Prevención y Readaptación Social, integrada por:
 
-La Dirección General de Prevención y Readaptación Social, de la que a su vez dependen:
+a).- La Dirección General de Prevención y Readaptación Social, de la que a su vez dependen las Direcciones de los Centros de Readaptación Social de la capital, así como los regionales; y
 
-a).- Las Direcciones de los Centros de Readaptación Social de la capital, así como los regionales; y
-
-b).- El Consejo Central Tutelar de Menores Infractores, de quien a su vez depende:
-
-1. La Dirección de Área, Escuela “Profesor Ángel Silva”.
+b).- La Dirección General de Ejecución de Medidas para Menores, de la que a su vez dependen los Centros de Internamiento y de Reeducación.
 
 V.- Las Coordinaciones para Asuntos Especiales en la Zona Huasteca, y en la Zona Altiplano.
 
@@ -189,9 +189,17 @@ XX.- Presidir el Consejo Estatal de Consulta Ciudadana, previendo que su funcion
 
 XXI.- Presidir la Comisión Estatal y llevar el Registro de Peritos en los términos de la ley de la materia;
 
-XXII.- Cumplir con las disposiciones establecidas por el artículo 28 de la Ley Orgánica de la Administración Pública, en un término no mayor de 90 días y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
-XXIII.- Ejercer, en forma indelegable, las demás facultades que con tal carácter le confieren las disposiciones jurídicas aplicables o le encomiende el Gobernador del Estado; (sic)
+XXII.- Cumplir con las disposiciones establecidas por el artículo 28 de la Ley Orgánica de la Administración Pública, en un término no mayor de 90 días;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+XXIII.- Recibir y tramitar a través de la Subsecretaría de Prevención y Readaptación Social, las quejas que se presenten en contra de la Dirección General de Ejecución de Medidas para Menores o los Centros de Reeducación para Menores, en términos de lo dispuesto por la Ley de Justicia para Menores del Estado, y
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+XXIV.- Ejercer, en forma indelegable, las demás facultades que con tal carácter le confieren las disposiciones jurídicas aplicables o le encomiende el Gobernador del Estado.
 
 ATRIBUCIONES DE LOS SUBSECRETARIOS.
 
@@ -423,43 +431,7 @@ XVII.- Las demás que le señalen las leyes, reglamentos, decretos, acuerdos y m
 
 ARTICULO 15 BIS.- (DEROGADO, P.O. 28 DE AGOSTO DE 2004)
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2002)</small>
-
-ARTICULO 15 TER.- Corresponde a la Dirección de Enlace Internacional el ejercicio de las siguientes atribuciones:
-
-I. Llevar a cabo las acciones necesarias para consolidar y fomentar de manera permanente las relaciones del Gobierno del Estado con organizaciones de mexicanos, y particularmente de potosinos radicados en el extranjero, a través de la implantación de diferentes programas institucionales;
-
-II. Promover en coordinación con las diversas instituciones gubernamentales, la imagen del Estado de San Luis Potosí y sus sectores ante la comunidad internacional;
-
-III. Planear y coordinar en forma permanente con las dependencias y entidades de la administración pública federal, estatal y municipal, programas y acciones tendientes a la solución de la problemática presentada por los potosinos repatriados en la entidad;
-
-IV. Coadyuvar a las diversas dependencias y entidades de la administración pública estatal, las acciones necesarias para la promoción comercial, industrial y de servicios de la entidad en aquellos lugares con mayor número de potosinos radicados en el extranjero;
-
-V. Promocionar y coordinar ante los clubes y organizaciones de potosinos radicados en el extranjero, la ejecución de obras y servicios que requieran éstos en sus lugares de origen;
-
-VI. Llevar a cabo en coordinación con las dependencias y entidades involucradas según sea el caso, las acciones necesarias para la implantación de proyectos de inversión en el área rural, para la generación de empleos en aquellas comunidades con un mayor desplazamiento de emigrantes hacia la unión americana;
-
-VII. Elaborar y mantener actualizado en coordinación con los patronatos municipales, clubes de emigrados, asociaciones y organizaciones, el padrón de potosinos radicados en el extranjero;
-
-VIII. Elaborar estudios socioeconómicos y de población, para conocer y generar alternativas de solución a la problemática que enfrentan las localidades con un mayor número de emigrados hacia los Estados Unidos;
-
-IX. Promover y coordinar con las diferentes dependencias y entidades involucradas, las actividades económicas, educativas, culturales y deportivas de la entidad, ante la comunidad potosina radicada en el extranjero;
-
-X. Asistir y dar seguimiento a los casos de potosinos sentenciados en el extranjero, en coordinación con las instituciones encargadas del área;
-
-XI. Brindar información, atención y seguimiento a los trámites y quejas de los potosinos que regresan a sus lugares de origen;
-
-XII. Promover y consolidar la instalación de comités o patronatos que fortalezcan el desarrollo de las actividades de interés común entre aquellos municipios que presentan un mayor número de emigrados y con los demás potosinos radicados en el extranjero;
-
-XIII. Coordinar con las instancias correspondientes las acciones de asesoría legal, recepción, traslado y orientación necesaria de los potosinos repatriados a sus comunidades de origen;
-
-XIV. Llevar a cabo las acciones y medidas necesarias para a (sic) elaboración y difusión de información concerniente a la problemática que presentan las comunidades de potosinos radicados en el extranjero y contribuir así a la socialización de experiencias e intercambio de perspectivas de solución, a través de las organizaciones y asociaciones conformadas para tal fin;
-
-XV. Informar periódicamente al titular de la Secretaría General de Gobierno, sobre los avances y resultados de los asuntos de su competencia;
-
-XVI. Realizar y presentar el Programa Operativo Anual y de trabajo, a la consideración del Subsecretario del Ramo; y
-
-XVII. Las demás que le señalen las leyes, decretos y acuerdos, reglamentos y manuales vigentes en la Secretaría General de Gobierno.
+ARTICULO 15 TER.- (DEROGADO, P.O. 29 DE NOVIEMBRE DE 2008)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2002)</small>
 
@@ -651,7 +623,9 @@ Competen a la Dirección General de Prevención y Readaptación Social las sigui
 
 I.- Dar cumplimiento a la Ley de Ejecución de Penas y Medidas de Seguridad para el Estado;
 
-II.- Organizar, dirigir y vigilar el sistema penitenciario del Estado, así como el Consejo Tutelar para Menores Infractores, aplicando las normas legales correspondientes;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+II.- Organizar, dirigir y vigilar el sistema penitenciario del Estado, aplicando las normas legales correspondientes;
 
 III.- Elaborar y coordinar el Programa Estatal de Prevención, Readaptación y Reinserción Sociales;
 
@@ -679,6 +653,46 @@ XIV.- Proponer la creación de patronatos que apoyen tanto a los internos durant
 
 XV.- Las demás que les señalen las leyes, reglamentos, decretos, acuerdos y manuales aplicables, así como aquéllos que les confiera la superioridad.
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
+ARTICULO 22 BIS.- Compete a la Dirección General de Ejecución de Medidas para Menores:
+
+I. Proponer al Subsecretario los criterios de organización de la misma;
+
+II. Proponer la capacitación y formación especializada del personal de las áreas respectivas así como los procedimientos de ingreso, promoción y permanencia del cargo;
+
+III. Aplicar y dar seguimiento a las medidas de orientación y protección de los menores, a través de los servidores que designe excepto la de apercibimiento, propiciando en lo posible, la colaboración de la familia y su comunidad;
+
+IV. Celebrar convenios de colaboración con las instituciones u organizaciones sociales y privadas, previa autorización del Juez de Ejecución, garantizando en todo tiempo el respecto a los derechos del menor;
+
+V. Informar al Juez Especializado sobre las alternativas de residencia para el menor, privilegiando las opciones familiares;
+
+VI. Informar al Juez de Ejecución por lo menos cada tres meses, sobre el cumplimiento y evaluación de las medidas que aplique conforme a la Ley;
+
+VII. Suscribir y someter a la aprobación del Juez de Ejecución, convenios de colaboración con dependencias e instituciones públicas y privadas, a fin de que se facilite el acceso de los menores a los centros educativos existentes;
+
+VIII. Suscribir convenios de colaboración con centros de trabajo, públicos o privados, que estén interesados en emplear a los menores;
+
+IX. Informar del estado de los menores al Juez de Ejecución, en los casos en que se percate de que el menor presenta alguna discapacidad intelectual, o bien, alguna enfermedad mental, para que sea éste quien ordene lo conducente;
+
+X. Tomar las decisiones administrativas necesarias para garantizar el cumplimiento de las medidas, excepto cuando se involucren cambios en la situación jurídica de los menores sujetos a medidas, ni cuando se comprometan sus derechos;
+
+XI. Emitir los reglamentos que rijan el cumplimiento de las medidas previstas por la Ley de Justicia para Menores del Estado;
+
+XII. Celebrar convenios de colaboración con otras instituciones u organismos públicos o privados, así como con la comunidad, con la finalidad de generar y contar con redes de apoyo, gubernamentales y no gubernamentales, así como de la sociedad civil, para la implementación de los mecanismos de ejecución de las medidas previstas en esta Ley;
+
+XIII. Conminar a los padres, familiares, responsables, tutores, quienes ejerzan la patria potestad o custodia, para que brinden apoyo y asistencia al menor durante el cumplimiento de las medidas. Para estos efectos la Dirección deberá contar con Programas de capacitación a padres, tutores, familiares, responsables, quienes ejerzan la patria potestad o custodia, en los términos de la Ley sobre los Derechos de Niñas, Niños y Adolescentes del Estado programas de escuelas para responsables de las familias programas de orientación y tratamiento en caso de alcoholismo o drogadicción programas de atención médica cursos y programas de orientación, y las demás acciones que permitan a los padres, familiares, responsables, tutores, quienes ejerzan la patria potestad o custodia, contribuir a asegurar el desarrollo integral de los menores;
+
+XIV. Elaborar los programas individualizados, para el cumplimiento de las medidas impuestas a los menores por el Juez Especializado, considerando los elementos que establece la Ley, remitiéndolo al Juez de Ejecución para su revisión respectiva;
+
+XV. Recabar la información necesaria para notificar al Juez de Ejecución de manera mensual, sobre el desarrollo del Programa Individualizado de cada uno de los menores a su cargo, haciendo énfasis en los progresos u obstáculos que se hayan presentado. Asimismo, notificar a los familiares, a los defensores y al propio menor, el contenido del informe;
+
+XVI. Solicitar, en cualquier momento, al Juez de Ejecución, la adecuación de la medida impuesta por el Juez Especializado, o la que hubiese sido determinada durante la fase de ejecución, cuando considere que el menor ha incurrido en un incumplimiento de tal gravedad que ponga en riesgo o impida la finalidad de la medida impuesta;
+
+XVII. Recibir y tramitar las quejas que se presenten debiendo realizar inmediatamente la investigación respectiva y dictar una resolución en un plazo no mayor a cinco días naturales contados a partir de la recepción de la queja de que se trate, disponiendo en su caso, las medidas precautorias necesarias para salvaguardar los derechos del agraviado mientras se resuelve la queja, y
+
+XVIII. Las demás que deriven de la Ley o que conforme a ésta le sean encomendadas por el Secretario.
+
 ###### ARTICULO 23.
 
 Competen a los Directores de los Centros de Readaptación Social las siguientes atribuciones;
@@ -705,31 +719,11 @@ X.- Proveer lo conducente para que los internos participen en las actividades la
 
 XI.- Las demás que le señalen las leyes, reglamentos, decretos, acuerdos y manuales aplicables, así como aquéllas que le confiera la Superioridad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 24.
 
-Competen al Consejo Central Tutelar para Menores Infractores, integrada por la Dirección de Área Escuela “Profesor Ángel Silva” quien fungirá como Centro de Observación y Readaptación, las siguientes atribuciones:
-
-I.- Dar cumplimiento a la Ley de Consejos Tutelares y de Readaptación Social para Menores del Estado;
-
-II.- Conocer de los casos relacionados con menores de dieciséis años y mayores de ocho que infrinjan las leyes penales y los reglamentos de policía, de transito y de buen gobierno;
-
-III.- Examinar todos los demás casos en que, aún cuando no exista alguna infracción, resulte conveniente prevenir y corregir a los menores que estén expuestos a malos ejemplos o conductas, compañías corruptoras o se encuentren en estado de abandono;
-
-IV.- Avocarse al conocimiento de los casos relacionados con menores de dieciséis años y mayores de ocho cuya conducta haga presumir fundadamente su inclinación a causar daños a la sociedad, a su familia o a sí mismos;
-
-V.- Disponer el aseguramiento de los menores y dictar las resoluciones en los casos sometidos a su conocimiento, así como emitir, cuando proceda, las órdenes para la internación de aquéllos;
-
-VI.- Dictar las medidas que estime pertinentes para alcanzar la rehabilitación de los menores;
-
-VII.- Promover la readaptación social de los menores mediante el estudio integral de su personalidad, la aplicación de medidas de preventivas, tutelares, educativa, deportivas y de protección, así como vigilar la aplicación del tratamiento que se estime pertinente para el logro de tal finalidad;
-
-VIII.- Intervenir ante las autoridades para evitar que los menores sean detenidos o recluidos en lugares destinados para adultos y denunciar, ante quien corresponda, las contravenciones que sobre el particular advierta;
-
-IX.- Coordinar a los Directores de los Consejos Tutelares Auxiliares Regionales de los diferentes municipios de la Entidad; y
-
-X.- Las demás que le señalen las leyes, reglamentos, decretos, acuerdos y manuales aplicables, así como aquéllas que le confiera la Superioridad.
+Compete al Centro de Reeducación de la Dirección General de Ejecución de Medidas para Menores, el ejercicio de las atribuciones que le señala el artículo 25 de la Ley de Justicia para Menores del Estado.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2002)</small>
 
@@ -1164,3 +1158,7 @@ Se derogan las disposiciones de igual o menor rango, que se opongan al presente 
 ###### ARTICULO SEXTO.
 
 Los derechos de antigüedad del personal proveniente de la Dirección General de Seguridad Pública, que conformarán la Dirección General de la Academia, serán respetados y quedarán a salvo conforme a las Leyes y ordenamientos vigentes, relacionados con la materia.
+
+P.O. 29 DE NOVIEMBRE DE 2008.
+
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
