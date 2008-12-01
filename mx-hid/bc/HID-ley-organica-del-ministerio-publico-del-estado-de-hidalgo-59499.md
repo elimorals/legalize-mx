@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-ministerio-publico-del-estado-de-hidalgo-59499
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-12-31"
-last_updated: "2007-12-31"
+last_updated: "2008-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -93,9 +93,13 @@ XI.- Intervenir de conformidad con lo dispuesto en la Ley de Justicia para Adole
 
 XII.- Las demás que le señalen otras disposiciones legales, Acuerdos y Convenios.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 4.
 
-La Institución del Ministerio Público en el Estado de Hidalgo, estará presidida por el Procurador General de Justicia.
+La Institución del Ministerio Público en el Estado de Hidalgo estará presidida por el Procurador General de Justicia, quien tendrá la representación legal de la misma.
 
 ###### Artículo 5.
 
@@ -131,7 +135,11 @@ XI.- Ordenar la detención o la retención de los indiciados, de conformidad a l
 
 XII.- Conceder la libertad provisional previa al indiciado, en los términos que prevé la Constitución Política de los Estados Unidos Mexicanos y consignada la averiguación previa, remitir la garantía y constancias relativas a la Autoridad Judicial;
 
-XIII.- Decretar el arraigo, en los casos y circunstancias que prevé el Código de Procedimientos Penales para el Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+XIII.- Solicitar el arraigo, en los casos y circunstancias que prevé el Código de Procedimientos Penales para el Estado;
 
 XIV.- Recibir para su debida guarda o custodia los valores, documentos y otros bienes con los que se haya garantizado la libertad provisional, la reparación del daño, multa o cualquier otra obligación a cargo del probable responsable y en su caso remitirlos a la Autoridad Judicial;
 
@@ -153,7 +161,11 @@ XXII.- Remitir a la Contraloría Interna de la Procuraduría, para su custodia, 
 
 XXIII.- Hacer del conocimiento del Procurador General, la necesidad de intervenir una comunicación privada, para los fines de la averiguación previa;
 
-XXIV.- Instruir a la policía ministerial por escrito, sobre las diligencias que deban realizar para los fines de la averiguación previa, así como ordenarle practique las citaciones, notificaciones, presentaciones y órdenes de detención que disponga;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+XXIV.- Instruir a los agentes de investigación, sobre las diligencias que deban realizar para los fines de la averiguación previa, así como ordenarles practique las citaciones, notificaciones, presentaciones y órdenes de detención que disponga;
 
 XXV.- Acordar que la audiencia se lleve a cabo a puerta cerrada, cuando se trate de un delito en contra de la moral y disponer sobre la intervención de las personas que oficialmente deban concurrir;
 
@@ -377,7 +389,7 @@ IV.- Intervenir en representación de las instituciones de beneficencia, en todo
 
 V.- Ejercitar en beneficio de los sujetos a los que se refiere éste Artículo, ante la autoridad competente, las acciones y gestiones necesarias, cuando se origine una situación de conflicto de intereses, daño o peligro para éstos;
 
-VI.- Hacer del conocimiento de la Subprocuraduría de Atención a la Familia y a la Víctima, los hechos que se desprendan de los expedientes en los que se le dé vista y que sean constitutivos de delitos generados por violencia familiar o malos tratos, en agravio de incapaces, menores de edad y adultos mayores; y
+VI.- Hacer del conocimiento de la Subprocuraduría de Atención a la Familia y a la víctima, los hechos que se desprendan de los expedientes en los que se le dé vista y que sean constitutivos de delitos generados por violencia familiar o malos tratos, en agravio de incapaces, menores de edad y adultos mayores; y
 
 VII.- Las demás que le señalen las Leyes y otras disposiciones aplicables.
 
@@ -433,7 +445,7 @@ XXIII.- Solicitar la reparación del daño para la víctima cuando proceda, y re
 
 XXIV.- Las demás que determine la Ley y otras disposiciones aplicables.
 
-En materia de justicia para adolescentes, los. Agentes del Ministerio Público en el Estado, actuarán con el carácter de Agentes del Ministerio Público Especializados.
+XXV.- En materia de justicia para adolescentes, los. Agentes del Ministerio Público en el Estado, actuarán con el carácter de Agentes del Ministerio Público Especializados.
 
 ### Capítulo III. De la Procuraduría General de Justicia del Estado Bases de Organización y Funcionamiento
 
@@ -457,7 +469,11 @@ V.- Visitaduría General;
 
 VI.- Dirección General de Averiguaciones Previas;
 
-VII.- Dirección General de la Policía Ministerial;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+VII.- Unidad Especializada en el Combate al Secuestro.
 
 VIII.- Dirección General de Servicios Periciales;
 
@@ -487,7 +503,7 @@ Los acuerdos por los cuales se disponga la creación o cambio de adscripción de
 
 ###### Artículo 23.
 
-Los titulares de las unidades administrativas de la Procuraduría, ejercerán autoridad jerárquica sobre todo el personal a su cargo y estarán facultados para ejercer las atribuciones de estas por sí mismos o a través del personal que las conforme, en términos de esta Ley y demás disposiciones aplicables; asimismo, deberán proporcionar oportunamente la información necesaria, para la elaboración del manual de organización de la Procuraduría General de Justicia del Estado, así como elaborar y mantener actualizados los manuales de procedimientos correspondientes a las áreas a su cargo.
+Los titulares de las unidades administrativas de la Procuraduría, ejercerán autoridad jerárquica sobre todo el personal a su cargo y estarán facultados para ejercer las atribuciones de estas por si mismos o a través del personal que las conforme, en términos de esta Ley y demás disposiciones aplicables; asimismo, deberán proporcionar oportunamente la información necesaria, para la elaboración del manual de organización de la Procuraduría General de Justicia del Estado, así como elaborar y mantener actualizados los manuales de procedimientos correspondientes a las áreas a su cargo.
 
 ###### Artículo 24.
 
@@ -497,9 +513,13 @@ El Procurador General considerando las necesidades del servicio establecerá, la
 
 El Procurador General, expedirá la normatividad interna necesaria para la coordinación y articulación de las unidades administrativas y las subalternas, a efecto de garantizar la unidad de actuación y dependencia jerárquica de la institución.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 26.
 
-Los agentes del Ministerio Público, de la Policía Ministerial y peritos, se organizarán de conformidad a lo dispuesto en ésta Ley, los acuerdos que emita el Procurador General y las demás disposiciones aplicables.
+Los agentes del Ministerio Público y los peritos, se organizarán de conformidad a lo dispuesto en ésta Ley, a los acuerdos que emita el Procurador General y a las demás disposiciones aplicables.
 
 ### Capítulo IV. De las Facultades y obligaciones del Procurador General de Justicia, Subprocuradores, Directores Generales, Directores y Visitador General
 
@@ -541,7 +561,7 @@ XVI.- Modificar o confirmar las conclusiones, cuando fueren de no acusación o c
 
 XVII.- Resolver en definitiva, el recurso de inconformidad interpuesto en contra de las resoluciones en que se autorice el archivo definitivo de una averiguación previa;
 
-XVIII.- Ordenar la reanudación de la investigación, respecto de otros autores o partícipes de un delito, cuando por resolución ejecutoriada dictada en el proceso, se resuelva la libertad absoluta del sujeto contra quien previamente, se había ejercitado acción penal, en virtud de no haberse demostrado su responsabilidad penal;
+XVIII.- Ordenar la reanudación de la investigación, respecto de otros autores o participes de un delito, cuando por resolución ejecutoriada dictada en el proceso, se resuelva la libertad absoluta del sujeto contra quien previamente, se había ejercitado acción penal, en virtud de no haberse demostrado su responsabilidad penal;
 
 XIX.- Vigilar la continuación de la investigación, cuando la autoridad judicial niegue la orden de aprehensión, de comparecencia o dictada la libertad por falta de elementos para procesar, por no haberse comprobado la probable responsabilidad o por desvanecimiento de los datos, que sirvieron para comprobar ésta, en los casos previstos en el Código de Procedimientos Penales;
 
@@ -553,13 +573,13 @@ XXII.- Expedir los lineamientos, bases generales, acuerdos, circulares e instruc
 
 XXIII.- Asistir teniendo solamente voz, por sí o por la persona que lo represente a los plenos del Tribunal Superior de Justicia;
 
-XXIV.- Dictar los acuerdos en los que se deleguen facultades, a los servidores públicos de la Procuraduría General de Justicia del Estado, así como en los que se desconcentren atribuciones de las unidades administrativas de ésta;
+XXIV.- Dictar los acuerdos en los que se deleguen facultades, a los Servidores públicos de la Procuraduría General de Justicia del Estado, así como en los que se desconcentren atribuciones de las unidades administrativas de ésta;
 
 XXV.- Acreditar delegados en los juicios de garantías, en los que se señalen como autoridad responsable a los servidores públicos a los que se refiere el Artículo 33 de esta Ley, para que concurran a las audiencias a efecto de que en ellas ofrezcan pruebas, aleguen o hagan promociones;
 
 XXVI.- Dirigir las actividades de la Procuraduría General de Justicia del Estado, así como coordinar la planeación, vigilancia y evaluación de las operaciones de las unidades y sus áreas, ya sean administrativas, técnicas u operativas que la integran;
 
-XXVII.- Emitir las pautas generales, para aplicar los criterios de oportunidad y otras facultades discrecionales, que deban observar los agentes del Ministerio Público especializados en justicia para adolescentes;
+XXVII.- Emitir las pautas generales, para aplicar los criterios dé oportunidad y otras facultades discrecionales, que deban observar los agentes del Ministerio Público especializados en justicia para adolescentes;
 
 XXVIII.- Unificar los criterios que se susciten, con motivo de la interpretación de las normas sustantivas y adjetivas en materia de procuración de justicia, y transmitirlos a los titulares de las unidades administrativas y sus áreas para su aplicación; así como dirimir conflictos de competencia que se presenten entre las unidades administrativas de la institución;
 
@@ -583,9 +603,13 @@ XXXVI.- Las demás que le señalen las Leyes y otras disposiciones aplicables.
 
 Para el despacho de los asuntos que al Procurador General le competen, contará con Agentes del Ministerio Público Especiales y Auxiliares, quienes conocerán de las averiguaciones previas y demás asuntos que les instruya el Procurador General; así mismo contará con el personal administrativo que determine el presupuesto, para auxiliarlo en el desempeño de su función.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 29.
 
-Los Subprocuradores además de las atribuciones específicas que esta ley, el Procurador General o demás disposiciones aplicables establecen, para cada una de sus unidades administrativas, en el ámbito de su competencia, también tendrán las siguientes facultades genéricas:
+Además de las atribuciones que se deriven de este u otros ordenamientos, los Subprocuradores, tendrán las siguientes facultades genéricas:
 
 I.- Planear, asesorar, supervisar y evaluar las acciones y el funcionamiento de la unidad administrativa a su cargo, de conformidad con los lineamientos que determine el Procurador General;
 
@@ -605,7 +629,11 @@ VIII.- Proporcionar la información y cooperación técnica, que les sean requer
 
 IX.- Establecer en coordinación con la Dirección de Informática, Estadística y Telecomunicaciones los sistemas de registro, control estadístico y seguimiento de las averiguaciones previas y causas penales; y con base en ellos proponer estrategias y acciones tendientes a mejorar la procuración de justicia;
 
-X.- Establecer con los titulares de las Direcciones de Servicios Periciales, Policía Ministerial y de Control de Procesos, métodos y lineamientos para mejorar la calidad técnica y jurídica de los partes informativos, actuaciones ministeriales y dictámenes periciales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+X.- Establecer con los titulares de las Direcciones de Averiguaciones Previas, de Servicios Periciales, y de Control de Procesos, métodos y lineamientos para mejorar la calidad técnica y jurídica de las actuaciones ministeriales y dictámenes periciales;
 
 XI.- Suscribir los documentos relativos al ejercicio de sus facultades, así como aquellos que les sean señalados por delegación o les correspondan por suplencia;
 
@@ -621,7 +649,7 @@ XVI.- Desempeñar las comisiones que el Procurador General les encomiende e info
 
 XVII.- Rendir mensualmente al Procurador General, los informes correspondientes a la actividad sustantiva de las unidades administrativas a su cargo, en el cual se evalué el trabajo tendiente a cumplir con los objetivos previstos en el Programa Estatal de Procuración de Justicia;
 
-XVIII.- Coordinar, con base en los lineamientos que señale el Procurador General, el intercambio de criterios de aplicación de técnica jurídica penal, con otras Procuradurías y órganos judiciales, para mejorar la procuración e impartición de justicia en el Estado y difundirlos para su observancia; y
+XVIII.- Coordinar, con base en los lineamientos que señale el Procuraduría General, el intercambio de criterios de aplicación de técnica jurídica penal, con otras Procuradurías y órganos judiciales, para mejorar la procuración e impartición de justicia en el Estado y difundirlos para su observancia; y
 
 XIX.- Las demás que establezcan esta Ley, les delegue el Procurador General y otras disposiciones aplicables.
 
@@ -765,7 +793,7 @@ II.- Exigir el cumplimiento de las penas, medidas de seguridad y penas sustituti
 
 III.- Supervisar que la Autoridad competente vigile a los sentenciados que disfruten de la libertad condicional, conmutación de la pena y beneficios concedidos por la Autoridad Judicial, que cumplan durante el tiempo que les faltare de la sanción con las condiciones en que les fue concedida;
 
-IV.- Elaborar el proyecto en el que se emita opinión sobre la procedencia o improcedencia de la solicitud de libertad condicional;
+IV.- Elaborar el proyecto en el que se emita opinión sobre la procedencia o Improcedencia de la solicitud de libertad condicional;
 
 V.- Promover y gestionar ante la autoridad administrativa, lo conducente a efecto de que se ejecuten las penas y medidas de seguridad impuestas en las sentencias; y
 
@@ -783,7 +811,7 @@ III.- Proponer al Procurador General para su aprobación, los proyectos en los q
 
 IV.- Desahogar las consultas jurídicas que le encomiende el Procurador General;
 
-V.- Supervisar el desempeño de los Agentes del Ministerio Público que intervengan en los juicios de amparo como autoridad responsable, para que lo realicen conforme a sus facultades y dentro del marco legal;
+V.- Supervisar el desempeño de los Agentes del Ministerio Público que intervengan en los juicios de amparó como autoridad responsable, para que lo realicen conforme a sus facultades y dentro del marco legal;
 
 VI.- Coordinar y supervisar las acciones que realicen los Agentes del Ministerio Público, con base en las normas aplicables y criterios institucionales que se establezcan;
 
@@ -899,9 +927,41 @@ VI.- Coordinar las acciones de la Subcoordinación de Atención Interdisciplinar
 
 VII.- Vigilar el cumplimiento de los lineamientos para que la víctima sea interrogada de forma que se respete su situación personal, sus derechos y su dignidad; y
 
-VIII.- Las que le otorguen esta Ley, le encomiende el Procurador General y demás disposiciones aplicables.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IX.- La Coordinación General de Atención a la Familia y a la Víctima, tendrá las mismas atribuciones que la Dirección General de Averiguaciones Previas, salvo las previstas en la fracciones III, IV y V del Artículo 63 de esta Ley.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+VIII.- Vigilar que los Agentes del Ministerio Público observen la Ley de Justicia para Adolescentes del Estado de Hidalgo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+IX.- Autorizar las decisiones relacionadas con los criterios de oportunidad, sobre la facultad de prescindir de la puesta a disposición y otras facultades discrecionales que deba aplicar el Ministerio Público en justicia para adolescentes;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+X.- Informar al Procurador General, de las averiguaciones previas, en que se hayan puesto a disposición del Ministerio Público, a adolescentes que se presume tomaron parte de un hecho aparentemente delictivo; así como de los menores de doce años, que hayan sido remitidos al Sistema Estatal de Asistencia y Protección Social; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+XI.- Las que le otorguen esta Ley, le encomiende el Procurador General y demás disposiciones aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+La Coordinación General de Atención a la Familia y a la Víctima, tendrá las mismas atribuciones que la Dirección General de Averiguaciones previas, en el ámbito de su competencia por especialización.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+Los agentes del Ministerio Publico de la Coordinación General de Atención a la Familia y a la Víctima en la emisión de sus determinaciones gozarán de autonomía técnica y administrativa.
 
 ###### Artículo 49.
 
@@ -933,9 +993,13 @@ VII.- Las demás que le otorgue esta Ley, el Procurador General y demás disposi
 
 Los Agentes del Ministerio Público, sus auxiliares y asesores de la Subprocuraduría de Atención a la Familia y a la Víctima, contarán con la formación, capacitación y sensibilización necesaria para proporcionar el servicio adecuado a las víctimas, ofendidos o las personas afectadas por su comisión.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 53.
 
-La Visitaduría General dependerá del Procurador General, estará a cargo de un Director General, y es la unidad administrativa responsable de vigilar la legalidad en las actividades desarrolladas por las unidades administrativas que integran la Procuraduría, de los servidores públicos mediante la practica de visitas o con motivo de quejas o denuncias, así como de medir y evaluar su desempeño, y tendrá por sí o a través de los Agentes del Ministerio Público que le sean adscritos, las atribuciones siguientes:
+La Visitaduría General dependerá del Procurador; estará a cargo de un Director General y es la unidad administrativa responsable de vigilar la legalidad en las actividades desarrolladas por los servidores públicos que integran las unidades administrativas de la Procuraduría, mediante la práctica de visitas o con motivo de quejas o denuncias, así como de medir y evaluar su desempeño, y tendrá por si o a través de los Agentes del Ministerio Público que le sean adscritos las atribuciones siguientes:
 
 I.- Proponer y coordinar la elaboración de los programas, lineamientos y políticas en materia de visitas y de evaluación de las actividades y funciones de los servidores públicos de la Procuraduría, con el fin de supervisar el cumplimiento de las disposiciones constitucionales, legales y normativas en las actividades que realizan;
 
@@ -973,7 +1037,9 @@ XVII.- Vigilar con auxilio del personal que le esté adscrito, el cumplimiento d
 
 XVIII.- Vigilar el cumplimiento de los códigos de ética profesional por parte de los servidores públicos de la Procuraduría;
 
-XIX.- Verificar y supervisar que se cumplan los procedimientos que establece la normatividad, para el otorgamiento y uso de armas de cargo y patrullas, así como para la devolución de las mismas, conforme a los registros que para tal efecto tenga la Dirección General de Administración y Finanzas y Dirección General de Policía Ministerial;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XIX.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
 XX.- Proponer programas para la capacitación del personal, al Director del Instituto de Formación Profesional de la Procuraduría;
 
@@ -1021,9 +1087,13 @@ XVII.- Informar al Visitador General, en forma permanente y oportuna el inicio d
 
 XVIII.- Las que le otorgue esta Ley, el Procurador General y demás disposiciones aplicables.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 55.
 
-La Dirección de Supervisión y Evaluación Técnico Jurídica, en materia de evaluación, es la responsable de supervisar mediante la practica de visitas en forma ordinaria o extraordinaria, el cumplimiento de las disposiciones constitucionales y normativas, en las actividades que realizan los Agentes del Ministerio Público, la policía ministerial y peritos en las áreas de su adscripción, y en caso excepcional en otras áreas de la institución; así como de los libros de control, mecanismos programáticos y estadísticos en los que se planean y registran las actividades de las unidades administrativas.
+La Dirección de Supervisión y Evaluación Técnico Jurídica, en materia de evaluación, es la responsable de supervisar mediante la practica de visitas en forma ordinaria o extraordinaria, el cumplimiento de las disposiciones constitucionales y normativas, en las actividades que realizan los agentes del Ministerio Público y peritos en las áreas de su adscripción, y en caso excepcional en otras áreas de la institución; así como de los libros de control, mecanismos programáticos y estadísticos en los que se planean y registran las actividades de las unidades administrativas.
 
 ###### Artículo 56.
 
@@ -1065,7 +1135,11 @@ II.- Coordinar la ejecución de convenios con instituciones públicas y privadas
 
 III.- Promover la coordinación con la Delegación de la Procuraduría General de la República en el Estado, a fin de generar estrategias y acciones conjuntas en materia de averiguación previa, por delitos de competencia Federal y Local relacionados entre si;
 
-IV.- Establecer y operar en coordinación con la Dirección de Informática,
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+IV.- Establecer y operar en coordinación con la Dirección de Informática, Estadística y Telecomunicaciones, la base de datos para el adecuado control y seguimiento de las averiguaciones previas iniciadas; en integración, reserva, archivo y ejercicio de la acción penal, de los oficios en los que se solicite la intervención de agentes de investigación, así como de peritos, y el registro de bienes recuperados y aseguramiento de objetos; con base en ellos proponer estrategias y acciones tendientes a mejorar los servicios de procuración de justicia;
 
 Estadística y Telecomunicaciones la base de datos, para el adecuado control y seguimiento de las averiguaciones previas iniciadas, en integración, reserva, archivo y ejercicio de la acción penal, de los oficios en los que se solicita la intervención de la Policía Ministerial, de los servicios periciales, así como el registro de bienes recuperados y aseguramiento de objetos; y con base en ellos proponer estrategias y acciones tendientes a mejorar los servicios de procuración de justicia;
 
@@ -1075,9 +1149,13 @@ VI.- Vigilar que los Agentes del Ministerio Público observen la Ley de Justicia
 
 VII.- Autorizar las decisiones relacionadas con los criterios de oportunidad, sobre la facultad de prescindir de la puesta a disposición y otras facultades discrecionales que deba aplicar el Ministerio Público en justicia para adolescentes;
 
-VIII.- Autorizar la devolución de los vehículos a su legítimo propietario o representante legal, previo informe de consulta a los sistemas o bases de datos correspondientes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IX.- Informar al Procurador General, de las averiguaciones previas, en que se hayan puesto a disposición del Ministerio Público, a adolescentes que se presume tomaron parte en un hecho aparentemente delictivo; así como de los menores de doce años, que hayan sido remitidos al Sistema Estatal de Asistencia y Protección Social;
+VIII.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+IX.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
 X.- Informar mensualmente al Procurador General, las devoluciones realizadas de vehículos recuperados;
 
@@ -1117,7 +1195,11 @@ La Coordinación de Investigación y Recuperación de Vehículos Robados, estar�
 
 I.- Dirigir a los Agentes del Ministerio Público, en la investigación de los delitos de su competencia;
 
-II.- Operar una base de datos en coordinación con la Dirección de Informática, Estadística y Telecomunicaciones, para el adecuado control de las averiguaciones previas iniciadas, en integración, reserva, archivo y ejercicio de la acción penal; de los oficios en los que se solicita la intervención de la Policía Ministerial; de los servicios periciales, así como el registro de bienes recuperados y aseguramiento de objetos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+II.- Operar una base de datos en coordinación con la Dirección de Informática, Estadística y Telecomunicaciones, para el adecuado control de las averiguaciones previas iniciadas, en integración, reserva, archivo y ejercicio de la acción penal; de los oficios en los que se solicita la intervención de agentes de investigación; así como de peritos; y el registro de bienes recuperados y aseguramiento de objetos;
 
 III.- Devolver los vehículos previo informe de consulta a los sistemas o bases de datos correspondientes, o en su caso entregarlos en depósito;
 
@@ -1153,47 +1235,109 @@ VI.- Las demás que esta Ley, (sic) el Procurador General y demás disposiciones
 
 Los servidores públicos que tengan bajo su custodia, vigilancia o protección vehículos recuperados y permitan en cualquier forma la sustracción de partes o del vehículo en su totalidad, serán responsables en los términos que fijen las Leyes aplicables.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 68.
 
-La Dirección General de la Policía Ministerial, estará a cargo de un Director General y contará con las áreas necesarias para el servicio, de acuerdo a la disponibilidad del presupuesto.
+La Unidad Especializada en el Combate al Secuestro estará a cargo de un Director General y contará con las áreas necesarias para el desempeño de sus funciones, de acuerdo a la disponibilidad del presupuesto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 69.
 
-La Dirección General de la Policía Ministerial, es la unidad administrativa responsable de auxiliar al Ministerio Público, a través de la Policía Ministerial, en la investigación y persecución de los hechos delictuosos, buscando las pruebas que determinen la responsabilidad de los autores o partícipes; ejecutando los mandamientos ministeriales o judiciales, y tendrá las atribuciones siguientes:
+La Unidad Especializada en el Combate al Secuestro, es la unidad administrativa responsable de realizar las acciones propias del Ministerio Público en la investigación, persecución y prevención de los delitos contra la libertad de las personas y secuestro, teniendo las atribuciones siguientes:
 
-I.- Proponer al Procurador General las políticas institucionales, estrategias, métodos y técnicas de investigación policial, que permitan auxiliar al Ministerio Público con eficiencia y eficacia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Programar y asignar la dotación de recursos materiales relativos al armamento, municiones, parque vehicular y demás equipo policial necesario para el desarrollo de sus actividades;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
-III.- Elaborar y proponer los manuales de procedimientos, para el trámite y manejo eficiente de la documentación e información confidencial y reservada;
+I.- Proponer al Procurador las políticas institucionales, estrategias, protocolos, métodos y técnicas de investigación, que coadyuven en la debida integración de la averiguación previa;
 
-IV.- Establecer en coordinación con la Dirección de Informática, Estadística y Telecomunicaciones de la Procuraduría General de Justicia, los sistemas de registro, control estadístico y seguimiento de los mandamientos ministeriales o judiciales; proponiendo estrategias y acciones tendientes a mejorar la procuración de justicia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V.- Participar con otras Instituciones o Corporaciones Policiales Federales, Estatales o Municipales, en acciones y operativos conjuntos de acuerdo a las bases y reglas que al efecto se establezcan;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
-VI.- Coordinar con la Dirección General de Administración y Finanzas de la Procuraduría General de Justicia, la actualización de los registros únicos de los agentes de la Policía Ministerial y el registro de autorizaciones de portación de arma de fuego, de conformidad con las disposiciones legalmente aplicables;
+II.- Coordinar las acciones de investigación y de servicios periciales necesarias para el cumplimiento de su función;
 
-VII.- Dirigir, coordinar y vigilar que las actividades que realicen los elementos de la Policía Ministerial en la investigación de los delitos, lo hagan bajo la autoridad y mando inmediato del Ministerio Público;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VIII.- Implementar y operar los sistemas de recopilación, clasificación, registro y explotación de información policial, para conformar bancos de datos que sustenten el desarrollo de acciones contra la delincuencia;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
-IX.- Instruir y supervisar a los elementos de la Policía Ministerial y demás corporaciones policiales que lo auxilien, en los términos de la Ley, sobre los elementos o indicios que deben ser investigados o recabados, así como de otras acciones de investigación necesarias para acreditar el cuerpo del delito y la probable responsabilidad del inculpado;
+III.- Dirigir y vigilar que las actividades de los agentes del Ministerio Público, peritos y agentes de investigación especializados en combate al secuestro, se realicen de conformidad con las estrategias, protocolos, métodos y técnicas de investigación aplicables;
 
-X.- Proponer al Director del Instituto de Formación Profesional de la Procuraduría General de Justicia, la capacitación, especialización y actualización que requiera el personal de la Dirección General de la Policía Ministerial;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XI.- Establecer los mecanismos de control, registro y vigilancia a efecto de que las órdenes de comparecencia, aprehensión, reaprehensión, cateo y arresto que emita el órgano judicial, así como las órdenes de presentación, detención por caso urgente, medidas cautelares y demás diligencias que instruya el Ministerio Público, se ejecuten por los elementos de la Policía Ministerial con eficiencia, eficacia y con estricto apego a las garantías individuales;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
-XII.- Informar al Procurador General y a las instancias competentes, de las irregularidades en que incurra el personal de la Policía Ministerial en el desempeño de sus funciones, así como sobre los hechos delictivos en que puedan estar involucrados y que fueren de su conocimiento;
+IV.- Brindar atención de urgencia a las víctimas;
 
-XIII.- Vigilar que los elementos de la corporación de la Policía Ministerial, cumplan con la disciplina de ésta institución policíaca;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIV.- Vigilar que los elementos de la Policía Ministerial, realicen sus funciones con apego al principio de legalidad, respeto a los derechos humanos y se apeguen a los principios del servicio público;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
-XV.-Vigilar que se preste el auxilio por parte de la Policía Ministerial, a las Autoridades Federales, a las Entidades Federativas y al Distrito Federal, en los términos de los Convenios de Colaboración;
+V.- Establecer en coordinación con la Dirección de Informática, Estadística y Telecomunicaciones de la Procuraduría General de Justicia, los sistemas de registro, control estadístico y seguimiento de los mandamientos ministeriales o judiciales en el ámbito de su competencia;
 
-XVI.- Vigilar que los elementos de la Policía Ministerial, asistan a los cursos de capacitación y adiestramiento que se establezcan;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XVII.- Vigilar que el personal de la Dirección General de la Policía Ministerial, no distraiga de su objeto, para uso propio o ajeno, el equipo, elementos materiales o bienes asegurados bajo su custodia o de la institución; y
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+VI.- Participar con otras Instituciones de Procuración de Justicia o Corporaciones Policiales Federales, Estatales o Municipales, en acciones y operativos conjuntos relacionados con el combate a los delitos contra la libertad de las personas y de secuestro, de acuerdo a las bases y reglas que al efecto se establezcan;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+VII.- Implementar y operar los sistemas de recopilación, clasificación, registro y explotación de información, para conformar bancos de datos que sustenten el desarrollo de acciones relativas al combate, a los delitos contra la libertad de las personas y el secuestro;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+VIII.- Proponer al Director del Instituto de Formación Profesional de la Procuraduría, la capacitación, especialización y actualización que requiera el personal de la Unidad Especializada en el Combate al Secuestro;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+IX.- Establecer los mecanismos de control, registro y vigilancia a efecto de que las órdenes de comparecencia, aprehensión, reaprehensión, cateo y arresto que emita el órgano judicial, así como las órdenes de presentación, detención por caso urgente, medidas cautelares y demás diligencias que instruya el Ministerio Público, se ejecuten por los agentes de investigación especializados en combate al secuestro, con eficiencia, eficacia y con estricto apego a las garantías individuales;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+X.- Informar al Procurador y a las instancias competentes, de las irregularidades en que incurra el personal de su adscripción, así como sobre los hechos delictivos en que puedan estar involucrados y que fueren de su conocimiento;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XI.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XII.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XIII.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XIV.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XV.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XVI.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XVII.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
 XVIII.- Las demás le (sic) otorgue esta Ley, le encomiende el Procurador General y demás disposiciones aplicables.
 
@@ -1381,7 +1525,11 @@ I.- Someter a la aprobación del Procurador General, los planes y programas acad
 
 II.- Proponer y elaborar las bases de los procedimientos de selección, permanencia y promoción de los servidores públicos de la Procuraduría;
 
-III.- Aplicar los procedimientos de selección, permanencia y promoción de los servidores públicos de la Procuraduría, conforme a lo dispuesto en esta Ley y demás disposiciones aplicables;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+III.- Aplicar los procedimientos de selección, permanencia y promoción de los servidores públicos de la Procuraduría, conforme a lo dispuesto en esta Ley y tomando en cuenta los resultados de las evaluaciones que realice el Centro Estatal de Control de Confianza en el ámbito de su competencia;
 
 IV.- Impartir cursos de capacitación, actualización y especialización al personal de la Procuraduría conforme a los planes y programas autorizados;
 
@@ -1397,33 +1545,55 @@ IX.- Las que le otorgue esta Ley, encomiende el Procurador General y demás disp
 
 ### Capítulo VI. De los Auxiliares del Ministerio Público
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 79.
 
-Son auxiliares directos de la función del Ministerio Público: La Policía Ministerial y los Servicios Periciales.
+El Ministerio Público, en el ejercicio de su facultad de investigación, será auxiliado directamente por agentes de investigación o de seguridad; así como de peritos.
 
-Son auxiliares indirectos del Ministerio Público en los términos de las normas aplicables: Los Cuerpos Policiales de Seguridad Pública Estatal y Municipal, así como los Servidores Públicos Estatales y Municipales.
+Serán auxiliares indirectos del Ministerio Público los demás Servidores Públicos Federales, Estatales y Municipales.
 
 ###### Artículo 80.
 
 Los auxiliares indirectos del Ministerio Público, podrán actuar a petición de parte ofendida o de oficio cuando en el lugar no exista agente del Ministerio Público o existan detenidos en flagrante delito, poniendo sin demora alguna a disposición de la Autoridad Ministerial más próxima a los detenidos y las actuaciones correspondientes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 81.
 
-La Policía Ministerial actuará bajo la Autoridad y mando inmediato del Ministerio Público, auxiliándolo en la investigación de los delitos y de los probables responsables, de acuerdo con las instrucciones que por escrito le dicte y exclusivamente para los fines de la averiguación previa, así como en la persecución de los delitos; ejecutarán los mandamientos ministeriales y los que emita la Autoridad Judicial, y tendrá las siguientes funciones:
+Los agentes de investigación actuarán bajo la conducción y mando del Ministerio Público en su función de investigación y persecución de los delitos, de acuerdo con las instrucciones que éste le dicte, y ejecutarán los mandamientos ministeriales y los que emita la Autoridad Judicial.
 
-I.- Realizar las investigaciones y recabar las pruebas para acreditar los elementos del cuerpo del delito y la probable responsabilidad de los indiciados;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Hacer del conocimiento inmediato al Agente del Ministerio Público de los indicios, objetos, vehículos y personas relacionas con hechos posiblemente constitutivos de delito, que conozcan con motivo de su intervención;
+I.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
-III.- Realizar con la debida oportunidad y eficiencia las diligencias que le son encomendadas, debiendo informar de inmediato al Ministerio Público y a su superior jerárquico, de los resultados de su intervención;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- Ejecutar con toda oportunidad las órdenes de comparecencia, aprehensión, reaprehensión, cateo, arresto y demás que emita el órgano judicial;
+II.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
-V.- Ejecutar con toda oportunidad las citaciones, notificaciones, presentaciones u órdenes de detención que emita el Ministerio Público, así como auxiliarlo en el cumplimiento de las diligencias que éste le asigne;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI.- Auxiliar a las Autoridades Federales, de las Entidades Federativas y del Distrito Federal, en acatamiento de las órdenes que gire su superior jerárquico, conforme a las Leyes aplicables y convenios de colaboración de acuerdo a lo dispuesto en el Artículo 119 de la Constitución Política de los Estados Unidos Mexicanos, y
+III.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
-VII.- Las que le otorgue esta Ley, el Procurador General y demás disposiciones aplicables.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+IV.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+V.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+VI.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+VII.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
 ###### Artículo 82.
 
@@ -1465,9 +1635,13 @@ IV.- No haber sido condenado por delito doloso o falta grave administrativa.
 
 El Subprocurador General de Justicia, el Subprocurador de Atención a la Familia y a la Víctima, el Visitador General y los Directores, deberán reunir los mismos requisitos que alude el Artículo anterior, debiendo acreditar la profesión o preparación acorde al cargo; y serán nombrados y destituidos por el Procurador General.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 87.
 
-El Secretario Particular, el Coordinador de Giras y Eventos, Subdirectores y jefes de departamento que tengan a su cargo funciones sustantivas de la institución, deberán reunir los requisitos que establece el Artículo 85 de esta Ley, salvo la experiencia profesional que deberá ser de tres años y serán nombrados y destituidos por el Procurador General.
+El Secretario Particular, el Coordinador de Giras y Eventos, Subdirectores y encargados de departamento que tengan a su cargo funciones sustantivas de la institución, deberán reunir los requisitos que establece el Artículo 85 de esta Ley, salvo la experiencia profesional que deberá ser de tres años y serán nombrados y destituidos por el Procurador General.
 
 ###### Artículo 88.
 
@@ -1485,33 +1659,19 @@ V.- Ser de notoria buena conducta;
 
 VI.- No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares; y
 
-VII.- Aprobar el procedimiento de selección para el ingreso, conforme a la convocatoria correspondiente y los lineamientos establecidos en ésta.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+VII.- Sujetarse al procedimiento de selección para el ingreso, conforme a la convocatoria correspondiente y aprobar las evaluaciones que aplique el Centro Estatal de Control de Confianza.
 
 Para ser Secretario del Ministerio Público, los aspirantes deberán cubrir los mismos requisitos para el cargo de Agente del Ministerio Público, con excepción del previsto en la fracción II, que en el caso deberá acreditar ser pasante de la Licenciatura en Derecho.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 ###### Artículo 89.
 
-Para ser comandante, jefe de grupo o agente de la Policía Ministerial se requiere:
-
-I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
-
-II.- Acreditar que se han concluido por lo menos los estudios correspondientes a la enseñanza media básica;
-
-III.- Haber cumplido con el Servicio Militar Nacional;
-
-IV.- Ser de notoria buena conducta;
-
-V.- No haber sido condenado como responsable de delito doloso;
-
-VI.- No estar suspendido ni haber sido destituido o inhabilitado del cargo como servidor público por resolución firme;
-
-VII.- No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
-
-VIII.- Aprobar el concurso de selección para el ingreso, conforme a los lineamientos establecidos en la convocatoria;
-
-IX.- Aprobar los cursos que imparta el Instituto de Formación Profesional de la Procuraduría; y
-
-X.- No pertenecer a ninguna empresa de seguridad privada.
+(DEROGADO, P.O. 1 DE DICIEMBRE DE 2008)
 
 ###### Artículo 90.
 
@@ -1531,11 +1691,19 @@ VI.- Ser de notoria buena conducta;
 
 VII.- No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares; y
 
-VIII.- Aprobar el procedimiento de selección para el ingreso, conforme a la convocatoria correspondiente y los lineamientos establecidos en ésta.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+VIII.- Sujetarse al procedimiento de selección para el ingreso, conforme a la convocatoria correspondiente y aprobar las evaluaciones que aplique el Centro Estatal de Control de Confianza.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 91.
 
-Para el ingreso a la Procuraduría la persona que aspire al cargo de Agente del Ministerio Público o secretario de éste, comandante, jefe de grupo o agente de la Policía Ministerial y perito, no deberá tener antecedentes positivos en el Registro Nacional del Personal de Seguridad Pública.
+Para el ingreso a la Procuraduría la persona que aspire al cargo de Agente del Ministerio Público o secretario de éste, y perito, no deberá tener antecedentes positivos en el Registro Nacional del Personal de Seguridad Pública, entendiéndose por tal, que no deben existir datos en su historial que hayan originado su salida de cualquier institución del ramo.
 
 ###### Artículo 92.
 
@@ -1615,9 +1783,13 @@ El Procurador General, calificará las excusas de los Subprocuradores, Directore
 
 Los Servidores Públicos en el ejercicio de sus funciones, observarán las obligaciones inherentes a su empleo, cargo ó comisión y actuarán con la diligencia necesaria para la pronta, completa e imparcial procuración de justicia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 102.
 
-Los Agentes del Ministerio Público, sus secretarios, los peritos, policías ministeriales, tendrán los siguientes derechos:
+Los Agentes del Ministerio Público, sus Secretarios, y los Peritos, tendrán los siguientes derechos:
 
 I.- Participar en los cursos de capacitación, actualización y especialización, que se impartan en el Instituto de Formación Profesional de la Procuraduría, de acuerdo a las disposiciones presupuéstales y a las necesidades del servicio, sin perder sus derechos de antigüedad, nivel y percepciones;
 
@@ -1733,9 +1905,13 @@ La Contraloría Interna de la Procuraduría de conformidad con el procedimiento 
 
 ### Capítulo XI. Del Procedimiento de Selección de los Servidores Públicos de la Procuraduría
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 109.
 
-Los procedimientos de selección, permanencia y promoción comprenderán a los agentes y secretarios del Ministerio Público, agentes de la Policía Ministerial y peritos profesionales y técnicos.
+Los procedimientos de selección, permanencia y promoción comprenderán a los Agentes y Secretarios del Ministerio Público, y peritos profesionales y técnicos.
 
 ###### Artículo 110.
 
@@ -1808,3 +1984,31 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto deberá ser Publicado en el Periódico Oficial del Estado y entrará en vigor a partir del día primero de enero del año dos mil nueve, con excepción de los Artículos 117 fracción III y 132 del Código de Procedimientos Penales que entrarán en vigor al día siguiente de su Publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El personal de la Dirección General de la Policía Ministerial y de la Dirección General de Seguridad Pública y Tránsito del Estado, pasarán a formar parte de la Secretaría de Seguridad Pública del Estado, conservando sus derechos laborales vigentes.
+
+###### ARTÍCULO CUARTO.
+
+Los bienes muebles, tales como: armamento, equipo de investigación, equipo administrativo, radio-comunicación y vehículos con que físicamente cuenta la Dirección General de Seguridad Pública y Tránsito del Estado y la Dirección General de la Policía Ministerial al momento de la entrada en vigor del presente Decreto, pasarán inmediatamente a formar parte de la Secretaría de Seguridad Pública. Asimismo, se harán todas las transferencias que se deriven de los presupuestos asignados no ejercidos en el presente ejercicio, y autorizados conforme a derecho.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de Finanzas y la Secretaría de Administración del Gobierno del Estado, tomarán las medidas administrativas y financieras para la transferencia a que se hace referencia en este Decreto, debiendo existir un acta de entrega-recepción validada por la Secretaría de Contraloría del Gobierno del Estado.
+
+###### ARTÍCULO SEXTO.
+
+Todos los asuntos de la Dirección General de Seguridad Pública y Tránsito del Estado y de la Dirección General de la Policía Ministerial que se encuentren en trámite, pasarán a la competencia de la Secretaría de Seguridad Pública del Estado, quien deberá desahogarlos y concluirlos de acuerdo con las disposiciones legales aplicables.
