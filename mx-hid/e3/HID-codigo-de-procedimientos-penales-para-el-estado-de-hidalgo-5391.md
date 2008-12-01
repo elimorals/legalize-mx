@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-penales-para-el-estado-de-hidalgo-5391
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2008-04-21"
+last_updated: "2008-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990
 
@@ -181,15 +181,19 @@ V.- A una defensa adecuada, por sí, por abogado o por persona de su confianza. 
 
 Si el procesado no quiere nombrar defensor, después de ser requerido para hacerlo al rendir su declaración preparatoria, el juez le nombrará uno de oficio. El procesado podrá nombrar defensor desde el momento en que sea aprehendido y puesto a disposición de la autoridad competente, teniendo derecho a que éste se halle presente en todos los actos del procedimiento, pero tendrá obligación de hacerlo comparecer cuantas veces se necesite.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 16.
 
-La persecución de los delitos incumbe al ministerio público y a la policía ministerial, la cual estará baja la autoridad y mando inmediato de aquél. La imposición de las penas y las medidas de seguridad es propia y exclusiva de la autoridad judicial.
+La investigación y persecución de los delitos incumbe al Ministerio Público y a los agentes de investigación, quienes actuarán bajo la conducción y mando de aquél, en el ejercicio de dicha función.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-La policía ministerial del Estado actuará bajo la autoridad y el mando inmediato del ministerio público, de conformidad a lo dispuesto por el artículo 21 de la Constitución Federal. De acuerdo con las instrucciones que por escrito le dicte el ministerio público, la policía ministerial desarrollará las diligencias que deban practicarse durante la averiguación previa y exclusivamente para los fines de ésta; llevará a cabo las citaciones, notificaciones, presentaciones u órdenes de detención que aquél disponga. Asimismo, la policía ministerial ejecutara las órdenes de aprehensión, de comparecencia, de cateo y demás mandamientos que emita la autoridad judicial.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+Los agentes de investigación desarrollarán las diligencias que deban practicarse durante la averiguación previa y exclusivamente para los fines de ésta; así también, llevarán a cabo las citaciones, notificaciones, presentaciones u órdenes de detención que el Ministerio Público disponga. Asimismo, ejecutarán las órdenes de aprehensión, de comparecencia, de cateo y demás mandamientos que emita la Autoridad Judicial.
 
 (REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
@@ -847,9 +851,13 @@ Cuando la citación se haga por correo certificado, se agregará al expediente e
 
 En el primer caso y cuando el citado no sea localizado en su domicilio o en el lugar de trabajo, podrá enviarse la cita por conducto de los auxiliares de la procuración o de la impartición de justicia, según de donde provenga la citación.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 89.
 
-En caso de urgencia podrá hacerse la citación por telefonema que transmitirá el ministerio público que practique las diligencias o el secretario o actuario del juzgado que corresponda, quiénes harán la citación con las indicaciones a que se refieren las fracciones I, III y IV del artículo 85 de este Código, asentando constancia en el expediente. Asimismo, podrá ordenarse por teléfono a la policía que haga la citación, cumpliéndose los requisitos del mismo artículo.
+En caso de urgencia podrá hacerse la citación por telefonema que transmitirá el Ministerio Público que practique las diligencias o el secretario o. actuario del juzgado que corresponda, quienes harán la citación con las indicaciones a que se refieren las fracciones I, III y IV del Artículo 85 de este Código, asentando constancia en el expediente. Asimismo, podrá ordenarse por teléfono a los agentes de investigación, que hagan la, citación; cumpliéndose los requisitos del mismo Artículo.
 
 ###### ARTICULO 90.
 
@@ -967,7 +975,11 @@ No podrá celebrarse ninguna audiencia sin la presencia del ministerio publico y
 
 Si el faltista fuere el ministerio público o el defensor de oficio, se comunicará a su superior jerárquico, sin perjuicio de imponerles una corrección disciplinaria, salvo que exista causa justificada. Si fuere el defensor particular, se impondrá la corrección disciplinaria que se estime procedente, sin perjuicio de dar vista al ministerio público, si con su ausencia resulta la posible comisión de hechos delictuosos.
 
-En casos urgentes y bajo la responsabilidad del juzgador, cuando los que deban de comparecer a una audiencia, no estuvieren presente a la hora y día fijados, habiendo constancia de su notificación, podrá hacerlos comparecer con la policía, hecha excepción del ministerio público.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+En casos urgentes y bajo la responsabilidad del juzgador, cuando los que deban de comparecer a una audiencia, no estuvieren presente a la hora y día fijados, habiendo constancia de su notificación, podrá hacerlos comparecer por medio de los agentes de investigación, hecha excepción del Ministerio Público.
 
 Si el imputado tuviere varios defensores, no se oirá más que a uno de ellos cada vez que corresponda a la defensa. Lo mismo se observará cuando intervinieren varios agentes del ministerio público.
 
@@ -995,9 +1007,13 @@ Si es el defensor o el asesor jurídico del ofendido, quienes alteran el orden, 
 
 Si es el agente del ministerio público quien altera el orden durante la audiencia, el juzgador lo apercibirá, en caso de que insista en su conducta, el juzgador impondrá al agente la corrección disciplinaria que estime pertinente, suspenderá la audiencia y pondrá los hechos, en conocimiento del Procurador General de Justicia del Estado, para lo que legalmente proceda.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 112.
 
-En las audiencias, la policía y el personal de custodia, en su caso, estarán bajo el mando del funcionario que presida.
+En las audiencias, el agente de investigación o de custodia, según el caso, estará bajo el mando del funcionario que presida.
 
 ### CAPITULO VI. CORRECCIONES DISCIPLINARIAS Y MEDIOS DE APREMIO
 
@@ -1065,13 +1081,7 @@ I.- Cuando el inculpado es detenido en el momento mismo de estar cometiendo el h
 
 II.- Cuando inmediatamente después de cometido el hecho delictuoso, el inculpado es perseguido materialmente hasta lograr su captura; o
 
-> <small>(ADICIONADA, P.O. 22 DE MARZO DE 1999)</small>
-
-III.- Cuando ya iniciada la averiguación previa y no habiendo transcurrido más de noventa y seis horas desde el momento de realización de los hechos:
-
-a).- El inculpado sea señalado como autor o partícipe del delito, por el ofendido o víctima, o por algún testigo presencial u otra persona que hubiere participado en los hechos delictivos; o
-
-b).- Se encuentre en su poder el objeto del delito, el instrumento con el que se haya cometido; o bien, existan indicios bastantes para hacer probable su responsabilidad penal.
+III.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
 (REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
@@ -1179,15 +1189,19 @@ El ministerio público solicitará y el juez librará orden de aprehensión cont
 
 La autoridad que ejecute una orden de aprehensión, deberá poner al inculpado a disposición del juez, sin dilación alguna y bajo su más estricta responsabilidad, debiendo informar a éste acerca de la fecha, hora y lugar en que se efectuó.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Se entenderá que el inculpado queda a disposición del juzgador para los efectos constitucionales y legales correspondientes, desde el momento en que la Policía Ministerial, en cumplimiento de la orden respectiva, lo ponga a disposición de aquél en el centro de reclusión o de salud y le sea puesto en conocimiento lo anterior. El encargado asentará en el documento relativo a la orden de aprehensión ejecutada, que le presente la Policía Ministerial, el día y hora de recibido el detenido.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+Se entenderá que el inculpado queda a disposición del juzgador para los efectos constitucionales y legales correspondientes, desde el momento en que el agente de investigación, en cumplimiento de la orden respectiva, lo ponga a disposición de aquél en el centro de reclusión o de salud y le sea puesto en conocimiento lo anterior. El encargado asentará en el documento relativo a la orden de aprehensión ejecutada, que le presente el agente de investigación, el día y hora de recibido el detenido.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 123.
 
-La orden de aprehensión se remitirá al ministerio público de la adscripción, con copia al Procurador General de Justicia, para su ejecución por la policía ministerial.
+La orden de aprehensión se notificará al Ministerio Público de la adscripción y se remitirá al Procurador, para su ejecución por los agentes de investigación.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -1227,23 +1241,27 @@ La prisión preventiva no podrá exceder del máximo de la pena privativa de la 
 
 En toda pena privativa de la libertad que imponga una sentencia, se computará el tiempo en que el inculpado estuvo privado de la misma. También se computará en las penas substitutivas de la prisión.
 
-Los miembros de la policía o del ejército, que estuvieren sujetos a prisión preventiva, deberán permanecer en las prisiones, pero en lugares separados donde no tengan acceso los detenidos con distinta calidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+Los integrantes del sistema de seguridad pública, que estuvieren sujetos a prisión preventiva, deberán permanecer en las prisiones, pero en lugares separados donde no tengan acceso los detenidos con distinta calidad.
 
 ### CAPITULO III. ARRAIGO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 132.
 
-Cuando con motivo de una averiguación previa el ministerio público estime necesario el arraigo del indiciado, podrá decretarlo tomando en cuenta las características de los hechos delictuosos que se le imputan y sus circunstancias personales, fundando y motivando la imposición de dicha medida cautelar.
+Cuando con motivo de una averiguación previa el Ministerio Público investigador o determinador estime necesario el arraigo del indiciado, al que se le impute un delito grave, podrá solicitarlo al juez, siempre que sea necesario para el éxito de la investigación, la protección de personas o bienes jurídicos, o cuando exista riesgo fundado de que el inculpado se sustraiga a la acción de la justicia, fundando y motivando el pedimento de dicha medida cautelar.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
-El indiciado quedará arraigado, bajo vigilancia de la policía, en el domicilio que señale en el lugar en que se siga el procedimiento y, a falta de éste o a su negativa de señalarlo, la autoridad ministerial designará el lugar del arraigo que será distinto a las áreas de detención. El arraigado deberá presentarse ante el ministerio público cuantas veces sea requerido por éste.
+El indiciado quedará arraigado, bajo vigilancia del agente de investigación, en el domicilio que señale la autoridad solicitante, que será distinto a las áreas de detención. El arraigado deberá ser presentado ante el Ministerio Público cuantas veces sea requerido por éste.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
-El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación previa, no pudiendo exceder de treinta días salvo que las circunstancias plenamente lo justifiquen, en cuyo caso el arraigo podrá prolongarse hasta la duplicación de dicho plazo.
+El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación previa, no pudiendo exceder de cuarenta días.
 
 (REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
@@ -1255,15 +1273,17 @@ En caso de que el indiciado quebrante el arraigo se considerará que existe ries
 
 Cuando el procesado no deba ser internado en prisión preventiva y existan motivos suficientes para temer que se sustraiga a la acción de la justicia, el ministerio público podrá solicitar al juez, o éste disponer de oficio, el arraigo del procesado con las características y por el tiempo que el juzgador señale, sin que en ningún caso pueda exceder del máximo establecido por el artículo 20 fracción VIII de la Constitución Federal. El juzgador resolverá, escuchando al ministerio público y al arraigado, sobre la subsistencia o el levantamiento del arriago (sic).
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
 ###### ARTICULO 134.
 
-Cuando en la averiguación previa como en el proceso, hubieren de declarar testigos que conozcan de los hechos motivo del procedimiento penal y hubiere la necesidad o el temor fundado de que se ausenten antes de que se les pueda declarar, podrá decretarse su arraigo, sólo por el tiempo indispensable para la práctica de las diligencias en que se señale deben intervenir. Si resultare que la solicitud fue infundada y por lo mismo innecesario el arraigo, el testigo podrá exigir al que lo solicitó que lo indemnice de los daños y perjuicios ocasionados, no así cuando el arraigo haya sido decretado de oficio.
+(DEROGADO, P.O. 1 DE DICIEMBRE DE 2008)
 
-(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### ARTICULO 135.
 
-Los procesados y testigos sujetos a la medida cautelar de arraigo, podrán realizar todas sus actividades personales, sin dejar de pernoctar diariamente en su domicilio, para lo cual la autoridad podrá disponer de la vigilancia de la policía. La infracción a esta medida será motivo de apremio.
+(DEROGADO, P.O. 1 DE DICIEMBRE DE 2008)
 
 ### CAPITULO IV. EMBARGO PRECAUTORIO
 
@@ -3447,11 +3467,13 @@ Si el juez niega la orden de aprehensión o comparecencia, o en su caso la negat
 
 Cuando la negativa de la orden de aprehensión se hubiere fundado en la incomprobación del cuerpo del delito, la investigación ministerial deberá continuarse hasta el término de la prescripción de la acción penal, salvo cuando se compruebe plenamente alguna causa que haga procedente la autorización del archivo definitivo.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 399.
 
-Las órdenes de aprehensión o de comparecencia serán turnadas al ministerio público, para su ejecución por conducto de la policía ministerial. Tratándose de la orden de comparecencia, el juez tendrá la obligación de citar previamente al inculpado en los términos de este Código.
+Las órdenes de aprehensión o de comparecencia serán turnadas al Procurador, para Su ejecución por conducto de los agentes de investigación. Tratándose de la orden de comparecencia, el juez tendrá la obligación de citar previamente al inculpado en los términos de este Código.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -4322,3 +4344,29 @@ P.O. 21 DE ABRIL DE 2008.
 DECRETO NUM. 557, POR EL QUE SE ADICIONA LA FRACCION XXII AL ARTICULO 119 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto deberá ser Publicado en el Periódico Oficial del Estado y entrará en vigor a partir del día primero de enero del año dos mil nueve, con excepción de los Artículos 117 fracción III y 132 del Código de Procedimientos Penales que entrarán en vigor al día siguiente de su Publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El personal de la Dirección General de la Policía Ministerial y de la Dirección General de Seguridad Pública y Tránsito del Estado, pasarán a formar parte de la Secretaría de Seguridad Pública del Estado, conservando sus derechos laborales vigentes.
+
+###### ARTÍCULO CUARTO.
+
+Los bienes muebles, tales como: armamento, equipo de investigación, equipo administrativo, radio-comunicación y vehículos con que físicamente cuenta la Dirección General de Seguridad Pública y Tránsito del Estado y la Dirección General de la Policía Ministerial al momento de la entrada en vigor del presente Decreto, pasarán inmediatamente a formar parte de la Secretaría de Seguridad Pública. Asimismo, se harán todas las transferencias que se deriven de los presupuestos asignados no ejercidos en el presente ejercicio, y autorizados conforme a derecho.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de Finanzas y la Secretaría de Administración del Gobierno del Estado, tomarán las medidas administrativas y financieras para la transferencia a que se hace referencia en este Decreto, debiendo existir un acta de entrega-recepción validada por la Secretaría de Contraloría del Gobierno del Estado.
+
+###### ARTÍCULO SEXTO.
+
+Todos los asuntos de la Dirección General de Seguridad Pública y Tránsito del Estado y de la Dirección General de la Policía Ministerial que se encuentren en trámite, pasarán a la competencia de la Secretaría de Seguridad Pública del Estado, quien deberá desahogarlos y concluirlos de acuerdo con las disposiciones legales aplicables.
