@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-del-estado-de-5397"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-06-13"
-last_updated: "2008-10-13"
+last_updated: "2008-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 13 de junio de 1994.
 
@@ -1123,21 +1123,49 @@ XIV.- Otorgar a las Autoridades Administrativas y Jurisdiccionales, al Ministeri
 
 XV.- Prevenir la comisión de delitos y proteger a las personas en sus bienes y derechos;
 
-XVI.- Aprehender a los delincuentes en los casos de flagrante delito y en los de notoria urgencia, cuando se trate de los que se persiguen de oficio y que por razones de la hora, del lugar o de la distancia, no haya Autoridad Judicial que expida la orden de aprehensión y existan temores fundados de que el presunto responsable se sustraiga a la acción de la justicia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+XVI.- Realizar las detenciones en los casos de flagrante delito, así como ejecutar los mandamientos judiciales y ministeriales emitidos por la autoridad competente con arreglo a la Ley;
 
 XVII.- Estudiar, proponer, coordinar, ejecutar y vigilar los programas de prevención de delitos y los de readaptación social de infractores de la Ley;
 
-XVIII.- Administrar los Centros de Readaptación Social;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIX.- Tramitar, por acuerdo del Gobernador y con la intervención que corresponda al Procurador General de Justicia, las solicitudes de extradición, amnistía, indulto, libertad condicional y traslado de reos;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+XVIII.- Investigar bajo la conducción y mando del Ministerio Público los delitos que sean de su competencia;
 
-XX.- Administrar la parte relativa a la ejecución de las medidas impuestas en el sistema Estatal de Justicia para Adolescentes, en términos de la Ley de Justicia para Adolescentes del Estado de Hidalgo y con estricto apego a los derechos humanos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXI.- Administrar y dar mantenimiento a la flota aérea del Poder Ejecutivo; y
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
-XXII.- Todas las demás que le atribuyan la presente Ley y los ordenamientos jurídicos aplicables.
+XIX.- Administrar los Centros de Readaptación Social;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+XX.- Tramitar, por acuerdo del Gobernador y con la intervención que corresponda al Procurador General de Justicia, las solicitudes de extradición, amnistía, indulto, libertad condicional y traslado de reos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+XXI.- Vigilar y Administrar los Centros de Internamiento para adolescentes infractores;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+XXII.- Administrar y dar mantenimiento a la flota aérea del Poder Ejecutivo; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+XXIII.- Todas las demás que le atribuyan la presente Ley y los ordenamientos jurídicos aplicables.
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2005)</small>
 
@@ -1366,3 +1394,29 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Se expedirá el Reglamento Interior de la Secretaría del Trabajo y Previsión Social, dentro de un plazo de 90 días contado a partir del día siguiente en que entre en vigor el presente Decreto.
+
+P.O. 1 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto deberá ser Publicado en el Periódico Oficial del Estado y entrará en vigor a partir del día primero de enero del año dos mil nueve, con excepción de los Artículos 117 fracción III y 132 del Código de Procedimientos Penales que entrarán en vigor al día siguiente de su Publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El personal de la Dirección General de la Policía Ministerial y de la Dirección General de Seguridad Pública y Tránsito del Estado, pasarán a formar parte de la Secretaría de Seguridad Pública del Estado, conservando sus derechos laborales vigentes.
+
+###### ARTÍCULO CUARTO.
+
+Los bienes muebles, tales como: armamento, equipo de investigación, equipo administrativo, radio-comunicación y vehículos con que físicamente cuenta la Dirección General de Seguridad Pública y Tránsito del Estado y la Dirección General de la Policía Ministerial al momento de la entrada en vigor del presente Decreto, pasarán inmediatamente a formar parte de la Secretaría de Seguridad Pública. Asimismo, se harán todas las transferencias que se deriven de los presupuestos asignados no ejercidos en el presente ejercicio, y autorizados conforme a derecho.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de Finanzas y la Secretaría de Administración del Gobierno del Estado, tomarán las medidas administrativas y financieras para la transferencia a que se hace referencia en este Decreto, debiendo existir un acta de entrega-recepción validada por la Secretaría de Contraloría del Gobierno del Estado.
+
+###### ARTÍCULO SEXTO.
+
+Todos los asuntos de la Dirección General de Seguridad Pública y Tránsito del Estado y de la Dirección General de la Policía Ministerial que se encuentren en trámite, pasarán a la competencia de la Secretaría de Seguridad Pública del Estado, quien deberá desahogarlos y concluirlos de acuerdo con las disposiciones legales aplicables.
