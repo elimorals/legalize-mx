@@ -4,7 +4,7 @@ identifier: "HID-ley-de-responsabilidades-de-los-servidores-publicos-5503"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-08"
-last_updated: "2008-03-10"
+last_updated: "2008-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 8 de junio de 1984.
 
@@ -671,7 +671,9 @@ Tienen la obligación de presentar declaración anual de situación patrimonial 
 
 I.- En el Congreso: Diputados, Auditor Superior, Directores Generales, Directores de Área, Subdirectores, Encargados de Departamento, Jefes de Oficina y demás servidores públicos del Congreso del Estado que realicen funciones de revisión y fiscalización;
 
-II.- En el Poder Ejecutivo: Todos los funcionarios desde el nivel de jefes de departamento hasta los Secretarios, además de los previstos en las fracciones IV y VII de este artículo;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+II.- En el Poder Ejecutivo: Todos los funcionarios desde el nivel de jefes de departamento hasta el Gobernador del Estado, además de los previstos en las fracciones IV y VII de este Artículo;
 
 III.- En la Administración Pública Paraestatal: directores generales, gerentes generales, subdirectores generales, subgerentes generales, directores, gerentes, subdirectores, jefes de departamento, y servidores públicos equivalentes de los órganos descentralizados, empresas de participación estatal mayoritaria y sociedades y asociaciones asimiladas y fideicomisos públicos;
 
@@ -796,3 +798,7 @@ P.O. 10 DE MARZO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 1 DE DICIEMBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su Publicación en el Periódico Oficial del Estado de Hidalgo.
