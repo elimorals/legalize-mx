@@ -4,7 +4,7 @@ identifier: "HID-ley-de-seguridad-publica-para-el-estado-de-hidalgo-45703"
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-08"
-last_updated: "2005-08-08"
+last_updated: "2008-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 8 de agosto de 2005.
 
@@ -43,7 +43,11 @@ QUE CONTIENE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE HIDALGO
 
 La presente Ley es de Orden Público, Interés Social, Observancia General y tiene por objeto:
 
-I.- Normar la función de Seguridad Pública en el Estado de Hidalgo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+I.- Normar la función de Seguridad Pública en el Estado de Hidalgo, que comprende la prevención e investigación de los delitos y persecución de los presuntos responsables, así como la sanción de las infracciones administrativas y la ejecución de las penas y medidas de seguridad;
 
 II.- Establecer las bases de coordinación entre el Estado, los Municipios y la Federación a fin de integrar el Sistema Estatal de Seguridad Pública;
 
@@ -55,7 +59,11 @@ V.- Coordinar la operatividad del Aeropuerto Estatal;
 
 VI.- Establecer acciones para motivar la participación ciudadana en actividades relacionadas con los fines de la Seguridad Pública;
 
-VII.- Regular el Sistema de Prevención y Readaptación Social del Estado, sus centros, los de custodia preventiva, así como los Consejos y Centros relativos a la tutela de los menores infractores, estableciendo las políticas y medidas tendientes a la readaptación a la sociedad de los internos y de dichos menores; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+VII.- Regular el Sistema de Prevención y Readaptación social del Estado, sus centros, los de custodia preventiva, así como los relativos al internamiento de los adolescentes infractores, estableciendo las políticas y medidas tendentes a la readaptación a la sociedad de los internos; y
 
 VIII.- Regular los servicios de seguridad privada.
 
@@ -69,41 +77,117 @@ II.- Preservar las libertades, el orden y la paz públicos, con estricto apego a
 
 III.- Prevenir la comisión de delitos e infracciones administrativas; y
 
-IV.- Prestar apoyo a las instancias jurisdiccionales Federales, Estatales y Municipales en el cumplimiento de sus atribuciones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+IV.- La investigación de los delitos bajo la conducción y mando del Ministerio Público; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+V.- Prestar apoyo a las Autoridades Federales, Estatales y Municipales en el cumplimiento de sus atribuciones.
 
 ###### Artículo 3.
 
 Para los efectos de esta Ley, se entenderá por:
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 I.- Constitución.- Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 II.- Constitución Estatal.- Constitución Política para el Estado de Hidalgo;
 
-III.- Consejo Estatal.- Consejo Estatal de Seguridad Pública;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- Comité.- Comité de Consulta y Participación de la Comunidad en Seguridad Pública;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
-V.- Consejo.- Consejo de Profesionalización;
+III.- Ley General.- Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública;
 
-VI.- Consejo de Honor.- Consejo de Honor y Justicia de los Cuerpos de Seguridad Pública;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII.- Centro.- Centro de Control de Confianza;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
-VIII.- Instituto.- Instituto de Formación Profesional;
+IV.- Ley.- Ley de Seguridad Pública para el Estado de Hidalgo;
 
-IX.- Sistema.- Sistema Estatal de Seguridad Pública;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X.- Programa Estatal.- Programa Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
-XI.- Programa Municipal.- Programa Municipal de Seguridad Pública;
+V.- Secretaria.- Secretaría de Seguridad Pública;
 
-XII.- Secretaría.- Secretaría de Seguridad Pública;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIII.- Ley.- Ley de Seguridad Pública para el Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
-XIV.- Ley General.- Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; y
+VI.- Agencia.- Agencia de Seguridad e Investigación del Estado de Hidalgo;
 
-XV.- Registros.- Registros de las Instituciones de Seguridad Pública, entre los que se encuentra el Registro de Identificación de Personas, el Registro de Mandamientos Judiciales y Procedimientos Jurisdiccionales, Registro de Personas de Personal de Seguridad Pública y Organismos Auxiliares, Registro de Huellas Dactilares y Registro Público Vehicular.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+VII.- Sistema.- Sistema Estatal de Seguridad Pública;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+Vlll.- Instituto,- Instituto de Formación Profesional;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+IX.- Consejo Estatal.- Consejo Estatal de Seguridad Pública;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+X.- Consejo de Honor.- Consejo de Honor y Justicia de los Cuerpos de Seguridad Pública;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+XI.- Consejo.- Consejo de Profesionalización;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+XII.- Comité.- Comité de Consulta y Participación de la Comunidad en Seguridad Pública.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+XIII.- Centro.- Centro Estatal de Control de Confianza;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+XIV.- Programa Estatal.- Programa Estatal de Seguridad Pública;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+XV.- Programa Municipal.- Programa Municipal de Seguridad Pública; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+XVI.- Registros:- Registro de las Instituciones de Seguridad Pública, Registro de Identificación de Personas, Registros de Mandamientos Judiciales y Procedimientos Jurisdiccionales, Registro de Personal de Seguridad Pública y Organismos Auxiliares, Registro de Huellas Dactilares y Público Vehicular.
 
 ###### Artículo 4.
 
@@ -123,9 +207,13 @@ La función de la Seguridad Pública se realizará a través de los Cuerpos de S
 
 El Ejecutivo del Estado podrá auxiliar en la prestación del servicio de Seguridad Pública a los Municipios, cuando exista solicitud expresa del Ayuntamiento respectivo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 8.
 
-En casos de emergencia en uno o varios Municipios, que atenten contra los fines de la Seguridad Pública del Estado, el Gobernador coadyuvará con el apoyo y las acciones pertinentes, sin necesidad de las (sic) solicitud antes referida.
+En casos de emergencia en uno o varios Municipios, donde se atenten contra los fines de la Seguridad Pública del Estado, el Gobernador coadyuvará con el apoyo y las acciones pertinentes, sin necesidad de la solicitud referida en el Artículo anterior.
 
 ###### Artículo 9.
 
@@ -151,9 +239,23 @@ I.- El Gobernador del Estado;
 
 II.- El Secretario de Seguridad Pública;
 
-III.- El Consejo Estatal de Seguridad Pública; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- Los elementos de los Cuerpos de Seguridad Pública Estatales, en ejercicio de sus funciones.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+III.- El Ministerio Público;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+IV.- El Consejo Estatal de Seguridad. Pública; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+V.- Los elementos de los Cuerpos de Seguridad Pública Estatales, en el ejercicio de sus funciones.
 
 ###### Artículo 13.
 
@@ -189,27 +291,79 @@ XIV.- Vigilar que todas las acciones estrategias y políticas en materia de Segu
 
 XV.- Las demás que le confieran la Constitución General de la Republica, la Constitución Estatal, esta Ley y los demás ordenamientos Legales aplicables.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO NO. 23 QUE MODIFICA LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE HIDALGO, SE REFORMA LA ESTRUCTURA DEL PRESENTE ARTICULO, PASANDO DE NUEVE FRACCIONES A OCHO.</small>
+
 ###### Artículo 14.
 
 La Secretaría de Seguridad Pública es una Dependencia de la Administración Pública Centralizada, a la cual le corresponde el despacho de los asuntos descritos en el Artículo 31 bis de la Ley Orgánica de la Administración Pública del Estado, relacionados todos con la función de la Seguridad Pública; dicha Secretaría, para el desempeño de sus atribuciones, se conformará fundamentalmente con las siguientes áreas:
 
-I.- Seguridad Pública y Transito del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Centro de Control, Comando, Comunicaciones y Cómputo;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
-III.- Prevención y Readaptación Social;
+I.- Subsecretaría de Prevención, Participación Ciudadana y Desarrollo Institucional, que se encargará de organizar a todas las áreas o unidades administrativas relacionadas con la prevención del delito, las que tienen que ver con la participación ciudadana y el desarrollo organizacional a fin de evitar la dispersión y mezcla de las actividades administrativas y operativas, a fin de armonizar el trabajo, las funciones, los programas y las acciones en éstos rubros, que permitan obtener resultados eficientes, misma que estará integrada de la siguiente manera:
 
-IV.- Información y Logística;
+a).- Dirección General de Prevención y Readaptación Social;
 
-V.- Instituto de Formación Profesional;
+b).- Dirección General del Aeropuerto Estatal y de la Flota Aérea del Poder Ejecutivo;
 
-VI.- Aeropuerto Estatal y Flota Aérea del Poder Ejecutivo;
+e).- Dirección General de Planeación e Innovación; y
 
-VII.- Consejo Tutelar para Menores Infractores;
+d).- Unidad de Registro y Supervisión de Empresas de Seguridad Privada.
 
-VIII.- Registro de Empresas de Seguridad Privada; y,
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IX.- Las demás que sean necesarias administrativamente para el cumplimiento de sus funciones.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+II.- Agencia de Seguridad e Investigación, que tendrá las atribuciones que se señalan en los Artículos 26 y 27 de ésta Ley, misma que estará integrada de la siguiente manera:
+
+a).- Coordinación de Estado Mayor;
+
+b).- Coordinación de Seguridad Estatal;
+
+e).- Coordinación de Investigación;
+
+d).- Coordinación de Seguridad Municipal;
+
+e).- Coordinación de Información y Logística; y
+
+f).- Coordinación del Centro de Control, Comando Comunicaciones y Cómputo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+III.- Dirección General de Administración, que se encargará de administrar los recursos humanos, financieros, materiales y tecnológicos asignados a la Secretaría, proveyendo lo necesario para que tanto el personal de las unidades administrativas, como el de las operativas, cuenten con los materiales, herramientas y equipos necesarios para el desempeño de sus funciones, velando en todo momento por su conservación y su mantenimiento, así como para que se haga un uso racional y eficiente de los mismo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+IV.- Instituto de Formación Profesional, que se encargará de coadyuvar con un adecuado reclutamiento, selección, formación, capacitación y actualización de los cuerpos de seguridad pública, con el propósito de alcanzar su profesionalización, el establecimiento de un verdadero servicio civil de carrera, que contribuya a crear un espíritu de pertenencia hacia las corporaciones, además que fomente los principios de legalidad, eficiencia; profesionalismo y honradez, previstos en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, que deben observar en su actuar los agentes de seguridad, los de investigación y los Policías Municipales;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+V.- Dirección de Supervisión e Inspección Interna, que se encargará de vigilar que la actuación de los agentes de seguridad e investigación se apegue a los principios de legalidad, eficiencia, profesionalismo y honradez previstos en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, interviniendo en cualquier queja o denuncia de la que tenga conocimiento por abusos, actos arbitrarios, deshonestos o de la comisión de algún delito, cuando se encuentre involucrado cualquier elemento operativo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+VI.- Dirección de Asuntos Jurídicos, que se encargará de la defensa de los intereses de la Secretaría en controversias legales de cualquier naturaleza, así como brindar asesoría y asistencia de carácter jurídico a los agentes de seguridad e investigación del Estado de Hidalgo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+VII.- Dirección de Comunicación Social, que se encargará de mantener una comunicación directa con la radio, televisión y prensa escrita, con el fin de dar a conocer de manera oportuna, información relevante de las principales acciones que emprenda la Secretaría, así como de los operativos que se implementen, las detenciones que se realicen, la difusión de campañas para la prevención del delito, la difusión de los números de teléfono de emergencia y de denuncia anónima, la divulgación de convocatorias para el reclutamiento de personal, la difusión de medidas preventivas y orientadoras en caso de desastre, así como todas aquellas que se relacionen con la misma; y
+
+(REFON. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+VIII.- Las demás que sean necesarias administrativamente para el cumplimiento de sus funciones.
 
 ###### Artículo 15.
 
@@ -251,7 +405,11 @@ XVII.- Coordinar y supervisar el servicio civil de carrera de los elementos de l
 
 XVIII.- Administrar y supervisar el Sistema de Prevención y Readaptación Social del Estado, proveyendo las medidas necesarias para la readaptación social integral de los internos;
 
-XIX.- Administrar y supervisar el Centro de Internamiento, Observación y Tratamiento y el Consejo Tutelar para Menores Infractores, así como elaborar y ejecutar los programas de tratamiento de los mismos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+XIX.- Administrar y supervisar los Centros de Internamiento, así como vigilar los lugares destinados para el arraigo en coordinación con el Ministerio Público;
 
 XX.- Coordinar y supervisar los sistemas de radio-comunicación y de comunicación del Poder Ejecutivo;
 
@@ -295,9 +453,13 @@ III.- Los Directores de Seguridad Pública Municipal o sus homólogos; y
 
 IV.- Los elementos de los Cuerpos de Seguridad Pública Municipal en ejercicio de sus funciones.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 18.
 
-Las Autoridades Municipales en materia de Seguridad Pública se regirán por lo dispuesto de la Ley Orgánica Municipal del Estado y en la normatividad aplicable.
+Las Autoridades Municipales en materia de Seguridad Pública se regirán por esta Ley, la Ley Orgánica Municipal del Estado y la normatividad aplicable.
 
 ### CAPITULO III. De las Actividades en Materia de Seguridad Pública
 
@@ -341,23 +503,39 @@ El mando de los Cuerpos de Seguridad Pública Municipal se regirá por lo dispue
 
 ### CAPITULO V. De los Cuerpos de Seguridad Pública
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 26.
 
-La Policía Preventiva es la Institución Pública Operativa y Administrativa que contribuye a los fines de la Seguridad Pública en el Estado, haciendo cumplir las Leyes y los actos ordenados Legalmente por las Autoridades competentes; para lo cual, podrá hacer uso de la fuerza y las armas de fuego conforme a lo previsto por esta Ley. Dicha Institución, armada, disciplinada y jerarquizada, será de naturaleza civil, la que garantizará los derechos y de la integridad física y patrimonial de los habitantes del Estado de Hidalgo.
+La Agencia es la institución pública operativa y administrativa que contribuye a los fines de la seguridad pública en el Estado, haciendo cumplir la Constitución, Constitución Estatal, las Leyes y los actos ordenados legalmente por las autoridades competentes; para lo cual, podrá hacer uso de la fuerza y las armas de fuego conforme a lo previsto por esta Ley.
+
+Dicha Institución, armada, disciplinada y jerarquizada, será de naturaleza civil, la que garantizará los derechos, la integridad física y patrimonial de los habitantes del Estado de Hidalgo.
+
+Para los efectos previstos en el Artículo 21 de la Constitución, los agentes de investigación, en sus diferentes categorías, actuarán bajo la conducción y mando del Ministerio Público.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 27.
 
-La Policía Estatal Preventiva es un Cuerpo de Seguridad Pública dependiente de la Secretaría de Seguridad Pública. Los integrantes de esta corporación operarán en todo el territorio del Estado, sin menoscabo de la competencia policial preventiva de los Municipios.
+La Agencia es un Cuerpo de Seguridad Pública dependiente de la Secretaría. Los integrantes de esta corporación operarán en todo el Territorio del Estado, sin menoscabo de la competencia de las Corporaciones de Seguridad Pública Federales y Municipales.
 
-El personal que labora en la seguridad y custodia de los Centros de Prevención y Readaptación Social, así como en los Consejos y Centros, relativos a la tutela de menores infractores, funcionará como un organismo auxiliar de la Seguridad Pública y dependerá de la Secretaría de Seguridad Pública. Dicho personal deberá al igual que la Policía Estatal Preventiva, satisfacer los requisitos establecidos en el Artículo 61 de esta Ley, así como realizar la consulta previa señalada en el Artículo 162 del mismo ordenamiento, quienes deberán cumplir con las disposiciones de Ley relativas a los principios básicos de actuación, las reglas para el empleo de la fuerza y el uso de las armas de fuego y estarán incluidos en los Registros de las Instituciones de Seguridad Pública y sus Organismos Auxiliares.
+El personal que labora en la seguridad y custodia de los Centros de Prevención y Readaptación Social, así como en el Centro de Internamiento para Adolescentes Infractores, formará parte de la Agencia. Dicho personal se sujetará a las mismas disposiciones que se establecen para los Integrantes de la Agencia.
 
-La Policía Industrial Bancaria, será auxiliar de la Secretaría de Seguridad Pública que efectuará funciones de seguridad en un marco de coordinación operativa con la Policía Estatal Preventiva, en los casos y bajo las condiciones que establezcan la presente Ley y su Reglamento.
+La Policía Industrial Bancaria, será auxiliar de la Secretaría que efectuará funciones de seguridad en un marco de coordinación operativa con la Agencia, en los casos y bajo las condiciones que establezcan la presente Ley y su Reglamento.
 
 ###### Artículo 28.
 
 Los Cuerpos de Seguridad Pública, son los siguientes:
 
-I.- Los Cuerpos de Seguridad Pública Estatal, cuyos elementos se denominarán Policías Estatales Preventivos, los cuales operarán en todo el territorio del Estado; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+I.- Los Cuerpos de Seguridad Pública Estatal, cuyos elementos serán agentes de Seguridad o de investigación y operarán en todo el Territorio del Estado; y
 
 II.- Los Cuerpos de Seguridad Pública Municipal, cuyos miembros se denominarán Policías Preventivos Municipales y operarán en el territorio del Municipio que corresponda.
 
@@ -369,13 +547,21 @@ Los miembros de los Cuerpos de Seguridad Pública ejercerán sus funciones en el
 
 Para efectos operativos y de organización, los Cuerpos de Seguridad Pública se regularán por lo dispuesto en su Reglamento Interior.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 31.
 
-Los integrantes de los Cuerpos de Seguridad Pública, serán dotados de uniformes, insignias y divisas con los colores y características que autorice la Secretaría de Seguridad Pública; así mismo deberán portar en lugar visible durante el servicio, una identificación personal que contendrá los requisitos establecidos por dicha Dependencia.
+Los integrantes de los Cuerpos de Seguridad Publica, serán dotados de uniformes, insignias y divisas con los colores y las, características que autorice la Secretaría; asimismo deberán portar en lugar visible durante el servicio una identificación personal, que misma, salvo aquéllos que sean utilizados en la investigación de delitos y ejecución de mandamientos Judiciales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 32.
 
-Los vehículos que utilice la Policía Estatal Preventiva deberán ostentar de manera notoriamente visible las características que hagan posible su identificación, en términos de la normatividad mencionada en el Artículo que antecede.
+Los vehículos que utilice el personal operativo la Agencia deberán ostentar de manera notoriamente visible las características que hagan posible su identificación, en términos de la normatividad aplicable, salvo aquéllos que sean utilizados en la investigación de delitos y ejecución de mandamientos judiciales.
 
 ###### Artículo 33.
 
@@ -423,9 +609,13 @@ El proceso de selección se sujetará a las disposiciones Legales que rigen el i
 
 Previo al ingreso a un Cuerpo de Seguridad Pública, será obligatoria la consulta a los Registros de las Instituciones de Seguridad Pública y sus Organismos Auxiliares, en términos de la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 42.
 
-Para permanecer en activo, el integrante de un Cuerpo de Seguridad Pública, deberá someterse a las evaluaciones de confiabilidad, así como participar en los programas de formación y en los concursos de promoción a que se convoque. Así mismo, está obligado a cursar los programas de actualización y especialización, acreditando los exámenes que periódicamente apliquen tanto el Centro de Control de Confianza, como el Instituto de Formación Profesional, a efecto de incidir positivamente en su mejoramiento profesional.
+Para permanecer en servicio activo, los integrantes de los Cuerpo de Seguridad Pública, están obligados a participar en los cursos de capacitación, actualización, profesionalización y especialización, así como en los concursos de promoción en los que se les convoque Igualmente, tendrán que someterse a las evaluaciones de confiabilidad que periódicamente programe la Secretaría por conducto de la Agencia los que deberán acreditar satisfactoriamente.
 
 ### CAPITULO II. De las Categoría y Niveles del Servicio Civil de Carrera
 
@@ -443,19 +633,47 @@ Este Consejo estará integrado por:
 
 I.- El Secretario de Seguridad Pública o el funcionario de la Secretaría que éste designe, quien lo presidirá;
 
-II.- El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- El Coordinador del Centro de Control de Confianza;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
-IV.- El Director General del Instituto de Formación Profesional;
+III.- Un representante de la Procuraduría General de Justicia;
 
-V.- El Director General de Prevención y Readaptación Social;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI.- El Director General de la Policía Estatal Preventiva;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
-VII.- Dos integrantes de la Policía Estatal Preventiva de reconocido prestigio profesional, buena reputación y desempeño sobresaliente, cuya designación se efectuará a través de un proceso de insaculación; y,
+IV.- Un representante del Centro Estatal de Control de Confianza;
 
-VIII.- Dos personas designadas por el Consejo Estatal de Seguridad Pública que cuenten con grado académico de licenciatura en alguna disciplina afín a la Seguridad Pública y a las ciencias penales, de reconocido prestigio profesional en labores de investigación, docencia académica, buena reputación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+V.- El Director General del Instituto de Formación Profesional;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+VI.- El Director General de Prevención y Readaptación Social;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+VII.- El Titular de la Agencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+VIII.- Dos integrantes de la Agencia de reconocido prestigio profesional, buena reputación y desempeño sobresaliente, uno de seguridad Estatal y otro de investigación, cuya designación se efectuará a través de un proceso de insaculación; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+IX.- Dos personas designadas por el Consejo Estatal de Seguridad Pública que cuenten con grado académico de licenciatura en alguna disciplina afín a la Seguridad Pública y a las ciencias penales, de reconocido prestigio profesional en labores de investigación, docencia académica y buena reputación.
 
 ###### Artículo 45.
 
@@ -471,7 +689,11 @@ IV.- Determinar los apoyos y beneficios de los que gozarán los aspirantes que r
 
 V.- Determinará el momento en que los alumnos que cursen la formación inicial, podrán participar en actividades u operativos policiales, sin que esto pueda darse, antes de transcurridas al menos dos terceras partes del curso referido;
 
-VI.- Diseñar y supervisar el procedimiento de promoción, conforme a los lineamientos que rigen el Servicio Civil de Carrera, que deberán ejecutar el Centro de Control de Confianza y el Instituto de Formación Profesional, dentro de sus respectivas competencias;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+VI.- Diseñar y supervisar el procedimiento de promoción, conforme a los lineamientos que rigen el Servicio Civil de Carrera, que deberá ejecutar el Instituto de Formación Profesional con auxilio del Centro;
 
 VII.- Dictaminar los casos en que el tiempo de disfrute de licencias por parte de los elementos de alguno de los Cuerpos de Seguridad Pública, pueda ser computado como de servicios y se incluya en la antigüedad de dicho elemento;
 
@@ -481,33 +703,47 @@ IX.- Determinar los casos excepcionales en que algún elemento pueda participar 
 
 X.- Designar al Secretario Técnico del Consejo de Honor y Justicia, en los términos que establece esta Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ### CAPITULO IV. Del Centro de Control de Confianza
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 46.
 
-El Centro de Control de Confianza es una unidad administrativa dependiente de la Secretaría de Seguridad Pública, que determinará la confiabilidad de los aspirantes y elementos de los Cuerpos de Seguridad Pública, en los procesos de selección, permanencia, promoción y remoción.
+(DEROGADO, P.O. 1 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 47.
 
-La confiabilidad de los aspirantes a integrar los Cuerpos de Seguridad Pública o de quienes ya forman parte de ellos, se determinará con los resultados de los estudios socioeconómicos, de entorno social, ética profesional, personalidad, conocimientos generales, toxicológicos, de salud y condición física.
+(DEROGADO, P.O. 1 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 48.
 
-La Secretaría de Seguridad Pública celebrará los Convenios necesarios con las Instituciones Públicas y privadas para que coadyuven en la aplicación de las pruebas que establezca el Centro de Control de Confianza, en términos del Artículo 46 de esta Ley.
+(DEROGADO, P.O. 1 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 49.
 
-Todo el personal del Centro de Control de Confianza deberá ser sometido a las pruebas y evaluaciones citadas en el Artículo 46 de esta Ley; dicho proceso, estará a cargo del Consejo de Profesionalización.
+(DEROGADO, P.O. 1 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 50.
 
-La información que proporcionen los evaluados por el Centro de Control de Confianza y la que se obtenga por esta unidad administrativa, tendrá carácter de confidencial, y la violación a esta disposición dará lugar a las sanciones que establece la Legislación aplicable por la conducta desplegada.
+(DEROGADO, P.O. 1 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 51.
 
-El proceso de la aplicación Institucional de las pruebas mencionadas, tendrá carácter de obligatorio, para todos los aspirantes e integrantes de los Cuerpos de Seguridad Pública.
-
-El personal del Centro de Control de Confianza no deberá formar parte de la carrera policial.
+(DEROGADO, P.O. 1 DE DICIEMBRE DE 2008)
 
 ### CAPITULO V. Del Instituto de Formación Profesional
 
@@ -521,29 +757,47 @@ Este Instituto, tendrá por objeto la profesionalización del personal de los Cu
 
 ### CAPITULO VI. De los Requisitos de Ingreso, Nombramiento, Reingreso y Permanencia en los Cuerpos de Seguridad Pública
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 54.
 
-Para el ingreso y permanencia como integrante de los Cuerpos de Seguridad Pública, se requiere:
+Los integrantes de los Cuerpos de. Seguridad Pública deberán satisfacer los siguientes requisitos:
 
-I.- Ser ciudadano mexicano, estar en pleno ejercicio de sus derechos políticos y civiles;
+l.- Para el ingreso:
 
-II.- Haber cumplido con el Servicio Militar Nacional en términos de la Ley Reglamentaria;
+a).- Ser ciudadano mexicano en pleno ejercicio de sus derechos y contar con una residencia mínima de 3 años en el Estado de Hidalgo;
 
-III.- No tener antecedentes negativos en los Registros de las Instituciones de Seguridad Pública y sus Organismos Auxiliares;
+b).- Acreditar el nivel de estudios que determine el Consejo de la Secretaría: que será por lo menos de bachillerato para el caso de los Agentes de Segundad o de Investigación y de secundaria para todas las demás corporaciones;
 
-IV.- Ser de notoria buena conducta, acreditándolo con la constancia de no antecedentes penales y la de no inhabilitación como Servidor Público, correspondiente;
+c).- Estatura mínima: hombres 1.65 metros y mujeres 1.55 metros, su peso deberá ser acorde con la estatura;
 
-V.- Acreditar como mínimo, la conclusión de estudios de nivel medio básico;
+d).- Tener entre 18 y 30 años de edad al presentar la documentación, en atención a la naturaleza de su función;
 
-VI.- Contar con los conocimientos, habilidades y perfil físico, médico, ético y de personalidad establecidos en el servicio civil de carrera de los Cuerpos de Seguridad Pública Estatales;
+e).- No presentar inserciones o dibujos con sustancias colorantes sobre la piel;
 
-VII.- No consumir ningún tipo de sustancia o droga prohibida, ni padecer alcoholismo;
+f).- Saber conducir vehículos automotores y tener licencia vigente para conducir;
 
-VIII.- Cumplir los principios básicos de actuación y las reglas para el empleo de la fuerza y el uso de las armas de fuego establecidas en esta Ley;
+g).- Ser de notoria buena conducta, acreditándolo con las constancias de no antecedentes penales, la de no inhabilitación como servidor público;
 
-IX.- Ningún candidato a ingresar a los Cuerpos de Seguridad Pública, podrá ser menor a 18 años cumplidos al día que sea emitida la Convocatoria Pública que abra el proceso de selección establecido en esta Ley; y
+h).- No tener antecedentes positivos en el registro de las instituciones de seguridad pública y sus organismos auxiliares, entendiéndose por tal, que no deben existir datos en su historial que hayan originado su salida de cualquier institución del ramo;
 
-X.- No pertenecer a ninguna empresa de seguridad privada.
+i).- En el caso de los varones, haber cumplido con el Servicio Militar Nacional o en su caso, acreditar estar cumpliendo con dicha obligación;
+
+j).- No hacer uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo;
+
+k).- Acreditar buena salud física y mental; y
+
+I).- Presentar y aprobar los procesos de evaluación y confiabilidad que se les practique.
+
+II.- Para la permanencia:
+
+a).- Cumplir con los requisitos mencionados en las fracciones señaladas en el apartado anterior a excepción de la edad por razón de la antigüedad dentro del servicio;
+
+b).- Acreditar que cuenta con los conocimientos, habilidades y perfil físico, médico, ético y de personalidad establecidos en el servicio profesional de carrera de los Cuerpos de Seguridad Pública; y
+
+c).- Cumplir con los principios básicos de actuación señalados en la presente Ley.
 
 ###### Artículo 55.
 
@@ -633,9 +887,13 @@ Al término del curso de formación inicial, el Instituto de Formación Profesio
 
 En el proceso del Servicio Civil de Carrera, los integrantes de los Cuerpos de Seguridad Pública, participarán y acreditarán los concursos creados para tal efecto, para poder ascender al nivel o categoría inmediato superior.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 72.
 
-Los integrantes de los Cuerpos de Seguridad Pública sólo podrán ascender a las plazas vacantes de la categoría y nivel inmediato superior, mediante concurso interno o evaluación curricular, respectivamente, conforme a los principios del servicio civil de carrera. El diseño y control del procedimiento de promoción será responsabilidad del Consejo de Profesionalización y será ejecutado tanto por el Centro de Control de Confianza como por el Instituto de Formación Profesional, en la competencia de sus atribuciones.
+Los integrantes de los Cuerpos de Seguridad Pública sólo podrán ascender a las plazas vacantes de la categoría y nivel inmediato superior, mediante concurso interno o evaluación curricular, respectivamente, conforme a los principios del servicio civil de carrera. El diseño y control del procedimiento de promoción será responsabilidad del Consejo y será aplicado por el Instituto con auxilio del Centro, en la competencia de sus atribuciones.
 
 ###### Artículo 73.
 
@@ -663,17 +921,37 @@ Comprenderá los requisitos y procedimientos de selección, ingreso, formación,
 
 La carrera policial en sus diferentes niveles, se establecerá con carácter de obligatoria y permanente. Deberá instrumentarse por el Estado y los Municipios, en sus respectivos ámbitos de competencia y de manera coordinada.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+## TITULO TERCERO BIS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO UNICO. Del Centro Estatal de Control de Confianza
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 77 Bis.
+
+El Centro Estatal de Control de Confianza determinará la confiabilidad de los aspirantes y elementos de los cuerpos de seguridad pública, en los procesos de selección, permanencia, promoción y cese, de conformidad con los lineamientos y procedimientos que para tal efecto se establezcan.
+
 ## TITULO CUARTO. De los Principios Básicos de Actuación y Reglas para el Empleo de la Fuerza y Uso de Armas de Fuego de los Cuerpos de Seguridad Pública Estatal y Municipal
 
 ### CAPITULO I. De los Principios Básicos de Actuación
 
-## TITULO QUINTO. Del Consejo de Honor y Justicia
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-### CAPITULO II. De las Reglas para el Empleo de la Fuerza y Uso de las Armas de Fuego
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 78.
 
-En el ejercicio de sus atribuciones y cumplimiento de sus obligaciones, los integrantes de los Cuerpos de Seguridad Pública, deberán regir su actuación por los principios de Legalidad, eficiencia, profesionalismo y honradez, debiendo en todo momento respetar, las siguientes reglas:
+En el ejercicio de sus atribuciones y cumplimiento de sus obligaciones, los integrantes de los Cuerpos de Seguridad Pública, deberán regir su actuación por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, debiendo en todo momento observar, las siguientes reglas:
 
 I.- Acatar los trámites, plazos y demás requisitos exigidos en las Leyes para la tutela de las libertades y derechos de los ciudadanos;
 
@@ -703,7 +981,11 @@ XIII.- Poner de inmediato a disposición de la Autoridad competente a las person
 
 XIV.- Entregar de manera inmediata a la Autoridad competente los bienes, instrumentos, objetos y productos del delito que sean asegurados;
 
-XV.- Colaborar en todo momento con los organismos protectores de los derechos humanos y abstenerse de obstaculizar sus funciones, exceptuando los casos en que la intervención de dichos organismos contravenga un (sic) disposición Legal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+XV.- Colaborar en todo momento con los organismos protectores de los derechos humanos y abstenerse de obstaculizar sus funciones, exceptuando los casos en que la intervención de dichos organismos contravenga una disposición legal;
 
 XVI.- Desempeñar sus funciones sin hacer uso de ayudantes, auxiliares o asistentes ajenos a los Cuerpos de Seguridad u organismos auxiliares de éstos, a excepción de cuando exista coordinación con otras Instituciones;
 
@@ -727,11 +1009,37 @@ XXV.- Dar aviso al Ministerio Público cuando se haya cometido un delito, propor
 
 XXVI.- Las demás que sean necesarias para cumplir con los principios señalados en el primer párrafo del presente Artículo.
 
-### CAPITULO I. Integración y Facultades
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 78 Bis.
+
+Los elementos de los cuerpos de Seguridad Pública investigarán delitos bajo la conducción y mando del Ministerio Público, de acuerdo con las instrucciones que le dicte y exclusivamente para los fines de la averiguación previa, así como en la persecución de los delincuentes; ejecutarán los mandamientos ministeriales y los que emita la Autoridad Judicial, y tendrá las siguientes funciones:
+
+I.- Realizar las investigaciones y recabar las pruebas para acreditar los elementos del cuerpo del delito y la probable responsabilidad de los indiciados;
+
+II.- Preservar los indicios, objetos e instrumentos del delito; asegurar a las personas relacionadas con hechos posiblemente constitutivos de delitos de los que tengan conocimiento con motivo de su intervención, poniéndolos a la inmediata disposición del Ministerio Público;
+
+III.- Realizar con la debida oportunidad y eficiencia las diligencias que le son encomendadas, debiendo informar de inmediato al Ministerio Público y a su superior jerárquico, de los resultados de su intervención;
+
+IV.- Ejecutar con toda oportunidad las órdenes de comparecencia, aprehensión, reaprehensión, cateo, arresto, arraigo y demás que emita el órgano judicial;
+
+V.- Ejecutar con toda oportunidad las citaciones, notificaciones, presentaciones u órdenes de detención que emita el Ministerio Público, así como auxiliarlo en el cumplimiento de las diligencias que practique;
+
+VI.- Auxiliar a las Autoridades Federales, de las Entidades Federativas y del Distrito Federal, en acatamiento de las órdenes que gire su superior jerárquico, conforme a las Leyes aplicables y convenios de colaboración; y
+
+VII.- Las demás que determine esta Ley y otras disposiciones aplicables.
+
+### CAPITULO II. De las Reglas para el Empleo de la Fuerza y Uso de las Armas de Fuego
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 79.
 
-Las armas de fuego se considerarán como defensivas y su uso sólo se justifica en legitima defensa o de terceros, en caso de peligro real, actual, inminente de muerte, lesiones graves, para evitar la comisión de un hecho considerado como delito, que entrañe un (sic) seria amenaza para la vida, la integridad física o psicológica; con objeto de detener a una persona que represente ese peligro y oponga resistencia a la Autoridad y sólo en casos de que resulten insuficientes medidas menos extremas para lograr dichos objetivos.
+Las armas de fuego se considerarán como defensivas y su uso sólo se justifica en legítima defensa o de terceros, en caso de peligro real, actual, inminente de muerte y lesiones graves para evitar la comisión de un hecho considerado como delito, que entrañe una seria amenaza para la vida, la integridad física o psicológica; con objeto de detener a una persona que represente ese peligro y oponga resistencia a la Autoridad y sólo en casos de que resulten insuficientes medidas menos extremas para lograr dichos objetivos.
 
 ###### Artículo 80.
 
@@ -783,9 +1091,9 @@ El incumplimiento a lo dispuesto en el párrafo anterior, dará lugar a que la p
 
 Corresponde la valoración del empleo y uso Legal de la fuerza y las armas de fuego, a las Autoridades competentes.
 
-## TITULO SEXTO. Del Régimen Disciplinario
+## TITULO QUINTO. Del Consejo de Honor y Justicia
 
-### CAPITULO II. De las Condecoraciones y Estímulos
+### CAPITULO I. Integración y Facultades
 
 ###### Artículo 90.
 
@@ -805,19 +1113,53 @@ El Consejo de Honor y Justicia se integrará por:
 
 I.- El Secretario de Seguridad Pública, quien lo presidirá;
 
-II.- El Director General de la Policía Estatal Preventiva;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- Un Secretario Técnico, quien deberá ser Licenciado en Derecho, designado por el Consejo de Profesionalización;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
-IV.- Un Vocal designado por el órgano contralor de la Secretaría;
+II.- Un representante de la Procuraduría General de Justicia del Estado;
 
-V.- Un Vocal designado por el Consejo Estatal de Seguridad Pública;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI.- Un Vocal designado por la Comisión de Derechos Humanos del Estado;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
-VII.- Un Vocal designado por el Comité Estatal de Consulta y Participación de la Comunidad; y
+III.- El Titular de la Agencia;
 
-VIII.- Dos Vocales: Uno designado por la Policía Estatal Preventiva y otro por la Policía Industrial Bancaria, quienes deberán ser insaculados de entre los integrantes de las mismas, tener una jerarquía correspondiente al nivel superior y no haber sido sancionados administrativa o penalmente. Estos Vocales durarán en su encargo un año y no podrán ser reelectos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+IV.- Un Secretario Técnico, quien deberá ser Licenciado en Derecho, designado por el Consejo de Profesionalización;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+V.- Un Vocal designado por el órgano de control de la Secretaría;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+VI.- Un Vocal designado por el Consejo Estatal de Seguridad Pública;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+VII.- Un Vocal designado por la Comisión de Derechos Humanos del Estado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+VIII.- Un Vocal designado por el Comité Estatal de Consulta y Participación de la Comunidad; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+IX.- Dos Vocales: Uno designado por la Agencia y otro por la Policía Industrial Bancaria, quienes deberán ser insaculados de entre los integrantes de las mismas, tener por lo menos una jerarquía superior respecto del elemento a quien se haya incoado el procedimiento disciplinario y no haber sido sancionados administrativa o penalmente. Estos Vocales durarán en su encargo un año y no podrán ser reelectos.
 
 Todos los integrantes del Consejo tendrán derecho a voz y voto.
 
@@ -825,7 +1167,7 @@ Asimismo, en todo asunto que deba conocer el Consejo de Honor y Justicia, se abr
 
 Las resoluciones que emita el Consejo de Honor y Justicia, no admitirán medio de impugnación alguna.
 
-### CAPITULO I. Régimen Disciplinario
+### CAPITULO II. De las Condecoraciones y Estímulos
 
 ###### Artículo 94.
 
@@ -847,13 +1189,17 @@ Al Mérito Social, cuando se distinga particularmente en la prestación de servi
 
 Las condecoraciones, consistirán en medalla y diploma, se otorgará además, un estímulo económico adicional que será fijado por el Consejo de Honor y Justicia.
 
-## TITULO SEPTIMO. De la Policía Industrial Bancaria
+## TITULO SEXTO. Del Régimen Disciplinario
 
-### CAPITULO II. De la Amonestación y Arresto
+### CAPITULO I. Régimen Disciplinario
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 96.
 
-Cada Cuerpo de Seguridad Pública, deberá constituir una Comisión de Honor y Justicia, la cual funcionará como órgano colegiado para conocer y resolver sobre la procedencia de las sanciones aplicables a los integrantes de aquel. Velando integralmente por su honorabilidad y buena reputación; evaluando las conductas que sean lesivas para la sociedad y para dichos cuerpos.
+Cada Cuerpo de Seguridad Pública y Organismos Auxiliares, deberán constituir una Comisión de Honor y Justicia, la cual funcionará como órgano colegiado para conocer y resolver sobre la procedencia de las sanciones aplicables a los integrantes, velando por su honorabilidad y buena reputación; evaluando las conductas que sean lesivas para la sociedad y para dichos cuerpos.
 
 Así también, estarán facultadas para proponer al Consejo de Honor y Justicia, a los elementos de los Cuerpos de Seguridad Pública que merezcan alguna de las condecoraciones o estímulos que establece esta Ley, debiendo integrar las constancias suficientes para ello, a efecto de remitirlas al Consejo para su valoración y determinación.
 
@@ -865,7 +1211,13 @@ I.- El titular del Cuerpo de Seguridad Pública de que se trate;
 
 II.- Un Secretario Técnico, quien deberá ser Licenciado en Derecho, designado por el Consejo de Profesionalización;
 
-III.- Dos vocales, quienes deberán ser insaculados en cada caso en particular, de entre los integrantes del Cuerpo de Seguridad Pública de que se trate, quienes tendrán una jerarquía correspondiente a nivel superior, respecto del elemento a quien se le haya incoado el procedimiento disciplinario, quienes no hayan sido sancionados administrativa o penalmente; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+III.- Dos vocales, quienes deberán ser insaculados de entre los integrantes de seguridad pública de que se trate, quienes tendrán la misma jerarquía, características y cualidades de los vocales previstos en el Artículo 93 fracción IX, de la presente Ley, respecto del elemento a quien se le haya incoado el procedimiento disciplinario, quienes no hayan sido sancionados administrativa o penalmente.
+
+Estos vocales deberán aceptar y protestar el cargo ante los demás integrantes de la Comisión y durarán en su encargo un año, sin que puedan ser reelectos; y
 
 IV.- Un vocal designado por el órgano contralor de la Secretaría de Seguridad Pública.
 
@@ -875,7 +1227,11 @@ Todos los integrantes de la Comisión tendrán derecho a voz y voto. En todo asu
 
 Los integrantes de los Cuerpos de Seguridad Pública, podrán hacerse acreedores a alguna de las siguientes sanciones, sin menoscabo de las responsabilidades señaladas en la Ley aplicable al caso, de las que se dejará constancia en el expediente respectivo:
 
-I.- Amonestación, pública o privada;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+I.- Amonestación;
 
 II.- Arresto hasta por treinta y seis horas;
 
@@ -883,9 +1239,13 @@ III.- Descenso de grado;
 
 IV.- Suspensión temporal de funciones, sin goce de sueldo; y
 
-V.- Cese y baja con deshonor, del Cuerpo de Seguridad Pública.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-### CAPITULO III. Del Cese
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+V.- Cese del Cuerpo de Seguridad Pública.
+
+### CAPITULO II. De la Amonestación y Arresto
 
 ###### Artículo 99.
 
@@ -899,9 +1259,7 @@ II.- El arresto, es la permanencia en disponibilidad en el lugar que designe el 
 
 El descenso de grado, se impondrá a los elementos de los Cuerpos de Seguridad Pública respectivos, por violación de los principios básicos de actuación señalados en esta Ley.
 
-### CAPITULO IV. Del Procedimiento Disciplinario
-
-> <small>(F. DE E., P.O. 8 DE MAYO DE 2006)</small>
+### CAPITULO III. Del Cese
 
 ###### Artículo 101.
 
@@ -931,7 +1289,11 @@ IX.- Comprometer con su descuido, imprudencia o negligencia la vida o la integri
 
 X.- Emitir acreditaciones o permitir el uso de la propia, a personas ajenas al Cuerpo de Seguridad Pública al que pertenezca, con objeto de que se ostenten como miembros del mismo, o tolerar que dichas personas realicen labores que correspondan a dicho cuerpo;
 
-XI.- No aprobar alguno de los exámenes a que hace alusión el Artículo 47, relativos a la confiabilidad de los elementos de los Cuerpos de Seguridad Pública;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+XI.- No aprobar los exámenes que practique el Centro, relativos a la confiabilidad de los elementos de los Cuerpos de Seguridad Pública;
 
 XII.- Hacer mal uso de los instrumentos, medios y canales de comunicación; así como proporcionar información confidencial sin la autorización correspondiente; y,
 
@@ -945,13 +1307,25 @@ Cuando de alguna de las causas del cese, se desprenda la existencia de actos u o
 
 La separación y el cese de los integrantes de los Cuerpos de Seguridad Pública, son de orden público e interés social.
 
-### CAPITULO UNICO. Disposiciones Generales
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+Los elementos de los cuerpos de seguridad pública que promuevan un juicio o medio de defensa de carácter laboral y obtengan resolución favorable, serán indemnizados sin que por ningún motivo proceda su reinstalación.
+
+### CAPITULO IV. Del Procedimiento Disciplinario
+
+> <small>(F. DE E., P.O. 8 DE MAYO DE 2006)</small>
 
 ###### Artículo 105.
 
 Las sanciones referidas de las fracciones III a V del Artículo 98, se impondrán por conducto de la Comisión de Honor y Justicia, mediante procedimiento disciplinario, que se sujetará a las siguientes disposiciones:
 
-I.- Se iniciará a petición del titular del Cuerpo de Seguridad Pública, exponiendo por escrito, los motivos y fundamentos por los que se considere, debe sancionarse a ese integrante;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+I.- Se iniciará a petición del servidor público o ciudadano que tenga conocimiento de alguna conducta indebida o de la falta de cumplimiento de cualquiera de los requisitos de ingreso o permanencia de los elementos de los cuerpos de seguridad pública, exponiendo los motivos y fundamentos por los que se considere debe sancionarse a ese integrante;
 
 II.- La Comisión de Honor y Justicia, podrá suspender en sus funciones, sin goce de sueldo, al integrante del Cuerpo de Seguridad Pública, desde el momento en que sea sometido al procedimiento disciplinario;
 
@@ -973,9 +1347,25 @@ VIII.- De todo lo actuado se levantará constancia por escrito debidamente firma
 
 IX.- Contra la sanción impuesta procederá el recurso de inconformidad ante el Consejo de Honor y Justicia en términos de esta Ley, el cual deberá interponerse, dentro de los cinco días hábiles subsecuentes, a la notificación respectiva al sancionado.
 
-## TITULO OCTAVO. Del Sistema y los Programas de Seguridad Pública
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-### CAPITULO I. Del Sistema Estatal de Seguridad Pública
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 105 Bis.
+
+El Consejo de Honor y Justicia al recibir el expediente que contenga las actuaciones que dieron origen al recurso de inconformidad, procederá a lo siguiente:
+
+I.- Ordenará su radicación y registro en el Libro de Gobierno que para el efecto se instrumente, admitiendo dicho recurso en efecto suspensivo si fue interpuesto en tiempo y forma; con la finalidad de confirmar, modificar o revocar la resolución recurrida.
+
+II.- Posterior a la admisión del recuso interpuesto se notificará en forma personal al inconforme la radicación de los autos, se les concederá un término de cinco días hábiles para que exprese los agravios que le haya causado la resolución emitida por el Consejo de Honor, transcurrido el cual los presente o no, se emitirá la resolución que en derecho proceda, la que deberá pronunciarse dentro de los quince días hábiles posteriores.
+
+Las resoluciones de la competencia del Consejo de Honor serán firmadas por su Presidente y el Secretario Técnico.
+
+La resolución recurrida no podrá ser modificada en perjuicio del recurrente.
+
+## TITULO SEPTIMO. De la Policía Industrial Bancaria
+
+### CAPITULO UNICO. Disposiciones Generales
 
 ###### Artículo 106.
 
@@ -1003,15 +1393,15 @@ El proceso de selección y de profesionalización de personal, de la Policía In
 
 Para la Policía Industrial Bancaria, el resultado de la consulta a los Registros de las Instituciones de Seguridad Pública y sus Organismos Auxiliares, se proporcionará dentro de las 24 horas siguientes a la solicitud.
 
-## TITULO NOVENO. De la Coordinación en Materia de Seguridad Pública
+## TITULO OCTAVO. Del Sistema y los Programas de Seguridad Pública
 
-### CAPITULO II. Del Programa Estatal de Seguridad Pública
+### CAPITULO I. Del Sistema Estatal de Seguridad Pública
 
 ###### Artículo 112.
 
 El Sistema Estatal de Seguridad Pública, es el conjunto de instancias, instrumentos, políticas, servicios y acciones que tiene por objeto desarrollar las bases de coordinación entre la Federación, el Estado y los Municipios, para cumplir los fines de la Seguridad Pública.
 
-### CAPITULO III. De los Programas Municipales de Seguridad Pública
+### CAPITULO II. Del Programa Estatal de Seguridad Pública
 
 ###### Artículo 113.
 
@@ -1039,15 +1429,15 @@ V.- Las metas.
 
 El Programa Estatal deberá elaborarse y someterse a la aprobación del Ejecutivo Estatal.
 
-### CAPITULO I. De la Coordinación entre los Tres Órdenes de Gobierno
+### CAPITULO III. De los Programas Municipales de Seguridad Pública
 
 ###### Artículo 117.
 
 Los Ayuntamientos del Estado, elaborarán dentro de los tres meses posteriores al inicio de la Gestión Municipal, los programas que contengan los lineamientos para alcanzar, dentro de sus respectivas competencias, los objetivos en materia de Seguridad Pública, y se revisará anualmente por el Consejo Municipal de Seguridad Pública, debiendo darle la publicidad y difusión dentro de su jurisdicción.
 
-## TITULO DECIMO. Del Consejo Estatal de Seguridad Pública
+## TITULO NOVENO. De la Coordinación en Materia de Seguridad Pública
 
-### CAPITULO II. De la Coordinación entre el Estado y los Municipios
+### CAPITULO I. De la Coordinación entre los Tres Órdenes de Gobierno
 
 ###### Artículo 118.
 
@@ -1069,7 +1459,7 @@ III.- Las Instituciones de Procuración y Administración de Justicia;
 
 IV.- Los Ayuntamientos; y (sic)
 
-### CAPITULO III. De la Coordinación Intermunicipal
+### CAPITULO II. De la Coordinación entre el Estado y los Municipios
 
 ###### Artículo 121.
 
@@ -1091,7 +1481,7 @@ IV.- Los demás que determinen otras Leyes, Convenios y disposiciones Legales ap
 
 La coordinación en Seguridad Pública Estatal y Municipal estará sujeta a los preceptos de la presente Ley, sus Reglamentos, Convenios y demás disposiciones Legales aplicables.
 
-### CAPITULO UNICO. Disposiciones Generales
+### CAPITULO III. De la Coordinación Intermunicipal
 
 ###### Artículo 124.
 
@@ -1107,9 +1497,9 @@ II.- Los programas y acciones de Seguridad Pública, tendientes a la prevención
 
 III.- Las demás que señalen los ordenamientos Legales de la materia o las Autoridades competentes.
 
-## TITULO DECIMO PRIMERO. De la Participación de la Comunidad, de los Sistemas de Apoyo y Vinculación con la Sociedad
+## TITULO DECIMO. Del Consejo Estatal de Seguridad Pública
 
-### CAPITULO I. De la Participación Ciudadana
+### CAPITULO UNICO. Disposiciones Generales
 
 ###### Artículo 126.
 
@@ -1191,9 +1581,9 @@ IV.- Ser de reconocida capacidad y probidad y contar con estudios y experiencia 
 
 El Consejo sesionará por lo menos una vez cada seis meses, a convocatoria de su Presidente, quien integrará la agenda de los asuntos a tratar; en las sesiones del Consejo Estatal, de acuerdo con las materias contempladas en la orden del día, previa invitación o convocatoria, podrán participar Autoridades de los tres órdenes de Gobierno y representantes de organizaciones ciudadanas que se requieran, para una eficiente coordinación y solución de los asuntos en materia de Seguridad Pública.
 
-## TITULO DECIMO SEGUNDO. De los Registros de las Instituciones de Seguridad Pública y sus Organismos Auxiliares
+## TITULO DECIMO PRIMERO. De la Participación de la Comunidad, de los Sistemas de Apoyo y Vinculación con la Sociedad
 
-### CAPITULO II. De los Sistemas Estatales de Denuncia Pública y de Localización de Personas y Objetos
+### CAPITULO I. De la Participación Ciudadana
 
 ###### Artículo 130.
 
@@ -1269,7 +1659,7 @@ Al momento de su instalación, cada Comité, designará de entre sus miembros a 
 
 En ningún caso, la participación de la comunidad en materia de Seguridad Pública, podrá incluir actividades conferidas por mandato, legal a las autoridades responsables de la misma.
 
-### CAPITULO I. Del Registro
+### CAPITULO II. De los Sistemas Estatales de Denuncia Pública y de Localización de Personas y Objetos
 
 ###### Artículo 139.
 
@@ -1295,9 +1685,9 @@ El Consejo Estatal de Seguridad Pública vinculará el acceso al Sistema Estatal
 
 Los procedimientos de operación del Sistema Estatal de Denuncia Pública y de Localización de Personas y Objetos, se regularán en el Reglamento respectivo.
 
-## TITULO DECIMO TERCERO. De los Servicios de Seguridad Privada
+## TITULO DECIMO SEGUNDO. De los Registros de las Instituciones de Seguridad Pública y sus Organismos Auxiliares
 
-### CAPITULO II. De las Reglas de Acceso a los Registros
+### CAPITULO I. Del Registro
 
 ###### Artículo 144.
 
@@ -1357,7 +1747,7 @@ II.- Mediante los instrumentos de información Nacional sobre Seguridad Pública
 
 III.- Como complemento a este registro, la Secretaría de Seguridad Pública, a través de su Dirección de Seguridad Pública y Tránsito, se responsabilizará de proporcionar al Padrón Nacional de Licencias, del Sistema Nacional de Seguridad Pública, la información relativa a la expedición de licencias de conducir en el Estado.
 
-### CAPITULO III. De la Información y Logística
+### CAPITULO II. De las Reglas de Acceso a los Registros
 
 ###### Artículo 155.
 
@@ -1367,9 +1757,17 @@ La información de los registros será controlada bajo los principios de confide
 
 Para el acceso de los registros, se establecerán los siguientes niveles de consulta, exclusivos para:
 
-I.- Integrantes de la Policía Estatal Preventiva;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Mandos de la Policía Estatal Preventiva;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+I.- Integrantes de la Agencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+II.- Mandos de la Agencia;
 
 III.- Particulares que presten servicios de seguridad privada en el Estado;
 
@@ -1387,15 +1785,15 @@ VIII.- Autoridades federales.
 
 Para acceder a los niveles de consulta, deberán especificarse las claves confidenciales, autorizaciones, responsables y demás condiciones de seguridad de acuerdo a los lineamientos establecidos por el Sistema Nacional de Seguridad Pública, a fin de que se registre cualquier movimiento o consulta a los sistemas de información.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO III. De la Información y Logística
 
 ###### Artículo 158.
 
 Para el cumplimiento de las funciones de Información y logística, todas las Autoridades en materia de Seguridad Pública de la Entidad, así como sus Dependencias y organismos auxiliares, estarán obligadas a proporcionar la información que solicite la Secretaría de Seguridad Pública, para la formulación de políticas Públicas en materia de Seguridad.
 
-## TITULO DECIMO CUARTO. De la Fabricación y Comercialización de Uniformes e Insignias Policiales
+## TITULO DECIMO TERCERO. De los Servicios de Seguridad Privada
 
-### CAPITULO II. De la Autorización y Revalidación
+### CAPITULO I. Disposiciones Generales
 
 ###### Artículo 159.
 
@@ -1415,7 +1813,7 @@ Los servicios de seguridad privada que proporcionan los particulares son auxilia
 
 La omisión de lo establecido en este capítulo, dará lugar a no otorgar la autorización o en su caso, a la cancelación de la misma; así como a la aplicación de las sanciones y multas respectivas.
 
-### CAPITULO III. Del Registro de los Servicios de Seguridad Privada y del Personal
+### CAPITULO II. De la Autorización y Revalidación
 
 ###### Artículo 163.
 
@@ -1439,7 +1837,11 @@ c).- Cédula de Identificación Fiscal;
 
 d).- Licencia de Portación de Armas de Fuego, expedida por la Autoridad competente, para su utilización en territorio del Estado y en la modalidad de la seguridad especificada;
 
-e).- Póliza de fianza en términos del Reglamento de la presente Ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+e).- Póliza de fianza por tres mil veces el salario mínimo vigente en la Entidad, a favor de la Secretaría de Finanzas del Gobierno del Estado de Hidalgo, a fin de garantizar el pago de las sanciones a que haya lugar.
 
 f).- Permiso, en su caso, de la Autoridad competente, para la instalación del equipo de radiocomunicación y uso de la frecuencia respectiva;
 
@@ -1491,9 +1893,13 @@ VII.- Vigilancia Auxiliar; y
 
 VIII.- Actividades distintas a las anteriores, relacionadas y vinculadas directamente con los servicios de seguridad privada, describiéndolas pormenorizadamente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 165.
 
-Ningún funcionario o policía en activo de las Instituciones de Seguridad Pública, ya sean de la Federación, Estados, Municipios o del Distrito Federal, podrá desempeñarse como personal directivo, operativo o administrativo, ser socio o propietario, por sí o por interpósita persona, de una empresa que preste servicios de seguridad privada.
+Ningún funcionario o servidor público en activo de las Instituciones de Seguridad Pública, ya sean de la Federación, Estados, Municipios o del Distrito Federal, podrá desempeñarse como personal directivo, operativo o administrativo, ser socio o propietario, por sí o por interpósita persona, de una empresa que preste servicios de seguridad privada.
 
 ###### Artículo 166.
 
@@ -1507,7 +1913,7 @@ La autorización que se otorgue es intransferible y especificará la modalidad o
 
 La autorización podrá ser revalidada, siempre y cuando se solicite por lo menos 20 días hábiles, antes de que termine el periodo de su vigencia. La petición deberá hacerse por escrito a la Secretaría de Seguridad Pública, anexando las constancias que acrediten el cumplimiento de las disposiciones contenidas en este título y en su Reglamento. En un plazo igual, se dará respuesta y de ser revalidada la autorización, se entregará al interesado, previo pago de los derechos respectivos.
 
-### CAPITULO IV. De los Principios Básicos de Actuación y Obligaciones del Personal Operativo
+### CAPITULO III. Del Registro de los Servicios de Seguridad Privada y del Personal
 
 ###### Artículo 169.
 
@@ -1515,7 +1921,7 @@ El registro de los particulares que prestan servicios de Seguridad Privada, es u
 
 La Secretaría de Seguridad Pública mantendrá actualizado este registro, para lo cual, los prestadores del servicio de Seguridad Privada con Autorización Estatal o Federal, estarán obligados a informarle bimestralmente de todas las modificaciones que tenga en los servicios que proporcionen, instalaciones y equipo, incluyendo las altas y bajas de su personal directivo, administrativo y operativo, indicando las causas de dichas bajas y, en su caso, la existencia de procesos jurisdiccionales que afecten su situación laboral.
 
-### CAPITULO V. De las Obligaciones de los Prestadores del Servicio de Seguridad Privada
+### CAPITULO IV. De los Principios Básicos de Actuación y Obligaciones del Personal Operativo
 
 ###### Artículo 170.
 
@@ -1547,7 +1953,7 @@ En caso de baja del elemento, el prestador del servicio deberá recoger la cédu
 
 La omisión a esta disposición será motivo de las multas respectivas y su reincidencia motivará la cancelación de la autorización concedida.
 
-### CAPITULO VI. De las Visitas de Verificación
+### CAPITULO V. De las Obligaciones de los Prestadores del Servicio de Seguridad Privada
 
 ###### Artículo 172.
 
@@ -1563,7 +1969,11 @@ IV.- En sus documentos, bienes muebles, inmuebles, insignias e identificaciones 
 
 V.- Los vehículos a su servicio deberán ostentar visiblemente la denominación, razón social o nombre, logotipo, el número del registro Estatal de particulares que prestan servicios de seguridad privada y número económico que los identifique plenamente; en ningún caso, usarán colores que por Reglamento utilizan los vehículos de Seguridad Pública, ni tendrán torretas con micas o luces que los puedan confundir con las patrullas oficiales;
 
-VI.- El uniforme, insignias y divisas que utilice el personal operativo de los prestadores del servicio de Seguridad Privada, deberá ser notoriamente diferente en cuanto a colores y modelos de los que reglamentariamente corresponde usar a las Policías Federal, Estatal y Municipales Preventivas, a las Fuerzas Armadas o a cualquier otra Autoridad, de manera que a simple vista, no exista la posibilidad de confusión; y,
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+VI.- El uniforme, insignias, divisas y demás que utilice el personal operativo de las empresas de seguridad privada o los prestadores de este servicio, deberán ser distintos a los que de manera reglamentaria utilicen las fuerzas armadas, las Corporaciones de Seguridad pública Federales, Estatales y Municipales, en cuanto a colores, modelos, diseños, estampados u otras características, de manera que a simple vista no exista la posibilidad de confusión; y
 
 VII.- Su personal operativo deberá recibir capacitación permanente, usará el uniforme y equipo únicamente en los lugares y horarios de prestación del servicio de seguridad privada.
 
@@ -1591,7 +2001,7 @@ IX.- Rendir bimestralmente a la Secretaría de Seguridad Pública los informes r
 
 X.- Informar inmediatamente a la Autoridad competente, de aquellas conductas que se presuman delictivas, en las que intervenga su personal, y aportar los datos de que disponga para el esclarecimiento de los hechos.
 
-### CAPITULO VII. De las Sanciones y de los Recursos
+### CAPITULO VI. De las Visitas de Verificación
 
 ###### Artículo 174.
 
@@ -1605,7 +2015,7 @@ Los verificadores, para practicar una visita deberán estar provistos de orden e
 
 El personal directivo, administrativo y operativo de Seguridad Privada, sujeto a verificación, estará obligado a permitir el acceso y a proporcionar las facilidades necesarias a los verificadores para el desempeño de su labor, mostrar su identificación y documento que contenga la orden de visita.
 
-### CAPITULO UNICO. Disposiciones Generales
+### CAPITULO VII. De las Sanciones y de los Recursos
 
 ###### Artículo 177.
 
@@ -1633,7 +2043,7 @@ Las demás causas que constituyan infracción a los ordenamientos jurídicos que
 
 Los afectados por los actos o resoluciones de la Secretaría de Seguridad Pública, serán impugnables ante el Tribunal Fiscal Administrativo.
 
-## TITULO DECIMO QUINTO. De la Prevención y Readaptación Social
+## TITULO DECIMO CUARTO. De la Fabricación y Comercialización de Uniformes e Insignias Policiales
 
 ### CAPITULO UNICO. Disposiciones Generales
 
@@ -1653,15 +2063,19 @@ En el caso de la fabricación por parte de una empresa privada. Su comercializac
 
 El Estado y en su caso los Ayuntamientos, en sus respectivos ámbitos de competencia, serán los titulares de los diseños de los uniformes e insignias policiales; por tal razón, las empresas contratadas para su fabricación y comercialización, estarán obligados al término de su contratación a entregar los moldes y demás instrumentos de diseño que se utilicen en la fabricación de los uniformes e insignias policiales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 184.
 
-Los diseños y demás características especiales de los uniformes e insignias para la Policía Estatal Preventiva, serán aprobados por la Secretaría de Seguridad Pública.
+Los diseños y demás características especiales de los uniformes e insignias para la Agencia, serán aprobados por la Secretaría.
 
 ###### Artículo 185.
 
 La fabricación, comercialización y el uso indebido de los uniformes, insignias y demás elementos utilizados en su diseño y que son reservados para el uso de los Cuerpos de Seguridad Pública, será sancionado de conformidad con la Legislación Penal.
 
-## TITULO DECIMO SEXTO. De la Administración y Seguridad en los Servicios Aeroportuarios del Poder Ejecutivo Estatal
+## TITULO DECIMO QUINTO. De la Prevención y Readaptación Social
 
 ### CAPITULO UNICO. Disposiciones Generales
 
@@ -1683,7 +2097,11 @@ VI.- Integrar los expedientes, tratándose de beneficios del Fuero Federal, remi
 
 VII.- Vigilar el cumplimiento del objeto del patronato de personas liberadas contenido en la Ley de la materia así como de su Reglamento;
 
-VIII.- Proponer la suscripción de Convenios que deba celebrar el Estado con la Federación y otras Entidades en materia de prestación de servicios técnicos para la readaptación social, de prevención de la delincuencia, de infracciones de menores y traslado de internos del Orden Común y Federal a Centros Federales de Readaptación Social;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+VIII.- Proponer la suscripción de Convenios que deba celebrar el Estado con la Federación y otras Entidades Federativas en materia de prestación de servicios técnicos para la readaptación social, de prevención de la delincuencia, de adolescentes infracciones y traslado de internos del orden común y Federal a Centros Federales de Readaptación Social;
 
 IX.- Coordinar programas y acciones con Instituciones que puedan apoyar la realización de tareas de prevención de conductas infractoras y delictivas, de readaptación y reincorporación social;
 
@@ -1695,21 +2113,41 @@ XII.- Coadyuvar en coordinación con Dependencias Gubernamentales, Instituciones
 
 XIII.- Coadyuvar con la Autoridad Judicial en los casos que establece el Artículo 95 del Código Penal vigente en el Estado, proporcionando los estudios técnicos correspondientes;
 
-XIV.- Proporcionar lo (sic) antecedentes penales de sentenciados a las Autoridades competentes que lo soliciten en un plazo no mayor de 72 horas y expedir constancias de los mismos para el ejercicio de un derecho o el cumplimiento de un deber Legalmente previsto;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XV.- Administrar los Consejos y Centros a que se refiere el Artículo 3 de la Ley Tutelar para Menores Infractores del Estado, vigilando que se apliquen las medidas dictadas para su tratamiento y se cumplan las disposiciones contenidas en la Ley de los Consejos Tutelares para Menores Infractores en el Estado;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
-XVI.- Aplicar los criterios de clasificación y programa de tratamiento de menores infractores; y
+XIV.- Proporcionar los antecedentes penales de sentenciados a las Autoridades competentes que lo soliciten en un plazo no mayor de 72 horas y expedir constancias de los mismos para el ejercicio de un derecho o el cumplimiento de un deber legalmente previsto;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+XV.- Administrar el Centro de Internamiento de Adolescentes Infractores;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
+XVI.- Vigilar en coordinación con el Agente del Ministerio Público las casas de arraigo; y
 
 XVII.- Las demás que le señalen las Leyes y Reglamentos vigentes en la Entidad, así como los Acuerdos emitidos por el Gobernador del Estado y el Secretario de Seguridad Pública.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 187.
 
-La Dirección General de Prevención y Readaptación Social, de manera coordinada con la Dirección General de la Policía Estatal Preventiva, determinará y supervisará las actividades de los custodios de los Centros de Readaptación y de los Centros a que se refiere el Artículo 3 de la Ley Tutelar para Menores Infractores del Estado; así como el funcionamiento de los sistemas de seguridad de dichos centros.
+La Dirección General de Prevención y Readaptación Social, de manera coordinada con la Agencia, determinará y supervisará las actividades de los custodios de los Centros de Readaptación y de los Centros de Internamiento de Adolescentes Infractores, así como el funcionamiento de los sistemas de seguridad de dichos centros.
 
 ###### Artículo 188.
 
 Rendirá información a la Secretaría de Seguridad Pública y con autorización de ésta, al Consejo Estatal de Seguridad Pública, información sobre los procesados y sentenciados; Centros de Readaptación Social donde se encuentren recluidos, así como de los internos que hayan cumplido su sentencia o hayan obtenido su libertad por algún beneficio contenido en la Ley de Ejecución de Penas vigente en el Estado.
+
+## TITULO DECIMO SEXTO. De la Administración y Seguridad en los Servicios Aeroportuarios del Poder Ejecutivo Estatal
+
+### CAPITULO UNICO. Disposiciones Generales
 
 ###### Artículo 189.
 
@@ -1776,3 +2214,31 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto deberá ser Publicado en el Periódico Oficial del Estado y entrará en vigor a partir del día primero de enero del año dos mil nueve, con excepción de los Artículos 117 fracción III y 132 del Código de Procedimientos Penales que entrarán en vigor al día siguiente de su Publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El personal de la Dirección General de la Policía Ministerial y de la Dirección General de Seguridad Pública y Tránsito del Estado, pasarán a formar parte de la Secretaría de Seguridad Pública del Estado, conservando sus derechos laborales vigentes.
+
+###### ARTÍCULO CUARTO.
+
+Los bienes muebles, tales como: armamento, equipo de investigación, equipo administrativo, radio-comunicación y vehículos con que físicamente cuenta la Dirección General de Seguridad Pública y Tránsito del Estado y la Dirección General de la Policía Ministerial al momento de la entrada en vigor del presente Decreto, pasarán inmediatamente a formar parte de la Secretaría de Seguridad Pública. Asimismo, se harán todas las transferencias que se deriven de los presupuestos asignados no ejercidos en el presente ejercicio, y autorizados conforme a derecho.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de Finanzas y la Secretaría de Administración del Gobierno del Estado, tomarán las medidas administrativas y financieras para la transferencia a que se hace referencia en este Decreto, debiendo existir un acta de entrega-recepción validada por la Secretaría de Contraloría del Gobierno del Estado.
+
+###### ARTÍCULO SEXTO.
+
+Todos los asuntos de la Dirección General de Seguridad Pública y Tránsito del Estado y de la Dirección General de la Policía Ministerial que se encuentren en trámite, pasarán a la competencia de la Secretaría de Seguridad Pública del Estado, quien deberá desahogarlos y concluirlos de acuerdo con las disposiciones legales aplicables.
