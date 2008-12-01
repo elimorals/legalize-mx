@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2008-09-17"
+last_updated: "2008-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGANICO DE LA FINANCIERA RURAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE DICIEMBRE DE 2008.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -571,9 +571,7 @@ III. Coadyuvar con las unidades administrativas correspondientes para el desarro
 
 IV. Presentar al Consejo políticas para la selección, aceptación y administración de negocios fiduciarios, de la prestación de la actividad valuatoria así como de la administración de fondos que deriven de las disposiciones aplicables;
 
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-V. Dirigir la elaboración de mecanismos para dar seguimiento a la cobranza de la cartera crediticia;
+V. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2008)
 
 > <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
@@ -603,9 +601,7 @@ VI. Coadyuvar en la preparación de la información que por Ley y disposiciones 
 
 VII. Establecer mecanismos de evaluación que permitan detectar variaciones respecto de los resultados de los programas y productos;
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-VIII. Establecer mecanismos para dar seguimiento a la gestión de cobranza de la cartera crediticia;
+VIII. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2008)
 
 IX. (DEROGADA, D.O.F. 15 DE MAYO DE 2008)
 
@@ -617,7 +613,9 @@ XI. Contribuir a la mejora continua e innovación de los programas, productos y 
 
 XII. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
 
-XIII. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
+
+XIII. Coordinar las actividades de análisis del mercado objetivo de la Financiera Rural y análisis de las tendencias nacionales e internacionales de los mercados vinculados al medio rural;
 
 > <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
@@ -643,7 +641,9 @@ II. Realizar el análisis de las tendencias nacionales e internacionales de los 
 
 III. Realizar los trabajos de investigación que le sean encomendados en el ámbito de su competencia, o coordinar su elaboración a través de prestadores de servicios especializados; y
 
-IV. Las demás que le encomiende el Director General Adjunto de Planeación Estratégica y Análisis Sectorial en el ámbito de su competencia.
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
+
+IV. Las demás que le encomiende el Director Ejecutivo de Coordinación y Evaluación Regional en el ámbito de su competencia.
 
 > <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2008)</small>
 
@@ -661,7 +661,7 @@ V. Preparar la información que por Ley y disposiciones normativas debe ser entr
 
 VI. Coordinar la aplicación de los mecanismos de evaluación que permitan detectar variaciones respecto de los programas y productos;
 
-VII. Coordinar la aplicación de los mecanismos para dar seguimiento a la gestión de cobranza de la cartera crediticia;
+VII. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2008)
 
 VIII. (DEROGADA, D.O.F. 15 DE MAYO DE 2008)
 
@@ -887,11 +887,15 @@ XIV. Coordinar la preparación de reportes de seguimiento de las agencias en mat
 
 > <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-XV. Establecer, dirigir y supervisar la función de promoción a través de técnicas de mercadeo, la venta de productos y servicios crediticios, así como la detección de zonas y clientes potenciales para el desarrollo; y
+XV. Establecer, dirigir y supervisar la función de promoción a través de técnicas de mercadeo, la venta de productos y servicios crediticios, así como la detección de zonas y clientes potenciales para el desarrollo; y (sic)
 
 > <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-XVI. Dirigir la instrumentación de productos y programas de atención a los segmentos del mercado objetivo de la Institución.
+XVI. Dirigir la instrumentación de productos y programas de atención a los segmentos del mercado objetivo de la Institución;
+
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
+
+XVII. Dirigir, establecer y coordinar los mecanismos para dar seguimiento a la cobranza administrativa y extrajudicial de la cartera crediticia.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ABRIL DE 2008)</small>
 
@@ -989,21 +993,7 @@ VIII. Coadyuvar en el establecimiento, dirección y supervisión de la función 
 
 IX. Coadyuvar en la coordinación de la preparación de los reportes de seguimiento de la agencias (sic) en materia de fomento y promoción del crédito.
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2008)</small>
-
-ARTICULO 40 BIS.- Corresponde a la Dirección Ejecutiva de Promoción de Financiamientos Especializados:
-
-I. Coordinar la promoción de reportos de la Financiera Rural para incrementar y diversificar su portafolio crediticio, en estricto apego a los lineamientos de administración de riesgos de la institución;
-
-II. Identificar proyectos productivos potenciales en el medio rural, que requieran de financiamientos especializados para su viabilidad;
-
-III. Estructurar financiamientos y cofinanciamientos acorde con las necesidades de mercado, tomando en cuenta los instrumentos financieros existentes tanto en mercado nacional como internacional;
-
-IV. Identificar a los actores involucrados en los financiamientos y cofinanciamientos estructurados (otras entidades gubernamentales, otras instituciones financieras, fondos de inversión privados, etc.) y fungir como enlace entre éstos y los productores y emprendedores rurales involucrados en los proyectos a financiarse;
-
-V. Fomentar la inserción de los productores y emprendedores rurales mexicanos en las cadenas productivas nacionales e internacionales, y
-
-VI. Fomentar la participación de Financiera Rural en foros internacionales y buscar la participación de instituciones extranjeras en proyectos productivos del medio rural mexicano.
+ARTICULO 40 BIS.- (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2008)
 
 ###### ARTICULO 41.
 
@@ -1023,9 +1013,33 @@ IV. Elaborar en coordinación con otras áreas de la institución, en su caso, e
 
 V. Instrumentar los programas específicos que en materia de financiamiento rural se determinen en el Presupuesto de Egresos de la Federación, en los que se podrán incluir programas de tasa preferenciales, así como coordinarse con instancias que aporten capital de riesgo para el apoyo de diversos proyectos vinculados con el objeto de la Financiera;
 
-VI. Coordinar el desarrollo de programas de detección de oportunidades de negocio en las zonas rurales, con el propósito de definir estrategias de promoción orientadas a la inversión y al financiamiento de proyectos productivos que impulsen el desarrollo rural; y
+VI. Coordinar el desarrollo de programas de detección de oportunidades de negocio en las zonas rurales, con el propósito de definir estrategias de promoción orientadas a la inversión y al financiamiento de proyectos productivos que impulsen el desarrollo rural; y (sic)
 
-VII. Coordinar el desarrollo de esquemas y programas de detección de necesidades de financiamiento e inversión a nivel estatal y municipal, con objeto de vincularlos a los programas institucionales.
+VII. Coordinar el desarrollo de esquemas y programas de detección de necesidades de financiamiento e inversión a nivel estatal y municipal, con objeto de vincularlos a los programas institucionales;
+
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
+
+VIII. Coordinar la promoción de reportos de la Financiera Rural para incrementar y diversificar su portafolio crediticio, en estricto apego a los lineamientos de administración de riesgos de la institución;
+
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
+
+IX. Identificar proyectos productivos potenciales en el medio rural, que requieran de financiamientos especializados para su viabilidad;
+
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
+
+X. Estructurar financiamientos y cofinanciamientos acorde con las necesidades de mercado, tomando en cuenta los instrumentos financieros existentes tanto en mercado nacional como internacional;
+
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
+
+XI. Identificar a los actores involucrados en los financiamientos y cofinanciamientos estructurados (otras entidades Gubernamentales, otras instituciones financieras, fondos de inversión privados, etc.) y fungir como enlace entre éstos y los productores y emprendedores rurales involucrados en los proyectos a financiarse;
+
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
+
+XII. Fomentar la inserción de los productores y emprendedores rurales mexicanos en las cadenas productivas nacionales e internacionales; y
+
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
+
+XIII. Fomentar la participación de Financiera Rural en foros internacionales y buscar la participación de instituciones extranjeras en proyectos productivos del medio rural mexicano.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1155,11 +1169,15 @@ V. Dictar estrategias y políticas para la planeación financiera y administraci
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
-VI. Dictar políticas y estrategias en materia presupuestal, y
+VI. Dictar políticas y estrategias en materia presupuestal, y (sic)
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
-VII. Definir estrategias y políticas encaminadas al desarrollo e implantación del sistema de gestión de calidad y el programa de certificación y mejora continua.
+VII. Definir estrategias y políticas encaminadas al desarrollo e implantación del sistema de gestión de calidad y el programa de certificación y mejora continua;
+
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
+
+VIII. Dictar estrategias y políticas en materia operativa, encaminadas al cumplimiento de la supervisión y control de la dispersión, aplicación de la concentración de recursos, conciliación operativo-contable de las operaciones y administración de las Bases de Datos Institucionales.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1193,11 +1211,9 @@ X. Supervisar el proceso de programación, presupuestación, control y seguimien
 
 XI. Establecer los lineamientos para generar la información presupuestal para responder a los requerimientos internos y externos de las autoridades.
 
-> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
 
-###### ARTICULO 47.
-
-Corresponde a la Subdirección Corporativa de Sistemas:
+ARTICULO 46 BIS.- Corresponde a la Dirección Ejecutiva de Tecnologías de la Información:
 
 I. Definir lineamientos en relación a planeación y administración de la plataforma informática y sus actualizaciones tecnológicas;
 
@@ -1207,9 +1223,41 @@ III. Definir lineamientos y proyectos en relación con las adecuaciones, actuali
 
 IV. Emitir lineamientos relativos a la operación y seguridad informática de la institución tendientes a preservar la integridad de los sistemas de cómputo y telecomunicaciones, así como la salvaguarda de la información Institucional;
 
-V. Definir lineamientos para la identificación y evaluación de los requerimientos de bienes y servicios informáticos, y
+V. Supervisar la identificación y evaluación de los requerimientos de bienes y servicios informáticos, y (sic)
 
-VI. Proponer estrategias y proyectos de sistematización y actualización tecnológica encaminados a mejorar procesos administrativos y de operación de la institución.
+VI. Proponer estrategias y proyectos de sistematización y actualización tecnológica encaminados a mejorar procesos administrativos y de operación de la institución; y
+
+VII. Las demás que le encomiende el Director General Adjunto de Finanzas, Operaciones y Sistemas en el ámbito de su competencia.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
+###### ARTICULO 47.
+
+Corresponde a la Subdirección Corporativa de Sistemas:
+
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
+
+I. Ejecutar los lineamientos en relación a planeación y administración de la plataforma informática y sus actualizaciones tecnológicas;
+
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
+
+II. Ejecutar proyectos relativos a los servicios de soporte técnico y telecomunicaciones;
+
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
+
+III. Ejecutar los proyectos en relación con las adecuaciones, actualizaciones y nuevos desarrollos de sistemas aplicativos que la institución requiera o utilice;
+
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
+
+IV. Ejecutar Proyectos relativos a la operación y seguridad informática de la institución tendientes a preservar la integridad de los sistemas de cómputo y telecomunicaciones, así como la salvaguarda de la información Institucional;
+
+V. Definir lineamientos para la identificación y evaluación de los requerimientos de bienes y servicios informáticos, y (sic)
+
+VI. Proponer estrategias y proyectos de sistematización y actualización tecnológica encaminados a mejorar procesos administrativos y de operación de la institución;
+
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
+
+VII. Las demás que le encomiende el Director Ejecutivo de Tecnologías de la Información en el ámbito de su competencia.
 
 > <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1235,13 +1283,25 @@ VII. Proponer estrategias y proyectos encaminados a mejorar el aprovechamiento d
 
 ARTICULO 48 BIS.- Corresponde a la Dirección Ejecutiva de Operación:
 
-I. Establecer mecanismos de revisión para que las operaciones de crédito cumplan con los términos y condiciones establecidos por los órganos e instancias facultadas;
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
 
-II. Proponer los lineamientos para el registro, resguardo y custodia de la documentación legal, de garantías y valores que respaldan las operaciones de crédito autorizadas;
+I. Establecer mecanismos de supervisión sobre la dispersión de los recursos;
 
-III. Establecer los mecanismos para la liberación de recursos; y
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
 
-IV. Coordinar y establecer mecanismos de supervisión sobre la aplicación de la concentración de recursos recibidos.
+II. Establecer los mecanismos de conciliación de cifras de cartera de crédito, apoyos administrativos y cualquier otra operación de financiamiento que realice la Financiera Rural, respecto de la contabilidad institucional;
+
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
+
+III. Dirigir la definición, administración, operación y control de la base de datos de la cartera de crédito Institucional, así como de los apoyos administrados y cualquier otra operación de financiamiento;
+
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
+
+IV. Establecer los lineamientos y mecanismos por los cuales optimice, con base en las necesidades de operación de la institución, la funcionalidad de los sistemas, relativos a la operación de financiamientos y apoyos institucionales; y
+
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
+
+V. Establecer mecanismos de supervisión sobre la aplicación de la concentración de los recursos recibidos.
 
 > <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2008)</small>
 
@@ -1477,19 +1537,29 @@ III. Sinaloa, y
 
 IV. Sonora.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 57.
 
-La Coordinación Regional Norte tendrá como sede la ciudad de Torreón, Coahuila y se adscriben a su competencia las siguientes entidades federativas:
+La Coordinación Regional Norte tendrá como sede la ciudad de Monterrey, Nuevo León y se adscriben a su competencia las siguientes entidades federativas:
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 I. Chihuahua,
 
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
 II. Coahuila,
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 III. Nuevo León,
 
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+
 IV. Tamaulipas, y
+
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 V. Durango.
 
@@ -1898,3 +1968,7 @@ UNICO.- La presente Reforma al Estatuto y las modificaciones que en ella se comp
 D.O.F. 17 DE SEPTIEMBRE DE 2008.
 
 UNICO.- La presente Reforma al Estatuto y las modificaciones que en ella se comprenden, deberán publicarse en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE DICIEMBRE DE 2008.
+
+UNICO.- La presente reforma al Estatuto y las modificaciones que en ella se comprenden, deberán publicarse en el Diario Oficial de la Federación.
