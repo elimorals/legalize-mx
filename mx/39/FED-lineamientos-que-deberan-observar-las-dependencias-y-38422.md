@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-que-deberan-observar-las-dependencias-y-38422"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2004-04-06"
-last_updated: "2004-04-06"
+last_updated: "2008-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38422&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-12-09"
 
 LINEAMIENTOS QUE DEBERAN OBSERVAR LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA FEDERAL, EN LA RECEPCION, PROCESAMIENTO, TRAMITE, RESOLUCION Y NOTIFICACION DE LAS SOLICITUDES DE CORRECCION DE DATOS PERSONALES QUE FORMULEN LOS PARTICULARES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE DICIEMBRE DE 2008.
 
 Lineamientos publicados en la Primera Sección del Diario Oficial de la Federación, el martes 6 de abril de 2004.
 
@@ -55,7 +55,9 @@ III. Notificación de procedencia o improcedencia: notificación mediante la cua
 
 IV. Constancia de corrección de datos personales: documento mediante el cual se hace constar que se realizó la corrección parcial o total de los datos personales, en caso de que ésta proceda.
 
-Tercero.- Las unidades de enlace y el personal habilitado en las oficinas, representaciones y delegaciones de las dependencias y entidades deberán registrar la recepción, procesar y dar trámite a todas las solicitudes de corrección parcial o total de datos personales a través del Sistema de Solicitudes Información (SISI) y la aplicación informática referida en el Lineamiento segundo fracción IV de los lineamientos publicados en el Diario Oficial de la Federación el 25 de agosto de 2003.
+> <small>(REFORMADO, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
+
+Tercero.- Las Unidades de Enlace y el personal habilitado en las oficinas, representaciones y delegaciones de las dependencias y entidades deberán registrar la recepción, procesar y dar trámite a todas las solicitudes de corrección parcial o total de datos personales a través del Sistema INFOMEX y la aplicación informática referida en el Lineamiento Segundo, fracción IV de los Lineamientos publicados en el Diario Oficial de la Federación el 25 de agosto de 2003.
 
 Cuarto.- En el caso de que los plazos y procedimientos aplicables a las solicitudes de acceso y corrección de datos personales se precisen como servicios o trámites, de conformidad con las fracciones VII y VIII del artículo 7 de la Ley y 77 de su Reglamento, los particulares titulares de los datos personales deberán presentar sus solicitudes conforme a lo que ahí se establezca.
 
@@ -89,7 +91,9 @@ Séptimo.- Para registrar las solicitudes de corrección parcial o total de dato
 
 Octavo.- Si la solicitud de corrección parcial o total de los datos personales no reúne los requisitos establecidos en el lineamiento sexto anterior, la Unidad de Enlace, dentro de los primeros diez días hábiles contados a partir de la presentación de la solicitud, requerirá al particular por correo certificado con acuse de recibo, corrija la solicitud o aporte elementos adicionales, observando lo siguiente:
 
-I. Se deberá realizar un registro en el SISI de la emisión del requerimiento, a través de la modalidad de respuesta “Requerimiento de Información Adicional”.
+> <small>(REFORMADA, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
+
+I. Se deberá realizar un registro en el Sistema INFOMEX de la emisión del requerimiento, a través de la modalidad de respuesta “Requerimiento de Información Adicional”.
 
 II. Si el particular no aportó la documentación que motiva la corrección requerida, la Unidad de Enlace le solicitará que entregue dicha documentación en original o copia simple, según lo establezca la unidad administrativa responsable de realizar la corrección, ya sea acudiendo personalmente al domicilio de la Unidad de Enlace o enviándola por correo certificado o mensajería.
 
@@ -101,17 +105,27 @@ Transcurrido un mes sin que el particular atienda el requerimiento a que se refi
 
 Noveno.- La Unidad de Enlace, dentro de los treinta días hábiles siguientes a la recepción de la solicitud, deberá enviar al solicitante la notificación de procedencia o improcedencia de la corrección parcial o total de los datos personales, a través de correo certificado con notificación, observando lo siguiente:
 
-I. La Unidad de Enlace o los Servidores Públicos Habilitados, utilizarán el módulo manual del SISI para registrar la notificación de procedencia o improcedencia de la corrección parcial o total de datos personales, en las modalidades de respuestas establecidas en el capítulo IV siguiente.
+> <small>(REFORMADA, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
 
-II. Si se niega la corrección parcial o total de datos personales, en la notificación de improcedencia, el Comité de Información deberá fundar y motivar la improcedencia total o parcial de las modificaciones solicitadas, indicando al solicitante su derecho a interponer un recurso de revisión ante el IFAI y el plazo que tiene para presentarlo. Con lo anterior concluirá el procedimiento de la solicitud, debiéndose hacer los registros respectivos en el módulo manual del SISI, tanto de la negativa como de las razones que la fundaron y motivaron.
+I. La Unidad de Enlace o los servidores públicos habilitados, utilizarán el módulo manual del Sistema INFOMEX para registrar la notificación de procedencia o improcedencia de la corrección parcial o total de datos personales, en las modalidades de respuestas establecidas en el Capítulo IV siguiente.
+
+> <small>(REFORMADA, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
+
+II. Si se niega la corrección parcial o total de datos personales, en la notificación de improcedencia, el Comité de Información deberá fundar y motivar la improcedencia total o parcial de las modificaciones solicitadas, indicando al solicitante su derecho a interponer un recurso de revisión ante el IFAI y el plazo que tiene para presentarlo. Con lo anterior, concluirá el procedimiento de la solicitud, debiéndose hacer los registros respectivos en el módulo manual del Sistema INFOMEX, tanto de la negativa como de las razones que la fundaron y motivaron.
 
 III. Si se otorga la corrección parcial o total de datos personales, se enviará al solicitante por correo certificado con notificación, la notificación de procedencia, informándole que la corrección de sus datos operará una vez que se obtenga la confirmación de la recepción de dicha notificación, a efectos de comprobar que fue acreditada su identidad por parte del Servicio Postal Mexicano. De haber optado el particular por acudir a las oficinas de la Unidad de Enlace o de los Servidores Públicos Habilitados, se tomará como confirmación de la recepción de la notificación de procedencia, el momento en que se dé por notificado ante la propia Unidad de Enlace o el Servidor Público Habilitado, debiendo registrarse en el módulo manual del SISI la entrega respectiva.
+
+> <small>(ADICIONADO, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
+
+De haber optado el particular por acudir a las oficinas de la Unidad de Enlace o de los servidores públicos habilitados, se tomará como confirmación de la recepción de la notificación de procedencia, el momento en que se dé por notificado ante la propia Unidad de Enlace o el servidor público habilitado, debiendo registrarse en el módulo manual del Sistema INFOMEX la entrega respectiva.
 
 IV. La notificación de procedencia o improcedencia no podrá ser enviada a través de correo certificado con notificación si el solicitante decide recoger dicha notificación mediante representante legal. En tal caso, el representante deberá acudir directamente a la Unidad de Enlace o a la oficina del Servidor Público Habilitado para acreditar tal representación y recibir la notificación.
 
 V. En caso de que el solicitante haya requerido el envío de la constancia de corrección de datos personales por correo certificado con notificación, la Unidad de Enlace deberá enviar junto con la notificación de procedencia citada en la fracción III anterior, la ficha de pago en donde se indiquen los costos correspondientes al envío de la constancia de corrección de los datos personales. Asimismo, si el particular se encuentra bajo el supuesto establecido en el segundo párrafo del artículo 24 de la Ley, la Unidad de Enlace deberá enviar, junto con la notificación de procedencia, la ficha de pago en donde se indiquen los costos correspondientes al envío y/o reproducción de la constancia de corrección de sus datos personales.
 
-Los costos citados serán calculados a través de la aplicación informática para generar formatos de pagos para solicitudes manuales y de datos personales, que se encuentra disponible en el SISI.
+> <small>(REFORMADO, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
+
+Los costos citados serán calculados a través de la aplicación informática para generar formatos de pagos para solicitudes manuales y de datos personales, que se encuentra disponible en el Sistema INFOMEX.
 
 VI. Si el solicitante entregó a la Unidad de Enlace la documentación original en la que motiva la corrección requerida, ésta deberá remitirla al solicitante, junto con la notificación de procedencia o improcedencia citada en las fracciones II y III.
 
@@ -133,17 +147,25 @@ Décimo segundo.- En los casos en que la solicitud de corrección de datos perso
 
 ### Capítulo IV. De la recepción de solicitudes de corrección de datos personales por medios electrónicos
 
-Décimo tercero.- En las solicitudes de corrección parcial o total de datos personales cuya recepción se realice por medios electrónicos, las unidades de enlace observarán lo dispuesto por los Lineamientos Octavo, Noveno y Décimo anteriores, salvo en lo que respecta al envío del “Requerimiento de Información Adicional” a través de correo certificado con acuse de recibo, el cual se realizará directamente a los solicitantes a través de los medios de comunicación electrónica empleados en el módulo electrónico del SISI. En caso de que la resolución de la solicitud niegue la corrección de datos personales, la dependencia o entidad deberá indicarle al solicitante que podrá interponer el recurso de revisión ante el IFAI a través de los distintos medios disponibles.
+> <small>(REFORMADO, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
+
+Décimo tercero.- En las solicitudes de corrección parcial o total de datos personales cuya recepción se realice por medios electrónicos, las unidades de enlace observarán lo dispuesto por los Lineamientos Octavo, Noveno y Décimo anteriores, salvo en lo que respecta al envío del “Requerimiento de Información Adicional” a través de correo certificado con acuse de recibo, el cual se realizará directamente a los solicitantes a través de los medios de comunicación electrónica empleados en el módulo electrónico del Sistema INFOMEX. En caso de que la resolución de la solicitud niegue la corrección de datos personales, la dependencia o entidad deberá indicarle al solicitante que podrá interponer el recurso de revisión ante el IFAI a través de los distintos medios disponibles.
 
 Décimo cuarto.- Si la solicitud de corrección parcial o total de los datos personales no reúne los requisitos establecidos en el lineamiento Sexto anterior, la Unidad de Enlace observará lo dispuesto en el lineamiento octavo anterior, con las siguientes precisiones en su fracción II:
 
-I. Si el particular no aportó la documentación que motiva la corrección requerida, la Unidad de Enlace le solicitará que entregue dicha documentación en original o copia simple, según lo establezca la unidad administrativa responsable de realizar la corrección. En caso de que se requiera la documentación en original, el particular la podrá entregar acudiendo personalmente al domicilio de la Unidad de Enlace o por correo o mensajería, en caso de solicitar copia simple, el particular la podrá entregar a través del SISI mediante la digitalización del documento.
+> <small>(REFORMADA, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
 
-Décimo quinto.- La notificación de procedencia o improcedencia se deberá registrar en el SISI en los mismos plazos y bajo los mismos procedimientos que se establecen en el lineamiento noveno anterior, pero con las siguientes precisiones:
+I. Si el particular no aportó la documentación que motiva la corrección requerida, la Unidad de Enlace le solicitará que entregue dicha documentación en original o copia simple, según lo establezca la unidad administrativa responsable de realizar la corrección. En caso de que se requiera la documentación en original, el particular la podrá entregar acudiendo personalmente al domicilio de la Unidad de Enlace o por correo o mensajería, en caso de solicitar copia simple, el particular la podrá entregar a través del Sistema INFOMEX mediante la digitalización del documento.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
+
+Décimo quinto.- La notificación de procedencia o improcedencia se deberá registrar en el Sistema INFOMEX en los mismos plazos y bajo los mismos procedimientos que se establecen en el Lineamiento Noveno anterior, pero con las siguientes precisiones:
 
 I. En los casos en que la solicitud de corrección de datos personales corresponda a un trámite o servicio de conformidad con lo dispuesto en el lineamiento cuarto anterior, la Unidad de Enlace deberá registrar la respuesta a través de la modalidad “La solicitud no corresponde al marco de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental”, y estará obligada a orientar al particular acerca de los requisitos y procedimientos necesarios para llevar a cabo el trámite de corrección de datos personales.
 
-II. Si se otorga la corrección parcial o total de los datos personales, el envío de la notificación de procedencia deberá registrarse en el SISI a través de la modalidad de respuesta “Entrega de información en medio electrónico” indicando el número de guía y la fecha de envío a través del Servicio Postal Mexicano (SEPOMEX). Además, en caso de que el particular hubiere requerido el envío de la constancia de corrección de datos personales por correo certificado con notificación, o se encuentre bajo el supuesto establecido en el segundo párrafo del artículo 24 de la Ley, la ficha de pago correspondiente no deberá ser enviada como archivo adjunto a través del SISI, sino que se deberá seguir el procedimiento descrito en el lineamiento noveno anterior.
+> <small>(REFORMADA, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
+
+II. Si se otorga la corrección parcial o total de los datos personales, el envío de la notificación de procedencia deberá registrarse en el Sistema INFOMEX a través de la modalidad de respuesta “Entrega de información en medio electrónico” indicando el número de guía y la fecha de envío a través del Servicio Postal Mexicano (SEPOMEX). Además, en caso de que el particular hubiere requerido el envío de la constancia de corrección de datos personales por correo certificado con notificación, o se encuentre bajo el supuesto establecido en el segundo párrafo del artículo 24 de la Ley, la ficha de pago correspondiente no deberá ser enviada como archivo adjunto a través del Sistema INFOMEX, sino que se deberá seguir el procedimiento descrito en el Lineamiento Noveno anterior.
 
 Décimo sexto.- Una vez que las Unidades de Enlace hubieren comprobado la recepción del pago a que se refiere la fracción V del lineamiento décimo, enviarán la constancia de corrección de datos personales por correo certificado con notificación. Este último servicio no aplicará en caso de que el solicitante decida recoger su resolución mediante representante legal. En tal caso, dicho representante deberá acudir directamente a la Unidad de Enlace o a la oficina del Servidor Público Habilitado para acreditar tal representación y recibir la información.
 
@@ -153,13 +175,17 @@ Décimo séptimo.- En los casos de recepción física de solicitudes de correcci
 
 ### Capítulo VI. De la confidencialidad
 
-Décimo octavo.- Las solicitudes de corrección parcial o total de datos personales, al contener información clasificada como confidencial en términos del artículo 18 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, no podrán ser dadas a conocer al público en el SISI.
+> <small>(REFORMADO, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
+
+Décimo octavo.- Las solicitudes de corrección parcial o total de datos personales, al contener información clasificada como confidencial en términos del artículo 18 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, no podrán ser dadas a conocer al público en el Sistema INFOMEX.
 
 ### Capítulo VII. De los plazos y términos
 
 Décimo noveno.- Para efectos del procedimiento de corrección de datos personales, se atenderán los plazos y términos establecidos en los artículos 25 de la Ley y 79 de su Reglamento, por lo que la atención de este tipo de solicitudes no podrá exceder de treinta días hábiles contados a partir de la fecha de presentación de la misma.
 
-Vigésimo.- Se entenderán como días inhábiles aquellos mencionados en el lineamiento décimo séptimo de los lineamientos publicados en el Diario Oficial de la Federación el 12 de junio de 2003, así como a los preceptos de la Ley Federal de Procedimiento Administrativo supletoria de la Ley.
+> <small>(REFORMADO, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
+
+Vigésimo.- Se entenderán como días inhábiles los que determine anualmente el Instituto mediante la publicación correspondiente en el Diario Oficial de la Federación, así como los señalados como tales en la Ley Federal de Procedimiento Administrativo y en la Ley Federal del Trabajo en su parte conducente.
 
 ### Capítulo VIII. De la naturaleza de los sistemas y bases de datos para su corrección
 
@@ -174,3 +200,13 @@ Vigésimo segundo.- Respecto de las cuotas para los trámites de corrección par
 UNICO.- Los presentes Lineamientos entrarán en vigor el 16 de abril de 2004.
 
 Así lo acordó y aprobó el Pleno del Instituto Federal de Acceso a la Información Pública, por unanimidad en sesión celebrada el día nueve de diciembre de dos mil tres, ante el Secretario de Acuerdos.- La Comisionada Presidenta, María Marván Laborde.- Rúbrica.- Los Comisionados: Horacio Aguilar Alvarez de Alba, Alonso Gómez-Robledo Verduzco, Juan Pablo Guerrero Amparán, José Octavio López Presa.- Rúbricas.- El Secretario de Acuerdos, Francisco Ciscomani Freaner.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LOS PRESENTES LINEAMIENTOS.</small>
+
+D.O.F. 2 DE DICIEMBRE DE 2008.
+
+PRIMERO.- Las presentes modificaciones entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los particulares que se encuentren registrados en el Sistema de Solicitudes de Información (SISI) podrán seguir utilizando su mismo nombre de usuario y contraseña en el Sistema INFOMEX, toda vez que dichos datos serán reconocidos por el nuevo Sistema.
+
+TERCERO.- Las dependencias y entidades de la Administración Pública Federal, deberán sustituir el vínculo al Sistema de Solicitudes de Información (SISI) por el del Sistema INFOMEX en sus portales de internet, a más tardar al día de la entrada en operación del Sistema.
