@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-26735
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2007-11-07"
+last_updated: "2008-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO ARTEAGA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 2 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
 
@@ -1764,3 +1766,9 @@ El Estado y los Municipios de Querétaro, para el ejercicio fiscal 2007, podrán
 ###### ARTÍCULO TERCERO.
 
 Para el ejercicio fiscal 2008, el Estado y los Municipios de Querétaro deberán considerar en sus respectivas iniciativas de leyes de ingresos esta disposición.
+
+P.O. 2 DE DICIEMBRE DE 2008.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Hacienda de los Municipios del Estado de Querétaro Arteaga y la Ley del Impuesto Predial de los Municipios del Estado de Querétaro, publicadas en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", número 51, de fecha 13 de noviembre de 2002.
