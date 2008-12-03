@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-la-comision-de-pertinencia-de-la-universidad-3839
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-02-18"
-last_updated: "2004-02-18"
+last_updated: "2008-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE LA COMISION DE PERTINENCIA DE LA UNIVERSIDAD TECNOLOGICA DE LA COSTA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el miércoles 18 de febrero de 2004.
 
@@ -81,9 +81,15 @@ Los miembros de la comisión durarán dos años en su encargo, que será honorí
 
 La Comisión será presidida por el Rector quien podrá nombrar en su representación a su elección al Director de Carrera que él designe, y fungirá como Secretario Técnico de la misma, el Director de Vinculación.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 7.
 
-La Comisión se reunirá cuando menos tres veces al año, que coincidirán con cada fin de cuatrimestre electivo (sesiones ordinarias), para el caso de que tenga necesidad de reunirse para tratar algún asunto de su competencia y que no pueda esperar, se podrán reunir en cualquier tiempo (sesiones extraordinarias), para sesionar, tomar acuerdos rendir dictámenes, tendrá que haber mayoría simple para ser válidos los acuerdos que tomen, en todos los casos.
+(sic)
+
+I. La Comisión celebrará por lo menos una vez al año en sesión ordinaria y podrá celebrar las reuniones extraordinarias que sean necesarias para la atención de aquellos asuntos que por su importancia, urgencia y trascendencia así lo exijan.
+
+Para que las reuniones y los acuerdos tomados en ella sean válidos y eficaces, se requerirá la asistencia del 50% más uno de los integrantes, debiendo estar invariablemente los servidores públicos de la Universidad.
 
 ###### Artículo 8.
 
@@ -146,3 +152,9 @@ M.I. Alberto Murguía Macías
 SECRETARIO
 
 Lic. María Dolores Castillo Noyola
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE DICIEMBRE DE 2008.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
