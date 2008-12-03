@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-consejo-de-la-judicatura-del-59566"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-25"
-last_updated: "2008-02-25"
+last_updated: "2008-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59566&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-11-28"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 25 de febrero de 2008.
 
@@ -346,9 +346,15 @@ XXXV. Analizar y en su caso, autorizar las resoluciones, así como la aplicació
 
 XXXVI. Aprobar las políticas institucionales en materia de modernización, simplificación y mejoramiento administrativo de las áreas administrativas y de apoyo judicial, del Tribunal y del Consejo;
 
-XXXVII. Determinar las políticas y lineamientos para la elaboración y actualización del Catálogo de Puestos, tanto del Tribunal como del Consejo, de conformidad a la normatividad aplicable; y
+XXXVII. Determinar las políticas y lineamientos para la elaboración y actualización del Catálogo de Puestos, tanto del Tribunal como del Consejo, de conformidad a la normatividad aplicable; y (sic)
 
-XXXVIII. Las demás que se deriven de los ordenamientos jurídicos aplicables.
+(ADICIONADA [N. DE E. REFORMADA], G.O. 3 DE DICIEMBRE DE 2008) (F. DE E., G.O. 18 DE JUNIO DE 2009)
+
+XXXVIII. Determinar el criterio prevaleciente cuando exista contradicción de criterios generales sustentados por los Consejeros, en asuntos similares;
+
+(ADICIONADA, G.O. 3 DE DICIEMBRE DE 2008) (F. DE E., G.O. 18 DE JUNIO DE 2009)
+
+XXXIX. Las demás que se deriven de los ordenamientos jurídicos aplicables.
 
 #### SECCIÓN SEGUNDA. DE LAS SESIONES PLENARIAS
 
@@ -834,9 +840,15 @@ VI. Solicitar a la Secretaría General la inclusión de asuntos en el orden del 
 
 VII. Solicitar al Presidente, se convoque en términos del presente Reglamento, a sesión extraordinaria;
 
-VIII. Dictar con independencia de que el motivo de una queja de lugar o no a responsabilidad administrativa, las providencias oportunas para su corrección o remedio inmediato, atendiendo a la naturaleza del asunto y siempre que no incidan directamente en la función jurisdiccional. Asimismo, de considerarlo procedente, turnará el asunto a la Comisión de Disciplina Judicial para que determine lo que en derecho corresponda; y
+VIII. Dictar con independencia de que el motivo de una queja de lugar o no a responsabilidad administrativa, las providencias oportunas para su corrección o remedio inmediato, atendiendo a la naturaleza del asunto y siempre que no incidan directamente en la función jurisdiccional. Asimismo, de considerarlo procedente, turnará el asunto a la Comisión de Disciplina Judicial para que determine lo que en derecho corresponda; y (sic)
 
-IX. Las que le confieran la Ley Orgánica y demás disposiciones legales aplicables.
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 3 DE DICIEMBRE DE 2008)</small>
+
+IX. Someter a consideración del pleno, la contradicción de criterios generales sustentados por otros Consejeros en asuntos similares, a efecto de que éste determine el criterio prevalenciente (sic);
+
+> <small>(ADICIONADA, G.O. 3 DE DICIEMBRE DE 2008)</small>
+
+X. Las que le confieran la Ley Orgánica y demás disposiciones legales aplicables.
 
 ###### Artículo 59.
 
@@ -1923,3 +1935,9 @@ LA SECRETARIA GENERAL DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 (Firma)
 
 LIC. MATILDE RAMÍREZ HERNÁNDEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 3 DE DICIEMBRE DE 2008.
+
+> <small>N. DE E. EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.</small>
