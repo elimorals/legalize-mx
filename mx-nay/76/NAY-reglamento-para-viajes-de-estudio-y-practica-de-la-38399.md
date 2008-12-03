@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-viajes-de-estudio-y-practica-de-la-38399"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-02-18"
-last_updated: "2004-02-18"
+last_updated: "2008-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO PARA VIAJES DE ESTUDIO Y PRACTICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el miércoles 18 de febrero de 2004.
 
@@ -55,9 +55,13 @@ Con el objeto de validar la práctica como tal, cuando se consideré pertinente 
 
 El soporte de la práctica deberá estar sustentado con electos existentes con los preceptos de "Saber Hacer" de los programas de estudios y/o en el perfil de egreso requerido dentro de los planes y programas de estudios vigentes.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 6.
 
-Para la realización de un viaje de practicas, se debe de contemplar la participación total del grupo, en el caso de no existir la disponibilidad en al menos 3 alumnos la práctica no se podrá llevar a cabo.
+(sic)
+
+I.- Para la realización de un viaje de estudio y práctica, se debe contemplar la participación total del grupo, en el caso de que no exista cuando menos la disponibilidad del 85% de los alumnos, con causa justificada, la práctica no se podrá llevar a cabo. (sic)
 
 ###### Artículo 7.
 
@@ -160,3 +164,9 @@ M.l. Alberto Munguía Macías
 SECRETARIO
 
 Lic. María Dolores Carrillo Noyola
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE DICIEMBRE DE 2008.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL DEL ESTADO DE NAYARIT VIGENTE.
