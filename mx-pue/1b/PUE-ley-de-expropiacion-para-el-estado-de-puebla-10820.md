@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-expropiacion-para-el-estado-de-puebla-10820"
 country: "mx"
 rank: "ley"
 publication_date: "1975-10-31"
-last_updated: "1975-10-31"
+last_updated: "2008-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DE EXPROPIACION PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION PARA EL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 3 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento No.1 del Periódico Oficial del Estado de Puebla, el viernes 31 de octubre de 1975.
 
@@ -184,3 +186,15 @@ TERCERO.- Los casos de expropiación que se encuentren en trámite, se ajustará
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica ciudad de Puebla de Zaragoza, a los 31 días del mes de octubre de 1975.- Lic Carlos Jesús Arruti y Ramírez, D.P.- Lic. Román Salazar Ramírez, D.S.- Abel Juárez Palacios, D.S.- Rúbricas.
 
 Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los treinta y un días del mes de octubre del mil novecientos setenta y cinco.- El Gobernador Constitucional del Estado, Dr. Alfredo Toxqui Fernández de Lara.- Rúbrica.- El Secretario General de Gobierno, Lic. Carlos Trujillo Pérez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE DICIEMBRE DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley de Expropiación para el Estado de Puebla, de fecha treinta y uno de octubre de mil novecientos setenta y cinco y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Los Expedientes de Expropiación que se encuentren en trámite, se ajustarán a esta Ley para la continuación del procedimiento respectivo.
+
+Artículo Cuarto.- Se abroga el Reglamento del artículo 18 de la Ley de Expropiación para el Estado de Puebla, de fecha nueve de noviembre de dos mil uno.
