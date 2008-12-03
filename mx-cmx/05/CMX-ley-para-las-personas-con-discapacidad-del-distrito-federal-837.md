@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-las-personas-con-discapacidad-del-distrito-federal-837
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2008-05-23"
+last_updated: "2008-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=837&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1995-12-14"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Gaceta Oficial del Distrito Federal, el jueves 21 de diciembre de 1995.
 
@@ -50,13 +50,19 @@ La presente Ley es de orden público e interés social y tiene por objeto normar
 
 Para los efectos de esta Ley se entenderá por:
 
-> <small>(REFORMADA, G.O. 1 DE JULIO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- Persona con Discapacidad.- Ser humano que presenta temporal o permanentemente una disminución en sus facultades físicas, intelectuales, o sensoriales que le limitan realizar una actividad normal.
+> <small>(REFORMADA, G.O. 3 DE DICIEMBRE DE 2008)</small>
+
+I.- Persona con discapacidad.- Todo ser humano que presenta permanentemente una afección parcial o total en sus facultades físicas, intelectuales o sensoriales que le limitan realizar una actividad normal y le afectan en su entorno social;
 
 II.- Prevención.- La adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, mentales y sensoriales;
 
-III.- Rehabilitación.- Un proceso de duración limitada y con un objetivo definido, encaminado a permitir que una persona con discapacidad alcance un nivel físico, mental, sensorial o social óptimo, proporcionándole así los medios de modificar su propia vida;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 3 DE DICIEMBRE DE 2008)</small>
+
+III.- Rehabilitación.- Un proceso de duración limitada y con un objetivo definido encaminado a permitir que una persona con discapacidad alcance un nivel físico, mental, sensorial o social óptimo, proporcionándole así los medios de modificar su propia vida e integración social;
 
 > <small>(REFORMADA, G.O. 1 DE JULIO DE 1999)</small>
 
@@ -66,7 +72,11 @@ V.- Ayudas técnicas.- Aquellos dispositivos tecnológicos que ayudan a la movil
 
 VI.- Barreras físicas.- Todos aquellos obstáculos que dificultan, entorpecen o impiden a las personas con discapacidad, su libre desplazamiento en lugares públicos o privados, exteriores, interiores o el uso de los servicios comunitarios;
 
-VII.- Trabajo protegido.- Aquel que realizan las personas con discapacidad mental o de cualquier otro tipo y que no pueden ser incorporadas al trabajo común por no alcanzar a cubrir los requerimientos de productividad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 3 DE DICIEMBRE DE 2008)</small>
+
+VII.- Trabajo protegido.- Aquel que realizan las personas con discapacidad mental o de cualquier otro tipo y que no pueden ser incorporadas al trabajo común por carecer de la capacitación y el adiestramiento necesario, para lograr índices de productividad;
 
 VIII.- (DEROGADA, G.O. 1 DE JULIO DE 1999)
 
@@ -78,9 +88,29 @@ IX.- Organizaciones de y para Personas con Discapacidad.- Todas aquellas figuras
 
 X.- Norma Oficial.- Norma Oficial Mexicana para la Atención Integral a Personas con Discapacidad.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 3 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 3o.
 
-(DEROGADO, G.O. 1 DE JULIO DE 1999)
+Los principios que deberán observar permanentemente las políticas públicas en el Distrito Federal, destinadas a las personas con discapacidad, son las siguientes:
+
+a) Equidad;
+
+b) Justicia Social;
+
+c) Equiparación de Oportunidades;
+
+d) Reconocimiento de las diferencias;
+
+e) Dignidad;
+
+f) Integración;
+
+g) Respeto; y
+
+h) Accesibilidad.
 
 ###### Artículo 4o.
 
@@ -106,9 +136,11 @@ III.- Planear y ejecutar el Sistema de Identificación de las Personas con Disca
 
 IV.- Promover la difusión y la defensa de los derechos de las personas con discapacidad, así como las disposiciones legales que los contemplan, a fin de garantizar su efectiva aplicación;
 
-> <small>(REFORMADA, G.O. 1 DE JULIO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V.- Propiciar la orientación y asistencia jurídica, en los juicios de interdicción y otras acciones legales para las personas con discapacidad, especialmente a las personas con discapacidad intelectual;
+> <small>(REFORMADA, G.O. 3 DE DICIEMBRE DE 2008)</small>
+
+V.- Implementar, los Programas Operativos necesarios para la orientación, asistencia jurídica y representación, en todo tipo de juicios y otras acciones legales para las personas discapacitadas;
 
 > <small>(REFORMADA, G.O. 1 DE JULIO DE 1999)</small>
 
@@ -138,7 +170,11 @@ k) Construcción y adquisición de vivienda;
 
 l) Actividades deportivas, recreativas y culturales;
 
-m) Reconocimiento, difusión, enseñanza y utilización del Lenguaje de Señas en servicios de salud, educación, empleo, capacitación, transporte, desarrollo social, servicios públicos, servicios al público y comerciales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 3 DE DICIEMBRE DE 2008)</small>
+
+m) Reconocimiento, difusión, enseñanza y utilización del Lenguaje de Señas Mexicanas, en servicios de salud, educación, cultura, recreación, empleo, capacitación, transporte, desarrollo social, servicios públicos, servicios al público, comerciales, nomenclatura y turismo;
 
 n) Creación y asignación de becas deportivas, educativas y otros apoyos;
 
@@ -176,7 +212,13 @@ XIV.- Las demás que el Jefe de Gobierno (sic) Distrito Federal y el Consejo Pro
 
 El Jefe de Gobierno del Distrito Federal constituirá el Consejo Promotor para la Integración al Desarrollo de las Personas con Discapacidad, el cual será un órgano de consulta y asesoría para establecer acciones específicas de concertación, coordinación, planeación y promoción de los trabajos necesarios, para garantizar condiciones favorables a las personas con discapacidad, al que convocará a:
 
-I.- Representantes de las Organizaciones de y para personas con discapacidad del Distrito Federal; y
+I.- Representantes de las Organizaciones de y para personas con discapacidad del Distrito Federal; y (sic)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE DICIEMBRE DE 2008)</small>
+
+II.- Dos Diputados que designe la Comisión de Atención a Grupos Vulnerables, de la Asamblea Legislativa del Distrito Federal;
 
 II.- Diputados que designe la Comisión por los Derechos e Integración de las Personas con Discapacidad de la Asamblea de Representantes del Distrito Federal.
 
@@ -216,9 +258,11 @@ I.- Artículos o accesorios de uso personal;
 
 II.- Medicamentos y accesorios o dispositivos de carácter médico;
 
-> <small>(REFORMADA, G.O. 1 DE JULIO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- Prótesis, órtesis, sillas de ruedas, rampas y elevadores adaptables a automóviles y casas-habitación, regletas para ciegos, máquinas de escribir, bastones, andaderas, aparatos para sordera, teléfonos de teclas para sordos y otras ayudas técnicas;
+> <small>(REFORMADA, G.O. 3 DE DICIEMBRE DE 2008)</small>
+
+III.- Prótesis, órtesis, sillas de ruedas, rampas y elevadores adaptables a automóviles y casas habitación; regletas para ciegos, máquinas de escribir, bastones y andaderas; aparatos para sordera, teléfonos de teclas para sordos, computadoras y otras ayudas técnicas;
 
 IV.- Implementos y materiales educativos;
 
@@ -246,7 +290,11 @@ I.- Incorporar a personas con discapacidad al sistema ordinario de trabajo, o en
 
 II.- Asistencia Técnica a los sectores empresarial y comercial;
 
-III.- Incorporación de personas con discapacidad en las instancias de la Administración Pública del Distrito Federal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 3 DE DICIEMBRE DE 2008)</small>
+
+III.- Incorporación de personas con discapacidad en las instancias de la administración pública del Distrito Federal, incluyendo las Demarcaciones Territoriales; en un porcentaje del seis por ciento de la plantilla laboral;
 
 IV.- Mecanismos de financiamiento, subsidio o coinversión para la ejecución de proyectos productivos y sociales, propuestos por las Organizaciones de y para personas con discapacidad; y
 
@@ -258,11 +306,13 @@ V.- Vigilar y sancionar conforme la legislación aplicable, que las condiciones 
 
 El Jefe de Gobierno del Distrito Federal, otorgará incentivos fiscales a aquellas personas físicas o morales que contraten personas con discapacidad, así como beneficios adicionales para quienes en virtud de tales contrataciones realicen adaptaciones, eliminación de barreras físicas o rediseño de sus áreas de trabajo.
 
-> <small>(REFORMADO, G.O. 1 DE JULIO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 3 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 13.
 
-El Programa de Empleo y Capacitación, deberá incluir programas para la capacitación laboral de personas con discapacidad, la creación de agencias laborales y de centros de trabajo protegido.
+El Programa de Empleo y Capacitación, deberá incluir programas para la capacitación y el adiestramiento laboral, de personas con discapacidad, la creación de agencias laborales y de centros de trabajo protegido.
 
 ### Capítulo IV. DE LA PROMOCION Y DEFENSA DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
 
@@ -272,9 +322,19 @@ El Programa de Empleo y Capacitación, deberá incluir programas para la capacit
 
 El Jefe de Gobierno del Distrito Federal, realizará acciones para:
 
-I.- Orientar y asistir jurídicamente a las personas con discapacidad; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Difundir los derechos de las personas con discapacidad, así como las disposiciones legales que los contemplan, a fin de garantizar su efectiva aplicación.
+> <small>(REFORMADA, G.O. 3 DE DICIEMBRE DE 2008)</small>
+
+I.- Orientar, asistir y representar jurídicamente en forma gratuita a las personas con discapacidad, en todo tipo de juicios;
+
+II.- Difundir los derechos de las personas con discapacidad, así como las disposiciones legales que los contemplan, a fin de garantizar su efectiva aplicación;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE DICIEMBRE DE 2008)</small>
+
+III.- Divulgar por todos los medios, el contenido de la legislación relativa a las Garantías Constitucionales, a los Derechos Humanos y a las prerrogativas sociales destinadas a las personas discapacitadas; editando libros y folletos en Braille y videos en la Lengua de Señas Mexicanas.
 
 > <small>(ADICIONADO, G.O. 1 DE JULIO DE 1999)</small>
 
@@ -298,9 +358,13 @@ Los Organos Político Administrativos de las Demarcaciones en que se divide el D
 
 El Programa de Desarrollo Urbano del Distrito Federal, contendrá lineamientos generales para incorporar facilidades arquitectónicas y de señalización en la planificación y construcción de la infraestructura urbana de carácter público y privado a fin de facilitar el tránsito, desplazamiento y uso de estos espacios por las personas con discapacidad.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 3 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 17.
 
-En los auditorios, cines, teatros, salas de conciertos y de conferencias, centros recreativos, deportivos y en general cualquier recinto en que se presenten espectáculos públicos, los administradores u organizadores deberán establecer preferencialmente espacios reservados para personas con discapacidad que no puedan ocupar las butacas o asientos ordinarios, de conformidad con la legislación aplicable.
+En los auditorios, cines, teatros, salas de conciertos y de conferencias, centros recreativos; centros educativos, deportivos, hospitales, clínicas, restaurantes y en general cualquier recinto en que se presten servicios o se presenten espectáculos públicos, los administradores u organizadores deberán establecer espacios preferentes, reservados para personas con discapacidad que no puedan ocupar las butacas o asientos ordinarios, de conformidad con la legislación aplicable.
 
 > <small>(ADICIONADO, G.O. 1 DE JULIO DE 1999)</small>
 
@@ -316,29 +380,43 @@ La Secretaría de Desarrollo Urbano y Vivienda del Distrito Federal, instrumenta
 
 ### Capítulo VI. DE LAS PREFERENCIAS PARA EL LIBRE DESPLAZAMIENTO Y EL TRANSPORTE
 
-> <small>(REFORMADO, G.O. 1 DE JULIO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 18.
 
-La Secretaria de Transportes y Vialidad del Distrito Federal y el Sistema de Transporte Colectivo Metro, establecerán las acciones que permitan a las personas con discapacidad contar con las facilidades y preferencias que les permitan su transporte y libre desplazamiento, conforme a lo siguiente:
+La Secretaría de Transporte y Vialidad del Distrito Federal, el Sistema de Transporte Colectivo Metro, el Metrobús, el Transporte Escolar y Turístico y todo el transporte público y privado destinado a la transportación de personas, deberán implementar en las Unidades, las instalaciones necesarias, que permitan y aseguren que las personas con discapacidad viajen con máxima seguridad, facilitando su libre desplazamiento, conforme a lo siguiente:
+
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 1999)</small>
 
 I.- Los vehículos del servicio público de transporte deberán cumplir con las especificaciones técnicas que permitan el acceso y uso a las personas con discapacidad, incluyéndose la adecuación de instalaciones físicas como paraderos y estaciones, conforme a ésta Ley y sin perjuicio de lo dispuesto en otros ordenamientos legales;
 
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 1999)</small>
+
 II.- Las personas con discapacidad podrán hacer uso del servicio, los asientos y espacios que para tal efecto sean destinados en los diversos vehículos del servicio público de transporte;
+
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 1999)</small>
 
 III.- La Secretaría de Transportes y Vialidad establecerá los mecanismos necesarios para garantizar el uso adecuado de zonas como accesos, rampas y espacios de estacionamiento de vehículos en los que viajen personas con discapacidad, tanto en la vía pública, como en lugares de acceso al público;
 
 IV.- (DEROGADA, G.O. 1 DE JULIO DE 1999)
 
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 1999)</small>
+
 V.- A efecto de facilitar el estacionamiento de vehículos, de los cuales tengan que descender o ascender personas con discapacidad, la Secretaría de Transportes y Vialidad dispondrá los espacios y señalización correspondiente; y
+
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 1999)</small>
 
 VI.- El Jefe de Gobierno del Distrito Federal establecerá y vigilará la aplicación de descuentos otorgados a las personas con discapacidad en los vehículos de transporte público, concesionado y el Sistema de Transporte Colectivo Metro.
 
-> <small>(ADICIONADO, G.O. 1 DE JULIO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 3 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 18 Bis.
 
-La Secretaria de Medio Ambiente autorizará a las personas con discapacidad, previa solicitud y comprobación, su incorporación a las excepciones contempladas en los programas de restricción a la circulación vehicular. Tratándose de menores con discapacidad, personas ciegas, personas con discapacidad intelectual y los casos no previstos en la presente Ley, los responsables de su transporte en vehículos particulares serán incorporados a dichos programas.
+La Secretaría de Medio Ambiente autorizará a las personas con discapacidad, previa solicitud y comprobación, su incorporación a las excepciones contempladas en los programas de restricción a la circulación vehicular. Tratándose de menores con discapacidad, personas ciegas, personas con discapacidad intelectual y personas sordas; así como los casos no previstos en la presente Ley, los responsables de su transporte, en vehículos particulares serán incorporados a dichos programas.
 
 > <small>(REFORMADO, G.O. 1 DE JULIO DE 1999)</small>
 
@@ -398,11 +476,13 @@ EL Gobierno del Distrito Federal en coordinación con las autoridades competente
 
 La Secretaría de Turismo del Distrito Federal formulará y aplicará programas turísticos que incluyan facilidades de acceso y descuentos para las personas con discapacidad.
 
-> <small>(REFORMADO, G.O. 1 DE JULIO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 3 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 27.
 
-El Instituto de Cultura del Distrito Federal formulará y aplicará programas tendientes al desarrollo cultural de las personas con discapacidad.
+El Instituto de Cultura del Distrito Federal formulará y aplicará programas tendientes al desarrollo cultural de las personas con discapacidad; editará libros y folletos en Braille y Videos en Lengua de Señas Mexicanas, destinadas a estas Comunidades.
 
 ### Capítulo VIII. DE LA VIGILANCIA
 
@@ -481,3 +561,11 @@ G.O. 23 DE MAYO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Túrnese al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 3 DE DICIEMBRE DE 2008.
+
+Primero.- El presente Decreto, entrará en vigor a los treinta días de su publicación, en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, para su mayor difusión.
+
+Segundo.- El Gobierno del Distrito Federal y la Asamblea Legislativa del Distrito Federal, deberán disponer en el presupuesto de egresos correspondiente al año 2009, los recursos necesarios para los programas habitacionales de las personas con discapacidad.
+
+Tercero.- El Jefe de Gobierno del Distrito Federal, en un término de noventa días contados a partir de la publicación de este Decreto, realizará las adecuaciones procedentes, que se deriven del presente Decreto de6 (sic) la Iniciativa que Reforma y Adiciona diversos Artículos de la Ley para personas con discapacidad del Distrito Federal.
