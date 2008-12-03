@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-estadias-de-la-universidad-tecnologica-de-la-3840
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-02-18"
-last_updated: "2004-02-18"
+last_updated: "2008-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE ESTADIAS DE LA UNIVERSIDAD TECNOLOGICA DE LA COSTA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2008.
 
 Reglamento publicado el Periódico Oficial del Estado de Nayarit, el miércoles 18 de febrero de 2004.
 
@@ -173,6 +173,10 @@ Una vez iniciado el proyecto en la fecha marcada por el calendario académico y 
 
 Las instalaciones donde los alumnos realicen su estadía deberán ser visitadas por los asesores por lo menos tres veces durante el cuatrimestre.
 
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2008)</small>
+
+I. Se dará seguimiento al alumno por cualquier medio durante la realización de su estadía.
+
 ###### Artículo 26.
 
 Al término de la estadía el alumno presentará por escrito en la fecha señalada en el calendario académico, el desarrollo y resultado de su trabajo de estadía, documento que será una de las bases para la obtención de su grado de Técnico Superior Universitario. Este reporte será evaluado por el asesor académico, el asesor empresarial y el Director de la carrera correspondiente. Verificando su calidad de presentación, de trabajo técnico, de redacción, y cumplimiento de los lineamientos de presentación. Dicho reporte deberá ser entregado en triplicado durante la semana de exámenes finales del cuatrimestre correspondiente.
@@ -298,3 +302,9 @@ M.I. Alberto Munguia Macías
 SECRETARIO
 
 Lic. María Dolores Castro Noyola
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE DICIEMBRE DE 2008.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL DEL ESTADO DE NAYARIT.
