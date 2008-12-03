@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-alumnos-de-la-universidad-tecnologica-de-la-30452
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-04-05"
-last_updated: "2005-06-04"
+last_updated: "2008-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30452&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE ALUMNOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el sábado 5 de abril de 2003.
 
@@ -171,7 +171,15 @@ IX. Reportar a los directivos de la carrera de su adscripción, las irregularida
 
 X. No introducir a personas ajenas a la Universidad, sin contar con la autorización correspondiente;
 
-XI. Cubrir las cuotas escolares establecidas por la Institución en el tiempo asignado; de no hacerlo, perderá el derecho a cualquier trámite escolar mientras no exista un acuerdo para cubrir su adeudo correspondiente.
+XI. Cubrir las cuotas escolares establecidas por la Institución en el tiempo asignado; de no hacerlo, perderá el derecho a cualquier trámite escolar mientras no exista un acuerdo para cubrir su adeudo correspondiente;
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2008)</small>
+
+XII. Los alumnos no deberán introducir a la Universidad, objetos punzo cortantes u otro que pudiere lastimar a alguna persona o ellos mismos;
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2008)</small>
+
+XIII. No se podrán introducir juegos de azar a las instalaciones de la Universidad.
 
 ### CAPÍTULO TERCERO. DE LA PRESENTACIÓN PERSONAL
 
@@ -179,15 +187,23 @@ XI. Cubrir las cuotas escolares establecidas por la Institución en el tiempo as
 
 Como parte de una formación integral y como preparación para su ingreso al sector productivo, en su arreglo personal dentro de la Universidad, el alumno deberá obligatoriamente cumplir con las siguientes disposiciones:
 
-I. Presentarse a clases debidamente aseados;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2008)</small>
 
-II. Tener un corte de pelo adecuado;
+I.- Presentarse a clases debidamente aseado.
 
-III. Usar el uniforme reglamentario (pantalón o falda de mezclilla azul y playera blanca con el logotipo de la Universidad);
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2008)</small>
 
-IV. Los pantalones que usen deberán ser convencionales (no con tiro largo ni demasiado flojos o rotos ni usar bermudas);
+II.- Tener corte de pelo adecuado (Hombre pelo corto).
 
-V. No usar cachucha; no usar aros (piercings) en ninguna parte del cuerpo; no usar lentes obscuros, no usar walkman (audífonos) ni usar teléfonos celulares dentro del salón.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2008)</small>
+
+III.- Usar uniforme reglamentario el cual será definido por el Comité Directivo.
+
+IV.- (REFORMADA [N. DE E. DEROGADA], P.O. 3 DE DICIEMBRE DE 2008)
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2008)</small>
+
+V.- Queda prohibido usar gorra, aros (piercings) en lugares visibles del cuerpo, lentes oscuros, reproductores de música, teléfonos celulares dentro del salón de clase.
 
 ### CAPÍTULO CUARTO. DEL HORARIO DE CLASES
 
@@ -198,6 +214,10 @@ La hora de entrada y salida de clases será la que determine la Dirección de ca
 ###### Artículo 16°.
 
 Se considerará retardo cuando el alumno ingrese a clase cinco minutos después de la hora señalada para el inicio de cada clase; de entrar después de quince minutos será falta. Cada tres retardos se considerará una falta.
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2008)</small>
+
+I. Se considerará falta, cuando el alumno ingrese a clases después de diez minutos de la hora señalada para el inicio de cada clase, éste deberá contar con el 85% de las asistencias para tener derecho a la evaluación ordinaria.
 
 ###### Artículo 17°.
 
@@ -281,19 +301,19 @@ II. Quienes habiendo sido alumnos de la Universidad en el periodo cuatrimestral 
 
 Renuncian al derecho de inscribirse, quienes no concluyen los trámites de inscripción en las fechas que para el efecto haya establecido el Departamento de Servicios Escolares.
 
-###### Artículo 31°.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 31.
 
 Para ser reinscrito, el alumno deberá cumplir con los siguientes requisitos:
 
-I. No tener adeudos por cuotas escolares;
+I. Estar al corriente de sus cuotas escolares, o en su caso contar con el convenio de adeudos celebrado con el área administrativa correspondiente;
 
-II. No haber recibido sanción que implique la pérdida de su condición de alumno;
+II. Contar con su expediente escolar libre de sanciones que impliquen la pérdida de su condición de alumno;
 
 III. Tener en orden toda su documentación en el registro de control escolar;
 
-IV. Llenar y presentar la solicitud de reinscripción, y
-
-V. Cubrir las cuotas escolares correspondientes.
+IV. Presentar debidamente requisitada la solicitud de reinscripción.
 
 ###### Artículo 32°.
 
@@ -465,7 +485,9 @@ I. Tener integrado debidamente su expediente académico y administrativo;
 
 II. Haber cursado y aprobado todas las asignaturas de la carrera;
 
-III. Haber realizado la estadía y presentar la memoria correspondiente, en un plazo de 15 días naturales después del término de ésta, debidamente aprobado por el Tutor Empresarial y el Tutor Académico, así como requisitado de acuerdo al Reglamento de Estadías;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2008)</small>
+
+I (SIC). Haber realizado la estadía y presentar la memoria correspondiente, en un plazo de 30 días naturales después del término de ésta, debidamente aprobado por el tutor empresarial y tutor académico, así como requisitarlo de acuerdo al Reglamento de Estadía;
 
 > <small>(REFORMADA, P.O. 4 DE JUNIO DE 2005)</small>
 
@@ -489,13 +511,23 @@ III. No tener adeudo alguno con la Institución.
 
 Por faltas a la disciplina cometidas por los alumnos se les podrá aplicar, según sea el caso y la gravedad de la falta, las siguientes sanciones:
 
-I. Amonestación verbal o por escrito, con copia a su expediente; al acumular tres amonestaciones por escrito se hará acreedor a suspensión.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2008)</small>
 
-II. Reposición, pago o restauración de los bienes dañados o destruidos en perjuicio de la Universidad.
+I.- Se suspenderá al alumno contando los reportes y faltas cometidas siendo estas las siguientes:
 
-III. Suspensión, hasta por un año de sus derechos escolares como alumno, de acuerdo a la falta cometida.
+1 reporte al alumno se suspenderá por 1 día
 
-IV. Expulsión definitiva de la Universidad.
+2 reportes al alumno y se suspenderá por 3 días
+
+3 reportes al alumno y será expulsado definitivamente
+
+II.- Reposición, pago o restauración de los bienes dañados o destruidos en perjuicio de la Universidad.
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2008)</small>
+
+III.- Suspención (sic), hasta por un año de sus derechos escolares como alumno, de acuerdo a la falta cometida.
+
+IV.- (REFORMADA [N. DE E. DEROGADA], P.O. 3 DE DICIEMBRE DE 2008)
 
 ###### Artículo 60°.
 
@@ -575,8 +607,10 @@ C. Flavio Amaya Madera
 
 Dr. José Angel Martínez Imurriaga
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
-
 P.O. 4 DE JUNIO DE 2005.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADOS, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL DEL ESTADO DE NAYARIT.
+
+P.O. 3 DE DICIEMBRE DE 2008.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL DEL ESTADO DE NAYARIT.
