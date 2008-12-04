@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-secretaria-de-hacienda-46157"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-18"
-last_updated: "2008-08-04"
+last_updated: "2008-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2008
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2008
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 18 de agosto de 2005.
 
@@ -33,9 +33,11 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA
 
 ### CAPÍTULO I. DE LA COMPETENCIA Y ORGANIZACIÓN DE LA SECRETARÍA
 
-###### ARTÍCULO 1°.
+> <small>(REFORMADO, B.O. 4 DE DICIEMBRE DE 2008)</small>
 
-La Secretaría de Hacienda como dependencia del Poder Ejecutivo Estatal, tiene a su cargo el despacho de los asuntos que expresamente le confieren la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, Ley de Planeación del Estado, Código Fiscal del Estado, Ley de Hacienda del Estado, Ley del Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público Estatal, Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal, Ley de Obras Públicas del Estado de Sonora y otras leyes, así como los reglamentos, decretos, acuerdos, circulares, convenios de colaboración administrativa y órdenes del Gobernador del Estado.
+###### ARTICULO 1°.
+
+La Secretaría de Hacienda como dependencia del Poder Ejecutivo Estatal, tiene a su cargo el despacho de los asuntos que expresamente le confieren la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, Ley de Planeación del Estado de Sonora, el Código Fiscal del Estado de Sonora, la Ley de Hacienda del Estado de Sonora, Ley del Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público Estatal, Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal, Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado de Sonora, Ley de Alianzas Público Privadas de Servicios del Estado de Sonora y otras leyes, así como los reglamentos, decretos, acuerdos, circulares, convenios de colaboración administrativa y órdenes del Gobernador del Estado.
 
 ###### ARTÍCULO 2°.
 
@@ -45,9 +47,9 @@ Cuando en este Reglamento se haga referencia a la Secretaría y al Secretario, s
 
 Para la atención, estudio, planeación y resolución de los asuntos de su competencia, la Secretaría contará con las siguientes unidades administrativas y órganos desconcentrados:
 
-> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, B.O. 4 DE DICIEMBRE DE 2008)</small>
 
-I.- Unidades Administrativas:
+I. Unidades Administrativas:
 
 Secretaría.
 
@@ -68,8 +70,6 @@ Dirección General de Auditoría Fiscal.
 Dirección General de Bebidas Alcohólicas.
 
 Dirección General de Orientación y Asistencia al Contribuyente.
-
-Dirección General de Gestión Crediticia y Deuda Pública.
 
 Unidad de Seguimiento y Supervisión Operativa.
 
@@ -104,6 +104,8 @@ Dirección General de Coordinación Hacendaria.
 Dirección de Consultas y Estudios Jurídicos.
 
 Dirección de lo Contencioso y Recursos de Revocación.
+
+Dirección General de Crédito Público.
 
 Coordinación General del Sistema Integral de Información y Administración Financiera.
 
@@ -195,7 +197,9 @@ XXVIII. Establecer las normas, políticas y criterios a que se sujetarán los pa
 
 XXIX. Informar mensualmente al Gobernador del Estado de la situación financiera y el comportamiento de los ingresos y egresos del Estado;
 
-XXX. Autorizar la celebración de contratos de obras públicas y adquisiciones o de otra índole, que rebase las asignaciones presupuestales aprobadas para el año de que se trate;
+> <small>(REFORMADA, B.O. 4 DE DICIEMBRE DE 2008)</small>
+
+XXX. Autorizar la celebración de contratos de obras públicas y adquisiciones, Alianzas Público Privadas de Servicios o de otra índole, que rebase las asignaciones presupuestales aprobadas para el año de que se trate;
 
 XXXI. Gestionar y obtener el financiamiento necesario para consolidar la liquidez;
 
@@ -251,9 +255,29 @@ LVI. Programar, dirigir, controlar y supervisar el funcionamiento de las unidade
 
 LVII. Recibir en acuerdo a los funcionarios y empleados de la Secretaría y conceder audiencias a los particulares, de conformidad con las políticas establecidas al respecto;
 
-LVIII. Coordinar la implementación de mecanismos que contribuyan a garantizar el acceso a los ciudadanos a la información de carácter público de la Secretaría en el marco de los lineamientos de la Ley de Acceso a la Información Pública del Estado de Sonora; y
+> <small>(REFORMADA, B.O. 4 DE DICIEMBRE DE 2008)</small>
 
-LIX. Las demás que las disposiciones legales le confieran expresamente, así como de aquellas otras que le confiera el Gobernador del Estado.
+LVIII. Coordinar la implementación de mecanismos que contribuyan a garantizar el acceso a los ciudadanos a la información de carácter público de la Secretaría en el marco de los lineamientos de la Ley de Acceso a la Información Pública del Estado de Sonora;
+
+> <small>(REFORMADA, B.O. 4 DE DICIEMBRE DE 2008)</small>
+
+LIX. Expedir las políticas, criterios, lineamientos y demás normatividad para la formulación, presentación, evaluación y seguimiento de las Alianzas Público Privadas de Servicios;
+
+> <small>(ADICIONADA, B.O. 4 DE DICIEMBRE DE 2008)</small>
+
+LX. Expedir criterios de prudencia fiscal para las Alianzas Público Privadas de Servicios de conformidad con la Ley de la materia;
+
+> <small>(ADICIONADA, B.O. 4 DE DICIEMBRE DE 2008)</small>
+
+LXI. Presentar al titular del Poder Ejecutivo la información necesaria del proyecto autorizado como Alianza Público Privada de Servicios para proceder al trámite de aprobación ante el Congreso del Estado;
+
+> <small>(ADICIONADA, B.O. 4 DE DICIEMBRE DE 2008)</small>
+
+LXII. Aprobar mecanismos financieros para la constitución de Garantías Estatales de una Alianza Público Privada de Servicios en términos de la Ley de la materia; y presentar al titular del Poder Ejecutivo la información necesaria de la Garantía Estatal para su aprobación ante el Congreso del Estado; y
+
+> <small>(ADICIONADA, B.O. 4 DE DICIEMBRE DE 2008)</small>
+
+LXIII. Las demás que las disposiciones legales le confieran expresamente, así como de aquellas otras que le confiera el Gobernador del Estado.
 
 El Secretario podrá delegar, sin perjuicio de su ejercicio directo, las atribuciones contenidas en las fracciones II, IV, V, VI, IX, XI, XII, XV, XIX, XX, XXI, XXII, XXIII, XXVI, XX'VII, XXX, XXXI, XXXIII, XXXIV, XXXVII, XLIV, XLV, LII, LIII y LVI de este artículo.
 
@@ -333,7 +357,9 @@ Al frente de la Procuraduría Fiscal, habrá un Procurador Fiscal, quien siendo 
 
 Corresponde a la Subsecretaría de Ingresos las siguientes atribuciones:
 
-I. Planear y programar la política de ingresos públicos y deuda pública del Gobierno del Estado;
+> <small>(REFORMADA, B.O. 4 DE DICIEMBRE DE 2008)</small>
+
+I. Planear y programar la política de ingresos públicos del Gobierno del Estado;
 
 II. Proponer al Secretario los sistemas y procedimientos de captación de ingresos, de acuerdo a las políticas establecidas;
 
@@ -387,11 +413,11 @@ XXVI. Calificar para su aceptación las garantías que deban otorgarse a favor d
 
 XXVII. Ejercer en materia de infracciones las atribuciones delegadas a las autoridades fiscales del Estado en el Convenio de Colaboración Administrativa en Materia Fiscal Federal;
 
-XXVIII. Gestionar y negociar créditos con la banca de desarrollo nacional, organismos y fundaciones u otras instituciones para el financiamiento de infraestructura y el fortalecimiento de instituciones públicas;
+XXVIII. (DEROGADA, B.O. 4 DE DICIEMBRE DE 2008)
 
 XXIX. Revisar, evaluar y validar, en acuerdo con el Secretario, la factibilidad económica y financiera de los proyectos de inversión cuando el Gobierno del Estado actúe como avalista, deudor solidario o garante;
 
-XXX. Participar junto con las calificadoras internacionales de riesgo en la elaboración de estudios que le permitan al Estado obtener una calificación de riesgo crediticio;
+XXX. (DEROGADA, B.O. 4 DE DICIEMBRE DE 2008)
 
 XXXI. Rendir al Secretario cuenta mensual del avance en el cumplimiento de la Ley de Ingresos por ejercicio fiscal; y
 
@@ -563,7 +589,7 @@ V. Ordenar la verificación de vehículos de procedencia extranjera en circulaci
 
 > <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
-VI.· Resolver el procedimiento administrativo en materia aduanera y determinar en su caso, los impuestos, su actualización y accesorios, cuotas compensatorias, derecho de trámite aduanero, así como las demás regulaciones y restricciones no arancelarias que correspondan, que resulten a cargo de los contribuyentes, responsables solidarios y demás obligados, con motivo de la práctica de visitas domiciliarias, auditorías, revisiones de escritorio, verificaciones de origen y actos de verificación, de conformidad con las disposiciones fiscales y aduaneras en materia de su competencia;
+VI. Resolver el procedimiento administrativo en materia aduanera y determinar en su caso, los impuestos, su actualización y accesorios, cuotas compensatorias, derecho de trámite aduanero, así como las demás regulaciones y restricciones no arancelarias que correspondan, que resulten a cargo de los contribuyentes, responsables solidarios y demás obligados, con motivo de la práctica de visitas domiciliarias, auditorías, revisiones de escritorio, verificaciones de origen y actos de verificación, de conformidad con las disposiciones fiscales y aduaneras en materia de su competencia;
 
 > <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -605,7 +631,7 @@ XXIII. Enajenar para su exportación, aquellas mercancías que le hubieren sido 
 
 XXIV. Aplicar el tratamiento que establezcan las disposiciones federales, tratándose de mercancía que represente perjuicio para la seguridad nacional, la salud pública y el medio ambiente;
 
-XXV Informar a la Secretaría de Hacienda y Crédito Público del inicio del procedimiento administrativo en materia aduanera, dentro del término de quince días hábiles, contados a partir de la fecha del embargo precautorio;
+XXV. Informar a la Secretaría de Hacienda y Crédito Público del inicio del procedimiento administrativo en materia aduanera, dentro del término de quince días hábiles, contados a partir de la fecha del embargo precautorio;
 
 XXVI. Remitir a la Secretaría de Hacienda y Crédito Público, trimestralmente, un informe sobre los procedimientos administrativos en materia aduanera que se hayan iniciado en el ámbito de su competencia, y sobre el estado procesal en que se encuentren los mismos;
 
@@ -723,9 +749,11 @@ XXXIV. Las demás que le confieran las disposiciones legales aplicables y las qu
 
 DE LAS ATRIBUCIONES GENÉRICAS DE LAS DIRECCIONES GENERALES, UNIDAD DE SEGUIMIENTO Y SUPERVISIÓN OPERATIVA, COORDINACIÓN GENERAL DEL SISTEMA INTEGRAL DE INFORMACIÓN Y ADMINISTRACIÓN FINANCIERA Y DE LA DIRECCIÓN JURÍDICA
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 16.
 
-Al frente de cada una de las Direcciones Generales y de la Unidad de Seguimiento y Supervisión Operativa, habrá un Director General, de la Coordinación General del Sistema Integral de Información Financiera, un Coordinador General y de la Dirección Jurídica, un Director, quienes técnica y administrativamente serán responsables del funcionamiento de la unidad administrativa a su cargo, se auxiliarán según corresponda, por el personal Técnico y administrativo que las necesidades del servicio requieran y figuren en el presupuesto y tendrán las siguientes atribuciones genéricas:
+Al frente de cada una de las Direcciones Generales y de la Unidad de Seguimiento y Supervisión Operativa, habrá un Director General, de la Coordinación General del Sistema Integral de Información y Administración Financiera, un Coordinador General y de la Dirección Jurídica, un Director, quienes técnica y administrativamente serán responsables del funcionamiento de la unidad administrativa a su cargo, se auxiliarán según corresponda, por el personal técnico y administrativo que las necesidades del servicio requieran y figuren en el presupuesto y tendrán las siguientes atribuciones genéricas:
 
 I. Planear, programar, organizar, coordinar, dirigir, ejecutar, controlar y evaluar el desarrollo de los programas y acciones encomendados a la unidad administrativa bajo su responsabilidad, acorde a la política que define el Plan Estatal de Desarrollo;
 
@@ -1081,37 +1109,7 @@ XX. Las demás que le señale el superior jerárquico, o le confieran otras disp
 
 ###### ARTÍCULO 22.
 
-La Dirección General de Gestión Crediticia y Deuda Pública estará adscrita a la Subsecretaría de Ingresos y le corresponden las siguientes atribuciones:
-
-I. Participar en la operación y evaluación del programa estatal de financiamiento del desarrollo y su programa operativo anual, con la finalidad de cuantificar el origen y la aplicación de los recursos financieros en la Entidad, para alcanzar los objetivos establecidos en el Plan Estatal de Desarrollo y las metas de los programas sectoriales, regionales y especiales;
-
-II. Revisar los estudios financieros que se presenten para determinar su factibilidad, cuando se pretenda que el Gobierno del Estado actúe como avalista, deudor solidario o garante;
-
-III. Evaluar la factibilidad económica y financiera de los proyectos de inversión en que el Gobierno del Estado analice destinar recursos financieros;
-
-IV. Contribuir conjuntamente con las unidades administrativas de la Secretaría en la formulación e instrumentación de la política hacendaria, así como en las directrices financieras a las que se deberán someter las entidades públicas y organismos descentralizados, en los términos de la Ley de Deuda Pública del Estado;
-
-V. Participar en la formulación de estudios e investigaciones de mercado financiero, que permitan al Estado obtener condiciones favorables en servicio, plazo, estructura de pagos, tasa de interés y garantías, respecto a su deuda pública directa e indirecta;
-
-VI. Promover las acciones necesarias a fin de optimizar el perfil, estructura y costo de la deuda pública, incluyendo operaciones de cobertura, reducción y de intercambio de deuda pública;
-
-VII. Diseñar y estructurar los instrumentos financieros que permitan colocar deuda pública en los mercados de capitales, cuando las condiciones del mercado lo favorezcan;
-
-VIII. Formular los análisis en conjunto con las calificadoras internacionales de riesgo para la elaboración de estudios que le permitan al Estado obtener una mejor calificación de riesgo crediticio;
-
-IX. Participar en los análisis que se realicen para determinar la viabilidad económica y financiera de opciones de descentralización, privatización y concesiones de servicios públicos para aumentar la inversión pública, privada o mixta, con el fin de expandir la infraestructura y mejorar la calidad de los servicios públicos;
-
-X. Intervenir, cuando el Subsecretario así lo designe, en los fideicomisos o figuras jurídicas necesarias para administrar y pagar la deuda pública del Estado, con el objetivo de optimizar la estructura jurídico fiscal que repercutirá en minimizar el costo de servicio de la deuda pública;
-
-XI. Integrar los requisitos que establezcan las instituciones financieras y fuentes alternas de financiamiento, para proyectos de financiamiento para el fortalecimiento de instituciones públicas, equipamiento y obras públicas o cualquier otro proyecto que eleve la calidad de vida de la población;
-
-XII. Asesorar a las dependencias y entidades de la administración pública estatal, municipios que lo soliciten y al sector privado en la elaboración de proyectos que tengan impacto en el desarrollo social y económico del Estado y que puedan ser financiadas por la banca de desarrollo, nacional u otras instituciones promotoras del desarrollo;
-
-XIII. Analizar y proponer la negociación de créditos bajo las mejores condiciones económicas con la banca comercial, para el financiamiento del gasto público estatal;
-
-XIV. Realizar los registros y trámites legales necesarios ante autoridades locales, estatales y federales, organismos financieros autorregulados u otras instituciones, con el fin de dar cumplimiento a los requisitos necesarios para el acceso al crédito público; y
-
-XV. Las demás que le señale el superior jerárquico, o le confieran otras disposiciones legales.
+(DEROGADO, B.O. 4 DE DICIEMBRE DE 2008)
 
 ###### ARTÍCULO 23.
 
@@ -1295,9 +1293,17 @@ XXV. Participar en la elaboración de los informes sobre el estado que guarda el
 
 XXVI. Participar conjuntamente con las unidades administrativas de la Secretaría y de otras dependencias y entidades de la administración pública estatal, en los grupos de trabajo que se establezcan para determinar las medidas que deban instrumentarse para lograr un mejor cumplimiento de los objetivos y metas de los programas a cargo de las dependencias y entidades;
 
-XXVII. Elaborar estudios presupuestarios, incluyendo análisis comparativos de los esquemas presupuestarios de otros Estados o países, a efecto de proponer medidas que promuevan la orientación a resultados del presupuesto. Asimismo, participar en foros y organismos nacionales e internacionales, e impartir cursos o talleres, en temas relacionados con el ámbito de su competencia; y
+> <small>(REFORMADA, B.O. 4 DE DICIEMBRE DE 2008)</small>
 
-XXVIII. Las demás que le señale el superior jerárquico, o le confieran otras disposiciones legales.
+XXVII. Elaborar estudios presupuestarios, incluyendo análisis comparativos de los esquemas presupuestarios de otros Estados o países, a efecto de proponer medidas que promuevan la orientación a resultados del presupuesto. Asimismo, participar en foros y organismos nacionales e internacionales, e impartir cursos o talleres, en temas relacionados con el ámbito de.au competencia;
+
+> <small>(REFORMADA, B.O. 4 DE DICIEMBRE DE 2008)</small>
+
+XXVIII. Revisar, evaluar y opinar respecto al impacto futuro sobre las finanzas públicas derivadas de los proyectos que pretendan desarrollar los Entes Contratantes como Alianzas Público Privadas de Servicios en términos de la ley de la materia; y
+
+> <small>(ADICIONADA, B.O. 4 DE DICIEMBRE DE 2008)</small>
+
+XXIX. Las demás que le señale el superior jerárquico, o le confieran otras disposiciones legales.
 
 ###### ARTÍCULO 26.
 
@@ -1333,9 +1339,21 @@ XIV. Prestar la asesoría a las dependencias y entidades de la administración p
 
 XV. Aplicar la fórmula y metodología para la distribución entre los municipios de las aportaciones federales previstas en el fondo para la infraestructura social municipal del ramo 33, elaborando el acuerdo correspondiente para su publicación en el Boletín Oficial del Gobierno del Estado;
 
-XVI. Revisar y validar física y documentalmente la comprobación del gasto de inversión transferida para su ejecución a los gobiernos municipales; y
+> <small>(REFORMADA, B.O. 4 DE DICIEMBRE DE 2008)</small>
 
-XVII. Las demás que le señale el superior jerárquico, o le confieran otras disposiciones legales.
+XVI. Revisar y validar física y documentalmente la comprobación del gasto de inversión transferida para su ejecución a los gobiernos municipales;
+
+> <small>(REFORMADA, B.O. 4 DE DICIEMBRE DE 2008)</small>
+
+XVII. Elaborar y presentar al Secretario, a través del Subsecretario de Egresos, las políticas, criterios, lineamientos y demás normatividad que deba expedir la Secretaría para la formulación, presentación, evaluación, y seguimiento de proyectos como Alianzas Público Privadas de Servicios;
+
+> <small>(ADICIONADA, B.O. 4 DE DICIEMBRE DE 2008)</small>
+
+XVIII. Revisar, evaluar y opinar respecto de los diferentes análisis costo-beneficio que los Entes Contratantes realicen en términos de la Ley de Alianzas Público Privadas de Servicios del Estado de Sonora; y
+
+> <small>(ADICIONADA, B.O. 4 DE DICIEMBRE DE 2008)</small>
+
+XIX. Las demás que le señale el superior jerárquico, o le confieran otras disposiciones legales.
 
 ###### ARTÍCULO 27.
 
@@ -1923,6 +1941,64 @@ XI. Participar con la Dirección General de Coordinación Hacendaría en los gru
 
 XII. Las demás que le señale el superior jerárquico, o le confieran otras disposiciones legales.
 
+> <small>(ADICIONADO, B.O. 4 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 39 BIS.- La Dirección General de Crédito Público estará adscrita directamente al Secretario y le corresponden las siguientes atribuciones:
+
+l. Planear y programar la política de deuda pública del Gobierno del Estado de Sonora;
+
+II. Participar en la operación y evaluación del programa estatal de financiamiento del desarrollo y su programa operativo anual, con la finalidad de cuantificar el origen y la aplicación de los recursos financieros en la Entidad, para alcanzar los objetivos establecidos en el Plan Estatal de Desarrollo y las metas de los programas sectoriales, regionales y especiales;
+
+III. Revisar los estudios financieros que se presenten para determinar su factibilidad, cuando se pretenda que el Gobierno del Estado actúe como avalista, deudor solidario o garante;
+
+IV. Evaluar la factibilidad económica y financiera de los proyectos de inversión en que el Gobierno del Estado analice destinar recursos financieros;
+
+V. Contribuir conjuntamente con las unidades administrativas de la Secretaría en la formulación e instrumentación de la política hacendaria, así como en las directrices financieras a las que se deberán someter las entidades públicas y organismos descentralizados, en los términos de la Ley de Deuda Pública del Estado de Sonora;
+
+VI. Participar en la formulación de estudios e investigaciones de mercado financiero, que permitan al Estado obtener condiciones favorables en servicio, plazo, estructura de pagos, tasa de interés y garantías, respecto a su deuda pública directa e indirecta;
+
+VII. Promover las acciones necesarias a fin de optimizar el perfil, estructura y costo de la deuda pública, incluyendo operaciones de cobertura, reducción y de intercambio de deuda pública;
+
+VIII. Diseñar y estructurar los instrumentos financieros que permitan colocar deuda pública en los mercados de capitales, cuando las condiciones del mercado lo favorezcan;
+
+IX. Formular los análisis en conjunto con las calificadoras internacionales de riesgo para la elaboración de estudios que le permitan al Estado obtener una mejor calificación de riesgo crediticio;
+
+X. Participar en los análisis que se realicen para determinar la viabilidad económica y financiera de opciones de descentralización, privatización y concesiones de servicios públicos para aumentar la inversión pública, privada o mixta, con el fin de expandir la infraestructura y mejorar la calidad de los servicios públicos;
+
+XI. Intervenir, cuando el Secretario así lo designe, en los fideicomisos o figuras jurídicas necesarias para administrar y pagar la deuda pública del Estado, con el objetivo de optimizar la estructura jurídico fiscal que repercutirá en minimizar el costo de servicio de la deuda pública;
+
+XII. Integrar los requisitos que establezcan las instituciones financieras y fuentes alternas de financiamiento, para proyectos de financiamiento para el fortalecimiento de instituciones públicas, equipamiento y obras públicas o cualquier otro proyecto que eleve la calidad de vida de la población;
+
+XIII. Asesorar a las dependencias y entidades de la administración pública estatal, municipios que lo soliciten y al sector privado en la elaboración de proyectos que tengan impacto en el desarrollo social y económico del Estado y que puedan ser financiadas por la banca de desarrollo, nacional u otras instituciones promotoras del desarrollo;
+
+XIV. Analizar y proponer la negociación de créditos bajo las mejores condiciones económicas con la banca comercial, para el financiamiento del gasto público estatal;
+
+XV. Realizar los registros y trámites legales necesarios ante autoridades locales, estatales y federales, organismos financieros auto regulados u otras instituciones, con el fin de dar cumplimiento a los requisitos necesarios para el acceso al crédito público;
+
+XVI. Gestionar y negociar créditos con la banca de desarrollo nacional, organismos y fundaciones u otras instituciones para el financiamiento de infraestructura y el fortalecimiento de instituciones públicas;
+
+XVII. Revisar y evaluar las solicitudes de proyectos que presenten los Entes Contratantes para ser desarrollados como Alianzas Público Privadas de Servicios, en términos de la Ley de la materia;
+
+XVIII. Asesorar a la Secretaría y a los demás Entes Contratantes que lo soliciten en el diseño de estrategias, instrumentación y ejecución de proyectos como Alianzas Público Privadas de Servicios en términos de la Ley de la materia;
+
+XIX. Analizar las mejores prácticas y experiencias internacionales, en el desarrollo de proyectos estratégicos que cuenten con la participación de los sectores social y privado para su posible implementación como Alianzas Público Privadas de Servicios en términos de la Ley de la materia;
+
+XX. Coordinar, controlar y evaluar las opiniones que emitan la Dirección General de Inversiones Públicas y la Dirección General de Política y Control Presupuestal de solicitudes de proyectos que presenten los Entes Contratantes para ser desarrollados como Alianzas Público Privadas de Servicios en términos de la Ley de la materia;
+
+XXI. Revisar y evaluar que el modelo de Contrato que presenten los Entes Contratantes cumplan con los requisitos de la Ley de la materia;
+
+XXII. Coordinar, controlar y evaluar las opiniones que emitan la Dirección General de Inversiones Públicas y la Dirección General de Política Presupuestal respecto del modelo de contrato que presenten los Entes Contratantes para una Alianza Público Privada de Servicios en términos de la Ley de la materia;
+
+XXIII. Establecer, operar y coordinar el sistema que integre la información relativa a los contratos que celebren los Entes Contratantes para una Alianza Público Privada de Servicios en términos de la Ley de la materia;
+
+XXIV. Revisar y evaluar que el proyecto que presente un Ente Contratante para ser desarrollado como una Alianza Público Privada de Servicios cumpla con los criterios de prudencia fiscal que emita el Secretario en términos de la Ley de la materia;
+
+XXV. Revisar y evaluar las solicitudes de constitución de Garantías Estatales que presenten los Entes Contratantes para una Alianza Público Privada de Servicios en términos de la Ley de la materia;
+
+XXVI. Proponer mecanismos financieros para la constitución de Garantías Estatales, incluyendo la constitución de fideicomisos de financiamiento, garantía o fuente alterna de pago, de conformidad con las solicitudes que presenten los Entes Contratantes para una Alianza Público Privada en términos de la ley de la materia; y
+
+XXVII. Las demás que le señale el Secretario o le confieran otras disposiciones legales.
+
 ###### ARTÍCULO 40.
 
 La Coordinación General del Sistema Integral de Información y Administración Financiera estará adscrita directamente al Secretario y le corresponden las siguientes atribuciones:
@@ -2011,7 +2087,7 @@ I. Agencia Fiscal de Agua Prieta, con sede en Agua Prieta, cuya circunscripción
 
 II. Agencia Fiscal de Caborca, con sede en Caborca, cuya circunscripción territorial comprenderá el Municipio de Caborca, Sonora;
 
-III. Agencia Fiscal de Cd. Obregón, con sede en Cd. Obregón, cuya circunscripción territorial comprenderá el Municipio de Cajeme, Sonora y el poblado de Vícam del Municipio de Guaymas.
+III. Agencia Fiscal de Cd. Obregón, con sede en Cd. Obregón, cuya circunscripción territorial comprenderá el Municipio de Cajeme, Sonora y el poblado de Vícam del Municipio de Guaymas;
 
 > <small>(REFORMADO, B.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -2019,21 +2095,21 @@ Dependen de esta Agencia Fiscal, la Subagencia Fiscal California, ubicada en Cd.
 
 IV. Agencia Fiscal de Cananea, con sede en Cananea, cuya circunscripción territorial comprenderá el Municipio de Cananea, Sonora;
 
-V. Agencia Fiscal de Guaymas, con sede en Guaymas, cuya circunscripción territorial comprenderá el Municipio de Guaymas, Sonora, excepto el poblado de Vícam.
+V. Agencia Fiscal de Guaymas, con sede en Guaymas, cuya circunscripción territorial comprenderá el Municipio de Guaymas, Sonora, excepto el poblado de Vícam;
 
 > <small>(ADICIONADO, B.O. 4 DE AGOSTO DE 2008)</small>
 
 Depende de esta Agencia Fiscal la Subagencia Fiscal de Empalme, cuya circunscripción territorial comprenderá el Municipio de Empalme;
 
-VI. Agencia Fiscal de Hermosillo, con sede en Hermosillo, cuya circunscripción territorial comprenderá el Municipio de Hermosillo, Sonora.
+VI. Agencia Fiscal de Hermosillo, con sede en Hermosillo, cuya circunscripción territorial comprenderá el Municipio de Hermosillo, Sonora;
 
 > <small>(REFORMADO, B.O. 13 DE JULIO DE 2006)</small>
 
-Depende de esta Agencia Fiscal la Subagencia Fiscal del Centro de Usos Múltiples, la Subagencia Fiscal Veracruz y la Subagencia Fiscal Parque Industrial, ubicadas en Hermosillo, cuya circunscripción territorial comprenderá el citado Municipio, en concurrencia con dicha Agencia Fiscal;
+Depende de esta Agencia Fiscal la Subagencia Fiscal del Centro de Usos Múltiples, la Subagencia Fiscal Veracruz y la Subagencia Fiscal Parque Industrial, ubicadas en Hermosillo, cuya circunscripción territorial comprenderá el citado Municipio, en concurrencia con dicha Agencia Fiscal.
 
 VII. Agencia Fiscal de Huatabampo, con sede en Huatabampo, cuya circunscripción territorial comprenderá el Municipio de Huatabampo, Sonora;
 
-VIII. Agencia Fiscal de Magdalena, con sede en Magdalena de Kino, cuya circunscripción territorial comprenderá el Municipio de Magdalena, Sonora.
+VIII. Agencia Fiscal de Magdalena, con sede en Magdalena de Kino, cuya circunscripción territorial comprenderá el Municipio de Magdalena, Sonora;
 
 > <small>(ADICIONADO, B.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -2045,7 +2121,7 @@ X. Agencia Fiscal de Navojoa, con sede en Navojoa, cuya circunscripción territo
 
 Dependen de esta Agencia Fiscal, las Subagencias Fiscales de Fundición y Masiaca, ubicadas en el Municipio de Navojoa, cuyas circunscripciones territoriales comprenderán sus respectivas Comisarías;
 
-XI. Agencia Fiscal de Nogales, con sede en Nogales, cuya circunscripción territorial comprenderá el Municipio de Nogales, Sonora.
+XI. Agencia Fiscal de Nogales, con sede en Nogales, cuya circunscripción territorial comprenderá el Municipio de Nogales, Sonora;
 
 > <small>(ADICIONADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -2053,7 +2129,7 @@ Depende de esta Agencia Fiscal la Subagencia Fiscal Puerta del Sur, cuya circuns
 
 XII. Agencia Fiscal de Puerto Peñasco, con sede en Puerto Peñasco, cuya circunscripción territorial comprenderá el Municipio de Puerto Peñasco, Sonora;
 
-XIII. Agencia Fiscal de San Luis Río Colorado, con sede en San Luis Río Colorado, cuya circunscripción territorial comprenderá el Municipio de San Luis Río Colorado, Sonora.
+XIII. Agencia Fiscal de San Luis Río Colorado, con sede en San Luis Río Colorado, cuya circunscripción territorial comprenderá el Municipio de San Luis Río Colorado, Sonora;
 
 Dependen de esta Agencia Fiscal las Subagencias Fiscales de Golfo de Santa Clara y Luis B. Sánchez, ubicadas en el Municipio de San Luis Río Colorado, cuyas circunscripciones territoriales comprenderán sus respectivas Comisarías; y
 
@@ -2061,11 +2137,11 @@ Dependen de esta Agencia Fiscal las Subagencias Fiscales de Golfo de Santa Clara
 
 XlV.- Agencia Fiscal de Moctezuma, con sede en Moctezuma, cuya circunscripción territorial comprenderá el Municipio de Moctezuma, Sonora.
 
-> <small>(ADICIONADO, B.O. 4 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
 Las oficinas Administrativas de Notificación y Cobranza tendrán su sede y ejercerán sus facultades en las mismas poblaciones y municipios, respectivamente, que se establecen para las Agencias Fiscales.
 
-> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 2008)</small>
+> <small>(ADICIONADA, B.O. 4 DE AGOSTO DE 2008)</small>
 
 Las Oficinas Administrativas de Notificación y Cobranza podrán contar con oficinas auxiliares, que en todo caso se establecerán y ejercerán su competencia, en las Comisarias que cuenten con Subagencia Fiscal.
 
@@ -2195,7 +2271,11 @@ Dado en la residencia del Poder Ejecutivo del Estado en la ciudad de Hermosillo,
 
 EL C. GOBERNADOR DEL ESTADO DE SONORA, EDUARDO BOURS CASTELO. RUBRICA. El SECRETARIO DE GOBIERNO, ROBERTO RUIBAL ASTIAZARÁN. RUBRICA.
 
-> <small>N. DE E. VEASE ORGANIGRAMA EN LA SECCION I DEL B.O. DEL 18 DE AGOSTO DE 2005, PAGINA 68.</small>
+> <small>(REFORMADO, B. O. 4 DE DICIEMBRE DE 2008)</small>
+
+ORGANIGRAMA ESTRUCTURAL DE LA SECRETARÍA DE HACIENDA
+
+> <small>N. DE E. VEASE ORGANIGRAMA EN LA SECCION I DEL B.O. DEL 4 DE DICIEMBRE DE 2008, PAGINA 29.</small>
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
@@ -2205,7 +2285,13 @@ B. O. 13 DE JULIO DE 2006.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-B. O. 4 DE AGOSTO DE 2008.
+B.O. 4 DE AGOSTO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 4 DE DICIEMBRE DE 2008.
 
 ###### ARTÍCULO ÚNICO.
 
