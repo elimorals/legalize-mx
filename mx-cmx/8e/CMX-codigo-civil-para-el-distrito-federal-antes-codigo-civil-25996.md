@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2008-10-21"
+last_updated: "2008-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE DICIEMBRE DE 2008.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -8055,13 +8055,17 @@ II.- Los menores de dieciséis años;
 
 III.- Los que no estén en su sano juicio;
 
-IV.- Los ciegos, sordos o mudos;
+IV.- (REFORMADA [N. DE E. DEROGADA], G.O. 4 DE DICIEMBRE DE 2008)
 
 V.- Los que no entiendan el idioma que habla el testador;
 
 VI.- Los herederos o legatarios; sus descendientes, ascendientes, cónyuge o hermanos. El concurso como testigo de una de las personas a que se refiere esta fracción, sólo produce como efecto la nulidad de la disposición que beneficie a ella o a sus mencionados parientes;
 
 VII.- Los que hayan sido condenados por el delito de falsedad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE DICIEMBRE DE 2008)</small>
+
+Las personas con capacidades diferentes relativas a ceguera total o parcial, sordera, mudez o ambas, podrán ser testigos de un testamento con el apoyo de un intérprete pagado por el testador.
 
 > <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1994)</small>
 
@@ -14088,3 +14092,13 @@ QUINTO.- El Decreto de Presupuesto de Egresos para el ejercicio fiscal del año 
 ...
 
 SÉPTIMO.- La reforma al artículo 1927 del Código Civil para el Distrito Federal, entrará en vigor el 1º de enero de 2009.
+
+G.O. 4 DE DICIEMBRE DE 2008.
+
+###### ARTICULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
