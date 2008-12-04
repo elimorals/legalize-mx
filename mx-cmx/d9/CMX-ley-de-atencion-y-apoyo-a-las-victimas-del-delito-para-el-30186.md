@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-atencion-y-apoyo-a-las-victimas-del-delito-para-el-30186
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-22"
-last_updated: "2007-05-17"
+last_updated: "2008-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30186&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-08"
 
 LEY DE ATENCION Y APOYO A LAS VICTIMAS DEL DELITO PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 22 de abril de 2003.
 
@@ -103,6 +103,10 @@ Se entiende por ofendido al titular del bien jurídico lesionado o puesto en pel
 ###### Artículo 9.
 
 La calidad de víctima o de ofendido, es independiente de que se identifique, aprehenda, enjuicie o condene al responsable del delito y de cualquier relación de parentesco que exista con él; por tanto, la víctima o el ofendido gozarán sin distinción alguna, de las mismas garantías, derechos, protección, asistencia, atención y demás que esta ley señale.
+
+> <small>(ADICIONADO, G.O. 4 DE DICIEMBRE DE 2008)</small>
+
+Para los efectos de la reparación del daño, cuando la víctima del delito haya fallecido o padezca lesiones transitorias o permanentes que impliquen pérdida o disminución de sus facultades físicas o mentales, a consecuencia de la conducta tipificada como delito, se considerarán también como ofendidos al cónyuge, concubino, socio de convivencia, así como sus dependientes económicos, herederos o derechohabientes, en la proporción que señale el derecho sucesorio y demás disposiciones aplicables.
 
 ###### Artículo 10.
 
@@ -379,3 +383,13 @@ Los productos de las enajenaciones relacionadas en los artículos transitorios a
 CUARTO. La Procuraduría General de Justicia, notificará a través de una publicación en la Gaceta de Gobierno del Distrito Federal, una relación de los depositantes del dinero en efectivo, y en billetes de depósito, que tenga a su disposición hasta el mes de diciembre de dos mil seis, a efecto de que pasen los interesados a recoger dichas cantidades en la Oficialía Mayor de la Procuraduría, en un plazo no mayor de 15 días, apercibiéndose que para el caso de no hacerlo el dinero ingresará al Fondo de Apoyo a la Procuración de Justicia, para todos los efectos legales procedentes.
 
 QUINTO. El Jefe de Gobierno del Distrito Federal, deberá expedir el reglamento de la presente Ley en el término de 30 días posteriores a la entrada en vigor del presente decreto.
+
+G.O. 4 DE DICIEMBRE DE 2008.
+
+###### ARTICULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
