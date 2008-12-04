@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2005-del-pleno-del-consejo-de-la-57850"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-02-21"
-last_updated: "2005-02-21"
+last_updated: "2008-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57850&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-02-09"
 
 ACUERDO GENERAL 5/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA LOS JUZGADOS DE DISTRITO QUE CONOCERAN DE LAS SOLICITUDES DE INTERVENCION DE COMUNICACIONES PRIVADAS EN TERMINOS DE LA LEY DE SEGURIDAD NACIONAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO GENERAL 75/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 4 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 21 de febrero de 2005.
 
@@ -72,3 +74,17 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su publicación en el Diario
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 5/2005, del Pleno del Consejo de la Judicatura Federal, que Determina los Juzgados de Distrito que Conocerán de las Solicitudes de Intervención de Comunicaciones Privadas en Términos de la Ley de Seguridad Nacional, fue aprobado por el Pleno del propio Consejo, en sesión de nueve de febrero de dos mil cinco, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a nueve de febrero de dos mil cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 4 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente acuerdo general entrará en vigor a las ocho horas del cinco de enero de dos mil nueve, en que iniciarán funciones los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones.
+
+SEGUNDO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en uno de los periódicos de mayor circulación.
+
+TERCERO. La implementación del sistema informático a que se refiere este acuerdo, se pondrá en operación conforme lo permita el presupuesto y normativa del Consejo de la Judicatura Federal; entre tanto, podrán utilizarse otros medios electrónicos o de comunicación en general que, el Consejo de común acuerdo con el Ministerio Público de la Federación o con el Centro de Investigación y Seguridad Nacional, estimen confiables.
+
+CUARTO. A efecto de dar cumplimiento a lo establecido en los artículos 16, párrafo décimo segundo, de la Constitución Política de los Estados Unidos Mexicanos y 50-TER de la Ley Orgánica del Poder Judicial de la Federación, relativos a las solicitudes de autorización de intervención de comunicaciones que sean formuladas en los términos previstos en las legislaciones locales y por el titular del Ministerio Público de alguna entidad federativa, una vez que se establezca la coordinación con las Procuraduría Generales de los Estados, la aplicación del presente acuerdo también será extensiva a dichas entidades; mientras tanto los Juzgados de Distrito que conozcan de proceso penal federal seguirán siendo competentes para resolver las mencionadas solicitudes.
+
+QUINTO. Se abroga el Acuerdo General 5/2005 del Pleno del Consejo de la Judicatura Federal.
