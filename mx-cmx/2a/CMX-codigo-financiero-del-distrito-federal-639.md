@@ -4,7 +4,7 @@ identifier: "CMX-codigo-financiero-del-distrito-federal-639"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-31"
-last_updated: "2008-10-21"
+last_updated: "2008-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=639&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1994-12-30"
 
 CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE DICIEMBRE DE 2008.
 
 Código publicado en la Segunda, Tercera y Cuarta Secciones del Diario Oficial de la Federación el sábado 31 de diciembre de 1994.
 
@@ -4534,6 +4534,14 @@ a). Por el registro $586.00
 
 b). Por el análisis y estudio, por m2 $68.00
 
+> <small>(ADICIONADO, G.O. 5 DE DICIEMBRE DE 2008)</small>
+
+Cuando se trate de modificación, se pagará, una cuota equivalente al 20% de los derechos que se causarían por el registro, análisis y estudio de la manifestación de construcción respectiva.
+
+> <small>(ADICIONADO, G.O. 5 DE DICIEMBRE DE 2008)</small>
+
+Por la prórroga del registro de manifestación de construcción, se pagará una cuota equivalente al 10% de los derechos causados por el registro, análisis y estudio de la manifestación de que se trate.
+
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 207.
@@ -6424,6 +6432,10 @@ ARTICULO 264 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 #### Sección Décima Quinta. De los Derechos por los Servicios de Recolección y Recepción de Residuos Sólidos
 
+ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
+
+ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
+
 > <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 265.
@@ -6461,10 +6473,6 @@ En el caso en que el monto de los derechos causados resulte superior al efectuad
 Cuando los mercados públicos celebren convenios con la autoridad competente para el depósito de residuos sólidos orgánicos generados en alto volumen y realicen el traslado de dichos residuos por cuenta propia al lugar autorizado por la Secretaría de Obras y Servicios quedarán exentos del pago a que se refiere la fracción II del presente artículo.
 
 La Secretaría de Finanzas celebrará convenios con los Órganos Político-Administrativos a efecto de que una vez determinado el monto mensual recaudado por concepto de los derechos que se detallan en este artículo, participe con el 50% del recurso recaudado a las Delegaciones, mismas que lo destinarán a la adquisición de insumos utilizados en la prestación del servicio de limpia.
-
-ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
-
-ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 ARTICULO 265 B.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -18499,3 +18507,7 @@ QUINTO.- El Decreto de Presupuesto de Egresos para el ejercicio fiscal del año 
 SEXTO.- Se derogan los artículos 389, 390, 391 y 392 del Código Financiero del Distrito Federal, una vez que entre en vigor la presente Ley.
 
 ...
+
+G.O. 5 DE DICIEMBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Publíquese en el Diario Oficial de la Federación para su mayor difusión.
