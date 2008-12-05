@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-personas-adultas-mayores-de-la-15819
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-07"
-last_updated: "2000-03-07"
+last_updated: "2008-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15819&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "2000-01-10"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE DICIEMBRE DE 2008.
 
-Ley publicada en la Gaceta Oficial del Distrito Federal el Martes 7 de Marzo de 2000.
+Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 7 de marzo de 2000.
 
 (Al margen superior izquierdo un escudo que dice: Ciudad DE México.- JEFE DE GOBIERNO DEL DISTRITO FEDERAL)
 
@@ -380,9 +380,11 @@ XI. Las demás que le confieran otros ordenamientos jurídicos.
 
 ### CAPITULO UNICO. DEL CONSEJO ASESOR PARA LA INTEGRACION, ASISTENCIA, PROMOCION Y DEFENSA DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
+> <small>(REFORMADO, G.O. 5 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 29.
 
-Se crea el Consejo Asesor para la Integración, Asistencia, Promoción y Defensa de los Derechos de las Personas Adultas Mayores, como un órgano honorario de consulta, asesoría y evaluación de acciones de concertación, coordinación, planeación y promoción necesarias para favorecer la plena integración y desarrollo de las personas adultas mayores.
+Se crea el Consejo Asesor para la Integración, Asistencia, Promoción y Defensa de los Derechos de las Personas Adultas Mayores, como un órgano honorario de consulta, asesoría y evaluación de acciones y propuestas de concertación, coordinación, planeación y promoción necesarias para favorecer la plena integración y desarrollo de las personas adultas mayores.
 
 ###### Artículo 30.
 
@@ -398,13 +400,25 @@ IV.- La Secretaría de Salud;
 
 V.- La Procuraduría Social;
 
-VI.- El Sistema para el Desarrollo Integral de la Familia en el Distrito Federal; y por los Diputados de la Asamblea Legislativa del Distrito Federal, de las Comisiones relacionadas con la materia;
+> <small>(REFORMADA, G.O. 5 DE DICIEMBRE DE 2008)</small>
 
-VII.- El Consejo invitará a formar parte del mismo a nueve representantes de organizaciones sociales, privadas o ciudadanos que se hayan destacado por su trabajo y estudio en la materia, quienes podrán coordinar los grupos de trabajo del Consejo.
+VI. El Sistema para el Desarrollo Integral de la Familia en el Distrito Federal;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 5 DE DICIEMBRE DE 2008)</small>
+
+VII. Dos Diputados de la Asamblea Legislativa del Distrito Federal, de la Comisión de Atención a Grupos Vulnerables;
+
+> <small>(ADICIONADA, G.O. 5 DE DICIEMBRE DE 2008)</small>
+
+VIII. Nueve representantes de asociaciones civiles y organizaciones sociales, que hayan destacado por su trabajo y estudio en la materia, quienes podrán coordinar los grupos de trabajo del Consejo.
 
 El Consejo podrá invitar a que asistan a las sesiones que celebre, a representantes de otras instancias locales, federales e internacionales, así como académicos, especialistas o empresarios encargados de desarrollar programas, actividades o investigaciones relacionadas con la población de personas adultas mayores.
 
 Los servidores públicos a que se refieren las fracciones I a VI de este artículo nombrarán un suplente.
+
+> <small>(ADICIONADO, G.O. 5 DE DICIEMBRE DE 2008)</small>
+
+Por lo que hace a las personas a que se refiere la fracción VIII, ocuparan este cargo por un periodo de un año, cubriendo los requisitos que para tal efecto establezca el Jefe de Gobierno.
 
 ###### Artículo 31.
 
@@ -422,9 +436,15 @@ V. Proponer la participación ciudadana en actividades y proyectos dirigidos a l
 
 VI. Proponer mecanismos de concertación y de coordinación en materia de desarrollo social;
 
-VII. Elaborar un informe anual que se remitirá a las Comisiones correspondientes de la Asamblea Legislativa del Distrito Federal para su conocimiento; y
+VII. Elaborar un informe anual que se remitirá a las Comisiones correspondientes de la Asamblea Legislativa del Distrito Federal para su conocimiento; y (sic)
 
-VIII. Las demás funciones señaladas por el Jefe de Gobierno y la Secretaría de Desarrollo Social.
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 5 DE DICIEMBRE DE 2008)</small>
+
+VIII. Proponer la elaboración de programas destinados al respeto y protección de los derechos de las personas adultas mayores en el Distrito Federal y;
+
+> <small>(ADICIONADA, G.O. 5 DE DICIEMBRE DE 2008)</small>
+
+IX. Las demás funciones que se acuerden en el Pleno del Consejo.
 
 ###### Artículo 32.
 
@@ -478,9 +498,11 @@ XIII. Realizar los trabajos que le encomiende el Presidente del Consejo.
 
 La integración de los grupos de trabajo, sus atribuciones y las sesiones del Consejo, serán definidas en el reglamento que al efecto se expida.
 
+> <small>(REFORMADO, G.O. 5 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 36.
 
-Deberán formarse Consejos de Personas Adultas Mayores en cada Demarcación Territorial para fomentar la participación de la población, y dar a conocer las necesidades y demandas de las personas adultas mayores.
+Deberán formarse Consejos de Personas Adultas Mayores en cada Demarcación Territorial para fomentar la participación de la población, y dar a conocer las necesidades y demandas de las personas adultas mayores, las cuales deberán de coordinarse con el Consejo Asesor para la Integración, Asistencia, Promoción y Defensa de los Derechos de las Personas Adultas Mayores en el Distrito Federal.
 
 ## TITULO SEXTO. DE LAS ACCIONES DE GOBIERNO Y SERVICIOS
 
@@ -579,3 +601,11 @@ CUARTO.- Por ser de interés general y para su mayor difusión, publíquese en e
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a 30 de diciembre de mil novecientos noventa y nueve.- POR LA MESA DIRECTIVA, DIP. RENE BALDOMERO RODRIGUEZ RUIZ, PRESIDENTE.- DIP. JOSE LUIS BENITEZ GIL, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los diez días del mes de enero del dos mil.- LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.- EL SECRETARIO DE TURISMO, AGUSTÍN ARROYO LEGASPI.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, CLARA JUSIDMAN RAPOPORT.- FIRMA.- EL SECRETARIO DE SALUD, ARMANDO CORDERA PASTOR.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, A. JOEL ORTEGA CUEVAS.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, FRANCISCO CANO ESCALANTE.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 5 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Gobierno del Distrito Federal para su conocimiento, y en el Diario Oficial de la Federación para su mayor difusión.
