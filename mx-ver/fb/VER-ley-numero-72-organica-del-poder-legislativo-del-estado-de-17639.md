@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2008-11-03"
+last_updated: "2008-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -373,7 +373,9 @@ XL. Cambiar su sede, provisionalmente, si para ello existe el acuerdo de las dos
 
 XLI. Sesionar por lo menos una vez cada año en la cabecera de algún municipio del norte, centro o sur del Estado, notificando su determinación a los otros dos Poderes;
 
-XLII. Recibir el informe escrito que presente el titular del Poder Ejecutivo, sobre el estado que guarda la administración pública del Estado, el cual será analizado en las sesiones subsecuentes;
+> <small>(REFORMADA, G.O. 5 DE DICIEMBRE DE 2008)</small>
+
+XLII. Recibir el informe escrito sobre el estado que guarda la administración pública estatal, que presente el titular del Poder Ejecutivo, así como la comparecencia de éste al finalizar la glosa de dicho informe, en los términos que prevé el artículo 18 bis de esta Ley;
 
 XLIII. Recibir el informe escrito que entregue el Magistrado Presidente del Tribunal Superior de Justicia, sobre las actividades realizadas por el Poder Judicial en el año correspondiente;
 
@@ -390,6 +392,28 @@ XLVI. Elaborar, aprobar y ejercer su presupuesto anual de egresos, de conformida
 XLVII. Organizar anualmente, a través de la Comisión Permanente de Equidad, Género y Familia, el Parlamento de las Mujeres Veracruzanas; y
 
 XLVIII. Las demás que le confieran la Constitución Federal, la Constitución local, las leyes del Estado y las que sean necesarias para hacer efectivas sus atribuciones.
+
+> <small>(ADICIONADO, G.O. 5 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 18 Bis.
+
+Al finalizar la glosa del informe escrito sobre el estado que guarda la administración pública estatal, el titular del Poder Ejecutivo comparecerá ante el Congreso, en sesión ordinaria de éste, que se desarrollará de la manera siguiente:
+
+> <small>(F. DE E., G.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
+I. Inicialmente, un diputado por cada partido político con representación en el Congreso, en orden ascendente por el número de legisladores, intervendrá en la tribuna hasta por cinco minutos, a efecto de fijar la posición de su organización política y emitir su consideración preliminar en torno al estado que guarda la administración pública estatal;
+
+> <small>(F. DE E., G.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
+II. Concluidos los posicionamientos, el Gobernador del Estado hará uso de la tribuna para dar respuesta conjunta a los mismos, en una intervención que no excederá de veinte minutos;
+
+> <small>(F. DE E., G.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
+III. A continuación, los legisladores, en el orden referido por la fracción I, formularán al Ejecutivo preguntas o comentarios sobre el informe hasta por cinco minutos cada uno. La respuesta del Gobernador será inmediata a cada Diputado, para lo que dispondrá también de cinco minutos; y
+
+> <small>(F. DE E., G.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
+IV. Para concluir, un diputado por cada partido político formulará sus consideraciones finales en un lapso de cinco minutos cada uno y el Gobernador responderá en una última intervención de veinte minutos.
 
 ### CAPÍTULO II. DE LA MESA DIRECTIVA
 
@@ -1270,3 +1294,9 @@ G.O. 3 DE NOVIEMBRE DE 2008.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 5 DE DICIEMBRE DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
