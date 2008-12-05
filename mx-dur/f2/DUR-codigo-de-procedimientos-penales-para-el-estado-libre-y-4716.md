@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-penales-para-el-estado-libre-y-4716"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-01-30"
-last_updated: "2006-10-05"
+last_updated: "2008-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CODIGO PROCESAL PENAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO EN LOS TERMINOS SEÑALADOS EN EL REFERIDO CODIGO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 30 de enero de 1992.
 
@@ -3324,3 +3326,53 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas la (sic) disposiciones legales que se opongan al presente decreto.
+
+P.O. 5 DE DICIEMBRE DE 2008.
+
+Artículo Primero.- Vigencia.
+
+La entrada en vigor del Código Procesal Penal del Estado de Durango contenido en el presente decreto entrará en vigor, de manera sucesiva, según las siguientes prevenciones:
+
+I. Sus disposiciones se aplicarán a más tardar el 31 de Diciembre de 2009, en el Distrito Judicial o Región, según sea el caso, que tenga como cabecera la Ciudad de Durango, Dgo. En caso de que entrara en vigor antes de la fecha señalada, se atenderá el procedimiento que señala la fracción siguiente de este artículo;
+
+II. En el resto de los Distritos Judiciales o Regiones, sus disposiciones se aplicarán en la fecha que contenga la Declaratoria respectiva que deberá ser emitida por el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado. La Declaratoria deberá ser publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango;
+
+III. En caso de contar durante el Ejercicio Fiscal 2009, con la suficiencia presupuestal para su implementación, el Sistema Penal Acusatorio podrá aplicarse en uno o más de los Distrito Judiciales o Regiones atendiendo la prevención contenida en la fracción II del presente artículo; y
+
+IV. En ningún caso las disposiciones de este Código Procesal Penal del Estado de Durango en la totalidad de los Distritos Judiciales o Regiones de la Entidad podrá exceder el plazo establecido en el artículo segundo transitorio del decreto por el cual se reforma la Constitución Política de los Estados Unidos Mexicanos en materia penal y de seguridad pública, publicado en el Diario Oficial de la Federación de fecha 18 de Junio de 2008.
+
+Artículo Segundo.- Abrogación y derogación.
+
+En los plazos de entrada en vigor de este Código, se abrogará el Código de Procedimientos Penales publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha treinta de enero de mil novecientos noventa y dos y sus reformas; asimismo, se deroga cualquier disposición que se oponga a lo preceptuado en este ordenamiento.
+
+Artículo Tercero.- Aplicación de este Código.
+
+Las disposiciones de este Código sólo se aplicarán a los hechos acaecidos con posterioridad a su entrada en vigencia, por lo tanto, el Código de Procedimientos Penales publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha treinta de enero de mil novecientos noventa y dos y sus reformas, se aplicará para investigar y juzgar los delitos cometidos durante la vigencia del mismo.
+
+Artículo Cuarto.- Delitos permanentes y continuados.
+
+Los delitos permanentes y continuados que inicien su Comisión en la vigencia del Código de Procedimientos Penales publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha treinta de enero de mil novecientos noventa y dos, se investigarán y juzgarán conforme a dicho ordenamiento, aun cuando produzcan efectos con posterioridad a la entrada en vigor del presente ordenamiento.
+
+Artículo Quinto.- Prohibición de acumulación de procesos.
+
+No procederá la acumulación de procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido al presente Código y otro al abrogado.
+
+Artículo Sexto.- Eficacia Retroactiva.
+
+Ninguna norma del presente ordenamiento se podrá aplicar a los procesos que deban continuar tramitándose conforme al Código de Procedimientos Penales para el Estado de Durango publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha treinta de enero de mil novecientos noventa y dos y sus reformas, salvo lo que se dispone a continuación: A) La facultad de archivo y la aplicación de los criterios de oportunidad en el ejercicio de la acción penal, excepto cuando se trate de los delitos de asociación delictuosa y los calificados como graves, B) Los acuerdos previstos en el capítulo de justicia restaurativa y la suspensión del proceso a prueba, C) El procedimiento abreviado y D) El recurso de revisión.
+
+Las facultades que el presente Código concede al Juez de Control, serán ejercidas, para efectos de este artículo, por el Juez de Primera Instancia Penal o de conocimiento mixto según corresponda.
+
+Para la aplicación de los institutos procesales previstos en el presente ordenamiento al proceso regulado por el Código de Procedimientos Penales publicado en el Periódico Oficial del Gobierno Constitucional del Estado con fecha treinta de enero de mil novecientos noventa y dos y sus reformas, se estará a las siguientes normas de éste último:
+
+I. Los acuerdos previstos en el capítulo de justicia restaurativa podrán celebrarse hasta antes de la finalización de la audiencia a que se refiere el artículo 337 de éste Código;
+
+II. La suspensión de proceso a prueba podrá decretarse hasta antes de que se cierre la instrucción, conforme lo dispone el artículo 309 de éste Código.
+
+Artículo Séptimo.- Legislación de transición.
+
+Antes de la entrada en vigencia de este Código, deberán reformarse las leyes que regulen la competencia y estructura de los órganos judiciales, de la Defensoría Pública, del Ministerio Público, de los Cuerpos de Seguridad Pública, así como la legislación de ejecución de penas y medidas de seguridad y en general, toda aquella que sea necesaria para su implementación.
+
+Artículo Octavo.- De los planes de implementación y presupuesto.
+
+El Consejo de la Judicatura del Poder Judicial, la Procuraduría General de Justicia del Estado, la Defensoría Pública y toda dependencia a la que impacta la entrada en vigor de esta ley, deberán elaborar los planes y programas necesarios para una adecuada y correcta implementación del presente Código, así como establecer dentro de los proyectos de presupuesto respectivos, las partidas indispensables para atender la ejecución de esos programas, las obras de infraestructura, la contratación de personal, la capacitación y todos los demás requerimientos que sean necesarios para cumplir los objetivos para la entrada en vigor del presente Código.
