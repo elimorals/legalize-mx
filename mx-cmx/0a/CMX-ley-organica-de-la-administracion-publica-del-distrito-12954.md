@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2008-11-10"
+last_updated: "2008-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -558,7 +558,9 @@ IX. Formular, fomentar y ejecutar políticas y programas que contribuyan a eleva
 
 X. Fomentar la participación de las comunidades educativas, de las instituciones académicas y de investigación y de la sociedad en general, en las actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública. Asimismo, podrán opinar en asuntos pedagógicos;
 
-XI. Desarrollar y ejecutar la política deportiva que determine el Jefe de Gobierno de conformidad con la Ley del Deporte para el Distrito Federal;
+> <small>(REFORMADA, G.O. 5 DE DICIEMBRE DE 2008)</small>
+
+XI. Desarrollar y ejecutar la política deportiva que determine el Jefe de Gobierno de conformidad con la Ley del Deporte para el Distrito Federal; estableciendo los espacios, dentro de las escuelas del Distrito Federal, con la infraestructura humana, inmobiliaria y material necesaria y adecuada para el desarrollo de actividades relacionadas con la Educación Física y la Práctica Deportiva;
 
 XII. Dirigir el Sistema del Deporte del Distrito Federal a través del Instituto del Deporte;
 
@@ -568,7 +570,11 @@ XIII. Contribuir al desarrollo integral de las y los jóvenes del Distrito Feder
 
 XIV. Desarrollar y ejecutar todo tipo de programas de apoyo social que incidan en el proceso educativo en el Distrito Federal;
 
-XV. Las demás que le atribuyan expresamente las leyes y reglamentos.
+> <small>(ADICIONADA, G.O. 5 DE DICIEMBRE DE 2008)</small>
+
+XV. Coordinar con los titulares de los Órganos Político Administrativos de cada demarcación territorial, las tareas de rehabilitación y mantenimiento de las escuelas del Distrito Federal, así como el adecuado funcionamiento de todas y cada una de las instalaciones, incluyendo dentro de estas las relativas a la instalación obligatoria de bebederos de agua potable; y
+
+XVI. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 > <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2007)</small>
 
@@ -1446,7 +1452,9 @@ XXIX. Autorizar, con base en las normas que al efecto expida la Secretaría de T
 
 XXX. Ejercer las funciones de vigilancia y verificación administrativa sobre el funcionamiento y la observancia de las tarifas en los estacionamientos públicos establecidos en su jurisdicción, así como aplicar las sanciones respectivas;
 
-XXXI. Rehabilitar y mantener escuelas, así como construir, rehabilitar y mantener bibliotecas, museos y demás centros de servicio social, cultural y deportivo a su cargo, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
+> <small>(REFORMADA, G.O. 5 DE DICIEMBRE DE 2008)</small>
+
+XXXI. Rehabilitar y mantener escuelas, así como construir, rehabilitar y mantener bibliotecas, museos y demás centros de servicio social, cultural y deportivo a su cargo, así como atender y vigilar su adecuado funcionamiento, incluyendo la instalación de bebederos de agua potable, y el mantenimiento a los ya instalados en las escuelas del Distrito Federal, así como la construcción y rehabilitación de espacios con la infraestructura humana, inmobiliaria y material necesaria y adecuada destinados para la Educación Física y la Práctica Deportiva, de conformidad con la normatividad que al efecto expida la Secretaria de Educación;
 
 XXXII. Prestar el servicio de alumbrado público en las vialidades y mantener sus instalaciones en buen estado y funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
 
@@ -2009,3 +2017,11 @@ SEXTO.- En la transferencia de la Unidades Administrativas que por la ejecución
 SÉPTIMO.- Los Asuntos que a la entrada en vigor del presente decreto se encuentren en tramite y deban ser atendidos por las unidades administrativas objeto de trasferencia, serán resueltos por la dependencia que los recibe, dentro de los plazos establecidos al efecto.
 
 OCTAVO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 5 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Remítase al Jefe de Gobierno para su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión también en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Jefe de Gobierno del Distrito Federal deberá instrumentar anualmente en la Secretaria de Educación y en cada una de las Demarcaciones Territoriales del Distrito Federal, la partida presupuestal respectiva para dar cumplimiento a estas actividades.
+
+TERCERO.- Se derogan todas las disposiciones legales y administrativas que se opongan a la presente reforma.
