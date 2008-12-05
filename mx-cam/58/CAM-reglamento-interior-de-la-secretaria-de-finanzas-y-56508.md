@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-finanzas-y-56508"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-10"
-last_updated: "2007-07-10"
+last_updated: "2008-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y ADMINISTRACION DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el martes 10 de julio de 2007.
 
@@ -193,7 +193,11 @@ XIV. Proponer al Gobernador del Estado, la proyección y cálculo de los ingreso
 
 XV. Formular la cuenta pública anual de la Hacienda Estatal, incluyendo la glosa de los ingresos y egresos del Gobierno del Estado y someterlas a la consideración del Gobernador, así como, mantener las relaciones procedentes con la Auditoría Superior del Estado;
 
-XVI. Administrar ingresos federales, así como ejercer las facultades conferidas en los convenios y sus anexos en materia fiscal federal que haya celebrado o que celebre el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público y, en su caso, con los Gobiernos Municipales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2008)</small>
+
+XVI. Administrar, comprobar, determinar y cobrar ingresos federales, así como ejercer las facultades conferidas en los convenios y sus anexos en materia fiscal federal que haya celebrado o que celebre el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público y, en su caso, con los Gobiernos Municipales;
 
 XVII. Dictar las normas relacionadas con la administración de fondos y valores de las dependencias de la Administración Pública Estatal y fideicomisos constituidos por el Estado; vigilar, evaluar la operación y, autorizar la constitución o incremento del patrimonio de esos fideicomisos, así como la modificación de sus estructuras, sin perjuicio de lo que establezcan las leyes aplicables en materia de fideicomisos, así como custodiar los documentos que constituyen valores, acciones y demás derechos que formen parte del patrimonio del Estado;
 
@@ -283,11 +287,19 @@ Compete a la Subsecretaría de Ingresos:
 
 I. La administración y control de todos los ingresos establecidos en la ley de Hacienda del Estado y en la Ley de Ingresos del Estado, en materia de su competencia y, su recaudación, de manera directa o a través de las oficinas recaudadoras o instituciones de crédito autorizadas;
 
-II. Administrar ingresos federales, así como ejercer las facultades conferidas en los convenios y sus anexos en materia fiscal federal que haya celebrado o que celebre el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público y, en su caso, con los Gobiernos Municipales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2008)</small>
+
+II. Administrar, comprobar, determinar y cobrar ingresos federales, así como ejercer las facultades conferidas en los convenios y sus anexos en materia fiscal federal que haya celebrado o que celebre el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público y, en su caso, con los Gobiernos Municipales;
 
 III. Previo acuerdo del Secretario, ejercer en materia de infracciones y delitos fiscales las atribuciones otorgadas en el Código Fiscal del Estado;
 
-IV. Expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de las visitas domiciliarias, auditorías, inspecciones, revisiones, verificaciones y notificaciones correspondientes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2008)</small>
+
+IV. Expedir las credenciales o constancias de identificación del personal que se autorice o designe para ocupar la titularidad de las oficinas recaudadoras locales y foráneas, así también del personal que se autorice para la práctica de las visitas domiciliarias, auditorías, inspecciones, revisiones, verificaciones, notificaciones y para realizar cualquier otro acto dentro de los procedimientos fiscales que regulen las leyes y convenios vigentes; asimismo, remover, cambiar de adscripción o radicación, comisionar, reasignar o trasladar y demás acciones previstas en los ordenamientos aplicables al referido personal;
 
 V. Atender y resolver las consultas que formulen los interesados individualmente en situaciones reales y concretas sobre la aplicación de las disposiciones fiscales y sobre las autorizaciones previstas en las mismas;
 
@@ -333,7 +345,11 @@ XI. Diseñar y aplicar el sistema de control de disponibilidades del Gobierno de
 
 XII. Participar en la formulación de los convenios financieros y ejercer las atribuciones que le correspondan en el ámbito de su competencia;
 
-XIII. Administrar ingresos federales, así como ejercer las facultades conferidas en los convenios y sus anexos en materia fiscal federal que haya celebrado o que celebre el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público y, en su caso, con los Gobiernos Municipales; del mismo modo, administrar los ingresos provenientes de las aportaciones federales y ejercer los recursos conforme a las disposiciones legales aplicables y a los lineamientos y normatividad correspondiente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2008)</small>
+
+XIII. Administrar, comprobar, determinar y cobrar ingresos federales, así como ejercer las facultades conferidas en los convenios y sus anexos en materia fiscal federal que haya celebrado o que celebre el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público y, en su caso, con los Gobiernos Municipales; así mismo, administrar los ingresos provenientes de los fondos de aportaciones federales conforme a las disposiciones legales aplicables y a las disposiciones jurídicas o administrativas correspondientes, efectuando las ministraciones·a las instancias ejecutoras;
 
 XIV. Formular y suscribir conjuntamente con el Secretario o funcionario a quien éste autorice, todos aquellos documentos que permitan la contratación de créditos, el otorgamiento de garantías y los títulos de crédito que obliguen al Gobierno del Estado;
 
@@ -419,9 +435,17 @@ Todas las facultades que en este Reglamento competan a las Direcciones que se en
 
 Compete a la Dirección de Ingresos:
 
-I. La administración y control de todos los ingresos establecidos en la ley de Hacienda del Estado y en la Ley de Ingresos del Estado, en materia de su competencia y, su recaudación, de manera directa o a través de las oficinas recaudadoras o instituciones de crédito autorizadas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-II. Administrar ingresos federales, así como ejercer las facultades conferidas en los convenios y sus anexos en materia fiscal federal que haya celebrado o que celebre el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público y, en su caso, con los Gobiernos Municipales;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2008)</small>
+
+I. La administración y control de todos los ingresos establecidos en la Ley de Hacienda del Estado y en la Ley de Ingresos del Estado, en materia de su competencia y, su recaudación, de manera directa o a través de las oficinas recaudadoras, instituciones de crédito o bancarias autorizadas, módulos fijos o itinerantes, o medios electrónicos debidamente autorizados por la Secretaría o a través de alguno de los medios de pago establecidos en la Ley de Hacienda del Estado, en el Código Fiscal del Estado o en las demás normas jurídicas que así lo establezcan;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2008)</small>
+
+II. Administrar, comprobar, determinar y cobrar ingresos federales, así como ejercer las facultades conferidas en los convenios y sus anexos en materia fiscal federal que haya celebrado o que celebre el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público y en su caso, con los Gobiernos Municipales;
 
 III. Formular el anteproyecto del Presupuesto Anual de Ingresos, para la aprobación superior;
 
@@ -445,7 +469,11 @@ XII. Verificar los avisos, manifestaciones y demás documentación que conforme 
 
 XIII. Determinar en cantidad líquida los impuestos y accesorios correspondientes a cargo de los contribuyentes, responsables solidarios y demás obligados, así como imponer las sanciones administrativas que procedan por infracciones fiscales;
 
-XIV. Tramitar y resolver las solicitudes presentadas por los contribuyentes relacionadas con devoluciones de cantidades pagadas indebidamente al Fisco, o proceder de oficio al trámite y resolución de la referida devolución, cuando legalmente así proceda; y orientar a los contribuyentes en la forma de solicitarlas, así como verificar, determinar en cantidad líquida y cobrar las diferencias por devoluciones improcedentes e imponer las multas que correspondan. Verificar aritméticamente el saldo a favor a compensar, determinar y cobrar las cantidades compensadas indebidamente y, en su caso, imponer las multas correspondientes; así como efectuar la compensación de oficio de cantidades a favor de los contribuyentes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2008)</small>
+
+XIV. Tramitar y resolver las solicitudes presentadas por los contribuyentes relacionadas con devoluciones de cantidades pagadas indebidamente al fisco, o proceder de oficio al trámite y resolución de la referida devolución, cuando legalmente así proceda; y orientar a los contribuyentes en la forma de solicitarlas, así como verificar, determinar en cantidad líquida y cobrar las diferencias por devoluciones improcedentes, requerir la documentación comprobatoria necesaria, para su trámite y rechazar la solicitud cuando no se satisfagan los requisitos solicitados e imponer las multas que corresponda; verificar aritméticamente el saldo a favor a compensar, determinar y cobrar las cantidades compensadas indebidamente y, en su caso, imponer las multas correspondientes; así como efectuar la compensación de oficio de cantidades a favor de los contribuyentes;
 
 XV. Emitir opinión y aportar los elementos que sean necesarios para tramitar el procedimiento de dación de servicios y bienes en pago de los créditos fiscales;
 
@@ -457,7 +485,11 @@ XVIII. Participar en la elaboración y modificación de formas oficiales de avis
 
 XIX. Mantener actualizado el Registro Estatal de Contribuyentes y, en su caso, el Registro Federal de Contribuyentes, cuando así lo establezca el Convenio de Colaboración Administrativa en materia fiscal federal y sus anexos; practicar visitas tendentes a localizar contribuyentes no registrados y, efectuar la inscripción de los mismos en los citados registros; así como negar la inscripción cuando legalmente ésta sea improcedente;
 
-XX. Revisar las declaraciones de los contribuyentes, para verificar el correcto cumplimiento de las obligaciones fiscales; así como determinar en cantidad líquida y cobrar a los contribuyentes, responsables solidarios y demás obligados, las diferencias por errores aritméticos y por el pago en parcialidades de contribuciones sin tener derecho a ello, como también el monto de los recargos, gastos de ejecución, honorarios y gastos extraordinarios que se causen en los procedimientos de ejecución que lleve a cabo; determinar y hacer efectivo el importe de los cheques no pagados de inmediato y de las indemnizaciones correspondientes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2008)</small>
+
+XX. Revisar las declaraciones de los contribuyentes, para verificar el correcto cumplimiento de las obligaciones fiscales; así como determinar en cantidad líquida y cobrar a los contribuyentes, responsables solidados y demás obligados, las diferencias por errores aritméticos y por el pago en parcialidades de contribuciones sin tener derecho a ello, como también el monto de los recargos, actualizaciones, gastos de ejecución, honorarios y gastos extraordinarios que se causen y en los procedimientos de ejecución que lleve a cabo; determinar y hacer efectivo el importe de los cheques no pagados de inmediato y de las indemnizaciones correspondientes;
 
 XXI. Conceder prórroga y resolver sobre el pago en parcialidades de los créditos fiscales en materia de su competencia, previa garantía de su importe, sus accesorios así como los que se causen en el plazo de su otorgamiento o hasta el momento de su pago, inclusive determinar en cantidad líquida y cobrar el saldo insoluto, con sujeción a las directrices, requisitos, limitaciones, sistemas de control y supervisión que se determinen y hacerlos exigibles mediante la aplicación del procedimiento administrativo de ejecución;
 
@@ -515,11 +547,17 @@ XLVI. Aplicar los trámites correspondientes para ingresar las cantidades proven
 
 XLVII. Las demás que le sean conferidas por las leyes y reglamentos o en los convenios vigentes en materia fiscal en que el Estado sea parte, así como las dictadas por el Secretario de Finanzas y Administración y el Subsecretario de Ingresos.
 
-###### ARTÍCULO 16.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-Las Recaudaciones de Rentas son autoridades fiscales que dependen directamente de la Dirección de Ingresos, con ejercicio jurisdiccional en los Municipios a que correspondan.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2008)</small>
 
-Son funciones de las Recaudadoras de Rentas, además de las que corresponden conforme a las leyes fiscales, las siguientes:
+###### Artículo 16.
+
+Las oficinas recaudadoras son autoridades fiscales adscritas a la Subsecretaría de Ingresos, que operativamente dependen de la Dirección de Ingresos, con ejercicio jurisdiccional en los municipios a que correspondan; a quienes competen las siguientes funciones:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 5 DE DICIEMBRE DE 2008)</small>
 
 I. Recaudar los fondos y valores y demás ingresos que deba percibir el Estado a nombre propio o por cuenta ajena, proveniente del cumplimiento de las leyes y, administrar ingresos federales;
 
@@ -539,7 +577,11 @@ VIII. Llevar le registro de los pagos que se reciban bajo protesta y acordar cua
 
 IX. Calificar, aceptar, devolver o en su caso rechazar, de conformidad con la legislación aplicable, las garantías que se otorguen para asegurar el pago de créditos fiscales, y, en su caso, ordenar la aplicación o sustitución correspondiente;
 
-X. Requerir y exigir a los contribuyentes el cumplimiento de las obligaciones derivadas de ordenamientos fiscales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2008)</small>
+
+X.- Requerir y exigir a los contribuyentes el cumplimiento de las obligaciones derivadas de ordenamientos fiscales, e imponer las multas que correspondan, así mismo requerir a los contribuyentes la rectificación de errores u omisiones contenidos en las declaraciones, solicitudes, avisos y demás documentos, y dejar sin efectos los avisos presentados cuando al revisarse o verificarse no correspondan a lo manifestado;
 
 XI. Llevar el control y mantener actualizados los padrones de su competencia y el Registro Estatal de Contribuyentes de su jurisdicción;
 
@@ -549,11 +591,21 @@ XIII. Expedir y notificar citatorios, debidamente fundados para que los contribu
 
 XIV. Recibir de los particulares las declaraciones, avisos, registros, contratos, manifestaciones y demás documentación a que obliguen las disposiciones fiscales y darles el trámite que corresponda;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2008)</small>
+
+XIV Bis. Son funciones de las oficinas recaudadoras, expedir certificaciones de los documentos y expedientes relativos a los asuntos de su competencia;
+
 XV. Efectuar las liquidaciones definitivas o provisionales, de las obligaciones fiscales, de conformidad con las disposiciones legales aplicables;
 
 XVI. Turnar al Director de Ingresos los cheques que hayan sido devueltos por las instituciones bancarias, que habiendo sido sometidos a procedimiento de cobro, no hubiese sido posible recuperar el monto principal y sus accesorios; y
 
-XVII. Las demás que el Director de Ingresos le encomiende, dentro del área de su competencia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2008)</small>
+
+XVII.- Las demás que le sean conferidas por las leyes y reglamentos o en los convenios vigentes en materia fiscal en que el Estado sea parte, así como las dictadas por el Director de Ingresos.
 
 ###### ARTÍCULO 17.
 
@@ -563,7 +615,23 @@ I. Proponer, para la aprobación superior, las políticas, los programas, sistem
 
 II. Aplicar las políticas, programas, sistemas, procedimientos, disposiciones administrativas de carácter general, métodos de trabajo, normatividad y criterios establecidos a que se deben sujetar las visitas domiciliarias, auditorías, inspecciones, verificaciones y demás actos que establezcan las disposiciones fiscales estatales, como federales convenidas para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones, aprovechamientos y accesorios de carácter estatal, como federal convenidos;
 
-III. Administrar ingresos federales y ejercer las facultades conferidas en los convenios y sus anexos en materia fiscal federal que haya celebrado o que celebre el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público y, en su caso, con los gobiernos municipales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2008)</small>
+
+III. Administrar, comprobar y determinar ingresos federales, así como ejercer las facultades conferidas en los convenios y sus anexos en materia fiscal federal que haya celebrado o que celebre el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público y, en su caso, con los Gobiernos Municipales;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2008)</small>
+
+III Bis. Dejar sin efectos las órdenes de visita domiciliaria y los oficios de solicitud de información y documentación, así como todos los actos que deriven de ellos así como para reponer el procedimiento de las visitas domiciliarias de conformidad con las disposiciones jurídicas legales federales o estatales aplicables;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2008)</small>
+
+III Ter. Dictar las resoluciones que procedan en materia de participaciones de los trabajadores en las utilidades de las empresas, cuando se desprendan del ejercicio de las facultades de comprobación convenidas;
 
 IV. Coordinarse, en las materias de su competencia, con las autoridades fiscales federales o de las demás entidades federativas, para el mejor ejercicio de sus facultades;
 
@@ -571,7 +639,11 @@ V. Informar a la autoridad competente de los hechos de que tengan conocimiento q
 
 VI. Expedir las constancias de identificación del personal a su cargo, a fin de habilitarlos para la práctica de actos relacionados con el desempeño de sus facultades;
 
-VII. Ordenar y practicar visitas domiciliarias, auditorías, revisiones, inspecciones, verificaciones y demás actos que establezcan las disposiciones fiscales estatales como federales convenidas, para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones, aprovechamientos y accesorios de carácter estatal como federal convenidos; requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio, establecimientos o en las oficinas de las propias autoridades, a efecto de llevar a cabo su revisión, la contabilidad, así como que proporcionen los datos, otros documentos o informes que se les requieran; así como autorizar prórrogas para su presentación; dar a conocer a los contribuyentes, responsables solidarios y demás obligados los hechos u omisiones imputables a éstos, conocidos con motivo de las visitas domiciliarias y hacer constar dichos hechos y omisiones en la última acta parcial que se levante; emitir el oficio de conclusión de la visita domiciliaria y comunicar a los contribuyentes la sustitución de la autoridad que continúe con la visita domiciliaria;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2008)</small>
+
+VII. Ordenar y practicar visitas domiciliarias, auditorías, revisiones, inspecciones, verificaciones y demás actos que establezcan las disposiciones fiscales estatales como federales convenidas, para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables: solidarios y demás obligados en materia de contribuciones, aprovechamientos y accesorios de carácter estatal como federal convenidos; requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio, establecimientos o en las oficinas de las propias autoridades, a efecto de llevar a cabo su revisión, la contabilidad, así como que proporcionen los datos, otros documentos o informes que se les requieran; así como autorizar prórrogas para su presentación; dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones imputables a éstos; conocidos con motivo de las visitas domiciliarias, y hacer constar dichos hechos y omisiones en la última acta parcial que se levante; emitir el oficio de conclusión de la visita domiciliaria y comunicar a los contribuyentes la sustitución de la autoridad que continúe con la visita domiciliaria; asimismo podrán reponer el procedimiento de las visitas domiciliarias de impuestos federales convenidos de conformidad con lo dispuesto en el Código Fiscal de la Federación;
 
 VIII. Ordenar y practicar visitas domiciliarias y verificar la legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional de toda clase de mercancía de procedencia extranjera, en centros de almacenamiento, distribución o comercialización, tianguis, mercados sobre ruedas, puestos fijos y semifijos en la vía pública e inclusive en transporte; así como para verificar la legal importación, estancia o tenencia, transporte o manejo en territorio nacional de los vehículos en circulación, aún cuando no se encuentren en movimiento, procediendo en su caso al embargo precautorio de los mismos, incluso en centros de almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición de los mismos para su venta; con relación al impuesto general de importación, impuesto general de exportación, impuesto al valor agregado, impuesto sobre automóviles nuevos, impuesto especial sobre producción y servicios, impuesto sobre tenencia o uso de vehículos, cuotas compensatorias que se causen, derecho de trámite aduanero, así como a las demás regulaciones y restricciones no arancelarias que correspondan, incluyendo el acreditamiento del cumplimiento de las Normas Oficiales Mexicanas, de conformidad con las disposiciones fiscales y aduaneras aplicables; también serán aplicables, tratándose de las personas que cuenten con un programa autorizado por la Secretaría de Economía, conforme al Decreto que establece Programas de Importación Temporal para Producir Artículos de Exportación -PITEX- y sus modificaciones o al Decreto para el Fomento y Operación de la Industria Maquiladora de Exportación y sus modificaciones; conforme a sus facultades de comprobación; recibir y, en su caso requerir de los particulares, responsables solidarios y terceros con ellos relacionados, la contabilidad, los avisos, declaraciones, pedimentos, manifestaciones y demás datos, documentos e informes que, conforme a las disposiciones legales aplicables deben presentarse; ordenar, iniciar, tramitar y resolver los procedimientos aduaneros que se deriven del ejercicio de sus facultades de comprobación del cumplimiento de las obligaciones fiscales; resguardar y custodiar los vehículos que hayan sido embargados por él mismo, hasta que quede firme la resolución dictada en el procedimiento administrativo en materia aduanera o hasta que se resuelva legalmente la devolución del vehículo de que se trate;
 
@@ -593,7 +665,9 @@ XVI. Revisar que los dictámenes formulados por contador público registrado sob
 
 XVII. Determinar y notificar a los contadores públicos registrados las irregularidades de su actuación profesional de que tenga conocimiento la autoridad con motivo de la revisión de los dictámenes que formulen para efectos fiscales;
 
-XVIII. Revisar las declaraciones de los contribuyentes, responsables solidarios y demás obligados y comprobar el cumplimiento de sus obligaciones fiscales en materia de impuestos, derechos, aprovechamientos y accesorios de carácter estatal y federal convenidos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+XVIII. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2008)
 
 XIX. Ordenar y practicar el embargo precautorio o el aseguramiento de los bienes o la negociación en los casos en que las leyes estatales y federales lo señalen, así como levantarlo cuando proceda;
 
@@ -829,11 +903,33 @@ VIII. Integrar y mantener actualizados los archivos que se utilicen para el proc
 
 IX. Expedir la normatividad correspondiente en materia de informática relacionada con las políticas de: selección y adquisición de hardware y software, seguridad de claves de acceso, control y responsabilidad en el uso de la Internet, procedimientos de respaldo, instalación y actualización permanente de programas y sistemas de antivirus, resguardos y cartas responsivas del equipo de cómputo y software instalado, procedimiento de control de equipos de cómputo, respaldos de información, evaluación de servicios, transferencia automática de información, optimización del uso de la red de informática, implementación de interfases electrónicas, y demás que sean necesarias, incluso la elaboración de manuales que se requieran para normar el adecuado y óptimo funcionamiento de los equipos y sistemas de informática que operan en las dependencias del Poder Ejecutivo del Estado;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2008)</small>
+
+IX Bis. Mantener la calidad y actualizar la información publicada de esta Secretaría en las páginas y portales electrónicos del Gobierno del Estado de Campeche, bajo los lineamientos y estándares de imagen, contenido y metodología para la construcción de páginas electrónicas;
+
 X. Diseñar los sistemas, procedimientos y soluciones informáticos en razón de las necesidades de la Secretaría, llevando un control de inventario del software instalado y sus licencia (sic) respectivas;
 
 XI. Integrar y participar en el Comité de Informática de la Administración Pública Estatal, que fungirá como órgano ejecutivo y de consulta de las dependencias y entidades de dicha Administración en materia de servicios y recursos informáticos, con el cargo y atribuciones que se le asignen;
 
-XII. Desarrollar el Plan Anual de Tecnologías de Información de la Secretaría, en el marco del Programa Estatal de Tecnologías de Información; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2008)</small>
+
+XII. Desarrollar el Plan Anual de tecnologías de información de la Secretaría, en el marco del Programa de Modernización Gubernamental y, vigilar que las infraestructuras de esas tecnologías sean utilizadas en el cumplimiento de los objetivos para los cuales fueron adquiridas o desarrolladas y cuando sea necesario, orientar oportunamente su utilización para un mejor aprovechamiento de las mismas, y en su caso aplicar medidas de seguridad para salvaguardar la integridad, disponibilidad y confidencialidad de los sistemas de información y bases de datos, para proteger los bienes de Tecnologías de Información;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2008)</small>
+
+XII Bis. Elaborar, difundir y actualizar el programa pe gobierno electrónico del Poder Ejecutivo Estatal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2008)</small>
+
+XII Ter. Fomentar en todos sus sistemas de información el uso y aprovechamiento de la firma electrónica avanzada;
 
 XIII. Las demás que le confieran las disposiciones legales o reglamentarias aplicables, el Secretario y el Subsecretario de Administración dentro de la esfera de sus atribuciones.
 
@@ -982,3 +1078,15 @@ Segundo.- Se abrogan el Reglamento Interior de la Secretaría de Finanzas public
 Tercero.- La Dirección de Auditoría Fiscal conservará la facultad de emitir prórroga para la conclusión de visitas domiciliarias y revisiones de contabilidad, siempre que estos procedimientos de fiscalización los haya indiciado con anterioridad a la entrada en vigor del ARTÍCULO SEGUNDO, fracción VI de las Disposiciones Transitorias, correspondientes a las modificaciones al Código Fiscal de la Federación, publicadas en el Diario Oficial de la Federación el 28 de junio de 2006.
 
 DADO EN EL PALACIO DE GOBIERNO, RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE SAN FRANCISCO DE CAMPECHE, DEL MUNICIPIO Y ESTADO DE CAMPECHE, ESTADOS UNIDOS MEXICANOS, A LOS CATORCE DIAS DEL MES DE JUNIO DEL AÑO DOS MIL SIETE.- C.P. JORGE CARLOS HURTADO VALDEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- MTRO. RICARDO MEDINA FARFAN, SECRETARIO DE GOBIERNO.- C.P. VICTOR SANTIAGO PEREZ AGUILAR, SECRETARIO DE FINANZAS Y ADMINISTRACION.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 5 DE DICIEMBRE DE 2008.
+
+> <small>(F. DE E., P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+Primero.- El presente acuerdo entrará en vigor el día 1 de enero de 2009.
+
+Segundo.- Cuando alguna·Ley, decreto o, Acuerdo del Ejecutivo haga alusión a las receptoras de renta, oficinas receptoras de rentas y oficinas recaudadoras de rentas, se entenderán referidas a las oficinas recaudadoras que el artículo 16 de este Reglamento establece.
+
+Tercero.- Se derogan todas las disposiciones reglamentarias y administrativas en lo que se opongan al contenido de este Acuerdo.
