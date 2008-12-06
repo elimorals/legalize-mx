@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2007-07-07"
+last_updated: "2008-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -115,9 +115,9 @@ II. En el Poder Ejecutivo y sus Organismos descentralizados, aquellos cuya desig
 
 a) La Planta que cubre el personal de las oficinas particulares del Gobernador, los ayudantes y choferes al servicio directo del Titular del Ejecutivo o de su residencia oficial y el personal comisionado en la misma;
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2008)</small>
 
-b) Secretarios de gobierno, subsecretarios, Contralor General, procuradores, subprocuradores, Tesorero, jefes de departamento, directores, subdirectores, jefes de oficina, de sección de servicios, o de zonas; administradores o gerentes; encargados, coordinadores, auditores contadores, valuadores, peritos de toda clase, proveedores, almacenistas, supervisores, recaudadores, pagadores, o cualquier otro cargo cuya función sea la de manejo de fondos o bienes públicos o su custodia; tomadores o controladores de tiempo, de obras y servicios; conserjes, veladores y porteros; agentes del Ministerio Público, agentes y trabajadores sociales de la Procuraduría Social; Presidente, presidentes especiales y presidentes auxiliares en las Juntas de Conciliación y Arbitraje; integrantes de consejos tutelares o asistenciales; integrantes de consejos consultivos, o asesores de los titulares; vocales representantes en dependencias públicas y organismos descentralizados; directores, rectores, alcaldes, celadores y personal de vigilancia en cárceles e instituciones de asistencia social; ayudantes, mensajeros, choferes, secretarias y taquígrafas al servicio directo de los titulares o de servidores públicos de superior jerarquía en las dependencias; el personal sujeto a honorarios; y
+b) Secretarios de Gobierno, subsecretarios, contralor general, procuradores, subprocuradores, Tesorero, jefes de departamento, directores, subdirectores, jefes de oficina, de sección de servicios o de zonas, administradores o gerentes, encargados, coordinadores, auditores, contadores, valuadores, peritos de toda clase, proveedores, almacenistas, supervisores, recaudadores, pagadores o cualquier otro cargo cuya función sea la de manejo de fondos o bienes públicos o su custodia; tomadores o controladores de tiempo, de obras y servicios, conserjes, veladores y porteros, agentes del Ministerio Público, agentes de la Procuraduría Social, Presidente presidentes especiales y presidentes auxiliares en las juntas de conciliación y arbitraje, integrantes de consejos tutelares o asistenciales, integrantes de consejos consultivos o asesores de los titulares, vocales representantes en dependencias públicas y organismos descentralizados, directores, rectores, alcaldes celadores y personal de vigilancia en cárceles e instituciones de asistencia social, ayudantes, mensajeros, choferes, secretarias y taquígrafas al servicio directo de los titulares o de servidores públicos de superior jerarquía en las dependencias, el personal sujeto a honorarios, y
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -355,7 +355,7 @@ Todo Servidor Público antes de tomar posesión de su cargo, rendirá la protest
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1987)</small>
 
-La protesta de los servidores públicos se rendirá en los términos siguientes: El que tome la protesta interrogará como sigue: ¿protesta usted desempeñar leal y patrióticamente el cargo de (el que se confiera al interesado) que se le confirió, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ella emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado? el interesado responderá: "Si protesto", la autoridad que tome la protesta añadirá: "Si no lo hiciere así que la Nación y el Estado se lo demanden".
+La protesta de los servidores públicos se rendirá en los términos siguientes: El que tome la protesta interrogará como sigue: ¿protesta usted desempeñar leal y patrióticamente el cargo de (el que se confiera al interesado) que se le confirió, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ella emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado? El interesado responderá: "Si protesto", la autoridad que tome la protesta añadirá: "Si no lo hiciere así que la Nación y el Estado se lo demanden".
 
 ###### Art. 19.
 
@@ -478,6 +478,24 @@ En caso de que la falta pudiese ameritar el cese por su gravedad, se estará a l
 ### CAPITULO VI. Del trabajo de los menores
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+Art. 26 bis. El empleo de mayores de catorce años y menores de dieciséis, se sujetará a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, sus leyes reglamentarias y lo previsto por este capítulo.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+Art. 26 bis 1. Este capítulo, tiene como propósito, proteger la relación laboral de los menores a que se refiere el artículo anterior, por lo que las entidades promoverá (sic) las condiciones que permitan su asistencia a la escuela y que contribuyan a su preparación técnica y profesional; así mismo, velarán por que su desarrollo psíquico y físico no sufra detrimento, evitando asignarle actividades que impliquen esfuerzos desmesurados, que puedan dañar su salud.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+Art. 26 bis 2. Los menores de dieciséis años, sólo podrán prestar sus servicios en la jornada diurna, la cual no podrá exceder de seis horas. No podrán por ningún motivo trabajar tiempo extraordinario, ni laborar en los días de descanso señalados por la ley.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+Art. 26 bis 3. Las labores peligrosas o insalubres, son aquellas que, por la naturaleza del trabajo, por las condiciones físicas, químicas o biológicas del medio en que se prestan o por la composición de la materia prima que se utiliza, no pueden realizar los menores de acuerdo a su grado de madurez.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+
+Art. 26 bis 4. Las entidades, de acuerdo a su presupuesto, ayudarán a los menores de edad con libros o material escolar para incentivar su formación educativa.
 
 ###### Art. 26 Bis.
 
@@ -2362,3 +2380,7 @@ P.O. 3 DE JULIO DE 2007.
 P.O. 7 DE JULIO DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 6 DE DICIEMBRE DE 2008.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado de Jalisco.
