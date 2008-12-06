@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-penales-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1967-07-19"
-last_updated: "2007-09-15"
+last_updated: "2008-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE ZACATECAS, PUBLICADO POR DECRETO NO. 511 EN EL P.O. DE 15 DE SEPTIEMBRE DE 2007, SEGUIRA RIGIENDO EN LO CONDUCENTE, EN LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA APLICACION DEL NUEVO CODIGO, Y QUEDARA ABROGADO EN LA MEDIDA EN QUE AQUELLOS QUEDEN AGOTADOS.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2008.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 19 de julio de 1967.
 
@@ -2323,11 +2323,11 @@ INCIDENTES
 
 ### CAPITULO I. Libertad Provisional Bajo Caución
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 350.
 
-Todo indiciado tiene derecho a ser puesto en libertad bajo caución inmediatamente que lo solicite, siempre y cuando se garantice la propia libertad provisional, el monto estimado de la reparación del daño, el de las sanciones pecuniarias que en su caso pudieran imponérsele y además no se trate de los delitos previstos en el Código Penal del Estado incluidas sus modalidades y tentativas que a continuación se señalan:
+Todo indiciado tiene derecho a ser puesto en libertad bajo caución inmediatamente que lo solicite, siempre y cuando se garantice el monto estimado de la reparación del daño para obtener la libertad provisional, así como las sanciones pecuniarias que en su caso pudieran imponérsele y además no se trate de los delitos previstos en el Código Penal del Estado, incluidas sus modalidades y tentativas, que a continuación se señalan:
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
@@ -2389,9 +2389,9 @@ XIV.- Infanticidio. Previsto en el Artículo 307;
 
 XV.- Robo. Previsto en el artículo 317 en relación con el 320, cuando el valor de lo robado exceda de quinientas cuotas;
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2008)</small>
 
-XVI.- Robo.- Previsto en el artículo 317 en relación con el 321 en sus fracciones I, IV, V y VII, cuando el valor de lo robado exceda de trescientas cuotas;
+XVI.- Robo. Previsto en el artículo 317 en relación con el 321 en sus fracciones I, IV, V, VII y VIII, cuando el valor exceda de trescientas cuotas;
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2006)</small>
 
@@ -3576,3 +3576,9 @@ Artículo primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
 
 Artículo tercero.- Dentro del término de seis meses contados a partir de la publicación de este Decreto, la Legislatura del Estado, deberá aprobar las disposiciones correspondientes, con la finalidad de proporcionar la asistencia y protección integral a las víctimas de trata de personas.
+
+P.O. 6 DE DICIEMBRE DE 2008.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
