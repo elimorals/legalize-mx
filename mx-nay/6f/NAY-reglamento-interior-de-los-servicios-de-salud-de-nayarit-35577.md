@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-los-servicios-de-salud-de-nayarit-35577"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-13"
-last_updated: "2005-04-02"
+last_updated: "2008-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE NAYARIT.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la sección novena del Periódico Oficial del Estado, el sábado 13 de diciembre de 2003.
 
@@ -157,9 +157,13 @@ VII. Las demás que de manera expresa le confiera la Junta.
 
 ### CAPITULO V. DE LAS UNIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 19.
 
-El organismo conducirá sus actividades de manera programada y se auxiliará en las siguientes unidades administrativas y en servidores públicos subalternos cuyas funciones de éstos últimos, estarán contenidas en el manual de organización del organismo y su aprobación estará sujeta el presupuesto autorizado:
+El organismo conducirá sus actividades de manera programada y se auxiliará en las siguientes unidades administrativas:
+
+### CAPITULO V (SIC). DE LAS UNIDADES ADMINISTRATIVAS
 
 I. Dirección General
 
@@ -167,17 +171,19 @@ I.1 Dirección de Planeación
 
 I.2 Dirección de Atención Médica
 
-I.3 Dirección de Servicios de Salud
+I.3 Dirección de Atención Hospitalaria
 
-I.4 Dirección de Regulación y Sanitaria
+I.4 Dirección de Enfermería
 
-I.5 Dirección de Administración
+I.5 Dirección de Servicios de Salud
 
-I.6 Unidad de asuntos Jurídicos
+I.6 Dirección de Regulación Sanitaria
+
+I.7 Dirección de Administración
+
+I.8 Unidad de Asuntos Jurídicos
 
 ### CAPITULO VI. DEL DIRECTOR GENERAL
-
-### CAPITULO VII. DE LAS ATRIBUCIONES GENERICAS DE LAS DIRECCIONES
 
 ###### ARTICULO 20.
 
@@ -229,9 +235,7 @@ XXII. Las demás que le confiera de manera expresa el Gobernador y la Junta.
 
 El Director General ejercerá las facultades a que se refieren las fracciones I, II, III, IV y V de este ordenamiento, bajo su responsabilidad, cuidando no incurrir en actos indebidos que sean sancionados por las leyes penales, civiles y administrativas.
 
-### CAPITULO VIII. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES
-
-> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
+### CAPITULO VII. DE LAS ATRIBUCIONES GENERICAS DE LAS DIRECCIONES
 
 ###### ARTICULO 21.
 
@@ -275,7 +279,7 @@ XVIII. Rendir informes al Director General del avance de los programas así como
 
 XIX. Las demás que de manera expresa le confiera el Director General
 
-### CAPITULO IX. DE LA UNIDAD DE ASUNTOS JURIDICOS
+### CAPITULO VIII. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES
 
 > <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
 
@@ -331,19 +335,25 @@ XXI. Las demás que le señale el Director General y otras disposiciones, en el 
 
 La Dirección de Atención Médica, tendrá las siguientes facultades:
 
-I. Proponer al interior del grupo de trabajo del Subcomité Estatal de Salud del COPLADENAY, modelos complementarios para el desarrollo de competencias a favor de la mejoría de la calidad y la ampliación de la cobertura de los servicios de salud, en los sectores público, social y privado;
+I. (DEROGADA, P.O. 6 DE DICIEMBRE DE 2008)
 
-II. Dirigir la implementación del modelo de atención a la salud de la población abierta en los ámbitos de primer y segundo nivel de atención;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2008)</small>
 
-III. Diseñar estrategias y líneas de acción que garanticen la calidad, eficiencia y satisfacción de los usuarios en la prestación de servicios médicos;
+II. Coordinarse con la Dirección de Atención Hospitalaria a fin de implementar el modelo de atención a la salud de la población abierta en el primer nivel de atención;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2008)</small>
+
+III. Diseñar herramientas que garanticen la calidad, eficiencia y satisfacción de los usuarios en la prestación de servicios médicos;
 
 IV. Dirigir y promover acciones para la correcta aplicación de los programas de ampliación de cobertura, con el fin de otorgar atención en salud a los grupos vulnerables con la participación de instituciones públicas y privadas;
 
 V. Coordinar, apoyar y dar seguimiento a la instrumentación de las políticas y acciones en materia de equidad y desarrollo de servicios de salud, así como a los acuerdos que para el efecto se adopten en el seno de las unidades del organismo;
 
-VI. Proponer las estrategias para el establecimiento y conducción de la política estatal en materia de salud y nutrición para la población indígena, y llevar a cabo las acciones que en materia correspondan al organismo;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2008)</small>
 
-VII. Fomentar y promover la cultura de la donación de órganos, tejidos y células humanas, en coordinación con el Consejo Estatal de Transplantes;
+VI. Proponer las estrategias para el establecimiento y conducción de la política estatal en materia de salud y nutrición para la población indígena;
+
+VII. (DEROGADA, P.O. 6 DE DICIEMBRE DE 2008)
 
 VIII. Evaluar la aplicación del paquete esencial de servicios de salud, como instrumentos operativos en el primer nivel de atención médica;
 
@@ -351,7 +361,9 @@ IX. Coadyuvar a la incorporación del primer nivel de atención médica, a la Cr
 
 X. Supervisar y mantener permanentemente actualizado el modelo de atención a la salud de la población abierta, de acuerdo con las políticas estatales, con el objeto de lograr la mejoría en la calidad de la salud;
 
-XI. Integrar el cuadro escencial de medicamentos y material de curación, en el primer y segundo nivel de atención médica, de acuerdo a las necesidades del organismo;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2008)</small>
+
+XI. Verificar el cuadro esencial de medicamentos y material de curación en el primer nivel de atención médica, así como que se encuentre permanentemente en condiciones de suficiencia de respuesta en la entrega de servicios de atención médica de primer nivel;
 
 XII. Coordinar el Comité Estatal Institucional y Sectorial de la calidad de la atención médica;
 
@@ -359,31 +371,109 @@ XIII. Dirigir y vigilar la implementación de sistemas tecnológicos que coadyuv
 
 XIV. Coordinar la ejecución y puesta en marcha del Programa de Calidad, Equidad y Desarrollo en Salud, así como en su difusión en el Estado; y
 
-(REFORMADA, P.O. 2 DE ABRIL DE 2005) (REPUBLICADA, P.O. 2 DE ABRIL DE 2005)
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2005)</small>
 
 XV.- Coordinar, supervisar y evaluar el desarrollo de los programas y actividades de formación y capacitación de los recursos humanos para la salud mediante el establecimiento de modelos educativos y de atención a la salud;
 
-(REFORMADA, P.O. 2 DE ABRIL DE 2005) (REPUBLICADA, P.O. 2 DE ABRIL DE 2005)
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2005)</small>
 
 XVI.- Vigilar la asignación de campos clínicos, plazas de internado de pregrado, de servicio social de estudiantes, profesionales y de residencias en coordinación con las entidades del Sector Salud y las instituciones educativas;
 
-(REFORMADA, P.O. 2 DE ABRIL DE 2005) (REPUBLICADA, P.O. 2 DE ABRIL DE 2005)
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2005)</small>
 
 XVII.- Rendir informes al Director General del organismo de los proyectos de apertura y funcionamiento de las instituciones dedicadas a la formación y desarrollo de recursos humanos para la salud que se establezcan en el Estado;
 
-(REFORMADA, P.O. 2 DE ABRIL DE 2005) (REPUBLICADA, P.O. 2 DE ABRIL DE 2005)
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2005)</small>
 
 XVIII.- Coordinar el seguimiento de las actividades del Comité Estatal Interinstitucional para la formación y capacitación de recursos humanos e investigación para la salud;
 
-(REFORMADA, P.O. 2 DE ABRIL DE 2005) (REPUBLICADA, P.O. 2 DE ABRIL DE 2005)
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2005)</small>
 
 XIX.- Dirigir el cumplimiento de los convenios de colaboración que el organismo celebre con instituciones educativas, dependencias y organismos del sector público o privado en materia de educación, capacitación e investigación; y
 
-(REPUBLICADA, P.O. 2 DE ABRIL DE 2005)
-
 XX.- Las demás que le señale el Director General y otras disposiciones, en el ámbito de su competencia.
 
-(REFORMADO, P.O. 2 DE ABRIL DE 2005) (REPUBLICADO, P.O. 2 DE ABRIL DE 2005)
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 23 BIS.- La Dirección de Atención Hospitalaria tendrá las siguientes atribuciones:
+
+I. Dirigir, programar, coordinar y evaluar las acciones de segundo nivel que se desarrollen en la red hospitalaria del organismo;
+
+II. Organizar la prestación de los servicios de atención médica del segundo nivel y proponer la ampliación de cobertura con proyectos estratégicos viables y factibles de cumplirse;
+
+III. Realizar estudios, investigaciones, diagnósticos de salud, para fortalecer la atención médica de segundo nivel en las cuatro especialidades básicas de la medicina y otras especialidades complementarias y de apoyo derivadas de las mismas;
+
+IV. Proponer la infraestructura hospitalaria y tecnológica, así como sus ampliación, actualización y la introducción de innovaciones modernas de equipamiento que exija los servicios médicos asistenciales de especialidad que permita elevar la calidad y eficiencia de las instalaciones, equipo, recursos humanos y administración efectiva de la atención hospitalaria de segundo nivel con la finalidad de que se reduzcan las migraciones de la población de bajos recursos a entidades federativas circunvecinas o al centro del país;
+
+V. Difundir y vigilar que se cumplan las normas mexicanas y normas oficiales mexicanas que expidan las autoridades competentes en salud y materias afines;
+
+VI. Proponer la estructura orgánica y ocupacional idónea requerida para cumplir con el programa estatal de salud de segundo nivel;
+
+VII. Establecer conjuntamente con la unidad de enseñanza del organismo, comités internos que realicen exámenes y evaluaciones periódicas al recurso humano dedicado a la atención médica hospitalaria de segundo nivel y a los internos, residentes y prestadores de servicios, éste último grupo en términos de los convenios celebrados con las universidades e instituciones, públicas o privadas, dedicadas a la academia y a la investigación;
+
+VIII. Proponer la creación de hospitales generales y de especialidades en los que se establezcan el segundo y tercer nivel para la atención de pacientes, de una o varias especialidades médicas quirúrgicas o médico-quirúrgicas que presta servicios de urgencias, consulta externa, hospitalización y que realicen actividades preventivas, curativas, de rehabilitación, formación y desarrollo de personal para la salud, e investigación científica;
+
+IX. Realizar proyectos conjuntos de mejora continua y actualización científica con la iniciativa privada y con organismos públicos de carácter federal, estatal, local, e internacional en la organización estatal de la atención médica de segundo y tercer nivel que tiendan eficientar los programas, actividades, políticas, criterios, sistemas y formas de responder a las demandas de salud de la población;
+
+X. Regular y apoyar el desarrollo armónico de las funciones de supervisión en los diferentes centros de atención que le compete dirigir;
+
+XI. Evaluar el desempeño de la atención médica hospitalaria de segundo nivel y proponer las medidas preventivas y correctivas que sean necesarias para mantener grados óptimos del servicio;
+
+XII. Proponer la contratación, remoción, cese del personal que forme parte de la atención médica de segundo nivel;
+
+XIII. Proponer programa de estímulos, premios y recompensas al personal que destaque en el cumplimiento de sus funciones y eleve los rangos de eficiencia, eficacia, productividad y oportunidad del organismo en el rubro de la atención médica de segundo nivel;
+
+XIV. Fomentar la creación de institutos de tercer nivel destinados principalmente a la investigación científica, la formación y desarrollo de personal para la salud, y que también presten servicios de urgencia, consulta externa y de hospitalización a personas que tengan una enfermedad especifica, afección de un sistema o enfermedades que afecten a un grupo de edad;
+
+XV. Gestionar financiamientos públicos y privados, donaciones, apoyos y subsidios en especie o efectivo provenientes de personas físicas y morales, de carácter internacional, nacional estatal, municipal y del sector social;
+
+XVI. Promover la creación de patronatos, comités y comisiones interinstitucionales con objetivos comunes encaminados a elevar los índices de calidad en la prestación de los servicios de salud de segundo y tercer nivel con impacto social relevante y representativo;
+
+XVII. Impulsar la realización de actividades y acciones tendientes a elevar la calidad profesional de los recursos humanos asignados a la atención medica del segundo y tercer nivel;
+
+XVIII. Realizar estudios, investigaciones, e intercambios de experiencias, conocimientos, avances en la medicina con organismos nacionales internacionales dedicados a la ciencia de la salud;
+
+XIX. Verificar que las instalaciones, equipos y recursos materiales y humanos destinados a la atención médica de segundo y tercer nivel estén en condiciones óptimas de uso;
+
+XX. Coordinar el funcionamiento integral de la red hospitalaria del organismo;
+
+XXI. Promover el acreditamiento y certificación de los servicios, personal, infraestructura, equipamiento y capacidad instalada de la red hospitalaria del organismo, y
+
+XXII. Las demás que de manera expresa le confieran otros ordenamientos y el superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 23 BIS·A.- La Dirección de Enfermería tendrá las siguientes atribuciones:
+
+I. Planificar, organizar, dirigir, coordinar y evaluar el proceso y procedimientos de enfermería en el primer y segundo nivel;
+
+II. Promover y difundir los programas preventivos de salud;
+
+III. Promover la calidad y mejora profesional del recurso humano dedicado a las actividades de enfermería;
+
+IV. Supervisar que los servicios de enfermería prestados en el primer y segundo nivel se realicen con altos niveles de eficiencia y eficacia profesional;
+
+V. Evaluar periódicamente el desempeño profesional de enfermeros y enfermeras en el cumplimiento de protocolos y procedimientos establecidos;
+
+VI. Establecer comunicación permanente con las instituciones médicas, académicas, sociales, dedicadas a la investigación científica relacionada con el quehacer público del enfermero y enfermera;
+
+VII. Establecer protocolos, procedimientos y demás instrumentos técnico administrativos necesarios para la, atención organizada de los servicios de enfermería del organismo;
+
+VIII. Realizar diagnósticos del estado de los pacientes, familiares, comunidad con indicadores reconocidos y aceptados en la práctica profesional que coadyuven a la recuperación física y mental del ser humano afectado;
+
+IX. Impulsar y fortalecer las acciones y actividades tendientes a la superación profesional del enfermero y enfermera a nivel nacional e internacional;
+
+X. Promover las innovaciones educativas en los centros académicos del Estado dedicados a la formación de profesionales de enfermería;
+
+XI. Promover a enfermeros o enfermeras para que obtengan oportunidades de elevar sus niveles académicos y experiencias profesionales, cuando destaquen en el cumplimiento de sus deberes y obligaciones;
+
+XII. Implementar programas, procesos, procedimientos, eventos, entre otros, con la finalidad de elevar los índices de calidad del organismo en la prestación de los servicios médicos y de asistencia social que le competen;
+
+XIII. Coordinar con la unidad administrativa competente del organismo, la forma en que el organismo acredite el servicio social de los pasantes de enfermería, con responsabilidad social y académica, y
+
+XIV. Las demás que sean necesarias para el cumplimiento de la profesión de enfermería en el servicio público.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 24.
 
@@ -519,21 +609,9 @@ XVIII. Coordinar y vigilar los pagos de los programas de fortalecimiento de unid
 
 XIX. Las demás que le señale el Director General y otras disposiciones, en el ámbito de su competencia.
 
-### CAPITULO X. DE LOS ORGANOS DESCONCENTRADOS
+### CAPITULO IX. DE LA UNIDAD DE ASUNTOS JURIDICOS
 
 > <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
-
-ARTlCULO 28.- Para la eficaz atención y eficiente despacho de los asuntos de su competencia, el organismo contará con órganos administrativos desconcentrados que le estarán jerárquicamente subordinados y gozarán de autonomía operativa.
-
-Los órganos administrativos desconcentrados y sus titulares tendrán la competencia y facultades que este Reglamento les confiera y las específicas que les señale (sic) los acuerdos de delegación de facultades del Director General, y las funciones que se establezcan en el manual general de operación del organismo.
-
-De acuerdo con las disposiciones relativas, el Director General podrá revisar, reformar, modificar o revocar las resoluciones dictadas por los órganos desconcentrados.
-
-> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
-
-ARTlCULO 29.- Compete a los órganos desconcentrados del organismo, la planeación, programación, organización, dirección, control y evaluación del funcionamiento de las unidades administrativas a ellos adscritas, con sujeción a los lineamientos establecidos en la ley, reglamento, decreto, acuerdo o instrumento jurídico que los rija o en los diversos en que se establezcan tales lineamientos.
-
-Los órganos desconcentrados contarán con un Consejo Interno que presidirá el Director General o quien él designe y cuya composición, funcionamiento y competencias observará lo establecido en el manual general de organización del organismo y del suyo propio.
 
 ###### ARTICULO 27.
 
@@ -567,6 +645,22 @@ XIII. Intaurar (sic) los recursos de revisión que se interpongan en contra de a
 
 XIV. Las demás que le confiera el Director General, en el ámbito de su competencia.
 
+### CAPITULO X. DE LOS ORGANOS DESCONCENTRADOS
+
+> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
+
+ARTlCULO 28.- Para la eficaz atención y eficiente despacho de los asuntos de su competencia, el organismo contará con órganos administrativos desconcentrados que le estarán jerárquicamente subordinados y gozarán de autonomía operativa.
+
+Los órganos administrativos desconcentrados y sus titulares tendrán la competencia y facultades que este Reglamento les confiera y las específicas que les señale (sic) los acuerdos de delegación de facultades del Director General, y las funciones que se establezcan en el manual general de operación del organismo.
+
+De acuerdo con las disposiciones relativas, el Director General podrá revisar, reformar, modificar o revocar las resoluciones dictadas por los órganos desconcentrados.
+
+> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
+
+ARTlCULO 29.- Compete a los órganos desconcentrados del organismo, la planeación, programación, organización, dirección, control y evaluación del funcionamiento de las unidades administrativas a ellos adscritas, con sujeción a los lineamientos establecidos en la ley, reglamento, decreto, acuerdo o instrumento jurídico que los rija o en los diversos en que se establezcan tales lineamientos.
+
+Los órganos desconcentrados contarán con un Consejo Interno que presidirá el Director General o quien él designe y cuya composición, funcionamiento y competencias observará lo establecido en el manual general de organización del organismo y del suyo propio.
+
 ### CAPITULO XI. DE LA CONTRALORIA INTERNA
 
 > <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
@@ -579,10 +673,6 @@ ARTlCULO 31.- Corresponde a la Contraloría Interna realizar todas las actividad
 
 > <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
 
-### CAPITULO XII. DE LAS SUPLENCIAS
-
-> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
-
 ###### ARTICULO 31.
 
 El órgano de control interno se sujetará a las disposiciones que de manera expresa le confieran la Junta de Gobierno y la Secretaría de la Contraloría General de Gobierno.
@@ -590,6 +680,10 @@ El órgano de control interno se sujetará a las disposiciones que de manera exp
 ###### ARTICULO 32.
 
 El órgano de control interno se sujetará a las disposiciones que de manera expresa le confieran la Junta de Gobierno y la Secretaría de la Contraloría General de Gobierno.
+
+### CAPITULO XII. DE LAS SUPLENCIAS
+
+> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 33.
 
@@ -690,3 +784,9 @@ DIRECTOR GENERAL DE LOS SERVICIOS DE SALUD DE NAYARIT.
 P.O. 2 DE ABRIL DE 2005.
 
 ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial Organo de Gobierno del Estado.
+
+P.O. 6 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. El Director General emitirá las medidas procedentes para que en un plazo que no exceda de treinta días hábiles contados a partir de la fecha, de la vigencia del presente instrumento normativo, se realice la transferencia de recursos humanos, financieros y materiales, así como los documentos inherentes y demás aspectos correlativos, a las unidades administrativas de nueva creación.
