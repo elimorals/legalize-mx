@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2007-09-15"
+last_updated: "2008-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # CODIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-CODIGO PENAL PARA EL ESTADO DE ZACATECAS
+CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2008.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -465,7 +465,7 @@ V.- Tratándose de delitos cometidos con motivo del tránsito de vehículos y de
 
 63.- Cuando por culpa se origine únicamente daño en las cosas, se perseguirá por querella necesaria, cualquiera que sea su valor y sea o no con motivo de tránsito de vehículos; sólo se sancionará con multa de cinco hasta cien cuotas o trabajo en favor de la comunidad de hasta la cuarta parte de la que correspondería al delito si fuere doloso, además de la reparación del daño.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
 64.- No se impondrá pena alguna al que cause homicidio, lesiones o daño en las cosas, por actos u omisiones culposas con motivo del tránsito de vehículos, a un ascendiente o descendiente en línea recta de cualquier grado, o a un cónyuge o concubino, que viajaban con el responsable, excepto si el conductor se encontraba en estado de ebriedad, o bajo el influjo de estupefacientes o sustancias psicotrópicas. En este último caso, se estará a lo dispuesto por el artículo 59. Se perseguirá sólo por querella necesaria.
 
@@ -501,7 +501,7 @@ La autoridad ejecutora podrá resolver sobre la modificación o conclusión de l
 
 ### CAPITULO VII. CONMUTACION DE SANCIONES
 
-72.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
+72.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 1999)</small>
 
@@ -525,41 +525,41 @@ En caso de hacerse efectiva la pena de prisión sustituida, se tomará en cuenta
 
 ### CAPITULO I. EJECUCION DE LAS SANCIONES
 
-77.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
+77.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
 
-78.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
+78.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
 
-> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)</small>
+> <small>(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)</small>
 
 ### CAPITULO II. TRABAJO DE LOS PRESOS
 
-79.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
+79.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
 
-80.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
+80.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
 
-81.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
+81.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
 
-> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)</small>
+> <small>(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)</small>
 
 ## TITULO CUARTO. CUMPLIMIENTO DE LAS SANCIONES
 
-> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)</small>
+> <small>(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)</small>
 
 ### CAPITULO III. LIBERTAD CONDICIONAL
 
-82.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
+82.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
 
-83.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
+83.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
 
-84.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
+84.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
 
-85.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
+85.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS, P.O. 10 DE JULIO DE 1993)
 
 ### CAPITULO IV. SUSPENSION CONDICIONAL DE LA CONDENA
 
 86.- Queda al prudente arbitrio del juez o tribunal suspender la ejecución de las sanciones impuestas al tiempo de pronunciarse la sentencia definitiva, de acuerdo con las siguientes limitaciones:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 1999)</small>
 
 I.- Podrá suspenderse a petición de parte o de oficio la ejecución de las sanciones privativas de libertad que no excedan de cuatro años si concurren estas condiciones:
 
@@ -691,7 +691,7 @@ Lo dispuesto en la parte final del mismo artículo anterior, tampoco comprende e
 
 ### CAPITULO I. CONSPIRACION
 
-113.- Hay conspiración siempre que dos o más personas resuelven de común acuerdo cometer alguno de los delitos de que se ocupan los capítulos II y III de este título, acordando los medios de llevar a efecto su determinación. La sanción aplicable será de seis meses a dos años de prisión o confinamiento a juicio del juez, y en uno u otro casos, multa de cinco a cincuenta cuotas.
+113.- Hay conspiración siempre que dos o más personas resuelven de común acuerdo cometer alguno de los delitos de que se ocupan los capítulos II y III de este título, acordando los medios de llevar a efecto su determinación. La sanción aplicable será de seis meses a dos años de prisión o confinamiento a juicio del juez, y en uno u otro (sic) casos, multa de cinco a cincuenta cuotas.
 
 ### CAPITULO II. REBELION
 
@@ -785,7 +785,7 @@ No se considerará como delito político aquel que consista en ejecución de act
 
 136.- Al sentenciado a confinamiento que antes de extinguirlo salga del lugar que se le haya fijado para residir, se le aplicará prisión por el tiempo que falte para extinguir dicho confinamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
 137.- Se impondrán de tres a seis meses de prisión o multa de diez cuotas:
 
@@ -983,7 +983,7 @@ Si el infractor fuere médico, biólogo o farmacéutico, o se dedicare a la vent
 
 Estas disposiciones sólo serán aplicables cuando no existan otras de la competencia federal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
 ### CAPITULO I
 
@@ -1011,7 +1011,7 @@ No se actualizará el delito tratándose de programas preventivos, educativos o 
 
 182.- A quien pague o prometa pagar con dinero, en especie u otra ventaja de cualquier naturaleza, a una persona menor de dieciocho años o a un tercero para que aquélla sostenga relaciones o actos sexuales o eróticos, se le impondrá una pena de cuatro a ocho años de prisión y multa de treinta a setenta cuotas, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
 ### CAPITULO II. UTILIZACION DE IMAGENES O VOZ DE PERSONAS MENORES DE EDAD O DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER El SIGNIFICADO DEL HECHO PARA LA PORNOGRAFIA
 
@@ -1063,7 +1063,7 @@ II. Si el sujeto activo del delito tiene parentesco por consaguinidad, afinidad 
 
 ## TITULO SEXTO. DELITOS CONTRA EL DESARROLLO Y LA DIGNIDAD DE LAS PERSONAS
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
 ### CAPITULO IV. APOLOGIA DEL DELITO O DE ALGUN VICIO
 
@@ -1169,7 +1169,7 @@ Lo anterior sin perjuicio de que cuando el monto del beneficio obtenido no exced
 
 Si el monto del beneficio obtenido excediere del límite a que se refiere el párrafo anterior, la inhabilitación será de tres a diez años.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
 201.- La sanción será de tres meses a seis meses de prisión, si dentro de los treinta días siguientes a la denuncia, devolviere el responsable lo sustraído.
 
@@ -1289,7 +1289,7 @@ II.- Estarán obligados a la reparación del daño, no solamente por sus actos p
 
 213.- El artículo anterior se aplicará a los profesionales, similares y auxiliares que habiendo otorgado responsiva para hacerse cargo de la atención de un lesionado o enfermo, lo abandonen en su tratamiento sin causa justificada, y no den aviso inmediato a la autoridad correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 1994)</small>
 
 214.- Quienes ejerzan la medicina y sin causa justificada se nieguen a prestar sus servicios a un enfermo que lo requiera por notoria urgencia, o no los presten poniendo en peligro su vida, por exigir que se les paguen o garanticen anticipadamente sus honorarios, serán sancionados con la pena de tres a seis meses de prisión y multa de cinco a veinte cuotas o prestación obligatoria de servicio en favor de la comunidad de hasta quince días. Si el enfermo tiene menos de doce años cumplidos, la pena de prisión será de tres meses a un año, y multa de diez a cincuenta cuotas.
 
@@ -1421,7 +1421,7 @@ Pero si faltare también a la verdad al retractar sus declaraciones, se le aplic
 
 ### CAPITULO VI. VARIACION DEL NOMBRE, DE LA NACIONALIDAD O DEL DOMICILIO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
 227.- Se sancionará con prisión de tres meses a seis meses o multa de cinco a quince cuotas, o trabajo en favor de la comunidad hasta por quince días, a juicio del juzgador:
 
@@ -1463,15 +1463,15 @@ e) Con objeto de lucrar, se asocie a profesionistas legalmente autorizados con f
 
 Las disposiciones contenidas en este Título, no se aplicarán sino en lo que no esté previsto en las leyes especiales y no se oponga a lo establecido en ellas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE JUNIO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 1995)</small>
 
 ## TITULO DECIMO SEGUNDO. DELITOS CONTRA LA LIBERTAD SEXUAL E INTEGRIDAD DE LAS PERSONAS
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE JUNIO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 1995)</small>
 
 ### CAPITULO I. ATENTADOS A LA INTEGRIDAD DE LAS PERSONAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 1995)</small>
 
 231.- A quien sin consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto sexual o la obligue a ejecutarlo, se le impondrá pena de tres meses a dos años de prisión y multa de tres a veinticinco cuotas.
 
@@ -1487,11 +1487,11 @@ Si se hiciere uso de la violencia física o moral, la pena será de uno a cuatro
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 1995)</small>
 
-232-Bis.- Los atentados a la integridad de la persona, se sancionarán a petición del ofendido o de sus representantes.
+232 Bis.- Los atentados a la integridad de la persona, se sancionarán a petición del ofendido o de sus representantes.
 
 En el caso de los dos anteriores artículos, no se procederá contra el sujeto activo, sino por queja de la persona ofendida o de sus representantes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE JUNIO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 1995)</small>
 
 ### CAPITULO II. HOSTIGAMIENTO SEXUAL
 
@@ -1507,7 +1507,7 @@ Si el ofendido es persona menor de dieciocho años, la pena se duplicará.
 
 Sólo se procederá en contra del sujeto activo a petición de parte ofendida o de su legítimo representante y dentro de los seis meses siguientes de producido el daño o perjuicio.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE JUNIO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 1995)</small>
 
 ### CAPITULO III. ESTUPRO
 
@@ -1519,7 +1519,7 @@ Sólo se procederá en contra del sujeto activo a petición de parte ofendida o 
 
 235.- En el caso del artículo anterior, no se procederá contra el sujeto activo, sino por querella del ofendido o sus representantes legales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE JUNIO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 1995)</small>
 
 ### CAPITULO IV. VIOLACION
 
@@ -1543,7 +1543,7 @@ III.- Al que introduzca por vía vaginal o anal cualquier elemento o instrumento
 
 Para los efectos de los delitos de violación y los equiparables a la violación contemplados en los artículos 236 y 237, no gozarán del beneficio de la libertad provisional bajo caución.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 7 DE JUNIO DE 1995)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JUNIO DE 1995)</small>
 
 ### CAPITULO V. REGLAS COMUNES PARA ATENTADOS A LA INTEGRIDAD PERSONAL Y VIOLACION
 
@@ -1635,7 +1635,7 @@ El abandono en perjuicio de menores de edad que no tuvieren otro u otros familia
 
 254.- Si del abandono resultare algún daño, ya sea muerte, lesiones o cualquier otro, se aplicarán las sanciones del delito preterintencional.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE AGOSTO DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE AGOSTO DE 2001)</small>
 
 ### CAPITULO VIII. VIOLENCIA FAMILIAR
 
@@ -1733,7 +1733,7 @@ Si el asalto se efectuare de noche o si fueran varios los asaltantes, se aplicar
 
 ### CAPITULO IV. PRIVACION ILEGAL DE LA LIBERTAD O DE OTROS DERECHOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
 265.- Se aplicarán de tres a siete años de prisión y multa de veinte a setenta y cinco cuotas:
 
@@ -1751,7 +1751,7 @@ Cuando los ilícitos tipificados en las fracciones anteriores se cometan en perj
 
 > <small>(ADICIONADO, P.O. 21 DE MAYO DE 2005)</small>
 
-265 bis.- Comete el delito de secuestro exprés el que prive o restrinja la libertad de alguna persona, cuando la privación o restricción de la libertad personal tenga una duración inferior a veinticuatro horas y se realice con el propósito de cometer los delitos de robo o extorsión, o para obtener algún beneficio económico.
+265 Bis.- Comete el delito de secuestro exprés el que prive o restrinja la libertad de alguna persona, cuando la privación o restricción de la libertad personal tenga una duración inferior a veinticuatro horas y se realice con el propósito de cometer los delitos de robo o extorsión, o para obtener algún beneficio económico.
 
 Al responsable del delito de secuestro exprés se le impondrán de siete a quince años de prisión y multa de cincuenta a cien cuotas, sin perjuicio de las demás sanciones que conforme a este Código le correspondan por otros delitos que de su conducta resulten.
 
@@ -1781,7 +1781,7 @@ IV.- Cuando los plagiarios obren en grupo o banda.
 
 Cuando además del delito de rapto se cometa algún otro, se observarán las reglas del concurso.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
 ### CAPITULO VI. TRATA DE PERSONAS
 
@@ -2119,13 +2119,21 @@ V.- Se cometa aprovechando la falta de vigilancia, el desorden o confusión que 
 
 VI.- Se roben tubos, conexiones, tapas de registro o cualesquiera otros implementos de un servicio público u otros objetos que estén bajo la salvaguarda pública, sin perjuicio de lo que proceda por el daño a la propiedad;
 
-VII.- Se cometa de noche, llevando armas, con fractura o empleo de llaves falsas, horadación, excavación o escalamiento, o sean los ladrones dos o más o fingiéndose funcionarios o empleados públicos o suponiendo una orden de alguna autoridad; y
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2008)</small>
 
-VIII.- Recaiga sobre vehículos estacionados en la vía pública, sobre parte de ellos u objetos guardados en su interior.
+VII.- Se sustraiga material de cobre en forma de cables, tapas, tubos, conectores, conductores, bovinas de motores u objetos similares, aún y cuando no se encuentren bajo la custodia o salvaguarda de un servicio público.
+
+VIII.- Se cometa de noche, llevando armas, con fractura o empleo de llaves falsas, horadación, excavación o escalamiento, o sean los ladrones dos o más o fingiéndose funcionarios o empleados públicos o suponiendo una orden de alguna autoridad; y
+
+IX.- Recaiga sobre vehículos estacionados en la vía pública, sobre parte de ellos u objetos guardados en su interior.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 1999)</small>
 
 Además de las sanciones señaladas en el artículo 320 de este Código, se aplicará de tres meses a tres años de prisión al responsable de robo calificado.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2008)</small>
+
+321 Bis.- Se aplicará de tres meses a cinco años de prisión y multa de hasta doscientas cuotas, si no puede estimarse el valor de lo robado, a quien adquiera material de cobre en forma de cables, tapas, tubos, conectores, conductores, bovinas de motores u objetos similares, sin constatar documentalmente su lícita procedencia, con el propósito de comercializarlo.
 
 322.- Se considerará como robo calificado y se impondrán las sanciones a que se refieren los dos artículos anteriores, al que se apodere en el campo de algún instrumento rural o máquina de labranza, o de frutos cosechados o por cosechar, o lo consume en un apiario o cualquier otra industria rural.
 
@@ -2185,7 +2193,7 @@ III.- Al que ampare a una o más cabezas de ganado robado con documentación alt
 
 IV.- Al que, con perjuicio de otro, disponga para sí o para un tercero, de una o más cabezas de ganado, de las cuales se le haya transmitido la tenencia y no el dominio, o bien se le haya entregado para su custodia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2006)</small>
 
 332.- Al que transporte ganado de procedencia ilegal sin haber tomado las medidas necesarias para cerciorarse de su procedencia legítima, se le impondrá de un año tres meses a cinco años de prisión y multa de hasta veinticinco cuotas.
 
@@ -2303,7 +2311,7 @@ XVI.- Al que, con objeto de lucrar en perjuicio del consumidor, altere por cualq
 
 XVII.- Al que, con el propósito de no cubrir el precio convenido adquiera cualquier producto agrícola o pecuario para destinarlo para sí, para otro o para su comercialización, independientemente de que la adquisición se pacte verbalmente o por escrito.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 1999)</small>
 
 341.- Se equipara al delito de fraude y se sancionará con multa de hasta doscientas cuotas y prisión de tres a diez años, al que engañando a otro haciéndose pasar como funcionario del Estado o como agente de compañía nacional o extranjera de enganche a trabajadores, los contrate para prestar sus servicios en el extranjero, a sueldo fijo o a destajo, o los induzca, sin contrato, a trasladarse al extranjero, para allí contraer la obligación respectiva de trabajo.
 
@@ -2313,7 +2321,7 @@ Los agentes o funcionarios de compañías de contratación de trabajadores, que 
 
 > <small>(ADICIONADO, P.O. 21 DE MAYO DE 2005)</small>
 
-341 bis.- Comete el delito de extorsión aquél que, con ánimo de alcanzar un lucro o provecho, exija de otro dar, hacer o tolerar algo, utilizando para ello la amenaza de causarle un daño moral o físico en su persona o en la persona de otro.
+341 Bis.- Comete el delito de extorsión aquél que, con ánimo de alcanzar un lucro o provecho, exija de otro dar, hacer o tolerar algo, utilizando para ello la amenaza de causarle un daño moral o físico en su persona o en la persona de otro.
 
 Al que cometa el delito de extorsión se le impondrán de dos a diez años de prisión y multa de cincuenta a ochenta cuotas.
 
@@ -2351,7 +2359,7 @@ A la persona moral, bajo cuyo amparo o protección se cometa alguno de estos del
 
 ### CAPITULO VII. DESPOJO DE INMUEBLES Y AGUAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 1999)</small>
 
 345.- Se aplicarán sanciones de tres meses a tres años de prisión y multa hasta de doscientas cuotas:
 
@@ -2365,7 +2373,7 @@ A las sanciones que señala este artículo se sumarán las que correspondan por 
 
 ### CAPITULO VIII. DAÑO EN LAS COSAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 1999)</small>
 
 346.- Se impondrán de cinco a diez años de prisión y multa de cien a doscientas cuotas a los que causen incendio, inundación o explosión con daño o peligro de:
 
@@ -2451,7 +2459,7 @@ IX.- Sostener u organizar directa o indirectamente, por sí o por interpósita p
 
 Se entiende por sindicato blanco al que se constituye bajo la dirección o tutela de los patrones, con el objeto de eludir el empleo de trabajadores realmente sindicalizados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
 354.- Las infracciones delictuosas mencionadas en el artículo que precede, se sancionarán con prisión de tres meses a dos años y multa de tres a veinte cuotas.
 
@@ -2459,7 +2467,7 @@ Cuando el infractor fuere una empresa, sociedad o cualquier otra persona moral p
 
 En el caso que previene la fracción IX del artículo anterior, se decretará la disolución del sindicato blanco.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
 355.- Se impondrá prisión de tres meses a dos años y multa de cinco a veinte cuotas, independientemente de las sanciones que corresponda imponer por otras disposiciones de este Código o de otra ley aplicable, al patrón que dolosamente, para hacerse aparecer insolvente y para eludir el pago de la indemnización por despidos, accidentes de trabajo, enfermedades profesionales o por alguna otra responsabilidad proveniente de la relación laboral o del contrato de trabajo, simule contratos u operaciones que importen créditos en su contra.
 
@@ -2469,7 +2477,7 @@ Se presumirá la simulación por la circunstancia de que el crédito supuesto gr
 
 Cuando el infractor fuere una empresa, sociedad o cualquiera otra persona moral, se aplicará la sanción prevista en el párrafo segundo del artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
 356.- Se impondrá prisión de tres meses a dos años y multa de cinco a veinte cuotas, independientemente de las sanciones que corresponda imponer por otra u otras disposiciones de este Código o de otra ley aplicable, al patrón que dolosamente, para eludir el pago de obligaciones legítimas, burlando a sus acreedores y queriendo aprovechar en su favor los privilegios que la ley reconoce a los créditos en favor de los trabajadores, simule créditos o cualquier otra obligación por supuestas responsabilidades provenientes de la relación laboral o del contrato del trabajo.
 
@@ -2515,7 +2523,7 @@ Las excepciones a que se refiere el párrafo anterior, no se aplicarán en benef
 
 362.- Para los efectos de los artículos de este Código en que se mencionen a la concubina y al concubinario, se entenderá por tales a la mujer y al hombre que estén haciendo vida conyugal por lo menos durante un año y siempre que tengan, respectivamente, un solo concubinario o una sola concubina.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO I. NEGACION DE LA FUNCION PERSECUTORIA
 
@@ -2533,7 +2541,7 @@ III.- Mediante cualquier acción u omisión que no constituya delito diverso, ej
 
 364.- Se aplicará prisión de tres meses a tres años y multa de cincuenta a cien cuotas al que, como intermediario de un servidor público, intimide a cualquier persona para evitar que ésta o un tercero formule denuncia o querella o aporte información sobre la presunta comisión de un delito o de una conducta sancionada por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ## TITULO DECIMO NOVENO. DELITOS CONTRA LA ECONOMIA PUBLICA Y CONTRA EL TRABAJO Y LA PREVISION SOCIAL
 
@@ -2543,7 +2551,7 @@ III.- Mediante cualquier acción u omisión que no constituya delito diverso, ej
 
 365.- Se aplicará prisión de tres meses a tres años y multa de cincuenta a cien cuotas al servidor público que libre una orden de aprehensión cuando no proceda denuncia o querella legalmente formulada sobre un hecho determinado que la ley tipifique como delito, sancionado cuando menos con pena privativa de libertad y ésta no esté señalada en forma alternativa con otra diversa.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO II. RETENCION ILEGITIMA
 
@@ -2559,7 +2567,7 @@ III.- No ponga al detenido a disposición de la autoridad judicial sin dilación
 
 Se entenderá que el inculpado queda a disposición del juzgador, para los efectos constitucionales y legales, desde el momento en que la autoridad lo ponga a disposición de aquel en la prisión preventiva o en el centro de salud en que se encuentre.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO III. DETENCION Y PRISION PREVENTIVA ILEGITIMA
 
@@ -2575,7 +2583,7 @@ III.- Prolongue la prisión preventiva por no dictar sentencia definitiva dentro
 
 IV.- Demore injustificadamente el incumplimiento de la resolución de autoridad competente que ordena poner en libertad a su detenido.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO IV. RETARDO ILEGITIMO DE LA FORMAL PRISION, DE LA SUJECION A PROCESO O DE LA NO SUJECION A PROCESO
 
@@ -2583,7 +2591,7 @@ IV.- Demore injustificadamente el incumplimiento de la resolución de autoridad 
 
 368.- Se aplicará prisión de tres meses a tres años y multa de cincuenta a cien cuotas al servidor público que no dicte según el caso y dentro del término legal auto de formal prisión, de sujeción a proceso o de no sujeción a proceso con efectos de libertad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO V. PERVERTIMIENTO DE LA FUNCION PERSECUTORIA Y JUDICIAL
 
@@ -2601,7 +2609,7 @@ III.- No le tome al inculpado su declaración preparatoria, dentro del término 
 
 370.- Se aplicará prisión de uno a cuatro años y multa de cuarenta a cien cuotas al servidor público que ordene o practique un cateo fuera del procedimiento legal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO VI. TORTURA
 
@@ -2625,7 +2633,7 @@ III.- No evitar que se torture a un detenido.
 
 373.- Al tercero, instigado o autorizado a cometer tortura, se le aplicarán las sanciones privativas de libertad y pecuniarias previstas en el artículo 371.
 
-(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995) (F. DE E., P.O. 24 DE JUNIO DE 2006)
+(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995) (F. DE E., P.O. 24 DE JUNIO DE 2006)
 
 ### CAPITULO PRIMERO. DELITOS EN MATERIA ELECTORAL
 
@@ -2653,7 +2661,7 @@ VI.- SON SERVIDORES PUBLICOS.- Los así considerados por la Constitución Polít
 
 VII.- CANDIDATOS.- Los ciudadanos registrados formalmente como tales ante la autoridad competente por los partidos políticos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995)</small>
 
 ### CAPITULO SEGUNDO. DE LOS DELITOS EN GENERAL
 
@@ -2749,7 +2757,7 @@ IX.- Mediante la violencia física o moral impida a otro votar libremente, viole
 
 X.- Destruya, oculte, altere un expediente, paquete electoral o algún documento contenido en éstos.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
 
 ## TITULO VIGESIMO
 
@@ -2759,7 +2767,7 @@ X.- Destruya, oculte, altere un expediente, paquete electoral o algún documento
 
 377.- Se impondrá de uno a dos años de prisión y multa de treinta a trescientas cuotas de salario mínimo general vigente en la Entidad, así como suspensión de sus derechos políticos hasta por dos años a los ministros de cultos religiosos que, por cualquier medio, en el desarrollo de los actos propios de su ministerio, induzcan pública o privadamente al electorado a votar en favor o en contra de un candidato, partido político o a la abstención del ejercicio del derecho de votar.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995)</small>
 
 ### CAPITULO CUARTO. DE LOS FUNCIONARIOS ELECTORALES
 
@@ -2807,7 +2815,7 @@ XIII.- Impida el desarrollo normal de la votación sin mediar causa justificada;
 
 XIV.- Conociendo la existencia de condiciones o actividades que atenten contra la libertad y el secreto del voto, no tome las medidas conducentes para que cesen;
 
-XV.- Impida a otro votar libremente, viole el secreto del voto u obligue a otro a votar por una(sic) partido o candidato determinado;
+XV.- Impida a otro votar libremente, viole el secreto del voto u obligue a otro a votar por una (sic) partido o candidato determinado;
 
 XVI.- Retenga algún paquete, expediente electoral y no los entregue oportunamente al organismo electoral respectivo; y
 
@@ -2829,15 +2837,15 @@ IV.- Sustraiga boletas electorales en blanco o sufragadas, o realice el escrutin
 
 V.- Sustraiga, destruya, oculte, altere algún expediente, paquete electoral u otro tipo de documentos contenidos en éstos;
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE FEBRERO DE 1997)</small>
 
 ## TITULO VIGESIMO PRIMERO. DELITOS CONTRA LA FUNCION PERSECUTORIA
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO QUINTO. DE LOS DIRIGENTES PARTIDISTAS Y CANDIDATOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 1997)</small>
 
 380.- Se impondrá de uno a dos años de prisión y multa de treinta a trescientas cuotas de salario mínimo general vigente en la Entidad, así como suspensión de sus derechos políticos hasta por dos años, al dirigente partidista o candidato que dolosamente:
 
@@ -2851,7 +2859,7 @@ IV.- Inutilice propaganda electoral o impida que ésta se realice; y
 
 V.- Propale noticias falsas en torno al desarrollo de la jornada electoral o respecto a sus resultados;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 1997)</small>
 
 381.- Se impondrá de uno a tres años de prisión y multa de treinta a trescientas cuotas de salario mínimo general vigente en la entidad, así como la suspensión de sus derechos políticos hasta por tres años, al dirigente partidista o candidato que dolosamente:
 
@@ -2899,7 +2907,7 @@ X.- Incite a la violencia que altere el orden público y afecte cualquiera de la
 
 XI.- Simule hechos, circunstancias o actos de campaña electoral para imputarlos a un candidato o partido distinto al que el activo pertenece.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
 
 ### CAPITULO SEXTO. DE LOS OBSERVADORES ELECTORALES
 
@@ -2913,11 +2921,11 @@ II.- Realice funciones electorales que la ley de la materia no le otorgue; y
 
 III.- Propale noticias falsas en torno al desarrollo de la jornada electoral o respecto de los resultados.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
 
 ## TITULO VIGESIMO SEGUNDO. DELITOS CONTRA LAS GARANTIAS RECTORAS DEL JUICIO PENAL
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO SEPTIMO. DE LOS ENCUESTADORES
 
@@ -2925,11 +2933,11 @@ III.- Propale noticias falsas en torno al desarrollo de la jornada electoral o r
 
 383.- Se impondrá de uno a tres años de prisión y multa hasta de quinientas cuotas de salario mínimo general vigente en el Estado, a la persona física que publique encuestas o sondeos de opinión y den a conocer las preferencias de los ciudadanos durante los ocho días previos a la jornada electoral y hasta la hora oficial de cierre de las casillas.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995)</small>
 
 ## TITULO VIGESIMO TERCERO
 
-> <small>(ADICIONADO EL ARTICULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
+> <small>(ADICIONADO EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
 
 ### CAPITULO OCTAVO. DE LOS SERVIDORES PUBLICOS
 
@@ -2981,7 +2989,7 @@ Y para que llegue a conocimiento de todos y se le dé el debido cumplimiento, ma
 
 Dado en el Despacho del Poder Ejecutivo del Estado, a los quince días del mes de mayo de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado.- José Guadalupe Cervantes Corona.- Rúbrica.- El Secretario de Gobierno.- Lic. Roberto Almanza Félix.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE DICIEMBRE DE 1989.
 
@@ -3003,7 +3011,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 10 DE JULIO DE 1993.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 PRIMERO.- Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
 
@@ -3045,7 +3053,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 22 DE FEBRERO DE 1997.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
@@ -3055,7 +3063,7 @@ CUARTO.- La Sala de Segunda Instancia deberá entrar en funciones a más tardar 
 
 P.O. 5 DE JULIO DE 1997.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 PRIMERO.- El presente Decreto entrará en vigor el día 1º. de enero de 1998.
 
@@ -3120,3 +3128,9 @@ Artículo primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
 
 Artículo tercero.- Dentro del término de seis meses contados a partir de la publicación de este Decreto, la Legislatura del Estado, deberá aprobar las disposiciones correspondientes, con la finalidad de proporcionar la asistencia y protección integral a las víctimas de trata de personas.
+
+P.O. 6 DE DICIEMBRE DE 2008.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
