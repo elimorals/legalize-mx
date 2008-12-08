@@ -4,7 +4,7 @@ identifier: "CAM-codigo-fiscal-del-estado-de-campeche-3459"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-12-10"
-last_updated: "2004-11-26"
+last_updated: "2008-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3459&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 CODIGO FISCAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 8 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el jueves 10 de diciembre de 1992.
 
@@ -3154,3 +3156,17 @@ Artículo Primero.- El presente decreto entrara en vigor al día siguiente al de
 Artículo Segundo.- Los embargos precautorios realizados con anterioridad a la entrada en vigor de este Decreto, quedarán sin efectos y se convertirán en aseguramiento precautorio en los términos del artículo 102-A del Código Fiscal del Estado de Campeche.
 
 Artículo Tercero.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 8 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Código entrará en vigor el día uno de enero del año dos mil nueve, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El artículo 38 del presente Código, aplicará en relación a los créditos fiscales determinados a partir de la entrada en vigor del mismo.
+
+TERCERO.- Los procedimientos de auditoría fiscal, de ejecución, los recursos administrativos y en general, las instancias administrativas solicitudes o trámites iniciados con anterioridad a la entrada en vigor del presente Código, se resolverán con arreglo a las disposiciones fiscales vigentes al iniciarse los procedimientos o trámites respectivos.
+
+CUARTO.- Se abroga el Código Fiscal del Estado de Campeche, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Campeche, el día 10 de diciembre de 1992.
+
+QUINTO.- Para los efectos de lo dispuesto por el artículo 68 del Código Fiscal del Estado de Campeche, el plazo para la conclusión de las visitas o revisiones a que éste se refiere, se computará a partir de las que se inicien el día en que entre en vigor el presente Código.
+
+SEXTO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al presente decreto.
