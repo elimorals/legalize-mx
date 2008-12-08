@@ -4,7 +4,7 @@ identifier: "SON-ley-de-seguridad-publica-para-el-estado-de-sonora-16566"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-30"
-last_updated: "2007-05-10"
+last_updated: "2008-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Sección Segunda del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1996.
 
@@ -786,6 +786,26 @@ La policía preventiva tendrá su domicilio en la cabecera municipal respectiva;
 ###### ARTICULO 76.
 
 La policía preventiva conducirá sus actividades en forma programada, con base en las estrategias y prioridades previstas en el Plan Municipal de Desarrollo y en los programas que se deriven de éste.
+
+> <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2008)</small>
+
+Sin perjuicio de lo establecido en la presente ley, en los municipios la organización, actuación, capacitación, evaluación y disciplina de la policía preventiva se determinará conforme a los lineamientos y bases que se establezcan en el reglamento municipal correspondiente.
+
+> <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2008)</small>
+
+Los reglamentos municipales en materia de policía preventiva deberán contener, como mínimo, los siguientes temas:
+
+I.- La evolución permanente y control de confianza de elementos y funcionarios de policía preventiva;
+
+II.- El Sistema Municipal de Desarrollo Policial;
+
+III.- La elaboración de mapas geodelictivos del municipio, y
+
+IV.- La generación de bases de datos en materia de seguridad pública.
+
+> <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2008)</small>
+
+En todo caso, la reglamentación municipal que se emita en los términos del presente artículo deberá observar lo que dispone la legislación federal y local en la materia.
 
 ###### ARTICULO 77.
 
@@ -2474,3 +2494,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 8 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los ayuntamientos de los municipios del Estado, deberán emitir el reglamento a que se refiere el presente decreto, dentro de los seis meses siguientes a la entrada en vigor del mismo.
