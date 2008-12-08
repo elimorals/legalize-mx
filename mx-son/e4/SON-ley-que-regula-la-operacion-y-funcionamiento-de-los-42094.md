@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2007-04-12"
+last_updated: "2008-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE REGULA LA OPERACION Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACION, ENVASAMIENTO, DISTRIBUCION, ALMACENAMIENTO, TRANSPORTACION, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHOLICO EN EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -71,6 +71,10 @@ VI.- Bebidas de alto contenido alcohólico: aquéllas cuyo contenido alcohólico
 
 VII.- Bebidas de bajo contenido alcohólico: aquéllas cuyo contenido alcohólico sea inferior a los 6 grados Gay Lussac; en esta denominación queda comprendida la cerveza;
 
+> <small>(ADICIONADA, B.O. 8 DE DICIEMBRE DE 2008)</small>
+
+VII BIS.- Bacanora: Bebida alcohólica regional del Estado de Sonora, México, obtenida por destilación y rectificación de mostos, preparados directa y originalmente con los azúcares extraídos de la molienda de las cabezas maduras de Agave Angustifolia Haw, hidrolizadas por cocimiento, y sometidas a fermentación alcohólica con levaduras. El bacanora es un líquido que, de acuerdo a su tipo, es incoloro o amarillento cuando es madurado en recipientes de madera de roble o encino, o cuando se aboque sin madurarlo;
+
 VIII.- Cerveza: aquélla bebida fermentada, elaborada con granos de cebada u otros cereales germinados y fermentados, malta, fécula, lúpulo, levadura y agua, siempre que su contenido alcohólico sea inferior a los 6 grados Gay Lussac; y
 
 IX.- Productos no potables: aquéllas bebidas cuyo contenido alcohólico sea mayor de 55 grados Gay Lussac, los cuales no se autorizarán para su venta o suministro al público, para su ingestión directa.
@@ -81,9 +85,11 @@ En la presente Ley, a las bebidas señaladas en las fracciones VI, VII y VIII qu
 
 En ningún caso y de ninguna forma se podrá expender o suministrar las bebidas descritas en el Artículo anterior a menores de 18 años.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 4º.
 
-Para la apertura y funcionamiento de los establecimientos a que se refiere esta Ley, se requerirá de licencia que expedirá el Ejecutivo del Estado, por conducto de la Secretaría, en los términos y con los requisitos previstos en este ordenamiento.
+Para la apertura y funcionamiento de los establecimientos a que se refiere esta Ley, se requerirá de licencia que expedirá el Ejecutivo del Estado, por conducto de la Secretaría, en la modalidad, los términos y requisitos previstos en este ordenamiento.
 
 Los establecimientos o lugares que expendan bebidas con contenido alcohólico sin contar con la licencia a que se refiere este artículo, se harán acreedores a las sanciones que señala la presente Ley. Independientemente de lo anterior, se considerarán como lugares clandestinos para los efectos de lo que establece el Código Penal del Estado; además, las Policías Estatal de Seguridad Pública y Preventivas Municipales, proporcionarán el auxilio de la fuerza pública y se coordinarán con los inspectores del ramo en las acciones de prevención tendientes a erradicar el funcionamiento de los lugares o establecimientos a que se refiere este párrafo.
 
@@ -123,7 +129,11 @@ Para los efectos de esta Ley, la operación y funcionamiento de los establecimie
 
 I.- Fábrica.- Lugar de elaboración y envasamiento de bebidas con contenido alcohólico cuyo conjunto de operaciones, son objeto de aprobación, vigilancia y control sanitario en los términos de la Ley de Salud Federal y Estatal. Su infraestructura e instalaciones especiales coinciden en su totalidad con los fines específicos de elaboración. Por su tamaño estas empresas podrán ser grandes, medianas o pequeñas y su localización podrá estar en las inmediaciones o lugares permitidos por las leyes aplicables.
 
-Por lo que respecta a la enajenación de sus productos dentro del Estado, sólo podrán destinarse a establecimientos que cuenten con licencia para alguna de las actividades de distribución y comercialización de productos con contenido alcohólico debidamente autorizada por la Secretaría;
+Por lo que respecta a la enajenación de sus productos dentro del Estado, sólo podrán destinarse a establecimientos que cuenten con licencia para alguna de las actividades de distribución y comercialización de productos con contenido alcohólico debidamente autorizada por la Secretaría.
+
+> <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2008)</small>
+
+Quienes se dediquen a la elaboración y envasamiento del Bacanora, podrán distribuir y comercializar su producto en forma personal o en los términos previstos en el párrafo anterior;
 
 II.- Agencia Distribuidora.- Negocio de distribución específica y venta al mayoreo y menudeo de productos de alcohol o bebidas con contenido alcohólico.
 
@@ -480,6 +490,18 @@ XI.- Documento o constancia expedida por las autoridades federales correspondien
 XII.- La manifestación, bajo protesta de decir verdad, expresada en el sentido de que se cumple, además de lo ordenado en el presente ordenamiento, con lo dispuesto por la normatividad en materia de salud, protección al ambiente y conservación ecológica, desarrollo urbano y protección civil, así como con los demás ordenamientos que regulen el funcionamiento de los establecimientos.
 
 En el supuesto de que el solicitante no pueda llenar los requisitos mencionados en las fracciones V y VI de este artículo, en virtud de que el proyecto de inversión a realizar contempla la construcción del local correspondiente, la Secretaría podrá autorizar el otorgamiento de un plazo para la realización del proyecto, y establecer la condición de que el local se deberá construir, cumpliéndose con los requisitos señalados por la normatividad precisada en la fracción que antecede.
+
+> <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2008)</small>
+
+Tratándose de licencia colectiva a que se refiere el artículo 40 Bis, los interesados, además de los requisitos anteriores, deberán acreditar su registro ante la autoridad competente como asociación de productores de Agave y Bacanora.
+
+> <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 40 Bis.
+
+Las licencias de funcionamiento para la fabricación, elaboración y envasamiento del Bacanora podrán ser colectivas o individuales.
+
+Las licencias colectivas se expedirán únicamente a las Asociaciones de productores de Agave y Bacanora constituidas en los municipios de la región de denominación de origen de dicha bebida, conforme a los ordenamientos federales aplicables, y que se encuentren registradas ante el Consejo Sonorense Promotor de la Regulación del Bacanora. Al amparo de dicha licencia los miembros de las asociaciones de productores, podrán dedicarse a la producción, elaboración, envasamiento, distribución y comercialización del Bacanora.
 
 ###### Artículo 41.
 
@@ -1270,3 +1292,9 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado, a través del Secretario de Hacienda, dispondrá lo conducente a efecto de integrar debidamente el Comité de Evaluación de Trámites y Licencias.
+
+B.O. 8 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
