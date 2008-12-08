@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2008-03-13"
+last_updated: "2008-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY ORGANICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -56,25 +56,53 @@ El Consejo de la Judicatura del Distrito Federal será el órgano encargado de m
 
 Se establecen como principios que regulan la función judicial, tanto en su aspecto de impartición de Justicia, como en su aspecto administrativo los siguientes: la expeditez, el impulso procesal oficioso, la imparcialidad, la legalidad, la honradez, la independencia, la caducidad, la sanción administrativa, la oralidad, la formalidad, la calidad total en sus procesos operativos, administrativos y contables, la excelencia en recursos humanos, la vanguardia en sistemas tecnológicos, la carrera judicial, la eficiencia y eficacia.
 
-> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 2o.
 
-El ejercicio jurisdiccional en todo tipo de asuntos civiles, mercantiles, penales, familiares y los del orden federal en los casos que expresamente las leyes les confieran jurisdicción, corresponde a los servidores públicos y órganos judiciales que se señalan a continuación:
+El ejercicio jurisdiccional en todo tipo de asuntos Civiles, Mercantiles, Penales, de Extinción de Dominio, familiares y los del orden federal en los casos que expresamente las leyes les confieran jurisdicción, corresponde a los servidores públicos y órganos judiciales que se señalan a continuación:
+
+> <small>(REFORMADA, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 I. Magistrados del Tribunal Superior de Justicia;
 
+> <small>(REFORMADA, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
 II. Jueces de lo Civil;
+
+> <small>(REFORMADA, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 III. Jueces de lo Penal;
 
+> <small>(REFORMADA, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
 IV. Jueces de lo Familiar;
+
+> <small>(REFORMADA, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 V. Jueces del Arrendamiento Inmobiliario;
 
-VI. Jueces de Justicia para Adolescentes; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII. Jueces de Paz.
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2008)</small>
+
+VI. Jueces de Justicia para Adolescentes;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2008)</small>
+
+VII. Jueces de Extinción de Dominio; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 8 DE DICIEMBRE DE 2008)</small>
+
+VIII. Jueces de Paz.
+
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 Los demás servidores públicos y auxiliares de la administración de justicia intervendrán en dicha función en los términos que establece esta Ley, los Códigos de Procedimientos y demás leyes aplicables.
 
@@ -230,11 +258,13 @@ VII. No haber ocupado el cargo de Jefe de Gobierno del Distrito Federal, Secreta
 
 Los nombramientos de los Magistrados serán hechos preferentemente, de entre aquellas personas que se hayan desempeñado como Jueces o que hayan prestado sus servicios con eficiencia y probidad en la impartición o procuración de justicia, o en su caso, que por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica se consideren aptos para impartirla. En igualdad de circunstancias, se preferirá a los originarios o vecinos del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 17.
 
-Para ser Juez de Primera Instancia en las materias civil, penal, familiar, de Justicia para Adolescentes, y del arrendamiento inmobiliario, se requiere:
+Para ser Juez de Primera Instancia en las materias Civil, Penal, Familiar, Justicia para Adolescentes, Extinción de Dominio y del Arrendamiento Inmobiliario, se requiere:
 
 > <small>(REFORMADA, G.O. 17 DE JUNIO DE 1997)</small>
 
@@ -624,13 +654,17 @@ VII. Vigilar que los Secretarios y demás servidores públicos de la Sala cumpla
 
 Las Salas en materia Civil, conocerán:
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I. De los casos de responsabilidad civil y de los recursos de apelación y queja que se interpongan en asuntos civiles, contra las resoluciones dictadas por los jueces de lo Civil y Arrendamiento Inmobiliario;
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2008)</small>
 
-(REFORMADA, G.O. 24 DE ABRIL DE 2003) (F. DE E., G.O. 1 DE JULIO DE 2003)
+I. De los casos de responsabilidad civil y de los recursos de apelación y queja que se interpongan en asuntos civiles y de Extinción de Dominio, contra las resoluciones dictadas por los jueces de lo Civil, Arrendamiento Inmobiliario y de Extinción de Dominio;
 
-II. De las excusas y recusaciones de los Jueces Civiles y del Arrendamiento Inmobiliario del Tribunal Superior de Justicia del Distrito Federal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2008)</small>
+
+II. De las excusas y recusaciones de los Jueces Civiles, del Arrendamiento Inmobiliario y de Extinción de Dominio, del Tribunal Superior de Justicia del Distrito Federal;
 
 III. De los conflictos competenciales que se susciten en materia Civil entre las autoridades judiciales del Tribunal Superior de Justicia, y
 
@@ -726,9 +760,13 @@ Los Secretarios de Acuerdos de Salas, tendrán en lo conducente, las mismas atri
 
 (DEROGADO, G.O. 8 DE SEPTIEMBRE DE 2004)
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-### CAPITULO II. De los Juzgados de lo Civil, de lo Penal, de lo Familiar, de Justicia para Adolescentes y del Arrendamiento Inmobiliario del Distrito Federal
+> <small>(REFORMADA SU DENOMINACION, G.O. 8 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO II
+
+De los Juzgados de lo Civil, de lo Penal, de lo Familiar, de Justicia para Adolescentes, de Extinción de Dominio y del Arrendamiento Inmobiliario del Distrito Federal
 
 > <small>(REFORMADO Y REUBICADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
@@ -744,9 +782,23 @@ III. Jueces de lo Familiar;
 
 IV. Jueces de Arrendamiento Inmobiliario;
 
-V. El Juzgado Mixto ubicado en las Islas Marías y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI. Jueces de Justicia para Adolescentes.
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2008)</small>
+
+V. El Juzgado Mixto ubicado en las Islas Marías;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2008)</small>
+
+VI. Jueces de Justicia para Adolescentes; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 8 DE DICIEMBRE DE 2008)</small>
+
+VII. Jueces de Extinción de Dominio.
 
 (REUBICADO, G.O. 14 DE NOVIEMBRE DE 2007)
 
@@ -821,6 +873,22 @@ II. Promover la conciliación entre quien ejerza la patria potestad o en su caso
 III. Resolver los asuntos sometidos a su conocimiento, conforme a los plazos y términos previstos en la Ley de Justicia para Adolescentes para el Distrito Federal, y
 
 IV. Resolver sobre las medidas a imponer, atendiendo al estudio de los hechos y estudio de su personalidad, que lleven a establecer los principios de culpabilidad, proporcionalidad y racionalidad, por el acto antisocial, así como a las circunstancias, gravedad de la conducta, características y necesidades de los Adolescentes, que represente el menor daño al adolescente para su reincorporación social.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 8 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 54 Bis.
+
+Los Jueces de Extinción de Dominio conocerán:
+
+I. De los procedimientos de Extinción de Dominio establecidos en la Ley de la materia;
+
+II. De las medidas cautelares en materia de Extinción de Dominio;
+
+III. De la diligenciación de los exhortos, rogatorias, suplicatorias, requisitorias y despachos, en la materia; y
+
+IV. De las demás diligencias, acuerdos y actividades que les encomiende la Ley de Extinción de Dominio para el Distrito Federal y demás legislación vigente.
 
 (REFORMADO, G.O. 24 DE ABRIL DE 2003) (F. DE E., G.O. 1 DE JULIO DE 2003)
 
@@ -2756,23 +2824,39 @@ V. No engrosar, dentro de ocho días siguientes a la decisión del negocio, la s
 
 VI. Las señaladas en las fracciones VII, XIV y XVI al XX del artículo 220.
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 224.
 
-Son faltas de los Secretarios de Acuerdos del ramo civil, familiar y arrendamiento inmobiliario, las fijadas en el artículo anterior y, además las siguientes:
+Son faltas de los Secretarios de Acuerdos del ramo civil, familiar, de extinción de dominio y arrendamiento inmobiliario, las fijadas en el artículo anterior y, además las siguientes:
+
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
 
 I. No turnar al Secretario Actuario adscrito los expedientes que requieran notificación personal o la práctica de alguna diligencia;
 
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+
 II. No hacer a las partes las notificaciones personales en términos de ley; que procedan cuando concurran al Juzgado o Tribunal;
+
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
 
 III. No mostrar a las partes, sin causa justificada, cuando lo soliciten, los expedientes o exigir requisitos no contemplados en la ley para el efecto, como el llenado de formatos u otros;
 
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+
 IV. No mostrar a las partes, inmediatamente que lo solicite, los negocios que se hayan publicado en el Boletín del día;
+
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
 
 V. No remitir al archivo oportunamente los expedientes cuya remisión sea forzosa, conforme a la ley;
 
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+
 VI. No observar lo establecido en la fracción VII del artículo 58 de esta ley; y
+
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
 
 VII. No entregar a las partes las copias simples de resoluciones o constancias de autos que les soliciten, previo pago realizado en los términos correspondientes, cuando para ello no se requiera acuerdo para la expedición.
 
@@ -3121,3 +3205,15 @@ TERCERO.- Las personas que hayan sufrido únicamente daños causados culposament
 SEXTO.- El Jefe de Gobierno del Distrito Federal deberá emitir los ordenamientos administrativos necesarios para instrumentar el presente Decreto, para que entren en vigor el mismo día que este instrumento.
 
 SÉPTIMO.- El Tribunal Superior de Justicia del Distrito Federal deberá realizar las adecuaciones administrativas y laborales para que se cumpla el procedimiento seguido ante los Jueces de Paz Civil que señala este Decreto en los términos y plazos allí señalados y entren en vigor el mismo día que este instrumento.
+
+G.O. 8 DE DICIEMBRE DE 2008.
+
+PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación.
+
+SEGUNDO. - El presente Decreto entrará en vigor noventa días naturales posteriores a su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. - El Jefe de Gobierno del Distrito Federal cuenta con 60 días naturales posteriores a la publicación del presente decreto para realizar las adecuaciones jurídico - administrativas necesarias para el adecuado funcionamiento del presente ordenamiento.
+
+CUARTO. - El Pleno del Tribunal Superior de Justicia del Distrito Federal propondrá al Consejo de la Judicatura del Distrito Federal la reasignación de la materia de conocimiento de cualquiera de los Juzgados que lo integran y que sean necesarios para contar con los Juzgados Especializados en Extinción de Dominio para substanciar los procedimientos en esta materia.
+
+QUINTO. - Hasta en tanto el Tribunal Superior de Justicia del Distrito Federal, a través del Consejo de la Judicatura del Distrito Federal, realiza las adecuaciones jurídico - administrativas para dar cumplimiento a lo establecido en el artículo anterior, conocerán del procedimiento de Extinción de Dominio los juzgados de lo civil.
