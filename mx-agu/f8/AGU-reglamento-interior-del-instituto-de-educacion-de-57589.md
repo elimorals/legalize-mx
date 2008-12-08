@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-de-educacion-de-57589"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-19"
-last_updated: "2007-11-19"
+last_updated: "2008-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57589&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE EDUCACION DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de noviembre de 2007.
 
@@ -60,7 +60,7 @@ VI. CEES.- A la Comisión Estatal de Educación Superior;
 
 VII. Reglamento.- Al presente Reglamento Interior;
 
-VIII. Estatuto Jurídico.- A el (sic) Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado, sus Municipios y Organismos Descentralizados;
+VIII. (ABROGADA [N. DE E. DEROGADA], P.O. 8 DE DICIEMBRE DE 2008)
 
 IX. CENDI.- Al Centro de Desarrollo Infantil.
 
@@ -204,15 +204,19 @@ V. Coadyuvar con las dependencias correspondientes en los programas para la supe
 
 VI. Llevar a cabo la autorización de los documentos de su competencia; y (sic)
 
-VII. Acatar las disposiciones que emita el Consejo Interior;
+VII. Acatar las disposiciones que emita el Consejo Interior.
 
 VIII. Dar seguimiento a todas las actividades que realicen las dependencias y organismos del sector educativo del Estado de Aguascalientes;
 
 IX. Promover relaciones de trabajo interinstitucionales con dependencias públicas locales y federales; así como con organismos no gubernamentales enfocados al bienestar social, a fin de coordinar esfuerzos y recursos para lograr un mayor impacto social educativo;
 
-X. Supervisar, apoyar, dirigir y evaluar las actividades que realicen la CEEM y la CEES dentro del ámbito de competencia de sus propios decretos de creación; y
+X. Supervisar, apoyar, dirigir y evaluar las actividades que realicen la CEEM y la CEES dentro del ámbito de competencia de sus propios decretos de creación; y (sic)
 
-XI. Supervisar, controlar y evaluar las actividades que realice la Oficina Técnica de la CEEM y la CEES.
+XI. Supervisar, controlar y evaluar las actividades que realice la Oficina Técnica de la CEEM y la CEES;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+XII. Otorgar las concesiones, permisos, autorizaciones de todos aquellos asuntos que le competen, así como declararlos administrativamente en caducidad, nulidad, rescisión y revocación en los términos de las disposiciones legales aplicables.
 
 ### CAPÍTULO II. De las Facultades no Delegables del Director General
 
@@ -234,7 +238,7 @@ VI. Aprobar los anteproyectos del Programa-Presupuesto de Egresos del IEA, cuand
 
 VII. Proponer al Consejo Interior las modificaciones a la organización y funcionamiento del IEA;
 
-VIII. Otorgar las concesiones, permisos, autorización de todos aquellos asuntos que le competen, así como declararlos administrativamente en caducidad, nulidad, rescisión y revocación en los términos de las disposiciones legales aplicables;
+VIII. (ABROGADA [N. DE E. DEROGADA], P.O. 8 DE DICIEMBRE DE 2008)
 
 IX. Proponer al Consejo Interior el nombramiento y remoción de los servidores públicos que ocupen cargos de Dirección, Subdirección, Coordinadores y Jefaturas de Departamento y ordenar su registro en el Registro Público de la Propiedad en el libro correspondiente a las Entidades Paraestatales del Estado de Aguascalientes;
 
@@ -344,7 +348,9 @@ XVI. Emitir las resoluciones administrativas de los asuntos puestos a su conside
 
 XVII. Presentar anualmente al Director General del IEA, el informe de las actividades realizadas en la dirección a su cargo, conforme al plan de trabajo anual previamente aprobado;
 
-XVIII. Levantar el acta correspondiente por las incidencias al Estatuto Jurídico o al Reglamento de las Condiciones Generales de Trabajo y demás disposiciones laborales vigentes y remitirlas a la Dirección Jurídica para su respectivo procedimiento y sanción;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+XVIII. Levantar el acta correspondiente por las incidencias al Reglamento de las Condiciones Generales de Trabajo de la Secretaría de Educación Pública y demás disposiciones laborales aplicables vigentes y remitirlas a la Dirección Jurídica para su respectivo procedimiento y sanción;
 
 XIX. Dar seguimiento a las peticiones que se presenten al IEA, a través de las audiencias públicas de la dependencia, del Gobierno del Estado, de los Ayuntamientos y otras instancias, que le sean canalizadas por ser de su competencia;
 
@@ -494,13 +500,31 @@ XXIV. Vigilar los programas de supervisión sobre las infraestructuras de los pl
 
 XXV. Delegar en sus Subdirecciones, Jefaturas de Departamento, Subjefaturas y áreas administrativas que orgánicamente dependan de la Dirección las facultades contempladas dentro del presente artículo; y (sic)
 
-XXVI. Conocer de las incidencias laborales que le reporten las Subdirecciones a su cargo y en caso remitir a la Dirección Jurídica, para el trámite legal conducente;
+XXVI. Conocer de las incidencias laborales que le reporten las Subdirecciones a su cargo y en caso remitir a la Dirección Jurídica, para el trámite legal conducente.
 
 XXVII. Analizar y evaluar la estructura orgánica del Instituto y de sus áreas administrativas, así como también los sistemas de organización, de trabajo y de servicios al público y formular los anteproyectos de organización que se requieran para el buen (sic) del Instituto;
 
 XXVIII. Supervisar que las obras de construcción, reparación, adaptación o mantenimiento se realicen conforme las especificaciones de los contratos y proyectos respectivos;
 
-XXIX. Las demás que le encomiende el Director General en el ejercicio de sus funciones y que le sean análogas a las anteriores.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+XXIX. Suscribir acuerdos de autorización para impartir estudios de educación de tipo básico en los niveles de preescolar, primaria, secundaria y los correspondientes a educación normal y demás para la formación de maestros de educación básica;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+XXX. Suscribir acuerdos de Reconocimiento de Validez Oficial de Estudios, así como los que ordene su revocación, esto sin perjuicio de que lo ejerza el titular de la Dirección Jurídica derivado de un procedimiento administrativo, que corresponda de los distintos a los de preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+XXXI. Suscribir las resoluciones de equivalencias y revalidación de estudios;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+XXXII. Las facultades señaladas en las Fracciones XXIX, XXX, y XXXI, las podrá ejercer sin perjuicio de .manera directa el Director General;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+XXXIII. Las demás que le encomiende el Director General en ejercicio de sus funciones y que les sean análogas a las anteriores.
 
 ### CAPÍTULO III. Del Director de Educación Básica
 
@@ -724,7 +748,7 @@ La Dirección de Becas y Financiamiento Educativo, depende directamente de la Di
 
 I. Elaborar y proponer al Comité Estatal de Becas los planes, programas y presupuestos, incremento o reducción de los mismos, para su autorización;
 
-II. Organizar, desarrollar y evaluar los programas de estímulos a la excelencia educativa, financiamiento educativos (sic) y becas compensatorias;
+II. Organizar, desarrollar y evaluar los programas de estímulos a la excelencia educativa, financiamiento educativos y becas compensatorias;
 
 III. Participar en los comités de otros Organismos Públicos que otorgan estímulos al desempeño educativo;
 
@@ -782,7 +806,9 @@ VI. Conocer, investigar y llevar a cabo el procedimiento laboral-administrativo 
 
 VII. Conocer, investigar y atender de manera especial los casos en que se lesione la integridad física, psicológica, social y o moral de los educandos, así como de infracciones a las normas protectoras para menores en materia educativa y determinar las medidas precautorias para garantizar su integridad;
 
-VIII. Conocer, investigar y llevar a cabo el procedimiento administrativo conducente en incidencias que en materia educativa se presenten en Instituciones particulares;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+VIII. Conocer, investigar, llevar a cabo el procedimiento administrativo y en su caso aplicar la sanción correspondiente, incluso la Revocación y/o Cancelación del Reconocimiento de Validez Oficial de Estudios otorgado por la autoridad educativa correspondiente, en incidencias que en materia educativa se presenten en instituciones particulares;
 
 IX. Resolver sobre la aplicación de sanciones de carácter laboral a que se hagan acreedores los trabajadores del IEA por violación a las disposiciones laborales aplicables, así como ejecutar en su caso las reconsideraciones emitidas por el Director General;
 
@@ -858,7 +884,7 @@ XII. Las demás que el Director General le encomiende en el ejercicio de sus atr
 
 La Dirección de Desarrollo Educativo depende de la Dirección General y su titular tendrá a su cargo las siguientes facultades:
 
-I. Supervisar los servicios de educación normal a cargo del IEA, los incorporados y organismos públicos que preste (sic) dicho servicio educativo;
+I. Supervisar los servicios de educación normal a cargo del IEA, los incorporados y organismos públicos que preste dicho servicio educativo;
 
 II. Proponer políticas y planes generales para la actualización permanente y la capacitación de los docentes y directivos en servicio de educación especial, básica y normal, tomando en cuenta las opiniones y propuestas que al respecto emitan las autoridades educativas locales y de diversos sectores sociales involucrados en la educación;
 
@@ -1039,3 +1065,9 @@ ORGANO DE CONTROL:
 C.P. Rosa del Carmen Gallegos Navaro,
 
 COMISARIO PÚBLICO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE DICIEMBRE DE 2008.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
