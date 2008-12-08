@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2008-11-17"
+last_updated: "2008-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -213,7 +213,7 @@ Por cada Diputado Propietario se eligirá (sic) un Suplente.
 
 ###### Artículo 17.
 
-En el Estado la renovación de los Poderes Legislativo y Ejecutivo, así como los Ayuntamientos se verificarán por medio de elecciones democráticas directas, a través del ejercicio del sufragio universal y secreto.
+En el Estado la renovación de los Poderes Legislativo y Ejecutivo, así como los Ayuntamientos se verificarán por medio elecciones democráticas directas, a través del ejercicio del sufragio universal y secreto.
 
 A. El Congreso del Estado estará integrado por dieciocho Diputados electos según el principio de votación de mayoría relativa mediante el sistema de Distritos electorales uninominales y nueve Diputados electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado.
 
@@ -425,25 +425,41 @@ I.- Legislar para el Estado, sobre todas las materias que no sean de la competen
 
 II.- Decretar las contribuciones necesarias para cubrir los gastos del Estado y de los Municipios.
 
-En materia de contribuciones municipales sobre la propiedad inmobiliaria, tomando en cuenta anualmente a propuesta de los Ayuntamientos, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para su cobro a propuesta de los Municipios.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2007)</small>
+El Congreso tomará en cuenta las propuestas que hagan los Ayuntamientos relativos a las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y la tabla de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, sin dejar de establecer las tasas adicionales que se fijen sobre la propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
 
-III.- Examinar, discutir, modificar y aprobar anualmente el Presupuesto de Egresos del Estado, en el que no podrá haber partidas secretas.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+III.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos del Estado, en el que no podrá haber partidas secretas, tomando en cuenta la Iniciativa enviada por el titular del Poder Ejecutivo, a la cual el Congreso, en su caso, podrá hacer modificaciones.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2007)</small>
 
 Dentro del Presupuesto de Egresos del Estado, se incluirán las partidas plurianuales necesarias para cumplir con las obligaciones contraídas bajo la modalidad de Proyectos de Prestación de Servicios, que hayan sido previamente aprobados por el Pleno y que tengan por objeto crear infraestructura pública.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2007)</small>
+
 La aprobación del establecimiento de compromisos plurianuales deberá hacerse siempre y cuando no se cause perjuicio a la viabilidad financiera del Estado y Municipios ni se modifiquen ramos, programas y proyectos prioritarios.
 
-IV.- Autorizar al Ejecutivo para celebrar empréstitos sobre el crédito del Estado, fijando las bases sobre las cuales deben celebrarse dichos empréstitos y aprobarlos.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
-Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan incremento de los ingresos públicos.
+IV.- Autorizar al Ejecutivo y a los Ayuntamientos para contraer empréstitos, fijando las bases sobre las cuales deben celebrarse.
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2002)</small>
+Los empréstitos que solicite el Estado y los municipios sólo se autorizarán cuando se destinen a inversiones públicas productivas inclusive las que contraigan organismos descentralizados y empresas públicas, conforme a las bases que establezca la Ley que para el efecto expedirá el Congreso del Estado y por los conceptos y hasta por los montos que las mismas fijen anualmente en los respectivos presupuestos. El Ejecutivo del Estado y los Ayuntamientos informarán su ejercicio al rendir la Cuenta Pública.
 
-V.- Revisar las cuentas públicas que mensualmente deben presentarle los titulares de los Poderes del Estado, los Ayuntamientos del Estado, las dependencias definidas como tales en la Ley Orgánica de la Administración Pública y en la Ley Orgánica Municipal, los organismos paraestatales o paramunicipales, organismos autónomos, empresas de participación mayoritaria y fideicomisos pertenecientes a la Administración Pública Descentralizada del Gobierno del Estado y de los ayuntamientos, dentro de los veinte días siguientes a la conclusión de los plazos señalados. En los recesos del Congreso, se presentarán ante la Diputación Permanente. La ampliación del plazo de entrega de éstas, estará sujeta a una solicitud justificada a juicio del Congreso.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
-Las cuentas públicas se turnarán a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda; ésta, con el auxilio del órgano técnico, revisará los resultados de la gestión financiera, comprobará que los ingresos estén de acuerdo a la Ley de Ingresos, que las partidas gastadas estén justificadas y que son conformes con las normas de ejecución de los presupuestos de egresos, y el cumplimiento de los objetivos contenidos en los programas.
+V.- Revisar la Cuenta Pública del año anterior, que deberán presentarle a más tardar el 28 de febrero de cada año los titulares de los Poderes del Estado, los Ayuntamientos de la Entidad, las dependencias definidas como tales en la Ley Orgánica de la Administración Pública y en la Ley Municipal, los organismos paraestatales o paramunicipales, organismos autónomos, empresas de participación mayoritaria y fideicomisos pertenecientes a la Administración Pública Descentralizada de Gobierno del Estado y de los Ayuntamientos.
+
+La ampliación del plazo de entrega de ésta, estará sujeta a una solicitud justificada a juicio del Congreso y en su caso la prórroga no podrá exceder de 15 días naturales y en tal supuesto, la Entidad de Fiscalización Superior del Estado, contará con el mismo tiempo adicional para la presentación del Informe del resultado de revisión de la Cuenta Pública.
+
+La revisión de la Cuenta Pública la realizará el Congreso a través de la Entidad de Fiscalización Superior del Estado, denominada Órgano Superior de Fiscalización del Estado de Aguascalientes, para tal efecto, la Cuenta Pública se turnará al Órgano Superior de Fiscalización, por conducto de la Comisión de Vigilancia, a fin de que fiscalice los resultados de la gestión financiera, compruebe que los ingresos estén de acuerdo a la Ley de Ingresos del Estado, que las partidas gastadas estén justificadas y que son conforme con las normas de ejecución de los presupuestos de egresos y el cumplimiento de los objetivos contenidos en los programas.
+
+Si del examen que el Órgano Superior de Fiscalización del Estado realice, aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicha entidad sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley.
+
+El Congreso del Estado, concluirá la revisión de la Cuenta Pública a más tardar el 30 de noviembre del año de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del informe del resultado del Órgano Superior de Fiscalización del Estado, a que se refiere el Artículo 27 C de esta Constitución, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por el Órgano Superior de Fiscalización del Estado, sigan su curso.
+
+Asimismo, los Poderes del Estado, los Municipios y los entes públicos estatales y municipales, rendirán al Congreso del Estado, a más tardar el día 20 de los meses de abril, julio y octubre del año en que se ejerza el presupuesto respectivo, Informe de Avance de Gestión Financiera como parte integrante de las Cuentas Públicas, sobre los resultados físicos y financieros de los programas a su cargo, por los períodos correspondientes al primer, segundo y tercer trimestre del año. Lo anterior, a fin de que el Órgano Superior de Fiscalización del Estado fiscalice el trámite y la conclusión de los procesos correspondientes, los ingresos y egresos; el manejo, la custodia y la aplicación de sus fondos y recursos; y en su caso, emita las recomendaciones en cuanto al cumplimiento de los objetivos contenidos en los programas respectivos.
 
 VI.- Autorizar al Ejecutivo para ejercer actos de dominio sobre los bienes inmuebles pertenecientes al Estado.
 
@@ -487,13 +503,19 @@ XXIV.- Investir al Gobernador de facultades extraordinarias en caso de calamidad
 
 XXV.- Premiar a las personas que hayan prestado eminentes servicios públicos al Estado; o a los hijos de éste que los haya prestado a la Patria o a la humanidad y recompensar a los buenos servidores de la Administración Pública.
 
-XXVI.- Expedir la Ley que regulará su estructura y funcionamiento interno, la cual será aprobada por las dos terceras partes de sus integrantes.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+XXVI.- Expedir la Ley que regulará su estructura y funcionamiento interno, así como la Ley que regule la organización del Órgano Superior de Fiscalización del Estado, las cuales serán aprobadas por las dos terceras partes de sus integrantes.
 
 La Ley determinará las formas y procedimientos para la agrupación de los Diputados, según su afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el Congreso.
 
-Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Estatal para tener vigencia.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
-XXVII.- Nombrar y remover a los servidores públicos de sus dependencias.
+Estas Leyes no podrán ser vetadas ni necesitarán de promulgación del Ejecutivo Estatal para tener vigencia.
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+XXVII.- Nombrar y remover a los servidores públicos de sus dependencias, así como al Auditor Superior del Estado.
 
 XXVIII.- Legislar en materia de responsabilidades de los servidores públicos.
 
@@ -511,11 +533,87 @@ XXXII.- Ratificar el nombramiento que el Gobernador del Estado haga del Procurad
 
 XXXIII.- Nombrar a los miembros del Consejo de la Judicatura Estatal en los términos del artículo 55 de esta Constitución.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] P.O. 28 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
-XXXIV.- Aprobar la realización de Proyectos de Prestación de Servicios, su contratación y modificaciones a los Poderes del Estado y Municipios, quienes serán los únicos que podrán contratar dichos proyectos, aprobación que debe estar precedida de la presentación del proyecto de referencia, acompañado de la información técnica financiera detallada; así como del contrato que habrá de celebrarse, el proceso y términos de la licitación, la afectación patrimonial que se requiera, las cantidades máximas a pagar anualmente, así como el plazo máximo de duración del proyecto; y
+XXXIV.- Aprobar la realización de Proyectos de Prestación de Servicios, su contratación y modificaciones a los Poderes del Estado y Municipios, quienes serán los únicos que podrán contratar dichos proyectos, aprobación que debe estar precedida de la presentación del proyecto de referencia, acompañado de la información técnica y financiera detallada; así como del contrato que habrá de celebrarse el proceso y términos de la licitación, la afectación patrimonial que se requiera, las cantidades máximas a pagar anualmente, así como el plazo máximo de duración del proyecto.
 
-XXXV.- Las demás que le concede esta Constitución y la General de la República.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+XXXV.- Coordinar y evaluar por medio de la Comisión de Vigilancia, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones del Órgano Superior de Fiscalización del Estado, en los términos que disponga la Ley; y
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+XXXVI.- Las demás que le concede esta Constitución y la General de la República.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+#### SECCION UNICA
+
+Del Órgano Superior de Fiscalización del Estado.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+Artículo 27 A.- El Órgano Superior de Fiscalización del Estado de Aguascalientes del Congreso del Estado, tendrá autonomía técnica y de gestión, con personalidad jurídica y patrimonio propios. Dicha autonomía le permitirá el ejercicio de sus atribuciones y la decisión sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley.
+
+El Órgano Superior de Fiscalización del Estado desarrollará su función de fiscalización conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
+
+Los Poderes del Estado y los sujetos de fiscalización, facilitarán los auxilios que requiera el Órgano Superior de Fiscalización del Estado, para el ejercicio de sus funciones y, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la Ley.
+
+Asimismo, los servidores públicos locales y municipales, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos federales, estatales o municipales deberán proporcionar la información y documentación que solicite el Órgano Superior de Fiscalización del Estado, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la Ley.
+
+Las indemnizaciones y sanciones pecuniarias a que se refiere la Fracción IV del Artículo 27 C de esta Constitución, constituirán créditos fiscales del erario estatal o municipal en su caso, y se harán efectivas aplicando el Procedimiento Administrativo de Ejecución.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+Artículo 27 B.- El Congreso del Estado emitirá la convocatoria para elegir al titular del Órgano Superior de Fiscalización del Estado y lo designará con el voto de las dos terceras partes de los miembros presentes en la Legislatura. La Ley determinará el procedimiento para su designación y remoción en su caso.
+
+El Auditor Superior de Fiscalización, además de los requisitos previstos en las Fracciones I, III y IV del Artículo 53 de esta Constitución requeridos para ser Magistrado del Supremo Tribunal de Justicia y Procurador General de Justicia, deberá de reunir los siguientes:
+
+I. Contar el (sic) día de su designación, con antigüedad mínima de 10 años, con título profesional de contador público, licenciado en derecho o abogado, licenciado en economía, licenciado en administración o cualquier otro título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello.
+
+II. Contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades.
+
+III. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal.
+
+IV. No haber tenido cargo de Secretario o su equivalente en el Poder Ejecutivo del Estado, Procurador de Justicia, Contralor del Estado o de Municipio, Presidente Municipal, Senador, Diputado Federal o local, Síndico o Regidor de algún Ayuntamiento o dirigente de Partido Político durante los cuatro años previos al de su designación.
+
+El Auditor Superior de Fiscalización durará en su encargo siete años; podrá ser removido por el Congreso por causas que señale la Ley, siempre con la misma votación requerida para su nombramiento, o conforme a los procedimientos previstos en el Capítulo Décimo Sexto de esta Constitución.
+
+Durante el ejercicio de su encargo no podrá formar parte de la dirigencia de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+Artículo 27 C.- El Órgano Superior de Fiscalización del Estado tendrá las siguientes facultades:
+
+I. Fiscalizar en forma posterior los ingresos y egresos; la recaudación, administración, el manejo, la custodia y la aplicación de los fondos y recursos públicos, estatales y municipales, incluyendo los recursos de origen federal en términos de los Convenios suscritos conforme a la Ley de Coordinación Fiscal, que manejen los Poderes del Estado, los Ayuntamientos del Estado, las dependencias definidas como tales en la Ley Orgánica de la Administración Pública, así como en la Ley Municipal y sus ordenamientos municipales, los organismos paraestatales o paramunicipales, organismos autónomos, empresas de participación mayoritaria y fideicomisos pertenecientes a la Administración Pública Descentralizada del Gobierno del Estado y de los Ayuntamientos y, en general, de cualquier entidad, persona física o moral, pública o privada, que haya tenido o tenga a su cargo la gestión de recursos públicos estatales o municipales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas federales, estatales y municipales, a través de los informes de avance de gestión financiera que se rendirán en los términos que disponga la Ley.
+
+También fiscalizará directamente los recursos estatales y municipales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+
+Las entidades fiscalizadas, deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos que les sean transferidos y asignados.
+
+Sin perjuicio del principio de anualidad, el Órgano Superior de Fiscalización del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago, diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas estatales o municipales. Las observaciones y recomendaciones que, respectivamente, el Órgano Superior de Fiscalización del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
+
+Asimismo, sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la Ley, derivado de denuncias, podrá requerir a las entidades fiscalizadas que procedan a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, se impondrán las sanciones previstas en la misma. El Órgano Superior de Fiscalización del Estado rendirá un informe específico al Congreso del Estado y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
+
+II. Entregar el informe del resultado de la revisión de las cuentas públicas al Congreso del Estado por conducto de la Comisión de Vigilancia, a más tardar el 15 de septiembre del año en que éstas debieron presentarse, el cual se someterá al Pleno del Congreso y tendrá carácter de público. Dicho Informe contendrá al menos, las auditorias practicadas, los dictámenes de su revisión, el apartado correspondiente a la fiscalización del manejo de los recursos estatales o municipales, así como de las participaciones federales o estatales en su caso, por parte de las entidades fiscalizadas y verificación del desempeño en el cumplimiento de los objetivos de los programas estatales o municipales, el cumplimiento de las normas de información financiera para el sector público, los resultados de la gestión financiera, la comprobación de que las entidades se ajustaron a la Ley de Ingresos de la Entidad, según corresponda, y al Presupuesto de Egresos, el análisis de las desviaciones presupuestarias en su caso, así como también un apartado específico con las observaciones del Órgano Superior de Fiscalización del Estado que incluya las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
+
+Para tal efecto, de manera previa a la presentación del informe del resultado, se darán a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por el Órgano Superior de Fiscalización del Estado para la elaboración del informe del resultado de la revisión de la Cuenta Pública.
+
+El titular del Órgano Superior de Fiscalización del Estado enviará a las entidades fiscalizadas, a más tardar a los 10 días hábiles posteriores a que sea entregado al Congreso del Estado el informe del resultado, las recomendaciones y acciones promovidas que correspondan para que, en un plazo de hasta 15 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes, en caso de no hacerlo se harán acreedores a las sanciones establecidas en la Ley. Este término podrá ser ampliado hasta por 15 días hábiles más, previa petición y si a juicio del titular del Órgano Superior de Fiscalización así lo amerite el caso en concreto. Los plazos anteriores no aplicarán a los pliegos de observaciones y a las promociones de responsabilidades, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
+
+El Órgano Superior de Fiscalización del Estado, deberá pronunciarse en un plazo de 45 días hábiles sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas.
+
+En el caso de las recomendaciones al desempeño, las entidades fiscalizadas deberán precisar ante el Órgano Superior de Fiscalización del Estado, las mejoras realizadas o en su caso, justificar su improcedencia.
+
+El Órgano Superior de Fiscalización del Estado deberá entregar trimestralmente al Congreso del Estado, a más tardar los días 15 de los meses de enero, abril, julio y octubre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas.
+
+El Órgano Superior de Fiscalización del Estado deberá guardar reserva de sus actuaciones, hasta que rinda el informe a que se refiere este inciso. Al respecto, el personal del citado órgano que Intervenga en los diversos procedimientos relativos a la aplicación de las disposiciones constitucionales como a las contenidas en la Ley Superior de Fiscalización del Estado de Aguascalientes, estará obligado a guardar absoluta reserva en lo concerniente a la información y documentación suministrada por los entes fiscalizados o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades atribuidas a dicho Ente Superior de Fiscalización. La Ley Superior de Fiscalización del Estado establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+
+III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, recaudación, administración, manejo, custodia y aplicación de fondos y recursos federales, estatales o municipales y efectuar visitas domiciliarias para exigir la exhibición de libros, documentos y demás información indispensables para la realización de sus investigaciones, sujetándose a la Ley Superior de Fiscalización del Estado, así como a la demás legislación aplicable: y
+
+IV. Determinar los daños y perjuicios que afecten a la hacienda pública de las entidades y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades promover las acciones de responsabilidad a que se refiere el Capítulo Décimo Sexto de esta Constitución y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la Ley.
+
+Las sanciones y demás resoluciones del Órgano Superior de Fiscalización del Estado, podrán ser impugnadas por las entidades fiscalizadas y en su caso, por los servidores públicos afectados adscritos a las mismas, ante el propio Órgano Superior de Fiscalización del Estado o ante el Tribunal de lo Contencioso Administrativo conforme a lo previsto en la Ley.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1337,9 +1435,13 @@ La propaganda, bajo cualquier modalidad de comunicación social, que difundan co
 
 La violación a lo establecido en el presente Artículo será sancionada en la forma y términos que señalen las leyes.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 90.
+
+Los recursos económicos de que dispongan el Estado y los Municipios, se administrarán con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2007)</small>
 
 Todos los contratos que el Gobierno tenga que celebrar para la ejecución de obras públicas, serán adjudicados en subasta, mediante convocatoria, para que se presenten proposiciones en sobre cerrado, que será abierto en junta pública; tratándose de proyectos de Prestación de Servicios además se deberá asegurar al Estado o a los Municipios las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, así como la obtención de mayores beneficios en igualdad de inversión en comparación con las realización del proyecto a través de inversión presupuestaria. La adjudicación directa de Proyectos de Prestación de Servicios, en los casos de excepción que así determine la ley que regule dichos proyectos, deberá ser ratificada por el Congreso del Estado.
 
@@ -1984,3 +2086,59 @@ El presente Decreto entrará en vigencia al día siguiente al de su publicación
 ###### ARTÍCULO SEGUNDO.
 
 Intégrese el expediente respectivo y túrnese a todos y cada uno de los Ayuntamientos del Estado, para los efectos de lo dispuesto en el Artículo 94 de la Constitución Política local y Artículo 155 de la Ley Orgánica del Poder Legislativo.
+
+P.O. 8 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo previsto en el Transitorio Quinto siguiente.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado expedirá las reformas a su Ley Orgánica, Reglamento Interior y demás disposiciones relacionadas y emitirá la Ley Superior de Fiscalización del Estado de Aguascalientes a efecto de dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias hechas a la Contaduría Mayor de Hacienda en los ordenamientos jurídicos y administrativos, contratos, convenios o actos respectivos, se entenderán realizadas al Órgano Superior de Fiscalización.
+
+###### ARTÍCULO CUARTO.
+
+En tanto se crea la Ley Superior de Fiscalización del Estado de Aguascalientes la Contaduría Mayor de Hacienda, pasará a ser el Órgano Superior de Fiscalización del Estado de Aguascalientes, con las facultades a que se refiere este Decreto y las que tenía con anterioridad a su entrada en vigencia en los términos de estas disposiciones transitorias
+
+Para tales efectos, el Contador Mayor de Hacienda será el titular del Órgano Superior de Fiscalización, hasta en tanto el Congreso designe al Auditor Superior que cumplirá el plazo previsto en el Artículo 27 B.
+
+###### ARTÍCULO QUINTO.
+
+Las fechas aplicables para la presentación de las cuentas públicas, informes de avances de gestión financiera e informes del resultado sobre su revisión, se sujetarán a lo siguiente:
+
+I. Los Ejercicios Fiscales 2007 y 2008, serán revisados en los términos de las disposiciones aplicables en la materia antes de la entrada en vigencia de este Decreto. De igual forma se procederá con el Ejercicio Fiscal 2009, salvo disposición expresa que se establezca en la Ley Superior de Fiscalización del Estado de Aguascalientes.
+
+II. Las cuentas públicas del 2010 se revisarán a más tardar el 30 de diciembre del año de su presentación tratándose del primer semestre y el 30 de junio del año siguiente respecto del segundo semestre.
+
+Para tales efectos, se aplicarán los lineamientos de este Decreto, con excepción de lo relativo a la periodicidad y conforme a los plazos y términos siguientes:
+
+A) Las cuentas públicas se presentarán semestralmente el 31 de julio y 31 de enero del año siguiente, según se trate del primer o segundo semestre. La prórroga que señala el párrafo segundo de la Fracción V del Artículo 27 de este Decreto, solo podrá ser hasta por 8 días naturales.
+
+B) Los Informes de Avances de Gestión Financiera, serán entregados mensualmente a más tardar el día 10 de cada mes.
+
+C) El Órgano de Fiscalización Superior entregará el resultado de la revisión de las cuentas públicas a más tardar el 30 de noviembre para el primer semestre y el 31 de mayo del año siguiente para el segundo semestre.
+
+III. Para el ejercicio fiscal del 2011 y subsecuentes, serán aplicables los plazos y términos que para la presentación y revisión de las cuentas públicas de los sujetos obligados, se encuentren previstos en el presente decreto.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos que se encuentren en trámite ante la Contaduría Mayor de Hacienda al momento de entrar en vigencia el presente decreto, se tramitarán hasta su total resolución por el Órgano Superior de Fiscalización del Estado, sin necesidad de notificar sustitución alguna a los entes obligados.
+
+###### ARTÍCULO SÉPTIMO.
+
+El titular del Poder Ejecutivo, por medio de sus órganos competentes, determinará la inclusión en el Presupuesto de Egresos del próximo Ejercicio Fiscal, la partida presupuestal para garantizar el funcionamiento del Órgano Superior de Fiscalización.
+
+Los recursos materiales, patrimoniales y presupuestales, documentos, expedientes, archivos, papeles y demás relativos, de la Contaduría Mayor de Hacienda pasarán a formar parte del Órgano Superior de Fiscalización del Estado.
+
+Los recursos humanos pasarán a formar parte del Órgano Superior de Fiscalización, pero quedarán sujetos a la reasignación de funciones que conforme a la nueva estructura del citado Órgano se requiera.
+
+Asimismo, el Órgano Superior de Fiscalización, se subroga en todos los derechos y obligaciones de la Contaduría Mayor de Hacienda.
+
+###### ARTICULO OCTAVO.
+
+En tanto se modifican las leyes secundarias, para los efectos de este Decreto y los ordenamientos respectivos, se entenderá por Comisión de Vigilancia, a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda del Congreso del Estado, con todas las facultades inherentes.
