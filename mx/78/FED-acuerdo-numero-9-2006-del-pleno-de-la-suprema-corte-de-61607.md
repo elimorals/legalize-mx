@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-9-2006-del-pleno-de-la-suprema-corte-de-61607"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-06-12"
-last_updated: "2006-06-12"
+last_updated: "2008-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61607&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2006-06-12"
 ---
 # ACUERDO NUMERO 9/2006 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [RELATIVO A LA REGULACION DEL TURNO DE EXPEDIENTES]
 
-ACUERDO GENERAL NUMERO 9/2006, DE DOCE DE JUNIO DE DOS MIL SEIS, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PARA REGULAR EL TURNO DE EXPEDIENTES
+ACUERDO GENERAL NÚMERO 9/2006, DE DOCE DE JUNIO DE DOS MIL SEIS, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PARA REGULAR EL TURNO DE EXPEDIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL NÚMERO 14/2008, DE OCHO DE DICIEMBRE DE DOS MIL OCHO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN Y SU GACETA, TOMO XXIX, ENERO DE 2009, PAGINAS DE LA 3081 A LA 3087, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XXIV, Julio de 2006, página 1409.
 
@@ -112,3 +114,13 @@ LICENCIADO JOSÉ JAVIER AGUILAR DOMÍNGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA
 CERTIFICA:
 
 Que el Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en su sesión privada celebrada hoy, doce de junio de dos mil seis, y por unanimidad de once votos de los señores Ministros presidente Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza, emitió el Acuerdo General Número 9/2006, para regular el turno de expedientes, que antecede.- México, Distrito Federal, doce de junio de dos mil seis.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+S.J.F.y G. ENERO 2009.
+
+PRIMERO. Este Acuerdo General entrará en vigor el dos de enero de dos mil nueve.
+
+SEGUNDO. A partir de la entrada en vigor del presente Acuerdo se abroga el diverso Acuerdo General Plenario 9/2006.
+
+TERCERO. Publíquese este Acerdo General en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en los artículos 7o., fracción XIV y 9o. de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
