@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-del-poder-judicial-del-estado-de-tlaxcala-23384"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-01-10"
-last_updated: "2008-01-17"
+last_updated: "2008-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 10 de enero de 2002.
 
@@ -43,9 +43,13 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
 ### Capítulo Primero. De las Generalidades
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1.
 
-El Poder Judicial garantizará la supremacía y el control de la Constitución Política del Estado y estará expedito para impartir justicia de manera pronta, gratuita, completa e imparcial, en los términos, plazos y condiciones que fijen las Leyes.
+Esta ley es de interés público, tienen como objeto garantizar a través del Poder Judicial la supremacía y el control de la Constitución Política del Estado y estará expedito para impartir justicia de manera pronta, gratuita, completa e imparcial, en los términos, plazos y condiciones que fijen las leyes.
 
 ###### Artículo 2.
 
@@ -53,13 +57,23 @@ El ejercicio del Poder Judicial del Estado se deposita en:
 
 I. El Tribunal Superior de Justicia; y (sic)
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Los juzgados Civiles, Familiares, Penales y de Administración de Justicia para Adolescentes, y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2007)</small>
+II. El Consejo de la Judicatura;
 
-III. En una Unidad de Mediación y Conciliación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+III. Los juzgados Civiles, Familiares, Penales y de Administración de Justicia para Adolescentes, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+IV. Una Unidad de Mediación y Conciliación.
 
 ###### Artículo 3.
 
@@ -75,13 +89,19 @@ El Tribunal, Salas y Juzgados funcionarán todos los días del año, a excepció
 
 Los Secretarios de las Salas y los Juzgados, deberán recibir en su domicilio las promociones de término fatal, fuera del horario normal de actividades; para este efecto se publicará permanentemente, en lugar visible desde el exterior de la oficina correspondiente, el domicilio particular de sus Secretarios.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 6.
 
-Los servidores públicos del Poder Judicial gozarán de dos períodos vacacionales anuales, en las fechas que señale la Comisión de Gobierno Interno y Administración del Poder Judicial, suspendiéndose los términos judiciales en dichos periodos. En materia de control constitucional y penal se establecerán guardias de servicio para conocer de asuntos urgentes y términos constitucionales.
+Los servidores públicos del Poder Judicial gozarán de dos períodos vacacionales anuales, en las fechas que señale el Consejo de la Judicatura, suspendiéndose los términos judiciales en dichos periodos. En materia de control constitucional y penal se establecerán guardias de servicio para conocer de asuntos urgentes y términos constitucionales.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2003)</small>
 
 Durante los años en que se desarrollen procesos electorales ordinarios o extraordinarios, las vacaciones del personal de la Sala Electoral Administrativa del Poder Judicial, se otorgarán antes del inicio o a la conclusión de estos.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2003)</small>
 
 En ningún caso se podrán acumular las vacaciones correspondientes a más de dos años.
 
@@ -153,63 +173,83 @@ El Tribunal Superior de Justicia es el Órgano Supremo del Poder Judicial, tendr
 
 El Congreso del Estado nombrará a los Magistrados Propietarios con la votación de las dos terceras partes del total de los diputados que integren la Legislatura correspondiente, y deberá prever para cada uno a su respectivo suplente, para el caso de falta absoluta, en la forma y términos previstos en la Constitución Local.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Los Magistrados Supernumerarios serán nombrados por la Comisión de Gobierno Interno y Administración.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+Los magistrados supernumerarios serán nombrados por el Consejo de la Judicatura, durarán en el cargo hasta por seis años.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 12.
 
-Los Magistrados Propietarios, durarán en el cargo seis años, y cumplido ese periodo podrán ser reelectos, solo podrán ser privados de su cargo en los términos que determina la Constitución, la Ley de R4sponsabilidades de los Servidores Públicos del Estado y por incapacidad física y mental.
+Los magistrados propietarios, durarán en el cargo seis años, y cumplido este periodo podrán ser reelectos, solo podrán ser privados de su cargo en los términos que determina la Constitución del Estado.
 
-La reelección o ratificación se realizará previa evaluación objetiva a los magistrados del Tribunal Superior de Justicia, en la que demuestren que durante el desempeño de su función, la realizaron con imparcialidad, independencia, eficiencia, probidad, honorabilidad, excelencia, ética, profesionalismo, vocación inquebrantable, dedicación diligencia, actuación permanente, experiencia, honestidad invulnerable y que gozan de buena fama pública.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-La independencia de los magistrados y jueces en el ejercicio de sus funciones, estará garantizada por lo que establece la Constitución Local y por esta ley.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
-Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
-
-Cuando surja una falta definitiva, el Pleno llamará al suplente respectivo, el Magistrado así nombrado, concluirá el término del sustituido y el Congreso del Estado procederá a la designación del nuevo suplente.
-
-###### Artículo 13.
-
-El día uno del mes de febrero del año que corresponda, el Presidente del Tribunal saliente presidirá la sesión de instalación de los Magistrados Propietarios entrantes, en la que se procederá a la elección del nuevo Presidente, en los términos previstos en el Artículo siguiente y a la adscripción de los Magistrados a las Salas respectivas. Asimismo, se nombrará al Secretario General de Acuerdos del Tribunal, a propuesta de su Presidente.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 2008)</small>
-
-###### Artículo 14.
-
-Los magistrados propietarios del Tribunal elegirán de entre ellos a un Presidente, que durará en su encargo dos años y podrá ser reelecto por una sola vez, de conformidad con las reglas siguientes:
-
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
-
-I. En la sesión ordinaria que se lleve a cabo durante la primera quincena del mes de febrero de cada año, se procederá a la elección correspondiente;
-
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2008)</small>
-
-II. Los magistrados propuestos a ocupar el cargo de Presidente, no serán de los que integren la Sala Electoral-Administrativa y Unitaria de Administración de Justicia para Adolescentes: a menos que alguno de los demás magistrados propietarios no reúna los requisitos establecidos en la fracción XI del artículo 83 de la Constitución del Estado, para que ocupe la magistratura vacante;
-
-III. Los votos se emitirán en forma secreta;
-
-IV. La votación mínima para la designación será de diez votos a favor de alguno de los Magistrados propuestos. De no obtenerse esa mayoría, se procederá a repetir la votación hasta lograr una mayoría de cuando menos ocho votos, y
-
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
-
-V. El Presidente entrará en funciones el dieciséis de febrero del año respectivo y concluirá el quince de febrero del año que corresponda.
+La reelección se realizará conforme al procedimiento previsto en la fracción XXVII del artículo 54 de la Constitución del Estado.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
+La independencia de los magistrados y jueces en el ejercicio de sus funciones, estará garantizada por lo que establece la Constitución Local y por esta ley.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+
+Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+Cuando surja una falta definitiva, el Pleno del Tribunal Superior de Justicia llamará al suplente respectivo, el Magistrado así nombrado, concluirá el término del sustituido conforme a lo establecido por la Constitución del Estado y la presente ley. El Congreso del Estado procederá a la designación del nuevo suplente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 13.
+
+El Presidente del Tribunal presidirá la sesión de instalación de los magistrados propietarios entrantes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 14.
+
+El día uno del mes de febrero del año que corresponda, los magistrados propietarios del Tribunal elegirán de entre ellos a un Presidente, que durará en su encargo dos años y podrá ser reelecto por una sola vez, de conformidad con las reglas siguientes:
+
+I. De los magistrados propuestos a ocupar el cargo de Presidente, no será el que integre la Sala Unitaria de Administración de Justicia para Adolescentes;
+
+II. Los votos se emitirán en forma secreta;
+
+III. La votación mínima para la designación será de diez votos a favor de alguno de los magistrados propuestos. De no obtenerse esa mayoría, se procederá a repetir la votación hasta lograr una mayoría de cuando menos ocho votos;
+
+IV. Realizada la elección, inmediatamente el Presidente electo rendirá protesta ante el pleno del Tribunal Superior de Justicia y entrará en funciones, y
+
+V. En caso de falta definitiva del Presidente, será electo un nuevo Presidente en los términos de este artículo, para el efecto de concluir el periodo restante y podrá ser reelecto por una sola vez.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 15.
 
-Los Magistrados Supernumerarios deberán cumplir con los requisitos a que se refiere el artículo 83 de la Constitución Política del Estado. Percibirán los emolumentos que les fije el presupuesto de egresos, suplirán a los Propietarios en sus ausencias temporales y en los casos de excusa o recusación, de conformidad con el turno que se establezca, y su nombramiento será por el tiempo que determine la Comisión de gobierno Interno y Administración, con base en las necesidades del servicio.
+Los magistrados supernumerarios deberán cumplir con los requisitos a que se refiere el artículo 83 de la Constitución Política del Estado. Percibirán los emolumentos que les fije el presupuesto de egresos del Poder Judicial, suplirán a los Propietarios en sus ausencias temporales y en los casos de excusa o recusación, de conformidad con el turno que se establezca, y su nombramiento será por el tiempo que determine el Consejo de la Judicatura.
 
 ### Capítulo Segundo. Del Funcionamiento del Tribunal Superior de Justicia
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 16.
 
-El Tribunal funcionará en Pleno y en las salas Civil, Familiar, Electoral-Administrativa, Penal y de Administración de Justicia para Adolescentes.
+El Tribunal funcionará en Pleno y en las salas Civil, Familiar, Electoral-Administrativa, Penal y de Administración de Justicia para Adolescentes. El Presidente del Tribunal no integrará Sala.
 
 ###### Artículo 17.
 
@@ -223,17 +263,23 @@ El Secretario General de Acuerdos del Tribunal, en sus faltas temporales será s
 
 La Oficialía de Partes del Tribunal funcionará permanentemente, para poder recibir promociones urgentes relativas a los procesos de control constitucional, así como las demás que sean de término fatal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 19.
 
-La Comisión de Gobierno Interno y Administración se encargará de las funciones administrativas del Poder Judicial, contará con las unidades, departamentos y secciones que el Pleno determine conforme al Presupuesto de Egresos.
+El Poder Judicial del Estado tendrá y administrará su patrimonio por conducto del Consejo de la Judicatura. Para el desempeño de sus funciones contará con las unidades, departamentos y secciones conforme a su presupuesto de egresos.
 
 ### Capítulo Tercero. Del Pleno
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 20.
 
-El Pleno del Tribunal Superior de Justicia se integrará con los Magistrados Propietarios y de quienes los suplan legalmente, de cada una de las salas Civil, Familiar, Electoral-Administrativa, Penal y de Administración de Justicia para Adolescentes.
+El Pleno del Tribunal Superior de Justicia se integrará con los magistrados propietarios y de quienes los suplan legalmente.
 
 ###### Artículo 21.
 
@@ -255,37 +301,59 @@ Los Magistrados sólo podrán abstenerse de votar cuando estén impedidos legalm
 
 Siempre que un Magistrado disintiere de la mayoría formulará voto particular, el cual se insertará al final de la parte considerativa de la resolución.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 25.
 
-En el ejercicio de sus funciones jurisdiccionales, el Pleno del Tribunal conocerá de:
+Son facultades del Tribunal Superior de Justicia funcionando en Pleno:
 
-I. Los procesos previstos en el Artículo 81 de la Constitución Política del Estado, erigido en Tribunal de Control Constitucional;
+I. Los asuntos previstos en el artículo 80 de la Constitución del Estado;
 
-II. Los asuntos previstos en las Fracciones II, III y IX del Artículo 80 de la Constitución Local;
+II. Los procesos previstos en el artículo 81 de la Constitución del Estado, erigido en Tribunal de Control Constitucional;
 
-III. El juicio político, en los términos previstos en la Fracción VIII del Artículo 109 de la Constitución Local;
+III. El juicio político, en los términos previstos en la fracción VIII del artículo 109 de la Constitución del Estado;
 
-IV. Los recursos de revocación que se interpongan contra las resoluciones de los Presidentes del Tribunal y de las Salas, así como de la Comisión de Gobierno Interno y Administración, dentro del término de tres días; mismo que se sustanciará, en lo conducente, conforme lo previsto en el Código de Procedimientos Civiles del Estado;
+IV. Los recursos de revocación que se interpongan contra las resoluciones del Presidente del Tribunal y de las salas que no constituyan sentencias definitivas o resoluciones que pongan fin al procedimiento, así como los recursos de revocación que se interpongan contra las resoluciones del Consejo de la Judicatura. Éstos deberán presentarse, dentro del término de tres días a partir de que se notifiquen; mismos que se sustanciarán, en lo conducente, conforme lo previsto en el Código de Procedimientos Civiles del Estado;
 
-V. La calificación de los impedimentos, excusas y recusaciones con causa de los Magistrados y del Secretario General de Acuerdos;
+V. La calificación de los impedimentos, excusas y recusaciones con causa de los magistrados y del Secretario General de Acuerdos del Tribunal;
 
-VI. (DEROGADA, P.O. 17 DE ENERO DE 2008)
+VI. Las denuncias de contradicción de los precedentes obligatorios, dictados por el propio Pleno o las salas del Tribunal;
 
-VII. Las denuncias de contradicción de los precedentes obligatorios, dictados por el propio Pleno o las Salas;
+VII. La destitución del Secretario General de Acuerdos y de los Jueces, a petición del Consejo de la Judicatura, cuando así procediere;
 
-VIII. La destitución del Secretario General de Acuerdos y de los Jueces, a petición de la Comisión de Gobierno Interno y Administración, cuando así procediere, y
+VIII. Constituirse como órgano rector, revisor y sancionador de las actividades del Consejo de la Judicatura;
 
-IX. Los demás asuntos que establezcan las Leyes.
+IX. Designar, por el voto secreto de las dos terceras partes de sus integrantes, a los magistrados y jueces que deban integrar el Consejo de la Judicatura conforme lo establecido en la Constitución del Estado;
+
+X. Revisar y aprobar el proyecto del presupuesto de egresos del Poder Judicial que le remita el Consejo de la Judicatura;
+
+XI. Confirmar o revocar, por el voto de diez de sus integrantes, los acuerdos generales que expida el Consejo de la Judicatura para el ejercicio de sus funciones administrativas. Dicha resolución deberá emitirse dentro de los diez días hábiles siguientes a la impugnación que algún órgano del Poder Judicial realice ante el Pleno;
+
+XII. Instruir al Consejo de la Judicatura, sin perjuicio de las atribuciones administrativas del mismo, visitas especiales a los juzgados y a los establecimientos carcelarios, cuando en el cumplimiento de sus atribuciones y las jurisdiccionales de las salas, se detecte alguna irregularidad; dando seguimiento a las observaciones que se deriven de las mismas;
+
+XIII. Ordenar al Consejo de la Judicatura investigue la conducta de los Jueces cuando se tenga conocimiento de una posible irregularidad administrativa, y
+
+XIV. Las demás que le confieran las leyes, y todas las de carácter administrativo que correspondan al Tribunal Superior de Justicia.
 
 ###### Artículo 26.
 
 En el ámbito legislativo material, el Pleno ejercerá las facultades siguientes:
 
-I. Presentar iniciativas de Ley, de conformidad con lo estatuido en los Artículos 46 Fracción III y 80 Fracción V, de la Constitución del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+I. Presentar iniciativas de ley, de conformidad con lo estatuido en los artículos 46 Fracción III y 80 fracción VI, de la Constitución del Estado;
 
 II. Establecer precedentes de observancia obligatoria en el Estado;
 
-III. Expedir los Reglamentos necesarios para el adecuado funcionamiento del Poder Judicial que no estén reservados a la Comisión de Gobierno Interno y Administración, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+III. Expedir los Reglamentos necesarios para el adecuado funcionamiento del Poder Judicial, que no estén reservados al Consejo de la Judicatura, y
 
 IV. Emitir disposiciones administrativas de carácter general, en los términos de esta Ley.
 
@@ -293,13 +361,25 @@ IV. Emitir disposiciones administrativas de carácter general, en los términos 
 
 En el orden administrativo el Pleno del Tribunal tendrá las atribuciones siguientes:
 
-I. Las que establece la Constitución Local en su Artículo 80 Fracciones I, IV, VII, VIII, X, XI y XII;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+I. Las que establece la Constitución del Estado en su artículo 80 fracciones I, V, X, y XI;
 
 II. Dictar los lineamientos administrativos que deban de acatar los órganos jurisdiccionales para el debido control y manejo de los expedientes, así como de los bienes bajo su custodia;
 
-III. Resolver los conflictos que surjan con motivo del nombramiento y remoción de los Presidentes de las Salas, y del cumplimiento de las funciones de los integrantes de la Comisión de Gobierno Interno y Administración;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV. Solucionar cualquier problemática administrativa que se presente y que no sea de la competencia de la Comisión de Gobierno Interno y Administración, y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+III. Resolver los conflictos que surjan con motivo del nombramiento y remoción de los Presidentes de las Salas, y del cumplimiento de las funciones de los integrantes del Consejo de la Judicatura;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+IV. Solucionar cualquier problemática administrativa que se presente y que no sea competencia del Consejo de la Judicatura, y
 
 V. Las demás que establezcan las Leyes.
 
@@ -309,13 +389,21 @@ V. Las demás que establezcan las Leyes.
 
 El Presidente del Tribunal será el representante legal del Poder Judicial del Estado. Esta representación podrá delegarse en Magistrados o Jueces para la celebración de actos cívicos oficiales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 29.
 
-El Presidente del Tribunal nombrará al personal de apoyo de la Presidencia e informará de ello al Pleno para que éste ratifique la designación.
+El Presidente del Tribunal nombrará al personal de apoyo de la Presidencia e informará de ello al Pleno para que éste ratifique o revoque la designación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 30.
 
-Las funciones del Presidente serán las siguientes:
+Corresponde al Presidente del Tribunal Superior de Justicia:
 
 A. Genéricas:
 
@@ -345,7 +433,11 @@ b) Conflictos competenciales que surjan entre las Salas, entre éstas y los Juzg
 
 c) (REFORMADO [N. DE E. DEROGADO], P.O. 17 DE ENERO DE 2008)
 
-d) Recursos que se interpongan en contra de los actos y resoluciones de la Comisión de Gobierno Interno y Administración.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+d) Recursos que se interpongan en contra de los actos y resoluciones del Consejo de la Judicatura;
 
 II. Dar entrada a los expedientes relativos a juicios políticos, que remita el Congreso del Estado;
 
@@ -369,9 +461,35 @@ II. Comunicar al Congreso del Estado las ausencias definitivas de los Magistrado
 
 III. Rendir ante los Magistrados del Tribunal al finalizar el año, el informe de labores del Poder Judicial;
 
-IV. Proponer oportunamente los nombramientos de aquellos servidores públicos que deba hacer el Pleno del Tribunal, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V. Las demás que le confieran las Leyes, Reglamentos Interiores y Acuerdos generales.
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+A más tardar el día quince del mes de enero de cada año, entregará por escrito al Congreso, un informe anual sobre las actividades del Poder Judicial; para lo cual podrá comparecer ante el Congreso del Estado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+IV. Informar al Pleno del Tribunal así como al Pleno del Consejo de la Judicatura el diez de enero de cada año, de las actividades realizadas y la ejecución del gasto durante el ejercicio para el que fue electo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+V. Presentar y someter a la aprobación del Pleno el Proyecto de Presupuesto de Egresos del Poder Judicial del Estado, que le haya remitido al Consejo de la Judicatura, a efecto de enviarlo al Ejecutivo del Estado para su inclusión en el Presupuesto de Egresos del Estado, en términos de la legislación aplicable;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+VI. Presidir el Consejo de la Judicatura, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+VII. Las demás que le confieran las leyes, reglamentos interiores y acuerdos generales.
 
 ### Capítulo Quinto. De las Salas
 
@@ -381,11 +499,19 @@ V. Las demás que le confieran las Leyes, Reglamentos Interiores y Acuerdos gene
 
 El Tribunal Superior de Justicia, se integrará por las salas Civil, Familiar, Electoral-Administrativa, Penal y de Administración de Justicia para Adolescentes.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+La Sala Electoral-Administrativa será la máxima autoridad jurisdiccional en dichas materias y órgano especializado del Poder Judicial del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 32.
 
-Cada Sala se integrará por tres Magistrados, quienes de manera rotativa y por el período de un año ejercerán la Presidencia de la Sala de que se trate; a excepción de la Sala de Administración de Justicia para Adolescentes, que serán unitarias.
+Cada Sala se integrará por tres magistrados, quienes por cada ponencia y de manera sucesiva por el período de un año ejercerán la Presidencia de la Sala de que se trate; a excepción de la Sala de Administración de Justicia para Adolescentes, que será unitaria.
 
 ###### Artículo 33.
 
@@ -417,13 +543,25 @@ II. Conducir las sesiones de la Sala y vigilar que se cumplan sus resoluciones;
 
 III. Mantener el orden en las sesiones;
 
-IV. Proponer a la Comisión de Gobierno Interno y Administración, el nombramiento y en su caso, remoción del personal adscrito a la Sala;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V. Informar al Pleno del Tribunal Superior de Justicia de las irregularidades en que incurra el personal adscrito a la Sala;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+IV. Proponer al Consejo de la Judicatura el nombramiento y en su caso, remoción del personal adscrito a la Sala;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+V. Informar al Pleno del Tribunal Superior de Justicia y del Consejo de la Judicatura, de las irregularidades en que incurra el personal adscrito a la Sala;
 
 VI. Rendir los informes previos y justificados que se soliciten a la Sala por las autoridades judiciales del fuero federal;
 
-VII. Presentar al Pleno del Tribunal Superior de Justicia, dentro de los primeros quince días del mes de diciembre de cada año, un informe anual de las actividades de la Sala, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+VII. Presentar al Pleno del Tribunal Superior de Justicia y al Consejo de la Judicatura, dentro de los primeros tres días hábiles del mes de diciembre de cada año, un informe anual de las actividades de la Sala, y
 
 VIII. Las demás que resulten necesarias para el adecuado desahogo de los asuntos de la competencia de la Sala.
 
@@ -497,9 +635,13 @@ IV. Las demás que determinen las leyes.
 
 ### Capítulo Sexto. De los Magistrados
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 41.
 
-Los Magistrados serán nombrados y removidos por el Congreso del Estado en la forma y términos que previene la Constitución local.
+Los magistrados serán nombrados y removidos por el Congreso del Estado, en la forma y términos que previene la Constitución del Estado.
 
 ###### Artículo 42.
 
@@ -579,11 +721,19 @@ III. Practicar las diligencias que decreten, dentro del territorio de su Distrit
 
 IV. Ordenar el envío oportuno al Archivo Judicial de los expedientes concluidos;
 
-V. Remitir, dentro de los primeros cinco días de cada mes, al Presidente del Tribunal Superior de Justicia, una relación de la radicación y conclusión de los asuntos de su competencia, así como rendir oportunamente los datos estadísticos que le sean requeridos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+V. Remitir, dentro de los primeros cinco días de cada mes, al Presidente del Tribunal Superior de Justicia y al Consejo de la Judicatura, una relación de la radicación y conclusión de los asuntos de su competencia, así como rendir oportunamente los datos estadísticos que le sean requeridos;
 
 VI. (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2003)
 
-VII. Sugerir al Pleno del Tribunal y a la Comisión de Gobierno Interno y Administración, las adecuaciones que estime necesarias para mejorar la Administración de la Justicia, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+VII. Sugerir al Pleno del Tribunal y al Consejo de la Judicatura, las adecuaciones que estime necesarias para mejorar la Administración de la Justicia, y
 
 VIII. Ejercer las demás atribuciones que les señalen otras Leyes.
 
@@ -719,7 +869,7 @@ VI. Las demás que les fijen las Leyes.
 
 Para ser designado Diligenciario se requerirá cumplir con los mismos requisitos que se enumeran en el Artículo 53, con excepción de la edad que será de veintiséis años y la experiencia profesional que deberá ser de cuatro años como mínimo.
 
-### Capítulo Primero. De la Comisión de Gobierno Interno y Administración
+### Capítulo Primero. Del Consejo de la Judicatura
 
 ###### Artículo 56.
 
@@ -751,6 +901,10 @@ Las ausencias temporales de los Oficiales de Partes serán cubiertas por quien d
 
 ### Capítulo Segundo. De las Unidades Administrativas
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 58.
 
 En cada Juzgado habrá un Proyectista, quien deberá reunir para su ingreso, los mismos requisitos que el Secretario de Acuerdos.
@@ -765,101 +919,179 @@ Los Proyectistas cubrirán las ausencias temporales de los Secretarios de Acuerd
 
 ### Capítulo Primero. Del Instituto de Especialización Judicial
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
 ## TITULO CUARTO. ADMINISTRACION DEL PODER JUDICIAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ### Capítulo Segundo. De la Carrera Judicial
 
 #### Sección Primera. Generalidades
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 61.
 
-La Comisión de Gobierno Interno y Administración será el órgano encargado de la administración, vigilancia, disciplina y de implementar la carrera judicial, del Poder Judicial; estará integrada en términos de lo establecido en el Artículo 85 la Constitución Política del Estado.
+El Consejo de la Judicatura es un órgano del Poder Judicial del Estado, con autonomía técnica y de gestión, así como para emitir sus acuerdos y resoluciones; tendrá a su cargo la administración, vigilancia, disciplina y la implementación de la carrera judicial del Poder Judicial, con excepción del Pleno, las salas y los magistrados del Tribunal Superior de Justicia, así como del personal de apoyo de estas adscripciones, salvo en los casos que prevé la presente ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 62.
 
-La Comisión se regirá por el Reglamento que expida el Pleno del Tribunal Superior de Justicia.
+Para el debido cumplimiento de sus funciones, el Consejo de la Judicatura expedirá su reglamento interior, tomando en consideración lo dispuesto al respecto por la Constitución Política local y esta ley; mismo que se publicará en el Periódico Oficial del Gobierno del Estado, para los fines de su divulgación y observancia legal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 63.
 
-Además de las facultades que establece el artículo 85 de la Constitución Política del Estado, la Comisión tendrá las siguientes:
+El Consejo se integrará por cinco consejeros en los términos que prevé el artículo 85 de la Constitución del Estado.
 
-I. Ejercer el Presupuesto de Egresos del Poder Judicial de acuerdo a los principios de racionalidad, transparencia, honradez y eficiencia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Rendir al Congreso del Estado la cuenta pública del Poder Judicial, en los términos previstos por las Leyes;
-
-III. Practicar los exámenes de oposición previos al nombramiento del personal sujeto a carrera judicial;
-
-IV. Nombrar al personal interino que deba suplir las faltas de más de quince días del personal a que se refiere la Fracción anterior, así como las definitivas, en tanto se procede al nombramiento correspondiente;
-
-V. Recibir y aceptar las renuncias que, de sus cargos, presenten los servidores públicos del Poder Judicial, con excepción de los Magistrados;
-
-VI. Procurar la distribución equitativa de las cargas de trabajo de los servidores del Poder Judicial;
-
-VII. Integrar los expedientes de cada uno de los servidores públicos del Poder Judicial, relativos a su historial de servicios;
-
-VIII. Ordenar la práctica de auditorías financieras y administrativas, para verificar la aplicación adecuada del Presupuesto del Tribunal y establecer los niveles de trabajo, eficiencia y productividad, a fin de vincularlas con el sistema de incentivos y recompensas que funcione en el Tribunal;
-
-IX. Implementar la carrera judicial que debe regirse por los principios de legalidad, excelencia, objetividad, imparcialidad, profesionalismo e independencia;
-
-X. Expedir acuerdos generales para el adecuado ejercicio de sus funciones;
-
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
-
-XI. Dictar las medidas que sean procedentes, para que la administración de justicia sea pronta, expedita e imparcial, y para que se observe la disciplina en todo el Poder Judicial;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
-
-XII. Nombrar y designar a los magistrados supernumerarios y jueces en los términos previstos por esta ley, y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE SEPTIEMBRE DE 2006)</small>
-
-XIII. Las demás que señalen las Leyes.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 64.
 
-El Oficial Mayor del Tribunal Superior de Justicia será el Secretario Técnico de la Comisión, para tal efecto tendrá, en lo conducente, las mismas atribuciones que el Secretario General de Acuerdos.
+Para ser Consejero de la Judicatura, se requiere del cumplimiento de los mismos requisitos que se exigen para ser Magistrado del Tribunal Superior de Justicia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 65.
 
-La Comisión contará con las unidades administrativas previstas en el presente Título y las que sean necesarias para el mejor cumplimiento de sus funciones, que autorice el Presupuesto de Egresos, las cuales se sujetarán a las normas establecidas en el Reglamento que para tal efecto se expida.
+El Consejo de la Judicatura funcionará en Pleno o en comisiones. En el primer caso, resolverá sobre la designación, adscripción, ratificación, renuncias, licencias y remoción de jueces y demás integrantes de los juzgados, así como de los servidores públicos auxiliares de la función jurisdiccional, excepto del personal adscrito al Pleno, a las salas y a la Presidencia del Tribunal. En el segundo supuesto, sin perjuicio del número de sus integrantes y de las funciones que se determinen, decidirá lo relativo al personal que desempeñe tareas administrativas o de apoyo.
 
-Las unidades administrativas dependerán orgánicamente de la Comisión.
+Las decisiones del Consejo de la Judicatura, en la esfera exclusiva de su competencia, serán definitivas e inatacables y, por lo tanto, no procede juicio o recurso alguno en contra de las mismas, salvo las que se refieran a la designación, adscripción, ratificación y remoción de Jueces, las cuales podrán ser revisadas por el Pleno del Tribunal, únicamente para verificar si fueron o no emitidas conforme a las normas que se establecen en esta ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 66.
 
-La Comisión recibirá y tramitará las quejas e informes sobre demoras, excesos y omisiones en que incurran los servidores públicos del Poder Judicial, en el despacho de los asuntos que les competan, a efecto de dictar las providencias oportunas para su corrección o la denuncia penal correspondiente.
+El Consejo de la Judicatura recibirá y tramitará las quejas e informes sobre demoras, excesos y omisiones en que incurran los servidores públicos del Poder Judicial, en el despacho de los asuntos que les competan, a efecto de dictar las providencias oportunas para su corrección o la denuncia penal correspondiente.
 
-#### Sección Segunda. Del Funcionamiento de la Comisión
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+#### Sección Segunda. Del Funcionamiento del Consejo de la Judicatura
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 67.
 
-La Comisión sesionará ordinariamente una vez al mes, para analizar y resolver los asuntos de su competencia y de manera extraordinaria cuando lo solicite alguno de sus miembros.
+El Consejo de la Judicatura sesionará ordinariamente una vez al mes, para analizar y resolver los asuntos de su competencia y de manera extraordinaria cuando lo solicite alguno de sus miembros.
+
+Para sesionar se requiere, cuando menos, la presencia de tres de sus integrantes, entre los que deberá estar el Presidente. Sus decisiones se tomarán por mayoría o por unanimidad de votos; en caso de empate el Presidente tendrá voto de calidad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 68.
 
-El quórum para que la Comisión pueda sesionar, será de por lo menos cuatro de sus integrantes.
+Son atribuciones del Pleno del Consejo de la Judicatura:
 
-Será causa de responsabilidad administrativa la inasistencia injustificada a las sesiones de la Comisión.
+I. Nombrar, adscribir, ratificar, remover, otorgar licencia, aceptar renuncias y sancionar, en su caso, a los jueces de primera instancia, así como al personal auxiliar de la función jurisdiccional, administrativo o de apoyo, excepto los adscritos al Pleno, a las salas y a la Presidencia del Tribunal;
 
-El Secretario Técnico participará con voz, pero sin voto en las sesiones de la Comisión.
+II. Dividir al Estado en Distritos Judiciales, residiendo en ellos los juzgados de primera Instancia que el Consejo determine;
+
+III. Expedir acuerdos generales para el ejercicio de sus funciones administrativas, incluyendo los relativos a la carrera judicial;
+
+IV. Informar al Pleno del Tribunal respecto de la designación, adscripción, ratificación y remoción de jueces de primera instancia; así como del personal auxiliar de la función jurisdiccional;
+
+V. Administrar los bienes muebles e inmuebles del Poder Judicial, cuidando su mantenimiento, conservación y acondicionamiento;
+
+VI. A solicitud del Pleno del Tribunal, emitir acuerdos generales para asegurar un adecuado ejercicio de la función jurisdiccional;
+
+VII. Determinar en el reglamento o disposición administrativa en la materia, los procedimientos, requisitos y criterios de selección, en los que se tomarán en cuenta la carrera judicial, el concurso de oposición y demás exigencias de orden constitucional; asimismo, expedir y mantener actualizados, los reglamentos interiores en materia administrativa, que rijan las funciones de los órganos de justicia y sus servidores públicos; los de examen de oposición para ocupar el cargo de Juez y demás servidores públicos; de la carrera judicial; de escalafón y de regímenes disciplinarios que sean necesarios para el buen funcionamiento del Poder Judicial;
+
+VIII. Nombrar, a propuesta del Consejero Presidente, al Secretario Ejecutivo; y a propuesta de los consejeros al Tesorero y al personal operativo, que reúnan los requisitos para el cargo de que se trate;
+
+IX. Recibir, tramitar y resolver las quejas administrativas o denuncias que se formulen en contra de los servidores públicos del Poder Judicial del Estado. Sus resoluciones serán definitivas e inatacables;
+
+X. Otorgar estímulos y recompensas a los servidores públicos del Poder Judicial que se hayan destacado en el desempeño de su cargo;
+
+XI. Vigilar el funcionamiento del órgano que realice labores de compilación y sistematización de leyes, tesis, ejecutorias, precedentes y jurisprudencia, así como de la estadística e informática, de la biblioteca y del archivo general del Poder Judicial;
+
+XII. Solicitar al Pleno, a las salas y al Magistrado Presidente, así como a las unidades de apoyo del Tribunal Superior, la información procedente y opiniones que requiera para el mejor desempeño de sus funciones;
+
+XIII. Dictar las bases generales de organización y funcionamiento de sus órganos auxiliares;
+
+XIV. Ordenar las visitas periódicas a los juzgados, para observar la conducta y desempeño del personal; recibiendo las quejas y denuncias que hubiese en contra de ellos. Ejercer las atribuciones que señala esta ley, así como practicar las visitas especiales o extraordinarias que le solicite el Pleno del Tribunal, dándole cuenta oportuna, en ambos casos, de sus resultados;
+
+XV. Elaborar estudios de las leyes y disposiciones reglamentarias relacionadas con la organización y funcionamiento de la administración de justicia;
+
+XVI. Establecer Oficialías de Partes Común, cuando así lo demande las necesidades del servicio;
+
+XVII. Conocer y resolver respecto de las renuncias de los servidores públicos de confianza, de base y demás personal administrativo del Poder Judicial del Estado, con excepción de lo previsto en esta materia para los magistrados;
+
+XVIII. Conceder licencia sin goce de sueldo hasta por seis meses, a los servidores públicos y al personal de confianza del Poder Judicial, con excepción de lo reservado al respecto para los magistrados.
+
+Por lo que se refiere al personal de base, conforme se establece en las condiciones generales de trabajo;
+
+XIX. Nombrar y remover, previa consulta con el titular del área, al personal adscrito a la misma, excepto aquel cuyo nombramiento corresponda al Pleno del Tribunal, de acuerdo a lo dispuesto por la Constitución del Estado, esta ley, su reglamento y demás leyes aplicables;
+
+XX. Establecer las bases para la formación y actualización profesional de los servidores públicos del Poder Judicial;
+
+XXI. Supervisar que la aplicación y evaluación de los exámenes de oposición, que se practiquen a los aspirantes de nuevo ingreso o para promover al personal en funciones a cargo superior, se hagan con imparcialidad, objetividad y excelencia académica, en los términos del reglamento de examen de oposición;
+
+XXII. Llevar un control de las resoluciones emitidas por los jueces, cuando éstas sean confirmadas, modificadas o revocadas por sus superiores, con la finalidad de tomar medidas para lograr una mejor administración de justicia;
+
+XXIII. Autorizar a los secretarios de los juzgados para desempeñar las funciones de los jueces en las ausencias temporales de éstos; asimismo, designar a los secretarios interinos, conforme a los lineamientos que al respecto emita el consejo;
+
+XXIV. Crear para el debido cumplimiento de sus atribuciones y obligaciones, conforme las disposiciones presupuestales, las unidades administrativas o de apoyo que se requieran, estableciéndose sus funciones en el reglamento interior y demás ordenamientos aplicables;
+
+XXV. Vigilar que la administración del presupuesto del Poder Judicial sea eficaz, honesta y ajustada a la normatividad aplicable;
+
+XXVI. Las demás que las leyes o reglamentos le otorguen.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 69.
 
-Las resoluciones de la Comisión de Gobierno Interno y Administración se tomarán por unanimidad o por mayoría de votos de sus integrantes presentes, y en caso de empate, el Presidente tendrá voto de calidad.
+El Consejo de la Judicatura, para el cumplimiento de sus atribuciones será apoyado por las unidades administrativas, las cuales se sujetarán a las normas establecidas en el reglamento que para tal efecto se expida.
 
-Los miembros de la Comisión estarán obligados a expresar las causas de impedimento que tengan en los asuntos que deban de conocer y podrán ser recusados con causa en los términos del Código Procesal Civil. En estos casos serán suplidos por el miembro de su Sala de mayor antigüedad y el Presidente será suplido a su vez por el Presidente de la Sala Civil anterior al periodo en que se presente el impedimento.
+Las resoluciones del Pleno y de las comisiones del Consejo constarán en acta y deberán firmarse por los presidentes y secretarios respectivos, notificándose personalmente a la brevedad a las partes interesadas.
+
+Cuando el Pleno del Consejo estime que sus acuerdos o resoluciones o de las comisiones sean de interés general, deberá ordenar su publicación en el Periódico Oficial del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 70.
 
-Los acuerdos de la Comisión, en materia de procedimientos disciplinarios y de ingreso y promoción dentro de la carrera judicial, podrán recurrirse en revocación ante el Pleno del Tribunal.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 71.
 
-Los Vocales de la Comisión tendrán las atribuciones siguientes:
+Los Consejeros tendrán las atribuciones siguientes:
 
-I. Participar con voz y voto a las sesiones de la Comisión;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+I. Participar con voz y voto a las sesiones del Consejo;
 
 II. Realizar las propuestas necesarias para el mejor funcionamiento del Poder Judicial;
 
@@ -867,33 +1099,47 @@ III. Cumplir con las comisiones que se les encomienden, y
 
 IV. Las demás que señalen las disposiciones reglamentarias.
 
-#### Sección Tercera. Del Presidente de la Comisión
+#### Sección Tercera. Del Presidente del Consejo de la Judicatura
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 72.
 
-El Presidente de la Comisión tendrá las atribuciones siguientes:
+Son atribuciones del Presidente del Consejo de la Judicatura, las siguientes:
 
-I. Presidir la Comisión, convocar a sesiones, dirigir los debates, mantener y conservar el orden en las sesiones;
+I. Presidir el Consejo, dirigir los debates, conservar el orden en las Sesiones, conocer y dar cuenta al Consejo con la correspondencia recibida;
 
-II. Representar legalmente a la Comisión y suscribir en su nombre los contratos y convenios que ésta apruebe;
+II. Convocar a los integrantes del Consejo a sesiones ordinarias o extraordinarias cada vez que lo estime necesario, señalando si serán públicas o privadas;
 
-III. Presentar a la Comisión la propuesta de proyecto del presupuesto de egresos del Poder Judicial;
+III. Presentar y ejercer el presupuesto de egresos del Poder Judicial, en lo que atañe al Consejo de la Judicatura, a sus órganos y unidades de apoyo, excepto, el correspondiente al Pleno y a las salas del Tribunal;
 
-IV. Autorizar con el Secretario Técnico las actas y resoluciones que se dicten en los asuntos de la competencia de la Comisión;
+IV. Resolver los asuntos cuya atención no admita demora, dada su importancia y trascendencia;
 
-V. Dar cuenta a la Comisión con los asuntos de su competencia y ejecutar los acuerdos de la misma;
+V. Vigilar el funcionamiento de los órganos auxiliares y de las unidades administrativas del Consejo de la Judicatura;
 
-VI. Vigilar el funcionamiento de las Unidades Administrativas del Tribunal, y
+VI. Hacer del conocimiento del Consejo en Pleno, las faltas absolutas de los jueces y demás servidores públicos del Poder Judicial, con excepción de los magistrados;
 
-VII. Las demás que establezcan las Leyes.
+VII. Recibir quejas o denuncias administrativas por faltas cometidas por los servidores públicos del Poder Judicial, con excepción de los magistrados y dar cuenta al Consejo de la Judicatura;
+
+VIII. Vigilar que los jueces rindan oportunamente el informe de sus actividades;
+
+IX. Ejercer las atribuciones que esta ley le encomienda en lo relativo al archivo judicial, en materia editorial y la biblioteca, y
+
+X. Las demás que determinen las leyes, el Pleno, los reglamentos y acuerdos generales.
 
 ### Capítulo Primero. De la Constitución del Fondo
 
-#### Sección Primera. Oficialía Mayor
+#### Sección Primera. Secretaría Ejecutiva
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 73.
 
-Son requisitos para ser Oficial Mayor:
+Son requisitos para ser Secretario Ejecutivo:
 
 I. Ser Mexicano por nacimiento;
 
@@ -905,13 +1151,21 @@ IV. No estar inhabilitado para desempeñar algún empleo, cargo o comisión en l
 
 V. No haber sido condenado por delito intencional o por cualquier otra conducta que afecte gravemente su honorabilidad.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 74.
 
-Corresponde al Oficial Mayor del Tribunal:
+Corresponde al Secretario Ejecutivo del Consejo:
 
 I. Vigilar el cumplimiento de las disposiciones legales y reglamentarias que rigen las relaciones laborales entre el Poder Judicial y sus servidores públicos;
 
-II. Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los servidores públicos del Poder Judicial ante la Comisión de Gobierno Interno y Administración;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+II. Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los servidores públicos del Poder Judicial;
 
 III. Proveer oportunamente a las dependencias del Poder Judicial de los recursos humanos, materiales y tecnológicos que requieran;
 
@@ -919,9 +1173,11 @@ IV. Controlar el inventario de los bienes muebles e inmuebles del Poder Judicial
 
 V. Administrar los almacenes del Poder Judicial;
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI. Comunicar a nombre de la Comisión al Tribunal de Conciliación y Arbitraje del Estado los casos de terminación de la relación laboral y de los demás asuntos que así lo ameriten conforme a la ley:
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+VI. Comunicar a nombre del Consejo de la Judicatura al Tribunal de Conciliación y Arbitraje del Estado, los casos de terminación de la relación laboral y de los demás asuntos que así lo ameriten conforme a la ley;
 
 VII. Organizar periódicamente cursos de capacitación para el personal administrativo del Poder Judicial;
 
@@ -929,9 +1185,13 @@ VIII. Controlar e incrementar el acervo de la biblioteca jurídica, y
 
 IX. Las demás que le fijen otras disposiciones legales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 75.
 
-Para el despacho de los asuntos a su cargo, la Oficialía Mayor contará con los siguientes departamentos:
+Para el despacho de los asuntos a su cargo, el Secretario Ejecutivo contará con los siguientes departamentos:
 
 a) De Recursos Humanos.
 
@@ -949,17 +1209,29 @@ Para ser Tesorero se requerirá cumplir con los requisitos previstos en el Artí
 
 El Tesorero tendrá las siguientes funciones:
 
-I. Ejecutar las acciones relativas al ejercicio del Presupuesto de Egresos del Poder Judicial, que le encomiende la Comisión, de acuerdo a los principios de legalidad, racionalidad, transparencia, honradez y eficiencia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Preparar oportunamente la cuenta pública del Poder Judicial, a efecto de que la Comisión la rinda ante el Congreso del Estado en los términos previstos por las Leyes;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+I. Ejecutar las acciones relativas al ejercicio del Presupuesto de Egresos del Poder Judicial, que le encomiende el Consejo de la Judicatura, de acuerdo a los principios de legalidad, racionalidad, transparencia, honradez y eficiencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+II. Preparar oportunamente la cuenta pública del Poder Judicial, a efecto de que el Consejo de la Judicatura la rinda ante el Congreso del Estado en los términos previstos por las leyes;
 
 III. Elaborar la propuesta de Presupuesto Anual de Egresos del Poder Judicial, y someterlo a consideración del Presidente del Tribunal, y
 
 IV. Las demás que le encomienden otras disposiciones legales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 78.
 
-La Tesorería contará con el Departamento de Contabilidad y el personal de apoyo que le asigne la Comisión.
+La Tesorería contará con el Departamento de Contabilidad y el personal de apoyo que le asigne el Consejo de la Judicatura.
 
 #### Sección Cuarta. Servicios Periciales
 
@@ -1037,9 +1309,13 @@ IV. Facilitar a los interesados dentro del local que ocupe el archivo, los exped
 
 V. Las demás que fijen otras disposiciones legales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 86.
 
-La Comisión de Gobierno Interno y Administración del Poder Judicial reglamentará la organización del archivo, la conservación de los expedientes y la debida prestación del servicio de consulta de los mismos.
+El Consejo de la Judicatura del Poder Judicial reglamentará la organización del archivo, la conservación de los expedientes y la debida prestación del servicio de consulta de los mismos.
 
 #### Sección Primera. Boletín
 
@@ -1049,9 +1325,13 @@ La Comisión de Gobierno Interno y Administración del Poder Judicial reglamenta
 
 ### Capítulo Segundo. De la Administración, Operación y Destino
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 87.
 
-El Instituto de Especialización Judicial es el órgano auxiliar de la Comisión de Gobierno Interno y Administración, encargado de la capacitación y actualización de los servidores públicos del Poder Judicial, así como de quienes aspiren a pertenecer al mismo. Su organización, funcionamiento y atribuciones se regirán por el Reglamento que al efecto expida la Comisión.
+El Instituto de Especialización Judicial es el órgano auxiliar del Consejo de la Judicatura encargado de la capacitación y actualización de los servidores públicos del Poder Judicial, así como de quienes aspiren a pertenecer al mismo. Su organización, funcionamiento y atribuciones se regirán por el reglamento que al efecto expida el Consejo de la Judicatura.
 
 ###### Artículo 88.
 
@@ -1061,9 +1341,13 @@ Para ser Director del Instituto de Especialización Judicial se requerirá cumpl
 
 El Instituto de Especialización Judicial, podrá celebrar convenios con las diferentes instituciones de educación superior del país y del extranjero, para el cumplimiento de sus objetivos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 90.
 
-La Comisión de Gobierno Interno y Administración autorizará los programas de investigación, preparación y capacitación y los mecanismos de evaluación y rendimiento que aplicará el Instituto.
+El Consejo de la Judicatura autorizará los programas de investigación, preparación y capacitación y los mecanismos de evaluación y rendimiento que aplicará el Instituto.
 
 ###### Artículo 91.
 
@@ -1115,9 +1399,13 @@ d) Diligenciario.
 
 e) Oficial de Partes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 95.
 
-La Comisión de Gobierno Interno y Administración, designará a los servidores públicos del Poder Judicial, a que se refieren el Artículo anterior, a través de exámenes públicos de oposición, que se llevarán a cabo bajo las bases siguientes:
+El Consejo de la Judicatura, designará a los servidores públicos del Poder Judicial, a que se refieren el artículo anterior, a través de exámenes públicos de oposición, que se llevarán a cabo bajo las bases siguientes:
 
 I. Previa a la práctica del examen de oposición deberá expedirse con un mes de anticipación una convocatoria que contendrá:
 
@@ -1131,7 +1419,11 @@ d) La forma en que se llevará a cabo del examen psicométrico, de conocimientos
 
 e) Los nombres de los sinodales del jurado, que preferentemente serán académicos o investigadores ajenos al Estado y la forma de evaluación, el jurado se integrará con número non.
 
-II. La convocatoria de referencia deberá ser publicitada en el Boletín Judicial, en los periódicos de mayor circulación y a través de cartelones que deberán fijarse en todas las oficinas del Poder Judicial y además en los lugares que la Comisión considere conveniente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+II. La convocatoria de referencia deberá ser publicitada en el Boletín Judicial, en los periódicos de mayor circulación y a través de cartelones que deberán fijarse en todas las oficinas del Poder Judicial y además en los lugares que el Consejo de la Judicatura considere convenientes;
 
 III. Deberá dirigirse a todos los abogados del Estado y preferentemente a los servidores públicos que integren la carrera judicial; y
 
@@ -1155,9 +1447,13 @@ II. Práctica, y
 
 III. Oral.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 99.
 
-Dentro de los ocho días siguientes al examen, el Pleno designará como servidor público, a quien haya obtenido las calificaciones más altas e instruirá a la Comisión para que le expida el nombramiento correspondiente, le tome la protesta y le fije el inicio de las funciones.
+Dentro de los ocho días siguientes al examen, el Pleno designará como servidor público, a quien haya obtenido las calificaciones más altas e instruirá al Consejo de la Judicatura para que le expida el nombramiento correspondiente, le tome la protesta y le fije el inicio de las funciones.
 
 ## TITULO SEXTO. FONDO AUXILIAR PARA LA IMPARTICION DE JUSTICIA
 
@@ -1191,9 +1487,13 @@ XI. Las donaciones o aportaciones hechas a su favor, y
 
 XII. Los demás que señalen las Leyes y reglamentos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 101.
 
-La Comisión de Gobierno Interno y Administración del Poder Judicial se encargará de la administración del Fondo Auxiliar para la Impartición de Justicia, el que se ejercerá bajo criterios de estricta racionalidad, disciplina fiscal, contabilidad, evaluación, información periódica, auditoría y control de gestión que dispongan las Leyes de la materia.
+El Consejo de la Judicatura del Poder Judicial se encargará de la administración del Fondo Auxiliar para la Impartición de Justicia, el que se ejercerá bajo criterios de estricta racionalidad, disciplina fiscal, contabilidad, evaluación, información periódica, auditoría y control de gestión que dispongan las leyes de la materia.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2002)</small>
 
@@ -1207,9 +1507,11 @@ Los depósitos se harán en la cuenta bancaria del Fondo Auxiliar para la Impart
 
 En materia de suspensiones, alimentos, así como en los demás casos urgentes, el depósito podrá hacerse ante la propia autoridad judicial del conocimiento, quien bajo su estricta responsabilidad lo enterará en la Institución Bancaria correspondiente, a más tardar el día hábil siguiente, dando cuenta a la superioridad de este hecho.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Tratándose de fianzas no personales, sólo se admitirán cauciones o garantías a través de pólizas expedidas por las casas afianzadoras expresamente autorizadas por la Comisión; en ningún caso admitirán consignaciones hechas a través de otra Institución distinta del Fondo.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+Tratándose de fianzas no personales, sólo se admitirán cauciones o garantías a través de pólizas expedidas por las casas afianzadoras expresamente autorizadas por el Consejo de la Judicatura; en ningún caso admitirán consignaciones hechas a través de otra Institución distinta del Fondo.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2002)</small>
 
@@ -1225,23 +1527,35 @@ Los recursos con los que se integre y opere el fondo, serán diferentes de aquel
 
 ###### Artículo 104.
 
-El fondo auxiliar será operado a través de la Tesorería del Poder Judicial, bajo la supervisión de la Comisión de Gobierno Interno y Administración, a quien se deberá rendir mensualmente un informe de sus actividades.
+El fondo auxiliar será operado a través de la Tesorería del Poder Judicial, bajo la supervisión del Consejo de la Judicatura, a quien se deberá rendir mensualmente un informe de sus actividades.
 
 La Controlaría del Poder Judicial ejercerá las funciones de control y vigilancia del manejo del fondo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 105.
 
-La Comisión de Gobierno Interno y Administración determinará la forma y términos de administración y disposición de los recursos obtenidos a través del Fondo.
+El Consejo de la Judicatura determinará la forma y términos de administración y disposición de los recursos obtenidos a través del Fondo.
 
 ###### Artículo 106.
 
 El Tesorero del Poder Judicial, como responsable directo del Fondo, tendrá las siguientes obligaciones:
 
-I. Elaborar el proyecto de presupuesto anual de egresos del Fondo y someterlo a la Comisión de Gobierno Interno y Administración durante el mes de enero de cada año, para su discusión y aprobación en su caso;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+I. Elaborar el proyecto de presupuesto anual de egresos del Fondo y someterlo al Consejo de la Judicatura durante el mes de enero de cada año, para su discusión y aprobación en su caso;
 
 II. Supervisar y vigilar que los gastos efectuados se realicen de acuerdo a lo dispuesto en el presupuesto anual de egresos del Fondo, y
 
-III. Ejercitar las facultades que le confiera la Comisión en todo lo relativo al manejo del Fondo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+III. Ejercitar las facultades que le confiera el Consejo de la Judicatura en todo lo relativo al manejo del Fondo.
 
 ###### Artículo 107.
 
@@ -1253,7 +1567,11 @@ II. La adquisición y mantenimiento de mobiliario, equipo y tecnología;
 
 III. Cubrir los gastos que origine su administración, y
 
-IV. Sufragar los gastos que la Comisión de Gobierno Interno y Administración del Poder Judicial considere convenientes para mejorar la administración de justicia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+IV. Sufragar los gastos que el Consejo de la Judicatura del Poder Judicial considere convenientes para mejorar la administración de justicia.
 
 ## TITULO SEPTIMO. PRECEDENTES OBLIGATORIOS Y MEDIOS DE COMUNICACION JUDICIAL
 
@@ -1349,9 +1667,13 @@ I. No asistir o ausentarse de las sesiones del Pleno o de la Sala a que pertenez
 
 II. Abstenerse de votar en los acuerdos del Pleno o de la Sala a que pertenezcan, sin motivo fundado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 120.
 
-Las faltas a que se refiere el presente Capítulo serán sancionadas en términos de la Ley de Responsabilidades, Sanciones y Estímulos de los Servidores Públicos del Estado y sus Municipios, por la Comisión de Gobierno Interno y Administración. Tratándose de los Magistrados, sus faltas serán sancionadas por el Congreso del Estado.
+Las faltas a que se refiere el presente Capítulo serán sancionadas en términos de la Ley de Responsabilidades, Sanciones y Estímulos de los Servidores Públicos del Estado y sus Municipios, por el Consejo de la Judicatura. Tratándose de los magistrados, sus faltas serán sancionadas por el Congreso del Estado.
 
 ## TRANSITORIOS
 
@@ -1524,3 +1846,29 @@ Aquellos ordenamientos secundarios y reglamentarios que hagan alusión a la Sala
 ###### ARTÍCULO TERCERO.
 
 Se derogan aquellas disposiciones que se contrapongan al contenido de este Decreto de reformas.
+
+P.O. 8 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del primero de enero del año dos mil nueve
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión de Puntos Constitucionales, Gobernación y Justicia y Asuntos Políticos, emitirá la convocatoria para designar al profesional del derecho que integre el Consejo de la Judicatura del Poder Judicial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El Presidente de la Mesa Directiva solicitará al titular del Poder Ejecutivo designe en el presente mes de diciembre del año en curso, al profesional del derecho que integre el Consejo de la Judicatura del Poder Judicial del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los consejeros tomarán protesta en el Pleno del Tribunal Superior de Justicia del Estado, el primer día de hábil de enero del año dos mil nueve; fecha a partir de la cual corre el término de tres años de duración en su cargo.
+
+###### ARTÍCULO QUINTO.
+
+Quien funge hoy como Oficial Mayor del Tribunal Superior de Justicia, será ratificado como Secretario Ejecutivo, a excepción del Tesorero, quien será nombrado en los términos que establecen los artículos 68 fracción VIII, 73 y 76 de la Ley Orgánica del Poder Judicial del Estado de Tlaxcala.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
