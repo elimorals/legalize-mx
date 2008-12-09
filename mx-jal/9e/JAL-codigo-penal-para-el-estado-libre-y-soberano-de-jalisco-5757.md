@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2008-07-05"
+last_updated: "2008-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -2223,7 +2223,7 @@ Para que sea punible el delito a que se refiere el artículo anterior, se necesi
 
 ### CAPITULO VIII. Abandono de familiares
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO I. Delitos en materia de inhumaciones y exhumaciones
 
@@ -2525,21 +2525,35 @@ Se impondrán de quince días a dos años de prisión al hombre o mujer que teng
 
 ###### Art. 183.
 
-Se impondrán de veinte a cien jornadas de trabajo a favor de la comunidad, independientemente de las sanciones a que se haga acreedor por otros delitos que resultaren, a quien sin motivo justificado incumpla respecto de sus hijos, cónyuge o de cualquier otro familiar con el que tenga obligación alimenticia, el deber de ministrarle los recursos suficientes para atender sus necesidades de subsistencia.
+A la persona que sin causa justificada incumpla con la obligación de dar alimentos a aquellos que tienen derecho a recibirlos, se le impondrá pena de seis meses a cuatro años de prisión y multa de cien a cuatrocientos días, suspensión o pérdida de la tutela o custodia en caso de ser titular de este derecho respecto de su acreedor alimentario, y pago como reparación del daño de las cantidades no suministradas oportunamente, mismas que deberán ser garantizadas por medio del depósito en cualquiera de las formas señaladas por la ley.
 
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2001)</small>
+Para los efectos de este artículo, se tendrá por consumado el delito aun cuando el o los acreedores alimentarios se dejen al cuidado o reciban la ayuda de un tercero.
 
-Se impondrán de uno a cuatro años de prisión y de cincuenta a doscientas jornadas de trabajo a favor de la comunidad, cuando la víctima de este delito se trate de un menor de 7 años de edad.
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+Art. 183 A. Al que renuncie a su empleo o solicite licencia sin goce de sueldo y éste sea el único medio para tener ingresos, o por cualquier otro medio se coloque de manera voluntaria en estado de insolvencia, con el objeto de eludir el cumplimiento de sus obligaciones alimentarias, se le impondrá pena de prisión de uno a cuatro años, multa de doscientos a seiscientos días, suspensión o pérdida de la tutela o custodia en caso de ser titular de este derecho respecto de su acreedor alimentario y pago como reparación del daño, de las cantidades no suministradas oportunamente, mismas que deberán ser garantizadas por medio del depósito en cualquiera de las formas señaladas por la ley.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
+
+Art. 183 B. Se impondrá pena de seis meses a cuatro años de prisión y multa de doscientos a seiscientos días al responsable que, estando obligado a informar acerca de los ingresos de quienes deban cumplir con todas las obligaciones alimentarias, incumpla con la orden judicial de hacerlo, no lo haga dentro del término ordenado por el juez u omita realizar de inmediato el descuento al salario, una vez que haya sido realizada debidamente la notificación.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
+
+Art. 183 C. Si la omisión en el cumplimiento de las obligaciones alimentarias, ocurre en incumplimiento de una resolución judicial ejecutoriada, las sanciones se incrementarán hasta en dos años de prisión y trescientos días de multa.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
 
 ###### Art. 184.
 
-El delito a que se refiere el artículo anterior se perseguirá por querella de la parte ofendida, de sus familiares consanguíneos o de cualquier persona física o jurídica que de hecho tenga a su cuidado al ofendido.
+Los delitos a que se refieren los artículos anteriores se perseguirán por querella de la parte ofendida, de sus familiares consanguíneos o de cualquier persona física o jurídica que de hecho tenga a su cuidado al ofendido.
 
 ###### Art. 185.
 
 Para que el perdón concedido por el ofendido o su representante pueda producir efectos, el responsable deberá pagar todas las cantidades que hubiese dejado de ministrar por concepto de alimentos, en los términos de la Ley Civil.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
+
+Art. 185 A. Para que el perdón concedido por el ofendido o su representante pueda producir efectos, el responsable deberá pagar todas las cantidades que hubiese dejado de ministrar por concepto de alimentos, en los términos que señala el Código Civil del estado de Jalisco; el pago de todas las cantidades deberá ser garantizado por medio del depósito en cualquiera de las formas señaladas por la ley.
 
 ## TITULO DECIMO SEXTO. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
@@ -3653,13 +3667,17 @@ XXI. Al que, aprovechándose de la confusión anímica de la familia o de quien 
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2004)</small>
 
-XXII. A quien simule la constitución de una sociedad, con el objeto de obtener dinero ofreciendo el pago de intereses superiores a los autorizados por el Banco de México; y
+XXII. A quien simule la constitución de una sociedad, con el objeto de obtener dinero ofreciendo el pago de intereses superiores a los autorizados por el Banco de México; y (sic)
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2005)</small>
 
 XXIII. Al que suplantando al propietario de bienes o al titular de derechos de índole patrimonial utilizando medios de identificación o documentos apócrifos, transmita o grave dichos bienes o derechos. La misma pena se le impondrá al que a sabiendas de ésta circunstancia, adquiera el bien o derecho o reciba el beneficio del gravamen.
 
-Tratándose de bienes inmuebles, este delito se considera como grave y el procesado no tendrá derecho a la libertad provisional bajo caución.
+Tratándose de bienes inmuebles, este delito se considera como grave y el procesado no tendrá derecho a la libertad provisional bajo caución;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2008)</small>
+
+XXIV. Al que enajene, comercialice o distribuya vales apócrifos utilizados para intercambiar o canjear bienes y servicios, a sabiendas de su falsedad.
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 2007)</small>
 
@@ -4622,3 +4640,15 @@ Noveno. El Poder Legislativo, en conjunto con la Auditoría Superior del Estado 
 Para tal efecto, una vez designado el Auditor Superior, deberá presentar a la Junta de Coordinación Política, así como a la Comisión de Hacienda y Presupuestos del Congreso del Estado, el anteproyecto de presupuesto de la Auditoría Superior del Estado.
 
 Décimo. Dentro del término de sesenta días naturales, contados a partir de la entrada en vigor del presente decreto, el Auditor Superior del Estado deberá expedir el reglamento interno de la Auditoría Superior de Jalisco, conforme a esta ley y las disposiciones aplicables para el Congreso del Estado.
+
+P.O. 9 DE DICIEMBRE DE 2008.
+
+DECRETO NUMERO 22552/LVIII/08 POR EL QUE SE ADICIONA LA FRACCION XXIV AL ARTICULO 252 DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 9 DE DICIEMBRE DE 2008.
+
+DECRETO NUMERO 22549/LVIII/08 POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 183, 183-A, 183-B, 183-C, 183-D, 184, 185 Y 185-A DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
