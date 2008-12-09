@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2008-07-05"
+last_updated: "2008-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -2373,6 +2373,10 @@ Cuando algún miembro del Ayuntamiento comete un delito del orden común no pued
 
 En los juicios del orden civil, ningún servidor público municipal goza de fuero o inmunidad.
 
+### CAPITULO I. De los Principios Generales
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 144.
 
 TIENEN OBLIGACIÓN DE PRESENTAR DECLARACIÓN DE SITUACIÓN PATRIMONIAL ANTE EL AYUNTAMIENTO, A TRAVÉS DEL ÓRGANO O DEPENDENCIA QUE DETERMINEN LOS REGLAMENTOS MUNICIPALES:
@@ -2422,6 +2426,48 @@ En caso de incumplimiento de las obligaciones consignadas en los artículos de e
 ###### Artículo 147.
 
 Para efectos de registro y control, el Ayuntamiento debe remitir al órgano competente del Congreso del Estado, las declaraciones de situación patrimonial que le sean presentadas, en un plazo de diez días hábiles a partir de su recepción.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2008)</small>
+
+## TITULO UNDECIMO. DE LOS ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO II. De los Medios de Defensa
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 148.
+
+La administración pública municipal actuará sometida al ordenamiento jurídico, debiendo asegurar la igualitaria participación de los administrados y la publicidad de las actuaciones.
+
+La Ley del Procedimiento Administrativo del estado de Jalisco será de aplicación supletoria al ámbito municipal, y se aplicará totalmente en todos aquellos municipios que no expidan los reglamentos que regulen los actos y procedimientos administrativos municipales.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 149.
+
+El acto administrativo municipal es toda manifestación unilateral y externa de la voluntad, emitida por el ayuntamiento, sus integrantes o sus dependencias representativas, que crea, reconoce, modifica, transmite, declara o extingue derechos u obligaciones, de acuerdo con las atribuciones y competencias de orden público que les son otorgadas por las leyes y los reglamentos.
+
+El acto administrativo municipal se sujetará a las reglas y disposiciones del Título Primero y del Titulo Segundo de la Sección Primera de la Ley del Procedimiento Administrativo del Estado de Jalisco.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 150.
+
+Los ayuntamientos instituirán en su reglamentación, con sujeción a los principios establecidos en el presente capítulo, los recursos y procedimientos jurídicos que establezcan los medios de defensa a favor de los administrados, en contra de actos administrativos emitidos por las autoridades municipales, que aquellos consideren han afectado su interés jurídico.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 151.
+
+Los ayuntamientos instituirán en su reglamentación y presupuesto al funcionario, dependencia u órgano municipal con autonomía y definitividad en sus resoluciones, encargado de radicar y resolver las inconformidades planteadas por virtud de los actos a que se refiere el artículo anterior. Dicho funcionario, dependencia u órgano funcionará en régimen de única instancia y sus resoluciones serán definitivas.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 152.
+
+Los municipios, por conducto del Síndico, podrán invocar la instauración del procedimiento de lesividad ante la autoridad jurisdiccional competente, solicitando la declaración de nulidad de resoluciones administrativas favorables a los particulares, cuando se considere que éstas lesionan el interés público de la comunidad. La autoridad jurisdiccional correspondiente substanciará dicho procedimiento en la vía sumaria.
 
 T R A N S I T O R I O S
 
@@ -2702,3 +2748,9 @@ Noveno. El Poder Legislativo, en conjunto con la Auditoría Superior del Estado 
 Para tal efecto, una vez designado el Auditor Superior, deberá presentar a la Junta de Coordinación Política, así como a la Comisión de Hacienda y Presupuestos del Congreso del Estado, el anteproyecto de presupuesto de la Auditoría Superior del Estado.
 
 Décimo. Dentro del término de sesenta días naturales, contados a partir de la entrada en vigor del presente decreto, el Auditor Superior del Estado deberá expedir el reglamento interno de la Auditoría Superior de Jalisco, conforme a esta ley y las disposiciones aplicables para el Congreso del Estado.
+
+P.O. 9 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Los ayuntamientos tendrán un año a partir de la entrada en vigor del presente decreto, para reformar o expedir los reglamentos municipales que se adecuen a las presentes reformas. En tanto no se reformen o se expidan dichos reglamentos, los actos y procedimientos administrativos municipales se seguirán rigiendo por lo dispuesto por la Ley del Procedimiento Administrativo del Estado de Jalisco.
