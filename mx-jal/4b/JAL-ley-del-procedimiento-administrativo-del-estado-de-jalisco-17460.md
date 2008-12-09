@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-procedimiento-administrativo-del-estado-de-jalisco-1746
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-15"
-last_updated: "2008-11-06"
+last_updated: "2008-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO -ANTES PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS-
 
-LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
+LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 15 de julio del 2000.
 
@@ -33,7 +33,9 @@ Alberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y Soberan
 
 NUMERO.- 18343 EL CONGRESO DEL ESTADO DECRETA:
 
-LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE DICIEMBRE DE 2008)</small>
+
+LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO
 
 #### SECCIÓN PRIMERA
 
@@ -41,23 +43,67 @@ LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
 ### Capítulo Primero. Objeto de la Ley
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1.
 
-La presente ley es de orden e interés público y tiene por objeto establecer las bases de los actos administrativos emanados de los Poderes del Estado de Jalisco, de los Municipios, así como de sus organismos públicos descentralizados, estableciendo para ello los principios y normas que deben observarse en los procedimientos no jurisdiccionales.
+La presente ley es de orden e interés público y tiene por objeto establecer las bases de los actos administrativos emanados del Poder Ejecutivo, así como de sus dependencias y entidades, estableciendo para ello los principios y normas que deben observarse en los procedimientos no jurisdiccionales.
+
+Esta ley se aplica también a los actos administrativos emanados del Poder Legislativo, Poder Judicial y organismos constitucionales autónomos, en todo lo no previsto por sus leyes respectivas.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 2.
 
-Las disposiciones de este ordenamiento, no son aplicables en las materias financiera, laboral, electoral, de educación, de salud, de seguridad pública, de responsabilidades para los servidores públicos, así como las relativas al Ministerio Público y Procurador Social en ejercicio de sus funciones. En materia hacendaria, esta ley es aplicable únicamente en las disposiciones del procedimiento administrativo de ejecución.
+Las disposiciones de este ordenamiento no son aplicables en las materias financiera, laboral, electoral, de educación, de salud, de seguridad pública, de responsabilidades para los servidores públicos, así como las relativas al Ministerio Público y al Procurador Social en ejercicio de sus funciones. En materia hacendaria, esta ley es aplicable únicamente en las disposiciones del procedimiento administrativo de ejecución.
+
+La presente ley será de aplicación supletoria en materia de actos y procedimientos administrativos municipales, con excepción del Título Primero y del Título Segundo de la Sección Primera, cuya observación será obligatoria para toda autoridad municipal.
 
 ###### Artículo 3.
 
 El Código de Procedimientos Civiles del Estado de Jalisco será de aplicación supletoria en materia adjetiva a este ordenamiento.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 4.
 
-El procedimiento que establece esta ley se rige por los principios de legalidad, seguridad jurídica, equidad, justicia, economía, celeridad, sencillez, eficacia, publicidad y audiencia.
+Los actos, procedimientos administrativos y toda actividad administrativa estatal y municipal, se sujetarán a los siguientes principios, sin perjuicio de la vigencia de otros principios generales de Derecho Administrativo:
+
+a) Principio de gratuidad: Las actuaciones promovidas para la impugnación de decisiones administrativas de la autoridad estatal o municipal no serán objeto de contribución o gravamen alguno. No habrá condena en costas por las peticiones, denuncias y recursos;
+
+b) Principio de legalidad: Las autoridades administrativas deben actuar con respeto a la Constitución, la ley y al derecho, dentro de las facultades que les estén atribuidas y de acuerdo con los fines para los que les fueron conferidas;
+
+c) Principio de igualdad: Las autoridades administrativas actuarán sin ninguna clase de discriminación entre los administrados, otorgándoles tratamiento y tutela igualitarios frente al procedimiento, resolviendo conforme al ordenamiento jurídico y con atención al interés general;
+
+d) Principio del debido procedimiento: Los administrados gozan de todos los derechos y garantías inherentes al debido procedimiento administrativo, que comprende el derecho a exponer sus argumentos, a ofrecer y producir pruebas y a obtener una decisión motivada y fundada en derecho. La institución del debido procedimiento administrativo se rige por los principios del Derecho Administrativo. La regulación propia del Derecho Procesal Civil es aplicable sólo en cuanto sea compatible con el régimen administrativo;
+
+e) Principio de impulso de oficio: Las autoridades deben dirigir e impulsar de oficio el procedimiento y ordenar la realización o práctica de los actos que resulten convenientes para el esclarecimiento y resolución de las cuestiones necesarias;
+
+f) Principio de razonabilidad: Las decisiones de la autoridad administrativa, cuando generen obligaciones, califiquen infracciones, impongan sanciones, o establezcan restricciones a los administrados, deben adaptarse dentro de los límites de la facultad atribuida y manteniendo la debida proporción entre los medios a emplear y los fines públicos que deba tutelar, a fin de que respondan a lo estrictamente necesario para la satisfacción de su cometido;
+
+g) Principio de informalismo: Las normas de procedimiento deben ser interpretadas en forma favorable a la admisión y decisión final de las pretensiones de los administrados, de modo que sus derechos e intereses no sean afectados por la exigencia de aspectos formales que puedan ser subsanados dentro del procedimiento, siempre que dicha excusa no afecte derechos de terceros o el interés público;
+
+h) Principio de presunción de veracidad: En la tramitación del procedimiento administrativo, se presume que los documentos y declaraciones formulados por los administrados en la forma prescrita por este reglamento y por la ley en la materia, responden a la verdad de los hechos que ellos afirman. Esta presunción admite prueba en contrario;
+
+i) Principio de buena fe: La autoridad administrativa, los administrados, sus representantes o abogados y, en general, todos los partícipes del procedimiento administrativo municipal, deberán realizar sus respectivos actos procedimentales guiados por la buena fe, el respeto mutuo y la colaboración. Ninguna regulación del procedimiento administrativo puede interpretarse de modo tal que ampare alguna conducta contra la buena fe procesal;
+
+j) Principio de celeridad: Quienes participan en el procedimiento deben ajustar su actuación de tal modo que se dote al trámite de la máxima dinámica posible, evitando actuaciones procesales que dificulten su desenvolvimiento o constituyan meros formalismos, a fin de alcanzar una decisión en tiempo legal y razonable, sin que ello releve a las autoridades del respeto al debido procedimiento o vulnere el ordenamiento;
+
+k) Principio de eficacia: Los sujetos del procedimiento administrativo deben hacer prevalecer el cumplimiento de la finalidad del acto procedimental, sobre aquellos formalismos cuya realización no incida en su validez, no determinen aspectos importantes en la decisión final, no disminuyan las garantías del procedimiento, ni causen indefensión a los administrados. En todos los supuestos de aplicación de este principio, la finalidad del acto que se privilegie sobre las formalidades no esenciales deberá ajustarse al marco normativo aplicable y su validez será una garantía de la finalidad pública que se busca satisfacer con la aplicación de este principio;
+
+I) Principio de verdad material: En el procedimiento, la autoridad administrativa competente deberá verificar plenamente los hechos que sirven de motivo a sus decisiones, para lo cual deberá adoptar todas las medidas probatorias necesarias autorizadas por las leyes y reglamentos, aun cuando no hayan sido propuestas por los administrados o hayan acordado eximirse de ellas. En el caso de procedimientos multilaterales, la autoridad administrativa estará facultada a verificar por todos los medios disponibles la verdad de los hechos que le son propuestos por las partes, sin que ello signifique una sustitución del deber probatorio que corresponde a éstas. Sin embargo, la autoridad administrativa estará obligada a ejercer dicha facultad cuando su pronunciamiento pudiera involucrar también al interés público;
+
+m) Principio de participación: Las entidades deben brindar las condiciones necesarias a todos los administrados para acceder a la información que administren, sin expresión de causa, salvo aquellas que afectan la intimidad personal, las vinculadas a la seguridad nacional o las que expresamente sean excluidas por ley; y extender las posibilidades de participación de los administrados y de sus representantes, en aquellas decisiones públicas que les puedan afectar, mediante cualquier sistema que permita la difusión, el servicio de acceso a la información y la presentación de opinión;
+
+n) Principio de simplicidad: Los trámites establecidos por la autoridad administrativa deberán ser sencillos, debiendo eliminarse toda complejidad innecesaria; es decir, los requisitos exigidos deberán ser racionales y proporcionales a los fines que se persigue cumplir;
+
+o) Principio de uniformidad: La autoridad administrativa deberá establecer requisitos similares para trámites similares, garantizando que las excepciones a los principios generales no serán convertidas en la regla general. Toda diferenciación deberá basarse en criterios objetivos debidamente sustentados;
+
+p) Principio de predictibilidad: La autoridad administrativa deberá brindar a los administrados o sus representantes información veraz, completa y confiable sobre cada trámite, de modo tal que a su inicio, el administrado pueda tener una conciencia bastante certera de cuál será el resultado final que se obtendrá, y
+
+q) Principio de privilegio de controles posteriores: La tramitación de los procedimientos administrativos se sustentará en la aplicación de la fiscalización posterior; reservándose la autoridad administrativa el derecho de comprobar la veracidad de la información presentada, el cumplimiento de la normatividad sustantiva y aplicar las sanciones pertinentes en caso de que la información presentada no sea veraz.
+
+Los principios señalados servirán también como criterio interpretativo para resolver las cuestiones que puedan suscitarse en la aplicación de las reglas de procedimiento; como parámetros para la generación de otras disposiciones administrativas de carácter general y para suplir los vacíos en el ordenamiento administrativo.
 
 ### Capítulo Segundo. De las Autoridades Administrativas
 
@@ -279,9 +325,9 @@ Transcurrido el plazo a que hace referencia el artículo 31 de la presente ley s
 
 Operada la afirmativa ficta, el administrado podrá iniciar la actividad respecto de la cual realizó su solicitud, siempre y cuando le notifique a la autoridad administrativa silente del inicio de sus actividades.
 
-Lo anterior no exime al particular de cumplir con las disposiciones jurídicas que rijan dicha actividad, así como tampoco lo releva del cumplimiento de las obligaciones fiscales originadas por la autorización de la misma ni de las que sean consecuencia de su ejercicio, las cuales deberá pagar directamente a la autoridad al notificarle el inicio de sus actividades, mediante la entrega de! certificado de depósito de las contribuciones consignadas ante la Secretaría de Finanzas que, en su caso, se generen de acuerdo con las leyes de ingresos respectivas.
+Lo anterior no exime al particular de cumplir con las disposiciones jurídicas que rijan dicha actividad, así como tampoco lo releva del cumplimiento de las obligaciones fiscales originadas por la autorización de la misma ni de las que sean consecuencia de su ejercicio, las cuales deberá pagar directamente a la autoridad al notificarle el inicio de sus actividades, mediante la entrega del certificado de depósito de las contribuciones consignadas ante la Secretaría de Finanzas que, en su caso, se generen de acuerdo con las leyes de ingresos respectivas.
 
-Los originales de los acuses de recibido tanto de la solicitud de la autorización tramitada, como de la notificación por escrito señalada en el segundo párrafo del presente artículo además del certificado de depósito de las contribuciones correspondientes, en conjunto, serán considerados como la autorización administrativa para realizar la actividad solicitada.
+Los originales de los acuses de recibido tanto de la solicitud de la autorización tramitada, como de la notificación por escrito señalada en el segundo párrafo del presente artículo, además del certificado de depósito de las contribuciones correspondientes, en conjunto, serán considerados como la autorización administrativa para realizar la actividad solicitada.
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2008)</small>
 
@@ -291,7 +337,7 @@ Bis. Las autorizaciones a las que se refiere el artículo anterior podrán ser c
 
 ###### Artículo 34.
 
-Los plazos señalados en el presente capítulo, inician el día siguiente de la recepción de la solicitud.
+Los plazos señalados en el presente capítulo, inician el día siguiente de la recepción de la solicitud,
 
 Cuando la autoridad hubiera requerido al promovente la presentación de algún documento o el cumplimiento de determinado requisito que éste omitió al iniciar el procedimiento, los plazos iniciarán a partir del día cuando se cumpla con la prevención.
 
@@ -863,7 +909,7 @@ V. Contra el auto que la desecha, procede el recurso de revisión.
 
 ###### Artículo 103.
 
-Dentro de los tres días hábiles siguientes a la recepción del escrito inicial, la autoridad competente debe acordar el plazo para el desahogo de pruebas, el cual no podrá exceder de un máximo de diez días hábiles, señalando cuáles son las pruebas admitidas y el día y hora para e! desahogo de las mismas.
+Dentro de los tres días hábiles siguientes a la recepción del escrito inicial, la autoridad competente debe acordar el plazo para el desahogo de pruebas, el cual no podrá exceder de un máximo de diez días hábiles, señalando cuáles son las pruebas admitidas y el día y hora para el desahogo de las mismas.
 
 ###### Artículo 104.
 
@@ -933,7 +979,7 @@ La autoridad debe acordar la apertura de un período de pruebas, en los siguient
 
 I. Cuando la naturaleza del asunto así lo exija y lo establezcan las leyes correspondientes, o
 
-III. Cuando la autoridad competente que esté conociendo de la tramitación de un procedimiento, no tenga por ciertos los hechos señalados por los interesados, siempre que se apoye en circunstancias debidamente fundadas y motivadas.
+II. Cuando la autoridad competente que esté conociendo de la tramitación de un procedimiento, no tenga por ciertos los hechos señalados por los interesados, siempre que se apoye en circunstancias debidamente fundadas y motivadas.
 
 ###### Artículo 114.
 
@@ -1153,7 +1199,7 @@ IV. Se otorgue garantía suficiente en caso de que así lo acuerde la autoridad.
 
 Una vez presentado el escrito, la autoridad administrativa debe acordar por escrito la admisión del recurso en un plazo no mayor de cinco días hábiles, debiendo admitir las pruebas presentadas y declarará desahogadas aquéllas que por su naturaleza así lo permitan.
 
-En ese mismo escrito se debe requerir al servidor público que autorizó o emitió el acto recurrido, para que en un plazo no mayor de cinco días hábiles entregue un informe del acto recurrido y presente las pruebas que se relacionen con el acto impugnado.
+En ese mismo escrito se debe requerir al servidor público que autorizó o emitió el acto recurrido, para que en un plazo no mayor de cinco días hábiles entregue un informe del acto recurrido y presente la (sic) pruebas que se relacionen con el acto impugnado.
 
 ###### Artículo 140.
 
@@ -1243,7 +1289,7 @@ III. Multa.
 
 ###### Artículo 151.
 
-Si en virtud de un acto administrativo se obliga a pagar en cantidad líquida, se debe seguir el procedimiento establecido en la legislación hacendaria del Estado.
+Si en virtud de un acto administrativo se obliga a pagar en cantidad liquida, se debe seguir el procedimiento establecido en la legislación hacendaria del Estado.
 
 ###### Artículo 152.
 
@@ -1261,13 +1307,23 @@ La administración puede imponer multas reiteradas por periodos suficientes para
 
 ### Capítulo I. De la Mejora Regulatoria
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 154.
+
+Se entiende por mejora regulatoria el proceso de desregulación que tiene por objeto:
+
+I. La simplificación o eliminación, de manera parcial o total, de determinadas regulaciones, procedimientos o normas que inhiben el desarrollo económico;
+
+II. La creación o reforma del marco normativo que rige la actividad de sectores económicos o áreas reguladas específicamente, con el fin de eliminar los vacíos jurídicos provocados por cambios económicos, sociales y tecnológicos; y
+
+III. La mejora en los procesos mediante los cuales se elaboran y aplican las regulaciones a que se refiere este artículo.
 
 Las dependencias y organismos estatales y municipales, dentro de la esfera de su competencia, promoverán la realización de un proceso continuo y permanente de mejora regulatoria, buscando agilizar, eficientar y dotar de mayor seguridad jurídica los procedimientos administrativos que realicen.
 
-Para tal efecto, (sic) titular del Poder Ejecutivo del Estado y los ayuntamientos deberán expedir los reglamentos, decretos, circulares y demás ordenamientos que estimen pertinentes, a fin de establecer reglas claras y sencillas que reduzcan la discrecionalidad de las autoridades administrativas.
+Para tal efecto, (sic) titular del Poder Ejecutivo del Estado y los ayuntamientos deberán expedir los reglamentos, decretos, circulares y demás ordenamientos que estimen pertinentes, a fin de establecer reglas claras y sencillas que reduzcan la discrecionalidad de las autoridades administrativas y eviten que se obligue al particular a presentar documentos o a realizar trámites ajenos a la naturaleza del acto administrativo por él solicitado.
 
-Asimismo, el gobierno del Estado y los ayuntamientos podrán celebrar convenios que les permitan coordinarse, evaluar y realizar de manera conjunta los procesos de mejora regulatoria y crear un registro único de trámites.
+Asimismo, el Estado y los ayuntamientos podrán celebrar convenios que les permitan coordinarse, evaluar y realizar de manera conjunta los procesos de mejora regulatoria y crear un registro único de trámites.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2008)</small>
 
@@ -1293,7 +1349,7 @@ En caso de realizarse modificaciones a los procedimientos de los trámites o ser
 
 ###### Artículo 157.
 
-Los datos e información relativa a los trámites vigentes resguardada en el Registro Público de Trámites Estatales será congruente con la que publíciten directamente dichas cantidades.
+Los datos e información relativa a los trámites vigentes resguardada en el Registro Público de Trámites Estatales será congruente con la que publíciten directamente dichas entidades.
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2008)</small>
 
@@ -1305,13 +1361,13 @@ T R A N S I T O R I O S
 
 > <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2001)</small>
 
-Primero. El presente decreto entrará en vigor, el día siguiente de su publicación en el Diario Oficial "El Estado de Jalisco".
+Primero. El presente decreto entrará en vigor, al día siguiente de su publicación en el Diario Oficial "El Estado de Jalisco".
 
 > <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2001)</small>
 
 Segundo. La Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios, entrará en vigor en forma simultánea para las leyes y reglamentos que se adecuen en cumplimiento de lo establecido en los transitorios tercero y cuarto del presente decreto, en el plazo y los términos que para estos se establezcan.
 
-Para la generalidad de las leyes y reglamentos que no hayan sido adecuados conforme a los transitorios tercero y cuarto, esta ley entrará en vigor a partir del 22 de mayo de 2001.
+Para la generalidad de las leyes y reglamentos que no hayan sido adecuados conforme a los transitorios tercero y cuarto, esta ley entrará en vigor a partir del 22 de mayo del 2001.
 
 > <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2001)</small>
 
@@ -1382,3 +1438,9 @@ P.O. 12 DE JUNIO DE 2008.
 P.O. 6 DE NOVIEMBRE DE 2008.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 9 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Los ayuntamientos tendrán un año a partir de la entrada en vigor del presente decreto, para reformar o expedir los reglamentos municipales que se adecuen a las presentes reformas. En tanto no se reformen o se expidan dichos reglamentos, los actos y procedimientos administrativos municipales se seguirán rigiendo por lo dispuesto por la Ley del Procedimiento Administrativo del Estado de Jalisco.
