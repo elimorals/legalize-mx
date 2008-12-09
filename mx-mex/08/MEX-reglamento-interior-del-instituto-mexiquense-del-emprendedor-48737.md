@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-mexiquense-del-emprendedor-48
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-27"
-last_updated: "2006-01-27"
+last_updated: "2008-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL INSTITUTO MEXIQUENSE DEL EMPRENDEDOR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el viernes 27 de enero de 2006.
 
@@ -153,7 +153,9 @@ II. Promover la participación de empresarios, consultores y asesores en el dise
 
 III. Impulsar la especialización, asistencia técnica y capacitación de los emprendedores y de las micro, pequeñas y medianas empresas, a fin de elevar la calidad y competitividad de sus productos y servicios, a través de consultaría especializada, asistencia técnica y capacitación.
 
-IV. Integrar y mantener actualizada la información sobre los servicios que ofrece el Instituto y otras instancias públicas y privadas para el desarrollo de los emprendedores y las micro, pequeñas y medianas empresas de la entidad.
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2008)</small>
+
+IV. Establecer y aplicar mecanismos para el desarrollo y la evaluación de los proyectos productivos de los emprendedores, así como de las micro, pequeñas y medianas empresas establecidas en la entidad.
 
 V. Realizar el seguimiento a los proyectos de integración regional y proponer, en su caso, acciones que permitan consolidar su operación.
 
@@ -197,7 +199,29 @@ XI. Preparar la documentación necesaria que deberá ser entregada a los sujetos
 
 XII. Promover y vigilar el cumplimiento de pago por parte de los emprendedores y las micro, pequeñas y medianas empresas, de los recursos que les fueron otorgados para el desarrollo de sus proyectos y, en su caso, exigir el cobro del adeudo.
 
-XIII. Las demás que le confieren otros ordenamientos legales y aquellas que le establezca el Director General.
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2008)</small>
+
+XIII. Proporcionar apoyos financieros a emprendedores y empresas, en términos de las reglas de operación de los esquemas de financiamiento vigentes.
+
+> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2008)</small>
+
+XIV. Promover el establecimiento y consolidación de programas dirigidos al sector de las instituciones microfinancieras que atiendan principalmente a los mexiquenses de menores ingresos.
+
+> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2008)</small>
+
+XV. Diseñar e implementar, en coordinación con organismos intermedios, mecanismos de promoción de esquemas de microcréditos.
+
+> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2008)</small>
+
+XVI. Administrar la cartera de los programas de financiamiento vigentes.
+
+> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2008)</small>
+
+XVII. Coordinar y mantener actualizado el padrón de beneficiarios de los programas de financiamiento vigentes.
+
+> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2008)</small>
+
+XVIII. Las demás que le confieren otros ordenamientos legales y aquellas que le establezca el Director General.
 
 ###### Artículo 15.
 
@@ -205,21 +229,39 @@ Corresponde a la Dirección de Desarrollo Regional:
 
 I. Promover la capacitación permanente de los emprendedores y de las micro, pequeñas y medianas empresas de la entidad.
 
-II. Asesorar y apoyar a los emprendedores y a las micro, pequeñas y medianas empresas en las gestiones para su instalación y funcionamiento, de conformidad con las disposiciones legales en la materia.
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2008)</small>
 
-III. Impulsar la participación de instituciones educativas, gobiernos municipales e instituciones empresariales, en la ejecución de los programas y acciones de capacitación a cargo del Instituto.
+II. Asesorar y apoyar a los emprendedores y a las micro, pequeñas y medianas empresas establecidas en la entidad, a fin de acceder a los programas para la creación o consolidación de sus negocios.
+
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2008)</small>
+
+III. Impulsar, con la Dirección de Innovación y Competitividad, la participación de instituciones educativas, gobiernos municipales e instituciones empresariales, en la ejecución de los programas de capacitación a cargo del Instituto.
 
 IV. Integrar los reportes, pronósticos y estadísticas inherentes a la promoción y apoyo de los emprendedores y las micro, pequeñas y medianas empresas.
 
-V. Impulsar y, en su caso, organizar ferias, exposiciones, convenciones, seminarios y demás eventos que contribuyan a promover el sector empresarial en el mercado regional, nacional e internacional.
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2008)</small>
+
+V. Participar en ferias, exposiciones, convenciones, seminarios y demás eventos que contribuyan a promover al sector empresarial en el mercado regional, estatal, nacional e internacional.
 
 VI. Coordinarse con la Dirección de Fondos de Financiamiento para la ejecución de acciones orientadas a apoyar a los emprendedores y a las micro, pequeñas y medianas empresas en la obtención de financiamiento ante las entidades de fomento, la banca comercial y de desarrollo.
 
 VII. Vincular a los emprendedores y a las micro, pequeñas y medianas empresas con los agentes económicos que impulsen su desarrollo.
 
-VIII. Promover y coordinar en las diversas regiones del Estado, los apoyos de capacitación y financiamiento que brinda el Instituto, a fin de lograr la creación, desarrollo y consolidación de los proyectos productivos de los emprendedores de la entidad.
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2008)</small>
 
-IX. Las demás que le confieren otros ordenamientos legales y aquellas que le establezca el Director General.
+VIII. Promover en las diversas regiones del Estado, los apoyos de capacitación y financiamiento que otorga el Instituto, a fin de impulsar la creación, desarrollo y consolidación de proyectos productivos de los emprendedores de la entidad.
+
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2008)</small>
+
+IX. Proponer al Director General proyectos productivos de integración regional susceptibles de ser apoyados por el Instituto.
+
+> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2008)</small>
+
+X. Difundir entre los ayuntamientos, cámaras y organismos empresariales, los programas implementados por el Instituto para apoyar a las micro, pequeñas y medianas empresas.
+
+> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2008)</small>
+
+XI. Las demás que le confieren otros ordenamientos legales y aquellas que le establezca el Director General.
 
 ###### Artículo 16.
 
@@ -257,43 +299,71 @@ XV. Actualizar permanentemente el inventario de bienes muebles e inmuebles patri
 
 XVI. Las demás que le establecen otras disposiciones legales y aquellas que le encomiende el Director General.
 
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 17.
 
 Corresponde a la Contraloría Interna:
 
-I. Elaborar y proponer a la Dirección General correspondiente de la Secretaría de la Contraloría para su aprobación, el Programa Anual de Auditorías Financieras, Operativas y Técnicas aplicables a las unidades administrativas del Organismo, así como dictar las bases generales y las normas específicas con base en los lineamientos establecidos por dicha dependencia, para su realización y ejecución.
+I. Recibir, tramitar y resolver las quejas y denuncias que se interpongan en contra de los servidores públicos.
 
-II. Establecer y aplicar el programa de control y evaluación del Organismo.
+II. Recibir y tramitar las sugerencias y reconocimientos ciudadanos.
 
-III. Planear, organizar, dirigir, controlar y evaluar el desarrollo de los trabajos establecidos en su programa de control y evaluación, de conformidad con los lineamientos que para el efecto emita la Secretaría de la Contraloría.
+III. Elaborar el Programa Anual de Control y Evaluación del órgano de control interno, conforme a las políticas, normas, lineamientos, procedimientos y demás disposiciones que al efecto se establezcan y someterlo a la consideración de la Dirección General de Control y Evaluación de la Secretaria de la Contraloría.
 
-IV. Realizar el seguimiento y evaluación de los programas y subprogramas, así como verificar el cumplimiento de las normas y políticas establecidas para el buen funcionamiento del Organismo.
+IV. Cumplir el Programa Anual de Control y Evaluación autorizado, conforme a las políticas, normas, lineamientos, procedimientos y demás disposiciones que al efecto se establezcan.
 
-V. Verificar el adecuado ejercicio del presupuesto del Organismo, atendiendo a los principios de racionalidad, austeridad y disciplina presupuestales contempladas en el Presupuesto de Egresos del Gobierno del Estado de México del ejercicio correspondiente y en las demás disposiciones aplicables.
+V. Iniciar, substanciar y resolver los procedimientos administrativos e imponer en su caso, las sanciones que correspondan a los servidores públicos del Instituto, de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
-VI. Comprobar el cumplimiento de las obligaciones derivadas de las disposiciones en materia de programación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores asignados al Organismo.
+VI. Remitir a la Dirección General de Responsabilidades de la Secretaría de la Contraloría, los expedientes en los que el interesado solicite la abstención de ser sancionado.
 
-VII. Vigilar la presentación oportuna de las declaraciones de situación patrimonial de los servidores públicos del Organismo, sujetos a esta obligación
+VII. Acordar la suspensión temporal de servidores públicos durante la substanciación del procedimiento administrativo, de acuerdo con lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, dando aviso a la autoridad correspondiente.
 
-VIII. Realizar operativos, supervisiones, revisiones, evaluaciones, auditorías y demás acciones de control y evaluación, a las unidades administrativas del Organismo, tendientes a verificar el cumplimiento de los objetivos, metas, normas y disposiciones relacionadas con los sistemas de registro y contabilidad, contratación y pago de personal, obra pública, programas de inversión, adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos asignados al organismo y dar seguimiento a la solventación, implementación o cumplimiento de las observaciones derivadas de tales acciones.
+VIII. Fincar pliegos preventivos de responsabilidad y calificar ia (sic) responsabilidad administrativa resarcitoria, pudiendo confirmarla, modificarla o cancelarla, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
-IX. Iniciar, substanciar y resolver los procedimientos administrativos disciplinarios y resarcitorios e imponer, en su caso, las sanciones que correspondan a los servidores públicos del Organismo, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+IX. Conocer, tramitar y resolver los recursos administrativos que le correspondan, de acuerdo con las disposiciones aplicables, sin menoscabo de lo dispuesto en el artículo 21 fracción XIV del Reglamento Interior de la Secretaría de la Contraloría.
 
-X. Recibir los recursos administrativos de inconformidad que se interpongan en contra de las resoluciones que emita este órgano de control interno y remitirlos a la Dirección General de Responsabilidades y Situación Patrimonial para su trámite y resolución.
+X. Realizar las acciones de control y evaluación, a fin de constatar que el Instituto observe las disposiciones aplicables en el ejercicio de los recursos federales.
 
-XI. Establecer medidas y mecanismos de control interno y vigilar su implantación y operación permanente.
+XI. Comprobar el cumplimiento de las obligaciones derivadas de las disposiciones en materia de programación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores asignados al Organismo.
 
-XII. Dar vista al Ministerio Público cuando en el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa o en el ejercicio de sus facultades de control y evaluación, advierta que existen hechos o elementos que impliquen la probable comisión de un delito.
+XII. Proponer y acordar con la unidad administrativa auditada, las acciones de mejora derivadas de las acciones de control y evaluación practicadas, tendentes a fortalecer el control interno y la gestión del Instituto, así como vigilar su implementación o solventación.
 
-XIII. Intervenir para efectos de verificación, en los actos de entrega y recepción de las unidades administrativas del Organismo, en términos de la normatividad aplicable.
+XIII. Verificar y realizar el seguimiento a la solventación de las observaciones derivadas de las acciones de control y evaluación, así como de las realizadas por auditores externos y, en su caso, por otras instancias de fiscalización.
 
-XIV. Informar a la Secretaría de la Contraloría el resultado de su actuación y sugerir al titular del Organismo la instrumentación de lineamientos complementarios en materia de control.
+XIV. Vigilar que el Instituto cumpla las disposiciones jurídicas y administrativas aplicables en sus diferentes ámbitos, mediante operativos, supervisiones, revisiones, evaluaciones, auditorias y demás acciones de control y evaluación.
 
-XV. Informar a la Secretaría de la Contraloría sobre el resultado de las acciones, comisiones o funciones que le encomiende.
+XV. Elaborar diagnósticos del Instituto, con base en las acciones de control y evaluación realizadas.
 
-XVI. Verificar y dar seguimiento a las acciones que realice el Organismo, para solventar, implementar o cumplir las observaciones, recomendaciones o salvedades derivadas de la práctica de auditorías externas.
+XVI. Participar en los procesos de entrega y recepción de las unidades administrativas del Instituto, verificando su apego a la normatividad correspondiente.
 
-XVII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario de la Contraloría.
+XVII. Promover el fortalecimiento de mecanismos de control de la gestión del Instituto e impulsar el autocontrol y la autoevaluación en el cumplimiento de planes, programas, objetivos y metas, así como la mejora continua de los procesos y servicios públicos.
+
+XVIII. Expedir constancias o certificar copias de documentos existentes en sus archivos, así como de la impresión documental de datos contenidos en los sistemas informáticos de la Secretaría de la Contraloría y otros que operen con relación a los asuntos de su competencia.
+
+XIX. Ejercer, cuando así se le encomiende por la Secretaría de la Contraloría, las funciones de Comisario en el órgano de gobierno del Instituto, así como en los comités técnicos de sus fideicomisos.
+
+XX. Dar vista a la autoridad competente de los hechos que tenga conocimiento que puedan ser constitutivos de delitos e instar al área facultada del Instituto para formular, cuando así se requiera, las querellas a que hubiere lugar.
+
+XXI. Realizar ante las diversas instancias jurisdiccionales, la defensa jurídica de las resoluciones que emita.
+
+XXII. Vigilar la presentación oportuna de manifestación de bienes por alta, baja y anualidad de los servidores públicos del Organismo, sujetos a esta obligación.
+
+XXIII. Proponer a la Dirección General de Control y Evaluación que corresponda y a la Dirección General de Responsabilidades, las políticas, normas, lineamientos, procedimientos y demás disposiciones que mejoren las acciones de control, evaluación y responsabilidades.
+
+XXIV. Brindar apoyo en la realización de las funciones que tienen encomendadas las unidades administrativas de la Secretaría de la Contraloría y los demás órganos de control interno.
+
+XXV. Solicitar a las unidades administrativas del Instituto la información necesaria para cumplir con sus atribuciones.
+
+XXVI. Proporcionar, en el ámbito de su competencia, la información que le sea solicitada por las unidades administrativas de la Secretaría de la Contraloría y los órganos de control interno para el cumplimiento de sus funciones.
+
+XXVII. Informar a la Secretaría de la Contraloría el resultado de su actuación y de las acciones, comisiones o funciones que le encomiende.
+
+XXVIII. Verificar el adecuado ejercicio del presupuesto del Instituto, atendiendo los principios de racionalidad, austeridad y disciplina presupuestaria que establece la normatividad aplicable.
+
+XXIX. Solicitar el apoyo de las unidades administrativas de la Secretaría de la Contraloría, cuando así se requiera.
+
+XXX. Las demás que le señalen otras disposiciones legales y aquellas que le encomiende el Secretario de la Contraloría.
 
 ### CAPITULO IV. DE LA SUPLENCIA DE LOS TITULARES
 
@@ -324,3 +394,13 @@ LIC. ALFREDO DEL MAZO MAZA
 DIRECTOR GENERAL DEL INSTITUTO MEXIQUENSE DEL EMPRENDEDOR Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 9 DE DICIEMBRE DE 2008.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igualo menor jerarquía que se opongan a las establecidas en el presente Acuerdo.
