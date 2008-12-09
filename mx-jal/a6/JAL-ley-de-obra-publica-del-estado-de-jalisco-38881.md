@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-obra-publica-del-estado-de-jalisco-38881"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-07"
-last_updated: "2005-03-10"
+last_updated: "2008-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -971,7 +971,7 @@ VII. Se presenten circunstancias extraordinarias que requieran con urgencia de u
 
 VIII. Se declare desierta una licitación en segunda convocatoria o un concurso en primera invitación;
 
-IX. Como consecuencia de caso fortuito o fuerza mayor, peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado, o no sea posible contratar la obra mediante licitación pública en el tiempo requerido par atender la eventualidad;
+IX. Como consecuencia de caso fortuito o fuerza mayor, peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado, o no sea posible contratar la obra mediante licitación pública en el tiempo requerido par (sic) atender la eventualidad;
 
 X. Existan circunstancias que puedan provocar pérdidas o costos adicionales importantes, debidamente justificados; o
 
@@ -1435,15 +1435,17 @@ II. Reúna las condiciones legales, técnicas y económicas requeridas por el en
 
 III. Garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 161.
 
 Si dos o más proposiciones satisfacen la totalidad de los requerimientos solicitados por el ente público en los términos del artículo anterior, el contrato se adjudica a quien presente la proposición solvente del costo evaluado más bajo lo que no significa necesariamente la del menor precio.
 
-Si existan dos o más proposiciones similares, el contrato debe adjudicarse de acuerdo con los siguientes criterios de preferencia, aplicados en este orden:
+Si existen dos o más proposiciones similares, el contrato debe adjudicarse de acuerdo con los siguientes criterios de preferencia, aplicados en este orden:
 
-I. Al licitante local sobre el nacional, o a éste sobre el extranjero; y
+I. Al licitante local sobre el nacional, o a éste sobre el extranjero, y
 
-II. Al licitante registrado en la cámara que corresponda de acuerdo a su actividad, sobre el que no pertenece a ella.
+II. Al licitante registrado en la cámara, colegio de ingenieros civiles o colegio de arquitectos del estado de Jalisco que corresponda de acuerdo con su actividad, sobre el que no pertenece a ellos.
 
 Se consideran similares las propuestas cuando la diferencia entre sus costos sea inferior al cinco por ciento.
 
@@ -2361,8 +2363,14 @@ LIC. HÉCTOR PÉREZ PLAZOLA
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 10 DE MARZO DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 9 DE DICIEMBRE DE 2008.
+
+PRIMERO. Se derogan todas las disposiciones contrarias al presente decreto.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
