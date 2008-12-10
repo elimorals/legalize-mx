@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-y-promocion-al-turismo-del-estado-de-23771"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-27"
-last_updated: "2002-05-22"
+last_updated: "2008-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE DESARROLLO Y PROMOCION AL TURISMO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 10 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de febrero de 2002.
 
@@ -680,3 +682,15 @@ RÚBRICAS.
 P.O. 22 DE MAYO DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de publicación oficial del Gobierno del Estado.
+
+P.O. 10 DE DICIEMBRE DE 2008.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos".
+
+Artículo Segundo.- Se abroga la Ley de Desarrollo y Promoción al Turismo en el Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" número 4171, de fecha 28 de febrero del año 2000, así como todas aquellas disposiciones que se opongan a la presente Ley.
+
+Artículo Tercero.- Remítase la presente ley al Titular del Poder Ejecutivo Estatal para los efectos constitucionales correspondientes.
+
+Artículo Cuarto.- El Ejecutivo del Estado deberá adecuar las disposiciones reglamentarias relativas a la presente Ley, en un plazo de 90 días hábiles contados a partir del inicio de la vigencia de la presente ley, mientras tanto seguirán vigentes los ordenamientos aplicables, siempre y cuando no se opongan a lo establecido a la presente ley.
+
+Artículo Quinto.- Los asuntos que se encuentren en trámite al momento de ser publicada la presente Ley de Turismo del Estado de Morelos, serán resueltos conforme a lo dispuesto por la ley que se abroga.
