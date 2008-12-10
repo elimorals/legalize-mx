@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-equilibrio-ecologico-y-proteccion-al-ambiente-del-45254"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-08"
-last_updated: "2005-06-08"
+last_updated: "2008-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 8 de junio de 2005.
 
@@ -1765,6 +1765,10 @@ IV.- Los medios de financiamiento de las acciones consideradas en los programas;
 
 V.- Los mecanismos para fomentar la vinculación entre los programas municipales correspondientes, a fin de crear sinergias.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 150 bis.- Corresponde al Ejecutivo del Estado, por conducto de la Secretaría, promover que en la Entidad se privilegie la distribución y utilización de bolsas reciclables o biodegradables.
+
 ### CAPÍTULO IX. DE LA PREVENCIÓN Y MANEJO INTEGRAL DE RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL
 
 ###### ARTÍCULO 151.
@@ -2487,6 +2491,26 @@ Se derogan todas aquellas disposiciones legales en el Estado de Chihuahua que se
 
 Los procedimientos y recursos administrativos relacionados con las materias de esta Ley, que se hubieren iniciado bajo la vigencia de la que se abroga, se tramitarán y resolverán conforme a las disposiciones de dicha Ley.
 
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Urbano y Ecología, implementará la política ambiental correspondiente, para el cumplimiento paulatino y eficaz de dicha disposición.
+
+> <small>(F. DE E., P.O. 17 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO TERCERO.
+
+La Sexagésima Segunda Legislatura del H. Congreso del Estado, tiene a bien exhortar de manera atenta y respetuosa a la Cámara de Diputados del H. Congreso de la Unión, para que estudie la posibilidad de legislar con la finalidad de que prohíba el uso y distribución de bolsas de polietileno o con derivados del petróleo, dada la contaminación que generan al medio ambiente.
+
+> <small>(F. DE E., P.O. 17 DE JUNIO DE 2009)</small>
+
+###### ARTÍCULO CUARTO.
+
+La Sexagésima Segunda Legislatura del H. Congreso del Estado, tiene a bien exhortar de manera atenta y respetuosa a la Cámara Nacional de Comercio, Servicios y Turismo de Chihuahua y a la Confederación Patronal de la República Mexicana en Chihuahua, para que promuevan entre sus agremiados el uso y distribución de bolsas reciclables o biodegradables, como contribución a la disminución de la contaminación que producen las bolsas de polietileno o con derivados del petróleo.
+
 ###### ARTÍCULO QUINTO.
 
 El Ejecutivo del Estado expedirá los reglamentos a que se refiere esta Ley, en un plazo que no excederá de 180 días hábiles, contados a partir de su entrada en vigor.
@@ -2516,3 +2540,7 @@ LIC. JOSE REYES BAEZA TERRAZAS.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE DICIEMBRE DE 2008.
