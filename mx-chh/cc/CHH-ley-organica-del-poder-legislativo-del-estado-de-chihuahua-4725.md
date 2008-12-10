@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2008-11-08"
+last_updated: "2008-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -695,7 +695,9 @@ Con el objeto de que las comisiones programen sus trabajos, los presidentes de l
 
 Asimismo, elaborarán un programa de actividades a desarrollar durante los recesos, el cual harán del conocimiento del Presidente de la Diputación Permanente.
 
-Las comisiones se reunirán cuando menos dos veces al mes durante los períodos ordinarios y por lo menos una al mes en los recesos, previa convocatoria de su presidente y secretario o del Presidente del Congreso.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2008)</small>
+
+Las Comisiones se reunirán para la atención y desahogo de sus asuntos, en la medida en que su carga legislativa así lo amerite, previa convocatoria de su Presidente y Secretario o del Presidente del Congreso.
 
 > <small>(REFORMADO, P.O. 30 DE JULIO DE 2003)</small>
 
@@ -845,7 +847,7 @@ Las comisiones, durante los recesos, continuarán el estudio de los asuntos pend
 
 Los dictámenes que se produzcan sobre asuntos que no llegue a conocer la Legislatura que los recibió, quedarán a disposición de la siguiente con el carácter de proyectos prioritarios.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2008)</small>
 
 ###### Art. 62.
 
@@ -871,51 +873,39 @@ IX. De Derechos Humanos;
 
 X. De Obras y Servicios Públicos;
 
-XI. De Trabajo y Previsión Social;
+XI. De Ecología y Medio Ambiente;
 
-XII. De Pueblos y Comunidades Indígenas;
+XII. De Trabajo y Previsión Social;
 
 XIII. De Desarrollo Social;
 
-XIV. De Desarrollo Municipal y Fortalecimiento del Federalismo;
+XIV. De Pueblos y Comunidades Indígenas;
 
-XV. De Asuntos Fronterizos;
+XV. De Desarrollo Municipal y Fortalecimiento del Federalismo;
 
-XVI. De Participación Ciudadana;
+XVI. De Asuntos Fronterizos;
 
-XVII. De Desarrollo Forestal;
+XVII. De Participación Ciudadana;
 
-XVIII. De Desarrollo Agrícola;
+XVIII. De Desarrollo Rural Integral;
 
-XIX. De Desarrollo Ganadero;
+XIX. De Salud;
 
-XX. De Salud;
+XX. De Desarrollo Comercial, Industrial y Turístico;
 
-XXI. De Desarrollo Comercial;
+XXI. De Juventud y Deporte, y
 
-XXII. De Desarrollo Industrial;
+XXII. De Equidad, Género y Familia.
 
-XXIII. De Juventud y Deporte;
-
-XXIV. De Equidad, Género y Familia;
-
-XXV. De Atención a Grupos Vulnerables;
-
-XXVI. De Desarrollo Económico para la Sierra Tarahumara;
-
-XXVII. De Ecología y Medio Ambiente;
-
-XXVIII. De Turismo;
-
-XXIX. De Vivienda;
-
-XXX. De la Niñez y Adolescencia; y
-
-XXXI. Del Agua y Recursos Naturales.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
 
 Las Comisiones tendrán a su cargo las cuestiones relacionadas con la materia propia de su denominación.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
+
 La Junta de Coordinación Parlamentaria podrá proponer al Pleno el aumento o la disminución del número de Comisiones.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
 
 En su integración, las Comisiones de Dictamen Legislativo reflejarán la composición plural del Congreso. Los Diputados solamente podrán formar parte de hasta cinco Comisiones, pero presidir sólo una.
 
@@ -2238,3 +2228,13 @@ Esta reforma entrará en vigor a partir del día siguiente al de su publicación
 P.O. 8 DE NOVIEMBRE DE 2008.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor inmediatamente después de su aprobación, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Junta de Coordinación Parlamentaria, con fundamento en lo dispuesto por el artículo 42, fracciones II y III de la Ley Orgánica del Poder Legislativo, deberá proponer al Pleno el proyecto de Decreto por el que se reconformen las Comisiones de Dictamen Legislativo y, en su caso, a la Comisión de Fiscalización y Comités. Así mismo, deberá proponer al Presidente del H. Congreso del Estado el proyecto de returno de los asuntos asignados a las comisiones desaparecidas, en aquellas en que hayan quedado subsumidas, o bien, en donde por su naturaleza correspondan ser asignados.
