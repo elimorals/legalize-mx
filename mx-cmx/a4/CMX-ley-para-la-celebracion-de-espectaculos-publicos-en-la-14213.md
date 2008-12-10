@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-celebracion-de-espectaculos-publicos-en-la-14213"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-13"
-last_updated: "2008-01-14"
+last_updated: "2008-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14213&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-12-27"
 
 LEY PARA LA CELEBRACION DE ESPECTACULOS PUBLICOS EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 13 de enero de 1997.
 
@@ -213,6 +213,14 @@ XV. Dar aviso a las autoridades competentes, cuando detecten la comisión de alg
 XVI. Vigilar que durante la celebración del Espectáculo público se conserve el orden y seguridad de los asistentes y de los empleados del Establecimiento mercantil o del lugar en el que se presente, así como coadyuvar a que con su realización no se altere el orden público en las zonas vecinas al mismo;
 
 XVII. Contar con el Programa Especial de Protección Civil a que alude la Ley de Protección Civil para el Distrito Federal y su Reglamento, cuando éste se requiera para la celebración del Espectáculo público de que se trate;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 10 DE DICIEMBRE DE 2008)</small>
+
+XVII Bis. Informar al espectador de manera escrita, visual y/o sonora al inicio de la celebración de cada Espectáculo Público, cualquiera que sea su giro, sobre las medidas de seguridad en materia de protección civil con las que cuenta el establecimiento mercantil o el lugar en el que se desarrolla, así como avisar sobre la señalización de salidas de emergencia, las zonas de seguridad y los procedimientos a seguir en caso de que ocurra una emergencia, siniestro o desastre.
+
+Se deberán tomar las medidas específicas que establece la Ley de Protección Civil para el Distrito Federal, tratándose de personas con discapacidad y de la tercera edad;
 
 XVIII. Cumplir con los requerimientos y obligaciones que señalen los Reglamentos correspondientes para el Espectáculo público de que se trate;
 
@@ -986,9 +994,13 @@ Se sancionará con el equivalente de 50 a 100 días de salario mínimo general v
 
 Se sancionará con el equivalente de 100 a 200 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 12 fracciones II, IV, VI, X, XIII, XVIII, XX, XXI, XXIII, XXIV, XXV y XXVI; 16, 35 fracciones I, II y III; 44, 45, 47, 49 fracciones I, II y IV; 50, 51, 53 y 58 último párrafo, de la Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 10 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 82.
 
-Se sancionará con el equivalente de 200 a 400 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 12 fracciones I, VII, VIII, XI, XIV, XV, XVI, XIX y XXII; 15, 17, 18, 33, 37 fracción I; 48, 54, 55 y 60 de la Ley.
+Se sancionará con el equivalente de 200 a 400 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 12 fracciones I, VII, VIII, XI, XIV, XV, XVI, XVII Bis, XIX y XXII; 15, 17, 18, 33, 37 fracción I; 48, 54, 55 y 60 de la Ley.
 
 ###### Artículo 83.
 
@@ -1181,3 +1193,11 @@ G.O. 14 DE ENERO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 10 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor a los 120 días siguientes a su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El Gobierno del Distrito Federal deberá expedir la reglamentación y procedimientos correspondientes a la entrada en vigor de la presente reforma.
+
+TERCERO. Publíquese para su mayor difusión en el Diario Oficial de la Federación.
