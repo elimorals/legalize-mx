@@ -4,7 +4,7 @@ identifier: "BCS-ley-que-regula-el-almacenaje-distribucion-venta-y-consumo-24773
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-07"
-last_updated: "2002-01-07"
+last_updated: "2008-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY QUE REGULA EL ALMACENAJE, DISTRIBUCION, VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 7 de enero de 2002.
 
@@ -155,17 +155,21 @@ XXXI. Venta al mayoreo.- Es la que realizan quienes tienen licencia de distribuc
 
 ### CAPITULO II. DE LAS AUTORIDADES MATERIA DE ESTA LEY
 
+REFORMADO PRIMER PARRAFO, B.O. 10 DE DICIEMBRE DE 2008)
+
 ###### Artículo 5o.
 
-Son autoridades materia de esta ley:
+Son Autoridades en materia de esta Ley:
 
-I. El Gobierno del Estado.
+I.- (DEROGADA, B.O. 10 DE DICIEMBRE DE 2008)
 
 II. Los Ayuntamientos.
 
 III. Los Consejos Municipales de giros restringidos.
 
-El Gobierno del Estado y los Ayuntamientos vigilarán coordinadamente el exacto cumplimiento de las disposiciones de esta Ley. Además las autoridades de salud, en base a las Leyes y Reglamentos realizarán los trámites pertinentes de acuerdo a su ámbito de competencia.
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 2008)</small>
+
+Los ayuntamientos vigilarán el exacto cumplimiento de las disposiciones de esta ley. Además, las autoridades de salud, con base en las leyes y reglamentos aplicables, realizarán los trámites pertinentes de acuerdo a su ámbito de competencia.
 
 ###### Artículo 6o.
 
@@ -297,9 +301,11 @@ Se prohibe estrictamente, la venta y consumo de bebidas de contenido alcohólico
 
 ### CAPITULO V. DE LOS DIAS Y HORARIO DE FUNCIONAMIENTO
 
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 19.
 
-Los establecimientos referidos en el artículo 11 de la presente ley, se sujetarán al horario que determinen los Ayuntamientos, el cual no podrá exceder de las dos de la mañana sin excepción o prorroga alguna.
+Los establecimientos referidos en el artículo 11 de la presente ley, se sujetarán al horario que determinen los Ayuntamientos, el cual no podrá exceder de las dos de la mañana.
 
 ###### Artículo 20.
 
@@ -315,7 +321,7 @@ I. Los días que se determinen conforme a la legislación electoral federal y es
 
 II. Los que en forma expresa determine el Ayuntamiento por acuerdo de Cabildo o a través de sus reglamentos, para casos de riesgo, emergencia o por causa de seguridad pública.
 
-III. Los que en forma expresa y para fechas y plazos determinados, decrete el Titular del Poder Ejecutivo del Estado, en los términos de la fracción anterior.
+III. (DEROGADA, B.O. 10 DE DICIEMBRE DE 2008)
 
 ### CAPITULO V (SIC). DE LA UBICACION DE LOS ESTABLECIMIENTOS
 
@@ -519,9 +525,11 @@ Para la revocación de licencias se seguirá el procedimiento establecido en la 
 
 ### CAPITULO XI. VISITAS DE INSPECCION
 
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 42.
 
-El personal facultado para realizar visitas de inspección a los establecimientos en los que se almacenen, distribuyan, vendan o consuman bebidas alcohólicas, tendrán carácter de inspectores y dependerán del Gobierno del Estado y del Ayuntamiento.
+El personal facultado para realizar las visitas de inspección a los establecimientos en los que se almacenen, distribuyan, vendan o consuman bebidas alcohólicas, tendrán carácter de inspectores y dependerán del ayuntamiento correspondiente.
 
 ###### Artículo 43.
 
@@ -573,9 +581,11 @@ VIII. Día y hora del término de la diligencia.
 
 IX. Constancia en caso de que se negaran a firmar quienes intervengan.
 
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 50.
 
-Se entregará una copia del acta levantada al propietario o encargado del establecimiento en donde se realizó la inspección, original a la autoridad Municipal y copia a la autoridad Estatal.
+Se entregará una copia del acta levantada al propietario o encargado del establecimiento en donde se realizó la inspección y la autoridad municipal conservará la original.
 
 ### CAPITULO XII. DEL PROCEDIMIENTO PARA DECRETAR SANCIONES
 
@@ -631,7 +641,7 @@ Si la resolución decreta la sanción de multa, ésta se cubrirá en la 0forma (
 
 Cuando por resolución se dicte la sanción de clausura temporal o definitiva del establecimiento, ésta solo se podrá levantar previo el pago de los adeudos fiscales que no se hayan cubierto, en los casos siguientes:
 
-I. Cuando así lo disponga el Ejecutivo Estatal.
+I. (DEROGADA, B.O. 10 DE DICIEMBRE DE 2008)
 
 II. Cuando el local sea destinado para casa habitación y reclamado por el propietario.
 
@@ -681,7 +691,7 @@ Una vez hecho valer el recurso de inconformidad, las autoridades señaladas debe
 
 ###### Artículo 70.
 
-El Ayuntamiento tiene la obligación de remitir copia de todo lo actuado a la autoridad Estatal correspondiente.
+(DEROGADO, B.O. 10 DE DICIEMBRE DE 2008)
 
 T R A N S I T O R I O S :
 
@@ -710,3 +720,15 @@ C. LIC. LEONEL EFRAÍN COTA MONTAÑO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Los ayuntamientos del Estado de Baja California Sur, deberán en lo conducente, adecuar sus disposiciones reglamentarias derivadas de la Ley que Regula el Almacenaje, Distribución, Venta y Consumo de Bebidas Alcohólicas en el Estado de Bajo California Sur, en un plazo que no excederá de los 60 días hábiles, contados a partir de la entrada en vigor del presente decreto.
