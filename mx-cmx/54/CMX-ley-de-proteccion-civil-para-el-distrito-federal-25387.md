@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-civil-para-el-distrito-federal-25387"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-23"
-last_updated: "2007-11-08"
+last_updated: "2008-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25387&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-05-07"
 
 LEY DE PROTECCION CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de julio de 2002.
 
@@ -864,6 +864,18 @@ En la primera sesión ordinaria de los Consejos Delegacionales de Protección Ci
 
 Los promotores, organizadores o responsables de la realización de actividades o espectáculos públicos de afluencia masiva en áreas o inmuebles diferentes a su uso habitual, deberán presentar un programa especial de protección civil, acorde con el diagnóstico de riesgo y vulnerabilidad, en los términos dispuestos en el Reglamento de esta Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 10 DE DICIEMBRE DE 2008)</small>
+
+Asimismo, informar al espectador de manera escrita, visual y/o sonora al inicio de la celebración de cada Espectáculo Público, cualquiera que sea su giro, sobre las medidas de seguridad en materia de protección civil con las que cuenta el establecimiento mercantil o el lugar en el que se desarrolla, así como avisar sobre la señalización de salidas de emergencia, las zonas de seguridad y los procedimientos a seguir en caso de que ocurra una emergencia, siniestro o desastre, de lo contrario, se sancionará conforme lo establece la Ley para la Celebración de Espectáculos Públicos del Distrito Federal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 10 DE DICIEMBRE DE 2008)</small>
+
+Se deberán tomar las medidas específicas que establece esta Ley, tratándose de personas con discapacidad y de la tercera edad.
+
 > <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 45.
@@ -1445,3 +1457,11 @@ G.O. 8 DE NOVIEMBRE DE 2007.
 DECRETO QUE REFORMA LOS ARTICULOS 6 FRACCION XII, 7 FRACCION II Y 69 Y SE ADICIONA UNA FRACCION X AL ARTICULO 11.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 10 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor a los 120 días siguientes a su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El Gobierno del Distrito Federal deberá expedir la reglamentación y procedimientos correspondientes a la entrada en vigor de la presente reforma.
+
+TERCERO. Publíquese para su mayor difusión en el Diario Oficial de la Federación.
