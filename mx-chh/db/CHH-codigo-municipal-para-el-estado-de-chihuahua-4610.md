@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2008-06-21"
+last_updated: "2008-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2008.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1275,6 +1275,10 @@ Los Ayuntamientos expedirán oportunamente las cartas y manuales de organizació
 
 Los empleados y servidores públicos municipales en general, están obligados a participar en los cursos y procesos de capacitación a que sean convocados por la Administración Municipal. La administración municipal a través de la Oficialía Mayor elaborará los programas, esquemas, manuales y demás instrumentos necesarios para impartir la capacitación y los esfuerzos de profesionalización.
 
+(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2008) (F. DE E., P.O. 24 DE DICIEMBRE DE 2008)
+
+ARTICULO 60 BIS.- Los titulares de cada dependencia a que refiere el artículo anterior, tendrán fe pública respecto a la certificación o constancia que expidan de los documentos y archivos que obren en su poder, con motivo de sus atribuciones. Las certificaciones que expidan en ejercicio de esta facultad, serán bajo su más estricta responsabilidad, por lo que cualquier uso indebido de ésta, será motivo de sanción penal, civil o administrativa, según sea el caso.
+
 ###### ARTICULO 61.
 
 Para ser funcionario municipal se requiere:
@@ -1596,6 +1600,22 @@ V.- Dirigir y vigilar, en el ámbito de su competencia, el cumplimiento de las l
 VI.- Las demás, que le señalen expresamente otras leyes o reglamentos.
 
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2004)</small>
+
+ARTICULO 74 BIS.- Son atribuciones del Director o Jefe de Departamento de Ecología, las siguientes:
+
+I.- Participar en la creación y administración de áreas naturales protegidas de conformidad con las disposiciones jurídicas aplicables;
+
+II.- Promover la aplicación de la política ambiental del Municipio en congruencia y coordinación con las disposiciones legales, los planes y programas que se establezcan por la Federación, con la participación que corresponda a otras dependencias del Poder Ejecutivo Estatal;
+
+III.- Fomentar la elaboración de programas especiales para preservar, restaurar y fortalecer el equilibrio ecológico y la protección al ambiente, así como disminuir la fragilidad ambiental de los ecosistemas, propiciando el aprovechamiento y uso sustentable del medio ambiente y los recursos naturales;
+
+IV.- Proponer ante las instancias gubernamentales acciones y medidas necesarias de protección al ambiente con el fin de preservar, restaurar y fortalecer el equilibrio ecológico y disminuir la fragilidad ambiental de los ecosistemas del Municipio, en concordancia con las disposiciones de carácter Estatal y Federal.
+
+V.- Promover en coordinación con las instancias correspondientes el cumplimiento cabal de la normatividad ambiental y la aplicación de criterios de protección, restauración y aprovechamiento sustentable de los recursos naturales y de prevención y disminución de la contaminación ambiental;
+
+VI.- Promover la celebración de convenios de colaboración entre los distintos órdenes de gobierno para la realización de acciones en materia de ecología.
+
+VII.- Las demás, que le señalen expresamente otras leyes y reglamentos.
 
 ###### ARTICULO 74 Bis.
 
@@ -2431,7 +2451,7 @@ I.-Predios urbanos.
 
 LIMITES DE RANGO DE LA BASE DEL IMPUESTO (Valor catastral en moneda nacional).TASA DE RANGO (Aplicable sobre la porción del valor de la base que exceda del límite inferior del rango de que se trate). CUOTA FIJA EN MONEDA NACIONAL (Suma fija a pagar).
 
-0 2 al millar o
+0 2 al millar 0
 
 183,240 3 al millar 366.48
 
@@ -2493,9 +2513,19 @@ Toda estipulación privada, relativa al pago del impuesto, que se oponga a lo di
 
 La autoridad municipal está obligada a proporcionar al contribuyente, información relativa al impuesto predial respecto a cualquier predio.
 
-### CAPITULO IV-BIS. TASA ADICIONAL PARA LOS IMPUESTOS PREDIAL Y SOBRE TRASLACION DE DOMINIO DE BIENES INMUEBLES
+### CAPITULO IV BIS. TASA ADICIONAL PARA LOS IMPUESTOS PREDIAL Y SOBRE TRASLACION DE DOMINIO DE BIENES INMUEBLES
 
 > <small>(ADICIONADO, P.O. 25 DE MAYO DE 2002)</small>
+
+ARTICULO 165 BIS.- Los Contribuyentes de los impuestos Predial y Sobre traslación de Dominio de Bienes Inmuebles, establecidos respectivamente en los Capítulos III y IV de este Título, pagarán una tasa adicional del 4% aplicable al monto que deberán enterar por dichos impuestos.
+
+La tasa adicional se pagará en la misma forma y términos en que deban pagarse los impuestos mencionados y su rendimiento se destinará al sostenimiento de la Universidad Autónoma de Chihuahua y de la Universidad Autónoma de Ciudad Juárez, por partes iguales.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
+Una vez recaudados los ingresos por este concepto, las autoridades municipales concentrarán los mismos, a más tardar el día quince del mes siguiente a su recaudación, en la Secretaría de Finanzas y Administración del Gobierno del Estado, dependencia que a su vez los transferirá a dichas universidades, en la proporción mencionada, a más tardar el día último del mismo mes.
+
+En caso de que cualquiera de los días antes indicados sea inhábil, la concentración o la transferencia se efectuará el día hábil inmediato siguiente.
 
 #### SECCION I. OBJETO, SUJETO, BASE Y TASA
 
@@ -3639,9 +3669,9 @@ IMPUESTO CAUSADO CUOTA LIMITE TASA
 
 DEL RANGO
 
-De 0.01 gasta 336.88 0 0 .002
+De 0.01 hasta 336.88 0 0 .002
 
-De 336.89 hasta 842.20 336.88 16,440 .003
+De 336.89 hasta 842.20 336.88 168,440 .003
 
 De 842.21 hasta 1,852.84 842.20 336,880 .004
 
@@ -3872,3 +3902,7 @@ P.O. 21 DE JUNIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE DICIEMBRE DE 2008.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
