@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2008-11-15"
+last_updated: "2008-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2008.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1353,15 +1353,13 @@ DEL GOBERNADOR DEL ESTADO.
 
 Para poder ser electo Gobernador Constitucional del Estado, se requiere:
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2008)</small>
 
-I.- Ser ciudadano mexicano por nacimiento, chihuahuense, en pleno goce de sus derechos, nativo del Estado y vecino del mismo con residencia efectiva de dos años inmediatamente anteriores al día de la elección.
+I.- Ser ciudadano mexicano por nacimiento, chihuahuense, en pleno goce de sus derechos, nativo del Estado o con residencia efectiva en el mismo no menor de cinco años, inmediatamente anteriores al día de la elección.
 
-Los ciudadanos que no sean nativos del Estado, podrán ser elegibles a este cargo si reúnen los demás requisitos y su residencia efectiva en la Entidad es de diez años inmediatamente anteriores a la fecha de la elección.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
-
-II.- Tener más de treinta años de edad y menos de setenta al día de la elección.
+II.- Tener, cuando menos, treinta años cumplidos y menos de setenta al día de la elección.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -3434,3 +3432,9 @@ El presente Decreto, por lo que se refiere a la reforma a la Constitución Polí
 P.O. 15 DE NOVIEMBRE DE 2008.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+
+P.O. 10 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, sin necesidad de agotar el trámite del artículo 202 de la Constitución Política del Estado, por ser una adecuación a la Constitución Federal, conforme al último párrafo del referido precepto.
