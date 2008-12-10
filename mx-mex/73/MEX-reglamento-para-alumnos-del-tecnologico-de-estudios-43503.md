@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-alumnos-del-tecnologico-de-estudios-43503"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-02"
-last_updated: "2005-02-02"
+last_updated: "2008-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO PARA ALUMNOS DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE IXTAPALUCA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la Sección Segunda de la Gaceta de Gobierno del Estado de México, el miércoles 2 de febrero de 2005.
 
@@ -85,11 +85,11 @@ II. Tecnológico, al Tecnológico de Estudios Superiores de Ixtapaluca;
 
 III. Director, al Director del Tecnológico de Estudios Superiores de Ixtapaluca;
 
-IV. Subdirección, a la Subdirección Académica del Tecnológico de Estudios Superiores de Ixtapaluca;
+IV. Subdirección, a la Subdirección Académica del Tecnológico de Estudios Superiores de Ixtapaluca.
 
-V. Consejo, al Consejo Consultivo Académico del Tecnológico de Estudios Superiores de Ixtapaluca;
+V. Consejo, al Consejo Consultivo Académico del Tecnológico de Estudios Superiores de Ixtapaluca.
 
-VI. Comisión, a la Comisión de Honor y Justicia del Tecnológico de Estudios Superiores de Ixtapaluca;
+VI. Comisión, a la Comisión de Honor y Justicia del Tecnológico de Estudios Superiores de Ixtapaluca.
 
 VII. División, a las Divisiones de las carreras del Tecnológico de Estudios Superiores de Ixtapaluca;
 
@@ -209,9 +209,9 @@ Así mismo deberán observar y ajustarse a lo dispuesto por La Ley General de Ed
 
 La admisión de los aspirantes al Tecnológico a través de la Subdirección Académica se hará de acuerdo a los resultados obtenidos en el proceso de selección y con base a la siguiente prioridad:
 
-I. Provenientes de escuelas oficiales ubicadas en el Municipio de Ixtapaluca;
+I. Provenientes de escuelas oficiales ubicadas en el Municipio de Ixtapaluca.
 
-II. Provenientes de escuelas oficiales ubicadas en el Estado de México;
+II. Provenientes de escuelas oficiales ubicadas en el Estado de México.
 
 III. Provenientes de escuelas ubicadas en el Estado de México que cuenten con registro y reconocimiento de la Secretaría de Educación Cultura y Bienestar Social;
 
@@ -221,9 +221,7 @@ V. Provenientes de escuelas ubicadas en otras Entidades Federativas del País, q
 
 VI. Provenientes de escuelas del extranjero; en este caso, el Tecnológico se reserva el derecho de admisión y revisión de la documentación que presenten para acreditar sus estudios, la que se sujetará a los procedimientos de revalidación y equivalencia que se establezcan, de conformidad con las disposiciones relativas en materia de educación dictadas por la Secretaría de Educación Cultura y Bienestar Social.
 
-### CAPITULO III
-
-DEL SISTEMA DE CREDITOS.
+### CAPITULO III. DEL SISTEMA DE CREDITOS
 
 ###### Artículo 23.
 
@@ -239,9 +237,7 @@ En el caso de las Residencias Profesionales, éstas se sujetan al Reglamento par
 
 La cobertura de los planes de estudio es flexible. Se consideran cargas académicas mínima, normal y máxima para los alumnos, quienes en base al sistema de créditos, pueden cursar menos asignaturas con respecto a la carga normal ó adelantar materias, de acuerdo a su propio ritmo y circunstancia, con excepción del primer semestre en que el alumno llevará carga normal.
 
-### CAPITULO IV
-
-DE LA INSCRIPCION.
+### CAPITULO IV. DE LA INSCRIPCION
 
 ###### Artículo 26.
 
@@ -279,9 +275,7 @@ Se entenderá que los interesados renuncian a su inscripción, cuando no se pres
 
 Ningún aspirante aceptado o alumno no reinscrito podrá asistir a los cursos que se impartan en el Tecnológico, sin antes haber cubierto los trámites y requisitos de inscripción o reinscripción en su caso; la única forma de acreditarlo será la exhibición de los comprobantes oficiales que para el caso le extenderá el Tecnológico.
 
-### CAPITULO V
-
-DE LA REINSCRIPCION.
+### CAPITULO V. DE LA REINSCRIPCION
 
 ###### Artículo 31.
 
@@ -339,9 +333,7 @@ La Junta determinará el monto de las cuotas que por derecho al concurso de admi
 
 El pago de los conceptos por derecho a examen de admisión, aportación por concepto de inscripción, credencial, reposición de credencial, constancias, trámite de titulación, y otros conceptos que autorice la Junta, deberán pagarse en la Institución Bancaria que determine el Tecnológico.
 
-### CAPITULO VII
-
-DE LAS BAJAS.
+### CAPITULO VII. DE LAS BAJAS
 
 ###### Artículo 41.
 
@@ -551,7 +543,7 @@ XIII. Abstenerse de portar, proporcionar o vender armas de fuego, punzo cortante
 
 XIV. Informar a las autoridades del Tecnológico sobre alumnos que incumplan con las obligaciones establecidas en las fracciones X, XI, XII XIII, y cualquier otra definida en este u otros ordenamientos;
 
-XV. Abstenerse de realizar manifestaciones o actos que atenten contra la moral;
+XV. Abstenerse de realizar manifestaciones o actos que atenten contra la moral.
 
 XVI. Abstenerse de llevar a cabo directa o indirectamente actos de violencia física o moral y cualquier acto hostil contra algún miembro del Tecnológico;
 
@@ -559,13 +551,21 @@ XVII. Cumplir con las medidas de seguridad al hacer uso de cualquiera de las ins
 
 XVIII. Mantener vigente su credencial, misma que es personal e intransferible, y mostrarla al ingresar al Tecnológico, así como atender las indicaciones del personal de seguridad;
 
-XIX. Respetar y promover para que se respeten sin excepción alguna, las normas que fije la Institución para el debido cumplimiento de su objeto; y
+XIX. Respetar y promover para que se respeten sin excepción alguna, las normas que fije la Institución para el debido cumplimiento de su objeto; y (sic)
 
-XX. Cumplir con todas las obligaciones que se establezcan en el presente reglamento y demás ordenamientos jurídicos del Tecnológico.
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO XI
+XX. Abstenerse de realizar cualquier tipo de conducta o manifestación que impida la impartición normal de las clases o el uso goce y disfrute de las instalaciones del Tecnológico;
 
-DE LAS SANCIONES.
+> <small>(ADICIONADA, G.G. 10 DE DICIEMBRE DE 2008)</small>
+
+XXI. Abstenerse de realizar actos que tiendan a interrumpir el desarrollo normal de las actividades académicas;
+
+> <small>(ADICIONADA, G.G. 10 DE DICIEMBRE DE 2008)</small>
+
+XXII. Cumplir con todas las obligaciones que se establezcan en el presente reglamento y demás ordenamientos jurídicos del Tecnológico.
+
+### CAPITULO XI. DE LAS SANCIONES
 
 ###### Artículo 59.
 
@@ -613,13 +613,19 @@ IX. El estado y funcionamiento mecánico del objeto que manipulaba el alumno al 
 
 La sanción consistente en la amonestación por escrito, procederá cuando el alumno cometa una falta que esté considerada por la fracciones I, II, III, V, VI, IX, XI, XIV, XVII, y XVIII del artículo 58 del presente reglamento.
 
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 64.
 
-Para la aplicación de la sanción consistente en la suspensión temporal, procederá cuando el alumno hay acumulado dos amonestaciones por escrito, es decir, contravenga reincidentemente lo dispuesto por las fracciones V, VI, IX, XI, XIV, XVII, y XVIII del artículo 58 del presente reglamento; y cuando incurra en alguna falta contemplada en las fracciones VIII y XV del artículo 58 del presente reglamento. La suspensión temporal se podrá imponer de un día hasta un semestre lectivo, de acuerdo a la gravedad de la falta a criterio del Director. Este tiempo se computará para el término de su carrera.
+Para la aplicación de la sanción consistente en la suspensión temporal, procederá cuando el alumno después de haber sido sancionado con una Amonestación, contravenga lo dispuesto por las fracciones V, VI, IX, XI, XIV, XVII, y XVIII del artículo 58; y, cuando incurra por primera ocasión en los supuestos contemplados en las fracciones VIII y XV del artículo 58.
+
+La suspensión temporal se podrá imponer de un día hasta un semestre lectivo, de acuerdo a la gravedad de la falta a criterio del Director. Este tiempo se computará para el término de su carrera.
+
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 65.
 
-El alumno será dado de baja en forma definitiva del Tecnológico cuando haya sido suspendido temporalmente en dos ocasiones o haya cometido alguna de las faltas previstas por las fracciones IV, VII, X, XIII, y XVI, del artículo 58 del presente reglamento.
+El alumno será dado de baja en forma definitiva del Tecnológico cuando después de haber sido suspendido temporalmente, reincida en alguna de las conductas que originó la aplicación de esta sanción; y cuando por primera ocasión haya cometido alguna de las faltas previstas por las fracciones IV, VII, X, XIII, XVI, XX y XXI del artículo 58 del presente reglamento.
 
 ###### Artículo 66.
 
@@ -643,9 +649,7 @@ Una vez desahogadas todas las pruebas que ofrecieren la parte querellante y el a
 
 La resolución deberá constar por escrito y expresar los hechos que la motiven, así como la referencia a las normas que se consideren violadas, debiendo notificarse personalmente al alumno involucrado.
 
-### CAPITULO XII
-
-DEL RECURSO DE REVOCACION.
+### CAPITULO XII. DEL RECURSO DE REVOCACION
 
 ###### Artículo 71.
 
@@ -692,3 +696,13 @@ ING. MARTIN CONTRERAS SOTO
 DIRECTOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE IXTAPALUCA Y SECRETARIO DE LA H. JUNTA DIRECTIVA.
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+G.G. 10 DE DICIEMBRE DE 2008.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
