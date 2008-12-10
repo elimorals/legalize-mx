@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-tribunal-unitario-de-justicia-para-58709"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-12-19"
-last_updated: "2007-12-19"
+last_updated: "2008-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de diciembre de 2007.
 
@@ -91,13 +91,21 @@ VII. Jueces especializados: Jueces de Garantía y Jueces de Juicio Oral especial
 
 ### CAPÍTULO II. DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 7.
 
-El Magistrado conocerá de los recursos de apelación, casación y revisión, de conformidad con la Ley, resolverá las recusaciones y los conflictos de competencia de los Jueces especializados y ejercerá las demás funciones que le atribuyan las leyes competentes.
+El Magistrado conocerá de los recursos de apelación, casación y revisión, previstos por la Ley; resolverá las recusaciones, excusas y los conflictos de competencia de los Jueces especializados.
+
+Tratándose de la ejecución de las sentencias que dicte el Tribunal, ejercerá las atribuciones que le señala la Ley de Justicia para Adolescentes del Estado de Morelos.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 8.
 
-El Magistrado y su suplente, serán designados por el Congreso del Estado, previa convocatoria a examen de oposición emitida para tal efecto, y durarán seis años en su encargo, pudiendo ser reelectos por única vez, por otro período igual.
+El Magistrado y su suplente, serán designados por el Congreso del Estado, previa convocatoria a examen de oposición emitida para tal efecto, y durarán seis años en su encargo, pudiendo ser reelectos, por única ocasión para un período más, hasta por ocho años, sin que por ningún motivo puedan rebasar catorce años en el cargo, y sólo podrán ser privados del cargo en los términos que establezcan la Constitución del Estado y las leyes en materia de responsabilidad de los servidores públicos.
+
+Al término de su gestión tendrán derecho a un haber por retiro, conforme lo establezca la Constitución del Estado y las leyes en la materia.
 
 ###### Artículo 9.
 
@@ -117,9 +125,13 @@ El Magistrado suplente se avocará al conocimiento de los asuntos por faltas tem
 
 El Congreso del Estado conocerá de las licencias del Magistrado por un término que no exceda de treinta días con goce de sueldo o por un término superior sin sueldo, en cuyo caso entrará en funciones el Magistrado suplente.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 13.
 
-Dentro de los primeros diez días del mes de septiembre de cada año, el Magistrado enviará al presidente del Tribunal Superior de Justicia del Estado, el informe de actividades correspondiente a las labores del período anterior.
+Dentro de los primeros diez días del mes de septiembre de cada año, el Magistrado enviará al Congreso del Estado el informe de actividades correspondiente a las labores del período anterior.
+
+De este informe remitirá copia al Presidente del Tribunal Superior de Justicia del Estado para su conocimiento.
 
 ###### Artículo 14.
 
@@ -163,9 +175,11 @@ Cuando así lo justifique una mejor y más adecuada prestación del servicio, en
 
 Los Jueces especializados serán nombrados, mediante convocatoria pública a examen de oposición, por el Magistrado titular del Tribunal Unitario y ejercerán sus funciones, previa protesta legal que otorgarán ante éste. Durarán en su encargo tres años, prorrogables únicamente por otro período igual.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 18.
 
-Los Jueces de Garantía especializados en Justicia para Adolescentes, ejercerán las funciones asignadas al juez en la etapa de investigación y etapa intermedia y los jueces de Juicio Oral especializados, aquellas relativas a la etapa de juicio y las correspondientes a la etapa de ejecución, conforme lo señala la ley.
+Los Jueces de Garantía especializados en Justicia para Adolescentes, ejercerán las funciones asignadas al juez en la etapa de investigación y etapa intermedia y los jueces de Juicio Oral especializados, aquellas relativas a la etapa de juicio, conforme lo señala la ley.
 
 ###### Artículo 19.
 
@@ -209,11 +223,15 @@ El Tribunal y los Juzgados especializados contarán con el personal auxiliar adm
 
 Las relaciones laborales entre el Tribunal, los Juzgados especializados y el personal auxiliar administrativo a su respectivo cargo, se regirán conforme a lo dispuesto por la Ley del Servicio Civil del Estado de Morelos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 24.
 
-En el Tribunal y en los Juzgados especializados deberá nombrarse un Administrador de oficina, con las siguientes atribuciones:
+El Tribunal contará con un administrador de oficina, que será nombrado por el Magistrado y tendrá a su cargo las atribuciones siguientes:
 
-I. Realizar labores de jefatura de la oficina donde estuviere asignado, en coordinación con el Juez Coordinador;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2008)</small>
+
+I. Realizar labores de jefatura de la oficina del Tribunal y de los Juzgados Especializados, en coordinación con el Magistrado y el Juez Coordinador conforme a lo que establece esta Ley y el reglamento respectivo;
 
 II. Vigilar y controlar la conducta de los servidores a su cargo, a fin de que ajusten su actuación a lo dispuesto por las leyes, y corregir las faltas de menor gravedad;
 
@@ -239,9 +257,15 @@ Para ser administrador de oficina se requiere:
 
 I. Ser mayor de veinticinco años;
 
-II. Ser licenciado en administración pública, contaduría o derecho con conocimientos de administración;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2008)</small>
 
-III. No haber sido condenado por delito doloso.
+II. Ser licenciado en administración pública, contaduría, sistemas, o derecho;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2008)</small>
+
+III. Acreditar conocimientos de administración, y
+
+IV. No haber sido condenado por delito doloso.
 
 ## TRANSITORIOS
 
@@ -296,3 +320,11 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
