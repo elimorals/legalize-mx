@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2008-06-21"
+last_updated: "2008-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2008.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -1937,7 +1937,9 @@ Si en la comisión de los delitos previstos en este Título el sujeto se valiese
 
 ###### Artículo 188.
 
-A quien incumpla con su obligación de dar alimentos a las personas que tienen derecho a recibirlos, se le impondrá de seis meses a cuatro años de prisión o de noventa a trescientos sesenta días multa. En todos los casos, se condenará al pago como reparación del daño de las cantidades no suministradas oportunamente y se podrá decretar suspensión hasta por un año de los derechos de familia.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2008)</small>
+
+A quien incumpla con su obligación de dar alimentos a las personas que tienen derecho a recibirlos, se le impondrá de seis meses a cuatro años de prisión. En todos los casos, se condenará al pago como reparación del daño de las cantidades no suministradas oportunamente y se podrá decretar suspensión hasta por un año de los derechos de familia.
 
 Para los efectos de éste Artículo, se tendrá por consumado el delito aun cuando el o los acreedores alimentarios se dejen al cuidado o reciban ayuda de un tercero.
 
@@ -3486,3 +3488,9 @@ P.O. 21 DE JUNIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
