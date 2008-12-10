@@ -1,0 +1,706 @@
+---
+title: "LEY DE TURISMO DEL ESTADO DE MORELOS"
+identifier: "MOR-ley-de-turismo-del-estado-de-morelos-65018"
+country: "mx"
+rank: "ley"
+publication_date: "2008-12-10"
+last_updated: "2008-12-10"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65018&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-mor"
+scjn_id: "65018"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "4664"
+reform_count: "23"
+scjn_last_update: "2025-11-25"
+issue_date: "2008-12-09"
+state: "MOR"
+---
+# LEY DE TURISMO DEL ESTADO DE MORELOS
+
+LEY DE TURISMO DEL ESTADO DE MORELOS
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de diciembre de 2008.
+
+DR. MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
+
+Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
+
+LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
+
+.
+
+Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
+
+LEY DE TURISMO DEL ESTADO DE MORELOS
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES Y DEFINICIONES
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+###### Artículo 1.
+
+La presente Ley es de orden público, de interés social y de observancia general en el Estado de Morelos, tiene por objeto la organización, promoción, fomento y desarrollo de la actividad turística del Estado de Morelos, corresponde su aplicación al Titular del Poder Ejecutivo Estatal por conducto de la Secretaría de Turismo y a los Ayuntamientos por conducto de la dependencia que para tal efecto determine.
+
+Para lo no previsto en este ordenamiento serán de aplicación supletoria, la Ley Federal de Turismo, su Reglamento y la Ley Federal de Protección al Consumidor y su Reglamento.
+
+Los lineamientos emanados de la presente Ley, serán acordes a lo establecido por la Organización Mundial de Turismo.
+
+###### Artículo 2.
+
+Para los efectos de esta Ley, se entiende por:
+
+Secretaría Federal: Secretaría de Turismo de la Administración Pública Federal.
+
+Secretaría: Secretaría de Turismo del Poder Ejecutivo del Estado de Morelos.
+
+Secretario: Secretario de Turismo del Estado.
+
+Prestador de servicios turísticos: La Persona física o moral que habitualmente proporciona, intermedia o contrata con el turista en cualquier momento la prestación remunerada de alguno de los servicios a que se refiere esta Ley.
+
+Turista: La Persona que viaja trasladándose temporalmente fuera de su lugar de residencia habitual y que pernoctando cuando menos una noche utilice algunos de los servicios a que se refiere esta Ley.
+
+Visitante: La persona que viaja trasladándose temporalmente fuera de su lugar de residencia habitual y utilice algunos de los servicios a que se refiere esta Ley.
+
+Servicios Turísticos: Es la actividad realizada por personas físicas o morales, para satisfacer alguna demanda o necesidad turística en el Estado.
+
+Turismo: Son las actividades que realizan las personas durante sus viajes y estancias en lugares distintos al de su entorno habitual, por un período de tiempo consecutivo inferior a un año, con fines de ocio, por negocios y otros motivos.
+
+Sector Turístico: Conjunto de organizaciones, públicas, privadas y sociales cuya actividad principal esté enfocada al turismo o al turista.
+
+Zona Turística: Área destinada, desarrollada o proyectada principalmente para la actividad turística y en la que se presten servicios turísticos, incluyendo zonas arqueológicas.
+
+Patrimonio Turístico: Es el conjunto de bienes e instalaciones que generan el interés del mercado turístico por sus características y valores naturales, históricos y culturales, tangibles e intangibles, estéticos o simbólicos, que se deben de incorporar en el mismo al disponer de la infraestructura necesaria para el adecuado desarrollo de la actividad turística y por lo mismo, requieren ser preservados, conservados y protegidos para el disfrute de la sociedad, determinado como tal por la Secretaría.
+
+###### Artículo 3.
+
+Esta Ley tiene por objeto establecer las bases para:
+
+I. La planeación, promoción y fomento de actividades turísticas del Estado de Morelos, conforme al Plan Estatal de Desarrollo y al Programa Estatal de Turismo;
+
+II. El desarrollo de la oferta turística estatal, de infraestructura básica turística, patrimonio, equipamiento y servicios turísticos;
+
+III. La promoción turística del Estado a nivel local, nacional e internacional;
+
+IV. Propiciar la inversión local, nacional e internacional en esta materia, que permita el desarrollo sostenible del estado;
+
+V. La capacitación e incremento de la competitividad de los prestadores de servicios turísticos;
+
+VI. Promover y fomentar una cultura turística entre los habitantes del Estado;
+
+VII. Implementar programas para la promoción del turismo social;
+
+VIII. Orientar, informar, y auxiliar a los turistas;
+
+IX. Establecer mecanismos necesarios para la creación, conservación, preservación, mejoramiento, protección, y aprovechamiento de los recursos atractivos y patrimonio turísticos del Estado;
+
+X. Garantizar a los grupos sociales vulnerables la igualdad de oportunidades en los programas del sector turístico;
+
+XI. Establecer las medidas pertinentes para lograr que el Gobierno del Estado y los ayuntamientos cuenten con mayores recursos para impulsar el desarrollo turístico;
+
+XII. Promover ante las autoridades municipales la elaboración de planes, programas y reglamentos de desarrollo urbano turísticos;
+
+XIII. Promover y asesorar a las autoridades municipales para la preservación, rehabilitación, restauración, renovación, revitalización y regeneración del patrimonio arquitectónico e histórico, así como la elaboración de los manifiestos y declaratorias de los centros históricos y zonas de atracción turística;
+
+XIV. La emisión de políticas y estrategias para la formulación de los programas relativos al fomento de las actividades turísticas;
+
+XV. La colaboración con las dependencias y entidades que tengan a su cargo la administración y conservación de parques, bosques, lagos, lagunas, ríos, zonas arqueológicas, monumentos artísticos e históricos, museos y demás sitios de atractivo turístico, con el objeto de impulsar y fomentar su aprovechamiento turístico;
+
+XVI. Promover y fomentar en conjunto, con los municipios el realizar los manifiestos y declaratorias de centros históricos de cada entidad municipal, para fortalecer la conservación del patrimonio turístico; y
+
+XVII. En general, la realización de toda clase de actividades que tiendan a favorecer y acrecentar las corrientes turísticas nacionales e internacionales, hacia el estado.
+
+###### Artículo 4.
+
+Toda persona tiene derecho a disfrutar del turismo como una expresión del crecimiento sostenido de su tiempo libre, descanso y esparcimiento, quedando prohibido todo tipo de discriminación en razón de idioma, raza, nacionalidad condición social o económica, cultural, político, religioso, preferencia sexual, capacidad diferente.
+
+### CAPÍTULO II. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+
+###### Artículo 5.
+
+Se consideran servicios turísticos, los prestados por:
+
+I. Hoteles, moteles, albergues, hostales, campamentos, paradores de casas rodantes, y demás establecimientos de alojamiento temporal que presten servicios a turistas;
+
+II. Las agencias, sub agencias y operadoras de viajes y de turismo;
+
+III. Guías de turistas;
+
+IV. Los arrendadores o empresas de automóviles u otros medios de transporte público de pasajeros, incluyendo transportes especializados en excursiones o viajes de turismo;
+
+V. Restaurantes, cafeterías, bares, discotecas, centros nocturnos, casinos, palenques y establecimientos similares que presten servicios a turistas;
+
+VI. Museos y galerías de arte;
+
+VII. Parques acuáticos, y balnearios, marinas, clubes de playa y otros centros de recreación similares que presten servicios a turistas;
+
+VIII. Spas y otros establecimientos dedicados al turismo de salud;
+
+IX. Centros de enseñanza de idiomas, lenguas indígenas, cultura, ciencia y tecnología cuyos servicios estén orientados a turistas;
+
+X. Las empresas de sistema de intercambio de servicios turísticos;
+
+XI. Las empresas organizadoras y operadores de congresos, convenciones, ferias o recintos feriales, exposiciones y reuniones de grupos de trabajo o capacitación que generen flujos de turismo;
+
+XII. Organizadores de eventos de carácter artístico, cultural, o deportivo que generen flujos de turismo;
+
+XIII. Empresas de turismo alternativo enfocados a la naturaleza, aventura o ecoturismo;
+
+XIV. Empresas dedicadas a la filmación de películas, videos, comerciales o programas de televisión y a servicios relacionados con esta actividad;
+
+XV. Personas dedicadas a la elaboración de arte popular y artesanías; así como empresas, personas y/o grupos dedicados a cualquier expresión y manifestación de la cultura tradicional.
+
+Los prestadores de servicios que no se encuentren comprendidos en este artículo y que por su naturaleza estén vinculados con el turismo, podrán solicitar su inscripción en el Registro Estatal de Turismo, siempre que cumplan con los requisitos establecidos en el Reglamento de la presente Ley.
+
+###### Artículo 6.
+
+Los prestadores de servicios turísticos, así como el turista gozarán de los derechos y obligaciones que establece esta ley, observándose la Ley Federal de Protección al Consumidor, así como de las Normas Oficiales Mexicanas y de las demás disposiciones jurídicas aplicables.
+
+###### Artículo 7.
+
+En la prestación de servicios turísticos queda estrictamente prohibida cualquier clase de discriminación, ya sea de raza, idioma, etnia, sexo, capacidad diferente, credo político o religioso, nacionalidad, condición social o económica. La trasgresión a ésta disposición será sancionada por esta Ley.
+
+###### Artículo 8.
+
+Los prestadores de servicios turísticos, independientemente de las facultades que les conceden las leyes federales, gozarán de los siguientes derechos:
+
+I. Recibir servicios de vinculación y facilitación así como asesoramiento técnico, información y auxilio de la Secretaría, ante las diversas oficinas gubernamentales, respecto al sector turístico;
+
+II. Ser considerados en las estrategias de relaciones públicas, difusión y promoción turística de la Secretaría tanto a nivel nacional e internacional;
+
+III. Ser incluidos en los catálogos, directorios y guías turísticas que elabore la Secretaría con fines promocionales, informativos o estadísticos, de conformidad con los procedimientos establecidos para cada caso;
+
+IV. Participar en los programas de capacitación y cultura turística que promueva o lleve a cabo la Secretaría;
+
+V. Recibir información adecuada sobre el sector turístico, que incluya estadísticas, inventarios, planes, estudios y programas en general sobre el comportamiento de la actividad turística, que disponga la Secretaría, para llevar acabo servicios de calidad;
+
+VI. Participar a través de los organismos intermedios que los agrupan, en los procesos de diseño de políticas públicas y en la formulación e implementación de acciones que impacten en la actividad turística;
+
+VII. Recibir asesoría y vinculación ante las autoridades competentes para la obtención de financiamiento, y apoyo para la obtención de créditos;
+
+VIII. Recibir apoyo de la Secretaría, dentro de su competencia, siempre que sea solicitado para beneficio del sector turístico; y
+
+IX. Ser inscritos en los Registros Nacional y Estatal de Turismo.
+
+###### Artículo 9.
+
+Los prestadores de servicios turísticos del Estado, tendrán las siguientes obligaciones:
+
+I. Colaborar en la política municipal estatal y nacional de fomento turístico y atender las recomendaciones que para tal efecto formule la Secretaría;
+
+II. Atender las recomendaciones que formulen las dependencias competentes en materia de seguridad y protección civil, aplicables a la operación del establecimiento y de conformidad con lo que establezcan las normas oficiales mexicanas respectivas;
+
+III. Proporcionar la información y documentación oficial que tanto la Secretaría como las autoridades competentes le requieran en todo lo relativo a los servicios que presten;
+
+IV. Anunciar en los lugares visibles de acceso al establecimiento, sus precios y tarifas y los servicios que éstos incluyen. Cuando se trate de la prestación de servicios de guías de turistas, al momento de la contratación del servicio informarán su tarifa y lo que ésta incluye;
+
+V. Resaltar el idioma nacional en las leyendas en que anuncien al público su razón social, denominación o los servicios que prestan, sin perjuicio del uso de otros idiomas;
+
+VI. Realizar su publicidad preservando la idiosincrasia nacional, sin alteración o falseamiento de los hechos históricos o de las manifestaciones de la cultura;
+
+VII. Implementar y mejorar las medidas de seguridad e higiene en los establecimientos y lugares donde prestan sus servicios, de conformidad con lo que establece la normatividad aplicable;
+
+VIII. Proporcionar al turista los bienes o servicios ofrecidos en los términos acordados, excepto en casos fortuitos, de fuerza mayor o cuando el turista incumpla con el pago del servicio contratado y/o contravenga los reglamentos internos de los prestadores de servicios, avalados por las Normas Oficiales Mexicanas;
+
+IX. Deberán en la medida de sus posibilidades, contar con las instalaciones necesarias que permitan y faciliten el acceso y desplazamiento a las personas con capacidad diferente y adultos mayores;
+
+X. Inscribirse en el Registro Estatal de Turismo;
+
+XI. Respetar a sus competidores y evitar la competencia desleal;
+
+XII. Reembolsar, bonificar o compensar la suma, correspondiente al servicio incumplido, o bien prestar otro servicio de la misma calidad o equivalencia al que hubiera incumplido, a elección del turista;
+
+XIII. Contar con los formatos foliados y de porte pagado en el sistema de quejas de turistas, en los términos de la Norma Oficial Mexicana respectiva;
+
+XV (SIC). Brindar y garantizar al turista servicios de seguridad, información y auxilio turístico; y
+
+XVI. Las demás que les señalen esta Ley, su Reglamento y demás disposiciones aplicables.
+
+### CAPÍTULO III. DE LA PROTECCIÓN Y ORIENTACIÓN AL TURISTA
+
+###### Artículo 10.
+
+Son derechos del turista los siguientes:
+
+I. Ser informado debidamente, antes de la contratación del servicio turístico, acerca del precio y condiciones de uso y disfrute del mismo, por parte de la persona física o moral que se lo proporcione;
+
+II. Contar con el libre acceso a los establecimientos de los prestadores de servicios turísticos previo el pago correspondiente según sea el caso, sin más limitaciones que las fijadas por las disposiciones aplicables y en el reglamento interno del establecimiento o por las determinadas por las autoridades competentes en razón de la edad, horario, higiene o seguridad;
+
+III. Usar y recibir el servicio en la forma y tiempo convenido;
+
+IV. Presentar sus quejas y denuncias sobre la prestación de servicios turísticos ante las autoridades competentes y a obtener respuesta; y
+
+V. Recibir de la Secretaría y de las demás dependencias y organismos auxiliares del Ejecutivo Estatal, en los términos de sus competencias, servicios de seguridad, información y auxilio turístico.
+
+###### Artículo 11.
+
+Son obligaciones del turista:
+
+I. Cumplir las condiciones convenidas al contratar el servicio turístico;
+
+II. Respetar y coadyuvar en la protección y preservación del patrimonio histórico y cultural, de los establecimientos turísticos y de los recursos naturales de la entidad;
+
+III. Informar a las autoridades turísticas o a las que corresponda, sobre cualquier acto, hecho u omisión que atente o ponga en peligro el patrimonio turístico del Estado y;
+
+IV. Preservar la limpieza del patrimonio turístico, así como de los caminos que conducen hacia ellos.
+
+###### Artículo 12.
+
+La Secretaría vigilará el cumplimiento de las medidas de protección al turista establecidas por esta Ley, así mismo combatirá y evitará toda práctica que lesione los intereses del turista, para lo cual podrá coordinarse con las dependencias y entidades de la Administración Pública Federal y las Autoridades Estatales y Municipales competentes.
+
+###### Artículo 13.
+
+La Secretaría estudiará y propondrá medidas tendientes a reforzar la seguridad, protección y asistencia al turista mediante la coordinación que realice con las autoridades correspondientes.
+
+###### Artículo 14.
+
+La Secretaría elaborará y ejecutará programas de concientización para los prestadores de servicios turísticos, para evitar violaciones a los ordenamientos legales en perjuicio del turista.
+
+### CAPÍTULO IV. DE LA INTEGRACIÓN DEL SECTOR TURÍSTICO
+
+###### Artículo 15.
+
+El sector turístico del Estado de Morelos, está integrado por:
+
+I. El Gobierno del Estado:
+
+a) La Secretaría;
+
+b) Las dependencias y organismos auxiliares del Ejecutivo que se constituyan en el marco de la legislación estatal aplicable, cuyo objeto principal sea la promoción y desarrollo de la actividad turística;
+
+II. Los Ayuntamientos del Estado:
+
+a) Las dependencias y organismos auxiliares de la Administración Pública Municipal orientadas a la promoción y desarrollo de la actividad turística, así como a la atención, seguridad y auxilio al turista.
+
+III. Los organismos integradores y gremiales de Servicios Turísticos tanto privados, como sociales.
+
+Lo anterior, sin menoscabo de considerar a los prestadores de servicios turísticos individuales.
+
+IV. De los organismos de carácter mixto:
+
+a) El Consejo Estatal de Turismo;
+
+b) Los Consejos Municipales de Turismo; y
+
+c) En general, todas las organizaciones, comités y consejos que se integren con participantes tipificados en dos o más de las fracciones anteriores.
+
+Los organismos del sector turístico, serán por este sólo hecho, interlocutores válidos y órganos de consulta de la Secretaría y de las demás dependencias y organismos auxiliares del Ejecutivo Estatal en materia de promoción y desarrollo de la actividad turística.
+
+### CAPÍTULO V. DEL CONSEJO ESTATAL DE TURISMO
+
+###### Artículo 16.
+
+El Consejo Estatal de Turismo es un órgano colegiado en el que participan funcionarios del sector público y representantes del sector social, el cual fungirá como una instancia de consulta directa de la Secretaría y otras dependencias y organismos auxiliares del Ejecutivo del Estado en materia turística, con el objeto de hacer recomendaciones en la materia, propiciando la concurrencia activa, comprometida y responsable de los sectores público, social y privado, cuya actuación incida directa o indirectamente en el turismo de la entidad, para la concertación de las políticas, planes y programas en la materia.
+
+En los Ayuntamientos se podrán conformar órganos de asesoría y consulta en materia turística.
+
+###### Artículo 17.
+
+El Consejo Estatal de Turismo se compondrá por:
+
+I. El Gobernador del Estado, quien será el Presidente del Consejo y podrá designar un representante;
+
+II. El Titular de la Secretaría de Turismo, quien fungirá como vicepresidente;
+
+III. El Titular de la Secretaría de Desarrollo Urbano y Obras Públicas;
+
+IV. El Titular de la Secretaría de Finanzas y Planeación;
+
+V. Los Diputados integrantes de la Comisión de Turismo del Congreso del Estado;
+
+VI. El Director del Centro de Congresos y Convenciones Fideicomiso World Trade Center (WTC), en representación de la Secretaría de Desarrollo Económico;
+
+VII. Un representante de los Ayuntamientos del Estado, mismo que será designado por la Junta de Gobierno del Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos;
+
+VIII. Cinco representantes designados por el Consejo Empresarial Turístico del Estado de Morelos, A.C.;
+
+IX. Un representante de la Confederación Turística Estatal, A.C.;
+
+X. Un representante de la Asociación de Hoteles del Estado de Morelos, A.C. y;
+
+XI. Un representante de la Asociación de Balnearios y Parques Acuáticos del Estado de Morelos, A.C.
+
+El Consejo Estatal de Turismo podrá invitar a participar en sus sesiones a los titulares o representantes de otros organismos e instituciones de los sectores público, social y privado que estime conveniente para el desahogo o solución de algún asunto de interés en materia de turismo, los cuales solo tendrá derecho a voz.
+
+Asimismo, podrá constituir las comisiones y grupos de trabajo específicos que se requieran para el adecuado desahogo de los asuntos de su competencia.
+
+El Consejo Estatal de Turismo tendrá un Secretario Técnico mismo que será designado por los integrantes del propio consejo.
+
+###### Artículo 18.
+
+El Consejo Estatal de Turismo, tendrás (sic) las siguientes atribuciones:
+
+I. Ser enlace entre los sectores público, social y privado, para recabar las opiniones de dichos sectores en materia turística;
+
+II. Conocer los programas, informes y acciones de la Secretaría; y
+
+III. Proponer a la Secretaría acciones o programas en la materia.
+
+###### Artículo 19.
+
+El Consejo Estatal de Turismo sesionará válidamente debiendo estar presentes el Presidente o el Vicepresidente del mismo, así como la mayoría de sus integrantes; sus decisiones serán válidas cuando sean aprobadas por mayoría simple de votos de los presentes. En caso de empate, quien presida la sesión tendrá voto de calidad.
+
+###### Artículo 20.
+
+Las Sesiones del Consejo Estatal de Turismo, se convocarán y desarrollarán de conformidad con lo previsto al efecto por el Reglamento de esta Ley y demás normatividad aplicable; los integrantes del mismo durarán en su encargo por todo el tiempo que subsista su designación y sus nombramientos serán honoríficos, debiendo designar a sus respectivos suplentes, en los términos que al efecto determine el Reglamento de la presente Ley.
+
+## TÍTULO SEGUNDO. DE LA PLANEACIÓN Y ACTIVIDAD TURÍSTICA
+
+### CAPÍTULO I. DE LA PLANEACIÓN DE LA ACTIVIDAD TURÍSTICA
+
+###### Artículo 21.
+
+La planeación de la actividad turística estará a cargo de la Secretaría, la que coordinará el Programa Estatal de Turismo, el cual especificará los objetivos prioritarios y políticas que regirán el sector turístico en la entidad.
+
+###### Artículo 22.
+
+La Secretaría participará, promoverá y coadyuvará en las acciones que realicen los Gobiernos Municipales y los sectores social y privado dentro del proceso integral de planeación turística en cada Ayuntamiento, con el fin de facilitar, intensificar y ampliar la actividad turística, tomando en consideración los siguientes aspectos:
+
+I. El aprovechamiento eficiente y racional de los recursos naturales y culturales, salvaguardando el equilibrio ecológico y el patrimonio turístico, de conformidad con las disposiciones legales; y
+
+II. La planeación de acciones encaminadas al óptimo aprovechamiento de los principales atractivos turísticos del Estado, así como las medidas que servirán para su amplia difusión en el ámbito nacional e internacional.
+
+### CAPÍTULO II. DEL PROGRAMA ESTATAL DE TURISMO
+
+###### Artículo 23.
+
+El Programa Estatal de Turismo será de interés público y tendrá por objeto fijar principios normativos y fundamentales para la planeación, fomento y desarrollo del turismo en el Estado de Morelos, así como asegurar la congruencia entre los propósitos y las acciones en materia turística, mediante la planeación, presupuestación y evaluación de las actividades correspondientes. La formulación y adecuación del programa será periódica, considerando las propuestas y recomendaciones del Consejo Estatal de Turismo.
+
+La Secretaría cuidará que el Programa Estatal de Turismo sea congruente con los lineamientos establecidos por el Plan Nacional de Desarrollo, el Programa Nacional de Turismo y el Plan Estatal de Desarrollo.
+
+###### Artículo 24.
+
+El Programa Estatal de Turismo tendrá una vigencia de seis años por lo menos y deberá contemplar los siguientes aspectos:
+
+I. Especificar los objetivos, metas, líneas de acción y políticas de largo, mediano y corto plazo de esta actividad a escala estatal, con observancia de lo que establezcan los instrumentos jurídicos, administrativos y de política económica que sean aplicables;
+
+II. Tomar en cuenta las tendencias mundiales y los avances tecnológicos, las condiciones del mercado, las exigencias y las posibilidades estatales y municipales dentro del marco de facultades y el presupuesto que determinen las leyes correspondientes;
+
+III. Contener un diagnóstico y un pronóstico de la situación del turismo en la Entidad;
+
+IV. Fomentar el desarrollo de aquellas regiones que sean atractivas para la inversión turística;
+
+V. Contener un registro de las zonas de desarrollo prioritarias, para su conservación y desarrollo;
+
+VI. Considerar las necesidades y expectativas de la región a desarrollar, así como las disposiciones en materia ecológica y para la protección del patrimonio turístico;
+
+VII. Investigar y analizar la oferta y la demanda de los servicios turísticos y sus líneas de acción, con la finalidad de atraer mayores inversiones turísticas que promuevan el crecimiento de este sector; y
+
+VIII. Promover la integración y desarrollo de productos turísticos y atención a segmentos prioritarios.
+
+###### Artículo 25.
+
+El Programa Estatal de Turismo y sus adecuaciones, previa aprobación por parte del Ejecutivo del Estado, se publicará en el Periódico Oficial “Tierra y Libertad” del Gobierno del Estado de Morelos.
+
+###### Artículo 26.
+
+El Programa Estatal de Turismo será de observancia obligatoria para toda la administración pública estatal e indicativo para los gobiernos municipales y los sectores privado y social.
+
+###### Artículo 27.
+
+La Secretaría informará y evaluará ante el Consejo Estatal de Turismo, de manera semestral el cumplimiento del Programa Estatal de Turismo.
+
+## TÍTULO TERCERO. DE LOS CONCEPTOS NECESARIOS Y PRIORITARIOS EN EL DESARROLLO DEL SECTOR TURÍSTICO
+
+### CAPÍTULO I. DEL TURISMO SUSTENTABLE
+
+###### Artículo 28.
+
+Para efectos de esta Ley se entiende por turismo sustentable aquella que se lleva a cabo para:
+
+I. Promover el mejoramiento de la oferta turística, de manera que las autoridades competentes busquen las medidas de protección, conservación y mejoramiento de los atractivos naturales y culturales, así como de los servicios y facilidades que constituyen o puedan ser un atractivo para el turismo, buscando a su vez el respeto a las costumbres y tradiciones de las comunidades;
+
+II. Buscar el uso racional de la riqueza turística para la generación de empleo, una mayor captación de divisas y derrama económica (sic) el beneficio de la población en su conjunto, así como de las empresas y prestadores de servicios turísticos;
+
+III. Facilitar la integración de las comunidades a proyectos turísticos, de acuerdo con las propuestas que presenten las autoridades federales, estatales y municipales;
+
+IV. Intervenir en la solución de necesidades de carácter social en las zonas de influencia de desarrollos turísticos, y
+
+V. Promover de manera especial una cultura de protección y preservación del medio ambiente, orientada a la práctica y desarrollo de una actividad turística.
+
+###### Artículo 29.
+
+Son herramientas para la sustentabilidad de la actividad turística:
+
+I. El ordenamiento territorial;
+
+II. El ordenamiento ecológico, en los términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+
+III. La Ley de Planeación;
+
+IV. El Inventario Turístico del Estado;
+
+V. El Registro Estatal de Turismo.
+
+###### Artículo 30.
+
+La Secretaría, dependencias públicas que se relacionen al sector turismo, así como los prestadores de servicios turísticos en el Estado, promoverán de manera especial la educación ambiental del turista y de los residentes locales, fomentando la práctica y desarrollo de la actividad turística ecológica.
+
+### CAPÍTULO II. DEL DESARROLLO Y FOMENTO DE LA ACTIVIDAD TURÍSTICA
+
+###### Artículo 31.
+
+La Secretaría, en coordinación con los prestadores de servicios que integran el sector turístico, será la encargada de asesorar, fomentar, promover y apoyar los proyectos de inversión turística que se pretendan realizar en la entidad, así mismo, se coordinará con las dependencias y entidades de los tres ámbitos de Gobierno, para la elaboración de estudios y proyectos de interés turístico para el Estado de Morelos.
+
+###### Artículo 32.
+
+La Secretaría, promoverá ante las dependencias respectivas y el Gobierno Federal el desarrollo de proyectos para la ejecución de obras de infraestructura turística.
+
+De la misma forma, gestionará ante las autoridades correspondientes el otorgamiento de facilidades, beneficios y estímulos, aprovechando los mecanismos ya existentes, para aquellos prestadores de servicios turísticos que inviertan en:
+
+I. Remodelación, ampliación, equipamiento, rehabilitación y desarrollo de la infraestructura o servicios turísticos;
+
+II. Adquisición de equipos que contribuyan al ahorro de energía eléctrica y agua, así como para el tratamiento de aguas residuales o disposición final de residuos de cualquier tipo;
+
+III. Mantenimiento de accesos, paradores, sitios de interés histórico de los alrededores del establecimiento en donde se presten los servicios turísticos;
+
+IV. Realización o promoción de visitas a lugares de interés turístico dentro del municipio en donde se encuentre el prestador de servicios turísticos; y
+
+V. Las demás que establezca la Secretaría.
+
+###### Artículo 33.
+
+La Secretaría gestionará la operación de un Sistema Estatal de Facilitación Turística a nivel municipal, mediante una ventanilla única de facilitación turística, que tendrá por objeto implementar acciones de simplificación administrativa ante autoridades nacionales, estatales o municipales, que agilice la instalación y operación de empresas dedicadas a la prestación de servicios turísticos.
+
+###### Artículo 34.
+
+La Secretaría promoverá en todos los municipios del Estado, con el concurso de los demás integrantes del sector turístico, la implementación de programas orientados al rescate de la imagen urbana, especialmente el equipamiento, servicios e infraestructura básica turística en los centros y ciudades del Estado.
+
+###### Artículo 35.
+
+La Secretaría promoverá un programa de señalética que ejecutará en coordinación con las autoridades federales y municipales, con el objeto de facilitar el acceso de los turistas a las zonas, destinos y sitios turísticos del Estado.
+
+### CAPÍTULO III. DE LAS ZONAS DE DESARROLLO TURÍSTICO
+
+###### Artículo 36.
+
+La Secretaría, en forma conjunta con las dependencias competentes de los tres órdenes de Gobierno, propondrá al Ejecutivo del Estado las Zonas de Desarrollo Turístico, a efecto de que se emitan las declaratorias del uso de suelo en los términos de las leyes respectivas, con el fin de crear, conservar o ampliar los centros dedicados al turismo en los términos de las mismas.
+
+###### Artículo 37.
+
+Podrán ser consideradas como Zonas de Desarrollo Turístico, aquellas que por sus características naturales e histórico-culturales constituyan un atractivo turístico, respetando las zonas naturales protegidas, de conformidad con lo previsto al respecto por las leyes de la materia. Lo anterior, de conformidad con lo establecido en los planes, programas, estudios de factibilidad y de sustentabilidad y demás instrumentos de planeación turística mencionados en la presente Ley.
+
+###### Artículo 38.
+
+La Secretaría podrá emitir su opinión en los asuntos de su ramo ante la instancia competente, para que ésta sea considerada en el otorgamiento de permisos y estímulos para la realización de proyectos de inversión en Zonas de Desarrollo Turístico de la Entidad.
+
+###### Artículo 39.
+
+Con el fin de preservar el carácter propio de las poblaciones de la entidad, conforme a sus valores naturales, culturales e históricos, la Secretaría podrá proponer a las autoridades competentes que las mismas sean declaradas zonas de interés o de desarrollo turístico, así como su conservación, protección, delimitación e inafectabilidad.
+
+###### Artículo 40.
+
+La Secretaría integrará y administrará el Registro Estatal de Zonas de Interés y Desarrollo Turístico, en el que se inscribirán las declaratorias correspondientes a dichas zonas, así como los proyectos de desarrollo turístico que cumplan con los requisitos señalados en esta Ley y en las disposiciones de carácter general que al efecto emita la propia Secretaría.
+
+### CAPÍTULO IV. DE LA PARTICIPACIÓN DE LOS AYUNTAMIENTOS
+
+###### Artículo 41.
+
+Son atribuciones de los Ayuntamientos en materia turística:
+
+I. Propiciar que los programas de promoción desarrollo turístico sean acordes con el Programa Estatal de Turismo;
+
+II. Crear en el ámbito de su competencia los medios de apoyo y fomento a la inversión en materia turística del municipio que se trate;
+
+III. Establecer Consejos Municipales de Turismo, con la participación de los prestadores de servicios, del sector social y privado y las propias autoridades municipales, como órgano de consulta e interlocución con la Secretaría;
+
+IV. Implementar medidas de simplificación administrativa y mejora regulatoria que faciliten la instalación y operación de empresas dedicadas a la prestación de servicios turísticos;
+
+V. Promover y coordinar las obras y servicios públicos, así como las medidas administrativas necesarias para procurar la adecuada atención y seguridad del turista y al propio desarrollo turístico de la comunidad;
+
+VI. Delimitar las zonas destinadas a los establecimientos que presten servicios turísticos, con base en los planes reguladores de uso de suelo;
+
+VII. Promover con los prestadores de servicios turísticos y la comunidad en general, practicas que mejoren la imagen de los centros turísticos y que resalten atractivos y valores locales a fin de fomentar una mayor afluencia de turistas al Municipio, preservando la identidad y los usos y costumbres locales;
+
+VIII. Fomentar la actividad artesanal y los productos representativos de la región para efectos turísticos;
+
+IX. Integrar y mantener actualizado el inventario del patrimonio y servicios turísticos municipales, coadyuvando con el Registro Estatal de Turismo;
+
+X. Promover la inserción en los bandos y reglamentos municipales, normas tendientes al fomento de la actividad turística, la protección del patrimonio turístico, la imagen urbana, la calidad de los servicios y la atención a los turistas;
+
+XI. Ser vigilantes del desempeño de la actividad turística en el ámbito de sus respectivas competencias;
+
+XII. Promoción, difusión y orientación turística;
+
+XIII. Promover los programas de señalética y;
+
+XIV. En general, promover la observancia de las disposiciones emanadas de la presente Ley.
+
+## TÍTULO CUARTO. DE LA PROMOCIÓN E INFORMACIÓN TURÍSTICA
+
+### CAPÍTULO I. DE LA PROMOCIÓN TURÍSTICA
+
+###### Artículo 42.
+
+Para efectos de esta Ley, se entiende como promoción turística, al conjunto de actividades y programas con la finalidad de atraer la afluencia del turismo estatal, nacional y extranjero.
+
+###### Artículo 43.
+
+La Secretaría coadyuvará con el Fideicomiso Turismo Morelos en la realización de acciones de promoción turística para el estado de Morelos, pudiendo coordinarse al efecto, con los prestadores de servicios turísticos.
+
+Asimismo, realizará campañas de publicidad turística de alto impacto, con objeto de proyectar una imagen positiva de los recursos, atractivos y servicios turísticos de la entidad.
+
+También emprenderá campañas orientadas al desarrollo de la cultura turística y conciencia entre los morelenses de la importancia del turismo y del turista en la economía estatal.
+
+###### Artículo 44.
+
+La Secretaría, con la colaboración del Fideicomiso Turismo Morelos, elaborará el Programa Anual de Promoción Turística del Estado.
+
+### CAPÍTULO II. DE LA INFORMACIÓN TURÍSTICA
+
+###### Artículo 45.
+
+La Secretaría tendrá a su cargo la operación, mantenimiento y actualización permanente de un Sistema de Información Turística Estatal que le auxilie en la toma de decisiones y la planificación integral de la actividad, con el propósito de proporcionar servicios de información y orientación al turista y compilar estadística básica para establecer las tendencias del comportamiento del sector turístico, que pueda ser usada para el mejor conocimiento del propio sector.
+
+###### Artículo 46.
+
+Para la integración del Sistema de Información Turística Estatal, las autoridades estatales y municipales relacionadas con la actividad turística y los prestadores de servicios turísticos deberán proporcionar a la Secretaría, la información que ésta les requiera, única y exclusivamente para su integración en dicho Sistema.
+
+###### Artículo 47.
+
+La Secretaría deberá impulsar acciones, mecanismos y programas de participación de los sectores social y privado, a fin de promover su participación activa en la integración de la información turística.
+
+###### Artículo 48.
+
+La Secretaría realizará encuestas, sondeos de opinión y otros estudios necesarios para la toma de decisiones sobre acciones que impacten en la actividad turística, el diseño e implementación de políticas públicas y la elaboración de planes y programas de promoción y desarrollo del sector turístico, pudiendo para tal efecto participar o colaborar los prestadores de servicios turísticos, las autoridades estatales y municipales, relacionadas con la actividad turística.
+
+###### Artículo 49.
+
+La información que proporcionen los prestadores de servicios y las autoridades señaladas en esta Ley, sólo podrá ser utilizada con fines estadísticos, de estudio, análisis y planeación de la actividad turística, por lo que no podrá ser divulgada en forma nominativa en modo alguno por ningún medio. Tampoco podrá ser usada como prueba en juicio de cualquier naturaleza.
+
+###### Artículo 50.
+
+La Secretaría coadyuvará con las instancias federales, estatales y municipales, en la facilitación de los servicios de información, protección y auxilio a los turistas que visiten el Estado de Morelos.
+
+###### Artículo 51.
+
+La Secretaría tendrá a su cargo la integración, organización y actualización del Registro Estatal de Turismo, el cual funcionará con el exclusivo propósito de captar información y concentrar datos estadísticos, que sirvan de apoyo para el control de los servicios turísticos, así como para la planeación y programación de las actividades turísticas, para lo cual se le requerirá por escrito a los prestadores de servicios turísticos, la siguiente información:
+
+I. Nombre o razón social de la persona física o moral que presta o prestará el servicio;
+
+II. Lugar y domicilio en el que se presta o prestará los servicios turísticos;
+
+III. Fecha de apertura o inicio de operaciones del establecimiento turístico;
+
+IV. Tipo de servicios que presta y su categoría, conforme a las normas mexicanas o internacionales; y
+
+V. La demás información que la Secretaría estime necesaria para fines de difusión.
+
+###### Artículo 52.
+
+Todos los prestadores de servicios turísticos que operan en el Estado, deberán inscribirse en el Registro Estatal de Turismo y para ello deberán acreditar ante la Secretaría, que tienen reconocido tal carácter por las autoridades municipales competentes.
+
+###### Artículo 53.
+
+La inscripción en el Registro Estatal del Turismo será gratuita y mediante los formatos y el procedimiento que para tal efecto establezca la Secretaría, los cuales deberán ser publicados en el Periódico Oficial “Tierra y Libertad” del Gobierno del Estado, así como sus modificaciones.
+
+###### Artículo 54.
+
+La Secretaría otorgará la constancia de inscripción correspondiente del Registro Estatal de Turismo, a aquellos prestadores de servicios turísticos que se encuentran inscritos en el mismo.
+
+## TÍTULO QUINTO. DE LA CAPACITACIÓN Y COMPETITIVIDAD TURÍSTICA
+
+### CAPÍTULO ÚNICO. DE LA CAPACITACIÓN Y COMPETITIVIDAD TURÍSTICA
+
+###### Artículo 55.
+
+La Secretaría promoverá acciones de colaboración con las instituciones, dependencias y autoridades competentes para el desarrollo e implementación de programas de capacitación, consultoría y certificación turística, además de formular recomendaciones en la elaboración de los mismos, tendientes a incrementar la competitividad de los prestadores de servicios turísticos y el nivel y la calidad profesional de empresarios y trabajadores.
+
+La Secretaría en uso de sus facultades, promoverá entre los prestadores de servicios turísticos el establecimiento de sistemas de aseguramiento de calidad basados en normas de aceptación internacional.
+
+###### Artículo 56.
+
+La Secretaría solicitará a las autoridades de educación pública del Estado un registro actualizado de las instituciones educativas dedicadas a la especialidad del turismo que estén reconocidas oficialmente, con el objeto de dar a conocer a los prestadores de servicios turísticos que así lo soliciten, la información sobre dicho particular.
+
+###### Artículo 57.
+
+La Secretaría promoverá el establecimiento de programas de vinculación escuela-empresa con el fin de coadyuvar en la adecuación de los planes y programas de estudio de los centros de enseñanza turística, con las necesidades del mercado y de los prestadores de servicios turísticos, fomentando la concientización turística en todos los niveles educativos. En los citados programas se deberá contemplar la capacitación respecto a la atención de las personas con capacidades diferentes.
+
+###### Artículo 58.
+
+La Secretaría propondrá al Titular del Ejecutivo del Estado, la celebración de acuerdos con la Secretaría de Trabajo y Previsión Social de la Administración Pública Federal para el desarrollo de programas relacionados con la capacitación y adiestramiento que tengan como finalidad instruir a aquellos trabajadores de establecimientos turísticos, para el desarrollo de sus actividades de acuerdo a los términos que marque la legislación federal en materia de trabajo.
+
+###### Artículo 59.
+
+La Secretaría impulsará programas de capacitación en coordinación con las dependencias y entidades federales, estatales y municipales, así como con organismos sociales y privados, a efecto de obtener su asistencia y colaboración para la impartición de cursos de capacitación turística para los prestadores de servicios turísticos, los responsables del área de turismo en los municipios y al personal de contacto.
+
+###### Artículo 60.
+
+El Ejecutivo del Estado a través de la Secretaría, considerando la factibilidad presupuestaria en el ejercicio fiscal que corresponda, promoverá acciones y mecanismos necesarios para llevar a cabo programas y proyectos de investigaciones y desarrollo turístico, a efecto de consolidar el impulso del sector turístico del Estado de Morelos.
+
+## TÍTULO SEXTO. DE LA VIGILANCIA
+
+### CAPÍTULO ÚNICO. DE LA VERIFICACIÓN, SANCIONES Y DE LAS IMPUGNACIONES
+
+###### Artículo 61.
+
+Es facultad de la Secretaría realizar visitas de verificación a los prestadores de servicios turísticos, a afecto de constatar el debido cumplimiento de las obligaciones a su cargo establecidas en esta Ley y su reglamento.
+
+###### Artículo 62.
+
+Las Secretaría en el marco de los convenios de coordinación que al efecto celebre con las autoridades federales, tendrá la facultad de realizar visitas de verificación a los prestadores de servicios turísticos, con el objeto de constatar el cumplimiento de las disposiciones cuyo cumplimiento es competencia de las mismas y que tengan impacto en la actividad turística, con la finalidad de garantizar la calidad de los servicios turísticos y la seguridad e integridad física de los turistas, de los empleados de las empresas turísticas y de los propios prestadores de servicios turísticos.
+
+###### Artículo 63.
+
+La Secretaría llevará a cabo las visitas de verificación y en su caso, la aplicación de sanciones correspondientes, mediante el procedimiento administrativo previsto por la Ley de Procedimiento Administrativo del Estado de Morelos.
+
+Para la substanciación de medios de impugnación en contra de resoluciones que al efecto emita la Secretaría, se estará a lo previsto por la referida ley.
+
+## TRANSITORIOS
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos".
+
+Artículo Segundo.- Se abroga la Ley de Desarrollo y Promoción al Turismo en el Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" número 4171, de fecha 28 de febrero del año 2000, así como todas aquellas disposiciones que se opongan a la presente Ley.
+
+Artículo Tercero.- Remítase la presente ley al Titular del Poder Ejecutivo Estatal para los efectos constitucionales correspondientes.
+
+Artículo Cuarto.- El Ejecutivo del Estado deberá adecuar las disposiciones reglamentarias relativas a la presente Ley, en un plazo de 90 días hábiles contados a partir del inicio de la vigencia de la presente ley, mientras tanto seguirán vigentes los ordenamientos aplicables, siempre y cuando no se opongan a lo establecido a la presente ley.
+
+Artículo Quinto.- Los asuntos que se encuentren en trámite al momento de ser publicada la presente Ley de Turismo del Estado de Morelos, serán resueltos conforme a lo dispuesto por la ley que se abroga.
+
+Recinto Legislativo a los veintiséis días del mes de noviembre de dos mil ocho.
+
+ATENTAMENTE.
+
+"SUFRAGIO EFECTIVO. NO REELECCIÓN".
+
+LOS CC. DIPUTADOS INTEGRANTES DE LA MESA DIRECTIVA DEL CONGRESO DEL ESTADO.
+
+DIP. JAIME TOVAR ENRÍQUEZ
+
+PRESIDENTE
+
+DIP. JORGE TOLEDO BUSTAMANTE
+
+VICEPRESIDENTE
+
+DIP. MATÍAS QUIROZ MEDINA
+
+SECRETARIO
+
+DIP. CLAUDIA IRAGORRI RIVERA
+
+SECRETARIA
+
+RÚBRICAS.
+
+Por tanto mando se imprima, publique circule y se le dé el debido cumplimiento.
+
+Dado en la Residencia del Poder Ejecutivo en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los nueve días del mes de diciembre de dos mil ocho.
+
+"SUFRAGIO EFECTIVO. NO REELECCIÓN".
+
+GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+
+MTRO. MARCO ANTONIO ADAME CASTILLO
+
+SECRETARIO DE GOBIERNO
+
+LIC. SERGIO ALVAREZ MATA
+
+RÚBRICAS.
