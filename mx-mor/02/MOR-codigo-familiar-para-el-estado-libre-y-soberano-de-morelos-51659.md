@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2008-05-14"
+last_updated: "2008-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2008.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -333,25 +333,35 @@ CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
 ### CAPÍTULO I. REGLAS GENERALES
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 1.
 
-SUJETO DE DERECHO. La persona individual es todo ser titular de derechos y obligaciones.
+SUJETO DE DERECHO. La persona jurídica individual es todo ser humano desde la concepción hasta la muerte natural, titular de derechos y obligaciones.
+
+Persona jurídica colectiva o moral es toda agrupación de personas individuales dotada de personalidad jurídica, titular de derechos y obligaciones.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 2.
 
-CAPACIDAD. La capacidad es la aptitud legal de una persona para ser sujeto de derechos y obligaciones.
+CAPACIDAD. La capacidad es la idoneidad para ser sujeto de relaciones jurídicas y realizar hechos y actos jurídicos concretos.
 
 ### CAPÍTULO II. DE LAS PERSONAS JURÍDICAS INDIVIDUALES
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 3.
 
-CAPACIDAD DE GOCE Y SU PROTECCIÓN. La capacidad de goce de las personas jurídicas individuales se adquiere por el nacimiento y se pierde por la muerte, pero entran bajo la protección de la Ley desde el momento en que los individuos son concebidos; y si nacen viables, desde ese momento se les tiene por nacidos.
+CAPACIDAD DE GOCE Y SU PROTECCIÓN. La capacidad de goce de las personas jurídicas individuales se adquiere por el nacimiento y se pierde por la muerte, pero entran bajo la protección de la Ley desde el momento en que los individuos son concebidos; y si nacen vivos y viables.
 
-Para los efectos legales, sólo se reputa nacido el feto que desprendido enteramente del seno materno, vive veinticuatro horas o es presentado vivo al Registro Civil. Faltando alguna de estas circunstancias nunca podrá entablarse demanda sobre la paternidad o maternidad.
+Para los efectos legales, sólo se reputa viable el feto que desprendido enteramente del seno materno, vive veinticuatro horas o es presentado vivo al registro civil. Faltando alguna de estas circunstancias nunca podrá entablarse demanda sobre la paternidad o maternidad.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 4.
 
-DE LA MINORÍA DE EDAD. La minoría de edad comprende desde el nacimiento de la persona jurídica física, hasta que ésta cumpla dieciocho años de edad.
+DE LA MINORÍA DE EDAD. La minoría de edad comprende desde el nacimiento de la persona jurídica individual, hasta que ésta cumpla dieciocho años de edad.
 
 ###### ARTÍCULO 5.
 
@@ -367,13 +377,17 @@ II.- Los mayores de edad disminuidos o perturbados en su inteligencia, aunque te
 
 III.- Las demás personas que señala la Ley.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 7.
 
-LIMITACIONES A LA PERSONALIDAD. La minoría de edad, el estado de interdicción y las demás incapacidades establecidas por la Ley, son restricciones a la personalidad jurídica que no deben menoscabar la dignidad de la persona ni atentar contra la integridad de la familia; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
+LIMITACIONES A LA CAPACIDAD. La minoría de edad, por estado de interdicción y las demás incapacidades establecidas por la Ley, son restricciones a la capacidad jurídica que no deben menoscabar la dignidad de la persona ni atentar contra la integridad de la familia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 8.
 
-DERECHOS FUNDAMENTALES DEL SER HUMANO. Todo individuo gozará de los derechos públicos subjetivos consagrados en la Constitución Política de la República, así como del respeto de su vida, de su seguridad, de su privacía y dignidad personal.
+DERECHOS FUNDAMENTALES DEL SER HUMANO. Todo individuo gozará de los derechos fundamentales que otorga la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales aprobados por el Senado de la República y publicados en el Diario Oficial de la Federación, las legislaciones federales y locales, así como del respeto de su vida, de su seguridad, de su privacía y dignidad personal. Los derechos no podrán restringirse ni suspenderse, sino en los casos y con las condiciones que la ley suprema establece.
 
 Los menores de edad gozarán de los derechos fundamentales del ser humano, así como los que en el orden familiar especifica este Código.
 
@@ -421,9 +435,11 @@ DOMICILIO CONVENCIONAL. Se tiene derecho de designar un domicilio convencional p
 
 ### CAPÍTULO IV. DEL NOMBRE
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 14.
 
-FORMACIÓN DEL NOMBRE DE LAS PERSONAS FÍSICAS. El nombre es el atributo legal que individualiza a una persona en sus relaciones jurídicas. Se integra por el nombre propio que le impone libremente quien la presenta para su registro, seguido de los apellidos que le correspondan.
+FORMACIÓN DEL NOMBRE DE LAS PERSONAS JURÍDICAS INDIVIDUALES. El nombre es el atributo legal que individualiza a una persona en sus relaciones jurídicas. Se integra por el nombre propio que le impone libremente quien la presenta para su registro, seguido de los apellidos que le correspondan.
 
 ###### ARTÍCULO 15.
 
@@ -447,9 +463,11 @@ PLURALIDAD DE PATRIMONIOS. Cuando se afecte un conjunto de bienes, derechos y ob
 
 ### CAPÍTULO VII. DEL ESTADO CIVIL
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 19.
 
-ESTADO CIVIL DE LA PERSONA JURÍDICA FÍSICA. Sólo la persona jurídica natural tiene estado civil, entendido como la situación jurídica concreta, de un hombre o de una mujer en relación con la familia en su calidad de soltero, casado, o divorciado.
+ESTADO CIVIL DE LA PERSONA JURÍDICA INDIVIDUAL. Sólo la persona jurídica individual tiene estado civil, entendido como la situación jurídica concreta, de un hombre o de una mujer en relación con la familia que podrá ser de soltero, casado, divorciado o las que se desprendan de los actos del registro civil.
 
 # LIBRO SEGUNDO. DEL DERECHO DE FAMILIA
 
@@ -457,9 +475,11 @@ ESTADO CIVIL DE LA PERSONA JURÍDICA FÍSICA. Sólo la persona jurídica natural
 
 ### CAPÍTULO I. DE LA FAMILIA
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 20.
 
-NATURALEZA JURÍDICA DEL DERECHO FAMILIAR. Las normas del derecho familiar son de carácter social y tutelares substancialmente de la mujer, del hombre, de los menores, de los mayores discapacitados y de los adultos mayores.
+NATURALEZA JURÍDICA DEL DERECHO FAMILIAR. Las normas del derecho familiar son de orden público e interés social.
 
 ###### ARTÍCULO 21.
 
@@ -493,19 +513,21 @@ DE LA ATENCIÓN PROFESIONAL A LA FAMILIA. El Tribunal Superior de Justicia del E
 
 CLASES DE PARENTESCO.- Este Código reconoce únicamente los parentescos de consanguinidad, afinidad y civil.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 27.
 
-PARENTESCO POR CONSANGUINIDAD. El parentesco de consanguinidad es el que existe entre personas que descienden de un mismo progenitor.
+PARENTESCO POR CONSANGUINIDAD. El parentesco de consanguinidad es el que existe entre personas que descienden de un mismo progenitor, o el equivalente por adopción plena.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 28.
 
-PARENTESCO DE AFINIDAD. El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes consanguíneos de la mujer, y entre la mujer y los parientes consanguíneos del varón.
-
-> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2007)</small>
+PARENTESCO DE AFINIDAD. El parentesco de afinidad es el que se contrae por el matrimonio o concubinato, entre el varón y los parientes consanguíneos de la mujer, y entre la mujer y los parientes consanguíneos del varón.
 
 ###### ARTÍCULO 28 Bis.
 
-PARENTESCO CIVIL. El parentesco civil es el que nace de la adopción y sólo existe entre el adoptante y el adoptado, salvo el caso de adopción plena.
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
 
 ###### ARTÍCULO 29.
 
@@ -533,7 +555,11 @@ CÓMPUTO DE GRADOS EN LA LÍNEA TRANSVERSAL. En la línea transversal los grados
 
 RECIPROCIDAD ALIMENTARIA. La obligación de dar alimentos es recíproca. El que los da tiene a su vez el derecho de pedirlos.
 
-ARTÍULO (SIC) 35.- ORIGEN DE LA OBLIGACIÓN DE DAR ALIMENTOS. La obligación de dar alimentos se deriva del matrimonio, de concubinato, del parentesco por consaguinidad, adopción o afinidad y por disposición de la ley.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
+###### ARTÍCULO 35.
+
+ORIGEN DE LA OBLIGACIÓN DE DAR ALIMENTOS. La obligación de dar alimentos se deriva del matrimonio, del concubinato, del parentesco o por disposición de la ley.
 
 ###### ARTÍCULO 36.
 
@@ -547,9 +573,9 @@ OBLIGACIÓN ALlMENTARIA ENTRE CONYUGES. Los cónyuges deben darse alimentos. La 
 
 Los concubinos están obligados, en igual forma, a darse alimentos si se satisfacen los requisitos señalados por los artículos 65 y 737 de este Código.
 
-> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
-Los alimentos se otorgarán siempre y cuando el cónyuge acredite estar imposibilitado para obtener alimentos en virtud de su edad, estado físico y mental, incapacidad o cualquiera otro que le impida desarrollar una actividad remunerada, así como acredite tener la necesidad de recibirlos en virtud de no contar con bienes que le permitan obtener ingresos para adquirir los alimentos necesarios.
+En caso de disolución de concubinato o matrimonio, los alimentos se otorgarán siempre y cuando algún cónyuge o concubino acredite estar imposibilitado para obtener alimentos en virtud de su edad, estado físico y mental, incapacidad o cualquiera otro que le impida desarrollar una actividad remunerada, así como acredite tener la necesidad de recibirlos en virtud de no contar con bienes que le permitan obtener ingresos para adquirir los alimentos necesarios.
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
 
@@ -577,11 +603,11 @@ OBLIGACIÓN ALIMENTARIA DE LOS PARIENTES COLATERALES CON RELACIÓN A INCAPACES. 
 
 OBLIGACIÓN ALIMENTARIA EN ADOPCIÓN. El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen los padres y los hijos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 43.
 
-ALlMENTOS.- Los alimentos comprenden la comida, el vestido, además, los gastos necesarios para la educación primaria y secundaria del alimentista, y para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus circunstancias personales. Esta obligación subsistirá no obstante la mayoría de edad del alimentista si éste se encuentre incapacitado para trabajar, y hasta los veinticinco años si el acreedor alimentista se encuentre estudiando y no cause baja, conforme al reglamento escolar, y que esta se curse en instituciones educativas que se encuentren en posibilidades de pagar los deudores alimentistas, siempre que los acreedores no cuenten con ingresos propios.
+ALIMENTOS.- Los alimentos comprenden la casa, la comida, el vestido, asistencia en caso de enfermedad, los gastos necesarios para la educación básica del alimentista, y para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus circunstancias personales. Esta obligación subsistirá no obstante la mayoría de edad del alimentista si éste se encuentre incapacitado para trabajar, y hasta los veinticinco años si el acreedor alimentista se encuentre estudiando y no cause baja, conforme al reglamento escolar, y que esta se curse en instituciones educativas que se encuentren en posibilidades de pagar los deudores alimentistas, siempre que los acreedores no cuenten con ingresos propios.
 
 En los mismos términos se entienden los alimentos respecto a los acreedores alimentarios a que se refiere el artículo 41 de este Ordenamiento.
 
@@ -727,29 +753,29 @@ LIBRE DISPOSICIÓN DEL MAYOR DE EDAD. El mayor de edad dispone libremente de su 
 
 GENERALIDADES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 65.
 
 CONCUBINATO. Es la unión de hecho de un hombre y una mujer, ambos libres de matrimonio y sin impedimento para contraerlo, que viven de forma constante y permanente, generando derechos y obligaciones al procrear hijos o manteniendo la convivencia.
 
-Para acreditar el concubinato, el Juez deberá tomar en consideración que los concubinos han vivido en común de manera ininterrumpida durante cinco años o han procreado hijos en común.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
+Para acreditar el concubinato, el Juez deberá tomar en consideración que los concubinos han vivido en común de manera ininterrumpida durante cinco años o han cohabitado y procreado un hijo o más en común.
 
 ###### ARTÍCULO 66.
 
-ESPONSALES. La promesa de matrimonio que se hace por escrito y es aceptada, constituye los esponsales. La aceptación se presume mientras no se demuestre lo contrario. Los esponsales no producen obligación de contraer matrimonio, ni en ellos puede estipularse pena alguna por no cumplir la promesa.
-
-El que sin causa grave, a juicio del juez, rehusare cumplir su compromiso de matrimonio o difiera indefinidamente su cumplimiento, pagará los gastos que la otra parte hubiere hecho con motivo del matrimonio proyectado. En la misma responsabilidad incurrirá el prometido que diere motivo grave para el rompimiento de los esponsales. También pagará el prometido que sin causa grave falte a su compromiso, una indemnización a título de reparación moral, cuando por la duración del noviazgo, la intimidad establecida entre los prometidos, la publicidad de las relaciones, la proximidad del matrimonio u otras causas semejantes, el rompimiento de los esponsales cause un grave daño a la reputación del prometido inocente. La indemnización será prudentemente fijada en cada caso por el juez, teniendo en cuenta los recursos del prometido culpable y la gravedad del perjuicio causado al inocente.
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
 
 ###### ARTÍCULO 67.
 
-TÉRMINO PARA EL EJERCICIO DE LAS ACCIONES DE LOS ESPONSALES. Las acciones a que se refiere el artículo que precede, sólo pueden ejercitarse dentro de un año, contado desde el día de la negativa a la celebración del matrimonio.
-
-Esta acción puede ejercitarse dentro de un lapso de seis meses, contados a partir del vencimiento de la promesa.
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
 
 ### CAPÍTULO III. DE LOS REQUISITOS PARA CONTRAER MATRIMONIO
 
 ###### ARTÍCULO 68.
 
-NATURALEZA DEL MATRIMONIO. El matrimonio es la unión voluntaria de un hombre y una mujer, con igualdad de derechos y obligaciones para perpetuar la especie y ayudarse mutuamente. Cualquier condición contraria a estas finalidades se tendrá por no puesta.
+NATURALEZA DEL MATRIMONIO. El matrimonio es la unión voluntaria y libre de un hombre y una mujer, con igualdad de derechos y obligaciones con la posibilidad de procreación de hijos y de ayudarse mutuamente. Cualquier condición contraria a estas finalidades se tendrá por no puesta.
 
 El vínculo matrimonial se extingue por la muerte o presunción de ésta de uno de los cónyuges, por divorcio o por declaración de nulidad.
 
@@ -1473,7 +1499,9 @@ II.- La propuesta de un cónyuge para prostituir al otro, no sólo cuando lo hay
 
 III.- La incitación a la violencia o este mismo hecho por un cónyuge al otro para cometer algún delito, aunque no sea de incontinencia carnal;
 
-IV.- Los actos inmorales ejecutados por el marido o por la mujer con el objeto de corromper a los hijos así como la tolerancia en su corrupción y el ejercicio reiterado de la violencia física o moral cometida contra los menores de edad por cualquiera de los cónyuges.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
+IV.- Los actos inmorales ejecutados por el marido o por la mujer con el objeto de corromper a los hijos, de explotarlos o exponerlos al trabajo indigno, a riesgos urbanos, circenses o que generen la inducción a vivencias callejeras, así como la tolerancia en su corrupción y el ejercicio reiterado de la violencia familiar cometida contra los menores de edad por cualquiera de los cónyuges;
 
 V.- Padecer cualquier enfermedad de tipo crónico, incurable y además contagiosa;
 
@@ -1501,7 +1529,9 @@ XVI.- Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por
 
 Durante esos tres meses a que hace referencia el párrafo anterior, los cónyuges no están obligados a vivir juntos;
 
-XVII.- La inseminación artificial heterogénea en la mujer o la implantación en ella de un óvulo fecundado por personas ajenas al matrimonio, sin el consentimiento del marido;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
+XVII.- La inseminación artificial o las técnicas de reproducción asistida en la mujer, sin el consentimiento de alguno de los cónyuges;
 
 XVIII.- La separación del hogar conyugal por una causa que sea bastante para solicitar el divorcio, si se prolonga por más de un año sin que el cónyuge que se separó hubiese entablado la demanda de divorcio, aunque para hacerlo debe acreditar haber cumplido con sus obligaciones alimentarias;
 
@@ -1511,7 +1541,9 @@ XX.- Cuando uno de los cónyuges, por tratamiento médico o quirúrgico, intente
 
 XXI.- Cuando uno de los cónyuges cometa un delito intencional en agravio de sus hijos;
 
-XXII.- El mutuo consentimiento, vía divorcio voluntario una vez que se cumplan los requisitos señalados en el artículo 489 del Código Procesal Familiar, o administrativo, según sea el caso;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
+XXII.- El mutuo consentimiento, vía divorcio voluntario o divorcio administrativo, una vez que se cumplan los requisitos señalados en el artículo 489 ó 503 del Código Procesal Familiar respectivamente;
 
 > <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2007)</small>
 
@@ -1861,9 +1893,11 @@ Lo mismo se observará respecto de la recuperación de la custodia.
 
 PROCURACIÓN DEL RESPETO HACIA LOS PROGENITORES. Quien ejerza la patria potestad, debe procurar el respeto y el acercamiento constante de los menores con el otro ascendiente que también ejerza la patria potestad. En consecuencia, cada uno de los ascendientes debe evitar cualquier acto de manipulación y alineación parental encaminada a producir en la niña o del (sic) niño, rencor o rechazo hacia el otro progenitor, sopena de suspendérsele en su ejercicio.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 225.
 
-CAMBIO DE CUSTODIA. El juez de lo familiar podrá decretar el cambio de custodia de los menores previo el procedimiento respectivo, cuando quien tenga decretada judicialmente la custodia provisional o definitiva sobre ellos, realice conductas reiteradas para evitar la convivencia de los menores con la persona o personas que tengan parentesco civil o consanguíneo en línea recta ascendente.
+CAMBIO DE CUSTODIA. El juez de lo familiar podrá decretar el cambio de custodia de los menores previo el procedimiento respectivo, cuando quien tenga decretada judicialmente la custodia provisional o definitiva sobre ellos, realice conductas reiteradas para evitar la convivencia de los menores con la persona o personas que tengan parentesco consanguíneo en línea recta ascendente.
 
 ###### ARTÍCULO 226.
 
@@ -2767,7 +2801,7 @@ ADOPCIÓN POR EL TUTOR. El tutor no puede adoptar al pupilo, sino hasta después
 
 ###### ARTÍCULO 364.
 
-IMPUGNACIÓN DE LA ADOPCIÓN POR EL ADOPTADO. El menor o incapacitado que hayan sido adoptados podrán solicitar la revocación de la adopción dentro del año siguiente a la mayor edad, a la fecha en que haya desaparecido la incapacidad o al haber conocido su situación de adoptado.
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
 
 ###### ARTÍCULO 365.
 
@@ -5952,3 +5986,11 @@ P.O. 14 DE MAYO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 11 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo dispuesto en la presente.
+
+TERCERO.- Aprobado que sea, remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
