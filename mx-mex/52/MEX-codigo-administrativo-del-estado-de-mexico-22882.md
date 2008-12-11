@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2008-10-14"
+last_updated: "2008-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE DICIEMBRE DE 2008.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -4417,9 +4417,9 @@ I. El Gobernador del Estado;
 
 II. La Secretaría de Comunicaciones, a quien corresponden las atribuciones relativas a las comunicaciones de jurisdicción local, que comprende los sistemas de transporte masivo o de alta capacidad;
 
-> <small>(REFORMADA, G.G. 14 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
 
-III. La Secretaría de Transporte, a quien corresponden las atribuciones relativas al transporte público y mixto;
+III. La Secretaría de Transporte, a quien corresponden las atribuciones relativas al transporte público y mixto, así como la regulación del servicio de pago tarifario anticipado y la operación de Centros de Gestión y Control Común, de los mismos;
 
 > <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -4591,7 +4591,7 @@ III. Cubrir los daños que ocasionen a la infraestructura vial.
 
 ### CAPITULO SEGUNDO. De las concesiones, permisos y autorizaciones
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 7.
 
@@ -4805,7 +4805,7 @@ b). Para estos efectos, los propietarios o poseedores de vehículos automotores 
 
 ###### Artículo 7.
 
-28.- El transporte de pasajeros colectivo, de alta capacidad o masivo, individual, mixto, de arrastre, salvamento, guarda y custodia de vehículos, constituye un servicio público cuya prestación corresponde al Gobierno del Estado, quien puede prestarlo directamente o a través de concesiones, que se otorguen en términos del presente Libro y del Reglamento de la materia.
+28.- El transporte de pasajeros colectivo, de alta capacitad o masivo, individual, mixto; el servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos; el servicio de pago tarifario anticipado y los Centros de Gestión y Control Común, constituyen un servicio público cuya prestación corresponde al Gobierno del Estado, quien puede prestarlo directamente o a través de concesiones, que se otorguen en términos del presente Libro y del Reglamento de la materia.
 
 En caso de concurrencia de dos o más personas físicas o morales para obtener concesiones, el otorgamiento se hará a quienes garanticen un mejor servicio en razón de las condiciones de seguridad, higiene y comodidad de los vehículos, mejor equipo e instalaciones, así como de la eficiencia y buen trato del personal con los usuarios.
 
@@ -4845,9 +4845,9 @@ Ninguna autorización que se otorgue tendrá una vigencia mayor a la de las conc
 
 I. Los servicios de transporte de pasajeros especializado y el de carga;
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
 
-II. Los servicios auxiliares de arrastre y traslado, y depósito de vehículos;
+II. Los servicios auxiliares de arrastre y traslado;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
@@ -4935,15 +4935,35 @@ XV. Obtener autorización previa de las secretarías de Comunicaciones, de Trans
 
 XVI. Cooperar con el Estado para el mantenimiento de los caminos, calzadas, avenidas y calles por donde transiten;
 
-> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
 
-XVII. Tratándose de concesionarios del servicio público de arrastre, salvamento, guarda y custodia de vehículos, remitir de manera directa e inmediata los vehículos al depósito autorizado más cercano al lugar en donde se haya solicitado la prestación del servicio;
+XVII. Tratándose de concesionarios del servicio público de arrastre, salvamento, guarda, custodia y depósito de vehículos, remitir de manera directa e inmediata los vehículos al depósito autorizado más cercano al lugar en donde se haya solicitado la prestación del servicio;
 
-XVIII. Las demás que señalen este Libro y otras disposiciones legales, reglamentarias y administrativas.
+> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+XVIII. Tratándose de los concesionarios del servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, admitir como medio de pago de la tarifa el que determine la Secretaría de Transporte, basado en una tarjeta de prepago; así como utilizar, en todos sus vehículos, la tecnología y dispositivos señalados por la misma;
 
-Adicionalmente, los concesionarios deberán respetar las tarifas, rutas, itinerarios, recorridos, horarios y frecuencias autorizados por las secretarías de Comunicaciones o de Transporte; en caso de requerir alguna modificación a los mismos, el concesionario deberá solicitar la autorización previa a dicha dependencia.
+> <small>(ADICIONADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
+
+XIX. Tratándose de los concesionarios del servicio público de transporte de pasajeros en las modalidades de colectivo individual y mixto, prestar el servicio y operar sus unidades de conformidad con las instrucciones que reciban de los Centros de Gestión y Control Común, a través del que será dirigida su actividad diaria en la red integrada de transporte de la que formen parte, con la aprobación de la Secretaría de Transporte;
+
+> <small>(ADICIONADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
+
+XX. En la prestación del transporte de pasajeros en las modalidades de colectivo, individual y mixto, entregar boleto o comprobante autorizado por la Secretaría de Transporte a través del Instituto del Transporte;
+
+> <small>(ADICIONADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
+
+XXI. En la prestación del servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos, y del servicio auxiliar de arrastre y traslado, entregar factura fiscal por la prestación del mismo;
+
+> <small>(ADICIONADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
+
+XXII. Las demás que señalen este Libro y otras disposiciones legales, reglamentarias y administrativas.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], G.G. 11 DE DICIEMBRE DE 2008)</small>
+
+Adicionalmente, los concesionarios deberán respetar las tarifas, rutas, itinerarios, recorridos, horarios y frecuencias autorizados por las Secretarías de Comunicaciones o de Transporte; en caso de requerir alguna modificación a los mismos, el concesionario deberá solicitar la autorización previa a dicha dependencia.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 11 DE DICIEMBRE DE 2008)</small>
 
 ## TITULO TERCERO. Del transporte
 
@@ -4951,7 +4971,7 @@ Adicionalmente, los concesionarios deberán respetar las tarifas, rutas, itinera
 
 ###### Artículo 7.
 
-39.- Cualquier persona puede hacer uso del transporte público previo pago de la tarifa en vigor y, en consecuencia, los concesionarios estarán obligados a prestarlo, salvo cuando el solicitante:
+39.- Cualquier persona puede hacer uso del transporte público, previo pago de la tarifa en vigor, accediendo a éste a través de los sistemas, medios y dispositivos que sean determinados y aprobados; y, en consecuencia, los concesionarios estarán obligados a prestarlo, salvo cuando el solicitante:
 
 I. Se encuentre en notorio estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos;
 
@@ -5021,9 +5041,17 @@ VI. Disolución, liquidación o quiebra del titular;
 
 VII. Muerte de su titular, siempre y cuando no se hubiesen designado beneficiarios o si dentro del término de noventa días contados a partir de la fecha del fallecimiento, no se presentan los beneficiarios designados en términos de las disposiciones aplicables, a solicitar la transmisión de la concesión o prórroga;
 
-VIII. Las demás causas que se establezcan en la concesión, permiso o en el reglamento de la materia.
+> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
 
-La terminación de la concesión o el permiso no exime a su titular de las responsabilidades contraídas durante su vigencia con el Gobierno Estatal y con terceros.
+VIII. Por reversión del titular, para incorporarse a un nuevo sistema de prestación del servicio;
+
+> <small>(ADICIONADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
+
+IX. Las demás causas que se establezcan en la concesión, permiso o en el reglamento de la materia.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 11 DE DICIEMBRE DE 2008)</small>
+
+La terminación de la concesión o el permiso no exime a su titular de las responsabilidades contraídas durante su vigencia en el Gobierno Estatal y con terceros.
 
 ###### Artículo 7.
 
@@ -5153,19 +5181,25 @@ V. Clausura temporal o definitiva, parcial o total, tratándose de depósitos de
 
 > <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-VI. Retiro de anuncios publicitarios en los medios de transporte cuando no se haya autorizado su colocación o puedan poner en riesgo la seguridad de los usuarios o terceros.
+VI. Retiro de anuncios publicitarios en los medios de transporte cuando no se haya autorizado su colocación o puedan poner en riesgo la seguridad de los usuarios o terceros;
 
 VII. Cancelación de la licencia de conducir;
 
-VIII. Cancelación de las placas de matriculación.
+VIII. Cancelación de las placas de matriculación;
 
 > <small>(ADICIONADA. G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 IX. Clausura definitiva de terminales de pasajeros y paraderos, cuando estos pongan en riesgo la seguridad de los usuarios o terceros.
 
+> <small>(ADICIONADO, G.G. 11 DE DICIEMBRE DE 2008)</small>
+
+Las sanciones anteriores se impondrán cuando para la infracción cometida no exista una aplicable al caso en concreto.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 11 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 7.
 
-53.- Las infracciones a las disposiciones de este Libro y las que de él emanen en materia de transporte, serán sancionadas en la forma siguiente:
+53.- La multa prevista en el artículo anterior, se impondrá por los montos e infracciones siguientes:
 
 I. Multa de quinientas a dos mil veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien preste el servicio público de transporte sin la concesión o permiso correspondiente;
 
@@ -5194,6 +5228,10 @@ VIII. (DEROGADA, G.G. 26 DE DICIEMBRE DE 2007)
 IX. (DEROGADA, G.G. 26 DE DICIEMBRE DE 2007)
 
 X. Multa de cuarenta a cien veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien cometa cualquier otra violación al presente Libro, las disposiciones que de él emanen y a las condiciones establecidas en el título de concesión o permiso, cuya sanción no esté expresamente prevista, con la responsabilidad solidaria de los titulares de la concesión o permiso.
+
+> <small>(ADICIONADO, G.G. 11 DE DICIEMBRE DE 2008)</small>
+
+Los titulares de la concesión o permiso serán responsables solidarios para el cumplimiento de la sanción.
 
 ###### Artículo 7.
 
@@ -10888,3 +10926,13 @@ G.G. 14 DE OCTUBRE DE 2008.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 11 DE DICIEMBRE DE 2008.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+CUARTO.- La emisión, venta y recaudación de las tarjetas de prepago deberá estar a cargo del concesionario que proporcione este servicio, por lo que se establece un término de 6 meses a fin, de concretar la mecánica de este programa.
