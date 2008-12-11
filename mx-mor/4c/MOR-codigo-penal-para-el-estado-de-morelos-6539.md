@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2008-11-12"
+last_updated: "2008-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2008.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1339,19 +1339,19 @@ DELITOS CONTRA EL INDIVIDUO
 
 Al que prive de la vida a otro se le impondrán de quince a treinta años de prisión y de quinientos a diez mil días multa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 107.
 
-Al que, conociendo el parentesco, dolosamente prive de la vida a cualquiera de sus ascendientes o descendientes por consanguinidad en línea recta se le impondrán de veinte a cincuenta años de prisión y de setecientos cincuenta a diez mil días multa.
+Al que, conociendo el parentesco, dolosamente prive de la vida a cualquiera de sus ascendientes o descendientes por consanguinidad en línea recta, parientes colaterales hasta el cuarto grado, cónyuge o concubinos, entre adoptante o adoptado, menores o incapaces, se le impondrán de veinte a cincuenta años de prisión y de setecientos cincuenta a diez mil días multa.
 
 Cuando la madre prive de la vida a su hijo dentro de las 72 horas siguientes al nacimiento de éste, el juez podrá disminuir la sanción aplicable hasta quedar en una tercera parte de la prevista en el párrafo anterior, tomando en cuenta las circunstancias del embarazo, las condiciones personales de la madre y los móviles de su conducta, sin perjuicio de las excluyentes que pudieren concurrir.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 108.
 
-A quien cometa homicidio calificado se le impondrán de veinte a setenta años de prisión y de mil a veinte mil días-multa.
+A quien cometa homicidio calificado en términos del artículo 126 de éste Código, se le impondrá de veinte a setenta años de prisión y de mil a veinte mil días-multa.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
 
@@ -1359,17 +1359,17 @@ A quien cometa homicidio calificado se le impondrán de veinte a setenta años d
 
 Se aplicará la sanción prevista en el artículo anterior a quien incurra en homicidio doloso al cometer un secuestro, un robo o una violación, si el homicidio recae sobre el sujeto pasivo de estos delitos. La misma pena se aplicará a quien cometa el homicidio en cualquier lugar de acceso reservado, si el agente penetró en él mediante engaño o sin el consentimiento de la persona autorizada para darlo.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 110.
 
-Al que cometa homicidio en riña se le impondrán de cinco a doce años de prisión y de setecientos cincuenta a cinco mil días-multa, si se trata del provocador, y de dos a siete, y de quinientos a tres mil días-multa, si se trata del provocado.
+Al que cometa homicidio en riña de conformidad con lo establecido en el artículo 127 de este Código, se le impondrán de cinco a doce años de prisión y de setecientos cincuenta a cinco mil días-multa, si se trata del provocador, y de dos a siete años de prisión, y de quinientos a tres mil días-multa, si se trata del provocado.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 111.
 
-Al que prive de la vida a otro, por petición expresa, libre, reiterada, seria e inequívoca de éste, se le impondrán de cuatro a doce años de prisión y de setecientos a cinco mil días-multa.
+Al que prive de la vida a otro, por petición expresa, libre, reiterada, seria e inequívoca de éste, y con motivo de una enfermedad incurable o en fase terminal, se le impondrán de cuatro a doce años de prisión y de setecientos a cinco mil días-multa.
 
 ### CAPITULO III. ABORTO
 
@@ -1385,11 +1385,11 @@ Al que coopere al suicidio de otro, realizando los actos o aportando los element
 
 A quien preste ayuda a la persona que se suicida, para este propósito, fuera de los casos previstos en el párrafo anterior, se le aplicará hasta una tercera parte de la sanción establecida en el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 114.
 
-Si entre el inductor y el suicida existe alguno de los vínculos previstos en el artículo 107 o el inducido es menor de edad o inimputable, y el agente no actúa por móviles piadosos, se aplicará a éste la sanción prevista para el homicidio calificado.
-
-Si en el cooperador necesario concurre cualquiera de las circunstancias previstas en el párrafo precedente, se podrá aplicar la sanción prevista para el homicidio simple. Si se trata del que presta ayuda, sin ser cooperador necesario, la sanción aplicable será la de dos tercios de la correspondiente al homicidio simple.
+Si entre el inductor y el suicida existe alguno de los vínculos previstos en el artículo 107 o el inducido es menor de edad o inimputable, se aplicará al sujeto activo la sanción prevista para el homicidio calificado.
 
 ### CAPITULO IV. LESIONES
 
@@ -1409,13 +1409,11 @@ Los médicos que realicen injustificadamente el aborto serán sancionados de acu
 
 Si el aborto lo causare un médico, cirujano, comadrona o partero, además de las sanciones que le correspondan conforme al artículo anterior, se le suspenderá de dos a cinco años en el ejercicio de su profesión u oficio.
 
-> <small>[N. DE E. VÉASE LA LITERALIDAD DEL DECRETO NÚMERO 1221 PUBLICADO EN EL P.O. 18 DE OCTUBRE DE 2000, PÁGINA 7. ]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 117.
 
-Se impondrá de uno a cinco años de prisión, a la madre que voluntariamente procure su aborto o consintiere que otro la haga abortar.
+Se impondrá de uno a cinco años de prisión y de veinte a doscientos días-multa, a la madre embarazada que voluntariamente procure su aborto o consintiere que otro la haga abortar. La sanción a que se refiere este artículo, podrá sustituirse por tratamiento médico o psicológico, bastará que lo solicite y ratifique la indiciada, asimismo quedará sujeta a la ley y reglamentación de sustitución de penas por medidas alternativas. Procesos y procedimientos judiciales.
 
 I.- (DEROGADA, P.O. 18 DE OCTUBRE DE 2000)
 
@@ -1555,9 +1553,11 @@ Las mismas sanciones se impondrán si el agente actúa en estado de ebriedad o b
 
 Cuando se cause homicidio, en las circunstancias previstas en el primer párrafo de este precepto, las sanciones serán de seis a veinte años de prisión y privación o inhabilitación en el ejercicio de aquellos derechos.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 129.
 
-Se aplicarán hasta dos terceras partes de la sanción prevista para las lesiones o el homicidio culposos cuando éstos recaigan en los ascendientes o descendientes consanguíneos en línea recta, el cónyuge o la concubina o concubinario del agente, salvo que el autor se encuentre bajo el efecto de sustancias embriagantes, estupefacientes o psicotrópicos, sin que medie prescripción médica, o no auxilie a la víctima. En estos casos se estará a las sanciones generalmente aplicables a las lesiones o el homicidio culposos.
+No se procederá contra quien culposamente ocasione lesiones u homicidio en agravio de un ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubino, adoptante o adoptado, salvo que el autor se encuentre bajo el efecto de bebidas embriagantes, de estupefacientes o psicotrópicos, sin que medie prescripción médica, o bien que no auxiliare a la víctima.
 
 > <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 1996)</small>
 
@@ -1578,6 +1578,10 @@ Si el juzgador lo estima pertinente, podrá imponer a los responsables de homici
 ###### ARTICULO 132.
 
 Al que abandone a una persona incapaz de valerse por sí misma, teniendo la obligación de cuidarla, se le impondrá de uno a tres años de prisión.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
+Si del abandono resulta la muerte o lesiones, se aplicarán las penas que correspondan por homicidio calificado o por lesiones calificadas en razón del grado de éstas.
 
 ### CAPITULO UNICO. PELIGRO DE CONTAGIO
 
@@ -1945,85 +1949,63 @@ Las autoridades educativas de los centros escolares, las de las instituciones de
 
 ## TITULO OCTAVO. DELITOS CONTRA EL PRESTIGIO
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
 ### CAPITULO VI. ADMINISTRACION FRAUDULENTA
 
 > <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 163.
 
-Al que mediante comunicación a otro, impute a una persona física o moral un hecho que pueda causar o cause a ésta descrédito, deshonra o afecte su reputación, se le impondrá de seis meses a un año de prisión y hasta doscientos días multa.
-
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2007)</small>
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
 
 ###### ARTICULO 164.
 
-Para la configuración del delito de difamación, se requiere como elemento subjetivo del tipo, el dolo directo por ser presupuesto indispensable, comunicar dolosamente a una o más personas la imputación que se hace a otra de un hecho cierto o falso.
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
 
 ###### ARTICULO 165.
 
-No se comete el delito de difamación, cuando:
-
-I. Se manifiesta técnicamente un parecer sobre alguna producción literaria, artística, científica o industrial;
-
-II. Se expone un juicio sobre la capacidad, instrucción, aptitud o conducta de otro, si se probare que se obró en cumplimiento de un deber o por interés público, o que, con la debida reserva, se hizo por humanidad, por prestar un servicio a persona con quien se tenga parentesco o amistad, o dando informaciones que se le hubieren pedido, si no se hiciere a sabiendas calumniosamente, y (sic)
-
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2007)</small>
-
-III. El hecho imputado esté declarado cierto por sentencia irrevocable y el inculpado obre por motivo de interés público o por interés privado, pero legítimo sin ánimo de dañar;
-
-> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2007)</small>
-
-IV. Por opiniones vertidas en contra de los servidores públicos con motivo de sus funciones;
-
-> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2007)</small>
-
-V. Se presente un escrito o se pronuncie un discurso ante los tribunales, que contengan expresiones difamatorias, relacionadas con el asunto que se ventile y que sirvan para acreditar un derecho, salvo que la conducta amerite la imposición de una corrección disciplinaria, en los términos de la ley aplicable.
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
 
 ###### ARTICULO 166.
 
-Lo prevenido en la fracción última del artículo anterior no comprende el caso en que la imputación sea calumniosa o se extienda a personas extrañas al litigio o involucre hechos no relacionados con el asunto de que se trate. Si así fuere, se aplicarán las penas de la difamación o calumnia.
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO VII. INSOLVENCIA FRAUDULENTA EN PERJUICIO DE ACREEDORES
 
 ###### ARTICULO 167.
 
-Al que impute falsamente a otro la realización de un hecho que la ley califique como delito, se le impondrá de seis meses a dos años de prisión y hasta doscientos cincuenta días multa.
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
 
 ###### ARTICULO 168.
 
-Cuando esté pendiente el proceso por un delito imputado calumniosamente, no correrá la prescripción para la persecución de la calumnia o, en su caso, se suspenderá el procedimiento iniciado por esta última hasta que se dicte resolución irrevocable que ponga fin al primer proceso.
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2007)</small>
-
-No se comete el delito de calumnia por imputaciones vertidas en contra de servidores públicos con motivo de sus funciones.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO VIII. DELITOS COMETIDOS POR FRACCIONADORES
 
 ###### ARTICULO 169.
 
-Sólo se podrá proceder contra el responsable de una difamación o calumnia por querella.
-
-Cuando la difamación o calumnia se refiera a persona ya fallecida, se podrá proceder por querella del cónyuge o de los ascendientes, descendientes o hermanos.
-
-Cuando la difamación o calumnia se hubiere cometido con anterioridad al fallecimiento del ofendido, no se atenderá la querella de las personas mencionadas, si aquél hubiere permitido, a sabiendas, la ofensa y no hubiese presentado la querella, pudiendo hacerlo, salvo que hubiese prevenido que lo hicieran sus herederos.
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
 
 ###### ARTICULO 170.
 
-Cuando la difamación o calumnia sean en contra del Estado, otro Estado o el Distrito Federal, se procederá a solicitud del representante del Ejecutivo que corresponda.
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
 
 ###### ARTICULO 171.
 
-Los documentos u objetos que hubieren servido de medio para los delitos en contra del prestigio, se decomisarán e inutilizarán, a menos que se trate de algún documento público o de uno privado que importe obligación, liberación o transmisión de derechos, en cuyo caso se hará en el documento una anotación sumaria de la sentencia pronunciada en contra del sentenciado.
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
 
 ###### ARTICULO 172.
 
-Siempre que sea condenado el responsable de un delito de difamación o calumnia, se hará publicación de la sentencia a su costa, si lo solicita la parte ofendida. Cuando el delito se haya cometido por medio de un órgano de comunicación social, los responsables de éste estarán obligados a dar a conocer el fallo en el medio utilizado para su comisión, y con las mismas características que se hubieren empleado para la realización del delito.
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
 
 ###### ARTICULO 173.
 
-Si el acusado de difamación o calumnia se retractare públicamente en términos tales que su retractación alcance el mismo grado de publicidad de la difamación o calumnia, siempre y cuando lo haga antes de sentencia que cause ejecutoria, quedará exento de penalidad.
-
-Lo anterior no eximirá al autor de la reparación de los daños y perjuicios causados.
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
 
 ## TITULO NOVENO. DELITOS CONTRA EL PATRIMONIO
 
@@ -2537,13 +2519,11 @@ A los hermanos y a los ascendientes y descendientes consanguíneos, sin limitaci
 
 ###### ARTICULO 209.
 
-Al que estando casado tenga cópula con quien no sea su cónyuge, en su domicilio conyugal o con escándalo, se le aplicará de tres meses a dos años de prisión.
-
-Se entiende por cópula lo dispuesto en el artículo 152 de este Código.
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
 
 ###### ARTICULO 210.
 
-Se procederá contra los adúlteros por querella del cónyuge ofendido. Cuando éste formule su querella contra uno sólo de los adúlteros, se procederá contra ambos.
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JULIO DE 2008)</small>
 
@@ -2981,9 +2961,13 @@ IV. Simule la práctica de una intervención quirúrgica;
 
 V. Ejerciendo la medicina, se niegue a prestar asistencia a un enfermo en caso de urgencia notoria, poniendo en peligro la vida o la salud de aquél, cuando por las circunstancias del caso no sea posible recurrir a otro médico o a un servicio de salud;
 
-VI. Certifique con falsedad que una persona tiene una enfermedad u otro impedimento bastante para eximirla de cumplir una obligación que la ley le impone o para adquirir un derecho; o
+VI. Certifique con falsedad que una persona tiene una enfermedad u otro impedimento bastante para eximirla de cumplir una obligación que la ley le impone o para adquirir un derecho; o (sic)
 
-VII. Sin necesidad terapéutica ni consentimiento del paciente, altere por cualquier medio el funcionamiento de alguno de sus órganos.
+VII. Sin necesidad terapéutica ni consentimiento del paciente, altere por cualquier medio el funcionamiento de alguno de sus órganos;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
+VIII. Será excluyente de responsabilidad, la conducta del médico que por principios éticos, se abstenga u objete practicar el aborto.
 
 ###### ARTICULO 250.
 
@@ -3962,3 +3946,11 @@ SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opong
 TERCERO.- Los bienes asegurados de los que, a la fecha de entrada en vigor de este Decreto, se carezca de datos de identificación para relacionarlos con una indagatoria; los vehículos ingresados a los depósitos de vehículos de la Procuraduría General de Justicia del Estado de Morelos, y los depositados en los corralones propiedad de particulares que hayan celebrado contrato de prestación de servicios de arrastre y depósito con fecha anterior al 31 de diciembre del año 2007, que no hayan sido recogidos por quien tiene derecho a ellos, así como todos aquellos bienes que por su larga permanencia en los depósitos correspondientes, se decrete su abandono, quedarán a disposición de la autoridad competente para que por conducto de la unidad administrativa que corresponda, se proceda a su destrucción o compactación. En este último caso, el producto que se obtenga de los vehículos será destinado para el mejoramiento de la procuración de justicia.
 
 CUARTO.- Los particulares que se consideren con derecho legítimo, respecto de los bienes a que se refiere el ARTÍCULO TRANSITORIO SEGUNDO de este Decreto, podrán hacer valer esos derechos ante la Procuraduría General de Justicia del Estado de Morelos, dentro del término de seis meses a partir de la fecha de entrada en vigor del presente Decreto.
+
+P.O. 11 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo dispuesto en la presente.
+
+TERCERO.- Aprobado que sea, remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículo 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
