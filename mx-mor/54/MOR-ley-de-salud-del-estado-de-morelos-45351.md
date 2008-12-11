@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2008-11-05"
+last_updated: "2008-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -59,7 +59,11 @@ V.- El disfrute de servicios de salud y asistencia social que satisfagan eficaz 
 
 VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud;
 
-VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
+VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
+VIII.- Preservar la vida y la protección de la salud humana. Para estos efectos, se entenderá que la vida del ser humano comienza cuando existe un genoma humano diploide en el ovocito y termina con la muerte cerebral o signos de la muerte de conformidad con el artículo 343 de la Ley General de Salud.
 
 ###### Artículo 3.
 
@@ -162,6 +166,48 @@ X.- Establecimientos semifíjos y ambulantes que intervengan en cualquiera de la
 XI.- Granjas avícolas y porcícolas, apiarios y establecimientos similares; y
 
 XII.- Las demás materias que determine esta Ley y las disposiciones generales aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 3 Bis.
+
+Para efectos de esta Ley se entiende por:
+
+I.- Células germinales, a las células reproductoras masculinas y femeninas capaces de dar origen a un embrión;
+
+II.- Cadáver, el cuerpo humano en el que se haya comprobado la pérdida de la vida;
+
+III.- Componentes, a los órganos, los tejidos, las células y sustancias que forman el cuerpo humano, con excepción de los productos;
+
+IV.- Componentes sanguíneos, a los elementos de la sangre y demás sustancias que la conforman;
+
+V.- Destino final, a la conservación permanente, inhumación, incineración, desintegración e inactivación de órganos, tejidos, células y derivados, productos y cadáveres de seres humanos, incluyendo los de embriones y fetos, en condiciones sanitarias permitidas por esta Ley y demás disposiciones aplicables;
+
+VI.- Disponente, a aquél que conforme a los términos de la ley le corresponde decidir sobre su cuerpo o cualquiera de sus componentes en vida y para después de su muerte;
+
+VII.- Donador o donante, al que tácita o expresamente consiente la disposición de su cuerpo o componentes para su utilización en trasplantes;
+
+VIII.- Embrión, al producto de la concepción a partir de ésta, y hasta el término de la duodécima semana gestacional;
+
+IX.- Feto, al producto de la concepción a partir de la decimotercera semana de edad gestacional, hasta la expulsión del seno materno;
+
+X.- Órgano, a la entidad morfológica compuesta por la agrupación de tejidos diferentes que concurren al desempeño de los mismos trabajos fisiológicos;
+
+XI.- Producto, a todo tejido o sustancia extruída, excretada o expelida por el cuerpo humano como resultante de procesos fisiológicos normales. Serán considerados productos, para efectos de este Título, la placenta y los anexos de la piel;
+
+XII.- Receptor, a la persona que recibe para su uso terapéutico un órgano, tejido, células o productos;
+
+XIII.- Tejido, a la entidad morfológica compuesta por la agrupación de células de la misma naturaleza, ordenadas con regularidad y que desempeñen una misma función;
+
+XIV.- Trasplante, a la transferencia de un órgano, tejido o células de una parte del cuerpo a otra, o de un individuo a otro y que se integren al organismo;
+
+XV.- Bioética, rama de la ética que aspira a proveer los principios orientadores de la conducta humana en el campo de la medicina;
+
+XVI.- Dignidad, valor intrínseco y supremo que tiene cada ser humano, por el simple hecho de serlo, con independencia de su condición social o económica, raza, género, religión, étnica;
+
+XVII.- Genoma Humano, es el número total de cromosomas del cuerpo humano que contiene la información genética de la persona, y
+
+XVIII.- Consentimiento válidamente informado, es la aprobación que otorga una persona caracterizada por comprender la información dada de manera adecuada, es decir, que se le explicaron los términos médicos con lenguaje coloquial, y que estuvo acompañado de una persona de su confianza, para que con ésta pueda consultar o corroborar la información dada.
 
 ###### Artículo 4.
 
@@ -729,9 +775,13 @@ VI.- Asegurar la prestación de la asistencia médica y la atención sanitaria q
 
 VII.- Combatir las enfermedades y mal nutrición en el marco de la atención primaria de la salud, promoviendo la aplicación de tecnologías de fácil acceso y el suministro de alimentos nutritivos adecuados y agua potable salubre, teniendo en cuenta los peligros y riesgos de contaminación del medio ambiente;
 
-VIII.- Adoptar las medidas eficaces y apropiadas posibles para abolir las prácticas tradicionales que sean perjudiciales para la salud de los menores; y
+VIII.- Adoptar las medidas eficaces y apropiadas posibles para abolir las prácticas tradicionales que sean perjudiciales para la salud de los menores; y (sic)
 
-IX.- La atención de los problemas en el área de la comunicación humana y de la Psicología en el niño, como grupo prioritario y de alto riesgo.
+IX.- La atención de los problemas en el área de la comunicación humana y de la Psicología en el niño, como grupo prioritario y de alto riesgo;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
+X.- La atención materno-infantil que comprenderá: la atención de la mujer durante el embarazo, el parto y el puerperio; la atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna y su salud visual; la detección temprana de la sordera y su tratamiento, en todos sus grados, desde los primeros días del nacimiento, y acciones para diagnosticar y ayudar a resolver el problema de salud visual y auditiva de los niños en las escuelas públicas y privadas.
 
 ###### Artículo 69.
 
@@ -839,9 +889,13 @@ I.- Utilización de métodos sensibles y específicos para la detección tempran
 
 II.- Desarrollo de programas de comunicación educativa dirigidos a la comunidad, con el propósito de informar sobre los factores de riesgo de las enfermedades crónico-degenerativas para prevenir su aparición y sus complicaciones;
 
-III.- Apoyo y fomento de la investigación en materia de enfermedades crónico-degenerativas; y
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
-IV.- Las demás que coadyuven a la salud del adulto y del adulto mayor.
+III.- Salvaguardar la dignidad del adulto y del adulto mayor, y, en la medida de lo posible, garantizar una vida de calidad a través de los cuidados y atenciones médicas geriátricas;
+
+IV.- Apoyo y fomento de la investigación en materia de enfermedades crónico-degenerativas; y
+
+V.- Las demás que coadyuven a la salud del adulto y del adulto mayor.
 
 ###### Artículo 82.
 
@@ -876,6 +930,10 @@ La atención de las enfermedades mentales, comprende:
 I.- La atención de personas con padecimientos mentales, la rehabilitación de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o sustancias psicotrópicas; y
 
 II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
+El tratamiento de personas con padecimientos mentales en establecimientos destinados a tal efecto, se ajustará a principios éticos, bioéticos y sociales, además de los requisitos científicos y legales que determine la Secretaría de Salud y establezcan las disposiciones jurídicas aplicables.
 
 ###### Artículo 87.
 
@@ -916,6 +974,10 @@ IV.- Las disposiciones de esta Ley y demás normas jurídicas aplicables.
 Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología y sus ramas y las demás que establezcan otras disposiciones legales aplicables, se requiere que los Títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
 Para el ejercicio de las actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia de lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido expedidos y registrados por las autoridades educativas competentes.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
+Los profesionales técnicos y auxiliares que ejerzan las actividades mencionadas en los párrafos anteriores deberán brindar sus servicios en forma oportuna, con calidad garantizada, profesional y éticamente responsable, así como brindar a las personas un trato humanista, respetuoso y digno.
 
 ###### Artículo 91.
 
@@ -1015,9 +1077,45 @@ V.- Al estudio de las técnicas y métodos que se recomienden o empleen para la 
 
 VI.- A la producción de insumos para la salud.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 105.
 
-La Secretaría de Salud de Morelos, apoyarán (sic) y estimularán (sic) la promoción, la constitución y el funcionamiento de establecimientos destinados a la investigación para la salud vigilando que cumpla la normatividad marcada en el Título Quinto de Investigación para la Salud de la Ley General de Salud.
+La Secretaría de Salud del Estado de Morelos en coordinación con la Secretaría de Educación del Estado, la Universidad Autónoma del Estado de Morelos, las instituciones y universidades de educación superior reconocidas nacionalmente y el Consejo Estatal de Ciencia y Tecnología, apoyarán y estimularán la promoción, la constitución y el funcionamiento de establecimientos destinados a la investigación, así como su vigilancia sistemática. Asimismo la Secretaría de Salud en coordinación con dichas instituciones elaborarán y mantendrán actualizando un inventario de la investigación en el área de salud, que se desarrolle en el Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 105 Bis.
+
+En las instituciones de salud, bajo la responsabilidad de los directores o titulares respectivos y de conformidad con las disposiciones aplicables, se constituirán:
+
+I.- Una comisión de investigación;
+
+II.- Una comisión de ética, para el caso de que se realicen investigaciones en seres humanos, y
+
+III.- Una comisión de bioseguridad, encargada de regular el uso de radiaciones ionizantes o de técnicas de ingeniería genética.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 105 Ter.
+
+En el Estado de Morelos, la investigación en seres humanos se desarrollará conforme a las siguientes bases:
+
+I.- Deberá sujetarse a los principios científicos, éticos y bioéticos que justifiquen la investigación médica, especialmente en lo que se refiere a su posible contribución a la solución de problemas de salud y al desarrollo de nuevos campos de la ciencia médica;
+
+II.- Podrá realizarse sólo cuando el conocimiento que se pretenda producir no pueda obtenerse por otro método idóneo;
+
+III.- Podrá efectuarse sólo cuando exista una razonable seguridad de que no expone a riesgos ni daños innecesarios a la persona sujeta a experimentación;
+
+IV.- Se deberá contar con el consentimiento válidamente informado escrito de la persona en quien se realizará la investigación, o de su representante legal en caso de incapacidad legal de aquél, una vez enterado de los objetivos de la experimentación y de las posibles consecuencias positivas o negativas para su salud;
+
+V.- Sólo podrá realizarse por profesionales de la salud en instituciones médicas que actúen bajo la vigilancia de las autoridades sanitarias competentes;
+
+VI.- El profesional responsable suspenderá la investigación en cualquier momento, si sobreviene el riesgo de lesiones graves, invalidez o muerte del sujeto en quien se realice la investigación;
+
+VII.- Es principio sustancial de la legislación sanitaria, el reconocimiento, aplicación y jerarquía superior a los preceptos federales y su reglamentación. También son aplicables, las normas sanitarias locales, y
+
+VIII.- Las demás que establezca la legislación federal y la reglamentación federal y local correspondiente.
 
 ## TÍTULO SEXTO. INFORMACIÓN PARA LA SALUD
 
@@ -1863,6 +1961,14 @@ El Comité Estatal de Trasplantes de Morelos hará constar el mérito y altruism
 
 Los trasplantes de órganos, tejidos y células en seres humanos vivos podrán llevarse a cabo cuando hayan sido satisfactorios los resultados de las investigaciones realizadas al efecto, representen un riesgo aceptable para la salud y la vida del donante y del receptor, y siempre que existan justificantes de orden terapéutico debiendo contar con el aval del Comité de Ética de la propia institución y apegándose a las obligaciones y pautas del Capítulo III del Título Décimo Cuarto de la Ley General de Salud.
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
+En el Estado de Morelos y de conformidad con la Ley General de Salud, está prohibido:
+
+I.- El trasplante de gónadas o tejidos gonadales, y
+
+II.- El uso, para cualquier finalidad, de embriones, fetos, tejidos embrionarios o fetales producto del aborto.
+
 ###### Artículo 205.
 
 Para realizar trasplantes entre vivos, deberán cumplirse los siguientes requisitos respecto del donante:
@@ -1875,7 +1981,9 @@ III. Tener compatibilidad aceptable con el receptor;
 
 IV. Recibir información completa sobre los riesgos de la operación y las consecuencias de la extracción del órgano o tejido, por un médico distinto de los que intervendrán en el trasplante;
 
-V. Haber otorgado su consentimiento en forma expresa, en términos del Capítulo II del Título Décimo Cuarto de la Ley General de Salud;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
+V. Haber otorgado su consentimiento válidamente informado en forma expresa y, en términos del Capítulo II del Título Décimo Cuarto de la Ley General de Salud y demás legislación aplicable, y
 
 VI. Tener parentesco por consanguinidad, por afinidad o civil o ser cónyuge, concubina o concubinario del receptor. Cuando se trate del trasplante de médula ósea no será necesario este requisito.
 
@@ -3292,3 +3400,9 @@ Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para
 ###### ARTÍCULO TERCERO.
 
 Para los efectos del reglamento del Congreso del estado la presente reforma entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
+
+P.O. 11 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo dispuesto en la presente.
