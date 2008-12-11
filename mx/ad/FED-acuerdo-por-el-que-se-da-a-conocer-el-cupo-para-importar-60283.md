@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-da-a-conocer-el-cupo-para-importar-60283"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-04-01"
-last_updated: "2008-04-01"
+last_updated: "2008-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60283&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-03-25"
 
 ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR DIVERSAS MERCANCIAS CLASIFICADAS EN EL CAPITULO 95 DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR JUGUETES, PUBLICADO EN EL D.O.F. DE 11 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 1 de abril de 2008.
 
@@ -242,3 +244,17 @@ ASIGNACION DIRECTA
 1/1
 
 (VEASE ARCHIVO ANEXO)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 11 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación y su vigencia será al 31 de diciembre de 2014.
+
+SEGUNDO.- Se abroga el Acuerdo por el que se da a conocer el cupo para importar diversas mercancías clasificadas en el Capítulo 95 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicado en el Diario Oficial de la Federación el 1 de abril de 2008.
+
+TERCERO.- Los certificados de cupo expedidos, de conformidad con el Acuerdo que se abroga, podrán utilizarse hasta que se agote el monto de cupo asignado o hasta el término de su vigencia.
+
+CUARTO.- Durante los treinta días posteriores a la publicación del presente Acuerdo, las empresas podrán solicitar, mediante escrito libre, la diferencia entre el monto recibido, de conformidad con el Acuerdo que se abroga y el monto que le corresponde, de conformidad con el presente Acuerdo.
+
+QUINTO.- Las solicitudes de asignación y expedición de certificado de cupo en trámite, presentadas al amparo del Acuerdo que se abroga, se resolverán conforme a lo dispuesto en el presente Acuerdo.
