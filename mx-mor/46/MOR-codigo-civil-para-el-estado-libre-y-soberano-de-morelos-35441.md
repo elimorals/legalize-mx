@@ -4,7 +4,7 @@ identifier: "MOR-codigo-civil-para-el-estado-libre-y-soberano-de-morelos-35441"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "2008-09-24"
+last_updated: "2008-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2008.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el 13 de octubre de 1993.
 
@@ -449,11 +449,13 @@ Si las dudas de cuya solución trata este artículo recayesen sobre el objeto pr
 
 ### CAPITULO I. REGLAS GENERALES
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 59.
 
-SUJETO DE DERECHO. La persona jurídica es todo ser humano o ente titular de derechos y obligaciones.
+SUJETO DE DERECHO. La persona jurídica individual es todo ser humano desde la concepción hasta la muerte natural, titular de derechos y obligaciones.
+
+Persona jurídica colectiva o moral es toda agrupación de personas individuales dotada de personalidad jurídica, titular de derechos y obligaciones.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -483,49 +485,49 @@ V.- Las sociedades y asociaciones civiles
 
 VI.- Las asociaciones distintas de las enumeradas que se propongan fines políticos científicos, mutualistas, artísticas, de recreo o cualquier otro fin lícito no económico, siempre que no fueren desconocidas por la Ley.
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 62.
 
-EJERCICIO DE LOS DERECHOS DE LAS PERSONAS JURÍDICAS COLECTIVAS. Las personas jurídicas colectivas pueden ejercitar todos los derechos que sean necesarios para realizar el objeto social establecido en sus estatutos.
+EJERCICIO DE LOS DERECHOS DE LAS PERSONAS JURÍDICAS COLECTIVAS. Las personas jurídicas colectivas pueden ejercitar todos los derechos que sean necesarios para realizar el fin para el cual fueron creadas.
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 63.
 
-ÓRGANOS REPRESENTATIVOS DE LAS PERSONAS COLECTIVAS. Las personas jurídicas colectivas obran y se obligan por medio de órganos que las representan, sea por disposición de la Ley o conforme a lo dispuesto en sus escrituras constitutivas o estatutos.
+ÓRGANOS REPRESENTATIVOS DE LAS PERSONAS COLECTIVAS. Las personas jurídicas colectivas obran y se obligan por medio de las personas jurídicas individuales legitimadas para ello.
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 64.
 
-RECONOCIMIENTO DE PERSONAS COLECTIVAS. Para los efectos de este Código, no se reconocen más personas jurídicas colectivas que las expresamente autorizadas por la Ley.
+RECONOCIMIENTO DE PERSONAS COLECTIVAS. Para los efectos de este Código, se reconocen las personas jurídicas colectivas expresamente autorizadas por las leyes.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ### CAPITULO III. DEL DOMICILIO
 
-> <small>(ADICIONADO Y REUBICADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 65.
 
-DOMICILIO DE LAS PERSONAS COLECTIVAS. Las personas jurídicas colectivas tienen su domicilio en el lugar donde se halle establecida su administración.
-
-Las que tengan su administración fuera del Estado de Morelos, pero que ejecuten actos jurídicos dentro de él, se considerarán domiciliadas en el lugar donde los hayan ejecutado, en todo lo que a esos actos se refiera.
-
-Las sucursales que operen en lugares distintos de donde radica la casa matriz, tendrán su domicilio en esos lugares para el cumplimiento de las obligaciones contraídas por las mismas sucursales.
+DOMICILIO DE LAS PERSONAS JURÍDICAS COLECTIVAS. Las personas jurídicas colectivas tienen su domicilio en el lugar donde desarrollen su producción.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO IV. DE LA RAZON O DENOMINACION SOCIAL
+Las que tengan su administración fuera del Estado de Morelos, pero que ejecuten actos jurídicos dentro de él, se considerarán domiciliadas en el lugar donde los hayan ejecutado, en todo lo que a esos actos se refiera.
 
-> <small>(ADICIONADO Y REUBICADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+Las sucursales que operen en lugares distintos de donde radica la casa matriz, tendrán su domicilio en esos lugares para el cumplimiento de las obligaciones contraídas por las mismas sucursales.
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO IV. DE LA RAZON O DENOMINACION SOCIAL
 
 ###### ARTICULO 66.
 
-DENOMINACIÓN SOCIAL DE LAS ASOCIACIONES Y SOCIEDADES CIVILES. La denominación de las personas jurídicas colectivas civiles se formará por la razón o denominación social aprobada por sus miembros, seguido de las palabras asociación civil o sociedad civil, o bien de las siglas A.C. o S.C. según corresponda.
-
-La razón o denominación social no deberá ser contraria a las disposiciones sobre nomenclatura de entes reguladas en otras leyes.
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -11169,6 +11171,12 @@ GARANTIA DE PAGO AL HOSTELERO. Para cubrir el importe del hospedaje, los dueños
 
 CONCEPTO LEGAL DE LA ASOCIACION. La asociación civil es una corporación de naturaleza privada, a la que se otorga personalidad jurídica y se constituye mediante contrato por el que dos o más personas físicas convienen en reunirse de manera que no sea enteramente transitoria, para realizar un fin común, lícito que no tenga carácter preponderantemente económico.
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 2102 BIS.- DENOMINACIÓN SOCIAL DE LAS ASOCIACIONES CIVILES. La denominación de las personas jurídicas colectivas civiles se formará por la razón o denominación social aprobada por sus miembros, seguido de las palabras asociación civil, o bien de las siglas A.C.
+
+La razón ó denominación social no deberá ser contraria a las disposiciones sobre nomenclatura reguladas en otras leyes.
+
 ###### ARTICULO 2103.
 
 CONSECUENCIA DERIVADA DEL CONTRATO DE ASOCIACION CIVIL. Son consecuencias jurídicas inherentes a la personalidad de la asociación, las siguientes:
@@ -11268,6 +11276,12 @@ La extinción de las asociaciones de beneficencia se regirá por las leyes espec
 ###### ARTICULO 2117.
 
 NOCION LEGAL DE SOCIEDAD CIVIL. La sociedad civil es una corporación de naturaleza privada a la que se otorga personalidad jurídica. Se constituye por contrato celebrado entre dos o más personas, quienes se reúnen de manera permanente para realizar un fin común, lícito y posible, de carácter preponderantemente económico, mediante la aportación de bienes o industria, o de ambos, siempre y cuando el fin no constituya una especulación comercial.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 2117 BIS.- DENOMINACIÓN SOCIAL DE LAS SOCIEDADES CIVILES. La denominación de las personas jurídicas colectivas civiles se formará por la razón o denominación social aprobada por sus miembros, seguido de las palabras sociedad civil, o bien de las siglas S.C.
+
+La razón ó denominación social no deberá ser contraria a las disposiciones sobre nomenclatura reguladas en otras leyes.
 
 ###### ARTICULO 2118.
 
@@ -13892,3 +13906,11 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 11 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo dispuesto en la presente.
+
+TERCERO. Aprobado que sea, remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para que los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y soberano de Morelos.
