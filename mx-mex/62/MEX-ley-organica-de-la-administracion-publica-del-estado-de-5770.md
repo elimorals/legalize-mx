@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2008-05-14"
+last_updated: "2008-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -1043,9 +1043,9 @@ A esta Secretaría le corresponde el despacho de los siguientes asuntos:
 
 I. Formular y ejecutar programas y acciones para el desarrollo del transporte y sus servicios conexos;
 
-> <small>(REFORMADA, G.G. 14 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
 
-II. Otorgar, modificar, revocar, rescatar, revertir o dar por terminadas las concesiones para la prestación del servicio público de pasajeros colectivo, individual, mixto, arrastre, salvamento, guarda y custodia de vehículos y fijar los requisitos mediante disposiciones de carácter general para su otorgamiento, con excepción del transporte masivo o de alta capacidad. El proceso de otorgamiento será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno" mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma; con excepción del transporte masivo o de alta capacidad;
+II. Otorgar, modificar, revocar, rescatar, revertir o dar por terminadas las concesiones para la prestación del servicio público de pasajeros colectivo, individual, mixto, y el servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos, y fijar los requisitos mediante disposiciones de carácter general para su otorgamiento, con excepción del transporte masivo o de alta capacidad. El proceso de otorgamiento será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno", mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma; con excepción del transporte masivo o de alta capacidad;
 
 > <small>(REFORMADA, G.G. 14 DE MAYO DE 2008)</small>
 
@@ -1059,7 +1059,9 @@ V. Vigilar el cumplimiento de las disposiciones legales en materia de transporte
 
 VI. Ejecutar las acciones técnicas de seguimiento, evaluación y control de avance, calidad y demás características de las obras o de la prestación de los servicios en materia de transporte, sin perjuicio de la intervención que corresponda a otras autoridades;
 
-VII. Autorizar y modificar las tarifas a que se sujete el servicio público de transporte;
+> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
+
+VII. Autorizar y modificar las tarifas a que se sujete el servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, así como determinar el medio a través del cual los usuarios realizarán el pago de la misma y los dispositivos con que deberán contar los concesionarios para recabarla;
 
 VIII. Prevenir y sancionar el incumplimiento de obligaciones por parte de los titulares de concesiones, permisos o autorizaciones en materia de transporte público;
 
@@ -1091,9 +1093,17 @@ XVI. Expedir las placas de matriculación, calcomanías, tarjetas de circulació
 
 XVII. Otorgar las licencias, permisos y autorizaciones que le correspondan para conducir vehículos automotores destinados al transporte en sus diversas clases y modalidades;
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
 
-XVIII. Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
+XVIII. Concesionar la implementación y operación del servicio de pago tarifario anticipado para el acceso de la población al servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, y fijar los requisitos mediante disposiciones de carácter general para su otorgamiento; así como modificar, revocar, rescatar, revertir o dar por terminadas las mismas. El proceso de otorgamiento será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno", mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma;
+
+> <small>(ADICIONADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
+
+XIX. Concesionar la implementación y operación de los Centros de Gestión y Control Común a través de los cuales se operen redes integradas de transporte, con las que se eficiente el servicio público de pasajeros en la (sic) modalidades de colectivo, individual y mixto, y fijar los requisitos mediante disposiciones de carácter general para su otorgamiento; así como modificar, revocar, rescatar, revertir o dar por terminadas las mismas. El proceso de otorgamiento será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno", mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma;
+
+> <small>(ADICIONADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
+
+XX. Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2002)</small>
 
@@ -1864,6 +1874,16 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Go
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+G.G. 11 DE DICIEMBRE DE 2008.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+CUARTO.- La emisión, venta y recaudación de las tarjetas de prepago deberá estar a cargo del concesionario que proporcione este servicio, por lo que se establece un término de 6 meses a fin, de concretar la mecánica de este programa.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
