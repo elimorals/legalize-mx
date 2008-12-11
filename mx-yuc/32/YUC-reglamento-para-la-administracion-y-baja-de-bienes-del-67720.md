@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-para-la-administracion-y-baja-de-bienes-del-67720"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-16"
-last_updated: "2008-01-16"
+last_updated: "2008-12-11"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "YUC"
 
 REGLAMENTO PARA LA ADMINISTRACION Y BAJA DE BIENES DEL INSTITUTO DE PROCEDIMIENTOS ELECTORALES Y PARTICIPACION CIUDADANA DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el miércoles 16 de enero de 2008.
 
@@ -142,7 +142,9 @@ III. El Director Ejecutivo de Administración y Prerrogativas del Instituto;
 
 IV. El Titular de la Unidad de Contraloría; y
 
-V. El Titular del Departamento Jurídico del Instituto;
+> <small>(REFORMADA, D.O. 11 DE DICIEMBRE DE 2008)</small>
+
+V. El Titular de la Unidad de Asesoría y Desarrollo del Instituto;
 
 El Presidente podrá nombrar por escrito a quien lo supla en el Comité, quien deberá ser un Consejero Electoral propietario.
 
@@ -228,9 +230,11 @@ II. Cuando el bien se hubiere extraviado o robado, debiendo levantar acta como c
 
 III. Cuando de conformidad con el dictamen técnico que elabore, los bienes del Instituto sean enajenados de conformidad con las disposiciones de este Reglamento.
 
+> <small>(REFORMADO, D.O. 11 DE DICIEMBRE DE 2008)</small>
+
 ###### Articulo 20.
 
-Cuando se trate de la baja de bienes no útiles o siniestrados, la Dirección de Administración solicitará al Comité la elaboración de un dictamen para proceder a su baja definitiva. En dicho dictamen se deberá incluir una descripción del estado en que se encuentran el o los bienes, el original del resguardo del inventario elaborado, así como las firmas de autorización del presidente y secretario del Comité, del Jefe del Almacén, del Director de Administración y del o los responsable (s) del resguardo de dichos bienes.
+Cuando se trate de la baja de bienes no útiles o siniestrados, la Dirección de Administración solicitará al Comité la elaboración de un dictamen para proceder a su baja definitiva. El dictamen deberá contener una descripción del estado en que se encuentran el o los bienes, el original del resguardo de los bienes y la solicitud de baja de los bienes muebles, debidamente firmada por el Director de Administración y por el Secretario Ejecutivo.
 
 ###### Articulo 21.
 
@@ -358,9 +362,13 @@ a) Ninguna persona adquiera las bases;
 
 b) Nadie se registre para participar en el acto de presentación y apertura de posturas;
 
-c) Cuando los postores adquirieron las bases, cumplieron con los requisitos para su registro, pero incumplieron con otros requisitos esenciales de la subasta, entre los que se encuentran, el no presentar postura o ésta fuese inferior a la postura legal o, no haber exhibido en efectivo el 25% de dicha postura. En este supuesto en el acta del fallo se debe indicar que se procederá a realizar la enajenación de los bienes por adjudicación directa.
+> <small>(REFORMADO, D.O. 11 DE DICIEMBRE DE 2008)</small>
 
-En los casos de los incisos a) y b), se debe asentar en el acta que se levante para dichos supuestos que también se declara desierta la subasta.
+c) Cuando los postores adquirieron las bases, cumplieron con los requisitos para su registro, pero incumplieron con otros requisitos esenciales de la subasta, entre los que se encuentran, el no presentar postura o ésta fuese inferior a la postura legal o, no haber exhibido en efectivo el 25% de dicha postura.
+
+> <small>(REFORMADO, D.O. 11 DE DICIEMBRE DE 2008)</small>
+
+En caso de declararse desierta la subasta pública, se deberá indicar en el acta del fallo respectivo que se procederá a realizar la enajenación de los bienes mediante la adjudicación directa.
 
 ###### Artículo 35.
 
@@ -464,9 +472,17 @@ La Unidad de Contraloría, en el ejercicio de sus respectivas atribuciones, podr
 
 ### Capítulo V. Generales
 
+> <small>(REFORMADO, D.O. 11 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 51.
 
-El Comité decidirá de plano cualquier cuestión que se suscite relativa al remate, y de sus Resoluciones.
+Contra el fallo de la subasta que emita el Comité, los participantes interesados podrán manifestar su inconformidad dentro de los dos días hábiles posteriores a la emisión del fallo, a través del Recurso Administrativo de Queja, mismo que será interpuesto ante el mismo Comité, quién posteriormente lo remitirá a la Unidad de Contraloría Interna del Instituto para su estudio y análisis.
+
+> <small>(ADICIONADO, D.O. 11 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 51 Bis.
+
+Recibido el Recurso Administrativo de Queja, la Unidad de Contraloría Interna dispondrá de tres días hábiles para el estudio, análisis y elaboración del dictamen correspondiente y posteriormente lo remitirá de nueva cuenta al Comité, a efecto que dentro de los cinco días hábiles siguientes proceda a sesionar para resolver lo conducente, tomando como base lo establecido en el dictamen que la Unidad de Contraloría Interna elabore.
 
 ###### Artículo 52.
 
@@ -515,3 +531,11 @@ Los trabajadores del Instituto, así como sus cónyuges, si lo hubieren, sus par
 ###### Artículo 62.
 
 El Comité podrá invitar a los representantes de los partidos políticos acreditados e inscritos ante el Instituto para que asistan a los actos públicos de las subastas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O. 11 DE DICIEMBRE DE 2008.
+
+SE TRANSCRIBE UNICAMENTE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+OCTAVO. Pubíquese el presente Acuerdo en el Diario Oficial del Gobierno del Estado, para su difusión.
