@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-44-de-coordinacion-fiscal-para-el-estado-y-los-15983
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2008-06-09"
+last_updated: "2008-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,29 +21,193 @@ state: "VER"
 ---
 # LEY NUMERO 44 DE COORDINACION FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 44 DE COORDINACION FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE JUNIO DE 2008.
+Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 5 de abril de 2000.
 
-Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 30 de diciembre de 1999.
+TOMAS YARRINGTON RUVALCABA, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
-Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz-Llave.
+Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
 
-Miguel Alemán Velazco, Gobernador Constitucional del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes sabed:
+Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
 
-Que la H. Legislatura del Estado se ha servido dirigirme la siguiente Ley para su promulgación:
+LA QUINCUAGESIMA SEPTIMA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 58 FRACCION I DE LA CONSTITUCION POLITICA LOCAL, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
-Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
+D E C R E T O No. 171
 
-"La Honorable Quincuagésima Octava Legislatura del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 68, fracción I de la Constitución Política Local; 44 de la Ley Orgánica del Poder Legislativo; 103 del Reglamento para el Gobierno Interior del Poder Legislativo y en nombre del pueblo, expide la siguiente:
+LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHOLICAS
 
-> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+### CAPITULO I. DISPOSICIONES GENERALES
 
-LEY NÚMERO 44 DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+###### ARTICULO 1o.
 
-### CAPÍTULO I. Disposiciones generales
+Las disposiciones de la presente ley son de orden público y de interés social, así como de observancia obligatoria en el territorio del Estado y tienen por objeto establecer las bases y modalidades que regirán la operación, funcionamiento ubicación y horario de los establecimientos destinados al almacenamiento, distribución, enajenación, y consumo de bebidas alcohólicas en el Estado.
+
+###### ARTICULO 2o.
+
+Es facultad del Ejecutivo del Estado interpretar, aplicar y vigilar todo lo relativo al cumplimiento y aplicación de las disposiciones de la presente ley, por conducto de la Secretaría, sin perjuicio de las facultades que corresponde a la autoridad judicial y a las autoridades municipales.
+
+###### ARTICULO 3o.
+
+El Gobernador del Estado, por conducto de la Secretaría, podrá celebrar convenios de coordinación con los Ayuntamientos, delegando en éstos el ejercicio de las atribuciones que ésta ley le confiere para su exacto cumplimiento, sin perjuicio de poder ejercerlas en cualquier momento en forma concurrente. Estos convenios solo podrán celebrarse con aquellos Ayuntamientos cuyos Municipios reúnan las condiciones necesarias para la aplicación de las disposiciones de la presente ley, y el ejercicio de las atribuciones que se confieren.
+
+###### ARTICULO 4o.
+
+A falta de disposición expresa en esta ley, se aplicará supletoriamente el Código Fiscal del Estado y las normas del derecho común.
+
+###### ARTICULO 5o.
+
+Para los efectos de esta ley se entenderá por:
+
+I.- Abarrotes: Establecimiento dedicado a la venta de alimentos y bebidas sin preparar, artículos para el hogar y similares que expende, complementariamente, bebidas alcohólicas en envase cerrado al menudeo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+II.- Agencia o subagencia: Establecimiento dedicado al expendio y distribución de cerveza al mayoreo. Sus instalaciones e infraestructura deberán ser acordes con su objeto, debiendo contar con vehículos o camiones debidamente identificados mediante los cuales distribuyan su producto a los establecimientos respectivos;
+
+III.- Almacén: Lugar donde se guardan o custodian bebidas alcohólicas en los negocios autorizados;
+
+IV.- Asociaciones civiles, centros cívicos, clubes de servicio o agrupaciones que tengan finalidades mutualistas, altruistas, recreativas o de cualquiera otra naturaleza: Son aquellos lugares en los cuales podrán contar con salón de baile y servicio de cantina y cocina, que solo funcionarán en el transcurso de los eventos, con consumo y, en su caso, enajenación de bebidas alcohólicas;
+
+V.- Bar: Establecimiento en el que, de manera independiente o formando parte de otro local, se expenden bebidas alcohólicas para su consumo en el interior del mismo lugar, pudiendo de manera complementaria, presentar música en vivo o grabada;
+
+VI.- Bar de hotel o motel: Establecimiento que forma parte de un hotel, motel o similar, en el que se enajenan bebidas alcohólicas para su consumo en el interior del mismo lugar, pudiendo presentar música en vivo o grabada;
+
+VII.- Bebidas alcohólicas: Aquellas que a la temperatura de 15º centígrados tengan una graduación alcohólica de más de 2º G.L., incluyendo al aguardiente y a los concentrados de bebidas alcohólicas.
+
+Cuando en esta ley se haga referencia a bebidas alcohólicas se entenderá que está incluida la cerveza;
+
+VIII.- Billar o boliche: Establecimiento donde se practica el billar o el boliche, y en el que como servicio se pueden enajenar bebidas alcohólicas para su consumo en el interior del mismo lugar;
+
+IX.- Bodega: Lugar donde se almacenan bebidas alcohólicas, propio del establecimiento que se dedica a elaborar, envasar o enajenar dichos productos;
+
+X.- Cabaret o centro nocturno: Establecimiento donde se enajenan bebidas alcohólicas para su consumo en el interior del mismo lugar, el cual cuenta con pista de baile para la clientela y presenta además, para el entretenimiento de ésta, espectáculos de los permitidos por la ley;
+
+XI.- Café cantante: Establecimiento donde se enajenan bebidas alcohólicas para su consumo en el interior del mismo lugar, en donde se ofrecen presentaciones artísticas y culturales;
+
+XII.- Cancelación: Es el acto administrativo por el cual la autoridad competente deja sin efecto una licencia o permiso;
+
+XIII.- Cantina o taberna: Establecimiento en el que se enajenan bebidas alcohólicas en envase abierto y al copeo, para su consumo en el interior del mismo lugar, sin que para ello se requiera el consumo de alimentos;
+
+XIV.- Casa-habitación: Inmueble, cuarto, departamento, aposento, edificio o lugar construido que esté habitado por una o más personas;
+
+XV.- Casino, círculo o club social: Lugar que proporciona servicio exclusivamente a sus socios e invitados, en el que se puede enajenar bebidas alcohólicas para su consumo;
+
+XVI.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
+
+XVII.- Centro de espectáculos: Lugar en el que se presentan espectáculos artísticos, deportivos o culturales, cuyo acceso se controla mediante boletos de distribución gratuita u onerosa, en el que se puede enajenar bebidas alcohólicas, que serán servidas en envase desechable, de plástico o de cualquier otro material que no represente peligro alguno;
+
+XVIII.- Centro recreativo y deportivo o club: Establecimiento donde se ofrecen al público, servicios específicos e instalaciones deportivas, que podrá contar con licencia para la enajenación de bebidas alcohólicas, para su consumo en el interior del mismo lugar;
+
+XIX.- Cerveza: Bebida fermentada, elaborada con malta de cebada, lúpulo, levadura y agua o con infusiones de cualquiera semilla farinácea procedente de gramíneas o leguminosas, raíces o frutos feculentos o azúcares como adjuntos de la malta, con adición del lúpulo o sucedáneos de éste.
+
+XX.- Cervecería: Establecimiento donde se enajena todo tipo de cerveza, en envase abierto, para su consumo en el interior del mismo lugar;
+
+XXI.- Coctelería: Establecimiento dedicado a la venta de alimentos preparados a base de pescados y mariscos, donde de manera complementaria se podrá enajenar únicamente cerveza en envase abierto para su consumo dentro del local y en forma simultánea al consumo de alimentos;
+
+XXII.- Consumidor: Persona mayor de edad y en pleno goce de sus facultades mentales que adquiere bebidas alcohólicas para su consumo;
+
+XXIII. - Consumo: Acción de ingerir bebidas alcohólicas;
+
+XXIV.- Discoteca: Establecimiento donde se enajenan bebidas alcohólicas, para su consumo en el interior del mismo lugar, el cual cuenta con pista de baile para su clientela, con efectos de luces y sonidos especiales, pudiendo tener música en vivo o grabada;
+
+XXV.- Distribución: El traslado a domicilio de bebidas alcohólicas, una vez realizada la enajenación por la distribuidora;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+XXVI.- Distribuidora: Establecimiento en el que se almacenan bebidas alcohólicas para su enajenación al público en envase cerrado, mediante pedido al mayoreo y deberá contar con las instalaciones e infraestructura acorde a su actividad, así como vehículos debidamente identificados para distribuir el producto;
+
+XXVII.- Enajenación: Acto mediante el cual una persona transmite a otra, una cosa o un derecho;
+
+XXVIII.- Enajenación ilícita: Es la venta de bebidas alcohólicas que realice toda persona que no cuente con licencia o permiso, o que teniéndolos, lo haga fuera de los días, de los horarios o de las condiciones establecidas en la ley, en la licencia o en el permiso;
+
+XXIX.- Envasadora: Negociación que se dedica al envasamiento de bebidas alcohólicas para su enajenación en envase cerrado y al mayoreo;
+
+XXX.- Establecimiento: Lugar destinado para la enajenación, distribución o consumo de bebidas alcohólicas, independientemente del nombre con que se le designe;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+XXXI.- Expendio o depósito: Establecimiento en donde se enajena cerveza en envase cerrado para su posterior consumo en lugar distinto a este;
+
+XXXII.- Feria: Lugar o espacio habilitado o construido para efecto de exponer, exhibir y dar a conocer artículos y actividades comerciales, industriales, artísticas, culturales, artesanales, deportivas y de cualquier otra naturaleza lícita, con el objeto de promover el desarrollo del Estado, en el que se puede enajenar bebidas alcohólicas, servidas en envase desechable, de plástico o de cualquier otro material que no represente peligro alguno;
+
+XXXIII.- Fonda, lonchería, taquería, cenaduría, comedor y similares: Lugares donde se expenden alimentos preparados, que de manera complementaria podrán enajenar únicamente cerveza para su consumo en el interior del mismo lugar y en forma simultánea al consumo de alimentos;
+
+XXXIV.- Licencia: Documento otorgado por el Ejecutivo del Estado, por conducto de la Secretaría, en el que consta la autorización, los términos y las condiciones en que se puede enajenar, distribuir o permitir el consumo de bebidas alcohólicas, ya sea en envase cerrado o abierto;
+
+XXXV.- Licorería: Establecimiento cuya actividad predominante sea la enajenación de bebidas alcohólicas en envase cerrado y al menudeo;
+
+XXXVI.- Mercancía: Toda bebida alcohólica que se encuentre en un inmueble, así como en los muebles o enseres requeridos para su comercialización y venta;
+
+XXXVII.- Minisuper: Establecimiento con prestación de autoservicio, cuyo objeto primordial es la venta al público de alimentos y bebidas sin preparar, así como productos de uso y de consumo, el cual podrá complementariamente enajenar bebidas alcohólicas en envase cerrado para su consumo en lugar distinto;
+
+XXXVIII.- Permiso: Documento otorgado por el Ejecutivo del Estado, por conducto de la Secretaría, en el que se autoriza la enajenación de bebidas alcohólicas en envase abierto desechable, de plástico o de cualquier otro material que no represente peligro alguno y se permite su consumo en un espacio previamente delimitado;
+
+XXXIX.- Propietario: Persona física o moral que enajena bebidas alcohólicas en los términos de esta ley, así como aquella que con el carácter de dependiente, gerente, administrador, representante u otro similar, sea responsable de la operación y funcionamiento de algún establecimiento;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+XL.- Restaurante: Establecimiento donde se expenden alimentos y bebidas alcohólicas, para su consumo en el mismo, debiendo contar con menú de los platillos que expenda y las materias primas suficientes para su preparación;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+XLI.- Restaurant bar: Establecimiento donde se expenden alimentos para su consumo en el mismo, que en su interior cuente con una área donde solo se expendan bebidas alcohólicas, que además podrá contar con pista de baile para su clientela, menú de los platillos que expenda y alimentos suficientes para su preparación;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+
+XLII.- Salón de recepción: Lugar destinado a la realización de fiestas y bailes eventuales, el cual además se caracteriza por presentar espectáculos para diversión de los asistentes y por prestar servicios de banquete, el cual incluye el consumo de bebidas alcohólicas en envase abierto y al copeo en el interior del mismo durante el desarrollo del evento;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+XLIII.- Secretaría: La Secretaría de Finanzas;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+XLIV.- Secretario: El titular de la Secretaría de Finanzas;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XLV.- Supermercado: Establecimiento comercial organizado por departamentos con sistema de autoservicio, con enajenación complementaria de bebidas alcohólicas al menudeo en envase cerrado, para su consumo en lugar distinto;
+
+XLVI.- Venta: Toda actividad relacionada con la enajenación de bebidas alcohólicas;
+
+XLVII.- Venta al mayoreo: Enajenación de bebidas alcohólicas en cartón o caja cerrada;
+
+XLVIII.- Venta al menudeo: Enajenación de bebidas alcohólicas en envase o botella cerrada o abierta o al copeo; y,
+
+XLIX.- Visitador: Servidor Público que se le ordena practicar visitas domiciliarias a un determinado establecimiento, con el fin de verificar el cumplimiento de esta ley.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+Para los efectos de esta ley se considera que la actividad se realiza de manera complementaria cuando el importe de la enajenación por concepto de bebidas alcohólicas no exceda del 40% del total de las enajenaciones efectuadas en un mes de calendario.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 6o.
+
+En los abarrotes, agencias o subagencias, almacenes, bodegas, centros comerciales, distribuidoras, expendios o depósitos, licorerías, minisúper y supermercados, la enajenación o distribución de bebidas alcohólicas sólo podrá efectuarse en envase cerrado y para su posterior consumo en lugar distinto a éstos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 7o.
+
+En los bares, billares o boliches, cantinas o tabernas, cabaret o centros nocturnos, casinos, círculos o clubes sociales, cafés cantantes, centros recreativos y deportivos o clubes, centros de espectáculos públicos autorizados, cervecerías, coctelerías, discotecas, fondas, loncherías, taquerías, cenadurías; comedores y similares, inmuebles construidos o habilitados para ferias, restaurantes, restaurantes bar y salones de recepciones, la enajenación de bebidas alcohólicas sólo podrá efectuarse en envase abierto o al copeo y para su consumo en el interior del establecimiento.
 
 ###### Artículo 1.
 
@@ -105,7 +269,15 @@ La Secretaría proporcionará la asesoría y el apoyo para la elaboración de lo
 
 La negativa por parte de la Secretaría o de algún municipio a proporcionar oportunamente a la Legislatura la información antes señalada, dará lugar a responsabilidades administrativas, independientemente de las civiles o penales que resultaren.
 
-### CAPÍTULO II. De las participaciones
+### CAPITULO II. DE LOS ESTABLECIMIENTOS
+
+###### ARTICULO 8o.
+
+Los establecimientos destinados al almacenamiento, distribución y enajenación de bebidas alcohólicas sólo se autorizarán en los lugares que reúnan las condiciones que establece la presente ley.
+
+###### ARTICULO 9o.
+
+Para la operación y funcionamiento de los establecimientos destinados al almacenamiento, distribución, enajenación y consumo de bebidas alcohólicas, en envase cerrado o abierto, o al copeo, deberán contar previamente cada uno con la licencia o permiso expedido por el Ejecutivo del Estado, por conducto de la Secretaría, la que las otorgará en los términos y bajo las condiciones que establece la presente ley.
 
 ###### Artículo 7.
 
@@ -131,649 +303,897 @@ II. El Fondo de Fomento Municipal, a través del cual el Estado distribuirá el 
 
 III. El Fondo de Reserva de Contingencia que se integrará con las participaciones federales que, en su caso, reciba el Estado de la Reserva de Contingencia que establece el artículo 4 de la Ley de Coordinación Fiscal.
 
-###### Artículo 10.
+###### ARTICULO 10.
 
-La distribución del Fondo General de Participaciones Municipales y del Fondo de Fomento Municipal se efectuará conforme a los siguientes porcentajes:
+Para los efectos de esta ley, la operación y funcionamiento de los establecimientos que se dedican al almacenamiento, distribución, enajenación y consumo de bebidas alcohólicas se clasifican en:
 
-a) 50% con base en el Índice Municipal de Pobreza (IMP), y
+I.- Abarrotes;
 
-b) 50% con base en el Coeficiente de Participación Municipal (CPM).
+II.- Agencia;
 
-###### Artículo 11.
+III.- Almacén;
 
-El Índice Municipal de Pobreza (IMP) considera las siguientes variables:
+IV.- Bar;
 
-a) Población de 15 años o más que no sabe leer y escribir;
+V.- Bar de hotel y motel;
 
-b) Población ocupada que no percibe ingresos o que éstos son de hasta 2 salarios mínimos;
+VI.- Billares o boliches;
 
-c) Población que habita en viviendas particulares sin disponibilidad de drenaje conectado a fosa séptica o a la calle, y
+VII.- Bodega;
 
-d) Población que habita en viviendas particulares sin disponibilidad de electricidad.
+VIII.- Cabaret o centro nocturno;
 
-Para calcular las participaciones que conforme al Índice Municipal de Pobreza (IMP) correspondan a cada municipio se desarrollará la siguiente fórmula:
+IX.- Café cantante;
 
-IMP¡= Ri1B1+Ri2B2+Ri3B3+Ri4B4
+X.- Cantina o taberna;
 
-Donde:
+XI.- Casino, círculo o club social;
 
-Ri1...4= Rezago asociado a cada una de las cuatro necesidades básicas consideradas por el IMP en el i-ésimo municipio con respecto al rezago estatal en esa misma necesidad.
+XII.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
 
-B1...4= Ponderador cuyo valor es 0.25 en cada uno de los rezagos.
+XIII.- Centro de espectáculos;
 
-Variables:
+XIV.- Centro recreativo y deportivo o club;
 
-R1= Población ocupada que no percibe ingresos o que éstos son de hasta 2 salarios mínimos.
+XV.- Cervecería;
 
-R2 = Población de 15 años o más que no sabe leer y escribir.
+XVI.- Coctelería;
 
-R3 = Población que habita en viviendas particulares sin disponibilidad de drenaje conectado a fosa séptica o a la calle.
+XVII.- Discoteca;
 
-R4= Población que habita en viviendas particulares sin disponibilidad de electricidad.
+XVIII.- Distribuidora;
 
-Una vez determinado el IMP para todos los municipios de la entidad, se suman y se calcula su distribución porcentual multiplicando cada valor índice por cien.
+XIX.-Envasadora
 
-###### Artículo 12.
+XX.- Expendio o depósito;
 
-El Coeficiente de Participación Municipal (CPM) considera las siguientes variables:
+XXI.- Fonda, lonchería, taquería, cenaduría, comedor y similar;
 
-a) Recaudación de impuestos, derechos y contribuciones por mejoras del municipio en el año inmediato anterior para el cual se efectúa el cálculo, y
+XXII.- Licorería;
 
-b) Recaudación de impuestos, derechos y contribuciones por mejoras del municipio en el segundo año inmediato anterior para el cual se efectúa el cálculo.
+XXIII.- Minisuper;
 
-Los impuestos, derechos y contribuciones por mejoras a que se refiere este artículo, son los que se establecen en la Ley de Hacienda Municipal incluyendo la recuperación de los rezagos, sin considerar los accesorios y gastos de ejecución.
+XXIV.- Restaurante;
 
-Para calcular las participaciones federales que conforme al Coeficiente de Participación Municipal (CPM) correspondan a cada municipio se desarrollará la siguiente fórmula:
+XXV.- Restaurante-bar;
 
-Bi
+XXVI.- Salón de recepción;
 
-CPM i t = ________
+XXVII.- Subagencia; y
 
-TB
+XXVIII.- Supermercado.
 
-Donde:
+###### ARTICULO 11.
 
-CPM i t= Coeficiente de participación del municipio i-ésimo en el año para el cual se efectúa el cálculo.
+Los establecimientos similares a los señalados en el artículo anterior, no enunciados en éste, cualquiera que sea su denominación o identificación, serán clasificados por la Secretaría, por analogía.
 
-TB = Suma de Bi
+###### ARTICULO 12.
 
-(CPM i t-1) (RID i t-1)
+Las licencias o permisos que permitan la enajenación de bebidas alcohólicas, sólo concederán la autorización de expenderlas en el domicilio expresado en la propia licencia o permiso.
 
-Bi=____________________
+###### ARTICULO 13.
 
-RID i t-2
+Los establecimientos destinados para la enajenación de bebidas alcohólicas en envase abierto o al copeo, deberán reunir los requisitos que al efecto señale la presente ley, y contarán por lo menos con:
 
-CPM i t-1 = Coeficiente de participación del municipio i-ésimo en el año inmediato anterior a aquel para el cual se efectúa el cálculo.
+I. Un mostrador;
 
-RID i t-1 = Recaudación de impuestos, derechos y contribuciones por mejoras del municipio i-ésimo en el año inmediato anterior a aquel para el cual se efectúa el cálculo.
+II. Servicio de agua potable, excepto en las localidades que carezcan de este servicio, pero deberá contar con depósito de agua para la limpieza;
 
-RID i t-2 = Recaudación de impuestos, derechos y contribuciones por mejoras del municipio i-ésimo en el segundo año inmediato anterior a aquel para el cual se efectúa el cálculo.
+III. Sanitarios para hombres y, en su caso, para mujeres, los cuales deberán estar separados y contar con su propio lavamanos;
 
-Una vez determinado el CPM para todos los municipios de la entidad, se suman y se calcula su distribución porcentual multiplicando cada valor índice por cien.
+IV. La ventilación e iluminación adecuada; y
 
-Los municipios informarán a la Legislatura dentro de los tres primeros meses del año la recaudación que hayan obtenido por concepto de impuestos, derechos y contribuciones por mejoras en el año inmediato anterior.
+V.- Salida de emergencia.
 
-El órgano de fiscalización de la Legislatura podrá comprobar la veracidad de la información señalada en el párrafo anterior y, en su caso, se efectuarán los ajustes correspondientes a las participaciones.
+###### ARTICULO 14.
 
-###### Artículo 13.
+Los propietarios, administradores o encargados de los establecimientos de bar, cabaret o centro nocturno, cantina o taberna y cervecerías que cuenten con entradas directas por la vía pública, además de los requisitos señalados en el artículo anterior, deberán tener fijas persianas, tabiques, mamparas u otros medios que impidan la visibilidad hacia el interior, y evitar molestias a los transeúntes.
 
-En caso de integrarse un Fondo de Reserva de Contingencia de conformidad con el artículo 4 de la Ley de Coordinación Fiscal, se repartirá aplicando el Índice Municipal de Pobreza y el Coeficiente de Participación Municipal que corresponda a cada municipio en el ejercicio de que se trate.
+###### ARTICULO 15.
 
-###### Artículo 14.
+El original de la licencia de funcionamiento deberá fijarse en un lugar visible en el interior del establecimiento, además de indicar en el exterior del mismo, el número de la licencia.
 
-Los municipios recibirán como mínimo el 20% de la participación que le corresponda al Estado de los ingresos provenientes del Impuesto Especial sobre Producción y Servicios y el 20% de lo que recaude el Estado por concepto del impuesto sobre automóviles nuevos.
+###### ARTICULO 16.
 
-La distribución de los conceptos señalados en el párrafo anterior, se hará aplicando el Índice Municipal de Pobreza y el Coeficiente de Participación Municipal en los porcentajes a que hace referencia el artículo 10 de esta Ley.
+Son obligaciones de los propietarios, representantes legales o encargados de los establecimientos en que se enajenen bebidas alcohólicas, las siguientes:
 
-> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2008)</small>
+I.- Impedir la enajenación y consumo de bebidas alcohólicas a menores de edad, a personas que no estén en pleno goce de sus facultades mentales, a personas armadas o bajo los efectos de psicotrópicos, así como a los elementos del ejército, armada, policía uniformada y visitadores en el desempeño de sus funciones, debiendo fijar letreros visibles en el interior del establecimiento, señalando esta prohibición;
 
-###### Artículo 15.
+II.- Impedir conductas que tiendan a alentar, favorecer o tolerar la prostitución, así como de no permitir en su establecimiento la presentación de cualquier tipo de espectáculo que altere el orden, ofenda la moral o las buenas costumbres;
 
-El Estado participará a los municipios el 20% de la recaudación que efectúe la Secretaría por concepto del Impuesto Sobre Tenencia o Uso de Vehículos, sin incluir los accesorios. Las participaciones sobre dicho concepto serán distribuidas mediante la aplicación de los factores establecidos en la siguiente tabla:
+III.- Impedir que los clientes practiquen en el lugar juegos prohibidos por la ley o que crucen apuestas en juegos permitidos, salvo que disposiciones federales lo autoricen;
 
-MUNICIPIO FACTOR DE DISTRIBUCIÓN
+IV.- Retirar del establecimiento a las personas ebrias, cuando causen desorden, actos reñidos con la moral, para lo cual solicitarán, si fuere necesario, el auxilio de la fuerza pública;
 
-1. ACAJETE 0.00144017889
+V.- Impedir escándalos en los establecimientos, recurriendo, para evitarlos, a la fuerza pública. Cuando tenga conocimiento o encuentre alguna persona armada o que use o posea, dentro del local, estupefacientes o cualquier otra droga enervante, deberá denunciarlo a la autoridad competente;
 
-2. ACATLÁN 0.00148295939
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-3. ACAYUCAN 0.00800621175
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-4. ACTOPAN 0.00419915967
+VI.- Enajenar únicamente bebidas alcohólicas que no estén adulteradas, contaminadas o alteradas, en los términos de las disposiciones de salud aplicables, sin perjuicio de las sanciones administrativas de las autoridades sanitarias o penales que correspondan cuando sean constitutivas de delitos, conservando en los establecimientos, y poniéndolos a disposición de la autoridad, los comprobantes del origen de las bebidas alcohólicas que enajenan;
 
-5. ACULA 0.00109833429
+VII.- Observar los requisitos de funcionamiento de salubridad e higiene que establezcan las leyes y reglamentos respectivos;
 
-6. ACULTZINGO 0.00160067111
+VIII.- Destinar el establecimiento al giro autorizado, exclusivamente;
 
-7. AGUA DULCE 0.01003961907
+IX.- Presentar el original de la licencia o permiso de funcionamiento, y demás documentos que esta ley exige, cuando lo requiera la autoridad competente;
 
-8. ALPATLÁHUAC 0.00131527721
+X.- Permitir a los visitadores practicar la visita domiciliaria ordenada por la autoridad competente, así como proporcionarles los datos, informes y documentos que les soliciten y permitirles el acceso a todas las partes o secciones que conforman el establecimiento;
 
-9. ALTO LUCERO DE GUTIÉRREZ
+XI.- Pintar en la parte exterior y al frente del establecimiento, en lugar visible, un rectángulo de color negro de veinte por veintiocho centímetros y en color blanco el número de la licencia;
 
-BARRIOS 0.00369198132
+XII.- Impedir la entrada a menores de edad o a personas que no estén en pleno goce de sus facultades mentales, tratándose de bar, cabaret o centro nocturno, cantina o taberna, o cervecería, debiendo fijar letreros visibles en el exterior del establecimiento, señalando esta prohibición.
 
-10. ALTOTONGA 0.00318660341
+XIII.- Impedir que las personas que concurran a los establecimientos de bar, cabaret o centro nocturno, cantina, cervecería o discoteca permanezcan en ellos después del horario fijado en el artículo 19 de esta ley;
 
-11. ALVARADO 0.00453995489
+XIV.- Iniciar las actividades autorizadas en la licencia en un plazo no mayor de noventa días naturales a partir de la fecha en que fue expedida la misma;
 
-12. AMATITLÁN 0.00127152484
+XV.- Informar a la Secretaría la suspensión de las actividades señaladas en la licencia, por un lapso mayor a treinta días naturales consecutivos, debiendo utilizar para este efecto la forma autorizada por la Secretaría, misma que se presentará ante la Oficina Fiscal correspondiente dentro de los siete días hábiles siguientes al del inicio de la suspensión;
 
-13. AMATLÁN DE LOS REYES 0.00320090329
+XVI.- Pagar los derechos correspondientes a la licencia dentro del plazo que fijen las leyes. Los comprobantes de pago deberán conservarse en el establecimiento en el que se opere para que los visitadores puedan verificarlos;
 
-14. ÁNGEL R. CABADA 0.00395323005
+XVII.- Presentar en el mes de febrero de cada año, en el caso de agencias, subagencias, envasadoras, distribuidoras y otros establecimientos que vendan al mayoreo, una declaración de ventas de bebidas alcohólicas por cliente correspondiente al año de calendario anterior, en los formatos aprobados por la Secretaría; y
 
-15. APAZAPAN 0.00103181939
+XVIII.- Las agencias, subagencias, envasadoras, distribuidoras y otros establecimientos que vendan al mayoreo, se abstendrán de enajenar bebidas alcohólicas a establecimientos no autorizados en los términos de esta ley.
 
-16. AQUILA 0.00102477504
+###### ARTICULO 17.
 
-17. ASTACINGA 0.00136133278
+No podrán otorgarse licencias a:
 
-18. ATLAHUILCO 0.00142549775
+I.- Menores de edad e incapacitados legalmente;
 
-19. ATOYAC 0.00377390147
+II.- Quienes hayan sufrido condena por delitos fiscales, sexuales, contra la vida o la salud, si no han transcurrido cinco años desde que se extinguió la condena;
 
-20. ATZACAN 0.00181851935
+III.- Los que hubieren tenido licencia o permiso y hayan cedido los derechos del mismo a terceras personas;
 
-21. ATZALAN 0.00360744287
+IV.- Quienes en los tres años anteriores a la fecha de su solicitud hubieren sido sancionados con la cancelación de una licencia; y
 
-22. AYAHUALULCO 0.00176388309
+V.- Reincidentes en la infracción de disposiciones sobre la materia.
 
-23. BANDERILLA 0.00249236372
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-24. BENITO JUÁREZ 0.00180899249
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-25. BOCA DEL RÍO 0.02465583133
+###### ARTICULO 18.
 
-26. CALCAHUALCO 0.00141787444
+Los establecimientos a que se refiere esta ley, se regirán, para la distribución y enajenación de bebidas alcohólicas, por los días y horarios que se señalen en la presente ley o los que se hagan constar en las propias licencias o permisos.
 
-27. CAMARÓN DE TEJEDA 0.00113071127
+### CAPITULO III. DE LAS OBLIGACIONES
 
-28. CAMERINO Z. MENDOZA 0.00480314273
+### CAPITULO IV. DE LOS DIAS Y HORARIOS DE FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS
 
-29. CARLOS A. CARRILLO 0.00108022996
+###### ARTICULO 19.
 
-30. CARRILLO PUERTO 0.00161302792
+La enajenación de bebidas alcohólicas al público podrá realizarse solo en los días y horarios siguientes:
 
-31. CASTILLO DE TEAYO 0.00214219032
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-32. CATEMACO 0.00437006538
+I.- Los abarrotes, expendios o depósitos, licorerías, minisuper y supermercados, de lunes a sábado, de las diez a las veinticuatro horas, y los domingos de las diez a las veinte horas;
 
-33. CAZONES DE HERRERA 0.00271083965
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-34. CERRO AZUL 0.00368491815
+II.- Las agencias, subagencias, distribuidoras, almacenes, envasadoras y bodegas de lunes a domingo de las siete a las diecinueve horas;
 
-35. CITLATÉPETL 0.00136162529
+III.- Las cantinas o tabernas y cervecerías, de lunes a sábado de las diez a las veinticuatro horas;
 
-36. COACOATZINTLA 0.00137757831
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-37. COAHUITLÁN 0.00127827250
+IV.- Las loncherías, fondas, coctelerías, taquerías, comedores, cenadurías y otros establecimientos similares que tengan por actividad la enajenación y consumo de alimentos, todos los días de las diez a las veinticuatro horas;
 
-38. COATEPEC 0.00659188234
+V.- Los billares o boliches, de lunes a sábado de las doce a las veinticuatro horas, y los domingos de las doce a las veintidós horas;
 
-39. COATZACOALCOS 0.08125811533
+VI.- Los centros recreativos, deportivos o clubes, centros de espectáculos, casinos, círculos o clubes sociales, café cantantes, de lunes a sábado de las doce a las dos horas del día siguiente, y los domingos de las doce a las veinticuatro horas;
 
-40. COATZINTLA 0.00323750264
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-41. COETZALA 0.00101108256
+VII.- Los cabarets o centros nocturnos y discotecas, de domingo a jueves de las veinte a las dos horas del día siguiente, y los viernes y sábados de las veinte a las cuatro horas del día siguiente;
 
-42. COLIPA 0.00147907244
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-43. COMAPA 0.00186759370
+VIII.- Los bares, bares de hotel y motel, restaurantes y restaurantes-bar, de lunes a sábado de las diez a las dos horas del día siguiente, y los domingos de las diez a las veinticuatro horas; y
 
-44. CÓRDOBA 0.02995025750
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-45. COSAMALOAPAN 0.00812963294
+IX.- Los salones de recepciones, de lunes a sábado de las diez a las cuatro horas del día siguiente, y los domingos de las diez a las veinticuatro horas.
 
-46. COSAUTLÁN DE CARVAJAL 0.00252836870
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-47. COSCOMATEPEC 0.00227579303
+En los días 15 de septiembre, 24 y 31 de diciembre se podrá optar por observar el horario aplicable a sábado.
 
-48. COSOLEACAQUE 0.01499659786
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-49. COTAXTLA 0.00671078338
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-50. COXQUIHUI 0.00145545963
+ARTICULO 19 BIS.- La distribución de bebidas alcohólicas enajenadas por los establecimientos previstos en la fracción II del artículo anterior, se realizará en un horario que comprende de lunes a domingo de las 7:00 a las 22:00 horas.
 
-51. COYUTLA 0.00170502210
+La presente disposición contempla exclusivamente el horario de distribución de bebidas alcohólicas, por lo que se prohíbe su enajenación fuera del horario estipulado en la presente ley.
 
-52. CUICHAPA 0.00213604972
+###### ARTICULO 20.
 
-53. CUITLÁHUAC 0.00326320606
+Independientemente de los señalados en otros ordenamientos legales, el Ejecutivo del Estado, por conducto de la Secretaría, señalará los días en que, en los establecimientos a que se refiere la presente ley, no podrán enajenarse ni consumirse bebidas alcohólicas, En este caso, la Secretaría dará a conocer éstos días a través de los medios de comunicación que estime convenientes.
 
-54. CHACALTIANGUIS 0.00204352637
+###### ARTICULO 21.
 
-55. CHALMA 0.00200834068
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
-56. CHICONAMEL 0.00125949394
+###### ARTICULO 22.
 
-57. CHICONQUIACO 0.00158277425
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
-58. CHICONTEPEC 0.00304921088
+### CAPITULO V. DE LA EXPEDICION DE LAS LICENCIAS
 
-59. CHINAMECA 0.00214346854
+###### ARTICULO 23.
 
-60. CHINAMPA DE GOROSTIZA 0.00167097729
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
-61. CHOCAMÁN 0.00166107277
+###### ARTICULO 24.
 
-62. CHONTLA 0.00184956981
+El otorgamiento de la licencia o permiso constituye un acto de la autoridad que otorga exclusivamente al solicitante un derecho personal, intransferible y condicionado al cumplimiento estricto de la ley, y solo permite el almacenamiento, distribución, enajenación y consumo de bebidas alcohólicas en un determinado establecimiento cuyo propietario, domicilio y giro aparecen descritos en la licencia o permiso respectivo.
 
-63. CHUMATLÁN 0.00130071904
+###### ARTICULO 25.
 
-64. EL HIGO 0.00448053654
+Para obtener licencia o permiso con el objeto de operar establecimientos destinados al almacenamiento, distribución enajenación y consumo de bebidas alcohólicas, el interesado deberá reunir los requisitos siguientes:
 
-65. EMILIANO ZAPATA 0.00458937766
+I.- Presentar solicitud por escrito, bajo protesta de decir verdad, en las formas que establezca la Secretaría, proporcionando los datos y anexando los documentos establecidos en ellas;
 
-66. ESPINAL 0.00174259177
+II.- Ser mayor de edad y estar en pleno goce y ejercicio de sus derechos, y en caso de ser una persona moral, estar debidamente constituida conforme a las leyes de los Estados Unidos Mexicanos;
 
-67. FILOMENO MATA 0.00158470437
+III.- Constancia de no antecedentes penales, tratándose de personas físicas;
 
-68. FORTÍN 0.00452589326
+IV.- Si es extranjero deberá comprobar, mediante documento oficial, que está autorizado por la autoridad competente, para dedicarse a la actividad respectiva;
 
-69. GUTIÉRREZ ZAMORA 0.00507817517
+V.- Declaración del domicilio fiscal;
 
-70. HIDALGOTITLÁN 0.00243613913
+VI.- Declaración del tipo de giro, nombre, razón o denominación social y, en su caso, nombre comercial del establecimiento;
 
-71. HUATUSCO 0.00561690188
+VII.- Croquis o plano en que se indique, en forma clara y precisa, la ubicación del establecimiento y los nombres de las calles que corresponden a la manzana o área de ubicación del establecimiento;
 
-72. HUAYACOCOTLA 0.00198519134
+VIII.- Licencia o constancia expedida por la autoridad sanitaria de la jurisdicción que corresponda, en la que se acredite que el local reúne los requisitos sanitarios en vigor;
 
-73. HUEYAPAN DE OCAMPO 0.00383787129
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-74. HUILOAPAN DE CUAUHTÉMOC 0.00140914775
+IX.- Constancia expedida por el Ayuntamiento, respecto al cumplimiento de los requisitos en materia del uso de la construcción o edificación del establecimiento y de las distancias a que se refiere la fracción XII de éste Artículo;
 
-75. IGNACIO DE LA LLAVE 0.00264207947
+X.- Constancia de no adeudos fiscales, expedida por la Oficina Fiscal del Estado, así como de estar inscrito en el Registro Estatal de Contribuyentes;
 
-76. ILAMATLÁN 0.00127118522
+XI.- Dos fotografías, tanto del exterior como del interior del local, que muestren la totalidad del mismo, incluyendo sus instalaciones sanitarias;
 
-77. ISLA 0.00482318602
+XII.- Los establecimientos que expendan bebidas alcohólicas, con excepción de restaurantes, casinos, círculos o clubes sociales, bares de hoteles, discotecas, restaurant bar y supermercados, deberán estar ubicados a una distancia fuera de un perímetro de doscientos metros de otro similar, de planteles educativos, centros culturales, hospitales, sanatorios, hospicios, asilos, centros asistenciales, centros de trabajo con más de cien empleados, templos religiosos, centros de convivencia o instalaciones deportivas, edificios públicos o de asistencia social, así como en zonas residenciales, exceptuando sus áreas comerciales;
 
-78. IXCATEPEC 0.00160732806
+XIII.- Cubrir el pago de los derechos correspondientes que señala la Ley de Hacienda del Estado;
 
-79. IXHUACÁN DE LOS REYES 0.00179309046
+XIV.- Copia de la solicitud de inscripción en el Registro Federal de Contribuyentes o del aviso de apertura del establecimiento; y
 
-80. IXHUATLÁN DE MADERO 0.00257570767
+XV.- Los demás requisitos que fijen las leyes o sus reglamentos, así como los que determine la Secretaría para cada tipo de establecimiento.
 
-81. IXHUATLÁN DEL CAFÉ 0.00258313730
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-82. IXHUATLÁN DEL SURESTE 0.00233021071
+###### ARTICULO 26.
 
-83. IXHUATLANCILLO 0.00143909009
+Recibida la solicitud y los anexos a que se refiere el artículo anterior, en la Oficina Fiscal del Estado que corresponda a la ubicación del establecimiento, dentro de los treinta días de calendario siguientes a la recepción de la solicitud, se ordenará una visita de inspección al local, a efecto de comprobar si se reúnen los requisitos establecidos por esta ley, independientemente de lo que señalan las demás leyes aplicables.
 
-84. IXMATLAHUACAN 0.00201326908
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-85. IXTACZOQUITLÁN 0.01487963872
+###### ARTICULO 27.
 
-86. JALACINGO 0.00211986406
+Una vez practicada la inspección, y comprobado que el establecimiento reúne los requisitos de ley, el Ejecutivo del Estado, por conducto de la Secretaría, dentro de los treinta días siguientes, resolverá si es de otorgarse o no la licencia correspondiente. Si después de concluido este plazo no se hubiere otorgado la licencia, se considerará como rechazada la solicitud del interesado, empezando a correr a partir de entonces el término para que el solicitante interponga el recurso de reconsideración al que se refiere el capítulo XI de la presente ley.
 
-87. JALCOMULCO 0.00130100998
+###### ARTICULO 28.
 
-88. JÁLTIPAN 0.00461445297
+La Secretaría podrá otorgar permisos para cada establecimiento que se instale provisionalmente para enajenar bebidas alcohólicas, cuando se trate de la celebración de eventos especiales, ferias, kermesses, salón de recepción, eventos deportivos y fiestas tradicionales. En ningún caso se otorgarán permisos a una misma persona física o moral por más de treinta días en un año de calendario.
 
-89. JAMAPA 0.00139992931
+### CAPITULO VI. DE LAS VISITAS DOMICILIARIAS
 
-90. JESÚS CARRANZA 0.00319662576
+###### ARTICULO 42.
 
-91. JILOTEPEC 0.00154720639
+La Secretaría podrá ordenar y practicar visitas domiciliarias a los establecimientos que se dediquen a las actividades que regula la presente ley, para verificar el cumplimiento de la misma. En el ámbito municipal, los Presidentes Municipales coadyuvarán, a solicitud de la Secretaría, en el cumplimiento de dicha función, por conducto de los funcionarios que los mismos designen.
 
-92. JOSÉ AZUETA 0.00351065013
+En caso de ser necesario, los cuerpos de seguridad y policiales estarán obligados a prestar el apoyo necesario que les solicite el visitador.
 
-93. JUAN RODRÍGUEZ CLARA 0.00387307071
+###### ARTICULO 43.
 
-94. JUCHIQUE DE FERRER 0.00315625844
+La vigilancia, para el cumplimiento de las disposiciones a que esta ley se refiere, estará a cargo de los visitadores que designe la Secretaría o, en su caso, el Ayuntamiento que hubiere celebrado convenio de colaboración con la Secretaría.
 
-95. LA ANTIGUA 0.00445059098
+###### ARTICULO 44.
 
-96. LA PERLA 0.00165090802
+Los visitadores, en el ejercicio de sus funciones, tendrán libre acceso a los establecimientos a que esta ley se refiere, debiendo identificarse previamente con su credencial expedida por la Secretaría, ante la persona con quien entienda la diligencia.
 
-97. LANDERO Y COSS 0.00118931605
+Los propietarios, sus representantes legales o los encargados del establecimiento objeto de la visita domiciliaria estarán obligados a permitir el acceso inmediato a los visitadores, a darles las facilidades e informes necesarios para el desarrollo de su labor y, en general, a proporcionar todos los elementos y datos que estos requieran para la comprobación del cumplimiento de las disposiciones que a esta ley se refiere, así como a los que se señalen en la licencia o permiso respectivo. Igualmente, estarán obligados a no entorpecer las labores de inspección.
 
-98. LAS CHOAPAS 0.00805675342
+El incumplimiento de las disposiciones contenidas en éste artículo, traerá como consecuencia la imposición de la sanción prevista en la fracción VII del artículo 48 de ésta ley.
 
-99. LAS MINAS 0.00126676044
+###### ARTICULO 45.
 
-100. LAS VIGAS DE RAMÍREZ 0.00201133164
+La visita domiciliaria a que se refiere el artículo anterior, se practicará con el propietario del establecimiento, o su representante legal o, en su caso, con quien se encuentre al frente del mismo, requiriéndole la presentación de la documentación siguiente:
 
-101. LERDO DE TEJADA 0.00388242035
+I.- Original de la licencia o permiso vigente;
 
-102. LOS REYES 0.00135172196
+II.- Identificación de la persona con quien se entiende la visita;
 
-103. MAGDALENA 0.00115745503
+III.- Tratándose de representantes legales, documento notarial con el que se acredite su personalidad; y
 
-104. MALTRATA 0.00146921053
+IV.- Comprobante de solicitud para la expedición de una nueva licencia en trámite, en su caso.
 
-105. MANLIO FABIO ALTAMIRANO 0.00219767731
+###### ARTICULO 46.
 
-106. MARIANO ESCOBEDO 0.00214112211
+Las visitas a los establecimientos se sujetarán a las siguientes bases:
 
-107. MARTÍNEZ DE LA TORRE 0.01185674852
+I.- El visitador deberá contar con una orden por escrito que contendrá la fecha, la ubicación del establecimiento a visitar, el nombre, razón social o denominación, el fundamento legal y la motivación de la misma; el nombre y la firma de la autoridad que expida la orden y el nombre del visitador. La orden deberá estar firmada por el Secretario o por el servidor público facultado por éste. En la orden podrán designarse uno o varios visitadores según se requiera;
 
-108. MECATLÁN 0.00169099117
+II.- El visitador deberá identificarse ante el propietario o administrador del establecimiento o su representante legal o el encargado del establecimiento en su caso, con la credencial vigente que para el efecto le expida la Secretaría y procederá a entregar el original de la orden de visita del establecimiento;
 
-109. MECAYAPAN 0.00141657090
+III.- Para la realización de la visita domiciliaria al establecimiento se considerarán todos los días del año y las veinticuatro horas del día como hábiles;
 
-110. MEDELLÍN 0.00341068462
+IV.- Al inicio de la visita domiciliaria al establecimiento, el visitador deberá requerir a la persona con quien se entienda la visita, que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, el visitador los designará, haciendo constar esta situación en el acta que levante, sin que esta circunstancia invalide los resultados de la visita;
 
-111. MIAHUATLÁN 0.00146276434
+V.- De toda visita se levantará acta circunstanciada en las formas aprobadas por la Secretaría, en las que se harán constar las incidencias y el resultado de las mismas. El acta deberá ser firmada por el visitador, por la persona con quien se entendió la diligencia y por los testigos. Si alguna de las personas señaladas se niega a firmar, el visitador lo hará constar en el acta, sin que esta circunstancia altere el valor probatorio del documento; y
 
-112. MINATITLÁN 0.02077915837
+VI.- El visitador deberá entregar a la persona con quien se entendió la visita una copia legible del acta, con el fin de que el interesado pueda, si así lo desea, presentar escrito de inconformidad con los hechos señalados en la misma y exhibir las pruebas y alegatos que a su derecho convengan, dentro de los cinco días hábiles siguientes a la formulación de la misma ante la Secretaría. Transcurrido dicho plazo, si no se hubiera presentado inconformidad y las pruebas respectivas, se tendrán por consentidos los hechos consignados en el acta.
 
-113. MISANTLA 0.00539639499
+El Secretario resolverá la inconformidad dentro del término de quince días hábiles.
 
-114. MIXTLA DE ALTAMIRANO 0.00133430472
+###### ARTICULO 47.
 
-115. MOLOACÁN 0.00391767995
+Transcurrido el plazo a que se refiere la fracción VI del artículo anterior, el Secretario o la persona que éste designe, calificará las actas y aplicará, en su caso, la sanción correspondiente.
 
-116. NANCHITAL DE LÁZARO
+###### ARTICULO 29.
 
-CÁRDENAS DEL RÍO 0.01031268460
+No se otorgarán permisos para la venta o suministro, con fines comerciales, de bebidas alcohólicas en los domicilios particulares, con motivo de festejo alguno. En caso de contravención a este artículo, la sanción procedente se impondrá tanto al propietario o poseedor del inmueble donde se cometa la infracción como al propietario de las bebidas alcohólicas o promotor de su venta.
 
-117. NAOLINCO 0.00188766984
+###### ARTICULO 30.
 
-118. NARANJAL 0.00108041633
+La licencia y el permiso constituyen actos administrativos subordinados al interés público y su otorgamiento es de carácter personal, en consecuencia, no podrán ser objetos de comercio, ni arrendarse, enajenarse, donarse, entregarse en comodato o cederse por ningún otro concepto que implique la explotación de los derechos del titular o permisionario, por un tercero.
 
-119. NARANJOS-AMATLÁN 0.00359472020
+Cuando el establecimiento para el cual fue emitida la licencia se encuentre inscrito en el Registro Federal de Contribuyentes con nombre de persona física o moral distinta de la que aparece en la licencia, se entenderá que ha sido transferida.
 
-120. NAUTLA 0.00224156051
+La transgresión prevista a lo anterior, tendrá como consecuencia la cancelación de la licencia y la clausura del establecimiento que esté operando al amparo de cualquiera de ellos.
 
-121. NOGALES 0.00429936601
+### CAPITULO VII
 
-122. OLUTA 0.00257484394
+DE LAS CAUSAS Y PROCEDIMIENTO ADMINISTRATIVO DE CANCELACION DE LICENCIAS DE FUNCIONAMIENTO.
 
-123. OMEALCA 0.00209280825
+###### ARTICULO 48.
 
-124. ORIZABA 0.03188751675
+Son causas de cancelación de la licencia o permiso, además de las referidas en la presente ley, las siguientes:
 
-125. OTATITLÁN 0.00190111272
+I.- Cuando por hechos o actos que se realicen dentro de los establecimientos se altere el orden, se ofenda la moral o las buenas costumbres, cuando sea responsable de ello el titular de la licencia, permisionario o encargado; cuando éste tolere o permita los hechos o actos citados; cuando por el número de establecimientos, constituyan un peligro a la salud, o bien, cuando en cualquier forma infringieran las leyes o afectaren a la colectividad o a los intereses sociales;
 
-126. OTEAPAN 0.00185666687
+II.- Cuando no se inicien actividades autorizadas en la licencia dentro de los noventa días naturales siguientes a la fecha de la expedición de la misma o se compruebe la inactividad del establecimiento, por un lapso mayor de treinta días naturales consecutivos sin presentar el aviso respectivo, o que el establecimiento es inexistente, o cuando se tenga noticia de su baja en los Registros Federal o Estatal de Contribuyentes, o se desconozca el domicilio del titular de la licencia o permiso. En estos casos, la cancelación procederá de oficio, mediante resolución administrativa que al efecto se emita.
 
-127. OZULUAMA 0.00463599512
+En el caso de que el titular de la licencia o permiso presente aviso de suspensión de actividades ante la autoridad fiscal federal, deberá, asimismo, comunicarlo anexando copia de éste a la Secretaría, dentro de los siete días siguientes a la presentación de su aviso de suspensión, para el efecto de darle continuidad a la vigencia de su licencia o permiso, siempre que cumpla con las disposiciones establecidas en esta propia ley y subsistan las condiciones que dieron origen a su expedición, ya que de no realizar el referido trámite ante la citada dependencia estatal, ameritará la cancelación de su licencia o permiso;
 
-128. PAJAPAN 0.00140146134
+III.- Cuando el establecimiento haya dejado de reunir cualquiera de los requisitos que establece la presente ley o se incurra, por parte de los propietarios o encargados, en actos u omisiones graves;
 
-129. PÁNUCO 0.00836683404
+IV.- A quienes vendan bebidas con contenido alcohólico a menores de edad o a las demás personas señaladas en la fracción I del artículo 16 de esta ley, o les permitan su consumo en el interior de su establecimiento;
 
-130. PAPANTLA 0.01562085073
+V.- Cuando se compruebe la enajenación, traspaso o arrendamiento de la licencia o permiso de funcionamiento;
 
-131. PASO DE OVEJAS 0.00313622556
+VI.- Se realicen actos constitutivos de delitos o que entrañen violación a las leyes y reglamentos aplicables en el interior de los establecimientos a que se refiere la presente ley, sin perjuicio de las sanciones de carácter penal o administrativo a que se dieren lugar, si hay culpa o responsabilidad del propietario o encargado;
 
-132. PASO DEL MACHO 0.00261829530
+VII.- El propietario, el encargado o el empleado de los establecimientos impidan de cualquier forma o dificulten la entrada a las autoridades encargadas de la aplicación y observancia de la presente ley;
 
-133. PEROTE 0.00361239713
+VIII.- Cuando exista reincidencia en las infracciones a las restricciones a que se refiere el Capítulo IX de esta ley; y
 
-134. PLATÓN SÁNCHEZ 0.00213703326
+IX.- Cuando se presente alguna de las causales previstas en el Artículo 53 Fracción II de esta ley.
 
-135. PLAYA VICENTE 0.00474026189
+###### ARTICULO 49.
 
-136. POZA RICA DE HIDALGO 0.02598330256
+La Secretaría iniciará el procedimiento de cancelación de la licencia, y notificará por oficio al propietario o su representante legal la causa que lo funda y motiva, concediéndole un plazo de diez días hábiles, contados a partir del siguiente a aquel al de su notificación, para que exponga su inconformidad y ofrezca las pruebas que estime pertinentes, mismas que deberán ser de tal naturaleza que puedan desahogarse en un plazo máximo de diez días hábiles. Transcurrido dicho plazo, sino hubiera presentado inconformidad y las pruebas respectivas, se tendrán por consentidos los hechos consignados en el oficio.
 
-137. PUEBLO VIEJO 0.00380541096
+###### ARTICULO 50.
 
-138. PUENTE NACIONAL 0.00238166485
+La Secretaría, al resolver sobre un procedimiento de cancelación, apreciará las pruebas ofrecidas por el interesado y expondrá en sus resoluciones los fundamentos de hecho y de derecho que apoyen su resolución.
 
-139. RAFAEL DELGADO 0.00133965572
+Transcurridos los términos a que se refiere el artículo anterior, la Secretaría, dentro del término de quince días hábiles, dictará la resolución que corresponda, la que notificará al titular de la licencia o su representante legal.
 
-140. RAFAEL LUCIO 0.00144363248
+###### ARTICULO 51.
 
-141. RÍO BLANCO 0.00591111466
+Contra las resoluciones dictadas por la autoridad competente, en violación a las disposiciones de esta ley, se podrá interponer el recurso de reconsideración previsto en el Capítulo XI de la presente ley.
 
-142. SALTABARRANCA 0.00146099076
+### CAPITULO VIII. DE LA CLAUSURA
 
-143. SAN ANDRÉS TENEJAPAN 0.00121111480
+###### ARTICULO 52.
 
-144. SAN ANDRÉS TUXTLA 0.00773342114
+La clausura es un acto de orden público, que tiene por objeto suspender el funcionamiento de un establecimiento o negociación que contravenga las disposiciones de esta ley, conforme a las causales que se establecen en el siguiente artículo. La clausura podrá ser temporal o definitiva.
 
-145. SAN JUAN EVANGELISTA 0.00330956704
+###### ARTICULO 53.
 
-146. SAN RAFAEL 0.00433208682
+Son causas de clausura las siguientes:
 
-147. SANTIAGO SOCHIAPAN 0.00322095348
+I.- Procede la clausura temporal:
 
-148. SANTIAGO TUXTLA 0.00425594720
+a).- Cuando se enajenen bebidas alcohólicas fuera de los horarios establecidos en esta ley o en días en que está prohibida su enajenación;
 
-149. SAYULA DE ALEMÁN 0.00357720918
+b).- Cuando se permita a las personas que ocurran a los establecimientos de bar, cabaret o centro nocturno, cantina o taberna, cervecería y discoteca permanezcan dentro del establecimiento después del horario fijado en el artículo 19 de esta ley;
 
-150. SOCONUSCO 0.00175947552
+c).- Cuando se enajenen y consuman bebidas alcohólicas en los sitios y lugares señalados en el artículo 63 de esta ley;
 
-151. SOCHIAPA 0.00099132132
+d).- Cuando la licencia o permiso sea utilizado en un domicilio distinto al que se señala en el mismo;
 
-152. SOLEDAD ATZOMPA 0.00175396723
+e).- Cuando se instalen compartimientos o reservados que sean susceptibles de ser cerrados con cualquier tipo de puerta, que obstruya la vista o que impida la libre comunicación en el interior del establecimiento;
 
-153. SOLEDAD DE DOBLADO 0.00290426888
+f).- Cuando se venda o se permita el consumo de cerveza sin alimentos, así como por la enajenación de bebidas alcohólicas distintas a la cerveza en los establecimientos a que se refiere las fracciones XVI y XXI del artículo 10 de esta ley;
 
-154. SOTEAPAN 0.00197256661
+g).- Cuando se permita, en el interior de los establecimientos, la práctica de juegos prohibidos por la ley o que se crucen apuestas en juegos permitidos;
 
-155. TAMALÍN 0.00224008116
+h).- Cuando no se retire a las personas ebrias que hubieren causado desorden o actos reñidos con la moral;
 
-156. TAMIAHUA 0.00295328011
+i).- Cuando no se hubieren impedido escándalos en los establecimientos, o que teniendo conocimiento o encontrare alguna persona armada o que use o posea, dentro del local, estupefacientes o cualquier otra droga enervante, no lo denunciara a la autoridad competente;
 
-157. TAMPICO ALTO 0.00225576905
+j).- Cuando el establecimiento esté operando con giro distinto al indicado en la licencia o permiso respectivo, salvo lo dispuesto en el inciso i) de la Fracción II de este artículo;
 
-158. TANCOCO 0.00104178473
+k).- Cuando, exigida la presentación del original de la licencia o permiso de funcionamiento por la autoridad competente, ésta no se realice;
 
-159. TANTIMA 0.00183867042
+l).- Cuando se enajenen bebidas alcohólicas al mayoreo a establecimientos no autorizados en los términos de esta ley;
 
-160. TANTOYUCA 0.00523841862
+m).- Cuando el establecimiento haya dejado de reunir cualquiera de los requisitos que establece la presente ley o se incurra por parte de los propietarios en actos u omisiones graves, con excepción de lo dispuesto en la fracción siguiente; y
 
-161. TATAHUICAPAN DE JUÁREZ 0.00127129223
+n).- Cuando no se fijen letreros señalando que se impide la entrada a menores de edad conforme a lo establecido en la fracción XII del artículo 16 de esta ley.
 
-162. TATATILA 0.00126905457
+II.- Procede la clausura definitiva:
 
-163. TECOLUTLA 0.00351197772
+a).- Cuando se permita el acceso a menores de edad o a personas que no estén en pleno goce de sus facultades mentales en los establecimientos de bares, cabaret o centros nocturnos, cantinas o tabernas, o cervecerías;
 
-164. TEHUIPANGO 0.00177428077
+b).- Cuando se permita que menores de edad administren establecimientos regulados por esta ley;
 
-165. ÁLAMO TEMAPACHE 0.00801186048
+c).- Cuando se permita, dentro del establecimiento, conductas que tiendan a alentar, favorecer o tolerar la prostitución;
 
-166. TEMPOAL 0.00468356179
+d).- Cuando se enajenen, o en el establecimiento se permita el consumo de bebidas alcohólicas a menores de edad, a personas que no estén en pleno goce de sus facultades mentales, a personas armadas o bajo los efectos de psicotrópicos, elementos del ejército, armada, policía uniformada y visitadores en el desempeño de sus funciones;
 
-167. TENAMPA 0.00125643278
+e).- Cuando se transfiera la licencia o permiso respectivo en contravención a lo dispuesto en el Artículo 30 de esta ley, así como cuando sea utilizada en algún establecimiento por persona distinta a su propietario;
 
-168. TENOCHTITLÁN 0.00147902493
+f).- Cuando el establecimiento carezca de la licencia o permiso correspondiente o cuando el establecimiento continúe operando después de haberse notificado la cancelación de la licencia;
 
-169. TEOCELO 0.00254854425
+g).- Cuando se reincida en la violación de las disposiciones de la presente ley;
 
-170. TEPATLAXCO 0.00148500870
+h).- Cuando se realicen actos constitutivos de delitos o que entrañen violación a las leyes y reglamentos aplicables en el interior de los establecimientos a que se refiere la presente ley, sin perjuicio de las sanciones de carácter penal o administrativo a que se diera lugar si hay culpa o responsabilidad del propietario o encargado;
 
-171. TEPETLÁN 0.00131306180
+i).- Cuando el establecimiento esté operando como bar, cabaret o centro nocturno, cantina o taberna, cervecería o discoteca y en la licencia o permiso respectivo tenga autorizado giro distinto;
 
-172. TEPETZINTLA 0.00163956800
+j).- Cuando se desprendan, alteren o destruyan parcial o totalmente, sin autorización legal, los sellos o marcas oficiales colocados por los visitadores;
 
-173. TEQUILA 0.00165012546
+k).- Cuando en los establecimientos que enajenan bebidas alcohólicas se presenten espectáculos con los que se altere el orden, se ofenda la moral o las buenas costumbres;
 
-174. TEXCATEPEC 00.00165208201
+l).- Cuando se enajenen bebidas alcohólicas adulteradas, contaminadas o alteradas, en los términos de las disposiciones de salud aplicables;
 
-175. TEXHUACAN 0.00119989729
+m).- Cuando el propietario, el encargado o el empleado de los establecimientos impidan de cualquier forma o dificulten la entrada a las autoridades encargadas de la aplicación y vigilancia del cumplimiento de las disposiciones de esta ley;
 
-176. TEXISTEPEC 0.00222942586
+n).- Cuando se operen establecimientos en contravención a lo dispuesto en la fracción XII del artículo 25 de esta ley;
 
-177. TEZONAPA 0.00388768853
+ñ).- Cuando se proporcionen datos falsos a las autoridades en cualquiera de los trámites previstos en esta ley; y
 
-178. TIERRA BLANCA 0.01140911971
+o).- Cuando se realice el almacenamiento, distribución y enajenación de bebidas alcohólicas en los lugares señalados en las fracciones IV y V del artículo 62 de esta ley;
 
-179. TIHUATLÁN 0.00653002171
+###### ARTICULO 54.
 
-180. TLACOJALPAN 0.00166039476
+La clausura deberá sujetarse a lo siguiente:
 
-181. TLACOLULAN 0.00138080343
+I.- Solamente podrá realizarse por resolución debidamente fundada y motivada emitida por el Secretario, y de conformidad a lo dispuesto en esta ley, podrá ser temporal o definitiva, salvo lo previsto en el artículo 56 de la misma; y
 
-182. TLACOTALPAN 0.00277181798
+II.- Si la clausura afecta a un local, que además se dedique a otros fines comerciales o industriales, se ejecutará en tal forma que se suspenda únicamente la enajenación de bebidas alcohólicas.
 
-183. TLACOTEPEC DE MEJÍA 0.00138788325
+###### ARTICULO 55.
 
-184. TLACHICHILCO 0.00148747866
+La clausura derivará de la visita que practique la autoridad al establecimiento, en los términos previstos en el Capítulo VI de esta ley, conforme al procedimiento que se señala en el artículo siguiente.
 
-185. TLALIXCOYAN 0.00336575616
+###### ARTICULO 56.
 
-186. TLALNELHUAYOCAN 0.00141059087
+El visitador que, en la práctica de la visita domiciliaria, descubra que el establecimiento funciona en forma diversa a lo autorizado en la licencia o permiso que se le haya otorgado en los términos de esta ley, levantará acta para consignar el hecho y procederá a la clausura del mismo, colocando los sellos respectivos.
 
-187. TLALTETELA 0.00134522826
+Se procederá a retirar los sellos y permitir la apertura del establecimiento a su propietario o su representante legal, cuando se dicte el acuerdo sobre el levantamiento de la clausura, debiéndose levantar el acta circunstanciada del retiro de los sellos.
 
-188. TLAPACOYAN 0.00450260156
+###### ARTICULO 57.
 
-189. TLAQUILPA 0.00151690384
+Cuando se desprendan, alteren o destruyan parcial o totalmente, sin autorización legal, los sellos o marcas oficiales colocados por los visitadores o se impida por medio de cualquier maniobra que se logre el propósito para el que fueron colocados, se dará vista al Ministerio Público para los efectos legales conducentes.
 
-190. TLILAPAN 0.00104630501
+###### ARTICULO 58.
 
-191. TOMATLÁN 0.00171075984
+Cuando en la resolución que se emita se establezca la clausura definitiva del establecimiento, la Secretaría iniciará el procedimiento establecido en el artículo 49 de esta ley.
 
-192. TONAYÁN 0.00144373290
+### CAPITULO IX. DE LAS RESTRICCIONES
 
-193. TOTUTLA 0.00150913864
+###### ARTICULO 59.
 
-194. TRES VALLES 0.00469328136
+A los menores de edad, personas que no estén en pleno goce de sus facultades mentales, personas armadas o bajo los efectos de psicotrópicos, elementos del ejército, armada, policía uniformada y visitadores en el desempeño de sus funciones, bajo ninguna circunstancia, se les deberá enajenar bebidas alcohólicas, o bien, permitir administrar los establecimientos regulados por esta ley.
 
-195. TUXPAN 0.02581257874
+###### ARTICULO 60.
 
-196. TUXTILLA 0.00097862054
+En los establecimientos regulados por esta ley se prohíbe cualquier tipo de espectáculo que altere el orden, ofenda la moral o las buenas costumbres.
 
-197. ÚRSULO GALVÁN 0.00317175517
+Asimismo, en los establecimientos de bar, cabaret o centro nocturno, cantina o taberna, cervecería y discoteca, se prohibe la instalación de compartimientos o reservados que sean susceptibles de ser cerrados con cualquier tipo de puerta, que obstruya la vista o que impida la comunicación en el interior del establecimiento.
 
-198. UXPANAPA 0.00152427411
+###### ARTICULO 61.
 
-199. VEGA DE ALATORRE 0.00362537120
+Se prohíbe la venta de bebidas alcohólicas en casa habitación, así como utilizar los establecimientos en que se enajenen bebidas alcohólicas como casa habitación, viviendas, departamentos u oficinas, o que estén comunicados con ellas. Dicho establecimiento no podrá ser la vía de entrada para la habitación o domicilio en donde residan una o más personas.
 
-200. VERACRUZ 0.09387125717
+###### ARTICULO 62.
 
-201. VILLA ALDAMA 0.00160870817
+Se prohibe el almacenamiento, distribución y enajenación de bebidas alcohólicas en:
 
-202. XALAPA 0.06579315133
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-203. XICO 0.00244945340
+I.- Lugares públicos, tales como la vía pública, parques y plazas;
 
-204. XOXOCOTLA 0.00138293145
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
 
-205. YANGA 0.00188256522
+II.- El interior de los planteles educativos de todo nivel académico, templos, cementerios, kermesses infantiles y en los Centros de Ejecución de Sanciones;
 
-206. YECUATLA 0.00212464922
+III.- Lugares en que lo exija la moralidad o salud pública; y
 
-207. ZACUALPAN 0.00164600760
+IV.- Los demás que señalan las leyes y sus reglamentos.
 
-208. ZARAGOZA 0.00161183264
+###### ARTICULO 63.
 
-209. ZENTLA 0.00155196480
+Queda prohibida la enajenación y consumo de bebidas alcohólicas en los sitios destinados exclusivamente a su almacenamiento, así como en carpas, circos y cines.
 
-210. ZONGOLICA 0.00290134117
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-211. ZONTECOMATLÁN 0.00144388400
+###### ARTICULO 64.
 
-212. ZOZOCOLCO DE HIDALGO 0.00168944916
+Se prohíbe el consumo de bebidas alcohólicas en la vía pública. Corresponderá a los Ayuntamientos, en uso de sus atribuciones, vigilar el cumplimiento de ésta disposición, aplicando la sanción prevista en su reglamentación municipal, en caso de incumplimiento. A falta de disposición expresa en este sentido, aplicarán una multa de hasta diez veces el valor diario de la Unidad de Medida y Actualización y arresto administrativo hasta por treinta y seis horas.
 
-###### Artículo 16.
+### CAPITULO X. DE LAS SANCIONES
 
-Las participaciones se determinarán por cada ejercicio fiscal, para lo cual se hará en forma provisional un cálculo mensual, considerando la recaudación federal participable obtenida en el mes inmediato anterior.
+###### ARTICULO 65.
 
-Cada cuatro meses la Legislatura realizará un ajuste de las participaciones efectuando el cálculo sobre la recaudación obtenida en ese periodo. Las diferencias resultantes serán liquidadas dentro de los dos meses siguientes.
+La contravención a las disposiciones de esta ley dará lugar a la imposición de una sanción económica, clausura del establecimiento, cancelación de la licencia o permiso y arresto administrativo hasta por treinta y seis horas.
 
-A más tardar dentro de los cinco meses siguientes, al cierre de cada ejercicio fiscal la Legislatura determinará las participaciones que correspondan a la recaudación obtenida en el ejercicio; aplicará las cantidades que hubiera afectado provisionalmente a los fondos y formulará de inmediato las liquidaciones que procedan.
+###### ARTICULO 66.
 
-Durante los primeros cinco meses de cada ejercicio, las participaciones se calcularán provisionalmente con los factores y coeficientes del ejercicio inmediato anterior, en tanto se cuente con la información necesaria para calcular los nuevos coeficientes.
+Las autoridades encargadas de aplicar la presente ley, podrán solicitar el auxilio de la fuerza pública para hacer cumplir los acuerdos y resoluciones que se dicten.
 
-###### Artículo 17.
+###### ARTICULO 67.
 
-Los municipios recibirán directamente de la Federación en términos de la Ley de Coordinación Fiscal lo siguiente:
+La imposición de las sanciones económicas deberá hacerse entre el mínimo y el máximo establecido, tomándose en cuenta la gravedad de la infracción concreta, las condiciones económicas de la persona física o moral o a la que se sanciona, y la naturaleza y tipo de establecimiento.
 
-a) Los ingresos que se generen por la colindancia de los municipios de la entidad con litorales por los que se realicen materialmente la entrada o salida al país de bienes que se importen o exporten, de conformidad con lo establecido en los convenios que se celebren para tal efecto;
+###### ARTICULO 68.
 
-b) Los derechos adicionales sobre la extracción de petróleo excluyendo el derecho extraordinario sobre el mismo, respecto de los municipios colindantes con los litorales por donde se realice materialmente la salida del país de dichos productos, y
+El incumplimiento de las obligaciones que establece esta ley, se sancionará de acuerdo a lo siguiente:
 
-c) Los ingresos que deriven de convenios de colaboración celebrados con la Federación.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-###### Artículo 18.
+I.- Con multa de setenta y cinco a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización y clausura temporal hasta por un plazo de quince días, en los siguientes casos:
 
-De los ingresos que el Estado otorgue a los municipios, derivados de convenios de colaboración, corresponderá a la Legislatura vigilar la debida aplicación de los mismos.
+a).- Por no tener en lugar visible al público la licencia y, en su caso, el permiso original respectivo;
 
-### CAPÍTULO III. De las aportaciones federales
+b).- A quienes, estando obligado a ello, no fijen letreros visibles en el exterior o interior de sus establecimientos, dando a conocer la prohibición a que se refieren las fracciones I y XII del artículo 16 de esta ley;
 
-### CAPÍTULO IV. De la colaboración administrativa entre los Municipios y el Estado
+c).- Por no pintar en el exterior del establecimiento, en lugar visible, un rectángulo de color negro de veinte por veintiocho centímetros, y en color blanco el número de la licencia; y
 
-###### Artículo 19.
+d).- A quienes no conserven en el establecimiento los comprobantes de pago de los derechos correspondientes a la licencia. En este caso solo se aplicará la sanción económica;
 
-El Fondo de Aportaciones para la Infraestructura Social Municipal y el Fondo de Aportaciones para el Fortalecimiento de los Municipios que se integran con los recursos que la Federación transfiera a los municipios, estarán a lo dispuesto en la Ley de Coordinación Fiscal, condicionando su gasto a la consecución y cumplimiento de los objetivos que para cada tipo de aportación establece dicha Ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, G.O. 13 DE FEBRERO DE 2008)</small>
+II.- Con multa de ciento cincuenta y uno a trescientas veces el valor diario de la Unidad de Medida y Actualización y clausura temporal hasta por un plazo de treinta días, en los siguientes casos:
 
-Las aportaciones federales serán cubiertas a los municipios en efectivo, sin condicionamiento alguno, son inembargables y no pueden estar sujetas a retención, salvo el Fondo de Aportaciones para la Infraestructura Social, cuyos derechos, ingresos, o ambos, podrán afectarse por los Municipios como fuente de pago, garantía, o ambas, de sus obligaciones, en términos de la Ley de Coordinación Fiscal Federal, esta Ley y las demás disposiciones aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Los fondos de aportaciones se integran, distribuyen, administran y ejercen de acuerdo a lo dispuesto en la Ley de Coordinación Fiscal, en la legislación estatal correspondiente y conforme a las normas que para tal efecto emita la Legislatura.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO, G.O. 13 DE FEBRERO DE 2008)</small>
+a).- A quienes no conserven, mantengan y presenten el original de la licencia o permiso de funcionamiento y demás documentos que esta ley exige, cuando lo requiera la autoridad competente;
 
-Con el fin de cumplir con sus obligaciones en términos de la Ley de Coordinación Fiscal Federal, el Estado podrá instrumentar mecanismos de captación, distribución, o ambos, de las aportaciones federales, incluyendo los recursos que correspondan a los Municipios para su posterior entrega, a través de cuentas, depósitos, fideicomisos u otros medios legales, los cuales en su operación deberán respetar los montos, plazos y condiciones de entrega de los recursos a los Municipios conforme a la Ley y a los convenios aplicables, sin perjuicio de cumplir con los fines de las afectaciones que, como fuente de pago, garantía, o ambas, hubieren realizado los Municipios a favor de sus acreedores en términos del Código Hacendario Municipal.
+b).- A los que no cumplan con los requisitos establecidos en el artículo 13 de esta ley;
 
-> <small>(ADICIONADO, G.O. 13 DE FEBRERO DE 2008)</small>
+c).- A quienes vendan bebidas alcohólicas o permitan su consumo en el establecimiento, sin estar autorizado para ello en la licencia o permiso respectivo, conforme a las disposiciones de esta ley;
 
-Los fideicomisos que se constituyan como mecanismos de captación, distribución, o ambos, no serán considerados, en ningún caso, parte de la administración pública estatal, por lo que no les serán aplicables las disposiciones de las entidades paraestatales.
+d).- A quienes vendan o permitan el consumo de cerveza sin alimentos en los establecimientos a que se refieren las fracciones XVI y XXI del artículo 10 de esta ley; y
 
-###### Artículo 20.
+e).- A quienes enajenen y permitan el consumo de bebidas alcohólicas en los sitios y lugares mencionados en el artículo 63 de la presente ley;
 
-El Fondo de Aportaciones para la Infraestructura Social Municipal de cada Municipio se ejercerá en los términos que definan los Ayuntamientos previo acuerdo con el Consejo de Desarrollo Municipal.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-El Fondo de Aportaciones para el Fortalecimiento de los Municipios, se destinará exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes.
+III.- Con multa de trescientos uno a quinientas veces el valor diario de la Unidad de Medida y Actualización, y clausura temporal hasta por un plazo de sesenta días, en los siguientes casos:
 
-###### Artículo 21.
+a).- Cuando un establecimiento funcione en un domicilio distinto al señalado en la licencia, o con clasificación distinta, sin haberse obtenido previamente la autorización correspondiente;
 
-Respecto de las Aportaciones Federales que integran los fondos señaladas en el artículo anterior, los municipios tendrán las siguientes obligaciones:
+b).- A los que estando autorizados exclusivamente para expender cerveza, permitan el consumo y venta de otras bebidas alcohólicas en el interior del establecimiento;
 
-I. Hacer del conocimiento de sus habitantes los montos que reciban, las acciones y obras a realizar, el costo de cada una de ellas, su ubicación, metas y beneficiarios;
+c).- A los que no cumplan, con lo dispuesto en las Fracciones IV y V del artículo 16 de esta ley;
 
-II. Promover la participación de las comunidades beneficiarias en su destino, aplicación y vigilancia, así como en la programación, ejecución, control, seguimiento y evaluación de las obras y acciones que se vayan a realizar, y
+d).- Por permitir en el interior de los establecimientos la práctica de juegos de azar que no sean de los autorizados en las leyes de la materia y cruzar apuestas en los juegos permitidos;
 
-III. Informar a sus habitantes, al término de cada ejercicio, sobre los resultados alcanzados.
+e).- Por instalar compartimientos o reservados en los establecimientos de bar, cabaret o centro nocturno, cantina o taberna, cervecería o discoteca susceptibles de ser cerrados con cualquier tipo de puerta, que obstruya la vista o que impida la comunicación en el interior del establecimiento;
 
-###### Artículo 22.
+f).- Por permitir permanecer en los establecimientos de bar, cabaret o centro nocturno, cantina o taberna, cervecería y discoteca después del horario fijado en el artículo 19 de esta ley;
 
-Los Consejos de Desarrollo Municipal a que se hace referencia el artículo 20 de esta Ley, tendrán las siguientes atribuciones:
+g).- Por la enajenación de bebidas alcohólicas fuera de los horarios establecidos en esta ley o en las licencias o permisos de funcionamiento;
 
-a) Establecer los objetivos, programas y acciones del Fondo para la Infraestructura Social Municipal;
+h).- Por la enajenación de bebidas alcohólicas en los días prohibidos por las autoridades encargadas de su aplicación, conforme a lo señalado en la presente ley; e
 
-b) Promover e impulsar la organización social y la participación de la población en la planeación y desarrollo de los programas y acciones del Fondo;
+i).- Cuando se enajenen al mayoreo bebidas alcohólicas a establecimientos que no estén autorizados en los términos de esta ley;
 
-c) Seleccionar y apoyar las obras y acciones a realizar con cargo al Fondo, en base a las propuestas que hagan los Comités Comunitarios;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-d) Participar en el seguimiento, control y evaluación del Fondo;
+IV.- Con multa de quinientos uno a mil quinientas veces el valor diario de la Unidad de Medida y Actualización, clausura definitiva y cancelación de la licencia o permiso, en los siguientes casos:
 
-e) Promover e impulsar el establecimiento y desarrollo de las contralorías sociales;
+a).- A los que vendan bebidas alcohólicas a las personas señaladas en el artículo 16 Fracción I de esta ley;
 
-f) Apoyar la planeación del desarrollo municipal;
+b).- A los que permitan el acceso a menores de edad o a personas que no estén en pleno goce de sus facultades mentales en los establecimientos de bares, cabaret o centros nocturnos, cantinas o tabernas, o cervecerías;
 
-g) Impulsar y apoyar los programas de desarrollo institucional, coordinados con el Estado y la Federación tendentes a mejorar las capacidades técnicas de las administraciones municipales y Comités Comunitarios;
+c).- A los que permitan que menores de edad administren establecimientos de los que se refiere esta ley;
 
-h) Ordenar y sistematizar las demandas sociales definidas al interior de los Comités Comunitarios, y
+d).- A los que no impidan conductas que tiendan a alentar, favorecer o tolerar la prostitución, así como a los que permitan cualquier tipo de espectáculo que altere el orden, ofenda la moral o las buenas costumbres;
 
-i) Establecer comisiones de trabajo por actividad, a fin de dar seguimiento a las acciones definidas por los diferentes Comités.
+e).- A los que vendan bebidas que estén adulteradas, contaminadas o alteradas en los términos de las disposiciones de salud aplicables, sin perjuicio de las sanciones administrativas de las autoridades sanitarias o penales que correspondan, cuando sean constitutivas de delito;
 
-La organización y funcionamiento de los Consejos de Desarrollo Municipal serán establecidos en el Reglamento que para tal efecto emita la Legislatura.
+f).- A las personas que enajenen, traspasen, graven, arrienden, donen u otorguen en comodato o cualquier otra clase de convenios, la licencia o permiso, así como cuando sea utilizada en algún establecimiento por persona distinta a su propietario;
 
-###### Artículo 23.
+g).- Cuando el propietario o su representante legal, encargado o empleado impida o dificulte a las autoridades correspondientes la inspección de sus establecimientos, local completo, licencias y demás documentos;
 
-El Ejecutivo del Estado, por conducto de la Secretaría podrá celebrar convenios de colaboración administrativa con los municipios, entre otras, sobre las siguientes materias:
+h).- A los propietarios o sus representantes legales que proporcionen datos falsos a las autoridades;
 
-I. Registro de contribuyentes;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-II. Recaudación, notificación, cobranza, verificación y fiscalización respecto de contribuciones estatales coordinadas;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-III. Recaudación, notificación y cobranza respecto de ingresos coordinados conforme a lo establecido en el convenio de colaboración administrativa en materia fiscal federal;
+i).- A los que violen lo dispuesto en el artículo 62 fracciones III y IV de esta ley;
 
-IV. Catastro;
+j).- A quienes operen establecimientos en contravención a lo señalado en la fracción XII del artículo 25 de esta ley;
 
-V. Capacitación;
+k).- Cuando el establecimiento continúe operando después de haber sido notificada la cancelación de la licencia o permiso; y
 
-VI. Desarrollo de sistemas de informática para la recaudación de contribuciones estatales y municipales;
+l).- A quienes desprendan, alteren o destruyan parcial o totalmente, sin autorización legal, los sellos o marcas oficiales colocados por los visitadores;
 
-VII. Vigilancia del cumplimiento de obligaciones fiscales;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-VIII. Intercambio de información respecto de ingresos y actividades coordinadas;
+V.- Con multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización, cuando en los establecimientos en que se enajenen bebidas alcohólicas se utilicen como casas habitación, viviendas, departamentos u oficinas, o que estén comunicados con ellos. Igual sanción se impondrá al propietario o poseedor de la casa habitación que venda o permita que se vendan bebidas alcohólicas, así como a quienes violen lo dispuesto en los artículos 14 y 62 fracciones I y II de esta ley;
 
-IX. Convenios de colaboración respecto de puentes de peaje operados por la Federación ubicados en los municipios, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-X. Modernización administrativa.
+VI.- Con multa de setenta y cinco a quinientas veces el valor diario de la Unidad de Medida y Actualización y clausura temporal hasta por un plazo de treinta días, cuando el establecimiento se destine a un giro distinto al autorizado en la licencia o permiso correspondiente. La clausura será definitiva cuando se opere el establecimiento como bar, cabaret o centro nocturno, cantina o taberna, cervecería o discoteca, y en la licencia o permiso respectivo tenga autorizado giro distinto;
 
-###### Artículo 24.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-Los convenios de colaboración administrativa, en todo caso, serán autorizados por el Cabildo correspondiente y por la H. Legislatura del Estado.
+VII.- Con multa de trescientos a quinientas veces el valor diario de la Unidad de Medida y Actualización y clausura temporal hasta por treinta días, cuando por cualquier otro acto u omisión se infrinjan las disposiciones de esta ley, que no se encuentre previsto en las fracciones anteriores;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+VIII.- Con arresto administrativo hasta por treinta y seis horas, multa de quinientas una a mil quinientas veces el valor diario de la Unidad de Medida y Actualización y clausura definitiva, a los propietarios de los establecimientos que expendan o suministren las bebidas alcohólicas, sin contar con licencia o permiso correspondiente, siendo solidariamente responsables los distribuidores que surtan a dichos establecimientos; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+IX.- Con multa de diez mil a veinte mil veces el valor diario de la Unidad de Medida y Actualización, a quienes no presenten la declaración a que se refiere el artículo 16 fracción XVII de esta ley o la presente después de haber sido requerida por la Oficina Fiscal del Estado que corresponda al domicilio del obligado.
+
+###### ARTICULO 69.
+
+En los supuestos señalados en la Fracción III incisos a) y b) del artículo anterior, adicionalmente a la clausura temporal o definitiva, las autoridades encargadas de la aplicación de esta ley procederán, en su caso, a decomisar la mercancía que se encontrare en el establecimiento.
+
+###### ARTICULO 70.
+
+A los reincidentes se les aplicará el doble que corresponda a la sanción prevista para el caso en particular.
+
+Se considerará reincidente al infractor que en un plazo de treinta días cometa nuevamente la misma infracción o cuando en un período de dos meses, cometa dos o más infracciones distintas.
+
+###### ARTICULO 71.
+
+La imposición de las sanciones administrativas establecidas en esta ley, se aplicarán sin perjuicio de la responsabilidad penal en que incurran los infractores.
+
+###### ARTICULO 72.
+
+Son responsables de las infracciones que se cometan a la presente ley, los propietarios de los establecimientos y sus administradores, así como los representantes legales de las personas morales.
+
+Tienen responsabilidad solidaria para el pago de las sanciones económicas los propietarios de los inmuebles que permitan el uso o goce de los mismos, para la enajenación de bebidas alcohólicas sin la licencia o permiso respectivo.
+
+###### ARTICULO 73.
+
+El pago de las sanciones económicas impuestas por violaciones a la ley, se hará dentro del término de quince días hábiles contados a partir de aquel en el que fue notificada dicha sanción.
+
+El pago de las sanciones se hará en la caja receptora de la Oficina Fiscal del Estado que corresponda a la ubicación del establecimiento, misma que expedirá el recibo impreso de la caja registradora, para amparar el cumplimiento del infractor.
+
+Sin estos requisitos no se tendrá por realizado el pago.
+
+###### ARTICULO 74.
+
+La Secretaría, para hacer efectivo el cobro de las sanciones económicas impuestas por violaciones a la presente ley, aplicará el Procedimiento Administrativo de Ejecución señalado en el Código Fiscal del Estado.
+
+### CAPITULO XI. DEL RECURSO DE RECONSIDERACIÓN
+
+###### ARTICULO 75.
+
+El recurso de reconsideración es el medio de defensa legal de los particulares afectados por las resoluciones emitidas por la Secretaría.
+
+Se interpondrá el recurso de reconsideración por escrito ante la propia Secretaría, dentro de los cinco días hábiles siguientes a la notificación de la resolución cuyos efectos se impugne.
+
+La resolución del recurso podrá dejar sin efecto, modificar o confirmar la resolución impugnada.
+
+###### ARTICULO 76.
+
+Al escrito de interposición del recurso de reconsideración se deberá acompañar:
+
+I.- Copia certificada del documento que acredite la personalidad del promovente, cuando se actúe como representante legal;
+
+II.- Documento de la resolución o acto que se impugna;
+
+III.- Constancia de notificación del acto impugnado, excepto cuando se trate de la negativa ficta;
+
+IV.- Las pruebas que considere pertinentes, excepto la confesional y las que se consideren contra la moral o el derecho; y
+
+V.- Los agravios que el recurrente estime le causa la resolución o acto impugnado;
+
+Cuando no se acompañe el documento a que se refiere la fracción I del presente artículo, la autoridad correspondiente tendrá por no interpuesto el recurso. Si se omitieren las pruebas, se tendrán por no ofrecidas.
+
+Cuando no se acompañen los documentos señalados en las fracciones II y III de este artículo se requerirá al recurrente para que los presente en un plazo de tres días hábiles; transcurrido dicho término, y el promovente no los presentare, se tendrá por no interpuesto el recurso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 77.
+
+En el supuesto señalado en el artículo 27 de la presente ley, el recurrente deberá acompañar la copia de la solicitud presentada, en la que conste la fecha en que fue recibida por la Secretaría.
+
+En este caso, la Secretaría expresará en un término no mayor a diez días hábiles, la causa por la que no fue aceptada su solicitud, y una vez hecho esto se abrirá un plazo de cinco días hábiles para que el afectado ofrezca las pruebas que estime pertinentes, en relación a la causa expresada por la autoridad.
+
+###### ARTICULO 78.
+
+La Secretaría, dentro de los treinta días hábiles siguientes a la celebración de la audiencia de desahogo de pruebas, dictará la resolución que corresponda, la que notificará personalmente al interesado.
+
+###### ARTICULO 79.
+
+La Secretaría, al emitir resolución, motivará y fundará la razón de la misma, por lo que valorará las pruebas ofrecidas y expondrá las consideraciones de hecho y de derecho.
+
+###### ARTICULO 80.
+
+En contra de la resolución que resuelva el recurso de reconsideración, no procede recurso administrativo alguno, y podrá recurrirse al juicio de nulidad ante el Tribunal Fiscal del Estado, en los términos previstos en el Código Fiscal del Estado.
+
+T R A N S I T O R I O S
+
+###### ARTICULO 31.
+
+Se exceptúa de lo dispuesto en el artículo anterior, el caso de fallecimiento del titular de la licencia, en cuya situación podrá expedirse la licencia a favor del o de los herederos legalmente acreditados, debiéndose elaborar la solicitud correspondiente para que se autorice el cambio respectivo, y entretanto, con la copia de la solicitud recibida, el establecimiento podrá continuar funcionando con la licencia a nombre del fallecido.
+
+En tanto concluye el juicio sucesorio, la licencia permanecerá a nombre del titular fallecido, agregándose el término "sucesores", teniendo como representante legal al albacea designado.
+
+En los casos de cambio de denominación o razón social de las personas morales, se podrá expedir nueva licencia con la modificación mencionada.
+
+###### ARTICULO 32.
+
+Las licencias y permisos no son objeto de revalidación, por lo que una vez agotado el término para el que fueron otorgadas se extingue la autorización, sin necesidad de declaración o notificación alguna.
+
+###### ARTICULO 33.
+
+Las licencias a que se refiere esta ley tendrán vigencia solo durante el año de calendario en el que se expidieron; la vigencia de los permisos será la señalada expresamente en los mismos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+###### ARTICULO 34.
+
+El propietario, representante legal o encargado del establecimiento destinado al almacenamiento, distribución, enajenación y consumo de bebidas alcohólicas, deberá solicitar por escrito, o a través del portal de internet de la Secretaría u otros medios electrónicos permitidos, en los meses de noviembre y diciembre de cada año, la expedición de la nueva licencia para el siguiente año.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+El comprobante de la solicitud presentado en tiempo y forma, permitirá la operación del establecimiento respectivo, sólo durante los meses de enero y febrero del año siguiente a aquel en que se presentó la solicitud, debiendo realizar el pago correspondiente de derechos por expedición de licencias para funcionamiento de establecimientos de bebidas alcohólicas a que se refiere el artículo 81 de la Ley de Hacienda para el Estado de Tamaulipas a más tardar el último día hábil del mes de febrero.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Una vez realizado el pago, el propietario o representante legal del establecimiento destinado al almacenamiento, distribución, enajenación y consumo de bebidas alcohólicas, contará con 90 días naturales posteriores a la fecha en que se realizó el pago, para recoger su licencia de funcionamento (sic).
+
+###### ARTICULO 35.
+
+Cuando una misma persona física o moral sea propietaria o poseedora de varios establecimientos presentará solicitud para cada uno de ellos, a efecto de obtener la licencia o permiso.
+
+Si en un mismo local se encuentran diversos establecimientos sean o no propiedad de la misma persona física o moral, se deberá obtener la licencia para cada uno de ellos.
+
+El establecimiento con actividades diversas en un mismo local, queda sujeto a dictamen previo favorable de la Secretaría, el que se emitirá atendiendo a que las características físicas del local permitan una distribución adecuada y delimitación plena de aquellos.
+
+Queda prohibido utilizar una licencia para amparar más de un establecimiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 36.
+
+Para obtener la nueva licencia a que se refiere el artículo 34, se requiere comprobar que se continúa cumpliendo con los requisitos señalados con el Artículo 25 de la presente ley. Para este efecto, bastará con la declaratoria que hará el solicitante bajo protesta de decir verdad. En caso de que se hubiere modificado alguno de los requisitos exigidos, el interesado deberá comprobarlo con el documento correspondiente.
+
+I.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
+
+II.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
+
+III.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
+
+IV.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
+
+V.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
+
+VI.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
+
+Al recibir la nueva licencia, deberá devolverse el original de la licencia del año inmediato anterior.
+
+###### ARTICULO 37.
+
+Se considerará vigente la licencia o constancia sanitaria estatal, en tanto la autoridad correspondiente no la hubiere revocado.
+
+###### ARTICULO 38.
+
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 39.
+
+La Secretaría podrá autorizar el cambio de domicilio o clasificación del establecimiento, cuando se compruebe el cumplimiento de los requisitos señalados en el Artículo 25 de esta ley, observándose lo dispuesto en los Artículos 26 y 27 de la misma.
+
+I.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
+
+II.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
+
+III.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
+
+###### ARTICULO 40.
+
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
+
+###### ARTICULO 41.
+
+La Secretaría, para efecto de control, almacenamiento llevará un registro de los establecimientos que se dediquen al almacenamiento, distribución, enajenación y consumo de bebidas alcohólicas, el cual contendrá:
+
+I.- Número de licencia y clave de actividad;
+
+II.- Nombre del propietario;
+
+III.- Domicilio, giro, nombre o razón social del establecimiento, registro federal de contribuyentes y cuenta estatal;
+
+IV.- Fecha de expedición de la licencia; y
+
+V.- Las sanciones que se le hubieren impuesto, indicando fecha, monto y concepto.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero del 2012.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos y procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
+
+P.O. 17 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero del 2014, con excepción del artículo 9 Bis de la Ley de Coordinación Fiscal del Estado de Tamaulipas adicionado en este Decreto, que entrará en vigor el 1° de enero de 2015.
+
+###### ARTÍCULO SEGUNDO.
+
+El porcentaje correspondiente a los Municipios del Estado, de la recaudación del Impuesto sobre Tenencia o Uso de Vehículos de carácter estatal establecido en el artículo 44 de la Ley de Coordinación Fiscal del Estado de Tamaulipas, no obstante lo establecido en el citado artículo, durante el año 2014 será equivalente al 37 por ciento de los ingresos obtenidos por dicho Impuesto.
+
+Este porcentaje será distribuido en proporción a la recaudación que se obtenga de dichos conceptos, conforme al domicilio declarado por el contribuyente al efectuar su pago.
+
+P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, las cuales surtirán efectos a partir de su aprobación.
+
+P.O. 17 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero del 2015.
+
+###### ARTÍCULO SEGUNDO.
+
+El porcentaje correspondiente a los Municipios del Estado, de la recaudación del Impuesto sobre Tenencia o Uso de Vehículos de carácter estatal establecido en el artículo 44 de la Ley de Coordinación Fiscal del Estado de Tamaulipas, no obstante lo establecido en el citado artículo, durante el año 2015 será equivalente al 37 por ciento de los ingresos obtenidos por dicho Impuesto.
+
+Este porcentaje será distribuido en proporción a la recaudación que se obtenga de dichos conceptos, conforme al domicilio declarado por el contribuyente al efectuar su pago
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos y procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2016.
 
 ## TRANSITORIOS
 
@@ -1324,3 +1744,73 @@ Artículo Segundo. Se derogan las disposiciones que se opongan a este Decreto.
 G.O. 9 DE JUNIO DE 2008.
 
 Artículo único. El presente Decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial del Estado.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-92 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, Y DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1 de enero del 2017, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes estatales, así como cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+###### ARTÍCULO TERCERO.
+
+Tratándose de las menciones al salario mínimo que se hagan en contratos y convenios vigentes al 28 de enero de 2016, se atenderá a lo dispuesto en el artículo Séptimo Transitorio del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley Reglamentaria para Establecimientos de Bebidas Alcohólicas contenida en el Decreto número 257, expedido el 24 de junio de 1982 y publicado en el Periódico Oficial del Estado número 79 de fecha 2 de octubre del mismo año, así como sus reformas y adiciones que tuvo durante su vigencia.
+
+###### ARTICULO TERCERO.
+
+Los asuntos que estuvieren en trámite al entrar en vigor esta ley, serán resueltos conforme a las disposiciones de los ordenamientos que se refieren en el artículo transitorio anterior.
+
+###### ARTICULO CUARTO.
+
+Quedan sin efectos todas las disposiciones que contravengan o se opongan a lo dispuesto en la presente ley.
+
+###### ARTICULO QUINTO.
+
+Aquellos establecimientos que se encuentren funcionando a la entrada en vigor de la presente ley y que cuenten con licencia vigente para el año 1999, contarán con un plazo que no excederá del 30 de abril del año actual para que obtengan la licencia correspondiente al presente año, en los términos de la ley que se abroga.
+
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria Tam., a 22 de Marzo del Año 2000.- DIPUTADO PRESIDENTE.- C.P. LIBALDO GARZA MORENO.- Rúbrica.- DIPUTADO SECRETARIO.- C. ANTONIO GALVAN LOPERENA.- Rúbrica.- DIPUTADO SECRETARIO.- C. GUILLERMO HURTADO CRUZ.- Rúbrica.
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los tres días del mes de abril del año dos mil.
+
+ATENTAMENTE "Sufragio Efectivo. No Reelección"
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- EL SECRETARIO GENERAL DE GOBIERNO.- HOMERO DIAZ RODRIGUEZ.- Rúbrica.-
+
+N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 25 DE DICIEMBRE DE 2001
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos de lo dispuesto en el Artículo 36 de esta ley, la declaratoria de cumplimiento para aquellos establecimientos que cuenten con licencia vigente para el ejercicio 2001, se referirá a que las condiciones de operación no ha sido objeto de modificación o cambio alguno con respecto a ese mismo año.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
