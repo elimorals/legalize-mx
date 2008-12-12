@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-desarrollo-economico-y-competitividad-para-el-estado-584
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-17"
-last_updated: "2007-12-17"
+last_updated: "2008-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE DESARROLLO ECONOMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Número 83 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 17 de diciembre de 2007.
 
@@ -451,9 +451,13 @@ IX.- Los niveles satisfactorios de educación y capacitación.
 
 ### CAPÍTULO VIII. DEL EMPLEO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 31.
 
-La Secretaría en coordinación con los organismos correspondientes del orden federal y municipal y de los sectores privado y laboral, desarrollará programas y medidas tendientes a la consecución del pleno empleo, así como para el mejoramiento de la capacidad y calidad del recurso humano, para promover el equilibrio cuantitativo y cualitativo sectorial y por región de la oferta y demanda de empleo con el objeto de reducir situaciones de desempleo y demandas de empleo no satisfechas. Todo lo anterior dentro de las orientaciones generales de la política de desarrollo económico y competitividad que se establecen en esta Ley y otros ordenamientos relacionados.
+La Secretaría del Trabajo y Previsión Social, en coordinación con los organismos correspondientes del orden federal y municipal y de los sectores privado y laboral, desarrollará programas y medidas tendientes a la consecución del pleno empleo, así como para el mejoramiento de la capacidad y calidad del recurso humano, para promover el equilibrio cuantitativo y cualitativo sectorial y por región de la oferta y demanda de empleo con el objeto de reducir situaciones de desempleo y demandas de empleo no satisfechas. Todo lo anterior, dentro de las orientaciones generales de la política de desarrollo económico y competitividad que se establecen en esta ley y otros ordenamientos relacionados.
 
 ###### Artículo 32.
 
@@ -475,9 +479,13 @@ VII.- Atender la movilidad sectorial y geográfica de la mano de obra, de modo d
 
 VIII.- Promover la regularización de las relaciones laborales, desalentando las prácticas informales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 33.
 
-Se establece el Servicio Estatal del Empleo y Capacitación para el Trabajo de Quintana Roo, como el organismo público desconcentrado de la Secretaría que tendrá bajo su responsabilidad la planeación, desarrollo y seguimiento de los programas y medidas de la política de empleo y capacitación para el trabajo en el marco de lo establecido en la presente Ley.
+Se establece el Servicio Estatal del Empleo y Capacitación para el Trabajo de Quintana Roo, como el organismo público desconcentrado de la Secretaría del Trabajo y Previsión Social del Estado, que tendrá bajo su responsabilidad la planeación, desarrollo y seguimiento de los programas y medidas de la política de empleo y capacitación para el trabajo en el marco de lo establecido en la presente ley.
 
 ###### Artículo 34.
 
@@ -1264,3 +1272,25 @@ LIC. FÉLlX ARTURO GONZÁLEZ CANTO
 LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 ROSARIO ORTIZ YELADAQUI
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1o. febrero del año 2009, previa su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO.- El Ejecutivo del Estado deberá expedir el Reglamento Interior de la Secretaría del Trabajo y Previsión Social, así como realizar las adecuaciones correspondientes a los reglamentos interiores de las Secretarias cuyas atribuciones se modifican, en un plazo no mayor de sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto. Entre tanto, seguirán vigentes los reglamentos aplicables, en lo que no se opongan a este Decreto.
+
+CUARTO.- Los traspasos que por motivo de este Decreto deban realizarse de una dependencia a otra, incluirán las adecuaciones presupuestarias derivadas de las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, así como los traspasos de recursos humanos y de los activos patrimoniales que la Dependencia haya utilizado para los asuntos a su cargo.
+
+QUINTO.- El Ejecutivo del Estado por conducto de las Secretarías de Hacienda y de la Contraloría, con la participación de las dependencias correspondientes, deberán concluir dichas adecuaciones presupuestarias y traspasos de personas, recursos materiales y financieros, así como de los activos patrimoniales, en un plazo no mayor de sesenta días naturales, a partir de la entrada en vigor del presente Decreto.
+
+SEXTO.- Se faculta al Gobernador del Estado, para que, en términos de la Ley del Presupuesto, Contabilidad y Gasto Público, y el Decreto que autoriza el Presupuesto de Egresos del Estado para el ejercicio fiscal 2009, realice en su caso, los ajustes necesarios a este Presupuesto de Egresos por las modificaciones a la estructura orgánica del Poder Ejecutivo.
+
+SÉPTIMO.- Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+OCTAVO.- Hasta en tanto entra en funciones la Secretaría del Trabajo y Previsión Social, los asuntos que con motivo de este Decreto le fueran transferidos por la Secretaría de Gobierno y la Secretaría de Desarrollo Económico, seguirán siendo atendidos por los dependencias que en el ejercicio de sus funciones y atribuciones les correspondan en términos de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo.
+
+NOVENO.- Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición; respecto de las secretarías cuyas funciones se reforman por virtud de este Decreto, se entenderán referidas a la dependencia que asuma tal función.
