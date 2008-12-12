@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-asistencia-social-y-corresponsabilidad-ciudadana-57580"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2008-07-23"
+last_updated: "2008-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ASISTENCIA SOCIAL Y CORRESPONSABILIDAD CIUDADANA PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 21 de noviembre de 2007.
 
@@ -189,11 +189,15 @@ Las instituciones particulares podrán prestar los servicios de asistencia socia
 
 ### CAPÍTULO V. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MORELOS
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 15.
 
-El Gobierno del Estado contará con un organismo público descentralizado, con personalidad jurídica y patrimonio propio, que se denominará Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, el cual será el organismo rector de la asistencia social y tendrá como objetivos la promoción de la asistencia social, la prestación de servicios en ese campo, el incremento de la interrelación sistemática de acciones que en la materia lleven a cabo las instituciones públicas y privadas, así como la realización de las demás acciones que establece esta Ley y las disposiciones legales aplicables.
+El Gobierno del Estado contará con un organismo público descentralizado, con personalidad jurídica y patrimonio propio, que se denominará Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, sectorizado a la Secretaría de Desarrollo Humano y Social; el cual será el organismo rector de la asistencia social y tendrá como objetivos la promoción de la asistencia social, la prestación de servicios en ese campo, el incremento de la interrelación sistemática de acciones que en la materia lleven a cabo las instituciones públicas y privadas, así como la realización de las demás acciones que establece esta Ley y las disposiciones legales aplicables.
 
-El Sistema podrá establecer delegaciones en las regiones y los municipios que así lo requieran conforme a lo establecido en su presupuesto.
+El sistema Deberá actuar fortaleciendo la perspectiva de familia, a través de generar consensos ciudadanos e implementar políticas públicas que permitan concretar el desarrollo comunitario, y lograr el posicionamiento del desarrollo integral en los municipios del Estado.
+
+El Sistema podrá celebrar convenios con los Sistemas municipales para el Desarrollo Integral de la Familia de los Estados, con el fin de crear delegaciones regionales y municipales de la Procuraduría de la Defensa del Menor y la Familia.
 
 ###### ARTÍCULO 16.
 
@@ -303,17 +307,23 @@ La Junta de Gobierno estará integrada por:
 
 I.- El Presidente o la Presidenta del Sistema, nombrado por el Gobernador del Estado, como máxima autoridad, quien la presidirá;
 
-II.- El Secretario de Salud, como titular de la dependencia coordinadora del sector;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-III.- El Secretario de Finanzas y Planeación de Gobierno del Estado;
+II.- El Secretario de Desarrollo Humano y Social, como titular de la dependencia coordinadora del sector;
 
-IV.- El Secretario de Obras Públicas;
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-V.- El Secretario de Educación del Estado, y (sic)
+III.- El Secretario de Salud;
 
-VI.- El Titular de la Oficialía Mayor del Estado;
+IV.- El Secretario de Finanzas y Planeación de Gobierno del Estado;
 
-VII.- El Órgano de Vigilancia.
+V.- El Secretario de Obras Públicas;
+
+VI.- El Secretario de Educación del Estado, y (sic)
+
+VII.- El Titular de la Oficialía Mayor del Estado;
+
+VIII.- El Órgano de Vigilancia.
 
 Por cada miembro de la Junta de Gobierno se nombrará un suplente que para el efecto designen los titulares de la misma.
 
@@ -876,3 +886,15 @@ TERCERO.- Aquellos ayuntamientos en que se encuentre constituido el organismo p�
 CUARTO.- Por conducto de la Secretaría del Congreso notifíquese el presente Decreto a los Ayuntamientos del Estado para los efectos legales correspondientes.
 
 QUINTO.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal para los efectos legales y constitucionales correspondientes.
+
+P.O. 12 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano del Gobierno del Estado.
+
+SEGUNDO. Los Directores Generales de los organismos públicos descentralizados a que se refiere el presente Decreto, contarán con un plazo de veinte días siguientes a esta publicación para solicitar la modificación respectiva en el Registro Público de Organismos del Estado de Morelos, de acuerdo con lo dispuesto por el artículo 34 de la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos.
+
+TERCERO. Los órganos de gobierno de los organismos públicos descentralizados a que se refiere el presente Decreto, contarán con un plazo de treinta días hábiles siguientes a esta publicación para realizar las modificaciones necesarias a sus respectivos estatutos orgánicos, y una vez aprobadas, solicitar la inscripción de las mismas en el Registro Público de Organismos del Estado de Morelos, de conformidad con lo dispuesto por la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos.
+
+CUARTO. Se derogan todas aquellas disposiciones que contravengan a lo dispuesto al presente Decreto.
+
+QUINTO. Remítase al Poder Ejecutivo para su correspondiente publicación.
