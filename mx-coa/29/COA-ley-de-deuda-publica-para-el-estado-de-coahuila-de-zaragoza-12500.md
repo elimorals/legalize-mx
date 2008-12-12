@@ -4,7 +4,7 @@ identifier: "COA-ley-de-deuda-publica-para-el-estado-de-coahuila-de-zaragoza-125
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-06"
-last_updated: "2007-09-07"
+last_updated: "2008-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 6 de diciembre de 1996.
 
@@ -195,17 +195,21 @@ El Congreso, previa solicitud del Ejecutivo del Estado y de los Ayuntamientos, s
 
 No obstante lo anterior, las entidades podrán contratar deuda directa sin la previa autorización del Congreso, en adición a los montos de endeudamiento neto aprobados en la Ley de Ingresos correspondientes, siempre y cuando se cumplan los siguientes requisitos:
 
-I. El plazo de pago del monto principal de la deuda no exceda el término del ejercicio fiscal en el cual originalmente fue contratada dicha deuda;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+I. El plazo de pago del monto principal de la deuda no deberá exceder de ciento ochenta días naturales, ni vencer dentro de los noventa días naturales anteriores al término del periodo constitucional de la administración que contrató la deuda, en el entendido que dicha deuda deberá ser cubierta en su totalidad por la administración que la contrató;
 
 II. El saldo total acumulado de dicha deuda no exceda del 5% de los ingresos ordinarios de la entidad que se trate, durante el ejercicio fiscal correspondiente;
 
 III. No se afecten en garantía o en pago el derecho a recibir participaciones derivadas de la coordinación fiscal;
 
-IV. No sea el último ejercicio fiscal de su período constitucional; y
+IV. (DEROGADA, P.O. 12 DE DICIEMBRE DE 2008)
 
 V. Informar al Congreso dentro de los cuarenta y cinco días posteriores a la contratación.
 
-La deuda a que se refiere el segundo párrafo de este artículo no podrá ser refinanciada o reestructurada.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+La deuda a que se refiere el segundo párrafo de este artículo no podrá ser refinanciada o reestructurada. Asimismo, una vez que el saldo insoluto de principal de la deuda contratada conforme al segundo párrafo de este artículo rebase el 5% de los ingresos ordinarios de la entidad de que se trate durante el ejercicio fiscal correspondiente, la entidad respectiva no podrá disponer nueva deuda al amparo de dicho párrafo sino hasta que transcurran 30 días naturales después de la fecha en que se pague en su totalidad dicho saldo insoluto de principal.
 
 ###### ARTICULO 7.
 
@@ -790,3 +794,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
 
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
