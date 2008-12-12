@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-el-desarrollo-y-proteccion-del-menor-en-el-estado-2227
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-12"
-last_updated: "1997-03-12"
+last_updated: "2008-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA EL DESARROLLO Y PROTECCION DEL MENOR EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de marzo de 1997.
 
@@ -125,7 +125,11 @@ f).- Brindar las condiciones mínimas para que los menores puedan disfrutar de d
 
 g).- Velar en todo momento por la salud de los menores, otorgándoles atención y protección ante las enfermedades;
 
-h).- En la potestad de corrección, no incurrir en conductas de acción u omisión que impliquen maltrato o crueldad física o psíquica hacia el menor.
+h).- En la potestad de corrección, no incurrir en conductas de acción u omisión que impliquen maltrato o crueldad física o psíquica hacia el menor;
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+i) Evitar exponer a las niñas, niños y adolescentes en manifestaciones realizadas en vías o lugares públicos, y en general en todas aquellas en que se ponga en riesgo su integridad física y psicológica.
 
 ## TITULO TERCERO. DE LAS OBLIGACIONES DEL ESTADO Y DE LOS MUNICIPIOS CON RESPECTO A LOS MENORES DE EDAD
 
@@ -836,3 +840,19 @@ SECRETARIO GENERAL DE GOBIERNO
 GUILLERMO MALO VELASCO
 
 RUBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 12 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Para dar cumplimiento a la presente reforma, el Sistema para el Desarrollo Integral de la Familia deberá realizar las adecuaciones necesarias a su reglamentación interior.
+
+###### ARTÍCULO TERCERO.
+
+Para efectos de su divulgación, publíquese en el periódico oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado Libre y Soberano de Morelos.
