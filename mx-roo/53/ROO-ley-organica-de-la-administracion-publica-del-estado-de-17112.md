@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-17112"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-08"
-last_updated: "2007-06-14"
+last_updated: "2008-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 8 de septiembre de 2000.
 
@@ -171,13 +171,23 @@ XII. Oficialía Mayor;
 
 XIII. Procuraduría General de Justicia del Estado;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIV. Secretaría de Infraestructura y Transporte; y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2005)</small>
+XIV. Secretaría de Infraestructura y Transporte;
 
-XV. Secretaría de Seguridad Pública.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XV. Secretaría de Seguridad Pública; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XVI. Secretaría del Trabajo y Previsión Social.
 
 ###### ARTICULO 20.
 
@@ -315,15 +325,25 @@ XV. Intervenir y colaborar, en su caso, de manera coordinada con las autoridades
 
 XVI. Formular, normar, coordinar y vigilar las políticas de apoyo a la participación de la mujer en los diversos ámbitos del desarrollo, así como propiciar la coordinación interinstitucional para la realización de programas específicos, vinculados con la política interior del Estado;
 
-XVII. Vigilar el adecuado funcionamiento de la Junta Local de Conciliación y Arbitraje sobre la observancia y aplicación de la Ley Federal del Trabajo, sus reglamentos y las disposiciones de ellos derivadas; proteger a los trabajadores no asalariados y a los menores trabajadores; así como conducir, difundir y evaluar la política laboral de su competencia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XVIII. Coordinar, con la Secretaría de Desarrollo Económico, la promoción y realización de acciones con las autoridades competentes, para el manejo de los recursos y programas destinados para fines de capacitación y fomento al empleo; así como participar en el Servicio Estatal del Empleo;
+XVII. (DEROGADA, P.O. 12 DE DICIEMBRE DE 2008)
 
-XIX. Mantener y fomentar las relaciones con asociaciones obrero patronales del Estado y en su caso, fungir como mediador con el fin de procurar la conciliación de intereses en conflicto;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XX. A petición de parte interesada, intervenir en los conflictos de las asociaciones obreros patronales y la Junta Local de Conciliación y Arbitraje, a fin de procurar la conciliación entre las partes, y en los mismos términos intervenir en la revisión de los contratos colectivos de trabajo;
+XVIII. (DEROGADA, P.O. 12 DE DICIEMBRE DE 2008)
 
-XXI. Verificar los centros de trabajo para constatar que se cumpla con las condiciones que establece la Ley Federal del Trabajo y normas que de ella se deriven. Igualmente prestar asistencia jurídica gratuita a los Sindicatos o trabajadores que lo soliciten y representarlos ante los Tribunales del Trabajo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XIX. (DEROGADA, P.O. 12 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XX. (DEROGADA, P.O. 12 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XXI. (DEROGADA, P.O. 12 DE DICIEMBRE DE 2008)
 
 XXII. (DEROGADA, P.O. 17 DE MARZO DE 2005)
 
@@ -627,71 +647,139 @@ XXII.- Proporcionar a los Ayuntamientos y a las Asociaciones en general, asesor�
 
 XXIII.- Las demás que le encomienden expresamente las leyes y reglamentos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 35.
 
 A la Secretaría de Desarrollo Económico corresponde el despacho de los siguientes asuntos:
 
-I. Formular, instrumentar, conducir y evaluar las políticas y programas sectoriales de desarrollo, promoción y fomento económico, en materia industrial, minera, de comercio exterior e interior, abasto, servicios, pesquera, de acuacultura, artesanías y desregulación económica, así como participar en lo relativo a la industrialización agropecuaria y forestal, con base en las disposiciones constitucionales y legales aplicables y las normas y lineamientos que determine el Gobernador del Estado en vinculación con el Sistema Estatal de Planeación, y ejercer por delegación del Ejecutivo del Estado, las atribuciones y funciones que en esas materias contengan los convenios suscritos entre las Administraciones Públicas Federal, Estatal y Municipal;
+I.- Formular, instrumentar, conducir y evaluar las políticas y programas sectoriales de desarrollo, promoción, fomento económico, así como fungir como órgano de consulta y asesoría del Estado en Materia de agroindustria, pesca, acuacultura, minería, energía, industria, comercio exterior, servicios, artesanías y la industrialización forestal, con base en las disposiciones constitucionales y legales aplicables y las normas y lineamientos que determine el Titular del Ejecutivo en vinculación con el Sistema Estatal de Planeación y ejercer por delegación del Ejecutivo del Estado, las atribuciones y funciones que en esas materias contengan los convenios suscritos entre las Administraciones Públicas Federal, Estatal y Municipal.
 
-II. Consolidar y regular los servicios regionales del sector, procurando su vinculación con el modelo de organización y desarrollo regional del Estado bajo criterios de eficiencia, productividad y ahorro en el gasto público y mayor cercanía y calidad de servicios a la población;
+II.- Planear, ejecutar y coordinar las políticas y acciones de fomento para la competitividad de las empresas del Estado;
 
-III. Promover y coordinar los programas de promoción del comercio exterior y la inversión extranjera en los diversos sectores de la economía de la Entidad con base en la Legislación y normatividad aplicable;
+III.- Consolidar y regular los servicios asociados a las actividades económicas, procurando su vinculación con el modelo de organización y desarrollo regional del Estado bajo criterios de eficiencia, productividad y ahorro en el gasto público y mayor cercanía y calidad de servicios a la población;
 
-IV. Regular, promover y vigilar la comercialización, distribución y consumo de los bienes y servicios en la entidad, conforme a la Legislación de la materia; así como, difundir técnicas, sistemas y procedimientos eficaces que permitan el mejoramiento de la producción y la productividad, en un contexto de competitividad y adecuado desarrollo económico y social; así mismo proponer al Gobernador del Estado los mecanismos de coordinación interinstitucional, que permitan incentivar el desarrollo y la inversión productiva;
+IV.- Coordinar, operar y supervisar el sistema de información Económica y de Mercado de Quintana Roo, con el objeto de apoyar en la toma de decisiones en materia económica a los diversos agentes económicos y sociales de Quintana Roo;
 
-V. Conducir, en coordinación con las dependencias y entidades involucradas, las acciones de la Administración Pública del Estado, relacionados con la simplificación administrativa y la desregulación de aquellos trámites e instrumentos normativos, de carácter estatal, destinados a regular y promover el desarrollo económico de la entidad;
+V.- Conducir, en coordinación con las Dependencias y Entidades involucradas, las acciones de la Administración Pública del Estado, relacionados con la mejora regulatoria y la simplificación administrativa de aquellos trámites e instrumentos normativos, de carácter estatal, destinados a regular y promover el desarrollo económico de la entidad;
 
-VI. Establecer y operar, en coordinación con las autoridades federales y locales competentes, la política de precios y vigilar su estricto cumplimiento. Igualmente, vigilar la observancia de las disposiciones jurídicas aplicables en la calidad, peso y medidas necesarias para las actividades comercial e industrial;
+VI.- Promover y coordinar los programas de promoción del comercio exterior y la inversión extranjera en los diversos sectores de la economía de la Entidad con base en la Legislación y normatividad aplicable.
 
-VII. Coordinar e impulsar el desarrollo de la actividad pesquera del Estado, bajo una política de desarrollo sustentable y fomento de los recursos marinos;
+VII.- Coadyuvar con las autoridades competentes en la instrumentación y divulgación de la normatividad de registro de la propiedad industrial, así como en lo relacionado con el estímulo y orientación de la inversión estatal, nacional e internacional y el comercio exterior en la entidad;
 
-VIII. Promover y coordinar la realización de planes y programas de acuacultura y servicios destinados al apoyo y crecimiento de la actividad acuícola en el Estado;
+VIII.- Establecer la política en materia de atracción de inversiones y promover en coordinación con la Secretaría de Hacienda, la implantación de los programas económicos que dan lugar a los estímulos fiscales y facilidades administrativas para el fomento de las actividades económicas en la entidad;
 
-IX. Impulsar y promover el fomento pesquero a través del apoyo a las personas dedicadas a esta actividad, mediante la creación de cooperativas pesqueras o la implementación de otros instrumentos legales para el autoconsumo e industrialización de las especies de escama y demás recursos naturales marinos existentes en el Estado;
+IX.- Coadyuvar con las autoridades federales y locales competentes en la implementación de la política de precios, su cumplimiento y observancia de las disposiciones jurídicas aplicables en calidad, peso y medidas necesarias para las actividades comerciales e industriales;
 
-X. Realizar los estudios económicos y sociales para estimular la pesca de las especies regionales y su industrialización, sin afectar el equilibrio ecológico, e identificar las ventajas comparativas y competitivas del sector para su desarrollo y fomento;
+X.- En coordinación con la Procuraduría Federal del Consumidor orientar a los consumidores del Estado sobre los mecanismos de atención y protección en materia de prácticas comerciales;
 
-XI. Instrumentar y ejecutar, en coordinación con las autoridades competentes, acciones y programas de industrialización, distribución, abastecimiento, comercialización y consumo de los productos básicos, agropecuarios y, pesqueros; asimismo coordinar el Sistema para el Abasto del Estado, con el fin de procurar los insumos básicos a toda la población;
+XI.- En coordinación con los organismos competentes, promover la innovación, desarrollo tecnológico y desarrollo de marcas y patentes en las empresas, organizaciones y sectores productivos estratégicos del Estado;
 
-XII. Participar en la creación y administración de centros de abasto y comercio, parques, corredores y centros industriales en el Estado; asimismo fomentar, regular, coordinar y supervisar los parques y zonas industriales, comerciales y de servicios, comprendiendo los sistemas estatales respectivos;
+XII.- Coordinar y armonizar el ejercicio de las incubadoras y aceleradoras de negocios en el Estado, para generar sinergias orientadas a la creación de empresas de base tecnológica competitivas, basadas en la capacidad de emprender y en la disponibilidad de capital intelectual y de innovación;
 
-XIII. Promover, fomentar y organizar sistemas de acopio, almacenamiento, transporte, envase, distribución y venta de productos básicos, agropecuarios y pesqueros; así como realizar estudios sobre la infraestructura física del sistema comercial y de abasto;
+XIII.- Establecer y coordinar la operación del Sistema Estatal de Incubación de Empresas;
 
-XIV. Proponer, orientar y estimular el desarrollo de la micro, pequeña y mediana empresa y fomentar la organización de la producción económica de los artesanos, las industrias familiares, rurales y urbanas; así como promover el desarrollo de centros y sistemas comerciales en el Estado;
+XIV.- Proponer y estimular el desarrollo de las micro, pequeña y mediana empresa y fomentar la organización de la producción económica de los artesanos, las empresas familiares, rurales y urbanas, así como promover el desarrollo de centros y sistemas comerciales en el Estado en apoyo a los mismos.
 
-XV. Fomentar la creación de empleos en el Estado, promoviendo la adopción de medidas de capacitación, desregulación, fomento e incentivos a las actividades productivas;
+XV.- Instrumentar los programas de desarrollo de la micro y pequeña empresa, industrial, comercial o artesanal, vinculados a la transformación socioeconómica de las comunidades indígenas y grupos marginados, en coordinación con las Secretarías de Planeación y Desarrollo Regional y de Desarrollo Agropecuario, Rural e Indígena, asimismo, con la participación de las etnias y de los núcleos involucrados;
 
-XVI. Promover, orientar y estimular el desarrollo y modernización del sector empresarial del Estado y coordinar las acciones de otras dependencias en esta materia; asimismo, organizar, impulsar y coordinar la instalación y seguimiento de consejos de fomento a las empresas, en materia de inversión y desarrollo económico para incentivar las actividades productivas;
+XVI.- Actuar como instancia en coordinación y de enlace con las cámaras, asociaciones y representaciones del sector empresarial, con la banca de desarrollo, cooperativas, sector social y otras instancias en materia industrial, minera, comercio exterior e interior, abasto, servicios pesquera, acuacultura, artesanías agropecuaria y forestal que coadyuven al desarrollo económico del Estado;
 
-XVII. Proponer a la Secretaría de Hacienda y otras instancias correspondientes, el establecimiento de estímulos fiscales y facilidades administrativas para fomentar las actividades comerciales, de servicios, industriales, agropecuarias, agrícolas y de aprovechamiento forestal en la entidad, conforme a lo dispuesto en la Ley de Desarrollo Económico del Estado de Quintana Roo;
+XVII.- Promover, orientar y estimular el desarrollo y modernización del sector empresarial del Estado y coordinar acciones con otras Dependencias en esta materia;
 
-XVIII. Formular, fomentar, coordinar y ejecutar políticas y programas en materia laboral en el Estado de Quintana Roo, tendentes a la protección y mejoramiento de las condiciones laborales de los trabajadores, así como emitir los lineamientos generales que propicien un mejoramiento en el nivel y calidad de vida de los trabajadores no asalariados; asimismo, dirigir el Servicio Estatal del Empleo y la promoción de acciones con las autoridades competentes, para el manejo de los recursos y programas destinados para fines de capacitación y fomento al empleo, dando seguimiento a los mismos;
+XVIII.- Apoyar a los distintos organismos empresariales, colegios e instituciones que deseen establecer ventanillas y centros de gestión y fomento económico en sus instalaciones;
 
-XIX. Establecer, conducir y coordinar los mecanismos de apoyo al sector empresarial, y apoyar sus gestiones ante el sector financiero y brindarle las asesorías, asistencia técnica y apoyos procedentes, en los términos de la legislación y normatividad aplicable, para impulsar las actividades productivas del Estado;
+XIX.- Coordinar, gestionar, vincular y coadyuvar para la obtención de recursos para el fortalecimiento de los fondos, fideicomisos y otras fuentes financieras que fortalezcan a la entidad en materia de crédito y garantía, en beneficio de las micro, pequeñas y medianas empresas establecidas en el Estado;
 
-XX. Actuar como instancia de coordinación y de enlace con las cámaras, asociaciones y representaciones del sector empresarial, con la banca de desarrollo, cooperativas, sector social y otras instancias que coadyuven al desarrollo económico del Estado;
+XX.- Promover el desarrollo logístico del estado a través de acciones de coordinación que consoliden la infraestructura física del sistema comercial y de abasto, comunicaciones y transporte, aduanal, industrial y de alta tecnología ante las instancias y Dependencias correspondientes;
 
-XXI. Presidir los comités técnicos, comisiones y órganos de fomento establecidos para el desarrollo económico; asimismo, instrumentar la normatividad que regule, coordine y de seguimiento a los subcomités de promoción y fomento económico;
+XXI.- Promover la comercialización, distribución y consumo de los bienes y servicios en la entidad, conforme a la Legislación de la materia, así como, difundir técnicas, sistemas y procedimientos eficaces que permitan el mejoramiento de la producción y la productividad, en un contexto de competitividad y adecuado desarrollo económico y social; así mismo proponer al Gobernador del Estado los mecanismos de coordinación interinstitucional, que permitan incentivar el desarrollo y la inversión productiva y en casos de emergencia coordinar las acciones que permitan prever y reactivar el abasto privado de productos y servicios a la población;
 
-XXII. Fomentar la organización de sociedades y cooperativas, cuyo objeto sea la distribución o el consumo, así como de sociedades para la producción industrial;
+XXII.- Promover la creación de centros de abasto y comercio, parques y corredores industriales en el Estado; asimismo, integrar y coordinar los Sistemas Estatales para el Abasto, el Sistema de Parques y Corredores Industriales del Estado;
 
-XXIII. Impulsar, en coordinación con las dependencias federales, locales y entidades competentes, el apoyo a productores, así como a la producción y comercialización de bienes y servicios de consumo básico;
+XXIII.- Promover y fomentar acciones, programas y estudios que faciliten el abastecimiento, industrialización, distribución y comercialización de productos básicos, agroindustriales y pesqueros;
 
-XXIV. Regular, en coordinación con las autoridades competentes, federales y estatales, la formación y organización de la flota pesquera; así como, promover el financiamiento y la asistencia técnica de las actividades del sector; además, colaborar con las autoridades en la instrumentación de las medidas de protección social vinculadas con la materia;
+XXIV.- Promover el establecimiento de instrumentos de apoyo para la eficiencia y suficiencia energética así como promover el desarrollo tecnológico para el uso de energías renovables como factor de competitividad;
 
-XXV. Proponer y establecer el marco de actuación y normatividad de los centros de atención al sector productivo y en coordinación con las Secretarías de Hacienda y de Planeación y Desarrollo Regional, la creación o modificación de las unidades administrativas, organismos auxiliares del sector que se consideren necesarios para el incremento de las actividades que contribuyan al desarrollo económico del Estado;
+XXV.- Planear y establecer, en coordinación con las Dependencias y Entidades de la Administración Pública, la expansión, mejoramiento y tecnificación de los programas relacionados con el desarrollo agroindustrial;
 
-XXVI. Establecer y atender ventanillas y centros de gestión y fomento económico, que se instalen en las distintas Cámaras, Asociaciones, Colegios y Banca de Desarrollo;
+XXVI.- Identificar y promover, en coordinación con los agentes económicos, acciones y programas de industrialización de los productos de origen agrícola, ganadero y forestal;
 
-XXVII. Promover la realización de ferias, exposiciones y congresos, de carácter local, nacional e internacional, vinculadas a la promoción de actividades industriales, comerciales, de abasto, agropecuarias y de aprovechamiento forestal;
+XXVII.- Coordinar, promover e impulsar los planes, programas y el desarrollo de la actividad pesquera y acuícola del Estado, bajo una política de desarrollo sustentable y fomento de los recursos marinos y acuícola del Estado.
 
-XXVIII. Orientar y estimular, en coordinación con la Procuraduría Federal del Consumidor, los mecanismos de atención y protección al consumidor en el Estado;
+XXVIII.- Realizar los estudios económicos y sociales para estimular y fomentar la pesca y la acuacultura así como su industrialización, sin afectar el equilibrio ecológico, e identificar las ventajas comparativas y competitivas del sector para su desarrollo y fomento;
 
-XXIX. Coadyuvar con las autoridades competentes en la instrumentación y divulgación de la normatividad y registro de la propiedad industrial y mercantil, así como en aquellos relacionados en el estímulo y orientación de la inversión estatal, nacional e internacional y el comercio exterior de la entidad;
+XXIX.- Impulsar y promover la pesca y la acuacultura a través de la implantación y programas para el autoconsumo, industrialización y comercialización;
 
-XXX. Instrumentar los programas de desarrollo de la micro y pequeña empresa, industrial, comercial o artesanal, vinculados a la transformación socioeconómica de las comunidades indígenas y grupos marginados, en coordinación con las Secretarías de Planeación y Desarrollo Regional y de Desarrollo Agropecuario, Indígena y Rural, asimismo, con la participación de las etnias y de los núcleos involucrados; y
+XXX.- Impulsar en coordinación con las autoridades competentes, federales y estatales, la formación y organización de la flota pesquera; así como, promover el financiamiento y la asistencia técnica de las actividades del sector, además, colaborar con las autoridades en la instrumentación de las medidas de protección social vinculadas con la materia;
 
-XXXI. Las demás que le atribuyan expresamente las Leyes y Reglamentos.
+XXXI.- Promover la realización de ferias, exposiciones y congresos, de carácter local, nacional e internacional, vinculadas a la promoción de actividades industriales, comerciales, pesqueras, acuícolas y artesanales;
+
+XXXII.- Fomentar la organización de sociedades y cooperativas, cuyo objeto sea la distribución o el consumo, así como de sociedades para la producción industrial;
+
+XXXIII.- Desarrollar actividades, en coordinación con las Dependencias competentes, que contribuyan a la formación del capital humano como elemento primordial para la competitividad económica del Estado;
+
+XXXIV.- Presidir los comités técnicos, comisiones y órganos de fomento establecidos para el desarrollo económico; e instrumentar la normatividad que regule, coordine y dé seguimiento a los subcomités de desarrollo económico, y pesca;
+
+XXXV.- Proponer y establecer el marco de actuación y normatividad de los centros de atención al sector productivo y en coordinación con las Secretarías de Hacienda y de Planeación y Desarrollo Regional, y Oficialía mayor del Estado, la creación o modificación de las unidades administrativas, organismos auxiliares del sector que se consideren necesarios para el incremento de las actividades que contribuyan al desarrollo económico del Estado; y
+
+XXXVI.- Las demás que le atribuyan expresamente las Leyes y Reglamentos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 35 BIS.- A la Secretaría del Trabajo y Previsión Social, corresponde el despacho de los siguientes asuntos:
+
+I.- Conducir la política laboral del Estado vigilando la observancia y aplicación de las disposiciones contenidas en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos; así como las aplicables en el ámbito local de la Ley Federal del Trabajo y sus Reglamentos;
+
+II.- Formular y ejecutar el Programa Estatal de Empleo;
+
+III.- Coadyuvar con las autoridades federales a la aplicación y vigilancia de las normas de trabajo;
+
+IV.- Organizar y operar el Servicio Estatal de Empleo, previo diagnóstico de la oferta y la demanda de trabajo en la entidad;
+
+V.- Aplicar los programas y normas que determinen la estrategia para la capacitación y adiestramiento y la seguridad e higiene en el trabajo, en contradicción con la autoridad federal del trabajo y con la participación de los sectores patronal, de los trabajadores, académicos y profesionales de la sociedad que inciden en este ámbito;
+
+VI.- Promover y procurar el equilibrio de los factores de la producción, teniendo como eje rector el impulso de una cultura laboral basada en el diálogo y la concertación;
+
+VII.- Vigilar, mediante visitas e inspección, que los centros de trabajo cumplan con las disposiciones legales en materia laboral; realizar las recomendaciones necesarias cuando así lo ameriten e imponer las sanciones administrativas procedentes.
+
+VIII.- Coordinar la integración, establecimiento y funcionamiento de la Junta Local de Conciliación y Arbitraje, Tribunal de Conciliación y Arbitraje, y de las comisiones que se formen para regular las relaciones obrero patronal que sean de jurisdicción estatal, así como vigilar su funcionamiento conforme a lo establecido en la Ley Federal del Trabajo:
+
+IX.- Ejecutar los convenios y acuerdos que en materia de trabajo firme el Ejecutivo Estatal con la Federación, coadyuvando con la Dependencia Federal correspondiente en la formulación y promulgación de contratos ley, tratándose de empresas de jurisdicción local;
+
+X.- Dirigir y coordinar la Procuraduría para la Defensa del Trabajo;
+
+XI.- Promover programas en materia de previsión social, así como organizar y patrocinar conferencias, exposiciones, reuniones, cursos y demás actividades tendientes a elevar el nivel de vida de los trabajadores y sus familias.
+
+XII.- Estudiar y proponer al Ejecutivo del Estado, una política laboral con visión regional y local, impulsando líneas estratégicas y de acción tendientes a la mejoría de la productividad, la ocupación y el empleo, la capacitación y adiestramiento, la salud e higiene, y todas aquellas medidas institucionales que tengan como objetivo el fortalecimiento de la planta productiva del Estado y la mejoría de quienes laboran en ella;
+
+XIII.- Aportar a las autoridades federales del trabajo, la información que soliciten para el cumplimiento de sus funciones;
+
+XIV.- Coordinar la elaboración de un Programa Estatal de Capacitación, a través del Sistema Estatal de Capacitación, que incluyan los programas de las distintas instancias de gobierno e instituciones educativas, orientados al sector productivo para alinearlos a las vocaciones económicas locales y requerimientos del sector productivo.
+
+XV.- Participar en la integración y funcionamiento de los organismos estatales encargados de la capacitación y adiestramiento y de la seguridad e higiene en el trabajo;
+
+XVI.- Intervenir, a petición de parte, en revisión de los contratos colectivos de trabajo;
+
+XVII.- Intervenir en la conciliación de los intereses de las partes en conflicto, cuando éstos lo soliciten o cuando la situación lo amerite, a juicio del Titular del Ejecutivo;
+
+XVIII.- Auxiliar en sus funciones a la Comisión Regional de los Salarios Mínimos;
+
+XIX.- Formular y ejecutar programas de difusión de los cambios que se den en las normas laborales;
+
+XX.- Impartir cursos de capacitación para incrementar la productividad en el sector productivo estatal en coordinación con la Secretaría de Educación.
+
+XXI.- Fomentar y apoyar la organización social para el trabajo y autoempleo;
+
+XXII.- Impulsar y apoyar el desarrollo social, cultural y recreativo de los trabajadores y sus familias;
+
+XXIII.- Prestar asistencia jurídica gratuita a los sindicatos o trabajadores que lo soliciten y representarlos ante los tribunales del trabajo; y
+
+XXIV.- Las demás que le atribuyen expresamente las leyes y reglamentos.
 
 ###### ARTICULO 36.
 
@@ -869,7 +957,7 @@ XXXII. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 > <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2007)</small>
 
-ARTICULO 37 BIS,- A la Secretaría de Cultura corresponde el despacho de los siguientes asuntos:
+ARTICULO 37 BIS.- A la Secretaría de Cultura corresponde el despacho de los siguientes asuntos:
 
 l. Formular, conducir y evaluar las políticas y el Programa Estatal de Cultura, así como los programas anuales de inversión, y coordinar su ejecución, con base en la Legislación Federal y Estatal aplicable y las normas y lineamientos que determine el Titular del Ejecutivo del Estado;
 
@@ -1187,7 +1275,7 @@ XII. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2005)</small>
 
-ARTÍCULO 42 BIS. A la Secretaría de Seguridad Pública le compete el despacho de los siguientes asuntos:
+ARTÍCULO 42 BIS.- A la Secretaría de Seguridad Pública le compete el despacho de los siguientes asuntos:
 
 I.- Coordinar, dirigir, vigilar, desarrollar instrumentar y ejecutar la política estatal en materia de seguridad pública, política criminal, servicios de seguridad privada, como prevención y readaptación social del delincuente y tratamiento de menores infractores, protección civil y de auxilio en caso de desastre, de conformidad con las leyes de la materia.
 
@@ -1317,7 +1405,11 @@ Para resolver los conflictos que se presenten en las relaciones laborales entre 
 
 La Junta Local de Conciliación y Arbitraje es un Tribunal Administrativo con plena autonomía jurisdiccional, que imparte la justicia laboral en los términos de la competencia que le atribuye el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y demás disposiciones aplicables.
 
-Las Juntas Especiales que la integran gozan asimismo de autonomía para dictar sus resoluciones, sin perjuicio de las atribuciones que correspondan por ley al Pleno y al Presidente de la Junta Local de Conciliación y Arbitraje. En lo administrativo la Junta dependerá directamente de la Secretaría de Gobierno, quien atenderá las cuestiones relativas a los recursos materiales y humanos que requiera para su funcionamiento.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+Las Juntas Especiales que la integran gozan asimismo de autonomía para dictar sus resoluciones, sin perjuicio de las atribuciones que correspondan por ley al Pleno y al Presidente de la Junta Local de Conciliación y Arbitraje. En lo administrativo la Junta dependerá directamente de la Secretaría del Trabajo y Previsión Social, quien atenderá las cuestiones relativas a los cursos materiales y humanos que requiera para su funcionamiento.
 
 El nombramiento y remoción del Presidente de la Junta y de los Presidentes de las Juntas Especiales corresponde libremente al Gobernador del Estado, en los términos de la Ley Federal del Trabajo; las facultades de dichos funcionarios son las determinadas por la ley federal mencionada y por el Artículo 123 de la Constitución Federal.
 
@@ -1442,3 +1534,23 @@ En el proceso de liquidación del Instituto Quintanarroense de la Cultura, se ob
 6.- Los derechos laborales de los trabajadores del Instituto Quintanarroense de la Cultura serán respetados de conformidad con la legislación laboral aplicable.
 
 QUINTO.- Las referencias que en las diversas disposiciones legales y administrativas se realicen del Instituto Quintanarroense de la Cultura, se entenderán hechas a la Secretaría de Cultura que se crea mediante el presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1º de febrero del año 2009, previa su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al Presente Decreto.
+
+TERCERO.- El Ejecutivo del Estado deberá expedir el Reglamento Interior de la Secretaría del Trabajo y Previsión Social, así como realizar las adecuaciones correspondientes a los reglamentos interiores de las Secretarías cuyas atribuciones se modifican, en un plazo no mayor de sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto, Entre tanto, seguirán vigentes los reglamentos aplicables, en lo que no se opongan a este Decreto.
+
+CUARTO.- Los traspasos que por motivo de este Decreto deben realizarse de una dependencia a otra, incluirán las adecuaciones presupuestarias derivadas de las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, así como los traspasos de recursos humanos y de los activos patrimoniales que la Dependencia Haya utilizado para los asuntos a su cargo.
+
+QUINTO.- El Ejecutivo del Estado por conducto de las Secretarías de Hacienda y de la Contraloría, con la participación de las dependencias correspondientes, deberán concluir dichas adecuaciones presupuestarias y traspasos de personas, recursos materiales y financieros, así como de los activos patrimoniales, en un plazo no mayor de sesenta días naturales, a partir de la entrada en vigor del presente Decreto.
+
+SEXTO.- Se faculta al Gobernador del Estado, para que, en términos de la Ley del Presupuesto, Contabilidad y Gasto Público, y el Decreto que autoriza el Presupuesto de Egresos del Estado para el ejercicio fiscal 2009, realice en su caso, los ajustes necesarios a este Presupuesto de Egresos por las modificaciones a la estructura orgánica del Poder Ejecutivo.
+
+SÉPTIMO.- Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+OCTAVO.- Hasta en tanto entra en funciones la Secretaría del Trabajo y Previsión Social, los asuntos que con motivo de este Decreto le fueran transferidos por la Secretaría de Gobierno y la Secretaría de Desarrollo Económico, seguirán siendo atendidos por las dependencias que en el ejercicio de sus funciones y atribuciones les correspondan en términos de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo.
+
+NOVENO.- Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las Secretarias cuyas funciones se reforman por virtud de este Decreto, se entenderán referidas a la dependencia que asuma tal función.
