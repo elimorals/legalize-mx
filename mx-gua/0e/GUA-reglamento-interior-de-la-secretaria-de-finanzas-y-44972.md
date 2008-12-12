@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-finanzas-y-44972"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-17"
-last_updated: "2007-12-14"
+last_updated: "2008-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y ADMINISTRACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 17 de mayo de 2005.
 
@@ -61,19 +61,21 @@ a) Secretaría Particular;
 
 b) Coordinación de Asesores; y
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 c) Procuraduría Fiscal del Estado:
 
-1. Coordinación Ejecutiva de Control Procedimental;
+1. Subprocuraduría Fiscal de Consultoría y Normatividad:
 
-2. Dirección de lo Contencioso;
+1.1) Dirección de Consultoría y Procedimientos Administrativos; y
 
-3. Dirección de Consultoría y Procedimientos Administrativos;
+1.2) Dirección de Normatividad.
 
-4. Dirección de Servicios al Contribuyente; y
+2. Subprocuraduría Fiscal de Asuntos Contenciosos y Resoluciones:
 
-5. Dirección de Normatividad.
+2.1) Dirección de lo Contencioso; y
+
+2.2) Dirección de Procesos y Resoluciones.
 
 II. Subsecretaría de Finanzas:
 
@@ -153,7 +155,7 @@ g) Dirección General de Carreteras Estatales de Cuota:
 
 2. Coordinación de Administración Financiera.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 h) Dirección General de Verificación al Comercio Exterior:
 
@@ -161,9 +163,15 @@ h) Dirección General de Verificación al Comercio Exterior:
 
 1. Dirección de Verificación de Mercancías;
 
-2. Dirección de Visitas Domiciliarias de Comercio Exterior; y
+2. Dirección de Visitas Domiciliarias de Comercio Exterior; y (sic)
 
-3. Dirección de Programación y Recintos Fiscales.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+3. Dirección de Programación y Recintos Fiscales; y
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+4. Dirección de Procedimientos Aduaneros.
 
 III. Subsecretaría de Administración:
 
@@ -353,27 +361,33 @@ XVII. Expedir certificaciones de los documentos existentes en los archivos de la
 
 XVIII. Las demás que las disposiciones legales y reglamentarias les atribuyan, así como aquellas que les confieran el Secretario o el Subsecretario del ramo.
 
-### CAPÍTULO CUARTO. DE LAS FACULTADES DE LOS DIRECTORES DE ÁREA, COORDINADORES Y JEFES DE OFICINAS RECAUDADORAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+### CAPÍTULO CUARTO. DE LAS FACULTADES DE LOS SUBPROCURADORES, DIRECTORES DE ÁREA, COORDINADORES Y JEFES DE OFICINAS RECAUDADORAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 10.
 
-Al frente de las Direcciones de Área habrá un Director, quien podrá auxiliarse del personal que requieran las necesidades del servicio y permita el presupuesto.
+Al frente de las Subprocuradurías Fiscales habrá un Subprocurador y de las Direcciones de Área habrá un Director, quienes podrán auxiliarse del personal que requieran las necesidades del servicio y permita el presupuesto.
 
 Al frente de las Coordinaciones habrá un Coordinador, quien podrá auxiliarse del personal que requieran las necesidades del servicio y permita el presupuesto.
 
 Al frente de las Oficinas Recaudadoras habrá un Jefe, quien podrá auxiliarse del personal que requieran las necesidades del servicio y permita el presupuesto.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 11.
 
-Corresponde a los Directores de Área, Coordinadores y Jefes de Oficinas Recaudadoras, el estudio, la tramitación y resolución de los asuntos que se señalan en este Reglamento.
+Corresponde a los Subprocuradores Fiscales, Directores de Área, Coordinadores y Jefes de Oficinas Recaudadoras, el estudio, la tramitación y resolución de los asuntos que se señalan en este Reglamento.
 
-En el ejercicio de las facultades que les correspondan, que se traduzcan en la emisión de actos de autoridad que incidan en la esfera jurídica de los particulares, los Directores, Coordinadores y Jefes de Oficinas Recaudadoras ejercerán su competencia dentro de la circunscripción territorial que comprende el Estado de Guanajuato, salvo que las disposiciones del presente Reglamento les otorguen una competencia por territorio menor a la indicada.
+En el ejercicio de sus facultades traducidas en la emisión de actos de autoridad que incidan en la esfera jurídica de los particulares, los Subprocuradores Fiscales, Directores, Coordinadores y Jefes de Oficinas Recaudadoras ejercerán su competencia dentro de la circunscripción territorial que comprende el Estado de Guanajuato, salvo que las disposiciones del presente Reglamento les otorguen una competencia por territorio menor a la indicada.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 12.
 
-Para el desarrollo de las funciones que les corresponden, los titulares de las unidades administrativas referidas en los artículos 4, 6, 8 y 10, podrán auxiliarse de coordinadores, jefes de unidad, jefes de departamento, supervisores, especialistas administrativos, analistas de proyectos, visitadores, auditores, inspectores, notificadores, verificadores, ministros ejecutores, actuarios fiscales y demás personal necesario, quienes tendrán a su cargo la tramitación de los asuntos relativos a su área de adscripción, así como aquellos que les encomienden sus superiores.
+Para el desarrollo sus funciones, los titulares de las unidades administrativas referidas en los artículos 4o., 6o., 8o. y 10 podrán auxiliarse de coordinadores, jefes de unidad, jefes de departamento, supervisores, especialistas administrativos, analistas de proyectos, visitadores, auditores, inspectores, notificadores, verificadores, clasificadores arancelarios, ministros ejecutores, actuarios fiscales y demás personal necesario, quienes tendrán a su cargo la tramitación de los asuntos relativos a su área de adscripción, así como aquellos que les encomienden sus superiores.
 
 ## TÍTULO TERCERO. DE LAS FACULTADES Y ORGANIZACIÓN DE LAS UNIDADES ADMINISTRATIVAS ADSCRITAS AL DESPACHO DEL SECRETARIO
 
@@ -443,29 +457,23 @@ XI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así
 
 ### CAPÍTULO CUARTO. DE LA PROCURADURÍA FISCAL DEL ESTADO
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 20.
 
-La Procuraduría Fiscal del Estado deberá apoyar, coordinar y supervisar el trabajo de las siguientes unidades administrativas:
+La Procuraduría Fiscal del Estado deberá coordinar y supervisar el trabajo de las siguientes unidades administrativas:
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+I. Subprocuraduría Fiscal de Consultoría y Normatividad:
 
-I. Coordinación Ejecutiva de Control Procedimental;
+a) Dirección de Consultoría y Procedimientos Administrativos; y
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+b) Dirección de Normatividad.
 
-II. Dirección de lo Contencioso;
+II. Subprocuraduría Fiscal de Asuntos Contenciosos y Resoluciones:
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+a) Dirección de lo Contencioso; y
 
-III. Dirección de Consultoría y Procedimientos Administrativos;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-IV. Dirección de Servicios al Contribuyente; y
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-V. Dirección de Normatividad.
+b) Dirección de Procesos y Resoluciones.
 
 ###### Artículo 21.
 
@@ -493,21 +501,29 @@ X. Proponer las sanciones por infracciones a las disposiciones fiscales, en mate
 
 XI. Declarar la prescripción de los créditos fiscales y la extinción de las facultades de las autoridades fiscales;
 
-XII. Autorizar la condonación total o parcial de multas y recargos, de conformidad con las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XII. Otorgar el perdón tratándose de delitos contra la hacienda pública estatal, previo informe de la unidad administrativa que corresponda de la Secretaría en el que se establezca que se ha cubierto el interés fiscal al encontrarse pagados o garantizados a satisfacción los créditos fiscales respectivos;
 
 XIII. Dar respuesta a las consultas que formulen los contribuyentes, respecto de la aplicación de las normas fiscales a situaciones reales y concretas;
 
 XIV. Expedir circulares para dar a conocer los criterios que deben observarse en cuanto a la aplicación de las normas tributarias;
 
-XV. Fomentar las relaciones entre el fisco y los contribuyentes, proporcionándoles la información que requieran, orientación y asesoría en cuanto al cumplimiento de sus obligaciones fiscales;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XV. Generar e impartir cursos de capacitación en materia hacendaria a servidores públicos estatales y municipales, con el objeto de coadyuvar en las atribuciones de asesoría de la Procuraduría Fiscal del Estado;
 
 XVI. Promover las medidas necesarias para la pronta y expedita administración de justicia en materia hacendaria;
 
 XVII. Elaborar los estudios, trabajos e investigaciones de carácter técnico tributario y administrativo que el Secretario le encomiende;
 
-XVIII. Aprobar los manuales de organización y procedimientos de sus Direcciones;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-XIX. Revisar los proyectos de programa de actividades y presupuestos anuales dentro del ámbito de su competencia, para ser puestos a consideración del Secretario;
+XVIII. Ejecutar las garantías que se constituyan a favor del Estado, ante las dependencias de la administración pública centralizada o de los Poderes Legislativo y Judicial del Estado;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XIX. Revisar administrativamente las resoluciones emitidas por las unidades administrativas a su cargo, de acuerdo con las disposiciones fiscales y los convenios celebrados al efecto;
 
 XX. Proponer al Secretario la designación, promoción o remoción del personal de la Procuraduría, en los términos de la normatividad aplicable;
 
@@ -523,177 +539,245 @@ XXV. Dar seguimiento a los procesos legislativos en donde se ventilen asuntos de
 
 XXVI. Ejercer en el ámbito de su competencia, las atribuciones derivadas de los convenios en materia fiscal, que celebre el Gobierno del Estado con el Gobierno Federal y con los Municipios;
 
-XXVII. Ordenar a las unidades administrativas de la Secretaría, la cumplimentación de las ejecutorias que le sean notificadas por los órganos jurisdiccionales federales o locales; y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-XXVIII. Expedir copias certificadas de las constancias que obren en los archivos de la Secretaría.
+XXVII. Ordenar a las unidades administrativas de la Secretaría, la cumplimentación de las ejecutorias que le sean notificadas por los órganos jurisdiccionales federales o locales;
 
-> <small>(ADICIONADA, P.O.12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-#### SECCIÓN PRIMERA. DE LA COORDINACIÓN EJECUTIVA DE CONTROL PROCEDIMENTAL
+XXVIII. Asesorar jurídicamente a las unidades administrativas de la Secretaría en las diversas etapas de los procedimientos de revisión y fiscalización que les sean practicados o en los que intervengan conforme a sus atribuciones;
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-Artículo 21 bis.- La Coordinación Ejecutiva de Control Procedimental, tendrá las siguientes facultades:
+XXIX. Coadyuvar jurídicamente con la Unidad de Acceso a la Información Pública del Poder Ejecutivo en la elaboración de las respuestas que emita dicha unidad administrativa en el desarrollo de las diversas fases del procedimiento de acceso a la información pública de la Administración Pública Estatal; y
 
-> <small>(F. DE E., P.O. 17 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-I. Apoyar al Procurador Fiscal en el seguimiento de los procedimientos sustanciados por las Direcciones de la Procuraduría Fiscal del Estado;
+XXX. Expedir copias certificadas de las constancias que obren en los archivos de la Secretaría.
 
-> <small>(F. DE E., P.O. 17 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O.12 DE DICIEMBRE DE 2008)</small>
 
-II. Auxiliar en la obtención, análisis y estudio de la información y documentación que las unidades administrativas de la Secretaría soliciten a la Procuraduría Fiscal del Estado;
+#### SECCIÓN PRIMERA. DE LA SUBPROCURADURÍA FISCAL DE CONSULTORÍA Y NORMATIVIDAD
 
-III. Coadyuvar jurídicamente con las unidades administrativas competentes de la Secretaría, en el desarrollo de las diversas fases del procedimiento de acceso a la información pública de la Administración Pública Estatal;
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-IV. Participar conjuntamente con las unidades administrativas competentes de la Secretaría, en la elaboración de los ordenamientos jurídicos que inciden en la Hacienda Pública del Estado, así como de los lineamientos y criterios que corresponde emitir anualmente a la Secretaría para la correcta aplicación de las disposiciones que norman el ejercicio y seguimiento del gasto público;
+Artículo 21 bis.- La Subprocuraduría Fiscal de Consultoría y Normatividad deberá apoyar al Procurador Fiscal del Estado en la coordinación, atención, seguimiento y desahogo de los asuntos y procedimientos sustanciados por las Direcciones de Consultoría y Procedimientos Administrativos y Normatividad, y tendrá las siguientes facultades:
 
-V. Analizar sistemas jurídicos y administrativos de la Federación y de las entidades federativas, que regulan la conformación y aprovechamiento de sus respectivas haciendas públicas, para elaborar propuestas que incidan en el fortalecimiento de la hacienda pública del Estado y someterlas a consideración del Procurador Fiscal;
+I. Revisar la formulación de anteproyectos de iniciativas de leyes, reglamentos, decretos, acuerdos y disposiciones administrativas competencia de la Secretaría, así como dar seguimiento a los mismos;
 
-VI. Revisar disposiciones contenidas en la legislación fiscal federal, a efecto de determinar sus repercusiones para el orden jurídico del Estado;
+II. Proponer al Secretario, por conducto del Procurador 'Fiscal del Estado, la emisión de los criterios, interpretaciones administrativas y medidas para la correcta aplicación de las leyes y demás disposiciones normativas, competencia de la Secretaría;
 
-VII. Evaluar desde el punto de vista jurídico, la instrumentación y alcances de los distintos mecanismos de transferencia del gasto federalizado, a efecto de determinar sus repercusiones para las finanzas públicas estatales y proponer al Procurador Fiscal las acciones que se consideren conducentes;
+III. Revisar las guías, instructivos y demás instrumentos formulados para la correcta aplicación de las leyes y demás disposiciones administrativas competencia de la Secretaría;
 
-VIII. Coadyuvar con las unidades administrativas competentes de la Secretaría, en la elaboración y revisión de los proyectos de Convenios que se pretende celebrar con los demás órdenes de gobierno, en materia de ingreso, gasto, deuda y patrimonio público, así como de colaboración administrativa en materia fiscal;
+IV. Supervisar la revisión, integración y sistematización de los diversos procedimientos administrativos establecidos como competencia de la Secretaría en las disposiciones normativas, así como realizar las propuestas de mejoras a los mismos;
 
-IX. Brindar asesoría respecto de aquellos asuntos relacionados con el ámbito de competencia de la Procuraduría Fiscal del Estado; y
+V. Evaluar, desde el punto de vista jurídico, la instrumentación y alcances de los distintos mecanismos de transferencia del gasto federalizado, así como proponer al Procurador Fiscal del Estado las acciones que se consideren conducentes;
 
-X. Las demás que las disposiciones legales, reglamentarias y administrativas le atribuyan, así como aquellas que le confieran el Secretario o el Procurador Fiscal.
+VI. Revisar los proyectos de convenios y demás actos jurídicos que se pretendan celebrar con los demás órdenes de gobierno, en materia de ingreso, gasto, deuda y patrimonio público, así como de colaboración administrativa en materia hacendaria;
 
-(REUBICADA [N. DE E. ANTES SECCION PRIMERA], P.O. 12 DE SEPTIEMBRE DE 2006)
+VII. Coordinar y evaluar el registro y control de los fideicomisos en los que intervenga el Gobierno del Estado;
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE LO CONTENCIOSO
+VIII. Proponer, para aprobación superior, los proyectos del programa de actividades y presupuestos anuales, así como los manuales de organización y procedimientos de las Direcciones de Consultoría y Procedimientos Administrativos y Normatividad;
+
+IX. Representar o suplir, en el ámbito de su competencia, al Procurador Fiscal del Estado en aquellos asuntos que éste le encomiende, participando inclusive en los grupos y comisiones para el estudio y desahogo de los asuntos relacionados con la coordinación hacendaria federal, estatal y municipal;
+
+X. Dar seguimiento y vigilar el control de la información que sea necesaria para integrar y mantener actualizado el sistema de gestión de información de los asuntos de su respectiva competencia;
+
+XI. Ejercer, en el ámbito de su competencia, las atribuciones derivadas de los convenios en materia hacendaría, que celebre el Gobierno del Estado con el Gobierno Federal y con los municipios;
+
+XII. Fungir, previo acuerdo del Procurador Fiscal del Estado, como enlace en los asuntos de carácter jurídico materia de su competencia, con las unidades administrativas de la Secretaría, dependencias, entidades paraestatales, órganos desconcentrados, así como con las entidades federativas, el Gobierno Federal y los municipios;
+
+XIII. Proponer, para aprobación superior, los cursos de capacitación en materia de su competencia, a servidores públicos estatales y municipales, con el objeto de coadyuvar en las atribuciones de asesoría de la Procuraduría Fiscal del Estado;
+
+XIV. Asesorar y apoyar en materia jurídica, en el ámbito de su competencia, a las unidades administrativas de la Secretaría, así como a las dependencias y entidades de la Administración Pública del Estado; y
+
+XV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario o el Procurador Fiscal del Estado.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE CONSULTORÍA Y PROCEDIMIENTOS ADMINISTRATIVOS
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 22.
 
-La Dirección de lo Contencioso, tendrá las siguientes facultades:
+La Dirección de Consultoría y Procedimientos Administrativos tendrá las siguientes facultades:
 
-I. Representar a la Secretaría y sus unidades administrativas, en los juicios promovidos ante tribunales federales o locales en que éstas sean parte, con motivo de los actos emitidos en el ejercicio de sus atribuciones; con facultades enunciativa y no limitativamente para formular o contestar demandas, desistirse, allanarse, actuar durante la substanciación de los mismos, rendir pruebas, formular alegatos e interponer los medios de impugnación que procedan;
+I. Tramitar y resolver las consultas planteadas por las diversas unidades de la Secretaría, dependencias y entidades de la Administración Pública Estatal, así como por los municipios, relacionadas con la interpretación administrativa y aplicación de las leyes competencia de la Secretaría;
+
+II. Formular y revisar, para aprobación superior, los proyectos de convenios y contratos y demás actos jurídicos en que intervenga la Secretaría, llevando su registro y, en su caso, identificar las obligaciones pactadas;
+
+III. Tramitar, en el ámbito de competencia de la Secretaría, los asuntos relacionados con los fraccionamientos ubicados en la circunscripción territorial del Estado, así como cancelar las fianzas derivadas de los mismos;
+
+IV. Proponer la instrumentación y alcances jurídicos de los distintos mecanismos de transferencia del gasto federalizado;
+
+V. Asesorar jurídicamente a las unidades administrativas de la Secretaría en materia de ingreso, gasto, deuda y patrimonio público;
+
+VI. Tramitar la constitución, modificación o extinción de los fideicomisos en los que intervenga el Gobierno del Estado, así como llevar su registro y control;
+
+VII. Elaborar y difundir, en su caso, las guías, instructivos y demás instrumentos para la correcta aplicación de las leyes y disposiciones administrativas competencia de la Secretaría;
+
+VIII. Revisar, integrar y sistematizar los diversos procedimientos administrativos establecidos en las disposiciones normativas competencia de la Secretaría, así como proponer, en su caso, mejoras a los mismos;
+
+IX. Dar seguimiento jurídico a los proyectos estratégicos o corporativos del Gobierno del Estado, dentro del ámbito de competencia de la Secretaría;
+
+X. Formular, para aprobación superior, sus proyectos de manuales de organización y procedimientos; y
+
+XI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Procurador Fiscal del Estado o el Subprocurador Fiscal de Consultoría y Normatividad.
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE NORMATIVIDAD
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+Artículo 22 bis.- La Dirección de Normatividad tendrá las siguientes facultades:
+
+I. Formular y proponer al Procurador Fiscal del Estado, por conducto del Subprocurador Fiscal de Consultoría y Normatividad, los anteproyectos de leyes, reglamentos, decretos, acuerdos gubernativos, delegatorios y demás instrumentos normativos inherentes a la competencia de la Secretaría;
+
+II. Proponer modificaciones a la normatividad competencia de la Secretaría;
+
+III. Analizar y dar seguimiento a las propuestas de reforma o adición a las disposiciones fiscales que al efecto formulen las autoridades fiscales federales y municipales;
+
+IV. Compilar, actualizar y difundir las leyes, reglamentos, decretos y disposiciones federales, estatales y municipales relacionadas con la hacienda pública;
+
+V. Participar conjuntamente con las unidades administrativas competentes de la Secretaría, en la elaboración de los anteproyectos de ordenamientos jurídicos que inciden en la hacienda pública del Estado, así como de los lineamientos y criterios que corresponde emitir anualmente a la Secretaría para la correcta aplicación de las disposiciones que norman el ejercicio y seguimiento del gasto público;
+
+VI. Elaborar y proponer al Procurador Fiscal del Estado, por conducto del Subprocurador Fiscal de Consultoría y Normatividad, la agenda normativa competencia de la Secretaría;
+
+VII. Dar seguimiento a los procesos legislativos en donde se ventilen asuntos competencia de la Secretaría;
+
+VIII. Formular, para aprobación superior, sus proyectos de manuales de organización y procedimientos; y
+
+IX. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Procurador Fiscal del Estado o el Subprocurador Fiscal de Consultoría y Normatividad.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES SECCION TERCERA], P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+#### SECCIÓN CUARTA. DE LA SUBPROCURADURÍA FISCAL DE ASUNTOS CONTENCIOSOS V RESOLUCIONES
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 23.
+
+La Subprocuraduría Fiscal de Asuntos Contenciosos y Resoluciones deberá apoyar al Procurador Fiscal del Estado en la coordinación, atención, seguimiento y desahogo de los asuntos y procedimientos sustanciados por las Direcciones de lo Contencioso y Procesos y Resoluciones, y tendrá las siguientes facultades:
+
+I. Proponer al Procurador Fiscal del Estado los criterios jurídicos en los cuales se basen los informes previos y justificados en los juicios de amparo en los que la Secretaría sea señalada como autoridad responsable;
+
+II. Proponer al Procurador Fiscal del Estado los proyectos de declaratoria de que el fisco del Estado sufrió o pudo sufrir perjuicio, cuando así corresponda;
+
+III. Proponer al Procurador Fiscal del Estado el otorgamiento del perdón en los casos que proceda, cuando se trate de delitos contra la hacienda pública estatal, previo informe de la autoridad competente en el que se establezca que se ha cubierto el interés fiscal al encontrarse pagados o garantizados a satisfacción los créditos fiscales respectivos;
+
+IV. Resolver los recursos administrativos federales y estatales, interpuestos por los contribuyentes en contra de los actos emitidos por la Secretaría y sus unidades administrativas;
+
+V. Dar respuesta a las consultas que formulen los contribuyentes, respecto de la aplicación de las normas fiscales a situaciones reales y concretas, de acuerdo con las disposiciones legales, reglamentarias e internas de la Secretaría y de los convenios celebrados al efecto;
+
+VI. Declarar la prescripción de los créditos fiscales y la extinción de las facultades de las autoridades fiscales;
+
+VII. Proponer las medidas para la correcta aplicación de las leyes y demás disposiciones en las materias de su competencia, así como para la pronta y expedita administración de justicia en materia hacendaría;
+
+VIII. Coadyuvar en la atención de los procedimientos de revisión practicados por las instancias de fiscalización estatales y federales, en que la Secretaría intervenga;
+
+IX. Aprobar jurídicamente las respuestas a los requerimientos formulados a las unidades administrativas de la Secretaría por los órganos de revisión y fiscalización;
+
+X. Emitir los requerimientos de pago de todo tipo de pólizas de fianzas otorgadas a favor de la Secretaría, así como de sus intereses o de indemnizaciones por mora, cuando procedan en los términos de la normatividad aplicable;
+
+XI. Coadyuvar jurídicamente con las unidades administrativas de la Secretaría en el desarrollo de las diversas fases del procedimiento de acceso a la información pública de la Administración Estatal;
+
+XII. Representar o suplir, en el ámbito de su competencia, al Procurador Fiscal del Estado en aquellos asuntos que éste le encomiende, participando inclusive en los grupos y comisiones para el estudio y desahogo de los asuntos relacionados con la coordinación hacendaria federal, estatal y municipal;
+
+XIII. Dar seguimiento y vigilar el control de la información que sea necesaria para integrar y mantener actualizado el sistema de gestión de información de los asuntos de su respectiva competencia;
+
+XIV. Ejercer en el ámbito de su competencia, las atribuciones derivadas de los convenios en materia hacendaría, que celebre el Gobierno del Estado con el Gobierno Federal y con los Municipios;
+
+XV. Fungir, previo acuerdo del Procurador Fiscal del Estado, como enlace en los asuntos de carácter jurídico materia de su competencia, con las unidades administrativas de la Secretaría, dependencias, entidades paraestatales, órganos desconcentrados, así como con las entidades federativas, el Gobierno Federal y los municipios;
+
+XVI. Proponer, para aprobación superior, los cursos de capacitación en materia de su competencia, a servidores públicos estatales y municipales, con el objeto de coadyuvar en las atribuciones de asesoría de la Procuraduría Fiscal del Estado;
+
+XVII. Asesorar y apoyar en materia jurídica, en el ámbito de su competencia, a las unidades administrativas de la Secretaría, así como a las dependencias y entidades de la Administración Pública del Estado;
+
+XVIII. Representar jurídicamente a la Secretaría y a sus unidades administrativas ante cualquier autoridad federal o local en los juicios, investigaciones o procedimientos de toda índole, salvo aquellos en los que, por sus características especiales, el Procurador Fiscal del Estado ejerza directamente esa representación;
+
+XIX. Revisar administrativamente las resoluciones emitidas por la Dirección de Procesos y Resoluciones, de acuerdo con las disposiciones fiscales y los convenios celebrados al efecto;
+
+XX. Proponer, para aprobación superior, los proyectos del programa de actividades y presupuestos anuales, así como los manuales de organización y procedimientos de las Direcciones de lo Contencioso y de Procesos y Resoluciones; y
+
+XXI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario o el Procurador Fiscal del Estado.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES SECCION CUARTA], P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+#### SECCIÓN QUINTA. DE LA DIRECCIÓN DE LO CONTENCIOSO
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 24.
+
+La Dirección de lo Contencioso tendrá las siguientes facultades:
+
+I. Representar a la Secretaría y sus unidades administrativas, en los juicios promovidos ante tribunales federales o locales en que éstas sean parte, con motivo de los actos emitidos en el ejercicio de sus atribuciones; con facultades enunciativas y no limitativas para formular o contestar demandas, desistirse, allanarse, actuar durante la substanciación de los mismos, rendir pruebas, formular alegatos e interponer los medios de impugnación que procedan;
 
 II. Coordinarse con las autoridades fiscales federales respectivas, para la defensa de los actos y resoluciones que en materia de contribuciones federales coordinadas emita la Secretaría, cuando sean impugnadas por los contribuyentes;
 
 III. Formular las demandas y contestaciones de demandas en los juicios laborales, mercantiles y civiles en los que la Secretaría sea parte, actuar durante la substanciación de los mismos, e interponer los medios de impugnación que procedan, incluido el juicio de amparo;
 
-IV. Formular a nombre de la Secretaría, en el ámbito de sus atribuciones, las denuncias y querellas por la posible comisión de delitos en materia fiscal, así como cuando se vean afectados en cualquier forma sus intereses;
+IV. Formular a nombre de la Secretaria, en el ámbito de sus atribuciones, las denuncias y querellas por la posible comisión de delitos en materia fiscal, así como cuando se vean afectados en cualquier forma sus intereses, y coadyuvar con las autoridades competentes en la integración de los procedimientos penales;
 
-V. Elaborar, para firma de las autoridades correspondientes, los informes previos y justificados en los juicios de amparo en los que la Secretaría o sus unidades administrativas sean señaladas como autoridades responsables; formular los recursos que deban interponerse, así como las comparecencias que en calidad de tercero perjudicado deban presentarse;
+V. Colaborar con las autoridades competentes en materia de procuración e impartición de justicia para el cumplimiento de las funciones de éstas, en su caso atendiendo los convenios que para tal efecto se suscriban;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+VI. Elaborar, para firma de las autoridades correspondientes de la Secretaría, los informes previos y justificados en los juicios de amparo en los que ésta o sus unidades administrativas sean señaladas corno autoridades responsables; formular los recursos que deban interponerse, así como las comparecencias que en calidad de tercero perjudicado deban presentarse;
 
-VI. Ejecutar las garantías que se constituyan a favor del Estado, ante las dependencias de la administración pública centralizada o de los Poderes Legislativo y Judicial del Estado;
+VII. Representar a la Secretaría y sus unidades administrativas en los juicios o procedimientos, en los que, sin ser parte, sea requerida su intervención o tenga interés para intervenir conforme a sus atribuciones;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+VIII. Asesorar jurídicamente y asistir a las unidades administrativas de la Secretaría en los asuntos y procedimientos de carácter laboral;
 
-VII. Emitir los requerimientos de pago de todo tipo de pólizas de fianzas otorgadas a favor de la Secretaría, así como de sus intereses o de indemnizaciones por mora, cuando procedan en los términos de la normatividad aplicable;
+IX. Asesorar en materia contenciosa-fiscal a las unidades administrativas de la Secretaría, así como a las dependencias y entidades de la Administración Pública del Estado;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-VIII. Vigilar que las garantías referidas en la fracción VI del presente artículo, se apliquen a favor del Gobierno del Estado, una vez concluido el procedimiento de ejecución respectivo o se de cumplimiento a las resoluciones que decreten la procedencia del mismo;
-
-(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2006)
-
-IX. Asesorar en materia jurídico contenciosa fiscal a las unidades administrativas de la Secretaría, así como a las dependencias y entidades de la Administración Pública del Estado;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-X. Solicitar a las unidades administrativas los informes y documentación necesarios para el desahogo de las controversias o asuntos que le corresponda atender;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+X. Solicitar a las unidades administrativas de la Secretaría los informes y documentación necesarios para el desahogo de las controversias o asuntos que le corresponda atender;
 
 XI. Vigilar que las unidades administrativas de la Secretaría cumplan adecuadamente las ejecutorias que fueren notificadas a la Secretaría por los órganos jurisdiccionales federales o locales;
 
-XII. Expedir copias certificadas de las constancias que obren en los archivos de la Secretaría, cuando deban ser exhibidas ante las autoridades judiciales, administrativas, del trabajo o, en general, para cualquier procedimiento, proceso o averiguación; y
+XII. Expedir copias certificadas de las constancias que obren en los archivos de la Secretaría, cuando deban ser exhibidas ante las autoridades judiciales, administrativas, del trabajo o, en general, para cualquier procedimiento, proceso o averiguación;
 
-XIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario o el Procurador Fiscal del Estado.
+XIII. Formular, para aprobación superior, sus proyectos de manuales de organización y procedimientos; y
 
-(REUBICADA [N. DE E. ANTES SECCION SEGUNDA], P.O. 12 DE SEPTIEMBRE DE 2006)
+XIV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Procurador Fiscal del Estado o el Subprocurador Fiscal de Asuntos Contenciosos y Resoluciones.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE CONSULTORÍA Y PROCEDIMIENTOS ADMINISTRATIVOS
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES SECCION QUINTA], P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE SERVICIOS AL CONTRIBUYENTE
+#### SECCIÓN SEXTA. DE LA DIRECCIÓN DE PROCESOS Y RESOLUCIONES
 
-###### Artículo 23.
-
-La Dirección de Consultoría y Procedimientos Administrativos, tendrá las siguientes facultades:
-
-(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2006)
-
-I. Tramitar y resolver las consultas planteadas por las diversas unidades de la Secretaría, dependencias y entidades de la Administración Pública Estatal, así como por los municipios, relacionadas con la interpretación administrativa y aplicación de las leyes materia de su competencia, conforme a los lineamientos que determine el Procurador Fiscal del Estado;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-II. Formular, revisar y validar, para aprobación superior, los proyectos de convenios y contratos y demás actos jurídicos en que intervenga la Secretaría, llevando su registro y en su caso, el seguimiento de las obligaciones pactadas, cuando así se estipule;
-
-III. Auxiliar y asesorar jurídicamente a las unidades administrativas de la Secretaría, en el ejercicio de sus atribuciones;
-
-IV. Elaborar las opiniones jurídicas respecto a la constitución, modificación o extinción de los fideicomisos en lo que intervenga la Secretaría;
-
-V. Emitir las opiniones jurídicas, criterios, interpretaciones administrativas y medidas para la correcta aplicación de las leyes y disposiciones administrativas competencia de la Secretaría;
-
-VI. (DEROGADA, P.O. 12 DE SEPTIEMBRE DE 2006)
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-VII. Revisar e integrar, para aprobación superior, los proyectos de manuales de organización y procedimientos de las Direcciones adscritas a la Procuraduría Fiscal del Estado;
-
-VIII. (DEROGADA, P.O. 12 DE SEPTIEMBRE DE 2006)
-
-IX. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario o el Procurador Fiscal del Estado.
-
-(REUBICADA [N. DE E. ANTES SECCION TERCERA], P.O. 12 DE SEPTIEMBRE DE 2006)
-
-#### SECCIÓN QUINTA. DE LA DIRECCIÓN DE NORMATIVIDAD
-
-###### Artículo 24.
-
-La Dirección de Servicios al Contribuyente, tendrá las siguientes facultades:
-
-I. Proporcionar a los contribuyentes los servicios de orientación y asistencia para el cumplimiento de sus obligaciones fiscales;
-
-II. Tramitar y resolver las solicitudes de devolución de contribuciones de carácter federal y estatal en el ámbito de su competencia, de acuerdo con las disposiciones legales, reglamentarias e internas de la Secretaría y de los convenios celebrados al efecto;
-
-III. Tramitar y resolver los recursos administrativos federales y estatales, interpuestos por los contribuyentes en contra de los actos emitidos por la Secretaría y sus unidades administrativas, de acuerdo con las disposiciones legales, reglamentarias e internas de la Secretaría y de los convenios celebrados al efecto;
-
-IV. Resolver las consultas que se planteen por los contribuyentes en situaciones reales y concretas en materia fiscal;
-
-V. Asesorar y en su caso, asistir a los contribuyentes cuando así lo soliciten, ante las instancias correspondientes de la Secretaría;
-
-VI. Elaborar los proyectos de resolución sobre las solicitudes de declaratoria de prescripción de los créditos fiscales y la extinción de las facultades de las autoridades fiscales;
-
-VII. Intervenir en la elaboración de circulares para dar a conocer a las autoridades fiscales, los criterios a seguir en cuanto a la aplicación de las normas tributarias;
-
-VIII. Proponer las medidas necesarias para la pronta y expedita administración de justicia en materia fiscal;
-
-IX. Dictaminar sobre la procedencia de la condonación de multas y recargos, de conformidad con las disposiciones legales aplicables;
-
-X. (DEROGADA, P.O. 12 DE SEPTIEMBRE DE 2006)
-
-XI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario o el Procurador Fiscal del Estado.
-
-> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCION CUARTA], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE OPERACIONES FINANCIERAS
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 25.
 
-La Dirección de Normatividad, tendrá las siguientes facultades:
+La Dirección de Procesos y Resoluciones tendrá las siguientes facultades:
 
-I. Formular y proponer al Procurador Fiscal del Estado los anteproyectos de leyes, reglamentos, decretos, acuerdos y demás instrumentos normativos inherentes a la competencia de la Secretaría;
+I. Tramitar y resolver las solicitudes de devolución de pagos indebidos de carácter estatal;
 
-II. Estudiar, revisar y proponer las modificaciones conducentes a la normatividad competencia de la Secretaría;
+II. Tramitar y resolver las solicitudes de devolución de contribuciones de carácter federal, de acuerdo con los convenios celebrados al efecto;
 
-III. Analizar y dar seguimiento a las propuestas de reforma o adición a las disposiciones fiscales que al efecto formulen las autoridades fiscales federales y municipales;
+III. Tramitar y resolver los recursos administrativos federales y estatales, interpuestos por los contribuyentes en contra de los actos emitidos por la Secretaría y sus unidades administrativas, de acuerdo con las disposiciones legales, reglamentarias e internas de la Secretaría y de los convenios celebrados al efecto:
 
-IV. Compilar y actualizar las leyes, reglamentos, decretos y disposiciones federales, estatales y municipales, y, particularmente, las normas legales relacionadas con las atribuciones de la Secretaría;
+IV. Tramitar y resolver las consultas que se planteen por los contribuyentes en situaciones reales y concretas sobre la aplicación de disposiciones fiscales, de acuerdo con las disposiciones legales, reglamentarias e internas de la Secretaría y de los convenios celebrados al efecto;
 
-V. Elaborar o revisar las circulares administrativas que deba emitir la Secretaría o sus unidades administrativas, a fin de que se efectúen de acuerdo a las disposiciones de las leyes respectivas y sus reglamentos;
+V. Asesorar jurídicamente a las unidades administrativas de la Secretaría en el ejercicio de sus atribuciones en materia de procedimientos de revisión del cumplimiento de obligaciones tributarias y de ejecución de créditos fiscales;
 
-VI. Realizar análisis y estudios de derecho que incidan sobre las atribuciones de la Secretaría, así como aquellos que le encomiende el Procurador Fiscal del Estado;
+VI. Elaborar los proyectos de resolución sobre las solicitudes de declaratoria de prescripción de los créditos fiscales y la extinción de las facultades de las autoridades fiscales;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+VII. Requerir documentos, datos y demás informes para el ejercicio de sus atribuciones;
 
-VII. Elaborar y proponer al Procurador Fiscal del Estado la agenda normativa competencia de la Secretaría; y
+VIII. Asesorar jurídicamente y asistir a las unidades administrativas de la Secretaría, en las diversas etapas de los, procedimientos de revisión y fiscalización que les sean practicados o en que intervengan conforme a sus atribuciones;
 
-VIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario o el Procurador Fiscal del Estado.
+IX. Proponer, para aprobación superior, los proyectos de respuesta a los requerimientos formulados a las unidades administrativas de la Secretaría por los órganos de revisión y fiscalización;
+
+X. Ejecutar las garantías que se constituyan a favor del Estado, ante las dependencias de la administración pública centralizada o de los Poderes Legislativo y Judicial del Estado;
+
+XI. Emitir los requerimientos de pago de todo tipo de pólizas de fianzas otorgadas a favor de la Secretaría, así como de sus intereses o de indemnizaciones por mora, cuando procedan en los términos de la normatividad aplicable;
+
+XII. Vigilar que las garantías constituidas a favor del Estado se apliquen a favor del Gobierno del Estado, una vez concluido el procedimiento de ejecución respectivo, o se dé cumplimiento a las resoluciones que decreten la procedencia del mismo;
+
+XIII. Formular, para aprobación superior, sus proyectos de manuales de organización y procedimientos; y
+
+XIV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Procurador Fiscal del Estado o el Subprocurador Fiscal de Asuntos Contenciosos y Resoluciones.
 
 ## TÍTULO CUARTO. DE LAS FACULTADES Y ORGANIZACIÓN DE LA SUBSECRETARÍA DE FINANZAS Y DE SUS UNIDADES ADMINISTRATIVAS
 
@@ -793,7 +877,7 @@ XII. Supervisar los pagos del gasto previamente autorizado y programado; y
 
 XIII. Elaborar los trabajos y análisis de carácter financiero que le sean encomendados.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE DEUDA PÚBLICA
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE OPERACIONES FINANCIERAS
 
 ###### Artículo 30.
 
@@ -815,7 +899,7 @@ VII. Implementar medidas de control interno de las operaciones y movimientos rea
 
 VIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE INVERSIONES
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE DEUDA PÚBLICA
 
 ###### Artículo 31.
 
@@ -849,7 +933,7 @@ XIII. Realizar los trámites necesarios para la inscripción en el Registro de O
 
 XIV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE EGRESOS
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE INVERSIONES
 
 ###### Artículo 32.
 
@@ -873,7 +957,7 @@ VIII. Establecer las medidas de control interno de las operaciones y movimientos
 
 IX. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### SECCIÓN QUINTA. DE LA COORDINACIÓN DE PAGOS
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE EGRESOS
 
 ###### Artículo 33.
 
@@ -903,7 +987,7 @@ X. Revisar y entregar a los interesados cuando así corresponda, las constancias
 
 XI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN TÉCNICA DE INGRESOS
+#### SECCIÓN QUINTA. DE LA COORDINACIÓN DE PAGOS
 
 ###### Artículo 34.
 
@@ -987,7 +1071,7 @@ XVI. Participar en las comisiones para el estudio y desahogo de asuntos relacion
 
 XVII. Organizar y controlar el catastro del Estado.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE CATASTRO
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN TÉCNICA DE INGRESOS
 
 ###### Artículo 37.
 
@@ -1047,7 +1131,7 @@ XIX. Elaborar el diseño de placas, tarjetas de circulación y engomados, en los
 
 XX. Las demás que las disposiciones legales, reglamentarias y administrativas le atribuyan, así como aquéllas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE RECAUDACIÓN
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE CATASTRO
 
 ###### Artículo 38.
 
@@ -1083,7 +1167,7 @@ XIV. Proporcionar asesoría a los municipios que así lo soliciten, en materia c
 
 XV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE EJECUCIÓN
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE RECAUDACIÓN
 
 ###### Artículo 39.
 
@@ -1135,7 +1219,7 @@ XIX. Aplicar las compensaciones procedentes en materia de impuestos estatales y 
 
 XX. Las demás que las disposiciones legales, reglamentarias y administrativas le atribuyan, así como aquéllas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### SECCIÓN QUINTA. DE LA DIRECCIÓN DE POLÍTICA DE INGRESOS
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE EJECUCIÓN
 
 ###### Artículo 40.
 
@@ -1169,7 +1253,7 @@ XIII. Proponer al Director General, los proyectos de cancelación de créditos i
 
 XIV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del Ramo o su Director General.
 
-#### SECCIÓN SEXTA. DE LA COORDINACIÓN DE OFICINAS RECAUDADORAS
+#### SECCIÓN QUINTA. DE LA DIRECCIÓN DE POLÍTICA DE INGRESOS
 
 ###### Artículo 41.
 
@@ -1205,7 +1289,7 @@ XIII. Recabar y poner a consideración del Director General, la información rel
 
 XIV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del Ramo o su Director General.
 
-#### SECCIÓN SÉPTIMA. DE LAS OFICINAS RECAUDADORAS DEL ESTADO
+#### SECCIÓN SEXTA. DE LA COORDINACIÓN DE OFICINAS RECAUDADORAS
 
 ###### Artículo 42.
 
@@ -1227,7 +1311,7 @@ VII. Resolver, previo acuerdo con el Director de Recaudación, las consultas que
 
 VIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del Ramo, el Director General o el Director de Recaudación.
 
-#### SECCIÓN PRIMERA. DE LAS DIRECCIONES REGIONALES DE AUDITORÍA FISCAL "A", "B" Y "C"
+#### SECCIÓN SÉPTIMA. DE LAS OFICINAS RECAUDADORAS DEL ESTADO
 
 ###### Artículo 43.
 
@@ -1417,7 +1501,7 @@ XLVII. Llevar el control y resguardo del archivo de la Dirección General y de l
 
 Las facultades previstas en este artículo, relativas a las disposiciones estipuladas en el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus Anexos, estarán referidas a los impuestos federales coordinados, con excepción de las contribuciones y aprovechamientos que deriven de la introducción al territorio nacional de mercancías y vehículos de procedencia extranjera.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE PLANEACIÓN DE LA FISCALIZACIÓN
+#### SECCIÓN PRIMERA. DE LAS DIRECCIONES REGIONALES DE AUDITORÍA FISCAL "A", "B" Y "C"
 
 ###### Artículo 46.
 
@@ -1487,7 +1571,7 @@ II. La Dirección Regional de Auditoría Fiscal "B", con sede en lrapuato, Gto.,
 
 III. La Dirección Regional de Auditoría Fiscal "C", con sede en Celaya, Gto., ejercerá sus facultades dentro de la circunscripción territorial que comprende los municipios de Acámbaro, San Miguel de Allende, Apaseo el Alto, Apaseo el Grande, Atarjea, Celaya, Comonfort, Coroneo, Cortazar, Doctor Mora, Jerécuaro, Moroleón, Salvatierra, San José lturbide, San Luis de la Paz, Santa Catarina, Santiago Maravatío, Tarandacuao, Tarimoro, Tierra Blanca, Uriangato, Victoria, Xichú y Yuriria.
 
-#### SECCIÓN TERCERA. DE LA COORDINACIÓN DE PROCEDIMIENTOS LEGALES DE FISCALIZACIÓN
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE PLANEACIÓN DE LA FISCALIZACIÓN
 
 ###### Artículo 48.
 
@@ -1519,27 +1603,7 @@ XI. Elaborar y rendir mensualmente a la Dirección General, un informe de las ac
 
 XII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del Ramo o su Director General.
 
-#### SECCIÓN CUARTA. DE LA COORDINACIÓN DE INSPECCIÓN Y NOTIFICACIÓN FISCAL
-
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-Artículo 49 bis.- La Coordinación de Inspección y Notificación Fiscal tendrá las siguientes facultades:
-
-I. Dirigir, supervisar y evaluar la operación y ejecución de los actos en materia de inspección y notificación fiscal, que coadyuven a producir las acciones contempladas en el programa operativo anual de fiscalización, concurrente y estatal, así como establecer, en su caso, las medidas correctivas que procedan;
-
-II. Practicar visitas de inspección a los establecimientos que se dediquen a las actividades que regula la Ley de Alcoholes para el Estado de Guanajuato;
-
-III. Ejecutar las órdenes de clausura de los establecimientos o giros que contravengan las disposiciones de la Ley de Alcoholes para el Estado de Guanajuato, en los casos en que éstas procedan;
-
-IV. Comunicar a las autoridades fiscales estatales, los resultados obtenidos de las inspecciones en materia fiscal de alcoholes y notificaciones de actos de fiscalización concurrente y estatal que se lleven a cabo;
-
-V. Dar orientación y asistencia a las autoridades municipales coordinadas con el Estado, en materia de inspección fiscal de alcoholes;
-
-> <small>(F. DE E., P.O. 17 DE NOVIEMBRE DE 2006)</small>
-
-VI. Notificar las resoluciones que emitan las Direcciones Regionales de Auditoria Fiscal “A””, “B” y “C”, en las que determinen los créditos fiscales; y
-
-VII. Las demás que las disposiciones legales, reglamentarias y administrativas le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+#### SECCIÓN TERCERA. DE LA COORDINACIÓN DE PROCEDIMIENTOS LEGALES DE FISCALIZACIÓN
 
 ###### Artículo 49.
 
@@ -1573,7 +1637,27 @@ XII. Las demás que las disposiciones legales y reglamentarias le atribuyan, as�
 
 > <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE REGULACIÓN PRESUPUESTAL
+#### SECCIÓN CUARTA. DE LA COORDINACIÓN DE INSPECCIÓN Y NOTIFICACIÓN FISCAL
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+Artículo 49 bis.- La Coordinación de Inspección y Notificación Fiscal tendrá las siguientes facultades:
+
+I. Dirigir, supervisar y evaluar la operación y ejecución de los actos en materia de inspección y notificación fiscal, que coadyuven a producir las acciones contempladas en el programa operativo anual de fiscalización, concurrente y estatal, así como establecer, en su caso, las medidas correctivas que procedan;
+
+II. Practicar visitas de inspección a los establecimientos que se dediquen a las actividades que regula la Ley de Alcoholes para el Estado de Guanajuato;
+
+III. Ejecutar las órdenes de clausura de los establecimientos o giros que contravengan las disposiciones de la Ley de Alcoholes para el Estado de Guanajuato, en los casos en que éstas procedan;
+
+IV. Comunicar a las autoridades fiscales estatales, los resultados obtenidos de las inspecciones en materia fiscal de alcoholes y notificaciones de actos de fiscalización concurrente y estatal que se lleven a cabo;
+
+V. Dar orientación y asistencia a las autoridades municipales coordinadas con el Estado, en materia de inspección fiscal de alcoholes;
+
+> <small>(F. DE E., P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+VI. Notificar las resoluciones que emitan las Direcciones Regionales de Auditoria Fiscal “A””, “B” y “C”, en las que determinen los créditos fiscales; y
+
+VII. Las demás que las disposiciones legales, reglamentarias y administrativas le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
 ### CAPÍTULO QUINTO. DE LA DIRECCIÓN GENERAL DE PRESUPUESTO
 
@@ -1643,7 +1727,7 @@ XII. Actualizar la estructura programática del presupuesto de egresos con el fi
 
 XIII. Elaborar y proponer al Secretario, por conducto del Subsecretario del ramo, proyectos de reformas, adiciones u otras modificaciones a las disposiciones legales o administrativas de su competencia, en coordinación con la Procuraduría Fiscal del Estado.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE CONTROL PRESUPUESTAL
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE REGULACIÓN PRESUPUESTAL
 
 ###### Artículo 52.
 
@@ -1685,7 +1769,7 @@ XII. Analizar, proponer y emitir opinión sobre los proyectos, reformas y adicio
 
 XIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE ANÁLISIS Y SEGUIMIENTO DEL GASTO PÚBLICO
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE CONTROL PRESUPUESTAL
 
 ###### Artículo 53.
 
@@ -1727,7 +1811,7 @@ XI. (DEROGADA, P.O. 12 DE SEPTIEMBRE DE 2006)
 
 XII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE ADMINISTRACIÓN DE LA INFORMACIÓN
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE ANÁLISIS Y SEGUIMIENTO DEL GASTO PÚBLICO
 
 ###### Artículo 54.
 
@@ -1761,7 +1845,7 @@ VIII. (DEROGADA, P.O. 12 DE SEPTIEMBRE DE 2006)
 
 IX. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE SEGUIMIENTO DE INVERSIÓN PÚBLICA E INFORMACIÓN
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE ADMINISTRACIÓN DE LA INFORMACIÓN
 
 ###### Artículo 55.
 
@@ -1807,7 +1891,7 @@ XI. Participar por encargo del Secretario o del Subsecretario del Ramo, como rep
 
 XII. Diseñar, promover y establecer programas de desarrollo institucional de la Dirección General, con el propósito de mejorar los procesos de la misma y el desempeño de los servidores adscritos.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE CONTROL DE LA INVERSIÓN PÚBLICA
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE SEGUIMIENTO DE INVERSIÓN PÚBLICA E INFORMACIÓN
 
 ###### Artículo 58.
 
@@ -1837,7 +1921,7 @@ XI. Participar por encargo del Secretario o del Subsecretario del Ramo, y en su 
 
 XII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE CONTABILIDAD DEL SECTOR CENTRAL
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE CONTROL DE LA INVERSIÓN PÚBLICA
 
 ###### Artículo 59.
 
@@ -1925,7 +2009,7 @@ XXI. Solventar conjuntamente con la Secretaría de la Gestión Pública, las obs
 
 XXII. Proponer al Secretario, por conducto del Subsecretario del ramo, la cancelación de créditos incobrables a favor del Estado y las obligaciones a cargo del Estado no ejercidas en el período establecido en la normatividad, informando en su caso a la Secretaría de la Gestión Pública y al Congreso del Estado.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE CONTABILIDAD DEL SECTOR PARAESTATAL
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE CONTABILIDAD DEL SECTOR CENTRAL
 
 ###### Artículo 62.
 
@@ -1959,7 +2043,7 @@ XIII. Solicitar a las dependencias la información financiera, presupuestal y ec
 
 XIV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE CUENTA PÚBLICA
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE CONTABILIDAD DEL SECTOR PARAESTATAL
 
 ###### Artículo 63.
 
@@ -1985,9 +2069,7 @@ IX. Desarrollar estudios para la mejora de los procesos contables del sector par
 
 X. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN OPERATIVA
-
-(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2006)
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE CUENTA PÚBLICA
 
 ###### Artículo 64.
 
@@ -2075,9 +2157,9 @@ XI. Informar mensualmente al Secretario, por conducto del Subsecretario del ramo
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE ADMINISTRACIÓN FINANCIERA
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN OPERATIVA
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2006)
 
 ###### Artículo 67.
 
@@ -2121,79 +2203,9 @@ XI. Las demás que las disposiciones legales, reglamentarias y administrativas l
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE VERIFICACIÓN DE MERCANCÍAS
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE ADMINISTRACIÓN FINANCIERA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2007)</small>
-
-Artículo 68 quáter.- La Dirección de Verificación de Mercancías tendrá las siguientes facultades:
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2007)</small>
-
-I. Ordenar y practicar la verificación de mercancías en transporte, que se encuentren dentro de la circunscripción territorial del Estado de Guanajuato, así como visitas domiciliarias derivadas de la verificación de mercancías en transporte, incluso en centros de almacenamiento, distribución o comercialización, tianguis, mercados sobre ruedas, puestos fijos y semifijos en la vía pública, a fin de comprobar la legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional de las mercancías de procedencia extranjera, de conformidad con la legislación fiscal y aduanera aplicables;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2007)</small>
-
-II. Ordenar y practicar la verificación de vehículos de procedencia extranjera en circulación dentro de la circunscripción territorial del Estado de Guanajuato, aun cuando no se encuentren en movimiento, así como visitas domiciliarias derivadas de la verificación de vehículos de procedencia extranjera en circulación, incluso en centros de almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición para su venta, a fin de comprobar su legal importación, estancia o tenencia, transporte o manejo en territorio nacional, de conformidad con la legislación fiscal y aduanera aplicables;
-
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
-
-III. Ordenar y practicar el embargo precautorio de mercancías de comercio exterior y sus medios de transporte, en los supuestos que establece la Ley Aduanera, cuando no se acredite su legal importación, tenencia o estancia en el país, así como respecto de los vehículos de origen o procedencia extranjera que no acrediten su legal estancia en el país;
-
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
-
-IV. Iniciar, tramitar y resolver los procedimientos aduaneros que se deriven del ejercicio de sus facultades de comprobación, en los términos que establece la legislación aduanera;
-
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
-
-V. Verificar el cumplimiento de las regulaciones y restricciones no arancelarias en las mercancías de comercio exterior, inclusive respecto de las normas oficiales mexicanas aplicables;
-
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
-
-VI. Determinar los impuestos, derechos de trámite aduanero y aplicar las cuotas compensatorias que se originen por la introducción ilegal a territorio nacional de mercancías o vehículos extranjeros, así como su actualización y accesorios, y determinar en cantidad líquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados, con motivo de la práctica de actos de verificación de su competencia, de conformidad con las disposiciones fiscales y aduaneras aplicables;
-
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
-
-VII. Declarar que las mercancías o vehículos objeto del procedimiento administrativo en materia aduanera que tramite, pasan a propiedad del Fisco Federal;
-
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
-
-VIII. Recabar de las autoridades competentes y de los fedatarios, los informes y datos con que cuenten a fin de verificar el cumplimiento de las disposiciones legales en materia aduanera;
-
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
-
-IX. Notificar al interesado los actos administrativos y las resoluciones dictadas en el ámbito de su competencia, a través de las cuales se determinen los créditos fiscales correspondientes;
-
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
-
-X. Expedir las cartas credenciales o constancias de identificación de los servidores públicos que se autoricen para la práctica de las notificaciones, verificaciones, para la realización de embargos precautorios, así como para los demás actos derivados del ejercicio de sus atribuciones;
-
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
-
-XI. Designar a los verificadores y notificadores, así como al demás personal necesario para la práctica de los actos de su competencia;
-
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
-
-XII. Imponer las multas que correspondan en el ámbito de su competencia, relacionadas con el incumplimiento de las obligaciones fiscales y aduaneras;
-
-XIII. Remitir a la Procuraduría Fiscal del Estado, los asuntos en los que proceda formular querellas y declaratoria de perjuicio del fisco derivados de los actos relativos al ejercicio de sus atribuciones;
-
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
-
-XIV. Resolver el levantamiento del embargo precautorio y la entrega de las mercancías, medios de transporte o vehículos embargados precautoriamente, antes de la conclusión del procedimiento aduanero;
-
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
-
-XV. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
-
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
-
-XVI. Determinar conforme a la Ley Aduanera, la naturaleza, estado, origen y demás características de las mercancías de procedencia extranjera, así como determinar su clasificación arancelaria y su valor en aduana; y
-
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
-
-XVII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 19 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 68.
 
@@ -2233,51 +2245,85 @@ Artículo 68 bis.- La Dirección General de Verificación al Comercio Exterior d
 
 I. Dirección de Verificación de Mercancías;
 
-II. Dirección de Visitas Domiciliarias de Comercio Exterior; y
+II. Dirección de Visitas Domiciliarias de Comercio Exterior; y (sic)
 
-III. Dirección de Programación y Recintos Fiscales.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+III. Dirección de Programación y Recintos Fiscales; y
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+IV. Dirección de Procedimientos Aduaneros.
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2007)</small>
 
 Artículo 68 ter.- La Dirección General de Verificación al Comercio Exterior, tendrá las siguientes facultades:
 
-I. Establecer, previo acuerdo con el Secretario, las políticas y lineamientos que deben seguir sus unidades administrativas en las materias de: comprobación del cumplimiento de las obligaciones aduaneras; embargo precautorio de mercancías extranjeras respecto de las cuales no se acredite la legal importación, tenencia o estancia en el país; procedimientos aduaneros que se deriven del ejercicio de las facultades de comprobación; visitas domiciliarias efectuadas con el objeto de verificar la legal importación, almacenaje, estancia o tenencia en territorio nacional de toda clase de mercancías de procedencia extranjera; determinación de la base del impuesto general de importación; liquidación de los impuestos que se causen por la introducción ilegal de mercancías y vehículos a territorio nacional que se encuentren dentro de la circunscripción territorial del Estado de Guanajuato; determinación de derechos de trámite aduanero; aplicación de cuotas compensatorias e imposición de multas por infracciones a las disposiciones fiscales y aduaneras; los lugares en que se depositen las mercancías y vehículos embargados con motivo del ejercicio de facultades de comprobación; destrucción, donación, asignación o venta de mercancías de procedencia extranjera; así como de la verificación del cumplimiento de las regulaciones y restricciones no arancelarias y normas oficiales mexicanas aplicables;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-II. Elaborar las propuestas de programación para la práctica de visitas domiciliarias y verificación de mercancías y vehículos de procedencia extranjera, a efecto de presentarlas a los comités y subcomités correspondientes, en los términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal;
+I. Establecer, previo acuerdo con el Secretario, las políticas y lineamientos que deben seguir sus unidades administrativas en las materias de: comprobación del cumplimiento de las obligaciones aduaneras; embargo precautorio de mercancías extranjeras respecto de las cuales no se acredite la legal importación, tenencia o estancia en el país; procedimientos aduaneros que se deriven del ejercicio de las facultades de comprobación; visitas domiciliarias, auditorias y revisiones de escritorio efectuadas con el objeto de verificar la legal importación, almacenaje, estancia o tenencia en territorio nacional de toda clase de mercancías de procedencia extranjera; verificaciones de origen; determinación de la base del impuesto general de importación; liquidación de los impuestos que se causen por la introducción ilegal de mercancías y vehículos a territorio nacional que se encuentren dentro de la circunscripción territorial del Estado de Guanajuato, determinación de derechos de trámite aduanero, aplicación de cuotas compensatorias e imposición de multas por infracciones a las disposiciones fiscales y aduaneras; habilitación de los lugares en que se depositen las mercancías y vehículos embargados con motivo del ejercicio de facultades de comprobación; destrucción, donación, asignación o venta de mercancías de procedencia extranjera; así como de la verificación del cumplimiento de las regulaciones y restricciones no arancelarias y normas oficiales mexicanas aplicables;
 
-III. Ordenar y practicar visitas domiciliarias y verificar mercancías que se encuentren dentro de la circunscripción territorial del Estado de Guanajuato, incluso en centros de almacenamiento, distribución o comercialización, tianguis, mercados sobre ruedas, puestos fijos y semifijos en la vía pública e inclusive en transporte, a fin de comprobar la legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional de las mercancías de procedencia extranjera, de conformidad con la legislación fiscal y aduanera aplicables;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-IV. Ordenar y practicar visitas domiciliarias y verificar vehículos de origen o procedencia extranjera, que se encuentren dentro de la circunscripción territorial del Estado de Guanajuato, incluso en centros de almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición de los mismos para su venta, a fin de comprobar su legal importación, estancia o tenencia, transporte o manejo en territorio nacional, de conformidad con la legislación fiscal y aduaneras aplicables;
+II. Elaborar las propuestas de programación para la práctica de visitas domiciliarias, revisiones de escritorio y verificación de mercancías y vehículos de procedencia extranjera, a efecto de presentarlas a los comités y subcomités correspondientes, en los términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal;
 
-V. Ordenar y practicar la verificación de vehículos de procedencia extranjera en circulación dentro de la circunscripción territorial del Estado de Guanajuato, aun cuando no se encuentren en movimiento, a fin de comprobar su legal importación, estancia o tenencia, transporte o manejo en territorio nacional, de conformidad con la legislación fiscal y aduanera aplicables;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+III. Ordenar y practicar visitas domiciliarias, verificación de mercancías, auditorias, revisiones de escritorio y verificaciones de origen dentro de la circunscripción territorial del Estado de Guanajuato, incluso en centros de almacenamiento, distribución o comercialización, tianguis, mercados sobre ruedas, puestos fijos y semifijos en la vía pública e inclusive en transporte, a fin de comprobar la legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional de las mercancías de procedencia extranjera, así como para verificar el cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de mercancías de procedencia extranjera, de conformidad con la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+IV. Ordenar y practicar visitas domiciliarias y verificar vehículos de origen o procedencia extranjera, que se encuentren dentro de la circunscripción territorial del Estado de Guanajuato, incluso en centros de almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición de los mismos para su venta, a fin de comprobar su legal importación, estancia o tenencia, transporte o manejo en territorio nacional, así como para verificar el cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de vehículos de procedencia extranjera de conformidad con la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+V. Ordenar y practicar la verificación de vehículos de procedencia extranjera en circulación dentro de la circunscripción territorial del Estado de Guanajuato, aun cuando no se encuentren en movimiento, a fin de comprobar su legal importación, estancia o tenencia, transporte o manejo en territorio nacional, así como para verificar el cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de vehículos de procedencia extranjera, de conformidad con la legislación aplicable;
 
 VI. Ordenar y practicar el embargo precautorio de mercancías de comercio exterior y sus medios de transporte, en los supuestos que establece la Ley Aduanera cuando no se acredite su legal importación, tenencia o estancia en el país, así como respecto de los vehículos de origen o procedencia extranjera que no acrediten su legal estancia en el país;
 
 VII. Iniciar, tramitar y resolver los procedimientos aduaneros que se deriven del ejercicio de sus facultades de comprobación, en los términos que establece la legislación aduanera;
 
-VIII. Verificar el cumplimiento de las regulaciones y restricciones no arancelarias en las mercancías de comercio exterior, inclusive respecto de las normas oficiales mexicanas aplicables;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-IX. Determinar los impuestos, derechos de trámite aduanero y aplicar las cuotas compensatorias que se originen por la introducción ilegal a territorio nacional de mercancías o vehículos extranjeros, así como su actualización y accesorios, y determinar en cantidad líquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados, con motivo de la práctica de visitas domiciliarias y actos de verificación, de conformidad con las disposiciones fiscales y aduaneras aplicables;
+VIII. Verificar el cumplimiento de las regulaciones y restricciones no arancelarias en las mercancías de comercio exterior, cuotas compensatorias e inclusive respecto de las normas oficiales mexicanas aplicables;
 
-X. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados los hechos u omisiones imputables a éstos, conocidos con motivo de las visitas domiciliarias, haciendo constar dichos hechos y omisiones en la última acta parcial que se levante, así como prorrogar los plazos en que se deban concluir las visitas domiciliarias y dejar sin efectos las órdenes de visita correspondientes;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-XI. Recibir y, en su caso, requerir de los particulares, responsables solidarios y terceros con ellos relacionados, la contabilidad, los avisos, declaraciones, pedimentos, manifestaciones y demás datos, documentos e informes que conforme a las disposiciones legales aplicables deban presentar;
+IX. Determinar los impuestos, derechos de trámite aduanero y aplicar las cuotas
+
+compensatorias que se originen por la introducción ilegal a territorio nacional de mercancías o vehículos extranjeros, así como su actualización, recargos y demás accesorios, y determinar en cantidad líquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados, con motivo de la práctica de visitas domiciliarias, actos de verificación, auditorias y revisiones de escritorio, de conformidad con las disposiciones fiscales y aduaneras aplicables;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+X. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados los hechos u omisiones imputables a éstos, conocidos con motivo de las visitas domiciliarias, haciendo constar dichos hechos y omisiones en la última acta parcial que se levante, así como emitir el oficio de observaciones y el de conclusión tratándose de revisiones de escritorio y prorrogar en su caso, los plazos en que se deban concluir las visitas domiciliarias, auditorias o revisiones de escritorio; así como dejar sin efectos las órdenes correspondientes y reponer, cuando proceda, el procedimiento de visita domiciliaria en términos del Código Fiscal de la Federación;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XI. Recibir y, en su caso, requerir de los contribuyentes, responsables solidarios y terceros con ellos relacionados, para que exhiban y, cuando proceda, proporcionen la contabilidad, los avisos, declaraciones, pedimentos, manifestaciones y demás datos, documentos e informes de conformidad con las disposiciones legales aplicables, a efecto de llevar a cabo su revisión; así como autorizar prórrogas para su presentación;
 
 XII. Recabar de las autoridades competentes y de los fedatarios, los informes y datos con que cuenten a fin de verificar el cumplimiento de las disposiciones legales en materia aduanera;
 
-XIII. Notificar al interesado los actos administrativos y las resoluciones dictadas en el ámbito de su competencia, a través de las cuales se determinen los créditos fiscales correspondientes;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XIII. Notificar al interesado los actos administrativos y las resoluciones dictadas en el ámbito de su competencia, a través de las cuales se determinen los créditos fiscales correspondientes y sus accesorios;
 
 XIV. Resguardar y custodiar las mercancías, medios de transporte o vehículos que hayan sido embargados precautoriamente hasta que quede firme la resolución dictada en el procedimiento administrativo en materia aduanera o hasta que se resuelva legalmente la devolución de los mismos;
 
 XV. Expedir las cartas credenciales o constancias de identificación de los servidores públicos que se autoricen para la práctica de las visitas domiciliarias, notificaciones, verificaciones, para la realización de embargos precautorios, así como para los demás actos derivados del ejercicio de sus atribuciones;
 
-XVI. Designar a los visitadores, verificadores y notificadores, así como al demás personal necesario para la práctica de los actos de su competencia;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XVI. Designar a los visitadores, auditores, verificadores, clasificadores arancelarios y notificadores, así como al demás personal necesario para la práctica de los actos de su competencia;
 
 XVII. Declarar que las mercancías o vehículos objeto del procedimiento administrativo en materia aduanera, pasan a propiedad del Fisco Federal;
 
-XVIII. Determinar, previo acuerdo con el Secretario, el destino de las mercancías y vehículos que hayan sido asignados a favor del Estado; así como la destrucción, donación, asignación o venta de mercancías perecederas, de fácil descomposición o deterioro o de animales vivos, embargados precautoriamente, en los términos de la legislación aduanera;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-XIX. Imponer las multas que correspondan por el incumplimiento de las obligaciones fiscales y aduaneras, incluidas las derivadas de la determinación de devoluciones improcedentes y, en su caso, condonarlas cuando así proceda;
+XVIII. Determinar, previo acuerdo con el Secretario, el destino de las mercancías y vehículos que hayan sido asignados a favor del Estado;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XIX. Imponer las multas que correspondan por el incumplimiento de las obligaciones fiscales y aduaneras, incluidas las derivadas de la determinación de devoluciones improcedentes y, en su caso, previo acuerdo del Secretario, reducirlas o condonarlas en términos de la normatividad fiscal y aduanera aplicable;
 
 XX. Intercambiar, previo acuerdo con el Secretario, los vehículos que hayan sido asignados a favor del Estado con otras entidades federativas, de conformidad con la normatividad que al efecto emita la Secretaría de Hacienda y Crédito Público;
 
@@ -2289,61 +2335,183 @@ XXIII. Resolver el levantamiento del embargo precautorio y la entrega de las mer
 
 XXIV. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
 
-XXV. Determinar conforme a la Ley Aduanera, la naturaleza, estado, origen y demás características de las mercancías de procedencia extranjera, así como determinar su clasificación arancelaria y su valor en aduana;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XXV. Verificar y, en su caso, determinar conforme a la Ley Aduanera, la naturaleza, estado, origen y demás características de las mercancías de procedencia extranjera, así como determinar, en su caso, su clasificación arancelaria, valor comercial y su valor en aduana;
 
 XXVI. Revisar y, en su caso, modificar o revocar las resoluciones administrativas de carácter individual no favorables a un particular, emitidas por sus subordinados jerárquicamente, en los términos de las disposiciones aplicables;
 
-XXVII. Solicitar la colaboración de las instituciones de seguridad pública, procuración e impartición de justicia, y demás autoridades competentes, en los términos de las disposiciones legales aplicables; y
+XXVII. Solicitar la colaboración de las instituciones de seguridad pública, procuración e impartición de justicia, y demás autoridades competentes, en los términos de las disposiciones legales aplicables; y (sic)
 
-XXVIII. Ejercer las demás facultades que resulten necesarias para la ejecución de las disposiciones estipuladas en el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus Anexos, por los que se confieren al Estado atribuciones para la verificación de la legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional, de toda clase de mercancía de procedencia extranjera.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XXVIII. Designar depositarias de las mercancías embargadas dentro del procedimiento administrativo en materia aduanera a las autoridades fiscales de los municipios con quienes así se acuerde o a terceras personas e incluso al propio interesado, conforme a lo dispuesto en la Ley Aduanera;
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XXIX. Verificar el correcto cumplimiento de las obligaciones derivadas del régimen aduanero al que hayan sido sometidas las mercancías y los vehículos de procedencia extranjera, excepto aeronaves; incluso aquellas derivadas de los programas de fomento a la exportación otorgados por la Secretaria de Economía;
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XXX. Determinar la destrucción, donación, asignación o venta, antes de emitir la resolución definitiva del procedimiento administrativo correspondiente de las mercancías perecederas, de fácil descomposición o deterioro o los animales vivos embargados precautoriamente, de conformidad con lo dispuesto en la legislación federal aplicable;
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XXXI. Declarar que las mercancías y vehículos embargados precautoriamente han causado abandono a favor del Fisco Federal, de conformidad con lo establecido en la Ley Aduanera y demás legislación federal aplicable;
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XXXII. Habilitar los lugares en que habrán de ser depositadas las mercancías y los vehículos que hayan sido embargados precautoriamente, los cuales adquirirán la categoría de recintos fiscales; y
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XXXIII. Ejercer las demás facultades que resulten necesarias para la ejecución de las disposiciones estipuladas en el Convenio de Colaboración Administrativa en Materia Fiscal Federal y su Anexo en materia de comercio exterior.
 
 La Dirección General de Verificación al Comercio Exterior y sus direcciones de área se auxiliarán, en el ejercicio de sus facultades, de verificadores quienes tendrán facultades para requerir y recibir documentación y demás elementos de los particulares; así como identificar, determinar el valor y clasificación arancelaria de mercancías de procedencia extranjera, en términos de las disposiciones aplicables en materia aduanera; además para llevar a cabo los actos necesarios para cerciorarse del cumplimiento de las disposiciones legales que regulan y gravan la entrada al territorio nacional de mercancías y medios de transporte.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE VERIFICACIÓN DE MERCANCÍAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+Artículo 68 quáter.- La Dirección de Verificación de Mercancías tendrá las siguientes facultades:
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+I. Ordenar y practicar la verificación de mercancías en transporte, que se encuentren dentro de la circunscripción territorial del Estado de Guanajuato, así como visitas domiciliarias y verificaciones de origen derivadas de la verificación de mercancías de transporte, incluso en centros de almacenamiento, distribución o comercialización, tianguis, mercados sobre ruedas, puestos fijos y semifijos en la vía pública, a fin de comprobar la legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional de las mercancías de procedencia extranjera, también para verificar el cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de mercancías de procedencia extranjera, de conformidad con la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+II. Ordenar y practicar la verificación de vehículos de procedencia extranjera en circulación dentro de la circunscripción territorial del Estado de Guanajuato, aun cuando no se encuentren en movimiento, así como visitas domiciliarias derivadas de la verificación de vehículos de procedencia extranjera en circulación, incluso en centros de almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición para su venta, a fin de comprobar su legal importación, estancia o tenencia, transporte o manejo en territorio nacional, y para verificar el cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de vehículos de procedencia extranjera, de conformidad con la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
+
+III. Ordenar y practicar el embargo precautorio de mercancías de comercio exterior y sus medios de transporte, en los supuestos que establece la Ley Aduanera, cuando no se acredite su legal importación, tenencia o estancia en el país, así como respecto de los vehículos de origen o procedencia extranjera que no acrediten su legal estancia en el país;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2007)</small>
+
+IV. Iniciar, tramitar y resolver los procedimientos aduaneros que se deriven del ejercicio de sus facultades de comprobación, en los términos que establece la legislación aduanera;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+V. Verificar el cumplimiento de las regulaciones y restricciones no arancelarias en las mercancías de comercio exterior, cuotas compensatorias e inclusive respecto de las normas oficiales mexicanas aplicables;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+VI. Verificar el cumplimiento de las obligaciones derivadas del régimen aduanero al que hayan sido sometidas las mercancías y los vehículos de procedencia extranjera, excepto aeronaves; incluso aquellas derivadas de los programas de fomento a la exportación otorgados por la Secretaría de Economía;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+VII. Determinar los impuestos, derechos de trámite aduanero y aplicar las cuotas compensatorias que se originen por la introducción ilegal a territorio nacional de mercancías o vehículos extranjeros, así como su actualización, recargos y demás accesorios, y determinar en cantidad líquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados, con motivo de la práctica de actos de verificación de su competencia, de conformidad con las disposiciones fiscales y aduaneras aplicables;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+VIII. Declarar que las mercancías o vehículos objeto del procedimiento administrativo en materia aduanera que tramite, pasan a propiedad del Fisco Federal;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+IX. Recabar de las autoridades competentes y de los fedatarios, los informes y datos con que cuenten a fin de verificar el cumplimiento de las disposiciones legales en materia aduanera;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+X. Notificar al interesado los actos administrativos y las resoluciones dictadas en el ámbito de su competencia, a través de las cuales se determinen los créditos fiscales correspondientes;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XI. Expedir las cartas credenciales o constancias de identificación de los servidores públicos que se autoricen para la práctica de las notificaciones, verificaciones, la realización de embargos precautorios y para los demás actos derivados del ejercicio de sus atribuciones;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XII. Designar a los visitadores, clasificadores arancelarios, verificadores y notificadores, así como al demás personal necesario para la práctica de los actos de su competencia;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XIII. Imponer las multas que correspondan en el ámbito de su competencia, relacionadas con el incumplimiento de las obligaciones fiscales y aduaneras; y
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XIV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+
+XV. (DEROGADA, P.O. 12 DE DICIEMBRE DE 2008)
+
+XVI. (DEROGADA, P.O. 12 DE DICIEMBRE DE 2008)
+
+XVII. (DEROGADA, P.O. 12 DE DICIEMBRE DE 2008)
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 19 DE JUNIO DE 2007)</small>
+
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE VISITAS DOMICILIARIAS DE COMERCIO EXTERIOR
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 92 PUBLICADO EN EL P.O. DE 12 DE DICIEMBRE DE 2008, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, QUEDANDO EN XVII FRACCIONES.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2007)</small>
 
 Artículo 68 quinquies.- La Dirección de Visitas Domiciliarias de Comercio Exterior, tendrá las siguientes facultades:
 
-I. Ordenar y practicar visitas domiciliarias y verificar mercancías que se encuentren dentro de la circunscripción territorial del Estado de Guanajuato, incluso en centros de almacenamiento, distribución o comercialización, tianguis, mercados sobre ruedas, puestos fijos y semifijos en la vía pública, a fin de comprobar la legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional de las mercancías de procedencia extranjera, de conformidad con la legislación fiscal y aduanera aplicables;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-II. Ordenar y practicar visitas domiciliarias y verificar vehículos de origen o procedencia extranjera, incluso en centros de almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición de los mismos para su venta, que se encuentren dentro de la circunscripción territorial del Estado de Guanajuato, a fin de comprobar su legal importación, estancia o tenencia, transporte o manejo en territorio nacional de las mercancías de procedencia extranjera, de conformidad con la legislación fiscal y aduaneras aplicables;
+I. Ordenar y practicar visitas domiciliarias, auditorias, revisiones de escritorio y verificar mercancías que se encuentren dentro de la circunscripción territorial del Estado de Guanajuato, incluso en centros de almacenamiento, distribución o comercialización, tianguis, mercados sobre ruedas, puestos fijos y semifijos en la vía pública, a fin de comprobar la legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional de las mercancías de procedencia extranjera, así como para verificar el cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de mercancías de procedencia extranjera, de conformidad con la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+II. Ordenar y practicar visitas domiciliarias y verificar vehículos de origen o procedencia extranjera, incluso en centros de almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición de los mismos para su venta, que se encuentren dentro de la circunscripción territorial del Estado de Guanajuato, a fin de comprobar su legal importación, estancia o tenencia, transporte o manejo en territorio nacional de las mercancías de procedencia extranjera, así como para verificar el cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de vehículos de procedencia extranjera, de conformidad con la legislación aplicable;
 
 III. Ordenar y practicar el embargo precautorio de mercancías de comercio exterior, en los supuestos que establece la Ley Aduanera cuando no se acredite su legal importación, tenencia o estancia en el país, así como respecto de los vehículos de origen o procedencia extranjera que no acrediten su legal estancia en el país;
 
 IV. Iniciar, tramitar y resolver los procedimientos aduaneros que se deriven del ejercicio de sus facultades de comprobación, en los términos que establece la legislación aduanera;
 
-V. Verificar el cumplimiento de las regulaciones y restricciones no arancelarias en las mercancías de comercio exterior, inclusive respecto de las normas oficiales mexicanas aplicables;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-VI. Determinar los impuestos, derechos de trámite aduanero y aplicar las cuotas compensatorias que se originen por la introducción ilegal a territorio nacional de mercancías o vehículos extranjeros, así como su actualización y accesorios, y determinar en cantidad líquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados, con motivo de la práctica de visitas domiciliarias y actos de verificación, de conformidad con las disposiciones fiscales y aduaneras aplicables;
+V. Verificar el cumplimiento de las regulaciones y restricciones no arancelarias en las mercancías de comercio exterior, cuotas compensatorias e inclusive respecto de las normas oficiales mexicanas aplicables;
 
-VII. Declarar que las mercancías o vehículos objeto del procedimiento administrativo en materia aduanera, pasan a propiedad del Fisco Federal;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-VIII. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados los hechos u omisiones imputables a éstos, conocidos con motivo de las visitas domiciliarias, haciendo constar dichos hechos y omisiones en la última acta parcial que se levante, así como prorrogar los plazos en que se deban concluir las visitas domiciliarias y dejar sin efectos las órdenes de visita correspondientes;
+VI. Verificar el cumplimiento de las obligaciones derivadas del régimen aduanero al que hayan sido sometidas las mercancías y los vehículos de procedencia extranjera, excepto aeronaves; incluso aquellas derivadas de los programas de fomento a la exportación otorgados por la Secretaría de Economía;
 
-IX. Recibir y, en su caso requerir de los particulares, responsables solidarios y terceros con ellos relacionados, la contabilidad, los avisos, declaraciones, pedimentos, manifestaciones y demás datos, documentos e informes que conforme a las disposiciones legales aplicables deban presentarse;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-X. Recabar de las autoridades competentes y de los fedatarios, los informes y datos con que cuenten a fin de verificar el cumplimiento de las disposiciones legales en materia aduanera;
+VII. Determinar los impuestos, derechos de trámite aduanero y aplicar las cuotas compensatorias que se originen por la introducción ilegal a territorio nacional de mercancías o vehículos extranjeros, así como su actualización, recargos y demás accesorios, y determinar en cantidad líquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados, con motivo de la práctica de visitas domiciliarias y actos de verificación, auditorias y revisiones de escritorio, de conformidad con las disposiciones fiscales y aduaneras aplicables;
 
-XI. Notificar al interesado los actos administrativos y las resoluciones dictadas en el ámbito de su competencia, a través de las cuales se determinen los créditos fiscales correspondientes;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-XII. Expedir las cartas credenciales o constancias de identificación de los servidores públicos que se autoricen para la práctica de las visitas domiciliarias, notificaciones, verificaciones, para la realización de embargos precautorios, así como para los demás actos derivados del ejercicio de sus atribuciones;
+VIII. Declarar que las mercancías o vehículos objeto del procedimiento administrativo en materia aduanera, pasan a propiedad del Fisco Federal;
 
-XIII. Designar a los visitadores, verificadores y notificadores, así como al demás personal necesario para la práctica de los actos de su competencia;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-XIV. Imponer las multas que correspondan en el ámbito de su competencia, relacionadas con el incumplimiento de las obligaciones fiscales y aduaneras;
+IX. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados los hechos u omisiones imputables a éstos, conocidos con motivo de las visitas domiciliarias, haciendo constar dichos hechos y omisiones en la última acta parcial que se levante, así como emitir el oficio de observaciones y el de conclusión tratándose de revisiones de escritorio, prorrogando en su caso los plazos en que se deban concluir las visitas domiciliarias, auditorias o revisiones de escritorio; así como dejar sin efectos las órdenes correspondientes y reponer, cuando proceda, el procedimiento de visita domiciliaria en términos del Código Fiscal de la Federación;
 
-XV. Remitir a la Procuraduría Fiscal del Estado los asuntos en los que proceda formular querellas y declaratoria de perjuicio del fisco derivados de los actos relativos al ejercicio de sus atribuciones;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-XVI. Resolver el levantamiento del embargo precautorio y la entrega de las mercancías, medios de transporte o vehículos embargados precautoriamente, antes de la conclusión del procedimiento aduanero;
+X. Recibir y, en su caso, requerir de los particulares, responsables solidarios y terceros con ellos relacionados, la contabilidad, los avisos, declaraciones, pedimentos, manifestaciones y demás datos, documentos e informes que conforme a las disposiciones legales aplicables deban presentarse, a efecto de llevar a cabo su revisión, así como autorizar prórrogas para su presentación;
 
-XVII. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-XVIII. Determinar conforme a la Ley Aduanera, la naturaleza, estado, origen y demás características de las mercancías de procedencia extranjera, así como determinar su clasificación arancelaria y su valor en aduana; y
+XI. Recabar de las autoridades competentes y de los fedatarios, los informes y datos con que cuenten a fin de verificar el cumplimiento de las disposiciones legales en materia aduanera;
 
-XIX. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XII. Notificar al interesado los actos administrativos y las resoluciones dictadas en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XIII. Expedir las cartas credenciales o constancias de identificación de los servidores públicos que se autoricen para la práctica de las visitas domiciliarias, notificaciones, verificaciones, para la realización de embargos precautorios, así como para los demás actos derivados del ejercicio de sus atribuciones;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XIV. Designar a los visitadores, auditores, clasificadores arancelarios, verificadores y notificadores, así como al demás personal necesario para la práctica de los actos de su competencia;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XV. Imponer las multas que correspondan en el ámbito de su competencia, relacionadas con el incumplimiento de las obligaciones fiscales y aduaneras;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XVI. Designar, en su caso, depositario de las mercancías embargadas dentro del procedimiento administrativo en materia aduanera al propio interesado, conforme a las disposiciones de la Ley Aduanera; y
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XVII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 19 DE JUNIO DE 2007)</small>
 
@@ -2353,7 +2521,9 @@ XIX. Las demás que las disposiciones legales y reglamentarias le atribuyan, as�
 
 Artículo 68 sexies.- La Dirección de Programación y Recintos Fiscales, tendrá las siguientes facultades:
 
-I. Elaborar las propuestas de programación para planear la práctica de visitas domiciliarias y verificación de mercancías y vehículos de procedencia extranjera, en los términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal, y someterlas a la aprobación del Director General;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+I. Elaborar las propuestas de programación para planear la práctica de visitas domiciliarias, auditorias, revisiones de escritorio y verificación de mercancías y vehículos de procedencia extranjera, en los términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal, y someterlas a la aprobación del Director General;
 
 II. Elaborar los informes que deban proporcionarse en materia de comercio exterior a las autoridades fiscales federales, conforme al Convenio de Colaboración Administrativa en Materia Fiscal Federal;
 
@@ -2365,7 +2535,9 @@ V. Llevar el control y resguardo del archivo de sus unidades administrativas;
 
 VI. Resguardar y custodiar las mercancías, medios de transporte o vehículos que hayan sido embargados precautoriamente hasta que quede firme la resolución dictada en el procedimiento administrativo en materia aduanera o hasta que se resuelva legalmente su destino;
 
-VII. Proponer al Director General el destino de las mercancías y vehículos que hayan sido asignados a favor del Estado; así como la destrucción, donación, asignación o venta de mercancías perecederas, de fácil descomposición o deterioro o de animales vivos, embargados precautoriamente, en los términos de la legislación aduanera;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+VII. Proponer al Director General el destino de las mercancías y vehículos que hayan sido asignados a favor del Estado; así como la destrucción, donación, asignación o venta antes de emitir la resolución definitiva del procedimiento administrativo correspondiente de mercancías perecederas, de fácil descomposición o deterioro o de animales vivos, embargados precautoriamente, en los términos de la legislación aduanera;
 
 VIII. Proponer al Director General el intercambio de los vehículos que hayan sido asignados a favor del Estado con otras entidades federativas, de conformidad con la normatividad que al efecto emita la Secretaría de Hacienda y Crédito Público;
 
@@ -2373,15 +2545,57 @@ IX. Proponer al Director General la enajenación de los vehículos que hayan sid
 
 X. Remitir a la Procuraduría Fiscal del Estado los asuntos en los que proceda formular querellas y declaratoria de perjuicio del fisco derivados de los actos relativos al ejercicio de sus atribuciones;
 
-XI. Organizar y controlar el funcionamiento de los recintos fiscales establecidos para el depósito de las mercancías, medios de transporte o vehículos embargados precautoriamente;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-XII. Elaborar, para superior aprobación, los lineamientos correspondientes a efecto de mantener las mercancías, medios de transporte o vehículos en las condiciones físicas en que se encuentren al momento de su embargo; y
+XI. Organizar y controlar el funcionamiento de los recintos fiscales establecidos para el depósito de las mercancías, medios de transporte o vehículos embargados precautoriamente; así como proponer al Director General la habilitación de los lugares en que habrán de ser depositadas las mercancías y los vehículos que hayan sido embargados precautoriamente, los cuales adquirirán la categoría de recintos fiscales;
+
+XII. Elaborar, para superior aprobación, los lineamientos correspondientes a efecto de mantener las mercancías, medios de transporte o vehículos en las condiciones físicas en que se encuentren al momento de su embargo; y (sic)
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XIII. Designar depositarias de las mercancías embargadas dentro del procedimiento administrativo en materia aduanera a las autoridades fiscales de los municipios con quienes así se acuerde o a terceras personas conforme a las disposiciones de la Ley Aduanera;
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XIV. Expedir certificaciones de los expedientes relativos a los asuntos de su competencia; y
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE PROCEDIMIENTOS ADUANEROS
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+Artículo 68 sépties.- La Dirección de Procedimientos Aduaneros tendrá las siguientes atribuciones:
+
+I. Coadyuvar, al interior de la Secretaría, en el procedimiento administrativo en materia aduanera que se derive del ejercicio de las facultades de fiscalización de la Dirección General de Verificación al Comercio Exterior y de sus direcciones adscritas;
+
+II. Revisar la aplicación de las disposiciones fiscales, aduaneras y procedimientos que deban aplicar las Direcciones de Verificación de Mercancías, de Visitas Domiciliarias de Comercio Exterior, y de Programación y Recintos Fiscales;
+
+III. Coordinar acciones con las Direcciones Generales de Ingresos y de Auditoría Fiscal para
+
+IV. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos competencia de la Dirección General de Verificación al Comercio Exterior y sus direcciones adscritas;
+
+V. Verificar y determinar conforme a la Ley Aduanera, la naturaleza, estado, origen y demás características de las mercancías de procedencia extranjera, así como determinar, cuando proceda, su clasificación arancelaria, valor comercial y su valor en aduana;
+
+VI. Remitir a la Procuraduría Fiscal del Estado los asuntos en los que proceda formular querellas y declaratoria de perjuicio del fisco, derivados de los actos de fiscalización de los impuestos federales coordinados en materia de comercio exterior, así como informar de los hechos que pudieran constituir delitos imputables a los servidores públicos adscritos a la Dirección General de Verificación al Comercio Exterior en el desempeño de sus funciones;
+
+VII. Resolver, en los casos en que no se determine crédito fiscal, el levantamiento del embargo precautorio y la entrega de las mercancías, medios de transporte o vehículos embargados precautoriamente, antes de la conclusión del procedimiento aduanero;
+
+VIII. Recabar de los servidores públicos y de los fedatarios públicos los informes y datos en materia de comercio exterior que tengan con motivo de sus funciones, así como autorizar prorrogas para su presentación, y mantener la comunicación y coordinación con las autoridades aduaneras federales y las demás autoridades locales del Estado, para el ejercicio de las funciones de fiscalización en materia de comercio exterior;
+
+IX. Notificar a los interesados los actos administrativos y resoluciones dictadas por la Dirección General de Verificación al Comercio Exterior y sus direcciones adscritas;
+
+X. Dar seguimiento en la Procuraduría Fiscal del Estado, de los juicios, investigaciones o procedimientos derivados de los actos de fiscalización en materia de comercio exterior;
+
+XI. Informar a las autoridades competentes que las mercancías o vehículos objeto del procedimiento administrativo en materia aduanera han pasado a propiedad del fisco federal y gestionar que se asignen posteriormente al Estado conforme a la normatividad aplicable;
+
+XII. Expedir certificaciones de los expedientes relativos a los asuntos competencia de la Dirección General de Verificación al Comercio Exterior; y
 
 XIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
-
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE ADMINISTRACIÓN DE RECURSOS HUMANOS
-
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE DESARROLLO DE RECURSOS HUMANOS
 
 ## TÍTULO QUINTO. DE LAS FACULTADES Y ORGANIZACIÓN DE LA SUBSECRETARÍA DE ADMINISTRACIÓN Y DE SUS UNIDADES ADMINISTRATIVAS
 
@@ -2491,31 +2705,7 @@ XI. Suscribir, previo acuerdo del subsecretario del ramo, convenios de promoció
 
 XII. Coordinar y supervisar las acciones para el ingreso, profesionalización y evaluación de los servidores públicos sujetos al Servicio Civil de Carrera del Poder Ejecutivo.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE RELACIONES LABORALES Y PRESTACIONES
-
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-Artículo 74 bis.- La Dirección de Relaciones Laborales y Prestaciones, tendrá las siguientes facultades:
-
-I. Aplicar en el sistema de nómina los descuentos que por diversas prestaciones, incidencias laborales u otros conceptos, deban practicarse a los servidores públicos de las dependencias y, en su caso, entidades de la Administración Pública del Estado;
-
-> <small>(F. DE E., P.O. 17 DE NOVIEMBRE DE 2006)</small>
-
-II. Difundir el contenido de las prestaciones pactadas de conformidad con los acuerdos y convenios celebrados entre el Titular del Poder Ejecutivo y los titulares de las entidades paraestatales, con los representantes sindicales de las dependencias y entidades;
-
-III. Vigilar el cumplimiento de las disposiciones laborales aplicables a los servidores públicos de la Administración Pública del Estado;
-
-IV. Participar en los procesos de negociación colectiva de trabajo que se celebren entre las dependencias y entidades de la Administración Pública del Estado y los sindicatos correspondientes, brindando la asesoría correspondiente;
-
-V. Asesorar y atender a las dependencias y entidades de la Administración Pública del Estado en la prevención de conflictos laborales;
-
-> <small>(F. DE E., P.O. 17 DE NOVIEMBRE DE 2006)</small>
-
-VI. Dar seguimiento a la atención que reciben los servidores públicos de la Administración Pública del Estado de los servicios médicos, riesgos de trabajos y seguridad social; y
-
-VII. Las demás que las disposiciones legales, reglamentarias y administrativas le atribuyen, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 14 DE DICIEMBRE DE 2007)</small>
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE ADMINISTRACIÓN DE RECURSOS HUMANOS
 
 ###### Artículo 73.
 
@@ -2547,19 +2737,7 @@ IX. Elaborar para firma del Director General, las constancias de retenciones de 
 
 X. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### SECCIÓN CUARTA. DE LA DIRECCIÓN DEL SERVICIO CIVIL DE CARRERA
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2007)</small>
-
-Artículo 74 ter.- La Dirección del Servicio Civil de Carrera tendrá las siguientes facultades:
-
-I. Planear, organizar y dirigir la operación del Servicio Civil de Carrera en las dependencias de la Administración Pública Estatal;
-
-II. Dar seguimiento a la implantación del Servicio Civil de Carrera del Poder Ejecutivo;
-
-III. Efectuar análisis e investigaciones y formular propuestas para el desarrollo del Servicio Civil de Carrera; y
-
-IV. Las demás que se le atribuyan en el Reglamento del Servicio Civil de Carrera del Poder Ejecutivo del Estado de Guanajuato, así como en otras disposiciones legales y reglamentarias, y aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE DESARROLLO DE RECURSOS HUMANOS
 
 ###### Artículo 74.
 
@@ -2597,9 +2775,45 @@ VIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, as
 
 > <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE ADQUISICIONES Y SUMINISTROS
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE RELACIONES LABORALES Y PRESTACIONES
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE CONTROL PATRIMONIAL
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
+Artículo 74 bis.- La Dirección de Relaciones Laborales y Prestaciones, tendrá las siguientes facultades:
+
+I. Aplicar en el sistema de nómina los descuentos que por diversas prestaciones, incidencias laborales u otros conceptos, deban practicarse a los servidores públicos de las dependencias y, en su caso, entidades de la Administración Pública del Estado;
+
+> <small>(F. DE E., P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+II. Difundir el contenido de las prestaciones pactadas de conformidad con los acuerdos y convenios celebrados entre el Titular del Poder Ejecutivo y los titulares de las entidades paraestatales, con los representantes sindicales de las dependencias y entidades;
+
+III. Vigilar el cumplimiento de las disposiciones laborales aplicables a los servidores públicos de la Administración Pública del Estado;
+
+IV. Participar en los procesos de negociación colectiva de trabajo que se celebren entre las dependencias y entidades de la Administración Pública del Estado y los sindicatos correspondientes, brindando la asesoría correspondiente;
+
+V. Asesorar y atender a las dependencias y entidades de la Administración Pública del Estado en la prevención de conflictos laborales;
+
+> <small>(F. DE E., P.O. 17 DE NOVIEMBRE DE 2006)</small>
+
+VI. Dar seguimiento a la atención que reciben los servidores públicos de la Administración Pública del Estado de los servicios médicos, riesgos de trabajos y seguridad social; y
+
+VII. Las demás que las disposiciones legales, reglamentarias y administrativas le atribuyen, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN DEL SERVICIO CIVIL DE CARRERA
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+Artículo 74 ter.- La Dirección del Servicio Civil de Carrera tendrá las siguientes facultades:
+
+I. Planear, organizar y dirigir la operación del Servicio Civil de Carrera en las dependencias de la Administración Pública Estatal;
+
+II. Dar seguimiento a la implantación del Servicio Civil de Carrera del Poder Ejecutivo;
+
+III. Efectuar análisis e investigaciones y formular propuestas para el desarrollo del Servicio Civil de Carrera; y
+
+IV. Las demás que se le atribuyan en el Reglamento del Servicio Civil de Carrera del Poder Ejecutivo del Estado de Guanajuato, así como en otras disposiciones legales y reglamentarias, y aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
 ### CAPÍTULO TERCERO. DE LA DIRECCIÓN GENERAL DE RECURSOS MATERIALES Y SERVICIOS GENERALES
 
@@ -2635,7 +2849,7 @@ VI. Establecer y controlar el inventario de los bienes muebles de la administrac
 
 VII. Participar en el Comité de Adquisiciones, Arrendamientos y Contratación de Servicios y en el de Enajenaciones del Gobierno del Estado.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE SERVICIOS GENERALES
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE ADQUISICIONES Y SUMINISTROS
 
 ###### Artículo 77.
 
@@ -2659,7 +2873,7 @@ VIII. Integrar el padrón de proveedores del Gobierno del Estado con base en lo 
 
 IX. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### SECCIÓN CUARTA. DE LA COORDINACIÓN OPERATIVA
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE CONTROL PATRIMONIAL
 
 ###### Artículo 78.
 
@@ -2685,9 +2899,7 @@ IX. Proponer, para aprobación superior, el programa anual de contratación y re
 
 X. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE REDES Y TELECOMUNICACIONES
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2007)</small>
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE SERVICIOS GENERALES
 
 ###### Artículo 79.
 
@@ -2713,29 +2925,7 @@ IX. Emitir los dictámenes técnicos de los vehículos al servicio del Gobierno 
 
 X. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE ADMINISTRACIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2007)</small>
-
-Artículo 83 bis.- La Dirección de Administración de Tecnologías de la Información tendrá las siguientes facultades:
-
-I. Coordinar las acciones que en materia de tecnologías de la información implemente la Secretaría;
-
-II. Proponer, para aprobación superior, las políticas de seguridad de la información; planes de contingencia, continuidad de las operaciones y recuperación de desastres; procedimientos y prácticas en materia de tecnologías de información y telecomunicaciones;
-
-III. Administrar, conjuntamente con la Dirección de Redes y Telecomunicaciones, los recursos tecnológicos para la optimización de los servicios;
-
-IV. Establecer la metodología de trabajo, políticas y prácticas para los proyectos y servicios de la Dirección General de Tecnologías de la Información y Telecomunicaciones;
-
-V. Supervisar y dar seguimiento a las metas, planes y líneas de acción de la Dirección General de Tecnologías de la Información y Telecomunicaciones;
-
-VI. Establecer mecanismos de participación e integración entre las distintas áreas de tecnologías de la información del Gobierno del Estado, con el objetivo de alinear sus proyectos con la estrategia gubernamental;
-
-VII. Llevar a cabo la investigación de nuevas prácticas, modelos y desarrollos tecnológicos acordes a los objetivos trazados en los planes y programas del Gobierno del Estado; y
-
-VIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 14 DE DICIEMBRE DE 2007)</small>
+#### SECCIÓN CUARTA. DE LA COORDINACIÓN OPERATIVA
 
 ###### Artículo 80.
 
@@ -2809,27 +2999,9 @@ XII. Realizar las acciones relativas al empleo de la firma electrónica certific
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE SISTEMAS ESTRATÉGICOS DE INFORMACIÓN
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE REDES Y TELECOMUNICACIONES
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2007)</small>
-
-Artículo 83 ter.- La Dirección de Sistemas Estratégicos de Información tendrá las siguientes facultades:
-
-I. Ejecutar los procedimientos de soporte técnico del Sistema Integral de la Hacienda Pública, así como de los sistemas de información que estén a su cargo;
-
-II. Definir normas, políticas y procedimientos, para el funcionamiento de los diferentes módulos del Sistema Integral de la Hacienda Pública;
-
-III. Mantener la integridad de la información de los diferentes usuarios del Sistema Integral de la Hacienda Pública;
-
-IV. Capacitar a los usuarios del Sistema Integral de la Hacienda Pública;
-
-V. Investigar modelos y desarrollos tecnológicos que puedan ser aprovechados en el Sistema Integral de la Hacienda Pública y en las dependencias y entidades de la Administración Pública Estatal;
-
-VI. Gestionar la infraestructura necesaria del Sistema Integral de la Hacienda Pública para su disponibilidad y operación; y
-
-VII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 14 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 83.
 
@@ -2853,6 +3025,52 @@ VII. Las demás que las disposiciones legales y reglamentarias le atribuyan, as�
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 14 DE DICIEMBRE DE 2007)</small>
 
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE ADMINISTRACIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+Artículo 83 bis.- La Dirección de Administración de Tecnologías de la Información tendrá las siguientes facultades:
+
+I. Coordinar las acciones que en materia de tecnologías de la información implemente la Secretaría;
+
+II. Proponer, para aprobación superior, las políticas de seguridad de la información; planes de contingencia, continuidad de las operaciones y recuperación de desastres; procedimientos y prácticas en materia de tecnologías de información y telecomunicaciones;
+
+III. Administrar, conjuntamente con la Dirección de Redes y Telecomunicaciones, los recursos tecnológicos para la optimización de los servicios;
+
+IV. Establecer la metodología de trabajo, políticas y prácticas para los proyectos y servicios de la Dirección General de Tecnologías de la Información y Telecomunicaciones;
+
+V. Supervisar y dar seguimiento a las metas, planes y líneas de acción de la Dirección General de Tecnologías de la Información y Telecomunicaciones;
+
+VI. Establecer mecanismos de participación e integración entre las distintas áreas de tecnologías de la información del Gobierno del Estado, con el objetivo de alinear sus proyectos con la estrategia gubernamental;
+
+VII. Llevar a cabo la investigación de nuevas prácticas, modelos y desarrollos tecnológicos acordes a los objetivos trazados en los planes y programas del Gobierno del Estado; y
+
+VIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE SISTEMAS ESTRATÉGICOS DE INFORMACIÓN
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
+Artículo 83 ter.- La Dirección de Sistemas Estratégicos de Información tendrá las siguientes facultades:
+
+I. Ejecutar los procedimientos de soporte técnico del Sistema Integral de la Hacienda Pública, así como de los sistemas de información que estén a su cargo;
+
+II. Definir normas, políticas y procedimientos, para el funcionamiento de los diferentes módulos del Sistema Integral de la Hacienda Pública;
+
+III. Mantener la integridad de la información de los diferentes usuarios del Sistema Integral de la Hacienda Pública;
+
+IV. Capacitar a los usuarios del Sistema Integral de la Hacienda Pública;
+
+V. Investigar modelos y desarrollos tecnológicos que puedan ser aprovechados en el Sistema Integral de la Hacienda Pública y en las dependencias y entidades de la Administración Pública Estatal;
+
+VI. Gestionar la infraestructura necesaria del Sistema Integral de la Hacienda Pública para su disponibilidad y operación; y
+
+VII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 14 DE DICIEMBRE DE 2007)</small>
+
 #### SECCIÓN CUARTA. UNIDAD DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2007)</small>
@@ -2868,10 +3086,6 @@ III. Colaborar en el desarrollo de sistemas informáticos para la prestación de
 IV. Efectuar análisis e investigaciones y formular propuestas para el empleo de la firma electrónica certificada, así como para difundir su uso y el de los medios electrónicos en el Estado de Guanajuato; y
 
 V. Las demás que se le atribuyan en la Ley sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Guanajuato y sus Municipios, su Reglamento en el Poder Ejecutivo, así como en otras disposiciones legales y reglamentarias, y aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
-
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE APLICACIÓN PRESUPUESTAL
-
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE RECURSOS HUMANOS
 
 ### CAPÍTULO QUINTO. DE LA DIRECCIÓN GENERAL ADMINISTRATIVA
 
@@ -2905,31 +3119,63 @@ VII. Coadyuvar a la integración del anteproyecto de presupuesto de egresos de l
 
 VIII. Rendir informes periódicos al Secretario, por conducto del Subsecretario del ramo, y a los titulares de las unidades administrativas de la Secretaría, sobre el ejercicio de sus presupuestos autorizados;
 
-IX. Coordinar, proporcionar, conducir y controlar el mantenimiento y conservación de los bienes muebles e inmuebles a cargo de la Secretaría;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE 2008)</small>
 
-X. Coadyuvar con la Secretaría de la Gestión Pública y con los auditores externos, en la práctica de auditorías a las unidades administrativas de la Secretaría;
+IX. Coordinar, controlar y dar seguimiento al mantenimiento y conservación de los bienes muebles e inmuebles a cargo de la Secretaría; integrar y mantener actualizados los registros y padrones previstos en la legislación fiscal;
 
-XI. Coordinar la elaboración y actualización de los inventarios muebles asignados a las unidades administrativas de la Secretaría;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE 2008)</small>
 
-XII. Instrumentar, en coordinación con los titulares de las unidades administrativas de la Secretaría, las acciones necesarias o convenientes para la mejor organización y funcionamiento de la dependencia;
+X. Dar seguimiento permanente a las observaciones y recomendaciones que se emitan a las unidades administrativas de la Secretaria, con motivo de las auditorías, visitas, inspecciones o revisiones realizadas por los órganos auditores competentes;
 
-XIII. Vigilar y procurar el cabal cumplimiento de las condiciones generales de trabajo por el personal de la Secretaría;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE 2008)</small>
 
-XIV. Organizar y apoyar la realización de eventos especiales de la Secretaría;
+XI. Realizar revisiones periódicas a las unidades administrativas de la Secretaría con la finalidad de verificar que los procesos en los que intervengan se ajusten a las disposiciones normativas aplicables, proponiendo en su caso las mejoras o medidas conducentes;
 
-XV. Suscribir los contratos de prestación de servicios por honorarios, honorarios asimilados a salarios y servicios eventuales, hasta por el monto que mediante Acuerdo determine el Secretario;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE 2008)</small>
 
-XVI. Suscribir los formatos de pagos a terceros y gastos de operación emitidos por las unidades administrativas de la Secretaría, pudiendo delegar esta facultad cuando sea necesario al servidor público que designe; y (sic)
+XII. Coadyuvar con la Secretaria de la Gestión Pública y con los auditores externos, en la práctica de auditorias a las unidades administrativas de la Secretaría;
 
-(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2006)
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE 2008)</small>
 
-XVII. Coordinar el programa anual de compras de la Secretaría, así como su aplicación;
+XIII. Coordinar la elaboración y actualización de los inventarios muebles asignados a las unidades administrativas de la Secretaria;
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE 2008)</small>
 
-XVIII. Coordinar la integración y actualización de los manuales de organización y de sistemas y procedimientos de trabajo que se requieran para el mejor desempeño de las funciones encomendadas a la Secretaría.
+XIV. Instrumentar, en coordinación con los titulares de las unidades administrativas de la Secretaría, las acciones necesarias o convenientes para la mejor organización y funcionamiento de la dependencia;
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE SERVICIOS GENERALES
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE 2008)</small>
+
+XV. Vigilar y procurar el cabal cumplimiento de las condiciones generales de trabajo por el personal de la Secretaría;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE 2008)</small>
+
+XVI. Organizar y apoyar la realización de eventos especiales de la Secretaria;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE 2008)</small>
+
+XVII. Suscribir los contratos de prestación de servicios por honorarios, honorarios asimilados a salarios y servicios eventuales, hasta por el monto que mediante Acuerdo determine el Secretario;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE 2008)</small>
+
+XVIII. Suscribir los formatos de pagos a terceros y gastos de operación emitidos por las unidades administrativas de la Secretaria, pudiendo delegar esta facultad cuando sea necesario al servidor público que designe;
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE 2008)</small>
+
+XIX. Coordinar el programa anual de compras de la Secretaria, así como su aplicación;
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE 2008)</small>
+
+XX. Coordinar la integración y actualización de los manuales de organización y de sistemas y procedimientos de trabajo que se requieran para el mejor desempeño de las funciones encomendadas a la Secretaría;
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE 2008)</small>
+
+XXI. Suscribir los contratos de adquisiciones de bienes muebles y prestación de servicios que requiera la Secretaria, cuando deriven de la adjudicación directa de partidas liberadas y en los casos en que se solicite y autorice la liberación de las mismas; y
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE 2008)</small>
+
+XXII. Suscribir y autorizar las solicitudes y afectaciones presupuestales correspondientes a las unidades administrativas de la Secretaria, con cargo a su presupuesto aprobado.
+
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE APLICACIÓN PRESUPUESTAL
 
 ###### Artículo 86.
 
@@ -2937,21 +3183,33 @@ La Dirección de Aplicación Presupuestal, tendrá las siguientes facultades:
 
 I. Vigilar la correcta aplicación y ejercicio del presupuesto autorizado de la Secretaría;
 
-II. Tramitar los pagos por concepto de compras liberadas a la Secretaría, y de los proveedores de materiales y prestadores de servicios, mediante el registro del gasto a través del Sistema Integral de Hacienda Pública;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+II. Tramitar los pagos a proveedores por concepto de compras y servicios liberados a la Secretaría, mediante el registro del gasto a través del Sistema Integral de Hacienda Pública;
 
 III. Realizar la gestión de reembolso del fondo revolvente de las diferentes unidades administrativas de la Secretaría, mediante el registro del gasto a través del Sistema Integral de Hacienda Pública;
 
-IV. Revisar que toda la documentación que se presente para trámite de pago, y que esta contenida en los formatos de Pagos a Terceros, Gastos de Operación y anexo 2 de Gastos a Reserva de Comprobar, cumplan con los requisitos que establecen las disposiciones fiscales;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-V. Realizar de manera conjunta con las unidades administrativas de la Secretaría, los procesos de Gastos a reserva de comprobar, Reserva de recursos para el Programa Anual de Compras, Adecuaciones presupuestarias compensadas, Creación y pago de pasivos, Recalendarización del gasto, Reclasificación de movimientos; mediante el registro a través del Sistema lntegral de Hacienda Pública;
+IV. Revisar que toda la documentación que se presente para trámite de pago o como comprobación del gasto, cumplan con los requisitos que establecen las disposiciones fiscales y administrativas aplicables;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+V. Registrar en el Sistema Integral de Hacienda Pública los requerimientos de las unidades administrativas de la Secretaría, relacionados con el ejercicio de sus presupuestos autorizados, como: gastos a reserva de comprobar, reserva de recursos para el programa anual de compras, adecuaciones presupuestarias, creación y pago de pasivos, adecuaciones al calendario de gasto, reclasificación de movimientos y registro de intereses y comisiones bancarias;
 
 VI. Rendir informes periódicos a los titulares de las diferentes unidades administrativas de la Secretaría, sobre el ejercicio de sus presupuestos autorizados;
 
-VII. Coadyuvar a la integración del anteproyecto de presupuesto de egresos de la secretaría y vigilar su cumplimiento;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-VIII. Llevar las cuentas bancarias y los controles auxiliares necesarios para el manejo del fondo revolvente asignado al Despacho del C. Secretario y de la Dirección General Administrativa, debiendo realizar las conciliaciones correspondientes; y
+VII. Coordinar la integración del anteproyecto de presupuesto de egresos de la secretaría y vigilar su cumplimiento;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+VIII. Llevar el control y realizar las conciliaciones de las cuentas bancarias necesarias para la administración de los fondos revolventes asignados al Despacho del Secretario y a la Dirección General Administrativa; así como la cuenta utilizada para llevar a cabo la gestión de reembolso del fondo revolvente de las unidades administrativas de la Secretaría; y
 
 IX. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE RECURSOS HUMANOS
 
 ###### Artículo 87.
 
@@ -2969,35 +3227,73 @@ V. Coordinar el proceso de profesionalización de los servidores públicos a tra
 
 VI. Coordinar y operar el proceso de elaboración de la nómina, descuentos por incidencias laborales u otros conceptos, del personal adscrito a la Secretaría;
 
-VII. Vigilar el cumplimiento de las disposiciones laborales aplicables a los servidores públicos del Poder Ejecutivo; y
+VII. Vigilar el cumplimiento de las disposiciones laborales aplicables a los servidores públicos del Poder Ejecutivo; y (sic)
 
-VIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+VIII. Vigilar y procurar el cabal cumplimiento de las condiciones generales de trabajo por el personal de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+IX. Coordinar la integración y actualización de los manuales de organización y de sistemas y procedimientos de trabajo que se requieran para el mejor desempeño de las funciones encomendadas a la Secretaría; y
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+X. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE SERVICIOS GENERALES
 
 ###### Artículo 88.
 
 La Dirección de Servicios Generales, tendrá las siguientes facultades:
 
-I. Coordinar y supervisar las actividades del personal en las áreas de mantenimiento, impresos, conmutador, vigilancia, intendencia, choferes, jardineros, centro de copiado, oficialía de partes y reparación de equipo de oficina, con el fin de satisfacer las necesidades de las áreas solicitantes de dichos servicios;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+I. Coordinar y supervisar las actividades del personal en las áreas de mantenimiento, impresos, conmutador, vigilancia, intendencia, choferes, jardineros, centro de copiado, oficialía de partes y reparación de equipo de oficina, con el fin de atender oportunamente las necesidades de las áreas solicitantes de dichos servicios;
 
-II. Coordinar las actividades entre la Dirección General de Recursos Materiales y Servicios Generales y las unidades responsables de la Secretaría en cuanto a la reparación de mobiliario y equipo así como de los bienes inmuebles;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+II. Coordinar las actividades y trámites entre la Dirección General de Recursos Materiales y Servicios Generales y las unidades responsables de la Secretaría, relacionados con solicitudes de mantenimiento a bienes muebles e inmuebles;
 
 III. Verificar que la planta emergente de energía esté en óptimas condiciones;
 
 IV. Apoyar en la realización de eventos especiales de la Secretaría;
 
-V. Controlar el padrón de los teléfonos portátiles y radios;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-VI. Supervisar el mantenimiento preventivo y correctivo realizado por los talleres mecánicos a los vehículos del Despacho, Subsecretarías y Dirección General Administrativa;
+V. Apoyar y coordinar la elaboración del anteproyecto de presupuesto de egresos de los servicios básicos de las unidades responsables de la Secretaría;
 
-VII. Apoyar a las Unidades Administrativas de la Secretaría, en el trámite y orientación en caso de siniestro de inmuebles y vehículos;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-VIII. Mantener actualizado el padrón vehicular de la Secretaría mediante solicitudes de bajas y reasignaciones o nuevas adquisiciones de vehículos, asegurando el control de los expedientes mediante documentos de acreditación del estado vigente de los vehículos de la Secretaria y las requisiciones de servicio mecánico de los mismos;
+VI. Mantener actualizados los padrones de los servicios básicos contratados para las unidades responsables de la Secretaría, tales como agua, energía eléctrica, telefonía móvil y convencional, combustibles y lubricantes;
 
-IX. Analizar y apoyar en la elaboración de los reportes de consumos de combustible detectando las incongruencias en el abastecimiento; y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-X. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
+VII. Controlar, vigilar y analizar los consumos de los servicios básicos de las unidades responsables;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+VIII. Mantener actualizado el padrón vehicular de la Secretaría;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+IX. Coordinar y controlar, conjuntamente con las unidades responsables de la Secretaría, el mantenimiento preventivo y correctivo del parque vehicular de la misma;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+X. Apoyar y asesorar a las unidades administrativas de la Secretaría en los trámites correspondientes para el caso de siniestros ocurridos a bienes muebles e inmuebles;
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XI. Coordinar la elaboración y actualización de los inventarios muebles asignados a las unidades administrativas de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XII. Coordinar el programa anual de compras de la Secretaría, así corno su aplicación; y
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Secretario, el Subsecretario del ramo o su Director General.
 
 ### CAPÍTULO SEXTO. DE LA UNIDAD DEL SERVICIO CIVIL DE CARRERA
 
@@ -3160,3 +3456,9 @@ El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al
 P.O. 14 DE DICIEMBRE DE 2007.
 
 Artículo Único.- El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
