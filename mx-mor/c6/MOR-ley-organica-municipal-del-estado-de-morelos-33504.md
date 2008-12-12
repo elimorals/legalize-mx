@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2008-11-05"
+last_updated: "2008-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -537,17 +537,23 @@ Es obligación del Ayuntamiento saliente hacer la entrega formal de los informes
 
 ### CAPÍTULO I. DE LOS AYUNTAMIENTOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 29.
 
-Para resolver los asuntos de su competencia, los Ayuntamientos sesionarán cuando menos una vez cada semana y cuantas veces sea necesario cuando se susciten problemas de urgente resolución; asimismo podrán declararse en sesión permanente cuando la importancia del asunto lo requiera.
+Para resolver los asuntos de su competencia, los Ayuntamientos sesionarán cuando menos cada quince días y cuantas veces sea necesario cuando se susciten problemas de urgente resolución; asimismo podrán declararse en sesión permanente cuando la importancia del asunto lo requiera.
 
 El Cabildo podrá ser convocado a sesionar a petición por escrito de cuando menos una tercera parte de sus integrantes, cuando la importancia del asunto lo justifique; en este caso sólo se ocupará del asunto o asuntos expuestos en la solicitud correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 30.
 
-Las sesiones del Ayuntamiento, serán ordinarias, extraordinarias y solemnes.
+Las sesiones del Ayuntamiento serán ordinarias, extraordinarias y solemnes.
 
-I.- Las sesiones ordinarias se llevarán a cabo por lo menos una vez por semana, y se permitirá el libre acceso al público y a los servidores del Ayuntamiento; excepto cuando por acuerdo del Cabildo y por la naturaleza de los asuntos a tratar deba tener el carácter de privada.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+I.- Las sesiones ordinarias se llevarán a cabo por lo menos cada quince días, o antes si la naturaleza del asunto lo amerita y se permitirá el libre acceso al público y a los servidores del Ayuntamiento, excepto cuando por acuerdo del Cabildo y por la naturaleza de los asuntos a tratar deban tener el carácter de privada.
 
 El Ayuntamiento deberá determinar, para cada año, el calendario de sesiones ordinarias a celebrar;
 
@@ -1025,7 +1031,7 @@ Cuando dos o más centros urbanos, situados en territorio de dos o más Municipi
 
 Los Planes Municipales, los programas que de ellos se desprendan y las adecuaciones consecuentes a los mismos, que sean aprobados por los Ayuntamientos, serán publicados en el Periódico Oficial del Gobierno del Estado de Morelos y se difundirán a nivel municipal, por publicaciones en gacetas o periódicos locales.
 
-Los Planes de Desarrollo Municipal podrán ser modificados o suspendidos cuando cambien drásticamente, a juicio del Ayuntamiento, las condiciones de carácter económico, social, político o demográfico en que se elaboraron. En este caso deberá seguirse el mismo procedimiento que se utilizó para su elaboración y aprobación.
+Los Planes de Desarrollo Municipal podrán ser modificados o suspendidos cuando cambien drásticamente, a juicio del Ayuntamiento, las condiciones de carácter económico, social, político o demográfico en que se elaboraron. En este caso deberá seguirse el mismo procedimiento que su utilizó para se elaboración y aprobación.
 
 ###### Artículo 54.
 
@@ -2267,7 +2273,7 @@ II.- La realización conjunta de programas de desarrollo común;
 
 III.- La organización de empresas para la prestación de servicios públicos de alcance intermunicipal;
 
-IV.- La instrucción de programas de urbanismo y planeación del crecimiento de los centros de población. y
+IV.- La instrucción de programas de urbanismo y planeación del crecimiento de los centros de población, y
 
 V.- Las demás acciones que tiendan a promover el bienestar y progreso de sus respectivas comunidades.
 
@@ -2580,6 +2586,12 @@ Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para
 ###### ARTÍCULO TERCERO.
 
 Para los efectos del reglamento del Congreso del estado la presente reforma entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
+
+P.O. 12 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
 
 ###### ARTÍCULO CUARTO.
 
