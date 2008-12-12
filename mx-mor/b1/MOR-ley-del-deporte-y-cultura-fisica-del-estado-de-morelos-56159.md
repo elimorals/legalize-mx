@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-deporte-y-cultura-fisica-del-estado-de-morelos-56159"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2007-07-04"
+last_updated: "2008-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL DEPORTE Y CULTURA FISICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de julio de 2007.
 
@@ -231,7 +231,9 @@ El Consejo se integrará por:
 
 a) El titular del Ejecutivo Estatal, quien lo presidirá;
 
-b) El Secretario de Educación;
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+b) El Secretario de Desarrollo Humano y Social;
 
 c) El Secretario de Salud;
 
@@ -353,9 +355,11 @@ XIII. Las demás que les confieran las disposiciones normativas aplicables y est
 
 ### CAPÍTULO PRIMERO. DEL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 26.
 
-El Instituto del Deporte y Cultura Física del Estado de Morelos es un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Educación, con residencia en la Ciudad de Cuernavaca, Morelos.
+El Instituto del Deporte y Cultura Física del Estado de Morelos es un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Desarrollo Humano y Social, con residencia en la ciudad de Cuernavaca, Morelos.
 
 ### CAPÍTULO SEGUNDO. DEL OBJETO Y ATRIBUCIONES DEL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
@@ -451,7 +455,9 @@ III. Un Consejo Consultivo, que será el Consejo Estatal del Deporte y Cultura F
 
 La Junta de Gobierno es el órgano máximo del Instituto y se integrará por los siguientes miembros propietarios:
 
-I. El Secretario de Educación, como titular de la dependencia coordinadora del sector, quien la presidirá por sí o por el servidor que éste designe;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+I. El Secretario de Desarrollo Humano y Social, como titular de la dependencia coordinadora del sector, quien la presidirá por sí o por el servidor que éste designe;
 
 II. El titular de la Secretaría de Finanzas y Planeación;
 
@@ -537,9 +543,11 @@ XIII. Aprobar el calendario anual de sesiones, y
 
 XIV. Las demás que expresamente disponga la presente Ley y la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 37.
 
-El Instituto, por conducto del Director General, rendirá anualmente a la Secretaría de Educación un informe general de labores realizadas durante el ejercicio, previamente aprobado por la Junta de Gobierno y apegado a su proyecto de desarrollo.
+El Instituto, por conducto del Director General, rendirá anualmente a la Secretaría de Desarrollo Humano y Social, un informe general de labores realizadas durante el ejercicio, previamente aprobado por la Junta de Gobierno y apegado a su proyecto de desarrollo.
 
 ###### ARTÍCULO 38.
 
@@ -1392,3 +1400,17 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano del Gobierno del Estado.
+
+SEGUNDO. Los Directores Generales de los organismos públicos descentralizados a que se refiere el presente Decreto, contarán con un plazo de veinte días siguientes a esta publicación para solicitar la modificación respectiva en el Registro Público de Organismos del Estado de Morelos, de acuerdo con lo dispuesto por el artículo 34 de la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos.
+
+TERCERO. Los órganos de gobierno de los organismos públicos descentralizados a que se refiere el presente Decreto, contarán con un plazo de treinta días hábiles siguientes a esta publicación para realizar las modificaciones necesarias a sus respectivos estatutos orgánicos, y una vez aprobadas, solicitar la inscripción de las mismas en el Registro Público de Organismos del Estado de Morelos, de conformidad con lo dispuesto por la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos.
+
+CUARTO. Se derogan todas aquellas disposiciones que contravengan a lo dispuesto al presente Decreto.
+
+QUINTO. Remítase al Poder Ejecutivo para su correspondiente publicación.
