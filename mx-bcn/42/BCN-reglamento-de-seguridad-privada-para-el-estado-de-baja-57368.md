@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-seguridad-privada-para-el-estado-de-baja-57368"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-19"
-last_updated: "2007-10-19"
+last_updated: "2008-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57368&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE SEGURIDAD PRIVADA PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -55,33 +55,53 @@ III.- Instituto: El Instituto Estatal de Seguridad Pública;
 
 IV.- Ley: La Ley de Seguridad Pública y Bases de Coordinación para el Estado de Baja California;
 
-V.- Personal Operativo: Las personas físicas contratadas y/o designadas por los Prestadores y/o Solicitantes, para realizar funciones de instalación de alarmas, monitoreo, vigilancia, supervisión, resguardo, traslado, transporte o localización de bienes o personas, o cualquier otra actividad relacionada con la prestación de Servicios de Seguridad Privada, salvo las que sean de carácter exclusivamente administrativo; independientemente del carácter laboral o civil de la relación contractual que tengan con los Prestadores o Solicitantes;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-VI.- Prestadores: Las personas referidas en el artículo 38 de la Ley, que presten Servicios de Seguridad Privada, en el Estado de Baja California;
+V.- Modificación: Es el acto administrativo por el que se amplían o restringen los términos en los que se otorgó la autorización o su revalidación;
 
-VII. Prestatarios: Las personas físicas o morales a favor de quienes se presten los Servicios de Seguridad Privada;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-VIII.- Procuraduría: La Procuraduría General de Justicia del Estado de Baja California;
+VI.- Personal Operativo: Las personas físicas contratadas y/o designadas por los prestadores y/o solicitantes, para realizar funciones de instalación de alarmas, monitoreo, vigilancia, supervisión, resguardo, traslado, transporte o localización de bienes o personas, o cualquier otra actividad relacionada con la prestación de servicios de seguridad privada, salvo las que sean de carácter exclusivamente administrativo; independientemente del carácter laboral o civil de la relación contractual que tengan con los prestadores o solicitantes;
 
-IX.- Reglamento: El presente Reglamento de Seguridad Privada para el Estado de Baja California;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-X.- Revalidación: El acto administrativo por el que la Secretaría, por conducto de la Unidad, prorroga la vigencia de la Autorización;
+VII.- Prestadores: Las personas referidas en el artículo 38 de la Ley, que presten servicios de seguridad privada en el Estado de Baja California;
 
-XI.- Secretaría: La Secretaría de Seguridad Pública del Estado de Baja California;
+VIII.- Prestatarios: Las personas físicas o morales a favor de quienes se presten los servicios de seguridad privada;
 
-XII.- Secretario: El titular de la Secretaría;
+IX.- Procuraduría: La Procuraduría General de Justicia del Estado de Baja California;
 
-XIII.- Servicios de Seguridad Privada: Los servicios de seguridad privada a que se refiere el artículo 36 de la Ley, en cualquiera de las modalidades y clasificaciones previstas en el presente Reglamento; así como las demás funciones, acciones y actividades relacionadas con la seguridad privada, que sean prestadas o realizadas por particulares;
+X.- Reglamento: El Reglamento de Seguridad Privada para el Estado de Baja California;
 
-XIV.- Servidores Públicos: Las personas referidas en el artículo 91 primer párrafo, de la Constitución Política del Estado Libre y Soberano de Baja California;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-XV.- Solicitantes: Las personas físicas y/o morales que soliciten la Autorización, su Revalidación, ampliación y/o modificación;
+XI.- Revalidación: El acto administrativo por el que la Secretaría, por conducto de la Unidad de Servicios de Seguridad Privada de la Subsecretaría del Sistema Estatal de Seguridad Pública de la Secretaría de Seguridad Pública, ratifica la validez de la Autorización;
 
-XVI.- Subsecretaría: La Subsecretaría del Sistema Estatal de Seguridad Pública de la Secretaría;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-XVII.- Titular de la Unidad: El jefe de la Unidad, y
+XII.- Secretaria: La Secretaría de Seguridad Pública;
 
-XVIII.- Unidad: La Unidad de Servicios de Seguridad Privada de la Subsecretaría.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XIII.- Secretario: El titular de la Secretaria de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XIV.- Servicios de seguridad privada: Los servicios de seguridad privada a que se refiere la Ley, en cualquiera de las modalidades y clasificaciones previstas en el presente Reglamento; así como las demás funciones, acciones y actividades relacionadas con la seguridad privada, que sean prestadas o realizadas por particulares;
+
+XV.- Servidores Públicos: Las personas referidas en el articulo 9I primer párrafo, de la Constitución Política del Estado Libre y Soberano de Baja California;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XVI.- Solicitantes: Las personas físicas y/o morales que soliciten la Autorización, Revalidación o la modificación de autorización;
+
+XVII.- Subsecretaria: La Subsecretaría del Sistema Estatal de Seguridad Pública de la Secretaria;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XVIII.- Titular de la Unidad: El jefe de la Unidad de Servicios de Seguridad Privada de la Subsecretaria, y
+
+XIX.- Unidad: La Unidad de Servicios de Seguridad Privada de la Subsecretaria.
 
 ###### Artículo 3.
 
@@ -99,9 +119,13 @@ V.- Seguridad por medio de canes;
 
 VI.- Traslado y protección de personas;
 
-VII.- Investigación privada, y
+VII.- Investigación privada, y (sic)
 
-VIII.- Las demás actividades que por su naturaleza se encuentren relacionadas directa o indirectamente con las funciones de seguridad privada.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+VIII.- Servicios de blindaje de vehículos, y
+
+IX.- Las demás actividades que por su naturaleza se encuentren relacionadas directa o indirectamente con las funciones de seguridad privada.
 
 ###### Artículo 4.
 
@@ -143,7 +167,9 @@ IV.- Solicitar el auxilio de la Procuraduría, de la autoridad municipal que cor
 
 V.- Evaluar y supervisar la prestación de los Servicios de Seguridad Privada que se presten en el Estado;
 
-VI.- Expedir, negar, cancelar o suspender la Autorización, así como su Revalidación, ampliación y/o modificación, en los casos y condiciones previstas en la Ley y en el presente Reglamento;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+VI.- Expedir, negar, cancelar o suspender la Autorización, así como su revalidación y/o modificación, en los casos y condiciones previstas en la Ley y en el presente Reglamento;
 
 VII.- Substanciar y resolver el procedimiento para la aplicación de las sanciones previstas en la Ley y en el presente Reglamento, por incumplimiento de las disposiciones legales aplicables a la prestación de los Servicios de Seguridad Privada;
 
@@ -159,15 +185,27 @@ XII.- Expedir anualmente, previo pago de derechos, las credenciales de identific
 
 XIII.- Cancelar la Autorización de los Prestadores independientes, por fallecimiento de éstos, sin necesidad de substanciar el procedimiento establecido en este Reglamento;
 
-XIV.- Imponer y ejecutar las sanciones previstas en la Ley y en el Reglamento, por incumplimiento de los Prestadores a las disposiciones aplicables a la prestación de los Servicios de Seguridad Privada, y
+XIV.- Imponer y ejecutar las sanciones previstas en la Ley y en el Reglamento, por incumplimiento de los Prestadores a las disposiciones aplicables a la prestación de los Servicios de Seguridad Privada, y (sic)
 
-XV.- Las demás que establezcan el presente Reglamento y otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-### CAPÍTULO TERCERO. DE LA AUTORIZACIÓN
+XV.- Imponer las medidas cautelares previstas en el presente Reglamento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XVI.- Aplicar los mecanismos necesarios de evaluación, con el objeto de verificar el cumplimiento por parte de los Prestadores de lo establecido en los artículos 20 y 67 fracciones XVI y XVII del Reglamento, en los términos previstos en el numeral 74, párrafos segundo y tercero del citado Reglamento;
+
+XVII.- Las demás que establezcan el presente Reglamento y otras disposiciones aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+### CAPÍTULO TERCERO. DE LA AUTORIZACIÓN, REVALIDACIÓN Y MODIFICACIÓN
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 10.
 
-Para obtener la Autorización, los Solicitantes deberán presentar solicitud escrita ante la Secretaría, por conducto de la Unidad, acompañando original y copia de:
+Para obtener la Autorización, los Solicitantes deberán presentar solicitud escrita ante la Secretaría, por conducto de la Unidad, acompañando original y dos copias de los documentos siguientes:
 
 I.- El acta constitutiva, cuando se trate de personas morales, o la clave única del registro de población, acta de nacimiento o carta de naturalización, cuando se trate de personas físicas, en donde se acredite la nacionalidad mexicana de dichas personas físicas o morales;
 
@@ -179,11 +217,15 @@ IV.- El permiso para la instalación y uso de equipo de radiocomunicación, expe
 
 V.- La relación del equipo de radiocomunicación que se utilizará para la prestación de los Servicios de Seguridad Privada, en la que se describan las características específicas del mismo;
 
-VI.- El manual de operaciones del Personal Operativo;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+VI.- El manual de operaciones del Personal Operativo, por cada modalidad de las previstas en el artículo 3 del Reglamento que se solicite;
 
 VII.- El documento en el que se señale la circunscripción territorial para la cual se solicita la Autorización;
 
-VIII.- La documentación que acredite su domicilio legal para oír y recibir notificaciones, y en su caso, el de las sucursales que se encuentren ubicadas en el Estado de Baja California;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+VIII.- La documentación que acredite su domicilio legal para oír y recibir notificaciones, y en su caso, el de las sucursales que se encuentren ubicadas en el Estado de Baja California, acompañando plano de ubicación de la matriz como de las sucursales;
 
 IX.- La relación de los socios o propietarios de la negociación y del Personal Operativo propuesto, en su caso; que contenga su nombre, domicilio, lugar y fecha de nacimiento, así como el nombre de sus padres;
 
@@ -191,7 +233,9 @@ X.- La documentación que acredite que el Personal Operativo satisface los requi
 
 XI.- La relación del equipo de protección personal que se utilizará para la prestación de los Servicios de Seguridad Privada, en la que se describan las características específicas del mismo, tales como la marca, tipo, modelo, número de serie y número de placas de circulación, tratándose de vehículos de motor;
 
-XII.- La tarjeta de circulación vigente de los vehículos de motor que serán utilizados para la prestación de los Servicios de Seguridad Privada;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XII.- La relación de vehículos que contenga la marca, tipo, modelo, número de serie, número de placas y tarjeta de circulación vigente, que serán utilizados para la prestación de los servicios de seguridad privada;
 
 XIII.- La licencia vigente para la portación y registro de cada una de las armas de fuego que serán utilizadas para la prestación de los Servicios de Seguridad Privada, expedidos por la autoridad competente, así como los demás elementos de identificación que la Unidad les solicite por escrito, en relación con dichas armas;
 
@@ -199,19 +243,31 @@ XIV.- Una fotografía a color de las insignias y de cualquier aditamento que pre
 
 XV.- Una fotografía frontal, trasera, lateral izquierda y lateral derecha, a color, de cuerpo entero, del uniforme que utilizará el Personal Operativo para la prestación de los Servicios de Seguridad Privada, incluyendo sus accesorios;
 
-XVI.- Una relación que contenga el nombre del jefe o jefes de operación;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-XVII.- Un ejemplar del programa permanente de capacitación que se aplicará al Personal Operativo y al jefe de operaciones, que sea compatible con los lineamientos y programas que establezca el Instituto; incluyendo las materias a impartir, la duración de los cursos, el calendario anual de capacitación, y en su caso el nombre de la persona física o moral responsable de su impartición;
+XVI.- Una relación que contenga el nombre del jefe o jefes de operación, acompañada de los requisitos establecidos por el artículo 66 del presente Reglamento;
 
-XVIII.- El permiso de uso de suelo otorgado por el ayuntamiento respectivo, para el lugar donde tengan ubicados sus establecimientos, y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-XIX.- Los demás que señalen la Ley y el presente Reglamento.
+XVII.- Un ejemplar del programa permanente de capacitación por cada modalidad solicitada de las previstas en el artículo 3 del Reglamento, que se aplicará al personal operativo y al jefe de operaciones, que incluya los lineamientos y programas que establezca el Instituto, así como, las materias a impartir, la duración de los cursos, el calendario anual de capacitación, el nombre de la persona física o moral responsable de su impartición, quien deberá contar con la validación otorgada por el Instituto y la documentación que acredite los conocimientos del capacitador;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XVIII.- El permiso de uso de suelo para local comercial otorgado por el ayuntamiento respectivo, otorgado al lugar donde tengan ubicados sus establecimientos, y (sic)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XIX.- La documentación que acredite que los socios, representantes legales o propietarios que pretendan prestar servicios de seguridad privada, así como el resto del personal que no realiza funciones operativas, no estén sujetos a proceso penal o haber sido condenados por delito doloso;
+
+XX.- Los demás que señalen la Ley y el presente Reglamento.
 
 ###### Artículo 11.
 
 La Unidad no dará trámite a solicitud alguna, si no se encuentran satisfechos en su totalidad los requisitos establecidos en el artículo 10 de este Reglamento, salvo que por la modalidad de los Servicios de Seguridad Privada a prestarse, no sea necesario cumplir con la totalidad de éstos.
 
-Una vez recibida la documentación proporcionada por los Solicitantes y satisfechos la totalidad de los requisitos aplicables, la Unidad contará con el plazo de treinta días hábiles, para dar contestación a los Solicitantes, otorgando o negando la Autorización.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+Una vez recibida la documentación proporcionada por los Solicitantes y satisfechos la totalidad de los requisitos aplicables, la Unidad contará con el plazo de treinta días hábiles, para dar contestación a los Solicitantes, otorgando o negando la Autorización, salvo que se actualice el supuesto que establece el artículo 13 del presente Reglamento.
 
 Dentro del plazo señalado en el párrafo anterior, la Unidad podrá practicar las visitas que estime necesarias, a fin de verificar que los Servicios de Seguridad Privada puedan ser prestados adecuadamente y solicitará la opinión de la Procuraduría y de la autoridad municipal correspondiente de conformidad con el artículo 40 de la Ley.
 
@@ -223,17 +279,31 @@ Al solicitar la opinión a que se refiere el artículo 40 de la Ley, la Unidad p
 
 La opinión desfavorable de la Procuraduría y/o de la autoridad municipal correspondiente, deberá ser notificada por la Unidad a los Solicitantes, remitiéndoles copia de la misma y de los documentos enviados por la Procuraduría y/o la autoridad municipal correspondiente para sustentar dicha opinión, cuando la naturaleza del asunto lo permita; con el fin de que los Solicitantes manifiesten lo que a sus intereses convenga, y en su caso, solventen las observaciones que se formulen en relación con su solicitud, para lo cual dispondrán del término de diez días hábiles contados a partir de la fecha en que se les haga la notificación.
 
-En el supuesto de que los Solicitantes subsanen las observaciones que se les formulen, la Unidad solicitará a la autoridad o autoridades que emitieron la opinión desfavorable, que reconsideren su opinión.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-Si los Solicitantes no subsanan las observaciones formuladas en el término establecido en el primer párrafo de este artículo, o si la autoridad o autoridades que emitieron la opinión desfavorable no modifican su opinión, el Titular de la Unidad, dentro del término de cinco días hábiles, dictará acuerdo fundado y motivado, negando la Autorización y lo notificará a los Solicitantes.
+En el supuesto de que los Solicitantes subsanen las observaciones que se les formulen, la Unidad solicitará a la autoridad o autoridades que emitieron la opinión desfavorable, que analicen los elementos aportados por los Solicitantes para subsanar las observaciones, y en base a ello, reconsideren su opinión y emitan una nueva en el término de diez días hábiles, contados a partir del día siguiente al de la recepción de la solicitud.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+Si los Solicitantes no subsanan las observaciones formuladas en el término establecido en el primer párrafo de este artículo, el Titular de la Unidad, dentro del término de cinco días hábiles, dictará acuerdo fundado y motivado, negando la Autorización y lo notificará a los Solicitantes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+Si la autoridad o autoridades que emitieron la opinión desfavorable no dan contestación a la solicitud de reconsideración de su opinión, en el término concedido para ello, el Titular de la Unidad, dentro del término de cinco días hábiles, dictará acuerdo fundado y motivado, otorgando la Autorización y lo notificará a los Solicitantes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+Si la autoridad o autoridades que emitieron la opinión desfavorable, la ratifican dentro del término concedido para la emisión de la nueva opinión, el Titular de la Unidad, dentro del término de cinco días hábiles, dictará acuerdo fundado y motivado, negando la Autorización y lo notificará a los Solicitantes en los términos previstos en el presente Reglamento.
 
 ###### Artículo 14.
 
 En caso de que la Procuraduría y la autoridad municipal correspondiente, emitan opinión favorable y se encuentren satisfechos los requisitos del artículo 10 del presente Reglamento, el Titular de la Unidad expedirá la Autorización a favor de los Solicitantes.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 15.
 
-La expedición de la Autorización, así como su Revalidación, modificación y ampliación, estarán sujetas al pago previo de los derechos correspondientes, mismo que deberá realizarse dentro del término de diez días hábiles siguientes a la notificación del oficio en que se requiera el pago a los Solicitantes; el trámite será negado si dicho pago no se acredita ante la Unidad dentro del término señalado en el presente artículo.
+El estudio y evaluación de factibilidad para prestar o continuar prestando los Servicios de Seguridad Privada, ya sea por autorización, revalidación o modificación, está sujeto al pago previo de la cuota correspondiente, mismo que deberá realizarse dentro del término de diez días hábiles siguientes a la notificación del oficio en que se requiera dicho pago a los Solicitantes; el trámite será negado si dicho pago no se cubre ante la Unidad dentro del término concedido para ello.
 
 ###### Artículo 16.
 
@@ -243,37 +313,45 @@ Las industrias, establecimientos fabriles o comerciales, conjuntos habitacionale
 
 La Autorización será anual, particular e intransferible, y deberá contener el número de la Autorización, el nombre completo y el domicilio de los Prestadores autorizados, la vigencia de la Autorización, la modalidad o modalidades autorizadas y los límites territoriales de operación.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 18.
 
-Los Prestadores deberán solicitar la Revalidación de la Autorización, o bien deberán dar aviso escrito a la Secretaría en el sentido de que no revalidarán, cuando menos con veinte días hábiles de anticipación a la fecha de su vencimiento. En caso de que la solicitud o el aviso se efectúen en forma extemporánea o no se efectúen, se impondrá la multa que corresponda conforme al Capítulo de sanciones establecido en el presente Reglamento.
+Los Prestadores deberán solicitar la Revalidación de la Autorización, o bien, deberán dar aviso por escrito a la Secretaria en el sentido de que no revalidarán, cuando menos con sesenta días naturales de anticipación a la fecha del vencimiento de su autorización vigente.
 
-Trascurrida la fecha de vencimiento para la Revalidación de la Autorización, los Prestadores tendrán un término improrrogable de veinte días hábiles para cumplir en forma extemporánea con la Revalidación, previo pago de las multas impuestas a que se refiere el presente artículo.
+Una vez transcurrido el término a que se refiere el párrafo anterior sin que los Prestadores hayan realizado en su caso la Revalidación, la Unidad procederá a la cancelación automática de la Autorización.
 
-Una vez transcurrido el término a que se refiere el párrafo anterior sin que los Prestadores hayan realizado la Revalidación extemporánea, la Unidad procederá a la cancelación de la Autorización. Una vez cancelada la Autorización, no se dará trámite a una nueva solicitud proveniente de los Prestadores sancionados.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 19.
 
-Los Prestadores que pretendan revalidar, ampliar o modificar su Autorización, deberán presentar solicitud por escrito ante la Unidad.
+Los Prestadores que pretendan revalidar o modificar su Autorización, deberán presentar solicitud por escrito ante la Unidad.
 
-El Titular de la Unidad ordenará las visitas de inspección que considere necesarias, con el fin de verificar que se satisfagan los requisitos necesarios para la expedición de la Revalidación y/o para la ampliación o modificación de la Autorización, y de resultar necesario, señalar a los Solicitantes los requisitos que deberán satisfacer o actualizar para dar tramite a lo solicitado. El Titular de la Unidad, dentro de los diez días hábiles siguientes, resolverá sobre la procedencia o improcedencia de la solicitud correspondiente.
+El Titular de la Unidad ordenará las visitas de inspección que considere necesarias, con el fin de verificar que se satisfagan los requisitos necesarios para la expedición de la Revalidación o Modificación de la Autorización, y de resultar necesario, señalar a los Solicitantes los requisitos que deberán satisfacer o actualizar para dar trámite a lo solicitado. El Titular de la Unidad, dentro de los diez días hábiles siguientes a la recepción de la solicitud, resolverá sobre la procedencia o improcedencia de la solicitud correspondiente.
 
-Tratándose de la ampliación y/o de la modificación de la Autorización, se seguirá el mismo procedimiento y se exigirán los mismos requisitos aplicables a la autorización, en lo que resulten conducentes.
+Tratándose de Revalidación o la Modificación de la Autorización, se seguirá el mismo procedimiento y se exigirán los mismos requisitos aplicables a la Autorización, en lo que resulten conducentes.
 
 ###### Artículo 20.
 
 Los Prestadores que soliciten la Autorización para prestar Servicios de Seguridad Privada en forma independiente, deberán acreditar que cuentan con la capacitación y adiestramiento necesarios para ello, comprobándolo a través del certificado de evaluación emitido por persona física o moral que cumpla con los lineamientos y programas de capacitación y adiestramiento autorizados por el Instituto.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 21.
 
-La Autorización, su Revalidación, ampliación y/o modificación, deberán colocarse permanentemente durante su vigencia, en lugar visible de las oficinas e instalaciones principales de los Prestadores.
+El documento original que contiene la Autorización, Revalidación o Modificación, deberá colocarse de manera permanente durante su vigencia, en lugar visible de las oficinas principales de los Prestadores.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 22.
 
-La Secretaría publicará semestralmente en el Periódico Oficial del Estado y en uno o más diarios de amplia circulación en la Entidad, una relación de los Prestadores autorizados, la cual contendrá como mínimo el número de Autorización, el nombre completo y domicilio de los Prestadores autorizados, la vigencia de la Autorización, la modalidad o modalidades de los Servicios de Seguridad Privada y los límites territoriales de operación autorizados, así como los requisitos para obtener la Autorización, su Revalidación, ampliación y/o modificación.
+La Secretaria publicará semestralmente en el Periódico Oficial del Estado y en uno o más diarios de amplia circulación en la Entidad, una relación de los Prestadores autorizados, la cual contendrá como mínimo el número de Autorización, el nombre completo y domicilio de los Prestadores autorizados, la vigencia de la Autorización, la modalidad o modalidades de los Servicios de Seguridad Privada y los límites territoriales de operación autorizados, así como los requisitos para obtener la Autorización, su Revalidación o Modificación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 23.
 
-La Secretaría cancelará el procedimiento para la obtención de la Autorización, Revalidación, ampliación o modificación de la misma, en forma automática, debiendo dejar constancia escrita en el expediente respectivo, cuando:
+La Secretaría cancelará el procedimiento para la obtención de la Autorización, Revalidación o Modificación de la misma, en forma automática, debiendo dejar constancia escrita en el expediente respectivo, cuando:
 
 I.- Sea notificada de la muerte de los Solicitantes, tratándose de personas físicas;
 
@@ -291,7 +369,9 @@ Quienes pretendan prestar Servicios de Seguridad Privada en la modalidad de segu
 
 I.- Contar con el personal, equipo, vehículos de motor, sistemas, instalaciones e infraestructura necesarios para prestar adecuadamente los Servicios de Seguridad Privada, y
 
-II.- Que los Servicios de Seguridad Privada se proporcionarán las veinticuatro horas, todos los días del año en forma ininterrumpida, cuando incluyan el monitoreo o verificación de alarmas, videovigilancia o sistemas de ubicación de bienes o personas.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+II.- Que los Servicios de Seguridad Privada se proporcionen las veinticuatro horas, todos los días del año en forma ininterrumpida, cuando incluyan el monitoreo o verificación de alarmas, vídeo vigilancia o sistemas de ubicación de bienes o personas.
 
 ###### Artículo 25.
 
@@ -333,31 +413,39 @@ Los procedimientos de instalación y operación de los equipos y/o sistemas de s
 
 #### SECCIÓN PRIMERA. DE LA VENTA, INSTALACIÓN Y/O MONITOREO DE ALARMAS
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 28.
 
-Los Prestadores que cuenten con Autorización, deberán sujetarse a los mecanismos establecidos por la Unidad, para favorecer el intercambio de información en relación con los reportes de alarmas activadas, hacia los centros de atención de emergencias del Estado.
+Los Prestadores que cuenten con Autorización, deberán sujetarse a los mecanismos establecidos por la Unidad, para favorecer el intercambio de información en relación con los reportes de alarmas activadas, hacia los Centros de Control, Comando, Comunicación y Cómputo del Estado.
 
-Es obligación de los Prestadores, otorgar a la Secretaría las facilidades necesarias para la instalación de sistemas que permitan aplicar los mecanismos de intercambio de información.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 29.
 
-Queda prohibido a los Prestadores en la modalidad de seguridad electrónica bajo la clasificación de instalación y/o monitoreo de alarmas, instalar sistemas de alarmas que marquen automáticamente a los centros de atención de emergencias del Estado y/o que reproduzcan un mensaje de voz previamente grabado.
+Queda prohibido a los Prestadores en la modalidad de seguridad electrónica bajo la clasificación de instalación y/o monitoreo de alarmas, instalar sistemas de alarmas que marquen automáticamente a los Centros de Control, Comando, Comunicación y Cómputo del Estado y/o que reproduzcan un mensaje de voz previamente grabado.
 
 ###### Artículo 30.
 
 Los Prestadores en la modalidad de seguridad electrónica bajo la clasificación de instalación y/o monitoreo de alarmas, establecerán contractualmente con los Prestatarios, las condiciones del uso y manejo del código maestro de su sistema de alarma y le informarán por escrito sobre las consecuencias de su mal uso; de igual manera, los Prestadores deberán informar a los Prestatarios por escrito si reservan para sí algún otro código con privilegios de configuración, instalación o acción similar sobre el sistema de alarma de los Prestatarios y bajo qué condiciones será utilizado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 31.
 
-Previamente al otorgamiento de la Autorización y al inicio de la operación, la central de monitoreo de los Prestadores deberá contar con los recursos técnicos suficientes para la recepción de las señales de alarma, así como para informar y solicitar el apoyo a los centros de atención de emergencias.
+Previamente al otorgamiento de la Autorización y al inicio de la operación, la central de monitoreo de los Prestadores deberá contar con los recursos técnicos suficientes para la recepción de las señales de alarma, así como para informar y solicitar el apoyo a los Centros de Control, Comando, Comunicación y Cómputo.
 
-Los Prestadores están obligados a conectar los sistemas de sus centrales de monitoreo con los centros de atención de emergencias en el Estado, para lo cual deberán cumplir con los requerimientos técnicos del manual de operaciones que la Secretaría establezca para tal efecto, mismo que deberá ser actualizado anualmente.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+Los Prestadores están obligados a conectar los sistemas de sus centrales de monitoreo con los Centros de Control, Comando, Comunicación y Cómputo en el Estado, para lo cual deberán cumplir con los requerimientos técnicos del manual de operaciones que la Secretaría establezca para tal efecto, mismo que deberá ser actualizado anualmente.
 
 El Personal Operativo adscrito a las centrales de monitoreo de los Prestadores deberá ser capacitado previamente por personal de la Secretaría sobre el uso correcto del sistema, a efecto de eficientizar el servicio de manera conjunta.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 32.
 
-Para utilizar el servicio de los centros de atención de emergencias en el Estado, los Prestadores del servicio de monitoreo de alarmas, deberán geo-referenciar la ubicación de los Prestatarios en la cartografía que la Secretaría les proporcione previamente.
+Para utilizar el servicio de los Centros de Control, Comando, Comunicación y Cómputo en el Estado, los Prestadores del servicio de monitoreo de alarmas, deberán geo-referenciar la ubicación de los Prestatarios en la cartografía que la Secretaría les proporcione previamente.
 
 La información referida en el primer párrafo de este artículo será actualizada al día siguiente en que los Prestatarios hayan contratado el servicio de monitoreo, en los términos que se establezcan en el manual de operación señalado en el segundo párrafo del artículo que antecede.
 
@@ -471,7 +559,9 @@ V.- Contar con sistemas de alarma que se encuentren conectados a una central de 
 
 VI.- Contar cuando menos con tres personas por unidad, para el transporte de valores;
 
-VII.- Contar cuando menos con blindaje de tres niveles en los vehículos para el transporte de valores;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+VII.- Contar, tratándose del traslado y custodia de bienes o valores, con vehículos blindados y exhibir constancia expedida por el proveedor del servicio de blindaje con la que acredite el nivel del mismo, cuando menos con alguno de los niveles de blindaje señalados por la Norma Oficial Mexicana correspondiente;
 
 VIII.- Presentar a la Secretaría el contrato de prestación de servicios y comprobar que el personal de las empresas de seguridad privada y/o de los cuerpos de seguridad pública de los Ayuntamientos que contraten para el traslado de valores, cuentan con licencia colectiva vigente de armas de fuego en su caso;
 
@@ -489,9 +579,13 @@ Las funciones de vigilancia interna son aquellas realizadas por personas física
 
 Quienes pretendan obtener la Autorización exclusivamente bajo la modalidad de vigilancia interna, están eximidos del cumplimiento de los siguientes requisitos:
 
-a) Presentación del acta constitutiva, cuando se trate de personas morales, o de la clave única de registro de población, cuando se trate de personas físicas, y
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-b) Presentación del permiso para la instalación y uso de equipo de radiocomunicación, expedido por la autoridad competente.
+a) Presentación del permiso para la instalación y uso de equipo de radiocomunicación, expedido por la autoridad competente, y
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+b) Permiso de uso de suelo otorgado por el ayuntamiento respectivo, al lugar donde tengan ubicados sus establecimientos.
 
 ###### Artículo 50.
 
@@ -539,9 +633,11 @@ X.- Proporcionar a la Secretaría, fotografías de los canes de cuerpo entero, d
 
 ### CAPÍTULO OCTAVO. DE LOS SERVICIOS DE INVESTIGACIÓN PRIVADA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 53.
 
-Los Servicios de Seguridad Privada en la modalidad de Investigación Privada, tienen por objeto la realización de una o varias de las siguientes actividades:
+Los Servicios de Seguridad Privada en la modalidad de Investigación Privada, tienen por objeto la realización de una o varias de las siguientes clasificaciones:
 
 I.- Búsqueda de personas;
 
@@ -571,7 +667,9 @@ Los Servicios en la modalidad de investigación privada, sólo podrán prestarse
 
 Los Prestadores en la modalidad de investigación privada deberán abstenerse de intervenir o interferir en asuntos que sean competencia del Ministerio Público, de los Cuerpos de Seguridad Pública del Estado o de cualquier otra autoridad competente.
 
-### CAPÍTULO NOVENO. DE LA PROTECCIÓN DE PERSONAS
+> <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACION], P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+### CAPÍTULO NOVENO. DEL TRASLADO Y PROTECCIÓN DE PERSONAS
 
 ###### Artículo 57.
 
@@ -597,9 +695,29 @@ IV.- Asegurarse de que el Personal Operativo que porte armas de fuego, realice l
 
 V.- Contar con un padrón de Prestatarios que incluya su nombre y domicilio, el horario de la prestación de los Servicios de Seguridad Privada y el nombre del Personal Operativo que le será asignado.
 
-### CAPÍTULO DÉCIMO. DE LAS NOTIFICACIONES
+> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-### CAPÍTULO DÉCIMO PRIMERO. DE LAS OBLIGACIONES
+### CAPÍTULO DÉCIMO. DE LOS SERVICIOS DE BLINDAJE DE VEHÍCULOS
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+Artículo 59 BIS.- La Secretaría por conducto de la Unidad deberá conformar y actualizar un padrón de las personas físicas o morales que realicen actividades vinculadas con los servicios de blindaje de vehículos en el Estado.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+Artículo 59 TER.- La Secretaría por conducto de la Unidad, está facultada para requerir a las personas físicas o morales que realicen actividades vinculadas con el servicio de blindaje de vehículos en el Estado, y estos estarán obligados a proporcionar de manera mensual y por escrito, un informe que contendrá por lo menos la siguiente información:
+
+I.- Marca, tipo, modelo, número de serie, color y el número de placas de circulación de los vehículos de motor a los que se les realice cualquier servicio de blindaje;
+
+II.- Nivelo tipo de blindaje que proporcione a cada vehículo;
+
+III.- Nombre de la persona física o moral para quien se realiza el servicio de blindaje, así como copia de la documentación que acredite su identidad y domicilio; y
+
+IV.- La justificación del servicio.
+
+> <small>(REFORMADA SU DENOMINACION [N. DE E. REUBICADO, ANTES CAPITULO DECIMO], P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO DÉCIMO PRIMERO. DE LAS NOTIFICACIONES
 
 ###### Artículo 60.
 
@@ -647,7 +765,9 @@ Las notificaciones a que se refieren los artículos 61 y 62 de este Reglamento, 
 
 Las notificaciones a que se refiere el artículo anterior, surtirán sus efectos a los cinco días hábiles siguientes a aquel en que la cedula se fije en los estrados ubicados en el acceso de la Unidad o la Coordinación que corresponda según el domicilio de los Prestadores, debiendo contener el nombre de la persona o personas a quienes va dirigida la notificación, el documento que se hace saber y la fecha en que se fija. De todo lo cual se tomará razón en el expediente respectivo, asentándose la fecha en que surtió efectos la notificación.
 
-### CAPÍTULO DÉCIMO SEGUNDO. DE LAS PROHIBICIONES
+> <small>(REFORMADA SU DENOMINACION [N. DE E. REUBICADO, ANTES CAPITULO DECIMO PRIMERO], P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO DÉCIMO SEGUNDO. DE LAS OBLIGACIONES
 
 ###### Artículo 66.
 
@@ -663,7 +783,9 @@ IV.- Haber concluido la educación secundaria, lo cual deberán comprobar median
 
 V.- Presentar una carta en la que describan sus antecedentes laborales;
 
-VI.- No haber sido condenados por delito grave o doloso; lo cual deberán acreditar mediante la presentación de constancia de antecedentes penales, expedida por la autoridad competente en el Estado, en la que se especifique la ausencia de antecedentes penales por dichos delitos;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+VI.- No haber sido condenados o estar sujeto a proceso penal por delito grave o doloso; lo cual, deberán acreditar mediante la presentación de constancia de antecedentes penales, expedida por la autoridad competente en el Estado, en la que se especifique la ausencia de antecedentes penales por dichos delitos;
 
 VII.- Presentar certificado médico de buena salud, expedido por institución sanitaria competente, o por un médico particular debidamente autorizado para ejercer la profesión, en donde se haga constar que no tienen impedimento físico para realizar las actividades del puesto a desarrollar;
 
@@ -673,13 +795,19 @@ Los exámenes practicados ante laboratorio químico deberán comprobarse mediant
 
 Los exámenes practicados mediante prueba casera, deberán acreditarse a través de constancia expedida por los Prestadores, en la cual se especifique el nombre del Personal Operativo, el tipo de prueba practicada y la manifestación de que del resultado del examen, se desprende que el personal examinado no ha consumido ninguna de las sustancias a que se refiere el primer párrafo de esta fracción;
 
-IX.- Presentar cartilla del Servicio Militar Nacional liberada, cuando la prestación de los Servicios de Seguridad Privada requiera la portación de armas de fuego, y
+IX.- Presentar cartilla del Servicio Militar Nacional liberada, cuando la prestación de los Servicios de Seguridad Privada requiera la portación de armas de fuego, y (sic)
 
-X.- Los demás que señalen la Ley y las demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+X.- Presentar en su caso, documento expedido por instructor o institución de la materia, donde se acredite la habilidad o pericia en el manejo de canes, cuando se trate de la modalidad de seguridad por medio de canes, y
+
+XI.- Los demás que señalen la Ley y las demás disposiciones aplicables.
 
 La documentación que acredite el cumplimiento de los requisitos previstos en este artículo, deberá ser exigida por los Prestadores previamente a la contratación del Personal Operativo y deberá constar dentro de los expedientes de dicho personal, en las oficinas de los Prestadores.
 
-Quedan excluidos del cumplimiento de los requisitos referidos en este artículo, los trabajadores que realicen labores exclusivamente de carácter administrativo.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+Quedan excluidos del cumplimiento de los requisitos referidos en este artículo, con excepción del previsto en la fracción VI, los trabajadores que realicen labores exclusivamente de carácter administrativo.
 
 ###### Artículo 67.
 
@@ -719,7 +847,9 @@ VIII.- Permitir y facilitar el acceso a sus instalaciones y otorgar las facilida
 
 En caso de que los Prestadores o las personas empleadas por éstos, se nieguen a recibir la orden de inspección, se procederá en los términos previstos en el Capítulo relativo a las Visitas de Inspección, de este Reglamento;
 
-IX.- Presentar al Personal Operativo ante la Unidad de Registros de Seguridad Pública de la Secretaría, dentro del plazo de diez días hábiles contados a partir de la fecha de alta de dicho personal, para la integración del Registro Estatal de Seguridad Pública a que se refieren los artículos 22, 24 y 31 de la Ley;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+IX.- Presentar al Personal Operativo y al jefe de operaciones ante la Unidad de Registros de Seguridad Pública de la Secretaría, dentro del plazo de diez días hábiles contados a partir de la fecha de alta de dicho personal, para la integración del Sistema Estatal de Información sobre Seguridad Pública a que se refieren los artículos 22, 22 BIS, 22 QUATER, 23,24 Y 25 de la Ley;
 
 X.- Coadyuvar con las autoridades competentes mediante la ejecución de las acciones que éstas le encomienden, conforme a los convenios de colaboración previstos en la Ley;
 
@@ -743,13 +873,19 @@ XII.- Responder solidariamente de los daños y perjuicios que cause el Personal 
 
 XIII.- Hacer constar el número de la Autorización en su papelería, documentación, publicidad, gafetes y credenciales;
 
-XIV.- Remitir a la Unidad, dentro de los primeros cinco días hábiles de cada mes, el reporte detallado de sus actividades, a que se refiere el artículo 31 de la Ley y la fracción XI de este artículo; o en su caso, informar que no se llevaron a cabo actividades durante el mes;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XIV.- Remitir a la Unidad, dentro de los primeros cinco días hábiles de cada mes, el reporte detallado de las actividades a que se refiere el artículo 29 de la Ley y la fracción XI de este artículo; o en su caso, informar que no se llevaron a cabo durante el mes que corresponda;
 
 XV.- Notificar a la Unidad el cambio del jefe de operación dentro, de los tres días hábiles siguientes a dicho cambio;
 
-XVI.- Capacitar, en las modalidades y clasificaciones de los Servicios de Seguridad Privada a prestarse, a las personas que pretendan incorporar como Personal Operativo, debiendo exhibir certificado de evaluación, otorgado por persona física o moral que cumpla con los lineamientos y programas de capacitación y adiestramiento, autorizados por el por el Instituto, en un término que no podrá exceder de treinta días hábiles contados a partir de la fecha de ingreso;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-XVII.- Mantener permanentemente capacitado del Personal Operativo y al jefe o jefes de operación, con base en los programas señalados en el artículo 10, fracción XVII de este Reglamento;
+XVI.- Capacitar, en las modalidades de los Servicios de Seguridad Privada a prestarse, a las personas que pretendan incorporar como Personal Operativo, debiendo exhibir certificado de evaluación, otorgado por persona física o moral que cumpla con los lineamientos y programas de capacitación y adiestramiento autorizados por el Instituto, en un término que no podrá exceder de treinta días hábiles contados a partir de la fecha de ingreso;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XVII.- Mantener permanentemente capacitado al Personal Operativo y al jefe o jefes de operaciones, con base en los programas señalados en el artículo 10, fracción XVII de este Reglamento;
 
 XVIII.- Verificar, previamente a la contratación o subcontratación de Servicios de Seguridad Privada de otros Prestadores, que éstos cuenten con la Autorización;
 
@@ -805,9 +941,11 @@ Los Prestadores independientes entregarán a la Unidad, la credencial que ésta 
 
 Los casos de pérdida o robo del gafete o credencial de identificación personal se notificarán a la Unidad dentro de los tres días hábiles siguientes a la fecha en que los Prestadores tengan conocimiento del robo o extravío. Para los efectos previstos en el penúltimo párrafo del artículo 68 de este Reglamento y en este párrafo, los Prestadores deberán instruir a su Personal Operativo para que les comuniquen de inmediato la pérdida, destrucción, robo o daño de los gafetes o credenciales de identificación personal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 70.
 
-Para la incorporación de nuevos elementos a su Personal Operativo, los Prestadores deberán presentar a la Unidad las solicitudes correspondientes, que deberán contener el nombre, fecha y lugar de nacimiento, domicilio y nombre de los padres de los nuevos elementos.
+Para la Incorporación de nuevos elementos a su Personal Operativo, los Prestadores deberán presentar a la Unidad las solicitudes correspondientes, que deberán contener el nombre, fecha y lugar de nacimiento, domicilio y nombre de los padres de los nuevos elementos, mismas que deberán ser acompañadas del acta de nacimiento o carta de naturalización del aspirante.
 
 La Unidad dará respuesta a las solicitudes, en un plazo de tres días hábiles contados a partir de su recepción.
 
@@ -825,9 +963,17 @@ Los Prestadores y su Personal Operativo están obligados a poner sin demora, a d
 
 Los Prestadores y el Personal Operativo, solicitarán la intervención de las autoridades competentes, cuando tengan conocimiento de hechos que presuman la comisión de un delito y en su caso, de los indicios, objetos, instrumentos y productos relacionados con el mismo.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 74.
 
-Los Prestadores diseñarán, actualizarán e instrumentarán los programas permanentes de capacitación y adiestramiento a que se refiere el artículo 10 fracción XVII del presente Reglamento, sujetándose a los lineamientos y programas que establezca el Instituto, acorde a las modalidades y clasificación de los Servicios de Seguridad Privada que les haya autorizado la Unidad, a efecto de que el Personal Operativo cuente con los conocimientos necesarios para el eficaz desempeño de sus funciones.
+Los Prestadores diseñarán, actualizarán e instrumentarán los programas permanentes de capacitación y adiestramiento a que se refiere el artículo 10 fracción XVII del presente Reglamento, sujetándose a los lineamientos y programas que establezca el Instituto, acorde a las modalidades y clasificación de los Servicios de Seguridad Privada que les haya autorizado la Unidad, a efecto de que el Personal Operativo y el jefe o jefes de operaciones, cuenten con los conocimientos necesarios para el eficaz desempeño de sus funciones.
+
+La Unidad aplicará la evaluación a que se refiere el artículo 9 fracción XVI del presente Reglamento, acorde a los instrumentos de evaluación y lineamientos que para tal efecto emita el Instituto, por lo menos al diez por ciento del Personal Operativo de manera aleatoria y al jefe o jefes de operaciones. La calificación y observaciones de las evaluaciones practicadas estarán a cargo del Instituto.
+
+El resultado de las evaluaciones se hará del conocimiento del Prestador, por conducto de la Unidad a efecto de que en su caso, subsane inmediatamente las deficiencias que en materia de capacitación y adiestramiento presente el personal operativo o el jefe o jefes de operaciones.
+
+Una vez que los resultados de dichas evaluaciones hayan sido hechos del conocimiento del prestador por parte de la Unidad y en el supuesto de que el Personal Operativo o jefe de operaciones no aprueben la segunda o subsiguiente evaluación sobre la misma materia, la Unidad procederá conforme a lo establecido por el presente Reglamento.
 
 ###### Artículo 75.
 
@@ -843,7 +989,9 @@ El Personal Operativo se ajustará a lo dispuesto por la Ley Federal de Armas de
 
 Los uniformes que serán utilizados por el Personal Operativo, deberán contener de manera visible la leyenda ''Seguridad Privada'', así como el logotipo y nombre de los Prestadores, debiendo portarlo permanentemente durante la prestación de los Servicios de Seguridad Privada, excepto cuando dicho personal se traslade de un lugar a otro con motivo del inicio o término de su jornada laboral. El diseño de los uniformes del Personal Operativo, así como el equipo e insignias de los Prestadores, deberá facilitar su identificación por parte de la ciudadanía, y permitir su distinción de los que utilicen los Cuerpos de Seguridad Pública del Estado, del gobierno federal, del Ejército, Armada y Fuerza Aérea Nacionales.
 
-### CAPÍTULO DÉCIMO TERCERO. DE LAS VISITAS DE INSPECCIÓN
+> <small>(REFORMADA SU DENOMINACION [N. DE E. REUBICADO, ANTES CAPITULO DECIMO SEGUNDO], P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+### CAPÍTULO DÉCIMO TERCERO. DE LAS PROHIBICIONES
 
 ###### Artículo 78.
 
@@ -887,11 +1035,15 @@ XVI.- Transferir o ceder la Autorización, y
 
 XVII. Las demás que se deriven de la Ley y del presente Reglamento.
 
-### CAPÍTULO DÉCIMO CUARTO. DE LAS MEDIDAS CAUTELARES
+> <small>(REFORMADA SU DENOMINACION [N. DE E. REUBICADO, ANTES CAPITULO DECIMO TERCERO], P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+### CAPÍTULO DÉCIMO CUARTO. DE LAS VISITAS DE INSPECCIÓN
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 80.
 
-Las visitas de inspección tendrán por objeto la supervisión del Personal Operativo, la verificación, control y evaluación del funcionamiento de los Servicios de Seguridad Privada, además de la revisión de las instalaciones, armamento, equipo de radiocomunicación, equipo de seguridad, vehículos, programas de capacitación y adiestramiento de los Prestadores, y la actualización permanente de su documentación, así como la verificación del cumplimiento de las disposiciones de la Ley y de este Reglamento.
+Las visitas de inspección tendrán por objeto verificar que las personas físicas o morales que presten Servicios de Seguridad Privada en el Estado, cuenten con Autorización de la Secretaria para prestar el servicio en una o varias de las modalidades previstas en el presente Reglamento, la supervisión del Personal Operativo; la verificación, control y evaluación del funcionamiento de los Servicios de Seguridad Privada, además de la revisión de las instalaciones, armamento, equipo de radiocomunicación, equipo de seguridad, vehículos, los programas de capacitación y adiestramiento de los Prestadores, así como su impartición al personal operativo y jefe de operaciones y la actualización permanente de su documentación, así como la verificación del cumplimiento de las disposiciones de la Ley y el presente Reglamento.
 
 ###### Artículo 81.
 
@@ -923,9 +1075,11 @@ VI.- El nombre de los Servidores Públicos de la Secretaría, comisionados para 
 
 Los Servidores Públicos de la Secretaría, autorizados por ésta para llevar a cabo la inspección, deberán exhibir identificación vigente con fotografía, expedida por la autoridad competente y la orden de visita a que se refiere el artículo que antecede, de la que se dejará copia a los Prestadores, a sus representantes legales, o a la persona con quién se entienda la inspección.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 85.
 
-Si los Prestadores, sus representantes legales o la persona con quien se entiende la inspección, se negaran a recibir la orden de visita, se procederá al desahogo de la inspección con el auxilio de la fuerza pública, asentándose tales hechos en el acta circunstanciada a que se refiere el artículo 86 de esta Ley. Lo anterior sin perjuicio de la aplicación de las sanciones que correspondan conforme a la Ley y a este Reglamento.
+Si los Prestadores, sus representantes legales o la persona con quien se entiende la visita de inspección, se negara a recibir la orden de visita, se procederá al desahogo de la inspección con el auxilio de la fuerza pública, asentándose tales hechos en el acta circunstanciada a que se refiere el artículo 86 de este Reglamento. Lo anterior sin perjuicio de la aplicación de las sanciones que correspondan conforme a la Ley y el Reglamento.
 
 ###### Artículo 86.
 
@@ -943,7 +1097,11 @@ III.- El domicilio completo del lugar en que se practicó la visita;
 
 IV.- El número y fecha de la orden de visita;
 
-V.- El nombre, cargo y firma de la persona con quien se entienda la inspección, así como los datos que la identifiquen, y en su caso los que acrediten su personalidad jurídica;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+V.- El nombre, cargo y firma de la persona con quien se entienda la inspección, así como los datos que la identifiquen y en su caso, los que acrediten su personalidad jurídica, quien deberá señalar el domicilio para oír y recibir notificaciones, cuando de la visita de inspección se advierta la imposición de alguna de las medidas cautelares previstas en el artículo 92 de este Reglamento.
+
+En el caso de que la persona con quien se entiende la visita de inspección no señale domicilio, se procederá en los términos del artículo 64 del presente Reglamento;
 
 VI.- El nombre, domicilio y firma de las personas que actúen como testigos;
 
@@ -977,7 +1135,9 @@ En caso de que la persona con quien se entiende la inspección o los testigos se
 
 La Secretaría podrá practicar inspecciones a toda persona física o moral que preste Servicios de Seguridad Privada en cualquiera de sus modalidades y clasificaciones, aun cuando dichas personas físicas o morales no cuenten con Autorización.
 
-### CAPÍTULO DÉCIMO QUINTO. DE LAS SANCIONES
+> <small>(REFORMADA SU DENOMINACION [N. DE E. REUBICADO, ANTES CAPITULO DECIMO CUARTO], P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+### CAPÍTULO DÉCIMO QUINTO. DE LAS MEDIDAS CAUTELARES
 
 ###### Artículo 92.
 
@@ -1011,7 +1171,9 @@ La Secretaría, por conducto de la Unidad, a efecto de poder llevar a cabo la cl
 
 Las medidas cautelares previstas en este Capítulo, de ser posible, serán notificadas por la Unidad a los Prestatarios con quienes los Prestadores afectados tengan contratos vigentes para la prestación de Servicios de Seguridad Privada. Asimismo, las medidas cautelares deberán ser publicadas en el Periódico Oficial del Estado o en uno de los diarios de mayor circulación en la Entidad, en el entendido de que el costo de las publicaciones será recuperado a través de su cobro a los Prestadores de que se trate.
 
-### CAPÍTULO DÉCIMO SEXTO. DEL PROCEDIMIENTO PARA LA APLICACIÓN DE SANCIONES
+> <small>(REFORMADA SU DENOMINACION [N. DE E. REUBICADO, ANTES CAPITULO DECIMO QUINTO], P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+### CAPÍTULO DÉCIMO SEXTO. DE LAS SANCIONES
 
 ###### Artículo 96.
 
@@ -1045,25 +1207,45 @@ II.- Se incumplan las disposiciones establecidas en el artículo 68 de este Regl
 
 III.- Incurran en cualquiera de las prohibiciones señaladas en el artículo 79 fracciones XII y XIII, de este Reglamento;
 
-IV.- Se incumpla con lo establecido en los artículos 67 fracciones I, inciso a), IV, X y XV, 69 y 71 de este Reglamento, y/o
+IV.- Se incumpla con lo establecido en los artículos 67 fracciones I, inciso a), IV, X y XV, 69 y 71 de este Reglamento, y/o (sic)
 
-V.- Se incurra en cualquier irregularidad o incumplimiento que no tenga señalada una sanción específica en la Ley, en el presente Reglamento o en las demás disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+V.- Se incurra en cualquier irregularidad o incumplimiento que no tenga señalada una sanción específica en la Ley, en el presente Reglamento o en las demás disposiciones legales aplicables, y/o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+VI.- Omita subsanar las deficiencias señaladas o en su caso no se aprueben las correspondientes evaluaciones previstas en el artículo 74 párrafos tercero y cuarto, del presente Reglamento.
 
 ###### Artículo 98.
 
 La Unidad sancionará a los Prestadores con multa de uno hasta cien veces el salario mínimo general vigente en el Estado, cuando:
 
-I.- Reincidan en cualquiera de los casos señalados en el artículo anterior, y/o;
+I.- Reincidan en cualquiera de los casos señalados en el artículo anterior, y/o; (sic)
 
-II.- Incurran en cualquiera de los supuestos o incumplan cualquiera de las disposiciones previstas en los artículos 18 primer párrafo, 67 fracciones I, incisos b), c), d), e) y f), III, VI, VII, XI, XVI, XVII, XVIII, XIX y XX, y 79 fracciones II, III, IV, VI y VII de este Reglamento.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+II.- Incurran en cualquiera de los supuestos o incumplan cualquiera de las disposiciones previstas en los artículos 18 párrafo primero, 67 fracciones I, en sus incisos b, c, d, e y f, III, VI, VII, XI, XIV, XVI, XVII, XVIII, XIX Y XX y 79 fracciones II, III, IV, VI y VII de este Reglamento, y/o;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+III.- Incumplan con lo establecido en el artículo 66 de este Reglamento.
 
 ###### Artículo 99.
 
 La Unidad sancionará a los Prestadores con multa de ciento uno hasta mil veces el salario mínimo general vigente en el Estado, cuando:
 
-I.- No cumplan con lo establecido por el artículo 31, segundo párrafo, del presente Reglamento y/o
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-II.- Incumplan las obligaciones señaladas en el artículo 67 fracción VIII, de este Reglamento.
+I.- No cumplan con lo establecido por el artículo 31, segundo párrafo, del presente Reglamento;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+II.- Incumplan las obligaciones señaladas en los artículos 67 fracción VIII y IX Y 70 de este Reglamento, y/o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+III.- No cumplan con lo señalado en cualquiera de las fracciones del artículo 59 TER, del presente Reglamento, en lo que respecta a los prestadores que se dediquen a proporcionar los servicios de blindaje de vehículos.
 
 ###### Artículo 100.
 
@@ -1077,11 +1259,19 @@ II.- Presten Servicios de Seguridad Privada sin contar con la Autorización.
 
 La Unidad sancionará a los Prestadores con suspensión de la Autorización cuando:
 
-I.- Incurran en incumplimiento de lo establecido en el artículo 79, fracciones VIII y XI del presente Reglamento.
+I.- Incurran en incumplimiento de lo establecido en el artículo 79, fracciones VIII y XI del presente Reglamento;
 
-II.- Incumplan lo establecido en los artículos 72 y 73, de éste Reglamento, y/o
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-III.- Reincidan en incumplimiento de cualquiera de las disposiciones previstas en los artículos 67 fracciones II, V, VIII, XII, XIII y 79 fracciones II, III, IV, IX y XII de este Reglamento.
+II.- Incumplan lo establecido en los artículos 72 y 73, de este Reglamento;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+III.- Reincidan en el incumplimiento de cualquiera de las disposiciones previstas en los artículos 66, 67 fracciones II, V, VIII, IX, XII, XIII, 70 y 79 fracciones II, III, IV, IX Y XII de este Reglamento, y/o;
+
+> <small>(REFORMADO [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+IV.- Impuesta la sanción por las conductas a que se refiere el artículo 99, de este Reglamento, reincidan en la conducta que dio origen a dicha sanción.
 
 La suspensión de la Autorización, prevista en este artículo, no podrá exceder de 60 días hábiles, contados a partir del día siguiente al de su notificación a los Prestadores.
 
@@ -1089,13 +1279,17 @@ La suspensión de la Autorización, prevista en este artículo, no podrá excede
 
 La Unidad sancionará a los Prestadores con la cancelación de la Autorización cuando:
 
-I.- Impuesta la sanción a que se refiere el artículo 98 fracción I, de este Reglamento, reincidan en la conducta que dio origen a dicha sanción;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+I.- Impuesta la sanción por las conductas a que se refiere el artículo 98 fracciones I y III, de este Reglamento, reincidan en la conducta que dio origen a dicha sanción;
 
 II.- Reincidan en cualquiera de los casos señalados en el artículo 98 fracción II, de este Reglamento;
 
 III.- Habiéndose suspendido la Autorización en términos del artículo anterior, reincidan en la conducta que dio origen a dicha sanción;
 
-IV.- Incurran en incumplimiento de lo establecido en los artículos 67 fracciones IX y XIV, 70, 76 y 79 fracciones V, XIV, XV y XVI, del presente Reglamento, y/o
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+IV.- Incurran en incumplimiento de lo establecido en los artículos 76 y 79 fracciones V, XIV, XV y XVI del presente Reglamento, y/o
 
 V.- Reincidan en incumplimiento de lo dispuesto en el artículo 79 fracción I, de este Reglamento.
 
@@ -1103,15 +1297,19 @@ En los casos a que se refieren las fracciones II, III, IV y V de este artículo,
 
 Una vez cancelada la Autorización de los Prestadores conforme a este artículo, la Unidad no dará trámite a nuevas solicitudes provenientes de dichos Prestadores.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 103.
 
-La Unidad sancionará a quienes presten Servicios de Seguridad privada sin contar con la Autorización, con la clausura definitiva de sus establecimientos oficinas o negocios, mediante la colocación, en los accesos y salidas de dichos establecimientos, de los engomados a que se refiere el artículo 94 de este Reglamento, independientemente de la aplicación de la sanción prevista en el artículo 100 fracción II de este Reglamento.
+La Unidad sancionará a quienes presten Servicios de Seguridad Privada sin contar con la Autorización, con la clausura provisional de sus establecimientos, oficinas o negocios, mediante la colocación en los accesos y salidas de dichos establecimientos, de los engomados a que se refiere el artículo 94 de este Reglamento, sin perjuicio de la aplicación de la sanción prevista en el artículo 100, fracción II de este Reglamento y demás disposiciones legales aplicables.
 
 ###### Artículo 104.
 
 Para los efectos de los capítulos subsecuentes, se considerarán como presuntos infractores, a quienes incumplan las disposiciones previstas en la Ley y en este Reglamento.
 
-### CAPÍTULO DÉCIMO SÉPTIMO. DE LAS RESOLUCIONES
+> <small>(REFORMADA SU DENOMINACION [N. DE E. REUBICADO, ANTES CAPITULO DECIMO SEXTO], P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+### CAPÍTULO DÉCIMO SÉPTIMO. DEL PROCEDIMIENTO PARA LA APLICACIÓN DE SANCIONES
 
 ###### Artículo 105.
 
@@ -1197,13 +1395,13 @@ La Secretaría, por conducto del Titular de la Unidad, dictará la resolución q
 
 El Titular de la Unidad, al dictar la resolución a que se refiere el artículo que antecede, deberá invariablemente resolver en la misma, en su caso, sobre el levantamiento de las medidas cautelares que se hayan impuesto en términos del Capítulo Décimo Cuarto de este Reglamento.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 116.
 
-El procedimiento para la aplicación de sanciones se sobreseerá:
+Una vez emitida la resolución derivada del procedimiento para la aplicación de sanciones previsto en este Reglamento, en la que se determine la responsabilidad de los Prestadores que no cuenten con la Autorización, la clausura provisional a que se refiere la fracción II, inciso b) del articulo 92 de este Reglamento, será definitiva en el supuesto que no cumpla con la sanción impuesta en la resolución, dentro del termino de 30 días naturales contados a partir del día siguiente hábil a la fecha de su notificación de las demás sanciones a que se hagan acreedores los Prestadores, conforme a lo establecido en el presente Reglamento.
 
-a) Por muerte del presunto infractor, y
-
-b) Por disolución o liquidación de la persona moral en contra de quien se inició el procedimiento para la aplicación de sanciones.
+Una vez cubierta la sanción impuesta en la resolución, la Unidad podrá levantar la medida cautelar; así mismo la Unidad, en su caso, dará trámite a la solicitud de autorización presentada por el prestador, en los términos de la ley y del presente Reglamento.
 
 ###### Artículo 117.
 
@@ -1213,7 +1411,9 @@ El Titular de la Unidad deberá dictar la resolución del procedimiento para la 
 
 La facultad para imponer sanciones prescribirá en un término de un año, contado a partir del día hábil siguiente a la fecha en que se tenga conocimiento del hecho u omisión que la origine, o a partir del día en que hubiese cesado el hecho u omisión, si fue de carácter continúo.
 
-### CAPÍTULO DÉCIMO OCTAVO. DE LA EJECUCIÓN DE LAS SANCIONES
+> <small>(REFORMADA SU DENOMINACION [N. DE E. REUBICADO, ANTES CAPITULO DECIMO SEPTIMO], P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+### CAPÍTULO DÉCIMO OCTAVO. DE LAS RESOLUCIONES
 
 ###### Artículo 119.
 
@@ -1250,6 +1450,10 @@ La notificación de las resoluciones se hará personalmente a los presuntos infr
 ###### Artículo 123.
 
 En contra de las resoluciones que emita la Secretaría con motivo del procedimiento previsto en este Reglamento, procederán los medios de defensa ante el Tribunal de lo Contencioso Administrativo del Estado de Baja California, en los términos de la Ley que regula a dicho tribunal.
+
+> <small>(REFORMADA SU DENOMINACION [N. DE E. REUBICADO, ANTES CAPITULO DECIMO OCTAVO], P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+### CAPÍTULO DÉCIMO NOVENO. DE LA EJECUCIÓN DE LAS SANCIONES
 
 ###### Artículo 124.
 
@@ -1322,3 +1526,15 @@ BERNARDO H. MARTÍNEZ AGUIRRE
 SECRETARIO DE SEGURIDAD PÚBLICA
 
 VÍCTOR FELIPE DE LA GARZA HERRADA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría contará con seis meses siguientes contados a partir del día en que entre en vigor el presente Decreto, para los efectos de integrar el padrón de personas físicas o morales a que se refieren los artículos 59 BIS Y 59 TER del Reglamento.
