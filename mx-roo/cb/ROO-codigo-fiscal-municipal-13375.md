@@ -4,7 +4,7 @@ identifier: "ROO-codigo-fiscal-municipal-13375"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-15"
-last_updated: "2007-12-17"
+last_updated: "2008-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO FISCAL MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre 1997.
 
@@ -617,9 +617,17 @@ IX.- Reducir las multas fiscales que hayan quedado firmes siempre y cuando se ac
 
 X.- Determinar créditos fiscales y multas conforme a las Leyes, Reglamentos, Procedimientos, Acuerdos y Convenios de Colaboración en Materia Fiscal;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XI.- Las demás que le correspondan conforme a las Leyes, Reglamentos, Convenios de Colaboración y Acuerdos del H. Ayuntamiento y del Presidente Municipal.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XI.- Ordenarla clausura de establecimientos, previo cumplimiento de los requisitos y exclusivamente en los supuestos que expresamente se establezcan en este Código, sin que con ello se limite su facultad de establecer de manera conjunta otras sanciones diferentes por el incumplimiento de las obligaciones fiscales en que incurran los contribuyentes;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XII.- Las demás que le correspondan conforme a las Leyes, Reglamentos, Convenios de colaboración y Acuerdos del H. Ayuntamiento y del Presidente Municipal.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -2140,5 +2148,11 @@ SEGUNDO.- Se dejan sin efecto todas las disposiciones legales que se opongan al 
 P.O. 17 DE DICIEMBRE DE 2007.
 
 PRIMERO.- El presente decreto entrará en vigor a partir del 1° de enero del año 2008, previa publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO.- Se dejan sin efecto todas las disposiciones legales qua se opongan al presente decreto.
+
+P.O. 12 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del 1o. de enero del año 2009, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se dejan sin efecto todas las disposiciones legales qua se opongan al presente decreto.
