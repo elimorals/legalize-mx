@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-tribunal-electoral-del-estado-de-tabasco-26867
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-11-29"
-last_updated: "2002-11-29"
+last_updated: "2008-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL TRIBUNAL ELECTORAL DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el viernes 29 de noviembre de 2002.
 
@@ -781,127 +781,85 @@ Cuando se presenten quejas o denuncias en contra del titular de la Contraloría 
 
 De igual manera, en caso de impedimento legal o ausencia del titular de la Contraloría Interna, el Presidente del Tribunal, será competente en lo que corresponda para investigar, tramitar, sustanciar y resolver los procedimientos y recursos correspondientes.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ## TÍTULO SEXTO. DE LAS CONTROVERSIAS LABORALES
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 57.
 
-El Tribunal, resolverá las controversias laborales que se susciten con sus trabajadores, así como la de los trabajadores del Instituto con dicho órgano electoral; con exclusión de cualquier otra instancia o autoridad jurisdiccional o administrativa de competencia federal o local.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
 ###### Artículo 58.
 
-Las disposiciones contenidas en el presente título, tienen por objeto regular la sustanciación y resolución de las controversias laborales a que se refiere el artículo anterior.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
 ###### Artículo 59.
 
-El Pleno del Tribunal será competente para resolver, en única instancia, las controversias laborales.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
 ###### Artículo 60.
 
-Son de aplicación supletoria a las presentes disposiciones, en todo aquello que no contravenga la naturaleza y especificidad de la materia electoral y en el orden siguiente:
-
-a) La Ley de los Trabajadores al Servicio del Estado;
-
-b) La Ley Federal de los Trabajadores al Servicio del Estado;
-
-c) La Ley Federal del Trabajo;
-
-d) El Código Federal de Procedimientos Civiles;
-
-e) Los Principios Generales de Derecho; y
-
-f) La equidad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
 ###### Artículo 61.
 
-La sustanciación de las controversias laborales, estará a cargo de la Comisión Sustanciadora integrada por:
-
-I. Un Magistrado Numerario designado por razón de turno;
-
-II. Un Juez Instructor designado por el Pleno; y
-
-III. El Secretario General de Acuerdos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
 ###### Artículo 62.
 
-La Comisión Sustanciadora será presidida por el Magistrado que la integre, dando fe de sus actuaciones, el Secretario General de Acuerdos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
 ###### Artículo 63.
 
-Son partes en el procedimiento de controversia laboral:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
-I. El actor que será el trabajador afectado por el acto o resolución impugnada, quien podrá actuar personalmente o por conducto de representante autorizado; y
-
-II. El Tribunal o el Instituto, por conducto de su Presidente, apoderados designados mediante instrumento notarial o mediante simple oficio en el que se le asigne tal carácter según corresponda.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ### CAPÍTULO SEGUNDO. DE LA SUSTANCIACIÓN
 
 ###### Artículo 64.
 
-El trabajador podrá promover personalmente o por conducto de representante autorizado, la controversia laboral mediante escrito que presente directamente ante el Tribunal, dentro de los quince días hábiles siguientes a aquel en que se le haya notificado o tenga conocimiento del acto o resolución impugnada. El escrito deberá contener los siguientes requisitos:
-
-I. El nombre completo del actor y el cargo que desempeñaba en el Tribunal o Instituto, según corresponda;
-
-II. El nombre completo de su representante autorizado;
-
-III. Domicilio en la Capital del Estado para recibir notificaciones. En caso de no señalar domicilio o que señale fuera de la Capital del Estado, las notificaciones se realizarán por los estrados del Tribunal;
-
-IV. El acto o resolución que se impugna;
-
-V. Los hechos que sirven de antecedentes al acto o resolución que se impugna;
-
-VI. La expresión de los agravios que cause el acto o resolución que se impugna;
-
-VII. Las pretensiones concretas del promovente;
-
-VIII. Ofrecimiento y aportación de las pruebas que el actor estime necesarias para acreditar sus pretensiones; y
-
-IX. La firma autógrafa del promovente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
 ###### Artículo 65.
 
-La Comisión Sustanciadora, en su caso, deberá prevenir al actor, a fin de que cumpla los requisitos o esclarezca los hechos, agravios o pretensiones, quien deberá dar cabal cumplimiento dentro de un término no mayor de 48 horas; de no cumplir con la prevención, se tendrá por no interpuesta la controversia laboral.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
 ###### Artículo 66.
 
-Presentado el escrito a que se refiere el artículo anterior, y en su caso cumplimentada la prevención referida, la Comisión Sustanciadora señalará día y hora para la celebración de una audiencia de conciliación dentro de los ocho días hábiles siguientes. Asimismo, ordenará el emplazamiento del organismo electoral demandado y que se le corra traslado con el escrito del actor, para que rinda por escrito un informe circunstanciado de los hechos que se le imputan en un término de cinco días, a partir de dicha notificación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
 ###### Artículo 67.
 
-La Comisión Sustanciadora, en la audiencia de conciliación, procurará avenir a las partes, levantando acta circunstanciada de su resultado. En caso de lograrse la avenencia, ordenará el archivo del asunto como total y definitivamente concluido.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
 ###### Artículo 68.
 
-En caso de no lograr un acuerdo entre las partes, la Comisión Sustanciadora, procederá a la admisión de las pruebas, pudiendo desechar las que no tengan relación con la controversia planteada.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
 ###### Artículo 69.
 
-Para el desahogo de las pruebas que lo requieran, se señalará día y hora para una audiencia, que se llevará a cabo en un término no mayor a quince días, en la que las partes deberán presentar a sus testigos y demás pruebas ofrecidas que requieran. Cuando el actor se encuentre imposibilitado para presentar a sus testigos, deberá señalar el domicilio de éstos para que la Comisión Sustanciadora los cite para que comparezcan o preparará su desahogo como corresponda.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
 ###### Artículo 70.
 
-Cuando se ofrezca la prueba confesional o testimonial a cargo de un funcionario de nivel superior del Tribunal o del Instituto, su desahogo se hará por oficio, a requerimiento de la Comisión Sustanciadora.
-
-El oferente de la prueba deberá presentar oportunamente el pliego de posiciones o cuestionario correspondiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
 ###### Artículo 71.
 
-La Comisión Sustanciadora podrá requerir a las autoridades, organismos electorales o a los particulares, informes o documentos que sean necesarios para mejor proveer.
-
-Así mismo, tomará las medidas necesarias para que la sustanciación de las controversias laborales se haga en forma expedita, que en todas sus etapas se encuentren presentes las partes o sus representantes autorizados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
 ###### Artículo 72.
 
-Desahogadas las pruebas, la Comisión Sustanciadora en el término de diez días hábiles elaborará un proyecto de resolución, que someterá a consideración del Pleno por conducto del Magistrado que la presida.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
 ###### Artículo 73.
 
-La resolución que emita el Pleno en las controversias laborales, podrá confirmar, modificar o revocar el acto o resolución impugnados, y en su caso, restituir al actor los derechos laborales que le hayan sido violados.
-
-El organismo electoral demandado, podrá negarse a reinstalar al actor, pagando las indemnizaciones legales correspondientes.
-
-Las resoluciones que dicte el Pleno serán definitivas e inatacables.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO, P.O. 12 DE DICIEMBRE DE 2008)
 
 ## TRANSITORIOS
 
@@ -952,3 +910,19 @@ GOBERNADOR DEL ESTADO DE TABASCO
 LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones relativas a la controversia laboral prevista en la Ley Orgánica del Tribunal Electoral del Estado de Tabasco y todas las que se opongan al Presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los casos radicados en el Tribunal Electoral antes de la entrada en vigor de este Decreto serán sustanciados y resueltos por la misma conforme a las normas vigentes al momento de su interposición.
