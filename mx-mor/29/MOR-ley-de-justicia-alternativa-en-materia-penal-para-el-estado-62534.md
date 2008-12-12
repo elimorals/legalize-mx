@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-justicia-alternativa-en-materia-penal-para-el-estado-625
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-18"
-last_updated: "2008-08-18"
+last_updated: "2008-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE JUSTICIA ALTERNATIVA EN MATERIA PENAL PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 18 de agosto de 2008.
 
@@ -65,7 +65,9 @@ VI. Conciliación: Es el método en el que un tercero neutral e imparcial trata 
 
 VII. Mediación: Es el medio alternativo de resolución de conflictos en el cual las partes protagonistas de una controversia, con el auxilio de un tercero imparcial y neutral, logran establecer una comunicación eficaz, con el propósito de llegar a un acuerdo en forma pacífica;
 
-VIII. Negociación: Es en donde las partes en conflicto buscan la solución al mismo, mediante el diálogo entre éstas, previo acuerdo, sin la intervención de un tercero en el proceso y sólo se les auxiliará para la redacción del Acuerdo Reparatorio;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+VIII. Negociación: Método restaurativo consistente en que las partes en conflicto buscan la solución a su controversia, con ayuda de un tercero, y donde la solución al conflicto recae directamente sobre aspectos de carácter económico. Además de que ambas partes por común acuerdo no quieran dialogar frente a frente, pero si estén de acuerdo en negociar y llegar a un acuerdo reparatorio por medio del especialista en negociación. El negociador elaborará proyectos económicos para las partes, garantizando la total reparación del daño y las circunstancias especiales de los peticionarios;
 
 IX. Juntas de Orientación Ciudadana: Proceso desarrollado entre las partes, con la participación de los afectados indirecta o mediata por un conflicto, para resolverlo de manera colectiva, mediante un acuerdo;
 
@@ -79,7 +81,9 @@ XIII. Unidad: Es la Unidad de Orientación Ciudadana;
 
 XIV. Certificación: Es la constancia otorgada por el Centro la cual acredita a una persona como especialista, para prestar el servicio, y
 
-XV. Acreditación: Es el documento por medio del cual el Centro desconcentra a las unidades de orientación ciudadana, para prestar el servicio.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XV. Acreditación: Es el documento por medio del cual el Centro autoriza y adscribe a las unidades de orientación ciudadana, para prestar el servicio.
 
 ### CAPÍTULO SEGUNDO. DEL CENTRO DE JUSTICIA ALTERNATIVA Y SUS UNIDADES
 
@@ -107,7 +111,9 @@ III. Prestar el servicio de información y orientación sobre los procedimientos
 
 IV. Difundir y fomentar la cultura de los medios alternos, como solución pacífica de los conflictos en la ciudadanía;
 
-V. Autorizar la Desconcentración de Unidades por medio de acreditaciones de su personal y supervisarlos periódicamente;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+V. Proponer al Procurador la adscripción de las Unidades de Orientación Ciudadana;
 
 VI. Revocar o suspender la Acreditación de las Unidades o la certificación de los prestadores, en los casos que así proceda, previa garantía de audiencia y defensa, fundando y motivando dicha resolución;
 
@@ -115,7 +121,9 @@ VII. Evaluar y en su caso Certificar a los Especialistas, así como llevar sus r
 
 VIII. Promover la capacitación constante de su personal;
 
-IX. Suscribir a través del Director General del Centro y con el visto bueno del Procurador, convenios de colaboración, así como cartas de intensión (sic) y otros instrumentos jurídicos, con instituciones afines, tanto nacionales como extranjeras para cumplimentar los objetivos del Centro;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+IX. Promover y proponer al Procurador General de Justicia del Estado, la suscripción de convenios de colaboración, así como cartas de intención y otros instrumentos jurídicos con instituciones afines, para lograr los objetivos del Centro;
 
 X. Realizar Diagnósticos, investigaciones y análisis relacionados con sus funciones;
 
@@ -131,25 +139,29 @@ XV. Promover la Cooperación estatal y nacional para el uso de los medios altern
 
 ### CAPÍTULO TERCERO. DE SU ESTRUCTURA
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 8.
 
-El Centro estará integrado por los órganos siguientes:
+El Centro de Justicia Alternativa estará integrado por los siguientes órganos:
 
-I. Dirección General, y
+I. Dirección General del Centro de Justicia Alternativa;
 
-II. Subdirección de Acuerdos Reparatorios de cada Zona.
+II. Dirección de Zona de Acuerdos Reparatorios, atendiendo a la organización de la Procuraduría;
 
-En cada Zona habrá las siguientes jefaturas:
+En cada Zona habrá las siguientes Subdirecciones:
 
-I. Jefatura de Orientadores Ciudadanos;
+I. Subdirección de Orientadores Ciudadanos;
 
-II. Jefatura de Notificadotes; y
+II. Subdirección de Notificadores;
 
-III. Personal jurídico, administrativo, orientadores ciudadanos, notificadores y los especialistas, que el presupuesto permita.
+III. Ministerios Públicos, personal jurídico, administrativo, notificadores y especialistas que el presupuesto permita.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 9.
 
-El Director General del Centro será designado por el Procurador de Justica (sic) del Estado de Morelos. El Director para el ejercicio de sus funciones se auxiliará de los Subdirectores de Acuerdos Reparatorios de cada Zona, personal especializado, Agentes del Ministerio Público y Auxiliares.
+El Director General del Centro será designado por el Procurador General de Justicia del Estado de Morelos. El Director General para el ejercicio de sus funciones se auxiliará de los Directores de Zona de Acuerdos Reparatorios de cada área, de los Ministerios Públicos, personal especializado, y demás funcionarios.
 
 ###### ARTÍCULO 10.
 
@@ -173,21 +185,31 @@ I. Vigilar el cumplimiento de esta ley;
 
 II. Llevar la dirección técnica y administrativa del Centro;
 
-III. Representar al Centro y celebrar convenios de colaboración necesarios para el desarrollo del mismo;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+III. Representar al Centro y promover convenios de colaboración necesarios para el desarrollo del mismo;
 
 IV. Convocar a concurso para prestadores de servicios de colaboración necesarios para el desarrollo del mismo;
 
-V. Expedir las acreditaciones del Centro;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-VI. Autorizar la desconcentración de las Unidades de Orientación Ciudadana;
+V. Expedir las acreditaciones del Centro autorizadas por el Procurador;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+VI. Proponer al Procurador la adscripción de las Unidades de Orientación Ciudadana;
 
 VII. Llevar el registro de desempeño de los Especialistas;
 
 VIII. Presentar los planes y programas anuales del Centro para su aprobación por el Procurador del Estado;
 
-IX. Proponer al Procurador reglamentos institucionales, y los manuales de procedimientos y de organización del Centro y sus unidades desconcentradas, así como los formatos de las sesiones que se utilizan en el Centro, revisarlos anualmente y en caso actualizarlos el mismo;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-X. Proponer al Procurador las designaciones como subdirectores, así como al personal del Centro;
+IX. Proponer al Procurador reglamentos institucionales, y los manuales de procedimientos y de organización del Centro y sus unidades adscritas, así como los formatos de las sesiones que se utilizan en el Centro, revisarlos anualmente y en su caso actualizarlos;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+X. Proponer al Procurador las designaciones de Directores de Zona de Acuerdos Reparatorios, así como el personal del Centro, para aprobación;
 
 XI. Divulgar las funciones del Centro, y los beneficios sociales de los servicios de Justicia alternativa y sus organismos;
 
@@ -195,7 +217,9 @@ XII. Presentar los informes necesarios al Procurador de su administración;
 
 XIII. Elaborar el anteproyecto de presupuesto de egresos y presentárselo al Procurador para su aprobación;
 
-XIV. Sancionar los Acuerdos reparatorios que resuelvan los conflictos que se le presenten al Centro;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XIV. Revisar los Acuerdos Reparatorios con el objeto de garantizar su legalidad y debido proceso;
 
 XV. Calificar la procedencia de las causas de excusa o recusación planteadas, ya sea antes del inicio del procedimiento o durante el mismo y de proceder; designar al personal sustituto;
 
@@ -203,37 +227,57 @@ XVI. Evaluar los procedimientos de los medios alternativos de justicia, haciendo
 
 XVII. Las demás que conforme a las disposiciones de esta ley y su reglamento le correspondan.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 12.
 
-Para ser Subdirector de Acuerdos Reparatorios y Jefes de departamento se deben de cumplir los mismos requisitos que se exigen para Director General.
+Para ser Director de Zona de Acuerdos Reparatorios o Subdirector se deben de cumplir los mismos requisitos que se exigen para Director General.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 13.
 
-Los Subdirectores tendrán las siguientes facultades:
+Los Directores de Zona de Acuerdos reparatorios tendrán las siguientes facultades:
 
-I. Turnar los asuntos que les sean planteados al prestador del servicio que corresponda tratándose de sedes, e informar a los usuarios de los privados;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-II. Cuidar el buen funcionamiento de la Subdirección;
+I. Turnar los Asuntos que le sean planteados al personal especializado que corresponda tratándose de sedes, e informar a los usuarios de los privados;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+II. Cuidar el buen funcionamiento de la Dirección y Subdirecciones a su cargo;
 
 III. Rendir al Director General del Centro, informe General en los tiempos que se determine;
 
-IV. Recibir, integrar y proponer al Centro, para su acreditación o certificación a los aspirantes a prestadores de servicio;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-V. Realizar visitas de inspección y supervisión de los prestadores de servicios;
+IV. Recibir, integrar y proponer adscripciones del Centro para su Acreditación;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+V. Realizar visitas de inspección y supervisión a las Unidades de Orientación Ciudadana y Especialistas;
 
 VI. Recoger las Experiencias del Centro para la realización de estudios y análisis de carácter prospectivo que realiza el Centro;
 
-VII. Proporcionar al Centro datos para el control de registro de prestadores de servicio así como mantenerlo actualizado, y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+VII. Proporcionar al Centro datos para el Control de registro de especialistas, así como mantenerlo actualizado;
 
 VIII. Las demás que conforme a las disposiciones de esta ley y su reglamento interno le corresponda.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 14.
 
-Los Jefes de departamento tendrán las siguientes Facultades y obligaciones:
+Los Subdirectores tendrán las siguientes facultades y obligaciones:
 
-I. Acordar con el Subdirector el despacho de los asuntos de las Áreas administrativas adscritas a su cargo;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-II. Auxiliar al subdirector en los informes que tiene que rendir.
+I. Acordar con el Director de Zona de Acuerdos Reparatorios el despacho de los asuntos de las áreas administrativas adscritas a su cargo;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+II. Auxiliar al Director General y al Director de Zona de Acuerdos reparatorios en los informes que tiene que rendir;
 
 III. Ejecutar los procedimientos para la obtención de los resultados establecidos en los programas de acción;
 
@@ -249,9 +293,11 @@ Los servicios de medios alternativos de solución de conflictos contemplados por
 
 Los Especialistas del Centro, que presten los servicios de medios alternativos de solución de conflictos para el ejercicio de sus funciones deberán contar con la acreditación expedida por el Centro.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 17.
 
-Los prestadores del servicio deberán certificarse ante el Centro cubriendo los siguientes requisitos:
+Los especialistas deberán certificarse ante el Centro, cubriendo los siguientes requisitos:
 
 I. Estar en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -261,15 +307,21 @@ III. No haber sido condenado por delito doloso;
 
 IV. Cumplir con los programas de capacitación que establezca el Centro;
 
-V. Aprobar las evaluaciones en los términos de esta ley y su Reglamento, y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+V. Aprobar las evaluaciones en los términos y condiciones que establece esta Ley, su Reglamento y manuales respectivos, y
 
 VI. Contar con título profesional, cuando el prestador no sea licenciado en Derecho, deberá asesorarse por un Licenciado en Derecho, en la implementación de los acuerdos reparatorios que deben suscribirse.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 18.
 
-Son obligaciones de los prestadores de servicio, las siguientes:
+Son obligaciones de los especialistas, las siguientes:
 
-I. Desarrollar el método alternativo elegido en los términos que se establezcan en el convenio o cláusula compromisoria suscrita por los participantes, los prestadores del servicio atendiendo a la naturaleza del caso aplicará el método adecuado para solucionarlo;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+I. Desarrollar el método alternativo elegido en los términos que se establezcan en el convenio o cláusula compromisoria suscrita por los participantes. Los especialistas, atendiendo a la naturaleza del caso aplicarán el método adecuado para solucionarlo;
 
 II. Cerciorarse del correcto entendimiento y comprensión que los participantes tengan del desarrollo del método alternativo elegido, desde su inicio hasta su conclusión, así como de sus alcances;
 
@@ -289,9 +341,11 @@ El personal del centro estará sujeto a la responsabilidad administrativa y en s
 
 ### CAPÍTULO CUARTO. DE LAS UNIDADES DE ORIENTACIÓN CIUDADANA
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 20.
 
-Las Unidades de Orientación Ciudadana, serán las encargadas de canalizar de manera inmediata, las denuncias y querellas que se le presenten; habrá Unidades de Orientación Ciudadana desconcentradas, atendiendo a la necesidad del servicio y del presupuesto.
+El Orientador Ciudadano, atenderá y canalizará de manera inmediata a los ciudadanos que expongan hechos presumiblemente constitutivos de delito al centro de Justicia Alternativa o a la instancia que corresponda. Habrá Unidades de Orientación Ciudadana adscritas, atendiendo a la necesidad del servicio y presupuesto.
 
 ###### ARTÍCULO 21.
 
@@ -301,9 +355,11 @@ Los orientadores ciudadanos serán los encargados de informar las ventajas de lo
 
 Deberá remitir los asuntos a las instancias públicas o privadas, cuando se trate de hechos que por carecer de elementos constitutivos de delito, no puedan considerarse como tales o que de los mismos se desprenda que es competencia de otra instancia.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 23.
 
-Los ciudadanos expondrán los hechos de su denuncia o querella al Orientador Ciudadano en forma breve y recibirán la orientación de los servicios y la efectividad de la justicia alternativa que se aplica en el Centro.
+Los ciudadanos expondrán los hechos presuntamente constitutivos de delito, al Orientador Ciudadano y recibirán la orientación de los servicios y la efectividad de la justicia alternativa que se aplica en el Centro.
 
 ###### ARTÍCULO 24.
 
@@ -323,21 +379,33 @@ III. Sólo a petición de la Autoridad Ministerial y Judicial, se podrán entreg
 
 IV. Flexibilidad: El procedimiento será susceptible de cambios o variaciones según las circunstancias o necesidades de los participantes;
 
-V. Neutralidad: El prestador del servicio alternativo deberá actuar de forma independiente y libre no solo de intereses jurídicos, si no de prejuicios personales;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-VI. Imparcialidad: El prestador del medio alternativo procederá con rectitud sin predisposición en favor o en contra de alguna de las partes;
+V. Neutralidad: Los especialistas deberán actuar de forma independiente y libre no solo de intereses jurídicos, si no de prejuicios personales;
 
-VII. Equidad: El prestador del servicio deberá generar condiciones de igualdad para que las partes actúen dentro del procedimiento sin ventajas indebidas;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+VI. Imparcialidad: Los especialistas procederán con rectitud sin predisposición a favor o en contra de algunas de las partes;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+VII. Equidad: Los especialistas deberán generar condiciones de igualdad para que las partes actúen dentro del procedimiento sin ventajas indebidas;
 
 VIII. Legalidad: Sólo podrán ser objeto del procedimiento previsto en esta ley, los conflictos derivados por la violación de un derecho legítimo o por incumplimiento indebido de una obligación y que no afecte el interés público;
 
-IX. Honestidad: El prestador del medio alterno deberá excusarse de participar cuando reconozca que sus capacidades, limitaciones o intereses personales puedan afectar el procedimiento;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+IX. Honestidad: Los especialistas deberán de excusarse de participar cuando reconozcan que sus capacidades, limitaciones o intereses personales puedan afectar al procedimiento;
 
 X. Protección a los más vulnerables: Los convenios finales se suscribirán observando adicionalmente los derechos de las niñas, niños, adolescentes, incapaces, adultos mayores e indígenas, según sea el caso;
 
-XI. Economía: Los prestadores del servicio procuraran ahorrar tiempo y gastos a las partes;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-XII. Inmediatez: El prestador del servicio tendrá conocimiento directo del conflicto y de las partes;
+XI. Economía: Los especialistas procurarán ahorrar tiempo y gastos a las partes;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+XII. Inmediatez: Los especialistas tendrán conocimiento directo del conflicto y de las partes;
 
 XIII. Formalidad: Las partes podrán acordar las formas de cómo solucionar su conflicto, previo acuerdo;
 
@@ -363,9 +431,11 @@ El Orientador ciudadano encargado del caso, procederá de inmediato a elaborar l
 
 La primera sesión se programará dentro de un plazo que no excederá de tres días hábiles.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 30.
 
-Si quien haya sido invitado o citado manifiesta su negativa para participar en el medio alterno, se canalizará el caso al Ministerio Público que corresponda.
+Si quien haya sido invitado o citado manifiesta su negativa para participar en el medio alterno, se canalizará el caso al Ministerio Público investigador que corresponda.
 
 Después de cerrado el caso por la causa señalada en el párrafo anterior, si persiste el interés de ambas partes, se reabrirá y se señalará día y hora de la sesión.
 
@@ -441,11 +511,15 @@ II. En caso de que alguna de las partes realice un comportamiento irrespetuoso o
 
 III. Por decisión de una de las partes;
 
-IV. Por inasistencia injustificada de ambas partes de manera reitera (sic) a las sesiones, o por dos inasistencias injustificadas de una de los (sic) partes;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+IV. Por inasistencia injustificada de ambas partes de manera reiterada a las sesiones, o por dos inasistencias injustificadas de una de las partes;
 
 V. Por la negativa de las partes para la suscripción del acuerdo en los términos de la presente Ley, y
 
-VI. Por resolución del Director General o del Subdirector de Acuerdos Reparatorios de Zona, cuando de la conducta de las partes se desprenda que no hay voluntad para llegar a un arreglo.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+VI. Por resolución del Director de Zona de Acuerdos Reparatorios de cada zona, cuando de la conducta de las partes se desprenda que no hay voluntad para llegar a un arreglo.
 
 ###### ARTÍCULO 41.
 
@@ -467,7 +541,9 @@ I. Solicitar los medios alternos en los términos de esta Ley, su reglamento y d
 
 II. Ser atendidos por el personal especializado designado para intervenir en el trámite solicitado;
 
-III. Solicitar al Director General, o en su caso, al Subdirector de Acuerdos Reparatorios de la Zona, la sustitución del personal especializado cuando exista causa justificada para ello, o bien, recusarlo;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+III. Solicitar al Director General o en su caso al Director de Zona de Acuerdos Reparatorios correspondiente, la sustitución del personal especializado cuando exista causa justificada para ello, o bien, recusarlo;
 
 IV. De ser procedente, solicitar la intervención de auxiliares, y
 
@@ -493,9 +569,11 @@ La Procuraduría General de Justicia del Estado, podrá celebrar convenios con l
 
 El plazo fijado para el cumplimiento de las obligaciones pactadas suspenderá el trámite del proceso y el término para la prescripción de la acción penal.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 47.
 
-El cumplimiento del acuerdo extinguirá la acción penal.
+El cumplimiento del Acuerdo Reparatorio extinguirá la acción penal.
 
 ###### ARTÍCULO 48.
 
@@ -536,3 +614,13 @@ RÚBRICAS.
 Por tanto mando se imprima, publique circule y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los dieciocho días del mes de agosto de dos mil ocho.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 12 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se derogan las disposiciones de igual o menor rango, que se opongan o sean contrarias al contenido del presente Decreto.
+
+TERCERO.- Remítase al Ejecutivo del Estado para su correspondiente publicación.
