@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-ingresos-del-estado-de-quintana-roo-para-el-58296"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2007-12-17"
-last_updated: "2007-12-17"
+last_updated: "2008-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE INGRESOS DEL ESTADO DE QUINTANA ROO, PARA EL EJERCICIO FISCAL 2008
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Número 83 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 17 de diciembre de 2007.
 
@@ -311,7 +311,9 @@ infraestructura en los Estados. $2'595,231.00
 
 3.- Ingresos para universidades del Estado. $143'818,060.00
 
-4.- Empréstitos $0
+> <small>(REFORMADO, P.O.12 DE DICIEMBRE DE 2008)</small>
+
+4.- Empréstitos $1,900'000,000.00
 
 5.- Apoyos extraordinarios. $0
 
@@ -319,9 +321,9 @@ infraestructura en los Estados. $2'595,231.00
 
 Ingresos de las Entidades Federativa (sic). $18'864,246.00
 
-GRAN TOTAL DE LOS
+> <small>(REFORMADO, P.O.12 DE DICIEMBRE DE 2008)</small>
 
-INGRESOS FEDERALES DEL ESTADO $11,826'299,370.00
+INGRESOS TOTALES DEL ESTADO $13,726'299,370.00
 
 ###### ARTICULO 2°.
 
@@ -450,3 +452,15 @@ ROSARIO ORTIZ YELADAQUI
 EL SECRETARIO ESTATAL DE HACIENDA
 
 LIC. FREDY EFRÉN MARRUFO MARTÍN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O.12 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entraré en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
