@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-distribucion-de-participaciones-y-aportaciones-5928
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-28"
-last_updated: "2007-12-28"
+last_updated: "2008-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA DISTRIBUCION DE PARTICIPACIONES FEDERALES A LOS MUNICIPIOS DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 28 de diciembre de 2007.
 
@@ -120,6 +120,14 @@ II.- En los meses de junio y diciembre de cada año, el Estado ajustará, determ
 III.- En el mes de enero del siguiente ejercicio fiscal el Estado determinará la liquidación definitiva del ejercicio inmediato anterior y entregará las participaciones que resulten a favor de los Municipios, o en su caso, de resultar a cargo se descontarán del siguiente pago.
 
 Para el cálculo de las diferencias a que se refiere la fracción II y de la liquidación definitiva a que se refiere la fracción III de este artículo, se tomarán en cuenta las cantidades señaladas en las constancias, ajustes o liquidaciones definitivas que se reciban de la Secretaría de Hacienda y Crédito Público en el periodo de que se trate.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+Las participaciones a que se hacen referencia en este artículo podrán afectarse como garantía del cumplimiento de obligaciones de pago de derechos y aprovechamientos por concepto de agua y consumo de energía eléctrica; sólo procederá respecto de los adeudos con vencimientos superiores a 90 días que no puedan ser cubiertos con los recursos del Fondo a que se refiere el artículo 20 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+Para efectos de estos adeudos deberá entenderse como Derechos y Aprovechamientos por concepto de Agua, los pagos que deban realizar los municipios, incluyendo sus organismos operadores de agua, a la Comisión Nacional del Agua del derecho por el uso, aprovechamiento o explotación de aguas nacionales de conformidad con la Ley Federal de Derechos y por el aprovechamiento por el suministro de agua en bloque en términos de la Ley de Ingresos de la Federación. Asimismo, los pagos que deban realizarse por el suministro de agua en bloque, cloración, operación, uso de la infraestructura hidráulica para la conducción de volúmenes y entrega de agua. Por consumo de energía eléctrica, se entenderá como energía eléctrica suministrada en el período.
 
 ###### ARTÍCULO 6.
 
@@ -401,7 +409,9 @@ El Ejecutivo del Estado tendrá a su cargo emitir la normatividad aplicable a lo
 
 Las aportaciones que con cargo a los Fondos de Aportaciones para la Infraestructura Social y para el Fortalecimiento de los Municipios y sus accesorios, no serán embargables, ni los gobiernos municipales podrán, bajo ninguna circunstancia, gravarlas, afectarlas en garantía, ni destinarlas a fines distintos a los expresamente previstos para ellos en los artículos 16, 18 y 20 de esta Ley.
 
-El Fondo de Aportaciones para el Fortalecimiento de los Municipios, podrá afectarse como garantía del cumplimiento de obligaciones de pago de derechos y aprovechamientos por concepto de agua cuando así lo determine la legislación correspondiente.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+El Fondo de Aportaciones para el Fortalecimiento a los Municipios, podrá afectarse como garantía del cumplimiento de obligaciones de pago de derechos y aprovechamientos por concepto de agua y consumo de energía eléctrica cuando así lo determine la legislación correspondiente.
 
 ###### ARTÍCULO 24.
 
@@ -462,3 +472,13 @@ EL SECRETARIO DE FINANZAS
 LIC. JORGE JUAN TORRES LÓPEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA LEY.</small>
+
+P.O. 12 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado.
