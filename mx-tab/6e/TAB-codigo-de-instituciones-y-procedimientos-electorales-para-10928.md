@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-instituciones-y-procedimientos-electorales-para-10928
 country: "mx"
 rank: "codigo"
 publication_date: "1996-12-28"
-last_updated: "2002-11-30"
+last_updated: "2008-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 12 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el sábado 28 de diciembre de 1996.
 
@@ -4380,3 +4382,25 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2008.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se abroga el Código de Instituciones y Procedimientos Electorales del Estado de Tabasco, publicado en el suplemento al Periódico Oficial del Estado, número 5667 de fecha 28 de diciembre de 1996 y sus subsecuentes reformas y adiciones.
+
+Artículo Tercero. Lo dispuesto en el párrafo 3 del artículo 116, iniciará su vigencia una vez que haya concluido el proceso electoral local del año 2009.
+
+Artículo Cuarto. En tanto se expiden los nuevos ordenamientos, que regulen aspectos sustantivos y adjetivos de este mandato, seguirán aplicándose en lo conducente en todo lo que no se opongan a esta Ley, las disposiciones legales, tanto reglamentarias como administrativas que regulaban los actos previstos en el Código que se abroga. De igual forma, hasta en tanto no se emitan los nuevos reglamentos, se aplicará la presente Ley en lo concerniente al funcionamiento interno de las áreas del Instituto Estatal.
+
+Artículo Quinto. El titular de la Contraloría General del Instituto Estatal, será designado por la Cámara de Diputados a más tardar el 15 de diciembre de 2008.
+
+Artículo Sexto. El personal del Instituto Estatal que con motivo de la presente Ley deba ser objeto de cambios en su adscripción dé trabajo, conservará sus derechos laborales.
+
+Artículo Séptimo. Cuando con motivo de Ia presente Ley, cualquier órgano, central o desconcentrado, del Instituto cambie de adscripción, el traspaso se hará incluyendo al personal a su servicio, las asignaciones presupuestales autorizadas, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y demás bienes que haya utilizado para la atención de los asuntos a su cargo.
+
+Artículo Octavo. El Instituto Estatal efectuara las previsiones presupuestales necesarias con motivo de la creación de las nuevas unidades administrativas.
+
+Artículo Noveno. En un plazo no mayor a ochenta días, a partir de la entrada en vigor de la presente Ley, el Consejo Estatal deberá ajustar las disposiciones reglamentarias que fueren necesarias.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido de la presente Ley.
