@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-procuraduria-general-de-justicia-del-62570"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-08-18"
-last_updated: "2008-08-18"
+last_updated: "2008-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 18 de agosto de 2008.
 
@@ -309,7 +309,9 @@ I. Para ingresar:
 
 a) Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles; En (sic) igualdad de circunstancias, se preferirá a los ciudadanos morelenses.
 
-b) Tener por lo menos veinticinco años de edad al momento de su nombramiento; y contar con una experiencia profesional de por lo menos tres años contados a partir de la expedición del título profesional al día de la designación;
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+
+b) Tener por lo menos veinticinco años de edad y contar con experiencia o pasantía en materia penal de por lo menos tres años al momento de su nombramiento;
 
 c) Contar con título de Licenciado en Derecho expedido y registrado legalmente, y con la correspondiente cédula profesional;
 
@@ -1312,3 +1314,13 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 12 DE DICIEMBRE DE 2008.
+
+PRIMERO.- Remítase el presente Decreto al Ejecutivo del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan las disposiciones de igual o menor rango, que se opongan o sean contrarias al contenido del presente Decreto.
