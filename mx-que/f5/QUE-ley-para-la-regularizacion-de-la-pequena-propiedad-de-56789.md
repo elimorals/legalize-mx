@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-la-regularizacion-de-la-pequena-propiedad-de-56789"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-31"
-last_updated: "2007-08-31"
+last_updated: "2008-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY PARA LA REGULARIZACION DE LA PEQUEÑA PROPIEDAD DE PREDIOS RUSTICOS EN EL ESTADO DE QUERETARO.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA REGULARIZACION DE LA PEQUEÑA PROPIEDAD DE PREDIOS RUSTICOS EN EL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 12 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de agosto de 2007.
 
@@ -178,3 +180,19 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE DICIEMBRE DE 2008.
+
+Artículo Primero. La vigencia de la presente Ley iniciará al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y concluirá el día 30 de septiembre del año 2009.
+
+Artículo Segundo. Solo podrán acceder a los beneficios de la presente Ley aquellas personas que se hallen inscritas en el programa respectivo.
+
+Las solicitudes que se encontraren pendientes de resolución al concluir la vigencia de la presente Ley, serán tramitadas hasta su conclusión en los términos de la misma.
+
+Artículo Tercero. Durante la vigencia de esta Ley, los procedimientos que se iniciaron conforme a las disposiciones del Código Civil y del Código de Procedimientos Civiles del Estado de Querétaro, seguirán su curso en los términos que éstos establezcan.
+
+Artículo Cuarto. Se abroga la Ley para la regularización de la pequeña propiedad de predios rústicos en el Estado de Querétaro, publicada el treinta y uno de agosto de dos mil siete, en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Quinto. Durante el tiempo de vigencia de la presente Ley se dejan en suspenso todas aquellas disposiciones del Código Urbano, del Código Civil y del Código de Procedimientos Civiles todos del Estado de Querétaro y demás disposiciones que se opongan a ella, sólo por cuanto ve a la materia que regula el presente ordenamiento legal, recobrando su vigencia al finalizar la de la presente Ley.
