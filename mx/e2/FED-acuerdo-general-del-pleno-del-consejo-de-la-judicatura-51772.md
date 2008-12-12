@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51772"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2008-11-05"
+last_updated: "2008-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE DICIEMBRE DE 2008.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -779,7 +779,9 @@ VI. Someter a consideración del Pleno los proyectos de acuerdos, por medio de l
 
 VII. Someter a consideración del Pleno, al menos semestralmente, el proyecto de creación de órganos jurisdiccionales y estudios prioritarios de los circuitos que integran la República Mexicana;
 
-VIII. Coordinar con la Comisión de Administración las acciones para la adecuada y pronta instalación y reubicación de los órganos jurisdiccionales;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ARTICULO 57 DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. EL 12 DE DICIEMBRE DE 2008)</small>
+
+VIII. Acordar las acciones tendentes a la adecuada y pronta instalación y cambio de domicilio de los órganos jurisdiccionales, entendido este último, como el cambio de ubicación del órgano jurisdiccional dentro de la misma ciudad o localidad en que se encuentra; para lo cual se dará aviso a la Comisión de Administración;
 
 IX. Designar a propuesta de su presidente al secretario técnico de la comisión;
 
@@ -3630,3 +3632,11 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar, de inmediato, el texto de esta reforma, al Acuerdo General 66/2006, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Proceso Presupuestario en el Consejo de la Judicatura Federal, así como al diverso Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del Propio Consejo.
+
+D.O.F. 12 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo.
