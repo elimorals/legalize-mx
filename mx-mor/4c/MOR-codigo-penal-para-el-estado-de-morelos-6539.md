@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2008-12-11"
+last_updated: "2008-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -2289,7 +2289,7 @@ VII. Provoque deliberadamente cualquier acontecimiento, simulando que se trata d
 
 ### CAPITULO I. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA ALIMENTARIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 190.
 
@@ -2413,7 +2413,7 @@ En los casos previstos en este Título, el juzgador podrá suspender al agente e
 
 ###### ARTICULO 201.
 
-Al que sin motivo justificado no proporcione los recursos indispensables para la subsistencia de las personas con las que tenga ese deber legal, se le impondrán de seis meses a tres años de prisión o de ciento ochenta a trescientos sesenta días-multa y pago como reparación del daño de las cantidades no suministradas oportunamente a la parte ofendida.
+Al que sin motivo justificado no proporcione los recursos indispensables para la subsistencia de las personas con las que tenga ese deber legal, se le impondrán de un año a cuatro años de prisión "y" de ciento ochenta a trescientos sesenta días-multa y pago como reparación del daño de las cantidades no suministradas oportunamente a la parte ofendida.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
@@ -3954,3 +3954,9 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo dispuesto en la presente.
 
 TERCERO.- Aprobado que sea, remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículo 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 12 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Tierra y Libertad", órgano del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al titular del Poder Ejecutivo Estatal para los efectos constitucionales correspondientes.
