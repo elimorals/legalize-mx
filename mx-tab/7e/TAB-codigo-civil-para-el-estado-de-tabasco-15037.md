@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2008-05-17"
+last_updated: "2008-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2008.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -471,9 +471,11 @@ Para cumplir con lo dispuesto en el artículo anterior, la misma sentencia orden
 
 ###### ARTICULO 58.
 
-Validez de una modificación
+Validez de una modificación.
 
-Ninguna modificación o cambio de nombre tendrá validez si no se hace mediante sentencia que concluya de un juicio en que se oiga juntamente al Ministerio Público y al Director del Registro Civil.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+Ninguna modificación o cambio de nombre tendrá validez si no se hace por sentencia dictada en juicio en que se dé la intervención que la ley señala al Ministerio Público y al Registro Civil.
 
 ###### ARTICULO 59.
 
@@ -893,7 +895,9 @@ Documentos
 
 Al escrito a que se refiere el artículo anterior se acompañará:
 
-I.- Copias certificadas de las actas de nacimiento y, en su defecto, un dictamen médico que compruebe su edad cuando por su aspecto no sea notorio que el varón es mayor de dieciséis años y la mujer de catorce;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+I.- Copias certificadas de las actas de nacimiento y, en su defecto, un dictamen médico que compruebe su edad cuando por su aspecto no sea notorio que el varón y la mujer son mayores de dieciséis años;
 
 II.- La constancia de que otorgan su consentimiento las personas a que se refieren los artículos 155 y 156, para que el matrimonio se celebre bajo el régimen económico señalado por los pretendientes;
 
@@ -1239,11 +1243,17 @@ Formalidades
 
 El matrimonio debe celebrarse ante los funcionarios que establece la ley y con las solemnidades que ella exige. El Estado procurará, por todos los medios que estén a su alcance, que las personas que vivan en concubinato contraigan matrimonio. Para la realización de este fin, que es de orden público, se efectuarán campañas periódicas de convencimiento en las que colaboren los servidores públicos y maestros del Estado.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+Habrá concubinato cuando una pareja de hombre y mujer, sin impedimento para contraer matrimonio vivan juntos públicamente como si fueran marido y mujer, durante un año, o menos si hubiere hijos.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 154.
 
-Quiénes pueden contraerlo
+Quiénes pueden contraerlo.
 
-Pueden contraer matrimonio: el hombre que ha cumplido dieciséis años y la mujer que haya cumplido catorce. El Gobernador del Estado, o el Presidente Municipal del lugar, pueden conceder dispensa, en casos excepcionales y por causas graves y justificadas.
+Pueden contraer matrimonio: el hombre y la mujer que han cumplido dieciséis años de edad. El Gobernador del Estado o el Presidente Municipal del lugar, pueden conceder dispensa, en casos excepcionales y por causas graves y justificadas.
 
 ###### ARTICULO 155.
 
@@ -1261,13 +1271,15 @@ Consentimiento en caso de menores
 
 Quienes han prestado y ratificado su consentimiento ante el Oficial del Registro Civil, no pueden revocarlo, a menos que haya justa causa para ello; tampoco podrán revocarlo quienes los sustituyan.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 157.
 
-Suplencia del consentimiento por la autoridad
+Suplencia del consentimiento por la autoridad.
 
-Cuando los ascendientes o tutores nieguen su consentimiento y su disenso no parezca racional, podrá recurrir el interesado al Gobernador del Estado o al servidor público a quien éste comisione para ello, quien después de obtener información sobre el particular suplirá dicho consentimiento, según lo estime conducente a los intereses del menor; pero sin esta habilitación, el matrimonio no podrá celebrarse.
+Cuando los ascendientes o tutores nieguen su consentimiento y su disenso no parezca racional, podrá recurrir el interesado al Juez de Primera Instancia, quien después de obtener información sobre el particular suplirá dicho consentimiento, según lo estime conducente a los intereses del menor; pero sin esta habilitación, el matrimonio no podrá celebrarse.
 
-Si el que niega el consentimiento es el Juez, el interesado podrá ocurrir al Tribunal Superior de Justicia, en los términos que señale el Código de Procedimientos Civiles.
+Si se niega el consentimiento, el interesado podrá ocurrir al Tribunal Superior de Justicia, en los términos que señale el Código de Procedimientos Civiles.
 
 ###### ARTICULO 158.
 
@@ -1351,7 +1363,9 @@ Fidelidad y ayuda mutua
 
 Los cónyuges deben guardarse fidelidad, vivir juntos en el domicilio conyugal, contribuir cada uno por su parte a los fines del matrimonio y ayudarse mutuamente. Cualquier convenio contrario a la ayuda mutua que se deben los cónyuges, se tendrá por no puesto.
 
-Los cónyuges pueden planificar el número y espaciamiento de sus hijos, así como emplear cualquier método de reproducción artificial para lograr su propia descendencia. Este derecho será ejercido de común acuerdo por los cónyuges, extendiéndose a aquellas parejas que viven públicamente como si fueran marido y mujer y sin tener algún impedimento para contraer matrimonio entre sí.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+Los cónyuges pueden planificar el número y espaciamiento de sus hijos, así como emplear cualquier método de reproducción artificial para lograr su propia descendencia. Este derecho será ejercido de común acuerdo por los cónyuges, extendiéndose a la relación de concubinato.
 
 ###### ARTICULO 166.
 
@@ -1372,6 +1386,10 @@ No tiene la obligación que impone este artículo, el cónyuge que carezca de bi
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
 Los bienes de los cónyuges y sus ingresos, quedan afectados preferentemente al pago de los alimentos, en la parte que a cada uno corresponda por la ley o por convenio. Para hacer efectivo este derecho, podrán los cónyuges y los hijos pedir en cualquier momento el aseguramiento de aquellos bienes.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+La necesidad de la cónyuge y los hijos menores de recibir alimentos se presumirá siempre.
 
 ###### ARTICULO 168.
 
@@ -1619,9 +1637,9 @@ Los cónyuges no pueden repudiar ni aceptar la herencia común sin el consentimi
 
 Deudas
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
-Las deudas contraídas durante el matrimonio por ambos consortes o por uno solo de ellos, son cargo de la sociedad conyugal.
+Las deudas contraídas durante el matrimonio por los consortes, o por uno solo de ellos, en beneficio de ambos, serán a cargo de la sociedad conyugal.
 
 ###### ARTICULO 206.
 
@@ -1819,11 +1837,15 @@ La acción de nulidad que nace del error, sólo puede deducirse por el cónyuge 
 
 Cuándo no procede la nulidad
 
-Los dieciséis años en el hombre y catorce en la mujer dejarán de ser causa de nulidad:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+Los dieciséis años en el hombre y la mujer dejarán de ser causa de nulidad:
 
 I.- Cuando haya habido hijos;
 
-II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los dieciocho años, y ni él ni el otro cónyuge hubieren intentado la nulidad; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+II.- Cuando, aunque no haya habido hijos, el menor de los cónyuges o ambos hubieren llegado a los dieciocho años, sin que ni uno u el otro hubieren intentado la nulidad; y
 
 III.- Cuando antes de declararse ejecutoriada la resolución de nulidad, se obtuviese la dispensa de edad o la esposa se halle encinta.
 
@@ -1989,7 +2011,9 @@ Sanciones por infracción
 
 Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del Juez, en sus respectivos casos, y los que autoricen los matrimonios, incurrirán en los delitos que señale el Código de la materia.
 
-### CAPITULO VI. DEL DIVORCIO
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO VI. DEL DIVORCIO Y DE LA TERMINACION DEL CONCUBINATO
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
@@ -1998,6 +2022,22 @@ Los que infrinjan el artículo anterior, así como los que siendo mayores de eda
 Consecuencias del divorcio
 
 El divorcio disuelve el vínculo del matrimonio y deja a quienes fueron cónyuges en aptitud de contraer otro.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 256 Bis.
+
+Terminación del concubinato
+
+La relación del concubinato termina por las siguientes causas:
+
+I. Por acuerdo mutuo entre las partes;
+
+II. Por abandono del domicilio común más de seis meses, por parte de uno de los concubinos;
+
+III. Por muerte de alguno de los concubinos; y
+
+IV. A voluntad de cualquiera de los concubinos, mediante aviso judicial.
 
 ###### ARTICULO 257.
 
@@ -2045,7 +2085,9 @@ Se presume la reconciliación cuando, después de promovido judicialmente el div
 
 Caducidad del procedimiento
 
-Cuando los cónyuges dejaren pasar más de dos meses sin continuar el procedimiento de divorcio, la autoridad administrativa o judicial que conozca de éste, declarará de oficio la caducidad del mismo y mandará archivar el expediente respectivo.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+Cuando los cónyuges dejaren pasar más de tres meses sin continuar el procedimiento de divorcio voluntario, la autoridad administrativa o judicial que conozca de éste, declarará de oficio la caducidad del mismo y mandará archivar el expediente respectivo.
 
 ###### ARTICULO 265.
 
@@ -2153,9 +2195,17 @@ XV.- Los hábitos de juego o de embriaguez o el uso no terapéutico de enervante
 
 XVI.- Haber cometido uno de los cónyuges contra la persona o bienes del otro, un delito por el cual tuviere que sufrir una pena de prisión mayor de un año;
 
-XVII.- Injuriar un cónyuge a otro, por escrito, dentro de un juicio de nulidad de matrimonio o de divorcio necesario, o imputar el uno al otro, dentro de tales procedimientos, hechos vergonzosos o infamantes que afecten el decoro, honor o dignidad del imputado, siempre que las injurias y las imputaciones sean de tal naturaleza que hagan imposible la vida en común, si el autor de la injuria o de la imputación no obtiene en su favor, en ese procedimiento, sentencia ejecutoriada; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
-XVIII.- Emplear, la mujer, método de concepción humana artificial, sin el consentimiento del marido.
+XVII.- Injuriar un cónyuge a otro, por escrito, dentro de un juicio de nulidad de matrimonio o de divorcio necesario, o imputar el uno al otro, dentro de tales procedimientos, hechos vergonzosos o infamantes que afecten el decoro, honor o dignidad del imputado, siempre que las injurias y las imputaciones sean de tal naturaleza que hagan imposible la vida en común, si el autor de la injuria o de la imputación no obtiene en su favor, en ese procedimiento, sentencia ejecutoriada;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+XVIII.- Emplear, la mujer, método de concepción humana artificial, sin el consentimiento del marido; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+XIX.- Cuando existan indicios suficientes de violencia familiar contra alguno de los cónyuges, o los hijos de ambos o de alguno de ellos.
 
 ###### ARTICULO 273.
 
@@ -2287,15 +2337,17 @@ Bienes del culpable
 
 El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte, o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
 
-La división de bienes comunes, si los hubiere, se efectuará con arreglo a lo previsto para la disolución de la sociedad conyugal. En todo caso, el Juez podrá disponer se tomen las providencias para asegurar las obligaciones que queden pendientes entre los excónyuges o con relación a sus hijos. Los exconsortes tienen la obligación de alimentar a los hijos hasta que lleguen a la mayoría de edad, o mientras se encuentren incapacitados.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+La división de bienes comunes, si los hubiere, se efectuará con arreglo a lo previsto para la disolución de la sociedad conyugal. En todo caso, el Juez podrá disponer se tomen las providencias para asegurar las obligaciones que queden pendientes entre los ex cónyuges o con relación a sus hijos.
 
 ###### ARTICULO 285.
 
 Derecho del cónyuge a alimentos
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
-La mujer que carezca de bienes y durante el matrimonio se haya dedicado a las labores del hogar o al cuidado de los hijos, o que esté imposibilitada para trabajar, tendrá derecho a alimentos.
+La mujer inocente que carezca de bienes y durante el matrimonio se haya dedicado a las labores del hogar o al cuidado de los hijos, o que esté imposibilitada para trabajar, tendrá derecho a alimentos.
 
 El marido inocente sólo tendrá derecho a alimentos cuando carezca de bienes y esté imposibilitado para trabajar.
 
@@ -2303,11 +2355,19 @@ El excónyuge inocente tiene derecho, además, a que el culpable lo indemnice po
 
 El derecho a los alimentos, en caso de divorcio necesario, se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+La terminación del concubinato permite a los concubinos reclamarse mutuamente alimentos, en los términos establecidos para el matrimonio, obligación alimentaría que se prolongará por un tiempo igual al que haya durado la relación, siempre que el acreedor no contraiga nupcias ni establezca un nuevo concubinato y viva honestamente. La vigencia del derecho para ejercer esta acción será de un año contado a partir del día siguiente a la disolución de la unión.
+
 ###### ARTICULO 286.
 
 Limitación del derecho a alimentos
 
 En el caso de las causales enumeradas en las fracciones VI y VII del artículo 272, salvo que se trate de enfermedades venéreas, el excónyuge enfermo tendrá derecho a alimentos si carece de bienes y esté imposibilitado para trabajar; pero no procede la indemnización por daños y perjuicios.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+Al declararse procedente el divorcio por la causal IX del numeral 272 de esta ley, independientemente de que no haya declaración de inocencia o culpabilidad se fijarán alimentos al ex cónyuge que reúna los extremos de los párrafos primero y segundo del artículo 285 del presente Código.
 
 ## TITULO SEPTIMO. DEL PARENTESCO Y DE LOS ALIMENTOS
 
@@ -2419,19 +2479,21 @@ El adoptante y el adoptado.
 
 El adoptante y el adoptado tienen la obligación de darse alimentos en los casos en que la tienen los padres y los hijos.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 304.
 
-Qué comprenden
+Qué comprende.
 
-Los alimentos comprenden comida, vestido, habitación y asistencia en casos de enfermedad. Respecto de los menores, los alimentos comprenden, además, los gastos necesarios para su educación primaria y secundaria, y para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales.
+Los alimentos comprenden comida, vestido, habitación y asistencia en casos de enfermedad. Respecto de los menores, los alimentos comprenden, además, los gastos necesarios para su educación básica obligatoria, para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus circunstancias personales; así como para su sano esparcimiento que le permitan un desarrollo integral.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 305.
 
-Cómo se puede cumplir
+Como se puede cumplir.
 
-El obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándole a su familia, siempre que tuviere hogar propio y si en ello no hubiere grave inconveniente a juicio del Juez.
+El obligado a dar alimentos cumple la obligación asignando una pensión proporcional al acreedor alimentario, o incorporándole a su familia, siempre que tuviere hogar propio y no existan indicios suficientes de violencia familiar o algún otro grave inconveniente a juicio del Juez.
 
 ###### ARTICULO 306.
 
@@ -2444,6 +2506,14 @@ El deudor alimentista no podrá pedir que se incorpore a su familia el que debe 
 Proporcionalidad a las posibilidades y necesidades
 
 Los alimentos han de ser proporcionados a las posibilidades del que debe darlos y a las necesidades de quien debe recibirlos. Determinados por convenio o sentencia, los alimentos tendrán un incremento automático mínimo equivalente al aumento porcentual del salario mínimo general diario vigente en el Estado, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento de los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+El monto de la pensión se fijará tomando como base la totalidad de las percepciones que el deudor alimentario perciba, disminuyendo deducciones de carácter legal no derivadas de obligaciones personales impuestas al deudor alimentario.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+Cuando se pruebe que el deudor alimentario no tiene un trabajo permanente, sino eventual, entonces la condena al pago de alimentos se fijará en un porcentaje con base en el salario mínimo de los días trabajados.
 
 ###### ARTICULO 308.
 
@@ -2511,11 +2581,13 @@ Usufructo de los bienes del hijo
 
 En los casos en que quienes ejerzan la patria potestad gocen de la mitad del usufructo de los bienes del hijo, el importe de los alimentos se deducirá de dicha mitad, y si ésta no alcanza a cubrirlos, el exceso será por cuenta de los que ejerzan la patria potestad.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 316.
 
-Cuándo puede disminuirse la cantidad
+Cuándo puede disminuirse la cantidad.
 
-Si la necesidad del alimento proviene de mala conducta, el Juez, con conocimiento de causa, puede disminuir la cantidad destinada a los alimentos, poniendo al culpable en caso necesario a disposición de la autoridad competente.
+Procede la disminución de la pensión alimenticia a alguna de las partes, cuando varíen las circunstancias que dieron origen a la fijación.
 
 ###### ARTICULO 317.
 
@@ -2527,11 +2599,21 @@ I.- Si el que la tiene carece de medios para cumplirla;
 
 II.- Si el alimentista deja de necesitar los alimentos;
 
-III.- En caso de injuria, falta o daños graves inferidos por el alimentista contra el que debe prestarlos; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+III.- En caso de injuria, falta o daños graves inferidos por el alimentista contra el que debe prestarlos;
 
-IV.- Si el alimentista, sin consentimiento de quien debe dar los alimentos, abandona la casa de éste por causas injustificables.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+IV.- Si el alimentista, sin el consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+V.- Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo o al estudio del alimentario mientras subsistan estas causas; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+VI.- Cuando el alimentista incurra en una conducta dolosa o alevosa, y con ello obtenga un beneficio en detrimento de la economía del deudor.
 
 ###### ARTICULO 318.
 
@@ -3239,9 +3321,73 @@ II.- El adoptado pasa a ser un miembro más en la familia del adoptante como si 
 
 III.- Confiere al adoptado, respecto de la familia del adoptante, los mismos derechos y obligaciones que si hubiera nacido de matrimonio y viceversa, creando un verdadero lazo de parentesco.
 
-## TITULO NOVENO. DE LA MENOR EDAD
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
-## TITULO DECIMO. DEL ESTADO DE INCAPACIDAD
+## TITULO OCTAVO BIS. DE LA PROTECCION CONTRA LA VIOLENCIA FAMILIAR
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 403 BIS.-
+
+Para los efectos de este código, se entiende por violencia familiar al acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a la víctima, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido con ella relación de matrimonio, concubinato o de hecho; de parentesco por consanguinidad en línea recta ascendiente o descendiente sin limitación de grado; de parentesco colateral consanguíneo o afín hasta el cuarto grado, de adoptante o adoptado; o de tutor.
+
+Para los efectos de este artículo se considera una relación de hecho aquella formada por una pareja que vivan juntos, no hayan procreado hijos y que aun no cumplan el plazo establecido por este Código para ser considerado concubinato.
+
+La violencia familiar se presenta en cualquiera de los siguientes tipos:
+
+I. Violencia psicológica: Consiste en cualquier acto u omisión que dañe la estabilidad psicológica de la víctima consistente en amenazas, negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, marginación, indiferencia, comparaciones destructivas, rechazo o restricción a la autodeterminación, que conlleven a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+
+II. Violencia física: Cualquier acción que inflige daño no accidental a la víctima, usando la fuerza física o algún tipo de arma, objeto o sustancia para sujetar, inmovilizar o causar daño a su integridad física, que pueda provocarle o no lesiones ya sean internas, externas o ambas;
+
+III. Violencia patrimonial: Es el acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima;
+
+IV. Violencia económica: Es toda acción u omisión del Agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas;
+
+V. Violencia sexual: Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima, y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía de un sexo sobre otro al denigrarlo y concebirlo como objeto; y
+
+VI. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de los integrantes del grupo familiar.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 403 TER.-
+
+En atención a lo dispuesto en el artículo anterior las disposiciones de este capítulo (sic) son de orden público e interés social.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 403 QUÁTER.-
+
+En todas las controversias derivadas de violencia familiar, el juez dictará las siguientes medidas cautelares:
+
+I. Ordenar la separación del agresor de la vivienda donde habita el grupo familiar;
+
+II. Prohibir al agresor ir al domicilio del grupo familiar, así como a los lugares de trabajo o estudio de la víctima;
+
+III. Prohibir al agresor que se aproxime a las víctimas; y
+
+IV. Una vez actualizada la fracción primera, ordenar el reingreso de la víctima o victimas al domicilio de grupo familiar, cuando ésta por razones de seguridad personal ha debido salir del mismo.
+
+De igual forma podrá emitir las siguientes órdenes de protección civil:
+
+I. Suspensión temporal del agresor del régimen de visitas y convivencia con sus descendientes;
+
+II. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal, y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
+
+III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio;
+
+IV. Obligación alimentaria provisional o inmediata; o
+
+V. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias y/o garantizar los derechos de la sociedad conyugal.
+
+En caso de reincidencia o desobediencia a estas medidas, el Juez decretará los medios de apremio contemplados en el artículo 129 del Código de Procedimientos Civiles del Estado de Tabasco.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 403 QUINTUS.-
+
+El Juez establecerá la duración de las medidas dispuestas de acuerdo con las necesidades del caso concreto. Así mismo, dentro de las cuarenta y ocho horas de adoptadas las medidas, avendrá al grupo familiar en presencia del Ministerio Público y el Sistema para el Desarrollo Integral de la Familia y los conminará a asistir a programas educativos o terapéuticos.
+
+## TITULO NOVENO. DE LA MENOR EDAD
 
 ###### ARTICULO 404.
 
@@ -3275,7 +3421,7 @@ Providencias protectoras del incapaz
 
 Las providencias protectoras del incapaz que este Código establece y las que juzguen pertinentes los Tribunales, se dictarán por ellos de oficio o a petición del Ministerio Público, de los parientes del incapaz, de éste mismo si ya hubiere cumplido catorce años, de su tutor o de su curador.
 
-## TITULO UNDECIMO. DE LA PATRIA POTESTAD
+## TITULO DECIMO. DEL ESTADO DE INCAPACIDAD
 
 ###### ARTICULO 409.
 
@@ -3333,7 +3479,7 @@ Cuándo se hacen pasar por mayores
 
 Los menores tampoco pueden alegar la nulidad, si han presentado certificados falsos del Registro Civil para hacerse pasar como mayores o han manifestado dolosamente que lo eran.
 
-## TITULO DUODECIMO. DE LA TUTELA
+## TITULO UNDECIMO. DE LA PATRIA POTESTAD
 
 ### CAPITULO II. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS BIENES DEL HIJO
 
@@ -3629,11 +3775,7 @@ IV.- Por la exposición que el padre o la madre o el abuelo o la abuela hicieren
 
 V.- Por incumplimiento injustificado de dar alimentos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
-
-Para los efectos de la fracción III de este artículo, se entiende por violencia familiar el uso de la fuerza física o moral, así como la omisión grave, respecto de un menor, por sus padres o por cualquier otra persona, que en términos de lo dispuesto por este título ejerce la patria potestad y que atenten contra su integridad física, psíquica o ambas, independientemente del lugar en que se lleve a cabo.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 453.
 
@@ -3697,7 +3839,7 @@ Excusa justificada
 
 El Juez puede excusar al obligado cuando tenga causa justificada, sesenta años cumplidos o por su mal estado habitual de salud no se pueda atender debidamente a su desempeño.
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+## TITULO DUODECIMO. DE LA TUTELA
 
 ### CAPITULO II. DE LA TUTELA TESTAMENTARIA
 
@@ -6689,7 +6831,7 @@ Las disposiciones de este Capítulo, solamente serán aplicables en tanto no se 
 
 # LIBRO SEGUNDO. DE LOS BIENES Y DE LOS DERECHOS REALES
 
-## TITULO SEGUNDO. CLASIFICACION DE LOS BIENES
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 836.
 
@@ -6735,7 +6877,7 @@ Bienes pertenecientes a personas jurídicas públicas
 
 Los bienes pertenecientes a personas jurídicas de orden público, se regirán por las leyes administrativas sobre esa materia y por este Código en lo no previsto en ellas.
 
-## TITULO TERCERO. DE LA POSESION
+## TITULO SEGUNDO. CLASIFICACION DE LOS BIENES
 
 ### CAPITULO II. DE LOS BIENES INMUEBLES
 
@@ -7043,7 +7185,7 @@ Si el propietario se opusiere en el juicio, y da fianza que fijará el Juez, obl
 
 Si se hubiere otorgado la posesión en los términos del artículo mencionado, sólo hasta después de un año, y dentro de los tres primeros meses del segundo, si se trata de predios rústicos, podrán el propietario o poseedor originario recuperar su posesión en los términos de este precepto.
 
-## TITULO CUARTO. DE LA USUCAPION
+## TITULO TERCERO. DE LA POSESION
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -7451,7 +7593,7 @@ Por qué se pierde la posesión de derechos
 
 Se pierde la posesión de los derechos cuando es imposible ejercitarlos.
 
-## TITULO QUINTO. DE LA PROPIEDAD
+## TITULO CUARTO. DE LA USUCAPION
 
 ###### ARTICULO 924.
 
@@ -7667,7 +7809,7 @@ Sentencia
 
 La sentencia ejecutoria que declare procedente la acción a que se refiere el artículo anterior se protocolizará ante Notario, se inscribirá en el Registro Público de la Propiedad y servirá de título al actor.
 
-## TITULO SEXTO. DEL USUFRUCTO, DEL USO Y DE LA HABITACION
+## TITULO QUINTO. DE LA PROPIEDAD
 
 ### CAPITULO II. MEDIOS DE ADQUIRIR LA PROPIEDAD
 
@@ -8965,7 +9107,7 @@ Para la regulación de las recíprocas relaciones de vecindad y condominio, así
 
 El reglamento puede ser modificado en la misma forma y a sus disposiciones deben sujetarse los nuevos adquirentes, inquilinos y ocupantes.
 
-## TITULO SEPTIMO. DE LAS SERVIDUMBRES
+## TITULO SEXTO. DEL USUFRUCTO, DEL USO Y DE LA HABITACION
 
 ### CAPITULO II. DE LOS DERECHOS DEL USUFRUCTUARIO
 
@@ -9487,7 +9629,7 @@ Constitución
 
 Los derechos de uso y habitación pueden constituirse por la ley, por acto jurídico unilateral o plurilateral, o por usucapión.
 
-## TITULO OCTAVO. DEL REGISTRO PUBLICO DE LA PROPIEDAD
+## TITULO SEPTIMO. DE LAS SERVIDUMBRES
 
 ### CAPITULO II. DE LAS SERVIDUMBRES LEGALES EN GENERAL
 
@@ -10111,7 +10253,7 @@ Destrucción de la edificación
 
 El derecho de superficie no se extingue por la destrucción de lo edificado, salvo pacto en contrario, pudiendo reconstruirse lo destruido.
 
-## TITULO PRIMERO
+## TITULO OCTAVO. DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
 ### CAPITULO II. DE LOS TITULOS SUJETOS A REGISTRO Y DE LOS EFECTOS LEGALES DEL MISMO
 
@@ -10603,7 +10745,7 @@ Las inscripciones preventivas se cancelarán no solamente cuando se extinga el d
 
 # LIBRO TERCERO. DE LAS SUCESIONES
 
-## TITULO SEGUNDO. DE LA SUCESION POR TESTAMENTO
+## TITULO PRIMERO
 
 ### CAPITULO I. DE LOS TESTAMENTOS EN GENERAL
 
@@ -10665,7 +10807,7 @@ Modificación de los bienes de la herencia
 
 Desde la muerte del autor de la herencia, los bienes que forman ésta mejoran, se perjudican o perecen en beneficio del heredero o legatario respectivamente.
 
-## TITULO TERCERO. DE LA FORMA DE LOS TESTAMENTOS
+## TITULO SEGUNDO. DE LA SUCESION POR TESTAMENTO
 
 ### CAPITULO II. DE LAS CONDICIONES QUE PUEDEN PONERSE EN LOS TESTAMENTOS
 
@@ -12163,7 +12305,7 @@ De hecho desconocido
 
 La disposición testamentaria que contenga condición de suceso pasado o presente desconocidos, no caduca, aunque la noticia del hecho se adquiera después de la muerte del heredero o legatario cuyos derechos se transmiten a sus respectivos herederos.
 
-## TITULO CUARTO. DE LA SUCESION LEGITIMA
+## TITULO TERCERO. DE LA FORMA DE LOS TESTAMENTOS
 
 ### CAPITULO II. DEL TESTAMENTO PUBLICO ABIERTO
 
@@ -12781,7 +12923,7 @@ Normas
 
 Los testamentos hechos fuera del territorio del Estado de Tabasco, pero dentro de la República y los hechos en el extranjero se regirán en cuanto a su forma y efectos por lo dispuesto, respectivamente, en los artículos 15 y17 (sic) de este Código.
 
-## TITULO QUINTO. DISPOSICIONES COMUNES A LA SUCESION TESTAMENTARIA Y A LA LEGITIMA
+## TITULO CUARTO. DE LA SUCESION LEGITIMA
 
 ### CAPITULO II. DEL DERECHO DE REPRESENTACION
 
@@ -13119,7 +13261,7 @@ Derechos y obligaciones como los demás herederos
 
 Los derechos y obligaciones de la Beneficencia Pública, son del todo iguales a los de los herederos.
 
-## TITULO PRIMERO. DE LAS OBLIGACIONES EN GENERAL
+## TITULO QUINTO. DISPOSICIONES COMUNES A LA SUCESION TESTAMENTARIA Y A LA LEGITIMA
 
 ### CAPITULO II. DEL DERECHO DE ACRECER
 
@@ -14379,7 +14521,7 @@ III.- Reales o propter rem, son las que afectan a un sujeto en su calidad de pro
 
 Las obligaciones naturales, personales o reales, cuando son susceptibles de valoración económica, así como sus correlativos derechos personales o de crédito y los derechos reales, constituyen, con todos los bienes de una persona, el patrimonio económico de ésta; la función de cuyo activo como garantía genérica del pasivo, se precisa en el Libro Primero.
 
-## TITULO SEGUNDO. DE LOS CONTRATOS EN GENERAL
+## TITULO PRIMERO. DE LAS OBLIGACIONES EN GENERAL
 
 ### CAPITULO II. DE LOS ACTOS JURIDICOS
 
@@ -14651,7 +14793,7 @@ Excepción perpetua
 
 La excepción de nulidad de un contrato es perpetua.
 
-## TITULO TERCERO. DE LA DECLARACION UNILATERAL DE LA VOLUNTAD
+## TITULO SEGUNDO. DE LOS CONTRATOS EN GENERAL
 
 ### CAPITULO II. DE LA CAPACIDAD DE LOS CONTRATANTES
 
@@ -15217,7 +15359,7 @@ Disposiciones aplicables
 
 Las disposiciones legales sobre contratos serán aplicables a todos los convenios y acuerdo de las partes, salvo disposiciones especiales de la ley sobre los mismos.
 
-## TITULO CUARTO. DEL ENRIQUECIMIENTO SIN CAUSA
+## TITULO TERCERO. DE LA DECLARACION UNILATERAL DE LA VOLUNTAD
 
 ###### ARTICULO 1978.
 
@@ -15399,7 +15541,7 @@ Derechos del promitente
 
 El promitente tiene derecho de designar la persona que deba decidir a quién o a quiénes de los concursantes se otorga la recompensa.
 
-## TITULO QUINTO. DE LA GESTION DE NEGOCIOS
+## TITULO CUARTO. DEL ENRIQUECIMIENTO SIN CAUSA
 
 ###### ARTICULO 2001.
 
@@ -15447,7 +15589,7 @@ No procede la indemnización en beneficio recíproco
 
 Cuando por actos de una persona se beneficiaren en términos generales otra u otras, por aumentar el valor de sus propiedades o posesiones, y dicho beneficio sea consecuencia del que también experimente la persona que ejecute tales actos, no habrá lugar tampoco a exigir indemnización alguna, no obstante las erogaciones o trabajos que el primero hubiere ejecutado.
 
-## TITULO SEXTO. DE LA RESPONSABILIDAD CIVIL
+## TITULO QUINTO. DE LA GESTION DE NEGOCIOS
 
 ###### ARTICULO 2007.
 
@@ -15547,7 +15689,7 @@ Gestión por interés propio
 
 Si el gestor se mezcla en negocios ajenos, por hallarse éstos de tal modo conexos con los suyos que no podría tratar unos sin los otros, el dueño no está obligado sino hasta donde alcancen las ventajas recibidas.
 
-## TITULO SEPTIMO. DE LA LEY COMO FUENTE DE OBLIGACIONES
+## TITULO SEXTO. DE LA RESPONSABILIDAD CIVIL
 
 #### SECCION PRIMERA. REGLAS GENERALES
 
@@ -15985,7 +16127,7 @@ Prescripción de acción
 
 La acción para exigir reparación de los daños causados en los términos de esta Sección, prescribe en dos años contados a partir del día en que se hayan causado.
 
-## TITULO OCTAVO. DE LAS DIFENTES (SIC) ESPECIES DE OBLIGACIONES
+## TITULO SEPTIMO. DE LA LEY COMO FUENTE DE OBLIGACIONES
 
 ###### ARTICULO 2075.
 
@@ -15999,7 +16141,7 @@ Reglas generales
 
 Las obligaciones que emanan de la ley sólo son exigibles en los casos expresamente previstos y de acuerdo con los preceptos que las establecen; pero en lo que éstos sean omisos, deberán regirse por las reglas generales sobre obligaciones y contratos, en cuanto les sean aplicables.
 
-## TITULO NOVENO. DE LA TRANSMISION DE LOS DERECHOS DE CREDITO Y DE LOS DERECHOS REALES
+## TITULO OCTAVO. DE LAS DIFENTES (SIC) ESPECIES DE OBLIGACIONES
 
 ### CAPITULO II. DE LAS OBLIGACIONES A PLAZO
 
@@ -16763,7 +16905,7 @@ Si el obligado a prestar un hecho no lo hiciere, el acreedor tiene derecho de pe
 
 El que estuviere obligado a no hacer algo, quedará sujeto al pago de daños y perjuicios en caso de contravención. Si hubiere obra material, podrá exigir el acreedor que sea destruida a costa del obligado.
 
-## TITULO DECIMO. DEL CUMPLIMIENTO DE LAS OBLIGACIONES
+## TITULO NOVENO. DE LA TRANSMISION DE LOS DERECHOS DE CREDITO Y DE LOS DERECHOS REALES
 
 ### CAPITULO II. DE LA TRANSMISION DE DERECHOS REALES
 
@@ -17493,7 +17635,7 @@ Enajenación en remate
 
 En las enajenaciones hechas en remates o por adjudicación judicial, el demandado a quien se remata un bien no tiene la obligación de responder de los vicios redhibitorios.
 
-## TITULO UNDECIMO. DE LA EXTINCION DE LAS OBLIGACIONES
+## TITULO DECIMO. DEL CUMPLIMIENTO DE LAS OBLIGACIONES
 
 ### CAPITULO I. DE LA COMPENSACION
 
@@ -17957,11 +18099,7 @@ Reglas sobre la cesión
 
 Los convenios que sobre el efecto de la cesión se celebren entre el deudor y sus acreedores, se sujetarán a lo dispuesto en el Título relativo a la concurrencia y prelación de los créditos.
 
-## TITULO DUODECIMO
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
-
-DE LAS INSTITUCIONES PROTECTORAS DEL ACREEDOR PARA EL CASO DE INCUMPLIMIENTO DEL DEUDOR
+## TITULO UNDECIMO. DE LA EXTINCION DE LAS OBLIGACIONES
 
 ### CAPITULO II. DE LA CONFUSION DE DERECHOS
 
@@ -18441,7 +18579,11 @@ Efectos
 
 El efecto de la interrupción es inutilizar para la prescripción, todo el tiempo corrido antes de ella.
 
-## TITULO PRIMERO. DE LOS CONTRATOS PREPARATORIOS
+## TITULO DUODECIMO
+
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+
+DE LAS INSTITUCIONES PROTECTORAS DEL ACREEDOR PARA EL CASO DE INCUMPLIMIENTO DEL DEUDOR
 
 ### CAPITULO II. DE LA SIMULACION DE LOS ACTOS JURIDICOS
 
@@ -19131,7 +19273,7 @@ El pago se hará a prorrata y sin atender a las fechas ni al origen de los créd
 
 # LIBRO QUINTO. DE LAS DIVERSAS ESPECIES DE CONTRATOS
 
-## TITULO SEGUNDO. ESTIPULACION EN FAVOR DE TERCERO
+## TITULO PRIMERO. DE LOS CONTRATOS PREPARATORIOS
 
 ### CAPITULO UNICO
 
@@ -19193,7 +19335,7 @@ Demanda de cumplimiento o rescisión
 
 Si terminado el plazo para el otorgamiento no se hubiere cumplido la obligación de hacer, el perjudicado podrá pedir el cumplimiento de la promesa o la rescisión del contrato preparatorio.
 
-## TITULO TERCERO. DE LA COMPRAVENTA
+## TITULO SEGUNDO. ESTIPULACION EN FAVOR DE TERCERO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -19251,7 +19393,7 @@ Revocación
 
 Si la estipulación se revocare, los estipulantes deberán devolverse lo que se hayan dado, respectivamente, con motivo de la estipulación.
 
-## TITULO CUARTO. DE LA PERMUTA
+## TITULO TERCERO. DE LA COMPRAVENTA
 
 ### CAPITULO II. DE LA MATERIA DE LA COMPRAVENTA
 
@@ -19919,7 +20061,7 @@ Efectos frente a terceros
 
 La venta de bienes raíces no producirá efectos contra tercero, sino después de registrada en los términos prescritos en este Código.
 
-## TITULO QUINTO. DE LAS DONACIONES
+## TITULO CUARTO. DE LA PERMUTA
 
 ### CAPITULO I. REGLAS GENERALES
 
@@ -19953,7 +20095,7 @@ Reglas de la compraventa
 
 Con excepción de lo referente al precio, son aplicables a este contrato las reglas de la compraventa, en cuanto no se opongan a los artículos anteriores.
 
-## TITULO SEXTO. DEL MUTUO
+## TITULO QUINTO. DE LAS DONACIONES
 
 ### CAPITULO II. DE LAS PERSONAS QUE PUEDEN HACER Y RECIBIR DONACIONES
 
@@ -20313,7 +20455,7 @@ VIII.- Revocada o reducida una donación por inoficiosa, el donatario sólo resp
 
 IX.- La donación entre ascendientes y descendientes no puede ser revocada ni reducida por inoficiosa.
 
-## TITULO SEPTIMO. DEL ARRENDAMIENTO
+## TITULO SEXTO. DEL MUTUO
 
 ### CAPITULO II. DEL MUTUO CON INTERES
 
@@ -20441,7 +20583,7 @@ Cuándo habrá lesión
 
 En todo caso en que se pacten intereses y prestaciones a cargo del mutuario, superiores en un veinticinco por ciento de los que se fijen por las instituciones de crédito a las operaciones de la misma especie, habrá lesión y el mutuario podrá optar entre la nulidad del contrato o esperar a que, por ministerio de ley, se produzca la compensación que operará aplicándose las cantidades que se paguen al mutuante, en primer término, a la amortización del capital y redimido éste, al pago de los intereses sobre saldos insolutos, al tanto por ciento de los que se estipule en los mutuos a que se hizo referencia, de las instituciones de crédito. Este artículo es irrenunciable.
 
-## TITULO OCTAVO. DEL COMODATO
+## TITULO SEPTIMO. DEL ARRENDAMIENTO
 
 ### CAPITULO II. DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDADOR
 
@@ -21451,7 +21593,7 @@ De bienes muebles
 
 Podrá también darse el uso, en tiempo compartido, de bienes muebles, en cuyo caso se estará a lo que sobre el particular convengan las partes y, en lo que fueren omisas y en lo conducente, a lo que en este Capítulo se dispone.
 
-## TITULO NOVENO. DEL DEPOSITO
+## TITULO OCTAVO. DEL COMODATO
 
 ###### ARTICULO 2799.
 
@@ -21569,7 +21711,7 @@ Término
 
 El comodato termina, además de las causas generales de terminación de todo contrato, por la muerte del comodatario; también por la enajenación de la cosa comodada. En este último caso el comodatario deberá restituir el bien al comodante, aun cuando no hubiere terminado el plazo o uso convenidos.
 
-## TITULO DECIMO. DEL SECUESTRO
+## TITULO NOVENO. DEL DEPOSITO
 
 ###### ARTICULO 2816.
 
@@ -21739,7 +21881,7 @@ Depósito en establecimientos
 
 Los dueños de establecimientos en donde se reciban huéspedes, son responsables del deterioro, destrucción o pérdida de los efectos introducidos en el establecimiento con su consentimiento o el de sus empleados autorizados.
 
-## TITULO UNDECIMO. DEL MANDATO
+## TITULO DECIMO. DEL SECUESTRO
 
 ###### ARTICULO 2838.
 
@@ -21801,7 +21943,7 @@ Disposiciones procesales
 
 El secuestro judicial se rige por las disposiciones del Código de Procedimientos Civiles y, en su defecto, por las mismas del secuestro convencional.
 
-## TITULO DUODECIMO. DEL CONTRATO DE PRESTACION DE SERVICIOS
+## TITULO UNDECIMO. DEL MANDATO
 
 ### CAPITULO II. DE LAS OBLIGACIONES DEL MANDATARIO CON RESPECTO AL MANDANTE
 
@@ -22356,6 +22498,8 @@ El mandatario que renuncie tiene obligación de seguir el negocio mientras el ma
 Responsabilidad
 
 El mandatario, sabiendo que ha cesado el mandato, lo que hiciere con un tercero que ignore el término de la procuración, obliga al mandatario personalmente con el tercero; y es responsable al mandante de todos los daños y perjuicios que sobrevengan, aun por caso fortuito.
+
+## TITULO DUODECIMO. DEL CONTRATO DE PRESTACION DE SERVICIOS
 
 ### CAPITULO II. DEL CONTRATO DE OBRA A PRECIO ALZADO
 
@@ -25364,6 +25508,26 @@ P.O. 17 DE MAYO DE 2008.
 PRIMERO.- El presente decreto entrará en vigor a los sesenta días posteriores al siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se deroga cualquier disposición que contravenga lo dispuesto en el presente decreto.
+
+P.O. 13 DE DICIEMBRE DE 2008.
+
+DECRETO No. 103 POR EL QUE SE REFORMAN LOS ARTICULOS 58; 165, SEGUNDO PARRAFO; 205; 264; 284, SEGUNDO PARRAFO Y 285, PRIMER PARRAFO; ASI COMO LA DENOMINACION DEL CAPITULO VI, DEL TITULO SEXTO DEL LIBRO PRIMERO; Y SE ADICIONAN UN SEGUNDO PARRAFO AL ARTICULO 153; EL ARTICULO 256 BIS; UN QUINTO PARRAFO AL ARTICULO 285; Y UN SEGUNDO PARRAFO AL ARTICULO 286, DEL CODIGO CIVIL PARA EL ESTADO DE TABASCO.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. Los juicios de rectificación de actas y los relativos a procedimientos judiciales no contenciosos que se encuentren en trámite en los juzgados de primera instancia, no serán declinados a los juzgados de paz, sino que se concluirán en aquellos.
+
+P.O. 13 DE DICIEMBRE DE 2008.
+
+DECRETO No. 105 POR EL QUE SE REFORMAN: LOS ARTICULOS 116 FRACCION I; 154; 157; 232 PRIMER PARRAFO Y FRACCION II; 272 FRACCIONES XVII Y XVIII; 304; 305; 316 Y 317 FRACCIONES III Y IV; SE ADICIONAN: UN CUARTO PARRAFO AL ARTICULO 167; LA FRACCION XIX AL ARTICULO 272; DOS PARRAFOS AL ARTICULO 307; LAS FRACCIONES V Y VI AL ARTICULO 317; Y UN TITULO OCTAVO BIS, QUE SE DENOMINA "DE LA PROTECCION CONTRA LA VIOLENCIA FAMILIAR" CON SUS ARTICULOS 403 BIS, 403 TER, 403 QUATER Y 403 QUINTUS; Y SE DEROGA EL ULTIMO PARRAFO DEL ARTICULO 452; DEL CODIGO CIVIL PARA EL ESTADO DE TABASCO.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan al presente Decreto.
+
+TERCERO. Los procesos jurisdiccionales relacionados con la materia que regula el presente decreto actualmente en trámite, se concluirán de conformidad con la normatividad que los reguló al momento de su inicio.
 
 ###### ARTICULO PRIMERO.
 
