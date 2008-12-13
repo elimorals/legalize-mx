@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-del-estado-246
 country: "mx"
 rank: "ley"
 publication_date: "2002-04-27"
-last_updated: "2006-09-12"
+last_updated: "2008-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 27 de abril de 2002.
 
@@ -309,17 +309,23 @@ Se favorecerá el desarrollo de todas las demás medidas de tratamiento compatib
 
 ### CAPÍTULO I. REMISIÓN PARCIAL DE LA PENA
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 31.
 
-Por cada dos días de trabajo se hará remisión de uno de prisión, siempre que el interno observe buena conducta, participe regularmente en las actividades educativas que se organicen en el establecimiento y apruebe la valoración del consejo técnico interdisciplinario.
+Por cada dos días de trabajo se hará remisión de uno de prisión, siempre que el interno observe buena conducta, participe regularmente en las actividades, educativas, laborales y socio-recreativas que se organicen en el establecimiento y apruebe la valoración del consejo técnico interdisciplinario y que revele datos efectivos para la reinserción social. Esta última será, en todo caso, el factor determinante y la condición inexcusable para la concesión de la remisión parcial de la pena.
 
-La remisión funcionará independientemente de la libertad preparatoria, cuyos plazos se regirán, exclusivamente por las normas específicas pertinentes.
+La remisión funcionará independientemente de la libertad preparatoria, cuyos plazos se regirán, exclusivamente por las normas específicas pertinentes, por lo que para computar el plazo para el ejercicio de esta última, se deducirá el tiempo redimido.
+
+Además para la concesión de este beneficio, se requiere también, que se hayan reparado plenamente los daños y perjuicios causados, o que se garanticen legalmente, salvo que éstos hayan sido declarados prescritos o que el ofendido se dé por reparado de los mismos.
 
 ###### Artículo 32.
 
 El procedimiento para la concesión de este beneficio, podrá iniciar a petición de parte o de oficio. En el primer caso, el interno la solicitará al Director General, quien pedirá al Consejo Técnico Interdisciplinario de dicho centro, opinión sobre la procedencia o no del beneficio solicitado, considerando la conducta desplegada por el interno, asistencia a la escuela, días laborados, participación en actividades deportivas, culturales y recreativas, así como la opinión del trabajo social, médico, psicológico y psiquiátrico, mismo que deberá ser remitido dentro de los diez días hábiles siguientes a su requerimiento. Una vez que el Director General tenga el dictamen, determinará en un término de quince días hábiles lo que legalmente proceda.
 
-La remisión parcial de la pena se hará de manera oficiosa, con la periodicidad a que se refiere el artículo 16 de este ordenamiento y se otorgará independientemente de cualquier otro beneficio.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+La remisión parcial de pena se otorgará una sola vez, siempre que con ella el beneficiado obtenga su libertad, no obstante el consejo técnico mantendrá el seguimiento del estudio de su personalidad con la periodicidad a la que alude el artículo 16 de esta ley.
 
 Si la resolución fuere favorable al interno, se notificará al Director del Centro, en caso contrario, se archivará el expediente previa notificación personal.
 
@@ -351,9 +357,11 @@ Determinada la libertad en los términos de este artículo, y previo a su materi
 
 Recibida la solicitud, del interno, la Dirección General, solicitará al Consejo Técnico Interdisciplinario del centro de que se trate, que en un término de diez días hábiles le remita los informes correspondientes para tal efecto; obtenido lo anterior, la Dirección General resolverá dentro de los diez días hábiles siguientes.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 35.
 
-La libertad preparatoria no se concederá a los reincidentes, ni a los que hayan cometido cualquiera de los siguientes delitos: homicidio calificado, violación simple, calificada, equiparada o impropia y privación de la libertad en su modalidad de secuestro.
+La libertad preparatoria no se concederá a los reincidentes, ni a los que hayan cometido cualquiera de los siguientes delitos: Homicidio calificado, violación simple, calificada, equiparada o impropia, secuestro, asociación delictuosa y terrorismo, independientemente del grado de participación y ejecución de los mismos.
 
 ###### Artículo 36.
 
@@ -388,6 +396,12 @@ II. Haber observado durante su internamiento buena conducta, mejoramiento cultur
 III. Ofrecer dedicarse en un plazo que la resolución determine, a un oficio, arte, industria, profesión o cualquier otra actividad honesta para vivir; y
 
 IV. Que se hayan reparado plenamente los daños y perjuicios causados, o que se garanticen legalmente, salvo que éstos hayan sido declarados prescritos o que el ofendido se dé por reparado de los mismos.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 39 Bis.
+
+El tratamiento preliberacional no se concederá a los que hayan cometido cualquiera de los siguientes delitos: Homicidio calificado, violación simple, calificada, equiparada o impropia, secuestro, asociación delictuosa y terrorismo, independientemente del grado de participación y ejecución de los mismos.
 
 ###### Artículo 40.
 
@@ -608,3 +622,9 @@ El presente Decreto que establece el Sistema Integral de Justicia para Adolescen
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan al Sistema Integral de Justicia para Adolescentes.
+
+P.O. 13 DE DICIEMBRE DE 2008.
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Quedan sin efecto las disposiciones que se opongan a lo ordenado en el presente Decreto.
