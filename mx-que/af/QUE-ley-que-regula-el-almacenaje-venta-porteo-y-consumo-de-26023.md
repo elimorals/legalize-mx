@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-regula-el-almacenaje-venta-porteo-y-consumo-de-26023"
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-30"
-last_updated: "2007-12-10"
+last_updated: "2008-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY QUE REGULA EL ALMACENAJE, VENTA, PORTEO Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY SOBRE BEBIDAS ALCOHOLICAS DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 13 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 30 de agosto del año 2002.
 
@@ -1158,3 +1160,11 @@ Se derogan todas aquellas disposiciones que se opongan a la presente ley.
 ###### ARTÍCULO SEXTO.
 
 Publíquese esta ley en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 13 DE DICIEMBRE DE 2008.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley que Regula el Almacenaje, Venta, Porteo y Consumo de Bebidas Alcohólicas en el Estado de Querétaro, publicada el treinta de agosto de dos mil dos, en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Tercero. Para la debida aplicación de la presente Ley, las autoridades competentes deberán expedir las disposiciones reglamentarias que para tal efecto se requieran.
