@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2008-05-17"
+last_updated: "2008-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO PENAL PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2008.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -3183,6 +3183,8 @@ DELITOS CONTRA LA SEGURIDAD EN LOS MEDIOS INFORMATICOS Y MAGNETICOS
 
 ### CAPITULO II. TERRORISMO
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
 ### CAPITULO III. SABOTAJE
 
 ### CAPITULO IV. ASONADA O MOTIN
@@ -3509,7 +3511,21 @@ A los extranjeros que cometan el delito de rebelión, además de las penas que l
 
 ###### Artículo 362.
 
-Al que utilizando explosivos, substancias tóxicas, armas de fuego o por incendio, inundación o cualquier otro medio violento realice actos en contra de las personas, las cosas o servicios al público, que produzcan alarma, temor o terror en la población o en un grupo o sector de ella, para perturbar la paz pública o menoscabar la autoridad del Estado, la integridad de su territorio o el orden constitucional, o presionar a la autoridad para que tome una determinación, se le impondrá prisión de dos a cuarenta años, multa de cien a quinientos días multa y suspensión de derechos políticos hasta por diez años.
+Al que utilizando explosivos, substancias tóxicas, armas de fuego, armas químicas, armas biológicas o por incendio, inundación o cualquier otro medio violento realice actos en contra de las personas, las cosas o servicios al público, que produzcan alarma, temor o terror en la población o en un grupo o sector de ella, para perturbar la paz pública o tratar de menoscabar la autoridad del Estado, la integridad de su territorio o el orden constitucional, o presionar a la autoridad para que tome una determinación, se le impondrá prisión de diez a cuarenta años, multa de quinientos a mil días multa y suspensión de derechos políticos hasta por diez años. Sin perjuicio de las penas por otros delitos que resulten.
+
+La misma sanción se impondrá al que directa o indirectamente financie, aporte o recaude fondos económicos o recursos de cualquier naturaleza, con conocimiento de que serán utilizados, en todo o en parte, en apoyo de personas u organizaciones que operen o cometan actos terroristas.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+Artículo 362 bis.- Se aplicará pena de cinco a quince años de prisión y de doscientos a seiscientos días multa al que amenace con cometer el delito de terrorismo a que se refiere el párrafo primero del artículo 362 de este Código.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+Artículo 362 bis 1.- Se aplicará pena de uno a nueve años de prisión y de cien a trescientos días multa, al que teniendo conocimiento de las actividades de un terrorista, no lo haga saber a las autoridades. Igual pena se aplicará al que brinde ayuda al terrorista y auxilio de cualquier naturaleza, para evadir la acción de la justicia.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+Artículo 362 bis 2.- Al que instigue, incite o invite a policías ministeriales o miembros de las corporaciones policíacas en ejercicio, tanto en el ámbito estatal o municipal a la ejecución de los delitos a que se refiere este artículo, se le aplicará pena de cinco a cuarenta años de prisión.
 
 ###### Artículo 363.
 
@@ -3650,3 +3666,7 @@ El presente Decreto entrará en vigor tres días después de su publicación en 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al correspondiente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2008.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
