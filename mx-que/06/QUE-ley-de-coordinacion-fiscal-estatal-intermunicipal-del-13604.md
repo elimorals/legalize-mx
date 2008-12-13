@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-coordinacion-fiscal-estatal-intermunicipal-del-13604"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-31"
-last_updated: "2007-12-10"
+last_updated: "2008-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE COODINACION FISCAL ESTATAL-INTERMUNICIPAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COORDINACION FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 13 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de diciembre de 1996.
 
@@ -512,3 +514,11 @@ Se derogan todas aquellas disposiciones que se opongan a la presente ley.
 ###### ARTÍCULO SEXTO.
 
 Publíquese esta ley en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 13 DE DICIEMBRE DE 2008.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Coordinación Fiscal Estatal-Intermunicipal del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número cincuenta y cuatro, de fecha treinta y uno de diciembre de mil novecientos noventa y seis.
+
+Artículo Tercero. Los convenios celebrados entre el Poder Ejecutivo del Estado y los ayuntamientos, para el ejercicio fiscal dos mil ocho, así como los demás acuerdos aprobados en la Convención Fiscal de las Tesorerías Municipales del Estado, serán respetados y aplicados en los términos en que fueron suscritos.
