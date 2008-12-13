@@ -4,7 +4,7 @@ identifier: "QUE-codigo-fiscal-del-estado-de-queretaro-7564"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-31"
-last_updated: "2007-12-10"
+last_updated: "2008-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 CODIGO FISCAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE QUERETARO PUBLICADO EN EL P.O. DEL 13 DE DICIEMBRE DE 2008, EL PRESENTE CODIGO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 31 de diciembre de 1987.
 
@@ -2966,3 +2968,11 @@ Se derogan todas aquellas disposiciones que se opongan a la presente ley.
 ###### ARTÍCULO SEXTO.
 
 Publíquese esta ley en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 13 DE DICIEMBRE DE 2008.
+
+Artículo Primero. El presente Código entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Queda abrogado el Código Fiscal del Estado de Querétaro publicado en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" en fecha 31 de diciembre de 1978.
+
+Artículo Tercero. Los procedimientos que se encuentren en trámite al momento de entrar en vigor el presente Código, se tramitarán hasta su total resolución conforme a las disposiciones legales vigentes en el momento en que dieron inicio.
