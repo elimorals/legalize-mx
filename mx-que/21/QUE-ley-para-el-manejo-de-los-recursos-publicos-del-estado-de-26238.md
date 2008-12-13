@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-26238
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-27"
-last_updated: "2007-12-28"
+last_updated: "2008-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY PARA EL MANEJO DE LOS RECURSOS PUBLICOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA EL MANEJO DE LOS RECURSOS PUBLICOS DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 13 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de septiembre de 2002.
 
@@ -1028,3 +1030,13 @@ Con relación al artículo octavo transitorio del Decreto de Presupuesto de Egre
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 13 DE DICIEMBRE DE 2008.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", en fecha 27 de septiembre de 2002.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Cuarto. Los principios de contabilidad a que se refiere la Ley para el Manejo de los Recursos Públicos de (sic) Estado de Querétaro que se abroga, quedarán en vigor, en tanto no se publique la ley a que se refiere el artículo 73 fracción XXVIII de la Constitución Política de los Estados Unidos Mexicanos.
