@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-municipal-del-estado-de-tabasco-7808"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "2000-09-27"
+last_updated: "2008-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 1992.
 
@@ -49,9 +49,11 @@ LEY DE HACIENDA MUNICIPAL DEL ESTADO DE TABASCO
 
 #### SECCION PRIMERA. DEL OBJETO
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1.
 
-Esta Ley es de orden público e interés social y tienen por objeto regular los impuestos, derechos, productos, aprovechamientos y participaciones a favor de los municipios del Estado de Tabasco, establecidos por esta Ley y otras disposiciones fiscales aplicables.
+Esta Ley es de orden público e interés social y tienen (sic) por objeto regular los impuestos, derechos, productos, aprovechamientos, participaciones y aportaciones a favor de los municipios del Estado de Tabasco, establecidas por esta Ley y otras disposiciones fiscales aplicables.
 
 ###### Artículo 2.
 
@@ -71,7 +73,7 @@ La ignorancia de la Ley, Reglamentos y demás disposiciones fiscales de observan
 
 #### SECCION SEGUNDA. DEL SUJETO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 6.
 
@@ -97,7 +99,7 @@ B) El lugar en que realicen actividades o tengan bienes que den lugar a obligaci
 
 C) A falta de domicilio, en los términos indicados en los incisos anteriores, el lugar en que se encuentren.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
 
 II.- Tratándose de personas jurídicas colectivas:
 
@@ -603,9 +605,17 @@ II.- Derechos;
 
 III.- Productos;
 
-IV.- Aprovechamientos; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
-V.- Participaciones.
+IV.- Aprovechamientos;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+V.- Participaciones; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+VI.- Aportaciones federales que corresponden a los Municipios
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
 
@@ -630,6 +640,12 @@ Son aprovechamientos los ingresos que percibe el Municipio por funciones de Dere
 ###### Artículo 77.
 
 Son participaciones las cantidades que correspondan al Municipio con arreglo a las bases, montos y plazos que determine el Congreso del Estado conforme a las Leyes y convenios suscritos entre la Federación, el Estado y los municipios.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 77 Bis.
+
+Son aportaciones federales que corresponden a los Municipios, los recursos, distintos de las participaciones, que la Federación transfiere a las haciendas públicas municipales en los términos de legislación aplicable, condicionando su gasto a la consecución y cumplimiento de los objetivos que para cada tipo de aportación establece la Ley.
 
 ###### Artículo 78.
 
@@ -905,7 +921,7 @@ Las infracciones a la presente sección serán sancionadas de conformidad con lo
 
 #### SECCION PRIMERA. OBJETOS Y SUJETOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 108.
 
@@ -1179,7 +1195,7 @@ Por la revalidación de licencia, permiso y alineamientos, se pagarán en cada c
 
 ###### Artículo 129.
 
-Las licencias y permisos para fraccionamientos, condominios, lotificaciones, relotificaciones, divisiones y subdivisiones, que serán expedidos por la Dirección de Obras Públicas Municipal, cumpliendo con la normatividad establecida por el Gobierno del Estado de Tabasco, por conducto de la Secretaría de Desarrollo Social y Protección Ambiental, causarán los derechos siguientes:
+Las licencias y permisos para fraccionamientos, condominios, lotificaciones, relotificaciones, divisiones y subdivisiones, que serán expedidos por la Dirección de Obras Públicas Municipal, cumpliendo con la normatividad establecida por el Gobierno del Estado de Tabasco, por conducto de la Secretaría de Desarrollo Social y Protección Ambiental, causarán los siguientes derechos:
 
 I.- Fraccionamientos:
 
@@ -1441,7 +1457,7 @@ El pago deberá efectuarse en la Dirección de Finanzas o Tesorería Municipal c
 
 Se pagará este derecho por el servicio que efectúa el cuerpo de policía del Municipio, en forma exclusiva y a petición de parte, para proteger valores o proporcionar seguridad a establecimientos mercantiles, de espectáculos públicos, asociaciones civiles e instituciones particulares, realizando acciones de vigilancia que tiendan a ser permanentes o de periodicidad regular.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 144.
 
@@ -1619,11 +1635,19 @@ Asimismo, son aprovechamientos en los términos de esta Ley, las indemnizaciones
 
 ### CAPITULO VII. DE LAS INDEMNIZACIONES Y REMATES
 
-## TITULO VII. PARTICIPACIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+## TITULO VII. PARTICIPACIONES Y APORTACIONES
 
 ###### Artículo 157.
 
 Recibirán los Ayuntamientos o Concejos Municipales todas las participaciones que establezcan los convenios que con base en la Ley de Coordinación Fiscal tengan celebrado los municipios con el Gobierno del Estado y la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 158.
+
+Recibirán los Ayuntamientos todas las aportaciones que la Federación, o en su caso, el Estado, les transfiera de conformidad con la ley.
 
 T R A N S I T O R I O S
 
@@ -1649,7 +1673,7 @@ LIC. ENRIQUE PRIEGO OROPEZA,
 
 SECRETARIO DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE MARZO DE 1993.
 
@@ -1684,3 +1708,9 @@ P.O. 27 DE SEPTIEMBRE DE 2000.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
 
 Artículo Segundo.- Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor un día después de su publicación en el Periódico Oficial del Estado.
