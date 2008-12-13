@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-la-comision-estatal-de-conciliacion-y-arbitraje-25050"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-23"
-last_updated: "2002-03-23"
+last_updated: "2008-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25050&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE LA COMISION ESTATAL DE CONCILIACION Y ARBITRAJE MEDICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 23 de marzo de 2002.
 
@@ -61,7 +61,7 @@ El domicilio de la Comisión Estatal de Conciliación y Arbitraje Médico, estar
 
 Para los efectos de la presente ley se entenderá por:
 
-a) CECAMET. La Comisión Estatal de Conciliación y Arbitraje Médico;
+a) CECAMET: La Comisión Estatal de Conciliación y Arbitraje Médico;
 
 b) Servicios Médicos: todas las acciones, actos, prácticas y en general las actividades médicas con consecuencias sobre la salud del usuario;
 
@@ -69,9 +69,57 @@ c) Prestadores de Servicio en el área de la salud: todos aquellos profesionista
 
 d) Usuarios: Todas aquellas personas que soliciten, requieran u obtengan servicios médicos y del área de salud, con el fin de promover y restaurar su salud física y mental;
 
-e) Conciliación: El procedimiento que la CECAMET propondrá a las partes incluyendo las reglas para la substanciación de la controversia, mismos que tendrán libertad para resolver en conciencia y buena fe guardada, sin sujeción a reglas legales, pero observando las formalidades esenciales del procedimiento. La CECAMET tendrá la facultad de allegarse todos los elementos que le sean necesarios para resolver las cuestiones que le hayan planteado, logrando el común acuerdo de ambas partes y dando por finiquitada la causa que dio origen a la controversia; y
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
-f) Arbitraje: Es el acuerdo por el que las partes deciden someter a la CECAMET todas o ciertas controversias que hayan surgido, o puedan surgir entre ellas respecto de la prestación de servicios médicos de las instituciones de salud de carácter público, privado o social, así como de los profesionales, técnicos, auxiliares, encargados y administradores de centros de atención para la salud.
+e) Conciliación: El procedimiento que la CECAMET propondrá a las partes incluyendo las reglas para la substanciación de la controversia, mismos que tendrán libertad para resolver en conciencia y buena fe guardada, sin sujeción a reglas legales, pero observando las formalidades esenciales del procedimiento. La CECAMET tendrá la facultad de allegarse todos los elementos que le sean necesarios para resolver las cuestiones que le hayan planteado, logrando el común acuerdo de ambas partes y dando por finiquitada la causa que dio origen a la controversia;
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+f) Arbitraje: Es el procedimiento, por el que las partes deciden someter a la CECAMET, en conciencia o estricto derecho, todas o ciertas controversias que hayan surgido, o puedan surgir entre ellas, respecto de la prestación de servicios médicos de las instituciones de salud de carácter público, privado o social, así como de los profesionales, técnicos, auxiliares, encargados y administradores de centros de atención para la salud, tramitadas, en los términos (sic) esta ley y el reglamento respectivo;
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+g) Partes: Quien haya decidido ejercer un derecho, para presentar una queja o inconformidad y someterse a los procedimientos de la CECAMET, así como quien deba ejercer el derecho de defensa;
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+h) Terceros: Quienes sin ser parte tengan algún interés jurídico en el asunto que se sometió ante la CECAMET, ya sea porque le agravia o favorece;
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+i) Lex artis médica: Conjunto de reglas para el ejercicio médico contenidas en la literatura universalmente aceptada, en las cuales se establecen los medios ordinarios para brindar la atención médica y los criterios para emplearla;
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+j) Opinión técnica: Es el análisis emitido por la CECAMET en asuntos de interés general, solo ilustrativo y en el cual se establecerán apreciaciones y recomendaciones necesarias para el mejoramiento de la calidad en la atención médica, no para resolver cuestiones de fondo en litigios, ni a solicitud de parte;
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+k) Dictamen médico pericial: Es la opinión fundada de uno o varios peritos que cuentan con una preparación especializada en el campo de la medicina, con el objeto de esclarecer alguno o algunos de los hechos materia de una controversia. El dictamen pericial necesariamente debe contener los principios científicos en que se funda, la explicación detallada de las operaciones técnicas realizadas para su obtención y las conclusiones respecto a la atención médica sometida a dictamen;
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+I) Peritaje Institucional: Es el dictamen médico pericial que emite una institución, dependencia u organismo de la Administración Pública Estatal y en cuya elaboración participan especialistas en el campo de la medicina capacitados por la CECAMET, que laboren en estas instituciones;
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+m) Negligencia Médica: Es la acción u omisión de un profesional del campo de la medicina que entrañe el incumplimiento de los elementos principales y básicos de la profesión de la cual tiene el amplio y probado conocimiento, es lo contrario al sentido del deber;
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+n) Impericia Médica: Es la falta de las habilidades por la ausencia de los conocimientos técnicos, científicos, básicos e indispensables que se deben tener obligatoriamente en la medicina y especialidades derivadas de esta profesión;
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+o) Imprudencia Médica: Es afrontar un riesgo innecesario en cualquiera de las etapas de la atención médica, sin haber tomado las debidas precauciones para evitar posibles complicaciones o inconvenientes que resulten por esa acción u omisión;
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+p) Etapas de la atención médica: 1) Prevención, 2). Diagnostico, 3) Tratamiento quirúrgico, 4) Tratamiento médico, 5) Tratamiento anestésico en la intervención quirúrgica y 6) Rehabilitación; y
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+q) Responsabilidad Profesional Médica: Es la obligación que tienen los médicos de reparar y satisfacer las consecuencias de los actos y omisiones, cometidos en el ejercicio de su profesión, cuando son contrario a la lex artis médica.
 
 ### CAPÍTULO II. ESTRUCTURA DE LA CECAMET
 
@@ -141,7 +189,9 @@ VIII. Hacer del conocimiento del órgano de control interno competente, la negat
 
 IX. Hacer del conocimiento de las autoridades competentes y de los Colegios, Academias, Asociaciones de Prestadores de Servicios de Salud y Consejos Médicos, así como los comités de ética u otros similares, la negativa expresa o tácita de los prestadores de servicio, de proporcionar la información que le hubiere solicitado;
 
-X. Elaborar a petición de las autoridades encargadas de la procuración e impartición de justicia, los dictámenes técnicos y peritajes médicos que le sean solicitados; para este efecto se determinará en el Estatuto a quién corresponde elaborar y suscribir el dictamen;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+X. Elaborar y emitir a petición de las autoridades encargadas de la procuración e impartición de justicia, laborales y administrativas, los dictámenes médico periciales y peritajes institucionales que le sean solicitados; para este efecto se requerirá a los Colegios Médicos, Asociaciones Médicas, Consejos Médicos, Academias y Prestadores de Salud e instituciones públicas, proporcionen el nombre de dos profesionistas para la confirmación del padrón y listado de peritos, quienes deberán ser capacitados por la CECAMET;
 
 XI. Convenir con instituciones, organismos y organizaciones públicas y privadas, las acciones de coordinación y concertación que le permitan cumplir con sus funciones;
 
@@ -149,7 +199,9 @@ XII. Orientar a los usuarios sobre las instancias competentes para resolver los 
 
 XIII. Dar seguimiento al resultado de los laudos dictados en arbitraje;
 
-XIV. Dejar los derechos a salvo de las partes para que acudan ante la autoridad judicial para la ejecución de laudos incumplidos;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+XIV. El Laudo arbitral y los convenios conciliatorios que pongan fin al procedimiento, serán considerados como títulos ejecutivos en materia civil;
 
 XV. Asistir a los establecimientos médicos con el objeto de gestionar la atención médica inmediata de los usuarios, y en su caso, recabar información relacionada con las presuntas irregularidades que sean sometidas a su consideración,
 
@@ -241,19 +293,31 @@ IV. Sustituir conforme a sus disposiciones internas, las ausencias del comisiona
 
 V. Las demás que les sean conferidas en el Estatuto Interior.
 
-### CAPÍTULO IV. DE CONCILIACIÓN Y ARBITRAJE
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+### CAPÍTULO IV. DE LA CONCILIACIÓN Y ARBITRAJE
 
 ###### Artículo 12.
 
 Las disposiciones de la presente ley se aplicarán a la conciliación y arbitraje derivados de la prestación de servicios en el área de la salud de índole pública, privada y social.
 
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+#### SECCIÓN I. DE LA CONCILIACIÓN
+
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 13.
 
-La formulación de quejas así como los procedimientos que se sigan ante la CECAMET, no afectará el ejercicio de otros derechos o medios de defensa de los que dispongan los usuarios o prestadores de servicios médicos conforme a las leyes, ni interrumpirá el término de prescripción.
+La formulación de quejas, así como los procedimientos que se sigan ante la CECAMET, no afectará el ejercicio de otros derechos o medios de defensa de los que dispongan los usuarios o prestadores de servicios médicos conforme a las leyes, ni interrumpirá el término de prescripción, sin embargo si se emite el convenio conciliatorio o laudo arbitral que pongan fin a la controversia, se estará a lo dispuesto en la fracción XIV del artículo 7 de esta ley.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 14.
 
-La CECAMET atenderá las inconformidades relacionadas con la prestación de servicios de atención médica cuando se aduzca la mala práctica o negativa del servicio; al efecto, estará facultada para solicitar la información relacionada, a las partes y a terceros; realizar las investigaciones administrativas necesarias; de oficio o a petición de parte; solicitar el auxilio de las autoridades jurisdiccionales, de procuración de justicia, administrativas y de los prestadores de servicios médicos, así como para adoptar las medidas necesarias para la protección de la salud de los pacientes.
+La CECAMET atenderá las inconformidades relacionadas con la prestación de servicios de atención médica cuando se aduzca la mala práctica, negativa del servicio o cualquier otra que constituya una atención médica inadecuada, dentro de las cuales estarán contempladas, juntas o separadas las contenidas en los incisos m, n, y o del artículo 3 de esta ley; al efecto, estará facultada para solicitar la información relacionada, a las partes y a terceros; realizar las investigaciones administrativas necesarias; de oficio o a petición de parte; solicitar el auxilio de las autoridades jurisdiccionales, de procuración de justicia, administrativas y de los prestadores de servicios médicos, así como para adoptar las medidas necesarias para la protección de la salud de los pacientes.
+
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
 
 ###### Artículo 15.
 
@@ -263,11 +327,15 @@ Si la inconformidad no se presenta en forma personal, deberá ratificarse.
 
 En caso de que la inconformidad fuere incompleta, imprecisa, obscura o ambigua, la CECAMET requerirá por escrito al interesado para que la aclare o complete en un plazo no mayor de cinco días hábiles, contados a partir de la fecha en que surta efectos la notificación. Formulada la aclaración, la CECAMET tendrá por admitida la inconformidad y procederá a la notificación correspondiente. Si el inconforme no desahoga la aclaración dentro del término mencionado, se tendrá por concluido el asunto, mandándose el expediente al archivo definitivo.
 
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
+
 ###### Artículo 16.
 
 Al recibir la inconformidad o efectuada la ratificación o aclaración correspondiente, la CECAMET, la registrará y le asignará un número de expediente y citará a través de los medios a su alcance, a las partes para una diligencia de conciliación dentro de los cinco días hábiles siguientes.
 
 En dicha diligencia, la CECAMET propondrá vías de arreglo, mismas que quedarán sujetas a la voluntad de aquéllas, sin que tenga el carácter de laudo en amigable composición.
+
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
 
 ###### Artículo 17.
 
@@ -297,77 +365,123 @@ b). Sobre renuncia de una acción civil que nazca de un delito o culpa futuros.
 
 Cuando sea necesario, la CECAMET ilustrará a las partes al respecto, vigilando que los convenios no sean suscritos en términos lesivos, en razón de vicios de la voluntad, suma ignorancia, notoria inexperiencia o extrema miseria.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+Las reglas para la celebración de la audiencia de conciliación, se establecerán en el reglamento que para tal efecto se emita, vigilando la CECAMET que el procedimiento sea llevado a cabo en forma imparcial y prevaleciendo el equilibrio procesal entre las partes, las cuales en el desahogo de dicha audiencia, no podrán estar asistidas de abogado, asesor o representante legal alguno.
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+#### SECCIÓN II. DEL ARBITRAJE
+
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
+
 ###### Artículo 18.
 
 Si una vez agotada la conciliación no se lograre el avenimiento entre las partes, la CECAMET las exhortará a que la designen como árbitro para solucionar la controversia.
+
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
 
 ###### Artículo 19.
 
 Cuando las partes decidan sujetarse al juicio arbitral en estricto derecho o en conciencia, éste será procedente cuando se reclame el pago de daños y perjuicios, y demás prestaciones civiles.
 
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
+
 ###### Artículo 20.
 
 El objeto de la controversia será determinado por las partes en el acuerdo de arbitraje, cláusula compromisoria o compromiso arbitral, en las diligencias preliminares podrán darse por resueltos uno o varios puntos, quedando el resto pendiente para su resolución en laudo.
+
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
 
 ###### Artículo 21.
 
 El arbitraje ante la CECAMET es de naturaleza civil, atendiendo al principio de libre contratación entre las partes, y se regirá por lo establecido por ellas, en términos de esta ley, sus normas de procedimientos y la legislación procesal civil.
 
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
+
 ###### Artículo 22.
 
 El acuerdo de arbitraje deberá constar por escrito y consignarse en documento firmado por las partes, mismo que adquirirá el carácter de laudo definitivo.
+
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
 
 ###### Artículo 23.
 
 Salvo disposición en contrario, en los asuntos que se rijan por el presente Decreto, no se requerirá intervención judicial, los laudos emitidos serán de naturaleza civil y atenderán los principios de libre contratación entre las partes, rigiéndose por lo establecido por ellas, en términos de esta ley, el Estatuto Interno, las normas que se emitan y en lo no previsto, por el Código de Procedimientos Civiles del Estado.
 
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
+
 ###### Artículo 24.
 
 La resolución arbitral se podrá hacer valer ante el órgano competente.
+
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
 
 ###### Artículo 25.
 
 Cuando se faltare al cumplimiento voluntario de lo convenido en la conciliación, la parte afectada podrá acudir ante las autoridades competentes para efectos de la resolución y cumplimiento.
 
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
+
 ###### Artículo 26.
 
 Para el cómputo de los términos, éstos empezaran a contar individualmente a partir del día hábil siguiente en el que sea hecha la notificación a las partes.
+
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
 
 ###### Artículo 27.
 
 La CECAMET podrá, con sujeción a lo dispuesto por la presente Ley, dirigir el arbitraje del modo que considere apropiado, observando en todo momento las formalidades.
 
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
+
 ###### Artículo 28.
 
 El lugar donde ha de llevarse a cabo el arbitraje, será donde la CECAMET tenga su asiento legal; o en su caso, en el lugar que ésta previamente designe, atendiendo las circunstancias del caso.
+
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
 
 ###### Artículo 29.
 
 Las actuaciones arbítrales de la CECAMET se iniciarán y celebrarán en las fechas en que el prestador de servicios haya sido notificado previamente para someterse a las mismas.
 
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
+
 ###### Artículo 30.
 
 En las actuaciones de la CECAMET deberá tratarse a las partes con imparcialidad y darse a cada una de ellas plena oportunidad de hacer valer sus derechos de audiencia y legalidad.
+
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
 
 ###### Artículo 31.
 
 Salvo acuerdo en contrario, la CECAMET podrá nombrar uno o más peritos para que emitan su dictamen sobre materias concretas o especializadas y así mismo traductores e intérpretes para el caso de extranjeros, indígenas y discapacitados; para ello, deberá identificar previamente a los expertos idóneos y elaborar una lista. Estos peritos se considerarán parte de la CECAMET cuando emitan un dictamen.
 
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
+
 ###### Artículo 32.
 
 Salvo acuerdo en contrario de las partes, la CECAMET decidirá si han de celebrarse audiencias para presentación de pruebas o de alegatos verbales, o si las actuaciones se substanciarán sobre la base de documentos y demás pruebas; si las partes no hubiesen acordado la no celebración de audiencias, la CECAMET celebrará las mismas en la fase apropiada de las actuaciones a petición de una o de ambas partes.
+
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
 
 ###### Artículo 33.
 
 Salvo acuerdo en contrario de las partes, cuando sin causa justificada éstas no comparezcan a una audiencia o no presenten pruebas, la CECAMET podrá continuar las actuaciones y dictar su laudo basándose en las pruebas de que disponga.
 
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
+
 ###### Artículo 34.
 
 Si durante las actuaciones arbítrales de la CECAMET, las partes llegasen a un acuerdo o transacción que resuelva el conflicto, la CECAMET dará por terminadas las actuaciones y hará constar el acuerdo, o transacción en forma de laudo arbitral en los términos convenidos por las partes.
 
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
+
 ###### Artículo 35.
 
 El laudo se dictará por escrito en un término de ocho días hábiles después de agotado el procedimiento y será firmado por el Comisionado y los Subcomisionados. Para que sea válido, requiere al menos la firma del Comisionado y un Subcomisionado.
+
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
 
 ###### Artículo 36.
 
@@ -376,6 +490,8 @@ Los laudos de la CECAMET deberán estar plenamente fundados y motivados, a menos
 a) Constará en el laudo la fecha en que se haya dictado y el lugar del arbitraje; y
 
 b) Después de dictado el laudo, la CECAMET lo notificará a cada una de las partes, mediante entrega de copia simple del mismo.
+
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
 
 ###### Artículo 37.
 
@@ -387,6 +503,8 @@ b) Las partes acuerden dar por terminadas las actuaciones, y
 
 c) La CECAMET compruebe que la prosecución de las actuaciones resultan innecesarias o imposibles.
 
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
+
 ###### Artículo 38.
 
 Dentro de los cinco días hábiles siguientes a la notificación del laudo, salvo que hayan acordado otro plazo, cualquiera de las partes podrá, en vía de aclaración, con notificación a la otra, pedir a la CECAMET:
@@ -397,6 +515,8 @@ La CECAMET podrá corregir cualquiera de los errores mencionados, por iniciativa
 
 II. Se dé una interpretación sobre un punto o parte concreta del laudo. Si la CECAMET estima conveniente, efectuará o dará la interpretación dentro de los ocho días hábiles siguientes a la recepción de la solicitud y dicha interpretación formará parte del laudo.
 
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
+
 ###### Artículo 39.
 
 Salvo acuerdo contrario de las partes, dentro de los quince días hábiles siguientes a la recepción del laudo, cualquiera de las partes con notificación a la contra parte, podrá solicitar a la CECAMET que dicte un laudo adicional, respecto de las reclamaciones formuladas en las actuaciones arbitrales omitidas en el laudo; si la CECAMET lo estima justificado, dictará el laudo adicional dentro de los quince días hábiles siguientes.
@@ -404,6 +524,12 @@ Salvo acuerdo contrario de las partes, dentro de los quince días hábiles sigui
 La CECAMET podrá prorrogar, de ser necesario, el plazo para efectuar una corrección, dar una interpretación o dictar un laudo adicional, con base a lo anterior.
 
 Contra las resoluciones de la CECAMET no procede recurso alguno.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+El expediente del procedimiento seguido ante la CECAMET, estará sujeto a lo que establezca la Ley de Transparencia y Acceso a la Información Pública.
+
+(REUBICADO, P.O. 13 DE DICIEMBRE DE 2008)
 
 ###### Artículo 40.
 
@@ -520,3 +646,13 @@ GOBERNADOR DEL ESTADO DE TABASCO
 LIC. JAIME HUMBERTO LASTRA BATAR
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El titular del Poder Ejecutivo del Estado, expedirá el Reglamento respectivo de esta Ley, en un periodo no mayor a 60 días a partir de la entrada en vigor del presente decreto.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
