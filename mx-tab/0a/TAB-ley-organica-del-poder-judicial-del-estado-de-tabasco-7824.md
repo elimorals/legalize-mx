@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-judicial-del-estado-de-tabasco-7824"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-11-21"
-last_updated: "2007-05-02"
+last_updated: "2008-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 21 de noviembre de 1990.
 
@@ -577,15 +577,25 @@ IX.- Cumplir con los demás requisitos que para su designación señale el Conse
 
 Los Juzgados de lo Civil son competentes para conocer:
 
-I.- De los negocios de jurisdicción voluntaria y contenciosa en materia civil, concurrente y familiar;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
-II.- Los asuntos judiciales de jurisdicción común y concurrentes, relativos a concursos, suspensiones de pagos y quiebras cualquiera que sea su monto;
+I. De los negocios contenciosos en materia civil, concurrente y familiar;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+II. Los asuntos judiciales de jurisdicción común relativos a concursos, cualquiera que sea su monto;
 
 III.- De los interdictos;
 
 IV.- De la diligenciación de exhortos, rogatorios o suplicatorios, requisitorias o despachos;
 
-V.- De los demás asuntos que les encomienden las Leyes.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+V. De los procedimientos judiciales no contenciosos, a excepción de las informaciones ad perpetuam rei memoriam y del apeo o deslinde;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+VI. De los demás asuntos que les encomienden las Leyes.
 
 ###### ARTICULO 40.
 
@@ -597,11 +607,13 @@ II.- De los Juicios contenciosos relativos al matrimonio, a la ilicitud o nulida
 
 III.- De los Juicios Sucesorios;
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
-IV.- De los asuntos concernientes a otras acciones relativas al estado civil, a la capacidad de las personas y a las derivadas del parentesco; con excepción de las relacionadas al registro extemporáneo de las actas del estado civil;
+IV.- De los asuntos concernientes a otras acciones relativas al estado civil, a la capacidad de las personas y a las derivadas del parentesco; con excepción de las relacionadas a la rectificación y al registro extemporáneo de las actas del estado civil;
 
-V.- De las diligencia de consignación de todo lo relativo al derecho familiar;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+V.- De las diligencias de consignación de todo lo relativo al derecho familiar, en su cuantía;
 
 VI.- De la diligenciación de los exhortos, suplicatorios, requisitorias o despachos, relacionados con asuntos de lo familiar;
 
@@ -705,27 +717,45 @@ VIII.- Los demás que para su designación ordene el Consejo de la Judicatura.
 
 Para el despacho de los asuntos de su competencia, cada juzgado contará con el siguiente personal: un Juez, dos Secretarios (penal y civil), un Actuario y los demás que determine el presupuesto.
 
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
-###### ARTICULO 43 Bis 3.
+###### Artículo 43 Bis 3.
 
-Los jueces de paz conocerán de la conciliación en toda controversia civil o penal que se persiga por querella y le sea planteada. Además, de los siguientes asuntos:
+Los Jueces de Paz conocerán de la conciliación en toda controversia civil y familiar fuera de juicio, en su competencia, o penal que se persiga por querella y les sea planteada. Además, de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
-I.- De los Juicios Civiles cuyo monto no exceda del importe de ciento ochenta y dos veces el salario mínimo diario general vigente en el Estado de Tabasco;
+I. De los juicios cuyo monto no exceda del importe de doscientos cincuenta veces el salario mínimo diario general vigente en el estado de Tabasco;
 
-II.- De las diligencias preliminares de consignación cuando el valor de la cosa o la cantidad no exceda del monto fijado en la fracción anterior;
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 1997)</small>
 
-III.- De los delitos cuya pena no exceda de dos años de prisión independientemente de la sanción pecuniaria y los sancionados con pena no corporal; así como de los delitos de amenazas, difamación, calumnias y robo de aves de corral;
+II. De las diligencias preliminares de consignación cuando el valor de la cosa o la cantidad no exceda del monto fijado en la fracción anterior;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
-IV.- De los juicios de registro extemporáneo de actas del estado civil; y
+III. De los delitos contemplados en el Código Penal vigente en el estado de Tabasco, que a continuación se listan. Lesiones, previsto y sancionado en el artículo 116, fracciones I y II; Omisión de auxilio, previsto y sancionado en los artículos 137 y 138; Hostigamiento Sexual, previsto y sancionado en el artículo 159 bis; Amenazas, previsto y sancionado en el artículo 161; Allanamiento de morada, previsto y sancionado en el artículo 162, primer párrafo; Revelación de secreto, previsto y sancionado en el artículo 164; Difamación, previsto y sancionado en el artículo 166; Calumnia, previsto y sancionado en el artículo 169; Robo, previsto y sancionado en el artículo 175, fracciones I y II, 176 y 178 cuando se relacione con el 175, fracciones I y II; Robo de Aves de Corral, previsto y sancionado en el artículo 186; Abuso de Confianza, previsto y sancionado en el artículo 187, fracciones I y II, así como el 188, cuando se relacione con el precepto anterior; Retención Indebida, previsto y sancionado con el artículo 189 con relación al 187, fracciones I y II; Fraude, previsto y sancionado en el artículo 190, fracciones I y II y 191 cuando se relacione con el artículo antes mencionado; Administración Fraudulenta, previsto en el artículo 192 y sancionado en el 190, fracciones I y II; Delitos cometidos por Fraccionadores, previsto en el artículo 193 y sancionado en el 190, fracciones I y II; Insolvencia Fraudulenta, previsto en el artículo 194 y sancionado en el 190, fracciones I y II; Daños, previsto y sancionado en el artículo 200, primer párrafo, con relación al 175, fracciones I y II; Incumplimiento de las Obligaciones de Asistencia Familiar, previsto y sancionado en el artículo 206; Violencia Familiar, previsto y sancionado en los artículos 208 Bis y 208 Bis 1; Adulterio, previsto y sancionado en el artículo 222; Ejercicio Indebido de Servicio Público, previsto en las fracciones I y II del artículo 235 y sancionado por la fracción V del propio dispositivo; Concusión, previsto en el primer párrafo del artículo 238 y sancionado en el segundo y tercero párrafos del propio numeral; Ejercicio Abusivo de Funciones, previsto y sancionado en el artículo 240, fracciones I y II, con relación al penúltimo párrafo del propio numeral; Cohecho, previsto y sancionado en el artículo 242, párrafos primero, segundo y tercero; Peculado, previsto y sancionado en el artículo 243, fracciones I y II con relación al antepenúltimo párrafo del propio numeral; Enriquecimiento Ilícito, previsto y sancionado en el artículo 244, párrafos primero, segundo y tercero; Delitos Cometidos por Particulares en Relación con Servidores Públicos, previsto y sancionado en los numerales 246 en relación con el 242, párrafo tercero, 248, fracción I, 249 con relación al 187, fracciones I y II; y 250, fracción I; Obstrucción de la Justicia, previsto y sancionado en el artículo 273, párrafo primero, primer caso; Quebrantamiento de Sanciones, previsto y sancionado en el artículo 280; Ejercicio Indebido del Propio Derecho, previsto y sancionado en el artículo 282; Variación del Nombre o Domicilio, previsto y sancionado en el artículo 292; Desobediencia y Resistencia de Particulares, previsto y sancionado en los artículos 295 y 297; Oposición a que se Ejecute Alguna Obra o Trabajo Públicos, previsto y sancionado en el artículo 299, párrafo primero y primer caso del segundo párrafo; Quebrantamiento de Sellos, previsto y sancionado en el artículo 300; Ultrajes a la Autoridad, previsto y sancionado en el artículo 301; Uso Indebido de Condecoraciones o Uniformes, previsto y sancionado en el artículo 302; Ultrajes y Uso Indebido de Insignias Públicas, previsto y sancionado en el artículo 303; Interrupción o Dificultamiento del Servicio Público de Comunicación, previsto y sancionado en los artículos 309 y 310; Supresión de Dispositivos o de Señales de Seguridad, previsto y sancionado en el artículo 313; Conducción Indebida de Vehículos, previsto y sancionado en el artículo 314; Violación de Correspondencia, previsto y sancionado en el artículo 315; Incumplimiento del Deber de Trasladar Comunicaciones al Destinatario, previsto y sancionado en el artículo 317; Falsificación de Documentos, previsto y sancionado en el artículo 322; Acceso sin Autorización, previsto y sancionado en el artículo 326 bis 1; Profanación de Tumba, previsto y sancionado en el artículo 337; Portación y Fabricación de Armas Prohibidas, previsto y sancionado en el artículo 338; Requerimiento Arbitrario de la Contraprestación, previsto y sancionado en el artículo 342; Retención de Cadáver, previsto y sancionado en el artículo 343; Enajenación Fraudulenta de Medicinas Nocivas o Inapropiadas, previsto y sancionado en el artículo 344; Delitos Electorales, previsto y sancionado en el artículo 349. De igual manera, los de Comisión de Delito por Medio de Otra Persona, previsto y sancionado en el artículo 223; Instigación a Cometer Delito, previsto y sancionado en el artículo 224; Ayuda en la Comisión de un Delito, previsto y sancionado en el artículo 225; Ayuda al Autor de un Delito, previsto y sancionado en el artículo 226; Acuerdo en la Comisión de un Delito, previsto y sancionado en el artículo 227; Omisión de Impedir la Comisión de un Delito; previsto y sancionado en los artículos 228 y 229; Provocación a la Comisión de un Delito o Apología del Delito, previsto y sancionado en el artículo 230; todos ellos cuando resulten accesorios de cualesquiera de los comprendidos en este listado.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE MAYO DE 2007)</small>
+Además, conocerán de los Delitos Culposos, previstos en el artículo 61, que se relacionen con los citados en esta fracción. Así como, todos aquellos que puedan agravarse o calificarse, pero cuyo tipo básico no amerite pena privativa de libertad;
 
-V.- Los demás asuntos que les correspondan de acuerdo a la Ley.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+IV. De los actos preparatorios a juicio en su competencia, salvo consignaciones de rentas;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+V. De la rectificación y del registro extemporáneo de las actas del estado civil;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+VI. De las informaciones ad perpetuam rei memoriam;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+VII. Del apeo o deslinde; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+VIII. Los demás asuntos que le correspondan de acuerdo a la Ley.
 
 > <small>(ADICIONADO, P.O. 2 DE MAYO DE 2007)</small>
 
@@ -1277,7 +1307,7 @@ La falta de remisión oportuna al archivo de los expedientes que lo ameriten, se
 
 ###### ARTICULO 91.
 
-Cualquier defecto, irregularidad o infracción que advierta el Jefe del Archivo en los expedientes y documentos que se le remitan para su deposito, lo comunicará inmediatamente al Oficial Mayor.
+Cualquier defecto, irregularidad o infracción que advierta el Jefe del Archivo en los expedientes y documentos que se le remitan para su depósito, lo comunicará inmediatamente al Oficial Mayor.
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 2002)</small>
 
@@ -1301,7 +1331,7 @@ El Jefe del Archivo podrá expedir, previa autorización del Presidente del Trib
 
 ###### ARTICULO 95.
 
-La Biblioteca del Poder Judicial estará a cargo de un Jefe de Area o Bibliotecario, bajo el cuidado y vigilancia del Consejo de la Judicatura y del Oficial Mayor.
+La Biblioteca del Poder Judicial estará a cargo de un Jefe de Área o Bibliotecario, bajo el cuidado y vigilancia del Consejo de la Judicatura y del Oficial Mayor.
 
 ###### ARTICULO 96.
 
@@ -2340,3 +2370,11 @@ ARTÍCULO RIMERO.- El correspondiente Decreto entrará en vigor al día siguient
 ###### ARTÍCULO SEGUNDO.
 
 Los juicios de registro extemporáneo de actas del estado civil, que al momento de la entrada en vigor del correspondiente Decreto estén en trámite, continuarán su procedimiento hasta su total conclusión ante la autoridad jurisdiccional que conoce de los mismos.
+
+P.O. 13 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. Los juicios de rectificación de actas y los relativos a procedimientos judiciales o contenciosos que se encuentren en trámite en los juzgados de primera instancia, no serán declinados a los juzgados de paz, sino que se concluirán en aquellos.
