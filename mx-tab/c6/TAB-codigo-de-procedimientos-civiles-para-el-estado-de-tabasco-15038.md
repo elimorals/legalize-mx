@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-civiles-para-el-estado-de-tabasco-1503
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-12"
-last_updated: "2008-05-17"
+last_updated: "2008-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2008.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de abril de 1997.
 
@@ -81,9 +81,13 @@ II.- Impulsar el procedimiento una vez que haya sido iniciado, sin demérito de 
 
 III.- Convocar a las partes, en cualquier momento del proceso hasta antes de que se dicte sentencia, para intentar la conciliación de sus intereses;
 
-IV.- Desechar de plano cualquier excepción, incidente, prueba, recurso o promoción que sea manifiestamente improcedente conforme a la ley o notoriamente irrelevante o impertinente en relación con el objeto del proceso; y
+IV.- Desechar de plano cualquier excepción, incidente, prueba, recurso o promoción que sea manifiestamente improcedente conforme a la ley o notoriamente irrelevante o impertinente en relación con el objeto del proceso; y (sic)
 
-V.- Aplicar las correcciones disciplinarias para mantener el orden y el respeto e imponer los medios de apremio para hacer cumplir sus determinaciones.
+V.- Aplicar las correcciones disciplinarias para mantener el orden y el respeto e imponer los medios de apremio para hacer cumplir sus determinaciones;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+VI.- Velar por el interés superior de los menores o incapacitados.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -233,6 +237,10 @@ IV.- Cuando se trate de acciones reales sobre inmuebles o de arrendamiento de in
 
 El convenio o cláusula que las partes celebren para prorrogar la competencia en contravención a lo previsto por este Código, no producirá efecto legal alguno.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+Estas reglas no tendrán aplicación al procedimiento de conciliación fuera de juicio.
+
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 18.
@@ -297,15 +305,19 @@ La jurisdicción concurrente, en los casos de aplicación de leyes federales, se
 
 Competencia exclusiva de los juzgadores de primera instancia
 
-Cualquiera que sea el valor del negocio, los jueces de primera instancia, con exclusión de los jueces de paz, conocerán de los siguientes asuntos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2007)</small>
+Cualquiera que sea el valor del negocio, los jueces de primera instancia, conocerán de los siguientes asuntos:
 
-I.- Del estado civil y la capacidad de las personas, a excepción de los juicios del registro extemporáneo de actas del estado civil;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
-II.- De informaciones ad perpétuam o de dominio;
+I.- Del estado civil y la capacidad de las personas, a excepción de los juicios de registro extemporáneo y de rectificación de actas del estado civil;
 
-III.- De los concursos de acreedores y, en jurisdicción concurrente, de los juicios de quiebra y de suspensión de pagos;
+II.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2008)
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+III.- De los concursos de acreedores;
 
 IV.- De la declaración de validez y ejecución de sentencias extranjeras;
 
@@ -313,9 +325,25 @@ V.- De los asuntos sobre cuestiones no patrimoniales;
 
 VI.- De los juicios sucesorios;
 
-VII.- De los juicios de arrendamiento; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
-VIII.- De los demás para los que la ley les asigne competencia exclusiva.
+VII.- De los juicios de arrendamiento;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+VIII.- De los juicios que versen sobre la propiedad, los posesorios y demás derechos reales sobre inmuebles;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+IX.- De los procedimientos judiciales no contenciosos, a excepción de las informaciones ad perpetuam rei memoriam y del apeo o deslinde;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+X.- De los actos preparatorios, en su competencia; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+XI.- De los demás para los que la ley les asigne competencia exclusiva.
 
 ### CAPITULO III. COMPETENCIA POR CUANTIA
 
@@ -373,7 +401,13 @@ III.- El de la ubicación del bien, tratándose de acciones que recaigan sobre i
 
 IV.- El del domicilio del demandado, tratándose de acciones reales sobre muebles o de acciones personales o del estado civil. Cuando sean varios los demandados y tengan sus domicilios en diferentes distritos judiciales, será competente el Juez que elija la parte actora, respecto al domicilio de aquéllos.
 
-Cuando se trate de juicio de alimentos, será competente el Juez del domicilio del acreedor alimentario.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+Cuando se trate de juicios de reclamación de alimentos o aumento de pensión será competente, a elección del acreedor alimentario, el juez de su domicilio, del deudor o donde éste tenga bienes u obtenga ingresos. Tratándose de reducción o cesación será competente el juez del domicilio del acreedor alimentario.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+En los juicios de divorcio necesario, será juez competente el del domicilio de cualquiera de los cónyuges, a elección de quien ejercite la acción; a excepción de lo dispuesto en la causal IX del artículo 272 del Código Civil, si quién lo promueve es el cónyuge que se separó será competente el juez del domicilio del demandado.
 
 V.- En los concursos de acreedores, el Juez del lugar del domicilio del deudor;
 
@@ -381,7 +415,11 @@ VI.- En los juicios sucesorios, el Juez del lugar en que haya tenido su domicili
 
 VII.- El del lugar en que se hizo una inscripción en el Registro Público de la Propiedad, cuando la acción que se entable no tenga más objeto que el de decretar su cancelación; y
 
-VIII.- En los actos de jurisdicción voluntaria, salvo disposición contraria de la ley, es juzgador competente el del domicilio del que promueve; pero si se trata de bienes raíces, lo es el del lugar en que estén ubicados, observándose, en lo conducente, lo dispuesto en la fracción III.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+VIII.- En los procedimientos judiciales no contenciosos, salvo disposición contraria de la ley, es juzgador competente el del domicilio del que promueve; pero si se trata de bienes raíces, lo es el del lugar en que estén ubicados, observándose, en lo conducente, lo dispuesto en la fracción III.
+
+En los procedimientos de adopciones, será competente para conocer el del lugar en donde resida habitualmente el adoptado.
 
 Cuando haya varios tribunales competentes conforme a las reglas establecidas en este artículo, la competencia se decidirá en favor del que haya prevenido en el conocimiento.
 
@@ -1505,7 +1543,9 @@ III.- No procederá declarar la nulidad cuando el acto haya satisfecho la finali
 
 IV.- La nulidad de una actuación no implicará la de las demás que sean independientes de ella.
 
-Los juzgadores podrán en cualquier tiempo, aunque no lo pidan las partes, ordenar que se subsane toda omisión que notaren en la substanciación, así como que se repongan o corrijan las actuaciones judiciales defectuosas, con el único fin de que se regularice el procedimiento.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+Los juzgadores podrán en cualquier tiempo, aunque no lo pidan las partes, ordenar que se subsane toda omisión que notaren en la substanciación, así como que se repongan o corrijan las actuaciones judiciales defectuosas, con el único fin de que se regularice el procedimiento; sin lesionar derechos legalmente adquiridos por las partes.
 
 La resolución que decida el incidente de nulidad de actuaciones y la que la decrete de oficio serán irrecurribles. Sin embargo, si alguna de las partes considera que le causa agravio, podrá hacerlo valer al interponer el recurso de apelación en contra de la sentencia definitiva.
 
@@ -2001,7 +2041,9 @@ b) Las costas serán a cargo del actor, salvo convenio en contrario. En este cas
 
 II.- Por caducidad de la instancia. En este caso se aplicarán las reglas siguientes:
 
-a) La caducidad de la instancia operará de pleno derecho cualquiera que sea el estado del proceso, desde el emplazamiento hasta la citación para sentencia, si transcurridos ciento veinte días hábiles contados a partir de que haya surtido efectos la notificación de la última determinación judicial, no hubiere promoción de cualquiera de las partes que tienda a impulsar el procedimiento;
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+a) La caducidad de la instancia operará de pleno derecho cualquiera que sea el estado del proceso, desde el primer auto que se dicte en el mismo, hasta la citación para sentencia, si transcurridos ciento veinte días hábiles contados a partir de que haya surtido efectos la notificación de la última determinación judicial, no hubiere promoción de cualquiera de las partes que tienda a impulsar el procedimiento;
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -3105,13 +3147,13 @@ Legitimación procesal
 
 Cuando se declare la falta de legitimación procesal, y esta deficiencia fuere subsanable, el juzgador concederá un plazo de diez días para que el interesado la subsane. Si dentro de ese plazo la parte actora no subsana la deficiencia, el juzgador declarará terminado el procedimiento; si quien omite subsanarla es el demandado, el juzgador lo declarará en rebeldía y continuará su curso el procedimiento.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 236.
 
 Regularización del procedimiento
 
-Los jueces y magistrados podrán ordenar, aun fuera de la audiencia previa y de conciliación, que se subsane toda omisión que notaren en la substanciación para el sólo efecto de que se regularice el procedimiento.
+Los jueces y magistrados podrán ordenar, aun fuera de la audiencia previa y de conciliación, que se subsane toda omisión que notaren en la substanciación para el sólo efecto de que se regularice el procedimiento; atendiendo a lo dispuesto en los artículos 114 tercer párrafo y 142 fracción IV, de este Código.
 
 ## TITULO TERCERO. PRUEBAS
 
@@ -3239,7 +3281,9 @@ El periodo de ofrecimiento de pruebas es de diez días, que empezarán a contars
 
 Requisitos del ofrecimiento
 
-Las pruebas deberán ser ofrecidas relacionándolas con los puntos de hechos que se pretenda demostrar, de los escritos con los que se fija el debate. Si no se hace esta relación en forma precisa, serán desechadas. En el ofrecimiento de pruebas deberá, además, observase lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O.13 DE DICIEMBRE DE 2008)</small>
+
+Las pruebas deberán ser ofrecidas en relación con los hechos que se pretendan demostrar, de los escritos con los que se fija el debate. Las que no reúnan éste requisito serán desechadas. En el ofrecimiento de pruebas deberá, además, observarse lo siguiente:
 
 I.- El ofrecimiento se hará cumpliendo con los requisitos que este Código señala en forma especial para cada medio de prueba; y
 
@@ -4471,6 +4515,10 @@ Facultades del tribunal de apelación
 
 Al resolver el recurso de apelación el Tribunal Superior de Justicia podrá revocar o modificar el auto o la sentencia recurridos, si estima fundados los agravios del apelante; o bien, confirmar la resolución apelada, si considera infundados dichos agravios.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+Iguales resultados podrán obtenerse del análisis a las constancias procesales cuando se trate de apelación sin expresión de agravios, en los asuntos relacionados con menores, incapaces y, tratándose de alimentos, si la parte apelante es la acreedora alimentista.
+
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 352.
@@ -4485,9 +4533,9 @@ II.- Los autos, cuando expresamente lo disponga este Código, y
 
 III.- Las resoluciones que dicten los jueces para resolver las reclamaciones que se hagan valer contra las medidas cautelares, conforme al artículo 185.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
-No serán apelables las sentencias' y demás resoluciones que se dicten en los juicios de la competencia de los juzgados de paz, con excepción de las que se dicten en los juicios del registro extemporáneo de actas del estado civil, en los términos previstos en el segundo párrafo, del artículo 528 de este Código.
+No serán apelables las sentencias y demás resoluciones que se dicten en los juicios de la competencia de los juzgados de paz, con excepción de las que se dicten en los juicios del registro extemporáneo de actas del estado civil, en los términos previstos en el artículo 481 Bis 2 de este Código.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -4517,6 +4565,10 @@ En el mismo escrito en que se interponga el recurso, el apelante deberá designa
 
 La expresión de agravios deberá contener una relación clara y precisa de los puntos de la resolución recurrida que en concepto del apelante le causen agravios, y las leyes, interpretación jurídica y principios generales de derecho que estime han sido violados, ya sea por aplicación inexacta o por falta de aplicación. Igualmente podrá ser motivo de agravio el hecho que en la sentencia se haya dejado de estudiar alguno de los puntos litigiosos o de las pruebas rendidas, o bien que aquélla no sea congruente con la demanda y la contestación y las demás cuestiones debatidas en el proceso. Igualmente podrán expresarse agravios en relación con las violaciones a normas esenciales del procedimiento que se estimen cometidas durante el mismo, siempre y cuando hayan sido impugnadas oportunamente.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+Si la apelación fuere de auto, al interponer el recurso el apelante deberá señalar con precisión y no genéricamente las constancias que deban integrar el testimonio.
+
 En el escrito de expresión de agravios deberá, además, indicarse si el apelante desea ofrecer pruebas, conforme a lo dispuesto por el artículo 360, precisando los puntos sobre los que deberá versar cada una de las probanzas, los que nunca serán extraños a la cuestión debatida.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
@@ -4525,9 +4577,9 @@ En el escrito de expresión de agravios deberá, además, indicarse si el apelan
 
 Admisión del recurso
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
-Si el recurso de apelación fue interpuesto dentro de los plazos previstos en el artículo 353, contiene la expresión de agravios y se hizo acompañar de las copias a que se refiere el artículo anterior, el juzgador ordenará su admisión y señalará el efecto en que lo admite. Si no concurre cualquiera de los dos primeros requisitos, el juzgador tendrá por no interpuesto el recurso. Cuando no se acompañen las copias del escrito de expresión de agravios, se requerirá al apelante para que las exhiba dentro del término de veinticuatro horas siguientes a la notificación y de no cumplir, se tendrá por no interpuesto el recurso.
+Si el recurso de apelación fue interpuesto dentro de los plazos previstos en el artículo 353, contiene la expresión de agravios y se hizo acompañar de las copias a que se refiere el artículo anterior, el juzgador ordenará su admisión y señalará el efecto en que lo admite. Si no concurre cualquiera de los dos primeros requisitos, el juzgador tendrá por no interpuesto el recurso. Cuando no se acompañen las copias del escrito de expresión de agravios o se omita el señalamiento de las constancias que deberán integrar el testimonio, antes de admitir el recurso, se requerirá al apelante para que lo haga dentro del término de veinticuatro horas siguientes a la notificación, apercibido que de no cumplir se tendrá por no interpuesto. Salvo en los asuntos relacionados con menores, incapaces y tratándose de alimentos cuando la parte apelante sea la acreedora alimentista, en cuyo caso, para su admisión sólo se exigirá, se interponga dentro del plazo legal.
 
 El juzgador desechará el escrito de apelación cuando se interponga contra una resolución que no sea impugnable a través de este recurso y cuando quien lo interponga carezca de legitimación para hacerlo.
 
@@ -4536,8 +4588,6 @@ Contra la resolución que tenga por no interpuesto el recurso de apelación y co
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2003)</small>
 
 En el mismo auto que admita el recurso, el juzgador ordenará se notifique a las partes, haciéndoles saber que deberán presentarse ante el Tribunal Superior de Justicia del Estado para substanciarlo. El juzgador deberá enviar el recurso en un plazo no mayor de diez días, a partir de la admisión.
-
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 15 DE OCTUBRE DE 2003)</small>
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -4567,11 +4617,11 @@ III.- No obstante lo dispuesto en la fracción anterior, para ejecutar las sente
 
 La calificación de la caución será hecha por el Juez, quien se sujetará a las disposiciones del Código Civil y de este Código. La liquidación de los daños y perjuicios se hará mediante incidente que se tramitará de acuerdo con las reglas de la ejecución forzosa;
 
-IV.- Si la apelación admitida en el efecto devolutivo fuere de auto, sólo se remitirá al superior testimonio de lo conducente, por lo que al interponer el recurso el apelante deberá señalar con precisión y no genéricamente las constancias que deban integrarlo, el cual podrá ser adicionado con las constancias que el juzgador estime necesarias;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2003)</small>
+IV.- Si la apelación admitida en el efecto devolutivo fuere de auto, sólo se remitirá al superior testimonio de lo conducente; el juez requerirá al apelante para que dentro de tres días exhiba las constancias, previniéndolo que de no hacerlo se tendrá por desierto el recurso y por firme la resolución apelada; a excepción de la apelación hecha valer en procedimientos de menores, incapaces o alimentos cuando el apelante sea el acreedor alimentario, en los cuales la falta de exhibición del testimonio dará lugar a reservar el recurso para ser resuelto cuando se decida la apelación que en su caso se haga valer en contra de la sentencia definitiva.
 
-Si la contraparte estima que el testimonio de apelación se integró en forma deficiente, podrá complementarlo con las constancias que estime convenientes, las cuales podrá exhibir hasta antes que venza el plazo que se le conceda para contestar agravios. Si el recurrente omite hacer el señalamiento en la forma prescrita, se le requerirá para que lo haga dentro del término de veinticuatro horas, previniéndolo que de no hacerlo, se tendrá por no interpuesto el recurso, y por firme la resolución apelada. El juzgador deberá vigilar que el testimonio de apelación sea enviado al superior, dentro del plazo de diez días; y
+Si la contraparte estima que el testimonio de apelación se integró en forma deficiente, podrá complementarlo con las constancias que estime convenientes, las cuales podrán exhibir hasta antes que venza el plazo que se le conceda para contestar agravios. El juzgador deberá vigilar que el testimonio de apelación sea enviado al superior, dentro del plazo de diez días; y
 
 V.- Si se tratare de sentencia, se dejará en el juzgado testimonio de lo necesario para ejecutarla, remitiéndose los autos originales al superior para la substanciación del recurso.
 
@@ -4599,7 +4649,9 @@ II.- En los casos a que se refiere este artículo, se suspenderá la ejecución 
 
 III.- No obstante la admisión de la apelación en el efecto suspensivo, el que obtuvo sentencia favorable de condena podrá pedir que se efectúe embargo provisional para el aseguramiento de lo sentenciado y de las medidas que puedan garantizar la ejecución. Estas medidas provisionales sólo se llevarán a cabo si se otorga caución para responder de los perjuicios que llegaren a ocasionarse a la contraparte, pero sin que se requiera prueba para acreditar su necesidad. Si la resolución contiene una parte que se refiera a alimentos, en esta parte se ejecutará sin necesidad de caución. El remate o adjudicación no podrá llevarse adelante, pero sí podrán tener verificativo las diligencias previas como avalúo, incidente de liquidación de sentencia y otras similares. En caso de que a petición de alguna parte se lleven a cabo estas medidas de aseguramiento, y posteriormente se revoque la sentencia, la parte que las pidió indemnizará a la otra de los daños y perjuicios que le hubiere ocasionado con el embargo o medidas provisionales, haciéndose en su caso efectiva la caución;
 
-IV.- Admitida la apelación en el efecto suspensivo, dentro de los diez días siguientes, y previo emplazamiento a las partes para que acudan a continuar el recurso, se remitirán los expedientes originales al Tribunal Superior de Justicia, para la substanciación. El juzgador deberá vigilar que el expediente y el escrito de apelación sean enviados al superior dentro del plazo señalado. A petición de parte interesada podrá dejarse copia de la sentencia definitiva para llevar a cabo las medidas provisionales de aseguramiento de que habla la fracción anterior e igualmente podrá dejarse copia de otras constancias que tengan relación con lo concerniente al depósito, a las cuentas y gastos de administración, y se dejarán los incidentes relativos, si se han llevado por cuerda separada; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+IV.- Admitida la apelación en el efecto suspensivo, dentro de los diez días siguientes, y previo emplazamiento a las partes para que acudan a continuar el recurso, se remitirán los expedientes originales al Tribunal Superior de Justicia, para la substanciación. El juzgador deberá vigilar que el expediente sea enviado al superior dentro del plazo señalado. A petición de parte interesada podrá dejarse copia de la sentencia definitiva para llevar a cabo las medidas provisionales de aseguramiento de que habla la fracción anterior e igualmente podrá dejarse copia de otras constancias que tengan relación con lo concerniente al depósito, a las cuentas y gastos de administración, y se dejarán los incidentes relativos, si se han llevado por cuerda separada; y
 
 V.- Si se dictare resolución firme revocatoria de la sentencia apelada, quedarán sin efecto las medidas provisionales de aseguramiento en lo afectado por la revocación.
 
@@ -4615,7 +4667,11 @@ I.- Llegado el expediente o el testimonio, en su caso, y transcurrido el plazo c
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-II.- Confirmada la admisión del recurso, el superior mandará correr traslado a la parte contraria con el escrito de expresión de agravios, por el plazo de diez días, si se trata de sentencia y de cinco, si la apelación se refiere a auto, para que los conteste o en su caso se adhiera a la apelación. Durante el plazo que se señala el expediente quedará a su disposición para que se imponga de él;
+II.- Confirmada la admisión del recurso, el superior mandará correr traslado a la parte contraria con el escrito de expresión de agravios, por el plazo de diez días, si se trata de sentencia y de cinco, si la apelación se refiere a auto, para que los conteste o en su caso se adhiera a la apelación. Durante el plazo que se señala el expediente quedará a su disposición para que se imponga de él.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+Cuando se trate de apelaciones admitidas sin expresión de agravios procederá dar vista a la contraparte por cinco y tres días, según se trate de sentencias o autos, respectivamente, para que manifieste lo que a su derecho convenga;
 
 III.- En el escrito de contestación a los agravios, la contraparte se referirá a los expresados por el apelante y podrá, además, ofrecer pruebas, especificando los puntos sobre los que deberá versar, que nunca serán extraños a la cuestión debatida, así como oponerse a la acción del apelante para que se reciba el pleito a prueba. La falta de presentación del escrito de contestación a los agravios, no implicará conformidad de la contraparte con éstos;
 
@@ -4645,7 +4701,9 @@ La sentencia de segunda instancia se sujetará a lo siguiente:
 
 I.- Se limitará a estudiar y decidir sobre los agravios que haya expresado el apelante, sin que pueda resolver sobre cuestiones que no fueron materia de éstos o que hayan sido consentidos expresamente por las partes.
 
-En los asuntos de orden familiar y de estado y condición de las personas o cuando el afectado sea un menor o incapacitado, podrá suplirse la deficiencia de los agravios formulados cuando se advierta de las constancias procesales que ha habido en contra del apelante una violación manifiesta de la ley que lo haya dejado sin defensa;
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+En los asuntos de orden familiar y de estado y condición de las personas o cuando el afectado sea un menor o incapacitado, deberá suplirse la deficiencia de los agravios formulados o la falta de ellos;
 
 II.- Si el agravio versa sobre una excepción procesal que haya sido declarada fundada en primera instancia y la resolución fuere revocatoria, decidiendo que debe entrarse a discutir el fondo del negocio, la sentencia de segunda instancia resolverá con plenitud de jurisdicción, en cuanto al fondo en su integridad, la cuestión debatida, fallando sobre los puntos materia del litigio;
 
@@ -4655,9 +4713,13 @@ III.- En caso de que la sentencia de primera instancia apelada fuere absolutoria
 
 IV.- Si hubieren recursos o incidentes pendientes y la sentencia decidiere el fondo del asunto, mandará que éstos queden sin materia y ordenará su archivo, una vez que la sentencia de segunda instancia adquiera autoridad de cosa juzgada. Se exceptúan de lo anterior los recursos o incidentes promovidos contra ejecución o rendición de cuentas;
 
-V.- Se resolverá en la sentencia lo que proceda respecto a condenación en costas; y
+V.- Se resolverá en la sentencia lo que proceda respecto a condenación en costas; y (sic)
 
-VI.- En todo lo demás serán aplicables a las sentencias de segunda instancia, las reglas establecidas para las de primera.
+VI.- En todo lo demás serán aplicables a las sentencias de segunda instancia, las reglas establecidas para las de primera;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+VII.- Las notificaciones que se practiquen a las partes dentro del juicio en la segunda instancia, se harán en la forma prevista por los artículos 131 y 132 de este Código, debiendo ser personales las del primer auto que se dicte y las de la resolución que se pronuncie.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -4683,7 +4745,9 @@ Apelación adhesiva
 
 La parte que haya obtenido sentencia favorable podrá adherirse a la apelación interpuesta por la contraparte, adhesión que deberá tramitarse de acuerdo con las siguientes reglas:
 
-I.- Deberá interponerse al contestar los agravios de la apelación principal;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+I.- Deberá interponerse al contestar los agravios de la apelación principal en su caso, al contestar la vista que refiere el artículo 359 fracción II párrafo segundo del presente Código;
 
 II.- Deberá formularse expresando los razonamientos tendientes a señalar las deficiencias o la indebida motivación o fundamentación de que adolezca la sentencia, no obstante serle favorable, con el objeto de que sean subsanadas, en caso necesario, al dictarse resolución en la apelación principal;
 
@@ -5042,6 +5106,22 @@ V.- Se convertirán a cantidad líquida las prestaciones de hacer o no hacer o d
 Condena a no hacer
 
 Si la resolución que se ejecute condena a no hacer, su infracción se resolverá en el pago de daños y perjuicios al actor, quien tendrá el derecho de señalarlos para que por ellos se despache la ejecución, sin perjuicio de la pena que señale el documento base de la sentencia. La liquidación definitiva se hará en el incidente que se substanciará conforme a las reglas del incidente para liquidación de sentencia.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 390 Bis.
+
+Condena a hacer.
+
+Si la sentencia condena a hacer alguna cosa, el juez señalará al que fue condenado un plazo prudente para el cumplimiento, atendidas las circunstancias del hecho y de las personas.
+
+Si pasado el plazo el obligado no cumpliere, se observarán las reglas siguientes:
+
+I. Si el hecho fuere personal del obligado y no pudiere prestarse por otro, se le compelerá empleando los medios de apremio más eficaces, sin perjuicio del derecho para exigirle la responsabilidad civil;
+
+II. Si el hecho pudiere prestarse por otro, el juez nombrará persona que lo ejecute a costa del obligado en el término que le fije; y
+
+III. Si el hecho consiste en el otorgamiento de algún instrumento o la celebración de un acto jurídico, el juez lo ejecutará por el obligado, expresándose en el documento que se otorgó en rebeldía.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -6077,7 +6157,7 @@ V.- Si una sentencia, laudo o resolución jurisdiccional extranjera no pudiera t
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 457.
 
@@ -6085,11 +6165,21 @@ Competencia de los jueces de paz
 
 En el Estado de Tabasco habrá los juzgados de paz que determine la Ley Orgánica del Poder Judicial del Estado.
 
-La competencia de los jueces de paz en materia civil será la que no exceda de 182 veces el salario mínimo diario general vigente en el Estado, a excepción de todo lo relativo a la materia de arrendamiento de inmuebles que será competencia de los jueces de primera instancia.
+Los jueces de paz, conocerán de los siguientes asuntos:
 
-> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2007)</small>
+I.- De la conciliación en materia civil y familiar fuera de juicio, a excepción de los asuntos relativos a interdicción, pérdida, suspensión o restricción de la patria potestad, cuestiones del estado civil, nulidad de actos jurídicos, nulidad de cosa juzgada, sucesiones, nombramiento de tutor o curador, autorización que afecte derecho de incapaz o ausente, y todos aquellos casos análogos en que por su naturaleza o por disposición de la ley no ha lugar a la conciliación;
 
-Los jueces de paz serán competentes para conocer de los juicios del registro extemporáneo de actas del estado civil.
+II.- De los juicios civiles cuyo monto no exceda del importe de doscientos cincuenta veces el salario mínimo diario general vigente en el Estado de Tabasco;
+
+III.- De los actos preparatorios a juicio en su competencia, salvo consignaciones de rentas;
+
+IV.- De la rectificación y registro extemporáneo de actas del estado civil;
+
+V.- Del apeo o deslinde;
+
+VI.- De la información ad perpetuam rei memoriam; y
+
+VII.- De los demás asuntos que le correspondan de acuerdo a la Ley.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -6126,6 +6216,26 @@ Competencia por territorio
 Cada juzgado conocerá de los negocios relativos a predios ubicados dentro de su jurisdicción, cuando se trate de acciones reales sobre bienes inmuebles. Conocerá también de aquellos en que el demandado sea citado en lugar que se encuentre comprendido dentro de la misma jurisdicción.
 
 En caso de duda será competente, por razón de territorio, el Juez de paz que haya prevenido, y en ningún caso se dará entrada a cuestión relativa a competencia de jurisdicción por aquel concepto; por el hecho de haber conocido indebidamente de casos correspondientes a otras jurisdicciones, será motivo de corrección disciplinaria que impondrá el Pleno del Tribunal Superior de Justicia, mediante queja del agraviado.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 461 Bis.
+
+Del procedimiento conciliatorio fuera de juicio.
+
+La conciliación ante los jueces de paz se iniciará a petición verbal o escrita de cualquier interesado, siempre que el mismo asunto no se encuentre en trámite o haya sido resuelto por otra autoridad jurisdiccional. Recibida la solicitud, se examinará la controversia y se determinará si la naturaleza de ésta permite ser resuelta a través de este medio; en su caso, se invitará a otros interesados a la audiencia inicial, que se llevará a cabo dentro de los diez días siguientes, en donde se les hará saber en qué consiste el procedimiento de conciliación.
+
+La invitación contendrá el nombre y domicilio de los interesados, el conflicto que se pretende resolver, la hora y fecha de la audiencia la que sólo se efectuará con consentimiento de ambos y que deberán presentar identificación a satisfacción del juzgado.
+
+En los asuntos del orden familiar se dará la intervención que la ley conceda al Sistema para el Desarrollo Integral de la Familia y al Ministerio Público.
+
+La conciliación se desarrollará en una o varias sesiones, a las que acudirán los interesados, de quienes el juez examinará su legitimación. En caso de que alguna sesión concluya con un acuerdo, se redactará un convenio que lo refleje con exactitud, el cual será ratificado y firmado por los interesados, ante el propio juez, quien lo aprobará si lo encuentra ajustado a derecho.
+
+Estos convenios tendrán la categoría de cosa juzgada.
+
+Si alguno de los interesados no sabe firmar, estampará su huella digital, firmando a su ruego otra persona, cuyos datos aparecerán en el lugar correspondiente.
+
+Practicada la conciliación y elevado el convenio a categoría de cosa juzgada se radicará un expediente debidamente identificado, diferenciado de los formatos para la actuación jurisdiccional.
 
 ### CAPITULO II. DEMANDA Y EMPLAZAMIENTO
 
@@ -6289,31 +6399,43 @@ Costas
 
 En los asuntos ante los jueces de paz no se causarán costas, cualquiera que sea la naturaleza del juicio.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 475.
 
 Irrecurribilidad de las resoluciones.
 
-A excepción de las sentencias que se dicten en los juicios de registro extemporáneo de actas del estado civil, contra las resoluciones pronunciadas por los jueces de paz no procederá recurso alguno.
+Contra las resoluciones pronunciadas por los jueces de paz no procederá recurso alguno, a excepción de las sentencias que se dicten en los juicios de rectificación y registro extemporáneo de actas del estado civil, así como en los procedimientos judiciales no contenciosos de su competencia.
 
-### CAPITULO IV. EJECUCION DE LAS SENTENCIAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO IV. EJECUCION
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 476.
 
-Ejecución de las sentencias
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
-Los jueces de paz tendrán obligación de proveer a la eficaz e inmediata ejecución de sus sentencias, y a ese efecto, dictarán todas las medidas necesarias, en la forma y términos que a su juicio fueren procedentes, sin contrariar las reglas siguientes:
+Ejecución de las sentencias y convenios
 
-I.- Si al pronunciarse la sentencia estuvieren presentes ambas partes, el juzgador las interrogará acerca de la forma que cada una proponga para el cumplimiento de la misma y procurará que lleguen a un avenimiento a ese respecto;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+Los jueces de paz tendrán obligación de proveer a la eficaz e inmediata ejecución de sus sentencias y convenios; a ese efecto, dictarán todas las medidas necesarias, en la forma y términos que a su juicio fueren procedentes, sin contrariar las reglas siguientes:
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+I.- Si al pronunciarse la sentencia, ó aprobarse el convenio, en su caso, estuvieren presentes ambas partes, el juzgador las interrogará acerca de la forma que cada una proponga para el cumplimiento de la misma y procurará que lleguen a un avenimiento a ese respecto;
 
 II.- Si las partes no se ponen de acuerdo o el juzgador no fijó plazo para el cumplimiento de la sentencia, se entenderá que debe cumplirse la misma dentro del plazo de cinco días;
 
-III.- El condenado podrá proponer fianza para garantizar el pago, y el juzgador, con audiencia de la parte que obtuvo, calificará la fianza según su arbitrio, y si la aceptare podrá conceder un plazo hasta de diez días para el cumplimiento y aún mayor tiempo, si el que obtuvo estuviere conforme con ello. Si vencido el plazo el condenado no hubiere cumplido, se procederá de plano contra el fiador, quien no gozará de beneficio alguno; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
-IV.- Llegado el caso, el ejecutor, asociado de la parte que obtuvo y sirviendo de mandamiento en forma la sentencia condenatoria, procederá al embargo de bienes conforme a los artículos relativos a esta materia.
+III.- El condenado podrá garantizar el pago a través de cualquiera de las formas permitidas por la ley y el juzgador, con audiencia de la parte que obtuvo, la calificará según su arbitrio, y si la aceptare podrá conceder un plazo hasta de diez días para el cumplimiento y aún mayor tiempo, si el que obtuvo estuviere conforme con ello. Si vencido el plazo el ejecutado no hubiere cumplido, se procederá de plano haciendo efectiva la garantía, y en su caso contra el fiador, quien no gozará de beneficio alguno; y
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+IV.- Llegado el caso, el ejecutor, asociado de la parte que obtuvo y sirviendo de mandamiento en forma la sentencia condenatoria, o el convenio respectivo, procederá al embargo de bienes conforme a los artículos relativos a esta materia; continuando la ejecución siguiendo las reglas generales establecidas por este Código.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -6333,7 +6455,9 @@ Cuando la sentencia condene a entregar cosa determinada, para obtener el cumplim
 
 Si ni aun así se obtuviera la entrega, el Juez fijará la cantidad que como reparación se deba resarcir a la parte que obtuvo, procediéndose a exigir su pago con arreglo a la ejecución de sentencia.
 
-### CAPITULO V. INCIDENTES
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO V. EJECUCIÓN
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -6455,13 +6579,13 @@ Orden público
 
 Todos los asuntos inherentes a la familia se considerarán de orden público, por constituir la base de la integración de la sociedad. Por tanto, en todos los asuntos que trata este Título deberán tener intervención el Ministerio Público y el Sistema para el Desarrollo Integral de la Familia.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 488.
 
 Suplencia de la deficiencia
 
-En todos los asuntos del orden familiar los jueces y tribunales estarán obligados a suplir la deficiencia de las partes en sus planteamientos de derecho. En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el juzgador deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
+En todos los asuntos del orden familiar los jueces y tribunales estarán obligados a suplir la deficiencia de las partes en sus planteamientos de hecho y de derecho. En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el juzgador deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -6769,7 +6893,9 @@ Si el juicio se entablare por medio de apoderado, no será admitida la personali
 
 Modalidades de los juicios
 
-Los asuntos sobre paternidad y filiación sólo podrán decidirse mediante sentencia declarativa que se dicte en juicio contradictorio, que se tramitará de acuerdo con las reglas del juicio ordinario, con las siguientes modalidades:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+Los asuntos sobre paternidad y filiación sólo podrán decidirse mediante sentencia declarativa que se dicte en juicio contradictorio, dándose intervención además al Registro Civil, que se tramitará de acuerdo con las reglas del juicio ordinario, con las siguientes modalidades:
 
 I.- Los juicios de paternidad y filiación no serán acumulables con ningún otro juicio, aunque exista conexión, ni se admitirá en los mismos contrademanda o reconvención;
 
@@ -6787,7 +6913,9 @@ VI.- Si una de las partes fallece, el juicio se dará por concluido, excepto en 
 
 VII.- El juzgador podrá admitir alegaciones y pruebas de las partes, aunque se presenten fuera de plazo; Inclusive el análisis biológico molecular de la caracterización del ácido desoxirribonucleico de las células del demandado y el actor, cuyos materiales genéticos se obtendrán en presencia del juzgador. El costo de dicha prueba pericial, realizado por persona autorizada para tales efectos por la Secretaria de Salud, será a cargo del padre biológico cuando éste resulte serlo, en caso contrario será por cuenta del oferente;
 
-VIII.- La sentencia tendrá autoridad de cosa juzgada aun en contra de los terceros que no litigaren, excepto respecto de aquéllos que no habiendo sido citados al juicio, pretendan para sí la existencia de la relación paterna filial; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+VIII.- La sentencia tendrá autoridad de cosa juzgada aún en contra de los terceros que no litigaren, excepto respecto de aquellos que no habiendo sido citados al juicio, pretendan para sí la existencia de la relación paterno filial; y
 
 IX.- El tribunal podrá dictar de oficio o a petición de parte, en cualquier estado del juicio, las medidas cautelares que juzgue adecuadas para que no se cause perjuicio a los hijos.
 
@@ -9872,3 +10000,11 @@ P.O. 17 DE MAYO DE 2008.
 PRIMERO.- El presente decreto entrará en vigor a los sesenta días posteriores al siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se deroga cualquier disposición que contravenga lo dispuesto en el presente decreto.
+
+P.O. 13 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. Los juicios de rectificación de actas y los relativos a procedimientos judiciales no contenciosos que se encuentren en trámite en los juzgados de primera instancia, no serán declinados a los juzgados de paz, sino que se concluirán en aquellos.
