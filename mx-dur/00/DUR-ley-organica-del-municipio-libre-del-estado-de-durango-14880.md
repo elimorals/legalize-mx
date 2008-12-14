@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-14880"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-05-30"
-last_updated: "2007-12-20"
+last_updated: "2008-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de mayo de 1999.
 
@@ -625,11 +625,19 @@ XII. Las demás que se les señalen en esta Ley, los reglamentos municipales y e
 
 ### CAPÍTULO VI. DE LAS FALTAS TEMPORALES Y LAS LICENCIAS DE LOS MIEMBROS DEL AYUNTAMIENTO
 
+(NOTA: EL 25 DE ENERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2009 DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE ENERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 52.
 
-En las faltas temporales por ausencia o licencia del Presidente Municipal que no excedan de quince días consecutivos, se hará cargo del despacho el primer regidor. En caso de ausencia o imposibilidad del primer regidor, el que le siga en número. Cuando las faltas temporales sean de más de quince días consecutivos, el ayuntamiento designará de entre los regidores a quien lo supla hasta el término de la licencia.
+En las faltas temporales por ausencia o licencia del Presidente Municipal que no excedan de quince días consecutivos, será cubierta por el primer regidor, o el que le siga en número. CUANDO LAS FALTAS TEMPORALES SEAN DE MÁS DE QUINCE DÍAS CONSECUTIVOS, EL CONGRESO DEL ESTADO DESIGNARÁ UN PRESIDENTE PROVISIONAL QUE CUBRA LA VACANTE. LA PERSONA SOBRE LA QUE RECAIGA ESTE NOMBRAMIENTO DEBERÁ CUBRIR LOS REQUISITOS PREVISTOS EN EL ARTÍCULO 108 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A EXCEPCIÓN DE LA FRACCIÓN IV DEL MISMO.
 
-La falta definitiva del presidente municipal será cubierta por el presidente municipal suplente, en caso de impedimento legal o físico de éste, el ayuntamiento elegirá al regidor que debe hacerse cargo de la presidencia.
+La falta definitiva del presidente municipal será cubierta por el Presidente Municipal Suplente, en caso de impedimento legal o físico de éste, el Congreso del Estado designará un presidente sustituto, quien terminará el período. La persona sobre la que recaiga este nombramiento deberáa (sic) cubrir los requisitos previstos en el artículo 108 de la Constitución Política del Estado Libre y Soberano de Durango, a excepción de la fracción IV del mismo.
+
+(NOTA: EL 25 DE ENERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2009 DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE ENERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+En los casos de designación en los que intervenga el Congreso del Estado, la persona que sea nombrada como Presidente PROVISIONAL O sustituto, deberá de recaer en aquella que sea del mismo origen partidista del que es el Presidente Municipal al que se suple o sustituye.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2003)</small>
 
@@ -2094,3 +2102,13 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan o contravengan las disposiciones del presente decreto.
+
+P.O. 14 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan lo estipulado en el presente decreto.
