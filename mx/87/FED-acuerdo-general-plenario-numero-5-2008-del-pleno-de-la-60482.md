@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-plenario-numero-5-2008-del-pleno-de-la-60482"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-04-14"
-last_updated: "2008-04-14"
+last_updated: "2008-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-03-13"
 
 ACUERDO GENERAL PLENARIO NUMERO 5/2008, DE TRECE DE MARZO DE DOS MIL OCHO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA ESTRUCTURA Y A LAS PLAZAS DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO GENERAL NUMERO 13/2008, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 15 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, CON EXCEPCION DE LO PREVISTO EN SU PUNTO OCTAVO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de abril de 2008.
 
@@ -186,3 +188,21 @@ ANEXO II
 (VEASE ARCHIVO ANEXO)
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que este Acuerdo Número 5/2008, DE TRECE DE MARZO DE DOS MIL OCHO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA ESTRUCTURA Y A LAS PLAZAS DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION con sus Anexos I y II, fue emitido por el Tribunal Pleno en Sesión Privada celebrada hoy, por unanimidad de once votos de los señores Ministros Presidente Guillermo I. Ortiz Mayagoitia, Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Mariano Azuela Güitrón, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza.- México, Distrito Federal, a trece de marzo de dos mil ocho.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+15 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Los documentos en que se precisen las funciones de las plazas que se crean o se transforman con motivo de este Acuerdo General, deberán remitirse dentro de los quince días naturales siguientes a su entrada en vigor, a la Dirección General de Personal.
+
+TERCERO. La Secretaría General de Acuerdos remitirá a la Dirección General de Personal sendos documentos en los que realice la certificación relativa al puesto, número progresivo y adscripción de las plazas de la Suprema Corte de Justicia de la Nación creadas o transformadas mediante este Acuerdo General, con la finalidad de que sean anexados, respectivamente, a los expedientes a los que se refiere el punto tercero de este Acuerdo General.
+
+CUARTO. Las plazas que actualmente ocupan el puesto de Director General Adjunto se transformarán en plazas de Subdirector General, por lo que las referencias que se realizan en la normativa de este Alto Tribunal a una Dirección General Adjunta se entenderán hechas a una Subdirección General.
+
+> <small>(F. DE E., D.O.F. 23 DE FEBRERO DE 2009)</small>
+
+QUINTO. Se abroga el Acuerdo General Plenario 5/2008, relativo a la estructura y a las plazas del personal de la Suprema Corte de Justicia de la Nación, con excepción de lo previsto en su punto Octavo, sin menoscabo de reconocer la vigencia de los artículos cuarto y quinto transitorios del Acuerdo General Plenario 4/2005.
+
+SEXTO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
