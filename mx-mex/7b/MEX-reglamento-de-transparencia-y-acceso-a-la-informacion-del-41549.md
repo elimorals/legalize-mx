@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-transparencia-y-acceso-a-la-informacion-del-41549
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-29"
-last_updated: "2004-10-29"
+last_updated: "2008-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41549&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 15 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta de Gobierno del Estado de México, el viernes 29 de octubre de 2004.
 
@@ -49,7 +49,9 @@ El presente Reglamento tiene por objeto establecer los órganos, criterios y pro
 
 Para los efectos de este Reglamento se entenderá:
 
-Ley: La Ley de Transparencia y Acceso a la Información Pública del Estado de México.
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2008)</small>
+
+Ley: La Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios;
 
 Reglamento: Poder Judicial: El presente Reglamento.
 
@@ -101,41 +103,45 @@ El acceso a la información pública en posesión del Poder Judicial será perma
 
 ## TÍTULO SEGUNDO. DE LOS ÓRGANOS DE INFORMACIÓN
 
-### CAPÍTULO I. DE LA COMISIÓN
+> <small>(REFORMADA SU DENOMINACION, G.G. 15 DE DICIEMBRE DE 2008)</small>
+
+### CAPÍTULO I. DEL CONSEJO
 
 ###### Artículo 7.
 
-La Comisión, se integrará por tres miembros del Consejo; estará encargada de vigilar y supervisar el cumplimiento de la Ley, el Reglamento y demás disposiciones del propio Consejo.
+(DEROGADO, G.G. 15 DE DICIEMBRE DE 2008)
+
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 8.
 
-La Comisión tendrá las siguientes atribuciones:
+El Consejo tendrá las siguientes atribuciones:
 
 I. Promover la cultura de transparencia y acceso a la información pública entre los miembros del Poder Judicial;
 
 II. Emitir acuerdos de observancia general derivados de este Reglamento;
 
-III. Establecer los criterios de clasificación y custodia de la información reservada y confidencial;
+III. Designar a los integrantes de la Unidad de Información y supervisar sus funciones;
 
-IV. Conocer y resolver el recurso previsto en la Ley y el Reglamento;
+IV. Hacer del conocimiento de la Contraloría Interna del Poder Judicial, las infracciones en materia de transparencia y acceso a la información pública, cometidas por servidores judiciales;
 
-V. Aprobar los procedimientos o trámites de acceso a la información;
+V. Dictar los lineamientos para la orientación y asesoramiento de las personas que soliciten acceso a la información;
 
-VI. Designar a los integrantes del Comité y Unidad de Información y supervisar sus funciones;
-
-VII. Hacer del conocimiento de la Contraloría Interna del Poder Judicial, las infracciones en materia de transparencia y acceso a la información pública, cometidas por servidores judiciales;
-
-VIII. Dictar los lineamientos para la orientación y asesoramiento de las personas que soliciten acceso a la información;
-
-IX. Establecer los criterios para la elaboración de formatos sencillos y claros para la consulta de la información en posesión del Poder Judicial; y
-
-X. Las demás que le confiera la Ley, el Reglamento, u otras disposiciones de carácter general.
+VI. Las demás que le confiera la Ley, el Reglamento, u otras disposiciones de carácter general.
 
 ### CAPÍTULO II. DEL COMITÉ
 
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 9.
 
-El Comité se integrará por los servidores públicos que en número impar designe la Comisión.
+El Comité se integrará por:
+
+I. El Presidente del Consejo de la Judicatura, o por quien éste designe;
+
+II. El titular de la unidad de información; y
+
+III. El Director de la Contraloría Interna.
 
 ###### Artículo 10.
 
@@ -149,13 +155,17 @@ I. Coordinar y supervisar las acciones para proporcionar la información estable
 
 II. Coordinar, verificar y vigilar que los titulares de los Órganos Jurisdiccionales y Unidades Administrativas, actualicen la información generada en el ámbito de sus competencias;
 
-III. Someter a la consideración de la Comisión, los lineamientos para los procedimientos y trámites que aseguren la mejor eficacia en la gestión de las solicitudes de acceso a la información;
+> <small>(REFORMADA, G.G. 15 DE DICIEMBRE DE 2008)</small>
 
-IV. Aprobar, modificar o revocar la clasificación de la información realizada por los Órganos Jurisdiccionales y las Unidades Administrativas;
+III. Someter a la consideración del Consejo, los lineamientos para los procedimientos y trámites que aseguren la mejor eficacia en la gestión de las solicitudes de acceso a la información;
+
+IV. (DEROGADA, G.G. 15 DE DICIEMBRE DE 2008)
 
 V. Supervisar la aplicación de criterios en materia de clasificación o conservación de documentos para efectos de transparencia y acceso a la información;
 
-VI. Rendir a la Comisión un informe anual de actividades y los que sean requeridos;
+> <small>(REFORMADA, G.G. 15 DE DICIEMBRE DE 2008)</small>
+
+VI. Rendir al Consejo un informe anual de actividades y los que sean requeridos;
 
 VII. Elaborar un programa para facilitar la sistematización y actualización de la información dentro de los primeros diez días del año; y
 
@@ -167,9 +177,11 @@ VIII. Las demás que en el ámbito de su competencia le confiera la Ley, el Regl
 
 Corresponde a la Unidad de Información, en el ámbito de su competencia, constituirse en la instancia ejecutiva para proporcionar a los solicitantes la información prevista en este Reglamento.
 
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 13.
 
-La Comisión nombrará a los integrantes de la Unidad de Información y aprobará su estructura orgánica y funcional básica.
+El Consejo nombrará a los integrantes de la Unidad de Información y aprobará su estructura orgánica y funcional básica.
 
 ###### Artículo 14.
 
@@ -187,17 +199,25 @@ V. Auxiliar a los particulares en la elaboración de solicitudes y, en su caso, 
 
 VI. Realizar los trámites internos necesarios para entregar la información solicitada y practicar las notificaciones a los particulares;
 
-VII. Proponer a la Comisión los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
+> <small>(REFORMADA, G.G. 15 DE DICIEMBRE DE 2008)</small>
 
-VIII. Recibir los recursos de revisión y turnarlos a la Comisión para su substanciación, de conformidad a lo dispuesto por el presente Reglamento;
+VII. Proponer al Consejo los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
+
+> <small>(REFORMADA, G.G. 15 DE DICIEMBRE DE 2008)</small>
+
+VIII. Recibir los recursos de revisión y turnarlos al Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, para su substanciación;
 
 IX. Llevar un registro de las solicitudes de acceso a la información, sus resultados y costos;
 
 X. Desarrollar, de conformidad con este Reglamento, los procedimientos y formatos para asegurar la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
 
-XI. Recabar y poner a disposición de los interesados la información pública, realizando las gestiones necesarias para su localización; y
+XI. Recabar y poner a disposición de los interesados la información pública, realizando las gestiones necesarias para su localización; y (sic)
 
-XII. Las demás necesarias para garantizar y agilizar el flujo de información entre el Poder Judicial y los particulares.
+> <small>(ADICIONADA, G.G. 15 DE DICIEMBRE DE 2008)</small>
+
+XII. Recibir y dar curso a las solicitudes de acceso, corrección, sustitución, rectificación o supresión total o parcial de los datos personales que por cualquier razón estén en posesión del Poder Judicial; y
+
+XIII. Las demás necesarias para garantizar y agilizar el flujo de información entre el Poder Judicial y los particulares.
 
 ### CAPÍTULO IV. DE LOS ÓRGANOS JURISDICCIONALES Y UNIDADES ADMINISTRATIVAS
 
@@ -297,7 +317,9 @@ XIX. Inventario de bienes inmuebles adquiridos o asignados que conforman el patr
 
 XX. Informes que se generen por disposición legal; y
 
-XXI. Cualquier otra información de transparencia que sea de utilidad al público en general, a criterio de la Comisión.
+> <small>(REFORMADA, G.G. 15 DE DICIEMBRE DE 2008)</small>
+
+XXI. Cualquier otra información de transparencia que sea de utilidad al público en general, a criterio del Consejo.
 
 ###### Artículo 21.
 
@@ -343,9 +365,11 @@ Si la solicitud no contiene los datos necesarios para su trámite y respuesta, l
 
 La Unidad de Información será la encargada de turnar la solicitud de información al Órgano Jurisdiccional o Unidad Administrativa que corresponda, para que con base en ella formule el proyecto de respuesta, ya sea proporcionándola o negándola por tratarse de información reservada o confidencial.
 
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 29.
 
-La Unidad de Información deberá entregar la información solicitada dentro del término de diez días hábiles siguientes al en que fue presentada, o en su caso, informar al solicitante de su imposibilidad de hacerlo, pudiendo ampliarse dicho plazo por otros siete días hábiles siempre que existan razones para ello, notificándolo por escrito al solicitante.
+La Unidad de Información deberá entregar la información solicitada dentro del término de quince días hábiles siguientes al en que fue presentada, o en su caso, informar al solicitante de su imposibilidad de hacerlo, pudiendo ampliarse dicho plazo por otros siete días hábiles siempre que existan razones para ello, notificándolo por escrito al solicitante.
 
 ###### Artículo 30.
 
@@ -361,9 +385,11 @@ La Unidad de Información integrará la información generada a virtud de la sol
 
 ### CAPÍTULO IV. DE LOS CRITERIOS DE CLASIFICACIÓN DE LA INFORMACIÓN CONFIDENCIAL O RESERVADA
 
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 33.
 
-Es información reservada o confidencial la que determina la Ley, el Reglamento y demás disposiciones emanadas de la Comisión.
+Es información reservada o confidencial la que determina la Ley, el Reglamento y demás disposiciones emanadas del Consejo.
 
 ###### Artículo 34.
 
@@ -403,7 +429,9 @@ III. Afectar la seguridad del Estado o la Seguridad Pública.
 
 También se clasificarán como información reservada:
 
-I. Los expedientes judiciales, hasta en tanto no hayan causado ejecutoria las sentencias definitivas o resoluciones que pongan fin al procedimiento;
+> <small>(REFORMADA, G.G. 15 DE DICIEMBRE DE 2008)</small>
+
+I. Los expedientes judiciales, hasta en tanto no hayan transcurrido nueve años, después de que hayan causado ejecutoria las sentencias definitivas o resoluciones que pongan fin al procedimiento;
 
 II. La que pudiera afectar el secreto comercial, industrial, bancario o fiduciario, así como cualquier otro considerado como tal por alguna disposición legal, conforme a la legislación de la materia;
 
@@ -469,9 +497,11 @@ VI. La excluida por disposición legal de su carácter confidencial.
 
 Para que se pueda permitir el acceso a la información confidencial, se requiere obtener el consentimiento expreso de los particulares afectados, así como garantizar la protección y seguridad de la información, evitando su alteración, pérdida, transmisión y acceso no autorizado.
 
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 48.
 
-La Comisión y el Comité tendrán acceso en cualquier tiempo a la información clasificada como reservada, parcialmente reservada o confidencial, así como los servidores públicos que dichos órganos determinen.
+El Comité tendrá acceso en cualquier tiempo a la información clasificada como reservada, parcialmente reservada o confidencial, así como los servidores públicos que dichos órganos determinen.
 
 ## TÍTULO CUARTO. DE LA ORGANIZACIÓN, CATALOGACIÓN Y CONSERVACIÓN DE ARCHIVOS DE INFORMACIÓN
 
@@ -485,9 +515,11 @@ Los Órganos Jurisdiccionales y las Unidades Administrativas contarán con un do
 
 Concluida la organización de su acervo, se realizará la catalogación de los documentos de información mediante índice que atienda los rubros temáticos correspondientes.
 
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 51.
 
-Los titulares de Órganos Jurisdiccionales y de las Unidades Administrativas remitirán a la Comisión, en los meses de enero y julio de cada año, el índice actualizado de información clasificada como reservada, parcialmente reservada o confidencial.
+Los titulares de Órganos Jurisdiccionales y de las Unidades Administrativas remitirán a la Unidad de Información, en los meses de enero y julio de cada año, el índice actualizado de información clasificada como reservada, parcialmente reservada o confidencial.
 
 ###### Artículo 52.
 
@@ -527,17 +559,19 @@ Los titulares de los Órganos Jurisdiccionales y de las Unidades Administrativas
 
 ## TÍTULO QUINTO. DEL MEDIO DE IMPUGNACIÓN
 
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 58.
 
-El recurso de revisión procederá en los casos a que se refiere el artículo 71 de la Ley y se interpondrá ante la Unidad de Información, quien lo remitirá a la Comisión la que resolverá ya sea sobreseyendo, confirmando o revocando total o parcialmente el acto o resolución impugnada.
+El recurso de revisión procederá en los casos a los que se refiere el artículo 71 de la Ley y se presentará por escrito ante la Unidad de Información, quien lo remitirá al Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, dentro de los tres días siguientes a su recepción.
 
 ###### Artículo 59.
 
-En contra de las resoluciones recaídas al recurso de revisión, no procederá medio de impugnación.
+(DEROGADO, G.G. 15 DE DICIEMBRE DE 2008)
 
 ###### Artículo 60.
 
-El término para interponer el recurso, los requisitos que deberá contener el escrito respectivo, el trámite de aquél y en su caso el cumplimiento de la resolución recaída al mismo, se sujetará a lo dispuesto al respecto en la Ley.
+(DEROGADO, G.G. 15 DE DICIEMBRE DE 2008)
 
 ## TÍTULO SEXTO. DE LAS RESPONSABILIDADES ADMISTRATIVAS (SIC) Y SANCIONES
 
@@ -602,3 +636,11 @@ SECRETARIO DE ACUERDOS
 LICENCIADO GUILLERMO ESTRADA CARRASCO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 15 DE DICIEMBRE DE 2008.
+
+PRIMERO. Publíquese el presente acuerdo en la "Gaceta de Gobierno" del Estado de México y el Boletín Judicial.
+
+SEGUNDO. Las presentes reformas al Reglamento de Transparencia y Acceso a la Información Pública del Poder Judicial del Estad) de México entrarán en vigor al día siguiente de su publicación.
