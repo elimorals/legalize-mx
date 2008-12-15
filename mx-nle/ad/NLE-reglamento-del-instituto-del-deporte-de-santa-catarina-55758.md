@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-instituto-del-deporte-de-santa-catarina-55758"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-25"
-last_updated: "2007-05-25"
+last_updated: "2008-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DEL INSTITUTO DEL DEPORTE DE SANTA CATARINA, NUEVO LEON.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el viernes 25 de mayo de 2007.
 
@@ -371,9 +371,11 @@ En la disposición sobre sus bienes muebles e inmuebles, el Instituto se regirá
 
 En el Presupuesto de Egresos del municipio, que anualmente apruebe el R. Ayuntamiento, se fijará el monto anual que como transferencia corresponderá al Instituto, sin perjuicio de que le sean asignados recursos adicionales.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 32.
 
-La Secretaría de Tesorería y Finanzas, será la encargada de realizar la transferencia de los recursos mencionados en el artículo anterior, realizándolo proporcionalmente en 12 exhibiciones que serán los días primeros cada mes.
+La Secretaría de Tesorería y Finanzas, será la encargada de realizar la transferencia de los recursos mencionados en el artículo anterior, realizándolo proporcionalmente en 24-veinticuatro exhibiciones que serán dentro de los primeros 5-cinco días naturales de cada mes, así como los primeros 5-cinco días naturales posteriores al día 15-quince de cada mes.
 
 ###### ARTICULO 33.
 
@@ -466,3 +468,9 @@ PRESIDENTE MUNICIPAL
 LIC. GABRIEL ALBERTO NAVARRO RODRÍGUEZ
 
 SECRETARIO DEL AYUNTAMIENTO
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+P.O. 15 DE DICIEMBRE DE 2008.
+
+PRIMERO.- La presente disposición de reforma por modificación al Reglamento del Instituto del Deporte de Santa Catarina Nuevo León, publicado en el Periódico Oficial, de fecha 16-dieciséis de Mayo del 2007-dos mil siete, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
