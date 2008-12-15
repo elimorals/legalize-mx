@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2008-11-24"
+last_updated: "2008-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -5555,6 +5555,8 @@ Será removido mediante los trámites establecidos para los incidentes por mal d
 
 REGLAS GENERALES.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 778.
 
 El deudor es parte para litigar personalmente en los incidentes relativos a la rectificación de los créditos, pero no en las cuestiones referentes a la graduación.
@@ -5571,7 +5573,7 @@ DE LAS TESTAMENTARIAS.
 
 ###### Artículo 779.
 
-(DEROGADO, P.O. 28 DE JULIO DE 1995)
+El juez competente o el notarlo público que inicie un procedimiento sucesorio deberá recabar el informe de la existencia o inexistencia de alguna disposición testamentaria mediante la solicitud de búsqueda a la Dirección del Archivo General de Notarías y al Registro Público de la Propiedad y del Comercio, y éstos a su vez solicitaran en forma inmediata, vía internet el reporte de búsqueda al Registro Nacional de Avisos de Testamento e incluir en su informe el resultado de la solicitud.
 
 ###### Artículo 780.
 
@@ -9184,3 +9186,7 @@ P.O. 24 DE NOVIEMBRE DE 2008.
 DECRETO NUM. 298, POR EL QUE SE REFORMA LA FRACCION V DEL ARTICULO 325, DEL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NUEVO LEON.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
