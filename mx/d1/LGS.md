@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2008-07-14"
+last_updated: "2008-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 2008.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -187,6 +187,10 @@ XV.- La prevención y el control de los efectos nocivos de los factores ambienta
 XVI.- La salud ocupacional y el saneamiento básico;
 
 XVII.- La prevención y el control de enfermedades transmisibles;
+
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 2008)</small>
+
+XVII bis.- El Programa Nacional de Prevención, Atención y Control del VIH/SIDA e Infecciones de Transmisión Sexual;
 
 XVIII.- La prevención y el control de enfermedades no transmisibles y accidentes;
 
@@ -422,9 +426,9 @@ A. Corresponde al Ejecutivo Federal, por conducto de la Secretaría de Salud:
 
 I.- Dictar las normas oficiales mexicanas a que quedará sujeta la prestación, en todo el territorio nacional, de servicios de salud en las materias de salubridad general y verificar su cumplimiento;
 
-> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 2008)</small>
 
-II.- En las materias enumeradas en las fracciones I, III, V, VI, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII Y XXIX, del artículo 3o. de esta Ley, organizar y operar los servicios respectivos y vigilar su funcionamiento por sí o en coordinación con dependencias y entidades del sector salud;
+II.- En las materias enumeradas en las fracciones I, III, V, VI, XVII Bis, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII y XXIX, del artículo 3o. de esta Ley, organizar y operar los servicios respectivos y vigilar su funcionamiento por sí o en coordinación con dependencias y entidades del sector salud;
 
 III.- Organizar y operar los servicios de salud a su cargo y, en todas las materias de salubridad general, desarrollar temporalmente acciones en las entidades federativas; cuando éstas se lo soliciten, de conformidad con los acuerdos de coordinación que se celebren al efecto;
 
@@ -2353,6 +2357,12 @@ III.- Vehículo de enfermedades transmisibles al hombre, a través de sus produc
 ###### ARTICULO 157.
 
 Se prohibe la introducción o el transporte por el territorio nacional de animales que padezcan una enfermedad transmisible al hombre, de cadáveres de aquéllos, así como el comercio con sus productos. Asimismo, se prohibe la introducción o el transporte de animales que provengan de áreas que la autoridad sanitaria considere infectadas.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 157 Bis.
+
+La Secretaría de Salud y los gobiernos de las entidades federativas en el ámbito de sus respectivas competencias, se coordinarán para la promoción del uso del condón, priorizando a las poblaciones de mayor vulnerabilidad y riesgo de contraer la infección del VIH/SIDA.
 
 ### CAPITULO II. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
 
@@ -5568,21 +5578,21 @@ Se sancionará con multa hasta dos mil veces el salario mínimo general diario v
 
 Se sancionará con multa de dos mil hasta seis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 121, 142, 147, 153, 198, 200, 204, 241, 259, 260, 265, 267, 304, 307, 341, 348, segundo y tercer párrafo, 349, 350 bis, 350 bis 2, 350 bis 3 y 373 de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 18 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 421.
 
 Se sancionará con una multa equivalente de seis mil hasta doce mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 67, 101, 125, 127, 149, 193, 210, 212, 213, 218, 220, 230, 232, 233, 237, 238, 240, 242, 243, 247, 248, 251, 252, 255, 256, 258, 266, 306, 308, 309, 315, 317, 330, 331, 332, 334, 335, 336, 338, último párrafo, 342, 348, primer párrafo, 350 bis 1, 365, 367, 375, 376, 400, 411 y 413 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO, D.O.F. 18 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 421 Bis.
 
 Se sancionará con multa equivalente de doce mil hasta dieciséis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos, 100, 122, 126, 146, 205, 235, 254, 264, 281, 289, 293, 298, 325, 327 y 333 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 422.
 
@@ -6299,3 +6309,7 @@ D.O.F. 14 DE JULIO DE 2008.
 DECRETO QUE REFORMA LA FRACCION V DEL ARTICULO 100 Y EL ARTICULO 461, Y SE ADICIONAN LOS ARTICULOS 317 BIS Y 317 BIS 1, TODOS DE LA LEY GENERAL DE SALUD.
 
 Único. El presente Decreto entrará en vigor al siguiente día al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE DICIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
