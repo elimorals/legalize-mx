@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-21-2008-del-pleno-del-consejo-de-la-62651"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-09-05"
-last_updated: "2008-09-05"
+last_updated: "2008-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62651&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-08-27"
 
 ACUERDO GENERAL 21/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE DOTA DE COMPETENCIA A LOS JUZGADOS DE DISTRITO QUE SE PRECISAN PARA CONOCER DE DELITOS COMETIDOS EN LUGAR DISTINTO AL DE SU JURISDICCION, POR RAZONES DE SEGURIDAD EN LAS PRISIONES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 2008.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 5 de septiembre de 2008.
 
@@ -65,13 +65,11 @@ QUINTO.- En el caso del párrafo anterior, el juez de Distrito que reciba un pro
 
 SEXTO.- La recepción y turno de las consignaciones y procesos penales federales que se ubiquen en los casos precitados, se realizará de acuerdo con las reglas que actualmente operan en los juzgados de Distrito del lugar donde se presenten.
 
-> <small>(F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 82/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2008)</small>
 
 SEPTIMO.- Se modifica el Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, de veintitrés de agosto de dos mil seis, en el punto CUARTO, al que se agrega una fracción más que corresponderá a la XXXI, en los siguientes términos:
 
-> <small>(F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 2008)</small>
-
-"XXXI.- Los Jueces de Distrito en Materia Penal del Primero, Segundo y Tercer Circuito, y los Mixtos con sede en aquellos lugares donde exista un centro federal de readaptación social de máxima seguridad, ejercerán jurisdicción en toda la República para conocer de aquellos asuntos que se encuentren en la hipótesis del artículo 10, párrafo tercero, del Código Federal de Procedimientos Penales, conforme al turno que les corresponda."
+"XXXI.- Los Jueces de Distrito en Materia de Procesos Penales Federales del Primero y Segundo Circuito, los Penales del Tercer Circuito y los Mixtos, así como los de Procesos Penales Federales que en lo futuro se lleguen a crear en aquellos lugares donde exista un centro federal de readaptación social de máxima seguridad, ejercerán jurisdicción en toda la República para conocer de aquellos asuntos que se encuentren en la hipótesis del artículo 10, párrafo tercero, del Código Federal de Procedimientos Penales."
 
 OCTAVO.- El Pleno del Consejo de la Judicatura Federal resolverá cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente acuerdo.
 
@@ -88,3 +86,15 @@ TERCERO.- Las cuestiones de competencia, suscitadas entre juzgados de distrito q
 CUARTO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 21/2008, del Pleno del Consejo de la Judicatura Federal, por el que se Dota de Competencia a los Juzgados de Distrito que se Precisan para Conocer de Delitos Cometidos en Lugar Distinto al de su Jurisdicción, por Razones de Seguridad en las Prisiones, fue aprobado por el Pleno del propio Consejo, en sesión de veintisiete de agosto de dos mil ocho, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Indalfer Infante Gonzales, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a veintiocho de agosto de dos mil ocho.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 15 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en la página de Internet del Consejo de la Judicatura Federal.
+
+TERCERO.- Las cuestiones de competencia, suscitadas entre juzgados de Distrito que se estén tramitando en los tribunales colegiados de Circuito en los que se trate de determinar a cuál órgano corresponde el conocimiento de una causa relacionada con lo previsto en la fracción XXXI que se adiciona al Acuerdo General 57/2006 del Pleno del Consejo de la Judicatura Federal, se resolverán en los términos de este acuerdo.
+
+CUARTO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar, de inmediato, el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
