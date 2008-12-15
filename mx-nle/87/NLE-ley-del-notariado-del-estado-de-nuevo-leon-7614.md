@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-notariado-del-estado-de-nuevo-leon-7614"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-26"
-last_updated: "2000-10-13"
+last_updated: "2008-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL NOTARIADO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de diciembre de 1983.
 
@@ -615,6 +615,12 @@ El Ejecutivo del Estado o la dependencia que tenga delegada dicha facultad en lo
 
 En el ejercicio de su función, el Notario orientará y explicará a los otorgantes y comparecientes, el valor y las consecuencias legales del acto o de los actos jurídicos que él vaya a autorizar. Fungirá como asesor de los comparecientes y expedirá los testimonios, copias o certificaciones a los interesados conforme lo establezcan las Leyes. Igualmente, deberá inscribir en el Registro Público de la Propiedad y del Comercio, los instrumentos correspondientes, dentro de los treinta días siguientes a la autorización de los mismos. Los testimonios de las escrituras, así como los demás documentos auténticos ya inscritos, en caso de no recogerlos los interesados en la notaría en un término de quince días después de su registro, se les harán llegar a su domicilio en otro lapso de tiempo que tampoco podrá ser mayor de quince días; contados a partir de los ya antes señalados.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 83 Bis.
+
+Cuando se tramite una sucesión ante notario público se deberá recabar el informe de la existencia o inexistencia de alguna disposición testamentaria mediante la solicitud de búsqueda a la Dirección de Archivo General de Notarías y al Registro Público de la Propiedad y del Comercio, y éstos a su vez solicitaran vía internet el reporte de búsqueda al Registro Nacional de Avisos de Testamento e incluir en su informe el resultado de la solicitud.
+
 ###### Artículo 84.
 
 Los Notarios, en el ejercicio de su profesión, deben guardar reserva sobre lo pasado ante ellos y están sujetos a las disposiciones del Código Penal sobre violación al secreto profesional, salvo los informes que obligatoriamente establezcan las Leyes respectivas.
@@ -911,9 +917,17 @@ Los Instrumentos públicos extranjeros sólo deberán protocolizarse en el Estad
 
 Los poderes otorgados fuera de la República una vez legalizados deberán protocolizarse con arreglo a la Ley, para que surtan sus efectos, excepto los otorgados directamente ante los Cónsules Mexicanos en funciones de Notario, en los que basta la legalización.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 127.
 
-Siempre que se otorgue un testamento público abierto o cerrado, los Notarios darán en seguida aviso al Registro Público de la Propiedad de su jurisdicción y a la Dirección de Archivo General de Notarías, expresando la fecha, nombre del Testador y sus generales, y si el testamento fuere cerrado, el lugar o persona en cuyo poder se deposite. Si el testador expresa en su testamento el nombre de sus padres, también se dará este dato al Registro Público de la Propiedad y a la Dirección de Archivo General de Notarías. En estas dependencias se llevará un libro especialmente destinado a asentar las inscripciones relativas con los datos que se mencionen. Los jueces ante quienes se denuncie un intestado, recabarán del Registro Público de la Propiedad o de la Dirección del Archivo General de Notarías, la noticia de si hay anotación en dicho libro, referente al otorgamiento de algún testamento, por la persona de cuya sucesión se trate.
+Cuando ante un notario público, se otorgue un testamento público o cerrado, éste dará aviso a la Dirección de Archivo General de Notarías, al Registro Público de la Propiedad y del Comercio y al Registro Nacional de Avisos de Testamentos, dentro de los cinco días hábiles siguientes en que se otorgó la voluntad testamentaria; esto deberá realizarse en el formato único aprobado por las citadas Dependencias y en el que proporcionarán los datos indicados en el artículo 1199 Bis del Código Civil para el Estado de Nuevo León.
+
+En estas dependencias registrales se llevará un libro especialmente destinado a asentar las inscripciones relativas con los datos que se mencionen y se capturarán en la base de datos. Los jueces ante quienes se denuncie un intestado, recabarán del Registro Público de la Propiedad y del Comercio, y de la Dirección de Archivo General de Notarías por ventanilla o internet, la noticia de si hay anotación en dicho libro y/o base de datos, referente al otorgamiento de algún testamento, por la persona de cuya sucesión se trate.
+
+Cuando la Dirección de Archivo General de Notarías reciba un aviso de testamento deberá cerciorarse que los datos asentados en el aviso cumplen con los requisitos establecidos por el presente artículo y darlo de alta de inmediato en la base de datos del Registro Nacional de Avisos de Testamento o, a más tardar, el siguiente día hábil al de su recepción.
+
+Cuando la Dirección de Archivo General de Notarías reciba una solicitud de informe acerca de la existencia o inexistencia de disposición testamentaria, para emitir su informe, deberá consultar de inmediato el Sistema de Registro Nacional de Avisos de Testamentos el cual emitirá el reporte de búsqueda nacional.
 
 ###### Artículo 128.
 
@@ -1259,11 +1273,11 @@ El Director del Archivo General de Notarías usará un sello con las mismas cara
 
 La Dirección de Archivo General de Notarías expedirá, cuando proceda legalmente, a los otorgantes o a sus causahabientes, los testimonios, copias y certificaciones que pidieren de las escrituras asentadas y autorizadas en los Protocolos, cuyo depósito y conservación le encomienda la presente Ley, exceptuando aquellos documentos sobre los que la misma imponga limitación o prohibición, sujetándose para ello a las reglas establecidas respecto de los Notarios por este Ordenamiento.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 178.
 
-El Director del Archivo General de Notarías, será responsable de la custodia y conservación de los Protocolos, Apéndices, Índices, Sellos y demás documentos que integren y se hallen en el Archivo. Asimismo tendrán la misma responsabilidad que los Notarios en lo que respecta a la función que se indica en el artículo 177, independientemente de la que incurra por infracciones, faltas o irregularidades que cometa en el ejercicio de su cargo, las que serán sancionadas de la manera que se determina en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
+El Director del Archivo General de Notarías, será responsable de la custodia y conservación de los Protocolos, Apéndices, Índices, Sellos y demás documentos que integren y se hallen en el Archivo, de remitir los avisos de testamento otorgados o depositados ante Notario Público a la Dirección de Registro Nacional de Testamentos de la Secretaría de Gobernación. Asimismo tendrá la misma responsabilidad que los Notarios Públicos en que respecta a la función que se indica en el artículo 177, independientemente de la que incurra por infracciones, faltas o irregularidades que cometa en el ejercicio de su cargo, las que serán sancionadas de la manera que se determina en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
 ###### Artículo 179.
 
@@ -1430,3 +1444,9 @@ Artículo Séptimo.- Los Notarios deberán actualizar la hipoteca, depósito, fi
 Artículo Octavo.- Se deroga todo lo que se oponga al presente Decreto.
 
 Artículo Noveno.- Para los efectos de esta Ley deberá entenderse por cuota, el equivalente a un salario mínimo general diario vigente en el municipio de Monterrey.
+
+P.O. 15 DE DICIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
