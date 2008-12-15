@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2008-11-28"
+last_updated: "2008-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -7453,6 +7453,34 @@ Las disposiciones hechas a título universal o particular no tienen ningún efec
 
 Toda disposición testamentaria deberá entenderse en el sentido literal de las palabras, a no ser que aparezca con manifiesta claridad que fué otra la voluntad del testador. En caso de duda sobre la inteligencia o interpretación de una disposición testamentaria, se observará lo que parezca mas conforme a la intención del testador, según el tenor del testamento y la prueba auxiliar que a este respecto pueda rendirse por los interesados.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2008)</small>
+
+###### Art. 1199 Bis.
+
+Siempre que se otorgue un testamento ante notario público, éste en forma inmediata, dentro de los cinco días hábiles siguientes, deberá formular un aviso de testamento a la Dirección del Archivo General de Notarías y al Registro Público de la Propiedad y del Comercio, quienes a su vez remitirán tal aviso al Registro Nacional de Avisos de Testamento por vía electrónica con los datos siguientes:
+
+I. Nombre completo del testador, es decir, apellido paterno, materno y nombres;
+
+II. Nacionalidad;
+
+III. Fecha de nacimiento;
+
+IV. Lugar de Nacimiento;
+
+V. Clave Única del Registro Nacional de Población (CURP), si lo hubiere expresado;
+
+VI. Estado civil;
+
+VII. Nombre completo del padre, es decir, apellido paterno, materno y nombres, si lo hubiere expresado;
+
+VIII. Nombre completo de la madre, es decir, apellido paterno, materno y nombres, si lo hubiere expresado;
+
+IX. Tipo de testamento, si lo hubiere expresado;
+
+X. Lugar, fecha, y hora de su otorgamiento; y
+
+XI. Datos de registro de la dependencia donde se depositó.
+
 ###### Art. 1200.
 
 Si un testamento se pierde por un evento ignorado por el testador, o por haber sido ocultado por otra persona, podrán los interesados exigir su cumplimiento si demuestran plenamente el hecho de la pérdida o de la ocultación, logran igualmente comprobar lo contenido en el mismo testamento y que en su otorgamiento se llenaron todas las formalidades legales.
@@ -8595,9 +8623,13 @@ Por la infracción del artículo anterior, no se anulará el testamento, pero el
 
 El testador podrá conservar el testamento en su poder, o darlo en guarda a persona de su confianza o depositarlo en el archivo judicial.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2008)</small>
+
 ###### Art. 1435.
 
-El testador que quiera depositar su testamento en el archivo, se presentará con él ante el encargado de éste, quien hará asentar en el libro que con ese objeto debe llevarse, una razón del depósito o entrega, que será firmada por dicho funcionario y el testador, a quien se dará copia autorizada.
+El testador que quiera depositar su testamento en el archivo judicial, se presentará con él ante el encargado de éste, quien hará asentar en el libro que con ese objeto debe llevarse, una razón del depósito o entrega, que será firmada por dicho funcionario y el testador, a quien se dará copia autorizada.
+
+El Juez deberá de formular un aviso de testamento a la Dirección del Archivo General de Notarías y al Registro Público de la Propiedad y del Comercio, quienes a su vez remitirán tal aviso al Registro Nacional de Avisos de Testamento por vía electrónica, con los datos indicados en el artículo 1199 Bis del Código Civil para el Estado de Nuevo León.
 
 ###### Art. 1436.
 
@@ -8706,6 +8738,10 @@ Cuando el testador estuviere imposibilitado para hacer personalmente la entrega 
 ###### Art. 1454.
 
 Hecho el depósito, el encargado del Registro tomará razón de él en el libro respectivo, a fin de que el testamento pueda ser identificado, y conservará el original bajo su directa responsabilidad hasta que proceda hacer su entrega al mismo testador o al juez competente.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2008)</small>
+
+El encargado del Registro Público de la Propiedad y del Comercio deberá de formular un aviso de testamento a la Dirección del Archivo General de Notarías, quienes a su vez remitirán tal aviso al Registro Nacional de Avisos de testamentos por vía electrónica con los datos indicados en el artículo 1199 Bis del Código Civil para el Estado de Nuevo León.
 
 ###### Art. 1455.
 
@@ -16608,6 +16644,10 @@ P.O. 28 DE NOVIEMBRE DE 2008.
 Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- La vigencia del presente Decreto establece la del diverso 225 que contiene la Ley del Registro Civil para el Estado de Nuevo León, de conformidad con lo previsto en el Artículo Primero Transitorio de dicho Decreto, publicado el día 10 de abril del 2008 en el Periódico Oficial del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO TERCERO.
 
