@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-social-para-el-estado-de-nuevo-leon-52035"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-16"
-last_updated: "2006-10-16"
+last_updated: "2008-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2006.
 
@@ -349,6 +349,10 @@ El presupuesto asignado al Consejo y a los programas de apoyo a grupos vulnerabl
 
 Asimismo se podrán destinar partidas extraordinarias para programas sociales, las cuales no serán consideradas para los efectos del párrafo anterior.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2008)</small>
+
+En la Ley de Egresos se contemplará, obligatoriamente un porcentaje no menor al 5% de los egresos anuales en el rubro del presupuesto de obras públicas del Estado para destinarse al desarrollo de infraestructura urbana en las zonas de mayor marginación en el Estado, conforme a lo dispuesto en esta Ley.
+
 ###### Artículo 37.
 
 Los recursos estatales y municipales presupuestados para los Programas de Desarrollo Social podrán ser complementados con recursos provenientes del Gobierno Federal o de las Organizaciones Civiles o Sociales, fondos internacionales, donativos, o generados por cualquier otro acto jurídico.
@@ -512,3 +516,9 @@ JOSÉ NATIVIDAD GONZÁLEZ PARÁS
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 ROGELIO CERDA PÉREZ
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 15 DE DICIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación.
