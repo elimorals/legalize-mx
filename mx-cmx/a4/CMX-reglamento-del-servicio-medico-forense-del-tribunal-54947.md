@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-servicio-medico-forense-del-tribunal-54947"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-04"
-last_updated: "2007-04-04"
+last_updated: "2008-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54947&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-03-21"
 
 REGLAMENTO DEL SERVICIO MEDICO FORENSE DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE L DISTRITO FEDERAL: 16 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 4 de abril de 2007.
 
@@ -44,7 +44,9 @@ Que derivado de lo anterior y por la relevancia de los servicios que presta el S
 
 Que el Servicio Médico Forense presta sus servicios periciales ajustándose a las normas sustantivas y adjetivas que regulan su actuación, entre las que se encuentran la Ley General de Salud, la Ley de Salud para el Distrito Federal, la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, el Código de Procedimientos Penales para el Distrito Federal y demás ordenamientos aplicables, incluso de carácter administrativo.
 
-Que entre los servicios, trámites y procedimientos que lleva a cabo el Servicio Médico Forense e integran su actividad cotidiana, se encuentran los siguientes: práctica de necropsias a cadáveres que le son remitidos por disposición legal y emisión de los dictámenes respectivos, lo que a su vez comprende la realización de estudios químico-toxicológicos, histopatológicos, toma de fotografías, elaboración por diversos métodos del archivo para la posible identificación de cadáveres de identidad desconocida; valoraciones médicas a lesionados; exámenes psiquiátricos o psicológicos; envío de cadáveres en calidad de desconocidos o no reclamados a inhumación o a escuelas de medicina; recolección de residuos peligrosos biológico-infecciosos; además de los tramites de carácter administrativo inherentes a la función.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
+
+Que entre los servicios, trámites y procedimientos que lleva a cabo el Servicio Médico Forense e integran su actividad cotidiana, se encuentran los siguientes: práctica de necropsias a cadáveres que le son remitidos por disposición legal y emisión de los dictámenes respectivos, lo que a su vez comprende la realización de exámenes químico-toxicológicos, histopatológicos, toma de fotografías, elaboración por diversas especialidades de la célula para la posible identificación de cadáveres de identidad desconocida; valoraciones médicas a lesionados; exámenes psiquiátricos y/o psicológicos a solicitud de jueces penales, de justicia para adolescentes, civiles o familiares; envío de cadáveres en calidad de desconocidos o no reclamados a inhumación o a escuelas de medicina; recolección de residuos químicos y biológicos-infecciosos; además de los trámites de carácter administrativo inherentes a la función.
 
 Que los servicios, trámites y procedimientos a que se refiere el párrafo anterior se encuentran descritos y regulados por el Manual de Procedimientos del Servicio Médico Forense que con dicho propósito ha autorizado el Pleno del Consejo de la Judicatura del Distrito Federal.
 
@@ -97,6 +99,10 @@ La actividad sustantiva del SEMEFO será la realización de estudios en materia 
 El SEMEFO como auxiliar de los órganos de procuración y administración de justicia en el Distrito Federal, estará facultado para emitir informes o dictámenes en materia de medicina forense, psiquiatría, psicología e identificación, en los términos que señalen las leyes, reglamentos y demás disposiciones jurídicas aplicables.
 
 No podrá expedir informe o dictamen alguno si no media oficio de parte de autoridad judicial o ministerial.
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
+
+Los peritos adscritos al Servicios Médico Forense del Distrito Federal, deberán abstenerse de intervenir en todos aquellos asuntos en que se encuentren impedidos legalmente, en términos del artículo 47 de la Ley Federal de Responsabilidades de los Servidores Públicos.
 
 ###### Artículo 6.
 
@@ -160,7 +166,9 @@ a) Dictámenes relativos a la práctica del estudio de necropsias;
 
 b) Certificados y opiniones médicas relativas a valoraciones en personas vivas o en su caso con base a documentos médico legales aportados por la autoridad solicitante; y
 
-c) Las ampliaciones con base en estudios complementarios o sin estos.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
+
+c) Las ampliaciones con base a los resultados de los estudios complementarios que ordenan realizar o sin estos.
 
 En los documentos referidos en las fracciones anteriores se asentarán todas las operaciones, técnicas y experimentos practicados, que su ciencia les sugiera, expresando los hechos y circunstancias que sirvan de fundamento a su conclusión.
 
@@ -180,7 +188,7 @@ V. Cumplir con todo aquello que las leyes, reglamentos y demás ordenamientos ju
 
 ###### Artículo 19.
 
-Los Peritos Médico Forenses adscritos al Tribunal, deberán abstenerse de intervenir en todos aquellos asuntos en que se encuentren impedidos legalmente en términos del artículo 47, fracciones XI y XIII, de la Ley Federal de Responsabilidades de los Servidores Públicos.
+(DEROGADO, G.O. 16 DE DICIEMBRE DE 2008)
 
 ###### Artículo 20.
 
@@ -218,9 +226,11 @@ Cuando se manejen y recolecten Residuos Peligrosos Biológico Infecciosos (RPBI)
 
 ### CAPÍTULO VI. DEL TRATAMIENTO DE LOS CADÁVERES
 
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 28.
 
-Los cadáveres que ingresen a las instalaciones del Servicio para la práctica de necropsia, serán registrados, etiquetados y fotografiados. Una vez necropsiados deberán ser trasladados de inmediato a la gaveta de refrigeración hasta en tanto permanezcan en las instalaciones del SEMEFO.
+Los cadáveres que ingresen a las instalaciones del servicio para la práctica de necropsia, serán registrados, etiquetados y fotografiados. Una vez necropsiados deberán ser trasladados de inmediato a la gaveta de refrigeración por los ayudantes de autopsia y se conservarán en ese sitio mientras permanezcan en las instalaciones del SEMEFO.
 
 ###### Artículo 29.
 
@@ -238,9 +248,11 @@ Cuando el cuerpo ingrese con objetos de valor, estos serán retirados, embalados
 
 Cuando la persona haya fallecido a causa de uno o más proyectiles de arma de fuego y éste o éstos se encuentren en el interior del cuerpo, se deberá proceder a extraer dichos proyectiles, a fijarlo fotográficamente, a embalarlo y a remitirlo posteriormente al Agente del Ministerio Público que conozca del caso.
 
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 33.
 
-Después del estudio de necropsia, el cadáver se lavará nuevamente y se entregará a sus deudos cuando el Agente del Ministerio Público así lo ordene.
+Después del estudio de necropsia, el técnico de autopsia lavará el cadáver y se entregará a sus deudos cuando el agente del Ministerio Público así lo ordene.
 
 ###### Artículo 34.
 
@@ -359,3 +371,9 @@ IV. Promover la generación de una cultura de ética profesional y estricto apeg
 TRANSITORIOS (SIC)
 
 PRIMERO.- El presente Reglamento entrará en vigor el día de la primera publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal."
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 16 DE DICIEMBRE DE 2008.
+
+UNICO.- Por considerarse que tal acuerdo es de interés general, publíquese por una sola vez en la Gaceta Oficial del Distrito Federal, así como por tres veces en el Boletín Judicial del H. Tribunal.
