@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-852-organica-de-la-procuraduria-general-de-40303"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-12"
-last_updated: "2008-04-30"
+last_updated: "2008-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 852 ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 12 de julio de 2004.
 
@@ -125,7 +125,9 @@ XVII. Poner a los inimputables mayores de edad a disposición del órgano jurisd
 
 XVIII. Las demás que señalen otras disposiciones legales.
 
-Las denuncias o querellas por delitos del orden común, podrán ser presentadas ante un Agente Investigador del Ministerio Público, ante la Dirección General de Investigaciones Ministeriales o ante la Policía Ministerial, quienes procederán, en consecuencia, de acuerdo a lo que esta Ley y el Código de Procedimientos Penales prescriben.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
+
+Las denuncias o querellas por delitos del orden común, podrán ser presentadas ante un Agente Investigador del Ministerio Público, ante la Dirección General de Investigaciones Ministeriales o ante la policía adscrita a la Agencia Veracruzana de Investigaciones, quienes procederán, en consecuencia, de acuerdo a lo que esta Ley y el Código de Procedimientos Penales prescriben.
 
 ###### Artículo 4.
 
@@ -191,7 +193,7 @@ VI. Informar a las autoridades competentes acerca de los hechos que, no siendo c
 
 VII. Informar a los interesados acerca de los procedimientos legales en los trámites de las quejas que hubiesen formulado contra servidores públicos, por hechos no constitutivos de delito pero sí susceptibles de ser sancionados mediante el procedimiento administrativo correspondiente; y
 
-VIII. Aplicar normas de control y evaluación técnicojurídicas en todas las unidades administrativas del Ministerio Público y sus órganos auxiliares, tanto centrales como desconcentrados, mediante la práctica de visitas de inspección y vigilancia.
+VIII. Aplicar normas de control y evaluación técnico-jurídicas en todas las unidades administrativas del Ministerio Público y sus órganos auxiliares, tanto centrales como desconcentrados, mediante la práctica de visitas de inspección y vigilancia.
 
 ###### Artículo 9.
 
@@ -293,7 +295,9 @@ VI. Un Director General de Control de Procesos;
 
 VII. Un Director General Jurídico;
 
-VIII. Un Director General de la Policía Ministerial;
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2008)</small>
+
+VIII. Un titular de la Agencia Veracruzana de Investigaciones;
 
 IX. Un Director de los Servicios Periciales;
 
@@ -323,7 +327,9 @@ XXI. Agentes del Ministerio Público Especializados en Delitos Electorales;
 
 XXII. Agentes del Ministerio Público Visitadores;
 
-XXIII. Agentes de la Policía Ministerial;
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2008)</small>
+
+XXIII. Los integrantes de la Agencia Veracruzana de Investigaciones;
 
 XXIV. Peritos;
 
@@ -341,9 +347,11 @@ El Procurador, en atención a las disposiciones presupuestales, podrá crear uni
 
 El Procurador podrá establecer delegaciones con carácter de organismos desconcentrados por territorio, con autonomía técnica y operativa, cuyos titulares estarán subordinados a él y las Agencias del Ministerio Público que considere necesarias, de acuerdo con las disponibilidades presupuestarias.
 
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 21.
 
-La Policía Ministerial estará bajo la autoridad y mando inmediato del Procurador General de Justicia y, en sus respectivas áreas de competencia, de los Subprocuradores y de los Agentes del Ministerio Público.
+La policía adscrita a la Agencia Veracruzana de Investigaciones estará bajo la autoridad y mando inmediato del Procurador General de Justicia y, en sus respectivos ámbitos de competencia, de los Subprocuradores y los Agentes del Ministerio Público.
 
 ### Capítulo III. Del Procurador
 
@@ -457,15 +465,19 @@ VII. Los demás requisitos que señale el reglamento.
 
 Los requisitos que deberá reunir el demás personal, serán señalados en el reglamento de esta ley y en las disposiciones que resulten aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 30.
 
-Son auxiliares directos del Ministerio Público, la Policía Ministerial y los Servicios Periciales.
+Son auxiliares directos del Ministerio Público, la policía adscrita a la Agencia Veracruzana de Investigaciones y los Servicios Periciales.
 
 La policía preventiva dependiente de la Secretaría de Seguridad Pública del Estado y los demás agentes que funcionen legalmente le prestarán colaboración y ayuda, en los términos de las leyes aplicables.
 
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 31.
 
-La Policía Ministerial actuará bajo la autoridad y el mando inmediato del Ministerio Público y lo auxiliará en la investigación de los delitos y persecución de los delincuentes. Por consiguiente, conforme a las instrucciones que dicte el Ministerio Público, llevará a cabo las actuaciones que se le encomienden durante la investigación ministerial, cumplirá las citaciones, presentaciones y notificaciones que se le ordenen, ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que dispongan los órganos jurisdiccionales.
+La policía adscrita a la Agencia Veracruzana de Investigaciones actuará bajo la conducción y el mando del Ministerio Público, y lo auxiliará en la investigación de los delitos y, en su caso, en la persecución de los presuntos responsables. Por consiguiente, conforme a las instrucciones que dicte el Ministerio Público, llevará a cabo las actuaciones que le encomiende durante la investigación ministerial, cumplirá las citaciones, presentaciones y notificaciones que le ordene, ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que dispongan los órganos jurisdiccionales.
 
 ###### Artículo 32.
 
@@ -547,9 +559,9 @@ El Instituto de Formación Profesional es un órgano desconcentrado de la Procur
 
 El Instituto de Formación Profesional estará a cargo de un Director nombrado por el Procurador, con título de licenciado en derecho expedido por institución legalmente facultada para ello y antigüedad mínima de cinco años en el ejercicio de la profesión, preferentemente con experiencia docente.
 
-### Capítulo VII. De la Contraloría Interna
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
 
-###### Artículo 45.
+###### Artículo 44 Bis.
 
 Son atribuciones del Instituto, las siguientes:
 
@@ -567,7 +579,57 @@ VI. Promover el respeto a los derechos humanos; y
 
 VII. Las que establezca el reglamento y demás disposiciones aplicables.
 
-### Capítulo VIII. Del Servicio Público de Carrera
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
+
+### Capítulo VI Bis. De la Agencia Veracruzana de Investigaciones
+
+> <small>(REFORMADO Y REUBICADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 45.
+
+La Agencia Veracruzana de Investigaciones es un órgano de la Procuraduría General de Justicia del Estado, que tendrá adscrito al personal de la policía ministerial y estará bajo el mando directo del Procurador General de Justicia. Su organización y funcionamiento se regirán por las disposiciones de la presente ley, del reglamento y demás aplicables.
+
+Estará a cargo de un titular nombrado por el Procurador, que deberá ser licenciado en derecho con título expedido por institución legalmente facultada para ello y con antigüedad mínima de cinco años en el ejercicio de la profesión.
+
+Contará, como mínimo, con las áreas de Inteligencia, Investigación Policial, Análisis y Estadística, Grupos de Reacción Inmediata y la Unidad de Combate al Secuestro.
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 45 Bis.
+
+La Agencia Veracruzana de Investigaciones tendrá las atribuciones siguientes:
+
+I. Establecer, operar, mantener actualizadas con los avances tecnológicos, y supervisar las áreas de:
+
+a). Inteligencia Policial,
+
+b). Análisis y Estadística,
+
+c). Grupos de Reacción Inmediata;
+
+d). Unidad de Combate al Secuestro;
+
+II. Coordinarse con el Sistema Nacional de Seguridad y con los de otras entidades federativas;
+
+III. Investigar los hechos delictuosos de que tenga conocimiento en los términos de las disposiciones legales aplicables;
+
+IV. Recabar pruebas de la existencia de los delitos y las que tiendan a determinar la responsabilidad de quienes en ellos participen;
+
+V. Hacer cumplir las órdenes que, de conformidad con la ley aplicable, resulten de la investigación ministerial y del procedimiento penal;
+
+VI. Presentar a las personas para la práctica de diligencias ordenadas por los Agentes del Ministerio Público;
+
+VII. Dirigir y coordinar los grupos especializados de investigación de los delitos que al efecto acuerde el Procurador;
+
+VIII. Promover la asesoría técnica en materia de investigación policial;
+
+IX. Vigilar que sus funciones se realicen dentro del marco de legalidad, con respeto a los derechos humanos;
+
+X. Controlar el armamento, municiones, vehículos, así como aparatos de radio comunicación y equipo en general que tenga asignados;
+
+XI. Las demás que señalen las leyes y los reglamentos.
+
+### Capítulo VII. De la Contraloría Interna
 
 ###### Artículo 46.
 
@@ -595,7 +657,7 @@ X. Revisar los procedimientos para el control de inventarios, el aseguramiento y
 
 XI. Las demás que le otorguen las disposiciones legales aplicables.
 
-### Capítulo IX. De las Responsabilidades
+### Capítulo VIII. Del Servicio Público de Carrera
 
 ###### Artículo 47.
 
@@ -648,6 +710,8 @@ VI. Inhabilitación;
 VII. Sentencia condenatoria definitiva por la comisión de delito; o
 
 VIII. Incapacidad física o mental que haga imposible la prestación del servicio.
+
+### Capítulo IX. De las Responsabilidades
 
 ###### Artículo 51.
 
@@ -714,3 +778,17 @@ TERCERO. Las Subprocuradurías Regionales que actualmente tramiten investigacion
 CUARTO. La Dirección General de Administración de la Procuraduría General de Justicia, gestionará la asignación de los recursos humanos y materiales que correspondan, ante la instancia competente, para la implementación y puesta en marcha inmediata de las nuevas subprocuradurías regionales creadas.
 
 QUINTO. Se derogan todas las demás disposiciones que se opongan al presente Decreto.
+
+G.O. 16 DE DICIEMBRE DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz.
+
+Segundo. Para todos los efectos legales, cualquier mención a la Dirección General de la Policía Ministerial que se haga en la legislación o disposiciones reglamentarias vigentes en el Estado, se entenderá que se refiere a la Agencia
+
+Veracruzana de Investigaciones.
+
+Tercero. Los recursos humanos, financieros y materiales que tenía asignados la Dirección General de la Policía Ministerial, serán reasignados, adscritos e incorporados a la Agencia Veracruzana de Investigaciones.
+
+Cuarto. Dentro del término de sesenta días siguientes al inicio de la vigencia del presente decreto, deberá expedirse el reglamento correspondiente.
+
+Quinto. Se derogan todas las disposiciones que se opongan al presente decreto.
