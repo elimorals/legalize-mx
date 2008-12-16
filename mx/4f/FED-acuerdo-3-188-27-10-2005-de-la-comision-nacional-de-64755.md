@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-3-188-27-10-2005-de-la-comision-nacional-de-64755"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-10-27"
-last_updated: "2005-10-27"
+last_updated: "2008-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64755&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ issue_date: "2005-10-27"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA APLICACIÓN DEL LIBRO SEXTO DEL CÓDIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, RELATIVO A LAS CAUSAS POR LAS QUE NO SE INSCRIBIRÁ AL CIUDADANO EN EL LISTADO NOMINAL DE ELECTORES RESIDENTES EN EL EXTRANJERO, ASÍ COMO LOS DOCUMENTOS QUE DEBERÁN UTILIZARSE COMO CONSTANCIA DE DOMICILIO EN EL VOTO DE LOS MEXICANOS RESIDENTES EN EL EXTRANJERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE DICIEMBRE DE 2008.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de octubre de 2005.
 
@@ -100,44 +100,42 @@ III. Baja por la aplicación del procedimiento de detección de duplicados.
 
 2. La Dirección Ejecutiva del Registro Federal de Electores, con la coadyuvancia de la Comisión Nacional de Vigilancia del Registro Federal de Electores, determinará los procedimientos que se requieran para la operación de las causas de no inscripción a la Lista Nominal de Electores Residentes en el Extranjero.
 
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO 2-222: 28/08/2008 DE LA COMISION NACIONAL DE VIGILANCIA DEL REGISTRO FEDERAL DE ELECTORES, D.O.F. 16 DE DICIEMBRE DE 2008)</small>
+
 Artículo 10
 
-1. Los ciudadanos deberán utilizar como constancia de domicilio en el extranjero, cualquiera de los siguientes:
+Para realizar solicitudes de inscripción, cambio de domicilio, reincorporación, reemplazo de la credencial por vigencia, corrección de datos personales, corrección de datos en domicilio y reposición, los ciudadanos deberán presentar un comprobante de domicilio de entre los siguientes:
 
-a) Comprobantes de servicios prestados en el domicilio:
+1. Recibo de pago de impuesto predial
 
-1. Agua;
+2. Recibo de pago de luz
 
-2. Luz;
+3. Recibo de pago de agua
 
-3. Teléfono, y
+4. Recibo de pago del teléfono
 
-4. Televisión por cable;
+5. Copia certificada de escrituras de propiedad inmobiliaria
 
-b) Estados de cuenta expedidos por instituciones financieras y comerciales;
+6. Contrato de arrendamiento
 
-c) Comprobantes de pago de toda clase de contribuciones (derechos, impuestos, aportaciones de seguridad social, etc.);
+7. Recibo de pago de televisión de paga
 
-d) Licencias de conducir;
+8. Recibo de pago de gas
 
-e) Contrato de arrendamiento;
+9. Recibo de pago de tenencia vehicular
 
-f) Constancia de devolución de pago de contribuciones;
+10. Estados de cuenta bancarios
 
-g) Constancia o credencial de seguridad social;
-
-h) Constancias o tarjetas de residencia o identificación expedidas por autoridades competentes;
-
-i) Constancias o credenciales expedidas por centros de trabajo (contratos, recibos de pago);
-
-j) Matricula consular;
-
-k) Documentos emitidos por instituciones educativas, y
-
-l) Las que determine la Comisión Nacional de Vigilancia del Registro Federal de Electores.
+11. En caso de que no cuente con ninguno de estos documentos, podrá presentar dos testigos (que uno de ellos viva en la misma sección del ciudadano solicitante y otro en el mismo municipio o delegación, quienes deberán identificarse con su credencial para votar y presentar original o copia certificada de su acta de nacimiento)
 
 Segundo. El presente Acuerdo entrara en vigor a partir de su aprobación por parte del Consejo General.
 
 Tercero. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
 
 El presente acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 21 de septiembre de dos mil cinco.- El Consejero Presidente del Consejo General, Luis Carlos Ugalde Ramírez.- Rúbrica.- La Secretaria del Consejo General, María del Carmen Alanis Figueroa.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 16 DE DICIEMBRE DE 2008.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
