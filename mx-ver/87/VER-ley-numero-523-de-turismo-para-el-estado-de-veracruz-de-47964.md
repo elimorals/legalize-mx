@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-523-de-turismo-para-el-estado-de-veracruz-de-47964"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-13"
-last_updated: "2006-01-13"
+last_updated: "2008-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE TURISMO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 13 de enero de 2006.
 
@@ -85,23 +85,31 @@ k. La coordinación con los municipios en la aplicación de los objetivos de est
 
 ### Capítulo III. Regiones Turísticas del Estado de Veracruz
 
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
+
 Artículo 3
 
-Para la mejor atención a las necesidades y al desarrollo turístico, el Estado, se dividirá en siete regiones turísticas, las cuales se enumeran de la siguiente manera:
+Para la mejor atención a las necesidades y al desarrollo turístico, el Estado se dividirá en diez regiones turísticas, enumeradas de la siguiente manera:
 
-I. Región turística Huasteca. Que Incluirá a los municipios de Tuxpan, Pánuco, Tamiahua, Chicontepec, Castillo De Teayo, Zontecomatlán, Pueblo Viejo, Tampico Alto, El Higo, Tempoal, Temapache, Benito Juárez, Zacualpan, Huayacocotla, Ozuluama, Tantoyuca, Platón Sánchez, Chiconamel, Tamalín, Citlaltépetl, Tlachichilco, Chontla, Tantima, Ixcatepec, Cerro Azul, Chalma, Tepetzintla, Ixhuatlán de Madero, Texcatepec, Chinampa De Gorostiza, Naranjos Amatlán, Tancoco, Tihuatlán, Ilamatlán y Coahuitlán;
+I. Región Turística de la Huasteca Alta. Que incluirá a los municipios de Chalma, Chiconamel, Chinampa de Gorostiza, El Higo, Naranjos-Amatlán, Ozuluama, Pánuco, Platón Sánchez, Pueblo Viejo, Tamalín, Tamiahua, Tampico Alto, Tantima, Tantoyuca y Tempoal.
 
-II. Región turística Totonacapan, cuyos municipios integrantes serán: Nautla, Martínez de la Torre, Tlapacoyan, Tecolutla, Gutiérrez Zamora, San Rafael, Papantla de Olarte, Poza Rica de Hidalgo, Misantla, Cazones de Herrera, Vega de Alatorre, Colipa, Coatzintla, Coyutla, Mecatlán, Juchique de Ferrer, Filomeno Mata, Espinal, Coxquihui, Chumatlán y Zozocolco de Hidalgo;
+II. Región Turística de la Huasteca Baja. Que incluirá a los municipios de Álamo Temapache, Benito Juárez, Castillo de Teayo, Cerro Azul, Chicontepec, Chontla, Citlaltépetl, Hua-yacocotla, Ilamatlán, Ixcatepec, Ixhuatlán de Madero, Tancoco, Tepetzintla, Texcatepec, Tlachichilco, Tuxpan, Zacualpan y Zontecomatlán.
 
-III. Región turística Cultura y Aventura, integrada por los municipios de: Xalapa, Coatepec, Xico, Jalcomulco, Banderilla, Emiliano Zapata, Apazapan, Actopan, Naolinco, Las Vigas de Ramírez, Perote, Atzalan, Jalacingo, Las Minas, Altotonga, Tatatila, Villa Aldama, Acajete, Tlacolulan, Coacoatzintla, Tonayán, Tenochtitlan, Rafael Lucio, Ayahualulco, Ixhuacan de los Reyes, Jilotepec, Chiconquiaco, Tepetlán, Yecuatla, Teocelo, Cosautlán de Carvajal, Tlalnelhuayocan, Milhuatlán, Acatlán, Landero y Coss y Alto Lucero de Gutiérrez Barrios;
+III. Región Turística Totonaca. Que incluirá a los municipios de Cazones de Herrera, Chumatlán, Coahuitlán, Coatzintla, Coxquihui, Coyutla, Espinal, Filomeno Mata, Gutiérrez Zamora, Mecatlán, Papantla, Poza Rica de Hidalgo, Tecolutla, Tihuatlán y Zozocolco de Hidalgo.
 
-IV. Región turística Primeros Pasos de Cortés, que comprenderá: Veracruz, Boca del Río, Antigua, Úrsulo Galván, Alvarado, Tlacotalpan, Paso de Ovejas, Medellín, Jamapa, Otatitlán, Acula, Cosamaloapan, Soledad de Doblado, Manlio Fabio Altamirano, Tuxtilla, Chacaltianguis, Saltabarranca, Lerdo de Tejada, Carrillo Puerto, Cotaxtla, Tlalixcoyan, Puente Nacional, Ignacio de la Llave, Tlacojalpan, Carlos A. Carrillo, Amatitlán e Ixmatlahuacan;
+IV. Región Turística del Nautla. Que incluirá a los municipios de Atzalan, Colipa, Juchique de Ferrer, Martínez de la Torre, Misantla, Nautla, San Rafael, Tenochtitlán, Tlapacoyan, Vega de Alatorre y Yecuatla.
 
-V. Región turística Altas Montañas, compuesta por los municipios de Orizaba, Fortín de las Flores, Coscomatepec, Huatusco, Córdoba, Yanga, Zongolica, Río Blanco, Tlaltetela, Tierra Blanca, Tezonapa, Tlilapan, Ixhuatlancillo, Omealca, Amatlán de los Reyes, Tres Valles, Cuichapa, Cuitláhuac, Tlaquilpan, Ixtaczoquitlán, Xoxocotla, Tenampa, Totutla, Sochiapa, Tlacotepec de Mejía, Comapa, Aquila, Maltrata, Acultzingo, Soledad Atzompa, Mixtla de Altamirano, Tehuipango, Astancinga, Zentla, Tepatlaxco, Ixhuatlán del Café, Tomatlán, Chocamán, Alpatláhuac, Atlahuilco, Camerino Z. Mendoza, Huilopan de Cuauhtemoc, Calcahualco, La Perla, Atzacan, Mariano Escobedo, Atoyac, Magdalena, Tequila, Los Reyes, San Andrés Tenejapan, Texhuacan, Coetzala, Naranjal, Nogales, Paso del Macho, Camarón de Tejeda y Rafael Delgado;
+V. Región Turística de la Capital; denominada Cultura y Aventura, incluirá a los municipios de Acajete, Acatlán, Actopan, Alto Lucero de Gutiérrez Barrios, Altotonga, Apazapan, Ayahualulco, Banderilla, Chiconquiaco, Coacoatzintla, Coatepec, Cosautlán de Carvajal, Emiliano Zapata, Ixhuacán de los Reyes, Jalacingo, Jalcomulco, Jilotepec, Landero y Coss, Las Minas, Las Vigas de Ramírez, Miahuatlán, Naolinco, Perote, Rafael Lucio, Tatatila, Teocelo, Tepetlán, Tlacolulan, Tlalnelhuayocan, Tonayán, Villa Aldama, Xalapa y Xico.
 
-VI. Región turística de Los Tuxtlas, que contempla los municipios de: Catemaco, Santiago Tuxtla, San Andrés Tuxtla, Ángel R. Cabada, José Azueta, Isla, Playa Vicente, Juan Rodríguez Clara, Santiago Sochiapan y Hueyapan de Ocampo; y
+VI. Región Turística de las Montañas; denominada Altas Montañas, incluirá a los municipios de Acultzingo, Alpatláhuac, Amatlán de los Reyes, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Calcahualco, Camarón de Tejeda, Camerino Z. Mendoza, Carrillo Puerto, Chocamán, Coetzala, Comapa, Córdoba, Coscomatepec, Cuichapa, Cuitláhuac, Fortín, Huatusco, Huiloapan de Cuauhtémoc, Ixhuatlán del Café, Ixhuatlancillo, Ixtaczoquitlán, La Perla, Los Reyes, Magdalena, Maltrata, Mariano Escobedo, Mixtla de Altamirano, Naranjal, Nogales, Omealca, Orizaba, Paso del Macho, Rafael Delgado, Río Blanco, San Andrés Tenejapan, Sochiapa, Soledad Atzompa, Tehuipango, Tenampa, Tepatlaxco, Tequila, Texhuacán, Tezonapa, Tlacotepec de Mejía, Tlaltetela, Tlaquilpa, Tlilapan, Tomatlán, Totutla, Xoxocotla, Yanga, Zentla y Zongolica.
 
-VII. Región turística Olmeca, integrada por Acayucan, Minatitlán, Coatzacoalcos, Las Choapas, Oluta, Agua Dulce, Mecayapan, Soconusco, Sayula de Alemán, Tatahuicapan de Juárez, Soteapan, San Juan Evangelista, Hidalgotitlán, Moloacán, Jesús Carranza, Uxpanapa, Pajapan, Ixhuatlán del Sureste, Nanchital, Cosoleacaque, Chinameca, Texistepec, Jáltipan, Zaragoza y Oteapan.
+VII. Región Turística Sotavento; denominada Primeros Pasos de Cortés, incluirá a los municipios de Boca del Río, Cotaxtla, Jamapa, La Antigua, Manlio Fabio Altamirano, Medellín, Paso de Ovejas, Puente Nacional, Soledad de Doblado, Tlalixcoyan, Úrsulo Galván y Veracruz.
+
+VIII. Región Turística Papaloapan. Que incluirá a los municipios de Acula, Alvarado, Amatitlán, Ángel R. Cabada, Carlos A. Carrillo, Chacaltianguis, Cosamaloapan, Ignacio de la Llave, Isla, Ixmatlahuacan, José Azueta, Juan Rodríguez Clara, Lerdo de Tejada, Otatitlán, Playa Vicente, Saltabarranca, Santiago Sochiapan, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tres Valles y Tuxtilla.
+
+IX. Región Turística de Los Tuxtlas. Que incluirá a los municipios de Catemaco, Hueyapan de Ocampo, San Andrés Tuxtla y Santiago Tuxtla.
+
+X. Región Turística Olmeca. Que incluirá a los municipios de Acayucan, Agua Dulce, Chinameca, Coatzacoalcos, Cosoleacaque, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipam, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
 
 Artículo 4
 
@@ -738,3 +746,11 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 16 DE DICIEMBRE DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
