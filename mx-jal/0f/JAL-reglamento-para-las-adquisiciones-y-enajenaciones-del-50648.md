@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-las-adquisiciones-y-enajenaciones-del-50648"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-18"
-last_updated: "2006-05-18"
+last_updated: "2008-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 REGLAMENTO PARA LAS ADQUISICIONES Y ENAJENACIONES DEL INSTITUTO ELECTORAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO PARA LAS ADQUISICIONES Y ENAJENACIONES DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 16 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 18 de mayo de 2006.
 
@@ -530,3 +532,11 @@ Rubrica
 Lic. Manuel Ríos Gutiérrez
 
 Secretario Ejecutivo.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE DICIEMBRE DE 2008.
+
+PRIMERO: Se abroga el Reglamento de Adquisiciones y Enajenaciones del Instituto Electoral del Estado de Jalisco.
+
+SEGUNDO: El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
