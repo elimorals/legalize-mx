@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-administracion-publica-7551"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-12-26"
-last_updated: "2007-12-10"
+last_updated: "2008-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "QUE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 17 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 26 de diciembre de 1991.
-
-LEY ORGANICA DE LA ADMINISTRACIÓN PUBLICA
 
 LIC. ENRIQUE BURGOS GARCIA, Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a los habitantes del mismo, sabed que:
 
@@ -1038,3 +1038,13 @@ Se derogan todas aquellas disposiciones que se opongan a la presente ley.
 ###### ARTÍCULO SEXTO.
 
 Publíquese esta ley en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 17 DE DICIEMBRE DE 2008.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley Orgánica de la Administración Pública publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 58, de fecha 26 de diciembre de 1991.
+
+Artículo Tercero. El Poder Ejecutivo del Estado emitirá las normas reglamentarias de la presente Ley, que resulten necesarias para su aplicación.
+
+Artículo Cuarto. La entrada en vigor de la presente Ley, no afectará la conformación y funcionamiento de los órganos y dependencias del Poder Ejecutivo, continuando con los mismos titulares, personal adscrito y presupuesto asignado para el cumplimiento de sus facultades y obligaciones en términos de esta Ley.
