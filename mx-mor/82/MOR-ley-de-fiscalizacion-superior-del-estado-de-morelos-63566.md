@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fiscalizacion-superior-del-estado-de-morelos-63566"
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-01"
-last_updated: "2008-10-01"
+last_updated: "2008-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 1 de octubre de 2008.
 
@@ -49,7 +49,9 @@ a) Establecer las bases para la organización y el funcionamiento de la Auditor�
 
 b) Regular el proceso de control, evaluación, revisión y auditoria de la actividad financiera y en general de las cuentas públicas de los poderes del estado, de los municipios, del sector para estatal y paramunicipal que los integra, así como de los órganos autónomos y sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas del gobierno del estado y municipios;
 
-c) Determinar la responsabilidad administrativa y sanciones que correspondan por violaciones a los deberes que les imponga esta Ley, la Ley Estatal de Responsabilidades de los Servidores Públicos y los demás ordenamientos que regulen su actuar;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+c) Determinar la responsabilidad administrativa y sanciones que correspondan por violaciones a los deberes que les imponga esta Ley y su Reglamento, la Ley Estatal de Responsabilidades de los Servidores Públicos y los demás ordenamientos que regulen su actuar.
 
 d) Fiscalizar el destino del gasto público que reciban administren o ejerzan, las personas físicas o morales de derecho privado. No se considerarán sujetos de revisión particular aquellas que obtengan recursos que se destinen como remuneraciones personales.
 
@@ -59,7 +61,7 @@ Para efectos de la presente Ley, se entenderá por:
 
 I. Auditor Superior.- El Auditor Superior de Fiscalización;
 
-II. Auditoria Superior.- La Auditoria Superior de Fiscalización;
+II. Auditoria Superior.- La Auditoría Superior de Fiscalización;
 
 III. Cuenta pública.- Es el documento que presentan al Congreso del Estado, los órganos estatales, los municipales, y los órganos autónomos, rinden al Congreso sobre su gestión financiera, a efecto de comprobar que la recaudación, administración, manejo, custodia y aplicación de los ingresos obtenidos y los egresos, en el ejercicio fiscal comprendido del 1º de enero al 31 de diciembre de cada año, se ajustan a las disposiciones legales, administrativas, criterios y programas aplicables;
 
@@ -67,47 +69,51 @@ IV. Comisión.- La Comisión de Hacienda, Presupuesto y Cuenta Pública del Cong
 
 V. Comisión calificadora.- La Comisión integrada por los coordinadores de los grupos parlamentarios;
 
-VI. Congreso.- El Congreso del Estado de Morelos;
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
-VII. Constitución del Estado.- A la Constitución Política del Estado Libre y Soberano de Morelos;
+VI. Comité de Solventación: El Órgano colegiado y auxiliar de la Auditoría Superior encargado de realizar el análisis final de las observaciones derivadas del proceso de fiscalización de la cuenta pública con el objeto de integrar los dictámenes y el informe de resultados, cuya integración y atribuciones serán contempladas en el reglamento de esta Ley;
 
-VIII. Entidades fiscalizadas.- Los órganos estatales, municipales, autónomos, y las personas físicas o morales del sector público o privado, así como los servidores públicos que por cualquier naturaleza o concepto reciban, administren y/o ejerzan recursos públicos;
+VII. Congreso.- El Congreso del Estado de Morelos;
 
-IX. Evaluación.- Los actos realizados por la Auditoria Superior, relativos a las actividades de fiscalización en proceso sobre la cuenta pública por períodos trimestrales del ejercicio fiscal de que se trate;
+VIII. Constitución del Estado.- A la Constitución Política del Estado Libre y Soberano de Morelos.
 
-X. Fiscalización.- Proceso de control, evaluación, revisión y auditoria de la gestión financiera de las entidades fiscalizadas desde su inicio hasta su conclusión;
+IX. Entidades fiscalizadas.- Los órganos estatales, municipales, autónomos, y las personas físicas o morales del sector público o privado, así como los servidores públicos que por cualquier naturaleza o concepto reciban, administren y/o ejerzan recursos públicos;
 
-XI. Gestión financiera.- La actividad de las entidades fiscalizadas respecto de la recepción, administración, custodia, manejo y aplicación de los ingresos, egresos, fondos y en general, de los recursos públicos que éstos utilicen;
+X. Evaluación.- Los actos realizados por la Auditoría Superior, relativos a las actividades de fiscalización en proceso sobre la cuenta pública por períodos trimestrales del ejercicio fiscal de que se trate;
 
-XII. Informe de resultados.- Documento que presenta el Auditor Superior a la Mesa Directiva del Congreso y que contiene los resultados de fiscalización;
+XI. Fiscalización.- Proceso de control, evaluación, revisión y auditoría de la gestión financiera de las entidades fiscalizadas desde su inicio hasta su conclusión;
 
-XIII. Informes especiales.- Aquellos que en cualquier momento solicite el Congreso, a través de la Comisión a la Auditoria Superior;
+XII. Gestión financiera.- La actividad de las entidades fiscalizadas respecto de la recepción, administración, custodia, manejo y aplicación de los ingresos, egresos, fondos y en general, de los recursos públicos que éstos utilicen;
 
-XIV. Ley.- Ley de Fiscalización Superior del Estado de Morelos;
+XIII. Informe de resultados.- Documento que presenta el Auditor Superior a la Mesa Directiva del Congreso y que contiene los resultados de fiscalización;
 
-XV. Municipios.- Los municipios que integran el Estado de Morelos, cuyo gobierno es a cargo de sus respectivos ayuntamientos;
+XIV. Informes especiales.- Aquellos que en cualquier momento solicite el Congreso, a través de la Comisión a la Auditoría Superior;
 
-XVI. Órganos estatales.- Las dependencias y entidades de los poderes del estado que integran la administración pública estatal;
+XV. Ley.- Ley de Fiscalización Superior del Estado de Morelos;
 
-XVII. Órganos municipales.- Las dependencias y entidades que integran la administración pública municipal;
+XVI. Municipios.- Los municipios que integran el Estado de Morelos, cuyo gobierno es a cargo de sus respectivos ayuntamientos;
 
-XVIII. Órganos autónomos.- Todos aquellos que la Constitución del Estado reconoce como tales;
+XVII. Órganos estatales.- Las dependencias y entidades de los poderes del estado que integran la administración pública estatal;
 
-XIX. Poderes del estado.- Los Poderes Legislativo, Ejecutivo y Judicial;
+XVIII. Órganos municipales.- Las dependencias y entidades que integran la administración pública municipal;
 
-XX. Proceso concluido.- Aquel que las entidades fiscalizadas reportan como tal en el informe de avance de gestión financiera;
+XIX. Órganos autónomos.- Todos aquellos que la Constitución del Estado reconoce como tales;
 
-XXI. Programas.- Los contenidos en los programas operativos anuales y que incluyen los presupuestos aprobados a los que se sujeta la gestión o actividad de las entidades fiscalizadas;
+XX. Poderes del estado.- Los Poderes Legislativo, Ejecutivo y Judicial;
 
-XXII. Reglamento Interior.- El Reglamento Interior de la Auditoría Superior de Fiscalización;
+XXI. Proceso concluido.- Aquel que las entidades fiscalizadas reportan como tal en el informe de avance de gestión financiera;
 
-XXIII. Resultado final: Resolución que pone fin al proceso de fiscalización de la cuenta pública, tanto para el Congreso, la Auditoría Superior y la entidad fiscalizada;
+XXII. Programas.- Los contenidos en los programas operativos anuales y que incluyen los presupuestos aprobados a los que se sujeta la gestión o actividad de las entidades fiscalizadas;
 
-XXIV. Sector privado.- Todas las personas físicas o morales de derecho privado;
+XXIII. Reglamento Interior.- El Reglamento Interior de la Auditoría Superior de Fiscalización;
 
-XXV. Servidores públicos.- Los que se consideran como tales en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos; la legislación laboral estatal y la Ley Estatal de Responsabilidades de los Servidores Públicos.
+XXIV. Resultado final: Resolución que pone fin al proceso de fiscalización de la cuenta pública, tanto para el Congreso, la Auditoría Superior y la entidad fiscalizada;
 
-XXVI. Unidad de Evaluación y Control.- Órgano dependiente del Congreso del Estado, responsable de la vigilancia y control de la Auditoria Superior.
+XXV. Sector privado.- Todas las personas físicas o morales de derecho privado;
+
+XXVI. Servidores públicos.- Los que se consideran como tales en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos; la legislación laboral estatal y la Ley Estatal de Responsabilidades de los Servidores Públicos;
+
+XXVII. Unidad de Evaluación y Control.- Órgano dependiente del Congreso del Estado, responsable de la vigilancia y control de la Auditoria Superior.
 
 ###### Artículo 3.
 
@@ -117,9 +123,11 @@ la fiscalización que realice la Auditoria Superior, será sobre las cuentas pú
 
 ### CAPÍTULO I. DE LA ORGANIZACIÓN
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 4.
 
-La Auditoría Superior del Congreso del Estado es el órgano técnico de fiscalización, control y evaluación, con autonomía técnica y de gestión en el ejercicio de sus atribuciones y de decisión sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley y estará a cargo del Auditor Superior.
+La Auditoría Superior del Congreso del Estado es el órgano técnico de fiscalización, control y evaluación, con autonomía técnica y de gestión en el ejercicio de sus atribuciones y de decisión sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley y su Reglamento y estará a cargo del Auditor Superior.
 
 ###### Artículo 5.
 
@@ -137,9 +145,11 @@ Los servidores públicos de la Auditoría Superior, cualquiera que sea su catego
 
 La Auditoría Superior, será responsable solidaria de los daños y perjuicios que en términos de este artículo, causen los servidores públicos y profesionales contratados para la práctica de auditorías cuando actúen ilícitamente.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 8.
 
-El personal que realice funciones de dirección general o equivalente será designado y removido por la Junta Política y de Gobierno de entre las propuestas de la Comisión, de acuerdo con los requisitos establecidos en el Reglamento Interior.
+El personal que realice funciones de dirección general o equivalente durará en el cargo cuatro años, será designado y removido en su caso, por la Junta Política y de Gobierno, de entre las propuestas de la Comisión, de acuerdo con los requisitos establecidos en el Reglamento Interior.
 
 ###### Artículo 9.
 
@@ -179,7 +189,9 @@ XII. Requerir, en su caso, a los prestadores de servicios profesionales que cont
 
 XIII. Elaborar los pliegos de observaciones por actos u omisiones que representen probables irregularidad (sic) en la cuenta pública;
 
-XIV. Determinar los daños y perjuicios que afecten a la hacienda pública o al patrimonio de las entidades fiscalizadas y proceder en los términos establecidos en esta Ley, la Ley Estatal de Responsabilidades de los Servidores Públicos y demás ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+XIV. Determinar los daños y perjuicios que afecten a la hacienda pública o al patrimonio de las entidades fiscalizadas y proceder en los términos establecidos en esta Ley y su Reglamento, la Ley Estatal de Responsabilidades de los Servidores Públicos y demás ordenamientos aplicables;
 
 XV. Conocer y realizar las investigaciones sobre las quejas o denuncias en contra de los servidores públicos y determinar las responsabilidades administrativas en que incurran, de conformidad con la Ley Estatal de Responsabilidades de los Servidores Públicos y demás ordenamientos aplicables;
 
@@ -197,9 +209,15 @@ XXI. Conocer de la situación patrimonial y de las responsabilidades de los serv
 
 XXII. Elaborar y publicar un padrón de auditores externos autorizados en términos del Reglamento Interior, para realizar las tareas de auditoría externa a las entidades fiscalizadas a que se refiere la presente Ley;
 
-XXIII. Examinar el cumplimiento final de los objetivos y metas fijados en los programas estatales y municipales, a efecto de verificar la legalidad en el uso de los recursos públicos; y
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
-XXIV. Las demás que expresamente señalen la Constitución del Estado, la Ley, los decretos y los acuerdos del Congreso.
+XXIII. Conocer y resolver del recurso de reconsideración;
+
+XXIV. Examinar el cumplimiento final de los objetivos y metas fijados en los programas estatales y municipales, a efecto de verificar la legalidad en el uso de los recursos públicos; y
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+XXV. Las demás que expresamente señalen la Constitución del Estado, la Ley y, su Reglamento, los decretos y los acuerdos del Congreso.
 
 ###### Artículo 11.
 
@@ -241,9 +259,11 @@ V. No ser ministro de culto religioso.
 
 El Auditor Superior será suplido en sus ausencias temporales conforme a lo dispuesto en el Reglamento Interior. En caso de falta definitiva la Junta Política y de Gobierno dará cuenta al Congreso para que designe, en términos de este capítulo, al Auditor Superior que concluirá el encargo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 16.
 
-El Auditor Superior tendrá las siguientes obligaciones:
+El Auditor Superior tendrá las siguientes atribuciones:
 
 I. Representar a la Auditoría Superior ante las entidades fiscalizadas; autoridades federales y locales, entidades federativas, municipios y demás personas físicas o morales;
 
@@ -287,9 +307,15 @@ XX. Proponer al Congreso a través de la Comisión, el Reglamento Interior;
 
 XXI. Elaborar y entregar, por conducto de la Comisión, el informe de resultados de la revisión de la cuenta pública;
 
-XXII. Hacer del conocimiento de las autoridades competentes sobre el cobro de las multas y sanciones que se impongan en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos y esta Ley; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
-XXIII.- Las demás que le señale la Constitución del Estado, esta Ley, le confiera el Congreso y demás disposiciones legales aplicables.
+XXII. Hacer del conocimiento de las autoridades competentes sobre el cobro de las multas y sanciones que se impongan en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos y esta Ley y su Reglamento; y
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+XXIII. Las demás que le señale la Constitución del Estado, esta Ley, su Reglamento y las que le confiera el Congreso y demás disposiciones legales aplicables.
+
+Serán indelegables las facultades y atribuciones previstas en las fracciones de la XII a la XVII y de la XIX a la XXI.
 
 Serán obligaciones indelegables las previstas por las fracciones XI a XXII.
 
@@ -299,7 +325,9 @@ El Congreso podrá remover al Auditor Superior por las causas que se previenen e
 
 I. Incumplir la obligación de determinar las sanciones en el ámbito de su competencia y en los casos que establece este ordenamiento legal, cuando esté debidamente comprobada la responsabilidad e identificado al responsable como consecuencia de las revisiones e investigaciones que en el ejercicio de sus atribuciones realicen;
 
-II. Aceptar cualquier injerencia en el ejercicio de sus funciones y de esta circunstancia, conducirse con parcialidad en el proceso de fiscalización de la cuenta pública, así como en la aplicación de las disposiciones de esta Ley;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+II. Aceptar cualquier injerencia en el ejercicio de sus funciones y de esta circunstancia, conducirse con parcialidad en el proceso de fiscalización de la cuenta pública, así como en la aplicación de las disposiciones de esta Ley y su Reglamento;
 
 III. Abandonar y desatender reiteradamente sus obligaciones; y
 
@@ -397,9 +425,11 @@ Las cuentas públicas se integrarán, por lo señalado en la Ley de
 
 Presupuesto, Contabilidad y Gasto Público del Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 28.
 
-Las entidades fiscalizadas deberán presentar su cuenta pública al Congreso por trimestres, a más tardar el último día hábil del mes siguiente.
+Las entidades fiscalizadas deberán presentar su cuenta pública al Congreso por trimestres, a más tardar el último día hábil del mes siguiente. Asimismo, presentarán a más tardar el último día hábil del mes de enero de cada año, la cuenta pública anual correspondiente al ejercicio anterior.
 
 ###### Artículo 29.
 
@@ -413,15 +443,15 @@ A solicitud de la Auditoría Superior, las entidades fiscalizadas le informarán
 
 La falta de cumplimiento en la exhibición de la información requerida sin que exista una justificación, dará lugar a las sanciones que establece la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 32.
 
 En caso de que no se presenten las cuentas públicas trimestrales y/o anuales, en los plazos previstos en los artículos anteriores y no medie autorización de prórroga, la Auditoría Superior impondrá a los servidores públicos responsables, las siguientes sanciones:
 
-I. Cuenta pública mensual: Quinientos días de salario mínimo general vigente en el estado;
+I. Cuenta pública trimestral.- De 500 a 1000 días de salario mínimo general vigente en el Estado; y
 
-II. Cuenta pública trimestral: Mil días de salario mínimo general vigente en el estado; y
-
-III. Cuenta pública anual: Mil quinientos días de salario mínimo general vigente en el estado.
+II. Cuenta pública anual: de 1000 a 1500 días de salario mínimo general vigente en el Estado.
 
 En los casos antes señalados, se apercibirá a los servidores públicos responsables para que presenten la cuenta pública y en caso de que no la presenten, en un último término de diez días hábiles, contados a partir de que sean notificados, se procederá conforme a lo dispuesto en la Ley de (sic) Estatal de Responsabilidades de los Servidores Públicos, y en su caso, se les aplicará la sanción que corresponda, debiendo informar al Congreso de éstas acciones.
 
@@ -449,13 +479,17 @@ III. En el proceso de fiscalización mediarán acciones integrales y sistematiza
 
 IV. Las observaciones que se generen durante el proceso de fiscalización, se darán a conocer a la entidad fiscalizada, para que sean atendidas durante el mismo proceso y hasta antes de concluir el informe de resultados, en cualquier caso se procurará agotar las acciones de fiscalización que sean necesarias para que se atiendan o corrijan los defectos de la información sobre el uso de los recursos públicos;
 
-V. El proceso de fiscalización tendrá un plazo máximo de duración de quince meses. El incumplimiento del plazo señalado, tendrá como consecuencia una responsabilidad administrativa, sin perjuicio de que se concluya el procedimiento de fiscalización;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+V. El proceso de fiscalización tendrá un plazo máximo de duración de quince meses, salvo que por resolución jurisdiccional se ordene su reposición, en cuyo caso se deberá concluir dentro de los seis meses posteriores a la notificación de la reposición respectiva. Este último plazo podrá ser prorrogado por seis meses más y por una única ocasión. El incumplimiento a lo dispuesto por esta fracción, tendrá como consecuencia una responsabilidad administrativa, sin perjuicio de que se concluya el procedimiento de fiscalización;
 
 VI. El proceso de fiscalización deberá documentarse en su totalidad;
 
 VII. La Auditoría Superior formulará un informe de resultados, en los plazos previstos por esta ley para los efectos conducentes; y
 
-VIII. Las recomendaciones que resulten del proceso de fiscalización tendrán el seguimiento y la verificación por parte de la Auditoría Superior, en los términos de esta la ley.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+VIII. Las recomendaciones que resulten del proceso de fiscalización tendrán el seguimiento y la verificación por parte de la Auditoría Superior, en los términos de esta Ley y su Reglamento.
 
 ###### Artículo 36.
 
@@ -471,7 +505,9 @@ IV. Si las entidades fiscalizadas se han apegado a la legalidad en cuanto a la r
 
 V. Las responsabilidades a que haya lugar; y
 
-VI. La imposición de las sanciones que correspondan en los términos de esta Ley, la Ley Estatal de Responsabilidades de los Servidores Públicos y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+VI. La imposición de las sanciones que correspondan en los términos de esta Ley y su Reglamento, la Ley Estatal de Responsabilidades de los Servidores Públicos y demás disposiciones aplicables.
 
 ### CAPÍTULO III. DE LA PRESENTACIÓN Y REVISIÓN DE LAS CUENTAS PÚBLICAS
 
@@ -551,7 +587,11 @@ e) En los casos que corresponda, la notificación al titular o al representante 
 
 f) El nombre y firma autógrafa del Auditor Superior.
 
-XXI La expedición de la resolución, no exime de las responsabilidades administrativas, penales o civiles a que hubiere lugar con motivo de los actos u omisiones diversas al proceso de revisión y fiscalización.
+XXI La expedición de la resolución, no exime de las responsabilidades administrativas, penales o civiles a que hubiere lugar con motivo de los actos u omisiones diversas al proceso de revisión y fiscalización;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+XXII. La Auditoría Superior procederá en su caso, en términos del Título X de esta Ley.
 
 ###### Artículo 39.
 
@@ -595,9 +635,11 @@ Los procedimientos comprenderán, además, la comprobación de la aplicación ad
 
 ### CAPÍTULO ÚNICO. DEL INFORME DE RESULTADOS
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 46.
 
-La auditoría Superior, a través de la Comisión, presentará al Congreso el informe de resultados de la cuenta pública de las entidades fiscalizadas en el plazo establecido en el artículo 41 fracción XIII de esta ley, el cual será de carácter público.
+La Auditoría Superior, a través de la Comisión, presentará al Congreso el informe de resultados de la cuenta pública de las entidades fiscalizadas en el plazo establecido en el artículo 38 fracción XIII de esta Ley, el cual será de carácter público.
 
 ###### Artículo 47.
 
@@ -663,9 +705,11 @@ El fincamiento de responsabilidades y la imposición de sanciones no relevan al 
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 53.
 
-El informe de resultados derivado del proceso de fiscalización que emita la Auditoría Superior de Fiscalización podrá ser impugnado por la entidad fiscalizada, en un plazo de diez días hábiles, contados a partir del día siguiente al de la notificación del mismo.
+Contra el informe de resultados derivado del proceso de fiscalización que emita la Auditoría Superior de Fiscalización, procederá el Recurso de Reconsideración, mismo que deberá ser promovido por la entidad fiscalizada, dentro del plazo de diez días hábiles, contados a partir del día siguiente al de la notificación del mismo.
 
 ###### Artículo 54.
 
@@ -691,9 +735,13 @@ II. Si no se cumplieren los requisitos previstos en la fracción anterior, el Au
 
 III. Cumplidos los requisitos previstos en la fracción I de este artículo, el Auditor Superior acordará sobre la admisión del recurso y de las pruebas ofrecidas, desechando de plano las que no fuesen idóneas para desvirtuar los hechos en que se base el informe impugnado;
 
-IV. Desahogadas las pruebas, si las hubiere, el Auditor Superior emitirá resolución en un plazo que no excederá de veinte días hábiles contados a partir de la fecha de su admisión;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
-V. La resolución deberá ser notificada a la entidad fiscalizada dentro de las cuarenta y ocho horas siguientes, a la fecha de emisión de la resolución.
+IV. Desahogadas las pruebas, si las hubiere, el Auditor Superior emitirá resolución en un plazo que no excederá de veinte días hábiles contados a partir de la fecha de su admisión. Concluido dicho plazo sin que se emita la resolución al recurso, se entenderá que el Informe de Resultados ha sido confirmado;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+V. En su caso, la resolución deberá ser notificada a la entidad fiscalizada dentro de las cuarenta y ocho horas siguientes, a la fecha de emisión de la resolución.
 
 ###### Artículo 55.
 
@@ -717,9 +765,11 @@ IV.- Falte el objeto o materia del informe impugnado, o
 
 V.- No se probare la existencia del informe impugnado.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 57.
 
-La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios y las pruebas hechos (sic) valer por el recurrente, teniendo el Auditor superior la facultad de invocar hechos notorios.
+La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo el Auditor Superior la facultad de invocar hechos notorios. Asimismo valorará todas y cada una de las pruebas admitidas.
 
 ###### Artículo 58.
 
@@ -731,9 +781,15 @@ II.- Confirmar el informe de resultados combatido; y
 
 III.- Revocar el informe de resultados impugnado.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+En caso de que la resolución al recurso modifique o revoque el Informe de Resultados, éste no podrá volver a ser sujeto de impugnación.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 59.
 
-El promovente en todo momento durante el procedimiento a que se refiere este Título, podrá consultar los expedientes administrativos donde consten los hechos que se les imputen y obtener copias certificadas de los documentos correspondientes.
+El promovente y sus autorizados podrán, durante el procedimiento a que se refiere este Título, consultar los expedientes administrativos donde consten los hechos que se les imputen y obtener copias certificadas de los documentos correspondientes, previo el pago de los derechos correspondientes.
 
 ## TÍTULO DÉCIMO. DEL PROCEDIMIENTO PARA El FINCAMIENTO DE RESPONSABILIDADES RESARCITORIAS, MULTAS Y SANCIONES
 
@@ -779,7 +835,9 @@ La Secretaría de Finanzas y Planeación y las tesorerías municipales en el ám
 
 La recuperación que se obtenga como resultado del fincamiento de responsabilidades resarcitorias, será depositada por los responsables en la Tesorería General del Estado, dependiente de la Secretaría de Finanzas y Planeación; el importe de los depósitos, deberá ser entregada por la depositaria a las respectivas áreas administrativas de los Poderes del Estado, tesorerías municipales y entes públicos estatales, municipales y autónomos, y demás entidades que sufrieron el daño o perjuicio respectivo, mediante liquidaciones periódicas. Dicho importe quedará en las áreas administrativas de las dependencias estatales o tesorerías y sólo podrá ser ejercido de conformidad con lo establecido en el presupuesto de egresos autorizado.
 
-El importe líquido de las multas que en ejercicio de sus atribuciones imponga el Auditor Superior, será depositado por los responsables, en la Tesorería General del Estado, dependiente de la Secretaría de Finanzas y Planeación; su importe será entregado a la Auditoría Superior por la depositaria, integrando el Fondo para el Fortalecimiento de la Fiscalización Superior, el cual se ejercerá, para el equipamiento, y la capacitación del personal de la misma.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+El importe líquido de las multas que en ejercicio de sus atribuciones imponga la Auditoria Superior, será depositado por los responsables, en la Tesorería General del Estado, dependiente de la Secretaría de Finanzas y Planeación; su importe será entregado a la Auditoría Superior por la depositaria, integrando el Fondo para el Fortalecimiento de la Fiscalización Superior, el cual se ejercerá, para el equipamiento, y la capacitación del personal de la misma.
 
 ###### Artículo 65.
 
@@ -793,9 +851,25 @@ La apertura de la cuenta del Fondo para el Fortalecimiento de la Fiscalización 
 
 La imposición de sanciones deberá fundarse y motivarse, tomando en cuenta las condiciones económicas del infractor, la gravedad de la infracción cometida, los medios de ejecución y, en su caso, su nivel jerárquico, ajustándose a fin de evitar prácticas tendientes a contravenir las disposiciones contenidas en esta ley.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 17 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 68.
 
-El Auditor Superior, bajo su más estricta responsabilidad, podrá abstenerse de sancionar al infractor, por sólo una vez, justificando plenamente las causas de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por el mismo no exceda de cien veces el salario mínimo general mensual vigente en el Estado en la fecha en que se cometa la infracción. En este caso deberá informar a la Comisión.
+A falta de disposición expresa y en cuanto no se oponga a lo que prevé este ordenamiento, se estará a lo dispuesto por el Código Procesal Civil para el Estado Libre y Soberano de Morelos.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 69.
+
+Las facultades de la Auditoria Superior para fincar responsabilidades e imponer las sanciones a que se refiere esta Ley prescribirán en cinco años.
+
+El plazo de prescripción se contará a partir del día siguiente a aquél en que se hubiere incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter continuo.
+
+En todos los casos, la prescripción a que alude este precepto se interrumpirá al notificarse el inicio del procedimiento establecido en la Ley.
+
+Cualquier gestión de cobro que haga la autoridad competente al responsable, o trámite que realice la Auditoría Superior, interrumpe la prescripción de la sanción impuesta, prescripción que, en su caso, comenzará a computarse a partir de dicha gestión.
+
+Las responsabilidades de carácter civil y penal que resulten por actos u omisiones, prescribirán en la forma y tiempo que fijen las leyes aplicables.
 
 ## TRANSITORIOS
 
@@ -812,6 +886,10 @@ CUARTO.- Conforme al segundo párrafo del artículo octavo transitorio de la ref
 QUINTO.- Los recursos humanos, materiales y presupuestales con que actualmente cuenta la Auditoría Superior Gubernamental, pasarán a formar parte de la Auditoría Superior de Fiscalización. Los trabajadores tendrán derecho a la indemnización de tres meses de salario, en caso de no utilizarse sus servicios en el nuevo órgano, de lo cual el Auditor Superior informará al Congreso oportunamente.
 
 SEXTO.- En un término máximo de sesenta días hábiles siguientes al inicio de vigencia de la presente, la Auditoría Superior deberá presentar al Congreso para su aprobación, el Reglamento Interior que regule el funcionamiento y atribuciones del mismo, mientras tanto, ejercerá sus atribuciones y competencias conforme a lo dispuesto por la Constitución, esta Ley y los ordenamientos vigentes en lo que no se contravengan, hasta la expedición del Reglamento.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+SÉPTIMO.- Los asuntos surgidos durante la vigencia de la Ley de Auditoría Superior Gubernamental y su Reglamento Interior, así como la revisión de las cuentas públicas correspondientes al ejercicio fiscal del año 2007, continuarán tramitándose por la Auditoría Superior de Fiscalización, en los términos de los referidos ordenamientos hasta su conclusión.
 
 Recinto Legislativo a los veinticinco días del mes de septiembre de dos mil ocho.
 
@@ -854,3 +932,15 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Tierra y Libertad", Órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase a Ejecutivo del Estado para los efectos constitucionales correspondientes.
