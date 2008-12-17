@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-ejecutivo-del-estado-de-tabasco-24410"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-03-22"
-last_updated: "2007-11-21"
+last_updated: "2008-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el viernes 22 de marzo de 2002.
 
@@ -419,7 +419,9 @@ II. Promover las relaciones de equidad entre los diversos sectores de la socieda
 
 III. Procurar la adecuada colaboración con las Comisiones Estatal y Nacional de Derechos Humanos;
 
-IV. Cuando así proceda y, en los términos de las disposiciones aplicables, podrá participar en la formulación y conducción de las políticas relativas a: desarrollo político, trabajo y previsión social y tránsito del Estado, así como velar la fiel observancia de las disposiciones legales;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+IV. Cuando así proceda y, en los términos de las disposiciones aplicables, podrá participar en la formulación y conducción de las políticas relativas a: desarrollo político, trabajo y previsión social, así como velar la fiel observancia de las disposiciones legales;
 
 V. Proponer al Ejecutivo en coordinación con el Titular de la Dependencia del ramo y el Titular de la Consejería Jurídica, la disolución de los órganos públicos descentralizados o desconcentrados, en razón de haber cumplido su cometido o derivado de la incorporación de sus funciones o atribuciones a otras instancias del Gobierno del Estado; al efecto, la Secretaría de Gobierno deberá coordinarse con las Secretarías de Administración y Finanzas, Contraloría y Planeación, para atender y resolver los asuntos relacionados con recursos humanos, financieros, presupuestales y materiales, así como el patrimonio público que en su caso, se les hubiere asignado para el desarrollo de sus objetivos.
 
@@ -453,13 +455,11 @@ XVIII. Vigilar que se cumplan las normas existentes en materia de seguridad e hi
 
 XIX. Otorgar, revisar, cancelar, revocar, modificar, prorrogar y revalidar las concesiones para la prestación de cualquier modalidad del servicio público de transporte en vías de jurisdicción local, así como declarar en términos de ley su caducidad, y en cualquier momento, ejercer el derecho de reversión de las concesiones;
 
-XX. Organizar, promover, realizar y evaluar, con la participación de las autoridades y sectores involucrados, campañas preventivas de información o colaboración, respecto de los rubros de tránsito y vialidad en el Estado, considerando sus implicaciones en la contaminación del ambiente;
+XX. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2008)
 
-XXI. En coordinación con los Municipios y, de acuerdo con los convenios en la materia, la vigilancia del tránsito en las carreteras, caminos y vialidades de jurisdicción Estatal, en los términos que señalen las leyes y reglamentos respectivos;
+XXI. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2007)</small>
-
-XXII. Participar en su caso en forma concurrente con la Administración Pública Municipal, en las acciones relativas a la ingeniería y al señalamiento de la vialidad carretera y caminos del Estado;
+XXII. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2008)
 
 > <small>(REFORMADA, P.O. 2 DE MAYO DE 2007)</small>
 
@@ -473,35 +473,45 @@ XXIV. Regular, coordinar, intervenir, vigilar y supervisar la actividad notarial
 
 A la Secretaría de Seguridad Pública le compete el despacho de los siguientes asuntos:
 
-I. Intervenir en el marco del Sistema Estatal de Seguridad Pública, y de las leyes aplicables, en lo concerniente a las materias de seguridad pública, readaptación y prevención social, y protección civil, en un marco de gobernabilidad, legalidad y respeto a las garantías constitucionales;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+I. Intervenir en el marco del Sistema Estatal de Seguridad Pública, y de las leyes aplicables, en lo concerniente a las materias de seguridad pública, prevención y reinserción social, protección civil, y tránsito del Estado en un marco de gobernabilidad, legalidad y respeto a las garantías constitucionales;
 
 II. Organizar, dirigir, administrar y supervisar los cuerpos policiales o de seguridad pública estatal, acorde a las facultades que al respecto establece el artículo 21 de la Constitución Federal, así como prestar el auxilio de la fuerza pública cuando lo requieran los diversos órganos y dependencias de los Poderes del Estado, de conformidad con la legislación y normatividad aplicable; igualmente garantizar el desempeño honesto de su personal y aplicar su régimen disciplinario, sin perjuicio de las atribuciones de las policías preventivas municipales;
 
 III. Instrumentar, operar, registrar y actualizar, en coordinación con la Secretaría de Gobierno, la Procuraduría General de Justicia, y las autoridades federales competentes, las investigaciones, estadísticas y mapas delictivos denunciados y no denunciados e incorporar esta variable en el diseño de las políticas en materia de prevención del delito;
 
-IV. Participar, en el marco del Sistema Estatal de Seguridad Pública, en las acciones de coordinación de los diversos cuerpos de seguridad pública y de los cuerpos auxiliares, en los niveles estatal y municipal, conforme a la legislación aplicable, los convenios y acuerdos en la materia, a fin de prevenir y combatir la delincuencia organizada, sistemática o circunstancial;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+IV. Participar, en el marco del Sistema Estatal de Seguridad Pública, en las acciones de coordinación de los diversos cuerpos de seguridad pública, de tránsito y de los cuerpos auxiliares, en los niveles estatal y municipal, conforme a la legislación aplicable, los convenios y acuerdos en la materia, a fin de prevenir y combatir la delincuencia organizada, sistemática o circunstancial;
 
 V. Detener por conducto de los cuerpos policiales de la Entidad a los infractores de las normas administrativas y penales, procediendo en los términos previstos en la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables. Igualmente, auxiliar en estas materias a las autoridades federales, locales y municipales, en los términos de la legislación vigente, cuando así lo soliciten;
 
-VI. Colaborar con las autoridades federales, en los términos de las leyes relativas y los convenios que se celebren, en materia de: detonantes y pirotecnia; portación de armas, migración, prevención y readaptación social;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
-VII. Atender, oportuna y eficazmente, las denuncias y quejas ciudadanas con relación al ejercicio de sus atribuciones, y fomentar la participación ciudadana en la formulación de los programas estatales de seguridad pública, protección civil, prevención y readaptación social;
+VI. Colaborar con las autoridades federales, en los términos de las leyes relativas y los convenios que se celebren, en materia de: detonantes y pirotecnia; portación de armas, migración, prevención y reinserción social;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+VII. Atender, oportuna y eficazmente, las denuncias y quejas ciudadanas con relación al ejercicio de sus atribuciones, y fomentar la participación ciudadana en la formulación de los programas estatales de seguridad pública, prevención y reinserción social, protección civil, y tránsito del Estado;
 
 VIII. Organizar, dirigir y administrar el servicio civil de carrera de la policía a su cargo, proveyendo lo necesario para la capacitación, profesionalización y especialización de los cuerpos policiales, en su caso, brindar la atención a las solicitudes de los Ayuntamientos en la materia;
 
 IX. Otorgar las autorizaciones o permisos a empresas que presten en el Estado servicios privados de seguridad, con la participación que corresponda a las autoridades municipales; así como vigilar y supervisar el funcionamiento de las mismas; e inspeccionar los servicios de vigilancia privada que presten a los particulares, estos servicios, cuando se estime necesario, podrán actuar como auxiliares de la policía y se concentrarán bajo el mando del Secretario. Igualmente, previo pago de los derechos, proporcionar la asistencia técnica necesaria para la capacitación del personal que preste sus servicios en dichas empresas de vigilancia privada;
 
-X. Participar en la celebración de convenios de colaboración en materia de seguridad pública, prevención y readaptación social y protección civil, con otras autoridades de los diversos órdenes de Gobierno;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+X. Participar en la celebración de convenios de colaboración en materia de seguridad pública, prevención y reinserción social, protección civil, y tránsito del Estado con otras autoridades de los diversos órdenes de Gobierno;
 
 XI. Atender, conforme a los tratados, acuerdos y disposiciones jurídicas aplicables, el aseguramiento, custodia y traslado de los detenidos, reos y los sujetos a proceso;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
-XII. Participar, dentro del marco del Sistema Estatal de Seguridad Pública, en la organización, que en el ámbito del Poder Ejecutivo a éste le competa, en materia de prevención y readaptación social así como la regulación de los Centros de Internamiento para Adolescentes sujetos del Sistema Integral de Justicia, incluyendo la aplicación de la normatividad referida a la ejecución de sentencias en los centros de reclusión y tratamiento a inimputables. Así como, también aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y al interés superior del adolescente, cuando lo haya determinado la autoridad judicial competente;
+XII. Participar, dentro del marco del Sistema Estatal de Seguridad Pública, en la organización, que en el ámbito del Poder Ejecutivo a éste le competa, en materia de prevención y reinserción social así como la regulación de los Centros de Internamiento para Adolescentes sujetos del Sistema Integral de Justicia, incluyendo la aplicación de la normatividad referida a la ejecución de sentencias en los centros de reclusión y tratamiento a inimputables. Así como, también aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y al interés superior del adolescente, cuando lo haya determinado la autoridad judicial competente;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
-XIII. Administrar, operar y mantener la seguridad de los reclusorios y centros de readaptación social del Estado, así como los correspondientes a los Centros de Internamiento para Adolescentes sujetos del sistema Integral de Justicia. También, orientar técnicamente y aprobar los proyectos para la construcción y remodelación de dichos establecimientos;
+XIII. Administrar, operar y mantener la seguridad de los reclusorios y centros de reinserción social del Estado, así como los correspondientes a los Centros de Internamiento para Adolescentes sujetos del Sistema Integral de Justicia. También, orientar técnicamente y aprobar los proyectos para la construcción y remodelación de dichos establecimientos;
 
 XIV. Proporcionar antecedentes penales a las autoridades competentes y expedir, previa solicitud, constancias de los mismos a personas con interés jurídico, para el ejercicio de un derecho o el cumplimiento de un deber legalmente previsto;
 
@@ -513,9 +523,23 @@ XVII. Proponer, ejecutar y mantener actualizado el Programa de Protección Civil
 
 XVIII. Intervenir y evaluar en los términos de la ley de la materia, las acciones de protección civil en el Estado, así como proponer el establecimiento y modificación de la normatividad en la materia. Igualmente elaborar los modelos de medición, simulación y respuesta ante emergencias en el Estado;
 
-XIX. Participar, en los términos de la normatividad aplicable en el Consejo de Protección Civil de Tabasco y representar a la Entidad, bajo la sujeción de las directrices del Gobernador, ante toda clase de autoridades e instituciones, nacionales e internacionales, en materia de protección civil; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
-XX. Realizar y difundir programas de orientación y capacitación a los habitantes del Estado, en forma previa, durante y después de una emergencia. Así mismo elaborar, operar, evaluar y actualizar el Atlas de Riesgo y el Registro Estadístico Único de Situaciones de Emergencia, en materia de protección civil.
+XIX. Participar, en los términos de la normatividad aplicable en el Consejo de Protección Civil de Tabasco y representar a la Entidad, bajo la sujeción de las directrices del Gobernador, ante toda clase de autoridades e instituciones, nacionales e internacionales, en materia de protección civil;
+
+XX. Realizar y difundir programas de orientación y capacitación a los habitantes del Estado, en forma previa, durante y después de una emergencia. Así mismo elaborar, operar, evaluar y actualizar el Atlas de Riesgo y el Registro Estadístico Único de Situaciones de Emergencia, en materia de protección civil;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+XXI. Organizar, promover, realizar y evaluar, con la participación de las autoridades y sectores involucrados, campañas preventivas de información o colaboración, respecto de los rubros de tránsito y vialidad en el Estado, considerando sus implicaciones en la contaminación del ambiente;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+XXII. En coordinación con los Municipios y, de acuerdo con los convenios en la materia, la vigilancia del tránsito, en las carreteras, caminos y vialidades de jurisdicción Estatal, en los términos que señalen las leyes y reglamentos respectivos; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+XXIII. Participar en su caso en forma concurrente con la Administración Pública Municipal, en las acciones relativas a la ingeniería y al señalamiento de la vialidad carretera y caminos del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2006)</small>
 
@@ -1816,3 +1840,13 @@ SEXTO.- Los procedimientos administrativos que actualmente se encuentran en trá
 SÉPTIMO.- El Ejecutivo del Estado deberá expedir el Reglamento Interior de la Secretaría de Recursos Naturales y Protección Ambiental en un periodo no mayor a 90 días, a partir de la aprobación del presente decreto.
 
 OCTAVO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor a los diez días después de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+SEGUNDO. Cuando en otras disposiciones jurídicas se atribuyan facultades en materia de tránsito y vialidad a otra dependencia distinta a la Secretaría de Seguridad Pública, se entenderán con motivo del presente Decreto concedidas para su ejercicio a esta última.
+
+TERCERO. El Ejecutivo del Estado dictará y adoptará todas las medidas presupuestales y administrativas necesarias para dar cumplimiento al presente Decreto.
+
+CUARTO. El Ejecutivo del Estado deberá hacer las adecuaciones reglamentarias correspondientes en un periodo no mayor a 90 días a partir de la aprobación del presente decreto.
