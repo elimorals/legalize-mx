@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-servicios-educativos-integrados-al-32011
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-10"
-last_updated: "2008-11-20"
+last_updated: "2008-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 10 de junio de 2003.
 
@@ -349,9 +349,13 @@ IV. Elaborar los programas de creación, ampliación, consolidación, sustituci�
 
 V. Realizar, en el ámbito de su competencia, la revalidación y equivalencia de estudios de acuerdo con las disposiciones legales en la materia;
 
-VI. (DEROGADA, G.G. 20 DE NOVIEMBRE DE 2008)
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO PUBLICADO EN LA G.G. DE 17 DE DICIEMBRE DE 2008, SE DEJA SIN EFECTOS EL DIVERSO PUBLICADO EL 20 DE NOVIEMBRE DE 2008; MOTIVO POR EL CUAL SE DEJA EL TEXTO ORIGINAL DE LA PRESENTE FRACCION.</small>
 
-VII. (DEROGADA, G.G. 20 DE NOVIEMBRE DE 2008)
+VI. Definir la política en materia de incorporación de planteles educativos al subsistema educativo federalizado y los mecanismos para su supervisión;
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO PUBLICADO EN LA G.G. DE 17 DE DICIEMBRE DE 2008, SE DEJA SIN EFECTOS EL DIVERSO PUBLICADO EL 20 DE NOVIEMBRE DE 2008; MOTIVO POR EL CUAL SE DEJA EL TEXTO ORIGINAL DE LA PRESENTE FRACCION.</small>
+
+VII. Elaborar y someter a la consideración del Director General proyectos de acuerdo para otorgar, negar y revocar la autorización a los particulares para impartir educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica;
 
 VIII. Establecer los lineamientos para la acreditación y certificación de estudios a cargo de SEIEM;
 
@@ -645,19 +649,11 @@ XIII. Verificar la situación legal del personal extranjero que presta o pretend
 
 XIV. Determinar la procedencia legal de la corrección de certificados de estudios; y
 
-> <small>(ADICIONADA, G.G. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO PUBLICADO EN LA G.G. DE 17 DE DICIEMBRE DE 2008, SE DEJA SIN EFECTOS EL DIVERSO PUBLICADO EL 20 DE NOVIEMBRE DE 2008; MOTIVO POR EL CUAL SE DEJA EL TEXTO ORIGINAL DE LA PRESENTE FRACCION.</small>
 
-XV. Proponer al Director General la política en materia de incorporación de escuelas particulares al Subsistema Educativo Federalizado y los mecanismos para su aplicación y supervisión correspondientes a los niveles educativos;
+XV. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el
 
-> <small>(ADICIONADA, G.G. 20 DE NOVIEMBRE DE 2008)</small>
-
-XVI. Someter a la consideración del Director General proyectos de acuerdo para otorgar, negar y retirar el reconocimiento de validez oficial de estudios a los particulares para impartir educación inicial y, otorgar, negar y revocar la autorización a los particulares para impartir educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica;
-
-> <small>(ADICIONADA, G.G. 20 DE NOVIEMBRE DE 2008)</small>
-
-XVII. Aplicar las sanciones correspondientes a que se refieren el Reglamento General de Servicios Educativos Incorporados del Estado de México y los Acuerdos Específicos por los que se establecen los trámites y procedimientos relacionados con la autorización a particulares para impartir educación inicial, preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica en el Subsistema Educativo Federalizado;
-
-XVIII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director General.
+Director General.
 
 ### CAPITULO VII. DE LA SUPLENCIA DE LOS TITULARES
 
@@ -715,7 +711,9 @@ Aprobado por el Consejo Directivo de Servicios Educativos Integrados al Estado d
 
 ING. ALBERTO CURI NAIME
 
-SECRETARIO DE EDUCACION, CULTURA Y BIENESTAR SOCIAL Y PRESIDENTE DEL CONSEJO DIRECTIVO
+SECRETARIO DE EDUCACION, CULTURA Y BIENESTAR SOCIAL Y
+
+PRESIDENTE DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
 
@@ -746,3 +744,9 @@ TERCERO.- La Dirección de Planeación Educativa, en un término de 15 días há
 CUARTO.- La Unidad de Asuntos Jurídicos deberá proponer al Consejo Directivo del Organismo en su próxima sesión ordinaria, las modificaciones necesarias a los Acuerdos Específicos por los que se establecen los trámites y procedimientos relacionados con la autorización a particulares para impartir educación preescolar y primaria en el Subsistema Educativo Federalizado, en materia de sanciones.
 
 QUINTO.- Se derogan todas las disposiciones de igual rango que se opongan al presente Acuerdo.
+
+G.G. 17 DE DICIEMBRE DE 2008.
+
+PRIMERO. Publíquese el presente acuerdo en el Periodito Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El Presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
