@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-adquisiciones-enajenaciones-arrendamientos-y-6548"
 country: "mx"
 rank: "ley"
 publication_date: "1989-10-04"
-last_updated: "1989-10-04"
+last_updated: "2008-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS DEL PODER EJECUTIVO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY SOBRE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, PUBLICADA EN EL P.O. DE 17 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 4 de octubre de 1989.
 
@@ -898,3 +900,21 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 Alfredo de la Torre y Martínez.
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE DICIEMBRE DE 2008.
+
+PRIMERO.- La presente Ley entrará en vigor, a los treinta días naturales siguientes a su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley Sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado de Morelos, publicada el cuatro de octubre de mil novecientos ochenta y nueve, en el Periódico Oficial "Tierra y Libertad" número tres mil cuatro cientos cincuenta y uno, Sección Segunda. Se derogan todas las disposiciones que se opongan a la presente Ley. Las disposiciones administrativas aplicadas a esta materia, vigentes al momento de la publicación de este ordenamiento, se seguirán aplicando hasta la entrada en vigor de las que deben sustituirlas.
+
+TERCERO.- Los procedimientos de adquisiciones, enajenaciones, arrendamientos y prestación de servicios que se encuentren en trámite a la entrada en vigor de la presente Ley, se seguirán substanciado hasta su finalización conforme a lo dispuesto por el ordenamiento jurídico que le dio origen. Sólo en caso de cancelaciones de licitaciones y subastas, de convocarse a una nueva, se realizará de conformidad con lo dispuesto en esta Ley.
+
+La aplicación de sanciones e inconformidades, así como los demás asuntos que se encuentren en trámite o pendientes de resolución, se desahogarán y resolverán conforme a las disposiciones legales y administrativas vigentes al momento en el que se iniciaron.
+
+CUARTO.- A partir de la fecha de publicación de este ordenamiento, el Poder Ejecutivo contará con un plazo de treinta días naturales para expedir su Reglamento respectivo, e instalar formalmente su Comité, con sujeción a las disposiciones aquí contenidas.
+
+QUINTO.- Todos aquellos Convenios, Contratos, Acuerdos y demás instrumentos o documentos, suscritos por el Oficial Mayor, antes de la entrada en vigor de la presente Ley, quedarán vigentes en los mismos términos que fueron suscritos.
+
+SEXTO.- El Poder Ejecutivo, por conducto de sus áreas competentes, promoverá las propuestas de modificaciones y reformas a los ordenamientos legislativos o reglamentos que por virtud de esta Ley, han sufrido derogaciones, abrogaciones o modificaciones. Recinto Legislativo a los tres días del mes de diciembre de dos mil ocho.
