@@ -4,7 +4,7 @@ identifier: "TAB-ley-general-de-transito-y-vialidad-del-estado-de-tabasco-50298"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-03-29"
-last_updated: "2006-03-29"
+last_updated: "2008-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY GENERAL DE TRANSITO Y VIALlDAD DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 29 de marzo de 2006.
 
@@ -83,11 +83,15 @@ I.- Autoridad Estatal:
 
 a) El Gobernador del Estado;
 
-b) El Secretario de Gobierno;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
-c) El Subsecretario de Transporte, Tránsito y Vialidad; y
+b) El Secretario de Seguridad Pública;
 
-d) El Director General de la Policía Estatal de Caminos.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+c) El Director General de la Policía Estatal de Caminos; y
+
+d) (DEROGADO, P.O. 17 DE DICIEMBRE DE 2008)
 
 II.- Autoridad Municipal:
 
@@ -97,9 +101,11 @@ b) El Presidente Municipal o Primer Concejal; y
 
 c) La Policía de Tránsito y Vialidad Municipal.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 4.
 
-La autoridad facultada para expedir, suspender, revocar o cancelar definitivamente la licencia o permiso de manejo a persona determinada, será la Secretaría de Gobierno, a través de la Subsecretaría de Transporte, Tránsito y Vialidad, de manera acorde a las demás facultades y obligaciones que le confiere esta misma Ley, su Reglamento, la Ley Orgánica del Poder Ejecutivo del Estado y demás normatividad en vigor que le resulte aplicable.
+La autoridad facultada para expedir, suspender, revocar o cancelar definitivamente la licencia o permiso de manejo a persona determinada, será la Secretaría de Seguridad Pública, a través de la Dirección General de la Policía Estatal de Caminos, de manera acorde a las demás facultades y obligaciones que le confiere ésta misma Ley, su Reglamento, la Ley Orgánica del Poder Ejecutivo del Estado y demás normatividad en vigor que le resulte aplicable.
 
 ###### ARTÍCULO 5.
 
@@ -109,7 +115,7 @@ I. Realizar acciones de planeación, regulación, ordenamiento, y vigilancia en 
 
 II. Establecer las políticas y lineamientos técnicos en la materia, en términos de esta misma Ley, su Reglamento y demás legislación relativa aplicable;
 
-III Administrar y dirigir a la Policía Estatal de Caminos, así como coordinar sus acciones con las demás autoridades federales, estatales y municipales, a efecto de garantizar la debida circulación y organización del tránsito de vehículos, peatones y animales en el territorio del Estado, e igualmente en la procuración y salvaguarda del orden e interés público;
+III. Administrar y dirigir a la Policía Estatal de Caminos, así como coordinar sus acciones con las demás autoridades federales, estatales y municipales, a efecto de garantizar la debida circulación y organización del tránsito de vehículos, peatones y animales en el territorio del Estado, e igualmente en la procuración y salvaguarda del orden e interés público;
 
 IV. Conocer de los ilícitos, incidentes o faltas administrativas cometidas en la vía pública de comunicación terrestre. En su caso, dar aviso inmediato y remitir a las autoridades federales, estatales y municipales, los asuntos de su competencia en los términos jurisdiccionales y legales correspondientes, poniendo a su disposición a personas, elementos materiales y probatorios que en razón de flagrancia y de colaboración institucional obren o se encuentren en su poder; y
 
@@ -133,9 +139,11 @@ V. Dirigir y administrar a la Policía de Tránsito y Vialidad Municipal, así c
 
 VI. Las demás que les confiera expresamente esta Ley y demás ordenamientos legales.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 7.
 
-Corresponde a la Secretaría de Gobierno establecer las medidas que requiera en caso de urgencia o necesidad que se susciten en la jurisdicción local; siempre que éstas sean accesorias a las ya previstas en esta Ley y se refieran al tránsito, vialidad y control vehicular.
+Corresponde a la Secretaría de Seguridad Pública establecer las medidas que requiera en caso de urgencia o necesidad que se susciten en la jurisdicción local; siempre que estas sean accesorias a las ya previstas en esta Ley y se refieran al tránsito, vialidad y control vehicular.
 
 ###### ARTÍCULO 8.
 
@@ -299,7 +307,9 @@ II. Automovilista: se otorgará a personas que pretendan manejar cualquier tipo 
 
 III. Chofer: se expedirá a personas que pretendan conducir vehículos del servicio público de transporte de pasajeros y de carga.
 
-La expedición de licencias y permisos para conducir en el Estado, es una facultad que corresponde a la Subsecretaría de Transporte, Tránsito y Vialidad; habilitarán a su titular para conducir cualquier tipo de vehículo que corresponda a su modalidad de licencia en toda la red carretera estatal.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+La expedición de licencias y permisos para conducir en el Estado, es una facultad que corresponde a la Dirección General de la Policía Estatal de Caminos; habilitarán a su titular para conducir cualquier tipo de vehículo que corresponda a su modalidad de licencia, en toda la red carretera estatal.
 
 ###### ARTÍCULO 23.
 
@@ -359,9 +369,11 @@ II. Cuando el titular de la licencia omita cubrir sus adeudos de multas por infr
 
 Para los efectos de esta Ley y su Reglamento no se considerará habilitado al conductor suspendido que circule en el Estado de Tabasco, que hubiere adquirido una licencia de manejo expedida por otra Entidad Federativa durante el tiempo de la vigencia de la suspensión.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 29.
 
-En los casos de suspensión, el titular de la licencia deberá aprobar los exámenes que determine la Subsecretaría de Transporte, Tránsito y Vialidad, para la reactivación de la misma.
+En los casos de suspensión, el titular de la licencia deberá aprobar los exámenes que determine la Dirección General de la Policía Estatal de Caminos, para la reactivación de la misma.
 
 ###### ARTÍCULO 30.
 
@@ -393,13 +405,17 @@ De los establecimientos o particulares que impartan enseñanza para conducción 
 
 Los establecimientos o particulares que con fines de lucro impartan enseñanza sobre la conducción de vehículos, además de que deberán contar con la aprobación de su programa de capacitación por la autoridad correspondiente, cumplirán con los siguientes requisitos:
 
-I. Tener autorización de la Subsecretaría de Transporte, Tránsito y Vialidad;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+I. Tener autorización de la Dirección General de la Policía Estatal de Caminos;
 
 II. Estar inscrito en el Registro Federal de Contribuyentes;
 
 III. Estar al corriente del pago de sus impuestos de tenencia y refrendo de la unidad o unidades automotoras que se ocupen para realizar dicha enseñanza;
 
-IV. Contar con instructores que hayan acreditado los cursos especiales para impartir clases de manejo y cuenten con la autorización de la Subsecretaría de Transporte, Tránsito y Vialidad, para realizar dicha actividad;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+IV. Contar con instructores que hayan acreditado los cursos especiales para impartir clases de manejo y cuenten con la autorización de la Dirección General de la Policía Estatal de Caminos, para realizar dicha actividad;
 
 V. Los instructores de manejo deberán contar con licencia de conducir vigente;
 
@@ -485,7 +501,9 @@ La diversidad de los vehículos que se derivan de la anterior clasificación, se
 
 Todos los vehículos que circulan por la vía pública del Estado y que en razón de su actividad y domicilio no pertenezcan a esta entidad federativa, deberán efectuar su registro ante la autoridad competente; las condiciones y requisitos para cada tipo y clase de vehículo son las que al respecto señalen esta Ley y su Reglamento.
 
-Las Secretarías de Gobierno y Finanzas del Estado establecerán los mecanismos de coordinación para eficientar el Padrón Vehicular Estatal.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+Las Secretarías de Seguridad Pública y de Administración y Finanzas del Estado establecerán los mecanismos de coordinación para eficientar el Padrón Vehicular Estatal.
 
 ### Capítulo II. De los vehículos automotrices de servicio particular y de servicio público de transporte de personas
 
@@ -669,7 +687,7 @@ XXIX. Demás prohibiciones que al efecto establezca la autoridad competente y de
 
 Los limites máximos de velocidad para cualquier tipo de vehículo:
 
-I. En Calles: 30 Km/hr.;
+I. En calles: 30 Km/hr.;
 
 II. En avenidas: 40 Km/hr.;
 
@@ -891,7 +909,7 @@ V. Ocupen espacios reservados por razones de visibilidad y/o seguridad;
 
 VI. Las que afecten por contaminación al medio ambiente;
 
-VII. La conducción de vehículos sin estar debidamente habilitados para hacerla;
+VII. La conducción de vehículos sin estar debidamente habilitados para hacerlo;
 
 VIII. Darse a la fuga o negarse a proporcionar documentación o información quienes estén obligados a hacerlo;
 
@@ -994,3 +1012,15 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente Decreto entrará en vigor a los diez días después de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+SEGUNDO. Cuando en otras disposiciones jurídicas sea (sic) atribuyan facultades en materia de tránsito y vialidad a otra dependencia distinta a la Secretaría de Seguridad Pública, se entenderán con motivo del presente Decreto concedidas para su ejercicio a esta última.
+
+TERCERO. El Ejecutivo del Estado dictará y adoptará todas las medidas presupuestales y administrativas necesarias para dar cumplimiento al presente Decreto.
+
+CUARTO. El Ejecutivo del Estado deberá hacer las adecuaciones reglamentarias correspondientes en un periodo no mayor a 90 días a partir de la aprobación del presente decreto.
