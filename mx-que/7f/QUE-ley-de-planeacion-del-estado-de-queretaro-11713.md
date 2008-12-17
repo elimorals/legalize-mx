@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-planeacion-del-estado-de-queretaro-11713"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-31"
-last_updated: "1996-12-31"
+last_updated: "2008-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE PLANEACION DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 17 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estadode Querétaro, el martes 31 de diciembre de 1996.
 
@@ -624,3 +626,13 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 LIC. ALEJANDRO ESPINOSA MEDINA.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE DICIEMBRE DE 2008.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Planeación del Estado de Querétaro publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número cincuenta y cuatro, de fecha treinta y uno de diciembre de mil novecientos noventa y seis.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
