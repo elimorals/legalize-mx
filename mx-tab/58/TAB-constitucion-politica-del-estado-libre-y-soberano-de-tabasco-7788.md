@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2008-11-08"
+last_updated: "2008-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2008.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -573,7 +573,7 @@ No ser titular de alguno de los órganos autónomos, ni titular de alguno de los
 
 No ser Magistrado, ni Secretario del Tribunal Electoral, Juez Instructor, ni Consejero Presidente o Consejero Electoral en el Consejo Estatal, Distrital o Municipal del Instituto Electoral y de Participación Ciudadana, ni Secretario Ejecutivo, Contralor General, Director o personal profesional directivo del propio instituto, salvo que se hubieren separado de su encargo, de manera definitiva, tres años antes del día de la elección; y
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1975)</small>
 
 V.- No ser ministro de culto religioso alguno.
 
@@ -783,9 +783,11 @@ V.- Legislar sobre materia electoral con base en el sufragio universal y directo
 
 VI.- Legislar en la forma que proceda sobre Educación, Instrucción y seguridad pública;
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 1983)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
-VII.- Imponer las contribuciones que deban corresponder al Estado y a los Municipios, aprobando anualmente los ingresos que fueran necesarios para cubrir los presupuestos aprobados por el Ejecutivo y los Ayuntamientos en sus respectivos ámbitos; determinar, conforme a la Constitución Política Federal y esta Constitución, las participaciones que correspondan a los Municipios en los Impuestos Federales y Estatales; y legislar sobre la integración del Patrimonio del Estado y de los Municipios;
+VII.- Imponer las contribuciones que deban corresponder al Estado y a los Municipios aprobando anualmente los ingresos que fueren necesarios para cubrir los presupuestos de Egresos del Estado y los Ayuntamientos, en sus respectivos ámbitos.
+
+Asimismo, podrá autorizar en dicho presupuesto las erogaciones plurianuales para los proyectos y contratos a los que se refiere la fracción XLIV de este mismo artículo; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos del Estado;
 
 VIII.- Reglamentar las facultades concedidas a la Entidad por el artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -793,15 +795,39 @@ VIII.- Reglamentar las facultades concedidas a la Entidad por el artículo 130 d
 
 IX.- Legislar sobre Administración de Justicia, Sanidad Pública Estatal, Materia Indígena y vías de comunicaciones estatales y municipales; expedir leyes para la programación, promoción, concertación y ejecución de acciones de orden económico, especialmente en lo referente al abasto y otras que tengan como finalidad la producción suficiente y oportuna de bienes y servicios socialmente necesarios en la entidad;
 
-X.- (DEROGADA, P.O. 27 DE NOVIEMBRE DE 2002)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2008)</small>
+
+X.- Determinar, conforme a la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, y demás disposiciones aplicables las participaciones que correspondan a los Municipios en los impuestos federales y estatales; y legislar sobre la integración del patrimonio del Estado y de los municipios;
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
 
 XI.- Autorizar al Ejecutivo para que celebre contratos con los demás Estados o con la Federación sobre asuntos relacionados con la Administración y aprobar o nó esos contratos;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
-XII.- Dar bases conforme a las cuales el Ejecutivo pueda celebrar empréstitos a nombre del Estado, con las limitaciones hechas a las facultades de los Estados en el Artículo 117 de la Constitución General; aprobar esos mismos empréstitos, y reconocer y mandar a pagar la deuda del Estado contraída;
+XII.- Dar bases conforme a las cuales el Ejecutivo y los Ayuntamientos puedan celebrar financiamientos a nombre del Estado y de los Municipios, respectivamente; aprobar esos mismos financiamientos, cuyo plazo sea superior a un año y reconocer e instruir el pago de la deuda del Estado y de los Municipios contraída.
+
+Dichas bases se fijarán conforme a lo establecido en el artículo 117 de la Constitución Política de los Estados Unidos Mexicanos.
+
+El Ejecutivo y los Municipios podrán contratar financiamiento cuya vigencia no sea mayor a un año, sin requerir autorización expresa del Congreso. Invariablemente deberán sujetarse a las siguientes bases:
+
+a) En ningún caso el plazo excederá el periodo constitucional de la administración que contrató dicha deuda, ni venza dentro de los noventa días naturales anteriores al fin de dicho periodo constitucional.
+
+b) El límite máximo de este tipo de financiamientos que podrá contratar el Gobierno del Estado y los Municipios será de 8% de sus ingresos ordinarios determinados en sus leyes de ingresos vigentes.
+
+Se entenderá por Ingresos Ordinarios: la suma de los Impuestos, Derechos, Productos y Aprovechamientos así como las Participaciones Federales y cualquier otro ingreso de carácter federal que no tenga un uso o fin especifico.
+
+c) No se afectará en garantía o en pago el derecho a recibir participaciones derivadas de la coordinación fiscal o cualquier otro ingreso o derecho.
+
+d) El financiamiento así contratado no podrá ser refinanciado ni reestructurado.
+
+e) El Gobierno del Estado y los Ayuntamientos deberán informar al Congreso de Estado la contratación, liquidación y conclusión del financiamiento en un plazo que no exceda de 30 días naturales siguientes de cada uno de los actos correspondientes.
+
+f) El incumplimiento de las disposiciones anteriores dará lugar a la aplicación de responsabilidades y sanciones administrativas en el servicio público.
+
+Adicionalmente el Ejecutivo y los Municipios se sujetaran a las bases que al efecto se establezcan en las Leyes secundarias.
+
+No se entenderá como deuda pública las obligaciones económicas o financieras plurianuales derivadas del ejercicio de la facultad consagrada en la fracción XLIV de este mismo artículo;
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2002)</small>
 
@@ -855,9 +881,9 @@ XXVII.- Citar al Secretario del Ramo que corresponda para que informe cuando se 
 
 XXVIII.- Expedir la Ley Orgánica de los Municipios y demás leyes sobre la organización, administración y procedimientos municipales en términos del artículo 65, de ésta Constitución;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
-XXIX.- Autorizar la enajenación o gravamen de bienes inmuebles de los municipios y del Estado;
+XXIX.- Autorizar la enajenación o gravámen de bienes inmuebles del Estado;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
@@ -913,9 +939,9 @@ XLII.- Legislar en materia de Participación Ciudadana, estableciendo las normas
 
 XLIII.- Aprobar, en su caso, los puntos de acuerdos legislativos o acuerdos económicos que propongan a la Legislatura los diputados o las fracciones parlamentarias, para gestionar ante las instancias competentes apoyo a la población o que busquen el beneficio de la ciudadanía tabasqueña;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
-XLIV.- Legislar en materia de proyectos y contratos para prestación de servicios, contraídos por el Estado, y en su caso, por los Municipios cuyas obligaciones tengan una vigencia plurianual; y
+XLlV.- Legislar en materia de proyectos y contratos para prestación de servicios, obra pública, adquisiciones y arrendamientos contraídos por el Estado y, en su caso, por los Municipios cuyas obligaciones tengan una vigencia plurianual. Estos contratos plurianuales deben ser presentados al Congreso del Estado para su autorización; y
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
@@ -1697,9 +1723,9 @@ La cuenta pública de los Ayuntamientos o Concejos Municipales, se analizará, f
 
 Al presentar el informe del primer mes del ejercicio, deberá adjuntarse el presupuesto de egresos aprobados para dicho ejercicio fiscal. Los ajustes presupuéstales autorizados deberán presentarse en el informe mensual correspondiente.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], P.O. 17 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
-Los Ayuntamientos no podrán contraer empréstitos cuya duración exceda de un año, ni enajenar bienes inmuebles sin autorización del Poder Legislativo, ni cobrar contribuciones que correspondan al año siguiente de su período.
+Los Ayuntamientos no podrán contraer empréstitos cuya duración exceda de un año, ni enajenar bienes inmuebles sin autorización de las dos terceras partes de los integrantes del Cabildo, ni cobrar contribuciones que correspondan al año siguiente de su período. Tratándose de empréstitos que excedan del plazo de un año, se deberá contar con la autorización del Congreso Local en los términos que señale la Ley en la materia.
 
 > <small>(ADICIONADA, P.O. 25 DE JULIO DE 2001)</small>
 
@@ -2744,3 +2770,11 @@ g) Las demás que señale la Ley.
 ###### ARTÍCULO SÉPTIMO.
 
 El Congreso deberá expedir a más tardar el 30 de noviembre del presente año, las reformas o adiciones a las leyes secundarias en la materia.
+
+P.O. 17 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Hasta en tanto no se hagan las reformas pertinentes a las disposiciones jurídicas secundarias seguirán aplicándose las vigentes en lo que no se opongan al presente Decreto.
+
+TERCERO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, háganse llegar a cada uno de los 17 Ayuntamientos del Estado, copia fiel y exacta del correspondiente dictamen y sus antecedentes, para que emitan su voto de aprobación o rechazo a las reformas acordadas por esta soberanía legislativa, con la previsión que si dentro del término de 15 días naturales siguientes a la fecha de su recepción y notificación respectiva, no emiten su voto, se tendrá como aprobatorio el voto del Ayuntamiento omiso.
