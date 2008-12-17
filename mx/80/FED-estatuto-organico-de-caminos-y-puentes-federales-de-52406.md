@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-caminos-y-puentes-federales-de-52406"
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-12-13"
-last_updated: "2008-07-17"
+last_updated: "2008-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52406&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-06-01"
 
 ESTATUTO ORGANICO DE CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE DICIEMBRE DE 2008.
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 13 de diciembre de 2006.
 
@@ -84,6 +84,10 @@ La dirección y administración de Caminos y Puentes Federales de Ingresos y Ser
 - Director Jurídico
 
 - Director de Administración y Finanzas
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2008)</small>
+
+- Coordinador de Delegaciones
 
 - Subdirector de Comunicación Social
 
@@ -663,11 +667,15 @@ XXIV. Cumplir con las políticas, normas y procedimientos en la materia que perm
 
 XXV. Proponer a la Dirección General acciones para la implementación y control de los sistemas, procedimientos y del programa integral de modernización administrativa, con el fin de atender las directrices del Gobierno Federal y eficientar la administración del Organismo.
 
-DE LAS FACULTADES DE SUBDIRECTORES
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 17 DE DICIEMBRE DE 2008)</small>
+
+DE LAS FACULTADES DEL COORDINADOR DE DELEGACIONES Y DE LOS SUBDIRECTORES
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 26o.
 
-Corresponde a los Subdirectores las siguientes facultades comunes:
+Corresponde al Coordinador de Delegaciones y a los Subdirectores las siguientes facultades comunes:
 
 I. Atender las labores encomendadas a la unidad administrativa a su cargo, así como intervenir en la elaboración del Programa Anual de Trabajo y el proyecto de presupuesto correspondiente;
 
@@ -712,6 +720,26 @@ XX. Supervisar los registros estadísticos, presupuestales, contables y de cualq
 XXI. Coordinar, mejorar y supervisar el cumplimiento cabal y oportuno de los sistemas de control interno en el Organismo y proponer las acciones de mejora que correspondan, y
 
 XXII. Ejercer aquellas facultades que las disposiciones legales y el Director General les confieran, afines a las que anteceden.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 26 BIS.- La Coordinación de Delegaciones, además de las facultades comunes a que se refiere el artículo 26o., tendrá asignadas las siguientes funciones específicas:
+
+I.- Supervisar y vigilar que las Delegaciones Regionales y Gerencias de Tramo ejerzan el presupuesto autorizado en materia de obra pública, adquisiciones, arrendamiento, bienes y servicios, en estricto cumplimiento a la normatividad, lineamientos, políticas, calendarización y procedimientos establecidos por el Organismo.
+
+II.- Dar seguimiento a los asuntos legales interpuestos en contra del Organismo, cuya atención y defensa esté a cargo de las Delegaciones Regionales y Gerencias de Tramo, a fin de salvaguardar el interés público.
+
+III.- Vigilar que las funciones de las Delegaciones Regionales y Gerencias de Tramo se proyecten de conformidad con la normatividad aplicable.
+
+IV.- Proponer conjuntamente con las Unidades Administrativas Centrales, Delegaciones Regionales y Gerencias de Tramo, esquemas que impacten en la mejora de los trámites y servicios brindados.
+
+V.- Establecer mecanismos de supervisión y control, que permitan evaluar el desempeño de las Delegaciones Regionales y Gerencias de Tramo, con objeto de dar cabal cumplimiento a las metas establecidas por el Organismo.
+
+VI.- Proponer esquemas de redimensionamiento de la infraestructura y la operación de las Delegaciones Regionales y Gerencias de Tramo, derivados de la incorporación y/o desincorporación de tramos carreteros.
+
+VII.- Supervisar y evaluar el cumplimiento de la normatividad referente a la operación y aspectos técnicos de las plazas de cobro, en coordinación con la Unidades Administrativas Centrales para contribuir a su óptimo funcionamiento.
+
+VIII.- Coadyuvar con las Delegaciones Regionales, Gerencias de Tramo y las Unidades Administrativas Centrales, con el propósito de que sus solicitudes, necesidades o requerimientos se canalicen y atiendan oportunamente.
 
 ###### ARTICULO 27o.
 
@@ -1283,9 +1311,11 @@ XV. Coordinar, mejorar y supervisar el cumplimiento cabal y oportuno de los sist
 
 ### CAPITULO SEPTIMO. DE LAS DELEGACIONES REGIONALES
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 48o.
 
-Para la mejor atención y eficiente despacho de los asuntos de su competencia, el Organismo contará con Delegaciones Regionales en el número y circunscripción que autorice el Consejo de Administración, las cuales como unidades administrativas desconcentradas en el territorio nacional, estarán jerárquicamente subordinadas a la administración central y contarán con la organización y las atribuciones específicas que fueren necesarias para resolver sobre la materia, en su ámbito territorial determinado, de conformidad con las disposiciones legales aplicables y con los acuerdos delegatorios del Director General.
+Para la mejor atención y eficiente despacho de los asuntos de su competencia, el Organismo contará con Delegaciones Regionales en el número y circunscripción que autorice el Consejo de Administración, las cuales como unidades administrativas desconcentradas en el territorio nacional, estarán jerárquicamente subordinadas a la administración central y en específico a la Coordinación de Delegaciones y contarán con la organización y las atribuciones específicas que fueren necesarias para resolver sobre la materia, en su ámbito territorial determinado, de conformidad con las disposiciones legales aplicables y con los acuerdos delegatorios del Director General.
 
 ###### ARTICULO 49o.
 
@@ -1355,9 +1385,11 @@ XXIX. Las demás que señalen el Director General y los ordenamientos legales, a
 
 ### CAPITULO OCTAVO. DE LAS GERENCIAS DE TRAMO
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 51o.
 
-Para elevar la calidad de los servicios que ofrece el Organismo y desconcentrar funciones operativas y administrativas que permitan atender localmente y de manera adecuada y eficiente la administración, operación y conservación de los tramos carreteros que por la distancia que existe con las Delegaciones Regionales, requieren una atención inmediata, se conformarán Gerencias de Tramo de acuerdo a las necesidades, en el número y circunscripción que autorice el Consejo de Administración. Las cuales como unidades administrativas desconcentradas en el territorio nacional, estarán organizacionalmente subordinadas a la administración central y jerárquicamente a las Delegaciones Regionales que corresponda, según el ámbito territorial y contarán con la organización y las atribuciones específicas que fueren necesarias para resolver sobre la materia, en su ámbito territorial determinado, de conformidad con las disposiciones legales aplicables y con los acuerdos delegatorios del Director General.
+Para elevar la calidad de los servicios que ofrece el Organismo y desconcentrar funciones operativas y administrativas que permitan atender localmente y de manera adecuada y eficiente la administración, operación y conservación de los tramos carreteros que por la distancia que existe con las Delegaciones Regionales, requieren una atención inmediata, se conformarán Gerencias de Tramo de acuerdo a las necesidades, en el número y circunscripción que autorice el Consejo de Administración, las cuales como unidades administrativas desconcentradas en el territorio nacional, estarán organizacionalmente subordinadas a la administración central y jerárquicamente a la Coordinación de Delegaciones y Delegaciones Regionales a que corresponda, según el ámbito territorial y contarán con la organización y las atribuciones específicas que fueren necesarias para resolver sobre la materia, en su ámbito territorial determinado, de conformidad con las disposiciones legales aplicables y con los acuerdos delegatorios del Director General.
 
 ###### ARTICULO 52o.
 
@@ -1473,9 +1505,11 @@ VI. Conocer, analizar y en su caso recomendar las adecuaciones que se estimen co
 
 Durante las ausencias temporales del Director General, el despacho y resolución de los asuntos correspondientes al Organismo quedarán a cargo del Director que corresponda según la naturaleza de los asuntos a tratar. Si durante las mismas los Directores tuvieran que ejercer facultades consideradas indelegables del Director General, el Presidente del Consejo de Administración proveerá lo conducente, atendiendo a la urgencia y demás circunstancias del acontecimiento.
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 59o.
 
-Las ausencias temporales de los Directores, Subdirectores, Delegados Regionales y Gerentes de Tramo, así como de los Gerentes adscritos a cada Unidad Administrativa, para el despacho de los asuntos de su competencia, serán suplidas por los servidores públicos de jerarquía inmediata inferior del área de su responsabilidad y que por las circunstancias y naturaleza del suceso le corresponda conocer.
+Las ausencias temporales de los Directores, Coordinador de Delegaciones, Subdirectores, Delegados Regionales y Gerentes de Tramo, así como de los Gerentes adscritos a cada Unidad Administrativa, para el despacho de los asuntos de su competencia, serán suplidas por los servidores públicos de jerarquía inmediata inferior del área de su responsabilidad y que por las circunstancias y naturaleza del suceso le corresponda conocer.
 
 ###### ARTICULO 60o.
 
@@ -1504,6 +1538,12 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- En su oportunidad, inscríbase en el Registro Público de Organismos Descentralizados.
 
 D.O.F. 17 DE JULIO DE 2008.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En su oportunidad, inscríbase en el Registro Público de Organismos Descentralizados.
+
+D.O.F. 17 DE DICIEMBRE DE 2008.
 
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
