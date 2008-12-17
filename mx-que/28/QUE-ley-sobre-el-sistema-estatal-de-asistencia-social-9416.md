@@ -4,7 +4,7 @@ identifier: "QUE-ley-sobre-el-sistema-estatal-de-asistencia-social-9416"
 country: "mx"
 rank: "ley"
 publication_date: "1986-07-17"
-last_updated: "2006-09-15"
+last_updated: "2008-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9416&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE ASISTENCIA SOCIAL DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 17 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 17 de julio de 1986.
 
@@ -362,3 +364,9 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
 TERCERO. Los órganos y autoridades que se establecen en esta presente (sic) Ley, iniciarán su funcionamiento a más tardar el día 1 de enero del año 2007.
 
 CUARTO. Los menores sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley para el Tratamiento de Menores Infractores para el Estado, quedarán sujetos al régimen previsto en la Ley de Justicia para Menores para el Estado de Querétaro, en todo lo que les beneficie.
+
+P.O. 17 DE DICIEMBRE DE 2008.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley sobre el Sistema Estatal de Asistencia Social, publicada en el Periódico Oficial del Gobierno del Estado número 30, de fecha 17 de julio de 1986, así como todas aquellas disposiciones legales posteriores que la reforman.
