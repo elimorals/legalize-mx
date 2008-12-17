@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-50640"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-05-26"
-last_updated: "2006-09-15"
+last_updated: "2008-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 17 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro de Arteaga, el viernes 26 de mayo de 2006.
 
@@ -1976,3 +1978,17 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
 TERCERO. Los órganos y autoridades que se establecen en esta presente (sic) Ley, iniciarán su funcionamiento a más tardar el día 1 de enero del año 2007.
 
 CUARTO. Los menores sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley para el Tratamiento de Menores Infractores para el Estado, quedarán sujetos al régimen previsto en la Ley de Justicia para Menores para el Estado de Querétaro, en todo lo que les beneficie.
+
+P.O. 17 DE DICIEMBRE DE 2008.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley Orgánica del Poder Judicial del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado número treinta y uno, de fecha veintiséis de mayo de dos mil seis.
+
+Artículo Tercero. El Pleno del Tribunal Superior de Justicia determinará la integración de la Sala Constitucional, para que inicie funciones a partir de la entrada en vigor de la ley en materia constitucional.
+
+Artículo Cuarto. El Consejo de la Judicatura contará con un periodo de seis meses, a partir de la publicación de la presente Ley, para realizar la digitalización, firma electrónica y organización de los archivos.
+
+Artículo Quinto. La entrada en vigor de la presente Ley, no afectará la conformación y funcionamiento del Poder Judicial, continuando con los mismos titulares y personal adscrito al mismo, para el cumplimiento de sus facultades y obligaciones en términos de esta Ley.
+
+Artículo Sexto. Los juzgados civiles, penales y municipales, continuarán conociendo de los asuntos que les corresponde según la cuantía que actualmente tienen establecida, hasta en tanto el Pleno del Tribunal Superior de Justicia, emita el acuerdo a que hacen referencia los artículos 62, 64 y 82 de la presente Ley.
