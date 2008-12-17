@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-40978
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2004-10-29"
+last_updated: "2008-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUERETARO PUBLICADA EN EL P.O. DE 17 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 3 de septiembre de 2004.
 
@@ -646,3 +648,13 @@ Rúbrica
 P.O. 29 DE OCTUBRE DE 2004.
 
 ÚNICO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 17 DE DICIEMBRE DE 2008.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de los Derechos de las Personas Adultas Mayores en el Estado de Querétaro, publicada el tres de septiembre de dos mil cuatro en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Tercero. El Consejo Asesor para la Atención, Promoción y Defensa de los Derechos de las Personas Adultas Mayores del Estado de Querétaro, continuará el desarrollo de sus funciones en los términos de la presente Ley.
+
+Artículo Cuarto. Los convenios y obligaciones adquiridos por las dependencias, entidades y el Consejo Asesor para la Atención, Promoción y Defensa de los Derechos de las Personas Adultas Mayores del Estado de Querétaro, serán respetados en los términos en los que fueron suscritos.
