@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-atiende-previene-y-sanciona-la-violencia-11749"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-31"
-last_updated: "2002-10-11"
+last_updated: "2008-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY QUE ATIENDE, PREVIENE Y SANCIONA LA VIOLENCIA INTRAFAMILIAR EN EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PÚBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DEL AÑO 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE ESTABLECE LAS BASES PARA LA PREVENCION Y LA ATENCION DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 17 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO..</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el martes 31 de diciembre de 1996.
 
@@ -652,3 +654,13 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el per
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley; pero las sanciones establecidas en ella, se aplicarán sin perjuicio de las que se deriven de otros ordenamientos legales.
+
+P.O. 17 DE DICIEMBRE DE 2008.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley que Atiende, Previene y Sanciona la Violencia Intrafamiliar en el Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado número cincuenta y cuatro, de fecha treinta y uno de diciembre de mil novecientos noventa y seis, y sus reformas.
+
+Artículo Tercero. El Consejo para la Prevención y Atención de la Violencia Familiar en el Estado de Querétaro, deberá quedar instalado a más tardar el treinta y uno de diciembre de dos mil ocho.
+
+Artículo Cuarto. El Consejo para la Prevención y Atención de la Violencia Familiar en el Estado de Querétaro, deberá elaborar y aprobar su reglamento dentro de los tres meses siguientes a su instalación.
