@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-adquisiciones-del-estado-de-san-luis-potosi-12345"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "1997-01-29"
+last_updated: "2008-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSI
+LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el miércoles 29 de enero de 1997.
 
@@ -63,7 +63,9 @@ I.- Instituciones: las señaladas en el artículo anterior;
 
 II.- Organos de Control Interno, tratándose de:
 
-a) El Poder Legislativo: la Contaduría Mayor de Hacienda;
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+a) El Poder Legislativo: a través de la Contraloría Interna;
 
 b) El Poder Ejecutivo: la Coordinación General de Contraloría;
 
@@ -698,3 +700,9 @@ LIC. HORACIO SANCHEZ UNZUETA.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 DR. JESUS EDUARDO NOYOLA BERNAL.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE DICIEMBRE DE 2008.
+
+UNICO.- Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
