@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2007-12-17"
+last_updated: "2008-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -661,9 +661,9 @@ Las disposiciones mencionadas en el párrafo anterior se sujetarán a lo estable
 
 Son sujetos pasivos de este impuesto, las personas físicas, morales o unidades económicas que realicen las erogaciones a que se refiere el artículo anterior, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de Gobierno, aun cuando estos sujetos tengan su domicilio fuera del Estado.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-Cuando en la contratación de trabajadores para una persona física, moral o unidad económica, a fin de que ejecuten trabajos o presten servicios para su actividad, participe un intermediario laboral, cualquiera que sea la denominación que el patrón intermediario asuma, ambos serán responsables solidarios entre sí y en relación con el trabajador, respecto del cumplimiento de las obligaciones contenidas en esta Ley. Las personas físicas, morales, deberán de presentar aviso a la Secretaría de Hacienda durante los siguientes treinta días posteriores a la fecha del contrato suscrito, en el cual se especifique el nombre de su contratante, el domicilio en el cual se prestarán los servicios, el número de empleados y el monto de la operación contratada; así mismo cuando presenten su declaraciones periódicas por pago de este impuesto, deberán especificar por quién y por cuánto las realizan.
+Cuando en la contratación de trabajadores para una persona física, moral o unidad económica, a fin de que ejecuten trabajos o presten servicios para su actividad, participe un intermediario laboral, cualquiera que sea la denominación que el patrón intermediario asuma, ambos serán responsables solidarios entre sí y en relación con el trabajador, respecto del cumplimiento de las obligaciones contenidas en esta Ley. Las personas físicas, morales y unidades económicas que contraten los servicios de intermediarios laborales, deberán de presentar aviso a la Secretaría de Hacienda durante los siguientes treinta días posteriores a la fecha del contrato suscrito, en el cual por ambas partes involucradas se especifique el nombre o razón social, nombre comercial, registro federal de contribuyentes, domicilio fiscal designado como matriz en el Estado de Quintana Roo; así como el número de empleados, el monto de la operación contratada y la vigencia del contrato.
 
 #### SECCION SEGUNDA. DE LA BASE Y DE LA TASA
 
@@ -677,11 +677,11 @@ Será base de este impuesto, el total de las erogaciones efectuadas en términos
 
 El presente impuesto se causará y pagará a razón del 2% sobre la base gravable señalada en el artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-###### ARTÍCULO 43.
+###### ARTICULO 43.
 
-Las personas Físicas, Morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de gobierno, aún cuando estos sujetos tengan su domicilio fuera del Estado, deberán efectuar pagos mensuales mediante declaración provisional en las formas aprobadas por la propia Secretaría, a través de los medios electrónicos dispuestos por ésta mediante reglas de carácter general, en las fechas que les corresponda considerando el primer carácter alfabético del Registro Estatal de Contribuyentes, según el calendario que se señala a continuación:
+Las personas físicas, morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de Gobierno, aún cuando estos sujetos tengan su domicilio fuera del Estado, deberán efectuar pagos mensuales mediante declaración provisional en las formas aprobadas por la propia Secretaría, a través de los medios electrónicos dispuestos por ésta, mediante reglas de carácter general y presentada para su oportuno pago a través de bancos, ventanilla de la oficina recaudadora de rentas o transferencia de fondos en línea debidamente referenciada en las fechas que les corresponda considerando el primer carácter alfabético del Registro Estatal de Contribuyentes, según el calendario que se señala a continuación:
 
 LETRAS DEL FECHA DE PRESENTACIÓN
 
@@ -706,6 +706,10 @@ De la “O” a la “Z” A más tardar el día 23 del mes
 siguiente a aquel en que se
 
 efectuó la erogación.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+El comprobante de pago y/o declaración, solo serán válidos si contienen el número de folio, la referencia, el sello y firma del cajero, para los casos de las declaraciones presentadas y pagadas en bancos o ventanilla de la oficina recaudadora de rentas. Para el caso del pago a través de transferencia de fondos en línea, bastará con el acuse de recibo electrónico generado por el sistema.
 
 La obligación de presentar declaraciones de pagos provisionales subsistirá aún cuando no hubiese cantidad a cubrir.
 
@@ -825,9 +829,11 @@ IX.- Para los efectos previstos en el artículo 40 segundo párrafo de esta Ley,
 
 ###### ARTICULO 45.
 
-Los sujetos de este impuesto que tengan una o mas sucursales dentro del Estado, presentarán una sola declaración en la que concentrarán la totalidad de las erogaciones gravadas por este concepto. Cuando la oficina matriz no se encuentre dentro del Estado, deberá designarse mediante oficio dirigido al Secretario de Hacienda del Estado, la oficina Recaudadora de Rentas ante la cual se presentarán las declaraciones.
+Los sujetos de este impuesto que tengan una o más sucursales dentro del Estado, presentarán una sola declaración en la que concentrarán la totalidad de las erogaciones gravadas por este concepto. Cuando la oficina matriz no se encuentre dentro del Estado, deberá designarse mediante oficio dirigido al Secretario de Hacienda del Estado, la oficina Recaudadora de Rentas ante la cual se presentarán las declaraciones.
 
-En las declaraciones que se presenten en los términos del párrafo que antecede, deberán consignarse los datos concernientes al número de sucursales por las que se declarará y la ubicación de las mismas, así como el número de trabajadores por cada sucursal.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+En las declaraciones que se presenten en los términos del párrafo que antecede, deberán consignarse los datos concernientes al número de sucursales por las que se declarará y la ubicación de las mismas, así como el número de trabajadores por cada sucursal y los montos generados por cada una de ellas.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -2143,7 +2149,7 @@ El impuesto a que se refiere este capítulo se causará al momento en que se per
 
 ###### ARTICULO 168-E.
 
-Son sujetos del impuesto, las personas físicas, morales o unidades económicas que utilicen los servicios señalados en el artículo 168-A de esta Ley.
+Son sujetos del impuesto, las personas físicas, morales o unidades económicas que utilicen los servicios señalados en el artículo 168-A de esta ley.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
 
@@ -2479,7 +2485,7 @@ De segunda hasta 656 S.M.G 591 S.M.G
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-b).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo, exclusivamente con los alimentos
+b).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo, exclusivamente con los alimentos.
 
 ZONA ZONA
 
@@ -2605,9 +2611,9 @@ De segunda hasta 985 S.M.G. 656 S.M.G.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-j).-Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
+j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
 
-ZONA
+ZONA ZONA
 
 URBANA RURAL
 
@@ -2933,7 +2939,7 @@ IV.- Por la expedición de licencias de bebidas alcohólicas en los municipios d
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-a).- Venta de cervezas en envase abierto, exclusivamente los alimentos.
+a).- Venta de cervezas en envase abierto, exclusivamente con alimentos.
 
 ZONA ZONA
 
@@ -3061,15 +3067,17 @@ De segunda hasta 3,150 S.M.G. 2,520 S.M.G.
 
 j).-Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
 
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
 ZONA ZONA
 
 TURÍSTICA COMERCIAL
 
-De lujo hasta 5,040 S.M.G. 4,410 S.M.G.
+De lujo hasta 5,739 S.M.G. 4,914 S.M.G.
 
-De primera hasta 4,726 S.M.G. 4,096 S.M.G.
+De primera hasta 5,040 S.M.G. 4,410 S.M.G.
 
-De segunda hasta 5,739 S.M.G. 4,914 S.M.G.
+De segunda hasta 4,726 S.M.G. 4,096 S.M.G.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -3079,7 +3087,7 @@ Tratándose de cambios de denominación o razón social entre sociedades o por f
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-a).- Venta de cervezas en envase abierto, exclusivamente los alimentos.
+a).- Venta de cervezas en envase abierto, exclusivamente con alimentos.
 
 ZONA URBANA COMERCIAL
 
@@ -3935,9 +3943,9 @@ De primera hasta 1,470 S.M.G. 882 S.M.G.
 
 De segunda hasta 1,050 S.M.G. 630 S.M.G.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-VIII.- Por los cambios de licencias de bebidas alcohólicas en los municipios de Benito Juárez, Cozumel y Solidaridad por la:
+VIII.- Por cada cambio que se solicite para licencia de bebidas alcohólicas en los municipios de Benito Juárez, Cozumel, Solidaridad y Tulum, del Estado de Quintana Roo, por la:
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
@@ -4203,9 +4211,9 @@ De primera hasta 630 S.M.G. 378 S.M.G.
 
 De segunda hasta 526 S.M.G. 316 S.M.G.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-IX.- Por los cambios de municipio (sic) de las licencias de bebidas alcohólicas de Othón P. Blanco y Felipe Carrillo Puerto a Benito Juárez, Solidaridad y Cozumel, para la:
+IX.- Por los cambios de municipio de las licencias de bebidas alcohólicas de Othón P. Blanco y Felipe Carrillo Puerto a Benito Juárez, Solidaridad, Cozumel y Tulum, del Estado de Quintana Roo, para la:
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
@@ -4589,19 +4597,21 @@ De segunda hasta 1,208 S.M.G.
 
 j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
 
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
 ZONA ZONA
 
 HOTELERA COMERCIAL
 
-De lujo hasta 1,811 S.M.G. 1,837 S.M.G.
+De lujo hasta 1,837 S.M.G. 1,811 S.M.G.
 
-De primera hasta 1,798 S.M.G. 1,825 S.M.G.
+De primera hasta 1,825 S.M.G. 1,798 S.M.G.
 
-De segunda hasta 1,785 S.M.G. 1,811 S.M.G.
+De segunda hasta 1,811 S.M.G. 1,785 S.M.G.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-XI.- Por los cambios de municipio de las licencias de bebidas alcohólicas de José Ma. Morelos y Lázaro Cárdenas a Benito Juárez, Solidaridad y Cozumel, para la:
+XI.- Por los cambios de municipio de las licencias de bebidas alcohólicas de José Ma. Morelos y Lázaro Cárdenas a Benito Juárez, Solidaridad, Cozumel y Tulum, para la:
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
@@ -4787,15 +4797,17 @@ De segunda hasta 1,890 S.M.G.
 
 j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
 
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
 ZONA ZONA COMERCIAL
 
 HOTELERA
 
 De lujo hasta 3,150 S.M.G. 3,150 S.M.G.
 
-De primera hasta 2,836 S.M.G. 2,962 S.M.G.
+De primera hasta 2,962 S.M.G. 2,836 S.M.G.
 
-De segunda hasta 2,520 S.M.G. 2,834 S.M.G.
+De segunda hasta 2,834 S.M.G. 2,520 S.M.G.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -4995,6 +5007,10 @@ De primera hasta 2,206 S.M.G. 2,332 S.M.G.
 
 De segunda hasta 1,890 S.M.G. 2,204 S.M.G.
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+XIII.- El derecho por cambio de giro a otro corresponderá a la diferencia de salados mínimos entre el costo del giro autorizado y el giro al que solicita.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 170-A.
@@ -5174,6 +5190,10 @@ V.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
 VI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2002)
 
 VII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2002)
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+VIII.- Copia de la cédula catastral del inmueble en el que se encuentre el establecimiento.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -5865,13 +5885,17 @@ En el caso de las licencias únicas se cobrará un derecho equivalente a cada gi
 
 (DEROGADO, P.O. 20 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-###### ARTICULO 175.
+###### Artículo 175.
 
-Las licencias a que se refiere el Artículo 170-A y 170-D de esta Ley, deberán renovarse dentro de los primeros dos meses de cada año; para lo cual presentarán la solicitud en las formas que al efecto apruebe la Secretaría de Hacienda del Estado, a la que acompañarán los siguientes documentos:
+Las licencias a que se refiere el Artículo 170-A y 170-D de esta Ley, deberán refrendarse dentro de los primeros dos meses de cada año; para lo cual presentarán la solicitud en las formas que al efecto apruebe la Secretaría de Hacienda del Estado, a la que acompañarán los siguientes documentos:
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2007)</small>
 
 I.- Licencia de funcionamiento original del año inmediato anterior.
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2007)</small>
 
 II.- Copia de su último pago de impuesto sobre nóminas, impuesto por hospedaje o cualquier impuesto federal cuya administración y vigilancia haya sido transferida mediante convenio, al Estado o acreditar que se encuentran comprendidos en los supuestos del artículo 48 de esta Ley.
 
@@ -5879,9 +5903,13 @@ II.- Copia de su último pago de impuesto sobre nóminas, impuesto por hospedaje
 
 III.- Licencia de bebidas alcohólicas original para cotejo y copia.
 
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2007)</small>
+
 IV.- Y demás documentos que a juicio de la Secretaría de Hacienda del Estado juzguen necesarios, previa publicación que la misma haga con diez días hábiles de anticipación a la entrada en vigor del aumento de requisitos, en uno de los periódicos de mayor circulación en el Estado.
 
-Las licencias deberán tenerse en lugar visible en el establecimiento o local para el cual fueron expedidas.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+Las licencias deberán de exhibirse en lugar visible y a la vista del público en el establecimiento o local para el cual fueron expedidas.
 
 ### CAPITULO V. DE LOS RECARGOS Y SANCIONES
 
@@ -6393,7 +6421,7 @@ III.- Recibir y en su caso requerir los avisos, manifestaciones y demás documen
 
 IV.- Diseñar y emitir los formatos para control vehicular, que deberán contener como mínimo los requisitos que al efecto señale la Secretaría de Hacienda y Crédito Público.
 
-V.- Informar a la Secretaría de Hacienda y Crédito Público de los movimientos efectuados en el "Registro Estatal Vehícular' y reponer dicho registro en su totalidad, conforme a los medios magnéticos y periodicidad que establezca dicha Secretaría.
+V.- Informar a la Secretaría de Hacienda y Crédito Público de los movimientos efectuados en el "Registro Estatal Vehícular" y reponer dicho registro en su totalidad, conforme a los medios magnéticos y periodicidad que establezca dicha Secretaría.
 
 VI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
@@ -6495,9 +6523,9 @@ b).- Predios urbanos
 
 VIII.- Los servicios catastrales no previstos en esta tarifa, pagarán una cuota que no excederá del costo de los mismos, la que será fijada por el Gobierno del Estado.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-IX.- Cuando con motivo de la prestación de los servicios arriba señalados se eroguen gastos adicionales por traslado, alimentación, etc. deberán cubrir los mismos que no excederán del costo de los mismos.
+IX.- Cuando con motivo de la prestación de los servicios arriba señalados se eroguen gastos adicionales por traslado, alimentación, etc., el solicitante deberá cubrir el costo que al afecto determine el Estado a través de las tablas debidamente publicadas en el Periódico Oficial del Estado, previo a la prestación de los mismos o en su caso antes de la conclusión y/o entrega del documento oficial que sustente los trabajos realizados.
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -7091,6 +7119,8 @@ El pago de estos derechos deberá hacerse previamente a la prestación del servi
 
 ### CAPITULO XVII. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS AUTORIDADES DE LA SECRETARIA DE DESARROLLO URBANO Y MEDIO AMBIENTE
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
 #### SECCION SEGUNDA. VENTA DE SOLARES DEL FUNDO LEGAL
 
 ###### ARTICULO 201.
@@ -7677,33 +7707,29 @@ VI.- Se exceptúan del pago de los derechos de inscripción en el Registro Públ
 
 ###### ARTICULO 206.
 
-Por cada verificación obligatoria, que deberá efectuarse semestralmente, sobre emisión de contaminantes de un vehículo automotor, su propietario o poseedor deberá pagar previamente los derechos por los servicios de expedición de certificados de esta verificación, conforme a las siguientes cuotas:
+Por cada verificación vehicular, que deberá efectuarse sobre la emisión de contaminantes generados por los vehículos automotor, su propietario o poseedor deberá pagar los derechos, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+I.- Una verificación cada semestre a vehículos de uso intensivo con motor a gasolina, diesel, gas lp o cualquier otro tipo de combustible, incluyendo motocicletas: 4.0 S.M.G.
 
-I.- Vehículos con motor a gasolina incluyendo motocicletas. 2.88 S.M.G.
+II.- Una verificación anual a vehículos de uso particular con motor a gasolina, diesel, gas lp o cualquier otro tipo de combustible incluyendo motocicletas: 4.0 S.M.G.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+III.- Por la búsqueda y reposición de certificados y/o hologramas de verificación vehicular de emisión de contaminantes: 2.0 S.M.G.
 
-II.- Vehículos con motor a diesel. 3.45 S.M.G.
+El pago de los derechos a que se refiere este artículo, deberá realizarse de acuerdo a lo establecido en el Programa de Verificación Vehicular para el estado de Quintana Roo y Reglamento en Materia de Prevención y Control de la Contaminación Ambiental.
 
-III.- Por la búsqueda y reposición de certificados de verificación vehicular de emisión de contaminantes:
+Los sujetos pasivos de este derecho deberán presentar ante la Autoridad de Tránsito correspondiente, constancia sobre los resultados de la verificación del vehículo debidamente sellado y marcado por el centro de verificación vehicular autorizado por la Secretaría de Desarrollo Urbano y Medio Ambiente, a fin de que sea realizado el trámite de revalidación de vigencia de la matrícula vehicular.
 
-a) Cuando el interesado aporte los elementos necesarios para la localización del certificado correspondiente, tratándose de vehículos:
+IV.- El costo por el estudio, verificación del sitio y análisis de la documentación para obtener la concesión vehicular será de: 250 S.M.G.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+V.- El costo para obtener la concesión para la operación de un centro de verificación vehicular será de: 2,000 S.M.G.
 
-1.- Vehículos con motor a gasolina y diesel incluyendo motocicletas 2.30 S.M.G
+VI.- El costo para obtener el refrendo anual para la operación del centro dé verificación vehicular concesionado será de: 800 S.M.G.
 
-b) Cuando el interesado no aporte los elementos necesarios para la localización del certificado correspondiente, se cobrará una cuota adicional a la anterior, que será de, tratándose de vehículos:
+VII.- El costo para obtener la calcomanía y su constancia de baja emisión de contaminantes será de.0.60 S.M.G.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+VIII.- El costo para obtener la Hoja de Rechazo será de 0.50 S.M.G.
 
-1.- Vehículos con motor a gasolina incluyendo motocicletas 2.30 S.M.G.
-
-El pago de los derechos a que se refiere este artículo, deberá realizarse semestralmente en los meses de enero, febrero y marzo y para el primero, y en los meses de julio, agosto y septiembre para el segundo semestre de cada año.
-
-Los sujetos pasivos de este derecho deberán presentar ante la Autoridad de Tránsito correspondiente, el comprobante debidamente sellado y marcado con la máquina registradora de la oficina recaudadora de rentas o del centro de verificación al efecto autorizado a fin de que sea tramitada su revista mecánica.
+Únicamente los concesionarios de los centros de verificación vehicular autorizados por la Secretaría de Desarrollo Urbano y Medio Ambiente en el Estado de Quintana Roo, podrán obtener dichas Hojas de rechazo y calcomanías con sus respectivas constancias de baja emisión de contaminantes.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -7725,9 +7751,9 @@ d).- Estudios de riesgo 120 S.M.G.
 
 e).- Aclaraciones, rectificaciones o ampliaciones al contenido de la manifestación de impacto ambiental y/o informe preventivo. 80 S.M.G.
 
-f).- Estudios de emisiones a la atmosfera. 190 S.M.G.
+f).- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-g).- Auditorías ambientales. 440 S.M.G.
+g).- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 II.- Por los servicios relacionados con la materia de impacto ambiental como a continuación se indica:
 
@@ -7744,6 +7770,78 @@ e).- Ingreso al Registro de Prestadores de Servicio en Materia de Impacto Ambien
 f).- Expedición de Refrendo del Registro de Prestadores de Servicio en Materia de impacto Ambiental del Gobierno del Estado de Quintana Roo: 50 S.M.G.
 
 g).- Por concepto de verificación e inspección de áreas, predios y obras: 60 S.M.G.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 206
+
+TER.- Por los servicios que en materia de Prevención y Control de la Contaminación Ambiental presta la Secretaría de Desarrollo Urbano y Medio Ambiente, conforme al reglamento en la materia, las personas físicas y morales pagarán un derecho conforme a la siguiente:
+
+TARIFA
+
+I.- Por concepto de recepción y evaluación de los documentos que se en listan a continuación:
+
+a).- Estudios de emisiones a la atmósfera: 190 S.M.G.
+
+b).- Auditorias ambientales: 440 S.M.G.
+
+c).- Aclaraciones, rectificaciones o ampliaciones al contenido de los estudios de emisiones a la atmósfera y auditorias ambientales: 80 S.M.G.
+
+II.- Por los servicios relacionados con la materia de Prevención y Control de la Contaminación Ambiental como a continuación se indica:
+
+a).- Expedición anual del permiso por vehículo automotor para el transporte de Aguas Residuales y Aguas Residuales Tratadas: 25 S.M.G.
+
+b).- Disposición final y tratamiento por metro cúbico de Agua Residual en las Plantas de Tratamiento de Aguas Residuales operadas por el Gobierno del Estado a través de su organismo operador o sistemas concesionados: 0.10 S.M.G.
+
+c).- Expedición anual del permiso por vehículo automotor para el transporte de sustancias contenidas dentro del Listado de Actividades Riesgosas para el Estado de Quintana Roo: 50 S.M.G.
+
+d).- Expedición anual del permiso por vehículo automotor para el transporte de Materiales y Residuos Peligrosos de Competencia Estatal: 50 S.M.G.
+
+e).- Expedición de la exención de la presentación de los estudios de emisiones a la atmósfera: 100 S.M.G.
+
+f).- Ingreso al Registro de Prestadores de Servicio en Materia de Prevención y Control de la Contaminación Ambiental del Gobierno del Estado de Quintana Roo: 200 S.M.G.
+
+g).- Inscripción al Curso de Capacitación en Materia de Prevención y Control de la Contaminación Ambiental por especialidad:
+
+1.- Contaminación Acuática y Control: 50 S.M.G.
+
+2.- Contaminación del Suelo y Control: 50 S.M.G.
+
+3.- Contaminación del Aire y Control: 50 S.M.G.
+
+h).- Expedición de Refrendo del Registro de Prestadores de Servicio en Materia de Prevención y Control de la Contaminación Ambiental del Gobierno del Estado de Quintana Roo: 150 S.M.G.
+
+i).- Por concepto de verificación e inspección de las instalaciones de las fuentes fijas de competencia estatal: 60. S.M.G
+
+j).- Por concepto de autorización de la licencia de funcionamiento ambiental (LFA): 150 S.M.G.
+
+k).- Por concepto de Refrendo de lo Licencia de Funcionamiento Ambiental (LFA): 50 S.M.G.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 206
+
+QUÁTER.- Por el concepto de cobro por ingreso y servicios en las Áreas Naturales Protegidas Estatales (ANP`s) que presta la Secretaría de Desarrollo Urbano y Medio Ambiente, las personas físicas y morales pagarán un derecho conforme a la siguiente:
+
+TARIFA
+
+Por concepto de ingreso a los ANP's estatales y de servicios otorgados a los usuarios, como lo son visitas guiadas, uso de infraestructura, sanitarios y otros de acuerdo a la siguiente clasificación:
+
+a).- Quintanarroenses: 0.30 S.M.G.
+
+b).- Nacionales: 0.50 S.M.G.
+
+c).- Extranjeros: 1.0 S.M.G.
+
+Por concepto de estudios de investigación que se vayan a efectuar dentro de las ANP's por las instituciones académicas y de investigación, nacionales o extranjeras: 3 S.M.G.
+
+Por concepto de filmaciones y sesiones fotográficas con fines comerciales: 160 S.M.G.
+
+Por concesiones anuales a prestadores de servicios náuticos, acuático-recreativos, de ecoturismo de bajo impacto: 380 S.M.G.
+
+Por concesiones anuales a comerciantes de artesanías, manualidades, de alimentos y bebidas: 380 S.M.G.
+
+Por el uso de la imagen de las ANP's y sus recursos: 380 S.M.G.
 
 ### CAPITULO XVIII (SIC). DE LA PRESTACION DE SEGURIDAD PUBLICA
 
@@ -7953,6 +8051,16 @@ Los derechos de inspección y vigilancia por cada ciclo escolar o semestre, debe
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
+###### ARTICULO 207
+
+Ñ.- Los derechos por los servicios que presta la Secretaría de Infraestructura y Transporte, se pagarán conforme a la siguiente:
+
+TARIFA
+
+I.- Por la Inscripción anual al Padrón de contratistas del Estado de Quintana Roo: 15 S.M.G.
+
+II.- Por concepto de renovación de la inscripción: 10 S.M.G.
+
 ### CAPITULO XXII. DE LOS SERVICIOS QUE PRESTA LA UNIDAD DE VINCULACION
 
 ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)
@@ -8019,7 +8127,9 @@ Por registro de patente de notario público pagará 75 S.M.G.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO UNICO
+### CAPITULO XXIV. DE LOS SERVICIOS QUE OTORGA LA SECRETARIA DE INFRESTRUCTURA (SIC) Y TRANSPORTE
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 207-M.
 
@@ -8057,9 +8167,13 @@ En la expedición de copias simples, el cobro a que se refiere la fracción I se
 
 En la expedición de copias certificadas, independientemente del número de fotocopias, además del precio de la copia a que se refieren las fracciones I y II de este artículo, se realizará el pago a que se refiere la fracción IV del artículo 188 de esta Ley.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+Para el envío de documentos o de material que contenga información a través de correo certificado o mensajería, además del pago del derecho a que se refieren las fracciones I, II, III, IV y V, el solicitante deberá cubrir el costo del servicio respectivo, según la tarifa que corresponda.
+
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES DE LOS RECARGOS
+### CAPITULO UNICO
 
 ###### ARTICULO 207-N.
 
@@ -8069,33 +8183,69 @@ TARIFA
 
 I.- Por la renta de espacios pertenecientes a la Secretaría de Cultura se cobrará de acuerdo a la siguiente tarifa:
 
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
 En la Zona Sur:
 
-Teatro Constituyentes del 74 De 105 Por día
+a).- Teatro Constituyentes De 105 S.M.G Por día
 
-S.M.G. hasta
+del 74. hasta 420 S.M.G.
 
-420 S.M.G.
+b).- Teatro Minerva. 50 S.M.G Por día
 
-Teatro Minerva 50 S.M.G. Por día
+c).- Salón Latinoamericano. 75 S.M.G. Por día
 
-Salón Latinoamericano 75 S.M.G. Por día
+d).- Auditorio de la casa
 
-Auditorio de la casa de la
+de la Cultura en Cancún. 65 S.M.G. Por día
 
-Cultura en Cancún 65 S.M.G. Por día
+f) (sic).- Salón de
 
-Salón de Conferencias
+Conferencias de la Cultura
 
-de la Cultura en Cancún 40 S.M.G. Por día
+en Cancún. 50 S.M.G. Por día
 
-Cafetería de la Cultura
+g).- Cafetería de la Cultura
 
-en Cancún 30 S.M.G. Por día
+en Cancún. 30 S.M.G. Por mes
 
-Salón de danzas de la
+h).- Salón de danzas de la
 
-Cultura en Cancún 10 S.M.G. Por mes
+Cultura en Cancún. 10 S.M.G. 30 horas
+
+i).- Jardín del Arte. 40 S.M.G. Por evento
+
+j).- Auditorio del Museo de
+
+la Cultura Maya. 50 S.M.G. Por evento
+
+k).- Poliforum. 50 S.M.G. Por evento
+
+l) Galería de la Casa de
+
+la Cultura de Cozumel. 30 S.M.G. Por evento
+
+m).- Auditorio del Fuerte
+
+de San Felipe de Bacalar. 20 S.M.G. Por evento
+
+n).- Cafetería de Jardín
+
+del Arte. 30 S.M.G. Por mes
+
+o).- Plazoleta al aire libre
+
+de la Casa de la Cultura
+
+de Chetumal. 20 S.M.G, Por evento
+
+p).- Foro de la Casa de la
+
+Cultura de Chetumal. 10 S.M.G. Por evento.
+
+q).- Cafetería de la Casa
+
+de la Cultura ce Chetumal. 30 S.M.G. Por mes
 
 II.- Por el uso de la casa
 
@@ -8103,145 +8253,147 @@ Internacional del escritor 6 S.M.G. por persona
 
 III.- Por cada función
 
-En cine café 0.32 S.M.G. por persona
+en cine café 0.32 S.M.G. por persona
 
-IV.- Por visita a los museos se cobrará de acuerdo a la siguiente tarifa:
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+IV.- Por cada función en el Teatro Constituyentes del 74 0.4 S.M.G. a 2.00 S.M.G.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+V.- Por cada función en la Plaza Central de la Casa de lo Cultura de Cancún 0.20 S.M.G. a 2.00 S.M.G.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+VI.- Por visita a los museos se cobrará de acuerdo a la siguiente tarifa:
 
 Museos Niños Adultos Extranjeros
 
-a).- Cultura Maya 0.21 S.M.G. 0.42 S.M.G. 1.00 S.M.G.
+a).- Cultura Maya. 0.21 S.M.G. 0.42 S.M.G. 1.00 S.M.G.
 
-b).- San Felipe de
+b).- San Felipe Bacalar 0.21 S.M.G. 0.42 S.M.G. 1.00 S.M.G.
 
-Bacalar 0.21 S.M.G. 0.42 S.M.G. 1.00 S.M.G.
-
-c).- Guerra de
-
-Castas 0.10 S.M.G. 0.21 S.M.G. 1.00 S.M.G.
+c).- Guerra de Castas 0.10 S.M.G. 0.21 S.M.G. 1.00 S.M.G.
 
 d).- De la Ciudad 0.10 S.M.G. 0.21 S.M.G. 1.00 S.M.G.
 
-Las tarifas contempladas en la tabla anterior, serán reducidas en un 50% para estudiantes con credencial vigente, y para las personas con credencial del INSEN a excepción de extranjeros, de lunes a sábado, salvo los días domingo que estarán exentos de pago los visitantes que residan en el Estado.
+Las tarifas contempladas en la tabla anterior, serán reducidas en un 50%, para estudiantes con credencial vigente, y para las personas con credencial del INSEN a excepción de extranjeros, de lunes a sábado, salvo los días domingo que estarán exentos de, pago los visitantes que residan en el Estado.
 
-V.- Por el acceso a la educación que imparten las escuelas estatales, se cobrará de acuerdo a la siguiente tarifa:
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+VII.- Por el acceso a la educación que imparten las escuelas estatales, se cobrará de acuerdo a la siguiente tarifa:
 
 Por inscripción Por mensualidad
 
-a).- De música Carrera 2.75 S.M.G. carrera 2.75 S.M.G.
+a).- De música Carrera: 2.75 S.M.G. Carrera: 2.75 S.M.G.
 
-Taller: 2.00 S.M.G. taller 2.00 S.M.G.
+Taller: 2.00 S.M.G. Taller: 2.00 S.M.G.
 
-b).- De danza 3.00 S.M.G. Aerodance, yoga
+b).- De danza 3.0 S.M.G. Aerodance, yoga y
 
-y ballet 4.25 S.M.G.
+ballet Danzo y
 
-Danza y Jazz
+Jazz:3.00 S.M.G.
 
-3.00 S.M.G
+Sensibilización y jardín
 
-Sensibilización y
+de danza: 2.00 S.M.G.
 
-jardín de danza
+c).-De artes
 
-2.00 S.M.G.
+plásticas 1.00 S.M.G. Taller de dibujo
 
-c).- De artes plásticas Taller de dibujo y
+y pintura: 1.00 S.M.G.
 
-pintura 1.00 S.M.G.
+2.00 S.M.G. Artes plásticas: 2.00
 
-Artes plásticas
+S.M.G.
 
-2.00 S.M.G.
+1.00 S.M.G. Taller juvenil de
 
-Taller juvenil de
+teatro: 1.00 S.M.G.
 
-Teatro 1.00 S.M.G.
+Exento Curso avanzado de
 
-Curso avanzado de
+artes plásticas:12.5
 
-artes plásticas
+S.M.G.
 
-12.5 S.M.G.
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-VI.- Por el acceso a la educación que imparten las casas de la cultura en el Estado, se cobrará de acuerdo a la siguiente tarifa:
+VIII.- Por el acceso a la educación que imparten las casas de la cultura en el Estado, se cobrará de acuerdo a la siguiente tarifa:
 
 ZONA NORTE
 
-Inscripción Mensualidad
+Por inscripción Por mensualidad
 
-a).- en Cancún 3.00 S.M.G. Lengua Maya 4.25 S.M.G.
+a).-En Cancún 3.00 S.M.G. Lengua Maya: 4.25 S.M.G.
 
-Inicio de música
-
-7.25 S.M.G.
+Inicio de música: 7.25 S.M.G.
 
 Jazz, danza, dibujo, ballet,
 
-Música 8.50 S.M.G.
+música: 8.50 S.M.G.
 
-Ballet 1, tango argentino
+Ballet 1, tango argentino:
 
 10 S.M.G.
 
 Inicio de artística, dibujo y
 
-pintura 10.50 S.M.G.
+pintura: 10.5 S.M.G.
 
-Piano, vitral,
+Piano, vitral, cinematografía:
 
-Cinematrografía
+12.50 S.M.G.
 
-b).- en cozumel 3.00 S.M.G. Ballet, jazz, bailes
+b).-En Cozumel 3.0 S.M.G. Ballet, jazz, bailes modernos,
 
-modernos, piano, guitarra,
+piano, guitarra, batería, canto,
 
-batería, canto, pintura,
+pintura, hawaiano, folklore,
 
-hawaiano, folklore, salsa,
-
-gimnasia y ajdedrez
+salsa, gimnasia y ajedrez:
 
 5.25 S.M.G.
 
-Danza y karate 6.25 S.M.G.
+Danza y karate: 6.25 S.M.G.
 
-c).- en tulum Tae Kwon Do Bordado, danza, música,
+c).- En Tulum Tae Kwon Do: Bordado, danza, música,
 
-4.25 S.M.G. artes plásticas, global
+200 S.M.G. artes plásticas, global,
 
-internacional 1.00 S.M.G.
+Internacional: 1.00 S.M.G.
 
-Bordado, danza Tae Kwon Do e inglés
+Bordado, danza,
 
-Música, artes 6.25 S.M.G.
+música, artes
 
-Plásticas 1.00
+plásticas: 1.00 Tae Kwon Do e inglés: 6.25
 
-S.M.G.
+S.M.G. S.M.G.
 
-Secretarial 13.50
-
-S.M.G.
+Secretarial: 13.50 S.M.G.
 
 En lo relativo a la impartición de los talleres de Lengua Maya, la Secretaría deberá contemplar espacios disponibles de manera gratuita, a favor de personas mexicanas que residan en el Estado.
 
 ZONA SUR
 
-Inscripción Mensualidad
+Por inscripción Por mensualidad
 
-a).- en Chetumal 1.50 S.M.G. 3.00 S.M.G.
+a).- en Chetumal. 1.50 S.M.G. 3.00 S.M.G.
 
-b).- en Calderitas 0.65 S.M.G. 0.25 S.M.G.
+b).- en Calderitas. 0.65 S.M.G. 0.25 S.M.G.
 
-c).- en Bacalar exento 1.00 S.M.G.
+c).- en Bacalar. exento 1.00 S.M.G.
 
-d).- Felipe C.
+d).- Felipe C. Puerto. 1.00 S.M.G. 2.00 S.M.G.
 
-Puerto 1.00 S.MG. 2.00 S.M.G.
+e).- Chunhuhub. exento exento
 
-e.- Chunhuhub exento exento
+Con respecto a las tarifas de la tabla anterior, la Secretaría deberá contemplar espacios disponibles de manera gratuita a favor de personas mexicanas que residan en el Estado.
 
-Con respecto a las tarifas de la tabla anterior, la Secretaría deberá contemplar espacios disponibles de manera gratuita, a favor de personas mexicanas que residan en el Estado.
+### CAPITULO I. DISPOSICIONES GENERALES DE LOS RECARGOS
 
 ### CAPITULO II. CONTRIBUCIONES GENERADAS EN EJERCICIOS ANTERIORES
 
@@ -8257,23 +8409,25 @@ Con respecto a las tarifas de la tabla anterior, la Secretaría deberá contempl
 
 ### CAPITULO UNICO
 
-### CAPITULO I. INGRESOS FEDERALES POR COORDINACION
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
 #### SECCION SEXTA. IMPRENTA DE GOBIERNO
 
 #### SECCION SEPTIMA. PUBLICACIONES OFICIALES
+
+### CAPITULO I. INGRESOS FEDERALES POR COORDINACION
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO II. INGRESOS MUNICIPALES POR COORDINACION
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
+## TITULO IV. DE LOS PRODUCTOS
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
 ### CAPITULO UNICO
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-## TITULO IV. DE LOS PRODUCTOS
 
 #### SECCION OCTAVA
 
@@ -8344,6 +8498,10 @@ VIII. Búsqueda de publicación 1.00 S.M.G.
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
 
 IX. Publicaciones extraordinarias menos de 5 hojas 119.00 S.M.G.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+X. Número especial de más de 200 hojas: 9.00 S.M.G.
 
 El pago de los productos anteriores se harán por adelantado en las oficinas recaudadoras de rentas del Estado.
 
@@ -9154,3 +9312,77 @@ Tercero.- Se dejan sin efecto todas las disposiciones legales de que se opongan 
 > <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 Cuarto.- El presente Decreto entrará en vigor a partir del 1° de enero de 2008, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2008.
+
+PRIMERO.- En tanto el Estado de Quintana Roo, permanezca adherido al Sistema Nacional de Coordinación Fiscal, suscrito mediante Convenio y Anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en, suspenso los siguientes impuestos y derechos:
+
+I.- IMPUESTOS:
+
+1.- Al comercio y la industria.
+
+2.- Sobre productos y rendimientos de capital de manera parcial.
+
+3.- Sobre la enajenación de vehículos de motor y bienes muebles entre particulares de manera parcial.
+
+4.- Sobre la compraventa de primera mano de productos agrícolas.
+
+5.- Sobre producción de azúcar, piloncillo y mieles cristalizables incristalizables.
+
+6.- Sobre compraventa de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+7.- Sobre la cría de ganado.
+
+8.- Sobre compraventa o permuta de ganado o sus esquilmos.
+
+9.- Al libre ejercicio de profesiones y actividades lucrativos de manera parcial.
+
+10.- Sobre explotación y venta de primera mano de diversos materiales para la construcción.
+
+II.- DERECHOS:
+
+A).- Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales e industriales y de prestación de servicios. Así mismo, los que resulten como consecuencia de permitir o tolerar las excepciones a una disposición administrativa tales como lo ampliación de horario, con excepción de los siguientes numerales:
+
+1. Licencias de construcción.
+
+2. Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+3. Licencias para fraccionar o lotificar terrenos.
+
+4. Licencias para conducir vehículos.
+
+5. Expedición de placas y tarjetas para la circulación de vehículos.
+
+6. Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+7. Licencias, permisos o autorizaciones para la colocación de anuncios o carteles para la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+B).- Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+1.- Registro Civil.
+
+2.- Registro público de la propiedad y del comercio.
+
+C).- Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+D). Actos de inspección y vigilancia.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto cuando se trate de derechos diferenciales por los conceptos a los que se refieren los numerales del 1 al 7 del inciso A) y el inciso C).
+
+Las certificaciones de documentos, así como la reposición de estos por extravío o destrucción parcial o total, no quedarán comprendidas dentro de lo dispuesto en los incisos A) y B) de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
+
+En ningún caso lo dispuesto en este artículo, limitará la facultad de los Estados y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+SEGUNDO.- Tratándose de empresas dedicadas a la construcción, que deseen efectuar la contribución del impuesto en una sola exhibición en forma anticipada, siempre y cuando se trate de obra privada, se aplicarán los valores y porcentajes publicados en el Diario Oficial de la Federación, del costo de mano de obra por metro cuadrado para obra privada, mismos que se publican de forma anual a petición de la Dirección de Afiliación y Cobranza del Instituto Mexicano del Seguro Social.
+
+TERCERO.- Para lo dispuesto en la fracción VIII del artículo 172, se concede un plazo de 6 meses para que todos los contribuyentes que previo a la entrada en vigor del presente Decreto hayan obtenido sus respectivas licencias de funcionamiento de sus establecimientos, presenten ante las oficinas recaudadoras que corresponda, la documentación indicada en dicho precepto legal.
+
+CUARTO.- Se dejan sin efecto todas las disposiciones legales de que se opongan al presente Decreto.
+
+QUINTO.- El presente Decreto entrará en vigor a partir del 1o. de Enero de 2009, previa publicación en el Periódico Oficial del Estado.
