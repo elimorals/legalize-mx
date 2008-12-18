@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-servicios-educativos-integrados-al-32011
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-10"
-last_updated: "2008-12-17"
+last_updated: "2008-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 10 de junio de 2003.
 
@@ -151,33 +151,41 @@ I. Dirigir técnica y administrativamente a SEIEM;
 
 II. Otorgar, negar y revocar la autorización a los particulares para impartir educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, de conformidad con las disposiciones aplicables;
 
-III. Someter a la aprobación del Consejo Directivo los proyectos de reglamentos, estatutos, acuerdos y demás disposiciones de carácter general de SEIEM;
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-IV. Ejecutar los acuerdos y disposiciones del Consejo Directivo, dictando las medidas necesarias para su cumplimiento;
+III. Otorgar, negar y retirar el Reconocimiento de Validez Oficial de Estudios a los particulares que impartan estudios de educación inicial en el Subsistema Educativo Federalizado y ordenar su publicación en el periódico oficial "Gaceta del Gobierno";
 
-V. Aceptar las donaciones, legados y demás bienes que se otorguen a favor de SEIEM, informando de ello al Consejo Directivo;
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-VI. Someter a la aprobación del Consejo Directivo las propuestas de modificación a la estructura orgánica de SEIEM;
+IV. Establecer la política en materia de incorporación de escuelas particulares al Subsistema Educativo Federalizado y los mecanismos para su aplicación y supervisión.
 
-VII. Autorizar los manuales administrativos de SEIEM, de conformidad con las disposiciones establecidas por la Secretaría de Administración;
+V. Someter a la aprobación del Consejo Directivo los proyectos de reglamentos, estatutos, acuerdos y demás disposiciones de carácter general de SEIEM;
 
-VIII. Promover acciones de modernización administrativa para elevar la calidad de los servicios que presta SEIEM;
+VI. Ejecutar los acuerdos y disposiciones del Consejo Directivo, dictando las medidas necesarias para su cumplimiento;
 
-IX. Establecer los lineamientos para difundir los servicios que presta SEIEM, en coordinación con las instancias competentes;
+VII. Aceptar las donaciones, legados y demás bienes que se otorguen a favor de SEIEM, informando de ello al Consejo Directivo;
 
-X. Autorizar con su firma las asignaciones, permisos y autorizaciones que le competan;
+VIII. Someter a la aprobación del Consejo Directivo las propuestas de modificación a la estructura orgánica de SEIEM;
 
-XI. Suscribir diplomas, títulos y grados académicos de los servicios de educación superior que otorga SEIEM;
+IX. Autorizar los manuales administrativos de SEIEM, de conformidad con las disposiciones establecidas por la Secretaría de Administración;
 
-XII. Solicitar a la Contraloría Interna de SEIEM la práctica de supervisiones, revisiones y auditorías a las unidades administrativas del Organismo;
+X. Promover acciones de modernización administrativa para elevar la calidad de los servicios que presta SEIEM;
 
-XIII. Delegar en los servidores públicos subalternos las atribuciones que por su naturaleza sean delegables, sin perder por ello la posibilidad de su ejercicio directo;
+XI. Establecer los lineamientos para difundir los servicios que presta SEIEM, en coordinación con las instancias competentes;
 
-XIV. Promover y vigilar que las actividades de las unidades administrativas de SEIEM se realicen de manera coordinada;
+XII. Autorizar con su firma las asignaciones, permisos y autorizaciones que le competan;
 
-XV. Resolver las dudas que se susciten con motivo de la interpretación y aplicación de este Reglamento, así como los casos no previstos en el mismo; y
+XIII. Suscribir diplomas, títulos y grados académicos de los servicios de educación superior que otorga SEIEM;
 
-XVI. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Consejo Directivo.
+XIV. Solicitar a la Contraloría Interna de SEIEM la práctica de supervisiones, revisiones y auditorías a las unidades administrativas del Organismo;
+
+XV. Delegar en los servidores públicos subalternos las atribuciones que por su naturaleza sean delegables, sin perder por ello la posibilidad de su ejercicio directo;
+
+XVI. Promover y vigilar que las actividades de las unidades administrativas de SEIEM se realicen de manera coordinada;
+
+XVII. Resolver las dudas que se susciten con motivo de la interpretación y aplicación de este Reglamento, así como los casos no previstos en el mismo; y
+
+XVIII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Consejo Directivo.
 
 ###### Artículo 15.
 
@@ -349,13 +357,9 @@ IV. Elaborar los programas de creación, ampliación, consolidación, sustituci�
 
 V. Realizar, en el ámbito de su competencia, la revalidación y equivalencia de estudios de acuerdo con las disposiciones legales en la materia;
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO PUBLICADO EN LA G.G. DE 17 DE DICIEMBRE DE 2008, SE DEJA SIN EFECTOS EL DIVERSO PUBLICADO EL 20 DE NOVIEMBRE DE 2008; MOTIVO POR EL CUAL SE DEJA EL TEXTO ORIGINAL DE LA PRESENTE FRACCION.</small>
+VI. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008)
 
-VI. Definir la política en materia de incorporación de planteles educativos al subsistema educativo federalizado y los mecanismos para su supervisión;
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO PUBLICADO EN LA G.G. DE 17 DE DICIEMBRE DE 2008, SE DEJA SIN EFECTOS EL DIVERSO PUBLICADO EL 20 DE NOVIEMBRE DE 2008; MOTIVO POR EL CUAL SE DEJA EL TEXTO ORIGINAL DE LA PRESENTE FRACCION.</small>
-
-VII. Elaborar y someter a la consideración del Director General proyectos de acuerdo para otorgar, negar y revocar la autorización a los particulares para impartir educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica;
+VII. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008)
 
 VIII. Establecer los lineamientos para la acreditación y certificación de estudios a cargo de SEIEM;
 
@@ -363,7 +367,7 @@ IX. Definir las estrategias para la distribución de los libros de texto a cargo
 
 X. Organizar, dirigir y controlar los procedimientos de registro y certificación escolar en sus diferentes tipos, niveles y modalidades;
 
-XI. Dirigir, operar y controlar, en el ámbito de su competencia, la asignación de becas, de conformidad con las disposiciones en la materia;
+XI. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008)
 
 XII. Evaluar el cumplimiento de los programas y proyectos a cargo de las unidades administrativas de SEIEM;
 
@@ -649,9 +653,23 @@ XIII. Verificar la situación legal del personal extranjero que presta o pretend
 
 XIV. Determinar la procedencia legal de la corrección de certificados de estudios; y
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO PUBLICADO EN LA G.G. DE 17 DE DICIEMBRE DE 2008, SE DEJA SIN EFECTOS EL DIVERSO PUBLICADO EL 20 DE NOVIEMBRE DE 2008; MOTIVO POR EL CUAL SE DEJA EL TEXTO ORIGINAL DE LA PRESENTE FRACCION.</small>
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-XV. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el
+XV. Proponer al Director General la política en materia de incorporación de escuelas particulares al Subsistema Educativo Federalizado y los mecanismos para su aplicación y supervisión correspondientes a los niveles educativos;
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XVI. Someter a la consideración del Director General proyectos de acuerdo para otorgar, negar y retirar el Reconocimiento de Validez Oficial de Estudios a los particulares para impartir educación inicial y proyectos de acuerdo para otorgar, negar y revocar la autorización a los particulares para impartir educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica;
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XVII. Aplicar las sanciones correspondientes a que se refieren el Reglamento General de Servicios Educativos Incorporados del Estado de México y los Acuerdos Específicos por los que se establecen los trámites y procedimientos relacionados con la autorización a particulares para impartir educación inicial, preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica en el Subsistema Educativo Federalizado;
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XVIII. Dirigir, vigilar y controlar la asignación de becas de las escuelas particulares incorporadas al Subsistema Educativo Federalizado, en términos de las disposiciones aplicables en la materia; y
+
+XIX. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el
 
 Director General.
 
@@ -711,9 +729,7 @@ Aprobado por el Consejo Directivo de Servicios Educativos Integrados al Estado d
 
 ING. ALBERTO CURI NAIME
 
-SECRETARIO DE EDUCACION, CULTURA Y BIENESTAR SOCIAL Y
-
-PRESIDENTE DEL CONSEJO DIRECTIVO
+SECRETARIO DE EDUCACION, CULTURA Y BIENESTAR SOCIAL Y PRESIDENTE DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
 
