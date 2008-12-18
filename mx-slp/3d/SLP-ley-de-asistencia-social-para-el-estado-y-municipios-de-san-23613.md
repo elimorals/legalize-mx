@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asistencia-social-para-el-estado-y-municipios-de-san-236
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-19"
-last_updated: "2008-10-04"
+last_updated: "2008-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de enero de 2002.
 
@@ -1113,6 +1113,12 @@ El DIF Estatal con el objeto de garantizar la permanente calidad en la prestaci�
 
 La certificación y recertificación será un criterio fundamental para la orientación de los recursos públicos que destine el Gobierno del Estado a instituciones de asistencia privada.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 76 BIS. Las instituciones privadas autorizadas, a quienes, en los términos de la Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí, les sean conferidos menores para promover su adopción, contarán con un Consejo Interno de Adopciones, en el que deberá participar el Ministerio Público, y la autoridad rectora de la asistencia social en el Estado, quien vigilará la aplicación de las políticas que sobre la materia establezca ese organismo.
+
 ### CAPITULO V. De los Estímulos y Reconocimientos
 
 ###### ARTICULO 77.
@@ -1256,3 +1262,11 @@ P.O. 4 DE OCTUBRE DE 2008.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que ese (sic) opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2008.
+
+PRIMERO. Este Decreto entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Todos los procedimientos, recursos administrativos y demás asuntos relacionados con la materia familiar a que refiere el Código Civil para el Estado de San Luis Potosí, iniciados con anterioridad a la entrada en vigor a este Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
