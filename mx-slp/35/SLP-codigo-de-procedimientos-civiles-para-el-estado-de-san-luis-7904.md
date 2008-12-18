@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2007-11-13"
+last_updated: "2008-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2008.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -901,9 +901,9 @@ ART. 208.- En la resolución se señalará el término de que dispondrá el soli
 
 ART. 209.- En la misma resolución ordenará la notificación al otro cónyuge, previniéndolo que se abstenga de impedir la separación o causar molestias a su cónyuge, bajo el apercibimiento de procederse en su contra en los términos a que hubiere lugar.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-ART. 210.- El Juez determinará la situación de los hijos menores atendiendo a las circunstancias del caso, tomando en cuenta las obligaciones señaladas en el Artículo 150 del Código Civil, las propuestas de los cónyuges, si las hubiere, y lo dispuesto por la Fracción VI del Artículo 243 del mismo Código.
+ART. 210.- La autoridad judicial determinará la situación de las hijas o hijos menores atendiendo a las circunstancias del caso, tomando en cuenta las obligaciones señaladas en el artículo 31 del Código Familiar para el Estado; las propuestas de los cónyuges, si las hubiera; y lo dispuesto por el artículo 555 de este Código.
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
 
@@ -1711,7 +1711,9 @@ XX.- Los demás en que así lo determine la Ley.
 
 ART. 415.- Para los efectos de la fracción I del artículo anterior, se estará a lo dispuesto en los artículos 156 y 157 de este Código. Si en la demanda no se fija el valor del negocio, se tendrá como tal el que aparezca en los documentos en que se funde la acción; y si tampoco aparece de ellos, el juez prevendrá al actor que precise el interés de su reclamación, cuando éste sea susceptible de estimación pecuniaria, sin cuyo requisito no dará curso a la demanda.
 
-ART. 416.- En los juicios extraordinarios, el término para contestar la demanda será de tres días, el de ofrecimiento de pruebas de cinco, el de recepción de las mismas de quince, el de alegar de cinco para cada parte y de cinco para que el juez dicte la sentencia.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 416.- Los interdictos proceden, asimismo, para los efectos que expresa el artículo 202 del Código Familiar para el Estado, en los casos de la segunda parte del artículo 24 de este Código.
 
 ART. 417.- Las reglas del juicio ordinario se aplicarán al juicio extraordinario en lo que no se oponga a lo dispuesto en el presente Capitulo. No son admisibles la reconvención o la compensación sino cuando las acciones en que se funden estuvieren también sujetas a juicio extraordinario.
 
@@ -1894,52 +1896,6 @@ ART. 457.- Si el actor lo pide, al ejecutarse el lanzamiento se embargarán y de
 ART. 458.- En los juicios sobre desocupación se entiende domicilio legal la finca o departamento de cuya desocupación se trate, salvo pacto en contrario.
 
 ART. 459.- (DEROGADO, P.O. 16 DE JULIO DE 1997)
-
-### CAPITULO IV. De los Interdictos
-
-ART. 460.- Los juicios que tengan por objeto retener o recobrar la posesión interina de una cosa, suspender la ejecución de una obra nueva, o que se practiquen respecto de la que amenaza ruina o de un objeto que ofrece riesgo, las medidas conducentes a precaver el daño se tramitarán con sujeción a las reglas generales de los juicios extraordinarios y a las especiales de este Capítulo.
-
-ART. 461.- Los interdictos proceden así mismo para los efectos que expresa el artículo 313 del Código Civil, en los casos de la segunda parte del artículo 24 de éste.
-
-ART. 462.- Los jueces deberán tramitar los juicios a que se refiere el artículo anterior con preferencia a todos los demás, pudiendo actuar cuando las circunstancias lo requieran en días y horas inhábiles, sin previa habilitación.
-
-ART. 463.- Sólo proceden los interdictos respecto de las cosas raíces y derechos reales constituídos sobre ellas.
-
-ART. 464.- Los interdictos no preocupan las cuestiones de propiedad y de posesión definitiva; no podrán acumularse al juicio de propiedad y deberán decidirse previamente.
-
-ART. 465.- El que ha sido vencido en el juicio de propiedad o plenario de posesión, no puede hacer uso de los interdictos respecto de la misma cosa; pero el vencido en cualquier interdicto puede hacer uso después del juicio plenario de posesión o del de propiedad.
-
-ART. 466.- En ningún interdicto se admitirán pruebas sobre la propiedad, sino sólo las que versen sobre los hechos que constituyen la posesión.
-
-ART. 467.- A falta de títulos que funden el ejercicio de la acción y que deben acompañarse a la demanda, se ofrecerá previamente información testimonial sobre el hecho de la posesión y una vez acreditado, se dará curso a la demanda. La información se recibirá con la sola intervención del promovente, tan pronto como se presenten los testigos.
-
-ART. 468.- No procede el interdicto de obra nueva pasado un año después de la terminación de la obra cuya destrucción se intente, quedando a salvo el derecho del interesado para pedir en tal caso la demolición de la obra en la vía que proceda.
-
-ART. 469.- No puede usar el interdicto de obra nueva el que posee la cosa con título precario. Por tal se entiende cualquier título que no es translativo de dominio y sólo confiere la simple tenencia o posesión natural de la cosa en nombre de otro.
-
-ART. 470.- Cuando al promover el interdicto de obra nueva, se solicite también la suspensión provisional de la construcción, si los documentos presentados con la demanda o la información testimonial rendida en su caso, acreditan el derecho de promover tal suspensión, el juez se trasladará al lugar en que se esté practicando y después de dar fe de la existencia de la misma, si lo estima pertinente, bajo la responsabilidad del demandante ordenará la suspensión solicitada y que se notifique desde luego su determinación al dueño o encargado de la obra, bajo el apercibimiento de que será ésta demolida en caso de desobediencia, a costa del propietario.
-
-ART. 471.- La suspensión a que se refiere el artículo anterior podrá levantarse a solicitud del demandado sin perjuicio de lo que resuelva la sentencia, si dá fianza bastante a juicio del juez, para responder de la demolición y de la indemnización de los daños y perjuicios que de continuarse la obra puedan seguirse al actor.
-
-ART. 472.- La calificación de la fianza la hará el juez con sujeción a lo dispuesto en el Código Civil y oyendo el parecer de peritos.
-
-ART. 473.- Los incidentes a que se refieren los artículos 470 y 471 se tramitarán por cuerda separada y las resoluciones que en ellos se dicten no admitirán ningún recurso.
-
-ART. 474.- Los dueños de establecimientos industriales en que el agua sirva de fuerza motriz, sólo pueden denunciar la obra nueva cuando por ella se embarace el curso o se disminuya el volumen o la fuerza del agua que tienen derecho de disfrutar.
-
-ART. 475.- No se puede denunciar la obra que alguno hiciere reparando o limpiando los caños y acequias donde se recogen las aguas de sus edificios o heredades, aunque algún vecino suyo se tenga por agraviado por el perjuicio que reciba por el mal olor o por causa de los materiales que se arrojen a su finca o en la calle. En los casos a que este artículo se refiere, se procederá como lo determinen los reglamentos administrativos.
-
-ART. 476.- En el caso del artículo anterior, los que ejecuten las obras deben cuidar de no perjudicar a otro en su derecho.
-
-ART. 477.- Cuando al promover el interdicto de obra peligrosa, a más de la demolición de ésta o del objeto peligroso, se solicite la adopción de medidas urgentes para evitar los riesgos que ofrezcan, el juez nombrará un perito y acompañado del mismo, pasará luego a inspeccionar la construcción, árbol u objeto y, cerciorado de la necesidad de las medidas que se solicitan, de acuerdo con el parecer del perito dictará las que estime oportunas, compeliendo desde luego a su ejecución al dueño, al administrador y aun al inquilino por cuenta de renta; en defecto de ésto podrá autorizar la ejecución por cuenta del actor, con reserva de sus derechos para reclamar del dueño los gastos que se ocasionen.
-
-ART. 478.- Una vez resuelto sobre las peticiones a que se refieren los artículos 470 y 477, se procederá al emplazamiento de la parte demandada y continuará el juicio sus demás trámites.
-
-ART. 479.- Contra las resoluciones que se dicten ordenando la práctica de las medidas provisionales a que se refieren los artículos 470 y 477, no procederá recurso alguno, contra las que las denieguen procederá el de queja.
-
-ART. 480.- Cuando la sentencia decrete la demolición de la obra peligrosa, el juez dispondrá que se ejecute bajo la dirección de un perito, que designará al efecto, para evitar que al practicarse se causen perjuicios.
-
-ART. 481.- Contra las sentencias que se dicten en los interdictos procederá la apelación únicamente en el efecto devolutivo, y sea cual fuere la resolución deberá expresar siempre que se reserva su derecho al que lo tenga para proponer la demanda de propiedad.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 1997)</small>
 
@@ -2142,6 +2098,52 @@ ART. 481.18.- Las resoluciones que se dicten en términos de lo dispuesto en est
 > <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
 
 ART. 481.19.- Si el superior revoca el fallo de Primera Instancia que declaró procedente la vía, luego que vuelvan los autos al Juzgado de su origen, dentro de los cinco días siguientes, se mandará cancelar la anotación de la demanda en el Registro Público; en su caso, se devolverá el bien al demandado y se ordenará al actor que rinda cuentas con pago, dentro del término de treinta días.
+
+### CAPITULO IV. De los Interdictos
+
+ART. 460.- Los juicios que tengan por objeto retener o recobrar la posesión interina de una cosa, suspender la ejecución de una obra nueva, o que se practiquen respecto de la que amenaza ruina o de un objeto que ofrece riesgo, las medidas conducentes a precaver el daño se tramitarán con sujeción a las reglas generales de los juicios extraordinarios y a las especiales de este Capítulo.
+
+ART. 461.- Los interdictos proceden así mismo para los efectos que expresa el artículo 313 del Código Civil, en los casos de la segunda parte del artículo 24 de éste.
+
+ART. 462.- Los jueces deberán tramitar los juicios a que se refiere el artículo anterior con preferencia a todos los demás, pudiendo actuar cuando las circunstancias lo requieran en días y horas inhábiles, sin previa habilitación.
+
+ART. 463.- Sólo proceden los interdictos respecto de las cosas raíces y derechos reales constituídos sobre ellas.
+
+ART. 464.- Los interdictos no preocupan las cuestiones de propiedad y de posesión definitiva; no podrán acumularse al juicio de propiedad y deberán decidirse previamente.
+
+ART. 465.- El que ha sido vencido en el juicio de propiedad o plenario de posesión, no puede hacer uso de los interdictos respecto de la misma cosa; pero el vencido en cualquier interdicto puede hacer uso después del juicio plenario de posesión o del de propiedad.
+
+ART. 466.- En ningún interdicto se admitirán pruebas sobre la propiedad, sino sólo las que versen sobre los hechos que constituyen la posesión.
+
+ART. 467.- A falta de títulos que funden el ejercicio de la acción y que deben acompañarse a la demanda, se ofrecerá previamente información testimonial sobre el hecho de la posesión y una vez acreditado, se dará curso a la demanda. La información se recibirá con la sola intervención del promovente, tan pronto como se presenten los testigos.
+
+ART. 468.- No procede el interdicto de obra nueva pasado un año después de la terminación de la obra cuya destrucción se intente, quedando a salvo el derecho del interesado para pedir en tal caso la demolición de la obra en la vía que proceda.
+
+ART. 469.- No puede usar el interdicto de obra nueva el que posee la cosa con título precario. Por tal se entiende cualquier título que no es translativo de dominio y sólo confiere la simple tenencia o posesión natural de la cosa en nombre de otro.
+
+ART. 470.- Cuando al promover el interdicto de obra nueva, se solicite también la suspensión provisional de la construcción, si los documentos presentados con la demanda o la información testimonial rendida en su caso, acreditan el derecho de promover tal suspensión, el juez se trasladará al lugar en que se esté practicando y después de dar fe de la existencia de la misma, si lo estima pertinente, bajo la responsabilidad del demandante ordenará la suspensión solicitada y que se notifique desde luego su determinación al dueño o encargado de la obra, bajo el apercibimiento de que será ésta demolida en caso de desobediencia, a costa del propietario.
+
+ART. 471.- La suspensión a que se refiere el artículo anterior podrá levantarse a solicitud del demandado sin perjuicio de lo que resuelva la sentencia, si dá fianza bastante a juicio del juez, para responder de la demolición y de la indemnización de los daños y perjuicios que de continuarse la obra puedan seguirse al actor.
+
+ART. 472.- La calificación de la fianza la hará el juez con sujeción a lo dispuesto en el Código Civil y oyendo el parecer de peritos.
+
+ART. 473.- Los incidentes a que se refieren los artículos 470 y 471 se tramitarán por cuerda separada y las resoluciones que en ellos se dicten no admitirán ningún recurso.
+
+ART. 474.- Los dueños de establecimientos industriales en que el agua sirva de fuerza motriz, sólo pueden denunciar la obra nueva cuando por ella se embarace el curso o se disminuya el volumen o la fuerza del agua que tienen derecho de disfrutar.
+
+ART. 475.- No se puede denunciar la obra que alguno hiciere reparando o limpiando los caños y acequias donde se recogen las aguas de sus edificios o heredades, aunque algún vecino suyo se tenga por agraviado por el perjuicio que reciba por el mal olor o por causa de los materiales que se arrojen a su finca o en la calle. En los casos a que este artículo se refiere, se procederá como lo determinen los reglamentos administrativos.
+
+ART. 476.- En el caso del artículo anterior, los que ejecuten las obras deben cuidar de no perjudicar a otro en su derecho.
+
+ART. 477.- Cuando al promover el interdicto de obra peligrosa, a más de la demolición de ésta o del objeto peligroso, se solicite la adopción de medidas urgentes para evitar los riesgos que ofrezcan, el juez nombrará un perito y acompañado del mismo, pasará luego a inspeccionar la construcción, árbol u objeto y, cerciorado de la necesidad de las medidas que se solicitan, de acuerdo con el parecer del perito dictará las que estime oportunas, compeliendo desde luego a su ejecución al dueño, al administrador y aun al inquilino por cuenta de renta; en defecto de ésto podrá autorizar la ejecución por cuenta del actor, con reserva de sus derechos para reclamar del dueño los gastos que se ocasionen.
+
+ART. 478.- Una vez resuelto sobre las peticiones a que se refieren los artículos 470 y 477, se procederá al emplazamiento de la parte demandada y continuará el juicio sus demás trámites.
+
+ART. 479.- Contra las resoluciones que se dicten ordenando la práctica de las medidas provisionales a que se refieren los artículos 470 y 477, no procederá recurso alguno, contra las que las denieguen procederá el de queja.
+
+ART. 480.- Cuando la sentencia decrete la demolición de la obra peligrosa, el juez dispondrá que se ejecute bajo la dirección de un perito, que designará al efecto, para evitar que al practicarse se causen perjuicios.
+
+ART. 481.- Contra las sentencias que se dicten en los interdictos procederá la apelación únicamente en el efecto devolutivo, y sea cual fuere la resolución deberá expresar siempre que se reserva su derecho al que lo tenga para proponer la demanda de propiedad.
 
 ## TITULO OCTAVO. De las Tercerías
 
@@ -2367,19 +2369,29 @@ ART. 551.- (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2003)
 
 ### CAPITULO IV. Del Divorcio por Mutuo Consentimiento
 
-ART. 552.- Cuando ambos consortes convengan en divorciarse en los términos del artículo 231 del Código Civil, deberán ocurrir ante el juez competente, presentando el convenio que se exige en el artículo 232 del Código citado, así como una copia certificada del acta de matrimonio y de las de nacimiento de sus hijos y copia simple de la solicitud y demás documentos.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-ART. 553.- El juez examinará la solicitud y el convenio y si encuentra que éste reúne los requisitos que señala el artículo 232 del Código Civil, citará a los solicitantes para que personalmente se presenten a ratificarlo dentro de un término no menor de cinco días ni mayor de diez.
+ART. 552.- Cuando ambos consortes convengan en divorciarse en los términos del artículo 101 del Código Familiar para el Estado, deberán ocurrir ante la autoridad judicial competente, presentando el convenio que se exige en el citado artículo, así como una copia certificada del acta de matrimonio y de las de nacimiento de sus hijas o hijos y, copia simple de la solicitud y demás documentos.
 
-ART. 554.- Si el convenio no contiene todos los puntos enumerados en el artículo 232 del Código Civil o no están expresados claramente, el juez prevendrá a los solicitantes que los precisen y aclaren en un término prudente que concederá al efecto, el que en ningún caso excederá de diez días, apercibiéndolos de que si no lo hacen de común acuerdo se les tendrá por desistidos de su solicitud de divorcio.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+ART. 553.- La autoridad judicial examinará la solicitud y el convenio, y si encuentra que éste reúne los requisitos que señala el artículo 101 del Código Familiar para el Estado, citará a los solicitantes para que personalmente se presenten a ratificarlo, dentro de un término de tres días.
 
-ART. 555.- Llenados los requisitos de que se habla en los artículos anteriores, el Juez, después de dictar las medidas convenientes para asegurar la situación de los hijos menores o incapacitados, la separación de los cónyuges, de los alimentos de aquellos y los que un cónyuge debe dar al otro mientras dure el procedimiento, dará vista de la solicitud y de los demás documentos al representante del Ministerio Público, mandando entregarle las copias simples, para que dentro de un término no mayor de diez días manifieste en forma expresa su conformidad o inconformidad respecto de la solicitud y del convenio, así como las razones en que se funde.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-ART. 556.- Si el Ministerio Público se opone a la solicitud o a la aprobación del convenio, se dará vista de lo que exprese a los cónyuges y una vez llenadas las exigencias del representante de la sociedad o cuando ambos esposos insistan en su solicitud por estimarla arreglada a la Ley, el juez traerá los autos a la vista y resolverá si es o no fundada la oposición. En este último caso, declarará también improcedente la solicitud de divorcio.
+ART. 554.- Si el convenio contiene todos los puntos enumerados en el artículo 101 del Código Familiar para el Estado, o no están expresados claramente, la autoridad judicial prevendrá a las o los solicitantes que los precisen y aclaren en un término prudente que concederá al efecto, el que en ningún caso excederá de diez días hábiles, apercibiéndolos de que si no lo hacen de común acuerdo, se les tendrá por desistidos de su solicitud de divorcio.
 
-ART. 557.- Si el Ministerio Público expresa su conformidad con la solicitud y con el convenio, o se declara que no es fundada la oposición, el juez procederá en los términos del artículo 233 del Código Civil y, en su caso, en los del 234 del mismo Código.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 555.- Llenados los requisitos de que se habla en los artículos anteriores, la autoridad judicial, después de dictar las medidas convenientes para asegurar la situación de las hijas o hijos menores o incapaces, la separación de los cónyuges, de los alimentos de aquéllos, de los que un cónyuge debe dar al otro, dará vista de la solicitud y de los demás documentos al representante del Ministerio Público, mandando entregarle las copias simples, para que dentro de un término de diez días hábiles, manifieste en forma expresa su conformidad o inconformidad respecto de la solicitud y del convenio, así como las razones en que se funde.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 556.- Si el Ministerio Público se opone a la solicitud o a la aprobación del convenio, se dará vista de lo que exprese a los cónyuges, para que dentro de un término de tres días llenen las exigencias del representante de la sociedad, o cuando ambos cónyuges insistan en su solicitud por estimarla conforme a la ley, la autoridad judicial traerá los autos a la vista y resolverá si es o no fundada la oposición. En este último caso, si se declarase fundada la oposición, se declarará también improcedente la solicitud de divorcio.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 557.- Si el Ministerio Público expresa su conformidad con la solicitud y con el convenio, o se declara que no es fundada la oposición, la autoridad judicial procederá a citar a las o los cónyuges a una junta que se efectuará dentro de los diez días siguientes. La junta tendrá por objeto que las o los cónyuges ratifiquen la demanda y, en su caso, el convenio; celebrada la junta, la autoridad judicial citará a las o los cónyuges a oír la resolución definitiva, la que deberá emitirse dentro de los cinco días siguientes a la fecha de la celebración de la misma.
 
 ART. 558.- El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
 
@@ -2387,7 +2399,9 @@ ART. 559.- En las diligencias a que se refiere este Capítulo los cónyuges no p
 
 ART. 560.- La sentencia que decrete el divorcio por mutuo consentimiento es apelable en el efecto devolutivo, la que lo niegue es apelable en ambos efectos.
 
-ART. 561.- Ejecutoriada la sentencia de divorcio, el tribunal mandará remitir copia de ella al Oficial del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó y al del nacimiento de los divorciados para los efectos de los artículos 105, 107 y 252 del Código Civil.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 561.- Ejecutoriada la sentencia de divorcio, la autoridad judicial mandará remitir copia de ella a la o el Oficial del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó, y al del nacimiento de los divorciados para los efectos de los artículos, 75, 534 y 537 del Código Familiar para el Estado.
 
 #### Sección I. Reglas Generales
 
@@ -3281,13 +3295,19 @@ ART. 816.- Las sentencias que declaren la interdicción y las que le pongan tér
 
 ART. 817.- Ninguna tutela podrá conferirse sin que previamente se declare el estado de minoridad o de incapacidad de la persona que va a quedar sujeta a ella.
 
-ART. 818.- Acreditado el nombramiento de tutor hecho por el que ejerce patria potestad, en última disposición, se discernirá el cargo por el juez sin exigir fianza al nombrado, si se le hubiere dispensado de ella, salvo lo dispuesto en el artículo 474 del Código Civil.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 818.- Acreditado el nombramiento de la o el tutor hecho por el que ejerce patria potestad, en última disposición, se discernirá el cargo por la autoridad judicial, sin exigir fianza al nombrado, si se le hubiere dispensado de ella, salvo lo dispuesto en el artículo 406 del Código Familiar para el Estado.
 
 ART. 819.- No habiendo relevación de garantía se exigirá ésta proporcionada al caudal que haya de administrarse y con entera sujeción a lo prescrito en el Código Civil.
 
-ART. 820.- Si el que no está en ejercicio de la patria potestad nombra tutor con arreglo al artículo 432 del Código Civil, se discernirá el cargo con relevo de garantía, si así lo hubiere dispuesto el testador en cuanto al caudal que deje. Lo dispuesto en este artículo se entenderá sin perjuicio de lo prescrito en el artículo 474 del Código Civil.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-ART. 821.- Siempre que corresponda al juez el nombramiento de tutor conforme a lo prevenido en el Capítulo VI, Título IX, Libro Primero del Código Civil, deberá recibir información sumaria de estar el menor en alguno de los casos del artículo 454 del mismo Código, y convocará por edictos publicados tres veces cada tres días, en el Periódico Oficial del Estado y en un diario de los de mayor circulación, a juicio del juez, a los parientes del incapacitado a quienes pueda corresponder la tutela legítima.
+ART. 820.- Si la o el que no está en ejercicio de la patria potestad nombra persona tutora con arreglo al artículo 374 del Código Familiar para el Estado, se discernirá el cargo con relevo de garantía, si así lo hubiere dispuesto el testador en cuanto al caudal que deje. Lo dispuesto en este artículo se entenderá sin perjuicio de lo prescrito en el artículo 406 del referido Código.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 821.- Siempre que corresponda a la autoridad judicial el nombramiento de la persona tutora conforme a lo previsto en el Capítulo IX del Titulo X del Código Familiar para el Estado, deberá recibir información sumaria de estar la o el menor en alguno de los casos del artículo 387 del mismo Código y, convocará por edictos publicados tres veces cada tres días, en el Periódico Oficial del Estado y en un diario de los de mayor circulación, a juicio de la autoridad judicial, a los parientes del incapacitado a quienes pueda corresponder la tutela legítima.
 
 ART. 822.- Cuando expire el término de los edictos sin que se presente algún pariente del incapacitado, se procederá al nombramiento de tutor dativo. Se hará lo mismo en casos de suma urgencia, aún cuando no haya concluído dicho término.
 
@@ -3309,7 +3329,9 @@ ART. 827.- También se dará audiencia al Ministerio Público para la apreciaci�
 
 ART. 828.- Para facilitar y asegurar el otorgamiento de la garantía, los jueces nombrarán desde luego curador en los casos en que conforme al Código Civil les corresponda hacer el nombramiento, o confirmarán el que haya hecho el autor de la herencia, o el menor en su caso.
 
-ART. 829.- El tutor interino que en estos casos deba nombrarse conforme al artículo 484 del Código Civil, presentará dentro del término que designe el juez y con presencia de los datos que existan en los libros de la testamentaría o del intestado, un cómputo aproximado de la cuantía de los bienes, productos y rentas, cuya administración y manejo deba garantizar con arreglo al referido Código.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 829.- La o el tutor interino que en estos casos deba nombrarse conforme al artículo 416 del Código Familiar para el Estado, presentará dentro del término que designe la autoridad judicial y con presencia de los datos que existan en los libros de la testamentaría o del intestado, un cómputo aproximado de la cuantía de los bienes, productos y rentas, cuya administración y manejo deba garantizar con arreglo al referido Código.
 
 ART. 830.- De este cómputo se dará traslado al Ministerio Público y en vista de su respuesta se determinará el otorgamiento de la garantía.
 
@@ -3319,9 +3341,13 @@ ART. 832.- No se exigirá fianza a los tutores interinos cuando no tengan admini
 
 ART. 833.- En todo caso en que se nombre al menor tutor interino, se le designará curador con el mismo carácter, si no lo tuviere definitivo, o si teniéndolo se halla impedido.
 
-ART. 834.- La oposición de intereses a que se refieren los artículos 400 y 417 del Código Civil, se calificará siempre con audiencia del Ministerio Público y sólo que éste pida de conformidad, se nombrará el tutor interino.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-ART. 835.- En todo auto de discernimiento del cargo de tutor, deberá el juez expresar el tanto por ciento que, con arreglo a lo prevenido en el artículo 535 del Código Civil, le corresponda al nombrado, o la pensión o legado que por el desempeño de su encargo le hubiere asignado el autor de la herencia.
+ART. 834.- La oposición de intereses a que se refieren los artículos 288 y 308 del Código Familiar para el Estado, se calificará siempre con audiencia del Ministerio Público y, sólo que éste pida de conformidad, se nombrará la o el tutor interino.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 835.- En todo auto de discernimiento del cargo de la o el tutor, deberá la autoridad judicial expresar el tanto por ciento que, con arreglo a lo previsto en el artículo 362 del Código Familiar para el Estado, le corresponda al nombrado, o la pensión o legado que por el desempeño de su encargo le hubiere asignado el autor de la herencia.
 
 ART. 836.- Los autos de nombramiento de tutor definitivo, y de discernimiento de cargo, se publicarán por tres veces cada tres días, en el Periódico Oficial y en otro de los de mayor circulación a juicio del juez.
 
@@ -3495,17 +3521,25 @@ ART. 840.- Una vez acreditado el nombramiento de curador, hecho por la persona f
 
 ART. 841.- En los juzgados de primera instancia, bajo el cuidado y responsabilidad del juez, se llevará un registro de los discernimientos que se hicieren de los cargos de tutor y curador. En este registro, que estará siempre a disposición de los interesados, se insertará copia autorizada por el secretario, de los autos de discernimiento y se anotarán los demás actos que afecten el desempeño de la tutela.
 
-ART. 842.- Dentro de los ocho primeros días de cada año, los jueces, en audiencia pública, con citación del Ministerio Público, procederán a examinar dicho registro y en su vista dictarán, de las medidas siguientes, las que correspondan:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 842.- Dentro de los ocho primeros días de cada año, la autoridad judicial, en audiencia pública, con citación del Ministerio Público, procederán a examinar dicho registro y en su vista dictarán, de las medidas siguientes, las que correspondan:
 
 I.- Si resultare haber fallecido algún tutor, harán que sea reemplazado con arreglo a la Ley;
 
 II.- Si hubiere alguna cantidad de dinero depositada para darle destino determinado, harán que desde luego tengan cumplido efecto las prescripciones del Código Civil;
 
-III.- Exigirán también que rindan cuentas los tutores que deban darlas y que por cualquier motivo no hubieren cumplido con la prescripción expresa del artículo 540 del Código Civil;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-IV.- Obligarán a los tutores a que depositen en el establecimiento público destinado al efecto, los sobrantes de las rentas o productos del caudal de los menores, después de cubiertas las sumas señaladas con arreglo a los artículos 490, 491 y 504 del Código Civil, y de pagado el tanto por ciento de administración;
+III.- Exigirán también que rindan cuentas las personas tutoras que deban darlas y que por cualquier motivo no hubieren cumplido con la prescripción expresa del artículo 419 del Código Familiar para el Estado;
 
-V.- Si los jueces lo creyeren conveniente, decretarán el depósito cuando se presenten dificultades insuperables para el inmediato cumplimiento de los artículos 507 y 508 del Código Civil;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+IV.- Obligarán a las personas tutoras a que depositen en el establecimiento público destinado al efecto, los sobrantes de las rentas o productos del caudal de los incapaces, después de cubiertas las sumas señaladas con arreglo a los artículos, 318, 319 y 332 del Código Familiar para el Estado, y de pagado el tanto por ciento de administración;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+V.- Si la autoridad judicial lo creyere conveniente, decretará el depósito cuando se presenten dificultades insuperables para el inmediato cumplimiento de los artículos 334 y 335 del Código Familiar para el Estado, y
 
 VI.- Pedirán, al efecto, las noticias que estimen necesarias del estado en que se halle la gestión de la tutela y adoptarán las medidas que juzguen convenientes para evitar los abusos y remediar los que puedan haberse cometido.
 
@@ -3565,25 +3599,21 @@ III. Que la adopción es benéfica para la persona que trata de adoptarse;
 
 IV. Buen estado de salud, personalidad, y sobre su capacidad psicológica y económica para adoptar al menor, y
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-V. En el caso de adopción plena, presentar el certificado de idoneidad expedido por institución pública o privada, en el que haga constar que sus respectivos consejos internos hayan declarado la idoneidad del o los solicitantes de adopción;
+V. Presentar el certificado de idoneidad expedido por institución pública o privada, en el que haga constar que sus respectivos consejos internos hayan declarado la idoneidad del o los solicitantes de adopción;
 
 En la promoción inicial deberá manifestarse: el nombre y edad del menor o incapacitado, el nombre y domicilio de quienes ejercen sobre él la patria potestad o la tutela y, en su caso, el de la persona o institución de beneficencia que lo tenga acogido.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+ART. 872.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 872.- Rendidas las justificaciones que se exigen en el artículo anterior, y obteniendo el consentimiento de las personas que deban darlo conforme a los artículos 368 y 370.2 del Código Civil, el tribunal resolverá dentro del tercer día.
+ART. 873.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 873.- Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo que se dispone en el artículo 367 del Código Civil.
+ART. 874.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-Si el adoptado fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo prestaron para la adopción y sin oír al representante del Ministerio Público.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-Para acreditar cualquier hecho relativo a la conveniencia de la revocación en los casos del artículo anterior, podrán rendirse toda clase de pruebas.
-
-ART. 874.- La impugnación de la adopción y su revocación, en los casos de los artículos 354 y 365 fracción II del Código Civil, no pueden promoverse en diligencias de jurisdicción voluntaria.
-
-ART. 875.- Cuando se apruebe la adopción o se deje sin efecto, el juez cumplirá lo que previenen los artículos 361 y 370 del Código Civil.
+ART. 875.- Cuando se apruebe la adopción, la autoridad judicial cumplirá lo que previene el artículo 247 del Código Familiar para el Estado.
 
 (ADICIONADO, P.O. 17 DE ENERO DE 1992) (F. DE E., P.O. 20 DE MAYO DE 1994)
 
@@ -3597,9 +3627,9 @@ ART. 876.- La renuncia o excusa de la patria potestad se presentará por escrito
 
 ART. 877.- El juez admitirá la excusa si la encuentra debidamente fundada y mandará requerir al ascendiente para que se encargue del menor; en su defecto requerirá la intervención del Ministerio Público para la designación del tutor y curador que corresponda, cuando no lo hicieren las personas a quienes la Ley concede este derecho.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-ART. 878.- El menor que hubiere cumplido catorce años, sus parientes, el Ministerio Público y la Procuraduría de la Defensa del Menor y la Familia, podrán solicitar del juez de lo familiar la terminación, pérdida, suspensión o excusa de la patria potestad en los casos de los artículos 403 fracción I, 404, 407 y 408 del Código Civil. Idéntica gestión podrá hacerse valer en el caso de los menores de catorce años. El juez, tan luego como reciba la solicitud, citará a las partes interesadas a una audiencia dentro del tercer día. Si el que ejerce la patria potestad está conforme con el hecho denunciado, se hará la declaración correspondiente y se llamará al sustituto al ejercicio de ese derecho.
+ART. 878.- La o el menor que hubiere cumplido catorce años, sus parientes, el Ministerio Público, y la Procuraduría de la Defensa del Menor, la Mujer y la Familia, podrán solicitar a la autoridad judicial la terminación, pérdida, suspensión o excusa de la patria potestad, en los casos de los artículos, 291 fracción I, 293, 296 y 299 del Código Familiar para el Estado. Idéntica gestión podrá hacerse valer en el caso de las o los menores de catorce años. La autoridad judicial, tan luego como reciba la solicitud, citará a las partes interesadas a una audiencia dentro del tercer día. Si la o el que ejerce la patria potestad está conforme con el hecho denunciado, se hará la declaración correspondiente y se llamará al sustituto al ejercicio de ese derecho.
 
 ART. 879.- La oposición se resolverá en forma incidental, debiendo el juez dictar las medidas provisionales que estime necesarias para el depósito de los hijos y el aseguramiento de los bienes.
 
@@ -3643,9 +3673,13 @@ ART. 896.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
 ### CAPITULO VII. De los Procedimientos Judiciales para suplir el consentimiento de los Ascendientes y Tutores para contraer Matrimonio
 
-ART. 897.- En los casos en que con arreglo al artículo 134 del Código Civil, puede el juez suplir el consentimiento de los ascendientes y tutores, deberá acreditarse previa y cumplidamente por el que pretenda contraer matrimonio, que se haya en alguno de los tres casos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-I.- No existir ninguna de las personas que conforme al artículo 133 del Código Civil deben prestar su consentimiento;
+ART. 897.- En los casos en que con arreglo al artículo 17 del Código Familiar para el Estado, puede la autoridad judicial suplir el consentimiento de las o los ascendientes y tutores, deberá acreditarse previa y cumplidamente por el que pretenda contraer matrimonio, que se haya en el siguiente caso:
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+I.- No existir ninguna de las personas que conforme al artículo 19 del Código Familiar para el Estado deben prestar su consentimiento;
 
 II.- Hallarse dichas personas en países de los que no se puede obtener respuesta en menos de seis meses;
 
@@ -3913,7 +3947,9 @@ ART. 962.- Las apelaciones de interlocutorias o autos se substanciarán conforme
 
 ART. 963.- En el caso de que el apelante no comparezca a expresar agravios en el término de ley, se le tendrá por desistido del recurso, haciendo la declaración correspondiente, de oficio, el Superior, previa certificación de que las partes fueron notificadas en forma, el cómputo del término para la expresión de agravios y la falta de presentación de los mismos.
 
-ART. 964.- Las sentencias que se dicten sobre modificación de actas del estado civil y sobre nulidad de matrimonios, por las causas expresadas en los artículos 200, 201 y 207 a 210 del Código Civil, serán revisadas de oficio por la sala que corresponda del Supremo Tribunal, con intervención del Ministerio Público, si las partes no promueven apelación; y mientras el tribunal examina la legalidad del fallo, quedará en suspenso su ejecución.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 964.- Las sentencias que se dicten sobre modificación de actas del estado civil y sobre nulidad de matrimonios, por las causas expresadas en el artículo 70 del Código Familiar para el Estado, serán revisadas de oficio por la sala que corresponda del Supremo Tribunal, con intervención del Ministerio Público, si las partes no promueven apelación; y mientras el Tribunal examina la legalidad del fallo, quedará en suspenso su ejecución.
 
 ART. 965.- En toda sentencia de segunda instancia se declarará expresamente si hay condenación en costas y, quien deba pagar éstas.
 
@@ -4195,43 +4231,9 @@ ART. 1035.- Cuando, por cualquier motivo, quede insubsistente el primitivo embar
 
 El juez cuyo embargo quede en primer término lo comunicará así a los ulteriores, con expresión de todos los requisitos que ante él llenó el nuevo depositario.
 
-ART. 1036.- Quedan exceptuados de embargo:
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-I.- Los bienes que constituyan el patrimonio de la familia, desde su inscripción en el Registro Público de la Propiedad en los términos que establece el Código Civil;
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
-
-II.- El lecho cotidiano, los vestidos y los muebles del uso ordinario del deudor, de su cónyuge o de sus hijos no siendo de lujo, a juicio del Juez, y en general los bienes a que se refiere el Artículo 177 del Código Civil.
-
-III.- Los instrumentos, aparatos y útiles necesarios para el arte u oficio a que el deudor esté dedicado;
-
-IV.- La maquinaria, instrumentos y animales propios para el cultivo agrícola, en cuanto fueren necesarios para el servicio de la finca a que estén destinados;
-
-V.- Los libros, aparatos, instrumentos y útiles de las personas que ejerzan o se dediquen al estudio de profesiones liberales;
-
-VI.- Las armas y caballos que los militares en servicio activo usen, indispensables para éste conforme a las leyes relativas;
-
-VII.- Los efectos, maquinaria e instrumentos propios para el fomento y giro de las negociaciones mercantiles e industriales, en cuanto fueren necesarios para su servicio y movimiento, a juicio del juez; pero podrán ser intervenidos juntamente con la negociación a que están destinados;
-
-VIII.- Las mieses antes de ser cosechadas, pero no los derechos sobre las siembras;
-
-IX.- El derecho de usufructo con las limitaciones que la Ley establece;
-
-X.- Los derechos de uso y de habitación;
-
-XI.- Las servidumbres, a no ser que se embargue el fundo a cuyo favor estén constituídas; excepto la de aguas que es embargable independientemente;
-
-XII.- La renta vitalicia, en los términos establecidos en el Código Civil;
-
-XIII.- El salario mínimo y los sueldos, pensiones y comisiones hasta mil quinientos pesos anuales; siempre que no se trate de pensiones alimenticias o de responsabilidad proveniente de delito;
-
-XIV.- Los sueldos y emolumentos de los funcionarios y empleados públicos y las asignaciones de los pensionistas del Erario;
-
-XV.- Los ejidos de los pueblos y la parcela individual que en su fraccionamiento corresponda a cada ejidatario, y
-
-XVI.- Los demás bienes en que así lo prevenga la Ley.
-
-En los casos de las fracciones III, IV, V y VII, el juez, en caso de duda, oirá el informe de un perito designado por él.
+ART. 1036.- Quedan exceptuados de embargo los bienes que constituyan el patrimonio familiar, desde su inscripción en el Registro Público de la Propiedad y del Comercio, en los términos que establece el Código Familiar para el Estado.
 
 ART. 1037.- El deudor sujeto a patria potestad o a tutela, el que estuviere físicamente impedido para trabajar y el que sin culpa carezca de bienes o de profesión u oficio, tendrá alimentos que el juez fijará atendida la importancia de la demanda y de los bienes y las circunstancias del demandado.
 
@@ -4625,9 +4627,9 @@ ART. 1139.- No se requieren formalidades especiales para acudir ante el juez de 
 
 Esta disposición no es aplicable a los casos de divorcio o de la pérdida de la patria potestad.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-Tratándose de violencia familiar prevista en el artículo 284.5 del Código Civil del Estado, el juez exhortará a los involucrados en audiencia privada, a fin de que convengan los actos para hacerla cesar y, en caso de que no lo hiciere, en la misma audiencia el juez del conocimiento determinará las medidas procedentes para la protección de los menores y de la parte agredida.
+Tratándose de violencia familiar prevista en el artículo 12 del Código Familiar para el Estado, la autoridad judicial exhortará a las o los involucrados, en audiencia privada, a fin de que convengan los actos para hacerla cesar y, en caso de que no lo hiciere, en la misma audiencia la autoridad judicial del conocimiento, determinará las medidas procedentes para la protección de las o los menores y de la parte agredida.
 
 Al efecto, verificará el contenido de los informes que al respecto hayan sido elaborados por las instituciones públicas o privadas que hubieren intervenido y escuchará al Ministerio Público.
 
@@ -5018,3 +5020,11 @@ P.O. 13 DE NOVIEMBRE DE 2007.
 PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2008.
+
+PRIMERO. Este Decreto entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Todos los procedimientos, recursos administrativos y demás asuntos relacionados con la materia familiar a que refiere el Código Civil para el Estado de San Luis Potosí, iniciados con anterioridad a la entrada en vigor a este Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
