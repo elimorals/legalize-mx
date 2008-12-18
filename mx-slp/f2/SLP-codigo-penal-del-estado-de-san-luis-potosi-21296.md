@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2008-09-02"
+last_updated: "2008-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2008.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -1569,6 +1569,10 @@ Este delito se sancionará con una pena de uno a cinco años de prisión y sanci
 
 ### CAPITULO V. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 168.
 
 Cometen el delito de incesto quienes, siendo descendientes, ascendientes o hermanos consanguíneos, con conocimiento de su parentesco, tienen cópula.
@@ -1605,13 +1609,15 @@ CORRUPCION DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS QUE NO T
 
 ###### ARTICULO 171.
 
-Comete el delito de incumplimiento de las obligaciones de asistencia familiar quien:
+Comete el delito de incumplimiento de las obligaciones de asistencia familiar, quien:
 
-I. Sin motivo justificado, abandona a sus hijos o a su cónyuge, dejándolos sin recursos para atender a sus necesidades de subsistencia, o
+I. Sin motivo justificado abandona a sus hijas o hijos, o a su cónyuge, dejándolos sin recursos para atender a sus necesidades de subsistencia;
 
-II. Intencionalmente, se coloca en estado de insolvencia con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina.
+II. Intencionalmente eluda el cumplimiento de las obligaciones alimentarias que la ley determina, o
 
-Este delito se sancionará con una pena de seis meses a dos años de prisión y sanción pecuniaria de diez a cuarenta días de salario mínimo.
+III. Intencionalmente se coloca en estado de insolvencia con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina.
+
+Este delito se sancionará con una pena de seis meses a tres años de prisión y sanción pecuniaria de cincuenta a ciento cincuenta días de salario mínimo.
 
 ###### ARTICULO 172.
 
@@ -3272,3 +3278,11 @@ P.O. 2 DE SEPTIEMBRE DE 2008.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2008.
+
+PRIMERO. Este Decreto entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Todos los procedimientos, recursos administrativos y demás asuntos relacionados con la materia familiar a que refiere el Código Civil para el Estado de San Luis Potosí, iniciados con anterioridad a la entrada en vigor a este Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
