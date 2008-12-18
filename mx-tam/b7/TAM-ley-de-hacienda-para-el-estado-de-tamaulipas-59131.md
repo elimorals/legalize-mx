@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2007-12-31"
+last_updated: "2008-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -673,13 +673,21 @@ IV. Las copias certificadas, certificaciones, ratificaciones, cotejo, legalizaci
 
 ### CAPITULO VI. DE LOS DERECHOS POR SERVICIOS DE PREVENCION Y CONTROL DE LA CONTAMINACION DEL MEDIO AMBIENTE
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 62.
 
 Los derechos por actas del Registro Civil se causarán conforme a la siguiente tarifa:
 
 I. INSCRIPCIONES.
 
-1. Inscripción de hechos relativos al nacimiento, reconocimiento de hijos, adopciones, defunción o inscripciones de sentencias, un día de salario mínimo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+1. Inscripción del reconocimiento de hijo, adopción, defunción o de sentencias relativas al nacimiento y demás hecho y actos previstos en este numeral. La inscripción de hechos relativos al nacimiento se hará sin pago alguno de derechos;
 
 2. Inscripción de actas de matrimonio, diez días de salario mínimo;
 
@@ -1139,29 +1147,47 @@ II. De un 50 por ciento, a los comprendidos en la fracción XVII; tratándose de
 
 ###### Artículo 75.
 
-Por los servicios de prevención y control de la contaminación del medio ambiente, se pagarán las siguientes cuotas:
+Por los servicios de prevención y control de la contaminación del medio ambiente, se pagarán las siguientes cuotas, considerando en lo aplicable la siguiente clasificación por número de trabajadores:
+
+Tamaño Sector de la economía
+
+Industria Comercio Servicios
+
+Micro 0-10 0-10 0-10
+
+Pequeña 11-50 11-30 11-50
+
+Mediana 51-250 31-100 51-100
 
 I. Por los servicios de registro de descarga de aguas residuales, conforme a la siguiente tarifa:
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
 1. Por tipo de empresas:
 
-a) Microempresa con menos de 15 trabajadores, doce días de salario mínimo;
+a) Microempresa, doce días de salario mínimo;
 
-b) Pequeña empresa de 16 a 100 trabajadores, noventa y siete días de salario mínimo;
+b) Pequeña empresa, noventa y seis días de salario mínimo;
 
-c) Mediana empresa de 101 a 200 trabajadores, ciento cincuenta y cinco días de salario mínimo;
+e) Mediana empresa, ciento cincuenta y cinco días de salario mínimo; y
 
-d) Grande empresa con más de 200 trabajadores, ciento noventa y ocho días de salario mínimo.
+d) Gran empresa, ciento noventa y ocho días de salario mínimo.
 
-2. Por la aplicación de Características Particulares de Descarga, conforme a la siguiente tarifa:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a) Microempresa con menos de 15 trabajadores, un día de salario mínimo por parámetro a exentar;
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-b) Pequeña empresa de 16 a 100 trabajadores, dos días de salario mínimo por parámetro a exentar;
+2. Por la aplicación de características particulares de descarga, conforme a la siguiente tarifa:
 
-c) Mediana empresa de 101 a 200 trabajadores, tres días de salario mínimo por parámetro a exentar; y
+a) Microempresa, un día de salario mínimo por parámetro a exentar;
 
-d) Gran empresa más de 200 trabajadores, cuatro días de salario mínimo por parámetro a exentar.
+b) Pequeña empresa, dos días de salario mínimo por parámetro a exentar;
+
+c) Mediana empresa, tres día de salario mínimo por parámetro a exentar; y
+
+d) Gran empresa, cuatro días de salario mínimo por parámetro a exentar.
 
 3. Por copia de registros de descarga de aguas residuales otorgado, un día de salario mínimo;
 
@@ -1179,17 +1205,25 @@ II. Por los servicios que a continuación se señalan, se pagarán las siguiente
 
 3 Por la revalidación de evaluación del impacto ambiental, veinte días de salario mínimo;
 
-4. Por el otorgamiento de la concesión del manejo y disposición final de residuos sólidos no peligrosos, doscientos un día de salario mínimo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-5. Resolutivos de impacto ambiental:
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-a) Informe preventivo, cuatro días de salario mínimo;
+4. Por el otorgamiento de la autorización de manejo y disposición final de residuos de manejo especial, doscientos un días de salario mínimo.
 
-b) Modalidad General, seis días de salario mínimo; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-c) Modalidad específica, ocho días de salario mínimo.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+5. Resolutivos de impacto ambiental, diez días de salario mínimo.
 
 6. Evaluación del estudio de riesgo, setenta y cinco días de salario mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+7. Por la realización de las visitas técnicas en los procesos de evaluación, veinticinco días de salario mínimo.
 
 III. Por el derecho de ingreso de visitantes ecoturistas a las áreas naturales protegidas, declaradas por el Titular del Ejecutivo Estatal:
 
@@ -1219,33 +1253,109 @@ VI. Por la concesión de servicios en áreas ecológicas protegidas, hasta 415 d
 
 VII. Por los estudios de flora y fauna silvestres, el 20 por ciento de un día de salario mínimo por hectárea;
 
-VIII. Por la evaluación de daños ambientales, trescientos días de salario mínimo, sin perjuicio de las multas y otras sanciones a que se hiciera acreedor;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IX. Por la autorización para la recolección y transporte de residuos de manejo especial para empresas prestadoras de servicios, cincuenta y dos días de salario mínimo;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+VIII. Por la evaluación de daños ambientales, quinientos días de salario mínimo, sin perjuicio de las multas y otras sanciones a que se hiciera acreedor;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+IX. Por la autorización para la recolección y transporte de residuos de manejo especial para empresas prestadoras de servicios, cincuenta y dos días de salario mínimo por unidad autorizada;
 
 X. Por la inscripción en el Registro Estatal Ambiental, se pagarán las siguientes cuotas:
 
-1. Microempresa con 1 a 15 trabajadores, veintidós días de salario mínimo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-2. Pequeña empresa de 16 a 100 trabajadores, noventa y siete días de salario mínimo;
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-3. Mediana Empresa de 101 a 200 trabajadores, ciento cincuenta y cinco días de salario mínimo; y
+1. Microempresa, once días de salario mínimo;
 
-4. Gran empresa con más de 200 trabajadores, ciento ochenta días de salario mínimo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+2. Pequeña empresa, cuarenta y ocho días y medio de salario mínimo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+3. Mediana empresa, setenta y siete días y medio de salario mínimo; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+4. Gran empresa, noventa días de salario mínimo.
 
 XI. Por el cambio de Registro Estatal Ambiental, se pagarán las siguientes cuotas:
 
-1. Microempresa con 1 a 15 trabajadores, once días de salario mínimo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-2. Pequeña empresa de 16 a 100 trabajadores, cuarenta y ocho días y medio de salario mínimo;
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-3. Mediana empresa de 101 a 200 trabajadores, setenta y siete días y medio de salario mínimo; y
+1. Microempresa, once días de salario mínimo;
 
-4. Gran empresa con más de 200 trabajadores, noventa días de salario mínimo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+2. Pequeña empresa, cuarenta y ocho días y medio de salario mínimo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+3. Mediana empresa, setenta y siete días y medio de salario mínimo; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+4. Gran empresa, noventa días de salario mínimo.
 
 Por cada 5 días hábiles de retraso, la pequeña, mediana y gran empresa pagarán adicionalmente un salario mínimo.
 
-Por la entrega extemporánea de la Cedula de Operación Anual, la microempresa pagará un día de salario mínimo por cada día hábil de retraso. Las empresas que inicien operaciones durante el año calendario y quieran obtener el Registro Estatal Ambiental después de la fecha límite de entrega, sólo efectuarán el pago por inscripción.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+Por la entrega extemporánea de la Cédula de Operación Anual, se pagará un día de salario mínimo por cada día hábil de retraso. Las empresas que inicien operaciones durante el año calendario y quieran obtener el Registro Estatal Ambiental después de la fecha límite de entrega, solo efectuarán el pago por inscripción.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+XII. Por el otorgamiento de licencia, autorización o concesión para el establecimiento y funcionamiento de un centro de verificación de la emisión de contaminantes atmosféricos generados por fuentes móviles, mil días de salario mínimo por centro de verificación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+XIII. Por los servicios de verificación vehicular de medición de los niveles de contaminación por vehículos automotores:
+
+1. Por vehículos particulares a gas o gasolina, cuatro días de salario mínimo;
+
+2. Por vehículos de transporte público a gas o gasolina, cinco días de salario mínimo;
+
+3. Por vehículos particulares a diesel, seis días de salario mínimo; y
+
+4. Por vehículos de transporte público a diesel, siete días de salario mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+XIV. Por la explotación y aprovechamiento de recursos minerales o sustancias no reservadas a la Federación, un quince por ciento de un día de salario mínimo por metro cúbico proyectado a utilizarse.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+XV. Por el registro en el Padrón de Prestadores de Servicios Técnicos en Materia Ambiental, cincuenta días de salario mínimo.
 
 ###### Artículo 76.
 
@@ -1253,13 +1363,25 @@ Por los servicios otorgados para el aprovechamiento de la Vida Silvestre en Tama
 
 I. Por el dictamen de evaluación técnica para la determinación de la tasa de aprovechamiento por cada ejemplar aprovechable con fines cinegéticos y/o comerciales, 3.5 días de salario mínimo. Para efectos de este artículo se considerará límite de posesión de ejemplares el establecido oficialmente para cada especie. Dicho pago se deberá realizar al momento de la obtención de cada uno de los sistemas de marcaje autorizados.
 
-II. Registro de Unidad de Manejo para la Conservación de Vida Silvestre (UMA) y Planes de Manejo, once días de salario mínimo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. Refrendo de registro de Unidad de Manejo para la Conservación de la Vida Silvestre (UMA), siete días y medio de salario mínimo;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+II. Por la recepción y evaluación del Plan de Manejo para la Conservación de la Vida Silvestre, once días de salario mínimo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+III. Por la recepción y evaluación de la modificación al Plan de Manejo para la Conservación de la Vida Silvestre, siete y medio días de salario mínimo;
 
 IV. Aprovechamiento de especies (palomas) sujetas a un proyecto regional, seis y medio días de salario mínimo por cintillo expedido; y
 
-V. Aprovechamiento de especies de interés cinegético en el Estado, seis y medio días de salario mínimo por cintillo vigente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+V. Aprovechamiento extractivo de especies mediante caza deportiva, seis y medio días de salario mínimo por cintillo vigente.
 
 ###### Artículo 77.
 
@@ -1411,7 +1533,7 @@ Por la prestación del servicio de telefonía rural a través de la red de Telec
 
 ###### Artículo 90.
 
-Por la prestación del servicio de consulta de acuerdos a través del sistema electrónico de internet del Poder Judicial del Estado, se pagará el 0.026 de un día de salario mínimo, por acuerdo.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ###### Artículo 91.
 
@@ -1496,3 +1618,21 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los siete días del mes de diciembre del año dos mil siete.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTlNEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE DICIEMBRE DE 2008.
+
+DECRETO No. LX-645, POR EL QUE SE DEROGA EL ARTICULO 90 DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2008.
+
+DECRETO No. LX-649, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 62, 75 Y 76 DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día 1 de enero de 2009.
