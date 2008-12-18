@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2008-05-29"
+last_updated: "2008-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1233,9 +1233,17 @@ X. El otorgamiento de preseas o reconocimientos en las diferentes áreas del des
 
 XI. La investigación, en su caso, de los méritos que se adjudican a los potosinos propuestos;
 
-XII. Los tocantes a las relaciones con las dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen, y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-XIII. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
+XII. Convocar anualmente, a la celebración del Parlamento de las y los Jóvenes del Estado de San Luis Potosí; que se realizará en coordinación con la instancia de juventud del Gobierno del Estado, el Consejo Estatal Electoral y de Participación Ciudadana, y los ayuntamientos de la Entidad; establecer las bases para el desarrollo del evento y, previo análisis de las propuestas de los participantes, elaborar y, con base en ellas, presentar al Pleno las iniciativas que estime conducentes;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+XIII. Los tocantes a las relaciones con las dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen, y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+XIV. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
 
 ###### ARTICULO 109.
 
@@ -1802,3 +1810,9 @@ UNICO. Este Decreto entrará en vigor el día 16 de diciembre de 2006, previa pu
 P.O. 29 DE MAYO DE 2008.
 
 UNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2008.
+
+PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
