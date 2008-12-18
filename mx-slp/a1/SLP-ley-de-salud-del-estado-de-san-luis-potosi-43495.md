@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2008-03-29"
+last_updated: "2008-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -663,6 +663,36 @@ Los servicios que se prestan en la materia constituyen un medio para el ejercici
 
 Quienes practiquen esterilización sin la voluntad del paciente o ejerzan presión para que éste la admita, serán sancionados conforme a las disposiciones de esta Ley, independientemente de la responsabilidad penal en que incurran.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 57 BIS. La Secretaría de Salud del Estado entregará a quienes la soliciten, una guía informativa acerca de:
+
+I. Las disposiciones legales sobre procreación asistida;
+
+II. La descripción de las técnicas de reproducción humana asistida;
+
+III. Las posibilidades de éxito o fracaso de las técnicas de la asistencia médica para la procreación;
+
+IV. Que sólo se permite la fecundación de un ovocito que deberá ser implantado;
+
+V. Que una vez fecundado el ovocito deberá ser implantado a la solicitante, y
+
+VI. Que está prohibido todo diagnóstico preimplantatorio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 57 TER. Previo al inicio del tratamiento, las o los cónyuges, o las o los concubinos, deberán dar su consentimiento por escrito ante un Notario Público con la asistencia de dos testigos, anexándose el certificado médico de un especialista en la materia, de una institución pública de salud.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 57 QUATER. El consentimiento a que se refiere el artículo anterior, quedará revocado de pleno derecho con la muerte de quien lo otorgó, si antes no se hubiere producido la fecundación.
+
 ###### ARTICULO 58.
 
 Los servicios de salud reproductiva comprenden:
@@ -691,7 +721,47 @@ Los comités de salud a que se refiere el artículo 48 de esta Ley, promoverán 
 
 La Secretaría de Salud del Estado coadyuvará con las autoridades federales en la aplicación de las políticas, objetivos y acciones del Programa de Planificación Familiar y Salud Reproductiva que formulen el Consejo Nacional de Población y el Sector Salud.
 
-### CAPITULO I. Profesionales, Técnicos y Auxiliares
+### CAPITULO IX. Medicina Tradicional, y el Acceso a la Salud de los Pueblos y Comunidades Indígenas
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 67 BIS. Se reconoce a la medicina tradicional indígena, como el conjunto de sistemas de atención a la salud, que tiene sus raíces en los conocimientos sobre la salud y la enfermedad que los diferentes pueblos y comunidades indígenas y rurales han acumulado a través de su historia, y que ha incorporado elementos provenientes de otras medicinas, como la medicina antigua española, la medicina africana y, en menor medida, la medicina occidental.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 67 TER. La Secretaría de Salud, y los municipios del Estado, garantizarán y apoyarán el desarrollo del libre ejercicio de la medicina tradicional de los pueblos y comunidades indígenas, que comprende el uso de plantas para fines rituales y curativos, a fin de que se conserven y desarrollen como parte de su cultura y patrimonio.
+
+La Secretaría de Salud del Estado establecerá un programa de conocimiento, investigación y registro de plantas medicinales que se utilicen en la medicina tradicional, a fin de contar con elementos que permitan evaluar su viabilidad o inocuidad y, en su caso, proscribir el uso de aquéllas que se compruebe de manera científica, que deterioran la salud de los usuarios.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 67 QUATER. La Secretaría de Salud del Estado establecerá los programas que permitan que las personas integrantes de los pueblos y comunidades indígenas de la Entidad, accedan de forma efectiva a los servicios de salud que establece la presente Ley; asimismo, implementará mecanismos para que pueda aprovecharse la medicina tradicional, apoyando las propuestas que en esta materia promuevan las comunidades indígenas, a través de sus representantes y autoridades propias.
+
+En los hospitales generales y regionales del Estado que traten población indígena, deberá haber dentro del área de trabajo social, cuando menos un traductor de las lenguas náhuatl, tenek y xi'oi, conforme a la población indígena que se atienda, a fin de que los indígenas, que no hablen suficientemente el español, puedan recibir la atención que requieren de manera óptima.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 67 QUINQUE (SIC). El Estado promoverá acciones conjuntas con las comunidades indígenas, para el desarrollo de los conocimientos tradicionales de medicina y herbolaria. Asimismo, fortalecerá los procesos organizativos para preservar y difundir las prácticas de la medicina tradicional indígena, y propiciar una interrelación entre ésta y la medicina alópata
+
+Las autoridades comunitarias participarán como coadyuvantes en las campañas de salud, vacunación y aquéllas referidas a la atención preventiva de la salud y, en su caso, en las acciones normativas frente a la aparición de epidemias o pandemias.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 67 SEXTIES. Las autoridades de salud promoverán el reconocimiento y autorización de los médicos tradicionales indígenas de las comunidades, siempre y cuando éstos cuenten con el aval comunitario, mediante acuerdo de asamblea general; asimismo, apoyarán la organización de médicos tradicionales indígenas y parteras empíricas.
+
+Las universidades públicas que impartan las carreras de, medicina, enfermería, químico farmacobiólogo y demás ramas profesionales relacionadas, procurarán implementar en sus programas y currículas de estudio, como materias optativas, cursos de formación y diplomados relativos a, antropología médica y medicina tradicional, así como de aprendizaje de las lenguas náhuatl, tenek y xi'oi.
+
+El sector salud promoverá asimismo, cursos, talleres y diplomados con valor curricular, dirigidos al personal médico que radica y labora en zonas con población indígena, relativos a antropología médica y medicina tradicional.
 
 ###### ARTICULO 61.
 
@@ -729,7 +799,7 @@ Los Servicios de Salud en el Estado, conforme a la normatividad que establezca l
 
 Para tal efecto, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
-### CAPITULO II. Servicio Social de Pasantes y Profesionales
+### CAPITULO I. Profesionales, Técnicos y Auxiliares
 
 ###### ARTICULO 66.
 
@@ -739,11 +809,15 @@ La Secretaría de Salud del Estado, en coordinación con las autoridades federal
 
 El Centro Estatal de Trasplantes trabajará coordinadamente con el Consejo Nacional de Trasplantes, en el fomento y promoción de la cultura de donación.
 
-### CAPITULO III. Formación, Capacitación y Actualización del Personal
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO II. Servicio Social de Pasantes y Profesionales
 
 ## TITULO CUARTO. RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
 
-### CAPITULO UNICO
+### CAPITULO III. Formación, Capacitación y Actualización del Personal
 
 ## TITULO QUINTO. INVESTIGACION PARA LA SALUD
 
@@ -787,9 +861,9 @@ La asociación entre médicos y otros profesionales de la salud, debe tener como
 
 ARTICULO 71 TER. Para efectos de esta Ley entiéndase por inducir, consejo o instigación, destinados a provocar en una o varias personas la realización de un acto.
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO UNICO
 
-### CAPITULO II. Educación para la Salud
+### CAPITULO I. Disposiciones Comunes
 
 ###### ARTICULO 72.
 
@@ -815,7 +889,7 @@ Para los efectos del párrafo anterior el Ejecutivo del Estado, por conducto de 
 
 La Secretaría de Salud del Estado y las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-### CAPITULO III. Nutrición
+### CAPITULO II. Educación para la Salud
 
 ###### ARTICULO 77.
 
@@ -855,7 +929,7 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ## TITULO SEXTO. INFORMACION PARA LA SALUD
 
-### CAPITULO IV. Efectos del Ambiente en la Salud
+### CAPITULO III. Nutrición
 
 ###### ARTICULO 82.
 
@@ -909,7 +983,7 @@ En cualquier tratamiento de una persona enferma el médico podrá utilizar nuevo
 
 ## TITULO SEPTIMO. PROMOCION DE LA SALUD
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO IV. Efectos del Ambiente en la Salud
 
 ###### ARTICULO 88.
 
@@ -929,7 +1003,7 @@ Los establecimientos que presten servicios de salud, los profesionales, técnico
 
 ## TITULO OCTAVO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-### CAPITULO II. Enfermedades Transmisibles
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 90.
 
@@ -945,7 +1019,7 @@ II. Control de los efectos nocivos del ambiente en la salud, y
 
 III. Fomento sanitario.
 
-### CAPITULO III. Enfermedades no Transmisibles
+### CAPITULO II. Enfermedades Transmisibles
 
 ###### ARTICULO 92.
 
@@ -965,7 +1039,7 @@ La Secretaría de Salud, en coordinación con las autoridades federales, estatal
 
 La Secretaría de Salud formulará un programa para la salud destinado a la población escolar de los distintos niveles de educación básica obligatoria, a efecto de combatir la obesidad y el sobrepeso; el cual incluirá entre otras acciones, la medición de masa corporal, el fomento del consumo de alimentos y bebidas saludables, y el fortalecimiento de una actividad física. Para efecto de su ejecución, la Secretaría de Salud se coordinará con las autoridades federales, estatales y municipales que resulten competentes.
 
-### CAPITULO IV. La Prevención y el Control de las Enfermedades Bucodentales
+### CAPITULO III. Enfermedades no Transmisibles
 
 ###### ARTICULO 94.
 
@@ -995,7 +1069,7 @@ IV. Promover investigaciones químicas, biológicas, sociales y económicas, enc
 
 V. Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimientos (sic) por la población en general.
 
-### CAPITULO V. Organización de los Servicios de Salud
+### CAPITULO IV. La Prevención y el Control de las Enfermedades Bucodentales
 
 ###### ARTICULO 97.
 
@@ -1025,7 +1099,7 @@ La Secretaría de Salud del Estado, en coordinación con las autoridades federal
 
 ## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION Y REHABILITACION DE LA DISCAPACIDAD
 
-### CAPITULO VI. Accidentes
+### CAPITULO V. Organización de los Servicios de Salud
 
 ###### ARTICULO 102.
 
@@ -1037,7 +1111,7 @@ II. Apoyar en el Estado el Sistema Nacional de Vigilancia Epidemiológica, de co
 
 III. Coordinar los programas y actividades que establezca la autoridad federal de la materia, para la prevención y control de enfermedades y accidentes.
 
-### CAPITULO UNICO
+### CAPITULO VI. Accidentes
 
 ###### ARTICULO 103.
 
@@ -1157,7 +1231,7 @@ El transporte de enfermos infectocontagiosos deberá efectuarse en vehículos ac
 
 La Secretaría de Salud del Estado determinará los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfectación u otras medidas de saneamientos de lugares, edificios, vehículos y objetos.
 
-### CAPITULO I. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
+### CAPITULO UNICO
 
 ###### ARTICULO 118.
 
@@ -1181,7 +1255,7 @@ V. Las demás que sean necesarias para la prevención, tratamiento y control de 
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria competente les requiera, acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO II. Programa Contra el Tabaquismo
+### CAPITULO I. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
 
 ###### ARTICULO 121.
 
@@ -1203,7 +1277,7 @@ IV. Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Las autoridades sanitarias, en coordinación con las autoridades de educación, elaborarán programas y campañas para prevenir y controlar las enfermedades bucodentales en la población escolar.
 
-### CAPITULO III. Programa Contra la Fármaco Dependencia
+### CAPITULO II. Programa Contra el Tabaquismo
 
 ###### ARTICULO 124.
 
@@ -1215,7 +1289,7 @@ Será obligatoria la notificación de los casos de tales enfermedades diagnostic
 
 La Secretaría de Salud del Estado establecerá el Registro Estatal de Deficientes Mentales, para facilitar la atención y protección de las personas que se encuentren disminuidas en sus capacidades intelectuales.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO III. Programa Contra la Fármaco Dependencia
 
 ###### ARTICULO 126.
 
@@ -1245,7 +1319,7 @@ Este Consejo se integrará y funcionará en los términos y disposiciones que pa
 
 ## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
 
-### CAPITULO II. De los Beneficios de la Protección Social en Salud
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 128.
 
@@ -1315,7 +1389,7 @@ El Ejecutivo del Estado, a través del Sistema para el Desarrollo Integral de la
 
 ## TITULO DECIMO PRIMERO. DE LA PROTECCION SOCIAL EN SALUD
 
-### CAPITULO III. De las Aportaciones para el Sistema de Protección Social en Salud
+### CAPITULO II. De los Beneficios de la Protección Social en Salud
 
 ###### ARTICULO 140.
 
@@ -1339,7 +1413,7 @@ III. Hábitos de consumo de alcohol en los diferentes grupos de población, y
 
 IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, laboral, educativo y de los espectáculos.
 
-### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
+### CAPITULO III. De las Aportaciones para el Sistema de Protección Social en Salud
 
 ###### ARTICULO 142.
 
@@ -1365,7 +1439,7 @@ En ningún caso y de ninguna forma se podrá expender o suministrar tabaco a men
 
 Los establecimientos que expendan tabaco deberán tener a la vista del público, letreros alusivos prohibiendo la venta de tabaco a menores de edad.
 
-### CAPITULO V. De las Cuotas Familiares
+### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
 
 ###### ARTICULO 146.
 
@@ -1397,7 +1471,7 @@ Los establecimientos que expendan inhalantes y substancias tóxicas, deberán te
 
 ## TITULO DECIMO SEGUNDO. SALUBRIDAD GENERAL Y LOCAL
 
-### CAPITULO VI. De la Transparencia, Control y Supervisión del Manejo de los Recursos del Sistema de Protección Social en Salud
+### CAPITULO V. De las Cuotas Familiares
 
 ###### ARTICULO 151.
 
@@ -1459,7 +1533,7 @@ IX. Promover la participación de los municipios en el Régimen Estatal de Prote
 
 El Ejecutivo del Estado, por conducto de la Secretaría de Salud del Estado, podrá celebrar acuerdos de coordinación con las autoridades federales, estatales y municipales, para la ejecución del Sistema de Protección Social en Salud, de conformidad con el modelo nacional establecido, en los cuales se determinarán entre otros, los conceptos de gasto, el destino de los recursos, los indicadores de seguimiento a la operación y los términos de la evaluación integral del Sistema.
 
-### CAPITULO VII. Derechos y Obligaciones de los Beneficiarios
+### CAPITULO VI. De la Transparencia, Control y Supervisión del Manejo de los Recursos del Sistema de Protección Social en Salud
 
 ###### ARTICULO 157.
 
@@ -1495,7 +1569,7 @@ IV. Atención personalizada;
 
 V. Integración de expedientes clínicos;
 
-VI. Continuidad de cuidados mediante mecanismos de referencia y contrarreferencia (sic);
+VI. Continuidad de cuidados mediante mecanismos de referencia y contrarreferencia;
 
 VII. Prescripción y surtimiento de medicamentos, y
 
@@ -1507,7 +1581,7 @@ El régimen estatal de protección social en salud proveerá de manera integral 
 
 Con la finalidad de fortalecer el mantenimiento y desarrollo de infraestructura en salud, el régimen estatal de protección social en salud, a partir de las transferencias que reciba, deberá destinar los recursos necesarios para la inversión en infraestructura médica, de conformidad con el plan maestro elaborado por la autoridad federal correspondiente.
 
-### CAPITULO VIII. Causas de Suspensión y Cancelación en el Sistema de Protección Social en Salud
+### CAPITULO VII. Derechos y Obligaciones de los Beneficiarios
 
 ###### ARTICULO 160.
 
@@ -1527,13 +1601,13 @@ Dichos recursos se administrarán y ejercerán con base en los acuerdos de coord
 
 Será causa de responsabilidad administrativa el incumplimiento en tiempo y forma, de las obligaciones económicas establecidas en el convenio de coordinación correspondiente, celebrado con el gobierno Federal.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO VIII. Causas de Suspensión y Cancelación en el Sistema de Protección Social en Salud
 
 ###### ARTICULO 164.
 
 El gobierno del Estado, a través de los Servicios de Salud, ejercerá los recursos que le sean aportados por el gobierno Federal del Fondo de Aportaciones para los Servicios de Salud a la Comunidad, de conformidad con los acuerdos de Coordinación que para el efecto se suscriban.
 
-### CAPITULO II. De los Expendios de Alimentos, Bebidas no Alcohólicas y Alcohólicas
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 165.
 
@@ -1561,7 +1635,7 @@ Bajo el principio de solidaridad social, las cuotas familiares no serán objeto 
 
 Con el objeto de favorecer el uso responsable de los servicios de salud, el Consejo de Salubridad General podrá establecer, mediante reglas de carácter general, un esquema de cuotas reguladoras para algunos servicios en razón de la frecuencia en su uso o especialidad, o para el abastecimiento de medicamentos asociados. En dichas reglas deberá considerarse la posibilidad de que aquellos beneficiarios cuya condición socioeconómica así lo justifique, no cubran las cuotas a que se refiere este artículo.
 
-### CAPITULO III. Mercados y Centros de Abasto
+### CAPITULO II. De los Expendios de Alimentos, Bebidas no Alcohólicas y Alcohólicas
 
 ###### ARTICULO 171.
 
@@ -1583,7 +1657,7 @@ Cuando las autoridades estatales que en el ejercicio de sus atribuciones de cont
 
 Las responsabilidades administrativas, civiles y penales que deriven de la desviación de los recursos señalados, serán sancionadas en los términos de la legislación correspondiente, por las autoridades competentes.
 
-### CAPITULO IV. De las Construcciones
+### CAPITULO III. Mercados y Centros de Abasto
 
 ###### ARTICULO 173.
 
@@ -1651,7 +1725,7 @@ X. Hacer uso responsable de los servicios de salud, y
 
 XI. Proporcionar de manera fidedigna la información necesaria para documentar su incorporación al Sistema de Protección Social en Salud, y para la definición del monto a pagar por concepto de cuota familiar.
 
-### CAPITULO V. Cementerios, Crematorios y Funerarias
+### CAPITULO IV. De las Construcciones
 
 ###### ARTICULO 176.
 
@@ -1677,7 +1751,7 @@ En los casos en que se materialicen los supuestos a que se refiere este Capítul
 
 ## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO VI. Limpieza Pública
+### CAPITULO V. Cementerios, Crematorios y Funerarias
 
 ###### ARTICULO 179.
 
@@ -1709,7 +1783,7 @@ III. Giro comercial.
 
 Todo cambio de propietario de un establecimiento, de razón social, denominación o cesión de derechos de productos, deberá ser comunicado por escrito a la Secretaría de Salud del Estado, o en su caso, a los Servicios de Salud en el Estado, según corresponda, conforme a las competencias dispuestas en esta Ley, en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de la normatividad que al efecto se expida.
 
-### CAPITULO VII. Rastros y Establecimientos Similares
+### CAPITULO VI. Limpieza Pública
 
 ###### ARTICULO 184.
 
@@ -1743,7 +1817,7 @@ En su caso se ajustarán a los límites máximos permisibles de hongos, levadura
 
 Para coadyuvar en la determinación de la ubicación y horario de los establecimientos dedicados a la venta de bebidas alcohólicas, las autoridades sanitarias tomarán en cuenta lo dispuesto en la Ley de Bebidas Alcohólicas del Estado de San Luis Potosí.
 
-### CAPITULO VIII. Salud Ocupacional
+### CAPITULO VII. Rastros y Establecimientos Similares
 
 ###### ARTICULO 189.
 
@@ -1765,7 +1839,7 @@ Se prohíbe el comercio de todo tipo de alcohol y bebidas alcohólicas, así com
 
 Los vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales, y el ejercicio de sus actividades se sujetará a lo que dispongan esta Ley, los reglamentos respectivos y otras disposiciones legales aplicables.
 
-### CAPITULO IX. Agua Potable, Alcantarillado y Saneamiento
+### CAPITULO VIII. Salud Ocupacional
 
 ###### ARTICULO 193.
 
@@ -1805,9 +1879,7 @@ Los edificios, cualquiera que sea el uso a que estén destinados, estarán provi
 
 La potabilidad del agua reunirá los requisitos especificados en esta Ley y su reglamento, así como en las normas oficiales mexicanas.
 
-### CAPITULO X. Establos, Granjas Avícolas, Porcícolas o Zahúrda, Apiarios y Establecimientos
-
-Similares
+### CAPITULO IX. Agua Potable, Alcantarillado y Saneamiento
 
 ###### ARTICULO 202.
 
@@ -2059,7 +2131,9 @@ II. Expresar los motivos de la exhumación y destino final de los restos, y
 
 III. Los demás que determine la autoridad sanitaria.
 
-### CAPITULO XI. Prostitución
+### CAPITULO X. Establos, Granjas Avícolas, Porcícolas o Zahúrda, Apiarios y Establecimientos
+
+Similares
 
 ###### ARTICULO 241.
 
@@ -2099,7 +2173,7 @@ Los municipios proveerán de depósitos de basura en los parques, jardines, pase
 
 Para toda actividad relacionada con este Capítulo, se estará a lo dispuesto por esta Ley y otras disposiciones legales aplicables.
 
-### CAPITULO XII. Reclusorios o Centros de Readaptación Social
+### CAPITULO XI. Prostitución
 
 ###### ARTICULO 247.
 
@@ -2139,7 +2213,7 @@ El sacrificio de animales en los rastros se efectuará en los días y horas que 
 
 Los rastros y casas de matanza deberán estar ubicados a más de quinientos metros de zona habitacional.
 
-### CAPITULO XIII. Baños Públicos y Albercas
+### CAPITULO XII. Reclusorios o Centros de Readaptación Social
 
 ###### ARTICULO 255.
 
@@ -2165,7 +2239,7 @@ La Secretaría de Salud del Estado, en coordinación con las dependencias estata
 
 Los establecimientos que expendan substancias tóxicas inhalantes, deberán tener a la vista del público letreros alusivos a las condiciones bajo las cuales se expendan dichos productos al público en general, y prohibición expresa de su venta a menores de edad.
 
-### CAPITULO XIV. Centros de Reunión y Espectáculos
+### CAPITULO XIII. Baños Públicos y Albercas
 
 ###### ARTICULO 260.
 
@@ -2223,9 +2297,7 @@ V. Letrinización y control de excretas.
 
 Estos giros son de competencia municipal, pero quedarán bajo la supervisión de las autoridades sanitarias en el Estado.
 
-### CAPITULO XV
-
-Establecimientos Dedicados a la Prestación de Servicios de Físico Constructivismo; Casas de Masaje y Gimnasios; Peluquerías, Salones de Belleza, Estética; y Otros Similares
+### CAPITULO XIV. Centros de Reunión y Espectáculos
 
 ###### ARTICULO 270.
 
@@ -2259,7 +2331,9 @@ Cada granja contará con los servicios de un responsable médico veterinario zoo
 
 Queda prohibido el sacrificio de animales destinados al consumo humano, dentro de las instalaciones de la granja.
 
-### CAPITULO XVI. Tintorerías, Lavanderías y Lavaderos Públicos
+### CAPITULO XV
+
+Establecimientos Dedicados a la Prestación de Servicios de Físico Constructivismo; Casas de Masaje y Gimnasios; Peluquerías, Salones de Belleza, Estética; y Otros Similares
 
 ###### ARTICULO 275.
 
@@ -2323,7 +2397,7 @@ Queda prohibido el ejercicio de la prostitución a menores de dieciocho años.
 
 Queda prohibido el ejercicio de la prostitución en la vía pública.
 
-### CAPITULO XVII. Establecimientos para el Hospedaje Hoteles, Moteles, Casas de Huéspedes y Otros Similares
+### CAPITULO XVI. Tintorerías, Lavanderías y Lavaderos Públicos
 
 ###### ARTICULO 287.
 
@@ -2355,7 +2429,7 @@ Las autoridades sanitarias vigilarán permanentemente que los reclusorios y cent
 
 En estas instituciones queda prohibida la introducción, uso, posesión y comercio de bebidas alcohólicas, estupefacientes y psicotrópicos; éstos últimos a menos que hayan sido prescritos por un médico legalmente reconocido, y controlada su administración por él mismo.
 
-### CAPITULO XVIII. Transporte Público Urbano y Foráneo
+### CAPITULO XVII. Establecimientos para el Hospedaje Hoteles, Moteles, Casas de Huéspedes y Otros Similares
 
 ###### ARTICULO 294.
 
@@ -2381,7 +2455,7 @@ Queda prohibida la renta de trajes de baño.
 
 La apertura al público y el funcionamiento de estos establecimientos, deberán sujetarse a la verificación y control sanitario.
 
-### CAPITULO XIX. Gasolinerias
+### CAPITULO XVIII. Transporte Público Urbano y Foráneo
 
 ###### ARTICULO 299.
 
@@ -2407,7 +2481,7 @@ V. Hidrantes, y
 
 VI. Vehículo para traslado de enfermos.
 
-### CAPITULO XX. Prevención y Control de la Rabia
+### CAPITULO XIX. Gasolinerias
 
 ###### ARTICULO 302.
 
@@ -2427,7 +2501,7 @@ El funcionamiento y el personal instructor, prestador del servicio de los establ
 
 Dentro de los establecimientos a que se refiere este Título queda estrictamente prohibido el ejercicio de la prostitución, así como la venta e ingesta de bebidas alcohólicas y de substancias nocivas a la salud.
 
-### CAPITULO XXI. Escuelas, Institutos, Colegios, Guarderías e Internados
+### CAPITULO XX. Prevención y Control de la Rabia
 
 ###### ARTICULO 306.
 
@@ -2443,7 +2517,7 @@ III. Lavadero público: los establecimientos a los cuales acuden los interesados
 
 Corresponde a los Servicios de Salud del Estado, otorgar cuando proceda, la autorización correspondiente y ejercer la verificación sanitaria de los establecimientos a que se refiere este Capítulo, conforme a las disposiciones legales aplicables.
 
-### CAPITULO I. Autorizaciones
+### CAPITULO XXI. Escuelas, Institutos, Colegios, Guarderías e Internados
 
 ###### ARTICULO 308.
 
@@ -2461,7 +2535,7 @@ La construcción, acondicionamiento y funcionamiento de un inmueble que se prete
 
 La apertura y explotación de un establecimiento de hospedaje no comprende el derecho de explotar giros anexos, aun cuando éstos constituyan una misma unidad comercial con el citado establecimiento; en consecuencia, tales anexos deberán recabar u obtener la autorización correspondiente, según el giro de que se trate.
 
-### CAPITULO II. Revocación de Autorizaciones Sanitarias
+### CAPITULO I. Autorizaciones
 
 ###### ARTICULO 312.
 
@@ -2479,7 +2553,7 @@ Los vehículos destinados al servicio de transporte de pasajeros y de carga, deb
 
 Las terminales de transportes deberán tramitar aviso de apertura ante los Servicios de Salud en el Estado, y reunir las condiciones de higiene para su funcionamiento; contando con recipientes para basura en lugares estratégicos.
 
-### CAPITULO III. Certificados
+### CAPITULO II. Revocación de Autorizaciones Sanitarias
 
 ###### ARTICULO 316.
 
@@ -2497,7 +2571,7 @@ Cada expendio o depósito de gasolina deberá estar equipado con extinguidores d
 
 En lugares visibles y distribuidos en número suficiente, se fijarán letreros indelebles y con pintura fosforescente, relativos a la seguridad e higiene, siendo obligación de los dueños y encargados de los expendios y depósitos, vigilar el cumplimiento de esta disposición.
 
-### CAPITULO UNICO
+### CAPITULO III. Certificados
 
 ###### ARTICULO 320.
 
@@ -2565,7 +2639,7 @@ Los establecimientos objeto de este Capítulo deben contar con las instalaciones
 
 ## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
 
-### CAPITULO I. Del Procedimiento
+### CAPITULO UNICO
 
 ###### ARTICULO 329.
 
@@ -2585,7 +2659,7 @@ La autoridad sanitaria competente expedirá las autorizaciones respectivas, cuan
 
 Los establecimientos que obtengan autorización sanitaria deben colocarla a la vista del público. Las autorizaciones serán revisadas por la autoridad sanitaria competente.
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO I. Del Procedimiento
 
 ###### ARTICULO 333.
 
@@ -2651,7 +2725,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución administrativa o de revocación en su caso, surtirá efectos de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO III. Recurso de Revisión
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 341.
 
@@ -2679,7 +2753,7 @@ Los certificados de defunción y de muerte fetal serán expedidos una vez compro
 
 ## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIA
 
-### CAPITULO IV. De la Substanciación
+### CAPITULO III. Recurso de Revisión
 
 ###### ARTICULO 345.
 
@@ -2771,7 +2845,7 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 SEGURIDAD Y SANCIONES
 
-### CAPITULO V. De la Suspensión
+### CAPITULO IV. De la Substanciación
 
 ###### ARTICULO 356.
 
@@ -2875,7 +2949,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y en general de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando a juicio de las autoridades sanitarias se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-### CAPITULO VI. Extinción de Facultades
+### CAPITULO V. De la Suspensión
 
 ###### ARTICULO 370.
 
@@ -2920,6 +2994,8 @@ La resolución que pronuncie la autoridad sanitaria competente, se hará saber p
 ###### ARTICULO 378.
 
 Las autoridades sanitarias competentes harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
+
+### CAPITULO VI. Extinción de Facultades
 
 ###### ARTICULO 379.
 
@@ -3176,3 +3252,23 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. En relación a las disposiciones contenidas en el Artículo Primero del presente Decreto, éstas deben implementarse dentro de un término que no exceda los ciento veinte días siguientes a la publicación del mismo, en el Periódico Oficial del Estado.
 
 TERCERO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2008.
+
+DECRETO 553, POR EL QUE SE ADICIONA AL TITULO TERCERO EL CAPITULO IX, CON LOS ARTICULOS, 67 BIS, 67 TER, 67 QUATER, 67 QUINQUE (SIC) Y 67 SEXTIES, A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. Este Decreto entrará en vigor a los quince días naturales siguientes a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Se concede al Ejecutivo Local, un término de treinta días naturales, para que a través de la Secretaría de Salud del Estado, disponga el cumplimiento de lo dispuesto en el segundo párrafo del artículo 67 Quáter de este Decreto, cuando menos, en el Hospital Central de San Luis Potosí, y en el Hospital Regional de Ciudad Valles; y un término de ciento ochenta días, para que tal disposición se cumpla en todos los demás hospitales públicos de la Entidad, en los que se atienda población indígena.
+
+P.O. 18 DE DICIEMBRE DE 2008.
+
+DECRETO 555, POR EL QUE SE ADICIONAN LOS ARTICULOS, 57 BIS, 57 TER Y 57 QUATER A LA LEY DE SALUD DEL ESTADO DE SAN LUÍS POTOSI.
+
+PRIMERO. Este Decreto entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Todos los procedimientos, recursos administrativos y demás asuntos relacionados con la materia familiar a que refiere el Código Civil para el Estado de San Luis Potosí, iniciados con anterioridad a la entrada en vigor a este Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
