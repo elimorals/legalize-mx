@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-administracion-de-las-aportaciones-transferidas-139
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-16"
-last_updated: "2007-06-12"
+last_updated: "2008-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA ADMINISTRACION DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de marzo de 1999.
 
@@ -337,7 +337,7 @@ De conformidad con el Programa de Inversiones, se podrán afectar en fideicomiso
 
 ###### ARTICULO 38.
 
-En caso de que el Fondo Estatal para la Infraestructura Social recibiera recursos adicionales a los establecidos en el Presupuesto de Egresos Estatal, estos quedarán sujetos en cuanto a su administración y ejecución, a lo establecido en la presente Ley.
+En caso de que el Fondo Estatal para la Infraestructura Social recibiera recursos adicionales a los establecidos en el Presupuesto de Egresos Estatal, éstos quedarán sujetos en cuanto a su administración y ejecución, a lo establecido en la presente Ley.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
@@ -479,9 +479,11 @@ La validación de los expedientes técnicos a que se hace referencia en el prese
 
 ### CAPITULO IX. Del Fondo para el Fortalecimiento de los Municipios
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 50.
 
-Las aportaciones que con cargo al Fondo para el Fortalecimiento de los Municipios reciban los municipios a través del Estado, se destinarán exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes.
+Las aportaciones que con cargo al Fondo para el Fortalecimiento de los Municipios reciban los municipios, a través del Estado, se destinarán exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras; al pago de derechos y aprovechamientos por concepto de agua; y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes.
 
 ###### ARTICULO 51.
 
@@ -575,7 +577,9 @@ Para el Programa de Obras y Acciones, los ayuntamientos y los Consejos podrán c
 
 Para el correcto ejercicio de los recursos del Fondo para la Infraestructura Social Municipal y del Fondo para el Fortalecimiento de los Municipios, y una mayor transparencia y control de los mismos, los ayuntamientos deberán integrar un expediente técnico por cada obra o acción.
 
-Dichos expedientes deberán estar a disposición de la Contraloría General del Estado o del Organo de Control y Supervisión Interno del Municipio según corresponda, y del Congreso del Estado cuando así lo requieran.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+Dichos expedientes deberán estar a disposición de la Contraloría General del Estado, o del órgano de control y supervisión interno del municipio según corresponda, y de la Auditoría Superior del Estado, cuando así lo requieran.
 
 ###### ARTICULO 62.
 
@@ -619,7 +623,9 @@ III. Un Secretario Técnico del Consejo, que será el Coordinador de Desarrollo 
 
 IV. Dos Vocales de Control y Vigilancia, que serán electos por el Pleno del Consejo de entre los Representantes Sociales Comunitarios y no deberán ostentar ningún cargo público;
 
-V. Los Representantes Sociales Comunitarios, de los barrios, colonias populares, comunidades y ejidos, electos en asambleas democráticas, y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+V. Los representantes sociales comunitarios, de los barrios, colonias populares, comunidades y ejidos, electos en asambleas democráticas, que se acreditarán con el acta que se levante en dicha asamblea, y
 
 VI. Un Equipo de Asesores Técnicos, conformado preferentemente por el Secretario, el Tesorero y el Director de Obras Públicas del Ayuntamiento, y un representante de la Secretaría de Desarrollo Social, de la Secretaría de Desarrollo Social y Regional, y de la Contraloría General del Estado, respectivamente.
 
@@ -713,9 +719,11 @@ Cada Ayuntamiento podrá convenir recursos del Programa Anual de Desarrollo Inst
 
 ### CAPITULO V. Del Intercambio de Información
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 76.
 
-La Secretaría de Desarrollo Social y Regional a través del Sistema de Información del Desarrollo Social y Regional establecerá un mecanismo de comunicación con los ayuntamientos, las dependencias federales y estatales, el Congreso del Estado y la sociedad, permitiendo:
+La Secretaría de Desarrollo Social y Regional, a través del Sistema de Información del Desarrollo Social y Regional, establecerá un mecanismo de comunicación con los ayuntamientos, las dependencias federales y estatales, el Congreso del Estado, la Auditoría Superior del Estado, y la sociedad, permitiendo:
 
 I. Conocer el ejercicio de los recursos del Fondo para la Infraestructura Social Municipal, del Fondo Estatal para la Infraestructura Social del Estado y del Fondo para el Fortalecimiento de los Municipios, su orientación, ubicación, beneficiarios, alcances e impactos, y
 
@@ -723,7 +731,7 @@ II. Reunir información sobre los diversos programas que las dependencias federa
 
 ###### ARTICULO 77.
 
-Los ayuntamientos deberán proveer a la Secretaría de Desarrollo Social y Regional, a través del Sistema de Información del Desarrollo Social y Regional, la información conforme se señala en los artículos 47 fracción IV, 48, 52 y 53 de esta Ley.
+Los ayuntamientos deberán proveer a la Secretaría de Desarrollo Social y Regional, a través del Sistema de Información del Desarrollo Social y Regional, la información conforme se señala en los artículos 47 fracción IV, 48, 52, y 53 de esta Ley.
 
 ### CAPITULO VI. De la Evaluación
 
@@ -731,7 +739,9 @@ Los ayuntamientos deberán proveer a la Secretaría de Desarrollo Social y Regio
 
 Con el fin de evaluar los resultados del ejercicio de los recursos de los Fondos para la Infraestructura Social Municipal y para el Fortalecimiento de los Municipios, y el impacto en el desarrollo social y regional, el Ayuntamiento convocará a una reunión evaluatoria en el seno del Consejo, por lo menos una vez al año.
 
-En esta reunión podrán participar representantes del Ejecutivo del Estado, del Congreso del Estado y de la Secretaría de Desarrollo Social del Gobierno Federal.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+En esa reunión podrán participar representantes, del Ejecutivo del Estado, del Congreso del Estado, de la Auditoría Superior del Estado, y de la Secretaría de Desarrollo Social del Gobierno Federal.
 
 ###### ARTICULO 79.
 
@@ -789,7 +799,7 @@ Las autoridades estatales y municipales que incurran en responsabilidades admini
 
 Los recursos y sus accesorios que reciban el Estado y/o municipio, provenientes de recursos normados por esta Ley, no serán embargables, no podrán bajo ninguna circunstancia gravarse, ser afectados en garantía o destinarse a mecanismos de fuentes de pago, salvo lo dispuesto en el artículo 87 BIS de esta Ley; y en ningún caso, podrán destinarse a fines distintos a los que expresamente están determinados conforme a esta Ley.
 
-> <small>(ADICIONADO, P.O 12 DE JUNIO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ARTICULO 87 BIS. Los recursos y sus accesorios que reciban el Estado y/o municipio, provenientes del Fondo Estatal para la Infraestructura Social, del Fondo para la Infraestructura Social Municipal, y del Fondo para el Fortalecimiento del Estado, podrán afectarse para garantizar obligaciones en caso de incumplimiento, o servir como fuente de pago de dichas obligaciones que contraigan con la Federación, las instituciones de crédito que operen en territorio nacional, o con personas físicas o morales de nacionalidad mexicana, siempre que cuenten con la autorización del Congreso del Estado, y se inscribirán a petición del Estado o los municipios, según corresponda, ante la Secretaría de Hacienda y Crédito Público, en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, así como en la Secretaría de Finanzas del Gobierno del Estado, en la Dirección de Financiamiento, Deuda y Crédito Público.
 
@@ -809,7 +819,9 @@ El Estado y los municipios, que en el ejercicio de sus atribuciones de control y
 
 Cuando la Auditoría Superior del Estado detecte que los recursos de los fondos no se han destinado a los fines establecidos en esta Ley, deberá hacerlo del conocimiento inmediato a la Auditorí a (sic) Superior de la Federación de la Cámara de Diputados del Congreso de la Unión.
 
-Se faculta a la Contraloría General del Estado, y a los órganos del control y supervisión internos de los gobiernos municipales donde estén constituidos, para que en términos de lo previsto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, y demás leyes aplicables, se finquen los pliegos de responsabilidades a los servidores públicos estatales y municipales, por el uso inadecuado de los recursos correspondientes a los Fondos Estatales y Municipales que conforme a esta Ley les corresponda administrar; los que constituirán créditos fiscales a favor del Estado o municipio según el caso, pudiéndose hacer efectivos en caso necesario, a través del procedimiento administrativo de ejecución.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+Se faculta a la Contraloría General del Estado, a la Auditoría Superior del Estado y a los órganos del control y supervisión internos de los gobiernos municipales, donde estén constituidos, para que en términos de lo previsto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, y demás leyes aplicables, se finquen los pliegos de responsabilidades de los servidores públicos estatales y municipales, por el uso inadecuado de los recursos correspondientes a los Fondos Estatales y Municipales que conforme a esta Ley les corresponda administrar; los que constituirán créditos fiscales a favor del Estado o municipios, según el caso, pudiéndose hacer efectivos en caso necesario, a través del procedimiento administrativo de ejecución.
 
 Lo anterior, sin perjuicio de las responsabilidades administrativas, civiles o penales en que pudieran incurrir.
 
@@ -869,6 +881,10 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 12 DE JUNIO DE 2007.
 
-PRIMERO.- Este Decreto entrará en vigor al día siguiente al dí a (sic) siguiente de su publicación en el Periódico Oficial del Estado.
+PRIMERO.- Este Decreto entrará en vigor al dí a (sic) siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2008.
+
+UNICO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
