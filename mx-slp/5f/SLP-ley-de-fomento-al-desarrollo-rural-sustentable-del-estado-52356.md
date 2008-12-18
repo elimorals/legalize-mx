@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-al-desarrollo-rural-sustentable-del-estado-52356
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-19"
-last_updated: "2008-04-17"
+last_updated: "2008-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el martes 19 de septiembre de 2006.
 
@@ -266,6 +266,10 @@ Zona libre: área geográfica determinada en la cual se ha eliminado o no se han
 ###### ARTICULO 4°.
 
 Las acciones de desarrollo rural sustentable que efectúe el Estado, atenderán de manera diferenciada y prioritaria a las regiones y zonas con mayor rezago social y económico, mediante el impulso a las actividades del medio rural, impulsar a la inversión productiva, el fomento a la diversificación de oportunidades de empleo e ingreso, y la promoción de vínculos entre los ámbitos rural y urbano, para facilitar a los agentes de la sociedad rural el acceso a los apoyos que requiere su actividad productiva, así como a los servicios para su bienestar.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+Facilitar y otorgar los apoyos a que se refiere el párrafo anterior, los que no estarán condicionados, ni se hará distinción por la pertenencia a personas de la sociedad urbana y, particularmente, rural, sin hacer diferencia por motivos de religión, étnicos, preferencia política u organización social a la que pertenecen.
 
 Para lo anterior, el Estado promoverá lo necesario para formular y llevar a cabo programas de atención especial, con la concurrencia de los diversos ordenes de gobierno que aplican los instrumentos de política de desarrollo social y de población, a cargo de las dependencias y entidades de la administración pública estatal y municipal competentes.
 
@@ -3848,3 +3852,9 @@ P.O. 17 DE ABRIL DE 2008.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2008.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
