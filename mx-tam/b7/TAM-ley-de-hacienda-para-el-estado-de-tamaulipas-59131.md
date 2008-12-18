@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2007-12-31"
+last_updated: "2008-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,25 +21,41 @@ state: "TAM"
 ---
 # LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
+LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2003.
 
-Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
+Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 1997.
 
-EUGENIO HERNANDEZ FLORES, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber: Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
+BENJAMIN CLARIOND REYES-RETANA, GOBERNADOR SUBSTITUTO DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
 
-Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
+Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
 
-LA QUINCUAGESIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULlPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 58 FRACCION I DE LA CONSTITUCION POLlTICA LOCAL; y 119 DE LA LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULlPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+DECRETO
 
-DE C R E T O No. LlX-1090
+NUM. 383
 
-MEDIANTE EL CUAL SE EXPIDE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULlPAS.
+LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE NUEVO LEON
 
-## TITULO I. DISPOSICIONES GENERALES
+## TITULO PRIMERO. DE LA JUSTICIA ADMINISTRATIVA
 
-### CAPITULO I. DEL AMBITO DE APLlCACION DE LA LEY
+### CAPITULO I. DISPOSICIONES GENERALES
+
+###### Artículo 1o.
+
+Esta Ley tiene por objeto establecer la organización y funcionamiento del Tribunal de lo Contencioso Administrativo, dotado de facultades para conocer y resolver los conflictos y controversias que se susciten entre los particulares y el Estado, los Municipios, sus organismos descentralizados y empresas de participación estatal y municipal cuando estas últimas realicen funciones administrativas de autoridad; el procedimiento para su resolución y ejecución; los recursos que los particulares y las autoridades podrán interponer en contra de los fallos que pronuncie.
+
+###### Artículo 2o.
+
+El Tribunal de lo Contencioso Administrativo del Estado, es un Tribunal formalmente administrativo, materialmente jurisdiccional, dotado de plena autonomía y jurisdicción para dictar sus fallos.
+
+###### Artículo 3o.
+
+El Tribunal de lo Contencioso Administrativo del Estado residirá en la capital del Estado, sin perjuicio de que pueda descentralizar sus oficinas en el territorio del Estado para la atención más oportuna de los asuntos de su competencia.
+
+###### Artículo 4o.
+
+Todas las sesiones del Pleno serán públicas, con excepción de los casos en que la moral, el interés público o la Ley exijan que sean privadas.
 
 ###### Artículo 1.
 
@@ -49,7 +65,45 @@ Las disposiciones de esta ley son de orden público y de observancia general en 
 
 La presente ley establece las bases normativas para que los habitantes del Estado contribuyan al financiamiento del gasto público, mediante el pago de impuestos, derechos, contribuciones especiales, aprovechamientos, productos y recargos en su caso.
 
-### CAPITULO II. DE LAS LEYES DE INGRESOS
+### CAPITULO II. DE LA INTEGRACION DEL TRIBUNAL
+
+###### Artículo 5o.
+
+El Tribunal de lo Contencioso Administrativo estará integrado por tres salas unitarias, de las cuales una será la Sala Superior a cargo del Presidente del Tribunal, y dos Salas Ordinarias, primera y segunda, a cargo de cada uno de los dos Magistrados restantes; y contará, además, para el debido cumplimiento de sus funciones con:
+
+I.- Un Secretario General de Acuerdos;
+
+II.- Secretarios de Estudio y Cuenta;
+
+III.- Actuarios, y
+
+IV.- Personal técnico administrativo.
+
+###### Artículo 6o.
+
+El Titular del Poder Ejecutivo del Estado propondrá a los Magistrados del Tribunal de lo Contencioso Administrativo, para su designación por el Congreso del Estado o de la Diputación Permanente en los casos de receso de aquél, ante quien rendirán la protesta de Ley.
+
+###### Artículo 7o.
+
+Los Magistrados y demás servidores públicos adscritos al Tribunal de lo Contencioso Administrativo del Estado percibirán iguales emolumentos que los que correspondan a los servidores públicos de igual categoría del Tribunal Superior de Justicia del Estado, los que no podrán ser disminuidos durante su encargo.
+
+###### Artículo 8o.
+
+Para ser Magistrado del Tribunal de lo Contencioso Administrativo del Estado se requiere:
+
+I.- Ser ciudadano mexicano por nacimiento, nativo del Estado o con residencia en el mismo por más de cinco años ininterrumpidos e inmediatamente anteriores a la fecha de la designación, en pleno ejercicio de sus derechos políticos y civiles;
+
+II.- Poseer al día de la designación título profesional de Licenciado en Derecho, y que hayan transcurrido cuando menos diez años de su expedición por autoridad o institución legalmente facultada para ello;
+
+III.- Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal de más de un año de prisión;
+
+IV.- No ser ministro de algún culto o asociación religiosa; y
+
+V.- No haber desempeñado cargo de elección popular, federal, estatal o municipal, Secretario de Despacho del Ejecutivo, o Procurador General de Justicia, cuando menos los dos años previos al día de su nombramiento.
+
+###### Artículo 9o.
+
+Los Magistrados del Tribunal de lo Contencioso Administrativo serán inamovibles durante el período de su encargo, el cual se perderá solamente cuando incurran en faltas de probidad u honradez, mala conducta, negligencia en el desempeño de sus labores, sean condenados por sentencia ejecutoriada en juicio de responsabilidad, sean jubilados en los términos legales o renuncien a su puesto, acepten desempeñar otro empleo o cargo de la Federación, Estados, Municipios o particulares salvo los cargos en las instituciones educativas o en asociaciones científicas, literarias o de beneficencia.
 
 ###### Artículo 3.
 
@@ -129,9 +183,9 @@ b) Reasignaciones del gasto derivadas del Presupuesto de Egresos de la Federaci�
 
 IX. Otros ingresos que conforme a las disposiciones legales, convenios y acuerdos les correspondan.
 
-## TITULO II. DE LOS IMPUESTOS
+## TITULO SEGUNDO. DEL PROCEDIMIENTO
 
-### CAPITULO I. DEL IMPUESTO SOBRE ACTOS Y OPERACIONES CIVILES
+### CAPITULO III. COMPETENCIA DEL TRIBUNAL
 
 ###### Artículo 6.
 
@@ -167,1332 +221,910 @@ II. Tratándose de otros bienes muebles, el valor de la operación. Cuando este 
 
 ###### Artículo 10.
 
-El impuesto se causará sobre el importe del 2 por ciento sobre su base.
+Ninguna licencia podrá concederse por más de seis meses. Las de los Magistrados de las Salas Ordinarias, cuando no excedan de un mes, serán concedidas por el Presidente del Tribunal con goce de sueldo; las que excedan de ese tiempo, así como las del Presidente del Tribunal, las concederá el Congreso del Estado, sin goce de sueldo.
+
+No se autorizarán licencias que tengan como propósito ocupar o desempeñar algún otro cargo ya sea a nivel federal, estatal o municipal, sea o no de elección popular.
 
 ###### Artículo 11.
 
-El pago del impuesto deberá ser efectuado a más tardar el día siguiente hábil a aquel en que se haya realizado cualquiera de los actos, convenios o contratos objeto de este impuesto.
-
-En los casos en que los actos gravados se deriven de convenios o contratos, el impuesto se pagará a más tardar al día siguiente hábil de su fecha, independientemente del momento en que surtan sus efectos.
-
-Tratándose de contribuyentes o retenedores habituales, efectuarán el pago a más tardar el día 15 del mes siguiente, por las operaciones correspondientes al mes inmediato anterior por el que causaron el impuesto o estuvieron obligados a retener.
+Las faltas temporales de los Magistrados serán cubiertas por el Secretario de Estudio y Cuenta adscrito al Magistrado ausente y será designado por el Presidente del Tribunal. Las faltas temporales del Presidente del Tribunal serán cubiertas por el Magistrado que designe el propio Presidente. Si las faltas de los Magistrados son definitivas, la designación del nuevo Magistrado se efectuará en los términos del Artículo 6 de esta Ley. Se considera que la falta de un Magistrado es definitiva, cuando se prolonga por más de seis meses.
 
 ###### Artículo 12.
 
-Los bienes y negociaciones de los cuales se deriven ingresos gravados por este impuesto, responderán por el pago de éste.
+El Tribunal de lo Contencioso Administrativo tendrá un Presidente que durará en su cargo dos años y no podrá ser reelecto para el período inmediato.
 
 ###### Artículo 13.
 
-Los sujetos de este impuesto tendrán las siguientes obligaciones:
+La elección del Presidente del Tribunal, se efectuará por los mismos Magistrados, en la primera sesión del año que corresponda.
 
-I. Tratándose de contribuyentes habituales, solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas, utilizando al efecto las formas aprobadas. La Secretaría de Finanzas podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto. Las sucursales u otras dependencias de la matriz deberán inscribirse por separado;
-
-II. Presentar declaración en las oficinas autorizadas, junto con la documentación o contratos de este impuesto;
-
-III. Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria de las operaciones realizadas y del pago del impuesto; y
-
-IV. Permitir y facilitar a las autoridades fiscales, el acceso e inspección que se requiera para comprobar los datos e información presentada.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 14.
 
-Tienen responsabilidad solidaria para el pago del impuesto:
+Para ser Secretario General de Acuerdos, Secretario de Estudio y Cuenta, y Actuario del Tribunal, se deberán reunir los mismos requisitos que se establecen para los Magistrados, a excepción del referente a la fracción II del Artículo 8 de esta Ley, en cuyo caso bastará con poseer título de Licenciado en Derecho.
 
-I. Quien celebre con el sujeto directamente obligado al pago del impuesto, cualesquiera de los actos, convenios o contratos, objeto de éste; y
-
-II. Los Notarios o Fedatarios Públicos, cuando intervengan en actos, convenios o contratos que causen este impuesto y no se cercioren o asienten que tuvieron a la vista y dieron fe del pago correspondiente.
-
-Los responsables solidarios estarán obligados a retener y enterar el impuesto, en los siguientes casos:
-
-a) Cuando el enajenante, cedente, u otorgante resida fuera del Estado; y
-
-b) Cuando el adquiriente, cesionario o beneficiario, no se cerciore del pago del impuesto.
+Tratándose del Secretario General de Acuerdos y de los Secretarios de Estudio y Cuenta, ellos deberán contar, además, con por lo menos dos años de ejercicio profesional o práctica jurisdiccional por el mismo lapso en el Tribunal de lo Contencioso Administrativo o en algún otro órgano jurisdiccional.
 
 ###### Artículo 15.
 
-Se exime del pago de este impuesto:
+Los Secretarios y Actuarios del Tribunal serán nombrados por el Pleno.
 
-a) Los actos, convenios o contratos de carácter civil, si se causa y se paga por dichos conceptos el Impuesto al Valor Agregado;
-
-b) La donación y la transmisión por herencia realizada entre los cónyuges o sus ascendientes y descendientes en línea recta;
-
-c) La aportación de bienes a una sociedad o asociación;
-
-d) La transmisión de bienes entre dependencias y organismos públicos descentralizados del Gobierno del Estado de Tamaulipas;
-
-e) La donación de bienes a instituciones de asistencia social con reconocimiento oficial, así como a Dependencias y Organismos Públicos Descentralizados del Gobierno del Estado de Tamaulipas;
-
-f) En un 50 por ciento, la enajenación de bienes muebles efectuada por los adultos mayores, así como por los jubilados y pensionados domiciliados en el Estado; y
-
-g) La enajenación de vehículos efectuada por personas domiciliadas en el Estado, cuyo modelo sea de veinte o más años, anteriores al de aplicación de esta ley.
-
-### CAPITULO II. DEL IMPUESTO SOBRE JUEGOS PERMITIDOS
+### CAPITULO IV. DEL PRESIDENTE DEL TRIBUNAL
 
 #### Sección Primera. del (sic) Registro Civil
 
 ###### Artículo 16.
 
-Están obligados al pago del impuesto sobre juegos permitidos, las personas físicas, morales o unidades económicas sin personalidad jurídica:
-
-I. Que organicen o celebren rifas, sorteos, loterías, apuestas y concursos de toda clase, aun cuando por dichos eventos no se cobre la cantidad alguna que represente el derecho de participar en los mismos, exceptuando los que se obsequien para promover la venta de bienes y la prestación de servicios. No se consideran incluidos en los concursos los torneos en los que únicamente participen deportistas no profesionales;
-
-II. Que obtengan ingresos o premios derivados o relacionados con las actividades a que se refiere la fracción anterior, incluyendo las participaciones de bolsas formadas con el importe de las inscripciones o cuotas que se distribuyan en función del resultado de las propias actividades.
-
-No se considera como ingreso o premio el reintegro correspondiente al billete que permitió participar en loterías;
-
-III. Que organicen o celebren las actividades a que se refiere la fracción I de este artículo u obtenga los premios derivados de las mismas, independientemente del lugar donde se realice el evento.
-
-Las personas o instituciones que organicen o celebren los eventos señalados en la fracción I y III de éste artículo, les deberán retener el impuesto que se cause.
-
-Tratándose de premios en especie, quienes los obtengan deberán proveer los recursos necesarios para la retención del impuesto.
+Los Magistrados, Secretarios, Actuarios y demás servidores públicos, estarán impedidos para desempeñar cualquier otro cargo o empleo de la Federación, Estados o Municipios, o cualquier entidad paraestatal o paramunicipal o de particulares. Quedan exceptuados los cargos de carácter docente u honorífico. También estarán impedidos para ejercer su profesión, salvo en causa propia.
 
 ###### Artículo 17.
 
-Para determinar la base del impuesto se tomarán en cuenta las siguientes disposiciones:
+El Tribunal de lo Contencioso Administrativo será competente para conocer de los juicios que se promuevan en contra de los actos o resoluciones que se indican a continuación, dictados, ordenados, ejecutados o que se pretenda ejecutar, por autoridades administrativas, fiscales o entidades de la Administración Pública Paraestatal o de los Municipios del Estado de Nuevo León, cuando estas últimas actúen en carácter de autoridad:
 
-I. Para los sujetos de este impuesto que organicen o celebren loterías, rifas, sorteos, juegos con apuesta o concursos de toda clase, se considera el valor total de la emisión de los boletos, billetes, contraseñas o cualquier otro comprobante que permita participar en cualquiera de los eventos objeto de este impuesto, disminuyendo aquellos no enajenados y que no participen en la posibilidad de obtener premios.
+I.- Que determinen la existencia de una obligación fiscal, la fijen en cantidad líquida o den las bases para su liquidación;
 
-Para los sujetos de este impuesto que realicen las actividades señaladas en el párrafo anterior fuera del territorio del Estado, se considerará únicamente el valor de los boletos, billetes, contraseñas y cualquier otro comprobante que se hayan vendido dentro del Estado;
+II.- Que nieguen la devolución de un ingreso de los regulados por las leyes fiscales indebidamente percibidos por el Estado o los Municipios; o cuando se niegue por las mismas autoridades la devolución de un saldo a favor del contribuyente;
 
-Cuando los comprobantes que permitan participar en cualquiera de los eventos objeto de este impuesto, sean de tipo gratuito o no se cobre cantidad alguna para tener derecho a participar en ellos, servirá de base del impuesto, el valor con el que se promocione cada uno de los ingresos o premios, o en su defecto, el de su facturación, siempre y cuando dichos valores coincidan con el valor de mercado de artículos idénticos o semejantes al momento de su causación.
+III.- Los dictados en el procedimiento administrativo de ejecución, siempre y cuando se afirme:
 
-Cuando los boletos se distribuyan en varias entidades federativas, para determinar la base se considerará la proporción que representen los boletos o cualquier tipo de comprobantes distribuidos en el Estado del total que los mismos se emitan.
+a) Que el crédito que se exige se ha extinguido legalmente, o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la oficina ejecutora o se refiera a recargos, gastos de ejecución o a la indemnización a que se refiere el Artículo 22 del Código Fiscal del Estado;
 
-II. Para los sujetos en este impuesto que obtengan los ingresos o premios entregados o cobrados en el territorio del Estado, será el valor determinado o determinable que se obtenga.
+b) Que se es poseedor, a título de propietario, de los bienes embargados en el procedimiento administrativo de ejecución seguido contra otras personas; o que se es acreedor preferente al fisco, para ser pagado con el producto de los mismos.
 
-Tratándose de premios en especie, será base del impuesto el valor con el que se promocione cada uno de los premios, o en su defecto, el valor de su facturación, siempre y cuando dichos valores coincidan con el valor de mercado de artículos idénticos o semejantes al momento de su causación.
+El tercero que afirme ser propietario de los bienes o negociaciones, o titular de los derechos embargados, podrá promover el juicio en cualquier tiempo antes de que se finque el remate, se enajenen fuera de remate o se adjudiquen los bienes a favor del fisco estatal o municipal. El tercero que afirme tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales estatales o municipales, podrá promover el juicio antes de que se haya aplicado el importe del remate a cubrir el crédito fiscal; y
+
+c) Que el procedimiento administrativo de ejecución no se encuentra ajustado a la ley. En este caso, las violaciones cometidas antes de la etapa del remate sólo podrán hacerse valer hasta el momento de la convocatoria en primera almoneda, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables o de actos de imposible reparación material, en cuyo caso el juicio podrá interponerse contra el acta en que conste la diligencia de embargo. Si las violaciones tuvieran lugar con posterioridad a la mencionada convocatoria o se trate de venta de bienes fuera de subasta, el juicio se interpondrá contra la resolución que finque el remate o la que autorice la venta fuera de subasta.
+
+En los juicios que se promuevan por alguna de las causas a que se refieren los dos últimos incisos de esta fracción, no podrá discutirse la existencia del crédito fiscal;
+
+IV.- Que causen un agravio en materia fiscal o administrativa, distinto a los precisados en los incisos anteriores, así como todos aquellos actos realizados por cualquier autoridad administrativa, estatal o municipal, fuera del procedimiento de ejecución fiscal;
+
+V.- Que impongan sanciones no corporales por infracción a las leyes y reglamentos estatales o municipales, de carácter administrativo o fiscal;
+
+VI.- Que determinen responsabilidad administrativa en contra de los servidores públicos del Estado o de los Municipios;
+
+VII.- Los dictados en materia de pensiones con cargo al erario estatal o a cargo de los municipios de la Entidad, o de las instituciones estatales o municipales de seguridad social;
+
+VIII.- Que se refieran a la interpretación, cumplimiento o incumplimiento de contratos administrativos, en los que sean parte el Estado o los Municipios, o sus entidades paraestatales o paramunicipales;
+
+IX.- Los relativos a la responsabilidad patrimonial extracontractual reclamada al Estado, a los Municipios, o a las entidades paraestatales o municipales;
+
+X.- Los que se promuevan contra cualquier acto u omisión definitivos de las autoridades administrativas del Estado, de los Municipios y de sus entidades paraestatales o municipales, que afecten los intereses jurídicos de los particulares;
+
+XI.- Los que se promuevan en contra de las resoluciones dictadas por las autoridades administrativas o fiscales, estatales o municipales, al resolver los recursos establecidos por las leyes y reglamentos respectivos;
+
+XII.- Los que promuevan las autoridades estatales o municipales o los titulares de sus entidades paraestatales o municipales, para que sean nulificadas las resoluciones administrativas o fiscales dictadas por ellas mismas, favorables a los particulares;
+
+XIII.- Los que se promuevan en contra de las resoluciones negativas fictas, configuradas por el silencio de la autoridad para dar respuesta a la instancia de un particular en el plazo que la Ley fije o a falta de término de cuarenta y cinco días;
+
+XIV.- Los demás que se promuevan en contra de actos o resoluciones que por su naturaleza o por disposición de otras leyes se consideren como competencia del Tribunal.
+
+De igual manera, el Tribunal de lo Contencioso Administrativo será competente, por medio del Presidente o del Magistrado de la causa, según sea el caso, para conocer y resolver los recursos de revisión y queja que se promuevan conforme a lo dispuesto en los Artículos 90, 91 y 92 de esta Ley.
 
 ###### Artículo 18.
 
-El impuesto a que se refiere este Capítulo no se expresará por separado en los billetes, boletos y demás comprobantes que permitan participar en los eventos objeto del impuesto.
+Son atribuciones del Pleno del Tribunal:
 
-El pago de este impuesto no libera de la obligación de obtener los permisos o autorizaciones correspondientes.
+I.- Establecer los criterios de interpretación de las disposiciones legales que serán obligatorios para el propio Tribunal únicamente;
+
+II.- Designar de entre sus miembros al Presidente del Tribunal;
+
+III.- Nombrar al Secretario General de Acuerdos, a los Secretarios, Actuarios, así como concederles licencias y acordar lo que proceda respecto a su remoción;
+
+IV.- Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos competencia del Tribunal;
+
+V.- Designar las comisiones que sean necesarias para la administración interna del Tribunal;
+
+VI.- Formular anualmente el proyecto de presupuesto de egresos del Tribunal;
+
+VII.- Expedir o modificar el Reglamento Interior del Tribunal, así como las demás disposiciones necesarias para su buen funcionamiento;
+
+VIII.- Dictar las medidas administrativas para el buen funcionamiento y disciplina del Tribunal y aplicarlas a los Secretarios, Actuarios y demás empleados;
+
+IX.- Publicar las tesis, criterios y sentencias del Tribunal que deban darse a conocer por ser de interés general;
+
+X.- Las demás que señala la Ley.
 
 ###### Artículo 19.
 
-Para efectuar el cálculo de este impuesto se estará a las siguientes reglas:
-
-I. Se aplicará una tasa del 6 por ciento a la base gravable contemplada en la fracción I del artículo 17; y
-
-II. Se aplicará una tasa del 6 por ciento a la base gravable contemplada en la fracción II del artículo 17.
+Las resoluciones del Pleno se tomarán por mayoría de votos de los Magistrados, quienes no podrán abstenerse de votar, sino cuando tengan impedimento legal. El Presidente gozará de voto de calidad en los casos de empate.
 
 ###### Artículo 20.
 
-Tratándose de los organizadores o de los que celebren las loterías, rifas, sorteos, juegos con apuesta o concursos de toda clase, el impuesto se causará en el momento en que inicia la entrega de los boletos, billetes, contraseñas o cualquier otro tipo de comprobante, a los participantes.
+Son atribuciones del Presidente del Tribunal:
 
-Tratándose de las personas que obtengan premios, el impuesto se causará en el momento que los mismos les sean pagados o entregados por los organizadores o por los que celebren los eventos objeto de este impuesto.
+I.- Resolver los recursos de revisión que se interpongan en contra de las resoluciones de los Magistrados instructores;
+
+II.- Conocer y resolver, previo informe del Magistrado de la causa, de las excitativas que para la impartición de justicia promuevan las partes, cuando no se dicte la resolución que corresponda dentro de los plazos señalados por esta Ley;
+
+III.- Calificar las excusas o impedimentos de los Magistrados del Tribunal y, en su caso, designar a quienes deban sustituirlos;
+
+IV.- Establecer las reglas para la distribución de los asuntos entre los Magistrados;
+
+V.- Conocer del cumplimiento de las sentencias que dicte y en su caso ejecutarlas;
+
+VI.- Aplicar los medios de apremio para hacer cumplir las resoluciones del Tribunal;
+
+VII.- Conocer de las denuncias o quejas que se presenten en contra de los Magistrados y demás personal del Tribunal, así como de las irregularidades que cometieran en el ejercicio de sus funciones, y acordar la aplicación de sanciones; previa audiencia del denunciado;
+
+VIII.- Resolver las contradicciones que se susciten entre las sentencias de los Magistrados;
+
+IX.- Representar al Tribunal ante toda clase de autoridades;
+
+X.- Despachar la correspondencia del Tribunal;
+
+XI.- Dirigir los debates y conservar el orden de las sesiones del Pleno;
+
+XII.- Tramitar los demás asuntos de su competencia, hasta ponerlos en estado de resolución;
+
+XIII.- Administrar el presupuesto del Tribunal;
+
+XIV.- Firmar, en unión del Secretario General de Acuerdos, las actas en que se hagan constar las deliberaciones y acuerdos del Pleno;
+
+XV.- Firmar, conjuntamente con el Secretario General de Acuerdos, los engroses de sus resoluciones;
+
+XVI.- Rendir al Pleno del Tribunal un informe dentro de los primeros quince días del mes de enero de cada año, dando cuenta de la marcha del Tribunal y de los principales criterios de interpretación adoptados;
+
+XVII.- Designar al personal administrativo; y
+
+XVIII.- Los demás asuntos de carácter ordinario no reservados al Pleno.
 
 ###### Artículo 21.
 
-Los organizadores habituales de las actividades gravadas por este impuesto deberán pagar mensualmente, a más tardar el día 15 del mes siguiente al de su causación.
+Corresponde al Secretario General de Acuerdos del Pleno:
 
-Tratándose de los organizadores eventuales, se pagará el día siguiente a aquel en el que se realicen o celebren las actividades gravadas por este impuesto.
+I.- Acordar con el Presidente lo relativo a las sesiones de la misma;
+
+II.- Dar cuenta al Presidente de las excitativas de justicia que se presenten y de los asuntos a trámite; contar la votación de los Magistrados; formular el acta relativa y comunicar las decisiones que se acuerden;
+
+III.- Proyectar los acuerdos de trámite de la Presidencia;
+
+IV.- Engrosar los fallos del Presidente y autorizarlos;
+
+V.- Autorizar con su firma las actuaciones del Pleno;
+
+VI.- Preparar y ejecutar las órdenes relacionadas con el ejercicio del presupuesto de egresos asignado;
+
+VII.- Tramitar los movimientos del personal y gestionar el cumplimiento de las obligaciones laborales del personal administrativo de la misma;
+
+VIII.- Coordinar las funciones administrativas necesarias para el buen funcionamiento del Tribunal;
+
+IX.- Preparar la edición del órgano oficial de difusión del Tribunal y otras publicaciones;
+
+X.- Coordinar la difusión de las actividades del Tribunal;
+
+XI.- Compilar las resoluciones del Tribunal y de otros organismos jurisdiccionales vinculados con la materia administrativa y fiscal; y
+
+XII.- Las demás que le atribuyan las disposiciones legales, le ordene el Pleno o el Presidente.
 
 ###### Artículo 22.
 
-Quienes organicen o celebren rifas, sorteos, loterías, apuestas y concursos de toda clase tendrán las siguientes obligaciones:
+Corresponde a los Secretarios de Estudio y Cuenta:
 
-I. Tratándose de organizadores habituales:
+I.- Dar cuenta al Magistrado de su adscripción, de las promociones presentadas por las partes el mismo día de su presentación;
 
-a) Solicitar su inscripción en el Registro de contribuyentes de la Secretaría de Finanzas del Estado, utilizando para el efecto las formas aprobadas; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo.
+II.- Proyectar los acuerdos de trámite y las resoluciones;
 
-La Secretaría de Finanzas del Estado podrá inscribir de oficio a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto;
+III.- Desahogar las diligencias que se les encomiende;
 
-b) Retener el impuesto que corresponda a los premios pagados o entregados y enterarlo, en las oficinas autorizadas mediante las formas aprobadas dentro de los primeros quince días del mes inmediato posterior al de su causación;
+IV.- Levantar las actas de las audiencias en las que corresponde dar cuenta y autorizar las resoluciones que recaigan en los expedientes;
 
-c) Proporcionar al interesado, constancia de retención del impuesto cuando así lo solicite la persona que obtenga el premio;
+V.- Expedir copias certificadas de las constancias que obren en los expedientes, a solicitud de los interesados; y
 
-d) Presentar declaraciones mensualmente en las oficinas autorizadas mediante las formas aprobadas, en las que se incluirán el impuesto retenido y en su caso, el que corresponda por su propia actividad;
-
-e) Cuando los sujetos realicen eventos en varios establecimientos acumularán la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el Estado;
-
-f) Manifestar ante la autoridad fiscal competente las reglas para la celebración de las actividades objeto de este impuesto antes de que inicie la distribución de los boletos o cualquier otro comprobante que permita participar en las mismas. En caso de que se hagan modificaciones a las citadas reglas, deberá dar aviso a más tardar 15 días antes de que se realicen dichas actividades;
-
-g) Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria de los eventos realizados y del pago del impuesto que corresponda;
-
-h) Si los premios ofrecidos consisten en bienes distintos de dinero, señalarán en moneda nacional el valor de los mismos;
-
-II. Tratándose de organizadores eventuales tendrán las obligaciones señaladas en los incisos c), f), g) y h) de la fracción anterior, además de las siguientes:
-
-a) Retener el impuesto que corresponda a los premios y enterarlo en las oficinas autorizadas mediante las formas aprobadas, el día siguiente hábil al de su causación;
-
-b) Garantizar el interés fiscal por el importe estimado de los impuestos que se puedan causar. Para este efecto el jefe de la Oficina Fiscal fijará bajo su responsabilidad, el importe de la garantía; y
-
-c) Presentar declaración el día siguiente hábil al de la realización ó celebración de la actividad gravada.
+VI.- Las demás que le atribuyan las disposiciones legales aplicables, o disponga el Presidente del Tribunal.
 
 ###### Artículo 23.
 
-No se pagará este impuesto, por la organización o la celebración de loterías, rifas, sorteos y concursos de cualquier tipo que lleven a cabo las Dependencias de Gobierno Federal, de los Gobiernos de los Estados y de los Municipios, así como los organismos públicos descentralizados de la administración pública federal, estatal y municipal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
+Corresponde a los Actuarios:
 
-No obstante lo anterior, estas instituciones deberán cumplir con la obligación de retener y enterar el impuesto que se cause por la obtención de los ingresos o premios.
+I.- Notificar en tiempo y forma, los acuerdos y las resoluciones recaídas en los expedientes que para tal efecto les sean turnados;
 
-En ningún caso se entenderán exentos del pago del impuesto los ingresos o premios obtenidos.
+II.- Practicar las diligencias que les encomiende la Sala y levantar las actas respectivas; y
 
-Los organismos públicos descentralizados a que se refiere este artículo, tendrán las obligaciones previstas en el artículo 22 de la presente ley, con excepción de la establecida en el inciso f) de la fracción I y el inciso b) de la fracción II.
+III.- Las demás que le atribuyan las disposiciones legales, o disponga el Presidente del Tribunal.
 
 ###### Artículo 24.
 
-Para los efectos de este Capítulo se considerarán sujetos habituales del impuesto aquellas personas que realicen 2 o más actividades objeto de este impuesto en el período de un año.
+El personal del Tribunal tendrá cada año los días inhábiles y los períodos de vacaciones que correspondan al Poder Judicial del Estado.
+
+Antes de iniciar un período de receso, el Presidente del Tribunal designará al personal que provea los trámites de asuntos urgentes durante el receso.
 
 #### Sección Segunda. del (sic) Registro Público de la Propiedad Inmueble
 
 #### Sección Tercera. del (sic) Registro Público del Comercio
 
-### CAPITULO III. DEL IMPUESTO SOBRE HONORARIOS
+### CAPITULO V. DEL PERSONAL DEL TRIBUNAL
 
 ###### Artículo 25.
 
-Es objeto de este impuesto, la percepción de ingresos derivados del libre ejercicio de una profesión, de actividad técnica, cultural, artística, deportiva o de cualquier otra naturaleza, cuando se ejerza sin estar subordinada a un patrón, dentro del territorio del Estado.
-
-Se considera que la actividad se realiza dentro del territorio del Estado cuando:
-
-a) La persona que realiza la actividad gravada reside en el Estado;
-
-b) Cuando la actividad gravada se realice dentro del territorio del Estado, sin importar el domicilio del que lo presta, comprendiendo el caso que se preste por personal a su servicio o por interpósita persona; y
-
-c) Cuando la persona que recibe el servicio reside en el Estado.
+Los Magistrados de las Salas Ordinarias conocerán indistintamente de los juicios que se promuevan ante el Tribunal de lo Contencioso Administrativo, en los casos a que se refieren las fracciones I a XIV del Artículo 17, así como de los recursos de queja que se interpongan con motivo de sus resoluciones, quienes los substanciarán y resolverán con arreglo al procedimiento que señala esta Ley; a falta de disposición expresa y en cuanto no se oponga a lo que prescribe este ordenamiento, se estará a lo dispuesto en el Código de Procedimientos Civiles para el Estado de Nuevo León.
 
 ###### Artículo 26.
 
-Son sujetos de este impuesto las personas físicas que perciban los ingresos a que se refiere el artículo anterior.
+Toda promoción deberá estar firmada por quien la formule, requisito sin el cual se tendrá por no presentada. Cuando el promovente no sepa o no pueda firmar, lo hará otra persona en su nombre y el interesado imprimirá su huella digital.
 
-Cuando las personas a que se refiere el párrafo anterior operen organizadas en agrupaciones profesionales, asociaciones o sociedades de carácter civil, serán las personas físicas los sujetos del impuesto.
+Ante el Tribunal no procederá la gestión oficiosa; quien promueva a nombre de otro deberá acreditar su personalidad mediante carta poder ratificada ante Notario Público o ante el Secretario o mediante poder notarial que conste en escritura pública, salvo que acredite tener reconocida su personalidad por la autoridad demandada.
 
 ###### Artículo 27.
 
-La base de este impuesto es el monto total mensual de los ingresos gravados.
-
-Tratándose de los sujetos del impuesto a que se refiere el segundo párrafo del artículo anterior, la base del impuesto será la parte que a cada uno de ellos le corresponda en los ingresos totales de la organización.
+Las demandas, contestaciones, ocursos, informes y, en general, toda clase de actuaciones deberán redactarse en castellano. Los documentos que se presentaren en idioma extranjero deberán ser acompañados con la correspondiente traducción.
 
 ###### Artículo 28.
 
-La Secretaría de Finanzas del Estado podrá determinar presuntivamente la base de este impuesto, en los siguientes casos:
-
-I. Cuando no se presenten las declaraciones, no lleven los libros o registros o no expidan la documentación comprobatoria a que están obligados por las disposiciones federales o las establecidas en este Capítulo;
-
-II. Cuando por los informes o documentación que se disponga se conozca la obtención de un ingreso superior al declarado en un cinco por ciento, cuando menos; y
-
-III. Cuando los contribuyentes se opongan u obstaculicen el inicio o desarrollo de las facultades de comprobación de las autoridades fiscales.
-
-Para la determinación presuntiva de la base del impuesto, se tendrá en cuenta las actividades realizadas, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse. Se aplicará en lo conducente lo dispuesto en el Código Fiscal del Estado.
+Las diligencias que deban practicarse fuera del recinto del Tribunal, se encomendarán a los Actuarios o a los Secretarios. Las que deban practicarse fuera del Area Metropolitana de Monterrey se harán a solicitud de parte interesada, mediante exhorto que se envíe al Juez de Primera Instancia competente que corresponda, por conducto del Tribunal Superior de Justicia.
 
 ###### Artículo 29.
 
-Este impuesto se causará con la tasa del 2 por ciento sobre la base a que se refieren los dos artículos anteriores.
+Las audiencias serán públicas, salvo los casos en que la moral, el interés público o la Ley exijan que sean reservadas.
 
 ###### Artículo 30.
 
-El pago del impuesto se hará mensualmente a más tardar el día 15 del mes siguiente al en que se realizaron las actividades objeto de este impuesto, haciendo uso de las formas aprobadas por la Secretaría de Finanzas del Estado.
+Cuando las leyes o reglamentos establezcan algún recurso o medio de defensa administrativo, será optativo para el particular agotarlo o intentar directamente el juicio ante el Tribunal. Ejercitada la acción ante éste, se extinguirá el derecho para ocurrir a otro medio de defensa administrativo. Contra la resolución dictada en el recurso administrativo procede el juicio ante el Tribunal.
 
 ###### Artículo 31.
 
-Quienes hagan pagos a contribuyentes eventuales de este impuesto, deberán retenerlo y entregarlo en las oficinas autorizadas, dentro de los quince días siguientes al en que se cause, siendo en todo caso solidariamente responsable del pago del mismo.
+El Tribunal para hacer cumplir sus determinaciones o para imponer el orden durante las actuaciones, podrá hacer uso, indistintamente, de los siguientes medios de apremio:
 
-La misma obligación tendrán quienes en forma habitual o accidental efectúen pagos a personas que ejerzan sus actividades sin estar subordinados a un patrón, cuando éstos residan fuera del Estado o en el extranjero.
+I.- Amonestación;
+
+II.- Multa equivalente al monto de cinco a sesenta días de salario mínimo vigente en la ciudad de Monterrey;
+
+III.- Arresto hasta por veinticuatro horas;
+
+IV.- Auxilio de la fuerza pública.
 
 ###### Artículo 32.
 
-Los sujetos de este impuesto están obligados a:
-
-I. Solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas del Estado, utilizando para el efecto las formas aprobadas; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo. La Secretaría de Finanzas del Estado podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto;
-
-II. Presentar declaraciones en las oficinas autorizadas utilizando las formas aprobadas para el efecto;
-
-III. Proporcionar a las autoridades fiscales los datos e informes que les sean solicitados dentro del plazo que para ello se fije;
-
-IV. Recibir las visitas de inspección y proporcionar a los auditores fiscales comisionados para el efecto, todos los informes y documentos que soliciten en el desempeño de sus funciones; y
-
-V. Llevar libros o registros y expedir la documentación comprobatoria tanto de sus ingresos como del pago del impuesto.
+En los juicios que se tramiten ante el Tribunal no habrá lugar a condenación en costas; en consecuencia, cada parte será responsable de las que originen las diligencias que promuevan, así como los gastos y honorarios en que incurran con motivo de la tramitación del juicio.
 
 ###### Artículo 33.
 
-Los retenedores de este impuesto y en general quienes hagan pagos a los sujetos del mismo, tienen obligación de proporcionar los datos y documentos que les sean solicitados por las autoridades fiscales del Estado, para verificar el correcto pago de este gravamen.
+Serán partes en el procedimiento:
+
+I.- El demandante;
+
+II.- Los demandados. Tendrán este carácter:
+
+a) La autoridad que dicte, ordene, así como la que ejecute, trate de ejecutar u omita la resolución o acto impugnado, o en su caso, quienes la sustituyan; y
+
+b) El particular a quien favorezca la resolución cuya modificación o nulidad pida la autoridad administrativa.
+
+III.- Siempre será parte la Dependencia del Ejecutivo del Estado a quien determine la Ley, si la resolución o acto impugnado es de naturaleza administrativa estatal; y el Secretario de Finanzas y Tesorero General del Estado, si es de naturaleza fiscal estatal. En caso de que la resolución o acto impugnado provenga de una autoridad municipal, la representación de ésta corresponderá al Síndico del Ayuntamiento, observándose lo previsto en la Ley Orgánica de la Administración Pública Municipal del Estado.
+
+IV.- Los terceros. Tienen este carácter:
+
+a) Cualquier persona cuyos intereses jurídicos sean o puedan ser afectados por las resoluciones del Tribunal; o
+
+b) Quien se apersone en el juicio como coadyuvante de las autoridades administrativas o fiscales, con un interés jurídico directo en la modificación o anulación de un acto favorable a un particular, o en la confirmación de uno que le es desfavorable.
 
 ###### Artículo 34.
 
-Están exentos del pago de este impuesto:
+Los particulares podrán autorizar para oír y recibir notificaciones en su nombre a Licenciados en Derecho que tengan cédula profesional registrada ante el Tribunal. Las personas autorizadas quedan facultadas para intervenir en todas las etapas del proceso, interponer recursos, ofrecer y rendir pruebas y alegar en la audiencia respectiva.
 
-I. Los ingresos que perciben los artesanos;
+Siempre que dos o más personas ejerciten una misma acción u opongan la misma excepción, deberán litigar unidas y bajo una misma representación. El representante común estará facultado para actuar en los términos del párrafo anterior.
 
-II. Los ingresos que perciban los agentes de instituciones de crédito, de seguros y de fianzas; y
-
-III. Los ingresos a que se refiere este Capítulo, cuando por ellos se cause y se pague el Impuesto al Valor Agregado.
-
-### CAPITULO IV. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 35.
 
-El objeto de este impuesto es la prestación de servicios de hospedaje, el otorgamiento de albergue y cualquier otro servicio de naturaleza análoga.
+Las resoluciones serán notificadas, personalmente, dentro del tercer día hábil a partir de aquél en que se pronunciaron; por lista, al día hábil siguiente al de ser emitidas; o por correo certificado con acuse de recibo, en cuyo caso la pieza postal deberá ser depositada en el correo al día hábil siguiente de que se dictó la resolución.
 
 ###### Artículo 36.
 
-Para efecto de este impuesto, se entenderá como servicios de hospedaje, además de los citados en el artículo anterior los siguientes:
-
-I. La prestación de servicios, bajo el sistema de tiempo compartido o de cualquier otra denominación, mediante el que se conceda el uso o goce y demás derechos que se convengan sobre un bien o parte del mismo, ya sea una unidad cierta, considerada en lo individual, o una unidad variable dentro de una clase determinada, durante un período específico, a intérvalos determinados o determinables;
-
-II. La prestación de servicios de paraderos de casas rodantes, móviles o autotransportables, mediante los que se otorgue el espacio e instalaciones para el establecimiento temporal de estas; y
-
-III. Los servicios de campamento a través de los que se otorguen espacios para acampar.
+Desde el primer escrito que presenten, los particulares deberán señalar domicilio en cualquier municipio del área metropolitana de Monterrey, comunicando el cambio del mismo para que se hagan las notificaciones personales indicadas en esta Ley. En caso de que los particulares no cumplan con las anteriores prevenciones, las notificaciones que deban ser personales se harán en la forma prevista en la fracción IV del Artículo 38 de esta Ley.
 
 ###### Artículo 37.
 
-Son sujetos de este impuesto las personas que reciban los servicios de hospedaje, mediante la retención que deberán efectuar los prestadores de los mismos.
+Para los efectos de esta Ley, son días hábiles todos los del año menos los sábados y domingos; el 1o. de enero, el 5 de febrero, el 21 de marzo, el 1o. y 5 de mayo, el 16 de septiembre, el 12 de octubre, el 20 de noviembre, el 25 de diciembre así como aquéllos en los que se suspendan las labores por acuerdo del Tribunal o por determinación de otras disposiciones legales.
+
+Son horas hábiles las comprendidas de las ocho a las diecinueve horas. Las horas de oficina del Tribunal se comprenderán de las ocho a las quince horas.
+
+El Tribunal podrá habilitar los días y horas inhábiles, cuando lo juzgue necesario.
 
 ###### Artículo 38.
 
-La base gravable de este impuesto será el monto total del pago por el servicio de hospedaje, los ingresos por la prestación del servicio de hospedaje recibido, incluyendo depósitos, anticipos, intereses normales o moratorios, penas convencionales y cualquier otro concepto de la misma naturaleza.
+Las notificaciones se harán:
 
-Cuando los retenedores realicen la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como transportación, alimentos, uso de instalaciones u otros similares y no desglosen y comprueben con la documentación correspondiente la prestación de éstos, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
+I.- A las autoridades por oficio, o personalmente a sus delegados o representantes si estuvieren presentes en el Tribunal;
 
-Tratándose de servicios de hospedaje recibidos bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, además del costo de la membresía o certificado de titularidad, el monto de los pagos que se reciban por cuotas de mantenimiento u otras similares.
+II.- A los particulares personalmente cuando:
+
+a) Se trate de la primera notificación;
+
+b) Se dejare de actuar durante más de dos meses consecutivos;
+
+c) Se trate de prevenciones, requerimientos y apercibimientos;
+
+d) Se trate de la resolución definitiva o interlocutoria; y
+
+e) El Tribunal lo estime urgente o necesario;
+
+III.- Por lista o por correo certificado con acuse de recibo cuando no sea la notificación personal;
+
+IV.- Fuera de los casos señalados en las fracciones anteriores, las notificaciones se harán personalmente en el Tribunal a los particulares, si se presentaren dentro de las veinticuatro horas siguientes al día en que se haya dictado la resolución; en caso contrario, por medio de listas autorizadas por el Actuario, que se fijarán a las trece horas en el tablero de avisos del Tribunal.
+
+Cuando el servicio postal devuelva por cualquier causa un oficio de notificación, ésta se hará personalmente y cuando fehacientemente no fuere posible, por lista.
 
 ###### Artículo 39.
 
-El monto del impuesto se determinará aplicando la tasa del 2 por ciento a la base gravable a que se refiere el artículo anterior.
+En el expediente respectivo, el Actuario asentará razón del envío por correo o la entrega de los oficios de notificación, así como de las notificaciones personales o por lista. Los acuses de recibo postales y las piezas certificadas devueltas, se agregarán como constancia a dichas actuaciones.
 
 ###### Artículo 40.
 
-Para los efectos de este capítulo, el impuesto se causará cuando se realice cualquiera de los supuestos siguientes:
-
-I. Se pague parcial o totalmente el servicio a que se refiere el artículo 38 de esta Ley;
-
-II. Se expida el comprobante que ampare el servicio recibido; y
-
-III. Cuando el servicio sea prestado.
+Todas las notificaciones surtirán efectos a partir del día hábil siguiente al en que sean practicadas.
 
 ###### Artículo 41.
 
-El impuesto deberá pagarse mensualmente, a más tardar el día quince del mes siguiente a aquel al que corresponda el pago, presentándose al efecto, declaración en la Oficina Fiscal de su jurisdicción, en las formas aprobadas.
+Las notificaciones que no fueran practicadas en la forma que establecen las disposiciones precedentes serán nulas. Las partes afectadas podrán pedir su nulidad antes de que se dicte sentencia, ofreciendo las pruebas en el mismo escrito en que se promueva. El Tribunal decidirá de plano sin formar expediente. Declarada la nulidad, el procedimiento se repondrá a partir de la notificación irregular.
+
+Si se declara la nulidad de la notificación, se impondrá al servidor público responsable, una multa equivalente a un salario mínimo diario vigente en la Ciudad de Monterrey. Podrá ser destituido de su cargo en caso de reincidencia, sin responsabilidad para el Estado.
 
 ###### Artículo 42.
 
-Los sujetos de este impuesto tendrán las siguientes obligaciones:
-
-I. Al solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas del Estado, utilizando para el efecto las formas aprobadas. La Secretaría de Finanzas podrá inscribir a los contribuyentes cuando tenga a su disposición informes o documentos por este impuesto.
-
-Las sucursales u otras dependencias de la matriz deberán inscribirse por separado;
-
-II. Retener a los usuarios de los servicios de hospedaje, el impuesto correspondiente y enterarlo a las oficinas autorizadas dentro del plazo señalado en este capítulo. Los retenedores de este impuesto están obligados a enterarlo, aún cuando no hubieren hecho la referida retención, pero si hubiesen prestado el servicio;
-
-III. Presentar ante las mismas autoridades, los avisos de cambios de datos contenidos en su solicitud de inscripción en los términos del Código Fiscal del Estado;
-
-IV. Presentar declaraciones, así como los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto;
-
-V. Trasladar, en forma expresa y por separado, a los usuarios de los servicios de hospedaje, el impuesto correspondiente;
-
-VI. Conservar, a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria de las operaciones realizadas y del pago del impuesto;
-
-VII. Cuando los sujetos operen con varios establecimientos, deberán acumular la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el Estado; y
-
-VIII. Llevar la contabilidad y expedir comprobantes por las contra prestaciones que obtenga, de conformidad con el Código Fiscal del Estado. Deberá conservar una copia de los comprobantes a disposición de las autoridades fiscales.
+Cuando el afectado se haga sabedor de una providencia cuya notificación fue omitida o irregular, ésta se convalidará al comparecer dentro del juicio.
 
 ###### Artículo 43.
 
-La Secretaría de Finanzas del Estado podrá determinar presuntivamente la base gravable de este impuesto, cuando los contribuyentes se opongan u obstaculicen el inicio o desarrollo de las facultades de comprobación de las autoridades fiscales, cuando se omita presentar alguna declaración o cuando no presenten a las autoridades fiscales la contabilidad para efectos de su revisión, así como los datos, documentos o informes que éstas le requieran. Para este efecto, la Secretaría de Finanzas del Estado, presumirá como base gravable del impuesto la siguiente:
+El cómputo de los términos se sujetará a las reglas siguientes:
 
-a) El monto total de las contraprestaciones recibidas a cambio del servicio de hospedaje, en el mismo mes del año anterior, actualizándolas con el factor a que se refiere el artículo 18- A del Código Fiscal del Estado, desde el mes del año anterior y hasta el mes a que se refiere la determinación presuntiva. En caso de haber aumentado la capacidad de servicio, se incrementará la base en la misma proporción; y
+I.- Comenzarán a correr desde el día hábil siguiente al en que se realice la notificación; serán improrrogables y se incluirá en ellos el día del vencimiento; y
 
-b) La que resulte del monto total de las contraprestaciones por el servicio de hospedaje que observen durante siete días incluyendo los inhábiles cuando menos, y el promedio diario resultante se multiplicará por el número de días que comprende el período objeto de revisión.
+II.- Se contarán por días hábiles.
 
 ###### Artículo 44.
 
-Este impuesto no se causa por los servicios de hospedaje proporcionados por hospitales, clínicas, asilos, conventos, seminarios o internados.
+Son causas de ilegalidad y por tanto de anulación de los actos impugnados, los siguientes:
 
-### CAPITULO V. DEL IMPUESTO SOBRE NOMINAS
+I.- Incompetencia de la autoridad;
+
+II.- Incumplimiento u omisión de las formalidades del procedimiento o de la resolución combatida;
+
+III.- Aplicación indebida o falta de aplicación de la disposición debida;
+
+IV.- Indebida o inadecuada fundamentación y motivación y ausencia de firma autógrafa del servidor público emisor del acto;
+
+V.- La falta de contestación a una petición del particular dentro del término de cuarenta y cinco días hábiles, salvo los términos más reducidos que fije la ley de la materia;
+
+VI.- Arbitrariedad, desproporción, desigualdad, desvío de poder, injusticia manifiesta o cualquier otra causa similar, tratándose de imposición de sanciones o la aplicación de facultades discrecionales.
+
+### CAPITULO II. DE LAS PARTES
 
 ###### Artículo 45.
 
-Son objeto de este impuesto, los pagos y erogaciones que representen ingresos en efectivo, en especie y en crédito por concepto de remuneraciones al trabajo personal, prestado bajo la subordinación a un patrón, siempre y cuando se generen dentro del territorio del Estado o los perciban personas domiciliadas en el mismo.
+La demanda deberá formularse por escrito y presentarse directamente ante el Tribunal, o por correo certificado cuando el actor tenga su domicilio fuera del área metropolitana de Monterrey, en cuyo caso se tomará como fecha de presentación de la demanda, la del depósito de la misma ante la oficina de correos.
 
-Para los efectos de este gravamen se consideran remuneraciones al trabajo personal, todas las contraprestaciones, cualquiera que sea el nombre con que se les designe, ya sean ordinarias o extraordinarias, incluyendo viáticos, gastos de representación, comisión, permisos, gratificaciones y otros conceptos de naturaleza análoga.
+La demanda deberá llenar los siguientes requisitos:
+
+I.- El nombre y domicilio del actor o, en su caso, de quien promueva en su nombre;
+
+II.- La autoridad o autoridades demandadas o el nombre y domicilio del particular demandado en el caso previsto en el segundo párrafo del artículo 46 de esta Ley;
+
+III.- El acto, el procedimiento o la resolución que se impugnen;
+
+IV.- La fecha de notificación o en la que se tuvo conocimiento de la existencia del acto impugnado;
+
+V.- El nombre y domicilio del tercero perjudicado;
+
+VI.- Los hechos en que apoye la demanda, y los agravios que le causa el acto, el procedimiento o la resolución impugnados;
+
+VII.- Las pruebas que el actor ofrezca y que sustentan la demanda; y
+
+VIII.- La pretensión que se deduce.
+
+Cuando se omitan estos requisitos, el Magistrado que conozca del asunto requerirá mediante notificación personal al demandante para que los proporcione en un plazo de cinco días, apercibiéndolo de que de no hacerlo, se tendrá por no presentada la demanda. Cuando no obstante el apercibimiento omitiere ofrecer o acompañar pruebas, solamente se le tendrá por perdido el derecho de ofrecerlas.
 
 ###### Artículo 46.
 
-Son sujetos de este impuesto las personas físicas o morales que realicen los pagos por concepto de remuneración al trabajo personal.
+El término para interponer la demanda será de treinta días hábiles, contados desde el día siguiente al en que se haya notificado al afectado la resolución, el procedimiento o el acuerdo que reclama, o al en que haya tenido conocimiento de ellos o de su ejecución, o al en que se hubiere ostentado sabedor de los mismos.
+
+Cuando la autoridad promueva la nulidad de una resolución favorable a un particular, la demanda podrá presentarse dentro de los cinco años siguientes a la fecha en que haya sido notificada la resolución, salvo que la misma haya originado efectos de tracto sucesivo, caso en el cual la autoridad podrá demandar su nulidad en cualquier tiempo; pero los efectos de la sentencia, en este último caso, si se declaran nulos, solo se retrotraerán hasta los cinco años anteriores a la presentación de la demanda.
+
+Cuando se trate de negativa ficta, el derecho a demandar nace al transcurrir cuarenta y cinco días después de que el particular presentó su petición, salvo que haya términos más reducidos en la ley de la materia, en cuyo caso el plazo iniciará al día siguiente al que haya concluido el plazo legal previsto por la ley de la materia.
+
+En los casos de negativa ficta, el demandante tendrá el derecho de ampliar la demanda dentro de los treinta días hábiles siguientes a aquel en que surta efectos la notificación de la contestación de la misma.
 
 ###### Artículo 47.
 
-Es base de este impuesto, el monto total de los pagos por concepto de remuneración al trabajo personal.
+El demandante deberá adjuntar a su demanda:
+
+I.- El documento que acredite su personalidad cuando no gestione a nombre propio, a menos que compruebe que dicha personalidad le fue reconocida por la autoridad demandada dentro del procedimiento del que emanó el acto impugnado;
+
+II.- El documento en que conste el acto impugnado, así como el acta de su notificación. Copia de la instancia no resuelta por la autoridad demandada, cuando se impugne la negativa ficta;
+
+III.- Las pruebas documentales que ofrezca. Cuando las pruebas no obren en poder del actor o cuando no hubiere podido obtenerlas y las tenga alguna autoridad, bastará con que señale el lugar donde se encuentran y que demuestre que las solicitó oportunamente, para que el Tribunal solicite su remisión;
+
+IV.- El cuestionario que deba desahogar el perito o el interrogatorio que deberán contestar los testigos, debidamente firmados por el oferente, asimismo señalará los nombres y domicilios de los peritos y testigos. Cuando el actor amplíe la demanda, al escrito de ampliación deberán acompañarse los documentos y pruebas a que se refiere este Artículo en lo conducente; y
+
+V.- Una copia de la demanda y de los documentos anexados a ella, para cada una de las partes, siempre que éstos no pasen de veinticinco fojas, pues si se exceden, los documentos quedarán en la Secretaría para que se impongan de ellos las partes.
+
+Cuando el actor no acompañe los documentos a que se refiere este Artículo, dará lugar a que se le requiera en los términos establecidos en el Artículo 45, pero por lo que hace al acto o resolución impugnados o al acta de notificación, bastará que manifieste bajo protesta de decir verdad que no se levantó o que no se le dejó copia de ellos, para que se tenga por presentada la demanda.
 
 ###### Artículo 48.
 
-La Secretaría de Finanzas del Estado podrá determinar presuntivamente la base de este impuesto, cuando los contribuyentes se opongan u obstaculicen el inicio o desarrollo de las facultades de comprobación de las autoridades fiscales; cuando se omita presentar alguna declaración o cuando se omita en el importe declarado para el pago de este impuesto a más de un trabajador o dicho importe sea inferior en un 5 por ciento de la cantidad que debe declarar.
+El Tribunal desechará la demanda en los casos siguientes:
 
-Para este efecto, la Secretaría de Finanzas del Estado presumirá como base del impuesto:
+I.- Si encontrare motivo manifiesto o indudable de improcedencia; y
 
-a) El número de trabajadores y las erogaciones correspondientes a los mismos, declarados para los efectos del Instituto Mexicano del Seguro Social o del Instituto para el Fondo Nacional de la Vivienda de los Trabajadores;
-
-b) La que resulte de considerar, por cada trabajador a su servicio, el importe de cuatro veces el salario mínimo diario del área geográfica correspondiente al domicilio del contribuyente multiplicado por el número de días cada uno de los meses sujeto a revisión; y
-
-c) La que resulte de aplicar el 40 por ciento a los importes consignados en las estimaciones de obra o en los comprobantes que esté obligado a expedir en los términos de las disposiciones fiscales federales, tratándose de contribuyentes que realicen obras de construcción aún en los casos en que no hubieran celebrado los contratos correspondientes. El porcentaje mencionado podrá ser menor cuando el contribuyente compruebe que el tipo de obra realizada implica una menor proporción de mano de obra.
+II.- Si fuera obscura o irregular y habiéndose prevenido al actor para subsanarla, éste no lo hiciere en el plazo de cinco días.
 
 ###### Artículo 49.
 
-Este impuesto se causará con la tasa del 2 por ciento sobre la base a que se refiere el artículo 48 de la presente ley.
+No encontrándose irregularidades en la demanda o subsanadas éstas, se admitirá y correrá traslado de ella a la parte demandada y a los terceros, emplazándolos para que la contesten dentro del término de treinta días hábiles, apercibiéndolos de que de no hacerlo se presumirán ciertos los hechos expresados en la demanda. Si se estima prudente, en el mismo acuerdo se citará para la audiencia del juicio que deberá celebrarse en plazo no mayor de diez días, contados a partir de que concluya el término del emplazamiento, y se dictarán las demás providencias que procedan con arreglo a la Ley.
 
 ###### Artículo 50.
 
-El impuesto deberá pagarse mensualmente, a más tardar el día quince del mes siguiente a aquél que corresponda el pago, presentándose al efecto declaración en las oficinas autorizadas, en las formas de llenado aprobadas.
+El término para contestar la demanda, así como la ampliación de ésta, será de treinta días hábiles y correrá individualmente a partir del día siguiente al de la notificación.
 
-Los contribuyentes deberán presentar declaraciones siempre que haya cantidad a pagar, así como la primera declaración sin pago. Cuando se presente una declaración de pago sin impuesto a cargo, se presumirá que no existe impuesto a pagar en las declaraciones posteriores y no se presentarán las siguientes declaraciones, hasta que exista cantidad a pagar, siempre que en este supuesto, se cumplan con los requisitos que establezcan las disposiciones fiscales aplicables.
+Los demandados y el tercero perjudicado, en su contestación, se referirán a cada uno de los puntos contenidos en el escrito de demanda, expondrán los fundamentos legales que consideren aplicables al caso y a las pruebas que ofrezcan.
+
+En los casos de resolución negativa ficta, en la contestación de la demanda se expresarán los hechos y los fundamentos jurídicos que pudieran existir en apoyo de la misma.
 
 ###### Artículo 51.
 
-Son obligaciones de los sujetos de este impuesto:
+Al escrito de contestación se deberán acompañar:
 
-l. A solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas del Estado, utilizando para el efecto las formas aprobadas; las personas morales estarán obligadas a entregar una copia de su acta o documento constitutivo.
+I.- El documento justificativo de la personalidad del demandado cuando sea un particular y no actúe en nombre propio. Tratándose de servidores públicos acompañarán copia del documento que certifique o contenga su nombramiento, designación o delegación de facultades;
 
-La Secretaría de Finanzas del Estado de oficio podrá inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto. Las sucursales u otras dependencias de la matriz deberán inscribirse por separado;
+II.- Las pruebas documentales que ofrezca;
 
-II. Presentar ante las mismas autoridades los avisos de cambios de datos contenidos en su solicitud de inscripción en los términos del Código Fiscal del Estado;
+III.- El cuestionario que deban desahogar los peritos y el interrogatorio que deberán contestar los testigos, debidamente firmados por el demandado, expresando los nombres y domicilios de los mismos, y
 
-III. Presentar declaraciones, así como los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto; y
-
-IV. Cuando los sujetos operen con varios establecimientos deberán acumular la información de todos ellos en la declaración que corresponda su domicilio fiscal en el Estado.
+IV.- Una copia de la contestación de la demanda y sus anexos para cada una de las otras partes. En caso de que éstos excedan de veinticinco fojas, quedarán en la Secretaría a disposición de las partes. Cuando no se adjunten estos documentos, el Magistrado los requerirá mediante notificación personal para que los presenten dentro de un plazo de cinco días, apercibiéndolos de que de no hacerlo en tiempo, se tendrá por no contestada la demanda.
 
 ###### Artículo 52.
 
-Están exentos del pago de este impuesto:
+El tercero perjudicado podrá ser señalado por las partes o comparecer por sí mismo al juicio e interponer defensas y excepciones, aportar las pruebas que considere pertinentes y formular alegatos.
 
-I. Las erogaciones que se cubran por concepto de:
+### CAPITULO III. DE LAS NOTIFICACIONES Y DE LOS TERMINOS
 
-a) Participación de los trabajadores en las utilidades de las empresas;
+### CAPITULO IV. DE LAS CAUSALES DE ANULACION
 
-b) Indemnizaciones por riesgos o enfermedades profesionales, que se conceden de acuerdo con las leyes o contratos respectivos;
+### CAPITULO V. DE LA DEMANDA
 
-c) Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía y muerte;
-
-d) Indemnizaciones por rescisión o terminación, que tengan su origen en la prestación de servicios personales subordinados;
-
-e) Pagos por primas de antigüedad;
-
-f) Pagos por gastos funerarios;
-
-g) Gastos de representación y viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la Ley del Impuesto sobre la Renta;
-
-h) Las aportaciones de seguridad social;
-
-i) El ahorro, cuando se integre por un depósito de cantidad igual del trabajador y de la empresa, y las cantidades otorgadas por el patrón para fines sociales y sindicales;
-
-j) La alimentación y la habitación cuando se entreguen en forma onerosa a trabajadores. Se entiende que son onerosas estas prestaciones, cuando el cobro de cada una de ellas represente, como mínimo, el 20 por ciento de un día de salario mínimo, por cada día de trabajo; y
-
-k) Las despensas en especie. No se considerarán incluidos los vales, bonos u otros de naturaleza análoga.
-
-Para que las erogaciones mencionadas en esta fracción se excluyan de la base gravable, deberán estar debidamente comprobadas y registradas en la contabilidad del patrón.
-
-II. Las erogaciones que efectúen:
-
-a) Las asociaciones de asistencia social;
-
-b) Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas y que se encuentren registradas ante las autoridades estatales competentes del ramo;
-
-c) Las asociaciones religiosas debidamente registradas ante la Secretaría de Gobernación;
-
-d) Instituciones que impartan gratuitamente la educación, las federales por cooperación y las asociaciones civiles que impartan educación en cualquiera de sus niveles y que cuenten con autorización o reconocimiento de validez oficial y con planes de estudio autorizados por las autoridades competentes; y
-
-e) Clubes de servicio.
-
-### CAPITULO I. DE LAS DISPOSICIONES GENERALES
-
-### CAPITULO II. DE LOS SERVICIOS DE REGISTRO
-
-### CAPITULO III. DE LOS SERVICIOS PRESTADOS POR AUTORIDADES EDUCATIVAS DEL ESTADO
-
-### CAPITULO IV. DE LOS SERVICIOS CATASTRALES
+### CAPITULO VI. DE LA CONTESTACION
 
 ## TITULO III. DE LOS DERECHOS
 
-### CAPITULO V. DE LOS SERVICIOS PARA EL CONTROL VEHICULAR
+### CAPITULO VII. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
 
 ###### Artículo 53.
 
-Los derechos por servicios no previstos ni exceptuados expresamente en este Título, se determinarán por asimilación aplicando las cuotas o tasas que correspondan a los casos con los que tengan semejanza.
+Si la parte demandada no contesta la demanda dentro del término legal, el Tribunal tendrá por admitidos los hechos controvertidos.
 
 ###### Artículo 54.
 
-Para los efectos de la causación de los derechos sobre la base de salarios mínimos, para la aplicación de tarifas, de cantidades en millares o en porcentajes, los montos que resulten se ajustarán de conformidad con lo dispuesto en el artículo 21 del Código Fiscal del Estado para determinar el monto del pago de los mismos.
+No obstante existir tercero perjudicado, los demandados podrán allanarse a la demanda, en cuyo caso se dictará la resolución correspondiente sin mayor trámite.
 
 ###### Artículo 55.
 
-Cuando en este Título o en los Decretos que lo reformen se haga referencia a salarios mínimos como sistema para determinar las contribuciones que correspondan, deberá entenderse el salario mínimo diario vigente en la Capital del Estado. Asimismo, las modificaciones a los salarios mínimos generales que afecten las cantidades o la fijación de las contribuciones, se aplicarán en el mes en que entren en vigor.
+En el auto en que se admita la contestación de la demanda o se tenga por no contestada, se señalará fecha para la audiencia de pruebas y alegatos, la cual se celebrará dentro de un plazo que no excederá de diez días.
 
 ###### Artículo 56.
 
-Salvo lo dispuesto en el artículo siguiente, el pago de los derechos deberá hacerse previamente a la presentación de los servicios en las oficinas autorizadas, dentro de los plazos que se establezcan para tal efecto. En los casos de obligaciones a cumplirse por años de calendario, deberán hacerse, a falta de disposición expresa, en el mes de enero de cada año. La Secretaría publicará en su caso los plazos en que se prestará el servicio y el término en que deberá efectuarse el pago respectivo.
+El juicio ante el Tribunal de lo Contencioso Administrativo es improcedente:
 
-Los servidores públicos del Gobierno del Estado se abstendrán de actuar o, en su caso, de entregar documentos o constancias relativas hasta en tanto el usuario presente el comprobante de pago respectivo. El servidor público que no cumpliere con esta disposición tendrá responsabilidad solidaria con el contribuyente para el pago del importe de los derechos y sanciones que se causaren, independientemente de las penas que le correspondan.
+I.- Contra actos de autoridades de otras entidades federativas o dependientes de la Administración Pública Federal;
+
+II.- Contra actos legislativos del Congreso, sentencias o resoluciones del Poder Judicial, laudos de autoridades del trabajo y resoluciones de autoridades electorales y agrarias;
+
+III.- Contra actos que sean materia de otro juicio, recurso o medio de defensa administrativo que se encuentre pendiente de resolución, promovido por el mismo actor, contra las mismas autoridades y por los mismos actos, aunque los agravios alegados sean diversos;
+
+IV.- Contra actos que hayan sido materia de otro juicio contencioso administrativo;
+
+V.- Contra actos que no afecten los intereses jurídicos del actor, que se hayan consumado de un modo irreparable; o que hayan sido consentidos expresa o tácitamente, entendiéndose por éstos aquéllos contra los que no se promovió el juicio en los plazos señalados por esta Ley;
+
+VI.- Contra reglamentos, circulares o disposiciones de carácter general, que no se hayan aplicado concretamente al promovente;
+
+VII.- Cuando de las constancias de autos apareciere claramente demostrado que no existe el acto impugnado;
+
+VIII.- Cuando hayan cesado los efectos del acto impugnado o éste no pueda surtir efecto legal o material alguno; y
+
+IX.- En los demás casos en que la improcedencia resulte de alguna disposición legal.
 
 ###### Artículo 57.
 
-En los casos en que no se efectúe previamente a la prestación del servicio el pago de los derechos, en virtud de no poder determinar la base de los mismos, dicho pago se hará el mismo día en que sean determinables los derechos. La falta de pago oportuno de los derechos establecidos en el presente Título causarán recargos de conformidad con lo establecido por el artículo 22 del Código Fiscal del Estado, independientemente de la aplicación de las sanciones que señalen las leyes respectivas.
+Procede el sobreseimiento del juicio:
+
+I.- Por desistimiento expreso del actor;
+
+II.- Cuando durante el juicio apareciere o sobreviniere alguna de las causas de improcedencia a que se refiere el Artículo anterior;
+
+III.- Cuando la autoridad demandada satisfaga la pretensión del actor o revoque incondicional, plena y absolutamente el acto impugnado;
+
+IV.- Cuando el demandante muera durante el juicio, si el acto impugnado sólo afecta sus derechos personales;
+
+V.- Cuando no se haya efectuado ningún acto procesal durante el término de trescientos días consecutivos, ni el actor hubiere promovido en ese mismo lapso, siempre que la promoción sea necesaria para la continuación del procedimiento. En los juicios que se encuentren en revisión, la inactividad producirá la caducidad de esa instancia y el Presidente declarará firme la resolución recurrida. Celebrada la audiencia de ley o propuesto el asunto para resolverse, no procederá el sobreseimiento o la caducidad; y
+
+VI.- En los demás casos en que, por disposición legal, haya impedimento para emitir resolución en cuanto al fondo del negocio.
 
 ###### Artículo 58.
 
-El cobro de los derechos establecidos en el presente Título II dará lugar, en su caso, al ejercicio de la facultad económico coactiva, la cual se ejercerá por conducto de la Secretaría de Finanzas del Estado o la oficina dependiente de la misma en cuya jurisdicción hubiera sido prestado el servicio.
+Los Magistrados del Tribunal, bajo su responsabilidad se excusarán de intervenir en los siguientes casos:
+
+I.- Por ser cónyuge o pariente consanguíneo o por afinidad, del actor o del tercero perjudicado, de sus abogados o representantes, en línea recta sin limitación de grado, y dentro del cuarto grado en línea colateral; o dentro del segundo, por afinidad;
+
+II.- Por tener interés personal en el asunto que haya motivado el juicio;
+
+III.- Por tener amistad estrecha o enemistad manifiesta con alguna de las partes o de sus representantes;
+
+IV.- Por haber emitido la resolución o instruido el procedimiento combatido;
+
+V.- Por ser parte en un juicio similar pendiente de resolución por el Tribunal.
+
+Estas causas determinan la excusa forzosa de los Magistrados.
 
 ###### Artículo 59.
 
-Los derechos por concepto de constancias, certificaciones, cotejo, búsqueda y copia de documentos, legalización y ratificación de firmas, apostillamiento de documentos, resoluciones y opiniones administrativas por servidores públicos del Gobierno del Estado, se causarán conforme a la siguiente tarifa:
-
-I. Búsqueda de expedientes y documentos, tres días de salario mínimo certificación o expedición de copia certificada, un día de salario mínimo por hoja. Tratándose de certificación de expedientes de procedimientos judiciales o administrativos, se cobrará hasta 15 hojas, 1 día de salario mínimo; hasta 40 hojas, 2 días de salario; hasta 70 hojas, 3 días de salario; hasta 105 hojas, 4 días de salario; y de 106 hojas en adelante, 5 días de salario mínimo;
-
-II. Legalización o ratificación de firmas, por cada firma, tres días de salario mínimo;
-
-III. Resoluciones u opiniones administrativas, sobre documentos, operaciones o trámites y regularizaciones, 3 días de salario mínimo;
-
-IV. Apostillamiento de documentos, cinco días de salario mínimo; y
-
-V. Otorgamiento de constancia por el registro de título profesional ante el Poder Judicial del Estado, tres días de salario mínimo.
+Las partes podrán recusar a los Magistrados, a los Secretarios o a los peritos del Tribunal, cuando estén en alguno de los casos de impedimento a que se refiere el Artículo anterior.
 
 ###### Artículo 60.
 
-Los derechos por concepto de adscripción de aspirante, exámenes para obtener la patente de aspirante o el fíat de Notario Público, constancia de no inhabilitación para el servicio público y constancia de no antecedentes penales, se causarán conforme a lo siguiente:
+El Magistrado del Tribunal que se considere impedido para conocer de algún asunto, hará en autos la manifestación a que se refiere el Artículo anterior, y si ésta resulta procedente, el Presidente designará a quien deba sustituirlo en el conocimiento de dicho asunto.
 
-I. Por el examen para obtener la patente de aspirante de Notario Público, trescientos días de salario mínimo;
-
-II. Por el examen para obtener el fiat de Notario Público, cuatrocientos cincuenta días de salario mínimo;
-
-III. Constancia de no inhabilitación par (sic) el servicio público, tres días de salario mínimo;
-
-IV. Constancia de no antecedentes penales, tres días de salario mínimo;
-
-V. En los términos de la Ley del Notariado, por la adscripción de un aspirante a una Notaría Pública, 150 días de salario mínimo; y
-
-VI. Por la integración del expediente del aspirante a Notario Público, se pagarán ocho días de salario mínimo.
+El Magistrado que teniendo impedimento para conocer de un negocio no haga la manifestación correspondiente, incurre en responsabilidad; así mismo es responsable si no teniéndolo, pretende que se le aparte del conocimiento de aquél.
 
 ###### Artículo 61.
 
-No causarán los derechos establecidos en el artículo 59 de esta ley:
+Las partes en juicio podrán, dentro del término de ocho días a partir de que comparezcan ante el Tribunal, denunciar cualquiera de los impedimentos a que se refiere el Artículo 58. El impedimento se decidirá de plano, previo informe que rinda el recusado en la inteligencia de que las partes, al denunciar, ofrecerán las pruebas en que funden su petición, sin que sean admisibles pruebas testimoniales, periciales o la confesión.
 
-I. Las certificaciones, busca, cotejo y copias de documentos, así como la legalización y ratificación de firmas, comprendidas en otros capítulos de este Título;
+Si el Presidente del Tribunal declara infundado el motivo del impedimento, impondrá al promovente una multa de 10 a 70 veces el salario mínimo diario general vigente en la ciudad de Monterrey en la fecha en que denunció el impedimento.
 
-II. Las certificaciones y copias certificadas expedidas a quejosos para ser exhibidas en juicios de amparo promovidos contra actos del Gobierno del Estado. En estos casos deberá expresarse que su expedición se efectúa para ser presentada en el juicio de amparo respectivo;
-
-III. Las legalizaciones de firmas solicitadas oficiosamente por las autoridades judiciales en causas criminales y las solicitudes también de oficio por otras autoridades a condición, en este último caso, de que no sean para beneficio directo del solicitante o de otro particular; y
-
-IV. Las copias certificadas, certificaciones, ratificaciones, cotejo, legalización de firmas, busca de copias de documentos solicitados oficiosamente, por servidores públicos del Gobierno del Estado, de los Municipios o de la Federación en ejercicio y en cumplimiento de sus funciones.
-
-### CAPITULO VI. DE LOS DERECHOS POR SERVICIOS DE PREVENCION Y CONTROL DE LA CONTAMINACION DEL MEDIO AMBIENTE
+### CAPITULO VIII. DE LOS IMPEDIMENTOS Y EXCUSAS
 
 ###### Artículo 62.
 
-Los derechos por actas del Registro Civil se causarán conforme a la siguiente tarifa:
+Dentro del juicio contencioso administrativo, sólo serán admisibles como incidentes de previo y especial pronunciamiento los siguientes:
 
-I. INSCRIPCIONES.
+I.- Falta de personalidad;
 
-1. Inscripción de hechos relativos al nacimiento, reconocimiento de hijos, adopciones, defunción o inscripciones de sentencias, un día de salario mínimo;
+II.- El de acumulación de autos; y
 
-2. Inscripción de actas de matrimonio, diez días de salario mínimo;
+III.- El de suspensión del juicio por causa de muerte del actor, o del demandado si este último fuere el particular y se impugna un acto que sólo afecta a su persona.
 
-3. Inscripción de actas de divorcio:
-
-a) Expedidas en el país, ocho días de salario mínimo;
-
-b) Expedidas fuera del país, diez días de salario mínimo; y
-
-Cuando los servicios del Oficial del Registro Civil se presten a solicitud del interesado en horas o días inhábiles o en lugar distinto a la sede de la oficialía, su inscripción causará una cuota igual al importe de veinticinco días de salario mínimo.
-
-II. REGULARIZACIONES Y CANCELACIONES.
-
-a) El registro de actos celebrados en el extranjero causarán una cuota igual al importe de diez días de salario mínimo;
-
-b) La inscripción de las resoluciones judiciales de cancelación o rectificación de actas del estado civil causarán la cuota igual al importe de dos días de salario mínimo; y
-
-c) La corrección de errores en inscripciones causará la cuota igual al importe de tres días de salario mínimo.
-
-III. CERTIFICACIONES.
-
-Las certificaciones de constancias que obren en los libros del registro civil causarán la cuota igual al importe de un día de salario mínimo.
-
-IV. DIVORCIO ADMINISTRATIVO.
-
-Por la realización del trámite para la obtención de divorcio administrativo que efectúen las Oficialías del Registro Civil del Estado, incluyendo la anotación respectiva para la cancelación del matrimonio, se causará una cuota igual al importe de 30 días de salario mínimo.
-
-V. DIVERSOS.
-
-a) Por la búsqueda de documentos, dos días de salario mínimo; y
-
-b) Por trámite de actas foráneas, dos días de salario mínimo.
+Los incidentes se promoverán ante los magistrados instructores que conozcan del juicio respectivo.
 
 ###### Artículo 63.
 
-En los derechos que se causen por matrimonios a domicilio, los Oficiales del Registro Civil y sus Secretarios, tendrán derecho a una participación, los primeros de un 12 por ciento y los segundos de un 7 por ciento.
+La acumulación de dos o más juicios es procedente en los siguientes casos:
+
+I.- Cuando las partes sean las mismas y se invoquen idénticos agravios;
+
+II.- Cuando siendo diferentes las partes el acto impugnado sea el mismo, ya sea que esté impugnado total o parcialmente; y
+
+III.- Cuando se impugnen actos o resoluciones que sean antecedente o consecuencia de otros, independientemente de que las partes sean o no las mismas y los agravios sean o no diversos.
 
 ###### Artículo 64.
 
-Los servicios que se presten en el Registro Público de la Propiedad Inmueble causarán derechos conforme a la siguiente tarifa:
+Las partes podrán promover el incidente de acumulación hasta antes de la celebración de la audiencia del juicio. La acumulación podrá tramitarse de oficio.
 
-I. La inscripción o registro de títulos, ya se trate de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier otra clase por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, o de contratos no mercantiles de enajenación de bienes muebles o inmuebles, sobre el valor 8 al millar;
+La acumulación se tramitará ante el Magistrado que esté conociendo el juicio primeramente promovido, aportándose las pruebas conducentes. Dicho magistrado resolverá lo que proceda en el plazo de tres días hábiles.
 
-II. Por la calificación de todo documento que se devuelva sin cumplimentar por carencia u omisión de requisitos, impedimento legal o a petición del interesado, cada vez que se presente, el importe de un día de salario mínimo;
+Una vez decretada la acumulación, el Magistrado que conozca del juicio más reciente, deberá enviar los autos al que conoció del primer juicio, en un plazo que no excederá de tres días hábiles.
 
-III. La inscripción de la escritura constitutiva, cualquier modificación a la misma, aumento de capital social de sociedades civiles o asociaciones civiles sobre el capital, 4 al millar, si no se consigna el monto del capital social con el importe de 10 días de salario mínimo;
-
-IV. La inscripción de poderes públicos y privados no mercantiles y la sustitución de los mismos, con el equivalente a cuatro días de salario mínimo, si un solo poderdante designa un solo apoderado; por cada poderdante o apoderado adicionales se cobrará además tres días de salario mínimo.
-
-Por la revocación o renuncia de los poderes, por cada una se cobrará tres días de salario mínimo;
-
-V. La inscripción o anotación de embargos, servidumbres, fianzas o de gravámenes o limitaciones a la propiedad y a la posesión de bienes inmuebles y muebles, como consecuencia de contratos, resolución judicial o disposición testamentaria, 4 al millar;
-
-VI. La inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío otorgados por instituciones de crédito, de seguros o de fianzas sobre el importe de la operación, 4 al millar;
-
-VII. La inscripción de la constitución del patrimonio familiar y de las informaciones ad-perpetuam, con el importe de un día de salario mínimo;
-
-VIII. La inscripción de testamentos y de constancias relativas a actuaciones en juicios sucesorios, independientemente de los derechos por depósito de la inscripción de transmisiones a que haya lugar, con el importe de un día de salario mínimo;
-
-IX. La inscripción de la condición de resolutoria sobre bienes muebles en los casos de venta, de pacto de reserva de dominio, de la prenda en general, de la prenda de frutos pendientes de bienes raíces y de la prenda de títulos de créditos, el 75 por ciento de las cuotas que establece la fracción I de este artículo y al practicarse la inscripción complementaria se cobrará el 25 por ciento restante;
-
-X. La inscripción de fraccionamientos de terrenos, así como de actos, contratos, convenios o resoluciones judiciales o administrativas por las que se lotifique, relotifique, divida o subdivida un inmueble, causarán derechos de inscripción como sigue:
-
-a) Lote urbano, cinco días de salario mínimo;
-
-b) Lote rústico, un día de salario mínimo;
-
-Por la inscripción de la constitución de régimen de propiedad en condominio o sus modificaciones, por cada unidad cinco días de salario mínimo.
-
-XI. El depósito de testamentos y expedición de constancias respectivas, por cada una cuatro días de salario mínimo;
-
-XII. La cancelación del registro de cada sociedad civil o asociación civil por extinción de las mismas con el importe de tres días de salario mínimo;
-
-XIII. La cancelación de las inscripciones en los casos a que se refieren las fracciones V y VII, con el importe de tres días de salario mínimo, por cada anotación;
-
-XIV. La cancelación de las inscripciones relativas a los casos comprendidos en la fracción IX de este artículo, con el importe de 3 días de salario mínimo;
-
-XV. Búsqueda de documentos, tres días de salario mínimo; certificación o expedición de copia certificada de los mismos o de protocolos, un día de salario mínimo por hoja; certificado de libertad de gravamen y de no propiedad con el importe de tres días de salario mínimo;
-
-XVI. Inscripción en el Archivo General de Notarías:
-
-a) Por el registro de la patente notarial, noventa días de salario mínimo;
-
-b) Por el registro de la firma y sello del notario, cuatro días de salario mínimo;
-
-c) Por el registro de la patente de aspirantes a notarios públicos, dos días de salario mínimo;
-
-d) Por su autorización de cada libro del protocolo notarial, tres días de salario mínimo;
-
-e) Por la conservación de cada libro y sus anexos (apéndice) del protocolo notarial, 50 por ciento de un día de salario mínimo;
-
-XVII. Por la inscripción de avisos preventivos de compraventa, hipotecas y donaciones, el importe de cinco días de salario mínimo, por cada propiedad;
-
-XVIII. Por la inscripción de contratos de mutuo con o sin garantía hipotecaria celebrados entre particulares, sobre el importe de la operación 4 al millar; y
-
-XIX. Por la consulta de un legajo, dos días de salario mínimo.
-
-El importe de los derechos señalados en las fracciones I, III, V, VI, IX, y XVIII de éste artículo, en ningún caso será inferior al equivalente de dos días de salario mínimo.
-
-Cuando los servicios se presten a través de telefax o cualquier otro medio de comunicación se cobrarán adicionalmente cinco días de salario mínimo por hoja.
+No procede la acumulación cuando en alguno de los juicios ya se hubiere celebrado la audiencia o se encuentre en diversa instancia.
 
 ###### Artículo 65.
 
-Para la determinación y cobro de los derechos que establece el artículo anterior, se observarán las reglas siguientes:
-
-I. Se tendrá como valor para los efectos de la aplicación de las tasas en los casos relativos a la enajenación de los bienes inmuebles, aquel que sirva de base para el cálculo del Impuesto sobre Adquisición de Bienes Inmuebles sin deducción alguna; en los casos que no se cause dicho impuesto, se tomará como base el valor de los bienes inmuebles determinado en el avalúo pericial expedido por la Dirección de Catastro de la Secretaría de Finanzas del Estado;
-
-II. En las emisiones de las cédulas hipotecarias en que se constituya hipoteca en favor de una institución de crédito, por las condiciones, cuotas, derechos y otros conceptos que no puedan determinarse al momento de realizarse la operación, se pagará por la inscripción que se haga de dicha hipoteca independiente de la que se constituya a favor de los tenedores de las cédulas, la cual causará la cuota correspondiente por cantidad indeterminada;
-
-III. En toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en ella quedan comprendidos varios bienes, se pagará sobre el valor de cada uno de ellos. Si la transmisión comprende varios bienes y se realiza por una suma alzada, los interesados determinarán el valor que corresponda a cada uno de dichos bienes, a efecto de que sirva de base para el cobro de los derechos, debiendo observarse lo dispuesto en la fracción I de este artículo;
-
-IV. En las operaciones sobre bienes inmuebles, sujetos a condición suspensiva, resolutoria, reserva de dominio o cualquiera otra que deba originar una inscripción complementaria para su perfeccionamiento, se pagará de acuerdo a la tasa establecida en la fracción I del artículo 64 de esta ley;
-
-V. Para la aplicación de los derechos comprendidos en la fracción I del artículo 64 de esta ley, en su caso, la nuda propiedad y el usufructo se considerará el 50 por ciento de cada uno, del valor del inmueble consignado en el avalúo pericial expedido por la Dirección de Catastro. De la misma manera se procederá cuando se trate de derechos de uso, rentas vitalicias y otros casos similares;
-
-VI. Cuando se trate de contratos, demandas o resoluciones que se refieren a prestaciones periódicas, el valor se determinará en la suma de estas, si se puede determinar exactamente su cuantía, en caso contrario se tomará como base, la cantidad que resulte, haciendo el cómputo por un año; y
-
-VII. En los casos en que los servicios que preste el Registro Público de la Propiedad Inmueble y del Comercio no se encuentren expresamente previstos en esta Sección, los derechos que a ellos corresponda se causarán por asimilación, aplicando las disposiciones relativas a casos con los que guarden semejanza.
+Las demás cuestiones incidentales que surjan dentro del procedimiento, se substanciarán en la misma pieza de autos sin que se interrumpa la secuela del juicio, dándole vista a la parte interesada en el incidente y se fallarán junto con el principal.
 
 ###### Artículo 66.
 
-Se exime del pago de los derechos a que se refiere el artículo 64 de esta ley, a los contribuyentes domiciliados en el Estado, en los siguientes supuestos:
-
-I. Por la inscripción de las escrituras de terrenos que no excedan de 250 metros cuadrados y que hayan sido adquiridos a través de programas que implemente el Gobierno del Estado, por sí o a través de sus entidades.
-
-Para que se otorgue el beneficio señalado, el contribuyente debe acreditar no ser propietario de otro bien inmueble con constancia expedida por la Dirección del Registro Público de la Propiedad Inmueble y del Comercio;
-
-II. Por la parte que exceda al importe de 3 días de salario mínimo general vigente en la capital del Estado, a los causados por la inscripción de actos traslativos de dominio y de garantías reales o fiduciarias, cuando la adquisición consista en terrenos que se destinen a la construcción de casas habitación, así como adquisición de vivienda, siempre y cuando la superficie de terreno no exceda de 250 metros cuadrados y la construcción no tenga una superficie mayor a los 100 Metros cuadrados y se contraten a través de los programas de apoyo a la vivienda que se instrumenten por los Gobiernos Federal, del Estado y sus Municipios, así como sus organismos descentralizados; así como las adquiridas con créditos otorgados por instituciones financieras o concedido por los patrones a sus trabajadores. Dicha exención será aplicable sólo a aquellas personas físicas que no posean otra propiedad, lo cual acreditarán con constancia expedida por la Dirección del Registro Público de la Propiedad Inmueble y del Comercio;
-
-III. Por la inscripción de la cancelación de reserva de dominio solicitada por los organismos citados en la fracción anterior;
-
-IV. Por la inscripción de bienes inmuebles o derechos reales pertenecientes, al Gobierno del Estado, sus organismos descentralizados y a los Municipios;
-
-V. Por la inscripción de títulos dentro del Programa de Regularización de la Tenencia de la Tierra en propiedad o posesión particular en el territorio del Estado, que permita la reinscripción al programa de Apoyos Directos al Campo, de los predios rurales privados, con superficies elegibles, carentes de documentación y libre de toda litis, que ya estén inscritos en dicho Programa, sin importar el nombre de éste;
-
-VI. Por la inscripción de avisos preventivos de compra-venta, hipoteca o donaciones;
-
-VII. Por la inscripción de fraccionamiento de terrenos, así como los actos, contratos, convenios o resoluciones por las que se lotifique o relotifique, divida o subdivida un inmueble, que por cualquier medio la Comisión para la Regularización de la Tenencia de la Tierra realice o efectúe para regularizar, a sus ocupantes, la tenencia de la tierra, mediante su enajenación; y
-
-VIII. Por la inscripción de títulos de predios urbanos en tierras ejidales, tramitados a través de un organismo gubernamental.
+A petición expresa de parte, el magistrado instructor, en el mismo auto que admita la demanda, decretará la suspensión de los actos impugnados, haciéndolo saber sin demora a la autoridad demandada para su observancia.
 
 ###### Artículo 67.
 
-No se causarán los derechos a que se refieren los artículos 65 y 68 de esta ley por los informes que soliciten las autoridades judiciales por causa penales o juicios de amparo o por la expedición de copias certificadas, certificaciones, búsqueda de documentos e informes que soliciten oficialmente los servidores públicos del Gobierno del Estado en ejercicio de sus facultades como autoridades. Tampoco se causarán los derechos por la inscripción de embargos de bienes solicitados por dichos servidores públicos cuando se declare que dicho embargo se realiza para proteger o salvaguardar el patrimonio del Estado, garantizar el interés fiscal del Estado y en los casos que se requiera otorgar como garantía los bienes propiedad del Gobierno del Estado.
+La suspensión podrá solicitarla el actor en cualquier tiempo, mientras no se dicte sentencia definitiva, y tendrá por efecto mantener las cosas en el estado en que se encuentren hasta en tanto se pronuncie sentencia.
+
+No se otorgará la suspensión cuando, de obsequiarla, se siga perjuicio al interés social, se contravengan disposiciones de orden público o se dejare sin materia el juicio.
+
+Cuando los actos materia de impugnación hubieran sido ejecutados temporal o provisionalmente y se afecte a particulares impidiéndoles el ejercicio de sus actividades habituales, entre tanto se pronuncie la resolución definitiva que corresponda, el magistrado instructor podrá dictar las medidas que estime pertinentes para restituir al demandante y preservar la materia de la litis, siempre que no se lesionen derechos de terceros, pudiendo incluso ordenar el levantamiento del estado de clausura.
+
+La suspensión podrá ser revocada por el magistrado instructor en cualquier etapa del juicio, si varían las condiciones por las cuales se otorgó.
 
 ###### Artículo 68.
 
-Los servicios que se presten en el Registro Público del Comercio causarán derechos de acuerdo con la siguiente tarifa:
-
-I. El examen de todo documento, sea público o privado, que se presente al Registro para su inscripción, cuando se rehúse éste por no ser inscribible o cuando por otros motivos se devuelva sin inscribir, dos días de salario mínimo;
-
-II. La inscripción de documentos cuyo tenor y autenticidad deban hacerse notorios en los términos que lo dispone el artículo 16 fracción II del Código de Comercio, con el importe de cien días de salario mínimo;
-
-III. La inscripción de las escrituras constitutivas de Sociedades Mercantiles, o de las relativas a aumento de su capital social, se cobrarán sobre el monto del capital social o de los aumentos del mismo 8 al millar;
-
-IV. La inscripción de las modificaciones a la escritura constitutiva de Sociedades Mercantiles, siempre que no se refiera a aumento de capital social, con el importe de cuatro días de salario mínimo;
-
-V. La inscripción de actas de asamblea de socios o de juntas de administradores con el importe de cuatro días de salario mínimo;
-
-VI. El depósito del programa a que se refiere el artículo 92 de la Ley General de Sociedades Mercantiles con el importe de cuatro días de salario mínimo;
-
-VII. Por la inscripción del acta de emisión de bonos y obligaciones de Sociedades Anónimas, se cobrarán las cuotas que correspondan, conforme a la fracción III de esta Tarifa;
-
-VIII. La inscripción de los acuerdos de fusión o escisión de sociedades, con el importe de cuatro días de salario mínimo;
-
-IX. La inscripción de los acuerdos de disolución o liquidación de sociedades mercantiles con el importe de cuatro días de salario mínimo, aún en el caso en que se lleven a cabo en un solo acto;
-
-X. En los casos de las fracciones VIII y IX de este artículo, si como consecuencia de la liquidación, fusión o escisión de la sociedad, se adjudican bienes inmuebles, los derechos se causarán conforme a lo dispuesto en los artículos 65 fracción I y 66 fracción I de esta Ley;
-
-XI. La inscripción de poderes mercantiles y sustitución de los mismos, otorgados dentro o fuera del Estado, con el equivalente a cuatro días de salario mínimo si un solo poderdante designa un solo apoderado; por cada poderdante o apoderado adicional se cobrará además tres días de salario mínimo.
-
-Por la revocación o renuncia de los poderes, por cada una se cobrará tres días de salario mínimo. No se causarán los derechos previstos en esta fracción cuando los poderes que se otorguen a los administradores o gerentes de sociedades mercantiles, consten en las escrituras constitutivas o modificatorias de dichas sociedades.
-
-XII. Por la inscripción y revocación de poderes diferentes a los anteriores, con el importe de cuatro días de salario mínimo;
-
-XIII. La inscripción de habilitación de edad, licencia y emancipación para ejercer el comercio, licencia marital o el requisito que, en su defecto necesite la mujer para los mismos fines, la revocación de unos y otros y las escrituras y documentos a que se refieren las fracciones X y XI del artículo 21 del Código de Comercio con el importe de tres días del salario mínimo;
-
-XIV. La inscripción de contratos mercantiles de cualquier clase, derivados de los actos enumerados en el artículo 75 del Código de Comercio, sobre el valor 8 al millar;
-
-XV. Por inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío, otorgados por instituciones de crédito, de seguros, de fianzas, sobre el importe de la operación 4 al millar;
-
-XVI. La inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial, con el importe de cuatro días de salario mínimo;
-
-XVII. Búsqueda de documentos tres días de salario mínimo; certificaciones o copia certificada, un día de salario mínimo por hoja;
-
-XVIII. Anotaciones de fianzas, contra-fianzas, u obligaciones solidarias con el fiador, para el solo efecto de comprobar la solvencia del fiador, con fiador u obligado solidario, el importe de seis días de salario mínimo; y
-
-XIX. Por el registro del sello y firma que deben efectuar los corredores públicos en los términos de la Ley Federal de Correduría Pública, cuatro días de salario mínimo.
-
-El importe de los derechos señalados en las fracciones III, VII, XIII y XIV, de esta ley, en ningún caso será inferior al equivalente a tres días de salario mínimo.
+Cuando a juicio del Magistrado fuera necesario garantizar el interés fiscal, la suspensión del acto reclamado se concederá previo aseguramiento del mismo, en cualesquiera de las formas que establecen las disposiciones relativas, a menos que se demuestre que la garantía se constituyó con antelación ante la autoridad demandada.
 
 ###### Artículo 69.
 
-Para la determinación y cobro de los derechos que establece el artículo anterior, se observarán las reglas siguientes:
+En los casos en que proceda la suspensión y pueda ocasionar daños o perjuicios a terceros, se concederá si el actor otorga garantía bastante para reparar el daño e indemnizar los perjuicios que con aquélla se causaren, si no se obtiene sentencia favorable en el juicio.
 
-I. Cuando un mismo título origine dos o más inscripciones, los derechos se causarán por cada una de ellas;
+La suspensión quedará insubsistente si el tercero a su vez otorga caución bastante para que las cosas se mantengan en el estado en que se encontraban en el momento que ésta fue concedida y a cubrir los daños que sobrevengan en perjuicio del actor, en caso de que éste obtenga sentencia favorable.
 
-II. En los casos en que un título tenga que inscribirse en varias ocasiones, la cotización se hará separadamente por cada una de ellas;
+Para que surta efectos la caución que ofrezca el tercero conforme al párrafo anterior, deberá cubrir previamente el costo de la que hubiere otorgado el actor.
 
-III. En los contratos en los que medie condición suspensiva resolutoria, reserva de propiedad o cualquier otra modalidad que deba originar una inscripción complementaria para su perfeccionamiento, se pagará el 75 por ciento de lo que corresponda de acuerdo con el artículo anterior, y al practicarse la inscripción complementaria, el 25 por ciento restante;
-
-IV. Cuando deban hacerse inscripciones de distintas operaciones que se derivan de la constitución o disolución de una Sociedad Mercantil, salvo el caso previsto en la fracción X del Artículo 68, se deberán cobrar derechos exclusivamente por la inscripción que se haga en la Sección de Comercio;
-
-V. Los contratos que tengan prestaciones periódicas se valuarán en la suma de éstos, si se puede determinar exactamente su cuantía; en caso contrario por lo que resultare, haciendo el cómputo por un año; y
-
-VI. En los casos no previstos expresamente en el artículo anterior, los derechos por servicios, que se presten en el Registro Público de Comercio, se causarán por asimilación, en los términos de las fracciones relativas, a casos con los que guarden semejanza.
+No se admitirá la contragarantía cuando, de ejecutarse el acto demandado, quede sin materia el juicio.
 
 ###### Artículo 70.
 
-No se causarán los derechos a que se refiere el artículo 68 por las inscripciones de las Sociedades Cooperativas Escolares.
+Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el interesado deberá solicitarlo dentro de los treinta días siguientes a que cause ejecutoria la sentencia; si no lo hiciere dentro de ese término, se procederá a la devolución o cancelación de la garantía. La solicitud correspondiente se tramitará en la vía incidental.
 
-### CAPITULO VII. DERECHOS POR SERVICIOS DE ADMINISTRACION Y CONTROL DEL DESARROLLO URBANO
+### CAPITULO IX. DE LOS INCIDENTES
 
 ###### Artículo 71.
 
-Los servicios que prestan las autoridades educativas del Estado causarán derechos conforme a la siguiente tarifa:
+En el juicio contencioso administrativo son admisibles todas las pruebas que tengan relación directa con los hechos controvertidos, excepto la confesional por posiciones a cargo de la autoridad y las que fueren contrarias a la moral o al derecho.
 
-I. Certificación de estudios:
+Aquellas pruebas que se hubieren rendido ante las autoridades demandadas deberán ponerse a disposición del magistrado instructor con el expediente relativo, a petición de parte.
 
-1. Certificación de estudios de nivel básico, 75 por ciento de un día de salario mínimo;
+Las pruebas supervinientes podrán presentarse hasta antes de dictarse sentencia.
 
-2. Certificación de estudios de nivel medio superior, tres días de salario mínimo;
-
-3. Expedición de duplicado de certificado de estudios básicos y nivel medio-superior, 75 por ciento de un día de salario mínimo; y
-
-4. Expedición de duplicado de certificado de estudios de nivel superior, dos días de salario mínimo.
-
-II. Exámenes:
-
-1. Examen a título de suficiencia en estudios de nivel básico, 75 por ciento de un día de salario mínimo;
-
-2. Examen extraordinario de regularización en estudios de nivel básico y medio superior, 50 por ciento de un día de salario mínimo; y
-
-3. Examen extraordinario de regularización en estudios de nivel superior, un día de salario mínimo.
-
-III. Diplomas:
-
-1. Expedición de diploma de estudios básicos y nivel medio-superior, 75 por ciento de un día de salario mínimo; y
-
-2. Expedición de diploma de estudios superiores, tres días de salario mínimo.
-
-IV. Revalidaciones:
-
-1. Revalidación de estudios de primaria, 50 por ciento de un día de salario mínimo;
-
-2. Revalidación de estudios de secundaria por grado, 50 por ciento de un día de salario mínimo;
-
-3. Revalidación de estudios de preparatoria, cinco días de salario mínimo; y
-
-4. Revalidación de estudios de nivel superior, quince días de salario mínimo.
-
-V. Revisión de estudios:
-
-1. Revisión de estudios en nivel de estudios básico, 25 por ciento de un día de salario mínimo; y
-
-2. Revisión de estudios en nivel de superior, 50 por ciento de un día de salario mínimo.
-
-VI. Diversos:
-
-1. Expedición de carta de docencia, 25 por ciento de un día de salario mínimo;
-
-2. Legalización de documentos de Universidad y Normal Superior, 75 por ciento de un día de salario mínimo;
-
-3. Comprobación de cumplimiento de requisitos en estudios de nivel primaria, 25 por ciento de un día de salario mínimo;
-
-4. Comprobación de cumplimiento de requisitos en estudios de nivel secundaria, 50 por ciento de un día de salario mínimo;
-
-5. Corrección de nombre en nivel de estudios básico, 25 por ciento de un día de salario mínimo; y
-
-6. Comprobación de cumplimiento de requisitos en estudios de nivel medio superior y superior, un día de salario mínimo por alumno.
-
-### CAPITULO VIII. DERECHOS DE COOPERACION
+### CAPITULO X. DE LA SUSPENSION DE LOS ACTOS IMPUGNADOS
 
 ###### Artículo 72.
 
-Los servicios que se presten por las autoridades catastrales del Estado, causarán derechos conforme a la siguiente tarifa:
+El Magistrado instructor está facultado para calificar la pertinencia de las pruebas ofrecidas por las partes, y desechará aquellas que no se relacionen con los puntos controvertidos.
 
-I. REGISTROS CATASTRALES.
+Contra el auto que admite pruebas y contra el que las deseche, es procedente el recurso de revisión. Estas declaratorias se harán al fijarse la fecha de la audiencia del juicio.
 
-1. Revisión, cálculo y registro sobre planos de fraccionamiento o lotificaciones, por metro cuadrado;
-
-a) Urbanos en general, 0.50 por ciento de un día de salario mínimo;
-
-b) Urbanos, Viviendas Populares, 0.25 por ciento de un día de salario mínimo; y
-
-c) Campestres o industriales, 0.25 por ciento de un día de salario mínimo.
-
-2. Revisión, cálculo, aprobación y registro sobre planos de predios.
-
-a) Urbanos y suburbanos, sobre el valor catastral, 1 al millar;
-
-b) Rústico cuyo valor no exceda de cinco días de salario mínimo, 2.5 por ciento de un día de salario mínimo; y
-
-c) Rústico cuyo valor catastral sea superior a 5 días de salario mínimo, pagarán la cuota del inciso anterior y sobre el excedente de dicho valor el 1.5 por ciento.
-
-3. Revisión, cálculo, aprobación y registro de manifiestos de propiedad, un día de salario mínimo.
-
-II. CERTIFICACIONES CATASTRALES.
-
-a) Las (sic) certificación de registro sobre planos de predios proporcionados por los contribuyentes, tres días de salario mínimo;
-
-b) La certificación de valores catastrales, de superficies catastrales, de nombre del propietario, poseedor o detentador de un predio, de colindancias y dimensiones, de inexistencia de registro a nombre del solicitante y, en general, de manifiestos o datos de los mismos que obren en los archivos de la Secretaría de Finanzas, tres días de salario mínimo; y
-
-c) Búsqueda de documentos catastrales, tres días de salario mínimo.
-
-III. AVALUOS PERICIALES.
-
-Sobre el valor de los mismos, 2 al millar en ningún caso el importe a pagar será menor de tres días de salario mínimo.
-
-IV. SERVICIOS TOPOGRAFICOS.
-
-1. Deslinde de predios urbanos, por metro cuadrado, 5 por ciento de un día de salario mínimo.
-
-2. Deslinde de predios suburbanos y rústicos, por hectárea:
-
-a) Terrenos planos desmontados 50 por ciento de un día de salario mínimo;
-
-b) Terrenos planos con monte 60 por ciento de un día de salario mínimo;
-
-c) Terrenos con accidentes topográficos desmontados 70 por ciento de un día de salario mínimo;
-
-d) Terrenos con accidentes topográficos con monte 80 por ciento de un día de salario mínimo; y
-
-e) Terrenos accidentados un día de salario mínimo.
-
-3. Para los dos incisos, anteriores, cualquiera que sea la superficie del predio, el importe de los derechos no podrá ser inferior a cinco días de salario mínimo.
-
-4. Dibujo de planos topográficos urbanos, escalas hasta 1:500:
-
-a) Tamaño del plano hasta de 30 x 30 centímetros, cinco días de salario mínimo; y
-
-b) Sobre el excedente del tamaño anterior, por decímetro cuadrado o fracción 10 por ciento de un día de salario mínimo.
-
-5. Dibujo de planos topográficos suburbanos y rústicos, escalas mayor a 1:500:
-
-a) Polígono de hasta seis vértices, cinco días de salario mínimo;
-
-b) Por cada vértice adicional 10 por ciento de un día de salario mínimo; y
-
-c) Planos que exceden de 50 x 50 centímetros sobre los incisos anteriores, causarán derechos por cada decímetro cuadrado adicional o fracción 10 por ciento de un día de salario mínimo.
-
-6. Localización y ubicación del predio tres días de un salario mínimo.
-
-V. SERVICIOS DE COPIADO.
-
-1. Copias heliográficas de planos que obren en los archivos de la Secretaría de Finanzas del Estado:
-
-a) Hasta de 30 X 30 centímetros dos días de salario mínimo; y
-
-b) En tamaños mayores, por cada decímetro cuadrado adicional o fracción 1 al millar de un día de salario mínimo.
-
-2. Copias fotostáticas de planos o manifiestos que obren en los archivos de la Secretaría de Finanzas del Estado, hasta tamaño oficio, 20 por ciento de un día de salario mínimo.
-
-### CAPITULO IX. DE LOS SERVICIOS DIVERSOS
+### CAPITULO XI. DE LAS PRUEBAS
 
 ###### Artículo 73.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y oficinas autorizadas, hará efectivos los derechos por servicios para el control vehicular, conforme a la siguiente tarifa:
-
-I. Por la asignación del número de control vehicular y la expedición de las placas y de la documentación correspondiente;
-
-a) Automóviles, camiones y similares, dieciocho días de salario mínimo;
-
-b) Motocicletas y similares, seis días de salario mínimo;
-
-c) Bicicletas, y demás vehículos de tracción no motorizada, tres días de salario mínimo; y
-
-d) Remolques, ocho días de salario mínimo.
-
-Las personas físicas o morales que adquieran vehículos que no cuenten con placas, deberán hacerla dentro de los quince días siguientes a la fecha de adquisición.
-
-II. Por la asignación del número de control vehicular y la expedición de las placas y de la documentación correspondiente a vehículos del servicio público de transporte:
-
-1. De pasajeros:
-
-a) Sitio, treinta y dos días de salario mínimo;
-
-b) Libre, treinta y dos días de salario mínimo; y
-
-c) De ruta, treinta y dos días de salario mínimo.
-
-2. Especializado:
-
-a) Escolar, treinta y dos días de salario mínimo;
-
-b) De personal, sesenta y cuatro días de salario mínimo;
-
-c) Turístico y diversiones, treinta y dos días de salario mínimo;
-
-d) Servicio de Emergencia particulares, treinta y dos días de salario mínimo; y
-
-e) Funerarios, treinta y dos días de salario mínimo.
-
-3. De carga:
-
-a) Materiales y sustancias, treinta y dos días de salario mínimo;
-
-b) Mudanzas, treinta y dos días de salario mínimo;
-
-c) Grúas y plataformas, cien días de salario mínimo;
-
-d) Mensajería y valores, cien días de salario mínimo; y
-
-e) Reparto de productos o servicios, treinta y dos días de salario mínimo.
-
-Los derechos comprendidos en esta fracción y la anterior de este artículo deberán pagarse dentro de los tres primeros meses del año en que deba efectuarse el canje de placas, de conformidad con las disposiciones de las autoridades correspondientes.
-
-III. El cambio de características de vehículos que prestan el servicio público de transporte causan los derechos previstos en la fracción II de este artículo y deberán pagarse en el momento de su autorización;
-
-IV. Por la expedición de placas de demostración, cincuenta días de salario mínimo. Estas placas solo podrán expedirse a empresas que demuestren operar como comercializadoras habituales de vehículos;
-
-V. Por la revalidación de los derechos relativos a las fracciones I y II de este artículo se causarán a razón del 75 por ciento del importe señalado en las mismas y deberán pagarse cada año entre el 1º. de enero y el 31 de marzo;
-
-VI. Por la expedición de la constancia de cumplimiento de requisitos para la obtención de concesiones y permisos para la prestación del servicio público del transporte, así como para la prórroga de su vigencia, cien días de salario mínimo, por cada unidad;
-
-VII. Por la autorización para la cesión de derechos y obligaciones derivados de una concesión para la prestación del servicio público de transporte, cien días de salario mínimo, por cada unidad;
-
-VIII. Por el otorgamiento de permiso para la prestación del servicio privado de transporte de pasajeros y de carga en el Estado, treinta días de salario mínimo, por cada unidad;
-
-IX. Por el otorgamiento de permisos ocasionales para el transporte de carga, diez días de salario mínimo, por cada vehículo, por día;
-
-X. Por la certificación de los términos de referencia para realizar estudios técnicos para la autorización de modificaciones de recorrido y nuevas rutas, doscientos días de salario mínimo;
-
-XI. Por la expedición de licencia de chofer para conducir vehículos en los que se preste el servicio público del transporte, diez días de salario mínimo;
-
-XII. Por la expedición del tarjetón de identidad del conductor de vehículos de servicio público, veinte días de salario mínimo;
-
-XIII. Por la autorización de modificaciones de recorrido y de nuevas rutas del servicio público de transporte de pasajeros, doscientos cincuenta días de salario mínimo;
-
-XIV. Por la aplicación de exámenes a los choferes del servicio público de transporte se cobrará lo siguiente:
-
-a) Certificación de exámenes de conocimiento, aptitud y pericia, diez días de salario mínimo;
-
-b) Examen físico, médico y psicológico, cinco días de salario mínimo; y
-
-c) Examen toxicológico, diez días de salario mínimo;
-
-XV. Por reposición de la tarjeta de circulación y por el trámite de la solicitud de baja, en el control vehicular, en cada caso seis días de salario mínimo; si la solicitud de baja en el control vehicular corresponde a un vehículo con placas de otra entidad federativa, se pagarán diez días de salario mínimo;
-
-XVI. Por la expedición de permiso provisional de circulación para el servicio particular, seis días de salario mínimo;
-
-XVII. Por la expedición de licencia para conducir vehículos, de motociclista, automovilista o chofer, ocho días de salario mínimo;
-
-XVIII. Envío de documentación oficial a domicilio ubicado en el Estado, un día y medio de salario mínimo;
-
-XIX. Búsqueda de registro vehicular en otras entidades federativas, dos días de salario mínimo, por cada búsqueda; y
-
-XX. Por la expedición de Cédula de Inspección vehicular documental y física, dos días de salario mínimo general vigente en la capital del Estado.
+El Magistrado instructor podrá decretar en todo tiempo el desahogo de cualquier diligencia probatoria que estime necesaria para mejor proveer.
 
 ###### Artículo 74.
 
-Se exime del pago de los derechos previstos por el artículo anterior, en los siguientes términos:
+Los hechos notorios no requieren de prueba y el Magistrado instructor podrá invocarlos en sus resoluciones, aún cuando las partes no lo hubieran hecho.
 
-I. De un 50 por ciento, a los comprendidos en las fracciones I, inciso a) y V; en una sola ocasión por año, tratándose de vehículos cuyos propietarios sean adultos mayores, así como jubilados y pensionados domiciliados en el Estado. Tratándose de vehículos que se les asignen placas de circulación con identificación de "discapacitado", y que de acuerdo con la normatividad vigente, sus propietarios tengan derecho a ello, se eximirá el 100 por ciento; y
-
-II. De un 50 por ciento, a los comprendidos en la fracción XVII; tratándose de adultos mayores, así como a los jubilados y pensionados domiciliados en el Estado.
+### CAPITULO XII. DE LA AUDIENCIA DEL JUICIO
 
 ###### Artículo 75.
 
-Por los servicios de prevención y control de la contaminación del medio ambiente, se pagarán las siguientes cuotas:
+Con el fin de que las partes puedan rendir sus pruebas en la audiencia del juicio, los servidores públicos tienen la obligación de expedir con toda oportunidad las copias de los documentos que aquellas les soliciten; si dichos servidores públicos no cumplieran con esta obligación, la parte interesada solicitará al Magistrado instructor que requiera a las mismas.
 
-I. Por los servicios de registro de descarga de aguas residuales, conforme a la siguiente tarifa:
-
-1. Por tipo de empresas:
-
-a) Microempresa con menos de 15 trabajadores, doce días de salario mínimo;
-
-b) Pequeña empresa de 16 a 100 trabajadores, noventa y siete días de salario mínimo;
-
-c) Mediana empresa de 101 a 200 trabajadores, ciento cincuenta y cinco días de salario mínimo;
-
-d) Grande empresa con más de 200 trabajadores, ciento noventa y ocho días de salario mínimo.
-
-2. Por la aplicación de Características Particulares de Descarga, conforme a la siguiente tarifa:
-
-a) Microempresa con menos de 15 trabajadores, un día de salario mínimo por parámetro a exentar;
-
-b) Pequeña empresa de 16 a 100 trabajadores, dos días de salario mínimo por parámetro a exentar;
-
-c) Mediana empresa de 101 a 200 trabajadores, tres días de salario mínimo por parámetro a exentar; y
-
-d) Gran empresa más de 200 trabajadores, cuatro días de salario mínimo por parámetro a exentar.
-
-3. Por copia de registros de descarga de aguas residuales otorgado, un día de salario mínimo;
-
-4. Por cambio de razón social, tres días de salario mínimo; y
-
-5. Por copia de otorgamiento de características particulares de descarga otorgados, un día de salario mínimo.
-
-6. Por el análisis de las descargas de aguas residuales, hasta 96 días de salario mínimo;
-
-II. Por los servicios que a continuación se señalan, se pagarán las siguientes cuotas:
-
-1. Por la recepción y evaluación del informe preventivo, ochenta días de salario mínimo;
-
-2. Por la recepción y evaluación de la manifestación del impacto ambiental ciento treinta días de salario mínimo;
-
-3 Por la revalidación de evaluación del impacto ambiental, veinte días de salario mínimo;
-
-4. Por el otorgamiento de la concesión del manejo y disposición final de residuos sólidos no peligrosos, doscientos un día de salario mínimo;
-
-5. Resolutivos de impacto ambiental:
-
-a) Informe preventivo, cuatro días de salario mínimo;
-
-b) Modalidad General, seis días de salario mínimo; y
-
-c) Modalidad específica, ocho días de salario mínimo.
-
-6. Evaluación del estudio de riesgo, setenta y cinco días de salario mínimo.
-
-III. Por el derecho de ingreso de visitantes ecoturistas a las áreas naturales protegidas, declaradas por el Titular del Ejecutivo Estatal:
-
-1. Adultos, medio día de salario mínimo;
-
-2. Menores de 13 años, 20 por ciento de un día de salario mínimo;
-
-3. Vehículos automotores:
-
-a) Automóviles y motocicletas, un día de salario mínimo;
-
-b) Camionetas, 3 días de salario mínimo; y
-
-c) Camiones y ómnibus, 5 días de salario mínimo.
-
-Tratándose de profesores, estudiantes e investigadores pagarán el 50 por ciento del derecho correspondiente.
-
-IV. Por el uso de instalaciones del Gobierno del Estado en áreas naturales protegidas, por cada día y por persona:
-
-1. Visitante ecoturista, 3 días de salario mínimo;
-
-2. Estudiantes e investigadores un día y medio de salario mínimo.
-
-V. Por el uso de áreas destinadas a campismo, dentro de las áreas naturales protegidas, un día de salario mínimo por persona y por cada día;
-
-VI. Por la concesión de servicios en áreas ecológicas protegidas, hasta 415 días de salario mínimo;
-
-VII. Por los estudios de flora y fauna silvestres, el 20 por ciento de un día de salario mínimo por hectárea;
-
-VIII. Por la evaluación de daños ambientales, trescientos días de salario mínimo, sin perjuicio de las multas y otras sanciones a que se hiciera acreedor;
-
-IX. Por la autorización para la recolección y transporte de residuos de manejo especial para empresas prestadoras de servicios, cincuenta y dos días de salario mínimo;
-
-X. Por la inscripción en el Registro Estatal Ambiental, se pagarán las siguientes cuotas:
-
-1. Microempresa con 1 a 15 trabajadores, veintidós días de salario mínimo;
-
-2. Pequeña empresa de 16 a 100 trabajadores, noventa y siete días de salario mínimo;
-
-3. Mediana Empresa de 101 a 200 trabajadores, ciento cincuenta y cinco días de salario mínimo; y
-
-4. Gran empresa con más de 200 trabajadores, ciento ochenta días de salario mínimo.
-
-XI. Por el cambio de Registro Estatal Ambiental, se pagarán las siguientes cuotas:
-
-1. Microempresa con 1 a 15 trabajadores, once días de salario mínimo;
-
-2. Pequeña empresa de 16 a 100 trabajadores, cuarenta y ocho días y medio de salario mínimo;
-
-3. Mediana empresa de 101 a 200 trabajadores, setenta y siete días y medio de salario mínimo; y
-
-4. Gran empresa con más de 200 trabajadores, noventa días de salario mínimo.
-
-Por cada 5 días hábiles de retraso, la pequeña, mediana y gran empresa pagarán adicionalmente un salario mínimo.
-
-Por la entrega extemporánea de la Cedula de Operación Anual, la microempresa pagará un día de salario mínimo por cada día hábil de retraso. Las empresas que inicien operaciones durante el año calendario y quieran obtener el Registro Estatal Ambiental después de la fecha límite de entrega, sólo efectuarán el pago por inscripción.
+El Magistrado hará el requerimiento y suspenderá la audiencia por plazo que no exceda de diez días hábiles; pero si no obstante dicho requerimiento no se expidieren, se tendrán por ciertos los hechos que se pretendan probar con dichos documentos si la autoridad omisa es parte en el juicio; si no lo es, el Magistrado hará uso de los medios de apremio para que las expidan.
 
 ###### Artículo 76.
 
-Por los servicios otorgados para el aprovechamiento de la Vida Silvestre en Tamaulipas, se pagarán las siguientes cuotas:
+Las pruebas que lo ameriten se desahogarán en la audiencia del juicio. Si no fuera posible, se señalará nueva fecha para su desahogo en los casos previstos por la Ley.
 
-I. Por el dictamen de evaluación técnica para la determinación de la tasa de aprovechamiento por cada ejemplar aprovechable con fines cinegéticos y/o comerciales, 3.5 días de salario mínimo. Para efectos de este artículo se considerará límite de posesión de ejemplares el establecido oficialmente para cada especie. Dicho pago se deberá realizar al momento de la obtención de cada uno de los sistemas de marcaje autorizados.
+### CAPITULO XIII. DE LA SENTENCIA
 
-II. Registro de Unidad de Manejo para la Conservación de Vida Silvestre (UMA) y Planes de Manejo, once días de salario mínimo;
-
-III. Refrendo de registro de Unidad de Manejo para la Conservación de la Vida Silvestre (UMA), siete días y medio de salario mínimo;
-
-IV. Aprovechamiento de especies (palomas) sujetas a un proyecto regional, seis y medio días de salario mínimo por cintillo expedido; y
-
-V. Aprovechamiento de especies de interés cinegético en el Estado, seis y medio días de salario mínimo por cintillo vigente.
+### CAPITULO XIV. DE LOS RECURSOS
 
 ###### Artículo 77.
 
-Los servicios prestados por administración y control del desarrollo urbano se causarán, por certificación, conforme a lo siguiente:
-
-l. Expedición de certificados de uso de suelo:
-
-1. Habitacional, cinco días de salario mínimo; y
-
-2. Otros, veinte días de salario mínimo.
-
-II. Expedición de certificados de destino, dos días de salario mínimo.
+Cuando el desahogo de las pruebas deba realizarse fuera del Area Metropolitana de Monterrey, el Magistrado de la causa por conducto del Tribunal Superior de Justicia lo solicitará al Juez de Primera Instancia más próximo al de la localidad referida, girándole el exhorto correspondiente, acompañando los documentos, interrogatorios o cuestionarios correspondientes, debidamente calificados.
 
 ###### Artículo 78.
 
-Por la revisión y, en su caso, aprobación de anteproyectos de fraccionamientos, se causarán, por metro cuadrado o fracción del área vendible:
+La prueba pericial tendrá lugar en las cuestiones relativas a alguna ciencia o arte; los peritos deberán tener título en la especialidad a que pertenezca el asunto sobre el que habrán de dictaminar, si estuviera legalmente reglamentada; si no lo estuviera, o si estándolo no fuera posible designar un perito titulado, podrán ser nombrados al efecto personas entendidas en la ciencia o arte, a juicio del Magistrado instructor.
 
-I. Habitacional Residencial:
-
-1. Fraccionamientos, 3 por ciento de día de salario mínimo; y
-
-2. Relotificaciones, 5 por ciento de día de salario mínimo.
-
-II. Habitacional Medio:
-
-1. Fraccionamientos, 1.5 por ciento de día de salario mínimo; y
-
-2. Relotificaciones, 3 por ciento de día de salario mínimo.
-
-III. Habitacional Popular:
-
-1. Fraccionamientos, .80 por ciento de día de salario mínimo; y
-
-2. Relotificaciones, 1.5 por ciento de día de salario mínimo.
-
-IV. Agropecuario, 2 por ciento de día de salario mínimo; y
-
-V. Régimen de propiedad en condominio habitacional, 4 por ciento de día de salario mínimo.
+### CAPITULO XV. DE LA EJECUCION DE SENTENCIA
 
 ###### Artículo 79.
 
-Se causarán derechos por cooperación para enajenación de obra de interés público en términos de la Ley de Derechos de Cooperación para la Ejecución de Obras de Interés-Público.
+El reconocimiento o inspección se practicará siempre previa citación de las partes, fijándose día, hora y lugar. Las partes, sus representantes o abogados podrán ocurrir a la inspección y hacer las observaciones que estimen oportunas. También podrán concurrir a ella los testigos de identidad y los peritos que fueren necesarios.
+
+Del reconocimiento se levantará un acta que firmarán todos los que concurrieron, debiendo asentarse con exactitud los puntos que lo hayan provocado, las declaraciones de los testigos y peritos si los hubiere y todo lo que el Magistrado creyere conveniente para sustentar su juicio.
 
 ###### Artículo 80.
 
-Los propietarios o poseedores de predios que se encuentren dentro del área de beneficio de las obras públicas, causarán los derechos de cooperación que establece el Decreto citado en el artículo anterior.
+Los testigos no podrán pasar de tres respecto de cada hecho. Deberán ser presentados por el oferente en la fecha de la audiencia y sólo en el caso de que éste manifieste bajo protesta de decir verdad su imposibilidad para presentarlos, el Magistrado los mandará citar si se proporcionan sus domicilios.
+
+El Magistrado ordenará la citación con apercibimiento de arresto hasta por 24 horas o multa equivalente de quince días de salario mínimo general diario vigente en la Ciudad de Monterrey, Nuevo León, que aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar.
+
+En caso de que el señalamiento de domicilio de algún testigo resulte inexacto, o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al promovente una multa equivalente de treinta días de salario mínimo general diario vigente en la Ciudad de Monterrey, Nuevo León, debiendo declararse desierta la prueba testimonial.
+
+### CAPITULO XVI. DE LOS CRITERIOS DE INTERPRETACION
 
 ###### Artículo 81.
 
-Por la expedición de licencias para el funcionamiento de establecimientos o locales que enajenan total o parcialmente al público en general bebidas alcohólicas, se causarán conforme a lo siguiente:
+La valorización de las pruebas se hará de acuerdo con las siguientes disposiciones:
 
-I. Restaurantes, bares de los hoteles y moteles, restaurantes bar, bares, cafés cantantes, centros de espectáculos, centros recreativos y deportivos o club, casino, círculo o club social, salones de recepción, billares y boliches, con el importe de cuatrocientos días de salario mínimo. Los cabarets, centros nocturnos y discotecas, con el importe de mil quinientos días de salario mínimo;
+I.- Harán prueba plena: la confesión expresa de las partes; las presunciones legales que no admitan prueba en contrario; los hechos afirmados por autoridades competentes en documentos públicos, pero si en éstos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos solo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado;
 
-II. Loncherías, fondas, coctelerías, taquerías, cenadurías, comedores y otros establecimientos similares que tengan por giro la venta y consumo de alimentos no comprendidos en la fracción anterior, con el importe de ciento cincuenta días de salario mínimo;
+II.- Tratándose de actos de comprobación de las autoridades administrativas se entenderán como legalmente afirmados los hechos que consten en las actas respectivas, salvo prueba en contrario;
 
-III. Supermercados, con el importe de cuatrocientos cincuenta días de salario mínimo;
+III.- El valor de las pruebas pericial, testimonial y de inspección o reconocimiento, así como el de las demás pruebas, quedará a la prudente apreciación del Magistrado instructor;
 
-IV. Minisúperes y abarrotes, con el importe de doscientos días de salario mínimo. Licorerías, depósitos, agencias, subagencias, expendios, almacenes, bodegas, envasadoras y distribuidoras, con el importe de cuatrocientos días de salario mínimo;
+IV.- Los medios de prueba ofrecidos y admitidos serán valorados en su conjunto por el Magistrado instructor, atendiendo a las reglas de la lógica y de la experiencia.
 
-V. Cantinas, tabernas, cervecerías y otros establecimientos similares no comprendidos en la fracción I de este artículo, con el importe trescientos días de salario mínimo;
-
-VI. Permisos para eventuales, como los que se instalan en ferias, bailes, kermesses, salones de baile y eventos deportivos, con el importe de 30 días de salario mínimo, por fecha; y
-
-VII. Por el trámite de la solicitud de expedición de licencia que se devuelva sin otorgar por carencia u omisión de requisitos o impedimento legal, diez días de salario mínimo.
-
-Cuando por primera vez se expida licencia para la enajenación de bebidas alcohólicas en el segundo semestre del año, se aplicará el 50 por ciento del importe.
+Cuando por el enlace lógico de las pruebas rendidas y de las presunciones formadas, el Magistrado instructor adquiriera convicción distinta acerca de los hechos materia del litigio, podrá valorar las pruebas sin sujetarse a lo dispuesto en las fracciones anteriores, debiendo fundar razonadamente esta parte de su sentencia.
 
 ###### Artículo 82.
 
-Por los servicios para el control en el sistema estatal de información geográfica para el ordenamiento territorial y la planeación del desarrollo urbano, se pagará el 1.50 por ciento de un día de salario mínimo, por metro cuadrado o fracción del área del predio.
+La audiencia del juicio tiene por objeto:
+
+I.- Desahogar en términos de esta Ley las pruebas que, debidamente ofrecidas y admitidas, así lo requieran;
+
+II.- Conocer cualquier cuestión incidental que se plantee en la misma audiencia; y
+
+III.- Recibir los alegatos que se formulen por escrito.
+
+La falta de asistencia de las partes no impedirá la celebración de la audiencia.
 
 ###### Artículo 83.
 
-Por el levantamiento geográfico y posicionamiento satelital en la red geodésica estatal de cualquier predio en la entidad, georeferenciado de acuerdo a la zona, se pagará:
-
-I. Zona Norte, los municipios de Nuevo Laredo, Mier, Camargo, Miguel Alemán, Díaz Ordaz, Matamoros, Reynosa, Río Bravo, Valle Hermoso y San Fernando, sesenta días de salario mínimo, por vértice;
-
-II. Zona Centro, el municipio de Victoria, quince días de salario mínimo, por vértice; y
-
-III. Zona Sur, los municipios de Tampico, Ciudad Madero y Altamira, cuarenta y cinco días de salario mínimo, por vértice.
-
-En los municipios no comprendidos en las fracciones anteriores se pagará, cuarenta y cinco días de salario mínimo, por vértice.
+Abierta la audiencia el día y hora señalados para ello, el Secretario actuante procederá al desahogo de la misma en el orden citado, para lo cual llamará a los litigantes, peritos, testigos y demás personas que por disposición de la Ley deban intervenir en el juicio y se determinará quiénes deban permanecer en la sala en que se celebra y quiénes en lugar separado para ser introducidos en su oportunidad.
 
 ###### Artículo 84.
 
-Por la expedición de los documentos siguientes:
+Respecto de las pruebas, la audiencia se sujetará a las siguientes reglas:
 
-I. Compendios de planes que componen el Sistema Estatal de Ordenamiento Territorial y Desarrollo Urbano, en archivos digitales, se pagarán doscientos diez días de salario mínimo;
+I.- Se admitirán o desecharán las supervinientes que se ofrezcan, procediéndose, en el primer caso, a su desahogo;
 
-II. Plan que forme parte del Sistema Estatal de Ordenamiento Territorial y de Desarrollo Urbano, en archivos digitales, se pagarán catorce días de salario mínimo. Si se proporciona en impresión a color, en papel esencial, tamaño .90 x 1.20 m.; se pagarán setenta días de salario mínimo por hoja o cara impresa;
+II.- Si se ofrece prueba pericial, en el auto que recaiga a la contestación o ampliación de ésta, se fijará plazo de 10 días para que las partes presenten a sus peritos, a fin de que comprueben si reúnen los requisitos legales, manifiesten que no tienen impedimento legal para emitir su dictamen y acepten el cargo, con el apercibimiento de que de no hacerlo solo se considerará el peritaje de quien haya cumplido.
 
-III. Los que integran el Registro Estatal de Edificios, Infraestructura Histórica, Monumentos Conmemorativos y Murales, con Valor Histórico, Artístico y Cultural, versión estatal completa, en archivos digitales, se pagarán doscientos diez días de salario mínimo;
+El dictamen pericial podrá rendirse antes de la celebración de la audiencia, o a más tardar durante la misma, perdiendo el derecho de hacerlo con posterioridad. El Tribunal nombrará perito tercero en discordia en los casos en que los dictámenes periciales de las partes sean contradictorios, suspendiendo la audiencia en este caso. Los honorarios de este perito correrán por cuenta de las partes. Las partes y el Magistrado podrán formular observaciones a los peritos y hacerles las preguntas que estimen pertinentes en relación con los puntos sobre los que dictaminen;
 
-IV. Los que integran el Registro Estatal de Edificios, Infraestructura Histórica, Monumentos Conmemorativos y Murales, con Valor Histórico, Artístico y Cultural, en archivos digitales, de cada municipio, se pagarán catorce días de salario mínimo; y
+III.- Las preguntas y las repreguntas que pudieran formular las otras partes a los testigos, deberán tener relación directa con los puntos controvertidos y estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho. El Magistrado deberá calificar los interrogatorios, desechando las preguntas o repreguntas improcedentes. La protesta y examen de los testigos se hará en presencia de las partes. El Magistrado podrá hacer las preguntas que considere necesarias. El oferente de la prueba podrá formular preguntas adicionales, que deberán contestar los testigos previa calificación; y
 
-V. Impresión a color de cartografía con valor histórico, artístico y cultural en papel especial, tamaño .90 x 1.20 m., se pagarán sesenta días de salario mínimo por hoja o cara impresa.
+IV.- Si alguna de las partes objetare de falso un documento, el Magistrado suspenderá la audiencia para continuarla dentro de los cinco días siguientes, cuando se podrán presentar pruebas y contrapruebas en relación con la autenticidad del documento objetado.
 
 ###### Artículo 85.
 
-Los servicios proporcionados en materia de protección civil y de seguridad privada, causarán derechos conforme a lo siguiente:
-
-I. Por la prestación de servicios por la elaboración de estudios y/o manifestaciones de:
-
-1. Impacto ambiental, treinta días de salario mínimo; y
-
-2. Análisis de riesgo ambiental, treinta días de salario mínimo,
-
-II. Por la emisión de dictámenes y/o resoluciones de análisis de riesgo, de treinta hasta trescientos días de salario mínimo;
-
-II. Por la certificación de los programas de seguridad de los establecimientos en que se reúnan personas que puedan correr riesgos por eventos de emergencia, de cincuenta, hasta trescientos días de salario mínimo;
-
-IV. Capacitación a empresas privadas, de cincuenta hasta trescientos días de salario mínimo;
-
-V. Por la capacitación, actualización, especialización y profesionalización de integrantes de empresas privadas de protección y vigilancia se pagarán, diariamente por cada elemento, el importe equivalente a seis días de salario mínimo; y
-
-VI. Por la certificación anual a empresas privadas que presten servicios de protección y vigilancia, se pagará el importe equivalente a ciento cuarenta y cinco días de salario mínimo.
+No habiendo pruebas que deban desahogarse en la audiencia o desahogadas las procedentes, se recibirán los alegatos que formulen las partes. Las promociones que presenten las partes en la audiencia, así como sus oposiciones contra los acuerdos que en ella se dicten, se resolverán de plano.
 
 ###### Artículo 86.
 
-Por la expedición de constancia de cumplimiento de requisitos para la celebración de eventos de regulación especial, el importe equivalente a sesenta días de salario mínimo.
+El Magistrado deberá dictar sentencia dentro de un plazo no mayor a diez días hábiles, contados a partir de la fecha en que se hubiere concluido la audiencia.
+
+Cuando el Magistrado no dicte sentencia dentro del plazo señalado en el párrafo anterior, las partes podrán formular excitativa de justicia, por escrito, ante el Presidente del Tribunal, para su conocimiento y resolución.
 
 ###### Artículo 87.
 
-Por los servicios de almacenaje de bienes en bodegas o locales proporcionados por el Gobierno del Estado, se pagarán derechos de almacenaje un día de salario mínimo, por cada día, por metro cúbico.
+Las sentencias deberán ser debidamente fundadas y motivadas, congruentes y exhaustivas.
+
+Su redacción contendrá:
+
+I.- La fijación clara y precisa de los puntos controvertidos, así como el examen y valorización de las pruebas;
+
+II.- El análisis de los conceptos de agravio consignados en la demanda;
+
+III.- Los fundamentos en que se apoyen para declarar fundada o infundada la pretensión para reconocer la validez o nulidad del acto impugnado; para absolver o para condenar y, en su caso, para determinar los efectos de la sentencia; y
+
+IV.- Los puntos resolutivos en los que se expresarán los actos cuya validez se reconozca o cuya nulidad se declare; la reposición del procedimiento que se ordene; los términos de la modificación del acto impugnado o en su caso la condena que se decrete.
 
 ###### Artículo 88.
 
-El servicio por publicaciones en el Periódico Oficial del Estado, causará derechos conforme a la siguiente tarifa:
+La sentencia definitiva podrá:
 
-I. PRECIO DEL PERIODICO OFICIAL.
+I.- Reconocer la validez de la resolución o acto impugnados;
 
-1. Ejemplar del día, 30 por ciento de un día de salario mínimo;
+II.- Declarar la nulidad de la resolución o acto impugnados;
 
-2. Ejemplar atrasado, 60 por ciento de un día de salario mínimo;
+III.- Declarar la nulidad de la resolución o acto impugnados para determinados efectos, debiendo precisar con claridad la forma y términos en que la autoridad debe cumplirla, salvo que se trate de facultades discrecionales.
 
-3. Ejemplar extraordinario o con anexo hasta 20 páginas, 60 por ciento de un día de salario mínimo; de 21 a 50 páginas, dos días de salario mínimo; y con más de 50 páginas, cinco días de salario mínimo; y
+El Tribunal deberá precisar con claridad la forma y términos en que la autoridad debe cumplirla.
 
-4. Suscripción semestral, treinta y un días de salario mínimo. El pago deberá efectuarse con un mes de anticipación a los siguientes periodos optativos: enero a junio y de julio a diciembre, o de abril a septiembre y de octubre a marzo.
-
-II. PUBLICACIONES.
-
-1. Avisos judiciales, edictos, convocatorias, requerimientos, autorizaciones, 0.4 por ciento de un día de salario mínimo por palabra, por cada publicación; y
-
-2. Por plana, cuarenta días de salario mínimo por cada publicación.
+Si se interpuso el recurso de revisión en el caso previsto en la fracción V del artículo 90 de esta Ley, se suspenderá el efecto de la sentencia hasta que se dicte la resolución o se ponga fin a la controversia.
 
 ###### Artículo 89.
 
-Por la prestación del servicio de telefonía rural a través de la red de Telecomunicaciones del Gobierno del Estado, se pagará el 20 por ciento de un día de salario mínimo por evento a destinos nacionales y en el caso de destinos internacionales el costo por evento será de 80 por ciento de un día de salario mínimo.
+Contra los acuerdos y resoluciones dictados por los magistrados del Tribunal de lo Contencioso Administrativo, proceden los siguientes recursos:
+
+I.- Revisión;
+
+II.- Queja.
 
 ###### Artículo 90.
 
-Por la prestación del servicio de consulta de acuerdos a través del sistema electrónico de internet del Poder Judicial del Estado, se pagará el 0.026 de un día de salario mínimo, por acuerdo.
+El recurso de Revisión es competencia de la Sala Superior y es procedente contra las resoluciones de los Magistrados de las Salas Ordinarias que:
+
+I.- Admitan, desechen, o tengan por no interpuesta la demanda, la contestación, la ampliación de ambas o las pruebas ofrecidas;
+
+II.- Decreten o nieguen el sobreseimiento del juicio;
+
+III.- Admitan o nieguen la intervención del tercero perjudicado;
+
+IV.- Señalen el monto de las garantías o contragarantías;
+
+V.- Resuelvan el juicio o la cuestión planteada, en el fondo;
+
+VI.- Concedan, nieguen, modifiquen o revoquen la suspensión de los actos impugnados; o
+
+VII.- Por violaciones procesales cometidas durante el juicio, siempre que afecten las defensas del recurrente y trasciendan al sentido del fallo; o
+
+VIII.- Por violaciones cometidas en las propias resoluciones o sentencias.
 
 ###### Artículo 91.
 
-Por la expedición y la revalidación de permisos para la instalación y funcionamiento de una casa de empeño, se causarán derechos por el importe de cuatrocientos días de salario mínimo. El pago por concepto de la revalidación deberá efectuarse en el mes de enero de cada año.
+El recurso de revisión deberá ser interpuesto por escrito con expresión de agravios, dentro del plazo de diez días hábiles siguientes al en que surta efectos la notificación de la resolución que se impugna. Se presentará ante el Magistrado del que emane la resolución combatida, y éste correrá traslado a las demás partes en el juicio y las emplazará para que dentro de igual término expongan ante la Sala Superior del Tribunal lo que a su derecho convenga.
+
+Emplazadas las partes, se remitirá el escrito del recurso y el expediente correspondiente a la Sala Superior del Tribunal para su resolución. Vencido el término para alegar, el Presidente del Tribunal deberá dictar su resolución en un plazo no mayor a cinco días hábiles.
 
 ###### Artículo 92.
 
-Por los servicios prestados por los entes públicos señalados en el artículo 5 párrafo
+El recurso de Queja es competencia de los Magistrados de las Salas Ordinarias y es procedente:
 
-1, incisos a) al f) de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas, en el ejercicio de la libertad de información pública, se causarán conforme a lo siguiente:
+I.- Por incumplimiento, exceso o defecto en la ejecución del auto en que se haya concedido la suspensión del acto o procedimiento impugnado;
 
-I. Por la expedición de copia simple, se pagará 5 por ciento de un día de salario mínimo, por hoja;
+II.- Por incumplimiento, exceso o defecto en la ejecución de la sentencia del Magistrado, que haya declarado fundada la pretensión del actor;
 
-II. Por expedición de copia certificada, se pagará conforme lo establecido en el artículo 59, fracción I de esta ley;
+III.- Contra actos de las autoridades demandadas tendientes a repetir el acto o procedimiento anulado; y
 
-III. Por expedición de copia a color, se pagará 40 por ciento de un día de salario mínimo por hoja;
+IV.- Cuando las autoridades demandadas no provean sobre la suspensión del acto combatido dentro del término legal, nieguen o rechacen la garantía ofrecida o reinicien la ejecución. En estos casos, al promoverse el recurso deberá de acompañarse el documento en que conste la solicitud de la suspensión, el ofrecimiento de la garantía o el reinicio de la ejecución.
 
-IV. Por cada disco flexible de 3.5 pulgadas que contenga la información requerida, se pagará 15 por ciento de un día de salario mínimo;
+El recurso deberá interponerse por escrito ante el Magistrado instructor que conozca o hubiere conocido del juicio, dentro de cinco días hábiles contados a partir del siguiente al en que haya surtido efectos la notificación de la resolución recurrida, acompañando una copia del recurso para cada una de las partes.
 
-V. Por cada disco compacto que contenga la información requerida, se pagará 25 por ciento de un día de salario mínimo; y
+Admitido el recurso, el Magistrado requerirá a la autoridad contra la que se hubiere interpuesto para que rinda informe justificado sobre la materia de la queja, dentro del plazo de cinco días hábiles, y dentro de los cinco días hábiles siguientes dictará la resolución que proceda. La falta de los informes establece la presunción de ser ciertos los hechos respectivos y hará incurrir a las autoridades omisas en una multa de cinco a sesenta días del salario mínimo vigente en la ciudad de Monterrey, que impondrá de plano el Magistrado que conozca de la queja al resolver el recurso.
 
-VI. Por expedición de copia simple de planos o por la expedición de copia certificada de planos, se pagarán los derechos establecidos en el artículo 72 de esta ley.
-
-Las personas obligadas al pago de los derechos a que se refiere el presente artículo, deberán cubrir, en su caso, los gastos de envío que se generen.
-
-El envío de la información solicitada podrá realizarse por correo simple, correo certificado con acuse de recibo o servicio de paquetería y la determinación de su costo se hará por el ente público la correspondiente al momento de emitir la liquidación que se utilizará para efectuar el pago.
+Interpuesto el recurso y a solicitud de parte, el Magistrado mandará suspender la ejecución hasta en tanto se dicte resolución.
 
 ###### Artículo 93.
 
-Por los servicios proporcionados en materia de protección contra riesgos sanitarios, se causarán derechos conforme a lo siguiente:
+Causan ejecutoria:
 
-I. Por la expedición de certificado sobre pozo de agua para abastecimiento privado, se pagarán diez días de salario mínimo;
+I.- Las sentencias consentidas expresamente por las partes, sus representantes legítimos o sus mandatarios con poder bastante; y
 
-II. Por la revalidación de certificado privado, se pagarán cinco días de salario mínimo;
+II.- Las sentencias no impugnadas o de las que habiéndolo sido, se haya declarado desierto o improcedente el medio de impugnación o el promovente se haya desistido de él, o no se continuare el recurso en el término legal.
 
-III. Por la autorización de libro de medicamento controlado, se pagarán cinco días de salario mínimo;
-
-IV. Por la expedición de etiqueta de código de barra, se pagarán cinco días de salario mínimo;
-
-V. Por la aprobación de construcción de vivienda, se pagará 10 por ciento de un día de salario mínimo, por metro cuadrado;
-
-VI. Por la aprobación de construcción de obra de impacto, se pagará 20 por ciento de un día de salario mínimo, por metro cuadrado;
-
-VII. Por permiso sanitario de construcción de Unidad Médica, se pagará 20 por ciento de un día de salario mínimo, por metro cuadrado;
-
-VIII. Por licencia sanitaria para médico, se pagará cinco días de salario mínimo;
-
-IX. Por capacitación a petición de parte, se pagarán veinticinco días de salario mínimo;
-
-X. Por visita de establecimientos a petición de parte, se pagarán cinco días de salario mínimo;
-
-XI. Por muestra a petición de parte, se pagarán cinco días de salario mínimo;
-
-XII. Por permiso sanitario para inhumación, traslado y cremación funeraria, se pagarán cinco días de salario mínimo; y
-
-XIII. Por aviso de funcionamiento para expendio de bebidas alcohólicas, se pagarán dieciocho días de salario mínimo.
+No será necesario hacer declaración alguna para que las resoluciones causen ejecutoria en los términos del Artículo anterior.
 
 ###### Artículo 94.
 
-El trámite y estudio para autorizaciones de las solicitudes de subsidios fiscales para contribuciones causarán derechos por la cantidad de doce días de salario mínimo, que deberán pagarse previamente al otorgamiento de la autorización o del subsidio.
+Cuando haya causado ejecutoria una sentencia favorable a un particular, el Tribunal lo comunicará por oficio y sin demora alguna a las autoridades demandadas para su debido cumplimiento, previniéndolas para que informen sobre el cumplimiento que den a la sentencia respectiva.
 
 ###### Artículo 95.
 
-El Ejecutivo por conducto de la Secretaría hará efectivo el cobro de las formas valoradas cuyo precio se determinará tomando en cuenta el costo de las mismas o el que rija en el mercado.
+Si dentro de los quince días siguientes al en que haya causado ejecutoria la sentencia, ésta no se cumpliere, el Tribunal de oficio o a petición de parte, aplicará los medios de apremio previstos por esta Ley.
+
+###### Artículo 96.
+
+En el supuesto de que la autoridad o el servidor público persistiera en no dar cumplimiento a la sentencia, el Tribunal ordenará su cumplimiento si la ejecución consiste en la realización de un acto material; promoverá la aplicación de la ley o del reglamento que corresponda y si el acto solo puede ser ejecutado por la autoridad demandada, solicitará al titular de la dependencia estatal o municipal, a quien se encuentre subordinada dicha autoridad, para que conmine a ésta a cumplir con la sentencia.
+
+Si no obstante los requerimientos anteriores no se da cumplimiento a la resolución, el Tribunal podrá decretar la destitución del servidor público que incumplió, excepto que se trate de una autoridad de elección, en cuyo caso se procederá en los términos de la Ley de Responsabilidades de los Servidores Públicos para el Estado de Nuevo León.
+
+###### Artículo 97.
+
+Las sanciones mencionadas en este Capítulo también serán procedentes cuando no se cumpla en sus términos la suspensión que se hubiere decretado respecto al acto cuya nulidad se demandó en el juicio.
+
+###### Artículo 98.
+
+Los criterios de interpretación de la Ley, sustentados por el Pleno, serán obligatorios para el Tribunal, siempre que lo resuelto se sustente en tres sentencias no interrumpidas por otra en contrario.
+
+###### Artículo 99.
+
+Para la modificación de los criterios a que se refiere el Artículo anterior, se observarán las mismas reglas establecidas para su formación, pero perderá su obligatoriedad un criterio sustentado en tres resoluciones cuando se dicte una nueva sentencia en contrario, siempre y cuando se establezcan en ella las razones que motivaron el cambio de criterio.
+
+###### Artículo 100.
+
+Cuando los Magistrados del Tribunal sustenten tesis contradictorias, cualesquiera de ellas o las partes que intervinieron en los asuntos en que tales tesis se sustentaron, podrán denunciar la contradicción ante el Pleno. Al recibir la denuncia se designará al Magistrado que formule la ponencia respectiva, a fin de decidir si efectivamente existe la contradicción, y en su caso, cuál será el criterio de interpretación que deba adoptarse.
+
+La resolución que se dicte en estos casos no afectará las situaciones jurídicas concretas derivadas de las sentencias contradictorias que fueron pronunciadas.
+
+###### Artículo 101.
+
+Los criterios de interpretación que sustente el Pleno, así como aquéllos que constituyan precedente y se considere de importancia, se publicarán en el Organo Oficial de difusión del Tribunal.
+
+T R A N S I T O R I O S
 
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
 
-El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+La presente Ley entrará en vigor a los sesenta días hábiles después de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
 
-Se abroga la Ley de Hacienda para el Estado de Tamaulipas, expedida mediante Decreto 220 del 23 de diciembre de 1976 y publicada en el Periódico Oficial Extraordinario número 106, de fecha 29 de diciembre de 1976, así como sus subsecuentes reformas.
+Se abroga la Ley Orgánica del Tribunal de lo Contencioso Administrativo y el Código Procesal del Tribunal de lo Contencioso Administrativo publicados en el Periódico Oficial del Estado de fecha 5 de julio de 1991.
 
-SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 3 de diciembre del año 2007.- DIPUTADO PRESIDENTE.- JESUS EVERARDO VILLARREAL SALlNAS.- Rúbrica.- DIPUTADA SECRETARIA.- AIDA ARACELI ACUÑA CRUZ.- Rúbrica.-
+###### ARTICULO TERCERO.
 
-DIPUTADO SECRETARIO.- FERNANDO ALEJANDRO FERNANDEZ DE LEON.- Rúbrica.
+Solo para los efectos de lo dispuesto en este artículo, la substanciación y resolución de los juicios que estén pendientes de resolución a la fecha de inicio de la vigencia de esta Ley, cualquiera que sea su etapa procesal, continuarán tramitándose conforme a las previsiones de la Ley Orgánica del Tribunal de lo Contencioso Administrativo y el Código Procesal del Tribunal de lo Contencioso Administrativo que se abrogan en virtud de esta Ley.
 
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Estado.
 
-Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los siete días del mes de diciembre del año dos mil siete.
+Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital a los veintidós días del mes de Enero de mil novecientos noventa y siete.- PRESIDENTE: DIP. ARMANDO LEAL RIOS.- DIP. SECRETARIO: JUAN DE D. ESPARZA MARTINEZ.- DIP. SECRETARIO: HERIBERTO CANO QUINTANILLA.- Rúbricas.
 
-ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTlNEZ TORRES.- Rúbrica.
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los siete días del mes de Febrero de mil novecientos noventa y siete.
+
+EL C. GOBERNADOR SUBSTITUTO DEL ESTADO
+
+BENJAMIN CLARIOND REYES-RETANA
+
+EL C. SECRETARIO GENERAL DE GOBIERNO
+
+JUAN FRANCISCO RIVERA BEDOYA
+
+El C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
+
+XAVIER DORIA GONZALEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE SEPTIEMBRE DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
