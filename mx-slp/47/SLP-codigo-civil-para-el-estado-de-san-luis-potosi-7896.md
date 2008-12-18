@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2007-11-13"
+last_updated: "2008-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2008.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -223,175 +223,163 @@ Las sucursales que operen en distintos lugares de la matriz, tendrán su domicil
 
 ART. 27.- Se tiene derecho de designar un domicilio convencional para el cumplimiento de determinadas obligaciones.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
 ## TITULO CUARTO. Del Registro Civil
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 28.- El Registro Civil es la institución de orden público, por medio del cual el Estado inscribe, autentifica y da publicidad a todo lo relativo al estado civil de las personas; este sólo se comprueba con las copias certificadas de las actas del Registro Civil. Ningún otro medio de prueba es admisible para comprobarlo, salvo los casos expresamente exceptuados por la ley o cuando materialmente resulte imposible su demostración.
+ART. 28.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 29.- El Registro Civil estará constituido por la Dirección del mismo, su archivo estatal y las oficialías que sean necesarias para el cumplimiento eficaz de su función. El número y ubicación de las oficialías, se determinará de acuerdo a las circunstancias socioeconómicas del lugar, sus distancias, medios de comunicación y distribución de la población.
+ART. 29.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-La titularidad de las oficinas del Registro Civil estará a cargo de funcionarios denominados Oficiales del Registro Civil, quienes preferentemente serán abogados y deberán además cubrir los requisitos que señale el ordenamiento respectivo, correspondiéndoles autorizar los actos del estado civil y expedir constancia de las actas relativas a los casos a que se refiere el artículo 28 de éste Código.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 30.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 30.- Los oficiales tendrán fe pública en el desempeño de las labores propias de su cargo y sólo asentarán en las actas lo que deba ser declarado en el acto preciso a que ellas se refieren y lo que esté expresamente previsto por la ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Será objeto de inscripción en el registro civil, el nacimiento, reconocimiento de hijos, matrimonio, defunción, sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela, la pérdida o la limitación de la capacidad legal para administrar bienes, nulidad de matrimonio, divorcio, adopción, nulidad de reconocimiento de hijo y las dictadas en las informaciones testimoniales para acreditar hechos relativos al nacimiento de los mexicanos, de actas de los extranjeros residentes en el territorio del Estado, así como de los actos del estado civil de los mexicanos efectuados en el extranjero.
+ART. 31.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 31.- Los oficiales del Registro Civil llevarán seis libros que se denominarán "Registro Civil" y que contendrán: el primero, actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción, el tercero, actas de matrimonio y divorcio; el cuarto, actas de tutela, emancipación y habilitación de edad; el quinto, actas de defunción y muertes fetales; el sexto, las inscripciones de las ejecutorias relacionadas con el estado civil de las personas.
+ART. 32.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 32.- Las actas a que se refiere el artículo 28, se asentarán en formas especiales suministradas por la Dirección del Registro Civil, que se denominarán "formatos del Registro Civil", las que una vez utilizadas se encuadernarán en volúmenes que correspondan al año a que se refieran.
+ART. 33.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-Las inscripciones se harán en manuscrito, mecanográficamente o por cualquier otro medio aportado por la ciencia o la tecnología.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 34.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 33.- Para asentar los actos a que se refiere el artículo 31 de este Código, habrá los formatos necesarios que serán expedidos de acuerdo al número que se requiera por la Dirección del Registro Civil. Un ejemplar del acta se entregará al interesado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Las actas correspondientes al Archivo General y a la Oficialía se integrarán en libros, de acuerdo a su contenido, enumerándolas progresivamente.
+ART. 35.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 34.- En las actas del Registro Civil intervendrán el Oficial del Registro Civil o funcionario que deba autorizarlas, los particulares interesados o sus representantes legales, en su caso, así como los testigos que intervengan en las actas del estado civil, quienes serán mayores de edad, prefiriéndose a los que designen los interesados, aún cuando sean sus parientes; las actas deberán ser firmada (sic)en el espacio correspondientes en las que además se imprimirá el sello de la Oficialía que corresponda.
+ART. 36.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 35.- La elaboración de las actas de nacimiento, matrimonio, defunción y los asentamientos de los actos celebrados por mexicanos en el extranjero será por quintuplicado, las demás actas se levantarán por cuadruplicado; debiendo contener la Clave Unica del Registro de Población.
+ART. 37.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 36.- Las actas del Registro Civil se concretarán exclusivamente al acto o hecho que corresponda y en ellas se hará mención del parentesco de quienes intervienen en relación con los interesados o sujetos de las mismas en su caso.
+ART. 38.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 37.- Si se perdiere o destruyere total o parcialmente alguno de los libros del registro, el Oficial del Registro Civil que tuviere a su cargo el libro perdido o destruido, inmediatamente sacará copia del otro ejemplar que se encuentra en el Archivo de la Dirección.
+ART. 39.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-Si la pérdida o la destrucción ocurriera en la Dirección del Registro Civil, el Director ejecutará la reposición, del libro que existiere.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-El Director del Registro Civil o el Oficial del mismo dará aviso inmediatamente de la pérdida o destrucción al Ministerio Público.
+ART. 40.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 38.- Cada Oficialía tendrá su propio apéndice del archivo, que estará integrado por todos los documentos relacionados con el acta formulada. Los documentos del apéndice estarán relacionados con el acta respectiva al igual que las actas lo estarán con éstos. Toda persona puede solicitar certificación de las actas y de los documentos del apéndice.
+ART. 41.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 39.- La falsificación de las actas y la inserción en ellas de circunstancias o declaraciones prohibidas por la ley, causarán la destitución del Oficial del Registro Civil, sin perjuicio de las sanciones de carácter penal a que se hubiese hecho acreedor.
+ART. 42.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 40.- Los vicios o defectos que por error u omisión existan en las actas y que sean atribuibles al Oficial del Registro, se podrán corregir a petición de parte interesada, mediante procedimiento administrativo seguido en la Dirección del Registro Civil, conforme lo señale el reglamento respectivo; cuando tales correcciones no sean substanciales, no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
+ART. 43.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-Sin perjuicio de lo dispuesto en el párrafo precedente, las actas del Registro Civil podrán ser aclaradas ante el propio Oficial del Registro Civil, cuando existan errores mecanográficos u ortográficos manifiestos, entendiéndose por éstos los que se desprendan fehacientemente de la sola lectura de la inscripción correspondiente y en su caso de los demás actos del registro civil relacionados, previa revisión y autorización de la Dirección del Registro Civil, para la anotación marginal respectiva en el acta de que se trate.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-En todos los casos en los que la enmienda sea mayor a la corrección de un error mecanográfico u ortográfico, se dará vista al Ministerio Público; en caso de que éste se oponga, cesará el procedimiento administrativo.
+ART. 44.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-La infracción de lo antes previsto se sancionará conforme a lo que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios del Estado, sin perjuicio de la responsabilidad civil y penal en que se incurra.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-El Director del Registro Civil y el Oficial de la adscripción, podrán utilizar un libro auxiliar de márgenes.
+ART. 45.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 41.- Sólo para el caso de que no existan duplicados o cuando no hayan existido registros, se podrá recibir prueba del acto y previo el trámite administrativo o judicial, según corresponda, se hará la inscripción respectiva.
+ART. 46.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-Los registros extemporáneos de nacimientos podrán hacerse por los Oficiales del Registro Civil, únicamente en los siguientes casos:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Si el menor no excede de los siete años, debiendo al efecto exhibir quien lo presenta, el certificado o constancia médica de nacimiento que así lo acredite, y
-
-II.- Tratándose de mayores de siete años de edad, una vez constatada la inexistencia del acta respectiva, cuando el Director del Registro Civil lo autorice por motivos graves, urgentes, causas de fuerza mayor o en campañas de beneficio social, debiéndose acompañar a la solicitud los siguientes requisitos:
-
-a) Fe de bautismo o dos cartas de conocimiento de personas públicas, o de dos personas que se acrediten fehacientemente, o dos identificaciones con que cuente el interesado, y
-
-b) Comprobante de domicilio, o en su defecto, carta de vecindad expedida por el ayuntamiento que corresponda.
-
-En todos los casos, previo al registro y expedición del acta respectiva, deberá seguirse el procedimiento administrativo que establece el reglamento correspondiente.
-
-Fuera de los casos anteriores, sólo se inscribirán los registros previa sentencia judicial ejecutoriada.
-
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 42.- Cuando los interesados no puedan concurrir personalmente ante el Oficial del Registro Civil, podrán solicitar que éste acuda al lugar donde se encuentren o podrán hacerse representar por mandatario especial con facultades expresas para el acto, mediante poder otorgado en escritura pública. El reconocimiento de hijos fuera de matrimonio sólo podrá hacerse personalmente.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 43.- Para acreditar el estado civil adquirido por los mexicanos fuera de la república, bastarán las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto por las leyes en cuanto a su legalización, debiendo inscribirse estos actos en la Oficialía correspondiente.
-
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 44.- Los actos y actas del Registro Civil relativos al Oficial del Registro, a su cónyuge y a los ascendientes o descendientes de cualquiera de ellos, no podrán autorizarse por el mismo Oficial; pero se asentarán en los mismos formatos, y se autorizarán por el Presidente Municipal del lugar.
-
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 45.- Los Oficiales del Registro Civil se suplirán unos a otros en sus faltas temporales; cuando esto no fuere posible, suplirán dichas faltas los Presidentes Municipales del Lugar.
-
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 46.- La Secretaría General de Gobierno, el órgano superior del Registro Civil, quien por medio de la Dirección del Registro Civil y de los Agentes del Ministerio Público, cuidará del funcionamiento del mismo. Cualquier falta administrativa cometida por los Oficiales del Registro Civil y de la Dirección del mismo, y que no estén penados especialmente, se castigará por la propia Secretaría, con multa hasta de 5 días de salario mínimo de la zona de la infracción, y podrá igualmente solicitar al Ejecutivo, el cese del funcionario infractor, en los casos que así proceda.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO II. De las Actas de Nacimiento
 
-ART. 47.- Las declaraciones de nacimiento se harán presentando al niño ante el oficial del registro civil, en su oficina o en la casa donde aquél se encuentre.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+ART. 47.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 48.- Tienen obligación de declarar el nacimiento, los padres, dentro del término de ciento ochenta días de ocurrido aquél.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-(REFORMADO, P.O. 26 DE ENERO DE 1990) (F. DE E., P.O. 9 DE FEBRERO DE 1990)
+ART. 48.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 49.- Los padres que estando obligados a declarar el nacimiento, lo hacen fuera del término fijado en el artículo anterior, serán sancionados con una multa correspondiente de hasta un día de salario mínimo, que impondrá la autoridad municipal del lugar donde se haga la declaración extemporánea de nacimiento.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 50.- En las poblaciones en que no haya oficial del registro civil, el niño será presentado a la persona que ejerza la autoridad municipal, y ésta dará las constancias respectivas que los interesados llevarán al oficial del registro que corresponda, para que asiente el acta.
+ART. 49.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 51.- El acta de nacimiento se extenderá con asistencia de dos testigos que puedan ser designados por las partes interesadas. Contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y apellido que se le ponga, sin que por motivo alguno puedan omitirse, y la razón de si se ha presentado vivo o muerto. Se tomará al margen del acta la impresión digital del presentado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Sí éste se presenta como hijo de padres desconocidos, el oficial del registro le pondrá nombre y apellido, haciéndose constar esta circunstancia en el acta.
+ART. 50.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 52.- Cuando el nacido fuere presentado como hijo de matrimonio, se asentarán los nombres, domicilio y nacionalidad de los padres; los nombres y domicilios de los abuelos y los de la persona que hubiere hecho la presentación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 1977)</small>
+ART. 51.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 53.- La madre no tiene derecho de dejar de reconocer a su hijo. Tiene obligación de que su nombre figure en el acta de nacimiento de su hijo. Si al hacerse la presentación se proporciona el nombre de la madre, se pondrá éste, si no se proporciona se hará constar esta circunstancia; pero la investigación de la maternidad podrá hacerse ante los Tribunales de acuerdo con las disposiciones de éste Código. Cuando figure el nombre de los padres, se hará constar en el acta de nacimiento, las generales de éstos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Queda absolutamente prohibido asentar en el acta, que el hijo es natural o nacido fuera del matrimonio.
+ART. 52.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 54.- Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos por sí o por interpósita persona, la presencia del oficial del Registro Civil, este pasará al lugar en que se halle el interesado, y allí recibirá de él la partición de que se mencione su nombre; todo lo cual se asentará en el acta.
+ART. 53.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 55.- Si el hijo fuere adulterino, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere; pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, a no ser éste haya desconocido al hijo y exista sentencia ejecutoria que declare que no es hijo suyo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(ADICIONADO, P.O. 22 DE MAYO DE 1977)</small>
+ART. 54.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-No se expresará en el acta que el hijo es adulterino.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 56.- Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá el oficial del registro asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
+ART. 55.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 57.- Los padres de un hijo producto de una relación incestuosa podrán reconocerlo y hacer que consten sus nombres en el acta, pero no se expresará en la misma que el hijo es incestuoso.
+ART. 56.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 58.- Toda persona que encontrare un recién nacido, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al oficial del Registro Civil o al Sistema para el Desarrollo Integral de la Familia, con los vestidos, papeles o cualesquiera otros objetos encontrados con él, y declarará el día y lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido.
+ART. 57.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 59.- La misma obligación tienen los jefes, directores o administradores de las prisiones o de cualquiera casa de comunidad, especialmente los de los hospitales, casas de maternidad e inclusas, respecto de los niños nacidos o expuestos en ellas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 60.- En las actas que se levanten en estos casos, se expresarán con especificación todas las circunstancias que designa el artículo 58, la edad aparente del niño, su sexo, el nombre y apellido que se le pongan y el nombre de la persona o casa de expósitos que se encarguen de él.
+ART. 58.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 61.- Si con el expósito se hubieren encontrado papeles, alhajas u otros objetos que puedan conducir al reconocimiento permitido de aquél, se depositarán en el archivo del registro, mencionándolos en el acta y dando formal recibo de ellos al que recoja al niño.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 59.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 62.- Se prohíbe absolutamente al oficial del Registro Civil y a los testigos que conforme al articulo 51 deben asistir al acto, hacer inquisiciones sobre la paternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten al niño, aunque parezcan sospechosas de falsedad, debiendo dar aviso, en tal caso, al Ministerio Público.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 60.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 61.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 62.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ART. 63.- (DEROGADO, P.O. 15 DE JULIO DE 1976)
 
@@ -401,89 +389,103 @@ ART. 65.- (DEROGADO, P.O. 15 DE JULIO DE 1976)
 
 ART. 66.- (DEROGADO, P.O. 15 DE JULIO DE 1976)
 
-ART. 67.- Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en el lugar en que ocurra o en el domicilio de los padres, según las reglas antes establecidas; en el primer caso se remitirá copia del acta al oficial del registro civil del domicilio de los padres, si éstos lo pidieren, y en el segundo, se tendrá para hacer el registro el término que señala el artículo 48, con un día más por cada veinte kilómetros de distancia o fracción que exceda de la mitad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 68.- Si al dar el aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de fallecimiento, en los libros respectivos.
+ART. 67.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 69.- Cuando se trate de un parto múltiple se levantará un acta por cada uno de los nacidos, haciendo constar las particularidades que los distingan, siguiendo el orden progresivo del nacimiento, según la información que proporcionen las personas que hayan asistido al parto.
+ART. 68.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MAYO DE 1977)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 69.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO III. De las Actas de Reconocimiento de Hijos Nacidos Fuera de Matrimonio
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 1977)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 70.- Si el padre o la madre de un hijo sin estar unidos en matrimonio civil, o ambos, lo reconocieren al presentarlo dentro del término de Ley para que se registre su nacimiento, el acta contendrá los requisitos establecidos en los artículos anteriores, los generales del progenitor o progenitores que lo reconozcan, así como el nombre de los abuelos respecto del padre o la madre que aparezcan en el acta. Esta acta surtirá los efectos del reconocimiento.
+ART. 70.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 71.- Si el reconocimiento del hijo se hiciere después de haber sido registrado su nacimiento, se formará acta separada, en la que además de los requisitos a que se refiere al artículo que precede, se hará constar la declaración del reconocimiento de quien lo haga, y el consentimiento del reconocido si es mayor de edad. Si es menor de edad, el consentimiento lo dará quien ejerza la patria potestad o la custodia y en oposición de estos, el Ministerio Público.
+ART. 71.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 1977)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-En estas actas queda prohibido expresar que el hijo es natural o nacido fuera de matrimonio.
+ART. 72.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 1977)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Lo mismo se observará cuando se haya omitido la presentación para el registro del nacimiento del hijo, o esta presentación se haya hecho fuera del término de Ley.
+ART. 73.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 1977)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Cuando se observe que en una acta, aún las no autorizadas, se hace mención de cualquiera de las expresiones prohibidas por este Código, se testarán éstas por el Oficial del Registro Civil, de oficio o a petición de parte, de tal manera que queden absolutamente ilegibles, advirtiéndose al final del acta la causa por la que se hace.
+ART. 74.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 72.- Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará, dentro del término de quince días, al encargado del registro el original o copia certificada del documento que lo compruebe, observándose las demás prescripciones contenidas en este capítulo y en el capítulo IV del título séptimo de este libro.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 75.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 73.- La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión quedarán sujetos a la sanción establecida en las disposiciones legales aplicables, la cual será impuesta por el juez ante quien se haga valer el reconocimiento.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 74.- En el acta de reconocimiento hecho con posterioridad al acta de nacimiento, se hará mención de ésta, poniendo en ella la anotación marginal correspondiente.
-
-ART. 75.- Si el reconocimiento se hiciere en oficina distinta de aquélla en que se levantó el acta de nacimiento, el oficial del registro civil que autorice el acta de reconocimiento, remitirá copia de ésta al encargado de la oficina que haya registrado el nacimiento, para que se haga la anotación marginal en el acta respectiva.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO IV. De las Actas de Adopción
 
 ART. 76.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
-ART. 77.- La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el artículo 73.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
+ART. 77.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 78.- El acta de adopción contendrá los nombres, apellidos, edad y domicilio del adoptante y del adoptado, el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción y los nombres, apellidos y domicilios de las personas que intervengan como testigos. En el acta se insertará íntegramente la resolución judicial que haya autorizado la adopción. En los casos de adopción plena, se cancelará el acta de nacimiento del adoptado, si es que existe, y en su lugar se levantará acta de nacimiento que contendrá los datos del adoptado, del o los padres adoptivos, y los ascendientes de éstos, así como de los testigos de ese acto.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 79.- Extendida el acta de la adopción, se anotará la de nacimiento del adoptado y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
+ART. 78.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 80.- El juez o tribunal que resuelva que una adopción queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al oficial del registro civil, para que cancele el acta de adopción y anote la de nacimiento.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 79.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 80.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO V. De las Actas de Inscripción de Sentencias
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 81.- Las autoridades judiciales que declaren la ausencia, la presunción de muerte, la tutela, la pérdida o limitación de la capacidad legal para administrar bienes o la nulidad de matrimonio, remitirán al Oficial del Registro Civil correspondiente, dentro del término de ocho días, copia certificada de la resolución ejecutoriada o auto de discernimiento para su registro y levantamiento del acta correspondiente, en la que se insertará dicha resolución
+ART. 81.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-La falta de registro de la sentencia no impedirá que se produzcan todos los efectos legales del acto respectivo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 82.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 82.- Cuando se recobre la capacidad legal para administrar, se revoque la tutela, se presente la persona declarada ausente o cuya muerte se presumía, la autoridad respectiva dará aviso al Oficial del Registro Civil para que cancele la inscripción a que se refiere el artículo anterior.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Los oficiales que no cumplan con estas prevenciones o no realicen las anotaciones en los casos en que así proceda, serán sancionados en los términos que establezca el ordenamiento correspondiente.
+ART. 83.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 83.- Las actas a que se refiere el artículo 81 contendrán: el nombre, apellidos, edad, estado civil y nacionalidad de la persona de quien se trate; los puntos resolutivos de la sentencia, la fecha en que se dictó y aquella en que causó estado, así como el Tribunal que la pronunció.
+ART. 84.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 84.- Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, observándose para el caso de que no exista en la misma oficina del registro, lo prevenido en el artículo 75.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(DEROGADO, P.O. 20 DE JULIO DE 1975)</small>
+> <small>(DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO VI. De las Actas de Emancipación
 
-ART. 85.- En los casos de emancipación por efecto del matrimonio no se formará acta separada; el oficial del registro civil anotará las respectivas actas de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud del matrimonio y citando la fecha en que éste se celebró, así como el número y la foja del acta relativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 85.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ART. 86.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
@@ -491,217 +493,153 @@ ART. 87.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
 ART. 88.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
 ### CAPITULO VII. De las Actas de Matrimonio
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 89.- Las personas que pretendan contraer matrimonio presentarán una solicitud por escrito al Oficial del Registro Civil del domicilio de cualquiera de los contrayentes, en la que se expresará:
+ART. 89.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-I.- Que es voluntad de ambos unirse en matrimonio;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- Que no tienen impedimento legal para casarse o ha sido dispensado;
+ART. 90.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-III.- Los nombres, apellidos, lugar y fecha de su nacimiento, nacionalidad, estado civil, ocupación y domicilio, tanto de los pretendientes como de sus padres, si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IV.- El régimen patrimonial bajo el cual se celebrará el matrimonio.
+ART. 91.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-La solicitud deberá ser firmada por los pretendientes y si alguno no pudiere o no supiere escribir, lo hará, a su ruego, una persona conocida, mayor de edad y vecina del lugar.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 92.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 90.- A la solicitud a que se refiere el artículo anterior, se acompañará:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 93.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-I.- Copia certificada del acta de nacimiento, identificación idónea o en su defecto cualquier otro medio de prueba que señale el Código Civil, para acreditar sus nombres, nacionalidad, fecha y lugar de nacimiento;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 94.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- La constancia de que otorgan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 133, 134 y 135 de este Código;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 95.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-III.- La declaración de dos testigos mayores de edad por cada uno de los contrayentes, que los conozcan y que les conste que no tienen impedimento legal para contraer matrimonio;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 96.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-IV.- Certificado médico en el que conste el resultado del análisis practicado por laboratorios de instituciones de salud pública o privados, en donde el médico que los extienda certifique, bajo protesta de decir verdad, haber examinado a los pretendientes y que los mismos no padecen enfermedad infecto contagiosa o hereditaria, que constituya impedimento para el matrimonio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Los servicios de salud dependientes del Estado, tendrán obligación de expedir gratuitamente a las personas de escasos recursos económicos, el certificado médico a que se refiere el párrafo anterior.
+ART. 97.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-Dicho documento deberá expedirse dentro de los quince días previos a la celebración del matrimonio;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-V.- Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente;
+ART. 98.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-VI.- Copia de la dispensa de impedimentos, si los hubo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 91.- El oficial del registro civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 90 serán ratificadas bajo la protesta de decir verdad, ante el mismo oficial del registro civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado.
+ART. 99.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 92.- El matrimonio se celebrará dentro de los ocho días siguientes en el lugar, día y hora que señale el Oficial del Registro Civil; pero si por causa imputable a los pretendientes no se celebrare el matrimonio dentro de los seis meses a partir de la fecha del acta de presentación, las gestiones relativas quedarán sin efecto, debiendo repetirse íntegramente.
+ART. 100.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 93.- En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes ante el oficial del registro civil, los pretendientes o sus apoderados especiales constituídos en la forma prevenida en el artículo 37 y dos testigos por cada uno de ellos, que acrediten su identidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Acto contínuo, el oficial del registro civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y la sociedad.
+ART. 101.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 94.- Se levantará luego el acta de matrimonio en la cual se hará constar:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Los nombres, apellidos, edad, ocupación, domicilio y lugar de nacimiento de los contrayentes;
+ART. 102.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- Si son mayores o menores de edad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- Los nombres, apellidos, ocupación y domicilio de los padres;
+ART. 103.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-IV.- El consentimiento de éstos, de los abuelos o tutores, o el de las autoridades que deban suplirlo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-V.- Que no hubo impedimento para el matrimonio o que éste se dispensó;
+ART. 104.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-VI.- La declaración de los pretendientes de ser su voluntad unirse en matrimonio, y la de haber quedado unidos, que hará el oficial del registro en nombre de la ley y de la sociedad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-VII.- Los nombres, apellidos, edad, estado, ocupación y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes, y si lo son, en qué grado y en qué línea;
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
-
-VIII.- Cuando los contrayentes o alguno de ellos fuera menor de edad, el Oficial del Registro Civil anotará en las o la acta respectiva de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud del matrimonio y citando la fecha en que éste se celebró, así como el número y foja del acta relativa.
-
-El acta será firmada por el oficial del registro civil, los contrayentes, los testigos y las demás personas que hubieren intervenido, si supieren y pudieren hacerlo.
-
-Al margen del acta se imprimirán las huellas digitales de los contrayentes.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 95.- Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquellos o su identidad y los médicos que se conduzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 90, serán sancionados en los términos que establezca el Código Penal del Estado. Lo mismo se hará con las personas que falsamente se hicieren pasar por los padres o tutores de los pretendientes. El matrimonio celebrado bajo alguna de estas circunstancias surtirá efectos legales entre los contrayentes.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 96.- Si antes de celebrar el matrimonio, el Oficial del Registro Civil tuviere conocimiento de que los pretendientes tienen impedimento para contraerlo, levantará un acta, ante dos testigos, en la que hará constar los datos que le hagan presumir que existe el impedimento.
-
-Cuando haya denuncia, se expresará en el acta el nombre, edad, ocupación, estado civil y domicilio del denunciante insertándose al pie de la letra la denuncia.
-
-En ambos casos, el Oficial del Registro Civil se abstendrá de celebrar el matrimonio, hasta en tanto no cese la causa del impedimento.
-
-La abstención de celebrar el matrimonio, podrá ser impugnada ante el Juez que corresponda, a fin de que sea ésta autoridad quien califique el impedimento.
-
-ART. 97.- Las denuncias del impedimento pueden hacerse por cualquiera persona. Las que sean falsas sujetan al denunciante a las penas establecidas para el falso testimonio en materia civil. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 98.- El Oficial del Registro Civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 99.- Las denuncias anónimas o hechas por cualquier otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas.
-
-ART. 100.- Denunciado un impedimento, el matrimonio no podrá celebrarse aunque el denunciante se desista, mientras no recaiga sentencia judicial que declare su inexistencia o se obtenga dispensa de él.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 101.- Será sancionado en los términos que establezca la legislación respectiva el Oficial del Registro Civil que:
-
-I.- Autorice un matrimonio teniendo conocimiento de que hay impedimento legal o de que éste se ha denunciado, o
-
-II.- Se niegue injustificadamente a celebrar un matrimonio o lo retarde en forma indebida.
-
-ART. 102.- Los oficiales del registro civil sólo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes, o los dos carecen de aptitud legal para celebrar el matrimonio.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 103.- Tratándose de matrimonio en que alguno o ambos pretendientes sean extranjeros, deberá cumplirse además con lo que dispongan al respecto las leyes federales.
-
-La celebración colectiva de matrimonios no exime al Oficial del Registro Civil del cumplimiento estricto de las solemnidades previstas en este Código.
-
-ART. 104.- El oficial del registro civil que reciba una solicitud de matrimonio, está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio.
-
-También podrá exigir declaración bajo protesta a los testigos que los interesados presenten; a las personas que figuren como padres o tutores de los pretendientes y a los médicos que suscriban el certificado exigido por la fracción IV del artículo 90.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-Celebrado el matrimonio, el Oficial del Registro Civil remitirá copia del acta al encargado de la oficina en que se encuentren registrados los nacimientos de los contrayentes, para que se haga la anotación marginal correspondiente.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO VIII. De las Actas de Divorcio
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 105.- De la sentencia ejecutoria que decrete un divorcio, se remitirá copia certificada a la Dirección del Registro Civil y al Oficial del Registro donde se celebró el matrimonio, para que se asiente el acta correspondiente.
+ART. 105.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 106.- En el acta de divorcio se expresará el nombre, apellidos, edad, domicilio, nacionalidad de los divorciados, lugar y fecha en que se celebró su matrimonio, la clave única del registro de población, si la tuvieren, los datos de ubicación de las actas de nacimiento de los divorciados, la parte resolutiva de la sentencia judicial que lo decretó, fecha de la misma y la autoridad que la dictó.
+ART. 106.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 107.- Extendida el acta por el Oficial del Registro Civil, remitirá copia de la misma al del lugar en que se encuentre registrado el nacimiento de los divorciados, a efecto de que haga la anotación marginal respectiva. La copia de la sentencia mencionada, se archivará con el mismo número del acta de divorcio en el apéndice correspondiente.
+ART. 107.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO IX. De las Actas de Defunción
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 108.- Ninguna inhumación o cremación se hará sin autorización escrita del Oficial del Registro Civil, quien se asegurará suficientemente del fallecimiento mediante el certificado de defunción que expida el médico. No se procederá a la inhumación o cremación sino después de que transcurran dieciocho horas del fallecimiento, excepto los casos en que se ordene otra cosa por la autoridad que corresponda.
+ART. 108.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 109.- En el acta de defunción se asentarán los datos que el oficial del Registro Civil recabe de la declaración que se le haga, y será firmada por dos testigos, prefiriéndose para el caso, los parientes del fallecido, si los hay, o los vecinos.
+ART. 109.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 110.- El acta de defunción contendrá:
+ART. 110.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- El nombre, apellidos, edad, nacionalidad, sexo, domicilio y en su caso la clave única del Registro Nacional de Población, que tuvo el difunto;
+ART. 111.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- El estado civil de éste y si era casado o viudo, el nombre y apellido de su cónyuge;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- Los nombres, apellidos, edad, ocupación y domicilio de los testigos y si fueren parientes, el grado en que lo sean;
+ART. 112.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-IV.- Los nombres de los padres del difunto si se supiese;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-V.- La clase de enfermedad que determinó la muerte y especificadamente el lugar en que se sepulta el cadáver, y
+ART. 113.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-VI.- La hora de la muerte, si se supiere y todos los informes que se tengan en caso de muerte violenta;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 114.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-VII.- El nombre, apellidos, domicilio y número de cédula profesional del médico que certifica la defunción; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 115.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-VIII.- Tratándose de extranjeros se dará aviso a la autoridad federal correspondiente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 116.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 111.- Los dueños, habitantes o encargados del lugar en que ocurra la defunción; tendrán la obligación de dar aviso del fallecimiento al Oficial del Registro Civil que corresponda, para que asiente el acta.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 117.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 112.- Si la defunción ocurre en un lugar o población en donde no hay oficina del Registro, la autoridad municipal extenderá la constancia respectiva que remitirá al Oficial del Registro Civil que corresponda, para que asiente el acta.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 113.- Cuando el oficial del registro civil sospeche que la muerte fue violenta, dará parte al Ministerio Público, comunicándole todos lo informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando la autoridad judicial o el Ministerio Público averigüe un fallecimiento, dará parte al oficial del registro civil para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al oficial del registro civil para que los anote al margen del acta.
-
-ART. 114.- En los casos de inundación, naufragio, incendio o cualquier otro siniestro en que no sea fácil reconocer el cadáver, se formará el acta con los datos que ministren los que lo recogieron, expresando, en cuanto fuere posible, las señas del mismo y de los vestidos u objetos que con él se hayan encontrado.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 115.- Si no aparece el cadáver, pero existe la presunción de que alguna persona ha sucumbido en el lugar del desastre, el acta contendrá el nombre y las declaraciones de las personas que hayan conocido a la que no aparece, los datos que tengan sobre su desaparición; y las demás noticias que sobre el acontecimiento puedan recabarse.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 116.- Si por cualquier motivo no se hubiere levantado el acta de defunción oportunamente, quienes tengan conocimiento de la omisión, darán aviso al Oficial del Registro Civil, allegándole la documentación e información conducente, para que asiente el acta respectiva, dando aviso al Ministerio Público, para que éste proceda de acuerdo a sus atribuciones, cuando se presuma la comisión de un ilícito.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 117.- Cuando alguien falleciere en lugar distinto al del registro de su nacimiento, se remitirá al oficial del Registro Civil que le corresponda, copia certificada del acta de defunción para que haga la anotación en el acta de nacimiento y en las demás que estén relacionadas con la misma.
-
-ART. 118.- El jefe de cualquier cuerpo o destacamento militar tiene obligación de dar parte al oficial del registro civil, de los muertos que haya habido en campaña, o en otro acto del servicio, especificándose la filiación; el oficial del registro civil observará en este caso lo dispuesto en el artículo anterior.
+ART. 118.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ART. 119.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 120.- En todos los casos de muerte violenta en las prisiones o en las casas de detención, no se hará en los registros mención de estas circunstancias y las actas solamente contendrán los demás requisitos que prescribe el artículo 110.
+ART. 120.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 121.- En los registros de nacimiento y matrimonio se hará referencia al acta de defunción, expresándose los folios en que consta ésta.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 121.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2000)</small>
 
@@ -713,2077 +651,2265 @@ ART. 123.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
 ART. 124.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
 ### CAPITULO XI. De la rectificación de las Actas del Registro Civil
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MAYO DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 125.- La cancelación y nulidad de una acta del estado civil, procederá únicamente por sentencia judicial ejecutoriada.
+ART. 125.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Lo dispuesto en este artículo, no es aplicable a los casos de reconocimiento voluntario de un hijo, el cual se sujetará a las prescripciones de este Ordenamiento.
+ART. 126.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-No obstante lo anterior, podrá modificarse una acta por enmienda administrativa en los casos a que se refieren este código y las demás disposiciones legales aplicables.
+ART. 127.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 126.- Ha lugar a pedir la rectificación de un acta del registro civil:
+ART. 128.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-I.- Por falsedad, cuando se alegue que el suceso registrado no pasó;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 129.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- En los casos en que estas contengan los vicios o defectos de carácter genérico o específico que a continuación se indican:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Los genéricos son:
-
-a).- La falta de correlación de apellidos de los ascendientes y descendientes, cuyos datos aparezcan consignados en una misma acta.
-
-b).- La no correlación de los datos que contenga un acta con los expresados en el documento relacionado con ella y del cual procedan.
-
-c).- La ilegibilidad de los datos en alguno de los libros correspondientes.
-
-d).- La existencia de abreviaturas.
-
-e).- La omisión de algún dato relativo al acta o hecho de que se trate, según su propia naturaleza o de la anotación que debe contener.
-
-f).- Los apellidos invertidos.
-
-Los específicos son:
-
-a).- Tratándose de un acta de nacimiento, que contenga datos de registro relativos a dos o más personas.
-
-b).- Haber anotado en el acta de que se trate, datos correspondientes a una hipótesis legal diferente a la que precediere.
-
-c).- La falta de correlación del nombre propio asentado en el acta con el que socialmente se le identifica.
-
-ART. 127.- Pueden pedir la rectificación de una acta del estado civil:
-
-I.- La persona de cuyo estado se trata;
-
-II.- Las que se mencionan en el acta como relacionadas con el estado civil de alguno;
-
-III.- Los herederos de las personas comprendidos en las dos fracciones anteriores;
-
-IV.- Los que según los artículos 308, 309 y 310, pueden continuar o intentar la acción de que en ellos se trata.
-
-ART. 128.- El juicio de rectificación de acta se seguirá en la forma que se establezca en el Código de Procedimientos Civiles.
-
-ART. 129.- La sentencia que cause ejecutoria se comunicará al oficial del registro civil, y éste hará una referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ## TITULO QUINTO. Del Matrimonio y del concubinato
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO I. Disposiciones Generales del Matrimonio
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 130.- El matrimonio es la unión consensual de un hombre y una mujer que con igualdad de derechos, deberes y obligaciones, hacen vida en común, para ayudarse y promoverse mutuamente, guardarse fidelidad recíproca y perpetuar la especie formando una familia.
+ART. 130.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL ARTICULO 130, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO, P.O. 18 DE DICIEMBRE DE 2008.</small>
 
-ART. 131.- El matrimonio deberá celebrarse ante los funcionarios que establezca la ley y con las formalidades que ella exija.
+ART. 131.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-La ley no reconoce esponsales de futuro.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 1948)</small>
+ART. 132.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 132.- Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. Los Presidentes Municipales pueden conceder dispensa de edad por causas graves y justificadas. La misma Autoridad podrá conceder la dispensa del impedimento de que se ocupa la parte final de la Fracción III del artículo 140 de este Código.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+ART. 133.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 133.- Los hijos que no hayan cumplido 18 años no pueden contraer matrimonio sin el consentimiento de sus padres, si vivieren ambos, o del que sobreviva. Seguirán teniendo este derecho si el hijo vive a su lado, aunque hayan contraído nuevas nupcias. A falta o por imposibilidad de los padres, se necesita el consentimiento de los que les suceden en el derecho conforme a esta Ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 134.- Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, el juez de primera instancia de la residencia del menor suplirá el consentimiento.
+ART. 134.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 135.- Los interesados pueden ocurrir al presidente municipal respectivo, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. Las autoridades mencionadas, después de levantar una información sobre el particular, suplirán o no el consentimiento.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 136.- Si el juez, en el caso del artículo 134, se niega a suplir el consentimiento para que se celebre un matrimonio, los interesados ocurrirán al Tribunal Supremo respectivo, en los términos que disponga el Código de Procedimientos Civiles.
+ART. 135.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 137.- El ascendiente o tutor que ha prestado su consentimiento firmando la solicitud respectiva y ratificándola ante el oficial del registro civil, no puede revocarlo después, a menos que haya justa causa para ello.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 138.- Si el ascendiente o tutor que ha firmado o ratificado la solicitud del matrimonio falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo; pero siempre que el matrimonio se verifique dentro del término fijado en el artículo 92.
+ART. 136.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 139.- El juez que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, sino por causa superveniente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 137.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 140.- Son impedimentos para celebrar el matrimonio:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- La falta de edad requerida por la ley, cuando no haya sido dispensada;
+ART. 138.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- La falta de consentimiento de quien o quienes ejerzan la patria potestad, del tutor o del juez, en sus respectivos casos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- El parentesco por consanguinidad legítima, natural o legal sin limitación de grado en línea recta, ascendente o descendente. En línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
+ART. 139.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-IV.- El parentesco de afinidad en línea recta, sin limitación alguna;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-V.- La privación de la vida de alguno de los casados para contraer matrimonio con el que quede libre;
+ART. 140.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-VI.- El consentimiento obtenido por violencia o miedo grave.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-VII.- Padecer alguna enfermedad crónica e incurable que sea además infecto contagiosa;
+ART. 141.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-VIII.- La incapacidad permanente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IX.- El matrimonio subsistente con persona distinta de aquélla con quien se pretenda contraer.
+ART. 142.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-De estos impedimentos sólo son dispensables la falta de edad y el parentesco por consanguinidad en línea colateral desigual.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 143.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 141.- El adoptante no puede contraer matrimonio con el adoptado o con sus descendientes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 144.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 142.- La mujer no puede contraer nuevo matrimonio hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz a un hijo, o acreditare con prueba indubitable, que no se encuentra en estado de gravidez.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 143.- El tutor no puede contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que obtenga dispensa, la que no se le concederá por el juez de primera instancia respectivo, sino cuando hayan sido aprobadas las cuentas de la tutela.
+ART. 145.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-Esta prohibición comprende también al curador y a los descendientes de éste y del tutor.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 144.- Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo anterior, el juez nombrará inmediatamente un tutor interino que reciba los bienes y los administre mientras se obtiene la dispensa.
+ART. 146.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 145.- Tratándose de mexicanos que se casen en el extranjero, dentro de tres meses de su llegada a la República se transcribirá el acta de la celebración del matrimonio en el registro civil del lugar en que se domicilien los consortes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Si la transcripción se hace dentro de esos tres meses, sus efectos civiles se retrotraerán a la fecha en que se celebró el matrimonio; si se hace después, sólo producirá afectos (sic) desde el día en que se hizo la transcripción.
-
-ART. 146.- El matrimonio entre extranjeros, celebrado fuera de la República, válido conforme a las leyes del país en que se celebre, producirá todos sus efectos legales en el Estado, con la restricción de que se ocupa el artículo 11.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO II. De los derechos y obligaciones que nacen del Matrimonio
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 147.- Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos. Por lo que toca al matrimonio, este derecho será ejercido de común acuerdo por los cónyuges.
+ART. 147.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Podrán ser utilizados los métodos de la fecundación artificial o asistida, exceptuando la madre sustituta.
+ART. 148.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 148.- Los cónyuges vivirán juntos en el domicilio conyugal.
+ART. 148 BIS.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-Se considera domicilio conyugal, el lugar establecido de común acuerdo por los cónyuges en el que ambos, en igualdad de circunstancias, tengan autoridad propia y consideraciones iguales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 149.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 148 BIS.- Cualquiera de los cónyuges o ambos, podrán solicitar al juez su separación temporal:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Cuando alguno de ellos traslade su domicilio a país extranjero, a no ser que lo haga en servicio público o social;
+ART. 149 BIS.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- Cuando el domicilio conyugal se establezca en lugar insalubre o indecoroso;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- Cuando alguno de ellos padezca temporalmente enfermedad del orden psíquico y ésta represente un riesgo para la familia. Al cesar el peligro, los cónyuges deberán reunirse nuevamente;
-
-IV.- Cuando uno de los cónyuges intente denunciar o haya denunciado la comisión de un delito, atribuyendo ésta al otro cónyuge, y
-
-V.- Cuando uno de los cónyuges realice actos de violencia familiar contra el otro o hacia los hijos de ambos o de alguno de ellos.
-
-La separación conyugal autorizada por el juez no disuelve el vínculo matrimonial, sólo suspende la obligación de los cónyuges de vivir juntos, pero subsisten todos los demás derechos, deberes y obligaciones entre ellos y con relación a sus hijos. Al autorizar la separación el juez deberá proveer sobre los alimentos, guarda y custodia de los hijos.
-
-La separación no excederá de seis meses y sólo podrá ser solicitada cuando hubiese transcurrido al menos un año de la celebración del matrimonio, salvo los casos previstos en las fracciones III y V de este artículo.
-
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
-
-ART. 149.- La obligación de proporcionar los alimentos recaerá en aquel cónyuge que se encuentre en mejor posición económica y de trabajo, el otro contribuirá si tuviere medios para hacerlo, sólo en proporción a sus posibilidades.
-
-Solamente estando imposibilitado para trabajar y careciendo de bienes propios, se eximirá de esta obligación al que se encontrara en este caso.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-Quien dolosamente abandone su trabajo o no teniéndolo, no procure conseguirlo, dilapide sus bienes o simule actos con el objeto de parecer insolvente, independientemente de las obligaciones que le impone esta ley, se le aplicarán las penas a que se refiere el Código Penal del Estado.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 149 BIS.- El desempeño del trabajo en el hogar o el cuidado de los hijos, se estiman como contribución o participación económica por parte del cónyuge que los realice.
-
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
-
-ART. 150.- Los cónyuges y los hijos, en materia de alimentos, tendrán derecho preferente sobre los ingresos y bienes de quien tenga a su cargo el sostenimiento económico de la familia y podrán demandar el aseguramiento de los bienes para hacer efectivos estos derechos.
+ART. 150.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ART. 151.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 152.- Estará a cargo de ambos cónyuges, la dirección y cuidado de los trabajos del hogar.
+ART. 152.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 153.- Los cónyuges tendrán autoridad y consideraciones iguales, por lo tanto, resolverán de común acuerdo todo lo relativo a la educación de los hijos, al manejo del hogar y de los bienes comunes que a éstos pertenezcan. En caso de desacuerdo, el juez competente de su domicilio resolverá lo conducente.
+ART. 153.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 154.- Los cónyuges podrán desempeñar cualquier actividad, excepto las que dañen la moral de la familia o a la estructura de ésta. Cualquiera de ellos podrá oponerse a que el otro desempeñe la actividad de que se trate y el juez competente, resolverá sobre la oposición de cualquiera de ellos.
+ART. 154.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ART. 155.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
 ART. 156.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-ART. 157.- El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél; salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 158.- El marido y la mujer, menores de edad, tendrán la administración de sus bienes en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
+ART. 157.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 158.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ART. 159.- (DEROGADO, P.O. 20 DE MARZO DE 2003)
 
 ART. 160.- (DEROGADO, P.O. 20 DE MARZO DE 2003)
 
-ART. 161.- El contrato de compra-venta sólo puede celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 162.- El marido y la mujer, durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno en contra del otro; pero la prescripción entre ellos no corre mientras dure el matrimonio.
+ART. 161.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 162.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO III. Del contrato de Matrimonio con relación a los bienes
 
-ART. 163.- El hombre y la mujer, al celebrar el contrato de matrimonio, conservarán la propiedad y administración de los bienes que respectivamente les pertenezcan; y, por consiguiente, todos los frutos y accesiones de dichos bienes no serán comunes, sino del dominio exclusivo de la persona a quien aquéllos correspondan.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 164.- Serán también propios de cada uno de los consortes los salarios, sueldos, honorarios y ganancias que obtuvieren por servicios personales, por el desempeño de un empleo o ejercicio de una profesión, o en un comercio o industria.
+ART. 163.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 165.- El hombre y la mujer, antes o después de contraer matrimonio, pueden convenir en que los productos de todos los bienes que poseen o de alguno o algunos de ellos, especificándolos en todo caso, serán comunes; pero entonces fijarán de una manera clara y precisa la fecha en que se ha de hacer la liquidación y presentar las cuentas correspondientes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 164.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 166.- El hombre y la mujer antes y después de contraer matrimonio, pueden convenir en que los productos de su trabajo, profesión, industria o comercio se dividan entre ellos en la proporción y términos que convengan.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 165.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 166.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ART. 167.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
 ART. 168.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 169.- El cónyuge que faltare a lo convenido dará derecho al otro para pedir el cumplimiento del contrato, o para pedir su rescisión para lo sucesivo y el cumplimiento de él hasta la fecha de la demanda.
+ART. 169.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 170.- Cuando se trate de alimentos, el cónyuge acreedor tendrá derecho preferente, sobre los bienes, sueldos, salarios u honorarios del otro cónyuge que tenga a su cargo la obligación de proporcionarlos, para pagarse con ellos las cantidades que correspondan al primero y a sus menores hijos.
-
-También tendrá derecho preferente, para igual objeto sobre los bienes del deudor alimentario, después de que se paguen con el valor de éstos, los créditos hipotecarios o prendarios legalmente establecidos.
+ART. 170.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ART. 171.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-ART. 172.- Los bienes que los cónyuges adquieren en común por donación, herencia, legado, por cualquier otro título gratuito u oneroso o por don de la fortuna, entre tanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en este caso, el que administre será considerado como mandatario del otro.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Si los bienes comunes fueren inmuebles o muebles preciosos no podrán ser enajenados sino de común acuerdo.
+ART. 172.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 173.- Ni el marido podrá cobrar a la mujer, ni ésta a aquél retribución y honorario alguno por los servicios personales que le prestare o por los consejos y asistencia que le diere; pero si uno de los consortes por ausencia, enfermedad o impedimento del otro se encargare temporalmente de la administración de sus bienes tendrá derecho a que se le retribuya por ese servicio en proporción a su importancia y al resultado que produjere.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 174.- Cuando el marido y la mujer ejercieren la patria potestad, se dividirán entre sí por partes iguales el producto de la mitad del usufructo que la ley les concede.
+ART. 173.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 175.- El marido responde a la mujer y ésta a aquél, de los daños y perjuicios que le cause su dolo, culpa o negligencia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 176.- Las sentencias que se pronunciaren en contra del marido no podrán hacerse efectivas en contra de la mujer; y de la misma manera las que se pronunciaren en contra de ésta no podrán afectar al marido.
+ART. 174.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 177.- La casa en que esté establecida la morada conyugal y los bienes muebles que les pertenezcan, sean propios de uno de los cónyuges o de ambos, no podrán ser enajenados si no es con el consentimiento expreso de los dos; tampoco podrán ser gravados esos bienes, ni embargados por los acreedores del marido o de la mujer o de ambos, siempre que dichos objetos no tengan en conjunto un valor mayor de dos mil salarios mínimos vigentes en el Estado.
+ART. 175.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Si el domicilio conyugal estuviere en el campo, el mismo y los objetos que le pertenezcan tampoco podrán ser enajenados sino con el consentimiento expreso de ambos consortes; y en ningún caso podrán ser hipotecados o de otra manera gravados juntamente con los terrenos que le corresponda, si no valen en conjunto más de dos mil salarios mínimos vigentes en el Estado.
+ART. 176.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-Cuando un matrimonio tuviere varias casas o propiedades en que residan en distintos períodos del año, deberá designar ante la autoridad municipal del lugar en que esté ubicada la residencia que quiera señalar, cuál es la que ha de gozar del privilegio que le concede esta disposición.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-En caso que no se hiciere esa manifestación, a todas ellas se aplicará lo prevenido en este artículo para los casos de enajenación, hipoteca y gravamen; y, en caso de embargo, se respetará solamente la que ocupare el matrimonio en el momento de la diligencia.
+ART. 177.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO IV. De las donaciones antenupciales
 
-ART. 178.- Se llaman antenupciales las donaciones que antes del matrimonio hace un esposo al otro, cualquiera que sea el nombre que la costumbre les haya dado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 179.- Son también donaciones antenupciales las que un extraño hace a alguno de los esposos o a ambos, en consideración al matrimonio.
+ART. 178.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 180.- Las donaciones antenupciales entre esposos aunque fueren varias, no podrán exceder reunidas de la sexta parte de los bienes del donante. En el exceso la donación será inoficiosa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 181.- Las donaciones antenupciales hechas por un extraño, serán inoficiosas en los términos en que lo fueren las comunes.
+ART. 179.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 182.- Para calcular si es inoficiosa una donación antenupcial, tienen el esposo donatario y sus herederos la facultad de elegir la época en que se hizo la donación o la del fallecimiento del donador.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 183.- Si al hacerse la donación no se formó inventario de los bienes del donador, no podrá elegirse la época en que aquélla se otorgó.
+ART. 180.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 184.- Las donaciones antenupciales no necesitan para su validez de aceptación expresa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 185.- Las donaciones antenupciales no se revocan por sobrevenir hijos al donante.
+ART. 181.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 186.- Tampoco se revocarán por ingratitud, a no ser que el donante fuere un extraño, que la donación haya sido hecha a ambos esposos y que los dos sean ingratos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 187.- Las donaciones antenupciales son revocables y se entienden revocadas por el adulterio o el abandono injustificado del domicilio conyugal, por parte del donatario, cuando el donante fuere el otro cónyuge.
+ART. 182.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 188.- Los menores pueden hacer donaciones antenupciales, pero sólo con intervención de sus padres o tutores, o con aprobación judicial.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 189.- Las donaciones antenupciales quedarán sin efecto si el matrimonio dejare de efectuarse.
+ART. 183.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 190.- Son aplicables a las donaciones antenupciales las reglas de las donaciones comunes, en todo lo que no fueren contrarias a este capítulo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 184.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 185.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 186.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 187.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+ART. 188.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 189.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 190.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO V. De las Donaciones entre Consortes
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 191.- Los consortes pueden hacerse donaciones, con tal de que no sean contrarias a las capitulaciones matrimoniales, ni perjudiquen el derecho de los acreedores alimentarios.
+ART. 191.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 192.- Las donaciones entre consortes pueden ser revocadas por los donantes, mientras subsista el matrimonio, cuando exista causa justificada para ello, a juicio del juez.
+ART. 192.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 193.- Estas donaciones no se anularán por la superveniencia de hijos, pero se reducirán cuando sean inoficiosas en los mismos términos que las comunes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 193.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS CAPITULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO VI. De los Matrimonios Nulos e Ilícitos
 
-ART. 194.- Son causas de nulidad de un matrimonio:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- El error acerca de la persona con quien se contrae, cuando entendiendo un cónyuge celebrar matrimonio con persona determinada, lo contrae con otra;
+ART. 194.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- Que el matrimonio se haya celebrado concurriendo alguno de los impedimentos enumerados en el artículo 140;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 89, 90, 91, 93 y 94.
+ART. 195.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 195.- La acción de nulidad que nace de error, sólo puede deducirse por el cónyuge engañado, pero si éste no denuncia el error dentro del término de dos meses a partir de la fecha en que lo advierte, se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista alguna otra causa que lo anule.
+ART. 196.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 196.- La minoría de edad dejará de ser causa de nulidad:
+ART. 197.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Cuando haya habido hijos.
+ART. 198.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los 18 años, y ni él ni el otro cónyuge hubieran intentado la nulidad.
+ART. 199.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 197.- La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquél o aquellos a quienes tocaba prestar dicho consentimiento, y dentro de 30 días contados desde que tengan conocimiento del matrimonio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 198.- Cesa esta causa de nulidad:
+ART. 200.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-I.- Si han pasado los treinta días sin que se haya pedido;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- Si dentro de este término, el ascendiente ha consentido expresamente en el matrimonio, o tácitamente, haciendo donación a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la prole como legítima al registro civil, o practicando otros actos que a juicio del juez sean tan conducentes al efecto, como los expresados.
+ART. 201.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 199.- La nulidad por falta de consentimiento del tutor o del juez, podrá pedirse dentro del término de treinta días por cualquiera de los cónyuges, o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella se obtiene la ratificación del tutor o la autorización judicial confirmando el matrimonio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 200.- El parentezco (sic) de consanguinidad no dispensado anula el matrimonio; pero si después se obtuviere dispensa y ambos cónyuges, reconocida la nulidad, quisieran espontáneamente reiterar su consentimiento por medio de una acta ante el oficial del registro civil, quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que primeramente se contrajo.
+ART. 202.- (DEROGADO [N. DE E. REPUBLICADO], P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 201.- La acción que nace de esta clase de nulidad y la que dimana del parentezco (sic) de afinidad en línea recta, pueden ejercitarse por cualquiera de los cónyuges, por sus ascendientes y por el Ministerio Público.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 202.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
+ART. 203.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 203.- La acción de nulidad proveniente de la privación de la vida de alguno de los cónyuges para casarse con el que queda libre, puede ser deducido por los hijos del cónyuge víctima del atentado o por el Ministerio Público dentro del término de seis meses, contados desde que se celebró el nuevo matrimonio.
+ART. 204.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 204.- El miedo y la violencia serán causa de nulidad del matrimonio si concurren las circunstancias siguientes:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Que uno y otra importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
+ART. 205.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- Que el miedo haya sido causado o la violencia hecha al cónyuge o a la persona o personas que le tienen bajo su patria potestad o tutela al celebrarse el matrimonio;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- Que uno u otro hayan subsistido al tiempo de celebrarse el matrimonio.
+ART. 206.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-La acción que nace de esta causa de nulidad sólo puede deducirse por el cónyuge agraviado, dentro de sesenta días desde la fecha en que cesó la violencia o intimidación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 205.- La nulidad que se funde en alguna de las causas expresadas en la fracción VIII del artículo 140, sólo puede ser pedida por los cónyuges, dentro del término de sesenta días contados desde que se celebró el matrimonio.
+ART. 207.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 206.- Tiene derecho a pedir la nulidad a que se refiere la fracción VIII del artículo 140, el otro cónyuge o el tutor del incapacitado, dentro del término de sesenta días siguientes a la celebración del matrimonio.
+ART. 208.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 207.- El vínculo de un matrimonio anterior, existente al tiempo de contraerse, anula éste aunque se contraiga de buena fe, creyéndose fundadamente que el consorte anterior había muerto. La acción que nace de esta causa de nulidad puede deducirse por el cónyuge del primer matrimonio, por sus hijos o herederos y por los cónyuges que contrajeron el segundo. No deduciéndola ninguna de las personas mencionadas, la deducirá el Ministerio Público.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 208.- La nulidad que se funde en la falta de formalidades esenciales para la validez del matrimonio, puede alegarse por los cónyuges y por cualquiera que tenga interés en probar que no hay matrimonio. También podrá declararse esta nulidad a instancia del Ministerio Público.
+ART. 209.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 209.- No se admitirá demanda de nulidad por falta de solemnidad en el acta de matrimonio celebrado ante el oficial del registro civil, cuando a la existencia del acta se una la posesión de estado matrimonial.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 210.- El derecho para demandar la nulidad del matrimonio corresponde a quienes la ley lo concede expresamente, y no es transmisible por herencia ni de cualquiera otra manera. Sin embargo, los herederos podrán continuar la demanda de nulidad entablada por aquél a quien heredan.
+ART. 210.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 211.- Ejecutoriada la sentencia que declare la nulidad, el Tribunal de oficio, enviará copia certificada de ella al Oficial del Registro Civil ante quien se celebró el matrimonio para que al margen del acta ponga nota circunstanciada en que conste: la parte relativa de la sentencia; su fecha, el tribunal que la pronunció y el número con que se marco la copia, la cual será depositada en el archivo.
+ART. 211.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 212.- El matrimonio tiene a su favor la presunción de ser válido; sólo se considerará nulo cuando así lo declare una sentencia que cause ejecutoria.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 213.- Los cónyuges no pueden celebrar transacción ni compromiso en árbitros, acerca de la nulidad del matrimonio.
+ART. 212.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 214.- El matrimonio contraído de buena fe, aunque sea declarado nulo, produce todos sus efectos civiles en favor de los cónyuges mientras dure; y en todo tiempo, en favor de los hijos nacidos antes de la celebración del matrimonio, durante él y trescientos días después de la declaración de nulidad, si no se hubieren separado los consortes, o desde su separación en caso contrario.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 215.- Si ha habido buena fe de parte de uno solo de los cónyuges, el matrimonio produce efectos civiles únicamente respecto de él y de los hijos.
+ART. 213.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-Si ha habido mala fe de parte de ambos consortes, el matrimonio produce efectos civiles solamente respecto de los hijos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 216.- La buena fe se presume; para destruir esta presunción se requiere prueba plena.
+ART. 214.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 217.- Si la demanda de nulidad fuere entablada por uno solo de los cónyuges, desde luego se dictarán las medidas provisionales que establece el artículo 243.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+ART. 215.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 218.- Luego que la sentencia sobre nulidad cause ejecutoria, el padre y la madre propondrán la forma y términos del cuidado y custodia de los hijos. En el caso de que no exista este acuerdo, el Juez con la intervención del Ministerio Público tomando en cuenta el beneficio de los menores, resolverá lo conducente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 216.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 219.- En todo tiempo podrá modificarse la determinación a que se refiere el artículo anterior, atento a las nuevas circunstancias y a lo dispuesto en los artículos 382, 383 y 394 fracción II de esta ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 220.- Declarada la nulidad del matrimonio se procederá a la división de los bienes comunes, si los hubiere. Los productos repartibles, si los dos cónyuges hubieren procedido de buena fe, se dividirá entre ellos en la forma convenida en las capitulaciones matrimoniales; si sólo hubiere habido buena fe por parte de uno de los cónyuges, a éste se aplicarán íntegramente esos productos. Si ha habido mala fe de parte de ambos cónyuges, los productos se aplicarán a favor de los hijos.
+ART. 217.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 221.- Declarada la nulidad del matrimonio, se observará respecto de las donaciones antenupciales las reglas siguientes:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Las hechas por un tercero a los cónyuges, podrán ser revocadas;
+ART. 218.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- Las que hizo el cónyuge inocente al culpable quedarán sin efecto y las cosas que fueron objeto de ellas se devolverán al donante con todos sus productos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- Las hechas al inocente por el cónyuge que obró de mala fe quedarán subsistentes;
+ART. 219.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-IV.- Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan hecho quedarán en favor de sus hijos. Si no los tienen, no podrán hacer los donantes reclamación alguna con motivo de la liberalidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 222.- Si al declararse la nulidad del matrimonio la mujer estuviere en cinta, se tomarán las precauciones a que se refiere el Capítulo I del Título Quinto del Libro Tercero.
+ART. 220.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 223.- Es ilícito pero no nulo el matrimonio:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Cuando se ha contraído pendiente la decisión de un impedimento que sea susceptible de dispensa;
+ART. 221.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- Cuando no se ha otorgado la previa dispensa que requiera el artículo 143, y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 142 y 250.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 222.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 224.- Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las penas o sanciones que señale la ley de la materia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 223.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 224.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO VII. Del Divorcio
 
-ART. 225.- El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 226.- Son causas de divorcio:
+ART. 225.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Tener alguno de los cónyuges relaciones sexuales fuera del matrimonio;
-
-II.- El hecho de que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de celebrarse este contrato, y que judicialmente sea declarado ilegítimo;
-
-III.- La propuesta del marido para prostituir a su mujer, no sólo cuando el mismo marido la haya hecho directamente, sino cuando se pruebe que ha recibido dinero o cualquiera remuneración con el objeto expreso de permitir que otro tenga relaciones carnales con su mujer;
-
-IV.- La incitación a la violencia hecha por un cónyuge al otro para cometer algún delito, aunque no sea de incontinencia carnal;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-V.- Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, ya sean éstos de ambos o de uno solo de ellos, así como la tolerancia en su corrupción;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-VI.- Padecer alguna enfermedad crónica incurable que sea además infecto contagiosa;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-VII.- Padecer enajenación mental incurable; previa declaración de estado de interdicción;
-
-VIII.- La separación de la casa conyugal por más de seis meses sin causa justificada;
-
-IX.- La separación del hogar conyugal originada por una causa que sea bastante para pedir el divorcio, si se prolonga por más de un año sin que el cónyuge que se separó entable la demanda de divorcio;
-
-X.- La declaración de ausencia legalmente hecha, o la de presunción de muerte, en los casos de excepción en que no se necesita para que se haga ésta que proceda la declaración de ausencia;
-
-XI.- La sevicia, las amenazas o las injurias graves de un cónyuge para el otro;
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
-
-XII.- La negativa injustificada de los cónyuges a cumplir las obligaciones señaladas en los Artículos 149 y 152;
-
-XIII.- La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
-
-XIV.- Haber cometido uno de los cónyuges un delito que no sea político, pero que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años;
-
-XV.- Los hábitos de juego o de embriaguez o el uso indebido y persistente de drogas enervantes, cuando amenacen causar la ruina de la familia, o constituyan un contínuo motivo de desaveniencia conyugal;
-
-XVI.- (REFORMADA [N. DE E. DEROGADA], P.O. 3 DE OCTUBRE DE 2000)
-
-XVII.- El mutuo consentimiento;
-
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 1990)</small>
-
-XVIII.- La separación de los cónyuges por más de dos años independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualquiera de ellos;
-
-> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1998)</small>
-
-XIX.- Las conductas de violencia familiar cometidas por uno de los cónyuges contra el otro o hacia los hijos de ambos o de alguno de ellos.
-
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2007)</small>
-
-Para los efectos de esta fracción se entiende por violencia familiar lo dispuesto por el artículo 284.5 de este Código;
-
-> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1998)</small>
-
-XX.- El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a corregir los actos de violencia familiar hacia el otro cónyuge o los hijos, por el cónyuge obligado a ello;
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-XXI.- El uso de métodos de fecundación artificial o asistida sin el consentimiento del esposo, y
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-XXII.- El uso de métodos de esterilización permanente sin el consentimiento del cónyuge.
+ART. 226.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ART. 227.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
-ART. 228.- Cualquiera de los esposos puede pedir el divorcio por el adulterio de su cónyuge. Esta acción dura seis meses, contados desde que se tuvo conocimiento del adulterio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 228.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ART. 229.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
 ART. 230.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
-ART. 231.- Cuando ambos consortes convengan en divorciarse, no podrán verificarlo sino ocurriendo por escrito al juez y en los términos que expresan los artículos siguientes; en caso contrario, aunque vivan separados se tendrán por unidos para todos los efectos legales del matrimonio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 232.- Los cónyuges que se encuentren en el caso del artículo anterior, están obligados a presentar al juzgado un convenio en que se fijen los siguientes puntos:
+ART. 231.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-I.- Designación de la persona a quien sean confiados los hijos del matrimonio, tanto durante el procedimiento como después de ejecutoriado el divorcio;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
+ART. 232.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento;
+ART. 233.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-IV.- La cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento, la forma de hacer el pago y la garantía que debe darse para asegurarlo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-V.- Si hubiere sociedad conyugal, la manera de administrar los bienes de esta sociedad durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. A ese efecto se acompañarán un inventario y avalúo de todos los bienes muebles o inmuebles de la sociedad.
+ART. 234.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 233.- El divorcio por mutuo consentimiento no puede pedirse si no pasado un año de celebración del matrimonio. Presentada la solicitud, el Juez de Primera Instancia del domicilio de los cónyuges, remitirá el extracto de ella al Oficial del Registro Civil del mismo lugar, para que esta la haga publicar en la tabla de avisos, y citará a los solicitantes a una junta, en la cual procurará restablecer entre ellos la concordia y cerciorarse de la completa libertad de ambos para divorciarse. Si no lograre avenirlos, se celebrará todavía con el mismo objeto, una junta más, que el Juez citará a petición de ambos cónyuges. Esta petición no podrá hacerse sino después de transcurrido un mes desde la última junta celebrada.
+ART. 234 BIS.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 234.- Si celebradas las dos juntas mencionadas, los cónyuges se mantuvieren firmes en el propósito de divorciarse. El Juez aprobará el arreglo con las modificaciones que crea oportunas, oyendo al efecto al Ministerio Público y cuidando de que no se violen los derechos de los hijos o de terceras personas.
+ART. 235.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 234 BIS.- Cuando ambos cónyuges acuerden divorciarse, sean mayores de edad, no tengan hijos, la mujer no se encuentre encinta y estén sujetos al régimen de separación de bienes o de existir la sociedad conyugal, ésta se encuentre liquidada o no existan bienes pertenecientes a la misma, presentarán su solicitud de divorcio por mutuo consentimiento ante el Juez competente del lugar de su residencia, justificando legalmente que reúnen los requisitos que anteceden.
+ART. 236.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-El Juez los citará dentro del término de quince días para que ratifiquen de una manera terminante y explícita su voluntad de divorciarse. Ratificada la solicitud, sin más trámite se citará a las partes para oír sentencia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Para la procedencia del divorcio a que se refiere este artículo será requisito indispensable que los solicitantes tengan su domicilio familiar actual dentro del territorio del Estado de San Luis Potosí, y haberlo tenido durante el año anterior a su solicitud.
+ART. 237.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-El divorcio no surtirá efectos legales si se comprueba que los cónyuges incumplieron con alguno de los requisitos señalados en los párrafos precedentes, y en tal caso serán sujetos de las penas que al efecto establezca el Código Penal del Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 235.- Mientras que se decreta el divorcio, el juez autorizará la separación de los cónyuges de una manera provisional, y dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes haya obligación de dar alimentos.
+ART. 238.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 236.- Si en el procedimiento de divorcio por mutuo consentimiento, dejasen de asistir los cónyuges sin causa justificada a cualquiera de las juntas a que se refiere el artículo 233 de este Código y no se efectúa ningún acto procesal durante el mes siguiente contado a partir de la fecha fijada para la celebración de ésta, operará la caducidad de la instancia y se acordará remitir el expediente al archivo como asunto concluido.
+ART. 239.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 237.- Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 238.- El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VII del artículo 226, podrá sin embargo solicitar, que se suspenda su obligación de cohabitar con el otro cónyuge, y el juez, con conocimiento de causa podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
+ART. 240.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 239.- El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él, y dentro de los seis meses siguientes al día en que hayan llegado a su noticia los hechos en que se funde la demanda.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 240.- Ninguna de las causas enumeradas en el artículo 226 pueden alegarse para pedir el divorcio cuando haya mediado perdón expreso o tácito.
-
-ART. 241.- La reconciliación de los cónyuges pone término al juicio de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoria. En este caso los interesados deberán denunciar su reconciliación al juez, sin que la omisión de esta denuncia destruya los efectos producidos por la reconciliación.
+ART. 241.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ART. 242.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
-ART. 243.- Al admitirse la demanda de divorcio, o antes, si hubiere urgencia, se dictarán provisionalmente y sólo mientras dure el juicio, las disposiciones siguientes:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Separar a los cónyuges en todo caso;
+ART. 243.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- Proceder a la separación de los cónyuges de conformidad con lo dispuesto para tal efecto en el Código de Procedimientos Civiles;
+ART. 244.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-III.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
+ART. 245.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-IV.- Dictar las medidas que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en lo de la sociedad conyugal, en su caso;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-V.- Dictar en su caso, las medidas precautorias que la Ley establece respecto a la mujer que quede encinta;
+ART. 246.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1998)</small>
+ART. 247.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-VII.- La prohibición de ir a un domicilio o lugar determinado para alguno de los cónyuges, así como las medidas necesarias para evitar actos de violencia familiar.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
+ART. 248.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 244.- La sentencia de divorcio fijará en definitiva la situación de los hijos, para lo cual el juez deberá resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, y en especial a la custodia y al cuidado de los mismos. De oficio o a petición de parte interesada, durante todo el procedimiento se allegará los elementos necesarios para ello, debiendo escuchar a ambos progenitores y a los menores, para evitar conductas de violencia familiar o cualquier otra circunstancia que amerite la necesidad de la medida, considerando el interés superior de éstos últimos. En todo caso protegerá y hará respetar el derecho de convivencia con los padres, salvo que exista peligro para el menor.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-La protección para los menores incluirá las medidas de seguridad, seguimiento y terapia necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas en los términos previstos por el artículo 90 del Código de Procedimientos Civiles del Estado.
+ART. 249.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 245.- Antes de que se provea sobre derechos y obligaciones inherentes a la patria potestad o tutela de los hijos, el Juez podrá acordar, a petición de los abuelos, tíos o hermanos mayores, cualquier medida que se considere benéfica para los menores. El Juez podrá modificar esa decisión atento a lo dispuesto en los artículos 382, 283 (sic) y 394 fracción III de esta ley.
+ART. 250.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 246.- El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 247.- El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+ART. 250 BIS.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 248.- Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos, de acuerdo con lo dispuesto y en los términos del Artículo 149, subsistiendo esta obligación para estos últimos hasta que lleguen a la mayoría de edad.
+ART. 251.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 249.- En los casos de divorcio el cónyuge inocente tendrá derecho a los alimentos mientras no contraiga nuevas nupcias y viva honestamente. Sólo gozará de este derecho cuando no cuente con recursos, ni bienes propios para subsistir o esté imposibilitado para trabajar.
+ART. 252.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-El cónyuge demandado tendrá derecho a los alimentos, en el caso de la causal a que se refiere la fracción VII del artículo 226 de este Código.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 250.- El cónyuge que haya dado causa al divorcio no podrá volver a casarse sino después de un año, a contar desde que se decretó el divorcio.
-
-El cónyuge que haya dado causa al divorcio, no podrá volver a casarse, sino después de dos años, a contar desde que se decretó el divorcio.
-
-Para que los cónyuges que se divorcian voluntariamente puedan volver a contraer matrimonio, es indispensable que haya transcurrido un año desde que obtuvieron el divorcio.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 250 BIS.- En la demanda de divorcio, la parte actora podrá demandar del otro cónyuge una indemnización de hasta el treinta por ciento del valor de los bienes que hubiere adquirido durante el matrimonio, siempre que:
-
-I.- Hubieran estado casados bajo el régimen de separación de bienes;
-
-II.- El demandante se haya dedicado en el lapso que duró el matrimonio, preponderantemente, al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos, y
-
-III.- Durante el matrimonio el demandante no haya adquirido bienes propios o habiéndolos adquirido, sean notoriamente menores a los de la contraparte.
-
-El juez, al dictar la sentencia de divorcio, resolverá sobre tal indemnización, atendiendo a las circunstancias especiales de cada caso.
-
-ART. 251.- La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos del muerto tienen los mismos derechos y obligaciones que tendrían si no hubiere existido el juicio.
-
-ART. 252.- Ejecutoriada una sentencia de divorcio, el juez de primera instancia remitirá copia de ella al oficial del registro civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además, para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO VIII. Del concubinato
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 252.1.- El concubinato es la unión de hecho de un sólo hombre y una sola mujer, libres de impedimentos de parentesco y ligamen matrimonial, con el propósito tácito de integrar una familia a través de la cohabitación doméstica y sexual, el respeto y protección recíprocos, así como la eventual perpetuación de la especie.
+ART. 252.1.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-Si una misma persona establece varias uniones del tipo antes descrito, en ninguna se reputará concubinato.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 252.2.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 252.2.- Para que exista jurídicamente el concubinato, es necesario que la manifestación de voluntad se prolongue de manera pública y permanente:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Durante cinco años ininterrumpidos;
+ART. 252.3.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- Durante dos años si la unión se produjo por medio de rito indígena o religioso de carácter público; o
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- Desde el nacimiento del primer hijo, si esto ocurre antes de los plazos anteriores, siempre y cuando la cohabitación se hubiere dado al menos por un año.
+ART. 252.4.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 252.3.- Se presumen hijos de los concubinos:
+ART. 252.5.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-I.- Los nacidos después de iniciada la unión libre, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- Los nacidos dentro de los trescientos días de terminado el concubinato.
+ART. 252.6.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-Los hijos nacidos de concubinato tendrán los mismos derechos y obligaciones como si lo fueran de matrimonio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 252.7.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 252.4.- No estará obligado a contribuir económicamente el concubino que se encuentre imposibilitado para trabajar y careciere de bienes propios, ni tampoco el que por convenio expreso o tácito se ocupe íntegramente del cuidado del hogar o de la atención de los hijos menores, ya que en este caso el otro concubino responderá del sostenimiento del hogar.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.5.- Si el concubinato se prolonga hasta la muerte de uno de sus miembros, el concubino supérstite tendrá derecho a heredar en la misma proporción y condiciones de un cónyuge.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.6.- Las funciones paterno-filiares son iguales en el concubinato y en el matrimonio. Los concubinos arreglarán de común acuerdo todo lo relativo a educación y atención de los hijos.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.7.- La concubina no tiene derecho a llevar el apellido del concubinario, ni durante la unión ni después de muerto éste.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO IX. De la disolución del concubinato
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 252.8.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 252.8.- El concubinato se termina por las siguientes causas:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Por acuerdo mutuo entre las partes;
+ART. 252.9.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- Por abandono del domicilio común, por parte de uno de los concubinos, si la separación es injustificada y se prolonga por más de seis meses sin ánimo de reconciliación. Durante éste plazo, el concubinato sigue produciendo sus efectos, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- Por muerte de alguno de los concubinos.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.9.- La disolución del concubinato faculta a los concubinos a reclamarse mutuamente alimentos.
-
-Atendiendo a las circunstancias del caso, el Juez competente tendrá facultades para fijar el tiempo en que deban otorgarse y el monto de los mismos, considerando que la concubina o concubinario, no tengan bienes o no estén en aptitud de trabajar. Esta acción deberá ejercerse dentro de los seis meses siguientes a la ruptura del concubinato.
-
-En los casos de disolución del concubinato, el concubino inocente tendrá derecho a alimentos, mientras no contraiga matrimonio o establezca una nueva relación concubinaria y viva honestamente. Solo gozará de este derecho cuando no cuente con recursos, esté imposibilitado para trabajar o no tenga bienes propios para subsistir.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ## TITULO SEXTO. Del parentesco, de los alimentos y de la familia
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
 ### CAPITULO I. Del Parentesco
 
-ART. 253.- La ley no reconoce más parentescos que los de consanguinidad, afinidad y el civil.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 254.- El parentesco de consanguinidad es el que existe entre personas que descienden de un mismo progenitor.
+ART. 253.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 255.- El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes de la mujer, y entre la mujer y los parientes del varón.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
+ART. 254.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 256.- El parentesco civil es el que nace de la adopción y sólo existe entre el adoptante y el adoptado. En la adopción plena, el parentesco existirá además con los ascendientes del adoptante y descendientes colaterales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 257.- Cada generación forma un grado, y la serie de grados constituye lo que se llama línea de parentesco.
+ART. 255.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 258.- La línea es recta y transversal: la recta se compone de la serie de grados entre las personas que descienden unas de otras; la transversal se compone de la serie de grados entre personas que sin descender unas de otras, proceden de un progenitor o tronco común.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 259.- Línea recta es ascendente o descendente: ascendente es la que liga a una persona con su progenitor o tronco de que procede; descendente es la que liga al progenitor con los que de él proceden. La misma línea es, pues, ascendente o descendente, según el punto de partida y la relación a que se atiende.
+ART. 256.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 260.- En la línea recta los grados se cuentan por el número de generaciones, o por el de las personas, excluyendo al progenitor.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 261.- En la línea transversal los grados se cuentan por el número de generaciones, subiendo por una de las líneas y descendiendo por la otra; o por el número de personas que hay de uno a otro de los extremos que se consideran, excluyendo la del progenitor o tronco común.
+ART. 257.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 258.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 259.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 260.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 261.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO II. De los Alimentos
 
-ART. 262.- La obligación de dar alimentos es recíproca. El que los da tiene a su vez el derecho de pedirlos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 263.- Los cónyuges deben darse alimentos. La Ley determinará cuando quede subsistente esta obligación en los casos de divorcio y otros que la misma Ley señala.
+ART. 262.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 264.- Los padres están obligados a dar alimentos a sus hijos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 265.- Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos, lo están los descendientes más próximos en grado.
+ART. 263.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 266.- A falta o por imposibilidad de los ascendientes o descendientes, la obligación recae en los hermanos de padre y madre; en defecto de éstos, en los que fueren de madre solamente, y en defecto de ellos, en los que fueren sólo de padre.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Faltando los parientes a que se refieren las disposiciones anteriores, tienen obligación de ministrar alimentos los parientes colaterales dentro del cuarto grado.
+ART. 264.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 267.- Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores, mientras éstos llegan a la edad de dieciocho años. También deben alimentar a sus parientes dentro del grado mencionado, que fueren incapaces.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 268.- El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen el padre y los hijos.
+ART. 265.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 269.- Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en caso de enfermedad. Respecto de los menores los alimentos comprenden, además, los gastos necesarios para la educación primaria del alimentista, y para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 270.- El obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al juez, según las circunstancias, fijar la manera de ministrar los alimentos.
+ART. 266.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 271.- El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 272.- Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos.
+ART. 267.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 273.- Si fueren varios los que deben dar los alimentos y todos tuvieren posibilidad para hacerlo, el juez repartirá el importe entre ellos, en proporción a sus haberes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 274.- Si sólo algunos tuvieren posibilidad, entre ellos se repartirá el importe de los alimentos; y si uno solo la tuviere, él cumplirá únicamente la obligación.
+ART. 268.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 275.- La obligación de dar alimentos no comprende la de proveer de capital a los hijos para ejercer el oficio, arte o profesión a que se hubieren dedicado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 276.- Tienen acción para pedir aseguramiento de los alimentos:
+ART. 269.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-I.- El acreedor alimentario;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- El ascendiente que le tenga bajo su patria potestad;
+ART. 270.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-III.- El tutor;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IV.- Los hermanos, y demás parientes colaterales dentro del cuarto grado;
+ART. 271.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-V.- El Ministerio Público.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 277.- Si las personas a que se refieren las fracciones II, III y IV del artículo anterior no pueden representar al acreedor alimentario en el juicio en que se pida el aseguramiento de alimentos, se nombrará por el juez un tutor interino.
+ART. 272.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 278.- El aseguramiento podrá consistir en hipoteca, prenda, fianza o depósito de cantidad bastante a cubrir los alimentos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 279.- El tutor interino dará garantía por el importe anual de los alimentos. Si administrare algún fondo destinado a ese objeto, por él dará la garantía legal.
+ART. 273.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 280.- En los casos en que los que ejerzan la patria potestad gocen de la mitad del usufructo de los bienes del hijo, el importe de los alimentos se deducirá de dicha mitad, y si ésta no alcanza a cubrirlos, el exceso será de cuenta de los que ejerzan la patria potestad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 281.- Cesa la obligación de dar alimentos:
+ART. 274.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-I.- Cuando el que la tiene carece de medios para cumplirla;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- Cuando el alimentista deja de necesitar los alimentos;
+ART. 275.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-III.- En caso de injuria, falta o daño graves inferidos por el alimentista contra el que debe prestarlos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IV.- Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del alimentista, mientras subsistan estas causas;
+ART. 276.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-V.- Si el alimentista, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificadas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 282.- El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transacción.
+ART. 277.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 283.- Cuando el deudor alimentario no estuviere presente o estándolo rehusare entregar lo necesario para los alimentos de los miembros de su familia con derecho a recibirlos, se hará responsable de las deudas que éstos contraigan para cubrir esa exigencia, pero sólo en la cuantía estrictamente necesaria para ese objeto y siempre que no se trate de gastos de lujo.
+ART. 278.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 284.- El cónyuge que se haya amparado del otro, sigue obligado a cumplir con los gastos a que se refiere el Artículo 149. En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir al Juez de Primera Instancia del lugar de su residencia, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo hasta antes de la separación, y que satisfaga los adeudos contraídos en los términos del Artículo anterior. Si dicha proporción no se pudiera determinar, el Juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que ha dejado de cubrir desde que se separó.
+ART. 279.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 280.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 281.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 282.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 283.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 284.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO III. De la familia
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 284 BIS.- La familia es un grupo social, permanente, compuesto por un conjunto de personas unidas por el vínculo del matrimonio o concubinato, por los parentescos de consanguinidad, de afinidad o civil, que proporciona a sus miembros satisfacción de necesidades, estabilidad y formación.
+ART. 284 BIS.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 284.1.- El Estado promoverá el vínculo del matrimonio como medio para la organización y desarrollo social de la familia.
+ART. 284.1.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 284.2.- Los miembros de la familia tienen derecho a desarrollarse y ser educados dentro de su propio ámbito familiar, bajo la custodia y cuidado de sus padres y a falta de ellos por sus ascendientes o demás parientes por consanguinidad o afinidad hasta el cuarto grado, y en su defecto por padres adoptivos.
+ART. 284.2.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 284.3.- Los integrantes de la familia tienen derecho a que los demás miembros respeten su integridad física y psíquica, de manera que no se afecten su sano desarrollo individual y su plena incorporación al núcleo social. Al efecto, contará con la asistencia y protección de las instituciones públicas y privadas en la forma y términos que prevengan las leyes aplicables.
+ART. 284.3.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 284.4.- Es obligación de los progenitores e integrantes de la familia promover la cultura del respeto y atención hacia todos los miembros de la misma, principalmente a los niños y niñas, mujeres, incapacitados y adultos mayores; proporcionándole siempre los cuidados que requieran y procurar la unidad de la familia.
+ART. 284.4.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 284.5.- Los miembros de la familia están obligados a evitar conductas que generen violencia familiar.
+ART. 284.5.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Por violencia familiar se consideran los actos abusivos de poder u omisión intencionales, dirigidos a dominar, someter, controlar, o maltratar de manera física, verbal, psicológica, patrimonial, económica y sexual, independientemente de que se produzcan o no lesiones; cometidos por una persona en contra de su cónyuge, concubina o concubinario, o con quien haya mantenido o mantenga una relación de hecho; pariente consanguíneo en línea recta ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado o adoptante, ejercidos dentro o fuera del domicilio familiar.
+ART. 284.6.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2007)</small>
+ART. 284 TER.- (DEROGADO, P.O.18 DE DICIEMBRE DE 2008)
 
-En todas las sentencias que se dicten con motivo de violencia familiar, se ordenará a las partes se sometan a tratamientos reeducativos integrales, especializados y gratuitos, en las instituciones el Estado competentes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 284.6.- Los conflictos familiares se atenderán y resolverán, considerando preferentemente el interés superior de los menores, incapacitados cualquiera que sea su edad y de los adultos mayores procurando mantener la armonía de la familia.
-
-ART. 284 TER.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ## TITULO SEPTIMO. De la Paternidad y Filiación
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
 ### CAPITULO I. De los Hijos de Matrimonio
 
-ART. 285.- Se presumen hijos de los cónyuges:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Los nacidos después de ciento ochenta días contados desde la celebración del matrimonio;
+ART. 285.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga ésta de nulidad o de divorcio. Este término se contará en los casos de divorcio o nulidad desde que de hecho quedaron separados los cónyuges por orden judicial.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 286.- Contra esta presunción no se admite otra prueba que la de haber sido físicamente imposible al marido tener acceso carnal con su mujer en los primeros ciento veinte días de los trescientos que han precedido al nacimiento.
+ART. 286.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 287.- El marido no podrá desconocer a los hijos alegando adulterio de la madre aunque ésta declare que no son hijos de su esposo, a no ser que el nacimiento se le haya ocultado, o que demuestre que durante los diez meses que precedieron al nacimiento no tuvo acceso carnal con su esposa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 288.- El marido podrá desconocer al hijo nacido después de trescientos días contados desde que, judicialmente y de hecho tuvo lugar la separación provisional, prescrita para los casos de divorcio y nulidad; pero la mujer, el hijo o el tutor de éste pueden sostener en tales casos que el marido es el padre.
+ART. 287.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 289.- El marido no podrá desconocer que es padre del hijo nacido dentro de los ciento ochenta días siguientes a la celebración del matrimonio:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Si se probare que supo antes de casarse el embarazo de su futura consorte; para ésto se requiere un principio de prueba escrito;
+ART. 288.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- Si concurrió al levantamiento del acta de nacimiento y si ésta fue firmada por él o contiene su declaración de no saber firmar;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- Si ha reconocido expresamente por suyo al hijo de su mujer;
+ART. 289.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-IV.- Si el hijo no nació capaz de vivir.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 290.- En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su acción dentro de sesenta días contados desde el nacimiento, si estaba presente; desde el día que llegó al lugar, si estuvo ausente; o desde el día en que descubrió el fraude, si se le ocultó el nacimiento.
+ART. 290.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 291.- Si el marido está bajo tutela por causa de demencia, imbecilidad u otro motivo que lo prive de inteligencia, este derecho puede ser ejercitado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 292.- Cuando el marido, teniendo o no tutor, ha muerto sin recobrar la razón, los herederos pueden contradecir la paternidad en los casos en que podría hacerlo el padre
+ART. 291.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 293.- Los herederos del marido, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de un hijo nacido dentro de los ciento ochenta días después de la celebración del matrimonio, cuando el esposo no haya comenzado esta demanda. En los demás casos, si el esposo ha muerto sin hacer la reclamación dentro del término hábil, los herederos tendrán, para promover la demanda, sesenta días contados desde aquél en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 294.- Si la viuda, la divorciada o aquélla cuyo matrimonio fuere declarado nulo, contrajeran nuevas nupcias dentro del período prohibido por el artículo 142, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
+ART. 292.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-I.- Se presume que el hijo es del primer matrimonio si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio y antes de ciento ochenta días de la celebración del segundo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- Se supone que el hijo es del segundo marido, si nace después de ciento ochenta días de la celebración del segundo matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primer matrimonio.
+ART. 293.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar plenamente la imposibilidad física de que el hijo sea del marido a quien se atribuye;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- El hijo se presume nacido fuera de matrimonio si nace antes de ciento ochenta días de la celebración del segundo matrimonio y después de trescientos días de la disolución del primero.
+ART. 294.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 295.- El desconocimiento de un hijo, de parte del marido o de sus herederos, se hará por demanda en forma ante el juez competente. Todo acto de desconocimiento practicado de otra manera es nulo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 296.- En el juicio de contradicción de la paternidad serán oídos la madre y el hijo a quien, si fuere menor, se proveerá de un tutor interino.
+ART. 295.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 297.- Para los efectos legales sólo se reputa nacido el feto que, desprendido enteramente del seno materno, vive 24 horas o es presentado vivo al registro civil. Faltando alguna de estas circunstancias, nunca ni nadie podrá entablar demanda sobre la paternidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 298.- No puede haber sobre la filiación, ni transacción ni compromiso en árbitros.
+ART. 296.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 299.- Puede haber transacción y arbitramiento sobre los derechos pecuniarios que de la filiación legalmente adquirida pudieren deducirse, sin que las concesiones que se hagan al que se dice hijo importen la adquisición de estado de hijo de matrimonio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 297.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 298.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 299.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO II. De las Pruebas de Filiación de los Hijos Nacidos de Matrimonio
 
-ART. 300.- La filiación de los hijos nacidos de matrimonio se prueba con la partida de su nacimiento y con el acta de matrimonio de sus padres.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 301.- A falta de actas o si éstas fueren defectuosas, incompletas o falsas, se probará con la posesión constante de estado del hijo nacido de matrimonio. En defecto de esta posesión, son admisibles para demostrar la filiación todos los medios de prueba que la Ley autoriza, pero la testimonial no es admisible si no hubiere un principio de prueba por escrito o indicios o presunciones resultantes de hechos ciertos que se consideren bastante graves para determinar su admisión.
+ART. 300.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-Si uno sólo de los registros faltare o estuviere inutilizado y existe el duplicado, de éste deberá tomarse la prueba sin admitirla de otra clase.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 302.- Si hubiere hijos nacidos de dos personas que han vivido públicamente como marido y mujer y ambos hubieren fallecido, o por ausencia o enfermedad les fuere imposible manifestar el lugar en que se casaron, no podrá disputarse a esos hijos haber nacido de matrimonio por sólo la falta de presentación del acta del enlace de sus padres, siempre que se pruebe que tienen la posesión de estado de hijos de ellos, o que por los medios de prueba que autoriza el artículo anterior, se demuestre la filiación y no esté contradicha por el acta de nacimiento.
+ART. 301.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 303.- Si un individuo ha sido reconocido constantemente como hijo de matrimonio por la familia del marido y en la sociedad, quedará probada la posesión de estado de hijo de matrimonio, si además concurre alguna de las circunstancias siguientes:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Que el hijo haya usado constantemente el apellido del que pretende que es su padre, con anuencia de éste;
+ART. 302.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- Que el padre lo haya tratado como a hijo nacido de su matrimonio, proveyendo a su subsistencia, educación y establecimiento;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- Que el presunto padre tenga la edad exigida por el artículo 321.
+ART. 303.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 304.- Declarado nulo un matrimonio, haya habido buena o mala fe en los cónyuges al celebrarlo, los hijos tenidos durante él, se consideran como hijos de matrimonio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 305.- No basta el dicho de la madre para excluir de la paternidad al marido. Mientras que éste viva únicamente él podrá reclamar contra la filiación del hijo concebido durante el matrimonio.
+ART. 304.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 306.- Las acciones civiles que se intenten contra el hijo por los bienes que ha adquirido durante su estado de hijo nacido de matrimonio, aunque después resulte no serlo, se sujetarán a las reglas comunes para la prescripción.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 307.- La acción que compete al hijo para reclamar su estado, es imprescriptible para él y sus descendientes.
+ART. 305.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 308.- Los demás herederos del hijo podrán intentar la acción de que trate el artículo anterior:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Si el hijo ha muerto antes de cumplir veinticinco años;
+ART. 306.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- Si el hijo cayó en demencia antes de cumplir los veinticinco años y murió después en el mismo estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 309.- Los herederos podrán continuar la acción intentada por el hijo a no ser que éste se hubiese desistido formalmente de ella, o nada hubiere promovido judicialmente durante un año contado desde la última diligencia.
+ART. 307.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-También podrán contestar toda demanda que tenga por objeto disputarle la condición de hijo nacido de matrimonio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 310.- Los acreedores, legatarios o donatarios tendrán los mismos derechos que a los herederos conceden los artículos 308 y 309, si el hijo no dejó bienes suficientes para pagarles.
+ART. 308.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 311.- Las acciones de que hablan los tres artículos que preceden, prescriben a los cuatro años contados desde el fallecimiento del hijo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 312.- La posesión de hijos nacido de matrimonio no pueden perderse sino por sentencia ejecutoriada, la cual admitirá los recursos que den las leyes en los juicios de mayor interés.
+ART. 309.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 313.- Si el que está en posesión de los derechos de padre o de hijo fuere despojado de ellos o perturbado en su ejercicio sin que preceda sentencia por la cual deba perderlos, podrá hacer uso de las acciones que establecen las leyes para que se le ampare o restituya en la posesión.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 310.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 311.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 312.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 313.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO III. De la Legitimación
 
-ART. 314.- El matrimonio subsecuente de los padres hace que se tengan como nacidos de matrimonio a los hijos habidos antes de su celebración.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 315.- Para que el hijo goce del derecho que le concede el artículo que precede, los padres deben reconocerlo expresamente antes de la celebración del matrimonio, en el acto mismo de celebrarlo o durante él, haciendo en todo caso el reconocimiento ambos padres, junta o separadamente.
+ART. 314.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 316.- Si el hijo fue reconocido por el padre y en su acta de nacimiento consta el nombre de la madre, no se necesita reconocimiento expreso de ésta para que la legitimación surta sus efectos legales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Tampoco se necesita reconocimiento del padre si ya se expresó el nombre de éste en el acta de nacimiento.
+ART. 315.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 317.- Aunque el reconocimiento sea posterior, los hijos adquieren todos sus derechos desde el día en que se celebró el matrimonio de sus padres.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 318.- Pueden gozar también del derecho que les concede el artículo 314, los descendientes de los hijos fallecidos al tiempo de celebrarse el matrimonio de sus padres.
+ART. 316.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 319.- Los hijos no nacidos pueden también gozar del mismo derecho siempre que el padre al casarse declare que reconoce al hijo de quien la mujer está encinta o que le reconoce si aquélla estuviere encinta.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 317.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 318.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 319.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO IV. Del Reconocimiento de los Hijos Nacidos Fuera de Matrimonio
 
-ART. 320.- La filiación de los hijos nacidos fuera de matrimonio, resulta, con relación a la madre, del sólo hecho del nacimiento. Respecto del padre, sólo se establece por el reconocimiento voluntario o por una sentencia que declare la paternidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 321.- Pueden reconocer a sus hijos los que tengan la edad exigida para contraer matrimonio, más la edad del hijo que va a ser reconocido.
+ART. 320.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 322.- El menor de edad no puede reconocer a un hijo sin el consentimiento del que o de los que ejercen sobre él la patria potestad o de la persona bajo cuya tutela se encuentre o a falta de ésta, sin la autorización judicial.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 323.- No obstante, el reconocimiento de un menor es revocable si prueba que sufrió engaño al hacerlo, pudiendo intentar la revocación hasta cuatro años después de la mayor edad.
+ART. 321.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 324.- Puede reconocerse al hijo que no ha nacido y a los descendientes del que ha muerto.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 325.- Los padres pueden reconocer a su hijo conjunta o separadamente.
+ART. 322.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 326.- El reconocimiento hecho por uno de los padres, produce efectos respectos de él y no respecto del otro progenitor.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 327.- El reconocimiento no es revocable por el que lo hizo y si se ha hecho en el testamento cuando éste se revoque, no se tiene por revocado el reconocimiento.
+ART. 323.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 328.- El reconocimiento puede ser contradicho por un tercer interesado. El heredero que resulte perjudicado puede contradecir el reconocimiento dentro del año siguiente a la muerte del que lo hizo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 329.- El reconocimiento de un hijo nacido fuera de matrimonio deberá hacerse de alguno de los modos siguientes:
+ART. 324.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-I.- En la partida de nacimiento ante el oficial del registro civil;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- Por acta especial ante el mismo oficial;
+ART. 325.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-III.- Por escritura pública;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IV.- Por testamento;
+ART. 326.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-V.- Por confesión judicial directa y expresa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 330.- Cuando el padre y la madre reconocen separadamente a un hijo, no podrán revelar en el acto del reconocimiento el nombre de la persona con quien fue habido, ni exponer ninguna circunstancia por donde aquélla pueda ser identificada. Las palabras que contengan la revelación se testarán de oficio, de modo que queden absolutamente ilegibles.
+ART. 327.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 331.- El oficial del registro civil, el juez de primera instancia, en su caso, y el notario que consienta en la violación del artículo que precede serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro por un término que no baje de dos ni exceda de cinco años.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+ART. 328.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 332.- El cónyuge podrá reconocer el hijo habido antes de su matrimonio sin el consentimiento del otro cónyuge; pero no tendrá derecho a llevarlo a vivir a la habitación conyugal si no es con la anuencia expresa de éste.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 333.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
+ART. 329.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 334.- El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo haya desconocido y por sentencia ejecutoria se haya declarado que no es hijo suyo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 1977)</small>
+ART. 330.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 335.- El mayor de edad no puede ser reconocido sin su consentimiento, y el menor de edad, sin el del o de los que ejerzan la patria potestad, y en caso de que no sea posible esto sin el del Ministerio Público.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 336.- Si el hijo reconocido es menor, puede reclamar contra el reconocimiento cuando llegue a la mayor edad.
+ART. 331.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 337.- El término para deducir esta acción será de dos años, que comenzará a correr desde que el hijo sea mayor de edad, si antes de serlo tuvo noticia del reconocimiento; y si no la tenía, desde la fecha en que la adquirió.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 338.- La mujer que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hijo suyo y ha proveído a su educación y subsistencia, podrá contradecir el reconocimiento que un hombre haya hecho o pretenda hacer de ese niño. En este caso no se le podrá separar de su lado, a menos que consienta en entregarlo o que fuere obligada a hacer entrega por sentencia ejecutoriada. El término para contradecir el reconocimiento será el de sesenta días contados desde que tuvo conocimiento del él.
+ART. 332.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 339.- Cuando la madre contradice el reconocimiento hecho sin su consentimiento, quedará aquél sin efecto y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
+ART. 333.- (DEROGADO [N. DE E. REPUBLICADO], P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 340.- Cuando el padre y la madre que no vivan juntos reconocen al hijo en el mismo acto, convendrán cuál de los dos ejercerá la patria potestad, y en el caso de que no lo hicieren, el juez de primera instancia del lugar, oyendo a los padres y al Ministerio Público resolverá lo que creyere más conveniente a los intereses del menor.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 341.- En caso de que el reconocimiento se efectúe por los padres que no vivan juntos, ejercerá la patria potestad el que primeramente lo hubiere reconocido, salvo que se conviniere otra cosa entre los padres y siempre que el juez de primera instancia del lugar no creyere necesario modificar el convenio por causa grave con audiencia de los interesados y del Ministerio Público.
+ART. 334.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 342.- La investigación de la paternidad de los hijos nacidos fuera de matrimonio, está permitida:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- En los casos de rapto, estupro o violación, cuando la época del delito coincida con la de la concepción;
+ART. 335.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- Cuando el hijo se encuentre en posesión de estado de hijo del presunto padre;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- Cuando el hijo haya sido concebido durante el tiempo que la madre habitaba bajo el mismo techo que el pretendido padre, viviendo maritalmente con él;
+ART. 336.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-IV.- Cuando el hijo tenga a su favor un principio de prueba contra del pretendido padre.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 343.- Se presumen hijos del concubinario y de la concubina:
+ART. 337.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-I.- Los nacidos después de ciento ochenta días contados desde que comenzó el concubinato;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- Los nacidos dentro de los trescientos días siguientes al en que cesó la vida común entre el concubinario y la concubina.
+ART. 338.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 344.- La posesión de estado, para los efectos de la fracción II del artículo 342, se justificará demostrando por los medios ordinarios de prueba que el hijo ha sido tratado por el presunto padre o por su familia, como hijo del primero y que éste ha proveído a su subsistencia, educación y establecimiento.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 345.- Está permitido al hijo nacido fuera del matrimonio y a sus descendientes investigar la maternidad, la cual puede probarse por cualquiera de los medios ordinarios; pero la indagación no será permitida cuando tenga por objeto atribuir el hijo a una mujer casada.
+ART. 339.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 346.- No obstante lo dispuesto en la parte final del artículo anterior, el hijo podrá investigar la maternidad si ésta se deduce de una sentencia civil o criminal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+ART. 340.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 346 BIS.- En los casos de investigación de la paternidad o de la maternidad de los hijos nacidos fuera del matrimonio, deberá incluirse la prueba pericial en genética molecular del ácido desoxirribonucleico, llamada prueba de ADN.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-En caso de que el presunto progenitor o progenitora, se niegue sin ninguna justificación válida, a que le sea realizada la prueba de ADN, dispuesta por el juez, en un juicio de investigación de paternidad o maternidad, ésta se presumirá, salvo prueba en contrario.
+ART. 341.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 346 TER.- Se procederá en los términos de la legislación aplicable, en contra de quien haya ejercitado cualesquiera de las acciones de investigación de paternidad o maternidad, y no la acredite.
+ART. 342.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 347.- El hecho de dar alimentos no constituye por sí solo prueba, ni aún presunción de paternidad o maternidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Tampoco pude alegarse como razón para investigar éstas.
+ART. 343.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 348.- Las acciones de investigación de paternidad o maternidad sólo pueden intentarse en vida de los padres.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Si los padres hubieren fallecido durante la menor edad de los hijos, tienen éstos derecho de intentar la acción antes de que cumplan cuatro años de su mayor edad.
+ART. 344.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 349.- El hijo reconocido por el padre, por la madre o por ambos, tiene derecho:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- A llevar el apellido del que lo reconoce;
+ART. 345.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- A ser alimentado por éste;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- A percibir la pensión hereditaria y los alimentos que fije la Ley.
+ART. 346.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 346 BIS.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 346 TER.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 347.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 348.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 349.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO V. De la Adopción
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 350.- La adopción es un acto jurídico destinado a crear entre el adoptante y el adoptado los derechos y obligaciones resultantes de la patria potestad y en su caso, la filiación. Esta institución se establece en función del interés superior y beneficio del adoptado.
+ART. 350.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 351.- En el Estado de San Luis Potosí, la adopción puede ser plena o simple, según se desprenda de los elementos aportados por los adoptantes en el procedimiento.
+ART. 351.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 352.- La adopción procede respecto de menores de edad y de incapacitados. Los adoptantes deberán de ser mayores de 25 años de edad en pleno ejercicio de sus derechos y deberán tener 15 años mas que el adoptado, tener reconocida solvencia moral y un modo honesto de vivir.
+ART. 352.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 353.- Nadie puede ser adoptado por más de una persona, salvo en el caso de que los adoptantes sean cónyuges. Estos sólo podrán adoptar cuando ambos estén de acuerdo en considerar al adoptado como hijo. Cuando la persona a adoptar sea hijo solamente de uno de los cónyuges, y éste ejerza exclusivamente la patria potestad, el otro podrá adoptarlo con el consentimiento del primero.
+ART. 353.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 354.- El tutor no podrá adoptar al pupilo sino hasta después que hayan sido definitivamente aprobadas las cuentas de la tutela.
+ART. 354.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 355.- Para que la adopción pueda efectuarse deberán consentir en ella en sus respectivos casos:
+ART. 355.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-I.- El o los que ejerzan la patria potestad sobre el menor que se trata de adoptar;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- El tutor de quien va a ser adoptado;
+ART. 356.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-III.- La persona o personas que lo hayan acogido y lo traten como a un hijo, cuando no exista quien ejerza la patria potestad o la tutela;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IV.- Los directores de las instituciones públicas o privadas autorizadas que alberguen al menor, cuando éste no tenga padres conocidos ni tutor, ni persona que ostensiblemente le imparta su protección o le haya acogido como hijo;
+ART. 357.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-V.- Los padres de la o las personas que pretendan adoptar, tratándose de adopción plena; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-VI.- El menor que va a ser adoptado, cuando éste tenga más de doce años de edad.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 356.- Si la persona que ejerce la tutela o quien hubiere acogido como hijo, no consiente en la adopción sin causa justificada, el juez tomando en cuenta las circunstancias del caso y cuando se pruebe que la adopción será notoriamente benéfica y conveniente para el bienestar integral del adoptando (sic), podrá suplir el consentimiento.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 357.- El procedimiento judicial será el que fije el Código de Procedimientos Civiles en el Estado.
-
-REFORMADO, P.O. 12 DE JUNIO DE 2007)
-
-Las instituciones de asistencia, públicas y privadas autorizadas, observarán las disposiciones administrativas que sobre la materia establecen la Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí, y las demás disposiciones aplicables.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO VI. De la adopción simple
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 358.- La adopción simple es un acto jurídico por el cual se establece un vínculo de filiación, únicamente entre el adoptado y adoptante o adoptantes, mediante una resolución judicial.
+ART. 358.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 359.- La adopción simple concede a los adoptantes los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos y a los adoptados los mismos derechos y obligaciones que tienen los hijos respecto de sus padres.
+ART. 359.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 360.- Los derechos y obligaciones que nacen de la adopción simple, así como el parentesco que de ella resulte se limitan a las personas de los adoptantes y adoptado, excluyendo a los demás familiares.
+ART. 360.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-Los derechos y obligaciones que emanen del parentesco natural no se extinguen por la adopción simple, excepto la patria potestad que será transferida al adoptante, salvo que éste se encuentre casado con alguno de los progenitores del adoptado, caso en el cual será ejercida por ambos cónyuges.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 361.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 361.- La adopción simple será revocable cuando se actualice alguna de las causas que este Código señala. También podrá el adoptado impugnarla una vez que adquiera la mayoría de edad, o desaparezca su incapacidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 362.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 362.- La adopción simple podrá revocarse en los casos siguientes:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Cuando el adoptado y adoptante convengan en ello y la persona adoptada sea mayor de edad; si no lo es, será necesario que consientan en la revocación las personas que prestaron su consentimiento para la adopción;
+ART. 363.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II. Por actos que ejecute cualquiera de los adoptantes contra el adoptado, con el fin de corromperlo u obligarlo a cometer una conducta que demerite su integridad, y
+ART. 364.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III. Por alguna de las causas que para la pérdida de la patria potestad establece este Código.
+ART. 365.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-En este caso la revocación de la adopción podrá solicitarse por el Ministerio Publico, si el adoptado es menor de edad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 366.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 363.- En el caso de la fracción I del artículo anterior el juez decretará la revocación si de la misma se desprende que es un acto voluntario, que beneficie y resulte conveniente para el bienestar integral del adoptado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 367.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 364.- Para los efectos de la fracción II del artículo 362 de este Código, se considera ingrata a la persona:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Si comete algún delito intencional que merezca pena mayor a un año de prisión contra la honra o los bienes del adoptante o adoptado según sea el caso, su cónyuge, sus ascendientes o descendientes;
+ART. 368.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- Si rehusa a dar alimentos al adoptante o adoptado, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- Si acusa oficialmente al adoptante o al adoptado de haber cometido un delito grave que pudiera perseguirse de oficio, aunque lo pruebe, excepto en el caso de que ese delito se hubiere cometido en contra del adoptante, el adoptado, su cónyuge, sus ascendientes o descendientes.
-
-En estos casos la adopción deja de surtir efectos a partir del acto de ingratitud, aun cuando la resolución judicial que declare la revocación sea posterior.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 365.- Tomando en cuenta las circunstancias del caso el juez autorizará la separación del adoptado y dictará las medidas necesarias para asegurar su subsistencia.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 366.- La resolución judicial que revoque la adopción dejará sin efectos ésta y restituirá las cosas al estado que guardaban antes de la adopción.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 367.- El juez que decrete la adopción o su revocación, remitirá oficio que contenga los puntos resolutivos tanto al director como al oficial del Registro Civil que los inscribió para que levanten o cancelen el acta correspondiente y en su caso haga las anotaciones que marca la ley.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 368.- La adopción simple podrá convertirse en plena, cuando se acredite que tal modificación resulta notoriamente benéfica para el adoptado, debiéndose obtener su consentimiento si hubiere cumplido doce años. Si fuese menor de esa edad se requiere la aceptación de quien hubiese consentido en la adopción, siempre y cuando sea posible obtenerlo; cuando no sea posible obtenerlo o existiera oposición, el juez deberá resolver atendiendo al interés superior del menor.
-
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2007)</small>
-
-El procedimiento de conversión a que se refiere este artículo, deberá realizarse a través de una institución pública o privada autorizada, y con la intervención del Ministerio Público.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-Decretada la conversión, serán aplicadas las reglas de la adopción plena.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO VII. De la adopción plena
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 369.- La adopción plena es irrevocable y confiere al adoptado una filiación sustituyente a la de su origen, dejando de pertenecer, extinguiéndose el parentesco con sus integrantes y demás efectos jurídicos, excepto los impedimentos matrimoniales, y adquiere los mismos derechos y obligaciones del parentesco consanguíneo en la familia del adoptante.
+ART. 369.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 370.- La adopción plena procede cuando se trate de:
+ART. 370.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-I.- Expósitos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- Menores de edad abandonados;
+ART. 370.1.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-III.- Menores de edad que sean entregados a una institución publica o privada autorizada para promover su adopción; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IV.- Huérfanos de padre y madre que carezcan de ascendiente alguno o que teniéndolos se hubiere decretado la perdida de patria potestad.
+ART. 370.2.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 370.1.- Las instituciones privadas autorizadas a quienes en los términos de la Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí, les sean conferidos menores para promover su adopción, contarán con un Consejo Interno de Adopciones, en el que deberá participar el Ministerio Público, y la autoridad rectora de asistencia social en el Estado, quien vigilará la aplicación de las políticas que sobre la materia establezca ese organismo.
+ART. 370.3.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 370.2.- Cuando el menor sea entregado a una institución de asistencia privada autorizada, para que ésta promueva su adopción, además de observase las formalidades establecidas en el artículo anterior, el consentimiento debe referirse inequívocamente a la adopción plena, y deberá manifestarse ante el juez competente, quien informará al declarante de manera que no le queden dudas sobre el contenido y alcance del acto, con asistencia del Ministerio Público.
+ART. 370.4.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-El consentimiento dado por escrito a la institución privada autorizada, deberá ser presentado en el procedimiento de adopción, a fin de que el juez certifique la voluntad de quien lo otorga, debiendo ratificar el mismo, ante la presencia judicial.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 370.5.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 370.3.- En el caso del último párrafo del artículo que antecede, el juez podrá dispensar la ratificación del consentimiento de las personas que debieran otorgarlo, si por alguna razón existiere grave dificultad para recabarlo y esto resulte en perjuicio del menor.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 370.6.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 370.4.- No procederá la adopción plena, tratándose de personas que tengan vínculo de parentesco consanguíneo con el menor o incapacitado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 370.7.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 370.5.- Con vistas a la futura adopción plena y con audiencia del Ministerio Público, podrá ser declarado por el juez el estado de abandono de un menor, cuando los padres o quien ejerza la patria potestad del mismo se hubieran comportado con manifiesto desinterés hacia él, en términos que afecten su salud o seguridad, si conservaren tal conducta durante por lo menos tres meses anteriores a la solicitud de la declaración. La declaración se hará como medio preparatorio del juicio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Tendrán legitimación activa para requerir la declaración del estado de abandono, quienes hubieren tenido al menor bajo su guarda.
+ART. 370.8.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 370.6.- El vínculo de adopción plena será constituido por sentencia dictada por el juez competente, una vez que se acredite que existen ventajas para el menor, que los motivos en que se funda son legítimos y que no entraña sacrificio injusto para los hijos de los adoptantes en el caso de que los hubiere.
-
-En el procedimiento el juez con independencia de las pruebas que se aporten, tendrá facultad para allegarse toda la información relativa a la salud y personalidad de los adoptantes y sobre su capacidad psicológica y económica para adoptar al menor.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 370.7.- El juez que apruebe la adopción plena remitirá copia de las diligencias respectivas al oficial del Registro Civil del lugar, para que levante el acta correspondiente. La resolución judicial que la apruebe contendrá la orden a dicho funcionario, para que cancele en su caso el acta de nacimiento del adoptado, así como para que levante acta de nacimiento en la que figuren como padres los adoptantes y como hijo el adoptado y demás datos que se requieren conforme a la ley, sin hacer mención sobre la adopción.
-
-Tratándose de la adopción plena, el Registro Civil se abstendrá de proporcionar información sobre los antecedentes de la familia de origen del adoptado.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 370.8.- Ejecutoriada que sea la sentencia que decrete la adopción plena, quedarán extinguidos todos los vínculos con la familia de origen del menor.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO VIII. De la adopción internacional
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 370.9.- Se considera adopción internacional cuando los adoptantes son extranjeros con residencia habitual fuera del territorio nacional, que desean adoptar a un menor mexicano domiciliado en territorio del Estado, a través de una institución reconocida y validada en su país de origen, vinculada a la protección de los menores.
+ART. 370.9.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Los extranjeros que pretendan adoptar deberán ser personas de distinto sexo unidas en legítimo matrimonio y cumplir con los requisitos administrativos que contiene la Convención Internacional de la Haya y los que fije el Organismo Rector de la Asistencia Social en el Estado, en su carácter de autoridad central en materia de adopciones internacionales.
+ART. 370.10.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 370.10.- Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano y, en lo conducente, por las disposiciones de este Código. Las adopciones internacionales siempre serán plenas.
+ART. 370.11.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-En el procedimiento de adopción internacional en igualdad de circunstancias, se dará preferencia a adoptantes mexicanos sobre los extranjeros.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 370.12.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 370.11.- Los cónyuges extranjeros que pretendan adoptar a un menor de nacionalidad mexicana en el Estado de San Luis Potosí deberán presentar ante el juez, certificado de idoneidad expedido por la autoridad competente de su país de origen que acredite que los solicitantes son considerados aptos para adoptar, constancia de que el menor que se pretende adoptar ha sido autorizado para entrar y residir permanentemente en dicho estado y la autorización de la Secretaría de Gobernación para internarse y permanecer en el país con la finalidad de realizar una adopción.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 370.12.- El Sistema para el Desarrollo Integral de la Familia del Estado o su equivalente en su carácter de autoridad central en materia de adopciones internacionales, tramitará y conocerá en exclusiva de los procedimientos administrativos sobre esta materia.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 370.13.- El Sistema para el Desarrollo Integral de la Familia en el Estado, o su equivalente en su carácter de autoridad central en materia de adopciones internacionales, deberá de informar semestralmente al juez que decretó la adopción y hasta que el adoptado adquiera la edad de doce años, sobre el estado, evolución y desarrollo de los menores concedidos en adopción.
-
-El Ministerio Público vigilará que se cumpla con esta disposición.
+ART. 370.13.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ART. 370 BIS.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
 ## TITULO OCTAVO. De la Patria Potestad
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO I. De los Efectos de la Patria Potestad Respecto de la Persona de los Hijos
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 371.- En la relación entre ascendientes y descendientes debe imperar el respeto y la consideración mutuos, cualquiera que sea su estado, edad y condición.
+ART. 371.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 372.- Los hijos menores de edad no emancipados están bajo la patria potestad mientras exista alguno de los ascendientes que deba ejercerla conforme a la Ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 373.- La patria potestad se ejerce sobre la persona y los bienes de los hijos.
+ART. 372.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 374.- La patria potestad sobre los hijos se ejerce por los padres. Cuando por cualquier circunstancia deje de ejercerla alguno de ellos, corresponderá su ejercicio al otro.
+ART. 373.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-A falta de ambos padres o por cualquier otra circunstancia prevista en este ordenamiento, ejercerán la patria potestad sobre los menores, los ascendientes en segundo grado en el orden que determine el juez de lo familiar, tomando en cuenta las circunstancias del caso.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 374.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ART. 375.- (DEROGADO, P.O. 31 DE OCTUBRE DE 1998)
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 376.- En caso de separación de quienes ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus deberes y podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores. En caso de desacuerdo, el juez de lo familiar resolverá lo conducente oyendo al Ministerio Público, sin perjuicio de lo previsto en el artículo 90 del Código de Procedimientos Civiles del Estado.
+ART. 376.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-En este supuesto, con base en el interés superior del menor, éste quedará bajo los cuidados y atenciones de uno de ellos. El otro estará obligado a colaborar en su alimentación y conservará los derechos de vigilancia y de convivencia con el menor, conforme a las modalidades previstas en el convenio o resolución judicial.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
+ART. 377.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 377.- Los que ejercen la patria potestad, aun cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes, salvo que exista peligro para éstos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus parientes. En caso de oposición, a petición de cualquiera de ellos, el juez de lo familiar resolverá lo conducente en atención al interés superior del menor.
+ART. 378.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-Sólo por mandado judicial podrá limitarse, suspenderse o perderse el derecho de convivencia a que se refiere el párrafo anterior, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezcan en el convenio o resolución judicial.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2007)</small>
-
-La violencia familiar en términos de lo señalado en el artículo 284.5 de este Código, será causa para la restricción para el régimen de visitas, así como impedimento para la guarda y custodia de niñas y niños.
-
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
-
-ART. 378.- Las obligaciones, facultades y restricciones establecidas para los tutores, se aplicarán al pariente que por cualquier circunstancia tenga la custodia de un menor. Quien conserva la patria potestad tendrá la obligación de contribuir con el pariente que custodia al menor en todos sus deberes, conservando sus derechos de convivencia y vigilancia.
-
-La anterior custodia podrá terminar por decisión del pariente que la realiza, por quienes ejercen la patria potestad o por resolución judicial.
-
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
-
-ART. 379.- La patria potestad sobre el hijo adoptivo la ejercerán únicamente las personas que lo adopten. En la adopción plena la patria potestad se ejercerá en los términos señalados en este Código para los hijos consanguíneos.
+ART. 379.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ART. 380.- (DEROGADO, P.O. 31 DE OCTUBRE DE 1998)
 
-ART. 381.- Mientras estuviere el hijo en la patria potestad, no podrá dejar la casa de los que la ejercen sin permiso de ellos o decreto de la autoridad competente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
+ART. 381.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 382.- A las personas que tienen al menor bajo su patria potestad o custodia incumbe la obligación de educarlo convenientemente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Cuando llegue a conocimiento de cualquier autoridad administrativa que dichas personas no cumplen con la obligación referida en el párrafo anterior, lo harán del conocimiento del Ministerio Público para que promueva lo que corresponda.
+ART. 382.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 383.- Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan menores bajo su custodia tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
+ART. 383.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-La facultad de corregir no implica infringir al menor actos de fuerza que atenten contra su integridad física o psíquica, en los términos de lo dispuesto por el artículo 284.5 de este Código.
+ART. 384.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 384.- El que está sujeto a la patria potestad no puede comparecer en juicio ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejercen igual derecho. En caso de irracional disenso, resolverá el juez.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 384 BIS.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 384 BIS.- La patria potestad, bajo ninguna circunstancia, faculta a quienes la ejercen para tomar determinaciones que afecten negativamente la vida, la salud, la seguridad o la integridad de los menores sujetos a ella, por ser estos bienes jurídicos de interés social, cuya preservación corresponde por tanto al Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-El juez deberá tomar al respecto las medidas inmediatas que resulten necesarias para la protección de tales bienes.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO II. De los Efectos de la Patria Potestad Respecto de los Bienes del Hijo
 
-ART. 385.- Los que ejercen la patria potestad, son legítimos representantes de los que están bajo de ella y tienen la administración legal de los bienes que les pertenecen conforme a las prescripciones de este Código.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 386.- Cuando la patria potestad se ejerce a la vez por el padre y por la madre, o por el abuelo y la abuela o por los adoptantes, el administrador de los bienes será el varón, pero consultará en todos los negocios a su consorte, y requerirá su consentimiento expreso para los actos más importantes de la administración.
+ART. 385.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 387.- La persona que ejerza la patria potestad representará también a los hijos en juicio; pero no podrá celebrar ningún arreglo para terminarlo si no es con el consentimiento expreso de su consorte y con la autorización judicial cuando la Ley lo requiera expresamente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 388.- Los bienes del hijo mientras esté en la patria potestad, se dividen en dos clases:
+ART. 386.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-I.- Bienes que adquiera por su trabajo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- Bienes que adquiera por cualquier otro título.
+ART. 387.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 389.- Los bienes de la primera clase, pertenecen en propiedad, administración y usufructo al hijo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 390.- En los bienes de la segunda clase, la propiedad y la mitad del usufructo pertenecen al hijo; la administración y la otra mitad del usufructo, corresponde a las personas que ejercen la patria potestad. Sin embargo, si los hijos adquieren bienes por herencia, legado o donación y el testador o donante ha dispuesto que el usufructo pertenezca al hijo o que se destine a un fin determinando, se estará a lo dispuesto.
+ART. 388.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 391.- Los padres pueden renunciar su derecho a la mitad del usufructo, haciendo constar su renuncia por escrito o de cualquier otro modo que no deje lugar a duda.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 392.- La renuncia de usufructo hecha en favor del hijo se considera como donación.
+ART. 389.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 393.- Los réditos y rentas que se hayan vencido antes de que los padres, abuelos o adoptantes entren en posesión de los bienes cuya propiedad corresponda al hijo, pertenecen a éste y en ningún caso serán frutos de que deba gozar la persona que ejerza la patria potestad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 394.- El usufructo de los bienes concedido (sic) a las personas que ejercen la patria potestad, lleva consigo la obligación que expresa el Capítulo II de del Título VI y además las impuestas a los usufructuarios con excepción de la obligación de dar fianza, fuera de los casos siguientes:
+ART. 390.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-I.- Cuando los que ejerzan la patria potestad, han sido declarados en quiebra o estén concursados;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- Cuando contraigan ulteriores nupcias;
+ART. 391.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-III.- Cuando su administración sea notoriamente ruinosa para los hijos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 395.- Cuando por la Ley o por la voluntad del padre, el hijo tenga la administración de los bienes, se le considerará respecto de la administración como emancipado, con la restricción que establece la Ley para enajenar, gravar o hipotecar bienes raíces.
+ART. 392.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 396.- Los que ejercen la patria potestad no pueden enajenar ni gravar de ningún modo los bienes inmuebles o los muebles preciosos que correspondan al hijo, sino por causa de absoluta necesidad o de evidente beneficio y previa la autorización del juez competente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Tampoco podrán celebrar contratos de arrendamiento por más de cinco años, ni recibir la renta anticipada por más de dos años; vender valores comerciales, industriales, títulos de rentas, acciones, frutos o ganados por menor valor del que se cotice en la plaza el día de la venta; hacer donación de los bienes de los hijos o remisión voluntarias de los derechos de éstos; ni dar fianza en representación de los hijos.
+ART. 393.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 397.- Siempre que el juez conceda licencia a los que ejercen la patria potestad para enajenar un bien inmueble o un mueble precioso perteneciente al menor, tomará las medidas necesarias para hacer que el producto de la venta se dedique al objeto a que se destinó y para que el resto se invierta en la adquisición de un inmueble o se imponga con segura hipoteca en favor del menor.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Al efecto el precio de la venta se depositará en una institución de crédito, y la persona que ejerce la patria potestad no podrá disponer de él sin orden judicial.
+ART. 394.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 398.- El derecho de usufructo concedido a las personas que ejercen la patria potestad se extingue:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Por la emancipación o la mayor edad de los hijos;
+ART. 395.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- Por pérdida de la patria potestad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- Por renuncia.
+ART. 396.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 399.- Las personas que ejercen la patria potestad tienen la obligación de dar cuenta de la administración de los bienes de los hijos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 400.- Cuando el que ejerza la patria potestad tenga un interés opuesto al de los hijos, serán éstos representados en juicio y fuera de él por un tutor nombrado por el juez en cada caso.
+ART. 397.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 401.- Los jueces tienen facultad de tomar las medidas necesarias para impedir que, por la mala administración de quienes ejercen la patria potestad, los bienes de los hijos se derrochen o se disminuyan.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Estas medidas se tomarán a instancias de las personas interesadas, del menor cuando hubiere cumplido catorce años o del Ministerio Público en todo caso.
+ART. 398.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 402.- Las personas que ejerzan la patria potestad deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayor edad todos los bienes y frutos que les pertenecen.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 399.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 400.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 401.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 402.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO III. De los Modos de Acabarse y Suspenderse la Patria Potestad
 
-ART. 403.- La patria potestad se acaba:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
+ART. 403.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- Con la emancipación;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- Por la mayor edad del hijo.
+ART. 404.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 404.- La patria potestad se pierde por resolución judicial:
+ART. 404 BIS.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Cuando el que la ejerza sea condenado expresamente a la pérdida de ese derecho;
+ART. 405.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- (DEROGADA, P.O. 3 DE OCTUBRE DE 2000)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aún cuando esos hechos no cayeren bajo la sanción de la ley penal;
+ART. 406.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-IV.- Por la exposición que el padre o la madre hiciere de sus hijos, o porque los dejen abandonados por más de seis meses;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2007)</small>
+ART. 407.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-V.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2007)</small>
+ART. 408.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-VI.- Cuando el que la ejerza sea condenado por dos o más veces por delito grave, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2007)</small>
-
-VII.- En los casos que los padres sean condenados por la comisión de un delito de violencia familiar, y en los resultados de los estudios de peligrosidad, ésta sea superior a la media.
-
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2007)</small>
-
-ART. 404 BIS.- La patria potestad podrá ser limitada cuando el que la ejerce incurra en conductas de violencia familiar previstas en el artículo 284.5 de este Código, en contra de las personas sobre las cuales la ejerza.
-
-ART. 405.- La madre o abuela que pase a ulteriores nupcias, no pierde por este hecho la patria potestad.
-
-ART. 406.- El nuevo marido no ejercerá la patria potestad sobre los hijos del matrimonio anterior.
-
-ART. 407.- La patria potestad se suspende:
-
-I.- Por incapacidad declarada judicialmente;
-
-II.- Por la ausencia declarada en forma;
-
-III.- Por sentencia condenatoria que imponga como pena esta suspensión.
-
-ART. 408.- La patria potestad no es renunciable; pero aquellos a quienes corresponda el ejercerla pueden excusarse:
-
-I.- Cuando tengan sesenta años cumplidos;
-
-II.- Cuando por su mal estado habitual de salud no puedan atender debidamente a su desempeño.
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ## TITULO NOVENO. De la Tutela
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
 ### CAPITULO I. Disposiciones Generales
 
-ART. 409.- El objeto de la tutela es la guarda de la persona y bienes de los que no estando sujetos a patria potestad, tienen incapacidad natural y legal o solamente la segunda para gobernarse por sí mismos. La tutela puede tener también por objeto la representación interina del incapaz en los casos especiales que señale la Ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-En la tutela se cuidará preferentemente de la persona de los incapacitados.
+ART. 409.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 410.- Tienen incapacidad natural y legal:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Los menores de edad;
+ART. 410.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- Los mayores de edad privados de inteligencia por locura, idiotismo o imbecilidad, aún cuando tengan intervalos lúcidos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- Los sordo-mudos que no saben leer ni escribir;
+ART. 411.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-IV.- Los ebrios consuetudinarios y los que habitualmente hacen uso inmoderado de drogas enervantes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 411.- Los menores de edad emancipados tienen incapacidad legal para los actos que se mencionan en el artículo 589.
+ART. 412.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 412.- La tutela es un cargo de interés público del que nadie puede eximirse, sino por causa legítima.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 413.- El que se rehusare sin causa legal a desempeñar el cargo de tutor, es responsable de los daños y perjuicios que de su negativa resulten al incapacitado.
+ART. 413.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 414.- La tutela se desempeñará por el tutor con intervención del curador.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 415.- Ningún incapaz puede tener a un mismo tiempo más de un tutor y de un curador definitivos.
+ART. 414.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 416.- El tutor y el curador pueden desempeñar, respectivamente, la tutela o la curatela hasta de tres incapaces. Si éstos son hermanos o son coherederos o legatarios de la misma persona, puede nombrarse un solo tutor y un curador a todos ellos, aunque sean más de tres.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 417.- Cuando los intereses de alguno o algunos de los incapaces, sujetos a la misma tutela, fueren opuestos, el tutor lo pondrá en conocimiento del juez, quien nombrará un tutor especial que defienda los intereses de los incapaces que él mismo designe, mientras se decide el punto de oposición. Lo mismo se hará cuando la oposición fuere entre el tutor y alguno o algunos de los incapacitados.
+ART. 415.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 418.- Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados a un mismo tiempo por una sola persona. Tampoco pueden desempeñarse por personas que tengan entre sí parentesco en cualquier grado de la línea recta o dentro del cuarto grado de la colateral.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 419.- Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Ministerio Público, dentro de ocho días, a fin de que se provea a la tutela, bajo la pena de veinticinco a cien pesos de multa.
+ART. 416.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 420. La tutela es autodesignada, testamentaria, legítima o dativa.
+ART. 417.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 420 BIS.- Toda persona mayor de edad capaz, puede designar al tutor o tutores que deberán encargarse de su persona y, en su caso, de su patrimonio, como al curador en previsión de encontrarse en los supuestos del artículo 410 fracciones II, III y IV de este Código.
+ART. 418.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-La designación de tutor o curador debe hacerse ante notario e inscribirse en escritura pública, y deberá contener expresamente, todas las reglas a las que se sujetará el tutor o curador. Esta designación es revocable en cualquier momento mediante las mismas formalidades.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-La persona designada no está obligada a aceptar el cargo, aunque no tenga excusa para ello, pero si lo acepta, deberá permanecer en él un año cuando menos, pasado el cual podrá solicitar al juez que se le releve del mismo.
+ART. 419.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 421.- Ninguna tutela puede conferirse sin que previamente se declare en los términos que disponga el Código de Procedimientos Civiles, el estado de incapacidad de la persona que va quedar sujeta a ella.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 422.- Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
+ART. 420. (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 423.- El menor de edad que fuere demente, idiota, imbécil, sordo-mudo, ebrio consuetudinario o que habitualmente abuse de las drogas enervantes estará sujeto a la tutela de menores, mientras no llegue a la mayor edad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción en el cual serán oídos el tutor y el curador anteriores.
+ART. 420 BIS.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 424.- Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la Ley y no habiéndolo, se les proveerá de tutor.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 425.- El cargo de tutor del demente, idiota, imbécil, sordo-mudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercido por los descendientes o por los ascendientes. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras conserve tal carácter.
+ART. 421.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-Los extraños que desempeñen la tutela, tienen derecho de que se les releve de ella a los diez años de ejercerla.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 426.- La interdicción sólo cesará por la muerte del incapacitado o por sentencia definitiva que se pronunciará en juicio seguido conforme a las mismas reglas establecidas para el de interdicción.
+ART. 422.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 427.- El juez del domicilio del incapacitado, a instancia del Ministerio Público, cuidará provisionalmente de la persona y bienes del incapaz hasta que se nombre tutor.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 428.- El juez que no cumpla las prescripciones de la tutela, será responsable de los daños o perjuicios que sufran los incapaces.
+ART. 423.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 424.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 425.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 426.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 427.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 428.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO II. De la Tutela Testamentaria
 
-ART. 429.- El ascendiente que sobreviva, de los dos que en cada grado deben ejercer la patria potestad conforme a lo dispuesto en el artículo 374, tiene derecho de nombrar tutor en su testamento a aquellos sobre quienes la ejerza, con inclusión del hijo póstumo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-El menor a quien correspondiere la patria potestad también tendrá este derecho.
+ART. 429.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 430.- El nombramiento de tutor testamentario hecho en los términos del artículo anterior, excluye del ejercicio de la patria potestad a los ascendientes de ulteriores grados.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 431.- Si los ascendientes excluídos estuvieren incapacitados o ausentes, la tutela cesará cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
+ART. 430.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 432.- El que en su testamento, aunque sea un menor no emancipado, deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 433.- Si hubiere varios menores, podrá nombrárseles un tutor común, o conferirse a persona diferente la tutela de cada uno de ellos, observándose, en su caso, lo dispuesto en el artículo 417.
+ART. 431.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 434.- El padre que ejerza la tutela de un hijo sujeto a interdicción por incapacidad intelectual, puede nombrarle tutor testamentario, si la madre ha fallecido o no puede legalmente ejercer la tutela.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-La madre, en su caso, podrá hacer el nombramiento de que trata este artículo.
+ART. 432.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 435.- En ningún otro caso ha lugar a la tutela testamentaria del incapacitado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 436.- Siempre que se nombren varios tutores, desempeñará la tutela el primer nombrado, a quien substituirán los demás por el orden de su nombramiento en los casos de muerte, incapacidad, excusa o remoción.
+ART. 433.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 437.- Lo dispuesto en el artículo anterior no regirá cuando el testador haya establecido el orden en que los tutores deben sucederse en el desempeño de la tutela.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 438.- Deben observarse todas las reglas, limitaciones y condiciones puestas por el testador para la administración de la tutela, que no sean contrarias a las leyes, a no ser que el juez oyendo al tutor y al curador las estime dañosas a los menores, en cuyo caso podrá dispensarlas o modificarlas.
+ART. 434.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 439.- Si por un nombramiento condicional de tutor o por algún otro motivo faltare temporalmente el tutor testamentario, el juez proveerá de tutor interino al menor conforme a las reglas generales sobre nombramiento de tutores.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 440.- El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo, aplicándose a esta tutela lo dispuesto en los artículos anteriores.
+ART. 435.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 436.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 437.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 438.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 439.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 440.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO III. De la Tutela Legítima de los Menores
 
-ART. 441.- Ha lugar a tutela legítima:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2007)</small>
+ART. 441.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-I.- Cuando no hay quien ejerza la patria potestad; tutor autodesignado, ni testamentario;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- Cuando deba nombrarse tutor por causa de divorcio.
+ART. 442.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 442.- La tutela legítima corresponde:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- A los hermanos, prefiriéndose a los que lo sean por ambas líneas;
+ART. 443.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- Por falta o incapacidad de los hermanos a los demás colaterales dentro del cuarto grado inclusive.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 443.- Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que le parezca más apto para el cargo; pero si el menor hubiere cumplido dieciséis años el hará la elección.
+ART. 444.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 444.- La falta temporal del tutor legítimo se suplirá en los términos establecidos en los dos artículos anteriores.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO IV. De la Tutela Legítima de los dementes, idiotas, imbéciles, sordo-mudos, ebrios consuetudinarios y de los que habitualmente abusen de las drogas enervantes
 
-ART. 445.- El marido es tutor legítimo y forzoso de su mujer y ésta lo es de su marido.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 446.- Los hijos mayores de edad son tutores de su padre o madre viudos.
+ART. 445.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 447.- Cuando haya dos o más hijos, será preferido el que viva en compañía del padre o de la madre y, siendo varios los que estén en el mismo caso, el juez elegirá al que le parezca más apto.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 448.- El padre y por muerte o incapacidad de éste, la madre, son de derecho tutores de sus hijos, solteros o viudos, cuando ellos no tengan hijos que puedan desempeñar la tutela.
+ART. 446.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 449.- A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores deba desempeñar la tutela, serán llamados a ella sucesivamente: los abuelos, los hermanos del incapacitado y los demás colaterales a que se refiere la Fracción II del Artículo 442; observándose en su caso lo que dispone el Artículo 443.
+ART. 447.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 450.- El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 448.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 449.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 450.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO V. De la Tutela Legítima de los menores abandonados y de los acogidos por alguna persona, o depositados en Establecimientos de Beneficiencia (sic)
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 451.- La ley coloca a los expósitos y abandonados bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones previstas para los demás tutores.
+ART. 451.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-Se considera expósito al menor que es colocado en una situación de desamparo por quienes conforme a la ley están obligados a su custodia, protección y cuidado y no pueda determinarse su origen. Cuando la situación de desamparo se refiera a un menor cuyo origen se conoce, se considerará abandonado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
+ART. 452.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 452.- Los responsables de las casas de asistencia, públicas o privadas, donde se reciban expósitos o abandonados, desempeñarán la tutela de éstos con arreglo a las leyes y a lo que prevengan los estatutos de la institución. En este caso no es necesario el discernimiento del cargo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 453.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 453.- Los responsables de las casas de asistencias, públicas y privadas donde se reciban menores que hayan sido objeto de la violencia familiar a que se refiere el artículo 284.6 de este código, tendrán la custodia de éstos en los términos que establezcan las disposiciones legales aplicables o los estatutos que normen a la institución. En todo caso harán del conocimiento del ministerio público y de a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO VI. De la Tutela Dativa
 
-ART. 454.- La tutela dativa tiene lugar:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2007)</small>
+ART. 454.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-I.- Cuando no hay tutor autodesignado, testamentario, ni persona a quien, conforme a la ley, corresponda la tutela legítima;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo y no hay ningún pariente de los designados en el artículo 442.
+ART. 455.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 455.- El tutor dativo será designado por el menor si ha cumplido dieciséis años. El juez confirmará la designación si no tiene causa en contrario. Para reprobar los ulteriores nombramientos que haga el menor, se oirá además, a un defensor que él mismo elegirá. Si el menor no ha cumplido dieciséis años, el nombramiento de tutor lo hará el juez.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 456.- Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
+ART. 456.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO VII. De las personas inhábiles para el desempeño de la Tutela y de las que deben ser separadas de ella
 
-ART. 457.- No pueden ser tutores, aunque estén anuentes en recibir el cargo:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Los menores de edad;
+ART. 457.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- Los mayores de edad que se encuentren bajo tutela;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- Los que hayan sido removidos de otra tutela por haberse conducido mal;
+ART. 458.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-IV.- Los que por sentencia que cause ejecutoria hayan sido condenados a la privación de este cargo o a la inhabilitación para obtenerlo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-V.- El que haya sido condenado por robo, abuso de confianza, estafa, fraude o por delitos contra la honestidad.
+ART. 459.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-VI.- Los que no tengan oficio o modo de vivir conocido o sean notoriamente de mala conducta;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-VII.- Los que al deferirse (sic) la tutela tengan pleito pendiente con el incapacitado;
+ART. 460.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-VIII.- Los deudores del incapacitado en cantidad considerable a juicio del juez, a no ser que el que nombre tutor testamentario lo haya hecho con conocimiento del adeudo, declarándolo así expresamente al hacer el nombramiento.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IX.- Los jueces, magistrados y demás funcionarios o empleados de la administración de justicia;
+ART. 461.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-X.- El que no esté domiciliado en el lugar en que deba ejercer la tutela;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-XI.- Los empleados públicos de hacienda que por razón de su destino tengan responsabilidad pecuniaria actual o la hubieren tenido y no la hubieren cubierto;
+ART. 462.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-XII.- El que padezca enfermedad crónica y contagiosa;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-XIII.- Los demás a quienes lo prohiba la Ley.
+ART. 463.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 458.- Serán separados de la tutela:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Los que sin haber caucionado su manejo conforme a la Ley, ejerzan la administración de la tutela;
-
-II.- Los que se conduzcan mal en el desempeño de la tutela, ya sea respecto de la persona, ya de la administración de los bienes del incapacitado;
-
-III.- Los tutores que no rindan sus cuentas dentro del término fijado por el artículo 540;
-
-IV.- Los comprendidos en el artículo anterior, desde que sobrevenga o se averigüe su incapacidad;
-
-V.- El tutor que se encuentre en el caso previsto en el artículo 143;
-
-VI.- El tutor que permanezca ausente por más de seis meses del lugar en que debe desempeñar la tutela.
-
-ART. 459.- No pueden ser tutores ni curadores del demente, idiota, imbécil, sordo-mudo, ebrio consuetudinario o del que abuse habitualmente de las drogas enervantes, los que hayan sido causa directa o indirecta de la incapacidad, o en alguna forma la hayan fomentado.
-
-ART. 460.- El Ministerio Público y los parientes del pupilo, tienen derecho a promover la separación de los tutores que se encuentren en alguno de los casos previstos en los artículos 457 y 458.
-
-ART. 461.- El tutor que fuere procesado por cualquier delito, quedará suspenso en el ejercicio de su encargo desde que se provea el auto motivado de prisión hasta que se pronuncie sentencia irrevocable.
-
-ART. 462.- En el caso de que trata el artículo anterior se proveerá a la tutela conforme a la Ley.
-
-ART. 463.- Absuelto el tutor, volverá al ejercicio de su encargo. Si es condenado a una pena que no lleve consigo la inhabilitación para el desempeño de la tutela, volverá a ésta al extinguir su condena, siempre que la pena impuesta no exceda de un año.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO VIII. De las Excusas de la Tutela
 
-ART. 464.- Pueden excusarse de ser tutores:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Los empleados y funcionarios públicos;
+ART. 464.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- Los militares en servicio activo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- Los que tengan bajo su patria potestad tres o más descendientes;
+ART. 465.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-IV.- Los que fueren tan pobres, que no puedan atender a la tutela sin menoscabo de su subsistencia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-V.- Los que por el mal estado habitual de su salud o por su rudeza e ignorancia, no puedan atender debidamente a la tutela;
+ART. 466.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-VI.- Los que tengan sesenta años cumplidos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-VII.- Los que tengan a su cargo otra tutela o curaduría.
+ART. 467.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-VIII.- Los que por su inexperiencia en los negocios o por causa grave, a juicio del Juez, no estén en aptitud de desempeñar conveneintemente (sic) la tutela.
+ART. 468.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 465.- Si el que teniendo excusa legítima para ser tutor, acepta el cargo, renuncia por el mismo hecho a la excusa que le concede la Ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 466.- El tutor debe proponer sus impedimentos o excusas dentro del término fijado por el Código de Procedimientos Civiles, y cuando transcurra el término sin ejercitar el derecho se entiende renunciada la excusa.
+ART. 469.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 467.- Si el tutor tuviere dos o más excusas, las propondrá simultáneamente dentro del plazo respectivo; y si propone una sola se entenderán renunciadas las demás.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 468.- Mientras que se califica el impedimento o la excusa, el juez nombrará un tutor interino.
+ART. 470.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 469.- El tutor testamentario que se excuse de ejercer la tutela, perderá todo derecho a lo que le hubiere dejado el testador por este concepto.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 470.- El tutor que sin excusa, o desechada la que hubiere propuesto, no desempeñe la tutela, pierde el derecho que tenga para heredar al incapacitado que muere intestado, y es responsable de los daños y perjuicios que por su renuncia hayan sobrevenido al mismo incapacitado. En igual pena incurre la persona a quien corresponda la tutela legítima, si habiendo sido legalmente citada, no se presenta al juez manifestando su parentesco con el incapaz.
+ART. 471.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 471.- Muerto el tutor que esté desempeñando la tutela, sus herederos o ejecutores testamentarios están obligados a dar aviso al juez, quien proveerá inmediatamente al incapacitado del tutor que corresponda, conforme a la Ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO IX. De la Garantía que deben prestar los Tutores para asegurar su manejo
 
-ART. 472.- El tutor antes de que se le discierna el cargo, prestará caución para asegurar su manejo. Esta caución consistirá:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- En hipoteca o prenda;
+ART. 472.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- En fianza.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-La garantía prendaria que preste el tutor se constituirá depositando las cosas dadas en prenda en una institución de crédito autorizada para recibir depósitos; a falta de ello se depositarán en poder de persona de notoria solvencia y honorabilidad.
+ART. 473.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 473.- Están exceptuados de la obligación de dar garantía:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Los tutores testamentarios cuando expresamente los haya relevado de esta obligación el testador;
+ART. 474.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- El tutor que no administre bienes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- El padre, la madre y los abuelos en los casos en que, conforme a la Ley, son llamados a desempeñar la tutela de sus descendientes, salvo lo dispuesto en el artículo 475;
+ART. 475.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-IV.- Los que acojan a un expósito, lo alimenten y lo eduquen convenientemente por más de diez años, a no ser que hayan recibido pensión para cuidar de él.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 474.- Los comprendidos en la fracción I del artículo anterior, sólo estarán obligados a dar garantía cuando con posterioridad a su nombramiento, haya sobrevenido causa ignorada por el testador que, a juicio del juez y previa audiencia del curador, haga necesaria aquélla.
+ART. 476.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 475.- Cuando la tutela del incapacitado recaiga en el cónyuge, en los ascendientes o en los hijos, no se dará garantía, salvo el caso de que el juez con audiencia del curador, lo crea conveniente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 476.- Siempre que el tutor sea también coheredero del incapaz y éste no tenga más bienes que los hereditarios, no se podrá exigir al tutor otra garantía que la de su misma porción hereditaria, a no ser que esta porción no iguale a la mitad de la porción del incapaz, pues en tal caso se integrará la garantía con bienes propios del tutor o con fianza.
+ART. 477.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 477.- Siendo varios los incapacitados cuyo haber consista en bienes procedentes de una herencia indivisa, si son varios los tutores, sólo se exigirá a cada uno de ellos garantía por la parte que corresponda a su representado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 478.- El tutor caucionará su manejo con hipoteca o prenda. Sólo en el caso de que carezca de bienes en qué constituirlos, podrá dar fianza.
+ART. 478.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 479.- Cuando los bienes que tenga no alcancen a cubrir la cantidad que ha de asegurar conforme al artículo siguiente, la garantía podrá consistir: parte en hipoteca o prenda, parte en fianza o solamente en fianza a juicio del juez.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 480.- La hipoteca o prenda, y en su caso, la fianza, se darán:
+ART. 479.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-I.- Por el importe de las rentas de los bienes raíces en los dos últimos años y por los réditos de los capitales impuestos durante ese mismo tiempo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- Por el valor de los bienes muebles;
+ART. 480.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-III.- Por el de los productos de las fincas rústicas en dos años, calculados por peritos o por el término medio en un quinquenio a elección del juez;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IV.- En las negociaciones mercantiles e industriales, por el veinte por ciento del importe de las mercancías y demás efectos muebles, calculado por los libros si están llevados en debida forma o a juicio de peritos.
+ART. 481.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 481.- Si los bienes del incapacitado enumerados en el artículo que precede, aumentan o disminuyen durante la tutela, podrán aumentarse o disminuirse la hipoteca, prenda o la fianza, a pedimento del tutor, del curador o del Ministerio Público.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 482.- El juez responde subsidiariamente con el tutor, de los daños y perjuicios que resulten al incapacitado por no haber exigido que se caucione (sic) el manejo de la tutela.
+ART. 482.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 483.- Si el tutor dentro de los tres meses después de haber aceptado su nombramiento no pudiere dar garantía por las cantidades que fija el artículo 480, se procederá al nombramiento de nuevo tutor.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 484.- Durante los tres meses señalados en el artículo precedente, desempeñará la administración de los bienes un tutor interino, quien la recibirá por inventario solemne y no podrá ejecutar otros actos que los indispensables para la conservación de los bienes y percepción de los productos.
+ART. 483.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-Para cualquier otro acto de administración requerirá la autorización judicial, la que se concederá si procede, oyendo al curador.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 485.- Al presentar el tutor su cuenta anual, el curador debe promover información de supervivencia e idoneidad de los fiadores dados por aquél. También podrá promover esta información siempre que lo estime conveniente. El Ministerio Público y aún el juez de oficio, pueden exigir esa información
+ART. 484.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 486.- Es también obligación del curador vigilar el estado de las fincas hipotecadas por el tutor o de los bienes entregados en prenda, dando aviso al juez de los deterioros y menoscabo que en ellos hubiere, para que si es notable la disminución del precio, se exija al tutor que asegure con otros bienes los intereses que administra.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 485.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 486.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO X. Del desempeño de la Tutela
 
-ART. 487.- El tutor que tenga que administrar bienes, no podrá entrar a la administración sin que antes se nombre curador, excepto en el caso del artículo 451.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 488.- El tutor que entre a la administración de los bienes sin que se haya nombrado curador, será responsable de los daños y perjuicios que cause al incapacitado y, además, separado de la tutela; más ningún extraño puede rehusarse a tratar con él judicial o extrajudicialmente alegando la falta de curador.
+ART. 487.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 489.- El tutor está obligado:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- A alimentar y educar al incapacitado;
+ART. 488.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- A destinar de preferencia los egresos del incapacitado a la curación de sus enfermedades o a su regeneración si es ebrio consuetudinario o abusa habitualmente de las drogas enervantes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- A formar inventario solemne y circunstanciado de cuanto constituya el patrimonio del incapacitado, dentro del término que el juez designe, con intervención del curador y del mismo incapacitado si goza de discernimiento y ha cumplido dieciséis años de edad. El término para formar el inventario no podrá ser mayor de seis meses;
+ART. 489.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-IV.- A administrar el caudal de los incapacitados. El pupilo será consultado para los actos importantes de la administración cuando sea capaz de discernimiento y mayor de dieciséis años; la administración de los bienes que el pupilo ha adquirido con su trabajo le corresponde a él y no al tutor;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-V.- A representar al incapacitado en juicio y fuera de él en todos los actos civiles con excepción del matrimonio, del reconocimiento de hijos, del testamento y de otros estrictamente personales;
+ART. 490.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-VI.- A solicitar oportunamente la autorización judicial para todo lo que legalmente no puede hacer sin ella.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 490.- Los gastos de alimentación y educación del menor deben regularse de manera que nada necesario le falte, según su condición y posibilidad económica.
+ART. 491.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 491.- Cuando el tutor entre en el ejercicio de su cargo, el juez fijará con audiencia de aquél, la cantidad que ha de invertir en los alimentos y educación del menor, sin perjuicio de alterarla, según el aumento o disminución del patrimonio y otras circunstancias. Por las mismas razones podrá el juez alterar la cantidad que el que nombró tutor hubiere señalado para dicho objeto.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 492.- El tutor destinará al menor a la carrera u oficio que éste elija según sus circunstancias. Si el tutor infringe esta disposición, puede el menor, por conducto del curador o por sí mismo, ponerlo en conocimiento del juez para que dicte las medidas convenientes.
+ART. 492.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 493.- Si el que tenía la patria potestad sobre el menor lo había dedicado a alguna carrera, el tutor no variará ésta, sin aprobación del juez, quien decidirá este punto prudentemente y oyendo en todo caso al mismo menor y al curador.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 494.- Si las rentas del menor no alcanzan a cubrir los gastos de su alimentación y educación, el juez decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de los bienes; y si fuere posible, sujetará a las rentas de éstos los gastos de alimentación.
+ART. 493.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 495.- Si los pupilos fuesen indigentes o carecieren de medios para los gastos que demanden su alimentación y educación, el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tienen la obligación legal de alimentar a los incapacitados. Las expensas que ésto origine, serán cubiertas por el deudor alimentario. Cuando el mismo tutor sea el obligado a dar alimentos por razón de su parentesco con el pupilo, el curador ejercitará la acción a que este artículo se refiere.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL ARTICULO 493, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO, P.O. 18 DE DICIEMBRE DE 2008.</small>
 
-ART. 496.- Si los pupilos indigentes no tienen personas que estén obligadas a alimentarlos o si, teniéndolas, no pudieren hacerlo, el tutor con autorización del juez, quien oirá el parecer del curador, pondrá al pupilo en un establecimiento de beneficencia pública o privada, en donde pueda educarse. Si ni eso fuere posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por ésto, el tutor queda eximido de su cargo, pues continuará vigilando al menor a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo deficiente de la educación que se le imparta.
+ART. 494.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 497.- El tutor de los incapacitados a que se refiere la fracción II del artículo 489, está obligado a presentar al juez, en el mes de enero de cada año, un certificado de dos facultativos que declaren acerca del estado del individuo sujeto a interdicción, a quien para ese efecto reconocerán en presencia del curador.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-El juez se cerciorará del estado que guarde el incapacitado y tomará todas las medidas que estime convenientes para mejorar su condición.
+ART. 495.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 498.- Para la seguridad, alivio y mejoría de las personas a que se refiere el artículo anterior, el tutor adoptará las medidas que juzgue oportunas, previa la autorización judicial que se otorgará con audiencia del curador.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Las medidas que fueren muy urgentes podrán ser ejecutadas por el tutor quien dará cuenta inmediatamente al juez para obtener la debida aprobación.
+ART. 496.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 499.- La obligación de hacer inventarios no puede ser dispensada ni aún por los que tienen derecho a nombrar tutor testamentario.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 500.- Mientras que el inventario no estuviere formado, la tutela debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado.
+ART. 497.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 501.- El tutor está obligado a inscribir en el inventario el crédito que tenga en contra del incapacitado; si no lo hace pierde el derecho de cobrarlo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Los bienes que el incapacitado adquiera después de la formación del inventario, se incluirán inmediatamente en él, con las mismas formalidades prescritas en la fracción III del artículo 489.
+ART. 498.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 502.- Hecho el inventario no se admite al tutor rendir prueba en contra de él en perjuicio del incapacitado, ni antes ni después de la mayoría de edad, ya sea que litigue en nombre propio o con la representación del incapacitado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Se exceptúan de lo dispuesto en el párrafo anterior, los casos en que el error del inventario sea evidente o cuando se trate de un derecho claramente establecido.
+ART. 499.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 503.- Si se hubiere omitido listar algunos bienes en el inventario, el menor mismo antes o después de la mayoría de edad, y el curador o cualquier pariente pueden ocurrir al juez, pidiendo que los bienes omitidos se listen; el juez oído el parecer del tutor determinará en justicia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 504.- El tutor, dentro del primer mes de ejercer su cargo, fijará con aprobación del juez, la cantidad que haya de invertirse en gastos de administración y el número y sueldos de los dependientes necesarios.
+ART. 500.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 505.- Lo dispuesto en el artículo anterior, no liberta al tutor de justificar, al rendir sus cuentas, que efectivamente han sido gastadas dichas sumas en sus respectivos objetos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 506.- Si el padre o la madre del menor ejercían algún comercio o industria, el juez, con el informe de dos peritos, decidirá si ha de continuar la negociación o no; a no ser que los padres hubieren dispuesto algo sobre este punto, en cuyo caso se respetará su voluntad, en cuanto no ofrezca grave inconveniente a juicio del juez.
+ART. 501.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 507.- El dinero que resulte sobrante después de cubiertos los gastos y atenciones de la tutela; el que proceda de las redenciones de capitales; y el que se adquiera de cualquier otro modo, será impuesto por el tutor, dentro de tres meses contados desde que se hubieren reunido dos mil pesos, sobre segura hipoteca calificada bajo su responsabilidad, teniendo en cuenta el precio de la finca, sus productos y la depreciación que pueda sobrevenir al realizarla.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 508.- Si para hacer la imposición dentro del término señalado en el artículo anterior, hubiere algún inconveniente grave, el tutor lo manifestará al juez, quien podrá ampliar el plazo por otros tres meses.
+ART. 502.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 509.- El tutor que no haga las imposiciones dentro de los plazos señalados en los dos artículos anteriores, pagará los réditos legales mientras que los capitales no sean impuestos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 510.- Mientras que se hacen las imposiciones a que se refieren los artículos 507 y 508, el tutor depositará las cantidades que perciba en el establecimiento público destinado al efecto.
+ART. 503.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 511.- Los bienes inmuebles, los derechos anexos a ellos y los muebles preciosos no pueden ser enajenados ni grabados por el tutor sino por causa de absoluta necesidad o evidente utilidad del menor, debidamente justificado y previas la conformidad del curador y la autorización judicial.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 512.- Cuando la enajenación se haya permitido para cubrir con su producto algún objeto determinado, el juez señalará al tutor un plazo dentro de cual deberá acreditar que el producto de la enajenación se ha invertido en su objeto. Mientras que no se haga la inversión se observará lo dispuesto en la parte final del artículo 397.
+ART. 504.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 513.- La venta de bienes raíces del menor es nula si no se hace en subasta pública y judicial. En la enajenación de alhajas y muebles preciosos, el juez decidirá si conviene o no la almoneda, pudiendo dispensarla acreditada la utilidad que resulte al menor; los tutores no podrán vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados pertenecientes al incapacitado, por menor valor del que se cotice en la plaza el día de la venta; ni dar fianzas a nombre de su pupilo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 514.- Cuando se trate de enajenar, gravar o hipotecar a título oneroso, bienes que pertenezcan al incapacitado como copropietario, se comenzará por mandar justipreciar dichos bienes para fijar con toda precisión su valor y la parte que en ellos representa el incapacitado, a fin de que el juez resuelva si conviene o no que se dividan materialmente dichos bienes para que aquél reciba en plena propiedad su porción; o si por el contrario, es conveniente la enajenación, gravamen o hipoteca, fijando en este caso, las condiciones y seguridades con que deban hacerse, pudiendo si lo estima conveniente dispensar la almoneda, siempre que consientan en ello el tutor y el curador.
+ART. 505.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 515.- Para todos los gastos extraordinarios que no sean de conservación y reparación, necesita el tutor ser autorizado por el juez.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 516.- Se requiere licencia judicial para que el tutor pueda transigir o comprometer en árbitros los negocios del incapacitado.
+ART. 506.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 517.- El nombramiento de árbitros hecho por el tutor, deberá sujetarse a la aprobación del juez.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 518.- Para que el tutor transija, cuando el objeto de reclamación consista en bienes inmuebles, muebles preciosos o bien, en valores mercantiles o industriales cuya cuantía exceda de mil pesos, necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
+ART. 507.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 519.- Ni con licencia judicial, ni en almoneda o fuera de ella puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno de ellos para sí, sus ascendientes, su mujer o marido, hijos o hermanos por consanguinidad o afinidad. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
+ART. 508.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 520.- Cesa la prohibición del artículo anterior, respecto de la venta de bienes, en caso de que el tutor o parientes allí mencionados sean coherederos, partícipes o socios del incapacitado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 521.- El tutor no podrá hacerse pago de sus créditos en contra del incapacitado sin la conformidad del curador y la aprobación judicial.
+ART. 509.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 522.- El tutor no puede aceptar para sí a título gratuito u oneroso, la cesión de algún derecho o crédito contra el incapacitado. Sólo puede adquirir esos derechos por herencia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 523.- El tutor no puede dar en arrendamiento los bienes del incapacitado por más de cinco años, sino en caso de necesidad o utilidad, previos el consentimiento del curador y la autorización judicial, observándose en su caso lo dispuesto en el artículo 514.
+ART. 510.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 524.- El arrendamiento hecho de conformidad con el artículo anterior, subsistirá por el tiempo convenido, aún cuando se acabe la tutela, pero será nula toda anticipación de renta o alquileres por más de dos años.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 525.- Sin autorización judicial no puede el tutor recibir dinero prestado en nombre del incapacitado ya sea de que se constituya o no hipoteca en el contrato.
+ART. 511.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 526.- El tutor no puede hacer donaciones a nombre del incapacitado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 527.- El tutor tiene respecto del menor, las mismas facultades que a los ascendientes concede el artículo 383.
+ART. 512.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 528.- Durante la tutela no corre la prescripción entre el tutor y el incapacitado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 529.- El tutor tiene obligación de admitir las donaciones simples, legados y herencias que se dejen al incapacitado.
+ART. 513.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 530.- La expropiación por causa de utilidad pública de bienes de incapacitados no se sujetará a las reglas antes establecidas, sino a lo que dispongan las leyes de la materia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+ART. 514.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 531.- Cuando el tutor de un incapaz sea el cónyuge, continuará ejerciendo los derechos conyugales con las siguientes modificaciones:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Es (sic) los casos en que conforme a derecho se requiera del consentimiento del cónyuge, se suplirá éste por el Juez con audiencia del curador.
+ART. 515.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- En los casos en que el cónyuge incapaz pueda querellarse del otro, denunciarlo o demasdarlo (sic) para asegurar sus deechos (sic) violados o amenazados, será representado por un tutor interino que el Juez le nombrará. Es obligación del curador promover este nombramiento y si no lo cumple, será responsable de los perjuicios que se causen al incapacitado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+ART. 516.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 532.- Cuando la tutela del incapaz recaiga en el cónyuge, sólo podrá gravar o enajenar los bienes mencionados en el artículo 518, previa audiencia del curador y autorizción (sic) judicial, que se concederá de acuerdo con lo dispuesto por el Artículo 511.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 533.- Cuando la tutela recaiga en cualquiera otra persona, se ejercerá conforme a las reglas establecidas para la tutela de los menores.
+ART. 517.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 534.- En caso de maltratamiento o negligencia en los cuidados debidos al incapacitado o de la mala administración de sus bienes, podrá el tutor ser removido de la tutela a petición del curador, o de los parientes del incapacitado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 535.- El tutor tiene derecho a una retribución sobre los bienes del incapacitado, que podrá fijar el ascendiente o extraño que conforme a derecho lo nombre en su testamento y para los tutores legítimos o dativos la fijará el juez.
+ART. 518.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 536.- En ningún caso bajará la retribución del cinco ni excederá del diez por ciento de las rentas líquidas de dichos bienes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 537.- Si los bienes del incapacitado tuvieren un aumento en sus productos debido exclusivamente a la industria o diligencia del tutor, tendrá derecho a que se le aumente la remuneración hasta un veinte por ciento de los productos líquidos. La calificación del aumento se hará por el juez, con audiencia del curador.
+ART. 519.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 538.- Para que pueda hacerse en la retribución de los tutores el aumento extraordinario que permite el artículo anterior, será requisito indispensable que, por lo menos, en dos años consecutivos haya obtenido el tutor la aprobación absoluta de sus cuentas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 539.- El tutor no tendrá derecho a remuneración alguna y restituirá la que por este título hubiere recibido, si contraviniere lo dispuesto en el artículo 143.
+ART. 520.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 521.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 522.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 523.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 524.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 525.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 526.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 527.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 528.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 529.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 530.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 531.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 532.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 533.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 534.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 535.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 536.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 537.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 538.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 539.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO XI. De las Cuentas de la Tutela
 
-ART. 540.- El tutor está obligado a rendir al juez cuenta detallada de su administración, en el mes de enero de cada año, sea cual fuere la fecha en que se le hubiere discernido el cargo. La falta de presentación de la cuenta en los tres meses siguientes al de enero, motivará la remoción del tutor.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 541.- También tiene obligación de rendir cuentas, cuando, por causas graves que calificará el juez, la exijan el curador o el mismo menor que haya cumplido dieciséis años de edad.
+ART. 540.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 542.- La cuenta de administración comprenderá no sólo las cantidades en numerario que hubiere recibido el tutor por producto de los bienes y la aplicación que les haya dado, sino en general todas las operaciones que se hubieren practicado, e irá acompañada de los documentos justificativos y de un balance del estado de los bienes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 543.- El tutor es responsable del valor de los créditos activos si dentro de sesenta días, contados desde el vencimiento de su plazo, no ha obtenido su pago o garantía que asegure éste, o no ha pedido judicialmente el uno o la otra.
+ART. 541.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 544.- Si el incapacitado no está en posesión de algunos bienes a que tiene derecho, será responsable el tutor de la pérdida de ellos, si dentro de dos meses contados desde que tuvo noticia del derecho del incapacitado, no entabla a nombre de éste judicialmente, las acciones conducentes para recobrarlos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 545.- Lo dispuesto en el artículo anterior, se entiende sin perjuicio de la responsabilidad que, después de intentadas las acciones, puede resultar al tutor por culpa o negligencia en el desempeño de su encargo.
+ART. 542.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 546.- Las cuentas deben rendirse en el lugar en que se desempeña la tutela.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 547.- Deben abonarse al tutor todos los gastos hechos debida y legalmente, aunque los haya anticipado de su propio caudal, y aunque de ellos no haya resultado utilidad al menor, si ésto ha sido sin culpa del primero.
+ART. 543.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 548.- Ninguna anticipación ni crédito contra el incapacitado se abonará al tutor, si excede de la mitad de la renta anual de los bienes de aquél, a menos que al efecto haya sido autorizado por el juez con audiencia del curador.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 549.- El tutor será igualmente indemnizado, según el prudente arbitrio del juez, del daño que haya sufrido por causa de la tutela y en desempeño necesario de ella, cuando no haya intervenido de su parte culpa o negligencia.
+ART. 544.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 550.- La obligación de dar cuenta no puede ser dispensada en contrato o última voluntad, ni aún por el mismo menor; y si esta dispensa se pusiere como condición en cualquier acto se tendrá por no puesta.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 551.- El tutor que sea reemplazado por otro, estará obligado, y lo mismo sus herederos, a rendir cuenta general de la tutela al que le reemplaza. El nuevo tutor responderá al incapacitado por los daños y perjuicios si no pidiere y tomare las cuentas de su antecesor.
+ART. 545.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 552.- El tutor, o en su falta quien lo represente, rendirá las cuentas generales de la tutela en el término de tres meses, contados desde el día en que fenezca la tutela. El juez podrá prorrogar este plazo hasta por tres meses más, si circunstancias extraordinarias así lo exigieren.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 553.- La obligación de dar cuenta pasa a los herederos del tutor; y si alguno de ellos sigue administrando los bienes de la tutela, su responsabilidad será la misma que la de aquél.
+ART. 546.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 554.- La garantía dada por el tutor no se cancelará, sino cuando las cuentas hayan sido aprobadas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 555.- Hasta pasado un mes de la rendición de cuentas, es nulo todo convenio entre el tutor y el pupilo, ya mayor o emancipado, relativo a la administración de la tutela o a las cuentas mismas.
+ART. 547.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 548.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 549.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 550.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 551.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 552.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 553.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 554.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 555.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO XII. De la Extinción de la Tutela
 
-ART. 556.- La tutela se extingue:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Por la muerte del pupilo o por que desaparezca su incapacidad;
+ART. 556.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- Cuando el incapacitado, sujeto a tutela entre a la patria potestad por reconocimiento o por adopción.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO XIII. De la Entrega de los Bienes
 
-ART. 557.- El tutor, concluida la tutela, está obligado a entregar todos los bienes del incapacitado y todos los documentos que le pertenezcan, conforme al balance que se hubiere presentado en la última cuenta aprobada.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 558.- La obligación de entregar los bienes no se suspende por estar pendiente la rendición de cuentas. La entrega debe ser hecha durante el mes siguiente a la terminación de la tutela; cuando los bienes sean muy cuantiosos o estuvieren ubicados en diversos lugares, el juez puede fijar un término prudente para su conclusión, pero, en todo caso, deberá comenzarse en el plazo antes señalado.
+ART. 557.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 559.- El tutor que entre al cargo sucediendo a otro, está obligado a exigir la entrega de bienes y cuentas al que le ha precedido. Si no la exige, es responsable de todos los daños y perjuicios que por su omisión se siguieren al incapacitado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 560.- La entrega de los bienes y la cuenta de la tutela se efectuarán a expensas del incapacitado. Si para realizarse no hubiere fondos disponibles, el juez podrá autorizar al tutor a fin de que se proporcionen los necesarios para la primera, y éste adelantará los relativos a la segunda, los cuales le serán reembolsados con los primeros fondos de que se pueda disponer.
+ART. 558.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 561.- Cuando intervenga dolo o culpa de parte del tutor, serán de su cuenta todos los gastos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 562.- El saldo que resulte en pro o en contra del tutor, producirá interés legal. En el primer caso correrá desde que previa entrega de los bienes se haga el requerimiento legal para el pago; y en el segundo, desde la rendición de cuentas, si hubiesen sido dadas dentro del término designado por la Ley; y si no, desde que expire el mismo término.
+ART. 559.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 563.- Cuando en la cuenta resulte alcance contra el tutor, aunque por un arreglo con el menor o sus representantes se otorguen plazos al responsable o a sus herederos para satisfacerlo, quedarán vivas las hipotecas u otras garantías dadas para la administración, hasta que se verifique el pago, a menos que se haya pactado expresamente lo contrario en el arreglo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 564.- Si la caución fuere de fianza, el convenio que conceda nuevos plazos al tutor, se hará saber al fiador; si éste consiente, permanecerá obligado hasta la solución; si no consiente, no habrá espera, y se podrá exigir el pago inmediato o la subrogación del fiador por otro igualmente idóneo que acepte el convenio.
+ART. 560.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 565.- Si no se hiciere saber el convenio al fiador, éste no permanecerá obligado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 566.- Todas las acciones por hechos relativos a la administración de la tutela, que el incapacitado pueda ejercitar contra su tutor, o contra los fiadores y garantes de éste, quedan extinguidas por el lapso de cuatro años, contados desde el día en que se cumpla la mayor edad, o desde el momento en que se hayan recibido los bienes y la cuenta de tutela, o desde que haya cesado la incapacidad en los demás casos previstos por la Ley.
+ART. 561.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART.- 567.- Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que se llegue a la mayor edad. Tratándose de los demás incapacitados, los términos se computarán desde que cese la incapacidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 562.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 563.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 564.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 565.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 566.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART.- 567.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO XIV. Del Curador
 
-ART. 568.- Todos los individuos sujetos a tutela, ya sea testamentaria, legítima o dativa, además del tutor, tendrán un curador, excepto en el caso de tutela a que se refiere el artículo 451.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 569.- En todo caso en que se nombre al menor un tutor interino, se le nombrará curador con el mismo carácter, si no lo tuviere definitivo, o si teniéndolo se halla impedido.
+ART. 568.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 570.- También se nombrará un curador interino en el caso de oposición de intereses a que se refiere el artículo 417.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 571.- Igualmente se nombrará curador interino en los casos de impedimento, separación o excusa del nombrado, mientras se decide el punto; luego que se decida se nombrará nuevo curador conforme a derecho.
+ART. 569.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 572.- Lo dispuesto sobre impedimentos o excusas de los tutores regirá igualmente respecto de los curadores.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 573.- Los que tienen derecho a nombrar tutor, lo tienen también de nombrar curador.
+ART. 570.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 574.- Designarán por sí mismos al curador, con aprobación judicial:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Los comprendidos en el artículo 455, observándose lo que allí se dispone respecto de esos nombramientos;
+ART. 571.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- Los menores de edad emancipados, en el caso previsto en la fracción III del artículo 589.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 575.- El curador de todos los demás individuos sujetos a tutela será nombrado por el juez.
+ART. 572.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 576.- El curador está obligado:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- A defender los derechos del incapacitado en juicio o fuera de él, exclusivamente en el caso de que estén en oposición con los del tutor;
+ART. 573.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-II.- A vigilar la conducta del tutor y a poner en conocimiento del juez todo aquéllo que considere que puede ser dañoso al incapacitado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- A dar aviso al juez para que se haga el nombramiento de tutor, cuando éste faltare o abandonare la tutela;
+ART. 574.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-IV.- A cumplir las demás obligaciones que la Ley le señale.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 577.- El curador que no llene los deberes prescritos en el artículo precedente, será responsable de los daños y perjuicios que resultaren al incapacitado.
+ART. 575.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 578.- Las funciones del curador cesarán cuando el incapacitado salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en la curaduría.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 579.- El curador tiene derecho de ser relevado de la curaduría, pasados diez años desde que se encargó de ella.
+ART. 576.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 580.- En los casos en que conforme a este Código, tenga que intervenir el curador, cobrará el honorario que señala el arancel a los procuradores, sin que por ningún otro motivo pueda pretender mayor retribución. Si hiciere algunos gastos en el desempeño de su cargo, se le pagarán.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 577.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 578.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 579.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 580.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO XV. Del Estado de Interdicción
 
-ART. 581.- Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados, sin autorización del tutor, salvo lo dispuesto en la fracción IV del artículo 489.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 582.- Son también nulos los actos de administración y los contratos celebrados por los menores emancipados, si son contrarios a las restricciones establecidas por el artículo 589.
+ART. 581.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 583.- La nulidad a que se refieren los artículos anteriores, sólo puede ser alegada, sea como acción, sea como excepción, por el mismo incapacitado o por sus legítimos representantes; pero no por las personas con quienes contrató, ni por los fiadores que se hayan dado al constituirse la obligación, ni por los mancomunados en ella.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 584.- La acción para pedir la nulidad, prescribe en los términos en que prescriben las acciones personales o reales, según la naturaleza del acto cuya nulidad se pretende.
+ART. 582.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 585.- Los menores de edad no pueden alegar la nulidad de que hablan los artículos 581 y 582, en las obligaciones que hubieren contraído sobre materias propias de la profesión o arte en que sean peritos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 586.- Tampoco pueden alegarla los menores, si han presentado certificados falsos del registro civil, para hacerse pasar como mayores o han manifestado dolosamente que lo eran.
+ART. 583.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-## TITULO DECIMO. De la Emancipación y la Mayor Edad
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 584.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 585.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 586.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+## TITULO DECIMO. De la Mayoría de Edad
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO I. De la Emancipación
 
-ART. 587.- El matrimonio del menor produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 587.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ART. 588.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 589.- El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad:
+ART. 589.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-I.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- De un tutor para los negocios judiciales.
-
-ART. 590.- Hecha la emancipación, no puede ser revocada.
+ART. 590.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ART. 591.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
@@ -2795,17 +2921,37 @@ ART. 592.- La mayor edad comienza a los dieciocho años cumplidos.
 
 ART. 593.- El mayor de edad dispone libremente de su persona y de sus bienes.
 
-## TITULO UNDECIMO. De los Ausentes e Ignorados
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+## TITULO UNDECIMO. Ausentes e Ignorados
 
 ### CAPITULO I. De las medidas Provisionales en caso de Ausencia
 
-ART. 594.- El que se hubiere ausentado del lugar de su residencia ordinaria y tuviere apoderado constituido antes o después de su partida, se tendrá como presente para todos los efectos civiles, y sus negocios se podrán tratar con el apoderado hasta donde alcance el poder.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 595.- Cuando una persona haya desaparecido y se ignore el lugar donde se halle y quien la represente, el juez, a petición de parte o de oficio, nombrará un depositario de sus bienes, la citará por edictos publicados en los principales periódicos de su último domicilio, señalándose para que se presente un término que no bajará de tres meses ni pasará de seis y dictará las providencias necesarias para asegurar los bienes.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 594.- La persona que se hubiere ausentado del lugar de su residencia ordinaria y tuviere apoderado, constituido antes o después de su partida, se tendrá como presente para todos los efectos civiles, y sus negocios se podrán tratar con el apoderado hasta donde alcance el poder.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 594 BIS.- Se entiende por ausencia, la situación de una persona que ha abandonado su lugar de residencia ordinaria y se ignore el lugar donde se encuentra, no teniéndose noticias ciertas de su vida y su muerte.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 595.- Cuando una persona haya desaparecido y se ignore el lugar donde se encuentra, la autoridad judicial, previa investigación, a través de la autoridad competente, a petición de parte o de oficio, nombrará un depositario de sus bienes, la citará por edictos publicados en los principales periódicos de su último domicilio y uno de circulación nacional, señalándose para que se presente un término, que no bajará de tres meses, ni pasará de seis, y dictará las providencias necesarias para asegurar los bienes.
 
 ART. 596.- Al publicarse los edictos remitirá copia a los cónsules mexicanos de aquellos lugares del extranjero en que se pueda presumir que se encuentra ausente o que se tengan noticias de él.
 
-ART. 597.- Si el ausente tiene hijos menores que estén bajo su patria potestad, y no hay ascendiente que deba ejercerla conforme a la Ley ni tutor testamentario ni legítimo, el Ministerio Público pedirá que se nombre tutor en los términos prevenidos en el artículo 455.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 597.- Si la persona ausente tiene hijas o hijos menores que estén bajo su patria potestad, y no hay ascendiente que deba ejercerla conforme a la ley, ni tutoría testamentaria, ni legítima, pactada o autoasignada, el Ministerio Público pedirá que se nombre una persona tutora en los términos previstos en el articulo 388 del Código Familiar del Estado.
 
 ART. 598.- Las obligaciones y facultades del depositario serán las que la Ley asigna a los depositarios judiciales.
 
@@ -2813,51 +2959,127 @@ ART. 599.- Se nombrará depositario:
 
 I.- Al cónyuge del ausente;
 
-II.- A uno de los hijos mayores de edad que resida en el lugar. Si hubiere varios el juez elegirá al más apto;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+II.- A una hija o un hijo mayores de edad que resida en el lugar. Si hubiere varios, la autoridad judicial elegirá a la o el más apto;
 
 III.- Al ascendiente más próximo en grado al ausente;
 
-IV.- A falta de los anteriores o cuando sea inconveniente que éstos por su notoria mala conducta o por su ineptitud, sean nombrados depositarios, el juez nombrará al heredero presuntivo y si hubiere varios se observará, lo que dispone el artículo 605.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 600.- Si cumplido el término del nombramiento el citado no compareciere por sí, ni por apoderado legítimo, ni por medio de tutor o de pariente que pueda representarlo, se procederá al nombramiento de representante.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-ART. 601.- Lo mismo se hará cuando en iguales circunstancias caduque el poder conferido por el ausente o sea insuficiente para el caso.
+IV.- A falta de los anteriores, o cuando sea inconveniente que éstos por su notoria mala conducta o por su ineptitud, sean nombrados depositarios, la autoridad judicial nombrará a la o el heredero presuntivo y, si hubiere varios, se observará lo que dispone el articulo 605 de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 600.- Si cumplido el término del nombramiento, la persona a quien se cite por sí, ni por apoderado legítimo, ni por medio de persona tutora o de pariente que pueda representarlo, se procederá al nombramiento de representante.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 601.- Lo mismo se hará cuando en iguales circunstancias caduque el poder conferido por la persona quien esté ausente o sea insuficiente para el caso.
 
 ART. 602.- Tienen acción para pedir el nombramiento de depositario o de representante, el Ministerio Público, o cualquiera a quien interese tratar o litigar con el ausente o defender los intereses de éste.
 
-ART. 603.- En el nombramiento de representante se seguirá el orden establecido en el artículo 599.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 604.- Si el cónyuge ausente fuere casado en segundas o ulteriores nupcias, y hubiere hijos del matrimonio o matrimonios anteriores, el juez dispondrá que el cónyuge presente y los hijos del matrimonio o matrimonios anteriores, o sus legítimos representantes, en su caso, nombren de acuerdo el depositario, más si no estuvieren conformes, el juez le nombrará libremente, de entre las personas designadas por el artículo anterior.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-ART. 605.- A falta de cónyuge, de ascendientes y descendientes, será representante el heredero presuntivo. Si hubiere varios con igual derecho, ellos mismos elegirán el que deba de representarlo. Si no se ponen de acuerdo en la elección, lo hará el juez, prefiriendo al que tenga más interés en la conservación de los bienes del ausente.
+ART. 603.- En el nombramiento de representante se atenderá a lo dispuesto en el artículo 599 de este Código.
 
-ART. 606.- El representante del ausente es el legítimo administrador de los bienes de éste y tiene respecto de ellos, las mismas obligaciones, facultades y restricciones que los tutores.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 604.- Si la o el cónyuge ausente fuera casado en segundas o ulteriores nupcias y hubiere hijas o hijos del matrimonio o matrimonios anteriores, la autoridad judicial odenará que el cónyuge presente y las hijas o hijos del matrimonio o matrimonios anteriores, o sus legítimos representantes, en su caso, nombren de común acuerdo el depositario, más si no estuvieren conformes, la autoridad judicial le nombrará libremente de entre las personas designadas por el artículo anterior.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 605.- A falta de cónyuge, de ascendientes y descendientes, será representante el heredero presuntivo. Si hubiere varios con igual derecho, ellos mismos elegirán el que deba de representarlos. Si no se ponen de acuerdo en la elección, lo hará la autoridad judicial, prefiriendo al que tenga más interés en la conservación de los bienes del ausente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRIMER PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 606.- El represente a la persona ausente es el legítimo administrador de los bienes de ésta y tiene respecto de ellas o ellos, las mismas obligaciones, facultades y restricciones que las personas tutoras.
 
 No entrará a la administración de los bienes sin que previamente forme inventario y avalúo de ellos, y si dentro del término de un mes no presta la caución correspondiente, se nombrará otro representante.
 
-ART. 607.- El representante del ausente disfrutará la misma retribución que a los tutores señalan los artículos 535, 536 y 537.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 608.- No pueden ser representantes de un ausente, los que no puedan ser tutores.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-ART. 609.- Pueden excusarse los que puedan hacerlo de la tutela.
+ART. 607.- Quien represente al ausente disfrutará la misma retribución que para las personas tutoras que señalan los artículos, 362, 363 y 364 del Código Familiar para el Estado.
 
-ART. 610.- Será removido del cargo de representante el que deba serlo del de tutor.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 611.- El cargo de representante acaba:
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-I.- Con el regreso del ausente;
+ART. 608.- No pueden ser representantes de un ausente, las personas que no puedan ser tutoras.
 
-II.- Con la presentación del apoderado legítimo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- Con la muerte del ausente;
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 609.- Pueden excusarse las personas que sí puedan ejercer la tutela.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 610.- Será removido del cargo de representante el que deba serlo del de la persona tutora.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRIMER PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 611.- El cargo de representante termina:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+I.- Con el regreso de la persona ausente;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+II.- Con la presentación de la persona apoderada legítima;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+III.- Con la muerte de la persona ausente, y
 
 IV.- Con la posesión provisional.
 
-ART. 612.- Cada año, en el día que corresponda a aquél en que hubiere sido nombrado el representante, se publicarán nuevos edictos llamando al ausente. En ellos constará el nombre y domicilio del representante, y el tiempo que falte para que se cumpla el plazo que señalan los artículos 615 y 616, en su caso.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 613.- Los edictos se publicarán por dos meses con intervalo de quince días en los principales periódicos del último domicilio del ausente, y se remitirán a los cónsules, como previene el artículo 596.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-ART. 614.- El representante está obligado a promover la publicación de los edictos. La falta de cumplimiento de esa obligación hace responsable al representante de los daños y perjuicios que se sigan al ausente y es causa legítima de remoción.
+ART. 612.- Cada año, en el día que corresponda a aquél en que hubiere sido nombrado la persona representante, se publicarán nuevos edictos llamando a la persona ausente. En ellos constará el nombre y domicilio del representante y el tiempo que falte para que se cumpla el plazo que señalan los artículos 615 y 616 de este Código, en su caso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 613.- Los edictos se publicarán por dos meses con intervalo de quince días en los principales periódicos y, en uno de circulación nacional del último domicilio del ausente, y se remitirán a los cónsules, como previene el artículo 595 de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 614.- La persona representante está obligada a promover la publicación de los edictos. La falta de cumplimiento de esa obligación hace responsable de los daños y perjuicios que se sigan al ausente y es causa legítima de remoción.
 
 ### CAPITULO II. De la Declaración de Ausencia
 
@@ -2867,57 +3089,129 @@ ART. 616.- En caso de que el ausente haya dejado o nombrado apoderado general pa
 
 ART. 617.- Lo dispuesto en el artículo anterior se observará aún cuando el poder se haya conferido por más de tres años.
 
-ART. 618.- Pasados dos años que se contarán del modo establecido en el artículo 616, el Ministerio Público y las personas que designa el artículo siguiente, pueden pedir que el apoderado garantice en los mismos términos en que debe hacerlo el representante. Si no lo hiciere se nombrará representante de acuerdo con lo dispuesto en los artículos 603, 604 y 605.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 618.- Pasados dos años, que se contarán del modo establecido en el artículo 616 de este Código, el Ministerio Público y las personas que designa el artículo siguiente, pueden pedir que el apoderado garantice en los mismos términos en que debe hacerlo el representante. Si no lo hiciere se nombrará representante de acuerdo con lo dispuesto en los artículos 603, 604 y 605 de este Código.
 
 ART. 619.- Pueden pedir la declaración de ausencia:
 
-I.- Los presuntos herederos legítimos del ausente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- Los herederos instituidos en testamento abierto;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-III.- Los que tengan algún derecho u obligación que dependa de la vida, muerte o presencia del ausente;
+I. Las personas presuntas herederas legítimas del ausente;
 
-IV.- El Ministerio Público.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 620.- Si el juez encuentra fundada la demanda dispondrá que se publique durante tres meses con intervalos de quince días, en el Periódico Oficial que corresponda, y en los principales del último domicilio del ausente y lo remitirá a los cónsules conforme al artículo 596.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-ART. 621.- Pasados cuatro meses desde la fecha de la última publicación sin que hubiere noticias del ausente ni oposición de algún interesado, el juez declarará en forma la ausencia.
+II. Las personas instituidas en testamento abierto;
 
-ART. 622.- Si hubiere algunas noticias u oposición, el juez no declarará la ausencia sin repetir las publicaciones que establece el artículo 620, y hará la averiguación por los medios que el oponente proponga, y por los que el mismo juez crea oportunos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 623.- La declaración de ausencia se publicará tres veces en los periódicos mencionados con intervalo de quince días, remitiéndose a los cónsules como está prevenido respecto de los edictos. Ambas publicaciones se repetirán cada dos años, hasta que se declare la presunción de muerte.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+III. Las personas que tengan algún derecho u obligación que dependa de la vida, muerte o presencia del ausente, y
+
+IV. El Ministerio Público.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 620.- Si la autoridad judicial encuentra fundada la demanda dispondrá que se publique durante tres meses con intervalos de quince días, en el Periódico Oficial, y en los principales y, en uno de circulación nacional, del último domicilio del ausente, y lo remitirá a los cónsules conforme al artículo 595 de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 621.- Transcurridos cuatro meses desde la fecha de la última publicación, sin que hubiere noticias de la persona ausente, ni oposición de algún interesado, la autoridad judicial declarará en forma la ausencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 622.- Si hubiere algunas noticias de la persona ausente u oposición de la autoridad judicial, y no se declarara la ausencia sin repetir las publicaciones que establece el artículo 620 de este Código, se hará la averiguación por los medios que el oponente proponga, y por los que la autoridad judicial crea oportunos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 623.- La declaración de ausencia se publicará tres veces en los periódicos mencionados, con intervalo de quince días, remitiéndose a los cónsules como está previsto respecto de los edictos. Ambas publicaciones se repetirán cada año, hasta que se declare la presunción de muerte.
 
 ART. 624.- El fallo que se pronuncie en el juicio de declaración de ausencia, tendrá los recursos que el Código de Procedimientos asigne para los negocios de mayor interés.
 
 ### CAPITULO III. De los efectos de la Declaración de Ausencia
 
-ART. 625.- Declarada la ausencia, si hubiere testamento público u ológrafo, la persona en cuyo poder se encuentre lo presentará al juez, dentro de quince días contados desde la última publicación de que habla el artículo 623.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 626.- El juez, de oficio o a instancia de cualquiera que se crea interesado en el testamento ológrafo, abrirá éste en presencia del representante del ausente, con citación de los que promovieron la declaración de ausencia y con las demás solemnidades prescritas para la apertura de esta clase de testamentos.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 625.- Declarada la ausencia, si hubiere testamento público u ológrafo, la persona en cuyo poder se encuentre, lo presentará ante la autoridad judicial dentro de los quince días, contados desde la última publicación de que habla el artículo 623 de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 626.- La autoridad judicial, de oficio, o a instancia de cualquiera que se crea interesado en el testamento ológrafo, abrirá éste en presencia del representante del ausente, con citación de los que promovieron la declaración de ausencia y con las demás solemnidades prescritas para la apertura de esa clase de testamentos.
 
 ART. 627.- Los herederos testamentarios, y en su defecto los que fueren legítimos al tiempo de la desaparición del ausente, o al tiempo en que se hayan recibido las últimas noticias, si tienen capacidad legal para administrar, serán puestos en posesión provisional de los bienes, dando fianza que asegure los resultados de la administración. Si estuvieren bajo la patria potestad o tutela, se procederá conforme a derecho.
 
 ART. 628.- Si son varios los herederos y los bienes admiten cómoda división, cada uno administrará la parte que le corresponda.
 
-ART. 629.- Si los bienes no admiten cómoda división, los herederos elegirán de entre ellos mismos un administrador general, y si no se pusieren de acuerdo, el juez lo nombrará, escogiéndolo de entre los mismos herederos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 630.- Si una parte de los bienes fuere cómodamente divisible y otra no, respecto de ésta se nombrará el administrador general.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-ART. 631.- Los herederos que no administren, podrán nombrar un interventor que tendrá las facultades y obligaciones señaladas a los curadores.
+ART. 629.- Si los bienes no admiten cómoda división, los herederos elegirán de entre ellas o ellos mismos un administrador general y, si no se pusieren de acuerdo, la autoridad judicial nombrará una persona de entre las o los herederos.
 
-Su honorario será el que le fijen los que lo nombren y se pagará por éstos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 632.- El que entre en la posesión provisional, tendrá respecto de los bienes, las mismas obligaciones, facultades y restricciones que los tutores.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-ART. 633.- En el caso del artículo 628, cada heredero dará la garantía que corresponda a la parte de bienes que administre.
+ART. 630.- Si una parte de los bienes fuere cómodamente divisible y otra no, respecto de ésta se nombrará a la persona que los administre de forma general.
 
-ART. 634.- En el caso del artículo 629, el administrador general será quien dé la garantía legal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 635.- Los legatarios, los donatarios y todos los que tengan sobre los bienes del ausente derechos que dependan de la muerte o presencia de éste, podrán ejercitarlos, dando la garantía que corresponda, según el artículo 480.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 631.- Las o los herederos que no administren, podrán nombrar un interventor que tendrá las facultades y obligaciones señaladas a quienes ejerzan la curatela.
+
+Su honorario será el que le fijen los que lo nombren y será pagado por éstos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 632.- Quien entre en posesión provisional tendrá respecto de los bienes, las mismas obligaciones, facultades y restricciones que las personas tutores.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 633.- En el caso del artículo 628 de este Código, cada heredero dará la garantía que corresponda a la parte de bienes que administre.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 634.- En el caso del artículo 629 de este Código, la persona que ejerza funciones de administrador.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 635.- Las o los legatarios, los donatarios y todos los que tengan sobre los bienes del ausente, derechos que dependan de la muerte o presencia de éste, podrán ejercitarlos dando la garantía que corresponda, según el artículo 412 del Código Familiar para el Estado.
 
 ART. 636.- Los que tengan con relación al ausente, obligaciones que deban cesar a la muerte de éste, podrán también suspender su cumplimiento bajo la misma garantía.
 
-ART. 637.- Si no pudiere darse la garantía prevenida en los cinco artículos anteriores, el juez, según las circunstancias de las personas y de los bienes, y concediendo el plazo fijado en el artículo 483, podrá disminuir el importe de aquélla, pero de modo que no baje de la tercia parte de los valores señalados en el artículo 480.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 637.- Si no pudiere darse la garantía prevista en los cinco artículos anteriores, la autoridad judicial, según las circunstancias de las personas y de los bienes y, concediendo el plazo fijado en el artículo 415 del Código Familiar para el Estado, podrá disminuir el importe de aquélla, pero de modo que no baje de la tercia parte de los valores señalados en el artículo 412 del Código referido.
 
 ART. 638.- Mientras no se dé la expresada garantía, no cesará la administración del representante.
 
@@ -2925,21 +3219,45 @@ ART. 639.- No están obligados a dar garantía:
 
 I.- El cónyuge, los descendientes y los ascendientes que como herederos entren en la posesión de los bienes del ausente por la parte que en ellos les corresponda;
 
-II.- El ascendiente que en ejercicio de la patria potestad, administre bienes que como herederos del ausente correspondan a sus descendientes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Si hubiere legatarios, el cónyuge, los descendientes y ascendientes darán la garantía legal por la parte de bienes que corresponda a los legatarios, si no hubiere división, ni administrador general.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-ART. 640.- Los que entren en la posesión provisional tienen derecho de pedir cuentas al representante del ausente y éste entregará los bienes y dará las cuentas en los términos prevenidos en los Capítulos IX y XIII del Título Noveno de este libro.
+II.- La persona ascendiente que, en ejercicio de la patria potestad, administre bienes que como herederos del ausente correspondan a sus descendientes.
 
-El plazo señalado en el artículo 552, se contará desde el día en que el heredero haya sido declarado con derecho a la referida posesión.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+Si hubiere legatarios, el cónyuge, los descendientes y ascendientes darán la garantía legal por la parte de bienes que corresponda a los legatarios, si no hubiere división, ni persona que funja como administrador general.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 640.- Quienes entren en la posesión provisional, tienen derecho de pedir cuentas al representante del ausente y éste entregará los bienes y dará las cuentas en los términos de los capítulos XII y XIV del Título Décimo del Código Familiar para el Estado.
+
+El plazo señalado en el artículo 431 del Código Familiar para el Estado, se contará desde el día en que el heredero haya sido declarado con derecho a la referida posesión.
 
 ART. 641.- Si hecha la declaración de ausencia no se presentaren herederos del ausente, el Ministerio Público pedirá, o la continuación del representante o la elección de otro que en nombre de la hacienda pública, entre en la posesión provisional, conforme a los artículos que anteceden.
 
-ART. 642.- Muerto el que haya obtenido la posesión provisional le sucederán sus herederos en la parte que le haya correspondido, bajo las mismas condiciones y con iguales garantías.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 643.- Si el ausente se presenta o se prueba su existencia antes de que sea declarada la presunción de muerte, recobrará sus bienes. Los que han tenido la posesión provisional, hacen suyos todos los frutos, ya sea industriales, naturales o civiles.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO IV. De la Administración de los Bienes del Ausente Casado
+ART. 642.- Muerta la persona que haya obtenido la posesión provisional, le sucederán sus herederas o herederos en la parte que le haya correspondido, bajo las mismas condiciones y con iguales garantías.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 643.- Si la persona ausente se presenta o se prueba su existencia antes de que sea declarada la presunción de muerte, recobrará sus bienes. Los que han tenido la posesión provisional, hacen suyos todos los frutos, ya sea industriales, naturales o civiles.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO IV. De la Administración de los Bienes del Ausente
 
 ART. 644.- La declaración de ausencia interrumpe la sociedad conyugal, a menos de que en las capitulaciones matrimoniales se haya estipulado que continúe.
 
@@ -2949,7 +3267,11 @@ ART. 646.- El cónyuge presente recibirá desde luego los bienes que le correspo
 
 ART. 647.- Los bienes del ausente se entregarán a sus herederos en los términos prevenidos en el capítulo anterior.
 
-ART. 648.- En el caso previsto en el artículo 643, si el cónyuge presente entrare como heredero en la posesión provisional, se observará lo que ese artículo dispone.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 648.- En el caso previsto en el artículo 643 de este Código, si el cónyuge presente entrare como heredera o heredero en la posesión provisional, se observará lo que ese artículo dispone.
 
 ART. 649.- Si el cónyuge presente no fuere heredero, ni tuviere bienes propios, tendrá derecho a alimentos.
 
@@ -2957,227 +3279,227 @@ ART. 650.- Si el cónyuge ausente regresa o se probare su existencia, quedará r
 
 ### CAPITULO V. De la Presunción de Muerte del Ausente
 
-ART. 651.- Cuando hayan transcurrido seis años desde la declaración de ausencia, el juez, a instancias de parte interesada, declarará la presunción de muerte.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufraga o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que hayan transcurrido dos años contados desde su desaparición para que pueda hacerse la declaración de presunción de muerte, sin que en ese caso sea necesario que previamente se declare su ausencia; pero si se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-ART. 652.- Declarada la presunción de muerte, se abrirá el testamento del ausente, si no estuviere ya publicado conforme al artículo 626; los poseedores provisionales darán cuenta de su administración en los términos prevenidos en el artículo 640, y los herederos y demás interesados entrarán en posesión definitiva de los bienes sin garantía alguna. La que según la Ley se hubieren dado, quedará cancelada.
+ART. 651.- Cuando hayan transcurrido tres años desde la declaración de ausencia, la autoridad judicial, a instancias de parte interesada, declarará la presunción de muerte.
 
-ART. 653.- Si se llega a probar la muerte del ausente, la herencia se defiere a los que debieran heredar al tiempo de ella; pero el poseedor o poseedores de los bienes hereditarios a la época de la posesión provisional, de acuerdo con lo dispuesto en el artículo 643, y todos ellos, desde que obtuvieron la posesión definitiva.
+Respecto de las personas que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que haya naufragado, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que hayan transcurrido dos años, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en ese caso sea necesario que previamente se declare su ausencia; pero sí se tomarán las medidas provisionales autorizadas por el Capítulo I de este Titulo.
 
-ART. 654.- Si el ausente se presentare o se probare su existencia después de otorgada la posesión definitiva, recobrará sus bienes en el estado en que se hallen, el precio de los enajenados o los que se hubieren adquirido con el mismo precio, siempre que no hubieren transcurrido diez años después de declarada la presunción de muerte.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 652.- Declarada la presunción de muerte, se abrirá el testamento de la persona ausente, si no estuviere ya publicado conforme al artículo 626 de este Código; los poseedores provisionales darán cuenta de su administración en los términos previstos en el artículo 640 de este Código y, las o los herederos y demás interesados, entrarán en posesión definitiva de los bienes sin garantía alguna. La que según la ley se hubieren dado, quedará cancelada.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 653.- Si se llega a probar la muerte de la persona ausente, la herencia pasará a los que debieran heredar al tiempo de ella; pero la o el poseedor o poseedores de los bienes hereditarios a la época de la posesión provisional, de acuerdo con lo dispuesto en el artículo 643 de este Código, y todos ellos, desde que obtuvieron la posesión definitiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 654.- Si la persona ausente se presentare o se probare su existencia después de otorgada la posesión definitiva, recobrará sus bienes en el estado en que se hallen, el precio de los bienes enajenados o los que se hubieren adquirido con el mismo precio, siempre que no hubieren transcurrido diez años después de declarada la presunción de muerte.
 
 ART. 655.- Cuando hecha la declaración de ausencia o la presunción de muerte de una persona, se hubieren aplicado sus bienes a los que por testamento o sin él se tuvieren por herederos, y después se presentaren otros pretendiendo que ellos deben ser preferidos en la herencia y así se declara por sentencia que cause ejecutoria, la entrega de los bienes se hará a éstos en los mismos términos en que debiera hacerse para el ausente si se presentare.
 
-ART. 656.- Los poseedores definitivos darán cuenta al ausente y a sus herederos. El plazo legal correrá desde el día en que el primero se presente por sí o por apoderado legítimo o desde aquél en que por sentencia que cause ejecutoria se haya deferido la herencia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 656.- Las o los poseedores definitivos darán cuenta al ausente y a sus herederos. El plazo legal correrá desde el día en que el primero se presente por sí o por apoderado legítimo, o desde aquél en que por sentencia que cause ejecutoria, se haya aceptada la herencia.
 
 ART. 657.- La posesión definitiva termina:
 
-I.- Con el regreso del ausente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+I.- Con el regreso de la persona ausente;
 
 II.- Con la noticia cierta de su existencia;
 
 III.- Con la certidumbre de su muerte;
 
-IV.- Con la sentencia que cause ejecutoria en el caso del artículo 655;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+IV.- Con la sentencia que cause ejecutoria en el caso del artículo 655 de este Código, y
 
 V.- Con el transcurso de diez años después de la declaración de presunción de muerte.
 
-ART. 658.- La sentencia que declare la presunción de muerte de un ausente casado, pone término a la sociedad conyugal, pero no disuelve el vínculo del matrimonio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 659.- En el caso previsto por el artículo 649, el cónyuge sólo tendrá derecho a los alimentos.
+ART. 658.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 660.- Transcurridos diez años de la declaración de presunción de muerte del ausente, sin que éste hubiere regresado, o se tuviere noticias cierta de su existencia, quedará disuelto el vínculo del matrimonio, con la sola formalidad de que el cónyuge presente ocurra al juez de su domicilio pidiendo que se haga la declaratoria correspondiente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 661.- Después de diez años de declarada la presunción de muerte, el ausente que regrese o de cuya existencia se tenga noticia cierta, no podrá recobrar sus bienes sino sólo tendrá derecho a alimentos o a participar en la mitad de los frutos, a su elección.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 659.- En el caso previsto por el artículo 649 de este Código, el cónyuge sólo tendrá derecho a los alimentos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 660.- Transcurridos cinco años de la declaración de presunción de muerte de la persona ausente, sin que ésta hubiere regresado o se tuviere noticia cierta de su existencia, quedará disuelto el vínculo del matrimonio, con la sola formalidad de que la o el cónyuge presente, ocurra ante la autoridad judicial de su domicilio, pidiendo que se haga la declaratoria correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 661.- Después de diez años de declarada la presunción de muerte, la persona ausente que regrese o de cuya existencia se tenga noticia cierta, no podrá recobrar sus bienes sino sólo tendrá derecho a alimentos o a participar en la mitad de los frutos, a su elección.
 
 ### CAPITULO VI. De los efectos de la Ausencia respecto de los derechos eventuales del ausente
 
 ART. 662.- Cualquiera que reclame un derecho referente a una persona cuya existencia no esté reconocida, deberá probar que esta persona vivía en el tiempo en que era necesaria su existencia para adquirir aquel derecho.
 
-ART. 663.- Si se defiere una herencia a la que se ha llamado un individuo declarado ausente o respecto del cual se haya hecho la declaración de presunción de muerte, entrarán sólo en ella los que debían ser coherederos de aquél o suceder por su falta; pero deberán hacer inventario en forma de los bienes que reciban.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 664.- En este caso, los coherederos o sucesores se considerarán como poseedores provisionales o definitivos de los bienes que por la herencia debían corresponder al ausente, según la época en que la herencia se defiere.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 663.- Si se defiere una herencia a la que se ha llamado a una persona declarada ausente o respecto del cual se haya hecho la declaración de presunción de muerte, entrarán sólo en ella los que debían ser coherederos de aquélla o suceder por su falta; pero deberán hacer inventario en forma de los bienes que reciban.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 664.- En este caso, las personas coherederas o sucesoras se consideran como poseedoras provisionales o definitivas de los bienes que por la herencia debían corresponder a la persona ausente, según la época en que la herencia se defiere.
 
 ART. 665.- Lo dispuesto en los dos artículos anteriores, debe entenderse sin perjuicio de las acciones de petición de herencia y de otros derechos que podrán ejercitar el ausente, sus representantes, acreedores o legatarios y que no se extinguirán sino por el transcurso del tiempo fijado para la prescripción.
 
-ART. 666.- Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena fe mientras el ausente no comparezca, y sus acciones no sean ejercitadas por su representante, o por los que, por contrato o cualquiera otra causa tenga con él relaciones jurídicas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 666.- Quienes hayan entrado en la herencia harán suyos los frutos percibidos de buena fe mientras la persona ausente no comparezca, y sus acciones no sean ejercitadas por su representante, o por los que, por contrato o cualquiera otra causa tengan con él relaciones jurídicas.
 
 ### CAPITULO VII. Disposiciones Generales
 
-ART. 667.- El representante y los poseedores provisionales y definitivos, en sus respectivos casos, tienen la legítima procuración del ausente en juicio y fuera de él.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 667.- La persona representante y quienes sean poseedores provisionales o definitivos, en sus respectivos casos, tienen la legítima procuración de la persona ausente en juicio y fuera de el.
 
 ART. 668.- Por causa de ausencia no se suspenden los términos que fija la Ley para la prescripción.
 
-ART. 669.- El Ministerio Público velará por los intereses del ausente, será oído en todos los juicios que tengan relación con él, y en las declaraciones de ausencia y presunción de muerte.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 669.- La o el Ministerio Público velará por los intereses de la persona ausente, será oído en todos los juicios que tengan relación con ésta, y en las declaraciones de ausencia y presunción de muerte.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ## TITULO DUODECIMO. Del Patrimonio de la Familia
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 670.- Son susceptibles de constituir el patrimonio de la familia:
+ART. 670.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-Los bienes inmuebles, muebles y semovientes, que no rebasen la cuantía contenida en el Artículo 677 de este ordenamiento.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 671.- La constitución del patrimonio de la familia no hace pasar la propiedad de los bienes que a él quedan afectos, del que lo constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho de disfrutar de esos bienes, según lo dispuesto en el artículo siguiente.
+ART. 671.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 672.- Tienen derecho de habitar la casa y de aprovechar los frutos o beneficios que integran el patrimonio de la familia, además de quien lo constituye, su cónyuge y sus hijos. Tal derecho es intransmisible; sin embargo, se puede estar a la posibilidad prevista en el párrafo segundo del Artículo 687.
+ART. 672.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 673.- Los beneficiarios de los bienes afectos al patrimonio de la familia serán representados en sus relaciones con tercero, en todo lo que al patrimonio se refiere, por el que lo constituyó, y, en su defecto, por el que nombre la mayoría.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-El representante tendrá también la administración de dichos bienes.
+ART. 673.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 674.- Los bienes inscritos como patrimonio de la familia son inalienables y no estarán sujetos a embargo ni a gravamen alguno.
+ART. 674.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 675.- La casa habitación protegida por el patrimonio de la familia, necesariamente deberá estar ubicada en el municipio en que esté domiciliado el que lo constituya, no así tratándose de los demás bienes, los que podrán estar en el mismo municipio o en cualquier otro perteneciente a este Estado.
+ART. 675.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 676.- La constitución del patrimonio de la familia por alguna de las personas facultadas al efecto en términos de este capítulo, impide a la misma y a las otras, a establecer más de un patrimonio familiar, en esa virtud, los que llegaran a constituirse contraviniendo esta disposición, no producirán efectos legales.
+ART. 676.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 677.- El valor máximo permitido en términos de ley, respecto de los bienes que conformen el patrimonio de la familia será el que resulte de multiplicar la cantidad derivada del importe de ciento veinte días de salario mínimo vigente en el Estado por trescientos sesenta y cinco días. El incremento que sobrevenga respecto al valor de los mismos, originado por cualquier causa, no los sustrae del régimen que los salvaguarda, por lo que tal incremento o excedente tampoco será embargable; pero el valor original y su incremento, sí podrán disminuirse para encuadrarse dentro de los límites establecidos por esta ley.
+ART. 677.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 678.- Para constituir el patrimonio de la familia, él o los peticionarios que quieran hacerlo, deberán satisfacer los siguientes requisitos:
+ART. 678.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- Plantear por escrito ante juez competente, con jurisdicción en el lugar en que se encuentre la casa habitación o los demás bienes destinados a la constitución del patrimonio de la familia, la intención y voluntad de hacerlo.
+ART. 679.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Para los mismos efectos, también se podrá acudir ante notario público en ejercicio en el distrito judicial en que se encuentre la casa habitación o los demás bienes destinados a la constitución del patrimonio de la familia;
+ART. 680.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- Indicar de manera clara y precisa los bienes que pretende afectar, a fin de que se hagan las correspondientes anotaciones e inscripciones de que dichos bienes estarán sujetos al patrimonio de la familia, en el Registro Público de la Propiedad y del Comercio;
+ART. 681.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- Ser mayor de edad o estar emancipado;
+ART. 682.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IV.- Estar domiciliado en el lugar donde pretende constituir el patrimonio de su intención;
+ART. 683.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-V.- Comprobar la existencia de la familia legítima a cuyo favor se va a constituir el patrimonio. La acreditación de los vínculos familiares se realizará con las copias o actas certificadas expedidas por la institución jurídica del registro civil. En los casos de concubinato, tal estado se acreditará bajo protesta de decir verdad y con las correspondientes partidas de nacimiento de los descendientes, en su caso;
+ART. 684.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-VI.- Acreditar que los bienes destinados al patrimonio son legítimos del peticionante y que los mismos no reportan gravamen alguno; y
+ART. 685.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-VII.- Que el valor de los bienes destinados a constituir el patrimonio de la familia no exceda del máximo permitido en el Artículo 677. Dicho valor solamente se acreditará mediante avalúo catastral tratándose de inmuebles, en tanto que los bienes muebles serán valuados mediante dictamen pericial.
+ART. 686.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 679.- Si se llenan las condiciones exigidas en el artículo anterior, el juez, previos los trámites que fije el Código de la materia, aprobará la constitución del patrimonio para la familia y mandará que se hagan las inscripciones correspondientes en el registro público.
+ART. 687.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-En su caso, el notario procederá a la protocolización del instrumento constitutivo del patrimonio de la familia, y solicitará que se hagan las anotaciones e inscripciones correspondientes en el registro público.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
+ART. 688.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 680.- Cuando el valor de los bienes afectos al patrimonio de la familia sea inferior al máximo fijado en el artículo 677 de este Código, podrá ampliarse el patrimonio hasta llegar a ese valor. La ampliación será realizada en la misma forma que la constitución.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
+ART. 689.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 681.- Cuando haya peligro de que uno de los cónyuges o de los hijos, obligados a dar alimentos, pueda perder sus bienes por mala administración o porque los esté dilapidando, el otro podrá exigir judicialmente que se constituya el patrimonio de la familia hasta por el importe máximo establecido en el Artículo 677.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
+ART. 690.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-Por otra parte, tienen derecho a exigir judicialmente su constitución en los términos señalados con anterioridad, los padres, el cónyuge afectado o los hijos. Si son incapaces, entonces intervendrán sus tutores o el Ministerio Público. En ambos casos, los trámites para constituir el patrimonio de la familia se ajustarán en lo conducente a lo preceptuado por las fracciones II a VII del artículo 678 de este ordenamiento y a los trámites que fije el Código de la materia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
-
-ART. 682.- Con el propósito de favorecer e impulsar la formación del patrimonio de la familia, se enajenará a las personas que tengan capacidad legal para constituirlo y que además quieran hacerlo, las siguientes propiedades:
-
-I.- Los terrenos pertenecientes al Gobierno y Ayuntamientos del Estado, que no les sean indispensables, ni se encuentren destinados o pretendan afectarse a un servicio público, ni sean de uso común;
-
-II.- Los lotes o terrenos que el Gobierno adquiera en virtud de expropiación constitucional, cuya causa de utilidad pública sea precisamente, la de darles el destino de favorecer a las familias de escasos recursos económicos; y
-
-III.- Las viviendas que el Gobierno, en sus diversos órdenes, construya a través de sus instituciones u organismos, así como de sus planes y programas habitacionales dirigidos a facilitar la formación del patrimonio de las familias más necesitadas.
-
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
-
-ART. 683.- Al fijar el precio de venta de los bienes a que alude el artículo que antecede, la autoridad gubernamental vendedora deberá tomar en cuenta, la capacidad económica del comprador para determinar la forma y plazos de pago.
-
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
-
-ART. 684.- La persona interesada en constituir el patrimonio de la familia con la modalidad de los bienes consignados en el artículo 682, además de satisfacer los requisitos precisados en las fracciones III, IV y V del artículo 678, deberá acreditar:
-
-I.- Que es mexicano;
-
-II.- Su aptitud para desempeñar alguna profesión, oficio, actividad o comercio;
-
-III.- Que posee los instrumentos, herramientas o implementos indispensables para ejercer la actividad a que se dedique;
-
-IV.- Su ingreso o el de su familia, si este (sic) se complementan entre sí. Lo anterior, a fin de poder calcular, con probabilidades de acierto, la posibilidad de pagar el precio objeto de la enajenación; y
-
-V.- Que carece de bienes. Si quien constituyó el patrimonio al momento de hacerlo era propietario de algún bien raíz, dicha constitución se entenderá nula, bastando para que así sea declarada, que quien tenga interés jurídico demuestre lo anterior. Caso en el cual, la autoridad vendedora quedará en completa aptitud de reincorporar nuevamente a su patrimonio, previa declaración judicial, el bien transmitido en tal supuesto.
-
-ART. 685.- La constitución del patrimonio de que trata el artículo 682, se sujetará a la tramitación administrativa que fijen los Reglamentos respectivos. Aprobada la constitución del patrimonio, se cumplirá lo que dispone la parte final del artículo 679.
-
-ART. 686.- La constitución del patrimonio de la familia no puede hacerse en fraude de los derechos de los acreedores.
-
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
-
-ART. 687.- Constituído que sea el patrimonio de la familia, ésta debe de habitar la casa y de aprovechar los bienes restantes que lo conformen.
-
-Del cumplimiento de habitar la casa, según lo dispuesto en el párrafo anterior, puede sustraerse la familia, sin necesidad de declaratoria judicial, si la persona que constituyó el patrimonio y los beneficiarios del mismo, por evidente necesidad o conveniencia, acuerdan darla en arrendamiento. Si al ocurrir lo anterior no hubiere mediado el acuerdo de referencia, el contrato o convenio pactado será nulo. Respecto a los hijos menores o personas incapaces, la responsabilidad de la determinación que se tome recae en los restantes miembros de la familia, salvo que exista persona que por declaración judicial los represente, la que en ese caso habrá de hacerlo.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2003)</small>
-
-ART. 688.- Cuando los cónyuges o concubinos en su caso, tuvieren necesidad de extinguir el patrimonio de la familia establecido en los términos de los artículos 678 y 679 de este Código, podrán acudir ante notario público en ejercicio en el distrito judicial del lugar en que se encuentren los bienes afectos al mismo. El notario protocolizará la voluntad de los comparecientes y expedirá testimonio que deberá ser inscrito en el registro público correspondiente:
-
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 1996)</small>
-
-I.- Cuando se demuestre que hay necesidad de la familia de que el patrimonio quede extinguido; y
-
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 1996)</small>
-
-II.- Cuando tratándose del patrimonio formado con los bienes vendidos por las autoridades señaladas en el Artículo 682, se declare judicialmente nula o rescindida su venta, por la actualización del supuesto a que alude la fracción V del propio Artículo 684.
-
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
-
-ART. 689.- Se requerirá declaración judicial para extinguir el patrimonio de la familia, cuando se trate del patrimonio formado con los bienes vendidos por las autoridades señaladas en el artículo 682 y se declare judicialmente nula o rescindida su venta, por la actualización del supuesto a que alude la fracción V del propio artículo 684, la que se comunicará al Registro Público de la Propiedad y del Comercio para los efectos correspondientes.
-
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
-
-ART. 690.- La expropiación que afecte los bienes que conforman el patrimonio de la familia no extingue a éste, sino que para efectos de esta institución jurídica solamente los subroga por el pago proveniente de la indemnización constitucional. Igual acontece, tratándose de pagos derivados del seguro contratado a consecuencia de siniestros. En ambos casos, los pagos correspondientes se efectuarán en favor de su titular y beneficiarios, depositándolos en institución financiera, bajo la providencia de quedar afectos al patrimonio de la familia, lo que los hace desde ese momento inembargables.
-
-Realizados los depósitos de pago mencionados en el párrafo anterior, el tiular (sic) y sus beneficiarios quedan legitimados para decidir libremente, mantenerlos durante el tiempo de su interés en la institución financiera a fin de que durante un año, en el cual son inembargables, les puedan redituar intereses, o bien, sin necesidad de declaratoria judicial, pero teniéndose la conformidad a que se contrae el artículo 687, disponer de los mismos para poder estar en aptitud de adquirir otra casa, si ésta les resultare indispensable de habitar. Sólo hasta el momento en que se disponga de los pagos depositados se entenderá extinguido el patrimonio subrogado, no requiriéndose para entenderlo así, de declaración judicial alguna.
-
-> <small>(REFORMADO PRIMERO PARRAFO, P.O. 20 DE MARZO DE 2003)</small>
-
-ART. 691.- A solicitud de los peticionarios a que se refiere el artículo 678 de este Código, podrá disminuirse el patrimonio de la familia en los siguientes casos:
-
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2003)</small>
-
-I. Cuando la disminución sea de manifiesto beneficio, y
-
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 1996)</small>
-
-II.- Cuando el patrimonio familiar por causa posterior a su constitución, cualquiera que sea ésta, se incremente hasta en un doscientos por ciento más, del valor máximo que debe tener al momento de su inscripción.
+ART. 691.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ART. 692.- (DEROGADO, P.O. 20 DE MARZO DE 2003)
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ART. 693.- Extinguido el patrimonio de la familia, los bienes que lo conformaban se reincorporarán al pleno dominio del que lo constituyó, o pasan hasta entonces a los beneficiarios en términos de este capítulo si aquél ha muerto.
+ART. 693.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 # LIBRO SEGUNDO. De los Bienes
 
@@ -3929,7 +4251,11 @@ ART. 951.- El usufructuario, antes de entrar en el goce de los bienes, está obl
 
 I.- A formar a sus expensas, con citación del dueño, un inventario de todos ellos, haciendo tasar los muebles y constar el estado en que se hallan los inmuebles;
 
-II.- A dar la correspondiente fianza de que disfrutará de las cosas con moderación, y las restituirá al propietario con sus accesiones, al extinguirse el usufructo, no empeoradas ni deterioradas por su negligencia, salvo lo dispuesto en el artículo 384.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+II.- A dar la correspondiente fianza de que disfrutará de las cosas con moderación, y las restituirá al propietario con sus accesiones al extinguirse el usufructo, no empeoradas ni deterioradas por su negligencia.
 
 ART. 952.- El donador que se reserve el usufructo de los bienes donados, está dispensado de dar la fianza referida, si no se ha obligado expresamente a ello.
 
@@ -4523,7 +4849,13 @@ V.- Utilidad pública;
 
 VI.- Renuncia o remoción de algún cargo conferido en el testamento.
 
-ART. 1160.- Son incapaces de adquirir por testamento o por intestado, a causa de falta de personalidad, los que no estén concebidos al tiempo de la muerte del autor de la herencia, o los concebidos cuando no sean viables, conforme a lo dispuesto en el artículo 297.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 1160.- Son incapaces de adquirir por testamento o por intestado, a causa de falta de personalidad, los que no estén concebidos al tiempo de la muerte de la o el autor de la herencia, o los concebidos cuando no sean viables, conforme a lo dispuesto en el artículo 180 del Código Familiar para el Estado.
+
+Para los efectos de este artículo se consideran concebidos durante el matrimonio los embriones procreados por voluntad de la pareja con fines de reproducción asistida, estándose a lo dispuesto por el artículo 1474 de este Código.
 
 ART. 1161.- Será, no obstante, válida la disposición hecha en favor de los hijos que nacieren de ciertas y determinadas personas durante la vida del testador.
 
@@ -4647,7 +4979,11 @@ ART. 1203.- Si la condición se hubiere cumplido al hacerse el testamento ignor�
 
 ART. 1204.- La condición impuesta al heredero, o legatario, de tomar o dejar de tomar estado, se tendrá por no puesta.
 
-ART. 1205.- Podrá, sin embargo, dejarse a alguno el uso o habitación, una pensión alimenticia periódica o el usufructo que equivalga a esa pensión, por el tiempo que permanezca soltero o viudo. La pensión alimenticia, se fijará de acuerdo con lo prevenido en el artículo 272.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 1205.- Podrá, sin embargo, dejarse a alguno el uso o habitación, una pensión alimenticia periódica o el usufructo que equivalga a esa pensión, por el tiempo que permanezca soltera o soltero, o viuda o viudo. La pensión alimenticia se fijará de acuerdo con lo previsto en el artículo 154 del Código Familiar para el Estado.
 
 ART. 1206.- La condición que se ha cumplido existiendo la persona a quien se impuso, se retrotrae al tiempo de la muerte del testador, y desde entonces deben abonarse los frutos de la herencia o legado, a menos que el testador haya dispuesto expresamente otra cosa.
 
@@ -4697,7 +5033,11 @@ ART. 1216.- No hay obligación de dar alimentos a las personas que tengan bienes
 
 ART. 1217.- Para tener derecho a ser alimentado se necesita encontrarse al tiempo de la muerte del testador en algunos de los casos fijados en el artículo 1214 y cesa ese derecho tan luego como el interesado deje de estar en las condiciones a que se refiere el mismo artículo, observe mala conducta o adquiera bienes, aplicándose en este caso lo dispuesto en el artículo anterior.
 
-ART. 1218.- El derecho de percibir alimentos no es renunciable ni puede ser objeto de transacción. La pensión alimenticia se fijará y asegurará conforme a lo dispuesto en los artículos 269, 275, 277 y 278 de este Código, y por ningún motivo excederá de los productos de la porción que en caso de sucesión intestada corresponderían al que tenga derecho a dicha pensión, ni bajará de la mitad de dichos productos. Si el testador hubiere fijado la pensión alimenticia subsistirá su designación, cualquiera que sea, siempre que no baje del mínimun (sic) antes establecido. Con excepción de los artículos citados en el presente capítulo, no son aplicables a los alimentos debidos por sucesión, las disposiciones del capítulo II, título VI del Libro Primero.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 1218.- El derecho de percibir alimentos no es renunciable, ni puede ser objeto de transacción. La pensión alimenticia se fijará y asegurará conforme a lo dispuesto en los artículos, 150, 157, 159 y 160 del Código Familiar para el Estado y, por ningún motivo, excederá de los productos de la porción que en caso de sucesión intestada corresponderían al que tenga derecho a dicha pensión, ni bajará de la mitad de dichos productos. Si la o el testador hubiere fijado la pensión alimenticia subsistirá su designación, cualquiera que sea, siempre que no baje del mínimo establecido en el Codigo Familiar para el Estado.
 
 ART. 1219.- Cuando el caudal hereditario no fuere suficiente para dar alimentos a todas las personas enumeradas en el artículo 1214, se observarán las reglas siguientes:
 
@@ -5171,7 +5511,11 @@ I.- Que el precio del inmueble según avalúo catastral, no exceda del equivalen
 
 II.- El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente por cuenta de los incapaces.
 
-Cuando el legatario instituido sea incapaz y no esté sujeto a patria potestad del testador ni bajo la de otro, se estará a lo dispuesto en el artículo 432 de este Código;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+Cuando el legatario instituido sea incapaz y no esté sujeto a patria potestad del testador, ni bajo la de otro, se estará a lo dispuesto en el artículo 374 del Código Familiar para el Estado;
 
 III.- Si hubiere pluralidad de adquirentes del inmueble, cada copropietario podrá instituir uno o más legatarios respecto de su porción. Cuando el testador estuviere casado bajo el régimen de sociedad conyugal, su cónyuge podrá instituir uno o más legatarios en el mismo instrumento, por la porción que le corresponda. En los supuestos a que se refiere este artículo no se aplicará lo dispuesto por el artículo 1142 de este Código;
 
@@ -5407,7 +5751,15 @@ ART. 1473.- Cuando sea heredera la Beneficencia Pública del Estado y entre lo q
 
 ### CAPITULO I. De las precauciones que deben adoptarse cuando la viuda queda encinta
 
-ART. 1474.- Cuando a la muerte del marido la viuda crea haber quedado encinta, lo pondrá en conocimiento del juez que conozca de la sucesión, dentro del término de cuarenta días, para que lo notifique a los que tengan a la herencia un derecho de tal naturaleza que deba desaparecer o disminuir por el nacimiento del póstumo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 1474.- Cuando a la muerte del marido la viuda crea haber quedado embarazada, lo pondrá en conocimiento de la autoridad judicial que conozca de la sucesión, dentro del término de cuarenta días, para que lo notifique a los que tengan derecho a la herencia, o un derecho de tal naturaleza que deba desaparecer o disminuir por el nacimiento del póstumo.
+
+Igual procedimiento se seguirá en el caso de existencia de embriones fecundados in vitro por voluntad de las o los cónyuges, y no gestados a la muerte del padre.
+
+Se podrán implantar embriones con material genético del padre después de su muerte; sin embargo, no se le podrá atribuir la paternidad a éste de no hacerlo dentro del término a que se refiere al artículo 240 del Código Familiar para el Estado.
 
 ART. 1475.- Los interesados a que se refiere el precedente artículo pueden pedir al juez que dicte las providencias convenientes para evitar la suposición del parto, la substitución del infante o que se haga pasar por viable la criatura que no lo es.
 
@@ -5633,7 +5985,11 @@ ART. 1552.- El albacea, dentro del primer mes de ejercer su cargo, fijará, de a
 
 ART. 1553.- Si para el pago de una deuda u otro gasto urgente, fuere necesario vender algunos bienes, el albacea deberá hacerlo, de acuerdo con los herederos, y si esto no fuere posible, con aprobación judicial.
 
-ART. 1554.- Lo dispuesto en los artículos 519 y 520 respecto de los tutores, se observará también respecto de los albaceas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 1554.- Lo dispuesto en los artículos 346 y 347 del Código Familiar para el Estado, respecto de las personas tutoras, se observará también respecto de los albaceas.
 
 ART. 1555.- El albacea no puede gravar ni hipotecar los bienes, sin consentimiento de los herederos o de los legatarios en su caso.
 
@@ -7075,7 +7431,11 @@ ART. 2067.- El cumplimiento voluntario por medio del pago, novación, o por cual
 
 ART. 2068.- La confirmación se retrotrae al día en que se verificó el acto nulo; pero ese efecto retroactivo no perjudica a los derechos de tercero.
 
-ART. 2069.- La acción de nulidad fundada en incapacidad o en error, puede intentarse en los plazos establecidos en el artículo 584. Si el error se conoce antes de que transcurran esos plazos, la acción de nulidad prescribe a los sesenta días, contados desde que el error fué conocido.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 2069.- La acción de nulidad fundada en la incapacidad o en error, puede intentarse en los plazos establecidos en el artículo 464 del Código Familiar para el Estado. Si el error se conoce antes de que transcurran esos plazos, la acción de nulidad prescribe a los sesenta días, contados desde que el error fue conocido.
 
 ART. 2070.- La acción para pedir la nulidad de un contrato hecho por violencia, prescribe a los seis meses contados desde que cese ese vicio del consentimiento.
 
@@ -7175,7 +7535,9 @@ ART. 2107.- Los magistrados, los jueces, el Ministerio Público, los defensores 
 
 ART. 2108.- Se exceptúa de lo dispuesto en el artículo anterior, la venta o cesión de acciones hereditarias, cuando sean coherederos las personas mencionadas, o de derechos a que estén afectos bienes de su propiedad.
 
-ART. 2109.- Los hijos sujetos a patria potestad solamente pueden vender a sus padres los bienes comprendidos en la primera clase de las mencionadas en el artículo 388.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+ART. 2109.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ART. 2110.- Los propietarios de cosa indivisa no pueden vender su parte respectiva a extraños, sino cumpliendo lo dispuesto en los artículos 920 y 921.
 
@@ -7361,7 +7723,11 @@ ART. 2166.- Cuando la donación sea onerosa, sólo se considera donado el exceso
 
 ART. 2167.- Las donaciones sólo pueden tener lugar entre vivos y no pueden revocarse sino en los casos declarados en la Ley.
 
-ART. 2168.- Las donaciones que se hagan para después de la muerte del donante, se regirán por las disposiciones relativas del Libro Tercero; y las que se hagan entre consortes, por lo dispuesto en el Capítulo VIII, Título V del Libro Primero.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 2168.- Las donaciones que se hagan para después de la muerte del donante, se regirán por las disposiciones relativas al Libro Tercero de este Código; y las que se hagan entre consortes y concubinos, por las disposiciones relativas al Título Tercero, Capítulo VII, y Título Cuarto, Capítulo Unico del Código Familiar para el Estado.
 
 ART. 2169.- La donación es perfecta desde que el donatario la acepta y hace saber la aceptación al donador.
 
@@ -7401,13 +7767,21 @@ ART. 2185.- Salvo que el donador dispusiere otra cosa, las donaciones que consis
 
 ### CAPITULO II. De las personas que pueden recibir Donaciones
 
-ART. 2186.- Los no nacidos pueden adquirir por donación, con tal que hayan estado concebidos al tiempo en que aquélla se hizo y sean viables conforme a lo dispuesto en el artículo 297.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 2186.- Los no nacidos pueden adquirir por donación, con tal que hayan estado concebidos al tiempo en que aquélla se hizo, y sean viables conforme a lo dispuesto en el artículo 180 del Código Familiar para el Estado.
 
 ART. 2187.- Las donaciones hechas simulando otro contrato a personas que conforme a la Ley no puedan recibirlas, son nulas, ya se hagan de un modo directo, ya por interpósita persona.
 
 ### CAPITULO III. De la revocación y reducción de las Donaciones
 
-ART. 2188.- Las donaciones legalmente hechas por una persona que al tiempo de otorgarlas no tenía hijos, pueden ser revocadas por el donante cuando le hayan sobrevenido hijos que han nacido con todas las condiciones que sobre viabilidad exige el artículo 297.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 2188.- Las donaciones legalmente hechas por una persona que al tiempo de otorgarlas no tenía hijas o hijos, pueden ser revocadas por el donante cuando le hayan sobrevenido hijas o hijos que han nacido con todas las condiciones que sobre viabilidad exige el artículo 180 del Código Familiar para el Estado.
 
 Si transcurren cinco años desde que se hizo la donación y el donante no ha tenido hijos o habiéndolos tenido no ha revocado la donación, ésta se vuelve irrevocable. Lo mismo sucede si el donante muere dentro de ese plazo de cinco años sin haber revocado la donación.
 
@@ -9125,7 +9499,11 @@ ART. 2765.- Tienen derecho de pedir la hipoteca necesaria para seguridad de sus 
 
 I.- El coheredero o partícipe, sobre los inmuebles repartidos, en cuanto importen los respectivos saneamientos o el exceso de los bienes que hayan recibido;
 
-II.- Los descendientes de cuyos bienes fueren meros administradores los ascendientes, sobre los bienes de éstos, para garantizar la conservación y devolución de aquéllos; teniendo en cuenta lo que dispone la fracción III del artículo 473;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+II.- Las o los descendientes, de cuyos bienes fueren meros administradores los ascendientes, sobre los bienes de éstos para garantizar la conservación y devolución de aquéllos; teniendo en cuenta lo que dispone la fracción III del artículo 405 del Código Familiar para el Estado;
 
 III.- Los menores y demás incapacitados sobre los bienes de sus tutores, por el que éstos administren;
 
@@ -9141,7 +9519,11 @@ II.- En el caso de bienes que administren los tutores, por los herederos legíti
 
 III.- Por el Ministerio Público, si no la pidieren las personas enumeradas en las fracciones anteriores.
 
-ART. 2767.- La constitución de la hipoteca por los bienes de hijos de familia, de los menores y de los demás incapacitados, se regirá por las disposiciones contenidas en el Título VIII, Capítulo II; Título IX, Capítulo IX, y Título XI, Capítulos I y III del Libro Primero.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 2767.- La constitución de la hipoteca por los bienes de hijas o hijos de familia, de los incapaces, se regirán por las disposiciones contenidas en el Título Noveno, Capítulo II; Título Décimo, Capítulo XII del Código Familiar para el Estado; y Título Undécimo, capítulos I y III del Libro Primero de este Código.
 
 ART. 2768.- Los que tienen derecho de exigir la constitución de hipoteca necesaria, tienen también el de objetar la suficiencia de la que se ofrezca, y el de pedir su ampliación cuando los bienes hipotecados se hagan por cualquier motivo insuficientes para garantizar el crédito; en ambos casos resolverá el juez.
 
@@ -9956,3 +10338,11 @@ P.O. 13 DE NOVIEMBRE DE 2007.
 PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2008.
+
+PRIMERO. Este Decreto entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Todos los procedimientos, recursos administrativos y demás asuntos relacionados con la materia familiar a que refiere el Código Civil para el Estado de San Luis Potosí, iniciados con anterioridad a la entrada en vigor a este Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
