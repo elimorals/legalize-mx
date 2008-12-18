@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2008-10-14"
+last_updated: "2008-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -316,6 +316,12 @@ V. Excitativa a los Poderes de la Unión para que presten su protección al Esta
 VI. Las demás determinaciones o actos que señalen las leyes.
 
 Corresponde a la Legislatura interpretar y declarar si una resolución suya es ley, decreto o acuerdo.
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 38 Bis.
+
+Una vez que hayan sido publicadas las leyes y disposiciones de carácter general en el periódico oficial "Gaceta del Gobierno", la Legislatura dispondrá su traducción a las lenguas originarias del Estado de México a saber, otomí, mazahua, matlazinca, nahua y tlahuica y proveerá lo necesario para su difusión.
 
 ### CAPITULO V. DE LA ASAMBLEA
 
@@ -773,7 +779,7 @@ La Conferencia para la Dirección y Programación de los Trabajos Legislativos t
 
 ###### Artículo 63.
 
-La Junta de Coordinación Política se reunirá por lo menos una vez al mes para tratar los asuntos de su competencia. Para que sus resoluciones sean válidas, deberán estar por lo menos la mitad mas uno de los coordinadores de los grupos parlamentarios, entre quienes deberá estar el Presidente en turno. Sus acuerdos se tomarán por mayoría de votos, en función de la proporcionalidad representativa de los coordinadores de los grupos parlamentarios presentes.
+La Junta de Coordinación Política se reunirá por lo menos una vez al mes para tratar los asuntos de su competencia. Para que sus resoluciones sean válidas, deberán estar por lo menos la mitad más uno de los coordinadores de los grupos parlamentarios, entre quienes deberá estar el Presidente en turno. Sus acuerdos se tomarán por mayoría de votos, en función de la proporcionalidad representativa de los coordinadores de los grupos parlamentarios presentes.
 
 > <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -1706,3 +1712,13 @@ G.G. 14 DE OCTUBRE DE 2008.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 18 DE DICIEMBRE DE 2008.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Este decreto entrará en vigor al día hábil siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
