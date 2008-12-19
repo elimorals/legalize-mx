@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-mexicali-baja-22978
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2008-10-17"
+last_updated: "2008-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -1707,9 +1707,11 @@ Tratándose de vehículos no registrados en el Estado, con los que se cometan in
 
 En el caso que se detecte que el infractor tiene en su haber infracciones anteriores que no ha solventado o cuyas multas no ha cubierto durante el periodo de tiempo establecido para el efecto, el agente o inspector deberá presentar al conductor y al vehículo ante el juez calificador, a efecto de cubrir las sanciones pendientes y presentes, o para que se determine lo conducente.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 136.
 
-En todos los casos que se requiera la presentación del conductor y el vehículo ante el juez calificador para el pago de multas por las infracciones cometidas, se evitará en lo posible que el vehículo sea remitido al depósito vehicular en garantía de pago, para lo cual se le concederá al infractor un plazo de tres horas desde su presentación ante el juez calificador para que realice las gestiones necesarias para cubrir la o las multas.
+En todos los casos que se requiera la presentación del conductor y el vehículo ante el juez calificador para el pago de multas por las infracciones cometidas, se evitará en lo posible que el vehículo sea remitido al depósito vehicular en garantía de pago, para lo cual se le concederá al infractor un plazo de veinticuatro horas desde su presentación ante el juez calificador para que realice las gestiones necesarias para cubrir la o las multas.
 
 ###### ARTÍCULO 137.
 
@@ -1976,3 +1978,7 @@ P.O. 17 DE OCTUBRE DE 2008.
 PRIMERO.- Las presentes reformas entrarán en vigor a los noventa días siguientes de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- La Dirección de Seguridad Pública y la Dirección de Comunicación Social instrumentarán una campaña de difusión sobre el contenido de la presente reforma durante el tiempo comprendido entre su publicación y la entrada en vigor de la misma.
+
+P.O. 19 DE DICIEMBRE DE 2008.
+
+Artículo Único.- El presente Acuerdo entrará en vigor a los sesenta días de su publicación en el Periódico Oficial del Estado de Baja California.
