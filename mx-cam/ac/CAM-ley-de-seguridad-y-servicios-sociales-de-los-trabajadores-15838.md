@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-seguridad-y-servicios-sociales-de-los-trabajadores-15838
 country: "mx"
 rank: "ley"
 publication_date: "1987-06-03"
-last_updated: "2007-12-26"
+last_updated: "2008-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 3 de junio de 1987.
 
@@ -231,6 +231,8 @@ Las cuentas del Instituto quedarán sujetas a la revisión, glosa y aprobación 
 
 ### CAPITULO III. SUELDOS, CUOTAS Y APORTACIONES
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 18.
 
 El órgano máximo de gobierno del Instituto será el Consejo Directivo.
@@ -375,9 +377,7 @@ Los acuerdos del Consejo Directivo se tomarán por mayoría de votos de los miem
 
 ###### ARTICULO 29.
 
-El sueldo que se tomará como base para los efectos de esta Ley, se integrará con el sueldo base nominal, entendiéndose por éste, cualquier ingreso que se perciba pagado bajo nómina por concepto de los servicios que se prestan.
-
-Tratándose de las aportaciones cubiertas por los ingresos percibidos bajo la nómina de compensación y para poder percibir en cuanto a dichos montos los derechos a las prestaciones que esta Ley señala, será necesario que el servidor público hubiere realizado aportaciones por este concepto durante un mínimo de cinco años; en caso de no cumplirse dicho término, las prestaciones a que se refiere este párrafo se cubrirán obteniendo la proporción porcentual correspondiente entre el término aquí señalado y aquél durante el cual se hubiere venido percibiendo la prestación.
+El sueldo de cotización que se tomará como base para efectos de esta Ley deberá integrarse considerando el sueldo base nominal que corresponda de conformidad con el tabulador de puestos y sueldos autorizados por el Congreso del Estado o, en su caso, por los ayuntamientos, comprendido (sic) éste cualquier ingreso que se perciba pagado bajo nómina y que para efectos de la base aplicará como límite máximo veinticinco salarios mínimos generales diarios vigentes en el área geográfica “A”, que fija la Comisión Nacional de los Salarios Mínimos.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -709,15 +709,21 @@ a).- Los incapacitados en forma total; y
 
 b).- Los que comprueben, a satisfacción del Consejo Directivo, que les es necesaria la pensión para continuar sus estudios profesionales o técnicos. La pensión no podrá extenderse en ningún caso después de los 25 años de edad.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 67.
 
-Para los efectos de esta Ley se considerará como sueldo último el promedio mensual de todas las percepciones computables al servidor público, correspondientes a los seis meses inmediatos anteriores a la fecha del acuerdo del Consejo Directivo que conceda la pensión o jubilación.
+Las pensiones concedidas en los términos de esta Ley, se calcularán con base en el sueldo promedio. Para calcular el sueldo promedio, se procederé como sigue:
 
-Las percepciones computables de que se ocupa el párrafo anterior, serán las que correspondan específicamente a la retribución de los servicios prestados a las Entidades Públicas, conforme aparezcan consignadas en las respectivas partidas de sus presupuestos de egresos y sobre las cuales se hayan pagado normal e íntegramente las aportaciones al Instituto. No se considerarán los viáticos, gratificaciones, gastos de representación y otras percepciones semejantes.
+I.- El salario de cotización con el que el Instituto haya recibido las cuotas y aportaciones, durante los tres años anteriores al otorgamiento de la pensión, será expresado en veces del salario mínimo vigente en la fecha en que el servidor público percibía dicho salario; y
+
+II.- Se promediarán los valores obtenidos conforme a la fracción anterior y dicho promedio se aplicará al salario mínimo vigente en la fecha a partir de la cual deba de iniciar el pago de la pensión.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 68.
 
-La cuota diaria de la jubilación o pensión que se conceda conforme a esta Ley, en ningún caso será mayor que ocho veces el salario mínimo legal general de la zona económica del Estado de Campeche, a la fecha de la jubilación. Ningún servidor público tendrá la obligación de cubrir aportaciones ordinarias que excedan del importe de la jubilación o pensión máxima establecida en el párrafo inicial de este precepto. Los sujetos de esta Ley y el Instituto cuidarán que dichas aportaciones no rebasen el límite antes señalado.
+La cuota diaria de la jubilación o pensión que se conceda a la fecha de la jubilación conforme a esta Ley, en ningún caso será mayor que veinticinco salarios mínimos generales diarios vigentes en el área geográfica “A”, que fija la Comisión Nacional de los Salarios Mínimos.
 
 ###### ARTICULO 69.
 
@@ -1042,3 +1048,9 @@ Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que 
 Tercero.- Las cuotas que, conforme al artículo 30, los trabajadores deban aportar al Instituto, en adición a las que correspondan a la institución subrogatoria de las prestaciones, iniciarán con el 3.5% del sueldo de cotización y se incrementarán anualmente en el 1% del sueldo de cotización, hasta alcanzar el 8.5%.
 
 Cuarto.- Las aportaciones que, conforme al artículo 31, deben cubrir las Entidades Públicas al Instituto, en adición a las que correspondan a la institución subrogatoria de las prestaciones, iniciarán con el 6% del sueldo de cotización y se incrementarán anualmente en el 1.5% del sueldo de cotización, hasta alcanzar el 13.5%.
+
+P.O. 19 DE DICIEMBRE DE 2008.
+
+Primero.- El presente decreto entrará en vigor el día primero de enero del año dos mil nueve, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que (sic) opongan al contenido del presente decreto.
