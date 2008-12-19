@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "1994-09-27"
+last_updated: "2008-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE EDUCACION DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -147,9 +147,33 @@ XIX.- Excluir de la enseñanza toda instrucción y propaganda de cualquier credo
 
 XX.- Reafirmar la democracia como un sistema de vida a través de la forma de gobierno republicano, representativo y federal;
 
-XXI.- Enaltecer los derechos individuales y sociales y postular la paz universal, basada en el reconocimiento de los derechos económicos, políticos y sociales de las naciones, y
+XXI.- Enaltecer los derechos individuales y sociales y postular la paz universal, basada en el reconocimiento de los derechos económicos, políticos y sociales de las naciones, y (sic)
 
-XXII.- Promover en el educando el conocimiento integral de su medio físico inmediato, la región donde se desarrolla y el territorio del Estado.
+XXII.- Promover en el educando el conocimiento integral de su medio físico inmediato, la región donde se desarrolla y el territorio del Estado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+XXIII.- Fomentar actitudes de aprecio al estudio, al trabajo y a la vida;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+XXIV.- Fomentar la educación para una sexualidad responsable;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+XXV.- Fomentar el respeto a los derechos de la mujer y propiciar su pleno desarrollo e igualdad dentro de la sociedad; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+XXVI.- Fomentar el respeto a los derechos de la niñez y la adolescencia, de los adultos mayores y de las personas con discapacidad.
 
 ### CAPITULO III. AMBITO DE APLICACION
 
@@ -257,15 +281,35 @@ XVII.- Ejercer las demás funciones que en materia educativa otorgue la Ley Org�
 
 XVIII.- Ejercer, en el ámbito de su competencia, todas aquellas funciones que de manera concurrente sean atribuidas a la Federación y que no se encuentren reguladas de manera específica en la presente ley, de conformidad con el artículo 3 de este ordenamiento;
 
-XIX.- Elaborar el presupuesto general del ramo, y
+XIX.- Elaborar el presupuesto general del ramo, y (sic)
 
 > <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
-XX.- Promover y establecer la creación de instituciones y organismos de educación superior que se requieran en la Entidad, a fin de elevar y fortalecer el nivel académico de los maestros; y
+XX.- Promover y establecer la creación de instituciones y organismos de educación superior que se requieran en la Entidad, a fin de elevar y fortalecer el nivel académico de los maestros; y (sic)
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXI.- Las demás que emanen del artículo 3° constitucional y otros ordenamientos legales.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+XXI.- Coordinarse con la Secretaria de Salud para elaborar una tabla nutrimental orientada a procurar hábitos de alimentación sana y balanceada, así como para implementar programas en los planteles de educación básica que tiendan a desmotivar el consumo de alimentos con bajo o nulo valor nutricional en los educandos y prohibir la publicidad enfocada al consumismo en el interior de los planteles educativos; además de integrar a los planes de estudio de educación básica, contenidos de prevención contra el consumo de drogas;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+XXII.- Difundir los derechos de la niñez y la adolescencia, así como los mecanismos y canales de prevención y denuncia de abusos a su integridad física y mental, entre el alumnado de las escuelas de educación básica en el Estado, en colaboración con los demás organismos competentes;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+XXIII.- Implementar medidas dirigidas a fomentar la prevención de riesgos y la seguridad en el uso de los medios tecnológicos de información a favor de los educandos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+XXIV.- Las demás que emanen del artículo 3° constitucional y otros ordenamientos legales.
 
 ### CAPITULO V. DEL SISTEMA EDUCATIVO ESTATAL
 
@@ -355,11 +399,127 @@ Las instituciones públicas de educación superior y las particulares cuyos estu
 
 Los organismos descentralizados del Estado que impartan educación superior en la entidad y que por Ley Constitutiva y/u Orgánica gocen del régimen de autonomía, se sujetarán a lo dispuesto por esta Ley, su propia legislación interior, los preceptos constitucionales federales conducentes, las normas reglamentarias de dichos preceptos y las que regulen la coordinación de universidades e instituciones públicas de educación superior del país.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO V BIS. DEL FORTALECIMIENTO DEL SISTEMA EDUCATIVO ESTATAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 22
+
+1.- Para lograr el fortalecimiento educativo estatal, las autoridades educativas en el Estado en concurrencia con el Gobierno Federal, formularán y aplicarán, programas, proyectos y acciones a fin de hacer efectivo el derecho a la educación con equidad, eficiencia y calidad.
+
+Se atenderá de manera prioritaria a las comunidades con rezago educativo y marginación económica y social.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 22
+
+2.- Para alcanzar la cobertura total del Sistema Educativo Estatal, se fortalecerán los servicios educativos en todos sus tipos, niveles y modalidades, para tal fin se desarrollarán programas de:
+
+I.- Construcción y/o ampliación de edificios escolares con sus anexos y equipamiento, considerando en su estructura las características para alumnos con necesidades especiales.
+
+II.- Dar mantenimiento permanente a los edificios escolares anexos y equipo educativo.
+
+III.- Dotar de equipo técnico y materiales educativos a las escuelas.
+
+IV.- Satisfacer la demanda de personal docente, técnico, especializado y de apoyo a la educación; necesarios para la atención de los educandos.
+
+V.- Campañas permanente (sic) de alfabetización.
+
+VI.- Todos aquellos que para tal fin se formulen.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 22
+
+3.- Para lograr la equidad que permita la igualdad de acceso, permanencia y resultados satisfactorios de educación, se desarrollarán los siguientes programas, proyectos y acciones:
+
+I.- Proporcionar materiales educativos individuales y colectivos para los alumnos de educación básica.
+
+II.- Proporcionar apoyos asistenciales, tales como desayunos escolares, transporte escolar, becas y despensas alimenticias, para alumnos que dependan de las familias de escasos recursos económicos.
+
+III.- Se establecerán orfanatos, albergues escolares, infantiles y otras instituciones similares que coadyuven a los fines del presente artículo.
+
+IV.- Establecimiento de centros de desarrollo social y ocupacional, acorde a las necesidades del lugar donde se establezcan.
+
+V.- Establecimiento de centros culturales y recreativos, en las comunidades que así lo requieran.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 22
+
+4.- Para conseguir eficiencia y calidad en la educación, además de cumplir con lo establecido en los artículos anteriores, se realizarán los siguientes programas, proyectos y acciones:
+
+I.- Crear la institución que fomente el estudio y desarrollo de las lenguas indígenas, así como la educación bilingüe.
+
+II.- Promover la investigación educativa.
+
+III.- Revisar permanentemente los planes, programas y contenidos de estudio, para adecuarlos al desarrollo socioeconómico, político y cultural de las distintas regiones de la entidad.
+
+IV.- Atender integralmente el proceso educativo, proporcionando personal multidisciplinario a las instituciones del sistema educativo estatal.
+
+V.- Promover la creación de bibliotecas y casas de cultura en toda la entidad.
+
+VI.- Establecer el programa indicativo estatal de investigación.
+
+VII.- Promover la edición de obras de la cultura regional, nacional y universal; en español y en lenguas indígenas.
+
+VIII.- Promover la radiodifusión y televisión educativas con cobertura regional y estatal que contengan programas de las culturas étnicas de la entidad, con transmisión en español y lengua indígena.
+
+IX.- Apoyar a los educandos de bajo rendimiento escolar, con problemas familiares, escolares y sociales, mediante atención especializada.
+
+X.- Promover campañas permanentes de orientación para el cuidado y protección de la salud y medio ambiente, prevención de enfermedades y mejoramiento comunitario.
+
+XI.- Promover la educación para padres de los alumnos del nivel básico.
+
+XII.- Simplificar los procedimientos administrativos en la prestación del servicio educativo.
+
+XIII.- Los demás que para tal fin se formulen.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 22
+
+5.- El financiamiento de la educación pública estará a cargo del Gobierno estatal, en concurrencia con el Gobierno Federal, quienes destinarán del gasto público, recursos crecientes en términos reales para la prestación del servicio educativo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 22
+
+6.- Los recursos económicos destinados a educación serán intransferibles y se entregarán oportunamente para la ejecución de los programas, proyectos y acciones del Sistema Educativo Estatal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 22
+
+7.- La verificación de la aplicación de los recursos económicos destinados a educación, estará a cargo de las autoridades en su respectivo ámbito de competencia. Los responsables de la administración están obligados a proporcionar la información que se les solicite.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 22
+
+8.- Las donaciones y legados en dinero o en especie a favor de la educación pública, hechos por los particulares, son de interés social.
+
 ### CAPITULO VI. VALIDEZ OFICIAL Y REVALIDACION DE ESTUDIOS
-
-### CAPITULO VII. DE LA INCORPORACION DE LAS ESCUELAS PARTICULARES AL SISTEMA ESTATAL
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 23.
 
@@ -391,9 +551,11 @@ La Secretaría de Educación, Cultura y Deporte podrá otorgar revalidaciones y 
 
 El Gobierno del Estado a través de la Secretaría de Educación, Cultura y Deporte, operará y supervisará el proceso de acreditación y certificación de estudios de los distintos niveles, conforme a lo que al efecto establezcan las disposiciones de la materia.
 
-### CAPITULO VIII. DE LA EDUCACION AUDIOVISUAL
+### CAPITULO VII. DE LA INCORPORACION DE LAS ESCUELAS PARTICULARES AL SISTEMA ESTATAL
 
-### CAPITULO IX. DE LAS AUTORIDADES ESCOLARES
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+
+### CAPITULO VIII. DE LA EDUCACION AUDIOVISUAL
 
 ###### Artículo 28.
 
@@ -457,9 +619,7 @@ Para retirar el reconocimiento de validez oficial a los estudios a que se refier
 
 Para proporcionar educación por correspondencia, prensa, radio, fonografía, televisión, cinematografía o cualquier otro medio de comunicación los interesados deberán cumplir previamente los requisitos establecidos para el nivel, tipo o modalidad educativa que impartan, así como las leyes y reglamentos relativos al medio de comunicación que utilicen.
 
-### CAPITULO X. DE LA EDUCACION NORMAL
-
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+### CAPITULO IX. DE LAS AUTORIDADES ESCOLARES
 
 ###### Artículo 36.
 
@@ -469,13 +629,13 @@ El Gobierno del Estado, contará con medios masivos de comunicación como son ra
 
 El Gobierno del Estado promoverá la difusión de programas de radio y televisión que impulsen el desarrollo cultural y educativo de la entidad, exaltando los valores humanos en que se sustenta la convivencia armónica de los miembros de la comunidad.
 
+### CAPITULO X. DE LA EDUCACION NORMAL
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+
 ### CAPITULO XI. DE LAS ASOCIACIONES DEL SISTEMA EDUCATIVO ESTATAL
 
 ### CAPITULO XII. DE LA PARTICIPACION SOCIAL EN LA EDUCACION
-
-### CAPITULO XIII. DE LAS INFRACCIONES Y SANCIONES
-
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 38.
 
@@ -511,9 +671,9 @@ El Secretario de Educación, Cultura y Deporte, los Subsecretarios, los Director
 
 Son atribuciones de la Secretaría de Educación, Cultura y Deporte las que se contienen en el Artículo 25 de la Ley Orgánica de la Administración Pública Estatal vigente, misma que fuese publicada mediante Periódico Oficial del Estado de fecha 26 de Octubre de 1991.
 
-### CAPITULO XIV. DEL RECURSO ADMINISTRATIVO
+### CAPITULO XIII. DE LAS INFRACCIONES Y SANCIONES
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 42.
 
@@ -542,6 +702,10 @@ VIII.- Cumplirá también con los principios básicos y objetivos que se estable
 ###### Artículo 44.
 
 Los alumnos de las Escuelas Normales prestarán un servicio social como base para obtener su título, de acuerdo con la reglamentación respectiva.
+
+### CAPITULO XIV. DEL RECURSO ADMINISTRATIVO
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 45.
 
@@ -780,3 +944,9 @@ P.O. 27 DE SEPTIEMBRE DE 1994.
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- En lo que se opongan al presente decreto, quedan derogadas todas las disposiciones legales reglamentarias y administrativas vigentes en la materia.
+
+P.O. 19 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
