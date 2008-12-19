@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2008-06-20"
+last_updated: "2008-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE EDUCACION DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -161,7 +161,9 @@ XII.- Desarrollar actitudes solidarias en los individuos para crear conciencia s
 
 XIII.- Contribuir a la construcción de una cultura de la salud promoviendo la educación física, la práctica del deporte, los hábitos de higiene y sana alimentación, así como la educación sexual, la prevención de adicciones y la erradicación de la violencia familiar;
 
-XIV.- Fomentar los valores de: respeto, libertad, justicia, democracia, igualdad, solidaridad, tolerancia, equidad y las características que han identificado a la población del Estado de Nuevo León: el trabajo, el ahorro, la capacidad emprendedora, la responsabilidad, la creatividad, la honestidad, la voluntad para enfrentar retos y adversidades y una visión del futuro de sí mismo y de la sociedad;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+XIV.- Fomentar los valores de: respeto, libertad, justicia, democracia, transparencia en el ejercicio de la función pública, igualdad, solidaridad, tolerancia, equidad y las características que han identificado a la población del Estado de Nuevo León: el trabajo, el ahorro, la capacidad emprendedora, la responsabilidad, la creatividad, la honestidad, la voluntad para enfrentar retos y adversidades y una visión del futuro de sí mismo y de la sociedad;
 
 XV.- Establecer la mejora continua en la calidad de los procesos académicos y administrativos del sistema educativo;
 
@@ -189,9 +191,11 @@ II.- Será nacional, en cuanto a que -sin hostilidades ni exclusivismos- atender
 
 III.- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio por la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los seres humanos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos, asimismo promoverá las estrategias necesarias para la eliminación de toda práctica, conducta y expresión de discriminación de género -masculino y femenino- y la subordinación de la mujer respecto al hombre.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 9.
 
-En las instituciones donde se imparta educación básica y formación de maestros, deberá difundirse la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Nuevo León, fomentando en quienes integran la comunidad escolar, la solidaridad y una firme conciencia cívica.
+En las instituciones integrantes del sistema educativo estatal, deberá difundirse la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Nuevo León, fomentando en quienes integran la comunidad escolar, la solidaridad y una firme conciencia cívica, promoviendo además que en los programas y planes de estudio, libros y materiales que se utilicen en las instituciones educativas, se incluyan contenidos y referencias a los derechos tutelados en la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
 ###### Artículo 10.
 
@@ -729,7 +733,9 @@ III.- Desarrollar su autoestima y a ser tratado con respeto y tolerancia a sus d
 
 IV.- No interrumpir su proceso educativo sin que medie causa legal alguna, ni aún en caso de embarazo; e
 
-V.- Integrar sociedades de alumnos y alumnas para fortalecer la cultura de participación democrática.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+V.- Integrar sociedades de alumnos y alumnas para fortalecer la cultura de la transparencia y de la participación democrática.
 
 ###### Artículo 69.
 
@@ -1033,9 +1039,11 @@ El Ejecutivo Estatal, a través de los convenios de coordinación, colaboración
 
 Las instituciones del Sistema Educativo Estatal podrán realizar actividades escolares y extra-escolares, con la finalidad de orientar en las personas una actitud reflexiva y analítica, en relación con los mensajes que difundan los medios de comunicación.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 104.
 
-Los medios de comunicación social del Gobierno del Estado y de los Municipios proporcionarán tiempo y espacios para difundir y promover actividades educativas y culturales.
+Los medios de comunicación social del Gobierno del Estado y de los Municipios proporcionarán tiempo y espacios para difundir y promover actividades educativas, culturales y las relacionadas con la promoción de la cultura de la transparencia.
 
 ###### Artículo 105.
 
@@ -1348,3 +1356,7 @@ P.O. 20 DE JUNIO DE 2008.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Los Centros o los Programas Educativos Especializados señalados en el Artículo 49, deberán iniciar operaciones a partir del inicio del ciclo escolar 2009 - 2010, o sujeto a la disponibilidad presupuestal conforme a la Ley de Egresos de ese año.
+
+P.O. 19 DE DICIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
