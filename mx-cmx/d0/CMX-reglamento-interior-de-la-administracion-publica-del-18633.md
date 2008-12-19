@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2008-11-25"
+last_updated: "2008-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -132,9 +132,13 @@ C) La Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental, a la
 
 2. Coordinación General de Proyectos Estratégicos y Enlace Gubernamental;
 
-3. Dirección General de Asuntos Agrarios del Distrito Federal, y
+3. Dirección General de Asuntos Agrarios del Distrito Federal, y (sic)
 
-4. Coordinación General de Enlace Institucional con los Gobiernos de los Estados.
+4. Coordinación General de Enlace Institucional con los Gobiernos de los Estados;
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2008)</small>
+
+5. Coordinación General de Planeación y Seguimiento.
 
 D) La Subsecretaría de Programas Delegacionales y Reordenamiento de la Vía Pública.
 
@@ -2289,6 +2293,30 @@ IX. Someter a consideración del Secretario de Gobierno la realización de progr
 X. Llevar a cabo el seguimiento, análisis, opinión e informes de los diversos asuntos que se tratan en las comisiones de la Conferencia Nacional de Gobernadores;
 
 XI. Las demás que le confieran el Jefe de Gobierno y el Secretario de Gobierno del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2008)</small>
+
+Artículo 48 Sextus.- Corresponde a la Coordinación General de Planeación y Seguimiento:
+
+I. Acordar con el titular de la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental, el despacho de los asuntos de su ámbito de competencia en materia de planeación y evaluación;
+
+II. Proponer las líneas generales de planeación y el proyecto de programa de trabajo anual, mismo que se presentará para su aprobación al titular de la misma;
+
+II (SIC). Participar, dentro del ámbito de competencia de la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental, en los mecanismos de atención y seguimiento del Programa General de Desarrollo del Distrito Federal, así como emitir opinión en el ámbito de su competencia, en los programas sectoriales y delegacionales;
+
+III. Opinar sobre la integración de los programas regionales y metropolitanos, y en aquellos del ámbito de los asuntos agrarios así como de los de regularización de la tenencia de la tierra;
+
+IV. Proponer estudios e investigaciones así como promover la realización y ejecución de proyectos en el ámbito regional y metropolitano;
+
+V. Promover la integración de los planes y programas regionales y los convenios de colaboración con los gobiernos estatales, para facilitar su consulta y con ello la planeación y seguimiento al cumplimiento de los convenios;
+
+VI. Proponer mecanismos de coordinación interinstitucional para atender los asuntos que requiera la Asamblea Legislativa del Distrito Federal;
+
+VII. Recopilar clasificar y archivar los informes remitidos a los órganos legislativos en materia de asuntos agrarios, regularización territorial, vinculación con las entidades federativas y desarrollo regional y metropolitano, a fin de dar un seguimiento puntual al cumplimiento de las obligaciones contraídas con dichos órganos;
+
+VIII. Llevar puntual seguimiento respecto del cumplimiento del programa de trabajo de la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental; y
+
+IX. Las demás que le atribuyan otras disposiciones legales y administrativas.
 
 #### SECCION III
 
@@ -8592,7 +8620,7 @@ E) Dirección General de Desarrollo Social;
 
 F) Dirección General de Participación Ciudadana y Gestión Social; y
 
-G) Dirección General de Seguridad Pública.
+G) (DEROGADO, G.O. 19 DE DICIEMBRE DE 2008)
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE NOVIEMBRE DE 2008)</small>
 
@@ -10154,53 +10182,9 @@ VII. Recibir, atender y dar respuesta a las solicitudes y peticiones que formule
 
 VIII. Proporcionar servicios funerarios básicos a la comunidad de escasos recursos.
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
-
 ###### Artículo 152.
 
-Corresponde a la Dirección General de Seguridad Pública:
-
-I. Formular, ejecutar y vigilar el Programa de Seguridad Pública Delegacional, en coordinación con la Secretaría de Seguridad Pública con aprobación del Comité Delegacional de Seguridad Pública;
-
-II. Promover la vinculación de la participación ciudadana con la acción policial para hacer posible una respuesta eficaz a la demanda de los ciudadanos en esta materia;
-
-III. Proponer en el ámbito de la demarcación territorial del Órgano Político Administrativo, los planes y programas, en coordinación con la Secretaría de Seguridad Pública, para salvaguardar la integridad y derechos de las personas, preservando la libertad, el orden y la paz pública;
-
-IV. Acordar con el Jefe Delegacional todo lo referente a seguridad pública en la demarcación territorial del Órgano Político Administrativo;
-
-V. Enlazar los Comités de Seguridad Pública con la Secretaría de Seguridad Pública y Procuraduría General de Justicia del Distrito Federal, y con las otras áreas del Órgano Político Administrativo;
-
-VI. Supervisar el cumplimento de las instrucciones del Jefe Delegacional, por parte de la policía sectorial bajo su mando;
-
-VII. Ejecutar las acciones operativas que acuerde el Jefe Delegacional, así como mantenerlo informado del desarrollo y culminación de las mismas;
-
-VIII. Planear, instruir, coordinar y supervisar las acciones encaminadas al buen funcionamiento de la Secretaría Técnica;
-
-IX. Coordinar con la Secretaría de Seguridad Pública las acciones que permitan reducir la comisión de delitos y se asegure el cumplimiento de las diferentes leyes y reglamentos;
-
-X. Revisar y en su caso someter a firma del Jefe Delegacional los convenios en la materia;
-
-XI. Supervisar de manera permanente el desempeño de los (sic) jefe de Sector;
-
-XII. Convocar a los (sic) Jefe de Sector, Fiscal Desconcentrado de la Procuraduría General de Justicia del Distrito Federal, Comités Vecinales y ciudadanía a las sesiones del Comité Delegacional de Seguridad Pública;
-
-XIII. Elaborar el Programa Delegacional de Seguridad Pública y presentarlo ante el Comité Delegacional;
-
-XIV. Diseñar, proponer, coordinar y supervisar programas de participación ciudadana para la prevención del delito;
-
-XV. Servir de enlace con la Comisión de Derechos Humanos del Distrito Federal, y el Consejo de Honor y Justicia de la Policía Preventiva del Distrito Federal;
-
-XVI. Elaborar estadísticas sobre la incidencia delictiva con la finalidad de detectar zonas de alto riesgo, teniendo una perspectiva general de la delincuencia en la demarcación territorial del Órgano Político-Administrativo, así como proponer acciones que permitan reducir la incidencia delictiva;
-
-XVII. Coordinar con los Jefes del Sector las acciones para auxiliar a la población en caso de desastre;
-
-XVIII. Solicitar a las instancias, correspondientes el apoyo de grupos especiales, previo visto bueno del Secretario Técnico y autorización del Jefe Delegacional;
-
-XIX. Presentar ante el Secretario competente los informes o quejas sobre la actuación y comportamiento de los miembros de los cuerpos de seguridad respecto de actos que presuntamente contravengan las disposiciones;
-
-XX. Proponer a la Dependencia respectiva la aplicación de las medidas para mejorar la vialidad, circulación y seguridad de vehículos y peatones en las vialidades primarias; y coadyuvar con la Secretaría de Transporte y vialidad en la realización de los estudios técnicos sobre la localización, normas y tarifas que deberán aplicarse para la ubicación, construcción y funcionamiento de los estacionamientos públicos, y
-
-XXI. Las demás que le atribuyan expresamente las leyes y reglamentos.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2008)
 
 > <small>(ADICIONADO, G.O. 15 DE JULIO DE 2005)</small>
 
@@ -12163,3 +12147,11 @@ G.O. 25 DE NOVIEMBRE DE 2008.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- Las Unidades Administrativas que con motivo de la entrada en vigor del presente Decreto deban transferir recursos humanos, materiales, técnicos y financieros a las Unidades Administrativas de nueva creación, lo harán en los términos y condiciones establecidos por la Secretaría de Finanzas y la Oficialía Mayor.
+
+G.O. 19 DE DICIEMBRE DE 2008.
+
+PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. - El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. - Las Secretaría de Gobierno y el Órgano Político Administrativo en Cuauhtémoc deberán realizar las adecuaciones y gestiones jurídico - administrativas presupuestales y de movimientos de personal, necesarias para la adecuada instrumentación de las disposiciones que establece este Decreto.
