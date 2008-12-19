@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2007-10-10"
+last_updated: "2008-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -2957,31 +2957,55 @@ c) Por reposición del documento en el que consta la concesión. 10 cuotas
 
 d) Por cambio de vehículo objeto de la concesión. 10 cuotas
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 277 Bis.
 
-Por la expedición de copias, certificaciones y reproducciones diversas, que expidan las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial del Gobierno del Estado, se causarán los derechos de acuerdo a las siguientes tarifas:
+Por la expedición de copias, certificaciones y reproducciones diversas, que expida cualquier autoridad, dependencia, entidad, órgano u organismo, estatal de Nuevo León, se causarán los derechos de acuerdo a las siguientes tarifas:
 
-I. Copias simples por hoja… 0.012 cuotas
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
-II. Copias a color por hoja… 0.24 cuotas
+I. Copias simples por hoja:
+
+a) Tamaño carta 0.012 cuotas
+
+b) Tamaño oficio 0.017 cuotas
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+II. Copias a color por hoja:
+
+a) Tamaño carta. 0.024cuotas
+
+b) Tamaño oficio. 0.034 cuotas
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 III. Copias certificadas por cada documento, sin perjuicio de lo dispuesto en las fracciones anteriores…1 cuota
 
-IV. Copias simples de planos… 0.43 cuotas
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-V. Copias simples de planos a color… 2 cuotas
+IV. Copias simples de planos 0.43 cuotas
 
-VI. Copias certificadas de planos… 3 cuotas
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-VII. Copias certificadas de planos a color… 5 cuotas
+V. Copias simples de planos a color 2 cuotas
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+VI. Copias certificadas de planos 3 cuotas
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+VII. Copias certificadas de planos a color 5 cuotas
 
 > <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
 En caso de reproducción en fotografías, cintas de video, dispositivos de archivos electrónicos o magnéticos, registros digitales, sonoros, visuales, holográficos y, en general, todos aquellos medios o soportes derivados de los avances de la ciencia y la tecnología en que obre la información que se requiera, serán proporcionados por el interesado.
 
-En todos los casos, con excepción del Poder Judicial del Estado, por búsqueda y localización de documentos, archivos y expedientes y demás información solicitada, generará 1 cuota, sin perjuicio del derecho que corresponda por las copias expedidas.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+En todos los casos, con excepción del Poder Judicial del Estado y de las solicitudes tramitadas en los términos que establece la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, por búsqueda y localización de documentos, archivos, y expedientes y demás información solicitada, generará 1 cuota, sin perjuicio del derecho que corresponda por las copias expedidas.
 
 ### CAPITULO QUINTO. De los Derechos por Servicios Prestados por la Secretaría de Finanzas y Tesorería General
 
@@ -3570,3 +3594,7 @@ Artículo Único.- El presente Decreto entrará en vigor el día de su publicaci
 P.O. 10 DE OCTUBRE DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor a partir del día 01 de enero del 2008.
+
+P.O. 19 DE DICIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
