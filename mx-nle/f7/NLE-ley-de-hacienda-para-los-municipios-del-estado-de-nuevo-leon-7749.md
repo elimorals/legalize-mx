@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2007-01-13"
+last_updated: "2008-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -2139,13 +2139,23 @@ Por expedición de certificados, autorizaciones, constancias o registros:
 
 I.- Por la expedición de copias, certificaciones, constancias y reproducciones diversas, que expidan las dependencias y entidades del gobierno municipal, se causarán los derechos de acuerdo a las siguientes tarifas:
 
-a) Copias simples por hoja 0.012 cuotas
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
-b) Copias a color por hoja 0.24 cuotas
+a) Copias simples por hoja:
 
-c) Copias certificadas por cada documento, sin perjuicio de lo
+1. Tamaño carta 0.012 cuotas
 
-dispuesto en las fracciones anteriores 1 cuota
+2. Tamaño oficio 0.017 cuotas
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+b) Coplas a color por hoja:
+
+1. Tamaño carta 0.024 cuotas
+
+2. Tamaño oficio 0.034 cuotas
+
+c) Copias certificadas por cada documento, sin perjuicio de lo dispuesto en las fracciones anteriores 1 cuota
 
 d) Copias simples de planos 0.43 cuotas
 
@@ -2157,13 +2167,13 @@ g) Copias certificadas de planos a color 5 cuotas
 
 h) Diversas constancias y certificaciones 1 cuota
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
-En caso de reproducción en medios magnéticos, fotográficos, sonoros, ópticos o visuales y otros, los materiales que se requieran serán proporcionados por el interesado.
+En caso de reproducción en fotografías, cintas de video, dispositivos de archivos electrónicos o magnéticos, registros digitales, sonoros, visuales, holográficos y, en general, todos aquellos medios o soportes derivados de los avances de la ciencia y la tecnología en que obre la información que se requiera, serán proporcionados por el Interesado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
-En todos los casos, por búsqueda y localización de documentos, archivos y expedientes y demás información solicitada, generará 1 cuota, en cada caso, sin perjuicio del derecho que corresponda por las copias expedidas.
+En todos los casos, con excepción de las solicitudes tramitadas en los términos que establece la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, por búsqueda y localización de documentos, archivos y expedientes y demás información solicitada, generará 1 cuota, en cada caso sin perjuicio del derecho que corresponda por las copias expedidas.
 
 (REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)(F. DE E., P.O. 18 DE ENERO DE 1999)
 
@@ -3630,3 +3640,7 @@ Artículo Único.- El presente Decreto entrará en vigor el 1º de Enero del añ
 P.O. 13 DE ENERO DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE DICIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
