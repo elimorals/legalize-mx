@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-planeacion-y-22346"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-05"
-last_updated: "2001-10-05"
+last_updated: "2008-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE PLANEACION Y FINANZAS DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el viernes 5 de octubre de 2001.
 
@@ -371,9 +371,13 @@ I. Dirección de Ingresos;
 
 II. Dirección de Egresos;
 
-III. Dirección de Contabilidad Gubernamental; y
+III. Dirección de Contabilidad Gubernamental; y (sic)
 
-IV. Dirección de Auditoría Fiscal.
+IV. Dirección de Auditoría Fiscal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+V. Dirección de Verificación Aduanera.
 
 ###### ARTICULO 19.
 
@@ -624,6 +628,52 @@ XV. Revisar los dictámenes que emitan los contadores públicos respecto de los 
 XVI. Las demás que le confieran otros ordenamientos legales y administrativos, le encomiende el Subsecretario o el Secretario.
 
 La Dirección de Auditoría Fiscal contará con los servidores públicos que se requieran para el mejor desempeño de sus funciones, los cuales tendrán a su cargo la atención y despacho de los asuntos que expresamente les instruya el Director.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 25 BIS.- Compete a la Dirección de Verificación Aduanera el ejercicio de las siguientes atribuciones:
+
+I. Ordenar y practicar visitas domiciliarias para la verificación de vehículos y mercancías de procedencia extranjera a fin de comprobar su legal importación, almacenaje, estancias o tenencias en territorio nacional, de conformidad con la legislación aplicable, y en su caso, el embargo precautorio de las mismas;
+
+II. Ordenar y realizar la verificación de vehículos en circulación, aún y cuando no se encuentren en movimiento, y mercancías en transporte, de origen o procedencia extranjera, a fin de comprobar su legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional, de conformidad con la legislación aplicable, y en su caso, el embargo precautorio de las mismas;
+
+III. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos u otros documentos e informes; recabar de los servidores públicos y de los fedatarios públicos los informes y datos que tengan con motivo de sus funciones, así como autorizar prórrogas para su presentación, y mantener la comunicación y coordinación con las aduanas del país, las autoridades aduaneras federales y las demás autoridades locales del Estado, para el ejercicio de sus funciones conforme al Anexo número 8 publicado en el Periódico Oficial del Estado el 03 de julio de 2008, al Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre el Gobierno Federal por conducto de la Secretaría de Hacienda y Crédito Público y el Gobierno del Estado de Baja California, publicado en el Diario Oficial de la Federación el 21 de noviembre de 1996;
+
+IV. Iniciar, tramitar y resolver el procedimiento administrativo en materia aduanera o el procedimiento administrativo en materia aduanera o el procedimiento establecido en el artículo 152 de la Ley Aduanera o del artículo que lo sustituya;
+
+V. Determinar los impuestos generales de importación y de exportación, el derecho de trámite aduanero, el impuesto al valor agregado, el impuesto sobre automóviles nuevos, el impuesto sobre tenencia o uso de vehículos, el impuesto especial sobre producción y servicios, su actualización y accesorios, aplicar cuotas compensatorias, así como imponer sanciones por el incumplimiento de regulaciones y restricciones no arancelarias incluyendo las normas oficiales mexicanas que correspondan y que resulten a cargo de los contribuyentes, responsables solidarios y demás obligados, de conformidad con las disposiciones legales aplicables;
+
+VI. Verificar y determinar en su caso, la naturaleza, características, el valor en aduana y el valor comercial, de vehículos y mercancías, así como su correcta clasificación arancelaria, de conformidad con las disposiciones legales aplicables y designar los peritos que se requieran para su formulación de los dictámenes técnicos en estas matarías;
+
+VII. Acordar con el Subsecretario de Finanzas, el destino de las mercancías, así como la destrucción, donación, asignación o venta de mercancías perecederas, de fácil descomposición o deterioro o de animales vivos, embargados precautoriamente, en los términos de la legislación aplicable;
+
+VIII. Aplicar el tratamiento que establezcan las disposiciones aplicables, tratándose de mercancías que represente perjuicio para la seguridad nacional, la salud pública y el medio ambiente;
+
+IX. Elaborar reporte de las asignaciones de mercancías, como parte de las obligaciones de la rendición de la cuenta de la hacienda pública;
+
+X. Imponer multas por infracciones a las disposiciones fiscales o aduaneras, que conozca con motivo de ejercicio de sus funciones;
+
+XI. Formular y ejecutar con la aprobación del Subsecretario, los programas de trabajo relativos a la ejecución de las facultades de comprobación;
+
+XII. Informar al Subsecretario sobre los hechos que tenga conocimiento con motivo de sus actuaciones, que puedan constituir delitos fiscales o delitos de los servidores públicos de la Secretaría en el desempeño de sus funciones, y en su caso, turnar a la Procuraduría Fiscal el expediente respectivo, para los efectos legales a que haya lugar;
+
+XIII. Revisar y, en su caso, modificar o revocar las resoluciones administrativas de carácter individual no favorables a un particular, que haya emitido en contravención de las disposiciones fiscales aplicables;
+
+XIV. Nombrar y designar verificadores y auditores, para que ejerzan las atribuciones que expresamente se les encomienden de conformidad con la legislación aplicable, así como otorgar y expedir credenciales y/o oficios de identificación a los mismos;
+
+XV. Habilitar mediante acuerdo escrito, horas y días inhábiles para la práctica de las actuaciones relacionadas con sus funciones;
+
+XVI. Notificar a los contribuyentes, responsables solidarios y demás obligados, las resoluciones que emita con motivo del ejercicio de sus atribuciones;
+
+XVII. Informar al Subsecretario del inicio del procedimiento administrativo en materia aduanera, y de la aplicación del procedimiento establecido en el artículo 152 de la Ley Aduanera o del artículo que los sustituya, dentro del término de quince días hábiles, contados a partir de la fecha del embargo precautorio previsto en los artículos 150 y 151 de la Ley aduanero, a los artículos que lo sustituyan, para los efectos previstos en la Clausula Decimosexta del Anexo número 8 en la fracción tercera del presente artículo;
+
+XVIII. Ejercer las demás atribuciones que se le confieren el Estado en el Anexo número 8 del Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre el Ejecutivo Federal por el conducto de la Secretaría de Hacienda y Crédito Público y el Gobierno del Estado de Baja California, con excepción de las que se encuentran conferidas a otras autoridades fiscales estatales, de conformidad con lo dispuesto en el presente Reglamento, y
+
+XIX. Las demás que le confieren otros ordenamientos legales y administrativos, o le encomiende el Subsecretario o el Secretario.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 25 TER.- La Dirección de Verificación Aduanera contara con los servidores públicos que se requieran para el mejor ejercicio de sus atribuciones, los cuales tendrán a su cargo la atención y despacho de los asuntos que expresamente les instruyan el Director.
 
 ### CAPITULO VI. DE LA SUBSECRETARIA DE ESTRATEGIAS Y POLITICAS SECTORIALES
 
@@ -1148,3 +1198,11 @@ C.P. JORGE RAMOS
 EL SECRETARIO DE PLANEACION Y FINANZAS
 
 C.P. JOSE GUADALUPE ZAMORANO RAMIREZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará envigar al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las facultades a que se refiere el artículo 25 bis que se adiciona, serán ejercidas en los mismos términos de dicho artículo por el Director de Ingresos del Estado, hasta en tanto sea nombrado el Director de Verificación Aduanera.
