@@ -4,7 +4,7 @@ identifier: "QUE-ley-electoral-del-estado-de-queretaro-13245"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-05"
-last_updated: "2008-12-13"
+last_updated: "2008-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY ELECTORAL DEL ESTADO DE QUERETARO
 
-LEY ELECTORAL DEL ESTADO DE QUERETARO
+LEY ELECTORAL DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 5 de diciembre de 1996.
 
@@ -39,13 +39,13 @@ Por lo anteriormente fundado y motivado la H. Legislatura ha tenido a bien exped
 
 LEY ELECTORAL DEL ESTADO DE QUERETARO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 # LIBRO PRIMERO. DERECHOS Y OBLIGACIONES POLÍTICO-ELECTORALES, INSTITUCIONES POLÍTICAS Y PROCESO ELECTORAL
 
 ## TÍTULO PRIMERO. Disposiciones Generales
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ### CAPÍTULO I. De la Naturaleza de las Normas
 
@@ -101,7 +101,7 @@ La publicidad, bajo cualquier modalidad de comunicación social, que difundan co
 
 Para los efectos de lo dispuesto por el párrafo séptimo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, el informe anual de labores o gestión de los servidores públicos, así como la publicidad que para darlos a conocer se difunda, no serán considerados como propaganda, siempre que la misma se limite a una vez al año en la Entidad y no exceda de los siete días anteriores y cinco posteriores a la fecha en que se rinda el informe. En ningún caso la difusión de éstos podrá tener fines electorales, ni realizarse dentro del periodo de campaña electoral.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ### CAPÍTULO II. De los Derechos y Obligaciones Político-Electorales de los Ciudadanos
 
@@ -303,7 +303,7 @@ VIII. El desempeño de la observación electoral será una actividad gratuita y 
 
 IX. Los observadores electorales están impedidos para recibir financiamiento del Gobierno Federal, Estatal y Municipal, de los partidos políticos, coaliciones, candidatos, asociaciones políticas o religiosas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ## TITULO SEGUNDO. De la Elección
 
@@ -417,7 +417,7 @@ No podrá registrarse a una misma persona para contender por más de un cargo de
 
 Se exceptúa de lo anterior, a candidatos a presidentes municipales y regidores que integren la fórmula de Ayuntamiento por el principio de mayoría relativa y regidores de representación proporcional, así como a los candidatos a Diputados por el principio de mayoría relativa que integren la lista de Diputados de representación proporcional.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ### CAPÍTULO II. De la Integración de los Poderes Legislativo y Ejecutivo y de los Ayuntamientos
 
@@ -453,7 +453,7 @@ b) Elaborado el estudio técnico se turnará al Consejo General para su aprobaci
 
 El Instituto Electoral de Querétaro, a solicitud de cualquier Ayuntamiento, podrá ser coadyuvante en la preparación y organización de los procesos de elección de sus delegados y subdelegados municipales, en los términos que señale la ley de la materia, los reglamentos y los acuerdos emitidos por los ayuntamientos para tales efectos. Previo convenio en apego a esta Ley, suscrito entre el ayuntamiento solicitante y el Instituto, donde se comprometa el Ayuntamiento a sujetarse a los principios rectores de la función electoral: certeza, legalidad, independencia, imparcialidad, equidad y objetividad, y a la aplicación adecuada de los procedimientos contenidos en la presente Ley para la preparación de las elecciones de las autoridades auxiliares municipales, ajustados a los plazos que prevengan las disposiciones legales antes mencionadas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ### CAPÍTULO III. Disposiciones Complementarias
 
@@ -495,11 +495,11 @@ Cuando se celebre una elección extraordinaria, la convocatoria se expedirá den
 
 Las vacantes definitivas de diputados y regidores por falta absoluta de propietario y suplente, serán cubiertas por aquellos que sigan en la lista registrada, después de la asignación efectuada por el Consejo General o consejo correspondiente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ## TÍTULO TERCERO. De las Instituciones Políticas
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ### CAPÍTULO I. Generalidades
 
@@ -663,7 +663,7 @@ VI. Las demás disposiciones previstas en la normatividad aplicable.
 
 ### CAPÍTULO III. De las Prerrogativas de los Partidos Políticos
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 #### SECCIÓN PRIMERA. Generalidades
 
@@ -701,7 +701,7 @@ IV. Si con motivo del acto que se realizará, el solicitante efectuara marchas p
 
 V. Si con motivo del acto que se realizará, el solicitante efectuara mítines para acceder al inmueble requerido que impliquen la interrupción temporal y parcial de vialidades, en la solicitud que presente deberá indicar a la autoridad el tiempo de duración y los responsables del mitin, a efecto de que la autoridad implemente las medidas pertinentes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 #### SECCIÓN SEGUNDA. Del Financiamiento
 
@@ -819,7 +819,7 @@ III. Inversiones en el extranjero; y
 
 IV. Créditos provenientes de la banca de desarrollo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 #### SECCIÓN TERCERA. De la Contabilidad
 
@@ -923,7 +923,7 @@ El Instituto Electoral de Querétaro, por conducto de la Dirección Ejecutiva de
 
 Los particulares que incumplan algún requerimiento o presenten información, datos, documentos o registros que no sean verídicos o estén incompletos, serán sometidos al procedimiento de aplicación de sanciones previsto en esta Ley, sin perjuicio de otras responsabilidades que finquen o determinen las autoridades competentes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 #### SECCIÓN CUARTA. Del Acceso al Uso del Tiempo en Radio y Televisión, así como a los demás Medios de Comunicación Masiva
 
@@ -977,11 +977,11 @@ II. La imposibilidad de obsequiar espacios a algún partido político, salvo que
 
 El Consejo General del Instituto Electoral de Querétaro, solicitará a los medios de comunicación masiva en la Entidad, cumplan con las obligaciones que establezca la ley de la materia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ## TÍTULO CUARTO. Del Instituto Electoral de Querétaro
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ### CAPÍTULO I. Disposiciones Generales
 
@@ -5324,3 +5324,13 @@ Artículo Segundo. Lo previsto por el artículo 43, fracción III, inciso a) de 
 Artículo Tercero. La convocatoria aprobada el 15 de octubre del 2008 por el Consejo General del Instituto Electoral de Querétaro para la integración de los consejos distritales y municipales para el proceso electoral 2009, será válida y tendrá aplicación para los efectos de lo dispuesto por el artículo 82 fracción I de la presente Ley.
 
 Artículo Cuarto. Los asuntos que se encuentren en trámite, o pendientes de resolución a la entrada en vigor de la presente Ley, se resolverán conforme a las normas que regían al momento de su inicio.
+
+P.O. 20 DE DICIEMBRE DE 2008.
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+> <small>(F. DE E., 31 DE DICIEMBRE DE 2008)</small>
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+Artículo Tercero. Los asuntos que se encuentren en trámite o pendientes de resolución, surgidos con anterioridad a la entrada en vigor de la presente Ley, se sustanciarán y resolverán hasta su total conclusión, conforme a las normas del ordenamiento vigente al momento de su inicio.
