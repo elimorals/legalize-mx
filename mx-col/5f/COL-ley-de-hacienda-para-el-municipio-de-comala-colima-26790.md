@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-comala-colima-26790"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2008-03-22"
+last_updated: "2008-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -181,13 +181,123 @@ Este impuesto se determinará y liquidará de conformidad con las cuotas y tasas
 
 I. Para los predios urbanos edificados se aplicará la siguiente:
 
-(VEASE TABLA ANEXA)
+T A R I F A
+
+BASE GRAVABLE IMPUESTO ANUAL
+
+(EN PESOS)
+
+LIMITE LIMITE CUOTA TASA PARA
+
+INFERIOR SUPERIOR FIJA EN APLICARSE
+
+UNIDAD AL
+
+DE EXCEDENTE
+
+SALARIO DEL
+
+LIMITE
+
+INFERIOR
+
+0 40,400 2.00 .0000000
+
+40,401 48,400 2.00 .0005525
+
+48,401 58,400 2.55 .0005850
+
+58,401 68,400 3.25 .0006175
+
+68,401 72,000 4.00 .0006500
+
+72,001 122,000 4.43 .0006825
+
+122,001 172,000 7.85 .0007150
+
+172,001 222,000 11.57 .0007475
+
+222,001 288,000 15.38 .0007800
+
+288,001 338,000 21.06 .0008125
+
+338,001 388,000 25.70 .0008450
+
+388,001 438,000 30.64 .0008775
+
+438,001 480,000 35.86 .0009100
+
+480,001 560,000 40.41 .0009425
+
+560,001 640,000 49.13 .0009750
+
+640,001 720,000 58.02 .0010075
+
+720,001 800,000 67.37 .0010400
+
+800,001 880,000 77.23 .0010725
+
+880,001 960,000 87.53 .0011050
+
+960,001 1'040,000 98.29 .0011375
+
+1'040,001 1'120,000 109.52 .0011700
+
+1'120,001 1'200,000 121.21 .0012025
+
+1'200,001 1'280,000 133.38 .0012350
+
+1'280,001 a 1'360,000 146.01 .0012675
+
+1'360,001 a 1'440,000 159.11 .0013000
+
+1'440,001 EN 173.00 .0020010
+
+ADELANTE
 
 II. Para los predios urbanos no edificados se aplicará a la base gravable la tasa anual del 0.006;
 
 III. Para los predios rústicos se aplicará la siguiente:
 
-(VEASE TABLA ANEXA)
+T A R I F A
+
+BASE GRAVABLE IMPUESTO ANUAL
+
+(EN PESOS)
+
+LIMITE LIMITE CUOTA TASA PARA
+
+INFERIOR SUPERIOR FIJA EN APLICARSE
+
+UNIDAD AL
+
+DE EXCEDENTE
+
+SALARIO DEL
+
+LIMITE
+
+INFERIOR
+
+0 9,600 3.00 .000000
+
+9,601 12,400 3.00 .003510
+
+12,401 14,400 4.00 .003575
+
+14,401 16,400 4.72 .003640
+
+16,401 18,400 5.47 .003705
+
+18,401 20,400 6.25 .003770
+
+20,401 22,000 7.04 .003835
+
+22,001 24,000 7.86 .003900
+
+24,001 EN 8.43 .004000
+
+ADELANTE
 
 Para la determinación del impuesto aplicando las tarifas previstas en las fracciones I y III de este artículo, se sujetará al siguiente procedimiento:
 
@@ -367,7 +477,27 @@ III. En las transmisiones que se realicen con motivo de la disolución de la soc
 
 Los contribuyentes calcularán el impuesto aplicando a la base que resulte conforme a lo dispuesto por los artículos 25, 26 y 27 de esta Ley, según el caso, la siguiente:
 
-(VEASE TABLA ANEXA)
+T A R I F A
+
+BASE DEL IMPUESTO
+
+LIMITE LIMITE CUOTA TASA PARA
+
+INFERIOR SUPERIOR FIJA APLICARSE AL
+
+EXCEDENTE
+
+DEL
+
+LIMITE
+
+INFERIOR
+
+$ 0.01 $ 250,000.00 $ 0.00 0.0025
+
+250,000.01 300,000.00 625.00 0.0080
+
+300,000.01 En adelante 1,025.00 0.0200
 
 El pago del impuesto deberá efectuarse dentro de los quince días siguientes a aquél en que se realice cualesquiera de los supuestos que a continuación se señalan:
 
@@ -823,9 +953,25 @@ h) Manufacturas y usos industriales 0.07 a 0.28
 
 i) Otros 0.10 a 0.70
 
-VII. Los pagos de las licencias contempladas en este artículo previo dictamen de la dependencia municipal competente, cuando se trate de trabajos a consecuencia de fenómenos naturales: 0.00
+VII. Los pagos de las licencias
 
-VIII. Permisos de obras que realicen patronatos y organizaciones civiles cuyos fines sean eminentemente sociales, por evento 0.00
+contempladas en este artículo previo
+
+dictamen de la dependencia municipal
+
+competente, cuando se trate de
+
+trabajos a consecuencia de
+
+fenómenos naturales: 0.00
+
+VIII. Permisos de obras que realicen
+
+patronatos y organizaciones civiles
+
+cuyos fines sean eminentemente
+
+sociales, por evento 0.00
 
 IX. Permisos de obra de los gobiernos federal y estatal, así como las instituciones y organismos descentralizados:
 
@@ -839,9 +985,63 @@ b).- Reparación o remodelación, por
 
 trámite 4.00
 
-X. Permisos similares no previstos en este artículo, por metro cuadrado o fracción:
+X. Permisos similares no previstos en
 
-0.30 a 5.00
+este artículo, por metro cuadrado o
+
+fracción: 0.30 a 5.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+XI. Permisos de construcción de sistemas de comunicación, por metro lineal de altura de la antena, de acuerdo a la siguiente clasificación:
+
+a).- Antenas de comunicación. 1.83
+
+b).- Antenas de radio comunicación. 1.83
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+XII. Permisos de construcción o ampliación de instalaciones, de acuerdo a la siguiente clasificación, Por (sic) metro lineal:
+
+a).- Áreas. 1.00
+
+b).- Subterráneas. 1.50
+
+c).- Terracerías. 1.70
+
+d).- Empedrados. 2.00
+
+e).- Adoquín. 4.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+XIII. Permiso de construcción de accesos, carril de aceleración y aceleración de bayonetas, glorietas y retornos, Por (sic) m2 según su clasificación:
+
+a).- Empedrados o terracería. 0.03
+
+b).- Asfalto. 0.05
+
+c).- Concreto hidráulico. 0.07
+
+d).- Adoquín. 0.09
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+XIV. Elaboración de planos para construcción, por metro cuadrado.
+
+a).- Menor o igual a 40 M2 de
+
+construcción. 0.05
+
+b).- Mayor de 40 M2 de construcción. 0.10
 
 ###### ARTICULO 63.
 
@@ -1345,49 +1545,191 @@ Es base para el cálculo de los derechos a que se refiere este Capítulo, el nú
 
 Para la realización de los actos de publicidad referidos en el artículo 71 de esta Ley, se requerirá tener previamente la licencia o autorización respectiva; tratándose de publicidad ya instalada deberá solicitarse el refrendo durante los meses de enero y febrero del ejercicio que se trate.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 76.
 
-Los derechos que se refiere la presente sección se pagarán por anualidad, de conformidad con las siguientes tarifas:
+Los derechos a que se refiere la presente sección se pagarán por anualidad, de conformidad con las siguientes tarifas:
 
-Unidad de Salario
+I. Publicidad permanente, por anualidad:
 
-a).- Pintados o adosados a la fachada,
+a) Pintado opaco con superficie hasta:
 
-opacos hasta de 1.5 M2 1.00
+1.- Pintado con superficie hasta 2.00 M2 opaco 2.00
 
-b).- Pintados o adosados a la fachada,
+2.- Con superficie mayor de 2.00 M2 y hasta
 
-opacos de mas de 1.5 M2 3.00
+4.00 M2 opaco 4.00
 
-c).- Adosados a la fachada, luminosos 8.00
+3.- Con superficie mayor de 4.00 M2 opaco 6.00
 
-d).- Rotulados temporales hasta por
+b) Adosado opaco con superficie hasta:
 
-30 días 1.00
+1.- Con superficie hasta 2.00 M2 opaco 1.00
 
-e).- Autosoportados, tipo bandera,
+2.- Con superficie mayor de 2.00 M2 y
 
-opacos 6.00
+hasta 4.00 M2 opaco 2.00
 
-f).- Autosoportados, tipo bandera,
+3.- Con superficie mayor de 4.00 M2 opaco 4.00
 
-luminosos 10.00
+c) Colgante o voladizo opaco con superficie hasta:
 
-g).- En azoteas 12.00
+1.- Con superficie hasta 2.00 M2 opaco 1.00
 
-h).- Mantas provisionales, hasta por
+2.- Con superficie mayor de 2.00 M2 y hasta
 
-30 días 1.00
+4.00 m2 opaco 2,00
 
-i).- Móviles no sonoros 10.00
+3.- Con superficie mayor de 4.00 M2 opaco 4.00
 
-j).- Tratándose de publicidad realizada por autoparlantes sonoros fijos o móviles, se pagará:
+d) Adosado luminoso con superficie hasta:
 
-Por anualidad 20.00
+1.- Con superficie hasta 2.00 M2 luminoso 2.00
 
-Por día 1.00
+2.- Con superficie mayor de 2.00 M2 y hasta 4.00
 
-k).- Otros no especificados de 1.00 a 12.00
+M2 luminoso 4.00
+
+3.- Con superficie mayor de 4.00 M2 luminoso 6.00
+
+e) Colgante o voladizo luminoso con superficie hasta:
+
+1.- Colgante o voladizo con superficie hasta
+
+2.00 M2 luminoso 2.00
+
+2.- Colgante o voladizo con superficie mayor de
+
+y hasta 4.00 M2 luminoso 4.00
+
+3.- Colgante o voladizo con superficie mayor de
+
+4.00 M2 luminoso 6.00
+
+f) Autosoportado tipo paleta opaco con superficie hasta:
+
+1.- Con superficie de hasta 3.00 M2 opaco 4.00
+
+2.- Con superficie de más de 3.00 M2 hasta
+
+8.00 M2 opaco 12.00
+
+3.- Con superficie de más de 8 M2 hasta
+
+12 M2 opaco 18.00
+
+g) Autosoportado tipo paleta con más de 12 M2 opaco más el 10 por ciento por metro excedente del numeral anterior.
+
+h) Autosoportado tipo bandera opaco con superficie de hasta:
+
+1.- Con superficie de hasta 3.00 M2 opaco 4.00
+
+2.- Con superficie de más de 3.00 M2 hasta
+
+8.00 M2 opaco 12.00
+
+3.- Auto soportado tipo bandera con superficie
+
+de más de 8.00 M2 hasta 12.00 M2 opaco 18.00
+
+i) Autosoportado tipo bandera con superficie de más de 12 M2 opaco más el 10 porciento metro excedente del numeral anterior.
+
+j) Autosoportado tipo paleta luminoso con superficie hasta:
+
+1.- Con superficie de hasta 3.00 M2 luminoso 6.00
+
+2.- Con superficie de más de 3.00 M2 hasta
+
+8.00 M2 luminoso 1.00
+
+3.- Con superficie de más de 8.00 M2 hasta
+
+12.00 M2 luminoso 24.00
+
+k) Autosoportado tipo paleta con superficie de más de 12 M2 luminoso más el 10 por ciento por metro excedente del numeral anterior.
+
+l) Autosoportado tipo bandera luminoso con superficie de hasta:
+
+1.- Con superficie de hasta 3.00 M2 luminoso 6.00
+
+2.- Con superficie de más de 3.00 M2 y hasta
+
+8.00 M2 luminoso 16.00
+
+3.- Con superficie de más de 8.00 M2
+
+hasta 12.00 M2 luminoso 24.00
+
+m) Autosoportado tipo bandera con superficie de más de 12.00 M2 luminoso más el 10 por ciento por metro excedente del numeral anterior.
+
+n) Estructural en azotea hasta:
+
+1.- hasta 35.00 M2 60.00
+
+2.- de más de 35 M2 y hasta 60 M2 90.00
+
+3.- de más de 60 M2 120.00
+
+ñ) Estructural en piso hasta:
+
+1.- hasta 35.00 M2 60.00
+
+2.- de más de 35 M2 y hasta 60 M2 90.00
+
+3.- de más de 60 M2 120.00
+
+o) Estructural pantalla electrónica hasta:
+
+1.- hasta 35.00 M2 52.00
+
+2.- de más de 35 M2 y hasta 60 M2 80.00
+
+3.- de más de 60 M2 110.00
+
+p) Pintado en caseta telefónica 12.00
+
+q) Adosado en caseta telefónica 12.00
+
+r) Pintado en puesto fijo en la vía pública 2.00
+
+s) Adosado en puesto fijo en la vía pública 2.00
+
+t) Pintado en puesto semifijo en la vía pública 2.00
+
+u) Adosado en puesto semifijo en la vía pública 2.00
+
+v) Altoparlantes sonoros móvil, por vehículo 40.00
+
+w) Otros no especificados, por M2 o por evento,
+
+según sea el caso 1.00 a 120.00
+
+II. Publicidad Transitoria.
+
+1.- Con superficie hasta 2.00 M2 por 30 días
+
+naturales 1.00
+
+2.- Con superficie de 2.00 M2 y hasta 4.00 M2 hasta
+
+30 días naturales 2.00
+
+3.- Con superficie mayor de 4.00 M2 hasta por 30
+
+días naturales 3.00
+
+4.- Distribución de volante y/o folletos en vía
+
+pública cada vez que se solicite 2.00
+
+5.- Carteles publicitarios por promoción 2.00
+
+6.- Autoparlantes sonoros móvil por día 1.00
+
+7.- Otros no especificados 1.00 a 3.00
 
 ###### ARTICULO 77.
 
@@ -2504,3 +2846,7 @@ TERCERO.- Para el ejercicio fiscal 2008, el plazo a que se refieren el segundo p
 P.O. 22 DE MARZO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE DICIEMBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el 01 de enero de 2009, previa su publicación en el Periódico Oficial "El Estado de Colima".
