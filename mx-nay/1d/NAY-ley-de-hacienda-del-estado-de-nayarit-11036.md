@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-11036"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-26"
-last_updated: "2007-12-15"
+last_updated: "2008-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 26 de diciembre de 1990.
 
@@ -171,47 +171,41 @@ La obligación de presentar declaración subsistirá, aún cuando no se hayan ef
 
 #### SECCION SEXTA. DE LAS EXENCIONES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 15.
 
 Están exentas del pago de este Impuesto:
 
 I.- Las erogaciones que se cubran por concepto de:
 
-A) Participaciones de los trabajadores en las utilidades de las empresas;
+a). Participaciones de los trabajadores en las utilidades de las empresas;
 
-B) Indemnizaciones por riesgos o enfermedades profesionales, que se concedan de acuerdo con las Leyes o Contratos respectivos.
+b). Indemnizaciones por riesgos o enfermedades profesionales, que se concedan de acuerdo con las Leyes o Contratos respectivos;
 
-C) Indemnizaciones por rescisión o terminación de la relación laboral, que tenga su origen en la prestación de servicios personales subordinados;
+c). Indemnizaciones por rescisión o terminación de la relación laboral, que tenga su origen en la prestación de servicios personales subordinados;
 
-D) Pensiones y Jubilaciones en los casos de invalidez, vejez, cesantía y muerte.
+d). Pensiones y Jubilaciones en los casos de invalidez, vejez, cesantía y muerte;
 
-E) Pagos por gastos funerarios;
+e). Pagos por gastos funerarios;
 
-F) Gastos de representación y viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la Ley del Impuesto sobre la Renta;
+f). Gastos de representación y viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la Ley del Impuesto sobre la Renta;
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1995)</small>
+g). Gastos de Previsión Social, en los términos de la Ley del Impuesto Sobre la Renta;
 
-G) Gastos de Previsión Social, en los términos de la Ley del Impuesto Sobre la Renta;
+h). Aguinaldos;
 
-H) Aguinaldos.
+¡). Aportaciones de seguridad social, fondos de ahorro para el retiro constituidos de acuerdo a las leyes de la materia, a cargo del patrón.
 
 II.- Las erogaciones que efectúen:
 
-A) La Federación, Estado y Municipios, excepto los Organismos y Empresas Descentralizadas de dichas Entidades, sujetos al régimen del Impuesto sobre la Renta;
+a). Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas;
 
-B) Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas;
+b), Asociaciones de trabajadores, organismos empresariales que no realicen actividades lucrativas y colegios de profesionistas, y
 
-C) Asociaciones de trabajadores, organismos empresariales que no realicen actividades lucrativas y colegios de profesionistas.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1991)</small>
-
-D) Partidos Políticos;
-
-E) Quienes realicen actividades comerciales en puestos fijos, semifijos, ambulantes, tianguis y locatarios de los mercados.
-
-F) (DEROGADO, P.O. 25 DE DICIEMBRE DE 1991)
-
-G) (DEROGADO, P.O. 25 DE DICIEMBRE DE 1991)
+c). Los partidos políticos.
 
 #### SECCION SEPTIMA. DE LA ESTIMACION DE EROGACIONES
 
@@ -675,11 +669,23 @@ Los servicios prestados bajo el sistema "todo incluido" por el cual el pago de l
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
+#### SECCION PRIMERA. OBJETO Y SUJETOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 61.
 
 Este impuesto se calculará y liquidará aplicando la tasa que al efecto establezca la Ley de Ingresos del Estado.
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
+#### SECCION SEGUNDA. BASE, TASA Y PAGO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 62.
 
@@ -688,6 +694,12 @@ Los contribuyentes deberán presentar declaración bimestral ante la oficina rec
 El pago será la cantidad que resulte de aplicar la tasa del impuesto sobre el total de los ingresos por la prestación de los servicios a que se refiere este Capítulo, obtenido en el periodo por el que se efectúa la declaración.
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
+#### SECCION TERCERA. RESPONSABILIDAD DE TERCEROS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 63.
 
@@ -706,6 +718,12 @@ E) Seminarios
 F) Internados.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
+#### SECCION CUARTA. EXENCIONES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 64.
 
@@ -931,19 +949,167 @@ Cuando una persona física realice en el año calendario erogaciones superiores 
 
 Cuando el contribuyente obtenga ingresos de los previstos en esta Ley y no presente declaración anual estando obligado a ello, se aplicará este precepto como si la hubiera presentado sin ingresos. Tratándose de contribuyentes que no estén obligados a presentar declaración del ejercicio, se considerarán, para los efectos del presente artículo, los ingresos que los retenedores manifiesten haber pagado al contribuyente de que se trate.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO X. IMPUESTO SOBRE PRODUCTOS Y RENDIMIENTOS DE CAPITALES INVERTIDOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 65
+
+1.- Son objeto del impuesto a que se refiere este Capítulo, sin deducción alguna, los ingresos en efectivo o en especie que realmente se perciban como productos o rendimientos de capitales invertidos, dentro del territorio del Estado o de fuentes de riqueza establecidas en el mismo, por los siguientes conceptos:
+
+I.- Intereses simples o capitalizados sobre préstamos en general, así como de adeudos reconocidos, provenientes de toda clase de actos, convenios o contratos;
+
+II.- Prestaciones que se obtengan con motivo del otorgamiento de fianzas o garantías, cuando no se presten por instituciones legalmente autorizadas;
+
+III.- Descuentos o anticipos sobre toda clase de títulos o documentos;
+
+IV.- Rendimientos de toda clase de bonos y obligaciones emitidos por sociedades mercantiles;
+
+V.- Intereses y demás Ingresos que obtengan los fideicomitentes o los fideicomisarios a través de instituciones fiduciarias como consecuencia de contratos de fideicomiso que generen los productos o rendimientos señalados en las fracciones anteriores;
+
+VI.- Ingresos de Productos de inversiones u operaciones de cualquier clase siempre que los mismos no se encuentren gravados conforme a otras disposiciones de esta Ley, ni expresamente exceptuados por la misma;
+
+VII.- De operaciones en las que el precio a plazos sea mayor que el precio de contado, caso en el cual la diferencia entre uno y otro, será objeto del impuesto;
+
+VIII.- Usufructo de capitales impuestos a rédito;
+
+IX.- Premios, primas, regalías o retribuciones provenientes de la explotación de patentes de invención y de marcas comerciales e industriales.
+
+También se considerarán como percepciones de las enumeradas en esta fracción, las que obtengan los Titulares de patentes o marcas mediante la fijación de un sobreprecio a las mercancías amparadas con dichas patentes o marcas;
+
+X.- Intereses por cantidades que se adeuden sobre el precio en contratos de promesa de venta, de compraventa con reserva de dominio o de compraventa a plazos;
+
+XI.- Intereses provenientes del contrato de cuenta corriente;
+
+XII.- Intereses sobre las cantidades anticipadas a cuenta del precio de toda clase de bienes o derechos.
+
+Para los efectos de este artículo se presumirá, salvo prueba en contrario, que existe derecho a percibir los intereses a que se refieren las fracciones I, V, X, XI y XII de este artículo, no obstante que en los documentos en que se hubieran hecho constar las operaciones relativas no aparezca estipulado ningún interés o cuando se determine que no causaron intereses, y en estos casos el ingreso gravable será el que resulte de aplicar al capital el interés legal que establece el Código Civil del Estado de Nayarit por falta de pago oportuno.
+
+Lo dispuesto en el párrafo anterior no será aplicable a las personas inscritas en el registro de contribuyentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 65
+
+2.- Son sujetos del impuesto las personas físicas o morales que perciban en el Estado o de fuentes de riqueza ubicadas en el mismo, ingresos de los mencionados en el artículo anterior, independientemente del lugar donde se otorguen los documentos en que se haga constar el acto generador de crédito fiscal. En consecuencia, es nulo todo pacto o convenio en contrario, cualquiera que sea la fecha y forma en que se hubiera hecho o se hiciera con posterioridad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 65
+
+3.- El impuesto se causará a razón de 3% (tres por ciento) sobre el importe total de los ingresos que se obtengan.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 65
+
+4.- El pago del impuesto deberá efectuarse en las Oficinas o Instituciones autorizadas por la Secretaría de Finanzas, dentro de los días 1o. al 15 del mes siguiente a aquel en que se haya obtenido el ingreso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 65
+
+5.- El contribuyente radicado en el Estado está obligado a indicar en el recibo que al efecto deberá expedir, el número del Registro Estatal de Causantes que para este impuesto le corresponda.
+
+Quien realice el pago está obligado a recabar dicho recibo.
+
+Los causantes de este impuesto están obligados a presentar ante la Secretaría de Finanzas para su registro, dentro del término de diez días siguientes a su otorgamiento, los documentos en que consten los actos, convenios o demás operaciones de las que se deriven ingresos gravables por este Capítulo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 65
+
+6.- Para los efectos del pago del impuesto se considera que las cantidades abonadas por el deudor o que en cualquier otra forma obtenga el acreedor por concepto de pago total o parcial del adeudo, se aplican en primer término al pago de los productos o rendimientos del capital invertido.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 65
+
+7.- Están obligados a retener el impuesto las personas que hagan pagos de los gravados en este Capítulo a contribuyentes radicados dentro o fuera del Estado.
+
+Las personas que efectúen retenciones harán los enteros relativos en el plazo establecido en el artículo 65-4, mediante una declaración en la que expresarán el concepto y monto de las cantidades retenidas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 65
+
+8.- Los notarios y corredores públicos están obligados a dar aviso a la Secretaría de Finanzas, dentro de los treinta días siguientes a la fecha de su intervención, de cualquier acto en que intervengan del cual puedan derivarse ingresos de los gravados en este Capítulo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 65
+
+9.- Los directores y encargados de las oficinas del Registro Público de la Propiedad en el Estado, están obligados a remitir a la Secretaría de Finanzas, dentro de los diez días siguientes a la fecha de su intervención, una copia autorizada de todos los documentos donde consten actos jurídicos de los cuales se deriven ingresos gravados en este Capítulo. Así mismo les queda prohibido registrar o cancelar inscripciones de actos jurídicos o de gravámenes de cualquier naturaleza, en los que se haya generado la obligación de pago de este impuesto, sin que previamente el interesado acredite fehacientemente haber hecho el entero correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 65
+
+10.- Los jueces del Estado están obligados a remitir a la Secretaría de Finanzas, dentro de los diez días siguientes a la fecha en que sean dictadas, una copia certificada de las sentencias ejecutoriadas en las que se condene el pago de alguno o algunos de los conceptos gravados en este Capítulo.
+
+La Secretaría de Finanzas del Estado o quien se designe en el Reglamento Interior, está facultada para intervenir en los juicios, en que exista o se presuma la existencia de actos que generen créditos fiscales comprendidos en este Capítulo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 65
+
+11.- Están exentos del pago del impuesto a que se refiere este Capítulo:
+
+I.- Los intereses percibidos con motivo de aceptaciones, préstamos u otros créditos a cargo de instituciones de crédito o de organizaciones auxiliares, nacionales y del extranjero;
+
+II.- Los intereses percibidos por las instituciones de crédito o por organizaciones auxiliares, nacionales y del extranjero;
+
+III.- Los intereses provenientes de bonos y obligaciones que emitan instituciones de crédito internacionales, de las que sean accionistas el Gobierno Mexicano o alguna institución nacional de crédito, así como de los que emita el propio Gobierno Federal;
+
+IV.- Los rendimientos de los valores a que se refiere la fracción IV del artículo 65-1, cuando la tasa no exceda de 10 % anual sobre el valor nominal del título;
+
+V.- Los dividendos o utilidades que distribuyan las sociedades establecidas en el País;
+
+VI.- Los intereses o ingresos sobre los cuales se pague el Impuesto al Valor Agregado;
+
+VII.- Los intereses que perciban las fundaciones de Asistencia Pública y Beneficencia Privada constituidas legalmente;
+
+VIII.- Los intereses obtenidos por la enajenación a plazo de inmuebles urbanos y rústicos;
+
+IX.- Los intereses que se perciban en el otorgamiento de créditos para la vivienda de interés social, con motivo de los financiamientos que se otorguen para la construcción, mejoramiento y ampliación de vivienda, así como para el pago de pasivo de las mismas, y;
+
+X.- Intereses y demás percepciones a que se refiere este capítulo, cuando el responsable del pago sea una Institución de Seguros o Fianzas, siempre y cuando dichos intereses y percepciones sean a cargo de su patrimonio.
+
 (REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
-
-### CAPITULO UNICO. DE LOS DERECHOS
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2005)</small>
 
 ## TITULO SEGUNDO. DERECHOS
 
 (REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
 
-### CAPITULO UNICO. DE LA CONTRIBUCION POR MEJORAS POR OBRAS DE INFRAESTRUCTURA PUBLICA
+### CAPITULO UNICO. DE LOS DERECHOS
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 66.
 
@@ -977,9 +1143,9 @@ Los derechos se pagarán de conformidad con las tasas y cuotas que establezca la
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO UNICO. DE LOS PRODUCTOS DIVERSOS
+### CAPITULO UNICO. DE LA CONTRIBUCION POR MEJORAS POR OBRAS DE INFRAESTRUCTURA PUBLICA
 
-(REUBICADO [ANTES ARTICULO 57], P.O. 14 DE DICIEMBRE DE 1996)
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 69-A.
 
@@ -1145,9 +1311,9 @@ Las obras públicas pueden ser realizadas a iniciativa del Ejecutivo del Estado 
 
 (REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
 
-### CAPITULO UNICO. DE LOS DIVERSOS APROVECHAMIENTOS
+### CAPITULO UNICO. DE LOS PRODUCTOS DIVERSOS
 
-(REUBICADO [ANTES ARTICULO 59], P.O. 14 DE DICIEMBRE DE 1996)
+(REUBICADO [ANTES ARTICULO 57], P.O. 14 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 70.
 
@@ -1165,9 +1331,9 @@ Los productos que perciba el Estado se regularán por los contratos o convenios 
 
 (REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
 
-### CAPITULO UNICO. DE LAS PARTICIPACIONES FEDERALES
+### CAPITULO UNICO. DE LOS DIVERSOS APROVECHAMIENTOS
 
-(REUBICADO [ANTES ARTICULO 60], P.O. 14 DE DICIEMBRE DE 1996)
+(REUBICADO [ANTES ARTICULO 59], P.O. 14 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 72.
 
@@ -1193,9 +1359,9 @@ g) Indemnización por cheques, recibidos de particulares y devueltos por las Ins
 
 (REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
 
-### CAPITULO ÚNICO. DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+### CAPITULO UNICO. DE LAS PARTICIPACIONES FEDERALES
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+(REUBICADO [ANTES ARTICULO 60], P.O. 14 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 73.
 
@@ -1216,6 +1382,10 @@ Son Ingresos Extraordinarios aquellos que la Hacienda Pública del Estado percib
 (REUBICADO [N. DE E. ANTES TITULO SEPTIMO], P.O. 22 DE DICIEMBRE DE 2006)
 
 ## TITULO OCTAVO. (REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
+
+### CAPITULO ÚNICO. DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
 
 ###### ARTICULO 75.
 
@@ -1360,3 +1530,7 @@ P.O. 15 DE DICIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2008.
+
+ÚNICO: La presente reforma entrará en vigor el primero de enero de 2009, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
