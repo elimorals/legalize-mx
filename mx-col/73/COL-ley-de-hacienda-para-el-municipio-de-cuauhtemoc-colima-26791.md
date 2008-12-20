@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-cuauhtemoc-colima-26791"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2008-03-22"
+last_updated: "2008-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE CUAUHTEMOC
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -179,13 +179,115 @@ Este impuesto se determinará y liquidará de conformidad con las cuotas y tasas
 
 I. Para los predios urbanos edificados se aplicará la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+TARIFA
+
+BASE GRAVABLE IMPUESTO ANUAL
+
+(EN PESOS)
+
+LIMITE LIMITE CUOTA TASA PARA
+
+INFERIOR SUPERIOR FIJA EN APLICARSE
+
+UNIDAD AL EXCEDENTE
+
+DE DEL LIMITE
+
+SALARIO INFERIOR
+
+0 40,400 2.00 .0000000
+
+40,401 48,400 2.00 .0005525
+
+48,401 58,400 2.55 .0005850
+
+58,401 68,400 3.25 .0006175
+
+68,401 72,000 4.00 .0006500
+
+72,001 122,000 4.43 .0006825
+
+122,001 172,000 7.85 .0007150
+
+172,001 222,000 11.57 .0007475
+
+222,001 288,000 15.38 .0007800
+
+288,001 338,000 21.06 .0008125
+
+338,001 388,000 25.70 .0008450
+
+388,001 438,000 30.64 .0008775
+
+438,001 480,000 35.86 .0009100
+
+480,001 560,000 40.41 .0009425
+
+560,001 640,000 49.13 .0009750
+
+640,001 720,000 58.02 .0010075
+
+720,001 800,000 67.37 .0010400
+
+800,001 880,000 77.23 .0010725
+
+880,001 960,000 87.53 .0011050
+
+960,001 1'040,000 98.29 .0011375
+
+1'040,001 1'120,000 109.52 .0011700
+
+1'120,001 1'200,000 121.21 .0012025
+
+1'200,001 1'280,000 133.38 .0012350
+
+1'280,001 a 1'360,000 146.01 .0012675
+
+1'360,001 a 1'440,000 159.11 .0013000
+
+1'440,001 EN 173.00 .0020010
+
+ADELANTE
 
 II. Para los predios urbanos no edificados se aplicará a la base gravable la tasa anual del 0.006;
 
 III. Para los predios rústicos se aplicará la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+TARIFA
+
+BASE GRAVABLE IMPUESTO ANUAL
+
+(EN PESOS)
+
+LIMITE LIMITE CUOTA TASA PARA
+
+INFERIOR SUPERIOR FIJA EN APLICARSE
+
+UNIDAD AL EXCEDENTE
+
+DE DEL LIMITE
+
+SALARIO INFERIOR
+
+0 9,600 3.00 .000000
+
+9,601 12,400 3.00 .003510
+
+12,401 14,400 4.00 .003575
+
+14,401 16,400 4.72 .003640
+
+16,401 18,400 5.47 .003705
+
+18,401 20,400 6.25 .003770
+
+20,401 22,000 7.04 .003835
+
+22,001 24,000 7.86 .003900
+
+24,001 EN 8.43 .004000
+
+ADELANTE
 
 Para la determinación del impuesto aplicando las tarifas previstas en las fracciones I y III de este artículo, se sujetará al siguiente procedimiento:
 
@@ -367,7 +469,25 @@ III. En las transmisiones que se realicen con motivo de la disolución de la soc
 
 Los contribuyentes calcularán el impuesto aplicando a la base que resulte conforme a lo dispuesto por los artículos 25, 26 y 27 de esta Ley, según el caso, la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+TARIFA
+
+BASE DEL IMPUESTO
+
+LIMITE LIMITE CUOTA FIJA TASA PARA
+
+INFERIOR SUPERIOR APLICARSE AL
+
+EXCEDENTE
+
+DEL LIMITE
+
+INFERIOR
+
+$0.01 $250,000.00 $0.00 0.0025
+
+250,000.01 300,000.00 625.00 0.0080
+
+300,000.01 En adelante 1,025.00 0.0200
 
 El pago del impuesto deberá efectuarse dentro de los quince días siguientes a aquél en que se realice cualesquiera de los supuestos que a continuación se señalan:
 
@@ -891,25 +1011,241 @@ El pago de derechos de permisos especiales no previstos en este artículo será 
 
 Los términos de vigencia que se refiere a los permisos señalados en el artículo anterior serán los siguientes:
 
-(VEASE ARCHIVO ANEXO)
+I. Para obras con superficie de construcción
+
+hasta de 50.00 M2 8 meses
+
+II. Para obras con superficie de construcción
+
+de 51.00 a 100.00 M2 10 meses
+
+III. Para obras con una superficie de
+
+construcción de 101.00 a 200.00 M2 12 meses
+
+IV. Para obras con una superficie de
+
+construcción de 201.00 a 300.00 M2 15 meses
+
+V. Para obras con una superficie de
+
+construcción de 301.00 M2 en adelante 18 meses
+
+En caso de refrendo del permiso, de conformidad a lo establecido en el reglamento de la materia, por cada bimestre adicional o fracción se pagará el 10 por ciento del importe del permiso inicial, no siendo refrendables aquellos permisos cuya obra no se haya iniciado, en cuyo caso será necesario obtener nuevo permiso.
 
 ###### ARTICULO 64.
 
 Los derechos de alineamiento, designación de número oficial, dictamen de vocación del suelo e inspección, se pagarán de conformidad con la siguiente tarifa:
 
-(VEASE ARCHIVO ANEXO)
+Unidad de salario
+
+I. Alineamiento por metro lineal de frente, según el tipo de construcción:
+
+a) Habitacional densidad alta 0.06
+
+b) Habitacional densidad media 0.11
+
+c) Habitacional densidad baja 0.28
+
+d) Alojamiento temporal 0.28
+
+e) Comercio y servicios 0.31
+
+f) Oficinas administrativas 0.28
+
+g) Abastos, almacenamientos y talleres 0.11
+
+h) Manufacturas y usos industriales:
+
+1.- Manufacturas domiciliarias 0.06
+
+2.- Manufacturas menores 0.08
+
+3.- Industria ligera de bajo impacto 0.11
+
+4.- Industria de mediano impacto 0.20
+
+5.- Industria pesada de alto impacto y riesgo 0.28
+
+i) Zona rural 0.05
+
+j) Otros de 0.06 a 0.31
+
+II. Designación de número oficial, por evento, incluyendo placa de numeración, de conformidad con la siguiente clasificación:
+
+a) Habitacional densidad alta 1.00
+
+b) Habitacional densidad media 1.00
+
+c) Habitacional densidad baja 1.86
+
+d) Alojamiento temporal 1.86
+
+e) Comercio y servicios 2.48
+
+f) Oficinas administrativas 2.48
+
+g) Abastos, almacenamientos y talleres 1.86
+
+h) Manufacturas y usos industriales:
+
+1.- Manufacturas domiciliarias 1.00
+
+2.- Manufacturas 1.00
+
+3.- Industria ligera de bajo impacto 1.86
+
+4.- Industria de mediano impacto 1.86
+
+5.- Industria pesada de alto impacto y riesgo 1.86
+
+i) Zona rural 1.00
+
+j) Otros de 1.00 a 2.48
+
+III. Informe de factibilidad de uso de suelo, por M2 de acuerdo a la siguiente tarifa:
+
+a) Habitacional densidad alta 0.05
+
+b) Habitacional densidad media 0.06
+
+c) Habitacional densidad baja 0.07
+
+d) Alojamiento temporal 0.05
+
+e) Comercio y servicios 0.10
+
+f) Oficinas administrativas 0.15
+
+g) Abastos, almacenamientos y talleres 0.08
+
+h) Manufacturas y usos industriales 0.04
+
+i) Otros de 0.05 a 0.15
+
+IV. Dictamen de vocación del suelo, por evento:
+
+A) De uso y destino para certificaciones en general y en particular:
+
+a) Habitacional densidad alta 1.21
+
+b) Habitacional densidad media 2.42
+
+c) Habitacional densidad baja 4.84
+
+d) Vivienda campestre o aislada 3.00
+
+e) Alojamiento temporal 6.05
+
+f) Comercio y servicios 6.05
+
+g) Turístico 6.05
+
+h) Oficinas administrativas 6.05
+
+i) Abastos, almacenamiento y talleres 4.84
+
+j) Manufacturas y usos industriales 2.48
+
+k) Otros de 1.21 a 6.05
+
+B) De uso, destino y número oficial, para solicitar autorización de subdividir, fusionar, relotificar o edificar en predios que cuenten con incorporación municipal:
+
+a) Habitacional densidad alta 1.21
+
+b) Habitacional densidad 2.42
+
+c) Habitacional densidad baja 9.68
+
+d) Vivienda campestre o aislada 12.10
+
+e) Comercio y servicios 9.68
+
+f) Turístico de 14.52 a 24.20
+
+g) Oficinas administrativas 16.94
+
+h) Abastos, almacenamientos y talleres 24.20
+
+i) Manufacturas y usos industriales:
+
+1.- Manufacturas domiciliarias 1.21
+
+2.- Manufacturas menores 2.42
+
+3.- Industria ligera de bajo impacto 3.63
+
+4.- Industria de mediano impacto 3.63
+
+5.- Industria pesada de alto impacto y riesgo 3.63
+
+j) Otros de 1.21 a 24.20
+
+Además de las cuotas previstas en el presente inciso, los solicitantes de este servicio pagarán los derechos por alineamiento y designación de número oficial de acuerdo a las cuotas señaladas en las fracciones I y II de este artículo.
+
+C).- De uso, destino y trazo para autorización de obras de urbanización para expansión o renovación urbana:
+
+a) Habitacional densidad alta 2.42
+
+b) Habitacional densidad media 4.84
+
+c) Habitacional densidad baja 9.68
+
+d) Vivienda campestre o aislada 12.10
+
+e) Comercio y servicios de 9.68 a 24.20
+
+f) Turístico de 14.52 a 24.20
+
+g) Oficinas administrativas 16.94
+
+h) Manufacturas y usos industriales 3.63
+
+i) Otros de 2.42 a 24.20
+
+V. Servicios de certificaciones y dictámenes
+
+no previstos en este artículo, por M2 de 1.95 a 19.41
 
 ###### ARTICULO 65.
 
 Las personas físicas y morales que para la realización de obras requieran del servicio que a continuación se expresa, previamente cubrirán el derecho conforme a la siguiente tarifa:
 
-(VEASE ARCHIVO ANEXO)
+Unidad de salario
+
+I.- Medición de terrenos por la dependencia municipal correspondiente por metro cuadrado, según el tipo de acuerdo con la siguiente clasificación:
+
+a) Habitacional densidad alta 0.07
+
+b) Habitacional densidad media 0.09
+
+c) Habitacional densidad baja 0.13
+
+d) Comercio y servicios 0.16
+
+e) Manufacturas y usos industriales 0.13
+
+f) Otros de 0.07 a 0.16
 
 ###### ARTICULO 66.
 
 Quienes para la realización de obras requieran de romper pavimentos, banquetas o machuelos, están obligados a obtener para ello la autorización previa de la dependencia municipal competente y pagar los derechos que se establecen en esta Ley, por metro lineal, de acuerdo a la siguiente clasificación:
 
-(VEASE ARCHIVO ANEXO)
+Unidad de salario
+
+a) Empedrado o terracería 1.00
+
+b) Asfalto 1.60
+
+c) Concreto 3.00
+
+d) Adoquín 3.00
+
+e) Canalizaciones 2.72
+
+f) Otros de 1.00 a 3.00
+
+En caso de que la persona física o moral que recibió la autorización no ejecute la reparación del pavimento, la banqueta o machuelos en el plazo fijado por la dependencia municipal competente, ésta la realizará con cargo al propietario del inmueble o responsable de la obra y estará facultada para solicitarle el depósito que garantice la reparación y aplicar las sanciones correspondientes.
 
 ###### ARTICULO 67.
 
@@ -919,15 +1255,229 @@ En el caso de construcción de edificios en el régimen de condominio, sólo se 
 
 ###### ARTICULO 68.
 
-Las personas físicas o morales que realicen subdivisión o modificación de terrenos en lotes o fraccionamientos o que reciban obras de urbanización deberán obtener previamente la autorización correspondiente de las autoridades competentes y pagar los derechos conforme a la siguiente tarifa:
+Las personas físicas o morales que realicen subdivisión o modificación de terrenos en lotes o fraccionamientos o que reciban obras de urbanización deberán obtener previamente la autorización correspondiente de las autoridades competentes y pagar los derechos conforme a la siguiente tarifa.
 
-(VEASE ARCHIVO ANEXO)
+Unidad de salario
+
+I. Por el trámite de autorización del programa parcial de urbanización sobre superficie vendible del predio por fraccionar, por evento, según categoría:
+
+a) Habitacional densidad alta 60.50
+
+Más, por cada lote vendible 1.21
+
+b) Habitacional densidad media 187.55
+
+Más, por cada lote vendible 6.66
+
+c) Habitacional densidad baja 314.60
+
+Más, por cada lote vendible 12.10
+
+d) Habitación campestre o aislada 102.85
+
+Más, por cada lote vendible 2.42
+
+e) Turístico 423.50
+
+Más, por cada lote vendible 14.52
+
+f) Comercio y servicios 248.00
+
+Más, por cada lote vendible 8.50
+
+g) Oficinas administrativas 278.25
+
+Más, por cada lote vendible 9.56
+
+h) Abastos, almacenamientos y talleres 308.50
+
+Más, por cada lote vendible 10.58
+
+i) Manufacturas y usos industriales:
+
+1.- Manufacturas domiciliarias 10.00
+
+2.- Manufacturas menores 15.00
+
+3.- Industria ligera de bajo impacto 133.10
+
+4.- Industria de mediano impacto 133.10
+
+5.- Industria pesada de alto impacto y riesgo 133.10
+
+Más, por cada lote vendible 4.56
+
+Cuando se trate de fraccionamiento de tipo mixto, se cobrará por la autorización el promedio que resulte de las modalidades que lo compongan.
+
+j).- Otros 0.21 a 423.50
+
+II. Permiso para subdivisión o fusión de lotes, por metro cuadrado resultante según su categoría:
+
+a) Habitacional densidad alta 0.05
+
+b) Habitacional densidad media 0.10
+
+c) Habitacional densidad baja 0.16
+
+d) Habitacional campestre o aislada 0.06
+
+e) Comercio y servicios 0.07
+
+f) Manufacturas y usos industriales 0.07
+
+g) Habitacional en comunidad rural, que cuenten con un programa de desarrollo urbano 0.03
+
+h) Otros de 0.05 a 0.16
+
+III. Permiso para relotificación de predios, por metro cuadrado resultante según su categoría:
+
+a) Habitacional densidad alta 0.07
+
+b) Habitacional densidad media 0.15
+
+c) Habitacional densidad baja 0.24
+
+d) Habitacional campestre o aislada 0.10
+
+e) Manufacturas y usos industriales 0.10
+
+f) Otros de 0.07 a 0.24
+
+IV. Permiso para constituir en régimen de condominio por metro cuadrado, independientemente del pago del permiso de construcción:
+
+a) Habitacional urbano densidad alta 0.03
+
+b) Habitacional urbano densidad media 0.05
+
+c) Habitacional urbano densidad baja 0.08
+
+d) Habitacional campestre o aislada 0.08
+
+e) Manufacturas y usos 0.04
+
+f) Otros 0.03 a 0.08
+
+V. Por la expedición de la licencia de urbanización
+
+en cualquier clasificación se pagará, por evento: 300.00
+
+Más por cada lote vendible de acuerdo a la siguiente clasificación:
+
+a) Habitacional densidad alta 1.50
+
+b) Habitacional densidad media 1.50
+
+c) Habitacional densidad baja 1.50
+
+d) Habitación campestre o aislada 1.50
+
+e) Turístico 1.50
+
+f) Otros 1.50
+
+VI. Por la autorización del proyecto ejecutivo de urbanización, por metro cuadrado, considerando la superficie de vialidad, según categoría:
+
+a) Habitacional densidad alta 0.10
+
+b) Habitacional densidad media 0.20
+
+c) Habitacional densidad baja 0.20
+
+d) Habitación campestre o aislada 0.20
+
+e) Turístico 0.30
+
+f) Comercio y servicios 0.20
+
+g) Oficinas administrativas 0.20
+
+h) Abastos, almacenamientos y talleres 0.20
+
+i) Manufacturas y usos industriales:
+
+1.- Industria ligera de bajo impacto 0.10
+
+2.- Industria de mediano impacto 0.10
+
+3.- Industria pesada de alto impacto y riesgo 0.10
+
+j) Otros de 0.10 a 0.30
+
+Las áreas de estacionamiento comprendidas en las categorías de los incisos e), f), g), h) e i), se considerará en el cobro, con el 10 por ciento de las mismas tarifas de acuerdo a la superficie habilitada para este servicio.
+
+VII.- Por la supervisión de las obras de urbanización se cobrará el dos por ciento del valor catastral del predio.
+
+En caso de que el promotor no asigne supervisor para los trabajos de urbanización, el Ayuntamiento realizará la supervisión de las obras. En este caso, el promotor pagará al Ayuntamiento aplicando la tasa del cuatro por ciento del valor catastral del predio.
+
+VIII. Por la incorporación municipal de predios rústicos interurbanos a zona urbana, de conformidad con la Ley de Asentamientos Humanos del Estado, se pagará el monto que se determine en función del estudio técnico elaborado por la dependencia municipal competente, por lote:
+
+a) Habitacional densidad alta 0.08
+
+b) Habitacional densidad media 0.11
+
+c) Habitacional densidad baja 0.25
+
+d) Habitación campestre o aislada 0.42
+
+e) Turístico 0.42
+
+f) Comercio y servicios 0.37
+
+g) Oficinas administrativas 0.40
+
+h) Abastos, almacenamientos y talleres especiales 0.19
+
+i) Manufacturas y usos industriales:
+
+1.- Industria ligera de bajo impacto 0.33
+
+2.- Industria de mediano impacto 0.33
+
+3.- Industria pesada de alto impacto y riesgo 0.33
+
+j) Otros de 0.08 a 0.42
+
+IX. Por la expedición del certificado de habitabilidad de las construcciones, edificaciones e instalaciones:
+
+1.- Hasta 500.00 M2 1.00
+
+2.- De 500.00 a 1000.00 M2 5.00
+
+3.- Más de 1000.00 M2 20.00
 
 ###### ARTICULO 69.
 
 Las personas físicas o morales que pretendan inscribirse o refrendar su inscripción como directores responsables de obra, corresponsables de obra y supervisores municipales de obras de urbanización y edificación, así como los peritos urbanos y en edificación, deberán obtener la autorización correspondiente y pagar los derechos conforme a las siguientes tarifas:
 
-(VEASE ARCHIVO ANEXO)
+Unidad de salario
+
+I. Inscripción de directores responsables de obra y corresponsables de obra en la dependencia municipal competente, con vigencia de un año, a partir del registro, de acuerdo con la siguiente clasificación:
+
+a) Director responsable de obra (persona física) 60.00
+
+b) Director responsable de obra (persona moral) 123.00
+
+c) Director responsable de obra (acreditado
+
+provisionalmente) 30.00
+
+d) Corresponsable de obra (persona física) 61.00
+
+e) Corresponsable de obra (persona moral) 123.00
+
+f) Perito urbano 200.00
+
+g) Perito en edificación 200.00
+
+Por refrendos a los registros dentro del período autorizado se causará el 50 por ciento del importe de la tarifa en vigor.
+
+II. Inscripción al padrón de contratistas
+
+en la dependencia municipal competente,
+
+con vigencia de un año calendario 15.00
+
+Por refrendos de los registros dentro del período autorizado, se causará 50 por ciento del importe de la tarifa en vigor.
 
 > <small>(F. DE E., P.O. 22 DE FEBRERO DE 2003)</small>
 
@@ -963,7 +1513,199 @@ Para la realización de los actos de publicidad referidos en el artículo 71 de 
 
 Los derechos a que se refiere la presente sección se pagarán de conformidad con las siguientes tarifas:
 
-(VEASE ARCHIVO ANEXO)
+Unidad de salario
+
+A.- PUBLICIDAD PERMANENTE, POR ANUALIDAD
+
+1.- Pintado con superficie hasta 2.00 M2 opaco 2.00
+
+2.- Pintado con superficie mayor de 2.00 M2 y
+
+hasta 4.00 M2 opaco 4.00
+
+3.- Pintado con superficie mayor de 4.00 M2 opaco 6.00
+
+4.- Adosado con superficie hasta 2.00 M2 opaco 1.00
+
+5.- Adosado con superficie mayor de 2.00 M2 y
+
+hasta 4.00 M2 opaco 2.00
+
+6.- Adosado con superficie mayor de 4.00 M2 opaco 4.00
+
+7.- Colgante o voladizo con superficie hasta
+
+2.00 M2 opaco 1.00
+
+8.- Colgante o voladizo con superficie mayor de
+
+2.00 M2 y hasta 4.00 M2 opaco 2.00
+
+9.- Colgante o voladizo con superficie mayor
+
+4.00 M2 opaco 4.00
+
+10.- Adosado con superficie de hasta 2.00 M2
+
+luminoso 2.00
+
+11.- Adosado con superficie mayor de 2.00 M2
+
+y hasta 4.00 M2 luminoso 4.00
+
+12.- Adosado con superficie mayor de 4.00 M2
+
+luminoso 6.00
+
+13.- Colgante o voladizo con superficie hasta
+
+2.00 M2 luminoso 2.00
+
+14.- Colgante o voladizo con superficie mayor
+
+de 2.00 M2 y hasta 4.00 M2 luminoso 4.00
+
+15.- Colgante o voladizo con superficie mayor
+
+4.00 M2 luminoso 6.00
+
+16.- Autosoportado tipo paleta con superficie de
+
+hasta 3.00 M2 opaco 4.00
+
+17.- Autosoportado tipo paleta con superficie de
+
+más de 3.00 M2 hasta 8.00 M2 opaco 12.00
+
+18.- Autosoportado tipo paleta con superficie
+
+de más de 8.00 M2 hasta 12.00 M2 opaco 18.00
+
+19.- Autosoportado tipo paleta con más de 12.00 M2 opaco
+
+Más el 10 por ciento por metro excedente del numeral anterior.
+
+20.- Autosoportado tipo bandera con superficie
+
+de hasta 3.00 M2 opaco 4.00
+
+21.- Autosoportado tipo bandera con superficie
+
+de más de 3.00 M2 hasta 8.00 M2 opaco 12.00
+
+22.- Autosoportado tipo bandera con superficie
+
+de más de 8.00 M2 hasta 12.00 M2 opaco 18.00
+
+23.- Autosoportado tipo bandera con superficie de más de 12.00 M2 opaco
+
+Más el 10 por ciento por metro excedente del numeral anterior.
+
+24.- Autosoportado tipo paleta con superficie de
+
+hasta 3.00 M2 luminoso 6.00
+
+25.- Autosoportado tipo paleta con superficie de
+
+más de 3.00 M2 hasta 8.00 M2 luminoso 16.00
+
+26.- Autosoportado tipo paleta con superficie de
+
+más de 8.00 M2 hasta 12.00 M2 luminoso 24.00
+
+27.- Autosoportado tipo paleta con superficie de más de 12.00 M2 luminoso
+
+Más el 10 por ciento por metro excedente del numeral anterior.
+
+28.- Autosoportado tipo bandera con superficie
+
+de hasta 3.00 M2 luminoso 6.00
+
+29.- Autosoportado tipo bandera con superficie
+
+de más de 3.00 M2 hasta 8.00 M2 luminoso 16.00
+
+30.- Autosoportado tipo bandera con superficie de
+
+más de 8.00 M2 hasta 12.00 M2 luminoso 24.00
+
+31.- Autosoportado tipo bandera con superficie de más de 12.00 M2 luminoso
+
+Más el 10 por ciento por metro excedente del numeral anterior.
+
+32.- Estructural en azotea hasta 35.00 M2 60.00
+
+33.- Estructural en azotea de más de 35.00 M2
+
+y hasta 60.00 M2 90.00
+
+34.- Estructural en azotea de más de 60.00 M2 120.00
+
+35.- Estructural en piso hasta 35.00 M2 60.00
+
+36.- Estructural en piso de más de 35.00 M2 y
+
+hasta 60.00 M2 90.00
+
+37.- Estructural en piso de más de 60.00 M2 120.00
+
+38.- Estructural pantalla electrónica hasta 35.00 M2 52.00
+
+39.- Estructural pantalla electrónica de más de
+
+35.00 M2 y hasta 60.00 M2 80.00
+
+40.- Estructural pantalla electrónica de más
+
+de 60.00 M2 110.00
+
+41.- Pintado en caseta telefónica 12.00
+
+42.- Adosado en caseta telefónica 12.00
+
+43.- Pintado en puesto fijo en la vía pública 2.00
+
+44.- Adosado en puesto fijo en la vía pública 2.00
+
+45.- Pintado en puesto semifijo en la vía pública 2.00
+
+46.- Adosado en puesto semifijo en la vía pública 2.00
+
+47.- Autoparlantes sonoros móvil, por vehículo y
+
+por día 40.00
+
+48.- Otros no especificados, por M2 o por evento,
+
+según sea el caso 1.00 a 120.00
+
+B.- PUBLICIDAD TRANSITORIA
+
+1.- Manta con una superficie hasta 2.00 M2 hasta
+
+por 30 días naturales 1.00
+
+2- Manta con una superficie de 2.00 M2 y
+
+hasta 4.00 M2 hasta por 30 días naturales 2.00
+
+3.- Manta con una superficie mayor de 4.00 M2
+
+hasta por 30 días naturales 3.00
+
+4.- Distribución de volantes y/o folletos en vía
+
+pública cada vez que se solicite 2.00
+
+5.- Carteles publicitarios por promoción 2.00
+
+6.- Autoparlantes sonoros fijos por día 1.00
+
+7.- Autoparlantes sonoros móvil por día y
+
+por vehículo 1.00
+
+8.- Otros no especificados transitorios 1.00 a 3.00
 
 ###### ARTICULO 77.
 
@@ -1001,7 +1743,529 @@ Para la apertura de nuevos establecimientos se requerirá tener previamente la l
 
 Los derechos consignados en la presente sección se pagarán por anualidad, previo a la expedición de la licencia, autorización o permiso correspondiente, de conformidad con las siguientes tarifas:
 
-(VEASE ARCHIVO ANEXO)
+Unidad de salario
+
+a) Por la expedición de licencias de funcionamiento, por ejercicio fiscal, por cada una:
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+1.- Agencias 300.00 a 500.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+2.- Bares y centros botaneros 200.00 a 400.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+3.- Birrierías 50.00 a 100.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+4.- Cabaretes 500.00 a 1000.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+5.- Casinos y similares 500.00 a 1000.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+6.- Cenadurías 70.00 a 100.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+7.- Centros nocturnos 400.00 a 1000.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+8.- Clubes sociales 150.00 a 200.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+9.- Depósitos de cerveza 150.00 a 300.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+10.- Deposito de cerveza vinos y licores 200.00 a 300.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+11.- Discotecas 300.00 a 1000.00
+
+12.- Hoteles y moteles 250.00 a 300.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+13.- Locales para fiesta tipo “A” 150.00 a 260.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+14.- Locales para fiesta tipo “B” 100.00 a 160.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+15.- Locales para fiesta tipo “C” 80.00 a 100.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+16.- Marisquerías 80.00 a 100.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+17.- Menudearías 50.00 a 100.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+18.- Parianes 200.00 a 300.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+19.- Pizzerías 50.00 a 100.00
+
+20.- Restaurante clasificación "A" 200.00 a 300.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+21.- Restaurante clasificación "B" 150.00 a 250.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+22.- Restaurante clasificación "C" 100.00 a 200.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+23.- Restaurantes -Bar 150.00 a 300.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+24.- Rosticerías 50.00 a 100.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+25.- Taquerías 50.00 a 100.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+26.- Tienda de abarrotes con venta d
+
+cerveza 70.00 a 100.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+27.- Tiendas de autoservicio con venta de
+
+cerveza vinos y licores 150.00 a 200.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+28.- Tiendas departamentales 250.00 a 1000.00
+
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007) (F. DE E., P.O. 19 DE ENERO DE 2008)
+
+29.- Tiendas de conveniencia 150.00 a 200.00
+
+(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE DICIEMBRE DE 2007) (F. DE E., 19 DE ENERO DE 2008)
+
+30.- Albercas con venta de cerveza 50.00 a 100.00
+
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007) (F. DE E., P.O. 19 DE ENERO DE 2008)
+
+31.- Billar con venta de cerveza 20.00 a 50.00
+
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007) (F. DE E., P.O. 19 DE ENERO DE 2008)
+
+32.- Servifiestas con venta de cerveza 100.00 a 200.00
+
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007) (F. DE E., P.O. 19 DE ENERO DE 2008)
+
+33.- Servifiestas con venta de cerveza y vinos 100.00 a 200.00
+
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007) (F. DE E., P.O. 19 DE ENERO DE 2008)
+
+34.- Venta de ponche 15.00 a 50.00
+
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007) (F. DE E., P.O. 19 DE ENERO DE 2008)
+
+35.- Otros no especificados 60.00 a 1000.00
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+En zona rural cada uno:
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+1.- Tienda de abarrotes con venta de
+
+cerveza y mezcal 40.00 a 50.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+2.- Autoservicio 60.00 a 75.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+3.- Cenadurías 20.00 a 25.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+4.- Taquerías 20.00 a 25.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+5.- Salón para fiestas 25.00 a 50.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+6.- Ramadas 30.00 a 60.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIOS DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+b).- Por el refrendo anual de licencias de funcionamiento, por el ejercicio fiscal, por cada una;
+
+1.- Agencias. 135.00 a 250.00
+
+2.- Bares y centros botaneros. 70.00 a 200.000
+
+3.- Birrierías. 15.00 a 50.00
+
+4.- Cabarets. 50.00 a 300.000
+
+5.- Casinos y similares. 250.00 a 300.00
+
+6.- Cenadurías. 35.00 a 50.00
+
+7.- Centros nocturnos. 200.00 a 500.00
+
+8.- Clubes sociales. 75.00 a 100.00
+
+9.- Depósitos de cerveza. 35.00 a 150.00
+
+10.- Depósito de cerveza vinos y licores. 60.00 a 150.00
+
+11.- Discotecas. 150.00 a 500.00
+
+12.- Hoteles y Moteles. 125.00 a 150.00
+
+13.- Locales para fiesta tipo "A" 75.00 a 130.00
+
+14.- Locales para fiesta tipo "B" 50.00 a 80.00
+
+15.- Locales para fiesta tipo "C” 40.00 a 50.00
+
+16.- Marisquerías 40.00 a 50.00
+
+17.- Menuderías. 25.00 a 50.00
+
+18.- Parianes. 100.00 a 150.00
+
+19.- Pizzerías. 25.00 a 50.00
+
+20.- Restaurante clasificación "A". 100.00 a 150.00
+
+21.- Restaurante clasificación "B". 75.00 a 125.00
+
+22.- Restaurante clasificación "C". 45.00 a 90.00
+
+23.- Restaurantes -Bar. 75.00 a .150.00
+
+24.- Rosticerías. 25.00 a 50.00
+
+25.- Taquerías. 15.00 a 30.00
+
+26.- Tienda de abarrotes con venta
+
+de cerveza. 18.00 a 50.00
+
+27.- Tiendas de autoservicio con venta
+
+de cerveza, vinos y licores. 60.00 a 100.00
+
+28.- Tiendas departamentales. 125.00 a 500.00
+
+29.- Tiendas de conveniencia. 75.00 a 100.00
+
+30.- Albercas con venta de cerveza. 25.00 a 50.00
+
+31.- Billar con venta de cerveza. 10.00 a 25.00
+
+32.- Servifiestas con venta de cerveza. 40.00 a 90.00
+
+33.- Servifiestas con venta de cerveza
+
+y vinos. 50.00 a 100.00
+
+34.- Venta de ponche. 8.00 a 25.00
+
+35.- Otros no especificados. 8.00 a 500.00
+
+En zona rural, por cada uno:
+
+1.- Tienda de abarrotes con venta
+
+de cerveza y mezcal. 14.00 a 25.00
+
+2.- Autoservicio. 30.00 a 38.00
+
+3.- Cenadurías. 10.00 a 13.00
+
+4.- Taquerías. 10.00 a 13.00
+
+5.- Salón para fiestas. 13.00 a 25.00
+
+6.- Ramadas. 15.00 a 30.00
+
+Por ningún motivo, el costo del refrendo de la licencia de funcionamiento será mayor al 50 por ciento del costo total por la expedición de la licencia que corresponda en el inciso a), del presente artículo.
+
+c) Por la expedición de permisos para el funcionamiento temporal de establecimientos en los que se expendan bebidas alcohólicas, por cada día:
+
+1.- Agencias 5.00 a 15.00
+
+2.- Bares 5.00 a 20.00
+
+3.- Birrierías 1.00 a 5.00
+
+4.- Cabarets 5.00 a 20.00
+
+5.- Casinos y similares 10.00 a 30.00
+
+6.- Cenadurías 2.00 a 5.00
+
+7.- Centro botanero 5.00 a 20.00
+
+8.- Centros nocturnos 5.00 a 20.00
+
+9.- Clubes sociales 1.00 a 5.00
+
+10.- Depósitos de cerveza 1.00 a 5.00
+
+11.- Deposito de cerveza vinos y licores 1.00 a 10.00
+
+12.- Discotecas 5.00 a 10.00
+
+13.- Hoteles y moteles 1.00 a 10.00
+
+14.- Locales para fiesta 1.00 a 5.00
+
+15.- Marisquerías 1.00 a 5.00
+
+16.- Menuderías 1.00 a 5.00
+
+17.- Parianes 5.00 a 30.00
+
+18.- Pizzerías 1.00 a 5.00
+
+19.- Restaurante clasificación "A" 1.00 a 5.00
+
+20.- Restaurante clasificación "B" 1.00 a 4.00
+
+21.- Restaurante clasificación "C" 1.00 a 3.00
+
+22.- Restaurantes -Bar 5.00 a 8.00
+
+23.- Rosticerías 1.00 a 3.00
+
+24.- Taquerías 1.00 a 3.00
+
+25.- Tienda de abarrotes con venta de
+
+cerveza 5.00 a 8.00
+
+26.- Tiendas de autoservicio con venta de
+
+cerveza vinos y licores 5.00 a 8.00
+
+27.- Tiendas departamentales 5.00 a 10.00
+
+(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)
+
+28.- Tiendas de conveniencia 10.00
+
+> <small>(F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+29- Otros giros no especificados 2.00 a 30.00
+
+d) Por la expedición de autorizaciones de funcionamiento en horario extraordinario, de establecimientos en los que expendan bebidas alcohólicas, por cada hora:
+
+1.- Agencias 0.50 a 2.50
+
+2.- Bares 0.50 a 1.50
+
+3.- Birrierías 0.25 a 1.50
+
+4.- Cabarets 2.50 a 50
+
+5.- Casinos y similares 2.50 a 150
+
+6.- Cenadurías 0.25 a 1.00
+
+7.- Centro botanero 0.50 a 1.50
+
+8.- Centros nocturnos 0.50 a 1.50
+
+9.- Clubes sociales 2.5 a 15.00
+
+10.- Depósitos de cerveza 0.25 a 1.50
+
+11.- Depósito de cerveza vinos y licores 0.50 a 1.50
+
+12.- Discotecas 1.00 a 2.50
+
+13.- Hoteles y moteles 2.50 a 5.00
+
+14.- Locales para fiesta 1.50 a 2.50
+
+15.- Marisquerías 0.25 a 1.50
+
+> <small>(F. DE E., P.O. 22 DE FEBRERO DE 2003)</small>
+
+16.- Menuderías 0.25 a 1.50
+
+17.- Parianes 2.50 a 15.00
+
+18.- Pizzerías 0.50 a 1.50
+
+19.- Restaurante clasificación "A" 0.50 a 1.50
+
+20.- Restaurante clasificación "B" 0.50 a 1.50
+
+21.- Restaurante clasificación "C" 0.50 a 1.50
+
+22.- Restaurantes -Bar 0.50 a 2.50
+
+23.- Rosticerías 0.50 a 1.50
+
+24.- Taquerías 0.50 a 1.50
+
+25.- Tienda de abarrotes con venta de
+
+cerveza 0.25 a 1.50
+
+26.- Tiendas de autoservicio con venta de
+
+cerveza vinos y licores 0.50 a 1.50
+
+27.- Tiendas departamentales 1.50 a 5.00
+
+(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)
+
+28.- Tiendas de conveniencia 1.50
+
+> <small>(F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+29.- Otros giros no especificados 0.25 a 15.00
+
+e) Por la autorización de:
+
+CAMBIO DE DOMICILIO:
+
+1.- Agencias 25.00 a 150.00
+
+2.- Bares 25.00 a 60.00
+
+3.- Birrierías 5.00 a 18.00
+
+4.- Cabarets 100.00 a 240.00
+
+5.- Casinos y similares 100.00 a 240.00
+
+6.- Cenadurías 5.00 a 12.00
+
+7.- Centro botanero 25.00 a 60.00
+
+8.- Centros nocturnos 100.00 a 240.00
+
+9.- Clubes sociales 5.00 a 120.00
+
+10.- Depósitos de cerveza 5.00 a 15.00
+
+11.- Depósito de cerveza vinos y licores 25.00 a 60.00
+
+12.- Discotecas 100.00 a 180.00
+
+13.- Hoteles y moteles 50.00 a 90.00
+
+14.- Locales para fiesta tipo “A” 5.00 a 90.00
+
+15.- Locales para fiesta tipo “B” 25.00 a 50.00
+
+16.- Locales para fiesta tipo “C” 15.00 a 35.00
+
+17.- Marisquerías 5.00 a 18.00
+
+18.- Menudearías 5.00 a 18.00
+
+19.- Parianes 60.00
+
+20.- Pizzerías 20.00 a 36.00
+
+21.- Restaurante clasificación "A" 25.00 a 60.00
+
+22.- Restaurante clasificación "B" 25.00 a 40.00
+
+23.- Restaurante clasificación "C" 10.00 a 24.00
+
+24.- Restaurantes -Bar 35.00 a 90.00
+
+25.- Rosticerías 5.00 a 18.00
+
+26.- Taquerías 5.00 a 18.00
+
+27.- Tienda de abarrotes con venta de
+
+cerveza 5.00 a 15.00
+
+28.- Tiendas de autoservicio con venta de
+
+cerveza vinos y Licores 30.00 a 60.00
+
+29.- Tiendas departamentales 100.00 a 250.00
+
+(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)
+
+30.- Tiendas de conveniencia 75.00 a 100.00
+
+(REFORMADO, P.O. 6 DE OCTUBRE DE 2007) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)
+
+31.- Otros giros no especificados 5.00 a 250.00
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+En zona rural cada uno:
+
+1.- Tienda de abarrotes con venta de
+
+cerveza y mezcal 3.00 a 15.00
+
+2.- Autoservicio 3.00 a 15.00
+
+3.- Cenadurías 3.00 a 5.00
+
+4.- Taquerías 3.00 a 5.00
+
+5.- Salón para fiestas 5.00 a 15.00
+
+6.- Ramadas 5.00 a 10.00
+
+CAMBIO DE PROPIETARIO
+
+Por cambio de propietario, las personas físicas o morales deberán solicitar la expedición de una nueva licencia, teniendo como costo el 50 por ciento en lo señalado por el inciso a) de este artículo.
+
+f) Por la expedición de permisos para la realización de eventos sociales, por cada uno:
+
+1.- Eventos familiares utilizando equipo de
+
+sonido o música viva 5.00
+
+2.- Eventos de luz y sonido 7.00
+
+3.- Eventos de luz y sonido en zona rural 5.00
+
+4.- Callejeada y/o desfiles 0.00
+
+5.- Otros no especificados 0.00 a 7.00
+
+Las licencias de funcionamiento de giros distintos a los referidos en el artículo 79 de esta Ley, no causarán el pago de derechos pero deberán obtenerse por los interesados dentro de los treinta días siguientes a la fecha de inicio de operaciones y refrendarse durante los meses de enero y febrero de cada año.
 
 #### SECCION SEGUNDA. DE LOS REGISTROS, CERTIFICACIONES Y LEGALIZACIONES
 
@@ -1011,7 +2275,97 @@ A).- REGISTRO CIVIL
 
 Los derechos por servicios que preste el registro civil se causarán y pagarán conforme a la siguiente tarifa:
 
-(VEASE ARCHIVO ANEXO)
+Unidad de salario
+
+I. En las oficinas:
+
+a) Registro de nacimiento dentro del término
+
+de ley (180 días) 0.00
+
+b) Por registro extemporáneo de nacimiento 3.00
+
+c) Registro de reconocimiento de hijos 3.00
+
+d) Registro de inscripción de nacimientos
+
+y defunciones ocurridos en el extranjero 10.00
+
+e) Registro de inscripción de matrimonios
+
+celebrados en el extranjero 10.00
+
+f) Registro de matrimonios 3.00
+
+g) Inscripción de adopción 13.50
+
+h) Anotaciones marginales y/o exhortos 2.00
+
+i) Trámite para la inscripción de resolución
+
+administrativa dictada por la autoridad
+
+competente para la aclaración o
+
+complementación de acta 6.00
+
+j) Búsqueda de actas en libros 1.00
+
+k) Expedición de constancia de registro de
+
+cualquier acto del registro civil 2.00
+
+l) Servicio de tramitación de actas de registro
+
+civil a diversas oficialías más el costo de las
+
+mismas 5.00
+
+m) Los demás actos, cada uno 1.00
+
+II. A domicilio:
+
+a) Registro de nacimiento:
+
+1.- En días y horas inhábiles 8.00
+
+2.- En días y horas hábiles 4.00
+
+b) Registro de matrimonios:
+
+1.- En días y horas inhábiles 10.00
+
+2.- En días y horas hábiles 5.00
+
+c) Registro de los demás actos hasta 13.50
+
+III. Divorcios:
+
+a) Administrativo 14.00
+
+b) Inscripción 10.00
+
+c) Anotación marginal 1.20
+
+Por la prestación de los servicios a que se refieren las fracciones anteriores, solicitadas vía telefónica o por medios electrónicos y entregadas a domicilio, se cobrará el 25 por ciento más del costo por la expedición del documento respectivo.
+
+Los derechos que se originen por concepto de
+
+campañas de regularización del estado civil de
+
+los habitantes del municipio de Cuauhtémoc, que
+
+anualmente lleven a cabo las instituciones de
+
+asistencia social, en coordinación con la
+
+dependencia estatal competente, todo tipo de
+
+documentos oficiales expedidos por ésta,
+
+causarán y pagarán conforme a la siguiente
+
+cuota 0.00
 
 B).- CATASTRO
 
@@ -1019,7 +2373,213 @@ B).- CATASTRO
 
 Los derechos por servicios que preste el catastro municipal se causarán y pagarán conforme a la siguiente tarifa, por cada pieza:
 
-(VEASE ARCHIVO ANEXO)
+Unidad de salario
+
+I. Copias e impresiones:
+
+a) De planos generales 5.00
+
+b) De plano de un predio con acotaciones 3.60
+
+c) De plano manzanero 3.60
+
+d) De plano manzanero graficado 5.00
+
+e) De plano de fraccionamiento 5.00
+
+f) De plano general a diferentes escalas:
+
+1.- Graficado, incluyendo, manzanas predios y calles 8.00
+
+2.- Por cada impresión hasta de 1.10 x 0.84 mts 8.00
+
+> <small>(F. DE E., P.O. 22 DE FEBRERO DE 2003)</small>
+
+3.- Por cada copia adicional al plano general 5.00
+
+g) De planos de predios urbanos con medidas, superficie y nombre de calles:
+
+1.- Sin nombres de colindantes 3.60
+
+2.- Con nombres de colindantes 4.60
+
+h) De planos de predios rústicos:
+
+1.- Hasta 5-00-00 hectáreas 15.00
+
+2.- Más de 5-00-00 hectáreas 25.00
+
+i) De fotos aéreas, más costo de laboratorio,
+
+según tamaño 10.00
+
+j) De cada fotografía de contacto en formato
+
+23 x 23 ctms. Escala 1,4500 2.00
+
+k) De tarjetas de registro 2.50
+
+l) Aviso de transmisión patrimonial 2.50
+
+m) De avalúos catastrales 3.00
+
+II. Certificaciones:
+
+a) Certificaciones de documentos catastrales 1.80
+
+b) Certificación catastral de un predio para
+
+tramitar juicio a favor del poseedor 9.00
+
+c) Constancia certificada de inscripción o no en
+
+los registros catastrales 1.80
+
+d) Constancia de pago del impuesto predial 1.00
+
+III. Avalúos, asignación de claves y mediciones:
+
+a) Por asignación de claves catastrales urbanas en nuevos fraccionamientos o relotificación se cubrirá el siguiente derecho:
+
+1.- DENSIDAD BAJA:
+
+- Por fraccionamiento 15.76
+
+- Más por lote 0.27
+
+2.- DENSIDAD MEDIA:
+
+- Por fraccionamiento 11.25
+
+- Más por lote 0.18
+
+3.- DENSIDAD ALTA:
+
+- Por fraccionamiento 9.00
+
+- Más por lote 0.09
+
+b) Cuando por motivo de una solicitud de rectificación o medición de un predio, urbano o rústico sea necesario el traslado del personal técnico para la verificación física, se cubrirá previamente el siguiente derecho:
+
+1.- En la ciudad en la que se ubican de las
+
+oficinas catastrales 1.80
+
+2.- Fuera de la ciudad en la que se encuentran
+
+las oficinas catastrales 1.80
+
+- Más, por cada kilómetro recorrido 0.09
+
+c) Por asignar coordenadas geodésicas para la orientación de fraccionamientos:
+
+- Por cada punto geodésico 10.00
+
+d) Por medición de terreno, elaboración y expedición de planos, de conformidad con la siguiente clasificación:
+
+1.- Tratándose de predios urbanos:
+
+Hasta 120.00 M2 5.00
+
+De 120.01 a 200.00 M2 6.00
+
+De 200.01 a 300.00 M2 7.00
+
+De 300.01 a 500.00 M2 7.50
+
+De 500.01 a 1,000.00 M2 8.50
+
+De 1,000.01 a 2,000.00 M2 11.00
+
+Más de 2,000.00 M2 15.00
+
+2.- Tratándose de predios rústicos:
+
+Hasta 10-00-00 hectáreas 8.50
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
+Más de 10-00-00 hectáreas 10.00
+
+IV. Fusiones, subdivisiones, cesiones y registros:
+
+a) Por la fusión o subdivisión de predios, cuando el valor catastral de los predios fusionados o subdivididos sea de:
+
+1.- Hasta un valor catastral equivalente a 2,250.00
+
+unidades de salario 2.25
+
+2.- Más de un valor catastral equivalente
+
+a 2,250.00 unidades de salario, se pagará
+
+sobre dicho valor el 0.1 por ciento
+
+b) Registro de cesión de derechos de predios
+
+registrados catastralmente sólo para el pago
+
+de impuesto predial 2.25
+
+c) Por el registro de actas o avisos notariales en los que se constituya o modifique el régimen de propiedad en condominio:
+
+- Por cada lote, departamento, finca o local 1.80
+
+d) Por inscripción o registro de títulos documentos públicos o privados, en virtud de los cuales se adquiera, transmita, modifique o extinga el dominio o posesión de bienes inmuebles o modifiquen los registros catastrales:
+
+1.- Cuando el valor del inmueble sea hasta el
+
+equivalente a 6,111.00 unidades de salario 1.80
+
+2.- Cuando el valor del inmueble sea mayor
+
+al equivalente de 6,111.00 unidades de salario 2.70
+
+e) Por la búsqueda y expedición de información
+
+catastral de predios urbanos 1.80
+
+V. Por modificar registros manifestados
+
+erróneamente 1.80
+
+VI. Por cartografía a escala 1:1,000 en forma digital, por cada zona catastral:
+
+a) Archivos DXF (manzanas, predios y
+
+nomenclaturas) 75.00
+
+b) Archivos DXF (manzanas, predios,
+
+construcciones, nomenclaturas, cotas,
+
+fotogramétricas en coordenadas Universal
+
+Transversa de Mercator 120.00
+
+VII. Por cartografía del plano general, en formato digital de la zona urbana de la cabecera municipal:
+
+a) Archivos DXF (manzanas, predios,
+
+construcciones, nomenclatura de calles,
+
+hidrografía, vías de comunicación, cotas
+
+fotogramétricas en coordenadas Universal
+
+Transversa de Mercator 145.00
+
+VIII.- Por cartografía 1:10,000 en formato digital por cada población o comunidad:
+
+a) Archivos DXF (manzanas, predios,
+
+construcciones, nomenclatura de calles,
+
+hidrografía, vías de comunicación, cotas
+
+fotogramétricas en coordenadas Universal
+
+Transversa de Mercator 72.00 a 145.00
 
 C).- ECOLOGIA
 
@@ -1027,7 +2587,73 @@ C).- ECOLOGIA
 
 Los montos establecidos para que la dependencia municipal competente otorgue las siguientes autorizaciones, certificaciones y permisos, son:
 
-(VEASE ARCHIVO ANEXO)
+Unidad de salario
+
+I .Por el dictamen del informe de factibilidad ambiental para:
+
+a) Obras o actividades con inversión menor
+
+de 650.00 unidades de salario 0.00
+
+b) Obras o actividades con inversión mayor de 650.00 unidades de salario:
+
+1.- Por la recepción y evaluación 20.00
+
+2.- Por el otorgamiento del dictamen 10.00
+
+3.- por la revalidación del dictamen 10.00
+
+II. Por el dictamen de la manifestación de impacto ambiental modalidad MIA 1:
+
+a) Por la recepción y evaluación 50.00
+
+b) Por la (sic) otorgamiento del dictamen 20.00
+
+c) Por la revalidación del dictamen 20.00
+
+III.- Por el dictamen de la manifestación de impacto ambiental MIA 2:
+
+a) Por la recepción y evaluación 80.00
+
+b) Por la (sic) otorgamiento del dictamen 40.00
+
+c) Por la revalidación del dictamen 30.00
+
+IV. Por la autorización para la poda o derribo de cada árbol, tomando en cuenta la Norma Oficial Mexicana NOM-059-ECOL-2001, de:
+
+a) Especies comerciales (frutales y de ornato) o industriales:
+
+1.- Por poda: 0.00
+
+2.- Por derribo:
+
+- Arboles hasta 30 ctms. de diámetro de
+
+fuste principal 2.00
+
+- Arboles de 31 hasta 50 ctms. de diámetro
+
+de fuste principal 3.00
+
+- Arboles de 51 hasta 70 ctms. de diámetro
+
+de fuste principal 5.00
+
+- Arboles de más de 70 ctms. de diámetro
+
+de fuste principal 10.00
+
+V. Por la expedición de la cédula de calibración de equipo de perifoneo:
+
+a) Por la emisión de 1 a 2 mensajes 1.00
+
+b) Por la emisión de 3 a 4 mensajes 2.00
+
+VI. Por la expedición de autorizaciones,
+
+certificaciones y dictámenes no previstos
+
+en este artículo de 1.00 a 100.00
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -1195,7 +2821,37 @@ Los propietarios o poseedores de predios considerados catastralmente como no con
 
 El derecho de alumbrado público se pagará de conformidad con las tasas y cuotas siguientes:
 
-(VEASE ARCHIVO ANEXO)
+I. Para los contribuyentes cuya obligación encuadra en lo dispuesto por la fracción I del artículo 91 de esta Ley:
+
+a) Por los servicios domésticos y servicios
+
+generales en baja tensión, así como otros
+
+servicios en alta tensión para más de
+
+20 kilowatts (Kw) de demanda 10 por ciento
+
+b) Por los servicios generales en alta tensión de 66 o más Kw de demanda, conforme a los siguientes rangos de consumo en kilowatts hora (Kwh), por ciento:
+
+Hasta 15,000,000 1.50
+
+de 15,000,001 a 30,000,000 1.00
+
+de 30,000,001 a 45,000,000 0.50
+
+de 45,000,001 en adelante 0.40
+
+II. Para los contribuyentes cuya obligación
+
+encuadra en lo dispuesto por la fracción II
+
+del artículo anterior, se pagará anualmente
+
+por metros lineales de frente, colindantes
+
+con vías públicas que cuenten con servicio
+
+de alumbrado público en uso 0.15
 
 #### SECCION SEGUNDA. ASEO PUBLICO
 
@@ -1211,7 +2867,93 @@ Son sujetos de este derecho las personas físicas o morales que requieran servic
 
 Las personas físicas o morales a quienes se presten los servicios especiales que en esta sección se enumeran, pagarán los derechos correspondientes conforme a las siguientes tarifas:
 
-(VEASE ARCHIVO ANEXO)
+Unidad de salario
+
+I. Por recolección y traslado de residuos no peligrosos, previo dictamen de la autoridad competente:
+
+a) Los propietarios, poseedores o usuarios
+
+de predios destinados a la realización de
+
+actividades económicas que generen una
+
+cantidad diaria menor a 1.50 M3 sin
+
+compactar, pagarán: 0.00
+
+> <small>(F. DE E., P.O. 22 DE FEBRERO DE 2003)</small>
+
+b) Quienes realicen actividades comerciales, industriales o de prestación de servicios, así como el de los fraccionamientos no municipalizados y que requieren de estos servicios en forma permanente, deberán celebrar contrato con el Ayuntamiento, en el cual se fijará la forma en que se prestarán éstos, cobrándose en base a volumen tal y como se establece en este artículo o en base estimatoria, con respecto al peso o volumen. Respecto a las tarifas mínimas se estará a lo dispuesto por las siguientes:
+
+1) Por tonelada 0.50
+
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007) (F. DE E., P.O. 19 DE ENERO DE 2008)
+
+2) Por metro cúbico compactado 0.40
+
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007) (F. DE E., P.O. 19 DE ENERO DE 2008)
+
+3) Por metro cúbico sin compactar 0.20
+
+4) Por cada tambo de 200 litros 0.04
+
+5) Por cada contenedor 0.80
+
+II. Cuando se requiera el servicio de
+
+camiones de aseo en forma exclusiva,
+
+por cada flete 15.00
+
+III. Por los servicios de recepción de
+
+residuos no peligrosos, en estaciones
+
+de transferencia del Ayuntamiento,
+
+transportados por terceros en sus
+
+propios medios, por tonelada o fracción 1.50
+
+IV. Por realizar servicios especiales de
+
+limpieza, recolección y transporte de
+
+residuos en lotes no edificados o
+
+edificaciones ruinosas o inhabitables,
+
+en rebeldía de los obligados a mantenerlos
+
+limpios, por metro cuadrado, cada vez
+
+Incurrirá en rebeldía el titular del predio
+
+que no lleve a cabo la limpieza y
+
+traslado dentro de los diez días hábiles
+
+siguientes de la notificación. 0.06
+
+V. Por depositar residuos en el relleno sanitario:
+
+a) Por tonelada 1.50
+
+b) Por metro cúbico compactado 3.00
+
+c) Por metro cúbico sin compactar 1.50
+
+d) Por cada tambo de 200 litros 0.30
+
+VI. Por depositar residuos no peligrosos provenientes de rastros y hospitales, en el relleno sanitario:
+
+a) Por tonelada 5.50
+
+b) Por metro cúbico compactado 3.50
+
+c) Por metro cúbico sin compactar 2.50
+
+d) Por cada tambo de 200 litros 0.50
 
 ###### ARTICULO 96.
 
@@ -1231,7 +2973,33 @@ IV. Cinco días posteriores al requerimiento de pago al propietario o poseedor d
 
 Las personas a quienes se les presten servicios en los casos que se mencionan en este artículo, pagarán los derechos correspondientes a las siguientes cuotas:
 
-(VEASE ARCHIVO ANEXO)
+Unidad de salario
+
+I. Inhumaciones y reinhumaciones, por cada vez, en cementerios municipales y particulares:
+
+a) En fosa común 0.00
+
+b) En propiedad particular 3.70
+
+c) Otros 20.00
+
+II. Exhumaciones, por cada una 5.70
+
+III. Permiso de traslado de cadáveres fuera
+
+del municipio 3.70
+
+IV. Por la limpieza de lotes en propiedad particular, anualmente, que deberá pagarse en los meses de enero y febrero:
+
+a) Para la propiedad de 1 x 3 mts 2.50
+
+b) Para la propiedad mayor de 1 x 3 mts 3.00
+
+V. Cremaciones, por cada una 10.00
+
+VI. Expedición de títulos de propiedad 1.50
+
+VII. Traspaso de títulos de propiedad 4.00
 
 ###### ARTICULO 98.
 
@@ -1247,7 +3015,35 @@ Los derechos por rastro municipal deberán ser cubiertos en forma anticipada en 
 
 Las personas que realicen la matanza de cualquier clase de animales, dentro del rastro, deberán obtener la autorización correspondiente y pagar los derechos conforme a las siguientes cuotas:
 
-(VEASE ARCHIVO ANEXO)
+Unidad de salario
+
+I. Por cabeza de ganado:
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2003)</small>
+
+a) Vacuno 1.00
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2003)</small>
+
+b) Porcino 0.75
+
+c) Lanar o caprino 0.85
+
+II. Por cabeza de aves: 0.20
+
+III. Por los servicios de permanencia de los animales destinados al sacrificio, pasando de 24 horas, pagarán diariamente por cabeza:
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2003)</small>
+
+a) Ganado vacuno 0.16
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2003)</small>
+
+b) Ganado porcino 0.16
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2003)</small>
+
+c) Ganado lanar o caprino 0.08
 
 ###### ARTICULO 101.
 
@@ -1293,13 +3089,47 @@ El municipio obtendrá ingresos por la enajenación de bienes, siempre y cuando 
 
 Las personas físicas o morales que tomen en arrendamiento algún bien propiedad del municipio, pagarán a éste, las rentas respectivas, de conformidad con las siguientes cuotas:
 
-(VEASE ARCHIVO ANEXO)
+Unidad de salario
+
+I. Arrendamiento de mercados, se pagará según la tarifa siguiente, por día:
+
+a) Locales interiores 0.25
+
+b) Accesorias 0.25
+
+c) Puestos semifijos 0.20
+
+d) Puestos eventuales 0.20
+
+e) Otros no especificados, por metro
+
+cuadrado 0.20
+
+En el arrendamiento de locales no se incluye el servicio de agua potable ni energía eléctrica.
+
+II. Refrendo de concesión de los mercados,
+
+anualmente: 1.00 a 2.00
+
+III. Traspaso de locales, previa autorización
+
+del Cabildo, cada vez: 1.00 a 18.00
+
+IV. El importe de las rentas de otros bienes muebles e inmuebles propiedad del municipio, será fijado en los contratos respectivos por el Presidente Municipal, previo acuerdo del Cabildo.
 
 ###### ARTICULO 108.
 
 Los propietarios de ganado que circule en las vías públicas y sea recogido por la autoridad municipal, haciendo uso de las instalaciones del municipio, pagarán diariamente, conforme a la siguiente tarifa:
 
-(VEASE ARCHIVO ANEXO)
+Unidad de salario
+
+I. Chiqueros especiales, por cabeza: 0.23
+
+II. Corrales para guarda de animales
+
+que transiten en la vía pública sin
+
+vigilancia, por cada uno: 0.47
 
 ###### ARTICULO 109.
 
@@ -1345,7 +3175,29 @@ Los ingresos que se obtengan por los rendimientos financieros o intereses genera
 
 Por la venta de formas impresas de la autoridad municipal se cobrará por juego:
 
-(VEASE ARCHIVO ANEXO)
+Unidad de salario
+
+I. Solicitud de expedición o refrendo de
+
+licencia para negocio 1.00
+
+II. Solicitud de licencia de uso del suelo 1.00
+
+III. Solicitud de alineamiento y número oficial 1.00
+
+IV. Solicitud de licencia de construcción 1.00
+
+V. Solicitud de aviso de transmisión patrimonial 1.00
+
+VI. Solicitud de subdivisiones 3.00
+
+VII. Solicitud de matrimonio 2.00
+
+VIII. Solicitud de expedición o refrendo de
+
+licencia para bebidas alcohólicas 2.00
+
+IX. Solicitud de otro tipo 2.00
 
 ### CAPITULO VII. VENTA DE PRODUCTOS PROCEDENTES DE VIVEROS, CAMELLONES Y JARDINES PUBLICOS
 
@@ -1377,7 +3229,25 @@ La venta de esquilmos, productos de aparcería, desechos y basura, será de conf
 
 Los productos derivados de arrastre de grúas y maniobras se cubrirán de conformidad a lo siguiente:
 
-(VEASE ARCHIVO ANEXO)
+Unidad de salario
+
+I Servicio de arrastre de grúa en la zona
+
+conurbada de la ciudad 7.00
+
+II. Kilómetro adicional por arrastre fuera de
+
+la zona conurbada 0.30
+
+III. Por maniobras especiales de 7.00 a 20.00
+
+IV. Por vehículo detenido en el corralón,
+
+por día 1.00
+
+V. Otros Según acuerdo
+
+del Cabildo
 
 ### CAPITULO UNICO
 
@@ -1385,7 +3255,33 @@ Los productos derivados de arrastre de grúas y maniobras se cubrirán de confor
 
 Los productos que por los conceptos que a continuación se detallan, se causarán y pagarán conforme a las siguientes tarifas:
 
-(VEASE ARCHIVO ANEXO)
+Unidad de salario
+
+I. Almacenaje en locales y bodegas del municipio Según contrato
+
+II. Ingresos que se obtengan de los parques y
+
+unidades deportivas municipales Según acuerdo
+
+de Cabildo
+
+III. Fotocopias, por cada copia 0.04
+
+IV. Productos o utilidades de talleres y demás
+
+centros de trabajo que Operen dentro o al
+
+amparo de los establecimientos municipales Según acuerdo
+
+de Cabildo
+
+V. En pipa de agua a domicilio dentro del área
+
+urbana para uso doméstico, por M3 0.50
+
+VI. Otros productos no especificados Según acuerdo
+
+de Cabildo
 
 ## TITULO SEXTO. DE LOS APROVECHAMIENTOS
 
@@ -1594,3 +3490,7 @@ SEGUNDO.- Para el ejercicio fiscal 2008, el plazo a que se refieren el segundo p
 P.O. 22 DE MARZO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE DICIEMBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el 01 de enero de 2009, previa su publicación en el Periódico Oficial "El Estado de Colima".
