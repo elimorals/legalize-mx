@@ -4,7 +4,7 @@ identifier: "COL-ley-del-arancel-de-los-abogados-4283"
 country: "mx"
 rank: "ley"
 publication_date: "1973-05-26"
-last_updated: "1973-05-26"
+last_updated: "2008-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DEL ARANCEL DE LOS ABOGADOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ARANCELARIA DE LOS ABOGADOS EN EL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 20 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 26 de mayo de 1973.
 
@@ -194,3 +196,17 @@ Salón de Sesiones del H. Congreso del Estado.- Colima, Col., a 25 de Mayo de 19
 Por tanto mando se imprima, publique, circule y observe.
 
 Palacio de Gobierno, Colima, Col., 26 de mayo de 1973.- El Gobernador Constitucional del Estado, PROFR. PABLO SILVA GARCIA.- Rúbrica- El Secretario General de Gobierno, LIC. MARIO DE LA MADRID DE LA TORRE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE DICIEMBRE DE 2008.
+
+PRIMERO.- La presente Ley entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga la Ley del Arancel de los Abogados, publicada en el Periódico Oficial "El Estado de Colima" el día 26 de mayo de 1973, mediante Decreto No. 159.
+
+TERCERO.- A los juicios sobre honorarios profesionales y a los incidentes de liquidación de costas que se hubieren iniciado antes de la entrada en vigor de la presente Ley, le serán aplicables las normas de la Ley del Arancel de los Abogados a que hace alusión en el artículo anterior.
+
+CUARTO.- El presente arancel se expide en base a las condiciones económicas que prevalecen en la fecha de su publicación y en base al salario mínimo general que rige en la Entidad.
+
+Para los efectos de su adecuación constante, las tarifas que en él se previenen se incrementarán en un 40% del aumento que se haga al salario mínimo general aplicable al Estado de Colima.
