@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-patronato-para-administrar-el-impuesto-especial-11836"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-29"
-last_updated: "1995-11-29"
+last_updated: "2008-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY DEL PATRONATO PARA ADMINISTRAR EL IMPUESTO ESPECIAL DESTINADO A LA UNIVERSIDAD AUTONOMA DE NAYARIT -ANTES LEY DEL PATRONATO PARA ADMINISTRAR EL IMPUESTO ADICIONAL DEL 10% DESTINADO A LA UAN
 
-LEY DEL PATRONATO PARA ADMINISTRAR EL IMPUESTO ADICIONAL DEL 10% DESTINADO A LA UNIVERSIDAD AUTONOMA DE NAYARIT
+LEY DEL PATRONATO PARA ADMINISTRAR EL IMPUESTO ESPECIAL DESTINADO A LA UNIVERSIDAD AUTONOMA DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 29 de noviembre de 1995.
 
@@ -41,37 +41,55 @@ El H. Congreso del Estado Libre y Soberano de Nayarit, representado por su XXIV 
 
 D E C R E T A :
 
-LEY DEL PATRONATO PARA ADMINISTRAR EL IMPUESTO ADICIONAL DEL 10% DESTINADO A LA UNIVERSIDAD AUTONOMA DE NAYARIT
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+LEY DEL PATRONATO PARA ADMINISTRAR EL IMPUESTO ESPECIAL DESTINADO A LA UNIVERSIDAD AUTÓNOMA DE NAYARIT
 
 ### CAPITULO I. Objeto y fines
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 1o.
 
-Sobre los ingresos establecidos y los que llegaren a establecerse en las leyes fiscales, tanto del Estado como de los Municipios, se causará un impuesto adicional del 10%, cuyo producto será destinado íntegramente a fomentar e incrementar el patrimonio de la Universidad Autónoma de Nayarit
+Es objeto del impuesto adicional destinado a la Universidad Autónoma de Nayarit, el pago de impuestos, de derechos y productos establecidos y los que llegaren a establecerse en las leyes fiscales, tanto del Estado como de los Municipios.
+
+Este impuesto se causará y pagará a la tasa del 12%.
+
+El producto de este impuesto será destinado íntegramente a fomentar e incrementar el patrimonio de la Universidad Autónoma de Nayarit y al financiamiento de sus actividades académicas, de extensión, vinculación e investigación.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 2o.
 
-Son sujetos de este impuesto, las personas físicas o morales que perciban los ingresos a que se refieran las leyes de la materia
+Son sujetos de este impuesto, las personas físicas o morales obligadas al pago de impuestos, de derechos y productos de carácter estatal y municipal.
 
 ###### ARTICULO 3o.
 
 El impuesto adicional será recaudado por las oficinas receptoras simultáneamente con el entero del gravamen principal, haciendo constar tal circunstancia en los recibos oficiales que se expidan. El importe se concentrará en la Secretaría de Finanzas del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 4o.
 
 El monto del impuesto adicional será destinado única y exclusivamente para los siguientes fines:
 
-a).- Fomentar el financiamiento de planes y programas de investigación y proyectos que sean productivos, rentables o recuperables, siempre que tengan relación con el desarrollo económico y social del Estado;
+I.- Fomentar el financiamiento de planes y programas de investigación y proyectos que sean productivos, rentables o recuperables, siempre que tengan relación con el desarrollo económico y social del Estado;
 
-b).- Desarrollar actividades científicas, editoriales y tecnológicas de la Universidad;
+II.- Desarrollar actividades científicas, editoriales y tecnológicas de la Universidad;
 
-c).- Eficientar al servicio social; y
+III.- Eficientar al servicio social;
 
-d).- Obra, reparación y equipamiento de la infraestructura de la Universidad, siempre que se reúnan los requisitos siguientes:
+IV.- Adquisiciones, servicios, arrendamientos y obra, reparación y equipamiento de la infraestructura de la Universidad, siempre que se reúnan los requisitos siguientes:
 
-I.- Que exista acuerdo unánime de los miembros del Patronato; y
+a) Que exista acuerdo unánime de los miembros del Patronato; y
 
-II.- Que se lleve a cabo concurso de licitación pública y asignación de la obra, preparación o equipamiento.
+b) Que la contratación se lleve a cabo mediante los procedimientos que establezca la ley de la materia.
+
+V.- Financiamiento de actividades académicas, deportivas, artísticas y culturales;
+
+VI.- Otorgamiento de becas; y
+
+VII.- Para cubrir los gastos de administración y funcionamiento del patronato, con el acuerdo unánime de los miembros del patronato.
 
 ###### ARTICULO 5o.
 
@@ -81,21 +99,27 @@ El Presidente y el Tesorero del Patronato llevarán solidaria y común responsab
 
 ### CAPITULO II. Del Patronato
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 6o.
 
-El Patronato se integrará por los miembros siguientes:
+El patronato es un ente con personalidad jurídica propia, autonomía técnica y de gestión para el ejercicio de su función y cumplimiento de su objeto.
 
-I. Por un Presidente que será designado por el Congreso a propuesta en terna del Gobernador Constitucional;
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
-II. Por un Secretario que será el Rector de la Universidad o su representante autorizado por escrito;
+ARTICULO 6o BIS.- El Patronato se integrará por los miembros siguientes:
 
-III. Por un Tesorero que será un representante de los organismos empresariales del Estado, haciendo constar su designación y acreditación en los documentos respectivos;
+I.- Por un Presidente que será designado por el Congreso a propuesta en terna del Gobernador Constitucional;
 
-IV. Por un representante de las escuelas de educación medio superior que será designado por el Rector;
+II.- Por un Secretario que será el Rector de la Universidad;
 
-V. Por un representante de las escuelas o facultades de educación superior que será designado por el Rector, y
+III.- Por un Tesorero que será un representante de los organismos empresariales del Estado, haciendo constar su designación y acreditación en los documentos respectivos;
 
-VI. Por un representante de cada uno de los sectores que integran la Universidad Autónoma de Nayarit, debidamente acreditados.
+IV.- Por un representante de las escuelas de educación medio superior que será designado por el Rector;
+
+V.- Por un representante de las escuelas o facultades de educación superior que será designado por el Rector, y
+
+VI.- Por un representante de cada uno de los sectores que integran la Universidad Autónoma de Nayarit, debidamente acreditados.
 
 Por cada miembro del Patronato se designará su respectivo suplente, quienes solamente actuarán en las faltas temporales injustificadas de los titulares. Los representantes de los sectores universitarios sólo tendrán voz en las sesiones del Patronato.
 
@@ -105,7 +129,9 @@ Para ser Presidente y Tesorero del Patronato se requiere:
 
 I. Ser ciudadano nayarita o vecino con residencia en el Estado no menor de 5 años, en pleno ejercicio de sus derechos políticos;
 
-II. No tener más de 65 años de edad ni menos de 30 al día de su designación;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+II. Ser mayor de 30 años al día de su designación;
 
 III. Poseer profesión o experiencia compatible con las funciones del cargo;
 
@@ -115,9 +141,11 @@ V. No estar al servicio de la Federación, el Estado o los Municipios, ni ser fu
 
 VI. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión, pero si se tratare de algún delito patrimonial u otro que lastime seriamente la buena fama en el concepto público universitario, inhabilitará para el cargo cualquiera que haya sido la pena.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 8o.
 
-Los integrantes del patronato funcionarán colegiadamente, celebrando cuando menos una sesión mensual ordinaria. Su domicilio social será en la ciudad de Tepic, Nayarit, y tendrá personalidad jurídica para los efectos que esta ley regule.
+Los integrantes del patronato funcionarán colegiadamente, celebrando cuando menos una sesión mensual ordinaria. Su domicilio social será en la ciudad de Tepic, Nayarit.
 
 El patronato desarrollará sus funciones con la asistencia de la mayoría de sus integrantes y sus acuerdos deberán ser votados por mayoría de votos. En caso de empate la votación volverá a celebrarse y si persistiere, el Presidente tendrá voto de calidad.
 
@@ -139,7 +167,9 @@ Las faltas justificadas serán informadas con la debida anticipación; si un rep
 
 Son atribuciones del Patronato:
 
-I.- Recibir, concentrar y administrar el manejo del producto del impuesto del 10% adicional;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+I.- Recibir, concentrar y administrar los recursos económicos derivados de la recaudación del impuesto del 12% adicional;
 
 II.- Formar y controlar el inventario de los bienes que formen el Patronato;
 
@@ -151,13 +181,47 @@ V.- Integrar estudios y expedientes relativos a líneas de investigación para l
 
 VI.- Convocar, en coordinación con las autoridades universitarias, a concursos para el financiamiento de programas de investigación y asignar los recursos correspondientes. Todo proyecto de investigación deberá sujetarse a las modalidades que dicten los órganos de la Universidad y que sirvan para el fomento de sus fines;
 
-VII.- Autorizar programas de investigación relacionados con las áreas económicas y productivas del Estado de Nayarit, de entre las recomendaciones técnicas que determinen las autoridades universitarias;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+VII.- Financiar programas de investigación relacionados con las áreas económicas y productivas del Estado de Nayarit, de entre las recomendaciones técnicas que determinen las autoridades universitarias;
 
 VIII.- Fomentar las actividades científicas y tecnológicas de acuerdo con los programas institucionales de la Universidad;
 
-IX.- Dictar las medidas que sean pertinentes para apoyar la prestación del servicio social de las facultades o escuelas de la Universidad con apego a los programas y acciones que aprueben las autoridades universitarias competentes y su reglamento de servicio social; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
-X. Las demás que determine el reglamento conforme a las bases y disposiciones de esta ley.
+IX.- Celebrar convenios y contratos relacionados con su objeto;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+X.- Promover instrumentos de inversión financiera y productiva respecto de los recursos universitarios provenientes del impuesto adicional del 12%;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+XI.- Aprobar la asignación y distribución de los recursos financieros, tomando en cuenta el objeto de la Universidad, así como el impacto social de sus programas y proyectos;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+XII.- Aprobar la asignación de recursos financieros para obras, reparaciones y equipamientos de la infraestructura de la Universidad;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+XIII.- Generar y respaldar proyectos estratégicos de desarrollo con los sectores productivos para alcanzar y consolidar la excelencia académica universitaria en sus funciones sustantivas de docencia, investigación y extensión de la cultura y los servicios;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+XIV.- Apoyar los procesos de planeación académica cuando lo soliciten las autoridades universitarias;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+XV.- Recomendar acciones de vinculación entre la Universidad y los sectores público, privado y social que incidan en proyectos de investigación y en la oferta educativa universitaria en su conjunto;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+XVI.- Formar comisiones interdisciplinarias de trabajo entre sus miembros para el tratamiento de asuntos específicos; y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+XVII.- Las demás que determine el reglamento conforme a las bases y disposiciones de esta Ley.
 
 ###### ARTICULO 12.
 
@@ -208,3 +272,11 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario General de Gobierno
 
 Lic. Sigfrido de la Torre Miramontes
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE DICIEMBRE DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- El Patronato Administrador del Impuesto Especial deberá realizar las adecuaciones pertinentes al reglamento de la presente Ley, dentro de los 60 días siguientes a la entrada en vigor del presente decreto.
