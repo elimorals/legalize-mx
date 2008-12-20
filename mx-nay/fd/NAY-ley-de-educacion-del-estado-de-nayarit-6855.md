@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2002-09-28"
+last_updated: "2008-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACION DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -135,9 +135,19 @@ XIII.- De acuerdo con su capacidad presupuestal apoyar por medio de becas a los 
 
 XIV.- Desarrollar programas integrales de apoyo a los maestros adscritos en localidades aisladas o marginadas;
 
-XV.- Atender a la población de bajo desarrollo y marginación para garantizar el derecho de acceso y permanencia en los servicios educativos, y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
-XVI.- Nombrar y remover libremente a las Autoridades Educativas Estatales
+XV.- Atender a la población de bajo desarrollo y marginación para garantizar el derecho de acceso y permanencia en los servicios educativos;
+
+XVI.- Nombrar y remover libremente a las Autoridades Educativas Estatales;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+XVII.- Regular la infraestructura física educativa al servicio del sistema educativo estatal; y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+XVIII.- Las demás que fijen las leyes o normas aplicables en la materia.
 
 ###### ARTICULO 10.
 
@@ -299,9 +309,11 @@ Los Planes y Contenidos Programáticos, a partir de la Educación Secundaria, ha
 
 La tecnología educativa aplicada al Sistema Estatal de Educación, se deberá caracterizar por ser innovadora y por buscar soluciones a los problemas educativos de acuerdo a las características de los educandos.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 43.
 
-Se buscará el mejoramiento de la educación en el Estado, mediante el perfeccionamiento del proceso educativo, la optimización de los recursos didácticos y la creación y mantenimiento de espacios adecuados.
+Se buscará el mejoramiento de la educación en el Estado, mediante el perfeccionamiento del proceso educativo, la optimización de los recursos didácticos y la planeación, construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de inmuebles e instalaciones destinados al servicio del sistema educativo estatal.
 
 ###### ARTICULO 44.
 
@@ -383,7 +395,9 @@ Las autorizaciones y los reconocimientos de validez oficial de estudios, se otor
 
 I.- Con personal que acredite el perfil profesional para cada caso;
 
-II.- Con instalaciones que satisfagan las condiciones de higiene, de seguridad técnicopedagógicas, de iluminación y deportivas, y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+II.- Con la infraestructura física educativa que cumpla los requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad y pertinencia que al efecto fijen las autoridades competentes en la materia; y
 
 III.- Con planes y programas que autoricen las Autoridades Educativas del Estado
 
@@ -397,9 +411,17 @@ II.- Proporcionarán un porcentaje de becas para alumnos de excelencia académic
 
 III.- Facilitar y colaborar en las actividades de información, evaluación y vigilancia que las autoridades competentes realicen;
 
-IV.- Concertar con los padres o tutores de los alumnos, el monto de las colegiaturas, y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
-V.- Cumplir en toda su integridad la presente Ley.
+IV.- Concertar con los padres o tutores de los alumnos, el monto de las colegiaturas;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+V.- Certificarse, en la periodicidad que se requiera para garantizar el cumplimiento de los requisitos de construcción, estructura, condiciones específicas o equipamiento que sean obligatorios para la infraestructura física educativa, en los términos y las condiciones de la normatividad aplicable municipal, estatal y federal aplicable; y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+VI.- Las demás que les señalen las leyes y normatividad aplicable a la materia.
 
 ###### ARTICULO 57.
 
@@ -417,9 +439,43 @@ El Ejecutivo del Estado, por conducto de las Autoridades Educativas, podrá reti
 
 Cuando se revoque la autorización para impartir educación a una Institución, se hará del conocimiento público a través del periódico oficial, Organo del Gobierno del Estado.
 
-### CAPITULO VII. DE LA VALIDEZ OFICIAL DE ESTUDIOS Y DE LA CERTIFICACIÓN DE CONOCIMIENTOS
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN], P.O. 20 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO VIII. DE LAS INFRACCIONES, LAS SANCIONES Y EL RECURSO ADMINISTRATIVO
+### CAPITULO VII. DE LA CALIDAD DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 60 A.- Se entiende por Infraestructura física educativa los muebles e inmuebles destinados a la educación que impartan el Estado y los particulares con autorización o con reconocimiento de validez oficial de estudios en el marco del sistema educativo, así como a los servicios e instalaciones necesarios para su correcta operación.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 60 B.- La aplicación y vigilancia del cumplimiento de las disposiciones en materia de infraestructura física educativa corresponde en el ámbito de sus respectivas competencias constitucionales y legales, a las siguientes autoridades:
+
+I.- El titular del Ejecutivo Estatal;
+
+II.- El Instituto Nayarita para la Infraestructura Física Educativa;
+
+III.- La Secretaría de Educación Básica;
+
+IV.- La Secretaria de Educación Media Superior, Superior, Investigación Científica y Tecnológica;
+
+V.- La Secretaria de Obras Públicas, y
+
+VI.- Los Municipios.
+
+Estas autoridades deberán coordinarse mediante los mecanismos legales correspondientes para el cumplimiento de los objetivos encomendados en la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 60 C.- La infraestructura física educativa del estado deberá cumplir requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad y pertinencia, la que será validada y certificada por el Instituto Nayarita de la Infraestructura Física Educativa en los términos de la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 60 D.- Para que un inmueble pueda prestar servicios educativos ya sea de carácter público o privado, además de contar con autorización o reconocimiento de validez oficial de estudios, deberán obtenerse las licencias, avisos de funcionamiento y, en su caso, el certificado para garantizar el cumplimiento de los requisitos de construcción, estructura, condiciones especificas o equipamiento que sean obligatorios para cada tipo de obra, en los términos y las condiciones que establezca la norma aplicable.
+
+> <small>(REFORMADA SU DENOMINACION [N. DE E. REUBICADO, ANTES CAPITULO VII], P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO VIII. DE LA VALIDEZ OFICIAL DE ESTUDIOS Y DE LA CERTIFICACIÓN DE CONOCIMIENTOS
 
 ###### ARTICULO 61.
 
@@ -440,6 +496,10 @@ Las Autoridades Educativas del Estado otorgarán revalidaciones o convalidacione
 ###### ARTICULO 65.
 
 La Secretaría de Educación y Cultura, aplicará los procedimientos establecidos por la Secretaría de Educación Pública, para expedir certificados, constancias o diplomas a quienes acrediten conocimientos terminales que correspondan a cierto nivel académico o grado escolar, adquiridos en forma autodidacta o a través de la experiencia laboral.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPITULO VIII], P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO IX. DE LAS INFRACCIONES, LAS SANCIONES Y EL RECURSO ADMINISTRATIVO
 
 ###### ARTICULO 66.
 
@@ -465,19 +525,35 @@ IX.- Efectuar actividades que pongan en riesgo la salud o la seguridad de los al
 
 X.- Ocultar a los padres o tutores las conductas de los alumnos que notoriamente deban de ser de su conocimiento;
 
-XI.- Oponerse a las actividades de evaluación, inspección y vigilancia, así como no proporcionar información veraz y oportuna, y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
-XII.- Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella
+XI.- Oponerse a las actividades de evaluación, inspección y vigilancia, así como no proporcionar información veraz y oportuna;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+XII.- No contar con la infraestructura física educativa en los términos de la normatividad aplicable y su correspondiente certificación periódica, y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+XIII.- Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella.
 
 ###### ARTICULO 67.
 
 Las infracciones enumeradas en el artículo anterior, se sancionarán con:
 
-I.- Multa hasta por el equivalente a cinco mil veces el salario mínimo general vigente en el área geográfica y en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse en caso de reincidencia, y
+I.- Multa hasta por el equivalente a cinco mil veces el salario mínimo general vigente en el área geográfica y en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse en caso de reincidencia, y (sic)
 
-II.- Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondientes.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
-La imposición de la sanción establecida en la fracción II no excluye la posibilidad de que sea impuesta alguna multa.
+II.- Clausura del plantel educativo, la que puede ser temporal o indefinida hasta en tanto se corrijan las infracciones; y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+II (SIC).- Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondientes.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+La imposición de la sanción establecida en la fracción III no excluye la posibilidad de que sea impuesta alguna multa.
 
 ###### ARTICULO 68.
 
@@ -614,3 +690,9 @@ En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por 
 P.O. 28 DE SEPTIEMBRE DE 2002
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo.- Dentro de los 60 días siguientes a la publicación del presente decreto, el Titular del Poder Ejecutivo deberá crear el Instituto Nayarita de la Infraestructura Física Educativa, dotándolo de los instrumentos jurídicos necesarios para ser la principal instancia rectora en materia de infraestructura física educativa en la entidad.
