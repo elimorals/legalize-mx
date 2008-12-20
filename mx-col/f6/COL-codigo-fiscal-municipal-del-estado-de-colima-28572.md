@@ -4,7 +4,7 @@ identifier: "COL-codigo-fiscal-municipal-del-estado-de-colima-28572"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-01-11"
-last_updated: "2006-02-18"
+last_updated: "2008-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO FISCAL MUNICIPAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2008.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 11 de enero de 2003.
 
@@ -805,9 +805,13 @@ III. Los motivos y fundamentos por los que se le considera responsable del créd
 
 IV. El plazo para el pago, que será de seis días hábiles, salvo que la ley de hacienda señale otro.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 69.
 
-Las personas físicas y morales están obligadas a pagar el 10 por ciento del crédito fiscal por el concepto de gastos de ejecución, por cada una de las diligencias que se indican a continuación:
+Las personas físicas y morales están obligadas a pagar el 4 por ciento del crédito fiscal por el concepto de gastos de ejecución, por cada una de las diligencias que se indican a continuación:
 
 I. Por el requerimiento de pago;
 
@@ -815,7 +819,11 @@ II. Por el embargo a que se refiere la fracción II del artículo 70 de este Có
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al fisco municipal a que se refiere el artículo 97 del presente ordenamiento.
 
-Cuando en los casos de las fracciones anteriores el 10 por ciento del crédito sea inferior a una unidad de salario, se cobrará esta cantidad en lugar de aquél.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+Cuando en los casos de las fracciones anteriores el 4 por ciento del crédito sea inferior a una unidad de salario, se cobrará esta cantidad en lugar de aquél.
 
 En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a una unidad de salario elevada al año.
 
@@ -1404,3 +1412,7 @@ P.O. 18 DE FEBRERO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE DICIEMBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor el 01 de enero de 2009, previa su publicación en el Periódico Oficial "El Estado de Colima".
