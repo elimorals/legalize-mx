@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-catastro-del-estado-de-chihuahua-4543"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-18"
-last_updated: "2007-12-26"
+last_updated: "2008-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CATASTRO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -79,7 +79,47 @@ III. Cédula Catastral: El documento oficial que contiene la información genera
 
 IV. Centro de Población: Las áreas constituídas por las zonas urbanizadas, las que se reserven a su expansión y las que se consideren no urbanizables por causas de preservación ecológica, prevención de riesgos y mantenimiento de actividades productivas dentro de los límites de dichos centros, así como las que por resolución de la autoridad competente se provean para la fundación de los mismos;
 
-V. Construcción: La edificación de cualquier tipo, los equipos e instalaciones especiales adheridos de manera permanente al predio;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+V. Construcción: La edificación de cualquier tipo, los equipos e instalaciones especiales adheridos de manera permanente al predio, clasificándose de la siguiente forma:
+
+CLASIFICACIÓN DE LAS CONSTRUCCIONES.- Es la agrupación e identificación de las construcciones de acuerdo a la tipología y el uso de las mismas.
+
+USO.- Corresponde al aprovechamiento genérico que tiene el inmueble y se clasifica en: Habitacional, Comercial e Industrial.
+
+HABITACIONAL.- Se refiere a las construcciones en donde habitualmente residen, individual o colectivamente, las personas y comprende todo tipo de vivienda.
+
+COMERCIAL.- Se refiere a las edificaciones destinadas a la compraventa o intercambio de artículos de consumo y servicios.
+
+INDUSTRIAL.- Se refiere a cualquier construcción destinada a la fabricación o transformación de productos de utilidad concreta.
+
+TIPOLOGÍA DE CONSTRUCCIÓN.- Corresponde a la clasificación de la construcción dependiendo de las características que la constituyen, las cuales son:
+
+HABITACIONAL POPULAR.- Vivienda con características constructivas mínimas, entre las que se pueden considerar: cuartos de usos múltiples sin diferenciación, servicios mínimos incompletos; muros sin refuerzo, techos de lámina galvanizada, techos con estructura de madera terrados, techos de madera, pisos de concreto o terrados, instalaciones eléctricas e hidráulicas visibles.
+
+HABITACIONAL ECONÓMICO.- Vivienda con características constructivas de calidad económica, entre las que se pueden considerar: proyecto básico definido, sin diseño estructural profesional. Espacios con alguna diferenciación, servicios mínimos completos, generalmente un baño, y con procedimientos formales de construcción; aplanados de mezcla o yeso, ventanería metálica, techos de concreto armado o lámina galvanizada, con claros no mayores de 3.5 metros, pisos de concreto con acabado pulido, o losetas vinílicas, algunas instalaciones completas visibles (hidráulica, eléctrica, sanitaria y gas).
+
+HABITACIONAL MEDIO.- Vivienda con características constructivas de calidad media, entre las que se pueden considerar: espacios diferenciados por uso, servicios completos, con baño, muros con acabados aparentes, pintura, losetas de cerámica en cocina y baños, ventanería metálica, perfil tubular y aluminio sencillo, techos de concreto armado con claros no mayores a 4.0 metros, pisos recubiertos con losetas de vinil, cerámica, alfombra o piso laminado, instalaciones completas ocultas.
+
+HABITACIONAL BUENO.- Vivienda con características entre las que se pueden considerar: acabados de buena calidad, proyecto funcional individualizado, con espacios totalmente diferenciados, servicios completos; dos baños, cuartos de servicio, acabados de mezcla, yeso y texturizados, pinturas de buena calidad o tapiz, ventanearía de perfil de aluminio, ventanería integrada a la construcción, techos de concreto armado, acero o mixtos, con claros mayores a 4.0 metros, pisos de primera calidad, mármol, losetas de cerámica, alfombra o duelas, aire acondicionado o calefacción.
+
+HABITACIONAL DE LUJO.- Residencias con características constructivas entre las que se pueden considerar: acabados de muy buena calidad, diseños arquitectónicos y de ingeniería, con espacios amplios caracterizados y ambientados con áreas complementarias a las funciones principales. De uno hasta cuatro baños, con vestidor y closet integrado en una o más recamaras, acabado en muros de yeso, texturizados o recubiertos con maderas finas, ventanería de aluminio anodizado y maderas finas con vidrios dobles y especiales, techo de concreto armado, estructuras de soporte diseñadas específicamente para el proyecto, pisos de losetas de cerámica, mármol, alfombra, parquet de madera o duelas, instalaciones de confort y sistema de riego.
+
+HABITACIONES DE SUPERLUJO.- Son las que cuentan con las características de la habitacional de lujo y además constituida por estancia, comedor, antecomedor, cocina, cuarto de estudio, cuatro recámaras o más, con baño, y alcoba definida con baño, baño independiente pudiendo ser colectivo, cuarto de servicio con baño, oficina, área de lavandería, cochera techada cuando menos para tres o más vehículos, alberca, sala de juegos y todas las que cuenten con más de 600 metros de construcción de uso habitacional.
+
+COMERCIAL ECONÓMICO.- Construcción básica con características de baja calidad entre las que se pueden considerar: servicios complementarios, ocasionalmente forman parte de un uso mixto (vivienda y comercio), acabado en muros mezcla o yeso, ventanería metálica tubular, techo de lámina o de concreto armado, con claros hasta 4.0 metros, pisos de concreto con acabado pulido, o losetas de vinil o de mosaico, instalaciones básicas ocultas y semiocultas (eléctricas e hidrosanitarias), complementos de calidad media (carpintería, herrería, etc.).
+
+COMERCIAL MEDIO.- Locales comerciales y tiendas departamentales con características y acabados de calidad media estandarizada, proyecto funcional y espacio reservado para cajones de estacionamiento. Acabados en muros yeso y texturizados, ventanería de aluminio, techo de concreto armado con claros mayores de 4.0 metros, pudiendo considerar nave industrial, pisos de concreto con acabado pulido, losetas de vinil, ocasionalmente losetas de cerámica, instalaciones básicas ocultas y semiocultas (eléctricas e hidrosanitarias), complementos de buena calidad (herrería, carpintería y vidriería).
+
+COMERCIAL BUENO.- Locales y centros comerciales especializados con características constructivas y acabados de muy buena calidad, proyecto funcional ocupando espacios exclusivos, áreas de estacionamiento, circulación peatonal y áreas jardinadas. Acabados en muros yeso o texturizados, ventanería de aluminio anodizado, techumbres de lámina sobre armaduras de acero estructural y techos de concreto armado con claros hasta 10.0 metros, pudiendo considerar nave industrial, pisos de losetas de cerámica, mármol, duelas, instalaciones básicas (eléctricas e hídrosanítarias), en general ocultas, instalaciones especiales (aire acondicionado, calefacción, alarma, pararrayos, hidroneumático), complementos de buena calidad, sobre diseño o de importación.
+
+INDUSTRIAL LlGERO.- Edificaciones con características constructivas básicas de calidad intermedia, proyectos repetitivos normalmente sin divisiones internas, acabados en muros aparentes y de mezcla, ventanería metálica perfil tubular, techumbres de lámina o asbesto sobre armaduras ligeras de acero estructural, ocasionalmente de madera claros hasta 6.00 metros, pudiendo considerar nave industrial, pisos de concreto reforzado acabado pulido, instalaciones con servicios básicos (eléctricos e hidrosanitarios) ocultos o semiocultos, complementos de calidad media estandarizada (herrería, carpintería, vidriería, etc.), áreas de estacionamiento y andenes de carga.
+
+INDUSTRIAL MEDIANO.- Construcciones con características especializadas de calidad intermedia, con proyectos repetitivos normalmente sin divisiones internas, con oficinas, áreas recreativas y áreas verdes. Acabados en muros aparentes, mezcla, yeso y ocasionalmente texturizados, ventanería metálica de perfiles tubular o de aluminio, techumbres de lámina galvanizada o asbesto sobre armaduras, pudiendo considerar nave industrial, pisos de concreto reforzado, acabado pulido, recubiertos con cerámica u otros elementos de soporte industrial de rodamiento, plantas de tratamientos de aguas residuales para reutilizar en sistemas de riego, instalaciones deportivas y recreativas.
+
+Estas a su vez se podrán subclasificar, de acuerdo al estado de conservación o las condiciones en las que se encuentren, conforme a las constancias que obren en los archivos de los catastros municipales, estableciéndose en las tablas de cada municipio dichas subclasificaciones.
+
+CLASE.- Es el grupo al que pertenece un tipo de construcción de acuerdo a su estado de conservación;
 
 VI. Construcción permanente: La que está adherida a un predio de manera fija, en condiciones tales que no pueda separarse del suelo sin deterioro de la propia construcción o del predio, o aquella que considerándose provisional tenga un uso de carácter permanente;
 
@@ -123,7 +163,9 @@ XVI. Predio urbano:
 
 a) El que se encuentre ubicado dentro de los límites de algún centro de población; y
 
-b) Los que encontrándose fuera de los límites de algún centro de población, por su uso y servicios con que cuente, así lo determine la autoridad catastral municipal;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+b) Los que encontrándose fuera de los límites de algún centro de población, por su uso de suelo y que cuente con más de dos o servicios;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
@@ -145,13 +187,13 @@ XXI. Valor Unitario: El que fija la autoridad catastral municipal por unidad de 
 
 XXII. Sistema de Información Catastral.- Conjunto de procesos y datos, respecto a las características y valoración de la propiedad inmobiliaria, que deberán instrumentar los catastros municipales y concentrar en el catastro estatal;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
-XXIII. Sector Catastral.- La división geográfica que establece la autoridad catastral municipal con respecto de su territorio y que agrupa a un número determinado de predios en función de su ubicación y características para los efectos legales a que se refiere esta ley;
+XXIII. Sector Catastral.- La división geográfica que establece la autoridad catastral municipal con respecto de su territorio y que agrupa a un número determinado de predios en función de su ubicación;
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
-XXIV. Zona Homogénea.- La que establece la autoridad catastral municipal y que agrupa a un número determinado de predios en función de su valor unitario de suelo; y
+XXIV. Zona Homogénea de valor. Es una fracción de sector catastral, sector catastral completo o varios sectores catastrales, delimitado por una poligonal plasmada en cartografía municipal que tengan características similares, tales como infraestructura, servicios, topografía y cualquier otro elemento relacionado que incida en el valor de la zona homogénea;
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -339,6 +381,8 @@ El incumplimiento a lo previsto por este artículo se sancionará de conformidad
 
 Las tablas de valores unitarios de suelo y construcción deberán reflejar el valor de mercado.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
 Para la determinación de las zonas homogéneas de valor y de los valores unitarios de terreno por zona y por vialidad, el territorio de los Municipios se dividirá en áreas con características homogéneas.
 
 Para la definición de las áreas homogéneas se tomará en consideración lo dispuesto por los planes y programas de desarrollo urbano y rural que tengan efectos sobre el territorio; la existencia, disponibilidad y características del equipamiento y servicios públicos, así como el tipo de construcción y demás factores que incrementen o demeriten el valor de las zonas y predios.
@@ -353,11 +397,15 @@ Para determinar un corredor de valor se considerarán: las condiciones y factore
 
 Para la determinación de los valores unitarios de suelo y construcción, los predios se clasificarán en urbanos, suburbanos y rústicos.
 
-Las construcciones se clasificarán de acuerdo a su vocación o uso predominante en: Habitacionales, comerciales o de servicios, industriales, especiales y mixtos; éstas a su vez se clasificarán de acuerdo a su tipología de construcción y al estado de conservación de la misma, las cuales se establecerán en la Tabla de Valores Unitarios de Suelo y Construcción.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+Las construcciones se clasificarán de acuerdo a su vocación o uso predominante en: Habitacionales, comerciales e industriales; éstas a su vez se clasificarán de acuerdo a su tipología de construcción y a su estado de conservación, las cuales se establecerán en la Tabla de Valores Unitarios de Suelo y Construcción.
 
 Las Tablas de Valores Unitarios de Suelo y Construcción deberán contener los factores de incremento y demérito que serán aplicables en el procedimiento valuatorio.
 
-Los valores unitarios de suelo en la zona urbana y suburbana se fijarán por metro cuadrado y en la zona rústica por hectárea.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+Los valores unitarios de suelo en la zona urbana y suburbana se fijarán por metro cuadrado y en zona rústica por hectárea.
 
 Las bases generales y sistemas para la clasificación y valuación de las zonas, predios, construcciones, así como la aplicación de factores de incremento y demérito para la determinación de valores unitarios, se establecerán de conformidad con lo dispuesto por esta Ley.
 
@@ -808,3 +856,11 @@ P.O. 26 DE DICIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el primero de enero del año dos mil ocho.
+
+P.O. 20 DE DICIEMBRE DE 2008.
+
+SE TRANSCRIBE UNICAMENTE EL ARTICULO TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+El Artículo Primero entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
