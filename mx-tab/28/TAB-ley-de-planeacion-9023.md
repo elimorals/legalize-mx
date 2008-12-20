@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-planeacion-9023"
 country: "mx"
 rank: "ley"
 publication_date: "1983-07-13"
-last_updated: "2008-10-25"
+last_updated: "2008-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "TAB"
 
 LEY DE PLANEACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 13 de julio de 1983.
 
@@ -182,11 +182,11 @@ VII.- Verificar, periódicamente, la relación que guarden los programas y presu
 
 VIII.- Promover la construcción de indicadores de género, que permitan evaluar el impacto de las políticas públicas contenidas en el Plan desde una perspectiva de género que permita que las acciones de gasto público en las diferentes unidades administrativas, establezcan deliberadamente condiciones reales para mejorar el acceso de las mujeres a los bienes y servicios públicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 17.
 
-A la Secretaría de Planeación le corresponde:
+A la Secretaría de Administración y Finanzas le corresponde:
 
 I.- Participar en la elaboración del Plan Estatal de Desarrollo; respecto a la definición de las políticas financieras, fiscales y crediticias; estableciendo la congruencia con las políticas que sobre esta materia haya dictado la Federación;
 
@@ -406,7 +406,9 @@ VI.- La ejecución de las acciones que deban realizarse en cada entidad municipa
 
 VII.- La ejecución de las acciones que deban realizarse en cada entidad municipal y que competen a los ordenes federal, estatal y municipal, considerando la participación que corresponda a los municipios interesados y a los sectores de la sociedad.
 
-Para este efecto la Secretaría de Programación, en el seno del Comité de Planeación del Desarrollo del Estado de Tabasco, a que alude el artículo 16 de esta Ley propondrá los procedimientos conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen las dependencias coordinadoras de sector, tanto federales como estatales, conforme a sus atribuciones.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
+Para este efecto la Secretaría de Planeación en el seno del Comité de Planeación del Desarrollo del Estado de Tabasco, a que alude el artículo 16 de esta Ley propondrá los procedimientos conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen las dependencias coordinadoras de sector, tanto federales como estatales, conforme a sus atribuciones.
 
 ###### ARTICULO 50.
 
@@ -525,3 +527,9 @@ P.O. 25 DE OCTUBRE DE 2008.
 PRIMERO.- El presente decreto, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
