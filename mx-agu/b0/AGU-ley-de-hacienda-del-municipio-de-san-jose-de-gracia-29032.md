@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-san-jose-de-gracia-29032"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "2006-12-18"
+last_updated: "2008-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE SAN JOSE DE GRACIA, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Sección Décima Cuarta del Alcance del Periódico Oficial del Estado de Aguascalientes, el martes 31 de diciembre de 1985.
 
@@ -685,6 +685,10 @@ Este impuesto se causará y pagará de conformidad con lo que al efecto señale 
 
 ## TITULO SEGUNDO. DE LOS DERECHOS
 
+> <small>(ADICIONADO [N. DE E. REFORMADO, ANTES SECCION UNICA], P.O. 22 DE DICIEMBRE DE 2008)</small>
+
+### CAPÍTULO I. De las Disposiciones Generales
+
 ###### ARTICULO 68.
 
 Los derechos por la prestación de servicios públicos que presten las diversas dependencias municipales, se causarán en el momento que el particular reciba la prestación del servicio o en el momento en que se provoque por parte del Municipio, el gasto que deba ser remunerado por aquél, salvo el caso que la disposición que fije el Derecho, señale cosa distinta.
@@ -704,6 +708,166 @@ El funcionario o empleado público que preste algún servicio por el que se caus
 ###### ARTICULO 72.
 
 En caso de discrepancia acerca de la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio o del desarrollo de una actividad, la consignación del importe fijado por el órgano recaudador en los términos establecidos por las leyes fiscales, dará lugar a la prestación de dicho servicio, o al desarrollo de la actividad.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2008)</small>
+
+### CAPÍTULO II. De los Servicios de Alumbrado Público
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 72 A.- Se considera servicio de alumbrado público a la actividad técnica que realiza el Ayuntamiento consistente en iluminar las avenidas, calles, plazas, parques, áreas públicas, comerciales e industriales, edificios públicos y demás lugares de uso común, de manera permanente, regular y continua, encaminado a la satisfacción de la necesidad colectiva de iluminación, la cual se constituye de interés general y se presta sin aspiración alguna de lucro.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 72 B.- Las personas físicas o morales, habitantes o residentes, propietarias o poseedoras de predios, construidos o no, ubicados en las zonas urbanas, rurales o poblaciones del municipio, están obligadas a contribuir para el sostenimiento del servicio de alumbrado público, a través del pago de los derechos correspondientes en la forma y términos que se establecen en este Capítulo.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 72 C.- La tesorería municipal determinará el crédito fiscal que corresponda a cada contribuyente, recaudará la contribución y aplicará, en su caso, la facultad económico-coactiva, para hacerla efectiva.
+
+El Ayuntamiento podrá celebrar convenios con instituciones públicas o privadas para el cobro de los Derechos del Servicio de Alumbrado Público.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 72 D.- El pago de los derechos del servicio se causará en todas las colonias, comunidades, centros de población, rancherías, parques industriales y demás unidades poblacionales, comerciales o industriales y, el cálculo de su distribución se hará tomando como base gravable, el costo total anual que se genera para el Ayuntamiento, ocasionado con motivo de la prestación del servicio de alumbrado público en todo el municipio.
+
+La Ley de Ingresos señalará el costo total anual del servicio de alumbrado público correspondiente al año de que se trate, así como la tarifa o cuota a pagar por cada usuario beneficiado, en razón del sistema de fórmulas establecidas en el presente Capitulo.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 72 E.- El costo total del servicio de alumbrado público, se distribuirá entre los propietarios y poseedores de predios urbanos en la forma que se señala en este Capítulo. En caso de arrendamiento, el arrendador podrá trasladar al arrendatario el costo de esta contribución.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 72 F.- El costo total del servicio de alumbrado público se compondrá por aquellas cantidades que representen o sean equivalentes a los siguientes conceptos:
+
+A) Costo por servicios personales empleados en el año en la instalación, operación y mantenimiento del servicio de alumbrado público, entendido como tal los sueldos, salarios, compensaciones, servicio y contribuciones que se deriven de la administración de la nómina del servicio público.
+
+B) Costo de los materiales, suministros y gastos de mantenimiento que sean empleados durante el año en el servicio de alumbrado público, el cual se compondrá del erogado en los conceptos por compras y adquisiciones, reposición de lámparas, el mantenimiento de líneas eléctricas y postes, materiales, seguridad, herramientas y maquinaria, así como la operación y mantenimiento de ésta.
+
+C) Costo de la reserva de contingencia que se establezca para el año, para el servicio de alumbrado público por parte del Cabildo del Ayuntamiento.
+
+D) Costo del suministro de energía eléctrica, el cual se compondrá del que deba ser pagado en base a los históricos acumulados por ello, adicionado por el crecimiento de la inflación, los aumentos propios del servicio, as! como los que se sufran por mayor cobertura y nuevos proyectos.
+
+E) Costo de la ejecución de los nuevos proyectos de ampliación e introducción del servicio de alumbrado público.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 72 G.- Para calcular el costo total anual aplicable en un ejercicio, se considerará el costo total del año inmediato anterior, a aquél para el cual se aplicará el tributo, incrementado en un porcentaje igual al índice de inflación esperado por el Gobierno Federal en su programa económico para ese mismo Ejercicio Fiscal, adicionado con los costos de los nuevos proyectos, expansión y crecimiento natural del servicio.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 72 H.- El costo total anual del servicio será el que al efecto apruebe anualmente el Congreso del Estado, previa propuesta del Ayuntamiento que se realice en la Iniciativa de Ley del Ingresos del año de que se trate.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 72 I.- El Ayuntamiento deberá someter de igual forma a la aprobación anual del Congreso del Estado, dentro de la Ley de Ingresos del año de que se trate el número total de beneficiarios que se proyecte para dicho año.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 72 J.- La determinación del crédito fiscal individual de cada contribuyente, se calculará aplicando las siguientes fórmulas:
+
+HABITACIONAL
+
+CTS
+
+CFIa ={[( ) + (FS+FB)] NE}
+
+TB
+
+COMERCIAL Y SERVICIOS
+
+CTS TC
+
+CFIb ={[( ) + (FS+FB)] + TB}
+
+TB TP
+
+INDUSTRIAL
+
+CTS
+
+CFIc ={[( ) + (FS+FB)] (TT)}
+
+TB
+
+En donde:
+
+CFla = Crédito Fiscal Individual Habitacional
+
+Se constituye como la tarifa individualizada que corresponderá pagar a cada uno de los beneficiarios del servicio de alumbrado público, tratándose de beneficiarios de casa habitación.
+
+CFIb = Crédito Fiscal Individual Comercial
+
+Se constituye como la tarifa individualizada que corresponderá pagar a cada uno de los beneficiarios del servicio de alumbrado público, tratándose de beneficiarios con actividad comercial o de servicios.
+
+CFlx = Crédito Fiscal Individual Industrial
+
+Será la tarifa individualizada que corresponderá pagar a cada uno de los beneficiarios del servicio de alumbrado público, tratándose de beneficiarios con actividad industrial.
+
+CTS = Costo Total del Servicio
+
+La cantidad resultante de la suma de los conceptos que establece el Artículo 72 F de la presente Ley, aprobado por el Congreso del Estado.
+
+FS = Factor Seguridad
+
+Se obtendrá de la división lograda entre el número de delitos totales del Municipio en el año próximo anterior, entre el valor neto del nivel de seguridad que perciben los habitantes del Municipio, el cual habrá de obtenerse mediante el estudio de opinión que se aplique cada año en el mes de septiembre, dividiendo dicho resultado a su vez entre la población total del Municipio.
+
+FB = Factor de Bienestar
+
+Se obtendrá el presente factor de la división lograda entre el número total de beneficiarios del servicio de alumbrado público entre la cantidad resultante a su vez de la división efectuada del total de población, entre los beneficios totales, los cuales se obtienen de la suma total de las escuelas, panteones, centros de salud, festividades locales, plazas públicas, así como aquellos que determine el Cabildo en sesión que para ello se convoque.
+
+NE = Nivel Económico (Capacidad de Pago)
+
+Se obtendrá el presente factor a través de la asignación que se haya otorgado para la autorización del fraccionamiento de que se trate, y en su defecto, ante su falta, será determinado por el Cabildo para cada uno de los fraccionamientos, colonias, comunidades, localidades y centros de población del Municipio en razón de su nivel económico, desarrollo e infraestructura, en términos de la siguiente tabla:
+
+Alto 2
+
+Medio 1.5
+
+Bajo 1
+
+Interés Social 0.8
+
+Suburbano 0.7
+
+Pobreza Baja 0.6
+
+Pobreza Media 0.5
+
+Pobreza Extrema 0.3
+
+TB = Total de Beneficiarios
+
+El presente factor se entiende como las personas físicas y morales, sujetos de derechos y obligaciones, causantes del Derecho del Servicio de Alumbrado Público, que se obtiene anualmente según la propuesta del Ayuntamiento al Congreso del Estado del estudio y análisis que se realice entre el total de la población, número de cuentas catastrales, número de usuarios de la Comisión Federal de Electricidad, usuarios de servicio de agua potable y alcantarillado, así como el factor que se considere oportuno incluir, y de entre los que se prorratea el costo total anual del servicio.
+
+TC = Total de Comercios
+
+El presente factor se obtendrá de la suma total de las licencias comerciales y de servicios que se tengan registradas en el Ayuntamiento al 30 de octubre del año anterior.
+
+TP = Total de Población
+
+Para el presente se obtendrá del que determine el INEGI de acuerdo con el último Censo o Conteo Poblacional.
+
+TI = Total de Trabajadores
+
+El Presente valor se obtendrá del número de registro de trabajadores que tenga dados de alta la empresa ante el Instituto Mexicano del Seguro Social.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 72 K.- Los derechos a que se refiere este Capítulo se causarán en forma anual y se pagarán bimestralmente durante los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre, en la Tesorería Municipal o en las instituciones que ésta autorice mediante la celebración de los convenios respectivos.
+
+Esta contribución podrá cubrirse en forma anual durante el primer bimestre, en cuyo caso se aplicará el descuento que al efecto establezca la Ley de Ingresos del año de que se trate.
+
+De igual forma la presente contribución podrá ser pagada en forma anual conjunción de tiempos y sistema con el pago de las licencias comerciales, reglamentarias, industriales y de servicio, así como del impuesto predial.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 72 L.- La Federación, Estado y Municipios, estarán exentos de esta contribución y no serán considerados en la aplicación de la fórmula de distribución de la carga tributaria.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 72 M.- El Ayuntamiento podrá realizar descuentos al costo de los Derechos del Servicio de Alumbrado Público en los porcentajes y supuestos que sean previstos en la Ley de Ingresos.
 
 ## TITULO TERCERO. DE LOS PRODUCTOS
 
@@ -783,8 +947,6 @@ IV.- Expropiaciones.
 
 #### SECCION UNICA
 
-#### SECCION UNICA
-
 ###### ARTICULO 79.
 
 Lo constituyen los ingresos provenientes de:
@@ -850,3 +1012,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Procédase a efectuar la adecuación al Presupuesto de Egresos del Municipio de San José de Gracia, Aguascalientes, para el Ejercicio Fiscal del Año 2006.
+
+P.O. 22 DE DICIEMBRE DE 2008.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
