@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salvaguarda-del-patrimonio-urbanistico-16125"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-13"
-last_updated: "2001-09-20"
+last_updated: "2008-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16125&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-03-14"
 
 LEY DE SALVAGUARDA DEL PATRIMONIO URBANISTICO ARQUITECTONICO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de abril de 2000.
 
@@ -400,9 +400,11 @@ La aplicación de esta Ley corresponderá esencialmente a las siguientes autorid
 
 I. Jefe de Gobierno del Distrito Federal;
 
-II. Secretaría de Desarrollo Social:
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2008)</small>
 
-III. El Instituto de Cultura de la Ciudad de México; y
+II. Secretaría de Cultura;
+
+III. (DEROGADA, G.O. 22 DE DICIEMBRE DE 2008)
 
 IV. El Consejo de Salvaguarda del Patrimonio Urbanístico Arquitectónico del Distrito Federal.
 
@@ -430,57 +432,57 @@ VII. Emitir las disposiciones reglamentarias necesarias para la protección del 
 
 VIII. Celebrar convenios y acuerdos de coordinación con la Federación y los municipios de la zona conurbada, y de concertación con los sectores social y privado con el fin de apoyar los objetivos que se definan en los diversos programas de salvaguarda del Patrimonio Urbanístico Arquitectónico del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 23.
 
-La Secretaría de Desarrollo Social del Distrito Federal, estará encargada de establecer todas las medidas necesarias a efecto de que, dentro del marco de su competencia, se proteja el valor cultural de los bienes y zonas señaladas en la presente Ley.
+La Secretaría de Cultura del Distrito Federal, estará encargada de establecer todas las medidas necesarias a efecto de que, dentro del marco de su competencia, se proteja el valor cultural de los bienes y zonas señaladas en la presente Ley.
+
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 24.
 
-Serán facultades del Secretario de Desarrollo Social las siguientes:
+Serán facultades del Secretario de Cultura en lo que respecta a la presente Ley, las siguientes:
 
 I. Dirigir, en coordinación con las autoridades delegacionales todas las acciones necesarias para la salvaguarda del Patrimonio Urbanístico Arquitectónico;
 
 II. Actuar como órgano de enlace entre las autoridades del Distrito Federal y de las demás entidades federativas, en las acciones de salvaguarda del Patrimonio Urbanístico Arquitectónico;
 
-III. Promover acciones de información relacionadas con la autorización de proyectos de restauración, y la ejecución y supervisión de obras de intervención en monumentos y espacios abiertos monumentales que les corresponda realizar;
+III. Promover acciones de información relacionadas con la autorización de proyectos de restauración y la ejecución y supervisión de obras de intervención en monumentos y espacios abiertos monumentales que les corresponda realizar;
 
 IV. Representar al Gobierno del Distrito Federal ante las autoridades culturales federales o de cualquier otra entidad federativa, en asuntos relacionados con la salvaguarda del Patrimonio Urbanístico Arquitectónico de conformidad con las disposiciones aplicables;
 
 V. Fungir como Secretario Técnico del Consejo de Salvaguarda del Patrimonio Cultural del Distrito Federal;
 
-VI. Ejercer todas aquellas atribuciones que le sean conferidas por esta Ley, su reglamento o la demás legislación aplicable.
+VI. Ejercer todas aquellas atribuciones que le sean conferidas por esta Ley, su reglamento o la demás legislación aplicable;
+
+VII. Difundir y promocionar ante la comunidad la existencia, alcances y logros de la presente Ley;
+
+VIII. Estructurar, organizar y operar el Centro de Información del Patrimonio Urbanístico Arquitectónico del Distrito Federal, en los términos del Título Cuarto de la Ley y su reglamento;
+
+IX. Fomentar la comunicación entre los diversos centros de estudios en materia de conservación;
+
+X. Fomentar la investigación científica y técnica sobre la salvaguarda del Patrimonio Urbanístico Arquitectónico del Distrito Federal;
+
+XI. Difundir la información cultural, técnica y científica sobre el Patrimonio Urbanístico Arquitectónico del Distrito Federal;
+
+XII. Promover el establecimiento de centros de instrucción en las técnicas de construcción artesanal necesarias para los trabajos de restauración del Patrimonio Urbanístico Arquitectónico del Distrito Federal;
+
+XIII. Proponer al pleno del Consejo de Salvaguarda el reglamento interior del Centro de Información del Patrimonio Urbanístico Arquitectónico;
+
+XIV. Promover el conocimiento del Distrito Federal, de su historia, de su naturaleza geográfica, urbanística y cívica;
+
+XV. Estimular las expresiones culturales relacionadas con el Patrimonio Urbanístico Arquitectónico del Distrito Federal;
+
+XVI. Fomentar la creación de patronatos que aporten recursos para hacer más amplias las labores de salvaguarda y difusión del Patrimonio Urbanístico y Arquitectónico del Distrito Federal;
+
+XVII. Promover la creación de diversas opciones de financiamiento público y privado, que permitan fortalecer el Patrimonio Urbanístico Arquitectónico del Distrito Federal y su difusión; y
+
+XVIII. Las demás que le confieren esta Ley y la legislación aplicable.
 
 ###### Artículo 25.
 
-Corresponden al Instituto de Cultura de la Ciudad de México las siguientes facultades y obligaciones:
-
-I. Difundir y promocionar ante la comunidad la existencia, alcances y logros de la presente Ley;
-
-II. Estructurar, organizar y operar el Centro de Información del Patrimonio Urbanístico Arquitectónico del Distrito Federal, en los términos del Titulo Cuarto de la Ley y su reglamento;
-
-III. Fomentar la comunicación entre los diversos centros de estudios en materia de conservación;
-
-IV. Fomentar la investigación científica y técnica sobre la salvaguarda del Patrimonio Urbanístico Arquitectónico del Distrito Federal;
-
-V. Difundir de la información cultural, técnica y científica sobre el Patrimonio Urbanístico Arquitectónico del
-
-Distrito Federal;
-
-VI. Promover el establecimiento de centros de instrucción en las técnicas de construcción artesanal necesarias para los trabajos de restauración del Patrimonio Urbanístico Arquitectónico del Distrito Federal;
-
-VII. Proponer al pleno del Consejo de Salvaguarda el reglamento interior del Centro de Información del Patrimonio Urbanístico Arquitectónico.
-
-VIII. Promover el conocimiento del Distrito Federal, de su historia, de su naturaleza geográfica, urbanística y cívica;
-
-IX. Estimular las expresiones culturales relacionadas con el Patrimonio Urbanístico Arquitectónico del Distrito Federal;
-
-X. Fomentar la creación de patronatos que aporten recursos para hacer más amplias las labores de salvaguarda y difusión del Patrimonio Urbanístico y Arquitectónico del Distrito Federal;
-
-XI. Promover la creación de diversas opciones de financiamiento público y privado, que permitan fortalecer el Patrimonio Urbanístico Arquitectónico del Distrito Federal y su difusión;
-
-XII. Elaborar e instrumentar los Programas de Puesta en Valor del Patrimonio Urbanístico Arquitectónico, en los términos del Título Octavo de esta Ley, en coordinación con la Secretaría de Turismo del Distrito Federal; y
-
-XIII. Las demás que le confiera esta Ley y la legislación aplicable (sic), demás legislación aplicable.
+(DEROGADO, G.O. 22 DE DICIEMBRE DE 2008)
 
 ###### Artículo 26.
 
@@ -488,9 +490,13 @@ El Consejo de Salvaguarda del Patrimonio Urbanístico Arquitectónico del Distri
 
 I. El Jefe de Gobierno del Distrito Federal, quien lo presidirá;
 
-II. El Secretario de Desarrollo Social, quien fungirá como Secretario Técnico;
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2008)</small>
 
-III. El Director General del Instituto de Cultura de la Ciudad de México;
+II. El Secretario de Cultura, quien fungirá como Secretario Técnico;
+
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2008)</small>
+
+III. El Director General del Instituto de Ciencia y Tecnología del Distrito Federal;
 
 IV. El Secretario de Desarrollo Urbano y Vivienda;
 
@@ -574,9 +580,11 @@ DEL REGISTRO PÚBLICO, CATÁLOGOS Y DE INFORMACIÓN DEL PATRIMONIO URBANÍSTICO 
 
 Dentro del Registro Público de la Propiedad, habrá una sección que contará con una base de datos electrónica que se denominará Registro Público del Patrimonio Urbanístico Arquitectónico del Distrito Federal, cuya organización y funcionamiento se determinarán por vía reglamentaria. En él se inscribirán las declaratorias y registros de zonas, espacios abiertos monumentales y monumentos del Patrimonio Urbanístico Arquitectónico y los actos jurídicos relacionados con los mismos según la presente Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 36.
 
-En el Instituto de Cultura de la Ciudad de México, se instituirá un Centro de Información del Patrimonio Urbanístico Arquitectónico del Distrito Federal, cuya organización y funcionamiento se determinarán por vía reglamentaria. En él estará disponible, en forma digital, impresa y vía internet, una base de datos para consulta pública, con toda la información en forma ordenada y actualizada sobre:
+En la Secretaría de Cultura, se instituirá un Centro de Información del Patrimonio Urbanístico Arquitectónico del Distrito Federal, cuya organización y funcionamiento se determinarán por vía reglamentaria. En él estará disponible, en forma digital, impresa y vía Internet, una base de datos para consulta pública, con toda la información en forma ordenada y actualizada sobre:
 
 I. Las zonas, espacios abiertos monumentales y monumentos del Patrimonio Urbanístico Arquitectónico con la información que sobre ellos que se vaya recopilando en el proceso de su salvaguarda, incluyendo la contenida en el Registro Público;
 
@@ -920,9 +928,11 @@ IX. El programa surtirá efectos a los treinta días de su publicación.
 
 Los términos en que se lleve a cabo el procedimiento anterior estarán determinados en el reglamento de esta Ley.
 
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 84.
 
-Los Programas de Salvaguarda deberán integrarse a los programas generales, delegacionales y parciales, en su caso, de Desarrollo Urbano, Ambientales, Desarrollo Económico, Desarrollo Turístico y Fomento Económico, y al Programa General de Desarrollo del Distrito Federal.
+Los Programas de Salvaguarda deberán integrarse a los programas generales, delegacionales y parciales, en su caso, de Desarrollo Urbano, Ambientales, Desarrollo Económico, Desarrollo Turístico, Fomento y Desarrollo Cultural y Fomento Económico, y al Programa General de Desarrollo del Distrito Federal.
 
 ###### Artículo 85.
 
@@ -1062,29 +1072,35 @@ DE LA PUESTA EN VALOR DEL PATRIMONIO URBANÍSTICO ARQUITECTÓNICO DEL DISTRITO F
 
 El Gobierno del Distrito Federal tiene la obligación de difundir la importancia que tienen el conocimiento, comprensión, asimilación y puesta en valor del Patrimonio Urbanístico Arquitectónico, en la formación de la identidad local, en la que se fundamenta el desarrollo cultural de los habitantes del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 113.
 
-El Instituto de Cultura de la Ciudad de México es el órgano facultado para establecer y ejecutar los Programas de Puesta en Valor del Patrimonio Urbanístico Arquitectónico del Distrito Federal y para promover la creación de diversas opciones de financiamiento público y privado, para llevarlos a cabo.
+La Secretaría de Cultura es el órgano facultado para establecer y ejecutar los Programas de Puesta en Valor del Patrimonio Urbanístico Arquitectónico del Distrito Federal y para promover la creación de diversas opciones de financiamiento público y privado, para llevar a cabo.
 
 ###### Artículo 114.
 
-Para efectos de colaborar con el cumplimiento de las facultades descritas en el artículo anterior, el secretario técnico del Consejo de Salvaguarda del Distrito Federal se integrará al Consejo Directivo del Instituto de Cultura.
+(DEROGADO, G.O. 22 DE DICIEMBRE DE 2008)
 
 ###### Artículo 115.
 
 Los programas de Puesta en Valor deberán difundir, de manera clara y completa, las ventajas no solamente estéticas y culturales, sino también sociales y económicas que puede ofrecer una política bien llevada de salvaguarda del Patrimonio Urbanístico Arquitectónico, mostrando siempre la función que éste debe tener en la vida contemporánea.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 116.
 
-El Instituto de Cultura podrá apoyarse en academias, órganos colegiados, asociaciones de profesionales o artesanos, relacionados con la conservación del Patrimonio Urbanístico Arquitectónico, para la realización de los Programas de Puesta en Valor en el Distrito Federal.
+La Secretaría de Cultura podrá apoyarse en academias, órganos colegiados, asociaciones de profesionales o artesanos, relacionados con la conservación del Patrimonio Urbanístico Arquitectónico, para la realización de los Programas de Puesta en Valor en el Distrito Federal.
 
 Asimismo, podrá proponer al Jefe de Gobierno del Distrito Federal la celebración de convenios con los gobiernos de otras entidades federativas y con el Gobierno Federal, para que la difusión del Patrimonio Urbanístico Arquitectónico del Distrito Federal pueda tener una cobertura nacional e incluso internacional.
 
 Los propietarios, poseedores y responsables de bienes del Patrimonio Urbanístico Arquitectónico deberán prestar su colaboración en la ejecución de los Programas de Puesta en Valor.
 
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 117.
 
-Los Programas de Puesta en Valor deberán actualizarse cada tres años y serán elaborados por el Instituto de Cultura de la Ciudad de México, de conformidad con el artículo anterior.
+Los Programas de Puesta en Valor deberán actualizarse cada tres años y serán elaborados por la Secretaría de Cultura, de conformidad con el artículo anterior.
 
 ###### Artículo 118.
 
@@ -1122,9 +1138,11 @@ V. Para guías de turistas: Programas destinados a preparar a los guías que dar
 
 Para especialistas: Programas de difusión de los avances científicos y tecnológicos en las diversas disciplinas relacionadas con la conservación, a través de publicaciones y la realización de Congresos y ferias.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 121.
 
-Para la realización de los Programas de Puesta en Valor mencionados en la fracción I del Artículo anterior, el Instituto de Cultura:
+Para la realización de los Programas de Puesta en Valor mencionados en la fracción I del Artículo anterior, la Secretaría de Cultura:
 
 I. Estimulará las expresiones culturales relacionadas con el Patrimonio Urbanístico Arquitectónico del Distrito Federal, especialmente a través de las bellas artes y la artesanía;
 
@@ -1140,9 +1158,11 @@ Para llevar a cabo los programas mencionados en la fracción IV del artículo 12
 
 En el caso de monumentos y espacios abiertos monumentales del dominio público, el órgano correspondiente podrá fijar cuotas de acceso y los precios de los servicios de guías de turistas que en ellos se presten. Los recursos que se recauden, se aplicarán primordialmente al cuidado y conservación de los mismos.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 123.
 
-El Instituto de Cultura fomentará los trabajos, las investigaciones y los estudios sistemáticos sobre:
+La Secretaría de Cultura fomentará los trabajos, las investigaciones y los estudios sistemáticos sobre:
 
 I. Los aspectos de funcionamiento urbano en las Zonas de Patrimonio Urbanístico Arquitectónico y en su zona de protección;
 
@@ -1156,9 +1176,11 @@ V. La aplicación de las técnicas modernas al trabajo de conservación;
 
 VI. Las técnicas artesanales indispensables para la conservación.
 
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 124.
 
-El Instituto de Cultura promoverá cursos sobre técnicas especializadas en el conocimiento de los métodos y sistemas constructivos artesanales utilizados a lo largo de la historia en la edificación. Esto con la finalidad de tener personal preparado para intervenir los monumentos y espacios abiertos monumentales del Distrito Federal.
+La Secretaría de Cultura promoverá cursos sobre técnica (sic) especializadas en el conocimiento de los métodos y sistemas constructivos artesanales utilizados a lo largo de la historia en la edificación. Esto con la finalidad de tener personal preparado para intervenir los monumentos y espacios abiertos monumentales del Distrito Federal.
 
 ###### Artículo 125.
 
@@ -1239,3 +1261,9 @@ Primero: El Jefe de Gobierno del Distrito Federal con facultad que le confiere l
 Segundo: La Delegación Cuauhtémoc, en coordinación con la Secretaría de Desarrollo Social del Gobierno del Distrito Federal, tomará las previsiones necesarias a fin de cumplir con las medidas para que dicho parque cumpla con las condiciones dignas que lo hacen espacio abierto monumental del Distrito Federal.
 
 Tercero: El presente decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 22 DE DICIEMBRE DE 2008.
+
+Primero.- Dentro de los 30 días siguientes a la entrada en vigor del presente decreto, el Consejo de Salvaguarda del Patrimonio Urbanístico Arquitectónico del Distrito Federal se deberá instalar formalmente con los integrantes determinados en el artículo 26 de la Salvaguarda del Patrimonio Urbanístico Arquitectónico del Distrito Federal.
+
+Segundo.- El presente decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
