@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-590-electoral-para-el-estado-de-veracruz-de-52080
 country: "mx"
 rank: "codigo"
 publication_date: "2006-10-09"
-last_updated: "2008-10-14"
+last_updated: "2008-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 CODIGO NUMERO 590 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE OCTUBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO NUMERO 307 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 22 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Código publicado en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el lunes 9 de octubre de 2006.
 
@@ -4852,3 +4854,19 @@ G.O. 14 DE OCTUBRE DE 2008.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 22 DE DICIEMBRE DE 2008.
+
+Artículo primero. El presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se abroga el Código Electoral número 590 para el Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del estado, de fecha nueve de octubre del año dos mil seis.
+
+Artículo tercero. Al día siguiente de la entrada en vigor del presente Código, el Congreso del Estado, por conducto de su Presidente, emitirá la convocatoria a los partidos políticos a que se hace referencia en el artículo 114 de este Código. El proceso de designación de los integrantes del Consejo General no deberá ser mayor a treinta días naturales a partir de la emisión de la convocatoria.
+
+Artículo cuarto. Para los efectos de lo establecido en el artículo 118 del presente Código, el Congreso del Estado procederá a designar, por única ocasión, a dos Consejeros Electorales para ocupar el cargo por cuatro años; a dos Consejeros Electorales por nueve años, y al Consejero Presidente, cuyo período será de seis años. El dictamen que presenten las Comisiones al Pleno precisará los plazos para el desempeño de cada cargo.
+
+Artículo quinto. Los Consejeros Electorales del Instituto Electoral Veracruzano que se encuentren en funciones al entrar en vigor el presente Código, deberán continuar en su encargo hasta la conclusión del procedimiento establecido en el artículo 114 de este Ordenamiento, de conformidad con el plazo señalado en el artículo tercero transitorio.
+
+Artículo sexto. El Contralor Interno del Instituto Electoral Veracruzano que se encuentre en funciones al entrar en vigor el presente Código fungirá, para efectos del mismo, como Contralor General hasta terminar el periodo para el que fue designado.
+
+Artículo séptimo. El Consejo General del Instituto Electoral Veracruzano, a partir de la entrada en vigor del presente Código contará con un plazo de seis meses para realizar las modificaciones correspondientes a su normativa interna.
