@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2008-05-09"
+last_updated: "2008-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -1373,7 +1373,7 @@ La Comisión de Responsabilidades realizará la investigación que proceda e int
 
 ### CAPITULO III. DE LA CONTABILIDAD Y DE LOS ESTADOS FINANCIEROS
 
-> <small>(REFORMADO, D.O.F. 7 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO IV. DEL RECURSO DE RECONSIDERACION Y DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
@@ -1381,71 +1381,79 @@ La Comisión de Responsabilidades realizará la investigación que proceda e int
 
 El balance general y los estados de cuenta consolidados mensuales del Banco, contendrán, cuando menos, los rubros siguientes:
 
-En el activo:
+En el Activo:
 
-Reserva internacional.
+Reserva Internacional.
 
-Activos internacionales.
+Activos Internacionales.
 
-Pasivos a deducir.
+Pasivos a Deducir.
 
 Crédito al Gobierno Federal.
 
-Valores gubernamentales.
+Tenencia de Valores.
 
-Crédito a instituciones bancarias y deudores por reporto.
+Valores Gubernamentales.
 
-Crédito a organismos públicos.
+Valores IPAB.
 
-Crédito a fideicomisos de fomento.
+Crédito a Instituciones Bancarias y Deudores por Reporto.
 
-Participaciones en organismos financieros internacionales.
+Crédito a Organismos Públicos.
 
-Inmuebles, mobiliario y equipo.
+Crédito a Fideicomisos de Fomento.
 
-Otros activos.
+Participaciones en Organismos Financieros Internacionales.
 
-En el pasivo:
+Inmuebles, Mobiliario y Equipo.
+
+Otros Activos.
+
+En el Pasivo:
 
 Fondo Monetario Internacional.
 
-Base monetaria.
+Base Monetaria.
 
-Billetes y monedas en circulación.
+Billetes y Monedas en Circulación.
 
-Depósitos bancarios en cuenta corriente.
+Depósitos Bancarios en Cuenta Corriente.
 
 Bonos de Regulación Monetaria.
 
-Depósitos en cuenta corriente del Gobierno Federal.
+Depósitos en Cuenta Corriente del Gobierno Federal.
 
-Otros depósitos del Gobierno Federal.
+Otros Depósitos del Gobierno Federal.
 
-Depósitos de regulación monetaria.
+Depósitos de Regulación Monetaria.
 
-Instituciones bancarias.
+Instituciones Bancarias.
 
-Valores gubernamentales.
+Valores Gubernamentales.
 
-Otros depósitos de instituciones bancarias y acreedores por reporto.
+Otros Depósitos de Instituciones Bancarias y Acreedores por Reporto.
 
-Depósitos de empresas y organismos públicos.
+Depósitos de Empresas y Organismos Públicos.
 
-Depósitos de fideicomisos de fomento.
+Depósitos de Fideicomisos de Fomento.
 
-Asignaciones de derechos especiales de giro.
+Asignaciones de Derechos Especiales de Giro.
 
-Otros pasivos.
+Otros Pasivos.
 
-En el capital contable:
+En el Capital Contable:
 
 Capital.
 
-Reservas de capital.
+Reservas de Capital.
+
+> <small>(REFORMADO, D.O.F. 7 DE SEPTIEMBRE DE 2006)</small>
 
 Además se incluirán en el capital contable, los rubros de Remanente de Operación del Ejercicio Anterior, en tanto éste no se haya entregado al Gobierno Federal y Cuentas de Resultados del Ejercicio en Curso. Al calce de dichos estados se hará constar el monto de las Cuentas de Orden.
 
-El rubro de Reserva Internacional corresponderá a la definición que se contiene en el artículo 19 de la Ley. En Valores Gubernamentales se presentará el neto de las tenencias de esos títulos después de descontar los depósitos de regulación monetaria, sin considerar en este rubro los valores adquiridos o transmitidos mediante reportos, y en caso de saldo acreedor, éste se ubicará en el rubro Depósitos de Regulación Monetaria. El Crédito a Instituciones Bancarias y Deudores por Reporto incluirá a la banca múltiple, la banca de desarrollo y operaciones de reporto. El rubro Otros Activos se presentará neto de las reservas complementarias de activo que en su caso existan. En los Depósitos Bancarios en Cuenta Corriente se consignará el saldo neto del conjunto de dichas cuentas, de ser acreedor; en caso de que el saldo neto sea deudor, se incluirá en el rubro de Crédito a Instituciones Bancarias y Deudores por Reporto.
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2008)</small>
+
+El rubro de Reserva Internacional corresponderá a la definición que se contiene en el artículo 19 de la Ley. En Valores Gubernamentales se presentará el neto de las tenencias de esos títulos después de descontar los Depósitos de Regulación Monetaria, sin considerar en este rubro los valores adquiridos o transmitidos mediante reportos, y en caso de saldo acreedor, éste se ubicará en el rubro Depósitos de Regulación Monetaria. En Valores IPAB se presentarán los títulos del Instituto para la Protección al Ahorro Bancario adquiridos por Banco de México. El Crédito a Instituciones Bancarias y Deudores por Reporto incluirá a la banca múltiple, la banca de desarrollo y operaciones de reporto. El rubro Otros Activos se presentará neto de las reservas complementarias de activo que en su caso existan. En los Depósitos Bancarios en Cuenta Corriente se consignará el saldo neto del conjunto de dichas cuentas, de ser acreedor; en caso de que el saldo neto sea deudor, se incluirá en el rubro de Crédito a Instituciones Bancarias y Deudores por Reporto.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -1778,3 +1786,7 @@ SEGUNDO. Las referencias a la Dirección General de Planeación Estratégica, co
 Las referencias a la Dirección de Contabilidad, contenidas en cualquier otro instrumento jurídico, deberán entenderse hechas a la Dirección de Contabilidad y Presupuesto.
 
 Las referencias a la Dirección de Estrategia, contenidas en cualquier otro instrumento jurídico, deberán entenderse hechas a la Dirección de Planeación Estratégica.
+
+D.O.F. 22 DE DICIEMBRE DE 2008.
+
+UNICO. La presente reforma al Reglamento Interior del Banco de México, entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
