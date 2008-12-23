@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-civil-para-el-estado-de-tamaulipas-22002"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2008-06-05"
+last_updated: "2008-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE TAMAULIPAS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio de 2001.
 
@@ -621,9 +621,19 @@ I.- Formular los reglamentos de protección civil municipal, en congruencia con 
 
 II.- Prevenir y controlar las emergencias y contingencias que pudieran presentarse en el ámbito de su competencia;
 
-III.- Dar respuesta ante la (sic) situaciones de riesgo, alto riesgo, emergencia o desastre que se presenten en el Municipio, sin perjuicio de solicitar apoyo a las autoridades de protección civil; y
+III.- Dar respuesta ante la (sic) situaciones de riesgo, alto riesgo, emergencia o desastre que se presenten en el Municipio, sin perjuicio de solicitar apoyo a las autoridades de protección civil; y (sic)
 
-IV.- Concertar acciones con los sectores público, social y privado en materia de protección civil conforme a la ley.
+IV.- Concertar acciones con los sectores público, social y privado en materia de protección civil conforme a la ley;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+V.- Establecer y mantener, a través de sus Sistemas Municipales de Protección Civil, un registro de riesgos de siniestros en los establecimientos comerciales, industriales y de servicios que operen en su Municipio, clasificándolos de la siguiente manera:
+
+1.- Alto Riesgo
+
+2.- Medio Riesgo
+
+3.- Bajo Riesgo
 
 ###### ARTICULO 31.
 
@@ -1260,3 +1270,13 @@ El presente Decreto entrará en vigor a los 90 días de su publicación en el Pe
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan lo previsto en el presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2008.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se establece un plazo de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, para que los Municipios del Estado establezcan el registro de riesgos al que se refiere la fracción V del artículo 30 de este ordenamiento, a fin de dar cumplimiento a lo dispuesto por la presente ley.
