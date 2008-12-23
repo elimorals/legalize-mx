@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-integracion-social-de-personas-con-discapacidad-10843"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-19"
-last_updated: "2007-03-15"
+last_updated: "2008-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10843&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE INTEGRACION SOCIAL DE PERSONAS CON DISCAPACIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 19 de febrero de 1997.
 
@@ -585,9 +585,9 @@ Los responsables de las dependencias o empresas que por su naturaleza deban inst
 
 Los restaurantes, comedores de autoservicio, cafeterías y bibliotecas públicas, sin que ello implique instalaciones especiales que puedan denotar segregación, marginación o discriminación de las personas con discapacidad, deberán contar, por lo menos, con una mesa de forma rectangular a una altura de setenta y cinco centímetros libres del piso a la parte inferior de la mesa, con la finalidad de brindar comodidad a usuarios en silla con ruedas.
 
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
-Los invidentes acompañados de perros guía, tendrán libre acceso a establecimientos públicos y comerciales, por lo cual se deberán implementar las medidas necesarias.
+Los invidentes acompañados de perros guía, tendrán libre acceso a establecimientos públicos y comerciales, así como a unidades del transporte público colectivo urbano, suburbano, foráneo y taxi con concesión estatal, por lo cual se deberán implementar las medidas necesarias, sin que esto exima del pago de la cuota o tarifa correspondiente.
 
 ###### ARTICULO 44.
 
@@ -894,5 +894,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 15 DE MARZO DE 2007.
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2008.
+
+###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
