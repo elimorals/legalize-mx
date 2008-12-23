@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-residuos-solidos-del-distrito-63479"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-07"
-last_updated: "2008-10-07"
+last_updated: "2008-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63479&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2008-09-29"
 
 REGLAMENTO DE LA LEY DE RESIDUOS SOLIDOS DEL DISTRITO FEDERAL
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR A PARTIR DEL 2 DE ENERO DE 2009.</small>
-
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 7 de octubre de 2008.
 
@@ -1078,4 +1076,30 @@ Las Dependencias, Entidades y Delegaciones responsables de aplicar la Ley y el p
 
 Séptimo.- Hasta en tanto la Secretaría del Medio Ambiente cuente con la infraestructura y los recursos necesarios para hacer efectivo el arresto previsto en el artículo 101, fracción I, inciso g), del presente Reglamento, la ejecución de esta sanción se realizará en el Centro de Sanciones Administrativas y de Integración Social adscrito a la Subsecretaría del Sistema Penitenciario del Distrito Federal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2008)</small>
+
+Octavo.- El Programa de Gestión Integral de los Residuos Sólidos que substituya al vigente deberá publicarse dentro de los 150 días hábiles siguientes a la entrada en vigor del Reglamento de la Ley de Residuos Sólidos del Distrito Federal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2008)</small>
+
+Noveno.- Las fracciones I inciso a) por lo que se refiere a la vía pública; II inciso b); y III incisos d), j) y k), del artículo 101 del Reglamento de la Ley de Residuos Sólidos, entrarán en vigor de forma simultánea a la expedición del Programa de Gestión Integral de los Residuos Sólido en cuanto a las infracciones sancionadas por la Secretaría del Medio Ambiente; del Programa para la Prestación del Servicio Público de Limpia respecto de las sanciones impuestas por la Secretaría de Obras y Servicios; y de los Programas Delegacionales para la Prestación del Servicio Público de Limpia por lo que concierne a las sanciones aplicadas por las autoridades delegacionales.
+
+La Administración Pública Centralizada y los Órganos Político-Administrativos de cada demarcación, de acuerdo con sus respectivos ámbitos de competencia, deberán realizar una campaña de difusión y concientización sobre los procedimientos de separación, recolección, limpia, reciclaje y manejo sustentable de los residuos sólidos, por lo menos 30 días antes de la publicación de estos Programas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2008)</small>
+
+Décimo.- Hasta en tanto no sean publicados los Programas de Gestión Integral de los Residuos Sólidos y de Prestación del Servicio Público de Limpia, las Secretarías del Medio Ambiente y de Obas (sic) y Servicios instrumentarán las acciones previstas en la Ley y el Presente Reglamento, con base en la infraestructura y los programas gubernamentales existentes.
+
 Dado en la Residencia Oficial del Jefe del Gobierno del Distrito Federal, en la Ciudad de México, a los veintinueve días del mes de septiembre del año dos mil ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- SECRETARIA DEL MEDIO AMBIENTE, MARTHA TERESA DELGADO PERALTA.- FIRMA.- SECRETARIO DE OBRAS Y SERVICIOS, JORGE ARGANIS DÍAZ LEAL.- FIRMA.- SECRETARIO DE SALUD, DR. ARMANDO AHUE ORTEGA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 23 DE DICIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor el 2 de enero de 2009.
