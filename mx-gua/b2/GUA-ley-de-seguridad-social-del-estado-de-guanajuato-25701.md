@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-seguridad-social-del-estado-de-guanajuato-25701"
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-16"
-last_updated: "2002-08-16"
+last_updated: "2008-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 16 de agosto de 2002.
 
@@ -75,23 +75,57 @@ IV.- Seguro por jubilación;
 
 V.- Seguro por muerte;
 
-VI.- Pensiones indirectas por muerte del asegurado o pensionista;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+VI.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2008)
 
 VII.- Seguro de vida;
 
-VIII.- Préstamos a corto plazo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IX.- Préstamos hipotecarios; y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
-X.- Préstamos para la adquisición de bienes de uso duradero.
+VIII.- Seguro de Retiro;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+IX.- Préstamos a corto plazo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+X.- Préstamos para viaje;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+XI.- Préstamos hipotecarios; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+XII.- Préstamos para la adquisición de bienes comercializados por el Instituto.
 
 ###### Artículo 6.
 
 Son sujetos de aseguramiento del régimen de seguridad social:
 
-I.- Los trabajadores de las dependencias y entidades del Poder Ejecutivo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Los trabajadores de las dependencias y entidades de los Poderes Legislativo y Judicial del Estado de Guanajuato, los jueces y magistrados; y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+I.- Los trabajadores del Poder Ejecutivo del Estado:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+II.- Los trabajadores de los Poderes Legislativo y Judicial del Estado de Guanajuato, los jueces y magistrados; y
 
 III.- Los trabajadores de los organismos autónomos por Ley.
 
@@ -133,9 +167,13 @@ Los documentos, datos e informes que los patrones, trabajadores y demás persona
 
 ### CAPÍTULO SEGUNDO. DE LAS BASES DE COTIZACIÓN, DE LAS CUOTAS Y DEL AHORRO VOLUNTARIO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 12.
 
-Para los efectos de esta Ley se considera salario base de cotización, la remuneración que corresponda a la plaza, puesto o categoría, de conformidad con el presupuesto de egresos respectivo y que se entregue al trabajador por sus servicios.
+Para los efectos de esta Ley se considera salario base de cotización, la remuneración que corresponda a la plaza, puesto o categoría, de conformidad con el tabulador de sueldos respectivo.
 
 No se consideran como parte del salario base de cotización, las demás prestaciones en dinero o en especie que reciba el trabajador.
 
@@ -143,17 +181,29 @@ No se consideran como parte del salario base de cotización, las demás prestaci
 
 Los asegurados se inscribirán con el salario base de cotización que perciban en el momento de su afiliación; estableciéndose como límite inferior el salario mínimo general vigente en el Estado y como límite superior el equivalente a diez veces este salario mínimo.
 
-Para el solo efecto de pensiones, cuando el salario sea menor al límite inferior señalado en el párrafo anterior, el patrón cubrirá las cuotas correspondientes a un salario mínimo general vigente en el Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+Cuando el salario sea menor al límite inferior señalado en el párrafo anterior, el patrón cubrirá las cuotas correspondientes con base al salario mínimo general vigente en el Estado, calculado en forma mensual.
 
 ###### Artículo 14.
 
 Cuando los asegurados presten servicios a varios poderes, entidades, dependencias, organismos y ayuntamientos en su caso, se tomará en cuenta la suma de los salarios percibidos en los distintos empleos.
 
-Cuando la suma de los salarios sea igual o sobrepase el límite superior establecido en el artículo 13 de esta Ley, los patrones cubrirán la cuota según la proporción que exista entre el salario que cubren individualmente y la suma total de los salarios que perciba el trabajador, hasta adecuarla al citado límite, de conformidad con la distribución proporcional que determine el Instituto, a solicitud del interesado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+Cuando la suma de los salarios sea igual o sobrepase el límite superior establecido en el artículo 13 de esta Ley, los patrones cubrirán la cuota según la proporción que exista entre el salario que cubren individualmente y la suma total de los salarios que perciba el trabajador, hasta adecuarla al citado límite, de conformidad con la distribución proporcional que determine el Instituto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 15.
 
-Los poderes, entidades, dependencias, organismos y ayuntamientos en su caso, tienen la obligación de retener de los salarios del trabajador el equivalente a las cuotas que éste debe cubrir al Instituto. Si las cuotas no son retenidas oportunamente, precisamente al efectuarse el pago del salario, los obligados a hacerlo sólo podrán descontar del salario del trabajador el monto acumulado equivalente a dos cotizaciones. El resto de las no retenidas será a su cargo.
+Los poderes, organismos y ayuntamientos en su caso, tienen la obligación de retener de los salarios del trabajador el equivalente a las cuotas que éste debe cubrir al Instituto y los descuentos que por concepto de préstamos sean comunicados por el mismo. Si las cuotas no son retenidas oportunamente al efectuarse el pago del salario, los obligados a hacerlo sólo podrán descontar del salario del trabajador el monto acumulado equivalente a dos cotizaciones. El resto de las no retenidas será a su cargo.
 
 ###### Artículo 16.
 
@@ -163,17 +213,31 @@ El pago de las cuotas, aportaciones y descuentos será por quincenas vencidas y 
 
 Cuando el patrón no entere las cuotas y aportaciones dentro del plazo establecido, cubrirá a partir de la fecha en que éstas se hicieren exigibles, la actualización del valor del dinero conforme al Índice Nacional de Precios al Consumidor y los recargos correspondientes en los términos de la legislación fiscal del Estado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+Tratándose de descuentos, cuando el patrón no realice los solicitados por el Instituto en los términos del artículo 15, el pago correrá a cargo del organismo público omiso en hacer el descuento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 18.
 
-Los asegurados cubrirán al Instituto una cuota del doce por ciento del salario base de cotización que perciban.
+Los asegurados cubrirán al Instituto una cuota del quince por ciento del salario base de cotización que perciban.
 
-De la cuota se destinarán 7.07 puntos para el pago de pensiones, 3.370 puntos para el financiamiento de los préstamos, 0.41 puntos para financiar el seguro de vida, 0.75 puntos para financiar gastos de administración y 0.40 puntos para invertir en las actividades diversas descritas en el artículo 75 de este ordenamiento.
+De la cuota se destinarán 10.47 puntos para el pago de pensiones, 3.370 puntos para el financiamiento de los préstamos, 0.41 puntos para financiar el seguro de vida y 0.75 puntos para financiar gastos de administración.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 19.
 
-Los poderes, entidades, dependencias, organismos y ayuntamientos en su caso, aportarán al Instituto el quince por ciento del salario base de cotización de los trabajadores a su servicio, en la forma y términos que se indican en el artículo cuarto transitorio.
+Los poderes, organismos y ayuntamientos en su caso, aportarán al Instituto el veinte por ciento del salario base de cotización de los trabajadores a su servicio.
 
-De la aportación se destinarán 7.07 puntos para el pago de pensiones, 3.370 puntos para el financiamiento de los préstamos, 0.41 puntos para financiar el seguro de vida, 0.75 puntos para financiar gastos de administración y 0.40 puntos para invertir en las actividades diversas descritas en el artículo 75 de esta Ley. La cantidad destinada al pago de pensiones se incrementará en un punto cada año a partir de la entrada en vigor de esta Ley hasta llegar a un total de 10.07 puntos.
+De la aportación se destinarán 15.47 puntos para el pago de pensiones, 3.370 puntos para el financiamiento de los préstamos, 0.41 puntos para financiar el seguro de vida y 0.75 puntos para financiar gastos de administración.
 
 ###### Artículo 20.
 
@@ -193,11 +257,21 @@ II.- Retirar la totalidad de las cuotas enteradas al Instituto; y
 
 III.- Solicitar el importe acumulado en la cuenta de ahorro voluntario o que las cuotas y la totalidad de los fondos acumulados en su cuenta de ahorro voluntario, sean transferidos a alguna institución financiera o bien a la institución de seguridad social que determinen los propios asegurados, de conformidad con los convenios que para tal efecto se establezcan con dichos organismos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+El asegurado que cause baja del Instituto por muerte, cuyos beneficiarios no tengan derecho a ninguna pensión contemplada en esta Ley, podrán retirar las cantidades consignadas en las fracciones II y III del presente artículo.
+
 ###### Artículo 23.
 
 La separación por licencia sin goce de sueldo o por suspensión de los efectos del nombramiento, se computará como tiempo de servicios, siempre que el asegurado efectúe el pago de las cuotas y aportaciones referidas en los artículos 18 y 19, en los siguientes casos:
 
-I.- Cuando la licencia sea concedida por un periodo que no exceda de seis meses;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+I.- Cuando la licencia sea concedida por un periodo que no exceda de doce meses;
 
 II.- Cuando la licencia se conceda para el desempeño de cargos públicos de elección popular o comisiones sindicales, mientras duren dichos cargos o comisiones;
 
@@ -206,6 +280,12 @@ III.- Cuando el trabajador sufra prisión preventiva seguida de sentencia absolu
 IV.- Cuando el trabajador sea suspendido por responsabilidad administrativa.
 
 Si el trabajador falleciere, encontrándose en alguno de los supuestos de las fracciones anteriores y sus dependientes económicos tuviesen derecho a una pensión, éstos deberán cubrir el importe de las cuotas y aportaciones correspondientes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+El pago de las cuotas y aportaciones a que se refiere este artículo, deberá realizarse dentro de los seis meses siguientes, contados a partir de que haya cesado para el asegurado respectivo, cualquiera de los supuestos contemplados en las fracciones anteriores.
 
 ### CAPÍTULO TERCERO. DEL SEGURO DE RIESGOS DE TRABAJO
 
@@ -225,11 +305,15 @@ Asimismo se considera accidente de trabajo el que se produzca al trasladarse el 
 
 Se consideran enfermedades de trabajo aquéllas previstas en la Ley Federal del Trabajo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 26.
 
-Los riesgos de trabajo y sus consecuencias, serán calificados y dictaminados técnicamente por la institución que preste los servicios médicos al asegurado, o por la institución que acuerde el Consejo Directivo del Instituto.
+Los riesgos de trabajo y sus consecuencias serán calificados y dictaminados técnicamente por la institución que acuerde el Consejo Directivo del Instituto.
 
-Si el afectado o el Instituto se inconforman con la calificación y dictamen, podrán designar a un perito médico para que realice la calificación y dictamen técnico. Para tal efecto la institución propondrá al asegurado una terna de especialistas de notorio prestigio profesional, para que elija uno de ellos o proponga otro de su preferencia.
+Si el afectado o el Instituto se inconforman con la calificación y dictamen técnico, podrán designar a un perito médico para que realice la calificación y dictamen técnico. Para tal efecto el Instituto propondrá al asegurado una terna de especialistas de notorio prestigio profesional, para que elija uno de ellos y su dictamen tendrá plena eficacia.
 
 ###### Artículo 27.
 
@@ -269,11 +353,19 @@ El otorgamiento de las prestaciones en especie correrá a cargo de los poderes, 
 
 El asegurado que sufra un riesgo de trabajo tiene derecho a las siguientes prestaciones en dinero:
 
-I.- Si lo incapacita para trabajar recibirá mientras dure la inhabilitación, el cien por ciento del salario base en que estuviere cotizando en el momento de ocurrir el riesgo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+I.- Si lo incapacita para trabajar recibirá mientras dure la inhabilitación, el cien por ciento del salario que estuviere recibiendo en el momento de ocurrir el riesgo.
 
 Esta prestación será cubierta por el poder, entidad, dependencia, organismo o ayuntamiento en su caso, en donde presta los servicios, hasta que termine la incapacidad temporal o hasta que se declare una incapacidad permanente u ocurra la muerte.
 
-Al transcurrir cincuenta y dos semanas, en su caso, a solicitud del trabajador o del empleador, deberá revisarse la incapacidad temporal para determinar si ha lugar a declarar la incapacidad permanente parcial o total.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+Dentro del término de cincuenta y dos semanas, en su caso, a solicitud del trabajador o del empleador, deberá revisarse la incapacidad temporal para determinar si ha lugar a declarar la incapacidad permanente parcial o total.
 
 II.- Al declararse la incapacidad permanente total del asegurado, éste recibirá del Instituto, una pensión mensual equivalente al cien por ciento del salario base del trabajador a la fecha en que se declare la incapacidad; y
 
@@ -299,17 +391,29 @@ Si el riesgo de trabajo trae como consecuencia la muerte del asegurado, sus bene
 
 El importe de la pensión se distribuirá por partes iguales entre los siguientes beneficiarios:
 
-I.- La esposa o esposo del asegurado, siempre y cuando hubiere dependido económicamente del asegurado fallecido;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- La concubina o concubinario, siempre y cuando hubiere dependido económicamente del asegurado fallecido;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+I.- El cónyuge supérstite, solo o en concurrencia con los hijos del asegurado que cumplan lo consignado en la fracción III del presente artículo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+II.- La concubina o concubinario, solo o en concurrencia con los hijos del asegurado que cumplan lo consignado en la fracción III del presente artículo;
 
 III.- Los hijos si no han contraído matrimonio hasta los dieciocho años o hasta los veinticinco años si estudian en instituciones de nivel medio superior o superior reconocidas oficialmente; a los hijos que se encuentren totalmente incapacitados, se les otorgará la pensión en tanto subsista la incapacidad, de conformidad con el dictamen médico correspondiente; y
 
 IV.- Cuando fueren varios los beneficiarios de una pensión o alguno de ellos perdiese el derecho, la parte que le corresponda será repartida por el Instituto, proporcionalmente entre los restantes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 36.
 
-A falta de esposa o concubina, esposo o concubinario, e hijos con derecho a pensión, ésta se otorgará por partes iguales a cada uno de los ascendientes directos del asegurado fallecido, siempre que hubiesen dependido económicamente de él.
+A falta de cónyuge, concubina o concubinario, e hijos con derecho a pensión, ésta se otorgará por partes iguales a cada uno de los ascendientes directos del asegurado fallecido, siempre que hubiesen dependido económicamente de él.
 
 ###### Artículo 37.
 
@@ -321,17 +425,29 @@ La pensión de viudez se otorgará mientras no se contraigan nuevas nupcias o se
 
 Para los efectos de esta Ley, existe invalidez cuando el asegurado se inhabilite de manera permanente para el trabajo, como consecuencia de una enfermedad o accidente no profesional.
 
-El dictamen de invalidez deberá ser realizado por la institución que otorga las prestaciones en especie, la que deberá dar aviso al Instituto, o por la institución que para tal efecto acuerde el Consejo Directivo del Instituto.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+El dictamen de invalidez deberá ser realizado por la institución que acuerde el Consejo Directivo del Instituto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 39.
 
-Para tener derecho a la pensión por invalidez se requiere que al declararse ésta, el asegurado tenga acreditados siete años, por lo menos, cotizados al Instituto.
+Para tener derecho a la pensión por invalidez se requiere que al declararse ésta, el asegurado tenga acreditados por lo menos cinco años de cotizar al Instituto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 40.
 
-Esta pensión se otorgará a partir de la fecha en que se declare el estado de invalidez por la institución que la dictamine.
+La pensión por invalidez se otorgará a partir de la fecha en que el trabajador cause baja del servicio.
 
-Si el asegurado no está de acuerdo con el dictamen que declare el estado de invalidez, podrá designar médico particular para que éste dictamine. En caso de desacuerdo entre los dictámenes, el Instituto propondrá una terna de especialistas de notorio prestigio profesional, para que de ellos, el trabajador elija uno que dictamine.
+Si el asegurado se inconforma con la calificación y dictamen, el Instituto le propondrá una terna de especialistas de notorio prestigio profesional, para que elija uno de ellos y su dictamen tendrá plena eficacia.
 
 ###### Artículo 41.
 
@@ -381,7 +497,11 @@ Cuando ocurra la muerte del asegurado o del pensionista directo, como consecuenc
 
 Son requisitos para el otorgamiento de la pensión los siguientes:
 
-I.- Que el asegurado al fallecer hubiese tenido acreditados en el Instituto un mínimo de quince años con excepción de los pensionistas directos; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+I.- Que el asegurado al fallecer hubiese cotizado al Instituto un mínimo de quince años, con excepción de los pensionistas directos; y
 
 II.- Que la muerte no se deba a un riesgo de trabajo.
 
@@ -395,6 +515,12 @@ La pensión por muerte del asegurado se distribuirá entre sus beneficiarios, co
 
 Tendrán derecho a la indemnización del seguro de vida, los beneficiarios designados por los asegurados en la cédula correspondiente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+Será nula toda cesión del seguro de vida a favor de terceras personas.
+
 ###### Artículo 51.
 
 El importe del seguro de vida será el equivalente a dos mil días del salario mínimo general vigente en el Estado a la fecha del fallecimiento. En caso de muerte accidental, la cual será determinada por la autoridad competente, el importe del seguro se duplicará.
@@ -403,23 +529,51 @@ El importe del seguro de vida será el equivalente a dos mil días del salario m
 
 El pago del seguro de vida a favor de los beneficiarios se hará dentro de los veinte días siguientes a la fecha en que se entregue la solicitud correspondiente, a la que deberá acompañarse la copia certificada del acta de defunción del asegurado o pensionista.
 
-A falta de cédula de designación de beneficiarios, el monto del seguro de vida se distribuirá entre las personas señaladas en los artículos 35 y 36 de esta Ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+A falta de cédula de designación de beneficiarios o los que fueren designados hayan fallecido, el monto del seguro de vida se distribuirá entre las personas señaladas en los artículos 35 y 36 de esta Ley.
 
 ###### Artículo 53.
 
 Del importe del seguro de vida se deducirá, en su caso, el monto del saldo del adeudo que hubiere tenido el asegurado o pensionista fallecido, con el Instituto.
 
-### CAPÍTULO NOVENO. DE LAS REGLAS Y BASES DE LAS PENSIONES
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-### CAPÍTULO DÉCIMO. DE LAS PENSIONES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+### CAPÍTULO NOVENO. DEL SEGURO DE RETIRO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+Artículo 53 A.- El asegurado que se pensione recibirá, por una sola vez, como seguro de retiro el equivalente a 7.5 veces el salario mínimo mensual vigente en el Estado, de conformidad con el porcentaje señalado en el artículo 72.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+Artículo 53 B.- Para obtener el seguro de retiro, los asegurados deberán solicitarlo por escrito al Instituto, acompañando la baja definitiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+(REUBICADO [N. DE E. ANTES CAPITULO NOVENO], P.O. 23 DE DICIEMBRE DE 2008)
+
+### CAPÍTULO DÉCIMO. DE LAS REGLAS Y BASES DE LAS PENSIONES
 
 ###### Artículo 54.
 
 El Instituto estará obligado a contestar cualquier solicitud de pensión, dentro de los treinta días siguientes a su recepción y a resolver sobre su otorgamiento, en su caso, dentro de los noventa días siguientes, siempre que se cumplan los requisitos que exige esta Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 55.
 
-Para acreditar su supervivencia los pensionistas deberán presentarse dos veces al año o cuando haya duda de ella, en las oficinas del Instituto o en la dependencia más cercana al domicilio del pensionado. En caso de imposibilidad del pensionista, el Instituto acudirá al domicilio de éste.
+Para acreditar su supervivencia los pensionistas deberán presentarse dos veces al año o cuando haya duda de ella, en las oficinas del Instituto, en el lugar de pago de sus pensiones o en el módulo de atención del Instituto más cercano al domicilio del pensionado. En caso de imposibilidad del pensionista de acudir a cualquiera de estos sitios, personal del Instituto acudirá al domicilio de éste.
 
 ###### Artículo 56.
 
@@ -427,15 +581,37 @@ Cuando a un asegurado se le haya dictaminado una pensión podrá optar por no re
 
 Cuando un pensionista se reincorpore al servicio activo se suspenderá el pago de la pensión. Al darse de baja nuevamente en el servicio activo recibirá la misma pensión que disfrutaba con los incrementos salariales que correspondan, salvo en el caso de invalidez, cuando se recupere la capacidad para el trabajo. En el primer caso se tendrá derecho a la devolución de las cuotas enteradas durante el último período laborado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 57.
 
-Las pensiones a que se refiere esta Ley son incompatibles entre sí, en forma simultánea, excepto en el caso del beneficiario de la pensión de viudez, que por derechos propios, como asegurado, tenga opción a otra pensión.
+Las pensiones a que se refiere esta Ley son compatibles con el disfrute de otras pensiones o con el desempeño de trabajos remunerados de acuerdo a lo siguiente:
 
-En el caso de que se tenga derecho a dos o más pensiones directas, sólo se otorgará la pensión de mayor cuantía.
+I.- La percepción de una pensión por invalidez, vejez o jubilación con:
+
+a) El disfrute de una pensión de viudez o concubinato derivada de los derechos del cónyuge trabajador o pensionista; y
+
+b) El disfrute de una pensión por riesgo del trabajo.
+
+II.- La percepción de una pensión de viudez o concubinato con:
+
+a) El disfrute de una pensión por invalidez, vejez o jubilación derivada por derechos propios como trabajador;
+
+b) El disfrute de una pensión por riesgo de trabajo, ya sea por derechos propios o derivados de los derechos como cónyuge o de concubinato del trabajador o pensionista; y
+
+c) El desempeño de un trabajo remunerado.
+
+En los casos en que las pensiones acumuladas sean pensiones directas, la suma de éstas no podrá exceder del cien por ciento del salario base de cotización.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 58.
 
-Tratándose de beneficiarios de la pensión de orfandad, podrán recibir tanto la que deriva del fallecimiento del padre como de la madre, si ambos tenían la calidad de asegurados. En este caso, el importe de ambas pensiones no podrá exceder del importe de diez veces el salario mínimo general vigente en el Estado.
+Tratándose de beneficiarios de la pensión de orfandad, podrán recibir tanto la que deriva del fallecimiento del padre como de la madre, si ambos tenían la calidad de asegurados.
 
 ###### Artículo 59.
 
@@ -445,9 +621,13 @@ Cuando el Instituto advierta la incompatibilidad de la pensión o pensiones, lo 
 
 Las pensiones se pagarán por quincenas vencidas. En caso de pensiones que tengan que ser distribuidas, se entregará la parte correspondiente a cada beneficiario o a su representante legal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 61.
 
-Si una vez otorgada una pensión se presentaren otros beneficiarios legales, el Instituto hará una nueva distribución y se les pagará a partir de la fecha en que sea recibida la solicitud con la documentación que acredite de manera fehaciente el derecho a la pensión. El Instituto no tendrá la obligación de pagar las cantidades que ya hayan sido cubiertas a los primeros beneficiarios que se presentaron.
+Si una vez otorgada una pensión se presentaren otros beneficiarios legales, el Instituto hará una nueva distribución y se les pagará a partir de la siguiente quincena correspondiente a la fecha en que sea recibida la solicitud con la documentación que acredite de manera fehaciente el derecho a la pensión. El Instituto no tendrá la obligación de pagar las cantidades que ya hayan sido cubiertas a los primeros beneficiarios que se presentaron.
 
 ###### Artículo 62.
 
@@ -485,29 +665,57 @@ Los pensionistas tendrán derecho al pago de un aguinaldo equivalente a cuarenta
 
 Los pensionistas disfrutarán de servicio médico y ayuda de despensa, a cargo de los poderes, dependencias, entidades, organismos y ayuntamientos en su caso, en que laboraron los asegurados, que será cubierto junto con las aportaciones quincenales. Sólo los pensionistas directos gozarán de seguro de vida a cargo de los empleadores.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+El importe de la ayuda de despensa será fijado anualmente por el Instituto. Para aquellos que obtuvieron la pensión cotizando en el régimen voluntario, los importes por estos conceptos serán con cargo al último empleador, en caso de que éste hubiere desaparecido será a cargo de la dependencia o entidad que asumió sus funciones.
+
 ###### Artículo 70.
 
 Cuando un pensionista por incapacidad permanente total, invalidez, vejez o jubilación, fallezca, el Instituto otorgará una ayuda para gastos de funeral, por una cantidad equivalente a cuatro meses de la pensión que tenía el fallecido. Dicho pago se hará a los deudos o a las personas que se hubieren hecho cargo de los gastos mencionados, quienes deberán exhibir copia certificada del acta de defunción y constancias de las erogaciones que hicieron.
 
-### CAPÍTULO DÉCIMO PRIMERO. DEL RÉGIMEN FINANCIERO Y DE LAS INVERSIONES DEL INSTITUTO
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+(REUBICADO [N. DE E. ANTES CAPITULO DECIMO], P.O. 23 DE DICIEMBRE DE 2008)
+
+### CAPÍTULO DÉCIMO PRIMERO. DE LAS PENSIONES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 71.
 
-Para el cálculo del importe de las pensiones, excepto las del seguro de riesgos de trabajo, se estará a lo siguiente:
+Para el cálculo del importe de las pensiones, excepto las provenientes del seguro de riesgos de trabajo, se estará a lo siguiente:
 
 I.- Se tomará en cuenta el promedio del salario base de cotización percibido en el año inmediato anterior a la fecha de la baja del trabajador o de su fallecimiento; y
 
 II.- El monto de la pensión no podrá exceder el límite superior del salario base de cotización.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+Cuando se trate de una pensión originada por el fallecimiento de un pensionista directo, se otorgará el importe que éste percibía al momento de la muerte.
+
 ###### Artículo 72.
 
 Los importes de las pensiones por invalidez, por vejez y por muerte, se calcularán, en lo aplicable a cada uno de estos seguros, sobre el salario base promedio a que se refiere el artículo anterior.
 
-En lo relativo a los porcentajes del salario base que correspondan a las pensiones, éstos se calcularán de acuerdo a la siguiente tabla, considerando que, de conformidad con los artículos 39, 43 y 48 de este ordenamiento, se tendrá derecho al seguro por invalidez a partir de los siete años de cotización y a los seguros por vejez y por muerte a partir de los quince años de cotización respectivamente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Tiempo de cotización Varones Mujeres
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
-De 7 años a 15 años 50% 50%
+En lo relativo a los porcentajes del salario base que correspondan a las pensiones, éstos se calcularán de acuerdo a la siguiente tabla, considerando que, de conformidad con los artículos 39, 43 y 48 de este ordenamiento, se tendrá derecho al seguro por invalidez a partir de los cinco años de cotización y a los seguros por vejez y por muerte a partir de los quince años de cotización respectivamente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+Tiempo de Cotización Varones Mujeres
+
+De 5 años a 15 años 50% 50%
 
 De 15 años 1 día a 16 años 55% 55%
 
@@ -519,7 +727,7 @@ De 18 años 1 día a 19 años 64% 64%
 
 De 19 años 1 día a 20 años 67% 67%
 
-De 20 años 1 día a 21 años 70% 70%
+De 20 años 1 día a 21 años 70 70%
 
 De 21 años 1 día a 22 años 73% 73%
 
@@ -543,9 +751,67 @@ De 30 años en adelante 100%
 
 En el cómputo final del tiempo de cotización, toda fracción superior a seis meses se acreditará como un año completo.
 
-### CAPÍTULO DÉCIMO SEGUNDO. DE LOS PRÉSTAMOS
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-### CAPÍTULO DÉCIMO TERCERO. DEL RECONOCIMIENTO DE DERECHOS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+### CAPÍTULO DÉCIMO SEGUNDO. DEL PLAN DE PERMANENCIA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+Artículo 72 A.- El Plan de Permanencia es el otorgamiento de beneficios económicos calculados sobre el salario base de cotización, para quien teniendo derecho a gozar de una pensión no la ejerza.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+Artículo 72 B.- El Plan de Permanencia será financiado de manera paritaria tanto por el Instituto, con cargo a la reserva de pensiones, como por los poderes, organismos y ayuntamientos en su caso, quienes estarán obligados a hacer anualmente la previsión presupuestal correspondiente durante la vigencia del Plan de Permanencia, de conformidad con la siguiente tabla:
+
+Tabla del Plan de Permanencia
+
+Porcentaje
+
+Años de Sobre salario Préstamo por
+
+Permanencia base de permanencia meses
+
+Adicionales cotización de salario base
+
+1 10
+
+2 12
+
+3 14 15
+
+4 16 16
+
+5 18 17
+
+6 20 18
+
+7 20 19
+
+8 20 20
+
+9 20 20
+
+10 o más 20 20
+
+El porcentaje establecido en la tabla se calculará sobre el salario base de cotización del asegurado.
+
+Los asegurados que permanezcan inscritos en el mencionado Plan de Permanencia, podrán solicitar a partir del tercer año, un préstamo, cuyos montos se especifican en la misma tabla. Este préstamo es independiente de las demás prestaciones que estipula esta Ley, se otorgará por una sola vez y estará cubierto por un seguro a cargo del asegurado. El préstamo será financiado de la reserva para préstamos.
+
+Siempre que se otorgué este préstamo se recuperará en un plazo máximo de cinco años.
+
+Los beneficios del Plan de Permanencia no serán acumulables para el cálculo de la pensión a que tenga derecho el asegurado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+(REUBICADO [N. DE E. ANTES CAPITULO DECIMO PRIMERO], P.O. 23 DE DICIEMBRE DE 2008)
+
+### CAPÍTULO DÉCIMO TERCERO. DEL RÉGIMEN FINANCIERO Y DE LAS INVERSIONES DEL INSTITUTO
 
 ###### Artículo 73.
 
@@ -559,7 +825,11 @@ I.- La inversión debe hacerse en las mejores condiciones de seguridad, rendimie
 
 II.- Al concurrir similitud de circunstancias sobre seguridad, rendimiento y liquidez en diferentes tipos de inversión, se preferirá la que garantice mayor beneficio social;
 
-III.- Las reservas se invertirán en bonos o títulos emitidos por el Gobierno Federal o en pagarés bancarios;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+III.- Las reservas se invertirán en valores del mercado de deuda que se encuentren listados en el Sistema Internacional de Cotizaciones o inscritos en el Registro Nacional de Valores;
 
 IV.- Los rendimientos generados por las reservas, serán ingresados al fondo de pensiones;
 
@@ -573,9 +843,17 @@ VII.- La inversión de las reservas del Instituto, se realizará conforme a lo d
 
 El Instituto podrá realizar actividades diversas con la finalidad de fortalecer su reserva, de conformidad con los lineamientos expuestos en el artículo anterior. Estas actividades comprenderán:
 
-I.- Operación de establecimientos comerciales para la venta de bienes de uso duradero, de artículos domésticos, de abarrotes, de medicinas, de vestido y muebles para el hogar;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Adquisición y administración de estacionamientos, locales comerciales e inmuebles;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+I.- Operación de establecimientos comerciales para la venta de bienes muebles y prestación de servicios;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+II.- Adquisición, arrendamiento y administración de bienes muebles e inmuebles relacionados con la actividad comercial del Instituto;
 
 III.- Distribución y venta de combustibles;
 
@@ -583,11 +861,29 @@ IV.- Administración de bienes y servicios concesionados;
 
 V.- Servicios funerarios;
 
-VI.- Centros vacacionales; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII.- Otras, que acuerde el Consejo Directivo.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
-### CAPÍTULO DÉCIMO CUARTO. DE LA CONTINUACIÓN VOLUNTARIA EN EL RÉGIMEN DE SEGURIDAD SOCIAL
+VI.- Obras de inversión inmobiliaria y servicios relacionados con la misma, para realizar la actividad comercial del Instituto;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+VII.- Invertir mediante asociación público-privada o por medio de convenciones públicas, arrendando, administrando o enajenando bienes inmuebles que adquiera o construya por medio de estos esquemas; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+VIII.- Otras que acuerde el Consejo Directivo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+(REUBICADO [N. DE E. ANTES CAPITULO DECIMO SEGUNDO], P.O. 23 DE DICIEMBRE DE 2008)
+
+### CAPÍTULO DÉCIMO CUARTO. DE LOS PRÉSTAMOS
 
 #### SECCIÓN PRIMERA. DISPOSICIONES COMUNES DE LOS PRÉSTAMOS
 
@@ -599,13 +895,21 @@ Los préstamos que se otorguen se financiarán conforme a lo establecido por est
 
 La suma de los descuentos por concepto de los préstamos que otorga el Instituto, no podrá exceder del cincuenta por ciento del salario base de cotización del asegurado o de la pensión del pensionista directo, salvo en el caso del préstamo hipotecario, en el que se podrá ampliar hasta el setenta por ciento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 78.
 
-Los préstamos generarán un interés que será fijado por el Consejo Directivo, el cual no será inferior a la tasa de la inflación anualizada emitida por el Banco de México, ni superior al costo de oportunidad promedio de las inversiones del Instituto. La tasa prevalecerá durante el período de amortización del préstamo y será siempre sobre saldos insolutos.
+Los préstamos generarán un interés que será fijado por el Consejo Directivo, el cual no será inferior a la tasa de la inflación anualizada emitida por el Banco de México, ni superior al costo de oportunidad promedio de las inversiones del Instituto. La tasa prevalecerá durante el período de amortización del préstamo y será siempre sobre saldos insolutos. En dicha tasa deberá incluirse el costo de un seguro que garantice el pago del préstamo conferido en caso de muerte, invalidez total y permanente e incapacidad total y permanente del asegurado o pensionista.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 79.
 
-Cuando las condiciones económicas y de mercado cambien de tal manera que perjudiquen la viabilidad financiera del fondo de pensiones, el Consejo Directivo, a propuesta del Director General, revisará de manera mensual esas circunstancias y propondrá los ajustes necesarios a las tasas de interés de los nuevos préstamos a que se refiere el artículo anterior.
+Cuando las condiciones económicas y de mercado cambien de tal manera que perjudiquen la viabilidad financiera del fondo de pensiones, el Consejo Directivo, a propuesta del Director General, revisará periódicamente esas circunstancias y propondrá los ajustes necesarios a las tasas de interés de los nuevos préstamos a que se refiere el artículo anterior.
 
 ###### Artículo 80.
 
@@ -615,33 +919,47 @@ En caso de baja del asegurado éste deberá cubrir el adeudo a favor del Institu
 
 El retraso en el cumplimiento de obligaciones contraídas con el Instituto dará lugar al pago de intereses moratorios a una tasa del tres por ciento mensual.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+El Consejo Directivo tomando en cuenta la causal que originó el retraso, podrá disminuir la tasa anterior hasta una tasa equivalente al interés ordinario incrementado en un cincuenta por ciento.
+
 #### SECCIÓN SEGUNDA. DE LOS PRÉSTAMOS A CORTO PLAZO
 
 ###### Artículo 82.
 
 Los asegurados, con un mínimo de un año de cotización, y los pensionistas directos, en los términos de esta Ley, tendrán derecho a obtener préstamos a corto plazo, conforme a las bases siguientes:
 
-I.- El monto máximo de los préstamos será el equivalente al importe de once meses del salario base de cotización del asegurado, en atención al tiempo de cotización, conforme a lo siguiente:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+I.- El monto máximo de los préstamos será el equivalente al importe de doce meses del salario base de cotización del asegurado, en atención al tiempo de cotización, conforme a lo siguiente:
 
 Años de cotización
 
 Más de Hasta Meses de salario base
 
-1 3 4
+1 3 5
 
-3 5 5
+3 5 6
 
-5 7 6
+5 7 7
 
-7 9 8
+7 9 9
 
-9 11 9
+9 11 10
 
-11 15 10
+11 15 11
 
-15 En adelante 11
+15 En adelante 12
 
-II.- Los pensionistas directos tendrán derecho a obtener un préstamo, cuyo importe máximo será el equivalente a nueve meses del monto de la pensión que disfrutan.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+II.- Los pensionistas directos tendrán derecho a obtener un préstamo, cuyo importe máximo será el equivalente a doce meses del monto de la pensión que disfrutan.
 
 ###### Artículo 83.
 
@@ -657,9 +975,13 @@ Los préstamos cuyo importe exceda de tres veces el salario mínimo general vige
 
 A los pensionistas y a los asegurados que tengan más de diez años cotizados, no se les exigirá el requisito del avalista.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 86.
 
-Podrán ser avalistas los asegurados que tengan como mínimo un año cotizado y que su salario base de cotización sea igual o superior al del solicitante. Los avalistas sólo pueden fungir como tales en un sólo préstamo y para volver a serlo será necesario que se haya cubierto cuando menos el ochenta y cinco por ciento del total del préstamo avalado.
+Podrán ser avalistas los asegurados que tengan como mínimo un año cotizado y que su salario base de cotización sea igual o superior al del solicitante. Los avalistas sólo pueden fungir como tales en un sólo préstamo y para volver a serlo, será necesario que se haya cubierto cuando menos el sesenta y cinco por ciento del total del préstamo avalado.
 
 #### SECCIÓN TERCERA. DE LOS PRÉSTAMOS PARA VIAJE
 
@@ -669,39 +991,65 @@ Los asegurados y los pensionistas directos tendrán derecho a obtener préstamos
 
 #### SECCIÓN CUARTA. DE LOS PRÉSTAMOS HIPOTECARIOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 88.
 
-Los asegurados que hayan cotizado más de un año y los pensionistas directos, tienen derecho a obtener préstamos hipotecarios sobre bienes inmuebles ubicados en el Estado de Guanajuato.
+Los asegurados que hayan cotizado más de un año y los pensionistas directos, tienen derecho a obtener préstamos hipotecarios sobre bienes inmuebles.
+
+Podrán los asegurados y los pensionistas directos, contratar cofinanciamientos con instituciones financieras en los términos que el Consejo Directivo autorice.
 
 ###### Artículo 89.
 
 Los préstamos hipotecarios se destinarán:
 
-I.- Para la adquisición o construcción de casa habitación cuando se carezca de esta propiedad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Para la adquisición de terreno para construcción de casa habitación, cuando se carezca de esta propiedad;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+I.- Para la adquisición o construcción de casa habitación;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+II.- Para la adquisición de terreno para construcción de casa habitación;
 
 III.- Para construcción de casa habitación en terreno que ya se tiene;
 
-IV.- Para el pago del enganche y de los gastos de escrituración, cuando tenga por objeto la adquisición de vivienda de interés social, cuando se carezca de esta propiedad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+IV.- Para el pago del enganche y de los gastos de escrituración, cuando tenga por objeto la adquisición de vivienda de interés social;
 
 V.- Para ampliar, remodelar o reparar la casa habitación; y
 
 VI.- Para la liberación de gravámenes que tenga la casa habitación del trabajador.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 90.
 
-El importe del préstamo se calculará con base en la capacidad de pago del solicitante. Dicho importe no podrá exceder del monto que resulte de multiplicar por catorce el salario mínimo general diario vigente en el Estado, elevada esta cantidad al año.
+El monto máximo del préstamo hipotecario será autorizado de manera anual por el Instituto y su importe se calculará con base en la capacidad de pago del solicitante.
 
 ###### Artículo 91.
 
 El plazo de amortización del préstamo hipotecario se sujetará a la capacidad de pago del solicitante, de tal forma, que a mayor capacidad de pago, el plazo será menor. El plazo máximo para la amortización del préstamo hipotecario será de hasta veinte años.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 92.
 
-Los asegurados y pensionistas directos sólo podrán hacer uso del préstamo hipotecario por una sola vez; de manera excepcional se otorgará un préstamo complementario hasta por el treinta por ciento del monto establecido en el artículo 90, sobre el mismo bien inmueble, siempre y cuando éste constituya su única propiedad y se haya cubierto el préstamo hipotecario.
+Los asegurados y pensionistas directos podrán ejercer el préstamo hipotecario y cuando se hubiere cubierto totalmente, podrán obtener subsecuentes créditos hipotecarios.
 
-Este préstamo quedará sujeto a la disponibilidad de recursos destinados a esta prestación, de conformidad con los artículos 18 y 19 de esta Ley, toda vez que tendrán prioridad quienes soliciten por primera ocasión el préstamo hipotecario.
+Este préstamo quedará sujeto a la disponibilidad de recursos destinados a esta prestación de conformidad con los artículos 18 y 19 de esta Ley y a la reglamentación que para el efecto autorice el Consejo Directivo. Tendrán prioridad quienes soliciten por primera ocasión el préstamo hipotecario.
 
 ###### Artículo 93.
 
@@ -711,35 +1059,53 @@ Cuando el préstamo se destine a construir, ampliar, remodelar o reparar casa ha
 
 Los costos de supervisión de la obra se cubrirán por el asegurado en el momento de otorgar el crédito. El supervisor de la obra será designado por el Instituto.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 95.
 
-Si por haber sido cesado el trabajador o por otras causas graves, a juicio del Director General, no pudiere cubrir los abonos del préstamo hipotecario, podrá concedérsele, previa solicitud y con las condiciones que se estipulen, un lapso de espera de hasta seis meses, al término del cual deberá reanudar sus pagos.
-
-Los adeudos vencidos durante ese lapso, deberán pagarse en el plazo y con los requisitos estipulados.
+Si por haber sido dado de baja el trabajador o por otras causas graves, no pudiere cubrir los abonos del préstamo hipotecario, podrá el Consejo Directivo concederle por una sola ocasión un convenio modificatorio del préstamo otorgado.
 
 ###### Artículo 96.
 
 Los préstamos hipotecarios se otorgarán invariablemente procurando las condiciones óptimas de seguridad jurídica para el Instituto y el asegurado.
 
-#### SECCIÓN QUINTA. DEL PRÉSTAMO PARA LA ADQUISICIÓN DE BIENES DE USO DURADERO
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+#### SECCIÓN QUINTA. DEL PRÉSTAMO PARA LA ADQUISICIÓN DE BIENES COMERCIALIZADOS POR EL INSTITUTO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 97.
 
-Los asegurados y los pensionistas directos, tienen derecho a obtener préstamos para la adquisición de bienes de uso duradero que se expendan en las mueblerías y tiendas departamentales propiedad del Instituto, de conformidad con las bases siguientes:
+Los asegurados y los pensionistas tendrán derecho a obtener préstamos para la adquisición de bienes comercializados por el Instituto, de conformidad con las bases siguientes:
 
-I.- El importe máximo se sujetará a lo referido por el artículo 82 de esta Ley;
+I.- El importe máximo se sujetará a lo referido en los artículos 77 y 82 de esta Ley;
 
 II.- El plazo para cubrirlo no podrá exceder de cuarenta y ocho quincenas; y
 
 III.- Los préstamos se pagarán por quincenas vencidas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 98.
 
-Los bienes que con el importe de los préstamos se adquieran en las mueblerías y tiendas departamentales propiedad del Instituto se venderán con reserva de dominio.
+En el caso de que el préstamo anterior sea para la adquisición de medicamentos, independientemente de lo consignado en el artículo anterior, el trabajador o pensionado tendrá derecho a que se le proporcionen los bienes solicitados en forma inmediata, siempre que su costo no rebase dos meses de su salario base de cotización o de su pensión en su caso; la adquisición podrá hacerse en parcialidades y tendrá un máximo para pago pe veinte quincenas.
 
-No se podrá otorgar otro préstamo hasta en tanto se cubra la totalidad del anterior.
+El Consejo Directivo, a solicitud del Director General, aprobara el reglamento que regule esta prestación, sin comprometer la operación comercial y cuidando la inmediatez del servicio prestado.
 
-### CAPÍTULO PRIMERO. DEL INSTITUTO, DE SUS ATRIBUCIONES, PATRIMONIO Y ÓRGANOS
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+(REUBICADO [N. DE E. ANTES CAPITULO DECIMO TERCERO], P.O. 23 DE DICIEMBRE DE 2008)
+
+### CAPÍTULO DÉCIMO QUINTO. DEL RECONOCIMIENTO DE DERECHOS
 
 ###### Artículo 99.
 
@@ -751,11 +1117,19 @@ II.- Si la interrupción excediera de tres años, pero no de cinco, se le recono
 
 III.- Si el reingreso ocurre después de cinco años de interrupción, las cotizaciones anteriormente cubiertas se le acreditarán al reunir veinticuatro quincenas a partir de su nuevo aseguramiento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 100.
 
-En el caso de que el asegurado haya retirado las cuotas al separarse del servicio y reingrese al régimen de seguridad social, podrá solicitar por escrito que le sea reconocida la antigüedad que tenía al separarse. El Instituto reconocerá dicha antigüedad a la fecha en que el interesado reintegre el valor de la prestación obtenida al retirarse, a valor presente, actualizado conforme al Índice Nacional de Precios al Consumidor.
+En el caso de que el asegurado haya retirado las cuotas al separarse del servicio y reingrese al régimen de seguridad social, podrá solicitar por escrito que le sea reconocida la antigüedad que tenia al separarse. El Instituto reconocerá dicha antigüedad a la fecha en que el interesado reintegre el valor de la prestación obtenida al retirarse, a valor presente, actualizado conforme a la tasa de Interés que el fondo de pensiones haya obtenido desde la fecha que retiró la prestación hasta el momento en que ésta sea ingresada al Instituto.
 
-### CAPÍTULO SEGUNDO. DEL CONSEJO DIRECTIVO
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+(REUBICADO [N. DE E. ANTES CAPITULO DECIMO CUARTO], P.O. 23 DE DICIEMBRE DE 2008)
+
+### CAPÍTULO DÉCIMO SEXTO. DE LA CONTINUACIÓN VOLUNTARIA EN EL RÉGIMEN DE SEGURIDAD SOCIAL
 
 ###### Artículo 101.
 
@@ -767,9 +1141,13 @@ El asegurado cubrirá el importe de las cuotas y aportaciones referidas en los a
 
 El pago de las cuotas y aportaciones se hará por mensualidades anticipadas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 103.
 
-El derecho a continuar voluntariamente en el régimen de seguridad social, se pierde si no se ejercita mediante solicitud por escrito en un plazo de tres meses contados a partir de la fecha de la baja.
+El derecho a continuar voluntariamente en el régimen de seguridad social se pierde si no se ejercita mediante solicitud por escrito en un plazo de seis meses contados a partir de la fecha de la baja.
 
 ###### Artículo 104.
 
@@ -783,7 +1161,7 @@ III.- Ser dado de alta nuevamente en el régimen de seguridad social.
 
 ## TÍTULO TERCERO. DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO
 
-### CAPÍTULO TERCERO. DE LA COMISIÓN DE VIGILANCIA
+### CAPÍTULO PRIMERO. DEL INSTITUTO, DE SUS ATRIBUCIONES, PATRIMONIO Y ÓRGANOS
 
 ###### Artículo 105.
 
@@ -797,27 +1175,59 @@ III.- Invertir sus recursos e ingresos en los términos del artículo 75 de esta
 
 IV.- Celebrar contratos, convenios y demás actos jurídicos que se requieran para el cumplimiento de sus fines;
 
-V.- Adquirir los bienes muebles e inmuebles necesarios para el cumplimiento de sus funciones;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI.- Establecer órganos de operación administrativa desconcentrada;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
-VII.- Participar, por acuerdo del Consejo Directivo, en la constitución de fideicomisos, empresas o sociedades públicas o privadas, cuyo objeto permita el cumplimiento de los fines y atribuciones del Instituto;
+V.- Adquirir, arrendar y administrar los bienes muebles e inmuebles necesarios para el cumplimiento de sus funciones;
 
-VIII.- Inscribir a los trabajadores y registrar a los patrones;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IX.- Verificada la desaparición del supuesto que dio origen al aseguramiento, dar de baja del régimen a los asegurados, cuando se haya omitido presentar el aviso correspondiente;
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
-X.- Establecer los procedimientos de inscripción, cobro de cuotas y aportaciones, así como el otorgamiento de prestaciones;
+VI.- Arrendar, administrar y enajenar bienes muebles e inmuebles propiedad del Instituto destinados para el cumplimiento de sus fines, en términos de las disposiciones legales aplicables;
 
-XI.- Determinar los créditos a favor del Instituto y las bases para su liquidación en los términos de esta Ley;
+VII.- Establecer órganos de operación administrativa desconcentrada;
 
-XII.- Deducir del total de las cuotas que un trabajador tenga derecho a retirar, el monto de los adeudos que éste tenga con el Instituto;
+VIII.- Participar, por acuerdo del Consejo Directivo, en la constitución de fideicomisos, empresas o sociedades públicas o privadas, cuyo objeto permita el cumplimiento de los fines y atribuciones del Instituto;
 
-XIII.- Practicar las diligencias pertinentes para asegurar el correcto otorgamiento de las prestaciones que establece esta Ley;
+IX.- Inscribir a los trabajadores y registrar a los patrones;
 
-XIV.- Establecer la coordinación necesaria con las dependencias y entidades públicas, para el cumplimiento de los fines del Instituto; y
+X.- Verificada la desaparición del supuesto que dio origen al aseguramiento, dar de baja del régimen a los asegurados, cuando se haya omitido presentar el aviso correspondiente;
 
-XV.- Las demás que le otorguen esta Ley y sus reglamentos.
+XI.- Establecer los procedimientos de inscripción, cobro de cuotas y aportaciones, así como el otorgamiento de prestaciones;
+
+XII.- Determinar los créditos a favor del Instituto y las bases para su liquidación en los términos de esta Ley;
+
+XIII.- Deducir del total de las cuotas que un trabajador tenga derecho a retirar, el monto de los adeudos que éste tenga con el Instituto;
+
+XIV.- Practicar las diligencias pertinentes para asegurar el correcto otorgamiento de las prestaciones que establece esta Ley;
+
+XV.- Establecer la coordinación necesaria con las dependencias y entidades públicas, para el cumplimiento de los fines del Instituto;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA [N. DE E., REFORMADA], P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+XVI.- Realizar las obras de inversión inmobiliaria y servicios relacionados con la misma, en términos de las disposiciones legales aplicables;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+XVII.- Enajenar aquellos inmuebles que le sean adjudicados con motivo de la recuperación de créditos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+XVIII.- Invertir mediante asociación público-privada o por medio de convenciones públicas, arrendando, administrando o enajenando bienes inmuebles que adquiera o construya por medio de estos esquemas; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+XIX.- Las demás que le otorguen esta Ley y sus reglamentos.
 
 ###### Artículo 106.
 
@@ -855,7 +1265,7 @@ III.- El Director General.
 
 Ningún órgano o autoridad del Instituto estará facultado para conceder prestaciones adicionales a las establecidas por esta Ley, o tomar decisiones que, de acuerdo a los estudios financieros y actuariales correspondientes, perjudiquen la viabilidad financiera del Instituto.
 
-### CAPÍTULO CUARTO. DEL DIRECTOR GENERAL
+### CAPÍTULO SEGUNDO. DEL CONSEJO DIRECTIVO
 
 ###### Artículo 111.
 
@@ -885,7 +1295,11 @@ I.- Aprobar los planes y programas del Instituto;
 
 II.- Dictar los acuerdos necesarios para el debido otorgamiento de los seguros y prestaciones establecidas en la presente Ley;
 
-III.- Aprobar el Reglamento Interior del Instituto;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+III.- Aprobar los reglamentos del Instituto;
 
 IV.- Dictar cualquier acuerdo en los términos de esta Ley para conceder, negar, suspender, modificar y revocar las pensiones que la misma establece;
 
@@ -909,9 +1323,31 @@ XIII.- Vigilar y verificar el cumplimiento de las disposiciones de esta Ley;
 
 XIV.- Revisar, y en su caso aprobar, el contenido de los dictámenes financiero y actuarial del Instituto y acordar medidas para su mejor funcionamiento;
 
-XV.- Aprobar la contratación de los servicios de consultoría y asesoría externos, con el objeto de procurar el mejor cumplimiento de las atribuciones del Instituto y valorar el desempeño integral del mismo; y
+XV.- Aprobar la contratación de los servicios de consultoría y asesoría externos, con el objeto de procurar el mejor cumplimiento de las atribuciones del Instituto y valorar el desempeño integral del mismo; y (sic)
 
-XVI.- Las demás que se señalen en esta Ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+XVI.- Autorizar las adquisiciones y arrendamientos de bienes muebles e inmuebles, en términos de las disposiciones legales aplicables;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+XVII.- Autorizar las enajenaciones de los bienes inmuebles propiedad del Instituto;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+XVIII.- Autorizar las obras de inversión inmobiliaria y servicios relacionados con la misma, en términos de las disposiciones legales aplicables; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+XIX.- Las demás que se señalan en esta Ley.
 
 ###### Artículo 113.
 
@@ -933,13 +1369,23 @@ Las decisiones del Consejo Directivo serán por mayoría simple de los presentes
 
 En los asuntos a que se refieren las fracciones III, V, VIII, IX y X del artículo 112, las decisiones del Consejo se tomarán por mayoría calificada de las tres cuartas partes de los asistentes. De no llegar a un acuerdo, la decisión se fundará en el dictamen que emita un experto de la materia que se trate.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO TERCERO. DE LA COMISIÓN DE VIGILANCIA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 117.
 
-La Comisión de Vigilancia será el órgano interno de control del Instituto y estará compuesta por tres miembros que serán designados por el Consejo Directivo, uno a propuesta de los representantes de los asegurados y de los pensionistas y dos a propuesta de los otros integrantes del Consejo Directivo.
+La Comisión de Vigilancia será el órgano interno de control del Instituto y estará compuesta por cuatro miembros que serán designados por el Consejo Directivo, dos a propuesta de los representantes de los asegurados y de los pensionistas y dos a propuesta de los otros integrantes del Consejo Directivo.
 
 Los miembros de la Comisión de Vigilancia deberán contar con prestigio profesional y experiencia en actividades vinculadas con las atribuciones de la propia Comisión y del Instituto. Quienes tienen derecho a proponer a los miembros de esta Comisión, deben tener especial cuidado en que los propuestos cumplan el perfil señalado. Siempre el Consejo Directivo decidirá si acepta o no las proposiciones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+Los miembros de la Comisión serán nombrados para un periodo de cuatro años y podrán ser reelectos por una sola ocasión.
 
 ###### Artículo 118.
 
@@ -967,7 +1413,7 @@ VIII.- Evaluar el ejercicio del presupuesto asignado al Instituto, para establec
 
 IX.- Las demás que determinen las leyes.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO CUARTO. DEL DIRECTOR GENERAL
 
 ###### Artículo 120.
 
@@ -1017,6 +1463,8 @@ XXI.- Las demás establecidas en esta Ley y sus reglamentos.
 
 ## TÍTULO CUARTO. DE LOS PROCEDIMIENTOS, DE LA CADUCIDAD Y DE LA PRESCRIPCIÓN
 
+### CAPÍTULO ÚNICO
+
 ###### Artículo 121.
 
 Las resoluciones definitivas del Instituto podrán impugnarse a través del recurso de revisión ante el Consejo Directivo.
@@ -1040,6 +1488,8 @@ El derecho de los asegurados o sus beneficiarios para reclamar el pago periódic
 Los subsidios, indemnizaciones y pensiones derivados de un riesgo de trabajo, a cargo del Instituto, prescriben en tres años a partir del día en que se hubiere generado el derecho a su percepción.
 
 ## TÍTULO QUINTO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 125.
 
@@ -1160,3 +1610,29 @@ EL SUBSECRETARIO DE GOBIERNO
 Por ausencia del Secretario de Gobierno y con fundamento en el Artículo 66 del Reglamento Interior de la Secretaría de Gobierno.
 
 GERARDO LUIS RODRÍGUEZ OROZCO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE DICIEMBRE DE 2008.
+
+Artículo Primero.- El presente decreto iniciará su vigencia el 1 de enero de 2009, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- El porcentaje de cuotas a que se refiere el artículo 18 de este decreto, se alcanzará de la siguiente manera:
+
+Durante el primer año de vigencia la cuota será del 13%.
+
+Durante el segundo año de vigencia la cuota será del 14%.
+
+Durante el tercer año de vigencia la cuota será del 15%.
+
+Artículo Tercero.- El porcentaje de aportación a que se refiere el artículo 19 de este decreto, se alcanzará de la siguiente manera:
+
+Durante el primer año de vigencia la aportación será del 16%.
+
+Durante el segundo año de vigencia la aportación será del 17%.
+
+Durante el tercer año de vigencia la aportación será del 18%.
+
+A partir del cuarto año de vigencia la aportación será del 20%.
+
+Artículo Cuarto.- Dentro de los 30 días siguientes a la entrada en vigencia del presente decreto, el Consejo Directivo designará a dos integrantes de la Comisión de Vigilancia: uno a propuesta de los representantes de los asegurados y de los pensionistas, que se incorporará como cuarto integrante; y otro que sustituirá a uno de los actuales comisionados designados por la parte patronal, conforme al acuerdo que tome el Consejo Directivo. En el mes de enero de 2010 se designará y se sustituirá al comisionado que representa a los asegurados y pensionistas a la entrada en vigor de este decreto. En el mes de enero de 2011, deberá designarse y sustituirse al comisionado con mayor antigüedad en tal función que represente a la parte patronal.
