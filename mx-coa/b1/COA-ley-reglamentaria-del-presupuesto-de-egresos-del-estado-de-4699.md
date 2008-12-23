@@ -4,7 +4,7 @@ identifier: "COA-ley-reglamentaria-del-presupuesto-de-egresos-del-estado-de-4699
 country: "mx"
 rank: "ley"
 publication_date: "1975-07-02"
-last_updated: "2007-08-28"
+last_updated: "2008-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY REGLAMENTARIA DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 2 de julio de 1975.
 
@@ -255,9 +255,11 @@ Ningún acto o contrato que genere un gasto con cargo al Presupuesto, se conside
 
 Se prohibe el traspaso de dotación de partidas. En casos urgentes de conveniencia general a juicio del Ejecutivo, éste solicitará al Congreso del Estado autorice las transferencias pertinentes con la modalidad requerida.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 28.
 
-Las remuneraciones fijadas al personal que preste sus servicios al Gobierno del Estado, no podrán ser modificadas si no está previsto en el Presupuesto de Egresos respectivo.
+Las remuneraciones fijadas al personal que preste sus servicios al Gobierno del Estado, no podrán ser modificadas si no está previsto en el Presupuesto de Egresos respectivo, en la Ley o en los reglamentos inherentes.
 
 ###### ARTICULO 29.
 
@@ -392,3 +394,9 @@ P.O. 28 DE AGOSTO DE 2007.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Quedan derogadas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
