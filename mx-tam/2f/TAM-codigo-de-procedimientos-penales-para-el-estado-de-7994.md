@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2008-11-25"
+last_updated: "2008-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 2008.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 25 DE NOVIEMBRE DE 2008 NO APLICA AL ARTICULADO DEL DECRETO LIX-924 PUBLICADO EN EL P.O. DE 17 DE SEPTIEMBRE DE 2008.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -115,7 +113,7 @@ IX.- Conceder y en su caso revocar o negar el beneficio de la libertad provision
 
 > <small>(REFORMADA, P.O. 10 DE JULIO 2003)</small>
 
-X.- Procurar la conciliación entre el ofendido o la victima y el inculpado, en los delitos que se persiguen por querella necesaria, y en los perseguibles de oficio cuando el perdón del ofendido o la victima sea causa de extinción de la acción penal; y
+X.- Procurar la conciliación entre el ofendido o la víctima y el inculpado, en los delitos que se persiguen por querella necesaria, y en los perseguibles de oficio cuando el perdón del ofendido o la victima sea causa de extinción de la acción penal; y
 
 (ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)(F. DE E., P.O. 24 DE JULIO DE 2003)
 
@@ -1209,13 +1207,13 @@ En caso de muerte practicarán, además de la autopsia del cadáver, el análisi
 
 En caso de aborto, se procederá como previenen los Artículos anteriores para el homicidio. Reconocerán los peritos a la madre, describirán las lesiones que presentaren ella y el producto y si fueron causa del aborto expresando la edad de la víctima. En el caso del Artículo 354 del Código Penal, dictaminarán sobre la viabilidad de la víctima.
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 149 Bis.
 
-Para integrar los elementos del tipo tratándose de violencia intrafamiliar deberán de acreditarse las calidades específicas y circunstancias de los sujetos pasivos señalados en los artículos 368 bis y 368 ter del Código Penal para el Estado de Tamaulipas, además de agregarse a la averiguación los dictámenes correspondientes de los peritos en el área de salud física y mental, según lo contemplan los artículos 129, 130 y 157 del presente Código.
+Para integrar los elementos del tipo tratándose de violencia familiar deberán de acreditarse las calidades específicas y circunstancias de los sujetos pasivos señalados en los artículos 368 bis y 368 ter del Código Penal para el Estado de Tamaulipas, además de agregarse a la averiguación los dictámenes correspondientes de los peritos en el área de salud física y mental, según lo contemplan los artículos 129, 130 y 157 del presente Código.
 
-Los profesionales que presten sus servicios en las instituciones legalmente constituidas, especializadas en atención de problemas relacionados con la violencia intrafamiliar, podrán colaborar, en calidad de peritos y sus informes deberán rendirse por escrito.
+Los profesionales que presten sus servicios en las instituciones legalmente constituidas, especializadas en atención de problemas relacionados con la violencia familiar, podrán colaborar, en calidad de peritos y sus informes deberán rendirse por escrito.
 
 ###### ARTICULO 150.
 
@@ -4476,3 +4474,9 @@ Los recursos humanos, financieros y materiales adscritos a la Dirección de la D
 ###### ARTICULO TERCERO.
 
 Conforme a las disposiciones del presente Decreto, dentro de los seis meses posteriores a su entrada en vigor, el Ejecutivo del Estado procederá a la realización del programa de reforma y reestructuración de los servicios de defensoría pública, incluidas las cuestiones de selección, remuneraciones y equipamiento de los defensores públicos.
+
+P.O. 23 DE DICIEMBRE DE 2008.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado
