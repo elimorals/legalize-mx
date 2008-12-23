@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-estatal-del-valle-de-4520
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-02"
-last_updated: "2005-06-02"
+last_updated: "2008-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE ENERO DE 2009 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 2 de junio de 2005.
 
@@ -143,11 +145,21 @@ IV. Dirección de Licenciatura en Acupuntura Médica y Rehabilitación Integral.
 
 V. Dirección de Licenciatura en Gerontología.
 
-VI. Dirección de Promoción Educativa y Vinculación.
+> <small>(REFORMADA, G.G. 23 DE DICIEMBRE DE 2008)</small>
 
-VII. Abogado General.
+VI. Dirección de Ingeniería en Comunicación Multimedia.
 
-VIII. Contraloría Interna.
+> <small>(REFORMADA, G.G. 23 DE DICIEMBRE DE 2008)</small>
+
+VII. Dirección de Promoción Educativa y Vinculación.
+
+> <small>(REFORMADA, G.G. 23 DE DICIEMBRE DE 2008)</small>
+
+VIII. Abogado General.
+
+> <small>(ADICIONADA, G.G. 23 DE DICIEMBRE DE 2008)</small>
+
+IX. Contraloría Interna.
 
 La Universidad contará con las demás unidades administrativas que le sean autorizadas cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización del Organismo; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
 
@@ -195,9 +207,11 @@ XVI. Las demás que les confieren otras disposiciones legales y aquellas que les
 
 ### CAPITULO V. DE LAS SECRETARIAS, DIRECCIONES, ABOGADO GENERAL Y CONTRALORIA INTERNA
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 14.
 
-A la Secretaría Académica le corresponde planear, coordinar, dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las licenciaturas en quiropráctica, en acupuntura médica y rehabilitación integral y gerontología, así como coordinar los servicios escolares y bibliotecarios de la Universidad.
+A la Secretaría Académica le corresponde planear, coordinar, dirigir, controlar y evaluar los planes y programas académicos y de investigación de las licenciaturas en: quiropráctica, acupuntura médica y rehabilitación integral, gerontología, así como ingeniería en comunicación multimedia, y coordinar los servicios escolares y bibliotecarios de la Universidad.
 
 Quedan adscritas a la Secretaría Académica:
 
@@ -206,6 +220,10 @@ I. Dirección de Licenciatura en Quiropráctica.
 II. Dirección de Licenciatura en Acupuntura Médica y Rehabilitación Integral.
 
 III. Dirección de Licenciatura en Gerontología.
+
+> <small>(ADICIONADA, G.G. 23 DE DICIEMBRE DE 2008)</small>
+
+IV. Dirección de Ingeniería en Comunicación Multimedia.
 
 ###### Artículo 15.
 
@@ -279,41 +297,43 @@ XVI. Promover la modernización y el mejoramiento administrativo de la Universid
 
 XVII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Rector o el Consejo Directivo.
 
+> <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 18.
 
-Corresponde a las Direcciones de Licenciatura, en el ámbito de su competencia:
+Corresponde a las Direcciones de carrera, en el ámbito de su competencia:
 
-I. Diseñar y someter a la consideración del Secretario Académico los planes y programas de estudio de la licenciatura a su cargo y ejecutarlos.
+I. Diseñar y someter a la consideración del Secretario Académico los planes y programas de estudio de la Dirección a su cargo y llevar a cabo su ejecución.
 
-II. Promover la superación académica de profesores y alumnos de la licenciatura a su cargo.
+II. Promover la superación académica de los profesores y alumnos de la Dirección a su cargo.
 
-III. Proponer al Secretario Académico mecanismos y lineamientos para integrar la planta docente de la licenciatura a su cargo.
+III. Proponer al Secretario Académico mecanismos y lineamientos para integrar la planta docente de la Dirección a su cargo.
 
-IV. Realizar investigaciones relacionadas con la carrera a su cargo, así como aplicar nuevas técnicas de enseñanza, que permitan fortalecer el proceso de enseñanza aprendizaje.
+IV. Realizar investigaciones relacionadas con la carrera a su cargo, así como aplicar nuevas técnicas de enseñanza que permitan fortalecer el proceso de enseñanza aprendizaje.
 
-V. Fomentar la celebración de convenios de intercambio académico con los sectores público, social y privado, nacionales o extranjeros, vinculados con funciones de la licenciatura a su cargo.
+V. Fomentar la celebración de convenios de intercambio académico con los sectores público, social y privado, nacionales o extranjeros, vinculados con las materias académicas de la Dirección a su cargo.
 
-VI. Impulsar la cultura de calidad y excelencia académica en la licenciatura a su cargo.
+VI. Impulsar la cultura de calidad y excelencia académica y en las funciones que realiza la Dirección a su cargo.
 
-VII. Evaluar la matrícula de la licenciatura a su cargo.
+VII. Evaluar la matrícula de la Dirección a su cargo.
 
-VIII. Proponer sistemas para la admisión de alumnos a la Universidad y vigilar su permanencia en la licenciatura a su cargo.
+VIII. Proponer sistemas para la admisión de alumnos a la Universidad y vigilar su permanencia en la Dirección a su cargo.
 
-IX. Apoyar la realización de prácticas profesionales y servicio social de los alumnos inscritos en la licenciatura a su cargo.
+IX. Apoyar la realización de prácticas profesionales y servicio social de los alumnos inscritos en la Dirección a su cargo.
 
-X. Participar en la definición del perfil del personal académico de la licenciatura a su cargo.
+X. Participar en la definición del perfil del personal académico de la Dirección a su cargo.
 
-XI. Proponer al Secretario Académico la realización de eventos orientados al cumplimiento del objetivo de la licenciatura a su cargo.
+XI. Proponer al Secretario Académico la realización de estrategias y acciones orientadas al cumplimiento del objetivo de la Dirección a su cargo.
 
-XII. Llevar el seguimiento y control de los asuntos académicos y administrativos de la licenciatura a su cargo, informando de ello al Secretario Académico.
+XII. Llevar el seguimiento y control de los asuntos académicos y administrativos de la Dirección a su cargo, informando de ello al Secretario Académico.
 
-XIII. Evaluar el desempeño profesional de los docentes de la licenciatura a su cargo e informar los resultados al Secretario Académico.
+XIII. Evaluar el desempeño profesional de los docentes de la Dirección a su cargo e informar los resultados al Secretario Académico.
 
-XIV. Fomentar la titulación de los alumnos de la licenciatura a su cargo, en coordinación con la unidad administrativa correspondiente.
+XIV. Fomentar la titulación de los alumnos de la Dirección a su cargo, en coordinación con la unidad administrativa correspondiente.
 
-XV. Proponer al Secretario Académico estrategias para elevar la calidad de los servicios educativos que proporciona la licenciatura a su cargo.
+XV. Proponer al Secretario Académico estrategias para elevar la calidad de los servicios educativos que proporciona la Dirección a su cargo.
 
-XVI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario Académico y el Rector.
+XVI. Las demás que les confieren otras disposiciones legales y aquellas que les encomiende el Secretario Académico y el Rector.
 
 ###### Artículo 19.
 
@@ -371,7 +391,9 @@ III. Intervenir en los concursos de adquisiciones cuando la normatividad así lo
 
 IV. Vigilar el cumplimiento de las disposiciones en materia de racionalidad, austeridad y disciplina presupuestaria que fija la normatividad aplicable.
 
-V. Recibir los recursos administrativos de inconformidad que se interpongan en contra de las resoluciones que emita este órgano de control interno, y remitirlos a la Dirección General de Responsabilidades y Situación Patrimonial, para su resolución.
+> <small>(REFORMADA, G.G. 23 DE DICIEMBRE DE 2008)</small>
+
+V. Recibir los recursos administrativos de inconformidad que se interpongan en contra de las resoluciones que emita este órgano de control interno, y remitirlos a la Dirección General de Responsabilidades para su resolución.
 
 VI. Proponer al Rector la aplicación de normas complementarias en materia de control.
 
@@ -393,7 +415,9 @@ La Comisión Académica estará integrada por:
 
 I. El Secretario Académico, quien la preside.
 
-II. Los directores de licenciatura.
+> <small>(REFORMADA, G.G. 23 DE DICIEMBRE DE 2008)</small>
+
+II. Los directores de carrera.
 
 III. El Jefe del Departamento de Servicios Escolares.
 
@@ -419,9 +443,11 @@ La Comisión y las subcomisiones que se integren tendrán a su cargo las funcion
 
 El Rector será suplido en sus ausencias temporales por quien designe el Consejo Directivo.
 
+> <small>(REFORMADA, G.G. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 26.
 
-Los secretarios y directores de división serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que aquellos designen. En las mayores de 15 días, por quien designe el Consejo Directivo.
+Los secretarios y los directores de carrera serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por quien designe el Consejo Directivo.
 
 ###### Artículo 27.
 
@@ -448,3 +474,13 @@ MTRO. ISMAEL SAENZ VILLA
 RECTOR DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+G.G. 23 DE DICIEMBRE DE 2008.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor el día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
