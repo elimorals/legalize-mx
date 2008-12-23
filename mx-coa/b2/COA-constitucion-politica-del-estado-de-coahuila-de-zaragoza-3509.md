@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2008-07-11"
+last_updated: "2008-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -660,11 +660,11 @@ Para proceder contra los Diputados que incurran en responsabilidad política, pe
 
 Nadie puede excusarse de servir el cargo de Diputado sino por causa bastante, a juicio del Congreso.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 42.
 
-Los Diputados recibirán una remuneración por el desempeño de su cargo, la cual se determinará conforme a lo dispuesto en el Título Séptimo de esta misma Constitución.
+Los Diputados recibirán una remuneración por el desempeño de su cargo, la cual se determinará conforme a lo dispuesto en el Título Octavo de esta misma Constitución.
 
 ###### Artículo 43.
 
@@ -2756,17 +2756,25 @@ En el caso de no aprobarse alguna de las leyes de ingresos, continuarán en vigo
 
 III. El Congreso del Estado revisará y fiscalizará por conducto de la Auditoria Superior del Estado, las cuentas públicas de los Municipios, en los términos de las disposiciones aplicables. El Congreso del Estado en coordinación con los municipios garantizará la disposición de la información de la cuenta pública municipal a la comunidad en general, a través de instrumentos confiables, oportunos y transparentes;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE DICIEMBRE DE 2008) (F. DE E., P.O. 10 DE ABRIL DE 2009)
 
 IV. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles y de acuerdo a la programación de sus actividades gubernamentales y administrativas, observando para tal efecto las disposiciones aplicables.
 
+> <small>(F. DE E., P.O. 10 DE ABRIL DE 2009)</small>
+
 El Ayuntamiento deberá aprobar en el presupuesto de egresos del ejercicio las partidas necesarias para solventar las obligaciones incurridas en ejercicios anteriores y pagaderos en dicho ejercicio:
+
+> <small>(F. DE E., P.O. 10 DE ABRIL DE 2009)</small>
 
 a) Que constituyan deuda pública del Ayuntamiento o de las entidades paramunicipales que cuenta con la garantía del Ayuntamiento o del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, y
 
+> <small>(F. DE E., P.O. 10 DE ABRIL DE 2009)</small>
+
 b) Que se deriven de contratos para proyectos para prestación de servicios aprobados por el Ayuntamiento conforme a las leyes aplicables.
 
-El ejercicio presupuestal del Municipio deberá ajustarse a los principios de honestidad, legalidad, optimización de recursos, racionalidad e interés público y social.
+> <small>(F. DE E., P.O. 10 DE ABRIL DE 2009)</small>
+
+El ejercicio presupuestal del Municipio deberá ajustarse a los principios de honestidad, legalidad, optimización de recursos, racionalidad e interés público y social. No se otorgarán remuneraciones, pagos o percepciones distintas a su ingreso establecido en el presupuesto de egresos al Presidente Municipal, Regidores y Síndicos, a los integrantes de los Concejos Municipales. La infracción hace responsable solidariamente, por su devolución, a la autoridad que ordene el pago de la percepción extraordinaria; al servidor público que lo ejecute y al que lo reciba, sin perjuicio de la responsabilidad establecida por la ley de la materia.
 
 V. El Ayuntamiento manejará prudentemente el patrimonio municipal conforme a la ley.
 
@@ -3330,11 +3338,17 @@ El Gobernador, al tomar posesión de su cargo, protestará ante el Congreso bajo
 
 Las personas que desempeñen un cargo público lo harán solo por el término para que fueren nombradas, incurriendo en responsabilidad si expirado el período, continúan sirviendo dicho cargo y siendo además nulos todos los actos que ejecutaren con posterioridad a aquel término.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+(ADICIONADO [N. DE E. REFORMADO], P.O. 23 DE DICIEMBRE DE 2008
 
 ###### Artículo 187.
 
-El Gobernador del Estado; los Diputados Locales; los Magistrados del Tribunal Superior de Justicia; los Presidentes, Regidores y Síndicos de los Ayuntamientos; y los demás servidores públicos Estatales y Municipales, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual y equitativamente en el Presupuesto de Egresos del Estado, los Presupuestos de Egresos de los Municipios y en los Presupuestos de las entidades paraestatales y paramunicipales según corresponda.
+Los servidores públicos Estatales y Municipales, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual y equitativamente en el Presupuesto de Egresos del Estado, los Presupuestos de Egresos de los Municipios y en los Presupuestos de las entidades paraestatales y paramunicipales según corresponda,
+
+Quienes ocupen un cargo de elección popular, o de representación proporcional no podrán recibir remuneraciones, pagos o percepciones distintas a su ingreso establecido en el presupuesto de egresos.
+
+La infracción hace responsable solidariamente, por su devolución, a la autoridad que ordene el pago de la percepción extraordinaria; al servidor público que lo ejecute y al que lo reciba.
+
+Sin perjuicio de lo dispuesto en el párrafo anterior, la ley de la materia establecerá las responsabilidades y sanciones en que incurran las autoridades que entreguen percepciones no autorizadas en el presupuesto respectivo y la de los servidores públicos que las reciban.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -3652,7 +3666,7 @@ P.O. 16 DE MAYO DE 1951.
 
 ###### ARTICULO SEGUNDO
 
-- " " A fin de dar cumplimiento a lo dispuesto en el Artículo 142 de la Constitución Política Local, los Magistrados que se designen para iniciar sus labores el 1o. de Diciembre de 1953, durarán cuatro años en el ejercicio de su encargo"" (sic).
+-" " A fin de dar cumplimiento a lo dispuesto en el Artículo 142 de la Constitución Política Local, los Magistrados que se designen para iniciar sus labores el 1o. de Diciembre de 1953, durarán cuatro años en el ejercicio de su encargo"" (sic).
 
 P.O. 28 DE JULIO DE 1954.
 
@@ -4161,3 +4175,9 @@ P.O. 11 DE JULIO DE 2008.
 PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
