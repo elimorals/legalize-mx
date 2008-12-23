@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-transporte-de-la-ley-de-transito-y-transporte-495
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-28"
-last_updated: "2008-04-08"
+last_updated: "2008-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE TRANSPORTE DE LA LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 28 de febrero de 2006.
 
@@ -1601,9 +1601,15 @@ VII. Original de póliza de seguro vigente o del certificado de garantía, con l
 
 VIII. Las tarifas vigentes en un lugar visible;
 
-IX. Bitácora de verificación del sistema de combustión, para el caso de los vehículos que utilicen gas licuado de petróleo o gas natural como combustible; y
+IX. Bitácora de verificación del sistema de combustión, para el caso de los vehículos que utilicen gas licuado de petróleo o gas natural como combustible; y (sic)
 
-X. Tratándose del servicio público foráneo además de lo anteriormente señalado deberán llevar los horarios e itinerarios, y en su caso, enrolamientos y autorización de publicidad.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+X. Autorización de publicidad, en su caso; y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+XI. Tratándose del servicio público foráneo, además de lo anteriormente señalado, deberán llevar los horarios e itinerarios, y en su caso, enrolamientos.
 
 ###### Artículo 146.
 
@@ -2153,15 +2159,27 @@ Queda estrictamente prohibido el uso de los colores asignados para el transporte
 
 Queda prohibido colocar en el interior o exterior del vehículo numeración distinta al número económico asignado otorgado por la Dirección General.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 203.
 
-Los vehículos en los que se preste el servicio público de transporte de personas en su modalidad de foráneo, turístico y de alquiler sin ruta fija, podrán utilizar publicidad en el interior y exterior del mismo, la cual no podrá contener mensajes o imágenes contrarios a la moral y a las buenas costumbres, ni que atenten contra la vida privada de las personas o de la paz pública, ni propaganda alusiva a los partidos políticos.
+Los vehículos en los que se preste el servicio público de transporte de personas en su modalidad de foráneo, turístico y de alquiler sin ruta fija, así como el servicio especial de transporte, podrán utilizar, previa autorización de la Dirección General, publicidad en el interior y exterior de los mismos.
+
+La publicidad deberá ajustarse a los términos y condiciones que determine la Dirección General y no podrá contener mensajes o imágenes contrarios a la moral, a las buenas costumbres, que atenten contra la vida privada de las personas o de la paz pública, o que afecten la imagen urbana.
+
+Para efecto de la autorización de publicidad, la Dirección General deberá solicitar la opinión de la autoridad municipal competente, la que podrá manifestarse en los términos de lo establecido, en su caso, en la normatividad municipal aplicable.
+
+Los concesionarios y permisionarios que reciban autorización para utilizar publicidad en los vehículos con que se preste el servicio, deberán colaborar con las campañas de información de programas gubernamentales, en los términos de la autorización otorgada y conforme a los lineamientos que para tal efecto emita la Dirección General, acordes a la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 204.
 
-Queda prohibido el uso de publicidad mediante aditamentos salientes adheridos a los costados, cofre, toldo o cajuela de los vehículos del servicio público de transporte de personas.
+Queda prohibido el uso de publicidad mediante aditamentos salientes adheridos a los costados, cofre o cajuela de los vehículos del servicio público y especial de transporte.
 
-En ningún caso la publicidad a instalar deberá obstruir la visibilidad del chofer, ni ocultar total o parcialmente el número económico, placas de circulación, ni demás signos de identificación del vehículo.
+En el caso de portación de publicidad mediante aditamento adherido al toldo del vehículo, la Dirección General evaluará y en su caso, autorizará la forma y condiciones de seguridad en cuanto a la fijación o instalación de los aditamentos.
+
+En ningún caso la publicidad deberá obstruir la visibilidad interior y exterior, ni desvirtuar las características que identifiquen a las unidades vehiculares del servicio público y especial de transporte, tales como número económico, placas de circulación, cromática y demás signos de identificación del vehículo.
 
 ### CAPÍTULO SÉPTIMO. REGISTRO DE EMPRESAS TRANSPORTISTAS
 
