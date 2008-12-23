@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-6055
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-03-07"
-last_updated: "2008-09-26"
+last_updated: "2008-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 7 de marzo de 2008.
 
@@ -279,9 +279,11 @@ Todos los diputados gozan del fuero que les confiere la Constitución Política 
 
 Los diputados tendrán los derechos y obligaciones que se señalan en ésta ley, mismos que serán efectivos desde el inicio del periodo legislativo para el que fueron electos. Asimismo, observarán las disposiciones sobre ética y disciplina parlamentaria y, en su caso, estarán sujetos a las medidas disciplinarias que se establecen en este ordenamiento.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 38.
 
-Los diputados en ejercicio percibirán la retribución que el presupuesto de egresos les asigne por concepto de dieta; así como las prestaciones y viáticos que les permitan desempeñar con decoro y eficacia su función.
+Los Diputados en ejercicio percibirán la retribución que el Presupuesto de Egresos les asigne por concepto de dieta; así como las prestaciones y viáticos que les permitan desempeñar con decoro y eficacia su función. En ningún caso podrán percibir, durante su encargo o al finalizar este, retribuciones no autorizadas de manera expresa en el Presupuesto de Egresos, cualquiera que sea su denominación.
 
 ###### ARTÍCULO 39.
 
@@ -819,15 +821,19 @@ VIII. Elaborar el proyecto de presupuesto anual de egresos del Congreso y somete
 
 IX. Ejercer el Presupuesto Anual de Egresos aprobado por el Pleno del Congreso, al autorizarse el presupuesto general de egresos del Estado;
 
-X. Informar trimestralmente a la Junta de Gobierno, sobre el estado que guardan las finanzas del Congreso;
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
-XI. Coadyuvar en la realización de las funciones de las comisiones permanentes y especiales y de los comités;
+X. Proponer, con autorización del Pleno, que los subejercicios presupuestales se destinen, a propuesta del Presidente de la Junta de Gobierno, al fortalecimiento y al mejor desarrollo del trabajo legislativo, excluyendo todo tipo de percepciones personales, o bien manteniéndolo en la Tesorería del Congreso del Estado;
 
-XII. Convocar a sesiones de la Junta de Gobierno.
+XI. Informar trimestralmente a la Junta de Gobierno, sobre el estado que guardan las finanzas del Congreso;
 
-XIII. Firmar las minutas de las sesiones y las comunicaciones de la Junta de Gobierno; y
+XII. Coadyuvar en la realización de las funciones de las comisiones permanentes y especiales y de los comités;
 
-XIV. Las demás que le confiera esta ley y sus reglamentos.
+XIII. Convocar a sesiones de la Junta de Gobierno;
+
+XIV. Firmar las minutas de las sesiones y las comunicaciones de la Junta de Gobierno; y
+
+XV. Las demás que le confiera esta ley y sus reglamentos.
 
 ###### ARTÍCULO 89.
 
@@ -2780,3 +2786,9 @@ P.O. 26 DE SEPTIEMBRE DE 2008.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
