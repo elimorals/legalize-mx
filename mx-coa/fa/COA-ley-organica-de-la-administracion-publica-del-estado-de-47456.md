@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-47456"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-12-07"
-last_updated: "2008-09-26"
+last_updated: "2008-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2008.
 
 Ley publicada en Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 7 de diciembre de 2005.
 
@@ -529,7 +529,9 @@ XIX. Dirigir la negociación y llevar el registro y control de la deuda pública
 
 XX. Custodiar y concentrar los fondos y valores financieros del Gobierno del Estado;
 
-XXI. Administrar las erogaciones conforme al presupuesto de egresos y de la legislación respectiva;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+XXI. Administrar las erogaciones conforme al presupuesto de egresos y de la legislación respectiva; en consecuencia, no podrá autorizar el pago de percepciones extraordinarias, remuneraciones o percepciones distintas a su ingreso establecido en el presupuesto de egresos, a los servidores públicos estatales que ocupen un cargo de elección popular;
 
 XXII. Representar al fisco del Estado;
 
@@ -1536,3 +1538,9 @@ P.O. 26 DE SEPTIEMBRE DE 2008.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
