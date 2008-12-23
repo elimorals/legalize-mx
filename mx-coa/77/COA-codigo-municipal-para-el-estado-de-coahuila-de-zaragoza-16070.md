@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2008-02-08"
+last_updated: "2008-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -309,9 +309,11 @@ Las comisiones son órganos compuestos por miembros del Ayuntamiento y tienen po
 
 Los miembros del Ayuntamiento deberán cumplir con las funciones que les señala la Constitución Política del Estado, el presente Código y los demás ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 38.
 
-El cargo de munícipe, es obligatorio pero no gratuito. El Ayuntamiento, al elaborar su presupuesto de egresos, deberá señalar las partidas que correspondan a las dietas que deben los munícipes percibir por el desempeño de sus funciones.
+El cargo de munícipe, es obligatorio pero no gratuito. El Ayuntamiento, al elaborar su presupuesto de egresos, deberá señalar las partidas que correspondan a las dietas que deben los munícipes percibir por el desempeño de sus funciones, observando en todo caso lo dispuesto por el artículo 103 fracción IV de este ordenamiento.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -913,6 +915,10 @@ V. En materia de hacienda pública municipal:
 
 1. Administrar libremente su hacienda y controlar la aplicación del presupuesto de egresos del municipio, estableciendo un órgano de funciones de control y evaluación del gasto público municipal.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+Al concluir el último ejercicio presupuestal, del período constitucional, los subejercicios presupuestales, excedentes, ahorros, economías o ingresos extraordinarios se aplicarán preferentemente para cubrir pasivos municipales o mantenerse en caja, observándose en todo caso lo dispuesto en la fracción IV del artículo 103 de este ordenamiento.
+
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
 
 2. Discutir, analizar y someter a la aprobación del Congreso del Estado, a más tardar el 31 de octubre de cada año, la iniciativa de Ley de Ingresos correspondiente a cada ejercicio fiscal.
@@ -987,7 +993,9 @@ II. Gravar el tránsito o la salida de mercancías.
 
 III. Imponer contribuciones que no estén establecidas en la Ley de Ingresos Municipales.
 
-IV. Distraer los recursos municipales a fines distintos de los señalados por las leyes y por el presupuesto de egresos aprobado.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+IV. Distraer los recursos municipales a fines distintos de los señalados por las leyes y por el presupuesto de egresos aprobado. No se podrá modificar el presupuesto de egresos para otorgar remuneraciones, pagos o percepciones distintas a su ingreso establecido en el mismo, al Presidente Municipal, Regidores, Síndicos y a los integrantes de los Concejos Municipales.
 
 V. Condonar pagos de contribuciones.
 
@@ -4114,3 +4122,9 @@ P.O. 8 DE FEBRERO DE 2008.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales que se opongan al presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
