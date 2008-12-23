@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transporte-del-estado-de-tamaulipas-23644"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-12"
-last_updated: "2007-07-04"
+last_updated: "2008-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 12 de febrero de 2002.
 
@@ -376,6 +376,10 @@ Se considerará también servicio sujeto a la regulación de esta ley el que se 
 ###### ARTÍCULO 27.
 
 La prestación del servicio se regirá por los principios de legalidad, libre competencia, regularidad, igualdad, calidad y eficacia.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+No podrán establecerse preferencias o discriminación alguna respecto a los solicitantes del servicio, tales como la exclusión a personas con discapacidad ó invidentes acompañados de perros guía.
 
 ###### ARTÍCULO 28.
 
@@ -1468,5 +1472,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 4 DE JULIO DE 2007.
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2008.
+
+###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
