@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "2007-08-01"
+last_updated: "2008-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -3131,9 +3131,15 @@ I.- Sólo los Jueces de Primera Instancia pueden decretar la separación de que 
 
 II.- La solicitud puede ser escrita o verbal, en ella se señalarán las causas en que se funda, el domicilio, en que se desea habitar, la existencia de hijos menores y las demás circunstancias del caso.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO No. LX-63, PUBLICADO EN EL P.O. DE 23 DE DICIEMBRE DE 2008, LA PRESENTE FRACCION QUEDA CONFORMADA POR DOS PARRAFOS.</small>
+
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
 
-III.- El juez podrá practicar las diligencias que a su criterio sean necesarias, antes de dictar la resolución. En el caso de violencia intrafamiliar tomará en cuenta los dictámenes, informes y opiniones que hubieren realizado las instituciones públicas o privadas dedicadas a atender asuntos de esta índole.
+III.- El juez podrá practicar las diligencias que a su criterio sean necesarias, antes de dictar la resolución.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+En el caso de violencia familiar tomará en cuenta los dictámenes, informes y opiniones que hubieren realizado las instituciones públicas o privadas dedicadas a atender asuntos de esta índole.
 
 IV.- Presentada la solicitud, el Juez sin más trámite resolverá sobre su procedencia y si la concediere, dictará las disposiciones pertinentes para que se efectúe materialmente la separación, atendiendo a las circunstancias de cada caso en particular.
 
@@ -7466,3 +7472,9 @@ Los procedimientos civiles que sean competencia de los jueces de paz conforme a 
 ###### ARTICULO CUARTO.
 
 Al entrar en vigor este ordenamiento, se decretará el sobreseimiento de los procedimientos penales relacionados con hechos que sean competencia de los jueces de paz conforme a la misma, sin perjuicio del derecho de las víctimas u ofendidos por esos hechos de presentar su demanda ante el Juez de Paz competente. Tanto el ministerio público, como la autoridad judicial que vinieran conociendo de esos expedientes brindarán orientación a las víctimas u ofendidos sobre el contenido y alcances de la Ley de Justicia de Paz para el Estado y la forma de presentar el asunto al juez de paz competente.
+
+P.O. 23 DE DICIEMBRE DE 2008.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado
