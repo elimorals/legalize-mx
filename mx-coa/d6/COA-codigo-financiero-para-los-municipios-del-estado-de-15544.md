@@ -4,7 +4,7 @@ identifier: "COA-codigo-financiero-para-los-municipios-del-estado-de-15544"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-23"
-last_updated: "2008-02-08"
+last_updated: "2008-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 23 de julio de 1999.
 
@@ -2006,6 +2006,14 @@ El gasto público municipal se ejercerá de acuerdo con el presupuesto de egreso
 ###### ARTÍCULO 256.
 
 Ningún egreso podrá efectuarse sin que exista partida de gasto en el presupuesto de egresos y que tenga saldo suficiente para cubrirlo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+Queda prohibido a los servidores públicos municipales obtener o tratar de obtener por el desempeño de su función, beneficios adicionales a las prestaciones que conforme al Presupuesto les deban corresponder.
+
+ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)
+
+La infracción a esta norma sujetará a los responsables a la devolución de lo que indebidamente percibieron, sin perjuicio de que puedan hacerse efectivas en su contra las demás sanciones prescritas por la ley.
 
 #### SECCIÓN I. DE LOS PAGOS EN GENERAL
 
@@ -4320,3 +4328,9 @@ P.O. 8 DE FEBRERO DE 2008.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales que se opongan al presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
