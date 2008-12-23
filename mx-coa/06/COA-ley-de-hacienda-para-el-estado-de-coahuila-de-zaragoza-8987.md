@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-8987"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "2007-12-28"
+last_updated: "2008-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
@@ -265,11 +265,19 @@ Los automóviles, camiones y demás vehículos de motor transmitidos o adquirido
 
 OBJETO
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 21.
 
 Es objeto de este impuesto, la realización de erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado de Coahuila, bajo la dirección y dependencia de un patrón, independientemente de la designación que se les otorgue.
+
+Para los efectos del presente artículo, se asimilan a éstos, lo siguiente:
+
+I.- Los rendimientos, anticipos, excedentes, fondos de reserva, previsión social, ayudas para educación y alimentación, que obtengan los miembros de las sociedades cooperativas de producción, así como los anticipos que reciban los miembros de sociedades y asociaciones civiles.
+
+II.- Los honorarios o percepciones de cualquier índole a miembros de consejos directivos, de vigilancia, consultivos o de cualquier otra índole, así como los honorarios a administradores, comisarios y gerentes generales, durante la vigencia de su administración.
+
+III.- Los honorarios a personas que presten servicios preponderantemente a un prestatario, siempre que los mismos se lleven a cabo en las instalaciones de este último.
 
 SUJETO
 
@@ -279,9 +287,11 @@ Son sujetos de este impuesto, las personas físicas y morales que realicen las e
 
 BASE
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 23.
 
-Es base de este impuesto, el monto total de las erogaciones realizadas por concepto de remuneraciones al trabajo personal subordinado, los cuales comprenden: los pagos hechos en efectivo por cuota diaria, y las gratificaciones, percepciones, alimentación, habitación, primas, comisiones, prestaciones en especie y cualquier otra cantidad que se entregue al trabajador por sus servicios.
+Es base de este impuesto, el monto total de las erogaciones realizadas por concepto de remuneraciones al trabajo personal subordinado, los cuales comprenden: los pagos hechos en efectivo por cuota diaria, y las gratificaciones, percepciones, alimentación, habitación, primas, comisiones, prestaciones en especie y cualquier otra cantidad que se entregue al trabajador por sus servicios, además de los conceptos asimilables a que se refiere el Artículo 21 de este Título.
 
 BASE
 
@@ -303,19 +313,19 @@ El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de rent
 
 Cuando los contribuyentes cuenten con sucursales en diversos municipios del Estado, deberán presentar declaración en cada municipio en que se encuentren ubicadas las sucursales. En aquellos casos en que no exista oficina recaudadora de rentas en el municipio de que se trate, las declaraciones podrán ser presentadas en las instituciones de crédito o establecimientos autorizados más cercanos al domicilio del contribuyente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 27.
 
-Los contribuyentes podrán optar por pagar en la declaración del mes de enero el impuesto correspondiente a todo el ejercicio fiscal, siempre y cuando, el monto de lo pagado en el ejercicio anterior, no haya excedido de la cantidad de $30,000.000 (TREINTA MIL PESOS 00/100 M.N.).
+Los contribuyentes podrán optar por pagar en la declaración del mes de enero el impuesto correspondiente a todo el ejercicio fiscal, siempre y cuando, el monto de lo pagado en el ejercicio anterior, no haya excedido al equivalente a 1000 días de salario mínimo vigente en el Estado.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
-La cantidad señalada en el párrafo anterior se actualizará anualmente conforme a lo dispuesto por el artículo 3 de esta ley.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 28.
 
-Los contribuyentes que tengan derecho y se acojan a la opción establecida en el artículo anterior, deberán presentar la declaración del mes de enero asentando en la parte superior derecha la siguiente leyenda "SE OPTA POR PAGO ANUAL", quedando relevados de la obligación de presentar las declaraciones por los meses de febrero a noviembre, pero estarán obligados a presentar la declaración correspondiente al mes de diciembre, en la que liquidarán en forma definitiva el impuesto anual a su cargo, señalando la diferencia a pagar, el saldo a su favor o marcándola en ceros, según corresponda.
+Los contribuyentes que tengan derecho y se acojan a la opción establecida en el artículo anterior, deberán presentar la declaración del mes de enero asentando en la parte superior derecha la siguiente leyenda "SE OPTA POR PAGO ANUAL", quedando relevados de la obligación por los meses de febrero a noviembre, pero estarán obligados a presentar la declaración correspondiente al mes de diciembre, en la que liquidarán en forma definitiva el impuesto anual a su cargo, señalando la diferencia a pagar, el saldo a su favor o marcándola en ceros, según corresponda.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -379,21 +389,25 @@ Las aportaciones al Instituto del Fondo Nacional de la Vivienda para los Trabaja
 
 9. Los pagos por tiempo extraordinario, cuando no rebase las tres horas diarias ni tres veces por semana de trabajo, ni cuando este tipo de servicios esté pactado en forma de tiempo fijo;
 
-10. La alimentación y habitación, cuando no se proporcionen gratuitamente al trabajador, así como las despensas;
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+10. Viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la Ley del Impuesto Sobre la Renta;
+
+11. La alimentación y habitación, cuando no se proporcionen gratuitamente al trabajador, así como las despensas;
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-11. La alimentación y habitación, cuando se entreguen en forma onerosa a trabajadores; se entiende que son onerosas estas prestaciones cuando representen cada una de ellas, como mínimo, el veinte por ciento del salario mínimo general diario de la zona; así como las despensas en especie o en dinero, siempre y cuando su importe no rebase el cuarenta por ciento del salario mínimo general diario de la zona;
+12. La alimentación y habitación, cuando se entreguen en forma onerosa a trabajadores; se entiende que son onerosas estas prestaciones cuando representen cada una de ellas, como mínimo, el veinte por ciento del salario mínimo general diario de la zona; así como las despensas en especie o en dinero, siempre y cuando su importe no rebase el cuarenta por ciento del salario mínimo general diario de la zona;
 
-12. Contraprestaciones cubiertas a trabajadores domésticos.
+13. Contraprestaciones cubiertas a trabajadores domésticos.
 
 II.- Las erogaciones que efectúen:
 
 1. (DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
-2. Instituciones sin fines de lucro conformadas como Asociación Civil, que promuevan o realicen asistencia social, actividades deportivas, culturales o sociales.
+2. Instituciones sin fines de lucro conformadas como Asociación Civil, que promuevan o realicen asistencia social;
 
 3. Sindicatos de trabajadores, agrupaciones de empresarios o de propietarios en cámaras, uniones o asociaciones, agrupaciones de profesionistas en institutos, colegios o asociaciones sin fines de lucro;
 
@@ -631,11 +645,27 @@ Los contribuyentes trasladarán en forma expresa y por separado el impuesto a la
 
 Se entenderá por traslado del impuesto el cobro o cargo que los contribuyentes deben hacer a dichas personas por un monto equivalente al impuesto establecido en este Capítulo.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 60.
 
-El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, mediante declaración mensual que deberá presentarse dentro de los primeros diecisiete días naturales del mes siguiente a aquél en que se obtengan los ingresos por los servicios gravados por este impuesto, en las formas aprobadas por la Secretaría de Finanzas.
+El impuesto se calculará por mes de calendario y su pago deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaria de Finanzas, instituciones de crédito o establecimientos autorizados, mediante declaración mensual que deberá presentarse dentro de los primeros diecisiete días naturales del mes siguiente a aquél en que se obtengan los ingresos por los servicios gravados por este impuesto, en las formas aprobadas por la Secretaría de Finanzas.
+
+Si el contribuyente tuviera varios establecimientos en el territorio de Coahuila, presentará por todos ellos una sola declaración de pago en las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente, si éste estuviera dentro del territorio de Coahuila o en el principal establecimiento dentro del territorio del Estado.
+
+Los contribuyentes que tengan varios establecimientos deberán conservar, en cada uno de ellos, copia de las declaraciones de pago, así como proporcionar copia de las mismas a las autoridades fiscales de las entidades federativas donde se encuentren ubicados esos establecimientos, cuando así lo requieran.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 60-A.
+
+Los contribuyentes que obtengan ingresos por los servicios de hospedaje, además de las obligaciones señaladas en el presente capítulo, tendrán las siguientes:
+
+I.- Llevar contabilidad de conformidad con el Código Fiscal para el Estado de Coahuila de Zaragoza y efectuar los registros en la misma.
+
+II.- Llevar un registro detallado por nombre, o en su defecto, por placa de vehículo, de las personas a quienes se presta el servicio de hospedaje.
+
+III.- Presentar en las oficinas autorizadas las declaraciones mensuales de este impuesto.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
@@ -1052,6 +1082,10 @@ VIII.- Anotaciones en los registros por mandato judicial o a petición de la par
 (ACTUALIZADA EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
 
 IX.- Expedición de copias certificadas, $40.00 (CUARENTA PESOS 00/100 M.N.), por hoja;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+IX-A.- Expedición de copias certificadas de otros Estados, a través de procesos sistematizados o de interconexión de redes informáticas del Registro Civil $130.50 (CIENTO TREINTA PESOS 50/1 00 M.N.);
 
 (ACTUALIZADA EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
 
@@ -1739,17 +1773,11 @@ VI.- Licencias para construcción de industrias de más de 5,000 metros cuadrado
 
 VII.- Licencias para construcción de edificios de más de 1,000 metros cuadrados, $0.74 (SETENTA Y CUATRO CENTAVOS M.N.) por metro cuadrado;
 
-(ACTUALIZADA EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
+VIII.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2008)
 
-VIII.- Evaluación de la manifestación de impacto ambiental en su modalidad general, $2,486.00 (DOS MIL CUATROCIENTOS OCHENTA Y SEIS PESOS 00/100 M.N.);
+IX.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2008)
 
-(ACTUALIZADA EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
-
-IX.- Expedición de certificados de aptitud para la prestación de servicios profesionales y emisión de estudios químico-analíticos, en materia ambiental, $2,289.00 (DOS MIL DOSCIENTOS OCHENTA Y NUEVE PESOS 00/100 M.N.);
-
-(ACTUALIZADA EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
-
-X.- Determinación del informe preventivo de impacto ambiental, $1,243.00 (MIL DOSCIENTOS CUARENTA Y TRES PESOS 00/100 M.N.); y
+X.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2008)
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
@@ -2169,9 +2197,9 @@ El pago de los derechos a que se refiere esta Sección, deberá efectuarse en la
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO SEXTO. POR SERVICIOS DE LA SECRETARIA DE (SIC) FUNCION PUBLICA
+### CAPITULO QUINTO BIS. POR SERVICIOS DE LA SECRETARÍA DE MEDIO AMBIENTE
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 129.
 
@@ -2301,6 +2329,50 @@ PAGO
 
 El pago de los derechos a que se refiere este Capítulo, deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaria de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO SEXTO. POR SERVICIOS DE LA SECRETARIA DE (SIC) FUNCION PUBLICA
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+
+###### ARTICULO 131-A.
+
+Los servicios que presta la Secretaría de Medio Ambiente, causarán derechos conforme a la siguiente:
+
+TARIFA
+
+I.- Por recepción, evaluación y expedición de la autorización del Generador de Residuos $3,000.00 (TRES MIL PESOS 00/100 MN.).
+
+II.- Por la recepción, evaluación y expedición de la autorización como Transportista de Residuos Especiales $4,000.00 (CUATRO MIL PESOS 00/I00M.N.).
+
+III.- Por expedición de la revalidación anual de la autorización como Transportista de Residuos Especiales $1,600.00 (MIL SEISCIENTOS PESOS 00/1 00 M.N.).
+
+IV.- Por la recepción, evaluación y expedición de la Licencia de Funcionamiento en Materia de Atmósfera $4,000.00 (CUATRO MIL PESOS 00/100 M.N.).
+
+V.- Por expedición de la revalidación anual de la Licencia de Funcionamiento en Materia de Atmósfera $2,000.00 (DOS MIL PESOS 00/100 M.N.).
+
+VI.- Por la evaluación de la Manifestación de Impacto Ambiental $5,000.00 (CINCO MIL PESOS 00/100 M.N.).
+
+VII.- Por la expedición de certificados de aptitud para la Prestación de Servicios Profesionales y Emisión de Estudios Químico-Analíticos en materia ambiental, $3,000.00 (TRES MIL PESOS 00/100 M.N.).
+
+VIII.- Por la determinación del Informe Preventivo de Impacto Ambiental $3,500.00 (TRES MIL QUINIENTOS PESOS 00/100 M.N.)
+
+SUJETO
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 131-B.
+
+Son sujetos de estos derechos, las personas físicas o morales que soliciten los servicios mencionados en el artículo anterior.
+
+PAGO
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 131-C.
+
+El pago de los derechos a que se refiere este capítulo deberán efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ### CAPITULO SEPTIMO. POR SERVICIOS DE LA PROCURADURIA GENERAL DE JUSTICIA
@@ -2308,10 +2380,6 @@ El pago de los derechos a que se refiere este Capítulo, deberá efectuarse en l
 OBJETO
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
-
-### CAPITULO OCTAVO. POR SERVICIOS AEROPORTUARIOS
-
-OBJETO
 
 ###### ARTICULO 132.
 
@@ -2359,11 +2427,9 @@ La oficina pagadora de la dependencia correspondiente del Gobierno del Estado, a
 
 El pago de los derechos por los servicios a que se refiere el artículo 133, deberá efectuarse en las oficinas recaudadoras de la Secretaria de Finanzas, instituciones de crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
-### CAPITULO NOVENO. DE LOS SERVICIOS PRESTADOS POR LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA RELATIVOS AL DERECHO DE ACCESO A LA INFORMACIÓN PUBLICA
+### CAPITULO OCTAVO. POR SERVICIOS AEROPORTUARIOS
 
 OBJETO
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 136.
 
@@ -2457,9 +2523,9 @@ d).- Valoración de daños, $1,933.00 (MIL NOVECIENTOS TREINTA Y TRES PESOS 00/1
 
 e).- Dactiloscopía, $1,185.00 (MIL CIENTO OCHENTA Y CINCO PESOS 00/100 M.N.);
 
-(ACTUALIZADO EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
-f).- Certificado de no antecedentes policíacos, $54.00 (CINCUENTA Y CUATRO PESOS 00/100 M.N.);
+f).- Certificado de no antecedentes penales, $64.00 (SESENTA Y CUATRO PESOS 00/100 M.N.);
 
 (ACTUALIZADO EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
 
@@ -2487,11 +2553,11 @@ II.- Los prestados por otras unidades administrativas de la Procuraduría Genera
 
 El pago de los servicios a que se refiere este Capítulo deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaria de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
-### CAPITULO PRIMERO. CONTRIBUCION POR GASTO
+### CAPITULO NOVENO. DE LOS SERVICIOS PRESTADOS POR LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA RELATIVOS AL DERECHO DE ACCESO A LA INFORMACIÓN PUBLICA
 
 OBJETO
 
-(REUBICADO [N. DE E. ANTES ARTICULO 101], P.O. 24 DE DICIEMBRE DE 1996)
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 138.
 
@@ -2511,11 +2577,11 @@ PAGO
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO SEGUNDO. PARA EL FOMENTO A LA EDUCACION EN EL ESTADO
+### CAPITULO PRIMERO. CONTRIBUCION POR GASTO
 
 OBJETO
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 101], P.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 140-A.
 
@@ -2589,11 +2655,11 @@ La Dependencia, al realizar la liquidación para el pago de los derechos a que s
 
 ## TITULO IV. CONTRIBUCIONES ESPECIALES
 
-### CAPITULO TERCERO. PARA MANTENIMIENTO Y CONSERVACION DEL CENTRO HISTORICO DE LAS CIUDADES DE SALTILLO, RAMOS ARIZPE Y TORREON
+### CAPITULO SEGUNDO. PARA EL FOMENTO A LA EDUCACION EN EL ESTADO
 
 OBJETO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 141.
 
@@ -2657,11 +2723,11 @@ La Secretaría de Finanzas, formulará y notificará la resolución que determin
 
 En lo no previsto en este Capítulo, la aplicación y recaudación de las contribuciones, se hará con apego a las disposiciones del Código Fiscal para el Estado de Coahuila.
 
-### CAPITULO CUARTO. CONTRIBUCION POR OBRA PUBLICA
+### CAPITULO TERCERO. PARA MANTENIMIENTO Y CONSERVACION DEL CENTRO HISTORICO DE LAS CIUDADES DE SALTILLO, RAMOS ARIZPE Y TORREON
 
 OBJETO
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 149.
 
@@ -2707,7 +2773,7 @@ El pago de esta contribución deberá efectuarse en las oficinas recaudadoras de
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO QUINTO. CONTRIBUCION POR RESPONSABILIDAD OBJETIVA
+### CAPITULO CUARTO. CONTRIBUCION POR OBRA PUBLICA
 
 OBJETO
 
@@ -2756,6 +2822,12 @@ PAGO
 ###### ARTICULO 158.
 
 El pago de esta contribución deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos de los derechos objeto de esta contribución.
+
+### CAPITULO QUINTO. CONTRIBUCION POR RESPONSABILIDAD OBJETIVA
+
+OBJETO
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 159.
 
@@ -3338,3 +3410,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación el Pe
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
