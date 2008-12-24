@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-personas-con-discapacidad-del-estado-de-nuevo-leon-49568
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-08"
-last_updated: "2007-07-13"
+last_updated: "2008-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49568&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 8 de marzo de 2006.
 
@@ -101,9 +101,23 @@ XXII. Prevención. La adopción de medidas encaminadas a impedir que se produzca
 
 XXIII. Rehabilitación. Proceso de duración limitada y con un objetivo definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental y sensorial óptimo, que permita compensar la pérdida o recuperar total o parcialmente una función, así como proporcionarle una mejor integración social;
 
-XXIV Sistema de Escritura Braille. Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil, por los ciegos; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXV. Vida Independiente. La capacidad del individuo para ejercer decisiones sobre su propia existencia y participación en el entorno social.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+XXIV. Sistema de Escritura Braille. Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil, por los ciegos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+XXV. Vida Independiente. La capacidad del individuo para ejercer decisiones sobre su propia existencia y participación en el entorno social; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+XXVI. Perro de asistencia: Aquel que habiendo pasado pruebas de selección física, genética y sanitaria, ha concluido su adiestramiento en centros especializados reconocidos, y adquirido las aptitudes y destrezas necesarias para la compañía, conducción y auxilio de personas con discapacidad, debiendo estar acreditados e identificados de la forma establecida en esta Ley.
 
 ###### Artículo 3º.
 
@@ -254,6 +268,22 @@ El Estado instrumentará incentivos fiscales a las empresas que apoyen el equipa
 El Estado instrumentará convenios entre el Consejo de Relaciones Laborales y Productividad del Gobierno del Estado y las empresas que planteen los perfiles de los puestos disponibles para el desarrollo de estrategias de formación en el trabajo, y para desarrollar programas tendientes a la capacitación y actualización continua para y en el trabajo de personas con discapacidades.
 
 Así, mismo, las autoridades estatales y municipales competentes convocarán a las organizaciones no gubernamentales, a los empresarios y sus representantes, los Sindicatos, el sector social y el Sistema de Desarrollo Integral de la Familia del Estado, para que creen e impulsen programas de capacitación e integración laboral para personas con discapacidad, que por alguna razón no tuvieran otra opción para integrarse o capacitarse para el trabajo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 16 Bis.
+
+Con el objetivo de lograr que la aceptación social y cultural de las personas con discapacidad acompañadas de perros de Asistencia sea total y efectiva, el Gobierno Estatal, junto a las organizaciones de la sociedad civil interesadas, promoverá y llevará a cabo campañas informativas orientadas de manera especial a sectores como la hotelería, comercio, escuelas, transporte y servicios públicos; igualmente desarrollará otras de orden educativo dirigidas a la población en general.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 16 Bis 1.
+
+El Gobierno del Estado junto con los municipios, promoverá y llevará a cabo campañas de adiestramiento como perros de asistencia, de animales que se encuentren en albergues de asociaciones protectoras de animales; siempre y cuando sus características físicas y de obediencia permitan su adiestramiento como perros de asistencia.
 
 ### Capítulo III. De la Educación
 
@@ -495,6 +525,316 @@ Cuando las disposiciones de esta Ley comprendan materias y acciones que incidan 
 
 Corresponde a los órganos de los Gobiernos Federal, Estatal, y de los Municipios, en el ámbito de sus respectivas competencias y jurisdicción, participar en la elaboración del Programa Nacional para el Desarrollo de las Personas con Discapacidad, observar y hacer observar las responsabilidades y obligaciones con relación a las personas con discapacidad, establecidas en la presente Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+### Capítulo XII. De los Perros de Asistencia para Personas con Discapacidad
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 44 Bis.
+
+Se reconoce de interés público, que toda persona con discapacidad pueda disponer de un perro de asistencia; igualmente se reconoce su derecho al acceso, recorridos y permanencia junto con éste, en todos los lugares, locales y demás espacios de uso público, así como su viaje en transportes públicos, en uso de su derecho de libre tránsito, en condiciones de igualdad con el resto de los habitantes del Estado.
+
+El acceso del perro de asistencia a los lugares con pago de entrada o de peaje que precisa la Ley no implicará pago adicional, salvo que su movilización constituya la prestación de un servicio agregado.
+
+Los perros de asistencia que deriven de programas de entrenamiento gubernamentales o de apoyo asistencial serán donados a los usuarios de escasos recursos que así lo requieran, o bien cubiertos con aportaciones mínimas. Las instancias de asistencia social del Gobierno del Estado procurarán convocar a instituciones públicas y privadas, tanto nacionales como extranjeras, para formar fondos de apoyo a estas actividades.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 44 Bis 1.
+
+Una vez reconocida la condición de perro de asistencia, se mantendrá ésta a lo largo de su vida, salvo que se presenten alguna causa de las previstas en el Artículo 44 Bis 7.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 44 Bis 2.
+
+Para los efectos de lo establecido en el Artículo 44 BIS, tendrán la categoría de lugares de libre acceso a las personas con discapacidad en compañía de sus perros de Asistencia, los siguientes:
+
+I. Los lugares de esparcimiento al aire libre, tales como parques, jardines y otros espacios de uso público, incluidos los centros de recreación, parques de diversiones y complejos de entretenimiento;
+
+II. Los locales e instalaciones donde se realicen espectáculos públicos y desarrollen actividades recreativas;
+
+III. Los asilos, hogares para la atención a los adultos mayores, centros de rehabilitación y los establecimientos similares, sean de propiedad pública o privada;
+
+IV. Los edificios públicos, cuyo acceso no se encuentre prohibido o restringido al público en general;
+
+V. Los centros educativos, deportivos y áreas de urgencias, públicos y privados de todos los niveles y grados, modalidades y especialidades. Igualmente los museos, bibliotecas, teatros, salas de cine, de exposiciones y conferencias;
+
+VI. Los almacenes, tiendas, despachos profesionales y centros comerciales;
+
+VII. Los espacios de uso público de las estaciones de autobús, ferrocarril, aeropuertos y paradas de vehículos de transporte;
+
+VIII. Los hoteles, restaurantes, establecimientos turísticos y cualquier otro lugar abierto al público en el que se presten servicios relacionados con el turismo;
+
+IX. Los Transportes públicos y los servicios urbanos de transportes de viajeros y autos de alquiler de competencia del estado y los municipios; y
+
+X. En general, cualquier otro lugar, local o establecimiento de uso público o de atención al público.
+
+En el caso de que la infraestructura no permita el adecuado traslado a las personas con discapacidad, acompañadas de perros de asistencia, se procurará, cuando ello sea posible, un recorrido alterno.
+
+Las autoridades de obras públicas tanto estatales como municipales establecerán la reglamentación necesaria para hacer las adecuaciones físicas en los lugares antes mencionados.
+
+La persona con discapacidad acompañada de perro de asistencia, tendrá preferencia para ocupar los asientos con mayor espacio libre o adyacente a un pasillo, según el medio de transporte de que se trate.
+
+En los servicios de autos de alquiler, el perro de asistencia irá preferentemente en la parte trasera del vehículo, a los pies de la persona con deficiencias visuales o con discapacidad. No obstante, y a elección de las personas usuarias de perros guía, se podrán ocupar asientos delanteros, teniendo el perro a sus pies, especialmente en los trayectos de largo recorrido.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 44 Bis 3.
+
+Todo perro de asistencia deberá ser acreditado por el Comité Estatal para la Certificación de Perros de Asistencia. La acreditación se concederá previa comprobación de que el perro reúne las condiciones higiénico-sanitarias, de adiestramiento y de aptitud para auxiliar a personas con discapacidad.
+
+Los reconocimientos otorgados por otras entidades y países, a perros de asistencia, serán revalidados por el Comité.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 44 Bis 4.
+
+La condición de perro de asistencia se reconocerá, y procederá a su acreditación siempre que se justifique:
+
+I. Que está entrenado en un centro oficialmente autorizado por el Comité de Certificación, para la práctica de perros de asistencia;
+
+II. Que cumple la normativa sanitaria vigente y lo previsto en el Artículo 44 Bis 7 de esta Ley;
+
+III. Que está vinculado a un trabajo de asistencia a la persona que lo usa para los fines previstos en la presente Ley; y
+
+IV. Que ayude a disminuir los efectos de la discapacidad de su propietario.
+
+El reconocimiento de la condición de perro de asistencia se efectuará por el Comité antes mencionado y se mantendrá durante toda la vida del perro de asistencia, con las excepciones señaladas en esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 44 Bis 5.
+
+Los perros de asistencia se hallarán identificados, mediante la colocación, en lugar visible, del distintivo que le otorgue el comité Estatal para la Certificación de Perros de Asistencia.
+
+También deberán estar Identificados permanentemente mediante microchip, según acuerde el Comité.
+
+El usuario del perro de asistencia, previo requerimiento, deberá exhibir su identificación que lo acredite como la persona autorizada para el uso del perro de asistencia, expedida por el Comité, así como documentación que acredite las condiciones sanitarias que se mencionan en el Artículo siguiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 44 Bis 6.
+
+Además de cumplir las obligaciones -sanitarias que se deben satisfacer como animales domésticos, los poseedores de perros de asistencia deberán cumplir las siguientes con relación al animal:
+
+I. Una inspección veterinaria donde se demuestre que no padece ninguna enfermedad transmisible al hombre;
+
+II. Estar vacunado contra la rabia, recibir los tratamientos periódicos y practicarse las pruebas clínicas que instruya el Comité; y
+
+III. Todas aquellas que reglamentariamente se determinen.
+
+Los propietarios o poseedores de estos animales quedan obligados al cumplimiento de las condiciones referidas, mismas que se acreditarán mediante certificación expedida por Médico Veterinario. Tratándose de personas de escasos recursos, el estado celebrará convenios para buscar disminuir al mínimo los costos de estos servicios veterinarios.
+
+Para mantener la condición de perro de asistencia, será necesario un reconocimiento anual, debiéndose acreditar en el mismo el cumplimiento de las condiciones a que se refiere este Artículo, mismo que podrá obtenerse con Médico Veterinario Titulado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 44 Bis 7.
+
+El perro de asistencia perderá su condición, por alguno de los siguientes motivos:
+
+I. Por dejar de prestar asistencia a una persona con discapacidad;
+
+II. Por manifiesta incapacidad en el desempeño de las funciones para las que fue entrenado;
+
+III. Por manifestar comportamiento agresivo o violento; o
+
+IV. Por incumplir las condiciones referidas en la Ley y en los reglamentos que para tal efecto se expidan.
+
+Para poder acreditar las causas contenidas en las fracciones II, III y IV se requerirá certificado de veterinario en ejercicio.
+
+La pérdida de la condición de perro de asistencia, se declarará por el mismo órgano o entidad que la otorgó, quien procederá igualmente a la revocación de la acreditación.
+
+Cuando alguno de los motivos señalados sea temporal, se determinará la suspensión provisional de la condición de perro de asistencia por un periodo máximo de seis meses. Transcurrido dicho plazo sin que se modifique la situación, se procederá a declarar la pérdida de la condición de perro de asistencia.
+
+El usuario que no desee seguir con la posesión de un perro de asistencia deberá notificarlo al Comité para su reasignación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 44 Bis 8.
+
+El derecho de acceso a que se refiere el Artículo 44 BIS de esta Ley comprende, también la permanencia ilimitada y constante del perro de asistencia junto al usuario.
+
+No obstante lo dispuesto en el párrafo anterior, el usuario del perro de asistencia no podrá ejercitar los derechos reconocidos en esta Ley, cuando concurra alguna de las siguientes circunstancias:
+
+a). En caso de grave peligro inminente para el usuario, para tercera persona o para el propio perro de asistencia; y
+
+b). Cuando el animal presente síntomas de enfermedad visibles o heridas que por su tamaño o aspecto supongan un presumible riesgo para las personas o se evidencie la falta de aseo o de atención.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 44 Bis 9.
+
+La persona usuaria de un perro de asistencia deberá cumplir con las obligaciones que señala la normativa vigente y, en particular, con las siguientes:
+
+I. Mantener al perro a su lado, con la correa y arnés que en su caso sea necesario, en los lugares, establecimientos y transportes a que se refiere esta Ley;
+
+II. Llevar identificado de forma visible al perro de asistencia, de acuerdo con lo previsto en el Artículo 44 Bis V de ésta Ley, llevando consigo y exhibir la documentación sanitaria, cuando sea requerido para ello;
+
+III. Utilizar al perro de asistencia para aquellas funciones para las que fue entrenado, atendiendo siempre a las normas de higiene y seguridad en los lugares públicos o de uso público, en la medida en que su deficiencia visual o discapacidad le permita;
+
+IV. Cumplir y hacer que los demás cumplan los principios de respeto, defensa, convivencia pacífica y protección del perro de asistencia: y
+
+V. Garantizar el adecuado nivel de bienestar e higiene del perro de asistencia, a efecto de proporcionarle una buena calidad de vida.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 44 Bis 10.
+
+El incumplimiento de lo dispuesto en la presente Ley con relación al libre acceso de personas con discapacidad y sus perros de asistencia a los lugares, aquí mencionados, constituye infracción administrativa y será sancionado conforme se dispone en esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 44 Bis 11.
+
+Son sujetos responsables de las infracciones administrativas las personas físicas o morales que realicen, directa o indirectamente, las acciones u omisiones señaladas en la presente Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 44 Bis 12.
+
+serán responsables solidarios las personas físicas o morales, propietarias del establecimiento, de la concesión, licencia o permiso del que sea empleado o dependiente la persona infractora.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 44 Bis 13.
+
+Se instituye el Comité para la Certificación de Perros de Asistencia como órgano técnico de apoyo en la certificación de perros de asistencia, dicho Comité será presidido por el servidor público que designe el Titular del Ejecutivo y contará con tres vocales que serán personas de la sociedad civil con conocimientos amplios en la materia cuyos nombramientos serán honoríficos.
+
+El Comité se reunirá por lo menos cada tres meses conforme lo establezca su reglamento, donde también se determinarán los procedimientos para su operación, y en sus sesiones conocerá de los asuntos que le encomiende la presente Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 44 Bis 14.
+
+Las infracciones a las disposiciones contenidas en este cuerpo legal, serán denunciadas a la autoridad correspondiente quien considerando la gravedad de la falta, aplicará la sanción establecida, sujetándose al siguiente procedimiento:
+
+I. Recibida la denuncia y ratificada la misma, se citará personalmente al presunto o presuntos responsables a efecto de hacerle de su conocimiento el contenido de la denuncia interpuesta, a fin de que dentro del término de cinco días exprese a lo que a sus intereses convenga y ofrezca las pruebas en relación a los hechos contenidos en la denuncia; y
+
+II. Una vez oído el presunto infractor, recibidas y desahogadas las pruebas que ofreciere, o en caso de que el interesado no haya hecho uso del derecho de audiencia, dentro del plazo mencionado, se procederá a dictar la resolución administrativa que corresponda, dentro de los quince días hábiles siguientes, misma que se notificará al interesado, personalmente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 44 Bis 15.
+
+Son infracciones leves:
+
+I. Ocupar indebidamente los espacios de estacionamiento preferencial;
+
+II. Obstruir las rampas o accesos para personas con discapacidad;
+
+III. La exigencia de pago alguno por el acceso de los perros de asistencia sin que su entrada implique gasto adicional, conforme la presente Ley;
+
+IV. El daño físico que le sea infligido a un perro de asistencia por negligencia; y
+
+V. Todas las conductas pasivas o activas que dificulten el ejercicio de los derechos reconocidos a las personas con discapacidad y a sus perros de asistencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 44 Bis 16.
+
+Son infracciones graves:
+
+I. El infringir los derechos reconocidos en la presente Ley en cuanto a lugares, alojamientos, establecimientos y locales de propiedad privada;
+
+II. La comisión de tres faltas leves, sancionadas, en un período de dos años; y
+
+III. Todas las conductas pasivas o activas que impidan en forma manifiesta y notoria el ejercicio de los derechos reconocidos a las personas con discapacidad y a sus perros de asistencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 44 Bis 17.
+
+Son infracciones muy graves:
+
+I. Negar el acceso o permanencia en lugares, alojamientos, locales y transportes públicos, previstos en el Artículo 44 Bis 2 de esta Ley;
+
+II. Que los empresarios, administradores y organizadores de espectáculos públicos omitan o ubiquen discriminatoriamente los espacios reservados, así como las facilidades de acceso, para personas con discapacidad;
+
+III. El daño físico que le sea infligido en forma dolosa a un perro de asistencia; y
+
+IV. La comisión de tres faltas graves, sancionadas, en un período de dos años.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 44 Bis 18.
+
+Para los efectos de la presente Ley, se aplicará, independientemente de lo dispuesto por otras disposiciones legales, las siguientes sanciones:
+
+I. Para las infracciones leves, multa equivalente de los 50 días de salario mínimo vigente en la zona económica de que se trate;
+
+II. Para las infracciones graves, multa equivalente de 51 a 100 días de salario mínimo vigente en la zona económica de que se trate; y
+
+III. Para las infracciones muy graves, multa equivalente de 100 a 300 días de salario mínimo vigente en la zona económica de que se trate.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 44 Bis 19.
+
+En caso de incurrir tres ocasiones en la misma falta, se procederá a la clausura temporal del local por cinco días.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 44 Bis 20.
+
+Para la graduación de las sanciones se atenderá a la intencionalidad de la falta o grado de negligencia, la Importancia del daño generado, la reincidencia de la conducta y las condiciones propias del caso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 44 Bis 21.
+
+La imposición de cualquier sanción prevista en esta Ley no excluye la responsabilidad civil y penal y la eventual indemnización de daños y perjuicios que puedan corresponder al infractor.
+
+Los ingresos que por los conceptos anteriores se recauden, deberán de aplicarse a inversión en infraestructura para beneficio de las personas con discapacidad.
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 13 DE JULIO DE 2007)</small>
 
 ## Título Tercero. Del Consejo para las personas con Discapacidad
@@ -597,9 +937,15 @@ IX. Expedir su propio Reglamento;
 
 > <small>(ADICIONADA, P.O. 13 DE JULIO DE 2007)</small>
 
-X. Impulsar la ejecución de programas de gobierno y la labor de Organizaciones para la atención e integración de las personas con discapacidad, así como coadyuvar en su vigilancia y evaluar su implementación; y
+X. Impulsar la ejecución de programas de gobierno y la labor de Organizaciones para la atención e integración de las personas con discapacidad, así como coadyuvar en su vigilancia y evaluar su implementación; y (sic)
 
-XI. Las demás que establece esta Ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+XI. Constituir el Comité Estatal para la Certificación de Perros de Asistencia en términos del Capítulo XII de esta Ley; y
+
+XII. Las demás que establece esta Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JULIO DE 2007)</small>
 
@@ -732,3 +1078,11 @@ GILBERTO MONTIEL AMOROSO
 P.O. 13 DE JULIO DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2008.
+
+Primero.- La entrada en vigor del presente decreto, será en noventa días naturales, a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los perros de asistencia existentes en la actualidad, deberán adecuarse a los requisitos de reconocimiento e identificación previstos en esta Ley, dentro del plazo de seis meses a partir del desarrollo reglamentario de ésta Ley.
+
+Tercero.- Los Municipios, dentro del ámbito de sus respectivas competencias, adaptarán sus reglamentos municipales sobre la materia a las normas contenidas en la presente Ley, en el plazo de seis meses a partir de la entrada en vigor de esta Ley.
