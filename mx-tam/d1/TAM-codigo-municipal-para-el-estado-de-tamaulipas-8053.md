@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2008-06-11"
+last_updated: "2008-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1581,15 +1581,11 @@ Están obligados al pago del Impuesto sobre Adquisición de Inmuebles, las perso
 
 DE LAS EXENCIONES
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 1991)</small>
+(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008.
 
 ###### ARTICULO 125.
 
-No se causará este impuesto respecto de las adquisiciones de inmuebles que hagan la Federación, el Estado y los Municipios, para formar parte de sus bienes de dominio público, así como los que adquieran los Partidos Políticos Nacionales, siempre y cuando dichos inmuebles sean para su propio uso.
-
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1994)</small>
-
-Tampoco se pagará el Impuesto en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
+No se causará este impuesto respecto de las adquisiciones de inmuebles que hagan la Federación, el Estado o los Municipios, para formar parte de sus bienes de dominio público.
 
 ###### ARTICULO 126.
 
@@ -3347,7 +3343,7 @@ Se abroga el Decreto No. 407, publicado en el Periódico Oficial del Estado No. 
 
 ###### ARTICULO CUARTO.
 
-Se derogan los Artículos 35, fracción III, 38, 39 y 40, de la Ley de Policía Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
+Se derogan los Artículos 35, fracción III, 38, 39 y 40, de la Ley de la Policía Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -3750,3 +3746,9 @@ DECRETO No. LX-32, POR EL QUE SE REFORMAN LOS ARTICULOS 49, 72, 135, 167, 187, 2
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2008.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día .siguiente al de su publicación en el Periódico Oficial del Estado.
