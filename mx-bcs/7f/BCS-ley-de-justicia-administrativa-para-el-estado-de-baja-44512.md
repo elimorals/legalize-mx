@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-justicia-administrativa-para-el-estado-de-baja-44512"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-20"
-last_updated: "2005-03-20"
+last_updated: "2008-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005
 
@@ -51,17 +51,23 @@ Esta Ley tiene por objeto establecer el juicio contencioso administrativo como p
 
 Para los efectos de esta ley se entenderá por:
 
-I. Sala Civil y Administrativa: El órgano jurisdiccional que conocerá y resolverá el juicio contencioso administrativo.
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+I. Sala Unitaria Administrativa: El órgano jurisdiccional que conocerá y resolverá el juicio contencioso administrativo;
 
 II. Superior: El órgano jurisdiccional de alzada respecto de aquel que conozca del juicio contencioso administrativo y que conocerá a su vez de los recursos promovidos contra las resoluciones dictadas por éste, en los casos señalados en este cuerpo normativo.
 
 III. Magistrado: Titular del órgano jurisdiccional que conozca del juicio contencioso administrativo y de los recursos que se interpongan en éste.
 
-### CAPITULO II. COMPETENCIA DE LA SALA CIVIL Y ADMINISTRATIVA
+> <small>(REFORMADA SU DENOMINACION, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
-###### Artículo 3º.
+### CAPITULO II. COMPETENCIA DE LA SALA UNITARIA ADMINISTRATIVA
 
-La Sala Civil y Administrativa será competente para conocer del juicio contencioso administrativo promovido por los particulares o servidores públicos, según sea, en los casos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 3°.
+
+La Sala Unitaria Administrativa será competente para conocer del juicio contencioso administrativo promovido por los particulares o servidores públicos, según sea, en los casos siguientes:
 
 I. Contra los actos o resoluciones que las autoridades de la administración pública del Estado o municipios de Baja California Sur dicten, ordenen, ejecuten o traten de ejecutar en agravio de personas físicas o jurídicas;
 
@@ -79,45 +85,59 @@ VII. Contra actos de autoridad relacionados con la interpretación, cumplimiento
 
 VIII. Para denunciar la responsabilidad patrimonial extracontractual reclamada al Estado, a los Municipios, o a las entidades paraestatales o municipales;
 
-IX. Los demás que se promuevan en contra de actos o resoluciones que por su naturaleza o por disposición de otras leyes se consideren como competencia de la Sala Civil y Administrativa.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
-La Sala Civil y Administrativa o el Superior, según sea el caso, serán competentes para conocer y resolver los recursos de revisión y queja que se promuevan conforme a lo dispuesto en los Artículos 68, 69 y 71 de esta Ley.
+IX. Los demás que se promuevan en contra de actos o resoluciones que por su naturaleza o por disposición de otras leyes se consideren como competencia de la Sala Unitaria Administrativa.
+
+> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ## TITULO SEGUNDO. DEL PROCEDIMIENTO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-###### Artículo 4º.
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
-Los juicios que se promuevan ante la Sala Civil y Administrativa se substanciarán conforme al procedimiento que señala esta Ley. A falta de disposición expresa, se aplicará el Código de Procedimientos Civiles para el Estado de Baja California Sur, de manera supletoria.
+###### Artículo 4°.
+
+Los juicios que se promuevan ante la Sala Unitaria Administrativa se substanciarán conforme al procedimiento que señala esta Ley. A falta de disposición expresa, se aplicará el Código de Procedimientos Civiles para el Estado de Baja California Sur, de manera supletoria.
 
 ###### Artículo 5º.
 
 Toda promoción deberá estar firmada por quien la formule, requisito sin el cual se tendrá por no presentada. Cuando el promovente no sepa o no pueda firmar, lo hará otra persona en su nombre y el interesado imprimirá su huella digital.
 
-Ante la Sala Civil y Administrativa no procederá la gestión oficiosa; quien promueva a nombre de otro deberá acreditar su personalidad mediante carta poder ratificada ante Notario Público o ante el Secretario o mediante poder notarial que conste en escritura pública, salvo que acredite tener reconocida su personalidad por la autoridad demandada.
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
-###### Artículo 6º.
+Ante la Sala Unitaria Administrativa no procederá la gestión oficiosa; quien promueva a nombre de otro deberá acreditar su personalidad mediante carta poder ratificada ante Notario Público o ante el Secretario o mediante poder notarial que conste en escritura pública, salvo que acredite tener reconocida su personalidad por la autoridad demandada.
 
-Las demandas, contestaciones, ocursos, informes y, en general, toda clase de actuaciones deberán redactarse en castellano. Los documentos que se presentaren en idioma extranjero deberán ser acompañados con la correspondiente traducción; si es objetada por parte interesada o se estima necesario por la Sala Civil y Administrativa, se designará perito traductor para su cotejo.
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
-Cuando deba oírse a persona que no hable el castellano, la Sala Civil y Administrativa lo hará por medio de interprete que designará al efecto.
+###### Artículo 6°.
 
-###### Artículo 7º.
+Las demandas, contestaciones, ocursos, informes y, en general, toda clase de actuaciones deberán redactarse en castellano. Los documentos que se presentaren en idioma extranjero deberán ser acompañados con la correspondiente traducción; si es objetada por parte interesada o se estima necesario por la Sala Unitaria Administrativa, se designará perito traductor para su cotejo.
 
-Las diligencias que deban practicarse fuera del recinto de la Sala Civil y Administrativa, se encomendarán a los Actuarios o a los Secretarios, o en su caso, se solicitará el auxilio del Juez de Primera Instancia en materia Civil que corresponda, mediante exhorto.
+Cuando deba oírse a persona que no hable el castellano, la Sala Unitaria Administrativa lo hará por medio de intérprete que designará al efecto.
+
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 7°.
+
+Las diligencias que deban practicarse fuera del recinto de la Sala Unitaria Administrativa, se encomendarán a los Actuarios o a los Secretarios, o en su caso, se solicitará el auxilio del Juez de Primera Instancia en materia Civil que corresponda, mediante exhorto.
 
 ###### Artículo 8º.
 
 Las audiencias serán públicas, salvo los casos en que la moral, el interés público o la Ley exijan que sean reservadas.
 
-###### Artículo 9º.
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
-Cuando las leyes o reglamentos establezcan algún recurso o medio de defensa administrativo, será optativo para el particular agotarlo o intentar directamente el juicio ante la Sala Civil y Administrativa. Ejercitada la acción ante éste, se extinguirá el derecho para ocurrir a otro medio de defensa administrativo. Contra la resolución dictada en el recurso administrativo procede el juicio ante la Sala Civil y Administrativa.
+###### Artículo 9°.
+
+Cuando las leyes o reglamentos establezcan algún recurso o medio de defensa administrativo, será optativo para el particular agotarlo o intentar directamente el juicio ante la Sala Unitaria Administrativa. Ejercitada la acción ante éste, se extinguirá el derecho para ocurrir a otro medio de defensa administrativo. Contra la resolución dictada en el recurso administrativo procede el juicio ante la Sala Unitaria Administrativa.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 10.
 
-La Sala Civil y Administrativa para hacer cumplir sus determinaciones o para imponer el orden durante las actuaciones, podrá hacer uso, indistintamente, de los siguientes medios de apremio:
+La Sala Unitaria Administrativa para hacer cumplir sus determinaciones o para imponer el orden durante las actuaciones, podrá hacer uso, indistintamente, de los siguientes medios de apremio:
 
 I. Amonestación;
 
@@ -127,9 +147,11 @@ III. Arresto hasta por veinticuatro horas;
 
 IV. Auxilio de la fuerza pública.
 
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 11.
 
-En los juicios que se tramiten ante la Sala Civil y Administrativa no habrá lugar a condenación en costas; en consecuencia, cada parte será responsable de las que originen las diligencias que promuevan, así como los gastos y honorarios en que incurran con motivo de la tramitación del juicio.
+En los juicios que se tramiten ante la Sala Unitaria Administrativa no habrá lugar a condenación en costas; en consecuencia, cada parte será responsable de las que originen las diligencias que promuevan, así como los gastos y honorarios en que incurran con motivo de la tramitación del juicio.
 
 ### CAPITULO II. DE LAS PARTES
 
@@ -149,7 +171,9 @@ III. Siempre será parte la Dependencia del Ejecutivo del Estado a quien determi
 
 IV. Los terceros. Tienen este carácter:
 
-a) Cualquier persona cuyos intereses jurídicos sean o puedan ser afectados por las resoluciones de la Sala Civil y Administrativa; o
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+a) Cualquier persona cuyos intereses jurídicos sean o puedan ser afectados por las resoluciones de la Sala Unitaria Administrativa; o
 
 b) Quien se apersone en el juicio como coadyuvante de las autoridades administrativas, con un interés jurídico directo en la modificación o anulación de un acto favorable a un particular, o en la confirmación de uno que le es desfavorable.
 
@@ -173,15 +197,21 @@ Desde el primer escrito que se presente o en la primera diligencia deberá seña
 
 Para los efectos de esta Ley, son días hábiles todos los del año menos los sábados y domingos; el 1o. de enero, el 5 de febrero, el 21 de marzo, el 1o. y 5 de mayo, el 16 de septiembre, el 12 de octubre, el 20 de noviembre, el 25 de diciembre así como aquellos en los que se suspendan las labores por acuerdo del Tribunal o por determinación de otras disposiciones legales.
 
-Son horas hábiles las comprendidas de las ocho a las veintitrés horas. Las horas de oficina de la Sala Civil y Administrativa se comprenderán de las ocho treinta a las quince horas, excepto los viernes que se laborará hasta las catorce horas.
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
-La Sala Civil y Administrativa podrá habilitar los días y horas inhábiles, cuando lo juzgue necesario.
+Son horas hábiles las comprendidas de las ocho a las veintitrés horas. Las horas de oficina de la Sala Unitaria Administrativa se comprenderán de las ocho treinta a las quince horas, excepto los viernes que se laborará hasta las catorce horas.
+
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+La Sala Unitaria Administrativa podrá habilitar los días y horas inhábiles, cuando lo juzgue necesario.
 
 ###### Artículo 17.
 
 Las notificaciones se harán:
 
-I. A las autoridades por oficio, o personalmente a sus delegados o representantes si estuvieren presentes en la Sala Civil y Administrativa;
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+I. A las autoridades por oficio, o personalmente a sus delegados o representantes si estuvieren presentes en la Sala Unitaria Administrativa.
 
 II. A los particulares personalmente cuando:
 
@@ -197,7 +227,9 @@ e) El Tribunal lo estime urgente o necesario.
 
 III. Por lista o por correo certificado con acuse de recibo cuando no sea la notificación personal;
 
-IV. Fuera de los casos señalados en las fracciones anteriores, las notificaciones se harán personalmente en la Sala Civil y Administrativa a los particulares, si se presentaren dentro de las veinticuatro horas siguientes al día en que se haya dictado la resolución; en caso contrario, por medio de listas autorizadas por el Actuario, que se fijarán a las trece horas en el tablero de avisos de la Sala Civil y Administrativa.
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+IV. Fuera de los casos señalados en las fracciones anteriores, las notificaciones se harán personalmente en la Sala Unitaria Administrativa a los particulares, si se presentaren dentro de las veinticuatro horas siguientes al día en que se haya dictado la resolución; en caso contrario, por medio de listas autorizadas por el Actuario, que se fijarán a las trece horas en el tablero de avisos de la Sala Unitaria Administrativa.
 
 Cuando el servicio postal devuelva por cualquier causa un oficio de notificación, ésta se hará personalmente y cuando fehacientemente no fuere posible, por lista.
 
@@ -209,9 +241,11 @@ En el expediente respectivo, el Actuario asentará razón del envío por correo 
 
 Todas las notificaciones surtirán efectos a partir del día hábil siguiente al en que sean practicadas.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 20.
 
-Las notificaciones que no fueran practicadas en la forma que establecen las disposiciones precedentes serán nulas. Las partes afectadas podrán pedir su nulidad antes de que se dicte sentencia, ofreciendo las pruebas en el mismo escrito en que se promueva. La Sala Civil y Administrativa decidirá de plano sin formar expediente. Declarada la nulidad, el procedimiento se repondrá a partir de la notificación irregular.
+Las notificaciones que no fueran practicadas en la forma que establecen las disposiciones precedentes serán nulas. Las partes afectadas podrán pedir su nulidad antes de que se dicte sentencia, ofreciendo las pruebas en el mismo escrito en que se promueva. La Sala Unitaria Administrativa decidirá de plano sin formar expediente. Declarada la nulidad el procedimiento se repondrá a partir de la notificación irregular.
 
 Si se declara la nulidad de la notificación, se impondrá al servidor público responsable, una multa equivalente al monto de uno a cinco días de salario mínimo diario vigente en el Estado de Baja California Sur. El mismo servidor podrá ser destituido de su cargo en caso de reincidencia, sin responsabilidad para el Estado.
 
@@ -229,9 +263,11 @@ II. Se contarán por días hábiles.
 
 ### CAPITULO IV. DE LOS IMPEDIMENTOS Y EXCUSAS
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 23.
 
-Los Magistrados de la Sala Civil y Administrativa, bajo su responsabilidad se excusarán de intervenir en los siguientes casos:
+Los Magistrados·de la Sala Unitaria Administrativa, bajo, su responsabilidad se excusarán de intervenir en los siguientes casos:
 
 I. Por ser cónyuge o pariente consanguíneo o por afinidad, del actor o del tercero perjudicado, de sus abogados o representantes, en línea recta sin limitación de grado, y dentro del cuarto grado en línea colateral; o dentro del segundo, por afinidad;
 
@@ -245,9 +281,11 @@ V. Por ser parte en un juicio similar pendiente de resolución ante el Tribunal.
 
 Estas causas determinan la excusa forzosa de los Magistrados.
 
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 24.
 
-Las partes podrán recusar a los Magistrados, a los Secretarios o a los peritos de la Sala Civil y Administrativa, cuando estén en alguno de los casos de impedimento a que se refiere el Artículo anterior.
+Las partes podrán recusar a los Magistrados, a los Secretarios o a los peritos de la Sala Unitaria Administrativa, cuando estén en alguno de los casos de impedimento a que se refiere el Artículo anterior.
 
 ###### Artículo 25.
 
@@ -255,9 +293,11 @@ El Magistrado que se considere impedido para conocer de algún asunto, hará en 
 
 El Magistrado que teniendo impedimento para conocer de un negocio no haga la manifestación correspondiente, incurre en responsabilidad; así mismo es responsable si no teniéndolo, pretende que se le aparte del conocimiento de aquél.
 
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 26.
 
-Las partes en juicio podrán, dentro del término de ocho días a partir de que comparezcan ante la Sala Civil y Administrativa, denunciar cualquiera de los impedimentos a que se refiere el artículo 23 de esta Ley.
+Las partes en juicio podrán, dentro del término de ocho días a partir de que comparezcan ante la Sala Administrativa, denunciar cualquiera de los impedimentos a que se refiere el articulo 23 de esta Ley.
 
 ###### Artículo 27.
 
@@ -363,7 +403,9 @@ I. El documento que acredite su personalidad cuando no gestione a nombre propio,
 
 II. El documento en que conste el acto impugnado, así como el acta de su notificación, o copia de la instancia no resuelta por la autoridad demandada, cuando se impugne la negativa ficta;
 
-III. Las pruebas documentales que ofrezca. Cuando las pruebas no obren en poder del actor o cuando no hubiere podido obtenerlas y las tenga alguna autoridad, bastará con que señale el lugar donde se encuentran y que demuestre que las solicitó oportunamente, para que la Sala Civil y Administrativa solicite su remisión;
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+III. Las pruebas documentales que ofrezca. Cuando las pruebas no obren en poder del actor o cuando no hubiere podido obtenerlas y las tenga alguna autoridad, bastará con que señale el lugar donde se encuentran y que demuestre que las solicito oportunamente, para que la Sala Unitaria Administrativa solicite su remisión;
 
 IV. El cuestionario que deba desahogar el perito o el interrogatorio que deberán contestar los testigos, debidamente firmados por el oferente, asimismo señalará los nombres y domicilios de los peritos y testigos. Cuando el actor amplíe la demanda, al escrito de ampliación deberán acompañarse los documentos y pruebas a que se refiere este Artículo en lo conducente; y
 
@@ -371,9 +413,11 @@ V. Una copia de la demanda y de los documentos anexados a ella, para cada una de
 
 Cuando el actor no acompañe los documentos a que se refiere este Artículo, dará lugar a que se le requiera en los términos establecidos en el Artículo 33, pero por lo que hace al acto o resolución impugnados o al acta de notificación, bastará que manifieste bajo protesta de decir verdad que no se levantó o que no se le dejó copia de ellos, para que se tenga por presentada la demanda.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 36.
 
-La Sala Civil y Administrativa desechará la demanda en los casos siguientes:
+La Sala Unitaria Administrativa desechará la demanda en los casos siguientes:
 
 I. Si encontrare motivo manifiesto o indudable de improcedencia; y
 
@@ -503,7 +547,7 @@ Las pruebas supervinientes podrán presentarse hasta antes de dictarse sentencia
 
 El Magistrado instructor está facultado para calificar la pertinencia de las pruebas ofrecidas por las partes, y desechará aquellas que no se relacionen con los puntos controvertidos.
 
-Contra el auto que admite pruebas y contra el que las deseche, es procedente el recurso de revisión. Estas declaratorias se harán al fijarse la fecha de la audiencia del juicio.
+> <small>(REFORMADO [N. DE E. DEROGADO SEGUNDO PARRAFO], B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 52.
 
@@ -523,9 +567,11 @@ El Magistrado hará el requerimiento y suspenderá la audiencia por plazo que no
 
 Las pruebas que lo ameriten se desahogarán en la audiencia del juicio. Si no fuera posible, se señalará nueva fecha para su desahogo en los casos previstos por esta Ley.
 
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 56.
 
-Cuando el desahogo de las pruebas deba realizarse fuera de la localidad en la que resida la Sala Civil y Administrativa, el Magistrado de la causa por conducto del Tribunal Superior de Justicia, lo solicitará al Juez de Primera Instancia más cercano, girándole el exhorto correspondiente, acompañando los documentos, interrogatorios o cuestionarios correspondientes, debidamente calificados.
+Cuando el desahogo de las pruebas deba realizarse fuera de la localidad en la que resida la Sala Unitaria Administrativa, el Magistrado de la causa por conducto del Tribunal Superior de Justicia, lo solicitará al Juez de Primera Instancia más cercano, girándole el exhorto correspondiente, acompañando los documentos, interrogatorios o cuestionarios correspondientes debidamente calificados.
 
 ###### Artículo 57.
 
@@ -585,7 +631,9 @@ I. Se admitirán o desecharán las supervinientes que se ofrezcan, procediéndos
 
 II. Si se ofrece prueba pericial, en el auto que recaiga a la contestación o ampliación de ésta, se fijará plazo de 10 días para que las partes presenten a sus peritos, a fin de que comprueben si reúnen los requisitos legales, manifiesten que no tienen impedimento legal para emitir su dictamen y acepten el cargo, con el apercibimiento de que de no hacerlo solo se considerará el peritaje de quien haya cumplido.
 
-El dictamen pericial podrá rendirse antes de la celebración de la audiencia, o a más tardar durante la misma, perdiendo el derecho de hacerlo con posterioridad. La Sala Civil y Administrativa nombrará perito tercero en discordia en los casos en que los dictámenes periciales de las partes sean contradictorios, suspendiendo la audiencia en este caso. Los honorarios de este perito correrán por cuenta de las partes. Las partes y el Magistrado podrán formular observaciones a los peritos y hacerles las preguntas que estimen pertinentes en relación con los puntos sobre los que dictaminen;
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+El dictamen pericial podrá rendirse antes de la celebración de la audiencia, o a más tardar durante la misma, perdiendo el derecho de hacerlo con posterioridad. La Sala Unitaria Administrativa nombrará perito tercero en discordia en los casos en que los dictámenes periciales de las partes sean contradictorios, suspendiendo la audiencia en este caso. Los honorarios de este perito correrán por cuenta de las partes. Las partes y el Magistrado podrán formular observaciones a los peritos y hacerles las preguntas que estimen pertinentes en relación con los puntos sobre los que dictaminen;
 
 III. Las preguntas y las repreguntas que pudieran formular las otras partes a los testigos, deberán tener relación directa con los puntos controvertidos y estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho. El Magistrado deberá calificar los interrogatorios, desechando las preguntas o repreguntas improcedentes. La protesta y examen de los testigos se hará en presencia de las partes. El Magistrado podrá hacer las preguntas que considere necesarias. El oferente de la prueba podrá formular preguntas adicionales, que deberán contestar los testigos previa calificación; y
 
@@ -633,37 +681,15 @@ Si se interpuso el recurso de revisión en el caso previsto en la fracción V de
 
 ###### Artículo 68.
 
-Contra los acuerdos y resoluciones dictados por los magistrados de la Sala Civil y Administrativa, proceden los siguientes recursos:
-
-I. Revisión; y
-
-II. Queja.
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ###### Artículo 69.
 
-El recurso de Revisión es competencia del Superior y es procedente contra las resoluciones de la Sala Civil y Administrativa que:
-
-I. Admitan, desechen, o tengan por no interpuesta la demanda, la contestación, la ampliación de ambas o las pruebas ofrecidas;
-
-II. Decreten o nieguen el sobreseimiento del juicio;
-
-III. Admitan o nieguen la intervención del tercero perjudicado;
-
-IV. Señalen el monto de las garantías o contragarantías;
-
-V. Resuelvan el juicio o la cuestión planteada, en el fondo;
-
-VI. Concedan, nieguen, modifiquen o revoquen la suspensión de los actos impugnados;
-
-VII. Por violaciones procesales cometidas durante el juicio, siempre que afecten las defensas del recurrente y trasciendan al sentido del fallo; o
-
-VIII. Por violaciones cometidas en las propias resoluciones o sentencias.
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ###### Artículo 70.
 
-El recurso de revisión deberá ser interpuesto por escrito con expresión de agravios, dentro del plazo de cinco días hábiles siguientes al en que practique la notificación de la resolución que se impugna, se presentará ante el Magistrado del que emane la resolución combatida, y éste correrá traslado a las demás partes en el juicio y las emplazará para que dentro de igual término expongan ante el Superior del Tribunal lo que a su derecho convenga.
-
-Emplazadas las partes, se remitirá el escrito del recurso y el expediente correspondiente al Superior del Tribunal para su resolución. Vencido el término para alegar, el Magistrado del Superior deberá dictar su resolución en un plazo no mayor a cinco días hábiles.
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ###### Artículo 71.
 
@@ -689,23 +715,31 @@ Interpuesto el recurso y a solicitud de parte, el Magistrado mandará suspender 
 
 Causan ejecutoria:
 
-I. Las sentencias consentidas expresamente por las partes, sus representantes legítimos o sus mandatarios con poder bastante; y
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
-II. Las sentencias no impugnadas o de las que habiéndolo sido, se haya declarado desierto o improcedente el medio de impugnación o el promovente se haya desistido de él, o no se continuare el recurso en el término legal.
+I. Las sentencias consentidas expresamente por las partes, sus representantes legítimos o sus mandatarios con poder bastante;
+
+II. (DEROGADA, B.O. 24 DE DICIEMBRE DE 2008)
+
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 73.
 
-Cuando haya causado ejecutoria una sentencia favorable a un particular, la Sala Civil y Administrativa lo comunicará por oficio dentro de los tres días siguientes a las autoridades demandadas para su debido cumplimiento, previniéndolas para que informen sobre el cumplimiento que den a la sentencia respectiva.
+Cuando haya causado ejecutoria una sentencia favorable a un particular, la Sala Unitaria Administrativa lo comunicará por oficio dentro de los tres días siguientes alas autoridades demandadas para su debido cumplimiento, previniéndolas para que informen sobre el cumplimiento que den a la sentencia respectiva.
+
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 74.
 
-Si dentro de los quince días siguientes al en que haya causado ejecutoria la sentencia, ésta no se cumpliere, la Sala Civil y Administrativa de oficio o a petición de parte, aplicará los medios de apremio previstos por esta Ley.
+Si dentro de los quince días siguientes al en que haya causado ejecutoria la sentencia, ésta no se cumpliere, la Sala Unitaria Administrativa de oficio o a petición de parte, aplicará los medios de apremio previstos por esta Ley.
+
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 75.
 
-En el supuesto de que la autoridad o el servidor público persistiera en no dar cumplimiento a la sentencia, la Sala Civil y Administrativa ordenará su cumplimiento si la ejecución consiste en la realización de un acto material; promoverá la aplicación de la ley o del reglamento que corresponda, y si el acto solo puede ser ejecutado por la autoridad demandada, solicitará al titular de la dependencia estatal o municipal a quien se encuentre subordinada dicha autoridad, para que conmine a ésta a cumplir con la sentencia.
+En el supuesto de que la autoridad o el servidor público persistiera en no dar cumplimiento a la sentencia, la Sala Unitaria Administrativa ordenará su cumplimiento si la ejecución consiste en la realización de un acto material; promoverá la aplicación de la ley o del reglamento que corresponda, y si el acto solo puede ser ejecutado por la autoridad demandada, solicitará al titular de la dependencia estatal o municipal a quien se encuentre subordinada dicha autoridad, para que conmine a ésta a cumplir con la sentencia.
 
-Si no obstante los requerimientos anteriores no se da cumplimiento a la resolución, la Sala Civil y Administrativa podrá decretar la destitución del servidor público que incumplió, excepto que se trate de una autoridad de elección, en cuyo caso se procederá en los términos de la Ley de Responsabilidades de los Servidores Públicos para el Estado y de los Municipios de Baja California Sur.
+Si no obstante los requerimientos anteriores no se da cumplimiento a la resolución, la Sala Unitaria Administrativa podrá decretar la destitución del servidor, público que incumplió, excepto que se trate de una autoridad de elección, en cuyo caso se procederá en los términos de la Ley de Responsabilidades de los Servidores Públicos para el Estado y de los Municipios de Baja California Sur.
 
 ###### Artículo 76.
 
@@ -715,7 +749,7 @@ Las sanciones mencionadas en este Capítulo también serán procedentes cuando n
 
 ###### Artículo 77.
 
-Los criterios de interpretación de la Ley, sustentados por el Superior, serán obligatorios para la Sala Civil y Administrativa, siempre que lo resuelto se sustente en tres sentencias no interrumpidas por otra en contrario.
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ###### Artículo 78.
 
@@ -723,9 +757,7 @@ Para la modificación de los criterios a que se refiere el Artículo anterior, s
 
 ###### Artículo 79.
 
-Cuando los Magistrados de la Sala Civil y Administrativa sustenten tesis contradictorias, cualesquiera de ellas o las partes que intervinieron en los asuntos en que tales tesis se sustentaron, podrán denunciar la contradicción ante el Pleno. Al recibir la denuncia se designará al Magistrado que formule la ponencia respectiva, a fin de decidir si efectivamente existe la contradicción, y en su caso, cuál será el criterio de interpretación que deba adoptarse.
-
-La resolución que se dicte en estos casos no afectará las situaciones jurídicas concretas derivadas de las sentencias contradictorias que fueron pronunciadas.
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ###### Artículo 80.
 
@@ -764,3 +796,15 @@ C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
 EL SUBSECRETARIO GENERAL DE GOBIERNO
 
 C. LIC. VÍCTOR DANIEL MADRIGAL BARBOSA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 24 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+El Magistrado Presidente del H. Tribunal Superior de Justicia del Estado de Baja California Sur, deberá de redistribuir los Tocas en las Salas Unitarias que correspondan en razón de la materia, debiéndose publicar dicha redistribución en el Boletín Judicial del Poder Judicial del Estado de Baja California Sur para conocimiento de las partes interesadas en los Tocas respectivos.
