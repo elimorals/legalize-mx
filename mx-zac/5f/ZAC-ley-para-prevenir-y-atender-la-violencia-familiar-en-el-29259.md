@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-prevenir-y-atender-la-violencia-familiar-en-el-29259"
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-19"
-last_updated: "2006-02-01"
+last_updated: "2008-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29259&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA PREVENIR Y ATENDER LA VIOLENCIA FAMILIAR EN EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 19 de febrero de 2003.
 
@@ -145,19 +145,25 @@ Se crea el Consejo Estatal para la Prevención y Atención de la Violencia Famil
 
 I. Secretaría General de Gobierno;
 
-II. Sistema Estatal para el Desarrollo Integral de la Familia y sus Organismos Municipales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. Instituto para la Mujer Zacatecana;
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
-IV. Servicios de Salud de Zacatecas;
+II. Secretaria de Seguridad Pública;
 
-V. Secretaría de Educación y Cultura;
+III. Sistema Estatal para el Desarrollo Integral de la Familia y sus Organismos Municipales.
 
-VI. Secretaria de Planeación y Desarrollo Regional;
+IV. Instituto para la Mujer Zacatecana;
 
-VII. Procuraduría General de Justicia en el Estado, y
+V. Servicios de Salud de Zacatecas;
 
-VIII. Instituto Nacional para Adultos en Plenitud;
+VI. Secretaría de Educación y Cultura;
+
+VII. Secretaria de Planeación y Desarrollo Regional;
+
+VIII. Procuraduría General de Justicia en el Estado, y
+
+IX. Instituto Nacional para Adultos en Plenitud;
 
 El Consejo estará también integrado por cinco representantes de la sociedad civil con reconocida trayectoria en el ámbito de los derechos humanos.
 
@@ -257,9 +263,13 @@ III. Aplicar, a los perpetradores de la violencia familiar, según la materia de
 
 IV. Llevar una estadística desagregada por sexos y edades, de los casos de violencia familiar en las materias penal y civil.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 13.
 
-Corresponde a la Secretaría General de Gobierno:
+Corresponde a la Secretaría General de Gobierno en coordinación con la Secretaría de Seguridad Pública:
 
 I. Llevar un registro de instituciones gubernamentales y organizaciones civiles que trabajen en materia de violencia familiar en el Estado;
 
@@ -610,3 +620,23 @@ P.O. 1 DE FEBRERO DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2008.
+
+Artículo primero.- El presente Decreto iniciará su vigencia el 1 de Marzo de 2009, con las modalidades que enseguida se precisan.
+
+Artículo segundo.- Los recursos humanos, financieros y materiales del Consejo Estatal de Seguridad Pública, de la Subsecretaría de Seguridad Pública y de la Dirección General de Seguridad Pública y Tránsito del Estado, asignados a funciones operativas, pasarán a formar parte de la Secretaría de Seguridad Pública. Los recursos humanos, financieros y materiales de las Direcciones de la Policía Estatal Preventiva y de Prevención y Readaptación Social, así como los del Centro de Internamiento y Atención Integral Juvenil, dependientes de la Secretaría General de Gobierno, pasarán a formar parte de la Secretaría de Seguridad Pública.
+
+En ambos casos se deberán respetar los derechos laborales y de seguridad social que los servidores públicos hubieren adquirido con anterioridad.
+
+Artículo tercero.- Dentro de los treinta días naturales siguientes a la entrada en vigor de este Decreto, el Poder Ejecutivo del Estado nombrará al titular de dicha dependencia.
+
+Artículo cuarto.- Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, se deberá adecuar y publicar en el Periódico Oficial, Órgano del Gobierno del Estado, las modificaciones al Programa Estatal de Seguridad Pública.
+
+Artículo quinto.- Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, deberán publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, las reformas al Reglamento Interior de la Secretaría General de Gobierno y al Reglamento de la Policía Estatal Preventiva.
+
+Artículo sexto.- Dentro de los noventa días naturales siguientes a la publicación de este Decreto, deberá quedar integrado el Sistema Estatal de Seguridad Pública.
+
+Artículo séptimo.- En el Presupuesto de Egresos del Estado para el ejercicio fiscal 2009, deberán incluirse las partidas correspondientes para el funcionamiento de la Secretaría de Seguridad Pública.
+
+Artículo octavo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
