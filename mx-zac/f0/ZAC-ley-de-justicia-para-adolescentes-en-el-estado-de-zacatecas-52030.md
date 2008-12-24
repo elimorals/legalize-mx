@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-justicia-para-adolescentes-en-el-estado-de-zacatecas-520
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-30"
-last_updated: "2006-09-30"
+last_updated: "2008-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES EN EL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ENERO DE 2009 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE JUSTICIA PARA ADOLESCENTES EN EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Suplemento No. 78 del Periódico Oficial del Estado de Zacatecas, el sábado 30 de septiembre de 2006.
 
@@ -1499,9 +1501,13 @@ VII. Las demás atribuciones que esta y otras leyes le asignen.
 
 ### CAPÍTULO II. Del Centro de Internamiento y Atención Integral Juvenil
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 173.
 
-La instancia encargada de la ejecución de las medidas sancionadoras privativas de libertad, tendrá el carácter de órgano administrativo desconcentrado de la Secretaría General de Gobierno del Estado de Zacatecas y se le denominará Centro de Internamiento y Atención Integral Juvenil.
+La instancia encargada de la ejecución de las medidas sancionadoras privativas de libertad, tendrá el carácter de órgano administrativo desconcentrado de la Secretaría de Seguridad Pública del Estado de Zacatecas y se le denominará Centro de Internamiento y Atención Integral Juvenil.
 
 ###### Artículo 174.
 
@@ -1980,3 +1986,25 @@ DADO en la Sala de Sesiones de la Honorable Quincuagésima Octava Legislatura de
 Y para que llegue al conocimiento de todos y se le de el debido, cumplimiento, mando se imprima, publique y circule.
 
 DADO en el Despacho del Poder Ejecutivo del Estado, a los veintisiete días del mes de Septiembre del año dos mil seis.- Gobernadora del Estado.- AMALIA D. GARCÍA MEDINA. Secretario General del Estado.- LUIS GERARDO ROMO FONSECA.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
+
+P.O. 24 DE DICIEMBRE DE 2008.
+
+Artículo primero.- El presente Decreto iniciará su vigencia el 1 de Marzo de 2009, con las modalidades que enseguida se precisan.
+
+Artículo segundo.- Los recursos humanos, financieros y materiales del Consejo Estatal de Seguridad Pública, de la Subsecretaría de Seguridad Pública y de la Dirección General de Seguridad Pública y Tránsito del Estado, asignados a funciones operativas, pasarán a formar parte de la Secretaría de Seguridad Pública. Los recursos humanos, financieros y materiales de las Direcciones de la Policía Estatal Preventiva y de Prevención y Readaptación Social, así como los del Centro de Internamiento y Atención Integral Juvenil, dependientes de la Secretaría General de Gobierno, pasarán a formar parte de la Secretaría de Seguridad Pública.
+
+En ambos casos se deberán respetar los derechos laborales y de seguridad social que los servidores públicos hubieren adquirido con anterioridad.
+
+Artículo tercero.- Dentro de los treinta días naturales siguientes a la entrada en vigor de este Decreto, el Poder Ejecutivo del Estado nombrará al titular de dicha dependencia.
+
+Artículo cuarto.- Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, se deberá adecuar y publicar en el Periódico Oficial, Órgano del Gobierno del Estado, las modificaciones al Programa Estatal de Seguridad Pública.
+
+Artículo quinto.- Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, deberán publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, las reformas al Reglamento Interior de la Secretaría General de Gobierno y al Reglamento de la Policía Estatal Preventiva.
+
+Artículo sexto.- Dentro de los noventa días naturales siguientes a la publicación de este Decreto, deberá quedar integrado el Sistema Estatal de Seguridad Pública.
+
+Artículo séptimo.- En el Presupuesto de Egresos del Estado para el ejercicio fiscal 2009, deberán incluirse las partidas correspondientes para el funcionamiento de la Secretaría de Seguridad Pública.
+
+Artículo octavo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
