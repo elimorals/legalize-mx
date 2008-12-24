@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-2994"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-04-20"
-last_updated: "2006-12-31"
+last_updated: "2008-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 20 de abril de 1996.
 
@@ -113,19 +113,23 @@ V. El de Los Cabos, con la extensión territorial del Municipio del mismo nombre
 
 El Tribunal Superior de Justicia tendrá su residencia en la capital del Estado y solo podrá cambiarla cuando así lo decrete el H. Congreso del Estado; estará constituido por siete Magistrados que durarán en su encargo seis años.
 
-> <small>(REFORMADO, B.O. 11 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 6o.
 
-Para los efectos de la fracción VI del artículo 91 de la Constitución Política del Estado de Baja California Sur, las personas que sean propuestas por el Gobernador del Estado para ocupar el cargo de Magistrado, deberán acreditar examen de evaluación profesional, de conformidad con las siguientes prevenciones:
+Para ser Magistrado se requiere:
 
-I. El examen se dividirá en tres partes o secciones y por lo tanto considerará tres vertientes. La primera será relativa al conocimiento técnico jurídico, la segunda se referirá a la función jurisdiccional y responsabilidad de los funcionarios judiciales y como servidores públicos, y la tercera abordará lo relativo a la evaluación psicométrica. El número de reactivos o preguntas será determinado por los encargados de realizar dicho examen;
+I.- Ser ciudadano Sudcaliforniano, en pleno ejercicio de sus derechos políticos y civiles y haber residido en el Estado durante los dos años anteriores al día de la designación;
 
-II. La elaboración, aplicación y calificación del examen relativo a la primera y segunda vertiente, con el apoyo del Instituto de Estudios Judiciales del Tribunal Superior de Justicia del Estado, será responsabilidad de la Comisión de Evaluación que al efecto se conforme, misma que estará integrada por tres Magistrados del Tribunal Superior de Justicia del Estado, un representante del Poder Ejecutivo designado por el Gobernador del Estado y por un Diputado representante del Poder Legislativo;
+II.- Tener cuando menos treinta y cinco años cumplidos el día de la designación;
 
-III. La parte correspondiente a la tercera vertiente relativa al examen psicométrico, esta será aplicada por un perito en la materia, designado por a propia Comisión de Evaluación; y
+III.- Poseer al día de su elección, con una antigüedad mínima de diez años, Título y Cédula Profesional de Licenciado en Derecho, expedidos por la autoridad o Institución legalmente facultada para ello;
 
-IV. Una vez concluida la evaluación, los integrantes de la Comisión de Evaluación, emitirán su opinión debidamente justificada con la documentación correspondiente y presentarán las propuestas al Gobernador del Estado para que proceda conforme a sus atribuciones.
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
+
+V.- No haber sido Secretario de Despacho del Poder Ejecutivo o su equivalente, Procurador General de Justicia o Diputado Local durante el año previo al día de la designación.
+
+Los Magistrados del Tribunal Superior de Justicia serán designados preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
 ###### ARTICULO 7o.
 
@@ -329,107 +333,157 @@ La Presidencia del Tribunal Superior de Justicia contará con el auxilio de un S
 
 ### CAPITULO CUARTO. DE LAS SALAS DEL TRIBUNAL
 
-> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 19.
 
-El Tribunal Superior de Justicia funcionará en Salas especializadas por materia o ramo. Cuando por las necesidades del servicio haya más de una Sala especializada en la misma materia, para distinguirlas, serán designadas por número ordinal. Cada una de las Salas se integrará con tres Magistrados, uno de los cuales fungirá como Presidente de la misma. En caso de ausencia, recusación o excusa de alguno de los Magistrados, integrará Sala un Magistrado de otra Sala que designe el Pleno. Cuando los tres Magistrados que integran la Sala estuvieran impedidos para conocer un negocio, se turnará a la otra Sala. En el supuesto de que los Magistrados de las Salas estuvieren impedidos para conocer del negocio, se integrará una especial que conocerá del asunto, con los Magistrados o Jueces de Primera Instancia, designados por el Pleno del Tribunal Superior de Justicia, que al efecto se reunirá inmediatamente sin perjuicio de sus labores o funciones.
+El Tribunal Superior de Justicia funcionará en Salas especializadas por materia o por ramo, siendo estas Unitarias las cuales serán especializadas en materia civil, penal, justicia para adolescentes y justicia administrativa. Para distinguirlas serán designadas por número ordinal. Cada Magistrado integrará una sala, con excepción del Presidente del Tribunal Superior de Justicia.
 
-> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
+En caso de ausencia, recusación o excusa de un Magistrado, de Sala·Unitaria, integrará Sala un Magistrado de otra Sala que designe el Pleno. En el supuesto de que los Magistrados de las Salas Unitarias estuvieren impedidos para conocer del negocio, se integrará una sala especial que conocerá del asunto, con un Juez de Primera Instancia, designado por el Pleno del Tribunal Superior de Justicia, que para tal efecto se integrará inmediatamente, sin perjuicio de sus labores o funciones.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 19 B.- Las Salas Unitarias del Tribunal Superior de Justicia se compondrán además del Magistrado, de un Secretario de Acuerdos, un Actuario, los Secretarios proyectistas y los empleados de apoyo que determine el Pleno del Tribunal Superior de Justicia según la disponibilidad del presupuesto.
 
 ###### ARTICULO 20.
 
-Cada Sala elegirá, de entre los Magistrados que la integren, un Presidente que durará en su cargo un año y podrá ser reelecto. La elección, se hará en la primera sesión del mes de enero de cada año.
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
-En los casos de excusa o recusación de un Presidente de Sala, lo suplirá el Presidente de la otra Sala y en su defecto, por el Magistrado que el propio Tribunal en Pleno determine.
-
-> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
-
-ARTICULO 20 A.- Son atribuciones del Presidente de cada una de las Salas del Tribunal Superior de Justicia en los asuntos de su competencia:
-
-I. Despachar la correspondencia de la Sala autorizándola con su firma;
-
-II. Distribuir por riguroso turno los negocios entre los Magistrados miembros de la Sala, incluido él, para su estudio y presentación oportuna del proyecto de resolución o ponencia que en cada Toca deba dictarse.
-
-III. Rendir los informes previos y con justificación en los Juicios de Amparo que se promuevan en contra de las resoluciones de la Sala del Tribunal Superior de Justicia;
-
-IV. Vigilar que los proyectos de resolución redactados por escrito, sean distribuidos para su estudio, a los Magistrados integrantes de la Sala, cuando menos tres días hábiles antes de la sesión.
-
-V. Convocar y presidir las sesiones de la Sala, cuidar el orden de la misma y dirigir la discusión de los negocios sometidos al conocimiento de la Sala y ponerlos a votación cuando la Sala declare terminado el debate;
-
-VI. Remitir los informes estadísticos de la Sala a la Dirección de Estadística, Informática y Computación; y (sic)
-
-> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
+ARTICULO 20 A.- (DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ###### ARTICULO 21.
 
-Cada Sala actuará colegiadamente en la celebración de audiencias, práctica de diligencias, aprobación y firma de acuerdos, discusión y resolución de los asuntos.
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
-Las resoluciones de las Salas del Tribunal Superior de Justicia, se tomarán por unanimidad o por mayoría de votos, sin que ningún Magistrado pueda abstenerse de votar, salvo que tuviera impedimento legal. En los casos de votación por mayoría deberá emitirse el voto particular del disidente.
+ARTICULO 21 A.- (DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
-> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+ARTICULO 21 B.- (DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
-ARTICULO 21 A.- El día señalado para la sesión, el Secretario de Estudios y Proyectos, dará lectura al Proyecto de resolución y a las constancias que señalen los Magistrados y se pondrá a discusión. El asunto suficientemente discutido, a juicio de los Magistrados, se procederá a la votación y acto continuo, el Magistrado Presidente de la sala declarará el resultado de ésta. De no ser aprobado el proyecto, éste será devuelto al Magistrado ponente para que lo modifique de acuerdo al criterio de la mayoría; en el caso de que no esté de acuerdo el ponente con ello, podrá conservar su proyecto como voto particular, debiendo entregar la causa al Presidente de la sala, para el efecto de que lo turne a otro Magistrado de la Sala, a fin de que formule nuevo proyecto de acuerdo con la opinión de la mayoría.
-
-> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
-
-ARTICULO 21 B.- Toda resolución que pronuncien las Salas, deberán ser firmadas por el Magistrado Presidente de la sala y por el Secretario de Acuerdos que dará fe, así como por los Magistrados que estuvieren conformes con la misma, dentro de los cinco días siguientes a la aprobación del Proyecto, siempre que se hubiere aprobado sin adiciones ni reformas.
-
-Si no fuere aprobado el Proyecto pero el Magistrado Ponente aceptare las adiciones y reformas propuestas en la sesión, procederá a redactar la resolución con base a las consideraciones de la discusión.
-
-Si el proyecto del Magistrado Ponente fue aprobado sin adiciones ni reformas, se tendrá como sentencia definitiva y se firmará dentro de los tres días siguientes.
-
-> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 22.
 
-Corresponde a los Magistrados de la Sala Civil y Administrativa:
+Corresponde a los Magistrados de las Salas Civiles:
+
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
 
 I. Conocer de los recursos de apelación, apelación extraordinaria, queja y cualesquiera otros que la Ley conceda contra los decretos, autos, sentencias y demás resoluciones dictadas por los Jueces de Primera Instancia del Ramo Civil, Familiar o Mixtos y Menores, conforme a las Leyes Procesales;
 
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
 II. Intervenir en los juicios de amparo que se promuevan en contra de las resoluciones dictadas por la Sala;
 
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
 III. Conocer de las excusas y recusaciones de los Jueces y demás servidores públicos de la Sala, en el ámbito de su competencia;
+
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
 
 IV. Conocer de los asuntos en los que la Ley establezca la revisión de oficio;
 
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
 V. Conocer de las competencias que se susciten en materia civil, familiar y mercantil entre las autoridades judiciales del Fuero Común del Estado;
+
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
 
 VI. Vigilar que los Secretarios de Acuerdos y demás servidores públicos de la Sala cumplan con sus deberes respectivos, aplicando las correcciones disciplinarias que sean necesarias y en su caso, dar cuenta al Pleno por conducto del Presidente de la Sala para los efectos conducentes;
 
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
 VII. Conocer de las excitativas de justicia que se promuevan en contra de los jueces, en los asuntos del orden civil, familiar o mercantil y administrativa (sic);
+
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
 
 VIII. Apercibir, amonestar o imponer multas hasta 180 días del importe del salario mínimo vigente en el Estado de Baja California Sur, al día de cometerse la falta, a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones que hagan ante la Sala falten al respeto o (sic) a algún órgano o miembro del Poder Judicial del Estado;
 
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
 IX. Turnar al Pleno por conducto del Presidente de la Sala los asuntos que sean de su competencia;
 
-X. Conocer de los asuntos contencioso administrativos en los términos que señalen las Leyes; y
+X. (DEROGADA, B.O. 24 DE DICIEMBRE DE 2008)
+
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
 
 XI. Conocer de los demás asuntos que le encomienden las Leyes.
 
-> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
-ARTICULO 22 A.- Corresponde a los Magistrados de la Sala Penal:
+ARTICULO 22 A.- Corresponde a los Magistrados de las Salas Penales:
 
-> <small>(REFORMADA, B.O. 5 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
-I. Conocer de los recursos de apelación, denegada apelación, quejas y cualquiera otros que la Ley conceda contra los decretos, autos, sentencias y demás resoluciones dictadas por los Jueces de Primera Instancia, Menores en asuntos del orden penal que sean de su competencia, así como del Recurso de Apelación interpuesto contra las resoluciones que con el mismo carácter que las señaladas con anterioridad, sean emitidas por los Jueces Especializados en Justicia para Adolescentes;
+I. Conocer de los recursos de apelación, denegada apelación, quejas y cualquiera otros que la Ley conceda contra los decretos, autos, sentencias y demás resoluciones dictadas por los Jueces de Primera instancia y Menores en asuntos del orden penal que sean de su competencia;
+
+> <small>(ADICIONADA, B.O. 10 DE AGOSTO DE 2004)</small>
 
 II. Intervenir en los juicios de amparo que se promuevan en contra de las resoluciones dictadas por la Sala;
 
+> <small>(ADICIONADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
 III. Conocer de las excusas y recusaciones de los Jueces y demás servidores públicos de la Sala, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, B.O. 10 DE AGOSTO DE 2004)</small>
 
 IV. Conocer de las contiendas de acumulación que se susciten en materia penal entre las Autoridades del Fuero Común;
 
+> <small>(ADICIONADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
 V. Vigilar que los Secretarios de Acuerdos y demás servidores públicos de la Sala cumplan con sus deberes respectivos, aplicando las correcciones disciplinarias que sean necesarias y en su caso, dar cuenta al Pleno, por conducto del Presidente de la Sala para los efectos conducentes;
+
+> <small>(ADICIONADA, B.O. 10 DE AGOSTO DE 2004)</small>
 
 VI. Conocer de las excitativas de justicia que se promuevan en contra de los Jueces del orden penal;
 
+> <small>(ADICIONADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
 VII. Apercibir, amonestar o imponer multas hasta de 180 días del importe del salario mínimo vigente en el Estado de Baja California Sur, al día de cometerse la falta, a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones que hagan ante la Sala falten al respeto o (sic) a algún órgano o miembro del Poder Judicial del Estado;
+
+> <small>(ADICIONADA, B.O. 10 DE AGOSTO DE 2004)</small>
 
 VIII. Turnar al Pleno, por conducto del Presidente de la Sala los asuntos que sean de su competencia; y
 
+> <small>(ADICIONADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
 IX. Conocer de los demás asuntos que le encomienden las Leyes.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 22 B.- Corresponde al Magistrado de la Sala Unitaria en Justicia para Adolescentes:
+
+I.- Conocer y resolver, de manera definitiva e inatacable, los recursos que se interpongan en contra de las resoluciones inicial y definitiva, así como de aquellas que modifiquen o den por terminadas las medidas impuestas, según lo dispuesto en la presente Ley, sin perjuicio de lo previsto en los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
+
+II.- Intervenir en los juicios de amparo que se promuevan en contra de las resoluciones dictadas por la Sala Unitaria en justicia para adolescentes;
+
+III.- Conocer de las excusas y recusaciones de los Jueces Especializados en Justicia para Adolescentes, en el ámbito de su competencia;
+
+IV.- Vigilar que los secretarios de Acuerdos y demás servidores públicos de la Sala cumplan con sus deberes respectivos, aplicando las correcciones disciplinarias que sean necesarias y en su caso, dar cuenta al Pleno, para los efectos conducentes;
+
+V.- Conocer de las excitativas de justicia que se promuevan en contra de los Jueces especializados en justicia para adolescentes;
+
+VI.- Apercibir, amonestar o imponer multas hasta de 180 días del importe del salario mínimo vigente en el Estado de Baja California Sur, al día de cometerse la falta, a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones que hagan ante la Sala falten al respeto a algún órgano o miembro del Poder Judicial del Estado;
+
+VII.- Turnar al Pleno, los asuntos que sean de su competencia; y
+
+VIII.- Conocer de los demás asuntos que le encomienden los ordenamientos jurídicos.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 22 C.- Corresponde al Magistrado de la Sala unitaria de Justicia Administrativa:
+
+I.- Conocer de los juicios contenciosos administrativos de acuerdo a lo establecido en el artículo 3 de la ley de Justicia Administrativa para el Estado de Baja California Sur;
+
+II.- Intervenir en los juicios de amparo que se promuevan en contra de las resoluciones dictadas por la Sala Unitaria en Justicia Administrativa;
+
+III.- Vigilar que los Secretarios de Acuerdos y demás servidores públicos de la Sala cumplan con sus deberes respectivos, aplicando las correcciones disciplinarias que sean necesarias y en su caso, dar cuenta al·Pleno, para los efectos conducentes;
+
+IV.- Conocer de las excitativas de justicia que se promuevan en materia del orden administrativo;
+
+V.- Apercibir, amonestar o imponer multas hasta de 180 días del importe del salario mínimo vigente en el Estado de Baja California Sur, al día de cometerse la falta, a los abogados, agentes de negocios, procuradores o litigantes cuando en las promociones que hagan ante la Sala falten al respeto a algún órgano o miembro del Poder Judicial del Estado;
+
+VI.- Turnar al Pleno, los asuntos que sean de su competencia; y
+
+VII.- Conocer de los demás asuntos que le encomienden los ordenamientos jurídicos.
 
 ### CAPITULO QUINTO. DE LOS SECRETARIOS Y DEMÁS SERVIDORES PÚBLICOS DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
@@ -649,7 +703,9 @@ V. De los demás asuntos que les encomienden las Leyes.
 
 > <small>(ADICIONADO, B.O. 5 DE OCTUBRE DE 2006)</small>
 
-ARTICULO 37 BIS.- En Justicia para Adolescentes, los Jueces Especializados conocerán:
+###### ARTICULO 37 Bis.
+
+En Justicia para Adolescentes, los Jueces Especializados conocerán:
 
 I. De las causas instauradas en contra de las personas a quienes se impute la realización de un acto tipificado como delito en las leyes locales, cuando teniendo entre doce años cumplidos y dieciocho años no cumplidos;
 
@@ -1275,27 +1331,31 @@ V. Las demás que señale el Reglamento y las que le confieran el Pleno o el Pre
 
 DE LA DIRECCION DE FINANZAS Y FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA.
 
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 108.
 
-Esta Dirección estará integrada por:
+La Dirección de Finanzas estará integrada por:
 
-I. Un Director;
+I.- Un Director;
 
-II. Un Administrador de Política Presupuestal y Servicios Personales;
+II.- Un Jefe de departamento de administración de política presupuestal y servicios personales;
 
-III. Un Contador General;
+III.- Un contralor general;
 
-IV. Un Auxiliar de Contabilidad;
+IV.- Un auxiliar de contabilidad;
 
-V. Un Cajero;
+V.- Un cajero;
 
-VI. Una Secretaria;
+VI.- Una secretaria; y
 
-VII. Un Auxiliar Administrativo.
+VII.- Un auxiliar administrativo.
+
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 109.
 
-Para ser Director se exigen los mismos requisitos que para ser Juez, salvo el de la profesión, que en este caso debe ser Contador Público o Licenciado en áreas de la administración con título registrado.
+Para ser Director de Finanzas, del Fondo Auxiliar para la Administración de Justicia o de Administración de Política Presupuestal y Servicios Personales, se requerirán los mismos requisitos que para ser Juez, salvo el de la profesión que en cualquiera de los tres cargos en mención, se exigirá título de Licenciado en Contaduría o en áreas de la administración afines, con título debidamente registrado.
 
 ###### ARTICULO 110.
 
@@ -1327,63 +1387,63 @@ Para los efectos de los artículos anteriores el Tribunal o cualquier Órgano de
 
 Las cantidades que reciba el Fondo en los términos del artículo anterior serán reintegradas al beneficiario o depositante según proceda, mediante orden por escrito del Titular del Órgano correspondiente.
 
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 115.
 
 El patrimonio del Fondo se destinará:
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2006)</small>
+I.- A reparar el daño cuando se dicte sentencia que así lo ordene o cuando el indiciado o inculpado se a la acción de la justicia, siempre y cuando se hubiese garantizado mediante fianza dicha, reparación;
 
-I.- A reparar el daño cuando se dicte sentencia que así lo ordene o cuando el indiciado o inculpado se sustraiga a la acción de la justicia, siempre y cuando se hubiese garantizado mediante fianza dicha reparación;
+II.- A sufragar los gastos que origine su administración:
 
-II. A sufragar los gastos que origine su administración;
+III.- A la adquisición de bienes para el Tribunal Superior de Justicia y Órganos Auxiliares de la Administración de Justicia;
 
-III. A la adquisición de bienes para el Tribunal Superior de Justicia y Órganos Auxiliares de la Administración de Justicia;
+IV.- A la capacitación y mejoramiento profesional de los integrantes del Poder Judicial y Órganos Auxiliares de la Administración de Justicia; y
 
-IV. A la capacitación y mejoramiento profesional de los integrantes del Poder Judicial y Órganos Auxiliares de la Administración de Justicia; y
+V.- Para otorgar estímulos económicos y sociales a la planta de servidores públicos del Poder Judicial.
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
-V. Para otorgar estímulos económicos y sociales a la planta de servidores públicos del Poder Judicial, con excepción de los magistrados.
+###### ARTICULO 115 Bis.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
+La Dirección del Fondo Auxiliar estará integrada por:
 
-Los depósitos e intereses obtenidos por garantías de reparación del daño, deberán destinarse al fin contemplado en la fracción I. Los depósitos por otros conceptos se destinarán de la siguiente manera: el 50% para estímulos económicos de conformidad a lo establecido en la fracción V, y el 50% para capacitación y mejoramiento profesional, adquisición de bienes y administración del Fondo.
+I.- Un Director;
+
+II.- Un Contralor General;
+
+III.- Un Auxiliar de Contabilidad;
+
+IV.- Un Cajero;
+
+V.- Una secretaria; y
+
+VI.- Un Auxiliar Administrativo.
+
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 116.
 
-La Dirección de Finanzas y Fondo Auxiliar para la Administración de Justicia tendrá las siguientes atribuciones:
+La Dirección de Finanzas, tendrá las siguientes atribuciones:
 
-I. De Dirección:
+I.- Gestionar ante el Ejecutivo del Estado la obtención de los recursos para cubrir el presupuesto;
 
-1.- Gestionar ante el Ejecutivo del Estado la obtención de los recursos para cubrir el presupuesto;
-
-2.- Llevar el control de Bancos e inversiones para obtener un mejor aprovechamiento;
+2.- Llevar el control de Bancos e inversiones para obtener mejor aprovechamiento;
 
 3.- Elaboración de cheques para gasto corriente y de inversión;
 
 4.- Recepción de comprobantes de proveedores de bienes y servicios;
 
-5.- Pago de impuestos estatales;
+5.- Pago de impuestos estatales; y
 
-6.- Adquisición de bienes muebles e inmuebles; y
+6.- Adquisición de bienes muebles e inmuebles.
 
-7.- Supervisión de la aplicación de las partidas presupuestales.
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
-II. Area de Contabilidad:
+###### ARTICULO 116 Bis.
 
-1.- Registro de ingresos y egresos;
-
-2.- Cálculo de impuestos federales y estatales;
-
-3.- Elaboración de estados financieros mensuales;
-
-4.- Elaboración de declaraciones anuales estatales y federales;
-
-5.- Elaboración de declaraciones mensuales (impuesto federal); y
-
-6.- Elaboración de conciliaciones bancarias mensuales.
-
-III. Area del Fondo Auxiliar:
+La Dirección del Fondo Auxiliar para la Administración de Justicia, tendrá las siguientes atribuciones:
 
 1.- Registro de ingresos por concepto de multas, conmutaciones y fianzas hechos efectivos;
 
@@ -1393,7 +1453,7 @@ III. Area del Fondo Auxiliar:
 
 4.- Captura de recibos de caja y entrega;
 
-5.- Hacer las devoluciones de las fianzas de los Juzgados locales y foráneos;
+5.- Hacer las devoluciones de las fianzas de los juzgados locales y foráneos;
 
 6.- Registro de egresos;
 
@@ -1403,23 +1463,45 @@ III. Area del Fondo Auxiliar:
 
 9.- Manejo de las inversiones para obtener un mejor rendimiento.
 
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 117.
 
-La Administración de Política Presupuestal y Servicios Personales estará integrada por:
+La Dirección de Administración de Política PresupuestaI y Servicios Personales estará integrado por:
 
-I. Un Administrador;
+I.- Un Director;
 
-II. Un Contador General;
+II.- Un Contador General;
 
-III. Un Auxiliar de Bancos;
+III.- Un Auxiliar de Bancos;
 
-IV. Un Auxiliar Contable de Nóminas;
+IV.- Un Auxiliar Contable de Nóminas;
 
-V. Un Auxiliar Contable de Presupuesto; y
+V.- Un Auxiliar Contable de Presupuesto; y
 
-VI. Un Capturista de Nómina y otro de Presupuestos.
+VI.- Un Capturista de Nómina y otro de Presupuesto.
 
-Para ser Administrador se exigen los mismos requisitos que para ser Juez, salvo el de la profesión, que en este caso debe ser contador público o licenciado en áreas de la administración con título registrado.
+Para ser Director de este Departamento se exigen los mismos requisitos que para ser Juez, salvo el de la profesión, que en este caso debe ser contador público o licenciado en áreas de la administración con título registrado.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 117 Bis.
+
+La Dirección de Administración de Política Presupuestal y Servicios Personales tendrá las siguientes atribuciones:
+
+1.- Supervisión de la aplicación de las partidas presupuestales;
+
+2.- Registro de ingresos y egresos:
+
+3.- Cálculo de impuestos federales y estatales;
+
+4.- Elaboración de estados financieros mensuales;
+
+5.- Elaboración de declaraciones anuales estatales y federales;
+
+6.- Elaboración de declaraciones mensuales (impuesto federal); y
+
+7.- Elaboración de conciliaciones bancarias mensuales.
 
 ###### ARTICULO 118.
 
@@ -2091,7 +2173,7 @@ La resolución de no responsabilidad administrativa, deberá ser publicada en ex
 
 ###### ARTICULO 165.
 
-Cuando se trate faltas (sic) que no sean graves, previa ratificación del escrito inicial de queja o denuncia, se correrá traslado al presunto infractor con copia simple de dicho escrito y sus anexos, concediéndole el plazo de tres días hábiles para que conteste por escrito lo que a su interés convenga. Las partes deberán ofrecer las pruebas respectivas en dichos escritos, mismas que de ser admitidas serán desahogadas en una audiencia, la cual deberá celebrarse dentro de los quince días naturales siguientes a la contestación. Una vez contestada la queja o desahogadas las pruebas en su caso, el órgano competente emitirá dictamen dentro de los diez días siguientes.
+Cuando se trate (sic) faltas que no sean graves, previa ratificación del escrito inicial de queja o denuncia, se correrá traslado al presunto infractor con copia simple de dicho escrito y sus anexos, concediéndole el plazo de tres días hábiles para que conteste por escrito lo que a su interés convenga. Las partes deberán ofrecer las pruebas respectivas en dichos escritos, mismas que de ser admitidas serán desahogadas en una audiencia, la cual deberá celebrarse dentro de los quince días naturales siguientes a la contestación. Una vez contestada la queja o desahogadas las pruebas en su caso, el órgano competente emitirá dictamen dentro de los diez días siguientes.
 
 Se levantará acta circunstanciada de la (sic) diligencias que se practiquen, misma que suscribirán quienes en ellas intervengan, apercibidos de las sanciones en que incurren quienes falten a la verdad.
 
@@ -2654,3 +2736,13 @@ B.O. 5 DE OCTUBRE DE 2006.
 B.O. 31 DE DICIEMBRE DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 24 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+El Magistrado Presidente del H. Tribunal Superior de Justicia del Estado de Baja California Sur, deberá de redistribuir los Tocas en las Salas Unitarias que correspondan en razón de la materia, debiéndose publicar dicha redistribución en el Boletín Judicial del Poder Judicial del Estado de Baja California Sur para conocimiento de las partes interesadas en los Tocas respectivos.
