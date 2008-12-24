@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-la-contraloria-del-5780
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-12-05"
-last_updated: "2007-12-05"
+last_updated: "2008-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -115,11 +115,17 @@ VIII. Contraloría Interna de Desarrollo Económico Sustentable;
 
 IX. Contraloría Interna de Seguridad y Procuración de Justicia;
 
-X. Contraloría Interna de Infraestructura y Desarrollo Social;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
-XI. Contraloría Interna de Desarrollo y Modernización de la Administración Pública, y
+X. Contraloría Interna de Infraestructura y Asistencia;
 
-XII. Comisarías Públicas adscritas a los Organismos Auxiliares del Poder Ejecutivo.
+XI. Contraloría Interna de Desarrollo y Modernización de la Administración Pública, y (sic)
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+XII. Contraloría Interna del Trabajo y Desarrollo Humano, y
+
+XIII. Comisarías Públicas adscritas a los Organismos Auxiliares del Poder Ejecutivo.
 
 Las unidades administrativas estarán integradas por los titulares respectivos, los Directores de Área, los Subdirectores, Jefes de Departamento y demás servidores públicos que señale este Reglamento, los Manuales de Organización y demás disposiciones jurídicas aplicables, así como por los trabajadores que requiera el servicio para el adecuado cumplimiento de las atribuciones establecidas, en apego al presupuesto de egresos aprobado para la Secretaría.
 
@@ -571,27 +577,41 @@ Las Contralorías Internas son órganos de control de las dependencias y entidad
 
 El Contralor Interno adscrito a la Secretaría será nombrado y dependerá directamente del Titular del Poder Ejecutivo, ante quien será responsable y le señalará el rango que considere pertinente.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 18.
 
-Existirán cinco Contralorías Internas cuya competencia comprenderá a las dependencias y entidades de la Administración Pública Estatal como se establece en el artículo 3 fracciones de la VII a la XI de este Reglamento, y la función de cada una se suscribirá a las áreas de gobierno que se determinan en el artículo 20 del mismo.
+Existirán seis Contralorías Internas cuya competencia comprenderá a las Dependencias y Entidades de la Administración Pública Estatal, como se establece en el artículo 3 fracciones de la VII a la XII de este Reglamento, y la función de cada una se suscribirá a las áreas de gobierno que se determinen en el artículo 20 del mismo.
 
 ###### Artículo 19.
 
 Los Contralores Internos tendrán bajo su supervisión inmediata y coordinación directa a los Comisarios Públicos o sus equivalentes, de conformidad con el artículo siguiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 20.
 
-Las Contralorías Internas de la Secretaría de la Contraloría serán las siguientes:
+Las Contralorías Internas de la Secretaría de la Contraloría, serán las siguientes:
 
-I. Contraloría Interna de Política Gubernamental, que tendrá a su cargo la verificación de las actuaciones y del ejercicio del gasto público de la Secretaría de Gobierno, oficina del Gobernador del Estado y las unidades de asesoría, de apoyo técnico y de coordinación con las que cuente, de la Representación del Poder Ejecutivo del Estado y de los organismos auxiliares de la Administración Pública Estatal sectorizados a éstas, con excepción de la Comisión Estatal del Agua y Medio Ambiente y del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+I. Contraloría Interna de Política Gubernamental, que tendrá a su cargo la verificación de las actuaciones y del ejercicio del gasto público de la Secretaría de Gobierno, de la Representación del Poder Ejecutivo del Estado, de la oficina del Gobernador del Estado y las unidades de asesoría, de apoyo técnico y de coordinación con las que cuente y de los organismos auxiliares de la Administración Pública Estatal sectorizados a éstas, con excepción de la Comisión Estatal del Agua y Medio Ambiente, del Patronato para la Readaptación y la Reincorporación Social por el Empleo y la Industria Penitenciaria del Estado de Morelos, del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública y de las unidades administrativas denominadas Dirección General de Protección Civil y Dirección General de Transportes;
 
 II. Contraloría Interna de Desarrollo Económico Sustentable, que tendrá a su cargo la verificación de las actuaciones y del ejercicio del gasto público de la Secretaría de Desarrollo Económico, de la Secretaría de Turismo, de la Secretaría de Desarrollo Agropecuario, así como de la Comisión Estatal del Agua y Medio Ambiente y de los organismos auxiliares de la Administración Pública Estatal sectorizados a éstas;
 
-III. Contraloría Interna de Seguridad y Procuración de Justicia, que tendrá a su cargo la verificación de las actuaciones y del ejercicio del gasto público de la Secretaría de Seguridad Pública, de la Procuraduría General de Justicia, así como del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública y de los organismos auxiliares de la Administración Pública Estatal sectorizados a éstas;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
-IV. Contraloría Interna de Infraestructura y Desarrollo Social, que tendrá a su cargo la verificación de las actuaciones y del ejercicio del gasto público de la Secretaría de Salud, de la Secretaría de Educación, de la Secretaría de Desarrollo Urbano y Obras Públicas y de los organismos auxiliares de la Administración Pública Estatal sectorizados a éstas, y
+III. Contraloría Interna de Seguridad y Procuración de Justicia, que tendrá a su cargo la verificación de las actuaciones y del ejercicio del gasto público de la Secretaría de Seguridad Pública, de la Procuraduría General de Justicia del Estado de Morelos, con los organismos auxiliares de la Administración Pública Estatal sectorizados a éstas, además del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública, del Patronato para la Readaptación y la Reincorporación Social por el Empleo y la Industria Penitenciaria del Estado de Morelos, así como de las unidades administrativas denominadas Dirección General de Protección Civil y Dirección General de Transportes, en este último caso contando con atribuciones por cuanto a la totalidad de las áreas y funciones que tiene conferidas;
 
-V. Contraloría Interna de Desarrollo y Modernización de la Administración Pública, que tendrá a su cargo la verificación de las actuaciones y del ejercicio del gasto público de la Secretaría de Finanzas y Planeación, de la Oficialía Mayor, de la Consejería Jurídica y de los organismos auxiliares de la Administración Pública Estatal sectorizados a éstas.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+IV. Contraloría Interna de Infraestructura y Asistencia, que tendrá a su cargo la verificación de las actuaciones y del ejercicio del gasto público de la Secretaría de Salud, de la Secretaría de Desarrollo Urbano y Obras Públicas, de la Secretaría de Educación y de los organismos auxiliares de la Administración Pública Estatal sectorizados a estas, con excepción del Instituto Estatal de Educación para Adultos, la Comisión Estatal de Arbitraje Médico del Estado de Morelos y el Instituto de Cultura de Morelos;
+
+V. Contraloría Interna de Desarrollo y Modernización de la Administración Pública, que tendrá a su cargo la verificación de las actuaciones y del ejercicio del gasto público de la Secretaría de Finanzas y Planeación, de la Oficialía Mayor, de la Consejería Jurídica y de los organismos auxiliares de la Administración Pública Estatal sectorizados a éstas;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+VI. Contraloría Interna del Trabajo y Desarrollo Humano, que tendrá a su cargo la verificación de las actuaciones y del ejercicio de gasto público de la Secretaría de Desarrollo Humano y Social, de la Secretaría del Trabajo y Productividad y de los organismos auxiliares de la Administración Pública Estatal sectorizados a éstas, así como del Instituto Estatal de Educación para Adultos, la Comisión Estatal de Arbitraje Médico del Estado de Morelos y el Instituto de Cultura de Morelos.
 
 No existirá preeminencia alguna entre las Contralorías Internas y todas tendrán el mismo rango.
 
@@ -951,25 +971,7 @@ w) Actuarios, y
 
 x) Abogados, Auxiliares Jurídicos y/o Contables.
 
-II. En el Poder Legislativo:
-
-a) Los Diputados;
-
-b) Secretarios Generales;
-
-c) Auditor Superior Gubernamental;
-
-d) Directores Generales;
-
-e) Asesores;
-
-f) Secretarios Particulares;
-
-g) Directores de Área;
-
-h) Subdirectores; y
-
-i) Jefes de Departamento.
+II. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
 
 III. En el Poder Judicial:
 
@@ -1015,7 +1017,9 @@ h) Jefes de Departamento, y
 
 i) Actuarios.
 
-V. En general todos aquellos que manejen, custodien, administren o supervisen fondos, valores o bienes de la propiedad o al cuidado de los Poderes del Gobierno del Estado y cualesquiera otros servidores públicos que desempeñen funciones análogas o similares.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+V. En general todos aquellos que manejen, custodien, administren o supervisen fondos, valores o bienes de la propiedad o al cuidado de los Poderes Ejecutivo y Judicial o de los Organismos Constitucionales Autónomos y cualesquiera otros servidores públicos que desempeñen funciones análogas o similares.
 
 La presentación de las Declaraciones de Situación Patrimonial se realizará en las instalaciones que ocupe la Secretaría de la Contraloría en los tiempos previstos por el artículo 77 de la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
@@ -1025,9 +1029,11 @@ En caso de que persista el incumplimiento y una vez aplicada la multa antes señ
 
 ### CAPÍTULO XVIII. DE LAS SUPLENCIAS, ENCARGADOS DE DESPACHO Y PROHIBICIÓN PARA DESEMPEÑAR DETERMINADOS CARGOS, EMPLEOS O COMISIONES
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 46.
 
-Durante las ausencias del Secretario, el despacho y resolución de los asuntos que corresponden a la Secretaría, con excepción de las atribuciones no delegables, estará a cargo del Director General de Auditoría, Director General de Asuntos Jurídicos y Situación Patrimonial, Director General de Programas y Contraloría Social, Director General de Responsabilidades y Sanciones Administrativas, Director General de Coordinación y Desarrollo Administrativo, Contralor Interno de Política Gubernamental, Contralor Interno de Desarrollo Económico Sustentable, Contralor Interno de Seguridad y Procuración de Justicia, Contralor Interno de Infraestructura y Desarrollo Social, y Contralor Interno de Desarrollo y Modernización de la Administración Pública, en el orden mencionado.
+Durante las ausencias del Secretario, el despacho y resolución de los asuntos que corresponden a la Secretaría, con excepción de las atribuciones no delegables, estará a cargo del Director General de Auditoría, Director General de Asuntos Jurídicos y Situación Patrimonial, Director General de Programas y Contraloría Social, Director General de Responsabilidades y Sanciones Administrativas, Director General de Coordinación y Desarrollo Administrativo, Contralor Interno de Política Gubernamental, Contralor Interno de Desarrollo Económico Sustentable, Contralor Interno de Seguridad y Procuración de Justicia, Contralor Interno de Infraestructura y Asistencia, y Contralor Interno de Desarrollo y Modernización de la Administración Pública y Contralor Interno del Trabajo y Desarrollo Humano, en el orden mencionado.
 
 ###### Artículo 47.
 
@@ -1118,3 +1124,19 @@ LA SECRETARIA DE LA CONTRALORÍA
 LIC. PATRICIA MARISCAL VEGA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrara en vigor a partir del día dos de enero de dos mil nueve.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente Decreto.
