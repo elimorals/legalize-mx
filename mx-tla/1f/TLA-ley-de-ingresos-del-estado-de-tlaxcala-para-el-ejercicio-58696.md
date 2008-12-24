@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-ingresos-del-estado-de-tlaxcala-para-el-ejercicio-58696"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2007-12-28"
-last_updated: "2007-12-28"
+last_updated: "2008-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TLA"
 
 LEY DE INGRESOS DEL ESTADO DE TLAXCALA PARA EL EJERCICIO FISCAL 2008
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE TLAXCALA PARA EL EJERCICIO FISCAL 2009, PUBLICADA EN EL P.O. DE 24 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el viernes 28 de diciembre de 2007.
 
@@ -338,3 +340,11 @@ Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimie
 Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, a los dieciocho días del mes de diciembre de 2007.
 
 EL GOBERNADOR DEL ESTADO.- HECTOR ISRAEL ORTlZ ORTlZ.- Firma Autógrafa.- EL SECRETARIO DE GOBIERNO.- SERGIO GONZALEZ HERNANDEZ.- Firma Autógrafa.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE DICIEMBRE DE 2008.
+
+###### ARTICULO ÚNICO.
+
+La presente Ley de Ingresos del Estado, abroga a su similar del ejercicio fiscal anterior y tendrá vigencia del primero de enero al treinta y uno de diciembre del año dos mil nueve.
