@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-seguridad-publica-del-estado-de-zacatecas-16862"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-28"
-last_updated: "2006-07-29"
+last_updated: "2008-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16862&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 28 de junio del 2000.
 
@@ -123,9 +123,13 @@ V. La ejecución de las sanciones, la readaptación y la reinserción social del
 
 La función de Seguridad Pública en el Estado de Zacatecas se regulará conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, por esta Ley, los Convenios de Coordinación con las Autoridades Federales y Municipales y demás ordenamientos legales aplicables.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 4.
 
-Las funciones de seguridad pública están encomendadas en la entidad a la Secretaría General de Gobierno, a la Procuraduría General de Justicia del Estado por ser la que preside a la institución del Ministerio Público; y a las dependencias u organismos de la administración pública estatal y municipal, que legalmente proceda, de acuerdo con la competencia que para cada una de estas instituciones establece el orden jurídico vigente.
+Las funciones de seguridad pública están encomendadas en la Entidad a la Secretaria General de Gobierno, a la Secretaría de Seguridad Pública, a la Procuraduría General de Justicia del Estado por ser la que preside a la institución del Ministerio Público; y a las dependencias u organismos de la administración pública estatal y municipal, que legalmente proceda, de acuerdo con la competencia que para cada una de estas instituciones establece el orden jurídico vigente.
 
 ###### Artículo 5.
 
@@ -137,7 +141,11 @@ II. Cuerpos de Seguridad Pública, a las corporaciones a que se refieren las fra
 
 III. Gobernador, al Gobernador del Estado de Zacatecas;
 
-IV. Policía Estatal Preventiva, a la corporación que desempeñe funciones policiales, bajo el mando de la Secretaría General de Gobierno;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+IV. Policía Estatal Preventiva, a la corporación que desempeñe funciones policiales, bajo el mando de la Secretaría de Seguridad Pública;
 
 V. Policía Ministerial, a la policía con la que se auxilia el Ministerio Público, misma que está bajo su autoridad y mando inmediato;
 
@@ -147,11 +155,23 @@ VII. Secretaría, a la Secretaría General de Gobierno;
 
 VIII. Secretario, al Secretario General de Gobierno;
 
-IX. Procurador, al Titular de la Procuraduría General de Justicia del Estado de Zacatecas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X. Procuraduría, a la Procuraduría General de Justicia del Estado de Zacatecas; y
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
-XI. Programa, al Programa de Seguridad Pública para el Estado de Zacatecas.
+IX. Secretaria de Seguridad, a la Secretaria de Seguridad Pública;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+X. Secretario de Seguridad, al Secretario de Seguridad Pública;
+
+XI. Procurador, al Titular de la Procuraduría General de Justicia del Estado de Zacatecas;
+
+XII. Procuraduría, a la Procuraduría General de Justicia del Estado de Zacatecas; y
+
+XIII. Programa, al Programa de Seguridad Pública para el Estado de Zacatecas.
 
 ### CAPITULO SEGUNDO. De las Autoridades en materia de Seguridad Pública
 
@@ -163,15 +183,21 @@ I. El Gobernador;
 
 II. El Secretario;
 
-III. El Procurador;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV. El Director General de la Policía Ministerial;
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
-V. El Director General de la Policía Estatal Preventiva;
+III. El Secretario de Seguridad;
 
-VI. El Director de Prevención y Readaptación Social del Estado; y
+IV. El Procurador;
 
-VII. Las demás que determinen otras leyes.
+V. El Director General de la Policía Ministerial;
+
+VI. El Director General de la Policía Estatal Preventiva;
+
+VII. El Director de Prevención y Readaptación Social del Estado; y
+
+VIII. Las demás que determinen otras leyes.
 
 ###### Artículo 7.
 
@@ -201,7 +227,11 @@ IV. Otorgar autorización para el funcionamiento de organismos auxiliares de seg
 
 V. Celebrar convenios o acuerdos con la Federación, con otros Estados y con los municipios, para el mejoramiento integral del servicio de seguridad pública en el Estado, conforme a la Constitución Política de los Estados Unidos Mexicanos y la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública;
 
-VI. Promover la participación de la sociedad en el diseño y control de las políticas públicas en materia de seguridad pública, a través del Consejo Estatal de la materia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+VI. Promover la participación de la sociedad en el diseño y control de las políticas públicas en materia de seguridad pública, a través de la Secretaría de Seguridad y el Consejo Estatal de la materia;
 
 VII. Expedir los reglamentos y acuerdos que sobre la materia estime necesario; y
 
@@ -213,33 +243,93 @@ Corresponde al Gobernador el mando supremo de los cuerpos de seguridad pública 
 
 Son atribuciones de la Secretaría:
 
-I. Coordinar la seguridad pública en el Estado conforme al ámbito de su competencia y a las facultades que le concede esta ley, los acuerdos, convenios y otras disposiciones legales sobre la materia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Prevenir la comisión de delitos, así como de infracciones a los Bandos de Policía y Gobierno y demás reglamentos y disposiciones en materia de seguridad pública;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
-III. Proteger a las personas en sus propiedades, derechos y posesiones;
+I. Coordinar conjuntamente con la Secretaria de Seguridad, la seguridad pública en el Estado conforme al ámbito de su competencia y a las facultades que le concede esta ley, los acuerdos, convenios y otras disposiciones legales sobre la materia;
 
-IV. Vigilar permanentemente el respeto al orden público y la seguridad de los habitantes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V. Coordinarse y cooperar con el Ministerio Público y las autoridades judiciales y municipales en los términos de esta ley;
+II. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
 
-VI. En los casos de flagrante delito, aprehender al delincuente y a sus cómplices, poniéndolos sin demora a disposición de la autoridad competente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII. Formar, capacitar y actualizar a los miembros de los cuerpos de seguridad pública de su competencia;
+III. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
 
-VIII. Tener bajo su mando a la Policía Estatal Preventiva;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IX. Eventualmente, tener bajo su mando a la Policía Municipal Preventiva;
+IV. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
 
-X. Autorizar, vigilar y controlar, los servicios auxiliares de protección, custodia o vigilancia que presten empresas privadas en la Entidad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XI. Ejecutar las sanciones y la reinserción social del delincuente y del menor infractor, así como vigilar los centros de readaptación social en los que se ejecuten sanciones; y
+V. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+VI. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+VII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+VIII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+IX. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+X. Autorizar los servicios auxiliares de protección, custodia o vigilancia que presten empresas privadas en la Entidad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XI. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
 
 XII. Las demás que les señalen esta ley y otros ordenamientos aplicables.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 9 Bis.
+
+Son atribuciones de la Secretaria de Seguridad:
+
+I. Velar por la seguridad pública en el Estado conforme al ámbito de su competencia y a las facultades que le concede esta ley y otras disposiciones legales sobre la materia;
+
+II. Proteger a las personas en sus propiedades, derechos y posesiones;
+
+III. Vigilar permanentemente el respeto al orden público y la seguridad de los habitantes;
+
+IV. Coordinarse y cooperar con el Ministerio Público y las autoridades judiciales y municipales en los términos de esta ley;
+
+V. En los casos de flagrante delito, aprehender al delincuente y a sus cómplices, poniéndolos sin demora a disposición de la autoridad competente;
+
+VI. Formar, capacitar y actualizar a los miembros de los cuerpos de seguridad pública de su competencia;
+
+VII. Tener bajo su mando a la Policía Estatal Preventiva;
+
+VIII. Eventualmente, tener bajo su mando a la Policía Preventiva Municipal;
+
+IX. Vigilar y controlar los servicios auxiliares de protección, custodia o vigilancia que presenten empresas privadas en la Entidad;
+
+X. Ejecutar las sanciones y la reinserción social del delincuente y de los adolescentes en conflicto con la ley penal, así como vigilar los centros de readaptación social y el Centro de Internamiento y Atención Integral Juvenil, y
+
+XI. Las demás que les señale esta ley y otros ordenamientos aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 10.
 
-El Secretario, el Procurador, y los demás servidores responsables de la seguridad pública tendrán las atribuciones que señalen esta ley, los reglamentos y demás disposiciones pertinentes.
+El Secretario, el Secretario de Seguridad, el Procurador, y los demás servidores responsables de la seguridad pública tendrán las atribuciones que señalen esta ley, los reglamentos y demás disposiciones pertinentes.
 
 ###### Artículo 11.
 
@@ -295,9 +385,13 @@ La vigilancia del tránsito de vehículos y peatones en las vías de comunicaci�
 
 El Gobernador y los Ayuntamientos deberán coordinar sus actividades relativas a: planes, programas, estrategias y acciones para cumplir los objetivos en materia de seguridad pública.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 15.
 
-Además de lo previsto en la Ley que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, la Secretaría y la Procuraduría, así como los cuerpos de seguridad a ellas subordinadas, en el ámbito de sus respectivas competencias, coordinarán operativa y administrativamente sus actividades en las materias siguientes:
+Además de lo previsto en la Ley que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, la Secretaría, la Secretaría de Seguridad y la Procuraduría, así como de los cuerpos de seguridad a ellas subordinadas, en el ámbito de sus respectivas competencias, coordinarán operativa y administrativamente sus actividades en las materias siguientes:
 
 I. Sistemas expeditos para el intercambio de información, que faciliten tanto el desarrollo de sus actividades como la selección e idoneidad de su personal;
 
@@ -311,9 +405,13 @@ V. Mecanismos y lineamientos conforme a los cuales la Policía Estatal o Municip
 
 VI. Las demás que determinen otras leyes, convenios y bases de coordinación interinstitucional que al efecto se celebren.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 16.
 
-La Secretaría y la Procuraduría se coordinarán con las autoridades federales y municipales, en las materias a que se refiere este título. Igualmente, y para el mejor ejercicio de sus atribuciones, podrán suscribir convenios de colaboración con dichas autoridades.
+La Secretaria, la Secretaria de Seguridad y la Procuraduría se coordinarán con las autoridades federales y municipales, en las materias a que se refiere este titulo. Igualmente, y para el mejor ejercicio de sus atribuciones, podrá suscribir convenios de colaboración con dichas autoridades.
 
 ###### Artículo 17.
 
@@ -323,9 +421,13 @@ Los cuerpos de seguridad pública del Estado y de los Municipios, así como las 
 
 Cuando para el cumplimiento de la función de seguridad pública sea necesaria la participación coordinada de dos o más municipios, los respectivos ayuntamientos podrán establecer instancias intermunicipales de coordinación o asociación, con carácter temporal o permanente, con arreglo a los ordenamientos correspondientes. Tratándose de convenios de coordinación o asociación con municipios de otros Estados, los ayuntamientos deberán contar con la aprobación de la Legislatura.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 19.
 
-De acuerdo con lo establecido en la Constitución Política del Estado, la Secretaría y la Procuraduría implementarán, bajo la dirección inmediata de la primera, un servicio de atención inmediata a la población, que funcionará de conformidad con las reglas que para el efecto se expidan y que permita, en casos de emergencia, establecer contacto en forma rápida y eficiente con los cuerpos de seguridad pública o de protección civil, según corresponda.
+De acuerdo con lo establecido en la Constitución Política del Estado, la Secretaría, la Secretaria de Seguridad y la Procuraduría implementarán, bajo la dirección inmediata de la primera, un servicio de atención inmediata a la población, que funcionará de conformidad con las reglas que para tal efecto se expidan y que permita, en casos de emergencia, establecer contacto en forma rápida y eficiente con los cuerpos de seguridad pública o de protección civil, según corresponda.
 
 ###### Artículo 20.
 
@@ -333,13 +435,21 @@ Los cuerpos de seguridad pública deberán cooperar irrestrictamente con las aut
 
 ### CAPITULO SEGUNDO. Coordinación en materia de registro policial, armamento y equipo
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 21.
 
-La Secretaría, la Procuraduría y los Ayuntamientos elaborarán registros de los elementos que formen parte de sus respectivos cuerpos de seguridad, así como de quienes hayan sido suspendidos, destituidos o inhabilitados y los inscribirán ante el Registro Nacional de Personal de Seguridad Pública. Lo propio harán las empresas privadas que presten servicios auxiliares en la materia.
+La Secretaria de Seguridad, la Procuraduría y los Ayuntamientos elaborarán registros de los elementos que formen parte de sus respectivos cuerpos de seguridad, así como de quienes hayan sido suspendidos, destituidos o inhabilitados y los inscribirán ante el Registro Nacional de Personal de Seguridad Pública. Lo propio harán las empresas privadas que presten servicios auxiliares en la materia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 22.
 
-De acuerdo con lo que dispone la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, la Secretaría, la Procuraduría y los Ayuntamientos, en sus respectivos ámbitos de competencia, manifestarán al Registro Nacional de Armamento y Equipo:
+De acuerdo con lo que dispone la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, la Secretaria de Seguridad, la Procuraduría y los Ayuntamientos, en sus respectivos ámbitos de competencia, manifestarán al Registro Nacional de Armamento y Equipo:
 
 I. Los vehículos que tuvieran asignados, anotándose el número de matricula, las placas de circulación, la marca, modelo, tipo, número de serie y motor para el registro del vehículo;
 
@@ -347,33 +457,51 @@ II. Las armas y municiones que les hayan sido autorizadas por las dependencias c
 
 III. Las armas y municiones que los elementos de los cuerpos de seguridad pública aseguren, procediendo de inmediato de conformidad con la Ley Federal de Armas de Fuego y Explosivos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 23.
 
-Además de cumplir con las disposiciones contenidas en la Ley Federal de Armas de Fuego y Explosivos, así como con otras leyes, la Secretaría y la Procuraduría deberán cuidar la vigencia de la licencia colectiva, expedida por la Secretaría de la Defensa Nacional, que autoriza a los elementos de los cuerpos de seguridad pública la portación de armas de fuego.
+Además de cumplir con las disposiciones contenidas en la Ley Federal de Armas de Fuego y Explosivos, así como con otras leyes, la Secretaria de Seguridad y la Procuraduría deberán cuidar la vigencia de la licencia colectiva, expedida por la Secretaria de la Defensa Nacional, que autoriza a los elementos de los cuerpos de seguridad pública la portación de armas de fuego.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 24.
 
-La Secretaría, la Procuraduría y los Ayuntamientos están obligados a intercambiar información relacionada con elementos policiacos, armamento y equipo a efecto de evitar el ingreso de personas con antecedentes delictivos a los cuerpos de seguridad y facilitar la investigación del delito.
+La Secretaría de Seguridad, la Procuraduría y los Ayuntamientos están obligados a intercambiar información relacionada con elementos policíacos, armamento y equipo a efecto de evitar el ingreso de personas con antecedentes delictivos a los cuerpos de seguridad y facilitar la investigación del delito.
 
 ### CAPITULO TERCERO. De las Instancias de Coordinación
 
 #### SECCION PRIMERA. Del Consejo Estatal de Seguridad Pública
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 25.
 
-El Consejo de Seguridad Pública del Estado de Zacatecas es la instancia encargada de la coordinación, planeación, evaluación y supervisión de la función de la seguridad pública en la Entidad y estará integrado por:
+El Consejo de Seguridad Pública del Estado de Zacatecas y la Secretaría de Seguridad, son las instancias encargadas de la coordinación, planeación, evaluación y supervisión de la función de la seguridad pública en la Entidad y estará integrado por:
 
 I. El Secretario, quien lo coordinará y lo presidirá;
 
-II. El Procurador;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. Los Presidentes Municipales de los cinco municipios más poblados del Estado;
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+II. El Secretario de Seguridad;
+
+III. El Procurador;
+
+IV. Los Presidentes Municipales de los cinco municipios más poblados del Estado;
 
 > <small>(REFORMADA, P.O. 29 DE JULIO DE 2006)</small>
 
-IV. El Secretario de Finanzas;
+V. El Secretario de Finanzas;
 
-V. Los Representantes en el Estado de las siguientes dependencias federales:
+VI. Los Representantes en el Estado de las siguientes dependencias federales:
 
 a) Secretaría de Gobernación;
 
@@ -385,9 +513,9 @@ d) Policía Federal Preventiva.
 
 > <small>(ADICIONADA, P.O. 29 DE JULIO DE 2006)</small>
 
-VI. El Presidente de la Comisión de Seguridad Pública o su equivalente, de la Legislatura del Estado;
+VII. El Presidente de la Comisión de Seguridad Pública o su equivalente, de la Legislatura del Estado;
 
-VII. El Secretario Ejecutivo del Consejo de Seguridad Pública del Estado que será designado por el Gobernador.
+VIII. El Secretario Ejecutivo del Consejo de Seguridad Pública del Estado que será designado por el Gobernador.
 
 Lo anterior conforme a la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
 
@@ -395,23 +523,41 @@ Las sesiones del Consejo podrán ser públicas o privadas.
 
 El Consejo convocará a las sesiones públicas que realice, con derecho a voz, exclusivamente, a representantes de nacionalidad mexicana de las Cámaras de Comercio y de la Industria y de sindicatos con sede en Zacatecas; organizaciones no Gubernamentales y agrupaciones civiles mexicanas dedicadas a la defensa de las víctimas del delito; empresas de seguridad privada domiciliadas en la entidad; colegios de profesionales; instituciones públicas o privadas de investigación o educación superior y, en general, a investigadores y profesionistas dedicados a la prevención del delito, la readaptación social, el derecho penal, la criminología y la criminalística.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 26.
 
-El Consejo de Seguridad Pública conocerá y resolverá sobre los siguientes asuntos:
+El Consejo Estatal de Seguridad Pública conocerá y resolverá sobre los siguientes asuntos:
 
-I. Coordinar la seguridad pública en la entidad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+I. Coordinar conjuntamente con la Secretaria de Seguridad, la seguridad pública en la entidad;
 
 II. Determinar los lineamientos para el establecimiento de las políticas locales de seguridad pública, en concordancia con las políticas nacionales que establezca el Consejo Nacional de Seguridad Pública;
 
-III. Formular el Programa de Seguridad Pública Estatal, el cual se sujetará a la aprobación del Gobernador;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+III. Formular en coordinación con la Secretaría de Seguridad, el Programa de Seguridad Pública Estatal, el cual se sujetará a la aprobación del Gobernador;
 
 IV. Formular propuestas para el Programa Nacional de Seguridad Pública, así como para ejecutarlo y evaluar su aplicación;
 
 V. Proponer al Consejo Nacional de Seguridad Pública acuerdos, programas específicos y convenios sobre las materias de coordinación nacional;
 
-VI. Auxiliar al Gobernador en el control de los servicios de seguridad privada;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII. Fomentar la cultura de la prevención de infracciones y delitos;
+VI. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+VII. Fomentar en coordinación con la Secretaría de Seguridad y otras instancias de la administración pública federal, estatal y municipal, la cultura de la prevención de infracciones y delitos;
 
 VIII. Aprobar, a propuesta de su presidente, su Reglamento Interior, el que permitirá la conformación de comisiones permanentes y regulará lo relativo a su gobierno interior, debates y votaciones; y
 
@@ -427,7 +573,11 @@ Los miembros del Consejo podrán proponer acuerdos y resoluciones, así como vig
 
 Serán funciones del Secretario Ejecutivo del Consejo de Seguridad Pública:
 
-I. Elaborar las propuestas de contenidos del Programa y someterlas a la aprobación del Consejo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+I. Auxiliar en la elaboración del Programa;
 
 II. Levantar y certificar los acuerdos que se tomen en el Consejo, llevar el archivo de éstos así como de los convenios que se suscriban con otros Estados o con las dependencias federales;
 
@@ -437,7 +587,11 @@ IV. Proponer al Consejo, para su aprobación políticas, lineamientos y acciones
 
 V. Elaborar y publicar informes de actividades del Consejo;
 
-VI. Coadyuvar en la sistematización de los instrumentos de información de los cuerpos de seguridad pública del Estado, de la Procuraduría y la Secretaría, así como recabar todos los datos que se requieran para integrar el Sistema de Información de Seguridad Pública;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+VI. Coadyuvar en la sistematización de los instrumentos de información de los cuerpos de seguridad pública del Estado de la Procuraduría y la Secretaría de Seguridad, así como recabar todos los datos que se requieran para integrar el Sistema de Información de Seguridad Pública;
 
 VII. Promover, por conducto de las instituciones de seguridad pública, la realización de acciones conjuntas, conforme a las bases y reglas que emita el Consejo, y sin menoscabo de otras que realicen las autoridades competentes; y
 
@@ -449,7 +603,11 @@ VIII. Impulsar la realización de estudios especializados sobre la seguridad pú
 
 En cada municipio se establecerá y organizará un comité de seguridad pública, como instancia colegiada de consulta y participación ciudadana.
 
-En dichos comités, además de la representación que se determine para la Secretaría y la Procuraduría, podrán participar organizaciones vecinales y comunitarias ciudadanas, de acuerdo con las disposiciones aplicables. El presidente municipal presidirá y coordinará las actividades del comité.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+En dichos comités, además de la representación que se determine para la Secretaría de Seguridad y la Procuraduría, podrán participar organizaciones vecinales y comunitarias ciudadanas, de acuerdo con las disposiciones aplicables. El presidente municipal presidirá y coordinará las actividades del comité.
 
 ###### Artículo 30.
 
@@ -461,7 +619,11 @@ II. Emitir opiniones y sugerencias para la elaboración y evaluación del subpro
 
 III. Informar sobre las zonas que tengan mayor índice de delincuencia en cada municipio;
 
-IV. Estudiar y proponer al Consejo Estatal de Seguridad Pública, a la Secretaria y a la Procuraduría, mecanismos de coordinación y desconcentración, para la mejor cobertura y calidad de los servicios que tienen encomendados;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+IV. Estudiar y proponer al Consejo Estatal de Seguridad Pública, a la Secretaría de Seguridad y a la Procuraduría, mecanismos de coordinación y desconcentración, para la mejor cobertura y calidad de los servicios que tienen encomendados;
 
 V. Verificar que la vigilancia se realice en los términos del Subprograma, mediante los mecanismos que al efecto acuerden con las autoridades, a fin de arraigar y vincular al policía con la comunidad;
 
@@ -469,9 +631,17 @@ VI. Proponer anualmente a las instancias correspondientes el otorgamiento de con
 
 VII. Denunciar ante la autoridad que corresponda, aquellos casos que a su juicio constituyan faltas graves a los principios de actuación previstos en esta ley;
 
-VIII. Proponer normas y procedimientos que permitan mejorar la atención de las quejas que formule la ciudadanía contra abusos y actuaciones de servidores públicos de la Secretaría o la Procuraduría; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IX. Proponer al Ayuntamiento, a la Secretaría y a la Procuraduría, las acciones a emprender para prevenir la comisión de delitos y su impunidad.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+VIII. Proponer normas y procedimientos que permitan mejorar la atención de las quejas que formule la ciudadanía contra abusos y actuaciones de servidores públicos de la Secretaría de Seguridad o la Procuraduría; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+IX. Proponer al Ayuntamiento, a la Secretaría de Seguridad y a la Procuraduría, las acciones a emprender para prevenir la comisión de delitos y su impunidad.
 
 ### CAPITULO CUARTO. De los Programas de Seguridad Pública
 
@@ -481,9 +651,13 @@ IX. Proponer al Ayuntamiento, a la Secretaría y a la Procuraduría, las accione
 
 El Programa de Seguridad Pública, es el documento que contiene las acciones que en forma planeada y coordinada deberán realizar las instituciones y cuerpos de seguridad pública en el corto, mediano y largo plazos. Dicho programa tendrá el carácter de prioritario y su ejecución se sujetará a la disponibilidad presupuestaria anual, así como a las disposiciones y lineamientos que sobre el particular dicten los órganos competentes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 32.
 
-El Programa será elaborado por el Consejo de Seguridad Pública del Estado; será sometido a la aprobación del Gobernador y, publicado en el Periódico Oficial, Organo del Gobierno del Estado. Este Programa se revisará anualmente.
+El Programa será elaborado por la Secretaría de Seguridad en coordinación con el Consejo de Seguridad Pública del Estado; será sometido a la aprobación del Gobernador y, publicado en el Periódico Oficial, Órgano de Gobierno del Estado. Este Programa se revisará anualmente.
 
 ###### Artículo 33.
 
@@ -501,9 +675,13 @@ V. los subprogramas específicos, incluidos los que se vincularán con los progr
 
 VI. Las unidades administrativas encargadas de su ejecución.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 34.
 
-El Secretario y el Procurador informarán anualmente a la Legislatura o cuantas veces ésta lo requiera sobre los avances del Programa en forma específica y por separado de cualquier otro informe que deban rendir, sin perjuicio del derecho de los diputados a recabar información sobre casos o materias concretos en los términos de la ley. La Legislatura evaluará los avances y remitirá sus observaciones a las dependencias correspondientes.
+El Secretario de Seguridad y el Procurador informarán anualmente a la Legislatura, o cuantas veces ésta lo requiera, sobre los avances del Programa en forma específica y por separado de cualquier otro informe que deban rendir, sin perjuicio del derecho de los diputados a recabar información sobre casos o materiales concretos en los términos de la ley. La Legislatura evaluará los avances y remitirá sus observaciones a las dependencias correspondientes.
 
 #### SECCION SEGUNDA. De los Programas Municipales
 
@@ -533,7 +711,11 @@ Las corporaciones de seguridad pública son:
 
 A. Para la prevención del delito y faltas administrativas:
 
-I. La Policía Estatal Preventiva en el ámbito estatal, que depende de la Secretaría; y estará bajo el mando inmediato de un Director General, quien será nombrado y removido por el Gobernador, y la cual tendrá las siguientes atribuciones:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+I. La Policía Estatal Preventiva en el ámbito estatal, que depende de la Secretaría de Seguridad; y estará bajo el mandato inmediato de un Director General, quien será nombrado y removido por el Gobernador, y la cual tendrá las siguientes atribuciones:
 
 a) Ejercerá en todo el territorio del Estado las funciones de auxiliar de la Secretaría en el cumplimiento de las facultades que le confiere esta ley, los convenios, su propio reglamento y demás disposiciones legales aplicables, con estricto respeto a la legislación y a las competencias que correspondan a las autoridades federales y municipales;
 
@@ -571,7 +753,11 @@ La Policía Ministerial, que estará bajo el mando directo del Ministerio Públi
 
 C. En la ejecución de las sanciones se consideran cuerpos de seguridad a los custodios y elementos de seguridad de los Centros de Readaptación Social.
 
-Son órganos auxiliares de la seguridad pública, los elementos de protección civil y los cuerpos de bomberos, así como los custodios y celadores encargados de la vigilancia de los menores, infractores en los centros del Consejo Tutelar para Menores. Asimismo, las empresas privadas que presten servicio auxiliares de protección, custodia o vigilancia, en la Entidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+Son órganos auxiliares de la seguridad pública, los elementos de protección civil y los cuerpos de bomberos, así como los custodios y celadores encargados de la vigilancia de los adolescentes en el Centro de internamiento y Atención Integral Juvenil. Asimismo, las empresas privadas que presten servicio auxiliares de protección, custodia o vigilancia, en la Entidad.
 
 ###### Artículo 39.
 
@@ -603,11 +789,15 @@ X. No estar suspendido o haber sido inhabilitado por resolución firme como serv
 
 Los miembros de los cuerpos de seguridad pública, incluyendo a los mandos medios y superiores, deberán someterse anualmente a un examen para acreditar que siguen cumpliendo con los requisitos a que se refieren las fracciones VII y VIII de este artículo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 41.
 
-El Secretario, el Procurador o el Ayuntamiento, según sea el caso, establecerán las reglas a que se sujetarán los elementos de los cuerpos de seguridad pública en el uso de uniformes, insignias, divisas y equipo reglamentarios.
+El Secretario de Seguridad, el Procurador o el ayuntamiento, según sea el caso, establecerán las reglas a que se sujetarán los elementos de los cuerpos de seguridad pública en el uso de uniformes, insignias, divisas y equipo reglamentarios.
 
-La Secretaría, la Procuraduría o el Ayuntamiento, deberán expedir las identificaciones y proporcionar los uniformes y los equipos reglamentarios a que se refiere este artículo a todos los elementos de la corporación, sin costo para los mismos. La violación a esta disposición será sancionada de conformidad con las leyes aplicables.
+La Secretaría de Seguridad, la Procuraduría o el Ayuntamiento, según sea el caso, deberán expedir las identificaciones y proporcionar los uniformes y los equipos reglamentarios a que se refiere este artículo a todos los elementos de la corporación, sin costo para los mismos. La violación a esta disposición será sancionada de conformidad con las leyes aplicables.
 
 ###### Artículo 42.
 
@@ -673,9 +863,13 @@ XXVIII. Actuar coordinadamente con otras corporaciones, así como brindarles, en
 
 #### SECCION PRIMERA. De la Profesionalización
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 43.
 
-La profesionalización de los cuerpos de seguridad pública será permanente y tendrá por objeto lograr una mejor y más eficaz prestación del servicio, así como el desarrollo integral de sus elementos mediante la institucionalización del servicio civil de carrera, ampliando así su capacidad de respuesta a los requerimientos de la sociedad. La administración pública, a través de la Secretaría y la Procuraduría promoverá las condiciones más favorables para una adecuada promoción profesional, social y humana de los miembros de los cuerpos de seguridad pública, de acuerdo con los principios de igualdad de oportunidades, mérito y capacidad.
+La profesionalización de los cuerpos de seguridad pública será permanente y tendrá por objeto lograr un mejor y más eficaz prestación del servicio, así como el desarrollo integral de sus elementos mediante la institucionalización del servicio civil de carrera, ampliando así su capacidad de respuesta a los requerimientos de la sociedad. La administración pública, a través de la Secretaría de Seguridad y la Procuraduría promoverá las condiciones más favorables para una adecuada promoción profesional, social y humana de los miembros de los cuerpos de seguridad pública, de acuerdo con los principios de igualdad de oportunidades, mérito y capacidad.
 
 ###### Artículo 44.
 
@@ -723,9 +917,13 @@ A la Academia de Policía del Estado y al Instituto de Formación Profesional de
 
 El Director de la Academia de Policía del Estado será designado por el Secretario.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 48.
 
-El Secretario, el Procurador o el Ayuntamiento, podrán convenir con instituciones educativas, nacionales o extranjeras, la participación de éstas en cualquiera de los niveles de formación de los cuerpos de seguridad pública.
+El Secretario de Seguridad, el Procurador o el ayuntamiento, podrán convenir con instituciones educativas, nacionales o extranjeras, la participación de éstas en cualquiera de los niveles de formación de los cuerpos de seguridad pública.
 
 ###### Artículo 49.
 
@@ -812,3 +1010,23 @@ P.O. 29 DE JULIO DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- El Consejo Estatal de Seguridad Pública deberá llevar a cabo las modificaciones necesarias en sus normas internas, a efecto de armonizarlas con el contenido de este Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2008.
+
+Artículo primero.- El presente Decreto iniciará su vigencia el 1 de Marzo de 2009, con las modalidades que enseguida se precisan.
+
+Artículo segundo.- Los recursos humanos, financieros y materiales del Consejo Estatal de Seguridad Pública, de la Subsecretaría de Seguridad Pública y de la Dirección General de Seguridad Pública y Tránsito del Estado, asignados a funciones operativas, pasarán a formar parte de la Secretaría de Seguridad Pública. Los recursos humanos, financieros y materiales de las Direcciones de la Policía Estatal Preventiva y de Prevención y Readaptación Social, así como los del Centro de Internamiento y Atención Integral Juvenil, dependientes de la Secretaría General de Gobierno, pasarán a formar parte de la Secretaría de Seguridad Pública.
+
+En ambos casos se deberán respetar los derechos laborales y de seguridad social que los servidores públicos hubieren adquirido con anterioridad.
+
+Artículo tercero.- Dentro de los treinta días naturales siguientes a la entrada en vigor de este Decreto, el Poder Ejecutivo del Estado nombrará al titular de dicha dependencia.
+
+Artículo cuarto.- Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, se deberá adecuar y publicar en el Periódico Oficial, Órgano del Gobierno del Estado, las modificaciones al Programa Estatal de Seguridad Pública.
+
+Artículo quinto.- Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, deberán publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, las reformas al Reglamento Interior de la Secretaría General de Gobierno y al Reglamento de la Policía Estatal Preventiva.
+
+Artículo sexto.- Dentro de los noventa días naturales siguientes a la publicación de este Decreto, deberá quedar integrado el Sistema Estatal de Seguridad Pública.
+
+Artículo séptimo.- En el Presupuesto de Egresos del Estado para el ejercicio fiscal 2009, deberán incluirse las partidas correspondientes para el funcionamiento de la Secretaría de Seguridad Pública.
+
+Artículo octavo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
