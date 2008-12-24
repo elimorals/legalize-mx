@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ejecucion-de-sanciones-privativas-y-restrictivas-de-8224
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-10"
-last_updated: "2005-06-11"
+last_updated: "2008-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8224&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 10 de julio de 1993.
 
@@ -189,9 +189,13 @@ III.- Que se acrediten las hipótesis contenidas en las fracciones I, II, IV y V
 
 ### Capítulo Primero. De la Dirección de Prevención y Readaptación Social
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 5.
 
-Corresponde al Ejecutivo del Estado, a través de la Dirección de Prevención y Readaptación Social, dependiente de la Secretaría General de Gobierno, la aplicación de la presente ley.
+Corresponde al Ejecutivo del Estado, a través de la Dirección de Prevención y Readaptación Social, dependiente de la Secretaria de Seguridad Pública, la aplicación de la presente ley.
 
 ###### Artículo 6.
 
@@ -473,9 +477,13 @@ II.- Se oirá en defensa al interno, quien podrá aportar pruebas y formular ale
 
 III.- Se dictará resolución por escrito, debidamente fundada y motivada, misma que se notificará al interesado en términos del reglamento respectivo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 24.
 
-Contra la resolución que revoque la autorización para trabajar, el interno podrá interponer inconformidad ante el Secretario General de Gobierno, en términos del reglamento.
+Contra la resolución que revoque la autorización para trabajar, el interno podrá interponer inconformidad ante el Secretario de Seguridad Pública, en términos del reglamento.
 
 ###### Artículo 25.
 
@@ -920,3 +928,23 @@ P.O. 11 DE JUNIO DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- La Dirección de Prevención y Readaptación Social iniciará de inmediato la elaboración y entrega de las constancias de readaptación de los condenados que hayan cumplido con su pena en un periodo de cinco años a la fecha; las relativas a fechas anteriores, se expedirán, siempre y cuando sean solicitados por los interesados.
+
+P.O. 24 DE DICIEMBRE DE 2008.
+
+Artículo primero.- El presente Decreto iniciará su vigencia el 1 de Marzo de 2009, con las modalidades que enseguida se precisan.
+
+Artículo segundo.- Los recursos humanos, financieros y materiales del Consejo Estatal de Seguridad Pública, de la Subsecretaría de Seguridad Pública y de la Dirección General de Seguridad Pública y Tránsito del Estado, asignados a funciones operativas, pasarán a formar parte de la Secretaría de Seguridad Pública. Los recursos humanos, financieros y materiales de las Direcciones de la Policía Estatal Preventiva y de Prevención y Readaptación Social, así como los del Centro de Internamiento y Atención Integral Juvenil, dependientes de la Secretaría General de Gobierno, pasarán a formar parte de la Secretaría de Seguridad Pública.
+
+En ambos casos se deberán respetar los derechos laborales y de seguridad social que los servidores públicos hubieren adquirido con anterioridad.
+
+Artículo tercero.- Dentro de los treinta días naturales siguientes a la entrada en vigor de este Decreto, el Poder Ejecutivo del Estado nombrará al titular de dicha dependencia.
+
+Artículo cuarto.- Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, se deberá adecuar y publicar en el Periódico Oficial, Órgano del Gobierno del Estado, las modificaciones al Programa Estatal de Seguridad Pública.
+
+Artículo quinto.- Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, deberán publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, las reformas al Reglamento Interior de la Secretaría General de Gobierno y al Reglamento de la Policía Estatal Preventiva.
+
+Artículo sexto.- Dentro de los noventa días naturales siguientes a la publicación de este Decreto, deberá quedar integrado el Sistema Estatal de Seguridad Pública.
+
+Artículo séptimo.- En el Presupuesto de Egresos del Estado para el ejercicio fiscal 2009, deberán incluirse las partidas correspondientes para el funcionamiento de la Secretaría de Seguridad Pública.
+
+Artículo octavo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
