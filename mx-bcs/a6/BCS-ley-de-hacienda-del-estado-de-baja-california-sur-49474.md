@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-49474"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-21"
-last_updated: "2008-03-11"
+last_updated: "2008-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 21 de febrero de 2006.
 
@@ -90,6 +90,10 @@ Para los efectos de esta Ley, se entenderá que se presta el servicio de hospeda
 Tratándose de ingresos que correspondan a residentes fuera del territorio del Estado, que se deriven de un contrato de servicio de hospedaje en la modalidad turística de tiempo compartido, se considerará que la fuente de riqueza se encuentra en territorio del Estado cuando en el mismo estén ubicados el o los bienes inmuebles que se destinen total o parcialmente a dicho servicio.
 
 Se equipara al servicio de hospedaje cuando a través de la enajenación de membresías o títulos similares, cualquiera que sea el nombre con el que se les designe, se permita el uso, goce, disfrute u hospedaje de uno o varios bienes inmuebles o de parte de los mismos, que se destinen a fines turísticos, vacacionales, recreativos, deportivos o cualquier otro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+También se equipara al servicio de hospedaje, los servicios portuarios de atraque de embarcaciones, prestados por las marinas turísticas.
 
 Será responsable solidario de los impuestos causados conforme a esta Ley, quien administre uno o varios inmuebles propiedad de un tercero ubicados en el territorio del Estado, cuando dichos inmuebles se destinen en forma total o parcial para brindar el servicio de hospedaje a personas distintas del propietario a cambio de una contraprestación.
 
@@ -162,6 +166,10 @@ La base de este Impuesto será el monto total de los ingresos que perciban las p
 En los supuestos que el servicio de hospedaje se brinde en inmuebles afectos a la prestación de servicios de tiempo compartido, el impuesto se causará exclusivamente por el 50% del monto de las cuotas que se paguen en concepto de mantenimiento, que se tendrá como valor del servicio de hospedaje.
 
 Cuando los usuarios convengan en recibir la prestación de servicios de hospedaje con otros servicios accesorios, incluidos como tales los de transportación, alimentos, bebidas, uso de instalaciones u otros similares, la base gravable será el 40% del importe total de la facturación, que se tendrá como valor del servicio de hospedaje.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+Tratándose de los servicios de hospedaje prestados por las marinas turísticas, se considerará como base de este impuesto el 20% del total de sus ingresos, por atraque de embarcaciones y/o renta de muelles.
 
 ###### Artículo 16.
 
@@ -395,7 +403,9 @@ Los ingresos recaudados por el Impuesto Sobre Nóminas se destinarán íntegrame
 
 I. El 62.4% de estos recursos se entregarán al Gobierno del Estado para su aplicación conforme los mecanismos que el mismo acuerde;
 
-II. El 37.6% restante se distribuirá entre los Municipios del Estado conforme a los porcentajes establecidos en el artículo 6 de la Ley de Coordinación Fiscal del Estado de Baja California Sur. Los Municipios deberán aportar mensualmente estos recursos al mecanismo conforme al cual se realice su aplicación.
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+II. El 37.6% restantes se distribuirá entre los Municipios del Estado conforme a los porcentajes establecidos en el artículo 6 de la Ley de Coordinación Fiscal del Estado de Baja California Sur. El 53.2% de lo que reciba cada municipio por este concepto, deberá aportarlo mensualmente al patrimonio del Fideicomiso para Obras de Infraestructura Social constituido en su municipio; el 46.8% restante podrá ejercerlo de manera directa en obras de infraestructura social, o depositarlo en el citado fideicomiso.
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
 
@@ -639,31 +649,17 @@ Disposiciones Generales
 
 ### Capítulo Primero. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE JUNIO DE 2006)</small>
-
 ###### Artículo 91.
 
-Los derechos previstos en este título se podrán pagar en las oficinas de la Dirección de Ingresos, en las recaudaciones o subrecaudaciones de rentas de la Secretaria de Finanzas. La Secretaria de Finanzas podrá autorizar mediante acuerdo que se deberá de publicar en el Boletín Oficial del Gobierno del Estado, para que las dependencias y unidades administrativas que presten los servicios, reciban el pago de los derechos previstos en este Título.
-
-Por ningún concepto las autoridades administrativas podrán dispensar a los particulares del pago de los derechos comprendidos en este capítulo, u otorgar algún subsidio o reducción sobre dichos conceptos.
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE JUNIO DE 2006)</small>
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ###### Artículo 92.
 
-Las autoridades que en los términos del artículo anterior recauden ingresos por los conceptos señalados en este Título, estarán obligadas a enterar el importe y presentar un informe de lo recaudado a la Secretaría de Finanzas a más tardar el día 15 del mes siguiente a su recaudación.
-
-El informe mencionado en el párrafo anterior contendrá los siguientes datos:
-
-a) Concepto por el cual se recauda el ingreso;
-
-b) Importe correspondiente a cada rubro de ingreso o derecho;
-
-c) Cantidad de trámites prestados identificando el servicio de que se trate.
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ###### Artículo 93.
 
-Cuando el particular solicite los servicios mencionados en este Título con carácter urgente, los derechos se causarán en un 100% adicional a la tarifa normal.
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ### Capítulo Segundo. De los derechos por legalización de firmas, certificaciones y copias certificadas de documentos
 
@@ -671,643 +667,57 @@ Cuando el particular solicite los servicios mencionados en este Título con car�
 
 ###### Artículo 94.
 
-Por los servicios prestados por las autoridades de la Secretaría General de Gobierno, se causarán y pagarán los siguientes derechos:
-
-“A“.- Por la legalización de firmas, certificaciones y copias certificadas, se causarán y pagarán los derechos conforme a la siguiente:
-
-T A R I F A:
-
-C O N C E P T O: NÚMERO DE SALARIO
-
-MÍNIMO VIGENTE
-
-EN EL ESTADO
-
-I. Legalización de firmas ológrafas de funcionarios de los poderes Ejecutivo y Judicial:
-
-a) De funcionarios públicos del Poder Ejecutivo 1.50
-
-b) De funcionarios públicos del Poder Judicial 1.50
-
-II. Protocolos:
-
-a) Autorización de protocolos ordinarios 4
-
-b) Autorización de protocolos extraordinarios 5
-
-III. Expedición de copias certificadas:
-
-a) Por la primera hoja 1.50
-
-b) Por cada hoja siguiente 1
-
-> <small>(REFORMADA, B.O. 20 DE JUNIO DE 2006)</small>
-
-IV. Expedición de constancia de no antecedentes penales; 1
-
-V. Anuencias; 3
-
-VI. Apostillas; 5
-
-VII. Cartas de Ciudadano Sudcaliforniano 10
-
-Los servicios de expedición de copias certificadas prestados por las demás autoridades del Gobierno del Estado, diversas a la Secretaría General de Gobierno, causarán y pagarán derechos en los términos de esta fracción.
-
-“B”.- Por los servicios prestados por la Dirección General del Transporte, se causarán y pagarán derechos conforme a la siguiente:
-
-T A R I F A :
-
-C O N C E P T O. NÚMERO DE SALARIO
-
-MINIMO VIGENTE
-
-EN EL ESTADO
-
-I. Por la expedición del título de concesión para transporte público colectivo de pasaje de ruta fija previamente establecida en zona urbana.
-
-a) Peseras o vehículos de 11 y hasta 23 pasajeros. 65
-
-b) Autobuses urbanos de 24 y hasta 40 pasajeros. 75
-
-II. Por la expedición del título de concesión para transporte público urbano sin rutas fijas o preestablecidas, pero con ubicación de sitio y Precisión del ámbito Territorial de explotación.
-
-a) Taxis hasta de 5 pasajeros 65
-
-b) Taxis de 6 y hasta 15 pasajeros 65
-
-III. Por la expedición del título de concesión para transporte público urbano especializado:
-
-a) Exclusivo de turismo, con chofer y/o guía. 264
-
-b) Exclusivo de personal o de trabajadores agrícolas 50
-
-c) Exclusivo de transporte escolar 40
-
-IV. Por la expedición del título de concesión de
-
-arrendamiento de vehículos 263
-
-V. Por la expedición de títulos de concesión para transporte de carga en zonas urbanas y suburbanas:
-
-a) De carga regular. 53
-
-b) De carga liviana. 30
-
-c) De carga de materiales para la construcción. 65
-
-d) Carga especializada (pipa) 65
-
-e) De carga express. 132
-
-VI. Por la expedición de título de concesión para el transporte especializado en zonas urbanas y suburbanas
-
-a) Ambulancias. 0
-
-b) Grúas 60
-
-c) Demostración y traslado de vehículos. 53
-
-d) Carrozas fúnebres 53
-
-e) Salvamento y rescate prestado por particulares 0
-
-VII. Por la cesión de derechos se aplicará la misma tarifa correspondiente de acuerdo a cada una de las modalidades descritas en los incisos de la fracción anterior.
-
-Quedan exentos de este pago, cuando se trate de transferencias por defunción o cesión de derechos a un familiar directo.
-
-Lo recaudado por el cobro de estos derechos tanto de concesiones nuevas como de las cesiones y/o regularizaciones se destinarán al Fondo Social para el Desarrollo de Baja California Sur, a efecto de constituir un fondo que permita otorgar créditos a transportistas.
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ###### Artículo 95.
 
-Los servicios prestados por la Dirección Estatal del Registro Público de la Propiedad, Registro Civil y Archivo General de Notarías, se causarán y pagarán los derechos conforme a lo siguiente:
-
-“A”. Por los servicios derivados del Archivo General de Notarías y Registro Público de la Propiedad, se pagarán los derechos conforme a la siguiente:
-
-T A R I F A :
-
-C O N C E P T O: NÚMERO DE SALARIOS
-
-MÍNIMOS VIGENTES
-
-EN EL ESTADO
-
-I. Expedición de testimonios y copias certificadas
-
-de actas y escrituras incluida la autorización,
-
-por cada hoja. 4
-
-II. Expedición de copias certificadas de documentos
-
-o planos que obren en el apéndice, por cada hoja,
-
-incluida la autorización. 4
-
-III. Por expedición de copia simple del protocolo y
-
-apéndice, por cada hoja. 2
-
-IV. Por la autorización de protocolos notariales,
-
-en los Términos del Artículo 47 de la Ley del
-
-Notariado. 5
-
-V. Autorización de protocolos especiales. 0
-
-VI. Búsqueda de antecedentes notariales. 5
-
-VII. Búsqueda, certificación y autorización
-
-definitiva de las escrituras o actas notariales
-
-de valor determinado que no contengan cuota
-
-especial en esta Ley; 5
-
-VIII. Por autorización de actas o escrituras de valor
-
-indeterminado. 3
-
-“B”. Por los servicios derivados del Registro Civil se causarán y pagarán los derechos conforme a la siguiente:
-
-T A R I F A :
-
-C O N C E P T O NÚMERO DE SALARIOS
-
-MÍNIMOS VIGENTES
-
-EN EL ESTADO.
-
-I. Expedición de copias simples de la
-
-documentación concentrada en la
-
-dirección y oficinas regionales. 2
-
-II. Expedición de copias certificadas de la
-
-documentación concentrada en la dirección
-
-y oficinas regionales, por cada hoja. 4
-
-III. Búsqueda de antecedentes registrables en los
-
-libros que se encuentran concentrados en la
-
-dirección, para la expedición de copias
-
-certificadas cuando no se señale la fecha,
-
-por cada año o fracción. 1.50
-
-IV. Anotaciones marginales. 1.5
-
-V. Trámite de actas administrativas por aclaración; 2.5
-
-VI. Expedición de certificaciones de actas, por
-
-cada hoja. 2
-
-Los trámites urgentes prestados el mismo día causarán una tarifa adicional del 100%
-
-“C”.- Por los servicios prestados por la Dirección de Asuntos Jurídicos se causarán y pagarán derechos conforme a la siguiente tarifa:
-
-C O N C E P T O NÚMERO DE SALARIOS
-
-MÍNIMOS VIGENTES
-
-EN EL ESTADO.
-
-I. Por la inscripción en el Registro Único de
-
-Aspirantes al ejercicio del Notariado; 5
-
-II. Por la aplicación del examen para el ejercicio
-
-notarial. 15
-
-“D”.- Por los servicios prestados por El Archivo General del Estado se causarán y pagarán derechos conforme a la siguiente tarifa:
-
-C O N C E P T O NÚMERO DE SALARIOS
-
-MÍNIMOS VIGENTES
-
-EN EL ESTADO.
-
-I. Suscripción al Boletín Oficial del Gobierno
-
-del Estado:
-
-a) Por un trimestre: 2
-
-b) Por un semestre; 4
-
-c) Por un año 7
-
-II. Por ejemplares del Boletín Oficial:
-
-a) Número del día; 0.5
-
-b) Número extraordinario; 0.75
-
-c) Número atrasado. 1
-
-> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 2006)</small>
-
-III. Por publicación de avisos en el Boletín Oficial
-
-a) Por palabra 0.005
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ###### Artículo 96.
 
-Por la expedición de licencias y refrendos a las personas físicas y morales que dentro del Estado presten el servicio de seguridad privada de acuerdo con la legislación de la materia, se causarán y pagarán los derechos conforme a la siguiente:
-
-T A R I F A :
-
-C O N C E P T O NÚMERO DE SALARIOS
-
-MÍNIMOS VIGENTES
-
-EN EL ESTADO.
-
-I. Expedición de licencias. 110
-
-II. Refrendo anual de licencia. 50
-
-III. Autorización y Registro Personal de
-
-Seguridad Privada por cada agente. 5
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ###### Artículo 97.
 
-Los derechos causados conforme al artículo anterior, se deberán pagar en las oficinas de la Dirección de Ingresos, de las recaudaciones o subrecaudaciones de rentas de la Secretaría de Finanzas los primeros quince días después de haber cumplido con los requisitos que para el registro le solicite al interesado la Secretaría de Seguridad Pública del Gobierno del Estado, cuando sea licencia de funcionamiento y cuando sea refrendo los primeros treinta días del mes de enero.
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 #### Sección IV. Por los servicios prestados por la Comisión Estatal para la Protección contra Riesgos Sanitarios (COEPRIS-BCS)
 
 ###### Artículo 98.
 
-Por los servicios prestados por las autoridades fiscales, se causarán y pagarán derechos conforme a la siguiente:
-
-T A R I F A:
-
-C O N C E P T O NÚMERO DE SALARIOS
-
-MÍNIMOS VIGENTES
-
-EN EL ESTADO.
-
-I. Expedición de copias certificadas, por la
-
-primera hoja. 0.60
-
-II. Por cada hoja excedente a la primera. 0.40
-
-III. Por los servicios de control vehicular
-
-a) Por el registro de alta de vehículo en el
-
-Padrón Vehicular 3.5
-
-b) Por cambio de propietario de motor, carrocería
-
-y corrección de datos 3
-
-c) Por trámites de baja del vehículo 3
-
-d) Por expedición de constancias 2
-
-e) Por la búsqueda de documentos 1
-
-f) Por servicio de entrega a domicilio (hasta
-
-dos trámites en un mismo domicilio) 1.5
-
-g) Por servicio de revisión de vehículo y documentos
-
-para altas al padrón vehicular en el domicilio
-
-del contribuyente. 1.5
-
-h) Consulta a otras entidades federativas sobre
-
-trámites y pagos efectuados 1
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ###### Artículo 99.
 
-Por los servicios que preste la Secretaría de Planeación Urbana, Infraestructura y Ecología:
-
-“A” Por Los servicios que preste la Coordinación de Maquinaria Pesada, Pavimentación, Precios Unitarios y Concursos, se causarán y pagarán derechos conforme a la siguiente:
-
-T A R I F A:
-
-C O N C E P T O NÚMERO DE SALARIOS
-
-MÍNIMOS VIGENTES
-
-EN EL ESTADO.
-
-Solicitud para permitir corte de pavimento
-
-asfáltico, para la conexión de los servicios
-
-de agua potable y alcantarillado. 3
-
-“B” Por los servicios en materia ecológica y ambiental, se causarán y pagarán derechos conforme a la siguiente:
-
-T A R I F A:
-
-C O N C E P T O NÚMERO DE SALARIOS
-
-MÍNIMOS VIGENTES
-
-EN EL ESTADO.
-
-I. Por verificación y evaluación:
-
-a) Informe preventivo. 30
-
-b) Evaluación de manifestación de impacto
-
-ambiental en modalidad general. 63
-
-c) Evaluación de manifestación de impacto
-
-ambiental en modalidad intermedia. 95
-
-d) Evaluación de manifestación de impacto
-
-ambiental en modalidad específica. 59
-
-e) Estudio de riesgo. 63
-
-f) Registro de prestadores de servicios en
-
-materia ambiental. 60
-
-II. Por recepción y evaluación de solicitudes de
-
-licencias de funcionamiento. 49
-
-III. Por expedición de licencia de funcionamiento. 25
-
-IV. Por modificación y verificación del cumplimiento
-
-de la Normatividad. 25
-
-V. Por registro de descarga de aguas residuales. 5
-
-VI. Autorización de impacto ambiental. Informe
-
-preventivo. 30
-
-VII. Autorización de impacto ambiental.
-
-Modalidad general. 60
-
-VIII. Autorización de impacto ambiental.
-
-Modalidad intermedia. 90
-
-IX. Autorización de impacto ambiental.
-
-Modalidad específica. 90
-
-X. Autorización en materia de riesgo ambiental. 30
-
-XI. Licencia de funcionamiento para emisiones
-
-ambientales. 30
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ###### Artículo 100.
 
-Por los servicios que preste la Secretaría de Educación Pública, se causarán y pagarán derechos conforme a la siguiente:
-
-T A R I F A:
-
-C O N C E P T O NÚMERO DE SALARIOS
-
-MÍNIMOS VIGENTES
-
-EN EL ESTADO
-
-I. Duplicado de certificado de educación primaria. 0.75
-
-II. Duplicado de certificado de educación secundaria. 0.75
-
-III. Boleta de grado de secundaria. 0.75
-
-IV. Duplicado de certificado de normal urbana. 2
-
-V. Equivalencia y revalidación de estudios de
-
-educación primaria y secundaria. 0.50
-
-VI. Equivalencia y revalidación de estudios de
-
-educación media superior. 5
-
-VII. Equivalencia y revalidación de estudios
-
-de educación superior y post-grado 13
-
-VIII. Inspección y vigilancia educación preescolar
-
-y primaria. Por alumno 0.25
-
-IX. Inspección y vigilancia educación secundaria.
-
-Por alumno 0.50
-
-X. Inspección y vigilancia educación superior.
-
-Por alumno 1
-
-XI. Exámenes extraordinarios de educación
-
-secundaria. 0.25
-
-XII. Exámenes extraordinarios de educación
-
-media superior y superior. 1
-
-XIII. Expedición de Cédula Profesional Estatal. 10
-
-XIV. Expedición de Cédula Provisional Estatal. 3.5
-
-XV. Reposición de Cédula Estatal, incluyendo
-
-la provisional. 5
-
-XVI. Duplicado de Cédula Profesional Estatal. 5
-
-XVII. Registro de Título Profesional o grado
-
-académico. 8
-
-XVIII. Registro estatal de colegio de profesionistas. 50
-
-XIX. Apertura de escuela, autorización para impartir
-
-educación preescolar, primaria, secundaria y otras. 80
-
-XX. Expedición de autorización temporal para
-
-práctica profesional a persona que carece de
-
-título (un año). 5
-
-XXI.- Duplicado de autorización temporal para
-
-práctica profesional a persona que carece de
-
-titulo (un año). 5
-
-XXII.- Duplicado de autorización temporal
-
-práctica profesional a persona que carece de
-
-título (dos años). 9
-
-XXIII.- Registro de colegio de profesionistas. 73
-
-XXIV.- Registro de cambio de estatutos,
-
-denominación social y consejo directivo de los
-
-colegios de profesionistas. 8
-
-XXV.- Inscripción de asociados a un colegio de
-
-profesionistas que no figuren en el registro original. 3
-
-XXVI.- Registro de establecimiento educativo oficial
-
-o particular autorizado para expedir títulos
-
-profesionales o grados académicos. 73
-
-> <small>(REFORMADO, B.O. 20 DE JUNIO DE 2006)</small>
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ###### Artículo 101.
 
-En los casos de las Fracciones XI y XII del mismo artículo, el pago podrá realizarse en la Institución Educativa que aplique los exámenes, pero deberá enterar el importe recaudado a la Secretaría de Finanzas en los plazos a que se refiere el Artículo 92 de esta Ley.
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ###### Artículo 102.
 
-Por los servicios prestados por la Comisión Estatal para la Protección contra Riesgos Sanitarios (COEPRIS-BCS), se causarán y se pagarán derechos conforme la siguiente:
-
-T A R I F A:
-
-C O N C E P T O NÚMERO DE SALARIOS
-
-MÍNIMOS VIGENTES
-
-EN EL ESTADO
-
-I. Curso de Capacitación por persona, (máximo 20 4 personas), de:
-
-a. Manejadores de Alimentos.
-
-b. Plantas Purificadoras.
-
-c. Empacadoras de Alimentos.
-
-d. Uso y Aplicación de Plaguicidas.
-
-e. Control Sanitario de la Publicidad.
-
-II. Permiso sanitario de construcción, regulación,
-
-ampliación o remodelación. 11
-
-III. Autorización de libros para medicamentos
-
-estupefacientes y psicotrópicos. 5
-
-IV. Autorización para manejo de recetario con
-
-código de barras. 7
-
-V. Expedición de código de barras para recetario
-
-especial. 9
-
-VI. Solicitud de verificación para destrucción y/o
-
-desactivación de medicamentos no controlados
-
-y materiales de curación. 19
-
-VII. Publicidad en eventos locales de bebidas
-
-alcohólicas. 17
-
-VIII. Solicitud de visita de verificación sanitarias. 23
-
-IX. Solicitud de visita de verificación sanitaria con
-
-toma de muestras sin costo de laboratorio. 23
-
-X. Solicitud de visita de verificación sanitaria
-
-para destrucción de alimentos. 23
-
-XI. Respecto a las áreas certificadas del Programa
-
-Mexicano de Sanidad de Moluscos Bivalvos:
-
-XII. Toma de muestras hasta el laboratorio. 173
-
-XIII. Elaboración de Estudios para la Clasificación
-
-Sanitaria. 684
-
-XIV. Laboratorio Móvil No. 2 del Programa Mexicano
-
-de Sanidad de Moluscos Bivalvos:
-
-A. Agua de Mar:
-
-a) PH. 4
-
-b) Coliformes fecales. 10
-
-c) Coliformes totales. 7
-
-d) Mesofilicos aerobios. 8
-
-e) Oxígeno disuelto. 13
-
-f) Salinidad. 4
-
-B. Ostión Japonés:
-
-a) PH. 4
-
-b) Coliformes fecales. 10
-
-c) Coliformes totales. 7
-
-d) Mesofilicos aerobios. 8
-
-e) Salinidad. 4
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ###### Artículo 103.
 
-Quedan excluidas del pago de derechos, por los conceptos mencionados en el artículo anterior, las dependencias que forman parte del sector salud y de la administración estatal y paraestatal.
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ###### Artículo 104.
 
-Los montos por concepto de pago por derechos aplicados por la Secretaría de Salud, a través de la COEPRIS-BCS se cubrirán en las cajas recaudadoras de la Secretaría de Finanzas del Gobierno del Estado, mediante orden de pago que expida la COEPRIS-BCS.
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ###### Artículo 105.
 
-Los servicios a que se refiere el artículo anterior, se prestarán previo pago de los derechos correspondientes.
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ###### Artículo 106.
 
-Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el Artículo 102, se destinarán a la Comisión Estatal para la Protección contra Riesgos Sanitarios COEPRIS-BCS, para el mantenimiento, conservación y operación de los servicios en materia de riesgo sanitario.
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ## Título Cuarto. De las contribuciones especiales de mejoras sociales
 
@@ -1495,31 +905,15 @@ Si la obra no se realiza, los aportadores que hubieran pagado, podrán solicitar
 
 ###### Artículo 125.
 
-Quedan comprendidos en este concepto los Ingresos que obtiene el Estado por actividades que no corresponden al desarrollo de sus funciones propias de derecho público, así como por la explotación o aprovechamiento de los bienes que constituyan su patrimonio, tales como:
-
-I. La venta de bienes muebles e inmuebles propiedad del Estado, la que se hará en subasta pública al mejor postor, sirviendo de postura legal las dos terceras partes del valor comercial del bien, fijado en avalúo pericial. Podrán venderse muebles e inmuebles del Gobierno del Estado fuera de subasta si así lo especifican las Leyes o Reglamentos respectivos o se obtiene la autorización correspondiente del Congreso del Estado;
-
-II. Arrendamiento y explotación de bienes muebles e inmuebles;
-
-III. Venta o suscripción al Boletín Oficial del Gobierno del Estado;
-
-IV. Venta de publicaciones oficiales;
-
-V. Venta y expedición de formas oficiales aprobadas para presentación de avisos y declaraciones;
-
-VI. Servicios de talleres de Gobierno;
-
-VII. Intereses bancarios;
-
-VIII. Productos diversos.
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ###### Artículo 126.
 
-Los productos especificados en este Título se cobrarán de acuerdo con las cuotas que fije la tarifa que expida el Gobierno del Estado y las reformas que se hicieran a la misma, las que surtirán efecto diez días después de su publicación en el Boletín Oficial.
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ###### Artículo 127.
 
-La explotación o aprovechamiento de bienes propiedad del Estado, realizadas por personas o empresas particulares en virtud de concesiones, contratos o convenios celebrados al efecto por el Gobierno del Estado, se regirán por las disposiciones respectivas; la recaudación de los Ingresos obtenidos por este concepto se hará de acuerdo con las disposiciones relativas.
+(DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
 ## Título Sexto. Aprovechamientos
 
@@ -1611,19 +1005,13 @@ III. Instituto de Seguridad y Servicios Sociales de las Fuerzas Armadas Mexicana
 
 IV. Otras Instituciones de Seguridad Social que presten servicios en las diversas entidades federativas del país.
 
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 137.
 
-Se establece a favor de los pensionados, jubilados y adultos mayores de 60 años, una reducción del 50% en el pago de las contribuciones que a continuación se indican:
+Se establece a favor de los pensionados, jubilados y adultos mayores de 60 años, una reducción del 50% en el pago del Impuesto Sobre Enajenación de Bienes Muebles.
 
-I. Derechos por la legalización de firmas, certificaciones y copias certificadas.
-
-II. Derechos por la expedición de formas aprobadas.
-
-III. Derechos por servicios del Archivo General de Notarías, y
-
-IV. Impuesto sobre Enajenación de bienes muebles.
-
-Los beneficios a que se refiere este artículo podrán hacerse efectivos en una sola ocasión por año, únicamente en los actos relativos a la persona del pensionado, jubilado o adulto mayor de 60 años, y previo el acreditamiento de que se encuentra en alguno de los supuestos señalados en este artículo.
+El beneficio a que se refiere este artículo podrá hacerse efectivo en una sola ocasión por año, únicamente en los actos relativos a la persona del pensionado, jubilado o adulto mayor de 60 años.
 
 T R A N S I T O R I O S
 
@@ -1682,3 +1070,7 @@ Artículo Único.- El presente decreto entrará en vigor el día siguiente al de
 B.O. 11 DE MARZO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 24 DE DICIEMBRE DE 2008.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
