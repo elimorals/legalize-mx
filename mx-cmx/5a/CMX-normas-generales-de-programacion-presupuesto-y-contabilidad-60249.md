@@ -4,7 +4,7 @@ identifier: "CMX-normas-generales-de-programacion-presupuesto-y-contabilidad-602
 country: "mx"
 rank: "norma"
 publication_date: "2008-03-31"
-last_updated: "2008-03-31"
+last_updated: "2008-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60249&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-03-31"
 
 NORMAS GENERALES DE PROGRAMACION, PRESUPUESTO Y CONTABILIDAD DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE DICIEMBRE DE 2008.
 
 Normas publicadas en la Gaceta Oficial del Distrito Federal, el lunes 31 de marzo de 2008.
 
@@ -76,9 +76,11 @@ II. Proporcionar a la Contraloría la información necesaria, para que ésta en 
 
 III. Realizar las demás actividades que determinen estas Normas Generales.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 4.
 
-El Pleno y la Secretaría Administrativa interpretarán, dentro del ámbito de su respectiva competencia y para efectos administrativos las disposiciones de estas Normas Generales. El Código Financiero será supletorio de estas Normas Generales en lo conducente.
+El Pleno y la Secretaría Administrativa interpretarán, dentro del ámbito de su respectiva competencia y para efectos administrativos las disposiciones de estas Normas Generales.
 
 ###### Artículo 5.
 
@@ -88,9 +90,11 @@ El Tribunal en el ámbito de su autonomía ejercerá su presupuesto aprobado por
 
 La Secretaría Administrativa será el área responsable de planear, programar, presupuestar, registrar, administrar y controlar los recursos públicos asignados al Tribunal para el ejercicio fiscal correspondiente.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 7.
 
-Las operaciones contables y presupuestales que celebre el Tribunal se regirán por las presentes Normas Generales, las disposiciones que en la materia emita la Secretaría y/o la Oficialía Mayor del Gobierno del Distrito Federal.
+Las operaciones contables y presupuestales que celebre el Tribunal se regirán por las presentes Normas Generales.
 
 ###### Artículo 8.
 
@@ -695,3 +699,11 @@ Que el presente documento constante de ocho fojas útiles por el anverso y rever
 Lo que certifico en ejercicio de la facultad prevista en los artículos 188, inciso k) del Código Electoral del Distrito Federal, y 23, fracción XVII del Reglamento Interior de este Tribunal.
 
 México, Distrito Federal, a seis de febrero de dos mil ocho. DOY FE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS A LAS PRESENTES NORMAS.</small>
+
+G.O. 24 DE DICIEMBRE DE 2008.
+
+PRIMERO.- Las presentes reformas a las Normas Generales de Programación, Presupuesto y Contabilidad del Tribunal Electoral del Distrito Federal entrarán en vigor al día siguiente de su publicación en los estrados del Tribunal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
