@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2008-03-25"
+last_updated: "2008-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -239,7 +239,25 @@ XII. Certificar y expedir copias certificadas de los documentos que obren en sus
 
 XIII. Conocer y resolver, en el ámbito de su competencia, de los recursos administrativos que se interpongan en contra de los actos emanados de la Dependencia a su cargo;
 
-XIV. Atender, verificar y dar respuesta a las recomendaciones que señalen los organismos públicos de defensa de los derechos humanos con relación a la actuación de los servidores públicos adscritos física y presupuestalmente a dicha Dependencia.
+XIV. Atender, verificar y dar respuesta a las recomendaciones que señalen los organismos públicos de defensa de los derechos humanos con relación a la actuación de los servidores públicos adscritos física y presupuestalmente a dicha Dependencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+XV. Representar ante toda clase de autoridades y tribunales a la Dependencia a su cargo e intervenir en los procedimientos judiciales y administrativos en que ésta sea parte o tenga interés jurídico; así como representarla legalmente en lo relativo a las relaciones laborales;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+XVI. Nombrar, designar, remover, cesar, cambiar de adscripción, comisionar y otorgar licencias, a los servidores públicos y empleados de la Dependencia a su cargo; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+XVII. Otorgar poderes generales o especiales, entre ellos los que requieran autorización o cláusula especial, a los servidores públicos de las unidades administrativas a su cargo, cuando la propia Dependencia tenga el carácter de parte en cualquier asunto o procedimiento administrativo o judicial.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
 
@@ -269,21 +287,33 @@ VIII. Secretaría de Desarrollo Económico;
 
 IX. Secretaría de Turismo;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE SEPTIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X. Secretaría de Salud; y (sic)
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+X. Secretaría de Salud;
 
 > <small>(ADICIONADA, P.O. 4 DE JULIO DE 2007)</small>
 
 XI. Secretaría del Medio Ambiente;
 
-(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007) (F. DE E., P.O. 18 DE ENERO DE 2008)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XII. Procuraduría General de Justicia; y,
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
-(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007) (F. DE E., P.O. 18 DE ENERO DE 2008)
+XII. Procuraduría General de Justicia;
 
-XIII. Secretaría de Educación Media Superior, Superior e Investigación Científica y Tecnológica.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+XIII. Secretaría de Educación Media Superior, Superior e Investigación Científica y Tecnológica; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+XIV.- Secretaría del Trabajo.
 
 ### CAPITULO II
 
@@ -361,17 +391,27 @@ XXXII. Intervenir en los asuntos agrarios, de regulación de la tenencia de la t
 
 XXXIII. Aplicar y vigilar el cumplimiento de las medidas encaminadas a fortalecer la seguridad jurídica en el campo;
 
-XXXIV. Ejercer las funciones en materia de trabajo y previsión social en el ámbito estatal, de conformidad con los ordenamientos legales vigentes en la materia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XXXIV. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
 
 XXXV. Vigilar la observancia y aplicación de las disposiciones contenidas en el artículo 116 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XXXVI. Coordinar el funcionamiento e integración de la Junta de Conciliación y Arbitraje y de las comisiones que se formen para regular las relaciones obrero patronales, de conformidad con la legislación en la materia, así como el Tribunal de Conciliación y Arbitraje;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXXVII. Coordinar la Procuraduría Estatal de la Defensa del Trabajo;
+XXXVI. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
 
-XXXVIII. Coordinar el Departamento del Trabajo y Previsión Social;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXXIX. Organizar y llevar el registro de las asociaciones sociales, obreras, patronales, profesionales y demás que funcionen en el Estado;
+XXXVII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XXXVIII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XXXIX. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
 
 XL. Proveer lo necesario para la ejecución de las penas y sanciones impuestas por la autoridad judicial, así como para la vigilancia y control de los reos que se encuentren a disposición del Ejecutivo; elaborar, ejecutar y vigilar el cumplimiento de las políticas referentes a la readaptación social de los infractores, en los términos de las leyes de la materia; administrar los Centros de Readaptación Social;
 
@@ -1093,7 +1133,7 @@ XXI. Coordinar con el gobierno federal y con las entidades federativas los progr
 
 XXII. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
-> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 39.
 
@@ -1109,11 +1149,21 @@ IV. Promover y apoyar la relación con empresarios locales, nacionales y extranj
 
 V. Generar y difundir en el estado una cultura empresarial, basada en parámetros de competitividad internacional;
 
-VI. Fomentar el incremento de la productividad en el trabajo entre los Sectores de la Producción; y en coordinación con la Secretaría de Educación pública, promover el desarrollo de la capacitación y el adiestramiento para el trabajo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII. Establecer y dirigir el Servicio Estatal de Empleo y vigilar su funcionamiento;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
-VIII. Diseñar y proponer alianzas estratégicas para la generación de empleo y productividad, promoviendo la coordinación de las instituciones, científicas, tecnológicas, educativas, de la iniciativa privada, de los sectores oficiales, sociales, asociaciones y sociedad civil organizada y demás relacionadas;
+VI. Fomentar, en participación con la Secretaría del Trabajo, el incremento de la productividad y calidad en el trabajo entre los Sectores de la Producción; y en coordinación con ésta y con la Secretaría de Educación Media Superior, Superior e Investigación Científica y Tecnológica, promover el desarrollo de la capacitación y el adiestramiento para el trabajo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+VII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+VIII. Diseñar y proponer, con la participación de la Secretaría del Trabajo, las alianzas estratégicas para la generación de empleo y productividad, promoviendo la coordinación de las instituciones, científicas, tecnológicas, educativas, de la iniciativa privada, de los sectores oficiales, sociales, asociaciones y sociedad civil organizada y demás relacionadas;
 
 IX. Participar en coordinación con la Secretaría de Finanzas en la integración del proyecto general de criterios de política económica del Gobierno del Estado;
 
@@ -1150,6 +1200,8 @@ XXIV. Coadyuvar en la ejecución de los diversos programas que provengan de subs
 XXV. Fomentar la creación de consejos consultivos que coadyuven con la Secretaría en el debido cumplimiento de sus atribuciones; y
 
 XXVI. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 39 Bis.
 
@@ -1214,8 +1266,6 @@ XXVIII. Fomentar la creación de consejos consultivos con la participación de l
 XXIX. Preferentemente promover la coordinación del sector turismo con el agropecuario industrial del Estado, a efecto de garantizar el adecuado suministro de productos generados y procesados en la entidad;
 
 XXX. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado, sin contravenir lo dispuesto por esta Ley.
-
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 40.
 
@@ -1370,6 +1420,72 @@ XXII. Proveer lo necesario para la formación, capacitación, actualización y p
 XXIII. Prestar consejo jurídico y representar al estado ante los tribunales y autoridades en defensa de sus intereses; y
 
 XXIV. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 41 Bis.
+
+A la Secretaría del Trabajo le corresponden las siguientes atribuciones:
+
+I.- Ejercer dentro del ámbito estatal y de conformidad con los ordenamientos legales vigentes en la materia, las funciones en materia de trabajo y previsión social;
+
+II.- Procurar el equilibrio entre los factores de la producción, de conformidad con las disposiciones legales aplicables;
+
+III.- Coadyuvar con las autoridades federales a la aplicación y vigilancia de las normas de trabajo y poner a su disposición la información que soliciten para el cumplimiento de sus funciones;
+
+IV.- Coordinar el funcionamiento de la Junta de Conciliación y Arbitraje, de las comisiones que se formen para regular las relaciones obrero patronal y del Tribunal de Conciliación y Arbitraje, así como vigilar el funcionamiento de los mismos;
+
+V.- Coordinar y vigilar el debido funcionamiento de la Procuraduría Estatal de la Defensa del Trabajo;
+
+VI.- Coordinar y vigilar el debido funcionamiento del Departamento del Trabajo y Previsión Social;
+
+VII.- Intervenir, a petición de parte, en la revisión de los contratos colectivos de trabajo;
+
+VIII.- Mediar y conciliar, a petición de parte, en los conflictos colectivos que surjan de presuntas violaciones a la Ley o a los contratos colectivos de trabajo;
+
+IX.- Llevar a cabo los programas de educación, capacitación y vinculación para el empleo;
+
+X.- Vigilar el cumplimiento de las normas relativas a la capacitación, adiestramiento, seguridad e higiene de los trabajadores; y elaborar y ejecutar los programas correspondientes;
+
+XI.- Elaborar y desarrollar programas de trabajo y empleo, de acuerdo con el Plan Estatal de Desarrollo;
+
+XII.- Organizar y llevar el registro de las asociaciones sociales, obreras, patronales y profesionales y demás que funcionen en el Estado a través de la Junta Local de Conciliación y Arbitraje;
+
+XIII.- Prestar asistencia jurídica gratuita a los trabajadores y a sus sindicatos que así lo soliciten y representarlos ante los tribunales del trabajo;
+
+XIV.- Fomentar, en participación con la Secretaría de Desarrollo Económico, el incremento de la productividad y calidad en el trabajo entre los Sectores de la Producción; y en coordinación con ésta y la Secretaría de Educación Media Superior, Superior e Investigación Científica y Tecnológica, promover el desarrollo de la capacitación y el adiestramiento para el trabajo;
+
+XV.- Difundir por los conductos pertinentes las modificaciones que se den en las normas laborales;
+
+XVI.- Imponer las sanciones establecidas en el Título XVI de la Ley Federal del Trabajo, en el ámbito de su competencia;
+
+XVII.- Establecer y dirigir el Servicio Estatal de Empleo y vigilar su funcionamiento;
+
+XVIII.- Participar con la Secretaría de Desarrollo Económico, en el diseño de alianzas estratégicas para la generación de empleo y productividad;
+
+XIX.- Instrumentar acciones que mejoren las condiciones laborales de las mujeres;
+
+XX.- Vigilar el cumplimiento de las disposiciones legales que prohíban la discriminación laboral;
+
+XXI.- Promover la integración laboral de las personas recluidas en los Centros de Readaptación Social que hayan mostrado capacitación en el trabajo;
+
+XXII.- Promover la intervención en los sectores productivos para la inclusión laboral de las personas adultas mayores o con discapacidad;
+
+XXIII.- Aplicar políticas públicas para combatir la explotación laboral de menores;
+
+XXIV.- Promover e impulsar el desarrollo social, cultural y recreativo entre los trabajadores y sus familias;
+
+XXV.- Organizar, dirigir, ordenar y supervisar los servicios de visitas de verificación y de inspección que le correspondan, para comprobar el cumplimiento de las disposiciones legales y reglamentarias, en los ámbitos de su competencia;
+
+XXVI.- Aplicar medidas preventivas o de seguridad e imponer sanciones administrativas, en los ámbitos de su competencia y con sujeción a las leyes, reglamentos y demás disposiciones aplicables, así como promover la aplicación de las que correspondan a otras autoridades con relación a los asuntos de su despacho;
+
+XXVII.- Conocer y resolver, en el ámbito de su competencia, los recursos y demás medios administrativos de impugnación interpuestos en contra de los actos emanados de esta Secretaría o que por mandato legal le corresponda tramitar, en los términos de los ordenamientos aplicables;
+
+XXVIII.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades otorgadas por los ordenamientos aplicables y los convenios o anexos celebrados entre la Administración Pública Estatal con la Federación y los Municipios; y
+
+XXIX.- Las demás que le atribuyan las leyes, reglamentos, convenios, otras disposiciones legales y las que le confiera el Gobernador del Estado.
 
 ## TÍTULO TERCERO. De la Administración Pública Paraestatal
 
@@ -1732,3 +1848,17 @@ OCTAVO: Se autoriza la creación de las plazas indispensables para el funcionami
 P.O. 25 DE MARZO DE 2008.
 
 Artículo Único.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2008.
+
+Artículo Primero.- El presente decreto entrará en vigor el 1 de enero del año 2009, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Dentro de un plazo de noventa días contados a partir de la entrada en vigor del presente decreto, deberá expedirse el respectivo reglamento de la Secretaría del Trabajo.
+
+Artículo Tercero.- A la entrada en vigor del presente decreto, se realizará el traspaso de los recursos humanos, materiales, técnicos y financieros, de conformidad con el acuerdo de transferencia que al efecto disponga el Titular del Poder Ejecutivo de las dependencias Secretaría General de Gobierno y Secretaría de Desarrollo Económico, a la Secretaría del Trabajo.
+
+Artículo Cuarto.- Dentro del plazo de sesenta días contados a partir de la entrada en vigor del presente decreto, se deberán realizar los cambios conducentes al Presupuesto de Egresos, de conformidad al Programa de Transferencia de Recursos a que se refiere el artículo anterior.
+
+Artículo Quinto.- Los servidores públicos adscritos a las Secretarías General de Gobierno y de Desarrollo Económico no resultarán afectados en sus derechos laborales adquiridos, al incorporarse a la nueva Secretaría del Trabajo.
+
+Artículo Sexto.- Se autoriza la creación de las plazas indispensables para el funcionamiento y operatividad, de las dependencias que se crean.
