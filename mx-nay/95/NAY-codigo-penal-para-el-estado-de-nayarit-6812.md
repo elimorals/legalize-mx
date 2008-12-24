@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2008-10-18"
+last_updated: "2008-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -1674,6 +1674,10 @@ Si el delincuente fuere ascendiente, tutor o curador, o tuviere cualquiera otra 
 ###### ARTICULO 207.
 
 Al que provoque públicamente a cometer algún delito o haga la apología de éste o de algún vicio, se le aplicará prisión de uno a seis meses y multa de uno a cinco días de salario. Si el delito no se ejecutare en caso contrario, se aplicará al provocador la sanción anterior, sin perjuicio de la que corresponda por su participación en el delito cometido.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+La misma sanción se aplicará a quien por cualquier medio genere, difunda o propague información o datos falsos que produzcan alarma, temor o miedo en la población o en un grupo o sector de ella, para perturbar la paz pública o tratar de menoscabar la autoridad del estado o presionar a la autoridad para que tome una determinación.
 
 ## TITULO SEPTIMO
 
@@ -3742,3 +3746,7 @@ Artículo Tercero.- El Poder Judicial deberá enterar mensualmente los recursos 
 Artículo Cuarto.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 Artículo Quinto.- El Congreso del Estado deberá realizar las adecuaciones necesarias a la legislación local para el cumplimiento del presente decreto.
+
+P.O. 24 DE DICIEMBRE DE 2008.
+
+Artículo Único.- El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
