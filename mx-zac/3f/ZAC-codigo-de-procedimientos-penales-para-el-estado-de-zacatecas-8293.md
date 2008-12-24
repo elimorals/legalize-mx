@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-penales-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1967-07-19"
-last_updated: "2008-12-06"
+last_updated: "2008-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "ZAC"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ENERO DE 2009, EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE ZACATECAS, PUBLICADO POR DECRETO NO. 511 EN EL P.O. DE 15 DE SEPTIEMBRE DE 2007, SEGUIRA RIGIENDO EN LO CONDUCENTE, EN LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA APLICACION DEL NUEVO CODIGO, Y QUEDARA ABROGADO EN LA MEDIDA EN QUE AQUELLOS QUEDEN AGOTADOS.</small>
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE ZACATECAS, PUBLICADO POR DECRETO NO. 511 EN EL P.O. DE 15 DE SEPTIEMBRE DE 2007, SEGUIRÁ RIGIENDO EN LO CONDUCENTE, EN LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA APLICACIÓN DEL NUEVO CÓDIGO, Y QUEDARÁ ABROGADO EN LA MEDIDA EN QUE AQUÉLLOS QUEDEN AGOTADOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2008.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 19 de julio de 1967.
 
@@ -221,7 +223,7 @@ Las actuaciones deberán ser autorizadas inmediatamente por los funcionarios a q
 
 Las infracciones de las disposiciones contenidas en los artículos 15, 16, 17, 19, 20, 21, 23 y 24, se sancionarán con una corrección disciplinaria, sin perjuicio de consignar el caso al Ministerio Público, cuando pudiere resultar la existencia de un delito.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE MAYO DE 1991)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE MAYO DE 1991)</small>
 
 ### CAPITULO III. Traductores
 
@@ -511,7 +513,7 @@ Asimismo podrá ordenarse por teléfono o por telégrafo a la policía que haga 
 
 También podrá citarse por teléfono a la persona que haya manifestado expresamente su voluntad para que se le cite por ese medio, dando el número del aparato al cual debe hablársele, sin perjuicio de que si no es hallada en ese lugar o no se considera conveniente hacerlo de esa manera, se le cite por alguno de los otros medios señalados en este Capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MAYO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 1991)</small>
 
 ###### ARTICULO 76.
 
@@ -1141,7 +1143,7 @@ En los casos de delitos cuya sanción no exceda de seis meses de prisión o la a
 
 ## TITULO SEXTO. DISPOSICIONES COMUNES A LA AVERIGUACION PREVIA, AL PERIODO CONSTITUCIONAL Y A LA INSTRUCCION
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE MAYO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MAYO DE 1999)</small>
 
 ### CAPITULO I. Comprobación del Cuerpo del Delito
 
@@ -3157,11 +3159,13 @@ En el caso a que se refiere la fracción III del artículo 418, se remitirá al 
 
 ### CAPITULO II. Menores
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 467.
 
-Las medidas correctivas de las infracciones a la Ley penal cometidas por menores de dieciocho años se hará de acuerdo con el Código Tutelar para Menores en el Estado de Zacatecas.
+Las medidas correctivas de las infracciones a la Ley Penal cometidas por menores de dieciocho años se harán de acuerdo con la Ley de Justicia para Adolescentes en el Estado de Zacatecas.
 
 TITULO DECIMOTERCERO
 
@@ -3215,7 +3219,7 @@ Después de dictada sentencia irrevocable no procederá la suspensión condicion
 
 Cuando por alguna de las causas que señala el artículo 88 del Código Penal deba hacerse efectiva la sanción impuesta, revocándose el beneficio de la suspensión condicional, el tribunal que concedió ésta procederá, con audiencia del Ministerio Público, y del reo y de su defensor, si fuere posible, a comprobar la existencia de dicha causa y, en su caso, ordenará que se ejecute la sanción.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1993)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1993)</small>
 
 ### CAPITULO III. Libertad Condicional
 
@@ -3255,7 +3259,7 @@ Cuando por alguna de las causas que señala el artículo 88 del Código Penal de
 
 (DEROGADO, P.O. 10 DE JULIO DE 1993)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1993)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1993)</small>
 
 ### CAPITULO IV. Retención
 
@@ -3275,7 +3279,7 @@ Cuando por alguna de las causas que señala el artículo 88 del Código Penal de
 
 (DEROGADO, P.O. 10 DE JULIO DE 1993)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1993)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1993)</small>
 
 ### CAPITULO V. Conmutación y Reducción de Sanciones y Cesación de sus Efectos
 
@@ -3361,13 +3365,21 @@ Si la inhabilitación o suspensión fuere por menos de seis años, el reo podrá
 
 Recibida la solicitud por el Congreso, si lo creyere necesario, recabará informes más amplios para dejar perfectamente precisada la conducta del reo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 506.
 
-Recibidas las informaciones, o desde luego si no se estimaren necesarias, el Congreso decidirá dentro de tres días, oyendo al Procurador General de Justicia y al peticionario, si es o no fundada la solicitud. En el primer caso, remitirá las actuaciones originales con su resolución, al Ejecutivo del Estado, por conducto de la Secretaría de Gobierno para que la cumpla. Si se concediere la rehabilitación se publicará en el periódico Oficial del Estado; si se negare, se dejarán expeditos al reo sus derechos para que pueda solicitarla de nuevo después de un año.
+Recibidas las informaciones, o desde luego si no se estimen necesarias, el Congreso decidirá dentro de tres días, oyendo al Procurador General de Justicia y al peticionario, si es o no fundada la solicitud. En el primer caso, remitirá las actuaciones originales con su resolución, al Ejecutivo del Estado, por conducto de la Secretaría de Seguridad Pública, para que la cumpla. Si se concediere la rehabilitación se publicará en el Periódico Oficial del Estado; si se negare, se dejarán expeditos al reo sus derechos para que pueda solicitarla de nuevo después de un año.
 
-###### ARTICULO 507.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Concedida la rehabilitación por el Congreso, la Secretaría General de Gobierno, comunicará la resolución al tribunal correspondiente para que haga la anotación respectiva en el proceso.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 507.
+
+Concedida la rehabilitación por el Congreso, la Secretaría de Seguridad Pública, comunicará la resolución al tribunal correspondiente para que haga la anotación respectiva en el proceso.
 
 ###### ARTICULO 508.
 
@@ -3401,7 +3413,7 @@ El Secretario General de Gobierno,
 
 Lic. Alejandro Borrego Acuña.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE AGOSTO DE 1986.
 
@@ -3582,3 +3594,23 @@ P.O. 6 DE DICIEMBRE DE 2008.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2008.
+
+Artículo primero.- El presente Decreto iniciará su vigencia el 1 de Marzo del 2009, con las modalidades que enseguida se precisan.
+
+Artículo segundo.- Los recursos humanos, financieros y materiales del Consejo Estatal de Seguridad Pública, de la Subsecretaría de Seguridad Pública y de la Dirección General de Seguridad Pública y Tránsito del Estado, asignados a funciones operativas, pasarán a formar parte de la Secretaría de Seguridad Pública. Los recursos humanos, financieros y materiales de las Direcciones de la Policía Estatal Preventiva y de Prevención y Readaptación Social, así como los del Centro de Internamiento y Atención Integral Juvenil, dependientes de la Secretaría General de Gobierno, pasarán a formar parte de la Secretaría de Seguridad Pública.
+
+En ambos casos se deberán respetar los derechos laborales y de seguridad social que los servidores públicos hubieren adquirido con anterioridad.
+
+Artículo tercero.- Dentro de los treinta días naturales siguientes a la entrada en vigor de este Decreto, el Poder Ejecutivo del Estado nombrará al titular de dicha dependencia.
+
+Artículo cuarto.- Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, se deberá adecuar y publicar en el Periódico Oficial, Órgano del Gobierno del Estado, las modificaciones al Programa Estatal de Seguridad Pública.
+
+Artículo quinto.- Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, deberán publicarse en el Periódico Oficial, Órgano del Estado, las reformas al Reglamento Interior de la Secretaría General de Gobierno y al Reglamento de la Policía Estatal Preventiva.
+
+Artículo sexto.- Dentro de los noventa días naturales siguientes a la publicación de este Decreto, deberá quedar integrado el Sistema Estatal de Seguridad Publica.
+
+Artículo séptimo.- En el Presupuesto de Egresos del Estado para el ejercicio fiscal 2009, deberán incluirse las partidas correspondientes para el funcionamiento de la Secretaría de Seguridad Pública.
+
+Artículo octavo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
