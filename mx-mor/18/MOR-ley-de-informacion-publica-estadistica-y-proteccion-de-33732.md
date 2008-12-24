@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-informacion-publica-estadistica-y-proteccion-de-33732"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-27"
-last_updated: "2008-11-05"
+last_updated: "2008-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE INFORMACION PUBLICA, ESTADISTICA Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de agosto de 2003.
 
@@ -181,7 +181,9 @@ Para efectos de esta Ley se entiende por:
 
 5. Estado.- Estado Libre y Soberano de Morelos.
 
-6. Entidades Públicas.- Poder Ejecutivo del Estado, Gobernador Constitucional del Estado, las dependencias y entidades de la Administración Pública Estatal y Paraestatal, la Defensoría Pública; el Poder Legislativo del Estado, el Congreso del Estado, todas sus comisiones y órganos internos, la Diputación Permanente del Congreso del Estado, la Contaduría Mayor de Hacienda del Congreso del Estado y todas las dependencias administrativas del Congreso del Estado; el Poder Judicial del Estado, el Consejo de la Judicatura Estatal, todos los juzgados y órganos colegiados jurisdiccionales y administrativos, el Tribunal Estatal Electoral y el Tribunal de lo Contencioso Administrativo; los Ayuntamientos y cabildos de los Municipios, Presidente Municipal, Regidores y Síndicos, todas las entidades y dependencias de la administración pública municipal y paramunicipal, los fideicomisos públicos; la Universidad Autónoma del Estado de Morelos, el Instituto Estatal Electoral, la Comisión Estatal de Derechos Humanos y el Instituto de Desarrollo y Fortalecimiento Municipal; el Instituto de Finanzas Públicas y Federalismo Hacendario del Estado de Morelos, los órganos autónomos constitucionales y los órganos autónomos legales; así como todas las entidades a las que la Constitución, las leyes estatales y los reglamentos municipales reconozcan como de interés público;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+6. Entidades Públicas.- Poder Ejecutivo del Estado, Gobernador Constitucional del Estado, las dependencias y entidades de la Administración Pública Estatal y Paraestatal, la Defensoría Pública; el Poder Legislativo del Estado, el Congreso del Estado, todas sus comisiones y órganos internos, la Diputación Permanente del Congreso del Estado, Auditoría Superior de Fiscalización y todas las dependencias administrativas del Congreso del Estado; el Poder Judicial del Estado, el Consejo de la Judicatura Estatal, todos los juzgados y órganos colegiados jurisdiccionales y administrativos, el Tribunal Estatal Electoral y el Tribunal de lo Contencioso Administrativo; los Ayuntamientos y cabildos de los Municipios, Presidente Municipal, Regidores y Síndicos, todas las entidades y dependencias de la administración pública municipal y paramunicipal, los fideicomisos públicos; la Universidad Autónoma del Estado de Morelos, el Instituto Estatal Electoral, la Comisión de Derechos Humanos del Estado de Morelos y el Instituto de Desarrollo y Fortalecimiento Municipal; el Instituto de Finanzas Públicas y Federalismo Hacendario del Estado de Morelos, los órganos autónomos constitucionales y los órganos autónomos legales; así como todas las entidades a las que la Constitución, las leyes estatales y los reglamentos municipales reconozcan como de interés público.
 
 7. Servidores Públicos.- Toda persona que trabaje, preste servicios o colabore en cualquier (sic) de las entidades públicas estatales y municipales.
 
@@ -353,9 +355,9 @@ Cuando se trate del otorgamiento de concesiones, licencias, permisos o autorizac
 
 11. Información detallada de las obras que directa o indirectamente tienen que ejecutar las entidades con cargo al presupuesto público, con préstamos, subvenciones o aportaciones privadas de carácter nacional e internacional. En este caso deberá precisarse el monto, lugar, plazo de ejecución, entidad pública y servidores públicos responsables de la obra y mecanismos de vigilancia ciudadana.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
-12. Información contendida (sic) en los documentos y expedientes relativos a todo tipo de auditorías concluidas y realizadas para evaluar el ejercicio presupuestal y la gestión de cada dependencia o unidad administrativa del Estado y los municipios, que realicen la Secretaría de la Contraloría del Estado, las contralorías internas, la Auditoría Superior de Fiscalización del Congreso del Estado o la Auditoría Superior de la Federación, o las equivalentes de cualquiera de todas las anteriores, así como las aclaraciones que correspondan.
+12. Información contenida en los documentos y expedientes relativos a todo tipo de auditorías concluidas y realizadas para evaluar el ejercicio presupuestal y la gestión de cada dependencia o unidad administrativa del Estado y los municipios, que realicen la Secretaría de la Contraloría del Estado, las contralorías internas, el órgano de fiscalización competente del Congreso, la Auditoria Superior de la Federación o las equivalentes de cualquiera de todas las anteriores, así como las aclaraciones que correspondan.
 
 13. Información contenida en las minutas, acuerdos y actas de las reuniones oficiales, de cualquier órgano colegiado de las entidades públicas.
 
@@ -833,9 +835,13 @@ El instituto Morelense de Información Pública y Estadística es un órgano con
 
 El instituto tiene por objeto vigilar el cumplimiento de la presente ley. En el ámbito estatal sus resoluciones son definitivas y todas las entidades públicas y sujetos obligados deberán acatarlas.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 95.
 
-El instituto, a través de su consejero presidente, rendirá un informe anual ante el Pleno del Congreso del Estado de Morelos, de quien recibirá recomendaciones y sugerencias. Cuando así lo determine el Pleno, los consejeros del instituto conforme a lo dispuesto por la Ley Orgánica del Congreso, comparecerán ante comisiones legislativas a rendir los informes que se les requieran o a ampliar la información contenida en el informe anual. Las comparecencias podrán realizarse de manera colegiada o individual según lo determine el Congreso del Estado y deberán realizarse por lo menos una vez al año. El informe estará a disposición del público.
+A más tardar, la segunda semana del mes de mayo de cada año el Instituto, a través de su Consejero Presidente, entregará por escrito a cada uno de los diputados integrantes de la legislatura, un informe anual de labores y resultados, en el cual se incluirá la descripción de la información remitida por las entidades públicas comprendidas en esta Ley, el número de asuntos atendidos y el estado en que se encuentran, las dificultades observadas en el cumplimiento de la misma, los indicadores de gestión del propio Instituto, así como aquella información que el Instituto considere relevante.
+
+El informe anual será analizado por el órgano político del Congreso el cual emitirá en su caso, las recomendaciones y sugerencias que considere pertinentes. Los consejeros del Instituto conforme a lo dispuesto por la Ley Orgánica del Congreso, comparecerán ante comisiones legislativas a rendir los informes que se les requieran o ampliar la información contenida en el informe anual. Las comparecencias podrán realizarse de manera colegiada o individual cuando así lo determine el órgano político del Congreso del Estado, la Junta Política y de Gobierno del Congreso del Estado.
 
 ###### Artículo 96.
 
@@ -953,21 +959,27 @@ Para ser Consejero se requiere:
 
 3. No haber desempeñado responsabilidad directiva en partido político o asociación política alguna, así como no haber sido postulado a cargo de elección popular en los cinco años anteriores a la fecha de la convocatoria.
 
-4. No haber sido servidor público de ninguno de los poderes estatales o municipales, del Consejo de la Judicatura, la Contaduría Mayor de Hacienda, la Comisión Estatal de Derechos Humanos o el Instituto Electoral del Estado, por lo menos dos años antes de su designación, salvo que hubieren desempeñado tareas académicas o de investigación de cualquier área pública.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+4. No haber sido servidor público de ninguno de los poderes estatales o municipales, del Consejo de la Judicatura, la Auditoría Superior de Fiscalización, la Comisión de Derechos Humanos del Estado de Morelos o el Instituto Electoral del Estado, por lo menos dos años antes de su designación, salvo que hubieren desempeñado tareas académicas o de investigación de cualquier área pública.
 
 5. No haber sido ministro de culto religioso cuando menos dos años antes de su designación.
 
 6. No haber sido sentenciado por delito doloso que merezca pena corporal.
 
-7. Contar con título profesional en cualquier campo de las ciencias sociales, y de preferencia tener estudios de posgrado en cualquiera de estás áreas.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+7. Contar con título y cédula profesional a nivel licenciatura.
 
 8. Haberse desempeñado destacadamente y con prestigio en actividades profesionales, de servicio público, de investigación o académicas en materias relacionadas con los objetivos de la presente ley.
 
 9. Contar con una residencia efectiva en el estado cuando menos de 5 años previos a su designación.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 104.
 
-El mandato de consejero es un cargo irrenunciable. Los consejeros sólo podrán ser removidos por las causas y los procedimientos establecidos en la Constitución del Estado y la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos. El cargo de consejero es incompatible con cualquier otra responsabilidad pública y privada, con excepción de la docencia y la investigación académica.
+El mandato de consejero es un cargo irrenunciable. Los consejeros sólo podrán ser removidos por las causas y los procedimientos establecidos en la Constitución del Estado y Ley Estatal de Responsabilidades de los Servidores Públicos. El cargo de consejero es incompatible con cualquier otra responsabilidad pública y privada, con excepción de la docencia y la investigación académica.
 
 ### CAPÍTULO TERCERO.
 
@@ -1059,9 +1071,11 @@ Para las entidades públicas y los partidos políticos las resoluciones del inst
 
 Cuando el instituto verifique que por negligencia no se hubiese atendido la solicitud en los términos de esta ley, la autoridad estará obligada a proporcionar la información en un plazo no mayor de diez días naturales a partir de su requerimiento, sin costo alguno para el solicitante, siempre que la información no esté considerada como reservada o confidencial.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 117.
 
-El cumplimiento perentorio de las solicitudes de información no exime a la autoridad de la responsabilidad en que hubiese incurrido de acuerdo con la presente ley y con la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos.
+El cumplimiento perentorio de las solicitudes de información no exime a la autoridad de la responsabilidad en que hubiese incurrido de acuerdo con la presente ley y con la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 ###### Artículo 118.
 
@@ -1085,7 +1099,9 @@ Para ser Director se requiere:
 
 3. No haber sido militante en partido político o asociación política alguna, así como no haber sido postulado a cargo de elección popular en los cinco años anteriores a la fecha de la convocatoria.
 
-4. No haber sido servidor público de ninguno de los poderes estatales o municipales, del Consejo de la Judicatura, la Contaduría Mayor de Hacienda, la Comisión Estatal de Derechos Humanos o el Instituto Electoral del Estado, por lo menos dos años antes de su designación, salvo que hubieren desempeñado tareas académicas o de investigación.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+4. No haber sido servidor público de ninguno de los poderes estatales o municipales, del Consejo de la Judicatura, la Auditoría Superior de Fiscalización, la Comisión de Derechos Humanos del Estado de Morelos o el Instituto Electoral del Estado, por lo menos dos años antes de su designación, salvo que hubieren desempeñado tareas académicas o de investigación.
 
 5. No haber sido ministro de culto religioso cuando menos dos años antes de su designación.
 
@@ -1105,9 +1121,11 @@ El Sistema Estatal de Estadísticas, Sondeos y Encuestas garantizará la plena t
 
 Las investigaciones que se realicen a través de estadísticas, sondeos y encuestas se guiarán por la transparencia y quienes las realicen responderán por la correcta utilización de la información para el cumplimiento estricto de los objetivos previstos por el instituto y por la protección de la intimidad de los encuestados.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 123.
 
-El Sistema Estatal de Estadísticas, Sondeos y Encuestas permitirá en todo momento el acceso a su banco de datos a los legisladores del Estado, Magistrados, jueces y miembros de la Administración Pública con nivel de Director General o superior, a los consejeros del Instituto Estatal Electoral y al presidente y visitadores de la Comisión estatal de Derechos Humanos del Estado para el cumplimiento de sus funciones, así como a cualquier ciudadano, siempre y cuando la información no se considere reservada o confidencial.
+El Sistema Estatal de Estadísticas, Sondeos y Encuestas permitirá en todo momento el acceso a su banco de datos a los legisladores del Estado, Magistrados, jueces y miembros de la Administración Pública con nivel de Director General o superior, a los consejeros del Instituto Estatal Electoral y al presidente y visitadores de la Comisión de Derechos Humanos del Estado de Morelos para el cumplimiento de sus funciones, así como a cualquier ciudadano, siempre y cuando la información no se considere reservada o confidencia (sic).
 
 ###### Artículo 124.
 
@@ -1165,9 +1183,11 @@ Los sujetos obligados por esta Ley serán sancionados cuando incurran en cualqui
 
 El sujeto obligado que vulnere de cualquier manera el ejercicio del derecho de acceso a la información o entorpezca la acción de habeas data, será amonestado por el instituto, siempre que se trate de una primera infracción y que el letargo en la entrega de información o corrección o modificación de datos personales, no exceda del doble del término previsto en esta ley.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 129.
 
-Si la conducta prevista en el artículo anterior se repite en más de dos ocasiones, tratándose de entidades públicas, el infractor será suspendido por un periodo de tres días laborales, de conformidad con el artículo 31 de la Ley Estatal de Responsabilidades de los Servidores Públicos del Estado de Morelos.
+Si la conducta prevista en el artículo anterior se repite en más de dos ocasiones, tratándose de entidades públicas, el infractor será suspendido por un período de hasta por seis meses, de conformidad con el artículo 34 de la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 ###### Artículo 130.
 
@@ -1183,25 +1203,49 @@ Al que debiéndolo hacer, no guarde con el debido cuidado la información que po
 
 Al sujeto que se desempeñe con negligencia, dolo o mala fe en la sustanciación de las solicitudes de acceso o de las acciones de habeas data, o entregue información de manera incompleta, se le podrá sancionar con multa de cien a quinientos días de salario mínimo vigente en el Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 133.
 
-Al sujeto obligado que niegue intencionalmente el acceso a la información aduciendo falsamente que la misma se encuentra clasificada como reservada o confidencial; entregue indebidamente información considerada como reservada o confidencial; o clasifique con dolo o mala fe cualquier información que no deba ser clasificada, se le sancionará con multa de quinientos a mil días de salario mínimo vigente en el Estado de Morelos y tratándose de entidades públicas podrá ser destituido e inhabilitado para ejercer cargos públicos por un periodo de tres a seis años.
+Al sujeto obligado que niegue intencionalmente el acceso a la información aduciendo falsamente que la misma se encuentra clasificada como reservada o confidencial; entregue indebidamente información considerada como reservada o confidencial; o clasifique con dolo o mala fe cualquier información que no deba ser clasificada, se aplicarán como medida de apremio multa de quinientos a mil días de salario mínimo vigente en el Estado de Morelos.
+
+En caso de reincidencia tratándose de entidades públicas podrá ser suspendido del cargo sin goce de sueldo hasta por treinta días y de reiterarse el incumplimiento será sancionado con la destitución del cargo.
+
+En lo conducente, la responsabilidad a que se refiere este artículo será sancionada en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 134.
 
-El servidor público que no cumpla de manera expedita las resoluciones del instituto para liberar información en los términos y condiciones que establece esta ley, será sancionado con multa de quinientos a mil días de salario mínimo vigente en el Estado de Morelos y con inhabilitación de cinco a diez años.
+El servidor público que no cumpla de manera expedita las resoluciones del instituto para liberar información en los términos y condiciones que establece esta ley, será suspendido del cargo sin goce de sueldo, hasta por treinta días naturales.
+
+En caso de reiterarse el incumplimiento podrá ser inhabilitado para ocupar cargos públicos por un período de uno a diez años.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 135.
 
-Al que recabe datos personales que no resulten indispensables para el cumplimiento de sus funciones, será sancionado con multa de mil a mil quinientos días de salario mínimo vigente en el Estado de Morelos y con inhabilitación de cinco a diez años.
+Al que recabe datos personales que no resulten indispensables para el cumplimiento de sus funciones, será sancionado con multa de mil a mil quinientos días de salario mínimo vigente en el Estado de Morelos.
+
+En caso de reincidencia podrá ser suspendido hasta por sesenta días y en caso de reiterar el incumplimiento podrá ser destituido del cargo.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 136.
 
-Al sujeto obligado que comercialice con datos personales que obren en los archivos a su alcance, será sancionado con multa de mil quinientos a dos mil días de salario mínimo vigente en el Estado de Morelos y con inhabilitación definitiva para ejercer cargos públicos en el Estado.
+Al sujeto obligado que comercialice con datos personales que obren en los archivos a su alcance, será sancionado con multa de mil quinientos a dos mil días de salario mínimo vigente en el Estado de Morelos; e inhabilitado para ocupar cargos públicos por un período de uno a cinco años.
+
+La reiteración de esta conducta podrá dar lugar al procedimiento para ser sancionado con la inhabilitación definitiva para ejercer cargos públicos en el Estado.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 137.
 
-Tratándose de entidades públicas, el sujeto obligado que reiteradamente incurra en cualquiera de las conductas previstas en el artículo 127 de esta ley, además de la sanción correspondiente por cada violación, será sancionado con destitución de su cargo e inhabilitación para el ejercicio de otros puestos de servicio público, hasta por quince años a juicio del instituto.
+Tratándose de entidades públicas, el sujeto obligado que reiteradamente incurra en cualquiera de las conductas previstas en el artículo 127 de esta ley y que no tenga establecida sanción, se aplicará multa de doscientos a quinientos salarios mínimos vigentes en el Estado de Morelos.
+
+En caso de reincidencia podrá ser suspendido del cargo hasta por sesenta días.
+
+En lo conducente la responsabilidad a que se refiere este artículo será sancionada en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 ###### Artículo 138.
 
@@ -1209,9 +1253,11 @@ Las responsabilidades que se generen por el incumplimiento de las obligaciones a
 
 Cuando se trate de la aplicación de multas a los partidos políticos, el Instituto solicitará al órgano electoral del Estado, se descuente el importe de las mismas en las prerrogativas a que tengan derecho con financiamiento público del Estado. En este caso el Instituto Estatal Electoral deberá aplicar su descuento dentro de los 30 días naturales siguientes a su notificación.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 139.
 
-En lo conducente se aplicará de forma supletoria la Ley de Responsabilidades de los Servidores Públicos y del Código Procesal Civil para el Estado Libre y Soberano de Morelos.
+En lo conducente se aplicará de forma supletoria la Ley Estatal de Responsabilidades de los Servidores Públicos y del Código Procesal Civil para el Estado Libre y Soberano de Morelos.
 
 ## Transitorios
 
@@ -1312,3 +1358,13 @@ Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para
 ###### ARTÍCULO TERCERO.
 
 Para los efectos del reglamento del Congreso del estado la presente reforma entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
+
+P.O. 24 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Aprobado que sea, remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
