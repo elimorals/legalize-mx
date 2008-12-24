@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-19087"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-30"
-last_updated: "2007-12-29"
+last_updated: "2008-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre de 2000.
 
@@ -173,15 +173,21 @@ VI. Secretaría de Desarrollo Agropecuario;
 
 VII. Secretaría de Desarrollo Económico;
 
-VIII. Secretaría de Turismo
+VIII. Secretaría de Turismo;
 
-IX. Oficialía Mayor;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X. Procuraduría General de Justicia del Estado;
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
-XI. Contraloría Interna; y
+IX. Secretaria de Seguridad Pública;
 
-XII. Coordinación General Jurídica.
+X. Oficialía Mayor;
+
+XI. Procuraduría General de Justicia del Estado;
+
+XII. Contraloría Interna; y
+
+XIII. Coordinación General Jurídica.
 
 ###### Artículo 11.
 
@@ -295,23 +301,41 @@ XIII. Fijar y divulgar el Calendario Oficial del Estado, organizar los actos cí
 
 XIV. Ejecutar los acuerdos, decretos o declaratorias que conforme a la ley expida el Gobernador del Estado respecto a expropiaciones, ocupaciones temporales y limitaciones de dominio por causa de utilidad pública;
 
-XV. Coordinar las actividades del Consejo Estatal de Seguridad Pública, así como organizar y ejercer el mando de la Policía Estatal Preventiva;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XVI. Normar, autorizar y vigilar el funcionamiento de los organismos auxiliares de seguridad;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+XV. Coordinar las actividades del Consejo Estatal de Seguridad Pública;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XVI. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
 
 XVII. Coordinar el Sistema Estatal de Protección Civil y, en auxilio o coordinación con las autoridades federales, diseñar y ejecutar programas para la protección y seguridad de los habitantes del Estado, así como para la prevención, combate y atención de catástrofes naturales, alentando la participación ciudadana corresponsable;
 
-XVIII. Establecer, dirigir y vigilar los sistemas de vialidad y tránsito en la capital del Estado y en las carreteras y caminos de jurisdicción estatal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIX. Regular y vigilar la prestación de los servicios de autotransporte público, así como sus servicios auxiliares y conexos; y acordar con el Gobernador del Estado, el otorgamiento, modificación, transferencia o cancelación de concesiones y permisos para la prestación de servicios públicos estatales por vías terrestres y en terminales;
+XVIII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+XIX. Acordar con el Gobernador del Estado, el otorgamiento, modificación, transferencia o cancelación de concesiones y permisos para la prestación de servicios públicos estatales por vías terrestres y en terminales;
 
 XX. Dar trámite a las solicitudes que presenten los particulares y que no estén reservadas a otras dependencias, sobre otorgamiento de autorizaciones, concesiones, permisos y licencias gubernamentales, así como a la terminación, suspensión o revocación de las ya otorgadas;
 
-XXI. Elaborar y ejecutar los programas de prevención de delitos y los de readaptación social de infractores de la ley, así como administrar los Centros de Readaptación Social para adultos en el Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXII. Dar el trámite que corresponda, en la aplicación de la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad del Estado;
+XXI. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
 
-XXIII. Coordinar y vigilar el funcionamiento del Consejo Tutelar para Menores Infractores y ejecutar los programas de readaptación social de los mismos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XXII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XXIII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
 
 XXIV. Ejercer las funciones que en materia laboral correspondan al Ejecutivo del Estado y llevar la estadística general del ramo;
 
@@ -767,6 +791,66 @@ XXV. Fomentar la cultura turística entre la población, y
 
 XXVI. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 30 Ter.
+
+A la Secretaría de Seguridad Pública corresponde el despacho de los siguientes asuntos:
+
+I. Desarrollar y coordinar las políticas sobre seguridad pública y proponer la política de prevención del delito en el Estado, sobre las bases de los Sistemas Estatal y Nacional de Seguridad Pública;
+
+ll. Elaborar, en coordinación con el Consejo Estatal de Seguridad Pública, el Programa Estatal de Seguridad Pública, en concordancia con el Programa Nacional de Seguridad Pública, el Plan Estatal de Desarrollo y demás programas aplicables;
+
+III. Proponer al Titular del Poder Ejecutivo los programas relativos a la seguridad de los habitantes del Estado;
+
+IV. Organizar y dirigir el Servicio Civil de Carrera Policial y elaborar la propuesta anual de asignación de grados a los integrantes de las distintas corporaciones;
+
+V. Elaborar los proyectos de reglamentos y manuales de organización, procedimientos y servicios, derivados de las leyes que regulen las distintas corporaciones que conforman esta dependencia, para su aprobación;
+
+VI. Organizar la capacitación y actualización de los cuerpos policiales tendientes a su profesionalización; así como orientar en materia de prevención a la ciudadanía, en coordinación con el Instituto de Formación Profesional;
+
+VII. Desarrollar las acciones de prevención de conductas delictivas con la participación de las dependencias y entidades, los gobiernos municipales, las organizaciones sociales y la ciudadanía en general;
+
+VIII. Asegurar el cumplimiento de las normas de tránsito y vialidad en las vías públicas de jurisdicción estatal;
+
+IX. Coadyuvar con la Secretaría General de Gobierno, en la coordinación Estatal de Protección Civil;
+
+X. Vigilar el cumplimiento de la normatividad relativa a las empresas de seguridad privada establecidas o que presten sus servicios en el territorio del Estado;
+
+XI. Elaborar y difundir en coordinación con la Procuraduría General de Justicia del Estado, estudios multidisciplinarios y estadísticas sobre el fenómeno delictivo, que sirvan de sustento en el diseño de las políticas en la materia;
+
+XII. Organizar, en coordinación con la Procuraduría General de Justicia del Estado, un servicio para la atención a las víctimas del delito y celebrar convenios y acuerdos de colaboración con otras instituciones del sector público y privado para el mejor cumplimiento de sus atribuciones en esta materia;
+
+XIII. Atender, de manera expedita, las denuncias y quejas ciudadanas con relación al ejercicio de las atribuciones de los elementos policiales y personal de seguridad pública;
+
+XIV. Intervenir en auxilio o en colaboración con las autoridades federales, en materia de armas de fuego, explosivos y pirotecnia, en los términos de la legislación aplicable;
+
+XV. Establecer un sistema destinado a obtener, analizar, estudiar y procesar información sobre el fenómeno delictivo;
+
+XVI. Diseñar las bases de coordinación entre los cuerpos de seguridad pública en la Entidad;
+
+XVII. Apoyar a los Municipios del Estado en la preservación de la seguridad pública;
+
+XVIII. Elaborar y ejecutar, en coordinación con la Procuraduría General de Justicia del Estado, los programas de prevención del delito;
+
+XIX. Vigilar las carreteras y caminos de jurisdicción estatal;
+
+XX. Organizar y ejercer el mando de la Policía Estatal Preventiva;
+
+XXI. Proponer al Ejecutivo del Estado, la celebración de convenios de coordinación y colaboración con autoridades del ámbito federal, estatal y municipal, con el objeto de prevenir y combatir la delincuencia;
+
+XXII. Vigilar la prestación de los servicios de autotransporte público, así como de los servicios auxiliares y conexos;
+
+XXIII. Elaborar y ejecutar los programas de readaptación social de infractores de la ley, así como administrar los Centros de Readaptación Social para adultos en el Estado;
+
+XXIV. Dar el trámite que corresponda, en la aplicación de la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad del Estado;
+
+XXV. Coordinar y vigilar el funcionamiento del Centro de Internamiento y Atención Integral Juvenil y ejecutar los programas de reinserción a la familia y la comunidad, y
+
+XXVI. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+
 ###### Artículo 31.
 
 A la Oficialía Mayor corresponde el despacho de los siguientes asuntos:
@@ -1130,3 +1214,23 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan las disposiciones que contravengan este Decreto.
 
 Artículo Tercero.- Dentro de los Noventa días naturales siguientes a la entrada en vigor del presente Decreto, deberá reformarse el Reglamento Interior de la Secretaría de Finanzas, para adecuarlo a esta reforma.
+
+P.O. 24 DE DICIEMBRE DE 2008.
+
+Artículo primero.- El presente Decreto iniciará su vigencia el 1 de Marzo de 2009, con las modalidades que enseguida se precisan.
+
+Artículo segundo.- Los recursos humanos, financieros y materiales del Consejo Estatal de Seguridad Pública, de la Subsecretaría de Seguridad Pública y de la Dirección General de Seguridad Pública y Tránsito del Estado, asignados a funciones operativas, pasarán a formar parte de la Secretaría de Seguridad Pública. Los recursos humanos, financieros y materiales de las Direcciones de la Policía Estatal Preventiva y de Prevención y Readaptación Social, así como los del Centro de Internamiento y Atención Integral Juvenil, dependientes de la Secretaría General de Gobierno, pasarán a formar parte de la Secretaría de Seguridad Pública.
+
+En ambos casos se deberán respetar los derechos laborales y de seguridad social que los servidores públicos hubieren adquirido con anterioridad.
+
+Artículo tercero.- Dentro de los treinta días naturales siguientes a la entrada en vigor de este Decreto, el Poder Ejecutivo del Estado nombrará al titular de dicha dependencia.
+
+Artículo cuarto.- Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, se deberá adecuar y publicar en el Periódico Oficial, Órgano del Gobierno del Estado, las modificaciones al Programa Estatal de Seguridad Pública.
+
+Artículo quinto.- Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, deberán publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, las reformas al Reglamento Interior de la Secretaría General de Gobierno y al Reglamento de la Policía Estatal Preventiva.
+
+Artículo sexto. Dentro de los noventa días naturales siguientes a la publicación de este Decreto, deberá quedar integrado el Sistema Estatal de Seguridad Pública.
+
+Artículo séptimo.- En el Presupuesto de Egresos del Estado para el ejercicio fiscal 2009, deberán incluirse las partidas correspondientes para el funcionamiento de la Secretaría de Seguridad Pública.
+
+Artículo octavo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
