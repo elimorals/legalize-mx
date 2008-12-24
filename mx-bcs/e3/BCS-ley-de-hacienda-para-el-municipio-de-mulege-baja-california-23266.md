@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-mulege-baja-california-232
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2002-12-31"
+last_updated: "2008-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MULEGE, BAJA CALIFORNIA SUR.
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -185,9 +185,17 @@ Son sujetos por deuda ajena y con responsabilidad y solidaria, los servidores p�
 
 El Impuesto Sobre la Propiedad Rústica, se causará sobre el Valor Catastral de los Predios Rústicos conforme a las siguientes tarifas:
 
-I. 6.388 al millar anual si están explotados por su dueño.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. 12.408 al millar, si no están explotados por su dueño.
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+I. 2.40 al millar anual si están explotados por su dueño.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+II. 4.80 al millar, si no están explotados por su dueño.
 
 En ningún caso el Impuesto Predial anual sobre propiedad rústica será inferior a tres salarios mínimos.
 
@@ -197,13 +205,29 @@ En ningún caso el Impuesto Predial anual sobre propiedad rústica será inferio
 
 El Impuesto Predial sobre la propiedad urbana se causará:
 
-I. A razón de 1.960 al millar anual sobre el Valor Catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. A razón de 3.921 al millar sobre el Valor Catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
-III. A razón de 16.545 al millar sobre el Valor Catastral de los predios no edificados o baldíos, incrementándose anualmente en un 1.651 al millar; hasta en tanto no sea construida una edificación. La Tasa no excederá de 33.06 al millar.
+I. A razón de 0.85 al millar anual sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación.
 
-IV. A razón del 3.921 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta, con reserva de dominio o que sean materia de cualquier otro acto jurídico preparatorio similar o traslativo de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+II. A razón de 1.3 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+III. A razón de 6 al millar sobre el valor catastral de los predios no edificados o baldíos, incrementándose anualmente en un 0.6 al millar; hasta en tanto no sea construida una edificación. La Tasa no excederá de 12 al millar.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+IV. A razón del 1.3 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta, con reserva de dominio o que sean materia de cualquier otro acto jurídico preparatorio similar o traslativo de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
 
 Se considera lote baldío aquél que teniendo construcciones éstas representen menos del 50% del Valor Catastral del terreno.
 
@@ -917,19 +941,123 @@ Los servicios prestados por las oficinas catastrales, causarán un derecho que s
 
 TARIFA:
 
-I. Por cada copia de planos incluida la certificación 3 salarios mínimos
+I. Por cada copia de planos incluida
 
-II. Avalúos periciales por cada predio incluida a construcción sobre su valor. Sin que pueda ser inferior a un salario mínimo 0.5 al millar.
+la certificación 3 salarios mínimos
 
-III. Certificados, por cada hoja o fracción 0.3 del salario mínimo.
+II. Avalúos periciales por cada predio
 
-IV. Otorgamiento de claves catastrales, por cada una .5 salarios mínimos |
+incluida a construcción sobre su valor.
 
-V. Por búsqueda de datos para proporcionar información económica y/o certificado por predio 1.5 salario mínimo.
+Sin que pueda ser inferior a un salario
 
-VI. Por deslindes o levantamientos prediales que se realicen a solicitud de particulares, de acuerdo con el tiempo en los que se ejecuten los trabajos relativos 3 salarios mínimos en adelante.
+mínimo 0.5 al millar.
 
-VII. Por expedición de coordenadas UTM de 5 salarios mínimos en adelante
+III. Certificados, por cada hoja o
+
+fracción 0.3 del salario mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+IV. Otorgamiento de claves catastrales,
+
+por cada una 1 salario mínimos (sic)
+
+V. Por búsqueda de datos para
+
+proporcionar información económica
+
+y/o certificado por predio 1.5 salario mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+VI. Por deslindes o levantamientos prediales que se realicen a solicitud de particulares, de acuerdo con el tiempo en los que se ejecuten.
+
+a) En la zona urbana Hasta 250 metros
+
+cuadrados 6
+
+salarios mínimos
+
+De 251 metros cuadrados
+
+hasta 500 metros cuadrados
+
+8 salarías mínimos.
+
+De 501 metros cuadrados
+
+hasta 1000 metros cuadrados
+
+15salarios mínimos
+
+De 1001 metros cuadrados
+
+hasta 2000 metros cuadrados
+
+40 salarios minimos.
+
+De 2001 metros cuadrados
+
+hasta 5000metros cuadrados
+
+90 salarios minimos; y de 5001
+
+metros cuadrados en
+
+adelante 115 salarios
+
+mínimos.
+
+b).- En los Predios Rusticos y/o accidentados:
+
+De mas de 4 puntos hsto (sic) 1
+
+hectarea 80 salarios minimos
+
+Mayor a 1 hectarea y hasta 5
+
+hectareas 100 salarios
+
+minimos
+
+Mayores de 5 hectareas 7
+
+pesos por metro lineal de
+
+perímetro del predio.
+
+En deslindes fuera del area
+
+urbana de la Ciudad de
+
+Santa Rosalía, se cobrara de
+
+manera adicional los gastos
+
+de traslado y viáticos del
+
+personal de la brigada de
+
+topografía a razón de 0.25
+
+salarios mínimos por kilometro
+
+de distancia medido a partir
+
+de las oficinas de la Dirección
+
+de Catastro.
+
+VII. Por expedición de coordenadas
+
+UTM de 5 salarios mínimos
+
+en adelante
 
 VIII. Por elaboración de planos de 4 a 150 salarios mínimos
 
@@ -942,6 +1070,112 @@ Extemporánea
 a) Menos de un año 10 salarios mínimos
 
 b) De un año en adelante 20 salarios mínimos
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+XI. Por registro de perito valuador o topógrafo:
+
+a).- Registro inicial 60 salarios mínimos
+
+b).- Revalidación de registro anual 50 salarios mínimos
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+XII. Por acceso a los archivos o
+
+registros dé deslindes o Levantamientos
+
+prediales que realicen peritos
+
+tipógrafos Acreditados en la
+
+Dirección de Catastro. 2 salarios mínimos
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+XIII. Por venta de productos digitales
+
+a),- Planimetría de la Ciudad de Santa
+
+Rosalía, incluyendo nombre de calles
+
+y colonias a nivel de manzana 10 salarios mínimos
+
+b).- Altimetría de la Ciudad de Santa
+
+Rosalía 10 salarios mínimos
+
+c).- Planimetría de localidades
+
+urbanas diferentes a la Ciudad de
+
+Santa Rosalía 5 salarios mínimos
+
+d).- Altimetría de localidades urbanas
+
+diferentes a la Ciudad de Santa
+
+Rosalía 5 salarios mínimos
+
+e).- Imagen digital blanco y negro
+
+orto-rectificada 10 salarios mínimos
+
+f).- Impresión laser de imagen digital,
+
+blanco y negro orto-rectificada 5 salarios mínimos
+
+por pagina tamaño
+
+carta
+
+g).- Imagen de fotográfica aérea
+
+digital blanco y negro 7 salarios mínimos
+
+h).- Impresión laser de imagen
+
+fotográfica aérea blanco y negro 2.5 salarios mínimos
+
+por pagina tamaño
+
+carta
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+XIV. Llenado de manifestación
+
+Catastral 1 salario mínimo
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+XV. Otorgamiento de cedula catastral 4 salarios mínimos
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+XVI. Emisión de certificados de no
+
+propiedad 2 salarios mínimos
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+XVII. Emisión de certificados de
+
+medidas y colindancias 3 salarios mínimos
 
 ###### Artículo 73.
 
@@ -969,7 +1203,69 @@ La expedición de licencia de urbanización para los desarrollos urbanos, tales 
 
 La Dependencia Municipal correspondiente podrá autorizar el registro de director responsable de obra, autorizar la fusión, subdivisión, lotificación o relotificación de predios, autorizar el uso del suelo para desarrollos urbanos y uso del suelo comercial urbano para giros comerciales, dar visto bueno de seguridad y operación de obra previo pago de acuerdo a la siguiente
 
-(VEASE TABLA ANEXA)
+TARIFA:
+
+CONCEPTO SALARIOS MINIMOS
+
+a) Registro anual de director responsable de obra. 20
+
+b) Autorización de fusión de predios por unidad. 2
+
+c) Autorización de subdivisión, lotificación y
+
+Relotificación de predios por unidad. 2
+
+d) Inspección de terminación de obras. 3
+
+e) Inspección de avance de obra. 3
+
+f) Autorización del uso del suelo comercial en la
+
+Zona centro. 15
+
+g) Autorización del uso del suelo comercial en las
+
+principales avenidas. 10
+
+h) Autorización del uso del suelo comercial en
+
+fraccionamiento y conjuntos habitacionales 5
+
+i) Autorización del uso del suelo comercial en el
+
+resto de la mancha urbana. 3
+
+La ejecución de las obras sin la licencia respectiva, se sancionará, independientemente de pagar la licencia que corresponda, conforme a la siguiente:
+
+TARIFA
+
+I. Locales comerciales:
+
+Salarios Mínimos
+
+Area Cimentación Muro Losa Acabados
+
+Menos de 30 m2 3 5 10 20
+
+De 31 a 100 m2 8 12 20 30
+
+De 101 a 200 m2 12 16 30 40
+
+De 201 m2 en adelante 16 24 40 60
+
+II. Casa habitación:
+
+Salarios Mínimos
+
+Area Cimentación Muro Losa Acabados
+
+Menos de 30 m2 2 4 6 8
+
+De 31 a 100 m2 5 8 12 18
+
+De 101 a 200 m2 7 12 18 24
+
+De 201 m2 en adelante 12 18 24 30
 
 ### CAPÍTULO V. AGUA POTABLE, DRENAJE, ALCANTARILLADO, TRATAMIENTO Y DISPOSICIÓN DE AGUAS RESIDUALES
 
@@ -1923,7 +2219,289 @@ Las multas serán cobradas en los términos de las disposiciones legales que las
 
 Las sanciones por desacato al Bando de Policía y Buen Gobierno, Reglamento de Transito, y demás disposiciones vigentes en el Municipio de Mulegé, se impondrán de acuerdo a la siguiente clave, concepto y tarifa:
 
-(VEASE TABLA ANEXA)
+Clave Descripción Importe
+
+(salarios
+
+mínimos)
+
+1 Manejar sin licencia 6
+
+2 Falta de resello anual a la licencia (cada uno) 1
+
+3 Manejar en estado de ebriedad 75
+
+4 Exceso de velocidad 10
+
+5 Ir a mas de 15 kilómetros frente a escuela 3
+
+6 Negarse a prestar licencia y tarjeta de circulación 3
+
+7 No obedecer las indicaciones del agente 3
+
+8 Recurrir a la fuga 10
+
+9 Faltas al agente 5
+
+10 Prestar servicios públicos sin autorización 30
+
+11 Circular fuera de ruta 3
+
+12 Por estacionarse mal 2
+
+13 Estacionarse en exclusivo 3
+
+14 Estacionarse en zona para discapacitados 3
+
+15 Estacionarse en zona prohibida 3
+
+16 Transportar pasaje en lugar de carga 10
+
+17 Cortar cortejo fúnebre 3
+
+18 Estacionarse en doble fila 3
+
+19 Abandonar unidad en la vía pública 5
+
+20 No ceder el paso al peatón 5
+
+21 No ceder el paso a vehículo de emergencia 10
+
+22 Pasarse alto del agente 4
+
+23 Pasarse alto del semáforo 5
+
+24 Adelantar vehículo en bocacalle 3
+
+25 Falta de luces en los faros delanteros 3
+
+26 Falta de luz posterior roja 3
+
+27 Falta de luces laterales, cuando el vehículo
+
+deba tenerlas 3
+
+28 Transitar con luz alta en la ciudad 3
+
+29 Falta de razón social, en vehículos de
+
+transporte público 3
+
+30 Circular en sentido contrario 5
+
+31 Dar vuelta en "u" en zona prohibida 5
+
+32 Transitar sin placas 15
+
+33 Transitar con placas vencidas 15
+
+34 Transitar con placas sobrepuestas 20
+
+35 Falta de tarjeta de circulación 3
+
+36 Uso indebido de placas demostradoras 15
+
+37 Exceso de pasaje 3
+
+38 Carecer de espacio para personas con
+
+discapacidad, en vehículos de servicio
+
+público de pasaje 5
+
+39 Falta de revista en la unidad 3
+
+40 Seguir vehículo de emergencia 6
+
+41 Circular con parabrisas estrellado, siempre
+
+y cuando impida la visibilidad del
+
+conductos (sic)o que implique riezgo (sic)
+
+al conducir 3
+
+42 Falta de banderola en la carga 5
+
+43 Efectuar falsa señal de direccional 3
+
+44 Falta de espejo lateral 3
+
+45 Estacionarse sobre guarnición 3
+
+46 Transitar con escape ruidoso 3
+
+47 No reportar cambio de colores 3
+
+48 No reportar cambio de propietario 3
+
+49 Estacionarse en sentido contrario 5
+
+50 Falta de casco protector, al conducir motocicleta 3
+
+51 Uso indebido de faros buscadores 10
+
+52 Emplear luces rojas al frente 10
+
+53 Falta de luz en las placas 3
+
+54 Falta de luz roja al frenar 3
+
+55 Falta de luz direccional 3
+
+56 Frenos en malas condiciones 3
+
+57 Falta de frenos a bicicletas 1
+
+58 Uso indebido del claxon 3
+
+59 Emisión excesiva de humo 5
+
+60 Falta de espejo retrovisor 3
+
+61 Obstruir visibilidad en cristal trasero 5
+
+62 Falta de limpiadores parabrisas 3
+
+63 No dar aviso de modificaciones en la carrocería 2
+
+64 Mala colocación de placas 3
+
+65 Usar tarjeta de circulación de otro vehículo 10
+
+66 Usar calcomanía de otro vehículo 10
+
+67 Permitir manejar personas con incapacidad
+
+Fisicomental 10
+
+68 Arrojar objetos o basura en la vía pública 5
+
+69 Llevar objetos que obstruyan la visibilidad 3
+
+70 Cargar combustible con el motor encendido 3
+
+71 Cargar combustible con pasaje a bordo, en
+
+vehículos servicio público de pasaje 5
+
+72 Conducir con personas en vehículos de
+
+remolque cada uno 2
+
+73 Llevar carga mal sujeta 5
+
+74 Ocultar placa con carga 3
+
+75 Conducir en malas condiciones fisicomentales 10
+
+76 Abandono de víctimas en accidente 10
+
+77 Transportar pasaje en estribo 5
+
+78 Remolcar vehículo sin autorización 3
+
+79 Dar vuelta en lugar no permitido 3
+
+80 Presentar tarjeta de circulación ilegible 1
+
+81 Transitar con una placa 5
+
+82 Falta de permiso para transportar o conducir
+
+maquinaria pesada, dentro de las áreas urbanas 10
+
+83 Por alterar tarifas en servicio de transporte público 10
+
+84 No traer tarifas en lugar visible 5
+
+85 Permitir control de dirección a personas acompañan 3
+
+86 Llevar personas o bultos en brazos al conducir 5
+
+87 Producir ruidos innecesarios (bocinas, otros) 3
+
+88 No guardar distancia reglamentaria 3
+
+89 Cambiar intempestivamente de carril 3
+
+90 Efectuar reversa más de lo permitido 3
+
+91 Pasar sobre manguera de incendio 3
+
+92 Obstruir una intersección en crucero 3
+
+93 Entablar competencia de velocidad en la vía publica 50
+
+94 Adelantar vehículo en zona peatonal 3
+
+95 Adelantar hilera de vehículos 3
+
+96 Impedir rebasar aumentando la velocidad 5
+
+97 Adelantar vehículo por acotamiento 3
+
+98 Estacionarse frente a cochera 3
+
+99 Estacionarse frente a hidrante 3
+
+100 Estacionarse frente a bomberos y ambulancia 3
+
+101 No atender descuentos a estudiantes,
+
+uniformados oficiales, tercera edad y
+
+personas con discapacidad 5
+
+102 Transportar pasaje en autobús ebrio y/o drogado 10
+
+103 Transportar animales, bultos que molesten al pasaje 5
+
+104 Transportar más de 2 cargadores en camión
+
+de carga 3
+
+105 Transportar más de 2 personas en cabina, por
+
+cada uno 3
+
+106 Transitar con carrocería incompleta 2
+
+107 Pintar carrocería con colores de servicio oficial
+
+y de emergencia 3
+
+108 Establecer sitio en lugar no autorizado 5
+
+109 Derrapar quemando llanta 10
+
+110 Intento de soborno 10
+
+111 Subir y bajar pasaje en doble fila 3
+
+112 Subir y bajar pasaje por puerta izquierda 3
+
+113 Realizar maniobras de carga sin permiso 3
+
+114 Estacionar camiones pesados en el primer
+
+cuadro de la ciudad 5
+
+115 Infracción foránea 2
+
+116 Ingerir bebidas embriagantes en vehículo 20
+
+117 Pasarse alto de disco (señalamiento) 5
+
+118 No ceder paso a vehículo en preferencia 10
+
+119 No usar cinturón de seguridad 3
+
+120 Por prestación de servicio público sin
+
+autorización para transportar carga y
+
+materiales para construcción 20
 
 ### CAPÍTULO ÚNICO. CLASIFICACIÓN
 
@@ -2230,3 +2808,9 @@ C. PROFR. VÍCTOR MANUEL LAZÁRRAGA PERAZA
 B.O. 31 DE DICIEMBRE DE 2002.
 
 UNICO.- La presente Ley entrará en vigor el día primero del mes de Enero del año 2003, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, y su ámbito territorial de validez se circunscribe a la jurisdicción del Municipio de Mulegé, Baja California Sur.
+
+B.O. 24 DE DICIEMBRE DE 2008.
+
+###### ARTICULO ÚNICO
+
+El presente decreto entrará en vigor el día primero de Enero del año dos mil nueve, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
