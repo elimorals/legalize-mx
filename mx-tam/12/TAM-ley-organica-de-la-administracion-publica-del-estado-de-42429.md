@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-42429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-12-21"
-last_updated: "2008-01-15"
+last_updated: "2008-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 21 de diciembre de 2004.
 
@@ -415,7 +415,9 @@ XXII. Emitir dictamen para la adquisición de equipo de procesamiento electróni
 
 XXIII. Administrar el Centro Cívico Gubernamental;
 
-XXIV. Coordinar como cabeza de sector las actividades de las entidades estatales denominadas: Unidad de Previsión y Seguridad Social al Servicio de los Trabajadores del Estado de Tamaulipas, Zoológico y Parque Recreativo Tamatán, y las demás entidades que determine el Ejecutivo del Estado de acuerdo a la materia de su competencia; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+XXIV. Coordinar administrativamente a la entidad estatal denominada Unidad de Previsión y Seguridad Social de los Trabajadores del Estado de Tamaulipas y las demás entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia; y
 
 XXV. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
@@ -1105,7 +1107,9 @@ XVIII. Difundir los programas y estrategias relacionadas con el equilibrio ecol�
 
 XIX. Promover y fomentar las investigaciones sobre el medio ambiente y el desarrollo sustentable;
 
-XX. Coordinar administrativamente a las entidades estatales denominadas: Comisión Estatal para la Conservación y Aprovechamiento Económico de la Vida Silvestre, Comisión Estatal de Areas Naturales Protegidas y las demás entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia;
+(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008) (F. DE E., P.O. 17 DE MARZO DE 2009)
+
+XX. Coordinar administrativamente a las entidades estatales denominadas: Comisión Estatal para la Conservación y Aprovechamiento Económico de la Vida Silvestre; Comisión Estatal de Areas Naturales Protegidas; Zoológico y Parque Recreativo Tamatán y las demás entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia;
 
 XXI. Elaborar y mantener actualizado el inventario de los recursos naturales en el Estado;
 
@@ -1330,3 +1334,9 @@ En términos del párrafo 1 del artículo 11 de la Ley Orgánica de la Administr
 ###### ARTICULO OCTAVO.
 
 En todas aquellas disposiciones y ordenamientos que se refieran a la Secretaría de Obras Públicas, Desarrollo Urbano y Ecología, a partir de la publicación de este Decreto se entenderán hechas a la Secretaría de Obras Públicas y Desarrollo Urbano, en lo que no corresponda a la materia ambiental, en cuyo caso deberá entenderse como competencia de la Agencia Ambiental para el Desarrollo Sustentable.
+
+P.O. 24 DE DICIEMBRE DE 2008.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
