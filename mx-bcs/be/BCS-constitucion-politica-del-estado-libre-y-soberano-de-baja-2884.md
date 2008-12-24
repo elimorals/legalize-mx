@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2008-03-11"
+last_updated: "2008-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE DICIEMBRE DE 2008.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -1125,9 +1125,7 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 V.- No haber sido Secretario de Despacho del Poder Ejecutivo o su equivalente, Procurador General de Justicia o Diputado Local durante el año previo el día de la designación;
 
-> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2006)</small>
-
-VI.- Acreditar examen de evaluación profesional en los términos que establezca la ley de la materia.
+VI.- (DEROGADA, B.O. 24 DE DICIEMBRE DE 2008)
 
 > <small>[N. DE E. ANTES FRACCIÓN V, B.O. 6 DE FEBRERO DE 2002]</small>
 
@@ -2590,3 +2588,13 @@ SEGUNDO.- En estricto apego a lo contemplado por el artículo 14 de la Constituc
 B.O. 11 DE MARZO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 24 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+El Magistrado Presidente del H. Tribunal Superior de Justicia del Estado de Baja California Sur, deberá de redistribuir los Tocas en las Salas Unitarias que correspondan en razón de la materia, debiéndose publicar dicha redistribución en el Boletín Judicial del Poder Judicial del Estado de Baja California Sur para conocimiento de las partes interesadas en los Tocas respectivos.
