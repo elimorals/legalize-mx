@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-penales-para-el-estado-de-nayarit-1101
 country: "mx"
 rank: "codigo"
 publication_date: "1969-11-29"
-last_updated: "2008-12-06"
+last_updated: "2008-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1969.
 
@@ -737,6 +737,12 @@ Toda persona que tenga conocimiento de la comisión de un delito que deba perseg
 
 Toda persona que en ejercicio de funciones públicas tenga conocimiento de la probable existencia de un delito que deba perseguirse de oficio, está obligada a participarlo inmediatamente al Ministerio Público, transmitiéndole todos los datos que tuviere, poniendo a su disposición, desde luego, a los inculpados, si hubieren sido detenidos.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 106 BIS.- Toda persona está obligada a proporcionar la información o datos que se le requiera en el desarrollo de una investigación respecto de la posible comisión de delitos.
+
+Cuando la información o datos que se requiera provengan o se encuentre en medios electrónicos ésta deberá de proporcionarse de forma inmediata, cuando se presuma que ésta pueda ser modificada o destruida por el transcurso del tiempo.
+
 ###### ARTICULO 107.
 
 Las denuncias y las querellas pueden formularse verbalmente o por escrito.
@@ -989,7 +995,7 @@ La víctima u ofendido por el delito no son parte en el proceso penal, sin embar
 
 ### CAPITULO II. HUELLAS DEL DELITO, ASEGURAMIENTO Y DECOMISO DE LOS INSTRUMENTOS Y OBJETOS DEL MISMO
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 130.
 
@@ -1073,9 +1079,9 @@ En los casos de manejo de vehículos en que el conductor se encuentre en estado 
 
 ###### ARTICULO 144.
 
-Los instrumentos, objetos, cosas o efectos del delito, así como los bienes en que existan huellas del mismo, o pudieran tener relación con éste, serán asegurados a fin de que no se alteren, destruyan o desaparezcan. La administración de los bienes asegurados se realizará de conformidad con la normatividad aplicable.
+Los instrumentos objetos, cosas, efectos, así como información o datos relacionados con el delito, y los bienes en que existan huellas del mismo, o pudieran tener relación con este, serán asegurados a fin de que no se alteren, destruyan o desaparezcan. La administración de los bienes asegurados se realizara de conformidad con la normatividad aplicable.
 
-Las autoridades o personas que actúen en auxilio del Ministerio Público, pondrán inmediatamente a disposición de éste los bienes a que se refiere el párrafo anterior. El Ministerio Público, al momento de recibir los bienes, resolverá sobre su aseguramiento.
+Las autoridades o personas que actúen en auxilio del ministerio público, pondrán inmediatamente a disposición de éste los bienes, datos o información a que se refiere el párrafo anterior. El ministerio público, al momento de recibir los bienes, datos o información, resolverá sobre su aseguramiento.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2008)</small>
 
@@ -3518,3 +3524,7 @@ P.O. 6 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 24 DE DICIEMBRE DE 2008.
+
+Artículo Único.- El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
