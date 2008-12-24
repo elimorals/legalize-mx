@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2008-11-08"
+last_updated: "2008-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2008.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -799,9 +799,13 @@ La Legislatura no puede abrir sus sesiones ni funcionar legalmente sin la concur
 
 Los Diputados que no concurran a una sesión, sin causa justificada o sin permiso de la Legislatura, perderán el derecho a la dieta correspondiente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 59.
 
-A la apertura del primer periodo ordinario de sesiones asistirá el Gobernador del Estado e informará por escrito acerca de las actividades realizadas por el Ejecutivo y el estado que guarden todos los ramos de la Administración Pública. El Presidente de la mesa directiva responderá en los términos previstos por las normas internas que rigen el funcionamiento de la Legislatura.
+En la apertura del primer periodo ordinario de sesiones el Gobernador o Gobernadora del Estado informará por escrito acerca de las actividades realizadas por el Ejecutivo y el estado que guarden todos los ramos de la Administración Pública, treinta días naturales después el Gobernador o Gobernadora acudirá a la sesión ordinaria de la Legislatura para contestar los cuestionamientos que los diputados hagan respecto al contenido del informe, en los términos previstos por las normas internas que rigen el funcionamiento de la Legislatura.
 
 #### SECCIÓN SEGUNDA. DE LA INICIATIVA Y FORMACIÓN DE LEYES
 
@@ -2714,3 +2718,7 @@ Artículo tercero.- El Poder Judicial del Estado procederá a organizar administ
 Artículo cuarto.- Deberán dejarse sin efecto las medidas provisionales tomadas por el Pleno del H. Tribunal Superior de Justicia del Estado, en cumplimiento del artículo tercero transitorio de la Ley de Justicia para Adolescentes, para establecerse la vigencia plena de la referida Ley.
 
 Artículo quinto.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2008.
+
+ÚNICO.- El presente decreto entrará en vigor una vez que la Legislatura del Estado apruebe las reformas a la Ley Orgánica del Poder Legislativo y su Reglamento General, relacionadas con este Decreto.
