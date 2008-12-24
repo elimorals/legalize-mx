@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-civil-del-estado-de-zacatecas-15635"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-01"
-last_updated: "2000-01-01"
+last_updated: "2008-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PROTECCION CIVIL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 1 de enero del 2000.
 
@@ -257,9 +257,17 @@ XIV. Las demás atribuciones afines a estas, que le sean encomendadas por el Gob
 
 El Consejo Estatal se integra por:
 
-I. Un Presidente, que será el Gobernador del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Un Secretario Ejecutivo, que será el Secretario General de Gobierno;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+I. Un Presidente, que será el Gobernador del Estado, quien será suplido en sus ausencias por el Secretario General de Gobierno;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+II. Un Secretario Ejecutivo, que será el Secretario de Seguridad Pública;
 
 III. Un Secretario Técnico, que será el Director Estatal de Protección Civil;
 
@@ -297,7 +305,11 @@ V. Las demás que le confiere la presente ley.
 
 Corresponde al Secretario Ejecutivo:
 
-I. En ausencia del Presidente, presidir las sesiones y realizar las acciones que le competan a aquel;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+I. En ausencia del Presidente y de su suplente, presidir las sesiones y realizar las acciones que le competan;
 
 II. Formular el orden del día para cada sesión;
 
@@ -421,7 +433,11 @@ El Centro Estatal de Operaciones es un organismo transitorio, activado por el Go
 
 El Centro Estatal de Operaciones estará organizado por:
 
-I. Un Director General: que será el Secretario General de Gobierno;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+I. Un Director General. Que será el Secretario de Seguridad Pública;
 
 II. Un Director Técnico: que será el Director de Protección Civil;
 
@@ -523,13 +539,21 @@ El Gobernador, una vez que la situación de emergencia haya terminado, lo comuni
 
 Se considerará zona de desastre de aplicación de recursos del Estado, aquella en la que, para hacer frente a las consecuencias de un agente o fenómeno perturbador, sean insuficientes los recursos del o los municipios afectados, requiriéndose en consecuencia la ayuda del gobierno estatal y federal. En estos casos, el Gobernador del Estado pondrá en marcha las acciones necesarias por conducto de la Secretaría General de Gobierno.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 49.
 
-Para que el Gobierno del Estado formule la declaratoria a que se refiere el artículo anterior, deberá agotarse el siguiente procedimiento:
+Para que el Gobierno del Estado formule la declaratoria a que se refiere el artículo 69, deberá agotarse el siguiente procedimiento:
 
 I. Que sea solicitada por el o los Ayuntamientos de los municipios afectados;
 
-II. Que de la Secretaría General de Gobierno, realice una evaluación de los daños causados, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+II. Que la Secretaría General de Gobierno, con el apoyo de la Secretaría de Seguridad Pública, realicen una evaluación de los daños causados, y
 
 III. Que de la evaluación resulte necesario el apoyo con recursos adicionales de los gobiernos estatal y federal.
 
@@ -734,3 +758,25 @@ LIC. RICARDO MONREAL AVILA
 SECRETARIO GENERAL DE GOBIERNO
 
 ING. RAYMUNDO CARDENAS HERNANDEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE DICIEMBRE DE 2008.
+
+Artículo primero.- El presente Decreto iniciará su vigencia el 1 de Marzo de 2009, con las modalidades que enseguida se precisan.
+
+Artículo segundo.- Los recursos humanos, financieros y materiales del Consejo Estatal de Seguridad Pública, de la Subsecretaría de Seguridad Pública y de la Dirección General de Seguridad Pública y Tránsito del Estado, asignados a funciones operativas, pasarán a formar parte de la Secretaría de Seguridad Pública. Los recursos humanos, financieros y materiales de las Direcciones de la Policía Estatal Preventiva y de Prevención y Readaptación Social, así como los del Centro de Internamiento y Atención Integral Juvenil, dependientes de la Secretaría General de Gobierno, pasarán a formar parte de la Secretaría de Seguridad Pública.
+
+En ambos casos se deberán respetar los derechos laborales y de seguridad social que los servidores públicos hubieren adquirido con anterioridad.
+
+Artículo tercero.- Dentro de los treinta días naturales siguientes a la entrada en vigor de este Decreto, el Poder Ejecutivo del Estado nombrará al titular de dicha dependencia.
+
+Artículo cuarto.- Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, se deberá adecuar y publicar en el Periódico Oficial, Órgano del Gobierno del Estado, las modificaciones al Programa Estatal de Seguridad Pública.
+
+Artículo quinto.- Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, deberán publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, las reformas al Reglamento Interior de la Secretaría General de Gobierno y al Reglamento de la Policía Estatal Preventiva.
+
+Artículo sexto. Dentro de los noventa días naturales siguientes a la publicación de este Decreto, deberá quedar integrado el Sistema Estatal de Seguridad Pública.
+
+Artículo séptimo.- En el Presupuesto de Egresos del Estado para el ejercicio fiscal 2009, deberán incluirse las partidas correspondientes para el funcionamiento de la Secretaría de Seguridad Pública.
+
+Artículo octavo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
