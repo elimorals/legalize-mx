@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-educacion-del-estado-de-tabasco-10929"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-26"
-last_updated: "2008-11-01"
+last_updated: "2008-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE EDUCACION DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 26 de febrero de 1997.
 
@@ -109,11 +109,15 @@ XVII.- Formar al educando para incorporarse a la vida económica y social del Es
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
-XVIII.- Promover una educación de amplia cobertura y calidad educativa, en favor de personas con discapacidad, que permita su integración social y evite la segregación; y
+XVIII.- Promover una educación de amplia cobertura y calidad educativa, en favor de personas con discapacidad, que permita su integración social y evite la segregación; y (sic)
 
 > <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
-XIX.- Destacar la importancia de una alimentación completa, equilibrada, suficiente y variada para el desarrollo pleno del individuo.
+XIX.- Destacar la importancia de una alimentación completa, equilibrada, suficiente y variada para el desarrollo pleno del individuo;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+XIX (SIC).- Promover la difusión de información sobre los impactos, vulnerabilidad y medidas de adaptación al cambio climático, en el territorio tabasqueño.
 
 Artículo 10 El criterio que orientará a la educación que proporcionen el Estado, los Municipios, los organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, incluyendo la educación primaria, la secundaria, la normal y demás para la formación de docentes de educación básica, se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios, además:
 
@@ -681,6 +685,38 @@ Artículo 95 El Ejecutivo del Estado podrá celebrar convenios con los Ayuntamie
 
 Artículo 96 La educación a que se refiere la presente Ley tendrá las modalidades de escolarizada, no escolarizada o mixta.
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+#### Sección XII. DE LA EDUCACIÓN AMBIENTAL
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+Artículo 96 Bis La educación ambiental en el Estado, tiene los siguientes objetivos:
+
+I. Desarrollar una comprensión integral del ambiente en sus múltiples y complejas relaciones, que involucre los aspectos ecológicos, psicológicos, legales, sociales, económicos, científicos, culturales y éticos de la problemática ambiental y la preservación del ambiente.
+
+II. Fomentar la participación individual o colectiva en la preservación ambiental, como un valor inseparable del ejercicio ciudadano.
+
+III. La toma de conciencia sobre la problemática ambiental en todos los niveles educativos.
+
+IV. La generación de conocimientos ambientales en todos los campos disciplinarios y garantizar su difusión.
+
+V. Las demás que señalen las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+Artículo 96 Ter La educación ambiental se desarrollará como una práctica educativa integrada, continua y permanente en todos los niveles y modalidades de enseñanza escolar, incorporándose en los cursos de formación contenidos que traten de la ética ambiental sobre las actividades que se desarrollen.
+
+Asimismo, la dimensión ambiental deberá ser incluida en los programas de formación de profesores, en todos los niveles escolares.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+Artículo 96 Quater La Secretaría, en coordinación con la Secretaría de Recursos Naturales y Protección Ambiental, en el ámbito de sus respectivas competencias, impulsarán la educación ambiental de forma extraescolar cuando menos:
+
+I. Ampliando la participación de educadores y organizaciones no gubernamentales en la formación y ejecución de programas y actividades vinculadas a la educación ambiental.
+
+II. Fomentar con las empresas privadas, el desarrollo de programas de educación ambiental para sus trabajadores.
+
 ### Capítulo III. DE LOS PLANES Y PROGRAMAS DE ESTUDIO
 
 Artículo 97 Los contenidos de la educación serán definidos en planes y programas de estudio.
@@ -706,6 +742,10 @@ Artículo 98 En la elaboración y evaluación de los planes y programas de estud
 Artículo 99 La educación primaria, la secundaria, la normal y demás para la formación de docentes que se imparta en el Estado de Tabasco, se regulará por los planes y programas que formule la autoridad educativa federal, considerando su aplicación obligatoria.
 
 Artículo 100 La autoridad educativa estatal, de conformidad con la Ley General de Educación y considerando la opinión del Consejo Educativo del Estado, propondrá las adaptaciones o modificaciones a los planes y programas de estudio establecidos por la autoridad educativa federal, enriqueciéndolos con aspectos que atiendan las necesidades y características regionales del Estado de Tabasco, incluyendo contenidos que permitan a los educandos un mejor conocimiento de la geografía, historia, costumbres, tradiciones y demás aspectos propios del Estado y sus Municipios.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+En cumplimiento de lo establecido en el artículo 9, fracción XIX, de esta Ley, la Secretaria de Educación en coordinación con la Secretaría de Recursos Naturales y Protección Ambiental diseñaran el Programa Permanente de Difusión sobre el Cambio Climático que se aplicará desde la educación preescolar hasta el nivel superior mediante la impartición de conferencias, talleres, seminarios y demás actividades que sean necesarias para informar a los educandos sobre el impacto, vulnerabilidad y medidas de adaptación al cambio climático, en el territorio tabasqueño.
 
 Artículo 101 La autoridad educativa estatal, además, dentro de sus propuestas de ajustes o inclusión a los contenidos en los planes y programas de estudio, establecidos en la fracción I del artículo 12 de la Ley General de Educación, promoverá el rescate de la cultura, así como el fomento a los valores sociales propios del Estado en los niveles y modalidades de la educación básica, la normal y demás para la formación de docentes.
 
@@ -1212,3 +1252,9 @@ P.O. 1 DE NOVIEMBRE DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor a los tres días de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones contrarias al presente decreto.
