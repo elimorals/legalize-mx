@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-loreto-baja-california-232
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2006-12-31"
+last_updated: "2008-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LORETO, BAJA CALIFORNIA SUR.
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -163,7 +163,11 @@ El Impuesto sobre la Propiedad Rústica se causara sobre el valor catastral de l
 
 a) (DEROGADO, B.O. 28 DE DICIEMBRE DE 2005)
 
-b) 19.5 al millar anual
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+b) 10.00 al millar anual.
 
 En ningún caso el impuesto predial anual será inferior a tres días de salario mínimo.
 
@@ -181,21 +185,37 @@ En ningún caso el impuesto predial anual será inferior a tres días de salario
 
 El Impuesto Predial sobre la propiedad urbana se causara:
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a). A razón de 3.75 al millar sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación.
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
-> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 31 DE DICIEMBRE DE 2006)</small>
+a). A razón de 0.95 al millar sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación.
 
-b). A razón de 6.5 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 31 DE DICIEMBRE DE 2006)</small>
+> <small>(DEROGADO [N. DE E. REPUBLICADO] SEGUNDO PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-c).- A razón de 26 al millar sobre el valor catastral de los previos no edificados o baldíos, incrementándose actualmente en un 2.6 al millar hasta en tanto no sea Construida una edificación. La tasa no excederá de 52 al millar.
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
-d). A razón del 13 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta, con reserva de dominio o que sean materia de cualquier otro acto jurídico preparatorio similar o traslativo de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
+b). A razón de 1.5 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO [N. DE E. REPUBLICADO] SEGUNDO PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+c). A razón de 2 al millar sobre el valor catastral de los predios no edificados o baldíos, incrementándose actualmente en un 0.2 al millar hasta en tanto no sea construida, una edificación. La tasa no excederá de 4 al millar.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+d). A razón del 1.3 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta, con reserva de dominio o que sean materia de cualquier otro acto jurídico preparatorio similar o traslativo de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
 
@@ -208,6 +228,12 @@ Los terrenos que cuenten con construcciones menores tales como palapas y/o barda
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
 
 El valor del terreno de un predio regular se determinará multiplicando la superficie obtenida por el valor unitario fijado a la calle de su ubicación y tratándose de predios ubicados en esquina, el valor de éstos se determinará multiplicando su superficie, por el mayor de los valores unitarios fijados a las calles que forman la esquina.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+e). Predios destinados al campo de Golf en el área de Nopoló, a razón de 25 al millar
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -997,57 +1023,163 @@ T A R I F A :
 
 I. Por cada copia de planos 5 días de salario mínimo.
 
-II. Avalúos periciales por cada predio sobre su valor. Sin que pueda ser inferior
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a...0.10 al millar.
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
-III. Certificados, por cada hoja o fracción 1 día de salario mínimo.
+II. Avalúos periciales por cada predio
 
-IV. Otorgamiento de claves catastrales, por cada día 2.5 días de salario mínimo.
+Incluida la construcción, sobre su valor;
 
-V. Por búsqueda de datos para proporcionar
+sin que pueda ser inferior a dos
 
-información económica y/o certificado 1 día salario por predio mínimo.
+salarios mínimos 0.10 al millar.
 
-VI. Por deslindes o levantamientos prediales que se
+III. Certificados, por cada hoja o
 
-realicen a solicitud de particulares, de acuerdo con el
+fracción 1 día de salario mínimo.
 
-tiempo en que se ejecuten los trabajos relativos 5 días salario mínimo en
+IV. Otorgamiento de claves catastrales,
 
-adelante.
+por cada día 2.5 días de salario mínimo.
+
+V. Por búsqueda de datos para
+
+proporcionar información económica
+
+y/o certificado 1 día salario por predio mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+VI. Por deslinde o levantamientos prediales que se realicen a solicitud de particulares, de acuerdo con la extensión de los terrenos en los que se ejecuten:
+
+A) En la zona urbana:
+
+Hasta 200 m2 06 días de salario mínimo
+
+De 251 m2 hasta 500 m2 08 días de salario mínimo
+
+De 501 m2 hasta 1000 m2 15 días de salaría mínimo
+
+De 1001 m2 hasta 2000 m2 40 días de salario mínimo
+
+De 2001 m2 hasta 5000 m2 90 días de salario mínimo
+
+De 5001 m2 en adelante 115 días de salado mínimo
+
+B) Predios rústicos y accidentados:
+
+De más de 4 puntos hasta 80 días de salario mínimo
+
+1 hectárea
+
+Mayor a 1 hectárea hasta 100 días de salario mínimo
+
+5 hectáreas
+
+Mayores de 5 hectáreas $7.00 pesos por metro lineal
+
+de perímetro del predio.
+
+En deslindes fuera del área urbana de la ciudad de Loreto, se cobrarán de manera adicional los gastos de traslado y viáticos del personal de la brigada de topografía a razón de 0.25 días de salario mínimo por kilómetro de distancia medidos a partir de las oficinas de la Dirección de Catastro.
 
 VII. Por expedición de coordenas (sic) UTM 5 días salario mínimo.
 
-VIII. Registro anual de peritos valuadores 25 días de salario mínimo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+VIII. Por registro de perito valuador:
+
+A) Registro inicial 50 días de salario mínimo
+
+B) Revalidación de registro anual 30 días de salario mínimo
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+IX. Avalúos catastrales.- Por cada
+
+predio sobre el valor, sin que pueda
+
+ser inferior a un día de salario
+
+mínimo; 0.1 al millar
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-IX.- Avalúos catastrales por cada predio 0.5 al millar.
-
-sobre su valor, sin que pueda ser inferior a un día de salario
-
-mínimo 25 días de salario mínimo
+X. Certificación de documentos 5 días de salario mínimo
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-X.- Certificación de documentos 5 días de salario mínimo
+XI. Manifestación catastral 2 días de salario mínimo
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-XI.- Manifestación catastral 2 días de salario mínimo
+XII. Por autorización de fusión y
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+subdivisión de Predios 1 día de salario mínimo
 
-XII.- Por autorización de fusión y subdivisión de
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Predios 1 día de salario mínimo
+> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
-(ADICIONADA, B.O. 28 DE DICIEMBRE DE 2005) (F. DE E., B.O. 20 DE FEBRERO DE 2006)
+XIII. Por registro de Ingenieros Topógrafos para deslindes oficiales:
 
-XIII.- Por registro anual de Ingenieros 25 días de salario
+A) Registro inicial mínimo 50 días de salario
 
-Topógrafos para deslindes oficiales mínimos
+B) Revalidación de registro anual 30 días de salario
+
+Mínimo
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+XIV. Por el servicio de entrega de productos digitales, como planimetrías, altimetrías, imágenes e impresiones:
+
+A) Planimetría de la Ciudad de 10 días de salario mínimo
+
+Loreto incluyendo nombres de
+
+calles y colonias a nivel manzanero
+
+B) Altimetría de la Ciudad de Loreto 10 días de salario mínimo
+
+C) Planimetría de localidades urbanas 5 días de salario mínimo
+
+diferentes a la Ciudad de Loreto
+
+D) Altimetría de localidades urbanas 5 días de salario mínimo
+
+diferentes a la Ciudad de Loreto
+
+E) Imagen digital blanco y negro orto- 10 días de salario mínimo
+
+rectificado
+
+F) Impresión láser de imagen digital 5 días de salario mínimo
+
+blanco y negro orto-rectificado.
+
+G) Imagen de topografía area digital 7 días de salario mínimo
+
+blanco y negro
+
+H) Impresión laser de imagen fotográfica 2.5 días de salario mínimo
+
+area blanco y negro
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+XV. Por expedición de certificado de
+
+no propiedad. 2. 5 días de salario mínimo
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2585,9 +2717,81 @@ cuadro de la ciudad 5
 
 ventanillas de los vehículos 8
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-### CAPITULO PRIMERO. VENTA O EXPLOTACION DE BIENES MUEBLES E INMUEBLES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO DECIMO SEPTIMO. SERVICIOS EN MATERIA DE ECOLOGIA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 110 Bis.
+
+Por la expedición anual del registro de control ambiental de las siguientes actividades o giros comerciares se pagarán el equivalente a 10 días de salario mínimo vigentes en el Municipio de Loreto:
+
+I.- Servicios de mantenimiento a fosas sépticas y transporte, de aguas residuales;
+
+II.- Almacenaje en materia reciclable;
+
+III.- Centros de espectáculos y salones de fiestas;
+
+IV.- Establecimientos con preparación de aumentos;
+
+V.- Bares y cantinas;
+
+VI.- Rosticerías;
+
+VII.- Discotecas;
+
+VIII.- Talleres mecánicos;
+
+IX.- Talleres de hojalatería y pintura;
+
+X.- Talleres de servicio de cambio de aceite, lavado y engrasado;
+
+XI.- Talleres de lavado de autos;
+
+XII.- Herrerías;
+
+XIII.- Carpinterías;
+
+XIV. - Lavanderías;
+
+XV.- Estudios de fotografía y revelado de películas fotográficas; y
+
+XVI.- Venta y almacenaje de productos agrícolas
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 110 Ter.
+
+Por trámites, autorizaciones, vistos buenos y dictámenes de la dirección de Desarrollo Urbano y Ecología de conformidad al Reglamento de Protección al Ambiente y Desarrollo Sustentable del Municipio de Loreto, Baja California Sur, conforme a la (sic) siguientes tarifas:
+
+TARIFAS:
+
+DIAS DE SALARIO
+
+MÍNIMO
+
+1.- Dictamen técnico 5
+
+2.- Autorización de trasplante, 5
+
+deshierbe y limpieza
+
+3.- Autorización de derribo 3
+
+4.- Autorización de poda 3
+
+5.- Autorización de relleno 3
+
+6.- Visto bueno 2
+
+7.- Autorización de sonido 2
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2595,7 +2799,7 @@ ventanillas de los vehículos 8
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. ALMACENAJE DE VEHICULOS EN CORRALONES DE DEPOSITO
+### CAPITULO PRIMERO. VENTA O EXPLOTACION DE BIENES MUEBLES E INMUEBLES
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2621,7 +2825,7 @@ Los bienes de uso común o destinados al servicio del Municipio, no podrán ser 
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO TERCERO. BIENES MOSTRENCOS
+### CAPITULO SEGUNDO. ALMACENAJE DE VEHICULOS EN CORRALONES DE DEPOSITO
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2631,7 +2835,7 @@ Los propietarios de los vehículos que sean almacenados en los terrenos de los c
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO CUARTO. VENTA DE SOLARES PROPIEDAD DEL MUNICIPIO Y EXPEDICION DE TITULOS DE PROPIEDAD
+### CAPITULO TERCERO. BIENES MOSTRENCOS
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2641,7 +2845,7 @@ Constituyen ingresos en este ramo, el producto liquidado de los bienes mostrenco
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO QUINTO. PAPEL PARA COPIAS DE ACTAS DEL REGISTRO CIVIL
+### CAPITULO CUARTO. VENTA DE SOLARES PROPIEDAD DEL MUNICIPIO Y EXPEDICION DE TITULOS DE PROPIEDAD
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2655,7 +2859,7 @@ El que done, ceda, traspase, enajene o adquiera predios, en tanto no se otorgue 
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO SEXTO. DEPOSITO DE ANIMALES EN LOS CORRALES MUNICIPALES
+### CAPITULO QUINTO. PAPEL PARA COPIAS DE ACTAS DEL REGISTRO CIVIL
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2673,9 +2877,9 @@ En caso de que les sean presentadas hojas sin los requisitos indicados, las reco
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO SEPTIMO. DEL USO DE LA VIA PUBLICA POR INSTALACIONES SUBTERRÁNEAS O AEREAS
+### CAPITULO SEXTO. DEPOSITO DE ANIMALES EN LOS CORRALES MUNICIPALES
 
-(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005) (F. DE E., B.O. 20 DE FEBRERO DE 2006)
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 119.
 
@@ -2683,11 +2887,11 @@ Los propietarios de los animales depositados en los corrales pertenecientes al M
 
 > <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO OCTAVO. PRODUCTOS DIVERSOS
+### CAPITULO SEPTIMO. DEL USO DE LA VIA PUBLICA POR INSTALACIONES SUBTERRÁNEAS O AEREAS
 
-> <small>(REFORMADO, B.O. 28 DICIEMBRE DE 2005)</small>
+(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005) (F. DE E., B.O. 20 DE FEBRERO DE 2006)
 
-###### Artículo 119 Bis.
+###### Articulo 119 Bis.
 
 Las personas físicas o morales que previa autorización de la autoridad municipal correspondiente, hagan uso del piso, de instalaciones subterráneas o áreas en vía pública, para la realización de actividades comerciales o de prestación de servicios en forma permanente o temporal pagaran los productos correspondientes conforme a la siguiente:
 
@@ -2751,9 +2955,9 @@ uno. 0.005 días salario mínimo
 
 (REUBICADO [N. DE E. ANTES CAPITULO SEPTIMO], B.O. 28 DICIEMBRE DE 2005)
 
-### CAPITULO PRIMERO. RECARGOS
+### CAPITULO OCTAVO. PRODUCTOS DIVERSOS
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 28 DICIEMBRE DE 2005)</small>
 
 ###### Artículo 120.
 
@@ -2765,7 +2969,7 @@ Productos Diversos son todos aquellos productos no considerados en los términos
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. MULTAS
+### CAPITULO PRIMERO. RECARGOS
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2781,7 +2985,7 @@ El plazo para su cómputo del artículo anterior, no comenzará a correr si el c
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO TERCERO. REZAGOS
+### CAPITULO SEGUNDO. MULTAS
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2791,7 +2995,7 @@ Además de las que señale la presente Ley, las multas o sanciones por infraccio
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO CUARTO. APROVECHAMIENTOS DIVERSOS
+### CAPITULO TERCERO. REZAGOS
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2801,7 +3005,7 @@ Son rezagos los adeudos por concepto de impuestos, derechos productos y aprovech
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO QUINTO. GASTOS DE EJECUCION
+### CAPITULO CUARTO. APROVECHAMIENTOS DIVERSOS
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2811,7 +3015,7 @@ Los aprovechamientos no especificados en este título se recaudarán de conformi
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. FONDOS DE APORTACIONES FEDERALES
+### CAPITULO QUINTO. GASTOS DE EJECUCION
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2831,9 +3035,9 @@ Quedan (sic) comprendido dentro de esta clasificación los ingresos que tengan e
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. REDUCCIONES PARA PENSIONADOS, JUBILADOS Y PERSONAS CON DISCAPACIDAD
+### CAPITULO PRIMERO. FONDOS DE APORTACIONES FEDERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 128.
 
@@ -2851,9 +3055,9 @@ Son ingresos extraordinarios los que se originen de los organismos descentraliza
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. ESTIMULOS FISCALES DESTINADOS AL FOMENTO DE LA INVERSION PRODUCTIVA Y LA GENERACION DE EMPLEOS
+### CAPITULO PRIMERO. REDUCCIONES PARA PENSIONADOS, JUBILADOS Y PERSONAS CON DISCAPACIDAD
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 130.
 
@@ -2915,7 +3119,7 @@ Se otorgarán las reducciones que se señalan en el presente título a aquellas 
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO TERCERO. POR COOPERACION PARA OBRAS PÚBLICAS QUE REALICE EL MUNICIPIO
+### CAPITULO SEGUNDO. ESTIMULOS FISCALES DESTINADOS AL FOMENTO DE LA INVERSION PRODUCTIVA Y LA GENERACION DE EMPLEOS
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2946,6 +3150,10 @@ VI. El acreditamiento del monto total de la adquisición de predios donde el suj
 ###### Artículo 134.
 
 Para efectos de lo dispuesto en este Capítulo, se considerarán sujetos beneficiarios para recibir estímulos fiscales, todas aquellas personas físicas o morales o unidades económicas que hayan obtenido resolución favorable a la solicitud de otorgamiento de estos, conforme al procedimiento establecido en la Ley de Fomento Económico del Estado de Baja California Sur.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+### CAPITULO TERCERO. POR COOPERACION PARA OBRAS PÚBLICAS QUE REALICE EL MUNICIPIO
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -3116,3 +3324,9 @@ Artículo Cuarto.- Se exhorta al Municipio de Loreto Baja California Sur, a que 
 P.O. 31 DE DICIEMBRE DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 24 DE DICIEMBRE DE 2008.
+
+###### ARTICULO ÚNICO
+
+El presente decreto entrará en vigor el día primero de Enero del año dos mil nueve, previa su publicación en el Boletín Oficial del Gobierno del Estado.
