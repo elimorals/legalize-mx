@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2008-12-09"
+last_updated: "2008-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -457,13 +457,11 @@ Los documentos firmados por los nuevos titulares a manera de recibos, sólo acre
 
 El Ayuntamiento entrante debe proceder, a través de sus dependencias y entidades, a realizar el inventario del patrimonio municipal existente, anexando al mismo una relación del estado en que se encuentren los bienes de dominio público con que cuenta el Municipio; a fin de cotejar el inventario de los bienes del Municipio con el de la administración anterior a más tardar el día treinta y uno de enero del año posterior al de la elección.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 18.
 
-Al instalarse el nuevo Ayuntamiento, debe comunicar los nombres del Presidente Municipal, Síndico y regidores, del servidor público encargado de la Secretaría del Ayuntamiento y del funcionario encargado de la Hacienda Municipal, así como del titular del órgano de control interno, cuando lo contemplen los reglamentos municipales, al Ejecutivo de la entidad, al Congreso del Estado, a los tribunales del Poder Judicial, y a las oficinas federales y estatales, que estén establecidas en el Municipio, en un plazo no mayor de 30 días.
-
-Así mismo, debe notificarse al Congreso del Estado la toma de posesión del suplente de cualquiera de los servidores mencionados en el primer párrafo de este artículo, cuando dicha suplencia se prolongue por más de un mes.
+Al instalarse el nuevo Ayuntamiento, debe comunicar los nombres del Presidente Municipal, Síndico y regidores, y de los servidores públicos encargados de la Secretaría del Ayuntamiento y de la Hacienda Municipal, al Ejecutivo de la entidad, al Congreso del Estado, a los tribunales del Poder Judicial, y a las oficinas federales y estatales, que estén establecidas en el Municipio, en un plazo no mayor de 30 días.
 
 ### CAPITULO III. De la Desintegración
 
@@ -583,9 +581,9 @@ El Concejo designado tiene la misma organización interna y funciones que corres
 
 Los Ayuntamientos, para el estudio, vigilancia y atención de los diversos asuntos que les corresponda conocer, deben funcionar mediante comisiones.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
-Los ediles pueden eximirse de presidir comisiones, pero cada munícipe debe estar integrado por lo menos a una comisión, en los términos de la reglamentación respectiva.
+Los ediles pueden eximirse de presidir comisiones, pero cada munícipe debe estar integrado por lo menos a dos comisiones, en los términos de la reglamentación respectiva.
 
 La denominación de las comisiones, sus características, obligaciones y facultades, deben ser establecidas en los reglamentos que para tal efecto expida el Ayuntamiento.
 
@@ -613,13 +611,15 @@ EN LOS AYUNTAMIENTOS QUE TENGAN QUINCE EDILES O MÁS, LAS COMISIONES PERMANENTES
 
 LOS AYUNTAMIENTOS ESTABLECEN EN SUS RESPECTIVOS REGLAMENTOS EL PLAZO EN QUE CADA COMISIÓN EDILICIA DEBE DAR CUENTA DE LOS ASUNTOS QUE LE SEAN TURNADOS. A FALTA DE DISPOSICIÓN REGLAMENTARIA, LOS ASUNTOS DEBEN DICTAMINARSE EN UN PLAZO NO MAYOR A CUARENTA Y CINCO DÍAS NATURALES CONTADOS A PARTIR DEL DÍA POSTERIOR A QUE LE SEAN TURNADOS, MISMOS QUE PUEDEN SER PRORROGABLES EN LOS TÉRMINO DE LA REGLAMENTACIÓN MUNICIPAL.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 28.
 
-En su primera sesión, el Ayuntamiento debe asignar las comisiones de acuerdo a los reglamentos correspondientes, a propuesta del Presidente Municipal, o en su defecto, por el órgano de coordinación a que se refiere esta ley, cuando así lo contemplen los ordenamientos municipales.
+En su primera sesión, el Ayuntamiento debe asignar las comisiones de acuerdo a los reglamentos correspondientes, a propuesta del Presidente Municipal.
 
 ### CAPITULO VI. De las Sesiones
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 29.
 
@@ -629,21 +629,25 @@ I. Son sesiones ordinarias, por regla general, todas las sesiones del Ayuntamien
 
 II. Son sesiones extraordinarias las que se celebran para tratar asuntos urgentes relacionados con la atención de los servicios públicos indispensables para la población y aquellas que se efectúen para elegir al Presidente Municipal en los casos previstos en esta ley; y
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
+III. Son sesiones solemnes las que se celebran para la conmemoración de aniversarios históricos y para la realización de aquellos actos o ceremonias análogas en importancia, cuando así lo determine el Ayuntamiento; y aquéllas en que concurran representantes de los Poderes de la Federación o del Estado, personalidades distinguidas de los Estados de la República u otros países.
 
-III. Son sesiones solemnes las que se celebran para la conmemoración de aniversarios históricos y para la realización de aquellos actos o ceremonias análogas en importancia, cuando así lo determine el Ayuntamiento; y aquellas en que concurran representantes de los Poderes de la Federación o del Estado, personalidades distinguidas de los Estados de la República u otros países.
+El orden del día y los documentos a tratar en las sesiones ordinarias, deben entregarse a los munícipes con cuando menos veinticuatro horas de anticipación a la fecha en que se celebre dicha sesión ordinaria.
 
 ###### Artículo 30.
 
 Las sesiones del Ayuntamiento son públicas, salvo aquellas que por causas justificadas y previo acuerdo del Ayuntamiento se celebren sin permitir el acceso al público ni a los servidores públicos municipales.
 
+> <small>(REFORMADO [N. DE. E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2008)</small>
+
+Son sesiones con carácter de reservadas, las que versen sobre asuntos de seguridad publica, cuando exista algún riesgo inminente que ponga en peligro la gobernabilidad o la tranquilidad de la población o cuando por la naturaleza del asunto tenga que ver con cuestiones internas del Ayuntamiento.
+
 Cuando el público asistente a las sesiones no guarde el orden debido, el Presidente Municipal puede auxiliarse de la fuerza pública para desalojar el recinto en donde sesione el Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 31.
 
-La forma, periodicidad, ceremonial y demás asuntos que tengan que ver con el desarrollo de las sesiones, se deben establecer en el reglamento que para tal efecto expida el Ayuntamiento, con la obligación para éste de celebrar, por lo menos, dos sesiones ordinarias al mes.
+La forma, periodicidad, ceremonial y demás asuntos que tengan que ver con el desarrollo de las sesiones, se deben establecer en el reglamento que para tal efecto expida el Ayuntamiento, con la obligación para éste de celebrar, por lo menos, una sesión al mes.
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -989,6 +993,8 @@ Las circulares internas, instructivos, manuales, formatos y cualesquier otro act
 
 ### CAPITULO II. De los Regidores
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 47.
 
 Corresponde al Presidente Municipal la función ejecutiva del municipio. Tiene las siguientes obligaciones:
@@ -997,7 +1003,9 @@ I. Ejecutar las determinaciones del Ayuntamiento que se apeguen a la ley;
 
 II. Planear y dirigir el funcionamiento de los servicios públicos municipales;
 
-III. Convocar al Ayuntamiento a sesiones ordinarias, extraordinarias y solemnes, de acuerdo con lo que establece esta ley;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
+
+III. Convocar al Ayuntamiento a sesiones ordinarias, extraordinarias y solemnes, de acuerdo con lo que establece esta ley, así como aquellas que por su naturaleza deban de celebrarse con carácter de reservadas;
 
 IV. Cuidar del orden y de la seguridad de todo el Municipio, disponiendo para ello, de los cuerpos de seguridad pública y demás autoridades a él subordinadas;
 
@@ -1065,37 +1073,31 @@ VI. Las demás que establezcan las Constituciones Federal, Estatal y demás leye
 
 ### CAPITULO III. Del Síndico
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NO. 22570/LVIII/08 PUBLICADO EN EL P.O. DE 25 DE DICIEMBRE DE 2008, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO.</small>
+
 ###### Artículo 49.
 
 Son obligaciones de los Regidores:
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+I. Rendir la protesta de ley y tomar posesión de su cargo;
 
-I. Asistir puntualmente a las sesiones del Ayuntamiento y dar cuenta en las mismas de los asuntos que correspondan a sus comisiones;
+II. Asistir puntualmente y permanecer en las sesiones del Ayuntamiento y a las reuniones de las comisiones edilicias de las que forme parte;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+III. Acatar las decisiones del Ayuntamiento;
 
-II. Acordar con el Presidente Municipal los asuntos especiales que se les hubiesen encomendado;
+IV. Informar al Ayuntamiento y a la sociedad de sus actividades, a través de la forma y mecanismos que establezcan los ordenamientos municipales;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+V. Acordar con el Presidente Municipal los asuntos especiales que se le encomienden;
 
-III. Asistir a las reuniones de las comisiones edilicias y cumplir con el trabajo encomendado en ellas;
+VI. No invocar o hacer uso de su condición de regidor, en el ejercicio de la actividad mercantil, industrial o profesional;
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
+VIl. No desempeñar otro empleo, cargo o comisión de la Federación, del Estado, de los municipios o sus entidades paraestatales, cuando se perciba sueldo, excepción hecha de las labores de docencia, investigación científica y beneficencia;
 
-IV. Acatar en todo momento las decisiones del Ayuntamiento; y (sic)
+VIII. No intervenir en los asuntos municipales, en los que tengan un interés personal, o que interesen a su cónyuge, concubina o concubinario, o a sus parientes consanguíneos en línea recta sin limitación de grados, a los colaterales dentro del cuarto grado y a los afines dentro del segundo, siempre que no se trate de disposiciones de carácter general;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+IX. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a la ley, quedando estrictamente prohibido percibir por sus servicios bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación;
 
-V. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a la ley, quedando estrictamente prohibido percibir por sus servicios bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación; y (sic)
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2007)</small>
-
-VI. Informar a la sociedad de sus actividades, a través de la forma y mecanismos que establezcan los ordenamientos municipales; y
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE ENERO DE 2007)</small>
-
-VII. Las demás que establezcan las constituciones federal, estatal y demás leyes y reglamentos.
+X. Las demás que establezcan las constituciones federal, estatal y demás leyes y reglamentos.
 
 ###### Artículo 50.
 
@@ -1113,11 +1115,17 @@ IV. Solicitar en sesión del Ayuntamiento cualquier informe sobre los trabajos d
 
 V. Solicitar y obtener copias certificadas de las actas de sesiones que celebre el Ayuntamiento;
 
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
-VI. Tomar parte en las discusiones que se originen en las sesiones del Ayuntamiento con voz y voto; y
+VI. Tomar parte con voz y voto, en las discusiones que se originen en las sesiones del Ayuntamiento;
 
-VII. Las demás que establezcan las Constituciones Federal, Estatal y demás leyes y reglamentos.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
+
+VII. Asistir con derecho a voz, a las reuniones de comisión de las que no forme parte, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE DICIEMBRE DE 2008)</small>
+
+VIII. Los demás que establezcan las constituciones federal y estatal, y demás leyes y reglamentos.
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -1153,25 +1161,9 @@ II. El acta en donde consten las normas acordadas por los miembros de la fracci�
 
 III. El acta en la que conste el nombre del edil que haya sido designado o electo, conforme a los estatutos de cada Partido Político, como coordinador de la fracción y los nombres de los munícipes que desempeñen otras actividades directivas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+Artículo 51 quater. (DEROGADO, P.O. 25 DE DICIEMBRE DE 2008)
 
-Artículo 51 quater. (sic)
-
-Los coordinadores son los munícipes que expresan la voluntad de la fracción edilicia a la que pertenecen, promueven los entendimientos necesarios para el adecuado trámite y resolución de los asuntos municipales, integran el órgano de coordinación que en su caso, desarrollen los reglamentos municipales y como representantes de sus fracciones, participan en los consejos y organismos previstos en los reglamentos municipales.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
-
-Artículo 51 quinquies. (sic)
-
-El órgano de coordinación a que se refiere el artículo anterior es plural y colegiado; en él se impulsan entendimientos y convergencias políticas con las instancias y órganos que resulten necesarios a fin de alcanzar acuerdo que coadyuven para que el Ayuntamiento adopte las decisiones que constitucional y legalmente le corresponden.
-
-Dicho órgano se integra con los coordinadores de cada fracción edilicia, con presencia en el Ayuntamiento
-
-Preside este órgano el Coordinador de la fracción edilicia que cuente con el mayor número de ediles
-
-El órgano de coordinación adopta sus acuerdos de carácter interno por mayoría absoluta mediante el sistema de voto ponderado, en el cual los respectivos munícipes representan tantos votos como integrantes tenga su fracción edilicia.
-
-El órgano de coordinación a que se refiere esta ley en ningún caso pueden asumir las atribuciones que de conformidad al marco jurídico aplicables corresponden al Ayuntamiento, a los ediles en lo particular o a las comisiones edilicias.
+Artículo 51 quinquies. (DEROGADO, P.O. 25 DE DICIEMBRE DE 2008)
 
 ### CAPITULO IV. De los Jueces Municipales
 
@@ -1181,23 +1173,27 @@ Son obligaciones del Síndico:
 
 I. Acatar las órdenes del Ayuntamiento;
 
-II. Representar al Municipio en los contratos que celebre y en todo acto en que sea indispensable su intervención, ajustándose a las órdenes e instrucciones que en cada caso reciba del Ayuntamiento;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
+
+II. Representar al Municipio en los contratos que celebre y en todo acto en que el Ayuntamiento ordene su intervención, ajustándose a las órdenes, e instrucciones que en cada caso reciba;
+
+(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008) (F. DE E., P.O. 6 DE OCTUBRE DE 2009)
 
 III. Representar al Municipio en todas las controversias o litigios en que éste sea parte, sin perjuicio de la facultad que tiene el Ayuntamiento para designar apoderados o procuradores especiales;
 
-IV. (DEROGADA, P.O. 5 DE ENERO DE 2007)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE DICIEMBRE DE 2008)</small>
 
-V. (DEROGADA, P.O. 5 DE ENERO DE 2007)
+IV. Abstenerse de ejercer o ejecutar actos propios de la Administración Pública Municipal o contratar servicios o personal a nombre del Ayuntamiento salvo en aquéllos casos en que, de manera expresa cumpla una orden del Ayuntamiento;
 
-VI. (DEROGADA, P.O. 5 DE ENERO DE 2007)
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
+V. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a la ley, quedando estrictamente prohibido percibir por sus servicios bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación; y
 
-VII. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a la ley, quedando estrictamente prohibido percibir por sus servicios bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación; y
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
-> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2004)</small>
+VI. Las demás que establezcan las Constituciones Federal, Estatal y demás leyes y reglamentos.
 
-VIII. Las demás que establezcan las Constituciones Federal, Estatal y demás leyes y reglamentos.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 53.
 
@@ -1205,25 +1201,17 @@ Son facultades del Síndico:
 
 I. Participar con derecho a voz y voto en las sesiones del Ayuntamiento, con las excepciones que marca esta ley;
 
-II. Presentar iniciativa de ordenamientos municipales, en los términos de la presente ley;
+II. Presentar iniciativa de ordenamientos municipales, en los términos de la presente ley.
 
 III. Solicitar se cite a sesiones ordinarias y extraordinarias al Ayuntamiento;
 
 IV. Asistir a las visitas de inspección que se hagan a la oficina encargada de la Hacienda Municipal;
 
-V. (DEROGADA, P.O. 5 DE ENERO DE 2007)
+V. Integrar las comisiones edilicias en los términos de las disposiciones reglamentarias aplicables;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+VI. Informar a la sociedad de sus actividades, a través de la forma y mecanismos que establezcan los ordenamientos municipales; y
 
-VI. Integrar las comisiones edilicias en los términos de las disposiciones reglamentarias aplicables;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2007)</small>
-
-VII. Informar a la sociedad de sus actividades, a través de la forma y mecanismos que establezcan los ordenamientos municipales; y
-
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
-
-VIII. Las demás que establezcan las Constituciones Federal, Estatal y demás disposiciones legales y reglamentarias aplicables.
+VII. Las demás que establezcan las Constituciones Federal, Estatal y demás disposiciones legales y reglamentarias aplicables.
 
 ###### Artículo 54.
 
@@ -1321,13 +1309,19 @@ a) En los Municipios en los que el Ayuntamiento esté integrado hasta por catorc
 
 b) En los Municipios en que el Ayuntamiento está integrado por más de catorce regidores, se requiere tener título profesional.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### Artículo 63.
 
 El funcionario encargado de la Secretaría del Ayuntamiento, es el facultado para formular las actas de las sesiones que celebre el Ayuntamiento y autorizarlas con su firma, recabando a su vez la firma de los regidores que hubieren concurrido a la sesión y procediendo al archivo de las mismas; este funcionario también es el facultado para expedir las copias, constancias, credenciales y demás certificaciones que le requieran los regidores de acuerdo a sus facultades, o las solicitadas por otras instancias, de acuerdo a las disposiciones aplicables en la materia.
 
-La Secretaría del Ayuntamiento puede recaer en el Síndico previa aprobación por mayoría absoluta del Ayuntamiento.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+
+La Secretaría del Ayuntamiento puede recaer en el Síndico previa aprobación por mayoría absoluta del Ayuntamiento, sin que por ésta responsabilidad perciba una prestación económica adicional.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2008)</small>
+
+El Presidente Municipal, puede proponer en cualquier momento la designación de un nuevo encargado de la Secretaría del Ayuntamiento, en cuyo caso el Síndico cesa de realizar esta función, previa protesta que rinda el servidor público designado con tal carácter.
 
 ###### Artículo 64.
 
@@ -1386,6 +1380,12 @@ II. ENVIAR AL CONGRESO DEL ESTADO, A TRAVÉS DE SU ÓRGANO DE FISCALIZACIÓN, LA
 III. Aplicar los gastos, de acuerdo con el presupuesto de egresos aprobado por el Ayuntamiento y, exigir que los comprobantes respectivos estén firmados por el Presidente Municipal o por el servidor público al que le haya sido delegada esta facultad de conformidad con los reglamentos respectivos, así como el encargado de la Secretaría del Ayuntamiento; y
 
 IV. Las demás que señale esta Ley, otras leyes y reglamentos.
+
+(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2008) (F. DE E., P.O. 7 DE FEBRERO DE 2009)
+
+Artículo 67 bis. En los ayuntamientos que sea necesario y posible de conformidad con la carga de trabajo y la capacidad presupuestal, se puede establecer la figura de gerente o coordinador de gabinete, encargado de las funciones propias de la administración y ejecución de servicios públicos que se prestan de forma ordinaria.
+
+La figura a que se refiere este artículo requiere de su establecimiento en los ordenamientos municipales aplicables y en ningún caso pueden asumir las atribuciones que de conformidad al marco jurídico aplicable corresponden al Ayuntamiento, al Presidente Municipal o a los munícipes.
 
 ## TITULO CUARTO. PREVENCIONES PARA LOS CASOS DE AUSENCIA DE LAS AUTORIDADES MUNICIPALES
 
@@ -1757,11 +1757,11 @@ Respecto de los bienes inmuebles, en dicho registro debe constar el destino de c
 
 Toda persona tiene derecho a consultar la información del registro público a que se refiere este artículo y obtener constancia del mismo, previa solicitud y pago de los derechos que correspondan, que para tal efecto se hará de conformidad con lo que establezca el reglamento que expida el Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 93.
 
-Los municipios deben preservar los predios, fincas y espacios públicos en condiciones apropiadas para su aprovechamiento común. Los ayuntamientos deben ejercer la vigilancia y control necesarios para evitar su ocupación irregular y realizar las acciones necesarias para recuperar aquellos que hayan sido ocupados sin autorización o en forma irregular por actividades distintas a los aprovechamientos comunes a los que estén afectados.
+Los municipios deben conservar y preservar los bienes integrantes del patrimonio municipal en condiciones apropiadas para su aprovechamiento. Los ayuntamientos deben ejercer la vigilancia y control necesarios para evitar su ocupación irregular y realizar las acciones necesarias para recuperar aquellos que hayan sido ocupados sin autorización o en forma irregular por actividades distintas a los aprovechamientos comunes a los que estén afectados.
 
 Toda persona puede denunciar ante el Ayuntamiento la ocupación irregular de predios, fincas y espacios destinados a fines públicos o al uso común.
 
@@ -1936,6 +1936,18 @@ Al frente de dicha policía debe estar un servidor público designado por el Pre
 ###### Artículo 103.
 
 Los bienes y servicios públicos municipales, con excepción de los servicios de seguridad pública y policía preventiva municipal, así como de los bienes inmuebles con valor histórico o cultural relevante en los términos de la ley de la materia, previa autorización del Ayuntamiento, pueden ser materia de concesión a particulares, sujetándose a lo establecido por esta ley, las cláusulas del contrato de concesión y demás leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+
+Artículo 103 bis. Está prohibido otorgar concesiones para la prestación de servicios públicos municipales a:
+
+I. Integrantes del Ayuntamiento;
+
+II. Servidores públicos municipales;
+
+III. Los cónyuges, parientes consanguíneos en línea recta sin limitación de grado, los colaterales en segundo grado y los parientes por afinidad, de los señalados en las fracciones I y II de este artículo;
+
+IV. Las personas jurídicas privadas en las que los señalados en las fracciones I, II y III, de forma individual o conjunta, tengan más del cincuenta por ciento de las acciones o su equivalente.
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -2297,11 +2309,15 @@ El recurso de revisión se presenta con expresión de agravios acompañado de la
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMAD, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### Artículo 134.
 
 En todo lo no previsto en este capítulo, se debe estar a lo establecido en la ley estatal en materia de responsabilidades de los servidores públicos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2008)</small>
+
+Por cuanto al daño patrimonial estatal o municipal causado por servidores públicos, se debe estar a lo que señalen el (sic) Códigos Civil y Penal del Estado de Jalisco.
 
 ### CAPITULO I. De los Medios de Apremio
 
@@ -2754,3 +2770,7 @@ P.O. 9 DE DICIEMBRE DE 2008.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Los ayuntamientos tendrán un año a partir de la entrada en vigor del presente decreto, para reformar o expedir los reglamentos municipales que se adecuen a las presentes reformas. En tanto no se reformen o se expidan dichos reglamentos, los actos y procedimientos administrativos municipales se seguirán rigiendo por lo dispuesto por la Ley del Procedimiento Administrativo del Estado de Jalisco.
+
+P.O. 25 DE DICIEMBRE DE 2008.
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
