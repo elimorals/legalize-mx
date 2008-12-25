@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-65-organica-del-poder-judicial-del-estado-libre-1804
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-26"
-last_updated: "2008-07-10"
+last_updated: "2008-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY NUM. 65 ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ 
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 26 de julio de 2000.
 
@@ -1633,13 +1633,17 @@ IV. Celebrar sesiones ordinarias una vez por semana; y extraordinarias, cada vez
 
 V. Erigir, de conformidad con el reglamento y el presupuesto, el número de Juzgados en las materias que se requieran, determinando la cabecera del distrito o ciudad donde deban residir, y adscribir a los jueces que deben integrar cada uno de ellos;
 
+> <small>(ADICIONADA, G.O. 25 DE DICIEMBRE DE 2008)</small>
+
+V Bis. Crear, de conformidad con el Reglamento y el Presupuesto del propio Poder Judicial, los juzgados de control de juicios penales, que tendrán la función de resolver, en forma inmediata y por cualquier medio, las solicitudes de medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad, que requieran control judicial, garantizando los derechos de los indiciados y de las víctimas u ofendidos. Deberá crearse, operarse y mantenerse un registro fehaciente de todas las comunicaciones que se realicen entre los Jueces de Control, el Ministerio Público y las demás autoridades competentes;
+
 > <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
 VI. Con excepción de los Magistrados, nombrar, remover y resolver sobre la adscripción y renuncia de los servidores públicos del Poder Judicial; así como cambiar de adscripción, según las necesidades del servicio, a Jueces y Secretarios de Primera Instancia a Menores, o viceversa; para el caso de nombrar al Director General de Administración, éste deberá cubrir los requisitos previstos por el artículo 123, fracción I, inciso b;
 
 > <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-VII. Ejercer su presupuesto y el de los juzgados, así como administrar el Fondo Auxiliar para la Impartición de Justicia, con transparencia, eficacia, honradez y austeridad.
+VII. Ejercer su presupuesto y el de los juzgados, así como administrar el Fondo Auxiliar para la Impartición de Justicia, con transparencia, eficacia, honradez y austeridad;
 
 > <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -1667,7 +1671,7 @@ XIII. Controlar, evaluar, inspeccionar y vigilar los ingresos, gastos, recursos 
 
 > <small>(REFORMADA, G.O. 11 DE JUNIO DE 2008)</small>
 
-XIV. Expedir los reglamentos interiores en materia administrativa, de Contraloría Interna, defensoría de oficio, carrera judicial, escalafón, visitaduría judicial y régimen disciplinario del Poder Judicial del Estado, así como emitir lineamientos generales e implementar programas relativos a estas materias.
+XIV. Expedir los reglamentos interiores en materia administrativa, de Contraloría Interna, defensoría de oficio, carrera judicial, escalafón, visitaduría judicial y régimen disciplinario del Poder Judicial del Estado, así como emitir lineamientos generales e implementar programas relativos a estas materias;
 
 > <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -1679,7 +1683,7 @@ XVI. Organizar simposiums, conferencias y demás eventos que resulten de interé
 
 > <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-XVII. Practicar visitas a los juzgados y a la Comisión Jurisdiccional de Menores Infractores, así como realizar investigaciones sobre casos concretos:
+XVII. Practicar visitas a los juzgados y a la Comisión Jurisdiccional de Menores Infractores, así como realizar investigaciones sobre casos concretos;
 
 > <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -2496,3 +2500,9 @@ G.O. 10 DE JULIO DE 2008.
 Primero. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan las disposiciones que se opongan al presente decreto.
+
+G.O. 25 DE DICIEMBRE DE 2008.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Artículo segundo. El Poder Judicial del Estado y la Secretaría de Finanzas y Planeación, acordarán el monto de los recursos que se requieran para poner en marcha y operar, a partir del próximo ejercicio fiscal, los Juzgados de Control, al efecto de que se solicite al H. Congreso del Estado, considerar tales erogaciones en el Presupuesto de Egresos para el año 2009.
