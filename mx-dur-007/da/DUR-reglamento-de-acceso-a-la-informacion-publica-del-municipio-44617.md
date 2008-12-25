@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-de-acceso-a-la-informacion-publica-del-municipio-446
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-27"
-last_updated: "2005-02-27"
+last_updated: "2008-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "DUR"
 
 REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE GOMEZ PALACIO, DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE GOMEZ PALACIO, DURANGO, PUBLICADO EN EL P.O. DE 25 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el domingo 27 de febrero de 2005.
 
@@ -768,3 +770,15 @@ PRESIDENTE MUNICIPAL
 LIC. ÁNGEL FRANCISCO REY GUEVARA
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO</small>
+
+P.O. 25 DE DICIEMBRE DE 2008.
+
+Artículo Primero.- El presente Reglamento deberá publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Durango y entrará en vigor al día siguiente de su publicación.
+
+Artículo Segundo.- Se abrogan las disposiciones del Reglamento de Acceso a la Información Pública del Municipio de Gómez Palacio, Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No.17 de fecha 27 de Febrero de 2005.
+
+Artículo Tercero.- Los integrantes del Consejo a que se refiere el Artículo 58, deberán ser designados dentro de los sesenta días naturales siguientes al inicio de la vigencia del presente Reglamento e iniciaran sus funciones quince días naturales después de su designación.
+
+Artículo Cuarto.- Se derogan todas las disposiciones o acuerdos que se opongan al presente Reglamento.
