@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-planeacion-para-el-estado-de-guerrero-5170"
 country: "mx"
 rank: "ley"
 publication_date: "1991-03-09"
-last_updated: "2006-04-28"
+last_updated: "2008-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY DE PLANEACION PARA EL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 28 DE ABRIL DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NUMERO 994 DE PLANEACION DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, PUBLICADA EN EL P.O. DE 26 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el sábado 8 de marzo de 1991.
 
@@ -718,3 +720,15 @@ Comuníquese el presente Decreto al Titular del Poder Ejecutivo para los efectos
 ###### ARTÍCULO TERCERO.
 
 La reforma realizada al artículo 6° y el artículo 41-Bis de la Ley de Planeación para el Estado de Guerrero, entrarán en vigor a partir de la fecha en que entre en vigor el Decreto número 619 por el que se reforman y adicionan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Guerrero.
+
+P.O. 26 DE DICIEMBRE DE 2008.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del 1º de enero de 2009.
+
+SEGUNDO.- Se abroga la Ley de Planeación para el Estado de Guerrero, publicada el 09 de marzo de 1991.
+
+TERCERO.- El Ejecutivo Estatal presentara al Honorable Congreso del Estado las modificaciones pertinentes al Plan Estatal de Desarrollo dentro de los 90 días siguientes al inicio de la vigencia de la presente Ley.
+
+CUARTO.- El Comité de Planeación para el Desarrollo del Estado, elaborara el banco de Programas y Proyectos dentro de los 60 días a partir de la entrada en vigor de la presente Ley.
+
+QUINTO.- Publíquese la presente Ley en el Periódico Oficial del Gobierno Libre y Soberano de Guerrero.
