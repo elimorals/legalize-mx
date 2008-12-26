@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2008-06-09"
+last_updated: "2008-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 9 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -1449,9 +1449,13 @@ El Ejecutivo del Estado, por conducto de la dependencia que al efecto determine,
 
 Las autorizaciones para la venta de bebidas alcohólicas, por ningún motivo serán otorgadas para la apertura de expendios a menos de doscientos metros del derecho de vía de los caminos y carreteras, hospitales, iglesias, asilos, planteles educativos o cualesquiera otro tipo de edificio público.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 151.
 
-Se prohibe el consumo de bebidas alcohólicas en el interior de planteles educativos, templos, cementerios, oficinas públicas, centros de trabajo y en cualquier lugar en que haya concentración pública de menores de edad.
+Se prohíbe el consumo de bebidas alcohólicas en el interior de templos, cementerios, oficinas públicas, centros de trabajo, instituciones de educación básica, media superior o superior, en las inmediaciones de estas últimas y en cualquier lugar en que haya concentración pública de menores de edad.
+
+Se entiende por inmediaciones en las instituciones de educación básica, media superior o superior, la distancia de cien metros contados a partir del perímetro de las instituciones referidas.
 
 ###### ARTICULO 152.
 
@@ -2690,3 +2694,9 @@ B.O. 9 DE JUNIO DE 2008.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 26 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
