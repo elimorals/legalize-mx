@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2008-04-07"
+last_updated: "2008-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO PENAL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE DICIEMBRE DE 2008.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -403,7 +403,7 @@ En los supuestos de las fracciones II y III, cuando el responsable de resarcir d
 
 > <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
-ARTICULO 29 BIS.- Salvo prueba en contrario y para los efectos del artículo 31 BIS, se considera que siempre existe daño moral en los delitos siguientes: corrupción de menores de edad e incapaces, utilización de imágenes y/o voces de personas menores de edad para la pornografía, relaciones sexuales remuneradas con personas menores de edad, violación, violencia intrafamiliar, rapto, abusos deshonestos, privación ilegal de libertad, secuestro, trata de personas, homicidio, calumnias y chantaje.
+ARTICULO 29 BIS.- Salvo prueba en contrario y para los efectos del articulo 31 BIS, se considera que siempre existe daño moral en los delitos siguientes: corrupción de menores de edad e incapaces, utilización de imágenes y/o voces de personas menores de edad para la pornografía, relaciones sexuales remuneradas con personas menores de edad, violación, violencia intrafamiliar, rapto, abusos deshonestos, privación ilegal de libertad, secuestro, trata de personas, homicidio, calumnias y chantaje.
 
 > <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
@@ -676,6 +676,10 @@ Cuando una ley quite a un hecho u omisión el carácter de delito que otra ley a
 ###### ARTICULO 63.
 
 Cuando un delito pueda ser considerado bajo dos o más aspectos, y bajo cada uno de ellos merezca una sanción diversa, se impondrá la mayor.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 63 BIS.- Se entiende por inmediaciones en las instituciones de educación básica, media superior o superior, la distancia de cien metros contados a partir del perímetro de las instituciones referidas.
 
 ### CAPITULO II. APLICACION DE SANCIONES POR LOS DELITOS CULPOSOS
 
@@ -1315,6 +1319,10 @@ IV.- Aquéllas que por sus características, conformación o dimensiones, entra�
 
 Se aplicará prisión de un mes a un año o de cuarenta a doscientos cincuenta días multa, a quien porte alguna de las armas a que se refiere el artículo anterior, en lugares donde se consuman bebidas embriagantes, en centros de diversión, o en cualquier otro lugar público.
 
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+Cuando las armas señaladas en el párrafo anterior se porten en el interior de las instituciones de educación básica, media superior o superior, o en sus inmediaciones, la sanción será de dos meses a dos años de prisión y de ochenta a quinientos días multa.
+
 En el caso a que se refiere este artículo, además de las sanciones señaladas se decomisarán las armas.
 
 Los funcionarios y agentes de la autoridad pueden llevar las armas necesarias para el ejercicio de su cargo.
@@ -1370,6 +1378,10 @@ Se impondrán de tres días a dos años de prisión y suspensión de la licencia
 I.- Al que conduzca un vehículo de motor en estado de embriaguez o bajo el influjo de estupefacientes, psicotrópicos o cualquier otra substancia que afecte las facultades psicomotrices y cometa alguna otra infracción a las disposiciones jurídicas que regulen el tránsito de vehículos; y
 
 II.- Al que, por segunda ocasión dentro del plazo de un año, sea infraccionado por conducir vehículos de motor en estado de embriaguez o bajo el influjo de estupefacientes, psicotrópicos o cualquier otra substancia que afecte las facultades psicomotrices.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+Cuando las conductas señaladas en las fracciones anteriores se realicen en las inmediaciones de instituciones de educación básica, media superior o superior, durante el horario escolar, así como dentro de los sesenta minutos anteriores y posteriores al inicio y culminación del horario de clases, respectivamente, la sanción será de seis días a cuatro años de prisión y suspensión de la licencia para manejar desde un mes hasta tres años.
 
 Si este delito se comete por el conductor de un vehículo de transporte del servicio público, privado o escolar durante el desarrollo de su oficio o empleo, la sanción será de uno a tres años de prisión y suspensión de la licencia para manejar desde un mes hasta tres años.
 
@@ -1551,6 +1563,10 @@ Los ultrajes hechos a la legislatura, a un tribunal, a un cuerpo colegiado de la
 
 Se aplicarán de tres días a un año de prisión y de diez a cien días multa, al que, con la finalidad de exponer públicamente libros, escritos, imágenes u otros objetos obscenos, los fabrique, reproduzca, publique, distribuya o haga circular. En caso de reincidencia, además de las sanciones anteriores, se ordenará, a juicio del juzgador, la disolución de la sociedad o empresa.
 
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+Cuando las conductas señaladas en el párrafo anterior se realicen en el interior de las instituciones de educación básica, media superior, superior o en sus inmediaciones, la sanción será de seis días a dos años de prisión y de veinte a doscientos días multa.
+
 > <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 167.
@@ -1585,7 +1601,7 @@ En los términos del artículo 118 del Código de Procedimientos Penales, las au
 
 Al que emplee personas menores de dieciocho años en cantinas, tabernas y centros de vicio, se le sancionará con prisión de tres meses a dos años, de diez a cien días multa y cierre definitivo del establecimiento. La misma pena se aplicará a los padres o tutores que coloquen o permitan que sus hijos o pupilos, presten sus servicios en dichos establecimientos.
 
-Para los efectos de este precepto se considerará como empleado en la cantina, taberna o centro de vicio, al menor de dieciocho años que, por un salario, por la sola comida, por comisión de cualquier Índole, por cualquier otro estipendio, gaje o emolumento, o gratuitamente, preste sus servicios en tal lugar.
+Para los efectos de este precepto se considerará como empleado en la cantina, taberna o centro de vicio, al menor de dieciocho años que, por un salario, por la sola comida, por comisión de cualquier índole, por cualquier otro estipendio, gaje o emolumento, o gratuitamente, preste sus servicios en tal lugar.
 
 Las anteriores sanciones se impondrán sin perjuicio de las penas que pudieran corresponder por la comisión de los delitos contemplados en el Capítulo IV del Título Decimonoveno del Libro Segundo de este Código.
 
@@ -1635,7 +1651,11 @@ Las penas que resulten aplicables por los delitos previstos en este capítulo se
 
 I.- Si el sujeto activo se valiese de la función pública o privada, la profesión u oficio que desempeña, aprovechándose de los medios o circunstancias que ellos le proporcionan. En este caso, además, se le destituirá del empleo, cargo o comisión públicos e inhabilitará para desempeñar otro, o se le suspenderá del ejercicio de la profesión u oficio por un tiempo igual al de la pena de prisión impuesta.
 
-II.- Si el sujeto activo del delito tiene parentesco por consaguinidad (sic), afinidad o civil hasta en cuarto grado o habite ocasional o permanentemente en el mismo domicilio con la víctima, o tenga una relación análoga al parentesco con el sujeto pasivo.
+II.- Si el sujeto activo del delito tiene parentesco por consaguinidad, afinidad o civil hasta en cuarto grado o habite ocasional o permanentemente en el mismo domicilio con la víctima, o tenga una relación análoga al parentesco con el sujeto pasivo.
+
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+III.- Al que cometa el delito de corrupción de menores en el interior de instituciones de educación básica, media superior, superior o en sus inmediaciones, se le aplicará prisión de seis meses a seis años y de veinte a trescientos días multa.
 
 > <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
@@ -2045,9 +2065,7 @@ V.- Al que a sabiendas hiciere uso de los sellos o de algún otro de los objetos
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
-###### ARTÍCULO 200 Bis.
-
-Se impondrán de tres a ocho años de prisión y de cuarenta a mil días multa, al que sin consentimiento de quien esté facultado para ello:
+ARTÍCULO 200 BIS.- Se impondrán de tres a ocho años de prisión y de cuarenta a mil días multa, al que sin consentimiento de quien esté facultado para ello:
 
 > <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
@@ -2233,9 +2251,17 @@ II.- Intervengan dos o más personas, en forma directa o indirecta;
 
 III.- El responsable allane el lugar en que se encuentre la víctima o la sorprenda en despoblado;
 
-IV.- El delito fuere cometido por la persona que tiene al ofendido bajo su custodia, guarda o educación o aproveche la confianza en él depositada; y
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
-V.- Sea cometido por quien desempeñe un empleo, cargo o comisión públicos, o en ejercicio de una profesión o empleo, utilizando los medios o circunstancias que ellos le proporcionan.
+IV.- El delito fuere cometido por la persona que tiene al ofendido bajo su custodia, guarda o educación o aproveche la confianza en él depositada;
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+V.- Sea cometido por quien desempeñe un empleo, cargo o comisión públicos, o en ejercicio de una profesión o empleo, utilizando los medios o circunstancias que ellos le proporcionan; y
+
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+VI.- Sea cometido en el interior de instituciones de educación básica, media superior, superior o en sus inmediaciones.
 
 En los casos respectivos, el responsable perderá la patria potestad o la tutela, así como el derecho a heredar del ofendido.
 
@@ -2250,6 +2276,10 @@ En el supuesto señalado en la fracción V del presente artículo, además de la
 ###### ARTICULO 215.
 
 Comete el delito de estupro el que tiene cópula con mujer menor de dieciocho años que vive honestamente, obteniendo su consentimiento por medio de seducción o engaño. Al estuprador se le sancionará con prisión de tres meses a tres años y de diez a ciento cincuenta días multa.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+Cuando la conducta señalada en el párrafo anterior se realice en el interior de las instituciones de educación básica, media superior, superior o en sus inmediaciones, la sanción se aumentará en una mitad.
 
 ###### ARTICULO 216.
 
@@ -2303,9 +2333,17 @@ III.- Intervengan dos o más personas, en forma directa o indirecta;
 
 IV.- El responsable allane el lugar en que se encuentre la víctima o la sorprenda en despoblado;
 
-V.- El delito fuere cometido por la persona que tiene al ofendido bajo su custodia, guarda o educación o aproveche la confianza en él depositada; y
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
-VI.- Sea cometido por quien desempeñe un empleo, cargo o comisión públicos, o en ejercicio de una profesión o empleo, utilizando los medios o circunstancias que ellos le proporcionan.
+V.- El delito fuere cometido por la persona que tiene al ofendido bajo su custodia, guarda o educación o aproveche la confianza en él depositada;
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+VI.- Sea cometido por quien desempeñe un empleo, cargo o comisión públicos, o en ejercicio de una profesión o empleo, utilizando los medios o circunstancias que ellos le proporcionan; y
+
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+VII.- El delito fuere cometido en el interior de las instituciones de educación básica o media superior o en sus inmediaciones.
 
 En los casos respectivos, el responsable perderá la patria potestad o la tutela, así como el derecho a heredar del ofendido.
 
@@ -2320,6 +2358,10 @@ En el supuesto señalado en la fracción VI del presente artículo, además de l
 ###### ARTICULO 221.
 
 Al que sustrajere o retuviere a una mujer por medio de la violencia física o moral, de la seducción o del engaño, para satisfacer algún deseo erótico o para casarse, se le aplicarán de seis meses a seis años de prisión y de diez a doscientos días multa.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+Cuando la conducta señalada en el párrafo anterior se realice en el interior de las instituciones de educación básica, media superior, superior o en sus inmediaciones, la sanción se incrementará en una mitad.
 
 ###### ARTICULO 222.
 
@@ -2719,6 +2761,10 @@ I.- Declarar a los reos sujetos a la vigilancia del órgano que designe el Ejecu
 
 II.- Prohibirles ir a determinado lugar, o residir en él.
 
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 263 BIS.- Cuando la comisión de los delitos de homicidio o lesiones se realicen en el interior de instituciones de educación básica, media superior, superior o en sus inmediaciones, las penas previstas se aumentarán en una mitad, siempre y cuando la víctima sea alumno, directivo, docente o se trate de personal administrativo de la institución educativa.
+
 ### CAPITULO II. ABIGEATO
 
 ### CAPITULO III. ABUSO DE CONFIANZA
@@ -2941,6 +2987,10 @@ Comete el delito de privación ilegal de libertad y será sancionado con prisió
 
 ARTICULO 294 BIS.- Se considera que comete el delito de privación ilegal de libertad, para los efectos de la sanción, quien por medio de engaño, violencia, aprovechamiento de la ignorancia o la necesidad, imponga a otro un contrato que lo prive de la libertad.
 
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 294 TER.- Las penas previstas en el artículo 294 de este Código, se aumentarán en una mitad cuando el delito fuere cometido en el interior de las instituciones de educación básica, media superior, superior o en sus inmediaciones.
+
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 295.
@@ -3011,9 +3061,17 @@ IX.- Se haga uso de narcóticos o cualquier sustancia o elemento que anule, dism
 
 X.- Que alguno de los actos encaminados a la perpetración del delito se desarrolle inclusive en otra entidad federativa;
 
-XI.- Que se utilicen instalaciones o bienes gubernamentales, frecuencias, claves o códigos oficiales; o
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
-XII.- Que en la comisión del delito participe alguna persona que por su cargo, empleo, puesto o de la confianza en él depositada, tenga acceso a información o medios que faciliten la perpetración del delito.
+XI.- Que se utilicen instalaciones o bienes gubernamentales, frecuencias, claves o códigos oficiales;
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+XII.- Que en la comisión del delito participe alguna persona que por su cargo, empleo, puesto o de la confianza en él depositada, tenga acceso a información o medios que faciliten la perpetración del delito; o
+
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+XIII.- El delito fuere cometido en el interior de las instituciones de educación básica, media superior, superior o en sus inmediaciones.
 
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
@@ -3057,9 +3115,7 @@ V.- Al que proporcione cualquier medio para facilitar la permanencia en cautiver
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
-###### ARTÍCULO 298 Bis.
-
-Se impondrá de tres a ocho años de prisión a quien, en relación con los delitos previstos en este Capítulo y fuera de los casos de exclusión del delito previstos (sic) en este Código:
+ARTÍCULO 298 BIS.- Se impondrá de tres a ocho años de prisión a quien, en relación con los delitos previstos en este Capítulo y fuera de los casos de exclusión del delito previstos (sic) en este Código:
 
 > <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
@@ -3251,9 +3307,17 @@ VII.- En una oficina recaudadora o en otra en que se conserven caudales;
 
 VIII.- Aprovechando las condiciones de confusión que se produzcan por catástrofe o desorden público;
 
-IX.- Respecto de maquinaria, insumos y equipos agrícolas, frutos por cosechar o cosechados que se encuentren en el asiento de producción; y
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
-X.- Respecto de vehículos de propulsión mecánica.
+IX.- Respecto de maquinaria, insumos y equipos agrícolas, frutos por cosechar o cosechados que se encuentren en el asiento de producción;
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+X.- Respecto de vehículos de propulsión mecánica; y
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2008) (F. DE E., B.O. 5 DE FEBRERO DE 2009)
+
+XI.- En el interior de instituciones de educación básica, media superior, superior o en sus inmediaciones.
 
 > <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
@@ -3521,6 +3585,10 @@ En los casos de encubrimiento del delito de secuestro la sanción aplicable ser�
 
 La excusa absolutoria prevista en el segundo párrafo de este artículo, en relación con el cónyuge, concubina, concubinario, pariente del requerido, o de persona a quien éste deba respeto, cariño, gratitud o amistad íntima, no procederá en el delito de secuestro.
 
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 329 BIS.- En los casos de encubrimiento de delitos cometidos por directivos, académicos o empleados en el interior de instituciones de educación básica, media superior, superior o en sus inmediaciones, las penas previstas en el artículo 329 de este Código se incrementarán en una mitad.
+
 ## TITULO VIGESIMO TERCERO. DELITOS CONTRA LA ECOLOGIA
 
 ###### ARTICULO 330.
@@ -3722,3 +3790,9 @@ DECRETO NUMERO 113, POR EL QUE SE REFORMAN DIVERSOS ARTICULOS DEL CODIGO PENAL D
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 26 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
