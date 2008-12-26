@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2008-10-07"
+last_updated: "2008-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2008.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -155,25 +155,41 @@ La Bandera, el Himno y el Escudo Nacionales, son los símbolos obligatorios en t
 
 ### CAPITULO IV.. DE LAS GARANTIAS INDIVIDUALES, SOCIALES Y DE LA PROTECCION DE LOS DERECHOS HUMANOS
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 7.
 
-El Estado de Baja California acata plenamente y asegura a todos sus habitantes las garantías individuales y sociales consagradas en la Constitución Política de los Estados Unidos Mexicanos, así como los demás derechos que otorga esta Constitución.
+El Estado de Baja California acata plenamente y asegura a todos sus habitantes las garantías individuales y sociales consagradas en la Constitución Política de los Estados Unidos Mexicanos, así como los demás derechos que otorga esta Constitución; de igual manera esta norma fundamental tutela el derecho a la vida, al sustentar que desde el momento en que un individuo es concebido, entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural o no inducida.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
 Se establecerá por medio de una Ley las Bases para la creación de la Procuraduría de los Derechos Humanos y Protección Ciudadana, como un organismo administrativo, autónomo de participación ciudadana para vigilar y exigir de los servidores públicos un actuar apegado a la legalidad y asegurar el respeto de los derechos humanos en la entidad, sus resoluciones consistirán en solicitarles fundando y motivando ante las autoridades competentes, la aplicación de las sanciones previstas en la Ley.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+
 La Ley garantizará al Procurador su independencia y autonomía en el desempeño de su cargo, asimismo determinará los procedimientos para su nombramiento, la duración del cargo, sus funciones y facultades así como las demás condiciones necesarias para garantizar su eficacia.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
 La Procuraduría de los Derechos Humanos y Protección Ciudadana no ejercerá una función jurisdiccional por lo que carece de facultades para modificar por si misma las resoluciones de la autoridad ni suspender las actuaciones administrativas objeto de queja. Sus resoluciones consistirán en recomendaciones, proposiciones, solicitudes y recordatorios de plazos y deberes legales dirigidas a los servidores públicos.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+
 Toda persona tiene el derecho a la práctica del deporte, a la cultura física y a gozar de un medio ambiente adecuado para su desarrollo y bienestar. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de estos derechos.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
 Toda persona tiene derecho a acceder a la información que la ley atribuye el carácter de pública. La Ley de la materia deberá observar entre otros los principios de máxima publicidad y gratuidad, asimismo, deberá establecer los procedimientos para acceder a la información pública y señalar aquella que tenga el carácter de reservada o confidencial.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+
 La Ley establecerá un organismo ciudadano con atribuciones de consulta, propuesta, promoción y difusión del acceso a la información pública. Sus titulares tendrán carácter honorífico.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+
 Las leyes señalarán aquellos casos en que los juicios serán predominantemente orales, así como su procedimiento.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
 Las personas tendrán derecho a acceder a los medios alternativos de justicia para resolver sus controversias, en la forma y términos establecidos por las leyes respectivas.
 
@@ -581,9 +597,7 @@ XXX.- Designar entre los vecinos, a propuesta del Gobernador del Estado, los Con
 
 XXXI.- Legislar respecto a las relaciones de trabajo entre el Estado, los Municipios, las Dependencias paraestatales y paramunicipales y sus trabajadores, con base en lo dispuesto en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 1998)</small>
-
-XXXII.- Nombrar al Procurador General de Justicia del Estado, por el voto de las dos terceras partes de sus integrantes, en los términos de esta Constitución;
+XXXII.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2008)
 
 > <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -985,9 +999,9 @@ XXI.- Fomentar el turismo, el desarrollo industrial, agrícola, ganadero y el ap
 
 XXII.- Celebrar convenios con la Federación sobre participación de impuestos y coordinar sus esfuerzos en el Estado, a efecto de atender lo relativo a educación, salubridad y asistencia pública y para la construcción de caminos vecinales, así como en aquellas obras cuya ejecución pueda llevarse a cabo en cooperación con el Gobierno Federal y sujetándose el Ejecutivo Local a lo dispuesto por las Leyes respectivas;
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
-XXIII.- Presentar para su elección, al Congreso del Estado las propuestas de nombramiento para el cargo de Procurador General de Justicia del Estado, de conformidad con lo que establezca la Ley de la materia;
+XXIII.- Nombrar libremente al Procurador General de Justicia del Estado, quien deberá reunir los requisitos que establezca la Ley de la materia;
 
 > <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 1998)</small>
 
@@ -1037,7 +1051,9 @@ Las faltas del Secretario de Gobierno, serán suplidas por el Oficial Mayor del 
 
 ### CAPITULO III.. DEL MINISTERIO PUBLICO Y DE LA DEFENSORIA DE OFICIO
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1997)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 55.
 
@@ -1441,47 +1457,55 @@ El Tribunal expedirá su Reglamento Interno y las disposiciones administrativas 
 
 ###### ARTICULO 69.
 
-El Ministerio Público es la Institución encargada de la investigación y persecución de los delitos, el cual se auxiliará con una policía que estará bajo su autoridad y mando inmediato. También le corresponde el velar por la exacta observancia de las leyes en los casos en que tenga intervención conforme a su Ley Orgánica respectiva. A ese fin, deberá ejercitar las acciones que correspondan contra los infractores de esas leyes; hacer efectivos los derechos concedidos al Estado y representar a éste ante los tribunales. Asimismo compete a esta institución proteger los intereses de los menores e incapaces, como también los derechos individuales y sociales, en los términos que señalen las leyes aplicables.
+El Ministerio Público es la Institución encargada de la investigación y persecución de los delitos, el cual se auxiliará con una policía que estará bajo su conducción y mando en el ejercicio de esta función, y tendrá las atribuciones y estructura que la Ley le establezca. Asimismo, intervendrá en todos los demás negocios que determinen esta Constitución y las leyes.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE ENERO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-Asimismo compete a esta institución proteger los intereses de las personas menores de dieciocho años de edad y de las personas que no tengan la capacidad para comprender el significado del hecho, como también los derechos individuales y sociales, en los términos que señalen las leyes aplicables.
-
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 70.
 
-Ejercen y representan esta Institución en el Estado el Procurador General de Justicia, los Subprocuradores y Agentes del Ministerio Público que determine la Ley.
+El Procurador General de Justicia, los Subprocuradores y Agentes del Ministerio Público que determine la Ley, ejercen y representan al Ministerio Público.
 
-Los Subprocuradores y Agentes del Ministerio Público, serán nombrados y removidos por el Gobernador a propuesta del Procurador, en la forma que determine la Ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 71.
 
-El Procurador General de Justicia representará al Estado en las acciones y controversias constitucionales a que se refiere el artículo 105 de la Constitución Federal, cuando este sea parte, tenga interés jurídico o se afecte su patrimonio.
+El Procurador General de Justicia dirigirá al Ministerio Público, y será nombrado y removido de conformidad a esta Constitución y a la Ley.
 
-Compete al Procurador General de Justicia del Estado, por sí o por medio de los Agentes del Ministerio Público, la investigación y persecución de los delitos del orden común con auxilio de la Policía Ministerial; reunir y aportar las pruebas que acrediten la responsabilidad de los inculpados; dar seguimiento a los juicios penales y civiles ante los tribunales del Estado, para hacer que la administración de Justicia sea pronta y expedita; pedir la aplicación de las penas para los infractores de las leyes e intervenir en todos los demás negocios que determinen esta Constitución y las leyes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 72.
 
-La Ley Orgánica de la Procuraduría General de Justicia fijará el número, adscripción y demás deberes y atribuciones de los funcionarios y empleados que integren esta institución.
+Los Subprocuradores serán nombrados y removidos por el Gobernador a propuesta del Procurador, en la forma que determine la Ley.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 73.
 
-La función de Consejero Jurídico del Ejecutivo estará a cargo de la dependencia que para tal efecto establezca la Ley Orgánica de la Administración Pública del Estado.
+La función de Consejero Jurídico del Ejecutivo estará a cargo de la dependencia que para tal efecto establezca la Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 74.
 
-La Defensoría de Oficio proporcionará la defensa necesaria en materia penal, a los procesados que no tengan defensor particular y patrocinará en los asuntos civiles y administrativos a las personas que lo soliciten y acrediten no tener suficientes recursos económicos.
+La Defensoría Pública proporcionará una defensa técnica de calidad en materia penal, a los imputados que no tengan defensor particular y patrocinará en los asuntos civiles y administrativos a las personas que lo soliciten y acrediten no tener suficientes recursos económicos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 75.
 
-La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y deberes inherentes a su organización.
+La Ley fijará las atribuciones y deberes inherentes a la Defensoría Pública, así como su organización.
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -3012,3 +3036,37 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan en lo conducente, todas las disposiciones que se opongan a la presente reforma.
 
 TERCERO.- Córrase el trámite que señala el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, a los Ayuntamientos para que emitan su opinión, en los términos de ley.
+
+P.O. 26 DE DICIEMBRE DE 2008.
+
+DECRETO No. 175, POR EL QUE SE REFORMA EL ARTICULO 7 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+PRIMERO.- Túrnese el presente Decreto a los Ayuntamientos, de conformidad con el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Una vez agotado el proceso legislativo en los términos del Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California y resultando el recuento aprobatorio, las presentes reformas pasarán a formar parte de esta Constitución.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan a esta reforma.
+
+CUARTO.- La .presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 26 DE DICIEMBRE DE 2008.
+
+DECRETO No. 176, POR EL QUE SE REFORMAN Y DEROGAN LOS ARTICULOS 27 49 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+PRIMERO.- Córrase el trámite que señala el artículo 112 de la Constitución Política del Estado, enviándose las presentes reformas a los artículos 27 y 49 de la Constitución Política del Estado a los Ayuntamientos del Estado, para que emitan su opinión en los términos de Ley.
+
+SEGUNDO.- Agotado el trámite y pronunciada la declaratoria señalada en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítanse las presentes reformas a los artículos 27 y 49 de la Constitución Política del Estado de Baja California, artículo 8° de la Ley Orgánica de la Procuraduría General de Justicia del Estado y fracción VI del párrafo Cuarto del artículo 59 y fracción XIII del artículo 62 de la Ley Orgánica del Poder Legislativo del Estado de Baja California, por parte de la Presidencia de este Congreso al Poder Ejecutivo para su publicación.
+
+TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 26 DE DICIEMBRE DE 2008.
+
+DECRETO No. 177, POR EL QUE SE REFORMAN DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Una vez cumplimentado el transitorio anterior, computados los votos de los Ayuntamientos en sentido aprobatorio, las presentes reformas se declararán parte de esta Constitución.
+
+TERCERO.- Inicio de vigencia.- Las presentes reformas entrarán en vigor a las cero horas del día primero del mes de junio del año dos mil nueve, en el Partido Judicial de Mexicali, y en los partidos judiciales de Ensenada, a las cero horas del día primero del mes de junio del dos mil diez, y en los partidos judiciales de Tijuana, Tecate y Playas de Rosarito, a las cero horas del día primero del mes de junio del año dos mil once.
+
+CUARTO.- Las referencias que se hagan en otras disposiciones legales a la Defensoría de Oficio o al Defensor de Oficio, se entenderán hechas a la Defensoría Pública o al Defensor Público respectivamente.
