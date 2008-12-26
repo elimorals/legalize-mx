@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2008-09-30"
+last_updated: "2008-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -739,7 +739,9 @@ IV.- Llevar un registro de criterios parlamentarios y velar por su observancia, 
 
 V.- Desahogar las consultas respecto de la interpretación y aplicación de esta Ley y sus Reglamentos;
 
-VI.- Revisar y proponer al Pleno del Congreso, el dictamen relativo a la designación de los Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal de lo Contencioso Administrativo, del Tribunal de Justicia Electoral, Consejeros de la Judicatura electos por el Congreso, Consejeros Ciudadanos del Consejo Estatal Electoral del Instituto Estatal Electoral, Procurador de Justicia del Estado, Procurador de Derechos Humanos del Estado y demás servidores públicos conforme a la Constitución Local y las Leyes respectivas, que le remita la Comisión de Legislación y Puntos Constitucionales;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2008)</small>
+
+VI.- Revisar y proponer al Pleno del Congreso, el dictamen relativo a la designación de los Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal de lo Contencioso Administrativo, del Tribunal de Justicia Electoral, Consejeros de la Judicatura electos por el Congreso, Consejeros Electorales del Consejo General Electoral del Instituto Electoral y de Participación Ciudadana de (sic) Estado, Procurador de Derechos Humanos del Estado y demás servidores públicos conforme a la Constitución Local y las Leyes respectivas, que le remita al Comisión de Legislación y Puntos Constitucionales;
 
 VII.- Revisar y presentar al Pleno del Congreso, el dictamen relativo a la licencia del Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Electoral, Consejeros de la Judicatura electos por el Congreso y demás servidores públicos conforme a la Constitución Local y las Leyes respectivas, que le remita la Comisión de Legislación y Puntos Constitucionales;
 
@@ -815,9 +817,9 @@ XI.- Sobre la procedencia penal contra los Servidores Públicos del Estado en lo
 
 XII.- La substanciación de los juicios políticos que se instruyan contra los Servidores Públicos de conformidad con el Artículo 27 y 93 de la Constitución Local;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
-XIII.- Remitir a la Comisión de Régimen Interno y Prácticas Parlamentarias, el dictamen respecto a las propuestas de los candidatos a ocupar los cargos de Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal de lo Contencioso Administrativo, del Tribunal de Justicia Electoral, Consejeros de la Judicatura electos por el Congreso del Estado, Consejeros Ciudadanos del Consejo Estatal Electoral del Instituto Estatal Electoral, Procurador General de Justicia del Estado, Procurador de los Derechos Humanos del Estado y demás servidores públicos conforme a la Constitución Local y las Leyes respectivas, previa revisión del cumplimiento de los requisitos señalados en las Leyes;
+XIII.- Remitir a la Comisión de Régimen Interno y Prácticas Parlamentarias, el dictamen respecto a las propuestas de los candidatos a ocupar los cargos de Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal de lo Contencioso Administrativo, del Tribunal de Justicia Electoral, Consejeros de la Judicatura electos por el Congreso del Estado, Consejeros Electorales del Consejo General Electoral del Instituto Electoral y de Participación Ciudadana de (sic) Estado, Procurador de los Derechos Humanos del Estado y demás servidores públicos conforme a la Constitución Local y las Leyes respectivas, previa revisión del cumplimiento de los requisitos señalados en las Leyes;
 
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
@@ -1125,7 +1127,7 @@ ARTICULO 81 BIS.- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
 ARTICULO 81 TER.- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
-ARTICULO 81 QUARTER (SIC) (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
+ARTICULO 81 QUARTER (SIC).- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
@@ -1938,3 +1940,11 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 P.O. 30 DE SEPTIEMBRE DE 2008.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 26 DE DICIEMBRE DE 2008.
+
+PRIMERO.- Córrase el trámite que señala el artículo 112 de la Constitución Política del Estado, enviándose las presentes reformas a los artículos 27 y 49 de la Constitución Política del Estado a los Ayuntamientos del Estado, para que emitan su opinión en los términos de Ley.
+
+SEGUNDO.- Agotado el trámite y pronunciada la declaratoria señalada en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítanse las presentes reformas a los artículos 27 y 49 de la Constitución Política del Estado de Baja California, artículo 8° de la Ley Orgánica de la Procuraduría General de Justicia del Estado y fracción VI del párrafo Cuarto del artículo 59 y fracción XIII del artículo 62 de la Ley Orgánica del Poder Legislativo del Estado de Baja California, por parte de la Presidencia de este Congreso al Poder Ejecutivo para su publicación.
+
+TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
