@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2008-12-08"
+last_updated: "2008-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY QUE REGULA LA OPERACION Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACION, ENVASAMIENTO, DISTRIBUCION, ALMACENAMIENTO, TRANSPORTACION, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHOLICO EN EL ESTADO DE SONORA
 
-LEY QUE REGULA LA OPERACION Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACION, ENVASAMIENTO, DISTRIBUCION, ALMACENAMIENTO, TRANSPORTACION, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHOLICO EN EL ESTADO DE SONORA
+LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -85,7 +85,7 @@ En la presente Ley, a las bebidas señaladas en las fracciones VI, VII y VIII qu
 
 En ningún caso y de ninguna forma se podrá expender o suministrar las bebidas descritas en el Artículo anterior a menores de 18 años.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 4º.
 
@@ -351,9 +351,25 @@ XII.- Las demás que se desprendan de la presente Ley.
 
 No se podrá vender o consumir bebidas con contenido alcohólico en los establecimientos o lugares a que se refiere el artículo 10 de esta Ley, si debiendo estar empadronado el titular de la licencia en las oficinas fiscales no ha cumplido con este requisito.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 22.
 
-Se prohíbe estrictamente la venta y consumo de bebidas con contenido alcohólico en las vías, parques y plazas públicas, en el interior y exterior de unidades y centros deportivos públicos, en el interior de los planteles educativos de todo nivel académico, templos, cementerios, teatros, carpas, circos, cinematógrafos, ferias o kermesses infantiles, en los establecimientos de readaptación social, edificios públicos, en los hospitales, salvo en caso de prescripción médica, en los lugares que señalen las leyes federales agrarias o del trabajo o en cualquier otro lugar que establezcan las leyes y el reglamento de esta Ley, así como la venta o consumo de bebidas con contenido alcohólico en vehículos en circulación o estacionados en las plazas, parques y vías públicas.
+Se prohíbe estrictamente la venta y consumo de bebidas con contenido alcohólico:
+
+I.- En las vías, parques y plazas públicas, salvo permiso especial que expida la autoridad competente;
+
+II.- En el interior y exterior de unidades y centros deportivos públicos, salvo permiso especial que expida la autoridad competente;
+
+III.- En el interior de instituciones de educación básica, media superior o superior, templos, cementerios, teatros, carpas, circos, cinematógrafos, ferias o kermesses infantiles, establecimientos de readaptación social, edificios públicos, hospitales, salvo en caso de prescripción médica;
+
+IV.- En las inmediaciones de instituciones de educación básica, media superior o superior, dentro del horario escolar o durante los sesenta minutos anteriores a la hora de entrada o posteriores a la de salida de los alumnos. Se entiende por inmediaciones en las instituciones de educación básica, media superior o superior, la distancia de cien metros contados a partir del perímetro de las instituciones referidas;
+
+V.- En los lugares que señalen las leyes federales agrarias o del trabajo;
+
+VI.- En vehículos en circulación o estacionados en las plazas, parques y vías públicas, o
+
+VII.- En cualquier otro lugar que establezcan las leyes y el reglamento de esta Ley.
 
 Independientemente de las sanciones previstas en el artículo 82 de esta Ley, las autoridades de policía y tránsito municipales quedan facultados para aplicar las sanciones correspondientes a los supuestos previstos en este artículo conforme a las disposiciones de la Ley de Tránsito del Estado y de las reglamentarias del Ayuntamiento respectivo, debiendo, además, hacer del conocimiento inmediato del Ministerio Público que corresponda, los casos en que exista evidencia de que se comete el delito de conducción punible previsto en el Código Penal del Estado.
 
@@ -715,7 +731,7 @@ A la solicitud mencionada en el artículo anterior se acompañarán los document
 
 El Ejecutivo, por conducto de la Secretaría, autorizará el cambio si el solicitante ha cumplido con lo establecido dispuesto (sic) en esta Ley y el Comité de Evaluación de Trámites y Licencias ha emitido opinión favorable en ese sentido.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 12 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE ABRIL DE 2007)</small>
 
 ###### Artículo 62.
 
@@ -1275,7 +1291,7 @@ COMUNÍQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACIÓN EN EL BOLETÍN 
 
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS VEINTIUN DIAS DEL ME S DE DICIEMBRE DEL AÑO DOS MIL CUATRO.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- ROBERTO RUIBAL ASTIAZARAN.- RUBRICA.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 30 DE JUNIO DE 2005.
 
@@ -1298,3 +1314,9 @@ B.O. 8 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 26 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
