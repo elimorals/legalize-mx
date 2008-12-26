@@ -4,7 +4,7 @@ identifier: "SON-codigo-fiscal-del-estado-de-sonora-16554"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-06-12"
-last_updated: "2007-12-17"
+last_updated: "2008-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO FISCAL DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE DICIEMBRE DE 2008.
 
 Código publicado en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de junio del 2000.
 
@@ -133,7 +133,11 @@ Cuando los plazos se fijen por mes o por año, sin especificar que sean de calen
 
 En los plazos que se fijen por mes o por año cuando no exista el mismo día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario.
 
-No obstante lo dispuesto en los párrafos anteriores, si el último día del plazo o en la fecha determinada, las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores o se trate de un día inhábil, se prorrogará el plazo hasta el siguiente día hábil. Lo dispuesto en este artículo es aplicable, inclusive cuando se autorice a las instituciones de crédito para recibir declaraciones. También se prorrogará el plazo hasta el siguiente día hábil, cuando sea viernes el último día del plazo en que se deba presentar la declaración respectiva, ante las instituciones de crédito autorizadas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+No obstante lo dispuesto en los párrafos anteriores, si el último día del plazo o en la fecha determinada, las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores o se trate de un día inhábil, se prorrogará el plazo hasta el siguiente día hábil. Lo dispuesto en este artículo es aplicable, inclusive cuando se autorice a las instituciones de crédito para recibir declaraciones.
 
 Las autoridades fiscales podrán habilitar los días inhábiles. Esta circunstancia deberá comunicarse a los particulares y no alterará el cálculo de plazos.
 
@@ -261,7 +265,27 @@ En el caso de contribuciones que se deben pagar mediante retención, aún cuando
 
 Quien haga el pago de créditos fiscales deberá obtener de la oficina recaudadora, la forma oficial el recibo oficial o la forma valorada, expedidos y controlados exclusivamente por la Secretaría de Hacienda o la documentación que en las disposiciones respectivas se establezca en la que conste la impresión original de la máquina registradora. Tratándose de pagos realizados con cheques de cuentas personales de los contribuyentes dichos documentos se expedirán una vez que se haga efectivo el cheque.
 
-Tratándose de los pagos efectuados en las oficinas de las instituciones de crédito, se deberá obtener la impresión de la maquina registradora, el sello, la constancia o el acuse de recibo correspondiente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+Cuando los pagos se efectúen en las oficinas de las instituciones de crédito, deberá recabarse previamente en la oficina recaudadora o en los medios electrónicos, el pase de caja que deberá contener la línea de captura para la institución receptora del pago. El comprobante, constancia o acuse de recibo emitido por la institución de crédito autorizada deberá contener la impresión de la ráfaga electrónica del sistema, sello y firma del cajero. Juntos ambos documentos tendrán validez de recibo oficial de pago.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+La autoridad fiscal podrá enviar estados de cuenta de las contribuciones a cargo de los contribuyentes a su domicilio fiscal, los cuales tendrán el carácter de pase de caja para los efectos señalados en el párrafo anterior.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+Tratándose de pagos efectuados en medios electrónicos, el comprobante de pago que el propio sistema emita conjuntamente con la impresión del pase de caja correspondiente, tendrá validez de recibo oficial de pago.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
 Cuando las disposiciones fiscales establezcan opciones a los contribuyentes para el cumplimiento de las obligaciones a su cargo, la elegida por el contribuyente no podrá variarla respecto al mismo ejercicio.
 
@@ -326,6 +350,12 @@ Quien promueva a nombre de otro deberá acreditar que la representación le fue 
 ###### ARTÍCULO 24.
 
 Se considera sujeto pasivo de un crédito fiscal a la persona física o moral, mexicana o extranjera que de conformidad con las disposiciones fiscales, se encuentra obligada al pago de una prestación determinada al Fisco Estatal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 24 BIS.- La Administración Pública Estatal, Centralizada y Paraestatal, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública, con las personas físicas o morales que no se encuentren al corriente en el cumplimiento de sus obligaciones fiscales, salvo que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar.
 
 ###### ARTÍCULO 25.
 
@@ -1199,9 +1229,13 @@ II.- La omisión haya sido corregida por el contribuyente después de que las au
 
 Siempre que se omita el pago de una contribución cuya determinación corresponda a los funcionarios o empleados públicos o a los notarios o corredores titulados, los accesorios serán, a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de los contribuyentes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 85.
 
-La Secretaría de Finanzas podrá condonar las multas por infracción a las disposiciones fiscales, inclusive las determinadas por el propio contribuyente, para lo cual apreciará discrecionalmente las circunstancias del caso y, en su caso, los motivos que tuvo la autoridad que impuso la sanción.
+La Secretaría de Hacienda podrá condonar total o parcialmente las multas por infracción a las disposiciones fiscales, inclusive las determinadas por el propio contribuyente, para lo cual apreciará discrecionalmente las circunstancias del caso, así como los motivos que tuvo la autoridad que impuso la sanción.
 
 La solicitud de condonación de multas en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas al respecto no podrán ser impugnadas por los medios de defensa que establece este Código.
 
@@ -2043,7 +2077,25 @@ La declaratoria de prescripción de los créditos fiscales podrá realizarse de 
 
 Cuando se suspende el procedimiento administrativo de ejecución en los términos del artículo 133 de este Código, también se suspenderá el plazo de la prescripción.
 
-La cancelación de créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios, no libera de su pago.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO QUINTO PARRAFO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 146 BIS.- La Secretaría de Hacienda podrá cancelar créditos fiscales por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios.
+
+Se considerarán créditos de cobro incosteable, aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a 400 unidades de inversión, aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a 20,000 unidades de inversión y cuyo costo de recuperación rebase el 75% del importe del crédito, así como aquellos cuyo costo de recuperación sea igual o mayor a su importe.
+
+Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran realizado, cuando no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
+
+Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si se cumplen los requisitos señalados. Los importes a que se refiere el segundo párrafo de este artículo, se determinarán de conformidad con las disposiciones aplicables.
+
+La Secretaría de Hacienda expedirá Reglas de Carácter General para la aplicación de este artículo. En tanto se emitan las citadas Reglas, se aplicará supletoriamente el Acuerdo por el que se establecen Reglas de Carácter General para la cancelación de créditos fiscales a favor de la Federación, conforme a lo previsto en el artículo 146-A del Código Fiscal de la Federación.
+
+La cancelación de los créditos a que se refiere este artículo no libera de su pago.
 
 ###### ARTÍCULO 147.
 
@@ -2313,19 +2365,35 @@ VI.- Cuando del dictamen rendido por el perito del embargado o terceros acreedor
 
 VII.- En todos los casos a que se refieren las fracciones que anteceden, los peritos deberán rendir su dictamen en un plazo de 10 días si se trata de bienes muebles, 20 días si son inmuebles y 30 días cuando sean negociaciones, a partir de la fecha de su aceptación.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 176.
 
-El remate deberá ser convocado para una fecha fijada dentro de los treinta días siguientes a la determinación del precio que deberá servir de base. La publicación de la convocatoria se hará cuando menos diez días antes de la fecha del remate.
+El remate deberá ser convocado para una fecha fijada dentro de los treinta días siguientes a la determinación del precio que deberá servir de base. La publicación de la convocatoria se hará cuando menos diecisiete días antes del inicio del periodo señalado para el remate.
 
-La convocatoria se fijara en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue convenientes.
+La convocatoria se fijará en el sitio visible y usual de la autoridad ejecutora y en los lugares públicos que se juzgue conveniente; asimismo se dará a conocer en la página electrónica de la Secretaría de Hacienda.
 
-Cuando el valor de los bienes muebles o inmuebles exceda de $20,000.00, la convocatoria se publicará en el Boletín Oficial del Estado y en el diario local de mayor circulación si lo hubiere, dos veces con intermedio de siete días. En todo caso, a petición del deudor y previo pago del costo, la autoridad ejecutora podrá ordenar una publicación más amplia, dentro del plazo señalado en el primer párrafo de este artículo.
+Cuando el valor de los bienes muebles e inmuebles exceda de $20,000.00, la convocatoria se publicará por una sola vez en el diario local de mayor circulación.
+
+En la convocatoria se darán a conocer los bienes objeto del remate, el valor que servirá de base para su enajenación, así como los requisitos que deberán cumplir los postores para concurrir al mismo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 176 BIS.- La subasta tendrá una duración de 15 días que empezará a partir de las 12:00 horas del primer día y concluirá a las 12:00 horas del decimoquinto día. En dicho periodo los postores presentarán sus posturas y podrán mejorar las propuestas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 177.
 
-Los acreedores que aparezcan en el certificado de gravámenes correspondientes a los últimos diez años, que deberá obtenerse oportunamente, serán citados para el acto del remate y en caso de no ser factibles por alguna de las causas a que se refiere la fracción IV del artículo 125, se tendrá como citación la que se haga en las convocatorias en que se anuncie el remate, en las que deberá expresarse el nombre de los acreedores.
+Los acreedores que aparezcan en el certificado de gravámenes correspondientes a los últimos diez años, el cual deberá obtenerse oportunamente, serán notificados personalmente del periodo de remate señalado en la convocatoria y en caso de no ser factible por alguna de las causas a que se refiere la fracción IV del artículo 125, se tendrán como notificados de la fecha en que se efectuará el remate, en aquella en que la convocatoria se haya fijado en sitio visible de la oficina ejecutora, siempre que en dicha convocatoria se exprese el nombre de los acreedores.
 
-Los acreedores mencionados en el párrafo anterior, tendrán derecho a concurrir al remate y hacer las observaciones que estimen del caso, las cuales serán resueltas por la respectiva oficina en el acto de la diligencia.
+Los acreedores mencionados en el párrafo anterior, tendrán derecho a concurrir al remate y hacer las observaciones que estimen del caso, las cuales serán resueltas por la respectiva autoridad ejecutora en el acto de la diligencia.
 
 ###### ARTÍCULO 178.
 
@@ -2335,11 +2403,17 @@ Mientras no se finque el remate, el deudor puede hacer el pago de las cantidades
 
 Es postura legal la que cubra las dos terceras partes del valor señalado como base para remate.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 180.
 
-En toda postura deberá ofrecerse de contado como mínimo, la parte suficiente para cubrir el interés fiscal, si este es superado por la base fijada para la enajenación, y la diferencia podrá reconocerse en favor del deudor ejecutado, con los intereses correspondientes, hasta por un año del plazo si la cantidad es menor de diez mil pesos, y hasta por un plazo de dos años de esa suma en adelante.
+En toda postura deberá ofrecerse de contado como mínimo, la parte suficiente para cubrir el interés fiscal, si este es superado por la base fijada para el remate, se procederá en los términos del artículo 195 de este Código.
 
-Los bienes, fracción o lote de bienes, cuya base para la venta sea igual o inferior al interés fiscal, solo podrán rematarse de contado.
+Los bienes, fracción o lote de bienes, cuya base para la venta sea igual o inferior al interés fiscal, sólo podrán rematarse de contado.
+
+La autoridad recaudadora podrá enajenar a plazos los bienes embargados cuando no haya postura para adquirirse de contado y siempre que el comprador garantice el saldo del adeudo más los intereses que correspondan en alguna de las formas señaladas en el artículo 130 de este Código. Durante los plazos concedidos se causarán intereses iguales a los recargos exigibles para el caso de pago a plazo de los créditos fiscales.
 
 ###### ARTÍCULO 181.
 
@@ -2347,9 +2421,13 @@ Al escrito en que se haga la postura se acompañará necesariamente un certifica
 
 El importe de los depósitos que se constituyan de acuerdo con lo que establece el presente artículo, servirá de garantía para el cumplimiento de las obligaciones que contraigan los postores por las adjudicaciones que se les hagan de los bienes rematados. Inmediatamente después de fincado el remate previa orden de la oficina ejecutora, se devolverán los certificados de depósito a los postores, excepto el que corresponde al postor admitido, cuyo valor continuará como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de enajenación.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 182.
 
-Cuando el postor en cuyo favor se hubiere fincado un remate no cumpla con las obligaciones que contraiga y las que este Código le señala, perderá el importe del depósito que hubiere constituido y se aplicará de plano, por las oficinas ejecutoras a favor del gobierno estatal. En este caso se reanudarán las almonedas en la forma y plazos que señalan los artículos respectivos.
+Cuando el postor en cuyo favor se hubiere fincado un remate no cumpla con las obligaciones que contraiga y las que este Código le señala, perderá el importe del depósito que hubiere constituido y la autoridad ejecutora lo aplicará de inmediato a favor del gobierno estatal.
 
 ###### ARTÍCULO 183.
 
@@ -2369,15 +2447,27 @@ El jefe de la oficina ejecutora fincará el remate en favor de quien hubiere hec
 
 Si en la última postura se ofrece igual suma de contado, por dos o más licitantes, se designará por suerte la que deba aceptarse, salvo lo dispuesto en la fracción III del artículo 192.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 185.
 
-Fincado el remate de bienes muebles se aplicara el depósito constituido. Dentro de los tres días siguientes a la fecha del remate, el postor enterará en la caja de la oficina ejecutora el saldo de la cantidad de contado ofrecido en su postura o la que resulte de las mejoras, y constituirá las garantías a que se hubiere obligado por la parte del precio que quedare adeudado. Tan pronto como el postor cumpla con los requisitos a que se refiere el párrafo anterior y el remate sea aprobado por la Secretaría de Finanzas, si este requisito fuere necesario conforme al artículo siguiente, la oficina ejecutora citará al contribuyente para que, dentro de un plazo de tres días hábiles, entregue las facturas o documentación comprobatoria de la enajenación de los mismos, la cual deberá expedirla cumpliendo, en lo conducente, con los requisitos a que se refieren las disposiciones fiscales federales respectivas, apercibido de que si no lo hace, la autoridad ejecutora emitirá el documento correspondiente en su rebeldía.
+Fincado el remate de bienes muebles se aplicará el depósito constituido. Dentro de los tres días siguientes a la fecha del remate, el postor enterará en la caja de la oficina ejecutora el saldo de la cantidad de contado ofrecido en su postura o la que resulte de las mejoras, y constituirá las garantías a que se hubiere obligado por la parte del precio que quedare adeudado.
+
+Tan pronto como el postor cumpla con los requisitos a que se refiere el párrafo anterior y el remate sea aprobado por el Subsecretario de Ingresos, si este requisito fuere necesario conforme al artículo siguiente, la oficina ejecutora citará al contribuyente para que, dentro de un plazo de tres días hábiles, entregue las facturas o documentación comprobatoria de la enajenación de los mismos, la cual deberá expedir cumpliendo, en lo conducente, con los requisitos a que se refiere el artículo 29-A del Código Fiscal de la Federación, apercibido de que si no lo hace, la autoridad ejecutora emitirá el documento correspondiente en su rebeldía.
 
 Posteriormente, la autoridad deberá entregar al adquirente, conjuntamente con estos documentos, los bienes que le hubiere adjudicado.
 
+Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la autoridad los ponga a su disposición.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 186.
 
-Si los bienes rematados fueran inmuebles o muebles cuyo valor exceda de $ 5000.00, la oficina ejecutora dentro de un plazo de cinco días, enviará el expediente a la Secretaría de Finanzas, para que previa revisión y de considerarlo procedente, apruebe el remate si el procedimiento se apega a las normas que lo rigen. Si la resolución es negativa, el fincamiento que haya hecho la oficina ejecutora quedará sin efecto y el postor solo tendrá derecho a que se le devuelva él deposito que hubiere constituido.
+Si los bienes rematados fueran inmuebles o muebles cuyo valor exceda de $ 5,000.00, la autoridad ejecutora dentro de un plazo de cinco días, enviará el expediente al Subsecretario de Ingresos, para que previa revisión y de considerarlo procedente, apruebe el remate si el procedimiento se apega a las normas que lo rigen. Si la resolución es negativa, el fincamiento que haya hecho la autoridad ejecutora quedará sin efecto y el postor solo tendrá derecho a que se le devuelva el depósito que hubiere constituido.
 
 Aprobado el remate de bienes inmuebles se le comunicará al postor para que, dentro del plazo de diez días, entere en la caja de la oficina ejecutora la cantidad de contado ofrecida en su postura aceptada.
 
@@ -2398,6 +2488,16 @@ Los directores o encargados del Registro Público de la Propiedad deberán inscr
 Tan luego como hubiere otorgado y firmado la escritura en que conste la adjudicación de un inmueble, el jefe de la oficina ejecutora dispondrá que se entregue al adquiriente, dando las ordenes necesarias, aun las de desocupación, si estuviere habitado por el deudor o por terceros que no tuvieren contrato para acreditar el uso en los términos que establece el Código Civil.
 
 Si el adquiriente lo solicita, se le dará a conocer como dueño del inmueble a las personas que designe.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 188 BIS.- En el caso en que los bienes rematados no puedan ser entregados al postor a cuyo favor se hubiera fincado el remate en la fecha en que éste lo solicite por existir impedimento jurídico debidamente fundado para ello, el postor, en un plazo de seis meses contado a partir de la fecha en que solicite la entrega de los bienes, podrá solicitar a la autoridad fiscal la devolución del monto pagado por la adquisición de dichos bienes. La autoridad devolverá la cantidad respectiva en un plazo de dos meses contado a partir de la fecha en que se efectúe la solicitud. Si dentro de este último plazo cesa la causa por la cual la autoridad fiscal se vio imposibilitada para efectuar la entrega de los bienes rematados, se procederá a la entrega de los mismos en lugar de devolver al postor las cantidades pagadas por esos bienes.
+
+Transcurrido el plazo de seis meses a que se refiere el párrafo anterior, sin que el postor solicite a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes, el importe de la postura causará abandono a favor del gobierno estatal dentro de dos meses contados a partir de la fecha en que concluya el plazo antes citado y se estará a lo dispuesto en el artículo 195 de este Código.
+
+En el caso en que la autoridad fiscal entregue las cantidades pagadas por la adquisición de los bienes rematados, se dejará sin efecto el remate efectuado. Si con posterioridad a la entrega de las cantidades señaladas anteriormente cesa la causa por la cual la autoridad fiscal se vio imposibilitada jurídicamente para efectuar la entrega de los bienes rematados, ésta deberá iniciar nuevamente el procedimiento establecido en esta Sección para enajenar los mismos, dentro de los quince días siguientes a aquél en que haya cesado el impedimento o se cuente con resolución firme que permita hacerlo.
 
 ###### ARTÍCULO 189.
 
@@ -2429,47 +2529,103 @@ Cuando hubiere varios créditos, la aplicación se hará por orden de antigüeda
 
 Si hubiere otros acreedores, los derechos del fisco estatal se determinarán de acuerdo con la prelación que establece el artículo 148.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 192.
 
-El fisco estatal tendrá preferencia para adjudicarse, en cualquiera almoneda, los bienes ofrecidos en remate:
+El fisco estatal tendrá preferencia para adjudicarse los bienes ofrecidos en remate, en los siguientes casos:
 
-I.- A falta de postores, por la base de la postura legal que habría de servir para la almoneda siguiente;
+I.- A falta de postores.
 
-II.- A falta de pujas, por la base de la postura legal no mejorada;
+II.- A falta de posturas o pujas.
 
-III.- En caso de posturas o pujas iguales, por la cantidad en que se haya producido el empate; y,
+III.- En caso de posturas o pujas iguales, por la cantidad en que se haya producido el empate.
 
-IV.- Hasta por el monto del adeudo si este no excede de la cantidad en que deba fincarse el remate en la tercera almoneda, de acuerdo con lo estipulado en la parte final del artículo siguiente.
+La adjudicación regulada en este artículo, solo será válida si es aprobada por el Subsecretario de Ingresos de la propia Secretaría.
 
-La adjudicación regulada en este artículo, solo será válida si es aprobada por el Secretario de Finanzas o el Subsecretario de Ingresos de la propia Secretaría.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 193.
 
-Cuando no se hubiere fincado el remate en la primera almoneda, se fijará nueva fecha y hora para que, dentro de los quince días siguientes, se lleve a cabo una segunda almoneda, cuya convocatoria se hará en los términos del artículo 176 con la salvedad de que la publicación se hará por una sola vez.
+Cuando no hubiera postores o no se hubieran presentado posturas legales, la autoridad se adjudicará el bien. En este caso el valor de la adjudicación será el 60% del valor de avalúo.
 
-La base para el remate en la segunda almoneda se determinará deduciendo un 20% de la señalada para la primera.
+Los bienes que se adjudiquen a favor del fisco estatal, podrán ser donados por la autoridad correspondiente, para obras o servicios públicos, o a instituciones asistenciales o de beneficencia autorizadas para recibir donativos deducibles del impuesto sobre la renta.
 
-Si tampoco se fincare el remate en la segunda almoneda, se convocará a una tercera, conforme a las mismas reglas que la segunda. La base para el remate en tercera almoneda será fijada deduciendo un 20% a la de la segunda.
+La adjudicación se tendrá por formalizada una vez que la autoridad ejecutora firme el acta de adjudicación correspondiente.
+
+Cuando la traslación de bienes se deba inscribir en el Registro Público de la Propiedad, el acta de adjudicación debidamente firmada por la autoridad ejecutora tendrá el carácter de escritura pública y será el documento público que se considerará como testimonio de escritura para los efectos de inscripción en dicho Registro.
+
+Para los efectos de la Ley de Ingresos del Estado, los ingresos obtenidos por la adjudicación se registrarán hasta el momento en el que se tenga por formalizada la adjudicación.
+
+El registro a que se refiere el párrafo anterior se realizará disminuyendo de las cantidades a que alude dicho párrafo, según corresponda, los gastos de administración y mantenimiento, así como las erogaciones extraordinarias en que hubiesen incurrido las autoridades fiscales, durante el periodo comprendido desde que se practicó el embargo y hasta su adjudicación, y el excedente que corresponda devolver al deudor de conformidad con lo establecido en la fracción I del artículo 195 de este Código.
+
+Una vez aplicado el producto obtenido por la adjudicación, en los términos del artículo 190 de este Código, el saldo que, en su caso quede pendiente a cargo del contribuyente, se registrará como crédito incobrable.
+
+Los bienes adjudicados por las autoridades fiscales de conformidad con lo dispuesto en este artículo, serán considerados, para todos los efectos legales, como bienes no sujetos al régimen del dominio público del Estado, hasta en tanto sean destinados o donados para obras o servicios públicos en los términos de este artículo.
+
+Las adjudicaciones tendrán la naturaleza de dación en pago.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 194.
 
-Las oficinas ejecutoras podrán efectuar enajenaciones fuera de subasta en los siguientes supuestos:
+Las autoridades ejecutoras podrán efectuar enajenaciones fuera de remate en los siguientes supuestos:
 
-I.- tratándose de bienes de fácil descomposición o deterioro; materias inflamables y semovientes.
+I.- El embargado proponga comprador antes del día en que se finque el remate o se adjudiquen los bienes a favor del fisco, siempre que el precio en que se vendan cubra el valor que se haya señalado a los bienes embargados.
 
-En estos casos la enajenación podrá efectuarse cuando se cubra como mínimo el 50% del crédito fiscal, incluyendo los accesorios legales correspondientes. De no obtenerse esta cantidad, se procederá a la destrucción de bienes;
+II.- Se trate de bienes de fácil descomposición o deterioro, o de materiales inflamables, siempre que en la localidad no se puedan guardar o depositar en lugares apropiados para su conservación.
 
-II.- Cuando se trate de bienes inmuebles o de bienes muebles que habiendo salido a subasta por los menos en dos almonedas y no se hubieren presentado postores, las oficinas ejecutoras solicitarán de la Secretaría de Finanzas, autorización para su enajenación al mejor postor; y,
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- También procederá la enajenación fuera de subasta, cuando antes del día en que se finque el remate el embargado proponga comprador y la autoridad ejecutora acepte el precio que dicho adquiriente proponga, siempre que lo que se pague de contado cubra cuando menos el 90% de la totalidad de los créditos fiscales.
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 195.
 
-Cuando existan excedentes después de haberse cubierto el crédito, se entregarán al deudor, salvo que medie orden de autoridad competente o que el propio deudor acepte por escrito que se haga entrega total o parcial del saldo a un tercero.
+Cuando existan excedentes del producto obtenido del remate o adjudicación de los bienes al fisco estatal después de haberse cubierto el crédito, se entregarán al deudor salvo que medie orden de autoridad competente o que el propio deudor acepte por escrito que se haga la entrega total o parcial del saldo a un tercero, con las siguientes modalidades:
 
-Una vez transcurridos dos años a partir de la fecha en que los excedentes estén a disposición del contribuyente, sin que éste los retire, pasarán a propiedad del fisco estatal. Se entenderá que el excedente se encuentra a disposición del interesado, a partir del día siguiente a aquel en que se le notifique personalmente la resolución correspondiente.
+I.- Tratándose de bienes que la autoridad se haya adjudicado, al producto obtenido por la adjudicación se aplicará el monto del crédito fiscal más sus accesorios, así como el monto de los gastos de administración y mantenimiento en que la autoridad haya incurrido. El remanente del producto mencionado será el excedente que se devuelva al contribuyente.
 
-En caso de conflicto, el remanente se depositará en institución de crédito autorizada en tanto resuelven las autoridades competentes.
+II.- Cuando se lleve a cabo la adjudicación por remate, el producto obtenido se aplicará en los términos de lo dispuesto en el artículo 190 de este Código, así como a recuperar los gastos de administración y mantenimiento. El remanente del producto mencionado será el excedente que se devolverá al contribuyente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 195 BIS.- Causarán abandono a favor del gobierno estatal los bienes embargados por las autoridades fiscales, en los siguientes casos:
+
+I.- Cuando habiendo sido enajenados o adjudicados los bienes al adquirente no se retiren del lugar en que se encuentren, dentro de dos meses contados a partir de la fecha en que se pongan a su disposición.
+
+II.- Cuando el embargado efectúe el pago del crédito fiscal u obtenga resolución o sentencia favorable que ordene su devolución derivada de la interposición de algún medio de defensa antes de que se hubieran rematado, enajenado o adjudicado los bienes y no los retire del lugar en que se encuentren dentro de dos meses contados a partir de la fecha en que se pongan a disposición del interesado.
+
+III.- Se trate de bienes muebles que no hubieren sido rematados después de transcurridos dieciocho meses de practicado el embargo y respecto de los cuales no se hubiere interpuesto ningún medio de defensa.
+
+IV.- Se trate de bienes que por cualquier circunstancia se encuentren en depósito o en poder de la autoridad y los propietarios de los mismos no los retiren dentro de dos meses contados a partir de la fecha en que se pongan a su disposición.
+
+Se entenderá que los bienes se encuentran a disposición del interesado, a partir del día siguiente a aquél en que se le notifique la resolución correspondiente.
+
+Cuando los bienes embargados hubieran causado abandono, las autoridades fiscales notificarán personalmente o por correo certificado con acuse de recibo a los propietarios de los mismos, que ha transcurrido el plazo de abandono y que cuentan con quince días para retirar los bienes. En los casos en que no se hubiera señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará a través de estrados.
+
+Los bienes que pasen a propiedad del Fisco Estatal conforme a este artículo, podrán ser enajenados o donarse para obras o servicios públicos, o a instituciones asistenciales o de beneficencia autorizadas para recibir donativos deducibles del impuesto sobre la renta.
+
+El producto de la venta se destinará a pagar los cargos originados por el manejo, almacenaje, custodia y gastos de venta de los citados bienes en los términos que mediante reglas establezca la Secretaría de Hacienda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 195 BIS A.- Los plazos de abandono a que se refiere el artículo 195 BIS de este Código se interrumpirán:
+
+I.- Por la interposición del recurso administrativo o la presentación de la demanda en el juicio que proceda.
+
+El recurso o la demanda sólo interrumpirán los plazos de que se trata, cuando la resolución definitiva que recaiga no confirme, en todo o en parte, la que se impugnó.
+
+II.- Por consulta entre autoridades, si de dicha consulta depende la entrega de los bienes a los interesados.
 
 ## TITULO SEXTO. DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 
@@ -3150,3 +3306,9 @@ El artículo tercero del presente decreto entrará en vigor el día siguiente al
 ###### ARTÍCULO SEGUNDO.
 
 El próximo canje de placas para vehículos de propulsión mecánica deberá efectuarse en el ejercicio fiscal de 2008 y así sucesivamente en los trienios posteriores.
+
+B.O. 26 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del 1° de enero de 2009, previa su publicación en el Boletín Oficial del Gobierno del Estado.
