@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-de-acceso-a-la-61959"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-22"
-last_updated: "2008-07-22"
+last_updated: "2008-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61959&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2008-07-09"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 26 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 22 de julio de 2008.
 
@@ -833,3 +835,17 @@ I. Cualquiera de los Comisionados Ciudadanos podrá presentar propuestas de refo
 II. El Pleno del Instituto determinará lo conducente ya sea rechazando, aprobando, o modificando, la propuesta de reforma planteada, y
 
 III. Aprobada la modificación, quedará incorporada de inmediato al texto del Reglamento, debiendo ordenarse su publicación en la Gaceta Oficial del Distrito Federal.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 26 DE DICIEMBRE DE 2008.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO EMITIDOS POR EL PLENO DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL.
+
+PRIMERO. Se aprueba el Reglamento Interior del Instituto de Acceso a la Información Pública del Distrito Federal, conforme al documento que como anexo forma parte del presente Acuerdo.
+
+SEGUNDO. Se abroga el Acuerdo 312/SO/09-07/2008, de fecha nueve de julio de dos mil ocho, aprobado por el Pleno del Instituto de Acceso a la Información Pública del Distrito Federal.
+
+TERCERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+CUARTO. Se instruye al Secretario Técnico para que realice las acciones necesarias para la publicación del presente acuerdo en la Gaceta Oficial del Distrito Federal, en el Portal de Internet y en los estrados del INFODF, respectivamente.
