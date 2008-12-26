@@ -4,7 +4,7 @@ identifier: "LFISAN"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-30"
-last_updated: "2008-07-02"
+last_updated: "2008-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9238&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2006.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 2 DE JULIO DE 2008.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 26 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 1996.
 
@@ -176,17 +176,17 @@ No se pagará el impuesto establecido en esta Ley, en los siguientes casos:
 
 I.- En la exportación de automóviles con carácter definitivo, en los términos de la legislación aduanera.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 15 DE LA PRIMERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 2 DE JULIO DE 2008.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 15 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 26 DE DICIEMBRE DE 2008.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-II. En la enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos, cuyo precio de enajenación, incluyendo el equipo opcional, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones no exceda de la cantidad de $162,255.49. En el precio mencionado no se considerará el impuesto al valor agregado.
+II. En la enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos, cuyo precio de enajenación, incluyendo el equipo opcional, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones no exceda de la cantidad de $172,364.01. En el precio mencionado no se considerará el impuesto al valor agregado.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 15 DE LA PRIMERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 2 DE JULIO DE 2008.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 15 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 26 DE DICIEMBRE DE 2008.</small>
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-Tratándose de automóviles cuyo precio de enajenación se encuentre comprendido entre $162,255.50 y hasta $205,523.62, la exención será del cincuenta por ciento del pago del impuesto que establece esta Ley. Lo dispuesto en este párrafo y en el anterior, también se aplicará a la importación de automóviles.
+Tratándose de automóviles cuyo precio de enajenación se encuentre comprendido entre $172,364.02 y hasta $218,327.74, la exención será del cincuenta por ciento del pago del impuesto que establece esta Ley. Lo dispuesto en este párrafo y en el anterior, también se aplicará a la importación de automóviles.
 
 El precio a que se refiere el párrafo anterior, se actualizará en el mes de enero de cada año, aplicando el factor correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquel por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación dentro de los tres primeros días de enero de cada año.
 
@@ -645,3 +645,83 @@ G. Código de claves vehiculares
 Atentamente
 
 México, D.F., a 20 de junio de 2008.- El Jefe del Servicio de Administración Tributaria, José María Zubiría Maqueo.- Rúbrica.
+
+D.O.F. 26 DE DICIEMBRE DE 2008.
+
+Primero. La presente Resolución entrará en vigor al día siguiente de su publicación, excepto la modificación al Glosario en su numeral 23, las reformas a las reglas I.12.1.; I.12.2.; I.12.3.; I.12.4.; I.12.5.; I.12.6.; I.12.7.; I.12.8 del Libro primero y II.12.1., del Libro segundo; así como la derogación de las reglas II.12.2. y II.12.3. del Libro segundo, las cuales entrarán en vigor el 1 de enero de 2009.
+
+Segundo. Para los efectos de la regla II.11.2., primer párrafo, el aviso respecto de la información correspondiente al segundo semestre de 2008, se podrá presentar a más tardar el 31 de diciembre de 2008 y respecto de la información correspondiente al primer semestre de 2009, se podrá presentar a más tardar el 31 de marzo de 2009.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LAS MODIFICACIONES AL ANEXO 15 DE LA RESOLUCION MISCELANEA FISCAL PARA 2008.</small>
+
+Modificación al Anexo 15 de la Resolución Miscelánea Fiscal para 2008
+
+Contenido
+
+Impuesto sobre Tenencia o Uso de Vehículos
+
+A…
+
+B…
+
+C. Tarifas del impuesto sobre tenencia o uso de aeronaves de año modelo anterior a 2000.
+
+D. Tarifa para determinar la tasa del impuesto sobre automóviles nuevos para el año 2009.
+
+E. Cantidades para aeronaves y helicópteros nuevos para el año 2009.
+
+F. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2009.
+
+G. Código de Claves Vehiculares:
+
+1. Autorizadas.
+
+2. Canceladas.
+
+A, B…
+
+C. Tarifas del impuesto sobre tenencia o uso de aeronaves de año modelo anterior a 2000.
+
+Tarifa 2009, en pesos
+
+TIPO CUOTA
+
+$
+
+PISTON (HELICE) 2,115.74
+
+TURBOHELICE 11,710.12
+
+REACCION 16,918.38
+
+HELICOPTEROS 2,600.99
+
+D. Tarifa para determinar la tasa del impuesto sobre automóviles nuevos para el año 2009.
+
+(VEASE ARCHIVO ANEXO)
+
+Si el precio del automóvil es superior a $509,615.85 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $509,615.85
+
+E. Cantidades para aeronaves y helicópteros nuevos para el año 2009.
+
+Aeronaves de pistón, turbohélice y helicópteros: $9,557.39
+
+Aeronaves de reacción: $10,294.49
+
+F. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2009.
+
+###### Artículo 8o.
+
+fracción II primer párrafo: $172,364.01
+
+###### Artículo 8o.
+
+fracción II segundo párrafo: $172,364.02 y hasta $218,327.74
+
+G. Código de claves vehiculares
+
+(VEASE ARCHIVO ANEXO)
+
+Atentamente
+
+México, D.F., a 16 de diciembre de 2008.- El Jefe del Servicio de Administración Tributaria, Alfredo Gutiérrez Ortiz Mena.- Rúbrica.
