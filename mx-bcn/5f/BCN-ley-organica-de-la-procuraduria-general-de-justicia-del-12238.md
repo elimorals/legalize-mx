@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-12238"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-17"
-last_updated: "2006-10-27"
+last_updated: "2008-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes17 de abril de 1998.
 
@@ -401,25 +401,11 @@ VII.- Presentar programa integral de trabajo sobre la Procuración de Justicia e
 
 VIII.- Presentar examen de salud y antidoping de una Institución Pública de Salud.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 8.
 
-El Procurador General de Justicia del Estado será nombrado en los términos que señala la Constitución Política del Estado, conforme al siguiente procedimiento:
-
-I.- El Gobernador del Estado, en un plazo no mayor de diez días naturales contados a partir del día que se produzca la vacante del cargo de Procurador, presentará ante el Congreso del Estado, una terna con los nombres de los candidatos para ocupar dicho cargo. A la propuesta deberá anexarse la documentación idónea que acredite los requisitos establecidos en el artículo anterior;
-
-II.- Una vez recibida la propuesta del Gobernador del Estado de Baja California, se turnará a la Comisión de Legislación y Puntos Constitucionales, la que revisará los requisitos del artículo séptimo y solicitará al Consejo Ciudadano de Seguridad Pública y a las agrupaciones de profesionistas de derecho del Estado que cuenten con registro ante el Departamento de Profesiones del Estado, su opinión respecto de los candidatos propuestos, la que deberán hacerle llegar dentro de un plazo no mayor de siete días;
-
-III.- La Comisión de Legislación y Puntos Constitucionales podrá convocar a los candidatos propuestos, a comparecer en sesión pública en un plazo que no excederá de 5 días de la propuesta, para conocer del programa integral de trabajo de los aspirantes;
-
-IV.- Una vez concluida las comparecencias de los candidatos al cargo de Procurador, la Comisión de Legislación y Puntos Constitucionales emitirá el Dictamen respectivo en un plazo no mayor de diez días a partir de recibida la propuesta;
-
-V.- El Congreso mediante el voto de las dos terceras partes aprobará el nombramiento del Procurador en un plazo no mayor de cinco días posteriores al dictamen; y,
-
-VI.- El Presidente del Congreso notificará al Gobernador a más tardar al tercer día de celebrada la sesión para la protesta de ley correspondiente.
-
-El Gobernador podrá remover libremente al Procurador.
+El Gobernador del Estado conforme a los requisitos establecidos en el artículo 7 de esta ley, nombrará al Procurador General de Justicia del Estado.
 
 ###### ARTÍCULO 9.
 
@@ -1622,3 +1608,11 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presente refor
 P.O. 27 DE OCTUBRE DE 2006.
 
 ÚNICO.- Las presentes reformas entrarán en vigor a partir del primero de marzo del año dos mil siete, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2008.
+
+PRIMERO.- Córrase el trámite que señala el artículo 112 de la Constitución Política del Estado, enviándose las presentes reformas a los artículos 27 y 49 de la Constitución Política del Estado a los Ayuntamientos del Estado, para que emitan su opinión en los términos de Ley.
+
+SEGUNDO.- Agotado el trámite y pronunciada la declaratoria señalada en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítanse las presentes reformas a los artículos 27 y 49 de la Constitución Política del Estado de Baja California, artículo 8° de la Ley Orgánica de la Procuraduría General de Justicia del Estado y fracción VI del párrafo Cuarto del artículo 59 y fracción XIII del artículo 62 de la Ley Orgánica del Poder Legislativo del Estado de Baja California, por parte de la Presidencia de este Congreso al Poder Ejecutivo para su publicación.
+
+TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
