@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2008-10-10"
+last_updated: "2008-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -89,9 +89,13 @@ El Gobernador del Estado podrá decidir cuáles Dependencias del Ejecutivo Estat
 
 Los Titulares de las Dependencias a que se refiere esta Ley, ejercerán sus funciones y dictarán las resoluciones que les competen, pudiendo delegar en sus subalternos cualesquiera de sus facultades salvo aquéllas que sean indelegables de acuerdo con la Constitución, las Leyes y los Reglamentos.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 9o.
 
-Todas las Leyes, Decretos, Reglamentos y Disposiciones de carácter general que el Gobernador promulgue o expida, deberán ser firmados por el Secretario General de Gobierno; también deberá firmar de conocimiento el encargado del ramo a que el asunto corresponda.
+Los reglamentos, decretos, acuerdos y disposiciones de carácter general que el Gobernador expida en el ejercicio de sus atribuciones, para su validez y observancia constitucional, deberán ser firmados por el Secretario General de Gobierno, o en su ausencia por quien conforme a ésta ley haga sus veces.
+
+Tratándose de decretos promulgatorios a cargo del Gobernador del Estado, correspondientes a las leyes o decretos expedidos por el Congreso del Estado, para su validez y observancia constitucional, deberán ser firmados por el Secretario General de Gobierno, o en su ausencia por quien conforme a ésta ley haga sus veces.
 
 ###### ARTICULO 10.
 
@@ -255,7 +259,9 @@ VI.- Vigilar, en auxilio de las Autoridades Federales, que las publicaciones imp
 
 VII.- Vigilar, en auxilio de las Autoridades Federales, el desarrollo de los eventos a que se refiere la Ley Federal de Juegos y Sorteos;
 
-VIII.- Vigilar, en auxilio de las Autoridades Federales, el cumplimiento de las Leyes y Reglamentos en materia de cultos;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2008)</small>
+
+VIII.- En los términos de la Ley de Asociaciones Religiosas y Culto Público y sus disposiciones reglamentarias, promover, coadyuvar, coordinar y vigilar el efectivo cumplimiento de las facultades y responsabilidades que dicho ordenamiento otorga a las autoridades estatales, así como auxiliar en la gestión e impulso de su eficaz cumplimiento ante todas las autoridades competentes en términos de los convenios que al efecto se celebren;
 
 IX.- Representar al Gobierno del Estado en los Juicios de Amparo;
 
@@ -293,7 +299,7 @@ XIX.- Vigilar la marcha general de la administración pública, para asegurar el
 
 (REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)(F. DE E., P.O. 30 DE ENERO DE 1998)
 
-XX.- Establecer el sistema estatal de protección civil; coordinar las acciones y programas del Ejecutivo, relativos a la prevención de desastres; así como, ordenar la participación civil en eventos de emergencia, a fin de controlar y disminuir los daños materiales y humanos, y
+XX.- Establecer el sistema estatal de protección civil; coordinar las acciones y programas del Ejecutivo, relativos a la prevención de desastres; así como, ordenar la participación civil en eventos de emergencia, a fin de controlar y disminuir los daños materiales y humanos, y (sic)
 
 > <small>(REFORMADA, P.O. 3 DE ENERO DE 2003)</small>
 
@@ -1762,3 +1768,19 @@ PRIMERO.- La presente reforma entrará en vigor a partir del día siguiente al d
 SEGUNDO.- EL (SIC) Ejecutivo del Estado deberá realizar las adecuaciones normativas necesarias para el cumplimiento de los alcances del presente Decreto a más tardar dentro de los 180 días siguientes de su publicación.
 
 TERCERO.- El Congreso del Estado autorizará las previsiones presupuestales necesarias para dar cumplimiento al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2008.
+
+DECRETO No 165. POR EL QUE SE REFORMA EL ARTICULO 9 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PUBLICA DEL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2008.
+
+DECRETO No 167, POR EL QUE SE REFORMA LA FRACCION VIII DEL ARTICULO 19 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Congreso del Estado autorizará las adecuaciones presupuestales necesarias para dar cumplimiento efectivo al presente Decreto.
+
+TERCERO.- El Ejecutivo del Estado deberá realizar las adecuaciones normativas necesarias para el efectivo cumplimiento de los alcances del presente Decreto a más tardar dentro de los 180 días siguientes de su publicación.
