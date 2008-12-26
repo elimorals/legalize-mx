@@ -4,7 +4,7 @@ identifier: "VER-estatuto-del-personal-academico-del-colegio-de-veracruz-55745"
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-05-25"
-last_updated: "2007-05-25"
+last_updated: "2008-12-26"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55745&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 ESTATUTO DEL PERSONAL ACADEMICO DEL COLEGIO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2008.
 
 Estatuto publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 25 de mayo de 2007.
 
@@ -210,6 +210,10 @@ Las estancias de profesores-investigadores en otras instituciones de educación 
 El personal académico de El Colegio de Veracruz tiene derecho a:
 
 I. Percibir los estímulos a los que se haga acreedor en término de su contrato.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2008)</small>
+
+Los Profesores-Investigadores tendrán derecho a percibir anualmente, para asistir a Congresos, Coloquios, Talleres, Conferencias y demás eventos académicos que se celebren fuera de la sede de la Institución, viáticos que no excederán de ciento cincuenta días de salario mínimo correspondiente a la Zona de Xalapa;
 
 II. Realizar sus actividades de acuerdo al principio de libertad de cátedra e investigación, de conformidad con los programas de El Colegio de Veracruz;
 
@@ -408,3 +412,11 @@ Tercero. Se derogan todas las disposiciones normativas internas que se opongan a
 Dado en la sesión de la Junta de Gobierno celebrada el día veintiocho de marzo del dos mil siete. Doy fe.
 
 Licenciado Héctor Carreón Rojano Secretario
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+G.O. 26 DE DICIEMBRE DE 2008.
+
+Primero. Publíquese en la Gaceta Oficial del estado.
+
+Segundo. La presente adición entrará en vigor a partir del primero de enero de dos mil nueve.
