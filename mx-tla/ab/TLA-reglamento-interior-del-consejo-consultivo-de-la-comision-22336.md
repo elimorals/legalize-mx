@@ -4,7 +4,7 @@ identifier: "TLA-reglamento-interior-del-consejo-consultivo-de-la-comision-22336
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-09-19"
-last_updated: "2007-03-23"
+last_updated: "2008-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 REGLAMENTO INTERIOR DEL CONSEJO CONSULTIVO DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Tlaxcala, el miércoles 19 de septiembre de 2001.
 
@@ -47,23 +47,23 @@ El presente Reglamento norma la integración, funcionamiento, facultades y respo
 
 ### CAPITULO II. De la Integración e Instalación del Consejo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 3.
 
-El Consejo Consultivo se instalará el día 4 de agosto una vez que sean electos los Consejeros Consultivos por el H. Congreso del Estado, y ese día entrará en funciones. La Presidencia será rotatoria entre los cinco miembros por período anual.
-
-El Consejero Presidente será, a su vez, Presidente de la Comisión conforme a lo señalado en el Artículo 78 de la Constitución Política del Estado que entró en vigor el día quince de mayo del año dos mil uno y el correlativo Artículo 10 de la Ley de esta Comisión Estatal de Derechos Humanos, que entró en vigor el día veinticuatro de mayo del año dos mil uno.
+El Consejo Consultivo se instalará el 4 de agosto una vez que sean electos, los Consejeros consultivos por el H. Congreso del Estado, y ese día entrará en funciones. La presidencia será rotatoria entre los cinco miembros por periodo anual, salvo que el Consejo determine lo contrario.
 
 ###### Artículo 4.
 
 Para su sesión de instalación el Consejo nombrará un Secretario de Actas y Acuerdos de entre sus propios integrantes.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 5.
 
-El Consejo Consultivo realizará anualmente la sesión de instalación solemne de la Presidencia, conforme al orden establecido en el acuerdo de rotación de fecha 4 de agosto del año dos mil seis protocolizado ante Notario Público No. 2 del Distrito Judicial de Hidalgo del Estado de Tlaxcala, mediante el Instrumento Notarial 1725.
+El Consejo Consultivo realizará anualmente la Sesión de Instalación solemne de la presidencia, conforme al orden establecido en el acuerdo de rotación de fecha cuatro de agosto del año dos mil seis protocolizado ante el Notario Público No. 2 del Distrito Judicial de Hidalgo del Estado de Tlaxcala, mediante el Instrumento Notarial 1725.
+
+El Pleno del Consejo, podrá variar en cualquier momento el orden establecido en el acuerdo de rotación, reservándose la facultad de nombrar Presidente del Consejo en cualquier momento de acuerdo a su facultad originaria, siempre y cuando sea en beneficio de la Comisión. Lo anterior independientemente de lo establecido en el artículo 16 de la Ley de la Comisión Estatal de Derechos Humanos de Tlaxcala.
 
 ### CAPITULO III. De las Facultades del Consejo
 
@@ -306,3 +306,7 @@ Este acuerdo de reforma entrará en vigor al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones internas que se opongan a la presente reforma.
+
+P.O. 26 DE DICIEMBRE DE 2008.
+
+PRIMERO.- En forma genérica, la presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
