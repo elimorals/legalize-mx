@@ -1,0 +1,932 @@
+---
+title: "LEY NUMERO 994 DE PLANEACION DEL ESTADO LIBRE Y SOBERANO DE GUERRERO"
+identifier: "GRO-ley-numero-994-de-planeacion-del-estado-libre-y-soberano-de-68512"
+country: "mx"
+rank: "ley"
+publication_date: "2008-12-26"
+last_updated: "2008-12-26"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68512&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-gro"
+scjn_id: "68512"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "104 ALCANCE I"
+reform_count: "4"
+scjn_last_update: "2022-11-04"
+issue_date: "2008-11-11"
+state: "GRO"
+---
+# LEY NUMERO 994 DE PLANEACION DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
+
+LEY NUMERO 994 DE PLANEACION DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 26 de diciembre de 2008.
+
+CARLOS ZEFERINO TORREBLANCA GALINDO, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed
+
+Que el H. Congreso Local, se ha servido comunicarme que,
+
+LA QUINCUAGÉSIMA OCTAVA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y:
+
+C O N S I D E R A N D O.
+
+Por lo anteriormente expuesto y con fundamento en lo dispuesto en los artículos 47 fracción I de la Constitución Política Local y 8 fracción I de la Ley Orgánica del Poder Legislativo en vigor, el Honorable Congreso del Estado, decreta y expide la siguiente:
+
+LEY NÚMERO 994 DE PLANEACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO.
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+###### ARTÍCULO 1o.
+
+Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto reglamentar los Artículos 25 y 26 de la Constitución Política de los Estados Unidos Mexicanos y 117 párrafo tercero, de la Constitución Política del Estado Libre y soberano de Guerrero.
+
+###### ARTÍCULO 2o.
+
+El objetivo de la planeación será mejorar la eficiencia y efectividad del Gobierno del Estado y de los Gobiernos Municipales; así como de los organismos paraestatales. De esa forma, se asegurará a las mujeres y hombres de Guerrero, el respeto pleno a las garantías individuales y los derechos civiles, políticos, económicos, sociales y culturales que se consagran en la Constitución Política de los Estados Unidos Mexicanos, los compromisos internacionales en materia de Derechos Humanos, la Constitución Política del Estado Libre y Soberano de Guerrero, y todo el marco jurídico que nos rige.
+
+Los principios generales de esta Ley son:
+
+a) Autonomía. El Gobierno del Estado de Guerrero y los gobiernos municipales ejercerán libremente sus funciones en materia de planeación con estricta sujeción a las atribuciones que a cada una de ellas se les haya asignado en La Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Guerrero, y las leyes derivadas;
+
+b) Ordenación de competencias. En el contenido de los planes de desarrollo se tendrán en cuenta, para efectos del ejercicio de las respectivas competencias, la observancia de los criterios de concurrencia, complementariedad y subsidiariedad;
+
+Concurrencia. Las autoridades de planeación de distintos niveles de gobierno -federal, estatal y municipal- deben desarrollar actividades en conjunto hacia un propósito común; su actuación debe ser oportuna y eficiente, y se debe asegurar el respeto mutuo de los fueros de competencia de cada una de ellas.
+
+Complementariedad. Las autoridades colaborarán en las tareas de planeación. Con la finalidad de maximizar los beneficios sociales.
+
+Subsidiariedad. Las autoridades de planeación del nivel más alto, deberán apoyar transitoriamente a aquellas que carezcan de capacidad técnica para la preparación oportuna del plan de desarrollo.
+
+c) Coordinación. Las autoridades de planeación del Estado y de los Municipios deberán garantizar que exista la debida armonía y coherencia entre las actividades que realicen a su interior para efectos de la formulación, ejecución y evaluación de sus planes de desarrollo;
+
+d) Consistencia. Con el fin de asegurar la estabilidad macroeconómica y financiera, las leyes de ingresos y los presupuestos de egresos, derivados de los planes de desarrollo, deberán ser consistentes con las proyecciones de ingresos y de financiación;
+
+e) Prioridad de la inversión social. Para asegurar la consolidación progresiva del bienestar general y el mejoramiento de la calidad de vida de la población, se deberá tener como criterio especial, en la distribución geográfica del gasto público, el número de personas con necesidades básicas insatisfechas, en especial salud y educación, la población y la eficiencia fiscal y administrativa; además, se deberá priorizar el gasto público social sobre cualquier otra asignación;
+
+f) Equidad de Género. El plan Estatal de Desarrollo y los Planes Municipales deberán tener en consideración las diferencias mujeres (sic) y hombres en la distribución del gasto; a fin de asegurar la igualdad entre mujeres y hombres y la no discriminación y el respeto a la libertad y la dignidad de las personas;
+
+g) Continuidad. El gobierno del Estado y los gobiernos municipales deberán garantizar que se ejecuten los proyectos y programas que se consideren en el Plan Estatal de Desarrollo y los Planes Municipales;
+
+h) Participación. Durante el proceso de discusión de los planes de desarrollo, las autoridades de planeación velarán porque se hagan efectivos los procedimientos de participación ciudadana previstos en la presente Ley;
+
+i) Sustentabilidad Ambiental. Para posibilitar un desarrollo socio-económico en armonía con el medio natural, los planes de desarrollo deberán considerar en sus estrategias, programas y proyectos, criterios que les permitan estimar los costos y beneficios ambientales para definir las acciones que garanticen a las actuales y futuras generaciones una adecuada oferta ambiental;
+
+j) Proceso de planeación. El plan de desarrollo establecerá los elementos básicos que comprendan la planificación como una actividad continua, teniendo en cuenta la formulación, aprobación, ejecución, control y evaluación;
+
+k) Eficiencia. Para el desarrollo de los lineamientos del plan y en cumplimiento de los planes de acción se deberá optimizar el uso de los recursos financieros, humanos y técnicos necesarios;
+
+i) Viabilidad. Las estrategias programas y proyectos del plan de desarrollo deben ser factibles de realizar, según, los ingresos que se proyecten y el tiempo disponible para alcanzarlas;
+
+m) Coherencia. Los programas y proyectos del Plan Nacional de Desarrollo, el Estatal y los municipales deberán ser coherentes en cuanto a objetivos y estrategias;
+
+n) El Plan Estatal de Desarrollo y los Planes Municipales estarán conformados por: una parte general, de carácter estratégico, y por un plan de inversiones de carácter operativo.
+
+###### ARTÍCULO 3o.
+
+Para los efectos de esta ley, se entiende por planeación estatal del desarrollo, la ordenación racional y sistemática de acciones y políticas públicas que tienen como propósito la transformación de la realidad del Estado y la igualdad de oportunidades entre mujeres y hombres, de conformidad con las normas, principios y objetivos que las constituciones federal y estatal y las leyes correspondientes establecen.
+
+A través de la planeación se fijarán objetivos, metas, estrategias y prioridades; se asignarán recursos, responsabilidades y tiempos de ejecución, se coordinarán acciones, se garantizará información desagregada por sexo, grupos de edad, pertenencia étnica y tipos de localidad y se evaluarán resultados.
+
+###### ARTÍCULO 4o.
+
+Es responsabilidad del Ejecutivo del Estado conducir la planeación del desarrollo de la entidad, con pleno respeto a los derechos humanos y la dignidad de las personas, y con la participación responsable y democrática del poder legislativo, los gobiernos municipales y de las ciudadanas y ciudadanos guerrerenses, de conformidad con lo dispuesto en la presente Ley.
+
+Corresponde al Ejecutivo del Estado conducir la política estatal en materia de igualdad, de derechos y oportunidades, entre mujeres y hombres, bajo el principio de no discriminación.
+
+###### ARTÍCULO 5o.
+
+Es responsabilidad de los Ayuntamientos conducir la planeación del desarrollo municipal, en el ámbito las (sic) competencias que les otorga la presente Ley y demás disposiciones aplicables en la materia, con pleno respeto a los derechos humanos y la dignidad de las personas, y con la participación responsable y democrática de las ciudadanas y ciudadanos guerrerenses, de conformidad con lo dispuesto en la presente Ley.
+
+Los Ayuntamientos deberán conducir la política municipal en materia de igualdad entre mujeres y hombres.
+
+### CAPÍTULO II. EL PLAN ESTATAL DE DESARROLLO
+
+###### ARTÍCULO 6o.
+
+El Plan Estatal de Desarrollo estará conformado por una parte general y un plan de inversiones.
+
+###### ARTÍCULO 7o.
+
+La parte general del plan estará conformada por:
+
+a) El diagnóstico general; el cual, describirá la situación en al menos 12 áreas de política pública y contendrá como mínimo la siguiente información:
+
+1. Gobierno y Población
+
+Número de habitantes
+
+Tasa de migración
+
+Número de conflictos laborales
+
+Número de conflictos agrarios
+
+Número de conflictos entre autoridades
+
+2. Pobreza y Grupos Vulnerables
+
+Porcentaje de personas en pobreza alimentaria, patrimonial y de capacidades
+
+Índice de Gini
+
+Porcentaje de personas con seguridad social
+
+3. Administración
+
+Balance Fiscal
+
+Deuda Pública
+
+Tasa de evasión fiscal
+
+Ingresos propios
+
+Transferencias
+
+4. Infraestructura
+
+Porcentaje de hogares con servicio de energía eléctrica
+
+Porcentaje de hogares con servicio de drenaje
+
+Porcentaje de hogares con servicio de agua potable
+
+Porcentaje de comunidades con vías de comunicación
+
+5. Seguridad Pública y Protección Civil
+
+Tasa de homicidios
+
+Tasa de secuestros
+
+Tasa de asaltos
+
+Tasa de hacinamiento carcelario
+
+Tasa de personas que tuvieron que ser damnificadas por alguna contingencia
+
+6. Educación
+
+Índice de Analfabetismo
+
+Porcentaje de personas entre 3 - 25 años que acuden a la Escuela (Desglosado por nivel educativo: preescolar, primaria, secundaria, media - superior, técnica y profesional)
+
+Tasas de aprobación
+
+Resultado de las evaluaciones que realice la Secretaria de Educación Pública
+
+Tasa de deserción por nivel educativo
+
+Inversión Total en Ciencia y Tecnología (% del PIB)
+
+Estímulos a la creación e innovación
+
+Tasa de bibliotecas por cada 100,000 habitantes
+
+7. Salud
+
+Tasa de mortalidad
+
+Esperanza de vida al nacer
+
+Tasa de fecundidad
+
+Tasa de natalidad
+
+Tasa de mortalidad infantil
+
+Tasa de mortalidad materna
+
+Tasa de mortalidad por cáncer de cuello uterino
+
+Desnutrición Infantil
+
+Desnutrición Materna
+
+Muertes por Dengue
+
+Disposición de médicos y servicios de Salud
+
+8. Industria, Comercio y Crecimiento Regional
+
+PIB desglosado por los principales sectores de la economía
+
+Tasa de Desempleo
+
+Tasa de Participación Económica
+
+Tiempo requerido para la consolidación de negocios
+
+Balanza Comercial
+
+9. Turismo
+
+Tasa de ocupación hotelera
+
+Visitantes Nacionales
+
+Visitantes Extranjeros
+
+Número de ciudades turísticas
+
+Ingresos por turismo
+
+10. Desarrollo Rural
+
+Producción agrícola: Hectáreas sembradas de los principales cultivos
+
+Producción Ganadera
+
+Producción Pesquera
+
+Producción Forestal
+
+Salud vegetal: Hectáreas de cultivo afectadas por plagas, y principales infecciones vegetales.
+
+Salud Animal: Principales causas de morbilidad animal
+
+11. Medio Ambiente
+
+Áreas protegidas
+
+Hectáreas deforestadas
+
+Toneladas de desechos reciclados
+
+12. Igualdad entre mujeres y hombres
+
+Índice de Desarrollo Humano
+
+Índice de Desarrollo de Género
+
+Índice de Potenciación de Género
+
+Índice de Seguridad Humana
+
+b) Los objetivos estatales y sectoriales según resulte del diagnóstico general;
+
+c) Las metas estatales y sectoriales de la acción estatal a mediano y largo plazo y los procedimientos y mecanismos generales para lograrlos; las metas deberán ser cuantificables y estarán relacionadas con la información que resulte del diagnóstico general;
+
+d) Las estrategias y política en materia económica, social y ambiental que guiarán la acción del Gobierno para alcanzar los objetivos y metas que se hayan definido;
+
+e) Las formas, medios e instrumentos de vinculación y armonización de la planeación estatal con la planeación nacional, regional, municipal, y de las comunidades indígenas.
+
+###### ARTÍCULO 8o.
+
+El plan de inversiones de las entidades públicas del orden estatal incluirá principalmente:
+
+a) La proyección de los recursos financieros disponibles para su ejecución y su armonización con los planes de gasto público;
+
+b) La descripción de los principales programas y subprogramas, con indicación de sus objetivos y los proyectos prioritarios de inversión; así como las entidades de la administración pública estatal o paraestatal que serán responsables de ejecutar dichas estrategias;
+
+c) Los presupuestos plurianuales mediante los cuales se proyectarán en los costos de los programas más importantes de inversión pública contemplados en la parte general;
+
+d) La especificación de los recursos financieros e inversiones que se destinarán de manera prioritaria a garantizar el acceso a la educación, salud, una vida libre de violencia para las mujeres guerrerenses, y
+
+e) La especificación de los mecanismos idóneos para su ejecución.
+
+###### ARTÍCULO 9o.
+
+Presupuestos plurianuales. Se entiende por presupuestos plurianuales la proyección de los costos y fuentes de financiación de los principales programas y proyectos de inversión pública, cuando éstos requieran para su ejecución más de una vigencia fiscal.
+
+Cuando en un sector o sectores de inversión pública se hubiere iniciado la ejecución de proyectos de largo plazo, antes de iniciarse otros, se procurará que los primeros tengan garantizada la financiación hasta su culminación.
+
+###### ARTÍCULO 10.
+
+El diagnóstico del estado, las metas, objetivos, programas y estrategias del Plan Estatal de Desarrollo deberán presentarse de manera desglosada por sexo, grupos de edad, estado civil, grupos poblacionales y pertenencia étnica.
+
+### CAPÍTULO III. LOS PLANES MUNICIPALES DE DESARROLLO
+
+###### ARTÍCULO 11.
+
+Los Planes Municipales de Desarrollo estarán conformados por una parte general y un plan de inversiones.
+
+###### ARTÍCULO 12.
+
+La parte general del plan estará conformada por:
+
+a) El diagnóstico general; el cual, describirá la situación en al menos 12 áreas de política pública y contendrá como mínimo la siguiente información:
+
+1. Gobierno y Población
+
+Número de habitantes
+
+Tasa de migración
+
+Número de conflictos laborales
+
+Número de conflictos agrarios
+
+Número de conflictos entre autoridades
+
+2. Pobreza y Grupos Vulnerables
+
+Porcentaje de personas en pobreza alimentaria, patrimonial y de capacidades
+
+Índice de Gini
+
+Porcentaje de personas con seguridad social
+
+3. Administración
+
+Balance Fiscal
+
+Deuda Pública
+
+Tasa de evasión fiscal
+
+Ingresos propios
+
+Transferencias
+
+4. Infraestructura
+
+Porcentaje de hogares con servicio de energía eléctrica
+
+Porcentaje de hogares con servicio de drenaje
+
+Porcentaje de hogares con servicio de agua potable
+
+Porcentaje de comunidades con vías de comunicación
+
+5. Seguridad Pública y Protección Civil
+
+Tasa de homicidios
+
+Tasa de secuestros
+
+Tasa de asaltos
+
+Tasa de hacinamiento carcelario
+
+Tasa de personas que tuvieron que ser damnificadas por alguna contingencia
+
+6. Educación
+
+Índice de Analfabetismo
+
+Porcentaje de personas entre 3 - 25 años que acuden a la Escuela (Desglosado por nivel educativo: preescolar, primaria, secundaria, media-superior, técnica y profesional)
+
+Tasas de aprobación
+
+Resultado de las evaluaciones que realice la Secretaria de Educación Pública
+
+Tasa de deserción por nivel educativo
+
+Inversión Total en Ciencia y Tecnología
+
+Estímulos a la creación e innovación
+
+Tasa de bibliotecas por cada 100,000 habitantes
+
+Infraestructura educativa existente y promedio de estudiantes por maestro
+
+7. Salud
+
+Tasa de mortalidad
+
+Esperanza de vida al nacer
+
+Tasa de fecundidad
+
+Tasa de natalidad
+
+Tasa de mortalidad infantil
+
+Tasa de mortalidad materna
+
+Tasa de mortalidad por cáncer de cuello uterino
+
+Desnutrición Infantil
+
+Desnutrición Materna
+
+Muertes por Dengue
+
+Disposición de médicos y servicios de Salud
+
+8. Industria, Comercio y Crecimiento Regional
+
+Tasa de Desempleo
+
+Tasa de Participación Económica
+
+Tiempo requerido para la consolidación de negocios
+
+9. Turismo
+
+Tasa de ocupación hotelera
+
+Visitantes Nacionales
+
+Visitantes Extranjeros
+
+Ingresos por turismo
+
+10. Desarrollo Rural
+
+Producción agrícola: Hectáreas sembradas de los principales cultivos
+
+Producción Ganadera
+
+Producción Pesquera
+
+Producción Forestal
+
+Salud vegetal: Hectáreas de cultivo afectadas por plagas, y principales infecciones vegetales
+
+Salud Animal: Principales causas de morbilidad animal
+
+11. Medio Ambiente
+
+Áreas protegidas
+
+Hectáreas deforestadas
+
+Toneladas de desechos reciclados
+
+12. Igualdad entre mujeres y hombres
+
+Índice de Desarrollo Humano
+
+Índice de Desarrollo de Género
+
+Índice de Potenciación de Género
+
+Índice de Seguridad Humana
+
+b) Los objetivos municipales y sectoriales, según resulte del diagnóstico general;
+
+c) Las metas a mediano y largo plazo y los procedimientos y mecanismos generales para lograrlos; las metas deberán ser cuantificables y estarán relacionadas con la información que resulte del diagnóstico general;
+
+d) Las estrategias y política en materia económica, social y ambiental que guiarán la acción del Gobierno para alcanzar los objetivos y metas que se hayan definido;
+
+d) (sic)) Las formas, medios e instrumentos de vinculación y armonización de la planeación municipal con la planeación nacional, regional y estatal.
+
+###### ARTÍCULO 13.
+
+El plan de inversiones incluirá principalmente:
+
+a) La proyección de los recursos financieros disponibles para su ejecución y su armonización con los planes de gasto público;
+
+b) La descripción de los principales programas y subprogramas, con indicación de sus objetivos y metas y los proyectos prioritarios de inversión; así, como las entidades y organismos que serán responsables de ejecutarlos. Dentro de estos programas se contemplarán la promoción de la igualdad de oportunidades para mujeres y hombres, en especial en los servicios de salud y el acceso a la educación, la prevención de la violencia de género hacia las mujeres y la promoción de la vigencia de los derechos humanos, y (sic)
+
+c) Los presupuestos plurianuales mediante los cuales se proyectarán en los costos de los programas más importantes de inversión pública contemplados en la parte general; y
+
+d) La especificación de los mecanismos idóneos para su ejecución.
+
+###### ARTÍCULO 14.
+
+El diagnóstico del municipio, las metas, objetivos, programas y estrategias del Plan Municipal de Desarrollo deberán presentarse de manera desglosada por grupos de edad, sexo, estado civil, nivel pertenencia étnica y grupos poblacionales.
+
+### CAPÍTULO IV. PROGRAMAS SECTORIALES, INSTITUCIONALES, REGIONALES Y ESPECIALES
+
+###### ARTÍCULO 15.
+
+Los programas sectoriales se sujetarán a las previsiones contenidas en el Plan y tomarán en cuenta las incluidas en los Planes Municipales. Especificarán los objetivos, prioridades y políticas que regirán el desempeño de las actividades del sector administrativo de que se trate. Asimismo, contendrán estimaciones de recursos y determinaciones de metas propuestas y señalarán responsables de su ejecución. Su vigencia será de seis años y su revisión, y en su caso, modificación o actualización deberá realizarse por lo menos cada tres años.
+
+###### ARTÍCULO 16.
+
+Los programas institucionales que deban elaborar las entidades paraestatales y paramunicipales, se sujetarán a las previsiones contenidas en el Plan Estatal, en los planes municipales y en el programa sectorial correspondiente. Su vigencia será de seis años y su revisión, y en su caso, modificación o actualización será trienal.
+
+###### ARTÍCULO 17.
+
+Los programas regionales serán formulados al interior del Comité de Planeación para el Desarrollo del Estado, con la participación de las entidades, dependencias y, en su caso, los municipios que se encuentren involucrados. La vigencia de los programas será determinada por las autoridades de planeación y la evaluación será, al menos, trienal. Las regiones que comprende el estado son:
+
+1. Acapulco
+
+2. Centro
+
+3. Costa Chica
+
+4. Costa Grande
+
+5. Norte
+
+6. Montaña
+
+7. Tierra Caliente
+
+###### ARTÍCULO 18.
+
+Los programas especiales serán diseñados para atender las prioridades que se establezcan en el Plan Estatal de Desarrollo, y se referirán a estrategias que deban ser ejecutadas por dos o más dependencias. Los programas especiales serán formulados por el Comité de Planeación, quien establecerá la dependencia que coordinará su ejecución. La vigencia de los programas estará establecida por el Comité de Planeación y la evaluación será, al menos, trienal.
+
+###### ARTÍCULO 19.
+
+En todo caso, los programas sectoriales, institucionales, regionales y especiales seguirán los principios señalados en el artículo 2 de esta Ley y contendrán:
+
+I. El diagnóstico, que seguirá los elementos metodológicos y conceptuales establecidos en el artículo 11 de esta Ley;
+
+II. Las metas y objetivos específicos en función de las prioridades establecidas en el Plan Estatal de Desarrollo;
+
+III. Los subprogramas, líneas programáticas y acciones, que especifiquen la forma en que contribuirán a la conducción del desarrollo de la entidad;
+
+IV. La relación con otros instrumentos de planeación;
+
+V. Las responsabilidades que regirán el desempeño en su ejecución; Las acciones de coordinación, en su caso, con dependencias federales y otras entidades o municipios; y Los mecanismos específicos para la evaluación, actualización y, en su caso, corrección del programa. En el diagnóstico se analizaran las diferencias subsistentes entre hombres y mujeres, grupos de edad y grupos poblacionales; el objetivo es que las estrategias respondan a las desigualdades y promuevan desarrollo y equidad.
+
+###### ARTÍCULO 20.
+
+Las dependencias y entidades encargadas de la ejecución del Plan Estatal y de los planes de los Municipios, así como de los programas sectoriales e institucionales, elaborarán programas operativos anuales que incluirán los aspectos administrativos y de política económica y social correspondiente. Estos programas operativos anuales, que deberán ser congruentes entre sí, regirán durante el año respectivo, las actividades de la administración pública en su conjunto.
+
+###### ARTÍCULO 21.
+
+Los programas sectoriales, institucionales, regionales y especiales, y los programas operativos anuales deberán ser sometidos a la aprobación del Comité de Planeación para el Desarrollo del Estado de Guerrero.
+
+###### ARTÍCULO 22.
+
+El Plan Estatal de Desarrollo y todos los programas que de él se deriven, una vez aprobados, se publicarán en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO 23.
+
+Los planes municipales y los programas que de ellos se desprendan serán publicados en la Gaceta Municipal respectiva.
+
+### CAPÍTULO V. DEL SISTEMA ESTATAL DE PLANEACIÓN DEMOCRÁTICA
+
+###### ARTÍCULO 24.
+
+El Sistema Estatal de Planeación Democrática es el instrumento creado por el Estado de Guerrero para formular, ejecutar, controlar y evaluar los planes y programas de desarrollo.
+
+###### ARTÍCULO 25.
+
+Son autoridades y órganos responsables del Sistema Estatal de Planeación Democrática:
+
+I. El Congreso del Estado;
+
+II. El Gobernador o Gobernadora Constitucional del Estado;
+
+III. Los Ayuntamientos;
+
+IV. El Comité de Planeación para el Desarrollo del Estado de Guerrero (COPLADEG);
+
+V. Los Comités de Planeación para el Desarrollo Municipal;
+
+VI. Las Dependencias y Entidades de la Administración Pública Estatal, Paraestatal y Municipal;
+
+VII. Las Dependencias y Entidades de la Administración Pública Federal que tienen representación en el Estado.
+
+###### ARTÍCULO 26.
+
+Las disposiciones reglamentarias de esta Ley establecerán las normas de organización y funcionamiento del Sistema Estatal de Planeación Democrática a que deberán sujetarse las actividades conducentes a la formulación, aprobación, ejecución, control y evaluación de los planes y programas a que la misma se refiere.
+
+###### ARTÍCULO 27.
+
+A la Secretaría de Desarrollo Social le corresponde:
+
+I. Integrar el Plan Estatal de Desarrollo, así como el programa operativo anual para la ejecución del mismo, tomando en cuenta los planes municipales de desarrollo y las propuestas de las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, así como las de los grupos sociales organizados y de los particulares;
+
+II. Prestar asesoría técnica, en materia de planeación a los ayuntamientos de la entidad que los soliciten;
+
+III. Vigilar que los planes y programas que se generen en el Sistema Estatal de Planeación, mantengan congruencia entre sí; así como con el Plan Nacional de Desarrollo;
+
+IV. Promover y coordinar actividades de capacitación e investigación en materia de Planeación entre las Entidades, Dependencias y Organismos de la Administración Pública Federal, Estatal y Municipal. Para ello, se buscará asesoría de las Instituciones de Educación Superior, de Investigación, de Organismos Civiles y de personas expertas en la materia;
+
+V. Vigilar que los presupuestos de las diversas Dependencias de la Administración Pública sean congruentes con el Plan Estatal de Desarrollo;
+
+VI. Proponer los métodos, procesos, lineamientos y estrategias que deberán seguirse, para garantizar el desarrollo sustentable, el respeto a los derechos humanos, la igualdad entre mujeres y hombres, la no discriminación, el respeto a la dignidad de las personas y el derecho a una vida libre de violencia;
+
+VII. Evaluar los resultados de la ejecución de los Programas presentados en el Plan; para así corregir las desviaciones detectadas y reformar, en su caso, los programas respectivos;
+
+VIII. Coordinar las actividades relacionadas con la generación, captación y procesamiento de la información estadística y geográfica que se produzca, a fin de consolidar el Sistema Estatal vinculado a los sistemas nacionales de estadística y de información geográfica.
+
+###### ARTÍCULO 28.
+
+A la Secretaría de la Mujer le corresponde:
+
+I. Establecer los lineamientos de planeación en materia de equidad de género que deberán ser aplicados, de manera transversal en el Plan de Desarrollo Estatal y todos los planes y programas que de él se deriven, bajo los principios del respeto a la dignidad de las mujeres, la igualdad entre mujeres y hombres, el respeto al derecho de las mujeres a una vida libre de violencia y, en general de los derechos humanos de las mujeres;
+
+II. Coordinar los programas especiales, en materia de equidad y género, de las entidades de la administración pública estatal;
+
+III. Formular propuestas a las dependencias de la administración pública estatal, paraestatal y a los municipios, sobre la asignación de recursos que requieran los programas para promover la igualdad entre hombres y mujeres.
+
+###### ARTÍCULO 29.
+
+A la Secretaría de Finanzas y Administración le corresponde:
+
+I. Elaborar el plan de Inversiones, con perspectiva de género, para integrarlo al Plan Estatal de Desarrollo, en coordinación con el Comité de Planeación para el Desarrollo del Estado;
+
+II. Diseñar y operar un sistema presupuestal y contable congruente con los objetivos y prioridades del Plan Estatal y de los programas que de él se deriven;
+
+III. Procurar el cumplimiento de los objetivos y prioridades del Plan Estatal y de los programas en el ejercicio de sus atribuciones financieras y crediticias;
+
+IV. Garantizar el equilibrio fiscal.
+
+###### ARTÍCULO 30.
+
+La Contraloría del Estado ejercerá el control y la vigilancia de los recursos del Estado destinados a la consecución de los objetivos y prioridades del Plan Estatal y de los programas que de él se deriven; disponiendo las medidas necesarias para su correcta aplicación, de conformidad con lo que dispongan los ordenamientos respectivos.
+
+Asimismo fiscalizará los recursos federales que sean transferidos al Estado y los que éste canalice hacia los Municipios en los términos de los convenios o acuerdos de coordinación que se celebren, fortaleciendo el Sistema Estatal de Control y Evaluación.
+
+###### ARTÍCULO 31.
+
+El Comité de Planeación para el Desarrollo del Estado de Guerrero es un órgano administrativo desconcentrado sin personalidad jurídica ni patrimonio propio, y subordinado jerárquicamente al titular del Ejecutivo Estatal. Se integrará de la siguiente manera:
+
+I. Por un Presidente o presidenta, que será el Gobernador o gobernadora del Estado;
+
+II. Por el Coordinador o coordinadora, que designe el Gobernador o Gobernadora del Estado;
+
+III. Por un Secretario o Secretaria Técnica, quien será el Delegado o Delegada Estatal de la Secretaría de Desarrollo Social del gobierno federal;
+
+IV. Por los y las titulares de las dependencias de la Administración Pública Estatal y entidades Paraestatales;
+
+V. Por los y las titulares de las delegaciones o equivalentes de las dependencias y entidades federales que actúen en el Estado que acepten la invitación del Ejecutivo;
+
+VI. Por los presidentes y presidentas municipales;
+
+VII. Por las legisladoras y legisladores federales y locales;
+
+VIII. Así como por representantes de instituciones de educación superior, organismos científicos y de investigación y personas expertas en los temas de política pública que señala esta Ley.
+
+###### ARTÍCULO 32.
+
+Los acuerdos y resoluciones del Comité se tomarán por mayoría de votos de los asistentes.
+
+###### ARTÍCULO 33.
+
+El Presidente o presidenta del Comité podrá establecer subcomités sectoriales, regionales y especiales, grupos de trabajo y otros organismos auxiliares para la atención de las actividades de la planeación estatal, de acuerdo a las disposiciones reglamentarias de esta Ley.
+
+Los subcomités y grupos de trabajo a que se hace referencia en el párrafo anterior formarán parte del Comité de Planeación para el Desarrollo del Estado de Guerrero.
+
+###### ARTÍCULO 34.
+
+Son objetivos del Comité:
+
+I. Coordinar las actividades de Planeación del Estado de Guerrero;
+
+II. Convocar a foros de consulta popular para la elaboración del Plan Estatal de Desarrollo y de los Programas Sectoriales, Institucionales, Regionales y Especiales; así como recibir las propuestas ciudadanas y de autoridades municipales, comunales y ejidales para la integración del Banco de Programas y Proyectos;
+
+III. Formular los Planes Regionales y Especiales de Desarrollo;
+
+IV. Elaborar y mantener actualizado el Banco Estatal de Programas y Proyectos, tomando en cuenta las propuestas de los municipios, las comunidades y ejidos y de la ciudadanía en general;
+
+V. Colaborar, con las autoridades de planeación de la federación y de otras entidades, en la definición, instrumentación y evaluación de planes para el desarrollo de regiones interestatales. Así como para establecer acuerdos de cooperación que contribuyan a lograr las metas y objetivos del Plan Nacional y el Plan Estatal de Desarrollo;
+
+VI. Colaborar con la Secretaría de Finanzas y Administración en la elaboración del Plan de Inversiones;
+
+VII. Promover la celebración de acuerdos de cooperación entre el sector público y la ciudadanía para contribuir al desarrollo del Estado;
+
+VIII. Contribuir con la Secretaría de Desarrollo Social en la elaboración del diagnóstico de la situación socioeconómica del Estado;
+
+IX. Brindar asesoría técnica a los municipios y entidades que lo soliciten en la elaboración de los Programas y Planes que desarrollen;
+
+X. Promover la descentralización y desconcentración de la función pública; para asegurar la participación de los Municipios en la programación, ejecución y evaluación de programas y obras;
+
+XI. Evaluar el desarrollo de los programas y acciones concertados en el marco del Convenio Único de Coordinación, entre la Federación y el Estado e informar periódicamente de los resultados al Ejecutivo Estatal y al Ejecutivo Federal, a través de la Secretaría de Desarrollo Social del gobierno federal;
+
+XII. Evaluar el desarrollo de los programas y acciones convenidos con los Ayuntamientos en los convenios de coordinación del Estado y los Municipios;
+
+XIII. Evaluar el desarrollo de los programas y acciones concertados entre la Federación y el Estado, e informar de los resultados al Ejecutivo Estatal, y al gobierno federal, a través de la Secretaría de Desarrollo Social.
+
+El Comité se coordinará con la Secretaría de Desarrollo Social y la Secretaría de Hacienda y Crédito Público del Gobierno Federal, a fin de que sus acciones coincidan con las políticas generales de desarrollo nacional, regional y sectorial.
+
+###### ARTÍCULO 35.
+
+Las Dependencias y Entidades de la Administración Pública Estatal estarán obligadas a participar en el proceso de planeación inscrito en el Sistema Estatal de Planeación Democrática, y sus acciones deberán sujetarse a las políticas y prioridades del Plan Estatal de Desarrollo y sus programas respectivos.
+
+###### ARTÍCULO 36.
+
+Corresponde a las Dependencias de la Administración Pública Estatal:
+
+I. Intervenir, respecto de las materias que le competen, en la elaboración del Plan Estatal de Desarrollo;
+
+II. Elaborar programas sectoriales, tomando en cuenta el diagnóstico que se presente en el Plan Estatal de Desarrollo, el Banco de Programas y Proyectos de inversión, las propuestas que presenten las entidades del sector y los ayuntamientos, así como las opiniones de la ciudadanía; al mismo tiempo, deberán enviar a la Secretaría de Finanzas y Administración la propuesta de inversión, con sus respectivos expedientes técnicos;
+
+III. Asegurar la congruencia de los programas sectoriales con el Plan Estatal, con los planes municipales y con los programas que de ellos se deriven;
+
+IV. Armonizar los presupuestos anuales de la dependencia con las metas, objetivos y estrategias que se planteen en el Plan Estatal de Desarrollo;
+
+V. Coordinar las actividades de planeación con las entidades paraestatales que se agrupen en su sector, según lo determine el titular del Poder Ejecutivo;
+
+VI. Vigilar que las entidades del sector que coordinan conduzcan sus actividades conforme al Plan Estatal de Desarrollo y al programa sectorial correspondiente;
+
+VII. Verificar periódicamente la relación que guarden los programas y presupuestos de las entidades paraestatales del sector que coordinen, así como los resultados de su ejecución, con los objetivos y prioridades de los programas sectoriales, a fin de adoptar las medidas necesarias para corregir las desviaciones detectadas y reformar en su caso los programas respectivos.
+
+###### ARTÍCULO 37.
+
+Las entidades paraestatales deberán:
+
+I. Participar en la elaboración de los programas del sector al que pertenezcan mediante la presentación a la Secretaría del ramo, de propuestas relacionadas con sus funciones y objetivos;
+
+II. Elaborar el programa institucional, tomando en cuenta la información del Banco Estatal, y los bancos municipales, de Programas y Proyectos; así como las demandas ciudadanas;
+
+III. Evaluar anualmente, el grado de avance en las metas propuestas en el Programa Institucional, el Programa Sectorial y el Plan Estatal de Desarrollo, dentro del área que le corresponda.
+
+### CAPÍTULO VI. DEL SISTEMA MUNICIPAL DE PLANEACIÓN DEMOCRÁTICA
+
+###### ARTÍCULO 38.
+
+El Sistema Municipal de Planeación Democrática tiene como propósito formular, ejecutar, controlar y evaluar los planes y programas municipales de desarrollo.
+
+###### ARTÍCULO 39.
+
+Son autoridades y órganos responsables del Sistema Municipal de Planeación Democrática:
+
+1. El Cabildo Municipal,
+
+2. Las autoridades comunales y ejidales,
+
+3. Las Dependencias y Entidades de la Administración Pública Municipal,
+
+4. Las instancias estatal y federal que tengan residencia en el ámbito territorial del Municipio.
+
+###### ARTÍCULO 40.
+
+Los Comités de Planeación para el Desarrollo Municipal, serán los responsables de coordinar el Sistema Municipal de Planeación Democrática.
+
+Se integrarán de la siguiente manera:
+
+I. Por un Presidente o Presidenta, que será la Presidenta o Presidente Municipal;
+
+II. Por una Coordinadora o Coordinador y un Secretario o Secretaria Técnica, que serán designados por la Presidenta o Presidente Municipal;
+
+III. Por los y las titulares de las dependencias de la Administración Pública Municipal y entidades Paramunicipales;
+
+IV. Por las y los titulares de las delegaciones o equivalentes de las dependencias y entidades federales y estatales que actúen en el municipio y acepten la invitación del presidente o presidenta municipal.
+
+Así como por representantes de instituciones de educación superior, organismos científicos y de investigación y personas expertas en los temas de política pública que señala esta Ley.
+
+###### ARTÍCULO 41.
+
+A los Comités Municipales de Planeación les corresponde, sin perjuicio de lo que dispongan los ayuntamientos respectivos, lo siguiente:
+
+I. Establecer los procedimientos, proyectar y coordinar las actividades de planeación en el ámbito territorial del Municipio, con la participación de la sociedad;
+
+II. Convocar a foros de consulta popular para la elaboración del Plan Municipal de Desarrollo y recibir las propuestas ciudadanas;
+
+III. Elaborar el Plan Municipal de Desarrollo correspondiente, tomando en cuenta las propuestas de las Dependencias Entidades y Organismos auxiliares de la Administración Pública Municipal, las autoridades comunales y ejidales; así como los planteamientos y propuestas de los grupos sociales y de la ciudadanía en general.
+
+Cuidar que el Plan Municipal y los programas que se generen en el sistema, mantengan congruencia en su elaboración y contenido con el Plan Nacional, el Plan Estatal y los Programas Federales y Estatales cuyo alcance sea el ámbito del Municipio respectivo.
+
+###### ARTÍCULO 42.
+
+Los Ayuntamientos dictarán los lineamientos generales de planeación, considerando los Sistemas Nacional y Estatal de Planeación y deberán:
+
+I. Adecuar sus bases reglamentarias en materia de planeación, en el Bando de Policía y Buen Gobierno;
+
+II. Constituir el Comité de Planeación Municipal y vincularlo al Comité de Planeación para el Desarrollo del Estado de Guerrero (COPLADEG);
+
+III. Elaborar el banco municipal de programas y proyectos, el cual es un instrumento para la planeación que registra los programas y proyectos viables técnica, ambiental y socioeconómicamente, susceptibles de financiación con recursos del Presupuesto Municipal y del Estado;
+
+IV. Celebrar con el Ejecutivo del Estado, los convenios o acuerdos necesarios para la formulación, control y evaluación de los planes municipales de desarrollo y sus programas respectivos;
+
+V. Organizar foros de consulta popular y recibir propuestas ciudadanas; y así, asegurar la participación democrática de la población en la definición del Plan Municipal de Desarrollo y de sus programas respectivos.
+
+###### ARTÍCULO 43.
+
+Las autoridades comunales y ejidales tendrán la obligación de elaborar el Banco de Programas y Proyectos para que la información se considere en la elaboración del Plan Municipal de Desarrollo.
+
+No se podrá excluir a las comunidades y ejidos de las acciones y obras que se programen para cada ejercicio fiscal.
+
+Los Comisarios Municipales y los Presidentes de los Comisariados Ejidales y de Bienes Comunales, cuando no se observe lo prevenido en el Artículo 102 de la Constitución Política del Estado, podrán acudir al Tribunal de lo Contencioso Administrativo en los términos de la propia Ley; para que imponga las sanciones que contempla la Ley de Justicia Administrativa y la Ley de Responsabilidades de los Servidores Públicos.
+
+###### ARTÍCULO 44.
+
+Para las actividades estatales de planeación se prevé un proceso que lo constituyan cinco etapas fundamentales: formulación y aprobación, instrumentación, ejecución, control y evaluación. En todas ellas se vigilará la promoción del desarrollo sustentable con perspectiva de género:
+
+I. De formulación y aprobación La elaboración del proyecto del Plan Estatal de Desarrollo, que debe ser sometido por el Gobierno al Congreso del Estado durante los cuatro meses siguientes a la iniciación del periodo gubernamental, se podrá adelantar conforme a las disposiciones siguientes.
+
+Una vez que sea electo el Gobernador o Gobernadora del Estado, todas las dependencias de la administración y en particular, las autoridades de planeación, le prestarán el apoyo administrativo, técnico y de información que sea necesaria para adelantar las gestiones que permitan iniciar la formulación del plan de desarrollo.
+
+El Comité de Planeación para el Desarrollo del Estado coordinará las actividades de Planeación. Las autoridades estatales de planeación garantizarán la participación activa de los municipios en el proceso de elaboración del plan.
+
+El Congreso del Estado, en un plazo que no exceda de treinta días a partir de su recepción, aprobará y remitirá el Plan Estatal de Desarrollo al ejecutivo Estatal, a fin de que se le otorgue vigencia, ordene su publicación y proceda a su ejecución.
+
+II. De instrumentación, en la que se procederá a la elaboración de los programas operativos anuales de corto plazo expresados en términos de metas específicas o cuantificables; así como de los requerimientos físicos, materiales, técnicos, humanos y recursos de toda índole para el cumplimiento de las mismas.
+
+Con base en el Plan Estatal de Desarrollo aprobado cada uno de los organismos públicos de la administración pública central y paraestatal preparará su correspondiente programa operativo anual.
+
+En la elaboración del programa operativo anual y en la programación del gasto se tendrán en cuenta los principios a que se refiere el artículo 2o. de la presente Ley, y se tomaran las medidas presupuestarias y de coordinación para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en materia de Derechos Humanos, así como las disposiciones constitucionales y legales pertinentes.
+
+Los planes y programas que ejecuten las entidades estatales con asiento en los municipios deberán ser consultados previamente con las respectivas autoridades de planeación, de acuerdo con sus competencias.
+
+Con las propuestas de las entidades estatales y paraestatales, el Comité de Planeación para el Desarrollo del Estado de Guerrero, elaborará y mantendrá actualizado el Banco de Programas y Proyectos de Inversión Estatal. El Banco de Programas y Proyectos de Inversión Estatal es un instrumento para la planeación que registra los programas y proyectos viables técnica, ambiental y socioeconómicamente, susceptibles de financiación con recursos del Presupuesto del Estado.
+
+III. De ejecución, es la puesta en marcha del Plan estatal y los programas emanados del mismo, de acuerdo con la asignación de recursos y responsabilidades a las dependencias y entidades ejecutoras.
+
+La Ley de Ingresos y el Presupuesto de Egresos del Estado deberán reflejar las metas, objetivos y estrategias propuestos en el Plan Estatal de Desarrollo.
+
+En la Exposición de Motivos de la iniciativa de Ley de ingresos del Estado, de la Ley General de Ingresos y del Presupuesto de Egresos del Estado, el Ejecutivo del Estado explicará la forma en que se vinculan con las metas, objetivos, estrategias que se establecen en el Plan Estatal de Desarrollo; asimismo, se deberá observar congruencia con el Plan de Inversiones; en caso de que existan desviaciones entre las Proyecciones que establece el Plan y las que se contemplan en las iniciativas, el ejecutivo del estado deberá explicar las razones, y en su caso, determinará las acciones que se tomarán al respecto.
+
+IV. De control, es la captación permanente de información sobre la ejecución del Plan y de los Programas para medir desviaciones, evitarlas y corregirlas oportunamente y afinar las insuficiencias que pudieran haber surgido en las otras etapas.
+
+V. En la evaluación, se efectuará la revisión periódica de resultados para obtener conclusiones cuantitativas y cualitativas sobre el cumplimiento de los objetivos del plan y de los programas; a partir de los resultados obtenidos se incorporarán los cambios y reorientaciones que resulten convenientes para mantener flexibles y vigentes el plan y los programas.
+
+El Gobernador o gobernadora del Estado, al informar cada año ante el Congreso, acerca del estado general que guarda la administración pública, hará mención expresa sobre las decisiones adoptadas para la Ejecución del Plan Estatal de Desarrollo y los Programas Sectoriales, así como el avance en las metas propuestas en el Plan. Asimismo, el contenido de la Cuenta Anual de la Hacienda pública del Estado deberá relacionarse con el Plan Estatal de Desarrollo.
+
+Los titulares de las Dependencias de la Administración Pública Estatal y Organismos Paraestatales podrán ser citados a comparecer ante el Congreso del Estado sobre la situación que guardan sus respectivos ramos, deberán de informar sobre la ejecución de sus programas y el avance en la consecución de las metas propuestas en el Plan Estatal de Desarrollo, en lo relativo a sus propias atribuciones y responsabilidades.
+
+###### ARTÍCULO 45.
+
+Para las actividades municipales de planeación se prevé un proceso de cinco etapas: formulación y aprobación, instrumentación, ejecución, control y evaluación. En todas ellas se vigilará la promoción del desarrollo sustentable con perspectiva de género:
+
+I.- De formulación y aprobación La elaboración del proyecto del Plan Municipal de Desarrollo, que debe ser sometido por el Presidente Municipal al Cabildo, durante los cuatro meses siguientes a la iniciación del periodo gubernamental, se podrá adelantar conforme a las disposiciones siguientes.
+
+Una vez que sea electo el presidente municipal, todas las dependencias de la administración y en particular, las autoridades de planeación, le prestarán el apoyo administrativo, técnico y de información que sea necesario para adelantar las gestiones que permitan iniciar la formulación del plan de desarrollo.
+
+Las autoridades municipales de planeación garantizarán la participación activa de las comunidades y ejidos en el proceso de elaboración del plan.
+
+El Cabildo Municipal, en un plazo que no exceda de treinta días a partir de su recepción, aprobará el Plan Municipal de Desarrollo, a fin de que se le otorgue vigencia, ordene su publicación en la Gaceta Municipal y proceda a su ejecución.
+
+II.- De instrumentación, en la que se procederá a la elaboración de los programas operativos anuales de corto plazo, que contendrán metas específicas o cuantificables; así como los requerimientos físicos, materiales, técnicos, humanos y recursos de toda índole para el cumplimiento de las mismas.
+
+Con base en el Plan Municipal de Desarrollo aprobado, cada una de las entidades de la administración pública municipal y organismos paramunicipales prepararán su correspondiente programa operativo anual. En la elaboración del programa operativo anual y en la programación del gasto se tendrán en cuenta los principios a que se refiere el artículo 2o. de la presente Ley, así como las disposiciones constitucionales y legales pertinentes.
+
+En la elaboración del programa operativo anual y en la programación del gasto se tendrán en cuenta los principios a que se refiere el artículo 2o. de la presente Ley, y se tomaran las medidas presupuestarias y de coordinación para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en materia de Derechos Humanos, así como las disposiciones constitucionales y legales pertinentes.
+
+III.- De ejecución, es la puesta en marcha del Plan Municipal y los programas emanados del mismo, de acuerdo con la asignación de recursos y responsabilidades a las dependencias y entidades ejecutoras.
+
+El Presupuesto Anual de Egresos del Municipio, las iniciativas de leyes y los programas, reglamentos, decretos y acuerdos que formulen los Ayuntamientos señalaran las relaciones que, en su caso, existan entre el proyecto que se trate y el Plan y los programas respectivos.
+
+IV.- De control, es la captación permanente de información sobre la ejecución del Plan y de los Programas para medir desviaciones, evitarlas y corregirlas oportunamente y afinar las insuficiencias que pudieran haber surgido en las otras etapas.
+
+V.- En la evaluación, se efectuará la revisión periódica de resultados para obtener conclusiones cuantitativas y cualitativas sobre el cumplimiento de los objetivos del plan y de los programas; a partir de los resultados obtenidos se incorporarán los cambios y reorientaciones que resulten convenientes para mantener flexibles y vigentes el plan y los programas.
+
+De la misma forma, en el Informe anual que presente el Presidente Municipal, sobre el estado que guarda la administración pública, se deberá detallar el avance de las metas fijadas en el Plan Municipal y los resultados de las acciones previstas. Informarán sobre el desarrollo y los resultados de la aplicación de los instrumentos programados.
+
+En su caso, explicará las desviaciones ocurridas y las medidas que se adopten para corregirlas.
+
+### CAPÍTULO VII. DE LA PARTICIPACIÓN DE LA SOCIEDAD
+
+###### ARTÍCULO 46.
+
+Dentro de los Sistemas Estatales y Municipales de Planeación Democrática tendrá lugar la participación y consulta de los diversos grupos sociales, con el propósito de que la población exprese sus opiniones para la elaboración, actualización y ejecución del Plan Estatal, de los Planes Municipales y de los Programas a que se refiere esta Ley.
+
+###### ARTÍCULO 47.
+
+Las organizaciones de obreros, campesinos y grupos populares; las instituciones académicas, profesionales y de investigación; los organismos empresariales y otras agrupaciones sociales, los partidos, sindicatos o asociaciones políticas con registro, así como las ciudadanas y ciudadanos en general, participarán como órganos de consulta permanente en los aspectos de la planeación democrática, a través de los foros de consulta popular que sean convocados por el Comité de Planeación para el Desarrollo del Estado y los Comités Municipales. En los mismos foros participarán los legisladores y legisladoras federales y locales.
+
+En el mismo sentido, la ciudadanía tendrá el derecho de enviar, en cualquier momento, al Comité de Planeación para el Desarrollo del Estado, así como a los Comités municipales, propuestas para que se incluyan en el Banco de Programas y Proyectos de Inversión Estatal y/o los Bancos Municipales. Los programas y proyectos que se presenten con base en el respectivo banco de proyectos tendrán prioridad en la elaboración de los Programas Operativos Anuales y el Presupuesto de Egresos del Estado y los presupuestos municipales.
+
+### CAPÍTULO VIII. RESPONSABILIDADES
+
+###### ARTÍCULO 48.
+
+A los servidores y servidoras públicas de la Administración Estatal, paraestatal y municipal que en el ejercicio de sus funciones contravengan las disposiciones de esta Ley, las que de ella se derivan, o los objetivos y prioridades del Plan Estatal y de los programas que de él se desprendan, se les impondrán las medidas disciplinarias de apercibimiento o amonestación. Si la gravedad de la infracción lo amerita, se procederá de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+###### ARTÍCULO 49.
+
+Las responsabilidades a que se refiere la presente Ley son independientes de las de orden civil, penal y oficial que puedan derivarse de los mismos hechos.
+
+###### ARTÍCULO 50.
+
+El Ejecutivo del Estado, en los convenios de coordinación que suscriban con los gobiernos municipales, propondrá la inclusión de una cláusula en la que se prevean medidas que sancionen el incumplimiento del propio convenio y de los acuerdos que del mismo se deriven.
+
+De las controversias que surjan con motivo de los mencionados convenios, conocerá el Tribunal Superior de Justicia del Estado.
+
+T R A N S I T O R I O S
+
+PRIMERO.- La presente Ley entrará en vigor a partir del 1º de enero de 2009.
+
+SEGUNDO.- Se abroga la Ley de Planeación para el Estado de Guerrero, publicada el 09 de marzo de 1991.
+
+TERCERO.- El Ejecutivo Estatal presentara al Honorable Congreso del Estado las modificaciones pertinentes al Plan Estatal de Desarrollo dentro de los 90 días siguientes al inicio de la vigencia de la presente Ley.
+
+CUARTO.- El Comité de Planeación para el Desarrollo del Estado, elaborara el banco de Programas y Proyectos dentro de los 60 días a partir de la entrada en vigor de la presente Ley.
+
+QUINTO.- Publíquese la presente Ley en el Periódico Oficial del Gobierno Libre y Soberano de Guerrero.
+
+Dada en el Salón de Sesiones del Honorable Poder Legislativo, a los veintiocho días del mes de octubre del año dos mil ocho.
+
+DIPUTADO PRESIDENTE.
+
+FERNANDO JOSÉ IGNACIO DONOSO PÉREZ.
+
+Rúbrica.
+
+DIPUTADA SECRETARIA.
+
+ALVA PATRICIA BATANI GILES.
+
+Rúbrica.
+
+DIPUTADO SECRETARIO.
+
+EDUARDO PERALTA SÁNCHEZ.
+
+Rúbrica.
+
+En cumplimiento a lo dispuesto en los artículos 74, fracción III y 76 de la Constitución Política del Estado Libre y Soberano de Guerrero, promulgo y ordeno la publicación, para su debida observancia, la presente Ley, en la Residencia Oficial del Poder Ejecutivo Estatal, en la Ciudad de Chilpancingo, Guerrero, a los once días del mes de noviembre del año dos mil ocho.
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+
+C.P. CARLOS ZEFERINO TORRE-BLANCA GALINDO.
+
+Rúbrica.
+
+EL SECRETARIO GENERAL DE GOBIERNO.
+
+LIC. GUILLERMO RAMÍREZ RAMOS.
+
+Rúbrica.
+
+EL COORDINADOR GENERAL DEL EJECUTIVO DEL ESTADO.
+
+LIC. HUMBERTO SARMIENTO LUEBBERT.
+
+Rúbrica.
