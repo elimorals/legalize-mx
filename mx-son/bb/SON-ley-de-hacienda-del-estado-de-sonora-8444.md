@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2007-12-17"
+last_updated: "2008-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -1471,6 +1471,40 @@ c).- El avalúo pericial presentado por el contribuyente cuando se trate de veh�
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
+###### Artículo 188 Bis.
+
+Los vehículos de más de 10 años modelo anteriores al año de aplicación de esta Ley, pagarán el impuesto conforme a la siguiente:
+
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
+
+TARIFA
+
+TIPOS DE VEHÍCULO AÑOS DE ANTIGÜEDAD
+
+DE 11 A 15 DE 16 A 20 DE 21 AÑOS
+
+AÑOS AÑOS EN ADELANTE
+
+Automóviles de
+
+Pasajeros: $ 500.00 $ 350.00 $ 150.00
+
+Camiones:
+
+Pick Up. $ 500.00 $ 350.00 $ 150.00
+
+Tonelada y rabón $ 950.00 $ 650.00 $ 350.00
+
+Tractores no agrícolas
+
+tipo 5ta. rueda,
+
+autobuses, torton,
+
+minibuses y microbuses: $ 2,500.00 $ 1,600.00 $ 900.00
+
+Motocicletas: $ 180.00 $120.00 $90.00
+
 ###### Artículo 188
 
 BIS.- Los vehículos de más de 10 años modelo anteriores al año de aplicación de esta Ley, pagarán el impuesto conforme a la siguiente:
@@ -1979,7 +2013,9 @@ VII.- Las demás que impongan otras disposiciones fiscales.
 
 > <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-Artículo 220 bis. Son responsables solidarios en el pago de este impuesto:
+###### Artículo 220 Bis.
+
+Son responsables solidarios en el pago de este impuesto:
 
 I.- Los sujetos que perciban los pagos gravados con este impuesto, cuando quien los realiza resida fuera del Estado.
 
@@ -1999,15 +2035,11 @@ III.- Las demás que impongan otras disposiciones fiscales.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-Artículo 221 BIS.- Las personas físicas o morales que contraten la prestación de servicios con empresas para que éstas les proporcionen a los trabajadores, deberán presentar dentro de los diez días siguientes a dicha contratación ante la oficina recaudadora que corresponda a su domicilio fiscal, aviso de inscripción al registro estatal de contribuyentes debiendo acompañar copia del contrato de prestación de servicios, e informar sobre el número de trabajadores que presten el trabajo subordinado y nombre, registro estatal de contribuyentes y domicilio de la prestadora de servicios de que se trate.
-
-> <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
-
-Las autoridades fiscales podrán requerir a las personas físicas o morales la presentación de la información a que se refiere el párrafo anterior, a fin de que en un plazo máximo de diez días cumplan con lo solicitado.
-
 ###### Artículo 221 Bis.
 
-Las personas físicas o morales que contraten la prestación de servicios con empresas para que éstas les proporcionen a los trabajadores, deberán presentar ante la oficina recaudadora de su jurisdicción dentro de los diez días siguientes a dicha contratación, información sobre el nombre, Registro Estatal de Contribuyentes y domicilio, de la prestadora de servicios de que se trate.
+Las personas físicas o morales que contraten la prestación de servicios con empresas para que éstas les proporcionen a los trabajadores, deberán presentar dentro de los diez días siguientes a dicha contratación ante la oficina recaudadora que corresponda a su domicilio fiscal, aviso de inscripción al registro estatal de contribuyentes debiendo acompañar copia del contrato de prestación de servicios, e informar sobre el número de trabajadores que presten el trabajo subordinado y nombre, registro estatal de contribuyentes y domicilio de la prestadora de servicios de que se trate.
+
+> <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
 
 Las autoridades fiscales podrán requerir a las personas físicas o morales la presentación de la información a que se refiere el párrafo anterior, a fin de que en un plazo máximo de diez días cumplan con lo solicitado.
 
@@ -2845,9 +2877,11 @@ c).- Derechos por los servicios que presta el Registro Público de la Propiedad.
 
 d).- En general por la legalización de firmas, expedición de certificados y certificaciones por cuyos servicios deban pagarse derechos en los términos de la presente Ley, y
 
-> <small>(ADICIONADA, B.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-e).- Derechos por los servicios de publicación en el Boletín Oficial.
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+e).- Derechos por los servicios que presta la Dirección General del Boletín Oficial y Archivo del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -3243,7 +3277,55 @@ b).- Copia certificada $50.00
 
 10.- Por expedición de constancia de adeudo o no adeudo fiscal y/o no inscripción en el registro estatal de contribuyentes. $50.00
 
-11.- (DEROGADO, B.O. 29 DE DICIEMBRE DE 2005)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+11.- Por los servicios relativos a la inscripción, autorización y revalidación o actualización de datos, así como por constancias de reposición, de conformidad con la Ley que Regula el Funcionamiento y Operación de Yunques y Recicladoras para el Estado de Sonora:
+
+a).- Inscripción en el Registro Estatal de Gratuita
+
+Yunques y Recicladoras:
+
+b).- Por reposición de la constancia de
+
+inscripción en el Registro Estatal de
+
+Yunques y Recicladoras, a petición del
+
+solicitante: $ 240.00
+
+c).- Autorización para el establecimiento
+
+de yunques: Gratuita
+
+d).- Autorización para el establecimiento de
+
+recicladoras: Gratuita
+
+e).- Reposición de la constancia de
+
+autorización para el establecimiento de
+
+yunques, a petición del solicitante: $ 240.00
+
+f).- Reposición de la constancia de
+
+autorización para el establecimiento de
+
+recicladoras, a petición del solicitante: $ 240.00
+
+g).- Revalidación o actualización bianual de datos,
+
+a partir del año de inscripción, en los primeros cuatro
+
+meses del año que ocurra: Gratuita
+
+h).- Reposición de la constancia de revalidación
+
+o actualización bianual de datos, a petición del
+
+solicitante: $ 240.00
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -4565,47 +4647,65 @@ transporte concesionado por el Estado. N$3,000.00
 
 aspectos de desarrollo urbano $122.00
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+11.- (DEROGADO, B.O. 26 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+12.- Por los servicios de resolución y dictamen
+
+de estudio de impacto ambiental:
+
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
-
-11.- Evaluación de cédula de operación. $1,222.00
-
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
-
-12.- Por los servicios de evaluación y dictamen de
-
-estudio de impacto ambiental:
 
 a).- Riesgo ambiental. $3,615.00
 
-b).- Informe preventivo. $2,202.00
-
-c).- Manifestación de impacto ambiental, modalidad
-
-general. $4,267.00
-
-d).- Manifestación de impacto ambiental, modalidad
-
-intermedia. $6,401.00
-
-e).- Manifestación de impacto ambiental, modalidad
-
-específica. $9,602.00
-
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
-13.- Por los servicios de evaluación de información
+b).- Informe preventivo. $2,202.00
 
-y dictamen para:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a).- Otorgamiento de licencia de funcionamiento. $3,773.00
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+c).- Resolución de impacto ambiental, modalidad
 
-b).- Actualización de la licencia de funcionamiento $1,853.00
+general: $4,267.00
 
-c).- Actualización de la autorización en materia
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-de impacto ambiental. $1,578.00
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+d).- Resolución de impacto ambiental, modalidad
+
+intermedia: $6,401.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+e).- Resolución de impacto ambiental, modalidad
+
+específica: $9,602.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+13.- Por los servicios de evaluación e información y dictamen para:
+
+a).- Resolución de licencia de funcionamiento: $3,773.00
+
+b).- Resolución de actualización de licencia de $1,853.00
+
+funcionamiento:
+
+c).- Resolución de actualización en materia de $1,578.00
+
+impacto ambiental:
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -4820,6 +4920,14 @@ No se causará ningún derecho por exhumación de
 cadáveres cuando esta sea decretada por autoridad
 
 judicial o por el Ministerio Público en un proceso penal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+
+20.- Guía para examen de responsable técnico de
+
+aplicación de plaguicidas: $ 422.00
 
 IV.- Servicios Prestados por la Secretaría de Educación y Cultura del Estado.
 
@@ -5626,3 +5734,9 @@ El artículo tercero del presente decreto entrará en vigor el día siguiente al
 ###### ARTÍCULO SEGUNDO.
 
 El próximo canje de placas para vehículos de propulsión mecánica deberá efectuarse en el ejercicio fiscal de 2008 y así sucesivamente en los trienios posteriores.
+
+B.O. 26 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del 1° de enero de 2009, previa su publicación en el Boletín Oficial del Gobierno del Estado.
