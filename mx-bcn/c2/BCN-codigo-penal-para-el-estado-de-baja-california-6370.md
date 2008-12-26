@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2008-10-31"
+last_updated: "2008-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2008.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2853,6 +2853,10 @@ Tipo y punibilidad.- Al que obligue, procure, facilite, o induzca la corrupción
 
 Cuando la conducta encaminada a corromper consista en la realización de actos sexuales reales o simulados o a inducirlo a la práctica de la prostitución, el uso o consumo de sustancias toxicas, psicotrópicas, señaladas en la Ley General de Salud, formar parte de una asociación delictuosa, o cometer algún delito, la pena será de cinco a diez años de prisión y de trescientos a setecientos días multa.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2008)</small>
+
+Asimismo, comete el delito de corrupción a que se refiere este Capítulo, quien ejecute actos de exhibicionismo corporal con fin lascivo o sexual ante una o varias personas menores de dieciocho años de edad o que no tienen la capacidad para comprender el significado del hecho, o que no tienen capacidad para resistirlo, o los obligue, induzca, procure o facilite a realizar dichos actos se le impondrá una pena de seis meses a dos años de prisión y de treinta a trescientos días de multa.
+
 No se entenderá por corrupción, los programas preventivos, educativos o de cualquier índole que diseñen e impartan las instituciones públicas, privadas o sociales que tengan por objeto la educación sexual, educación sobre función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo de adolescentes, siempre que estén aprobados por la autoridad competente; las fotografías, video grabaciones, audio grabaciones o las imágenes fijas o en movimiento, impresas, plasmadas o que sean contenidas o reproducidas en medios magnéticos, electrónicos o de otro tipo y que constituyan recuerdos familiares.
 
 En caso de duda, el juez solicitará dictámenes de peritos para evaluar la conducta en cuestión.
@@ -4508,3 +4512,7 @@ P.O. 16 DE MAYO DE 2008.
 P.O. 31 DE OCTUBRE DE 2008.
 
 ÚNICO.- La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2008.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación, en el Periódico Oficial del Estado.
