@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2007-12-29"
+last_updated: "2008-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
 
@@ -131,9 +131,13 @@ La base de este impuesto será determinada conforme a las siguientes disposicion
 
 I. Tratándose de vehículos automotrices cuyos modelos sean del año en curso, el valor total consignado en la factura original expedida por el distribuidor deduciéndose el 10% por demérito.
 
-II. Tratándose de vehículos automotrices cuyo modelo sea anterior al año en curso, el valor que determine para unidades usadas, la Asociación Mexicana de Distribuidores de Automóviles, A. C., a la fecha de la operación.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
-III. Tratándose de vehículos automotrices cuyos modelos y valores no estén especificados por la Asociación Mexicana de Distribuidores de Automóviles A.C., la Secretaría de Finanzas practicará un avalúo para determinar el valor que sirva de base para el pago del impuesto.
+II. Tratándose de vehículos automotrices cuyo modelo sea anterior al año en curso, el valor que determine para unidades usadas la Guía Autoprecios, S.A. de C.V., a la fecha de la operación.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+
+III. Tratándose de vehículos automotrices cuyos modelos y valores no estén especificados por la Guía Autoprecios, S.A. de C.V., la Secretaría de Finanzas practicará un avalúo para determinar el valor que sirva de base para el pago del impuesto.
 
 IV. Tratándose de motocicletas, motonetas y similares, el valor de la factura o documento respectivo, deduciéndose un 10% por depreciación anual. En caso de no consignarse cantidad alguna, se practicará un avalúo por la Secretaría de Finanzas para determinar el valor que sirva de base al pago del impuesto.
 
@@ -141,11 +145,11 @@ V. Tratándose de otros bienes muebles distintos a los señalados en las fraccio
 
 DE LA TASA
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
 ###### ARTICULO 8.
 
-Este impuesto se determinará aplicando a la base gravable, la tasa del 1.50%. En ningún caso el impuesto determinado será menor a 1 cuota.
+Este impuesto se determinará aplicando a la base gravable, la tasa del 1.40 %. En ningún caso el impuesto determinado será menor de 1 cuota.
 
 DEL PAGO
 
@@ -297,11 +301,35 @@ Para los efectos de este impuesto, se consideran erogaciones destinadas a remune
 
 DEL SUJETO
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
 ###### ARTICULO 29.
 
-Son sujetos de este impuesto las personas físicas, morales, las unidades económicas, la Federación y sus organismos descentralizados y desconcentrados, que realicen las erogaciones a que se refiere el artículo anterior.
+Son sujetos y están obligados al pago de este impuesto, las personas físicas, las personas morales, las unidades económicas, la Federación y sus organismos descentralizados y desconcentrados, que realicen las erogaciones o pagos a que se refiere el artículo anterior, conforme a lo siguiente:
+
+I.- Los residentes en el Estado de Zacatecas respecto de todas las erogaciones que habitual o accidentalmente realicen en el Estado de Zacatecas, y
+
+II.- Los residentes fuera del Estado de Zacatecas, respecto de todas las erogaciones que habitual o accidentalmente realicen en el Estado de Zacatecas.
+
+Se consideran unidades económicas entre otras, a las empresas, las sucesiones, los fideicomisos y las asociaciones en participación a que se refiere la Ley General de Sociedades Mercantiles o cualquier otra forma de asociación, que realicen actividades gravadas por las leyes fiscales y por las que deban pagar el impuesto establecido en este capítulo.
+
+Se consideran residentes en el Estado de Zacatecas, las personas físicas, las personas morales, las unidades económicas y los demás sujetos a que se refiere el presente capítulo, que realicen las erogaciones o pagos a que se refiere el artículo 28 de esta Ley y que respectivamente se ubiquen en los siguientes supuestos:
+
+a) Que tengan su domicilio principal o casa habitación en el Estado;
+
+b) Que tenga una o más sucursales, agencias, oficinas, bodegas o instalaciones, establecimientos o locales en el Estad (sic), y
+
+c) Que realicen los actos o actividades gravados conforme al impuesto establecido en este capítulo.
+
+Están obligados a retener y enterar este impuesto, las personas físicas, las personas morales y las unidades económicas, que contraten la prestación de servicios objeto de este impuesto con personas físicas, personas morales o unidades económicas residentes fuera del Estado de Zacatecas.
+
+Cuando se efectúen las retenciones a que se refiere el párrafo anterior, los retenedores deberán proporcionar a la persona o unidad económica prestadora del servicio, la constancia de retención correspondiente, de acuerdo con el formulario que apruebe y publique la Secretaria de Finanzas.
+
+Cuando no se efectúen las retenciones a que se refiere el párrafo anterior, las autoridades fiscales presumirán, salvo prueba en contrario, que el impuesto omitido es el que resulte de aplicar la tasa a que se refiere el artículo 31 de este Capítulo, al total de las contraprestaciones pactadas con el prestador del servicio, determinado en función del resultado que se obtenga respecto de los pagos realizados, en el ejercicio de las facultades de comprobación ejercidas con el sujeto retenedor u obligado a retener el impuesto.
+
+En el caso a que se refiere el párrafo anterior, la persona física, la persona moral y la unidad económica que se beneficie con los trabajos o servicios prestados por los trabajadores de las empresas contratadas, será responsable solidario con éstas respeto del cumplimiento de las obligaciones establecidas en esta Ley. Asimismo tendrá el carácter de sujeto obligado para los efectos de esta ley.
+
+La obligación solidaria podrá ser determinada por la Secretaría de Finanzas ante el incumplimiento de la empresa que funja como patrón de los trabajadores que ejecuten los trabajos o presenten los servicios a la empresa que contrata; en este supuesto si el patrón omite enterar total o parcialmente el importe del impuesto causado en relación con los trabajadores que ejecutaron los trabajos o prestaron los servicios al responsable solidario, la Secretaría de Finanzas determinará y fijará el monto del crédito que por concepto del impuesto causado se haya originado, y le será notificado y cobrado al responsable solidario.
 
 DE LA BASE
 
@@ -381,11 +409,15 @@ m) Pagos a personas discapacitadas.
 
 n) Primas de seguros por gastos médicos o de vida.
 
-ñ) El pago de aguinaldos o gratificaciones de fin de año:
+ñ) El pago de aguinaldos o gratificaciones de fin de año.
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
 
 o) El pago de despensas que haga el patrón a sus trabajadores en especie o en vales.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+q) (sic) Los pagos que se efectúen a personas mayores de 60 años.
 
 II. Las erogaciones que efectúen:
 
@@ -1001,7 +1033,17 @@ b) Bicicleta 1 cuota;
 
 III. Reposición de tarjeta de circulación: 1 cuota;
 
-IV. La verificación que se realice de documentación con otras entidades, respecto de vehículos que soliciten emplacamiento en el Estado; 4 cuotas;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+
+IV. La verificación que se realice de documentación
+
+con otras entidades, respecto de vehículos que
+
+soliciten emplacamiento en el Estado, conforme a lo siguiente:
+
+a). Expedición con vigencia de tres días hábiles 4 cuotas;
+
+b). Reposición 4 cuotas.
 
 V. Baja de Placas 1 cuota;
 
@@ -1035,61 +1077,61 @@ Cuando no se cubra la contribución dentro del plazo señalado, deberán pagarse
 
 El refrendo de la tarjeta de circulación y expedición de calcomanía con vigencia al 31 de marzo del año siguiente, deberá efectuarse durante los primeros tres meses del mencionado año, para:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 I. Vehículos de servicio particular:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-a) Modelos 2007. 16.5 cuotas;
+a). Del año en curso 16.5 cuotas;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-b) Modelos 2006. 15.5 cuotas;
+b). Con un año de antigüedad 15.5 cuotas;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-c) Modelos 2005. 14.5 cuotas;
+c). Con dos años de antigüedad 14.5 cuotas;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-d) Modelos 2004. 13.5 cuotas;
+d). Con tres años de antigüedad 13.5 cuotas;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-e) Modelos 2003 12.5 cuotas;
+e). Con cuatro años de antigüedad 12.5 cuotas;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-f) Modelos 2002 y anteriores 11.5 cuotas;
+f). Con cinco y más años de antigüedad 11.5 cuotas;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 II. Vehículos al servicio público:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-a) Modelos 2007 16.5 cuotas;
+a). Del año en curso 16.5 cuotas;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-b) Modelos 2006 15.5 cuotas;
+b). Con un año de antigüedad 15.5 cuotas;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-c) Modelos 2005 14.5 cuotas;
+c). Con dos años de antigüedad 14.5 cuotas;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-d) Modelos 2004 13.5 cuotas;
+d). Con tres años de antigüedad 13.5 cuotas;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-e) Modelos 2003 12.5 cuotas;
+e). Con cuatro años de antigüedad 12.5 cuotas;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-f) Modelos 2002 y anteriores 11.5 cuotas;
+f). Con cinco y más años de antigüedad 11.5 cuotas;
 
 III. Remolques 5 cuotas;
 
@@ -1113,25 +1155,77 @@ Los servicios que presten por concepto de:
 
 I. Avalúo:
 
-a) Tratándose de terrenos urbanos cuyo valor no exceda de 2.5 veces el salario mínimo general vigente elevado al año (valor catastral asignado al terreno de interés social). 4 cuotas;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-b) Tratándose de terrenos urbanos cuyo valor se encuentre entre los 2.5 y 7 veces el salario mínimo general vigente elevado al año. (Valor catastral asignado al terreno de interés medio) 8 cuotas;
+a). Tratándose de terrenos urbanos cuyo
 
-c) Tratándose de terrenos rústicos cuyo valor no exceda 4 veces el salario mínimo general vigente elevado al año. 4 cuotas;
+valor no exceda de 2.5 veces el salario
 
-d) Tratándose de terrenos rústicos cuyo valor se encuentre entre 4 y 8 veces el salario mínimo general vigente elevado al año. 8 cuotas;
+mínimo general vigente elevado al año
+
+(valor catastral asignado al terreno de
+
+interés social). 3 cuotas;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+b). Tratándose de terrenos cuyo valor se
+
+encuentre entre los 2.5 y 7 veces el salario
+
+mínimo general vigente elevado al año.
+
+(valor catastral asignado al terreno de
+
+interés social). 7 cuotas;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+c). Tratándose de terrenos rústicos cuyo
+
+valor no exceda 4 veces el salario mínimo
+
+general vigente elevado al año. 3 cuotas;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+d). Tratándose de terrenos rústicos cuyo
+
+valor se encuentre entre 4 y 8 veces el
+
+salario mínimo general vigente elevado
+
+al año. 7 cuotas;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+e). Tratándose de predio con construcción,
+
+cuyo valor no exceda al equivalente a 7
+
+veces el salario mínimo general vigente
+
+elevado al año. (valor catastral asignado
+
+a la vivienda popular). 5 cuotas;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+f). Tratándose de predio con construcción
+
+cuyo valor se encuentre entre los 7 y 14
+
+veces el salario mínimo general vigente
+
+elevado al año. (valor catastral asignado
+
+a la vivienda de interés medio). 11 cuotas;
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+g). Para avalúos cuyo monto rebase lo previsto en los incisos anteriores se aplicará la tarifa adicional de 14.0 (catorce) al millar al monto excedente.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
-
-e) Tratándose de predio con construcción, cuyo valor no exceda al equivalente a 7 veces el salario mínimo general vigente elevado al año. (valor catastral asignado a la vivienda popular) 6 cuotas;
-
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
-
-f) Tratándose de predio con construcción cuyo valor se encuentre entre los 7 y 14 veces el salario mínimo general vigente elevado al año. (Valor catastral asignado a la vivienda de interés medio) 12 cuotas
-
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
-
-g) Para avalúos cuyo monto rebase lo previsto en los incisos anteriores se aplicará la tarifa adicional de 15.0 (quince) al millar al monto excedente.
 
 En ningún caso, los derechos por concepto de avalúo, excederán al equivalente de 250 cuotas.
 
@@ -1139,41 +1233,49 @@ En ningún caso, los derechos por concepto de avalúo, excederán al equivalente
 
 h) Renovaciones:
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2002)</small>
 
 Para el caso de expedición de avalúos cuya vigencia haya caducado conforme a lo establecido en la Ley de Catastro del Estado, a las tarifas anteriores se aplicará proporcionalmente atendiendo a lo siguiente:
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-- Durante el mes siguiente a la fecha de caducidad 25.00%
+- Durante el mes siguiente a la
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+fecha de caducidad. 20.00%
 
-- Para el segundo mes 50.00 %
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+- Para el segundo mes. 45.00%
 
-- Para el tercer mes 75.00 %
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+- Para el tercer mes. 70.00%
 
 A partir del inicio del cuarto mes posterior a la caducidad se considerará como emisión de nuevo avalúo.
 
 II. Deslinde o levantamiento topográfico de predios urbanos:
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
-Hasta de 200.00 m2 10 cuotas
+Hasta de 200.00 m2 9 cuotas
 
-De 200.01 a 400.00 m2 12 cuotas
+De 200.01 a 400.00 m2 11 cuotas
 
-De 400.01 a 600.00 m2 14 cuotas
+De 400.01 a 600.00 m2 13 cuotas
 
-De 600.01 a 1000.00 m2 20 cuotas
+De 600.01 a 1000.00 m2 19 cuotas
 
-Para la superficie mayor de mil metros, por cada metro cuadrado excedente se aplicará una cuota de: $ 0.25
+Para la superficie mayor de mil
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+metros, por cada metro cuadrado
 
-III. Elaboración del plano que tenga por objeto el servicio a que se refiere la fracción anterior: 8 cuotas;
+excedente se aplicará una cuota de: $0.20
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+
+III. Elaboración del plano que tenga por objeto el
+
+servicio a que se refiere la fracción anterior: 7 cuotas;
 
 IV. Deslinde o levantamiento topográfico de predios rústicos:
 
@@ -1181,39 +1283,57 @@ TERRENO TERRENO TERRENO
 
 PLANO DE LOMERIO ACCIDENTADO
 
-a) Hasta 5-00-00 has. 15 cuotas 31 cuotas 54 cuotas
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+a) Hasta de 5-00-00 has. 14 cuotas 30 cuotas 53 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
 b) De 5-00-01 has.
 
-a 10-00-00 has 23 cuotas 54 cuotas 62 cuotas
+a 10-00-00 has. 22 cuotas 53 cuotas 61 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
 c) De 10-00-01 has.
 
-a 15-00-00 has. 38 cuotas 70 cuotas 76 cuotas
+a 15-00-00 has. 37 cuotas 69 cuotas 75 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
 d) De 15-00-01 has.
 
-a 20-00-00 has. 46 cuotas 85 cuotas 108 cuotas
+a 20-00-00 has. 45 cuotas 84 cuotas 107 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
 e) De 20-00-01 has.
 
-a 40-00-00 has. 92 cuotas 131 cuotas 170 cuotas
+a 40-00-00 has. 91 cuotas 130 cuotas 169 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
 f) De 40-00-01 has.
 
-a 60-00-00 has. 139 cuotas 177 cuotas 216 cuotas
+a 60-00-00 has. 138 cuotas 176 cuotas 215 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
 g) De 60-00-01 has.
 
-a 80-00-00 has. 185 cuotas 224 cuotas 263 cuotas
+a 80-00-00 has. 184 cuotas 223 cuotas 262 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
 h) De 80-00-01 has.
 
-a 100-00-00 has. 232 cuotas 270 cuotas 309 cuotas
+a 100-00-00 has. 231 cuotas 269 cuotas 308 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
 i) De 100-00-01 has.
 
-A 200-00-00 has. 278 cuotas 324 cuotas 386 cuotas
+a 200-00-00 has. 277 cuotas 323 cuotas 385 cuotas
 
 j) De 200-00-01 has., en adelante,
 
@@ -1223,81 +1343,209 @@ excedente. 1 cuota 1 cuota 1 cuota
 
 k) Si el levantamiento topográfico se solicita con curvas de nivel, se tasará el doble de lo que resulte la clasificación del terreno que le corresponda;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-l) Cuando el levantamiento topográfico que se solicite deba realizarse a una distancia mayor a un radio de 30 kilómetros de la ciudad de Zacatecas, se cobrará por cada kilómetro adicional $ 4.40;
+l) Cuando el levantamiento topográfico que se
+
+solicite deba realizarse a una distancia mayor
+
+a un radio de 30 kilómetros de la ciudad de
+
+Zacatecas, se cobrará por cada kilómetro
+
+adicional $4.00
 
 V. Elaboración del plano que tenga por objeto el servicio a que se refiere la fracción anterior:
 
-a) 1: 100 a 1: 5,000 30 cuotas;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-b) 1: 5,000 a 1: 10,000 18 cuotas
+a) 1: 100 a 1: 5,000 29 cuotas;
 
-c) 1: 10,000 en adelante 8 cuotas
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+b) 1: 5,001 a 1: 10,000 17 cuotas;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+c) 1: 10,001 en adelante 7 cuotas;
 
 VI. Certificación de acta de:
 
-a) Deslinde de predios 5 cuotas
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-b) Ficha catastral 5 cuotas
+a) Deslinde de predios 4 cuotas;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+b) Ficha catastral 4 cuotas;
 
 VII. Certificación de plano en:
 
-a) Urbano 5 cuotas
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-b) Rústico 5 cuotas
+a) Urbano 4 cuotas;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+b) Rústico 4 cuotas;
 
 VIII. Copia de plano:
 
-a) Plano impreso de la zona conurbada Zacatecas-Guadalupe, edición 1995 6 cuotas
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-b) Plano manzanero de zonas urbanas de las cabeceras municipales de: Zacatecas, Guadalupe, Fresnillo, Jerez, Río Grande, Sombrerete, Ojocaliente, Calera, Jalpa, Loreto, Tlaltenango, Valparaíso y Villanueva. 30 cuotas
+a) Plano impreso de la zona
 
-c) Plano manzanero de zonas urbanas de las cabeceras municipales de: Morelos, Villa de Cos, Pinos, Juchipila, Juan Aldama, Luis Moya, Miguel Auza, Monte Escobedo, Nochistlán de Mejía, Saín Alto, Tabasco, Tepetongo, Villa García, Cañitas de Felipe Pescador, Téul de González Ortega, Chalchihuites, Fco. R. Murguía, Concepción del Oro, Cuauhtémoc, Tepechitlán y Trancoso. 24 cuotas
+conurbada Zacatecas-Guadalupe,
 
-d) Plano manzanero de zonas urbanas de las cabeceras municipales de: Apozol, Apulco, Atolinga, Benito Juárez, Jiménez del Téul, García de la Cadena, Genaro Codina, Gral. Enrique Estrada, Gral. Joaquín Amaro, Gral. Pánfilo Natera, Huanusco, Momax, Moyahua de Estrada, Mazapil, Melchor Ocampo, Mezquital del Oro, Noria de Angeles, Pánuco, El Salvador, Susticacán, Vetagrande, Villa Hidalgo y Villa González Ortega. 15 cuotas
+edición 1995. 5 cuotas
 
-e) Plano del Estado de Zacatecas con la división política de los Municipios, vías de comunicación y localización de poblaciones. 32 cuotas
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+b) Plano manzanero de zonas
+
+urbanas de las cabeceras
+
+municipales de: Zacatecas,
+
+Guadalupe, Fresnillo, Jerez,
+
+Río Grande, Sombrerete,
+
+Ojocaliente, Calera, Jalpa,
+
+Loreto, Tlaltenango,
+
+Valparaíso y Villanueva 29 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+c) Plano manzanero de zonas
+
+urbanas de las cabeceras
+
+municipales de: Morelos, Villa
+
+de Cos, Pinos, Juchipila, Juan
+
+Aldama, Luis Moya, Miguel Auza,
+
+Monte Escobedo, Nochistlán de
+
+Mejía, Saín Alto, Tabasco,
+
+Tepetongo, Villa García, Cañitas
+
+de Felipe Pescador, Teúl de
+
+González Ortega, Chalchihuites,
+
+Fco. R. Murguía, Concepción del Oro,
+
+Cuauhtémoc, Tepechitlan y Trancoso 23 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+d) Plano manzanero de zonas
+
+urbanas de las cabeceras
+
+municipales de: Apozol, Apulco,
+
+Atolinga, Benito Juárez, Jiménez
+
+del Teúl, García de la Cadena,
+
+Genaro Codina, Gral. Enrique
+
+Estrada, Gral. Joaquín Amaro,
+
+Gral. Pánfilo Natera, Huanusco,
+
+Momax, Moyahua de Estrada,
+
+Mazapil, Melchor Ocampo, Mezquital
+
+del Oro, Noria de Ángeles, Pánuco, El
+
+Salvador, Susticacán, Vetagrande,
+
+Villa Hidalgo y Villa González Ortega 14 cuitas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+e) Plano del Estado de Zacatecas
+
+con la división política de los
+
+municipios, vías de comunicación
+
+y localización de poblaciones. 31 cuotas
 
 IX. Expedición de planos manzaneros con impresión digital, con predios, manzanero, curvas a nivel, cuotas de crucero y nombres de calles con alcance de 1 km 2:
 
-a) Escala 1:1000 32 cuotas
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-b) Escala 1:2000 17 cuotas
+a) Escala 1:1000 31 cuotas
 
-c) Escala 1:5000 10 cuotas
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+b) Escala 1: 2000 16 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+c) Escala 1: 5000 9 cuotas
 
 X. Expedición de planos manzaneros con impresión digital, con predios y nombres de calles de alcance de 1 km 2:
 
-a) Escala 1:1000 16 cuotas
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-b) Escala 1:2000; 12 cuotas
+a) Escala 1:1000 15 cuotas
 
-c) Escala 1:5000; 10 cuotas
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+b) Escala 1:2000 11 cuotas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+c) Escala 1:5000 9 cuotas
 
 XI. Expedición de copia de título de propiedad o de otro existente en los archivos de catastro:
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-a) Certificadas hasta cinco fojas: 5 cuotas
+a) Certificadas hasta por cinco fojas: 4 cuotas
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+Por cada foja excedente $15.00
 
-Por cada foja excedente $ 16.50
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+b) Simples, hasta 5 fojas: 1cuota
 
-b) Simples, hasta 5 fojas: 2 cuotas
+Por cada foja excedente $15.00
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
-Por cada foja excedente $ 16.50
+XII. Verificación física del inmueble 9 cuotas
 
-XII. Verificación física de inmueble 10 cuotas;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
-XIII. Expedición de constancias de propiedad o no propiedad. 5 cuotas;
+XIII. Expedición de constancias de
 
-XIV. Por los servicios que se soliciten cuando los antecedentes a que se refiera se encuentren fuera del distrito judicial al que se dirija la petición, se cobrará una tarifa adicional por documento equivalente a: 6 cuotas.
+propiedad o no propiedad. 4 cuotas;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+
+XIV. Por los servicios que se soliciten cuando
+
+los antecedentes a que se refiera se
+
+encuentren fuera del distrito judicial al
+
+que se dirija la petición, se cobrará
+
+una tarifa adicional por documento
+
+equivalente a: 5 cuotas
 
 XV. Los conceptos no considerados en el presente artículo se tasarán de acuerdo con su monto equiparable en cuotas de salario mínimo.
 
@@ -1315,31 +1563,37 @@ Los servicios que presten por concepto de:
 
 Salarios Mínimos
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
-I. Calificación Registral, 1 cuota
+I. Calificación registral, por testimonio
+
+o documento ½ cuota
 
 II. Inscripción de documentos relativos a bienes inmuebles:
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-a) Tratándose de inmuebles con valor de hasta siete
+a) Tratándose de inmuebles
 
-veces el salario mínimo vigente elevado al año, se
+con valor de hasta siete veces
 
-cubrirá la tarifa mínima general por inmueble
+el salario mínimo vigente elevado
 
-equivalente a: 12 cuotas
+al año, se cubrirá la tarifa mínima
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 2002)</small>
+general por el inmueble equivalente a: 11 cuotas
 
-b) Tratándose de inmuebles cuyo valor se sitúe
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-entre las 7.0 y 14.0 veces el salario mínimo
+b) Tratándose de inmuebles cuyo
 
-vigente elevado al año se cubrirá la tarifa base
+valor se sitúe entre las 7.0 y las
 
-por inmueble de: 30 cuotas
+14.0 veces el salario mínimo vigente
+
+elevado al año cubrirá la tarifa base
+
+por inmueble de: 29 cuotas
 
 Para inscripciones cuyo monto rebase el rango de valor establecido en el inciso anterior, se aplicará la tarifa adicional del 1.0% al monto excedente.
 
@@ -1347,17 +1601,23 @@ En ningún caso, los derechos por inscripción de documentos relativos a bienes 
 
 La base gravable será el valor que resulte mayor entre el avalúo practicado por la Dirección de Catastro y Registro Público, el inserto en el documento o el avalúo bancario.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-Registro de instrumentos notariales celebrados
+Registro de instrumentos notariales
 
-ante fedatarios públicos de otras entidades
+celebrados ante fedatarios públicos
 
-federativas, con consecuencias jurídicas en el
+de otras entidades federativas, con
 
-Estado, adicionalmente al monto de derechos
+consecuencias jurídicas en el Estado,
 
-que cause el acto, 25 cuotas
+de otras entidades federativas, con
+
+consecuencias jurídicas en el Estado,
+
+adicionalmente el monto de derechos
+
+que cause el acto, 30 cuotas
 
 En el supuesto de que la operación se realice sólo respecto al suelo y en el mismo existan edificaciones o plantaciones, se tasará sobre el valor total del bien en razón de la plusvalía que adquiere el predio por las edificaciones y plantaciones.
 
@@ -1401,77 +1661,123 @@ Para los efectos de este capítulo se equiparan a la compraventa los siguientes 
 
 18.- División de copropiedad, por cada uno de los predios resultantes.
 
-III. Diligencias de apeo y deslinde: 4 cuotas;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
-IV. Capitulaciones matrimoniales: 4 cuotas;
+III. Diligencias de apeo y deslinde: 3 cuotas;
 
-V. En la inscripción del régimen de propiedad
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
-en condominio, por cada departamento,
+IV. Capitulaciones matrimoniales: 3 cuotas;
 
-despacho, vivienda, local, cajón de estacionamiento
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
-o cualquier otro tipo de unidades privativas: 4 cuotas;
+V. En la inscripción del régimen
 
-VI. Fusión de predios, por cada uno de los predios
+de propiedad en condominio, por
 
-fusionados: 2 cuotas;
+cada departamento, despacho, vivienda,
 
-VII. Actos, contratos, convenios o autorizaciones
+local, cajón de estacionamiento o
 
-por los que se fraccione, lotifique o subdivida un
+cualquier otro tipo de unidades privativas: 3 cuotas;
 
-predio, por cada lote o fracción: 2 cuotas;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
-VIII. Por la inscripción o anotación relativa a la limitación o gravamen de la propiedad y posesión de inmuebles, se tasará al .40% sobre el valor de limitación o gravamen, cuando no se determine o no se inserte éste, se pagará la cantidad de:
+VI. Fusión de predios, por cada uno
 
-Se tasarán en igual forma los actos o contratos siguientes:
+de los predios fusionados: 1cuota;
 
-a) Arrendamiento, subarrendamiento o cesión de arrendamiento;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
-b) Constitución o sustitución de garantías reales.
+VII. Actos, contratos, convenios o
 
-c) Sesión de garantías u obligaciones reales. 12 cuotas
+autorizaciones por los que se fraccione,
 
-d) Comodato o convenios judiciales.
+notifique o subdivida un predio, por cada
 
-e) Demandas o resoluciones que limiten el derecho de propiedad o posesión;
+lote o fracción: 1cuota;
 
-f) Fideicomiso de afectación o administración en garantía y en el que el o los fideicomitentes, se reserven expresamente la propiedad;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
-g) El cumplimiento de condiciones suspensivas a que se haya sujetado la transmisión de la propiedad;
+VIII. Por la inscripción o anotación relativa a la limitación o gravamen de la propiedad y posesión de inmuebles, se tasará al 0.35% sobre el valor de limitación o gravamen, cuando no se determine o no se inserte éste, se pagará la cantidad de:
 
-h) Fianzas;
+a). Arrendamiento, subarrendamiento
 
-i) Prendas sobre crédito inscrito;
+o cesión de arrendamiento 11 cuotas
 
-j) Prenda de frutos pendientes;
+b). Constitución o sustitución de garantías
 
-k) Uso, usufructo, servidumbre y contratos de crédito refaccionario, de habilitación y avío celebrado entre particulares;
+reales 11 cuotas
 
-l) División de copropiedad, por cada uno de los predios resultantes.
+c). Sesión de garantías u obligaciones reales 11 cuotas
 
-IX. Por el registro de cédula hipotecaria, embargo judicial o administrativo, se tasará en 10 cuotas, hasta un monto equivalente a siete veces el salario mínimo general elevado al año, por el valor superior a éste, al 1%;
+d). Comodato o convenios judiciales 11 cuotas
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+e). Demandas o resoluciones que limiten
 
-X. Contrato de promesa de venta, se tasará al .5% sobre el valor que se manifieste en el documento.
+el derecho de propiedad o posesión; 11 cuotas
 
-XI. Contrato de apertura de crédito: 7 cuotas;
+f). Fideicomiso de afectación o administración
 
-XII. Créditos hipotecarios, refaccionarios, de habilitación y avío otorgados por las instituciones de crédito, .25% sobre el importe de la operación que se consigne en el documento. Los créditos otorgados en los que intervenga el fondo instituido en relación a la agricultura (FIRA), el .18% sobre el monto.
+en garantía y en el que el o los fideicomitentes,
+
+se reserven expresamente la propiedad 11 cuotas
+
+g). El cumplimiento de condiciones
+
+suspensivas a que se haya sujetado
+
+la transmisión de la propiedad 11 cuotas
+
+h). Fianzas 11 cuotas
+
+i). Prendas sobre crédito inscrito 11 cuotas
+
+j). Prenda de frutos pendientes 11 cuotas
+
+k). Uso, usufructo, servidumbre y
+
+contratos de crédito refaccionario, de
+
+habilitación y avío celebrado entre
+
+particulares; 11 cuotas
+
+l). División de copropiedad, por cada
+
+uno de los predios resultantes 11 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+
+IX. Por el registro de cédula hipotecaria; embargo judicial o administrativo, se trasará en 9 cuotas, hasta un monto equivalente a siete veces el salario mínimo general elevado al año, por el valor superior a éste, al 1%;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+
+X. Contrato de promesa de venta, se tasará al 0.4% sobre el valor que se manifieste en el documento.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+
+XI. Contrato de apertura de crédito: 6 cuotas;
+
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+XII. Créditos hipotecarios, refaccionarios, de habilitación y avío otorgados por las instituciones de crédito, 0.20 % sobre el importe de la operación que se consigne en el documento. Los créditos otorgados en los que intervenga el fondo instituido en relación a la agricultura (FIRA), el 0.16% sobre el monto.
 
 Tratándose de reestructuración de crédito o de convenios de reconocimiento de adeudo, se tasará sobre el diferencial entre el registrado y el que contenga la reestructura o el convenio de reconocimiento del adeudo.
 
-Créditos hipotecarios, refaccionarios, de habilitación y avío, otorgados dentro del programa federal de PROCAMPO, o el que se instituya en su caso .09% sobre el importe de la operación que se consigne en el documento.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+Créditos hipotecarios, refaccionarios, de habilitación y avío, otorgados dentro del programa federal de PROCAMPO, o el que se instituya en su caso .08% sobre el importe de la operación que se consigne en el documento.
 
-En materia de crédito para adquisición de vivienda el registro del contrato de hipoteca y crédito simple, se tasará al .125% sobre el importe de la operación que se consigne, sin cargo por concepto de contrato de apertura de crédito.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-XIII. Inscripción de documentos que contengan los
+En materia de crédito para adquisición de vivienda el registro de contrato de hipoteca y crédito simple, se tasará al 0.115% sobre el importe de la operación que se consigne, sin cargo por concepto de contrato de apertura de crédito.
 
-siguientes actos: 10 cuotas
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+XIII. Inscripción de documentos que contengan
+
+los siguientes actos: 9 cuotas
 
 a) Testamento.
 
@@ -1489,7 +1795,9 @@ f) Depósito de testamento ológrafo;
 
 g) Modificación al contrato inicial por error material.
 
-XIV. Inscripción de actos relativos a bienes muebles, .40% por los conceptos siguientes:
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+XIV. Inscripción de actos relativos a bienes muebles, 0.35% por los conceptos siguientes:
 
 a) Operaciones traslativas de dominio sujetas a condición resolutoria;
 
@@ -1499,17 +1807,23 @@ c) Compraventa;
 
 d) Compraventa con reserva de dominio se tasará sobre el valor inserto en el documento; a falta de éste sobre el avalúo que practique la Secretaria de Finanzas.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
-XV. Registro de personas morales o aumento de
+XV. Registro de personas morales
 
-su capital social, .30% sobre el monto de capital
+o aumento de su capital social, 0.28%
 
-social o sus aumentos, en los casos que dicho
+sobre el monto de capital social o sus
 
-capital no exceda de $185,000.00 se pagará 12 cuotas
+aumentos, en los casos que dicho capital
 
-XVI. Registro de documentos que contengan los siguientes actos:
+no exceda de $185,000.00 se pagarán: 11 cuotas;
+
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+XVI. Registro de documentos que
+
+contengan los siguientes actos: 9 cuotas
 
 a) Disolución de personas morales;
 
@@ -1521,69 +1835,101 @@ d) Modificaciones al pacto social constitutivo;
 
 e) Registro de emisiones de acciones, cédulas, obligaciones o certificados de participación, depósito o de copias autorizadas por balance, transformación de sociedades y en general otros actos inscribibles;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
-XVII. Cancelación de inscripción o anotación: 4 cuotas.
+XVII. Cancelación de inscripción o anotación: 2 cuotas.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
 ###### ARTICULO 53.
 
-Contrato innominado: 27 cuotas.
+Contrato innominado: 26 cuotas;
 
 ###### ARTICULO 54.
 
 Expedición de certificado de:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
-I. No propiedad: 4 cuotas;
+I. No propiedad: 3 cuotas;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
-II. Inscripción o no inscripción: 4 cuotas;
+II. Inscripción o no inscripción: 3 cuotas;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
-III. Libertad de gravamen: 3 cuotas;
+III. Libertad de gravamen: 2 cuotas;
 
-IV. Existencia de gravamen, a la fracción anterior se adicionará por cada gravamen: 1 cuota.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+
+IV. Existencia de gravamen, a la
+
+fracción anterior se adicionará por
+
+cada gravamen: ½ cuotas.
 
 ###### ARTICULO 55.
 
 Expedición de copia de título de propiedad o de cualquier otro documento existente en libros o archivo del registro:
 
-I. Certificadas hasta cinco fojas: 5 cuotas
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+I. Certificadas hasta cinco fojas: 4 cuotas;
 
-Por cada foja excedente $ 16.50
+Por cada foja excedente $15.00;
 
-II. Simples, hasta cinco fojas: 2 cuotas
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+ll. Simples, hasta cinco fojas: 1 cuota;
 
-Por cada foja excedente $ 11.00
+Por cada foja excedente $10.00
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
 ###### ARTICULO 56.
 
-Ratificación o certificación de firmas: 4 cuotas;
+Ratificación o certificación de firmas: 3 cuotas;
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
 
 ###### ARTICULO 57.
 
-Cuando en un mismo título se consignen dos o más actos jurídicos, por cada acto: 4 cuotas
+Cuando de un mismo título
 
-Si el mismo origina dos o más inscripciones, se tasarán por separado. 6 cuotas
+se consignen dos o más actos jurídicos, por
 
-Por los servicios que se soliciten cuando los antecedentes a que se refiera se
+cada acto 3 cuota;
 
-encuentren fuera del distrito judicial en el que se dirija la petición, se cobrará
+Si el mismo origina dos o más inscripciones,
 
-una tarifa adicional por documento equivalente a: 6 cuotas
+se tasarán por separado. 6 cuotas
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-Por los servicios de certificados y copias que se soliciten cuando los antecedentes a que se refiera se encuentren fuera del distrito judicial de la capital del estado, y solicitado en la dirección, se cobrará una tarifa adicional por documento, equivalente a: 10 cuotas
+Por los servicios que se soliciten cuando
+
+los antecedentes a que se refiera se
+
+encuentren fuera del distrito judicial en el
+
+que se dirija la petición, se cobrará una tarifa
+
+adicional por documento equivalente a: 3 cuotas;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+Por los servicios de certificados y copias que
+
+se soliciten cuando los antecedentes a que
+
+se refiera se encuentren fuera del distrito
+
+de la capital del Estado y solicitado en la
+
+Dirección, se cobrará una tarifa adicional
+
+por documento equivalente a: 9 cuotas;
 
 Los conceptos no considerados en el presente capítulo, se tasarán de acuerdo con el concepto equiparable en cuotas de salario mínimo.
 
@@ -1607,13 +1953,17 @@ a) De interés social:
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-2.- De 5-00-01 has, en adelante por m2 vendible $ 0.50;
+2.- De 5-00-01 has, en adelante por m2
+
+vendible $ 0.50;
 
 b) Habitaciones de tipo medio:
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-1.- De 1.00.01 has, en adelante por m2 vendible $ 0.50;
+1.- De 1.00.01 has, en adelante por m2
+
+vendible $ 0.50;
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
@@ -1625,17 +1975,23 @@ d) Habitacional campestre, por m2 vendible $ 1.30;
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-e) Comercial y zonas destinadas al comercio en los fraccionamientos
+e) Comercial y zonas destinadas al comercio
 
-habitacionales, por m2 vendible $ 1.60;
+en los fraccionamientos habitacionales, por
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
-
-f) Granja de explotación agropecuaria, por m2 vendible $ 1.60;
+m2 vendible $ 1.60;
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-g) Funerario o cementerio, por m3 del volumen de las fosas o gavetas $ 5.30;
+f) Granja de explotación agropecuaria, por
+
+m2 vendible $ 1.60;
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+
+g) Funerario o cementerio, por m3 del
+
+volumen de las fosas o gavetas $ 5.30;
 
 > <small>[N. DE E. ESTE PARRAFO NO FUE ABROGADO EXPRESAMENTE POR EL LEGISLADOR, P.O. 1 DE ENERO DE 2003]</small>
 
@@ -1651,35 +2007,57 @@ a) Rústicos:
 
 1.- Hasta 1-00-00 Has 10 cuotas;
 
-2.- De 1-00-01 Has en adelante, se aumentará por hectárea o fracción 4.5 cuotas.
+2.- De 1-00-01 Has en adelante, se aumentará
+
+por hectárea o fracción 4.5 cuotas.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
 b) Urbano, por m2 $2.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
-III. Expedición de constancia estatal de compatibilidad urbanística. 5 cuotas;
+III. Expedición de constancia estatal de
+
+compatibilidad urbanística: 6 cuotas
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-IV. Registro de director responsable de obra, con vigencia de un año: 16 cuotas;
+IV. Registro de director responsable de obra,
+
+con vigencia de un año: 16 cuotas;
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-V. Revalidación anual de registro de director responsable de obra: 8 cuotas;
+V. Revalidación anual de registro de director
+
+responsable de obra: 8 cuotas;
 
 > <small>(ADICIONADA, P.O. 1 DE ENERO DE 2003)</small>
 
-VI. Por cada copia de expediente de documentos de Programas y Esquemas de Desarrollo Urbano o de Fraccionamientos Urbanos Autorizados 1 cuota;
+VI. Por cada copia de expediente de
 
-> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2003)</small>
+documentos de Programas y Esquemas
 
-VII. Por cada copia heliográfica de planos de Programas y Esquemas de Desarrollo Urbano o de Fraccionamientos Urbanos Autorizados 3 cuotas.
+de Desarrollo Urbano o de Fraccionamientos
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+Urbanos Autorizados 1 cuota;
 
-VIII. Expedición de dictamen en materia de planeación y desarrollo urbano: 4 cuotas.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+
+VII. Por cada copia heliográfica de planos
+
+de Programas y Esquemas de Desarrollo
+
+Urbano o de Fraccionamientos Urbanos
+
+autorizados: 5 cuotas
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+
+VIII. Expedición de dictamen en materia de
+
+planeación y desarrollo urbano: 5 cuotas
 
 ###### ARTICULO 59.
 
@@ -2227,19 +2605,57 @@ Por la evaluación y emisión de dictamen de impacto ambiental:
 
 I. Informe preventivo 29 cuotas;
 
-II. Informe definitivo;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+II. Estudio de impacto ambiental tipo general.
 
-a) Tipo general 52 cuotas;
+a) Con nivel de impacto bajo: 40 cuotas
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+b) Con nivel de impacto medio: 50 cuotas
 
-b) Tipo Intermedio 73 cuotas;
+c) Con nivel de impacto alto: 50 cuotas
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
-c) Tipo específico 148 cuotas.
+III. Estudio de impacto ambiental tipo intermedio.
+
+a) Con nivel de impacto bajo: 80 cuotas
+
+b) Con nivel de impacto medio: 105 cuotas
+
+c) Con nivel de impacto alto: 148 cuotas
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE 2008)</small>
+
+IV. Estudio de impacto ambiental tipo específico.
+
+a) Con nivel de impacto bajo: 160 cuotas
+
+b) Con nivel de impacto medio: 200 cuotas
+
+c) Con nivel de impacto alto: 242 cuotas
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE 2008)</small>
+
+V. Exención de trámite de impacto ambiental: 5 cuotas
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE 2008)</small>
+
+VI. Ratificación y ampliación de
+
+resolución de impacto ambiental: 6 cuotas;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE 2008)</small>
+
+VII. Estudio de riesgo ambiental: 95 cuotas
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE 2008)</small>
+
+VIII. Evaluación y resolución de la solicitud de
+
+modificación de proyectos autorizados en
+
+materia de impacto ambiental: 30 cuotas
 
 ###### ARTICULO 67.
 
@@ -2283,11 +2699,11 @@ VI. Asesoría y capacitación en materias de
 
 ecología y medio ambiente, por cada hora 8 cuotas;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
-VII. Registro en el Padrón de Prestadores de
+VII. Registro en el padrón de prestadores
 
-Servicio Ecológico y ambiental 42 cuotas;
+de servicio Ecológico y ambiental: 20 cuotas
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -2331,11 +2747,17 @@ c) A más de dos años anteriores 3 cuotas;
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-d) Por cada foja excedente correspondiente a asuntos de cualquier año $ 10.00.
+d) Por cada foja excedente correspondiente
+
+a asuntos de cualquier año $ 10.00.
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
 II. Certificado de no antecedentes penales 1 cuota.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE 2008)</small>
+
+III. Actas que se expidan en los kioscos de servicios electrónicos de Gobierno del Estado, su costo será el que corresponda al considerado en la Ley de Ingresos del Municipio en que estén ubicados dichos servicios electrónicos.
 
 > <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2004)</small>
 
@@ -2343,31 +2765,73 @@ II. Certificado de no antecedentes penales 1 cuota.
 
 El pago de derechos, a que se refieren los artículos 68 y 69, por servicios que presten las autoridades judiciales, se enterarán en las oficinas recaudadoras de la Secretaría de Finanzas. De conformidad con el convenio que al efecto se suscriba, los montos serán transferidos al Fondo Auxiliar para el mejoramiento de la Administración de Justicia, con independencia del presupuesto anual de egresos que corresponda al Poder Judicial del Estado.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-###### ARTÍCULO 69
+ARTICULO 69 BIS.- Los servicios que prestan las dependencias y entidades de la Administración Pública a que se refieren los artículos 10 y 36 de la Ley Orgánica de la Administración Pública del Estado de Zacatecas, por los documentos físicos o que en medios magnéticos le sean solicitados en materia del derecho a la información pública, se cobrará conforme a lo siguiente:
 
-BIS. Los servicios que prestan las dependencias de la Administración Pública Centralizada a que se refiere el artículo 10 de la Ley Orgánica de la Administración Pública del Estado de Zacatecas, por los documentos físicos o que en medios magnéticos le sean solicitados en materia del derecho de acceso a la información pública, se cobrarán conforme a lo siguiente
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 I. Por la expedición de copia simple por hoja. $ 1.00;
 
-II. Por la expedición de copia certificada por hoja. $10.00;
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+
+II. Por la expedición de copia certificada por
+
+hoja. $10.00;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 III. Por la expedición de copia a color por hoja. $15.00;
 
-IV. Por cada disco flexible de 3.5 pulgadas que contenga la información requerida. $10.00;
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-V. Por cada disco compacto que contenga la información requerida. $15.00;
+IV. Por cada disco flexible de 3.5 pulgadas
 
-VI. Por expedición de copia simple de planos por metro cuadrado de papel. $60.00;
+que contenga la información requerida. $10.00;
 
-VII. Por expedición de copia certificada de planos por metro cuadrado de papel. $80.00;
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+
+V. Por cada disco compacto que contenga la
+
+información requerida. $15.00;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+
+VI. Por expedición de copia simple de
+
+planos por metro cuadrado de papel. $60.00;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+
+VII. Por expedición de copia certificada de
+
+planos por metro cuadrado de papel. $80.00;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 VIII. Remisión de información solicitada, sólo en aquellos casos en que se requiera que el envío de la información se realice por servicio de paquetería:
 
-Servicio Postal Mexicano. 1 cuota;
+Servicio Postal Mexicano 1 cuota;
 
 Servicio Postal de empresas privadas. 3 cuotas;
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+Servicio de mensajería de empresas
+
+privadas que presten su servicio en el
+
+territorio nacional: 3 cuotas
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE 2008)</small>
+
+Servicio de mensajería de empresas
+
+privadas que presten su servicio al
+
+extranjero 10 cuotas
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 Las mismas cuotas y tarifas serán aplicables por la expedición de los documentos físicos o que en medio magnético u óptico realicen los Poderes Legislativo y Judicial y que le sean solicitados en materia de acceso a la información pública. Lo anterior sin perjuicio de las exenciones o no causación de derechos por estos conceptos previstas en otras leyes.
 
@@ -2578,3 +3042,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Para el ejercicio fiscal 2008, se exime del pago del derecho contenido en el artículo 49 de la Ley de Hacienda del Estado de Zacatecas, a los sujetos obligados a cubrir el referido derecho.
+
+P.O. 27 DE DICIEMBRE DE 2008.
+
+DECRETO NO. 212, POR EL QUE SE ADICIONA UN INCISO A LA FRACCION I DEL ARTICULO 33 DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE 2008.
+
+DECRETO No. 228, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
