@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2007-12-24"
+last_updated: "2008-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -635,6 +635,22 @@ a) Inscripción 17.00 S.M.G.
 
 b) Revalidación 14.00 S.M.G.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+X.- Por las consultas que se realizan a las autoridades
+
+de otras dependencias del Estado o de otras entidades
+
+federativas para verificar: pagos de contribuciones,
+
+legalización de vehículos de procedencia extranjera
+
+o alguna otra documentación relativa a trámites
+
+de control vehicular. 2 S.M.G.
+
 No se pagarán derechos por la expedición de documentos o copias certificadas de los mismos, que sean solicitados por el Estado, salvo que esta solicitud derive de la petición de un particular.
 
 > <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
@@ -642,6 +658,8 @@ No se pagarán derechos por la expedición de documentos o copias certificadas d
 Tampoco se pagarán derechos por la expedición de copias certificadas para la substanciación del Juicio de Amparo.
 
 ### CAPÍTULO XI. DERECHOS POR SERVICIO DE ALUMBRADO PÚBLICO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 49.
 
@@ -1055,9 +1073,13 @@ No se causará este derecho, en los casos en que no se causen los establecidos e
 
 ### CAPÍTULO XVI. DERECHOS POR SERVICIOS QUE PRESTA LA SECRETARÍA DE SALUD
 
-> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
-ARTÍCULO 85 A.- Los servicios que presta la Secretaría de Salud, para la verificación y control sanitario, causarán derechos de conformidad con lo siguiente:
+###### ARTÍCULO 85-A.
+
+Los servicios que presta la Secretaría de Salud, para la verificación, protección y control sanitario, causarán derechos de conformidad con lo siguiente:
+
+> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2006)</small>
 
 I.- Determinaciones sanitarias:
 
@@ -1089,7 +1111,127 @@ e) Cambio de propietario 31.50 S.M.G.
 
 f) Cambio de domicilio 42.00 S.M.G.
 
+> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2006)</small>
+
 II.- Certificado de defunción 0.50 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+III.- Por la expedición de certificado sobre
+
+pozo de agua para abastecimiento privado; 10.00 S.M.G
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+IV.- Por la revalidación de certificado; 5.00 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+V.- Por la autorización de libro de medicamento
+
+controlado; 5.00 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+VI.- Por trámite del permiso sanitario de construcción,
+
+por metro cuadrado; 2.00 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+VII.- Por levantamiento o aplicación de medida
+
+de seguridad; 10.00 S.M.G
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+VIII.- Por hora de capacitación; 4.00S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+IX.- Por visita de establecimientos a petición
+
+de parte; 5.00 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+X.- Por muestra a petición de parte; 5.00 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+XI.- Por permiso para otorgar degustaciones; 5.00 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+XII.- Por autorización de corrección de
+
+nomenclatura; 5.00 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+XIII.- Permiso provisional para expendio y
+
+suministro de bebidas alcohólicas; 10.00 S.M.G
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+XIV.- Por expedición de código de barras para
+
+el manejo de estupefacientes; 5.00 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+XV.- Por autorización de compra y venta de
+
+medicamentos controlados; 5.00 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+XVI.- Por autorización de libros para el registro
+
+del manejo de sangre y sus derivados; 5.00 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+XVII.- Por validación de planos de construcción, y 5.00 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+XVIII.- Por verificación a solicitud de parte,
+
+con muestreo. 8.00 S.M.G.
 
 > <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -1112,6 +1254,10 @@ III.- Los establecimientos con categoría C, son:
 Centro nocturno, discoteca, bar, y de almacenamiento y distribución de bebidas alcohólicas, y
 
 IV.- Los cabarets, serán considerados como establecimientos con categoría D.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 65.
 
@@ -1174,6 +1320,10 @@ d) Media plana 5.50 S.M.G.
 e) Un cuarto de plana 3.00 S.M.G.
 
 ### CAPÍTULO ÚNICO. APROVECHAMIENTOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 67.
 
@@ -1507,37 +1657,37 @@ Las instituciones públicas estatales y municipales siempre que el servicio sea 
 
 ###### ARTÍCULO 74.
 
-El derecho por el servicio de alumbrado público, se causará como compensación por el disfrute del citado servicio, que se preste en las distintas localidades del Estado.
+(DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 75.
 
-La cuota del derecho de alumbrado público, será igual al 5% sobre los consumos de energía eléctrica en tarifa 1-A, 2 y 3.
+(DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 76.
 
-Son sujetos del pago de estos derechos, los consumidores de energía eléctrica en tarifas 1-A, 2 y 3, publicadas en el Diario Oficial de la Federación el 15 de noviembre de 1976, o en las que en su caso las sustituyan.
+(DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 77.
 
-El derecho por el servicio de alumbrado público, será recaudado por conducto de la Comisión Federal de Electricidad, mediante la aplicación de la tasa relativa, calculándose el importe del derecho; el cual deberá hacerse constar, en las facturaciones que formule a sus consumidores sujetos de este derecho, de acuerdo con el convenio celebrado entre el Ejecutivo del Estado y la Comisión Federal de Electricidad.
+(DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 78.
 
-La Comisión Federal de Electricidad, deberá aplicar el monto de los derechos que se recauden, en la forma siguiente:
+(DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
 
-I.- Para cubrir en primer término, el importe de la energía eléctrica para el alumbrado público, que se suministra a los municipios del Estado.
-
-II.- Los remanentes serán aplicados, en la siguiente forma, para:
-
-a) Cubrir el mantenimiento y reposición de lámparas de alumbrado público de los municipios; tarea que quedará bajo la responsabilidad de la Comisión Federal de Electricidad.
-
-b) Amortizar los adeudos anteriores que los municipios tengan por suministro de energía por el alumbrado público con la Comisión Federal de Electricidad.
-
-c) Ampliar o mejorar, en su caso, las instalaciones del alumbrado público, a solicitud del Gobierno del Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 79.
 
-La Comisión Federal de Electricidad deberá rendir a la Secretaría de Hacienda y a la Secretaría de Planeación y Presupuesto, los informes relativos a la recaudación del derecho referido y su aplicación, así como los demás que expresamente solicite con relación al particular.
+(DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
 
 ### CAPÍTULO ÚNICO
 
@@ -1769,15 +1919,23 @@ Para los efectos del artículo anterior, se estará obligado al pago del derecho
 
 Se entenderá por aprovechamiento especial el que se obtenga por usar, gozar o aprovechar un bien de uso común, de modo que se limite el derecho de terceros para su libre uso.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 85.
 
-Por el permiso para la instalación de anuncios publicitarios fuera del derecho de vía e instalación de señalamientos informativos dentro del derecho de vía de las carreteras estatales, se pagará anualmente los derechos conforme a las cuotas que para cada caso a continuación se señala:
+Por el permiso para la instalación de anuncios publicitarios dentro y fuera del derecho de vía e instalación de señalamientos informativos dentro del derecho de vía de las carreteras estatales, se pagarán anualmente los derechos conforme a las cuotas que para cada caso a continuación se señala:
 
 I. Por cada metro cuadrado de la superficie total
 
 del anuncio publicitario o señal informativa 1 S.M.G
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 26 DE DICIEMBRE DE 2006)</small>
+
+###### ARTÍCULO 85-D.
+
+Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el artículo 85-A se destinarán al organismo público descentralizado denominado "Servicios de Salud de Yucatán", para el mantenimiento y operación de los servicios que presta.
 
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
@@ -1797,21 +1955,21 @@ IV.- Cualquier otro producto no especificado en este título.
 
 ###### ARTÍCULO 87.
 
-Los aprovechamientos que percibirá el Gobierno del Estado a través de la Secretaría de Hacienda, serán por los siguientes conceptos:
+Los aprovechamientos que perciba el Gobierno del Estado, por conducto de la Secretaría de Hacienda, serán por los siguientes conceptos:
 
-I. Rezagos.
+I.- Recargos;
 
-II. Recargos.
+II.- Multas administrativas y multas impuestas por autoridades judiciales;
 
-III. Multas administrativas y multas impuestas por autoridades judiciales.
+III.- Herencias, legados y donaciones que se hagan en favor del Estado o de instituciones que dependan de él, y
 
-IV. Herencias, legados y donaciones que se hagan en favor del Estado o de instituciones que dependan de él.
+IV.- Otros aprovechamientos.
 
-V. Otros aprovechamientos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 88.
 
-Los rezagos por concepto de contribuciones, se liquidarán y cobrarán conforme a las disposiciones legales vigentes, en la época en que se causaron y con los recargos que determine el Código Fiscal del Estado.
+(DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
 
 ###### ARTÍCULO 89.
 
@@ -1884,3 +2042,21 @@ Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Los Derechos por el uso de cementerios y prestación de servicios conexos establecidos en el Capítulo IV y los Derechos de Alumbrado Público, establecidos en el Capítulo X, ambos parte del Título III de la Ley General de Hacienda del Estado de Yucatán, estarán vigentes durante el ejercicio fiscal 2008, en tanto se establecen dichas contribuciones en los respectivos ordenamientos fiscales municipales, y se celebren los convenios de transferencia relativos.
+
+D.O. 27 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Las disposiciones de este Decreto entrarán en vigor el día uno de enero del año 2009.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor rango en lo que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Capítulo IV, del Título Tercero de la Ley General de Hacienda del Estado de Yucatán, dejará de ser aplicable a los municipios a partir de que se hagan cargo del servicio público de panteones y la función recaudatoria inherente al mismo.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese en el Diario Oficial del Gobierno del Estado de Yucatán.
