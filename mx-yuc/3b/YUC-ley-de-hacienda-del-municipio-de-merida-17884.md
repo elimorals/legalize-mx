@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-merida-17884"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2007-12-19"
+last_updated: "2008-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MERIDA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 30 de diciembre de 1999.
 
@@ -41,7 +41,7 @@ LEY DE HACIENDA DEL MUNICIPIO DE MERIDA
 
 ## TÍTULO PRIMERO. GENERALIDADES
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -55,7 +55,7 @@ LEY DE HACIENDA DEL MUNICIPIO DE MERIDA
 
 El Ayuntamiento del Municipio de Mérida, Estado de Yucatán, para cubrir los gastos de su administración y demás obligaciones a su cargo, percibirá, por conducto de su Hacienda Pública, los ingresos que por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, participaciones, aportaciones e ingresos extraordinarios se establecen en esta Ley y la Ley de Ingresos del Municipio de Mérida.
 
-> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 #### Sección Segunda. De las disposiciones fiscales
 
@@ -447,13 +447,27 @@ La existencia de personal de guardia no habilita los días en que se suspendan l
 
 #### Sección Cuarta. Del pago a plazos
 
-> <small>(REFORMADO [N. DE E. ANTES ARTICULO 23], D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
-###### ARTICULO 24.
+###### ARTÍCULO 24.
 
-(*) El Director de Finanzas y Tesorero Municipal, a petición de los contribuyentes, podrá autorizar el pago en parcialidades de los créditos fiscales sin que dicho plazo exceda de doce meses. Para el cálculo de la cantidad a pagar, se determinará el crédito fiscal omitido a la fecha de la autorización. Durante el plazo concedido no se generará actualización ni recargos.
+El Director de Finanzas y Tesorero Municipal, a petición que formulen por escrito el contribuyente, podrá autorizar el pago en parcialidades de los créditos fiscales sin que dicho plazo exceda de doce meses. Para el cálculo de la cantidad a pagar, se determinará el crédito fiscal omitido a la fecha de la autorización.
 
-La falta de pago de alguna parcialidad ocasionará la revocación de la autorización y, en consecuencia, se causarán actualización y recargos en los términos de la presente ley.
+El monto total del crédito fiscal omitido señalado en el párrafo anterior, se integrará por la suma de los siguientes conceptos:
+
+a) El monto de las contribuciones o aprovechamientos omitidos actualizados desde el mes en que se debieron pagar y hasta aquél en que autorice el pago en parcialidades.
+
+b) Las multas que correspondan actualizadas desde el mes en que se debieron pagar y hasta aquél en que se autorice el pago en parcialidades.
+
+c) Los accesorios distintos de las multas que tenga a su cargo el contribuyente a la fecha en que se autorice el pago en parcialidades.
+
+El monto de cada una de las parcialidades deberá ser igual, y pagadas en forma mensual y sucesiva, para lo cual se tomará como base el importe del párrafo anterior y el plazo elegido por el contribuyente en su solicitud de autorización de pago a plazos.
+
+Durante el plazo autorizado para el pago a plazos no se generará actualización ni recargos.
+
+Los pagos efectuados durante la vigencia de la autorización se deberán aplicar al periodo más antiguo de conformidad al orden establecido en el último párrafo del artículo 25 de esta Ley.
+
+La falta de pago oportuno de alguna parcialidad ocasionará la revocación de la autorización de pago a plazos en parcialidades, a lo cual a (sic) autoridad exigirá el pago del adeudo total. El saldo de la contribución o aprovechamiento a que se refiere el inciso a) anterior que no haya sido cubierto en el pago a plazos se actualizará y causará recargos de conformidad con lo establecido en los artículos 30, 31 y 32 de esta Ley, desde la fecha en que se haya efectuado el último pago en parcialidades conforme a la autorización respectiva y hasta la fecha en que se realice el pago. A fin de determinar el adeudo total deberán considerarse los importes no cubiertos de la contribución o aprovechamiento, su actualización y accesorios, por los cuales se autorizó el pago en parcialidades adicionados con la actualización y accesorios que se generen a partir del incumplimiento del pago en parcialidades.
 
 > <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -517,7 +531,9 @@ Los avisos, declaraciones, solicitudes, memoriales o manifestaciones, que presen
 
 (*) Las personas físicas y morales, además de las obligaciones especiales contenidas en la presente Ley, deberán cumplir con las siguientes:
 
-I.- Empadronarse en la Dirección de Finanzas y Tesorería Municipal, a más tardar treinta días naturales después de la apertura del comercio, negocio o establecimiento, o de la iniciación de actividades, si realizan actividades permanentes con el objeto de obtener la licencia Municipal de funcionamiento.
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+I.- Empadronarse en la Dirección de Finanzas y Tesorería Municipal, a más tardar treinta días hábiles después de la apertura del comercio, negocio o establecimiento, o de la iniciación de actividades, si realizan actividades permanentes con el objeto de obtener la licencia Municipal de funcionamiento.
 
 II.- Recabar de la Dirección de Desarrollo Urbano la carta de uso de suelo en donde se determine que el giro del comercio, negocio o establecimiento que se pretende instalar, es compatible con la zona de conformidad con el Plan Director de Desarrollo Urbano del Municipio y que cumple además, con lo dispuesto en el Reglamento de Construcciones del propio Municipio.
 
@@ -551,21 +567,23 @@ IX.- Realizar los pagos, y cumplir con las obligaciones fiscales, en la forma y 
 
 Tendrán una vigencia que iniciará en la fecha de su expedición y terminará el último día del periodo constitucional de la administración municipal que la expidió, salvo que fueran revalidadas en los términos y condiciones que marca esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+No obstante lo dispuesto en el párrafo anterior, durante el tiempo de la vigencia de la licencia de funcionamiento, su titular deberá mantener vigentes los permisos, licencias, autorizaciones y demás documentos relacionados como requisitos para la apertura y revalidación respectivamente, así como proporcionar una copia de la renovación de cada uno de dichos documentos a la Dirección de Finanzas y Tesorería Municipal dentro los (sic) treinta días hábiles siguientes al vencimiento de los mismos. Una vez vencido este término sin que se haya cumplido con éstas obligaciones, el Director de Finanzas y Tesorero Municipal o el Subdirector de Ingresos estarán facultados para revocar la licencia que corresponda, sin perjuicio de la sanción a que se refiere la fracción I del artículo 161 de esta Ley.
 
-No obstante lo dispuesto en el párrafo anterior, durante el tiempo de la vigencia de la licencia de funcionamiento, su titular deberá mantener vigentes los permisos, licencias, autorizaciones y demás documentos relacionados como requisitos para la apertura y revalidación respectivamente, así como proporcionar una copia de la renovación de cada uno de dichos documentos a la Dirección de Finanzas y Tesorería Municipal dentro los treinta días hábiles siguientes al vencimiento de los mismos. En caso contrario se aplicará la sanción a que se refiere la fracción I del Artículo 161.
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+En adición a lo señalado en el párrafo inmediato anterior, el Director de Finanzas y Tesorero Municipal así como el Subdirector de Ingresos estarán facultados para revocar la licencia de funcionamiento para aquellos casos que para su obtención o revalidación se hayan proporcionado o presentado información o documentos falsos.
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
-Los titulares de las licencias de funcionamiento deberán revalidarlas durante los cuatro primeros meses de cada administración municipal. Transcurrido este plazo, sin cumplir con esa obligación, dicha licencia quedará sin efecto. En este caso el interesado deberá tramitar una nueva licencia con la obligación de satisfacer los requisitos a que se refiere esta Ley para la apertura.
+Los titulares de las licencias de funcionamiento deberán revalidarlas durante los cuatro primeros meses de cada administración municipal.
 
 Las personas físicas o morales que deban obtener la licencia municipal de funcionamiento, tendrán que anexar a la solicitud que presentarán a la Dirección de Finanzas y Tesorería Municipal los siguientes documentos:
 
-a).- El que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento en caso de ser propietario; en caso contrario, deberá presentar el convenio, contrato u otro documento que compruebe la legal posesión del mismo.
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+a).- El que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento en caso de ser propietario; en caso contrario, deberá presentar el convenio o contrato vigente, u otro documento que compruebe la legal posesión del mismo.
 
 b).- Licencia de uso de suelo.
 
@@ -593,7 +611,9 @@ Para la revalidación de la licencia municipal de funcionamiento deberán presen
 
 a).- Licencia de funcionamiento expedida por la administración municipal inmediata anterior.
 
-b).- Documento que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento en caso de ser propietario; en caso contrario, deberá presentar el convenio, contrato u otro documento que compruebe la legal posesión del mismo.
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+b).- Documento que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento en caso de ser propietario; en caso contrario, deberá presentar el convenio o contrato vigente, u otro documento que compruebe la legal posesión del mismo.
 
 c).- El recibo de pago del derecho correspondiente en su caso.
 
@@ -1073,13 +1093,13 @@ IV.- La disolución de la copropiedad, siempre que las partes adjudicadas no exc
 
 V.- Cuando se adquieran inmuebles por herencia o legado.
 
-VI.- la donación entre cónyuges, ascendientes o descendientes en línea directa, previa comprobación del parentesco ante la Dirección de Finanzas y Tesorería Municipal.
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+VI.- La donación entre cónyuges, ascendientes o descendientes en línea directa.
 
-> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
-VII.- La adquisición de vivienda de tipo económico, siempre y cuando el precio de venta no exceda de tres mil ochocientas veces el salario mínimo.
+VII.- La adquisición de casa habitación (vivienda de tipo económico) cuyo valor mayor obtenido de la manera prevista en el primer párrafo del artículo 56 de esta Ley, no exceda el equivalente a tres mil ochocientas veces el salario mínimo vigente en el momento en el que se realice la enajenación del bien.
 
 > <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -1213,9 +1233,11 @@ De la tasa
 
 El impuesto a que se refiere esta Sección, se calculará aplicando la tasa del 0.02, a la base señalada en el artículo 56 de esta Ley.
 
-> <small>(REFORMADO [N. DE E. ANTES ARTICULO 56], D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
-Del manifiesto de la autoridad
+Del manifiesto a la autoridad
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 59.
 
@@ -1242,6 +1264,10 @@ IX.- Liquidación del impuesto.
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 2006)</small>
 
 A la manifestación señalada en este articulo, se acumulará copia del avalúo practicado al efecto.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+La obligación de presentar la manifestación a que se refiere el primer párrafo de este artículo no se aplicará en los casos previstos en las fracciones V y VI del artículo 55 de esta Ley.
 
 Cuando los fedatarios públicos y quienes realizan funciones notariales no cumplan con la obligación a que se refiere este artículo, serán sancionados con una multa de diez salarios mínimos.
 
@@ -1425,9 +1451,9 @@ De la clasificación
 
 I. Autorizaciones de uso del suelo
 
-> <small>(REFORMADA, D.O. 2 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
-II. Por Factibilidad de Uso de Suelo.
+II. Por el análisis de factibilidad de uso de suelo.
 
 III. Trabajos de Construcción:
 
@@ -1463,11 +1489,19 @@ X. Visitas de inspección de fosas sépticas.
 
 XI. Visitas de inspección
 
-XII. Por peritaje arqueológico y ecológico.
+XII. (DEROGADA, D.O. 27 DE DICIEMBRE DE 2008)
 
 > <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2006)</small>
 
 XIII. Por Factibilidad de instalación de anuncio.
+
+> <small>(ADICIONADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+XIV. Revisión previa de proyecto.
+
+> <small>(ADICIONADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+XV. Constancia de Alineamiento.
 
 De las bases
 
@@ -1491,7 +1525,7 @@ Los derechos por los servicios indicados en el artículo 74 se pagarán conforme
 
 N. DE VEASE TABLA EN EL D.O. DE 2 DE ENERO DE 2006, PAGINAS DE LA 42 46.
 
-> <small>N. DE E. VEASE REFORMAS A LA TABLA, D.O. 29 DE DICIEMBRE DE 2006, PAGINAS 7 Y 8; 19 DE DICIEMBRE DE 2007, PAGINAS DE LA 38 A LA 40.</small>
+> <small>N. DE E. VEASE REFORMAS A LA TABLA, D.O. 29 DE DICIEMBRE DE 2006, PAGINAS 7 Y 8; 19 DE DICIEMBRE DE 2007, PAGINAS DE LA 38 A LA 40; 27 DE DICIEMBRE DE 2008, PAGINAS 27 Y 28.</small>
 
 > <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -1503,13 +1537,17 @@ De las exenciones
 
 Quedarán exentos del pago de los derechos establecidos en la presente Sección Segunda, los servicios que se soliciten a la Dirección de Desarrollo Urbano directamente relacionados con aquellos bienes inmuebles que se encuentran catalogados como Monumentos Históricos por el Instituto Nacional de Antropología e Historia, misma exención será aplicable a los sitios patrimoniales a que se refiere la Ley de Preservación y Promoción de la Cultura de Yucatán.
 
-> <small>(REFORMADA [N. DE E. ANTES SEGUNDO PARRAFO], D.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
-I.- Estarán exentos del pago del derecho por los servicios previstos en la fracción IV del artículo 74, de esta Ley, en los siguientes casos:
+I. Estarán exentos del pago del derecho por los servicios previstos en las fracciones III y IV del artículo 74, en los siguientes casos:
+
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
 
 a).- Las construcciones para vivienda unifamiliar que sean edificadas físicamente por sus propietarios.
 
-b).- Las construcciones de Centros Asistenciales y Sociales, propiedad de la Federación, el Estado o Municipio.
+b).- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2008)
+
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
 
 c).- La construcción de fosa séptica y de pozos de absorción.
 
@@ -1530,6 +1568,10 @@ e).- Adornos navideños, anuncios y adornos para fiestas cívicas nacionales o p
 f).- Anuncios de eventos culturales o educativos organizados por instituciones que no persiguen propósitos de lucro.
 
 g).- Anuncios transitorios colocados o fijados en el interior de escaparates y vitrinas comerciales.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+III.- Estarán exentos del pago del derecho por los servicios previstos en las fracciones I, II, III. IV, V, X y XV del artículo 77 que estén directamente relacionados con aquellos bienes inmuebles de dominio público de la Federación o del Estado, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
 > <small>(REFORMADA SU DENOMINACION, D.O. 2 DE ENERO DE 2006)</small>
 
@@ -1577,29 +1619,27 @@ Lo dispuesto en este artículo, no libera a los responsables de las obras o de l
 
 #### Sección Tercera. Otros servicios prestados por el Ayuntamiento
 
-> <small>(REFORMADO [N. DE E. ANTES ARTICULO 77], D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 80.
 
-(*) Las personas físicas y morales que soliciten los servicios que a continuación se detallan estarán obligadas al pago de los derechos conforme a lo siguiente:
+Las personas físicas o morales que soliciten los servicios que a continuación se detallan estarán obligadas al pago de los derechos conforme a lo siguiente:
 
 Servicio Factor Salario Mínimo
 
 I.- (DEROGADA, D.O. 2 DE ENERO DE 2006)
 
-> <small>(REFORMADA, D.O. 2 DE ENERO DE 2006)</small>
-
 II.- Por reposición de licencia de funcionamiento 2.0
-
-> <small>(REFORMADA, D.O. 2 DE ENERO DE 2006)</small>
 
 III.- Por expedición de duplicados de recibos oficiales 0.5
 
-> <small>(REFORMADA, D.O. 2 DE ENERO DE 2006)</small>
-
 IV.- Por la intervención de cada una de las cajas del
 
-espectáculo, a solicitud de los particulares 15
+espectáculo, a solicitud de los particulares 15.0
+
+V.- Por copia certificada de la cédula de inscripción al
+
+Registro de Población Municipal 0.7
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 2006)</small>
 
@@ -1623,11 +1663,7 @@ o disco de 3 1/2 pulgadas, conteniendo de 1 hasta 10
 
 archivos por disco. 1.0
 
-d) Copia de información municipal en Disco Versátil
-
-Digital ó Disco de Video Digital (DVD), conteniendo
-
-de 1 hasta 10 archivos por disco. 2.0
+d) (DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1843,17 +1879,19 @@ b).- Unión:
 
 4. De 41 predios en adelante 10.0
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+c).- Urbanización catastral y cambio de 1.0
 
-c).- Urbanización y cambio de nomenclatura: 1.0
+nomenclatura:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+d).- Cédula catastral:
 
-d).- Cédulas catastrales (cada una): 4.0.
+1.- Emitida en Ventanilla 4.5
+
+2.- Emitida en Línea (Vía Internet) 4.0
 
 e).- Constancias ó certificados de no propiedad,
 
@@ -1917,13 +1955,13 @@ IV (SIC).- (DEROGADA, D.O. 8 DE ENERO DE 2005)
 
 V.- (DEROGADA, D.O. 8 DE ENERO DE 2005)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
-VI.- Por cada diligencia de verificación de colindancias de predios, o de medidas físicas:
+VI.- Por cada diligencia de verificación:
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
-a).- Para la factibilidad de división, urbanización, cambio de nomenclatura, estado de conservación del predio, ubicación física, no inscripción, mejora o demolición de construcción o rectificación de medidas. 5.0
+a).- Para la factibilidad de división, urbanización catastral, cambio de nomenclatura, estado físico del predio, ubicación física, no inscripción, mejora o demolición de construcción, rectificación de medidas, medidas físicas de construcción, colindancias de predios, o marcajes. 5.0
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 2006)</small>
 
@@ -1985,27 +2023,23 @@ En el caso de localización de predios y determinación de sus vértices, se cob
 
 a).- Cuando se trate de la ubicación de un predio dentro de una manzana, se aplicará el cobro de acuerdo con la tarifa de terreno de esta fracción, a toda la superficie existente en la manzana.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+b).- Cuando se trate de la ubicación de una manzana,
 
-b).- Cuando se trate de la ubicación de una
+se aplicara el cobro por metro lineal con base en la
 
-manzana, se aplicará el cobro por metro lineal
+distancia existente desde el punto de referencia
 
-con base en la distancia existente desde el
+catastral más cercano a la manzana solicitada por
 
-punto de referencia catastral más cercano a la
+cada metro lineal 0.081
 
-manzana solicitada por cada metro lineal 0.070
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 88-A.
 
-El derecho al que se refiere el inciso d) de la fracción III del artículo 88, se considerará reducido en un 50% cuando la emisión de la cédula catastral se derive de licencia para construcción con superficie de hasta 40 m2 y la solicitud de expedición de la cédula catastral se realice dentro de un plazo no mayor de 60 días naturales contados a partir del día siguiente a la fecha de expedición de la licencia de construcción.
+El derecho al que se refiere el punto 1 inciso d) de la fracción III del artículo 88, se considerará reducido en un 50% cuando la emisión de la cédula catastral se derive de licencia para construcción con superficie de hasta 40 m2 y la solicitud de expedición de la cédula catastral se realice dentro de un plazo no mayor de 60 días naturales, considerando la fecha de expedición de la licencia de construcción.
 
 ###### ARTICULO 89.
 
@@ -2059,7 +2093,9 @@ III.- (DEROGADA, D.O. 2 DE ENERO DE 2006)
 
 IV.- (DEROGADA, D.O. 2 DE ENERO DE 2006)
 
-V.- Impresión de imagen satelital del municipio de Mérida:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+V.- Impresión de imagen satelital o de fotografía aérea del Municipio de Mérida:
 
 a).- Tamaño carta 5.0 salarios
 
@@ -2083,23 +2119,23 @@ c).- Tamaño cuatro cartas 14.0 salarios
 
 d).- Tamaño 42 x 36 pulgadas (Ploter) 20.0 salarios
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 VII.- Trabajos de referencia geográfica con
 
-sistemas de posicionamiento global (G.P.S.)
+sistemas de posicionamiento global (G.P.S.) por
 
-por cada punto posicionando geográficamente. 14.0 salarios
+cada punto posicionando geográficamente. 16.0 salarios
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 VIII.- Cuando los servicios catastrales solicitados,
 
 requieran de trabajos de verificación en el Registro
 
-Público de la Propiedad del Estado de Yucatán. 3.0 salarios
+Público de la Propiedad del Estado de Yucatán,
+
+Registro Agrario Nacional, u otra institución pública. 10.0 salarios
 
 IX.- Plano del municipio de Mérida (No georeferenciado)
 
@@ -2145,21 +2181,39 @@ La base para determinar el importe de estos derechos será el número de metros 
 
 De la tasa y del pago
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 97.
 
-Los derechos establecidos en esta sección, será (sic) pagados mensualmente de conformidad con lo siguiente:
+Los derechos establecidos en esta sección, serán pagados mensualmente de conformidad con lo siguiente:
 
-I.- Por el uso de espacios en la vía o parques públicos: 10 salarios mínimos por metro cuadrado.
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+I.- Por el uso de espacios en la vía o parques públicos:
+
+a) Para la instalación de juegos mecánicos, eléctricos, manuales o cualquier otro que promueva el esparcimiento o diversión pública, se pagará por los dos primeros metros cuadrados el equivalente a 5.0 salarios mínimos, y por cada metro excedente a dos metros cuadrados el equivalente a 0.15 salarios mínimos.
+
+b) Para la instalación de mobiliario urbano del tipo paradero de autobús con espacio para la instalación de publicidad: 3.0 salarios mínimos por mobiliario tipo paradero.
+
+c) Para la instalación de mobiliario urbano, distinto al señalado en el inciso b) de esta fracción, cuyo uso requiera el pago de una contraprestación: 0.50 salarios mínimos por metro cuadrado o fracción de este.
+
+d) Para la instalación de mobiliario urbano, distinto a los señalados en los incisos b) y c) de esta fracción, cuyo uso no requiera el pago de una contraprestación: 0.00 salarios mínimos.
+
+e) Para uso distinto a los señalados en los incisos anteriores: 10.0 salarios mínimos por metro cuadrado.
+
+Para efectos de esta fracción se entiende como mobiliario urbano, entre otros, las casetas telefónicas, fuentes, bancas, depósitos de basura, señalización, buzones, y otros elementos análogos.
+
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
 II.- Por el uso y aprovechamiento de locales o piso en los mercados públicos propiedad del Municipio 0.27 salario mínimo por metro cuadrado.
 
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+
 Cuando el contribuyente pague los derechos a que se refiere esta fracción II correspondientes a una anualidad, durante los meses de enero y febrero del año vigente de que se trate, gozará de una bonificación del 0.10 sobre el importe a pagar de dichos derechos.
 
-No obstante lo señalado en el primer párrafo tratándose de los Mercados sobre Ruedas, cada oferente realizará el pago del derecho el día que use y aproveche el espacio determinado. El importe de ese derecho será el que resulte de dividir la cuota mensual prevista en la fracción I de este artículo entre 30 por el número de metros cuadrados de dicho espacio.
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+Los derechos señalados en este artículo se causarán por períodos de un mes natural, sin embargo para el caso de los derechos establecidos en los incisos a) y e) de la fracción I de este artículo si el período de uso fuese menor a un mes natural el período de causación será en proporción a los días de uso considerando para tales efectos que un mes natural es equivalente a treinta días.
 
 > <small>(REFORMADA SU DENOMINACION, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
@@ -2195,141 +2249,145 @@ De las obligaciones de terceros
 
 #### Sección Octava. Derechos por el Servicio Público de Panteones
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. ANTES ARTICULO 95-A], D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 100.
 
-(*) Los derechos a que se refiere este capítulo se pagarán de conformidad con la siguiente:
+Los derechos a que se refiere esta sección por los conceptos a los que se refiere el Reglamento del Servicio Público de Panteones del Municipio de Mérida y demás servicios conexos, se pagarán de conformidad con la siguiente tarifa:
 
-TARIFA
+I.- Por el uso o servicio de la cámara de refrigeración
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2006)</small>
+por cadáver o resto humano a solicitud de particular,
 
-I.- Por el uso o servicio de la cámara de refrigeración por cadáver o resto humano a solicitud de particular, por día 4.0 salarios
+por día 4.0 salarios
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
+II.- Por el permiso para prestar el servicio funerario
 
-II.- Por el permiso para prestar el servicio funerario particular se causará un derecho de 6.2 salarios
+particular se causará un derecho de 6.2 salarios
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+III.- Por otorgar el derecho de uso temporal a tres años, dentro de los panteones públicos municipales:
 
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
+a) Xoclán, General y Chuburná se pagará:
 
-III.- Por otorgar la concesión de uso de temporalidad mínima de:
+1.- Bóveda chica 4.65 salarios
 
-a) Bóveda Grande 10.65 salarios
+2.- Bóveda grande 10.65 salarios
 
-b) Bóveda chica 4.65 salarios
+3.- Bóveda grande doble 15.0 salarios
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+b) Florido y Jardines de la Paz se pagará:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+1.- Bóveda grande 17.0 salarios
 
-IV.- Por otorgar la concesión de uso de temporalidad máxima de bóvedas, criptas, fosas o tumbas y osarios que se encuentren dentro de los panteones o cementerios públicos municipales:
-
-(REFORMADO PRIMER PARRAFO, D.O. 19 DE MAYO DE 2003) (REPUBLICADO, D.O. 8 DE ENERO DE 2005)
+IV.- Por otorgar el derecho de uso temporal a quince años, dentro de los Panteones o cementerios Públicos Municipales:
 
 a) General, Xoclán y Chuburná se pagará:
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+1.- Osario o Cripta mural 5.7 salarios
 
-1).- Osario o cripta mural 5.7 salarios
+2.- Bóveda chica 23.7 salarios
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+3.- Bóveda grande 59.4 salarios
 
-2).- Bóveda chica 23.7 salarios
+4.- Bóveda grande doble 95.0 salarios
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+5.- Cripta en la capilla de Xoclán 21.4 salarios
 
-3).- Bóveda grande 59.4 salarios.
+b) Florido y Jardines de la Paz, se pagará:
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+1.- Bóveda grande 102.1 salarios
 
-4).- Bóveda grande doble 95.0 salarios
+2.- Espacio para mausoleos de hasta
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+5 x 11 metros, por metro cuadrado 6.0 salarios
 
-5).- Cripta en la capilla de Xoclán 21.4 salarios
+V.- Por otorgar el derecho de uso a perpetuidad, dentro de los Panteones o cementerios Públicos Municipales:
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+a) General, Xoclán y Chuburná se pagará:
 
-6).- Mausoleos de 5 x 11 mts. por m2 4.0 salarios
+1.- Osario o Cripta mural 9.0 salarios
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+2.- Bóveda chica 35.0 salarios
 
-b) Jardines de la Paz, se pagará en
+3.- Bóveda grande 90.0 salarios
 
-bóveda grande. 102.1 salarios
+4.- Bóveda grande doble 142.0 salarios
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+5.- Cripta en la capilla de Xoclán 32.0 salarios
 
-c) Comisaría y subcomisarías 0.0 salarios
+6.- Espacio para mausoleos de hasta 5 x 11
 
-(REFORMADA, D.O. 31 DE DICIEMBRE DE 2001) (REPUBLICADA, D.O. 8 DE ENERO DE 2005)
+metros, por metro cuadrado 6.0 salarios
 
-V.- Cuando se trate de inhumaciones en fosa común, no se causará derecho alguno.
+b) Florido y Jardines de la Paz se pagará:
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
+1.- Bóveda grande 153.0 salarios
 
-VI.- Por el servicio de inhumación o exhumación 2.4 salarios
+2.- Espacio para mausoleos de hasta 5 x 11
 
-> <small>(ADICIONADO, D.O. 2 DE ENERO DE 2006)</small>
+metros, por metro cuadrado 8.0 salarios
+
+VI.- Cuando se trate de inhumaciones en comisarías y subcomisarias del municipio de Mérida, no se causarán los derechos por el uso de la bóveda.
+
+VIl.- Cuando se trate de inhumaciones o exhumaciones en fosa común, no se causará derecho alguno.
+
+VIII.- Por el servicio de inhumación o exhumación:
 
 a) En la ciudad de Mérida 2.4 salarios
 
-> <small>(ADICIONADO, D.O. 2 DE ENERO DE 2006)</small>
+b) En las comisarías y subcomisarias del
 
-b) En las comisarías y subcomisarías del Municipio de Mérida 1.2 salarios
+Municipio de Mérida 1.2 salarios
 
-> <small>(ADICIONADA, D.O. 2 DE ENERO DE 2006)</small>
+IX.- Por el registro de cambio de titular y
 
-VII.- Por la expedición de títulos de concesión a perpetuidad, cuando haya sido adquirida por herencia, legado o mandato judicial 3.5 salarios.
+su correspondiente expedición de titulo
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+de derecho de uso a perpetuidad o por
 
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
+uso temporal a quince años, cuando
 
-VIl.- Por el registro de cambio de titular y
-
-su correspondiente expedición de titulo de
-
-concesión de uso a perpetuidad o a temporalidad
-
-máxima, cuando haya sido adquirida por herencia,
+haya sido adquirida por herencia,
 
 legado o mandato judicial. 3.5 salarios
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+X.- Por el registro de cambio de titular
 
-> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
+y su correspondiente expedición de
 
-VIII.- Por el permiso temporal para establecer
+titulo de derecho de uso a perpetuidad
 
-puestos semi-fijos para realizar actividades
+o por uso temporal a quince años,
 
-autorizadas en el interior de los panteones
+cuando el cónyuge supérstite haya
 
-públicos, por día. 1 salario
+sido casado con el titular bajo
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+el régimen de sociedad legal o
 
-> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
+bienes mancomunados. 3.5 salarios
 
-IX.- Por el otorgamiento de la concesión para
+XI.- Por el permiso temporal para
 
-operar un panteón particular, por cada año
+establecer puestos semi-fijos para
 
-concesionado. 400 salarios
+realizar actividades autorizadas en
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+el interior de los panteones públicos,
 
-> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
+por día. 1.0 salario
 
-X.- Por el otorgamiento de la concesión
+XII.- Por el otorgamiento de la
 
-para operar un crematorio particular, por
+concesión para operar un panteón
 
-cada año concesionado. 400 salarios
+particular, por cada año concesionado. 400 salarios
+
+XIII.- Por el otorgamiento de la
+
+concesión para operar un crematorio
+
+particular, por cada año concesionado. 400 salarios
 
 > <small>(REFORMADO PRIMER PARRAFO [N. DE E. ANTES ARTICULO 95-B], D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -2405,75 +2463,59 @@ c) Restos áridos: 21.4 salarios
 
 d) Por Órganos Humanos, hasta 2 órganos. 25.0 salarios
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
-Cuando el servicio de cremación sea prestado por un particular, este deberá informar a la Subdirección de Cementerios del Ayuntamiento de Mérida, previamente a la prestación de dicho servicio, y cubrir el 0.20 de las tarifas señaladas en esta fracción.
+Cuando el servicio de cremación sea prestado por un particular, este deberá informar al Departamento de Panteones de la Dirección de Servicios Públicos Municipales del Ayuntamiento de Mérida, previamente a la prestación de dicho servicio, y cubrir el 0.20 de las tarifas señaladas en esta fracción.
 
-> <small>(ADICIONADO, D.O. 2 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 De la reducción de las cuotas
 
 ###### ARTICULO 101-A.
 
-El Director de Finanzas y Tesorero Municipal, podrá disminuir a petición expresa del Director de Gobernación o del Director de Desarrollo Social, las cuotas señaladas en las fracciones I y II del articulo 101 de esta sección, en el caso de personas de escasos recursos.
+El Director de Finanzas y Tesorero Municipal, podrá disminuir a petición expresa del Director de Servicios Públicos Municipales o del Director de Desarrollo Social, las cuotas señaladas en las fracciones I y II del artículo 101 de esta sección, en el caso de personas de escasos recursos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
-
-El Director de Gobernación o el Director de Desarrollo Social a fin de solicitar la disminución que se señala en el párrafo anterior, deberá tomar en consideración el estudio socioeconómico que para tal efecto realice la dependencia correspondiente.
+El Director de Servicios Públicos Municipales o el Director de Desarrollo Social a fin de solicitar la disminución que se señala en el párrafo anterior, deberá tomar en consideración el estudio socioeconómico y los lineamientos que para tal efecto realice y establezca, respectivamente, el Departamento de Panteones de la Subdirección de Servicios Públicos Municipales del Ayuntamiento de Mérida.
 
 > <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 #### Sección Novena. Derechos por servicio de Alumbrado Público
 
-> <small>(REFORMADO [N. DE E. ANTES ARTICULO 95-C], D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 102.
 
-(*) El derecho por el alumbrado público se causará como compensación por el disfrute del citado servicio que se preste en la ciudad de Mérida.
+Son sujetos del Derecho de Alumbrado Público los propietarios o poseedores de predios urbanos o rústicos ubicados en el Municipio de Mérida.
 
-> <small>(REFORMADO [N. DE E. ANTES ARTICULO 95-D], D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
-###### ARTICULO 103.
+ARTICULO. 103.- Es objeto de este derecho la prestación del servicio de alumbrado público para los habitantes del Municipio de Mérida. Se entiende por servicio de alumbrado público, el que el Municipio otorga a la comunidad, en calles, plazas, jardines y otros lugares de uso común.
 
-(*) La cuota del derecho de alumbrado público será igual al 5% sobre los consumos de energía eléctrica en tarifa 1-A, 2, 3.
-
-> <small>(REFORMADO [N. DE E. ANTES ARTICULO 95-E], D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 104.
 
-(*) Son sujetos del pago de los derechos que se establecen los consumidores de energía eléctrica en tarifas 1-A, 2, 3 publicadas en el Diario Oficial de la Federación el 15 de noviembre de 1976 o en las que en su caso las sustituyan.
+La tarifa mensual correspondiente al derecho de alumbrado público, será la obtenida como resultado de dividir el costo anual global general actualizado erogado por el municipio en la prestación de este servicio, entre el número de usuarios registrados en la Comisión Federal de Electricidad y el número de predios rústicos o urbanos detectados que no están registrados en la Comisión Federal de Electricidad. El resultado será dividido entre 12. Y lo que de cómo resultado de esta operación se cobrará en cada recibo que la Comisión Federal de Electricidad expida, y su monto no podrá ser superior al 5% de las cantidades que deban pagar los contribuyentes en forma particular, por el consumo de energía eléctrica.
 
-> <small>(REFORMADO [N. DE E. ANTES ARTICULO 95-F], D.O. 31 DE DICIEMBRE DE 2004)</small>
+Los propietarios o poseedores de predios rústicos o urbanos que no estén registrados en la CFE, pagarán la tarifa resultante mencionada en el párrafo anterior, mediante el recibo que para tal efecto expida la Tesorería Municipal. Se entiende para los efectos de esta Ley por "costo anual global general actualizado erogado", la suma que resulte del total de las erogaciones efectuadas, en el período comprendido del mes de noviembre del penúltimo ejercicio inmediato anterior hasta el mes de octubre del ejercicio inmediato anterior, por gasto directamente involucrado con la prestación de este servicio traídos a valor presente tras la aplicación de un factor de actualización que se obtendrá para cada ejercicio dividiendo el Índice Nacional de Precios al Consumidor del mes de Noviembre del ejercicio inmediato anterior entre el Índice Nacional de Precios al Consumidor correspondiente al mes de Octubre del penúltimo ejercicio inmediato anterior.
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 105.
 
-(*) El derecho por el servicio de alumbrado público será recaudado por conducto de la Comisión Federal de Electricidad, mediante la aplicación de la tasa relativa, calculándose el importe del derecho, el cual deberá hacerse constar en las facturaciones que formule a sus consumidores sujetos de este derecho, para los efectos del pago, de acuerdo con el convenio celebrado entre el Ayuntamiento de Mérida y la Comisión Federal de Electricidad.
+El derecho de alumbrado público se causará mensualmente. El pago se hará dentro de los primeros 15 días siguientes al mes en que se cause, dicho pago deberá realizarse en las oficinas de la Tesorería Municipal o en las instituciones autorizadas para tal efecto. El plazo de pago a que se refiere el presente artículo podrá ser diferente, incluso podrá ser bimestral, en el caso a que se refiere el artículo 104 en su primer párrafo.
 
-> <small>(REFORMADO [N. DE E. ANTES ARTICULO 95-G], D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 106.
 
-(*) La Comisión Federal de Electricidad deberá aplicar el monto de los derechos que se recauden en la forma siguiente:
+Para efectos del cobro de este derecho el Ayuntamiento podrá celebrar convenios con la compañía o empresa suministradora del servicio de energía eléctrica en el municipio. En estos casos, se deberá incluir el importe de este derecho en el documento que para tal efecto expida la compañía o la empresa, debiéndose pagar junto con el consumo de energía eléctrica, en el plazo y en las oficinas autorizadas por esta última.
 
-> <small>(REFORMADA, D.O. 2 DE ENERO DE 2006)</small>
-
-I.- Para cubrir en primer término, el importe de los consumos de la energía eléctrica por concepto de alumbrado público, que sea suministrada al municipio de Mérida y sus comisarías.
-
-II.- los remanentes serán utilizados en la siguiente forma:
-
-a) Para cubrir el mantenimiento y reposición de lámparas de alumbrado público del municipio de Mérida y sus comisarías, siempre que se haya realizado a solicitud expresa del Ayuntamiento, o bien con motivo de la ejecución de programas de trabajo acordados con este último.
-
-b) Para amortizar los adeudos anteriores que el municipio de Mérida y sus comisarías tengan por suministro de energía por el alumbrado público con la Comisión Federal de Electricidad.
-
-c) Para ampliar o mejorar, en su caso, las instalaciones del alumbrado público a solicitud del Ayuntamiento de Mérida.
-
-> <small>(REFORMADO [N. DE E. ANTES ARTICULO 95-H], D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 107.
 
-(*) La Comisión Federal de Electricidad deberá rendir al Ayuntamiento de Mérida los informes relativos a la recaudación del derecho referido y de su aplicación así como los demás que expresamente le solicite dicha autoridad con relación al particular.
+Los ingresos que se perciban por el derecho a que se refiere la presente Sección se destinarán al pago, mantenimiento y mejoramiento del servicio de alumbrado público que proporcione al (sic) Ayuntamiento.
 
 > <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -2865,25 +2907,19 @@ Zona marginada 0.00
 
 Para el caso de residuos sólidos no peligrosos o basura de origen comercial, la tarifa es de 14.95 pesos por tambor.
 
-> <small>(REFORMADO, D.O. 8 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 126.
 
 Los derechos a que se refiere esta Sección serán pagados por mes de prestación del servicio, dentro de los 15 días siguientes al mismo, no se causará actualización ni recargos sobre los mismos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Los usuarios de los servicios señalados en esta Sección, que no tengan adeudos de meses anteriores, gozarán de los (sic) bonificaciones siguientes, según les corresponda:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 19 DE DICIEMBRE DE 2007)</small>
+a) Los usuarios de los servicios recolección y traslado de residuos sólidos no peligrosos o basura de origen doméstico que paguen en una sola exhibición el importe de la tarifa señalada en el primer párrafo del artículo 125 correspondiente a los 12 meses inmediatos posteriores siguientes al mes en que realice dicho pago, tendrán una bonificación equivalente a tarifa de dos meses de los servicios señalados en este inciso.
 
-Los usuarios de los servicios señalados en esta sección que paguen en una sola exhibición el importe anual por este servicio, gozarán de las siguientes bonificaciones de la tarifa que corresponda, siempre que dicho pago se realice durante los meses que a continuación se señalan:
+b) Los usuarios de los servicios de recolección y traslado de residuos sólidos no peligroso o basura de origen comercial que paguen en una sola exhibición el importe de la tarifa de consumo ordinario correspondiente a los 12 meses inmediatos posteriores siguientes al mes en que realice dicho pago, tendrán una bonificación equivalente a la tarifa de un mes de los servicios señalados en este inciso.
 
-Mes de pago Bonificación
-
-Enero 0.15
-
-Febrero 0.10
-
-Marzo 0.05
+Para los efectos del inciso b) de este artículo, se considerará como tarifa de consumo ordinario el importe total que resulte de aplicar la tarifa señalada en el último párrafo del artículo 125 por el número de tambores de residuos sólidos de origen comercial generados por el usuario en el mes inmediato anterior a aquél en que se realice el pago señalado en ese inciso. Si durante cualquiera de los meses de servicio de recolección que se haya pagado por anticipado el usuario del servicio de recolección excediera en un 20 por ciento el número de tambores considerados para la determinación de la tarifa de consumo ordinario, éste deberá pagar la cuota correspondiente al número de tambores que excedieron al número de tambores considerados para la determinación de la tarifa de consumo ordinario.
 
 > <small>(REFORMADA SU DENOMINACION, D.O. 2 DE ENERO DE 2006)</small>
 
@@ -2919,21 +2955,21 @@ Por la emisión de la credencial de oferente en programas o eventos para la prom
 
 El Director de Finanzas y Tesorero Municipal, a solicitud expresa del Director de Desarrollo Económico, podrá reducir las cuotas establecidas en esta sección, tomando en consideración la finalidad de la realización del evento o programa.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O. 2 DE ENERO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
-#### Sección Décima Octava. De los Derechos por el Servicio de Agua Potable
+#### Sección Décima Octava. De los Derechos por el Servicio de Agua Potable y Drenaje
 
-> <small>(ADICIONADO, D.O. 2 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 129-B.
 
-Son sujetos de los derechos establecidos en esta Sección, las personas físicas o morales, propietarias o poseedoras de inmuebles ubicados en el Municipio de Mérida, que se beneficien con los servicios de agua potable proporcionados directamente por el Municipio.
+Son sujetos de los derechos establecidos en esta Sección, las personas físicas o morales, propietarias o poseedoras de inmuebles ubicados en el Municipio de Mérida, que se beneficien con los servicios de agua potable o drenaje sanitario proporcionados directamente por el Municipio.
 
-> <small>(ADICIONADO, D.O. 2 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 129-C.
 
-El objeto de los derechos a los que se refiere esta Sección es el servicio de suministro de agua potable que el Municipio proporcione.
+El objeto de los derechos a los que se refiere esta Sección son el servicio de suministro de agua potable y el de drenaje sanitario que el Municipio proporcione.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2951,13 +2987,17 @@ III. Por la contratación para la conexión de un predio a la red de Agua Potabl
 
 Municipal: Por la toma de agua.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(ADICIONADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
+IV. Por el servicio de drenaje sanitario será el importe correspondiente al consumo de agua potable.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 129-E.
 
 Los derechos por los servicios a que se refiere la presente sección se pagarán de conformidad con lo siguiente:
+
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 I. Por el consumo de agua potable de aquellos predios que cuentan con medidor volumétrico, se pagara conforme a las siguientes tablas:
 
@@ -2967,7 +3007,7 @@ Límites (metro cúbico) Cuota Base Cuota por metro cúbico
 
 De 0 a 20 12 pesos 0.00 pesos
 
-De 21 a 9999999 0.00 pesos 1.40 pesos
+De 21 a 999999 0 pesos 1.40 pesos
 
 b) Para el caso de consumo para uso comercial e industrial,
 
@@ -2975,13 +3015,63 @@ Límites (metro cúbico) Cuota Base Cuota por metro cúbico
 
 De 0 a 20 38.50 pesos 0.00 pesos
 
-De 21 a 9999999 0.00 pesos 1.91 pesos
+De 21 a 999999 0 pesos 1.91 pesos
+
+c) Para el caso de consumo para uso doméstico en fraccionamientos ubicados en
+
+comisarías,
+
+Límites Cuota Cuota por
+
+(metro cúbico) Base metro
+
+(pesos) cúbico
+
+(pesos)
+
+Inferior Superior
+
+0 3 52.00 0.00
+
+4 10 56.00 0.00
+
+11 15 60.00 0.00
+
+16 20 62.50 0.00
+
+21 40 0.00 3.83
+
+41 60 0.00 3.98
+
+61 80 0.00 4.66
+
+81 100 0.00 4.96
+
+101 150 0.00 6.16
+
+151 200 0.00 6.46
+
+201 300 0.00 8.11
+
+301 400 0.00 9.17
+
+401 600 0.00 9.77
+
+601 999999 0.00 10.07
 
 II. Por el consumo de agua potable de aquellos predios en los cuales no se haya instalado medidor volumétrico, se pagara una cuota mensual de 11 pesos.
 
 III. Por la contratación para la conexión de toma de agua, se pagara una cuota de 250 pesos.
 
 > <small>(ADICIONADO, D.O. 2 DE ENERO DE 2006)</small>
+
+###### ARTICULO 129
+
+E BIS.- La tarifa aplicable al servicio de drenaje sanitario a que se refiere la presente sección será el 50% del importe del consumo de agua potable que corresponda al mismo período
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 129-F.
 
@@ -3029,11 +3119,17 @@ I.- Por cada vehículo que entre con carga a las instalaciones de la Central de 
 
 a) De dos ejes, de hasta 3 toneladas 30.00 pesos
 
-b) De dos ejes, de más de 3 toneladas 75.00 pesos
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
-c) De tres ejes 100.00 pesos
+b) De dos ejes, de más de 3 toneladas 80.00 pesos
 
-d) De más de tres ejes 200.00 pesos
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+c) De tres ejes 110.00 pesos
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+d) De más de tres ejes 220.00 pesos
 
 II.- Por cada día de uso de andén para
 
@@ -3575,7 +3671,9 @@ Los funcionarios y empleados públicos, que en ejercicio de sus funciones, conoz
 
 (*) Son infracciones:
 
-a).- La falta de presentación o la presentación extemporánea de los avisos o manifestaciones que exige esta Ley.
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+a).- No presentar los avisos, declaraciones o manifestaciones que exigen las disposiciones fiscales. No cumplir con los requerimientos de las autoridades fiscales para presentar alguno de los documentos a que se refiere este inciso, o cumplir fuera de los plazos señalados en los mismos.
 
 b).- La falta de cumplimiento de las obligaciones establecidas en esta Ley, a los fedatarios públicos, las personas que tengan funciones notariales, los empleados y funcionarios del Registro Público de la Propiedad y a los que por cualquier medio evadan o pretendan evadir, dicho cumplimiento.
 
@@ -3618,6 +3716,10 @@ IV.- Multa de 150 a 170 salarios mínimos, a la establecida en el inciso g).
 > <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2007)</small>
 
 V.- Multa de 50 a 60 salarios mínimos, a la establecida en el inciso i) y j).
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+Para el caso de las infracciones previstas en los incisos c), d) y h) del artículo 160 de esta Ley, sin perjuicio de la sanción que corresponda, el Director de Finanzas y Tesorero Municipal, o el Subdirector de Ingresos, quedarán facultados para ordenar la clausura temporal del comercio, negocio o establecimiento que corresponda, por el tiempo que subsista la infracción
 
 T R A N S I T O R I O S
 
@@ -3832,3 +3934,83 @@ En ningún caso la aplicación del estímulo a que se refiere este artículo, da
 ###### ARTICULO OCTAVO.
 
 Se derogan todas las disposiciones de los reglamentos municipales que se opongan a la presente ley.
+
+D.O. 27 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor a partir del día 1 de enero de 2009, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Los derechos establecidos en la Sección Décima Tercera del Capítulo II del Título Segundo de la Ley de Hacienda del Municipio de Mérida, serán aplicados únicamente en las áreas del Municipio de Mérida, por las cuales el Ejecutivo del Estado le haya transferido al Municipio atribuciones en materia de vialidad, tránsito y de seguridad pública.
+
+###### ARTÍCULO TERCERO.
+
+Si durante el ejercicio fiscal 2009 fueran modificadas en sesión de cabildo, las tarifas para la prestación del Servicio de Recolección y Traslado de Residuos Sólidos no Peligrosos o Basura; las cuotas establecidas en la Sección Décima Sexta del Capítulo II del Título Segundo, se verán incrementadas o en su caso decrementadas, en la misma proporción que las tarifas autorizadas lo sean para dichos concesionarios.
+
+###### ARTÍCULO CUARTO.
+
+Para el ejercicio fiscal 2009, en vez de aplicar lo dispuesto en el segundo párrafo del artículo 46, las bonificaciones se otorgarán de conformidad con la siguiente tabla:
+
+Mes en el que se paga el equivalente Factor de bonificación
+
+a una anualidad
+
+Enero 0.15
+
+Febrero 0.10
+
+Marzo 0.08
+
+Para estos efectos, los contribuyentes que paguen el importe correspondiente a una anualidad en el mes de marzo no pagarán actualización y recargos sobre el impuesto correspondiente a los meses de enero y febrero del año 2009.
+
+###### ARTÍCULO QUINTO.
+
+En materia de impuesto predial, se otorga un estímulo consistente en el acreditamiento del monto de la inversión realizada en inmuebles ubicados dentro de los perímetros "A", "B-1", "B-2", "B-3" y "B-4" de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, contra el impuesto predial causado en los períodos comprendidos de enero 2009 a junio 2010, siempre y cuando los trabajos fueren iniciados y concluidos durante el ejercicio 2009 y se encuentre cubierto en su totalidad el impuesto predial, causado hasta por el período de Diciembre 2008; de conformidad con lo siguiente:
+
+I.- Por un importe hasta del 100% del monto de la inversión en trabajos de rescate, consolidación, restauración, o rehabilitación integral de inmuebles que se encuentren sin uso, al menos durante los seis meses inmediatos anteriores consecutivos, o en estado de abandono, y que dichos trabajos recuperen la habitabilidad de dicho bien, y
+
+II.- Por un importe hasta del 50% del monto de la inversión en trabajos de integración al contexto en inmuebles distintos a los señalados como monumentos históricos en el Decreto Presidencial de referencia.
+
+Para efectos de este artículo se entenderá por:
+
+I.- Acreditamiento, el restar del impuesto causado en el mes que corresponda un importe igual de la inversión; la diferencia resultante entre el impuesto causado y el acreditamiento derivado del estímulo, en caso de que éste fuere menor, deberá ser pagada. La suma de los acreditamientos aplicados no podrá ser mayor del monto de la inversión a que se refiere el párrafo siguiente de este artículo.; (sic)
+
+II.- Rescate, la recuperación de elementos que hubieren sido mutilados o alterados;
+
+III.- Consolidación, cuando se devuelve la estabilidad a partir de lo existente;
+
+IV.- Restauración, cuando se reincorpora algún elemento original, o con características similares a la original;
+
+V.- Integración al contexto, cuando se lleve a cabo un proyecto que permita incorporar al predio en cuestión con las características de su entorno; y
+
+VI.- Rehabilitación integral, el conjunto de trabajos, en interior y exterior, respetuosos de las características originales del inmueble que conlleve a su habitabilidad, y en consecuencia al uso inmediato.
+
+Previo al inicio de los trabajos, el contribuyente deberá obtener de la Dirección de Desarrollo Urbano, un dictamen aprobatorio en el cual se determine el importe de la inversión en los trabajos, que podrá considerarse en la aplicación del estímulo.
+
+La Dirección de Desarrollo Urbano emitirá un acuerdo por medio del cual se establezcan los requisitos que deban cubrirse, para considerarse la inversión como realizable en los trabajos de rescate, consolidación, restauración, integración al contexto, o rehabilitación integral.
+
+Una vez concluidos los trabajos señalados en el proyecto aprobatorio, el contribuyente obtendrá constancia de ello emitida por la Dirección de Desarrollo Urbano. Con en base los (sic) importes señalados en dicha constancia podrá aplicarse el estímulo a que se refiere este artículo.
+
+De no concluirse en su totalidad los trabajos determinados en el proyecto por el cual se obtuvo dictamen en los plazos que el mismo señale, se considerará que el contribuyente ha perdido los beneficios a que se refiere el presente artículo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+###### ARTÍCULO SEXTO.
+
+Durante el ejercicio fiscal 2009, se otorga un estímulo fiscal consistente en que no se causará el Impuesto sobre adquisición de Inmuebles en la adquisición de casa habitación cuyo valor mayor obtenido de la manera prevista en el primer párrafo del artículo 56 de esta Ley, no exceda el equivalente a cuatro mil ciento cincuenta veces el salario mínimo vigente en el momento en el que se realice la enajenación del bien, que no tenga una superficie construida mayor de cincuenta y cinco metros cuadrados, y siempre y cuando se trate de la adquisición de viviendas que cuenten con atributos de sustentabilidad, tales como diseño bioclimático y tecnologías para el ahorro de energía y agua. Para tal efecto el adquirente deberá presentar ante la Dirección de Finanzas y Tesorería Municipal un oficio emitido por una instancia de la Administración Pública de la Federación, Estado o del Municipio, encargada del desarrollo urbano o de la vivienda en donde conste que la casa habitación de la cual se trate cuenta con los mencionados atributos de sustentabilidad.
+
+###### ARTÍCULO SÉPTIMO.
+
+Durante el ejercicio fiscal 2009, se otorga un estímulo fiscal en materia del Impuesto sobre Adquisición de Inmuebles, en la adquisición de casa habitación cuyo valor mayor obtenido de la manera prevista en el primer párrafo del artículo 56 de esta Ley, no exceda el equivalente a cuatro mil ochocientas veces el salario mínimo vigente en el momento en el que se realice la enajenación del bien, y que no tenga una superficie construida mayor de sesenta metros cuadrados, consistente en que en lugar de aplicar la tasa a que se refiere el artículo 58 de esta Ley se aplicará la tasa del 0.016.
+
+###### ARTÍCULO OCTAVO.
+
+Durante el ejercicio fiscal 2009, se otorga un estímulo fiscal en materia del Impuesto sobre Adquisición de Inmuebles, en la adquisición de casa habitación cuyo valor mayor obtenido de la manera prevista en el primer párrafo del artículo 56 de esta Ley, no exceda el equivalente a cinco mil ciento cincuenta veces el salario mínimo vigente en el momento en el que se realice la enajenación del bien, que no tenga una superficie construida mayor de sesenta metros cuadrados, y siempre y cuando se trate de la adquisición de viviendas que cuenten con atributos de sustentabilidad, tales como diseño bioclimático y tecnologías para el ahorro de energía y agua, consistente en que en lugar de aplicar la tasa a que se refiere el artículo 58 de esta Ley se aplicará la tasa del 0.016. Para tal efecto el adquirente deberá presentar ante la Dirección de Finanzas y Tesorería Municipal un oficio emitido por una instancia de la Administración Pública de la Federación, Estado o del Municipio, encargada del desarrollo urbano o de la vivienda en donde conste que la casa habitación de la cual se trate cuenta con los mencionados atributos de sustentabilidad.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan todas las disposiciones de los reglamentos municipales que se opongan a la presente Ley.
