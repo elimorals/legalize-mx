@@ -4,7 +4,7 @@ identifier: "COL-ley-de-coordinacion-fiscal-del-estado-de-colima-44756"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-23"
-last_updated: "2008-05-31"
+last_updated: "2008-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 23 de abril de 2005.
 
@@ -137,13 +137,11 @@ V. El 100 por ciento de los recursos provenientes del Fondo de Fomento Municipal
 
 VI. El 20 por ciento como mínimo de las cantidades que el Estado reciba por concepto de participaciones del Fondo de Fiscalización, de acuerdo a la Ley de Coordinación Fiscal.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 7º.
 
-Además de los conceptos de participaciones enumerados en el artículo anterior, los municipios participarán de un 20 por ciento como mínimo de las cantidades que al Estado le correspondan de la recaudación obtenida por la aplicación de las cuotas previstas en el articulo 2o-A, fracción II de la Ley del Impuesto Especial Sobre Producción y Servicios, cuando tenga celebrado convenio de colaboración con la Federación para la administración de dichas cuotas, en los términos del articulo 4o.-A, fracción I de la Ley de Coordinación Fiscal.
-
-Los recursos que reciban los municipios en términos de este articulo, deberán destinarse exclusivamente a infraestructura vial, sea rural o urbana; infraestructura hidráulica; movilidad urbana y, por lo menos, el 12.5 por ciento a programas para la protección y conservación ambiental.
+Además de los conceptos de participaciones enumerados en el artículo anterior, los municipios participarán de un 20 por ciento como mínimo de las cantidades que al Estado le correspondan de la recaudación obtenida por la aplicación de las cuotas previstas en el artículo 2o-A, fracción II de la Ley del Impuesto Especial Sobre Producción y Servicios, cuando tenga celebrado convenio de colaboración con la Federación para la administración de dichas cuotas, en los términos del artículo 4o.-A, fracción I de la Ley de Coordinación Fiscal.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2008)</small>
 
@@ -604,3 +602,7 @@ SEGUNDO.- Para los efectos de la determinación del factor de distribución a lo
 TERCERO.- Los montos de participación que los municipios hubieran recibido en el ejercicio fiscal 2007 del Fondo General de Participaciones, en la parte proveniente del uno por ciento de la Recaudación Federal Participable que se adicionaba para los Estados coordinados en materia de derechos hasta el mes de diciembre de dicho ejercicio, se considerarán como monto de garantía en el Fondo de Fiscalización, en los términos del artículo 9°, fracción I, inciso a) de la presente Ley.
 
 CUARTO.- Los recursos ministrados a los municipios de enero a mayo de 2008, por concepto de los nuevos fondos a que se refiere el presente dictamen, no sufrirán ajustes por la entrada en vigor de la fórmula de distribución aprobada.
+
+P.O. 27 DE DICIEMBRE DE 2008.
+
+ÚNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
