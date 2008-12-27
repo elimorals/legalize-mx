@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-deuda-publica-del-estado-de-san-luis-potosi-13904"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-18"
-last_updated: "2007-08-16"
+last_updated: "2008-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DEUDA PUBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, PUBLICADA EN EL P.O. DE 27 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de marzo de 1999.
 
@@ -378,3 +380,11 @@ P.O. 16 DE AGOSTO DE 2007.
 PRIMERO. El presente Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDOS. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2008.
+
+PRIMERO. Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Deuda Pública del Estado de San Luis Potosí, publicada en la edición extraordinaria del Periódico Oficial del Estado el 18 de marzo de 1999. De igual forma, se abroga la Ley de Deuda Pública Municipal del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el 15 de enero de 1988. Asimismo, se derogan todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO. Los asuntos que se encuentren en trámite o en proceso en materia de deuda pública, al entrar en vigor esta Ley, continuarán su tramitación o su proceso, en los términos de la ley bajo cuya vigencia se iniciaron.
