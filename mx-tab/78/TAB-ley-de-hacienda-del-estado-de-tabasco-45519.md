@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-45519"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-22"
-last_updated: "2005-06-22"
+last_updated: "2008-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 22 de junio de 2005.
 
@@ -67,7 +67,9 @@ Vivienda de interés social: aquélla cuyo valor al término de su edificación 
 
 Vivienda popular: aquélla cuyo valor al término de su edificación no exceda del monto que resulte de multiplicar por trescientos cincuenta, el salario mínimo general diario vigente en el Estado, elevado a treinta días.
 
-Cuando se trate de viviendas de interés social o popular, se cobrará en el primer caso el 25%, y en el segundo, el 50% del monto total de las contribuciones señaladas en los artículos: 14, 58, 59, 60, 64, 71, 72 y 73 de esta Ley.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+Cuando se trate de viviendas de interés social o popular, se cobrará en el primer caso el 25%, y en el segundo, el 50% del monto total de las contribuciones señaladas en los artículos: 15, 60, 61, 62, 66, 73, y 74 de esta Ley.
 
 Las tarifas establecidas que se causan en su equivalente en días de salario mínimo general vigente en el Estado, se refieren en esta Ley con las siglas “D.S.M.G.V.”.
 
@@ -453,9 +455,11 @@ Cuando las personas físicas operen organizadas en agrupaciones profesionales, a
 
 Quienes hagan pagos a contribuyentes eventuales de este impuesto, deberán retenerlo y enterarlo a la Receptoría de Rentas o Agencia Recaudadora que corresponda, dentro de los 5 días siguientes a la fecha que cause, siendo en todo caso solidariamente responsable de este impuesto. ARTÍCULO 33. Quienes hagan pagos a contribuyentes eventuales de este impuesto, deberán retenerlo y enterarlo a la Receptoría de Rentas o Agencia Recaudadora que corresponda, dentro de los 5 días siguientes a la fecha que cause, siendo en todo caso solidariamente responsable de este impuesto.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 34.
 
-Es base de este impuesto, el monto total de los ingresos a que se refiere el artículo 29 de esta Ley.
+Es base de este impuesto, el monto total de los ingresos a que se refiere el artículo 31 de esta Ley.
 
 #### SECCIÓN SEGUNDA. DE LAS TASAS Y PAGO DEL IMPUESTO
 
@@ -706,6 +710,14 @@ II. Por el nombramiento de notarios adscritos o sustitutos. 45.0 D.S.M.G.V.
 III. Por la autorización de cada libro para el protocolo
 
 de los notarios. 10.0 D.S.M.G.V.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+III BIS. Por la autorización de cada 150 folios o
+
+300 números para la integración o uso de
+
+protocolo abierto. 10 D.S.M.G.V.
 
 IV. Por el registro de sello y firma que utiliza el
 
@@ -1787,7 +1799,9 @@ XI. Cédula de operación anual (pago anual). 16.0 D.S.M.G.V.
 
 ### CAPÍTULO OCTAVO. DE LOS SERVICIOS PRESTADOS POR EL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO NOVENO. DE LOS COSTOS DE REPRODUCCIÓN Y COPIADO DE LA INFORMACIÓN PÚBLICA
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ### CAPÍTULO ÚNICO
 
@@ -1809,21 +1823,35 @@ I. Constancia de pagos efectuados por 6.0 D.S.M.G.V.
 
 concepto de impuestos, derechos y aprovechamientos.
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
 II. Por cada certificación o constancia que 3.0 D.S.M.G.V.
 
 expidan los servidores públicos, jefes o
 
-empleados que estén autorizados para ello.
+empleados que estén autorizados para ello,
 
-III. Copia certificada de los documentos, actuaciones
+distintas de las contempladas en la fracción
 
-o datos que obren en las dependencias u oficinas
+II del artículo 78-Bis de la presente Ley.
 
-del Gobierno:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+III. Copia certificada de los documentos,
+
+actuaciones o datos que obren en las
+
+dependencias u oficinas del Gobierno,
+
+distintas a las contempladas en la fracción
+
+II del artículo 78-Bis de la presente Ley:
 
 a) Primera hoja. 2.0 D.S.M.G.V.
 
-b) Hoja subsecuente. 0.1 D.S.M.G.V.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+b) Por cada hoja subsecuente. 0.1 D.S.M.G.V.
 
 IV. Por constancia de no inhabilitación 5.0 D.S.M.G.V.
 
@@ -1849,13 +1877,17 @@ II. Los derechos de registros, la legalización de firmas, expedición de certif
 
 III. Las certificaciones o copias certificadas que expida el Registro Público de la Propiedad y de Comercio, a solicitud de las autoridades judiciales para que obren en causas penales o para acreditar la solvencia de fiadores que propongan los procesados o sentenciados, pero en el segundo caso sólo se expedirán gratuitamente cuando los interesados, de manera notoria, carezcan de recursos económicos.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 77.
 
-La Secretaría de Finanzas, a solicitud de la dependencia o entidad que preste el servicio de que se trate, podrá exentar o en su caso reducir el pago de los siguientes derechos:
+La Secretaría de Administración y Finanzas a solicitud de la dependencia o entidad que preste el servicio de que se trate, podrá exentar o en su caso reducir el pago de los siguientes derechos:
 
-I. El pago a que se refiere el artículo 54, fracciones II, IV y V, con motivo de programas colectivos y específicos de beneficio social que emprenda el gobierno del Estado.
+I. El pago a que se refiere el artículo 56 fracciones II, IV y V, con motivo de programas colectivos y específicos de beneficio social que emprenda el gobierno del Estado.
 
-II. El pago por legalización de la documentación a que se refiere la fracción VII del artículo 53 que expidan instituciones del sistema educativo estatal.
+II. El pago por la legalización de la documentación a que se refiere la fracción VIII del artículo 55 que expidan instituciones del sistema educativo estatal.
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 78.
 
@@ -1868,6 +1900,48 @@ a) Hasta las primeras 10 hojas. 2.0 D.S.M.G.V.
 b) Hoja subsecuente. 0.1 D.S.M.G.V.
 
 II. Otros no especificados en éste Capítulo. 5.0 D.S.M.G.V.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+###### ARTÍCULO 78 Bis.
+
+Por los servicios que prestan las Dependencias, órganos y organismos de la Administración Pública Estatal cuando les sean solicitados documentos físicos o en medios magnéticos u ópticos, tratándose de obtención de información pública en términos de la legislación y reglamentación aplicable, las personas interesadas pagarán las cantidades siguientes:
+
+I. Por la expedición de copia simple: 0.01 D.S.G.M.V.
+
+II. Por la expedición de copias certificadas por las que no se tenga que pagar otra contribución de conformidad con lo que se establece en la presente Ley:
+
+a) Por la primera hoja: 0.3 D.S.G.M.V
+
+b) Por cada hoja subsecuente: 0.01 D.S.G.M.V.
+
+III. Por cada disco flexible de 3:5
+
+pulgadas que contenga la información
+
+requerida en ese medio: 0.1 D.S.G.M.V.
+
+IV. Por cada disco compacto para
+
+almacenar y entregar la información
+
+requerida: 0.2 D.S.G.M.V.
+
+V. Por cada disco compacto en formato DVD para almacenar y entregar la información requerida en ese medio, bajo la siguiente característica:
+
+a) DVD: 0.3 D.S.G.M.V.
+
+b) DVD regrabable: 0.6 D.S.G.M.V.
+
+VI. Por cada hoja impresa:
+
+a) Tamaño carta: 0.02 D.S.G.M.V.
+
+b) Tamaño oficio: 0.03 D.S.G.M.V.
+
+El establecimiento de estos costos no contraviene las facultades que la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco confiere al organismo público autónomo garante.
+
+Las mismas cuotas y tarifas serán aplicables por la expedición de los documentos físicos o que en medio magnético u óptico realicen los Poderes Legislativo y Judicial y que le sean solicitados en materia de acceso a la información pública. La entrega de la información pública bajo las modalidades de correo electrónico, consulta física o verbal, en ningún caso generará pago alguno.
 
 ## TÍTULO CUARTO. PRODUCTOS
 
@@ -2004,3 +2078,9 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 27 DE DICIEMBRE DE 2008.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y será de observancia obligatoria para todos los sujetos obligados a la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco, con excepción de los Municipios, que hasta en tanto cuenten con sus propias contribuciones dentro de sus respectivas legislaciones municipales queden autorizados para aplicar el cobro de los derechos aquí previstos.
