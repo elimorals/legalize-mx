@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ingresos-del-estado-de-zacatecas-para-el-ejercicio-59419
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2007-12-29"
-last_updated: "2008-07-19"
+last_updated: "2008-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59419&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL DEL AÑO 2008.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL DEL AÑO 2009, PUBLICADA EN EL P.O. EL 27 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 29 de diciembre de 2007.
 
@@ -312,3 +314,13 @@ P.O. 19 DE JULIO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
 
 SEGUNDO.- Se autoriza al Poder Ejecutivo del Estado a que gestione en el crédito que se autorice, un período de gracia hasta por seis meses para el cumplimiento de sus obligaciones crediticias; en caso de que el Sistema Financiero Mexicano no lo ofrezca, se autoriza para que al presentar la Cuenta Pública del ejercicio fiscal 2008, informe la fuente de financiamiento de las obligaciones crediticias del presente ejercicio fiscal. En ningún caso y en ninguna circunstancia se utilizará el Impuesto Sobre la Nómina como fuente de pago del crédito materia del presente.
+
+P.O. 27 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Ingresos para el año 2008 contenida en el Decreto No. 52, publicado el 29 de diciembre del 2007 en el suplemento número 104 del Periódico Oficial, Órgano del Gobierno del Estado.
