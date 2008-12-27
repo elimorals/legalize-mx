@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-armeria-colima-26733"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2008-03-22"
+last_updated: "2008-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE ARMERIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1755,7 +1755,49 @@ venta de cerveza, vinos y licores 50.00 a 150.00
 
 33.- Tiendas de conveniencia 150.00 a 200.00
 
-34.- Otros giros no especificados 5.00 a 1000.00
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+34.- Pizzería con venta de cerveza y vinos de mesa.
+
+20.00 a 50.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+35.- Restaurante peña 60.00 a 200.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+36.- Salón para fiestas en zona rural 20.00 a 100.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+37.- Restaurante nocturno 150.00 a 300.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+38.- Restaurante 24 horas 60.00 a 150.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+39.- Parián 20.00 a 200.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+40.- Otros giros no especificados 5.00 a 1000.00
 
 b).- Por el refrendo anual de licencias de funcionamiento se pagará el 50 por ciento de la tarifa por la expedición de la licencia de acuerdo al giro correspondiente.
 
@@ -1795,9 +1837,53 @@ urbana 7.00
 
 rural 5.00
 
-5.- Callejeada y/o desfiles 0.00
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-6.- Otros no especificados 0.00 a 7.00
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+5.- Callejeada y/o desfiles rallies, cierre de calle,
+
+bicipaseos . 0.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+6.- Cena baile (organizaciones y clubes sociales).
+
+5.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+7.- Fiestas patronales . 0.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+8.- Jaripeo en zona rural. 4.00 a 10.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+9.- Baile en zona rural. 10.00 a 15.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+10.- Evento promocionales para establecimientos
+
+comerciales 2.00 a 15.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+11.- Otros no especificados. 0.00 a 7.00
 
 Las licencias de funcionamiento de giros distintos a los referidos en el artículo 79 de esta Ley, no causarán el pago de derechos pero deberán obtenerse por los interesados dentro de los treinta días siguientes a la fecha de inicio de operaciones y refrendarse durante los meses de enero y febrero de cada año.
 
@@ -1875,7 +1961,19 @@ m).- Capitulaciones matrimoniales e
 
 inspección de bienes y deudas 5.00
 
-n).- Los demás actos, cada uno 1.00
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+n).- Acta de nacimiento, defunción,
+
+matrimonio. 0.60
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+ñ).- Los demás actos, cada uno. 1.00
 
 II. A domicilio:
 
@@ -2619,6 +2717,12 @@ b) Para la propiedad de más de
 
 1 x 3 mts 3.00
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+Cuando el título de propiedad se expidiera de Junio a Diciembre, el importe se cobrará de manera proporcional.
+
 V. Cremaciones, por cada una 10.00
 
 VI. Expedición de títulos de propiedad 1.50
@@ -2713,53 +2817,95 @@ I. Arrendamiento de mercados, se pagará según la tarifa siguiente por día:
 
 a) Accesorias 0.100
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
 b) Locales interiores.
 
-Para venta de carnes, aves, pescados
+1.- Para la venta de carnes, aves,
 
-y mariscos 0.170
+pescado y mariscos 0.170
 
-Para venta de ropa, mercería, lencería,
+2.- Para venta de ropa, mercería,
 
-cremería y plásticos 0146
+lencería, cremeria y plásticos 0.146
 
-Para venta de abarrotes, fonda, juegos y
+3.- Para venta de abarrotes, fonda,
 
-frutas preparadas 0.170
+jugos y frutas preparadas 0.170
 
-Para venta de verduras y frutas 0.116
+4.- Para venta de verduras y fruta 0.116
 
-Otros no especificados 0.134
+5.- Otros no especificados de 0.116 a 0.170
 
-II. Refrendo de concesión de los mercados,
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-anualmente 2.00
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
-III. Traspaso de locales, previa autorización
+II.- Concesión de locales en parques
 
-del Cabildo, cada vez 10.00
+y jardines municipales, previa
 
-IV. Por vehículo detenido en el corralón,
+autorización del Cabildo 2.00
 
-por día 0.50
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V. El importe de las rentas de otros bienes muebles e inmuebles propiedad del municipio, será fijado en los contratos respectivos por el Presidente Municipal, previo acuerdo del Cabildo.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
-VI. Arrendamiento de áreas públicas para espectáculos masivos organizados por particulares, según convenio aprobado por el Cabildo.
+III.- Refrendo de concesión de los
 
-VII. Arrendamiento de maquinaria pesada, según acuerdo de Cabildo.
+mercados, anualmente 2.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+IV.- Traspaso de locales, previa
+
+autorización del Cabildo, cada vez 10.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+V.- Por vehículo detenido en el
+
+corralón, por día 0.50
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+VI.- El importe de las rentas de otros bienes muebles e inmuebles propiedad del municipio, será fijado en los contratos respectivos por el Presidente Municipal, previo acuerdo del Cabildo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+VII.- Arrendamiento de áreas públicas para espectáculos masivos organizados por particulares, según convenio aprobado por el Cabildo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+VIII.- Arrendamiento de maquinaria pesada, según acuerdo del Cabildo.
 
 El costo de traslado, será cubierto por el arrendatario.
 
-VIII. Por ingresar a:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+IX.- Por ingresar a:
 
 a) Centro Ecológico el Tortugario
 
-I. Adultos 0.40
+I.- Adultos. 0.40
 
-II. Niños 0.26
+II.- Niños 0.26
 
-b) Zona de Tolerancia 0.08
+b) Zona de Tolerancia. 0.08
 
 ###### ARTICULO 110.
 
@@ -3112,3 +3258,7 @@ TERCERO.- Para el ejercicio fiscal 2008, el plazo a que se refieren el segundo p
 P.O. 22 DE MARZO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 27 DE DICIEMBRE DE 2008.
+
+ÚNICO.- El presente decreto entrará en vigor el 01 de enero de 2009, previa su publicación en el Periódico Oficial "El Estado de Colima".
