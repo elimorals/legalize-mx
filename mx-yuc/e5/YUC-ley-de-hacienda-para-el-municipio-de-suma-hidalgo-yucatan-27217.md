@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-suma-hidalgo-yucatan-27217
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2004-12-31"
+last_updated: "2008-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE SUMA DE HIDALGO, YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 31 de diciembre de 2002.
 
@@ -485,7 +485,7 @@ Diversiones Públicas: aquellos eventos a los cuales el público existe (sic) me
 
 Espectáculos Públicos: aquellos eventos a los cuales el público asiste, mediante el pago de una cuota de admisión, con la finalidad de recrearse y disfrutar con la presentación del mismo pero, sin participar en forma activa.
 
-Cuota de Admisión: el importe del boleto de entrada, donativo, cooperación o cualquier otra denominación que se le dé a la cantidad de dinero por la que se permita el acceso a las diversiones y espectáculos públicos.
+Cuota de Admisión: el importe del boleto de entrada, donativo, cooperación o cualquier otra denominación que se le de a la cantidad de dinero por la que se permita el acceso a las diversiones y espectáculos públicos.
 
 ###### ARTÍCULO 55.
 
@@ -829,7 +829,7 @@ El pago de estos derechos deberá realizarse mensualmente por los comerciantes c
 
 ###### ARTÍCULO 108.
 
-Los derechos a que se refiere este capítulo se causarán y pagarán de conformidad con las tarifas establecidas en la Ley de Ingreso (sic) del Municipio de Suma de Hidalgo tarifa:
+Los derechos a que se refiere este capítulo se causarán y pagaran de conformidad con las tarifas establecidas en la Ley de Ingreso (sic) del Municipio de Suma de Hidalgo tarifa:
 
 > <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -869,11 +869,39 @@ La descripción de cada uno de los derechos que en un momento dado puedan cobrar
 
 Los derechos a que se refiere este apartado deberán cubrirse con anterioridad a la prestación de los servicios públicos, servicios de otra índole o licencias, permisos y autorizaciones o registros que la autoridad realice a petición de los particulares o por disposición legal.
 
-### CAPÍTULO ÚNICO. CONTRIBUCIONES ESPECIALES POR MEJORAS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+### CAPÍTULO DÉCIMO PRIMERO. DERECHOS POR SERVICIO DE ALUMBRADO PÚBLICO
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 111 A.- Son sujetos del Derecho de Alumbrado Público los propietarios o poseedores de predios urbanos o rústicos ubicados en el Municipio.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 111 B.- Es objeto de este derecho la prestación del servicio de alumbrado público para los habitantes del Municipio. Se entiende por servicio de alumbrado público, el que el Municipio otorga a la comunidad, en calles, plazas, jardines y otros lugares de uso común.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 111 C.- La tarifa mensual correspondiente al derecho de alumbrado público, será la obtenida como resultado de dividir el costo anual global general actualizado erogado por el municipio en la prestación de este servicio, entre el número de usuarios registrados en la Comisión Federal de Electricidad y el número de predios rústicos o urbanos detectados que no están registrados en la Comisión Federal de Electricidad. El resultado será dividido entre 12. Y lo que de cómo resultado de esta operación se cobrará en cada recibo que la Comisión Federal de Electricidad expida, y su monto no podrá ser superior al 5% de las cantidades que deban pagar los contribuyentes en forma particular, por el consumo de energía eléctrica.
+
+Los propietarios o poseedores de predios rústicos o urbanos que no estén registrados en la Comisión Federal de Electricidad, pagarán la tarifa resultante mencionada en el párrafo anterior, mediante el recibo que para tal efecto expida la Tesorería Municipal. Se entiende para los efectos de esta Ley por "costo anual global general actualizado erogado", la suma que resulte del total de las erogaciones efectuadas, en el período comprendido del mes de noviembre del penúltimo ejercicio inmediato anterior hasta el mes de octubre del ejercicio inmediato anterior, por gasto directamente involucrado con la prestación de este servicio traídos a valor presente tras la aplicación de un factor de actualización que se obtendrá para cada ejercicio dividiendo el Índice Nacional de Precios al Consumidor del mes de Noviembre del ejercicio inmediato anterior entre el Índice Nacional de Precios al Consumidor correspondiente al mes de Octubre del penúltimo ejercicio inmediato anterior.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 111 D.- El derecho de alumbrado público se causará mensualmente. El pago se hará dentro de los primeros 15 días siguientes al mes en que se cause, dicho pago deberá realizarse en las oficinas de la Tesorería Municipal o en las instituciones autorizadas para tal efecto. El plazo de pago a que se refiere el presente artículo podrá ser diferente, incluso podrá ser bimestral, en el caso a que se refiere el artículo 111 C en su primer párrafo.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 111 E.- Para efectos del cobro de este derecho el Ayuntamiento podrá celebrar convenios con la compañía o empresa suministradora del servicio de energía eléctrica en el municipio. En estos casos, se deberá incluir el importe de este derecho en el documento que para tal efecto expida la compañía o la empresa, debiéndose pagar junto con el consumo de energía eléctrica, en el plazo y en las oficinas autorizadas por esta última.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 111 F.- Los ingresos que se perciban por el derecho a que se refiere la presente Sección se destinarán al pago, mantenimiento y mejoramiento del servicio de alumbrado público que proporcione al Ayuntamiento.
 
 ## TÍTULO QUINTO. CONTRIBUCIONES ESPECIALES
 
-### CAPÍTULO PRIMERO. PRODUCTOS DERIVADOS DE BIENES INMUEBLES
+### CAPÍTULO ÚNICO. CONTRIBUCIONES ESPECIALES POR MEJORAS
 
 ###### ARTÍCULO 112.
 
@@ -935,7 +963,7 @@ Los sujetos pasivos de las contribuciones por mejoras, están obligados a propor
 
 ## TÍTULO SEXTO. PRODUCTOS
 
-### CAPÍTULO SEGUNDO. PRODUCTOS DERIVADOS DE BIENES MUEBLES
+### CAPÍTULO PRIMERO. PRODUCTOS DERIVADOS DE BIENES INMUEBLES
 
 ###### ARTÍCULO 122.
 
@@ -983,7 +1011,7 @@ El pago de los productos señalados en este capítulo, deberá hacerse invariabl
 
 Los recibos que deba expedir la Tesorería Municipal y los boletos para el control y cobro de productos por uso de piso, deberán ser enviados al órgano revisor del H. Congreso del Estado para su registro y control.
 
-### CAPÍTULO TERCERO. PRODUCTOS FINANCIEROS
+### CAPÍTULO SEGUNDO. PRODUCTOS DERIVADOS DE BIENES MUEBLES
 
 ###### ARTÍCULO 132.
 
@@ -1009,7 +1037,7 @@ Los ingresos que se perciban por la enajenación de bienes muebles, invariableme
 
 También obtendrá productos el municipio por el arrendamiento de sus bienes muebles cuyo costo será fijado por el Tesorero Municipal.
 
-### CAPÍTULO CUARTO. OTROS PRODUCTOS
+### CAPÍTULO TERCERO. PRODUCTOS FINANCIEROS
 
 ###### ARTÍCULO 138.
 
@@ -1035,7 +1063,7 @@ Para adquirir acciones o títulos de empresas, se requiere la autorización del 
 
 Los recursos que se obtengan por rendimientos de inversiones financieras en instituciones de crédito por compra de acciones o títulos de empresas, invariablemente se ingresarán al erario municipal, clasificándolos como productos financieros.
 
-### CAPÍTULO PRIMERO. APROVECHAMIENTOS DERIVADOS POR SANCIONES MUNICIPALES
+### CAPÍTULO CUARTO. OTROS PRODUCTOS
 
 ###### ARTÍCULO 144.
 
@@ -1055,7 +1083,7 @@ Se establece responsabilidad solidaria a las autoridades municipales en el pago 
 
 ## TÍTULO SÉPTIMO. APROVECHAMIENTOS
 
-### CAPÍTULO SEGUNDO. APROVECHAMIENTOS DERIVADOS DE RECURSOS TRANSFERIDOS AL MUNICIPIO
+### CAPÍTULO PRIMERO. APROVECHAMIENTOS DERIVADOS POR SANCIONES MUNICIPALES
 
 ###### ARTÍCULO 148.
 
@@ -1091,7 +1119,7 @@ También percibirá recargos la Tesorería Municipal de aquellos contribuyentes 
 
 Los pagos por los aprovechamientos derivados del sistema sancionatorio municipal deberán ser cubiertos exclusivamente en la Tesorería Municipal o en las oficinas o instituciones que ésta en forma expresa autorice para ello.
 
-### CAPÍTULO TERCERO. APROVECHAMIENTOS PROVENIENTES DE CRÉDITO
+### CAPÍTULO SEGUNDO. APROVECHAMIENTOS DERIVADOS DE RECURSOS TRANSFERIDOS AL MUNICIPIO
 
 ###### ARTÍCULO 155.
 
@@ -1135,7 +1163,7 @@ Para los aprovechamientos a que se refiere la fracción IX del artículo 152 de 
 
 Los aprovechamientos a que se refiere este Capítulo, deberán ingresar al erario municipal, tratándose de numerario o al inventario de bienes patrimoniales tratándose de bienes muebles o inmuebles, en un plazo no mayor de 72 horas contados a partir del momento en que tales bienes o recursos sean del conocimiento de la autoridad municipal.
 
-### CAPÍTULO CUARTO. APROVECHAMIENTOS DIVERSOS
+### CAPÍTULO TERCERO. APROVECHAMIENTOS PROVENIENTES DE CRÉDITO
 
 ###### ARTÍCULO 161.
 
@@ -1151,7 +1179,7 @@ Sólo podrán obtenerse empréstitos o financiamientos que sean destinados a obr
 
 Adquiere responsabilidad cualquier funcionario que contravenga las disposiciones contenidas en este Capítulo.
 
-### CAPÍTULO ÚNICO. PARTICIPACIONES FEDERALES
+### CAPÍTULO CUARTO. APROVECHAMIENTOS DIVERSOS
 
 ###### ARTÍCULO 165.
 
@@ -1163,7 +1191,7 @@ Sólo la Tesorería Municipal podrá recibir los aprovechamientos a que se refie
 
 ## TÍTULO OCTAVO. PARTICIPACIONES
 
-### CAPÍTULO ÚNICO. DE LOS EMPRÉSTITOS, SUBSIDIOS Y LOS PROVENIENTES DEL ESTADO O LA FEDERACIÓN
+### CAPÍTULO ÚNICO. PARTICIPACIONES FEDERALES
 
 ###### ARTÍCULO 167.
 
@@ -1182,6 +1210,8 @@ La única dependencia autorizada para recibir las participaciones a que se refie
 Incurre en responsabilidad cualquier funcionario municipal que reciba o pretenda recibir las participaciones federales, hecha excepción del Tesorero Municipal. Este último incurre en responsabilidad cuando no ingrese de inmediato dichas participaciones al erario del municipio.
 
 ## TÍTULO NOVENO. INGRESOS EXTRAORDINARIOS
+
+### CAPÍTULO ÚNICO. DE LOS EMPRÉSTITOS, SUBSIDIOS Y LOS PROVENIENTES DEL ESTADO O LA FEDERACIÓN
 
 ###### ARTÍCULO 171.
 
@@ -1222,3 +1252,9 @@ D.O. 31 DE DICIEMBRE DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 27 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
