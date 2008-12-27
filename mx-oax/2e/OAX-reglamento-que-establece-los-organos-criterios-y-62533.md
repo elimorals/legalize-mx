@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-que-establece-los-organos-criterios-y-62533"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-18"
-last_updated: "2008-07-18"
+last_updated: "2008-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO QUE ESTABLECE LOS ÓRGANOS, CRITERIOS Y PROCEDIMIENTOS INSTITUCIONALES PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO ESTATAL ELECTORAL DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Oaxaca, el viernes 18 de julio de 2008.
 
@@ -405,19 +405,23 @@ El Instituto dará la información a que se encuentre obligado en los términos 
 
 Ningún órgano del Instituto tiene la obligación de crear o producir información que no se encuentre en su poder o no sea de su competencia.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 17.
 
-Las solicitudes de acceso se presentarán por escrito, ante la Unidad de Enlace y deberán contener:
+Cualquier persona, por sí o por medio de su representante, podrá presentar ante la Unidad de Enlace; solicitud de acceso a la información mediante escrito o en los formatos aprobados, ya sea vía electrónica o personalmente, la cual deberá contener:
 
-I. Nombre completo, domicilio para recibir notificaciones en la Ciudad de Oaxaca, teléfono, correo electrónico en caso de contar con él, así como copia de una identificación oficial con fotografía del solicitante; en caso de tener un representante legal, deberá exhibir el documento que lo acredite como tal y copia de la identificación oficial con fotografía de ambos;
+I. Nombre completo, domicilio, o medio para recibir notificaciones, correo electrónico en caso de contar con él;
 
-II. Precisión y claridad en los datos e información que se requieran, y
+II. Precisión y claridad en los datos e información que se requieran;
 
-Los elementos necesarios para identificar la información solicitada.
+III. Los elementos necesarios para identificar la información solicitada; y
 
-La solicitud deberá sellarse y foliarse en original y copia, debiendo entregar esta ultima al peticionario. La solicitud podrá formularse verbalmente por comparecencia cuando se requiera información para fines de orientación, mediante consulta directa. Si la solicitud no contiene todos los datos necesarios, la Unidad de Enlace deberá requerir al solicitante para que dentro de los diez días hábiles siguientes a que tenga lugar dicho requerimiento, indique otros datos o los corrija, interrumpiendo así el término de veinte días hábiles para su respuesta. Si el solicitante no proporciona los datos requeridos dentro del plazo concedido quedará sin efecto su solicitud, lo mismo sucederá, en caso de que el solicitante dentro del plazo de diez días hábiles siguientes a que sea notificado, no proporcione los elementos o materiales empleados, cuando la información se solicite en medios impresos o electrónicos. En caso de no señalar el solicitante, domicilio para recibir notificaciones en la Ciudad de Oaxaca, éstas últimas se le harán por estados del Instituto.
+IV. Opcionalmente, la modalidad en la que prefiere se otorgue el acceso a la información, la cual podrá ser verbalmente siempre y cuando sea para fines de orientación, mediante consulta directa, copias simples, certificadas, correo electrónico u otro tipo de medio.
 
-El solicitante deberá contar con el auxilio de la Unidad de Enlace, en caso de requerirlo, para la elaboración de las solicitudes.
+En caso de que el interesado sea persona moral, deberá comprobar su legal constitución y de quien formula la petición en su nombre, como su legítimo representante, para tal efecto, deberá exhibir el documento que lo acredite como tal y copia de la identificación oficial con fotografía de ambos.
+
+De la solicitud se acusará recibo al peticionario. Si la solicitud no contiene todos los datos necesarios, la Unidad de Enlace deberá requerir al solicitante para que dentro de los diez días hábiles siguientes a que tenga lugar dicho requerimiento, indique otros datos o los corrija, interrumpiendo así el plazo de quince días hábiles para su respuesta. Si el solicitante no proporciona los datos requeridos dentro del plazo concedido, quedará sin efecto su solicitud; lo mismo sucederá, en caso de que el solicitante dentro del plazo de diez días hábiles siguientes a que sea notificado, no proporcione los elementos o materiales empleados, cuando la información se solicite en medios impresos o electrónicos.
 
 ###### Artículo 18.
 
@@ -439,9 +443,11 @@ La información solicitada se entregará procurando optimizar los plazos previst
 
 La Unidad de Enlace será la encargada de turnar la solicitud al órgano del Instituto que cuente con la información requerida, para que ésta a su vez, previa verificación de su clasificación, responda si está disponible. Cuando la información sea solicitada en medios impresos o electrónicos, el solicitante proporcionará los elementos necesarios para su reproducción, en términos de lo establecido en el penúltimo párrafo del artículo 17 del presente Reglamento. En caso de que la información se encuentre disponible al público, la Unidad de Enlace deberá hacerle saber al solicitante por escrito, la fuente, el lugar y la forma, en que puede consultar, reproducir o adquirir dicha información.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 21.
 
-Cuando los Órganos del Instituto consideren que determinada información, documentos o archivos deben ser clasificados como reservados o confidenciales, o se trata de datos personales, y exista una solicitud sobre ellos, deberán remitir de inmediato la solicitud al Comité de Información, fundando y motivando las circunstancias por las cuales consideren que lo solicitado se halla dentro de los supuestos de clasificación, el cual en un plazo no mayor a veinte días hábiles deberá:
+Cuando los Órganos del Instituto consideren que determinada información, documentos o archivos deben ser clasificados como reservados o confidenciales, o se trata de datos personales, y exista una solicitud sobre ellos, deberán remitir de inmediato, la solicitud al Comité de Información, fundando y motivando las circunstancias por las cuales consideren que lo solicitado se halla dentro de los supuestos dé clasificación, el cual en un plazo no mayor a quince días hábiles deberá:
 
 I. Confirmar o modificar la propuesta de clasificación, negando su acceso al solicitante, o
 
@@ -611,6 +617,52 @@ El solicitante contará con una copia de su escrito señalado previamente en su 
 
 La sustanciación del recurso de Revisión estará a cargo del Instituto Estatal de Acceso a la Información Pública, conforme a lo establecido en el artículo 72, de la Ley.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+## TÍTULO SÉPTIMO
+
+De las obligaciones de los Partidos Políticos en materia de Transparencia y Acceso a la Información.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 31.
+
+Toda persona tiene derecho a acceder a la información de los Partidos Políticos de conformidad con las reglas previstas en el Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca y el presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 32.
+
+Las personas accederán a la información de los Partidos a través de la Unidad de Enlace del Instituto, mediante la presentación de solicitudes específicas
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 33.
+
+Recibida en la Unidad de Enlace del Instituto una solicitud de acceso a la información respecto de un Partido Político, y que dicha información no se encuentre dentro de la establecida en el artículo 47, del Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca, la Unidad de Enlace procederá a solicitar la información al Partido Político respectivo, dentro del plazo de dos días hábiles, contados a partir de la recepción de dicha solicitud.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 34.
+
+Después de haber recibido la solicitud a que se refiere el artículo anterior, el Partido Político deberá recabar y proporcionar la información solicitada, al Instituto, dentro del plazo de diez días hábiles, a fin de que la Unidad de Enlace de éste último, haga llegar la información solicitada al peticionario, procurando optimizar los plazos previstos por la Ley y el Reglamento, a través de los medios que los mismos señalan.
+
+Cuando la información solicitada se encuentre disponible en la página electrónica del Instituto, o en la del Partido de que se trate, el Partido Político lo informará a la Unidad de Enlace a fin de que ésta lo notifique al solicitante para que la obtenga en forma directa.
+
+Cuando el Partido Político considere que determinada información, documentos o archivos deben ser clasificados como reservados o confidenciales, o se trata de datos personales, y exista una solicitud sobre ellos, deberán hacerlo saber al Comité de Información del Instituto, fundando y motivando las circunstancias por las cuales consideren que lo solicitado se halla dentro de los supuestos de clasificación, para que el Comité de Información, actúe conforme a la Ley y el presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 35.
+
+Una vez recibida en el Instituto la información remitida por el Partido Político, deberá hacerla llegar al solicitante a través de la Unidad de Enlace, por la vía que él mismo haya señalado en su solicitud, dentro del plazo de dos días hábiles, contados a partir de haberse recibido la información.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 36.
+
+En caso de que la información solicitada a un Partido Político no fuera entregada en los tiempos establecidos en el artículo 34 del presente Reglamento, o se denegara proporcionarla, el solicitante podrá interponer el recurso de revisión a que se refieren los artículos 68 y 69 de la Ley, ante el Instituto Estatal de Acceso a la Información Pública, quien resolverá lo que estime procedente.
+
 ARTÍCULOS TRANSITORIOS:
 
 PRIMERO. El presente Reglamento entrará en vigor el veintitrés de julio de dos mil ocho, y sólo podrá ser modificarlo por el Consejo General del Instituto Estatal Electoral de Oaxaca.
@@ -634,3 +686,9 @@ LIC. JOSÉ LUIS ECHEVERRÍA MORALES.
 SECRETARIO
 
 LIC. FRANCISCO JAVIER OSORIO ROJAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE DICIEMBRE DE 2008.
+
+Único. Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
