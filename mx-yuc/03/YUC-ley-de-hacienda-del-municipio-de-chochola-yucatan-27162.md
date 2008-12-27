@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-chochola-yucatan-27162"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2002-12-31"
+last_updated: "2008-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE CHOCHOLA, YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 31 de diciembre de 2002.
 
@@ -683,7 +683,7 @@ a) Superficie Privativa M2 b) Valor Unitario c) Valor Comercial
 
 Las autoridades fiscales municipales estarán facultadas para practicar, ordenar o tomar en cuenta el avalúo del inmueble objeto de la operación referido a la fecha de adquisición y, cuando el valor del avalúo practicado, ordenado o tomado en cuenta excediera en más de un 10 por ciento, del valor mayor, el total de la diferencia se considerará como parte del precio pactado.
 
-Para los efectos del presente artículo el usufructo y la nuda propiedad tienen cada uno el valor equivalente al .5 del valor de la propiedad.
+Para los efectos del presente artículo el usufructo y la nuda propiedad tienen cada uno el valor equivalente al.5 del valor de la propiedad.
 
 En la elaboración de los avalúos referidos así como para determinar el costo de los mismos con cargo a los contribuyentes, las autoridades fiscales municipales observarán las disposiciones del Código Fiscal del Estado de Yucatán o, en su defecto, las disposiciones relativas del Código Fiscal de la Federación y su reglamento.
 
@@ -1213,11 +1213,39 @@ Fosa 17 Salarios Mínimos
 
 Osario 05 Salarios Mínimos
 
-### CAPITULO UNICO. DE LOS SUJETOS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO XI. DERECHOS POR SERVICIO DE ALUMBRADO PUBLICO
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 100 A.- Son sujetos del Derecho de Alumbrado Público los propietarios o poseedores de predios urbanos o rústicos ubicados en el Municipio.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 100 B.- Es objeto de este derecho la prestación del servicio de alumbrado público para los habitantes del Municipio. Se entiende por servicio de alumbrado público, el que el Municipio otorga a la comunidad, en calles, plazas, jardines y otros lugares de uso común.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 100 C.- La tarifa mensual correspondiente al derecho de alumbrado público, será la obtenida como resultado de dividir el costo anual global general actualizado erogado por el municipio en la prestación de este servicio, entre el número de usuarios registrados en la Comisión Federal de Electricidad y el número de predios rústicos o urbanos detectados que no están registrados en la Comisión Federal de Electricidad. El resultado será dividido entre 12. Y lo que de cómo resultado de esta operación se cobrará en cada recibo que la Comisión Federal de Electricidad expida, y su monto no podrá ser superior al 5% de las cantidades que deban pagar los contribuyentes en forma particular, por el consumo de energía eléctrica.
+
+Los propietarios o poseedores de predios rústicos o urbanos que no estén registrados en la Comisión Federal de Electricidad, pagarán la tarifa resultante mencionada en el párrafo anterior, mediante el recibo que para tal efecto expida la Tesorería Municipal. Se entiende para los efectos de esta Ley por "costo anual global general actualizado erogado", la suma que resulte del total de las erogaciones efectuadas, en el período comprendido del mes de noviembre del penúltimo ejercicio inmediato anterior hasta el mes de octubre del ejercicio inmediato anterior, por gasto directamente involucrado con la prestación de este servicio traídos a valor presente tras la aplicación de un factor de actualización que se obtendrá para cada ejercicio dividiendo el Índice Nacional de Precios al Consumidor del mes de Noviembre del ejercicio inmediato anterior entre el Índice Nacional de Precios al Consumidor correspondiente al mes de Octubre del penúltimo ejercicio inmediato anterior.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 100 D.- El derecho de alumbrado público se causará mensualmente. El pago se hará dentro de los primeros 15 días siguientes al mes en que se cause, dicho pago deberá realizarse en las oficinas de la Tesorería Municipal o en las instituciones autorizadas para tal efecto. El plazo de pago a que se refiere el presente artículo podrá ser diferente, incluso podrá ser bimestral, en el caso a que se refiere el artículo 100 C en su primer párrafo.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 100 E.- Para efectos del cobro de este derecho el Ayuntamiento podrá celebrar convenios con la compañía o empresa suministradora del servicio de energía eléctrica en el municipio. En estos casos, se deberá incluir el importe de este derecho en el documento que para tal efecto expida la compañía o la empresa, debiéndose pagar junto con el consumo de energía eléctrica, en el plazo y en las oficinas autorizadas por esta última.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 100 F.- Los ingresos que se perciban por el derecho a que se refiere la presente Sección se destinarán al pago, mantenimiento y mejoramiento del servicio de alumbrado público que proporcione al Ayuntamiento.
 
 ## TÍTULO QUINTO. DE LAS CONTRIBUCIONES DE MEJORAS
 
-### CAPITULO UNICO. DE LA CLASIFICACIÓN
+### CAPITULO UNICO. DE LOS SUJETOS
 
 ###### ARTÍCULO 101.
 
@@ -1329,7 +1357,7 @@ El Tesorero Municipal previa solicitud por escrito del interesado y una vez real
 
 ## TITULO SEXTO. DE LOS PRODUCTOS
 
-### CAPITULO I. DE LAS MULTAS ADMINISTRATIVAS
+### CAPITULO UNICO. DE LA CLASIFICACIÓN
 
 ###### ARTÍCULO 111.
 
@@ -1377,7 +1405,7 @@ Los recursos que se obtengan por rendimientos de inversiones financieras en inst
 
 ## TITULO SEPTIMO. APROVECHAMIENTOS
 
-### CAPITULO ÚNICO. PARTICIPACIONES FEDERALES Y APORTACIONES
+### CAPITULO I. DE LAS MULTAS ADMINISTRATIVAS
 
 ###### ARTÍCULO 118.
 
@@ -1395,9 +1423,7 @@ Los aprovechamientos que percibirá el Municipio por los daños que sufrieren la
 
 ## TITULO OCTAVO. PARTICIPACIONES Y APORTACIONES
 
-### CAPITULO ÚNICO
-
-DE LOS EMPRESTITOS, SUBSIDIOS Y LOS PROVENIENTES DEL ESTADO O LA FEDERACIÓN.
+### CAPITULO ÚNICO. PARTICIPACIONES FEDERALES Y APORTACIONES
 
 ###### ARTÍCULO 121.
 
@@ -1407,7 +1433,9 @@ La Hacienda Pública Municipal percibirá las participaciones estatales y federa
 
 ## TÍTULO NOVENO. INGRESOS EXTRAORDINARIOS
 
-### CAPITULO UNICO. ORDENAMIENTO APLICABLE
+### CAPITULO ÚNICO
+
+DE LOS EMPRESTITOS, SUBSIDIOS Y LOS PROVENIENTES DEL ESTADO O LA FEDERACIÓN.
 
 ###### ARTÍCULO 122.
 
@@ -1418,6 +1446,8 @@ El Municipio podrá percibir ingresos extraordinarios cuando así lo decrete de 
 ## TÍTULO DECIMO
 
 PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION,
+
+### CAPITULO UNICO. ORDENAMIENTO APLICABLE
 
 ###### ARTÍCULO 123.
 
@@ -1510,3 +1540,11 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 (RUBRICA)
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIERREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 27 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
