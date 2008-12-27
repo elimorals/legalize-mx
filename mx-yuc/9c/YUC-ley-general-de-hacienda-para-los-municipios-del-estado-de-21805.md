@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-para-los-municipios-del-estado-de-21805
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-12-30"
-last_updated: "2005-12-31"
+last_updated: "2008-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY GENERAL DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 30 de diciembre del 2000.
 
@@ -767,51 +767,43 @@ La cuota a pagar por los derechos a que se refiere este Capítulo, será determi
 
 ### CAPÍTULO XIII. DERECHOS POR SERVICIO DE ALUMBRADO PÚBLICO
 
-(REUBICADO [N. DE E. ANTES ARTICULO 105-A], D.O. 31 DE DICIEMBRE DE 2005)
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 111.
 
-El derecho por el alumbrado público se causará como compensación por el disfrute del citado servicio que se preste en los municipios del Estado.
+Son sujetos del Derecho por Servicio de Alumbrado Público los propietarios o poseedores de predios urbanos o rústicos ubicados en los municipios que se rigen por esta Ley.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 105-B], D.O. 31 DE DICIEMBRE DE 2005)
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 112.
 
-La cuota del derecho de alumbrado público será la establecida en las Leyes de Ingresos municipales respectivas, sobre los consumos de energía eléctrica en tarifa 1-A, 2, 3.
+Es objeto de este derecho la prestación del servicio de alumbrado público para los habitantes de los municipios. Se entiende por servicio de alumbrado público, el que los municipios otorgan a la comunidad, en calles, plazas, jardines y otros lugares de uso común.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 105-C], D.O. 31 DE DICIEMBRE DE 2005)
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 113.
 
-Son sujetos del pago de los derechos que se establecen los consumidores de energía eléctrica en tarifas 1-A, 2, 3 publicadas en el Diario Oficial de la Federación el 15 de noviembre de 1976 o en las que en su caso las sustituyan.
+La tarifa mensual correspondiente al derecho de alumbrado público, será la obtenida como resultado de dividir el costo anual global general actualizado erogado por los municipios en la prestación de este servicio, entre el número de usuarios registrados en la Comisión Federal de Electricidad y el número de predios rústicos o urbanos detectados que no están registrados en la Comisión Federal de Electricidad. El resultado será dividido entre 12. Y lo que de cómo resultado de esta operación se cobrará en cada recibo que la Comisión Federal de Electricidad expida, y su monto no podrá ser superior al 5% de las cantidades que deban pagar los contribuyentes en forma particular, por el consumo de energía eléctrica.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 105-D], D.O. 31 DE DICIEMBRE DE 2005)
+Los propietarios o poseedores de predios rústicos o urbanos que no estén registrados en la Comisión Federal de Electricidad, pagarán la tarifa resultante mencionada en el párrafo anterior, mediante el recibo que para tal efecto expidan las Tesorerías Municipales. Se entiende para los efectos de esta Ley por "costo anual global general actualizado erogado", la suma que resulte del total de las erogaciones efectuadas, en el período comprendido del mes de noviembre del penúltimo ejercicio inmediato anterior hasta el mes de octubre del ejercicio inmediato anterior, por gasto directamente involucrado con la prestación de este servicio traídos a valor presente tras la aplicación de un factor de actualización que se obtendrá para cada ejercicio dividiendo el Índice Nacional de Precios al Consumidor del mes de noviembre del ejercicio inmediato anterior entre el Índice Nacional de Precios al Consumidor correspondiente al mes de octubre del penúltimo ejercicio inmediato anterior.
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 114.
 
-El derecho por el servicio de alumbrado público será recaudado por conducto de la Comisión Federal de Electricidad, mediante la aplicación de la tasa relativa, calculándose el importe del derecho, el cual deberá hacerse constar en las facturaciones que formule a sus consumidores sujetos de este derecho, para los efectos del pago, de acuerdo con el convenio celebrado entre los Ayuntamientos del Estado y la Comisión Federal de Electricidad.
+El derecho de alumbrado público se causará mensualmente. El pago se hará dentro de los primeros 15 días siguientes al mes en que se cause, dicho pago deberá realizarse en las oficinas de las Tesorerías Municipales o en las instituciones autorizadas para tal efecto. El plazo de pago a que se refiere el presente artículo podrá ser diferente, incluso podrá ser bimestral, en el caso a que se refiere el artículo 113 en su primer párrafo.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 105-E], D.O. 31 DE DICIEMBRE DE 2005)
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 115.
 
-La Comisión Federal de Electricidad deberá aplicar el monto de los derechos que se recauden en la forma siguiente:
+Para efectos del cobro de este derecho los ayuntamientos podrán celebrar convenios con la compañía o empresa suministradora del servicio de energía eléctrica en los municipios. En estos casos, se deberá incluir el importe de este derecho en el documento que para tal efecto expida la compañía o la empresa, debiéndose pagar junto con el consumo de energía eléctrica, en el plazo y en las oficinas autorizadas por esta última.
 
-I.- Para cubrir en primer término, el importe de la energía eléctrica para el alumbrado público, que sea suministrada a cada municipio del Estado y sus comisarías.
-
-II.- los remanentes serán utilizados en la siguiente forma:
-
-a) Para cubrir el mantenimiento y reposición de lámparas de alumbrado público de los municipios y sus comisarías; tarea que quedará bajo la responsabilidad de la Comisión Federal de Electricidad.
-
-b) Para amortizar los adeudos anteriores que cada municipio y sus comisarías tengan por suministro de energía por el alumbrado público con la Comisión Federal de Electricidad.
-
-c) Para ampliar o mejorar, en su caso, las instalaciones del alumbrado público a solicitud de cada ayuntamiento.
-
-(REUBICADO [N. DE E. ANTES ARTICULO 105-F], D.O. 31 DE DICIEMBRE DE 2005)
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 116.
 
-La Comisión Federal de Electricidad deberá rendir a cada ayuntamiento los informes relativos a la recaudación del derecho referido y de su aplicación así como los demás que expresamente le solicite dicha autoridad con relación al particular.
+Los ingresos que se perciban por el derecho a que se refiere el presente Capítulo se destinarán al pago, mantenimiento y mejoramiento del servicio de alumbrado público que proporcione a los ayuntamientos.
 
 (REUBICADO [N. DE E. ANTES CAPITULO XIII, D.O. 31 DE DICIEMBRE DE 2005)
 
@@ -1326,3 +1318,9 @@ D.O. 31 DE DICIEMBRE DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 27 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
