@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-administracion-de-documentos-del-poder-ejecutivo-del-171
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-27"
-last_updated: "1999-10-27"
+last_updated: "2008-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "TAB"
 
 LEY DE ADMINISTRACION DE DOCUMENTOS DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARCHIVOS PUBLICOS DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 27 DE DICIEMBRE DE 2008., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el miércoles 27 de octubre de 1999.
 
@@ -387,3 +389,19 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. MARTHA GUADALUPE MARTÍNEZ CASTILLO,
 
 SECRETARÍA DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE DICIEMBRE DE 2008.
+
+Artículo Primero. La presente Ley entrará en vigor 45 días hábiles después de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se abrogan la Ley que crea el Sistema Estatal de Archivos de Tabasco, publicada en el Periódico Oficial del Estado el 19 de diciembre de 1987; la Ley de Administración de Documentos del Poder Ejecutivo del Estado de Tabasco, publicada en el suplemento B del Periódico Oficial del Estado 5962 de fecha 27 de octubre de 1999; y la Ley del Archivo del Poder Legislativo del Estado de Tabasco publicada en suplemento G del Periódico Oficial del Estado 6680 de fecha 13 de septiembre de 2006.
+
+Artículo Tercero. Los Poderes del Estado, los Ayuntamientos, los organismos dotados de autonomía y todo aquél organismo con facultades reglamentarias deberán expedir los reglamentos que regulen la estructura organizacional de los responsables de administrar, manejar, resguardar, conservar y coordinar sus archivos en un plazo de 120 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Cuarto. El Titular de Poder Ejecutivo del Estado deberá expedir el Reglamento de organización y funcionamiento del Sistema Estatal de Archivos en un plazo de 120 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Quinto. Los órganos colegiados integrantes del Sistema Estatal de Archivos deberán instalarse y celebrar su primera sesión, en un plazo de 90 días contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Sexto. Se derogan todas aquellas disposiciones que se opongan al contenido de la presente Ley.
