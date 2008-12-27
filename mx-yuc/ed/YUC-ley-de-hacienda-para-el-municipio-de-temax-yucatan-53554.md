@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-temax-yucatan-53554"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-28"
-last_updated: "2006-12-28"
+last_updated: "2008-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE TEMAX, YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 28 de diciembre de 2006.
 
@@ -1510,17 +1510,45 @@ Son sujetos del pago de estos derechos, las personas físicas o morales, propiet
 
 Por los servicios de agua potable que preste el Municipio, se pagaran bimestralmente las siguientes cuotas:
 
-I.- Por toma doméstica: $ 10.00
+I.- Por toma domestica: $ 10.00
 
 II.- Por toma comercial: $ 18.00
 
 III.- Por toma industrial: $ 30. 00
 
-### CAPÍTULO ÚNICO. De los Sujetos
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO XIII. Derechos por Servicio de Alumbrado Público
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+Artículo 132 A.- Son sujetos del Derecho de Alumbrado Público los propietarios o poseedores de predios urbanos o rústicos ubicados en el Municipio.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+Artículo 132 B.- Es objeto de este derecho la prestación del servicio de alumbrado público para los habitantes del Municipio. Se entiende por servicio de alumbrado público, el que el Municipio otorga a la comunidad, en calles, plazas, jardines y otros lugares de uso común.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+Artículo 132 C.- La tarifa mensual correspondiente al derecho de alumbrado público, será la obtenida como resultado de dividir el costo anual global general actualizado erogado por el municipio en la prestación de este servicio, entre el número de usuarios registrados en la Comisión Federal de Electricidad y el número de predios rústicos o urbanos detectados que no están registrados en la Comisión Federal de Electricidad. El resultado será dividido entre 12. Y lo que de cómo resultado de esta operación se cobrará en cada recibo que la Comisión Federal de Electricidad expida, y su monto no podrá ser superior al 5% de las cantidades que deban pagar los contribuyentes en forma particular, por el consumo de energía eléctrica.
+
+Los propietarios o poseedores de predios rústicos o urbanos que no estén registrados en la Comisión Federal de Electricidad, pagarán la tarifa resultante mencionada en el párrafo anterior, mediante el recibo que para tal efecto expida la Tesorería Municipal. Se entiende para los efectos de esta Ley por "costo anual global general actualizado erogado", la suma que resulte del total de las erogaciones efectuadas, en el período comprendido del mes de noviembre del penúltimo ejercicio inmediato anterior hasta el mes de octubre del ejercicio inmediato anterior, por gasto directamente involucrado con la prestación de este servicio traídos a valor presente tras la aplicación de un factor de actualización que se obtendrá para cada ejercicio dividiendo el Índice Nacional de Precios al Consumidor del mes de Noviembre del ejercicio inmediato anterior entre el Índice Nacional de Precios al Consumidor correspondiente al mes de Octubre del penúltimo ejercicio inmediato anterior.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+Artículo 132 D.- El derecho de alumbrado público se causará mensualmente. El pago se hará dentro de los primeros 15 días siguientes al mes en que se cause, dicho pago deberá realizarse en las oficinas de la Tesorería Municipal o en las instituciones autorizadas para tal efecto. El plazo de pago a que se refiere el presente artículo podrá ser diferente, incluso podrá ser bimestral, en el caso a que se refiere el artículo 132 C en su primer párrafo.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+Artículo 132 E.- Para efectos del cobro de este derecho el Ayuntamiento podrá celebrar convenios con la compañía o empresa suministradora del servicio de energía eléctrica en el municipio. En estos casos, se deberá incluir el importe de este derecho en el documento que para tal efecto expida la compañía o la empresa, debiéndose pagar junto con el consumo de energía eléctrica, en el plazo y en las oficinas autorizadas por esta última.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+Artículo 132 F.- Los ingresos que se perciban por el derecho a que se refiere la presente Sección se destinarán al pago, mantenimiento y mejoramiento del servicio de alumbrado público que proporcione al Ayuntamiento.
 
 ## TÍTULO QUINTO. DE LAS CONTRIBUCIONES DE MEJORAS
 
-### CAPÍTULO I. De la Clasificación
+### CAPÍTULO ÚNICO. De los Sujetos
 
 ###### Artículo 133.
 
@@ -1630,7 +1658,7 @@ El Tesorero Municipal previa solicitud por escrito del interesado y una vez real
 
 ## TÍTULO SEXTO. DE LOS PRODUCTOS
 
-### CAPÍTULO II. Productos Derivados de Bienes Muebles
+### CAPÍTULO I. De la Clasificación
 
 ###### Artículo 146.
 
@@ -1702,7 +1730,7 @@ Los recursos que se obtengan por rendimiento de inversiones financieras en Insti
 
 Los productos que percibirá el Municipio por los daños que sufrieren las vías públicas o los bienes de su propiedad, serán cuantificados de acuerdo al peritaje que se elabore al efecto, sobre los daños sufridos. El perito será designado por la autoridad fiscal municipal.
 
-### CAPÍTULO I. De las Multas Administrativas
+### CAPÍTULO II. Productos Derivados de Bienes Muebles
 
 ###### Artículo 160.
 
@@ -1732,7 +1760,7 @@ También obtendrá productos el municipio por el arrendamiento de sus bienes mue
 
 ## TÍTULO SÉPTIMO. APROVECHAMIENTOS
 
-### CAPÍTULO I. Generalidades
+### CAPÍTULO I. De las Multas Administrativas
 
 ###### Artículo 165.
 
@@ -1742,7 +1770,7 @@ De conformidad con lo establecido en la Ley de Coordinación Fiscal y en los con
 
 Las multas impuestas por el Ayuntamiento por infracciones a los reglamentos administrativos, tendrán el carácter de aprovechamientos y se turnarán a la Tesorería Municipal para su cobro. Cuando estas multas no fueren cubiertas dentro del plazo señalado, serán cobradas mediante el procedimiento administrativo de ejecución.
 
-### CAPÍTULO II. Infracciones y Sanciones De los Responsables
+### CAPÍTULO I. Generalidades
 
 ## TÍTULO OCTAVO. PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN, ORDENAMIENTO APLICABLE
 
@@ -1805,6 +1833,8 @@ Para el caso de que los ingresos por gastos de ejecución, fueren generados en e
 .45 Empleados del Departamento de Ejecución.
 
 ## TÍTULO NOVENO. INFRACCIONES Y MULTAS
+
+### CAPÍTULO II. Infracciones y Sanciones De los Responsables
 
 ###### Artículo 171.
 
@@ -1883,3 +1913,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 (RÚBRICA)
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 27 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
