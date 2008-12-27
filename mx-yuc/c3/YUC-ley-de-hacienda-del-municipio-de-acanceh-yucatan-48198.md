@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-acanceh-yucatan-48198"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2007-12-22"
+last_updated: "2008-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE ACANCEH, YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el 3 de enero de 2006.
 
@@ -1409,7 +1409,7 @@ XII.- Por el derecho de inspección para el otorgamiento exclusivamente de la co
 
 XIII.- Certificado de cooperación Cuatro Salarios Mínimos Vigente
 
-> <small>(REFORMADA,D.O. 22 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 XIV.- Licencia de uso del suelo Cuatro Salarios Mínimos Vigente
 
@@ -1915,11 +1915,39 @@ Por el permiso de construcción de cripta o bóveda para constructores de cripta
 
 El Municipio podrá percibir aprovechamientos derivados de otros conceptos no previstos en los capítulos anteriores, cuyo rendimiento, ya sea en efectivo o en especie, deberá ser ingresado al erario municipal, expidiendo de inmediato el recibo oficial respectivo.
 
-### Capítulo Único. De los Sujetos
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+### Capítulo XIII. Derechos por Servicio de Alumbrado Público
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+Artículo 116 A.- Son sujetos del Derecho de Alumbrado Público los propietarios o poseedores de predios urbanos o rústicos ubicados en el Municipio.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+Artículo 116 B.- Es objeto de este derecho la prestación del servicio de alumbrado público para los habitantes del Municipio. Se entiende por servicio de alumbrado público, el que el Municipio otorga a la comunidad, en calles, plazas, jardines y otros lugares de uso común.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+Artículo 116 C.- La tarifa mensual correspondiente al derecho de alumbrado público, será la obtenida como resultado de dividir el costo anual global general actualizado erogado por el municipio en la prestación de este servicio, entre el número de usuarios registrados en la Comisión Federal de Electricidad y el número de predios rústicos o urbanos detectados que no están registrados en la Comisión Federal de Electricidad. El resultado será dividido entre 12. Y lo que de cómo resultado de esta operación se cobrará en cada recibo que la Comisión Federal de Electricidad expida, y su monto no podrá ser superior al 5% de las cantidades que deban pagar los contribuyentes en forma particular, por el consumo de energía eléctrica.
+
+Los propietarios o poseedores de predios rústicos o urbanos que no estén registrados en la Comisión Federal de Electricidad, pagarán la tarifa resultante mencionada en el párrafo anterior, mediante el recibo que para tal efecto expida la Tesorería Municipal. Se entiende para los efectos de esta Ley por "costo anual global general actualizado erogado", la suma que resulte del total de las erogaciones efectuadas, en el período comprendido del mes de noviembre del penúltimo ejercicio inmediato anterior hasta el mes de octubre del ejercicio inmediato anterior, por gasto directamente involucrado con la prestación de este servicio traídos a valor presente tras la aplicación de un factor de actualización que se obtendrá para cada ejercicio dividiendo el Índice Nacional de Precios al Consumidor del mes de Noviembre del ejercicio inmediato anterior entre el Índice Nacional de Precios al Consumidor correspondiente al mes de Octubre del penúltimo ejercicio inmediato anterior.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+Artículo 116 D.- El derecho de alumbrado público se causará mensualmente. El pago se hará dentro de los primeros 15 días siguientes al mes en que se cause, dicho pago deberá realizarse en las oficinas de la Tesorería Municipal o en las instituciones autorizadas para tal efecto. El plazo de pago a que se refiere el presente artículo podrá ser diferente, incluso podrá ser bimestral, en el caso a que se refiere el artículo 116 C en su primer párrafo.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+Artículo 116 E.- Para efectos del cobro de este derecho el Ayuntamiento podrá celebrar convenios con la compañía o empresa suministradora del servicio de energía eléctrica en el municipio. En estos casos, se deberá incluir el importe de este derecho en el documento que para tal efecto expida la compañía o la empresa, debiéndose pagar junto con el consumo de energía eléctrica, en el plazo y en las oficinas autorizadas por esta última.
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
+Artículo 116 F.- Los ingresos que se perciban por el derecho a que se refiere la presente Sección se destinarán al pago, mantenimiento y mejoramiento del servicio de alumbrado público que proporcione al Ayuntamiento.
 
 ## TÍTULO CUARTO. DE LAS CONTRIBUCIONES DE MEJORAS
 
-### Capítulo Único. De la Clasificación
+### Capítulo Único. De los Sujetos
 
 ###### Artículo 117.
 
@@ -2025,7 +2053,7 @@ El Tesorero Municipal previa solicitud por escrito del interesado y una vez real
 
 ## TÍTULO QUINTO. DE LOS PRODUCTOS
 
-### Capítulo I. De las Multas Administrativas
+### Capítulo Único. De la Clasificación
 
 ###### Artículo 125.
 
@@ -2089,7 +2117,7 @@ Los productos que percibirá el Municipio por los daños que sufrieren las vías
 
 ## TÍTULO SEXTO. APROVECHAMIENTOS
 
-### Capítulo II. Aprovechamientos Derivados de Recursos Transferidos al Municipio
+### Capítulo I. De las Multas Administrativas
 
 ###### Artículo 133.
 
@@ -2099,7 +2127,7 @@ De conformidad con lo establecido en la Ley de Coordinación Fiscal y en los con
 
 Las multas impuestas por el Ayuntamiento por infracciones a los reglamentos administrativos, tendrán el carácter de aprovechamientos y se turnarán a la Tesorería Municipal para su cobro. Cuando éstas multas no fueren cubiertas dentro del plazo señalado serán cobradas mediante el procedimiento administrativo de ejecución.
 
-### Capítulo I. Generalidades
+### Capítulo II. Aprovechamientos Derivados de Recursos Transferidos al Municipio
 
 ###### Artículo 135.
 
@@ -2191,13 +2219,13 @@ Para el caso de que los ingresos por gastos de ejecución, fueren generados en e
 
 ## TÍTULO OCTAVO. INFRACCIONES Y MULTAS
 
-### Capítulo II. Infracciones y Sanciones De los Responsables
+### Capítulo I. Generalidades
 
 ###### Artículo 140.
 
 La aplicación de las multas por infracciones a las disposiciones municipales y a la presente ley se efectuará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
 
-### Capítulo Único
+### Capítulo II. Infracciones y Sanciones De los Responsables
 
 ###### Artículo 141.
 
@@ -2247,7 +2275,7 @@ b) Tratándose de infracciones que impliquen la falta de cumplimiento de obligac
 
 ## TÍTULO NOVENO. PARTICIPACIONES Y APORTACIONES
 
-### Capítulo Único. De los Empréstitos, Subsidios y los Provenientes del Estado o la Federación
+### Capítulo Único
 
 ###### Artículo 145.
 
@@ -2257,9 +2285,7 @@ La Hacienda Pública Municipal percibirá las Participaciones Estatales y Federa
 
 ## TÍTULO DÉCIMO. INGRESOS EXTRAORDINARIOS
 
-### Capítulo I. De los Recursos Administrativos
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
+### Capítulo Único. De los Empréstitos, Subsidios y los Provenientes del Estado o la Federación
 
 ###### Artículo 146.
 
@@ -2269,7 +2295,7 @@ El Municipio podrá percibir ingresos extraordinarios cuando así lo decrete de 
 
 ## TÍTULO DÉCIMO PRIMERO
 
-### Capítulo II. De las Garantías Fiscales
+### Capítulo I. De los Recursos Administrativos
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
@@ -2281,7 +2307,9 @@ Cuando se trate de multas federales no fiscales, las resoluciones que dicten las
 
 En este caso, los recursos que se promueven se tramitarán y resolverán en la forma prevista en dicho Código.
 
-### Capítulo Único
+### Capítulo II. De las Garantías Fiscales
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 148.
 
@@ -2304,6 +2332,8 @@ Respecto de la garantía prendaria, solamente será aceptada por la autoridad co
 En el procedimiento de constitución de estas garantías se observarán en cuanto fueren aplicables las reglas que fijen en el Código Fiscal de la Federación y el reglamento de dicho Código.
 
 ## TÍTULO DÉCIMO SEGUNDO. FINANCIAMIENTOS
+
+### Capítulo Único
 
 ###### Artículo 149.
 
@@ -2359,11 +2389,11 @@ D.O. 22 DE DICIEMBRE DE 2007.
 
 Este Decreto entrará en vigor el día primero de enero del año 2008, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-###### ARTICULO UNICO.
+D.O. 27 DE DICIEMBRE DE 2008.
 
-Este Decreto entrará en vigor, a los quince días de su publicación en el Periódico Oficial del Estado.
+###### ARTÍCULO ÚNICO.
 
-P.O. 27 DE DICIEMBRE DE 1965.
+Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 ###### ARTICULO UNICO.
 
