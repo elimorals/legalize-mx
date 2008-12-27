@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-la-proteccion-y-desarrollo-de-las-personas-con-11464"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-18"
-last_updated: "2003-05-03"
+last_updated: "2008-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11464&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # LEY PARA LA PROTECCION Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TABASCO -ANTES LEY PARA LA PROTECCION Y DESARROLLO DE LOS DISCAPACITADOS DEL ESTADO DE TABASCO-
 
-LEY PARA LA PROTECCION Y DESARROLLO DE LOS DISCAPACITADOS DEL ESTADO DE TABASCO
+LEY PARA LA PROTECCION Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 18 de enero de 1997.
 
@@ -41,15 +41,19 @@ DECRETO No. 177
 
 Se aprueba LA LEY PARA LA PROTECCIÓN Y DESARROLLO DE LOS DISCAPACITADOS DEL ESTADO DE TABASCO, para quedar como sigue:
 
-LEY PARA LA PROTECCIÓN Y DESARROLLO DE LOS DISCAPACITADOS DEL ESTADO DE TABASCO
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+LEY PARA LA PROTECCIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TABASCO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés social, sus disposiciones son de observancia general en todo el Estado de Tabasco, y tienen por objeto establecer las normas y acciones que contribuyan a lograr la equiparación de oportunidades para promover el desarrollo e integración de los discapacitados a la vida social y productiva del Estado.
+La presente Ley es de orden público e interés social, sus disposiciones son de observancia general en todo el Estado de Tabasco, y tienen por objeto establecer las normas y acciones que contribuyan a lograr la equiparación de oportunidades para promover el desarrollo e integración de las personas con discapacidad a la vida social y productiva del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2003)</small>
 
@@ -63,13 +67,17 @@ I.- Barreras arquitectónicas: Aquellos elementos de construcción que dificulte
 
 II.- Discapacidad: Cualquier disminución física o intelectual que impida el desempeño de una actividad, producida por circunstancias de variada naturaleza, como son alteraciones hereditarias, congénitas y perinatales, infecciones, traumatismos, enfermedades degenerativas que por su duración y secuelas pueden producir deficiencias en el lenguaje, el movimiento, la audición, la vista, la conducta y la capacidad intelectual;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- Discapacitado: Toda persona con capacidad disminuida o limitada para realizar por sí misma, las actividades necesarias para su normal desempeño físico, mental, social, ocupacional y económico, como consecuencia de una insuficiencia somática, psicológica o social;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+III.- Persona con Discapacidad: Toda persona con capacidad disminuida o limitada para realizar por sí misma, las actividades necesarias para su normal desempeño físico, mental o sensorial, que puede ser agravada por el entorno económico y social;
 
-IV.- Educación Especial: Actividad orientada intencionalmente para promover el desenvolvimiento, tratamiento y formación de las personas desfavorecidas física o psíquicamente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+IV.- Educación Especial: Conjunto de servicios, programas, orientación y recursos educativos especializados, puestos a disposición de las personas que padecen algún tipo de discapacidad, que favorezcan su desarrollo integral, y faciliten la adquisición de habilidades y destrezas que les capaciten para lograr los fines de la educación;
 
 > <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
 
@@ -79,13 +87,17 @@ V.- Legislación Asistencial: Ley del Sistema Estatal de Asistencia Social;
 
 VI.- Legislación Sanitaria: Ley de Salud del Estado de Tabasco;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII.- Legislación sobre Desarrollo Urbano: Ley de Desarrollo Urbano y Ordenamiento Territorial del Estado de Tabasco, su Reglamento, los Reglamentos de Construcciones y demás disposiciones análogas locales;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+VII.- Legislación sobre Desarrollo Urbano: Ley de Ordenamiento Sustentable del Territorio de Tabasco, su Reglamento, los Reglamentos de Construcciones y demás disposiciones análogas locales;
 
-VIII.- Legislación Vial: Ley de Vías de Comunicación y Transporte del Estado y sus Reglamentos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+VIII.- Legislación Vial: Ley de Transportes del Estado y su Reglamento; Ley General de Tránsito y Vialidad del Estado de Tabasco y su Reglamento;
 
 > <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
 
@@ -105,11 +117,29 @@ XII.- Rehabilitación: El conjunto de programas, acciones médicas, psicológica
 
 > <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
 
-XIII.- DIF: Sistema Estatal para el Desarrollo Integral de la Familia; y
+XIII.- DIF: Sistema Estatal para el Desarrollo Integral de la Familia; y (sic)
 
 > <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
 
-XIV.- Vía Pública: Los espacios terrestres de uso común, destinados al tránsito de peatones y vehículos de fuerza motriz, propulsión humana o tracción animal.
+XIV.- Vía Pública: Los espacios terrestres de uso común, destinados al tránsito de peatones y vehículos de fuerza motriz, propulsión humana o tracción animal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+XV.- Equiparación de Oportunidades: Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación en igualdad de oportunidades y posibilidades con el resto de la población;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+XVI.- Sistema de Escritura Braille: Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil, por los ciegos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+XVII. Lengua de Señas: Lengua de una comunidad de sordos, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral.
 
 ###### ARTÍCULO 3.
 
@@ -131,17 +161,23 @@ El tránsito en las vías públicas y lugares con acceso al público de las pers
 
 a).- La organización, operación, supervisión y evaluación de las acciones urbanísticas que en materia social se lleven a cabo para modificar y mejorar las circunstancias que impidan al discapacitado su desarrollo integral.
 
-b).- La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de los discapacitados.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+b).- La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de las personas con discapacidad.
 
 c).- El establecimiento de las normas técnicas correspondientes; y
 
 d).- Las campañas de difusión y medidas en materia de educación vial y cortesía urbana.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 5.
 
-Corresponde al Ejecutivo del Estado, y a los Ayuntamientos, en el ámbito de su competencia, establecer las normas técnicas en materia de prevención y rehabilitación de las personas con discapacidad y la coordinación, supervisión y evaluación del cumplimiento de las mismas de parte de las instituciones públicas, sociales y privadas que persigan estos fines. Para ello, se elaborará un Programa de Prevención de Discapacidades y Orientación a Discapacitados que tenderá a la orientación, planeación familiar, consejo genético, atención prenatal, perinatal, detección y diagnóstico precoz, asistencia pediátrica en etapa de lactante, preescolar y escolar; asimismo en la higiene y la seguridad en el trabajo, el tráfico vial, así como acciones para evitar barreras arquitectónicas y todo aquello que en su momento se considere necesario para realizar esta labor.
+Corresponde al Ejecutivo del Estado, y a los ayuntamientos, en el ámbito de su competencia, establecer las normas técnicas en materia de prevención y rehabilitación de las personas con discapacidad y la coordinación, supervisión y evaluación del cumplimiento de las mismas de parte de las instituciones públicas, sociales y privadas que persigan estos fines. Para ello, se elaborará un programa de Prevención de Discapacidades y Orientación a Personas con Discapacidad que tenderá a la orientación, planeación familiar, consejo genético, atención prenatal, perinatal, detección y diagnóstico precoz, asistencia pediátrica en etapa de lactante, preescolar y escolar; asimismo en la higiene y la seguridad en el trabajo, el tráfico vial, así como acciones para evitar barreras arquitectónicas y todo aquello que en su momento se considere necesario para realizar esta labor.
 
 ###### ARTÍCULO 6.
 
@@ -155,21 +191,45 @@ El Gobernador del Estado, podrá convenir con los Presidentes Municipales o Prim
 
 Son atribuciones del DIF:
 
-I.- Difundir los programas que contribuyan al desarrollo integral de los discapacitados en el Estado de Tabasco;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+I.- Difundir los programas que contribuyan al desarrollo integral de las personas con discapacidad en el Estado de Tabasco;
 
 II.- Promover la difusión y defensa de los derechos de las personas con discapacidad, así como las disposiciones legales que los contemplan, a fin de garantizar su aplicación;
 
-III.- Establecer políticas e impulsar las acciones necesarias para dar cumplimiento en el Estado de Tabasco, a los programas nacionales, regionales y locales, cuyo objetivo sea el desarrollo integral de los discapacitados;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+III.- Establecer políticas e impulsar las acciones necesarias para dar cumplimiento en el Estado de Tabasco, a los programas nacionales, regionales y locales, cuyo objetivo sea el desarrollo integral de las personas con discapacidad;
 
 IV.- Definir las políticas que garanticen la igualdad de derechos de las personas con discapacidad;
 
-V.- Propiciar la orientación y asistencia jurídica en los juicios de interdicción y otras acciones legales para los discapacitados, especialmente a las personas con discapacidad mental;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI.- Planear, elaborar y operar programas en materia de prevención, rehabilitación, equiparación de oportunidades y orientación para los discapacitados, así como proponer a las instituciones encargadas de su aplicación, normas técnicas para la prestación de los servicios;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
-VII.- Promover la captación de recursos que sean destinados al desarrollo de actividades y programas de ayuda a los discapacitados;
+V.- Brindar orientación y asistencia jurídica a las personas con discapacidad, en los juicios de interdicción y procedimientos legales de los que forme parte;
 
-VIII.- Recibir y canalizar a las instancias competentes, quejas y sugerencias sobre la atención de las autoridades a los discapacitados;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+VI.- Planear, elaborar y operar programasen materia de prevención, rehabilitación, equiparación de oportunidades y orientación para las personas con discapacidad, así como proponer a las instituciones encargadas de su aplicación, normas técnicas para la prestación de los servicios;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+VII.- Promover la captación de recursos que sean destinados al desarrollo de actividades y programas de ayuda a las personas con discapacidad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+VIII.- Recibir y canalizar a las instancias competentes, quejas y sugerencias sobre la atención de las autoridades a las personas con discapacidad;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MAYO DE 2003)</small>
 
@@ -177,23 +237,101 @@ IX.- Vigilar y supervisar el estricto cumplimiento de las disposiciones de esta 
 
 > <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
 
-X.- Vigilar que las medidas que se adopten en acatamiento de las disposiciones de esta Ley sean uniformes en todo el territorio de la entidad y armonicen con las disposiciones emanadas, principalmente, de las legislaciones vial, sanitaria y asistencial vigentes en el Estado, así como de otros ordenamientos legales y reglamentarios que incidan en la materia; y
+X.- Vigilar que las medidas que se adopten en acatamiento de las disposiciones de esta Ley sean uniformes en todo el territorio de la entidad y armonicen con las disposiciones emanadas, principalmente, de las legislaciones vial, sanitaria y asistencial vigentes en el Estado, así como de otros ordenamientos legales y reglamentarios que incidan en la materia; y (sic)
 
-XI.- Las demás que le señale el Ejecutivo del Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+XI.- Validar los certificados de discapacidad expedidos por otras instituciones del sector salud;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+XII.- Establecer un Sistema de Registro de las personas con discapacidad, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+XIII.- Las demás que le señale el Ejecutivo del Estado.
 
 ###### ARTÍCULO 8.
 
 Corresponde a la Secretaría de Educación las siguientes acciones:
 
-I.- Promover y conducir los programas de educación para los discapacitados;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Ejercer la supervisión y vigilancia que proceda en los planteles en que se imparta educación a los discapacitados;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
-III.- Implementar espacios adecuados para los discapacitados en los planteles educativos públicos;
+I. Promover y conducir los programas de educación para las personas con discapacidad;
 
-IV.- Coordinar, concertar, supervisar y evaluar el cumplimiento de los programas y normas técnicas con la participación de las instituciones públicas, privadas y sociales relacionadas con la educación de los discapacitados;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V.- Las demás que le señale el Titular del Ejecutivo en el Estado.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+II. Ejercer la supervisión y vigilancia que proceda en los planteles en que se imparta educación a las personas con discapacidad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+III. Garantizar la incorporación y oportuna canalización de las personas con discapacidad en todos los niveles del Sistema Educativo Estatal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+IV. Coordinar, concertar, supervisar y evaluar el cumplimiento de los programas y normas técnicas con la participación de las instituciones públicas, privadas y sociales relacionadas con la educación de las personas con discapacidad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+V. Formar, actualizar, capacitar y profesionalizar a los docentes y personal asignado que intervengan directamente en la incorporación educativa de personas con discapacidad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+VI. Proporcionar a los estudiantes con discapacidad materiales que apoyen su rendimiento académico, además de facilitar su préstamo domiciliario;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+VII. Establecer un programa estatal de becas educativas para personas con discapacidad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+VIII. Diseñar e implementar programas de formación y certificación de intérpretes, estenógrafos del español y demás personal especializado en la difusión y uso conjunto del español y la Lengua de Señas Mexicana;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+IX. Garantizar el acceso de la población sorda a la educación pública obligatoria y bilingüe, que comprenda la enseñanza del idioma español y la Lengua de Señas Mexicana;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+X. Elaborar programas para las personas ciegas y débiles visuales, que garanticen su integración al Sistema Educativo Estatal, público o privado, creando de manera progresiva condiciones físicas y acceso a los avances científicos y tecnológicos, así como materiales y libros actualizados a las publicaciones regulares necesarios para su aprendizaje;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+XI. Promover que las bibliotecas y salas de lectura cuenten con equipos de cómputo con tecnología adaptada, escritura e impresión en el Sistema de Escritura Braille, ampliadores y lectores de texto, espacios adecuados y demás innovaciones tecnológicas que permita su uso a las personas con discapacidad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+XII. Las demás que le señale el Titular del Ejecutivo en el Estado.
 
 ###### ARTÍCULO 9.
 
@@ -207,17 +345,35 @@ III.- El desarrollo de programas para la prevención, detección temprana, atenc
 
 IV.- El establecimiento de centros de orientación, diagnóstico y atención temprana a las personas con algún riesgo de discapacidad;
 
-V.- Los programas especializados de capacitación, orientación y rehabilitación sexual para las personas con discapacidad; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI.- Las demás que le encomiende el Titular del Ejecutivo en el Estado.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
+V.- Los programas especializados de capacitación, orientación y rehabilitación sexual para las personas con discapacidad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+VI.- Promover el uso de la Lengua de Señas Mexicana y el Sistema de Escritura Braile en los programas de educación para la salud; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+VII.- Las demás que le encomiende el Titular del Ejecutivo en el Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 10.
 
-Corresponde al Ejecutivo del Estado a través del Sistema DIF, la creación de un Consejo Estatal Promotor para el Desarrollo de las Personas con Discapacidad que deberá estar integrado por: Un Presidente que será en todo caso, el Titular del Poder Ejecutivo del Estado o el servidor público que éste designe, un Secretario y Vocales que incluya a profesionales de la Medicina, Educación, Psicología, Trabajo Social, así como a representantes de organizaciones de personas con discapacidad. También podrá invitarse a formar parte de este Consejo a los Ayuntamientos de la entidad, quienes serán representados por el Presidente Municipal o por el servidor público que al efecto designe.
+El Consejo Estatal Promotor para el Desarrollo de las Personas con Discapacidad es el instrumento permanente de coordinación intersecretarial e interinstitucional que tiene por objeto contribuir al establecimiento de una política de Estado en la materia, así como promover, apoyar, fomentar, vigilar y evaluar las acciones, estrategias y programas derivados de esta Ley.
 
-Los municipios del Estado que cuenten con capacidad de recursos humanos, materiales y financieros y que así lo requieran, podrán crear su propio Consejo Municipal Promotor para el Desarrollo de las Personas con Discapacidad; mismo que estará integrado por el Presidente Municipal o Primer Concejal o la persona que éstos designen, quien los presidirá, un Secretario y Vocales que incluya a profesionales de la Medicina, Educación, Psicología, Trabajo Social, así como a representantes de organizaciones de personas con discapacidad, ubicadas en el municipio de que se trate.
+Corresponde al Ejecutivo del Estado a través del Sistema DIF, la creación de del (sic) Consejo que deberá estar integrado por: Un Presidente que será en todo caso, el Titular del Poder Ejecutivo del Estado o el servidor público que éste designe, un Secretario que será el titular del Sistema Estatal para el Desarrollo Integral de la Familia y Vocales que incluya a las instancias de gobierno estatal y federal, responsables de acciones que beneficien a las personas con discapacidad, así como a representantes de organizaciones de personas con discapacidad. También podrá invitarse a formar parte de este Consejo a los Ayuntamientos de la entidad, quienes serán representados por el Presidente Municipal o por el servidor público que al efecto designe.
+
+Los municipios de Estado que cuenten con capacidad de recursos humanos, materiales y financieros y que así lo requieran, podrán crear su propio Consejo Municipal Promotor para el Desarrollo de las Personas con Discapacidad; mismo que estará integrado por: un presidente que será el Presidente Municipal o Primer Concejal o la persona que éste designe, un Secretario: que será el Director del DIF-Municipal y Vocales que incluyan a profesionales de la Medicina, Educación, Psicología, Trabajo Social, así como a representantes de organizaciones de personas con discapacidad, ubicadas en el municipio de que se trate.
 
 > <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
 
@@ -225,15 +381,35 @@ ARTÍCULO 10 BIS.- Son facultades del Consejo Estatal Promotor para el Desarroll
 
 I.- La orientación terapéutica, tratamiento necesario de acuerdo a las posibilidades de recuperación, así como el seguimiento y revisión de la misma;
 
-II.- Valorar las posibilidades de integración de menores con discapacidad a la educación básica regular o en su caso, a la educación especial;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- Difundir la cultura de la integración y respeto hacia los discapacitados, así como facilitar su acceso a los medios de comunicación y apoyos a través de todos los sectores institucionales;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
-IV.- Ejercer la supervisión y vigilancia que proceda en los planteles en que se imparta educación a los discapacitados;
+II.- Elaborar y coordinar, el Programa Estatal para el Desarrollo de las Personas con Discapacidad, promoviendo, convocando y concertando acuerdos o convenios con las dependencias del sector público, los municipios, los sectores social o privado, y las organizaciones, además de realizar evaluaciones periódicas que garanticen la ejecución del mismo;
 
-V.- Implementar espacios adecuados en los planteles educativos públicos, para los discapacitados;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI.- Coordinar, concertar, supervisar y evaluar el cumplimiento de los programas y normas técnicas con la participación de las instituciones públicas, privadas y sociales relacionadas con la educación de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+III.- Impulsar el ejercicio pleno de los derechos de las personas con discapacidad y hacer de su conocimiento los canales institucionales para hacerlos exigibles ante la autoridad competente;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+IV.- Establecer la política general de desarrollo integral de las personas con discapacidad, mediante la coordinación de los programas interinstitucionales;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+V.- Promover y fomentar la cultura de la dignidad y respeto de las personas con discapacidad, a través de programas y campañas de sensibilización y concientización;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+VI.- Ser el organismo de consulta y asesoría obligatoria para las dependencias y entidades de la Administración Pública Estatal, y en su caso, voluntaria para las instituciones de los sectores social y privado, que realicen acciones o programas relacionados con las personas con discapacidad;
 
 VII.- Coordinar con el sector salud la implementación de los programas de salud aplicados a personas con discapacidad; y
 
@@ -243,11 +419,13 @@ VIII.- Las demás que se acuerden en el seno del mismo y le señale el titular d
 
 ### CAPÍTULO I. DE LOS PROCESOS DE REHABILITACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 11.
 
-Los procesos de rehabilitación de los discapacitados podrán comprender:
+Los procesos de rehabilitación para las personas con discapacidad podrán comprender:
 
 I.- Rehabilitación médico-funcional;
 
@@ -287,29 +465,43 @@ IX.- Otros bienes y servicios análogos, de conformidad con la legislación apli
 
 ### CAPÍTULO II. REHABILITACIÓN MEDICO-FUNCIONAL
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 14.
 
-La rehabilitación médico-funcional está dirigida a dotar de las condiciones precisas para su recuperación a aquellas personas que presenten una disminución de su capacidad física, psicológica o de relación social en los términos de esta Ley: deberá comenzar con la detección y diagnóstico de cualquier anomalía o deficiencia, debiendo continuarse hasta conseguir el máximo de funcionalidad posible del discapacitado.
+La rehabilitación médico-funcional está dirigida a dotar de las condiciones precisas para su recuperación a aquellas personas que presenten una disminución de su capacidad física, psicológica o de relación social en los términos de esta Ley: deberá comenzar con la detección y diagnóstico de cualquier anomalía o deficiencia, debiendo continuarse hasta conseguir el máximo de funcionalidad posible de la persona con discapacidad.
 
 ###### ARTÍCULO 15.
 
 Para los efectos de lo previsto en el artículo anterior toda persona con discapacidad, de conformidad con esta Ley, podrá beneficiarse con la rehabilitación médica necesaria para corregir o mejorar su estado físico, sensorial, psicomotriz, intelectual o cerebral, cuando éste constituya un obstáculo para su integración educativa, laboral o social.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 16.
 
-Los procesos de rehabilitación se complementarán con la prescripción y la adaptación de prótesis, órtesis y otros elementos auxiliares para los discapacitados cuya condición lo amerite.
+Los procesos de rehabilitación se complementarán con la prescripción y la adaptación de prótesis, órtesis y otros elementos auxiliares para las personas con discapacidad cuya condición lo amerite.
 
 ### CAPÍTULO III. ORIENTACIÓN Y TRATAMIENTO PSICOLÓGICO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 17.
 
-La orientación y tratamiento psicológico se emplearán durante las distintas fases del proceso rehabilitador del discapacitado, se procurará su inicio en el seno familiar e irán encaminadas a lograr la superación de su situación y el desarrollo de su personalidad e integración social.
+La orientación y tratamiento psicológico se emplearán durante las distintas fases del proceso rehabilitador de la persona con discapacidad, se procurará su inicio en el seno familiar e irán encaminadas a lograr la superación de su situación y el desarrollo de su personalidad e integración social.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 18.
 
-El apoyo y orientación psicológicos considerará las características personales del discapacitado, sus motivaciones e intereses, así como los factores familiares y sociales que puedan condicionarle y estarán dirigidos a optimizar al máximo el uso de sus potencialidades.
+El apoyo y orientación psicológicos considerará las características personales de la persona con discapacidad, sus motivaciones e intereses, así como los factores familiares y sociales que puedan condicionarle y estarán dirigidos a optimizar al máximo el uso de sus potencialidades.
 
 ### CAPÍTULO IV. REHABILITACIÓN SOCIOECONÓMICA Y LABORAL
 
@@ -323,7 +515,11 @@ II.- La orientación ocupacional y vocacional;
 
 III.- La formación, readaptación y reeducación ocupacional, y
 
-IV.- Evaluación y seguimiento del proceso de rehabilitación desde el punto de vista físico, psicológico y laboral para ubicar al discapacitado de acuerdo con su aptitud y actitud ante el trabajo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+IV.- Evaluación y seguimiento del proceso de rehabilitación desde el punto de vista físico, psicológico y laboral para ubicar a la persona con discapacidad de acuerdo con su aptitud y actitud ante el trabajo.
 
 ###### ARTÍCULO 20.
 
@@ -343,23 +539,35 @@ Las dependencias estatales y municipales que desarrollen programas o acciones qu
 
 ### CAPÍTULO V. EQUIPOS MULTIPROFESIONALES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 23.
 
-Corresponde al Gobierno del Estado a través del DIF, impulsar y promover entre las instituciones públicas y privadas así como entre la propia comunidad la creación de Unidades de Rehabilitación con Equipo Interdisciplinario, que actuando en un ámbito sectorial del Estado presten la atención a cada persona que lo requiera para garantizar la integración del discapacitado a su entorno social. El personal que integre los equipos deberá contar con la formación profesional y la capacidad necesaria para cumplir con la función encomendada.
+Corresponde al Gobierno del Estado a través del DIF, impulsar y promover entre las instituciones públicas y privadas así como entre la propia comunidad la creación de Unidades de Rehabilitación con Equipo Interdisciplinario, que actuando en un ámbito sectorial del Estado presten la atención a cada persona que lo requiera para garantizar la integración de la persona con discapacidad a su entorno social. El personal que integre los equipos deberá contar con la formación profesional y la capacidad necesaria para cumplir con la función encomendada.
 
 ###### ARTÍCULO 24.
 
 Son funciones de los equipos interdisciplinarios:
 
-I.- Emitir un informe diagnóstico sobre los diversos aspectos de las limitaciones del discapacitado, su personalidad y su entorno familiar;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+I.- Emitir el certificado único de discapacidad;
 
 II.- La orientación terapéutica, tratamiento necesario de acuerdo a las posibilidades de recuperación así como seguimiento y revisión del mismo;
 
 III.- La canalización hacia organismos especializados, en los casos específicos que por circunstancias concretas no pueden ser tratados por estos equipos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 25.
 
-Para cumplir con sus objetivos los equipos interdisciplinarios implementarán un sistema de prestación de servicios para los discapacitados, basado en la valoración y calificación que de su discapacidad se haga, estos servicios se otorgarán a quienes carezcan de medios para recibirlos de otras instituciones.
+Para cumplir con sus objetivos los equipos Interdisciplinarios implementarán un sistema de prestación de servicios para las personas con discapacidad, basado en la valoración y calificación que de su discapacidad se haga, estos servicios se otorgarán a quienes carezcan de medios para recibirlos de otras instituciones.
 
 > <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
 
@@ -391,23 +599,35 @@ La educación especial tenderá a la consecución de los siguientes objetivos:
 
 I.- La superación de las deficiencias y de las consecuencias y secuelas derivadas de aquéllas;
 
-II.- El desarrollo de habilidades y aptitudes y la adquisición de conocimientos que le permitan al discapacitado la mayor autonomía posible;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- El fomento y la promoción de todas las potencialidades del discapacitado para el desarrollo armónico de su personalidad;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+II.- El desarrollo de habilidades y aptitudes y la adquisición de conocimientos que le permitan a la persona con discapacidad la mayor autonomía posible;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+III.- El fomento y la promoción de todas las potencialidades de la persona con discapacidad para el desarrollo armónico de su personalidad;
 
 IV.- Desarrollar al máximo su capacidad de aprendizaje;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V.- La incorporación a la vida social y un sistema de trabajo que permita al discapacitado servirse a sí mismo, a la sociedad y autorrealizarse;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+V.- La incorporación a la vida social y un sistema de trabajo que permita a la persona con discapacidad servirse a sí mismo, a la sociedad y autorrealizarse;
 
 > <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
 
 VI.- La admisión y atención de menores con discapacidad en los centros de desarrollo infantil;
 
-> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII.- Establecimiento de programas de conocimiento, asesoría y orientación dirigidos a propiciar la comprensión y respeto de los discapacitados en todos los niveles educativos;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+VII.- Establecimiento de programas de conocimiento, asesoría y orientación dirigidos a propiciar la comprensión y respeto de las personas con discapacidad en todos los niveles educativos;
 
 > <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
 
@@ -421,17 +641,23 @@ IX.- Capacitar a padres o tutores, así como también a los maestros y personal 
 
 X.- Los maestros de educación básica regular deberán de crear y promover las condiciones interpersonales, metodológicas y pedagógicas para la atención y aceptación de menores con discapacidad dentro del aula regular.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 30.
 
-El DIF, promoverá la creación de un Centro de Apoyo a la Educación y Rehabilitación de Discapacitados; que tendrá como objeto la enseñanza del manejo de sillas de ruedas, conducir un vehículo adaptado, uso del bastón blanco, el ábaco, lectoescritura en sistema braille y en general todos los recursos que la tecnología moderna proporcione.
+El DIF, promoverá la creación de un Centro de Apoyo a la Educación y Rehabilitación de las personas con discapaciad; que tendrá como objeto la enseñanza del manejo de sillas de ruedas, conducir un vehículo adaptado, uso del bastón blanco, el ábaco, lectoescritura en sistema braille y en general todos los recursos que la tecnología moderna proporcione.
 
 > <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
 
 ARTÍCULO 30 BIS.- Cuando la severidad de la discapacidad lo haga imprescindible, la educación se llevará a cabo en centros especiales, que funcionarán en coordinación con los centros ordinarios.
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-ARTÍCULO 30 BIS 1.- La educación especial deberá contar con el personal interdisciplinario, técnicamente capacitado, que en actuación multiprofesional, provea las diversas atenciones que cada discapacitado requiera.
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 30 BIS 1.- La educación especial deberá contar con el personal interdisciplinario, técnicamente capacitado, que en actuación multiprofesional, provea las diversas atenciones que cada persona con discapacidad requiera.
 
 > <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
 
@@ -441,9 +667,13 @@ ARTÍCULO 30 BIS 2.- Todo personal que intervenga en la educación especial debe
 
 Todos los hospitales, guarderías y lugares similares que funcionen con cargo a recursos públicos, deberán contar con una sección pedagógica para prevenir la marginación del proceso educativo de los alumnos en edad escolar internados en éstos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 32.
 
-Dentro de la educación especial se considerará la formación profesional del discapacitado de acuerdo con lo establecido en los diferentes niveles de enseñanza general.
+Dentro de la educación especial se considerará la formación profesional de la persona con discapacidad de acuerdo con lo establecido en los diferentes niveles de enseñanza general.
 
 ## TÍTULO CUARTO
 
@@ -465,29 +695,51 @@ El Estado a través del DIF establecerá programas de promoción del trabajo de 
 
 De igual manera, el Servicio Estatal de Empleo, en el ámbito de su competencia procurará incluir dentro de sus programas de colocación y capacitación a personas con discapacidad, que puedan desarrollar alguna actividad laboral.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 36.
 
-Se crearán Centros Especiales de Empleo, cuyo objetivo principal será asegurar un empleo remunerado; realizando un trabajo productivo, el personal discapacitado, cuya promoción y apoyo técnico depende del Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Tabasco (DIF).
+Se promoverá la creación de Centros de Desarrollo Laboral, cuyo objetivo principal será facilitar el acceso a un empleo remunerado mediante el desempeño de una actividad productiva a las personas con discapacidad, cuya promoción y apoyo técnico estará a cargo de la Secretaria de Gobierno, en coordinación con el Servicio Estatal de Empleo y la Secretaria de Desarrollo Económico.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 37.
 
-La totalidad de la plantilla de los Centros Especiales de Empleo estará constituida por trabajadores discapacitados, a excepción de las plazas del personal no discapacitado imprescindible para el desarrollo de su actividad.
+La plantilla de los Centros de Desarrollo Laboral estará constituida por trabajadores con discapacidad, a excepción de las plazas que deban ser asignadas para el personal de apoyo imprescindible para el desarrollo de cada uno de los Centros.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 38.
 
-Sin perjuicio de la función social que los centros especiales de empleo han de cumplir, su estructura y organización se ajustarán a las de las empresas ordinarias.
+Los Centros de Desarrollo Laboral deben de cumplir para su conformación, estructura y organización con la normatividad vigente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 39.
 
-Los Centros Especiales de Empleo podrán ser creados por la Autoridad Pública, bien directamente o en colaboración con otros organismos o personas físicas, o por particulares interesados en respaldar estos programas.
+Los Centros de Desarrollo Laboral podrán ser creados por la autoridad pública bien directamente o en colaboración con otros organismos o personas físicas o por particulares interesados en respaldar estos programas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 40.
 
-Los discapacitados que deseen ingresar a un Centro Especial de Empleo, deberán inscribirse en la oficina correspondiente, la que clasificará a los demandantes de empleo en razón del tipo y grado de dificultad.
+Las personas con discapacidad que deseen ingresar a un Centro de Desarrollo Laboral, deberán inscribirse en la oficina correspondiente, la que clasificará a los demandantes de empleo en razón del tipo y grado de dificultad.
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-ARTÍCULO 40 BIS.- El trabajo que realice el discapacitado en los Centros Especiales de Empleo, deberá ser productivo y remunerado, adecuado a las características individuales del trabajador, en orden a favorecer su adaptación personal y social y facilitar en su caso, su posterior integración laboral en el mercado ordinario de trabajo.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 40 BIS.- El trabajo que realice la persona con discapacidad en los Centros de Desarrollo Laboral deberá ser productivo y remunerado, adecuado a las características individuales del trabajador en orden a favorecer su adaptación personal y social y facilitar en su caso, su posterior integración laboral en el mercado ordinario de trabajo.
 
 ###### ARTÍCULO 41.
 
@@ -525,11 +777,13 @@ IV.- Acceso; y
 
 V.- Equipo.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 43.
 
-El Estado y los municipios, en el ámbito de sus competencias, promoverán que a las personas con discapacidad se les brinden facilidades de acceso a museos, teatros, cines, bibliotecas, instalaciones deportivas y de recreación.
+El Estado y los municipios, en el ámbito de sus competencias, promoverán que a las personas con discapacidad se les otorgue descuento en eventos culturales, recreativos y deportivos organizados por instituciones públicas. En el caso de instituciones privadas gestionaran convenios para la aplicación de descuentos a personas con discapacidad.
 
 > <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
 
@@ -545,23 +799,41 @@ El Estado y los municipios, a través de las Instituciones correspondientes fome
 
 ### CAPÍTULO II. OTROS ASPECTOS DE LA ATENCIÓN A DISCAPACITADOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 46.
 
-Los servicios sociales para las personas con discapacidad o senescentes tienen como objetivo garantizar el logro de adecuados niveles de desarrollo personal y de su integración a la comunidad.
+Los servicios sociales para las personas con discapacidad tienen como objetivo garantizar el logro de adecuados niveles de desarrollo personal y de su integración a la comunidad.
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-ARTÍCULO 46 BIS.- La prestación de servicios a los discapacitados, se atenderá en razón a un estudio socioeconómico que estará indistintamente a cargo del DIF Estatal o DIF Municipal, y comprenderá:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 46 BIS.- La prestación de servicios a las personas con discapacidad, se atenderá en razón a un estudio socioeconómico que estará indistintamente a cargo del DIF Estatal o DIF Municipal, y comprenderá:
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
 
 I.- Asistencia médica y rehabilitatoria;
 
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
+
 II.- Orientación y capacitación ocupacional;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
 
 III.- Orientación y capacitación a la familia o a tercera persona en su atención;
 
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
+
 IV.- Prescripción y adaptación de prótesis, órtesis y equipos indispensables en su rehabilitación e integración;
 
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
+
 V.- Educación; y
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
 
 VI.- Recuperación laboral.
 
@@ -569,23 +841,41 @@ VI.- Recuperación laboral.
 
 La actuación en materia de servicios sociales para personas con discapacidad se regirá por los criterios siguientes:
 
-I.- Todas las personas con discapacidad o senescentes tienen derecho a las prestaciones sociales establecidas en la presente ley;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Los servicios podrán ser prestados tanto por las administraciones públicas como por instituciones o personas privadas, sin ánimo de lucro;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
-III.- La prestación de los servicios sociales respetará al máximo la permanencia de las personas con discapacidad o senescentes en su medio familiar y en su entorno geográfico, mediante la adecuada localización de los mismos;
+I. Todas las personas con discapacidad tienen derecho a las prestaciones sociales establecidas en la presente ley;
 
-IV.- Se procurará, hasta el límite que impongan los distintos tipos de discapacidad o senescentes, la participación de los interesados, especialmente en el caso de adultos, en las actividades comunes de convivencia, de dirección y control de los servicios sociales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+II. Las prestaciones sociales podrán ser otorgadas tanto por las administraciones públicas como por instituciones o personas privadas, sin ánimo de lucro;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+III. Los servicios sociales que presten el estado y los municipios, respetarán al máximo la permanencia de las personas con discapacidad en su medio familiar y en su entorno geográfico, mediante la adecuada localización de los mismos; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+IV. Se procurará, hasta el límite que impongan los distintos tipos de discapacidad, la participación de los interesados, especialmente en el caso de adultos, en las actividades comunes de convivencia, de dirección y control de los servicios prestados.
 
 ###### ARTÍCULO 48.
 
 Sin perjuicio de lo dispuesto en otros artículos de esta ley, las personas con discapacidad tendrán acceso a los servicios sociales de orientación familiar, de información, albergues comunitarios, de actividades culturales, recreativas, deportivas y ocupación del tiempo libre.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 49.
 
-La orientación familiar tendrá como objetivo la información y adiestramiento para atender a las personas con discapacidad y a la adecuación del entorno familiar, para satisfacer las necesidades rehabilitatorias a su dignificación.
+La orientación familiar tendrá como objetivo la información y adiestramiento para atender a las personas con discapacidad y a sus familias para favorecer la adecuación del entorno familiar, facilitando sus necesidades rehabilitatorias.
 
 > <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
 
@@ -615,7 +905,11 @@ Las actividades deportivas, culturales, recreativas y de uso del tiempo libre de
 
 Sin perjuicio de lo dispuesto en otros ordenamientos legales, las personas con discapacidad tienen derecho a contar con preferencias que les permitan su transporte y libre desplazamiento. Para el ejercicio de este derecho:
 
-I.- El sistema de transporte deberá cumplir con las especificaciones técnicas y especiales que permitan el acceso y uso de los discapacitados en los términos de la legislación aplicable;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+I.- El sistema de transporte deberá cumplir con las especificaciones técnicas y especiales que permitan el acceso y uso de las personas con discapacidad en los términos de la legislación aplicable;
 
 II.- Los discapacitados podrán hacer uso del servicio, los asientos y espacios preferenciales que para tal efecto sean destinados en las unidades del transporte público;
 
@@ -625,15 +919,27 @@ III.- La legislación vial estatal, establecerá las normas para el uso adecuado
 
 A efecto de facilitar el estacionamiento de vehículos de los cuales tengan que descender o ascender personas con discapacidad, la autoridad correspondiente dispondrá las medidas necesarias que inclusive podrán aplicarse en zonas de estacionamiento restringido, siempre y cuando no se afecte gravemente el libre tránsito de vehículos y peatones;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- Previa solicitud y autorización de la autoridad competente, los discapacitados podrán incorporarse a las excepciones contempladas en los programas de restricción a la circulación vehicular; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+IV.- Previa solicitud y autorización de la autoridad competente, las personas con discapacidad podrán incorporarse a las excepciones contempladas en los programas de restricción a la circulación vehicular; y
 
 > <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
 
 V.- Las personas con discapacidad visual acompañadas de perros, serán considerados como una unidad y tendrán acceso al transporte público, a los lugares públicos y a los servicios públicos y a aquéllos que los particulares proporcionen. Dicho acceso en ningún caso implicará autorización para efectuar actos de comercio o cualquier otro que implique infracción a normas o reglamentos municipales o internos del área de que se trate.
 
-### CAPÍTULO II. DE LOS PROGRAMAS DE EDUCACIÓN VIAL, CORTESÍA URBANA Y RESPETO A LOS DISCAPACITADOS
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+Las autoridades estatales y municipales celebraran convenios con aerolíneas y empresas de transporte terrestre y marítimo, local, nacional e internacional para que otorguen tarifas preferenciales o descuentos a personas con discapacidad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+### CAPÍTULO II. DE LOS PROGRAMAS DE EDUCACIÓN VIAL, CORTESÍA URBANA Y RESPETO (SIC) LAS PERSONAS CON DISCAPACIDAD
 
 ###### ARTÍCULO 55.
 
@@ -661,9 +967,13 @@ El Estado, a través de las dependencias y entidades correspondientes, diseñar�
 
 ### CAPÍTULO III. DE LAS BARRERAS ARQUITECTÓNICAS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 58.
 
-Las autoridades competentes, en todos los planos y proyectos arquitectónicos de edificios públicos y privados con acceso al público, que se sometan a su aprobación, deberán observar que en ellos se establezca la infraestructura que permita el libre desplazamiento de los discapacitados y senescentes en interiores y exteriores.
+Las autoridades competentes, en todos los planos y proyectos arquitectónicos de edificios públicos y privados con acceso al público, que se sometan a su aprobación, deberán observar que en ellos se establezca la infraestructura que permita el libre desplazamiento de las personas con discapacidad en interiores y exteriores.
 
 ###### ARTÍCULO 59.
 
@@ -675,13 +985,21 @@ b).- Ampliaciones, reparaciones y modificaciones de edificios existentes.
 
 ### CAPÍTULO IV. OBSTÁCULOS VIALES EN GENERAL
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 60.
 
-Las autoridades competentes se abstendrán de autorizar la construcción de todas aquellas barreras arquitectónicas que arriesguen o pongan en peligro la integridad física de las personas con discapacidad y senescentes que dificulten, entorpezcan o impidan su libre desplazamiento en lugares públicos, interiores o exteriores o el uso de las instalaciones y servicios comunitarios.
+Las autoridades competentes se abstendrán de autorizar la construcción de todas aquellas barreras arquitectónicas que arriesguen o pongan en peligro la integridad física de las personas con discapacidad que dificulten, entorpezcan o impidan su libre desplazamiento en lugares públicos, interiores o exteriores o el uso de las instalaciones y servicios comunitarios.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 61.
 
-Los elementos viales que deberán ser adecuados en la vía pública con facilidades para el uso y desplazamiento de los discapacitados y que constituyan obstáculos son:
+Los elementos viales que deberán ser adecuados en la vía pública con facilidades para el uso y desplazamiento de las personas con discapacidad y que constituyan obstáculos son:
 
 a).- Las aceras, banquetas o escarpas;
 
@@ -709,9 +1027,13 @@ l).- El uso de banquetas y postes como estacionamientos de bicicletas, motocicle
 
 m).- Cualesquiera otros objetos que dificulten, entorpezcan o impidan el libre tránsito.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 62.
 
-Los lugares con acceso al público que deberán ser adecuados, con facilidades para el desplazamiento de discapacitados son los siguientes:
+Los lugares con acceso al público que deberán ser adecuados, con facilidades para el desplazamiento de las personas con discapacidad son los siguientes:
 
 a).- Clínicas, sanatorios y hospitales;
 
@@ -747,9 +1069,13 @@ En las intersecciones o cruces de aceras o de calles que se encuentren construid
 
 En las aceras e intersecciones en que se construyan rampas para sillas de ruedas, el pavimento, además de antiderrapante, deberá ser rugoso y éstas contener una línea guía, de tal manera que permita servir de señalamiento para la circulación de invidentes o débiles visuales. Asimismo, las propiedades particulares que tengan en la banqueta pendientes para el acceso de vehículos, deberá disminuirse el borde o guarnición hacia el interior de la edificación para no impedir la libre circulación de personas que se transporten en sillas de ruedas o accesorios de apoyo para la locomoción.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 67.
 
-En las zonas comerciales, los estacionamientos de vehículos deberán contar, por lo menos, con dos espacios por manzana para el ascenso y descenso de las personas discapacitadas; estos espacios estarán diseñados de acuerdo a los requerimientos específicos y señalados con el logotipo correspondiente.
+En las zonas comerciales, los estacionamientos de vehículos deberán contar, por lo menos, con dos espacios por manzana para el ascenso y descenso de las personas con discapacidad; estos espacios estarán diseñados de acuerdo a los requerimientos específicos y señalados con el logotipo correspondiente.
 
 ###### ARTÍCULO 68.
 
@@ -801,9 +1127,13 @@ En todo caso las escaleras tendrán pasamanos en ambos lados, con secciones no m
 
 Los pasamanos de las escaleras deberán contar con una prolongación razonable más allá del primero y del último escalón, para brindar a las personas con discapacidad una mayor seguridad al circular. Asimismo deberán contar en ambos extremos, con una protuberancia que sirva como indicador, a los invidentes y débiles, de lugar de inicio y fin de la escalera.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 80.
 
-Con el objeto de prevenir accidentes a los discapacitados se evitarán, en lo posible las puertas de doble abatimiento. En caso de que resulte imposible dar cumplimiento a esta disposición, los interiores de los edificios deberán contar, en ambos lados de las puertas, con ventanas de vidrio inastillable que permitan la vista al exterior y al interior del inmueble.
+Con el objeto de prevenir accidentes a las personas con discapacidad, se evitarán, en lo posible las puertas de doble abatimiento. En caso de que resulte imposible dar cumplimiento a esta disposición, los interiores de los edificios deberán contar, en ambos lados de las puertas, con ventanas de vidrio inastillable que permitan la vista al exterior y al interior del inmueble.
 
 ###### ARTÍCULO 81.
 
@@ -861,61 +1191,89 @@ ARTÍCULO 90 BIS.- El Ejecutivo del Estado y los Municipios, en los términos de
 
 ### CAPÍTULO I. DE LOS DEBERES Y FACULTADES DEL GOBIERNO DEL ESTADO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 91.
 
-Conforme a la presente Ley, son deberes y facultades del Gobierno del Estado, en materia de protección a los discapacitados y senescentes:
+Conforme a la presente Ley, son deberes y facultades del Gobierno del Estado, en materia de protección a las personas con discapacidad:
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- Contratar por lo menos el dos por ciento de discapacitados del total de los trabajadores al servicio de los Poderes del Estado que realicen la misma labor profesional, técnica o manual que cualquier otro, aún cuando para ello se auxilie de aparatos ortopédicos;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+I.- Contratar por lo menos el dos por ciento de personas con discapacidad del total de los trabajadores al servicio de los Poderes del Estado que realicen la misma labor profesional, técnica o manual que cualquier otro, aún cuando para ello se auxilie de aparatos ortopédicos;
 
 II.- (DEROGADA, P.O. 3 DE MAYO DE 2003)
 
 III.- A través del órgano que corresponda deberá prever presupuestalmente las plazas necesarias para cumplir con la disposición que antecede;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- Procurar el fomento de diversas actividades que permitan un desarrollo integral del discapacitado ante la familia, escuela, trabajo, así como en la recreación;
+> <small>(REFORMADA, 27 DE DICIEMBRE DE 2008)</small>
+
+IV.- Procurar el fomento de diversas actividades que permitan un desarrollo integral de la persona con discapacidad ante la familia, escuela, trabajo, así como en la recreación;
 
 V.- Impedir que en las zonas urbanas de nueva creación se construyan aceras, intersecciones, estacionamientos, escaleras, coladeras y rampas que no cumplan con lo especificado en el presente ordenamiento;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI.- Instrumentar las normas para que las nuevas construcciones que se realicen tanto por parte del sector público, como de los sectores privado y social, con fines de uso comunitario ya sea de servicios administrativos, recreativos o de cualquiera otra naturaleza, cuenten con facilidades viales en los términos a que se contrae la presente Ley, observando las especificaciones que en la misma se contienen a efecto de beneficiar a discapacitados;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+VI.- Instrumentar las normas para que las nuevas construcciones que se realicen tanto por parte del sector público, como de los sectores privado y social, con fines de uso comunitario ya sea de servicios administrativos, recreativos o de cualquiera otra naturaleza, cuenten con facilidades viales en los términos a que se contrae la presente Ley, observando las especificaciones que en la misma se contienen a efecto de beneficiar a las personad (sic) con discapacidad;
 
 VII.- Apoyar a las autoridades federales, estatales y municipales, que así lo soliciten, en las acciones que emprendan tendientes a la eliminación de obstáculos viales en los diversos espacios urbanos en la Entidad;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VIII.- Dar las facilidades necesarias a las asociaciones civiles cuya finalidad ulterior resulte una mayor integración, en todos los ámbitos, de personas discapacitadas;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+VIII.- Dar las facilidades necesarias a las asociaciones civiles cuya finalidad ulterior resulte una mayor integración, en todos los ámbitos, de personas con discapacidad;
 
-IX.- Auxiliar a los organismos de las diferentes esferas de gobierno que trabajen para la integración social y económica y la rehabilitación física de personas discapacitadas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+IX.- Auxiliar a los organismos de las diferentes esferas de gobierno que trabajen para la integración social y económica y la rehabilitación física de personas con discapacidad;
 
 X.- Proponer programas educacionales y de cortesía en las Entidades de los sectores público, social y privado;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XI.- Otorgar preseas, becas y estímulos en numerario y en especie, a personas discapacitadas que hayan destacado en forma sobresaliente en las áreas laboral, científica, técnica, escolar, deportiva o de cualquiera otra índole, en beneficio y como ejemplo a la sociedad;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+XI. Otorgar preseas, becas y estímulos en numerario y en especie, a personas con discapacidad que hayan destacado en forma sobresaliente en las áreas laboral, científica, técnica, escolar, deportiva o de cualquiera otra índole, en beneficio y como ejemplo a la sociedad;
 
-XII.- Mantener en buen estado los señalamientos y mobiliario urbano propios para discapacitados;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
-XIII.- Promover la modificación, derogación o abrogación de los ordenamientos estatales vigentes, para la supresión de obstáculos viales en apoyo solidario a discapacitados;
+XII. Mantener en buen estado los señalamientos y mobiliario urbano propios para personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIV.- La observancia y cumplimiento amplio de las disposiciones contenidas en el presente ordenamiento legal en beneficio de discapacitados;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
-XV.- Promover que el sector salud establezca módulos de atención integral para discapacitados;
+XIII. Promover la modificación, derogación o abrogación de los ordenamientos estatales vigentes, para la supresión de obstáculos viales en apoyo solidario a personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XVI.- Promover se destinen áreas específicas y adecuadas a las necesidades de los discapacitados;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+XIV. La observancia y cumplimiento amplio de las disposiciones contenidas en el presente ordenamiento legal en beneficio (sic) las personas con discapacidad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+XV. Promover que el sector salud establezca módulos de atención integral para personas con discapacidad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+XVI. Promover se destinen áreas específicas y adecuadas a las necesidades de las personas con discapacidad;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MAYO DE 2003)</small>
 
@@ -929,17 +1287,21 @@ El Estado, en el ámbito de su competencia, de acuerdo a sus posibilidades y de 
 
 ### CAPÍTULO II. DE LOS DEBERES Y FACULTADES DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 93.
 
-Son deberes y facultades de los Ayuntamientos en materia de protección a discapacitados:
+Son deberes y facultades de los Ayuntamientos en materia de protección a personas con discapacidad:
 
 I.- Asumir en términos de este ordenamiento y convenios que suscriban con el Ejecutivo del Estado, un programa de supresión de obstáculos viales, en los términos de esta Ley;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Formular y desarrollar programas municipales de atención a discapacitados en el marco de los Sistemas Nacional y Estatal de Salud, así como conforme a los principios y objetivos de los Planes Nacional, Estatal y Municipal de Desarrollo;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+II.- Formular y desarrollar programas municipales de atención a personas con discapacidad en el marco de los Sistemas Nacional y Estatal de Salud, así como conforme a los principios y objetivos de los Planes Nacional, Estatal y Municipal de Desarrollo;
 
 III.- Celebrar convenios de colaboración en la materia con los gobiernos Federal, Estatal y de otros Municipios de la Entidad, así como con Entidades de los sectores públicos, social y privado y con particulares;
 
@@ -947,19 +1309,25 @@ IV.- Vigilar el cumplimiento, en la esfera de su competencia en la presente ley,
 
 V.- Conservar en buen estado, libres de tierra, piedras, arena y de cualquier otro material, las rampas construidas en aceras, intersecciones o escaleras de la vía pública;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI.- Destinar, de los establecimientos públicos, los espacios necesarios para el ascenso y descenso de discapacitados;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+VI.- Destinar, de los establecimientos públicos, los espacios necesarios para el ascenso y descenso de las personas con discapacidad;
 
 VII.- Gestionar y vigilar el cumplimiento, ante las autoridades y empresas respectivas, de la colocación de teléfonos públicos, de protectores para tensores de postes y de cubiertas para coladeras, con sus respectivos señalamientos;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VIII.- Expedir, modificar y reformar los ordenamientos municipales conducentes a fin de lograr la supresión de los obstáculos viales a que se refiere esta Ley, con la finalidad de beneficiar a discapacitados;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MAYO DE 2003)</small>
+VIII.- Expedir, modificar y reformar los ordenamientos municipales conducentes a fin de lograr la supresión de los obstáculos viales a que se refiere esta Ley, con la finalidad de beneficiar a las personas con discapacidad;
 
-IX.- Contratar por lo menos el dos por ciento de discapacitados del total de los trabajadores al servicio del Gobierno Municipal que realice la misma labor profesional, técnica o manual que cualquier otro, aún cuando para ello se auxilie de aparatos ortopédicos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+IX.- Contratar por lo menos el dos por ciento de personas con discapacidad del total de los trabajadores al servicio del Gobierno Municipal que realice la misma labor profesional, técnica o manual que cualquier otro, aún cuando para ello se auxilie de aparatos ortopédicos;
 
 > <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
 
@@ -979,19 +1347,31 @@ ARTÍCULO 93 BIS 1.- Las empresas, industrias, comercios y establecimientos en g
 
 Las bases y modalidades del ejercicio coordinado, de las atribuciones de los Gobiernos Estatal y Municipales, se establecerán en los convenios correspondientes que al efecto se celebren, en los términos de la Constitución Política del Estado, de la presente Ley, de la Ley Orgánica de los Municipios del Estado, de las invocadas Legislaciones vial, sanitaria y asistencial, y demás ordenamientos legales aplicables a la materia.
 
-### CAPÍTULO III. DE LOS PADRES Y TUTORES DE LOS DISCAPACITADOS
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
+### CAPÍTULO III. DE LOS PADRES Y TUTORES DE LAS PERSONAS CON DISCAPACIDAD
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 95.
 
-Los padres que ejerzan la patria potestad o los tutores de discapacitados, podrán:
+Los padres que ejerzan la patria potestad o los tutores de personas con discapacidad, podrán:
 
 I.- Promover y participar en todas aquellas acciones que resulten necesarias para el mejoramiento material, clínico y moral de sus representados; y
 
 II.- Exponer su queja ante la autoridad que corresponda cuando observen alguna irregularidad o anomalía en la aplicación de la presente Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 96.
 
-Los padres y tutores de discapacitados, podrán agruparse en sociedades o asociaciones, para el mayor desempeño de la tutela y representación.
+Los padres y tutores de personas con discapacidad, podrán agruparse en sociedades o asociaciones, para el mayor desempeño de la tutela y representación.
 
 ## TÍTULO NOVENO
 
@@ -1152,3 +1532,17 @@ En las contrataciones de personal que realicen los niveles de Gobierno Estatal y
 ###### ARTÍCULO QUINTO.
 
 En lo que respecta a los programas de becas que se plantea establecer, tanto el gobierno Estatal, como los municipales, empezarán a preverlos para tomarlos en consideración en el presupuesto de egresos del año 2004, a fin de que en el mismo año de inicio.
+
+P.O. 27 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan las disposiciones legales y reglamentarias que se opongan al mismo.
+
+TERCERO. En las disposiciones legales o reglamentarias que se aluda al termino "discapacitado", a partir de la entrada en vigor del presente decreto deberá entenderse como referido al termino "persona con discapacidad".
+
+CUARTO. El Reglamento de la presente Ley deberá expedirse en un plazo de 90 días, posteriores a la fecha de la publicación del presente Decreto.
+
+QUINTO. El Titular del Poder Ejecutivo, deberá realizar las acciones y previsiones correspondientes para que El Consejo Estatal Promotor para el Desarrollo de las Personas con Discapacidad, quede instalado 90 días posteriores a la entrada en vigor del presente decreto.
+
+SEXTO. El Congreso Local, dentro de los trescientos sesenta y cinco días siguientes, al inicio de vigencia del presente decreto, indistintamente a iniciativa del Titular del Poder Ejecutivo o, a instancia de los legisladores, realizará las reformas que permitan correlacionar las otras disposiciones legales que regulan la administración pública, con el presente Decreto.
