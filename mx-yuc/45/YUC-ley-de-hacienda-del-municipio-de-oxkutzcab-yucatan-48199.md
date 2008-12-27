@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-oxkutzcab-yucatan-48199"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2006-01-03"
+last_updated: "2008-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE OXKUTZCAB, YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -991,35 +991,43 @@ El pago de los derechos a que se refiere esta Sección, se calculará y efectuar
 
 #### Sección Décima Segunda. Derechos por Servicio de Alumbrado Público
 
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 119.
 
-El derecho por el alumbrado público se causará como compensación por el disfrute del citado servicio que se preste en la ciudad de Oxkutzcab, Yucatán.
+Son sujetos del Derecho de Alumbrado Público los propietarios o poseedores de predios urbanos o rústicos ubicados en el Municipio.
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 120.
 
-El pago de los derechos a que se refiere esta Sección, se calculará y efectuará conforme a las tarifas establecidas en la Ley de Ingresos del Municipio de Oxkutzcab.
+Es objeto de este derecho la prestación del servicio de alumbrado público para los habitantes del Municipio. Se entiende por servicio de alumbrado público, el que el Municipio otorga a la comunidad, en calles, plazas, jardines y otros lugares de uso común.
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 121.
 
-Son sujetos del pago de los derechos que se establecen los consumidores de energía eléctrica en tarifas 1-A, 2, 3 publicadas en el Diario Oficial de la Federación el 15 de noviembre de 1976 o en las que en su caso las sustituyan.
+La tarifa mensual correspondiente al derecho de alumbrado público, será la obtenida como resultado de dividir el costo anual global general actualizado erogado por el municipio en la prestación de este servicio, entre el número de usuarios registrados en la Comisión Federal de Electricidad y el número de predios rústicos o urbanos detectados que no están registrados en la Comisión Federal de Electricidad. El resultado será dividido entre 12. Y lo que de cómo resultado de esta operación se cobrará en cada recibo que la Comisión Federal de Electricidad expida, y su monto no podrá ser superior al 5% de las cantidades que deban pagar los contribuyentes en forma particular, por el consumo de energía eléctrica.
+
+Los propietarios o poseedores de predios rústicos o urbanos que no estén registrados en la Comisión Federal de Electricidad, pagarán la tarifa resultante mencionada en el párrafo anterior, mediante el recibo que para tal efecto expida la Tesorería Municipal. Se entiende para los efectos de esta Ley por "costo anual global general actualizado erogado", la suma que resulte del total de las erogaciones efectuadas, en el período comprendido del mes de noviembre del penúltimo ejercicio inmediato anterior hasta el mes de octubre del ejercicio inmediato anterior, por gasto directamente involucrado con la prestación de este servicio traídos a valor presente tras la aplicación de un factor de actualización que se obtendrá para cada ejercicio dividiendo el Índice Nacional de Precios al Consumidor del mes de Noviembre del ejercicio inmediato anterior entre el Índice Nacional de Precios al Consumidor correspondiente al mes de Octubre del penúltimo ejercicio inmediato anterior.
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 122.
 
-El derecho por el servicio de alumbrado público será recaudado por conducto de la Comisión Federal de Electricidad, mediante la aplicación de la tasa relativa, calculándose el importe del derecho, el cual deberá hacerse constar en las facturaciones que formule a sus consumidores sujetos de este derecho, para los efectos del pago, de acuerdo con el convenio celebrado entre el Ayuntamiento de Oxkutzcab, Yucatán y la Comisión Federal de Electricidad.
+El derecho de alumbrado público se causará mensualmente. El pago se hará dentro de los primeros 15 días siguientes al mes en que se cause, dicho pago deberá realizarse en las oficinas de la Tesorería Municipal o en las instituciones autorizadas para tal efecto. El plazo de pago a que se refiere el presente artículo podrá ser diferente, incluso podrá ser bimestral, en el caso a que se refiere el artículo 121 en su primer párrafo.
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 123.
 
-La Comisión Federal de Electricidad deberá aplicar el monto de los derechos que se recauden en la forma siguiente:
+Para efectos del cobro de este derecho el Ayuntamiento podrá celebrar convenios con la compañía o empresa suministradora del servicio de energía eléctrica en el municipio. En estos casos, se deberá incluir el importe de este derecho en el documento que para tal efecto expida la compañía o la empresa, debiéndose pagar junto con el consumo de energía eléctrica, en el plazo y en las oficinas autorizadas por esta última.
 
-I.- Para cubrir en primer término, el importe de la energía eléctrica para el alumbrado público, que sea suministrada al Municipio de Oxkutzcab, Yucatán y sus comisarías.
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
-II.- Los remanentes serán utilizados en la siguiente forma:
+###### Artículo 123 Bis.
 
-a) Para cubrir el mantenimiento y reposición de lámparas de alumbrado público del Municipio de Oxkutzcab, Yucatán y sus comisarías; tarea que quedará bajo la responsabilidad de la Comisión Federal de Electricidad.
-
-b) Para amortizar los adeudos anteriores que el Municipio de Oxkutzcab, Yucatán y sus comisarías tengan por suministro de energía por el alumbrado público con la Comisión Federal de Electricidad.
-
-c) Para ampliar o mejorar, en su caso, las instalaciones del alumbrado público a solicitud del Ayuntamiento de Oxkutzcab, Yucatán.
+Los ingresos que se perciban por el derecho a que se refiere la presente Sección se destinarán al pago, mantenimiento y mejoramiento del servicio de alumbrado público que proporcione al Ayuntamiento.
 
 #### Sección Décima Tercera. Derechos por Servicios de la Unidad de Acceso a la Información
 
@@ -1352,3 +1360,11 @@ OFICIAL MAYOR
 Q.I. RAÚL ARCEO ALONZO
 
 Quienes firman por la ausencia temporal del C. Gobernador del Estado, de conformidad a lo dispuesto por el artículo 25 de la Ley Orgánica de la Administración Pública del Estado de Yucatán.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 27 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
