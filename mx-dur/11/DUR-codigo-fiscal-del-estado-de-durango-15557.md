@@ -4,7 +4,7 @@ identifier: "DUR-codigo-fiscal-del-estado-de-durango-15557"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-30"
-last_updated: "2007-12-30"
+last_updated: "2008-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO FISCAL DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 30 de diciembre de 1999.
 
@@ -91,9 +91,11 @@ Las demás disposiciones fiscales se interpretarán aplicando cualquier método 
 
 Las Leyes Fiscales, sus reglamentos y las disposiciones administrativas de carácter general, entrarán en vigor en todo el Estado el día siguiente al de su publicación en el Periódico Oficial del Estado, salvo que en ellas se establezca una fecha posterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 6.
 
-En los plazos fijados en días no se contarán los sábados, los domingos ni el 1° de enero; el 5 de febrero; el 21 de marzo; el 1° y 5 de mayo; el 1° y 16 de septiembre, el 20 de noviembre y el 25 de diciembre.
+En los plazos fijados en días no se contarán los sábados, los domingos ni el 1º de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; el 1º y 5 de mayo; el 16 de septiembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; el 1º de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo y el 25 de diciembre.
 
 Tampoco se contarán en dichos plazos, los días en que tengan vacaciones generales las autoridades fiscales, excepto cuando se trate de plazos para la presentación de declaraciones y pago de contribuciones exclusivamente, en cuyos casos esos días se consideran hábiles. No son vacaciones generales las que se otorguen en forma escalonada.
 
@@ -2696,3 +2698,7 @@ P.O. 30 DE DICIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 1 de enero del año 2008.
+
+P.O. 28 DE DICIEMBRE DE 2008.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
