@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-administracion-y-vigilancia-del-sistema-de-18933"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-28"
-last_updated: "2007-12-30"
+last_updated: "2008-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA ADMINISTRACION Y VIGILANCIA DEL SISTEMA DE PARTICIPACIONES Y LA COLABORACION ADMINISTRATIVA EN MATERIA FISCAL ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 28 de diciembre de 2000.
 
@@ -143,7 +143,9 @@ I.- El 70% en relación directa con el número de habitantes de cada municipio, 
 
 II.- El 30% de acuerdo con el coeficiente efectivo del fondo acumulado que establece el artículo 5 de esta ley.
 
-Los recursos que reciban los municipios en los términos de este artículo, deberán destinarse exclusivamente a infraestructura vial, rural, urbana, hidráulica, básica y sanitaria, así como a programas ambientales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 14 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 9.
 
@@ -234,3 +236,9 @@ La distribución de las participaciones a que se refiere la fracción VII del ar
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango y surtirá sus efectos a partir del día 1° (primero) de enero de 2009.
