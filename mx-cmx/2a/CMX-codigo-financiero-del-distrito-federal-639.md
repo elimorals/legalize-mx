@@ -4,7 +4,7 @@ identifier: "CMX-codigo-financiero-del-distrito-federal-639"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-31"
-last_updated: "2008-12-05"
+last_updated: "2008-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=639&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1994-12-30"
 
 CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE DICIEMBRE DE 2008.
 
 Código publicado en la Segunda, Tercera y Cuarta Secciones del Diario Oficial de la Federación el sábado 31 de diciembre de 1994.
 
@@ -47,6 +47,10 @@ CODIGO FINANCIERO DEL DISTRITO FEDERAL
 ###### ARTICULO 1.
 
 Las disposiciones de este Código, son de orden público e interés general, tienen por objeto regular la obtención, administración, custodia y aplicación de los ingresos del Distrito Federal, la elaboración de la Ley de Ingresos, los programas base del Presupuesto de Egresos y la consolidación del proyecto correspondiente, la contabilidad que de los ingresos, fondos, valores y egresos se realice para la formulación de la correspondiente Cuenta Pública, las infracciones y delitos contra la hacienda local, las sanciones correspondientes, así como el procedimiento para interponer los medios de impugnación que el mismo establece.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Los sujetos obligados a cumplir las disposiciones de este Código, deberán observar que la administración de los recursos públicos locales, federales, de aplicación automática y propios, se realice con base en criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas, equidad de género y derechos humanos.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -127,6 +131,10 @@ XVII. Estatuto: El Estatuto de Gobierno del Distrito Federal;
 > <small>(ADICIONADA, G.O. 3 DE AGOSTO DE 2007)</small>
 
 XVII BIS. Investigación y desarrollo de tecnología. Los gastos e inversión destinados directa y exclusivamente a la ejecución de proyectos que se encuentren dirigidos al desarrollo de productos, materiales o procesos de producción, que representen un avance científico o tecnológico, de conformidad con las reglas generales acordadas por el Sistema de Aguas de la Ciudad de México y el Instituto de Ciencia y Tecnología del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+XVII TER. Grandes Contribuyentes: Las personas físicas y morales que en términos de la normatividad que emita la Tesorería, se consideren como tales;
 
 > <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2006)</small>
 
@@ -262,7 +270,13 @@ Solo mediante ley podrá afectarse un ingreso a un fin específico. Todos los in
 
 El Distrito Federal por conducto del Jefe de Gobierno a través de la Secretaría, podrá afectar como fuente o garantía de pago, o ambas, de las obligaciones que contraiga, incluyendo la emisión de valores representativos de un pasivo a su cargo para su colocación en el mercado de valores, sus ingresos derivados de contribuciones, aprovechamientos, productos y sus accesorios, conforme a las reglas de carácter general que emita la Secretaría, así como las participaciones del Distrito Federal en ingresos federales, en los términos y condiciones que establezca la ley federal de la materia.
 
-Podrán incluirse las obligaciones derivadas de los convenios de seguridad social entre el gobierno federal y las dependencias de la administración pública y de la Asamblea Legislativa del Distrito Federal, así como de los órganos autónomos.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Podrán incluirse las obligaciones derivadas de los convenios de seguridad social entre el gobierno federal y la administración pública del Distrito Federal, así como de órganos autónomos y órganos de gobierno.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Las entidades, órganos autónomos y órganos de gobierno, deberán garantizar en su presupuesto, el cumplimiento de estas obligaciones. En caso de que no cubran los adeudos en los plazos correspondientes y se hayan agotado los procesos de conciliación de pagos en los términos y condiciones que establezca la ley federal en la materia, la Secretaría queda facultada para enterar los recursos a la autoridad federal competente y afectar directamente el presupuesto que les autorice la Asamblea por el equivalente a las cantidades adeudadas, a fin de no afectar las participaciones del Distrito Federal en ingresos federales.
 
 ### CAPITULO II. De la Preparación y Elaboración del Presupuesto de Ingresos
 
@@ -284,7 +298,9 @@ II. Se incluirán los ingresos provenientes de la coordinación fiscal;
 
 III. Se incluirá la estimación de aquellos ingresos considerados como virtuales;
 
-IV. Se comprenderán los ingresos propios previstos por las entidades, así como los ingresos autogenerados por las delegaciones;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+IV. Se comprenderán los ingresos propios previstos por las entidades, así como los ingresos de aplicación automática generados por las delegaciones;
 
 > <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2006)</small>
 
@@ -302,7 +318,9 @@ IX. Se considerarán las expectativas de ingresos por financiamiento;
 
 X. Se incluirán los demás ingresos a recaudar;
 
-XI. No se tomarán en cuenta los ingresos extraordinarios, y
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+XI. No se tomarán en cuenta los ingresos extraordinarios, salvo los provenientes de los remanentes;
 
 XII. Tampoco se considerará cualquier otro ingreso clasificado como no recurrente ni el monto estimado de reducciones en el pago de contribuciones.
 
@@ -352,21 +370,17 @@ Los recursos remanentes de los ejercicios anteriores serán considerados ingreso
 
 De los movimientos que se efectúen en los términos de este artículo, el Jefe de Gobierno informará a la Asamblea en el curso de los informes trimestrales que establece este Código y al rendir la Cuenta de la Hacienda Pública.
 
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Los remanentes serán destinados a los programas prioritarios establecidos en el presupuesto de egresos.
+Los remanentes serán destinados a las funciones y subfunciones de acuerdo con el Presupuesto de Egresos, especificando el origen del remanente en la Cuenta Pública correspondiente, ya sea deuda, recursos federales del ramo 33, o recursos propios.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 En tratándose de recursos de crédito, el ejercicio de los remanentes se sujetará a las disposiciones federales aplicables.
 
-> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ANTES PARRAFOS QUINTO Y SEXTO] , G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-De los remanentes de recursos fiscales del ejercicio anterior, un monto equivalente al 10% se deberá destinar al gasto de inversión en las demarcaciones territoriales.
-
-> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
-
-Asimismo, dichos recursos serán canalizados a programas prioritarios establecidos en el Presupuesto de Egresos como son Educación, Salud, Seguridad Pública, Agua Potable, Drenaje y Tratamiento de Aguas Negras dando prioridad a la Obra Pública.
+De los remanentes de recursos fiscales del ejercicio anterior, un monto equivalente al 10% se deberá destinar al gasto en obra pública en las demarcaciones territoriales. Asimismo, dichos recursos serán canalizados a las funciones y subfunciones de acuerdo con el Presupuesto de Egresos como son Educación, Salud, Seguridad Pública, Agua Potable, Drenaje y Tratamiento de Aguas Negras.
 
 ###### ARTÍCULO 15 Bis.
 
@@ -412,37 +426,43 @@ II. La Secretaría;
 
 III. La Tesorería;
 
-IV. La Procuraduría Fiscal, y
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-V. La dependencia, órgano desconcentrado, entidad o unidad administrativa que en términos de las disposiciones jurídicas correspondientes, tenga competencia para llevar a cabo las atribuciones a que se refiere el artículo anterior.
+IV. La Procuraduría Fiscal;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+V. La Unidad de Inteligencia Financiera, y
+
+VI. La dependencia, órgano desconcentrado, entidad o unidad administrativa que en términos de las disposiciones jurídicas correspondientes, tenga competencia para llevar a cabo las atribuciones a que se refiere el artículo anterior.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 21.
 
-El Jefe de Gobierno, por conducto de la Secretaría, deberá asignar los recursos que se obtengan en exceso de los previstos en la Ley de Ingresos, a las estrategias, objetivos y prioridades del Programa General. Asimismo, en caso de que los ingresos sean menores a los programados, podrá ordenar las reducciones respectivas, cuidando en todo momento el mantenimiento de los servicios públicos.
+El Jefe de Gobierno, por conducto de la Secretaría, deberá asignar los recursos que se obtengan en exceso de los previstos en la Ley de Ingresos, a las estrategias, objetivos y prioridades del Programa General.
 
-> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+Para tal efecto, cuando los ingresos remanentes del año anterior rebasen el 2 por ciento del gasto programable del Sector Central del Gobierno del Distrito Federal, considerando dependencias, delegaciones, empresas paraestatales, organismos y órganos autónomos, el Jefe de Gobierno remitirá a la Asamblea Legislativa, a más tardar el día último del mes de mayo, la propuesta de distribución de los excedentes que contribuyan principalmente al mantenimiento de la red de agua potable, de drenaje, de protección civil, al mantenimiento de escuelas, de mercados públicos, especificando el tipo de fuente de financiamiento.
 
-Para tal efecto, cuando los ingresos remanentes del año anterior rebasen el 5% del gasto programable, el Jefe de Gobierno enviará a la Asamblea, a más tardar el día último del mes de junio, la propuesta de distribución de los excedentes que contribuyan principalmente al desarrollo y modernización de la infraestructura social y urbana, al mantenimiento de los servicios públicos y protección civil.
+En caso de que los ingresos sean menores a los programados, el Jefe de Gobierno, por conducto de la Secretaría, podrá aplicar medidas de disciplina y equilibrio presupuestal, ordenando las reducciones al Presupuesto de Egresos, cuidando en todo momento el mantenimiento de los servicios públicos y los programas sociales.
 
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2006)</small>
+En el caso de que la contingencia que motive los ajustes represente una reducción equivalente de hasta el 5% de los ingresos previstos en el calendario mensual de recaudación a que se refiere el artículo 27 de este Código, el Jefe de Gobierno a través de la Secretaría, enviará a la Asamblea en los siguientes 10 días hábiles a que se haya determinado la disminución de ingresos, un informe que contenga el monto de gasto programable reducido y su composición desagregado por dependencias, órganos desconcentrados, órganos de gobierno, órganos autónomos, delegaciones y entidades.
 
-En el caso de reducciones a los presupuestos de los Órganos Político-Administrativos, estas deberán ser acordadas con los titulares de los mismos, con el objeto de que estas reducciones no repercutan en las actividades prioritarias establecidas por ellos.
+En el caso de que la contingencia represente una reducción que supere el 5% de los ingresos, el Jefe de Gobierno a través de la Secretaría, enviará a la Asamblea en los siguientes 10 días hábiles a que se haya determinado la disminución de ingresos, una propuesta con el monto de gasto a reducir y su composición por dependencias, órganos desconcentrados, órganos de gobierno, órganos autónomos, delegaciones y entidades. La Asamblea, en un plazo de 10 días hábiles a partir de la recepción de la propuesta, la analizará, con el fin de proponer, en su caso, modificaciones en el marco de las disposiciones generales aplicables y la información disponible. El Jefe de Gobierno, a través de la Secretaría, con base en la opinión de la Asamblea, resolverá lo conducente, informando de ello a la misma. En caso de que la Asamblea no emita opinión dentro de dicho plazo, procederá la propuesta enviada por el Ejecutivo Local.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+Los órganos de gobierno y los órganos autónomos, de conformidad con las disposiciones de este Código, deberán coadyuvar al cumplimiento de las normas de disciplina presupuestaria a que se refiere el presente artículo, a través de ajustes a sus respectivos presupuestos. Asimismo, deberán reportar los ajustes realizados en los informes trimestrales y en la Cuenta Pública.
+
+En el caso de reducciones a los presupuestos de los Órganos Político-Administrativos, el Jefe de Gobierno a través de la Secretaría comunicará a los titulares de los mismos, las reducciones que correspondan para que éstos manifiesten lo conducente, dentro de los 5 días siguientes a la fecha de comunicación. En caso de que durante dicho plazo el titular de la delegación respectiva no se manifieste, la Secretaría procederá a aplicar las reducciones cuidando que no repercutan en los recursos canalizados a las funciones y subfunciones de acuerdo con el Presupuesto de Egresos.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 22.
 
-El Jefe de Gobierno por conducto de la Secretaría, autorizará las ampliaciones o reducciones líquidas correspondientes. Asimismo, podrá autorizar ampliaciones líquidas que se deriven de los recursos que se obtengan en exceso respecto de los previstos en la Ley de Ingresos.
+La Secretaría podrá autorizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos, con cargo a los excedentes que en su caso, resulten de los aprobados en la Ley de Ingresos, o bien ante la expectativa de la captación de mayores ingresos.
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+Los excedentes que resulten de los ingresos propios de las entidades, se destinarán a aquellas que los generen.
 
-El Jefe de Gobierno asignará estos recursos a los programas prioritarios que señale el Decreto de Presupuesto de Egresos para apoyar aquellos que contribuyan al desarrollo y modernización de la infraestructura social y urbana, mantenimiento de los servicios públicos y protección civil.
-
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
-
-Los excedentes que resulten de los ingresos propios de las entidades a que se refiere el Presupuesto de Egresos, se destinarán a aquéllas que los generen.
+Las ampliaciones presupuestales que autorice la Secretaría para utilizarse en un fin específico, no podrán reorientarse a otros proyectos distintos y se procederá a efectuar la reducción líquida presupuestal correspondiente, justificando las causas que impidieron la ejecución de los programas y proyectos.
 
 ARTICULO 22 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -478,15 +498,19 @@ La Secretaría deberá establecer un sistema permanente de evaluación de ingres
 
 ARTICULO 26 A.- El Jefe de Gobierno, por conducto de la Secretaría, está obligado a proporcionar, dentro de los informes trimestrales de avance programático presupuestal, la información siguiente a la Asamblea:
 
-I. Ingresos autogenerados en las Delegaciones.
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+I. Ingresos de aplicación automática generados en las Delegaciones.
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
 II. Las reglas generales y reglas específicas emitidas por la Secretaría de Finanzas durante todo el periodo de informe.
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 27.
 
-Para efecto de lo dispuesto en el artículo anterior, la Secretaría publicará en la Gaceta Oficial del Distrito Federal, a más tardar el 31 de enero del ejercicio fiscal de que se trate, el calendario mensual de recaudación desglosado por cada concepto de ingresos, de conformidad con lo establecido en la Ley de Ingresos aprobada por la Asamblea. Las dependencias, órganos desconcentrados, delegaciones y entidades cuya prestación de servicios dé origen a la recaudación de impuestos, aprovechamientos, derechos y productos, realizarán la previsión de los ingresos conforme a dicho calendario.
+Para efecto de lo dispuesto en el artículo 26 de este Código, la Secretaría publicará en la Gaceta Oficial del Distrito Federal, a más tardar el 31 de enero del ejercicio fiscal de que se trate, el calendario mensual de recaudación desglosado por cada concepto de ingresos, de conformidad con lo establecido en la Ley de Ingresos aprobada por la Asamblea. Las dependencias, órganos desconcentrados, delegaciones y entidades cuya prestación de servicios dé origen a la recaudación de impuestos, aprovechamientos, derechos y productos, realizarán la previsión de los ingresos conforme a dicho calendario.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -594,7 +618,9 @@ La falta de publicación de las formas oficiales a que se refiere este artículo
 
 Ante la negativa de la autoridad fiscal de recibir el pago de una contribución, el contribuyente puede consignarlo al Tribunal de lo Contencioso mediante cheque certificado o de caja, acompañado de la declaración relativa al periodo y concepto que corresponda, en términos de lo dispuesto en el artículo 37 de este Código.
 
-Una vez recibida la documentación a que hace referencia el párrafo anterior, el Tribunal de lo Contencioso en el plazo de dos días hábiles, deberá remitirla a la Tesorería, a efecto de que ésta proceda a la aplicación del pago, en el orden de prelación que establece este Código, y le notificará al contribuyente dentro del término de quince días la forma en que aplicó el mismo, sin perjuicio de las facultades de comprobación que pudiera ejercer la autoridad fiscal.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Una vez recibida la documentación a que hace referencia el párrafo anterior, el Tribunal de lo Contencioso en el plazo de dos días hábiles, deberá remitirla a la Tesorería, a efecto de que ésta proceda a la aplicación del pago, en el orden de prelación que establece este Código, y le notificará al contribuyente dentro del término de treinta días naturales la forma en que aplicó el mismo, sin perjuicio de las facultades de comprobación que pudiera ejercer la autoridad fiscal.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -674,25 +700,41 @@ IV. Dirección General de Patrimonio Inmobiliario, y
 
 V. Corredores públicos.
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Las Instituciones de Crédito, así como las sociedades civiles o mercantiles a que se hace mención, deberán auxiliarse para la suscripción y realización de los avalúos de personas físicas registradas ante la autoridad fiscal, debiendo acreditar ante ella los siguientes requisitos, mismos que serán aplicables a los corredores públicos:
+Los peritos valuadores a que hace referencia la fracción I, serán independientes o auxiliares, quienes podrán suscribir y realizar avalúos. Los últimos sólo lo harán bajo el respaldo de una Institución de Crédito, sociedad civil o mercantil a que hace referencia este artículo; debiendo acreditar ante la autoridad fiscal los siguientes requisitos:
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
 a). Que tengan la acreditación de perito valuador de bienes inmuebles otorgada por el Colegio Profesional respectivo, en concordancia con la ley de la materia, o registro de la Dirección General de Patrimonio Inmobiliario;
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+
 b). Que tengan como mínimo una experiencia de dos años en valuación inmobiliaria;
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). Que tengan conocimientos suficientes de los procedimientos y lineamientos técnicos de valuación inmobiliaria, así como del mercado de inmuebles del Distrito Federal, para lo cual se someterá a los aspirantes a los exámenes teóricos-prácticos que la propia autoridad fiscal estime conveniente, asimismo a las personas físicas que ya cuenten con registro de perito valuador auxiliar o independiente, y
+c). Que tengan conocimientos suficientes de los procedimientos y lineamientos técnicos de valuación inmobiliaria, así como del mercado de inmuebles del Distrito Federal, para lo cual se someterá a los aspirantes a los exámenes teóricosprácticos que la propia autoridad fiscal estime conveniente, y
 
-d). Que tengan título profesional en algún ramo relacionado con la materia valuatoria, registrado ante la autoridad competente, o que legalmente se encuentren habilitados para ejercer como corredores, y que figuren en la lista anual de Peritos autorizados del Colegio Profesional respectivo, en concordancia con la ley de la materia.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Los corredores públicos deberán acreditar ante la autoridad fiscal que cumplen con los requisitos de los incisos b), c) y d) de este artículo.
+d). Que tengan título profesional en algún ramo relacionado con la materia valuatoria, registrado ante la autoridad competente, y que figuren en la lista anual de Peritos autorizados del Colegio Profesional respectivo, en concordancia con la ley de la materia.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Las personas a que se refieren las fracciones I a V de este artículo, deberán presentar ante la Secretaría, a más tardar el día 15 de cada mes, los avalúos que suscriban realizados en el mes inmediato anterior, respecto de inmuebles ubicados en el Distrito Federal, a través de los medios que establezca para tal efecto la Secretaría.
+Los corredores públicos deberán acreditar ante la autoridad fiscal que cumplen con los requisitos de los incisos b) y c) de este artículo, así como que se encuentren legalmente habilitados para ejercer como corredores.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Las Instituciones de Crédito, así como las sociedades civiles o mercantiles a que se hace mención, deberán auxiliarse para la suscripción y realización de los avalúos de los peritos auxiliares registrados ante la autoridad fiscal.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+La autoridad fiscal podrá convocar a las personas que cuenten con registro de perito valuador, auxiliar o independiente a la realización de exámenes teórico-prácticos, a efecto de verificar su actualización en el conocimiento de las leyes, lineamientos y manuales técnicos y administrativos, así como del mercado inmobiliario actual del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Las personas a que se refieren las fracciones I a V de este artículo, deberán presentar ante la Tesorería, a más tardar el día 15 de cada mes, los avalúos que suscriban realizados en el mes inmediato anterior, respecto de inmuebles ubicados en el Distrito Federal, a través de los medios que establezca para tal efecto la Tesorería.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -1026,27 +1068,45 @@ Las resoluciones que conforme a este artículo dicte el Jefe de Gobierno, deber�
 
 Para la emisión de las resoluciones de carácter general se deberá observar lo dispuesto en las reglas que para tal efecto emita la Asamblea. Asimismo, en los informes de avance trimestral, se informará sobre el ejercicio que haga el Jefe de Gobierno de la facultad conferida en este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 67.
 
-Las autoridades fiscales competentes, a petición de los contribuyentes, podrán autorizar el pago a plazos de los créditos fiscales, ya sea diferido o en parcialidades, sin que la duración total de los plazos autorizados para pagar exceda de cuarenta y ocho meses, para estos efectos deberá actualizarse previamente el importe de la suerte principal.
+Las autoridades fiscales competentes, a petición de los contribuyentes, podrán autorizar el pago a plazos de los créditos fiscales, ya sea diferido o en parcialidades, sin que la duración total de los plazos autorizados para pagar exceda de cuarenta y ocho meses. Para estos efectos, los contribuyentes deberán pagar cuando menos el 20% del monto total del crédito fiscal al momento de la autorización del pago a plazos. El monto total del adeudo se integrará por la suma de los siguientes conceptos:
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+a). El monto de las contribuciones omitidas actualizado desde el mes en que se debieron pagar y hasta aquél en que se autorice el pago a plazos.
 
-Lo dispuesto en el párrafo anterior, no será aplicable a los créditos derivados de los Impuestos sobre Adquisición de Inmuebles, sobre Loterías, Rifas, Sorteos y Concursos y por la Prestación de Servicios de Hospedaje, de multas administrativas, así como a los provenientes de derechos, con excepción de los de Suministro de Agua.
+b). Las multas que correspondan actualizadas desde el mes en que se debieron pagar y hasta aquél en que se autorice el pago a plazos.
+
+c). Los accesorios distintos de las multas que tenga a su cargo el contribuyente a la fecha en que se autorice el pago a plazos.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+No procederá la autorización que refiere el párrafo anterior, tratándose de los créditos derivados de los Impuestos sobre Adquisición de Inmuebles, sobre Loterías, Rifas, Sorteos y Concursos y por la Prestación de Servicios de Hospedaje, de multas administrativas, así como a los provenientes de derechos, con excepción de los de Suministro de Agua.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
 Durante el plazo concedido se causarán recargos por concepto de financiamiento, que se calcularán sobre el saldo insoluto del crédito fiscal, a la tasa que establezca la Asamblea en la Ley de Ingresos.
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Las autoridades fiscales al autorizar el pago a plazos, ya sea en forma diferida o en parcialidades, exigirán que se garantice el interés fiscal dentro de los quince días siguientes a la fecha en que hubiere sido autorizada la solicitud de pago a plazos en los términos del artículo 52 de este Código, cuando el contribuyente esté obligado a otorgar garantía.
+Las autoridades fiscales al autorizar el pago a plazos, ya sea en forma diferida o en parcialidades, exigirán que se garantice el interés fiscal en relación al monto total del adeudo restante, dentro de los quince días siguientes a la fecha en que hubiere sido autorizada la solicitud de pago a plazos en los términos del artículo 52 de este Código, cuando el contribuyente esté obligado a otorgar garantía.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Notificada la autorización de pago a plazos, el contribuyente deberá efectuar el pago de la primera parcialidad dentro de los cinco días hábiles siguientes en que surta efectos la notificación, en caso de incumplimiento se tendrá por desistido al contribuyente de su petición.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Tratándose de la autorización del pago a plazos en parcialidades, el saldo que se utilizará para el cálculo de las parcialidades será el resultado de disminuir el pago efectuado conforme a lo señalado en el primer párrafo de este artículo, del monto total del crédito fiscal.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Tratándose de la autorización del pago a plazos de forma diferida, el monto que se diferirá será el resultado de restar el pago efectuado conforme a lo señalado en el primer párrafo de este artículo, del monto total del crédito fiscal.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+El monto para liquidar el adeudo a que hace referencia el párrafo anterior, deberá cubrirse en una sola exhibición a más tardar en la fecha de pago especificada por el contribuyente en su solicitud de autorización de pago a plazos.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -1148,9 +1208,9 @@ XVII. Quien exprese su voluntad por medio de un contrato o título de concesión
 
 XVIII. La persona que libre un cheque para cubrir el monto de un crédito fiscal a cargo de un tercero, que no sea pagado por causas imputables al propio librador, será responsable solidario de la suerte principal y los accesorios que se hubieren generado a cargo del contribuyente, de conformidad con lo dispuesto por el artículo 59 de este Código;
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-XIX. Las instituciones de crédito que acepten que por causas imputables a éstas no fue posible el pago del cheque a que hace referencia el artículo 59 de este Código, hasta por el pago de la indemnización de que se trate;
+XIX. Las instituciones de crédito, cuando por causas imputables a éstas no fue posible el pago del cheque a que hace referencia el artículo 59 de este Código, hasta por el pago de la indemnización de que se trate;
 
 > <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -1320,6 +1380,10 @@ a). Inscribirse ante la autoridad fiscal en los padrones que les corresponda, po
 
 Cuando en las declaraciones, manifestaciones y avisos previstos en este Código, se requiera la clave de registro al padrón correspondiente y el código de barras, se deberán proporcionar los que hubiesen sido asignados por la autoridad fiscal.
 
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Para el caso de que un inmueble se encuentre en copropiedad, deberá registrarse el nombre completo de cada uno de los copropietarios y designarse a un representante común.
+
 b). Presentar los avisos que modifiquen los datos registrados en los padrones del Distrito Federal, en un plazo que no excederá de quince días a partir de la fecha en que se dé la modificación.
 
 > <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
@@ -1380,49 +1444,61 @@ En cualquier caso, el contribuyente estará obligado a cubrir el monto que resul
 
 En tratándose del pago de derechos realizado en un año diferente al en que se solicita la prestación del servicio de que se trate se deberán pagar las diferencias que procedan.
 
-En caso de que resulte una diferencia en el pago favorable al contribuyente, éste podrá solicitar a la autoridad fiscal la devolución de la misma, en términos del artículo 71 de este Código, y
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-i). Las demás que este Código establezca.
+En caso de que resulte una diferencia en el pago favorable al contribuyente, éste podrá solicitar a la autoridad fiscal la devolución de la misma, en términos del artículo 71 de este Código;
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+i). Contar con atención especializada a través de la Tesorería, para atender, entre otros, a grandes contribuyentes, en el cumplimiento de sus obligaciones fiscales, y
+
+j). Las demás que este Código establezca.
 
 ARTICULO 79 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 ARTICULO 79 B.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 80.
 
-Están obligadas a dictaminar el cumplimiento de sus obligaciones fiscales, en los términos de este Código y de las reglas de carácter general que publique la Secretaría, dentro de los dos meses siguientes al ejercicio que se dictaminará, las personas físicas y morales, que se encuentren en alguno de los supuestos siguientes y únicamente por cada uno de ellos:
+Están obligadas a dictaminar el cumplimiento de sus obligaciones fiscales, en los términos de este Código y de las reglas de carácter general que publique la Secretaría, a más tardar el 15 de enero del ejercicio siguiente al que se dictaminará, las personas físicas y morales, que se encuentren en alguno de los supuestos siguientes y únicamente por cada uno de ellos:
 
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Las que en el año calendario inmediato anterior hayan contado con un promedio mensual de ciento cincuenta o más trabajadores;
+I. Las que en el año calendario anterior a aquel que se dictamina, hayan contado con un promedio mensual de ciento cincuenta o más trabajadores;
 
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Las que en el año calendario inmediato anterior, hayan contado con inmuebles, de uso diferente al habitacional, cuyo valor catastral por cada uno, en cualquiera de los bimestres de dicho año, sea superior a $38,656,618.00. El dictamen deberá referirse únicamente a las obligaciones fiscales establecidas en este Código, relacionadas con los inmuebles que rebasen este valor;
+II. Las que en el año calendario anterior a aquel que se dictamina, hayan contado con inmuebles, de uso diferente al habitacional, cuyo valor catastral por cada uno, en cualquiera de los bimestres de dicho año, sea superior a $41,066,030.00. El dictamen deberá referirse únicamente a las obligaciones fiscales establecidas en este Código, relacionadas con los inmuebles que rebasen este valor;
 
-> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Las que en el año calendario inmediato anterior, hayan contado con inmuebles de uso mixto que rebasen el valor indicado en la fracción anterior.
+III. Las que en el año calendario anterior a aquel que se dictamina, hayan contado con inmuebles de uso mixto que rebasen el valor indicado en la fracción anterior.
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Se entiende por uso mixto, cuando el inmueble se destine a uso habitacional y no habitacional;
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Las que en el año calendario inmediato anterior hayan consumido por una o más tomas, más de 1000 m3 de agua bimestral promedio, de uso no doméstico, de uso doméstico, o ambos usos; cuando el uso sea sólo doméstico siempre que el inmueble donde se encuentre instalada dicha toma o tomas de agua, se haya otorgado en uso o goce temporal total o parcialmente;
+IV. Las que en el año calendario anterior a aquel que se dictamina, hayan consumido por una o más tomas, más de 1000 m3 de agua bimestral promedio, de uso no doméstico, de uso doméstico, o ambos usos; cuando el uso sea sólo doméstico siempre que el inmueble donde se encuentre instalada dicha toma o tomas de agua, se haya otorgado en uso o goce temporal total o parcialmente;
 
 > <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 V. Estar constituidos como organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos conforme a la ley de la materia, y
 
-> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VI. Las que en el año inmediato anterior hayan utilizado agua de fuentes diversas a la red de suministro del Distrito Federal y hayan efectuado las descargas de este líquido en la red de drenaje.
+VI. Las que en el año calendario anterior a aquel que se dictamina, hayan utilizado agua de fuentes diversas a la red de suministro del Distrito Federal y hayan efectuado las descargas de este líquido en la red de drenaje.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Las personas físicas y morales que no se encuentren en alguno de los supuestos señalados en las fracciones de este artículo, tendrán la opción de hacer dictaminar el cumplimiento de sus obligaciones fiscales.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+La presentación del aviso para dictaminar y del dictamen en los plazos en que dispone este Código, no impide el ejercicio de las facultades de cobro de créditos fiscales en el caso de que la autoridad fiscal advierta diferencias u omisiones de pago.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -1436,17 +1512,17 @@ II. Constancia emitida por un colegio de contadores públicos que acredite su ca
 
 Una vez otorgado el registro, el Contador Público deberá comprobar ante la Secretaría, dentro de los tres meses siguientes a cada año, que es socio activo del colegio profesional y presentar constancia de cumplimiento de la norma de educación continua, expedida por dicho colegio, o constancia de que sustentó y aprobó el examen correspondiente ante la autoridad fiscal.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 82.
 
-El contribuyente deberá proporcionar al Contador Público que vaya a emitir el dictamen a que se refiere el artículo 80 de este Código, un avalúo por cada uno de los inmuebles a considerar en el dictamen, practicado por alguna de las personas autorizadas o registradas por la autoridad fiscal, previstas en el artículo 44 del mismo Código, el cual debe cumplir con las definiciones, normas y valores unitarios precisados en este Código.
+El contribuyente deberá proporcionar al Contador Público que vaya a emitir el dictamen a que se refiere el artículo 80 de este Código, un avalúo por cada uno de los inmuebles a considerar en el dictamen, practicado por alguna de las personas autorizadas o registradas por la autoridad fiscal, previstas en el artículo 44 del mismo Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 83.
 
-Los contribuyentes que dictaminen el cumplimiento de sus obligaciones fiscales deberán presentar a través de los medios que establezca la Secretaría, dentro de los cinco meses siguientes a la terminación del período a dictaminar, el aviso para dictaminar, la relación de los inmuebles a considerar en el dictamen, y las bases de las contribuciones declaradas que son objeto del dictamen, aún cuando al aviso se presente por primera ocasión. La presentación de la documentación se realizará de conformidad con las reglas de carácter general que al efecto emita la Secretaría.
+Los contribuyentes que dictaminen el cumplimiento de sus obligaciones fiscales deberán presentar a través de los medios que establezca la Secretaría, a más tardar el 15 de febrero del ejercicio siguientes a la terminación del período a dictaminar, el aviso para dictaminar, la relación de los inmuebles a considerar en el dictamen, y las bases de las contribuciones declaradas que son objeto del dictamen, aún cuando el aviso se presente por primera ocasión. La presentación de la documentación se realizará de conformidad con las reglas de carácter general que al efecto emita la Secretaría.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -1508,11 +1584,11 @@ h). Encontrarse vinculado en cualquier otra forma con el contribuyente, que le i
 
 ARTICULO 85 A.- (DEROGADO, G.O. 31 DE DICIEMBRE DE 2002)
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 86.
 
-El dictamen a que se refiere el artículo 80 de este Código y la documentación que se señala en el artículo 88 del mismo, se deberá presentar a través de los medios que establezca la Secretaría, dentro de los siete meses siguientes al cierre del período a dictaminar, por los contribuyentes obligados a dictaminar y aquellos que hayan optado por dictaminar el cumplimiento de sus obligaciones. La presentación de la documentación se hará de conformidad con las reglas de carácter general que emita la Secretaría.
+El dictamen a que se refiere el artículo 80 de este Código y la documentación que se señala en el artículo 88 del mismo, se deberá presentar a través de los medios que establezca la Secretaría, a más tardar el 30 de abril del ejercicio siguiente al cierre del período a dictaminar, por los contribuyentes obligados a dictaminar y aquellos que hayan optado por dictaminar el cumplimiento de sus obligaciones. La presentación de la documentación se hará de conformidad con las reglas de carácter general que emita la Secretaría.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -1646,7 +1722,9 @@ XII. Allegarse las pruebas necesarias para denunciar ante el Ministerio Público
 
 XIII. Practicar avalúos de bienes inmuebles y revisar los avalúos que presenten los contribuyentes o fedatarios públicos, y en caso de encontrar errores, ya sea aritméticos, de clasificación de inmuebles o de aplicación de valores y en métodos alternativos de valuación aplicados; manifestaciones incorrectas en la superficie de terreno, de la construcción o del número de niveles, omisión de la valuación de instalaciones especiales, elementos accesorios u obras complementarias, o incorrecta aplicación de factores de eficiencia que incrementen o demeriten el valor catastral o en su caso influyan en la determinación incorrecta no justificada y fundada técnicamente del valor comercial de los inmuebles, los comunicará a los contribuyentes mediante la liquidación del impuesto respectivo y sus accesorios legales. En caso de que la autoridad fiscal determine diferencias a favor de los contribuyentes, de oficio hará la corrección respectiva, teniendo derecho los contribuyentes a solicitar la devolución o a compensar el saldo resultante contra pagos posteriores;
 
-XIV. Revisar las declaraciones que en los términos de este Código se presenten, a fin de verificar en general la correcta aplicación de sus disposiciones, la oportunidad de su presentación y pago;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+XIV. Revisar las declaraciones que en los términos de este Código se presenten, así como toda la información con que dispongan con base en la que puedan verificar tanto la presentación en tiempo y forma de tales declaraciones, como el entero de las contribuciones previstas en este Código y, en general, la correcta aplicación de sus disposiciones;
 
 > <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -1762,9 +1840,13 @@ Para los efectos de la determinación presuntiva a que se refiere el artículo a
 
 2. Información proporcionada por terceros a solicitud de la autoridad fiscal, cuando tenga relación de negocios con los contribuyentes;
 
-3. Cualquier otra información obtenida por la autoridad fiscal en ejercicio de sus facultades, y
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-4. Indirectos de investigación económica, geográfica, geodésica o de cualquier otra clase, que la Administración Pública del Distrito Federal o cualquier otra dependencia gubernamental o entidad paraestatal de la Administración Pública Federal utilice para tener un mejor conocimiento del territorio del Distrito Federal y de los inmuebles que en él se asientan, siendo éstos, los siguientes:
+3. Tratándose de inmuebles en proceso de construcción, la autoridad fiscal determinará el valor catastral considerando el 25% de los datos de la construcción total registrada en la manifestación respectiva, de acuerdo a lo establecido en el artículo 154 de este Código;
+
+4. Cualquier otra información obtenida por la autoridad fiscal en ejercicio de sus facultades, y
+
+5. Indirectos de investigación económica, geográfica, geodésica o de cualquier otra clase, que la Administración Pública del Distrito Federal o cualquier otra dependencia gubernamental o entidad paraestatal de la Administración Pública Federal utilice para tener un mejor conocimiento del territorio del Distrito Federal y de los inmuebles que en él se asientan, siendo éstos, los siguientes:
 
 a). Fotogrametría, incluyendo la verificación de linderos en campo;
 
@@ -1780,7 +1862,9 @@ d). Otros medios que permita el avance tecnológico en la materia.
 
 Las autoridades fiscales podrán determinar presuntivamente el consumo de agua, cuando:
 
-I. La toma carezca de medidor;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+I. La toma carezca de medidor autorizado por la normatividad aplicable;
 
 II. Se trate de tomas no registradas, para lo que se calcularán los derechos a pagar por los últimos cinco años;
 
@@ -1794,9 +1878,13 @@ VI. No funcione el medidor o exista cualquier situación que impida su lectura, 
 
 VII. Estén rotos los sellos del medidor o se haya alterado su funcionamiento;
 
-VIII. Se lleven a cabo instalaciones hidráulicas, así como derivaciones de agua, sin la autorización respectiva, o cuando se realicen modificaciones o manipulaciones a los ramales de las tuberías de distribución, y
+VIII. Se lleven a cabo instalaciones hidráulicas, así como derivaciones de agua, sin la autorización respectiva, o cuando se realicen modificaciones o manipulaciones a los ramales de las tuberías de distribución, y (sic)
 
-IX. Existan circunstancias que impidan u obstaculicen la lectura, verificación e instalación de aparatos medidores, así como la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales. La determinación presuntiva a que se refiere este artículo, procederá independientemente de los recargos y sanciones a que haya lugar.
+IX. Existan circunstancias que impidan u obstaculicen la lectura, verificación e instalación de aparatos medidores, así como la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales. La determinación presuntiva a que se refiere este artículo, procederá independientemente de los recargos y sanciones a que haya lugar;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+X. El Sistema de Aguas de la Ciudad de México, detecte un uso diferente al registrado en su padrón de usuarios y el contribuyente no lo haya notificado en términos de lo dispuesto en los artículos 78, inciso b) y 198, fracción V de este Código.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -1816,7 +1904,9 @@ a). Los datos aportados por los propios contribuyentes en declaraciones presenta
 
 b). Información proporcionada por terceros a solicitud de la autoridad fiscal;
 
-c). Cualquier otra información obtenida por la autoridad fiscal en ejercicio de sus facultades, y
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+c). Cualquier otra información obtenida por la autoridad fiscal en ejercicio de sus facultades, que incluye información estadística derivada de los registros históricos de consumos del propio contribuyente, y
 
 d). Otros medios que permita el avance tecnológico en la materia.
 
@@ -1870,9 +1960,17 @@ II. No lleven control o medición del agua extraída;
 
 III. No lleven el registro cronológico de sus lecturas o no instalen los dispositivos de medición en las descargas a la red de drenaje en caso de ejercer la opción de determinar, declarar y pagar el derecho;
 
-IV. No declaren los derechos en los términos del artículo 285 de este Código, y
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-V. No funcionen los dispositivos de medición en las descargas a la red de drenaje o exista cualquier situación que impida su lectura.
+IV. No declaren los derechos en los términos del artículo 285 de este Código;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+V. No funcionen los dispositivos de medición en las descargas a la red de drenaje o exista cualquier situación que impida su lectura, y
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+VI. Se trate de descargas no registradas, para lo que se calcularán los derechos a pagar por los últimos cinco años.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -1908,19 +2006,33 @@ III. Denuncia respectiva, en su caso, por desobediencia a un mandato legítimo d
 
 Para efectos de este artículo, los cuerpos de seguridad o policiales del Distrito Federal, deberán prestar en forma expedita el apoyo que solicite la autoridad fiscal, en los términos de los ordenamientos que los regulan.
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 110.
 
-Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones fiscales, la autoridad fiscal exigirá la presentación del documento respectivo ante las oficinas correspondientes, procediendo en forma simultánea o sucesiva a realizar uno o varios de los actos siguientes:
+Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones fiscales, o cuando habiéndolos presentado, la autoridad fiscal advierta de la información con que dispongan, que los contribuyentes han omitido parcial o totalmente el pago de alguna contribución prevista en este Código, mediante requerimiento de obligaciones omitidas exigirán al contribuyente la presentación de la declaración y pago respectivo ante las oficinas correspondientes, procediendo en forma simultánea o sucesiva a realizar uno o varios de los actos siguientes:
 
-I. Tratándose de la omisión en la presentación de una declaración periódica para el pago de contribuciones, la autoridad fiscal podrá hacer efectiva al contribuyente o responsable solidario que haya incurrido en la omisión, una cantidad igual a la contribución que se hubiera determinado en la última o cualquiera de las seis últimas declaraciones de que se trate, o a la que resulte para dichos períodos de la determinación formulada por la autoridad, según corresponda, cuando haya omitido presentar oportunamente alguna declaración subsecuente para el pago de contribuciones propias o retenidas. Esta cantidad a pagar tendrá el carácter de pago provisional y no libera a los obligados de presentar la declaración omitida.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Cuando la omisión sea de una declaración de las que se conozca de manera fehaciente la cantidad a la que le es aplicable la tasa o cuota respectiva, la propia autoridad fiscal podrá hacer efectiva al contribuyente, con carácter provisional, una cantidad igual a la contribución que a éste corresponda determinar, sin que el pago lo libere de presentar la declaración omitida.
+I. Tratándose de la omisión en la presentación de una declaración para el pago de contribuciones, en el caso de que la autoridad fiscal únicamente conozca de la omisión de la presentación de la declaración, mas no el monto de la contribución omitida, podrá hacer efectiva al contribuyente o responsable solidario que haya incurrido en la omisión, una cantidad igual a la contribución que se hubiera determinado en la última o cualquiera de las seis últimas declaraciones de que se trate, o a la que resulte para dichos períodos de la determinación formulada por la autoridad, según corresponda, cuando haya omitido presentar oportunamente alguna declaración subsecuente para el pago de contribuciones propias o retenidas. Esta cantidad a pagar tendrá el carácter de pago provisional y no libera a los obligados de presentar la declaración omitida.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Cuando la omisión sea de una declaración de las que se conozca de manera fehaciente el importe de la contribución, la propia autoridad fiscal podrá hacer efectiva al contribuyente, con carácter provisional, una cantidad igual a la contribución que a éste corresponda determinar, sin que el pago lo libere de presentar la declaración omitida.
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Si el contribuyente o responsable solidario presenta la declaración omitida antes de que se le haga efectiva la cantidad resultante conforme a lo previsto en esta fracción, quedará liberado de hacer el pago determinado provisionalmente. Si la declaración se presenta después de haberse efectuado el pago provisional determinado por la autoridad, éste se disminuirá del importe que se tenga que pagar con la declaración que se presente.
 
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Cuando la autoridad fiscal con base en la información con que dispone, advierta que los contribuyentes han omitido parcial o totalmente el pago de alguna contribución prevista en este Código, aún y cuando hubieren cumplido con la obligación formal de presentación de la declaración, la propia autoridad fiscal podrá hacer efectiva al contribuyente con carácter provisional la contribución omitida.
+
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2003)</small>
+
 II. Imponer la multa que corresponda en los términos de este Código y requerir la presentación del documento omitido en un plazo de seis días. Si no atiende el requerimiento se impondrá multa por cada requerimiento no atendido. La autoridad en ningún caso formulará más de tres requerimientos por una misma omisión.
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 En el caso de la fracción II y agotados los actos señalados en la misma, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo de autoridad competente.
 
@@ -1992,21 +2104,11 @@ Cerrada el acta final no se podrán levantar actas complementarias sin que exist
 
 VI. Las actas parciales se entenderá que forman parte integrante del acta final de visita aunque no se señale así expresamente;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VII. Las autoridades fiscales deberán concluir la visita domiciliaria o la revisión de la documentación que se realice en las oficinas de las propias autoridades, dentro de un plazo máximo de seis meses contados a partir de que se notifique la orden de visita o el requerimiento respectivo. Cuando las autoridades no cierren el acta final de visita o no notifiquen el oficio de observaciones, o en su caso, el de conclusión de la revisión, en el plazo mencionado, se entenderá concluida en esa fecha, y quedará sin efectos la orden y las actuaciones que se derivaron durante la visita o revisión de que se trate.
+VII. Las autoridades fiscales deberán concluir la visita domiciliaria o la revisión de la documentación que se realice en las oficinas de las propias autoridades, dentro de un plazo máximo de doce meses contados a partir de que se notifique la orden de visita o el requerimiento respectivo. Cuando las autoridades no cierren el acta final de visita o no notifiquen el oficio de observaciones, o en su caso, el de conclusión de la revisión, en el plazo mencionado, se entenderá concluida en esa fecha, y quedará sin efectos la orden y las actuaciones que se derivaron durante la visita o revisión de que se trate.
 
-El plazo a que se refiere el párrafo anterior, podrá ampliarse por un periodo igual, siempre que el oficio mediante el cual se notifique la prórroga correspondiente haya sido expedido, por la autoridad fiscal que ordenó la visita o la revisión, cuando se presente alguno de los supuestos siguientes:
-
-a). La autoridad fiscal solicite de los servidores públicos del Gobierno Federal, del Distrito Federal o fedatarios, informes y datos que posean con motivo de sus funciones;
-
-b). Se practiquen levantamientos topográficos o avalúos a bienes inmuebles;
-
-c). Cuando el inmueble cuente con dos o más cuentas o tomas;
-
-d). El contribuyente cambie de domicilio, sin dar el aviso correspondiente, durante el desarrollo de la visita o la revisión, y
-
-e). La autoridad fiscal solicite de los responsables solidarios o de terceros, informes, datos o documentos para el ejercicio de sus facultades de comprobación.
+> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 VIII. Cuando el contribuyente corrija su situación fiscal de acuerdo a los resultados de la visita domiciliaria, deberán elaborarse las declaraciones correspondientes, que contengan la firma del interesado o su representante legal.
 
@@ -2044,7 +2146,9 @@ II. En la solicitud se indicará el lugar y el plazo en el cual se deberán prop
 
 III. Los informes, libros o documentos requeridos deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante;
 
-IV. Como consecuencia de la revisión de informes, datos, documentos o contabilidad requeridos a los contribuyentes, responsables solidarios o terceros, las autoridades fiscales formularán oficio de observaciones, en el cual harán constar en forma circunstanciada los hechos u omisiones que se hubieren conocido y entrañen incumplimiento de las disposiciones fiscales del contribuyente o responsable solidario. En el caso de que no existan observaciones, las autoridades fiscales dentro del plazo a que se refiere la fracción VII del artículo 112 de este Código, formularán oficio en el que se dé a conocer al contribuyente el resultado de la revisión;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+IV. Como consecuencia de la revisión de informes, datos, documentos o contabilidad requeridos a los contribuyentes, responsables solidarios o terceros, las autoridades fiscales formularán oficio de observaciones, en el cual harán constar en forma circunstanciada los hechos u omisiones que se hubieren conocido y entrañen incumplimiento de las disposiciones fiscales del contribuyente o responsable solidario. En el caso de que no existan observaciones, las autoridades fiscales dentro del plazo a que se refiere la fracción VII del artículo 112 de este Código, formularán oficio en el que se dé a conocer al contribuyente, responsable solidario o tercero, el resultado de la revisión;
 
 > <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
@@ -2116,9 +2220,9 @@ II. Que el dictamen se formule de acuerdo a las disposiciones de este Código y 
 
 III. Que el Contador Público emita conjuntamente con su dictamen, un informe sobre la revisión fiscal en el que se consigne, bajo protesta de decir verdad, los datos que señale este Código y las reglas de carácter general que al efecto publique la Secretaría.
 
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Cuando el dictamen se haya presentado con abstención de opinión, opinión negativa, con salvedades que tengan implicaciones fiscales o no reúnan los requisitos establecidos en este Código, las autoridades fiscales podrán ejercer directamente sus facultades de comprobación sin necesidad de agotar el procedimiento que establece el artículo 119 de este Código, dicha circunstancia se hará del conocimiento del Contador Público y del Contribuyente.
+Cuando el dictamen se haya presentado con abstención de opinión, opinión negativa, con salvedades que tengan implicaciones fiscales o no reúnan los requisitos establecidos en este Código, las autoridades fiscales podrán ejercer directamente sus facultades de comprobación sin necesidad de agotar el procedimiento que establece el artículo 119 de este Código. Tampoco se seguirá el mencionado procedimiento en el caso de que se determinen en el dictamen diferencias de contribuciones a pagar o contribuciones omitidas y éstas no se enteren de conformidad con lo dispuesto en la fracción V del artículo 90 de este Código. Dicha circunstancia se hará del conocimiento del Contador Público y del Contribuyente.
 
 Las opiniones o interpretaciones contenidas en los dictámenes no obligarán a las autoridades fiscales, las que podrán ejercer directamente sus facultades de vigilancia y comprobación sobre los sujetos pasivos o responsables solidarios y expedir la resolución por la que se determine el crédito fiscal que corresponda.
 
@@ -2142,13 +2246,19 @@ III. Podrán requerir al contribuyente para que exhiba la documentación o infor
 
 Una vez realizado lo anterior, si a juicio de las autoridades fiscales el dictamen no satisface los requisitos establecidos en este Código, dicha circunstancia se hará del conocimiento del Contador Público y del contribuyente, procediendo a ejercer directamente las facultades de comprobación.
 
-Cuando la autoridad fiscal tenga plena certeza de la omisión en el pago de alguna contribución establecida en este Código, podrá requerir directamente al contribuyente.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. No deberán transcurrir más de seis meses, de la fecha en que surta efectos la notificación del inicio de facultades de comprobación al Contador Público o al propio contribuyente, a la fecha en que se formule el oficio de observaciones. El plazo de seis meses será por cada ejercicio revisado.
+Cuando la autoridad fiscal advierta del dictamen a revisar, que existe omisión o diferencias en el pago de alguna contribución establecida en este Código, podrá requerir directamente al contribuyente, haciendo constar dicha circunstancia.
 
-El plazo a que se refiere el párrafo anterior, podrá ampliarse por un período igual, en los términos del artículo 112 de este Código.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Respecto de la revisión efectuada, las autoridades fiscales deberán notificar el oficio de observaciones, contando el contribuyente con un plazo de 20 días a partir de la fecha en que surta efectos dicha notificación, para desvirtuar los hechos u omisiones observadas.
+IV. No deberán transcurrir más de doce meses, de la fecha en que surta efectos la notificación del inicio de facultades de comprobación al Contador Público o al propio contribuyente, a la fecha en que se formule el oficio de observaciones.
+
+> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Respecto de la revisión efectuada a la documentación y/o informes requeridos al Contador Público o al contribuyente si no existieran hechos u omisiones observadas las autoridades fiscales dentro del plazo a que se refiere la fracción IV de este artículo, formularán oficio en el que se dé a conocer el resultado de la revisión. Asimismo, respecto a la revisión efectuada al contribuyente, las autoridades fiscales deberán notificar el oficio de observaciones, contando el contribuyente con un plazo de 20 días a partir de la fecha en que surta efectos dicha notificación, para desvirtuar los hechos u omisiones observadas.
 
 > <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -2220,6 +2330,22 @@ Los contribuyentes, transcurridos los plazos a que se refiere este artículo, po
 
 Los actos y resoluciones de las autoridades que se dicten en aplicación de este Código, se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente, a menos que la negativa implique la afirmación de otro hecho.
 
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o bien que consten en los expedientes o documentos que lleven o tengan en su poder las autoridades fiscales, así como aquéllos proporcionados por otras autoridades, podrán servir para motivar las resoluciones de las autoridades fiscales.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Cuando otras autoridades proporcionen expedientes o documentos a las autoridades fiscales conforme a lo dispuesto en el párrafo anterior, estas últimas deberán conceder a los contribuyentes un plazo de quince días, contado a partir de la fecha en la que les den a conocer tales expedientes o documentos, para manifestar por escrito lo que a su derecho convenga, lo cual formará parte del expediente administrativo correspondiente.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Las mencionadas autoridades estarán a lo dispuesto en el primer párrafo de este artículo, sin perjuicio de su obligación de guardar la reserva a que se refiere el artículo 124 de este Código.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Las copias, impresiones o reproducciones que deriven del microfilm, disco óptico, medios magnéticos, digitales, electrónicos o magneto ópticos de documentos que tengan en su poder las autoridades, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias, impresiones o reproducciones sean certificadas por funcionario competente para ello, sin necesidad de cotejo con los originales.
+
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 123.
@@ -2238,11 +2364,11 @@ IV. Ostentar la firma autógrafa del funcionario competente que lo emite y, en s
 
 Si se trata de actos administrativos que determinen la responsabilidad solidaria se señalará, además, la causa legal de la responsabilidad.
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 124.
 
-El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señale este Código y aquéllos en que deban suministrarse datos a los funcionarios encargados de la administración de la Hacienda Pública del Distrito Federal; a la Procuraduría Fiscal para efectos de procesos contenciosos administrativos, resolución de recursos, instauración de procedimientos de fincamiento de responsabilidad resarcitoria y presentación de denuncias o querellas de carácter penal; a los organismos encargados de la fiscalización del Gobierno del Distrito Federal, para efectos del desarrollo de auditorías a los procesos de revisión y actualización de padrones; al Ministerio Público en sus funciones de investigación y persecución del delito, a las autoridades judiciales en procesos del orden penal; a los tribunales competentes que conozcan de pensiones alimenticias o cuando la información deba proporcionarse en virtud de convenios de intercambio de información que la Secretaría suscriba. Dicha reserva, tampoco comprenderá la información relativa a los créditos fiscales exigibles de los contribuyentes, que las autoridades fiscales proporcionen a sus auxiliares o a particulares habilitados para la recuperación y cobro del adeudo.
+El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señale este Código y aquéllos en que deban suministrarse datos a los funcionarios encargados de la administración de la Hacienda Pública del Distrito Federal; a la Procuraduría Fiscal para efectos de procesos contenciosos administrativos, resolución de recursos, instauración de procedimientos de fincamiento de responsabilidad resarcitoria y presentación de denuncias o querellas de carácter penal; a los organismos encargados de la fiscalización del Gobierno del Distrito Federal, para efectos del desarrollo de auditorías a los procesos de revisión y actualización de padrones; al Ministerio Público en sus funciones de investigación y persecución del delito, a las autoridades judiciales en procesos del orden penal; a los Tribunales del Poder Judicial de la Federación, al Tribunal Superior de Justicia del Distrito Federal o cuando la información deba proporcionarse en virtud de convenios de intercambio de información que la Secretaría suscriba. Dicha reserva, tampoco comprenderá la información relativa a los créditos fiscales firmes o exigibles de los contribuyentes, que las autoridades fiscales puedan proporcionar a las Sociedades de Información Crediticia, autorizadas por la Secretaría de Hacienda y Crédito Público, o a sus auxiliares o a particulares habilitados para la recuperación y cobro del adeudo.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -2378,7 +2504,7 @@ Están obligadas al pago del Impuesto sobre Adquisición de Inmuebles, estableci
 
 El impuesto se calculará aplicando, sobre el valor total del inmueble la siguiente tarifa:
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 Rango Límite Límite Cuota Factor
 
@@ -2390,19 +2516,19 @@ excedente de
 
 Límite Inferior
 
-A $0.11 $69,218.98 $130.49 0.00000
+A $0.11 $73,531.32 $138.62 0.00000
 
-B 69,218.99 110,750.31 130.50 0.03163
+B $73,531.33 117,650.05 138.63 0.03163
 
-C 110,750.32 166,125.30 1,444.14 0.03261
+C 117,650.06 176,474.91 1,534.10 0.03261
 
-D 166,125.31 332,250.70 3,249.94 0.03261
+D 176,474.92 352,949.92 3,452.38 0.03261
 
-E 332,250.71 830,626.75 8,667.30 0.03696
+E 352,949.93 882,374.80 9,207.23 0.03696
 
-F 830,626.76 1,661,253.52 27,087.28 0.04565
+F 882,374.81 1,764,749.61 28,774.78 0.04565
 
-G 1,661,253.53 En adelante 65,005.41 0.04565
+G 1,764,749.62 En adelante 69,055.19 0.04565
 
 En caso de adquirirse una porción del inmueble, una vez obtenido el resultado de aplicar la tarifa señalada al valor total del inmueble, se aplicará a dicho resultado, el porcentaje que se adquiera.
 
@@ -2496,11 +2622,11 @@ d) En el acto en el que el fideicomitente transmita total o parcialmente los der
 
 e) En el acto en el que el fideicomisario designado ceda los derechos que tenga sobre los bienes afectos al fideicomiso, o dé instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos, se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones, y
 
-> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-f) En el acto en el que el fideicomitente afecte en fideicomiso un inmueble para ser destinado a un desarrollo inmobiliario, para transmitirlo todo o en partes a terceros, o con la finalidad de recibir alguna contraprestación.
+f). En el acto en el que el fideicomitente afecte en fideicomiso un inmueble para ser destinado a un desarrollo inmobiliario, para transmitirlo todo o en partes a terceros, o con la finalidad de recibir alguna contraprestación, no obstante que se haya reservado el derecho de readquirir.
 
-Cuando el fideicomitente que haya aportado el inmueble se reserve el derecho de reversión y ésta sea imposible por haber entregado en propiedad parte del desarrollo inmobiliario a otro fideicomisario distinto al fideicomitente aportante del inmueble o a un tercero, se considerará enajenado el bien aportado.
+> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 > <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
@@ -2684,15 +2810,13 @@ Cuando dicha adquisición opere en virtud de actos o contratos celebrados fuera 
 
 Están obligadas al pago del impuesto predial establecido en este Capítulo, las personas físicas y las morales que sean propietarias del suelo o del suelo y las construcciones adheridas a él, independientemente de los derechos que sobre las construcciones tenga un tercero. Los poseedores también estarán obligados al pago del impuesto predial por los inmuebles que posean, cuando no se conozca al propietario o el derecho de propiedad sea controvertible.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 24 DE DICIEMBRE DE 2004)</small>
-
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2001)</small>
 
 Los propietarios de los bienes a que se refiere el párrafo primero de este artículo y, en su caso, los poseedores, deberán determinar y declarar el valor catastral de sus inmuebles, aun en el caso de que se encuentren exentos del pago del impuesto predial.
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-La declaración a que se refiere el párrafo anterior, se presentará en los formatos oficiales aprobados ante las oficinas autorizadas, durante los dos primeros meses de cada año, así como en los supuestos y plazos a que se refiere el artículo 154 de este Código.
+La declaración a que se refiere el párrafo anterior, se presentará en los formatos oficiales aprobados ante las oficinas autorizadas, en los términos establecidos en el artículo 153 de este Código, así como en los supuestos y plazos a que se refiere el artículo 154 de este Código.
 
 > <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -2710,11 +2834,13 @@ Los datos catastrales o administrativos, cualesquiera que éstos sean, sólo pro
 
 La base del impuesto predial será el valor catastral determinado por los contribuyentes conforme a lo siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. A través de la determinación del valor de mercado del inmueble, incluyendo las construcciones a él adheridas, elementos accesorios, obras complementarias o instalaciones especiales, aun cuando un tercero tenga derecho sobre ellas, mediante la práctica de avalúo directo que comprenda las características e instalaciones particulares del inmueble, realizado por persona autorizada.
+I. A través de la determinación del valor de mercado del inmueble, que comprenda las características e instalaciones particulares de éste, incluyendo las construcciones a él adheridas, elementos accesorios, obras complementarias o instalaciones especiales, aún cuando un tercero tenga derecho sobre ellas, mediante la práctica de avalúo realizado por persona autorizada.
 
-La base del impuesto predial determinada mediante el avalúo directo a que se refiere el párrafo anterior, será válida para el año en que se realice el avalúo y para los dos siguientes, siempre que en cada uno de esos años subsiguientes el avalúo se actualice aplicándole un incremento porcentual igual a aquél en que se incrementen para ese mismo año los valores unitarios a que se refiere el artículo 151 de este Código.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+La base del impuesto predial, determinada mediante el avalúo a que se refiere el párrafo anterior, será válida en términos del primer párrafo del artículo 154 de este Código, tomando como referencia la fecha de presentación del avalúo y hasta por los dos ejercicios fiscales siguientes, siempre que en cada uno de los años subsiguientes ésta se actualice aplicándole un incremento porcentual igual a aquél en que se incrementen para ese mismo año los valores unitarios a que se refiere el artículo 151 de este Código.
 
 Sin embargo, los contribuyentes podrán optar por determinar y declarar el valor catastral de sus inmuebles aplicando a los mismos los valores unitarios a que se refiere el artículo 151 de este Código.
 
@@ -2762,7 +2888,7 @@ Las autoridades fiscales formularán las propuestas de determinación de valor a
 
 El Impuesto Predial se calculará por períodos bimestrales, aplicando al valor catastral la tarifa a que se refiere este artículo:
 
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 I. TARIFA.
 
@@ -2776,33 +2902,33 @@ II. Tratándose de inmuebles de uso habitacional, el impuesto que resulte a carg
 
 1. Los contribuyentes con inmuebles cuyo valor catastral se ubique en los rangos A, B, C y D, pagarán la cuota fija de:
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 Rango Cuota
 
-A $30.00
+A $32.00
 
-B 35.00
+B 37.00
 
-C 42.00
+C 45.00
 
-D 52.00
+D 55.00
 
 2. Los inmuebles cuyo valor catastral se encuentre comprendido en los rangos marcados con las demás literales de la tarifa mencionada, será reducido en los porcentajes que a continuación se mencionan:
 
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 Rango Porcentaje
 
 de Descuento
 
-A 00.00
+A 0.00
 
-B 00.00
+B 0.00
 
-C 00.00
+C 0.00
 
-D 00.00
+D 0.00
 
 E 65.00
 
@@ -2834,9 +2960,9 @@ IV. Tratándose de los inmuebles que a continuación se mencionan, los contribuy
 
 1. Del 80% los dedicados a usos agrícola, pecuario, forestal, de pastoreo controlado, ubicados en la zona primaria designada para la protección o conservación ecológica; para lo cual deberá presentar una constancia de dicho uso, emitida por la Secretaría del Medio Ambiente, durante el ejercicio fiscal que corresponda, y
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-2. Del 25% los ubicados en zonas en las que los Programas Delegacionales o Parciales del Distrito Federal determinen intensidades de uso, conforme a las cuales la proporción de las construcciones cuya edificación se autorice, resulte inferior a un 10% de la superficie total del terreno; siempre y cuando no los destine a fines lucrativos, para lo cual durante el ejercicio fiscal que corresponda deberá presentar ante la Administración Tributaria en que se trate, una constancia expedida por la delegación con la que se acredite que el inmueble se ubica en este supuesto y manifestar bajo protesta de decir verdad que éste no se destina a fines de carácter lucrativo.
+2. Del 50% los ubicados en zonas en las que los Programas Delegacionales o Parciales del Distrito Federal determinen intensidades de uso, conforme a las cuales la proporción de las construcciones cuya edificación se autorice, resulte inferior a un 10% de la superficie total del terreno; siempre y cuando no los destine a fines lucrativos, para lo cual durante el ejercicio fiscal que corresponda deberá presentar ante la Administración Tributaria en que se trate, una constancia expedida por la Secretaría del Medio Ambiente con la que se acredite que el inmueble se ubica en este supuesto y manifestar bajo protesta de decir verdad que éste no se destina a fines de carácter lucrativo.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -2858,9 +2984,9 @@ El pago del impuesto predial deberá hacerse en forma bimestral, durante los mes
 
 Cuando los contribuyentes cumplan con la obligación de pagar el impuesto predial en forma anticipada, tendrán derecho a una reducción, en los términos siguientes:
 
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Del 7%, cuando se efectúe el pago de los seis bimestres, a más tardar el último día del mes de enero del año que se cubra;
+I. Del 8%, cuando se efectúe el pago de los seis bimestres, a más tardar el último día del mes de enero del año que se cubra;
 
 > <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -2868,7 +2994,7 @@ II. Del 4%, cuando se efectúe el pago de los seis bimestres, a más tardar el �
 
 III. (DEROGADA, G.O. 27 DE DICIEMBRE DE 2007)
 
-Este porcentaje de reducción, también se otorgará por los bimestres que se paguen por anticipado.
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 154.
 
@@ -2880,21 +3006,25 @@ En el supuesto de que el contribuyente hubiere optado por pagar el impuesto pred
 
 La autoridad fiscal otorgará al contribuyente las facilidades necesarias para la presentación de la declaración a que se refiere el párrafo anterior.
 
-En el caso de fraccionamientos de inmuebles, el impuesto se causará por cada fracción que resulte, a partir del bimestre siguiente a aquél en que se autorice su constitución.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Tratándose de subdivisión o fusión de inmuebles, el impuesto se causará a partir del bimestre siguiente a aquél en que se autorice la subdivisión o fusión.
+En el caso de fraccionamientos de inmuebles, el impuesto se causará por cada fracción que resulte, a partir del bimestre siguiente a aquél en que se formalice la escritura respectiva, misma que deberá ser presentada ante la autoridad competente en un plazo que no excederá de los 30 días hábiles siguientes a su formalización.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Tratándose de subdivisión o fusión de inmuebles, el impuesto se causará a partir del bimestre siguiente a aquél en que se formalice la escritura respectiva, misma que deberá ser presentada ante la autoridad competente en un plazo que no excederá de los 30 días hábiles siguientes a su formalización.
 
 > <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
 Para el caso de inmuebles en proceso de construcción, el valor catastral que servirá de base para calcular el impuesto predial a pagar, se determinará a partir de la clasificación que de dichos inmuebles se efectúe, tomando como base los datos proporcionados en la manifestación de construcción respectiva.
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Para tales efectos, el uso, rango y la clase de la construcción se definirán por las características y datos contenidos en la manifestación respectiva, definiendo así los datos catastrales conforme a los cuales se calculará el valor de la construcción, considerando solamente el 50% de la superficie de construcción total registrada en la manifestación respectiva, durante los bimestres que abarquen el tiempo de vigencia de tal manifestación o de las ampliaciones correspondientes, aplicando las tablas de valores unitarios de construcción vigentes en el ejercicio fiscal que corresponda. A lo anterior, se le adicionará el valor del suelo determinado conforme a las tablas de valores unitarios de suelo vigentes.
+Para tales efectos, el uso, rango y la clase de la construcción se definirán por las características y datos contenidos en la manifestación respectiva, definiendo así los datos catastrales conforme a los cuales se calculará el valor de la construcción, considerando solamente el 25% de la superficie de construcción total registrada en la manifestación respectiva, durante los bimestres que abarquen el tiempo de vigencia de tal manifestación o de las ampliaciones correspondientes, aplicando las tablas de valores unitarios de construcción vigentes en el ejercicio fiscal que corresponda. A lo anterior, se le adicionará el valor del suelo determinado conforme a las tablas de valores unitarios de suelo vigentes.
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-En relación con el párrafo anterior, para el caso en que se suspenda o interrumpa el proceso de construcción de la obra respectiva por más de un bimestre, se deberá presentar ante la autoridad fiscal la manifestación correspondiente debidamente justificada, anexándola a la declaración que corresponda al bimestre siguiente a aquel en que se presente esta circunstancia y hasta que la misma desaparezca. En este supuesto, se determinará el valor real que corresponda a la construcción, debiendo dar aviso a dicha autoridad cuando se reanude la ejecución de la obra, en el bimestre siguiente al en que esto suceda, en cuyo caso se volverá a calcular el valor de la construcción considerando solamente el 50% de la superficie de construcción total registrada en la manifestación respectiva.
+En relación con el párrafo anterior, para el caso en que se suspenda o interrumpa el proceso de construcción de la obra respectiva por más de un bimestre, se deberá presentar ante la autoridad fiscal la manifestación correspondiente debidamente justificada, anexándola a la declaración que corresponda al bimestre siguiente a aquel en que se presente esta circunstancia y hasta que la misma desaparezca. En este supuesto, se determinará el valor real que corresponda a la construcción, debiendo dar aviso a dicha autoridad cuando se reanude la ejecución de la obra, en el bimestre siguiente al en que esto suceda, en cuyo caso se volverá a calcular el valor de la construcción considerando solamente el 25% de la superficie de construcción total registrada en la manifestación respectiva.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -2922,11 +3052,13 @@ V. Los de propiedad de Organismos Internacionales de los que el Estado Mexicano 
 
 VI. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Anualmente deberá solicitarse a la autoridad fiscal la declaratoria de exención del Impuesto Predial, y acreditar con documentación actualizada que el inmueble sigue ubicándose en alguno de los supuestos de exención previstos en el presente artículo.
+Los contribuyentes deberán solicitar a la autoridad fiscal la declaratoria de exención del Impuesto Predial, así como la revalidación anual correspondiente, acreditando que el inmueble se encuentra en alguno de los supuestos de exención previstos en el presente artículo, de conformidad con los lineamientos que para tal efecto emita la Secretaría.
 
-> <small>(DEROGADO ULTIMO PARRAFO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+La autoridad podrá en todo momento ejercer las facultades de inspección, fiscalización y verificación, para confirmar que el inmueble cumple con los requisitos establecidos en los citados lineamientos.
 
 (REUBICADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -3110,9 +3242,13 @@ III. Llevar contabilidad en registro específico de las operaciones relativas a 
 
 IV. Retener el impuesto que corresponda a los premios obtenidos y enterarlo el día 20 de cada mes en la declaración provisional a que se refiere la fracción I de este artículo;
 
-V. Proporcionar, cuando así lo solicite el interesado, constancia de retención del impuesto a la persona que obtenga el premio;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VI. Proporcionar, cuando así lo solicite el interesado, constancia de ingreso por los premios por los que no se está obligado al pago del impuesto en los términos de este Capítulo;
+V. Proporcionar constancia de retención del impuesto a la persona que obtenga el premio;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+VI. Proporcionar constancia de ingreso por los premios por los que no se está obligado al pago del impuesto en los términos de este Capítulo;
 
 > <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -3240,7 +3376,9 @@ I. Quienes por cualquier título, adquieran la propiedad, tenencia o uso del veh
 
 II. Quienes reciban en consignación o comisión, para su enajenación, los vehículos a que se refiere este Capítulo, hasta por el monto del impuesto que se hubiese dejado de pagar, y
 
-III. Las personas que en ejercicio de sus funciones, autoricen altas o cambio de placas, sin cerciorarse del pago del impuesto.
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+III. Las personas que en ejercicio de sus funciones, autoricen altas o cambio de placas, sin cerciorarse del pago del impuesto, relativo a los últimos cinco años.
 
 > <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -3248,33 +3386,33 @@ III. Las personas que en ejercicio de sus funciones, autoricen altas o cambio de
 
 El Impuesto sobre Tenencia o Uso de Vehículos, se determinará como sigue:
 
-I. En caso de vehículos de uso particular hasta de diez pasajeros, la determinación se hará atendiendo el cilindraje del motor, conforme a lo siguiente:
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 27 DE DICIEMBRE DE 2007)</small>
+I. En caso de vehículos de uso particular hasta de quince pasajeros, la determinación se hará atendiendo el cilindraje del motor, conforme a lo siguiente:
 
 CILINDRAJE CUOTA $
 
-Hasta 4 $224.00
+Hasta 4 $238.00
 
-De 6 672.00
+De 6 714.00
 
-De 8 o más 838.00
+De 8 o más 890.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. En el caso de vehículos importados al país, de año o modelo posterior a 1964, pagarán una cuota de $1,528.00, los demás pagarán conforme a la cuota señalada en la fracción anterior;
+II. En el caso de vehículos importados al país, de año o modelo posterior a 1964, pagarán una cuota de $1,623.00, los demás pagarán conforme a la cuota señalada en la fracción anterior;
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. En caso de motocicletas, se pagará una cuota de $280.00;
+III. En caso de motocicletas, se pagará una cuota de $297.00;
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. En el caso de vehículos destinados al transporte público de pasajeros, se pagará una cuota de $698.00, y
+IV. En el caso de vehículos destinados al transporte público de pasajeros, se pagará una cuota de $742.00, y
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-V. En el caso de vehículos de carga con placas de carga o de servicio particular, se pagará una cuota de $136.00 por cada tonelada de capacidad de carga o de arrastre.
+V. En el caso de vehículos de carga con placas de carga o de servicio particular, se pagará una cuota de $144.00 por cada tonelada o fracción de capacidad de carga o de arrastre.
 
 El Impuesto sobre Tenencia o Uso de Vehículos se pagará mediante declaración en la forma oficial aprobada, dentro de los primeros cuatro meses de cada año conjuntamente con los derechos por servicio de control vehicular. Cuando se tramite el alta en el Distrito Federal de un vehículo matriculado en otra entidad federativa o por la Federación y ésta se realice en el segundo, tercero o cuarto trimestre del año, se cubrirá el 75%, 50% o 25% de las cuotas señaladas en este artículo, respectivamente.
 
@@ -3286,9 +3424,13 @@ No pagarán el impuesto, en los términos de este Capítulo, los vehículos del 
 
 Se aplicarán en forma supletoria a las disposiciones de este Capítulo, las contenidas en la Ley del Impuesto sobre Tenencia o Uso de Vehículos.
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Los vehículos eléctricos destinados al transporte de pasajeros y vehículos de carga de servicio público o privado tendrán una reducción del 100% en el pago del Impuesto sobre Tenencia o Uso de Vehículos sin perjuicio de las obligaciones que en su caso les correspondan conforme a lo establecido en la Ley del Impuesto sobre Tenencia o Uso de Vehículos.
+Pagarán la tarifa de la fracción II, los vehículos importados de las fracciones I, IV y V de este artículo, exceptuando a los vehículos eléctricos o eléctricos con motor de combustión interna (híbridos).
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Los vehículos eléctricos o eléctricos que además cuenten con motor de combustión interna (híbridos) tendrán una reducción del 100% en el pago del Impuesto sobre Tenencia o Uso de Vehículos sin perjuicio de las obligaciones que en su caso les correspondan conforme a lo establecido en la Ley del Impuesto sobre Tenencia o Uso de Vehículos.
 
 > <small>(REFORMADO Y REUBICADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -3428,7 +3570,7 @@ I. En caso de que se encuentre instalado o autorizado el medidor por parte del S
 
 a). Tratándose de tomas de uso doméstico, que para efectos de este Código son las que se encuentren instaladas en inmuebles de uso habitacional, el pago de los derechos correspondientes se hará conforme al volumen de consumo medido en el bimestre, de acuerdo a la siguiente:
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 29 DE DICIEMBRE 2008)</small>
 
 Consumo en m3 Tarifa
 
@@ -3438,37 +3580,37 @@ Inferior Superior Mínima por m3 excedente
 
 al límite inferior
 
-0 10 $15.64 $0.00
+0 10 $16.61 $0.00
 
-MAYOR A 10 20 15.64 1.79
+MAYOR A 10 20 16.61 1.90
 
-MAYOR A 20 30 33.54 3.38
+MAYOR A 20 30 35.63 3.59
 
-MAYOR A 30 50 67.34 6.65
+MAYOR A 30 50 71.54 7.06
 
-MAYOR A 50 70 200.34 9.65
+MAYOR A 50 70 212.82 10.25
 
-MAYOR A 70 90 393.34 14.97
+MAYOR A 70 90 417.85 15.90
 
-MAYOR A 90 120 692.74 18.37
+MAYOR A 90 120 735.90 19.51
 
-MAYOR A 120 180 1,243.84 24.31
+MAYOR A 120 180 1,321.33 25.82
 
-MAYOR A 180 240 2,702.44 29.34
+MAYOR A 180 240 2,870.80 31.17
 
-MAYOR A 240 420 4,462.84 37.47
+MAYOR A 240 420 4,740.87 39.80
 
-MAYOR A 420 660 11,207.44 39.40
+MAYOR A 420 660 11,905.66 41.85
 
-MAYOR A 660 960 20,663.44 41.10
+MAYOR A 660 960 21,950.77 43.66
 
-MAYOR A 960 1500 32,993.44 42.62
+MAYOR A 960 1500 35,048.93 45.28
 
-MAYOR A 1500 En adelante 56,008.24 43.99
+MAYOR A 1500 En adelante 59,497.55 46.73
 
 b). Las tomas de agua instaladas en inmuebles distintos a los señalados en el inciso anterior, se considerarán como de uso no doméstico para efectos de este Código y el pago de los derechos correspondientes, se hará conforme al volumen de consumo medido en el bimestre, de acuerdo a la siguiente:
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 29 DE DICIEMBRE 2008)</small>
 
 Consumo en m3 Tarifa
 
@@ -3478,29 +3620,29 @@ Inferior Superior Mínima por m3 excedente
 
 al límite inferior
 
-0 10 $93.92 $0.00
+0 10 $99.77 $0.00
 
-MAYOR A 10 20 93.92 9.39
+MAYOR A 10 20 99.77 9.97
 
-MAYOR A 20 30 187.82 19.39
+MAYOR A 20 30 199.52 20.60
 
-MAYOR A 30 60 381.74 25.24
+MAYOR A 30 60 405.50 26.81
 
-MAYOR A 60 90 1,139.03 29.39
+MAYOR A 60 90 1,209.87 31.22
 
-MAYOR A 90 120 2,020.86 32.61
+MAYOR A 90 120 2,146.50 34.64
 
-MAYOR A 120 240 2,999.28 35.25
+MAYOR A 120 240 3,185.75 37.45
 
-MAYOR A 240 420 7,228.69 37.47
+MAYOR A 240 420 7,679.28 39.80
 
-MAYOR A 420 660 13,973.20 39.40
+MAYOR A 420 660 14,844.07 41.85
 
-MAYOR A 660 960 23,428.32 41.10
+MAYOR A 660 960 24,889.18 43.66
 
-MAYOR A 960 1500 35,757.11 42.62
+MAYOR A 960 1500 37,987.34 45.28
 
-MAYOR A 1500 En adelante 58,769.91 43.99
+MAYOR A 1500 En adelante 62,435.96 46.73
 
 Las autoridades fiscales determinarán el consumo de agua por medio de la lectura de los aparatos medidores, con base al promedio del consumo diario resultante de las dos lecturas más recientes con antigüedad no mayor de un año.
 
@@ -3510,7 +3652,7 @@ a). Tratándose de tomas de uso doméstico, se pagará el derecho considerando e
 
 Para tal efecto, se considerarán las colonias catastrales con base en la clasificación y características que señale la Asamblea para fines de la determinación de los valores unitarios del suelo, construcciones e instalaciones especiales, de acuerdo a lo dispuesto por el artículo 151 de este Código.
 
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE 2007)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 29 DE DICIEMBRE 2008)</small>
 
 Tipo de colonia catastral Cuota bimestral
 
@@ -3520,15 +3662,15 @@ y esté instalada una toma
 
 de agua
 
-0 $48.00
+0 $51.00
 
-1 70.00
+1 74.00
 
-2, 3 y 8 90.00
+2, 3 y 8 96.00
 
-4, 5 y 7 400.00
+4, 5 y 7 425.00
 
-6 800.00
+6 850.00
 
 Los inmuebles ubicados en
 
@@ -3542,55 +3684,91 @@ con la literal "M" a la "P" de la
 
 tarifa establecida en la fracción I
 
-del artículo 152 de este Código. 1,636.11
+del artículo 152 de este Código. 1,738.00
 
 El Sistema de Aguas publicará en la Gaceta Oficial del Distrito Federal, las listas de las colonias catastrales que vayan contando con un 70% o más de tomas con medidor instalado.
 
 b). En el caso de tomas de agua consideradas para efectos de este Código como de uso no doméstico, se pagará una cuota fija bimestral, considerando el diámetro de la toma, conforme a la siguiente:
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 27 DE DICIEMBRE 2007)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 29 DE DICIEMBRE 2008)</small>
 
 Diámetro de la Cuota bimestral
 
 toma en milímetros expresada en pesos
 
-13 $883.72
+13 $939.00
 
-MAS DE 13 A 15 5,921.68
+MAS DE 13 A 15 6,291.00
 
-MAS DE 15 A 19 9,689.22
+MAS DE 15 A 19 10,293.00
 
-MAS DE 19 A 26 18,839.28
+MAS DE 19 A 26 20,013.00
 
-MAS DE 26 A 32 29,068.34
+MAS DE 26 A 32 30,879.00
 
-MAS DE 32 A 39 42,525.72
+MAS DE 32 A 39 45,175.00
 
-MAS DE 39 A 51 75,361.73
+MAS DE 39 A 51 80,057.00
 
-MAS DE 51 A 64 113,040.51
+MAS DE 51 A 64 120,083.00
 
-MAS DE 64 A 76 161,487.52
+MAS DE 64 A 76 171,548.00
 
-MAS DE 76 A 102 328,356.52
+MAS DE 76 A 102 348,813.00
 
-MAS DE 102 A 150 1,259,602.06
+MAS DE 102 A 150 1,338,075.00
 
-MAS DE 150 A 200 1,970,144.38
+MAS DE 150 A 200 2,092,884.00
 
-MAS DE 200 A 250 2,404,160.53
+MAS DE 200 A 250 2,553,940.00
 
-MAS DE 250 A 300 2,836,791.94
+MAS DE 250 A 300 3,013,524.00
 
 MAS DE 300
 
-EN ADELANTE 3,009,047.94
+EN ADELANTE 3,196,512.00
 
 > <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
 La autoridad fiscal, a solicitud del contribuyente, recibirá los pagos bimestrales de los derechos a que se refiere esta fracción, con el carácter de provisionales, debiendo efectuarse los ajustes correspondientes cuando el aparato medidor se instale, repare o posibilite su lectura, a partir de la fecha en que se hubiere solicitado su instalación, reparación o lectura, ya sea para que los contribuyentes cubran la diferencia que resulte a su cargo o bien para que puedan acreditar contra pagos posteriores la cantidad que pagaron de más.
 
-III. A los usuarios del servicio de agua potable con uso doméstico y no doméstico simultáneamente, que cuenten con medidor, se les aplicará la tarifa doméstica para los primeros 70 m3 que consuman y por cada metro cúbico adicional se le aplicará la tarifa no doméstica.
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+III. A los usuarios del servicio de agua potable con uso doméstico y no doméstico simultáneamente, que cuenten con medidor, el pago de los derechos correspondientes se hará conforme al volumen de consumo medido en el bimestre, de acuerdo a la siguiente:
+
+Consumo en m3 Tarifa
+
+Límite Límite Cuota Cuota Adicional
+
+Inferior Superior Mínima por m3 excedente
+
+al límite inferior
+
+0 10 $16.61 $0.00
+
+MAYOR A 10 20 16.61 1.90
+
+MAYOR A 20 30 35.63 3.59
+
+MAYOR A 30 50 71.53 7.06
+
+MAYOR A 50 70 212.82 10.25
+
+MAYOR A 70 90 417.84 31.22
+
+MAYOR A 90 120 1,042.26 34.64
+
+MAYOR A 120 240 2,081.51 37.45
+
+MAYOR A 240 420 6,575.04 39.80
+
+MAYOR A 420 660 13,739.83 41.85
+
+MAYOR A 660 960 23,784.94 43.66
+
+MAYOR A 960 1500 36,883.09 45.28
+
+MAYOR A 1500 En adelante 61,331.72 46.73
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -3600,15 +3778,15 @@ Las personas físicas y las morales que usen o aprovechen agua residual o residu
 
 I. Tratándose de agua potable:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). De tomas de válvula de tipo cuello de garza $26.00 por m3.
+a). De tomas de válvula de tipo cuello de garza $28.00 por m3.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Cuando se surta en camiones cisternas para su comercialización incluyendo transporte en el Distrito Federal $69.00 por m3.
+b). Cuando se surta en camiones cisternas para su comercialización incluyendo transporte en el Distrito Federal $73.00 por m3.
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA [N. DE E. REPUBLICADA], G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 II. Agua residual $2.00 por m3.
 
@@ -3746,9 +3924,9 @@ II. Conservar los aparatos medidores y sus aditamentos en condiciones adecuadas 
 
 III. Dar aviso por escrito a las autoridades competentes de las descomposturas y fallas de su medidor y sus aditamentos o de sus situaciones que impidan su lectura, dentro del bimestre en que ello ocurra;
 
-> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Permitir el acceso a las personas autorizadas para la instalación y verificación de tomas y medidores; para la adecuación y corrección de tomas; para efectuar y verificar la lectura del aparato medidor;
+IV. Permitir el acceso a las personas autorizadas, así como al personal habilitado por la autoridad competente, para la instalación, verificación o inspección de tomas y medidores; para la adecuación y corrección de tomas; para efectuar y verificar la lectura del aparato medidor;
 
 > <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -3776,7 +3954,11 @@ X. Tratándose de tomas de agua de uso no doméstico, o doméstico en que se hay
 
 > <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
-XI. Pagar oportunamente los derechos derivados de los servicios por suministro de agua y/o de descarga a la red de drenaje.
+XI. Pagar oportunamente los derechos derivados de los servicios por suministro de agua y/o de descarga a la red de drenaje;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+XII. Renovar el aparato medidor cuando éste haya superado los siete años de servicio, lo cual deberá solicitar al Sistema de Aguas.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -3794,9 +3976,13 @@ Para el caso de que tengan ambos usos doméstico y no doméstico, el Sistema de 
 
 Igualmente, queda obligado dicho órgano para suspender el servicio, cuando se comprueben modificaciones o manipulaciones a los ramales de las tuberías de distribución; se comercialice el agua suministrada por el Distrito Federal a través de tomas conectadas a la red pública, sin autorización; se empleen mecanismos para succionar agua de las tuberías de distribución o bien, se destruyan, alteren o inutilicen los aparatos medidores. Cuando se comprueben tomas o derivaciones no autorizadas o con uso distinto al manifestado, previo requerimiento al contribuyente para acredite (sic) la legal instalación y funcionamiento de la toma, se procederá a supresión de la misma.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Asimismo, el Sistema de Aguas podrá suspender los servicios hidráulicos a inmuebles de usos no domésticos; o bien restringirlos a la cantidad necesaria para satisfacer los requerimientos básicos, tratándose de inmuebles de uso doméstico, en los casos en que la autoridad haya determinado importes adicionales a pagar por parte de los contribuyentes y que los mismos omitan el pago en los plazos indicados, esto sin perjuicio de las sanciones a que hace referencia la Ley de Aguas del Distrito Federal.
+Asimismo, el Sistema de Aguas podrá suspender los servicios hidráulicos a inmuebles de uso no doméstico o bien suspenderlo o restringirlos a la cantidad necesaria para satisfacer los requerimientos básicos, tratándose de inmuebles de uso doméstico, en los casos en que la autoridad haya determinado importes adicionales a pagar por parte de los contribuyentes y que los mismos omitan el pago en los plazos indicados, esto sin perjuicio de las sanciones a que hace referencia la Ley de Aguas del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Tratándose de inmuebles que cuenten con servicio de agua potable con uso doméstico y no doméstico simultáneamente, la suspensión o restricción se aplicará de conformidad con lo dispuesto en la Ley de Aguas del Distrito Federal.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2006)</small>
 
@@ -3826,323 +4012,381 @@ ARTICULO 199 BIS.- El 1% de los Derechos por la Prestación de servicios por el 
 
 Por los servicios de evaluación de impacto ambiental, dictamen técnico y fuentes móviles, que efectúe la autoridad competente en los términos de la legislación correspondiente, se pagarán las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Por la verificación del informe preventivo de impacto ambiental $1,663.00
+I. Por la verificación del informe preventivo de impacto ambiental $3,626.00
 
 II. Por la evaluación de la manifestación de impacto ambiental:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). En su modalidad general $1,938.00
+a). En su modalidad general $4,224.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). En su modalidad específica $3,870.00
+b). En su modalidad específica $6,433.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Por la evaluación del estudio de riesgo ambiental $5,306.00
+III. Por la evaluación del estudio de riesgo ambiental $11,565.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Por el dictamen técnico sobre daños ambientales o lesiones, daños y perjuicios ocasionados a personas, por infracciones a la Ley o al Reglamento de la materia $3,392.00
+IV. Por el dictamen técnico sobre daños ambientales o lesiones, daños y perjuicios ocasionados a personas, por infracciones a la Ley o al Reglamento de la materia $6,404.00
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-V. Por la certificación, acreditación y autorización a personas físicas y/o morales para la comercialización y/o instalación de sistemas, equipos y dispositivos de control de emisiones $3,860.00
+V. Por la certificación, acreditación y autorización a personas físicas y/o morales para la comercialización y/o instalación de sistemas, equipos y dispositivos de control de emisiones $4,101.00
 
-a). Para el caso de las renovaciones anuales de certificación, acreditación y autorización serán de $964.00
+a). Para el caso de las renovaciones anuales de certificación, acreditación y autorización serán de $1024.00
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 201.
 
-Por los servicios de verificación obligatoria, de reposición o canje de certificado o de la calcomanía sobre emisión de contaminantes, se pagarán derechos, conforme a lo siguiente:
-
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
-
-I. Vehículos con motor a gasolina $130.00
-
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
-
-II. Vehículos con motor a diesel $383.00
-
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
-
-III. Por el canje o reposición del certificado, así como de la calcomanía de verificación vehicular, relativos a la emisión de contaminantes $64.00
+Por el canje o reposición del certificado, así como de la calcomanía de verificación vehicular, relativos a la emisión de contaminantes se pagarán derechos por: $68.00
 
 (REUBICADA, G.O. 26 DE DICIEMBRE DE 2003)
 
 #### Sección Tercera. De los Servicios de Construcción y Operación Hidráulica
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 202.
 
-Por la instalación, reconstrucción, reducción o cambio de lugar de tomas para suministrar agua potable o agua residual tratada y su conexión a las redes de distribución del servicio público, así como por la instalación de derivaciones o ramales o de albañales para su conexión a las redes de desalojo, se pagará el derecho respectivo conforme a lo siguiente:
+Por la instalación, reconstrucción, reducción o cambio de lugar de tomas para suministrar agua potable o agua residual tratada y su conexión a las redes de distribución del servicio público, así como por la instalación de derivaciones o ramales o de albañales para su conexión a las redes de desalojo, se pagará el derecho respectivo conforme a los Apartados A y B de este artículo.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Previa la autorización de los servicios señalados en el párrafo anterior, el contribuyente deberá estar al corriente en el pago de los derechos por suministro de agua y descarga a la red de drenaje.
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 APARTADO A: AGUA POTABLE Y RESIDUAL TRATADA
 
 I. Conexión de tomas domiciliarias de agua potable y agua residual tratada, en terrenos tipo I y II, con los diámetros que se especifican:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). 13 mm $5,760.00
+a). 13 mm $6,119.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). 19 mm $6,376.00
+b). 19 mm $6,773.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). 25 mm $7,211.00
+c). 25 mm $7,660.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-d). 32 mm $8,017.00
+d). 32 mm $8,517.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-e). 38 mm $9,675.00
+e). 38 mm $10,278.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-f). 51 mm $11,768.00
+f). 51 mm $12,501.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-g). 64 mm $13,060.00
+g). 64 mm $13,874.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-h). 76 mm $15,040.00
+h). 76 mm $15,977.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-i). 102 mm $17,663.00
+i). 102 mm $18,764.00
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+j). 152 mm $20,745.00
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+k). 202 mm $23,027.00
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+l). 252 mm $25,560.00
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+m). 302 mm $28,372.00
 
 II. Conexión de tomas domiciliarias de agua potable y agua residual tratada, en terrenos tipo III, con los diámetros que se especifican:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). 13 mm $10,149.00
+a). 13 mm $10,782.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). 19 mm $10,758.00
+b). 19 mm $11,429.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). 25 mm $11,600.00
+c). 25 mm $12,323.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-d). 32 mm $12,406.00
+d). 32 mm $13,179.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-e). 38 mm $14,796.00
+e). 38 mm $15,718.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-f). 51 mm $16,889.00
+f). 51 mm $17,942.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-g). 64 mm $18,181.00
+g). 64 mm $19,314.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-h). 76 mm $20,892.00
+h). 76 mm $22,194.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-i). 102 mm $23,515.00
+i). 102 mm $24,981.00
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+j). 152 mm $27,618.00
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+k).202 mm $30,656.00
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+l). 252 mm $34,028.00
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+m). 302 mm $37,772.00
 
 III. Instalación de medidor, atendiendo al diámetro:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). 13 mm $2,215.00
+a). 13 mm $2,353.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). 19 mm $2,676.00
+b). 19 mm $2,843.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). 25 mm $3,624.00
+c). 25 mm $3,850.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-d). 32 mm $5,727.00
+d). 32 mm $6,084.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-e). 38 mm $7,531.00
+e). 38 mm $8,000.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-f). 51 mm $11,332.00
+f). 51 mm $12,038.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-g). 64 mm $12,912.00
+g). 64 mm $13,717.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-h). 76 mm $14,371.00
+h). 76 mm $15,267.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-i). 102 mm $20,070.00
+i). 102 mm $21,321.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-j). 152 mm $58,692.00
+j). 152 mm $62,350.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-k). 202 mm $64,246.00
+k). 202 mm $68,250.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-l). 252 mm $85,765.00
+l). 252 mm $91,111.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-m). 302 mm $102,918.00
+m). 302 mm $109,333.00
 
 IV. Armado de cuadro, atendiendo al diámetro:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). 13 mm $462.00
+a). 13 mm $491.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). 19 mm $518.00
+b). 19 mm $550.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). 25 mm $757.00
+c). 25 mm $804.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-d). 32 mm $1,313.00
+d). 32 mm $1,395.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-e). 38 mm $1,692.00
+e). 38 mm $1,797.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-f). 51 mm $2,482.00
+f). 51 mm $2,637.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-g). 64 mm $17,201.00
+g). 64 mm $18,273.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-h). 76 mm $23,155.00
+h). 76 mm $24,598.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-i). 102 mm $32,178.00
+i). 102 mm $34,184.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-j). 152 mm $44,483.00
+j). 152 mm $47,256.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-k). 202 mm $71,904.00
+k). 202 mm $76,386.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-l). 252 mm $103,580.00
+l). 252 mm $110,036.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-m). 302 mm $124,296.00
+m). 302 mm $132,043.00
 
 V. Reconstrucción o cambio de diámetro de conexiones de agua potable o de agua residual tratada, en terrenos tipo I y II, conforme a los siguientes diámetros:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). 13 mm $6,400.00
+a). 13 mm $6,799.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). 19 mm $7,084.00
+b). 19 mm $7,526.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). 25 mm $8,012.00
+c). 25 mm $8,511.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-d). 32 mm $8,931.00
+d). 32 mm $9,488.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-e). 38 mm $10,750.00
+e). 38 mm $11,420.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-f). 51 mm $13,076.00
+f). 51 mm $13,891.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-g). 64 mm $14,511.00
+g). 64 mm $15,415.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-h). 76 mm $16,711.00
+h). 76 mm $17,753.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-i). 102 mm $19,626.00
+i). 102 mm $20,849.00
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+j). 152 mm $27,694.00
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+k). 202 mm $34,624.00
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+l). 252 mm $41,554.00
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+m). 302 mm $48,484.00
 
 VI. Reconstrucción o cambio de diámetro de conexiones de agua potable y de agua residual tratada, en terreno tipo III, conforme a los siguientes diámetros:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). 13 mm $11,277.00
+a). 13 mm $11,980.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). 19 mm $11,953.00
+b). 19 mm $12,698.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). 25 mm $12,889.00
+c). 25 mm $13,692.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-d). 32 mm $13,784.00
+d). 32 mm $14,643.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-e). 38 mm $16,440.00
+e). 38 mm $17,465.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-f). 51 mm $18,766.00
+f). 51 mm $19,936.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-g). 64 mm $20,201.00
+g). 64 mm $21,460.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-h). 76 mm $23,214.00
+h). 76 mm $24,661.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-i). 102 mm $26,128.00
+i). 102 mm $27,757.00
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+j). 152 mm $35,432.00
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+k). 202 mm $43,219.00
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+l). 252 mm $51,010.00
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+m). 302 mm $58,799.00
 
 > <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -4150,145 +4394,149 @@ VII. Reinstalación de Servicio Hidráulico
 
 A. Diámetros de 13 a 38 mm
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Por Cuadro $733.00
+a). Por Cuadro $779.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Por Banqueta $2,720.00
+b). Por Banqueta $2,890.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). Por Arroyo $5,440.00
+c). Por Arroyo $5,779.00
 
 B. Diámetros mayores a 38 mm
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Por cuadro $733.00
+a). Por cuadro $779.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Por Banqueta $4,643.00
+b). Por Banqueta $4,932.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). Por Arroyo $9,286.00
+c). Por Arroyo $9,865.00
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
 Además, en los predios en que exista más de un usuario, que se sirvan de una misma toma, cada usuario deberá cubrir los derechos de la instalación de medidor y del armado de cuadro en el caso en que no cuente con dicho cuadro o el armado sea incorrecto, en el diámetro que le corresponda, de acuerdo con las cuotas establecidas.
 
-> <small>(ADICIONADO, G.O. 22 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-El pago de los derechos por instalación de medidor a que se refiere la fracción III del Apartado A de este artículo, podrá realizarse a plazos, ya sea diferido o en parcialidades, en términos del artículo 67 de este Código, procediendo en este caso la instalación de medidor.
+El pago de los derechos por instalación de medidor y por armado de cuadro a que se refieren las fracciones III y IV del Apartado A de este artículo, podrá realizarse a plazos, ya sea diferido o en parcialidades, en términos del artículo 67 de este Código, procediendo en este caso la instalación de medidor y el armado del cuadro una vez cubierta la primera parcialidad autorizada.
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 APARTADO B: DRENAJE
 
 I. Conexión de descargas domiciliarias, en terrenos tipo I y II, con los diámetros siguientes:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). 15 cm $9,759.00
+a). 15 cm $10,367.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). 20 cm $9,786.00
+b). 20 cm $10,396.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). 25 cm $10,832.00
+c). 25 cm $11,507.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-d). 30 cm $12,324.00
+d). 30 cm $13,092.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-e). 38 cm $14,162.00
+e). 38 cm $15,045.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-f). 45 cm $15,622.00
+f). 45 cm $16,596.00
 
 II. Conexión de descargas domiciliarias, en terrenos tipo III, de conformidad con los siguientes diámetros:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). 15 cm $17,139.00
+a). 15 cm $18,207.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). 20 cm $17,144.00
+b). 20 cm $18,213.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). 25 cm $18,964.00
+c). 25 cm $20,146.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-d). 30 cm $22,044.00
+d). 30 cm $23,418.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-e). 38 cm $27,162.00
+e). 38 cm $28,855.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-f). 45 cm $30,326.00
+f). 45 cm $32,216.00
 
 III. Reconstrucción o cambio de diámetro de conexiones de descargas domiciliarias, en terrenos tipo I y II, de conformidad con los siguientes diámetros:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). 15 cm $10,843.00
+a). 15 cm $11,519.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). 20 cm $10,873.00
+b). 20 cm $11,551.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). 25 cm $12,036.00
+c). 25 cm $12,786.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-d). 30 cm $13,694.00
+d). 30 cm $14,548.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-e). 38 cm $15,736.00
+e). 38 cm $16,717.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-f). 45 cm $17,358.00
+f). 45 cm $18,440.00
 
 IV. Reconstrucción o cambio de diámetro de conexiones de descargas domiciliarias, en terrenos tipo III, de conformidad con los siguientes diámetros:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). 15 cm $19,043.00
+a). 15 cm $20,230.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). 20 cm $19,049.00
+b). 20 cm $20,236.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). 25 cm $21,071.00
+c). 25 cm $22,384.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-d). 30 cm $24,494.00
+d). 30 cm $26,021.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-e). 38 cm $30,180.00
+e). 38 cm $32,061.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-f). 45 cm $33,696.00
+f). 45 cm $35,796.00
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 El monto de los derechos a que se refiere este artículo, incluye los materiales, mano de obra directa y el valor del medidor de agua.
 
@@ -4312,17 +4560,53 @@ Por la autorización para usar las redes de agua y drenaje o modificar las condi
 
 I. Por el estudio de la solicitud y de la documentación técnica, administrativa y legal para el trámite de la obtención de dicha autorización; tratándose de nuevos fraccionamientos o conjuntos habitacionales, comerciales, industriales o de servicios y demás edificaciones de cualquier tipo, se pagará:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-1. Cuando el inmueble sea destinado a casa habitación, hasta los primeros 50 m2 de construcción $4,606.00
+1. Cuando el inmueble sea destinado a casa habitación, se atenderá al diámetro de la toma de agua y se pagarán las siguientes cuotas:
 
-Por cada metro cuadrado que exceda del límite señalado, se pagará la cuota de $91.00
+Diámetro de Cuota a pagar
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+la toma
 
-2. En el caso de los inmuebles destinados a casa habitación que tengan zonas para estacionamiento de vehículos, por éstas se pagarán hasta los primeros 500 m2 de construcción $4,606.00
+13mm $4,882. 00
 
-Por cada metro cuadrado que exceda del límite señalado, se pagará la cuota $10.00
+19mm $5,546.41
+
+25mm $13,172.73
+
+38mm $36,831.66
+
+51mm $70,254.58
+
+64mm $113,441.50
+
+76mm $161,972.63
+
+102mm $295,664.32
+
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+2. Tratándose de inmuebles cuyo destino sea distinto al habitacional, se pagará atendiendo al diámetro de la toma de agua, las siguientes cuotas:
+
+Diámetro de Cuota a pagar
+
+la toma
+
+13mm $9,764.00
+
+19mm $11,092.83
+
+25mm $26,345.73
+
+38mm $73,663.31
+
+51mm $140,509.16
+
+64mm $226,883.01
+
+76mm $323,945.25
+
+102mm $591,328.64
 
 > <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -4340,15 +4624,17 @@ Por cada metro cuadrado que exceda del límite señalado, se pagará una cuota d
 
 6. En el caso de que por las características de la zona, sólo se pueda proporcionar en forma aislada el servicio de agua potable o el de drenaje se causará el 50% de la cuota que corresponda conforme a esta fracción;
 
-II. Por el estudio de la solicitud y de la documentación técnica, administrativa y legal para el trámite del cambio de uso habitacional a uso distinto, se causará el 50% de la cuota prevista en el numeral 3 de la fracción I de este artículo;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+II. Por el estudio de la solicitud y de la documentación técnica, administrativa y legal para el trámite del cambio de uso habitacional a uso distinto, se causará el 50% de la cuota prevista en el numeral 2 de la fracción I de este artículo;
 
-III. Por la autorización para usar las redes de agua y drenaje o modificar las condiciones de uso, se pagará la cantidad de $154.00
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+III. Por la autorización para usar las redes de agua y drenaje o modificar las condiciones de uso, se pagará la cantidad de $164.00
 
 IV. Cuando se trate del estudio de la solicitud y de la documentación técnica, administrativa y legal para el trámite y obtención de la autorización e instalación de una toma de agua de diámetro de entrada más grande que la ya existente, a fin de atender una mayor demanda de agua, los derechos que se causen serán con base en la siguiente tabla:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 Diámetro Diámetro Diferencia de Cuota a
 
@@ -4362,85 +4648,85 @@ milímetros en cúbicos
 
 milímetros
 
-13 19 4.16 $69,687.00
+13 19 4.16 $74,030.00
 
-13 25 13.88 232,501.00
+13 25 13.88 246,992.00
 
-13 32 25 418,776.00
+13 32 25 444,878.00
 
-13 38 39.58 663,004.00
+13 38 39.58 704,328.00
 
-13 51 72.91 1,221,311.00
+13 51 72.91 1,297,434.00
 
-13 64 118.05 1,977,449.00
+13 64 118.05 2,100,701.00
 
-13 76 169.47 2,838,778.00
+13 76 169.47 3,015,715.00
 
-13 102 310.51 5,335,341.00
+13 102 310.51 5,667,885.00
 
-19 25 9.72 162,817.00
+19 25 9.72 172,965.00
 
-19 32 20.84 349,090.00
+19 32 20.84 370,848.00
 
-19 38 35.42 593,318.00
+19 38 35.42 630,299.00
 
-19 51 68.75 1,151,554.00
+19 51 68.75 1,223,329.00
 
-19 64 113.89 1,907,764.00
+19 64 113.89 2,026,672.00
 
-19 76 165.31 2,769,092.00
+19 76 165.31 2,941,686.00
 
-19 102 314.35 5,265,657.00
+19 102 314.35 5,593,858.00
 
-25 32 11.12 186,271.00
+25 32 11.12 197,881.00
 
-25 38 25.7 430,498.00
+25 38 25.7 457,330.00
 
-25 51 56.03 938,554
+25 51 56.03 997,053.00
 
-25 64 104.17 1,744,946.00
+25 64 104.17 1,853,706.00
 
-25 76 155.59 2,606,399.00
+25 76 155.59 2,768,852.00
 
-25 102 304.63 5,102,835.00
+25 102 304.63 5,420,887.00
 
-32 38 14.58 244,227.00
+32 38 14.58 259,449.00
 
-32 51 47.91 802,537.00
+32 51 47.91 852,558.00
 
-32 64 93.05 1,558,657.00
+32 64 93.05 1,655,806.00
 
-32 76 144.47 2,420,003.00
+32 76 144.47 2,570,838.00
 
-32 102 293.51 4,916,565.00
+32 102 293.51 5,223,007.00
 
-38 51 33.33 558,312.00
+38 51 33.33 593,111.00
 
-38 64 78.47 1,314,445.00
+38 64 78.47 1,396,372.00
 
-38 76 129.89 2,175,785.00
+38 76 129.89 2,311,399.00
 
-38 102 278.93 4,672,339.00
+38 102 278.93 4,963,559.00
 
-51 64 45.14 756,132.00
+51 64 45.14 803,261.00
 
-51 76 96.56 1,617,469.00
+51 76 96.56 1,718,284.00
 
-51 102 245.6 4,114,030.00
+51 102 245.6 4,370,452.00
 
-64 76 51.42 861,333.00
+64 76 51.42 915,019.00
 
-64 102 200.46 3,357,893.00
+64 102 200.46 3,567,186.00
 
-76 102 149.04 2,496,562.00
+76 102 149.04 2,652,169.00
 
 En los supuestos de causación de los derechos a que se refiere este artículo, el pago de estos derechos será requisito indispensable para la expedición de la autorización de cambio de uso del suelo o de registro de obra, así como para la expedición de la licencia de construcción de obra nueva o ampliación correspondiente, y servirá como base de la contribución para la determinación de las cuotas señaladas, la superficie construida que se autorice en la licencia respectiva.
 
 Cuando no se tenga la obligación de solicitar licencia de construcción, la base para el cálculo de la contribución será la superficie construida.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Por la autorización anual que el Sistema de Aguas otorgue para la comercialización de agua potable por particulares, derivada de tomas de uso comercial o industrial, se pagará por concepto de derechos la cantidad de $406.00 y por su revalidación, se cobrará el 50% del valor de la misma.
+Por la autorización anual que el Sistema de Aguas otorgue para la comercialización de agua potable por particulares, derivada de tomas de uso comercial o industrial, se pagará por concepto de derechos la cantidad de $431.00 y por su revalidación, se cobrará el 50% del valor de la misma.
 
 > <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -4504,35 +4790,59 @@ A) Inmuebles de uso habitacional
 
 I. Manifestación de construcción tipo A
 
-a). Por el registro $202.00
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Por el análisis y estudio, por m2 $10.00
+a). Por el registro $215.00
+
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+b). Por el análisis y estudio, por m2 $11.00
 
 II. Manifestación de construcción tipo B
 
-a). Por el registro $369.00
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Por el análisis y estudio, por m2 $35.00
+a). Por el registro $392.00
+
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+b). Por el análisis y estudio, por m2 $37.00
 
 III. Manifestación de construcción tipo C
 
-a). Por el registro $539.00
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Por el análisis y estudio, por m2 $40.00
+a). Por el registro $573.00
+
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+b). Por el análisis y estudio, por m2 $42.00
 
 B) Inmuebles de uso no habitacional
 
 I. Manifestación de construcción tipo B
 
-a). Por el registro $401.00
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Por el análisis y estudio, por m2 $58.00
+a). Por el registro $426.00
+
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+b). Por el análisis y estudio, por m2 $62.00
 
 II. Manifestación de construcción tipo C
 
-a). Por el registro $586.00
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Por el análisis y estudio, por m2 $68.00
+a). Por el registro $623.00
+
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+b). Por el análisis y estudio, por m2 $72.00
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Para el caso de construcción de ampliaciones y reparaciones, se pagará por el registro, análisis y estudio de manifestación de construcción de que se trate, los derechos establecidos en los incisos A) y B) de este artículo, respecto de las áreas que se pretenda ampliar o reparar.
 
 > <small>(ADICIONADO, G.O. 5 DE DICIEMBRE DE 2008)</small>
 
@@ -4556,21 +4866,21 @@ I. Para instalaciones subterráneas o aéreas en la vía pública:
 
 a) Excavaciones, rellenos, romper pavimento o hacer cortes en las banquetas y guarniciones de la vía pública, con un ancho de:
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-1. Hasta 40 cm de ancho por cada metro lineal $186.00
+1. Hasta 40 cm de ancho por cada metro lineal $198.00
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-2. De más de 40 cm de ancho por cada metro cuadrado $273.00
+2. De más de 40 cm de ancho por cada metro cuadrado $290.00
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Perforación direccional por cada metro lineal $186.00
+b). Perforación direccional por cada metro lineal $198.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). Por cada poste de hasta 40 cm de diámetro $532.00
+c). Por cada poste de hasta 40 cm de diámetro $565.00
 
 (REPUBLICADA, G.O. 30 DE DICIEMBRE DE 2006)
 
@@ -4580,57 +4890,57 @@ II. Estaciones repetidoras de comunicación celular o inalámbrica:
 
 a) Para soportes de antenas:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-1. De hasta 3 m de altura $1,182.00
+1. De hasta 3 m de altura $1,256.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-2. De hasta 15 m de altura $11,825.00
+2. De hasta 15 m de altura $12,562.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-3. Por cada metro adicional de altura $2,365.00
+3. Por cada metro adicional de altura $2,512.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Por cada antena de radio frecuencia o de microondas $1,182.00
+b). Por cada antena de radio frecuencia o de microondas $1,256.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Por excavaciones o cortes cuya profundidad sea mayor de 1 metro $71.00 m3
+III. Por excavaciones o cortes cuya profundidad sea mayor de 1 metro $75.00 m3
 
-(REPUBLICADO, G.O. 30 DE DICIEMBRE DE 2006)
+(REPUBLICADA, G.O. 30 DE DICIEMBRE DE 2006)
 
 IV. Para tapiales que invadan la acera en una medida superior a 50 cm:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Hasta 2.50 metros de altura, por metro lineal o fracción $12.00
+a). Hasta 2.50 metros de altura, por metro lineal o fracción $13.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+(REPUBLICADO, G.O. 29 DE DICIEMBRE DE 2008)
 
 b). Por la altura excedente a que se refiere el inciso anterior, por m2 o fracción $5.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+(REPUBLICADO, G.O. 29 DE DICIEMBRE DE 2008)
 
 c). Por tapial ocupando banquetas en paso cubierto (túnel elevado), sobre la superficie ocupada, por día $5.00 m2
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-d). Por andamios o cualquier otra forma de usar la vía pública, sobre la superficie ocupada, por día $9.00 m2
+d). Por andamios o cualquier otra forma de usar la vía pública, sobre la superficie ocupada, por día $10.00 m2
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-V. Ferias con aparatos mecánicos, circos, carpas, graderías desmontables y otros similares $12.00 m2
+V. Ferias con aparatos mecánicos, circos, carpas, graderías desmontables y otros similares $13.00 m2
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VI. Por instalaciones o modificaciones en edificaciones existentes, de ascensores para personas, montacargas, escaleras mecánicas o cualquier otro mecanismo de transporte electromecánico, excepto obra nueva $7,095.00
+VI. Por instalaciones o modificaciones en edificaciones existentes, de ascensores para personas, montacargas, escaleras mecánicas o cualquier otro mecanismo de transporte electromecánico, excepto obra nueva $7,537.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VII. Demoliciones por la superficie cubierta, computando cada piso o planta $9.00 m2
+VII. Demoliciones por la superficie cubierta, computando cada piso o planta $10.00 m2
 
 Por la prórroga de la licencia para construcción de las obras a que se refiere este artículo, se pagará una cuota equivalente al 10% de los derechos causados por su expedición.
 
@@ -4644,17 +4954,17 @@ Por la expedición de licencia de conjunto o condominio, se pagarán los derecho
 
 I. Licencia de conjunto:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Proyectos de vivienda de más de diez mil metros cuadrados de construcción $33.00 m2
+a). Proyectos de vivienda de más de diez mil metros cuadrados de construcción $35.00 m2
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Proyectos que incluyen oficinas, comercios, industrias, servicios o equipamiento, por más de cinco mil metros cuadrados $76.00 m2
+b). Proyectos que incluyen oficinas, comercios, industrias, servicios o equipamiento, por más de cinco mil metros cuadrados $81.00 m2
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Licencia de condominio $10.00 m2
+II. Licencia de condominio $11.00 m2
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
@@ -4688,25 +4998,25 @@ Las personas físicas o morales que exploten yacimientos de materiales pétreos 
 
 Para licencia nueva:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-De 1,000 a 50,000 m2 de proyecto de explotación $84,115.00
+De 1,000 a 50,000 m2 de proyecto de explotación $89,358.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-De 50,001 a 100,000 m2 de proyecto de explotación $224,310.00
+De 50,001 a 100,000 m2 de proyecto de explotación $238,291.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-De 100,001 a 300,000 m2 de proyecto de explotación $392,548.00
+De 100,001 a 300,000 m2 de proyecto de explotación $417,015.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-De 300,001 a 500,000 m2 de proyecto de explotación $560,775.00
+De 300,001 a 500,000 m2 de proyecto de explotación $595,727.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Mayores a 500,000 m2 de proyecto de explotación $785,086.00
+Mayores a 500,000 m2 de proyecto de explotación $834,019.00
 
 Para la revalidación, se cobrará el 50% del costo de la licencia nueva.
 
@@ -4716,87 +5026,115 @@ Para la revalidación, se cobrará el 50% del costo de la licencia nueva.
 
 Por la expedición del Permiso para la Celebración de Espectáculos Públicos y producciones cinematográficas o audiovisuales, se pagarán derechos conforme a las siguientes cuotas:
 
-a) Musicales $3,000.00
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b) Deportivos $5,000.00
+a) Musicales $3,187.00
 
-c) Taurinos $3,000.00
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-d) Teatrales $1,000.00
+b) Deportivos $5,312.00
 
-e) Producciones cinematográficas $2,500.00
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-f) Producciones audiovisuales $5,000.00
+c) Taurinos $3,187.00
 
-Por la revisión del cumplimiento de los requisitos que en el Distrito Federal exijan las disposiciones jurídicas correspondientes, tratándose de estacionamientos públicos, se pagarán derechos conforme a una cuota de $2,310.00
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+d) Teatrales $1,062.00
+
+e) (DEROGADO, G.O. 29 DE DICIEMBRE DE 2008)
+
+f) (DEROGADO, G.O. 29 DE DICIEMBRE DE 2008)
+
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Por la revisión del cumplimiento de los requisitos que en el Distrito Federal exijan las disposiciones jurídicas correspondientes, tratándose de estacionamientos públicos, se pagarán derechos conforme a una cuota de $2,454.00
 
 ARTICULO 211 BIS.- (DEROGADO, G.O. 31 DE DICIEMBRE DE 2001)
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 212.
 
-Por la expedición y revalidación de licencia de funcionamiento y autorización, así como por la verificación, de giros y establecimientos mercantiles, espectáculos públicos o en ferias, romerías, kermesses y festejos populares, con venta de bebidas alcohólicas en envase cerrado, abierto o al copeo, se pagarán derechos conforme a lo siguiente:
+Por la expedición y revalidación de licencia de funcionamiento, declaración de apertura y autorización, así como por la verificación de giros y establecimientos mercantiles, espectáculos públicos o en ferias, romerías, kermesses y festejos populares, con venta de bebidas alcohólicas en envase cerrado, abierto o al copeo, se pagarán derechos conforme a lo siguiente:
 
-I. Por la expedición de Licencia de Funcionamiento tipo "A", se pagarán:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+I. Por la expedición de Licencia de Funcionamiento tipo ordinarias, se pagarán:
 
-a). Por los primeros 50 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $6,479.00
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+a). Por los primeros 50 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $6,883.00
 
-b). Por cada metro cuadrado que exceda a los 50 metros cuadrados y hasta 100 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $130.00
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+b). Por cada metro cuadrado que exceda a los 50 metros cuadrados y hasta 100 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $138.00
 
-c). Por cada metro cuadrado que exceda a los 100 metros cuadrados y hasta 300 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $259.00
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Después de 300 metros cuadrados el costo de la Licencia de Funcionamiento será lo que resulte de la suma de los incisos a), b) y c).
+c). Por cada metro cuadrado que exceda a los 100 metros cuadrados y hasta 300 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $275.00
 
-II. Por la expedición de licencia de funcionamiento tipo "B", se pagarán:
-
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
-
-a). Por los primeros 50 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $12,957.00
-
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
-
-b). Por cada metro cuadrado que exceda a los 50 metros cuadrados y hasta 100 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $259.00
-
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
-
-c). Por cada metro cuadrado que exceda a los 100 metros cuadrados y hasta 300 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $518.00
-
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
-
-d). Por pulquerías $6,479.00
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Después de 300 metros cuadrados el costo de la Licencia de Funcionamiento será lo que resulte de la suma de los incisos a), b) y c).
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Tratándose de Establecimientos Mercantiles que extiendan sus servicios a la vía pública y que requieran de un Permiso, en los términos de la Ley para el Funcionamiento de Establecimientos Mercantiles, se pagará una cuota semestral de $1,200.00. Los derechos a los que se refiere esta fracción se destinarán a la delegación correspondiente como recursos de aplicación automática.
+II. Por la expedición de Licencia de Funcionamiento tipo especial, se pagarán:
 
-a). (DEROGADO, G.O. 27 DE DICIEMBRE DE 2007)
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). (DEROGADO, G.O. 27 DE DICIEMBRE DE 2007)
+a). Por los primeros 50 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $13,765.00
+
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+b). Por cada metro cuadrado que exceda a los 50 metros cuadrados y hasta 100 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $275.00
+
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+c). Por cada metro cuadrado que exceda a los 100 metros cuadrados y hasta 300 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $550.00
+
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+d). Por pulquerías $6,883.00
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+
+Después de 300 metros cuadrados el costo de la Licencia de Funcionamiento será lo que resulte de la suma de los incisos a), b) y c).
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+III. Tratándose de Establecimientos Mercantiles que extiendan sus servicios a la vía pública y que requieran de un Permiso, en los términos de la Ley de la materia, se pagará una cuota semestral por cada metro cuadrado que utilice, conforme a lo siguiente:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+a). Para los establecimientos mercantiles que funcionen con Licencia de Funcionamiento $1,051.80
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+b). Para los establecimientos mercantiles que funcionen con declaración de apertura $529.00
 
 c). (DEROGADO, G.O. 27 DE DICIEMBRE DE 2007)
 
-IV. Tratándose de Actividades Mercantiles que requieran de una Autorización, en los términos de la Ley para el Funcionamiento de Establecimientos Mercantiles, se pagará una cuota conforme a lo siguiente:
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+IV. Tratándose de Actividades Mercantiles que requieran de una Autorización, en los términos de la Ley de la materia, se pagará una cuota conforme a lo siguiente:
 
-a). Por cada metro cuadrado $13.00
+a). Por cada metro cuadrado $14.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-V. Por la verificación a que se hace referencia en el primer párrafo $2,191.00
+V. Por la verificación a que se hace referencia en el primer párrafo $2,328.00
 
-Para efectos de la revalidación de la Licencia de Funcionamiento a que hace referencia las fracciones I y II, se cobrará el 30% del valor de la misma cada tres años.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Los Permisos a que hace referencia la fracción III, tendrán una vigencia de seis meses y podrán ser otorgados semestralmente siempre que cumplan con las disposiciones de la Ley para el Funcionamiento de Establecimientos Mercantiles.
+Para efectos de la revalidación de la Licencia de Funcionamiento a que hace referencia las fracciones I y II, se cobrará el 30% del valor de la misma al finalizar el periodo de vigencia que refiere la Ley de la materia.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Los Permisos a que hace referencia la fracción III, tendrán una vigencia de seis meses y podrán ser otorgados semestralmente siempre que cumplan con las disposiciones de la Ley de la materia.
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Las Autorizaciones a que se refiere la fracción IV no son objeto de prórroga ni revalidación y tendrán una vigencia de no más de 15 días.
 
@@ -4812,11 +5150,11 @@ Por los siguientes servicios prestados en los términos de la reglamentación de
 
 I. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2004) (REPUBLICADA, G.O. 30 DE DICIEMBRE DE 2005)
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Por la evaluación y registro de aspirantes a directores responsables de obra o corresponsables, por la primera evaluación $1,337.00
+II. Por la evaluación y registro de aspirantes a directores responsables de obra o corresponsables, por la primera evaluación $1,420.00
 
-Por las subsiguientes $674.00
+Por las subsiguientes $716.00
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -4828,51 +5166,51 @@ Por la expedición de licencias anuales, autorizaciones temporales y permisos pu
 
 I. Licencia para construir, instalar, fijar, modificar o ampliar, los siguientes anuncios:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). En azotea o autosoportados con cartelera de 1 metro cuadrado hasta la máxima permitida por la normatividad aplicable, aun cuando sean de neón o electrónicos, se pagarán los derechos que resulten de multiplicar el número de metros cuadrados de cartelera por $2,100.00
+a). En azotea o autosoportados con cartelera de 1 metro cuadrado hasta la máxima permitida por la normatividad aplicable, aun cuando sean de neón o electrónicos, se pagarán los derechos que resulten de multiplicar el número de metros cuadrados de cartelera por $2,231.00
 
 b). Anuncios comerciales en marquesinas, con dimensión desde 1 y hasta 5 metros cuadrados y un espesor de 20 centímetros aún cuando sean electrónicos o de neón.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-1. Por el otorgamiento de licencia $6,600.00
+1. Por el otorgamiento de licencia $7,011.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-2. Por cada metro adicional en su dimensión $1,150.00
+2. Por cada metro adicional en su dimensión $1,222.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). Adosados con cartelera desde 3.24 metros cuadrados hasta la máxima permitida por la normatividad aplicable, aun cuando sean de neón o electrónicos, se pagarán los derechos que resulten de multiplicar el número de metros cuadrados por $1,250.00
+c). Adosados con cartelera desde 3.24 metros cuadrados hasta la máxima permitida por la normatividad aplicable, aun cuando sean de neón o electrónicos, se pagarán los derechos que resulten de multiplicar el número de metros cuadrados por $1,328.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-d). En saliente, volados o colgantes, con cartelera desde 1 metro cuadrado hasta la máxima permitida por la normatividad aplicable $3,300.00
+d). En saliente, volados o colgantes, con cartelera desde 1 metro cuadrado hasta la máxima permitida por la normatividad aplicable $3,506.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-e). En mobiliario urbano (MUPIS), se pagarán los derechos que resulten de multiplicar el número de metros cuadrados de cartelera por $1,250.00
+e). En mobiliario urbano (MUPIS), se pagarán los derechos que resulten de multiplicar el número de metros cuadrados de cartelera por $1,328.00
 
-> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-f). Por el otorgamiento de licencia de anuncios en vallas publicitarias, se pagarán los derechos que resulten de multiplicar el número de metros cuadrados de cartelera por $4,200.00
+f). Por el otorgamiento de licencia de anuncios en vallas publicitarias, se pagarán los derechos que resulten de multiplicar el número de metros cuadrados de cartelera por $4,462.00
 
 > <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2006)</small>
 
 En ningún caso el pago de derechos hará presumir la regularidad de la licencia o autorización temporal, cuya expedición deberá sujetarse a lo dispuesto por la Ley de Desarrollo Urbano del Distrito Federal, en materia de anuncios y publicidad exterior por lo dispuesto por el artículo 29 del Reglamento para el Ordenamiento del Paisaje Urbano del Distrito Federal.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-g). De proyección óptica, con las superficies autorizadas por la legislación vigente, se pagarán por cada anunciante, marca o producto, los derechos que resulten de multiplicar el número de metros cuadrados de superficie de proyección por $1,000.00
+g). De proyección óptica, con las superficies autorizadas por la legislación vigente, se pagarán por cada anunciante, marca o producto, los derechos que resulten de multiplicar el número de metros cuadrados de superficie de proyección por $1,062.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-h). Anuncios en lona o en material similar en inmuebles y/o monumentos en construcción, remodelación o restauración, de conformidad con la normatividad aplicable, se pagarán los derechos que resulten de multiplicar cada metro cuadrado de cartelera por $1,250.00
+h). Anuncios en lona o en material similar en inmuebles y/o monumentos en construcción, remodelación o restauración, de conformidad con la normatividad aplicable, se pagarán los derechos que resulten de multiplicar cada metro cuadrado de cartelera por $1,328.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-i). Anuncios denominativos pintados en bardas, vidrieras y escaparates, cortinas metálicas, muros laterales de acceso a establecimientos que den a la calle, orla o cenefa de toldos y cortinas de tela, fachadas, así como integrados, adosados o en gabinete en fachada, con las superficies autorizadas por la legislación vigente, se pagarán los derechos que resulten de multiplicar cada metro cuadrado de cartelera por $1,250.00
+i). Anuncios denominativos pintados en bardas, vidrieras y escaparates, cortinas metálicas, muros laterales de acceso a establecimientos que den a la calle, orla o cenefa de toldos y cortinas de tela, fachadas, así como integrados, adosados o en gabinete en fachada, con las superficies autorizadas por la legislación vigente, se pagarán los derechos que resulten de multiplicar cada metro cuadrado de cartelera por $1,328.00
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2006)</small>
 
@@ -4882,33 +5220,33 @@ Por la revalidación anual de los anuncios a que se refiere esta fracción, se c
 
 II. Autorización temporal para construir, instalar, fijar, modificar o ampliar los siguientes anuncios:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). En mantas desde 1 metro hasta la máxima permitida por la normatividad vigente, se pagarán los derechos que resulten de multiplicar el número de metros cuadrados de superficie por $30.00
+a). En mantas desde 1 metro hasta la máxima permitida por la normatividad vigente, se pagarán los derechos que resulten de multiplicar el número de metros cuadrados de superficie por $32.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). En objetos inflables, incluyendo los que sean aerostáticos o anclados al piso $1,300.00
+b). En objetos inflables, incluyendo los que sean aerostáticos o anclados al piso $1,381.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). Pintados o adosados desde 1.50 y hasta 3.50 metros cuadrados de superficie, se pagarán los derechos que resulten de multiplicar los metros cuadrados de superficie por $36.00
+c). Pintados o adosados desde 1.50 y hasta 3.50 metros cuadrados de superficie, se pagarán los derechos que resulten de multiplicar los metros cuadrados de superficie por $38.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-d). En postes del mobiliario urbano, por Banderola con una dimensión de 1.80 hasta 3.60 metros de altura por 90 centímetros de longitud $42.00
+d). En postes del mobiliario urbano, por Banderola con una dimensión de 1.80 hasta 3.60 metros de altura por 90 centímetros de longitud $45.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-e). En saliente, volados o colgantes que requieran autorización temporal en términos de la legislación aplicable, se pagarán los derechos que resulten de multiplicar el número de metros cuadrados de superficie del anuncio por $850.00
+e). En saliente, volados o colgantes que requieran autorización temporal en términos de la legislación aplicable, se pagarán los derechos que resulten de multiplicar el número de metros cuadrados de superficie del anuncio por $903.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-f). Autosoportados que requieran autorización temporal en términos de la legislación aplicable, se pagarán los derechos que resulten de multiplicar el número de metros cuadrados de superficie del anuncio por $550.00
+f). Autosoportados que requieran autorización temporal en términos de la legislación aplicable, se pagarán los derechos que resulten de multiplicar el número de metros cuadrados de superficie del anuncio por $584.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-g). En marquesinas que requieran de autorización temporal en términos de la legislación aplicable, se pagarán los derechos que resulten de multiplicar el número de metros cuadrados de superficie del anuncio por $250.00
+g). En marquesinas que requieran de autorización temporal en términos de la legislación aplicable, se pagarán los derechos que resulten de multiplicar el número de metros cuadrados de superficie del anuncio por $266.00
 
 Por la revalidación de las autorizaciones temporales a que se refiere esta fracción, se cobrará el mismo monto que para su expedición.
 
@@ -4916,17 +5254,17 @@ Por la revalidación de las autorizaciones temporales a que se refiere esta frac
 
 III. Por la expedición del permiso por un año, para contratar y colocar anuncios publicitarios en los vehículos que prestan el servicio público de pasajeros, taxi, carga y privado, de conformidad con la legislación aplicable, se pagaran los derechos siguientes:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). De 0 m2 hasta 3.0 m2 $1,116.00
+a). De 0 m2 hasta 3.0 m2 $1,186.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). De 3.01 m2 hasta 30.0 m2 $4,951.00
+b). De 3.01 m2 hasta 30.0 m2 $5,260.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Por la colocación de anuncios de publicidad en bicicletas adaptadas, el anunciante pagará por la expedición del permiso $100.00
+IV. Por la colocación de anuncios de publicidad en bicicletas adaptadas, el anunciante pagará por la expedición del permiso $106.00
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -4942,13 +5280,13 @@ Los derechos a que se refiere este artículo, deberán pagarse previo a la exped
 
 Por la expedición del permiso para impartir cursos y clases de manejo, en el Distrito Federal, se pagará el derecho respectivo conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Por su otorgamiento, por un año $2,951.00
+I. Por su otorgamiento, por un año $3,135.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Por su revalidación $2,951.00
+II. Por su revalidación $3,135.00
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -4964,15 +5302,15 @@ Sólo los bienes de dominio público del Distrito Federal y los sujetos al régi
 
 #### Sección Quinta. Del Registro Público de la Propiedad o del Comercio y del Archivo General de Notarías
 
-> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 217.
 
-Por cada inscripción, anotación o cancelación de inscripción que practique el Registro Público correspondiente, se causará una cuota de $1000.00, con las excepciones que se señalan en las fracciones siguientes y en los demás artículos de esta Sección.
+Por cada inscripción, anotación o cancelación de inscripción que practique el Registro Público correspondiente, se causará una cuota de $1,062.00, con las excepciones que se señalan en las fracciones siguientes y en los demás artículos de esta Sección.
 
-> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Se causará una cuota de $10,019.00
+I. Se causará una cuota de $10,643.00
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2006)</small>
 
@@ -5006,15 +5344,15 @@ En los casos en que las autoridades federales, o de las entidades federativas, o
 
 Las cuotas a que se refiere este artículo comprenderán la búsqueda de antecedentes registrales y las copias correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 218.
 
-Por la devolución de documentos como resultado de la calificación, ya sea que se deniegue el asiento por causas insubsanables, o cuando no se cumpla con los requisitos exigidos en la suspensión, se pagarán $343.00.
+Por la devolución de documentos como resultado de la calificación, ya sea que se deniegue el asiento por causas insubsanables, o cuando no se cumpla con los requisitos exigidos en la suspensión, se pagarán $364.00.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 28 DE DICIEMBRE DE 2008)</small>
 
-En los casos de devolución de documentos a solicitud del interesado, siempre y cuando el documento no haya entrado a calificación, se pagará por concepto de derechos la cantidad de $168.00.
+En los casos de devolución de documentos a solicitud del interesado, siempre y cuando el documento no haya entrado a calificación, se pagará por concepto de derechos la cantidad de $178.00.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -5026,31 +5364,31 @@ Los derechos previstos en este artículo no se pagarán cuando sea por una causa
 
 Por la expedición de los documentos en que consten los actos que a continuación se relacionan, se pagarán por concepto de derechos, las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Certificado de existencia o inexistencia de gravámenes, limitaciones de dominio y anotaciones preventivas hasta por un período de veinte años $321.00
+I. Certificado de existencia o inexistencia de gravámenes, limitaciones de dominio y anotaciones preventivas hasta por un período de veinte años $341.00
 
-Por cada período de cinco años o fracción que exceda de ese lapso $216.00
+Por cada período de cinco años o fracción que exceda de ese lapso $229.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Informes o constancias solicitados por autoridades de la Federación, de las entidades federativas, municipios u organismos de ellos $629.00
+II. Informes o constancias solicitados por autoridades de la Federación, de las entidades federativas, municipios u organismos de ellos $668.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Certificados de adquisición o enajenación de bienes inmuebles por un período de veinte años a la fecha de expedición $304.00
+III. Certificados de adquisición o enajenación de bienes inmuebles por un período de veinte años a la fecha de expedición $323.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Certificado de no inscripción de un bien inmueble, por cada período de cinco años a partir del año de 1871 $216.00
+IV. Certificado de no inscripción de un bien inmueble, por cada período de cinco años a partir del año de 1871 $229.00
 
 V. (DEROGADA, G.O. 27 DE DICIEMBRE DE 2007)
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VI. Por cada certificación de asientos registrales de un folio o de una partida de los libros $837.00
+VI. Por cada certificación de asientos registrales de un folio o de una partida de los libros $889.00
 
-En el caso de que la certificación a que se refiere esta fracción, exceda de 50 hojas, se cobrará por cada hoja adicional $7.00
+En el caso de que la certificación a que se refiere esta fracción, exceda de 50 hojas, se cobrará por cada hoja adicional $7.50
 
 (REPUBLICADO, G.O. 30 DE DICIEMBRE DE 2006)
 
@@ -5062,13 +5400,13 @@ Las cuotas a que se refiere este artículo comprenderán la búsqueda de anteced
 
 Por el registro de los documentos en que consten los actos que a continuación se relacionan, se pagarán por concepto de derechos, las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Por otorgamiento de poderes, efectuados en un mismo folio $459.00
+I. Por otorgamiento de poderes, efectuados en un mismo folio $488.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Por revocación o renuncia de poderes, efectuados en un mismo folio $459.00
+II. Por revocación o renuncia de poderes, efectuados en un mismo folio $488.00
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -5076,45 +5414,45 @@ II. Por revocación o renuncia de poderes, efectuados en un mismo folio $459.00
 
 Por el registro de los documentos en que consten los actos que a continuación se relacionan, se pagarán por concepto de derechos, las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Fianzas, contrafianzas u obligaciones solidarias con el fiador, para el sólo efecto de comprobar la solvencia del fiador, contrafiador u obligado solidario $629.00
+I. Fianzas, contrafianzas u obligaciones solidarias con el fiador, para el sólo efecto de comprobar la solvencia del fiador, contrafiador u obligado solidario $668.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Sustitución de acreedor o deudor o reconocimiento de adeudo, modificaciones de plazo, intereses, garantías o cualquiera otras que no constituyan novación del contrato $629.00
+II. Sustitución de acreedor o deudor o reconocimiento de adeudo, modificaciones de plazo, intereses, garantías o cualquiera otras que no constituyan novación del contrato $668.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. División de crédito, en cualquier caso y por cada inmueble, con excepción de lo previsto por la siguiente fracción $216.00
+III. División de crédito, en cualquier caso y por cada inmueble, con excepción de lo previsto por la siguiente fracción $229.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Por la individualización de gravámenes a que se refiere el artículo 2912 del Código Civil, se pagará, por la primera, la cuota que corresponda a la tarifa prevista en el artículo 217, fracción I de este Código, y por cada anotación subsecuente se pagará $1,004.00
+IV. Por la individualización de gravámenes a que se refiere el artículo 2912 del Código Civil, se pagará, por la primera, la cuota que corresponda a la tarifa prevista en el artículo 217, fracción I de este Código, y por cada anotación subsecuente se pagará $1,067.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-V. Por la anotación de embargo de varios bienes, se pagará por el primero la cuota que corresponda a la tarifa prevista en el artículo 217, fracción I de este Código, y por cada anotación en folio que se derive de la misma orden judicial, se pagará $1,004.00
+V. Por la anotación de embargo de varios bienes, se pagará por el primero la cuota que corresponda a la tarifa prevista en el artículo 217, fracción I de este Código, y por cada anotación en folio que se derive de la misma orden judicial, se pagará $1,067.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VI. Por el asiento registral de la cancelación de hipoteca, incluidos sus ampliaciones, convenios y modificaciones, así como fianza o embargo, se pagará $1,004.00
+VI. Por el asiento registral de la cancelación de hipoteca, incluidos sus ampliaciones, convenios y modificaciones, así como fianza o embargo, se pagará $1,067.00
 
 ###### ARTICULO 222.
 
 (DEROGADO, G.O. 30 DE DICIEMBRE DE 2006)
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 223.
 
-Por la ratificación de firmas ante el registrador, se pagarán por concepto de derechos $44.00 por cada firma.
+Por la ratificación de firmas ante el registrador, se pagarán por concepto de derechos $47.00 por cada firma.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 224.
 
-Por el registro de cada acto correspondiente al cumplimiento de la condición, cancelación de la reserva de dominio o consolidación de la propiedad, en cada caso $419.00.
+Por el registro de cada acto correspondiente al cumplimiento de la condición, cancelación de la reserva de dominio o consolidación de la propiedad, en cada caso $445.00.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -5122,21 +5460,21 @@ Por el registro de cada acto correspondiente al cumplimiento de la condición, c
 
 Por el registro de los documentos en que consten los actos que a continuación se relacionan, se pagarán por concepto de derechos las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Por la constitución del patrimonio familiar $419.00
+I. Por la constitución del patrimonio familiar $445.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Por la cancelación del patrimonio familiar $419.00
+II. Por la cancelación del patrimonio familiar $445.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Por la anotación del régimen patrimonial del matrimonio y capitulaciones matrimoniales $419.00
+III. Por la anotación del régimen patrimonial del matrimonio y capitulaciones matrimoniales $445.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Documentos o resoluciones judiciales relativas a las sucesiones, independientemente de los derechos que se causen por el registro de la transmisión de los bienes hereditarios $1,004.00
+IV. Documentos o resoluciones judiciales relativas a las sucesiones, independientemente de los derechos que se causen por el registro de la transmisión de los bienes hereditarios $1,067.00
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -5144,17 +5482,17 @@ IV. Documentos o resoluciones judiciales relativas a las sucesiones, independien
 
 Por el registro de los documentos en que consten los actos que a continuación se relacionan, se pagarán las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Actos, contratos, convenios o resoluciones judiciales o administrativas por los que se constituya un fraccionamiento, se lotifique, relotifique, divida o subdivida un inmueble, por cada lote $629.00
+I. Actos, contratos, convenios o resoluciones judiciales o administrativas por los que se constituya un fraccionamiento, se lotifique, relotifique, divida o subdivida un inmueble, por cada lote $668.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Fusión, por cada lote $629.00
+II. Fusión, por cada lote $668.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Constitución de régimen de propiedad en condominio o sus modificaciones, por cada unidad $629.00
+III. Constitución de régimen de propiedad en condominio o sus modificaciones, por cada unidad $668.00
 
 > <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -5168,17 +5506,17 @@ ARTICULO 226 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 Por el registro de los documentos en que consten los actos que a continuación se relacionan se pagará por concepto de derechos las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Matrícula de comerciante persona física $629.00
+I. Matrícula de comerciante persona física $668.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Constitución o aumento de capital o inscripción de créditos, de sociedades mercantiles comprendidas en la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal $419.00
+II. Constitución o aumento de capital o inscripción de créditos, de sociedades mercantiles comprendidas en la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal $445.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. De corresponsalía mercantil, por su registro o cancelación $629.00
+III. De corresponsalía mercantil, por su registro o cancelación $668.00
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -5186,13 +5524,13 @@ III. De corresponsalía mercantil, por su registro o cancelación $629.00
 
 Por el registro de los documentos en que consten los actos que a continuación se relacionan, se pagarán las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Fideicomisos de garantía que no incluyan inmuebles, por cada inscripción $1,004.00
+I. Fideicomisos de garantía que no incluyan inmuebles, por cada inscripción $1,067.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Por la cesión de derechos hereditarios o fideicomisarios que no incluyan inmuebles $1,004.00
+II. Por la cesión de derechos hereditarios o fideicomisarios que no incluyan inmuebles $1,067.00
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -5202,35 +5540,35 @@ Por los actos que a continuación se mencionan se pagarán derechos conforme a l
 
 I. Depósito de testamentos ológrafos en el Archivo General de Notarías:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Si fueren hechos en los locales de las oficinas respectivas, en horas hábiles $629.00
+a). Si fueren hechos en los locales de las oficinas respectivas, en horas hábiles $668.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Si fueren hechos en los locales de las oficinas respectivas, en horas inhábiles $921.00
+b). Si fueren hechos en los locales de las oficinas respectivas, en horas inhábiles $978.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). Si fueren hechos fuera de los locales de las oficinas respectivas, en horas hábiles $1,252.00
+c). Si fueren hechos fuera de los locales de las oficinas respectivas, en horas hábiles $1,330.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-d). Si fueren hechos fuera de los locales de las oficinas respectivas, en horas inhábiles $1,887.00
+d). Si fueren hechos fuera de los locales de las oficinas respectivas, en horas inhábiles $2,005.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Depósito del escrito de Constitución de la Sociedad de Convivencia en el Archivo General de Notarías $44.00
+II. Depósito del escrito de Constitución de la Sociedad de Convivencia en el Archivo General de Notarías $47.00
 
 III. Servicios de inspección en el Registro Público de la Propiedad y de Comercio de los avisos de testamentos, se pagará el derecho de inscripción en el registro de la propiedad:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Si se hace dentro de días y horas hábiles $296.00
+a). Si se hace dentro de días y horas hábiles $314.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Si se hace en días y horas inhábiles $586.00
+b). Si se hace en días y horas inhábiles $623.00
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -5240,33 +5578,33 @@ Por los servicios que preste el Registro Público de la Propiedad correspondient
 
 I. (DEROGADA, G.O. 30 DE DICIEMBRE DE 2005)
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. De la búsqueda de antecedentes registrales de un inmueble, persona moral o bien mueble, por los índices de los libros o utilizando los sistemas electrónicos, incluyendo el primer folio o imagen digitalizada $305.00
+II. De la búsqueda de antecedentes registrales de un inmueble, persona moral o bien mueble, por los índices de los libros o utilizando los sistemas electrónicos, incluyendo el primer folio o imagen digitalizada $324.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Por la expedición de constancia de antecedentes registrales se pagará por las primeras 20 hojas $118.00 y $3.00 adicionales por cada hoja subsecuente.
+III. Por la expedición de constancia de antecedentes registrales se pagará por las primeras 20 hojas $125.00 y $3.00 adicionales por cada hoja subsecuente.
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Por cada búsqueda de datos en el Boletín Registral $203.00
+IV. Por cada búsqueda de datos en el Boletín Registral $216.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-V. Por conexión y servicio de vinculación remota al Sistema Integral de Informática Registral del Registro Público de la Propiedad, se pagará una cuota anual de $19,553.00
+V. Por conexión y servicio de vinculación remota al Sistema Integral de Informática Registral del Registro Público de la Propiedad, se pagará una cuota anual de $20,772.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VI. Por cada ejemplar del Boletín Registral en la fecha de su expedición $28.00
+VI. Por cada ejemplar del Boletín Registral en la fecha de su expedición $30.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VII. Por la búsqueda oficial de antecedentes registrales de un inmueble, sobre la base del lote y manzana registral, plano catastral o cualquier documento fehaciente aportado por el solicitante $995.00
+VII. Por la búsqueda oficial de antecedentes registrales de un inmueble, sobre la base del lote y manzana registral, plano catastral o cualquier documento fehaciente aportado por el solicitante $1,057.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VIII. Por la investigación del tracto registral de un antecedente, folio o partida de libro, por cada período de cinco años $215.00
+VIII. Por la investigación del tracto registral de un antecedente, folio o partida de libro, por cada período de cinco años $228.00
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -5276,11 +5614,11 @@ Para el cobro de los derechos que establece esta Sección, cuando un mismo docum
 
 ARTICULO 231 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 232.
 
-Por la integración de jurado para examen de oposición para el ejercicio notarial, o bien por el examen para aspirante de notario, se pagará una cuota de $2,104.00 por derecho de examen respectivo.
+Por la integración de jurado para examen de oposición para el ejercicio notarial, o bien por el examen para aspirante de notario, se pagará una cuota de $2,235.00 por derecho de examen respectivo.
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
@@ -5290,23 +5628,23 @@ Por los servicios de guarda definitiva y revisión de los libros del protocolo d
 
 I. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2004) (REPUBLICADA, G.O. 30 DE DICIEMBRE DE 2005)
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Por la revisión y la certificación de la razón de cierre, por libro $841.00
+II. Por la revisión y la certificación de la razón de cierre, por libro $893.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Por la recepción para guarda definitiva en el Archivo General de Notarías, de cada decena de protocolo $841.00
+III. Por la recepción para guarda definitiva en el Archivo General de Notarías, de cada decena de protocolo $893.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Por la recepción para guarda definitiva en el Archivo General de Notarías, de cada libro de registro de cotejos $841.00
+IV. Por la recepción para guarda definitiva en el Archivo General de Notarías, de cada libro de registro de cotejos $893.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 234.
 
-Por los servicios de registro de patentes, sello, firma y convenio de notarios y corredores públicos, que preste el Registro Público de la Propiedad y de Comercio, según corresponda, se pagará una cuota de $1,675.00 por cada uno de los rubros citados.
+Por los servicios de registro de patentes, sello, firma y convenio de notarios y corredores públicos, que preste el Registro Público de la Propiedad y de Comercio, según corresponda, se pagará una cuota de $1,779.00 por cada uno de los rubros citados.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -5320,41 +5658,49 @@ Por los servicios que preste el Archivo General de Notarías, se pagarán los mi
 
 Se exceptúan de lo dispuesto en el artículo anterior, los siguientes servicios que se pagarán con las cuotas que se indican:
 
-> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Por las certificaciones de instrumentos o registros notariales en guarda del Archivo General de Notarías, por cada instrumento o registro incluyendo su apéndice $1,682.00
+I. Por las certificaciones de instrumentos o registros notariales en guarda del Archivo General de Notarías, por cada instrumento o registro incluyendo su apéndice $1,787.00
 
 Se exceptúan de lo dispuesto en la fracción anterior:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Certificación de instrumento que sólo contenga testamento $336.00
+a). Certificación de instrumento que sólo contenga testamento $357.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Certificación de instrumento que sólo contenga mandato o poderes $336.00
+b). Certificación de instrumento que sólo contenga mandato o poderes $357.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). Certificación de instrumento que sólo contenga fe de hechos o declaraciones ante notario $336.00
+c). Certificación de instrumento que sólo contenga fe de hechos o declaraciones ante notario $357.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Cualquier anotación marginal en un protocolo $44.00
+d) Certificación de instrumento que contenga tomos completos del apéndice $500.00 por cada tomo
 
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Registro de avisos de testamentos públicos abiertos, cerrados o simplificados, otorgados ante notarios $44.00
+e) Certificación de instrumento que sólo contenga documento de Voluntad Anticipada $357.00
 
-Por el informe respecto al registro o depósito de testamentos o de designaciones de tutor cautelar, que se rindan a solicitud de jueces, notarios o partes interesadas $837.00
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+II. Cualquier anotación marginal en un protocolo $47.00
 
-IV. Por el asiento de la razón de haberse cumplido los requisitos legales de un instrumento notarial, que practique el Archivo General de Notarías, incluyendo el asiento de notas marginales o complementarias y, en su caso, la expedición de testimonio o copia certificada del instrumento $1,682.00
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+III. Registro de avisos de testamentos públicos abiertos, cerrados o simplificados, otorgados ante notarios $47.00
 
-V. Registro de avisos dados por notarios en el caso de designaciones de tutor cautelar $38.00
+Por el informe respecto al registro o depósito de testamentos o designaciones de tutor cautelar, que se rindan a solicitud de jueces, notarios o partes interesadas $889.00
+
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+IV. Por el asiento de la razón de haberse cumplido los requisitos legales de un instrumento notarial, que practique el Archivo General de Notarías, incluyendo el asiento de notas marginales o complementarias y, en su caso, la expedición de testimonio o copia certificada del instrumento $1,787.00
+
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+V. Registro de avisos dados por notarios en el caso de designaciones de tutor cautelar $40.00
 
 ARTICULO 236 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -5378,47 +5724,43 @@ Sólo estarán exentos de pago los derechos establecidos en los artículos 217, 
 
 Por los servicios que preste el Registro Civil se pagarán derechos conforme las cuotas que a continuación se establecen:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Inscripción de matrimonio en los Juzgados del Registro Civil $750.00
+I. Inscripción de matrimonio en los Juzgados del Registro Civil $797.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Inscripción de tutela, adopción, estado de interdicción, declaración de ausencia o presunción de muerte $149.00
+II. Inscripción de tutela, adopción, estado de interdicción, declaración de ausencia o presunción de muerte $158.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Expedición de constancia de inexistencia de registro de nacimiento, matrimonio o defunción $44.00
+III. Expedición de constancia de inexistencia de registro de nacimiento, matrimonio o defunción $47.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Inscripción de los hechos o actos del estado civil de los mexicanos en el extranjero $752.00
+IV. Inscripción de los hechos o actos del estado civil de los mexicanos en el extranjero $799.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-V. Por el divorcio a que se refiere el artículo 272 del Código Civil para el Distrito Federal $750.00
+V. Por el divorcio a que se refiere el artículo 272 del Código Civil para el Distrito Federal $797.00
 
-VI. Expedición de copias certificadas:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+VI. Expedición de copias certificadas 33.00 c/u
 
-a). De 1 a 5 copias de un mismo documento $31.00 c/u
+a). (DEROGADO, G.O. 29 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+b). (DEROGADO, G.O. 29 DE DICIEMBRE DE 2008)
 
-b). De 6 a 10 copias de un mismo documento $26.00 c/u
+c). (DEROGADO, G.O. 29 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). De 11 copias en adelante de un mismo documento $23.00 c/u
+VII. Búsqueda de datos registrales de actas del estado civil, independientemente del resultado de la búsqueda $47.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VII. Búsqueda de datos registrales de actas del estado civil, independientemente del resultado de la búsqueda $44.00
-
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
-
-VIII. Por otras inscripciones $149.00
+VIII. Por otras inscripciones $158.00
 
 No se pagará el derecho a que se refiere este artículo por la aclaración de actas del Registro Civil, así como por la inscripción de nacimientos que se celebren en la oficina del Registro Civil, de matrimonios celebrados colectivamente, ni por la inscripción de defunciones.
 
@@ -5432,27 +5774,33 @@ ARTICULO 238 B.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 Por las anotaciones marginales e inserciones en las actas del Registro Civil se pagará el derecho por anotaciones en acta del Registro Civil conforme a las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. De cambio de régimen patrimonial en el matrimonio $1,505.00
+I. De cambio de régimen patrimonial en el matrimonio $1,599.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. De rectificación de actas $366.00
+II. De rectificación de actas $389.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. De actas de defunción de personas fallecidas fuera del Distrito Federal o en el extranjero $149.00
+III. De actas de defunción de personas fallecidas fuera del Distrito Federal o en el extranjero $158.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. De divorcio en el acta de matrimonio $149.00
+IV. De divorcio en el acta de matrimonio $158.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CODIGO.</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA] EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-> <small>(ADICIONADA, G.O. 10 DE OCTUBRE DE 2008)</small>
+V. Del levantamiento de una nueva acta de nacimiento por reasignación sexo-genérica $1,599.00
 
-V. Del levantamiento de una nueva acta de nacimiento por reasignación sexo-genérica $1,505.00
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+VI. De nulidad del acta del estado civil $149.00
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+VII. Por otras anotaciones e inserciones $149.00
 
 Por las anotaciones marginales de reconocimiento y legitimación de descendientes, no se pagará el derecho a que se refiere este artículo.
 
@@ -5462,21 +5810,25 @@ Por las anotaciones marginales de reconocimiento y legitimación de descendiente
 
 Por los servicios que preste el Registro Civil fuera de sus oficinas se pagará el derecho de extraordinarios del Registro Civil, conforme a las cuotas que a continuación se establecen:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Por el registro de nacimientos $232.00
+I. Por el registro de nacimientos $246.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Por la celebración de matrimonios $1,505.00
+II. Por la celebración de matrimonios $1,599.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Por la autorización para que los jueces del Registro Civil celebren matrimonios fuera de la circunscripción territorial que les corresponda, independientemente de la cuota que señala la fracción anterior $3,101.00
+III. Por la autorización para que los jueces del Registro Civil celebren matrimonios fuera de la circunscripción territorial que les corresponda, independientemente de la cuota que señala la fracción anterior $3,294.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Por otros servicios $1,967.00
+IV. Por otros servicios $2,090.00
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+No se pagará el derecho a que refiere la fracción I de este artículo, por el registro de nacimiento que se celebre fuera de la oficina del Registro Civil, cuando el menor por cuestiones de salud no pueda salir del lugar donde ocurrió el nacimiento.
 
 (REUBICADA, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -5490,59 +5842,61 @@ Por los servicios de control vehicular que se presten respecto a vehículos part
 
 I. Por el refrendo para la vigencia anual de las placas de matrícula o para trámite de alta que comprende la expedición inicial de placas, tarjeta de circulación y calcomanía:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Por el refrendo $228.00
+a). Por el refrendo $253.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Por el trámite de alta $431.00
+b). Por el trámite de alta $450.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+II. (DEROGADA, G.O. 29 DE DICIEMBRE DE 2008)
 
-II. Por reposición de placas, derivada de pérdida $705.00
+III. (DEROGADA, G.O. 29 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Por reposición de placas, derivada de mutilación o deterioro, por cada una $266.00
-
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
-
-IV. Por la expedición del permiso de carga ocasional, por siete días, para que un vehículo de uso particular se destine temporalmente a fines de carga particular $63.00
+IV. Por la expedición del permiso de carga ocasional, por siete días, para que un vehículo de uso particular se destine temporalmente a fines de carga particular $67.00
 
 > <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
 V. Por expedición de permiso para circular sin placas, tarjeta de circulación o calcomanía:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Hasta por 30 días $134.00
+a). Hasta por 30 días $142.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Hasta por 60 días $265.00
+b). Hasta por 60 días $282.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VI. Por reposición de tarjeta de circulación o calcomanía $134.00
+VI. Por reposición o renovación de tarjeta de circulación $200.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VII. Por cambio de propietario, carrocería, motor, domicilio y corrección de datos incluyendo la expedición de nueva tarjeta de circulación $161.00
+VII. Por cambio de propietario, carrocería, motor, domicilio y corrección de datos incluyendo la expedición de tarjeta de circulación $200.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VIII. Por trámite de baja de vehículo $266.00
+VIII. Por trámite de baja de vehículo $283.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IX. Por cualquier otro permiso que conceda la autoridad no especificado en este artículo, que no exceda de 90 días $197.00
+IX. Por cualquier otro permiso que conceda la autoridad no especificado en este artículo, que no exceda de 90 días $209.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-X. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $197.00
+X. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $209.00
 
-Tratándose de vehículos habilitados para personas con discapacidad y vehículos eléctricos, los pagos de contribuciones o derechos a que se refieren las fracciones I incisos a) y b); III; V incisos a) y b), y VI, tendrán una reducción del 50%.
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+XI. Por reposición de calcomanía $134.00
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Tratándose de vehículos habilitados para personas con discapacidad y vehículos eléctricos, los pagos de contribuciones o derechos a que se refieren las fracciones I incisos a) y b); V incisos a) y b), y VI, tendrán una reducción del 50%.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -5554,69 +5908,69 @@ I. Por el otorgamiento de concesiones y permisos:
 
 a). Concesión de Servicio Público de Transporte Colectivo de Pasajeros:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-1. Por su otorgamiento, por cada vehículo que comprenda $25,000.00
+1. Por su otorgamiento, por cada vehículo que comprenda $26,558.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-2. Por su prórroga, por cada vehículo que comprenda $9,790.00
+2. Por su prórroga, por cada vehículo que comprenda $10,400.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-3. Por reposición de título-concesión $2,417.00
+3. Por reposición de título-concesión $2,568.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-4.- Por la cesión o transmisión de los derechos y obligaciones derivados de una concesión $6,447.00
+4.- Por la cesión o transmisión de los derechos y obligaciones derivados de una concesión $6,849.00
 
 b). Autorización de Servicio de Transporte Público Metropolitano de Pasajeros:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-1. Por su otorgamiento, por cada recorrido de organizaciones y empresas de otras entidades $7,358.00
+1. Por su otorgamiento, por cada recorrido de organizaciones y empresas de otras entidades $7,817.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-2. Por cada vehículo adicional de otras entidades que ingresen, por unidad $2,349.00
+2. Por cada vehículo adicional de otras entidades que ingresen, por unidad $2,495.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-3. Por la vigencia anual, por cada vehículo $141.00
+3. Por la vigencia anual, por cada vehículo $150.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-4. Por cada cajón vehicular autorizado en bases establecidas, por anualidad $317.00
+4. Por cada cajón vehicular autorizado en bases establecidas, por anualidad $337.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-5. Por la realización de estudios técnicos para el establecimiento de recorridos y bases para la prestación del servicio público colectivo metropolitano de pasajeros $509.00
+5. Por la realización de estudios técnicos para el establecimiento de recorridos y bases para la prestación del servicio público colectivo metropolitano de pasajeros $541.00
 
 c). Concesiones para el servicio público de transporte de carga en general:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-1. Por su prórroga, por cada vehículo que comprenda $9,790.00
+1. Por su prórroga, por cada vehículo que comprenda $10,400.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-2. Por reposición de título concesión $2,417.00
+2. Por reposición de título concesión $2,568.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-3. Por cada cajón vehicular autorizado en bases establecidas $317.00
+3. Por cada cajón vehicular autorizado en bases establecidas $337.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-4. Por el establecimiento de estación de servicio $902.00
+4. Por el establecimiento de estación de servicio $958.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-5. Por el establecimiento de caseta $1,044.00
+5. Por el establecimiento de caseta $1,109.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-6. Por el otorgamiento de concesión de servicio público de trasporte de carga en general $12,590.00
+6. Por el otorgamiento de concesión de servicio público de trasporte de carga en general $13,375.00
 
 d). Permiso:
 
@@ -5624,185 +5978,185 @@ d). Permiso:
 
 1.1. Transporte mercantil de pasajeros y de carga:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). De valores $1,176.00
+a). De valores $1,249.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). De mensajería $1,176.00
+b). De mensajería $1,249.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). De sustancias tóxicas o peligrosas $1,597.00
+c). De sustancias tóxicas o peligrosas $1,697.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-d). Especializado de pasajeros y carga y de turismo $1,357.00
+d). Especializado de pasajeros y carga y de turismo $1,442.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-e). Grúas $1,357.00
+e). Grúas $1,442.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-f). Transporte de pasajeros escolar y de personal $1,176.00
+f). Transporte de pasajeros escolar y de personal $1,249.00
 
 1.2. Transporte privado de pasajeros y de carga:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). De una negociación o empresa $1,176.00
+a). De una negociación o empresa $1,249.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). De valores $1,176.00
+b). De valores $1,249.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). De mensajería $1,176.00
+c). De mensajería $1,249.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-d). De sustancias tóxicas o peligrosas $1,511.00
+d). De sustancias tóxicas o peligrosas $1,605.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-e). Especializado de pasajeros y carga, y de turismo $1,357.00
+e). Especializado de pasajeros y carga, y de turismo $1,442.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-f). Transporte Privado Escolar $706.00
+f). Transporte Privado Escolar $750.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-g). Transporte Privado de Personal $706.00
+g). Transporte Privado de Personal $750.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-h). Transporte de Pasajeros Especializado $1,176.00
+h). Transporte de Pasajeros Especializado $1,249.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-i). Transporte de Turistas en Circuitos Específicos $14,480.00
+i). Transporte de Turistas en Circuitos Específicos $15,383.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-j). Transporte de Pasajeros en Bicicletas o Motocicletas Adaptadas $469.00
+j). Transporte de Pasajeros en Bicicletas o Motocicletas Adaptadas $498.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-k). Grúas $1,357.00
+k). Grúas $1,442.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-2. Por su otorgamiento, para el establecimiento y operación en equipamiento auxiliar del servicio de transporte colectivo de pasajeros y por cada cajón vehicular autorizado en bases establecidas, por anualidad $798.00
+2. Por su otorgamiento, para el establecimiento y operación en equipamiento auxiliar del servicio de transporte colectivo de pasajeros y por cada cajón vehicular autorizado en bases establecidas, por anualidad $848.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-3. Por la vigencia anual de recorrido, por cada vehículo $419.00
+3. Por la vigencia anual de recorrido, por cada vehículo $445.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-4. Por reposición del Permiso $1,576.00
+4. Por reposición del Permiso $1,674.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-5. Por la realización de estudios técnicos para el establecimiento de recorridos y bases para la prestación del servicio público de transporte colectivo de pasajeros, y de carga $482.00
+5. Por la realización de estudios técnicos para el establecimiento de recorridos y bases para la prestación del servicio público de transporte colectivo de pasajeros, y de carga $512.00
 
 II. Autorización y Registro:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-1. Por el servicio de transporte de carga particular, por vehículo, por anualidad $701.00
+1. Por el servicio de transporte de carga particular, por vehículo, por anualidad $745.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-2. Autorización especial para transporte de carga mercantil de mensajería en vehículos de más de 3.5 toneladas $1,176.00
+2. Autorización especial para transporte de carga mercantil de mensajería en vehículos de más de 3.5 toneladas $1,249.00
 
 III. Por el trámite de alta que comprende expedición inicial de placas, tarjeta de circulación y calcomanía, así como por su refrendo para la vigencia anual de las placas de matrícula:
 
 a). Tratándose de vehículos de servicio público de transporte:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-1. Por el trámite de alta $913.00
+1. Por el trámite de alta $970.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-2. Por el refrendo $662.00
+2. Por el refrendo $703.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Tratándose de vehículos de servicio particular de transporte $779.00
+b). Tratándose de vehículos de servicio particular de transporte $828.00
 
 c). Tratándose de servicio de transporte de carga:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-1. Por el trámite de alta $913.00
+1. Por el trámite de alta $970.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-2. Por el refrendo $662.00
+2. Por el refrendo $703.00
 
 IV. Por reposición de placas, por cada una:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Vehículos de servicio público de transporte $648.00
+a). Vehículos de servicio público de transporte $688.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Vehículos de servicio particular de transporte $537.00
+b). Vehículos de servicio particular de transporte $570.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). Vehículos de servicio de transporte de carga $648.00
+c). Vehículos de servicio de transporte de carga $688.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-V. Por la expedición de permiso para circular sin placas, tarjeta de circulación o calcomanía, hasta por sesenta días naturales $535.00
+V. Por la expedición de permiso para circular sin placas, tarjeta de circulación o calcomanía, hasta por sesenta días naturales $568.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VI. Por la expedición de permisos para circular con aditamentos a la carrocería $197.00
+VI. Por la expedición de permisos para circular con aditamentos a la carrocería $209.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VII. Por reposición de tarjeta de circulación o calcomanía $133.00
+VII. Por reposición de tarjeta de circulación o calcomanía $141.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VIII. Por cambio de carrocería, motor o domicilio y corrección de datos, incluyendo la expedición de nueva tarjeta de circulación $103.00
+VIII. Por cambio de carrocería, motor o domicilio y corrección de datos, incluyendo la expedición de nueva tarjeta de circulación $109.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IX. Por sustitución de vehículos del servicio público de transporte de pasajeros o del servicio de transporte de carga, en todas sus modalidades, por vehículo $197.00
+IX. Por sustitución de vehículos del servicio público de transporte de pasajeros o del servicio de transporte de carga, en todas sus modalidades, por vehículo $209.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-X. Por la vigencia anual de la concesión o permiso y la revista $1,182.00
+X. Por la vigencia anual de la concesión o permiso y la revista $1,256.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-XI. Por el trámite de baja de vehículo o la suspensión provisional de la prestación del servicio hasta por un año $400.00
+XI. Por el trámite de baja de vehículo o la suspensión provisional de la prestación del servicio hasta por un año $360.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-XII. Por la autorización de cesión de derechos de concesión, por cada vehículo que comprenda $6,994.00
+XII. Por la autorización de cesión de derechos de concesión, por cada vehículo que comprenda $7,430.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-XIII. Por la autorización a centros de capacitación para impartir los cursos a transportistas de pasajeros y de carga y a clínicas para aplicar la evaluación médica integral $3,397.00
+XIII. Por la autorización a centros de capacitación para impartir los cursos a transportistas de pasajeros y de carga y a clínicas para aplicar la evaluación médica integral $3,609.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-XIV. Registro de organizaciones y empresas de concesionarios y permisionarios del transporte público de pasajeros colectivo y de carga $3,397.00
+XIV. Registro de organizaciones y empresas de concesionarios y permisionarios del transporte público de pasajeros colectivo y de carga $3,609.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-XV. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $197.00
+XV. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $209.00
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -5820,89 +6174,89 @@ Por los servicios de control vehicular que se presten respecto a vehículos de s
 
 I. Concesión de Servicio Público de Transporte Individual de Pasajeros:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Por su otorgamiento, por cada vehículo que comprenda $25,000.00
+a). Por su otorgamiento, por cada vehículo que comprenda $26,558.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Por su prórroga, por cada vehículo que comprenda $5,200.00
+b). Por su prórroga, por cada vehículo que comprenda $5,524.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). Por reposición de título concesión $2,413.00
+c). Por reposición de título concesión $2,563.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-d). Por la autorización de cesión de derechos de concesión $6,285.00
+d). Por la autorización de cesión de derechos de concesión $6,670.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-e).- Por la cesión o transmisión de los derechos y obligaciones derivados de una concesión $6,032.00
+e). Por la cesión o transmisión de los derechos y obligaciones derivados de una concesión $6,408.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Permiso para el establecimiento de equipamiento auxiliar de transporte en sitios, bases y módulos de encierro $900.00
+II. Permiso para el establecimiento de equipamiento auxiliar de transporte en sitios, bases y módulos de encierro $956.00
 
-a). Por la realización de estudios técnicos para el establecimiento de bases de servicio $482.00
+a). Por la realización de estudios técnicos para el establecimiento de bases de servicio $512.00
 
 III. Por el trámite de alta que comprende expedición inicial de placas, tarjeta de circulación y calcomanía, así como por su refrendo para la vigencia anual de las placas de matrícula:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Por el trámite de alta $912.00
+a). Por el trámite de alta $969.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Por el refrendo $661.00
+b). Por el refrendo $702.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Por reposición de placas, por cada una $659.00
+IV. Por reposición de placas, por cada una $700.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-V. Por la expedición de permiso para circular sin placas, tarjeta de circulación o calcomanía, hasta por sesenta días naturales $534.00
+V. Por la expedición de permiso para circular sin placas, tarjeta de circulación o calcomanía, hasta por sesenta días naturales $567.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VI. Por la expedición de permisos para circular con aditamentos a la carrocería $195.00
+VI. Por la expedición de permisos para circular con aditamentos a la carrocería $207.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VII. Por reposición de tarjeta de circulación o calcomanía $134.00
+VII. Por reposición de tarjeta de circulación o calcomanía $142.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VIII. Por cambio de carrocería, motor o domicilio y corrección de datos, incluyendo la expedición de nueva tarjeta de circulación $104.00
+VIII. Por cambio de carrocería, motor o domicilio y corrección de datos, incluyendo la expedición de nueva tarjeta de circulación $110.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IX. Por sustitución de vehículos de servicio público de transporte individual de pasajeros, por vehículo $197.00
+IX. Por sustitución de vehículos de servicio público de transporte individual de pasajeros, por vehículo $209.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-X. Por la vigencia anual de la concesión y la revista $1,182.00
+X. Por la vigencia anual de la concesión y la revista $1,256.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-XI. Por el trámite de baja de vehículo y suspensión provisional de la prestación del servicio hasta por un año $400.00
+XI. Por el trámite de baja de vehículo y suspensión provisional de la prestación del servicio hasta por un año $425.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-XII. Por cada cajón vehicular autorizado en bases establecidas, por anualidad $826.00
+XII. Por cada cajón vehicular autorizado en bases establecidas, por anualidad $877.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-XIII. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $197.00
+XIII. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $209.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-XIV. Registro de organizaciones y empresas de concesionarios y permisionarios del transporte público individual de pasajeros $3,397.00
+XIV. Registro de organizaciones y empresas de concesionarios y permisionarios del transporte público individual de pasajeros $3,609.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-XV. Por la autorización de modificación de cromática oficial de vehículos del transporte público de taxi, por cada unidad $826.00
+XV. Por la autorización de modificación de cromática oficial de vehículos del transporte público de taxi, por cada unidad $877.00
 
 Tratándose de vehículos habilitados para personas con discapacidad y vehículos eléctricos, los pagos de contribuciones o derechos a que se refieren las fracciones I incisos a), b), c) y d); II, IV, V, VII, IX, X, XI, XII y XV tendrán una reducción del 50%.
 
@@ -5912,41 +6266,37 @@ Tratándose de vehículos habilitados para personas con discapacidad y vehículo
 
 Por los servicios de control vehicular que se presten respecto a remolques, se pagará el derecho conforme a las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Por el trámite de alta que comprende expedición inicial de placa y tarjeta de circulación $778.00
+I. Por el trámite de alta que comprende expedición inicial de placa y tarjeta de circulación $826.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Por refrendo para vigencia anual de placa $276.00
+II. Por refrendo para vigencia anual de placa $293.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+III. (DEROGADA, G.O. 29 DE DICIEMBRE DE 2008)
 
-III. Por reposición de placa, derivada de pérdida $673.00
+IV. (DEROGADA, G.O. 29 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Por reposición de placa, derivada de mutilación o deterioro $266.00
+V. Por la expedición de permiso para circular sin placa o tarjeta de circulación por sesenta días $283.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-V. Por la expedición de permiso para circular sin placa o tarjeta de circulación por sesenta días $266.00
+VI. Por reposición de tarjeta de circulación $142.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VI. Por reposición de tarjeta de circulación $134.00
+VII. Por cambio de propietario o domicilio, incluyendo la expedición de nueva tarjeta de circulación $110.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VII. Por cambio de propietario o domicilio, incluyendo la expedición de nueva tarjeta de circulación $104.00
+VIII. Por el trámite de baja $234.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VIII. Por el trámite de baja $220.00
-
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
-
-IX. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $213.00
+IX. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $226.00
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -5954,41 +6304,37 @@ IX. Por cualquier otro servicio distinto a los señalados en las fracciones ante
 
 Por los servicios de control vehicular que se presten respecto a motocicletas y motonetas, se pagarán las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Por el trámite de alta que comprende expedición inicial de placa y tarjeta de circulación $321.00
+I. Por el trámite de alta que comprende expedición inicial de placa y tarjeta de circulación $341.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Por refrendo para vigencia anual de placa $213.00
+II. Por refrendo para vigencia anual de placa $226.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Por reposición de tarjeta de circulación $134.00
+III. Por reposición de tarjeta de circulación $142.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Por cambio de propietario o domicilio y corrección de datos, incluyendo la expedición de nueva tarjeta de circulación $104.00
+IV. Por cambio de propietario o domicilio y corrección de datos, incluyendo la expedición de nueva tarjeta de circulación $110.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+V. (DEROGADA, G.O. 29 DE DICIEMBRE DE 2008)
 
-V. Por reposición de placa, derivada de pérdida $705.00
+VI. (DEROGADA, G.O. 29 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VI. Por reposición de placa, derivada de mutilación o deterioro $266.00
+VII. Por la expedición de permiso para circular sin placa o tarjeta de circulación por treinta días $142.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VII. Por la expedición de permiso para circular sin placa o tarjeta de circulación por treinta días $134.00
+VIII. Por el trámite de baja de vehículo $234.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VIII. Por el trámite de baja de vehículo $220.00
-
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
-
-IX. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $104.00
+IX. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $110.00
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -5996,41 +6342,41 @@ IX. Por cualquier otro servicio distinto a los señalados en las fracciones ante
 
 Por los servicios de control vehicular que se presten respecto de bicicletas y motocicletas adaptadas, se pagarán las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Por el trámite de alta que comprende expedición inicial de placa y tarjeta de circulación $698.00
+I. Por el trámite de alta que comprende expedición inicial de placa y tarjeta de circulación $742.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Por el refrendo para la vigencia anual de placas $83.00
+II. Por el refrendo para la vigencia anual de placas $88.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Por reposición de tarjeta de circulación $224.00
+III. Por reposición de tarjeta de circulación $238.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Por reposición de placa, derivada de pérdida $705.00
+IV. Por reposición de placa, derivada de pérdida $749.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-V. Por reposición de placa, derivada de mutilación o deterioro $266.00
+V. Por reposición de placa, derivada de mutilación o deterioro $283.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VI. Por cambio de propietario o domicilio, incluyendo la expedición de nueva tarjeta de circulación $224.00
+VI. Por cambio de propietario o domicilio, incluyendo la expedición de nueva tarjeta de circulación $238.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VII. Por la expedición de permiso para circular sin placa o tarjeta de circulación $251.00
+VII. Por la expedición de permiso para circular sin placa o tarjeta de circulación $267.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VIII. Por el trámite de baja $137.00
+VIII. Por el trámite de baja $146.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IX. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $182.00
+IX. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $193.00
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -6050,13 +6396,13 @@ Los derechos por refrendo para vigencia de placas y, en su caso, de tarjeta de c
 
 Por la expedición o refrendo de placas de demostración:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Por la expedición $1,073.00
+a). Por la expedición $1,140.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Por el refrendo $833.00
+b). Por el refrendo $885.00
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -6064,65 +6410,65 @@ b). Por el refrendo $833.00
 
 Por los servicios relacionados con licencias y permisos para conducir vehículos, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Por expedición o reposición de permiso para conducir vehículos particulares, con vigencia única $233.00
+I. Por expedición o reposición de permiso para conducir vehículos particulares, con vigencia única $248.00
 
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Por licencia tipo “A” para conducir vehículos particulares y motocicletas $455.00
+II. Por licencia tipo “A” para conducir vehículos particulares y motocicletas $483.00
 
 III. Por licencia tarjetón tipo "B" para conducir taxis, por su expedición y renovación:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Por dos años $567.00
+a). Por dos años $602.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Por tres años $851.00
+b). Por tres años $904.00
 
 IV. Por licencia tarjetón tipo "C" para conducir vehículos de transporte de pasajeros por expedición y renovación:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Por dos años $820.00
+a). Por dos años $871.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Por tres años $1,231.00
+b). Por tres años $1,308.00
 
 V. Por licencia tarjetón tipo "D" para conducir vehículos de transporte de carga, por expedición y renovación:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Por dos años $820.00
+a). Por dos años $871.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Por tres años $1,231.00
+b). Por tres años $1,308.00
 
 VI. Por licencia tarjetón tipo "E" para conducir vehículos de transporte especializado, por expedición y renovación:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Por dos años $820.00
+a). Por dos años $871.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Por tres años $1,231.00
+b). Por tres años $1,308.00
 
 > <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
 VII. Por reposición de las licencias a que se refieren las fracciones anteriores se incrementará un 30% conforme a los pagos de derechos señalados para cada modalidad, salvo la presentación del acta levantada ante el Ministerio Público por el delito de robo.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VIII. Por certificación de expedición de licencia $103.00
+VIII. Por certificación de expedición de licencia $109.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IX. Por expedición de antecedente de licencia o permiso $103.00
+IX. Por expedición de antecedente de licencia o permiso $109.00
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -6130,21 +6476,21 @@ IX. Por expedición de antecedente de licencia o permiso $103.00
 
 Por el servicio de grúa que se preste como consecuencia de la comisión de infracciones a las disposiciones en materia de tránsito y vialidad, o bien, a solicitud de los conductores de vehículos, los propietarios de los mismos pagarán las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Cuando se preste el servicio con vehículos cuya capacidad de arrastre sea de hasta 3.5 toneladas $398.00
+I. Cuando se preste el servicio con vehículos cuya capacidad de arrastre sea de hasta 3.5 toneladas $423.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Cuando se preste el servicio con vehículos cuya capacidad de arrastre sea mayor a 3.5 toneladas $796.00
+II. Cuando se preste el servicio con vehículos cuya capacidad de arrastre sea mayor a 3.5 toneladas $846.00
 
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Por el servicio de retiro de candado inmovilizador que se utiliza en los casos a que se refiere el artículo 13 del Reglamento de Tránsito Metropolitano, los propietarios de los vehículos pagarán una cuota de $136.00
+III. Por el servicio de retiro de candado inmovilizador que se utiliza en los casos a que se refiere el artículo 13 del Reglamento de Tránsito Metropolitano, los propietarios de los vehículos pagarán una cuota de $144.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Por el servicio de retiro de candado inmovilizador colocado por estacionarse en los lugares y rampas designados para personas con discapacidad, los propietarios de los vehículos pagarán una cuota de $615.00
+IV. Por el servicio de retiro de candado inmovilizador colocado por estacionarse en los lugares y rampas designados para personas con discapacidad, los propietarios de los vehículos pagarán una cuota de $653.00
 
 El derecho a que se refiere este artículo se causará por la sola prestación del servicio, con independencia de las sanciones administrativas que procedan.
 
@@ -6152,11 +6498,11 @@ El derecho a que se refiere este artículo se causará por la sola prestación d
 
 En caso de que las autoridades fiscales del Distrito Federal, requieran el servicio de grúa para el traslado de vehículos embargados dentro del procedimiento administrativo de ejecución a los almacenes o lugares de resguardo, los servicios se prestarán en el momento de la solicitud y los derechos correspondientes serán pagados cuando concluya dicho procedimiento y la propia autoridad ordene al contribuyente deudor el pago de los gastos que se hayan originado, o en su caso, cuando sean sacados a remate dichos vehículos.
 
-> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 253.
 
-Por el servicio de almacenaje de cualquier tipo de vehículo, se pagará por cada día un derecho, a partir del día siguiente en que entre el vehículo, de $41.00 en tanto los propietarios no los retiren.
+Por el servicio de almacenaje de cualquier tipo de vehículo, se pagará por cada día un derecho, a partir del día siguiente en que entre el vehículo, de $44.00 en tanto los propietarios no los retiren.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -6188,11 +6534,11 @@ ARTICULO 254 B.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 #### Sección Octava. De los Servicios de Alineamiento y Señalamiento de Número Oficial y de Expedición de Constancias de Zonificación y de Uso de Inmuebles
 
-> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 255.
 
-Por los servicios de alineamiento de inmuebles sobre la vía pública, se pagará el derecho de alineamiento de inmuebles conforme a una cuota de $22.00 por cada metro de frente del inmueble.
+Por los servicios de alineamiento de inmuebles sobre la vía pública, se pagará el derecho de alineamiento de inmuebles conforme a una cuota de $23.00 por cada metro de frente del inmueble.
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
@@ -6200,11 +6546,11 @@ Están exentos del pago de los derechos previstos en este artículo, los inmuebl
 
 ARTICULO 255 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
-> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 256.
 
-Por los servicios de señalamiento de número oficial de inmuebles se pagará el derecho por número oficial conforme a una cuota de $134.00.
+Por los servicios de señalamiento de número oficial de inmuebles se pagará el derecho por número oficial conforme a una cuota de $142.00.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -6232,13 +6578,11 @@ ARTICULO 256 F.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 Por los servicios de expedición de certificaciones, licencias, estudios y dictamen que a continuación se indican, se cubrirán por concepto de derechos, las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Por certificación de zonificación para uso específico, certificación de zonificación para usos del suelo permitidos y certificación de acreditación de uso del suelo por derechos adquiridos, por cada una $708.00
+I. Por certificación de zonificación para uso específico, certificación de zonificación para usos del suelo permitidos y certificación de acreditación de uso del suelo por derechos adquiridos, por cada una $752.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
-
-II. Prórroga de la licencia de uso del suelo $2,351.00
+II. (DEROGADA, G.O. 29 DE DICIEMBRE DE 2008)
 
 III. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2004) (REPUBLICADA, G.O. 30 DE DICIEMBRE DE 2005)
 
@@ -6246,21 +6590,21 @@ III. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2004) (REPUBLICADA, G.O. 30 DE DICIEMBRE
 
 IV. Por el dictamen de estudio de impacto urbano que efectúe la autoridad competente o su prórroga:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). En los proyectos de vivienda que tengan más de 10,000 metros cuadrados de construcción $1,864.00
+a). En los proyectos de vivienda que tengan más de 10,000 metros cuadrados de construcción $1,980.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). En los proyectos que incluyan oficinas, comercios, industrias, servicios o equipamientos, por más de 5,000 metros cuadrados de construcción, así como las estaciones de servicio de combustibles y crematorios $3,722.00
+b). En los proyectos que incluyan oficinas, comercios, industrias, servicios o equipamientos, por más de 5,000 metros cuadrados de construcción, así como las estaciones de servicio de combustibles y crematorios $3,954.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-V. Por certificado único de uso de suelo específico y factibilidades $708.00
+V. Por certificado único de uso de suelo específico y factibilidades $752.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VI. Dictamen de informe preliminar $1,855.00
+VI. Dictamen de informe preliminar $1,971.00
 
 Tratándose de estudios y dictámenes de incremento de densidad, relacionados con viviendas de interés social, no se estará obligado al pago de los derechos correspondientes.
 
@@ -6268,11 +6612,11 @@ Tratándose de estudios y dictámenes de incremento de densidad, relacionados co
 
 #### Sección Novena. De los Derechos sobre las Concesiones de Inmuebles
 
-> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 258.
 
-Por el otorgamiento de concesiones para el uso o goce de inmuebles del dominio público del Distrito Federal, se pagará anualmente, por cada uno, el derecho de concesión de inmuebles conforme a una cuota de $838.00.
+Por el otorgamiento de concesiones para el uso o goce de inmuebles del dominio público del Distrito Federal, se pagará anualmente, por cada uno, el derecho de concesión de inmuebles conforme a una cuota de $890.00.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -6292,11 +6636,11 @@ Este derecho se pagará independientemente del que corresponda conforme a la Sec
 
 Por los servicios de almacenaje de bienes en bodegas o locales proporcionados por el Distrito Federal, distintos a los señalados en el artículo 253 de este Código, se pagará el derecho de almacenaje, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Cuando los bienes ocupen hasta tres metros cuadrados de superficie y hasta tres metros de altura, por día $6.00
+I. Cuando los bienes ocupen hasta tres metros cuadrados de superficie y hasta tres metros de altura, por día $6.50
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA] EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 II. Por cada metro o fracción que exceda de la superficie o de la altura mencionada, por día $3.00
 
@@ -6316,39 +6660,39 @@ Por los servicios de publicaciones, que preste el Distrito Federal, se pagará e
 
 I. Publicaciones en el Boletín Judicial:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Hasta 80 palabras $26.00
+a). Hasta 80 palabras $28.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Hasta 120 palabras $40.00
+b). Hasta 120 palabras $42.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). Hasta 160 palabras $51.00
+c). Hasta 160 palabras $54.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-d). Hasta 200 palabras $64.00
+d). Hasta 200 palabras $68.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-e). Por mayor número, además de la cuota anterior por cada palabra $0.27
+e). Por mayor número, además de la cuota anterior por cada palabra $0.29
 
 II. Publicaciones en la Gaceta Oficial:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Por plana entera $1,252.00
+a). Por plana entera $1,330.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Por media plana $673.00
+b). Por media plana $715.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). Por un cuarto de plana $419.00
+c). Por un cuarto de plana $445.00
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -6432,47 +6776,77 @@ ARTICULO 264 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 #### Sección Décima Quinta. De los Derechos por los Servicios de Recolección y Recepción de Residuos Sólidos
 
-ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
-
-ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
-
-> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 265.
 
-Por los servicios de recolección y recepción de residuos sólidos que generen los establecimientos mercantiles, empresas, fábricas, tianguis y mercados sobre ruedas, mercados públicos, centros de abasto, grandes concentraciones comerciales, industrias y similares, así como las dependencias y entidades federales, generadoras de residuos sólidos en alto volumen que presta el Gobierno del Distrito Federal se pagarán los derechos correspondientes conforme a las siguientes cuotas:
+Por los servicios de recolección, recepción y disposición final de residuos sólidos que generen los establecimientos mercantiles, empresas, fábricas, tianguis y mercados sobre ruedas, mercados públicos, centros de abasto, grandes concentraciones comerciales, industrias y similares, así como las dependencias y entidades federales, generadoras de residuos sólidos en alto volumen que presta el Gobierno del Distrito Federal se pagarán los derechos correspondientes por cada kilogramo que exceda los 50 kilogramos, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Por servicio de recolección a partir de los 50 Kg., por cada kilogramo o fracción $2.00
+I. Por servicio de recolección:
 
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+a). De residuos sólidos urbanos separados, por cada kilogramo, excepto poda $0.66
 
-II. Por el servicio de recepción en estaciones de transferencia y centros de composteo por cada 100 kilogramos o fracción $15.00
+b). De residuos de poda, por cada kilogramo $ 1.10
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+c). De residuos de manejo especial, por cada kilogramo, excepto construcción $1.30
 
-III. Por el servicio de recepción de residuos de la construcción en estaciones de transferencia, por cada 100 kilogramos o fracción $91.00
+d). De residuos de construcción, en vehículos autorizados, por cada kilogramo $0.30
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Por el servicio de recepción de residuos sólidos en sitios de disposición final, por cada 100 kilogramos o fracción $14.00
+II. Por servicio de recepción:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+a). En estaciones de transferencia, por cada kilogramo de residuos sólidos urbanos separados, excepto poda $0.35
 
-V. Por el servicio de recepción de residuos sólidos no peligrosos de manejo especial en sitios de disposición final por cada 100 kilogramos o fracción $164.00
+b). En estaciones de transferencia, por cada kilogramo de residuos sólidos de poda $0.70
+
+c). En centros de composteo autorizados, por cada kilogramo de residuos orgánicos y/o de poda $0.10
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+III. Por el servicio de recepción de residuos de la construcción:
+
+a). En estaciones de transferencia, por cada kilogramo $0.20
+
+b). En sitio de disposición final autorizado, por cada kilogramo $ 0.06
+
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+IV. Por el servicio de recepción de residuos sólidos urbanos separados en sitios de disposición final, por cada kilogramo, excepto poda $0.15
+
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+V. Por el servicio de recepción de residuos no peligrosos de manejo especial en sitios de disposición final, por cada kilogramo $ 0.30
+
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2007)</small>
 
 Para los efectos de estos derechos se considerarán los residuos de manejo especial aquellos establecidos en la legislación aplicable.
 
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2007)</small>
+
 El servicio de recepción de residuos sólidos no peligrosos se prestará siempre que no se encuentren mezclados con residuos peligrosos.
+
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2007)</small>
 
 El pago de estos derechos se hará previamente a la recolección o a la recepción de los residuos, debiendo enterarse por periodos quincenales dentro de los primeros cinco días correspondientes a cada periodo por el que deba efectuarse el pago ante las oficinas autorizadas por la autoridad fiscal, salvo los casos que autorice la Secretaría.
 
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2007)</small>
+
 En el caso en que el monto de los derechos causados resulte superior al efectuado conforme a las estimaciones realizadas por el contribuyente, se pagarán las diferencias con los recargos que correspondan conforme al artículo 64 de este Código, dentro de los primeros cinco días siguientes al mes de causación del derecho.
+
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2007)</small>
 
 Cuando los mercados públicos celebren convenios con la autoridad competente para el depósito de residuos sólidos orgánicos generados en alto volumen y realicen el traslado de dichos residuos por cuenta propia al lugar autorizado por la Secretaría de Obras y Servicios quedarán exentos del pago a que se refiere la fracción II del presente artículo.
 
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2007)</small>
+
 La Secretaría de Finanzas celebrará convenios con los Órganos Político-Administrativos a efecto de que una vez determinado el monto mensual recaudado por concepto de los derechos que se detallan en este artículo, participe con el 50% del recurso recaudado a las Delegaciones, mismas que lo destinarán a la adquisición de insumos utilizados en la prestación del servicio de limpia.
+
+ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
+
+ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 ARTICULO 265 B.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -6530,11 +6904,17 @@ ARTICULO 265 B Bis.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 ARTICULO 265 C Bis.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 266.
 
-Por el pago de las autorizaciones y registro a establecimientos mercantiles y de servicios relacionados con la recolección, manejo, tratamiento, reutilización, reciclaje y disposición final de residuos sólidos, se pagará una cuota de $123.00.
+Por el pago de las autorizaciones y registro a establecimientos mercantiles y de servicios relacionados con la recolección, manejo, tratamiento, reutilización, reciclaje y disposición final de residuos sólidos, se pagará una cuota anual de:
+
+I. Por registro $5,000.00
+
+II. Por renovación $1,000.00
+
+III. Por unidad de transporte de residuos sólidos $250.00
 
 ARTICULO 266 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -6548,9 +6928,9 @@ ARTICULO 267 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 ARTÍCULO 267 B.- Tratándose de los siguientes aprovechamientos por la utilización de bienes de uso común se pagarán semestralmente las siguientes tarifas:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Casetas Telefónicas $500.00 c/u
+a). Casetas Telefónicas $750.00 c/u
 
 b). (DEROGADO, G.O. 27 DE DICIEMBRE DE 2007)
 
@@ -6572,37 +6952,37 @@ Por el otorgamiento de permisos, licencias y autorizaciones, por un año, para p
 
 a). Permisos:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Seguridad y protección personal $9,359.00
+I. Seguridad y protección personal $9,942.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Vigilancia y protección de bienes $8,839.00
+II. Vigilancia y protección de bienes $9,390.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Custodia, traslado y vigilancia de bienes o valores $10,399.00
+III. Custodia, traslado y vigilancia de bienes o valores $11,047.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Localización e información de personas y bienes $8,319.00
+IV. Localización e información de personas y bienes $8,838.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-V. Actividades inherentes a la seguridad privada $7,903.00
+V. Actividades inherentes a la seguridad privada $8,396.00
 
 Por la revalidación anual de los permisos a que se refiere este inciso, se cobrará el mismo monto que se pagó por su expedición.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Licencias tipos "A" o "B", para la prestación de servicios de seguridad privada a terceros $208.00
+b). Licencias tipos "A" o "B", para la prestación de servicios de seguridad privada a terceros $221.00
 
-Por la reposición de las licencias a que se refiere el inciso anterior $140.00
+Por la reposición de las licencias a que se refiere el inciso anterior $149.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). Autorizaciones a personas físicas o morales, para que realicen actividades de seguridad privada $3,120.00
+c). Autorizaciones a personas físicas o morales, para que realicen actividades de seguridad privada $3,314.00
 
 Por la revalidación anual de las autorizaciones a que se refiere este inciso, se pagará el mismo monto que se pagó por su otorgamiento.
 
@@ -6610,17 +6990,17 @@ En los casos en que las empresas a que este artículo se refiere, soliciten una 
 
 ARTICULO 268 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 269.
 
-Por la expedición de la constancia de información, registro, folio o certificación que proporcione el registro de servicios de seguridad privada, se pagarán derechos por $189.00
+Por la expedición de la constancia de información, registro, folio o certificación que proporcione el registro de servicios de seguridad privada, se pagarán derechos por $201.00
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 270.
 
-Por la expedición de la constancia de certificación de aptitud, idoneidad y confiabilidad, para prestar servicios o realizar actividades de Seguridad Privada, se pagará la cantidad de $312.00.
+Por la expedición de la constancia de certificación de aptitud, idoneidad y confiabilidad, para prestar servicios o realizar actividades de Seguridad Privada, se pagará la cantidad de $331.00.
 
 (REUBICADA, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -6634,137 +7014,137 @@ Tratándose de los servicios que a continuación se enumeran que sean prestados 
 
 I. Expedición de copias certificadas:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Heliográficas de plano $216.00
+a). Heliográficas de plano $229.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). De planos en material distinto al inciso anterior $217.00
+b). De planos en material distinto al inciso anterior $231.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). De documentos, por cada hoja tamaño carta u oficio $5.00
+c). De documentos, por cada pagina carta u oficio $5.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-d). Expedición de copias simples de los documentos mencionados en los incisos a) y b) $168.00
+d). Expedición de copias simples de los documentos mencionados en los incisos a) y b) $178.00
 
 II. Expedición de copias simples o fotostáticas de documentos, tamaño carta u oficio, excepto los que obren en autos de los órganos judiciales del Distrito Federal y en Agencias del Ministerio Público del Distrito Federal:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO] EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 a). Copia simple o fotostática, por una sola cara $1.50
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO] EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 b). Copia simple o fotostática en reducción o ampliación, por una sola cara $1.50
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Por reposición de constancia o duplicado de la misma $31.00
+III. Por reposición de constancia o duplicado de la misma $33.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Compulsa de documentos, por hoja $5.00
+IV. Compulsa de documentos, por página $5.50
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-V. Por la búsqueda de documento original en los archivos oficiales $49.00
+V. Por la búsqueda de documento original en los archivos oficiales $52.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VI. Legalización de firma y sello de documento público $57.00
+VI. Legalización de firma y sello de documento público $61.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VII. Apostilla en documento público $57.00
+VII. Apostilla en documento público $61.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VIII. Constancia de adeudos $103.00
+VIII. Constancia de adeudos $109.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IX. Informe de adeudos $45.00
+IX. Informe de adeudos $48.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-X. Por certificaciones de no adeudo de contribuciones $52.00
+X. Por certificaciones de no adeudo de contribuciones $55.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-XI. Por certificaciones de pagos a partir del número de cuenta, placa o registro de contribuyente $52.00
+XI. Por certificaciones de pagos a partir del número de cuenta, placa o registro de contribuyente $55.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-XII. Por cualquier otra certificación o expedición de constancias distintas a las señaladas en las fracciones anteriores $103.00
+XII. Por cualquier otra certificación o expedición de constancias distintas a las señaladas en las fracciones anteriores $109.00
 
 XIII. Por autorización para la práctica de avalúos para efectos fiscales:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Por la autorización a personas morales cuyo objeto sea la realización de avalúos $4,503.00
+a). Por la autorización a personas morales cuyo objeto sea la realización de avalúos $4,784.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Por la revalidación anual de la autorización a que se refiere el inciso anterior $2,250.00
+b). Por la revalidación anual de la autorización a que se refiere el inciso anterior $2,390.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). Por la autorización a corredores públicos $2,793.00
+c). Por la autorización a corredores públicos $2,967.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-d). Por la revalidación anual de la autorización a corredores públicos $1,398.00
+d). Por la revalidación anual de la autorización a corredores públicos $1,485.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-e). Por el registro como perito valuador para auxiliar en la práctica de avalúos $2,250.00
+e). Por el registro como perito valuador para auxiliar en la práctica de avalúos $2,390.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-f). Por la revalidación anual del registro a que se refiere el inciso anterior $1,350.00
+f). Por la revalidación anual del registro a que se refiere el inciso anterior $1,434.00
 
-> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-g). Por el registro como perito valuador independiente en la práctica de avalúos $4,330.00
+g). Por el registro como perito valuador independiente en la práctica de avalúos $4,600.00
 
-> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-h). Por la revalidación anual del registro a que se refiere el inciso anterior $2,163.00
+h). Por la revalidación anual del registro a que se refiere el inciso anterior $2,298.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-i). Por el examen en materia de valuación inmobiliaria $1,124.00
+i). Por el examen en materia de valuación inmobiliaria $1,194.00
 
 > <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
 XIV. Materiales complementarios, necesarios para la expedición de información pública, de conformidad con las disposiciones aplicables:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Discos flexibles de 3.5”, discos compactos, audiocassettes $13.00
+a). Discos flexibles de 3.5”, discos compactos, audiocassettes $14.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Videocasetes $36.00
+b). Videocasetes $38.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-XV. Por la tramitación de la constitución de la sociedad de convivencia incluido la ratificación y el registro $44.00
+XV. Por la tramitación de la constitución de la sociedad de convivencia incluido la ratificación y el registro $47.00
 
 > <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2006)</small>
 
 XVI. Por los servicios que presta la Dirección General Jurídica y de Gobierno del Órgano Político Administrativo respecto de las modificaciones y/o terminación de la sociedad de convivencia se pagará conforme a lo siguiente:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a) Inscripción de modificación y adición a la sociedad de convivencia $1,505.00
+a) Inscripción de modificación y adición a la sociedad de convivencia $1,599.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b) Registro del aviso de terminación de la sociedad de convivencia $1,505.00
+b) Registro del aviso de terminación de la sociedad de convivencia $1,599.00
 
 Las certificaciones a que se refiere la fracción X de este artículo, se emitirán previo ejercicio de las facultades de comprobación de la autoridad fiscal y a petición del contribuyente.
 
@@ -6778,33 +7158,25 @@ No se entenderá que existe prestación de servicios en los términos de la frac
 
 Los derechos a que se refiere el inciso c) de la fracción I de este artículo, y que sean generados por los servicios que presta el Tribunal, serán destinados al mismo, como ampliación líquida de su presupuesto, los cuales deberán aplicarse íntegramente a la impartición de justicia.
 
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-ARTICULO 271 A.- Por la expedición en copia simple o fotostática o reproducción de información pública, derivada del ejercicio del derecho de acceso a la información pública, se deberán pagar las cuotas que para cada caso se indican a continuación:
+ARTICULO 271 A.- Por la expedición en copia certificada, simple o fotostática o reproducción de información pública, derivada del ejercicio del derecho de acceso a la información pública, se deberán pagar las cuotas que para cada caso se indican a continuación:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+I. De copia certificada, por una sola cara $4.00
 
-I.- De copia simple o fotostática, por una sola cara $1.00
+II. De versión pública, por una sola cara $1.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+III. De copia simple o fotostática, por una sola cara $1.00
 
-II.- De planos $67.00
+IV. De planos $71.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+V. De discos flexibles de 3.5 $14.00
 
-III.- De discos flexibles de 3.5 $13.00
+VI. De discos compactos $14.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+VII. De audiocassettes $14.00
 
-IV.- De discos compactos $13.00
-
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
-
-V.- De audiocassettes $13.00
-
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
-
-VI.- De videocasetes $36.00
+VIII. De videocasetes $38.00
 
 (REUBICADA, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -6816,33 +7188,33 @@ VI.- De videocasetes $36.00
 
 Por los servicios de revisión de datos catastrales y levantamientos topográficos, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Por revisión de datos catastrales cuando el inmueble no rebase los 1000 m2 de terreno y/o de construcción, por cada número de cuenta predial $339.00
+I. Por revisión de datos catastrales cuando el inmueble no rebase los 1000 m2 de terreno y/o de construcción, por cada número de cuenta predial $360.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Por revisión de datos catastrales cuando el inmueble rebase 1000 m2 de terreno y/o de construcción, por cada número de cuenta predial $677.00
+II. Por revisión de datos catastrales cuando el inmueble rebase 1000 m2 de terreno y/o de construcción, por cada número de cuenta predial $719.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Por levantamiento topográfico de un inmueble cuando éste no rebase los 1000 m2 de superficies (sic) de terreno y/o de construcción, por cada número de cuenta predial o por predio fusionado $1,019.00
+III. Por levantamiento topográfico de un inmueble cuando éste no rebase los 1000 m2 de superficies de terreno y/o de construcción, por cada número de cuenta predial o por predio fusionado$1,083.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Por levantamiento topográfico de un inmueble cuando éste tenga entre 1000 m2 y 5000 m2, de superficies (sic) de terreno y/o de construcción y uso diferente al pecuario, agrícola, forestal o de pastoreo controlado, por cada número de cuenta predial o por predio fusionado $3,392.00
+IV. Por levantamiento topográfico de un inmueble cuando éste tenga entre 1000 m2 y 5000 m2, de superficies de terreno y/o de construcción y uso diferente al pecuario, agrícola, forestal o de pastoreo controlado, por cada número de cuenta predial o por predio fusionado $3,603.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-V. Por levantamiento topográfico de un inmueble que tenga entre 1000 m2 y 5000 m2 de superficies (sic) de terreno y/o construcción y uso pecuario, agrícola, forestal o de pastoreo controlado, por cada número de cuenta predial o por predio fusionado $668.00
+V. Por levantamiento topográfico de un inmueble que tenga entre 1000 m2 y 5000 m2 de superficies de terreno y/o construcción y uso pecuario, agrícola, forestal o de pastoreo controlado, por cada número de cuenta predial o por predio fusionado $710.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA] EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VI. Por levantamiento topográfico de inmueble cuando éste rebase los 5000 m2, de superficies (sic) de terreno y/o de construcción y un uso diferente al pecuario, agrícola, forestal o de pastoreo controlado, por cada uno de los conceptos $1.00 xm²
+VI. Por levantamiento topográfico de inmueble cuando éste rebase los 5000 m2, de superficies de terreno y/o de construcción y un uso diferente al pecuario, agrícola, forestal o de pastoreo controlado, por cada uno de los conceptos $1.00 xm²
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VII. Por levantamiento topográfico de un inmueble cuando éste rebase los 5000 m2, de superficies (sic) de terreno y/o de construcción y tenga un uso pecuario, agrícola, forestal o de pastoreo controlado, por cada uno de los conceptos $0.27 xm²
+VII. Por levantamiento topográfico de un inmueble cuando éste rebase los 5000 m2, de superficies (sic) de terreno y/o de construcción y tenga un uso pecuario, agrícola, forestal o de pastoreo controlado, por cada uno de los conceptos $0.29 xm²
 
 Quedan exentos del pago de servicios de levantamiento topográfico a que se refiere este artículo, los contribuyentes que soliciten este servicio por primera vez, siempre que se inscriba al padrón catastral el predio objeto a examen.
 
@@ -6854,17 +7226,17 @@ Por los servicios de información catastral que preste el Distrito Federal, se p
 
 I. Expedición de copias fotostáticas de planos catastrales y de fotografías aéreas de:
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Cartografía catastral a nivel de manzana con la delimitación de predios y con información del predio de interés a escala 1: 1,000 por cada hoja $221.00
+a). Cartografía catastral a nivel de manzana con la delimitación de predios y con información del predio de interés a escala 1: 1,000 por cada hoja $235.00
 
 b). (DEROGADO, G.O. 27 DE DICIEMBRE DE 2007)
 
 c). (DEROGADO, G.O. 27 DE DICIEMBRE DE 2007)
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-d). Planos catastrales correspondientes a un predio, con acotaciones a la escala que se requiera $348.00
+d). Planos catastrales correspondientes a un predio, con acotaciones a la escala que se requiera $370.00
 
 e). (DEROGADO, G.O. 27 DE DICIEMBRE DE 2007)
 
@@ -6872,9 +7244,9 @@ f). (DEROGADO, G.O. 27 DE DICIEMBRE DE 2007)
 
 g). (DEROGADO, G.O. 27 DE DICIEMBRE DE 2007)
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-h). De fotografía aérea de tamaño de 23 x 23 centímetros, a escala 1:4,500 o 1:10,000, por cada hoja $37.00
+h). De fotografía aérea de tamaño de 23 x 23 centímetros, a escala 1:4,500 o 1:10,000, por cada hoja $39.00
 
 II. (DEROGADA, G.O. 27 DE DICIEMBRE DE 2007)
 
@@ -6900,23 +7272,23 @@ Se excluye de la prestación de estos servicios, la información respecto de la 
 
 Los permisos y autorizaciones para actividades culturales, deportivas y recreativas que se realicen en áreas de valor ambiental y áreas naturales protegidas se incrementarán en un 2% al monto establecido en el presente Código.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Por el pago de permisos por la prestación de servicios de turismo alternativo a los que se refieren la Ley de Turismo del Distrito Federal en el suelo de conservación se pagará la cuota de $1,844.00, y cuando se trate de la prestación de servicios de turismo alternativo en áreas de valor ambiental y áreas naturales protegidas se pagará la cuota de $3,074.00.
+Por el pago de permisos por la prestación de servicios de turismo alternativo a los que se refieren la Ley de Turismo del Distrito Federal en el suelo de conservación se pagará la cuota de $1,959.00, y cuando se trate de la prestación de servicios de turismo alternativo en áreas de valor ambiental y áreas naturales protegidas se pagará la cuota de $3,266.00.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Por el pago de autorizaciones del estudio de capacidad de carga para turismo alternativo se pagará la cuota de $1,229.00
+Por el pago de autorizaciones del estudio de capacidad de carga para turismo alternativo se pagará la cuota de $1,306.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Por el pago de certificaciones de personal calificado para prestar servicios de turismo alternativo se pagará la cuota de $615.00
+Por el pago de certificaciones de personal calificado para prestar servicios de turismo alternativo se pagará la cuota de $653.0
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 276.
 
-Para las autorizaciones por el derribo, poda, trasplante, remoción y retiro de árboles ubicados en bienes de dominio público o bienes particulares, se pagará la cuota de $184.00.
+Para las autorizaciones por el derribo, poda, trasplante, remoción y retiro de árboles ubicados en bienes de dominio público o bienes particulares, se pagará la cuota de $195.00.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -6924,73 +7296,129 @@ Para las autorizaciones por el derribo, poda, trasplante, remoción y retiro de 
 
 Por los servicios para las autorizaciones y certificaciones a las que se refiere la Ley de Protección a los Animales del Distrito Federal, se pagarán las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Por la expedición de certificados de venta de animales en establecimientos comerciales, ferias y exposiciones que se dedican a la venta de mascotas $184.00
+I. Por la expedición de certificados de venta de animales en establecimientos comerciales, ferias y exposiciones que se dedican a la venta de mascotas $195.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Por la expedición de certificados veterinarios de salud por la venta de mascotas $123.00
+II. Por la expedición de certificados veterinarios de salud por la venta de mascotas $131.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Liberación de animales en centros de control animal $31.00
+III. Liberación de animales en centros de control animal $33.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Autorización para la cría de animales $123.00
+IV. Autorización para la cría de animales $131.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-V. Certificados para el adiestramiento de perros de seguridad $615.00
+V. Certificados para el adiestramiento de perros de seguridad $653.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VI. Por el servicio de monta o tiro deportivo $615.00
+VI. Por el servicio de monta o tiro deportivo $653.00
 
 El pago de estos servicios será anual y los montos recibidos serán destinados al fondo para la protección de los animales que la Ley de Protección a los Animales prevé.
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+#### Sección Vigésima. De los Derechos por la Prestación de Servicios del Heroico Cuerpo de Bomberos del Distrito Federal
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 277 A.- Por los servicios que preste el Heroico Cuerpo de Bomberos del Distrito Federal, se pagarán derechos conforme a las cuotas que a continuación se establecen:
+
+I. Por el visto bueno para la celebración de espectáculos públicos masivos en lo relativo a extintores, señalización para el caso de incendio y sismos, rutas de evacuación y salidas de emergencia $2,500.00
+
+II. Por la supervisión de campo en los lugares donde se celebren espectáculos públicos masivos $3,500.00
+
+No se entenderá que existe prestación de servicios en los términos de este artículo, cuando las autoridades de la Administración Pública del Distrito Federal, celebren espectáculos públicos masivos y, por ende, se requiera el visto bueno y la supervisión de campo en el lugar respectivo.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 277 B.- El pago de los derechos de servicios de prevención de incendios, de conformidad con lo dispuesto en la normatividad de la materia, será conforme a las siguientes tarifas:
+
+CONCEPTO PRECIO PRECIO
+
+MÍNIMO POR MÁXIMO
+
+TURNO POR TURNO
+
+ELEMENTOS
+
+BOMBEROS $695.00 $744.00
+
+SUPERVISORES $754.00 $837.00
+
+VEHÍCULO PRECIO POR UNIDAD
+
+POR TURNO
+
+PATRULLA $227.00
+
+CAMIONETA
+
+EQUIPADA $476.00
+
+CAMIÓN BOMBA $2,763.00
+
+CAMIÓN PIPA $365.00
+
+HAZMAT $1,423.00
+
+CAMIÓN DE VOLTEO $451.00
+
+CAMIONETAS DE 3 1/2
+
+TONELADAS $217.00
+
+BOBCAT $347.00
+
+VEHÍCULO DE
+
+RESCATE $2,957.00
+
 (REUBICADO, G.O. 26 DE DICIEMBRE DE 2003)
-
-#### Sección Primera. De los Derechos por el Estacionamiento de Vehículos
-
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO X. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público
 
 (REUBICADA, G.O. 26 DE DICIEMBRE DE 2003)
 
-#### Sección Segunda. De los Derechos por el Uso de Suelo
+#### Sección Primera. De los Derechos por el Estacionamiento de Vehículos
 
-> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
-
-ARTICULO 278 A.- Tratándose de establecimientos mercantiles que extiendan sus servicios a la vía pública en los términos de la Ley para el Funcionamiento de Establecimientos Mercantiles, se pagará una cuota mensual por cada metro cuadrado que ocupen, equivalente al 1% del valor del suelo para las colonias catastrales en el Distrito Federal y tipo de Corredor establecidos en este Código. Los derechos a los que se refiere este artículo se destinarán a la delegación correspondiente como recursos de aplicación automática.
-
-(REUBICADA [N. DE E. ANTES SECCION SEGUNDA], G.O. 27 DE DICIEMBRE DE 2007)
+> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 278.
 
-Por el estacionamiento de vehículos en la vía pública bajo el esquema de parquímetros se pagará el derecho de estacionamiento conforme a una cuota de $1.50 por cada quince minutos.
+Por el estacionamiento de vehículos en la vía pública bajo el esquema de parquímetros se pagará el derecho de estacionamiento conforme a una cuota de $1.00 por cada quince minutos.
+
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
 El pago de este derecho se hará mediante relojes marcadores, tarjetas o cualquier otro sistema que determinen las autoridades fiscales. El horario será establecido por la Secretaría y será publicado en la Gaceta Oficial del Distrito Federal.
 
-> <small>(DEROGADO ULTIMO PARRAFO, G.O. 27 DE DICIEMBRE DE 2007)</small>
-
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+
+#### Sección Segunda. De los Derechos por el Uso de Suelo
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 278 A.- Tratándose de establecimientos mercantiles que extiendan sus servicios a la vía pública en los términos de la Ley para el Funcionamiento de Establecimientos Mercantiles, se pagará una cuota mensual por cada metro cuadrado que ocupen, equivalente al 1% del valor del suelo para las colonias catastrales en el Distrito Federal y tipo de Corredor establecidos en este Código. Los derechos a los que se refiere este artículo se destinarán a la delegación correspondiente como ampliación líquida a sus presupuestos.
+
+(REUBICADA [N. DE E. ANTES SECCION SEGUNDA], G.O. 27 DE DICIEMBRE DE 2007)
 
 #### Sección Tercera. De los Derechos por el Uso o Aprovechamiento de Inmuebles
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
-#### Sección Cuarta. Derechos de Descarga a la Red de Drenaje
-
-(REUBICADO Y REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)
-
 ###### ARTICULO 279.
 
 Están obligadas a pagar el derecho por el uso o aprovechamiento de inmuebles, las personas físicas y las morales que usen o gocen inmuebles del dominio público del Distrito Federal, conforme a la tasa del 5% anual del valor del inmueble.
 
-No se estará obligado al pago establecido en esta Sección, cuando se usen o gocen inmuebles señalados en otras secciones del mismo. Tratándose de bienes de uso común sólo se estará obligado al pago del derecho cuando se tenga concesión para un aprovechamiento especial o cuando, de hecho dicho aprovechamiento se lleve a cabo sin tener la concesión.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+No se estará obligado al pago establecido en esta Sección, cuando se usen o gocen inmuebles señalados en otras secciones del mismo Capítulo. Tratándose de bienes de uso común sólo se estará obligado al pago del derecho cuando se tenga concesión para un aprovechamiento especial o cuando, de hecho dicho aprovechamiento se lleve a cabo sin tener la concesión.
 
 Quedan exceptuadas de esta Sección, las concesiones y permisos administrativos temporales revocables, que se otorguen y se cubran conforme a lo establecido en la Ley del Régimen Patrimonial y del Servicio Público.
 
@@ -7008,13 +7436,17 @@ El derecho por el uso o aprovechamiento de inmuebles, se calculará por ejercici
 
 (REUBICADA [N. DE E. ANTES SECCION TERCERA], G.O. 27 DE DICIEMBRE DE 2007)
 
-#### Sección Primera. De la Recepción y Concentración de Fondos y Valores
+#### Sección Cuarta. Derechos de Descarga a la Red de Drenaje
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 282.
 
-Están obligados al pago de los derechos establecidos en esta sección, los locatarios de los mercados públicos del Distrito Federal, por el uso y utilización de los locales que al efecto les sean asignados por la autoridad competente así como por las demás instalaciones y servicios inherentes, a razón de $12.00 pesos por metro cuadrado, mismos que se causarán mensualmente y se pagarán por periodos semestrales, dentro del mes siguiente al semestre de que se trate.
+Están obligados al pago de los derechos establecidos en esta sección, los locatarios de los mercados públicos del Distrito Federal, por el uso y utilización de los locales que al efecto les sean asignados por la autoridad competente, así como por las demás instalaciones y servicios inherentes, a razón de $13.00 pesos por metro cuadrado, mismos que se causarán mensualmente y se pagarán por periodos semestrales, dentro del mes siguiente al semestre de que se trate.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+El suministro de agua hasta por 30 m3 y energía eléctrica están comprendidos dentro de los servicios inherentes a que tienen derecho los locatarios que cubran la contribución prevista en el párrafo anterior, siempre y cuando el consumo de agua y energía eléctrica se destine para actividades acordes con el giro autorizado.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -7036,17 +7468,17 @@ Los comerciantes de las concentraciones, pagarán el derecho de uso y utilizaci�
 
 Los derechos a que se refiere este artículo, se destinarán a la Delegación correspondiente, como ampliación líquida de sus presupuestos y deberán aplicarse íntegramente a la infraestructura de mantenimiento de los mercados públicos y concentraciones de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 283.
 
-Están obligadas al pago de estos derechos, las personas físicas y morales que utilicen agua de fuentes diversas a la red de suministro de agua potable del Distrito Federal, por las descargas de este líquido en la red de drenaje, este concepto incluye la conservación y el mantenimiento de la infraestructura hidráulica, así como la conducción de las descargas.
+Están obligadas al pago de estos derechos, las personas físicas y morales que utilicen agua de fuentes diversas a la red de suministro de agua potable del Distrito Federal, por las descargas de este líquido en la red de drenaje, este concepto incluye la conservación y el mantenimiento de la infraestructura hidráulica destinada a las descargas, así como la conducción de las mismas.
 
 > <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
 I. En el caso de que la fuente de abastecimiento de agua cuente con medidor, el monto del derecho de descarga se calculará tomando como base el 80% del volumen de agua extraída, al que se le aplicará la cuota que corresponda por metro cúbico a que se refiere la tabla siguiente:
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 Límite Inferior Límite Cuota Mínima Cuota Adicional
 
@@ -7054,33 +7486,37 @@ Superior por m3 excedente
 
 del límite inferior
 
-0.0 10.0 $70.10 $0.00
+0.0 10 $74.47 $0.00
 
-MAS DE 10 20.0 140.10 0.00
+MAS DE 10 20 148.83 0.00
 
-MAS DE 20 30.0 210.28 0.00
+MAS DE 20 30 223.39 0.00
 
-MAS DE 30 60.0 210.28 10.41
+MAS DE 30 60 223.39 11.06
 
-MAS DE 60 90.0 522.58 13.54
+MAS DE 60 90 555.15 14.38
 
-MAS DE 90 120.0 928.98 16.68
+MAS DE 90 120 986.88 17.72
 
-MAS DE 120 240.0 1,429.50 19.79
+MAS DE 120 240 1,518.60 21.02
 
-MAS DE 240 420.0 3,804.18 22.92
+MAS DE 240 420 4,041.29 24.35
 
-MAS DE 420 660.0 7,930.15 26.04
+MAS DE 420 660 8,424.42 27.66
 
-MAS DE 660 960.0 14,180.28 29.33
+MAS DE 660 960 15,064.12 31.16
 
-MAS DE 960 1500.0 22,982.12 32.85
+MAS DE 960 1500 24,414.56 34.90
 
-MAS DE 1500 En adelante 40,722.16 33.70
+MAS DE 1500 En adelante 43,260.31 35.80
 
 > <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
 II. El usuario que haya optado por instalar dispositivos permanentes de medición continua en las descargas a la red de drenaje del agua que provenga de fuentes diversas a la red de suministro del Distrito Federal, pagará los derechos de descarga de acuerdo a la cuota que corresponda por metro cúbico a que se refiere la tabla anterior.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+El usuario que haya optado por no instalar dispositivos permanentes de medición continúa en las descargas a la red de drenaje, tendrá la obligación de solicitar a la autoridad competente la instalación del aparato medidor que determine la cantidad de agua que proviene de fuentes diversas, por lo cual deberá cubrir el pago de los derechos previstos en el artículo 202 de este Código, por la instalación del mismo.
 
 > <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
@@ -7092,29 +7528,29 @@ Diámetro del cabezal
 
 del pozo en mm. Cuota Bimestral
 
-DE 20 A 26 $14,095.01
+DE 20 A 26 $14,973.53
 
-DE 27 A 32 21,699.93
+DE 27 A 32 23,052.46
 
-DE 33 A 39 31,746.05
+DE 33 A 39 33,724.74
 
-DE 40 A 51 56,258.60
+DE 40 A 51 59,765.12
 
-DE 52 A 64 84,386.36
+DE 52 A 64 89,646.04
 
-DE 65 A 76 120,552.64
+DE 65 A 76 128,066.51
 
-DE 77 A 102 245,122.75
+DE 77 A 102 260,400.90
 
-DE 103 A 150 940,310.92
+DE 103 A 150 998,919.15
 
-DE 151 A 200 1,470,740.89
+DE 151 A 200 1,562,410.06
 
-DE 201 A 250 1,470,740.89
+DE 201 A 250 1,562,410.06
 
-DE 251 A 300 2,117,705.69
+DE 251 A 300 2,249,699.25
 
-DE 301 en adelante 2,246,297.24
+DE 301 en adelante 2,386,305.72
 
 > <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -7210,11 +7646,33 @@ Las autoridades fiscales mantendrán un padrón actualizado de contribuyentes de
 
 En caso de que el contribuyente omita el pago de los derechos correspondientes, el Sistema de Aguas podrá suspender la descarga de aguas residuales, en los términos de la fracción III del artículo 48 de la Ley de Aguas del Distrito Federal.
 
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+#### Sección Quinta. De los Derechos por el uso de la Vía Pública
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 286-A.
+
+Por la expedición del Permiso de Filmación en la vía pública, se pagarán derechos conforme a las siguientes cuotas:
+
+a) Filmación en ciclovías $500.00
+
+b) Filmación en vías de tránsito peatonal $500.00
+
+c) Filmación en vías primarias de tránsito vehicular $2,500.00
+
+d) Filmación en vías secundarias de tránsito vehicular $1,250.00
+
+e) Filmación urgente en vías de tránsito vehicular $5,000.00
+
+f) Modificación de Permiso $500.00
+
+g) Prórroga de Permiso $500.00
+
+El pago de los derechos previstos en este artículo aumentará en cincuenta por ciento, cuando la filmación solicitada se lleve a cabo en el perímetro vial conformado por Eje Central Lázaro Cárdenas, José María Izazaga y su continuación San Pablo, Anillo de Circunvalación y su continuación Vidal Alcocer, Peña y Peña y su continuación Apartado y República de Perú; así como en el perímetro vial constituido por Avenida Hidalgo, Doctor Mora, Avenida Juárez y Eje Central Lázaro Cárdenas.
+
 (REUBICADA, G.O. 26 DE DICIEMBRE DE 2003)
-
-#### Sección Segunda. De la Custodia y Administración de Fondos y Valores
-
-> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO XI. De las Reducciones
 
@@ -7248,11 +7706,13 @@ Quedan excluidos de los beneficios a que se refiere el párrafo primero, los pro
 
 Para la obtención de la reducción contenida en este artículo, los contribuyentes deberán acreditar su calidad correspondiente por medio de la documentación oficial respectiva.
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 289.
 
-Los propietarios de vivienda cuya construcción se encuentre irregular, tendrán derecho a una reducción equivalente al 75% por concepto de los derechos correspondientes a las licencias relativas a las construcciones, ampliaciones o modificaciones que se regularicen, y al 100%, por concepto de Derechos por la Autorización para Usar las Redes de Agua y Drenaje.
+Los propietarios de vivienda cuya construcción se encuentre irregular, tendrán derecho a una reducción equivalente al 75% por concepto de los derechos correspondientes a las licencias relativas a las construcciones, ampliaciones o modificaciones que se regularicen, y al 100%, por concepto de los Derechos por la Autorización para Usar las Redes de Agua y Drenaje, establecidos en el artículo 203, fracción III de este Código.
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Para la obtención de la reducción contenida en este artículo, los contribuyentes deberán cumplir con lo siguiente:
 
@@ -7282,19 +7742,19 @@ REFORMADO, G.O. 26 DE DICIEMBRE DE 2003
 
 Las reducciones que se otorguen con base en este precepto, no excederán la tercera parte de la inversión realizada, y tendrán efectos provisionales hasta en tanto el contribuyente exhiba el Certificado Definitivo de Restauración, con el que se acredite el término de la restauración o remodelación respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 291.
 
-Las personas físicas propietarias de inmuebles que se encuentren catalogados o declarados como monumentos históricos por el Instituto Nacional de Antropología e Historia, y que los habiten, tendrán derecho a una reducción equivalente al 50%, respecto del Impuesto Predial, sin que en ningún caso el monto a pagar sea inferior a la cuota fija establecida para el rango A, en la fracción II del artículo 152 de este Código.
+Las personas físicas propietarias de inmuebles que se encuentren catalogados o declarados como monumentos históricos o artísticos por el Instituto Nacional de Antropología e Historia o por el Instituto Nacional de Bellas Artes y Literatura, y que los habiten, tendrán derecho a una reducción equivalente al 50%, respecto del Impuesto Predial, sin que en ningún caso el monto a pagar sea inferior a la cuota fija establecida para el rango A, en la fracción II del artículo 152 de este Código.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Para lo anterior, el contribuyente deberá presentar lo siguiente:
 
-> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. El certificado del Instituto Nacional de Antropología e Historia, en el que se establezca que el inmueble está declarado o catalogado como monumento histórico, así como copia del mismo para su cotejo;
+I. El certificado del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes y Literatura, en el que se establezca que el inmueble está declarado o catalogado como monumento histórico o artístico, así como copia del mismo para su cotejo;
 
 > <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
@@ -7304,45 +7764,71 @@ II. Un comprobante a satisfacción de la autoridad, que acredite que el inmueble
 
 III. La declaración fiscal que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 292.
 
-Las personas físicas o morales que tengan por objeto desarrollar nuevos proyectos inmobiliarios, preponderantemente de servicios o comerciales, o la reparación y rehabilitación de inmuebles ubicados dentro de los perímetros A y B del Centro Histórico, tendrán derecho a una reducción equivalente al 80%, respecto de las contribuciones a que se refieren los artículos 202, 203, 206, 207, 208, 209, 255, 256 y 257, así como los derechos establecidos en el Capítulo IX, de la Sección Quinta del Título Tercero del Libro Primero de este Código, con excepción de los Derechos del Archivo General de Notarías.
+Las personas físicas o morales que tengan por objeto desarrollar nuevos proyectos inmobiliarios, preponderantemente de servicios o comerciales, o la restauración y rehabilitación de inmuebles ubicados dentro de los perímetros A y B del Centro Histórico, tendrán derecho a una reducción equivalente al 80%, respecto de las contribuciones a que se refieren los artículos 202, 203, 206, 207, 208, 209, 255, 256 y 257, así como los derechos establecidos en el Capítulo IX, de la Sección Quinta del Título Tercero del Libro Primero de este Código, con excepción de los Derechos del Archivo General de Notarías.
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
 Para la obtención de la reducción contenida en este artículo, los contribuyentes deberán presentar la constancia que emita la Secretaría de Desarrollo Urbano y Vivienda en la que conste que se desarrollará el proyecto inmobiliario correspondiente o la reparación y/o rehabilitación del inmueble de que se trate.
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-La reducción a que se refiere este precepto, tendrá efectos provisionales, hasta en tanto el contribuyente exhiba la Constancia definitiva emitida por la Secretaría de Desarrollo Urbano y Vivienda, con la que se acredite que se cumplió con lo inicialmente manifestado.
+Para la obtención de la reducción contenida en este artículo, los contribuyentes deberán presentar la constancia que emita la Secretaría de Desarrollo Urbano y Vivienda en la que conste que se desarrollará el proyecto inmobiliario correspondiente o la restauración y/o rehabilitación del inmueble de que se trate.
 
 > <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2006)</small>
 
 Las reducciones previstas en este artículo no serán aplicables en aquellos casos en que se otorgue el uso o goce del inmueble en construcción para la instalación o fijación de anuncios o cualquier otro tipo de publicidad exterior.
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 293.
 
-Las personas físicas o morales que para coadyuvar a combatir el deterioro ambiental, realicen actividades empresariales de reciclaje o que en su operación reprocesen al menos una tercera parte de sus residuos sólidos, tendrán derecho a una reducción equivalente al 50%, respecto del Impuesto Sobre Nóminas.
+Las personas físicas o morales que para coadyuvar a combatir el deterioro ambiental, realicen actividades empresariales de reciclaje o que en su operación reprocesen parte de sus residuos sólidos generados, tendrán derecho a una reducción en el Impuesto sobre Nóminas, en los términos siguientes:
 
-Para la obtención de la reducción a que se refiere este artículo, los contribuyentes deberán presentar una constancia expedida por la Secretaría del Medio Ambiente, en la que se señale que el solicitante lleva a cabo actividades de reciclaje o que en su operación reprocesen al menos una tercera parte de sus residuos sólidos. La reducción se aplicará durante el período de un año, contado a partir de la fecha de expedición de la constancia respectiva.
+I. Del 30%, cuando reprocesen o reciclen sus residuos sólidos, de un 33% hasta 44%;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+II. Del 40%, cuando reprocesen o reciclen sus residuos sólidos, de un 45% hasta 59%, y
+
+III. Del 50% cuando reprocesen o reciclen sus residuos sólidos, de un 60% hasta 100%.
+
+Para la obtención de la reducción a que se refiere este artículo, los contribuyentes deberán presentar una constancia expedida por la Secretaría del Medio Ambiente, resultado de la acreditación de su Programa de Autorregulación y Auditoría Ambiental, en la que se señale la proporción en la que el solicitante lleva a cabo actividades de reciclaje o de reprocesamiento de sus residuos sólidos generados. La reducción se aplicará durante el período de un año, contado a partir de la fecha de expedición de la constancia respectiva.
+
+Asimismo, los propietarios de viviendas o bienes inmuebles de uso habitacional que instalen y utilicen dispositivos como lo son paneles solares, y sistemas de captación de agua pluvial para la disminución del consumo de energía y/o agua o el reciclaje de esta última, podrán obtener una reducción de hasta el 20% de los derechos por suministro de agua. Las reducciones a que se refiere el presente artículo se aplicarán de conformidad con lo dispuesto en el artículo 315 de este Código.
+
+Los propietarios de los bienes inmuebles a que se refiere el párrafo anterior, deberán presentar una constancia expedida por la Secretaría de Medio Ambiente, en la que se precise el tipo de dispositivos con que cuentan y los beneficios que representan para el ahorro de energía eléctrica y/o agua.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 294.
 
-Las empresas o instituciones que lleven a cabo programas comprobables de mejoramiento de condiciones ambientales, tendrán derecho a una reducción equivalente al 50% respecto del Impuesto sobre Nóminas. Tratándose de acciones relacionadas con el consumo de agua potable, o energía eléctrica o combustible, o minimización o manejo adecuado de sus residuos generados, se deberá acreditar disminuir al menos un 30% de sus condiciones normales de operación, antes de la aplicación del programa, además de precisar el tipo de programa que realizan y los beneficios que representan para mejorar el medio ambiente.
+Las empresas o instituciones que cuenten con programas comprobables de mejoramiento de condiciones ambientales tendrán derecho a una reducción respecto del Impuesto Sobre Nóminas, en los términos siguientes:
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+I. Del 30%, cuando disminuyan sus condiciones normales de operación de un 30% hasta 44%;
 
-Las empresas de servicios e industriales ubicadas en el Distrito Federal que adquieran, instalen y operen tecnologías, sistemas, equipos y materiales o realicen acciones que acrediten prevenir o reducir al menos un 30% las emisiones contaminantes establecidos por las normas oficiales mexicanas y las ambientales para el Distrito Federal, podrán obtener una reducción del 25% del Impuesto Predial.
+II. Del 40%, cuando disminuyan sus condiciones normales de operación de un 45% hasta 59%, y
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+III. Del 50%, cuando disminuyan sus condiciones normales de operación de un 60% hasta 100%.
 
-Las empresas o instituciones a que se refiere este artículo, para efectos de las reducciones, deberán presentar una constancia expedida por la Secretaría del Medio Ambiente, en la que se precise el tipo de programas que realizan y los beneficios que representan para mejorar el medio ambiente, así como la tecnología que aplican para fomentar la preservación, restablecimiento y mejoramiento ambiental del Distrito Federal, o bien, con la que se acredite que realizan las actividades a que se refiere el párrafo segundo de este artículo. Además para la reducción del Impuesto Predial se deberá presentar la evaluación de emisiones de contaminantes.
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Tratándose de acciones relacionadas con el consumo de agua potable, combustible o energía eléctrica, o minimización o manejo adecuado de residuos mediante rediseño de empaques y embalajes y/o la utilización de materiales biodegradables y/o fácilmente reciclables, se deberá acreditar disminuir el valor original determinado antes de la aplicación del programa de Autorregulación y Auditoría Ambiental, además de precisar el tipo de acciones que realizan y los beneficios que representan para mejorar el medio ambiente.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Las empresas industriales o de servicios ubicadas en el Distrito Federal que adquieran, instalen y operen tecnologías, sistemas, equipos y materiales o realicen acciones que acrediten prevenir o reducir las emisiones contaminantes establecidos por las normas oficiales mexicanas y las ambientales para el Distrito Federal, podrán obtener una reducción respecto del Impuesto Predial, en los términos siguientes:
+
+I. Del 15%, cuando adquieran, instalen y operen tecnología, sistema, equipos y materiales que reduzcan sus emisiones contaminantes de un 30% hasta 39%;
+
+II. Del 20%, cuando adquieran, instalen y operen tecnología, sistema, equipos y materiales que reduzcan sus emisiones contaminantes de un 40% hasta 49%, y
+
+III. Del 25%, cuando adquieran, instalen y operen tecnología, sistema, equipos y materiales que reduzcan sus emisiones contaminantes de un 50% hasta 100%.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Las empresas o instituciones a que se refiere este artículo, para efectos de las reducciones, deberán presentar una constancia expedida por la Secretaría del Medio Ambiente, en la que se precise, resultado de la acreditación de su programa de autorregulación y auditoría ambiental, el tipo de programas que realizan y los beneficios que representan para mejorar el medio ambiente, así como la tecnología que aplican para fomentar la preservación, restablecimiento y mejoramiento ambiental del Distrito Federal, o bien, con la que se acredite que realizan las actividades a que se refiere el párrafo segundo de este artículo. Además para la reducción del Impuesto Predial se deberá presentar la evaluación de emisiones de contaminantes correspondiente.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -7470,11 +7956,13 @@ Para obtener la reducción a que se refiere esta fracción, los contribuyentes d
 
 La reducción a la que se refiere esta fracción, se aplicará durante un año, contado a partir de expedida la constancia, y la empresa deberá llevar un registro especial y por separado en el que se consigne el monto de las erogaciones respecto de las cuales no se pagará el Impuesto sobre Nóminas y los conceptos por los cuales se efectuaron tales erogaciones.
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PARRAFO PRIMERO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 297.
 
-Las personas físicas que participen en programas oficiales de beneficio social que requieran de la autorización para usar las redes de agua y drenaje, tendrán derecho de una reducción equivalente al 95%, respecto de los Derechos por la Autorización para Usar las Redes de Agua y Drenaje.
+Las personas físicas que participen en programas oficiales de beneficio social que requieran de la autorización para usar las redes de agua y drenaje, tendrán derecho de una reducción equivalente al 95%, respecto de los Derechos por la Autorización para Usar las Redes de Agua y Drenaje, establecidos en el artículo 203, fracción III de este Código.
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Las personas físicas para obtener la reducción a que se refiere este artículo, deberán formar parte de los Programas Oficiales de Beneficio Social que al efecto desarrollen las delegaciones.
 
@@ -7484,9 +7972,9 @@ Las personas físicas para obtener la reducción a que se refiere este artículo
 
 Los jubilados, pensionados por cesantía en edad avanzada, por vejez, por incapacidad por riesgos de trabajo, por invalidez, así como las viudas y huérfanos pensionados, tendrán derecho a una reducción del Impuesto Predial, de tal manera que sólo se realice el pago establecido como cuota fija para el rango A, en la fracción II del artículo 152 de este Código.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-También serán beneficiarias de la reducción, las mujeres separadas, divorciadas, jefas de hogar y madres solteras que demuestren tener dependientes económicos.
+También serán beneficiarios de la reducción, las mujeres separadas, divorciadas, jefas de hogar y madres solteras que demuestren tener dependientes económicos, así como las personas con capacidades diferentes.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -7502,25 +7990,29 @@ I. Acreditar que cuentan con una pensión o jubilación del Instituto Mexicano d
 
 II. Ser propietario del inmueble en que habiten, respecto del cual se aplicará única y exclusivamente la reducción;
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Que el valor catastral del inmueble, de uso habitacional, no exceda de la cantidad de $1,500,000.00;
+III. Que el valor catastral del inmueble, de uso habitacional, no exceda de la cantidad de $1,593,493.00
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Acreditar el divorcio o la existencia de los hijos mediante las actas de divorcio y de nacimiento de los hijos, siempre que éstos sean menores de 18 años o con capacidades diferentes. La separación deberá probarse en términos de la legislación aplicable. La jefatura de hogar deberá acreditarse mediante declaración bajo protesta de decir verdad ante la propia autoridad fiscal, y
+IV. Acreditar el divorcio o la existencia de los hijos mediante las actas de divorcio y de nacimiento de los hijos, siempre que éstos sean menores de 18 años o con capacidades diferentes. La separación deberá probarse en términos de la legislación aplicable. La jefatura de hogar deberá acreditarse mediante declaración bajo protesta de decir verdad ante la propia autoridad fiscal;
 
-V. Que el volumen de consumo de agua no exceda de 77 m3, tratándose de tomas con medidor, y si se carece de medidor, la toma deberá de ubicarse en las colonias catastrales 0, 1, 2, 3 y 8.
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+V. Acreditar ser una persona con capacidades diferentes, mediante la credencial oficial emitida por la autoridad competente en la que se certifique la discapacidad del portador de la misma.
+
+VI. Que el volumen de consumo de agua no exceda de 77 m3, tratándose de tomas con medidor, y si se carece de medidor, la toma deberá de ubicarse en las colonias catastrales 0, 1, 2, 3 y 8.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Los beneficios a que se refiere este artículo no serán aplicables cuando el propietario otorgue el uso o goce temporal del inmueble, incluso para la instalación o fijación de anuncios o cualquier otro tipo de publicidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 299.
 
-Las personas de la tercera edad sin ingresos fijos y escasos recursos, tendrán derecho a una reducción del Impuesto Predial, equivalente a la diferencia que resulte entre la cuota a pagar y la cuota fija establecida para el rango A, de la fracción II del artículo 152 de este Código que corresponda a ese impuesto, de tal manera que en ningún caso el monto a pagar sea inferior a la cantidad establecida como cuota fija para el rango A, de la fracción II del artículo 152 de este Código.
+Los adultos mayores sin ingresos fijos y escasos recursos, tendrán derecho a una reducción del Impuesto Predial, equivalente a la diferencia que resulte entre la cuota a pagar y la cuota fija establecida para el rango A, de la fracción II del artículo 152 de este Código que corresponda a ese impuesto, de tal manera que en ningún caso el monto a pagar sea inferior a la cantidad establecida como cuota fija para el rango A, de la fracción II del artículo 152 de este Código.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -7534,15 +8026,17 @@ Las reducciones previstas en este artículo, no serán aplicables en aquellos ca
 
 Los contribuyentes para obtener las reducciones a que se refiere este artículo, deberán:
 
-I. Presentar credencial expedida por el Instituto Nacional de las Personas Adultas Mayores, con la que se acredite que se trata de una persona de la tercera edad;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+I. Presentar credencial expedida por el Instituto Nacional de las Personas Adultas Mayores, con la que se acredite que se trata de un adulto mayor;
 
 II. Ser propietario del inmueble en que habite, respecto del cual se aplicará única y exclusivamente la reducción;
 
 III. Que el inmueble respecto del cual se solicita la reducción se ubica dentro de las colonias catastrales 0, 1, 2, 3 y 8, a que se refiere el artículo 194 del Código;
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Que el valor catastral del inmueble, de uso habitacional, no exceda de la cantidad de $1,500,000.00, y
+IV. Que el valor catastral del inmueble, de uso habitacional, no exceda de la cantidad de $1,593,493.00, y
 
 V. Que el volumen de consumo de agua no exceda de 77 m3, tratándose de tomas con medidor, y si se carece de medidor, la toma deberá de ubicarse en las colonias catastrales 0, 1, 2, 3 y 8.
 
@@ -7748,21 +8242,31 @@ Las reducciones a que se refiere este artículo, en ningún caso podrán ser sup
 
 De igual manera, todas aquellas personas físicas que aporten su mano de obra individual, familiar o colectiva para la ejecución de las obras en los servicios de construcción y operación hidráulica correspondientes a la conexión de tomas domiciliarias de agua potable, en los terrenos tipo I y II, con un diámetro de 13 mm. y en la conexión de descargas domiciliarias, en terrenos tipo I y II, con un diámetro de 15 cm., tendrán derecho a una reducción equivalente al 95%, respecto de las contribuciones establecidas en el Artículo 202, Apartado A, fracción I, inciso a); y Apartado B, fracción I, inciso a).
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 308.
 
-Los organismos descentralizados, fideicomisos públicos, promotores públicos, sociales y privados, que desarrollen proyectos relacionados con vivienda de interés social o vivienda popular, tendrán derecho a una reducción equivalente al 100% y 80%, respectivamente, respecto de las contribuciones a que se refieren los artículos 134, 202, 203, 206, 207, 208, 209, 255, 256, 257 y 264, así como los derechos establecidos en el Capítulo IX, de la Sección Quinta del Título Tercero del Libro Primero de este Código, con excepción de los Derechos del Archivo General de Notarías.
+Los organismos descentralizados, fideicomisos públicos, promotores públicos, sociales y privados, que desarrollen proyectos relacionados con vivienda de interés social o vivienda popular, tendrán derecho a una reducción equivalente al 100% y 80%, respectivamente, respecto de las contribuciones a que se refieren los artículos 134, 202, Apartado A, fracción III, 206, 207, 208, 209, 255, 256, 257 y 264, así como los derechos establecidos en el Capítulo IX, de la Sección Quinta del Título Tercero del Libro Primero de este Código, con excepción de los Derechos del Archivo General de Notarías.
 
-Por lo que se refiere a los Derechos por los Servicios de Construcción y Operación Hidráulica, contenidos en el artículo 202 y 203 de este Código, la reducción se aplicará únicamente por lo que hace a la instalación.
+> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Para obtener las reducciones a que refiere el párrafo primero de este artículo, los contribuyentes deberán presentar la Constancia provisional emitida por la Secretaría de Desarrollo Urbano y Vivienda, en la que se indique su calidad de promotor de las referidas viviendas.
 
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+
 Los organismos y fideicomisos públicos de vivienda del Distrito Federal, tendrán derecho a una reducción equivalente al 100% por concepto del Impuesto Predial, respecto de los inmuebles que hayan sido objeto de una expropiación, para destinarse a la realización de proyectos de vivienda de interés social o vivienda popular final.
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 La reducción a que se refiere el párrafo anterior sólo se aplicará a los adeudos anteriores a la expropiación, cuando no sea posible deducir el Impuesto Predial del pago indemnizatorio, por no existir un reclamante que acredite fehacientemente su derecho de propiedad.
 
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+
 Para obtener la reducción por concepto del Impuesto Predial, los organismos y fideicomisos públicos de vivienda del Distrito Federal deberán acreditar esa circunstancia conforme a las disposiciones administrativas que se emitan al respecto.
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Las reducciones contenidas en este precepto, con excepción de la reducción al Impuesto Predial, tendrán efectos provisionales, hasta en tanto el contribuyente exhiba la Constancia definitiva emitida por la Secretaría de Desarrollo Urbano y Vivienda, con la que se acredite que los proyectos de construcción de vivienda de interés social o vivienda popular, se realizaron conforme a lo inicialmente manifestado.
 
@@ -7776,11 +8280,13 @@ Las personas que adquieran o regularicen la adquisición de una vivienda de inte
 
 Para que los contribuyentes obtengan las reducciones contenidas en este artículo, deberán acreditar que su vivienda es de interés social o popular, cuyo valor no debe exceder de los determinados al respecto por la Ley de Desarrollo Urbano del Distrito Federal.
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 310.
 
-Los concesionarios y permisionarios del servicio público, mercantil, privado y particular de transporte de pasajeros y de carga, así como del servicio público de transporte individual de pasajeros, tendrán derecho a una reducción equivalente al 20%, respecto de los derechos por los servicios de verificación obligatoria y por la revista reglamentaria anual, contemplados en los artículos 201, 242 y 243 de este Código.
+Los concesionarios y permisionarios del servicio público, mercantil, privado y particular de transporte de pasajeros y de carga, así como del servicio público de transporte individual de pasajeros, tendrán derecho a una reducción equivalente al 20%, respecto de los derechos por los servicios de verificación obligatoria y por la revista reglamentaria anual, contemplados en los artículos 242 y 243 de este Código.
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Las personas a que se refiere este artículo, para obtener la reducción deberán efectuar el pago de los citados derechos en una sola exhibición.
 
@@ -7814,15 +8320,15 @@ Los contribuyentes para obtener la reducción, deberán presentar una constancia
 
 La reducción por concepto del Impuesto Predial se aplicará durante el período de un año contado a partir del bimestre siguiente a la fecha de adquisición del inmueble de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 313.
 
-Los propietarios de inmuebles que cuenten con árboles adultos y vivos en su superficie, tendrán derecho a una reducción equivalente al 10%, respecto del Impuesto Predial, siempre y cuando el arbolado ocupe cuando menos dos terceras partes de la superficie de los predios edificados o la totalidad de los no edificados.
+Los propietarios de inmuebles destinados a casa habitación que cuenten con árboles adultos y vivos o con áreas verdes no arboladas en su superficie, tendrán derecho a una reducción equivalente al 25% del Impuesto Predial, siempre y cuando el arbolado o las áreas verdes ocupen cuando menos la tercera parte de la superficie de los predios edificados o la totalidad de los no edificados.
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Para la obtención de la reducción a que se refiere este artículo, los contribuyentes deberán presentar una constancia expedida por la Secretaría del Medio Ambiente con la que acredite que el predio objeto de la reducción cuenta con árboles adultos y vivos en su superficie y que éstos ocupan cuando menos dos terceras partes de la superficie de los predios edificados o la totalidad de los no edificados. Para gozar de los beneficios a que se refiere este artículo los árboles deberán estar unidos a la tierra, y no a las plantaciones en macetas, macetones u otros recipientes similares, y recibir el mantenimiento necesario de conformidad con la normatividad ambiental.
+Para la obtención de la reducción a que se refiere este artículo, los contribuyentes deberán presentar una constancia expedida por la Secretaría del Medio Ambiente con la que acredite que el predio objeto de la reducción cuenta con árboles adultos y vivos o con áreas verdes no arboladas en su superficie y que éstos ocupan cuando menos la tercera parte de la superficie de los predios edificados o la totalidad de los no edificados. Para gozar de los beneficios a que se refiere este artículo, en el caso de lo árboles adultos y vivos deberán estar unidos a la tierra, y no a las plantaciones en macetas, macetones u otros recipientes similares, y recibir el mantenimiento necesario de conformidad con la normatividad ambiental.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -7892,15 +8398,23 @@ Las personas físicas y morales que dañen o deterioren las vías y áreas públ
 
 El pago de estos aprovechamientos, comprenderá el importe total de los daños o deterioros causados, y se deberá realizar en las oficinas recaudadoras de la Secretaría o en las instituciones de crédito autorizadas, dentro de los quince días siguientes al que se notifique al contribuyente el costo de los servicios por rehabilitación.
 
-> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 318.
 
-Las personas físicas y morales que construyan desarrollos habitacionales de más de 20 viviendas, deberán cubrir el pago por concepto de aprovechamientos para que la autoridad competente realice las acciones necesarias para prevenir, mitigar o compensar las alteraciones o afectaciones al ambiente y los recursos naturales, a razón de $30.00 por metro cuadrado de construcción.
+Las personas físicas y morales que construyan desarrollos habitacionales de más de 20 viviendas, deberán cubrir el pago por concepto de aprovechamientos para que la autoridad competente realice las acciones necesarias para prevenir, mitigar o compensar las alteraciones o afectaciones al ambiente y los recursos naturales, a razón de $32.00 por metro cuadrado de construcción.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Para llevar a cabo el cálculo de los aprovechamientos a que se refiere este artículo, no se considerarán los metros cuadrados destinados a estacionamientos.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Los aprovechamientos a que se refiere este artículo, deberán aplicarse íntegramente en la Delegación correspondiente a través de la autoridad competente para la implementación de medidas de seguridad y mitigación o compensación a las alteraciones o afectaciones al ambiente y a los recursos naturales, que se generen en la Delegación correspondiente.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+La autoridad competente dará el visto bueno respecto a que el particular cumplió con las medidas de mitigación, previo a la ocupación de la obra.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
@@ -7912,57 +8426,67 @@ Las personas físicas o morales que realicen obras o construcciones en el Distri
 
 I. Zona 1.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Habitacional, por metro cuadrado de construcción $47.00
+a). Habitacional, por metro cuadrado de construcción $50.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Otros Usos, por metro cuadrado de construcción $63.00
+b). Otros Usos, por metro cuadrado de construcción $67.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). Las estaciones de servicio, pagarán a razón de $189,197.00, por cada dispensario.
+c). Las estaciones de servicio, pagarán a razón de $200,989.00, por cada dispensario.
 
 > <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 II. Zona 2.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Habitacional, por metro cuadrado de construcción $57.00
+a). Habitacional, por metro cuadrado de construcción $61.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Otros Usos, por metro cuadrado de construcción $76.00
+b). Otros Usos, por metro cuadrado de construcción $81.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). Las estaciones de servicio, pagarán a razón de $189,197.00, por cada dispensario.
+c). Las estaciones de servicio, pagarán a razón de $200,989.00, por cada dispensario.
 
 > <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 III. Zona 3.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Habitacional, por metro cuadrado de construcción $66.00
+a). Habitacional, por metro cuadrado de construcción $70.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Otros Usos, por metro cuadrado de construcción $89.00
+b). Otros Usos, por metro cuadrado de construcción $95.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-c). Las estaciones de servicio, pagarán a razón de $189,197.00, por cada dispensario.
+c). Las estaciones de servicio, pagarán a razón de $200,989.00, por cada dispensario.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Para llevar a cabo el cálculo de los aprovechamientos a que se refiere este artículo, no se considerarán los metros cuadrados destinados a estacionamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-ARTICULO 319 A.- Las personas físicas y morales que construyan nuevos desarrollos urbanos, nuevas edificaciones, que requieran nuevas conexiones de agua y drenaje o ampliaciones, deberán cubrir el pago por concepto de aprovechamientos a razón de $112.00 por cada metro cuadrado de construcción nueva, a efecto de que el Sistema de Aguas de la Ciudad de México, realice las obras necesarias para estar en posibilidad de prestar los servicios relacionados con la infraestructura hidráulica.
+Los aprovechamientos a que se refiere este artículo, deberán aplicarse íntegramente en la Delegación correspondiente a través de la autoridad competente para la implementación de medidas de seguridad y mitigación o compensación a las alteraciones o afectaciones al impacto vial generado por el aumento de las construcciones.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+La autoridad competente dará el visto bueno respecto a que el particular cumplió con las medidas de mitigación, previo a la ocupación de la obra.
+
+> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 319 A.- Las personas físicas y morales que construyan nuevos desarrollos urbanos, nuevas edificaciones, que requieran nuevas conexiones de agua y drenaje o ampliaciones, deberán cubrir el pago por concepto de aprovechamientos a razón de $119.00 por cada metro cuadrado de construcción nueva, a efecto de que el Sistema de Aguas de la Ciudad de
+
+México, realice las obras necesarias para estar en posibilidad de prestar los servicios relacionados con la infraestructura hidráulica.
 
 > <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
@@ -7972,9 +8496,13 @@ Para el cálculo a que se refiere este artículo, no se considerarán los metros
 
 Este concepto no aplica para viviendas unifamiliares.
 
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Los recursos recaudados por este concepto se destinarán a la ejecución de las obras necesarias para prestar los servicios relacionados con la infraestructura hidráulica.
+Los aprovechamientos a que se refiere este artículo, deberán aplicarse íntegramente en la Delegación correspondiente a través de la autoridad competente para aplicarse íntegramente a la ejecución de las obras necesarias para prestar los servicios relacionados con la infraestructura hidráulica.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+La autoridad competente dará el visto bueno respecto a que el particular cumplió con las medidas de mitigación, previo a la ocupación de la obra.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
@@ -8000,6 +8528,12 @@ b). Los aprovechamientos que se cobren por el uso o disfrute de bienes o por la 
 
 c). Se podrán establecer aprovechamientos diferenciales por el uso de bienes o prestación de servicios, cuando éstos respondan a estrategias de comercialización o racionalización y se otorguen de manera general. La omisión total o parcial en el cobro de los aprovechamientos establecidos en los términos de este Código, afectará a los Órganos, disminuyendo una cantidad equivalente a dos veces el valor de la omisión efectuada del presupuesto del Órgano de que se trate.
 
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+d). Los aprovechamientos generados por multas administrativas causadas por establecimientos mercantiles con una superficie no mayor a 30 metros cuadrados, cuyo titular sea persona física y que funcionen con declaración de apertura o licencia ordinarias, que no sean consideradas de impacto vecinal y que prohíban la venta de bebidas alcohólicas, podrán cubrirse en pagos parciales hasta por 36 meses, siempre que el monto de la multa impuesta no exceda de 40 días de salario mínimo vigente en el Distrito Federal.
+
+Quedan exceptuadas del pago en parcialidades las multas previstas en los artículos 85, 86, 87 y 88 de la Ley de Establecimientos Mercantiles del Distrito Federal.
+
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Los aprovechamientos derivados del ejercicio de las funciones de las áreas que generen los mismos, podrán destinarse preferentemente a la operación de dichas áreas, previa autorización de la Secretaría, de conformidad con las reglas generales que emita la propia Secretaría, mismas que se publicarán a más tardar el día veinte de enero de cada año en la Gaceta Oficial del Distrito Federal.
@@ -8014,9 +8548,9 @@ Los Comerciantes en Vía Pública, con puestos semifijos, ubicados a más de dos
 
 Grupo I:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Puestos Semifijos de 1.80 por 1.20 metros, o menos, incluyendo los de Tianguis, Mercados sobre Ruedas y Bazares $5.00
+Puestos Semifijos de 1.80 por 1.20 metros, o menos, incluyendo los de Tianguis, Mercados sobre Ruedas y Bazares $5.50
 
 Para efecto de lo dispuesto en el párrafo anterior, se contemplan los Giros Comerciales siguientes:
 
@@ -8088,9 +8622,9 @@ Los Comerciantes que hasta la fecha, no se hayan incorporado al Programa de Reor
 
 Los Comerciantes, que se hayan incorporado al Programa de Reordenamiento del Comercio en Vía Pública y mantengan adeudos, bastará que presenten su último recibo de pago ante las cajas recaudadoras de la Tesorería, enterando el importe correspondiente, para quedar regularizados en sus pagos.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Las cuotas de los puestos fijos que se encuentren autorizados y que cumplan la normatividad vigente de conformidad con el Reglamento de Mercados. No podrán ser superiores a $36.00 por día. Ni inferiores a $18.00 por día de ocupación; dependiendo de la ubicación del área ocupada para estas actividades.
+Las cuotas de los puestos fijos que se encuentren autorizados y que cumplan la normatividad vigente de conformidad con el Reglamento de Mercados. No podrán ser superiores a $38.00 por día. Ni inferiores a $19.00 por día de ocupación; dependiendo de la ubicación del área ocupada para estas actividades.
 
 Las personas obligadas al pago de las cuotas a que se refiere el presente Artículo, deberán cubrirlas a su elección, por meses anticipados o en forma trimestral.
 
@@ -8102,23 +8636,21 @@ Los aprovechamientos a los que se refiere este artículo se destinarán a la del
 
 Tratándose de los siguientes aprovechamientos por la utilización de bienes de uso común se pagarán semestralmente las siguientes tarifas:
 
-> <small>N. DE E. CONFORME A LA REFORMA DE LA G.O. DE 27 DE DICIEMBRE DE 2007, EL ANTERIOR PARRAFO SE DIVIDIO EN LOS SUPUESTOS DE LOS INCISOS A) Y B) SIGUIENTES.</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+a) Los acomodadores de vehículos que utilicen para la recepción de los vehículos la vía pública, sin publicidad y que en ningún caso podrá exceder de un metro cuadrado de dimensión $1,062.00
 
-a) Los acomodadores de vehículos que utilicen para la recepción de los vehículos la vía pública, sin publicidad y que en ningún caso podrá exceder de un metro cuadrado de dimensión $1,000.00
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
-
-b). Los acomodadores de vehículos que utilicen para la recepción de los vehículos la vía pública, con publicidad y que en ningún caso podrá exceder de un metro cuadrado de dimensión $5,000.00
+b). Los acomodadores de vehículos que utilicen para la recepción de los vehículos la vía pública, con publicidad y que en ningún caso podrá exceder de un metro cuadrado de dimensión $5,312.00
 
 Los aprovechamientos a los que se refiere este artículo se destinarán a la delegación correspondiente como recursos de aplicación automática.
 
-> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 323.
 
-Los concesionarios, permisionarios y otros prestadores del servicio de transporte público de pasajeros autorizados a ingresar a paraderos, cualquiera que sea el tipo de unidad, pagarán aprovechamientos por el uso de los bienes muebles e inmuebles de los Centros de Transferencia Modal del Gobierno del Distrito Federal, a razón de $140.64 mensuales por cada unidad, mismos que se pagarán en forma anticipada, dentro de los primeros diez días naturales del mes de que se trate.
+Los concesionarios, permisionarios y otros prestadores del servicio de transporte público de pasajeros autorizados a ingresar a paraderos, cualquiera que sea el tipo de unidad, pagarán aprovechamientos por el uso de los bienes muebles e inmuebles de los Centros de Transferencia Modal del Gobierno del Distrito Federal, a razón de $149.00 mensuales por cada unidad, mismos que se pagarán en forma anticipada, dentro de los primeros diez días naturales del mes de que se trate.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -8272,23 +8804,23 @@ La Secretaría dentro de los diez días siguientes a la recepción de los donati
 
 ## TITULO QUINTO. DE LOS PROYECTOS DE COINVERSION
 
-> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-ARTICULO 341 A.- Las entidades de conformidad con sus funciones y objeto, podrán participar en proyectos multianuales de coinversión para instrumentar esquemas de financiamiento de infraestructura pública y satisfactores sociales.
+ARTICULO 341 A.- Las entidades de conformidad con sus funciones y objeto, podrán participar en proyectos de coinversión para instrumentar esquemas de financiamiento de infraestructura pública y satisfactores sociales.
 
-> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-ARTICULO 341 B.- Los proyectos de coinversión son aquellos encaminados al desarrollo de satisfactores sociales, infraestructura, obras, servicios y adquisiciones requeridos para incrementar la calidad de vida de los habitantes de la Ciudad de México, en donde la participación de la Administración Pública del Distrito Federal será mediante la aportación de los derechos sobre bienes inmuebles del dominio público o privado a través de las figuras previstas en la Ley del Régimen Patrimonial y del Servicio Público.
+ARTICULO 341 B.- Los proyectos de coinversión son aquellos encaminados al desarrollo de satisfactores sociales, infraestructura, obras, servicios y adquisiciones requeridos para incrementar la calidad de vida de los habitantes de la Ciudad de México, en donde la participación de la Administración Pública del Distrito Federal será mediante la asociación con personas físicas o morales o mediante la aportación de los derechos sobre bienes inmuebles del dominio público o privado a través de las figuras previstas en la Ley del Régimen Patrimonial y del Servicio Público y la Ley de Adquisiciones para el Distrito Federal.
 
-Las entidades no destinarán recursos presupuestales para el financiamiento directo de los satisfactores sociales, infraestructura, obras, servicios y adquisiciones realizados bajo el amparo de los proyectos de coinversión, salvo autorización expresa de la Secretaría y la Contraloría, en cuyo caso deberá observarse para su contratación la normatividad aplicable en el Distrito Federal en materias de obra pública, de adquisiciones y de servicios.
+Las entidades no destinarán recursos presupuestales para el financiamiento directo de los satisfactores sociales, infraestructura, obras, servicios y adquisiciones realizados bajo el amparo de los proyectos de coinversión, salvo autorización expresa de la Secretaría y la Contraloría, en cuyo caso deberá observarse para su contratación la normatividad aplicable en el Distrito Federal en las materias de obra pública, así como de adquisiciones, arrendamientos y prestación de servicios.
 
-> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-ARTICULO 341 C.- Corresponderá a la Secretaría emitir las reglas para determinar la participación de la Administración Pública en los proyectos de coinversión, así como aprobar a las entidades la ejecución de cada uno de ellos y en casos en que se justifique, autorizar la creación de fondos líquidos multianuales que garanticen o mitiguen los riesgos de los proyectos.
+ARTICULO 341 C.- Corresponderá a la Secretaría emitir las reglas para determinar la participación de la Administración Pública en los proyectos de coinversión, así como la creación de fondos líquidos multianuales o mecanismos financieros que garanticen o mitiguen los riesgos de los proyectos en los casos que se justifique. La Comisión de Presupuestación, Evaluación del Gasto Público y Recursos de Financiamiento del Distrito Federal autorizará y ordenará la creación de los mecanismos a que se refiere el presente artículo, de acuerdo con lo que establezcan las reglas que emita la Secretaría.
 
-> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-ARTICULO 341 D.- La vigencia y evaluación de los proyectos de coinversión corresponderán a la Secretaría.
+ARTICULO 341 D.- La evaluación financiera y presupuestal de los proyectos de coinversión corresponderá a la Secretaría.
 
 (REUBICADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -8356,13 +8888,13 @@ La Secretaría, conforme a la legislación aplicable, dictará las reglas de car
 
 La Contraloría realizará la vigilancia y supervisión de los servicios de tesorería, y en su caso hará las observaciones y recomendaciones que considere pertinentes para su eficaz prestación, a la Secretaría.
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 348.
 
-La Secretaría tendrá a su cargo la emisión, distribución y control de las formas numeradas y valoradas que utilicen los auxiliares en los servicios de recaudación, devolución de impuestos y pagos con cargo al Presupuesto de Egresos, así como las demás que requieran los servicios por ella prestados o cuya emisión deba efectuarse por disposición legal u orden de la Secretaría. De igual forma, intervendrá en la destrucción de las referidas formas, cuando así proceda, junto con los materiales empleados en su producción.
+La Secretaría tendrá a su cargo la emisión, distribución y control de las formas numeradas que utilicen los auxiliares en los servicios de recaudación, devolución de impuestos y pagos con cargo al Presupuesto de Egresos, así como las demás que requieran los servicios por ella prestados o cuya emisión deba efectuarse por disposición legal u orden de la Secretaría. De igual forma, intervendrá en la destrucción de las referidas formas, cuando así proceda, junto con los materiales empleados en su producción.
 
-Tratándose de recursos de aplicación automática, la emisión, distribución y control de las formas numeradas y valoradas, correrá a cargo de la unidad generadora. La Secretaría quedará facultada para aprobar el formato respectivo, y en su caso, verificar el control de dichas formas, así como su congruencia con los asientos contables de la unidad generadora respectiva.
+Tratándose de recursos de aplicación automática, la emisión, distribución y control de las formas numeradas correrá a cargo de la unidad generadora. La Secretaría quedará facultada para aprobar el formato respectivo, y en su caso, verificar el control de dichas formas, así como su congruencia con los asientos contables de la unidad generadora respectiva.
 
 (REUBICADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -8430,7 +8962,7 @@ La aceptación o negativa de la solicitud de dación en pago se emitirá en un t
 
 (REUBICADA, G.O. 26 DE DICIEMBRE DE 2003)
 
-#### Sección Primera. De los anteproyectos de las dependencias, órganos desconcentrados y delegaciones
+#### Sección Primera. De la Recepción y Concentración de Fondos y Valores
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -8498,11 +9030,9 @@ El importe de las entregas derivadas de la recolección a que se refieren los ar
 
 (REUBICADA, G.O. 26 DE DICIEMBRE DE 2003)
 
-#### Sección Segunda
+#### Sección Segunda. De la Custodia y Administración de Fondos y Valores
 
-De los Anteproyectos de las entidades.
-
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 358.
 
@@ -8784,19 +9314,23 @@ Los servidores públicos de las dependencias, órganos desconcentrados, delegaci
 
 ARTICULO 379 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 380.
 
-Con el objeto de obtener las mejores condiciones en cuanto a precio, calidad, oportunidad en la adquisición de bienes o contratación de servicios y generar ahorros, la unidad administrativa o entidad, podrán establecer compromisos a determinadas partidas de gasto con cargo a los presupuestos aprobados de las dependencias, órganos desconcentrados, delegaciones y entidades conforme a los requerimientos de éstas, y disponer que los cargos se realicen de manera centralizada o consolidada a través de la unidad administrativa o entidad que haya formalizado los compromisos.
+Con objeto de obtener las mejores condiciones en cuanto a precio, calidad, oportunidad en la adquisición de bienes o contratación de servicios y generar ahorros, las unidades administrativas consolidadoras, podrán establecer compromisos a determinadas partidas de gasto con cargo a los presupuestos aprobados de las dependencias, órganos desconcentrados, delegaciones y entidades conforme a las adhesiones y requerimientos de éstas, así como aplicar los cargos de manera centralizada para el caso de las dependencias, órganos desconcentrados y delegaciones, exceptuando en este último caso, las partidas que el órgano de apoyo técnico disponga conforme a la normatividad aplicable.
 
 > <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2006)</small>
 
 Para el caso de las delegaciones los compromisos a determinadas partidas de gasto con cargo a sus presupuestos aprobados, deberán de ser de común acuerdo entre los Jefes Delegacionales y las unidades administrativas que celebren los compromisos.
 
-La unidad administrativa o entidad responsable de consolidar instrumentará el compromiso basándose en la suficiencia presupuestal que las propias dependencias, órganos desconcentrados, delegaciones y entidades proporcionen. Estas últimas serán las responsables de prever la disponibilidad de los recursos en las partidas presupuestales para la realización de los pagos, de conformidad con la información proporcionada por la unidad administrativa o entidad que en su caso, realice los pagos centralizados.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-La unidad administrativa o entidad encargada de formalizar los compromisos, informará a las dependencias, órganos desconcentrados, delegaciones y entidades el importe de los cargos centralizados o consolidados que afectaron sus presupuestos, conforme a sus requerimientos indicados en las adhesiones, a fin de que conozcan sus compromisos y puedan determinar su disponibilidad presupuestal, economías y calendarios. Asimismo, informará a las Contralorías Internas para el seguimiento correspondiente.
+Las unidades administrativas consolidadoras instrumentarán los compromisos basándose en la suficiencia presupuestal que las propias dependencias, órganos desconcentrados, delegaciones y entidades les proporcionen. Estas últimas serán las responsables de prever la disponibilidad de los recursos en las claves presupuestales correspondientes para la realización de los pagos, de conformidad con la información que sobre los compromisos formalizados les proporcionen dichas unidades administrativas consolidadoras.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Las unidades administrativas consolidadoras encargadas de formalizar los compromisos, informarán a las dependencias, órganos desconcentrados, delegaciones y entidades el importe de los cargos centralizados o consolidados que afectaron sus presupuestos, conforme a sus requerimientos indicados en las adhesiones, a fin de que conozcan sus compromisos y puedan determinar su disponibilidad presupuestal, economías y calendarios. Asimismo, informará a las contralorías Internas para el seguimiento correspondiente.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -8816,11 +9350,11 @@ II. Que se efectúen dentro de los límites de los calendarios presupuestales au
 
 III. Que se encuentren debidamente justificados y comprobados con los documentos originales respectivos, entendiéndose por justificantes los documentos legales que determinen la obligación de hacer un pago y, por comprobantes, los documentos que demuestren la entrega de las sumas de dinero correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 382.
 
-Para cubrir los compromisos que efectivamente se hayan cumplido y no hubieren sido cubiertos al treinta y uno de diciembre de cada año, las dependencias, órganos desconcentrados, delegaciones y entidades deberán atender a lo siguiente para su trámite de pago:
+Para cubrir los compromisos que efectivamente se hayan devengado y no hubieren sido cubiertos al treinta y uno de diciembre de cada año, las dependencias, órganos desconcentrados, delegaciones y entidades deberán atender a lo siguiente para su trámite de pago:
 
 > <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -8838,9 +9372,9 @@ III. Que se informe a la Secretaría, a más tardar el día 15 de enero de cada 
 
 IV. Que se radiquen en la Secretaría los documentos que permitan efectuar los pagos respectivos, a más tardar el último día de enero del año siguiente al del ejercicio al que corresponda el gasto.
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-De no cumplir con los requisitos antes señalados, dichos compromisos se pagarán con cargo al presupuesto del año siguiente, sin que esto implique una ampliación al mismo.
+De no cumplir con los requisitos antes señalados, dichos compromisos se pagarán con cargo al presupuesto del año siguiente de la dependencia, órgano desconcentrado, delegación y entidad que haya generado el pasivo, sin que esto implique una ampliación al mismo. La Secretaría podrá solicitar en todo momento un informe pormenorizado de las causas que motivaron dicho incumplimiento.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -8986,6 +9520,10 @@ Los interesados reintegrarán en todo caso las cantidades anticipadas que no hub
 
 La devolución de las cantidades percibidas indebidamente por el Distrito Federal y las que procedan de conformidad con lo previsto en este Código, se efectuarán por conducto de la Secretaría, mediante cheque nominativo para abono en cuenta del contribuyente o certificados expedidos a nombre de este último, de conformidad con lo que establece el primer párrafo del artículo 71 de este Código. Las Instituciones de crédito autorizadas podrán llevar a cabo dicha devolución mediante autorización expresa y por escrito de la Secretaría, a través de la expedición de cheques de caja o mediante depósito en la cuenta del contribuyente, para lo cual, éste deberá manifestar su aprobación y proporcionar su número de cuenta en la solicitud de devolución correspondiente. Para tal efecto, las autoridades fiscales competentes dictarán de oficio o a petición de parte, las resoluciones que procedan.
 
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Asimismo, la devolución podrá realizarse a través de transferencia electrónica interbancaria para lo cual los contribuyentes proporcionarán, los datos de la institución financiera y el número de clave bancaria estandarizada para la transferencia electrónica del contribuyente en dicha institución financiera debidamente integrado de conformidad con las disposiciones del Banco de México.
+
 Los estados de cuenta que expidan las instituciones financieras serán considerados como comprobantes de pago de la devolución respectiva.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
@@ -9099,6 +9637,22 @@ f). Carta de crédito, o
 g). Cualquier otra forma que determine la Secretaría.
 
 II. En los contratos que comprendan varios ejercicios fiscales, deberá estipularse la obligación para el contratista, proveedor o prestador de servicios de presentar una fianza por el diez por ciento del importe del ejercicio inicial, y se incrementará con el diez por ciento del monto autorizado para cada uno de los ejercicios subsecuentes, en la inteligencia de que, mediante dicha fianza, deberán quedar garantizadas todas las obligaciones que en virtud del contrato asuma el contratista, proveedor o prestador de servicios.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Para el caso de proyectos y contratos de coinversión, así como los de prestación de servicios a largo plazo, en los que no se autoricen recursos públicos por parte del Gobierno del Distrito Federal en los primeros ejercicios en que se lleve a cabo la obra pública, los contratistas, proveedores o prestador de servicios o inversionista proveedor, deberán garantizar el cumplimiento del contrato con cuando menos el importe del 1% de su monto inicial.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+A partir del ejercicio en que se autoricen recursos públicos al contratista, proveedor o prestador de servicios o inversionista proveedor, deberá garantizar mediante fianza cuando menos el 10% del monto que se autorice en dicho ejercicio.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Asimismo, deberá garantizarse mediante fianza cuando menos el 10% de los montos autorizados para cada uno de los ejercicios siguientes, para que al final del contrato se encuentre garantizado por lo menos el 10% del monto total de los recursos públicos autorizados al contratista, proveedor, prestador de servicios o inversionista proveedor.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+La fianza de cumplimiento continuará vigente como mínimo el plazo de 5 años y no deberá ser cancelada por parte de la autoridad a favor de quien se expida, sino hasta que hayan quedado cubiertos los vicios ocultos que pudiere tener la obra pública.
 
 > <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -9346,6 +9900,10 @@ Las acciones a realizar para dar cumplimiento a los objetivos, políticas y meta
 
 Los programas sectoriales especificarán los objetivos y metas de mediano plazo, los lineamientos contenidos en el Programa General para una materia específica de desarrollo y que regirá las actividades del sector administrativo que corresponda, tomando en cuenta las previsiones contenidas en los programas delegacionales y con base en las orientaciones generales y contendrá los elementos mínimos previstos en la Ley de Planeación.
 
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Asimismo, se deberán presentar los indicadores que serán utilizados para la evaluación de cada programa.
+
 La vigencia de los programas sectoriales será de seis años y deberán ser presentados a la aprobación del Jefe de Gobierno por los titulares de las dependencias respectivas.
 
 Para efecto de los programas sectoriales, el Jefe de Gobierno convocará a los Jefes Delegacionales, en el mes de diciembre del año en que ocurra la elección de estos últimos, para que, en su caso, se proceda a actualizar o modificar el contenido de los mismos.
@@ -9444,7 +10002,9 @@ Las delegaciones elaborarán sus programas operativos anuales, los cuales serán
 
 Las entidades elaborarán sus programas operativos anuales para la ejecución de los programas institucionales, vigilando la congruencia con los programas sectoriales. Dichos programas deberán ser presentados para aprobación del Jefe de Gobierno por conducto de los titulares de sus órganos de gobierno.
 
-Las dependencias, órganos desconcentrados, entidades y delegaciones, deberán desagregar el contenido de los programas operativos anuales, atendiendo al destino y alcance de dichos programas, así como la fecha en que se ejecutarán los mismos.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Las dependencias, órganos desconcentrados, entidades y delegaciones, deberán desagregar el contenido de los programas operativos anuales, atendiendo al destino y alcance de dichos programas, así como la fecha en que se ejecutarán los mismos. Asimismo, se deberán presentar los indicadores que serán utilizados para la evaluación de cada programa.
 
 La Asamblea, a través de las comisiones encargadas de la Hacienda Pública, el Presupuesto y la Cuenta Pública, podrán requerir información, a efecto de contar con elementos que permitan realizar observaciones a los procedimientos técnicos y operativos para la elaboración de los programas a que se refiere el artículo anterior.
 
@@ -9474,11 +10034,15 @@ El Jefe de Gobierno informará a la Asamblea sobre el avance de la ejecución de
 
 Los proyectos de iniciativas de leyes y los reglamentos, decretos y acuerdos que formule el Jefe de Gobierno, señalarán las relaciones que, en su caso, existan entre el proyecto de que se trate y el Programa Operativo.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 434 A.- Las dependencias, órganos desconcentrados, delegaciones, entidades y órganos autónomos que elaboren proyectos de iniciativas de leyes o decretos para que el Jefe de Gobierno las presente a la Asamblea deberán contar con opinión de la Secretaría sobre la evaluación del impacto presupuestario, así como también aquellos reglamentos, decretos y/o acuerdos que se propongan someter a su consideración, cuando éstos incidan en materia de gasto. En el caso de que dichos proyectos impliquen impacto presupuestal, se deberá señalar el origen de los recursos, entendido como la fracción de la Ley de Ingresos que se incrementará para guardar el equilibrio presupuestal.
+
 > <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2006)</small>
 
-ARTICULO 434 A.- Las dependencias, órganos desconcentrados, delegaciones, entidades y órganos autónomos que elaboren proyectos de iniciativas de leyes o decretos para que el Jefe de Gobierno las presente a la Asamblea deberán contar con opinión de la Secretaría sobre la evaluación del impacto presupuestario, así como también aquellos reglamentos, decretos y/o acuerdos que se propongan someter a su consideración, cuando éstos incidan en materia de gasto.
-
 Para tal efecto, las dependencias, órganos desconcentrados, delegaciones, entidades y órganos autónomos deberán de observar los lineamientos que al respecto emita la Secretaría.
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2006)</small>
 
 La Secretaría emitirá recomendaciones sobre las disposiciones jurídicas del ordenamiento sujeto a opinión que incidan en el ámbito presupuestario, cuando así lo considere, la referida evaluación y su opinión se anexarán a la iniciativa de ley o decreto que se presente a la Asamblea o, en su caso, a los reglamentos, decretos y acuerdos que se sometan a firma del Jefe de Gobierno.
 
@@ -9522,15 +10086,17 @@ El proyecto de Presupuesto de Egresos que presente el Jefe de Gobierno a la Asam
 
 I. Exposición de motivos, en la que se señalen los efectos económicos y sociales que se pretendan lograr;
 
-II. Descripción clara de los programas que sean la base del proyecto, en los que se señalen objetivos, metas y prioridades, así como las unidades responsables de su ejecución;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, G.O. 3 DE AGOSTO DE 2007)</small>
+II. Descripción clara de la obtención de resultados en los programas que sean la base del proyecto, en los que se señalen objetivos, metas, prioridades, y sus indicadores, así como las unidades responsables de su ejecución;
 
-III. La identificación expresa de las actividades institucionales que se llevarán a cabo para el cumplimiento de los programas contenidos en el Presupuesto de las dependencias, órganos desconcentrados, delegaciones, entidades, la Asamblea y el Tribunal en su carácter de órganos de gobierno y órganos autónomos, precisando los recursos involucrados para su consecución;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+III. La identificación expresa de las actividades institucionales que se llevarán a cabo para el cumplimiento de los resultados contenidos en el Presupuesto de las dependencias, órganos desconcentrados, delegaciones, entidades y órganos de gobierno y autónomos, precisando los recursos involucrados para su consecución;
 
-IV. Explicación y comentarios de los programas considerados como prioritarios, los especiales y las obras, servicios, arrendamientos y adquisiciones cuya ejecución abarque dos o más ejercicios fiscales;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+IV. Explicación y comentarios de los resultados considerados como prioritarios, los específicos y las obras, servicios, arrendamientos y adquisiciones cuya ejecución abarque dos o más ejercicios fiscales;
 
 V. Estimación de los ingresos y de los gastos del ejercicio fiscal para el que se propone;
 
@@ -9538,9 +10104,9 @@ VI. Estimación de los ingresos y gastos del ejercicio fiscal en curso;
 
 VII. Los montos de endeudamiento propuestos al Congreso de la Unión;
 
-> <small>(REFORMADA, G.O. 3 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VIII. Los proyectos de presupuesto de egresos de los órganos autónomos definidos en las fracciones del artículo 448 de este Código, especificando los montos de los recursos públicos que sometan a consideración de la Asamblea;
+VIII. Los proyectos de presupuesto de egresos de los órganos de gobierno y autónomos, especificando los montos de los recursos públicos que sometan a consideración de la Asamblea;
 
 > <small>(REFORMADA, G.O. 3 DE AGOSTO DE 2007)</small>
 
@@ -9568,13 +10134,31 @@ En el Presupuesto de Egresos, en los informes de avance programático presupuest
 
 Las reglas de carácter general a que se refiere el Libro Tercero de este Código serán emitidas por la Secretaría de conformidad con lo dispuesto en este Código y el Decreto de Presupuesto de Egresos que apruebe la Asamblea y deberán publicarse en la Gaceta Oficial del Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-ARTICULO 441 A.- Con la finalidad de mejorar las tareas de planeación, programación y consolidación del proyecto de presupuesto, la Secretaría llevará a cabo la integración de una cartera de proyectos de inversión cuyo monto sea superior a los 50 millones de pesos, y establecerá el procedimiento, criterios, requisitos y plazos que deberá observar el registro de dichos proyectos, dentro de los cuales requerirá, entre otros la evaluación de su costo - beneficio, así como la no segmentación de los mismos sin causa justificada, como requisitos indispensables.
+ARTICULO 441 A.- Para la programación de los recursos destinados a programas y proyectos de inversión, las dependencias, delegaciones y órganos desconcentrados y entidades deberán observar el siguiente procedimiento, sujetándose a lo establecido en este Código:
 
-La Secretaría llevará a cabo el registro de los proyectos en ejecución y emitirá los lineamientos respectivos.
+I. Contar con un mecanismo de planeación de las inversiones, en el cual:
 
-Durante el ejercicio fiscal, sólo se podrá autorizar la ejecución de los proyectos de inversión que hubiesen sido registrados en la cartera de proyectos, requisito indispensable para ser incorporados en el proyecto de presupuesto de egresos que se someterá a consideración de la Asamblea. Por su parte, la Asamblea sólo podrá autorizar como parte del presupuesto de Egresos a los proyectos de inversión que cumplan con tal registro.
+a). Se identifiquen los programas y proyectos de inversión en proceso de realización, así como aquellos que se consideren susceptibles de realizar en años futuros;
+
+b). Se establezcan las necesidades de inversión a corto, mediano y largo plazo, mediante criterios de evaluación que permitan establecer prioridades entre los proyectos.
+
+Los mecanismos de planeación a que hace referencia esta fracción serán normados y evaluados por la Secretaría;
+
+II. Presentar a la Secretaría la evaluación costo y beneficio de los programas y proyectos de inversión que tengan a su cargo, en donde se muestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. La Secretaría, en los términos que establezca este Código, podrá solicitarles que dicha evaluación esté dictaminada por un experto independiente. La evaluación no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria inmediata de desastres naturales;
+
+III. Registrar cada programa y proyecto de inversión en la cartera que integra la Secretaría, para lo cual se deberá presentar la evaluación costo y beneficio correspondiente. Para ello, deberán mantener actualizada la información contenida en la cartera. Sólo los programas y proyectos de inversión registrados en la cartera se podrán incluir en el proyecto de Presupuesto de Egresos. La Secretaría podrá negar o cancelar el registro si un programa o proyecto de inversión no cumple con las disposiciones aplicables, y
+
+IV. Los programas y proyectos registrados en la cartera de inversión serán analizados por la Comisión de Presupuestación, Evaluación del Gasto Público y Recursos de Financiamiento del Distrito Federal, la cual determinará la prelación para la inclusión en el proyecto de Presupuesto de Egresos, así como el orden de su ejecución, para establecer un orden de los programas, y proyectos de inversión en su conjunto y maximizar el impacto que puedan tener para incrementar el beneficio social, observando principalmente los criterios siguientes:
+
+a). Rentabilidad socioeconómica;
+
+b). Reducción de la pobreza extrema;
+
+c). Desarrollo Regional, y
+
+d). Concurrencia con otros programas y proyectos de inversión.
 
 (REUBICADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -9582,9 +10166,9 @@ Durante el ejercicio fiscal, sólo se podrá autorizar la ejecución de los proy
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
-#### Sección Tercera. De los Proyectos de los Órganos de Gobierno y de los Órganos Autónomos
+#### Sección Primera. De los anteproyectos de las dependencias, órganos desconcentrados y delegaciones
 
-> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 442.
 
@@ -9612,9 +10196,11 @@ Para el caso de delegaciones la Secretaría podrá efectuar las modificaciones n
 
 (REUBICADA, G.O. 26 DE DICIEMBRE DE 2003)
 
-#### Sección Primera. Disposiciones Generales para el ejercicio presupuestal de las dependencias, órganos desconcentrados y delegaciones
+#### Sección Segunda
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
+De los Anteproyectos de las entidades.
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 444.
 
@@ -9644,9 +10230,9 @@ Las dependencias coordinadoras de sector analizarán la congruencia de los antep
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
-#### Sección Segunda. Del Ejercicio Presupuestal de las Entidades
+#### Sección Tercera. De los Proyectos de los Órganos de Gobierno y de los Órganos Autónomos
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 448.
 
@@ -9666,11 +10252,11 @@ V. El Instituto; y
 
 VI. La Universidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 449.
 
-El Proyecto de Presupuesto de Egresos que remitan los órganos de gobierno a que se refiere la fracción IX del artículo 439 de este Código y los órganos autónomos enumerados en el artículo anterior al Jefe de Gobierno, para su envío a la Asamblea se integrará con:
+El proyecto del Presupuesto de Egresos que remitan los órganos de gobierno y autónomos al Jefe de Gobierno para su inclusión, deberá contener lo siguiente:
 
 > <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -9680,17 +10266,21 @@ I. La exposición de motivos;
 
 II. Descripción clara de los programas que sean la base del proyecto;
 
-> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Explicación y comentarios de los programas considerados como prioritarios, especiales y las adquisiciones cuya ejecución abarque dos o más ejercicios fiscales, y
+III. Explicación y comentarios de sus resultados y las adquisiciones cuya ejecución abarque dos o más ejercicios fiscales, y
 
 > <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 IV. Estimación de todos los ingresos que pudieran recibir directamente conforme a sus Leyes, y de los gastos del ejercicio fiscal que se propone.
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Los órganos referidos en el párrafo anterior, de acuerdo con el formato que para el efecto le envíe la Secretaría, elaborarán un programa operativo que contendrá líneas programáticas, objetivos específicos, acciones, responsables de su ejecución, así como la temporalidad y especialidad de las acciones para las que se asignan recursos, en función de las disponibilidades y necesidades contenidas en los balances de recursos humanos, materiales y financieros. Dichos programas deberán ser enviados a la Asamblea, como proyecto, durante el proceso de presupuestación que define el artículo 450 y, en forma definitiva, una vez realizados los ajustes que resulten de la aprobación del Presupuesto de Egresos por la Asamblea, a más tardar el 15 de marzo del ejercicio fiscal correspondiente.
+Los órganos a que se refiere este precepto, elaborarán de acuerdo con el formato que para tal efecto envíe la Secretaría, un programa operativo que contendrá un enfoque basado en resultados, objetivos específicos, acciones, responsables de su ejecución, indicadores, así como la temporalidad y especialidad de las acciones para las que se asignan recursos, en función de las disponibilidades y necesidades contenidas en los balances de recursos humanos, materiales y financieros. Asimismo, deberán presentar los indicadores que serán utilizados para la evaluación de cada programa.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Dichos programas deberán ser enviados a la Asamblea, como proyecto, durante el proceso de presupuestación y, en forma definitiva, una vez realizados los ajustes que resulten de la aprobación del Presupuesto de Egresos por la Asamblea, a más tardar el 6 de marzo del ejercicio fiscal correspondiente, enviándole copia a la Secretaría.
 
 > <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -9814,13 +10404,11 @@ XI. La Universidad.
 
 ARTICULO 457 A.- Los recursos relacionados con los pagos que realicen las dependencias, órganos desconcentrados, delegaciones y entidades como contraprestación por los servicios recibidos al amparo de un contrato de prestación de servicios a largo plazo o para arrendamientos de largo plazo, se registrarán como gasto corriente, y tendrán preferencia respecto a otras previsiones de naturaleza similar.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 458.
 
-El gasto público del Distrito Federal que ejerzan los órganos locales de gobierno, la Comisión, el Tribunal de lo Contencioso, las Autoridades Electorales, la Junta, el Instituto, la Universidad, las dependencias, delegaciones, órganos desconcentrados y entidades a que se refiere el artículo anterior, se ajustará al monto autorizado para los programas, capítulos, conceptos y, en su caso, partidas presupuestales, conforme al Clasificador por Objeto del Gasto, a las previsiones de este Código y del Presupuesto de Egresos.
-
-> <small>(DEROGADO ULTIMO PARRAFO, G.O. 30 DE DICIEMBRE DE 2005)</small>
+El gasto público del Distrito Federal que ejerzan los órganos locales de gobierno, la Comisión, el Tribunal de lo Contencioso, las Autoridades Electorales, la Junta, el Instituto, la Universidad, las dependencias, delegaciones, órganos desconcentrados y entidades a que se refiere el artículo 457 de este Código, se ajustará al monto autorizado para los programas, capítulos, conceptos y, en su caso, partidas presupuestales, conforme al Clasificador por Objeto del Gasto, a las previsiones de este Código y del Presupuesto de Egresos.
 
 > <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -9860,13 +10448,21 @@ ARTICULO 461 A.- Las dependencias, órganos desconcentrados, delegaciones, entid
 
 ARTICULO 461 B.- Las dependencias, órganos desconcentrados, órganos de gobierno, órganos autónomos, delegaciones, y entidades, sólo podrán otorgar recursos públicos a los fideicomisos, conforme a lo siguiente:
 
-Con autorización indelegable de su titular, y en el caso de las Entidades con la autorización previa de su Órgano de Gobierno, con excepción de los fideicomisos constituidos por mandato de ley o de normatividad federal, en cumplimiento a convenios suscritos con la federación o entidades federativas, así como las aportaciones y transferencias realizadas por la Secretaría;
+> <small>(ADICIONADA [N. DE E. ANTES SEGUNDO PARRAFO], G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Previo informe a la Secretaría; y
+I. Con autorización indelegable de su titular, y en el caso de las Entidades con la autorización previa de su Órgano de Gobierno, con excepción de los fideicomisos constituidos por mandato de ley o de normatividad federal, en cumplimiento a convenios suscritos con la federación o entidades federativas, así como las aportaciones y transferencias realizadas por la Secretaría;
 
-Que se encuentren autorizados los recursos en el Presupuesto de Egresos.
+> <small>(ADICIONADA [N. DE E. ANTES TERCER PARRAFO], G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Las dependencias, órganos desconcentrados, delegaciones, entidades y órganos a que se refiere el artículo 448 de este Código, enviarán de manera trimestral a la Asamblea por conducto de la Secretaría, los informes sobre el estado que guardan los fideicomisos, las modificaciones a su objeto, las variaciones a los recursos disponibles, así como una relación del uso de recursos por destino y tipo de gasto.
+II. Previo informe a la Secretaría; y
+
+> <small>(ADICIONADA [N. DE E. ANTES CUARTO PARRAFO], G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+III. Que se encuentren autorizados los recursos en el Presupuesto de Egresos.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Las dependencias, órganos desconcentrados, delegaciones, entidades y órganos a que se refiere el artículo 448 de este Código, enviarán de manera trimestral a la Asamblea por conducto de la Secretaría, los informes sobre el estado que guardan los fideicomisos que hayan constituido o a los que hayan realizado aportaciones, las modificaciones a su objeto, las variaciones a los recursos disponibles, así como una relación del uso de recursos por destino y tipo de gasto.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -9890,7 +10486,9 @@ Las dependencias, órganos desconcentrados, delegaciones y entidades de la Admin
 
 ARTICULO 464 A.- La Secretaría, deberá informar a la Asamblea a más tardar el 30 de marzo del año del ejercicio de que se trate, la estimación de los recursos remanentes del ejercicio fiscal anterior, a que hace referencia el artículo 15 del Código, así como su propuesta de distribución entre los programas prioritarios, a efecto de que la misma haga comentarios sobre la propuesta de distribución dentro de los 15 días hábiles posteriores a la recepción de la información.
 
-Una vez conocidos los remanentes definitivos, a más tardar el 30 de mayo, la Secretaría realizará su distribución entre los programas prioritarios, tomando en consideración los comentarios hechos por la Asamblea, y los hará del conocimiento de las dependencias, órganos desconcentrados, delegaciones y entidades dentro de los 10 primeros días hábiles del mes de junio.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Una vez conocidos los remanentes definitivos, a más tardar el 30 de abril, la Secretaría realizará su distribución entre las funciones y subfunciones, tomando en consideración los comentarios hechos por la Asamblea, y los hará del conocimiento de las dependencias, órganos desconcentrados, delegaciones y entidades dentro de los 10 primeros días hábiles del mes de mayo.
 
 > <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -9902,9 +10500,9 @@ ARTICULO 464 B.- Con la finalidad de mejorar el impacto, rendimiento y eficacia 
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
-#### Sección Tercera. Del ejercicio presupuestal de los órganos político-administrativo
+#### Sección Primera. Disposiciones Generales para el ejercicio presupuestal de las dependencias, órganos desconcentrados y delegaciones
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 465.
 
@@ -9952,9 +10550,9 @@ II. Contemplarán las necesidades de pago, en función de los compromisos a cont
 
 III. Los lineamientos que al efecto expida la Secretaría.
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Para la autorización de los calendarios presupuestales, la Secretaría podrá solicitar de las dependencias, delegaciones y órganos desconcentrados la información adicional que considere necesaria, quedando facultada para elaborar calendarios cuando no le sean presentados en los plazos que al efecto hubiese señalado.
+Para la autorización de los calendarios presupuestales, la Secretaría podrá solicitar de las dependencias, delegaciones y órganos desconcentrados la información adicional que considere necesaria, quedando facultada para elaborar calendarios cuando no le sean presentados en los plazos que al efecto hubiese señalado, así como para modificarlos en función de la capacidad financiera del Distrito Federal.
 
 > <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -10020,33 +10618,41 @@ I. Con cargo a los programas y, en su caso, a los subprogramas y unidades respon
 
 II. Con sujeción a los capítulos, conceptos y partidas del Clasificador por Objeto del Gasto que expida la Secretaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 472.
 
-En casos excepcionales y debidamente justificados, la Secretaría podrá autorizar que las dependencias, órganos desconcentrados y delegaciones establezcan compromisos presupuestales en los contratos de obras públicas, adquisiciones, servicios, arrendamientos o de otra índole que celebren, cuya ejecución comprenda más de un ejercicio. En estos casos, el cumplimiento de los compromisos quedará sujeto a la disponibilidad presupuestal de los años en que se continúe su ejecución.
+En casos excepcionales y debidamente justificados, incluyendo el análisis previo al gasto de inversión que se consigne en los anteproyectos de presupuesto, la Secretaría, podrá autorizar que las dependencias, órganos desconcentrados y delegaciones, así como la unidad administrativa consolidadora designada por el órgano de apoyo técnico, celebren contratos de obras públicas, adquisiciones, servicios, arrendamiento o de otra índole, cuya ejecución comprenda más de un ejercicio. En estos casos, el cumplimiento de los compromisos quedará sujeto a la disponibilidad presupuestal de los años en que se continúe su ejecución.
 
 > <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
 Para los años presupuestales subsecuentes, los compromisos de pago adquiridos por las dependencias, órganos desconcentrados y delegaciones en ejercicios anteriores, conforme a lo previsto en este artículo, gozarán de preferencia respecto de nuevos compromisos que las mismas pretendan adquirir. Las dependencias, órganos desconcentrados y delegaciones deberán cuidar bajo su responsabilidad que los pagos que se efectúen con cargo a sus presupuestos aprobados se realicen con sujeción a la preferencia establecida en este artículo.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-La Secretaría previo análisis del gasto consignado en los anteproyectos de presupuesto, podrá expedir autorizaciones previas para que las dependencias, órganos desconcentrados y delegaciones que los soliciten estén en posibilidad de efectuar trámites y contraer compromisos que les permitan iniciar o continuar, a partir del primero de enero del año siguiente, aquellos proyectos, servicios y obras, que por su importancia y características así lo requieran, pero en todos los casos, tanto las autorizaciones que otorgue la Secretaría como los compromisos que con base en ellas se contraigan, estarán condicionados a la aprobación del Presupuesto de Egresos correspondiente y a las disposiciones que emita la propia Secretaría.
+Sólo en casos debidamente justificados en los que se acrediten causas ajenas al contratante o contratista, la Secretaría en un término de 10 días hábiles, expedirá autorizaciones multianuales sobre proyectos ya iniciados bajo una base anual, siempre que haya disponibilidad presupuestal.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+La Secretaría previo análisis del gasto consignado en los anteproyectos de presupuesto, podrá expedir autorizaciones previas para que las dependencias, órganos desconcentrados y delegaciones, así como la unidad administrativa consolidadora designada por el órgano de apoyo técnico, que los soliciten estén en posibilidad de efectuar trámites y contraer compromisos que les permitan iniciar o continuar, a partir del primero de enero del año siguiente, aquellos proyectos, servicios y obras, que por su importancia y características así lo requieran, pero en todos los casos, tanto las autorizaciones que otorgue la Secretaría como los compromisos que con base en ellas se contraigan, estarán condicionados a la aprobación del Presupuesto de Egresos correspondiente y a las disposiciones que emita la propia Secretaría.
 
 > <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
 Para el caso de delegaciones, la Secretaría contará con 10 días hábiles para responder las solicitudes de autorización contenidas en los párrafos anteriores.
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-La Secretaría informará en la cuenta pública en capítulo por separado respecto de lo dispuesto en el primer párrafo de este artículo.
+La Secretaría informará en la cuenta pública en capítulo por separado respecto de lo dispuesto en el primer párrafo de este artículo. Asimismo, tratándose de contrataciones consolidadas tendrá los mismos efectos a que se refiere el presente artículo.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 472 A.- La Secretaría emitirá las reglas de carácter general y los lineamientos aplicables a los proyectos y contratos de prestación de servicios a largo plazo que deberán observar las dependencias, órganos desconcentrados y delegaciones. La Secretaría, con base en lo establecido en dichas reglas y lineamientos, podrá autorizar los proyectos de prestación de servicios a largo plazo y los modelos de contratos de prestación de servicios a largo plazo que pretendan celebrar las dependencias, órganos desconcentrados y delegaciones, con independencia de que en todos los ejercicios fiscales exista o no erogación de recursos y sujeto a la disponibilidad presupuestal de los años en que se continúe su ejecución. La autorización para los proyectos de prestación de servicios a largo plazo a que se refiere este párrafo podrá ser otorgada mediante una autorización general para los proyectos de prestación de servicios a largo plazo que se pretendan realizar en el año fiscal subsecuente por las diversas dependencias, órganos desconcentrados y delegaciones o bien para un proyecto de prestación de servicios a largo plazo en particular.
 
 > <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
-ARTICULO 472 A.- La Secretaría emitirá las reglas de carácter general y los lineamientos aplicables a los proyectos y contratos de prestación de servicios a largo plazo que deberán observar las dependencias, órganos desconcentrados y delegaciones. La Secretaría, con base en lo establecido en dichas reglas y lineamientos, podrá autorizar los proyectos de prestación de servicios a largo plazo y los modelos de contratos de prestación de servicios a largo plazo que pretendan celebrar las dependencias, órganos desconcentrados y delegaciones, sujeto a la disponibilidad presupuestal de los años en que se continúe su ejecución. La autorización para los proyectos de prestación de servicios a largo plazo a que se refiere este párrafo podrá ser otorgada mediante una autorización general para los proyectos de prestación de servicios a largo plazo que se pretendan realizar en el año fiscal subsecuente por las diversas dependencias, órganos desconcentrados y delegaciones o bien para un proyecto de prestación de servicios a largo plazo en particular.
-
 En los procedimientos de adjudicación y formalización de los contratos de prestación de servicios a largo plazo, las dependencias, órganos desconcentrados y delegaciones deberán apegarse a lo establecido en la Ley de Adquisiciones para el Distrito Federal y su Reglamento, y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
 La Secretaría informará en la cuenta pública, en capítulo por separado, respecto de lo dispuesto en el primer párrafo de este artículo.
 
@@ -10071,6 +10677,10 @@ El ejercicio del gasto público por concepto de adquisiciones, servicios general
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
 En el caso de adquisiciones y obras públicas, las dependencias, órganos desconcentrados y delegaciones deberán contar con los programas y presupuestos de adquisiciones y de obras respectivos, de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Para el caso de obras públicas y adquisiciones que se financien con recursos federales a través de convenios, éstas no estarán sujetas a los criterios que emita el Distrito Federal, debiéndose aplicar únicamente la legislación federal vigente.
 
 > <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], G.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -10116,11 +10726,13 @@ El ejercicio del presupuesto se sujetará estrictamente a los montos y calendari
 
 La Secretaría cumplirá estrictamente los calendarios de ministración de presupuesto autorizados a las dependencias, órganos desconcentrados, delegaciones y entidades en los términos de las disposiciones aplicables e informará al respecto en los informes trimestrales, por dependencia, órgano desconcentrado, delegación o entidad por programa y fuente de financiamiento.
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 479.
 
-Las dependencias, órganos desconcentrados y delegaciones remitirán a la Secretaría, dentro de los primeros diez días de cada mes, un reporte mensual sobre los recursos fiscales, crediticios y provenientes de transferencias federales, que se encuentren comprometidos a la fecha de su presentación.
+Las dependencias, órganos desconcentrados y delegaciones remitirán a la Secretaría, dentro de los primeros diez días de cada mes, un reporte mensual sobre los recursos fiscales, crediticios y provenientes de transferencias federales, que se encuentren comprometidos a la fecha de su presentación. La Secretaría podrá reasignar los recursos que no se encuentren comprometidos al 31 de agosto del ejercicio fiscal.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
 Se entenderá por gasto comprometido, los recursos presupuestarios respecto de los que existan documentos legales que determinen para la dependencia, órgano desconcentrado o delegación, una obligación de pagar.
 
@@ -10142,17 +10754,21 @@ Las dependencias, órganos desconcentrados y delegaciones deberán llevar un reg
 
 Las dependencias, órganos desconcentrados y delegaciones que realicen erogaciones financiadas con endeudamiento deberán apegarse a la normatividad vigente en la materia y a la que expida la Secretaría para ese efecto.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 483.
 
-Las dependencias, órganos desconcentrados y delegaciones tendrán como fecha límite para establecer sus compromisos con cargo a su presupuesto autorizado el 15 de noviembre, para que al 31 de diciembre de cada año queden totalmente devengados y contabilizados, con excepción de aquellos que se financien con recursos adicionales al presupuesto originalmente autorizado provenientes de transferencias federales y convenios no considerados de origen en la Ley de Ingresos, de ingresos de aplicación automática cuando éstos superen la meta originalmente establecida, así como los derivados de obligaciones laborales. La Secretaría comunicará las fechas de los trámites programático-presupuestales para el cierre del ejercicio.
+Las dependencias, órganos desconcentrados y delegaciones tendrán como fecha límite para establecer compromisos con cargo a su presupuesto autorizado a más tardar el 31 de octubre tratándose de obra pública por contrato, y el 15 de noviembre para el resto de los conceptos de gasto.
+
+Quedan exceptuados del plazo anterior los compromisos que se financien con recursos adicionales al presupuesto originalmente autorizado, provenientes de transferencias federales y convenios no considerados de origen en la Ley de Ingresos, de ingresos de aplicación automática cuando éstos superen la meta originalmente establecida, así como los derivados de obligaciones laborales.
+
+La Secretaría comunicará las fechas de los trámites programático presupuestales para el cierre del ejercicio.
 
 (REUBICADA, G.O. 26 DE DICIEMBRE DE 2003)
 
-#### Sección Cuarta. Del Ejercicio Presupuestal de los Órganos de Gobierno y de los Órganos Autónomos
+#### Sección Segunda. Del Ejercicio Presupuestal de las Entidades
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 484.
 
@@ -10176,15 +10792,23 @@ III. Pago de las obligaciones derivadas de los compromisos contraídos.
 
 Para la elaboración de los calendarios presupuestales, las entidades deberán de observar lo dispuesto en el artículo 467 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 485.
 
-En los casos debidamente justificados de compromisos presupuestales que excedan el período anual del presupuesto, las entidades deberán contar previamente con la autorización expresa y por escrito de su órgano de gobierno y de la Secretaría, además de que para los efectos de ejecución y pago de los compromisos excedentes se sujetarán a la disponibilidad presupuestal del o los años subsecuentes.
+En los casos debidamente justificados de compromisos presupuestales que excedan el período anual del presupuesto, las entidades deberán contar previamente con la autorización expresa y por escrito de su órgano de gobierno y de la Secretaría, incluyendo el análisis previo al gasto de inversión que se consigne en los anteproyectos de presupuesto que se realice, además de que para los efectos de ejecución y pago de los compromisos excedentes se sujetarán a la disponibilidad presupuestal del o los años subsecuentes.
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Para los años presupuestales subsecuentes, los compromisos de pago adquiridos por las dependencias, órganos desconcentrados y delegaciones en ejercicios anteriores, conforme a lo previsto en este artículo, gozarán de preferencia respecto de nuevos compromisos que las mismas pretendan adquirir. Las dependencias, órganos desconcentrados y delegaciones deberán cuidar bajo su responsabilidad que los pagos que se efectúen con cargo a sus presupuestos aprobados se realicen con sujeción a la preferencia establecida en este artículo.
+Sólo en casos debidamente justificados en los que se acrediten causas ajenas al contratante o contratista, la Secretaría expedirá autorizaciones multianuales sobre proyectos ya iniciados bajo una base anual, siempre que haya disponibilidad presupuestal.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+La Secretaría previo análisis del gasto consignado en los anteproyectos de presupuesto, escuchando a la dependencia coordinadora de sector, expedirá autorizaciones previas para que las entidades puedan efectuar trámites y contraer compromisos que les permitan iniciar o continuar a partir del primero de enero del año siguiente, aquellos proyectos, obras y servicios que así lo requieran. Tanto las autorizaciones que otorgue la Secretaría como los compromisos que con base en ellas se contraigan, estarán condicionadas a la aprobación del presupuesto de egresos correspondiente.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Para los años presupuestales subsecuentes, los compromisos de pago adquiridos por las entidades, en ejercicios anteriores, conforme a lo previsto en este artículo, gozarán de preferencia respecto de nuevos compromisos que las mismas pretendan adquirir. Las entidades deberán cuidar bajo su responsabilidad que los pagos que se efectúen con cargo a sus presupuestos aprobados se realicen con sujeción a la preferencia establecida en este artículo.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -10208,11 +10832,11 @@ La Secretaría informará en la cuenta pública, en capítulo por separado, resp
 
 ARTICULO 485 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 486.
 
-Las entidades manejarán y ejercerán sus recursos aprobados por medio de los órganos que determinen sus propias normas de organización.
+Las entidades manejarán y ejercerán sus recursos aprobados por medio de los órganos que determinen sus propias normas de organización, y en apego a las disposiciones de este Código y demás normatividad aplicable.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -10224,13 +10848,21 @@ Las entidades recibirán por conducto de la Secretaría, los fondos, subsidios y
 
 La ministración de estas aportaciones a las entidades, se hará como complemento a sus ingresos propios y conforme al calendario presupuestal mensual autorizado por la Secretaría, deduciendo las disponibilidades financieras de las entidades.
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Las entidades tendrán como fecha límite para establecer sus compromisos con cargo a su presupuesto autorizado el 15 de noviembre, para que al 31 de diciembre de cada año queden totalmente devengados y contabilizados, con excepción de aquellos que se financien con recursos adicionales al presupuesto originalmente autorizado provenientes de transferencias federales y convenios no considerados de origen en la Ley de Ingresos, así como los derivados de obligaciones laborales. La Secretaría comunicará las fechas de los trámites programático-presupuestales para el cierre del ejercicio.
+Las entidades tendrán como fecha límite para establecer compromisos con cargo a su presupuesto autorizado a más tardar el 31 de octubre tratándose de obra pública por contrato, y el 15 de noviembre para el resto de los conceptos de gasto.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Quedan exceptuados del plazo anterior los compromisos que se financien con recursos adicionales al presupuesto originalmente autorizado, provenientes de transferencias federales y convenios no considerados de origen en la Ley de Ingresos, de ingresos propios, cuando éstos superen la meta originalmente establecida, así como los derivados de obligaciones laborales.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+La Secretaría comunicará las fechas de los trámites programático-presupuestales para el cierre del ejercicio.
 
 (REUBICADA, G.O. 26 DE DICIEMBRE DE 2003)
 
-#### Sección Quinta. Del Gasto Público por Servicios Personales
+#### Sección Tercera. Del ejercicio presupuestal de los órganos político-administrativo
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -10264,11 +10896,13 @@ Las asignaciones presupuestales a las delegaciones que apruebe la Asamblea a ini
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
-#### Sección Primera. De los Derechos por el Suministro de Agua
+#### Sección Cuarta. Del Ejercicio Presupuestal de los Órganos de Gobierno y de los Órganos Autónomos
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 490.
 
-Los órganos a los que se refiere el artículo 448 de este Código, manejarán, administrarán y ejercerán de manera autónoma su presupuesto, debiendo sujetarse a sus propias leyes, así como a las normas que al respecto se emitan en congruencia con lo previsto en este Código y demás normatividad en la materia, en todo aquello que no se oponga a las normas que rijan su organización y funcionamiento.
+Los órganos a los que se refiere el artículo 448 de este Código manejarán, administrarán y ejercerán su presupuesto, debiendo sujetarse a sus propias leyes, así como a las normas que al respecto se emitan en congruencia con lo previsto en este Código y demás normatividad en la materia, en todo aquello que no se oponga a las normas que rijan su organización y funcionamiento.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -10298,7 +10932,9 @@ Los órganos a que se refiere el artículo 448 de este Código elaborarán sus c
 
 (REUBICADA, G.O. 26 DE DICIEMBRE DE 2003)
 
-#### Sección Segunda. De los Servicios de Prevención y Control de la Contaminación Ambiental
+#### Sección Quinta. Del Gasto Público por Servicios Personales
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 494.
 
@@ -10308,31 +10944,17 @@ La Oficialía Mayor será responsable de que se lleve un registro del personal a
 
 En el caso de las delegaciones se solicitará la opinión de las mismas.
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 495.
 
-El ejercicio del gasto público por concepto de servicios personales no deberá aumentar como resultado de la creación de nuevas plazas en el Gobierno del Distrito Federal, salvo en los casos previstos por lo dispuesto en el Decreto de Presupuesto de Egresos del ejercicio fiscal correspondiente. Invariablemente la Secretaría informará en la exposición de motivos del presupuesto anual el número de plazas autorizadas por cada categoría, cuyas asignaciones comprenderán:
+Los movimientos que realicen las dependencias, órganos desconcentrados, delegaciones y entidades a sus estructuras orgánicas ocupacionales y salariales, así como a las plantillas de personal, deberán realizarse mediante adecuaciones presupuestarias compensadas, las que en ningún caso incrementarán el presupuesto regularizable para servicios personales del ejercicio fiscal inmediato siguiente, salvo en el caso de la creación de plazas que autorice la Contraloría y la Secretaría en el ámbito de sus respectivas atribuciones.
 
-I. El establecimiento de compromisos a través de la expedición y autorización de Constancias de Nombramiento y Asignación de Remuneraciones, Listas de Raya, Contratos de Honorarios, Contratos Colectivos o Individuales y los documentos que tengan este carácter, y
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Los pagos de remuneraciones ordinarias, extraordinarias, y de seguridad social.
-
-> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
-
-En caso de que las asignaciones presupuestales del capítulo de servicios personales que se presenten en el Proyecto, resulten superiores a las del año en curso, el Oficial Mayor deberá explicar en un apartado específico de dicho proyecto, los factores que inciden en el incremento, cuantificando los montos que se originan por el numero de plazas y los que corresponden a incrementos salariales, en cada una de las dependencias, órganos desconcentrados, delegaciones, entidades y órganos autónomos.
+ARTICULO 495 A.- De los movimientos que se efectúen a lo largo del año y que incidan en una mayor erogación a la autorizada en el Presupuesto de Egresos del capítulo 1000, para el año correspondiente, el Jefe de Gobierno dará cuenta en un apartado específico, al rendir la Cuenta Pública.
 
 > <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
-
-En cualquier caso el incremento en el capítulo deberá ser el mínimo indispensable y estar plenamente justificado.
-
-> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
-
-La Secretaría no podrá autorizar incrementos en el pago de la nómina cuando éstos no estén asociados a una mayor cantidad de bienes o servicios, o a indicadores de calidad que muestren su mejoría.
-
-> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
-
-ARTICULO 495 A.- De los movimientos que se efectúen a lo largo del año y que incidan en una mayor erogación a la autorizada en el Presupuesto de Egresos del capítulo 1000, para el año correspondiente, el Jefe de Gobierno dará cuenta en el curso de los informes de avance programático-presupuestal, y al rendir la Cuenta Pública, en un apartado específico.
 
 El incumplimiento a lo dispuesto en materia del incremento de la norma, a que se refiere este Código, por parte de los servidores públicos se sancionará de acuerdo con lo dispuesto por la Ley Federal de Responsabilidades de los Servidores Públicos.
 
@@ -10446,9 +11068,13 @@ XI. Especificar los indicadores que permitan la evaluación del cumplimiento de 
 
 XII. Obligarse a publicar el padrón de beneficiarios. En el caso de que no cuenten con dicho padrón, deberán manejarse mediante convocatoria abierta, la cual deberá publicarse en la Gaceta y en periódicos de amplia circulación y en las oficinas del Gobierno, y en ningún caso se podrán etiquetar o predeterminar.
 
-Podrán otorgarse subsidios, apoyos o ayudas a personas físicas o morales individuales, siempre que medie autorización previa del titular de las dependencias, órganos desconcentrados, delegaciones o entidades, en la que se justifique la procedencia del otorgamiento.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 Los titulares de las dependencias, órganos desconcentrados, delegaciones y entidades que ejerzan recursos por los conceptos a que se refiere este artículo, deberán crear un padrón único de beneficiarios de los programas sociales cuya ejecución esté a su cargo.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Se exceptúa de lo anterior los subsidios, apoyos o ayudas que se otorguen excepcionalmente, a personas físicas o morales siempre que medie autorización previa del titular de las dependencias, órganos desconcentrados, delegaciones o entidades en las que se justifique la procedencia del otorgamiento.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -10462,31 +11088,35 @@ Dicha solicitud de autorización deberá resolverse durante los quince días há
 
 El Jefe de Gobierno informará a la Asamblea del ejercicio de las resoluciones otorgadas en apego a este artículo, en los informes de avance trimestral y al rendir la Cuenta Pública del Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-ARTICULO 502 A.- Las dependencias, órganos desconcentrados, delegaciones y entidades deberán someter a la opinión de una Comisión Interdependencial, la creación de Programas que tengan por objeto otorgar subsidios y ayudas a la población, y que cumplan con los requisitos a que se refiere el artículo anterior. De igual forma, deberán someter a su opinión, cualquier modificación en el alcance o modalidades de sus programas, cambios en la población objetivo, o cualquier otra acción que implique variaciones en los criterios de selección de beneficiarios, montos o porcentajes de subsidio o ayuda, y selección de delegación o zonas dentro de éstas.
+ARTICULO 502 A.- Con el objeto de cumplir lo previsto en el segundo párrafo del artículo 1 de este Código, se señalarán en el Presupuesto de Egresos los programas a través de los cuales se otorguen subsidios y aquellos programas que deberán sujetarse a reglas de operación. La Asamblea en el Presupuesto de Egresos, podrá señalar los programas a través de los cuales se otorguen subsidios, que deberán sujetarse a reglas de operación con el objeto de asegurar que la aplicación de los recursos públicos se realice con eficiencia, eficacia, economía, honradez y transparencia. Asimismo, se señalarán en el Presupuesto de Egresos los criterios generales a los cuales se sujetarán las reglas de operación de los programas.
 
-Los titulares de las dependencias, órganos desconcentrados, delegaciones y entidades elaborarán y someterán a la opinión de la Comisión Interdependencial, las reglas de operación de los Programas observando los requisitos a que se refiere el artículo anterior. Asimismo, enviarán a la Asamblea, para sus comentarios, sus propuestas de Reglas de Operación.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Para iniciar la operación del Programa, además de obtener la opinión de la Comisión Intersecretarial, se deberá realizar su registro ante la Secretaría, la cual emitirá su dictamen de impacto presupuestario, previo a la publicación en la Gaceta Oficial del Distrito Federal de las reglas de operación.
-
-Las reglas de operación de los programas sociales por los que se otorguen los subsidios, apoyos o ayudas a que se refiere el artículo 501 deberán ser publicadas en la Gaceta del Diario Oficial del Distrito Federal a más tardar el 31 de enero. Una vez publicadas las Reglas de Operación no se podrán realizar modificaciones a las mismas, salvo en los casos en que se presenten circunstancias extraordinarias y sean debidamente acreditadas ante la Comisión Interdependencial.
+ARTICULO 502 B.- Con el propósito de elevar el impacto de los recursos, evitar duplicidades en las acciones y en el otorgamiento de beneficios, las dependencias, órganos desconcentrados y entidades están obligadas a coordinarse con las delegaciones en el establecimiento y operación de programas que otorguen subsidios y ayudas a la población del Distrito Federal. Para tales propósitos, las delegaciones proporcionarán a la Secretaría de Desarrollo Social a más tardar el 31 de enero, la relación de programas o acciones que tengan tales propósitos, a fin de que dicha dependencia emita opinión sobre la posible duplicidad de esfuerzos y lo haga del conocimiento de las delegaciones como de las dependencias, órganos desconcentrados y entidades, a más tardar en el mes de febrero.
 
 > <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
-
-ARTICULO 502 B.- Con el propósito de elevar el impacto de los recursos, evitar duplicidades en las acciones y en el otorgamiento de beneficios, las dependencias, órganos desconcentrados y entidades están obligadas a coordinarse con las delegaciones en el establecimiento y operación de programas que otorguen subsidios y ayudas a la población del Distrito Federal. Para tales propósitos, las delegaciones proporcionarán a la Secretaría a más tardar el 31 de enero, la relación de programas o acciones que tengan tales propósitos, a fin de que dicha dependencia emita opinión sobre la posible duplicación de esfuerzos y lo haga del conocimiento tanto de las delegaciones como de las dependencias, órganos desconcentrados y entidades, a más tardar en el mes de febrero.
 
 Las dependencias, órganos desconcentrados y entidades, deberán establecer un acuerdo de coordinación con las delegaciones, en el que se señale, entre otros, la concurrencia de esfuerzos, recursos, apoyos de operación y responsabilidades.
 
-En el caso que proceda, las delegaciones deberán elaborar y publicar las reglas de operación de sus programas en los términos a que se refiere el artículo 501 A, y presentar a la Asamblea la relación de Programas, así como de las reglas para otorgar los beneficios, y del Padrón de Beneficiarios.
+> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
-Las dependencias, órganos desconcentrados, delegaciones y entidades, a través de la Secretaría, deberán informar a la Asamblea de forma trimestral, de los avances en la operación de los programas, la población beneficiaria, el monto de los recursos otorgados, la distribución por delegación y colonia.
+En el caso que proceda, las delegaciones deberán elaborar y publicar las reglas de operación de sus programas en los términos a que se refiere el artículo 501 A, y presentar a la Asamblea la relación de Programas, así como de las reglas para otorgar los beneficios, y del Padrón de Beneficiarios.
 
 > <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
-ARTICULO 502 C.- La Secretaría deberá coordinar el estudio de las características y necesidades de los programas de beneficio social, a cargo de las dependencias, delegaciones, órganos desconcentrados y entidades, con el propósito de establecer el mecanismo o instrumento más adecuado para el otorgamiento y ejercicio del beneficio o ayuda, por parte de los beneficiarios.
+Las dependencias, órganos desconcentrados, delegaciones y entidades, a través de la Secretaría, deberán informar a la Asamblea de forma trimestral, de los avances en la operación de los programas, la población beneficiaria, el monto de los recursos otorgados, la distribución por delegación y colonia.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 502 C.- La Secretaría de Desarrollo Social deberá coordinar el estudio de las características y necesidades de los programas de beneficio social, a cargo de las dependencias, delegaciones, órganos desconcentrados y entidades, con el propósito de establecer el mecanismo o instrumento más adecuado para el otorgamiento y ejercicio del beneficio o ayuda, por parte de los beneficiarios.
+
+> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
 Dicho estudio deberá resaltar las ventajas y facilidades para los beneficiarios, así como los ahorros a favor de las dependencias, órganos desconcentrados, delegaciones o entidades que tengan bajo su manejo los programas de subsidios y apoyos, en el procedimiento de entrega y ejercicio del beneficio.
+
+> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
 Se deberá informar a la Asamblea de los resultados de tal estudio a más tardar el 30 de junio, el cual contendrá, además, el plan de acción, los tiempos y metas, los cuales procurarán no exceder el ejercicio fiscal 2008.
 
@@ -10830,11 +11460,13 @@ Las áreas competentes de los órganos considerados con autonomía para elaborar
 
 ### CAPITULO II. De la Contabilidad de Fondos y Valores del Distrito Federal
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 524.
 
-La Secretaría concentrará, revisará, integrará, controlará y registrará la información contable del movimiento de los fondos y valores de la propiedad o al cuidado del Distrito Federal y, en su oportunidad, producirá los estados contables que se requieran para su integración en la Cuenta Pública del Distrito Federal.
+La Secretaría concentrará, revisará, integrará, controlará y registrará la información contable del movimiento de los fondos y valores de la propiedad o al cuidado del Distrito Federal y, en su oportunidad, elaborará los estados financieros que se requieran para su integración en la Cuenta Pública del Distrito Federal.
+
+Será responsabilidad de las dependencias, órganos desconcentrados, delegaciones y entidades la confiabilidad de las cifras consignadas en la contabilidad, así como de la representatividad de los saldos de las cuentas de balance, en función de los activos y pasivos reales y contingentes, adoptando para ello las medidas de control y depuración correspondientes.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -11030,11 +11662,13 @@ La Secretaría deberá llevar registros auxiliares que permitan el control y con
 
 Las dependencias, órganos desconcentrados, delegaciones y entidades, serán responsables de llevar un registro que permita el control y conocimiento individual de los distintos saldos integrantes de los estados financieros al nivel contable que permita identificar cada operación.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 546.
 
-Las dependencias, órganos desconcentrados, delegaciones y entidades están obligadas a conservar en su poder y a disposición de la Secretaría y de otras autoridades competentes, por los plazos que se establezcan en los ordenamientos legales aplicables, los libros, registros auxiliares e información correspondiente, así como los documentos originales justificativos y comprobatorios de sus operaciones financieras.
+Las dependencias, órganos desconcentrados, delegaciones y entidades están obligadas a conservar en su poder y a disposición de la Secretaría y de otras autoridades competentes, por los plazos que se establezcan en los ordenamientos legales aplicables, los libros, registros auxiliares e información correspondiente.
+
+Tratándose específicamente del pago centralizado de compromisos a que se refiere el artículo 380, es responsabilidad de las unidades administrativas consolidadoras conservar en su poder y a disposición de la Secretaría y de otras autoridades competentes, los documentos originales justificativos y comprobatorios de las operaciones presupuestales asociadas a la contratación consolidada de bienes o servicios de uso generalizado, conforme a las partidas de gasto que a cada una de ellas le corresponde operar, debiendo establecer los mecanismos de comunicación necesarios, a fin de que las unidades ejecutoras de gasto puedan disponer de la información contenida en los mencionados documentos.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -11110,51 +11744,43 @@ La observancia de este Código, en materia de contabilidad, no releva a las depe
 
 ### CAPITULO IV. De la Información y la Formulación de la Cuenta Pública del Distrito Federal
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 554.
 
 Las dependencias, órganos desconcentrados y delegaciones deberán proporcionar a la Secretaría la siguiente información:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2006)</small>
-
 I. Mensualmente, dentro de los primeros diez días del mes siguiente:
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
 a). Conciliación del ejercicio presupuestal, y
 
-> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
-
 b). Estado analítico de ingresos, en caso de ser áreas generadoras de ingresos, en caso contrario la información deberá ser proporcionada por el área competente de la Secretaría;
 
-> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2003)</small>
+II. Mensualmente, dentro de los primeros cinco días del mes siguiente, el reporte correspondiente al pago de contribuciones en materia del impuesto al valor agregado generado por los actos o actividades realizadas por las dependencias, órganos desconcentrados y delegaciones, conforme las instrucciones y formatos que para tal efecto establezca la Secretaría.
 
-II. Trimestralmente:
+III. Mensualmente, dentro de los primeros siete días del mes siguiente, el reporte correspondiente al cumplimiento de obligaciones del Gobierno del Distrito Federal, relacionadas con la declaración informativa sobre el pago, retención, acreditamiento y traslado del impuesto al valor agregado en las operaciones con sus proveedores, conforme las instrucciones y formatos que para tal efecto establezca la Secretaría.
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+IV. Trimestralmente:
 
-a). Información sobre el avance de metas por programas. En caso de desviaciones a las metas, se deberán especificar las causas que las originen;
+a). Información sobre el grado de cumplimiento de los objetivos, con base en indicadores. En caso de desviaciones se deberán especificar sus causas;
 
-b). Información sobre la aplicación por concepto de erogaciones imprevistas y gastos de orden social, especificando el objeto del gasto, importes autorizados y acciones que las generaron, y
-
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+b). Información sobre la aplicación por concepto de erogaciones imprevistas y gastos de orden social, especificando el objeto del gasto, importes autorizados y acciones que las generaron;
 
 c). Información sobre la ejecución de los recursos por subsidios, ayudas, donaciones y aportaciones autorizados y ministrados a instituciones, personas físicas o morales, especificando importes, causas y finalidades de las erogaciones;
 
-> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2003)</small>
+d). Reporte de los movimientos de los bienes muebles e inmuebles, incluyendo las altas y bajas ocurridas durante el periodo que se informa, conforme las instrucciones y formatos que para tal efecto establezca la Secretaría, y
 
-III. A más tardar en la segunda quincena de febrero de cada año, la información al treinta y uno de diciembre del año inmediato anterior, que comprenderá lo siguiente:
+e). Reporte de los movimientos de los almacenes de bienes consumibles, incluyendo saldo final del periodo anterior, las altas, bajas ocurridas durante el periodo que se informa y saldo final, conforme a las instrucciones y formatos que para tal efecto establezca la Secretaría.
 
-a). Resultado de los inventarios físicos practicados a los bienes muebles e inmuebles, con indicación de cantidad, descripción de bienes, valor unitario, partida presupuestal y costo total, y
+V. A más tardar en la segunda quincena de febrero de cada año, la información al treinta y uno de diciembre del año inmediato anterior, que comprenderá lo siguiente:
 
-b). Informes de las bajas de activos fijos ocurridas durante el período, señalando cantidad, descripción del bien, valor unitario, partida presupuestal, costo total y destino final debidamente justificado;
+a). Resultado de los inventarios físicos practicados a los bienes muebles e inmuebles, con indicación de cantidad, descripción de bienes, valor unitario, partida presupuestal y costo total, conforme a las instrucciones y formatos que para tal efecto establezca la Secretaría;
 
-> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2003)</small>
+b). Resultado de los inventarios físicos practicados a los almacenes de bienes consumibles, con indicación de cantidad, descripción de bienes, valor unitario, partida presupuestal y costo total, conforme a las instrucciones y formatos que para tal efecto establezca la Secretaría, y
 
-IV. Otra información complementaria que le solicite la Secretaría, en la forma y plazos que ésta determine.
+c). Informes de las bajas de activos fijos ocurridas durante el período, señalando cantidad, descripción del bien, valor unitario, partida presupuestal, costo total y destino final debidamente justificado, conforme a las instrucciones y formatos que para tal efecto establezca la Secretaría.
 
-> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+VI. Otra información complementaria que le solicite la Secretaría, en la forma y plazos que ésta determine.
 
 Los Jefes Delegacionales deberán enviar la información prevista en este artículo al Jefe de Gobierno, por conducto de la Secretaría.
 
@@ -11310,21 +11936,21 @@ I. Anualmente, a más tardar el treinta y uno de marzo:
 
 a). Estado de ejercicio del presupuesto;
 
-b). (DEROGADO, G.O. 24 DE DICIEMBRE DE 2004)
-
-c). (DEROGADO, G.O. 24 DE DICIEMBRE DE 2004)
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 Asimismo, el área competente de la Secretaría, deberá proporcionar:
 
-d). Estado analítico de ingresos;
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-e). (DEROGADO, G.O. 24 DE DICIEMBRE DE 2004)
+b). Estado analítico de ingresos;
 
-f). Estado de financiamiento;
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2003)</small>
+c). Estado de financiamiento;
 
-II. Información para integrar el apartado de resultados generales, y
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+II. Informe de Cuenta Pública conforme a las instrucciones y formatos a que se refiere el artículo 563, y
 
 > <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -11333,6 +11959,10 @@ III. Otra información complementaria que solicite la Secretaría.
 > <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Los Jefes Delegacionales deberán entregar la información señalada al Jefe de Gobierno, por conducto de la Secretaría.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+La información a que se refiere este artículo, deberá estar suscrita por el titular de la dependencia, órgano desconcentrado o delegación de que se trate.
 
 > <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -11372,7 +12002,9 @@ l). Dictamen de contador público externo.
 
 m). Conciliación del ejercicio presupuestal.
 
-II. Información para integrar el apartado de resultados generales;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+II. Informe de Cuenta Pública conforme a las instrucciones y formatos a que se refiere el artículo 563;
 
 III. Información para integrar los apartados de análisis y avance programáticos, y;
 
@@ -11490,13 +12122,13 @@ Lo dispuesto en este artículo no es aplicable tratándose de responsabilidades 
 
 La Secretaría, en el ámbito de sus atribuciones, cuando descubra o tenga conocimiento de irregularidades por actos u omisiones de servidores públicos en el manejo, aplicación y administración de fondos, valores y recursos económicos en general, de propiedad o al cuidado del Distrito Federal, en las actividades de programación y presupuestación, así como por cualquier otros actos u omisiones en que servidores públicos, proveedores, contratistas, contribuyentes y en general, a los particulares, incurran y que se traduzcan en daños o perjuicios a la Hacienda Pública del propio Distrito Federal o al patrimonio de las entidades, fincará, es decir, iniciará, substanciará y resolverá, a través de la Procuraduría Fiscal, responsabilidades resarcitorias, las cuales tendrán por objeto reparar, indemnizar o resarcir dichos daños o perjuicios.
 
-> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Asimismo, fincará responsabilidades resarcitorias en aquellos casos en que la Contaduría Mayor de Hacienda de la Asamblea emita pliegos de observaciones que no hayan sido solventados, previa solicitud que dicha autoridad presente, en términos del artículo 577 de este Código.
+Asimismo, iniciará, substanciará y resolverá responsabilidades resarcitorias en aquellos casos en que la Contaduría Mayor de Hacienda de la Asamblea emita pliegos de observaciones que no hayan sido solventados, previa solicitud que dicha autoridad presente, en términos del artículo 577 de este Código.
 
-> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-De igual forma fincará responsabilidades resarcitorias en el caso de que la Asamblea y el Tribunal en su carácter de órganos de gobierno y los órganos autónomos a que se refiere el artículo 448 del Código, se lo soliciten fundada y motivadamente, de acuerdo con lo previsto por el artículo 577 de este Código.
+De igual forma iniciará, substanciará y resolverá responsabilidades resarcitorias en el caso de que la Asamblea y el Tribunal en su carácter de órganos de gobierno y los órganos autónomos a que se refiere el artículo 448 del Código, se lo soliciten fundada y motivadamente, de acuerdo con lo previsto por el artículo 577 de este Código.
 
 > <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
@@ -11508,7 +12140,9 @@ Para los efectos de este Título y a falta de disposición expresa en este Códi
 
 Las solicitudes que se presenten a la Procuraduría Fiscal, para el inicio del procedimiento resarcitorio, además de los requisitos previstos en el artículo 677 de este Código, deberán cumplir con lo siguiente:
 
-I. Estar dirigida al Procurador Fiscal del Distrito Federal;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+I. Estar dirigida al Procurador Fiscal del Distrito Federal o al Subprocurador de Asuntos Penales;
 
 > <small>(REFORMADA, G.O. 3 DE AGOSTO DE 2007)</small>
 
@@ -11570,11 +12204,11 @@ II. El tipo de responsabilidad que a cada sujeto responsable le corresponda, y
 
 III. La cantidad líquida que corresponda al daño o perjuicio, según sea el caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 580.
 
-Para el fincamiento de la responsabilidad resarcitoria, el inicio del procedimiento deberá notificarse previamente al probable responsable, para que éste, dentro de los quince días siguientes exponga lo que a su derecho convenga y, en su caso, aporte las pruebas que estime pertinentes para desvirtuar las irregularidades que se le imputan.
+Para el fincamiento de la responsabilidad resarcitoria, el inicio del procedimiento deberá notificarse previamente al probable responsable, para que éste, dentro del plazo de los quince días siguientes conteste lo que a su derecho convenga en torno a los hechos que le fueron imputados y, aporte las pruebas que estime pertinentes para desvirtuar las irregularidades que se le imputan. En el caso que el probable responsable no formule su contestación en torno a los hechos que le fueron imputados y no ofrezca pruebas dentro del plazo de los quince días, se le tendrá por perdido su derecho para hacerlo y para ofrecer pruebas sin necesidad de que se acuse rebeldía.
 
 > <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -11614,9 +12248,9 @@ El procedimiento resarcitorio deberá concluir dentro de un plazo no mayor de ve
 
 El escrito mediante el cual el probable responsable deberá contestar exponiendo lo que a su derecho convenga y, en su caso aportar las pruebas que estime pertinentes para desvirtuar las irregularidades que se le imputan deberá contener los siguientes requisitos:
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Estar dirigido al Procurador Fiscal del Distrito Federal, indicando el número de expediente;
+I. Estar dirigido al Procurador Fiscal del Distrito Federal o al Subprocurador de Asuntos Penales, indicando el número de expediente;
 
 > <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -11640,9 +12274,9 @@ V. La fecha en que fue notificado o tuvo conocimiento del inicio del procedimien
 
 VI. Enumerar y narrar las consideraciones de hecho y de derecho que a sus intereses convenga, relacionadas con cada una de las irregularidades que se le atribuyen;
 
-> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VII. Las pruebas que, en su caso, estime pertinentes para desvirtuar las irregularidades que se le atribuyen, en los términos que indica el artículo 582 de este Código, relacionándolas con los hechos controvertidos;
+VII. Las pruebas que, en su caso, se estimen pertinentes para desvirtuar las irregularidades que se le atribuyen en los términos que indican el artículo 582 de este Código, relacionándolas con los hechos controvertidos, expresando con toda claridad cual es el hecho o hechos que se tratan de demostrar, así como las razones por las que el oferente estima que demostrarán sus afirmaciones;
 
 > <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
@@ -11662,9 +12296,9 @@ En el procedimiento resarcitorio se admitirán todo tipo de pruebas, excepto aqu
 
 Los documentos deberán ser presentados en original o copia certificada, así como el dictamen pericial que, en su caso, se ofrezca.
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Cuando las pruebas documentales no obren en poder del probable responsable o si éste no hubiera podido obtenerlas a pesar de ser documentos que legalmente se encuentran a su disposición, deberá señalar el archivo o lugar en que se encuentren, solicitando a la Procuraduría Fiscal para que requiera su remisión. Para ese efecto, deberá identificar con toda precisión los documentos y acompañar el original del acuse sellado de la solicitud que de los mismos hubiera hecho a la autoridad respectiva dentro del plazo a que se refiere el primer párrafo del artículo 580 de este Código y anexar el original del comprobante de pago de derechos correspondiente, expedido por la autoridad respectiva.
+Cuando las pruebas documentales no obren en poder del probable responsable o si éste no hubiera podido obtenerlas a pesar de ser documentos que legalmente se encuentran a su disposición, deberá señalar el archivo o lugar en que se encuentren, solicitando a la Procuraduría Fiscal para que requiera su remisión. Para ese efecto, deberá identificar con toda precisión los documentos y acompañar el original del acuse sellado de la solicitud que de los mismos hubiera hecho a la autoridad respectiva dentro del plazo a que se refiere el primer párrafo del artículo 580 de este Código y anexar el original del comprobante de pago de derechos correspondiente, expedido por la autoridad respectiva. De igual forma cuando las documentales que se ofrezcan como prueba corran agregadas al expediente del procedimiento resarcitorio, al momento del ofrecimiento de dichas pruebas deberán identificarse con toda precisión indicando el anexo y foja en el que se encuentren.
 
 > <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2007)</small>
 
@@ -11754,11 +12388,11 @@ VI. En caso de que la multa se pague dentro de los 15 días siguientes a la fech
 
 ### CAPITULO I. De las Infracciones y Sanciones Relacionadas con los Padrones de Contribuyentes
 
-> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 586.
 
-Las infracciones relacionadas con los padrones de contribuyentes, darán lugar a la imposición de una multa de $285.00 a $499.00, en los siguientes casos:
+Las infracciones relacionadas con los padrones de contribuyentes, darán lugar a la imposición de una multa de $303.00 a $530.00, en los siguientes casos:
 
 > <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -11778,59 +12412,69 @@ II. No presentar los avisos que establece este Código o hacerlo extemporáneame
 
 Cuando los contribuyentes de los Impuestos Sobre Espectáculos Públicos y Loterías, Rifas, Sorteos y Concursos, omitan presentar las licencias, permisos o autorizaciones a que se refieren los artículos 163, fracciones II y VI, segundo párrafo, y 174, fracción VII, de este Código, según el caso, se les impondrán las siguientes multas:
 
-I. La mayor que resulte entre $1,369.00 y el 5% del valor de los espectáculos; y
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. La mayor que resulte entre $1,369.00 y el 9% del valor nominal de los billetes, boletos y demás comprobantes que permitan participar en las loterías, rifas, sorteos, juegos con apuesta, apuestas permitidas y concursos de toda clase.
+I. La mayor que resulte entre $1,454.00 y el 5% del valor de los espectáculos; y
+
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+II. La mayor que resulte entre $1,454.00 y el 9% del valor nominal de los billetes, boletos y demás comprobantes que permitan participar en las loterías, rifas, sorteos, juegos con apuesta, apuestas permitidas y concursos de toda clase.
 
 > <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 La sanción prevista en este artículo también se impondrá a quienes presenten extemporáneamente los documentos a que el mismo se refiere.
 
-> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 588.
 
-A quien cometa las infracciones que a continuación se señalan, relacionadas con la obligación de presentar avisos o manifestaciones, se les impondrá las siguientes multas:
+A quien cometa las infracciones que a continuación se señalan, relacionadas con la obligación de presentar avisos, manifestación o documentos, se les impondrá las siguientes multas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Por no presentar el aviso de no causación del Impuesto Sobre Adquisición de Inmuebles a que se refiere el artículo 143 de este Código, multa de $2,138.00 a $5,420.00;
+I. Por no presentar el aviso de no causación del Impuesto Sobre Adquisición de Inmuebles a que se refiere el artículo 143 de este Código, multa de $2,271.00 a $5,758.00;
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Por no realizar las manifestaciones o presentar los documentos a que se refieren los artículos 163, fracción III y 174, fracción VIII, de este Código, o hacerlo extemporáneamente, multa de $2,138.00 a $5,420.00;
+II. Por no realizar las manifestaciones o presentar los documentos a que se refieren los artículos 163, fracción III y 174, fracción VIII, de este Código, o hacerlo extemporáneamente, multa de $2,271.00 a $5,758.00;
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Por no presentar el aviso a las autoridades competentes, sobre las descomposturas del medidor, en los términos del artículo 198, fracción III, de este Código, tratándose de tomas de uso no doméstico, multa de $407.00 a $711.00; en el caso de tomas de uso doméstico, la multa será en cantidad de $203.00 a $356.00;
+III. Por no presentar el aviso a las autoridades competentes, sobre las descomposturas del medidor, en los términos del artículo 198, fracción III, de este Código, tratándose de tomas de uso no doméstico, multa de $432.00 a $755.00; en el caso de tomas de uso doméstico, la multa será en cantidad de $216.00 a $378.00;
+
+> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 IV. Por presentar solicitudes que sin derecho den lugar a una devolución o compensación, una multa del 50% al 100% de la devolución o compensación indebida;
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-V. Por no presentar aviso de cambio de domicilio, una multa de $285.00 a $498.00;
+V. Por no presentar aviso de cambio de domicilio, una multa de $303.00 a $529.00;
 
 VI. (DEROGADA, G.O. 27 DE DICIEMBRE DE 2007)
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VII. Por no señalar en las declaraciones y avisos que se presenten ante la autoridad fiscal, la clave a que se refiere el artículo 78, inciso a), párrafo segundo, de este Código, señalarla con errores o por no utilizar el código de barras, multa de $254.00 a $508.00;
+VII. Por no señalar en las declaraciones y avisos que se presenten ante la autoridad fiscal, la clave a que se refiere el artículo 78, inciso a), párrafo segundo, de este Código, señalarla con errores o por no utilizar el código de barras, multa de $270.00 a $540.00;
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VIII. Por no presentar el aviso de domicilio para oír y recibir notificaciones en el caso de inmuebles sin construcción o desocupados, a que se refiere el inciso b) del artículo 78, multa de $1,069.00 a $2,625.00;
+VIII. Por no presentar el aviso de domicilio para oír y recibir notificaciones en el caso de inmuebles sin construcción o desocupados, a que se refiere el inciso b) del artículo 78, multa de $1,136.00 a $2,789.00;
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IX. Por no poner nombre o domicilio, o señalarlos equivocadamente en las declaraciones y avisos que se presenten ante la autoridad fiscal, multa de $508.00 a $849.00;
+IX. Por no poner nombre o domicilio, o señalarlos equivocadamente en las declaraciones y avisos que se presenten ante la autoridad fiscal, multa de $540.00 a $902.00;
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-X. Por cada dato no asentado o asentado incorrectamente, en las declaraciones y avisos fiscales, multa de $84.00 a $169.00, por cada dato, y
+X. Por cada dato no asentado o asentado incorrectamente, en las declaraciones y avisos fiscales, multa de $89.00 a $180.00, por cada dato, y (sic)
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-XI. Omitir la presentación de anexos en las declaraciones y avisos fiscales, multa de $84.00 a $169.00, por cada anexo.
+XI. Omitir la presentación de anexos en las declaraciones y avisos fiscales, multa de $89.00 a $180.00, por cada anexo;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+XII. Por no presentar los documentos a que se refiere el artículo 154 de este Código, o hacerlo extemporáneamente multa de $2,138.00 a $5,420.00.
 
 > <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -11840,33 +12484,35 @@ A quien cometa las infracciones relacionadas con la obligación de presentar dec
 
 I. Por no presentar las declaraciones que tengan el carácter de periódicas:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). La mayor que resulte entre $285.00 y el 8% de la contribución que debió declararse tratándose de contribuciones relacionadas con inmuebles de uso habitacional, y
+a). La mayor que resulte entre $303.00 y el 8% de la contribución que debió declararse tratándose de contribuciones relacionadas con inmuebles de uso habitacional, y
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). La mayor que resulte entre $566.00 y el 10% de la contribución que debió declararse, en los casos distintos de los previstos en el inciso anterior;
+b). La mayor que resulte entre $601.00 y el 10% de la contribución que debió declararse, en los casos distintos de los previstos en el inciso anterior;
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Por no presentar las declaraciones que tengan un carácter diverso a las de la fracción anterior, la mayor que resulte entre $428.00 y el 8% de la contribución que debió declararse.
+II. Por no presentar las declaraciones que tengan un carácter diverso a las de la fracción anterior, la mayor que resulte entre $455.00 y el 8% de la contribución que debió declararse.
 
 Cuando el monto de la contribución que debió declararse sea inferior a las cantidades señaladas en las fracciones anteriores, o no exista contribución a pagar, el monto máximo de la multa que se imponga será hasta el equivalente a tales cantidades, salvo que se trate de contribuciones relacionadas con inmuebles de uso habitacional en que la multa no excederá del equivalente a un tanto de la contribución omitida.
 
-> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+(NOTA: EL 14 DE ABRIL DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2009, DECLARÓ LA INVALIDEZ DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE JUNIO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 590.
 
-Por no cumplir los requerimientos a que se refiere la fracción II del artículo 110 de este Código, se aplicará una sanción de $285.00 por cada requerimiento.
+POR NO CUMPLIR LOS REQUERIMIENTOS A QUE SE REFIERE LA FRACCIÓN II DEL ARTÍCULO 110 DE ESTE CÓDIGO, SE APLICARÁ UNA SANCIÓN DE $303.00 POR CADA REQUERIMIENTO.
 
 > <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Cuando el monto de la contribución que debió declararse sea inferior a la cantidad señalada en el párrafo anterior, el monto máximo de la multa que se imponga será hasta el equivalente a tal cantidad.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-ARTICULO 590 A.- A quien cometa la infracción relacionada con la obligación de señalar el número de cuenta en tratándose de promociones y documentos relacionados con el impuesto predial y derechos por el suministro de agua, que se presenten ante autoridades administrativas y jurisdiccionales, se le impondrá multa de $377.00 a $808.00.
+ARTICULO 590 A.- A quien cometa la infracción relacionada con la obligación de señalar el número de cuenta en tratándose de promociones y documentos relacionados con el impuesto predial y derechos por el suministro de agua, que se presenten ante autoridades administrativas y jurisdiccionales, se le impondrá multa de $400.00 a $858.00.
 
 (REUBICADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -11928,7 +12574,9 @@ La falta de pago de los aprovechamientos a que se refiere el artículo 321, tend
 
 A las personas que mediante terceros fijen, instalen ubiquen o modifiquen anuncios de propaganda sin previo pago de los derechos a que se refiere el artículo 214 de este Código, se les aplicará una sanción económica de entre doscientos y doscientos cincuenta días de Salario Mínimo General Vigente en el Distrito Federal, más las actualizaciones, recargos y gastos del retiro de dichos anuncios; una vez retirada, la estructura utilizada en dichos anuncios quedará a disposición de la autoridad.
 
-Los propietarios de los inmuebles o en su caso los poseedores, en donde se encuentren instalados dichos anuncios sin licencia, que no permitan el retiro de los mismos, dentro de un plazo de cinco días a partir de la fecha de la notificación del retiro por parte de la autoridad, se harán acreedores a una sanción de entre $110,000.00 a $325,000.00 pesos, dependiendo del tipo de anuncio de que se trate.
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Los propietarios de los inmuebles o en su caso los poseedores, en donde se encuentren instalados dichos anuncios sin licencia, que no permitan el retiro de los mismos, dentro de un plazo de cinco días a partir de la fecha de la notificación de retiro por parte de la autoridad, se harán acreedores a una sanción de entre $116,856.00 a $345,257.00 pesos, dependiendo del tipo de anuncio de que se trate.
 
 (REUBICADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -11940,53 +12588,53 @@ Los propietarios de los inmuebles o en su caso los poseedores, en donde se encue
 
 A quien cometa las infracciones que a continuación se señalan, relacionadas con la contabilidad, se le impondrá las multas siguientes:
 
-> <small>(REFORMADA EN SU CANTIDAD, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. De $5,868.00 a $11,739.00, por no llevar algún libro o registro especial, que establezcan las disposiciones fiscales;
+I. De $6,234.00 a $12,471.00, por no llevar algún libro o registro especial, que establezcan las disposiciones fiscales;
 
-> <small>(REFORMADA EN SU CANTIDAD, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. De $1,409.00 a $3,168.00, por no hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos o inexactos; o hacerlos fuera del plazo respectivo;
+II. De $1,497.00 a $3,365.00, por no hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos o inexactos; o hacerlos fuera del plazo respectivo;
 
-> <small>(REFORMADA EN SU CANTIDAD, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. De $7,040.00 a $18,778.00, por no conservar la contabilidad a disposición de la autoridad por el plazo que establezcan las disposiciones fiscales;
+III. De $7,479.00 a $19,948.00, por no conservar la contabilidad a disposición de la autoridad por el plazo que establezcan las disposiciones fiscales;
 
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. De $2,815.00 a $5,868.00, por microfilmar o grabar en discos ópticos o en cualquier otro medio que autorice la Secretaría, mediante disposiciones de carácter general, documentación o información para efectos fiscales sin cumplir con los requisitos establecidos en las disposiciones relativas;
+IV. De $2,990.00 a $6,234.00, por microfilmar o grabar en discos ópticos o en cualquier otro medio que autorice la Secretaría, mediante disposiciones de carácter general, documentación o información para efectos fiscales sin cumplir con los requisitos establecidos en las disposiciones relativas;
 
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-V. De $16,932.00 a $42,330.00, por no presentar el aviso para dictaminar el cumplimiento de las obligaciones fiscales, y
+V. De $17,987.00 a $44,968.00, por no presentar el aviso para dictaminar el cumplimiento de las obligaciones fiscales, y
 
-> <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VI. De $15,238.00 a $38,095.00, por no dictaminar el cumplimiento de las obligaciones fiscales o no presentar el dictamen conforme lo establecen las disposiciones fiscales, habiendo formulado el aviso respectivo, en su caso
+VI. De $16,188.00 a $40,469.00, por no dictaminar el cumplimiento de las obligaciones fiscales o no presentar el dictamen conforme lo establecen las disposiciones fiscales, habiendo formulado el aviso respectivo, en su caso.
 
 (REUBICADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 ### CAPITULO V. De las Infracciones y Sanciones Relacionadas con Usuarios de Servicios, Fedatarios y Terceros
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 597.
 
-Cuando los notarios, corredores públicos y demás personas que por disposición legal tengan fe pública, así como los jueces omitan el cumplimiento de cualquiera de las obligaciones previstas a su cargo por los artículos 49, 143, 144, 145 y 146, de este Código, se les impondrá una multa de $3,210.00 a $5,704.00.
+Cuando los notarios, corredores públicos y demás personas que por disposición legal tengan fe pública, así como los jueces omitan el cumplimiento de cualquiera de las obligaciones previstas a su cargo por los artículos 49, 143, 144, 145 y 146, de este Código, se les impondrá una multa de $3,410.00 a $6,060.00.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 598.
 
-A los fedatarios que no incluyan en el documento en que conste alguna adquisición, la cláusula especial a que se refiere el artículo 143 de este Código, se les impondrá una multa de $3,210.00 a $5,704.00.
+A los fedatarios que no incluyan en el documento en que conste alguna adquisición, la cláusula especial a que se refiere el artículo 143 de este Código, se les impondrá una multa de $3,410.00 a $6,060.00.
 
-> <small>(REFORMADO EN SUS CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 599.
 
-En el caso de que las personas a que se refieren las fracciones I y V del artículo 44 de este Código, no se ajusten a los procedimientos y lineamientos técnicos, se les impondrá una multa de $11,739.00 a $58,683.00.
+En el caso de que las personas a que se refieren las fracciones I y V del artículo 44 de este Código, no se ajusten a los procedimientos y lineamientos técnicos, se les impondrá una multa de $12,471.00 a $62,341.00.
 
-En el caso de las personas señaladas en las fracciones II y III del artículo 44 de este Código que no se ajusten a los procedimientos y lineamientos técnicos, se les impondrá una multa equivalente al monto de la contribución omitida, sin que en ningún caso este importe sea inferior de $11,739.00.
+En el caso de las personas señaladas en las fracciones II y III del artículo 44 de este Código que no se ajusten a los procedimientos y lineamientos técnicos, se les impondrá una multa equivalente al monto de la contribución omitida, sin que en ningún caso este importe sea inferior de $12,471.00.
 
 > <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -11996,27 +12644,27 @@ A quienes cometan las infracciones que a continuación se señalan, se les impon
 
 I.- Por practicar, encubrir o consentir que se lleven a cabo instalaciones hidráulicas, así como derivaciones de agua, sin la autorización respectiva, así como realizar modificaciones o manipulaciones a los ramales de las tuberías de distribución según el diámetro de la instalación.
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 DIAMETRO DE LA INSTALACION MULTA
 
 EXPRESADA EN MILIMETROS DE A
 
-HASTA 13 $3,424.10 $6,849.22
+HASTA 13 $3,637.52 $7,276.12
 
-HASTA 19 4,088.66 8,179.84
+HASTA 19 4,343.50 8,689.68
 
-HASTA 26 5,109.94 10,201.73
+HASTA 26 5,428.44 10,837.59
 
-HASTA 32 6,799.00 13,573.53
+HASTA 32 7,222.77 14,419.55
 
-HASTA 39 8,841.56 17,664.97
+HASTA 39 9,392.64 18,766.00
 
-HASTA 51 10,863.84 21,726.70
+HASTA 51 11,540.97 23,080.89
 
-HASTA 64 12,625.60 25,818.04
+HASTA 64 13,412.54 27,427.24
 
-DE 65 EN ADELANTE 12,909.52 33,685.60
+DE 65 EN ADELANTE 13,714.15 35,785.18
 
 Asimismo, por practicar, encubrir o consentir que se lleven a cabo instalaciones de albañal y descargas industriales, independientemente de cubrir el monto de los trabajos necesarios, reparar los daños que se llegarán a ocasionar a la infraestructura, así como los daños al medio ambiente de acuerdo a la normatividad aplicable.
 
@@ -12026,73 +12674,71 @@ DIAMETRO DE LA INSTALACION MULTA
 
 EXPRESADA EN MILIMETROS DE A
 
-HASTA 150 $2,951.10 $5,903.65
+HASTA 150 $3,135.04 $6,271.62
 
-HASTA 200 3,087.97 6,174.25
+HASTA 200 3,280.44 6,559.08
 
-HASTA 250 3,492.32 6,986.01
+HASTA 250 3,709.99 7,421.44
 
-HASTA 300 3,935.36 7,870.56
+HASTA 300 4,180.65 8,361.12
 
-HASTA 380 4,766.32 9,532.68
+HASTA 380 5,063.40 10,126.84
 
-HASTA 450 5,769.92 11,537.78
+HASTA 450 6,129.55 12,256.91
 
-DE 451 EN ADELANTE 15,338.96 30,676.50
+DE 451 EN ADELANTE 16,295.02 32,588.52
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-II. Por comercializar el agua suministrada por el Distrito Federal a través de tomas particulares conectadas a la red pública si en la misma existe aparato medidor, de $5,110.00 a $10,202.00; si no existe o tratándose de tomas de uso no doméstico, la comercialización se hace sin contar con autorización, la multa será de $10,202.00 a $20,396.00;
+II. Por comercializar el agua suministrada por el Distrito Federal a través de tomas particulares conectadas a la red pública si en la misma existe aparato medidor, de $5,428.00 a $10,838.00; si no existe o tratándose de tomas de uso no doméstico, la comercialización se hace sin contar con autorización, la multa será de $10,838.00 a $21,667.00;
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-III. Por emplear mecanismos para succionar agua de las tuberías de distribución, de $3,430.00 a $10,223.00, tratándose de tomas de uso doméstico y de $79,726.00 a $159,432.00, tratándose de tomas de uso no doméstico sin perjuicio del pago de la reparación del desperfecto causado, que tendrá el carácter de crédito fiscal. En el caso de aguas de uso mixto, si el consumo de agua del bimestre en que fue detectada la colocación del mecanismo succionador fuera menor o igual a 70 m3, se aplicará la multa correspondiente a la de tomas de uso doméstico, y si el consumo resultara mayor a dicho volumen, se le aplicará la multa correspondiente a la de tomas de uso no doméstico;
+III. Por emplear mecanismos para succionar agua de las tuberías de distribución, de $3,644.00 a $10,860.00, tratándose de tomas de uso doméstico y de $84,695.00 a $169,369.00, tratándose de tomas de uso no doméstico sin perjuicio del pago de la reparación del desperfecto causado, que tendrá el carácter de crédito fiscal. En el caso de aguas de uso mixto, si el consumo de agua del bimestre en que fue detectada la colocación del mecanismo succionador fuera menor o igual a 70 m3, se aplicará la multa correspondiente a la de tomas de uso doméstico, y si el consumo resultara mayor a dicho volumen, se le aplicará la multa correspondiente a la de tomas de uso no doméstico;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. A quien omita solicitar la instalación de su medidor en los términos del artículo 198 de este Código, destruya, altere o inutilice los aparatos medidores o sus aditamentos o viole los sellos de los mismos:
+IV. A quien omita solicitar la instalación o renovación de su medidor en los términos del artículo 198 de este Código, destruya, altere o inutilice los aparatos medidores o sus aditamentos o viole los sellos de los mismos:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-a). Tratándose de tomas de agua potable para uso doméstico de $837.00 a $3,071.00;
+a). Tratándose de tomas de agua potable para uso doméstico de $889.00 a $3,262.00;
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Tratándose de tomas de agua de uso no doméstico, de $3,351.00 a $20,950.00, y
+b). Tratándose de tomas de agua de uso no doméstico, de $3,560.00 a $22,256.00, y
 
 c). En el caso de inmuebles que cuenten con tomas de agua de uso doméstico y no doméstico, se aplicará la sanción correspondiente al uso del medidor que se encuentre dañado.
 
 Para los efectos de esta fracción, se considera alteración, entre otros supuestos, el hecho de que se coloque cualquier dispositivo que impida medir correctamente el consumo de agua. Se presume que la alteración es accidental cuando el contribuyente lo comunique a las autoridades fiscales en el bimestre siguiente a aquél en que ocurra, salvo prueba en contrario;
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-V. Por no presentar los avisos a que se refiere el artículo 198, fracción VII, de este Código, la multa será de $1,376.00 a $2,758.00 cuando se trate de tomas con diámetro de entrada de 19 milímetros o inferiores y de $2,758.00 a $5,512.00 para diámetros superiores;
+V. Por no presentar los avisos a que se refiere el artículo 198, fracción VII, de este Código, la multa será de $1,462.00 a $2,930.00 cuando se trate de tomas con diámetro de entrada de 19 milímetros o inferiores y de $2,930.00 a $5,856.00 para diámetros superiores;
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VI. Por el segundo aviso de descompostura de su medidor, que motive la práctica por las autoridades fiscales de una segunda visita, siempre que en la primera y segunda visita se verifique que el aparato medidor funciona correctamente, la multa será de $508.00 a $1,011.00;
+VI. Por el segundo aviso de descompostura de su medidor, que motive la práctica por las autoridades fiscales de una segunda visita, siempre que en la primera y segunda visita se verifique que el aparato medidor funciona correctamente, la multa será de $540.00 a $1,074.00;
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VII. Por derramar azolve a las coladeras, pozos, lumbreras y demás accesorios de la red de drenaje en la vía pública sin la autorización correspondiente, la multa será de $19,552.00 a $27,936.00;
+VII. Por derramar azolve a las coladeras, pozos, lumbreras y demás accesorios de la red de drenaje en la vía pública sin la autorización correspondiente, la multa será de $20,771.00 a $29,677.00;
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VIII. A los usuarios que practiquen, encubran o consientan que se lleven a cabo instalaciones o modificaciones de tomas tipo cuello de garza para el abastecimiento de agua potable o agua residual tratada, sin la autorización respectiva de la autoridad responsable de la operación hidráulica, se le impondrá una multa de $33,804.00 a $67,855.00;
+VIII. A los usuarios que practiquen, encubran o consientan que se lleven a cabo instalaciones o modificaciones de tomas tipo cuello de garza para el abastecimiento de agua potable o agua residual tratada, sin la autorización respectiva de la autoridad responsable de la operación hidráulica, se le impondrá una multa de $35,911.00 a $72,084.00;
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IX. Por llevar a cabo la interconexión entre la toma de agua potable y la de agua residual tratada, se sancionará con una multa de $69,873.00 a $139,734.00, sin perjuicio de la aplicación de sanciones previstas por la Ley de Salud para el Distrito Federal y la Ley de Aguas del Distrito Federal, y
+IX. Por llevar a cabo la interconexión entre la toma de agua potable y la de agua residual tratada, se sancionará con una multa de $74,228.00 a $148,443.00, sin perjuicio de la aplicación de sanciones previstas por la Ley de Salud para el Distrito Federal y la Ley de Aguas del Distrito Federal;
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-X. Cuando en tomas de uso no doméstico, el usuario se reconecte al servicio hidráulico encontrándose éste suspendido, retirando el engomado, rompiendo el sello y/o abriendo la válvula, se le aplicará una multa de $79,352.00 a $158,694.00.
+X. Al usuario que se reconecte al servicio hidráulico y se encuentre éste restringido o suspendido, ya sea que retire el engomado, rompa el sello o abra la válvula, se le aplicará una multa de $3,628.94 a $167,898.25. Para imponer la multa, se tomará en consideración el tipo de usuario y la reincidencia en la conducta, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA AL PRESENTE CODIGO.</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2008)</small>
-
-XI.- A quienes desperdicien el agua tratándose de uso doméstico 300 salarios mínimos vigentes en el Distrito Federal y en uso no doméstico 3000 salarios mínimos generales vigentes en el Distrito Federal, la multa se aplicará previa verificación y levantamiento del acta correspondiente, en el recibo de pago de los derechos por el suministro de agua del bimestre inmediato.
+XI. A quienes desperdicien el agua tratándose de uso doméstico de 300 a 600 salarios mínimos vigentes en el Distrito Federal y en uso no doméstico de 1500 a 3000 salarios mínimos generales vigentes en el Distrito Federal, la multa se aplicará previa verificación y levantamiento del acta correspondiente, en el recibo de pago de los derechos por el suministro de agua del bimestre inmediato.
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
@@ -12104,11 +12750,11 @@ Cuando se deje sin efectos una notificación practicada ilegalmente, ya sea por 
 
 ### CAPITULO VI. De las Infracciones y Sanciones Relacionadas con las Facultades de Comprobación
 
-> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 602.
 
-A quien cometa las infracciones que a continuación se señalan, relacionadas con las facultades de comprobación, se le impondrá una multa de $2,842.00 a $6,392.00.
+A quien cometa las infracciones que a continuación se señalan, relacionadas con las facultades de comprobación, se le impondrá una multa de $3,019.00 a $6,790.00.
 
 > <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -12135,6 +12781,10 @@ IV. Proporcionar a las autoridades fiscalizadoras documentación falsa o indebid
 ###### ARTICULO 603.
 
 De los ingresos efectivos que el Distrito Federal obtenga por conceptos de multas pagadas por infracción a las disposiciones fiscales que establece este Código y que hubieran quedado firmes, con exclusión de las que tengan por objeto resarcir los daños y perjuicios causados a la Hacienda Pública del Distrito Federal o al patrimonio de las Entidades así como los de programas de regulación fiscal, el 15% se destinarán a la formación de fondos para la capacitación y superación y 10% para el otorgamiento de estímulos y recompensas por productividad y cumplimiento del personal hacendario, con exclusión de los mandos superiores, en la forma y términos que previenen los acuerdos de carácter administrativo que emita la Secretaría.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Las multas pagadas por infracciones relacionadas con los trámites de las licencias, permisos o los registros de manifestación de construcción, se destinarán a la delegación correspondiente como ampliación líquida a su presupuesto, de conformidad con la normatividad aplicable, para ser destinadas a obras y trabajos para mejoramiento de la infraestructura urbana de la demarcación.
 
 (REUBICADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -12346,19 +12996,19 @@ V. Alteren o destruyan dolosamente un medidor o sus aditamentos, lo retiren o su
 
 Distrito Federal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA AL PRESENTE CODIGO.</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2008)</small>
-
-VI. Se reinstalen del servicio de suministro de agua encontrándose suspendido o restringido éste, por cualquiera de las causas previstas en el artículo 199 de este Código o se alteren los sellos, o engomados con los que se materializó el estado de suspensión o restricción de la toma;
+VI. Se reconecten al servicio de suministro de agua encontrándose suspendido o restringido éste, por cualquiera de las causas previstas en el artículo 199 de este Código, y
 
 VII. Comercien sin contar con la autorización respectiva, con el agua provista por la autoridad competente, para usos no comerciales.
 
 Los delitos previstos en este artículo se sancionarán con prisión de tres meses a dos años si el monto de lo defraudado no excede de mil veces el salario mínimo general diario vigente en el Distrito Federal; si el monto de lo defraudado excede la cantidad anterior, pero no de dos mil veces dicho salario, la sanción será de dos a cinco años de prisión; y si el valor de lo defraudado fuere mayor de está última cantidad, la sanción será de cinco a nueve años de prisión.
 
-Tratándose de los supuestos previstos en las fracciones I, V, VI y VII de este artículo, se impondrá una sanción hasta de nueve años de prisión, siempre que no se pueda cuantificar el monto de lo defraudado.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Las sanciones previstas en este artículo, sólo se aplicarán a los usuarios del agua potable de uso doméstico, cuando hayan omitido total o parcialmente el pago de las contribuciones a su cargo durante un lapso mayor de un año.
+Tratándose de los supuestos previstos en las fracciones I, V, VI y VII de este artículo, se impondrá una sanción de tres meses a nueve años de prisión, siempre que no se pueda cuantificar el monto de lo defraudado.
+
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 (REUBICADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -12414,11 +13064,13 @@ IV. Al que utilice máquinas registradoras de operación de caja, aparatos de co
 
 Se impondrá sanción de dos a nueve años de prisión:
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-I. Al que a sabiendas de que una forma valorada o numerada, calcomanía, orden de cobro, recibo de pago, placa, tarjetón o cualquier otro medio de control fiscal que expida o use la Secretaría, fue falsificado, lo posea, venda, ponga en circulación, en su caso, lo adhiera a documentos, objetos o libros, para ostentar el pago de una obligación fiscal a que tenga derecho recaudar el Distrito Federal;
+I. Al que posea, venda, ponga en circulación, comercialice, use y/o reciba una forma valorada o numerada, calcomanía, orden de cobro, recibo de pago, placa, tarjetón o cualquier medio de control fiscal que expida o utilice la Secretaría, sea falsificado, o en su caso, lo adhiera a documentos, objetos o libros para acreditar el pago de alguna obligación fiscal a que tenga derecho recaudar la Hacienda Pública del Distrito Federal.
 
-II. Al que al pagar o acreditar el pago de alguna obligación fiscal prevista en este Código, utilice una forma valorada o numerada, calcomanía, orden de cobro, recibo de pago, una placa, tarjetón o cualquier otro medio de control fiscal, a sabiendas de que fue manufacturado con fragmentos, datos o recortes de otros o que sean falsos;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+II. Al que al pagar o acreditar el pago de alguna obligación fiscal prevista en este Código, utilice una forma valorada o numerada, calcomanía, orden de cobro, recibo de pago, una placa, tarjetón o cualquier otro medio de control fiscal, de que fue manufacturado con fragmentos, datos o recortes de otros o que sean falsos;
 
 III. Al que manufacture, venda ponga en circulación o en alguna otra forma comercie con los objetos descritos en la fracción anterior;
 
@@ -12480,13 +13132,13 @@ I. Por la notificación de requerimiento para el cumplimiento de obligaciones no
 
 II. Por el embargo, la extracción de bienes muebles, la notificación en que se finque el remate de bienes, la enajenación fuera de remate o la adjudicación al fisco, el 2% del monto de la contribución o aprovechamientos omitidos, por cada una de dichas diligencias, con independencia de los gastos de ejecución extraordinarios que correspondan.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Cuando en el caso de las fracciones anteriores, los porcentajes señalados sean inferiores a $171.00, se cobrará esta cantidad en lugar del 2% del monto de las contribuciones o aprovechamientos omitidos.
+Cuando en el caso de las fracciones anteriores, los porcentajes señalados sean inferiores a $182.00, se cobrará esta cantidad en lugar del 2% del monto de las contribuciones o aprovechamientos omitidos.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las relativas a la inscripción de inmuebles, podrán exceder de $30,386.00.
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las relativas a la inscripción de inmuebles, podrán exceder de $32,280.00.
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
@@ -12495,6 +13147,20 @@ Asimismo, se pagarán los gastos de ejecución, los extraordinarios en que se in
 Los gastos de ejecución se determinarán por la autoridad recaudadora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de revocación.
 
 Todo ingreso proveniente de gastos de ejecución será recaudado por las autoridades fiscales y con los que se cobren por la notificación de requerimiento para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales y por las diligencias de requerimiento de pago y embargo, que tienen el carácter de ordinarios, se establecerán fondos de productividad para financiar los programas de formación de funcionarios fiscales, siempre y cuando haya quedado firme el crédito. El Gobierno del Distrito Federal informará expresamente y de manera trimestral a la Asamblea del estado que guardan dichos fondos, así como la utilización detallada de los mismos.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 625 A.- Se podrá practicar embargo precautorio sobre bienes o la negociación del contribuyente para asegurar el interés fiscal, tratándose de un crédito fiscal que no sea exigible pero haya sido determinado por el contribuyente o por la autoridad en el ejercicio de sus facultades de comprobación, cuando a juicio de ésta exista el peligro inminente de que el obligado realice cualquier maniobra tendiente a evadir su cumplimiento. En este caso, la autoridad trabará el embargo.
+
+La autoridad que practique el embargo precautorio levantará acta circunstanciada en la que precise las razones del embargo.
+
+La autoridad requerirá al obligado para que dentro del término de 10 días desvirtúe el monto por el que se realizó el embargo. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento. Transcurrido el plazo antes señalado, sin que el obligado hubiera desvirtuado el monto del embargo precautorio, éste quedará firme.
+
+El embargo precautorio practicado antes de la fecha en que el crédito fiscal sea exigible, se convertirá en definitivo al momento de la exigibilidad de dicho crédito fiscal y se aplicará al procedimiento administrativo de ejecución.
+
+Si el particular garantiza el interés fiscal en los términos del artículo 52 de este Código, se levantará el embargo.
+
+Son aplicables al embargo precautorio a que se refiere este artículo, las disposiciones establecidas para el embargo y para la intervención en el procedimiento administrativo de ejecución que, conforme a su naturaleza, le sean aplicables.
 
 > <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -12514,13 +13180,17 @@ Cuando el depósito no cubra el importe total del adeudo, se expedirá mandamien
 
 Cuando el requerimiento se haga personalmente, el actuario o la persona habilitada por la autoridad fiscal entregará copia del mandamiento de ejecución a la persona con quien entienda la diligencia y levantará acta pormenorizada, de la que también entregará copia, sin que para tal efecto deba levantarse acta de notificación que cumpla con las formalidades establecidas en el Capítulo III, del Título Segundo, del Libro Sexto, relativo a las Notificaciones.
 
-> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 627.
 
-Cuando la exigibilidad del crédito fiscal y sus accesorios se origine por cese de la prórroga, o de la autorización para el pago en parcialidades, por error aritmético en las declaraciones o por las situaciones previstas en el artículo 110, fracción I, de este Código, el deudor podrá efectuar el pago dentro de los seis días siguientes a la fecha en que surta efectos la notificación del requerimiento.
+Cuando la exigibilidad del crédito fiscal y sus accesorios se origine por cese de la prórroga, o de la autorización para el pago en parcialidades, por error aritmético en las declaraciones o por las situaciones previstas en los artículos 95, fracción XIV y 110, fracción I, de este Código, el deudor podrá efectuar el pago dentro de los seis días siguientes a la fecha en que surta efectos la notificación del requerimiento.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 El requerimiento de pago a que se refiere el párrafo anterior, se notificará en los términos de las fracciones I o IV del artículo 681 de este Código.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Cuando haya transcurrido el plazo de seis días a que se refiere el párrafo primero de este artículo, y el contribuyente no haya efectuado el pago del crédito fiscal que se le requirió, la oficina recaudadora donde se encuentre radicado el crédito fiscal para su cobro, deberá emitir mandamiento de ejecución de acuerdo a lo dispuesto en el artículo 626 de este Código.
 
@@ -12878,9 +13548,9 @@ El remate deberá ser convocado para una fecha fijada dentro de los cuarenta dí
 
 La convocatoria se fijará en el sitio visible y usual de la oficina recaudadora y en los lugares públicos que se juzgue conveniente.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO EN SU CUOTA, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Cuando el valor de los bienes muebles, inmuebles o la negociación exceda de $469,440.00 la convocatoria se publicará por una ocasión en uno de los periódicos de mayor circulación en el Distrito Federal.
+Cuando el valor de los bienes muebles, inmuebles o la negociación exceda de $498,700.00, la convocatoria se publicará por una ocasión en uno de los periódicos de mayor circulación en el Distrito Federal.
 
 > <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -13143,6 +13813,24 @@ II. Cuando se lleve a cabo la adjudicación por remate, el producto obtenido se 
 > <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 En caso de conflicto, el remanente se depositará en institución de crédito autorizada en tanto resuelven las autoridades competentes.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 666 A.- Podrán causar abandono en favor del Fisco local los bienes embargados por las autoridades fiscales, en los siguientes casos:
+
+I. Cuando habiendo sido enajenados o adjudicados los bienes al adquirente no se retiren del lugar en que se encuentren, dentro de dos meses contados a partir de la fecha en que se pongan a su disposición.
+
+II. Cuando el embargado efectúe el pago del crédito fiscal u obtenga resolución o sentencia favorable que ordene su devolución derivada de la interposición de algún medio de defensa antes de que se hubieran rematado, enajenado o adjudicado los bienes y no los retire del lugar en que se encuentren dentro de dos meses contados a partir de la fecha en que se pongan a disposición del interesado.
+
+III. Se trate de bienes muebles que no hubieren sido rematados, enajenados o adjudicados, después de trascurridos veinticuatro meses de practicado el embargo y respecto de los cuales no se hubiere interpuesto ningún medio de defensa. La autoridad fiscal requerirá al contribuyente embargado para que se presente en la oficina recaudadora a realizar el pago del crédito fiscal y accesorios legales que se hubieren generado, en un plazo de 5 días contados a partir del día siguiente a aquél en que surtió efectos la notificación realizada para tal efecto, apercibido de que en caso de no presentarse a pagar, los bienes muebles causarán abandono a favor del Distrito Federal.
+
+Tratándose de las fracciones I y II, se entenderá que los bienes se encuentran a disposición del interesado o propietario, a partir del día siguiente a aquél en que se le notifique la resolución correspondiente.
+
+Cuando los bienes embargados hubieran causado abandono, las autoridades fiscales notificarán personalmente o por correo certificado con acuse de recibo a los interesados o propietarios de los mismos, la resolución que los declare abandonados y que cuentan con quince días para retirar los bienes, previo pago de los derechos de almacenaje causados, y en su caso del crédito fiscal y accesorios legales que se hubieren generado. En los casos en que no se hubiera señalado domicilio o el señalado no corresponda a la persona, o no se pueda determinar quien es el interesado o el propietario de los bienes la notificación se efectuará a través de estrados.
+
+Los bienes que pasen a ser propiedad del Fisco Local conforme a este artículo, la Oficialía Mayor decidirá su destino, conforme a la normatividad que regule la materia.
+
+Los plazos de abandono a que se refiere este artículo, se interrumpirán por la interposición de algún medio de defensa.
 
 > <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -13646,15 +14334,9 @@ II. Los actos de autoridades fiscales que:
 
 a). Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que u monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la oficina recaudadora o se refiera a recargos, gastos de ejecución o a la indemnización a que se refiere el artículo 59 de este Código;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2008)</small>
 
-b). Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la ley. En este caso, la oposición no podrá hacerse valer sino en contra de la convocatoria de almoneda, salvo que se trate de actos cuya ejecución material sea de imposible reparación o de actos de ejecución sobre bienes legalmente inembargables.
-
-Si la violación se comete con posterioridad a dicho acto o se trate de venta de bienes fuera de subasta, el recurso se hará valer en contra del acto que finque el remate o que autorice la venta fuera de subasta, dentro de los quince días siguientes al en que surta efectos la notificación de los mismos o si éstos no le fueron notificados a partir de que tenga conocimiento de ellos.
-
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
-
-De ser por la oposición a que se refiere esta fracción, no podrá discutirse la validez del acto en el que se haya determinado el crédito fiscal. Tampoco en este recurso se podrá discutir la validez de la notificación realizada por las autoridades locales diferentes a las fiscales;
+b). Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la ley. En este caso, las violaciones cometidas antes del remate, sólo podrán hacerse valer ante la autoridad recaudadora hasta el momento de la publicación de la convocatoria de remate, y dentro de los diez días siguientes a la fecha de publicación de la citada convocatoria, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables o de actos de imposible reparación material, casos en que el plazo para interponer el recurso se computará a partir del día hábil siguiente al en que se surta efectos la notificación del requerimiento de pago o del día hábil siguiente al de la diligencia de embargo.
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
@@ -13966,6 +14648,10 @@ CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
 ### CAPITULO IX. De los Derechos por la Prestación de Servicios
 
+#### Sección Primera. De los Derechos por el Suministro de Agua
+
+#### Sección Segunda. De los Servicios de Prevención y Control de la Contaminación Ambiental
+
 #### Sección Tercera. De los Servicios de Construcción y Operación Hidráulica
 
 #### Sección Cuarta. De los Servicios de Expedición de Licencias
@@ -13998,19 +14684,15 @@ Delegacional
 
 #### Sección Décima Séptima. De los Derechos por la Prestación de Otros Servicios
 
+### CAPITULO X. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público
+
 #### Sección Primera. De los Derechos por el Estacionamiento de Vehículos
 
 #### Sección Segunda. De los Derechos por el Uso de Aprovechamiento de Inmuebles
 
-### CAPITULO X. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público
-
 #### Sección Tercera. Del Derecho por el Uso de Vías y Areas Públicas para el Ejercicio de Actividades Comerciales
 
 #### Sección Cuarta. Derechos de Descarga a la Red de Drenaje
-
-#### Sección Primera. De la Recepción y Concentración de Fondos y Valores
-
-#### Sección Segunda. De la Custodia y Administración de Fondos y Valores
 
 ## TITULO CUARTO. DE LOS INGRESOS NO TRIBUTARIOS
 
@@ -14032,9 +14714,9 @@ Delegacional
 
 ### CAPITULO II. De la Recaudación
 
-#### Sección Primera. De los Anteproyectos de las Dependencias y Organos Desconcentrados
+#### Sección Primera. De la Recepción y Concentración de Fondos y Valores
 
-#### Sección Segunda. De los Anteproyectos de las Entidades
+#### Sección Segunda. De la Custodia y Administración de Fondos y Valores
 
 ### CAPITULO III. De la Custodia y Administración de Bienes Embargados
 
@@ -14084,11 +14766,11 @@ Delegacional
 
 ### CAPITULO II. De la Preparación y Elaboración del Proyecto de Presupuesto
 
+#### Sección Primera. De los Anteproyectos de las Dependencias y Organos Desconcentrados
+
+#### Sección Segunda. De los Anteproyectos de las Entidades
+
 #### Sección Tercera. De los Proyectos de la Asamblea, Tribunal, Comisión y Consejos de Ciudadanos
-
-#### Sección Primera. Del Ejercicio Presupuestal de las Dependencias y Organos Desconcentrados
-
-#### Sección Segunda. Del Ejercicio Presupuestal de las Entidades
 
 ### CAPITULO III. De la Iniciativa de Decreto de Presupuesto de Egresos
 
@@ -14097,6 +14779,10 @@ Delegacional
 ### CAPITULO I. Disposiciones Generales
 
 ### CAPITULO II. Del Ejercicio del Gasto Público
+
+#### Sección Primera. Del Ejercicio Presupuestal de las Dependencias y Organos Desconcentrados
+
+#### Sección Segunda. Del Ejercicio Presupuestal de las Entidades
 
 #### Sección Tercera. Del Ejercicio Presupuestal de la Asamblea, Tribunal, Comisión y Consejos de Ciudadanos
 
@@ -18416,7 +19102,7 @@ Los órganos a que se refiere el artículo 448 de este Código deberán publicar
 
 ###### ARTICULO OCTAVO.
 
-Las dependencias, entidades, órganos desconcentrados, delegaciones, así como los órganos a que se refiere el artículo 448 de este Código, para el ejercicio siguiente, deberán considerar en su proyecto de presupuesto una partida para hacer frente a la responsabilidad patrimonial que los servidores públicos de su adscripción pudieran ocasionar.
+(DEROGADO, G.O. 29 DE DICIEMBRE DE 2008)
 
 ###### ARTICULO NOVENO.
 
@@ -18511,3 +19197,659 @@ SEXTO.- Se derogan los artículos 389, 390, 391 y 392 del Código Financiero del
 G.O. 5 DE DICIEMBRE DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Publíquese en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 29 DE DICIEMBRE DE 2008.
+
+> <small>N. DE E. POR LA IMPORTANCIA DEL CONTENIDO DEL ARTICULO SEGUNDO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CODIGO FINANCIERO DEL DISTRITO FEDERAL, SE TRANSCRIBE INTEGRAMENTE.</small>
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos de emisión de valores unitarios del suelo, construcciones adheridas a él e instalaciones especiales a que se refiere el artículo 151 del Código Financiero del Distrito Federal, se presentan a continuación las siguientes tablas cuya aplicación se hará conforme a las definiciones y normas que se indican:
+
+D E F I N I C I O N E S
+
+I. REGION: Es una circunscripción convencional del territorio del Distrito Federal determinada con fines de control catastral de los inmuebles, representada con los tres primeros dígitos del número de cuenta catastral asignado por la autoridad fiscal.
+
+II. MANZANA: Es una parte de una región que regularmente está delimitada por tres o más calles o límites semejantes, representada por los tres siguientes dígitos del mencionado número de cuenta, la que tiene otros dos que representan el lote, que es el número asignado a cada uno de los inmuebles que integran en conjunto una manzana, y tres dígitos más en el caso de condominios, para identificar a cada una de las localidades de un condominio construido en un lote.
+
+III. COLONIA CATASTRAL: Es una porción determinada de territorio continuo del Distrito Federal que comprende grupos de manzanas o lotes, la cual tiene asignado un valor unitario de suelo, expresado en pesos por metro cuadrado, en atención a la homogeneidad observable en cuanto a características, exclusividad y valor comercial. Existen tres tipos de colonia catastral: Área de valor, Enclave de valor y Corredor de valor.
+
+a). Colonia catastral tipo área de valor: Grupo de manzanas con características similares en infraestructura, equipamiento urbano, tipo de inmuebles y dinámica inmobiliaria.
+
+Cada área está identificada con la letra A, seguida de seis dígitos, correspondiendo los dos primeros a la delegación respectiva, los tres siguientes a un número progresivo y el último a un dígito clasificador de la colonia catastral.
+
+Dicha clasificación es la siguiente:
+
+0: Colonia catastral que corresponde a áreas periféricas de valor bajo con desarrollo incipiente, con usos del suelo que están iniciando su incorporación al área urbana y con equipamientos y servicios dispersos.
+
+1: Colonia catastral que corresponde a áreas periféricas o intermedias de valor bajo, en proceso de transición o cierta consolidación, con usos del suelo eminentemente habitacionales y con equipamientos y servicios semidispersos y de pequeña escala.
+
+2: Colonia catastral que corresponde a áreas intermedias de valor medio bajo, en proceso de transición o cierta consolidación, con usos del suelo eminentemente habitacionales y/o incipiente mezcla de usos y con equipamientos y servicios semidispersos y de regular escala.
+
+3: Colonia catastral que corresponde a áreas intermedias de valor medio con cierto proceso de transición o en consolidación, con usos del suelo eminentemente habitacionales y/o mezcla de usos y con equipamientos y servicios semiconcentrados y de regular escala.
+
+4: Colonia catastral que corresponde a áreas urbanas, con servicios completos, equipamiento urbano en escala significativa en la zona o zonas cercanas, con usos de suelo habitacional y/o mixtos y nivel socioeconómico de medio a medio alto.
+
+5: Colonia catastral que corresponde a áreas urbanas, con servicios completos, equipamiento urbano en escala significativa en la zona o zonas cercanas, usos de suelo habitacionales y/o mixtos y nivel socioeconómico de medio alto a alto.
+
+6: Colonia catastral que corresponde a áreas urbanas, con servicios completos, equipamiento urbano en escala significativa en la zona o zonas cercanas, usos de suelo habitacional y/o mixtos y nivel socioeconómico de alto a muy alto.
+
+7: Colonia catastral que corresponde a áreas urbanas, con servicios completos, equipamiento urbano de pequeña escala significativa, usos de suelo preponderantemente comercial y de servicios y nivel socioeconómico de medio bajo a alto.
+
+8: Colonia catastral que corresponde a áreas urbanas, con servicios completos, equipamiento urbano de diversas escalas y con usos de suelo eminentemente industrial.
+
+9: Colonia catastral que corresponde a áreas ubicadas en el suelo de conservación, con usos agrícola, forestal, pecuario, de reserva ecológica y/o explotación minera entre otros, con nulos o escasos servicios y equipamiento urbano distante.
+
+b). Colonia catastral tipo enclave de valor: Porción de manzanas o conjunto de lotes de edificaciones de uso habitacional, que cualitativamente se diferencian plenamente del resto de lotes o manzanas del área en que se ubica en razón de que, no obstante que comparten una infraestructura y equipamiento urbanos generales con las mencionadas áreas, cuentan con características internas que originan que tengan un mayor valor unitario de suelo que el promedio del área, como son la ubicación en áreas perfectamente delimitadas, el acceso restringido a su interior, que cuentan con vigilancia privada, mantenimiento privado de áreas comunes, vialidades internas y alumbrado público y/o privado.
+
+El valor por metro cuadrado de suelo del enclave se encuentra contenido en el presente Código Financiero.
+
+Cada enclave de valor está identificada con la letra “E”, seguida de dos dígitos que corresponden a la delegación, y una literal progresiva.
+
+Quedan exceptuados como colonia catastral tipo enclave de valor, los inmuebles donde se ubiquen viviendas de interés social y/o popular.
+
+c). Colonia catastral tipo corredor de valor: Conjunto de inmuebles colindantes con una vialidad pública del Distrito Federal que por su mayor actividad económica repercute en un mayor valor comercial del suelo respecto del predominante de la zona, independientemente de su acceso o entrada principal de los inmuebles. El valor por metro cuadrado del suelo del corredor de valor se encuentra contenido en el presente Código Financiero.
+
+Cuando un inmueble colinde con más de una vialidad pública considerada como corredor de valor, en términos del párrafo anterior, el valor por metro cuadrado del suelo a aplicar será el valor del corredor de valor que resulte más alto.
+
+Cada corredor está identificado con la letra “C”, seguida de dos dígitos, que corresponden a la delegación, y una literal progresiva.
+
+IV. TIPO: Corresponde a la clasificación de las construcciones, considerando el uso al que se les dedica y el rango de niveles de la construcción, de acuerdo con lo siguiente:
+
+a). Uso: Corresponde al aprovechamiento genérico que tiene el inmueble y se clasifica en habitacional y no habitacional.
+
+(H). Habitacional.- Se refiere a las edificaciones en donde residen individual o colectivamente las personas o familias y comprende todo tipo de vivienda, a la que se incluyen los cuartos de servicio, patios, andadores, estacionamientos, cocheras y todas las porciones de construcción asociadas a dichas edificaciones. También se incluyen orfanatos, asilos, casas cuna, conventos y similares.
+
+Para efectos del párrafo anterior, se entenderá por porción de construcción todo aquél cuerpo constructivo que tenga una clara separación estructural de aquella donde residen individual o colectivamente las personas o familias, está asociada a este uso, cuando el beneficio del mismo sea sólo de las personas o familias que residen individual o colectivamente en el inmueble.
+
+Cuando una porción de construcción no se encuentre asociada al uso habitacional, se clasificará de acuerdo a las características de uso, rango de niveles, clase y edad que le corresponda.
+
+En caso de inmuebles de uso habitacional sujetos al régimen de propiedad en condominio las unidades de construcción privativas y las áreas de uso común que les correspondan en función del indiviso y que se establezcan en el referido régimen, se clasificarán conforme a las características que el mismo establezca.
+
+(NH). No Habitacional.- Se refiere a todo inmueble que no se ubique en el supuesto anterior y que para efectos de determinar su tipo se divide en:
+
+a). 1.- Construcciones que cuentan con cubiertas o techos (completos o semicompletos).
+
+L: Hotel. D: Deporte. C: Comercio. O: Oficina. S: Salud. Q: Cultura. E: Educación. A: Abasto. I: Industria. K: Comunicaciones.
+
+(L) Hotel.- Se refiere a las edificaciones destinadas a prestar servicio de alojamiento temporal, comprendiendo hoteles, moteles, casas de huéspedes, albergues y similares.
+
+(D) Deporte.- Se refiere a aquellas edificaciones e instalaciones en donde se practican ejercicios de acondicionamiento físico y/o se realicen y se presenten todo tipo de espectáculos deportivos, tales como: centros deportivos, clubes, pistas, canchas, gimnasios, balnearios, albercas públicas y privadas, academias de acondicionamiento físico y artes marciales, estadios, autódromos, plazas taurinas, arenas de box y luchas, velódromos, campos de tiro, centros de equitación y lienzos charros, así como instalaciones similares.
+
+(C) Comercio.- Se refiere a las edificaciones destinadas a la prestación o contratación de servicios o la comercialización o intercambio de artículos de consumo y en general cualquier mercadería, tales como: tiendas, panaderías, farmacias, boticas, droguerías, tiendas de auto servicio, tiendas departamentales, centros comerciales, venta de materiales de construcción y electricidad, ferreterías, madererías, vidrierías, venta de materiales y pinturas, renta y venta de artículos, maquinaria, refacciones, llantas, salas de belleza, peluquerías, tintorerías, sastrerías, baños, instalaciones destinadas a la higiene física de las personas, sanitarios públicos, saunas y similares, laboratorios fotográficos, servicios de limpieza y mantenimiento de edificios, servicios de alquiler y en general todo tipo de comercios. También incluye a las edificaciones destinadas al consumo de alimentos y bebidas, entre otros: restaurantes, cafeterías, fondas, cantinas, bares, cervecerías, pulquerías, videobares, centros nocturnos y salas de fiestas, entre otros.
+
+(O) Oficina.- Se refiere a aquellas edificaciones destinadas al desarrollo empresarial, público o privado, tales como: oficinas empresariales, corporativas, de profesionistas, sucursales de banco, casas de cambio, oficinas de gobierno, representaciones exclusivas para ese uso y sus accesorios, instalaciones destinadas a la seguridad del orden público y privado, agencias funerarias, de inhumaciones, mausoleos y similares, así como despachos médicos de diagnóstico.
+
+(S) Salud.- Se refiere a aquellas edificaciones destinadas a la atención, diagnóstico, tratamiento y rehabilitación de las personas afectadas por enfermedades o accidentes, tales como: unidades médicas, clínicas, hospitales, sanatorios, maternidades, laboratorios clínicos y radiológicos, consultorios, centros de tratamiento de enfermedades crónicas y similares.
+
+(Q) Cultura.- Se refiere a las edificaciones o instalaciones destinadas al desarrollo de actividades culturales, tales como: salas de lectura, hemerotecas y archivos, galerías de arte, museos, centros de exposición, planetarios, observatorios, teatros, auditorios, cines, salas de conciertos, cinetécas, centros de convenciones, casas de cultura, academias de danza, música, pintura y similares. Así como, las edificaciones destinadas a las actividades de culto religioso, comprende templos, capillas, iglesias, sinagogas, mezquitas y similares.
+
+(E) Educación.- Se refiere a las edificaciones o instalaciones destinadas al desarrollo de actividades de enseñanza: guarderías, jardines de niños, básica, media, escuelas técnicas, superior, postgrado, especial y de enseñanza e investigación, especializadas y similares.
+
+(A) Abasto.- Se refiere a las edificaciones e instalaciones públicas y privadas destinadas al almacenamiento, tales como: centros de acopio y transferencia de productos perecederos y no perecederos, bodegas, silos, tolvas, almacén de granos, de huevo, de lácteos, de abarrotes, centrales y módulos de abasto, rastros, frigoríficos, obradores, mercados e instalaciones similares.
+
+(I) Industria.- Se refiere a cualquier instalación o edificación destinada a ser fábrica o taller, relacionada con la industria extractiva, manufacturera y de transformación, de ensamble, de bebidas, de alimentos, agrícola, pecuaria, forestal, textil, calzado, siderúrgica, metalmecánica, automotriz, química, televisiva, cinematográfica, electrónica y similares. También incluye las instalaciones para el almacenamiento de maquinaria, materias primas y productos procesados, así como aquellas destinadas al alojamiento de equipos e instalaciones relacionadas con los sistemas de agua potable, drenaje, energía eléctrica, servicios de limpia, disposición de desechos sólidos y similares. Comprende también a aquellas destinadas al almacenamiento o suministro de combustible para vehículos o para uso doméstico e industrial, tales como: gasolineras e inmuebles de depósito y venta de gas líquido y combustibles. Asimismo, se incluyen las edificaciones e instalaciones destinadas a prestar servicios de reparación y conservación de bienes muebles y herramientas, tales como: talleres de reparación, lubricación, alineación y balanceo de vehículos, maquinaria, lavadoras, refrigeradores, bicicletas, de equipo eléctrico, vulcanizadoras, carpinterías, talleres de reparación de muebles y similares.
+
+(K) Comunicaciones.- Se refiere a las edificaciones o instalaciones destinadas a transmitir o difundir información, hacia o entre las personas, incluye las edificaciones o instalaciones destinadas al traslado de personas o bienes, así como a los espacios reservados para el resguardo y servicio de vehículos y similares, tales como: correos, telégrafos, teléfonos, estaciones de radio, televisión y similares, terminales de autobuses urbanos, taxis, peseros, terminales y estaciones de autobuses foráneos y de carga, estacionamientos cubiertos, ya sean públicos o privados, encierros e instalaciones de mantenimiento de vehículos, terminales aéreas, helipuertos, estaciones de ferrocarril, embarcaderos, muelles y demás edificios destinados a la actividad del transporte.
+
+a). 2.- Construcciones que no poseen cubiertas o techos: PE: Estacionamientos, patios y plazuelas. PC: Canchas deportivas. J: Jardines. P: Panteones. Se refieren a construcciones habilitadas directamente sobre el terreno o sobre estructuras y que conforman pavimentos o áreas verdes para los usos señalados.
+
+a). 3.- Inmueble sin construcciones (W), aquél que no tenga construcciones permanentes o que teniéndolas su superficie, sea inferior a un 10% a la del terreno, a excepción de:
+
+a) Los inmuebles que se ubiquen en zonas primarias designadas para la protección o conservación ecológica, y en las zonas secundarias denominadas áreas verdes y espacios abiertos, de acuerdo con la zonificación establecida en los Programas Delegacionales o Parciales del Distrito Federal. Si un predio no se encuentra en su totalidad en dichas zonas, únicamente se aplicará la reducción a la superficie afectada a que se refieren los numerales 1 y 2 de la fracción IV, del artículo 152 de este Código;
+
+b) Los inmuebles que pertenezcan a instituciones educativas, culturales o de asistencia privada;
+
+c) Los campos deportivos o recreativos acondicionados y funcionando como tales;
+
+d) Los estacionamientos públicos debidamente autorizados y en operación;
+
+e) Los inmuebles cuya construcción sea inferior a un 10% de la superficie del terreno y que sea utilizado exclusivamente como casa-habitación por el contribuyente, y
+
+f) Otros inmuebles que sean efectivamente utilizados conforme a la autorización que hubiese otorgado la autoridad competente, misma que deberá ser renovada para presentarse ante la autoridad por ejercicio fiscal.
+
+b). Rango de niveles: Corresponde al número de plantas cubiertas y descubiertas de la construcción a partir del primer nivel utilizable o edificado en el predio en que se ubique.
+
+En los casos que en una cuenta catastral se encuentren varios cuerpos de edificios claramente separados, el valor total de la construcción se obtendrá de la suma del valor de cada uno de ellos, los cuales se calcularán en forma independiente.
+
+Cuando el nivel más alto de un edificio tenga un porcentaje de construcción menor al 20% de la planta cubierta anterior, el rango de nivel del inmueble se determinará sin tomar en cuenta el último nivel:
+
+El rango de nivel se considerará conforme a la siguiente edificación.
+
+CLAVE DESCRIPCION
+
+01 Superficies construidas
+
+descubiertas.
+
+02 De 1 a 2 niveles o bien,
+
+si no existe una clara distinción
+
+de ellos y la construcción tenga
+
+una altura hasta de 6.00 metros.
+
+05 De 3 a 5 niveles o bien, si no existe
+
+una clara distinción de ellos y la construcción
+
+tenga una altura de 6.01 metros a 15.00
+
+metros.
+
+10 De 6 a 10 niveles.
+
+15 De 11 a 15 niveles.
+
+20 De 16 a 20 niveles.
+
+99 De 21 a más niveles.
+
+RU
+
+Rango Único Se aplica a edificaciones sin una clara
+
+distinción de niveles tales como naves
+
+industriales, bodegas galerones, centros
+
+comerciales, restaurantes y estructuras
+
+semejantes que excedan una altura de 15.00
+
+metros.
+
+V. CLASE: Es el grupo al que pertenece una construcción de acuerdo con las características propias de sus espacios, servicios, estructuras y acabados, la cual tiene asignado un valor unitario de construcción.
+
+Para determinar la clase de construcción a que pertenece cada edificación, se procederá conforme a lo siguiente:
+
+En primer término se debe considerar el uso genérico del inmueble, identificándolo como habitacional o no habitacional; posteriormente se ubica de manera específica en la “Matriz de Características” para determinar la clase que aplica para el uso de que se trate.
+
+Selección de elementos en la “Matriz de Características”.
+
+Cada “Matriz de Características” se compone de apartados en los cuales se consideran distintos elementos de la construcción. Por lo que se deberá seleccionar un solo elemento de los siete que componen cada columna, y así sucesivamente, para cada columna que integra esta matriz.
+
+Determinación de puntos y clase en la matriz de puntos.
+
+Se deberá identificar los puntos que correspondan a cada elemento seleccionado en la matriz de características.
+
+Hecho lo anterior, los puntos se anotarán en el reglón denominado “Puntos Elegidos”, y se deberán sumar los puntos de este reglón, ubicando el resultado en el cuadro “Total de Puntos”.
+
+Finalmente, el total de puntos se ubicará dentro de algún rango de la “Tabla de Puntos”, determinándose de esa manera la clase a la cuál pertenece la construcción del inmueble.
+
+a). HABITACIONAL
+
+En el caso de que el uso genérico del inmueble sea habitacional, se identifican las características de la construcción en la “Matriz de Características” para determinar clases de construcción de Uso: Habitacional y se utilizan los puntos aplicables en la “Matriz de Puntos” para determinar clases de construcción de Uso: Habitacional, conforme al procedimiento señalado en esta fracción.
+
+Para vivienda multifamiliar, la superficie de construcción que se debe considerar como referencia para determinar la clase, es la que resulte de dividir la superficie total, incluyendo las áreas de uso común, entre el número de unidades familiares. No se consideran en este caso los inmuebles sujetos a régimen condominal.
+
+MATRIZ DE CARACTERISTICAS
+
+PARA DETERMINAR CLASES DE
+
+CONSTRUCCIONES DE USO
+
+HABITACIONAL
+
+ANEXO 1
+
+MATRIZ DE PUNTOS PARA
+
+DETERMINAR CLASES DE
+
+CONSTRUCCIONES DE USO
+
+HABITACIONAL
+
+ANEXO 1-A
+
+b). NO HABITACIONAL
+
+Cuando un inmueble construido originalmente para uso habitacional se destine a Oficina, Hotel, Comercio, Salud, Educación y/o Comunicaciones, se identifican las características de la construcción en la “Matriz de Características” para determinar clases de construcción de Uso: No Habitacional (Casa habitación adaptada para Oficina, Hotel, Comercio, Salud, Educación y/o Comunicaciones) conforme al procedimiento señalado en esta fracción.
+
+MATRIZ DE CARACTERISTICAS
+
+PARA DETERMINAR CLASES DE
+
+CONSTRUCCIONES DE USO NO
+
+HABITACIONAL: CASA
+
+HABITACION ADAPTADA PARA
+
+OFICINA, HOTEL, COMERCIO,
+
+SALUD, EDUCACION Y/O
+
+COMUNICACIONES
+
+ANEXO 2
+
+MATRIZ DE PUNTOS PARA
+
+DETERMINAR CLASES DE
+
+CONSTRUCCIONES DE USO NO
+
+HABITACIONAL:
+
+CASA HABITACION ADAPTADA
+
+PARA OFICINA, HOTEL,
+
+COMERCIO, SALUD,
+
+EDUCACION Y/O
+
+COMUNICACIONES
+
+ANEXO 2-A
+
+Cuando el uso del inmueble sea no habitacional y se trate de construcciones cuyo uso coincide con el propósito original para el que fue construido, tratándose de Oficina, Hotel, Comercio, Salud, Educación y/o Comunicaciones, para la determinación de la clase se aplica la “Matriz de Características” para determinar clases de construcción de Uso: no habitacional (Oficina, Hotel, Comercio, Salud, Educación y/o Comunicaciones), conforme al procedimiento señalado en esta fracción.
+
+MATRIZ DE CARACTERISTICAS
+
+PARA DETERMINAR CLASES DE
+
+CONSTRUCCIONES DE USO NO
+
+HABITACIONAL:
+
+OFICINAS, HOTELES,
+
+COMERCIO, SALUD, EDUCACIÓN
+
+Y/O COMUNICACIONES
+
+ANEXO 3
+
+MATRIZ DE PUNTOS PARA
+
+DETERMINAR CLASES DE
+
+CONSTRUCCIONES DE USO NO
+
+HABITACIONAL:
+
+OFICINAS, HOTELES,
+
+COMERCIO, SALUD, EDUCACIÓN
+
+Y/O COMUNICACIONES
+
+ANEXO 3-A
+
+Cuando el uso del inmueble sea no habitacional y se trate de construcciones cuyo uso coincide con el propósito para el que fue construido, tratándose de Industria, Abasto y/o Cultura, se identifican las características de la construcción en la “Matriz de Características” para determinar clases de construcción de Uso: no habitacional (Industria, Abasto y/o Cultura), conforme al procedimiento señalado en esta fracción.
+
+MATRIZ DE CARACTERISTICAS
+
+PARA DETERMINAR CLASES DE
+
+CONSTRUCCIONES DE USO NO
+
+HABITACIONAL:
+
+INDUSTRIA, ABASTO Y/O
+
+CULTURA
+
+ANEXO 4
+
+MATRIZ DE PUNTOS PARA
+
+DETERMINAR CLASES DE
+
+CONSTRUCCIONES DE USO
+
+NO HABITACIONAL:
+
+INDUSTRIA, ABASTO Y/O
+
+CULTURA
+
+ANEXO 4-A
+
+Cuando el uso del inmueble sea no habitacional y se trate de construcciones cuyo uso coincide con el propósito original para el que fue construido, tratándose de Deportes, para la determinación de la clase se aplica la “Matriz de Características” para determinar clases de construcción de uso no habitacional (Deportes), conforme al procedimiento señalado en esa fracción.
+
+MATRIZ DE CARACTERISTICAS
+
+PARA DETERMINAR CLASES DE
+
+CONSTRUCCIONES DE USO NO
+
+HABITACIONAL: DEPORTE
+
+ANEXO 5
+
+MATRIZ DE PUNTOS PARA
+
+DETERMINAR CLASES DE
+
+CONSTRUCCIONES DE USO NO
+
+HABITACIONAL: DEPORTE
+
+ANEXO 5-A
+
+Para los efectos de la determinación de las clases de construcción y la aplicación de las “Matrices de Características” y Puntos para determinar Clases de Construcción señaladas en este artículo, se entenderá por:
+
+ESPACIOS:
+
+Sala: Es el cuarto de estar en una casa o vivienda.
+
+Comedor: Es un cuarto de la vivienda destinado para ingerir alimentos.
+
+Cocina: Cuarto de la vivienda utilizado para cocinar o calentar los alimentos con o sin muebles tipo cocina integral.
+
+Recámara: Es el cuarto de la vivienda destinado a dormir y al descanso de sus habitantes.
+
+Cuarto de servicio: Es un cuarto adicional de la vivienda generalmente aislado del resto de la casa, que se ocupa para el alojamiento del servicio doméstico.
+
+Cuarto de lavado y planchado: Es un cuarto adicional de la vivienda destinado para el alojamiento de los bienes muebles destinados a la limpieza y conservación de las prendas de vestir.
+
+Estudio: Es un cuarto adicional de la vivienda destinado al esparcimiento y/o desarrollo de actividades académicas, como son una biblioteca o la sala de televisión.
+
+Gimnasio: Cuarto adicional de la vivienda para realizar ejercicios gimnásticos o deportivos.
+
+Cajones de estacionamiento: Son los espacios asignados para el resguardo de vehículos.
+
+Espacios adicionales: Consiste en espacios tales como salón de juegos, salas de proyección, bar, cava y salón de fiestas
+
+Unidad Familiar: Espacio de vivienda destinado al uso de un individuo, pareja o familia.
+
+Vivienda Familiar: Conjunto de unidades familiares, incluyendo áreas de uso común. Ejemplo: vecindades.
+
+SERVICIOS:
+
+Retrete: Mueble sanitario, generalmente de uso común, destinado para el desalojo de los desechos humanos.
+
+Lavabo: Pila con grifos y desagüe.
+
+Baño: Habitación destinada al aseo corporal, consiste en wc, lavabo y regadera.
+
+Muebles tipo “A”: Habitación destinada al aseo corporal, consiste en wc, lavabo y regadera cuyo valor no es mayor a 2,000 pesos.
+
+Muebles tipo “B”: Habitación destinada al aseo corporal, consiste en wc, lavabo y regadera cuyo valor es de 2,001 pesos a 2,500 pesos.
+
+Muebles tipo “C”: Habitación destinada al aseo corporal, consiste en wc, lavabo y regadera cuyo valor es de 2,501 pesos a 3,000 pesos.
+
+Muebles tipo “D”: Habitación destinada al aseo corporal, consiste en wc, lavabo y regadera cuyo valor es de 3,001 pesos a 3,500 pesos.
+
+Muebles tipo “E”: Habitación destinada al aseo corporal, consiste en wc, lavabo y regadera cuyo valor es de 3,501 pesos a 4,000 pesos. Puede contar con jacuzzi o sauna.
+
+Muebles tipo “F”: Habitación destinada al aseo corporal, consiste en wc, lavabo y regadera cuyo valor es mayor a 4,000 pesos. Puede contar con jacuzzi o sauna.
+
+Muebles tipo “G”: Se tomará como referencia el wc, cuyo valor no es mayor a 3,250 pesos.
+
+Muebles tipo “H”: Se tomará como referencia el wc, cuyo valor es de 3,251 pesos a 7,400 pesos.
+
+Muebles tipo “I”: Se tomará como referencia el wc, cuyo valor es de 7,401 pesos a 9,100 pesos.
+
+Muebles tipo “J”: Se tomará como referencia el wc, cuyo valor es de 9,101 pesos a 10,281 pesos.
+
+Muebles tipo “K”: Se tomará como referencia el wc, cuyo valor es de 10,282 pesos a 14,600 pesos.
+
+Muebles tipo “L”: Se tomará como referencia el wc, cuyo valor es mayor a 14,600 pesos.
+
+ESTRUCTURA:
+
+Estructura: Armazón de hierro, madera o concreto armado que soporta una construcción.
+
+Muros de carga: Obra de albañilería levantada en posición vertical, para cerrar un espacio y sostener entrepisos o cubiertas, cuya función principal es soportar la estructura.
+
+Marco rígido: Elemento estructural conformado por una trabe, una contratrabe y dos o más columnas.
+
+Losa: Superficie llana compacta de concreto armado, que se encarga de separar horizontalmente un nivel o piso.
+
+Concreto: Mezcla compuesta de piedras menudas, cemento y arena que se emplea en la construcción por su gran dureza y resistencia.
+
+Concreto armado: Mezcla de concreto reforzada con una armadura de barras de hierro o acero.
+
+Losa reticular: Losa que tiene forma de redecilla o red.
+
+Losa aligerada: Losa de concreto armado de poco espesor y alta resistencia.
+
+Entrepisos: Losas intermedias.
+
+Columna: Soporte cilíndrico o rectangular para sostener entrepisos y/o techumbres.
+
+Mampostería: Sistema constructivo realizado con piedras desiguales, ajustadas y unidas con mortero de cal y arena.
+
+Tabique: Masa de arcilla cocida de tamaño y grosor variable. Cuando es delgado se denomina ladrillo, cuando es grueso, tabique.
+
+Adobe: Ladrillo o tabique de barro sin cocer, secado al sol.
+
+Cubierta: Losa superior y exterior de una construcción.
+
+Viga: Madero largo y grueso que sirve para formar los techos en los edificios y asegurar las construcciones.
+
+Volados: Techo que en su longitud sólo tiene apoyo en uno de sus lados o costados.
+
+Claros: Espacio que existe entre elementos verticales de carga (muros o columnas).
+
+Claro largo: Distancia transversal a los ejes de carga entre dos puntos de apoyo.
+
+Cemento: Mezcla de arcilla molida y materiales calcáreos en polvo que, en contacto con el agua, se solidifica y endurece.
+
+Se utiliza como adherente y aglutinante en la construcción.
+
+Acero: Aleación de hierro y carbono, en diferentes proporciones, que adquiere con el temple gran dureza y elasticidad.
+
+Elementos prefabricados: Estructuras o elementos de acero y concreto previamente armados o colocados.
+
+Graderías: Asiento colectivo a manera de escalón corrido en teatros y estadios.
+
+ACABADOS:
+
+Acabado: Perfeccionamiento final de una obra.
+
+Yeso: Sulfato de calcio hidratado, compacto o terroso, generalmente blanco, que tiene la propiedad de endurecerse rápidamente cuando se amasa con agua, y se emplea en la construcción y en la escultura.
+
+Pisos: Referido a los materiales de construcción empleado en el terminado o calidad de las áreas para circulación de los habitantes.
+
+Pasta: Masa moldeable hecha con cualquier material para decorar muros.
+
+Alfombra: Tejido de lana o de otras materias con que se cubre el piso de las habitaciones y escaleras.
+
+Alfombra tipo “A”: Se deroga.
+
+Alfombra tipo “B”: Se deroga.
+
+Alfombra tipo “C”: Se deroga.
+
+Alfombra tipo “D”: Se deroga.
+
+Alfombra tipo “E”: Se deroga.
+
+Alfombra tipo “F”: Se deroga.
+
+Alfombra tipo “G”: Se deroga.
+
+Alfombra tipo “H”: Se deroga.
+
+Alfombra tipo “I”: Se deroga.
+
+Alfombra tipo “J”: Se deroga.
+
+Alfombra tipo “K”: Se deroga.
+
+Alfombra tipo “L”: Se deroga.
+
+Aplanado: Recubrimiento de las construcciones para el que se utilizan, básicamente como materiales una mezcla de cal y arena, sirve para proteger las superficies.
+
+Firme: Capa sólida de terreno sobre la que se pueden poner los cimientos de una construcción.
+
+Firme de concreto simple: Capa sólida de concreto.
+
+Firme de concreto simple pulido: Capa sólida de concreto pulido.
+
+Precolado de concreto: Piezas de concreto previamente armado.
+
+Linóleum: Papel plastificado para cubrir pisos presentado en rollos para su colocación.
+
+Mosaico: Técnica artística de decoración que se forma pegando sobre un fondo de cemento pequeñas piezas de piedra, vidrio o cerámica de diversos colores y diseños.
+
+Terrazo: Pavimento formado por trozos de mármol aglomerados con cemento y superficie pulida.
+
+Pulido: Alisar o dar tersura y lustre a una cosa.
+
+Parquet: Pavimento para suelos de interior, formado por listones muy pequeños de madera dispuestos en formas geométricas.
+
+Loseta: Pieza pequeña, generalmente de cerámica, que se pone en las paredes o en el suelo.
+
+Azulejo: Ladrillo pequeño vidriado, de diferentes colores, que se usa para cubrir suelos, paredes o en la decoración. Existen dos tipos: el industrializado o hecho a maquina y el decorado a mano que se le considera de valor mayor.
+
+Perfil: Reborde o contorno de cualquier pieza.
+
+Aluminio: Metal de color y brillo similares a los de la plata, ligero, maleable y buen conductor del calor y de la electricidad.
+
+Esmalte: Laca cosmética que cubre y protege diversos materiales (por ejemplo: madera y aluminio).
+
+Cancel: Armazón vertical de madera, hierro u otro material, que divide espacios en un cuarto de baño.
+
+Placa: Plancha o película de metal u otra materia, en general rígida que cubre una superficie.
+
+Cristal: Material cristalino y traslúcido.
+
+Cristal acústico: Cristal con aislante de ondas sonoras.
+
+Cristal térmico: Cristal que conserva la temperatura.
+
+Lámina: Plancha delgada de metal u otro material, porción de cualquier materia extendida en superficie y de poco grosor.
+
+Fachada: Aspecto exterior de la construcción.
+
+Piso: Pavimento natural o artificial de habitaciones, calles y caminos.
+
+Pavimento: Superficie que se hace para que el piso esté sólido y llano.
+
+Llano: Superficie sin altos ni bajos.
+
+Sólido: Macizo, denso y fuerte.
+
+Pintura: Color preparado con fines cosméticos en acabados.
+
+Recubrimientos tipo estuco: Pasta de cal, yeso y agua de acabado terso y fino. Se aplica como revestimiento o en relieves ornamentales.
+
+Ventana: Abertura hecha por lo general de la parte media a la parte superior de una pared para dar luz y ventilación compuesta por un armazón y cristales con que se cierra esa abertura.
+
+Aglomerado: Material que consiste en planchas compuestas por trozos de madera prensados y endurecidos.
+
+Mármol: Roca compuesta sobre todo de calcita, muy abundante en la naturaleza y utilizada en la construcción.
+
+Maderas Finas: Fresno, Roble, Cedro, Bambú.
+
+> <small>N. DE E. VER ANEXOS EN LA G.O. DEL 29 DE DICIEMBRE DE 2008, PAGINAS DE LA 95 A LA 104.</small>
+
+VI. Avalúo: es el dictamen técnico practicado por persona autorizada o registrada ante la autoridad fiscal, que permite determinar el valor de mercado de un bien inmueble, con base en su uso, características físicas, además de las características urbanas de la zona donde se ubica, así como en la investigación, análisis y ponderación del mercado inmobiliario, contenido en un documento que reúna los requisitos de forma y contenido establecidos en el Manual de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria, así como de autorización y Registro de Personas para Practicar Avalúos.
+
+NORMAS DE APLICACIÓN
+
+1. Para la aplicación de la Tabla de Valores Unitarios de Suelo a un inmueble específico, se determinará primero la Delegación a que corresponda. Según su ubicación se constatará si se encuentra comprendido dentro de la Tabla de Colonia Catastral de tipo Enclave o de tipo Corredor, de ser alguno de estos casos le corresponderá al inmueble el valor unitario por metro cuadrado respectivo. En caso contrario se determinará la región con los tres primeros dígitos del número de cuenta catastral y su Manzana con los tres siguientes dígitos del mismo número de cuenta, a los cuales deberá corresponder una Colonia Catastral de tipo Area con un valor unitario por metro cuadrado. El valor unitario que haya correspondido se multiplicará por el número de metros cuadrados de terreno, con lo que se obtendrá el valor total del suelo del inmueble.
+
+2. Para la aplicación de la Tabla de Valores Unitarios de las construcciones, se considerarán las superficies cubiertas o techos y las superficies que no posean cubiertas o techos, según sea el caso. Para determinar el valor de la construcción se clasificará el inmueble en el tipo y clase que le correspondan: con este tipo y clase se tomará el valor unitario de la construcción, establecidos en la tabla de valores unitarios de las construcciones y se multiplicará por los metros cuadrados de la construcción, con lo que se obtendrá el valor total de la edificación.
+
+Para la determinación del valor de la construcción de un inmueble de uso habitacional se considerarán todos los espacios cubiertos propios de este uso incluyendo, entre otros, los cuartos de servicio, patios, cajón de estacionamiento, cocheras y, en su caso, las obras complementarias, elementos accesorios e instalaciones especiales con que cuente, mismos que deberán considerarse invariablemente como uso habitacional.
+
+El valor total de la construcción se obtendrá tomando en consideración la clase predominante.
+
+En caso de inmuebles de uso habitacional sujetos al régimen de propiedad en condominio, se considerará además, la parte proporcional de las áreas comunes que les corresponde conforme a su indiviso. Estas áreas comunes, así como las porciones privativas que estén en otro cuerpo constructivo serán clasificadas de acuerdo a sus usos, rangos de nivel, clases y edades.
+
+El valor total de la construcción de inmuebles de uso habitacional sujetos a régimen de propiedad en condominio se obtendrá de la suma del valor de la construcción privativa y el valor total de las porciones del inmueble correspondientes al indiviso. En los inmuebles de uso no habitacional, se considerará cada porción de uso y se determinará su tipo y clase que le corresponda. Los inmuebles en esta situación, deberán determinar el valor de la construcción con la suma total de cada una de ellas.
+
+Para el inmueble que cuenta con porciones de distinto uso, incluso habitacional, cuando las personas residan de manera ocasional o para resguardar dichos inmuebles, se debe tomar el valor de cada una y sumarse a las restantes para así obtener el valor total de la construcción.
+
+Al resultado obtenido se le aplicará una reducción según el número de años transcurridos desde que se termino la construcción o desde la última remodelación que hubiere afectado a por lo menos un 30% de la superficie de construcción, en razón del 1% para cada año transcurrido, sin que en ningún caso se descuente más del 40%. Si los inmuebles tuvieran porciones de construcción con diferentes fechas de terminación, la reducción procederá por cada porción, según el número de años transcurridos desde que se terminó cada una de ellas.
+
+3. Cuando el inmueble cuente con instalaciones especiales, elementos accesorios u obras complementarias, el valor resultante de aplicar lo señalado en el numeral 2, se incrementará en 8%.
+
+Instalaciones especiales, aquellas que se consideran indispensables o necesarias para el funcionamiento operacional del inmueble de acuerdo a su uso específico, tales como, elevadores, escaleras electromecánicas, equipos de calefacción o aire lavado, sistema hidroneumático, equipos contra incendio.
+
+Elementos Accesorios, son aquellos que se consideran necesarios para el funcionamiento de un inmueble de uso especializado, que sí se convierten en elementos característicos del bien analizado como: caldera de hoteles y baños públicos, espuela de ferrocarril en industrias, pantalla en un cinematógrafo, planta de emergencia en un hospital, butacas en una sala de espectáculos, entre otros.
+
+Obras complementarias, son aquellas que proporcionan amenidades o beneficios al inmueble como son: bardas, celosías, andadores, marquesinas, cisternas, equipos de bombeo, gas estacionario, entre otros.
+
+4. El valor del suelo del inmueble, de sus construcciones y de sus instalaciones especiales, según sea el caso, se sumarán para obtener el valor catastral del inmueble.
+
+La autoridad fiscal, mediante reglas de carácter general dará a conocer lo relativo a lo dispuesto en este artículo, en lenguaje llano y mediante folletos ejemplificativos.
+
+5. Se deroga.
+
+6. Se deroga.
+
+7. El valor catastral determinado mediante avalúo comprenderá la suma de los valores de suelo del inmueble, de sus construcciones, instalaciones especiales, elementos accesorios u obras complementarias, según sea el caso.
+
+> <small>N. DE E. VER TABLAS EN LA G.O. DEL 29 DE DICIEMBRE DE 2008, PAGINAS DE LA 107 A LA 256.</small>
+
+## ARTICULOS TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día 1º de enero del año 2009.
+
+###### ARTICULO SEGUNDO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
+
+###### ARTICULO TERCERO.
+
+A partir de la fecha de entrada en vigor del presente Decreto, quedarán sin efectos las disposiciones reglamentarias y administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general que se opongan a lo establecido en este Decreto. La Secretaría será responsable de modificar las disposiciones reglamentarias y normativas correspondientes para hacerlas congruentes con los preceptos contenidos en el presente Código; en tanto no se actualicen los mismos, se aplicará lo establecido en este ordenamiento y las disposiciones que no se le opongan.
+
+###### ARTICULO CUARTO.
+
+A los contribuyentes de los derechos por el suministro de agua en sistema medido, de uso doméstico o mixto, que reciban el servicio por tandeo, se les aplicará por toma la cuota fija que corresponda, conforme a lo establecido en la tarifa del artículo 194, fracción II de este Código, en tanto se regulariza el suministro.
+
+Asimismo, a estos contribuyentes ubicados en las colonias catastrales 0, 1, 2, 3 y 8, para efectos de la conexión a las redes de agua y drenaje o su regularización, se les aplicará un descuento del 95% sobre el pago que deban efectuar por los derechos establecidos en la fracción I, numeral 1 del artículo 203 de este Código.
+
+El Sistema de Aguas de la Ciudad de México y los órganos político administrativos de las demarcaciones territoriales correspondientes elaborarán a más tardar el primer bimestre de 2009, el dictamen técnico a fin de que la autoridad fiscal esté en posibilidad de determinar y publicar las zonas en que se aplicarán dichas medidas.
+
+###### ARTICULO QUINTO.
+
+Los órganos a que se refiere el artículo 448 de este Código deberán publicar en la Gaceta Oficial del Distrito Federal, antes del quince de febrero, la clasificación de remuneraciones a todos los servidores públicos de mandos medios y superiores, aprobada por sus órganos de gobierno. Dicha clasificación deberá contener todos los conceptos, tales como sueldos, compensaciones, estímulos y prestaciones, así como cualquier tipo de ingreso que forme parte de las remuneraciones.
+
+###### ARTICULO SEXTO.
+
+Para efectos de lo dispuesto en el artículo 124, a partir del mes de junio de 2009, la Secretaría, podrá proporcionar a las Sociedades de Información Crediticia, la información de los contribuyentes que cuenten con créditos fiscales firmes, que a la fecha indicada, no hayan sido pagados ni garantizados en los plazos y términos que este Código establece.
+
+###### ARTICULO SEPTIMO.
+
+En tanto la Secretaría publique los horarios a que se refiere el artículo 278 de este Código, el horario de funcionamiento de los parquímetros será de Lunes a Viernes de 8:00 a 20:00 hrs.
+
+###### ARTICULO OCTAVO.
+
+Se deroga el artículo Octavo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Financiero del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 27 de diciembre de 2007, que prevé que las dependencias, entidades, órganos desconcentrados, delegaciones, así como los órganos a que se refiere el artículo 448 de este Código, para el ejercicio siguiente, deberán considerar en su proyecto de presupuesto una partida para hacer frente a la responsabilidad patrimonial que los servidores públicos de su adscripción pudieran ocasionar.
+
+###### ARTICULO NOVENO.
+
+La Secretaría contará con un plazo de hasta tres meses a partir de la aprobación del presente decreto para emitir y publicar los lineamientos a que se refiere el artículo 155 de esté Código, en los que se establecerán los medios a través de los cuales los contribuyentes podrán solicitar la declaratoria de exención del impuesto predial, así como la documentación que acredite que el inmueble se ubica en los supuestos de exención que establece el propio artículo.
+
+Para el caso de las solicitudes de declaratoria de exención presentadas durante los ejercicios fiscales 2008 y anteriores, que se encuentren pendientes de resolución por parte de la autoridad fiscal, se deberá observar lo dispuesto en los lineamientos a que refiere el párrafo anterior, a efecto de que se declare procedente la emisión de la declaratoria respectiva.
+
+###### ARTICULO DECIMO.
+
+Tratándose de personas físicas que tengan créditos fiscales derivados de derechos por el suministro de agua e impuesto predial en inmuebles de uso habitacional, determinados por la autoridad fiscal menores a 400 días de salario mínimo general diario vigente en el Distrito Federal, la autoridad fiscal implementará durante el ejercicio 2009, mecanismos de simplificación administrativa para disminuir dichos créditos en términos de lo dispuesto en el artículo 128 de este Código.
+
+###### ARTICULO DECIMO PRIMERO.
+
+Los propietarios de inmuebles de uso habitacional, cuyo valor catastral se encuentre comprendido en el rango J del numeral 2 de la fracción II del artículo 152 de este Código, acudirán a las oficinas de la Tesorería en la correspondiente época de pago, a fin de obtener la reducción en el pago del impuesto predial.
+
+###### ARTICULO DECIMO SEGUNDO.
+
+Las visitas domiciliarias y de revisión de gabinete que se hayan iniciado antes de la entrada en vigor del presente Decreto, se desarrollarán y concluirán de conformidad con las disposiciones del Código Financiero del Distrito Federal vigentes al momento del inicio de la visita o revisión respectiva.
+
+###### ARTICULO DECIMO TERCERO.
+
+La Secretaría de Finanzas establecerá las medidas necesarias para la debida instrumentación de un programa de incentivos o estímulos fiscales a la inversión en Plantas de Tratamiento de Aguas Residuales y de Captación de Agua Pluvial en el Distrito Federal, acorde con el programa federal y las disposiciones locales que garanticen su aplicación en la entidad.
+
+###### ARTICULO DECIMO CUARTO.
+
+La Secretaría podrá realizar las acciones necesarias para tratar los problemas que se deriven del pago de los derechos por el suministro de agua en inmuebles de uso habitacional, relativos a la suspensión o restricción del servicio hidráulico.
+
+###### ARTICULO DECIMO QUINTO.
+
+El Jefe de Gobierno, a través de la Secretaria, podrá realizar las acciones que sean necesarias, para tratar los problemas que se deriven del pago del impuesto predial, a efecto de garantizar la equidad y proporcionalidad en su recaudación.
+
+###### ARTICULO DECIMO SEXTO.
+
+La Secretaría de Finanzas tendrá la facultad de generar en coordinación con el Sistema de Aguas de la Ciudad de México el padrón de usuarios que consuman grandes cantidades de agua potable, con el fin de diseñar una nueva estructura tarifaría para crear una política de uso racional de agua potable para consumos superiores a los 660 metros cúbicos bimestrales, estructura que deberá ser presentada ante el Pleno de la Asamblea Legislativa del Distrito Federal, a más tardar el segundo semestre del ejercicio 2009.
