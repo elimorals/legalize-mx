@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2008-09-23"
+last_updated: "2008-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -51,7 +51,9 @@ LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE T
 
 2. El ejercicio de las funciones de los diputados por el término de tres años, constituye una Legislatura.
 
-3. El año legislativo comprende del 1º de enero al 31 de diciembre de cada año de calendario.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+3. El año legislativo comprende del 1° de octubre al 30 de septiembre del siguiente año calendario.
 
 ###### ARTICULO 3.
 
@@ -65,9 +67,13 @@ LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE T
 
 1. De conformidad con el artículo 44 de la Constitución Política del Estado, el Congreso tendrá dos periodos ordinarios de sesiones cada año.
 
-2. El primero será improrrogable e iniciará el 1º de marzo y terminará el 31 de mayo, salvo en el año de instalación de cada Legislatura, que será del 1º de enero al 31 de marzo.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-3. El segundo periodo se realizará a partir del 1º de septiembre y no podrá prolongarse más allá del 15 de diciembre, excepto en el último año de la Legislatura, cuando podrá extenderse durante los días de diciembre que sean necesarios.
+2. El primero iniciará el 1º de octubre y durará el tiempo necesario para tratar todos los asuntos de su competencia, sin que pueda extenderse más allá del día 15 de diciembre.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+3. El segundo periodo se realizará a partir del 15 de enero y terminará el 30 de junio.
 
 4. El Congreso podrá ser convocado a la celebración de sesiones extraordinarias en los términos de los artículos 49, 62 fracción III y 91 fracciones XIII y XIX de la Constitución Política del Estado.
 
@@ -103,13 +109,19 @@ Ninguna autoridad podrá dictar mandamiento alguno sobre los bienes del Estado d
 
 ###### ARTICULO 9.
 
-1. En sesión solemne de la Legislatura que concluye sus funciones y que se celebrará a las 12:00 horas del 31 de diciembre del año de la elección, se dará lectura al informe del Consejo Estatal Electoral sobre la legitimidad de los comicios y de los diputados electos conforme a los mismos. Estos otorgarán la protesta constitucional ante la Mesa Directiva del Congreso, en caso de haberse prorrogado el periodo ordinario de sesiones, o ante la Diputación Permanente si no hubiere prórroga.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-2. Los diputados electos con motivo de los comicios ordinarios para la renovación del Congreso que tengan ese carácter en términos del informe del Consejo Estatal Electoral, se reunirán en el Salón de Sesiones del Congreso del Estado en la fecha y hora señaladas en el párrafo anterior sin necesidad de cita previa.
+1. En sesión solemne de la Legislatura que concluye sus funciones y que se celebrará a las 12:00 horas del 30 de septiembre del año de la elección, se dará lectura al informe del Consejo General del Instituto Electoral de Tamaulipas sobre la legitimidad de los comicios y de los diputados electos conforme a los mismos. Estos otorgarán la protesta constitucional ante la Mesa Directiva del Congreso o ante la Diputación Permanente según sea el caso.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+2. Los diputados electos con motivo de los comicios ordinarios para la renovación del Congreso que tengan ese carácter en términos del informe del Consejo General del Instituto Electoral de Tamaulipas, se reunirán en el Salón de Sesiones del Congreso del Estado en la fecha y hora señaladas en el párrafo anterior sin necesidad de cita previa.
 
 3. Los diputados electos tomarán lugar en el Salón de Sesiones, sin preferencia alguna y, los integrantes de la Mesa Directiva del Congreso o de la Diputación Permanente, según el caso, lo harán en el presidium y conforme a su cargo.
 
-4. Uno de los secretarios dará lectura a la lista de diputados electos, en términos del informe del Consejo Estatal Electoral sobre la legitimidad de las elecciones, a fin de comprobar la asistencia de más de la mitad de quienes deben integrar la Legislatura, para efectos de lo dispuesto por el artículo 37 de la Constitución Política del Estado.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+4. Uno de los secretarios dará lectura a la lista de diputados electos, en términos del informe del Consejo General del Instituto Electoral de Tamaulipas sobre la legitimidad de las elecciones, a fin de comprobar la asistencia de más de la mitad de quienes deben integrar la Legislatura, para efectos de lo dispuesto por el artículo 37 de la Constitución Política del Estado.
 
 5. Comprobado el quórum, se procederá a tomar la protesta constitucional a los diputados electos.
 
@@ -127,19 +139,23 @@ El Presidente dirá entonces: "Si así lo hicieran, la nación y el Estado se lo
 
 4. Los diputados electos que no hubieren asistido a la sesión a la que se refiere este artículo, rendirán su protesta ante el presidente de la Mesa Directiva en funciones en la primera sesión a que concurran.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 11.
 
-Conforme a los supuestos previstos por esta ley para la conformación de los grupos parlamentarios, los partidos políticos cuyos candidatos figuren como diputados electos en el informe del Consejo Estatal Electoral comunicarán al Congreso, a más tardar el 30 de diciembre del año de la elección, la integración de su grupo parlamentario, acompañando lo siguiente:
+Conforme a los supuestos previstos por esta ley para la conformación de los grupos parlamentarios, los partidos políticos cuyos candidatos figuren como diputados electos en el informe del Consejo General del Instituto Electoral de Tamaulipas comunicarán al Congreso, a más tardar el 29 de septiembre del año de la elección, la integración de su grupo parlamentario, acompañando lo siguiente:
 
 a) La denominación del grupo parlamentario;
 
-b) El documento en el que consten los nombres de los diputados electos que lo forman, y
+b) El documento en el que consten los nombres de los diputados electos que lo forman; y
 
 c) El nombre del coordinador del grupo parlamentario.
 
 ###### ARTICULO 12.
 
-1. El día 1 de enero siguiente, el Congreso celebrará su sesión de instalación y procederá a la elección de su Mesa Directiva.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+1. El día 1 de octubre siguiente, el Congreso celebrará su sesión de instalación y procederá a la elección de su Mesa Directiva.
 
 2. En la sesión de instalación, el Congreso deberá elegir la Mesa Directiva que habrá de fungir durante el primer mes del primer período ordinario de sesiones. La elección se desarrollará en la forma siguiente:
 
@@ -181,7 +197,9 @@ Salvo lo dispuesto por el artículo 12, al inicio de los períodos ordinarios de
 
 ###### ARTICULO 17.
 
-1. El presidente de la Mesa Directiva y el suplente durarán en su cargo un mes y no podrán ser reelectos para esas mismas funciones en el mismo período ordinario de sesiones. El presidente no podrá ser electo suplente, en tanto que éste no quedará inhabilitado para ser electo presidente.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+1. El presidente de la Mesa Directiva y el suplente durarán en su cargo un mes, o los días del mes calendario que corresponda, y no podrán ser reelectos para esas mismas funciones en el mismo periodo ordinario de sesiones. El presidente no podrá ser electo suplente, en tanto que éste no quedará inhabilitado para ser electo presidente.
 
 2. Los secretarios ejercerán su función durante el período ordinario de sesiones para el que fueren electos, pero no podrán ser reelectos para el periodo inmediato de sesiones. Tampoco podrán ser electos como presidente o suplente durante el tiempo de su ejercicio.
 
@@ -283,7 +301,9 @@ n) Ordenar el auxilio de la fuerza pública en los casos que resulte necesario, 
 
 o) Las demás que le atribuyan la Constitución Política del Estado, esta ley y los demás ordenamientos relativos a la actividad parlamentaria.
 
-2. Disponer la elaboración inmediata del Bando Solemne a que se refiere la fracción XXX del artículo 58 de la Constitución Política del Estado, a la luz de la información que reciba del Consejo Estatal Electoral sobre la declaración de Gobernador electo que compete a dicho órgano, y darlo a conocer al Pleno en la sesión más próxima, con base en la cual ordenará su publicación en el Periódico Oficial del Estado, dictará las medidas necesarias para su más amplia difusión, incluida su comunicación a los Ayuntamientos del Estado, y solicitará se fije en las oficinas públicas.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+2. Disponer la elaboración inmediata del Bando Solemne a que se refiere la fracción XXX del artículo 58 de la Constitución Política del Estado, a la luz de la información que reciba del Consejo General del lnstituto Electoral de Tamaulipas sobre la declaración de Gobernador electo que compete a dicho órgano, y darlo a conocer al Pleno en la sesión más próxima, con base en la cual ordenará su publicación en el Periódico Oficial del Estado, dictará las medidas necesarias para su más amplia difusión, incluida su comunicación a los Ayuntamientos del Estado, y solicitará se fije en las oficinas públicas.
 
 ###### ARTICULO 23.
 
@@ -363,7 +383,9 @@ Los diputados que decidan no pertenecer a un grupo parlamentario o dejar de pert
 
 2. Será presidente de la Junta durante la Legislatura, el coordinador del grupo parlamentario que, por sí mismo, cuente con la mayoría absoluta de los integrantes del Congreso.
 
-3. En el caso de que ningún grupo parlamentario cuente con la mayoría absoluta de los miembros del Congreso, la responsabilidad de presidir la Junta tendrá una duración anual y se desempeñará sucesivamente por los coordinadores de los grupos parlamentarios en orden decreciente del número de legisladores que los integren, siempre que dichos grupos cuenten con un mínimo de once diputados. Si solo dos grupos parlamentarios se hayan en esta hipótesis, durante el tercer año de ejercicio de la Legislatura les corresponderá la presidencia de la Junta de Coordinación Política por sendos períodos de seis meses, pudiéndose seleccionar el periodo de desempeño por el grupo parlamentario con el mayor número de integrantes.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+3. En el caso de que ningún grupo parlamentario cuente con la mayoría absoluta de los miembros del Congreso, la responsabilidad de presidir la Junta durará un año legislativo y se desempeñará sucesivamente por los coordinadores de los grupos parlamentarios en orden decreciente del número de legisladores que los integren, siempre que dichos grupos cuenten con un mínimo de doce diputados. Si sólo dos grupos parlamentarios se hallan en esta hipótesis, durante el tercer año de ejercicio de la Legislatura les corresponderá la Presidencia de la Junta de Coordinación Política por sendos periodos de seis meses, pudiéndose seleccionar el periodo de desempeño por el grupo parlamentario con el mayor número de integrantes.
 
 ###### ARTICULO 30.
 
@@ -551,7 +573,9 @@ f) De la Medalla al Mérito "Luis García de Arellano", a cargo de la recepción
 
 ###### ARTICULO 41.
 
-1. Los presidentes de las comisiones ordinarias y especiales, con el acuerdo de éstas, podrán solicitar información o documentación a las dependencias y entidades del Poder Ejecutivo del Estado, al Supremo Tribunal de Justicia, al Instituto Electoral del Estado, al Tribunal Estatal Electoral, a la Comisión de Derechos Humanos del Estado y a los Ayuntamientos de la Entidad y sus entidades, cuando se trate de un asunto de la competencia de dichas instituciones o se discuta una iniciativa sobre las materias que les corresponde atender en términos de los ordenamientos que las rigen.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+1. Los Presidentes de las Comisiones ordinarias y especiales, con el acuerdo de éstas, podrán solicitar información o documentación a las dependencias y entidades del Poder Ejecutivo del Estado, al Supremo Tribunal de Justicia, al Instituto Electoral de Tamaulipas, al Tribunal Electoral del Poder Judicial del Estado, a la Comisión de Derechos Humanos del Estado, al Instituto de Transparencia y Acceso a la Información de Tamaulipas y a los Ayuntamientos de la Entidad y sus entidades, cuando se trate de un asunto de la competencia de dichas instituciones o se discuta una iniciativa sobre las materias que les corresponde atender en términos de los ordenamientos que las rigen.
 
 2. El ente público está obligado a proporcionar la información en un plazo razonable y si la misma no fuere remitida, la comisión lo planteará al presidente de la Mesa Directiva para que éste refrende la solicitud. Si ante este requerimiento la información no fuere remitida, se procederá en términos del título de responsabilidades de los servidores públicos previsto en la Constitución Política del Estado.
 
@@ -1593,13 +1617,13 @@ Cuando se formulen observaciones particulares a las disposiciones aprobadas por 
 
 3. Siempre que medie solicitud por escrito con anterioridad al vencimiento de los plazos previstos en los párrafos 1 y 2 del presente artículo, tanto el Ejecutivo como los Ayuntamientos podrán solicitar una prórroga para la presentación de las iniciativas que les competen. El Congreso determinará si la causa que se invoca para solicitar la ampliación del plazo constituye justificación suficiente.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 125.
 
-1. Recibidas las iniciativas de Ley de Ingresos y del Presupuesto de Egresos del Estado, se turnarán para su estudio y dictamen a la Comisión de Finanzas, Planeación, Presupuesto y Deuda Pública. Esta comisión otorgará prioridad al conocimiento, estudio y dictamen de estas iniciativas, debiendo presentarlo antes de que concluya el segundo periodo de sesiones ordinarias del año legislativo anterior a aquel en que deben regir dichos ordenamientos de las finanzas públicas.
+1. Recibidas las iniciativas de Ley de Ingresos y del Presupuesto de Egresos del Estado, se turnarán para su estudio y dictamen a la Comisión de Finanzas, Planeación, Presupuesto y Deuda Pública. Esta Comisión otorgará prioridad al conocimiento, estudio y dictamen de estas iniciativas, debiendo presentarlo antes de que concluya el primer periodo de sesiones ordinarias del año legislativo anterior al año calendario en que deben regir dichos ordenamientos de las finanzas públicas.
 
-2. En todo caso, el Congreso deberá deliberar y votar los dictámenes sobre la Ley de Ingresos y el Presupuesto de Egresos del Estado, a más tardar, el 31 de diciembre del año anterior al que deban regir.
-
-La Diputación Permanente convocará a la sesión extraordinaria que deberá celebrarse para cumplir con el objetivo de expedir dichos ordenamientos, si no hubiere sido posible su emisión antes de clausurar el segundo periodo de sesiones de cada año legislativo.
+2. En todo caso, el Congreso deberá deliberar y votar los dictámenes sobre la Ley de Ingresos y el Presupuesto de Egresos del Estado, a más tardar, el 31 de diciembre del año calendario anterior al que deban regir. La Diputación Permanente convocará a la sesión extraordinaria que deberá celebrarse para cumplir con el objetivo de expedir dichos ordenamientos, si no hubiere sido posible su emisión antes de clausurar el primer periodo de sesiones de cada año legislativo.
 
 ###### ARTICULO 126.
 
@@ -1655,9 +1679,11 @@ g) El presidente de la Mesa Directiva, de la Diputación Permanente o de la comi
 
 4. Los diputados sin partido que deseen participar en la comparecencia serán considerados en el procedimiento a que se refiere el párrafo 2 de este artículo y, en caso de seguirse lo dispuesto por el párrafo 3, dichos diputados formularán la solicitud correspondiente a su participación al órgano en el cual se vaya a desarrollar la propia comparecencia.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 131.
 
-Cuando comparezcan ante el Pleno del Congreso, ante la Diputación Permanente o ante las comisiones ordinarias servidores públicos que formen parte del Poder Judicial del Estado, del Instituto Estatal Electoral, del Tribunal Estatal Electoral, de la Comisión de Derechos Humanos del Estado o de los Ayuntamientos del mismo, en lo conducente se seguirán las normas previstas en el artículo anterior.
+Cuando comparezcan ante el Pleno del Congreso, ante la Diputación Permanente o ante las comisiones ordinarias, servidores públicos que formen parte del Poder Judicial del Estado, del Instituto Electoral de Tamaulipas de la Comisión de Derechos Humanos del Estado, del Instituto de Transparencia y Acceso a la Información de Tamaulipas o de los Ayuntamientos del mismo, en lo conducente se seguirán las normas previstas en el artículo anterior.
 
 ###### ARTICULO 132.
 
@@ -1667,39 +1693,61 @@ Cuando con motivo de una comparecencia no sea posible hacer referencia integral 
 
 ###### ARTICULO 133.
 
-1. Para efectos de los nombramientos de magistrados del Supremo Tribunal de Justicia, de consejeros electorales del Consejo Estatal Electoral, de magistrados del Tribunal Estatal Electoral y de presidente de la Comisión de Derechos Humanos del Estado, se seguirá el procedimiento señalado en esta Sección.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+1. Para efectos de los nombramientos o ratificaciones, según sea el caso, de Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Poder Judicial del Estado; del Consejero Presidente, los consejeros electorales y el Contralor General del Instituto Electoral de Tamaulipas; del presidente de la Comisión de Derechos Humanos del Estado; de los comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas y del Procurador General de Justicia se seguirá el procedimiento señalado en esta Sección, y en su caso, el de las leyes que correspondan.
 
 2. En tratándose de otros nombramientos cuyo perfeccionamiento requiera del concurso de la mayoría del Pleno del Congreso, sólo se requerirá la formulación y aprobación del dictamen correspondiente.
 
 3. Para los nombramientos del personal del Congreso que deban ser aprobados por el Pleno, se estará a lo dispuesto por las normas de organización del Congreso previstas en esta ley.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 134.
 
 1. Los nombramientos previstos en los párrafos 1 y 2 del artículo anterior requieren la integración de un expediente en el que se contengan:
 
-a) Designación hecha por el órgano competente, sujeta a la aprobación o ratificación del Congreso;
+a) Designación hecha por el órgano competente, sujeta a la aprobación o ratificación del Congreso o propuesta hecha por el órgano competente, para la designación del Congreso;
 
-b) Expediente con documentos públicos que acrediten el cumplimiento de los requisitos constitucionales y legales para desempeñar el cargo, y
+b) Expediente con documentos públicos que acrediten el cumplimiento de los requisitos constitucionales y legales para desempeñar el cargo; y
 
-c) Datos biográficos de la persona nombrada, destacándose aquellas actividades relacionadas con su idoneidad para desempeñar el cargo para el que se le ha nombrado.
+c) Datos biográficos de la persona nombrada, destacándose aquellas actividades relacionadas con su idoneidad para desempeñar el cargo para el que se le ha nombrado o para cuya designación se propone.
 
-2. Recibida la designación correspondiente, la comisión ordinaria competente o la Diputación Permanente, en su caso, analizarán si la persona nombrada reúne los requisitos constitucionales y legales que se prevean para el desempeño del cargo. En caso afirmativo se propondrá fecha para que la persona nombrada asista a una reunión de trabajo con la comisión o la Diputación Permanente, en su caso.
+2. Recibida la designación o propuesta correspondiente, la comisión ordinaria competente o la Diputación Permanente, en su caso, analizarán si la persona nombrada reúne los requisitos constitucionales y legales que se prevean para el desempeño del cargo. En caso afirmativo se propondrá fecha para que la persona nombrada o propuesta asista a una reunión de trabajo con la comisión o la Diputación Permanente, en su caso.
 
-3. Si la determinación del análisis del cumplimiento de los requisitos constitucionales y legales es negativa, se hará la comunicación del caso a la Junta de Coordinación Política. En este supuesto, se presentará ante el órgano de gobierno o la instancia a quien compete la propuesta del caso, el resultado del análisis sobre la ausencia de cumplimiento de los requisitos constitucionales y legales, a fin de que se determine si se modifica la propuesta.
+3. Si la determinación del análisis del cumplimiento de los requisitos constitucionales y legales es negativa, se hará la comunicación del caso a la Junta de Coordinación Política. En este supuesto, se presentará ante el órgano de gobierno o la instancia a quien compete la designación o propuesta del caso, el resultado del análisis sobre la ausencia de cumplimiento de los requisitos constitucionales y legales, a fin de que se determine si se modifica la designación o la propuesta, según el caso.
 
-4. En el caso de nombramientos previstos en el párrafo 1 del artículo anterior, si la persona nombrada cumple con los requisitos constitucionales para desempeñar el cargo, se procederá a realizar una reunión de trabajo, que se sujetará al siguiente orden:
+4. En el supuesto de nombramientos previstos en el párrafo 1 del artículo anterior, si la persona nombrada o propuesta cumple con los requisitos constitucionales para desempeñar el cargo, se procederá a realizar una reunión de trabajo o entrevista, que se sujetará al siguiente orden:
 
-a) Presentación de los datos biográficos de la persona designada;
+a) Presentación de los datos biográficos de la persona designada o propuesta;
 
-b) Presentación, por parte del funcionario nombrado, de un documento general cuya lectura no excederá de 20 minutos, sobre su pensamiento y propuestas de actuación en el cargo para el que ha sido designado;
+b) Presentación, por parte del funcionario nombrado o de la persona propuesta, de un documento general cuya lectura no excederá de 20 minutos, sobre su pensamiento y planteamientos de actuación en el cargo para el que ha sido designado o propuesto;
 
-c) Preguntas y comentarios a cargo de los diputados que asistan a la reunión de trabajo y respuestas del funcionario designado, tendientes a aportar elementos de juicio sobre los conocimientos y la aptitud de la persona designada, y
+c) Preguntas y comentarios a cargo de los Diputados que asistan a la reunión de trabajo o entrevista y respuestas del funcionario designado o la persona propuesta, tendientes a aportar elementos de juicio sobre los conocimientos y la aptitud para el cargo respectivo; y
 
-d) Intervención general de 5 minutos para la exposición de conclusiones, en caso de solicitarlo el funcionario nombrado.
+d) Intervención general de 5 minutos para la exposición de conclusiones, en caso de solicitarlo el funcionario nombrado o propuesto.
 
-5. Con base en la reunión de trabajo referida en el párrafo anterior, la comisión competente o la Diputación Permanente emitirá el dictamen que proceda.
+5. Con base en la reunión de trabajo o entrevista referida en el párrafo anterior, la comisión competente o la Diputación Permanente emitirá el dictamen que proceda.
 
-6. En el caso de nombramientos previstos en el párrafo 2 del artículo anterior, si la persona nombrada cumple con los requisitos constitucionales y legales para desempeñar el cargo, se procederá a la formulación del dictamen correspondiente.
+6. En el caso de nombramientos previstos en el párrafo 2 del artículo anterior, si la persona nombrada cumple con los requisitos constitucionales y legales para desempeñar el cargo, se procederá a la formulación del dictamen correspondiente, sin necesidad de llevar a cabo la reunión de trabajo o entrevista.
+
+7. En el caso del nombramiento del Consejero Presidente y los Consejeros Electorales del Instituto Electoral de Tamaulipas se estará a lo dispuesto en el Código Electoral para el Estado de Tamaulipas, así como a lo previsto en los párrafos 1, incisos c) y d) y, en su caso, 4 del presente artículo.
+
+8. La designación del Contralor General del Instituto Electoral de Tamaulipas, se sujetará al siguiente procedimiento:
+
+a) Cuando se genere la vacante, o a más tardar 60 días antes de la conclusión del periodo para el que fue electo el Contralor General, la comisión ordinaria competente o la Diputación Permanente, emitirá una convocatoria pública a efecto de que los ciudadanos que cumplan con los requisitos constitucionales y legales estén en aptitud de poder ser considerados para ocupar el cargo.
+
+b) La convocatoria considerará las etapas y procedimientos para la designación o reelección correspondiente, ordenando su publicación en el Periódico Oficial del Estado y en diarios de circulación en la entidad.
+
+c) La comisión ordinaria competente o la Diputación Permanente realizará la evaluación preliminar de los documentos recibidos por los aspirantes, emitiendo un dictamen en el que se señalarán a los candidatos que cumplieron con los requisitos contenidos en la convocatoria para ser considerados en la etapa de entrevistas o reuniones de trabajo. Se deberá motivar y fundar la exclusión de los aspirantes que no sean considerados para acceder a dicha etapa.
+
+d) Agotadas las fases anteriores, se citará a los aspirantes a las reuniones de trabajo o entrevistas conforme a lo establecido en el párrafo 4 de este artículo. De ser necesario, las modalidades, duración y mecanismos de las referidas comparecencias serán determinadas mediante acuerdo emitido por la comisión ordinaria competente o la Diputación Permanente, según sea el caso.
+
+e) Concluida la etapa señalada en el inciso que antecede, la comisión ordinaria competente o la Diputación Permanente, según sea el caso, emitirá un dictamen final que concluirá con una propuesta de tres candidatos para el cargo.
+
+f) El dictamen final a que hace referencia el inciso que antecede, será sometido a votación de los miembros presentes del Pleno del Congreso del Estado, para, posteriormente, mediante votación por cédula, realizar la designación del Contralor General del Instituto Electoral de Tamaulipas con el voto de las dos terceras partes de sus miembros presentes.
+
+g) El Contralor General del Instituto Electoral de Tamaulipas que concluya su periodo y aspire a ser reelecto, podrá participar en el proceso a que hace referencia el presente párrafo, en los términos que para tal efecto señale la convocatoria respectiva.
 
 ###### ARTICULO 135.
 
@@ -1755,7 +1803,9 @@ c) La Auditoría Superior del Estado, si se trata de alguno de los integrantes d
 
 1. La Medalla al Mérito "Luis García de Arellano" es la presea instituida por el Congreso del Estado para honrar a las mujeres y hombres tamaulipecos que se hayan distinguido por sus servicios eminentes prestados al Estado, a la Patria o a la Humanidad.
 
-2. La Medalla al Mérito "Luis García de Arellano" se otorgará anualmente en sesión solemne que deberá celebrarse durante el primer periodo de sesiones ordinarias de cada año.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+2. La Medalla al Mérito "Luis García de Arellano" se otorgará anualmente en sesión solemne que deberá celebrarse durante el segundo periodo de sesiones ordinarias de cada año legislativo.
 
 3. La convocatoria correspondiente a la entrega de la presea será emitida, a más tardar, durante el mes de noviembre del año anterior a su entrega.
 
@@ -1839,9 +1889,11 @@ d) En votación económica inmediata, el Congreso determinará si se admite o no
 
 2. En el momento de rendir la protesta, el Gobernador del Estado, los diputados y demás asistentes deberán estar de pie. El presidente de la Mesa Directiva del Congreso permanecerá de pie mientras se rinde dicha protesta.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 151.
 
-Cuando se trate de la protesta constitucional que deba rendir algún diputado, un magistrado del Poder Judicial, un consejero electoral del Consejo Estatal Electoral, un magistrado del Tribunal Estatal Electoral, el Presidente de la Comisión de Derechos Humanos del Estado o de cualquier otro servidor público obligado a otorgarla ante el Congreso, el Presidente designará una comisión que lo introduzca y acompañe a salir del Recinto.
+Cuando se trate de la protesta constitucional que deba rendir algún Diputado, un Magistrado del Poder Judicial, el Consejero Presidente, un Consejero Electoral o el Contralor General del Instituto Electoral de Tamaulipas, el Presidente de la Comisión de Derechos Humanos del Estado o de cualquier otro servidor público obligado a otorgarla ante el Congreso, el Presidente designará una comisión que lo introduzca y acompañe a salir del Recinto.
 
 ###### ARTICULO 152.
 
@@ -2250,3 +2302,17 @@ P.O. 23 DE SEPTIEMBRE DE 2008.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y se publicará en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para efecto de ajustar los trabajos de la LX Legislatura del Congreso del Estado de Tamaulipas, que en la actualidad se encuentra desempeñando su ejercicio constitucional, se hace necesario contemplar el siguiente calendario transitorios (sic) para la conclusión de sus trabajos parlamentarios:
+
+a) En el segundo año de ejercicio, el primer periodo ordinario de sesiones iniciará el primero de febrero y concluirá quince de junio; y el segundo periodo iniciará el uno de septiembre, durando el tiempo necesario para tratar todos los asuntos de su competencia, sin que pueda extenderse más allá del día quince de diciembre; y
+
+b) En el tercer año de ejercicio, ambos periodos de sesiones se regirán por el calendario de labores señalado en el inciso que antecede.
+
+La realización de las actividades parlamentarias relacionadas con el año calendario, se llevarán a cabo en la misma época en que se venían efectuando.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
