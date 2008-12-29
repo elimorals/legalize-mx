@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-municipal-del-estado-de-morelos-6633"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2008-07-16"
+last_updated: "2008-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -1065,6 +1065,8 @@ Serán consideradas como vía pública, las vías de acceso a los predios, los p
 
 ### CAPITULO QUINTO. DE LOS SERVICIOS DE ALUMBRADO PUBLICO
 
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE INGRESOS DEL MUNICIPIO DE JUITEPEC, MORELOS PARA EL EJERCICIO FISCAL DEL AÑO 2009, PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2008, SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO, DURANTE EL EJERCICIO FISCAL DEL AÑO 2009; PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION, VER TRANSITORIO TERCERO.</small>
+
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 144.
@@ -1073,17 +1075,23 @@ Es objeto de este derecho la prestación del servicio de alumbrado público para
 
 Los ingresos que se perciban por este concepto se destinarán al pago, mantenimiento y mejoramiento del servicio de alumbrado público que proporcione el Ayuntamiento.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE INGRESOS DEL MUNICIPIO DE JUITEPEC, MORELOS PARA EL EJERCICIO FISCAL DEL AÑO 2009, PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2008, SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO, DURANTE EL EJERCICIO FISCAL DEL AÑO 2009; PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION, VER TRANSITORIO TERCERO.</small>
+
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 145.
 
 Son sujetos de este derecho los propietarios y poseedores de predios urbanos y rústicos ubicados en el área territorial Municipal.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE INGRESOS DEL MUNICIPIO DE JUITEPEC, MORELOS PARA EL EJERCICIO FISCAL DEL AÑO 2009, PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2008, SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO, DURANTE EL EJERCICIO FISCAL DEL AÑO 2009; PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION, VER TRANSITORIO TERCERO.</small>
+
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 146.
 
 La base para el cálculo de este derecho será la que se apruebe por el Congreso del Estado, a propuesta de los municipios, dentro de cada una de las leyes de ingresos municipales, respetando el principio de proporcionalidad y equidad que debe imperar entre el costo por el servicio que preste el municipio y la contraprestación que eroguen los ciudadanos.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE INGRESOS DEL MUNICIPIO DE JUITEPEC, MORELOS PARA EL EJERCICIO FISCAL DEL AÑO 2009, PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2008, SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO, DURANTE EL EJERCICIO FISCAL DEL AÑO 2009; PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION, VER TRANSITORIO TERCERO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
@@ -3416,6 +3424,14 @@ P.O. 16 DE JULIO DE 2008.
 Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas en lo que se opongan o de cualquier forma contravengan el presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2008.
+
+PRIMERO. SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE ORDENAMIENTO.
+
+SEGUNDO. PARA EL EJERCICIO FISCAL DEL AÑO 2009, SE SUSPENDE EL INICIO DE LA VIGENCIA DE LOS ARTÍCULOS 144 A 146 BIS DE LA LEY GENERAL DE HACIENDA MUNICIPAL PARA EL ESTADO DE MORELOS SE PRORROGA LA VIGENCIA DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 580, PUBLICADO EN EL PERIÓDICO OFICIAL TIERRA Y LIBERTAD NÚMERO 4577 DE FECHA 19 DE DICIEMBRE DEL AÑO 2007.
+
+TERCERO. LA PRESENTE LEY ENTRARÁ EN VIGOR A PARTIR DEL PRIMERO DE ENERO DEL AÑO DOS MIL NUEVE.
 
 ###### ARTÍCULO PRIMERO.
 
