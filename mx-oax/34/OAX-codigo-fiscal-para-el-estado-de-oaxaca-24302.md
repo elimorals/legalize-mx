@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-para-el-estado-de-oaxaca-24302"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-30"
-last_updated: "2007-12-29"
+last_updated: "2008-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO FISCAL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Oaxaca, el domingo 30 de diciembre de 2001.
 
@@ -791,9 +791,13 @@ En el supuesto de que las instancias o peticiones no reúnan los requisitos a qu
 
 Cuando la autoridad fiscal ante quien se presente la instancia o petición, advierta que alguna de éstas ostenta una firma notoriamente distinta de la que obra en el expediente administrativo en que se actúe, podrá ordenar la ratificación de la firma cuestionada. Si el promovente no se presentara dentro del plazo improrrogable de tres días, la promoción se tendrá también por no presentada.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 46.
 
-En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales, se hará mediante escritura pública o, mediante carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales, notario o fedatario público.
+En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales, se hará mediante escritura pública o mediante carta poder firmada ante dos testigos y ratificadas las firmas del otorgante, de quien recibe el poder y de los testigos ante las autoridades fiscales, notario o fedatario público, acompañando copia de la identificación del contribuyente o representante legal, previo cotejo con su original.
 
 No obstante la prevención anterior, los particulares o sus representantes podrán autorizar por escrito, a persona que en su nombre reciba notificaciones y acuerdos.
 
@@ -2005,11 +2009,21 @@ V Obligación solidaria asumida por tercero que compruebe su idoneidad y solvenc
 
 La garantía deberá comprender, además de las cantidades adeudadas y cuando así proceda, su correspondiente actualización y accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito o se extinga la causa que le dio origen, deberá actualizarse su importe cada año y ampliarse en su caso, para que cubra el crédito actualizado y el importe de los accesorios, incluso los correspondientes a los doce meses siguientes.
 
-Las autoridades fiscales que reciban las garantías, vigilarán que las mismas sean suficientes, tanto al momento de su aceptación, como con posterioridad. Si no lo fueren, exigirán su ampliación o procederán al secuestro de otros bienes, previo requerimiento para que sea ampliada la garantía otorgada y tomará las medidas necesarias para asegurar los intereses del fisco.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Las autoridades fiscales que reciban las garantías, vigilarán que las mismas sean suficientes, tanto al momento de su aceptación, como con posterioridad. Si no lo fueren, exigirán su ampliación o procederán al embargo de otros bienes, previo requerimiento para que sea ampliada la garantía otorgada y tomará las medidas necesarias para asegurar los intereses del fisco.
 
 Cuando se trate de garantía prendaria o hipotecaria, se estará al valor que fijen los peritos designados por las propias autoridades fiscales.
 
 En ningún caso las autoridades fiscales podrán dispensar el otorgamiento de la garantía.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+La garantía del interés fiscal deberá constituirse dentro de los quince días hábiles siguientes al en que surta efectos la notificación efectuada por la autoridad fiscal, correspondiente a la resolución sobre la cual se deba garantizar el interés fiscal.
 
 ###### ARTICULO 118.
 
@@ -2125,13 +2139,23 @@ Los vencimientos que ocurran durante el procedimiento, incluso recargos, gastos 
 
 #### SECCION SEGUNDA. DEL EMBARGO
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 124.
 
-La autoridad fiscal competente dictará mandamiento de ejecución cumpliendo con los requisitos previstos en el artículo 57 de este Código, en el que ordenará se requiera al deudor, para que efectúe el pago de su adeudo; apercibiéndole de que de no hacerlo, se le embargarán bienes suficientes de su propiedad y se continuará con el procedimiento administrativo de ejecución, hasta que se haya fincado el remate.
+La autoridad fiscal competente dictará mandamiento de ejecución, cumpliendo con los requisitos previstos por los artículos 57 de este Código y 7 de la Ley de Justicia Administrativa para el Estado de Oaxaca, en el que ordenará se requiera al deudor para que efectúe el pago de su adeudo; apercibiéndole que de no hacerlo, se continuara con el procedimiento administrativo de ejecución hasta que se haya fincado el remate, conforme a lo siguiente:
 
-Si la exigibilidad se origina por cese de la prórroga, o de la autorización de pagar en parcialidades y por error aritmético en las declaraciones, el deudor podrá efectuar el pago dentro de los seis días hábiles siguientes a la fecha en que surta sus efectos la notificación del requerimiento.
+I. A embargar bienes suficientes de su propiedad, para en su caso, rematarlos; enajenarlos fuera de subasta o adjudicarlos a favor del fisco estatal.
+
+II. A embargar negociaciones con todo lo que de hecho y por derecho les corresponda, a fin de obtener, mediante la intervención de ellas, los ingresos necesarios que permitan satisfacer el crédito fiscal y los accesorios legales.
+
+El embargo de bienes inmuebles; derechos reales o negociaciones de cualquier género se inscribirá en el registro público que corresponda en atención a la naturaleza de los bienes o derechos de que se trate.
+
+Cuando los bienes inmuebles, derechos reales o negociaciones queden comprendidos en la circunscripción territorial de dos o más oficinas del registro público que corresponda, en todas ellas se inscribirá el embargo.
+
+Si la exigibilidad se origina por cese de la prórroga, o de la autorización de pagar en parcialidades, por error aritmético en las declaraciones o por situaciones previstas en la fracción I del artículo 58 de este Código, el deudor podrá efectuar el pago dentro de los seis días hábiles siguientes a la fecha en que surta sus efectos la notificación del requerimiento de pago.
 
 ###### ARTICULO 125.
 
@@ -2155,19 +2179,41 @@ El servidor público designado para la práctica de la diligencia se constituir�
 
 Si la notificación del crédito adeudado o del requerimiento en su caso, se hizo por edictos, la diligencia se entenderá con la autoridad fiscal correspondiente de la circunscripción de los bienes, salvo que al momento de iniciarse la diligencia compareciere el deudor o su representante legal debidamente acreditado, en cuyo caso se entenderá con él.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 129.
 
-Los bienes o negociaciones embargadas quedarán bajo la guarda del depositario o depositarios que se hicieren necesarios. El servidor público que hubiere emitido el mandamiento de ejecución, bajo su responsabilidad, nombrará o removerá libremente a los depositarios, quienes desempeñarán su cargo hasta en tanto les sea revocado el nombramiento.
+Los bienes o negociaciones embargadas quedarán bajo la guarda del depositario o depositarios que se hicieren necesarios. El servidor público que hubiere emitido el mandamiento de ejecución, bajo su responsabilidad, nombrará o removerá libremente a los depositarios, quienes desempañarán (sic) su cargo hasta en tanto les sea revocado el nombramiento. Cuando se efectúe la remoción del depositario, este deberá poner a disposición de la autoridad ejecutora en el plazo de cinco días hábiles siguientes al en que surta efectos la notificación efectuada, los bienes que fueron objeto de la depositaría, pudiendo la autoridad ejecutora realizar la sustracción de los bienes para depositarlos en almacenes bajo su resguardo o entregarlos al nuevo depositario.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-En los embargos de bienes raíces o de negociaciones, los depositarios tendrán el carácter de administradores o de interventores con cargo a la caja, según sea el caso, debiendo regirse por lo establecido en este Código, y en su defecto, por las disposiciones del Código de Procedimientos Civiles para el Estado de Oaxaca.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+En los embargos de bienes inmuebles o de negociaciones, los depositarios tendrán el carácter de administradores o de interventores con cargo a la caja, según sea el caso, debiendo regirse por lo establecido en este Código y, en su defecto, por las disposiciones del Código de Procedimientos Civiles para el Estado de Oaxaca.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+En el caso de embargo de bienes inmuebles o de negociaciones, éste comprenderá la propiedad, posesión, los frutos, o productos de los mismos que por hecho y por derecho les corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Si las rentas, frutos o productos de esos bienes correspondientes a un año son suficientes para cubrir el crédito fiscal insoluto, los accesorios legales del mismo y, en su caso, los vencimientos causados durante ese mismo periodo, se cubrirá con ellos. En caso contrario, se procederá desde luego al remate de los bienes embargados. Lo mismo se hará cuando no se obtenga en el plazo establecido para tal efecto, el pago de las rentas o de los frutos o productos embargados.
 
 Si la negociación embargada fuera improductiva, la Secretaría de Finanzas del Gobierno del Estado podrá arrendarla a terceros, debidamente capacitados.
 
 En igualdad de circunstancias, será preferido para el arrendamiento el propio deudor, si la improductividad tuvo como origen causas no imputables a él.
 
-Cuando el embargo se hubiere trabado sobre bienes raíces, derechos reales, negociaciones de cualquier género o cualquier tipo de bienes sujetos a registro, se inscribirá en el registro público que corresponda, en atención a la naturaleza de los bienes o derechos de que se trate. En el caso de que estos bienes queden comprendidos en la jurisdicción de dos o más oficinas del indicado registro, en todas ellas se inscribirá el embargo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Cuándo el embargo se hubiere trabado sobre bienes inmuebles, derechos reales, negociaciones de cualquier género o cualquier tipo de bienes sujetos a registro, se inscribirá en el registro público que corresponda, en atención a la naturaleza de los bienes o derechos de que se trate. En el caso de que estos bienes queden comprendidos en la jurisdicción de dos o más oficinas del indicado registro, en todas ellas se inscribirá el embargo.
 
 El depositario será designado por el servidor público a quien se hubiere encomendado la práctica de la diligencia de embargo; si tal designación no constare en el mandamiento de ejecución, pudiendo recaer en el propio ejecutado.
 
@@ -2339,11 +2385,17 @@ Si el titular de los créditos embargados se rehusare a cumplir en el plazo indi
 
 Si el crédito es litigioso, se hará además saber del embargo al juez que conozca de la controversia, a efecto de que se abstenga de decretar o autorizar cualquier acto de disposición. El Ministerio Público asumirá, en este caso, las facultades que concede a los depositarios el Código de Procedimientos Civiles para el Estado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 138.
 
-Cuando se embarguen dinero, metales preciosos, acciones, bonos o cualquier otro título de crédito o de valores, así como alhajas u objetos de arte, el depositario los entregará inmediatamente, previo inventario, en la caja de la oficina ejecutora, la que conservará dichos valores bajo su más estricta responsabilidad, cuidando de hacer efectivos los títulos a su vencimiento. De lo anterior, se dejará constancia en el expediente de ejecución.
+Cuando se embarguen dinero, metales preciosos, acciones, bonos o cualquier otro título de crédito o de valores, así como alhajas u objetos de arte, el depositario los entregará dentro de un término que no excederá de veinticuatro horas, previo inventario, en la caja de la oficina ejecutora, la que conservará dichos valores bajo su mas estricta responsabilidad, cuidando de hacer efectivos los títulos a su vencimiento. De lo anterior, se dejará constancia en el expediente de ejecución.
 
-La aplicación de las sumas de dinero objeto de secuestro, así como el importe de los frutos y productos de los bienes secuestrados, o hasta el 35% de los ingresos diarios de las negociaciones embargadas, se aplicará en los términos del artículo 29 de este Código inmediatamente que se reciba en la caja de la oficina ejecutora.
+Tratándose de los demás bienes, el plazo para la entrega de los bienes embargados serán (sic) de cinco días hábiles contados a partir del día siguiente de la diligencia de embargo.
+
+Las sumas de dinero objeto del embargo, así como el importe de los frutos y productos de los bienes embargados, o hasta el 35% de los ingresos diarios de las negociaciones embargadas, se aplicarán a cubrir el crédito fiscal en los términos del artículo 29 de este Código, al momento de recibirse en la caja de la oficina ejecutora.
 
 ###### ARTICULO 139.
 
@@ -2874,3 +2926,7 @@ P.O. 29 DE DICIEMBRE DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del año 2008, previa publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- La Secretaría de Finanzas del Gobierno del Estado para la aplicación de los artículos 13 A, 26, 46 A, 46 B, 47 A y 69 A del Código Fiscal para el Estado de Oaxaca, publicará las Reglas de Carácter General a más tardar el 28 de febrero de 2008.
+
+P.O. 29 DE DICIEMBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2009, previa publicación en el Periódico Oficial del Gobierno del Estado.
