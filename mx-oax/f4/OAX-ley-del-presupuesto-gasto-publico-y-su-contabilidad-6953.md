@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-presupuesto-gasto-publico-y-su-contabilidad-6953"
 country: "mx"
 rank: "ley"
 publication_date: "1994-10-08"
-last_updated: "2007-09-05"
+last_updated: "2008-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL PRESUPUESTO, GASTO PUBLICO Y SU CONTABILIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 8 de octubre de 1994.
 
@@ -61,15 +61,21 @@ IV.- Los Organismos Descentralizados, Fideicomisos Públicos Estatales, Empresas
 
 A los Poderes, Instituciones, Dependencias, Organismos, Empresas y Fideicomisos citados, para los efectos de esta Ley se les denominará "Entidades".
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 3o.
 
-La programación del Gasto Público Estatal se basará en las directrices que establezca Ejecutivo Estatal, por conducto de la Secretaría de Finanzas, contenidas en el Plan Estatal de Desarrollo, atendiendo a los principios de equidad de género.
+La programación del Gasto Público Estatal, se basará en las directrices que establezca el Ejecutivo Estatal, por conducto de las Secretarías de Finanzas, de Administración y de la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, en el ámbito de sus respectivas competencias y de conformidad con los ordenamientos legales vigentes, contenidas en el Plan Estatal de Desarrollo, atendiendo a los principios de equidad de género.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 4o.
 
-Corresponderá a la Secretaría de Finanzas establecer los mecanismos operativos que permitan llevar a cabo el manejo de la información relacionada con las operaciones que afecten el Presupuesto de Egresos del Gobierno del Estado, hacerse cargo del registro y consolidación de las mismas y responsabilizarse de la formulación de los reportes en que se consignen los datos del compromiso y el ejercicio del Presupuesto autorizado por el Congreso del Estado.
+Corresponderá a la Secretaría de Finanzas, de Administración y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, en el ámbito de sus respectivas competencias y de conformidad con los ordenamientos legales vigentes, establecer los mecanismos operativos que permitan llevar a cabo el manejo de la información relacionada con las operaciones que afecten el Presupuesto de Egresos del Gobierno del Estado, hacerse cargo del registro y consolidación de las mismas y responsabilizarse de la formulación de los reportes en que se consignen los datos del compromiso y el ejercicio del Presupuesto autorizado por el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
 
@@ -91,9 +97,13 @@ Sólo se podrán constituir o incrementar fideicomisos de los señalados en el a
 
 Sólo se podrán contratar empréstitos para financiar programas incluídos en el Presupuesto de Egresos del Gobierno del Estado y para las entidades a que se refiere el artículo 2o. de esta Ley, por conducto de la Secretaría de Finanzas y, en todos los casos, se requerirá la aprobación del Congreso del Estado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 9o.
 
-El Ejecutivo del Estado, a través de la Secretaría de Finanzas proporcionará al Congreso del Estado la información que le sea requerida para la mejor comprensión y estudio de los programas contenidos en el proyecto de Presupuesto de Egresos del Estado.
+El Ejecutivo del Estado, a través de las Secretarias de Finanzas, de Administración y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, en el ámbito de sus respectivas competencias y de conformidad con los ordenamientos legales vigentes, proporcionarán al Congreso del Estado la información que le sea requerida para la mejor comprensión y estudio de los programas contenidos en el proyecto de Presupuesto de Egresos del Estado.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
 
@@ -109,9 +119,11 @@ El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y la Secreta
 
 El gasto público estatal se basará en presupuestos formulados para cada año de calendario, que incluirán el señalamiento de programas, su vinculación y coordinación específica con el Plan Estatal de Desarrollo, el enunciado de objetivos, acciones, metas, costos y unidades responsables de su ejecución. Los programas en todos los casos incorporarán la perspectiva de género desde el diseño y ejecución hasta la evaluación.
 
-###### Artículo 12.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-La Secretaría de Finanzas durante el proceso de formulación del presupuesto de egresos definirá el tipo y fuente de recursos que se requieran para el financiamiento de cada programa.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Artículo 12,- las Secretarías de Finanzas, de Administración, y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, en el ámbito de sus respectivas competencias y de conformidad con los ordenamientos legales vigentes, durante el proceso de formulación del presupuesto de egresos, definirán el tipo y fuente de recursos que se requieran para el financiamiento de cada programa.
 
 ###### Artículo 13.
 
@@ -143,7 +155,11 @@ Para la formulación del proyecto de Presupuesto de Egresos del Estado, las enti
 
 Las entidades remitirán su respectivo anteproyecto a la Secretaría de Finanzas, con sujeción a las normas, montos y plazos que el Ejecutivo establezca por medio de la propia Secretaría. Las normas y plazos se establecerán a través del Manual para la programación-presupuestación que emita cada año la Secretaría de Finanzas, para tal fin.
 
-La Secretaría de Finanzas está facultada para formular el anteproyecto del Presupuesto de Egresos de las Entidades, cuando no le sea presentado en los plazos que al efecto se les hubiere señalado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Las Secretarias de Finanzas, de Administración, y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca en el ámbito de sus respectivas competencias y de conformidad con los ordenamientos legales vigentes, están facultadas para formular el anteproyecto del Presupuesto de Egresos de las Entidades, cuando no les sea presentado en los plazos que al efecto se les hubiere señalado
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
 
@@ -179,29 +195,43 @@ El Presupuesto de Egresos del Estado será publicado en el Periódico Oficial de
 
 ### CAPITULO III. DEL EJERCICIO DEL GASTO PUBLICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 20.
 
-El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas, podrá asignar los recursos que se obtengan en exceso a lo previsto en la Ley de Ingresos del Estado, ya sea por participaciones, ingresos extraordinarios, productos financieros y recaudación de ingresos propios, a los programas que estime convenientes, autorizará el traspaso de partidas cuando sea procedente e igualmente, en casos extraordinarios, queda facultado para traspasar las partidas que se requieran, dando prioridad a aquellos destinados a grupos poblacionales en situación de desventaja y a los que incorporen acciones afirmativas tendientes a construir la equidad de género.
+El Ejecutivo Estatal, por conducto de las Secretarías de Finanzas, de Administración, y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, en el ámbito de sus respectivas competencias y de conformidad con los ordenamientos legales vigentes, podrán asignar los recursos que se obtengan en exceso a lo previsto en la Ley de Ingresos del Estado, ya que por participaciones, ingresos extraordinarios, productos financieros y recaudación de ingresos propios, a los programas que estimen convenientes, autorizarán el traspaso de partidas cuando sea procedente e igualmente, en casos extraordinarios, queda facultado para traspasar las partidas que se requieran, dando prioridad a aquellos destinados a grupos poblacionales en situación de desventaja y a los que incorporen acciones afirmativas tendientes a construir la equidad de género.
 
 El Gasto Público Estatal deberá ajustarse al monto autorizado para los programas y partidas presupuestales, salvo que se trate de las partidas que se señalen como de ampliación automática en los presupuestos.
 
 El Ejecutivo del Estado determinará la forma en que deberán invertirse las participaciones que otorgue a las Instituciones Públicas o Particulares, quienes proporcionarán a la Secretaría de Finanzas la información que se les solicite sobre la aplicación que hagan de los mismos. Las transferencias a Municipios se llevarán a cabo de acuerdo a la Ley respectiva.
 
-El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y de conformidad con los ordenamientos legales vigentes, efectuará reducciones, diferimientos o cancelaciones de programas y conceptos de gasto de los presupuestos aprobados a las Dependencias y Entidades, cuando se presenten contingencias que repercutan en una disminución de los ingresos previstos o por erogaciones extraordinarias de carácter social.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+El Ejecutivo Estatal, por conducto de las Secretarías de Finanzas, de Administración y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, en el ámbito de sus respectivas competencias y de conformidad con los ordenamientos legales vigentes, efectuarán adecuaciones presupuestarias de programas y conceptos de gasto de los presupuestos aprobados a las Dependencias y Entidades, cuando se presenten contingencias que repercutan en una disminución de los ingresos previstos o por erogaciones extraordinarias de carácter social.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
 
 Para los efectos del párrafo anterior, deberán tomarse en cuenta las circunstancias económicas y sociales que priven en el país y el Estado analizando particularmente a aquellas que se refieran a grupos en desventaja así como las de equidad de género, los alcances de los conceptos de gasto y, en su caso, la naturaleza y características particulares de operación de las entidades de que se trate, escuchando la opinión de los y las titulares de las propias dependencias y entidades.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Los ajustes y reducciones que efectúe el Ejecutivo Estatal en observancia de lo anterior, deberán realizarse en forma colectiva, sin afectar los programas prioritarios del gasto social y, en general, los programas estratégicos, optando preferentemente en los casos de programas de inversión por aquellos de menor productividad e impacto social y económico, esta afectación tampoco opera en programas cuya aplicación esté orientada a la construcción de la equidad de género y de programas de inversión.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Los ajustes y reducciones que efectúe el Ejecutivo Estatal por conducto de las Secretarías de Finanzas, de Administración y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, en el ámbito de sus respectivas competencias y de conformidad con los ordenamientos legales vigentes y en observancia de lo anterior, deberán realizarse en forma selectiva, sin afectar los programas prioritarios del gasto social y, en general, los programas estratégicos, optando preferentemente en los casos de programas de inversión por aquellos de menor productividad e impacto social y económico; esta afectación tampoco opera en programas cuya aplicación esté orientada a la construcción de la equidad de género y de programas de inversión.
 
 > <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
 
 Sin menoscabo de lo anteriormente señalado, el Ejecutivo Estatal, con cargo a los recursos a que se refiere el primer párrafo del presente artículo, deberá efectuar el pago de las obligaciones del Estado asumidas conforme a lo previsto por el artículo 5 párrafo cuarto, de la Ley de Deuda Pública Estatal y Municipal. En caso de que los recursos disponibles no sean suficientes para el pago total de dichas obligaciones en el año calendario correspondiente, la partida relativa para el pago de las cantidades restantes deberá incluirse en el Presupuesto de Egresos del año calendario siguiente, considerando en todo caso las posibilidades financieras del Estado, debiendo conservarse las directrices de la programación del gasto público estatal, la estructura y el equilibrio presupuestal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Se autoriza al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, dar cumplimiento a resoluciones de pago que impongan al Estado las autoridades federales o estatales competentes, relativas a devolución en materia de amparo, en controversias constitucionales, compensaciones, requerimientos de pago en materia fiscal, reintegros de impuestos, laudos, auditorías, reintegros de recursos relativos a convenios de colaboración, coordinación y reasignación de recursos de programas federales, Indemnizaciones, productos financieros y, economías; entre otros; lo anterior, independientemente que las responsabilidades en que incurran los servidores públicos correspondientes y de las sanciones a que éstos se hagan acreedores.
 
 ###### Artículo 21.
 
@@ -223,11 +253,13 @@ Todas las entidades a que se refiere el artículo 2o. de esta Ley informarán a 
 
 Los pagos de adeudos de ejercicios fiscales anteriores, sólo procederán por conceptos efectivamente devengados en el año que corresponda y siempre que se hubieren contabilizado debida y oportunamente las operaciones correspondientes y, en su caso, se hubiere presentado el informe a que se refiere el artículo anterior.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 25.
 
-En casos excepcionales y debidamente justificados el Ejecutivo, por conducto de la Secretaría de Finanzas, podrá autorizar asignaciones presupuestales mayores a las aprobadas para el año, pero en estos casos los compromisos excedentes no cubiertos quedarán sujetos, para los fines de su ejecución y pago, a las disponibilidades de los años siguientes. Estas autorizaciones se darán especialmente cuando se trate de proteger mediante la aplicación de acciones afirmativas orientados (sic) a construir la equidad de género.
+En casos excepcionales y debidamente justificados el Ejecutivo, por conducto de las Secretarías de Finanzas, de Administración y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, en el ámbito de sus respectivas competencias y de conformidad con los ordenamientos legales vigentes, podrán autorizar asignaciones presupuestales mayores a las aprobadas para el año, pero en estos casos los compromisos excedentes no cubiertos quedarán sujetos, para los fines de su ejecución y pago, a las disponibilidades de los años siguientes. Estas autorizaciones se darán especialmente cuando se trate de proteger mediante la aplicación, de acciones afirmativas orientadas a construir la equidad de género
 
 ###### Artículo 26.
 
@@ -265,9 +297,13 @@ Autorizados los programas, la responsabilidad en el manejo de los presupuestos, 
 
 Quedará a cargo de la Secretaría de Finanzas cubrir el valor de los compromisos contraídos por las Entidades con base en el Presupuesto autorizado y ministrarles, en los casos que se requieran los recursos necesarios.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 31.
 
-La Secretaría de Finanzas llevará a cabo la evaluación del comportamiento de cada una de las Entidades en materia de compromiso y ejercicio del presupuesto.
+Las Secretarías de Finanzas de Administración y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, en el ámbito de sus respectivas competencias y de conformidad con los ordenamientos legales vigentes, llevarán a cabo la evaluación del comportamiento de cada una de las Entidades en materia de compromiso y ejercicio del presupuesto.
 
 ###### Artículo 32.
 
@@ -448,3 +484,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 5 DE SEPTIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE DICIEMBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2009, previa publicación en el Periódico Oficial del Gobierno del Estado.
