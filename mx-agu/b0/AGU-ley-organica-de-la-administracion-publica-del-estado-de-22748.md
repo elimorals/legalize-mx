@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-22748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-11-08"
-last_updated: "2006-09-11"
+last_updated: "2008-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el jueves 8 de noviembre de 2001.
 
@@ -52,6 +52,24 @@ El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien ten
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2003)</small>
 
 Las entidades paraestatales, forman parte de la Administración Pública del Estado y se regirán por la Ley de Control de Entidades Paraestatales, las leyes, decretos o acuerdos que los crearon y sus reglamentos, así como por las demás leyes o decretos en el ámbito de su competencia y atribuciones.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 2º bis.- El Gobernador del Estado a través de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, promoverá y cuidará se cumplan los siguientes principios estratégicos:
+
+I. legalidad, honradez, lealtad, imparcialidad, eficiencia y eficacia que deben observarse en el desempeño de los empleos, cargos o comisiones del servicio público y en la administración o planeación de los recursos económicos de que disponga el Gobierno del Estado;
+
+II. Simplificación, agilidad, accesibilidad, economía, información, precisión, legalidad, transparencia e imparcialidad en los procedimientos y actos administrativos en general;
+
+III. Cobertura amplia, oportuna, ágil y especializada de los servicios de seguridad pública y procuración de justicia para la protección de las personas, sus familias y sus bienes, sin distinción de género alguna;
+
+IV. Observancia, respeto y atención de recomendaciones por las autoridades y en general, por los servidores públicos que ejerzan autoridad local en el Estado, respecto de los derechos humanos y de la igualdad sustantiva entre mujeres y hombres que establece el orden jurídico mexicano;
+
+V. La no discriminación, la autodeterminación y libertad de las mujeres, el respeto a la dignidad de las mujeres, el pluralismo social y la multiculturalidad de las mujeres, y la perspectiva de género que permite incorporar a la mujer como sujeto social;
+
+VI. La conjugación de acciones de desarrollo con políticas y normas de seguridad y de protección a los elementos del medio ambiente social; y
+
+VII. La juridicidad de los actos de gobierno, la revisión y adecuación de la organización de la administración, la programación de su gasto y el control de su ejercicio con la perspectiva de género que sea procedente.
 
 ###### ARTICULO 3º.
 
@@ -141,6 +159,12 @@ El Gobernador del Estado podrá constituir Comisiones Intersecretariales, para l
 
 Los instrumentos legales a que se refiere el presente artículo deberán publicarse en el Periódico Oficial del Estado de Aguascalientes.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 11 bis.- Corresponde al titular del Poder Ejecutivo Estatal, la armonización normativa de los diversos ordenamientos internacionales que México, ha suscrito y ratificado, en materia de discriminación y violencia de género, así como de atención a víctimas del delito y que de conformidad con lo dispuesto por el Articulo 133 de la Constitución Política de los Estados Unidos Mexicanos, forma parte del derecho interno del Estado Mexicano.
+
+Para los efectos del presente Artículo se entiende por armonización normativa, el proceso mediante el cual las disposiciones contenidas en los instrumentos internacionales, son materializadas en reglamentos, acuerdos, circulares y demás normas que expida el Ejecutivo en uso de sus facultades reglamentarias.
+
 ###### ARTICULO 12.
 
 Para la atención de los asuntos del Poder Ejecutivo en el Distrito Federal, el Gobernador del Estado se auxiliará de las unidades de apoyo que estimare necesarias.
@@ -175,9 +199,11 @@ Los titulares de las dependencias a que se refiere esta Ley podrán delegar en s
 
 Para el eficiente despacho de los asuntos de su competencia las dependencias del Ejecutivo, por acuerdo del Gobernador del Estado, podrán contar con órganos administrativos desconcentrados que les estarán jerárquicamente subordinados, y tendrán facultades específicas para resolver sobre la materia o dentro del ámbito territorial que se determine en cada caso.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 20.
 
-Los titulares de las dependencias del Poder Ejecutivo, formularán anteproyectos de leyes, reglamentos, decretos y acuerdos de las materias que correspondan a sus competencias y los remitirán al Gobernador del Estado a través de la Secretaría General de Gobierno.
+Los titulares de las Dependencias del Poder Ejecutivo, formularán anteproyectos de leyes, reglamentos, decretos y acuerdos de las materias que correspondan a sus competencias, con base en la igualdad sustantiva, y los remitirán al Gobernador del Estado a través de la Secretaría General de Gobierno. Siendo corresponsables de la armonización normativa de carácter ejecutiva, prevista en el Artículo 11 bis, de la presente ley.
 
 > <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
 
@@ -237,7 +263,9 @@ IV. Firmar en conjunto con el Gobernador del Estado todos los despachos que expi
 
 V. Fomentar el desarrollo político, mediante la dirección y promoción de programas y acciones que fortalezcan la vida democrática estatal;
 
-VI. Desarrollar y dirigir programas tendientes a incrementar los niveles de participación ciudadana y de cultura política;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+VI. Desarrollar y dirigir programas tendientes a incrementar los niveles de participación ciudadana, de cultura jurídica, cultura de la legalidad y de cultura política;
 
 VII. Vigilar el cumplimiento de los reglamentos, acuerdos, órdenes, circulares y demás disposiciones del Poder Ejecutivo;
 
@@ -263,9 +291,13 @@ XVII. Proporcionar asesoría jurídica cuando el Gobernador del Estado así lo a
 
 XVIII. Coordinar los programas de normatividad jurídica de la Administración Pública Estatal que apruebe el Gobernador del Estado, y procurar la congruencia de los criterios jurídicos de las dependencias y entidades;
 
-XIX. Presidir la Coordinación Jurídica Gubernamental, integrada por los responsables de las unidades de asuntos jurídicos de las dependencias y entidades de la Administración Pública Estatal, la que tendrá por objeto la coordinación en materia jurídica entre las mismas;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-XX. Coordinar a las dependencias y entidades del Poder Ejecutivo en la revisión, actualización y simplificación del orden normativo jurídico;
+XIX. Presidir la Coordinación Jurídica Gubernamental, integrada por los responsables de las unidades de asuntos jurídicos de las dependencias y entidades de la Administración Pública Estatal, la que tendrá por objeto la coordinación en materia jurídica entre las mismas y el impulso a la armonización normativa que se señala en la presente Ley;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+XX. Coordinar a las dependencias y entidades del Poder Ejecutivo en la revisión, actualización y simplificación del orden normativo jurídico, evaluando la aplicación de ésta en particular en materia de igualdad sustantiva;
 
 XXI. Prestar apoyo y asesoría en materia técnico jurídica a las dependencias y entidades de la Administración Pública Estatal o a los Municipios que lo soliciten, sin perjuicio de sus competencias;
 
@@ -315,19 +347,57 @@ XLIII. Intervenir en el auxilio o coordinación con las autoridades federales a 
 
 > <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-XLIV.- Facilitar los medios para dar solución voluntaria a controversias entre particulares a través de mecanismos innovadores de solución de conflictos;
+XLIV. Facilitar los medios para dar solución voluntaria a controversias entre particulares a través de mecanismos innovadores de solución de conflictos;
 
 > <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
 
-XLV.- Elaborar, en coordinación con la Secretaría de Seguridad Pública, la propuesta al Gobernador del Estado de los planes y programas relativos a la seguridad de los habitantes y el orden público, así como tramitar por acuerdo del Gobernador del Estado las solicitudes de indulto y libertad anticipada;
+XLV. Elaborar, en coordinación con la Secretaría de Seguridad Pública, la propuesta al Gobernador del Estado de los planes y programas relativos a la seguridad de los habitantes y el orden público, así como tramitar por acuerdo del Gobernador del Estado las solicitudes de indulto y libertad anticipada;
 
 XLVI. (DEROGADA, P.O. 21 DE MARZO DE 2005)
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 XLVII. Ejercer las atribuciones y facultades que le señalen las demás leyes, convenios, acuerdos, reglamentos y ordenamientos de carácter general;
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-XLVIII.- Supervisar los trabajos del Centro de Control y Evaluación de la Actividad Policial, cuyos dictámenes se turnarán a las dependencias competentes para el análisis y sanción que corresponda en su caso.
+XLVIII. Supervisar los trabajos del Centro de Control y Evaluación de la Actividad Policial, cuyos dictámenes se turnarán a las dependencias competentes para el análisis y sanción que corresponda en su caso;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+XLIX. Diseñar la política integral con perspectiva de género, de manera transversal, incorporando las acciones que sean necesarias;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+L. Elaborar el Programa Estatal para prevenir, atender, sancionar y erradicar la violencia contra las mujeres en coordinación con las demás autoridades competentes;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+LI. Ejecutar y dar seguimiento en colaboración con el Instituto Aguascalentense de las Mujeres y demás dependencias involucradas al Programa Estatal para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, evaluando su eficacia;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+LII. Rediseñar las acciones, medidas y modelos necesarios para avanzar en la atención de quienes reciben la violencia de género, en sus diferentes ámbitos y tipos con arreglo a la Ley;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+LIII. Formular las bases para la coordinación entre las autoridades estatales y municipales para la ejecución del Programa Estatal para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, con apoyo a lo dispuesto en la Ley Municipal del Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+LIV. Rendir en el informe anual de Gobierno, sobre los avances de los programas locales, en materia de igualdad de género, ante el Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+LV. Proporcionar a las unidades encargadas de realizar estadísticas, la información necesaria para la elaboración de éstas;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+LVI. Adherirse a los protocolos o acuerdos específicos sobre violencia de género que se considere procedente; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+LVII. Garantizar la evaluación anual, en materia de igualdad y género, de los servicios y servidores públicos del Estado.
 
 ###### ARTICULO 25.
 
@@ -355,7 +425,9 @@ ARTICULO 26 C.- A la Secretaría de Seguridad Pública le corresponde el despach
 
 I.- Mantener el orden público y la paz social en el Estado y preservar la integridad, bienes y derechos de las personas;
 
-II.- Elaborar, en coordinación con la Secretaría General de Gobierno, los planes y programas relativos a la Seguridad de los habitantes, al orden público, a la reeducación y a la prevención de los hechos delictivos, para someterlos a consideración del Titular del Ejecutivo, así como vigilar el cumplimiento estricto de las disposiciones legales relativas a la seguridad pública;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+II. Elaborar, en coordinación con la Secretaría General de Gobierno, los planes y programas relativos a la Seguridad de los habitantes, al orden público, a la reeducación y a la prevención de los hechos delictivos, incluyendo los Programas Psicoterapéuticos Reeducativos de quienes cometen violencia familiar, para someterlos a consideración del Titular del Ejecutivo, así como vigilar el cumplimiento estricto de las disposiciones legales relativas a la seguridad pública;
 
 III.- Establecer y ejecutar políticas, normas, convenios y programas que se deriven de la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública;
 
@@ -389,7 +461,9 @@ XVII.- Coadyuvar y colaborar con las autoridades competentes encargadas de la pr
 
 XVIII.- Prevenir los delitos y las infracciones administrativas en el ámbito de su competencia;
 
-XIX.- Diseñar, implementar, desarrollar y evaluar lineamientos de la política del Estado para prevenir el delito;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+XIX. Diseñar, implementar, desarrollar y evaluar programas, políticas y lineamientos para la prevención del delito;
 
 XX.- Diseñar, coordinar y evaluar, programas y acciones de cultura para la prevención del delito, promoviendo la participación ciudadana;
 
@@ -441,9 +515,37 @@ XXXVIII.- Ejecutar las resoluciones emitidas por el Consejo de Honor y Justicia 
 
 XXXIX.- Expedir disposiciones que sean de utilidad para mejorar los servicios de seguridad pública y proponerlas en materia de seguridad privada;
 
-XL.- Expedir manuales de organización y procedimientos y demás ordenamientos necesarios para el funcionamiento de la dependencia; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-XLI.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, en convenios, contratos o cualquier tipo de acuerdo.
+XL. Expedir manuales de organización y procedimientos y demás ordenamientos necesarios para el funcionamiento de la dependencia;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+XLI. Diseñar, implementar, desarrollar y evaluar programas políticos y lineamientos para la prevención, atención y erradicación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+XLII. Establecer agrupamientos o secciones de la policía preventiva especializados en materia de violencia e género;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+XLIII. Establecer un programa anual de capacitación y entrenamiento para los diversos cuerpos policíacos, a efecto de que estén en aptitud y actitud de atender a las mujeres víctimas de la violencia;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+XLIV. Implementar, desarrollar y evaluar, auxiliar y supervisar en su caso la implementación de las órdenes de protección preventivas y emergentes que sean procedentes, conforme a las disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+XLV. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+XLVI. Realizar un programa de monitoreo de zonas de violencia de género arraigada o femineidad, en coordinación con el Instituto Aguascalentense de las Mujeres; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+XLVII. Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, en convenios, contratos o cualquier tipo de acuerdo.
 
 > <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
 
@@ -545,7 +647,9 @@ XXXII. Administrar el catastro de los bienes inmuebles ubicados en el territorio
 
 XXXIII. Representar al Poder Ejecutivo en materia fiscal y catastral, e intervenir cuando se afecte a la Hacienda Pública, ante los Tribunales, así como ante autoridades administrativas y fiscales, federales, estatales y municipales en su caso, y coadyuvar con las dependencias y entidades del Poder Ejecutivo, en las mismas materias;
 
-XXXIV. (DEROGADA, P.O. 21 DE MARZO DE 2005)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+XXXIV. Recabar los conceptos del Fondo que establece la Ley de Atención y Protección a la Victima y Ofendido para el Estado de Aguascalientes;
 
 XXXV. (DEROGADA, P.O. 21 DE MARZO DE 2005)
 
@@ -601,7 +705,9 @@ III.- Formalizar el ingreso y llevar los controles administrativos del personal 
 
 IV.- Analizar, para su propuesta, el Tabulador de Sueldos y Salarios que se aplicará en las Dependencias de la Administración Pública Estatal, así como el que se aplique en las Entidades;
 
-V.- Instrumentar y ejecutar el Servicio Civil de Carrera;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+V.- Instrumentar y ejecutar el Servicio Civil de Carrera, evaluando en todo momento las actitudes de quienes lo conformen, las cuales estarán libres de cualquier tipo de discriminación;
 
 VI.- Integrar, elaborar y remitir a la Secretaría de Finanzas para su pago, la nómina de los servidores públicos de las dependencias de la Administración Pública Estatal, efectuando las retenciones fiscales y practicando los descuentos que legalmente correspondan;
 
@@ -639,99 +745,59 @@ La representación de la Secretaría de Desarrollo Social y el trámite y resolu
 
 El Subsecretario y Directores Generales, en la materia de su competencia, suplirán en sus ausencias temporales al Secretario de Desarrollo Social, y tendrán las atribuciones, funciones y responsabilidades que el Secretario o los Reglamentos les asignen.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 32.
 
 A la Secretaría de Desarrollo Social corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+I. Formular, conducir y evaluar la política general de desarrollo social;
 
-I.- Formular, conducir y evaluar la política general de desarrollo social;
+II. Elaborar los programas estatales especiales que le señale el Gobernador del Estado tomando en cuenta las propuestas que para el efecto realizan las dependencias y entidades de la Administración Pública del Estado y los Gobiernos Municipales, así como autorizar las acciones e inversiones convenidas con los Municipios, en coordinación con la Secretaría de Finanzas;
 
-II. (DEROGADA, P.O. 21 DE MARZO DE 2005)
+III. Evaluar la aplicación de las transferencias de fondos a favor de los municipios y de los sectores social y privado que se deriven de las acciones e inversiones convenidas en los términos de las fracciones anteriores;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+IV. Coordinar, concertar y ejecutar programas especiales para la atención de las personas que se encuentren en estado de riesgo, vivan discriminación o algún tipo de violencia, para promover un desarrollo económico con sentido social;
 
-III.- Elaborar los programas estatales especiales que le señale el Gobernador del Estado tomando en cuenta las propuestas que para el efecto realizan las dependencias y entidades de la Administración Pública del Estado y los gobiernos municipales, así como autorizar las acciones e inversiones convenidas con los municipios, en coordinación con la Secretaría de Finanzas;
+V. Coordinar y ejecutar junto con la Secretaria de Desarrollo Económico, la política estatal para crear y apoyar empresas que vinculen a personas en estado de riesgo, de indefensión, o vivan algún tipo de violencia o discriminación incluyendo la de género;
 
-IV. Evaluar la aplicación de las transferencias de fondos a favor de los municipios y de los sectores social y privado que se deriven de las acciones e inversiones convenidas en los términos de las fracciones anteriores;
+VI. Promover las condiciones que aseguren el disfrute de los derechos sociales, individuales y colectivos, garantizando el acceso a los Programas de Desarrollo Social, la igualdad sustantiva y un medio ambiente libre de cualquier tipo de violencia, para elevar la calidad de vida a través de la educación, la salud, la alimentación, la generación de empleo e ingreso y la capacitación;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+VII. Elaborar diagnósticos en coordinación con el Instituto Aguascalentense de las Mujeres y con las dependencias y entidades públicas del Estado, los ayuntamientos y los comités comunitarios sobre la situación de las comunidades, de las mujeres, de quienes ejercen violencia en la familia y grupos sociales en riesgo, así como evaluar el impacto social de los programas implementados considerando los diversos indicadores de gestión y de evaluación;
 
-V.- Coordinar, concertar y ejecutar programas especiales para la atención de las personas socialmente vulnerables, para promover un desarrollo económico con sentido social;
+VIII. Promover y concertar conjuntamente con la Secretaría de Planeación y Desarrollo Regional, los programas de mejoramiento de vivienda, para elevar la calidad de vida de las personas socialmente vulnerables;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+IX. Fomentar la organización de sociedades de participación de vivienda y materiales de construcción en coordinación con el Gobierno Federal;
 
-VI.- Coordinar y ejecutar junto con la Secretaría de Desarrollo Económico, la política estatal para crear y apoyar empresas que vinculen a personas socialmente vulnerables;
+X. Realizar acciones de socialización, entrenamiento, apoyo y esparcimiento, así como la realización de trámites gubernamentales, con la finalidad de acercar estos servicios a quienes no tienen acceso a ellos, sin que se constituya como una autoridad intermedia entre el Gobierno del Estado y los Ayuntamientos;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+XI. Facilitar las oportunidades de ingreso para personas socialmente en estado de riesgo, mediante la generación de destrezas, valoradas por el mercado y el crecimiento comercial o productivo;
 
-VII.- Promover las condiciones que aseguren el disfrute de los derechos sociales, individuales y colectivos, garantizando el acceso a los programas de desarrollo social, para elevar la calidad de vida a través de la educación, la salud, la alimentación, la generación de empleo e ingreso y la capacitación;
+XII. Facilitar los medios para elevar la calidad de vida de las personas a través de programas de superación personal, autoestima e inteligencia emocional, apegados a las condiciones particulares de quienes viven en desventaja y se encuentren en algún estado de riesgo o indefensión;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+XIII. Promover y apoyar conjuntamente con la Secretaría de Planeación y Desarrollo Regional, los mecanismos de financiamiento para el bienestar social, el desarrollo regional, urbano y rural;
 
-VIII.- Elaborar diagnósticos en coordinación con las dependencias y entidades públicas del Estado, los Ayuntamientos y los Comités Comunitarios sobre la situación de las comunidades y grupos sociales vulnerables, así como evaluar el impacto social de los programas implementados considerando los diversos indicadores de gestión;
+XIV. Promover la construcción de obras de infraestructura y equipamiento para el desarrollo regional, con lo cual se pretende el bienestar social y la protección de la familia y sus diversos integrantes, fomentando en todo momento la democracia y la igualdad sustantiva en este núcleo social;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+XV. Fomentar la participación de instituciones académicas, de investigación, de organizaciones nacionales e internacionales, gubernamentales y no gubernamentales y de la sociedad en general, en el desarrollo e implementación de estrategias para superar rezagos sociales, eliminado cualquier tipo de violencia de género o discriminación e impulsar el bienestar de la población;
 
-IX.- Promover y concertar conjuntamente con la Secretaría de Planeación y Desarrollo Regional los programas de mejoramiento de vivienda, para elevar la calidad de vida de las personas socialmente vulnerables;
+XVI. Suscribir los convenios en materia de Desarrollo Social que puedan ser instrumento de vinculación entre la Secretaría, la iniciativa privada y las organizaciones civiles nacionales e internacionales o cualquier clase de organismo lícito que pueda coadyuvar, con el cumplimiento de los programas, acciones e inversiones en materia de desarrollo social;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+XVII. Ejercer las atribuciones y facultades que la señalen las demás leyes, reglamentos y ordenamientos de carácter general, en convenios, contratos o cualquier tipo de acuerdo;
 
-X.- Fomentar la organización de sociedades de participación de vivienda y materiales de construcción en coordinación con el Gobierno Federal;
+XVIII. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos, para garantizarles una vida libres le violencia;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+XIX. Formular la política de desarrollo social del Estado considerando el adelanto de las mujeres y su plena participación en todos los ámbitos de la vida;
 
-XI.- Realizar acciones de socialización, entrenamiento, apoyo y esparcimiento, así como la realización de trámites gubernamentales, con la finalidad de acercar estos servicios a quienes no tienen acceso a ellos, sin que se constituya como una autoridad intermedia entre el Gobierno del Estado y los Ayuntamientos;
+XX. Realizar acciones tendientes a mejorar las condiciones de familias que se encuentren en situación de exclusión y de pobreza;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+XXI. Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, para lograr la eliminación de las brechas y desventajas de género;
 
-XII.- Facilitar las oportunidades de ingreso para personas socialmente vulnerables mediante la generación de destrezas, valoradas por el mercado y el crecimiento comercial o productivo;
+XXII. Promover políticas de prevención y atención de la violencia contra las mujeres;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+XXIII. Promover una adecuada coordinación con los Municipios y el Instituto Aguascalentense de las Mujeres, a fin de erradicarla violencia contra las mujeres en el Estado; y
 
-XIII. Facilitar los medios para elevar la calidad de vida de las personas a través de programas de superación personal, autoestima e inteligencia emocional apegados a las condiciones particulares de quienes viven en desventaja y son emocionalmente vulnerables;
-
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
-
-XIV. Promover y apoyar conjuntamente con la Secretaría de Planeación y Desarrollo Regional, los mecanismos de financiamiento para el bienestar social, el desarrollo regional, urbano y rural;
-
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
-
-XV.- Promover la construcción de obras de infraestructura y equipamiento para el desarrollo regional, con lo cual se pretende el bienestar social y la protección de la familia;
-
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
-
-XVI. Fomentar la participación de instituciones académicas, de investigación, de organizaciones nacionales e internacionales gubernamentales y no gubernamentales y de la sociedad en general, en el desarrollo e implementación de estrategias para superar rezagos sociales e impulsar el bienestar de la población;
-
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
-
-XVII.- Suscribir los convenios en materia de Desarrollo Social que puedan ser instrumento de vinculación entre la Secretaría, la iniciativa privada y las organizaciones civiles nacionales e internacionales o cualquier clase de organismo lícito que pueda coadyuvar, con el cumplimiento de los programas, acciones e inversiones en materia de desarrollo social;
-
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
-
-XVIII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, en convenios, contratos o cualquier tipo de acuerdo.
-
-XIX. (DEROGADA, P.O. 21 DE MARZO DE 2005)
-
-XX. (DEROGADA, P.O. 21 DE MARZO DE 2005)
-
-XXI. (DEROGADA, P.O. 21 DE MARZO DE 2005)
-
-XXII. (DEROGADA, P.O. 21 DE MARZO DE 2005)
-
-XXIII. (DEROGADA, P.O. 21 DE MARZO DE 2005)
-
-XXIV. (DEROGADA, P.O. 21 DE MARZO DE 2005)
-
-XXV. (DEROGADA, P.O. 21 DE MARZO DE 2005)
-
-XXVI. (DEROGADA, P.O. 21 DE MARZO DE 2005)
-
-XXVII. (DEROGADA, P.O. 21 DE MARZO DE 2005)
-
-XXVIII. (DEROGADA, P.O. 21 DE MARZO DE 2005)
-
-XXIX. (DEROGADA, P.O. 21 DE MARZO DE 2005)
+XXIV. Asesorar en coordinación con el Instituto Aguascalentense de las Mujeres, a los Municipios para crear políticas públicas para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como mecanismos da evaluación.
 
 ###### ARTICULO 33.
 
@@ -881,7 +947,9 @@ VII. Coordinar los trabajos de la Asamblea Plenaria, la Comisión Permanente y l
 
 VIII. Ejecutar los acuerdos que le instruya el Comité de Planeación para el Desarrollo del Estado de Aguascalientes;
 
-IX. Proponer al Comité de Planeación para el Desarrollo del Estado de Aguascalientes la creación de subcomités y grupos de trabajo sectoriales, regionales y especiales;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+IX. Proponer al Comité de Planeación para el Desarrollo del Estado de Aguascalientes la creación de subcomités y grupos de trabajo sectorial, regional, de género y especial;
 
 X. Participar en los comités, comisiones, subcomisiones y órganos de gobierno de los organismos descentralizados; ya sea por disposición legal, o por invitación del Gobernador del Estado;
 
@@ -1427,6 +1495,10 @@ e) Dirección de Planeación e Informática; y
 
 f) Dirección de Comunicación y Difusión.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 47 bis.- Los titulares de cada Dependencia y Entidad de la Administración Pública del Estado, designarán de entre los servidores públicos a su cargo, un representante ante el Instituto Aguascalentense de las Mujeres, quien de manera honoraria y sin ningún impacto presupuestal, será el encargado de la vinculación institucional en materia de género.
+
 ### CAPITULO QUINTO. De los Tribunales Laborales
 
 ###### ARTICULO 48.
@@ -1564,3 +1636,9 @@ P.O. 11 DE SEPTIEMBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
