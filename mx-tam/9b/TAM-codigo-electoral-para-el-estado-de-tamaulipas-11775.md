@@ -4,7 +4,7 @@ identifier: "TAM-codigo-electoral-para-el-estado-de-tamaulipas-11775"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-06-12"
-last_updated: "2006-09-06"
+last_updated: "2008-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 CODIGO ELECTORAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL PARA EL ESTADO DE TAMAULIPAS PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el lunes 12 de junio de 1995.
 
@@ -5040,3 +5042,15 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Código Electoral para el Estado de Tamaulipas publicado en el Periódico Oficial del Estado, el12 de junio de 1995, así como sus reformas y adiciones.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto. Las referencias que en otras leyes sé hagan al Instituto Estatal Electoral de Tamaulipas, se entenderá que se refieren al Instituto Electoral de Tamaulipas.
+
+CUARTO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+QUINTO.- El Consejo General dictará los acuerdos necesarios para hacer efectivas las disposiciones de este Código y deberá expedir el Reglamento Interior del Instituto Electoral de Tamaulipas dentro de los 180 días siguientes a la entrada en vigor de este Código.
