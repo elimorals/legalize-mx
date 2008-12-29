@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2008-12-24"
+last_updated: "2008-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -269,9 +269,9 @@ IV.- No estar sujeto a proceso por delito doloso. El impedimento surte efecto de
 
 V.- Tener un modo honesto de vivir, saber leer y escribir, y no estar en los casos previstos en el Artículo 106 del Código Penal del Estado; y
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VI.- No ser servidor público de la Federación o del Estado, con excepción de los cargos de elección popular, o del Municipio; no tener participación directa o indirecta en servicios, contratos o suministros por cuenta del Ayuntamiento; o el mando de la fuerza pública en el Municipio en que se haga la elección, a no ser que se separe de su cargo o participación por lo menos noventa días antes de dicha elección.
+VI.- No ser servidor público de la Federación o del Estado, con excepción de los cargos de elección popular o del Municipio; no tener el mando de la fuerza pública en el que se haga la elección, a no ser que se separe de su cargo por lo menos 120 días antes de dicha elección.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
 
@@ -279,11 +279,11 @@ VI.- No ser servidor público de la Federación o del Estado, con excepción de 
 
 Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos electos popularmente por elección directa, no podrán ser reelectos para un período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el periodo inmediato. Todos los servidores públicos antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el periodo inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 28.
 
-Es nula la elección de Munícipe que recaiga sobre militares en servicio activo, Gobernador del Estado, Magistrado del Supremo Tribunal de Justicia y Diputados y Senadores al Congreso de la Unión, estén o no en ejercicio a menos que se hayan separado definitivamente de sus funciones 90 días antes de la elección.
+Es nula la elección de Munícipe que recaiga sobre militares en servicio activo, Gobernador del Estado, Magistrado del Supremo Tribunal de Justicia, Diputados y Senadores al Congreso de la Unión, estén o no en ejercicio, a menos que se hayan separado definitivamente de sus funciones 120 días antes de la elección.
 
 ###### ARTICULO 29.
 
@@ -321,7 +321,9 @@ VII. EN LOS MUNICIPIOS CUYA POBLACIÓN SEA MAYOR A LOS DOSCIENTOS CINCUENTA MIL 
 
 Los Ayuntamientos electos se instalarán solemne y públicamente protestando guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ambas emanen, y desempeñar con lealtad, eficiencia y patriotismo, los cargos para los que fueron electos.
 
-Los Ayuntamientos iniciarán su ejercicio el día primero de enero inmediato a su elección.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Los Ayuntamientos iniciarán su ejercicio el día primero de octubre inmediato a su elección.
 
 ###### ARTICULO 32.
 
@@ -3752,3 +3754,13 @@ P.O. 24 DE DICIEMBRE DE 2008.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día .siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2008.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
