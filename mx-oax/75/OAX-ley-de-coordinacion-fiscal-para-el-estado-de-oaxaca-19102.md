@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2007-12-29"
+last_updated: "2008-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE COORDINACION FISCAL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -65,7 +65,11 @@ IV. Participaciones: Las participaciones Federales que el Estado y los Municipio
 
 V. Aportaciones: Los Fondos de Aportaciones Federales transferidos por la Federación por conducto del Estado a favor de los Municipios de conformidad con el Capítulo V de la Ley de Coordinación.
 
-VI. Decreto: El Decreto que establece Bases, Factores de Distribución, Montos y Plazos para el Pago de Participaciones Fiscales Federales a los Municipios del Estado de Oaxaca.
+> <small>N. DE E. ENRELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+VI. Decreto: El Decreto que establece Bases, Factores de Distribución, Montos Estimados y Plazos para el pago de Participaciones Fiscales Federales a los Municipios del Estado de Oaxaca.
 
 ###### ARTICULO 3.
 
@@ -153,7 +157,9 @@ II. 30% se distribuirá entre los Municipios mediante la aplicación del coefici
 
 Los índices de marginación de cada Municipio se tomarán de la última información que hubiere dado a conocer el Consejo Nacional de Población; a dichos índices se sumará una constante equivalente al valor absoluto más uno del índice de marginación que sea menor para evitar que aparezcan Municipios con índice de marginación negativo.
 
-El Fondo de Compensación, se destinará exclusivamente a infraestructura vial, sea rural o urbana; infraestructura hidráulica; movilidad urbana, y por lo menos 12.5 por ciento a programas para la protección y conservación ambiental.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -167,7 +173,9 @@ II. 30% se distribuirá entre los Municipios mediante la aplicación del coefici
 
 La información sobre ingresos propios recaudados por los Municipios se integra por impuestos, derechos, productos y aprovechamientos de acuerdo con las cifras de la cuenta pública enterada por cada municipio a la Legislatura del Estado, correspondiente al penúltimo ejercicio en relación con el ejercicio para el que se efectúa el cálculo de las participaciones.
 
-El Fondo Municipal del Impuesto a las Ventas Finales de Gasolina y Diesel, se destinará exclusivamente a infraestructura vial, sea rural o urbana; infraestructura hidráulica; movilidad urbana, y por lo menos 12.5 por ciento a programas para la protección y conservación ambiental.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
@@ -187,13 +195,27 @@ Con base en los ajustes cuatrimestrales y definitivo que realice la Federación 
 
 II. Cuando a petición que le formule el Municipio de que se trate a la Secretaría, mediante acuerdo expreso para estos efectos en acta de cabildo debidamente suscrita de conformidad con la legislación aplicable, la Secretaría podrá enterar a los Municipios dichas participaciones en forma quincenal en partes iguales, los días 15 y último de cada mes, en concepto de anticipos a cuenta de Participaciones.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El monto que se liquidará a cada municipio en concepto de anticipo a cuenta de Participaciones será igual al monto quincenal enterado en el ejercicio fiscal 2007; este monto no será aplicable en el evento de que en el año de cálculo los montos participables a los Municipios y señalados en el artículo 5 de la presente Ley, sean inferiores a los observados en el año 2007. En dicho supuesto el monto se enterará en función de la cantidad efectivamente generada en el año del cálculo y de acuerdo al coeficiente efectivo que cada municipio haya recibido de los Fondos señalados en el artículo 6 y 7 de esta Ley, en el año 2007.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-Los Municipios que soliciten el pago de sus Participaciones en forma quincenal bajo los términos antes señalados, deberán autorizar a la Secretaría en el mismo acuerdo de cabildo, que ésta efectúe en forma cuatrimestral el cálculo de las diferencias entre las cantidades pagadas en concepto de anticipos a cuenta de Participaciones y las Participaciones determinadas provisionalmente por la Federación en los términos de la Ley de Coordinación. Las diferencias calculadas bajo este mecanismo, serán liquidadas dentro de los dos meses siguientes al cuatrimestre que corresponda a la determinación provisional efectuada por la Federación.
+El monto quincenal que se liquidará a cada municipio en concepto de anticipo a cuenta de Participaciones se calculará tomando como base el 90% de los Montos estimados en el Decreto y se distribuirá de acuerdo con los factores de distribución señalados en el propio Decreto.
 
-Adicionalmente y con base en los ajustes cuatrimestrales y definitivo que realice la Federación en los plazos y términos previstos en la Ley de Coordinación, la Secretaría efectuará los ajustes correspondientes, los cuales serán liquidados dentro de los 5 días posteriores a la fecha en que el Estado reciba dichos ajustes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+Los Municipios que soliciten el pago de sus Participaciones en forma quincenal bajo los términos antes señalados, deberán autorizar a la Secretaría en el mismo acuerdo de cabildo, que ésta efectúe en forma cuatrimestral el cálculo de las diferencias entre las cantidades pagadas en concepto de anticipos a cuenta de Participaciones y las Participaciones determinadas provisionalmente por la Federación en los términos de la Ley de Coordinación. Las diferencias calculadas bajo este mecanismo, serán liquidadas dentro de los dos meses siguientes al cuatrimestre que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+La participación que corresponde a los Municipios, resultantes del fondo establecido en el artículo 7A de la presente Ley; se enterará conjuntamente con el pago de participaciones más cercano a la fecha en el que el Estado reciba de la Federación el citado fondo. Por lo que corresponde al fondo establecido en el artículo, 7B, éste se enterará en el mes siguiente al cual se realice la recaudación del Impuesto
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -203,13 +225,21 @@ El retraso en la entrega ocasionará el pago de intereses, a la tasa de recargos
 
 Las Participaciones que reciban los Municipios, con base en la presente Ley, deberán ser incluidas en sus leyes de ingresos de cada ejercicio fiscal.
 
-###### ARTÍCULO 10.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-La Legislatura del Estado por conducto de la Contaduría Mayor de Hacienda, revisará y dictaminará sobre los cálculos de participaciones vigilando el estricto cumplimiento tanto de lo dispuesto en la Ley de Coordinación como en la presente Ley.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 10.
+
+La Auditoría Superior del Estado, revisará y dictaminará sobre los cálculos de participaciones vigilando el estricto cumplimiento tanto de lo dispuesto en la Ley de Coordinación como en la presente Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 11.
 
-Las bases, factores de distribución, montos y plazos de las participaciones municipales para el ejercicio que se trate, quedarán establecidas mediante Decreto que emita anualmente el Estado, el que se publicará en el Periódico Oficial del Gobierno del Estado.
+Las bases, factores de distribución, montos estimados y plazos de las participaciones municipales para el ejercicio que se trate, quedarán establecidas mediante Decreto que emita anualmente el Estado, el que se publicará en el Periódico Oficial del Gobierno del Estado.
 
 El Estado, a través de la Secretaría independientemente de la publicación a que se refiere el párrafo anterior, proporcionará a cada uno de los Municipios por escrito, el monto anual estimado de sus Participaciones.
 
@@ -259,7 +289,15 @@ El Fondo de Aportaciones para la Infraestructura Social Municipal, se destinará
 
 Los Municipios podrán disponer de hasta un 2% del total de recursos del Fondo para la Infraestructura Social Municipal que les correspondan, para la realización de un programa de desarrollo institucional. Este programa será convenido entre el Ejecutivo Federal a través de la Secretaría de Desarrollo Social, el Gobierno del Estado a través de la Secretaría de Finanzas, la Secretaría de la Contraloría y el Comité Estatal de Planeación para el Desarrollo del Estado de Oaxaca y el Municipio de que se trate.
 
-Adicionalmente los Municipios podrán destinar hasta el 3% de los recursos correspondientes, para ser aplicados como gastos indirectos a las obras señaladas en el presente artículo.
+(NOTA: EL 31 DE MAYO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO Y EL RESOLUTIVO TERCERO DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 13/2009, 14/2009, 15/2009, 16/2009, 17/2009, 18/2009 Y 19/2009, SE DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LAS CUALES SURTIERON EFECTOS LOS DÍAS 28, 27 Y 29 DE SEPTIEMBRE, ASÍ COMO EL 3, 4, 6 Y 7 DE OCTUBRE, RESPECTIVAMENTE TODAS DEL AÑO 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ADICIONALMENTE LOS MUNICIPIOS PODRÁN DESTINAR HASTA EL 3% DE LOS RECURSOS CORRESPONDIENTES, PARA SER APLICADOS COMO GASTOS INDIRECTOS A LAS OBRAS SEÑALADAS EN EL PRESENTE ARTÍCULO; PODRÁN DISPONER HASTA EL 1.5% PARA PROGRAMAS DE EVALUACIÓN Y SEGUIMIENTO EN LA RENDICIÓN DE CUENTAS A CARGO DEL ÓRGANO TÉCNICO DEL CONGRESO DEL ESTADO DE OAXACA, LO QUE SERÁ CONVENIDO ENTRE LA AUDITORÍA SUPERIOR DEL ESTADO Y EL MUNICIPIO DE QUE SE TRATE; CONVENIO QUE SE REMITIRÁ A LA SECRETARÍA DE FINANZAS PARA QUE REALICE LA RETENCIÓN CORRESPONDIENTE DESCONTÁNDOLA PARA ESE FIN, CON EL CARÁCTER DE MANDATARIO.
 
 Respecto de dichas aportaciones los Municipios deberán:
 
@@ -488,3 +526,7 @@ P.O. 30 DE DICIEMBRE DE 2006.
 P.O. 29 DE DICIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2008, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2009, previa publicación en el Periódico Oficial del Gobierno del Estado.
