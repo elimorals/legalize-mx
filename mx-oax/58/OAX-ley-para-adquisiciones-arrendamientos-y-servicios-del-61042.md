@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-adquisiciones-arrendamientos-y-servicios-del-61042"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-19"
-last_updated: "2008-04-30"
+last_updated: "2008-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 19 de abril de 2008 y republicada en el P.O. el miércoles 30 de abril de 2008.
 
@@ -73,9 +73,15 @@ VI. Comité: el Comité de Adquisiciones de Bienes y Servicios del Poder Ejecuti
 
 VII. Sub-Comité: los Sub-Comités de Adquisiciones de Bienes y Servicios de las Entidades, Dependencias y Órganos Autónomos;
 
-VIII. Proveedor: la persona física o moral que reúne los requisitos exigidos por esta Ley para la celebración de contratos de adquisiciones, arrendamientos o servicios regulados por la misma; y
+VIII. Proveedor: la persona física o moral que reúne los requisitos exigidos por esta Ley para la celebración de contratos de adquisiciones, arrendamientos o servicios regulados por la misma; y (sic)
 
-IX. Licitante: la persona física o moral que participe en cualquier procedimiento de Licitación pública o de invitación restringida.
+IX. Licitante: la persona física o moral que participe en cualquier procedimiento de Licitación pública o de invitación restringida;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+X. Padrón de Proveedores: El padrón de Proveedores de la Administración Pública Estatal.
 
 ###### ARTÍCULO 5.
 
@@ -241,9 +247,13 @@ En los procedimientos de contratación deberán establecerse los mismos requisit
 
 La convocante pondrá a disposición pública, a través de los medios de difusión electrónica que establezca, la información que obre en su base de datos correspondiente a las convocatorias y bases de las licitaciones y, en su caso, sus modificaciones, las actas de las juntas de aclaraciones y de visita a instalaciones, los fallos de dichas licitaciones o las cancelaciones de éstas y los datos relevantes de los contratos adjudicados.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 22.
 
-La contratación de adquisiciones, arrendamientos y servicios se adjudicarán, por regla general, a través de licitaciones públicas, salvo los casos previstos en esta Ley, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento y oportunidad, de acuerdo a los criterios establecidos en el artículo 7 de esta Ley.
+La contratación de adquisiciones, arrendamientos y servicios se adjudicarán, por regla general, a través de licitaciones públicas, salvó los casos previstos en esta ley, mediante convocatoria pública, para que los licitantes presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento y oportunidad, de acuerdo a los criterios establecidos en el artículo 7 de esta ley.
 
 El sobre a que hace referencia este artículo podrá entregarse, a elección del Licitante, en el lugar de celebración del acto de presentación y apertura de proposiciones, o bien, si así lo establece la convocante, enviarlo a través del servicio postal o de mensajería, o por medios remotos de comunicación electrónica, conforme a las disposiciones que se que establezcan.
 
@@ -361,7 +371,11 @@ IX. Descripción completa de los bienes o servicios, o indicación de los sistem
 
 X. Plazo y condiciones de entrega; así como la indicación del lugar, dentro del territorio nacional, donde deberán efectuarse las entregas;
 
-XI. Requisitos legales, administrativos, técnicos y económicos que deberán cumplir quienes deseen participar, los cuales no deberán limitar la libre participación de los interesados;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+XI. Requisitos legales, administrativos, técnicos y económicos que deberán cumplir quienes deseen participar;
 
 XII. Condiciones de precio y pago, señalando el momento en que se haga exigible el mismo;
 
@@ -381,9 +395,13 @@ Para la participación, contratación o adjudicación en adquisiciones, arrendam
 
 La convocante remitirá para su autorización a la Contraloría cuando menos con cinco días hábiles de anticipación al inicio de los procedimientos de Licitación e invitación restringida, copia de la convocatoria, bases de Licitación, montos estimados de adquisiciones o avalúos correspondientes según sea el caso.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 28.
 
-Las dependencias y entidades no podrán establecer en las bases de Licitación requisitos que limiten la libre participación de los interesados, tales como:
+Las dependencias y entidades no podrán establecer en las bases de licitación requisitos que limiten la participación de los interesados, tales como:
 
 I. Experiencia superior a un año, salvo en los casos debidamente justificados que autorice, en forma expresa, el titular del área solicitante, indicando las causas que motiven dicha autorización;
 
@@ -393,7 +411,9 @@ III. Capitales contables superiores al diez por ciento del monto total de la ofe
 
 IV. Contar con sucursales o representantes regionales, salvo que resulte necesario para proveer los bienes o prestar los servicios en los términos requeridos; o
 
-V. Estar inscrito en el padrón de proveedores o de calidad que hayan establecido para agilizar la evaluación de las propuestas, excepto cuando éstos sean optativos y su incumplimiento no sea causal de descalificación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+V. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2008)
 
 ###### ARTÍCULO 29.
 
@@ -409,9 +429,13 @@ III. Precisar que será requisito el que los Licitantes entreguen junto con la p
 
 IV. Si para verificar el cumplimiento de las especificaciones solicitadas se requiere de la realización de pruebas, se precisará el método para ejecutarlas y el resultado mínimo que deba obtenerse;
 
-V. Con la condición de no limitar la libre participación de cualquier interesado, podrán establecer el agrupamiento de varios bienes o servicios en una sola partida;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Se entenderá que no se limita la libre participación, cuando previa investigación de mercado se advierta la existencia de al menos cuatro probables proveedores que pudieran cumplir integralmente con los requerimientos de la convocante;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+V. Con la condición de no limitar la participación de cualquier interesado, podrán establecer el agrupamiento de varios bienes o servicios en una sola partida.
+
+Se entenderá que no se limita la participación, cuando previa investigación de mercado se advierta la existencia de al menos cuatro probables proveedores que pudieran cumplir íntegramente con los requerimientos de la convocatoria.
 
 VI. Precisar que será requisito el que los Licitantes presenten una declaración de integridad, en la que manifiesten que por sí mismos o (sic) través de interpósita persona, se abstendrán de adoptar conductas, para que los servidores públicos de la dependencia o entidad, induzcan o alteren las evaluaciones de las propuestas, el resultado del procedimiento, u otros aspectos que otorguen condiciones más ventajosas con relación a los demás participantes; y
 
@@ -603,7 +627,11 @@ XVII. Se trate de equipos especializados, sustancias y materiales de origen quí
 
 El procedimiento de invitación restringida se sujetará a lo siguiente:
 
-I. En este procedimiento deberá invitarse a participar a cuando menos cuatro proveedores que cuenten con la infraestructura necesaria para proveer los bienes o servicios requeridos, prefiriéndose los inscritos en el padrón de proveedores;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+I. En este procedimiento deberá invitarse de manera fehaciente a participar a cuando menos cuatro proveedores que se encuentren debidamente inscritos en el padrón, que cuenten con la infraestructura necesaria para proveer los bienes o servicios requeridos.
 
 II. Para continuar con el proceso de apertura de las propuestas deberán haberse recibido cuando menos tres proposiciones, en caso de no recibirlas en tiempo y forma se declarará desierto el procedimiento;
 
@@ -731,25 +759,21 @@ VIII. Las que pretendan participar en un procedimiento de contratación y previa
 
 IX. Aquellas que por sí o a través de empresas que formen parte del mismo grupo empresarial pretendan ser contratadas para elaboración de dictámenes, peritajes y avalúos, cuando éstos hayan de ser utilizados para resolver discrepancias derivadas de los contratos en los que dichas personas o empresas sean parte;
 
-X.- Las que celebren contratos sobre las materias reguladas por esta Ley sin estar facultadas para hacer uso de derechos de propiedad industrial e intelectual;
+X. Las que celebren contratos sobre las materias reguladas por esta Ley sin estar facultadas para hacer uso de derechos de propiedad industrial e intelectual;
 
-XI. Los contribuyentes que no se encuentren al corriente en el cumplimiento de sus obligaciones fiscales, de conformidad con las disposiciones del Código Fiscal para el Estado de Oaxaca y demás ordenamientos aplicables, salvo que dichos contribuyentes celebren previamente convenio con las autoridades fiscales para cubrir a plazos, ya sea con pago diferido o en (sic)
+> <small>(F. DE E., P.O. 30 DE ABRIL DE 2008)</small>
 
-Tratándose de pagos en exceso que haya recibido el proveedor, éste deberá reintegrar las cantidades cobradas en exceso, dentro de los 15 días naturales siguientes a la solicitud por escrito del reintegro. Cumplido dicho plazo deberá pagar los intereses correspondientes, conforme a lo señalado en el párrafo anterior. Los cargos se calcularán sobre las cantidades pagadas en exceso en cada caso y se computarán por días naturales desde la fecha del pago, hasta la fecha en que se pongan efectivamente a disposición de la dependencia o entidad.
+XI. Los contribuyentes que no se encuentren al corriente en el cumplimiento de sus obligaciones fiscales, de conformidad con las disposiciones del Código Fiscal para el Estado de Oaxaca y demás ordenamientos aplicables, salvo que dichos contribuyentes celebren previamente convenio con las autoridades fiscales para cubrir a plazos, ya sea con pago diferido o en parcialidades, los adeudas fiscales que tengan a su cargo, con los recursos qué obtengan por la contratación, arrendamientos y servicios. Para estos efectos, en el convenio se establecerá que las dependencias y entidades antes citadas retengan una parte de la contraprestación para ser enterada al fisco estatal para el pago de los adeudos correspondientes, respetando los principios de la Licitación de la que se trate.
 
-En caso de incumplimiento en la entrega de bienes o prestación de los servicios, el proveedor deberá reintegrar los anticipos que haya recibido más los intereses correspondientes, conforme a lo indicado en este artículo. Los cargos se calcularán sobre el monto del anticipo no amortizado y se computarán por días naturales desde la fecha de su entrega, hasta la fecha en que se pongan efectivamente las cantidades a disposición de la dependencia o entidad.
+> <small>(F. DE E., P.O. 30 DE ABRIL DE 2008)</small>
 
-ARTÍCULO 55 (SIC). Las dependencias y entidades podrán, dentro de su presupuesto aprobado y disponible, bajo su responsabilidad y por razones fundadas y motivadas, acordar el incremento en la cantidad de bienes solicitados mediante modificaciones a sus contratos vigentes, dentro de los doce meses posteriores a su firma, siempre que el monto total de las modificaciones no rebase, en conjunto, el veinte por ciento del monto o cantidad de los conceptos y volúmenes establecidos originalmente en los mismos y el precio de los bienes sea igual al pactado originalmente.
+Los requisitos y procedimientos que deberán observar las dependencias y entidades de la Administración Pública Centralizada y Paraestatal del Estado para el cumplimiento de este artículo, se establecerán en las reglas de carácter general que para tal efecto emita la Secretaría de Finanzas del Gobierno del Estado; y
 
-Igual porcentaje se aplicará a las modificaciones que por ampliación de la vigencia se hagan de los contratos de arrendamientos o de servicios, cuya prestación se realice de manera continua y reiterada.
+> <small>(F. DE E., P.O. 30 DE ABRIL DE 2008)</small>
 
-Tratándose de contratos en los que se incluyan bienes o servicios de diferentes características, el porcentaje se aplicará para cada partida o concepto de los bienes o servicios de que se trate.
+XII. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de ley.
 
-Cuando los proveedores demuestren la existencia de causas justificadas que les impidan cumplir con la entrega total de los bienes conforme a las cantidades pactadas en los contratos, las dependencias y entidades podrán modificarlos mediante la cancelación de partidas o parte de las cantidades originalmente estipuladas, siempre y cuando no rebase el diez por ciento del importe total del contrato respectivo.
-
-Cualquier propuesta de modificación a los contratos deberá formalizarse por escrito por parte de las dependencias y entidades, los instrumentos legales respectivos serán suscritos por el servidor público que lo haya hecho en el contrato original o quien lo sustituya o esté facultado para ello.
-
-Las dependencias y entidades se abstendrán de hacer modificaciones que se refieran a precios, anticipos, pagos progresivos, especificaciones y, en general, cualquier cambio que implique otorgar condiciones ventajosas a un proveedor.
+> <small>(F. DE E., P.O. 30 DE ABRIL DE 2008)</small>
 
 ###### ARTÍCULO 54.
 
@@ -841,41 +865,115 @@ La adquisición de materiales cuyo consumo haga necesaria invariablemente la uti
 
 ### CAPÍTULO ÚNICO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 63.
 
-La Secretaría integrará el Padrón y clasificará a las personas inscritas en él, de acuerdo con su actividad, capacidad técnica y domicilio.
+La Secretaría integrará y administrará el padrón, lo mantendrá permanentemente actualizado, y clasificará a los Proveedores inscritos en el mismo de acuerdo con su capacidad técnica, económica, actividad y domicilio. Este padrón será publicado en el Periódico Oficial del Estado.
 
-La inscripción en el padrón será gratuita, no obligatoria y tendrá vigencia indefinida con actualizaciones anuales.
+El registro, actualización y renovación en el padrón, serán obligatorios según lo dispuesto en la presente Ley, por lo que sólo se podrán fincar pedidos o celebrar contratos con las personas que acrediten estar debidamente inscritas en el Padrón, excepto los casos previstos en el artículo 65 BIS de esta Ley.
+
+El registro, o renovación en el padrón, tendrá el costo que señale la Ley de Ingresos del Estado de Oaxaca del Ejercicio Fiscal que corresponda, con vigencia para un ejercicio fiscal. Los proveedores, para renovar su registro, deberán de presentar su solicitud dentro de los quince días hábiles anteriores a su vencimiento; si omiten presentar la solicitud en el plazo indicado tendrá como consecuencia la cancelación del registro solicitado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 64.
 
-El Padrón tiene por objeto proporcionar a la Administración Pública Estatal, tratándose de los casos previstos en los artículos 45 y 46 de esta Ley, la información completa, confiable y oportuna, sobre las personas con capacidad de proporcionar bienes o prestar servicios en la cantidad, calidad y oportunidad que se requiera, así como las condiciones de oferta para obtener las mejores condiciones de contratación.
+El Padrón, tiene por objeto facilitar a la administración pública estatal la información completa, confiable y oportuna, sobre los Proveedores con capacidad de proporcionar bienes o prestar servicios, en la cantidad, calidad y oportunidad que se requiera, para obtener las mejores condiciones de contratación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 65.
 
-Para ser inscritos en el Padrón, los interesados deberán cumplir con los siguientes requisitos:
+Para ser inscritos en el padrón los interesados deberán satisfacer los requisitos siguientes:
 
 I. Presentar solicitud por escrito ante la Secretaría;
 
-II. Acreditar fehacientemente su calidad de fabricante, productor o comerciante legalmente establecido, mediante inscripción ante la Secretaría de Hacienda y Crédito Público o constancia expedida por la misma, en la que se especifique su giro o actividad preponderante; así como comprobar que se encuentra al corriente de sus obligaciones fiscales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. Exhibir en caso de que se trate de personas morales, copia certificada de su acta constitutiva y acreditar la personalidad legal del representante;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-IV. Demostrar su solvencia económica y capacidad para producción o suministro de bienes muebles, en su caso, para el arrendamiento de bienes o la prestación de servicios;
+II. Acreditar fehacientemente su calidad de fabricante, productor o comerciante legalmente establecido, mediante inscripción ante la Secretaría de Hacienda y Crédito Público; en la que se especifique su giro o actividad preponderante;
 
-V. Exhibir currículum, mismo que en su caso, contendrá una relación de contratos celebrados en los dos últimos años con la Administración Pública, los vigentes y los que tengan pendientes de cumplir, en el caso que sea procedente; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI. Las demás que establezca el reglamento respectivo.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+III. Comprobar que se encuentra al corriente de sus obligaciones fiscales, en términos de lo dispuesto por el artículo 46-A del Código Fiscal para el Estado de Oaxaca vigente;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+IV. Cuando se trate de personas morales deberán exhibir copia certificada de la escritura o acta constitutiva debidamente inscrita en el Registro Público de la Propiedad, así como sus modificaciones si las hubiera; en caso de haber sido creadas por disposición legal, deberán indicar esta circunstancia; y tratándose de fideicomisos, el contrato correspondiente;
+
+Los representantes o apoderados legales de las personas morales, deberán presentar copia certificada de identificación oficial con fotografía; así como de su Registro Federal de Contribuyentes y su Clave Única de Registro de Población (CURP);
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+V. Las personas físicas, deberán presentar copia certificada de identificación oficial con fotografía; así como de su Registro Federal de contribuyentes y su Clave Única de Registro de Población (CURP);
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+VI. Proporcionar la información y documentación necesaria para acreditar su solvencia económica y capacidad para producción o suministro de bienes y servicios y, en su caso, para el arrendamiento de bienes;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+VII. Exhibir curriculum, mismo que en su caso, contendrá una relación de contratos celebrados en los dos últimos años con la Administración Pública, los vigentes y los que tengan pendientes de cumplir en el caso que sea procedente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+VIII. Acreditar haber cumplido con las inscripciones que exijan las disposiciones de orden fiscal, mediante la presentación de original y fotocopia simple de los mismos para su cotejo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+IX. Pagar los derechos que establezca la Ley de Ingresos del Estado de Oaxaca del Ejercicio Fiscal que corresponda; y
+
+X.- Las demás que establezca el reglamento respectivo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTÍCULO 65 BIS. La Secretaría podrá eximir de la obligación de inscribirse en el Padrón a las personas físicas o morales que provean bienes perecederos, granos, productos alimenticios básicos o semiprocesados, o cuando se trate de campesinos, comuneros o grupos urbanos vulnerables y en los casos de adquisiciones extraordinarias en los supuestos que esta misma ley establece.
 
 ###### ARTÍCULO 66.
 
 Los proveedores inscritos en el padrón deberán comunicar en cualquier tiempo a la Secretaría, las modificaciones legales, de capacidad técnica, económica o productiva y aquellas que puedan implicar un cambio en su clasificación.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+La Secretaría, las dependencias, y las entidades deberán invitar a los procedimientos de excepción a la licitación abierta a las personas integrantes del Padrón, de acuerdo con la clasificación en que estén registradas, sin perjuicio de que a falta de proveedores o por así convenir a los intereses de las contratantes o adjudicantes, se pueda invitar a personas que no estén inscritas, en caso de que se les adjudique el contrato o pedido, se deberán inscribir al padrón.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 67.
 
-La Secretaría, dentro de un término que no excederá de diez días hábiles contados a partir de la fecha de presentación de la solicitud o el aviso, resolverá sobre la inscripción o modificación de la clasificación y entregará en su caso, el carnet único de proveedor.
+La Secretaría dentro de un término que no excederá de quince días hábiles contados a partir de la fecha de recepción de la solicitud, resolverá sobre el registro, renovación, actualización de datos o la modificación o ampliación de la clasificación en el padrón.
 
-Transcurrido el plazo a que se refiere el párrafo anterior, sin que haya respuesta de la Secretaría, se tendrá por inscrito al solicitante o modificada su clasificación, según sea el caso.
+Transcurrido este plazo sin que haya respuesta, se tendrá por inscrito al solicitante o por realizada la renovación, la actualización, la modificación o la ampliación respectiva. En caso de negativa, ésta será debidamente fundada y motivada.
+
+Si la solicitud fuese confusa o incompleta, la Secretaría podrá solicitar, dentro del término de cinco días hábiles siguientes a su recepción, que se aclare o se complemente y si el proveedor no presentare la información requerida dentro del plazo que se le conceda, que podrá ser hasta de diez días hábiles, se tendrá por no presentada la solicitud.
 
 ## TÍTULO SEXTO. DEL COMITÉ DE ADQUISICIONES DE BIENES Y SERVICIOS DEL EJECUTIVO ESTATAL
 
@@ -1125,21 +1223,33 @@ Los proveedores que incurran en infracciones a esta Ley, podrán ser sancionados
 
 La contraloría, comunicará a las dependencias y entidades, la conducta del infractor, a fin de que se observe lo dispuesto por el artículo 53 de este ordenamiento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 92.
 
-La Secretaría, podrá suspender el registro de un proveedor del padrón, o negar la actualización del mismo cuando:
+La Secretaría suspenderá el registro de un proveedor, hasta por el plazo de veinticuatro meses cuando:
 
 I. Deje de reunir los requisitos que exige para tal efecto, esta Ley;
 
 II. No cumpla en el plazo convenido para ello y por causas imputables a él, con algún pedido o contrato a que se hubiere comprometido o perjudique con ello, los intereses de la Administración Pública Estatal; y
 
-III. Se negará a dar las facilidades necesarias para que la Contraloría ejerza sus funciones de comprobación y verificación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+III. Se niegue a dar facilidades necesarias para que los órganos y entidades facultadas para ello, ejerzan sus funciones de vigilancia, inspección, control y fiscalización;
 
 Cuando desaparezcan las causas que hubiesen motivado la suspensión del registro, el Proveedor lo acreditará ante la Secretaría, la que dispondrá lo conducente a fin de que el registro del interesado vuelva a surtir efectos legales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 93.
 
-La Secretaría, podrá cancelar el registro del proveedor cuando:
+La Secretaría cancelará el registro del proveedor cuando:
 
 I. La información que hubiese proporcionado para la inscripción resultare falsa o haya actuado con dolo o mala fe, en alguno de los procedimientos de adjudicación del pedido o contrato, en su celebración o en su cumplimiento;
 
@@ -1147,7 +1257,37 @@ II. No cumpla en sus términos, con algún pedido o contrato por causas imputabl
 
 III. Incurra en actos, prácticas u omisiones que lesionen el interés general o los de la economía estatal;
 
-IV. Se le declare incapacitado legalmente para celebrar actos o contratos de los regulados por esta Ley.
+IV. Se le declare incapacitado legalmente para celebrar actos o contratos de los regulados por esta Ley;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+V. El proveedor que en su carácter de comerciante sea declarado en concurso mercantil;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+VI. No atienda en tres ocasiones las invitaciones que se le realicen;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+VII. No se presenten a formalizar el pedido o contrato o incumpla con éste, sin causa justificada, después de adjudicado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+VIII. Existan a su cargo créditos fiscales firmes; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+IX. No proporcione la información solicitada por la autoridad competente sin causa justificada, en términos del artículo 46-A del Código Fiscal para el Estado de Oaxaca y demás disposiciones fiscales.
 
 ## TÍTULO DÉCIMO PRIMERO. DE LAS INCONFORMIDADES, LA CONCILIACIÓN, ARBITRAJE Y RECURSO DE REVISIÓN
 
@@ -1308,3 +1448,9 @@ Oaxaca de Juárez, Oax. A 31 de marzo del 2008-06-06
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. TEOFILO MANUEL GARCIA CORPUS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE DICIEMBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2009, previa publicación en el Periódico Oficial del Gobierno de Estado.
