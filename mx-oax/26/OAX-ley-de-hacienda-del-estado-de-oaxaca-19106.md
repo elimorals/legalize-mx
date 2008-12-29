@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-del-estado-de-oaxaca-19106"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2007-12-29"
+last_updated: "2008-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre del 2000.
 
@@ -927,15 +927,111 @@ Por los servicios que presta el Instituto Estatal de Ecología, se cobrarán los
 
 ### CAPITULO IX. DE LAS CERTIFICACIONES
 
-### CAPITULO UNICO. DEL SANEAMIENTO
+### CAPITULO X. POR SERVICIOS DE VIGILANCIA, CONTROL Y EVALUACION
 
-### CAPITULO UNICO
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 53 A.- Los contratistas que celebren contratos de obra pública y servicios relacionados con la misma, con dependencias y entidades, pagarán sobre el importe de cada una de las estimaciones de trabajo, conforme a lo previsto en la Ley de Ingresos para el Estado de Oaxaca del ejercicio fiscal que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 53 B.- Los retenedores de los ingresos que por este derecho se recauden, deberán enterarlos en la oficina Recaudadora de Rentas u oficina autorizada por la Secretaría de Finanzas del Poder Ejecutivo del Gobierno del Estado de Oaxaca, dentro de los cinco días hábiles siguientes a aquél en que se retengan.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 53 C.- La falta de pago oportuno, dará lugar a la actualización del crédito y causación de los accesorios en los términos que al efecto disponga el Código Fiscal para el Estado de Oaxaca.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO XI. POR LOS SERVICIOS QUE PRESTA LA SECRETARIA DE OBRAS PUBLICAS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 53 D.- Por los servicios que presta la Secretaría de Obras Públicas, se pagarán los derechos previstos en la Ley de Ingresos del Estado de Oaxaca, del ejercicio fiscal que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 53 E.- Estos derechos deberán ser pagados en la oficina Recaudadora de Rentas u oficina autorizada por la Secretaría de Finanzas del Poder Ejecutivo del Gobierno del Estado de Oaxaca.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 53.
 
 Las certificaciones que realice cualquier autoridad en ejercicio de sus facultades, causarán por foja, los derechos que prevenga la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO XII. POR LOS SERVICIOS QUE PRESTA LA SECRETARIA DE CONTRALORIA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 53 F.- Por los servicios que .presta la Secretaría de Contraloría, se pagarán los derechos previstos en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 53 G.- Estos derechos deberán ser pagados en la oficina Recaudadora de Rentas u oficina autorizada por la Secretaría de Finanzas del Poder Ejecutivo del Gobierno del Estado de Oaxaca.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO XlII. POR LOS SERVICIOS QUE PRESTA LA SECRETARIA DE ADMINISTRACION
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 53 H.- Por los servicios que presta la Secretaria de Administración, se pagaran los derechos previstos en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 53 I.- Estos derechos, deberán ser pagados en la oficina Recaudadora de Rentas u Oficina autorizada por la Secretaria de Finanzas del Poder Ejecutivo del Gobierno del Estado de Oaxaca.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO XIV. POR LOS SERVICIOS QUE PRESTA EL ESTADO EN MATERIA DE ACCESO A LA INFORMACION PUBLICA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 53 J.- Por los servicios que presta el Estado en materia de Acceso a la Información Pública, se pagarán los derechos previstos en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO. 53 K.- Estos derechos deberán ser pagados en la oficina Recaudadora de Rentas u oficina autorizada por la Secretaría de. Finanzas del Poder Ejecutivo del Gobierno del Estado de Oaxaca.
+
 DISPOSICION GENERAL
+
+### CAPITULO UNICO. DEL SANEAMIENTO
+
+### CAPITULO UNICO
 
 ### CAPITULO UNICO
 
@@ -1118,3 +1214,7 @@ P.O. 5 DE SEPTIEMBRE DE 2007.
 P.O. 29 DE DICIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2008, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2009, previa publicación en el Periódico Oficial del Gobierno del Estado.
