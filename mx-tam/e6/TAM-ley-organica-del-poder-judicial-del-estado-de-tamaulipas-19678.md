@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2008-06-10"
+last_updated: "2008-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -47,9 +47,17 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
 La presente ley es reglamentaria del Título Sexto de la Constitución Política del Estado de Tamaulipas, y sus disposiciones, que son de orden público, tienen por objeto regular la estructura y funcionamiento del Poder Judicial del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 2º.
 
 Corresponde al Poder Judicial del Estado de Tamaulipas el ejercicio de la función jurisdiccional en los asuntos del fuero común, en los términos que prevén las Constituciones federal y local, y los ordenamientos legales que de ellas emanen; así como en los asuntos del orden federal en los casos que las leyes de ese fuero lo establezcan.
+
+###### ARTICULO 2°.
+
+Corresponde al Poder Judicial del Estado de Tamaulipas el ejercicio de la función jurisdiccional en los asuntos del fuero común, en los términos que prevén la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los ordenamientos legales que de ellas emanen; así como en los asuntos del orden federal, en los casos que las leyes de ese fuero lo establezcan y en la materia electoral local, en los términos de las propias Constituciones General y Particular del Estado, el Código Electoral de Tamaulipas, la Ley de Medios de Impugnación Electorales de Tamaulipas y esta.
+
+Lo relativo a la función jurisdiccional local en materia electoral a cargo del Tribunal Electoral del Poder Judicial del Estado, su naturaleza jurídica, fundamento constitucional, funciones, competencia, estructura orgánica, integración, y cuestiones administrativas se regula en el Título Noveno de esta Ley, por lo que se exceptúa a dicho órgano, en lo conducente, de las disposiciones relativas a la organización, funcionamiento, y administración del Poder Judicial del Estado, contenidas en la misma.
 
 ###### ARTICULO 3º.
 
@@ -57,11 +65,17 @@ La función jurisdiccional la ejercen:
 
 I.- En todo el Estado:
 
-a).- El Pleno del Supremo Tribunal de Justicia; y,
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+a).- El Pleno del Supremo Tribunal de Justicia;
 
-b).- Las Salas Colegiadas y las Salas Unitarias;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+b).- Las Salas Colegiadas y las Salas Unitarias; y
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+c).- El Tribunal Electoral del Poder Judicial del Estado.
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -105,11 +119,11 @@ Los árbitros privados designados voluntariamente no ejercerán autoridad públi
 
 Los tribunales del Estado estarán expeditos para administrar justicia, que impartirán en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando prohibido a sus servidores públicos recibir cualquier remuneración, gratificación, donación u obsequio de objetos o valores, aún cuando la actividad correspondiente se realice fuera de los tribunales o de las horas de despacho o en días y horas habilitados legalmente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 8°.
 
-Los Tribunales del Estado y sus dependencias despacharán durante los días hábiles del año. Son inhábiles los sábados, domingos y aquellos en que se suspendan las labores por acuerdo del Pleno del Supremo Tribunal de Justicia; en relación con las jurisdicciones penal y de justicia para adolescentes, deberá estarse a lo que dispongan la Constitución Política de los Estados Unidos Mexicanos y la ley de la materia.
+Los tribunales del Estado y sus dependencias despacharán durante los días hábiles del año. Son inhábiles los sábados, domingos y aquellos en que se suspendan las labores por acuerdo del Pleno del Supremo Tribunal de Justicia; en relación con las jurisdicciones electoral, penal y de justicia para adolescentes, deberá estarse a lo que dispongan la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -201,11 +215,15 @@ El Supremo Tribunal de Justicia residirá oficialmente en la capital del Estado.
 
 Se procurará que los Juzgados de Justicia para Adolescentes tengan su domicilio en donde se encuentren ubicados los Centros de Reintegración Social y Familiar para Adolescentes Infractores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+El Tribunal Electoral del Poder Judicial del Estado residirá oficialmente en Victoria.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 10.
 
-El territorio del Estado de Tamaulipas, con excepción de la justicia para adolescentes, se divide en quince Distritos, los cuales son:
+El territorio del Estado de Tamaulipas, con excepción de la justicia para adolescentes y la electoral, se divide en quince Distritos, los cuales son:
 
 PRIMER DISTRITO JUDICIAL: Cabecera en Victoria, y comprende los Municipios de Victoria, Güemez y Casas.
 
@@ -2041,6 +2059,10 @@ IX.- Instalar y mantener en adecuado funcionamiento las redes de computadoras en
 
 X.- Diseñar, elaborar y mantener actualizada una página de Internet y los sistemas que se requieran para el caso, que permita consultar las actividades sobre impartición de justicia del Poder Judicial.
 
+### CAPITULO I. DEL PLENO, SU INTEGRACION Y COMPETENCIA
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 151.
 
 La Visitaduría estará a cargo de un Director y el número de visitadores que se requiera, debiendo contar todos ellos con título de Licenciado en Derecho y experiencia mínima de tres años en el ejercicio de la profesión, contados a partir de su obtención.
@@ -2054,6 +2076,10 @@ II.- Proponer al Presidente del Supremo Tribunal, a más tardar en el mes de nov
 III.- Rendir al Presidente un informe escrito del resultado de las visitas, anexando las actas que al efecto se levanten.
 
 ## TITULO OCTAVO
+
+### CAPITULO II. DEL MAGISTRADO PRESIDENTE
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 #### SECCION PRIMERA. DE LA OFICIALIA DE PARTES
 
@@ -2315,6 +2341,364 @@ III.- Actualizar la información pública de oficio y demás disponible en la p�
 
 IV.- Resolver consultas de información pública presentadas por los interesados.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+## TITULO NOVENO. DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO III. DE LOS MAGISTRADOS ELECTORALES Y SUS PONENCIAS
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 180.
+
+De conformidad con las fracciones III y IV del artículo 20 de la Constitución Política del Estado, el Tribunal Electoral es el órgano especializado del Poder Judicial y la máxima autoridad jurisdiccional en materia electoral en el Estado.
+
+Para el ejercicio de sus atribuciones gozará de autonomía en su funcionamiento e independencia en sus decisiones; emitirá sus resoluciones con plenitud de jurisdicción.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 181.
+
+El Tribunal Electoral realizará su función jurisdiccional en forma permanente a través de su Pleno, que estará integrado por cinco magistrados electorales, uno de quienes lo presidirá.
+
+El Tribunal Electoral tendrá su sede en Ciudad Victoria.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 182.
+
+En términos de lo dispuesto por la fracción IV del artículo 20 de la Constitución Política del Estado, así como en los establecido en la Ley de Medios de Impugnación Electorales de Tamaulipas, el Pleno del Tribunal Electoral, es competente para:
+
+I.- Resolver, en forma definitiva en la instancia local, sobre las impugnaciones en las elecciones (sic) Gobernador, Diputados e integrantes de los ayuntamientos;
+
+II.- Resolver, en forma definitiva en la instancia local, sobre las impugnaciones de actos y resoluciones que violen los derechos político-electorales de los ciudadanos de votar y ser votado, en los términos que señalen las leyes;
+
+III.- Resolver, en forma definitiva en la instancia local, sobre las impugnaciones de actos, resoluciones y omisiones del Instituto Electoral de Tamaulipas;
+
+IV.- Resolver los conflictos o diferencias laborales entre el Tribunal Electoral o el Instituto Electoral de Tamaulipas y sus servidores;
+
+V.- Aprobar anualmente el proyecto de presupuesto del Tribunal Electoral y proponerlo al Presidente del Supremo Tribunal de Justicia para su inclusión en el proyecto de presupuesto del Poder Judicial del Estado;
+
+VI.- Expedir sus reglamentos y los acuerdos generales necesarios para su adecuado funcionamiento;
+
+VII.- Resolver sobre los conflictos concernientes a impedimentos presentados contra los magistrados;
+
+VIII.- Fijar jurisprudencia en los términos de esta ley;
+
+IX.- Conceder licencias a los magistrados electorales que lo integran;
+
+X.- Nombrar los comités que sean necesarios para la atención de los asuntos de su competencia;
+
+XI.- Recibir la protesta del Secretario General de Acuerdos;
+
+XII.- Recibir las renuncias a sus cargos que, por causa justificada, presenten los integrantes del Pleno, dando cuenta al Presidente del Supremo Tribunal de Justicia para los efectos correspondientes;
+
+XIII.- Calificar y resolver de inmediato, las excusas que para abstenerse del conocimiento de un asunto, presenten los integrantes del Pleno o el Secretario General de Acuerdos;
+
+XIV.- Designar al funcionario que supla las ausencias temporales del Secretario General de Acuerdos, a propuesta del Presidente; y
+
+XV.- Las demás que señalen las leyes.
+
+El Tribunal Electoral ejercerá sus atribuciones a través de su Pleno, salvo cuando éste o la ley las reserve a otro órgano o funcionario del Tribunal.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 183.
+
+Bastará la presencia de tres magistrados electorales para que pueda sesionar válidamente el Pleno; éste emitirá sus resoluciones y tomará sus decisiones por mayoría simple de sus integrantes. Las sesiones del Tribunal Electoral serán públicas.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 184.
+
+Los magistrados sólo podrán abstenerse de votar cuando tengan impedimento legal o no hayan estado presentes en la discusión del asunto. En caso de empate el Magistrado Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 185.
+
+Cuando un magistrado electoral disintiere de la mayoría o su proyecto fuera rechazado, podrá formular voto particular, el cual se insertará al final de la sentencia aprobada, siempre y cuando se presente antes de que ésta sea firmada.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 186.
+
+Los magistrados electorales durarán en su encargo seis años improrrogables y no podrán ser reelectos; su elección será escalonada. En caso de vacante definitiva se nombrará a un nuevo magistrado quien durará en su cargo por el tiempo restante al del nombramiento original.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 187.
+
+El Pleno del Supremo Tribunal de Justicia propondrá al Congreso del Estado a dos candidatos para ocupar la vacante de magistrado electoral o de Magistrado Presidente, según sea el caso, de conformidad con las reglas y procedimiento siguiente:
+
+I.- A más tardar 90 días antes de la conclusión del periodo para el que fueron electos los magistrados electorales que correspondan o el Magistrado Presidente, o cuando se genere la vacante o ausencia definitiva, el Pleno del Supremo Tribunal de Justicia emitirá una convocatoria pública a efecto de que los ciudadanos que cumplan con los requisitos constitucionales y legales estén en aptitud de poder ser considerados para integrar el Pleno del Tribunal Electoral;
+
+II.- Los candidatos que cumplan los requisitos, serán evaluados por el Pleno del Supremo Tribunal de Justicia, conforme a las reglas y modalidades que se establezca en el Acuerdo que para tal efecto emitan;
+
+III.- En sesión pública, el Pleno del Supremo Tribunal de Justicia determinará por mayoría simple de los presentes, las propuestas que enviará al Congreso del Estado;
+
+IV.- El Presidente del Supremo Tribunal de Justicia hará llegar al Congreso del Estado las propuestas para magistrados electorales o Magistrado Presidente, según sea el caso;
+
+V.- De entre los candidatos para cada vacante, Congreso del Estado elegirá, a los magistrados electorales o Magistrado Presidente del Tribunal Electoral, según sea el caso, por el voto de las dos terceras partes de sus miembros presentes y conforme a las reglas establecidas en el artículo 134 de la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado; y
+
+VI.- Si ninguno de los candidatos propuestos obtuviera la mayoría calificada en el Congreso del Estado, se notificará al Supremo Tribunal de Justicia para que presente otra propuesta.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 188.
+
+Los magistrados del Tribunal Electoral, además de reunir los mismos requisitos constitucionales que se exigen para los miembros del Supremo Tribunal de Justicia, deberán cumplir con los siguientes:
+
+I.- No desempeñar o haber desempeñado cargo de dirección en partido político alguno, en los últimos 3 años;
+
+II.- No haber tenido en los últimos 5 años algún cargo de elección popular;
+
+III.- Tener residencia de dos años en el Estado; y
+
+IV.- Al momento de su designación, estar inscrito en el Registro Federal de Electores y contar con la credencial para votar con fotografía.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 189.
+
+La retribución que reciban los magistrados electorales y el Magistrado Presidente, será igual a la que recibe un magistrado del Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 190.
+
+Para el trámite de las solicitudes de licencia de los magistrados electorales o del Magistrado Presidente, será aplicable, en lo conducente, lo establecido para el caso de los integrantes de Pleno del Supremo Tribunal del Justicia. Los magistrados electorales o el Magistrado Presidente no podrán pedir licencia por más de dos meses; en proceso electoral no podrán pedir licencia por más de una semana.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 191.
+
+Al Tribunal Electoral, su Pleno, sus integrantes y demás órganos del mismo, les serán aplicables, en lo conducente, las disposiciones normativas que rigen el funcionamiento del Supremo Tribunal de Justicia, salvo que en este Título se prevea alguna excepción.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO IV. DE LA SECRETARIA GENERAL DE ACUERDOS
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 192.
+
+El Presidente del Tribunal Electoral, tendrá las siguientes atribuciones:
+
+I.- Representar al Tribunal, celebrar convenios, otorgar todo tipo de poderes y realizar los actos jurídicos y administrativos que se requieren para el buen funcionamiento del Tribunal;
+
+II.- Presidirá el Pleno y la Comisión de Administración, Vigilancia y Disciplina;
+
+III.- Coordinar y supervisar los trabajos y presidir las sesiones del Pleno; así como dirigir los debates y conservar el orden durante las mismas. Cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo de los presentes y la continuación de la sesión en privado;
+
+IV.- Proponer a los magistrados, el nombramiento o remoción del Secretario General de Acuerdos;
+
+V.- Vigilar que se cumplan, según corresponda, las determinaciones del Pleno;
+
+VI.- Enviar el presupuesto anual del Tribunal Electoral al Presidente del Supremo Tribunal de Justicia, para los efectos del penúltimo párrafo de la fracción IV del artículo 20 de la Constitución Política del Estado;
+
+VII.- Vigilar que el Tribunal Electoral cuente con los recursos humanos, financieros y materiales necesarios para su buen funcionamiento y designar al personal administrativo;
+
+VIII.- Convocar a sesiones públicas o reuniones internas de magistrados electorales y demás personal jurídico; técnico y administrativo del Tribunal Electoral;
+
+IX.- Despachar la correspondencia del Tribunal y del Pleno;
+
+X.- Comunicar al Presidente de Supremo Tribunal de Justicia las ausencias definitivas de los magistrados electorales para los efectos procedentes;
+
+XI.- Turnara los integrantes del Pleno, según sea el caso, los expedientes para que formulen los proyectos de resolución;
+
+XII.- Requerir o solicitar cualquier informe o documento que obre en poder del Instituto Electoral de Tamaulipas y exhortar a las autoridades federales, estatales o municipales, que aporten lo que pueda servir para la substanciación o resolución de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en las leyes;
+
+XIII.- Rendir un informe ante el Pleno del Supremo Tribunal de Justicia al término de cada proceso electoral, de conformidad con lo establecido en el artículo 114, fracción XXXIV de la Constitución Política del Estado de Tamaulipas;
+
+XIV.- Vigilar que se cumplan las disposiciones reglamentarias; y
+
+XV.- Las demás que sean necesarias para el buen funcionamiento del Tribunal Electoral.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 193.
+
+Las ausencias del Presidente serán suplidas, si no exceden de dos meses, por el magistrado electoral de mayor antigüedad o, en su caso, de mayor edad.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO V. DE LA COMISION DE ADMINISTRACION, VIGILANCIA Y DISCIPLINA
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 194.
+
+Son atribuciones de los magistrados integrantes del Pleno, las siguientes:
+
+I.- Integrar el Pleno para resolver colegiadamente los asuntos de su competencia;
+
+II.- Formular los proyectos de resolución que recaigan a los expedientes que les sean turnados para tal efecto;
+
+III.- Exponer en sesión pública, personalmente, por conducto de un Secretario de Estudio y Cuenta o del Secretario General de Acuerdos, sus proyectos de sentencia, señalando las consideraciones jurídicas y los preceptos en que se funden;
+
+IV.- Discutir y votar los proyectos de sentencia que sean sometidos a su consideración en las sesiones públicas;
+
+V.- Realizar los engroses de los fallos aprobados por el Pleno, cuando sean designados para tales efectos;
+
+VI.- Admitir los medios de impugnación y los escritos de terceros interesados o coadyuvantes, en los términos que señale la ley de la materia;
+
+Vll.- Someter a consideración del Pleno, cuando proceda, la acumulación de las impugnaciones así como la procedencia de la conexidad, en los términos de las leyes aplicables;
+
+VIII.- Formular los requerimientos ordinarios necesarios para la integración de los expedientes en los términos de la legislación aplicable, y requerir cualquier informe o documento que, obrando en poder de los órganos del Instituto Electoral de Tamaulipas, de las autoridades federales, estatales o municipales, de los partidos políticos o de particulares, puada servir para la sustanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en las leyes aplicables; y
+
+IX.- Las demás que les señalen las leyes o reglamentos respectivos.
+
+Los magistrados tendrán obligación de guardar absoluta reserva sobre los asuntos del Tribunal.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 195.
+
+Durante el tiempo que ejerzan sus funciones, los magistrados no podrán, en ningún caso, aceptar o desempeñar empleo o cargo de la Federación, de los Estados, Municipios o de particulares, salvo los relacionados con asociaciones científicas, docentes, o de beneficencia siempre que sean compatibles con el ejercicio de la Magistratura.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 196.
+
+Cada integrante del Pleno contará con el apoyo de Secretarios de estudio y cuenta, Secretarios auxiliares, actuarios y demás personal que sea necesario para el desahogo de los asuntos de su competencia, en los términos de las disposiciones reglamentarias aplicables.
+
+Los Secretarios y demás personas del Tribunal Electoral se conducirán con imparcialidad y legalidad en todas las diligencias y actuaciones en que intervengan en el desempeño de sus funciones. El personal jurídico y administrativo tendrá la obligación de guardar absoluta reserva sobre los asuntos del Tribunal.
+
+Todos los servidores del Tribunal serán considerados personal de confianza.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO VI. DE LA JURISPRUDENCIA ELECTORAL
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 197.
+
+Para el ejercicio de sus funciones, el Tribunal Electoral contará con un Secretario General de Acuerdos; éste tendrá las siguientes atribuciones:
+
+I.- Apoyar al Presidente en las tareas que le encomiende;
+
+II.- Dar cuenta, recabar las resoluciones de fondo, tomar las votaciones cuando éstas procedan y formular las actas respectivas;
+
+III.- Revisar el engrose de las resoluciones del Pleno;
+
+IV.- Llevar el control del turno de los integrantes del Pleno;
+
+V.- Supervisar el debido funcionamiento de la Oficialía de Partes y de los actuarios, de conformidad con disposiciones reglamentarias;
+
+VI.- Supervisar que se hagan en tiempo y forma las notificaciones del Pleno y las ponencias;
+
+VII.- Dictar, previo acuerdo con el Presidente, los lineamientos generales para la identificación e integración de los expedientes;
+
+VIII.- Supervisar el debido funcionamiento de los archivos jurisdiccionales del Tribunal;
+
+IX.- Autorizar con su firma las actuaciones del Pleno;
+
+X.- Expedir constancias certificadas de las que obren en los archivos del Tribunal Electoral; y
+
+XI.- Las demás atribuciones que le otorguen el Pleno y su Presidente.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 198.
+
+Para su designación, el Secretario General de Acuerdos deberá satisfacer los siguientes requisitos:
+
+I.- Ser ciudadano del Estado, en pleno ejercicio de sus derechos políticos y civiles;
+
+II.- Tener título de Licenciado en Derecho legalmente expedido;
+
+III.- No tener, o haber desempeñado, cargo de elección popular en los 3 últimos años; y
+
+IV.- No ser o haber sido dirigente nacional, estatal o municipal de algún partido político, en los últimos 3 años.
+
+El Secretario General percibirá la remuneración prevista en el presupuesto de egresos y tendrá la obligación de guardar absoluta reserva sobre los asuntos del Tribunal Electoral.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 199.
+
+La administración, vigilancia y disciplina del Tribunal Electoral estarán a cargo de una Comisión que se integra de conformidad con lo dispuesto en el antepenúltimo párrafo de la fracción IV del artículo 20 de la Constitución Política del Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 200.
+
+La Comisión de Administración, Vigilancia y Disciplina sesionará válidamente con la presencia de dos de sus integrantes y adoptará sus resoluciones por unanimidad o mayoría de los integrantes presentes. Los integrantes no podrán abstenerse de votar salvo que tengan excusa o impedimento legal. En caso de empate, el Presidente tendrá voto de calidad.
+
+Cuando una sesión de la Comisión no se pueda celebrar por falta de quórum, se convocará nuevamente por el Presidente para que tenga verificativo dentro de las 24 horas siguientes. En este caso sesionará válidamente con el número de los Integrantes que se presenten. Las sesiones ordinarias o extraordinarias de la Comisión serán privadas.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 201.
+
+La Comisión determinará cada año sus periodos de vacaciones y demás actividades, tomando en cuenta los calendarios electorales.
+
+(F. DE. DE, P.O. 31 DE DICIEMBRE DE 2008)
+
+Cuando la Comisión de Administración estime que sus acuerdos o resoluciones pudieran resultar de interés general, deberá ordenar su publicación en el Periódico Oficial de la Federación.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 202.
+
+La Comisión de Administración, Vigilancia y Disciplina tendrá las atribuciones siguientes:
+
+I.- Expedir las normas internas en materia administrativa y establecer las disposiciones generales necesarias para el ingreso, carrera, escalafón y régimen disciplinario, así como las relativas a estímulos y capacitación del personal del Tribunal Electoral;
+
+II.- Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, así como los servicios al público;
+
+III.- Dictar las medidas que exijan el buen servicio y la disciplina en el Tribunal Electoral;
+
+IV.- Conceder licencias al personal administrativo adscrito al Tribunal en los términos previstos en esta Ley;
+
+V.- Decretar, cuando proceda, la suspensión, remoción o cese del personal jurídico y administrativo del Tribunal;
+
+VI.- Conocer de las renuncias que presenten los Secretarios y demás personal del Tribunal;
+
+VII.- Conocer y resolver sobre las quejas administrativas y sobre la responsabilidad de los servidores públicos en los términos de lo que (sic) dispuesto en esta Ley y las demás que resulten aplicables;
+
+VIII.- Imponer las sanciones que correspondan a los servidores del Tribunal por las irregularidades o faltas en que incurran en el desempeño de sus funciones en los términos de lo dispuesto (sic) esta Ley y las demás que resulten aplicables;
+
+IX.- Nombrar, a propuesta que haga su Presidente, a los titulares y servidores públicos de los órganos auxiliares de la Comisión, de conformidad con las disposiciones reglamentarias aplicables;
+
+X.- Aportar al Pleno del Tribunal Electoral todos los elementos necesarios para elaborar el anteproyecto de presupuesto anual de egresos del Tribunal Electoral;
+
+XI.- Ejercer el presupuesto de egresos del Tribunal Electoral;
+
+XII.- Administrar los bienes muebles e inmuebles al servicio del Tribunal Electoral, cuidando su mantenimiento, conservación y acondicionamiento; y
+
+XIII.- Desempeñar cualquier otra función que la ley o las disposiciones reglamentarias respectivas le encomienden.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 203.
+
+La Comisión contará con una Secretaria Administrativa y con los órganos auxiliares necesarios para el adecuado ejercicio de las funciones que tiene encomendadas. Su estructura y funciones quedarán determinadas en reglamento respectivo.
+
+La Comisión de Administración, Vigilancia y Disciplina del Tribunal Electoral funcionará conforme las disposiciones reglamentarias aplicables.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 204.
+
+La jurisprudencia del Tribunal Electoral será establecida en los casos y de conformidad con las reglas siguientes:
+
+I.- Cuando el Pleno, en tres sentencias no interrumpidas por otra en contrario, sostenga el mismo criterio de aplicación, interpretación o integración de una norma;
+
+II.- La jurisprudencia del Tribunal Electoral se interrumpirá y dejará de tener carácter obligatorio, siempre y cuando haya un pronunciamiento en contrario por mayoría de cuatro votos de los miembros del Pleno. En la resolución respectiva se expresarán las razones en que se funde el cambio de criterio, el cual constituirá jurisprudencia; y
+
+III.- Para que el criterio de jurisprudencia resulte obligatorio, se requerirá de la declaración formal del Pleno. Realizada la declaración, la jurisprudencia se notificará de inmediato al Instituto Electoral de Tamaulipas y otras autoridades electorales que se considere, y se publicará en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 205.
+
+La jurisprudencia del Tribunal Electoral será obligatoria en todos los casos para el Instituto Electoral de Tamaulipas.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
@@ -2418,3 +2802,13 @@ P.O. 10 DE JUNIO DE 2008.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2008.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
