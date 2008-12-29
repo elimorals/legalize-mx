@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-defensa-nacional-106
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-01"
-last_updated: "2002-07-01"
+last_updated: "2008-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1992-08-30"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA DEFENSA NACIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JULIO DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE LA DEFENSA NACIONAL, PUBLICADO EN EL D.O.F. DE 29 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 1 de septiembre de 1992.
 
@@ -1402,3 +1404,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se deroga el Decreto publicado en el Diario Oficial de la Federación el 13 de septiembre de 1991, por el que se creó la Dirección General de Fábricas de la Defensa Nacional.
 
 TERCERO. Las menciones contenidas en otros ordenamientos respecto de la Dirección General de Fábricas se entenderán referidas a las unidades administrativas que se crean en este Decreto, conforme a la esfera de su respectiva competencia.
+
+D.O.F. 29 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de la Defensa Nacional, publicado en el Diario Oficial de la Federación el 1 de septiembre de 1992.
+
+TERCERO.- Se derogan todas las disposiciones administrativas que se opongan al presente ordenamiento.
