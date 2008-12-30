@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-acceso-a-la-informacion-gubernamental-del-estado-de-2622
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-27"
-last_updated: "2007-03-31"
+last_updated: "2008-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ESTATAL DE ACCESO A LA INFORMACIÓN GUBERNAMENTAL EN EL ESTADO DE QUERETARO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de septiembre de 2002.
 
@@ -55,17 +55,17 @@ II.- Datos Personales: La información concerniente a una persona física, ident
 
 III.- Derecho de Acceso a la información Pública: La prerrogativa que tiene toda persona para acceder a la información creada, administrada o en poder de las entidades gubernamentales o de interés público, en los términos de la presente Ley;
 
-IV.- Entidad Gubernamental:
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
-a) Los Poderes Legislativo y Judicial del Estado, sus órganos y dependencias;
+IV. Entidad Gubernamental:
 
-b) El Poder Ejecutivo del Estado, sus órganos y dependencias, los organismos descentralizados, empresas de participación estatal y los fideicomisos públicos;
+a) Los Poderes Legislativo, Judicial y Ejecutivo del Estado, sus órganos y dependencias;
 
-c) Los Ayuntamientos y los órganos, dependencias y entidades municipales y paramunicipales; y
+b) Los organismos descentralizados, empresas de participación estatal y fideicomisos públicos, estatales y municipales;
 
-d) Los organismos dotados de autonomía por la Constitución Política del Estado y demás entidades que con ese carácter prevea la Constitución y demás leyes estatales.
+c) Los ayuntamientos, sus órganos y dependencias;
 
-Se entienden adscritos a esta categoría el Instituto Electoral de Querétaro, la Comisión Estatal de Derechos Humanos, el Tribunal de los Contencioso Administrativo, el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicios del Estado y Municipios y la Comisión Estatal de Información Gubernamental.
+d) Los organismos dotados de autonomía por la Constitución Política del Estado de Querétaro;
 
 V.- Entidad de Interés Público: Los partidos y organizaciones políticas con registro oficial; las demás entidades a las que la Constitución y la legislación local reconozcan como de interés público; y las personas de derecho público o privado, cuando el ejercicio de sus actividades actúen en auxilio de los órganos y entidades antes citados y cuando ejerzan gasto público, reciban subsidio o subvención.
 
@@ -89,7 +89,9 @@ Todos los servidores públicos de las entidades gubernamentales están sometidos
 
 En materia política sólo podrán hacer uso de éste derecho los ciudadanos mexicanos.
 
-Ninguna autoridad está obligada a proporcionar información que no sea de su competencia, se encuentre impedida de conformidad con ésta ley para proporcionarla, pertenezca a otros órganos de gobierno o no esté en su posesión al momento de efectuarse la solicitud.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+Ninguna autoridad está obligada a proporcionar información que no sea de su competencia, se encuentre impedida de conformidad con ésta ley para proporcionarla, pertenezca a otros órganos de gobierno, no esté en su posesión al momento de efectuarse la solicitud o no obre en algún documento.
 
 ###### Artículo 5.
 
@@ -97,11 +99,11 @@ Sólo podrá negarse la información que conforme a esta ley tenga el carácter 
 
 En la interpretación de la Ley se deberá favorecer el principio de publicidad de la información en posesión de las entidades gubernamentales.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 6.
 
-La consulta de la información es gratuita; sin embargo, la reproducción de copias simples o elementos técnicos deben tener un costo directamente relacionado con el material empleado. Las leyes de ingresos deben fijar el costo por la expedición de copias certificadas o cualquier otro medio de entrega, sin que lo anterior implique lucro a favor de la autoridad generadora de la información.
-
-Únicamente se entregará la información pública una vez cubierto el costo correspondiente, cuando este proceda. Si el solicitante determina que la información le sea proporcionada de manera verbal o por correo electrónico no se originará ningún pago. Si la solicitara contenida en un medio electrónico o magnético deberá proveer a la autoridad de los discos o cintas que se requieran.
+La consulta de la información es gratuita; sin embargo, la búsqueda, extracción y reproducción de copias simples o elementos técnicos deben tener un costo directamente relacionado con los materiales y recursos empleados, el cual deberá ser cubierto por el solicitante de manera previa a la entrega de la información. El costo por la expedición de copias certificadas o cualquier otro medio de entrega, se fijará en las leyes de la materia, sin que ello implique lucro a favor de la autoridad generadora de la información.
 
 ### CAPÍTULO SEGUNDO. Información que debe ser difundida por las Entidades Gubernamentales y de Interés Público
 
@@ -109,67 +111,75 @@ La consulta de la información es gratuita; sin embargo, la reproducción de cop
 
 Las entidades gubernamentales y de interés público a que se refiere la presente Ley con excepción de la clasificada como reservada o confidencial, tienen la obligación de poner a disposición del público y mantener actualizada la información pública en los términos del Reglamento respectivo. Para tales efectos, según convenga lo realizarán por los medios oficiales y aquellos que pueden lograr el conocimiento público, tales como publicaciones, folletos, periódicos, murales, medios electrónicos o cualquier otro medio de comunicación pertinente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+Deberán tener un portal en internet, en cuya página de inicio habrá una indicación claramente visible que señale el sitio donde se encuentre la información a la que se refiere el presente artículo, debiendo utilizar un lenguaje claro, accesible, que facilite su comprensión por todos los posibles usuarios; contará con buscadores temáticos y dispondrá de un respaldo con todos los registros electrónicos para cualquier persona que los solicite.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+Asimismo, deberán fomentar la publicación de información útil para la ciudadanía, tales como servicios públicos y trámites.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 Será obligatoria la información siguiente:
 
-I.- Se estructura orgánica, los servicios que presta, las atribuciones por unidad administrativa y la normatividad que las rige;
+I. Su estructura orgánica, los servicios que presta, las atribuciones por unidad administrativa y la normatividad que las rige;
 
-II.- El periódico oficial, decretos administrativos, reglamentos, circulares y demás disposiciones de observancia general que regulen el desarrollo de la entidad.
+II. El Periódico Oficial del Gobierno del Estado, gacetas municipales, acuerdos administrativos, reglamentos, circulares y demás disposiciones de observancia general que regulen el desarrollo de la entidad;
 
-III.- El directorio de los servidores públicos o funcionarios, desde el nivel de jefe de área o sus equivalentes;
+III. El directorio de servidores públicos o funcionarios, a partir del nivel de jefe de área o sus equivalentes;
 
-IV.- El ejercicio del presupuesto de egresos desglosado, incluidos entre otros elementos, licitaciones, compras, enajenaciones, créditos y demás actos relacionados con el uso del gasto público;
+IV. El ejercicio del presupuesto de egresos desglosado, incluidos, entre otros elementos, las licitaciones, compras, enajenaciones, créditos y demás actos relacionados con el uso del gasto público;
 
-V.- Balances, estados financieros, documentación contable, formularios, auxiliares, y otros de la misma especie, nóminas, listas de personal, asesores externos, peritos y demás auxiliares;
+V. Balances, estados financieros, documentación contable, formularios, nóminas, listas de personal, asesores externos, peritos y demás información que refleje el estado financiero de la entidad;
 
-VI.- Estadística e indicadores sobre información relevante relativa a la procuración de justicia y la actividad del ministerio público.
+VI. Estadística e indicadores sobre información relevante, respecto a la procuración de justicia y a la actividad del Ministerio Público;
 
-VII.- La renumeración mensual por puesto, incluyendo las compensaciones, prestaciones o prerrogativas en especie o efectivo que reciban;
+VII. La remuneración mensual por puesto de los servidores públicos, incluyendo las compensaciones, prestaciones o prerrogativas en especie o efectivo que reciban;
 
-VIII.- Los datos y fundamentos finales contenidos en los expedientes administrativos que justifican el otorgamiento o no otorgamiento de permiso, concesiones o licencias que la ley confiere autorizar a cualquiera de las entidades gubernamentales, así como las contrataciones, licitaciones y los procesos de toda adquisición de bienes o servicios;
+VIII. Los datos y fundamentos finales contenidos en los expedientes administrativos que justifican el otorgamiento o el rechazo de permisos, concesiones o licencias que la ley permite autorizar a cualquiera de las entidades gubernamentales; así como las contrataciones, licitaciones y los procesos de toda adquisición de bienes o servicios;
 
-IX.- Manuales de organización y, en general, la base legal que fundamente la actuación de las entidades gubernamentales;
+IX. Manuales de organización y, en general, la base legal que fundamente la actuación de las entidades gubernamentales;
 
-X.- Las cuentas públicas y sus respectivos dictámenes, sus observaciones y sanciones, así como los procedimientos de estas y su ejecución;
+X. Las cuentas públicas y sus respectivos dictámenes, sus observaciones y sanciones, así como los procedimientos de éstas y de su ejecución;
 
-XI.- Los resultados de las auditorias al ejercicio presupuestal que realicen, según corresponda, los órganos de control interno y la Entidad de Fiscalización de la Legislatura del Estado;
+XI. Los resultados de las auditorías al ejercicio presupuestal que realicen, según corresponda, los órganos de control interno y la Entidad Superior de Fiscalización del Estado;
 
-XII.- Los destinatarios y el uso autorizado de toda entrega de recursos públicos, cualquiera que sea su destino;
+XII. Los destinatarios y el uso autorizado de toda entrega de recursos públicos, cualquiera que sea su destino;
 
-XIII.- El nombre, domicilio oficial, teléfonos y dirección electrónica, en su caso de los servidores públicos encargados de gestionar y resolver las solicitudes de información pública;
+XIII. El domicilio oficial, nombre, teléfonos y dirección electrónica, en su caso, de los servidores públicos encargados de gestionar y resolver las solicitudes de información pública;
 
-XIV.- Direcciones electrónicas, requisitos de acceso al sistema de computo acervos bibliográficos o hemerográfico o requisitos para su consulta, publicaciones oficiales, revistas, decretos administrativos, circulares y demás disposiciones de observancia general;
+XIV. Direcciones electrónicas, requisitos de acceso al sistema de cómputo, acervos bibliográficos o hemerográfico y requisitos para su consulta; publicaciones oficiales, revistas, decretos administrativos, circulares y demás disposiciones de observancia general;
 
-XV.- Estadísticas de tipo de juicios y procedimientos administrativos, montos, tiempos de resolución y costos promedio;
+XV. Estadísticas sobre tipo de juicios y procedimientos administrativos, montos, tiempos de resolución y costos promedio;
 
-XVI.- La información de los órganos jurisdiccionales, administrativos o del trabajo, que tengan por objeto resolver controversias o aplicar el derecho, además de la citada en las otras fracciones de este artículo, se archivará electrónicamente y se constituirá básicamente por los siguientes elementos:
+XVI. La información de los órganos jurisdiccionales, administrativos o del trabajo, que tengan por objeto resolver controversias o aplicar el derecho, además de la citada en las otras fracciones de este artículo, se archivará electrónicamente y se constituirá básicamente por los siguientes elementos:
 
-a) Lista de todas las partes, incluyendo magistrados, presidentes, jueces, abogados y ministerios públicos.
+a) Lista de las partes, los magistrados, presidentes, jueces, abogados y Agentes del Ministerio Público que intervengan.
 
-b) Tipo de juicio ó procedimiento, la acción, la naturaleza de los hechos discutidos y los montos de la demanda, reconvención o procedimiento.
+b) Tipo de juicio o procedimiento, la acción ejercitada, la naturaleza de los hechos discutidos y los montos reclamados.
 
-c) Un extracto de las resoluciones y determinaciones más trascendentales como el ejercicio de la acción penal, las sentencias interlocutorias y definitiva, laudos y resoluciones de apelación y de amparo.
+c) Un extracto de las resoluciones y determinaciones más trascendentales, como el ejercicio de la acción penal, las sentencias interlocutorias y definitivas, laudos y resoluciones de apelación y de amparo.
 
 Las partes podrán oponerse a la publicación de sus datos personales;
 
-XVII.- Las formulas de participación ciudadana, en su caso, para la toma de decisiones por parte de las entidades gubernamentales;
+XVII. Las fórmulas de participación ciudadana, en su caso, para la toma de decisiones por parte de las entidades gubernamentales;
 
-XVIII.- Los servidores y programas de apoyo que ofrecen, así como los trámites, requisitos y formatos para acceder a los mismos:
+XVIII. Los servicios y programas de apoyo que ofrecen, así como los trámites, requisitos y formatos para acceder a los mismos;
 
-XIX.-Los balances generales y su estado financiero;
+XIX. Las controversias entre entidades gubernamentales;
 
-XX.- Las controversias entre entidades gubernamentales;
+XX. Las iniciativas y dictámenes aprobados por la Legislatura del Estado;
 
-XXI.- Iniciativas, Puntos de Acuerdo, Escritos de Particulares y dictámenes sobre iniciativas que se presenten en la Legislatura;
+XXI. Los informes anuales de actividades;
 
-XXII.- Informes anuales de actividades:
+XXII. La aplicación del Fondo Auxiliar para la Administración de Justicia del Poder Judicial y cualquier otro análogo de todas las entidades gubernamentales;
 
-XXIII.- La aplicación del Fondo Auxiliar para la Administración de Justicia del Poder Judicial y cualquier otro análogo de todas las entidades gubernamentales:
+XXIII. Las convocatorias a concurso o licitación de obras, adquisiciones, arrendamientos, prestación de servicios, concesiones, permisos y autorizaciones, así como sus resultados;
 
-XXIV.- Las convocatorias a concurso o licitación de obras, adquisiciones, arrendamientos, prestación de servicios, concesiones, permisos y autorizaciones, así como sus resultados;
+XXIV. El padrón de proveedores; y
 
-XXV.- Padrón de proveedores; y
-
-XXVI.- Toda información que sea de utilidad para el ejercicio del derecho de acceso a la información pública, excepto la información que atente los derechos de terceros, ataque la moral, altere el orden público y la paz social o afecte la intimidad de las personas.
+XXV. Toda aquella información que sea de utilidad para el ejercicio del derecho de acceso a la información pública, excepto la que atente contra derechos de terceros, ataque la moral, altere el orden público, la paz social o afecte la intimidad de las personas.
 
 ###### Artículo 8.
 
@@ -293,9 +303,11 @@ b) La de carácter personal contenida en los registros y expedientes del persona
 
 c).- La contenida en procesos administrativos de responsabilidad, antes de que sea resuelta la causa. Las resoluciones dictadas en los procesos administrativos de responsabilidad no serán reservadas ni confidenciales;
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 15.
 
-La información pública tendrá carácter de reservada y no podrá divulgarse cuando lo disponga ésta Ley. También tendrá el carácter de reservada:
+La información pública tendrá carácter de reservada y no podrá divulgarse, cuando así lo disponga la ley. También tendrá el carácter de reservada:
 
 I.- La información protegida por derechos de propiedad intelectual, industrial o de otro tipo, que no pueda ser divulgada o reproducida sin la autorización de su titular.
 
@@ -373,7 +385,9 @@ En ningún caso la entrega de información estará condicionada a que se motive 
 
 II.- Si la solicitud de información no es clara o precisa, deberá por una sola vez, prevenirse al particular para que dentro de los diez días hábiles siguientes a la fecha en que se notifique esta prevención, aclare, corrija o amplíe su solicitud, apercibiéndolo de tenerla por no presentada si no cumple el requerimiento en el término señalado;
 
-III.- Deberá entregarse la información solicitada en un término no mayor de treinta días naturales. Si se trata de aquella que sólo puede ser consultada se permitirá al solicitante el acceso a los lugares o medios en que la misma se encuentre. En caso de que la información solicitada sea de aquella que conforme a esta Ley tenga carácter de reservada, se le hará saber al particular esta circunstancia por escrito en igual término;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+III.- Deberá entregarse la información solicitada en un término no mayor de veinte días naturales. Si se trata de aquella que sólo puede ser consultada se permitirá al solicitante el acceso a los lugares o medios en que la misma se encuentre. En caso de que la información solicitada sea de aquella que conforme a esta Ley tenga carácter de reservada, se le hará saber al particular tal circunstancia, por escrito, en igual término;
 
 IV.- Cuando por la naturaleza de la información solicitada esta no puede proporcionarse dentro del término a que se refiere la fracción anterior, la autoridad se lo hará saber por escrito al solicitante y le indicará el término en que le entregará la información, que no deberá exceder en ningún caso de treinta días hábiles contados a partir de la fecha de presentación de la solicitud.
 
@@ -405,107 +419,107 @@ Ante la negativa de la autoridad para otorgar la información solicitada o para 
 
 La reincidencia de la autoridad en los actos a que se refieren él artículo anterior y el presente, podrá ser impugnada ante la comisión, en los términos de la presente Ley.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 28.
 
-Quien tenga acceso a la información pública, será responsable del uso de la misma y no tendrá más límites que los previstos por los artículos 6, 7 y 24 de la Constitución General de la República y en los numerales 43 al 47 del Código Civil vigente para el Estado de Querétaro.
+Quien tenga acceso a la información pública, será responsable del uso de la misma y no tendrá más límites que los previstos por los artículos 6, 7 y 24 de la Constitución Política de los Estados Unidos Mexicanos y los correlativos del Código Civil del Estado de Querétaro.
 
 ### CAPÍTULO QUINTO. De la Comisión Estatal de Información Gubernamental
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 29.
 
-La Comisión es un organismo constitucional autónomo que se encargará de garantizar el ejercicio, disfrute, promoción, difusión e investigación del derecho de los gobernados para acceder a la información pública en los términos de esta Ley.
+La Comisión es un organismo especializado e imparcial, con autonomía operativa, de gestión y de decisión, que se encargará de garantizar el ejercicio, disfrute, promoción, difusión e investigación del derecho de los gobernados para acceder a la información pública, en los términos de la Constitución Política de los Estados Unidos Mexicanos y de esta Ley.
 
-La Comisión gozará de autonomía en su organización y en sus decisiones, contará con el personal necesario para desempeñar sus funciones y con presupuesto suficiente aprobado por la Legislatura del Estado.
+El reglamento interior aprobado y expedido por el Comisionado Ejecutivo, determinará la estructura orgánica y atribuciones de los servidores públicos de la Comisión.
 
-El reglamento interior creado y aprobado por mayoría absoluta de sus integrantes, determinará la estructura orgánica y atribuciones de los servidores públicos de la Comisión.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 30.
 
-La Comisión se integrará por tres comisionados, electos por las dos terceras partes de la Legislatura del Estado.
+La Comisión se integrará por cuatro comisionados electos por las dos terceras partes de los integrantes de la Legislatura del Estado.
 
-Por cada comisionado propietario se elegirá un suplente.
+La elección la organizará y realizará la Legislatura del Estado, quién publicará, a más tardar cuarenta y cinco días antes de la elección, una convocatoria abierta a toda la ciudadanía, a efecto de recibir las propuestas ciudadanas. La Legislatura determinará las bases bajo las cuales se realizará la elección.
 
-La elección la organizará y realizará la Legislatura del Estado, quien publicará por lo menos 90 días antes de la elección una convocatoria abierta a toda la ciudadanía, para que de conformidad con el párrafo anterior se hagan propuestas ciudadanas. La propia Legislatura determinará las bases bajo las cuales se realizará la elección.
+Salvo el caso del Comisionado Ejecutivo, los cargos de los comisionados serán honoríficos, por lo que no percibirán ingreso, remuneración, prestación, emolumento, compensación o retribución alguna y su designación no implicará relación laboral.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2007)</small>
+Los comisionados podrán ser removidos por la Legislatura del Estado, con la votación requerida para su elección.
 
-Los comisionados no podrán ser separados del cargo para el que fueron electos, salvo por causa grave que calificará la Legislatura del Estado.
+El Comisionado Ejecutivo percibirá las remuneraciones y prestaciones que establezca el anexo relativo a las remuneraciones de los servidores públicos del Poder Legislativo del Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal que corresponda. El Comisionado Ejecutivo ejercerá el cargo de Presidente de la Comisión.
 
-Los comisionados designarán por mayoría de votos entre ellos, a quienes desempeñaran los cargos de Presidente y Secretario y durarán dos años en el ejercicio de estos, pudiendo ser reelectos.
+Los comisionados durarán cuatro años en el ejercicio del cargo, no podrán ser reelectos para un periodo inmediato siguiente y para su designación y permanencia deberán satisfacer los requisitos siguientes:
 
-Los comisionados durarán cuatro años en el ejercicio del cargo, no podrán ser reelectos para un periodo inmediato siguiente y deberán satisfacer los siguientes requisitos:
+I. Ser ciudadano residente en el Estado de Querétaro;
 
-I.- Ser ciudadano mexicano por nacimiento, con residencia en el Estado, no menor de cinco años anteriores a la fecha de su nombramiento;
+II. Gozar de buena reputación y no haber sido condenado por delito doloso;
 
-II.- Tener cuando menos treinta años cumplidos al día de la elección;
+III. No desempeñar empleo en la Federación, en los estados o en los municipios; ni actividad que se contraponga a las funciones propias de su encomienda, excepción hecha a las de carácter docente;
 
-III.- Gozar de buena reputación y no haber sido condenado por delito doloso;
+IV. No ejercer cargo de elección popular; y
 
-IV.- No desempeñar ni haber desempeñado cargo, comisión o empleo público en los dos años inmediatos anteriores a la designación; ni actividad que se contraponga a las funciones propias de su encomienda, excepción hecha de los de carácter docente;
+V. No desempeñar el cargo de dirigente de algún partido político.
 
-V.- No haber sido registrado como candidato a cargo alguno de elección popular en los seis años inmediatos anteriores a la designación; y
-
-VI.- No desempeñar ni haber desempeñado el cargo de dirigente de algún partido político en los seis años inmediatos anteriores a la designación.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 31.
 
-Son atribuciones de la Comisión:
+Son atribuciones de la Comisión, promover:
 
-I.- Asesorar, procurar y defender a los particulares en sus justas peticiones de información pública.
+I. Los estudios e investigaciones necesarios en materia de acceso a la información;
 
-II.- Vigilar el cumplimiento de la presente ley;
+II. Las relaciones con organismos públicos en la materia de su competencia;
 
-III.- Conocer y resolver de las inconformidades que promuevan los gobernados en contra de las entidades gubernamentales y de interés público, en los términos de esta Ley;
+III. El estudio y la enseñanza del derecho a la información;
 
-IV.- Promover y fortalecer las relaciones con organismos públicos en la materia de su competencia, así como proponer a las autoridades las medidas pertinentes para garantizar a los particulares el acceso a la información pública;
+IV. La integración de materias que fomenten la cultura de ejercicio del derecho de acceso a la información gubernamental, en los planes y programas de educación básica y media superior;
 
-V.- Convenir los mecanismos de coordinación y colaboración necesarios para el mejor cumplimiento de sus fines;
+V. En las instituciones de educación superior, la integración de materias curriculares y extracurriculares que tiendan a preparar a profesionistas especializados en resolver controversias, asesorar, generar y fortalecer la cultura de la apertura de la información pública; y
 
-VI.- Hacer del conocimiento de las autoridades competentes las violaciones a la presente ley y proponer las posibles sanciones;
+VI. La organización de seminarios, cursos y talleres en toda la Entidad, que difundan el conocimiento de la presente Ley.
 
-VII.- Establecer plazos para la rendición de informaciones y realizar diligencias;
+Los acuerdos tomados por la Comisión, en relación con sus atribuciones, serán ejecutados por el Comisionado Ejecutivo.
 
-VIII.- Proponer criterios para el cobro por los materiales utilizados en la entrega de la información;
-
-IX.- Determinar si son procedentes las peticiones de información y en su caso, ordenar a las entidades gubernamentales que proporcionen información a los solicitantes en los términos de la presente ley;
-
-X.- Realizar los estudios e investigaciones necesarios para el buen desempeño de sus atribuciones;
-
-XI.- Promover el estudio, la enseñanza y divulgación del derecho a la información;
-
-XII.- Elaborar su proyecto de presupuesto anual, el cual será enviado al titular del Poder Ejecutivo Estatal para que lo integre a la iniciativa de Ley de Ingresos y Presupuesto de Egresos del Estado, en los términos de la ley aplicable;
-
-XIII.- Designar a los servidores públicos a su cargo;
-
-XIV.- Expedir su reglamento interior, el reglamento que instituya el servicio civil de carrera en la Comisión y demás normas internas de funcionamiento;
-
-XV.- Las demás que establezcan las leyes.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 32.
 
-La Comisión promoverá:
+Son facultades del Comisionado Ejecutivo:
 
-I.- En los planes y programas de educación básica y media superior, la integración de materias que fomenten la cultura de ejercicio del Derecho de Acceso a la Información Gubernamental;
+I. Asesorar, procurar y defender a los particulares en sus justas peticiones de información pública y determinar su procedencia; y, en su caso, ordenar a las entidades gubernamentales que proporcionen información a los solicitantes en los términos de la presente Ley;
 
-II.- En las Instituciones de educación superior, la integración de materias curriculares y extracurriculares, que tienda a preparar a profesionistas especializados en resolver controversias, asesorar, generar y fortalecer la cultura de la apertura de la información pública;
+II. Conocer y resolver de las inconformidades que promuevan los gobernados, en contra de las entidades gubernamentales y de interés público, en los términos de esta Ley; así como establecer plazos para la rendición de informes y realizar diligencias;
 
-III.- En los medios de comunicación social de la entidad, la difusión permanente del derecho a la información como un requisito indispensable para la transparencia, la rendición de cuentas y fiscalización de la gestión de las entidades gubernamentales;
+III. Convenir los mecanismos de coordinación y colaboración necesarios para el mejor cumplimiento de sus fines y proponer a las autoridades las medidas pertinentes para garantizar a los particulares el acceso a la información pública;
 
-IV.- La organización de seminarios, cursos y talleres en toda la entidad que promuevan el conocimiento de la presente ley; y
+IV. Elaborar el proyecto de presupuesto anual, administrar los recursos aprobados y proponer criterios para el cobro por los materiales utilizados en la entrega de la información;
 
-V.- La elaboración y publicación de manuales y folletos que permitan el conocimiento del derecho de acceso a la información pública.
+V. Designar a los servidores públicos de la Comisión;
+
+VI. Aprobar y expedir el reglamento interior, el reglamento que instituya el servicio civil de carrera en la Comisión y demás normas internas de funcionamiento, mismos que contendrán las bases para la selección, permanencia, promoción, capacitación y actualización de su personal;
+
+VII. Promover, en los medios de comunicación social de la Entidad, la difusión permanente del derecho a la información;
+
+VIII. Fijar la postura institucional de la Comisión ante otros organismos y con la sociedad, en su caso;
+
+IX. Aplicar las medidas disciplinarias a los integrantes del organismo, imponer las sanciones establecidas en esta Ley y vigilar su cumplimiento; y
+
+X. Las demás facultades y obligaciones que establezcan las leyes aplicables.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 33.
 
-La Comisión Estatal para la Garantía del Derecho de Acceso a la información Gubernamental, rendirá durante el mes de enero de cada año, un informe detallado y pormenorizado de sus resoluciones, del ejercicio de su presupuesto y de sus actividades, ante el Pleno de la Legislatura. De igual manera en el mismo mes informará la ciudadanía sobre sus actividades.
+La Comisión Estatal de Acceso a la Información Gubernamental, presentará, por escrito, durante el mes de febrero de cada año, un informe detallado y pormenorizado de sus resoluciones, del ejercicio de su presupuesto y de sus actividades, a la Legislatura del Estado. De igual manera, en el mismo mes, informará a la ciudadanía sobre sus actividades.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 34.
 
-Para el cumplimiento de sus atribuciones, la Comisión contará en su estructura con un secretario ejecutivo, una dirección jurídica consultiva, una dirección de capacitación y vinculación ciudadana y los asesores y personal auxiliar que establezca el Reglamento interno.
+Para el cumplimiento de sus atribuciones, el organismo contará con la estructura administrativa necesaria.
 
 Para profesionalizar los servicios que ofrece la Comisión, se instituye el servicio civil de carrera, regido por los principios de legalidad, imparcialidad, objetividad, especialización, honradez, lealtad y eficiencia.
-
-El reglamento de la Comisión, aprobado por su Pleno, establecerá las bases para la selección, permanencia, promoción, capacitación y actualización del (sic) su personal.
 
 ### CAPÍTULO SEXTO. Del Recurso de Revisión
 
@@ -585,9 +599,29 @@ V.- Negar la rectificación de los datos o documentos que hubiere proporcionado,
 
 El ocultamiento, la destrucción, alteración o mutilación de la información y la actuación negligente serán considerados como agravantes en la aplicación de la sanción correspondiente.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 40.
 
-El desacato a las resoluciones a que se refiere la fracción VII del artículo 36 de esta Ley, es equiparable al delito de abuso de autoridad previsto en el artículo 264 del Código Penal para el Estado de Querétaro.
+Las infracciones señaladas en el artículo anterior, serán sancionadas conforme a lo siguiente:
+
+I. Apercibimiento;
+
+II. Amonestación privada; y
+
+III. Multa de 10 a 150 días de salario mínimo general diario vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 41.
+
+Las responsabilidades administrativas que se generen por el incumplimiento de las infracciones, son independientes de las del orden civil o penal que procedan, así como de los procedimientos para el resarcimiento del daño ocasionado por el sujeto obligado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 42.
+
+El desacato a las resoluciones a que se refiere la fracción VII del artículo 36 de esta Ley, es equiparable al delito de abuso de autoridad previsto en el Código Penal del Estado de Querétaro.
 
 ## TRANSITORIOS
 
@@ -612,6 +646,20 @@ La Comisión Estatal de Acceso a la Información Gubernamental ajustará las pre
 ###### ARTÍCULO TERCERO.
 
 La cantidad que resulte de la actualización de los salarios de los Comisionados y la aplicación de la presente Ley, será transferida y aplicada en difusión, capacitación y promoción de la cultura de acceso a la información, incremento de su patrimonio mobiliario y de ninguna manera podrá destinarse a gasto corriente.
+
+P.O. 30 DE DICIEMBRE DE 2008.
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Los Comisionados seguirán funcionando con la estructura y facultades anteriores a la presente Ley, hasta la designación del Comisionado Ejecutivo por parte de la Legislatura del Estado, quien, a partir de la protesta de ley, asumirá las facultades que le confiere esta Ley.
+
+Artículo Tercero. Para los efectos del párrafo tercero del artículo 30 de la presente Ley, los cargos de los comisionados serán honoríficos a partir de la separación de los actuales Comisionados, a excepción del Comisionado Ejecutivo.
+
+Artículo Cuarto. Para los efectos del párrafo quinto del artículo 30 de la presente Ley, el actual Comisionado Presidente y Secretario seguirán en funciones con dichos cargos a más tardar hasta el 31 de marzo de 2009 y a partir de que dejen de ejercer dichos cargos o a más tardar el 1 de abril del mismo año, el Comisionado Ejecutivo ejercerá el cargo de Presidente de la Comisión.
+
+Artículo Quinto. Se faculta al Comisionado Ejecutivo a realizar las transferencias necesarias al presupuesto de la Comisión Estatal de Información Gubernamental para cumplir con lo dispuesto en la presente Ley.
+
+Artículo Sexto. Se derogan todas las disposiciones que se opongan a la presente Ley.
 
 ###### ARTÍCULO TERCERO.
 
