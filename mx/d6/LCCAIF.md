@@ -4,7 +4,7 @@ identifier: "LCCAIF"
 country: "mx"
 rank: "ley"
 publication_date: "1960-12-31"
-last_updated: "1997-05-07"
+last_updated: "2008-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=460&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCCAIF"
 
 LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DE LA ASOCIACION INTERNACIONAL DE FOMENTO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de diciembre de 1960.
 
@@ -42,15 +42,11 @@ LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDE
 
 Se aprueba el Convenio Constitutivo de la Asociación Internacional de Fomento, para los efectos de la fracción VIII del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, conforme al texto adoptado en Washington el 26 de enero de 1960.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 2o.
 
-Se autoriza al Gobierno Federal para que, por conducto del Banco de México, efectúe las siguientes aportaciones a la Asociación Internacional de Fomento, hasta por el equivalente en Derechos Especiales de Giro que a continuación se indican:
-
-a) 5'050,000 (cinco millones cincuenta mil), por concepto de suscripción adicional correspondiente a la Décimo Primera Reposición de Capital, cantidad que se adicionará a las suscripciones anteriores efectuadas por nuestro país; y
-
-b) 3'000,000 (tres millones), por concepto de participación al Fondo Fiduciario, Provisional para el ejercicio de 1997.
+Se autoriza al Gobierno Federal para que por conducto del Banco de México, realice la aportación correspondiente a la Decimotercera Reposición de Capital de la Asociación Internacional de Fomento, hasta por el equivalente de cuatro millones de Derechos Especiales de Giro, cantidad que se adicionará a las suscripciones anteriores efectuadas por los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
@@ -169,3 +165,15 @@ D.O.F. 7 DE MAYO DE 1997.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 2008.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTICULO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+###### ARTÍCULO SEGUNDO.
+
+Se autoriza al Ejecutivo Federal para actualizar las aportaciones a que se refiere la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, para dar cumplimiento a lo dispuesto en el artículo anterior.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
