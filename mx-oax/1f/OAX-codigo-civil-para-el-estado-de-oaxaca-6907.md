@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2008-08-16"
+last_updated: "2008-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2008.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -1437,7 +1437,7 @@ VI. La declaración de si el producto del trabajo de cada consorte corresponde e
 
 VII. Declaración terminante acerca de quién debe ser el administrador de la sociedad, expresándose con claridad las facultades que se le conceden;
 
-VIII. Declaración acerca de si los bienes futuros que adquieran los cónyuges durante el matrimonio, pertenecen exclusivamente al adquirente, o si deben repartirse entre ellos y en que proporción;
+VIII. Declaración acerca de si los bienes futuros que adquieran los cónyuges durante el matrimonio, pertenecen exclusivamente al adquirente, o si deben repartirse entre ellos y en qué proporción;
 
 IX. Las bases para liquidar la sociedad.
 
@@ -1471,7 +1471,7 @@ Son propios de cada cónyuge:
 
 I. Los bienes de que era dueño al tiempo de celebrarse el matrimonio y los que adquiera por prescripción durante la sociedad, así como los que durante la misma adquiera por don de la fortuna, por donación de cualquier especie o por herencia o legado constituido a favor de uno de ellos;
 
-II. Los bienes adquiridos durante la sociedad por compra o permuta de los raíces que pertenezcan a cada uno de ellos antes de celebrarse el matrimonio;
+II. Los bienes adquiridos durante la sociedad por compra o permuta de los (sic) raíces que pertenezcan a cada uno de ellos antes de celebrarse el matrimonio;
 
 III. Los adquiridos por consolidación de la propiedad y el usufructo, cuando se hace en beneficio de uno solo de ellos.
 
@@ -2015,7 +2015,7 @@ En todo caso, el Juez atenderá al interés superior de los menores y, si fuere 
 
 La sentencia de divorcio fijará la situación de los hijos, para lo cual el Juez gozará de las facultades que le concede este Código y en especial, la referida en el último párrafo del artículo que antecede, para resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, así como la custodia y el cuidado de los hijos, debiendo evaluar pormenorizadamente todos los elementos de juicio a su alcance y razonando debidamente su determinación. También llamará al ejercicio de la patria potestad a quien legalmente tenga derecho a ello, o cuando proceda, designar tutor, de acuerdo con las disposiciones correspondientes.
 
-> <small>(REFORMADA [ N. DE E. ADICIONADA], P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
 I. Cuando la causa de divorcio estuviere comprendida en las fracciones I, II, III, IV, V, VIII, XIV, XV, XVII y XVIII del artículo 279, los hijos quedarán bajo la patria potestad del ascendiente que corresponda, y si no lo hubiere se nombrará tutor.
 
@@ -2051,7 +2051,7 @@ Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes
 
 ###### Artículo 300.
 
-El cónyuge que haya dado causa al divorcio, sólo podrá ser condenado a ministrar alimentos si el otro esta imposibilitado para trabajar o careciere de bienes propios.
+El cónyuge que haya dado causa al divorcio, sólo podrá ser condenado a ministrar alimentos si el otro está imposibilitado para trabajar o careciere de bienes propios.
 
 La mujer que haya estado dedicada exclusivamente a las labores del hogar, tendrá a su favor la presunción de la necesidad de alimentos.
 
@@ -3135,7 +3135,7 @@ I. Los menores de edad;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 1999)</small>
 
-II. Los mayores de edad disminuidos o perturbados en su inteligencia, aunque tengan intervalos lúcidos y aquéllos que padezcan alguna afección originada por enfermedad o deficiencia persistente de carácter físico, psicológico o sensorial o por la adicción a sustancias tóxicas como el alcohol, los psicotrópicos o los estupefacientes; siempre que debido a la limitación, o la alteración en la inteligencia que esto les provoque no puedan gobernarse y obligarse por si mismos, o manifestar su voluntad por algún medio.
+II. Los mayores de edad disminuidos o perturbados en su inteligencia, aunque tengan intervalos lúcidos y aquéllos que padezcan alguna afección originada por enfermedad o deficiencia persistente de carácter físico, psicológico o sensorial o por la adicción a sustancias tóxicas como el alcohol, los psicotrópicos o los estupefacientes; siempre que debido a la limitación, o la alteración en la inteligencia que esto les provoque no puedan gobernarse y obligarse por sí mismos, o manifestar su voluntad por algún medio.
 
 III. (DEROGADA, P.O. 11 DE DICIEMBRE DE 1999)
 
@@ -3421,7 +3421,7 @@ XI. Los empleados públicos de Hacienda, que por razón de su destino, tengan re
 
 XII. Los que padezcan enfermedad crónica contagiosa;
 
-XIII. Los demás a quienes lo prohiba la ley.
+XIII. Los demás a quienes lo prohíba la ley.
 
 ###### Artículo 519.
 
@@ -3835,7 +3835,7 @@ Es obligación del curador promover este nombramiento, y si no la cumple, será 
 
 ###### Artículo 596.
 
-Cuando la tutela del incapaz recaiga en el cónyuge, sólo podrá gravar o enajenar los bienes a que ser refiere el artículo 581 de este Código, previa audiencia del curador y autorización judicial, que se concederá de acuerdo con lo dispuesto en el artículo 576 del mismo ordenamiento.
+Cuando la tutela del incapaz recaiga en el cónyuge, sólo podrá gravar o enajenar los bienes a que se refiere el artículo 581 de este Código, previa audiencia del curador y autorización judicial, que se concederá de acuerdo con lo dispuesto en el artículo 576 del mismo ordenamiento.
 
 ###### Artículo 597.
 
@@ -5245,7 +5245,7 @@ El mismo derecho tienen respecto de las aves domésticas en los campos en que hu
 
 ###### Artículo 871.
 
-Se prohibe absolutamente destruir en predios ajenos los nidos, huevos y crías de cualquiera especie.
+Se prohíbe absolutamente destruir en predios ajenos los nidos, huevos y crías de cualquiera especie.
 
 ###### Artículo 872.
 
@@ -6837,7 +6837,7 @@ El juez que tuviere noticia de que alguno impide a otro testar, se presentará s
 
 ###### Artículo 1209.
 
-Pueden testar todos aquellos a quienes la ley no prohiba expresamente el ejercicio de ese derecho.
+Pueden testar todos aquellos a quienes la ley no prohíba expresamente el ejercicio de ese derecho.
 
 ###### Artículo 1210.
 
@@ -7225,7 +7225,7 @@ Es inoficioso el testamento en que no se deje la pensión alimenticia, según lo
 
 ###### Artículo 1281.
 
-El preferido, tendrá solamente derecho a que se le de la pensión que corresponda, subsistiendo el testamento en todo lo que no perjudique ese derecho.
+El preferido, tendrá solamente derecho a que se le dé la pensión que corresponda, subsistiendo el testamento en todo lo que no perjudique ese derecho.
 
 ###### Artículo 1282.
 
@@ -7817,7 +7817,7 @@ En el caso del artículo que precede, no tendrá validez el testamento mientras 
 
 ###### Artículo 1411.
 
-Se prohibe a los Notarios que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo pena de cien días de salarios mínimos de multa.
+Se prohíbe a los Notarios que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo pena de cien días de salarios mínimos de multa.
 
 ###### Artículo 1412.
 
@@ -9637,7 +9637,7 @@ Cuando al ejercitar un derecho se causa daño a otro, hay obligación de indemni
 
 ###### Artículo 1784.
 
-Cuando una o más personas hagan uso de mecanismos, instrumentos, aparatos o substancias peligrosas por si mismos, por la velocidad que desarrollen, por su naturaleza explosiva o inflamable, por la energía de la corriente eléctrica que conduzcan o por otras causas análogas, están obligadas a responder del daño que causen, aunque no obren ilícitamente, a no ser que demuestren que ese daño se produjo por culpa o negligencia inexcusable de la víctima.
+Cuando una o más personas hagan uso de mecanismos, instrumentos, aparatos o substancias peligrosas por sí mismos, por la velocidad que desarrollen, por su naturaleza explosiva o inflamable, por la energía de la corriente eléctrica que conduzcan o por otras causas análogas, están obligadas a responder del daño que causen, aunque no obren ilícitamente, a no ser que demuestren que ese daño se produjo por culpa o negligencia inexcusable de la víctima.
 
 En caso de pluralidad de causantes del daño se observará lo previsto por el artículo 1788.
 
@@ -11871,7 +11871,7 @@ El donante no puede renunciar anticipadamente el derecho de revocación por supe
 
 ###### Artículo 2242.
 
-La acción de revocación por supervenencia de hijos corresponde exclusivamente al donante y al hijo póstumo; pero la reducción por razón de alimentos tienen derecho de pedirla todos los que sean acreedores alimentarios.
+La acción de revocación por supervenencia (sic) de hijos corresponde exclusivamente al donante y al hijo póstumo; pero la reducción por razón de alimentos tienen derecho de pedirla todos los que sean acreedores alimentarios.
 
 ###### Artículo 2243.
 
@@ -13147,7 +13147,7 @@ Todo el riesgo de la obra correrá a cargo del empresario hasta el acto de la en
 
 ###### Artículo 2499.
 
-Siempre que el empresario se encargue por ajuste cerrado de la obra en cosa inmueble cuyo valor sea de mas de treinta y cinco salarios mínimos, se otorgará el contrato por escrito, incluyéndose en él una descripción pormenorizada, y en los casos que lo requieran, un plano, diseño o presupuesto de la obra.
+Siempre que el empresario se encargue por ajuste cerrado de la obra en cosa inmueble cuyo valor sea de más de treinta y cinco salarios mínimos, se otorgará el contrato por escrito, incluyéndose en él una descripción pormenorizada, y en los casos que lo requieran, un plano, diseño o presupuesto de la obra.
 
 ###### Artículo 2500.
 
@@ -14209,7 +14209,7 @@ Para que pueda tener lugar lo dispuesto en este artículo, es preciso que se hay
 
 ###### Artículo 2720.
 
-En el caso del artículo anterior, podrán los cofiadores oponer al que pagó las mismas excepciones que habrían correspondido al deudor principal contra el acreedor y que no fueren puramente personales del mismo deudor o del fiador que hizo el pago.
+En el caso del artículo anterior, podrán los cofiadores oponer al que pagó las mismas excepciones que habrían (sic) correspondido al deudor principal contra el acreedor y que no fueren puramente personales del mismo deudor o del fiador que hizo el pago.
 
 ###### Artículo 2721.
 
@@ -15077,9 +15077,7 @@ III. Los créditos de los establecimientos de beneficencia pública o privada.
 
 Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
-### CAPITULO III. Del modo de hacer el registro y de las personas que tienen derecho
-
-de pedir la inscripción
+### CAPITULO III. Del modo de hacer el registro y de las personas que tienen derecho de pedir la inscripción
 
 ###### Artículo 2878.
 
@@ -15099,25 +15097,43 @@ El Registro Público de la Propiedad, es la Institución mediante la cual el Eje
 
 El Registro Público de la Propiedad en el Estado, estará a cargo del Director del Registro Público de la Propiedad, quien se auxiliará de registradores en cada distrito judicial, con asiento en las localidades que determine el Ejecutivo del Estado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+El registro Público de la Propiedad contará con un sistema informático denominado Sistema Informático Registral, en el que se realizarán las inscripciones, cancelaciones, anotaciones y asientos que competen, a esta Institución.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 2881.
 
-El reglamento fijará el número de secciones de que se componga el Registro y la sección en que deban inscribirse los títulos que se registren.
+El Reglamento fijará el número de secciones de que se componga el registro y la sección en que deban inscribirse los títulos que se registren, así como el sistema adoptado para el registro.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-En cada sección se harán las inscripciones en libros por duplicado, debiendo quedar uno de ellos en cada registraduría foránea y el otro deberá remitirse por sus titulares al Director del Registro Público de la Propiedad, en la época que fije el reglamento, para que este funcionario forme, con los originales del Distrito del Centro, el Archivo General del Registro.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+Las inscripciones de los actos jurídicos se asentarán en el medio electrónico generado por el Sistema Informático Registral de acuerdo al Reglamento correspondiente.
 
-Cuando no existan, por cualquier motivo, los libros que deben permanecer en las registradurías foráneas, o estén rotos o borrados, se tomarán los certificados correspondientes y se harán las anotaciones y cancelaciones respectivas de los que se remitieron para formar el archivo general del registro; en estos casos las anotaciones o cancelaciones que se hagan, así como los certificados que se expidan, harán plena fe.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+En el caso de los Libros de registro anteriores al Sistema Informático Registral, cuando en las Registradurías foráneas no existan por cualquier motivo, o estén rotos o borrados, se tomarán los certificados correspondientes y se harán las anotaciones y cancelaciones respectivas de los que se hayan remitido para formar el Archivo General del Registro; en estos casos, las anotaciones o cancelaciones que se hagan, así como los certificados que se expidan, harán plena fe.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 Cualquier anotación, cancelación o modificación de una inscripción correspondiente a año distinto de aquél en que se haga, se avisará por el registrador respectivo al Director, para que este mande practicar en los libros del archivo igual anotación, cancelación o modificación.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 2882.
 
-El Registro será público, los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del Registro, y de los documentos relacionados con las inscripciones que estén archivados. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del Registro; así como certificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
+El Registro será público. Los Registradores deben permitir a las personas que lo soliciten, cubiertos los requisitos del Reglamento, que se enteren de las inscripciones que constan en los libros del Registro, mediante la consulta electrónica de las bases de datos del Registro Público de la Propiedad, de la consulta de imágenes contenidas en el Sistema Informático Registral, así como de los documentos relacionados con las inscripciones que estén archivados. También deben expedir copias certificadas de las inscripciones, o constancias que figuren en los Libros del Registro y de las imágenes contenidas en el Sistema Informático Registral, así como certificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
 
 ### CAPITULO V. De las inscripciones de posesión
 
@@ -15752,3 +15768,13 @@ P.O. 12 DE ABRIL DE 2008.
 P.O. 16 DE AGOSTO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor en el Distrito Judicial del Centro a los sesenta días siguientes a su publicación en el Periódica (sic) Oficial del Gobierno del Estado. En los demás Distritos Judiciales donde existan oficinas del Registro Público de la Propiedad, de acuerdo a la disponibilidad presupuestal y tecnológica, cuando adopten el Sistema Informático Registral, que en todo caso será en un plazo no mayor de tres años contado a partir de la entrada en vigor del presente Decreto.
+
+SEGUNDO.- En tanto las Registradurías foráneas del Registro Público de la Propiedad se integran al Sistema Informático Registral, continuará realizándose, con plena validez, el sistema de registro en Libros conforme a las disposiciones legales y reglamentarias anteriores al presente Decreto.
+
+TERCERO.- Los Libros del Registro que por virtud del cambio del Sistema Informático Registral dejen de utilizarse, quedarán bajo resguardo de la Dirección del Registro Público de la Propiedad, para su consulta y expedición de certificaciones.
+
+CUARTO.- El Ejecutivo del Estado actualizará las disposiciones reglamentarias para el Registro Público de la Propiedad dentro de los sesenta días siguientes a la publicación del presente Decreto.
