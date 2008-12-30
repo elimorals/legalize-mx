@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-electricidad-37646"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-03-10"
-last_updated: "2008-09-05"
+last_updated: "2008-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37646&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-01-08"
 
 ESTATUTO ORGANICO DE LA COMISION FEDERAL DE ELECTRICIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2008.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 10 de marzo de 2004.
 
@@ -87,7 +87,13 @@ VIII. Subdirección de Programación;
 
 IX. Subdirección de Generación;
 
-X. Subdirección de Energéticos y Seguridad;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
+
+X. Subdirección de Energéticos;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
+
+X Bis. Subdirección de Seguridad Física;
 
 XI. Subdirección de Transmisión;
 
@@ -127,11 +133,9 @@ XXVI. Coordinación de Generación Termoeléctrica;
 
 XXVII. Coordinación de Generación Hidroeléctrica;
 
-XXVIII. Coordinación de Energéticos;
+XXVIII. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2008)
 
-> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2005)</small>
-
-XXIX. Coordinación de Seguridad Física;
+XXIX. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2008)
 
 XXX. Coordinación de Transmisión;
 
@@ -417,9 +421,7 @@ VIII. Evaluar y dar seguimiento del rendimiento financiero de las inversiones pr
 
 IX. Establecer, en el ámbito de la Comisión, los sistemas de información financiera.
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2004)</small>
-
-X. Formular pliegos preventivos de responsabilidades, de conformidad con el artículo 45 fracción II inciso a) de la Ley de Presupuesto, Contabilidad y Gasto Público Federal. Dicha formulación se hará en la forma y términos que establezca la Secretaría de la Función Pública.
+X. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2008)
 
 ###### Artículo 12.
 
@@ -559,15 +561,41 @@ IV. Dirigir el proceso de administración de contratos con productores externos 
 
 V. Proponer normas y procedimientos internos para asegurar la efectividad y calidad de las acciones de la Comisión en la seguridad industrial.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 19.
 
-A la Subdirección de Energéticos y Seguridad le corresponden, además de las facultades genéricas señaladas en el artículo 15 de este Estatuto, las siguientes:
+A la Subdirección de Energéticos le corresponden, además de las facultades genéricas señaladas en el artículo 15 de este Estatuto, las siguientes:
 
-I. Procurar el abastecimiento de los energéticos, así como el gas natural nacional y de importación que requieran las centrales generadoras de electricidad.
+I. Coadyuvar en la definición de la estrategia de abasto de combustibles de la Comisión.
 
-II. Negociar el transporte de los energéticos en sus distintas modalidades a las centrales generadoras para el oportuno abastecimiento, y
+II. Asegurar el abastecimiento de los energéticos que requieran las centrales generadoras de electricidad.
 
-III. Instrumentar y coordinar las acciones tácticas para salvaguardar las instalaciones de la Comisión.
+III. Planear y autorizar las modalidades del transporte de energéticos.
+
+IV. Negociar los contratos nacionales e internacionales de suministro, transporte y almacenamiento de combustibles.
+
+V. Dirigir el proceso de planeación, formalización y administración de contratos de suministro y transporte de combustibles, y
+
+VI. Asegurar que el suministro de combustibles responda a los requerimientos del predespacho económico de energía.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 19 Bis.
+
+A la Subdirección de Seguridad Física, le corresponden, además de las facultades genéricas señaladas en el artículo 15 de este Estatuto, las siguientes:
+
+I. Establecer las políticas, criterios y lineamientos de Seguridad Física en la Comisión.
+
+II. Determinar las estrategias en materia de seguridad física en las instalaciones de la Comisión.
+
+III. Coordinar con las autoridades federales correspondientes la instrumentación de acciones tácticas que permitan prevenir posibles contingencias que pudieran afectar la seguridad física de los centros de trabajo de la Comisión.
+
+IV. Dirigir el Programa de Seguridad Integral de las instalaciones de la Comisión.
+
+V. Coordinar la elaboración de los estudios y proyectos y la operación de los sistemas para prevenir los riesgos a la seguridad física de las instalaciones de la Comisión, y
+
+VI. Dirigir y elaborar los planes de emergencia para restablecer la seguridad en los centros de trabajo estratégicos de la Comisión.
 
 ###### Artículo 20.
 
@@ -661,9 +689,7 @@ V. Elaborar y presentar los estudios de análisis y evaluación financiera de la
 
 VI. Coordinar la atención, por parte de las áreas que competan, de los asuntos que se deriven de las observaciones hechas por los órganos fiscalizadores de la Comisión.
 
-> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2004)</small>
-
-VII. Elaborar los pliegos preventivos de responsabilidades de conformidad con las disposiciones legales aplicables.
+VII. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2008)
 
 ###### Artículo 27.
 
@@ -873,27 +899,11 @@ VI. Coordinar los programas de desarrollo, mejora y modernización de sistemas i
 
 ###### Artículo 38.
 
-A la Coordinación de Energéticos le corresponden, además de las facultades genéricas señaladas en el artículo 31 de este Estatuto, las siguientes:
-
-I. Realizar la negociación y la formulación de los contratos correspondientes al suministro y transporte de los energéticos con los organismos del estado y empresas privadas para la generación de energía eléctrica.
-
-II. Gestionar el transporte de los energéticos, en sus distintas modalidades, para las centrales generadoras de acuerdo al combustible con el que operan, y
-
-III. Coordinar el proceso de trámites de autorizaciones para el pago de facturas de energéticos a empresas suministradoras.
-
-> <small>(ADICIONADO, D.O.F. 12 DE JULIO DE 2005)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2008)
 
 ###### Artículo 38 Bis.
 
-A la Coordinación de Seguridad Física le corresponden, además de las facultades genéricas señaladas en el artículo 31 de este Estatuto, las siguientes:
-
-I. Supervisar las acciones operativas, tácticas, logísticas y normativas de seguridad física para la protección de las instalaciones de la Comisión.
-
-II. Elaborar las políticas y directrices de trabajos tendientes al desarrollo de una cultura de seguridad física en la Comisión.
-
-III. Realizar los estudios necesarios que coadyuvan al perfeccionamiento constante de los sistemas de seguridad física, y
-
-IV. Definir, aplicar y coordinar las políticas, normas y acciones tanto tácticas como de operación para unificar criterios en las diferentes áreas de seguridad.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2008)
 
 ###### Artículo 39.
 
@@ -1137,6 +1147,10 @@ IX. (DEROGADA, D.O.F. 5 DE SEPTIEMBRE DE 2008)
 
 X. Capacitación;
 
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
+
+X Bis. Carbón;
+
 XI. Centrales Nucleoeléctricas;
 
 XII. Combustibles Líquidos;
@@ -1249,7 +1263,9 @@ LXIII. Programación y Evaluación Administrativa;
 
 LXIV. Programación y Evaluación Financiera;
 
-LXV. Programas Logísticos;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
+
+LXV. Programas Logísticos de Seguridad;
 
 LXVI. Prospección Tecnológica;
 
@@ -1273,7 +1289,9 @@ LXXIII. Relaciones Laborales;
 
 LXXIV. Seguimiento y Control;
 
-LXXV. Seguridad Física;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
+
+LXXV. Operación de Seguridad Física;
 
 LXXVI. Seguridad Industrial;
 
@@ -1468,3 +1486,11 @@ PRIMERO. Las presentes Reformas al Estatuto Orgánico de la Comisión Federal de
 SEGUNDO. Los derechos de los trabajadores no se verán afectados por la reestructuración orgánica que se autoriza por las presentes Reformas.
 
 TERCERO. Los asuntos que se encuentren en trámite en las unidades administrativas que desaparecen, serán atendidos y resueltos por las unidades administrativas que correspondan, de acuerdo a sus respectivas facultades.
+
+D.O.F. 30 DE DICIEMBRE DE 2008.
+
+PRIMERO. Las presentes reformas al Estatuto Orgánico de la Comisión Federal de Electricidad entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los derechos de los trabajadores no se verán afectados por la reestructuración orgánica que se autoriza por las presentes Reformas.
+
+TERCERO. Los asuntos que se encuentren en trámite en las unidades administrativas que desaparecen, serán atendidos y resueltos por las unidades administrativas que corresponda, de acuerdo a sus respectivas facultades.
