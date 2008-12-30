@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-deuda-publica-del-estado-y-municipios-de-san-luis-65664"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-27"
-last_updated: "2008-12-27"
+last_updated: "2008-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SLP"
 ---
 # LEY DE DEUDA PUBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE DICIEMBRE DE 2008 EN EL P.O. DEL ESTADO DE SAN LUIS POTOSÍ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE DEUDA PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
 TEXTO ORIGINAL.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE DICIEMBRE DE 2008.]
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 27 de diciembre de 2008.
 
@@ -111,7 +111,9 @@ XVI. Líneas de crédito: a los montos máximos de financiamiento aprobados por 
 
 XVII. Obligaciones financieras: a los compromisos financieros que asuman los sujetos de esta Ley mediante empréstitos, financiamientos y operaciones de valores;
 
-XVIII. Préstamo quirografario: aquél que consta de manera escrita;
+> <small>(F. DE E., P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+XVIII. Préstamo quirografario: aquél que consta de manera escrita, que no tiene garantía específica que respalde su recuperación;
 
 XIX. Reestructurar: a las modificaciones de tasas, plazos, forma de pago u otros términos de un empréstito, financiamiento y emisión de valores preexistente;
 
@@ -133,9 +135,13 @@ XXVI. Valores: a los valores representativos de un empréstito o financiamiento,
 
 Para efectos de esta Ley se entiende por operaciones financieras de deuda pública, las siguientes:
 
-I. La suscripción o emisión de títulos de crédito, bonos de deuda pública o de cualquier otro documento pagadero a plazos, a excepción de lo dispuesto por la fracción III del artículo 7° de esta Ley;
+> <small>(F. DE E., P.O. 30 DE DICIEMBRE DE 2008)</small>
 
-II. La adquisición de bienes, o la contratación de obras o servicios, o rrendamientos (sic), cuyo pago se pacte a plazos superiores a doce meses, a excepción de lo dispuesto por la fracción III del artículo 7° de esta Ley;
+I. La suscripción o emisión de títulos de crédito, bonos de deuda pública o de cualquier otro documento pagadero a plazos, a excepción de lo dispuesto por la fracción III del artículo 6° de esta Ley;
+
+> <small>(F. DE E., P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+II. La adquisición de bienes, o la contratación de obras o servicios, o arrendamientos, cuyo pago se pacte a plazos superiores a doce meses, a excepción de lo dispuesto por la fracción III del artículo 6° de esta Ley;
 
 III. La emisión y colocación de valores, títulos de créditos y demás documentos señalados en la Ley del Mercado de Valores, que conforme a su naturaleza tenga permitido emitir, los que serán inscritos en la Sección de Valores del Registro Nacional de Valores e Intermediarios, y se cotizarán en la Bolsa Mexicana de Valores, S.A. de C.V., mediante los cuales se capten recursos financieros para los sujetos de esta Ley y se optimicen los ya existentes;
 
@@ -221,7 +227,9 @@ IV. Los financiamientos, empréstitos y la emisión de valores deberán atender 
 
 V. La autorización de montos o conceptos de endeudamiento en los correspondientes presupuestos de egresos, y leyes de ingresos de los sujetos de esta Ley, no los autoriza para contratar financiamientos. Para tales efectos, deberán contar con la respectiva autorización del Congreso;
 
-VI. En todos los casos se procurará mantener un equilibrio financiero, por lo tanto, la programación, contratación y pago de los financiamientos se deberán ajustar a la capacidad de pago de los sujetos de esta Ley, para asegurar la autosustentabilidad de la deuda pública. Dicha capacidad se establecerá principalmente en función de las obligaciones de éstos, y de la disponibilidad presupuestal del ejercicio fiscal en curso y de los subsecuentes. La Secretaría establecerá y publicará la metodología para la determinación de la capacidad de pago y endeudamiento de los sujetos de esta Ley, con base en el tope que establece el primer párrafo del artículo 18 de esta Ley;
+> <small>(F. DE E., P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+VI. En todos los casos se procurará mantener un equilibrio financiero, por lo tanto la programación, contratación y pago de los financiamientos se deberán ajustar a la capacidad de pago de los sujetos de esta Ley, para asegurar la autosustentabilidad de la Deuda Pública. Dicha capacidad se establecerá principalmente en función de las obligaciones de éstos y de la disponibilidad presupuestal del ejercicio fiscal en curso y de los subsecuentes. La Secretaría establecerá y publicará la metodología para la determinación de la capacidad de pago y endeudamiento de los sujetos de esta Ley, con base en el tope que establece el primer párrafo del artículo 17 de esta Ley;
 
 VII. Los titulares de los sujetos de esta Ley deberán incluir en sus respectivas leyes, o presupuestos de egresos del ejercicio fiscal correspondiente, las partidas presupuestales necesarias y suficientes para cubrir en su totalidad, el pago del servicio de la deuda pública a su cargo, en el año fiscal de que se trate;
 
@@ -415,9 +423,11 @@ Para la contratación de financiamientos, empréstitos y la emisión de valores,
 
 Los empréstitos, financiamientos y la emisión de valores que contraten los sujetos de esta Ley, así como las garantías que otorguen, deberán ceñirse a las autorizaciones de deuda pública efectuadas por el Congreso del Estado, y aplicarse precisamente al fin establecido en el decreto expedido para tal efecto. Cualquier modificación al destino o monto del crédito autorizado, así como a las demás especificaciones fijadas por el Congreso del Estado, requerirán la autorización de éste.
 
+> <small>(F. DE E., P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 17.
 
-En la contratación de deuda los sujetos de esta Ley, deberán buscar que se mantenga un correcto equilibrio financiero y que se disponga de capacidad presupuestal suficiente para solventar las obligaciones contraídas, pero en todo caso, el monto total del capital contratado en los términos de la fracción I del artículo 5° de esta Ley, no podrá ser mayor al veinte por ciento de los ingresos autorizados en sus presupuestos anuales.
+En la contratación de deuda los sujetos de esta Ley deberán buscar que se mantenga un correcto equilibrio financiero y, que se disponga, de capacidad presupuestal suficiente para solventar las obligaciones contraídas; pero en todo caso, el monto total del capital contratado en forma directa, no podrá ser mayor al veinte por ciento de los ingresos autorizados en sus presupuestos anuales.
 
 En el caso de capitalización de intereses, éstos formarán parte de la base para determinar el porcentaje a que se refiere el párrafo anterior.
 
