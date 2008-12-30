@@ -4,7 +4,7 @@ identifier: "CFPC"
 country: "mx"
 rank: "codigo"
 publication_date: "1943-02-24"
-last_updated: "2008-06-20"
+last_updated: "2008-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFPC"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2008.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el miércoles 24 de febrero de 1943.
 
@@ -3844,9 +3844,9 @@ I.- Que se hayan satisfecho las formalidades previstas en este Código en materi
 
 II.- Que no hayan sido dictados como consecuencia del ejercicio de una acción real;
 
-> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 1988)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
 
-III.- Que el juez o tribunal sentenciador haya tenido competencia para conocer y juzgar el asunto de acuerdo con las reglas reconocidas en la esfera internacional que sean compatibles con las adoptadas por este Código;
+III.- Que el juez o tribunal sentenciador haya tenido competencia para conocer y juzgar el asunto de acuerdo con las reglas reconocidas en la esfera internacional que sean compatibles con las adoptadas por este Código. El Juez o tribunal sentenciador extranjero no tiene competencia cuando exista, en los actos jurídicos de que devenga la resolución que se pretenda ejecutar, una cláusula de sometimiento únicamente a la jurisdicción de tribunales mexicanos;
 
 > <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 1988)</small>
 
@@ -3995,3 +3995,9 @@ UNICO. El Presente Decreto entrará en vigor al día siguiente de su publicació
 D.O.F. 20 DE JUNIO DE 2008.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 2008.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La ejecución de las sentencias, laudos y resoluciones dictadas con anterioridad a la entrada en vigor del presente decreto, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
