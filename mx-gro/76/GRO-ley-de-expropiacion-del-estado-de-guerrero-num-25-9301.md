@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-expropiacion-del-estado-de-guerrero-num-25-9301"
 country: "mx"
 rank: "ley"
 publication_date: "1945-10-17"
-last_updated: "1945-10-17"
+last_updated: "2008-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9301&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY DE EXPROPIACION DEL ESTADO DE GUERRERO NUM. 25
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 877 DE EXPROPIACION PARA EL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 30 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 17 de octubre de 1945.
 
@@ -146,3 +148,15 @@ Dada en el Salón de Sesiones del H. Poder Legislativo, a los tres días del mes
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Chilpancingo, Gro., a 5 de octubre de 1945.- Gral. Baltasar R. Leyva Mancilla.- El Secretario General de Gobierno, Lic. Leopoldo Ortega Lozano.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 2008.
+
+PRIMERO. - La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Se abroga la Ley de Expropiación del Estado de Guerrero Núm. 25, expedida el día tres del mes de octubre de mil novecientos cuarenta y cinco, así como el Acuerdo que crea la Comisión Técnica Intersecretarial para conocer Asuntos de expropiación, publicado en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- En lo no previsto por ésta Ley, se aplicarán supletoriamente las disposiciones contenidas en el Código de Procedimientos Contenciosos Administrativos del Estado de Guerrero Número 215 y en el Código Procesal Civil para el Estado de Guerrero.
+
+CUARTO.- El Titular del Poder Ejecutivo del Estado de Guerrero en un plazo no mayor de 180 días hábiles, a partir de la entrada en vigor de la presente Ley, expedirá el Reglamento de la misma.
