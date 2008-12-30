@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-para-el-estado-de-michoacan-de-ocampo-59759"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-02-11"
-last_updated: "2008-07-29"
+last_updated: "2008-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59759&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL PRESENTE ORDENAMIENTO, ENTRARA EN VIGOR A LOS 210 DIAS SIGUIENTES A SU PUBLICACION.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2008.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2008.
 
@@ -99,11 +97,13 @@ Cuando haya conflicto de derechos, a falta de ley expresa que sea aplicable al c
 
 Las personas al ejercer sus actividades jurídicas y al usar y disponer de sus bienes, tienen obligación de no perjudicar a la colectividad, teniendo siempre presente que el interés social es superior al individual. El Juez decidirá, llegado el caso, cuando exista un interés social al que deba subordinarse el individual.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 14.
 
-Cuando alguno, explotando la ignorancia, inexperiencia, miseria o estado de necesidad de otro, obtiene un lucro excesivo que sea evidentemente desproporcionado a lo que él por su parte se obliga, el perjudicado tiene derecho a elegir entre pedir la nulidad del contrato o la reducción equitativa de su obligación, más el pago de los correspondientes daños y perjuicios.
+Cuando alguien, aprovechando la ignorancia, inexperiencia, miseria o estado de necesidad de otro, obtiene un lucro excesivo que sea evidentemente desproporcionado a lo que él por su parte se obliga, el perjudicado tiene derecho a elegir entre pedir la nulidad del contrato o la reducción equitativa de su obligación, más el pago de los correspondientes daños y perjuicios.
 
-El derecho concedido en este artículo dura un año.
+La acción concedida en este Artículo prescribirá en tres años.
 
 ###### Artículo 15.
 
@@ -10714,6 +10714,12 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁ
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
 P.O. 29 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 30 DE DICIEMBRE DE 2008.
 
 ###### ARTÍCULO ÚNICO.
 
