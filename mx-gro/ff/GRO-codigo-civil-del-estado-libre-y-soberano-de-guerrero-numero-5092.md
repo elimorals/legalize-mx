@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2007-11-30"
+last_updated: "2008-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NUMERO 358
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -3049,13 +3049,29 @@ Si la persona que estuviere en posesión de los derechos de ascendiente o de des
 
 La adopción es una institución creada para cuidar y atender los intereses superiores de la niñez, cuando el menor no pueda ser cuidado y atendido por su familia de origen.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 555.
 
-Las personas mayores de treinta años, en pleno ejercicio de sus derechos, podrán adoptar a un menor o a un incapacitado, aún cuando fuere mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que la adopción fuere benéfica a éste.
+Las personas mayores de treinta años, en pleno ejercicio de sus derechos, podrán adoptar a un menor o a un incapacitado, aún cuando fuere mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que acredite:
+
+I.- Que tiene una solvencia económica estable, para proveer a la subsistencia y educación del infante, como hijo propio según las circunstancias de la persona que se trata de adoptar;
+
+II.- Que la adopción será benéfica para la persona que trata de adoptarse;
+
+III.- Que es persona con una conducta aceptable;
+
+En la adopción siempre será prioritario el interés superior del menor y el respeto de sus derechos fundamentales.
+
+Los trámites y gestiones relativos a la adopción deberán realizarse en forma personal por el que pretende adoptar, y no podrá delegar esta obligación a un tercero.
 
 ###### Artículo 556.
 
 Los cónyuges podrán adoptar cuando los dos estén conformes en considerar al adoptado como hijo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+Cuando se trate de hermanos el juez procurará que sean entregados en adopción a la misma persona o pareja de adoptantes.
 
 ###### Artículo 557.
 
@@ -3074,6 +3090,12 @@ III. Las personas que hubieren acogido a quien se pretenda adoptar y lo traten c
 IV. El Ministerio Público del lugar del domicilio del adoptado cuando éste no tenga padres conocidos, ni tutor ni persona que ostensiblemente le imparta su protección y lo hubiere acogido como hijo.
 
 Si el menor que se va a adoptar tuviese más de diez años, también se necesitará su consentimiento para la adopción.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 558 Bis.
+
+Si una persona tuvo al menor o incapaz bajo su custodia y protección por un periodo superior a seis meses, esta tendrá preferencia para adoptarlo, debiéndose probar el abandono del menor o en su caso la orfandad.
 
 ###### Artículo 559.
 
@@ -3248,6 +3270,18 @@ La adopción plena es irrevocable.
 ###### Artículo 588.
 
 La sentencia que la pronuncie podrá ser atacada de nulidad de acuerdo a las normas generales del Código de Procedimientos Civiles del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 588 Bis.
+
+La adopción que se pretenda hacer por extranjeros o por mexicanos que residan permanentemente en otro país, se regirá .sobre todos aquellos tratados y convenios internacionales ratificados por el Estado Mexicano, bajo el .principio del bilateralidad, y en lo conducente por este Código y las Leyes del Estado de Guerrero.
+
+La adopción simple concedida a extranjeros o mexicanos radicados en otro país, tendrá los mismos efectos en lo dispuesto en el artículo 583 de este Código, siempre y cuando dos años después de otorgada, se solicite su conversión expresamente.
+
+La adopción de extranjeros radicados legalmente en México, se regirá por las disposiciones aplicables a los mexicanos.
+
+Conforme a la subsidiariedad, para que el menor o el incapaz sea beneficiario de la adopción internacional, primero se debe de constatar que no hubo posibilidad que la adopción se diera en México o entre mexicanos.
 
 ## TITULO QUINTO. De la patria potestad y de la custodia
 
@@ -15426,3 +15460,9 @@ P.O. 30 DE NOVIEMBRE DE 2007.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Comuníquese el presente decreto al Titular del Poder Ejecutivo Estatal para los efectos legales conducentes.
+
+P.O. 30 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase al Titular del Poder Ejecutivo Estatal para los efectos legales conducentes.
