@@ -4,7 +4,7 @@ identifier: "GRO-codigo-procesal-civil-del-estado-libre-y-soberano-de-5095"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-26"
-last_updated: "2000-12-12"
+last_updated: "2008-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PROCESAL CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 364
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 26 de marzo de 1993.
 
@@ -6613,13 +6613,49 @@ Costas. Las costas que se ocasionen en los procedimientos judiciales no contenci
 
 ### CAPITULO II. ADOPCION
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 752.
 
-Requisitos de la adopción. El que pretende adoptar, deberá acreditar los requisitos señalados en el Código Civil. En la promoción inicial deberá manifestar el nombre y edad del menor o incapacitado, y el nombre y el domicilio de quienes ejerzan sobre él la patria potestad o la tutela, o de las personas o institución pública que lo haya acogido; debiendo acompañar un estudio médico, psicológico y socioeconómico, tanto de los adoptantes como del menor que se pretenda adoptar, realizado por el Sistema para el Desarrollo Integral de la Familia. Las pruebas pertinentes se recibirán sin dilación en cualquier día y hora hábil.
+La solicitud de adopción deberá contener:
 
-La solicitud de adopción a que se refiere este artículo deberá ser suscrita en forma personal por el interesado, debiendo el juzgador ordenar la ratificación de la misma, en su presencia, sin cuyo requisito no se le dará trámite. Tampoco se le deberá dar trámite a las solicitudes que vengan suscritas por apoderados o representante legal del interesado. Los infractores de esta disposición, serán destituidos de su cargo, sin responsabilidad para el Tribunal Superior de Justicia.
+I.- Nombre y domicilio para oír notificaciones del solicitante, tratándose de extranjeros deberán de señalar su nacionalidad y el domicilio de su país de origen, anexando la solicitud hecha a la Secretaría de Relaciones Exteriores del Gobierno Federal de su interés de realizar una adopción en nuestro país;
 
-Cuando el menor hubiere sido acogido por una institución pública, el adoptante, recabará constancia del tiempo de la exposición o abandono. Si hubieren transcurrido menos de seis meses de la exposición o abandono, se decretará el depósito del menor con el presunto adoptante, entretanto se consuma dicho plazo. Si el menor no tuviere padres conocidos y no hubiere sido acogido por institución pública, se decretará el depósito con el presunto adoptante, por el término de seis meses para los mismos efectos.
+II.- Nombre y edad del infante o incapacitado;
+
+III.- Nombre y domicilio de quienes ejerzan la patria potestad o la tutela, o de las personas o instituciones públicas que lo hayan acogido;
+
+IV.- Razón para adoptar;
+
+V.- Justificación de identidad, antecedentes e historia .familiar.
+
+VI.- La identidad, el origen étnico, los antecedentes familiares, religiosos, culturales de quien se pretenda adoptar.
+
+Presentada la solicitud, el juez la examinará y ordenará que sea ratificada en su presencia; una vez realizada se le dará trámite y ordenará la práctica del estudio médico, psicológico y socioeconómico de los adoptantes y el presunto adoptado, realizado por una institución pública competente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+Artículo 752 BIS.- Toda pareja de extranjeros, siempre que estén casados legalmente y sean mujer y hombre, que pretendan adoptar a un menor o incapacitado, deberá exhibir al juez correspondiente, además de la Secretaría de Gobernación, un certificado debidamente legalizado y traducido en el idioma español, siempre y cuando el documento se encuentre en otro idioma, expedido por una institución pública o privada autorizada por su país de origen, en relación a la protección de menores, en el que conste que se han cubierto todos aquellos requisitos socioeconómicos, psicológicos y de capacidad jurídica. También los mexicanos residentes en el extranjero deberán presentar este certificado.
+
+El juez que haya decretado una adopción a favor de extranjeros o de personas mexicanas radicadas fuera de territorio nacional, solicitará después de un año de que la sentencia en que se conceda la misma haya causado ejecutoria a la Secretaría de Gobernación informe sobre las condiciones en que se desarrolle el nuevo vínculo paterno filial, la salud y el trato que recibe el menor.
+
+El solicitante de la adopción deberá exhibir, un certificado de las autoridades migratorias de su Estado de origen, por lo (sic) que se autorice al menor o incapacitado que vaya adoptar para entrar y residir permanentemente en dicho Estado, así como la protección de sus respectivas leyes.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+Artículo 752 TER.- Tratándose de adopción internacional, la ley de residencia habitual del menor o incapacitado determinará la capacidad, consentimiento y demás requisitos para ser adoptado, así corno el procedimiento y las formalidades extrínsecas para la constitución del vínculo entre adoptante y adoptado.
+
+La Ley del domicilio del adoptante o adoptantes regirá, en cambio:
+
+a).- La capacidad para ser adoptante;
+
+b).- Los requisitos de edad y estado civil del adoptante;
+
+c).- El consentimiento del cónyuge o concubina del adoptante, si fuera el caso; y
+
+d).- Los demás requisitos para ser adoptantes.
+
+En el supuesto de que los requisitos de la ley del adoptante sean menos estrictos que los señalados por la ley del adoptado, se aplicará esta última. En caso de conversión de la adopción simple a plena, se aplicará a elección del actor, la ley de residencia habitual del adoptado, al momento de la adopción, o la del país donde tenga su domicilio el adoptante.
 
 ###### Artículo 753.
 
@@ -6966,3 +7002,9 @@ P.O. 12 DE DICIEMBRE DE 2000
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los asuntos que se encuentren en trámite, se sujetarán a las normas establecidas hasta antes de la entrada en vigor de las presentes reformas y adiciones.
+
+P.O. 30 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase al Titular del Poder Ejecutivo Estatal para los efectos legales conducentes.
