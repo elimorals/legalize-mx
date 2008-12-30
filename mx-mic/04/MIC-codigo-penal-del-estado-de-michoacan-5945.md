@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-del-estado-de-michoacan-5945"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-07-07"
-last_updated: "2007-10-17"
+last_updated: "2008-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO PENAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2008.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el lunes 7 de julio de 1980.
 
@@ -3167,7 +3167,7 @@ DELITOS CONTRA EL PATRIMONIO
 
 ### CAPITULO V. Usura
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 299.
 
@@ -3493,7 +3493,17 @@ Es aplicable al delito de fraude genérico y especies de defraudación previstos
 
 ###### Artículo 327.
 
-Se impondrán prisión de dos a ocho años y multa de cien a quinientos días de salario, al que aprovechando la necesidad apremiante de una persona, obtenga un lucro excesivo, para sí o para otro, mediante intereses o ventajas económicas desproporcionadas con la naturaleza de la operación. Este delito sólo se perseguirá por querella del ofendido.
+Se impondrá de dos a ocho años de prisión y de cien a quinientos días de salario mínimo general vigente en el lugar del delito, a quien aprovechando:
+
+I. La necesidad apremiante;
+
+ll. La inexperiencia; o,
+
+III. La ignorancia.
+
+Obtenga beneficios económicos superiores al dos por ciento mensual mediante intereses o ventajas desproporcionadas o excesivas para sí o para otro.
+
+Este delito se perseguirá por querella del ofendido, a excepción de la fracción III que será de oficio.
 
 ###### Artículo 328.
 
@@ -3936,3 +3946,9 @@ Se abroga la Ley para Prevenir y Sancionar la Tortura, aprobada en Decreto núme
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales que contravengan el presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
