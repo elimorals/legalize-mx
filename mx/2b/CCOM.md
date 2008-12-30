@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2008-04-17"
+last_updated: "2008-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2008.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -5696,11 +5696,9 @@ VI. El convenio también deberá expresar los nombres de los otorgantes, su capa
 
 En las demás materias, a falta de acuerdo especial u omisión de las partes en la regulación procesal convenida, se observarán las disposiciones de este libro.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
-
-Art. 1,054. En caso de no existir convenio de las partes sobre el procedimiento ante tribunales en los términos de los anteriores artículos, salvo que las leyes mercantiles establezcan un procedimiento especial o una supletoriedad expresa, los juicios mercantiles se regirán por las disposiciones de este libro y en su defecto se aplicará supletoriamente el Código Federal de Procedimientos Civiles y en caso de que no regule la institución cuya suplencia se requiera, la ley de procedimientos local respectiva.
+Art. 1,054. En caso de no existir convenio de las partes sobre el procedimiento ante tribunales en los términos de los anteriores artículos, salvo que las leyes mercantiles establezcan un procedimiento especial o una supletoriedad expresa, los juicios mercantiles se regirán por las disposiciones de este libro y, en su defecto, se aplicará supletoriamente el Código Federal de Procedimientos Civiles y en caso de que no regule suficientemente la institución cuya supletoriedad se requiera, la ley de procedimientos local respectiva.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -6664,11 +6662,9 @@ Art. 1,153. El juez puede disponer lo que crea conveniente, ya para cerciorarse 
 
 Contra la resolución del juez que conceda la diligencia preparatoria no cabe recurso alguno. Contra la resolución que la deniegue habrá el de apelación en ambos efectos si fuere dictada por un juez de primera instancia, o el de revocación si fuere dictada por juez menor o de paz.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
-
-Art. 1,154. La acción que puede ejercitarse conforme a las fracciones II y III del artículo 1151 procede contra cualquier persona que tenga en su poder las cosas que en ellas se mencionan. Mediante notificación personal se correrá traslado por el término de tres días a aquel contra quien se promueva, para que manifieste lo que a su derecho convenga, exponiendo en su caso las razones que tenga para oponerse a la exhibición o que le impidan realizarla. En dichos escritos deberán ofrecerse las pruebas, las que de admitirse se recibirán en la audiencia que debe celebrarse dentro del plazo de ocho días, y en donde se alegue y en la misma se resuelva sobre la exhibición solicitada. En caso de concederse la exhibición del bien mueble o de los documentos, el juez señalará día, hora y lugar para que se lleve a cabo la misma, con el apercibimiento que considere procedente. La resolución que niegue lo pedido será apelable en ambos efectos y la que lo conceda lo será en el devolutivo, de tramitación conjunta con la sentencia definitiva, que se llegue a dictar en el juicio que se promoviere, en base a dicho medio.
+Art. 1,154. La acción que puede ejercitarse, conforme a las fracciones II y III del artículo 1151, procede contra cualquier persona que tenga en su poder las cosas que en ellas se mencionan. Mediante notificación personal se correrá traslado por el término de tres días a aquel contra quien se promueva, para que manifieste lo que a su derecho convenga, exponiendo en su caso las razones que tenga para oponerse a la exhibición o que le impidan realizarla. En dichos escritos deberán ofrecerse las pruebas, las que de admitirse se recibirán en la audiencia que debe celebrarse dentro del plazo de ocho días, y en donde se alegue y se resuelva sobre la exhibición solicitada. En caso de concederse la exhibición del bien mueble o de los documentos, el juez señalará día, hora y lugar para que se lleve a cabo ésta, con el apercibimiento que considere procedente. La resolución que niegue lo pedido será apelable en ambos efectos y la que lo conceda lo será en el devolutivo, de tramitación inmediata.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -6732,11 +6728,9 @@ El actor formulará su demanda en vía ejecutiva, ante el mismo juez que conoci�
 
 Cuando se despache auto de ejecución, se seguirá el juicio en la vía ejecutiva como marca la ley para los de su clase.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
-
-La resolución que niegue el auto de ejecución será apelable en ambos efectos, y en caso contrario se admitirá en el efecto devolutivo, de tramitación conjunta con la sentencia definitiva, que se llegue a dictar en el juicio que se promoviere, en base a dicho medio.
+La resolución que niegue el auto de ejecución será apelable en ambos efectos y, en caso contrario, se admitirá en el efecto devolutivo de tramitación inmediata.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -7110,11 +7104,15 @@ La prueba pericial sólo será admisible cuando se requieran conocimientos espec
 
 El título de habilitación de corredor público acredita para todos los efectos la calidad de perito valuador.
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
 
-Art. 1,253. Las partes propondrán la prueba pericial dentro del término de ofrecimiento de pruebas, en los siguientes términos:
+Art. 1,253. Las partes propondrán la prueba pericial dentro del término de ofrecimiento de pruebas en los siguientes términos:
+
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
 
 I. Señalarán con toda precisión la ciencia, arte, técnica, oficio o industria sobre la cual deba practicarse la prueba; los puntos sobre los que versará y las cuestiones que se deben resolver en la pericial, así como la cédula profesional, calidad técnica, artística o industrial del perito que se proponga, nombre, apellidos y domicilio de éste, con la correspondiente relación de tal prueba con los hechos controvertidos;
+
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
 
 II. Si falta cualquiera de los requisitos anteriores, el juez desechará de plano la prueba en cuestión;
 
@@ -7130,6 +7128,8 @@ III. En caso de estar debidamente ofrecida, el juez la admitirá, quedando oblig
 
 IV. Cuando se trate de juicios ejecutivos, especiales o cualquier otro tipo de controversia de trámite específicamente singular, las partes quedan obligadas a cumplir dentro de los tres días siguientes al proveído en que se les tengan por designados tales peritos, conforme a lo ordenado en el párrafo anterior, quedando obligados los peritos, en estos casos, a rendir su dictamen dentro de los cinco días siguientes a la fecha en que hayan aceptado y protestado el cargo con la misma salvedad que la que se establece en la fracción anterior;
 
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
+
 V. Cuando los peritos de las partes rindan sus dictámenes, y éstos resulten substancialmente contradictorios, se designará al perito tercero en discordia tomando en cuenta lo ordenado por el artículo 1255 de este código;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
@@ -7138,15 +7138,19 @@ V. Cuando los peritos de las partes rindan sus dictámenes, y éstos resulten su
 
 VI. La falta de presentación del escrito del perito designado por la oferente de la prueba, donde acepte y proteste el cargo, dará lugar a que se tenga por desierta dicha pericial. Si la contraria no designare perito, o el perito por ésta designado, no presentare el escrito de aceptación y protesta del cargo, dará como consecuencia que se tenga a ésta por conforme con el dictamen pericial que rinda el perito del oferente. En el supuesto de que el perito designado por alguna de las partes, que haya aceptado y protestado el cargo conferido, no presente su dictamen pericial en el término concedido, se entenderá que dicha parte acepta aquél que se rinda por el perito de la contraria, y la pericial se desahogará con ese dictamen. Si los peritos de ambas partes, no rinden su dictamen dentro del término concedido, el juez designará en rebeldía de ambas un perito único, el que rendirá su dictamen dentro del plazo señalado en las fracciones III y IV, según corresponda.
 
-En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa de tres mil pesos. Dicho monto se actualizará en forma anualizada que deberá regir a partir del primero de enero de cada año de acuerdo con el Índice Nacional de Precios al Consumidor que determine el Banco de México, y que a falta de éste será aplicable el que lo sustituya;
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa hasta de tres mil pesos. Dicho monto deberá actualizarse en forma anual, de acuerdo con el factor de actualización que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año que se calcula entre el Índice Nacional de Precios al Consumidor de noviembre del año inmediato anterior que determine el Banco de México y, a falta de éste será aplicable el que lo sustituya;
 
-> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
 
-VII. Las partes quedan obligadas a pagar los honorarios de los peritos que hayan nombrado, así como a presentarlos cuantas veces sea necesario al juzgado. También quedarán obligadas a presentar el dictamen pericial dentro del plazo señalado, debiendo presentar los peritos el original de su cédula profesional, o de los documentos anexados a sus escritos de aceptación y protesta del cargo, teniendo como sanción a la omisión de presentarlos, que el dictamen no se tenga por rendido;
+VII. Las partes quedan obligadas a pagar los honorarios de los peritos que hayan nombrado, así como a presentarlos cuantas veces sea necesario al juzgado. También quedarán obligadas a presentar el dictamen pericial dentro del plazo señalado, y de no presentarse, se tendrá por no rendido el dictamen;
+
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
 
 VIII. Las partes en cualquier momento podrán convenir en la designación de un sólo perito para que rinda su dictamen al cual se sujetarán, y
+
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
 
 IX. También las partes en cualquier momento podrán manifestar su conformidad con el dictamen del perito de la contraria y hacer observaciones al mismo, que serán consideradas en la valoración que realice el juez en su sentencia.
 
@@ -7600,29 +7604,27 @@ IV. El tercero con interés legítimo, siempre y cuando le perjudique la resoluc
 
 Art. 1,338. La apelación puede admitirse en el efecto devolutivo y en el suspensivo, o sólo en el primero pudiendo ser éste, de tramitación inmediata o conjunta con la definitiva, según sea el caso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
-
-Art. 1,339. Sólo son recurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo valor exceda de doscientos mil pesos por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados, a la fecha de interposición del recurso, debiendo actualizarse dicha cantidad en forma anual, de acuerdo al Índice Nacional de Precios al Consumidor que publique el Banco de México, el primero de enero de cada año, y a falta de éste será aplicable el que lo sustituya.
+Art. 1,339. Sólo son recurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo valor exceda de doscientos mil pesos por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad en los términos previstos en el último párrafo de la fracción VI del artículo 1253.
 
 Las sentencias que fueren recurribles, conforme al párrafo anterior, lo serán por la apelación que se admitirá en ambos efectos, salvo cuando la ley expresamente determine que lo sean sólo en el devolutivo.
 
 Sólo serán apelables los autos, interlocutorias o resoluciones que decidan un incidente o cuando lo disponga este código, y la sentencia definitiva pueda ser susceptible de apelación, de acuerdo a lo dispuesto en el primer párrafo de este artículo.
 
-El recurso de apelación contra autos, interlocutorias o resoluciones que se dicten en el trámite del procedimiento se admitirán en el efecto preventivo, sin que sea necesario en tal escrito la expresión de agravios; interpuesta la apelación preventiva, se mandará tenerla presente cuando se apele la sentencia definitiva y se reitere ante el superior lo pedido en su oportunidad.
+El recurso de apelación contra autos, interlocutorias o resoluciones, que se dicten en el trámite del procedimiento se admitirá en el efecto devolutivo de tramitación conjunta con la apelación de la sentencia definitiva, sin que sea necesario en tal escrito la expresión de agravios; interpuesta esta apelación, se reservará su trámite para que se realice en su caso conjuntamente con la tramitación de la apelación que se formule en contra de la sentencia definitiva por la misma parte apelante.
 
 Para que proceda la apelación contra autos, interlocutorias o resoluciones en efecto devolutivo o en el suspensivo se requiere disposición especial de la ley.
 
-La apelación debe interponerse ante el tribunal que haya pronunciado el auto, interlocutoria o resolución, en el acto de la notificación o, a más tardar, dentro de los nueve días siguientes, si se tratare de sentencia definitiva o de seis, si fuere contra auto, interlocutoria o resolución dictada en el procedimiento si se trata de apelaciones de tramitación inmediata, y dentro de esos plazos se deben de exponer los motivos de agravio, y en el término de tres días aquellas preventivas de tramitación conjunta con la sentencia definitiva.
+La apelación debe interponerse ante el tribunal que haya pronunciado el auto, interlocutoria o resolución, a más tardar dentro de los nueve días siguientes a aquél en que surta efectos la notificación si se tratare de sentencia definitiva, seis si fuere contra auto, interlocutoria o resolución, dictada en el procedimiento si se trata de apelaciones de tramitación inmediata y en el término de tres días si se trata de apelación de tramitación conjunta con la sentencia definitiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+Los agravios que hayan de expresarse en contra del auto, interlocutoria o resolución, cuando se trate de apelaciones de tramitación inmediata o de sentencia definitiva, se expresarán al interponerse el recurso de apelación. Los agravios que en su caso se deban expresar en contra de resoluciones de tramitación conjunta con la sentencia definitiva se expresarán en la forma y términos previstos en el artículo 1344 de este Código.
 
-> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
 
-Art. 1,340. La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los Juzgados de Paz o de Cuantía Menor o cuando el monto sea inferior a doscientos mil pesos por concepto de suerte principal, debiendo actualizarse dicha cantidad en forma anual, de acuerdo con el Índice Nacional de Precios al Consumidor que publique el Banco de México, el primero de enero de cada año, y a falta de éste será aplicable el que lo sustituya.
+Art. 1,340. La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a doscientos mil pesos por concepto de suerte principal, debiendo actualizarse en forma anual, de acuerdo con el factor de actualización que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año que se calcula, entre el Índice Nacional de Precios al Consumidor de noviembre del año inmediato anterior que determine el Banco de México y, a falta de éste será aplicable el que lo sustituya.
 
-El Consejo de la Judicatura Federal, los presidentes de los Tribunales Superiores de Justicia del Distrito Federal y de Estados tendrán la obligación de hacer saber a los juzgados y tribunales de su jurisdicción, el Índice Nacional de Precios al Consumidor a que se refiere el párrafo que antecede dentro de los primeros cinco días del año.
+El Consejo de la Judicatura Federal, los presidentes de los Tribunales Superiores de Justicia, del Distrito Federal y de los Estados, tendrán la obligación de hacer saber a los juzgados y tribunales de su jurisdicción, el factor de actualización al que se refiere el párrafo anterior.
 
 Art. 1,341. Las sentencias interlocutorias son apelables, si lo fueren las definitivas conforme al artículo anterior. Con la misma condición, son apelables los autos si causan un gravamen que no pueda repararse en la definitiva, ó si la ley expresamente lo dispone.
 
@@ -7642,15 +7644,21 @@ Art. 1,343. La sentencia de segunda instancia causará ejecutoria cuando la mism
 
 Del trámite de la apelación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+Art. 1,344. En los casos no previstos en el artículo 1345, la parte que se sienta agraviada por una resolución judicial que sea apelable, dentro del tercer día siguiente de aquél en que surta efectos su notificación, deberá hacer saber por escrito su inconformidad apelando preventivamente ésta sin expresar agravios; de no presentarse el escrito de inconformidad a que se refiere este párrafo, se tendrá por precluido el derecho del afectado para hacerlo valer como agravio en la apelación que se interponga contra la sentencia definitiva.
 
-Art. 1,344. En los casos no previstos en el artículo 1345, la parte que se sienta agraviada por una resolución judicial que sea apelable, dentro del tercer día de su notificación deberá por escrito hacer saber su inconformidad apelando preventivamente la misma sin expresar agravios, y en caso de que la sentencia definitiva le sea adversa, siempre y cuando apele de ella, al expresar agravios en su contra, deberá hacer valer también los agravios que considere le cause la resolución apelada preventivamente; de no presentarse el escrito de inconformidad a que se refiere este párrafo, se tendrá por precluido el derecho del afectado para hacerlo valer como agravio en la apelación que se interponga contra de la definitiva.
+Dentro del plazo de nueve días a que se refiere el artículo 1079, el apelante, ya sea vencedor o vencido, deberá hacer valer también en escrito por separado los agravios que considere le causaron las determinaciones que combatió en las apelaciones admitidas en efecto devolutivo de tramitación preventiva y cuyo trámite se reservó para hacerlo conjuntamente con la sentencia definitiva, para que el tribunal que conozca del recurso en contra de ésta última pueda considerar el resultado de lo ordenado en la resolución recaída en la apelación preventiva.
 
-El tribunal que conozca del recurso en contra de la definitiva solo tomará en consideración tales violaciones, para resolver sobre su procedencia o no, si se expresaron como agravio, siempre y cuando las mismas trasciendan al fondo del juicio, debiendo dictar una sola sentencia. En caso de que existan violaciones procesales que sean trascendentes al fondo del juicio, el tribunal dejará insubsistente la sentencia definitiva, regresando los autos originales al inferior, para que éste proceda a reponer el procedimiento reparándolas en los términos que ordena la resolución del superior.
+Si se trata del vencido o de aquella parte que no obtuvo todo lo que pidió, con independencia de los agravios que se expresen en la apelación de tramitación conjunta con la sentencia definitiva, deberá expresar en los agravios en contra de la sentencia que resolvió el Juicio de qué manera trascendería al fondo del asunto el resarcimiento de la violación a subsanar.
 
-En caso contrario, estudiará y resolverá la procedencia o no de los agravios expresados en contra de la definitiva.
+Tratándose de la parte que obtuvo todo lo que pidió, aún y cuando no sea necesario que apele en contra de la sentencia definitiva, deberá expresar los agravios en contra de las resoluciones que fueron motivo del recurso de apelación preventiva de tramitación conjunta con la sentencia definitiva, manifestando de qué manera trascendería al fondo del asunto el resarcimiento de la violación a subsanar, a efecto de que el tribunal de alzada proceda a estudiarlas.
+
+En dichos supuestos se dará vista a la contraria para que en el término de seis días contesten los agravios.
+
+El tribunal de alzada estudiará en primer término las violaciones procesales que se hubiesen hecho valer en los recursos de apelación preventiva y de encontrar violaciones procesales que sean trascendentes al fondo del Juicio y, sólo en aquellas que requieran ser reparadas por el juez natural, dejará insubsistente la sentencia definitiva, regresando los autos originales al juez de origen para que éste proceda a reponer el procedimiento y dicte nueva sentencia.
+
+De no ser procedentes los agravios de las apelaciones de tramitación conjunta con la sentencia definitiva o no habiendo sido expresados, o resultando fundados no sea necesario que la violación procesal sea reparada por el juez de origen, el tribunal estudiará y resolverá la procedencia, o no, de los agravios expresados en contra de la definitiva, resolviendo el recurso con plenitud de jurisdicción.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -7664,7 +7672,31 @@ II. Contra el auto que no admite a trámite la reconvención, en tratándose de 
 
 III. Las resoluciones que por su naturaleza pongan fin al juicio;
 
-IV. La resolución que recaiga a las providencias precautorias, siempre y cuando de acuerdo al interés del negocio hubiere lugar a la apelación, cuya tramitación será en el efecto devolutivo.
+IV. La resolución que recaiga a las providencias precautorias, siempre y cuando de acuerdo al interés del negocio hubiere lugar a la apelación, cuya tramitación será en el efecto devolutivo;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
+
+V. Contra el auto que desecha el incidente de nulidad de actuaciones por defectos en el emplazamiento y contra la resolución que se dicte en el incidente;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
+
+VI. Contra las resoluciones que resuelvan excepciones procesales;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
+
+VII. Contra el auto que tenga por contestada la demanda o reconvención, así como el que haga la declaración de rebeldía en ambos casos;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
+
+VIII. Contra las resoluciones que suspendan el procedimiento;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
+
+IX. Contra las resoluciones o autos que siendo apelables se pronuncien en ejecución de sentencia;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
+
+X. La resolución que dicte el juez en el caso previsto en el artículo 1148 de este Código.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -7678,7 +7710,9 @@ Art. 1,345 Bis. En los casos previstos en este Capítulo, la apelación debe int
 
 Art. 1,345 Bis 1. El litigante al interponer la apelación de tramitación inmediata, expresará los agravios que considere le cause la resolución recurrida, salvo en aquellos que específicamente la ley establezca un trámite diverso.
 
-Las apelaciones de tramitación inmediata que se interpongan contra auto o interlocutoria, deberán hacerse valer en el término de seis días a las que se interpongan contra sentencia definitiva dentro del plazo de nueve días, contados a partir del día siguiente a aquel en que surtan efectos las notificaciones de tales resoluciones.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
+
+Las apelaciones de tramitación inmediata que se interpongan contra auto o interlocutoria, deberán hacerse valer en el término de seis días y las que se interpongan contra sentencia definitiva dentro del plazo de nueve días, contados a partir del día siguiente a aquél en que surtan efectos las notificaciones de tales resoluciones.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -7704,7 +7738,9 @@ El tribunal al recibir el testimonio formará un solo toca o cuaderno, en el que
 
 Art. 1,345 Bis 4. El tribunal, al recibir las constancias que remita el inferior, revisará si la apelación fue interpuesta en tiempo y bien admitida, y calificará si se confirma o no el grado en que se admitió por el inferior. De encontrarla ajustada a derecho, así lo hará saber y citará a las partes en el mismo auto para dictar sentencia, la que pronunciará y notificará dentro de los términos de este Código.
 
-En el caso de que se trate de sentencia definitiva, se dejará en el juzgado copia certificada de ella y de las demás constancias que el juez estime necesarias para ejecutarla, remitiéndose desde luego los autos originales al tribunal correspondiente.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
+
+En el caso de que se trate de sentencia definitiva y la apelación proceda en el efecto devolutivo, se dejará en el juzgado copia certificada de ella y de las demás constancias que el juez estime necesarias para ejecutarla, remitiéndose desde luego los autos originales al tribunal correspondiente.
 
 La apelación admitida en ambos efectos suspende desde luego la ejecución de la sentencia, hasta que ésta cause ejecutoria. Cuando se interponga contra auto o interlocutoria que por su contenido impida la continuación del procedimiento y la apelación se admita en ambos efectos, se suspenderá la tramitación del juicio.
 
@@ -7720,13 +7756,11 @@ Art. 1,345 Bis 5. Se admitirán en un solo efecto las apelaciones en los casos e
 
 Art. 1,345 Bis 6. Una vez confirmada la admisión y calificación del grado en que haya sido admitido el recurso por el juez, el tribunal citará a las partes en el mismo auto para oír sentencia. Tratándose de apelaciones que no se tengan que resolver junto con las apelaciones intermedias que deban tramitarse y resolverse junto con ésta, o bien tratándose de apelaciones de intermedias y definitiva que se tramiten y resuelvan de manera conjunta, que no excedan en número de seis, el tribunal contará con un máximo de veinte días para elaborar el proyecto. Si el número de apelaciones que se tengan que resolver de manera conjunta exceden de seis, el plazo para dictar la sentencia se ampliará hasta por diez días más, así como en el caso de que tengan que examinarse expedientes y/o documentos voluminosos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
 
-> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+Art. 1,345 Bis 7. En el caso de que el apelante omitiera expresar agravios, al interponer el recurso de apelación de tramitación inmediata ante el juez sin necesidad de acusar rebeldía, declarará precluido su derecho y quedará firme la resolución. Si no se interpusiera apelación en contra de la sentencia definitiva, se entenderán consentidas las resoluciones y autos que hubieran sido apelados durante el procedimiento y que sean de tramitación conjunta con la sentencia definitiva, a excepción de lo previsto en el párrafo cuarto del artículo 1344 de este Código.
 
-Art. 1,345 Bis 7. En el caso de que el apelante omitiera expresar agravios al interponer el recurso de apelación de tramitación inmediata ante el juez, sin necesidad de acusar rebeldía, declarará precluido su derecho, y quedará firme la resolución. Si no se interpusiera apelación en contra de la sentencia definitiva, se entenderán consentidas las resoluciones y autos que hubieran sido apelados durante el procedimiento, y que sean de tramitación conjunta con la definitiva.
-
-Para el caso de que el tribunal considere fundada la apelación promovida, deberá estudiar de oficio aquellas apelaciones que se hayan presentado durante el procedimiento por la parte que en la primera instancia no se encontraba obligada a apelar por haber obtenido sentencia favorable a sus intereses.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -7760,9 +7794,9 @@ I. Que se hayan cumplido las formalidades establecidas en los tratados en que M�
 
 II. Que no hayan sido dictados como consecuencia del ejercicio de una acción real;
 
-> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1989)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
 
-III. Que el juez o tribunal sentenciador haya tenido competencia para conocer y juzgar el asunto de acuerdo con las reglas reconocidas en el derecho internacional que sean compatibles con las adoptadas por este Código;
+III. Que el juez o tribunal sentenciador haya tenido competencia para conocer y juzgar el asunto de acuerdo con las reglas reconocidas en el derecho internacional que sean compatibles con las adoptadas por este Código. El Juez o tribunal sentenciador extranjero no tiene competencia cuando exista, en los actos jurídicos de que devenga la resolución que se pretenda ejecutar, una cláusula de sometimiento únicamente a la jurisdicción de tribunales mexicanos;
 
 > <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1989)</small>
 
@@ -8516,7 +8550,7 @@ b) No fue debidamente notificada de la designación de un árbitro o de las actu
 
 c) El laudo se refiere a una controversia no prevista en el acuerdo de arbitraje o contiene decisiones que exceden los términos del acuerdo de arbitraje. No obstante, si las disposiciones del laudo que se refieren a las cuestiones sometidas al arbitraje pueden separarse de las que no lo están, sólo se podrán anular estas últimas; o
 
-d) La composición del tribunal arbitral o el procedimiento arbitral no se ajustaron en el acuerdo celebrado entre las partes, salvo que dicho acuerdo estuviera en conflicto con una disposición del presente título de la que las partes no pudieran apartarse o, a falta de dicho acuerdo, que no se ajustaron al presente título; o
+d). La composición del tribunal arbitral o el procedimiento arbitral no se ajustaron en el acuerdo celebrado entre las partes, salvo que dicho acuerdo estuviera en conflicto con una disposición del presente título de la que las partes no pudieran apartarse o, a falta de dicho acuerdo, que no se ajustaron al presente título; o
 
 II. El juez compruebe que, según la legislación mexicana, el objeto de la controversia no es susceptible de arbitraje, o que el laudo es contrario al orden público.
 
@@ -8626,9 +8660,9 @@ Art. 1,397. Si se tratare de sentencia, no se admitirá más excepción que la d
 
 Art. 1,398. Los términos fijados en el artículo anterior, se contarán desde la fecha de la sentencia ó convenio, á no ser que en ellos se fije plazo para el cumplimiento de la obligación, en cuyo caso el término se contará desde el día en que se venció el plazo ó desde que pudo exigirse la última prestación vencida, si se tratare de prestaciones periódicas.
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
 
-Art. 1,399. Dentro de los cinco días siguientes al requerimiento de pago, al embargo, en su caso y al emplazamiento, el demandado deberá contestar la demanda, refiriéndose concretamente a cada hecho, oponiendo únicamente las excepciones que permite la ley en el artículo 1403 de este Código, y tratándose de títulos de crédito las del artículo 8o. de la Ley General de Títulos y Operaciones de Crédito, y en el mismo escrito ofrecerá pruebas, relacionándolas con los hechos y acompañando los documentos que exige la ley para las excepciones.
+Art. 1,399. Dentro de los ocho días siguientes al requerimiento de pago, al embargo, en su caso, y al emplazamiento, el demandado deberá contestar la demanda, refiriéndose concretamente a cada hecho, oponiendo únicamente las excepciones que permite la ley en el artículo 1403 de este Código, y tratándose de títulos de crédito las del artículo 8 de la Ley General de Títulos y Operaciones de Crédito, y en el mismo escrito ofrecerá pruebas, relacionándolas con los hechos y acompañando los documentos que exige la ley para las excepciones.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -8688,21 +8722,19 @@ Art. 1,406. Concluido el término de prueba, se pasará al período de alegatos,
 
 Art. 1,407. Presentados los alegatos ó trascurrido el término para hacerlo, previa citación y dentro del término de ocho días, se pronunciará la sentencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
 
-> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+Art. 1,407 Bis. Para la tramitación de apelaciones, respecto del Juicio a que se refiere este capítulo, se estará a las reglas generales que prevé este Código.
 
-Art. 1,407 Bis. Para la tramitación de apelaciones respecto del Juicio a que se refiere este Capítulo se estará a lo siguiente:
+I. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2008)
 
-I. Salvo lo previsto en la fracción III de este artículo, las resoluciones y autos que se dicten durante el procedimiento y que sean apelables, una vez interpuesta la apelación, el juez la admitirá si procede y reservará su tramitación para que se realice en su caso conjuntamente con la tramitación de la apelación que se formule en contra de la sentencia definitiva por la misma parte apelante. Si no se presentara apelación por la misma parte en contra de la definitiva, se entenderán consentidas las resoluciones y autos que hubieran sido apelados durante dicho procedimiento;
+II. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2008)
 
-II. Sólo en caso de que el tribunal considere fundada la apelación promovida por alguna de las partes, deberá estudiar de oficio, aquellas apelaciones que se hayan presentado durante el procedimiento por la parte que en la primera instancia no se encontraba obligada a apelar por no encuadrarse en los supuestos previstos en las fracciones I, II y IV del artículo 1337;
+III. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2008)
 
-III. Respecto de la sentencia definitiva, sentencias interlocutorias o autos definitivos que pongan término al juicio se admitirá la apelación en ambos efectos;
+IV. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2008)
 
-IV. Las apelaciones que se interpongan con motivo de resoluciones dictadas con posterioridad a la sentencia definitiva, se substanciarán de conformidad con las reglas generales que prevé este Código, y
-
-V. En los casos a que se refieren las fracciones I y III de este artículo, una vez que el tribunal cite a las partes para oír sentencia, contará con un máximo de veinte días para elaborar el proyecto. En caso que se tengan que resolver más de seis apelaciones intermedias el plazo podrá prorrogarse hasta por diez días más, así como en el caso de que se tengan que examinar expedientes o documentos voluminosos.
+V. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2008)
 
 Art. 1,408. Si en la sentencia se declara haber lugar á hacer trance y remate de los bienes embargados y pago al acreedor, en la misma sentencia se decidirá también sobre los derechos controvertidos.
 
@@ -9233,3 +9265,19 @@ Cuarto.- Las casas de empeño que estén operando a la fecha de entrada en vigor
 D.O.F. 17 DE ABRIL DE 2008.
 
 Único.- El presente Decreto entrará en vigor a los noventa días siguientes al de su publicación en el Diario Oficial de la Federación, en el entendido que los asuntos cuya demanda haya sido admitida con anterioridad a la entrada en vigor de la presente reforma, se tramitarán con las reglas anteriores a la misma.
+
+D.O.F. 30 DE DICIEMBRE DE 2008.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCION III DEL ARTICULO 1347-A DEL CODIGO DE COMERCIO.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La ejecución de las sentencias, laudos y resoluciones dictadas con anterioridad a la entrada en vigor del presente decreto, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+D.O.F. 30 DE DICIEMBRE DE 2008.
+
+DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTICULOS DEL CODIGO DE COMERCIO.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El presente Decreto no será aplicable a los asuntos cuya demanda haya sido admitida con anterioridad a la entrada en vigor de la reforma al Código de Comercio publicada en el Diario Oficial de la Federación el 17 de abril de 2008.
