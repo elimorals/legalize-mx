@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-regulacion-y-fomento-del-sistema-de-tiempo-5143"
 country: "mx"
 rank: "ley"
 publication_date: "1989-11-03"
-last_updated: "1994-03-25"
+last_updated: "2008-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5143&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE REGULACION Y FOMENTO DEL SISTEMA DE TIEMPO COMPARTIDO DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 3 de noviembre de 1989.
 
@@ -293,7 +293,9 @@ I.- Actuar como cuerpo de consulta de los ayuntamientos en donde se pretenda pro
 
 II.- Ordenar la realización de estudios de factibilidad sobre la promoción y desarrollo de los sistemas sobre tiempo compartido;
 
-III.- Mantener actualizado el padrón estatal de propietarios, tiempocompartidarios, promotores, desarrolladores, vendedores y multipropietarios;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+III.- Mantener actualizado el Padrón Estatal de Propietarios, Tiempocompartidarios, Promotores, Desarrolladores, Vendedores y Multipropietarios, para ello expedirá las credenciales correspondientes según sea el caso, previo cumplimiento de los requisitos señalados en el Reglamento para la Regulación y Fomento del Sistema de Tiempo Compartido del Estado de Guerrero;
 
 IV.- Conocer las quejas y demandas que formulen los tiempocompartidarios por violaciones de régimen legal del Sistema de Tiempo Compartido;
 
@@ -814,3 +816,9 @@ P.O. 25 DE MARZO DE 1994.
 PRIMERO.- El presente Decreto empezará a surtir sus efectos tres días después de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se deroga cualquier disposición que se oponga al presente ordenamiento.
+
+P.O. 30 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
