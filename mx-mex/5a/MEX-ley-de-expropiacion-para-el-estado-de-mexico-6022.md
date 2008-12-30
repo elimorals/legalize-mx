@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-expropiacion-para-el-estado-de-mexico-6022"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-17"
-last_updated: "1997-02-07"
+last_updated: "2008-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EXPROPIACIÓN PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE FEBRERO DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 17 de enero de 1996.
 
@@ -61,9 +61,13 @@ II. El embellecimiento, ampliación y saneamiento de las poblaciones; la constru
 
 III. La necesidad de víveres, medicinas, maquinaria, herramientas y demás objetos indispensables para hacer frente a los casos de riesgo, siniestro o desastre en el caso en que el Estado se encuentre imposibilitado para proveerlos por sus propios medios;
 
-IV. La captación y aprovechamiento de aguas pluviales;
+> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2008)</small>
 
-V. La construcción de obras de captación, limpia y abastecimiento de agua, drenaje, desagüe y saneamiento;
+IV. La construcción de obras para la captación y aprovechamiento de aguas pluviales, residuales y residuales tratadas;
+
+> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2008)</small>
+
+V. La construcción de obras para captación, conducción, potabilización, almacenamiento y distribución de agua potable; así como la construcción de obras para el alcantarillado, drenaje, almacenamiento y tratamiento de aguas residuales;
 
 VI. La realización de obras distintas a las señaladas en este artículo que tengan por objeto proporcionar al Estado, al municipio o a una comunidad o grupos de individuos, usos o disfrutes de beneficio común;
 
@@ -77,17 +81,59 @@ X. La protección, conservación, desarrollo o aprovechamiento de los elementos 
 
 XI. La conservación de los edificios, casas u objetos que tengan valor histórico, artístico o cultural para el Estado, que no sea de competencia federal;
 
-XII. La preservación, embellecimiento o saneamiento de los lugares de belleza panorámica; y
+XII. La preservación, embellecimiento o saneamiento de los lugares de belleza panorámica; y (sic)
 
-XIII. Las demás previstas por otras leyes.
+> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2008)</small>
+
+XIII. La construcción de infraestructura para transporte masivo o de infraestructura aeroportuaria y sus obras complementarias;
+
+> <small>(ADICIONADA, G.G. 30 DE DICIEMBRE DE 2008)</small>
+
+XIV. La construcción de parques industriales y tecnológicos;
+
+> <small>(ADICIONADA, G.G. 30 DE DICIEMBRE DE 2008)</small>
+
+XV. La construcción de espacios y adecuaciones para fortalecer las expropiaciones que realice la autoridad federal;
+
+> <small>(ADICIONADA, G.G. 30 DE DICIEMBRE DE 2008)</small>
+
+XVI. La disponibilidad de reservas territoriales para ordenamiento urbano;
+
+> <small>(ADICIONADA, G.G. 30 DE DICIEMBRE DE 2008)</small>
+
+XVII. Las áreas requeridas para la protección y adecuada operación, conservación y vigilancia de la infraestructura;
+
+> <small>(ADICIONADA, G.G. 30 DE DICIEMBRE DE 2008)</small>
+
+XVIII. El aseguramiento de inmuebles en los que se realizan actividades ilícitas o actos delictivos que ponen en riesgo la seguridad del Estado y de las personas;
+
+> <small>(ADICIONADA, G.G. 30 DE DICIEMBRE DE 2008)</small>
+
+XIX. La rehabilitación o demolición de edificaciones que representen un riesgo para los ciudadanos;
+
+> <small>(ADICIONADA, G.G. 30 DE DICIEMBRE DE 2008)</small>
+
+XX. Los espacios requeridos para la reubicación temporal o permanente de la población afectada por desastres naturales; y
+
+> <small>(ADICIONADA, G.G. 30 DE DICIEMBRE DE 2008)</small>
+
+XXI. Las demás previstas por otras leyes.
 
 ###### Artículo 4.
 
 Corresponde al Gobernador del Estado determinar los casos en que sea de utilidad pública la ocupación de la propiedad privada y decretar la expropiación.
 
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 5.
 
-El pago de indemnización por expropiación será igual al valor comercial que corresponda al bien de que se trate y que determine el Instituto de Catastro tratándose de bienes inmuebles, en cuyo caso no podrá ser menor al valor fiscal que figure en las oficinas catastrales o recaudadoras. En cuanto a bienes muebles, el valor será fijado por la autoridad mediante estimación pericial.
+El pago de indemnización por expropiación de bienes inmuebles se basará en la cantidad que como valor fiscal o catastral figure en las oficinas catastrales o recaudadoras respectivas. En cuanto a bienes muebles, el valor será fijado por la autoridad mediante estimación pericial.
+
+> <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 5 Bis.
+
+Estará sujeto a valor comercial, determinado por el órgano estatal competente, el exceso de valor o demérito que haya tenido la propiedad por las mejoras o deterioros ocurridos con posterioridad a la fecha del valor fiscal o catastral asignado.
 
 ## TITULO SEGUNDO. DEL PROCEDIMIENTO ADMINISTRATIVO PARA LA EXPROPIACION DE LA PROPIEDAD PRIVADA
 
@@ -131,9 +177,27 @@ Cuando la solicitud de expropiación recaiga en bienes de ausentes, menores o in
 
 La Secretaría General de Gobierno, por conducto de la Dirección Jurídica y Consultiva, sustanciará el trámite respectivo y pedirá a las dependencias u organismos auxiliares competentes los informes, dictámenes, peritajes y demás elementos para acreditar la idoneidad material y técnica del bien de que se trate o la existencia del valor histórico, artístico o cultural, así como la causa de utilidad pública en que se sustente.
 
+> <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2008)</small>
+
+El expediente respectivo deberá quedar integrado dentro del término de treinta días contados a partir del acuerdo de radicación.
+
+> <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 9 Bis.
+
+Cuando las condiciones lo permitan, podrá convenirse una audiencia de avenencia sobrevenida y de lograr arreglo se celebrará convenio, su contenido se trasladará al decreto de expropiación y se inscribirá en el Instituto de la Función Registral del Estado de México.
+
+> <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 9 Ter.
+
+La autoridad encargada del procedimiento expropiatorio en funciones de conciliación, podrá citar al particular afectado a una audiencia de conciliación, para buscar un arreglo, que de lograrse dentro de procedimiento, se dará por terminado éste.
+
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 10.
 
-Analizado el expediente, comprobada la causa de utilidad pública y la idoneidad del bien, el Ejecutivo decretará la expropiación.
+Acreditada la causa de utilidad pública y la idoneidad del bien, el Ejecutivo decretará la expropiación.
 
 ### CAPITULO II. DEL DECRETO DE EXPROPIACION
 
@@ -171,7 +235,9 @@ Los Tribunales Judiciales y Administrativos del Estado auxiliarán a las autorid
 
 Decretada la expropiación, la Secretaría General de Gobierno, por conducto de la Dirección General de Gobernación, procederá a la ejecución, conforme al siguiente procedimiento:
 
-I. Después de cinco días de notificada la declaratoria, se citara personalmente al propietario o poseedor afectado y al solicitante, indicándoles el día y la hora en que se llevará a cabo la diligencia de posesión, la cual se realizará indefectiblemente;
+> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2008)</small>
+
+I. Después de cinco días de notificada la declaratoria, se citará personalmente al propietario o poseedor afectado y al solicitante, indicándoles el día y la hora, que será dentro de los cinco días siguientes, en que se llevará a cabo la diligencia de posesión, la cual se realizará indefectiblemente;
 
 II. Se levantará acta de posesión y de deslinde cuando se trate de bienes inmuebles, entregándose físicamente el bien expropiado, en favor de quien se haya decretado la expropiación;
 
@@ -179,9 +245,21 @@ III. Cuando se trate de bienes inmuebles, se fijarán con precisión los amojona
 
 IV. En caso de oposición a la diligencia la Dirección General de Gobernación podrá solicitar el auxilio de la fuerza pública para ejecutar el decreto respectivo.
 
+> <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 14 Bis.
+
+Es procedente la ocupación del bien expropiado, una vez que se ha publicado el decreto y en los términos del mismo. Podrá decretarse la ocupación anticipada del bien expropiado, cuando se establezca pago diferido de la indemnización, o cuando la expropiación obedezca a las causas de utilidad públicas señaladas en las fracciones III, IX, XVIII, XIX y XX del artículo 3 de este ordenamiento.
+
 ###### Artículo 15.
 
 Tratándose de bienes inmuebles, copia certificada de la solicitud de expropiación será remitida al Registro Público de la Propiedad para su inscripción preventiva. Habiéndose resuelto en definitiva, será remitido el decreto expropiatorio, que servirá de título de propiedad, para su debida inscripción.
+
+> <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 15 Bis.
+
+En caso de bienes inmuebles adjudicados como propiedad estatal, éstos deberán inscribirse en el Registro Administrativo de la Propiedad Pública, con base en lo señalado en los artículos 58, 62, 63 fracciones I, II y VII y 64 de la Ley de Bienes del Estado de México, en un plazo no mayor a cinco días hábiles después de la adjudicación; y se procederá a su inscripción definitiva en el Instituto de la Función Registral del Estado de México, en un máximo de diez días hábiles después de la adjudicación.
 
 ###### Artículo 16.
 
@@ -199,11 +277,17 @@ I. Dinero en efectivo;
 
 II. Bienes de valor equivalente;
 
-III. Compensación en el pago de contribuciones que deba efectuar el titular de los derechos del bien expropiado; y
+III. Compensación en el pago de contribuciones que deba efectuar el titular de los derechos del bien expropiado; y (sic)
 
-IV. Concesiones para la explotación de las obras que se realicen fijándose plazo y las condiciones respectivas en términos de ley.
+IV. Concesiones para la explotación de las obras que se realicen fijándose plazo y las condiciones respectivas en términos de ley;
 
-Para el caso de la indemnización a que se refieren las fracciones II, III y IV, será necesario el consentimiento del particular afectado.
+> <small>(ADICIONADA, G.G. 30 DE DICIEMBRE DE 2008)</small>
+
+V. Inmuebles en dación de pago.
+
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2008)</small>
+
+Para el caso de la indemnización a que se refieren las fracciones II, III, IV y V, será necesario el consentimiento del particular afectado.
 
 ###### Artículo 18.
 
@@ -215,17 +299,27 @@ Cuando el bien expropiado pase al patrimonio de persona distinta del Estado, és
 
 Si el titular de la propiedad expropiada está de acuerdo con el monto de la indemnización fijada en el decreto expropiatorio, ésta quedará firme y se procederá a su pago en los términos en que se haya determinado.
 
+> <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 19 Bis.
+
+Cuando el titular del bien expropiado se rehúse a recibir el importe del pago de la indemnización, se le notificará que ésta queda a su disposición en la Secretaría de Finanzas donde podrá ser reclamada en un plazo de 5 años a partir de ser notificado. Si en este plazo no es reclamada ésta pasará a beneficio del Estado y éste podrá disponer de la misma libremente y sin responsabilidad.
+
+(REFORMADO, G.G. 30 DE DICIEMBRE DE 2008) (F. DE E., G.G. 27 DE ENERO DE 2009)
+
 ###### Artículo 20.
 
-Cuando haya controversia respecto al valor del bien expropiado, el expediente se turnará a la Secretaría General de Gobierno quien representará al Ejecutivo ante el Tribunal de lo Contencioso Administrativo del Estado de México, en el juicio pericial en el que se determine el valor definitivo.
+Cuando haya controversia respecto al valor del bien mueble expropiado, el expediente se turnará a la Secretaría General de Gobierno la que representará al Ejecutivo ante el Tribunal de lo Contencioso Administrativo en el juicio pericial en que se determine el valor definitivo.
 
 ###### Artículo 21.
 
 Para el caso del artículo anterior, el Tribunal de lo Contencioso Administrativo, fijará a las partes el plazo de cinco días hábiles para que designen a sus peritos, apercibiéndolos que de no hacerlo, se desechará de plano la inconformidad. Si el afectado presentara perito y el Estado no, el valor señalado en el decreto se tomará como peritaje por parte del Estado.
 
+(REFORMADO, G.G. 30 DE DICIEMBRE DE 2008) (F. DE E., G.G. 27 DE ENERO DE 2009)
+
 ###### Artículo 22.
 
-Si los peritos estuvieren de acuerdo en el valor del bien objeto de la expropiación, ese será el definitivo. En caso de discrepancia, el Tribunal nombrará a un perito tercero en discordia, para que dentro de un plazo que no excederá de diez días hábiles rinda su dictamen. Con vista en los dictámenes el Tribunal resolverá dentro del plazo de diez días hábiles.
+Si los peritos estuvieren de acuerdo en el valor del bien mueble objeto de la expropiación, ése será el definitivo. En caso de discrepancia, el Tribunal nombrará un perito tercero en discordia, para que dentro de un plazo que no excederá de cinco días hábiles rinda su dictamen. Con vista en los dictámenes, el Tribunal resolverá dentro del plazo de cinco días hábiles.
 
 ###### Artículo 23.
 
@@ -245,9 +339,17 @@ El Tribunal fijará un plazo que no excederá de diez días hábiles para que lo
 
 El particular afectado, podrá promover la reversión del bien expropiado si éste no es destinado a la causa de utilidad pública determinada en el decreto respectivo, dentro del plazo fijado al efecto, o se le dé un uso distinto.
 
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 27.
 
-La reversión deberá ejercitarse dentro de un año siguiente a la fecha en que haya vencido el tiempo máximo para que el bien se destine a la causa de utilidad pública. Este plazo empezará a correr a partir del vencimiento del término establecido en el decreto de expropiación.
+La reversión deberá ejercitarse dentro de un año siguiente a la fecha en que haya vencido el tiempo máximo para que el bien se destine a la causa de utilidad pública. Este plazo empezará a correr a partir del vencimiento del término establecido en el decreto de expropiación y se genera cuando:
+
+a) El bien expropiado no es destinado a la causa de utilidad pública dentro del término fijado en el decreto.
+
+b) Se le dé un uso distinto al bien expropiado.
+
+Aprobada la reversión del bien, el afectado deberá reintegrar a la Tesorería del Estado el monto pagado como indemnización, a valor actualizado. La Secretaría ordenará la devolución de bien y la cancelación de su inscripción en el Instituto de la Función Registral del Estado de México, y en el Registro Administrativo de la Propiedad Pública.
 
 ###### Artículo 28.
 
@@ -271,13 +373,15 @@ Si la resolución del Tribunal de lo Contencioso Administrativo es favorable al 
 
 Si el propietario no ejercita su derecho a la reversión dentro del plazo a que se refiere el artículo 27, se tendrá por prescrito.
 
-### CAPITULO III. DEL RECURSO ADMINISTRATIVO DE REVOCACION
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 30 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO POR EL ARTÍCULO QUINTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)</small>
+### CAPITULO III. DE LOS MEDIOS DE IMPUGNACION
+
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 32.
 
-Contra los actos y resoluciones administrativos que dicten o ejecuten las autoridades competentes, en aplicación del presente ordenamiento, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de lo Contencioso Administrativo, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
+En contra del decreto expropiatorio los afectados podrán interponer el recurso de inconformidad o juicio ante el Tribunal de lo Contencioso Administrativo, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
 
 ###### Artículo 33.
 
@@ -376,3 +480,21 @@ Artículo Octavo.- Los actuales magistrados del Tribunal de lo Contencioso Admin
 Artículo Noveno.- Con la finalidad de que los magistrados del Tribunal de lo Contencioso Administrativo puedan sustituirse en forma escalonada, seis serán nombrados por cinco años y seis por diez años.
 
 Artículo Décimo.- Las secciones de la sala superior del Tribunal se integrarán dentro de los 120 días naturales posteriores a la entrada en vigor del presente Código. En tanto se integran estas secciones, sus atribuciones se ejercerán por la sala superior, con su estructura anterior.
+
+G.G. 30 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno."
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno."
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos de expropiación iniciados antes de la vigencia de este Decreto, serán terminados conforme al ordenamiento original.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
