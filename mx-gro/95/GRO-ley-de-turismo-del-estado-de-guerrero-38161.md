@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-turismo-del-estado-de-guerrero-38161"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-24"
-last_updated: "2007-12-25"
+last_updated: "2008-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUM. 137, DE TURISMO DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 24 de febrero de 2004.
 
@@ -81,6 +81,10 @@ Para los efectos de esta Ley se entiende como:
 
 Prestador: La persona física o moral que proporcione, intermedie o contrate con el turista en cualquier momento, la prestación de alguno de los servicios relacionados con la promoción turística de la Entidad.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+Procuraduría: Procuraduría Estatal del turista.
+
 Secretaría: La Secretaría de Fomento Turístico.
 
 Secretario: El Secretario de Fomento Turístico del Estado.
@@ -113,7 +117,9 @@ VII.- Las empresas de sistema de intercambio de servicios turísticos;
 
 VIII.- Los encargados de actividades acuáticas, tales como buceo, snorkel, windsurf, ski, motos acuáticas, paracaídas, bananas, surf, pesca deportiva y todas aquellas que se realizan en la zona marítima federal.
 
-Los prestadores de los servicios que no se encuentren comprendidos en este artículo y que por su naturaleza estén vinculados con el turismo, podrán solicitar su inscripción en el Registro Nacional de Turismo, siempre que cumplan con los requisitos que la Secretaría Federal de Turismo y las Normas Oficiales Mexicanas fijen por medio de las disposiciones generales.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+Los prestadores de los servicios que no se encuentren comprendidos en este artículo y que por su naturaleza estén vinculados con el turismo, deberán solicitar su inscripción en el Registro Nacional de Turismo, siempre que cumplan con los requisitos que la Secretaría Federal de Turismo y las Normas Oficiales Mexicanas fijen por medio de las disposiciones generales.
 
 ## TITULO SEGUNDO
 
@@ -559,17 +565,21 @@ X.- Las demás que señale el reglamento.
 
 ### CAPITULO II. DE LA PROTECCION Y ORIENTACION AL TURISTA
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 51.
 
-La Secretaría vigilará el cumplimiento de las medidas de protección al turista establecidas por esta Ley, para lo cual podrá coordinarse con las dependencias y entidades de la Administración Pública Federal y las Autoridades Estatales y Municipales.
+La Secretaría vigilará el cumplimiento de las medidas de protección al turista establecidas por esta Ley, para lo cual de dotará de un fondo económico a la Procuraduría, a fin de que los turistas que han sido victimas de algún ilícito o un incumplimiento de contrato plenamente comprobado, cuenten con los apoyos suficientes par (sic) retornar a sus lugares de origen.
 
 ###### Artículo 52.
 
 Las Autoridades competentes, en auxilio de la Secretaría, combatirán y evitarán toda práctica que lesione los intereses del turista.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 53.
 
-La Secretaría estudiará y propondrá medidas tendientes a reforzar la seguridad, protección y asistencia al turista.
+La Secretaría estudiará y propondrá medidas tendientes a reforzar la seguridad, protección y asistencia al turista, para lo cual se le dotará de un fondo económico a la Procuraduría, a fin de que los turistas que han sido victimas de algún ilícito o un incumplimiento de contrato plenamente comprobados, cuentes (sic) con los apoyos suficientes para retornar a sus lugares de origen.
 
 ###### Artículo 54.
 
@@ -581,11 +591,11 @@ Para afectos del artículo anterior la Secretaría contará con una Procuradurí
 
 La Procuraduría Estatal del Turista se integrará con un Procurador General y tendrá su sede en la Ciudad y Puerto de Acapulco, sin perjuicio de contar con el número de Procuradores Auxiliares que se juzgue necesario en los Municipio con vocación y desarrollo turístico y de acuerdo con las necesidades y disponibilidad presupuestal. Los nombramientos se harán por el Secretario de Turismo.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 56.
 
-Independientemente de lo estipulado en el presente Capítulo, cuando el turista resida en la República Mexicana podrá presentar su queja por la mala prestación del servicio contratado u ofrecido ante la Procuraduría Estatal del Turista.
-
-En los casos en que el turista resida en el extranjero podrá presentar queja ante dicha autoridad por correo certificado y seguir el procedimiento de conciliación o arbitraje por ese mismo medio o por cualquier otra forma de comunicación que acuerden las partes y que permitan hacer el procedimiento más expedito.
+Para el caso de que un turista sea afectado en su salud o en su patrimonio deberá presentar su queja en la procuraduría Estatal del Turista, al cual levantará acta en la que se le otorgará personalidad a efecto de que esté en posibilidades de proseguir los procesos correspondientes ante las respectivas dependencias, y hacer los procesos expeditos.
 
 ###### Artículo 57.
 
@@ -599,9 +609,13 @@ III.- Auxiliar a los turistas en gestiones que realicen ante la Secretaría de T
 
 IV.- Proponer la conciliación optativa de los turistas con los prestadores de servicios turísticos para el arreglo de sus conflictos y hacer constar los resultados en actas autorizadas;
 
-V.- Difundir información sobre la claridad de los precios y las tarifas de los servicios turísticos, a fin de orientar a los turistas; y
+V.- Difundir información sobre la claridad de los precios y las tarifas de los servicios turísticos, a fin de orientar a los turistas; y (sic)
 
-VI.- Las demás que le confiera el Secretario de Fomento Turístico y las que sean afines a las anteriores.
+VI.- Las demás que le confiera el Secretario de Fomento Turístico y las que sean afines a las anteriores;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+VII.- Sancionar a los prestadores de servicios Turísticos, así como a la oferta extrahotelera en los casos que incumplan con lo dispuesto en la presente y en su Reglamento.
 
 ###### Artículo 58.
 
@@ -633,17 +647,21 @@ VI.- Las demás que le confiera esta Ley o le encomiende el Secretario de Foment
 
 ### CAPITULO III. DE LA VERIFICACION
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 62.
 
-Es facultad de la Secretaría realizar visitas de verificación a los Prestadores de Servicios Turísticos, a efecto de constatar el debido cumplimiento de las obligaciones a su cargo establecidos en esta Ley y su reglamento.
+Es facultad de la Secretaría por conducto de la Procuraduría realizar visitas de verificación a los prestadores de servicios turísticos.
 
 ###### Artículo 63.
 
 Con el objeto de evitar duplicidad de funciones en materia de verificación, la Secretaría a través de programas de coordinación con la Secretaría de Turismo del Gobierno Federal, la Procuraduría Federal del Consumidor, Dependencias Estatales y los Municipales, establecerán las bases a que se sujetarán dichos programas, sin perjuicio de que la Secretaría realice las verificaciones que considere pertinentes, observando lo dispuesto en este Capítulo.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 64.
 
-Las visitas de verificación que efectué la Secretaría se rigen por esta Ley y se practicarán en días y horas hábiles, por personal autorizado que exhiba identificación vigente y la orden de verificación respectiva, la que deberá de ser expedida por la autoridad o autoridades competentes y en el que claramente se especifiquen las disposiciones de cuyo cumplimiento habrá de verificarse y la manera de hacerlo. Sin embargo, podrán practicarse visitas en días y horas inhábiles, en aquellos casos en que el tipo y la naturaleza de los servicios turísticos así lo requieran pero dentro del horario de funcionamiento autorizado por el establecimiento.
+Las visitas de verificación que efectué la Procuraduría se rigen por esta Ley y se practicarán en días y horas hábiles, por personal autorizado que exhiba identificación vigente y la orden de verificación respectiva, la que deberá de ser expedida por la autoridad o autoridades competentes y en el que claramente se especifiquen las disposiciones de cuyo cumplimiento habrá de verificarse y la manera de hacerlo. Sin embargo, podrán practicarse visitas en días y horas inhábiles, en aquellos casos en que el tipo y la naturaleza de los servicios turísticos así lo requieran pero dentro del horario de funcionamiento autorizado por el establecimiento.
 
 ###### Artículo 65.
 
@@ -721,15 +739,11 @@ Las resoluciones que emita la Secretaría deberán estar debidamente fundadas y 
 
 El reglamento establecerá la dependencia encargada de la calificación e imposición de multas y sanciones.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 74.
 
-Contra las resoluciones dictadas por la Secretaría con fundamento en esta Ley se podrá interponer el recurso de revisión dentro de quince días hábiles siguientes a la fecha de su notificación.
-
-El recurso tiene por objeto revocar, modificar o confirmar la resolución reclamada, los fallos que se dicten contendrán la fijación del acto impugnado, los fundamentos legales en que se apoye y los puntos de resolución. El reglamento de la presente Ley establecerá los términos y demás requisitos para la tramitación y substanciación del recurso.
-
-La interposición del recurso se hará por escrito dirigido al Titular de la Secretaría, en él se deberán expresar el nombre y domicilio del recurrente y los agravios que le cause la determinación por parte de la Secretaría, acompañándose de los elementos de prueba que se consideren, así como las constancias que acrediten la personalidad del promovente.
-
-La interposición del recurso suspenderá la ejecución de la resolución impugnada por cuanto hace el pago de multas.
+Contra las resoluciones dictadas por la Procuraduría con fundamento en esta Ley se podrá interponer el recurso de revisión dentro de quince días hábiles siguientes a la fecha de su notificación.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -790,6 +804,12 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase al Titular del Poder Ejecutivo del Estado para los efectos legales conducentes.
 
 P.O. 25 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Remítase al Titular del Poder Ejecutivo del Estado para los efectos legales conducentes.
+
+P.O. 30 DE DICIEMBRE DE 2008.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
