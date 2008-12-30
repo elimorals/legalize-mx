@@ -4,7 +4,7 @@ identifier: "GRO-ley-reglamentaria-del-registro-civil-del-estado-de-guerrero-518
 country: "mx"
 rank: "ley"
 publication_date: "1988-07-05"
-last_updated: "2004-07-13"
+last_updated: "2008-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5184&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY REGLAMENTARIA DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 5 de julio de 1988.
 
@@ -155,7 +155,9 @@ II.- Solicitar oportunamente y tener en existencia los libros o formas necesaria
 
 III.- Efectuar en las actas las anotaciones y cancelaciones marginales que procedan conforme a la Ley, y que sean enviadas por los Jueces y Tribunales competentes;
 
-IV.- Celebrar los actos del Estado Civil e inscribir las actas relativas dentro o fuera de su oficina;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+IV.- Celebrar los actos del Estado Civil, dentro o fuera de su oficina y expedir las constancias o certificaciones relativas que les sean solicitadas; exentando de pago a la población indígena para el registro de nacimientos; independientemente de las cuotas que se establezcan cada año en la Ley de Ingresos;
 
 V.- Informar mensualmente a la Secretaría de Finanzas de los ingresos y egresos por actos del Registro Civil, o cuando está lo solicite;
 
@@ -726,3 +728,9 @@ P.O. 13 DE JULIO DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para sus efectos constitucionales.
+
+P.O. 30 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase al Titular del Poder Ejecutivo Estatal para los efectos legales conducentes.
