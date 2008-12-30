@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-47647"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-28"
-last_updated: "2007-09-28"
+last_updated: "2008-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 28 de diciembre de 2005.
 
@@ -141,15 +141,19 @@ y año posterior siguiente 0.800
 
 #### SECCIÓN CUARTA. DE LAS OBLIGACIONES Y DEL PAGO
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 8°.
 
-Los sujetos del Impuesto a que se refiere este Capítulo y, en su caso, los responsables solidarios a que se refiere la fracción I del artículo 6º de esta Ley, efectuarán el pago correspondiente dentro de los quince días siguientes a la fecha de cesión de los derechos, conforme al documento que ampare la propiedad del vehículo objeto de la enajenación, del cual exhibirán el original y proporcionarán las copias que requiera la Tesorería General del Estado, al realizarse el trámite de registro y control de vehículos conforme a lo dispuesto en el Título de esta Ley relativo a los Derechos.
+Los sujetos del Impuesto a que se refiere este Capítulo y, en su caso, los responsables solidarios a que se refiere la fracción I del artículo 6° de esta Ley, efectuarán el pago correspondiente dentro de los quince días siguientes a la fecha de cesión de los derechos, conforme al documento que ampare la propiedad del vehículo objeto de la enajenación, del cual exhibirán el original y proporcionarán las copias que requiera la Secretaría de Finanzas y Administración, al realizarse el trámite de registro y control de vehículos conforme a lo dispuesto en el Titulo de esta Ley relativo a los Derechos.
 
-Para los efectos de este impuesto, se considera domicilio fiscal, el manifestado ante la Tesorería General del Estado, al realizarse el trámite a que se refiere el párrafo anterior.
+Para los efectos de este impuesto, se considera domicilio fiscal, el manifestado ante la Secretaría de Finanzas y Administración, al realizarse el trámite a que se refiere el párrafo anterior.
 
-###### Artículo 9º.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
-Los servidores públicos de la Tesorería General, no tramitarán ninguna solicitud de alta, baja o cambio de propietario de vehículos, por los cuales no se hubiese pagado el impuesto causado conforme a las disposiciones de este capítulo.
+###### Artículo 9°.
+
+Los servidores públicos de la Secretaría de Finanzas y Administración, no tramitarán ninguna solicitud de alta, baja o cambio de propietario de vehículos, por los cuales no se hubiese pagado el impuesto causado conforme a las disposiciones de este Capítulo.
 
 #### SECCIÓN QUINTA. DE LAS INFRACCIONES Y SANCIONES
 
@@ -175,11 +179,15 @@ Son sujetos de este Impuesto las personas físicas o morales que obtengan ingres
 
 #### SECCIÓN TERCERA. DE LA BASE, TASA Y PAGO DEL IMPUESTO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 13.
 
-El Impuesto a que se refiere este capítulo, se determinará aplicando la tasa del 6% al monto total del ingreso por los premios obtenidos correspondientes a cada boleto o billete entero, sin deducción alguna; que será retenido al momento de la entrega de los premios de que se trate, por los organismos descentralizados a que se refiere el artículo 11 de esta Ley, quienes lo enterarán a la Tesorería General del Estado, dentro de los primeros 15 días del mes siguiente, a aquel en que se hayan cobrado.
+El Impuesto a que se refiere este Capitulo, se determinará aplicando la tasa del 6% al monto total del ingreso por los premios obtenidos correspondientes a cada boleto o billete entero, sin deducción alguna; que será retenido al momento de la entrega de los premios de que se trate, por los organismos descentralizados a que se refiere el artículo 11 de esta Ley, quienes lo enterarán a la Secretaría de Finanzas y Administración, dentro de los primeros 15 días del mes siguiente, a aquel en que se hayan cobrado.
 
-Para efectos del entero a que se refiere el párrafo anterior, los organismos descentralizados formularán y proporcionarán a la Tesorería General del Estado, liquidaciones mensuales en las que se señalen los datos relativos a la identificación de los premios pagados e impuesto retenido en el territorio del Estado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+Para efectos del entero a que se refiere el párrafo anterior, los organismos descentralizados formularán y proporcionarán a la Secretaría de Finanzas y Administración, liquidaciones mensuales en las que se señalen los datos relativos a la identificación de los premios pagados e impuesto retenido en el territorio del Estado.
 
 De los ingresos que derivados de este Impuesto obtenga el Estado, participarán los municipios con un 80%, distribuyéndoseles lo que a cada uno corresponda, conforme a las reglas que determine el Congreso del Estado para la distribución de las participaciones en ingresos federales.
 
@@ -211,11 +219,19 @@ En ningún caso se considerará que el Impuesto al Valor Agregado forma parte de
 
 El impuesto que regula este capítulo se calculará por ejercicios fiscales, que coincidirán con el año de calendario. Cuando se inicien actividades con posterioridad al 1 de enero, el ejercicio fiscal será irregular, iniciándose el día en que comiencen las actividades según el aviso de inscripción en el Registro Estatal de Contribuyentes y terminará el 31 de diciembre del año de que se trate.
 
-Los sujetos del impuesto deberán efectuar pagos provisionales mensuales en la oficina recaudadora que corresponda a su domicilio o en la sucursal que elijan de las instituciones bancarias que en su caso se autoricen por la Tesorería General, por cada uno de los establecimientos en los que se preste el servicio objeto de este impuesto, mediante declaración que deberá presentarse a más tardar el día 17 del mes siguiente, a aquel al que el impuesto corresponda.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+Los sujetos del impuesto deberán efectuar pagos provisionales mensuales en la oficina recaudadora que corresponda a su domicilio o en la sucursal que elijan de las instituciones bancarias que en su caso se autoricen por la Secretaría de Finanzas y Administración, por cada uno de los establecimientos en los que se preste el servicio objeto de este impuesto, mediante declaración que deberá presentarse a más tardar el día 17 del mes siguiente, a aquel al que el impuesto corresponda.
 
 Para efectos de la determinación del monto de los pagos provisionales, se deberá considerar también como base el importe de los anticipos que en su caso se reciban por reservaciones de los servicios objeto de este impuesto, dentro del mes en que estos hechos ocurran y el saldo en el mes en que se presten los servicios contratados.
 
-El impuesto del ejercicio, deducidos los pagos provisionales se pagarán mediante declaración que se presentará en las oficinas señaladas en el segundo párrafo de este artículo, dentro de los tres meses siguientes al cierre del ejercicio.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+El Impuesto del ejercicio, deducidos los pagos provisionales se pagarán mediante declaración que se presentará en las oficinas señaladas en el segundo párrafo de este articulo, a más tardar el día 31 del mes de marzo del año siguiente a aquel en que se cause el Impuesto.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+Cuando los días 17 y 31, a que se refieren los párrafos anteriores, sea un día inhábil o las oficinas de la autoridad se encuentren cerradas, el plazo se prorrogará, conforme al "calendario de pago" que se establece en el inciso b) del artículo 27 de esta Ley.
 
 ###### Artículo 17.
 
@@ -315,9 +331,11 @@ Tampoco formarán parte de las remuneraciones afectas al pago de este Impuesto, 
 
 El Impuesto a que se refiere este Capítulo, se calculará aplicando la tasa del 2% al monto de las remuneraciones devengadas y efectivamente pagadas en el mes de que se trate, por los conceptos a que se refiere el artículo 24 de esta Ley.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 26.
 
-El Tesorero General, estará facultado para emitir disposiciones administrativas de carácter general, conforme al presente Capítulo y con el objeto de facilitar el cumplimiento de las obligaciones establecidas en el mismo.
+El Secretario de Finanzas y Administración, estará facultado para emitir disposiciones administrativas de carácter general, conforme al presente Capítulo y con el objeto de facilitar el cumplimiento de las obligaciones establecidas en el mismo.
 
 #### SECCIÓN TERCERA. DE LAS OBLIGACIONES Y EL PAGO
 
@@ -329,41 +347,37 @@ Cuando los sujetos de este impuesto inicien actividades con posterioridad al 1 d
 
 Se causará en el momento en que se realicen las erogaciones por el trabajo personal prestado bajo la dirección y dependencia de un patrón, y su pago será de la siguiente manera:
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
-a) Se harán pagos provisionales mensuales a más tardar el día 17 del mes siguiente a aquel en que se cause, mediante declaración provisional que deberá presentarse en la oficina recaudadora que corresponda al domicilio del contribuyente, a través de los medios electrónicos en los sitios de Internet o en las sucursales de las instituciones autorizadas por la Tesorería General.
+a) Se harán pagos provisionales mensuales a más tardar el día 17 del mes siguiente a aquel en que se cause, mediante declaración provisional que deberá presentarse en la oficina recaudadora que corresponda al domicilio del contribuyente a través de los medios electrónicos en los sitios de Internet o en las sucursales de las instituciones autorizadas por la Secretaría de Finanzas y Administración.
 
-b) El pago correspondiente al ejercicio fiscal de que se trate deberá efectuarse mediante declaración anual, a más tardar el día 17 del mes de mayo del año siguiente a aquel en que se cause el impuesto.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
-Cuando el día 17 a que se refieren los párrafos anteriores, sea un día inhábil o las oficinas de la autoridad se encuentren cerradas, el plazo se prorrogará al día hábil siguiente.
+b) El pago correspondiente al ejercicio fiscal de que se trate deberá efectuarse mediante declaración anual, a más tardar el día 31 del mes de marzo del año siguiente a aquel en que se cause el impuesto.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+Cuando los días 17 y 31, a que se refieren los incisos a) y b) anteriores, sean un día inhábil o las oficinas de la autoridad se encuentren cerradas; el plazo se prorrogará al día hábil siguiente.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 Sin embargo, el plazo para los pagos se amplia desde uno hasta cinco días hábiles adicionales de acuerdo con el sexto dígito numérico del Registro Federal de Contribuyentes y conforme al siguiente:
 
-Calendario de Pagos Fecha límite de pago
+Calendario de pago
 
-Sexto dígito numérico
+Sexto dígito
 
-del RFC
+numérico del RFC Fecha límite de pago
 
-1 y 2 Día 17 o día hábil siguiente,
+1 y 2 Día 17 y 31 o día hábil siguiente, más un día hábil
 
-más un día hábil
+3 y 4 Día 17 y 31 o día hábil siguiente, más dos días hábiles
 
-3 y 4 Día 17 o día hábil siguiente,
+5 y 6 Día 17 y 31 o día hábil siguiente, más tres días hábiles
 
-más dos días hábiles
+7 y 8 Día 17 y 31 o día hábil siguiente, más cuatro días hábiles
 
-5 y 6 Día 17 o día hábil siguiente,
-
-más tres días hábiles
-
-7 y 8 Día 17 o día hábil siguiente,
-
-más cuatro días hábiles
-
-9 y 0 Día 17 o día hábil siguiente,
-
-más cinco días hábiles
+9 y 0 Día 17 y 31 o día hábil siguiente, más cinco días hábiles
 
 La falta de pago en el plazo establecido, causará recargos en los términos del Código Fiscal del Estado de Michoacán de Ocampo.
 
@@ -377,17 +391,19 @@ El contribuyente que con posterioridad a la fecha de presentación de alguna dec
 
 El impuesto del ejercicio, deducidos los pagos provisionales se pagará mediante declaración que se presentará en cualquiera de las oficinas a que se refiere el artículo 27 de esta Ley, dentro de los tres meses siguientes al cierre del ejercicio.
 
-> <small>(F. DE E., P.O. 26 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 30.
 
-Cuando los sujetos de este impuesto tengan dentro del territorio del Estado, más de un establecimiento u oficina, podrán presentar las declaraciones mensuales y del ejercicio, a que se refieren los artículos 27 y 29 de esta Ley, por todos los establecimientos u oficinas, en el domicilio que le corresponda al establecimiento u oficina principal de que se trate.
+Cuando los sujetos de este Impuesto tengan dentro del territorio del Estado, más de un establecimiento u oficina, podrán presentar las declaraciones mensuales y del ejercicio, a que se refieren los artículos 27 y 29 de esta Ley, por todos los establecimientos u oficinas, en el domicilio que le corresponda al establecimiento u oficina principal de que se trate. Debiendo anexar una relación, en la que se especifiquen los datos correspondientes a cada uno de los establecimientos filiales que forman parte del establecimiento principal.
 
 ###### Artículo 31.
 
 Los obligados al pago de este impuesto, además de las obligaciones señaladas en otros artículos de este capítulo, tendrán las siguientes:
 
-I. Inscribirse en el Registro Estatal de Contribuyentes, a través de la oficina recaudadora que corresponda a su domicilio, dentro de los 30 días siguientes a la fecha de iniciación de las actividades, mediante la presentación de la forma que al efecto autorice la Tesorería General del Estado, debiendo adjuntar a la misma, copia de la solicitud de inscripción al Registro Federal de Contribuyentes, de la Secretaría de Hacienda y Crédito Público, en la que conste la información relacionada con su identidad, que podrá comprender, entre otros datos, nombre, denominación o razón social, actividad, domicilio o ubicación de cada establecimiento u oficina central cuando se trate de instituciones oficiales y en general los demás datos que permitan su identificación precisa para los efectos de este impuesto.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+I. Inscribirse en el Registro Estatal de Contribuyentes, a través de la oficina recaudadora que corresponda a su domicilio, dentro de los 30 días siguientes a la fecha de iniciación de las actividades, mediante la presentación de la forma que al efecto autorice la Secretaría de Finanzas y Administración, debiendo adjuntar a la misma, copia de la solicitud de inscripción al Registro Federal de Contribuyentes, de la Secretaría de Hacienda y Crédito Público, en la que conste la información relacionada con su identidad, que podrá comprender, entre otros datos, nombre, denominación o razón social, actividad, domicilio o ubicación de cada establecimiento u oficina central cuando se trate de instituciones oficiales y en general los demás datos que permitan su identificación precisa para los efectos de este impuesto.
 
 Asimismo, deberán presentar copia de la cédula de identificación fiscal expedida por la Secretaría de Hacienda y Crédito Público;
 
@@ -461,9 +477,11 @@ La expedición de permisos provisionales para circular sin placas, procederá ú
 
 Asimismo, procederá la expedición de dichos permisos, cuando los vehículos requieran ser trasladados fuera de la Entidad, en función del domicilio del adquirente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 37.
 
-Los servicios a que se refieren las fracciones I y II del artículo anterior, se prestarán por la Tesorería General del Estado, en los siguientes plazos:
+Los servicios a que se refieren las fracciones I. y II. del artículo anterior, se prestarán por la Secretaría de Finanzas y Administración, en los siguientes plazos:
 
 I. La expedición original de placas de circulación para los vehículos, dentro de los quince días siguientes a la fecha de adquisición del vehículo. Tratándose de vehículos de servicio público, en la misma fecha en que se expida la concesión;
 
@@ -489,6 +507,10 @@ En los años en que por disposición de la autoridad competente, se realice canj
 
 Los servicios de renovación anual de concesiones de servicio público a que se refiere la fracción III del artículo 36 de esta ley, se realizarán por la autoridad competente, dentro de los mismos plazos a que se refieren los incisos a) y b) de la fracción II del artículo anterior. Asimismo, se realizarán por la autoridad competente, los tramites relativos a la expedición por primera vez de las concesiones de servicio público.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+Simultáneamente con la prestación de servicios de expedición y renovación de concesiones a que se refiere el párrafo anterior, la Secretaría de Finanzas y Administración realizará el cobro de los derechos correspondientes, conforme a las cuotas que se establezcan en la Ley de Ingresos del Estado, para el ejercicio de que se trate.
+
 ###### Artículo 39.
 
 Por cada cambio de vehículos de servicio público se pagará el costo de la tarjeta de control de servicios, de la tarjeta de circulación y de la calcomanía, establecido en la Ley de Ingresos del Estado. La prestación de este servicio se hará dentro del plazo de 2 meses a partir de la fecha de la cancelación del registro autorizado.
@@ -497,21 +519,23 @@ La revalidación de concesiones deberá realizarse de acuerdo al calendario ofic
 
 El incumplimiento a lo estipulado en este artículo se sancionará conforme al Código Fiscal del Estado de Michoacán.
 
-> <small>(F. DE E., P.O. 26 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 40.
 
-Los derechos por la expedición de licencias para conducir vehículos automotores, se pagarán a la Tesorería General del Estado, previamente a la expedición de éstas, aplicando las cuotas que se establezcan en la Ley de Ingresos del Estado para el ejercicio fiscal de que se trate, para cada tipo de licencia que expida la autoridad competente, de conformidad con lo dispuesto en los Capítulos Segundo y Tercero de la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo.
+Los derechos por la expedición de licencias para conducir vehículos automotores, se pagarán a la Secretaría de Finanzas y Administración, previamente a la expedición de éstas, aplicando las cuotas que se establezcan en la Ley de Ingresos del Estado para el ejercicio fiscal de que se trate para cada tipo de licencia que expida la autoridad competente, de conformidad con lo dispuesto en los Capítulos Segundo y Tercero, del Título Segundo de la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo.
 
 ### CAPÍTULO IV. DEL REGISTRO Y CONTROL DE VEHICULOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 41.
 
 Los derechos por los servicios periódicos que preste el Gobierno del Estado, que no sean pagados dentro de los plazos a que se refieren los artículos 37 y 38 de esta Ley, causarán recargos conforme a la tasa que establezca la Ley de Ingresos del Estado para el ejercicio de que se trate.
 
-> <small>(F. DE E., P.O. 26 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
-La Tesorería General del Estado, exigirá el cumplimiento de las obligaciones periódicas a que se refiere este Título, mediante la aplicación del procedimiento administrativo de ejecución conforme al Código Fiscal del Estado de Michoacán de Ocampo, cuando éstas no se cumplan dentro de los plazos establecidos.
+La Secretaría de Finanzas y Administración, exigirá el cumplimiento de las obligaciones periódicas a que se refiere este Título, mediante la aplicación del procedimiento administrativo de ejecución conforme al Código Fiscal del Estado de Michoacán de Ocampo, cuando éstas no se cumplan dentro de los plazos establecidos.
 
 > <small>(F. DE E., P.O. 26 DE ENERO DE 2006)</small>
 
@@ -523,7 +547,7 @@ La autoridad de tránsito municipal y en su caso, por virtud de los convenios qu
 
 ###### Artículo 42.
 
-La Tesorería General del Estado, simultáneamente a la recaudación de los derechos comprendidos en el Capítulo II de este Título, llevará el registro y control de vehículos, para lo cual deberá establecer y mantener actualizado el "Registro Estatal Vehicular” para su integración a la "Red Nacional del Sistema Automatizado del Registro Vehicular Estatal" mediante la realización de las siguientes actividades:
+La Secretaría de Finanzas y Administración, simultáneamente a la recaudación de los derechos comprendidos en el Capítulo II de este Titulo, llevará el registro y control de vehículos, para lo cual deberá establecer y mantener actualizado el "Registro Estatal Vehicular" para su integración a la "Red Nacional del Sistema Automatizado del Registro Vehicular Estatal" mediante la realización de las siguientes actividades:
 
 I. Efectuar los trámites de altas, bajas, cambios y rectificaciones que procedan en el registro, conforme a las reglas generales que expida la Secretaría de Hacienda y Crédito Público;
 
@@ -553,6 +577,8 @@ Lo referido en el párrafo anterior, también será aplicable tratándose del do
 
 ### CAPÍTULO VI. DEL PAGO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 43.
 
 Para los efectos del artículo 35 de esta Ley, se consideran servicios eventuales, los demás servicios que preste el Gobierno del Estado no comprendidos en el artículo 36 de esta Ley, conforme a los conceptos, tarifas y tasas que establezca la Ley de Ingresos del Estado para el ejercicio de que se trate.
@@ -561,7 +587,7 @@ Para los efectos del artículo 35 de esta Ley, se consideran servicios eventuale
 
 ###### Artículo 44.
 
-El pago de los derechos a que se refiere este Título, se efectuará en las oficinas recaudadoras que correspondan al domicilio de los contribuyentes o en la sucursal que elijan de las instituciones bancarias que en su caso se autoricen por la Tesorería General, conforme a los requisitos y procedimientos que ésta establezca, previamente a la prestación de los servicios de que se trate, debiéndose expedir los recibos oficiales correspondientes.
+El pago de los derechos a que se refiere este Título, se efectuara en las oficinas recaudadoras que correspondan al domicilio de los contribuyentes o en la sucursal que elijan de las instituciones bancarias que en su caso se autoricen por la Secretaría de Finanzas y Administración, conforme a los requisitos y procedimientos que ésta establezca, previamente a la prestación de los servicios de que se trate, debiéndose expedir los recibos oficiales correspondientes.
 
 Por lo que se refiere a los servicios de Catastro por concepto de: mediciones y deslindes, determinación de la ubicación física de predios y sobre información de interés particular referente a predios registrados, se pagará el 50% de los derechos que se causen conforme a la Ley de Ingresos del Estado, para el ejercicio de que se trate, en la fecha en que se solicite el servicio y, el 50% restante, en la fecha en que se entregue el documento catastral que corresponda.
 
@@ -693,9 +719,13 @@ XII. Recuperación de las erogaciones por publicación de la convocatoria y de l
 
 XIII. Otros no especificados, así como los que se señalen en la Ley de Ingresos del Estado.
 
-Cuando los predios que deban donarse a favor del Gobierno del Estado, en términos de lo establecido por el artículo 149 de la Ley de Desarrollo Urbano del Estado de Michoacán de Ocampo, fueren muy pequeñas o de difícil aprovechamiento, la Tesorería General, recaudará su equivalente en moneda nacional, conforme al valor que determine la Oficialía Mayor de Gobierno.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
-Cuando se trate de donaciones a favor del Gobierno del Estado, en cumplimiento de la obligación establecida en el citado artículo 149 de la Ley de Desarrollo Urbano del Estado de Michoacán de Ocampo, la Tesorería General por conducto de las autoridades catastrales, en coordinación con la Oficialía Mayor de Gobierno, vigilará el cumplimiento de dicha obligación, al momento de que se le solicite el servicio de desglose a que se refiere el artículo 33 de la Ley de Catastro del Estado de Michoacán de Ocampo.
+Cuando los predios que deban donarse a favor del Gobierno del Estado, en términos de lo establecido por el articulo 329 del Código de Desarrollo Urbano del Estado de Michoacán de Ocampo, fueren muy pequeñas o de difícil aprovechamiento, la Secretaría de Finanzas y Administración recaudará su equivalente en moneda nacional, conforme a los valores que se determinen.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+Cuando se trate de donaciones a favor del Gobierno del Estado, en cumplimiento de la obligación establecida en el citado articulo 329 del Código de Desarrollo Urbano del Estado de Michoacán de Ocampo, la Secretaría de Finanzas y Administración por conducto de las autoridades catastrales, vigilará el cumplimiento de dicha obligación, al momento de que se le solicite el servicio de desglose a que se refiere el artículo 33 de la Ley de Catastro del Estado de Michoacán de Ocampo.
 
 ###### Artículo 50.
 
@@ -731,7 +761,9 @@ Los ingresos que se transfieran al Estado, derivados de reasignaciones del Presu
 
 El Estado percibirá los importes que, por concepto de aportaciones realicen los municipios y los particulares para la ejecución de obras públicas que se concerten por las dependencias o entidades ejecutoras con las autoridades municipales y los particulares beneficiarios o interesados, mediante la suscripción de los acuerdos correspondientes.
 
-De los acuerdos referidos en el párrafo anterior, deberá proporcionarse copia a la Tesorería General del Estado dentro de los 15 días siguientes a la fecha de su firma, a efecto de que se realice la recaudación de las aportaciones concertadas.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+De los acuerdos referidos el párrafo anterior, deberá proporcionarse copia a la Secretaría de Finanzas y Administración dentro de los 15 días siguientes a la fecha de su firma, a efecto de que se realice la recaudación de las aportaciones concertadas.
 
 ###### Artículo 55.
 
@@ -778,3 +810,9 @@ P.O. 28 DE SEPTIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 30 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor el día 1º de enero de 2009, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
