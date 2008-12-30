@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-6115"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "2007-12-06"
+last_updated: "2008-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2008.
 
 Ley publicada en Sección Segunda del Periódico Oficial del Estado de Michoacán, el sábado 31 de diciembre de 1983.
 
@@ -141,29 +141,31 @@ La base del Impuesto predial tanto de predios urbanos como rústicos será el va
 
 I. La base de este impuesto podrá modificarse por:
 
-> <small>(REFORMADA, P.O 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
-a) EI valor determinado mediante avalúo practicado por la Tesorería General del Estado, o en su caso, con base en convenio, por la autoridad municipal correspondiente, en los términos de la Ley de Catastro del Estado de Michoacán.
+a) El valor determinado mediante avalúo practicado por la Secretaria de Finanzas y Administración, o en su caso, con base en convenio, por la autoridad municipal correspondiente, en los términos de la Ley de Catastro del Estado de Michoacán.
 
-> <small>(REFORMADA, P.O 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O 30 DE DICIEMBRE DE 1996)</small>
 
 b) EI valor determinado para efectos del impuesto sobre Adquisición de Inmuebles, en los términos del artículo 42 de esta Ley.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2008)</small>
 
-c) (DEROGADA, P.O. 20 DE DICIEMBRE DE 1990)
+No obstante lo establecido en el párrafo anterior, en los casos de adquisición por causa de muerte, de la nuda propiedad, del usufructo y de parte de los derechos de propiedad de un inmueble, no se tomarán en cuenta dichos valores, sino el de avalúo practicado por la Secretaría de Finanzas y Administración.
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
-II. Cuando surjan nuevos predios con motivo de la constitución de condominios, conjuntos habitacionales, fraccionamientos o subdivisiones, la Tesorería General del Estado determinará la base de este impuesto, mediante avalúos que practique conforme a la Ley de Catastro del Estado de Michoacán, a partir de la autorización expedida por autoridad competente. Tratándose de condominios, los avalúos se practicarán a partir de la fecha en que se haya autorizado preventivamente la escritura de constitución correspondiente.
+II. Cuando surjan nuevos predios con motivo de la constitución de condominios, conjuntos habitacionales, fraccionamientos o subdivisiones, la Secretaría de Finanzas y Administración determinará la base de este impuesto, mediante avalúos que practique conforme a la Ley de Catastro del Estado de Michoacán, a partir de la autorización expedida por autoridad competente. Tratándose de condominios, los avalúos se practicarán a partir de la fecha en que se haya autorizado preventivamente la escritura de constitución correspondiente.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
-
-Los valores que mediante avalúos determine la Tesorería General del Estado, o en su caso, con base en convenio, la autoridad municipal correspondiente, surtirán efectos a partir del siguiente bimestre, a aquel en que se notifiquen los avalúos. El valor a que se refiere el inciso b) de la fracción I anterior, surtirá efectos a partir del siguiente bimestre, a partir de las fechas a que se refieren las fracciones I a lll del artículo 46 de esta Ley. Ambos valores, tendrán vigencia hasta el 31 de diciembre del año siguiente, a partir de la fecha de notificación de los avalúos y de las fechas señaladas en dichas fracciones del artículo 46 de esta Ley.
+Los valores que mediante avalúos determine la Secretaría de Finanzas y Administración, o en su caso, con base en convenio, la autoridad municipal correspondiente, surtirán efectos a partir del siguiente bimestre, a aquel en que se notifiquen los avalúos. El valor a que se refiere el inciso b) de la fracción I anterior, surtirá efectos a partir del siguiente bimestre, a partir de las fechas a que se refieren las fracciones I a III del artículo 46 de esta Ley. Ambos valores, tendrán vigencia hasta el 31 de diciembre del año siguiente, a partir de la fecha de notificación de los avalúos y de las fechas señaladas en dichas fracciones del Artículo 46 de esta Ley.
 
 La base de este impuesto que se determine conforme al artículo 7º de esta Ley, tendrá vigencia de un año.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+En estos casos la base se aplicará a cada uno de los apartamentos, viviendas o locales a partir del bimestre siguiente a la fecha de terminación de los mismos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
@@ -329,7 +331,9 @@ La Tesorería Municipal tendrá acción real para el cobro de este impuesto y de
 
 En consecuencia, el procedimiento administrativo de ejecución, que establece el Código Fiscal, afectará a los predios directamente, cualquiera que sea el propietario o poseedor.
 
-En esta disposición, no quedan comprendidas las mutas (sic) que se impongan cuando se incurra en infracciones al presente Capítulo, pues dichas sanciones se considerarán personales para todos los efectos legales.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+En esta disposición, no quedan comprendidas las multas que se impongan cuando se incurra en infracciones al presente Capítulo, pues dichas sanciones se considerarán personales para todos los efectos legales.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -341,11 +345,13 @@ Las constancias de no adeudo que se expidan a los Notarios Públicos, tendrán v
 
 Los Notarios deberán dar aviso a la Tesorería Municipal correspondiente, cuando los predios de que se trata, reporten adeudos fiscales por conceptos distintos de este impuesto.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 23.
 
-Tratándose de predios no registrados en el Catastro del Estado, de construcciones nuevas, ampliaciones o modificaciones a las construcciones existentes, así como la fusión o división de predios, no manifestados a la Tesorería General del Estado, en los términos de la Ley de Catastro del Estado de Michoacán y que sean manifestados espontáneamente, se pagará el impuesto que corresponda con base en el avalúo practicado por la Tesorería General, a partir del bimestre siguiente a la fecha de su notificación, mas el que debió haberse efectuado durante el año inmediato anterior.
+Tratándose de predios no registrados en el Catastro del Estado, de construcciones nuevas, ampliaciones o modificaciones a las construcciones existentes, así como la fusión o división de predios, no manifestados a la Secretaría de Finanzas y Administración, en los términos de la Ley de Catastro del Estado de Michoacán y que sean manifestados espontáneamente, se pagará el impuesto que corresponda con base en el avalúo practicado por la Secretaría de Finanzas y Administración, a partir del bimestre siguiente a la fecha de su notificación, mas el que debió haberse efectuado durante el año inmediato anterior.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
 Cuando los hechos sean descubiertos por la autoridad catastral, se pagará el impuesto correspondiente a partir del siguiente bimestre a la fecha de notificación del avalúo, más el correspondiente a los cinco años anteriores, salvo que el sujeto pruebe que tales hechos o actos datan de fecha posterior, sin perjuicio de las sanciones previstas en la Ley de Catastro del Estado de Michoacán.
 
@@ -433,9 +439,11 @@ III.- Las sociedades, agrupaciones, empresas o personas que exploten bosques de 
 
 El Impuesto Predial de los bienes comunales se sujetará a las disposiciones contenidas en la Sección anterior de este Capítulo, en cuanto sean aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 34.
 
-El Impuesto Predial será depositado por cada ejidatario, en la Tesorería del Comisariado Ejidal, la que de inmediato concentrará el importe de dicho impuesto en la Tesorería Municipal que corresponda, recabando los recibos oficiales respectivos.
+El monto del Impuesto Predial será depositado por cada ejidatario, en la Tesorería del Comisariado Ejidal, la que de inmediato concentrará el importe de dicho impuesto en la Tesorería Municipal que corresponda, recabando los recibos oficiales respectivos.
 
 #### Sección Décima. Disposiciones Generales
 
@@ -543,15 +551,21 @@ IV. Los peritos valuadores autorizados que no apliquen correctamente en la valua
 
 #### Sección Tercera. De la Base
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 42.
 
-La base gravable de este Impuesto sobre Adquisición de Inmuebles, será el valor que se determine mediante avalúo practicado por perito autorizado, en los términos de la Ley de Catastro del Estado de Michoacán. Dicho valor será ratificado o rectificado por la Tesorería General del Estado, o en su caso, con base en convenio, por la autoridad municipal correspondiente, en los términos de dicha Ley de Catastro, dentro de los cuatro meses siguientes contados a partir de la fecha de la presentación del aviso del acto administrativo de dominio.
+La base gravable de este Impuesto sobre Adquisición de Inmuebles, será el valor que se determine mediante avalúo practicado por perito autorizado, en los términos de la Ley de Catastro del Estado de Michoacán. Dicho valor será ratificado o rectificado por la Secretaría de Finanzas y Administración, o en su caso, con base en convenio, por la autoridad municipal correspondiente, en los términos de dicha Ley de Catastro, dentro de los cuatro meses siguientes contados a partir de la fecha de la presentación del aviso del acto administrativo de dominio.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
 Para los efectos de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del 50% del valor de la propiedad, determinado conforme al párrafo anterior; asimismo, el valor de los derechos de copropiedad será equivalente al valor proporcional del inmueble de que se trate.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
 El impuesto se calculará aplicando la tasa del 2% al valor del inmueble después de reducirlo en el equivalente a una vez el salario mínimo general elevado al año, de la zona económica a que corresponda el Estado de Michoacán.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
 Tratándose de adquisiciones de vivienda en general, cuyo valor exceda de veinticinco veces el salario mínimo vigente para el Estado, elevado al año, la reducción a que se refiere el párrafo anterior será de tres veces dicho salario; para vivienda cuyo valor sea de veinticinco veces el salario mínimo general vigente para el Estado, elevado al año, la reducción a que se refiere el párrafo anterior será de quince veces el mencionado salario y, parar la vivienda cuyo valor sea de quince veces el salario mínimo general vigente para el Estado, elevado al año, la reducción será igual a dicho valor.
 
@@ -645,9 +659,9 @@ A la declaración deberán anexarse, además de los documentos señalados en los
 
 La manifestación de terminación de la obra a que se refiere el artículo 55 de la Ley de Catastro del Estado.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
-Asimismo deberá anexarse a la declaración, el avalúo practicado por la Tesorería General del Estado o perito autorizado.
+Asimismo deberá anexarse a la declaración, el avalúo practicado por la Secretaría de Finanzas y Administración o perito autorizado.
 
 Cuando lo estime necesario, la Tesorería Municipal podrá solicitar de los notarios públicos o de los declarantes, que le proporcionen una copia autorizada de la escritura en que se hubiera hecho constar la transmisión de dominio de que se trate.
 
@@ -711,11 +725,11 @@ En los testimonios que los fedatarios expidan, de escrituras públicas o privada
 
 En el Registro Público de la Propiedad y del Comercio, no se inscribirá ningún acto, contrato o documento trasmitivo de dominio de bienes inmuebles, mientras no sea autorizado para su registro por la Dirección de Catastro.
 
-(REFORMA, P.O. 20 DE DICIEMBRE DE 1990)
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 52.
 
-Para los efectos de rectificación en su caso, del valor de operación que se consigne en el testimonio en que se haga constar el acto transmitivo de dominio o el de avalúo que determina perito autorizado, la Tesorería General del Estado, estará facultada para llevar a cabo la valuación de los predios en los términos de la Ley de Catastro del Estado de Michoacán, y determinar las diferencias que resulten de este impuesto dentro de los cuatro meses siguientes a la fecha de presentación del aviso correspondiente. El monto de las diferencias que se determinen se hará efectivo por la Tesorería Municipal correspondiente.
+Para los efectos de rectificación en su caso, del valor de operación que se consigne en el testimonio en que se haga constar el acto transmitivo de dominio o el de avalúo que determina perito autorizado, la Secretaría de Finanzas y Administración, estará facultada para llevar a cabo la valuación de los predios en los términos de la Ley de Catastro del Estado de Michoacán, y determinar las diferencias que resulten de este impuesto dentro de los cuatro meses siguientes a la fecha de presentación del aviso correspondiente. El monto de las diferencias que se determinen se hará efectivo por la Tesorería Municipal correspondiente.
 
 #### Sección Séptima. De las Infracciones y Sanciones
 
@@ -1025,9 +1039,11 @@ Son sujetos de este derecho, las personas físicas o morales que ocupan locales 
 
 Este derecho se causará y pagará como lo señale la Ley de Ingresos vigente, tomando en cuenta la importancia de la población y zona comercial.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 86.
 
-El derecho de servicio de mercados se recaudará mediante boletos que contengan el valor autorizado por la Contaduría General de Glosa, debiéndose formular liquidación mensual independientemente de la liquidación diaria del cobrador del ramo; acompañándose ambas liquidaciones a la cuenta correspondiente.
+El derecho de servicio de mercados se recaudará mediante boletos que contengan el valor autorizado por la Auditoría Superior de Michoacán, debiéndose formular liquidación mensual independientemente de la liquidación diaria del cobrador del ramo; acompañándose ambas liquidaciones a la cuenta correspondiente.
 
 #### Sección Cuarta. De las Infracciones y Sanciones
 
@@ -1059,7 +1075,7 @@ Los sujetos de este derecho lo cubrirán en la Tesorería Municipal correspondie
 
 ###### ARTICULO 91.
 
-Las infracciones al presente Capítulo se sancionarán conforme a lo dispuesto por el Código Fiscal Municipal.
+Las infracciones al presente Capítulo se sancionarán conforme a lo dispuesto por el Código Fiscal MunicipaI.
 
 ### CAPITULO III. POR LICENCIAS DE CONSTRUCCION, REPARACION O RESTAURACION DE FINCAS
 
@@ -1233,7 +1249,9 @@ Están obligados al pago de los derechos por abastecimiento de agua potable y po
 
 Los derechos por la prestación del servicio de abastecimiento de agua potable y por los de alcantarillado y saneamiento, se pagarán mensual o bimestralmente en la oficina que corresponda, dentro del mes siguiente al mes o bimestre de que se trate, conforme a las cuotas o tarifas que aprueben los ayuntamientos, en los términos de la Ley de Agua Potable, Alcantarillado y Saneamiento del Estado de Michoacán.
 
-La falta de pago dentro de los plazos a que se refiere al párrafo anterior, causará recargos conforme a la tasa que establezca la Ley de Ingresos para los Municipios del Estado de Michoacán y el pago de los derechos, conjuntamente con sus accesorios, será exigido por los organismos operadores, en su carácter de autoridades fiscales, mediante la aplicación del procedimiento administrativo de ejecución establecido en el Código Fiscal Municipal del Estado de Michoacán.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+La falta de pago dentro de los plazos a que se refiere al párrafo anterior, causará recargos conforme a la tasa que establezca la Ley de Ingresos para los Municipios del Estado de Michoacán; y el pago de los derechos, conjuntamente con sus accesorios, será exigido por los organismos operadores, en su carácter de autoridades fiscales, mediante la aplicación del procedimiento administrativo de ejecución establecido en el Código Fiscal Municipal del Estado de Michoacán.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
@@ -1577,9 +1595,11 @@ Se establece por esta Ley la contribución especial de Aumento de Valor y Mejor�
 
 #### Sección Segunda. De los Sujetos
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3O DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 153.
 
-Son sujetos de esta contribución los propietarios de los predios, y los poseedores de ésto cuando no exista o no esté definido el propietario.
+Son sujetos de esta contribución los propietarios de los predios y los poseedores de éstos cuando no exista o no esté definido el propietario.
 
 Cuando sean personas distintas el propietario del terreno y el de las construcciones, la contribución recaerá sobre el primero.
 
@@ -1815,7 +1835,19 @@ Constituyen este ingreso las cantidades que perciban los Municipios del Estado d
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
-ARTICULO 187 BIS. Los ingresos de los municipios provenientes de los Fondos de Aportaciones Federales, para la Infraestructura Social Municipal y para EL Fortalecimiento de los Municipios, se percibirán por conducto del Estado, de conformidad a lo que disponga la Ley de Coordinación Fiscal y en su caso el Presupuesto de Egresos de la Federación para el año de que se trate, debiéndose observar las normas correspondientes de dicha Ley en cuanto a la aplicación de los mismos.
+ARTICULO 187 BIS.- Los ingresos de los municipios provenientes de los Fondos de Aportaciones Federales, para la Infraestructura Social Municipal y para EL Fortalecimiento de los Municipios, se percibirán por conducto del Estado, de conformidad a lo que disponga la Ley de Coordinación Fiscal y en su caso el Presupuesto de Egresos de la Federación para el año de que se trate, debiéndose observar las normas correspondientes de dicha Ley en cuanto a la aplicación de los mismos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+Los municipios destinarán parte de el Fondo de Aportaciones Federales para el Fortalecimiento de los Municipios y las Demarcaciones Territoriales del Distrito Federal, a lo señalado por la Ley de Coordinación Fiscal, así como a garantizar el cumplimiento de sus obligaciones de pago de derechos por conceptos de energía eléctrica y de agua, que se tengan con la Comisión Federal de Electricidad o Luz y Fuerza del Centro y con la Comisión Nacional del Agua, respectivamente, previa autorización del H. Congreso del Estado de Michoacán de Ocampo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+En caso de incumplimiento por parte de los municipios a sus obligaciones de pago por concepto de energía eléctrica y de agua, la Comisión Federal de Electricidad o Luz y Fuerza del Centro y la Comisión Nacional del Agua, podrán solicitar a la Secretaría de Finanzas y Administración, previa acreditación de falta de pago, la retención y pago del adeudo con cargo a los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y las Demarcaciones Territoriales del Distrito Federal; cuando alguno de los adeudos tenga una antigüedad mayor de 90 días naturales.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+Lo dispuesto en los dos párrafos anteriores, tiene su origen en las "REGLAS para la disminución de adeudos históricos de consumo de energía eléctrica de los municipios y demarcaciones territoriales del Distrito Federal" y en las "REGLAS para la aplicación del Artículo Segundo, fracción II, de las disposiciones transitorias de la Ley de Coordinación Fiscal contenidas en el Decreto por el que se reforman, adicionan, derogan y abrogan diversas disposiciones de la Ley de Coordinación Fiscal, de la Ley del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial sobre Producción y Servicios, publicado el 21 de diciembre de 2007.", publicadas en el Diario Oficial de la Federación el 27 y 28 de marzo del año 2007, respectivamente.
 
 ## TITULO SEPTIMO. DE LOS APROVECHAMIENTOS
 
@@ -1833,9 +1865,11 @@ Constituyen los ingresos de este ramo, las multas impuestas por infracciones a l
 
 ### CAPITULO III. Reintegros
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 190.
 
-Son reintegros los que se hagan por responsabilidad de los empleados municipales que manejen fondos provenientes de la glosa y revisión, ya sea preventiva o definitiva que practique el Ayuntamiento, Tesorería Municipal o Contaduría General de Glosa.
+Son reintegros los que se hagan por responsabilidad de los empleados municipales que manejen fondos provenientes de la glosa y revisión, ya sea preventiva o definitiva que practique el Ayuntamiento, Tesorería Municipal o Auditoría Superior de Michoacán.
 
 ### CAPITULO IV. Donativos a favor del Municipio
 
@@ -1871,11 +1905,11 @@ V.- Los créditos otorgados por otra fuente de financiamiento.
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 194.
 
-Las atribuciones de las Tesorerías Municipales las ejercerá la Tesorería General del Estado, a través de sus dependencias, cuando los Municipios celebren Convenio de Coordinación con el Gobierno del Estado, para la administración de las Contribuciones sobre la Propiedad Inmobiliaria.
+Las atribuciones de las Tesorerías Municipales las ejercerá la Secretaría de Finanzas y Administración del Estado, a través de sus unidades administrativas, cuando los Municipios celebren Convenio de Coordinación con el Gobierno del Estado, para la administración de las Contribuciones sobre la Propiedad Inmobiliaria.
 
 T R A N S I T O R I O S
 
@@ -2026,3 +2060,9 @@ P.O. 6 DE DICIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto, entrará en vigor el día 1° de enero de 2008, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 30 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley, entrará en vigor el día 1° de enero de 2009, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
