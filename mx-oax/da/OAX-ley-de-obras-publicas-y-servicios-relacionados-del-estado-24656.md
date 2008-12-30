@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-obras-publicas-y-servicios-relacionados-del-estado-24656
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-11"
-last_updated: "2005-03-22"
+last_updated: "2008-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 11 de septiembre del 2001.
 
@@ -95,7 +95,11 @@ IX.- Comisión: La Comisión Estatal Consultiva de la Obra Pública;
 
 X.- Contratista: Persona física o moral que reúne los requisitos exigidos por esta Ley, para la contratación de obra pública o servicios relacionados con la misma;
 
-XI.- Reglamentos: El Reglamento de construcción y Seguridad Estructural vigente para el Estado de Oaxaca y demás Reglamentos en la materia.
+XI.- Reglamentos: El Reglamento de construcción y Seguridad Estructural vigente para el Estado de Oaxaca y demás Reglamentos en la materia;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+XII.- Padrón de Contratistas: El Padrón de Contratistas de Obra Pública.
 
 ###### Artículo 4.
 
@@ -321,9 +325,11 @@ Para los efectos de éste artículo las Dependencias, Entidades y Ayuntamientos,
 
 ### CAPITULO I. DE LAS MODALIDADES DE LA ASIGNACION DE OBRAS
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 24.
 
-Los contratos para la ejecución de obra pública y los servicios relacionados con la misma, por regla general se asignarán mediante el procedimiento de licitación pública, para que los interesados libremente presenten proposiciones solventes en sobres cerrados, las (sic) que serán abiertos públicamente a fin de asegurar al Estado o a los Municipios las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes; de acuerdo con lo que establece la presente Ley.
+Los contratos para la ejecución de obra pública y los servicios relacionados con la misma, por regla general se asignarán mediante el procedimiento de licitación pública, para que los contratistas presenten proposiciones solventes en sobres cerrados, los que serán abiertos públicamente a fin de asegurar al Estado o a los Municipios las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo con lo que establece la presente Ley.
 
 ###### Artículo 25.
 
@@ -343,13 +349,99 @@ La contratación de obra pública, por Dependencias y Entidades solo podrá llev
 
 Los servidores públicos que autoricen actos en contravención a lo dispuesto en este artículo, se harán acreedores a las sanciones previstas por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca y disposiciones aplicables.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO I BIS. DEL PADRON DE CONTRATISTAS DE OBRA PUBLICA
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+Artículo 26 A.- La Secretaría y los Ayuntamientos llevarán, cada uno de ellos un Padrón de Contratistas de Obra Pública, lo mantendrán permanentemente actualizado, y clasificarán a los contratistas registrados en el mismo, de acuerdo a su capacidad técnica, económica, objeto social o giro de negocios que desarrolle. Este padrón será publicado en el Periódico Oficial del Estado.
+
+El registro o renovación en el Padrón será obligatorio, por lo que sólo se podrán celebrar contratos con los contratistas que acrediten estar debidamente inscritos en el Padrón, y tendrán el costo que señalen las leyes de ingresos Estatal y Municipales del ejercicio fiscal que corresponda, con vigencia para un ejercicio fiscal. Los Contratistas, para renovar su registro, deberán de presentar su solicitud dentro de los quince días hábiles anteriores a su vencimiento; si omiten presentar la solicitud en el plazo indicado tendrá como consecuencia la suspensión del registro solicitado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+Artículo 26 B.- El Padrón tiene por objeto facilitar a la administración pública estatal y municipal la información completa, confiable y oportuna, sobre las personas con capacidad de prestar servicios para la contratación de obra pública o servicios relacionados con la misma, en las mejores condiciones de oferta, con la mejor calidad conforme a su especialidad, capacidad técnica y económica, así como por su domicilio y obtener las mejores condiciones para contratar.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+Artículo 26 C.- Para ser inscritos en el Padrón los interesados deberá solicitarlo por escrito ante la Secretaría o el Ayuntamiento que corresponda y satisfacer los requisitos siguientes:
+
+I. Acreditar fehacientemente su calidad de contratista o prestador de servicios relacionados con la obra pública legalmente establecido, mediante inscripción ante la Secretaría de Hacienda y Crédito Público, en la que se especifique su giro o actividad preponderante;
+
+II. Comprobar que se encuentra al corriente de sus obligaciones fiscales en términos de lo dispuesto por el artículo 46 A del Código Fiscal para el Estado de Oaxaca vigente y demás disposiciones fiscales aplicables;
+
+III. Cuando se trate de personas morales deberán exhibir copia certificada de la escritura o acta constitutiva debidamente inscrita en el Registro Público de la Propiedad, así como, sus modificaciones sí las hubiera; en caso de haber sido creadas por disposición legal, deberán indicar esta circunstancia; y tratándose de fideicomisos, el contrato correspondiente;
+
+Los representantes o apoderados legales de las personas morales, deberán presentar copia certificada de identificación oficial con fotografía; así como de su registro federal de contribuyentes y su Clave Única de Registro de Población (CURP);
+
+IV. Las personas físicas, deberán presentar copia certificada de identificación oficial con fotografía; así como de su registro federal de contribuyentes y su Clave Única de Registro de Población (CURP);
+
+V. Proporcionar la información y documentación necesaria para acreditar su solvencia económica y capacidad de prestar servicios para la contratación de obra pública o servicios relacionados con la misma;
+
+VI. Exhibir currículum, mismo que en su caso, contendrá una relación de contratos celebrados en los dos últimos años con la administración pública, los vigentes y los que tengan pendientes de cumplir, en el caso que sea procedente;
+
+VII. Acreditar haber cumplido con los registros que exijan las disposiciones de orden fiscal, mediante la presentación de original y fotocopia simple de los mismos para su cotejo;
+
+VIII. Proporcionar estados financieros;
+
+IX. Pagar los derechos que establezcan las leyes de ingresos estatal y municipales del ejercicio fiscal que corresponda y demás disposiciones aplicables; y
+
+X. Las demás que establezca el Reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+Artículo 26 D.- Los Contratistas registrados en el padrón deberán comunicar en cualquier tiempo a la Secretaría o al Ayuntamiento según sea el caso las modificaciones relativas a datos generales, capacidad técnica o económica, o en su actividad cuando tales circunstancias puedan implicar cambios que afecten su clasificación o localización.
+
+La Secretaría, las Dependencias, Entidades y Ayuntamientos deberán invitar a los contratistas, integrantes del Padrón, a los procedimientos de excepción a la licitación abierta, de acuerdo con la clasificación en que estén registrados, sin perjuicio de que a falta de Contratistas o por así convenir a los intereses del contratante, se pueda invitar a personas que no estén registradas, las que en caso de que se les adjudique el contrato, se deberán inscribir al Padrón antes de celebrar el respectivo contrato de obra o de servicios relacionados con la misma.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+Artículo 26 E.- La Secretaría o el Ayuntamiento que corresponda dentro de un término que no excederá de quince días hábiles contados a partir de la fecha de recepción de la solicitud, resolverá sobre el registro en el Padrón, actualización de datos o la modificación o ampliación de la clasificación. Transcurrido este plazo sin que haya respuesta, se tendrá por registrado al solicitante o efectuada la actualización, modificación, ampliación o su renovación respectiva. En caso de negativa, ésta deberá informarse al interesado debidamente fundada y motivada la causa por la que se rechazó su promoción.
+
+Si la solicitud fuese confusa o incompleta, la Secretaría o el Ayuntamiento, según corresponda, deberá solicitar al contratista, dentro del término de cinco días hábiles siguientes a su recepción, que aclare o complemente dicha solicitud y si no presentare la información requerida dentro de diez días hábiles siguientes a su recepción, se tendrá por no presentada la solicitud.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+Artículo 26 F.- La Secretaría o el Ayuntamiento que corresponda, suspenderá el registro de un contratista, hasta por el plazo de veinticuatro meses cuando:
+
+I. Deje de reunir los requisitos que exige para tal efecto, esta Ley.
+
+II. Por causas imputables a él, incumpla con un contrato que se le haya adjudicado; y
+
+III. Se niegue a dar facilidades necesarias para que los organismos e instituciones facultadas para ello ejerzan sus funciones de vigilancia, inspección, control y fiscalización.
+
+Cuando desaparezcan las causas que hubieren motivado la suspensión del registro, el contratista lo acreditará ante la Secretaría o el Ayuntamiento que corresponda, la que resolverá lo conducente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
+Artículo 26 G.- La Secretaría o el Ayuntamiento que corresponda cancelará el registro del Contratista cuando:
+
+I. La información proporcionada para el registro resulte falsa o haya actuado con dolo o mala fe en algún procedimiento de adjudicación o contratación;
+
+II. Incurra en actos, prácticas u omisiones que lesionen el interés general o los de la economía estatal;
+
+III. El contratista sea declarado en concurso mercantil;
+
+IV. Se le declare incapacitado legalmente para celebrar actos o contratos de los regulados por esta Ley;
+
+V. No atienda en tres ocasiones a las invitaciones que de manera fehaciente le realicen;
+
+VI. No se presente, sin causa justificada, a formalizar el contrato;
+
+VII. Por causas imputables a él, incumpla con un contrato que se le haya adjudicado y perjudique gravemente los intereses de la administración pública;
+
+VIII. Existan a su cargo créditos fiscales firmes; y,
+
+IX. No proporcione la información solicitada por la autoridad competente, en términos del artículo 46-A del Código Fiscal para el Estado de Oaxaca y demás disposiciones aplicables.
+
 ### CAPITULO II. DEL PROCEDIMIENTO DE LA LICITACION PUBLICA
 
-### CAPITULO III. DE LA CONVOCATORIA Y BASES DE LA LICITACION
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 27.
 
-Las obras públicas que se contraten por licitación pública, se basarán en la Convocatoria que formulará la convocante para que se presenten libremente proposiciones solventes en sobre cerrado, que será abierto de manera pública, a fin de asegurar al Estado o Municipios, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento y oportunidad.
+Las obras públicas que se contraten por licitación pública, se basarán en la convocatoria que formulará la convocante para que los contratistas presenten proposiciones solventes en sobre cerrado, que será abierto de manera pública, a fin de asegurar al Estado o Municipios, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
 Las etapas que comprenderá el procedimiento de licitación pública, son las siguientes:
 
@@ -395,7 +487,7 @@ La Contraloría, y en su caso el Organo de Control Interno, vigilará y supervis
 
 Los titulares de las Dependencias, Entidades y el Presidente Municipal, según el caso, podrán ampliar hasta cuarenta días naturales, entre la fecha de publicación de la convocatoria hasta la presentación de proposiciones y apertura técnica, o reducir a un mínimo de diez días naturales, contados apartir (sic) de la fecha de la publicación, los plazos señalados en el presente artículo por causas debidamente justificadas y al efecto emitirán un acuerdo en el que se funde y motive su determinación.
 
-### CAPITULO IV. DEL PROCEDIMIENTO DE APERTURA DE PROPUESTAS
+### CAPITULO III. DE LA CONVOCATORIA Y BASES DE LA LICITACION
 
 ###### Artículo 30.
 
@@ -523,7 +615,7 @@ Cuando las modificaciones a las bases deriven de la junta de aclaraciones, se en
 
 En toda licitación pública invariablemente deberá celebrarse una Junta de Aclaraciones, por lo que los contratistas por escrito y con veinticuatro horas de anticipación a la hora señalada para dicho acto, manifestarán sus dudas sobre la convocatoria o bases, y la convocante hará las aclaraciones o modificaciones pertinentes, elaborando el acta correspondiente la cual se firmará por los que en ella intervengan y formará parte integrante de las bases.
 
-### CAPITULO V. EXCEPCIONES A LA LICITACION PUBLICA
+### CAPITULO IV. DEL PROCEDIMIENTO DE APERTURA DE PROPUESTAS
 
 ###### Artículo 36.
 
@@ -625,7 +717,7 @@ II.- Cuando todas las propuestas recibidas no reúnan los requisitos de las base
 
 III.- Cuando las proposiciones recibidas rebasen el monto presupuestal asignado para la realización de la obra.
 
-### CAPITULO I. DE LA ADJUDICACION DEL CONTRATO
+### CAPITULO V. EXCEPCIONES A LA LICITACION PUBLICA
 
 ###### Artículo 42.
 
@@ -691,7 +783,7 @@ En casos excepcionales, el Titular de la Dependencia o Entidad, o en su caso el 
 
 ## TITULO CUARTO. DE LA FORMALIZACION DEL CONTRATO
 
-### CAPITULO II. EJECUCION, AJUSTE DE COSTOS, PRECIOS UNITARIOS Y SU PROCEDIMIENTO
+### CAPITULO I. DE LA ADJUDICACION DEL CONTRATO
 
 ###### Artículo 47.
 
@@ -773,7 +865,7 @@ De las modificaciones a los contratos de obra pública mediante convenios, se da
 
 La entrega de anticipos para la iniciación de los trabajos se hará de acuerdo a lo pactado en el contrato de obra pública, pero su importe máximo no rebasará el 30% de la asignación aprobada para el contrato en el primer ejercicio fiscal de que se trate, y del 20% en los ejercicios subsecuentes del propio contrato, en caso de que se trate de una obra que se ejecute en más de un ejercicio presupuestal. Cuando por las características especiales y condiciones particulares de la realización de la obra sea necesario otorgar un anticipo mayor, deberán asentarse por escrito dichas características y condiciones, remitiendo el documento según el caso a la Contraloría o Contaduría Mayor, dentro de los cinco días hábiles siguientes al de la entrega del anticipo. La cantidad que reciba el contratista por ese concepto deberá aplicarse exclusivamente para la ejecución de los trabajos y nunca excederá del 50%, en el cual deberá estipularse su destino específico.
 
-### CAPITULO III. DEL PAGO DE LOS TRABAJOS EJECUTADOS
+### CAPITULO II. EJECUCION, AJUSTE DE COSTOS, PRECIOS UNITARIOS Y SU PROCEDIMIENTO
 
 ###### Artículo 54.
 
@@ -797,7 +889,7 @@ III.- El ajuste de costos que corresponda a los trabajos ejecutados conforme a l
 
 IV.- Los ajustes de costos deberán ser solicitados por escrito por los contratistas, presentando el estudio y soporte respectivo previo al finiquito.
 
-### CAPITULO IV. DE LA SUSPENSION, TERMINACION ANTICIPADA O RESCISION DEL CONTRATO
+### CAPITULO III. DEL PAGO DE LOS TRABAJOS EJECUTADOS
 
 ###### Artículo 56.
 
@@ -821,7 +913,7 @@ El pago de las obras contratadas a precio alzado, se realizará previa verificac
 
 Dicho pago se realizará dentro de los veinte días hábiles contados a partir de la fecha en que se haya entregado la obra en los términos del contrato respectivo y presentada la documentación requerida por la Dependencia, Entidad o Ayuntamiento para su cobro, salvo que mediante acuerdo expreso de las partes se pacte un plazo mayor.
 
-### CAPITULO I. DE LA EJECUCION
+### CAPITULO IV. DE LA SUSPENSION, TERMINACION ANTICIPADA O RESCISION DEL CONTRATO
 
 ###### Artículo 58.
 
@@ -843,7 +935,7 @@ En los casos de las fracciones anteriores los titulares de las Dependencias y En
 
 ## TITULO QUINTO. DE LA EJECUCION DE LA OBRA
 
-### CAPITULO II. DE LA ADMINISTRACION DIRECTA
+### CAPITULO I. DE LA EJECUCION
 
 ###### Artículo 60.
 
@@ -859,7 +951,7 @@ Las Dependencias y Entidades establecerán la residencia de obra con anteriorida
 
 Cuando la supervisión sea realizada por contrato, la aprobación de las estimaciones para efectos de pago deberá ser autorizada por la residencia de obra de la Dependencia o Entidad.
 
-### CAPITULO I. DE LA ENTREGA Y RECEPCION
+### CAPITULO II. DE LA ADMINISTRACION DIRECTA
 
 ###### Artículo 62.
 
@@ -889,7 +981,7 @@ IV.- Prever la asesoría de especialistas en las partes de la obra que lo requie
 
 ## TITULO SEXTO. DE LA ENTREGA Y RECEPCION DE LAS OBRAS
 
-### CAPITULO II. DE LA CONSERVACION Y MANTENIMIENTO DE LA OBRA PUBLICA
+### CAPITULO I. DE LA ENTREGA Y RECEPCION
 
 ###### Artículo 64.
 
@@ -901,7 +993,7 @@ La entrega y recepción de la obra no exime al contratista de la responsabilidad
 
 La entrega de la obra se realizará en la fecha, forma y condiciones como se haya pactado en el contrato, la que no deberá exceder de un término de veinte días naturales contados a partir de la terminación total de los trabajos.
 
-### CAPITULO III. DE LOS SERVICIOS RELACIONADOS CON LA OBRA PUBLICA
+### CAPITULO II. DE LA CONSERVACION Y MANTENIMIENTO DE LA OBRA PUBLICA
 
 ###### Artículo 66.
 
@@ -925,9 +1017,7 @@ La destrucción parcial o total de la obra pública obliga a la reparación de l
 
 Es responsabilidad de las Dependencias, Entidades y Ayuntamientos vigilar este aspecto, así como reportarlo a las autoridades correspondientes con toda oportunidad.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+### CAPITULO III. DE LOS SERVICIOS RELACIONADOS CON LA OBRA PUBLICA
 
 ###### Artículo 68.
 
@@ -948,6 +1038,8 @@ No quedan comprendidos dentro de los servicios a que se refiere el artículo 68 
 ## TITULO SEPTIMO. DE LA INFORMACION Y VERIFICACION
 
 ### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### Artículo 71.
 
@@ -975,25 +1067,25 @@ Las Dependencias, Entidades o Ayuntamientos ejecutores, tendrán la obligación 
 
 Las Dependencias, Entidades y Ayuntamientos contratantes, así como los contratistas, tienen la obligación de proporcionar a la Contraloría o al Órgano de Control Interno según corresponda, toda aquella documentación generada con motivo de la contratación y ejecución de las obras públicas a su cargo, a fin de que se lleve a cabo la fiscalización correspondiente.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 76.
 
-Las Dependencias, Entidades o Ayuntamientos contratantes, que ejecuten obras en sus distintas modalidades de contratación, deberán establecer en cada una de las estimaciones que se cubran al contratista un descuento que servirá para que la Contraloría ejecute la vigilancia, inspección y control en los procesos de ejecución de obra pública, sobre la base siguiente:
+Los contratistas que celebren contratos de obra pública y servicios relacionados con la misma con el Estado pagarán un derecho que servirá para la vigilancia, inspección y control de los procesos de ejecución de obra pública, sobre el importe de cada una de las estimaciones de trabajo equivalente al cinco al millar.
 
-a).- Para la adjudicación directa, se descontará al contratista el dos al millar del monto total de la obra, sin I.V.A.;
+Las oficinas pagadoras de la administración pública estatal, al hacer el pago de las estimaciones de obra, retendrán el importe del derecho a que se refiere el párrafo anterior.
 
-b).- Para obras por contratación en las modalidades de licitación pública e invitación restringida, se descontará al contratista el cinco al millar del monto total contratado, sin I.V.A.; y,
+Los ingresos que se obtengan por la recaudación de este derecho, deberán enterarse a la Secretaría de Finanzas dentro de los cinco días hábiles siguientes a aquel en que se retenga, la que transferirá el importe a la Contraloría para el fortalecimiento de servicios de vigilancia, inspección y control a que se refiere este artículo.
 
-c).- Las obras que ejecuten las Dependencias, Entidades o Ayuntamientos, por administración directa, se descontará el dos al millar del monto total ejecutado.
+Las convocatorias e invitaciones respectivas, deberán establecer el pago de derechos a que alude este precepto.
 
-Dichas retenciones serán establecidas en las invitaciones o convocatorias respectivas, los montos que ingresen por estos conceptos deberán depositarse en la Secretaría de Finanzas, quien transferirá el importe íntegro a la Contraloría.
+Tratándose de contratistas que celebren contratos de obra pública y servicios relacionados con la misma, con los Municipios pagarán un derecho que servirá para la vigilancia, inspección y control de los procesos de ejecución de obra pública, sobre el importe de cada una de las estimaciones de trabajo equivalente al cinco al millar.
 
-Los derechos causados por los conceptos citados se deducirán a la cantidad que resulte de la suma de los costos directos, indirectos, de financiamiento y de cargo por utilidad, debiendo requerirse a los interesados que incluyan los tres conceptos mencionados dentro del rubro de utilidad, indicando su monto.
-
-Adicionalmente la convocante, realizarán un descuento del dos al millar del monto total de la obra ejecutada por administración, que será canalizado al Instituto de Capacitación y Productividad para el Trabajo del Estado de Oaxaca. Así mismo, podrán celebrarse convenios entre las Dependencias, Entidades o Ayuntamientos y las Cámaras u Organismos respectivos, a efecto de que las aportaciones que con motivo de la capacitación a que están obligados los contratistas, sean aplicadas a los Institutos de Capacitación respectivos.
+La Tesorería Municipal, al hacer el pago de las estimaciones de obra retendrá el importe del derecho a que se refiere el párrafo anterior.
 
 ## TITULO OCTAVO. DE LAS INFRACCIONES Y SANCIONES
 
-### CAPÍTULO I. DE LA INCONFORMIDAD
+### CAPITULO UNICO
 
 ###### Artículo 77.
 
@@ -1069,9 +1161,7 @@ Los contratistas que se encuentren en los supuestos de las fracciones VI, VII, V
 
 ## TÍTULO NOVENO. MEDIO DE IMPUGNACIÓN Y RECURSO
 
-### CAPITULO II. DEL RECURSO DE REVOCACION
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+### CAPÍTULO I. DE LA INCONFORMIDAD
 
 ###### Artículo 87.
 
@@ -1120,6 +1210,10 @@ II.- La declaración de improcedencia de la inconformidad.
 ###### Artículo 92.
 
 La resolución que ponga fin al procedimiento de inconformidad, se notificará personalmente al inconforme y a la convocante en los casos en que así proceda.
+
+### CAPITULO II. DEL RECURSO DE REVOCACION
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### Artículo 93.
 
@@ -1173,9 +1267,9 @@ TERCERO.- Solamente para el año 2001 los rangos de aplicación mínimos y máxi
 
 CALCULADA EN SALARIOS MÍNIMOS VIGENTE EN EL ESTADO DE OAXACA.
 
-ADJUDICACION INVITACIÓN A ADJUDICACIÓN INVITACIÓN CUANDO
+ADJUDICACIÓN INVITACIÓN ADJUDICACIÓN INVITACIÓN CUANDO
 
-DIRECTA CUANDO DIRECTA PARA MENOS
+DIRECTA A CUANDO DIRECTA PARA MENOS
 
 MENOS SERVICIOS TRES CONTRATISTAS
 
@@ -1250,3 +1344,7 @@ AL C...
 P.O. 22 DE MARZO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2009, previa publicación en el Periódico Oficial del Gobierno del Estado.
