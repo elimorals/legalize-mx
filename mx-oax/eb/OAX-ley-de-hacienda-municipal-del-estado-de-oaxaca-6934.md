@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-municipal-del-estado-de-oaxaca-6934"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-01"
-last_updated: "2002-12-31"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 1 de septiembre de 1990.
 
@@ -1065,7 +1065,27 @@ ARTICULO 93 F.- Las autoridades municipales competentes establecerán los requis
 
 Para el establecimiento y recaudación, de estos derechos se estará a lo dispuesto en la ley de cooperación para obras públicas del Estado de Oaxaca.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO XI. POR SERVICIOS DE VIGILANCIA, CONTROL Y EVALUACION
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 94 BIS A.- Los contratistas que celebren contratos de obra pública con los municipios, pagarán para su inscripción en el padrón de contratistas, el costo conforme a lo previsto en la Ley de Ingresos del ejercicio fiscal del Municipio que corresponde.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 94 BIS B.- Los contratistas que celebren contratos de obra pública y servicios relacionados con la misma, con municipios y organismos paramunicipales, pagarán sobre el importe de cada una de las estimaciones de trabajo el equivalente al 5 % al millar que corresponda.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 94 BIS C.- Los retenedores de los ingresos que por este derecho se recauden, deberán enterarlos en la Tesorería o Dirección de Ingresos según sea el caso dentro de los cinco días hábiles siguientes a aquél en que se retengan.
+
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+## TITULO TERCERO BIS. CONTRIBUCIONES DE MEJORAS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ### CAPITULO UNICO. DEL SANEAMIENTO
 
@@ -1109,15 +1129,9 @@ ARTICULO 94 B.- Las cuotas que en los términos de esta Ley corresponda cubrir a
 
 La recaudación de las cuotas o derechos por este concepto, corresponderá a la Tesorería Municipal, la cual por los medios legales las hará efectivas y las aplicará a los fines específicos que les corresponda, debiendo llevar en cada caso una cuenta especial.
 
-## TITULO TERCERO BIS. CONTRIBUCIONES DE MEJORAS
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1999)</small>
-
-### CAPITULO I. DERIVADOS DE BIENES INMUEBLES
-
 ## TITULO CUARTO. PRODUCTOS
 
-### CAPITULO II. DERIVADOS DE BIENES MUEBLES
+### CAPITULO I. DERIVADOS DE BIENES INMUEBLES
 
 ###### ARTICULO 95.
 
@@ -1273,7 +1287,7 @@ Son sujetos de estos productos, las personas físicas o morales, propietarias o 
 
 El pago de los productos a que se refiere esta sección se realizará de acuerdo con las cuotas que establezcan las Leyes de Ingresos Municipales respectivas que al efecto propongan los Ayuntamientos a la Legislatura del Estado y previamente al retiro del vehículo correspondiente.
 
-### CAPITULO III. PRODUCTOS FINANCIEROS
+### CAPITULO II. DERIVADOS DE BIENES MUEBLES
 
 ###### ARTICULO 125.
 
@@ -1307,7 +1321,7 @@ Los ingresos que se perciban por la enajenación de bienes muebles, invariableme
 
 También obtendrá productos el Municipio por el arrendamiento de sus bienes muebles cuyo costo será fijado en las Leyes de Ingresos Municipales respectivas que al efecto propongan los Ayuntamientos a la Legislatura del Estado.
 
-### CAPITULO IV. OTROS PRODUCTOS
+### CAPITULO III. PRODUCTOS FINANCIEROS
 
 ###### ARTICULO 131.
 
@@ -1333,7 +1347,7 @@ Para adquirir acciones o títulos de empresas, se requiere la autorización del 
 
 Los recursos que se obtengan por rendimientos de inversiones financieras en instituciones de crédito por compra de acciones o títulos de empresas, invariablemente se ingresará al erario municipal, clasificándolos como productos financieros.
 
-### CAPITULO I. DERIVADOS DEL SISTEMA SANCIONATORIO MUNICIPAL
+### CAPITULO IV. OTROS PRODUCTOS
 
 ###### ARTICULO 137.
 
@@ -1355,7 +1369,7 @@ Se establece responsabilidad solidaria a las autoridades municipales en el pago 
 
 ## TITULO QUINTO. APROVECHAMIENTOS
 
-### CAPITULO II. DERIVADOS DE RECURSOS TRANSFERIDOS AL MUNICIPIO
+### CAPITULO I. DERIVADOS DEL SISTEMA SANCIONATORIO MUNICIPAL
 
 ###### ARTICULO 141.
 
@@ -1399,7 +1413,7 @@ Las tasas de recargos por incumplimiento oportuno de créditos fiscales y por pe
 
 Los pagos por los aprovechamientos derivados del sistema sancionatorio municipal deberán ser cubiertos exclusivamente en la Tesorería Municipal o en las oficinas o instituciones que ésta en forma expresa autorice para ello.
 
-### CAPITULO III. PROVENIENTES DEL CREDITO
+### CAPITULO II. DERIVADOS DE RECURSOS TRANSFERIDOS AL MUNICIPIO
 
 ###### ARTICULO 149.
 
@@ -1445,7 +1459,7 @@ Para los aprovechamientos a que se refieren las fracciones IX y X del artículo 
 
 Los aprovechamientos a que se refiere este capítulo, deberán ingresar al erario municipal, tratándose de numerario o al inventario de bienes patrimoniales tratándose de bienes muebles o inmuebles, en un plazo no mayor de setenta y dos horas contados a partir del momento en que tales bienes o recursos sean del conocimiento de la autoridad municipal.
 
-### CAPITULO IV. APROVECHAMIENTOS DIVERSOS
+### CAPITULO III. PROVENIENTES DEL CREDITO
 
 ###### ARTICULO 155.
 
@@ -1473,9 +1487,7 @@ Todo recurso que obtenga el municipio por concepto de deuda pública, deberá in
 
 Adquiere responsabilidad cualquier funcionario que contravenga las disposiciones contenidas en este capítulo.
 
-### CAPITULO UNICO. PARTICIPACIONES FEDERALES
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+### CAPITULO IV. APROVECHAMIENTOS DIVERSOS
 
 ###### ARTICULO 161.
 
@@ -1489,9 +1501,9 @@ Sólo la Tesorería Municipal podrá recibir los aprovechamientos a que se refie
 
 ## TITULO SEXTO. PARTICIPACIONES E INCENTIVOS FEDERALES
 
-### CAPITULO UNICO
+### CAPITULO UNICO. PARTICIPACIONES FEDERALES
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 163.
 
@@ -1508,6 +1520,10 @@ Las participaciones e incentivos Federales que reciban los Municipios deberán i
 ## TITULO SEPTIMO. DE LOS FONDOS DE APORTACIONES FEDERALES
 
 > <small>(ADICIONADO, CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 165.
 
@@ -1620,3 +1636,7 @@ P.O. 30 DE DICIEMBRE DE 2000.
 P.O. 31 DE DICIEMBRE DE 2002.
 
 UNICO.- El presente Decreto entrara en vigor el día 1 de enero del año 2003 previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+ÚNICO.- El presente Decreto, entrará en vigor a partir del día 1 de enero del año 2009, previa publicación en el Periódico Oficial del Gobierno del Estado.
