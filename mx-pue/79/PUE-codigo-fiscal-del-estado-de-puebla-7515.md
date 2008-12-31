@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2007-12-31"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -191,23 +191,45 @@ d) El Director de Fiscalización;
 
 e) El Director de Verificación de Comercio Exterior;
 
-f) El Subdirector de Recaudación;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-g) El Subdirector de Orientación y Asistencia al Contribuyente;
+f) El Jefe de la Unidad de Apoyo Técnico y Legal;
 
-h) El Subdirector de Control vehicular;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-i) El Subdirector Técnico de Ingresos;
+g) El Subdirector de Recaudación;
 
-j) El Subdirector Técnico de Fiscalización;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-k) El Subdirector Operativo de Fiscalización;
+h) El Subdirector de Orientación y Asistencia al Contribuyente;
 
-l) El Subdirector Operativo de Verificación de Comercio Exterior;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-m) El Jefe del Departamento Técnico de Ejecución; y
+i) El Subdirector de Control vehicular;
 
-n) Los Jefes de las Oficinas Recaudadoras y de Asistencia al Contribuyente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+j) El Subdirector Técnico de Ingresos;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+k) El Subdirector de Revisiones Federales;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+l) El Subdirector de Revisiones Estatales;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+m) El Subdirector Operativo de Verificación de Comercio Exterior;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+n) El Jefe del Departamento Técnico de Ejecución; y
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+ñ) Los Jefes de las Oficinas Recaudadoras y de Asistencia al Contribuyente.
 
 III.- El Director General del Instituto de Catastro del Estado, así como los servidores públicos siguientes, adscritos al mismo:
 
@@ -289,7 +311,7 @@ III. Si ambos o todos los acreedores públicos poseen derechos reales, la prefer
 
 Para determinar la preferencia de los créditos fiscales se estará a lo siguiente:
 
-I.- Los créditos a favor del Gobierno del Estado provenientes de impuestos, derechos, productos y aprovechamientos, serán preferentes a cualesquiera otros con excepción de los créditos de alimentos, de salario y sueldos devengados durante el último año, o de indemnizaciones a los obreros conforme lo que dispone la Ley Federal del Trabajo, además de los créditos con garantía hipotecaria o prendaria.
+I.- Los créditos a favor del Gobierno del Estado provenientes de impuestos, derechos, productos y aprovechamientos, serán preferentes a cualesquiera otros con excepción de los créditos de alimentos, de salario y sueldos devengados durante el último año, o de indemnizaciones a los obreros conforme lo que dispone la Ley Federal del Trabajo, además de los créditos con garantía hipotecarla o prendaria.
 
 II.- Para que sea aplicable la excepción a que se refiere la fracción anterior, será requisito indispensable que antes de que se notifique al deudor el crédito fiscal, se haya presentado la demanda ante la Autoridad competente, y ésta, hubiere dictado el auto que la admita. En el caso de las garantías hipotecarias y prendarias, el requisito será que éstas se encuentren inscritas en el Registro Público de la Propiedad y del Comercio, antes de la notificación del crédito Fiscal.
 
@@ -473,7 +495,7 @@ VI.- Las silvícolas, que son las de cultivo de los bosques o montes, así como 
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
 
-Se considera empresa, la persona física o moral que realice las actividades a que se refiere este artículo, ya sea directamente, a través de fideicomiso o por conducto de terceros; por establecimiento, se entiende cualquier lugar en el que se desarrollen parcial o totalmente, las citadas actividades empresariales.
+Se considerará empresa, la persona física o moral que realice las actividades a que se refiere este artículo, ya sea directamente, a través de fideicomiso o por conducto de terceros; por establecimiento, se entiende cualquier lugar en el que se desarrollen parcial o totalmente, las citadas actividades empresariales.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
 
@@ -615,9 +637,9 @@ Este artículo no libera a los contribuyentes de la obligación de llevar los li
 
 En el libro diario, el contribuyente deberá anotar en forma descriptiva todas sus operaciones, actos o actividades siguiendo el orden cronológico en que éstos se efectúen, indicando el movimiento de cargo o crédito que a cada una corresponda.
 
-En el libro mayor deberán anotarse los nombres de las cuentas de la contabilidad, su saldo al final de período de registro inmediato anterior, el total del movimiento de cargo o crédito a cada cuenta en el período y su saldo final.
+En el libro mayor deberán anotarse los nombres de las cuentas de la contabilidad, su saldo al final de período de registro inmediato anterior, el total de movimiento de cargo o crédito a cada cuenta en el período y su saldo final.
 
-Podrán llevarse libros diarios y mayores, particulares, por establecimientos o dependencias, tipos de actividad o cualquier otra clasificación, pero en todos los casos deberá existir el libro diario y el mayor general en que se concentren todas las operaciones del contribuyente y la documentación que ampare las operaciones.
+Podrán llevarse libros diarios y mayores, particulares, por establecimientos o dependencias, tipos de actividad o cualquier otra clasificación, pero en todos los casos deberá existir el libro diario y el mayor general en que concentren todas las operaciones del contribuyente y la documentación que ampare las operaciones.
 
 ### CAPITULO IV. DE LAS PROMOCIONES
 
@@ -1261,7 +1283,7 @@ III.- Las autoridades Fiscales podrán solicitar a otras Autoridades competentes
 
 > <small>(REFORMADA, P.O. 11 DE ABRIL DE 2003)</small>
 
-IV.- Los visitados, sus representantes o la persona con quien se entiendan las visitas, en el domicilio fiscal, están obligados a permitir a los visitadores designados por las autoridades fiscales, el acceso al lugar o lugares de la misma, así como mantener a su disposición la contabilidad y documentación que acredite el cumplimiento de las disposiciones fiscales, de las que los visitadores podrán obtener copias, las cuales previo cotejo con sus originales serán entregadas a los mismos, por escrito firmado por el contribuyente, representante legal o del tercero con quien se entienda la visita y podrán ser anexadas al acta final o a las parciales que se levanten con motivo de la visita.
+IV.- Los visitados, sus representantes o la persona con quien se entiendan las visitas, en el domicilio fiscal, están obligados a permitir a los visitadores designados por las autoridades fiscales, el acceso al lugar o lugares de la misma, así como mantener a su disposición la contabilidad y documentación que acredite el cumplimiento de las disposiciones fiscales, de las que los visitadores podrán obtener copias, las cuales previo cotejo con sus originales serán entregadas a los mismos, por escrito firmado por el contribuyente, representante legal o del tercero con quien se entienda la visita y podrán ser anexadas al acta final o a las parciales que levanten con motivo de la visita.
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -1895,7 +1917,7 @@ No se formulará querella si quien hubiere omitido el pago total o parcial de al
 
 ###### ARTICULO 70.
 
-Comete el delito de quebrantamiento de sellos o marcas oficiales, quien sin derecho los altere, destruya o retire, habiendo sido colocados con finalidad fiscal para identificar o asegurar documentación o establecimientos sujetos a comprobación de obligaciones fiscales; o impida por cualquier medio que se logre el propósito para el que fueron colocados.
+Comete el delito de quebrantamiento de sellos o marcas oficiales, quien sin derecho los altere destruya o retire, habiendo sido colocados con finalidad fiscal para identificar o asegurar documentación o establecimientos sujetos a comprobación de obligaciones fiscales; o impida por cualquier medio que se logre el propósito para el que fueron colocados.
 
 ###### ARTICULO 71.
 
@@ -2241,7 +2263,7 @@ El interventor con cargo a la caja, tendrá las obligaciones siguientes:
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-I.- Recuperar el monto del crédito fiscal adeudado de los ingresos de la negociación intervenida, en un plazo que no excederá de seis meses, debiéndose cubrir cuando menos el 16 % del crédito fiscal durante el primer mes, después de separar las cantidades que correspondan por concepto de salarios.
+I.- Recuperar el monto de crédito fiscal adeudado de los ingresos de la negociación intervenida, en un plazo que no excederá de seis meses, debiéndose cubrir cuando menos el 16 % del crédito fiscal durante el primer mes, después de separar las cantidades que correspondan por concepto de salarios.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -2359,7 +2381,7 @@ En el caso de que el valor de los bienes exceda de una cantidad equivalente al s
 
 Los acreedores que aparezcan del certificado de gravámenes correspondientes a los últimos diez años el que deberá obtenerse oportunamente, serán citados para el acto de remate, y en caso de no ser factible por alguna de las causas a que se refiere la fracción IV del artículo 76 de este Código se tendrá como citación la que se haga en las convocatorias en que se anuncie el remate en las que deberá expresarse el nombre de los acreedores.
 
-Los acreedores a que alude el párrafo anterior, tendrán derecho a concurrir al remate y hacer las observaciones que estimen del caso, las cuales serán resueltas por la autoridad ejecutora en el acto de la diligencia.
+Los acreedores a que alude el párrafo anterior, tendrán derecho a concurrir al remate y hacer las observaciones que estimen del caso, las cuales serán resueltas por la autoridad ejecutoria en el acto de la diligencia.
 
 ###### ARTICULO 109.
 
@@ -2451,7 +2473,7 @@ La adjudicación se hará al valor que corresponda para la almoneda de que se tr
 
 ###### ARTICULO 123.
 
-Cuando no se hubiera fincado el remate en la primera almoneda, se fijará nueva fecha y hora para que, dentro de los quince días siguientes se lleve a cabo una segunda almoneda, cuya convocatoria se hará en términos de lo que dispone este Código con la salvedad de que la publicación se hará por una sola vez.
+Cuando no se hubiera fincado el remate en la primera almoneda, se fijara nueva fecha y hora para que, dentro de los quince días siguientes se lleve a cabo una segunda almoneda, cuya convocatoria se hará en términos de lo que dispone este Código con la salvedad de que la publicación se hará por una sola vez.
 
 La base para el remate en la segunda almoneda se determinará deduciendo un 20% de la señalada para la primera.
 
@@ -2998,3 +3020,7 @@ CUARTO.- Lo dispuesto en los artículos 24 fracción X, 41 fracción IV inciso a
 QUINTO.- Las facultades de comprobación a que se refiere los incisos b) y c) de la fracción VII del artículo 41 de este Código, que se hayan ejercido anteriormente a la entrada en vigor del presente Decreto, se substanciarán hasta su total conclusión conforme a las disposiciones legales vigentes en el momento en que se hubieren iniciado.
 
 SEXTO.- Los recursos administrativos de revocación que se encuentren en trámite ante la autoridad fiscal correspondiente, al momento de entrar en vigor el presente Decreto, se substanciarán hasta su total resolución conforme a las disposiciones legales vigentes en el momento de su interposición.
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+ÚNICO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
