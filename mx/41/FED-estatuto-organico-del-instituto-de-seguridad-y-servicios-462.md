@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "2006-11-23"
+last_updated: "2008-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,9 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE NOVIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADO EN EL D.O.F. DE 31 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -2153,3 +2155,33 @@ Unico.- El presente Acuerdo entrará en vigor al día siguiente de su publicaci�
 D.OF. 23 DE NOVIEMBRE DE 2006.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente Estatuto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, publicado en el Diario Oficial de la Federación el 6 de junio de 1988, así como todas sus reformas y adiciones.
+
+TERCERO. Los Titulares de las Unidades Administrativas que sean responsables, de acuerdo con lo dispuesto por el presente Estatuto, de formular y proponer a la Dirección General proyectos de Reglamento Orgánico deberán hacerlo en un plazo que no exceda de noventa días naturales a la entrada en vigor del mismo, debiendo dichos proyectos ser sometidos a consideración y aprobación de la Junta Directiva del Instituto en la sesión inmediata.
+
+CUARTO. Son ratificados los Titulares de las Subdirecciones y Coordinaciones Generales, de las Delegaciones y demás Unidades Administrativas Desconcentradas del Instituto que han sido nombrados por la Junta y se encuentran en funciones, manteniéndose a cargo de las Unidades homólogas creadas por el presente Estatuto. Igualmente, el Secretario de la Junta Directiva queda designado como Secretario General del Instituto.
+
+QUINTO. Para efectos de cumplir con lo previsto por el presente Estatuto y conformar la estructura orgánica y funcional que en él se dispone, en un plazo que no excederá de noventa días naturales a partir de la vigencia de este ordenamiento se transferirán a sus nuevas adscripciones, conforme se indica, los correspondientes recursos humanos, materiales y financieros de las siguientes Subdirecciones y áreas actuales del Instituto:
+
+I. A la Secretaría General:
+
+a) La Subdirección de Planeación Financiera y Evaluación Institucional de la Subdirección General de Finanzas;
+
+b) La Subdirección de Atención al Derechohabiente de la Subdirección General Jurídica; y,
+
+c) La Unidad de Asuntos Internacionales de la Subdirección General Jurídica.
+
+II. A la Dirección de Administración:
+
+a) La Subdirección de Abasto de Insumos Médicos de la Subdirección General Médica; y,
+
+b) La Subdirección de Conservación y Mantenimiento de la Subdirección General Médica.
+
+La Subdirección de Afiliación y Vigencia de la actual Subdirección General de Prestaciones Económicas, Sociales y Culturales quedará adscrita a la Secretaría General del Instituto, contándose con un plazo que no excederá del 30 de enero próximo para transferir sus funciones, así como los correspondientes recursos humanos, materiales y financieros.
+
+SEXTO. La constitución del Organo Interno de Control del PENSIONISSSTE se llevará a cabo en el plazo y con las condiciones que determine la Secretaría de la Función Pública.
