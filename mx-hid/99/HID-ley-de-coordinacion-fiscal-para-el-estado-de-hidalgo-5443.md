@@ -4,7 +4,7 @@ identifier: "HID-ley-de-coordinacion-fiscal-para-el-estado-de-hidalgo-5443"
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-30"
-last_updated: "2008-12-22"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE COORDINACION FISCAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el sábado 30 de diciembre de 1989.
 
@@ -719,11 +719,11 @@ DE LOS RECURSOS PROVENIENTES DEL FONDO DE COMPENSACIÓN, QUE SE DESTINEN AL ESTA
 
 LA SECRETARÍA DE FINANZAS EMITIRÁ Y ACTUALIZARÁ EN CADA EJERCICIO LOS CRITERIOS QUE CONFORMAN EL ÍNDICE DE TRANSPARENCIA SEÑALADO COMO COMPONENTE DEL FONDO DE COMPENSACIÓN.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 26.
 
-EL DESTINO DE ESTOS RECURSOS ES PARA LA REALIZACIÓN DE INFRAESTRUCTURA VIAL E HIDRÁULICA, YA SEA RURAL O URBANA. Y POR LO MENOS UN 12.5% DE ESTOS RECURSOS DEBE SER EMPLEADO EN OBRAS O ACCIONES PARA LA PROTECCIÓN Y CONSERVACIÓN AMBIENTAL.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -906,3 +906,9 @@ P.O. 22 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO 1o.
 
 El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1° de enero de 2010, previa su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
