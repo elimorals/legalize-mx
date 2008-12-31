@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-la-comision-de-derechos-humanos-del-25505
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-01"
-last_updated: "2008-01-04"
+last_updated: "2008-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25505&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-06-20"
 
 REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 1 de agosto de 2002.
 
@@ -226,9 +226,13 @@ I. La Presidencia;
 
 II. El Consejo;
 
-III. Las Visitadurías, y
+III. Las Visitadurías, y (sic)
 
 IV. (DEROGADA, G.O. 24 DE ABRIL DE 2003)
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
+V. El Órgano de Control Interno, denominado Contraloría Interna.
 
 > <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
@@ -242,7 +246,7 @@ II. La Secretaría Técnica;
 
 III. Las Direcciones Generales;
 
-IV. La Contraloría Interna;
+IV. (DEROGADA, G.O. 31 DE DICIEMBRE DE 2008)
 
 V. Las Direcciones Ejecutivas;
 
@@ -278,9 +282,9 @@ I. En su carácter de representante legal, podrá otorgar poderes para pleitos y
 
 II. Proponer al Consejo, para su aprobación, los lineamientos y programas generales de la Comisión, así como la normatividad interna, manuales y los procedimientos administrativos necesarios para su buen funcionamiento;
 
-> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
 
-III. Designar, dirigir y coordinar a las y los titulares de los órganos y áreas de apoyo de la Comisión, así como removerlos si así lo estima conveniente. Para ello firmará los nombramientos de quienes ocupen estos cargos; al efecto buscará en estas determinaciones mantener una paridad de género.
+III. Designar, dirigir y coordinar a las y los titulares de los órganos y áreas de apoyo de la Comisión, así como removerlos si así lo estima conveniente. Por lo que hace a la designación de la o el Titular de la Contraloría Interna, deberá consultarla con el Consejo. Para ello firmará los nombramientos de quienes ocupen estos cargos; al efecto buscará en estas determinaciones mantener una paridad de género.
 
 Así también firmará los nombramientos del personal del Servicio Profesional en Derechos Humanos;
 
@@ -354,6 +358,10 @@ Al efecto la o el Presidente determinará las directrices bajo las cuales se rea
 
 Las Visitadurías son órganos de la Comisión y auxiliarán a la o el Presidente de conformidad con la Ley, el presente Reglamento y de acuerdo con las instrucciones que al efecto indique la o el Presidente.
 
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Así también, la Contraloría Interna como un órgano de la Comisión, auxiliará a la o el Presidente y al Consejo en el ámbito de sus respectivas competencias.
+
 > <small>(REFORMADO, G.O. 4 DE ENERO DE 2008)</small>
 
 ###### ARTÍCULO 25.
@@ -384,7 +392,7 @@ V. La Dirección General de Comunicación Social;
 
 VI. La Dirección General de Educación y Promoción de los Derechos Humanos;
 
-VII. La Contraloría Interna;
+VII. (DEROGADA, G.O. 31 DE DICIEMBRE DE 2008)
 
 > <small>(REFORMADA Y REUBICADA, G.O. 27 DE OCTUBRE DE 2006)</small>
 
@@ -480,17 +488,23 @@ III. El personal profesional, técnico y administrativo necesario que al efecto 
 
 Para el cumplimiento de sus atribuciones, la Dirección General de Educación y Promoción de los Derechos Humanos contará con:
 
-I. Una Dirección de Educación para la Paz y los Derechos Humanos;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2005)</small>
+I. Una Dirección de Educación y Formación para la Paz y los Derechos Humanos;
 
-II. Una Dirección de Capacitación y Promoción en Derechos Humanos; y
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
+II. Una Dirección de Capacitación y Promoción en Derechos Humanos;
 
 III. (DEROGADA, G.O. 31 DE ENERO DE 2005)
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
 
-IV. El personal profesional, técnico y administrativo necesario que al efecto establezca la o el Presidente para la adecuada realización de sus funciones.
+IV. Una Dirección de Promoción Territorial para el Ejercicio de los Derechos Humanos, y
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
+V. El personal profesional, técnico y administrativo necesario que al efecto establezca la o el Presidente para la adecuada realización de sus funciones.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
@@ -732,11 +746,17 @@ IV. Planear, organizar, dirigir, ejecutar y evaluar los programas de capacitaci�
 
 V. Participar en la realización de actividades y campañas educativas de promoción de derechos humanos;
 
-> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VI. Vincularse con las organizaciones de la sociedad civil, así como con organismos nacionales e internacionales para realizar acciones conjuntas en apoyo a proyectos educativos en derechos humanos, y
+VI. Vincularse con las organizaciones de la sociedad civil, así como con organismos nacionales e internacionales para realizar acciones conjuntas en apoyo a proyectos educativos en derechos humanos;
 
-VII. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VII. Conducir y fortalecer el Centro de Consulta y Documentación de la Comisión, y
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VIII. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
 
 > <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
@@ -772,9 +792,17 @@ XII. Informar a la o el Presidente (a) el estado que guarden los asuntos de su c
 
 XIII. Calificar el cumplimiento de las Recomendaciones y con base en la valoración de las pruebas de cumplimiento aportadas por la autoridad, determinar la conclusión del seguimiento de éstas; haciendo la propuesta respectiva a la o el Presidente;
 
-XIV. Someter a consideración de la o el Presidente el seguimiento de las Recomendaciones que se ubiquen en los supuestos de las fracciones contempladas en el artículo 65 bis de la Ley, y
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XV. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
+XIV. Someter a consideración de la o el Presidente el seguimiento de las Recomendaciones que se ubiquen en los supuestos de las fracciones contempladas en el artículo 65 bis de la Ley;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XV. Solicitar y gestionar por instrucciones de la o el Presidente ante las autoridades competentes en casos urgentes las medidas precautorias, de conservación o de restitución necesarias, u otras acciones, para evitar la consumación irreparable de violaciones a derechos humanos. Las mismas acciones podrán realizarse cuando la naturaleza del caso lo amerite y no se haya iniciado el procedimiento de investigación ante la Comisión, y
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XVI. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2005)</small>
 
@@ -850,7 +878,9 @@ Estas áreas contarán con el personal de apoyo que sea necesario.
 
 La Contraloría Interna tendrá las atribuciones siguientes:
 
-I. Derogada. (sic)
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
+I. Auxiliar a la o el Presidente y al Consejo en el ámbito de su competencia informándoles de las acciones que le sean encomendadas;
 
 II. Vigilar que se establezca un sistema de control interno en materia de programación, presupuestación, administración de recursos humanos, materiales, financieros y patrimoniales, así como revisar su cumplimiento;
 
@@ -879,6 +909,10 @@ XI. Las demás que le confiera el presente Reglamento, la o el Presidente y los 
 ###### ARTÍCULO 43.
 
 El Consejo aprobará las políticas y lineamientos generales, los programas, normas, manuales y procedimientos administrativos internos de la Comisión, mediante acuerdos que serán publicados en el órgano oficial de difusión, cuando así lo determine el propio Consejo.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Así también el Consejo opinará sobre la designación de la o el Titular de la Contraloría Interna a propuesta de la o el Presidente, (sic)
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -1152,13 +1186,11 @@ XVI. Colaborar con la Presidencia en la elaboración de los informes anuales, as
 
 XVII. Vincularse con las instancias públicas y con las organizaciones de la sociedad civil nacional e internacional, a fin de promover el análisis, la reflexión y la concientización de los derechos humanos;
 
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XVIII. Editar, coeditar y distribuir las publicaciones y materiales de la Comisión;
+XVIII. Editar, coeditar y distribuir las publicaciones y materiales de la Comisión, y (sic)
 
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
-
-XIX. Conducir y fortalecer el acervo de la biblioteca, en coordinación con los demás órganos y áreas de la Comisión, y
+XIX. (DEROGADA, G.O. 31 DE DICIEMBRE DE 2008)
 
 > <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2213,3 +2245,9 @@ Las Reformas y Adiciones que se contienen en el Acuerdo del Consejo de la Comisi
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos de investigación y de seguimiento, así como los de Contraloría Interna y del Servicio Profesional en Derechos Humanos, que se hayan iniciado conforme a las disposiciones del Reglamento Interno que se reforma y adiciona, deberán continuar sustanciándose hasta su conclusión, de conformidad con los preceptos de dicho ordenamiento legal.
+
+G.O. 31 DE DICIEMBRE DE 2008.
+
+Artículo primero. Las reformas y adiciones que se contienen en el acuerdo del Consejo de la Comisión de Derechos Humanos del Distrito Federal, aprobado en la sesión ordinaria de fecha 12 de diciembre de 2008, entrarán en vigor al día hábil siguiente de su publicación en la Gaceta Oficial del Distrito Federal derogando las disposiciones que las contravengan.
+
+Artículo segundo. Los procedimientos de investigación y de seguimiento, así como los de Contraloría Interna y del Servicio Profesional en Derechos Humanos, que se hayan iniciado conforme a las disposiciones del Reglamento Interno que se reforma y adiciona, deberán continuar sustanciándose hasta su conclusión, de conformidad con los preceptos de dicho ordenamiento legal.
