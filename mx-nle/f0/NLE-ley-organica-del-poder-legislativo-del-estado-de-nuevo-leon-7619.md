@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2007-12-21"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -839,7 +839,9 @@ V.- Equidad y Género;
 
 VI.- Educación, Cultura y Deporte;
 
-VII.- Ecología;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VII.- Medio Ambiente;
 
 > <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
@@ -1358,3 +1360,7 @@ Artículo Segundo.- A la entrada en vigor del presente Decreto, los expedientes 
 Asimismo los expedientes en trámite actualmente turnados a la Comisión de Justicia y Seguridad Pública cuya materia consista en la reforma, adición o derogación de disposiciones al Código de Procedimientos Civiles del Estado de Nuevo León, serán returnados a la Comisión de Legislación y Puntos Constitucionales.
 
 Los expedientes de las materias que se mencionan en los dos párrafos anteriores que estén turnados en forma unida a otra Comisión distinta a las ya referidas, sólo se hará el returno a la Comisión que corresponda según lo estipulado en el Artículo 39 fracción II inciso j) y fracción III inciso a) del Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León.
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
