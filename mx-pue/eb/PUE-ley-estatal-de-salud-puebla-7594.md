@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2005-01-12"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -101,9 +101,13 @@ IV. La extensión de actividades solidarias y responsables de la población en l
 
 V. El disfrute de servicios de salud y asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
 
-VI. El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud y;
+VI. El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud y (sic);
 
-VII. El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
+VII. El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VIII. El reconocimiento, promoción e investigación de la Medicina Tradicional, como un sistema alternativo y complementario en la atención de la salud de la Medicina Alópata, respetando el patrón cultural y sus costumbres étnicas establecidas.
 
 ###### ARTICULO 3º.
 
@@ -157,7 +161,13 @@ XVII. La participación con las Autoridades Federales en el desarrollo de los pr
 
 XVIII. Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados para su consumo dentro o fuera del mismo establecimiento basándose en la Norma Oficial Mexicana;
 
-XIX. Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XIX. Reconocer, validar y aplicar la práctica de la Medicina Tradicional; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XX. Las demás que establezcan la Ley General de Salud y otras disposiciones aplicables.
 
 B.- En materia de salubridad local:
 
@@ -215,13 +225,21 @@ II. Contribuir al desarrollo demográfico armónico del Estado;
 
 III. Colaborar al bienestar social de la población del Estado mediante servicios de asistencia social, principalmente a menores en estado de abandono, ancianos desamparados y minusválidos, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y lo social;
 
-IV. Dar impulso al bienestar de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IV. Dar impulso al bienestar de la familia y de la comunidad en general, prestando especial atención a la población Indígena, propiciando el desarrollo de sus potencialidades culturales tradicionales; mediante su participación de conformidad con sus valores y organización social; así como a la integración social y al crecimiento físico y mental de la niñez;
 
 V. Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente del Estado, que propicien el desarrollo satisfactorio de la vida;
 
-VI. Impulsar en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud y;
+VI. Impulsar en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud y (sic);
 
-VII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VII. Promover el conocimiento, desarrollo e investigación de la Medicina Tradicional, así como su práctica en condiciones adecuadas en los espacios físicos e infraestructura proporcionados por el Estado en materia de Atención a la Salud, y aquéllos que el Sistema Estatal de Salud reconozca; respetando la dignidad humana y el ejercicio adecuado de los conocimientos específicos en la materia; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VIlI. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección.
 
 ###### ARTICULO 7º.
 
@@ -297,9 +315,11 @@ El Gobierno del Estado, con la participación que corresponda al Comité de Plan
 
 ### CAPITULO II. DISTRIBUCION DE COMPETENCIAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 12.
 
-Corresponde al Gobierno del Estado por conducto de la Secretaría de Salud Pública del Estado:
+Corresponde al Gobierno del Estado por conducto de la Secretaría de Salud:
 
 A. En materia de salubridad general:
 
@@ -336,6 +356,22 @@ VI. Vigilar, en la esfera de su competencia, el cumplimiento de ésta Ley y dem�
 VII. Promover la creación de Comités de Bioética, cuya integración y funcionamiento se regirá por las disposiciones reglamentarias que se expidan
 
 VIII. Las demás que establezca ésta Ley y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+C. En coordinación con Dependencias y Entidades Federales, Estatales y Municipales:
+
+I. Realizar campañas permanentes a favor de una alimentación saludable, en la que se destaquen los beneficios que se obtienen al tener una dieta balanceada, buscando erradicar el consumo de alimentos que no contengan un alto valor nutricional;
+
+II. Fomentar una cultura de salud y nutrición entre los integrantes de la comunidad escolar, destacando los beneficios obtenidos del ejercicio, destacando los beneficios obtenidos del ejercicio físico;
+
+III. Fomentar actitudes solidarias entre educandos para crear conciencia sobre la preservación de la salud, nutrición e higiene difundiéndolas entre las familias de aquéllos;
+
+IV. Fomentar la educación física aeróbica con el propósito de prevenir la obesidad infantil y juvenil, así como promover la adquisición de hábitos de alimentación e higiene, destacando las consecuencias directamente proporcionales a la vida sana y longevidad;
+
+V. Coordinar con las autoridades educativas la implementación de un programa de registro de peso y talla de los educandos que tengan tendencias a la obesidad o que estén desnutridos; lo que se hará del conocimiento de los padres para lo que corresponda; y
+
+VI. Emitir un listado de productos con bajo o nulo valor nutricional, así como aquéllos que causen daño directo e inmediato a la salud, manteniéndolo actualizado y difundirlo a través de las autoridades educativas de la Entidad, así como difundir los resultados que se alcancen entre los padres de familia.
 
 ###### ARTICULO 13.
 
@@ -455,9 +491,9 @@ VIII. La disponibilidad de medicamentos y otros insumos esenciales para la salud
 
 IX. La promoción del mejoramiento de la nutrición;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-X. La asistencia social a los grupos más vulnerables;
+X. La asistencia a los grupos más vulnerables y con mayor atención a las comunidades indígenas que se encuentran en zonas de difícil acceso y mayor marginación;
 
 XI. La salud en el trabajo o laboral.
 
@@ -573,6 +609,10 @@ La Secretaría de Salud Pública del Estado, establecerá los procedimientos par
 
 Las autoridades sanitarias en el Estado y las propias instituciones de salud, establecerán sistemas de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran, así como mecanismos para que presenten sus quejas, reclamaciones y sugerencias respecto a la prestación de los servicios de salud y en relación a la falta de probidad, en su caso, de los servidores públicos.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+En las poblaciones o comunidades indígenas, las autoridades sanitarias brindarán asesoría y en su caso la orientación en español y en la lengua o lenguas de uso en la región o comunidad.
+
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 48.
@@ -605,11 +645,27 @@ VI. Información a las autoridades competentes de las irregularidades o deficien
 
 VII. Otras actividades que coadyuven a la protección de la salud.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 52.
 
-La Secretaría de Salud y demás Instituciones de Salud, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, entre los que se encuentran los de prevención al maltrato infantil, violencia intrafamiliar, enfermedades y accidentes, discapacitados y rehabilitación de inválidos.
+La Secretaría de Salud y demás instituciones de salud promoverán y apoyarán:
+
+I.- La constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, entre los que se encuentran los de prevención al maltrato infantil, violencia familiar, enfermedades y accidentes que provoquen discapacidad, así como su atención, tratamiento y en su caso rehabilitación; y
+
+II.- Mecanismos que garanticen el desarrollo de la Medicina Tradicional, así como propiciar el financiamiento y asistencia técnica para que realicen investigaciones sobre Medicina Tradicional y las tecnologías que le apliquen.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 52 BIS.- Para los efectos de esta Ley se define como Medicina Tradicional al conjunto de sistemas de atención a la salud, que es la suma total de conocimientos, habilidades y prácticas basadas en teorías, creencias y experiencias oriundas de las diferentes culturas indígenas en nuestro Estado, sean o no explicables, y usados en el mantenimiento y mejora de la salud, así como en la prevención, diagnosis o tratamiento de las enfermedades físicas o mentales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 52 TER.- Los Servicios de Salud del Estado de Puebla, contarán dentro de su estructura, con un área para promover e impulsar la investigación de la Medicina Tradicional, con la participación de las instituciones públicas que tengan por objeto, entre otras cosas, su estudio e investigación y de los profesionales de la salud, así como de los practicantes, terapeutas tradicionales y agrupaciones civiles organizadas con este objeto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 52 QUÁTER.- Ninguna persona, o agrupación, que se dedique a la práctica de la Medicina Tradicional a que se refiere esta Ley, podrá ser obligada a pertenecer a alguna asociación de esta naturaleza, pero serán responsables ante las autoridades competentes, de las prácticas o métodos que apliquen.
 
 ###### ARTICULO 53.
 
@@ -824,6 +880,10 @@ Las Autoridades Sanitarias de la Entidad, y con la participación de las Institu
 Las autoridades educativas, en coordinación con las autoridades sanitarias estatales y con la participación de las instituciones de educación superior, recomendarán normas y criterios para la formación de recursos humanos para la salud.
 
 Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las Instituciones de Salud, establecerán las normas y criterios para la capacitación y actualización de los recursos humanos para la salud.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+De la misma manera fortalecerán la capacitación y formación de recursos humanos en beneficio de la Medicina Tradicional.
 
 ###### ARTICULO 81.
 
@@ -2876,3 +2936,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
