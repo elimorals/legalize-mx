@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-22690"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-01"
-last_updated: "2007-10-01"
+last_updated: "2008-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22690&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de enero de 2002.
 
@@ -2658,7 +2658,9 @@ VII. Sociedades cooperativas de consumo.
 
 VIII. Organismos que conforme a la Ley agrupen a las sociedades cooperativas, ya sea de productores o de consumidores.
 
-IX. Sociedades mutualistas que no operen con terceros, siempre que no realicen gastos para la adquisición de negocios, tales como premios, comisiones y otros semejantes.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2008)</small>
+
+IX. Sociedades mutualistas y Fondos de Aseguramiento Agropecuario y Rural, que no operen con terceros, siempre que no realicen gastos para la adquisición de negocios, tales como premios, comisiones y otros semejantes.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -7643,3 +7645,7 @@ i) Entreguen, en su caso, en efectivo el subsidio para el empleo, en los casos a
 ## TRANSITORIO
 
 Único. El presente Decreto entrará en vigor a partir del 1 de enero de 2008, salvo la reforma al artículo 109, fracción XXVI de la Ley del Impuesto sobre la Renta, la cual entrará en vigor al día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 2008.
+
+Único. El presente decreto entrará en vigor el 1o. de enero de 2009.
