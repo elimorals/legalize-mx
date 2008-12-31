@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-del-servicio-profesional-en-derechos-humanos-de-la-428
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-01-31"
-last_updated: "2007-12-12"
+last_updated: "2008-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42838&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-10-12"
 
 ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE DICIEMBRE DE 2008.
 
 Estatuto publicado en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 31 de enero de 2005.
 
@@ -322,7 +322,9 @@ XIII. Conocer los resultados de sus evaluaciones y exámenes, previstos en este 
 
 XIV. Conocer las razones para el otorgamiento o negación de incentivos, en los términos señalados por este Estatuto y el Manual;
 
-XV. Interponer recursos de inconformidad y de revisión ante las instancias competentes conforme a lo establecido por este Estatuto; y
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XV. Solicitar la revisión de los resultados obtenidos en los concursos de oposición y los cursos de capacitación y selección para acceder a puestos de mayor jerarquía; de los resultados obtenidos del programa y de los resultados obtenidos en la evaluación del desempeño, así como por la negativa de un incentivo, y en su caso interponer recursos de inconformidad y de revisión ante las instancias competentes conforme a lo establecido por este Estatuto; y
 
 XVI. Las demás que se deriven de la Ley y del presente Estatuto.
 
@@ -424,9 +426,11 @@ La Dirección General deberá dar a conocer los resultados de los concursos de o
 
 El Personal Profesional podrá ser readscrito a un cargo o puesto equivalente dentro del Catálogo, de acuerdo a las necesidades del Servicio o por solicitud propia del Miembro del Servicio, aprobada en su caso por la Dirección General. En ningún caso podrán efectuarse readscripciones que impliquen un ascenso en la jerarquía de los cargos o puestos.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 36o.
 
-El Estatuto y el Manual establecerán las modalidades y los términos para que el Personal Profesional pueda solicitar la revisión de los resultados obtenidos en el concurso de oposición o en el curso de capacitación y selección; y garantizarán una respuesta sobre dicha revisión.
+El Personal Profesional puede solicitar la revisión de los resultados obtenidos en el concurso de oposición o en el curso de capacitación y selección. El Manual establecerá las modalidades y los términos para que el Personal Profesional ejerza este derecho, garantizándose una respuesta sobre dicha revisión.
 
 ### CAPÍTULO SEGUNDO. Formación Profesional
 
@@ -462,17 +466,23 @@ El Manual y el Programa, en sus respectivos términos, establecerán los lineami
 
 La acreditación de los exámenes es un elemento indispensable para la permanencia del Personal Profesional. En caso de no aprobar los exámenes de conocimientos del Programa, en los términos señalados en el artículo anterior, el Miembro del Servicio será destituido del cargo y puesto, aplicándosele el procedimiento disciplinario.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 41o.
 
-El Personal Profesional tendrá derecho a conocer, en términos generales los contenidos de los cursos y las guías de los exámenes que le serán aplicados para aprobar las materias del Programa con al menos un mes de antelación, así como a conocer sus resultados de manera confidencial y, en su caso, solicitar la revisión de los exámenes de forma individual.
+El Personal Profesional tendrá derecho a conocer, en términos generales los contenidos de los cursos y las guías de los exámenes que le serán aplicados para aprobar las materias del Programa con al menos un mes de antelación, así como a conocer sus resultados de manera confidencial y, en su caso, solicitar la revisión de los resultados obtenidos en los exámenes de forma individual.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 42o.
 
-El Estatuto y el Manual establecerán las modalidades y los términos para que el Personal Profesional pueda solicitar la revisión por los resultados obtenidos en los exámenes del Programa; y garantizarán una respuesta sobre dicha revisión.
+El Manual establecerá las modalidades y los términos para que el Personal Profesional pueda solicitar la revisión por los resultados obtenidos en los exámenes del Programa; y se garantizará una respuesta sobre dicha revisión.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 43o.
 
-Las calificaciones obtenidas por el Personal Profesional en los exámenes de conocimientos del Programa serán consideradas para el puntaje adicional al que tiene derecho para participar en los concursos de oposición, en los términos señalados en el Manual.
+Las calificaciones obtenidas por el Personal Profesional en los exámenes de conocimientos del Programa serán consideradas para el puntaje adicional al que tiene derecho para participar en los concursos de oposición, así como para recibir incentivos anuales en función de la disponibilidad presupuestal de la Comisión, previa autorización de la Dirección General, en los términos señalados en el Manual.
 
 ### CAPÍTULO TERCERO. Evaluación del Desempeño
 
@@ -492,7 +502,9 @@ III. En caso que el responsable de evaluar se retire de su empleo por cualquier 
 
 IV. La evaluación del desempeño se realizará mediante cédulas especiales, diseñadas por la Dirección General y permitirán valorar los factores o dimensiones del trabajo realizado por el Personal Profesional, conforme se establezca en el Manual;
 
-V. La o el evaluador será responsable de documentar y registrar todos aquellos elementos que le permitan sustentar la evaluación del desempeño del o la Miembro del Servicio;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
+V. La o el evaluador será responsable de documentar y registrar todos aquellos elementos que le permitan sustentar la evaluación del desempeño de la o el Miembro del Servicio; a su vez, podrá realizar al menos ejercicios semestrales de retroalimentación con la persona evaluada, a fin de clarificar los criterios de su evaluación y darle a conocer el avance de su desempeño en el periodo;
 
 VI. La elaboración de los indicadores que servirán para evaluar los factores de desempeño señalados se basará en las definiciones que aparecen en el Manual;
 
@@ -522,9 +534,11 @@ La acreditación de la evaluación del desempeño es un elemento indispensable p
 
 En caso de que un Miembro del Servicio realice aportaciones institucionales extraordinarias, se le otorgará un puntaje adicional de acuerdo a lo dispuesto en la Evaluación Anual del Desempeño del Personal Profesional.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 50o.
 
-El Estatuto y el Manual establecerán las modalidades y los términos para que el Personal Profesional pueda solicitar la revisión por los resultados obtenidos en la evaluación del desempeño; y garantizarán una respuesta sobre dicha revisión.
+El Manual establecerá las modalidades y los términos para que el Personal Profesional pueda solicitar la revisión por los resultados obtenidos en la evaluación del desempeño; y se garantizará una respuesta sobre dicha revisión.
 
 ###### Artículo 51o.
 
@@ -544,9 +558,11 @@ V. Identificar medidas institucionales correctivas, de conformidad con las neces
 
 VI. Otros fines institucionales.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 52o.
 
-El Personal Profesional que haya obtenido los cinco resultados más altos en el proceso de evaluación del desempeño recibirá estímulos anuales, en función de la disponibilidad presupuestal de la Comisión, previa autorización de la Dirección General.
+El Personal Profesional que haya obtenido los cinco resultados más altos al considerar las calificaciones obtenidas tanto en el proceso de evaluación del desempeño como en los exámenes de conocimientos del Programa, los cuales deberán haberse acreditado en la primera oportunidad, recibirá incentivos anuales, en función de la disponibilidad presupuestal de la Comisión, previa autorización de la Dirección General, quién emitirá un dictamen fundado y motivado.
 
 ### CAPÍTULO CUARTO. Incentivos
 
@@ -558,11 +574,13 @@ El proceso de incentivos es el conjunto de procedimientos destinados a reconocer
 
 El Manual establecerá los términos y las modalidades del proceso de incentivos del Personal Profesional, conforme a las siguientes consideraciones generales:
 
-I. El Personal Profesional que obtenga los cinco más altos resultados de la evaluación anual del desempeño se hará merecedor de un incentivo, conforme a los parámetros establecidos por la Dirección General y la disponibilidad presupuestal de la Comisión lo permita;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
+I. El Personal Profesional que obtenga los cinco resultados más altos al considerar las calificaciones obtenidas tanto en el proceso de evaluación del desempeño como en los exámenes de conocimientos del Programa, los cuales deberán haberse acreditado en la primera oportunidad, conforme a los parámetros establecidos por la Dirección General y la disponibilidad presupuestal de la Comisión lo permita;
 
 II. El Personal Profesional que durante dos años consecutivos obtenga resultados mínimos de 95 puntos, en una escala de 0 a 100, en la evaluación anual del desempeño, se hará merecedor de un reconocimiento y de un incentivo que fijará la Dirección General, conforme la disponibilidad presupuestal de la Comisión lo permita. Este incentivo se mantendrá vigente en los años sucesivos, si el Miembro del Servicio mantiene resultados mínimos de 95 puntos;
 
-III. El Personal Profesional que obtenga las cinco calificaciones más altas en las fases de formación básica, profesional y especializada del Programa se hará merecedor de un incentivo, conforme a los parámetros establecidos por la Dirección General y las (sic) disponibilidad presupuestal de la Comisión lo permita;
+III. (DEROGADA, G.O. 31 DE DICIEMBRE DE 2008)
 
 IV. El Personal Profesional que haya aprobado las fases de formación básica, profesional y especializada del Programa en la primera oportunidad, con calificaciones mínimas de 95 puntos, en una escala de 0 a 100, se hará merecedor de un reconocimiento y de un incentivo, conforme a los parámetros establecidos por la Dirección General y la disponibilidad presupuestal de la Comisión lo permita;
 
@@ -574,13 +592,19 @@ VI. En función de las necesidades del Servicio, y tomando en cuenta las posibil
 
 El Manual establecerá las modalidades específicas a las que se ceñirá el otorgamiento de los incentivos señalados en el artículo anterior. En todo caso, la Comisión dará a conocer dichas modalidades con antelación a cada ejercicio anual.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 56o.
 
-El Estatuto y el Manual establecerán las modalidades y los términos para que el Personal Profesional pueda solicitar la revisión por la negativa de un incentivo; y garantizarán una respuesta sobre dicha revisión.
+El Manual establecerá las modalidades y los términos para que el Personal Profesional pueda solicitar la revisión por la negativa de un incentivo; y garantizarán una respuesta sobre dicha revisión.
 
-## TÍTULO TERCERO. Del Recurso de Inconformidad y del Procedimiento Disciplinario
+> <small>(REFORMADA SU DENOMINACION, G.O. 31 DE DICIEMBRE DE 2008)</small>
 
-### CAPÍTULO PRIMERO. Del Recurso de Inconformidad
+## TÍTULO TERCERO. Del Recurso de Inconformidad y del Procedimiento Disciplinario y de sus revisiones
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
+### CAPÍTULO PRIMERO. Del Recurso de Inconformidad y de su Revisión
 
 > <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2007)</small>
 
@@ -596,7 +620,9 @@ II. Por correo certificado con acuse de recibo, a partir del día hábil siguien
 
 III. Por estrados, a partir del día hábil siguiente en que se efectuó la publicación. Este tipo de notificaciones se realizará cuando no se señale domicilio, cuando se señale fuera del Distrito Federal o área metropolitana, o bien, para dar publicidad a los actos procedimentales.
 
-Para tal efecto se estará a lo dispuesto en el presente Estatuto y en el Manual; en lo no previsto, siempre y cuando no se contravengan estas disposiciones, se aplicará en forma supletoria la Ley Federal de los Trabajadores al Servicio del Estado, la Ley Federal del Trabajo, el Código de Procedimientos Civiles para el Distrito Federal y los Principios Generales de Derecho, en ese orden.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
+En lo no previsto en el presente Estatuto y en el Manual; siempre y cuando no se contravengan estas disposiciones, se aplicará en forma supletoria la Ley Federal de los Trabajadores al Servicio del Estado, la Ley Federal del Trabajo, el Código de Procedimientos Civiles para el Distrito Federal y los Principios Generales de Derecho, en ese orden.
 
 ###### Artículo 58o.
 
@@ -664,7 +690,9 @@ II. Se deberá notificar el acuerdo en un término de 3 días hábiles;
 
 III. La Dirección General resolverá dentro de los 10 días hábiles siguientes; pudiendo allegarse de los elementos documentales que considere necesarios para generar su convicción e incluso podrá requerir a los órganos y áreas de apoyo de la Comisión las constancias correspondientes; y
 
-IV. La resolución deberá ser notificada al Miembro del Servicio personalmente o por correo certificado con acuse de recibo, dentro de los 5 días hábiles siguientes contados a partir de la fecha en que se haya dictado la resolución, la cual se hará del conocimiento del Presidente.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IV. La resolución deberá ser notificada al Miembro del Servicio dentro de los 5 días hábiles siguientes contados a partir de la fecha en que se haya dictado la resolución, la cual se hará del conocimiento del Presidente.
 
 ###### Artículo 65o.
 
@@ -680,21 +708,27 @@ a. El recurso deberá presentarse dentro del término de 2 días hábiles, conta
 
 b. Asuntos Jurídicos, una vez que reciba el recurso, requerirá el envío de las constancias que integran el expediente a la Dirección General; y ésta tendrá la obligación de remitirlo en un término de 3 días hábiles;
 
-c. Asuntos Jurídicos emitirá su resolución dentro de un término de 5 días hábiles, contado a partir de la recepción del expediente, siendo su decisión inapelable; y
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
+c) Asuntos Jurídicos emitirá su resolución dentro de un término de 10 días hábiles, contado a partir de la recepción del expediente, siendo su decisión inapelable;
+
+La resolución deberá ser notificada al Miembro del Servicio dentro de los 5 días hábiles siguientes contados a partir de la fecha en que se haya dictado la resolución, la cual se hará del conocimiento del Presidente; y
 
 d. Para el caso de desechamiento y sobreseimiento del recurso, se aplicarán los supuestos normativos a que se refieren los artículos 62o. y 63o. de este Estatuto.
 
-### CAPÍTULO SEGUNDO. Del Procedimiento Disciplinario
+> <small>(REFORMADA SU DENOMINACION, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
+### CAPÍTULO SEGUNDO. Del Procedimiento Disciplinario y de su revisión
 
 ###### Artículo 67o.
 
 El procedimiento disciplinario es la secuencia de actos tendientes a resolver si ha lugar o no a la imposición de alguna sanción, conforme a lo dispuesto en este Estatuto, el Manual y demás normatividad aplicable; dicho procedimiento se apegará invariablemente a los principios de certeza, objetividad, imparcialidad, equidad y legalidad, respetando en todo momento, el derecho de audiencia del Personal Profesional.
 
-> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 68o.
 
-Las responsabilidades y sanciones administrativas que se desprendan del incumplimiento al presente Estatuto, relacionadas con la evaluación anual del desempeño y aprovechamiento del Programa, se determinarán de acuerdo con los principios y obligaciones que establece el presente Estatuto.
+Las responsabilidades y sanciones administrativas que se desprendan del incumplimiento al presente Estatuto, relacionadas con la evaluación anual del desempeño y aprovechamiento del Programa, se determinarán de acuerdo con los principios y obligaciones que establece el presente Estatuto y estarán a cargo de la Dirección General.
 
 ###### Artículo 69o.
 
@@ -943,3 +977,9 @@ Las Reformas y Adiciones que se contienen en el Acuerdo del Consejo de la Comisi
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos del Servicio Profesional en Derechos Humanos, que se hayan iniciado conforme a las disposiciones del Estatuto del Servicio Profesional en Derechos Humanos que se reforma y adiciona, deberán continuar sustanciándose hasta su conclusión, de conformidad con los preceptos de dicho ordenamiento legal.
+
+G.O. 31 DE DICIEMBRE DE 2008.
+
+Artículo primero. Las reformas y adiciones que se contienen en el Acuerdo del Consejo de la Comisión de Derechos Humanos del Distrito Federal, aprobado en sesión ordinaria de fecha 12 de diciembre de 2008, entrarán en vigor al día hábil siguiente de su publicación en la Gaceta Oficial del Distrito Federal, derogando las disposiciones que las contravengan.
+
+Artículo segundo. Los procedimientos del Servicio Profesional en Derechos Humanos que se hayan iniciado conforme a las disposiciones del Estatuto del Servicio Profesional en Derechos Humanos y Manual de Procedimientos Específicos del Servicio Profesional en Derechos Humanos que se reforman y adicionan, deberán continuar sustanciándose hasta su conclusión, de conformidad con los preceptos de dicho ordenamiento legal.
