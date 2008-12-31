@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-justicia-administrativa-para-el-estado-y-municipios-1063
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2007-11-02"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 1997.
 
@@ -289,9 +289,9 @@ III.- Desahogar las diligencias que se les encomiende;
 
 IV.- Levantar las actas de las audiencias en las que corresponde dar cuenta y autorizar las resoluciones que recaigan en los expedientes;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-V.- Expedir copias certificadas de las constancias que obren en los expedientes, lo anterior con excepción de los casos en que la Ley de Acceso a la Información Pública obliga a la autoridad a negar el acceso público a la información, en los cuales sólo las partes legitimadas o quienes ellas autoricen podrán consultar y obtener copias de los expedientes; y
+V.- Expedir copias certificadas de las constancias que obren en los expedientes, lo anterior con excepción de los casos en que la Ley de Transparencia y de Acceso a la Información obliga a la autoridad a negar el acceso público a la información, en los cuales sólo las partes legitimadas o quienes ellas autoricen podrán consultar y obtener copias de los expedientes; y
 
 VI.- Las demás que le atribuyan las disposiciones legales aplicables, o disponga el Presidente del Tribunal.
 
@@ -1036,3 +1036,7 @@ P.O. 2 DE NOVIEMBRE DE 2007.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Los procedimientos actualmente en trámite en el Tribunal de lo Contencioso Administrativo, que sustenten la competencia de éste en la disposición que se deroga mediante el presente Decreto, continuarán su desahogo hasta su total resolución en dicho Tribunal.
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
