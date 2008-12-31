@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2008-03-31"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO -- ANTES CONSTITUCION POLITICA DEL ESTADO DE QUERETARO -- ANTES CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO --
 
-CONSTITUCÍON POLÍTICA DEL ESTADO DE QUERÉTARO
+CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -31,7 +31,7 @@ ERNESTO PERUSQUIA, Gobernador Constitucional del Estado Libre y Soberano de Quer
 
 EL CONGRESO CONSTITUYENTE DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, acatando lo dispuesto por el decreto de 22 de marzo del corriente año, y acuerdo de 26 del mismo, dados por el C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Unión, y en cumplimiento del artículo 13 del Decreto de 27 de marzo del propio año, que expidió el Gobernador Provisional del Estado, ha tenido a bien decretar la siguiente:
 
-> <small>N. DE E. DE CONFORMIDAD CON LO SEÑALADO POR LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, DERIVADO DE LOS TRABAJOS REALIZADOS, ESTIMO PERTINENTE DEROGAR LOS ARTÍCULOS 7, 8, 21. 22, 27, 42, 43, 44, 45, 46, 51, 55, 60, 74, 75, 76, 77, 83, 84, 85, 86, 87, 88 Y 90; REFORMAR LOS ARTÍCULOS 1, 2, 3, 4, 5, 6, 9, 10, 11, 12, 13, 14, 15, 16, 17,18, 19, 20, 23, 24, 25, 26, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 47, 48, 49, 50, 52, 53, 54, 56, 57, 58, 59, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 78, 79, 80, 81, 82, 89, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 105, ASI COMO LA DENOMINACIÓN DE LOS TÍTULOS Y CAPÍTULOS; Y CONSERVAR EN SUS TÉRMINOS EL CONTENIDO DE LOS ARTÍCULOS 61 Y 104 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA, REORDENANDO Y REENUMERANDO LOS ARTÍCULOS, LOS TÍTULOS Y CAPÍTULOS CONSERVADOS Y LOS REFORMADOS; MOTIVO POR EL CUAL SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 31 DE MARZO DE 2008.</small>
+> <small>N. DE E. LAS REFORMAS APROBADAS EN LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO, MODIFICAN DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DE LA CONSTITUCIÓN, DANDO COMO RESULTADO UN TEXTO DIFERENTE, Y SI BIEN, DIVERSOS ARTÍCULOS QUEDARON INTACTOS, SE DEJA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. 31 DE DICIEMBRE DE 2008.</small>
 
 > <small>(REFORMADA, P.O.31 DE MARZO DE 2008)</small>
 
@@ -45,7 +45,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
 ### Capítulo Único. Derechos Fundamentales
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 1.
 
@@ -53,7 +53,7 @@ El Estado de Querétaro es parte integrante de la Federación Mexicana, es libre
 
 Son ley suprema en la entidad, las disposiciones que establezcan la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 2.
 
@@ -65,7 +65,7 @@ Tiene derecho además de estar informada y de manifestar libremente sus ideas si
 
 Las autoridades del Estado salvaguardarán el régimen de los derechos y las libertades de todas las personas por el sólo hecho de encontrarse en el territorio estatal. Los derechos fundamentales no podrán ser limitados o restringidos; en su interpretación se resolverá siempre a favor del gobernado.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 3.
 
@@ -77,7 +77,7 @@ Se reconoce el derecho a la práctica del deporte para alcanzar una mejor calida
 
 En el Estado se reconoce la presencia de sus pueblos y comunidades indígenas, admitiendo que fueron la base para su conformación política y territorial; garantizará que la riqueza de sus costumbres y tradiciones; territorio, lengua y patrimonio cultural, medicina tradicional y acceso a recursos naturales, así como su autonomía, libre determinación, sistemas normativos y el acceso a la consulta, sean preservados y reconocidos a través de la ley respectiva.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 4.
 
@@ -85,11 +85,11 @@ La educación que se imparta en el Estado, promoverá el conocimiento de su geog
 
 El Sistema Educativo Estatal estará orientado a exaltar los valores universales cívicos y democráticos del hombre; a fomentar el trabajo productivo para una convivencia social armónica y promover el desarrollo de la ciencia, la tecnología y la innovación. Se reconoce la autonomía de la universidad pública en los términos que la ley establezca. Se promoverá y se atenderá la educación superior necesaria para el desarrollo del Estado, destinando el subsidio suficiente y oportuno para el cumplimiento eficaz de sus fines.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 5.
 
-Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bienestar integral: es obligación de las autoridades y de los habitantes protegerlo.
+Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bienestar integral; es obligación de las autoridades y de los habitantes protegerlo.
 
 La protección, la conservación, la restauración y la sustentabilidad de los recursos naturales serán tareas prioritarias del Estado.
 
@@ -107,7 +107,7 @@ La cultura de los queretanos constituye un bien irrenunciable y un derecho funda
 
 ### Capítulo Primero. Soberanía del Estado
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 7.
 
@@ -117,7 +117,7 @@ Los ciudadanos ejercerán sus derechos políticos electorales a través de los p
 
 La ley regulará las figuras de participación ciudadana.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 8.
 
@@ -139,7 +139,7 @@ VI. No ser ministro de algún culto.
 
 Se pierde el derecho a ser votado para cargos de elección popular en el Estado, por residir más de tres años consecutivos fuera del mismo, salvo en los casos de estudios y de empleo fuera de Querétaro, cargo o comisión gubernamental, así como en el caso de queretanos migrantes al extranjero que se hubieren reintegrado a su domicilio, por lo menos seis meses antes del día de la elección y se acredite que su familia haya permanecido en el Estado durante su ausencia.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 9.
 
@@ -149,7 +149,7 @@ Los diputados bajo ninguna circunstancia podrán ser reconvenidos, ni enjuiciado
 
 ### Capítulo Segundo. Territorio del Estado
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 10.
 
@@ -157,7 +157,7 @@ El Estado de Querétaro es parte integrante de la Federación Mexicana, libre y 
 
 La ciudad de Santiago de Querétaro, será la capital del Estado y el Municipio de Querétaro la residencia oficial de los Poderes del Estado.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 11.
 
@@ -171,7 +171,7 @@ Los municipios tendrán la denominación, cabecera municipal, límites y extensi
 
 ### Capítulo Tercero. Población
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 12.
 
@@ -185,9 +185,7 @@ Son queretanos los nacidos y los avecindados en el territorio del Estado.
 
 #### Sección Primera. Gobierno del Estado
 
-> <small>N. DE E. EN RELACION CON LOS EFECTOS DEL PRESENTE ARTICULO, VER ARTICULO TERCERO TRANSITORIO DE LA REFORMA QUE MODIFICA LA CONSTITUCION.</small>
-
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 13.
 
@@ -197,7 +195,7 @@ No podrá ejercerse más de una de estas funciones por una persona o grupo de pe
 
 Los Poderes reconocidos por esta Constitución, en su conjunto, conforman al Gobierno del Estado.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 14.
 
@@ -211,17 +209,17 @@ Sólo podrán contratarse empréstitos cuando se destinen a inversiones pública
 
 La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa, error judicial, funcionamiento irregular o por la ilegal privación de su libertad, se causen en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 15.
 
-Cuando se declaren desaparecidos los Poderes, será Gobernador provisional, por ministerio de ley, el último Presidente de la Legislatura anterior a la desaparecida, a falta de éste, en orden regresivo y de prelación, los Presidentes anteriores. El Instituto Electoral de Querétaro emitirá convocatoria a elecciones para Gobernador del Estado y diputados a la Legislatura, en un plazo no mayor a quince días naturales; de no ocurrir así, la convocatoria será expedida por el Gobernador provisional en un plazo igual tomando las provisiones necesarias para realizarlas.
+Cuando se declaren desaparecidos los Poderes, será Gobernador provisional, por ministerio de ley, el último Presidente de la Legislatura anterior a la desaparecida, a falta de éste, en orden regresivo y de prelación, los Presidentes anteriores. El Instituto Electoral de Querétaro emitirá convocatoria a elecciones para Gobernador del Estado y diputados a la Legislatura, en un plazo no mayor a quince días naturales; de no ocurrir así, la convocatoria será expedida por el Gobernador provisional en un plazo igual, tomando las provisiones necesarias para realizarlas.
 
 > <small>(ADICIONADA, P. O. 31 DE MARZO DE 2008)</small>
 
 #### Sección Segunda. Poder Legislativo
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 16.
 
@@ -231,11 +229,11 @@ Los diputados tienen la misma categoría e iguales derechos y obligaciones.
 
 La Legislatura del Estado se instalará el 26 de septiembre del año que corresponda, con la concurrencia de los diputados electos que se presenten; el funcionamiento y demás disposiciones necesarias para el ejercicio de la función legislativa se establecerán en la ley.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 17.
 
-Son facultades de la legislatura:
+Son facultades de la Legislatura:
 
 I. Expedir su ley orgánica y los reglamentos que requiera;
 
@@ -269,11 +267,11 @@ XV. Llamar a los suplentes ante la falta absoluta de los diputados; cuando la fa
 
 XVI. Citar a comparecer a los servidores públicos o funcionarios de las dependencias, organismos del Ejecutivo, del Judicial, de los Municipios, de las entidades paraestatales, organismos autónomos y cualquier otra entidad pública;
 
-XVII. Por acuerdo de las dos terceras partes de sus miembros, ratificar los arreglos o convenios de límites territoriales concertados entre los ayuntamientos a los que el titular del Ejecutivo celebre con los de otros Estados, y en su caso, someterlos a la ratificación en los términos de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos;
+XVII. Por acuerdo de las dos terceras partes de sus miembros, ratificar los arreglos o convenios de límites territoriales concertados entre los ayuntamientos o los que el titular del Ejecutivo celebre con los de otros Estados, y en su caso, someterlos a la ratificación en los términos de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos;
 
 XVIII. Todas las demás que la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes le otorguen.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 18.
 
@@ -293,15 +291,15 @@ VI. A los ciudadanos en los términos previstos en la Ley.
 
 Las iniciativas de Ley de Ingresos y de Presupuesto de Egresos del Estado sólo podrán ser presentadas por el Gobernador del Estado.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 19.
 
 La Legislatura del Estado, para la interpretación, creación, reforma, derogación o abrogación de leyes y decretos, deberá observar la ley y reglamentos correspondientes, los cuales se sujetarán a lo siguiente:
 
-l. Las iniciativas de ley, de decreto, de acuerdo; los dictámenes y las resoluciones, se harán del conocimiento del Pleno;
+I. Las iniciativas de ley, de decreto, de acuerdo; los dictámenes y las resoluciones, se harán del conocimiento del Pleno;
 
-lI. Las Comisiones, respecto de las iniciativas, emitirán dictamen que proponga: ser aprobadas en sus términos o con modificaciones, o bien, ser rechazadas. En ningún caso se podrá dispensar su dictamen;
+II. Las Comisiones, respecto de las iniciativas, emitirán dictamen que proponga: ser aprobadas en sus términos o con modificaciones, o bien, ser rechazadas. En ningún caso se podrá dispensar su dictamen;
 
 III. Se podrá invitar a participar en los debates al autor de la iniciativa;
 
@@ -319,7 +317,7 @@ c. Se trate de la Ley Orgánica del Poder Legislativo y las disposiciones reglam
 
 d. Las reformas aprobadas por el Constituyente Permanente.
 
-VII Si la Legislatura al resolver sobre un proyecto observado, presentara un proyecto alternativo, a éste se le dará tratamiento de proyecto enviado para su publicación por primera vez;
+VII. Si la Legislatura al resolver sobre un proyecto observado, presentara un proyecto alternativo, a éste se le dará tratamiento de proyecto enviado para su publicación por primera vez;
 
 VIII. Si el titular del Poder Ejecutivo no devuelve con observaciones el proyecto aprobado, deberá publicarlo en un lapso de treinta días naturales siguientes a su recepción. En caso de no hacerlo, la Legislatura del Estado lo publicará.
 
@@ -329,7 +327,7 @@ IX. Si la ley, decreto o acuerdo no señala el día en el que deba comenzar a ob
 
 #### Sección Tercera. Poder Ejecutivo
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 20.
 
@@ -339,7 +337,7 @@ La declaración del Gobernador electo se hará por el Consejo General del Instit
 
 El Gobernador del Estado se auxiliará de las Dependencias y Entidades que señale la ley. Nombrará un Secretario de Gobierno que será además responsable de las relaciones con el Poder Legislativo, para lo cual podrá estar presente en las sesiones de la Legislatura del Estado; asistirá a éstas, comparecerá cuando sea requerido y rendirá los informes que la propia Legislatura le solicite.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 21.
 
@@ -357,7 +355,7 @@ V. Cuando la falta absoluta ocurriera en los últimos tres años del período re
 
 VI. Si al iniciar el período constitucional no se presentara el Gobernador electo o la elección no estuviera hecha o declarada, cesarán las funciones del Gobernador cuyo período haya concluido y se elegirá al Gobernador Interino, procediéndose conforme a la fracción IV de este artículo.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 22.
 
@@ -377,11 +375,9 @@ VI. Conceder indultos;
 
 VII. Contratar empréstitos y garantizar las obligaciones que de ellos se deriven en los términos de la ley respectiva y, en su caso, con la autorización previa de la Legislatura;
 
-VlIl. Expedir decretos y acuerdos de carácter administrativo para la eficaz prestación de los servicios públicos y otorgar concesiones a los particulares para este mismo efecto;
+VIII. Expedir decretos y acuerdos de carácter administrativo para la eficaz prestación de los servicios públicos y otorgar concesiones a los particulares para este mismo efecto;
 
 IX. Celebrar convenios con la Federación, con otros Estados, con los Municipios y con particulares para el mejor cumplimiento de sus atribuciones y cuando el desarrollo económico y social lo haga necesario;
-
-> <small>N. DE E. EN RELACION CON LOS EFECTOS DE LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA REFORMA QUE MODIFICA LA CONSTITUCION.</small>
 
 X. Rendir ante la legislatura durante el mes de febrero de cada año, un informe del estado general que guarda la administración pública en los términos que la ley señala. Tratándose del último año de la administración, entregará un informe por escrito de la gestión realizada los últimos nueve meses;
 
@@ -393,25 +389,25 @@ XIII. Designar a los fedatarios públicos en los términos de la ley de la mater
 
 XIV. Las que le otorga la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes y ordenamientos que de ambas se deriven.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 23.
 
 Todos los reglamentos, decretos y acuerdos del Gobernador, deberán ser firmados por el Secretario de Gobierno y por el secretario o secretarios del ramo que correspondan.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 24.
 
 El Ministerio Público es la institución que tiene por objeto velar por el cumplimiento de las leyes, ejercer las acciones que procedan en contra de quienes las transgredan, hacer efectivos los derechos del Estado e intervenir en los juicios que afecten a las personas a quienes la ley otorga protección. Ejercerán las facultades del Ministerio Público, un Procurador General de Justicia y los Agentes que la ley determine.
 
-Para la investigación de los delitos y persecución de los delincuentes, la Procuraduría General de Justicia contará con un cuerpo policiaco de investigación que estará bajo el mando directo del Ministerio Público.
+Para la investigación de los delitos y persecución de los delincuentes, la Procuraduría General de Justicia contará con un cuerpo policíaco de investigación, que estará bajo el mando directo del Ministerio Público.
 
 > <small>(ADICIONADA, P. O. 31 DE MARZO DE 2008)</small>
 
 #### Sección Cuarta. Poder Judicial
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 25.
 
@@ -421,21 +417,21 @@ La administración de justicia en el Estado será expedita, aplicando los princi
 
 El Estado instituirá un sistema integral de justicia aplicable a quienes, teniendo entre doce años cumplidos y menos de dieciocho años de edad, se les atribuya la realización de una conducta tipificada como delito por las leyes penales. Los menores de doce años de edad, sólo serán sujetos a rehabilitación y asistencia social.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 26.
 
 Compete al Poder Judicial la facultad de resolver controversias puestas a su consideración, conforme a las leyes y procedimientos judiciales vigentes en el Estado en asuntos del fuero común, en materia civil, familiar, penal, justicia de menores, electoral y materias federales cuando así lo faculten las leyes.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 27.
 
 El Tribunal Superior de Justicia se compondrá cuando menos de doce Magistrados propietarios y ocho supernumerarios, electos para un periodo de tres años y podrán ser reelectos para un periodo inmediato de nueve años más. No se podrá ocupar el cargo como propietario en forma consecutiva, ni discontinua, por más de doce años; al vencimiento de dicho plazo o antes si el Magistrado llega a la edad de setenta años, cesará en sus funciones; tendrá derecho a un haber por retiro y será considerado Magistrado supernumerario. El Tribunal Superior de Justicia tendrá un Presidente, que será el representante legal del Poder Judicial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO CUARTO TRANSITORIO DE LA REFORMA QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 28.
 
@@ -445,11 +441,11 @@ I. Cumplir con los requisitos fijados en las fracciones I a IV del artículo 95 
 
 II. Haber residido en el Estado los tres años anteriores inmediatos al día de su designación;
 
-IlI. Durante el año previo a su nombramiento, no haber ocupado cargo de elección popular, ni haber sido Secretario del Poder Ejecutivo o su equivalente o Procurador General de Justicia del Estado; y
+III. Durante el año previo a su nombramiento, no haber ocupado cargo de elección popular, ni haber sido Secretario del Poder Ejecutivo o su equivalente o Procurador General de Justicia del Estado; y
 
 IV. No ser mayor de sesenta y siete años.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 29.
 
@@ -465,9 +461,7 @@ IV. Declarar sobre los casos de omisión en la expedición de leyes, cuando la m
 
 V. Aprobar sus reglamentos y emitir los acuerdos generales que resulten necesarios para el mejor desempeño del Poder Judicial;
 
-VI. Procesar y sentenciar los litigios que no sean competencia de la Suprema Corte de Justicia de la Nación o del Senado de la República y, que surjan entre: Poder Ejecutivo. Legislatura del Estado, Organismos constitucionales autónomos o los Municipios del Estado;
-
-> <small>N. DE E. EN RELACION CON LOS EFECTOS DE LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA REFORMA QUE MODIFICA LA CONSTITUCION.</small>
+VI. Procesar y sentenciar los litigios que no sean competencia de la Suprema Corte de Justicia de la Nación o del Senado de la República y, que surjan entre: Poder Ejecutivo, Legislatura del Estado, Organismos constitucionales autónomos o los Municipios del Estado;
 
 VII. Presentar en el mes de febrero de cada año a la Legislatura, un informe por escrito sobre el estado que guarde la impartición de justicia en la entidad;
 
@@ -479,7 +473,7 @@ X. Las demás que establezca esta Constitución y las demás leyes.
 
 Se exceptúan de la competencia del Pleno previstas en las fracciones II, III y IV del presente artículo, las leyes en materia hacendaria, fiscal y presupuestal.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 30.
 
@@ -489,7 +483,7 @@ Los jueces de la entidad serán designados por el Tribunal Superior de Justicia 
 
 ### Capítulo Quinto. Organismos Autónomos
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 31.
 
@@ -497,7 +491,7 @@ La Entidad Superior de Fiscalización del Estado, es el organismo público autó
 
 I. Fiscalizar, en forma posterior, los ingresos y egresos, el manejo, la custodia y la aplicación de los recursos de los Poderes del Estado, de los Municipios, de las Entidades Públicas, cualquiera que sea su naturaleza jurídica, y, en general, cualquier persona física o moral que recaude, administre, maneje o ejerza recursos públicos, así como el cumplimiento de los objetivos contenidos en los programas gubernamentales;
 
-lI. Investigar los actos y omisiones que impliquen irregularidad o conducta ilícita en materia de cuenta pública y manejo de recursos públicos;
+II. Investigar los actos y omisiones que impliquen irregularidad o conducta ilícita en materia de cuenta pública y manejo de recursos públicos;
 
 III. Determinar los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal, promoviendo ante las autoridades competentes el fincamiento de responsabilidades. En su caso podrá imponer las sanciones correspondientes; y
 
@@ -507,31 +501,35 @@ Los Poderes del Estado y demás entidades públicas, independientemente de su na
 
 El Auditor Superior del Estado durará en su encargo siete años y podrá ser ratificado por una sola vez por un periodo igual. Solo podrá ser removido por las causas graves que la ley señale y con la misma votación requerida para su nombramiento.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 32.
 
 El Instituto Electoral de Querétaro, es un organismo público autónomo; será la autoridad competente para la función estatal de organizar las elecciones locales. En su integración participan los partidos políticos y los ciudadanos, a través de siete consejeros electos por la Legislatura. En el ejercicio de esa función estatal, la certeza, la legalidad, la independencia, la imparcialidad, la equidad y la objetividad serán principios rectores.
 
-El Instituto Electoral de Querétaro podrá convenir con el Instituto Federal Electoral que éste organice procesos electorales locales, previa autorización de la Legislatura del Estado, con el voto de las dos terceras partes de sus integrantes.
+El Instituto Electoral de Querétaro podrá convenir con el Instituto Federal Electoral que éste organice procesos electorales locales.(3)
+
+(3) En cumplimiento a la resolución de la Suprema Corte de Justicia de la Nación recaída en la acción de inconstitucionalidad 76/2008 y sus acumuladas 77/2008 y 78/2008, se modificó el segundo párrafo del artículo 32 de esta Constitución.
 
 Los Consejeros del Instituto Electoral de Querétaro durarán en su encargo siete años, pudiendo ser reelectos por un periodo igual y sólo podrán ser removidos por las causas graves que la ley señale y con la misma votación requerida para su nombramiento.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 33.
 
-La Comisión Estatal de Derechos Humanos y Acceso a la Información Pública, es el organismo público autónomo, mediante el cual el Estado garantizará el respeto a los derechos humanos y de acceso de toda persona a la información pública; promoverá su defensa y proveerá las condiciones necesarias para el cabal ejercicio de los mismos.
+La Comisión Estatal de Derechos Humanos, es el organismo público autónomo, mediante el cual el Estado garantizará el respeto a los derechos humanos; promoverá su defensa y proveerá las condiciones necesarias para el cabal ejercicio de los mismos.
 
-El Presidente de la Comisión Estatal de Derechos Humanos y Acceso a la Información Pública, durará en su encargo cinco años, pudiendo ser reelecto por un periodo igual y sólo podrá ser removido por las causas graves que la ley señale y con la misma votación requerida para su nombramiento.
+El Presidente de la Comisión Estatal de Derechos Humanos, durará en su encargo cinco años, pudiendo ser reelecto por un periodo igual y sólo podrá ser removido por las causas graves que la ley señale y con la misma votación requerida para su nombramiento.(4)
+
+(4) En cumplimiento a la resolución de la Suprema Corte de Justicia de la Nación recaída en la acción de inconstitucionalidad 76/2008 y sus acumuladas 77/2008 y 78/2008, se modificó el artículo 33 de esta Constitución.
 
 > <small>(ADICIONADO, P. O. 31 DE MARZO DE 2008)</small>
 
 ### Capítulo Sexto. De los Tribunales Administrativos
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-###### ARTÍCULO 34.
+###### ARTICULO 34.
 
 El funcionamiento del Tribunal de lo Contencioso Administrativo y del Tribunal de Conciliación y Arbitraje del Estado, se sujetará a lo siguiente:
 
@@ -555,7 +553,7 @@ Residirá en la ciudad de Santiago de Querétaro y tendrá la estructura, la org
 
 ### Capítulo Único
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 35.
 
@@ -567,11 +565,13 @@ I. De un Presidente Municipal que, política y administrativamente, será el rep
 
 II. Del número determinado de Regidores que, basado en factores geográficos, demográficos y socioeconómicos de cada Municipio, determine la ley; y
 
-III. Hasta tres Síndicos, correspondiendo dicho cargo al Regidor electo mediante el principio de representación proporcional del partido político que haya sido la primera minoría en la elección y a los que elija el Ayuntamiento de entre sus regidores.
+III. Hasta tres Síndicos.(5)
+
+(5) En cumplimiento a la resolución de la Suprema Corte de Justicia de la Nación recaída en la acción de inconstitucionalidad 76/2008 y sus acumuladas 77/2008 y 78/2008, se modificó la fracción III del segundo párrafo del artículo 35 de esta Constitución.
 
 Los ayuntamientos se renovarán en su totalidad cada tres años y los miembros que los integran protestarán el cargo entre ellos mismos al entrar en funciones el primero de octubre del año de su elección.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 36.
 
@@ -581,13 +581,11 @@ El cargo de Regidor es renunciable por causa grave y justificada que calificará
 
 Cuando el Ayuntamiento haya desaparecido o por falta absoluta de la mayoría de sus integrantes, la Legislatura del Estado nombrará un Concejo Municipal que fungirá hasta terminar el período municipal.
 
-> <small>N. DE E. EN RELACION CON LOS EFECTOS DEL PRESENTE ARTICULO, VER ARTICULO CUARTO TRANSITORIO DE LA REFORMA QUE MODIFICA LA CONSTITUCION.</small>
-
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 37.
 
-El Presidente Municipal en el mes de febrero de cada año, rendirá al Ayuntamiento, en los términos que establezca la ley, un informe por escrito de la situación general que guarde la administración municipal. Tratándose del último año de la administración, entregará informe por escrito de la gestión realizada de los últimos nueve meses.
+El Presidente Municipal, en el mes de febrero de cada año, rendirá al Ayuntamiento, en los términos que establezca la ley, un informe por escrito de la situación general que guarde la administración municipal. Tratándose del último año de la administración, entregará informe por escrito de la gestión realizada de los últimos nueve meses.
 
 > <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
 
@@ -597,7 +595,7 @@ El Presidente Municipal en el mes de febrero de cada año, rendirá al Ayuntamie
 
 ### Capítulo Primero. De la responsabilidad
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 38.
 
@@ -605,7 +603,7 @@ Los Servidores Públicos serán responsables por los actos u omisiones en que in
 
 I. Se impondrán, mediante juicio político, cuando los Servidores Públicos en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. Podrán ser sujetos a juicio político, los Magistrados de los Tribunales Administrativos, los jueces del Poder Judicial, los Secretarios, Sub-secretarios, Oficial Mayor y Directores de la Administración Pública Estatal, el Procurador General de Justicia, Sub-procuradores y Agentes del Ministerio Público; los miembros de los Ayuntamientos, los Directores generales o sus equivalentes de las entidades paramunicipales;
 
-lI. La comisión de delitos, por parte de cualquier Servidor Público, será perseguida y sancionada en los términos de la Legislación Penal. Para proceder en contra de los Diputados de la Legislatura, los Magistrados del Tribunal Superior de Justicia, los Jueces, el Procurador General de Justicia, los Presidentes Municipales y los titulares de los Organismos Autónomos reconocidos por esta Constitución, se requiere declaración de procedencia por la Legislatura del Estado;
+II. La comisión de delitos, por parte de cualquier Servidor Público, será perseguida y sancionada en los términos de la Legislación Penal. Para proceder en contra de los Diputados de la Legislatura, los Magistrados del Tribunal Superior de Justicia, los Jueces, el Procurador General de Justicia, los Presidentes Municipales y los titulares de los Organismos Autónomos reconocidos por esta Constitución, se requiere declaración de procedencia por la Legislatura del Estado;
 
 III. Se aplicarán sanciones administrativas a los Servidores Públicos por los actos u omisiones que afecten la legalidad, la honradez, la lealtad, la imparcialidad y la eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones;
 
@@ -617,7 +615,7 @@ V. Las declaraciones y resoluciones relativas a lo previsto en las fracciones I 
 
 ### Capítulo Segundo. Disposiciones Complementarias
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO ÚNICO
 
@@ -629,7 +627,7 @@ Esta Constitución es la Norma Fundamental del Estado y podrá ser adicionada o 
 
 Si transcurrieran más de treinta días naturales después de que los Ayuntamientos recibieron para su consideración la propuesta de reformas aprobada por la Legislatura del Estado, sin que ésta reciba el acuerdo municipal respectivo, se entenderá que las reformas han sido aprobadas. Cuando se reciban los votos necesarios para la aprobación de las reformas, se procederá de inmediato a su declaración correspondiente.
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 40.
 
@@ -1182,6 +1180,42 @@ Los actuales Magistrados del Tribunal Superior de Justicia, en lo relativo a su 
 ###### ARTÍCULO SEXTO.
 
 Los Comisionados actuales de la Comisión Estatal de Información Gubernamental concluirán el periodo para el cual fueron electos. La Comisión Estatal de Derechos Humanos y Acceso a la Información Pública entrará en funciones en los términos descritos en el artículo 33 de la presente Constitución, a más tardar al concluir el periodo de los actuales Comisionados de la Comisión Estatal de Información Gubernamental.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Presidente de la Comisión Estatal de Derechos Humanos cumplirá el periodo por el que fue electo y continuará en el cargo por un periodo de dos años más y podrá ser ratificado por un periodo adicional de cinco años.
+
+###### ARTÍCULO OCTAVO.
+
+El actual Auditor Superior del Estado, cumplirá el periodo por el que fue electo y continuará en el cargo por un año más y podrá ser ratificado por un periodo adicional de siete años.
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Constitución entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La legislación secundaria deberá adecuarse al contenido de la presente Constitución, en tanto se realiza dicha modificación subsistirá la vigencia de tales disposiciones.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos de lo dispuesto por el artículo 13 de esta Constitución, en las leyes e instrumentos jurídicos que resulten necesarios, se entenderá y se sustituirá el concepto de "Gobierno del Estado" por "Poder Ejecutivo" o "Estado de Querétaro", cuando de acuerdo al contexto se refiera a dicho Poder o Estado, mientras se llevan a cabo las reformas en las leyes respectivas.
+
+###### ARTÍCULO CUARTO.
+
+Para los efectos del artículo 28 de esta Constitución, su vigencia iniciará dieciocho meses después de su publicación. Para los efectos de los artículos 22 fracción X, 29 fracción VII y 37 de esta Constitución, los informes que deban de rendir el Gobernador del Estado, el Presidente del Tribunal Superior de Justicia y los Presidentes Municipales en el año dos mil ocho, se ajustarán a los tiempos establecidos en los artículos referidos, a efecto de que sean rendidos en el mes de febrero del año 2009.
+
+###### ARTÍCULO QUINTO.
+
+Los actuales Magistrados del Tribunal Superior de Justicia, en lo relativo a su duración en el cargo, se regirán por las leyes vigentes al momento de su designación.
+
+###### ARTÍCULO SEXTO.
+
+Los Comisionados actuales de la Comisión Estatal de Información Gubernamental, concluirán el periodo para el cual fueron electos.(6)
+
+(6) En cumplimiento a la resolución de la Suprema Corte de Justicia de la Nación recaída en la acción de inconstitucionalidad 76/2008 y sus acumuladas 77/2008 y 78/2008 se modificó el artículo sexto transitorio de esta Constitución.
 
 ###### ARTÍCULO SÉPTIMO.
 
