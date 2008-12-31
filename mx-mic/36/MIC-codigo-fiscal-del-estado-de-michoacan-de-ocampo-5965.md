@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-del-estado-de-michoacan-de-ocampo-5965"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-27"
-last_updated: "2007-09-28"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO FISCAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 27 de febrero de 1992.
 
@@ -51,9 +51,13 @@ Las personas físicas y las morales están obligadas a contribuir para el gasto 
 
 Las personas que de conformidad con la ley fiscal no estén obligadas a pagar contribuciones, únicamente tendrán las otras obligaciones que establezcan en forma expresa las propias leyes.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 2o.
 
-Cuando en este Código se mencione a la Tesorería, se entenderá que se refiere a la Tesorería General del Estado, incluidas sus unidades administrativas de conformidad con el reglamento interior de ésta; cuando se mencione a la Ley, se referirá a la Ley de Hacienda del Estado de Michoacán.
+Cuando en este Código se mencione a la Secretaría, se entenderá que se refiere a la Secretaría de Finanzas y Administración del Estado, incluidas sus unidades administrativas de conformidad con el Reglamento Interior de la Administración Pública Centralizada del Estado de Michoacán.
+
+Asimismo, cuando se mencione el Reglamento Interior, se entenderá que se refiere al Reglamento Interior de la Administración Pública Centralizada del Estado de Michoacán; y cuando se mencione la Ley, se referirá a la Ley de Hacienda del Estado de Michoacán de Ocampo.
 
 ###### ARTICULO 3o.
 
@@ -65,7 +69,9 @@ II.- Derechos son las contribuciones establecidas en la Ley, por recibir los ser
 
 III.- Contribuciones Especiales son las establecidas en la ley o decreto, a cargo de las personas físicas y morales que se beneficien de manera directa por obras públicas.
 
-Los rezagos, las sanciones, los honorarios, los gastos de ejecución y la indemnización a que se refiere el último párrafo del artículo 20 de este Código, son accesorios de las contribuciones y participan de la naturaleza de éstas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Los recargos, las sanciones, los honorarios, los gastos de ejecución y la indemnización a que se refiere el último párrafo del artículo 20 de este Código, son accesorios de las contribuciones y participan de la naturaleza de éstas.
 
 ###### ARTICULO 4o.
 
@@ -77,7 +83,9 @@ Aprovechamientos son los ingresos que percibe el Estado, por funciones de derech
 
 Los recargos, las sanciones, los honorarios, los gastos de ejecución y la indemnización a que se refiere el último párrafo del artículo 20 de este Código que se aplique en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
 
-Los honorarios y gastos de ejecución a que se refiere el último párrafo del artículo tercero de este Código y el párrafo anterior, serán distribuidos entre el personal de la Tesorería, conforme al reglamento respectivo; asimismo, será distribuible conforme a dicho reglamento, el 50% de las multas que establece este Código.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Los honorarios y gastos de ejecución a que se refiere el último párrafo del articulo tercero de este Código y el párrafo anterior, serán distribuidos entre el personal de la Secretaria, conforme al reglamento respectivo; asimismo, será distribuible conforme a dicho reglamento, el 50% de las multas que establece este Código.
 
 ###### ARTICULO 6o.
 
@@ -87,13 +95,15 @@ Participaciones son los ingresos provenientes de impuestos, derechos, productos,
 
 Créditos fiscales son las prestaciones económicas que tiene derecho a percibir el Estado o sus organismos descentralizados que provengan de contribuciones, de aprovechamientos o de sus accesorios incluyendo los que deriven de responsabilidades de sus servidores públicos, así como aquellos a los que las leyes les impongan ese carácter y las que el Estado tenga derecho a percibir por cuenta ajena.
 
-La recaudación proveniente de todos los ingresos del Estado, aún cuando se destinen a un fin específico, se hará por la Tesorería o por las oficinas que la misma autorice expresamente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+La recaudación proveniente de todos los ingresos del Estado, aún cuando se destinen a un fin específico, se hará por la Secretaria o por las oficinas que la misma autorice expresamente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 8o.
 
-Los créditos o deudas entre los Gobiernos Estatal y Municipal, así como de sus organismos descentralizados o empresas de participación estatal se podrán compensar previo acuerdo que celebren, salvo por las deudas derivadas del pago del Impuesto sobre Erogaciones por Remuneración al Trabajo Personal, Prestado bajo la Dirección y Dependencia de un Patrón, y/o cualquier impuesto de características similares que lo sustituya, las cuales siempre deberán de ser pagadas en efectivo a la Tesorería General del Estado de conformidad con los términos establecidos en la Ley de Hacienda del Estado de Michoacán de Ocampo.
+Los créditos o deudas entre los gobiernos Estatal y Municipal, así como de sus organismos descentralizados o empresas de participación estatal se podrán compensar previo acuerdo que celebren, salvo por las deudas derivadas del pago del Impuesto sobre Erogaciones por Remuneración al Trabajo Personal, Prestado bajo la Dirección y Dependencia de un Patrón, y/o cualquier impuesto de características similares que lo sustituya, las cuales siempre deberán de ser pagadas en efectivo a la Secretaria, de conformidad con los términos establecidos en la Ley de Hacienda del Estado de Michoacán de Ocampo.
 
 ###### ARTICULO 9o.
 
@@ -109,7 +119,9 @@ Dichas contribuciones se determinarán conforme a las disposiciones vigentes en 
 
 Las contribuciones se pagan en la fecha o dentro del plazo señalado en las disposiciones respectivas. A falta de disposición expresa el pago deberá hacerse ante las oficinas autorizadas, dentro de los cinco días siguientes a su causación. Este plazo será aplicable en los casos de retención de contribuciones por aquellas personas a quienes la ley les imponga la obligación de recaudarlas.
 
-Quien haga pago de créditos fiscales deberá obtener de la oficina autorizada, el recibo oficial o la forma aprobada por la Tesorería.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Quien haga pago de créditos fiscales deberá obtener de la oficina autorizada, el recibo oficial o la forma aprobada por la Secretaria.
 
 ###### ARTICULO 12.
 
@@ -129,13 +141,29 @@ Se considera domicilio fiscal:
 
 I. El que establezca la ley en el capítulo correspondiente;
 
-II. El manifestado para efectos catastrales; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-III. A falta de los señalados en las fracciones anteriores, el lugar donde se realice el hecho generador de la obligación fiscal.
+II. Tratándose de personas físicas:
+
+a) El local en que se encuentre el principal asiento de sus negocios, o
+
+b) El local que utilicen para el desempeño de sus actividades; o,
+
+c) Su casa habitación; únicamente en los casos en que la persona física, no se ubique en ninguno de los incisos anteriores, y no cuente con un local. Para estos efectos, las autoridades fiscales harán del conocimiento del contribuyente en su casa habitación, que cuenta con un plazo de cinco días para acreditar que su domicilio corresponde a uno de los supuestos previstos en los incisos a) o b) de esta fracción.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+III. En el caso de personas morales, el lugar donde se encuentre la administración principal del negocio, o en su defecto el que designen.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligados a ello, o hubieran designado como domicilio fiscal un lugar distinto al que les corresponda, de acuerdo con lo dispuesto en este mismo precepto; o cuando hayan manifestado un domicilio ficticio, las autoridades fiscales podrán practicar diligencias en cualquier lugar en el que realicen sus actividades o en el lugar que conforme a este artículo se considere su domicilio, indistintamente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 15.
 
-En los plazos fijados en días no se contarán los sábados, los domingos, ni el 1o. de enero, 5 y 10 de febrero, 21 de marzo, 1o. y 5 de mayo, 15 de septiembre de cada 6 años; cuando corresponda al cambio del Poder Ejecutivo Estatal, 16, 29 y 30 de septiembre, 12 y 19 de octubre, 1o. y 20 de noviembre, 1o. de diciembre de cada 6 años, cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de diciembre.
+En los plazos fijados en días no se contarán los sábados, los domingos, ni el 1° de enero, 5 y 10 de febrero, 21 de marzo, 1° y 10 de mayo, el día en que cada seis años que corresponda al cambio del Titular del Poder Ejecutivo Estatal, 16 y 30 de septiembre, así como, el día en que el Gobernador del Estado dé lectura al Informe de Gobierno correspondiente, 19 de octubre, 1° y 20 de noviembre, 10 de diciembre de cada seis años, cuando corresponda el cambio de Titular del Poder Ejecutivo Federal y el 25 de diciembre.
 
 En los plazos establecidos por períodos y aquellos en los que se señale una fecha determinada para su extinción, se computarán todos los días.
 
@@ -159,7 +187,9 @@ Las autoridades fiscales para la práctica de intervenciones, del procedimiento 
 
 Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital.
 
-Las promociones deberán presentarse en las formas que al efecto apruebe la Tesorería, en el número de ejemplares que establezca la forma oficial y acompañar los anexos que en su caso ésta requiera. Cuando no existan formas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales y tener por lo menos los siguientes requisitos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Las promociones deberán presentarse en las formas que al efecto apruebe la Secretaria, en el número de ejemplares que establezca la forma oficial acompañar los anexos que en su caso ésta requiera. Cuando no existan formas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales y tener por lo menos los siguientes requisitos:
 
 I. Constar por escrito;
 
@@ -183,7 +213,9 @@ Quien promueva a nombre de otro, deberá acreditar que la representación le fue
 
 Las contribuciones y sus accesorios se causarán y pagarán en moneda nacional; asimismo, se pagarán en moneda nacional los productos y aprovechamientos.
 
-Se aceptarán como medios de pago los cheques certificados y los giros postales, telegráficos o bancarios.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Se aceptarán como medios de pago los cheques certificados, giros postales, telegráficos o bancarios, tarjetas de crédito y los que se realicen vía internet.
 
 Los pagos que se hagan se aplicarán a los créditos más antiguos, siempre que se trate de la misma contribución, y antes del adeudo principal, a los accesorios en el siguiente orden:
 
@@ -203,7 +235,9 @@ Cuando el contribuyente interponga algún medio de defensa legal, impugnando alg
 
 El monto de las contribuciones, así como de las devoluciones a cargo del Fisco estatal derivados de pagos indebidos de las mismas, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el País, para lo cual se aplicará el factor de actualización a las cantidades que se deben actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período, entre el citado Indice correspondiente al mes anterior al más antiguo de dicho período.
 
-Las contribuciones, así como las devoluciones a cargo del Fisco estatal, no se actualizará por fracción de mes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Las contribuciones, así como las devoluciones a cargo del Fisco Estatal, no se actualizarán por fracción de mes.
 
 En los casos en que el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no se haya dado a conocer por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
 
@@ -229,9 +263,11 @@ Los recargos se causarán por cada mes o fracción que transcurra a partir del d
 
 El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste, y se exigirá independientemente de los demás conceptos a que se refiere este artículo. Para tal efecto, la autoridad requerirá al librador del cheque para que, dentro de un plazo de tres días, efectúe el pago del valor del mismo, junto con la mencionada indemnización del 20%, o bien, acredite fehacientemente, con las pruebas documentales procedentes, que el rechazo del cheque por parte de la institución librada, obedeció exclusivamente a causas imputables a la misma. Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre que su rechazo es imputable a la autoridad librada, la autoridad fiscal requerirá y cobrará el monto del cheque, la indemnización mencionada y los demás accesorios que correspondan, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad que en su caso procediere.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 21.
 
-Las autoridades fiscales están obligadas a devolver las cantidades pagadas indebidamente, a solicitud de parte interesada. La devolución se autorizará por acuerdo dictado por la autoridad fiscal competente, de acuerdo con el Reglamento interior de la Tesorería, y se hará en efectivo o mediante cheque expedido a nombre del contribuyente, dentro del plazo de tres meses siguientes a la fecha de presentación de la solicitud respectiva.
+Las autoridades fiscales están obligadas a devolver las cantidades pagadas indebidamente, a solicitud de parte interesada. La devolución se autorizará por acuerdo dictado por la autoridad fiscal competente, de acuerdo con el Reglamento interior, y se hará en efectivo o mediante cheque expedido a nombre del contribuyente, dentro del plazo de tres meses siguientes a la fecha de presentación de la solicitud respectiva.
 
 La solicitud de devolución deberá presentarse en la forma oficial aprobada para el efecto, con los datos, informes y documentos que la propia forma oficial señale.
 
@@ -239,11 +275,13 @@ Cuando no existan formas aprobadas oficialmente para solicitud de devolución, �
 
 En todo caso, el gestionante de devolución deberá acreditar su personalidad y derecho a solicitarla, en la forma establecida por el artículo 18 de este Código. Los retenedores podrán solicitar la devolución siempre que ésta se haga directamente a los contribuyentes.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-El Fisco estatal deberá pagar la devolución que proceda, actualizada conforme a lo previsto en el artículo 19-A de este Código, desde el mes en que se realizó el pago de lo indebido hasta aquél en que la devolución esté a disposición del contribuyente. Se entenderá que la devolución está a disposición del contribuyente a partir de la fecha en que se le notifique el Acuerdo que autorice la devolución respectiva. Si dentro del plazo a que se refiere el primer párrafo de este artículo no se efectúa la devolución, la Tesorería deberá pagar intereses conforme a una tasa que será igual a la prevista por la Ley de Ingresos del Estado por concepto de recargos por extemporaneidad para el ejercicio fiscal de que se trate.
+El Fisco Estatal deberá pagar la devolución que proceda, actualizada conforme a lo previsto en el artículo 19-A de este Código, desde el mes en que se realizó el pago de lo indebido hasta aquél en que la devolución esté a disposición del contribuyente. Se entenderá que la devolución está a disposición del contribuyente a partir de la fecha en que se le notifique el Acuerdo que autorice la devolución respectiva. Si dentro del plazo a que se refiere el primer párrafo de este artículo no se efectúa la devolución, la Secretaría deberá pagar intereses conforme a una tasa que será igual a la prevista por la Ley de Ingresos del Estado por concepto de recargos por extemporaneidad para el ejercicio fiscal de que se trate.
 
-Los intereses se calcularán sobre las cantidades que proceda devolver, excluyendo los propios intereses y se computarán desde la fecha en que venció el plazo para devolver, hasta aquella en que se efectúe la devolución o se pongan las cantidades a disposición del interesado. En ningún caso los intereses a cargo de la Tesorería excederán de los que se generen en 5 años.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Los intereses se calcularán sobre las cantidades que proceda devolver, excluyendo los propios intereses y se computarán desde la fecha en que venció el plazo para devolver, hasta aquella en que se efectúe la devolución o se pongan las cantidades a disposición del interesado. En ningún caso los intereses a cargo de la Secretaria excederán de los que se generen en 5 años.
 
 Si el pago de lo indebido se hubiere efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiera quedado insubsistente, lo anterior no es aplicable a la determinación de diferencias por errores aritméticos, las que darán lugar a la devolución, siempre que no haya prescrito la obligación en los términos del último párrafo de este artículo.
 
@@ -263,23 +301,45 @@ IV. Quienes ejerzan la patria potestad o la tutela, por las contribuciones a car
 
 V. Los legatarios y los donatarios a título particular, respecto de las obligaciones fiscales que se hubieren causado, en relación con los bienes legados o donados, hasta por el monto de éstos;
 
-VI. Quienes manifiesten su voluntad de asumir responsabilidad solidaria; y
+VI. Quienes manifiesten su voluntad de asumir responsabilidad solidaria; y (sic)
 
-VII. Los terceros que para garantizar el interés fiscal constituyan depósitos, prenda o hipoteca, o permitan el secuestro de bienes hasta por el valor de los dados en garantía, sin que en ningún caso su responsabilidad exceda del monto del interés garantizado.
+VII. Los terceros que para garantizar el interés fiscal constituyan depósitos, prenda o hipoteca, o permitan el secuestro de bienes hasta por el valor de los dados en garantía, sin que en ningún caso su responsabilidad exceda del monto del interés garantizado;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VIII. Los liquidadores y síndicos por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquellas que se causaron durante su gestión.
+
+No será aplicable lo dispuesto en el párrafo anterior, cuando la sociedad en liquidación cumpla con las obligaciones de presentar los avisos y de proporcionar los informes a que se refieren las disposiciones fiscales.
+
+La persona o personas cualquiera que sea el nombre con que se les designe, que tengan conferida la dirección general, la gerencia general, o la administración única de las personas morales, serán responsables solidarios por las contribuciones causadas o no retenidas por dichas personas morales durante su gestión, así como por las que debieron pagarse o enterarse durante la misma, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la persona moral que dirigen, cuando dicha persona moral incurra en cualquiera de los siguientes supuestos:
+
+a) No solicite su inscripción en el Registro Estatal de Contribuyentes.
+
+b) Cambie su domicilio sin presentar el aviso correspondiente conforme a las disposiciones fiscales, siempre que dicho cambio se efectúe después de que se le hubiera notificado el inicio del ejercicio de las facultades de comprobación previstas en este Código y antes de que se haya notificado la resolución que se dicte con motivo de dicho ejercicio, o cuando el cambio se realice después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya cubierto o hubiera quedado sin efectos; y,
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IX.- Los socios o accionistas, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la sociedad cuando tenían tal calidad, en la parte de interés fiscal que no alcance a ser garantizada con los bienes de la misma, siempre que dicha sociedad incurra en cualquiera de los supuestos a que se refieren los incisos a) y b) de la fracción anterior, sin que la responsabilidad exceda de la participación que tenia en el capital social de la sociedad durante el periodo o a la fecha de que se trate.
 
 La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas. Lo dispuesto en este párrafo no impide que los responsables solidarios puedan ser sancionados por actos u omisiones propias.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 23.
 
-Las personas físicas y morales, que habitualmente realicen actividades gravadas, deberán solicitar su inscripción en el Registro Estatal de Contribuyentes de la Tesorería, y proporcionar la información relacionada con su identidad, su domicilio y en general su situación fiscal, mediante los avisos que para tal efecto establezca la Tesorería.
+Las personas físicas y morales, que habitualmente realicen actividades gravadas, deberán solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaria y proporcionar la información relacionada con su identidad, su domicilio y en general, su situación fiscal, mediante los avisos que para tal efecto establezca la Secretaria.
 
-La Tesorería asignará la clave que corresponda a cada persona inscrita, quien deberá citarla en todo documento que presente ante las autoridades fiscales estatales, debiendo conservar en su domicilio fiscal, la documentación comprobatoria de haber cumplido con las obligaciones que establece este Código.
+La Secretaría asignará la clave que corresponda a cada persona inscrita, quien deberá citarla en todo documento que presente ante las autoridades fiscales estatales, debiendo conservar en su domicilio fiscal, la documentación comprobatoria de haber cumplido con las obligaciones que establece este Código.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 24.
 
-Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de Registro Estatal de Contribuyentes y avisos ante las autoridades fiscales estatales, lo harán en las formas que al efecto apruebe la Tesorería, debiendo proporcionar el número de ejemplares, los datos e informes y adjuntar los documentos que dichas formas requieran.
+Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de Registro Estatal de Contribuyentes y avisos ante las autoridades fiscales estatales, lo harán en las formas que al efecto apruebe la Secretaría, debiendo proporcionar el número de ejemplares, los datos e informes y adjuntar los documentos que dichas formas requieran.
 
-En los casos en que las formas para la presentación de los avisos no hubieran sido aprobadas por la Tesorería, los obligados a presentarlas, las formularán en escrito por cuadruplicado conteniendo su nombre, domicilio, actividad y clave del Registro Estatal de Contribuyentes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+En los casos en que las formas para la presentación de los avisos no hubieran sido aprobadas por la Secretaría, los obligados a presentarlas, las formularán en escrito por cuadruplicado conteniendo su nombre, domicilio, actividad y clave del Registro Estatal de Contribuyentes.
 
 Los avisos, solicitudes de inscripción en el Registro Estatal de Contribuyentes y demás documentos que exijan las disposiciones fiscales, se presentarán en las oficinas de rentas correspondientes a su jurisdicción.
 
@@ -303,31 +363,37 @@ Son autoridades fiscales del Estado, las siguientes:
 
 I. El Gobernador del Estado;
 
-II. El Tesorero General;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+II. EI Secretario de Finanzas y Administración;
 
-III. El Subtesorero General;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+III. El Subsecretario de Finanzas;
 
-IV. Los Directores de: Ingresos, de Auditoria y Revisión Fiscal, de Catastro y el de Asuntos Jurídicos de la Tesorería General;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+IV. Los Directores de: Ingresos, de Auditoría y Revisión Fiscal y el de Catastro, de la Secretaria;
 
-V. Los Administradores y Receptores de Rentas dentro de sus respectivas jurisdicciones; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+V. Los Administradores y Receptores de Rentas dentro de sus respectivas jurisdicciones; y,
 
-VI. Los demás subalternos de la propia Tesorería, comisionados por el Titular de ésta, mediante instrucciones por escrito.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VI. Los demás subalternos de la propia Secretaria, comisionados por el titular de ésta, mediante instrucciones por escrito.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 27.
 
-Al Gobernador del Estado compete, por sí o a través de la Tesorería, el ejercicio de las siguientes facultades:
+Al Gobernador del Estado compete, por sí o a través de la Secretaría, el ejercicio de las siguientes facultades:
 
 I. Ejecutar las leyes y decretos fiscales que expida el Congreso del Estado y proveer en la esfera administrativa a su exacta observancia;
 
-II. Nombrar y remover a los titulares de la Hacienda Pública;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+II. Nombrar y remover a los titulares de la Hacienda Pública Estatal;
 
 III. Celebrar los convenios de coordinación fiscal que se estimen convenientes, con la Federación y los Municipios para el control y cobro de contribuciones;
 
@@ -353,13 +419,17 @@ IX. Celebrar convenios con los contribuyentes para determinar el monto de los im
 
 X. Conceder subsidios a los contribuyentes siempre y cuando el otorgamiento de éstos coadyuve al desarrollo de las actividades económicas, culturales y sociales del Estado; en el entendido de que el Gobernador del Estado no podrá otorgar subsidios de los impuestos o ingresos que se encuentren afectos como garantía y/o fuente de pago de conformidad con la Ley de Deuda Pública del Estado de Michoacán de Ocampo;
 
-XI. Tramitar y resolver los asuntos y recursos que ante él se presenten, conforme a las leyes y reglamentos fiscales; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XI. Tramitar y resolver los asuntos y recursos que ante él se presenten, conforme a las leyes, reglamentos fiscales; y convenios que celebre el Ejecutivo; y,
 
 XII. Las demás que le correspondan conforme a este Código u otras leyes y reglamentos fiscales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 28.
 
-Son facultades del Tesorero General del Estado, que podrá ejercer por sí o a través de los titulares de las unidades administrativas de la Tesorería, las siguientes:
+Son facultades del Secretario de Finanzas y Administración del Estado, que podrá ejercer por sí o a través de los titulares de las unidades administrativas de la Secretaría, las siguientes:
 
 I. Cuidar y vigilar la recaudación, manejo e inversión de los caudales públicos, con arreglo a la ley y a los acuerdos del titular del Poder Ejecutivo;
 
@@ -369,7 +439,9 @@ III. Firmar los reglamentos, acuerdos y disposiciones de carácter general que e
 
 IV. Declarar en qué casos no se causan los recargos, por no ser imputable al contribuyente la demora en el pago;
 
-V. Cuidar que todas las oficinas de la Tesorería funcionen normalmente y los servidores públicos adscritos a ella, cumplan con las leyes fiscales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+V. Cuidar que todas las oficinas de la Secretaría funcionen normalmente y los servidores públicos adscritos a ella, cumplan con las leyes fiscales;
 
 VI. Representar a la Hacienda Pública en todos los asuntos fiscales, por sí o a través de los recaudadores de rentas en sus respectivas circunscripciones territoriales;
 
@@ -381,25 +453,49 @@ IX. Fijar el monto de las fianzas a los servidores públicos que tengan a su cui
 
 X. Activar por todos los medios legales, como representante del Fisco, los asuntos que se tramiten en los Tribunales, en los que tenga intereses la Hacienda Pública;
 
-XI. Consignar ante el Ministerio Público a los servidores públicos de la Tesorería que cometan algún delito en el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XI. Consignar ante el Ministerio Público a los servidores públicos de la Secretaría que cometan algún delito en el desempeño de sus funciones;
 
 XII. Proponer al titular del Poder Ejecutivo, el personal del Ramo de Hacienda;
 
-XIII. Resolver las consultas sobre la interpretación de las leyes fiscales del Estado, que sean sometidas a su consideración por los particulares y servidores públicos, debiendo resolverlas en el primer caso dentro de los treinta días siguientes. En ningún caso dichas resoluciones generan derechos ni obligaciones en contrario a lo dispuesto por la Ley;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XIII. Resolver las consultas sobre la interpretación de las leyes fiscales del Estado, que sean sometidas a su consideración por los particulares y servidores públicos, debiendo resolverlas dentro de los treinta días hábiles siguientes. En ningún caso dichas resoluciones generan derechos ni obligaciones en contrario a lo dispuesto por la Ley;
 
 XIV. Establecer o modificar mediante disposiciones de carácter general, los sistemas o procedimientos que deben seguirse para la mejor aplicación de las leyes y reglamentos fiscales;
 
 XV. Tramitar y resolver dentro de los términos legales, los recursos que ante él se interpongan conforme a las leyes fiscales;
 
-XVI. Resolver los asuntos que le competen y que se tramiten en las dependencias de la Tesorería; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XVII. Las demás que le correspondan conforme a las leyes, reglamentos y acuerdos del titular del Poder Ejecutivo.
+XVI. Resolver los asuntos que le competen y que se tramiten en las unidades administrativas de la Secretaria;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XVII. Ordenar y practicar visitas domiciliarias y de otros actos de fiscalización, a los contribuyentes, responsables solidarios y terceros con ellos relacionados en los términos establecidos en las disposiciones fiscales;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XVIII. Determinar los impuestos y sus accesorios y determinar en cantidad liquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados, así como determinar los derechos, contribuciones de mejora, aprovechamientos y sus accesorios que deriven del ejercicio de las facultades de comprobación;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XIX. Imponer las multas por infracciones a las disposiciones fiscales que se conozcan con motivo del ejercicio de las facultades de comprobación del cumplimiento de las obligaciones fiscales, en términos de las disposiciones fiscales; y excepcionalmente realizar la condonación de éstas;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XX. Garantizar el interés fiscal y de la Hacienda Pública Estatal, emitiendo las medidas de aseguramiento que sean necesarias; y,
+
+XXI. Las demás que le correspondan conforme a las leyes, reglamentos y acuerdos del Titular del Poder Ejecutivo.
+
+(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008) (F. DE E., P.O. 16 DE ENERO DE 2009) (F. DE E., P.O. 29 DE MAYO DE 2009)
 
 ###### ARTICULO 29.
 
-La Tesorería, a solicitud de los contribuyentes, podrá autorizar el pago a plazos, ya sea diferido o en parcialidades, de las contribuciones omitidas y sus accesorios, sin que dicho plazo exceda de un año, de conformidad con lo siguiente:
+La Secretaria a solicitud de los contribuyentes, podrá autorizar el pago a plazos, ya sea diferido o en parcialidades de las contribuciones omitidas y sus accesorios, sin que dicho plazo exceda de un año, de conformidad con lo siguiente:
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 Se procederá a actualizar las contribuciones omitidas y las multas que correspondan, conforme a lo dispuesto por el artículo 19-A de este Código. Así mismo se calcularán los recargos, desde el mes en que debieron pagarse las contribuciones omitidas, hasta aquel en que se conceda la autorización, integrándose el crédito fiscal, de la siguiente forma:
 
@@ -411,25 +507,47 @@ c).- Los recargos por falta de pago oportuno desde el mes en que debieron pagars
 
 d).- Gastos de ejecución por las diligencias de cobro practicadas hasta la fecha en que se conceda la autorización.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 Tratándose de multas por infracciones a las disposiciones fiscales, impuestas mediante resoluciones notificadas y no pagadas dentro del plazo concedido, estas serán actualizadas desde el mes en que se debieron pagar y hasta aquél en que se conceda la autorización.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 El monto de la primera parcialidad, será el resultado de dividir el total del crédito fiscal integrado conforme a los incisos anteriores, entre el número de parcialidades solicitadas y previo pago de ésta, se aplicará conforme a lo dispuesto del artículo 19 de este Código.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 Al monto del crédito fiscal, disminuida la primera parcialidad, se calculará el monto de los recargos por financiamiento, aplicando la tasa correspondiente que establezca la ley de Ingresos del Estado, durante los meses que comprenda el plazo autorizado, desde la segunda hasta la enésima parcialidad de que se trate.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 El crédito determinado conforme al párrafo anterior, se expresará en Unidades de Inversión, dividiendo su importe entre el valor de la Unidad de Inversión, en la fecha de autorización.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 El valor de cada parcialidad restante, se determinará dividiendo el monto del crédito expresado en Unidades de Inversión, entre el resto de parcialidades autorizadas.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 Tratándose de la autorización de pago a plazo diferido, una vez actualizadas las contribuciones omitidas y las multas que correspondan, en los términos del segundo párrafo de este artículo, se calcularán los recargos por financiamiento durante los meses que comprenda el plazo que se autorice, aplicando la tasa que para este efecto establezca la Ley de Ingresos del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 El monto del crédito determinado conforme al párrafo anterior, se expresará en Unidades de Inversión, dividiendo su importe entre el valor de la Unidad de Inversión, en la fecha de autorización.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 En la fecha de pago, los montos en Unidades de Inversión se reexpresarán en pesos, conforme al valor que para estos efectos dé a conocer el Banco de México.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 No procederá la autorización a que se refiere este artículo, tratándose de aquellas contribuciones que debieron de pagarse en el año de calendario en curso, o de las que debieron pagarse en los seis meses anteriores, al mes en que se solicite la autorización.
 
-La Tesorería, en el acuerdo de autorización de pago a plazos, exigirá del contribuyente, que garantice el interés fiscal en cualquiera de las formas que establece el artículo 120 de este Código.
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008) (F. DE E., P.O. 16 DE ENERO DE 2009) (F. DE E., P.O. 29 DE MAYO DE 2009)
+
+La Secretaría, en el acuerdo de autorización de pago a plazos, exigirá del contribuyente, que garantice el interés fiscal en cualquiera de las formas que establece el artículo 120 de este Código.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 Quedará insubsistente la autorización de pagar a plazos en forma diferida o en parcialidades, cuando:
 
@@ -439,17 +557,19 @@ II.- Desaparezca o resulte insuficiente la garantía del interés fiscal otorgad
 
 III.- El contribuyente sea declarado en quiebra o solicite su liquidación judicial.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 30.
 
-Los demás servidores públicos del ramo hacendario, tendrán las facultades que establece este Código, el Reglamento Interior de la Tesorería y demás disposiciones legales inherentes, las que ejercerán de conformidad al ámbito de competencia que les señalen.
+Los demás servidores públicos del ramo hacendario, tendrán las facultades que establece este Código, el Reglamento Interior y demás disposiciones legales inherentes, las que ejercerán de conformidad al ámbito de competencia que les señalen.
 
 ###### ARTICULO 31.
 
 Las autoridades fiscales proporcionarán asistencia gratuita a los contribuyentes y para ello procurarán:
 
-I. Explicar las disposiciones fiscales utilizando en lo posible un lenguaje llano alejado de tecnicismos, a través de las distintas oficinas de la Tesorería;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+I. Explicar las disposiciones fiscales utilizando en lo posible un lenguaje llano alejado de tecnicismos, a través de las distintas oficinas de la Secretaría;
 
 II. Diseñar las formas oficiales que de conformidad con las disposiciones fiscales y este Código, estén obligados a presentar los contribuyentes, hacerlas de su conocimiento a través del Periódico Oficial del Estado y ponerlas a su disposición con oportunidad;
 
@@ -517,9 +637,9 @@ II. Requerir a los contribuyentes, responsables solidarios o terceros con ellos 
 
 III. Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones;
 
-IV. Allegarse las pruebas necesarias para formular la denuncia, querella o declaratoria al Ministerio Público para que ejercite la acción penal por la posible comisión de delitos fiscales.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-Las actuaciones que practique la Tesorería tendrán el mismo valor probatorio que la ley relativa concede a las actas de la Policía Judicial; y la propia Tesorería, a través de los abogados que designe, será coadyuvante del Ministerio Público, en los términos del Código Procesal Penal del Estado; y
+IV. Allegarse las pruebas necesarias para formular la denuncia, querella o declaratoria al Ministerio Público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practique la Secretaría tendrán el mismo valor probatorio que la ley relativa concede a las actas de la Policía Ministerial y la propia Secretaría, a través de los abogados que designe, será coadyuvante del Ministerio Público, en los términos del Código Procesal Penal del Estado; y,
 
 V. Practicar visitas a los contribuyentes, los responsables solidarios o terceros relacionados con ellos, y revisar los datos, documentos o informes que se requieran.
 
@@ -605,7 +725,9 @@ Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona
 
 Cuando las autoridades fiscales soliciten de los contribuyentes, responsables solidarios o terceros, informes, datos o documentos, para el ejercicio de sus facultades de comprobación, fuera de una visita domiciliaria, se estará a lo siguiente:
 
-I. La solicitud se notificará en el domicilio manifestado ante la Tesorería, por la persona a quien va dirigida. Tratándose de personas físicas, también podrá notificarse en su casa habitación o lugar donde éstas se encuentren;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+I. La solicitud se notificará en el domicilio manifestado ante la Secretaria, por la persona a quien va dirigida. Tratándose de personas físicas, también podrá notificarse en su casa habitación o lugar donde éstas se encuentren;
 
 II. En la solicitud se indicará el lugar y el plazo en el cual se debe proporcionar los datos, informes o documentos;
 
@@ -721,15 +843,19 @@ I. La omisión sea descubierta por las autoridades fiscales;
 
 II. La omisión haya sido corregida por el contribuyente después de que haya mediado requerimiento o cualquier otra gestión notificada por las autoridades fiscales, tendientes a la comprobación del cumplimiento de disposiciones fiscales; y
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-III. Haya transcurrido el plazo que se establezca para la prestación de los servicios de control vehicular a que se refiere el artículo 185 de la Ley de Hacienda del Estado de Michoacán.
+III. Haya transcurrido el plazo que se establezca para la prestación de los servicios de control vehicular a que se refiere el Capitulo II, del Título Cuarto de la Ley de Hacienda del Estado de Michoacán.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 57.
 
-La Tesorería podrá condonar las multas por infracción a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
+La Secretaría podrá condonar las multas por infracción a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
 
-La solicitud de condonación de multas en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Tesorería al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+La solicitud de condonación de multas en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código.
 
 La solicitud dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal.
 
@@ -853,6 +979,10 @@ II. Con el equivalente a 5 días de salario mínimo vigente en el Estado, a las 
 
 III. Con el equivalente al 50% de las sanciones a que se refieren las sanciones I y II de este artículo, a las personas físicas y morales y demás obligados, cuando se coloquen ene l supuesto de la comprendida en la fracción II.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Las multas a que se refiere el presente artículo, deberán cubrirse conjuntamente con el cumplimiento de la presentación y/o exhibición de las declaraciones previamente requeridas por la autoridad fiscal del Estado.
+
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 69.
@@ -911,21 +1041,25 @@ b) Dos placas.
 
 No se considerará infracción cuando el usuario compruebe mediante acta levantada ante el Ministerio Público, que le fue robada.
 
-VI. No realizar el trámite de reposición de tarjetas de circulación en caso de extravío; y
+VI. No realizar el trámite de reposición de tarjetas de circulación en caso de extravío; y (sic)
 
-VII. No presentar la baja del vehículo automotor o remolque.
+VII. No presentar la baja del vehículo automotor o remolque;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VIII. No tramitar el cambio de propietario o de domicilio dentro del plazo señalado en la fracción VI del artículo 190 de la Ley de Hacienda del Estado de Michoacán.
+VIII. No tramitar el cambio de propietario o de domicilio dentro del plazo señalado por el artículo 42 de la Ley de Hacienda del Estado de Michoacán;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-IX. Tramitar extemporáneamente la obtención original de placas de circulación de vehículos nuevos, y
+IX. Tramitar extemporáneamente la obtención original de placas de circulación de vehículos nuevos, y (sic)
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-X. Colocar en los vehículos automotores, placas con características que no correspondan a las de las placas autorizadas por la autoridad competente o colocar placas distintas a las asignadas.
+X. Colocar en los vehículos automotores, placas con características que no correspondan a las de las placas autorizadas por la autoridad competente o colocar placas distintas a las asignadas;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XI. No realizar el refrendo anual de calcomanía, en las fechas correspondientes.
 
 ###### ARTICULO 72.
 
@@ -947,11 +1081,15 @@ III. Del equivalente de 2 a 4 días de salario mínimo vigente, a la comprendida
 
 IV. Del equivalente a 20 días de salario mínimo vigente, a la comprendida en la fracción X y en caso de reincidencia por el doble de la señalada en esta fracción.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 73.
 
-Son infracciones a las disposiciones relacionadas con el Impuesto sobre Compraventa de Vehículos de Motor entre particulares:
+Son infracciones a las disposiciones relacionadas con el Impuesto sobre Enajenación de Vehículos de Motor Usados.
 
-I. No presentar ante la Tesorería, la documentación que ampara la propiedad del vehículo objeto de la enajenación, en el plazo que establece la ley;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+I. No presentar ante la Secretaría, la documentación que ampara la propiedad del vehículo objeto de la enajenación, en el plazo que establece la ley;
 
 II. No enterar el impuesto retenido dentro del plazo que establece la ley; y
 
@@ -977,17 +1115,23 @@ Los delitos fiscales que aprovechen a una persona moral o a una agrupación, aun
 
 Por los delitos fiscales no se impondrán sanciones pecuniarias en el proceso penal. Las autoridades fiscales con arreglo a las disposiciones de este Código, harán efectivo el cobro de las contribuciones omitidas, de los recargos, de las sanciones administrativas impuestas y demás prestaciones procedentes, sin que ello afecte el procedimiento penal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 77.
 
-Para proceder penalmente contra los presuntos responsables de los delitos fiscales previstos en este capítulo, será necesario que el Tesorero General del Estado, presente querella ante el Ministerio Público.
+Para proceder penalmente contra los presuntos responsables de los delitos fiscales previstos en este Capítulo, será necesario que el Secretario de Finanzas y Administración del Estado, presente querella ante el Ministerio Público.
 
 No procederá la querella a que se refiere el párrafo anterior, si el adeudo fiscal, incluyendo el de las sanciones impuestas por infracciones al presente Código, no excede del equivalente a 100 días de salario mínimo diario vigente en la región.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 78.
 
-La acción penal se extinguirá antes de que el Ministerio Público formule conclusiones en el proceso, cuando se paguen las contribuciones que se pretendieron eludir y los demás adeudos exigibles, y el Tesorero General del Estado, por acuerdo del Gobernador, otorgue perdón al presunto responsable de alguno de los delitos a que se refiere este capítulo.
+La acción penal se extinguirá antes de que el Ministerio Público formule conclusiones en el proceso, cuando se paguen las contribuciones que se pretendieron eludir y los demás adeudos exigibles, y el Secretario de Finanzas y Administración del Estado, por acuerdo del Gobernador, otorgue perdón al presunto responsable de alguno de los delitos a que se refiere este Capítulo.
 
-En el caso del último párrafo del artículo anterior, si no obstante lo que él dispone, se hubiese presentado querella, será forzado el perdón que debe otorgar el Tesorero General del Estado, dentro de los cinco días siguientes a la fecha del pago.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+En el caso del último párrafo del artículo anterior, si no obstante lo que él dispone, se hubiese presentado querella, será forzado el perdón que debe otorgar el Secretario de Finanzas y Administración del Estado, dentro de los cinco días siguientes a la fecha del pago.
 
 No se podrá otorgar perdón, en ningún caso, a quien se hubiese concedido ese beneficio por delitos fiscales cometidos con anterioridad, dentro de un lapso de cinco años anteriores.
 
@@ -1163,9 +1307,13 @@ II. Se dicten en el procedimiento administrativo de ejecución, cuando se alegue
 
 Si las violaciones tuvieran lugar con posterioridad a la mencionada convocatoria o se tratare de ventas de bienes fuera de subasta, el recurso se hará valer contra la resolución que finque el remate o la que autorice la venta fuera de subasta; y
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 III. Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 106 de este Código.
 
-La oposición al procedimiento ejecutivo será resuelta en todos los casos por la Tesorería.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+La oposición al procedimiento ejecutivo será resuelta en todos los casos por la Secretaría.
 
 ###### ARTICULO 102.
 
@@ -1341,7 +1489,9 @@ En este caso, se tendrá como fecha de notificación la de la última publicaci�
 
 Los contribuyentes podrán garantizar el interés fiscal en alguna de las formas siguientes:
 
-I. Depósito de dinero en la Tesorería;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+I. Depósito de dinero en la Secretaría;
 
 II. Prenda o hipoteca;
 
@@ -1353,7 +1503,9 @@ V. Embargo en la vía administrativa.
 
 La garantía deberá comprender, además de las contribuciones adeudadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá ampliarse la garantía para que cubra el crédito y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
 
-El Tesorero General podrá dispensar las garantías del interés fiscal cuando, en relación con el monto del crédito respectivo, sean notorias la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+El Secretario de Finanzas y Administración podrá dispensar las garantías del interés fiscal cuando, en relación con el monto del crédito respectivo, sean notorias la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
 
 ###### ARTICULO 121.
 
@@ -1369,7 +1521,9 @@ III. En los demás casos que señalen este ordenamiento y la ley.
 
 Las garantías constituidas para asegurar el interés fiscal a que se refieren las fracciones II, IV y V del artículo 120 de este Código, se harán efectivas a través del procedimiento administrativo de ejecución.
 
-Si la garantía consiste en depósito de dinero o fianza, una vez que el crédito fiscal y sus accesorios quede firme, se aplicará por la Tesorería.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Si la garantía consiste en depósito de dinero o fianza, una vez que el crédito fiscal y sus accesorios queden firmes, se aplicará por la Secretaría.
 
 ###### ARTICULO 123.
 
@@ -1399,11 +1553,37 @@ I. Para hacer efectiva la responsabilidad civil en que incurran los servidores p
 
 II. Cuando los particulares se hayan sometidos (sic) expresamente a dicho procedimiento, al contratar con el Estado o con alguno de sus organismos descentralizados.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 126.
 
-Se podrá practicar embargo precautorio para asegurar el interés fiscal, antes de la fecha en que el crédito esté determinado o sea exigible, cuando a juicio de la autoridad hubiere peligro de que el obligado se ausente, enajene u oculte sus bienes, o realice cualquier maniobra tendiente a evadir el cumplimiento. Si el pago se hiciere dentro de los plazos legales, el contribuyente no estará obligado a cubrir los gastos que origine la diligencia y se levantará el embargo.
+Para asegurar el interés fiscal, cuando el crédito fiscal no sea exigible pero haya sido determinado por el contribuyente o por la autoridad en el ejercicio de sus facultades de comprobación y cuando ajuicio de la autoridad exista peligro de que el obligado se ausente o realice enajenación de bienes o cualquier otra maniobra tendiente a evadir el cumplimiento de las disposiciones fiscales, se podrá practicar embargo precautorio, sobre los bienes o la negociación del contribuyente.
 
-El embargo quedará sin efecto si la autoridad no emite, dentro del plazo de un año contado desde la fecha en que fue practicado, resolución en la que determine créditos fiscales. Si dentro del plazo señalado la autoridad los determina, el embargo precautorio se convertirá en definitivo y proseguirá el procedimiento administrativo de ejecución conforme a las disposiciones de este Capítulo, debiendo dejar constancia de la resolución y de la notificación de la misma en el expediente de ejecución. Si el particular garantiza el interés fiscal en los términos del artículo 120 de este Código, se levantará el embargo.
+La autoridad que practique el embargo precautorio levantará acta circunstanciada en la que se precisen las razones del embargo.
+
+La autoridad requerirá al obligado para que dentro del término de 10 días desvirtúe el monto por el que se realizó el embargo. Éste quedará sin efecto cuando el contribuyente cumpla con el requerimiento. Transcurrido el plazo antes señalado, sin que el obligado hubiera desvirtuado el monto del embargo precautorio, éste quedará firme.
+
+El embargo precautorio practicado antes de la fecha en que el crédito fiscal sea exigible, se convertirá en definitivo al momento de la exigibilidad de dicho crédito fiscal y se aplicará el procedimiento administrativo de ejecución.
+
+Si el particular garantizará el interés fiscal en los términos del artículo 120 de este Código, dicho embargo precautorio quedará sin efectos.
+
+Son aplicables al embargo precautorio que refiere este artículo y al previsto por el artículo 38 de este Código, las disposiciones establecidas para el embargo y para la intervención en el procedimiento administrativo de ejecución que, conforme a su naturaleza, le sean aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+ARTICULO 126 A. Las autoridades podrán decretar el aseguramiento de bienes o la negociación de éstos cuando:
+
+I. El contribuyente se oponga u obstaculice la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales o no se pueda notificar su inicio por haber desaparecido o por ignorarse su domicilio;
+
+II. Después de iniciadas las facultades de comprobación, el contribuyente desaparezca o exista riesgo inminente de que oculte, enajene o dilapide sus bienes;
+
+III. El contribuyente se niegue a proporcionar la contabilidad que acredite el cumplimiento de las disposiciones fiscales, a que está obligado;
+
+IV. Se realicen visitas a contribuyentes con locales, puestos fijos o semifijos en la vía pública y dichos contribuyentes no puedan demostrar que se encuentran inscritos en el Registro Federal de Contribuyentes, ni exhibir los comprobantes que amparen la legal posesión o propiedad de las mercancías que vendan en esos lugares. Una vez inscrito el contribuyente en el citado registro y acreditada la posesión o propiedad de la mercancía, se levantará el aseguramiento realizado; y,
+
+V. Se detecten envases o recipientes que contengan bebidas alcohólicas sin que tengan adheridos marbetes o precintos o bien, no se acredite la legal posesión de los marbetes o precintos o estos se encuentren alterados o sean falsos.
+
+En los casos anteriores, la autoridad que practique el aseguramiento deberá levantar acta circunstanciada en la que precise las razones para hacerlo.
 
 ###### ARTICULO 127.
 
@@ -1457,11 +1637,15 @@ Las personas físicas y morales, están obligadas a pagar el 3% del crédito fis
 
 I. Por el requerimiento a que se refiere el primer párrafo del Artículo 133 del presente Código;
 
-II. Por la de embargo a que se refiere la fracción I del Artículo 133 de este Código, incluyendo los señalados en los Artículos 120 fracción V y 126 del propio Código;
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008) (F. DE E., P.O. 16 DE ENERO DE 2009) (F. DE E., P.O. 29 DE MAYO DE 2009)
+
+II. Por la de embargo a que se refiere la fracción I del Artículo 133 de este Código, incluyendo los señalados en los artículos 120 fracción V, 126 y 126 A del propio Código;
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al Fisco Estatal a que se refiera la fracción I del Artículo 133 del presente ordenamiento;
 
-Cuando en los casos de las fracciones anteriores, el 3% del crédito sea inferior a tres veces el salario mínimo general correspondiente al Estado de Michoacán, se cobrará esta cantidad en lugar del 3% del crédito.
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008) (F. DE E., P.O. 16 DE ENERO DE 2009)
+
+Cuando en los casos de las fracciones anteriores, el 3% del crédito sea inferior a tres veces el salario mínimo general diario, correspondiente al Estado de Michoacán, se cobrará esta cantidad en lugar del 3% del crédito.
 
 En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a un salario mínimo general correspondiente al Estado de Michoacán, elevando al año.
 
@@ -1575,13 +1759,17 @@ Si al designarse bienes para el embargo administrativo se opusiera un tercero fu
 
 En todo momento, los opositores podrán ocurrir ante la oficina recaudadora, haciéndole saber la existencia de otros bienes propiedad del deudor del crédito fiscal libres de gravamen y suficientes para responder de las prestaciones fiscales exigidas. Esta información no obligará a la recaudadora a levantar el embargo sobre los bienes a que se refiere la oposición.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 141.
 
-Cuando los bienes señalados para la traba de ejecución estuvieren ya embargados por otras autoridades no fiscales, o sujetos a garantía hipotecaria, se practicará no obstante, el embargo administrativo, los bienes embargados se entregarán al depositario designado por la Tesorería o por el ejecutor, y se dará aviso a la autoridad correspondiente, para que él o los interesados, puedan hacer valer su reclamación de preferencia.
+Cuando los bienes señalados para la traba de ejecución estuvieren ya embargados por otras autoridades no fiscales o sujetos a garantía hipotecaria, se practicará, no obstante, el embargo administrativo; los bienes embargados se entregarán al depositario designado por la Secretaría o por el ejecutor, y se dará aviso a la autoridad correspondiente, para que el o los interesados, puedan hacer valer su reclamación de preferencia.
 
 Si los bienes señalados para la ejecución hubieran sido embargados por parte de autoridades fiscales municipales, se practicará el embargo, entregándose los bienes al depositario que designe la autoridad fiscal y se dará aviso a la autoridad municipal.
 
-En caso de inconformidad, la controversia resultante será resuelta por el Supremo Tribunal de Justicia del Estado, conforme a las reglas previstas por este Código, para el trámite del recurso de oposición al procedimiento administrativo de ejecución. En tanto se resuelve el procedimiento respectivo, no se hará aplicación del producto del remate, salvo que se garantice el interés fiscal a satisfacción de la Tesorería.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+En caso de inconformidad, la controversia resultante será resuelta por el Supremo Tribunal de Justicia del Estado, conforme a las reglas previstas por este Código, para el trámite del recurso de oposición al procedimiento administrativo de ejecución. En tanto se resuelve el procedimiento respectivo, no se hará aplicación del producto del remate, salvo que se garantice el interés fiscal a satisfacción de la Secretaria.
 
 ###### ARTICULO 142.
 
@@ -1605,15 +1793,19 @@ Si el deudor o cualquiera otra persona impidiere materialmente al ejecutor el ac
 
 Si durante el embargo, la persona con quien se entienda la diligencia no abriere las puertas de las construcciones, edificios o casas señaladas para traba o en los que se presume que existan bienes muebles embargables, el ejecutor, previo acuerdo fundado del jefe de la oficina ejecutora, hará que ante dos testigos sean rotas las cerraduras que fuere necesario, para que el depositario tome posesión del inmueble o para que siga adelante la diligencia.
 
-En igual forma, procederá el ejecutor cuando la persona con la que se entienda la diligencia, no abriere los muebles en los que aquél suponga se guardan dinero, alhajas, objetos de arte u otros bienes embargables, si no fuera factible romper o forzar las cerraduras, el mismo ejecutor trabará embargo en los muebles cerrados y en su contenido, los sellará y enviará en depósito a la oficina recaudadora, donde serán abiertos en el término de tres días por el deudor o por su representante legal y, en caso contrario, por un experto designado por la propia oficina, en la forma que determine la Tesorería, si no fuere factible romper o forzar las cerraduras de cajas u otros objetos unidos a un inmueble o de difícil transportación, el ejecutor trabará embargo sobre ellos y su contenido y lo sellará. Para su apertura se seguirá el procedimiento establecido en el párrafo anterior.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+En igual forma, procederá el ejecutor cuando la persona con la que se entienda la diligencia, no abriere los muebles en los que aquél suponga se guardan dinero, alhajas, objetos de arte u otros bienes embargables, si no fuera factible romper o forzar las cerraduras, el mismo ejecutor trabará embargo en los muebles cerrados y en su contenido, los sellará y enviará en depósito a la oficina recaudadora, donde serán abiertos en el término de tres días por el deudor o por su representante legal y, en caso contrario, por un experto designado por la propia oficina, en la forma que determine la Secretaria. Si no fuere factible romper o forzar las cerraduras de cajas u otros objetos unidos a un inmueble o de difícil transportación, el ejecutor trabará embargo sobre ellos y su contenido y los sellará. Para su apertura se seguirá el procedimiento establecido en el párrafo anterior.
 
 ###### ARTICULO 146.
 
 Cualquier otra dificultad que se suscite tampoco impedirá la procecución (sic) de la diligencia de embargo. El ejecutor la subsanará discrecionalmente, a reserva de lo que disponga el jefe de la oficina ejecutora.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTICULO 147.
 
-Los secuestros administrativos podrán ampliarse en cualquier momento del procedimiento de ejecución, cuando la Tesorería estime que los bienes embargados son insuficientes para cubrir las prestaciones fiscales insolutas y los vencimientos inmediatos.
+Los secuestros administrativos podrán ampliarse en cualquier momento del procedimiento de ejecución, cuando la Secretaria estime que los bienes embargados son insuficientes para cubrir las prestaciones fiscales insolutas y los vencimientos inmediatos.
 
 #### SECCION TERCERA. DE LA INTERVENCION
 
@@ -1681,7 +1873,9 @@ IV. Al quedar firme la resolución confirmatoria del acto impugnado, dictada en 
 
 Salvo los casos que este Código autoriza, toda venta se hará en subasta pública que se celebrará en el local de la oficina ejecutora.
 
-La Tesorería, podrá designar otro lugar para la venta u ordenar que los bienes embargados se vendan en lotes o piezas sueltas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+La Secretaria, podrá designar otro lugar para la venta u ordenar que los bienes embargados se vendan en lotes o piezas sueltas.
 
 ###### ARTICULO 156.
 
@@ -1689,7 +1883,9 @@ Las autoridades no fiscales estatales, en ningún caso podrán sacar a remate lo
 
 Los remates que se celebren en contravención a lo dispuesto en el párrafo anterior, serán nulos, y las adjudicaciones que hagan como consecuencia de ellos, carecerán de todo valor y eficacia jurídica.
 
-Sin embargo, las autoridades no fiscales estatales, podrán secuestrar el remanente que, llegado el caso, resulte del remate administrativo para los efectos del artículo 176, salvo que se garantice el interés fiscal a satisfacción de la Tesorería.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Sin embargo, las autoridades no fiscales estatales, podrán secuestrar el remanente que, llegado el caso, resulte del remate administrativo para los efectos del artículo 176, salvo que se garantice el interés fiscal a satisfacción de la Secretaría.
 
 ###### ARTICULO 157.
 
@@ -1727,11 +1923,15 @@ En toda postura deberá ofrecerse de contado, cuando menos la parte suficiente p
 
 Si el importe de la postura es menor al interés fiscal, se rematarán de contado los bienes embargados.
 
-La autoridad ejecutora podrá enajenar a plazos los bienes embargados en los casos y condiciones que establezca la Tesorería. En este supuesto quedará liberado de la obligación de pago, el embargado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+La autoridad ejecutora podrá enajenar a plazos los bienes embargados en los casos y condiciones que establezca la Secretaria. En este supuesto el embargado quedará liberado de la obligación de pago.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 163.
 
-Al escrito en el que se haga la postura se acompañará necesariamente un certificado de depósito por un importe cuando menos del 10% del valor fijado a los bienes en la convocatoria, expedido por la Tesorería.
+Al escrito en el que se haga la postura se acompañará necesariamente un certificado de depósito por un importe cuando menos del 10% del valor fijado a los bienes en la convocatoria, expedido por la Secretaría.
 
 El importe de los depósitos que se constituyan de acuerdo con lo que establece el presente artículo, servirá de garantía para el cumplimiento de las obligaciones que contraigan los postores por las adjudicaciones que se les hagan de los bienes rematados. Inmediatamente después de fincado el remate, previa orden de la oficina recaudadora, se devolverán los certificados de depósito a los postores, excepto el que corresponda al postor admitido, cuyo valor continuará como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de la venta.
 
@@ -1817,7 +2017,9 @@ Una vez realizado el pago por el embargado, éste deberá retirar los bienes mot
 
 Las cantidades excedentes después de haber hecho la aplicación del producto del remate, venta fuera de subasta o adjudicación de los bienes secuestrados, se entregarán al embargado, salvo que medie orden escrita de autoridad competente o que el propio embargado acepte, también por escrito, que se haga entrega total o parcial del saldo a un tercero.
 
-En caso de conflicto, el remanente se depositará en la Tesorería, en tanto resuelven los tribunales competentes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+En caso de conflicto, el remanente se depositará en la Secretaria, en tanto resuelven los tribunales competentes.
 
 T R A N S I T O R I O S
 
@@ -1888,3 +2090,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 28 DE SEPTIEMBRE DE 2007.
 
 ARTÍCULO ÚNlCO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+###### ARTICULO ÚNICO.
+
+La presente Ley, entrará en vigor el día 1° de enero de 2009, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
