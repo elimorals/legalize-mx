@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2007-12-21"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -429,7 +429,9 @@ b) Las controversias que se susciten entre el Ejecutivo y el Tribunal Superior d
 
 c) Las renuncias y licencias del Titular del Poder Ejecutivo y de los Diputados;
 
-d) La designación de Comisionados Ciudadanos de la Comisión Estatal Electoral y de los Magistrados del Tribunal Electoral del Estado;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+d) La designación de Comisionados Ciudadanos de la Comisión Estatal Electoral, los Comisionados de la Comisión de Transparencia y Acceso a la Información y de los Magistrados del Tribunal Electoral del Estado;
 
 e) El establecimiento o supresión de municipalidades;
 
@@ -595,21 +597,35 @@ g) Lo relativo al desarrollo y fomento de la investigación científica y tecnol
 
 h) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VII.- Comisión de Ecología:
+VII.- Comisión de Medio Ambiente:
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
 
 a) La legislación relativa a la protección, preservación y renovación del equilibrio ecológico;
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
+
 b) La legislación relativa al agua potable, saneamiento y tratamiento del agua, así como procesamiento de desechos sólidos;
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
 
 c) La legislación relativa a la protección de los animales;
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
+
 d) Lo referente al cumplimiento de la Ley de Ordenamiento Territorial de los Asentamiento (sic) Humanos y de Desarrollo Urbano, en lo concerniente al aspecto ambiental;
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
 
 e) Representar al Congreso ante las autoridades ambientales en los temas materia de esta Comisión;
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
+
 f) Coordinarse con otra u otras comisiones para tratar temas comunes o relacionados con sus atribuciones; y
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
 
 g) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
@@ -2260,3 +2276,15 @@ Artículo Segundo.- A la entrada en vigor del presente Decreto, los expedientes 
 Asimismo los expedientes en trámite actualmente turnados a la Comisión de Justicia y Seguridad Pública cuya materia consista en la reforma, adición o derogación de disposiciones al Código de Procedimientos Civiles del Estado de Nuevo León, serán returnados a la Comisión de Legislación y Puntos Constitucionales.
 
 Los expedientes de las materias que se mencionan en los dos párrafos anteriores que estén turnados en forma unida a otra Comisión distinta a las ya referidas, sólo se hará el returno a la Comisión que corresponda según lo estipulado en el Artículo 39 fracción II inciso j) y fracción III inciso a) del Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León.
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+DECRETO No. 306, POR EL QUE SE REFORMA LA FRACCION I, INCIDO D) DEL ARTICULO 39 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+DECRETO No. 336, POR EL QUE SE REFORMA LA FRACCION VI DEL ARTICULO 39 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
