@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2008-12-15"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -3469,23 +3469,41 @@ II.- Con la emancipación derivada del matrimonio;
 
 III.- Por la mayor edad del hijo.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Art. 444.
 
-La patria potestad se pierde:
+La patria potestad se pierde por sentencia judicial en los siguientes casos:
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1999)</small>
 
 I.- Cuando el que la ejerza es condenado por uno o más delitos graves, siempre que a criterio del juez se pueda poner en peligro la persona o bienes del menor;
 
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1999)</small>
+
 II.- Cuando el que la ejerza es condenado por un delito intencional en contra de la persona o bienes del menor. En este supuesto, el juez, en vista de las circunstancias, podrá decretar la pérdida de la patria potestad sobre los demás menores respecto de quienes la ejerzan;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1999)</small>
 
 III.- Cuando por las costumbres depravadas, malos tratos, explotación o abandono de los deberes de quien la ejerza, pudiera comprometerse la salud, la seguridad, la dignidad, la integridad o la moralidad de los menores, aún cuando estos hechos no sean penalmente punibles;
 
-IV.- Cuando quien la ejerza deje de asistir y convivir injustificadamente con el menor por más de siete días naturales, cuando éste se encuentre acogido en una Institución pública de Asistencia Social;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IV.- Cuando quien la ejerza deje de asistir y convivir en forma injustificada con el menor de edad, por más de quince días naturales consecutivos, cuando éste se encuentre acogido por una Institución legalmente constituida, y que cuente con las autorizaciones para su debido funcionamiento;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1999)</small>
 
 V.- Por abandono del menor durante un plazo de más de ciento ochenta días naturales, aún cuando no se comprometa su salud, seguridad o moralidad;
 
-VI.- Cuando quien la ejerza deje expósito al menor por un plazo de más de treinta días naturales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VI.- Cuando quien la ejerza deje expósito al menor de edad por un plazo de más de treinta días naturales; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VII.- Por incumplimiento parcial o total de la sentencia firme relativa a la obligación alimentaría por más de noventa días sin causa justificada.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1999)</small>
 
 También se perderá la patria potestad cuando quien la ejerza sea condenado expresamente a la pérdida de ese derecho.
 
@@ -16648,6 +16666,10 @@ Segundo.- La vigencia del presente Decreto establece la del diverso 225 que cont
 P.O. 15 DE DICIEMBRE DE 2008.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+Único.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO TERCERO.
 
