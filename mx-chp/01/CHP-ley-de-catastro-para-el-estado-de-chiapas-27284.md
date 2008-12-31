@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-catastro-para-el-estado-de-chiapas-27284"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-23"
-last_updated: "2007-11-21"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE CATASTRO PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el lunes 23 de diciembre del 2002.
 
@@ -173,9 +173,9 @@ VII. CLAVE O NÚMERO DE REGISTRO CATASTRAL.- Los caracteres numéricos que ident
 
 VIII. CÉDULA – AVALÚO CATASTRAL.- Es el documento en el que se consignan las características y el valor catastral o comercial de un predio o fracción de éste.
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008) (F. DE E., P.O. 7 DE ENERO DE 2009)
 
-IX. CÉDULA CATASTRAL.- El documento que comprueba que un predio está registrado en el catastro, certifica la existencia del mismo y contiene la información de sus características físicas principales.
+IX. CÉDULA CATASTRAL.- El documento que comprueba que un predio esta registrado en el catastro, certifica la existencia del mismo y contiene la información de sus características principales.
 
 X. CONSTRUCCIÓN.- Las edificaciones de cualquier tipo, destino o uso, inclusive los equipos e instalaciones adheridas permanentemente y que forman parte integral de ella.
 
@@ -185,9 +185,9 @@ XII. CONSTRUCCIÓN PROVISIONAL.- La que por su estructura sea fácilmente desmon
 
 XIII. CONSTRUCCIÓN RUINOSA.- La que por su estado de conservación o estabilidad representa un riesgo grave para su habitabilidad.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XIV. CONDOMINIO.- Inmueble construido o sin construcción, con áreas privativas y de uso común, sobre el cual se constituye el régimen de propiedad en condominio, pudiendo ser vertical u horizontal, de acuerdo a la Ley de la materia.
+XIV. CONDOMINIO.- Inmueble construido o sin construcción, con áreas privativas y de uso común, sobre el cual se constituye el régimen de propiedad en condominio, pudiendo ser vertical, horizontal o mixto, de acuerdo a la ley de la materia.
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -281,6 +281,10 @@ XLVII. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2006)
 
 XLVIII. ZONA RÚSTICA.- El área o superficie que se ubica fuera del perímetro y del área de crecimiento urbano, destinada generalmente para uso agropecuario, forestal, minero u otros.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XLIX. DICTAMEN DE AVALÚO CATASTRAL.- Es el documento mediante el cual la Dirección de Catastro Urbano y Rural, determina la procedencia o improcedencia respecto de la técnica valuatoria aplicada en el avalúo catastral, por el perito valuador registrado ante la Secretaría de Hacienda.
+
 ### Capítulo tercero
 
 De las Autoridades Catastrales y sus atribuciones.
@@ -291,13 +295,17 @@ Son autoridades catastrales:
 
 I. El Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-II. El Secretario de Finanzas;
+II. El Secretario de Hacienda;
 
 III. El Subsecretario de Ingresos;
 
-IV. El Director de Catastro Urbano y Rural.
+IV. El Director de Catastro Urbano y Rural;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+V. El Delegado de Hacienda.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
@@ -309,11 +317,11 @@ I. Establecer las normas, políticas y lineamientos generales relativos al ejerc
 
 II. Suscribir los convenios de coordinación en materia de catastro que se requieran para el eficaz ejercicio de las funciones correspondientes, con dependencias y entidades de la administración pública federal y otras entidades federativas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-###### Artículo 9.
+###### Artículo 9°.
 
-Son atribuciones del Secretario de Finanzas:
+Son atribuciones del Secretario de Hacienda;
 
 I. Establecer las normas para la integración, conservación y actualización de los registros y sistemas de información necesarios para identificar y catalogar los elementos físicos, técnicos, administrativos, geográficos, estadísticos, fiscales, económicos, jurídicos y sociales que conforman el territorio del Estado.
 
@@ -399,11 +407,11 @@ Lo previsto en el párrafo anterior no constituye instancia, no interrumpe o sus
 
 ### Capítulo Cuarto. De la Dirección de Catastro Urbano y Rural y sus funciones
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 12.
 
-La Dirección de Catastro Urbano y Rural, es el órgano administrativo de la Secretaría de Finanzas, encargado del cumplimiento de esta Ley, su Reglamento y disposiciones relativas y tendrá bajo su dirección y control, la ejecución general de las actividades catastrales en el Estado, regulando el funcionamiento técnico y administrativo.
+La Dirección de Catastro Urbano y Rural, es el organismo administrativo de la Secretaría de Hacienda, encargado del cumplimiento de esta Ley, su Reglamento y disposiciones relativas y tendrá bajo su dirección y control, la ejecución general de actividades catastrales en el Estado, regulando el funcionamiento técnico y administrativo.
 
 ###### Artículo 13.
 
@@ -415,9 +423,9 @@ II. Practicar los levantamientos catastrales, así como todo lo relacionado con 
 
 III. Elaborar, actualizar y conservar los planos catastrales generales y específicos que sean necesarios;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-IV. Registrar oportunamente los predios urbanos, suburbanos y rústicos; así como las modificaciones que se operen en los bienes inmuebles que alteren los datos que integran la inscripción catastral;
+IV. Registrar oportunamente los predios urbanos y rústicos; así como las modificaciones que se operen en los bienes inmuebles que alteren los datos que integran la inscripción catastral;
 
 V. Practicar la inspección catastral de los bienes inmuebles, mediante su localización, deslinde y mensura, con el objeto de recabar sus elementos físicos, técnicos, fiscales, jurídicos, económicos, sociales y estadísticos;
 
@@ -505,11 +513,13 @@ El levantamiento topográfico de bienes inmuebles, comprende los trabajos de cam
 
 El levantamiento geodésico de bienes inmuebles, comprende los trabajos de campo y gabinete destinado a determinar las coordenadas geodésicas de puntos físicos sobre el terreno, mediante observaciones diferenciales GPS y con relación al sistema de referencia establecido.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 17.
 
-El deslinde catastral, tiene por objeto ratificar, rectificar o aclarar los linderos entre predios colindantes.
+El deslinde catastral, tiene por objeto ratificar, rectificar o aclarar los linderos entre predios colindantes y sus áreas correspondientes.
 
-La Dirección de Catastro Urbano y Rural, practicará el deslinde catastral, en atención a la solicitud de los interesados, previo pago de los derechos que determine la Ley de Ingresos del Estado vigente, o bien de manera oficial para la actualización de los registros catastrales.
+La Dirección de Catastro Urbano y Rural, practicará el deslinde catastral, en atención a la solicitud de los interesados, previo pago de los derechos que determine la Ley Estatal de Derechos, o bien de manera oficial para la actualización de los registros catastrales.
 
 ###### Artículo 18.
 
@@ -531,11 +541,11 @@ La Dirección de Catastro Urbano y Rural, tiene la facultad de normar y regular 
 
 La valuación y actualización de valores catastrales tienen por objeto la determinación técnica del valor de los bienes inmuebles, ubicados dentro del territorio del Estado, de conformidad con la presente Ley, su Reglamento y el manual que para tal efecto expida la Dirección de Catastro Urbano y Rural.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 23.
 
-La Dirección de Catastro Urbano y Rural, sólo podrá previo pago de los derechos correspondientes que determine la Ley de Ingresos del Estado vigente, expedir documentos, planos y copias certificadas relacionados con los bienes inmuebles a:
+La Dirección de Catastro Urbano y Rural, sólo podrá previo pago de derechos correspondientes que determine la Ley Estatal de Derechos, expedir documentos, planos y copias certificadas relacionados con los bienes inmuebles a:
 
 I. Su propietario;
 
@@ -617,21 +627,19 @@ Los valores unitarios se indicarán para cada una de las clasificaciones de cons
 
 Para fines distintos de los fiscales, se podrán aplicar los costos indirectos al valor unitario de las construcciones, que se hayan edificado cumpliendo la normatividad de la materia.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS DE LA PRESENTE LEY, EL CONTENIDO DEL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO, QUEDO INMERSO EN EL PRESENTE PÁRRAFO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 35.
 
-La Dirección de Catastro Urbano y Rural, para fines fiscales deberá utilizar los valores unitarios vigentes para terrenos y construcciones, aprobados por el Congreso del Estado y publicados en el Periódico Oficial del Estado, con excepción de los casos previstos en los Artículos 44 y 48, de esta Ley.
+La Dirección de Catastro Urbano y Rural, para fines fiscales deberá utilizar los valores unitarios vigentes para terrenos y construcciones, aprobados por el Congreso del Estado y publicados en el Periódico Oficial, con excepción de los casos previstos en los artículos 44, fracciones VI, VIII, IX, XI, y 48, fracción II, de esta Ley.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
 Para los fines distintos de los fiscales, se podrán aplicar valores unitarios comerciales; para el caso de terrenos, deberá sustentarse con investigación de mercado.
 
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-Para el cumplimiento de lo anterior, la autoridad catastral por escrito, podrá delegar facultades a los peritos valuadores registrados y revalidados ante la Secretaría de Finanzas, a fin de que coadyuven con la actualización de los valores unitarios comerciales de terrenos y construcciones, con independencia de que realicen o no avalúos periciales en el ejercicio fiscal de que se trate.
+Para el cumplimiento de lo anterior, la autoridad catastral por escrito, podrá delegar facultades a los peritos valuadores registrados y revalidados ante la Secretaría de Hacienda a fin de que coadyuven con la actualización de los valores unitarios comerciales de terrenos y construcciones, con independencia de que realicen o no avalúos periciales en el ejercicio fiscal de que se trate.
 
 ###### Artículo 36.
 
@@ -681,17 +689,15 @@ El valor catastral de un predio tendrá vigencia durante el ejercicio fiscal en 
 
 La cédula - avalúo tendrá una vigencia de seis meses, contados a partir de la fecha de su expedición.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-###### Artículo 42-A.
+Artículo 42 A.- Para efectos de las operaciones traslativas de dominio de bienes inmuebles, se deberá considerar invariablemente el valor emitido por la autoridad catastral o por los peritos valuadores registrados y revalidados ante la Secretaría de Hacienda.
 
-Para efectos de las operaciones traslativas de dominio de bienes inmuebles, se deberá considerar invariablemente el valor emitido por la autoridad catastral o por los peritos valuadores registrados y revalidados ante la Secretaría de Finanzas.
-
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 43.
 
-El avalúo emitido por perito valuador registrado y revalidado ante la Secretaría de Finanzas, tendrá una vigencia de seis meses, contados a partir de la fecha de determinación, dicho avalúo deberá cumplir con las exigencias que para tales efectos establece el Reglamento de esta Ley.
+El avalúo emitido por perito valuador registrado y revalidado ante la Secretaría de Hacienda, tendrá una vigencia de seis meses, contados a partir de la fecha de determinación, dicho avalúo deberá cumplir con las exigencias que para tales efectos establece el Reglamento de esta Ley.
 
 ###### Artículo 44.
 
@@ -727,6 +733,10 @@ Las construcciones de tipo especial o que por sus características fuera de lo c
 
 Para las edificaciones constituidas bajo régimen de propiedad en condominio, deberá fijarse el valor para cada uno de los departamentos, despachos, o cualquier otro tipo de locales, comprendiéndose en la valuación la parte proporcional de los bienes comunes o indivisos, de conformidad con lo que establece esta Ley y los ordenamientos relativos.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Para el cumplimiento de lo anterior, deberá asentarse en las escrituras de constitución del régimen de propiedad en condominio, la tabla de indivisos correspondiente.
+
 ###### Artículo 47.
 
 En los casos de bienes inmuebles que no estén registrados en la Dirección de Catastro Urbano y Rural, por causa imputable al propietario, poseedor, usufructuario o representante legal de estos; deberán valuarse de acuerdo con la situación que guarden en la fecha de su registro.
@@ -747,11 +757,11 @@ En ambos casos, con base en los elementos disponibles, se estimará el valor pro
 
 La Dirección de Catastro Urbano y Rural, está facultada para la elaboración de avalúos de los bienes inmuebles ubicados en el territorio del Estado, los cuales se utilizarán como base gravable para el cobro de las contribuciones inmobiliarias; para la adquisición, desincorporación o arrendamiento de inmuebles por parte de las dependencias y entidades de la administración pública estatal y municipal, según proceda; la indemnización a expropiaciones por causa de utilidad pública y la liberación del derecho de vía para la construcción de vialidades terrestres, entre otros.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 50.
 
-La Autoridad Catastral, podrá delegar la facultad para la elaboración de avalúos con fines de operaciones traslativas de dominio de bienes inmuebles, a los peritos valuadores registrados y revalidados ante la Secretaría de Finanzas, quienes garantizarán un eficaz y honesto desempeño, debiendo cumplir la normatividad indicada por la Dirección de Catastro Urbano y Rural, la cual verificará el debido cumplimiento.
+La autoridad catastral, podrá delegar la facultad para la elaboración de avalúos con fines de operaciones traslativas de dominio de bienes inmuebles, a los peritos valuadores registrados y revalidados ante la Secretaría de Hacienda, quienes garantizarán un eficaz y honesto desempeño, debiendo cumplir la normatividad indicada por la Dirección de Catastro Urbano y Rural, la cual verificará el debido cumplimiento.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -759,9 +769,7 @@ En casos excepcionales, la Autoridad Catastral podrá autorizar por escrito a lo
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
 
-Son obligaciones de los Peritos Valuadores registrados y revalidados ante la Secretaría de
-
-Finanzas las siguientes:
+Son obligaciones de los Peritos Valuadores registrados y revalidados ante la Secretaría de Finanzas las siguientes:
 
 I. Acudir personalmente al predio e inspeccionar directamente el bien inmueble cuyo avalúo formulará.
 
@@ -783,11 +791,11 @@ V. Imprimir su avalúo pericial a través del Sistema de Valuación Electrónica
 
 VI. Proporcionar en los medios electrónicos que para tal efecto pondrá a su disposición la Dirección de Catastro Urbano y Rural, información de mercado de bienes inmuebles, relacionados con sus avalúos emitidos.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 51.
 
-La Secretaría de Planeación y Finanzas, a través de la Dirección de Catastro Urbano y Rural, deberá expedir y revalidar el registro de los peritos valuadores de bienes inmuebles, controlar y verificar la veracidad de los datos asentados en los avalúos elaborados, evaluar el desempeño de los peritos y en su caso, aplicar las sanciones procedentes, suspender o cancelar el registro, de acuerdo con esta Ley y su Reglamento.
+La Secretaría de Hacienda, a través de la Dirección de Catastro Urbano y Rural, deberá expedir y revalidar cuando proceda, el registro de peritos valuadores de bienes inmuebles, controlar y verificar la veracidad de los datos asentados en los avalúos elaborados, evaluar el desempeño de los peritos y en su caso, aplicar las sanciones procedentes, suspender o cancelar el registro, de acuerdo con esta Ley y su Reglamento.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
@@ -795,13 +803,17 @@ La Secretaría de Planeación y Finanzas, a través de la Dirección de Catastro
 
 La Dirección de Catastro Urbano y Rural, tendrá en cualquier tiempo la atribución para verificar las características de los bienes inmuebles, revisar y en su caso ratificar o rectificar el valor de los mismos.
 
-### Capítulo Séptimo. De los Fraccionamientos y Condominios
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
+### Capítulo Séptimo. Del Registro Catastral de Fraccionamientos, de Condominios y de Predios Resultantes de la Regularización de la Tenencia de la Tierra
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 53.
 
-Las personas físicas o morales que pretendan llevar a cabo el fraccionamiento lotificación o relotificación, de bienes inmuebles así como la constitución del Régimen de propiedad en Condominio, deberán solicitar a la Dirección de Catastro Urbano y Rural, el deslinde catastral del predio o predios en que se ubican y las Reglas para establecer la numeración de lotes o unidades de propiedad en condominio y sus manzanas.
+Las personas físicas o morales que pretendan llevar a cabo el fraccionamiento, lotificación o relotificación de bienes inmuebles, así como la constitución del Régimen de Propiedad en Condominio, deberán solicitar a la Dirección de Catastro Urbano y Rural, el deslinde catastral del predio o predios en que se ubican y las Reglas para establecer la numeración de lotes o unidades de propiedad en condominio y sus manzanas, debiendo recabar constancia escrita del cumplimiento de este trámite.
+
+En todo caso, el área de terreno del fraccionamiento o condominio deberá quedar plenamente definida.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
@@ -815,11 +827,11 @@ Las autoridades competentes deberán comunicar por escrito a la Dirección de Ca
 
 Concluidas las obras de urbanización del fraccionamiento o condominio, las autoridades competentes, comunicarán por escrito a la Dirección de Catastro Urbano y Rural, dentro del término de quince días.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 56.
 
-Para el registro catastral de los predios resultantes, las personas físicas o morales que hayan construido fraccionamientos o condominios, deberán presentar el aviso de terminación de las obras de urbanización señalado en el artículo anterior, además de los requisitos establecidos en el Reglamento de esta Ley.
+Para el registro catastral de los predios resultantes, las personas físicas o morales que hayan constituido fraccionamientos o condominios, deberán comprobar como mínimo, la configuración física de las vialidades, además de los requisitos establecidos en el reglamento de esta Ley.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
@@ -827,17 +839,25 @@ Para el registro catastral de los predios resultantes, las personas físicas o m
 
 La Dirección de Catastro Urbano y Rural determinará el valor del área lotificada y comercial del fraccionamiento o la unidad en condominio, expidiendo al interesado la cédula-avalúo respectiva, dando aviso al H. Ayuntamiento para efectos del cobro del impuesto correspondiente.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 58.
 
-Efectuado lo dispuesto por el artículo anterior y previo pago de los derechos contemplados en la Ley Estatal de Derechos del Estado de Chiapas, en un plazo de treinta días hábiles se devolverá al propietario del fraccionamiento o condominio, un tanto del plano con las claves asignadas, los documentos en que se indiquen los valores asignados y cédula catastral por cada lote del fraccionamiento o cada unidad de propiedad en condominio; siempre que el solicitante cumpla oportunamente con los requisitos establecidos en el reglamento de esta ley.
+Efectuado lo dispuesto por el artículo anterior y previo pago de los derechos contemplados en la Ley Estatal de Derechos, en un plazo de treinta días hábiles se entregarán al propietario del fraccionamiento o condominio, los documentos en que se indiquen los valores asignados y cédula catastral por cada lote del fraccionamiento o cada unidad de propiedad en condominio; siempre que el solicitante cumpla oportunamente con los requisitos establecidos en el reglamento de esta Ley.
+
+Para efectos del registro catastral de los lotes y áreas resultantes de un fraccionamiento, la Dirección de Catastro Urbano y Rural podrá considerar dichos predios como baldíos o sin construcciones, advirtiéndolo en la cédula catastral correspondiente, lo cual deberá ser actualizado al realizar el primer traslado de dominio o comercialización de los lotes por parte del fraccionador.
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 59.
 
 En los casos de los fraccionamientos o condominios, que se desarrollen total o parcialmente sin la autorización de lotificación respectiva, y que la Dirección de Catastro Urbano y Rural tenga conocimiento, comunicará de inmediato a las autoridades competentes para que se apliquen a los infractores las sanciones que sean procedentes y se tomen las medidas que la propia autoridad determine.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 59-A.
+
+En relación con los predios incluidos en los programas de Regularización de la Tenencia de la Tierra que lleve a cabo la Federación, el Estado y Municipios, la Dirección de Catastro Urbano y Rural inscribirá en sus registros gráficos y alfanuméricos las fracciones o lotes originados en las lotificaciones regularizadas, a solicitud de las mencionadas instituciones, que se acompañe con los requisitos señalados en el Reglamento de esta Ley.
 
 ###### Artículo 60.
 
@@ -891,9 +911,15 @@ XVII. Establecimiento de puntos monumentados GPS;
 
 XVIII. Registro catastral de fusión de bienes inmuebles;
 
-XIX. Registro catastral de subdivisión de bienes inmuebles, y
+XIX. Registro catastral de subdivisión de bienes inmuebles, y (sic)
 
-XX. Otros servicios catastrales autorizados por la Dirección de Catastro Urbano y Rural.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XX. Registro Catastral de fraccionamientos, de condominios y de predios resultantes de regularización de la tenencia de la tierra;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXI. Otros servicios catastrales autorizados por la Dirección de Catastro Urbano y Rural.
 
 Para la obtención de estos servicios, los solicitantes deberán cumplir con los requisitos establecidos en el Artículo 23 de esta Ley y su Reglamento, previo pago de derechos señalados en la Ley de Ingresos del Estado.
 
@@ -931,9 +957,11 @@ V. Copia de la autorización de fraccionamiento, fusiones y subdivisiones de bie
 
 VI. Los establecidos en el artículo 45 del Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 65.
 
-Cuando en las manifestaciones catastrales de un bien inmueble se expresen datos incorrectos, incompletos o no se anexen los documentos o planos requeridos, la Dirección de Catastro Urbano y Rural dará un plazo de quince días hábiles para que se corrija la omisión.
+Cuando en las manifestaciones o solicitudes de servicios catastrales de un bien inmueble se expresen datos incorrectos, incompletos o no se anexen los documentos o planos requeridos, la Dirección de Catastro Urbano y Rural dará un plazo de quince días hábiles para que se corrija la omisión, notificándolo por escrito al interesado de conformidad a lo establecido por el artículo 24, de esta Ley. En caso de no subsanarse la omisión en dicho plazo, la solicitud se tendrá por no presentada.
 
 ###### Artículo 66.
 
@@ -963,9 +991,11 @@ Los Notarios Públicos, Corredores Públicos o cualquier otro funcionario que te
 
 > <small>(DEROGADO ULTIMO PARRAFO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 70.
 
-Las autoridades municipales deberán enviar a la Dirección de Catastro Urbano y Rural, avisos de terminación de obras con copias de planos arquitectónicos de las licencias otorgadas para nuevas construcciones, ampliaciones, remodelaciones y la constitución del régimen de propiedad en condominio y en los casos de fraccionamiento anexar el plano de lotificación debidamente autorizado, dentro de los treinta días naturales siguientes.
+Las autoridades municipales deberán enviar a la Dirección de Catastro Urbano y Rural, en los formatos que la misma determine, avisos de terminación de obras de las licencias otorgadas para nuevas construcciones, ampliaciones, remodelaciones, y la constitución del régimen de propiedad en condominio y en los casos de fraccionamiento anexar el plano de lotificación debidamente autorizado, dentro de los treinta días naturales siguientes.
 
 ###### Artículo 71.
 
@@ -999,11 +1029,11 @@ La expedición de una nueva cédula catastral, dejará sin efecto a las expedida
 
 Para cualquier trámite ante la Dirección de Catastro Urbano y Rural, relacionado con un bien inmueble que figure en los registros catastrales, será indispensable la presentación de la cédula-avalúo o cédula catastral, independientemente de su vigencia.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 78.
 
-Para los efectos de su inscripción en el Registro Público de la Propiedad y del Comercio del Estado, el contrato relativo a un predio deberá acompañarse de la cédula catastral o cédula-avalúo, vigente a la fecha del contrato.
+Para los efectos de su inscripción en el Registro Público de la Propiedad y de Comercio, el contrato relativo a un predio deberá acompañarse de la cédula catastral o cédula - avalúo, vigente a la fecha del contrato.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
@@ -1021,9 +1051,9 @@ Los propietarios, poseedores o inquilinos o cualquier otra persona encargada de 
 
 Son infracciones a la presente Ley y su Reglamento:
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-I. Omitir o no presentar en el plazo estipulado avalúos, documentos, declaraciones, manifestaciones o avisos indicados en la presente Ley y su Reglamento;
+I. No presentar en el plazo estipulado avalúos, documentos, declaraciones, manifestaciones o avisos indicados en la presente Ley y su Reglamento;
 
 II. No colaborar con las autoridades catastrales en el desempeño de sus labores, teniendo la obligación de hacerlo;
 
@@ -1045,17 +1075,13 @@ VIII. El perjuicio al catastro, al fisco estatal o municipal, así como a propie
 
 IX. No observar la normatividad valuatoria establecida en esta Ley y su Reglamento, en el caso de los Peritos Valuadores;
 
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-X. Revalidar extemporáneamente, el registro de Perito Valuador.
+X. Revalidar extemporáneamente, el registro de perito valuador, por cada una de sus especialidades;
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-Los Peritos Valuadores de Bienes Inmuebles con registro de la Secretaría de Planeación y Finanzas, se asimilan al concepto de Servidores Públicos y por ende sujetos a la Ley de Responsabilidades, independientemente de lo preceptuado en esta Ley;
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
-
-XI. Elaborar avalúos sin haber obtenido el registro definitivo, una vez concluida la vigencia del permiso provisional o sin estar revalidado el registro de perito valuador;
+XI. Elaborar avalúos sin haber obtenido el registro definitivo, una vez concluida la vigencia del permiso provisional o sin estar revalidado en la especialidad correspondiente del registro de perito valuador, así como realizar el avalúo en una especialidad distinta sin la autorización correspondiente;
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -1133,17 +1159,21 @@ a) No desempeñar personalmente sus funciones.
 
 b) Presentar datos falsos en los avalúos que realice.
 
-III. Baja del registro:
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+III. Baja del registro en la especialidad que corresponda:
 
 a) Por renuncia.
 
 b) En casos de resolución judicial.
 
-c) Por no revalidar el registro durante dos años consecutivos
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+c) Por no revalidar el registro en la especialidad durante dos años consecutivos.
 
-Aquellos profesionistas a los que les sea dado de baja el registro de perito valuador; podrán solicitarlo nuevamente cumpliendo los requisitos que establece esta Ley y su Reglamento en un término no menor a un año, contado a partir de la fecha en que haya surtido efecto su baja.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Aquellos profesionistas que hayan causado baja en el Registro de Perito valuador, o en alguna especialidad, podrán solicitarlo nuevamente cumpliendo los requisitos que establece esta Ley y su Reglamento en un término no menor a un año, contado a partir de la fecha en que haya surtido efecto su baja.
 
 IV. Cancelación definitiva del registro, en los casos siguientes:
 
@@ -1163,11 +1193,11 @@ En este caso se presentará la denuncia correspondiente ante las autoridades com
 
 ### Capítulo Décimo Primero. Del Recurso Administrativo de Revocación
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 84.
 
-Los propietarios o poseedores legalmente reconocidos, de bienes inmuebles ubicados en el territorio del Estado, así como los peritos valuadores registrados ante la Secretaría de Finanzas, podrán interponer por si o por conducto de sus representantes legales, el recurso de revocación que establece el Código de la Hacienda Pública para el Estado de Chiapas, en contra de los actos emitidos por las autoridades catastrales.
+Los propietarios o poseedores legalmente reconocidos, de bienes inmuebles ubicados en el territorio del Estado, así como los peritos valuadores registrados ante la Secretaría de Hacienda, podrán interponer por si o por conducto de sus representantes legales, el recurso de revocación, que establece el Código de la Hacienda Pública para el Estado de Chiapas, en contra de Ios actos emitidos por las autoridades catastrales.
 
 ###### Artículo 85.
 
@@ -1189,11 +1219,11 @@ VI. Resoluciones que afecten los intereses de peritos valuadores registrados ant
 
 ### Capítulo Décimo Segundo. De los convenios en materia catastral
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 86.
 
-El Gobierno del Estado, por conducto de la Secretaría de Finanzas, podrá celebrar Convenios de Coordinación o Colaboración Administrativa con los Ayuntamientos para realizar acciones conjuntas que propicien el desarrollo de las actividades catastrales y el uso compartido de la información.
+El Poder Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, a través de la Dirección de Catastro Urbano y Rural, previa solicitud de los Ayuntamientos y mediante convenio, podrá formular el proyecto de valores unitarios de terrenos y construcciones inmobiliarias, las cuales entregará al Ayuntamiento correspondiente, a efecto de que si lo considera pertinente las presente al Congreso del Estado, para su aprobación.
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
 
@@ -1268,3 +1298,9 @@ P.O. 21 DE NOVIEMBRE DE 2007.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
