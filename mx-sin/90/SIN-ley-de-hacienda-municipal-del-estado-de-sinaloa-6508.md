@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "2007-12-28"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -473,7 +473,9 @@ Asimismo se equipara a los predios sin construcción:
 
 a) Los que teniéndola sea inhabitable por abandono o ruina.
 
-b) Los que estando ubicados dentro del área urbana, tengan construcciones permanentes en un área inferior al 25% de la superficie total del predio y que al practicar avalúo de las edificaciones, resulten con valor inferior al 50% del valor del terreno.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+b) Los que estando ubicados dentro del área urbana, tengan construcciones permanentes en un área inferior al 25% de la superficie total del predio y que al practicar avalúo de las edificaciones, resulten con valor inferior al 50% del valor del terreno. Se exceptúa de dicha clasificación, aquellos predios que aún cuando cumplan las especificaciones técnicas mencionadas, sus titulares lo acrediten como única propiedad inmobiliaria en la municipalidad y se encuentre habitada al momento de la determinación de la contribución.
 
 Las tasas para predios sin construcción no serán aplicables a aquellos que se encuentren ubicados en condominios horizontales, así como los que las empresas fraccionadoras o urbanizadoras legalmente autorizadas destinen a la venta, por un lapso de 5 años a partir de la fecha en que de hecho o de derecho se inicie la venta de lotes, pudiendo realizarse ésta por etapas, previa autorización de la Presidencia Municipal, debiendo el fraccionador conservarlos limpios.
 
@@ -3320,3 +3322,9 @@ P.O. 28 DE DICIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 1 de enero del año 2009, previa su publicación en el Periódico Oficial "El Estado de Sinaloa".
