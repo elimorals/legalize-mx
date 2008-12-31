@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2008-08-29"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -141,9 +141,9 @@ V. La protección, restauración y conservación de los ecosistemas, recursos am
 
 VI. La observancia de los derechos humanos y garantías sociales;
 
-VII.- Capacitación, empleo y productividad, seguridad e higiene;
+VII. Capacitación, empleo y productividad, seguridad e higiene;
 
-VIII.- Desarrollo institucional, innovación gubernamental y desarrollo administrativo;
+VIII. Desarrollo institucional, innovación gubernamental y desarrollo administrativo;
 
 IX. Transparencia, mejora regulatoria y procedimientos administrativos;
 
@@ -365,7 +365,7 @@ VII. Proporcionar la información requerida por los miembros del Ayuntamiento;
 
 > <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
-VIII.- Realizar un estudio, análisis y revisión del contenido de la impresión de las Actas de las Sesiones de Cabildo, que serán aprobadas en la Sesión Ordinaria siguiente.
+VIII. Realizar un estudio, análisis y revisión del contenido de la impresión de las Actas de las Sesiones de Cabildo, que serán aprobadas en la Sesión Ordinaria siguiente.
 
 ###### Artículo 31.
 
@@ -1341,6 +1341,8 @@ III. Si al concurrir las partes manifiestan haber conciliado sus intereses.
 
 DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 148.
 
 Para iniciar el procedimiento de Arbitraje se les hará saber a las partes que la Dirección fungirá como árbitro y tendrá la facultad de allegarse de todos los elementos de juicio que estime necesarios para resolver las cuestiones que se hayan planteado, así también tendrá la obligación de recibir pruebas y escuchar los alegatos que presenten las partes, salvo la aplicación de una norma de orden público.
@@ -1919,113 +1921,295 @@ III. Separación del cargo.
 
 ### CAPÍTULO 11. PROTECCIÓN CIVIL MUNICIPAL
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 206.
 
-Corresponde al H. Ayuntamiento por conducto de los jueces calificadores sancionar las faltas del presente Capítulo.
+El presente Capítulo tiene como objeto la regulación de los Juzgados Calificadores los cuales estarán dirigidos por un Juez Calificador, para tal fin la administración pública municipal diseñará y promoverá programas dando cabida a la más amplia participación de los habitantes en colaboración con las Autoridades competentes para la preservación y conservación del orden público, procurando el acercamiento entre ellos y los Jueces Calificadores en las colonias que conforman o integran el Municipio de Puebla, a efecto de coadyuvar en el mantenimiento del orden público, propiciar mayor participación en las funciones que éstos realizan; así como establecer vínculos que permitan la identificación de problemas y fenómenos sociales relacionados con la ley, y lograr que exista mayor participación de los ciudadanos para la prevención de conductas infractoras.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 206 Bis.
+
+Corresponde al Municipio por conducto de los Jueces Calificadores, conocer de las conductas antisociales y sancionar las faltas administrativas en el presente Capítulo.
+
+Entendiéndose para tal efecto, por conductas antisociales aquéllas que van en contra de las normas de convivencia de la sociedad, en los cuales se atenta contra el patrimonio, la vida, la salud de una persona o de la sociedad en su conjunto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 206 Ter.
+
+Las disposiciones del presente Capítulo son aplicables para los habitantes del Municipio y para las personas que de manera temporal transiten por el Municipio de Puebla y tienen por objeto:
+
+I. Preservar y proteger las garantías individuales y los derechos fundamentales de los habitantes del Municipio de Puebla y de los que transitan por el mismo;
+
+II. Fortalecer las reglas básicas para procurar una convivencia armónica de corresponsabilidad para mejorar el entorno y la calidad de vida de las personas;
+
+III. Promover el desarrollo humano y familiar preservando los bienes públicos y privados;
+
+IV. Procurar el orden y la tranquilidad de los habitantes del Municipio de Puebla para lograr la armonía social y la defensa de los intereses de la colectividad; y
+
+V. Determinar las acciones para su cumplimiento.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 207.
 
-Se considera como faltas al presente Capítulo, las acciones u omisiones que alteren o afecten al orden y la seguridad en lugares públicos.
+Se consideran faltas o infracciones administrativas, aquellas acciones u omisiones que sean constitutivas de una contravención a las disposiciones del presente Capítulo, y demás disposiciones de carácter general contenidas en los ordenamientos expedidos por el H. Ayuntamiento, excepto las de carácter fiscal, que alteren o afecten el orden y la seguridad en lugares públicos o bien, lugares privados, procediéndose por lo que hace a estos últimos a petición de los propietarios o responsables de los mismos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 208.
 
-Para los efectos de este Capítulo, se entenderá como lugares públicos los de uso común, acceso público o libre tránsito, debiendo entenderse como tales a las plazas, calles, avenidas, paseos, jardines, parques, mercados, centros de recreo, deportivos o de espectáculos, inmuebles públicos, bosques y vías terrestres de comunicación ubicados dentro del Municipio de Puebla. Se equiparan a los lugares públicos los medios destinados al servicio público de transporte.
+Para los efectos de este Capítulo, se entenderá como:
+
+I. Lugares públicos los de uso común, acceso público o libre tránsito, debiendo entenderse como tales: a las plazas, calles, avenidas, paseos, jardines, parques, mercados, centros de recreo, deportivos o de espectáculos, templos, inmuebles públicos, cementerios, estacionamientos públicos, bosques, vías terrestres de comunicación y los que se describen en el artículo 611 del presente Código Reglamentario, ubicados dentro del Municipio de Puebla. Se equiparan a los lugares públicos los medios destinados al servicio público de transporte; y
+
+II. Lugares privados los no comprendidos en la fracción I que antecede y cuyo dominio corresponda exclusivamente a particulares.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 209.
 
-Se consideran faltas al presente Capítulo:
+Se consideran faltas o infracciones administrativas al presente Capítulo:
 
-I. Contra la Seguridad Pública y se sancionarán con: a). Amonestación, o b).Multa de cinco a quince días de salario mínimo, o c). Arresto hasta dieciocho horas a las personas que por:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-a) Utilizar objetos detonantes que por su naturaleza atenten contra la seguridad pública;
+I. CONTRA LA SEGURIDAD PÚBLICA y se sancionarán administrativamente con: 1.- Amonestación, 2.- Multa de cinco a sesenta días de salario mínimo general vigente en el Municipio de Puebla, al momento de determinarla, 3.- Arresto hasta treinta y seis horas o, 4.- Trabajo a favor de la comunidad a las personas que:
 
-b) Detonar cohetes o encender juegos pirotécnicos sin permiso de la autoridad competente;
+a) Utilicen objetos detonantes de cualquier tipo que atenten contra la seguridad pública;
 
-c) Formar parte de grupos que causen molestia a las personas en lugares públicos o en la proximidad de los domicilios de éstas;
+b) Detonen cohetes o enciendan juegos pirotécnicos sin permiso de la Autoridad competente;
 
-d) Organizar o tomar parte en juegos de velocidad con cualquier vehículo de motor, en lugares públicos no permitidos para ello, poniendo en riesgo su integridad y de las demás personas, conductores o peatones;
+c) Formen parte de grupos que causen molestia o escándalo a las personas en lugares públicos, en sus domicilios o proximidad de los mismos;
 
-e) Penetrar o invadir, sin autorización y se cause daño, en zonas o lugares de acceso prohibido en los centros de espectáculos, diversiones o de recreo;
+d) Organicen o participen en juegos de velocidad, arrancones, con cualquier vehículo de motor, en lugares públicos no permitidos para ello, poniendo en riesgo la integridad física de las personas y de los demás conductores o peatones;
 
-f) Solicitar los servicios por cualquier medio de la policía, de los bomberos o de instituciones médicas de emergencia, invocando hechos que resulten falsos.
+e) Ingresen, sin autorización, en zonas o lugares de acceso prohibido en los centros de espectáculos, diversiones o de recreo;
 
-II. Contra la salubridad y el medio ambiente y se sancionarán con:
+f) Soliciten por cualquier medio los servicios de la policía, de los bomberos o de instituciones médicas de emergencia, invocando hechos que resulten falsos;
 
-a). Amonestación, o b).Multa de uno a ocho días de salario mínimo, o c). Arresto hasta dieciocho horas a las personas que por:
+g) Obstruyan o impidan con cualquier objeto entradas o salidas de personas y/o cosas, domicilios, instalaciones o edificios públicos o privados argumentando el ejercicio de un derecho;
 
-a) Hacer micción o defecar en lugares públicos que no estén autorizados para ello;
+h) Realicen en plazas, jardines y demás sitios públicos, toda clase de juegos que constituyan un peligro para la comunidad o coloquen tiendas, cobertizos, techos o vehículos, que obstruyan el libre tránsito de peatones o vehículos, así como la buena imagen del lugar;
 
-b) Desperdiciar el agua en la vía pública, haciendo uso irresponsable de mangueras, recipientes u otros conductos;
+i) Impidan, dificulten o entorpezcan el ejercicio de facultades de las Autoridades Municipales en general; así como la prestación de los servicios públicos municipales y de cualquier otra Autoridad Administrativa;
 
-c) Ensuciar, desviar, retener las corrientes de agua, ya sea en depósitos, tanques, fuentes públicas, acueductos o sistemas de alcantarillado del Municipio;
+j) Impidan, obstruyan por cualquier medio las labores de los cuerpos de Seguridad Pública y Protección Civil dentro del ejercicio de sus funciones;
 
-d) Arrojar en lugares públicos, así como en drenajes del municipio, animales muertos o sustancias fétidas;
+k) Apaguen, sin autorización, el alumbrado público o afecten la infraestructura del mismo que impida su normal funcionamiento;
 
-e) Arrojar o depositar basura, desechos o residuos de cualquier especie en lugares públicos y fuera de los sitios destinados para tal efecto, así como realizar cualquier otro acto u omisión que contribuya al desaseo de las vías públicas, áreas de uso común u otras de acceso público o libre tránsito;
+l) Cambien de lugar las señales públicas, ya sean de tránsito o de cualquier otro señalamiento oficial; y
 
-f) Quemar pastizales o terrenos baldíos; y
+m) Provoquen derrumbes, incendios y demás hechos o actos similares, en lugares públicos o privados.
 
-g) Fumar dentro de locales cerrados en los que se expendan al público alimentos para su consumo, hospitales, clínicas, centros de salud, salas de espera, auditorios, bibliotecas, vehículos de servicio colectivo de pasajeros, oficinas de las unidades administrativas del Municipio de Puebla, donde se proporcionen atención directa al público, tiendas de autoservicio, áreas de atención al público, oficinas bancarias, financieras, industriales, comerciales o de servicios, salones de clase de las escuelas, similares y profesionales y cualesquiera otros que por su naturaleza, se asemejen a los señalados en este inciso. La prohibición de fumar en los lugares señalados en este inciso, no se aplicará en los casos en los que esta actividad se realice dentro de las áreas específicas para fumadores.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-III. Contra el interés y bienestar colectivo de la sociedad, y se sancionarán con: a). Amonestación, o b). Multa de cuatro a doce días de salario mínimo, o c). Arresto hasta dieciocho horas, a las personas que por:
+II. CONTRA LA SALUBRIDAD Y EL MEDIO AMBIENTE y se sancionarán administrativamente con: 1.- Amonestación, 2.- Multa de cinco a sesenta días de salario mínimo general vigente en el Municipio de Puebla, al momento de determinarla, 3.- Arresto hasta treinta y seis horas, o 4.- Trabajo a favor de la comunidad a las personas que:
 
-a) Permitir que transiten en la vía pública, animales de su propiedad, que pudiesen resultar peligrosos, sin las medidas de seguridad, tendientes a evitar posibles ataques a las personas;
+a) Orinen o defequen en cualquier lugar público;
 
-b) Alterar el orden o la tranquilidad de las personas en espectáculos públicos;
+b) Hagan uso irresponsable del agua en lugares públicos o desperdicien el agua potable en la vía pública, haciendo uso irresponsable de mangueras, recipientes u otros conductos;
 
-c) Realizar el comercio informal en la vía pública y libre tránsito, sin contar con la autorización de la Autoridad Municipal correspondiente;
+c) Ensucien, desvíen o retengan los cauces de agua, ya sea en depósitos, tanques, fuentes públicas, acueductos o sistemas de alcantarillado del Municipio;
 
-d) Impedir o estorbar el uso de la vía pública y libre tránsito, sin contar con la autorización de la Autoridad Municipal correspondiente;
+d) Arrojen, en lugares públicos, lotes baldíos, drenajes o en lugares no aptos del Municipio, animales sacrificados o muertos, así como sustancias fétidas;
 
-e) Vender bebidas alcohólicas en forma clandestina o en días no permitidos por las leyes;
+e) Arrojen, tiren o depositen basura, desechos o residuos de cualquier especie en lugares públicos y fuera de los sitios destinados para tal efecto, así como realizar cualquier otro acto u omisión que contribuya al desaseo de las vías públicas, áreas de uso común u otras de acceso público o libre tránsito;
 
-f) Ofrecer o propiciar la venta de boletos de espectáculos públicos sin la licencia correspondiente o reventa de los mismos a precios superiores a los autorizados;
+f) Quemen basura, llantas, pastizales o terrenos baldíos, o cualquier similar, así como hagan fogatas, utilicen combustible o materiales flamables, sin la autorización correspondiente, provocando un trastorno al ambiente, tanto en sitios públicos o privados;
 
-g) Alterar el orden, arrojar cualquier objeto, prender fuego o provocar altercados en los espectáculos públicos o en las entradas a ellos; y
+g) Fumen dentro de locales cerrados en los que se expendan al público alimentos para su consumo, hospitales, clínicas, centros de salud, salas de espera, auditorios, bibliotecas, vehículos de servicio colectivo de pasajeros, oficinas de las unidades administrativas del Municipio de Puebla, donde se proporcionen atención directa al público, tiendas de autoservicio, áreas de atención al público, oficinas bancarias, financieras, industriales, comerciales o de servicios, salones de clase de las escuelas, similares y profesionales y cualesquiera otros que por su naturaleza, se asemejen a los señalados en este inciso.
 
-h) Producir ruido con aparatos electrónicos que por su volumen provoque alteración a la paz social y tranquilidad de las personas.
+La prohibición de fumar en los lugares señalados en este inciso, no se aplicará en los casos en los que esta actividad se realice dentro de las áreas específicas para fumadores;
 
-IV. Contra la integridad física y moral de los individuos y se sancionarán con: a). Amonestación, o b).Multa de diez a veinte días de salario mínimo, o c). Arresto hasta dieciocho horas, a las personas que por:
+h) Omitan recoger las heces fecales de un animal que se encuentren bajo su custodia en lugares públicos;
 
-a) Adoptar actitudes o usar un lenguaje contrario a las buenas costumbres afecten la honorabilidad de las personas;
+i) Posean animales sin adoptar las medidas de higiene necesarias que expidan olores altamente desagradables, que éstos tengan plagas o que emitan ladridos que ocasionen molestia a los vecinos;
 
-b) Circular o caminar en estado de embriaguez causando escándalo;
+j) Destruyan, maltraten árboles, flores y cualquier ornamento que se encuentre en las plazas, parques y cualquier otro tipo de lugares públicos y de propiedad privada;
 
-c) Ingerir bebidas alcohólicas en lugares públicos no autorizados para ello, o bien dentro de un vehículo automotor, mientras permanezcan en la vía pública o en lugares públicos;
+k) Dispongan de flores, plantas, árboles o cualquier otro tipo de objetos que pertenezca a la Autoridad Municipal o de propiedad particular, sin el permiso de quien tenga el derecho de otorgarlo; y
 
-d) Invitar, ejercer o permitir la prostitución en lugares públicos;
+I) Siendo poseedores o tengan bajo su custodia animales a los cuales les permitan que beban de la fuente pública, así como pasten, defequen o hagan daños en los jardines y áreas verdes o cualquier otro lugar público.
 
-e) Consumir estupefacientes o psicotrópicos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-f) Golpear o tratar con evidente violencia o de manera desconsiderada a otra persona, en lugares públicos o de espectáculos;
+III. CONTRA EL INTERÉS Y BIENESTAR COLECTIVO DE LA SOCIEDAD, y se sancionarán administrativamente con: 1.- Amonestación, 2.- Multa de cinco a cincuenta días de salario mínimo general vigente en el Municipio de Puebla, al momento de determinarla, 3.- Arresto hasta treinta y seis horas, o 4.- Trabajo a favor de la comunidad, a las personas que:
 
-g) Arrojar contra otra persona líquidos, polvos o sustancias, que puedan mojarla, mancharla o causar algún daño físico;
+a) Siendo propietarios o responsables de cualquier especie de animales permitan que éstos transiten, sin tomar las medidas de seguridad necesarias como bozal, cadena, entre otras, según la especie, para prevenir y evitar cualquier posible ataque a las personas, o daños y perjuicios a terceros; independientemente de las sanciones en otras materias;
 
-h) Provocar a un perro o cualquier otro animal para que ataque a una persona;
+b) Alteren el orden o la tranquilidad de las personas en lugares públicos, privados o espectáculos públicos;
 
-i) A quien estando encargado de la guarda o custodia de un enfermo mental, deje a éste deambular libremente en lugares públicos y peligre su integridad;
+c) Realicen u organicen el comercio en la vía pública o en lugares públicos sin contar con la autorización previa de la Autoridad Municipal correspondiente;
 
-j) Asistir a centros nocturnos, bares, pulquerías o cualquier otro lugar similar, siendo menor de dieciocho años de edad; independientemente de la sanción que se imponga a los establecimientos que les permitan la entrada a los mismos, en términos de las leyes y disposiciones jurídicas correspondientes; y
+d) Promuevan, organicen, o participen en juegos de azar o apuesta en lugar público no autorizado para ello;
 
-k) Exhibir en vía pública, de manera obvia y evidente, cualquier material visual cuyo contenido atente contra la dignidad de la persona, las costumbres y el orden social.
+e) Vendan, ofrezcan o por cualquier medio distribuyan bebidas alcohólicas en forma clandestina o en días no permitidos por las leyes;
 
-V. Contra los bienes de propiedad privada y propiedad del Municipio y se sancionará con: a). Amonestación, o b). Multa de quince a treinta días de salario mínimo, o c). Arresto hasta dieciocho horas a las personas que por:
+f) Ofrezcan, fomenten o propicien la venta de boletos de espectáculos públicos sin la autorización correspondiente o a precios superiores a los autorizados;
+
+g) Alteren el orden, arrojen cualquier objeto o provoquen disturbios en los espectáculos públicos o en las entradas y salidas a ellos;
+
+h) Produzcan ruido con cualquier herramienta, vehículo o aparato electrónico que por su volumen o estruendo provoquen alteración a la paz social y tranquilidad de las personas; siempre que no se trate del cumplimiento, realización o desarrollo de una obra de servicios públicos o privados que cuente con la autorización correspondiente;
+
+i) Alteren, rompan, dañen o mutilen los sellos de clausura o las boletas de infracciones de tránsito, giros comerciales, normatividad entre otras o cualquier tipo de notificación, que sea realizada por la Autoridad Municipal y de cualquier otra Autoridad Administrativa; independientemente de la sanción penal a que se haga acreedor;
+
+j) Arrojen a la vía pública, lotes baldíos, ríos o barrancas, basura u objetos que puedan causar molestia a los vecinos, transeúntes o vehículos;
+
+k) Impidan el acceso a perros guía que asistan a invidentes o a personas con capacidad diferenciada en los lugares públicos y privados o transporte público;
+
+l) Ejerzan actos de comercio dentro del área de cementerios, templos, monumentos, edificios públicos, en aquellos lugares que por su tradición y costumbre deberán ser respetadas, y en lugares no autorizados; a menos que cuenten con la autorización y el permiso correspondiente para tal efecto;
+
+m) Vendan o proporcionen a los menores de edad, bebidas alcohólicas y/o tóxicos y/o cigarros en cualquiera de sus modalidades;
+
+n) Vendan, ofrezcan sus productos o mercancías, sin el permiso de la Autoridad competente en lugares distintos al giro comercial autorizado, independientemente de la sanción que se imponga a los establecimientos que les permitan la entrada a los mismos, en términos de las leyes y disposiciones jurídicas correspondientes; y
+
+ñ) Siendo propietarios, poseedores o arrendadores permitan o autoricen la comercialización a terceros; como responsables solidarios; independientemente de la sanción que se imponga a los establecimientos que les permitan la entrada a los mismos, en términos de las leyes y disposiciones jurídicas correspondientes.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IV. CONTRA LA INTEGRIDAD FÍSICA Y MORAL DE LOS INDIVIDUOS, se sancionarán con: 1.- Amonestación, 2.- Multa de diez a cien días de salario mínimo general vigente en el Municipio de Puebla, al momento de determinarla, 3.- Arresto hasta treinta y seis horas, o 4.- Trabajo a favor de la comunidad, a las personas que:
+
+a) Sostengan relaciones sexuales o actos eróticos sexuales en la vía pública, en áreas comunes, o en el interior de un vehículo automotor mientras permanezcan en lugares públicos;
+
+b) Induzcan u obliguen que una persona ejerza la mendicidad;
+
+c) Encontrándose en estado de embriaguez o bajo el influjo de estupefacientes o que produzcan cualquier efecto similar, circulen o caminen en lugares públicos, causando escándalo o molestia a las personas;
+
+d) Manejen un vehículo automotor de combustión interna o eléctricos, motocicleta, motocicletas adaptadas, bicicleta, bicicletas adaptadas, bicimotos, triciclos, automotores, motonetas, remolques, semovientes cuando se utilicen como medio de transporte, vehículos agrícolas, de maquinaría pesada o para la construcción, en estado de embriaguez o bajo el influjo de cualquier estupefaciente o sustancia psicotrópica, u otras sustancias que causen efectos similares;
+
+e) Ingieran bebidas alcohólicas o alguna otra que cause efectos similares en lugares públicos no autorizados para ello, o bien dentro de un vehículo automotor, mientras permanezcan en lugares públicos;
+
+f) Ejerzan, permitan o sean usuarios de la prostitución, en lugares públicos;
+
+g) Consuman, ingieran, inhalen estupefacientes, psicotrópicos, enervantes o cualquier sustancia tóxica en lugares públicos o privados, incluyendo a menores de edad; independientemente que en el caso de venta serán puestos a disposición inmediata de las autoridades competentes;
+
+h) Golpeen o traten con evidente violencia a otra persona, en lugares públicos, privados o de espectáculos;
+
+i) Arrojen contra otra persona líquidos, polvos o sustancias, que puedan mojarla, mancharla o causar algún daño físico;
+
+j) Provoquen a un perro o cualquier otro animal para que ataque a una persona;
+
+k) Estando encargados de la guarda o custodia de un enfermo mental, deje a éste deambular libremente en lugares públicos y peligre su integridad;
+
+l) Los padres, tutores o persona que legalmente tenga bajo su custodia, cuidado o responsabilidad a un menor de edad que reincida en la comisión de una falta administrativa, si habiendo sido apercibido en anterior ocasión, no demostraren que tomaron medidas preventivas y de orientación correspondiente para evitar la reincidencia del menor;
+
+m) Que permitan el acceso a centros de entretenimiento, bares, pulquerías o cualquier otro lugar a los que se refiere el artículo 611 de este Código Reglamentario, a menores de dieciocho años de edad, independientemente de la sanción que se imponga a los establecimientos que les permitan la entrada a los mismos, en términos de las leyes y disposiciones jurídicas correspondientes;
+
+n) Comercialicen, difundan o exhiban en lugares públicos en cualquier forma material visual o auditivo pornográfico u obsceno;
+
+ñ) Coloquen cables u otros objetos en la vía pública, que pongan en riesgo la integridad física de las personas que circulan por la misma, sin la autorización de la Autoridad competente;
+
+o) Se les sorprenda en posesión o custodia ilegal de cualquier especie de animal feroz, peligroso, para seguridad, guardia o protección, que pueda atentar contra la vida de las personas; o dejen que deambule sólo en la vía pública;
+
+p) Transporten animales feroces y de espectáculos sin jaulas o camiones que garanticen la seguridad e integridad de la ciudadanía; y
+
+q) Inciten a los animales para que se acometan entre ellos o hacer peleas provocadas en un espectáculo público o privado; quedando exceptuadas de esta sanción las corridas de toros, novillos y becerros, así como las peleas de gallos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+V. CONTRA LOS BIENES DE PROPIEDAD PRIVADA Y PROPIEDAD DEL MUNICIPIO y se sancionará con: 1.- Amonestación, 2.- Multa de quince a cien días de salario mínimo general vigente en el Municipio de Puebla, al momento de determinarla, 3.- Arresto hasta treinta y seis horas, o 4.- Trabajo a favor de la comunidad, a las personas que:
 
 a) Utilicen el servicio público de transporte y se negasen a pagar el importe correspondiente;
 
-b) Causen molestias que impidan el legítimo uso o disfrute de un inmueble propiedad de otra persona;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-c) Maltrate, ensucie, deteriore o haga uso indebido de las fachadas de inmuebles públicos o privados, estatuas, monumentos, murales, pisos, puentes, banquetas, recipientes de basura, postes, arbotantes, señales públicas y en general cualquier bien que forme parte de la infraestructura urbana; y
+b) Por cualquier medio causen molestias que impidan el legítimo uso o disfrute de un inmueble;
 
-d) Realice actos u omisiones que pudiesen provocar el deterioro de la imagen de carácter público, tales como iglesias, hospitales, escuelas, comercios; y bienes de carácter privado como casas habitación, condominios, edificios de departamentos, bardas de lotes baldíos o cualquier otro que esté ubicado dentro del Municipio de Puebla.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-Así como a aquellos que de igual naturaleza causen daños materiales, o que omitan los trabajos de mantenimiento debidos conforme a la ley, y producir o pintar signos, leyendas, dibujos, grafitos o cualquier otra manifestación gráfica, sin consentimiento previo o autorización por escrito del propietario o legítimo poseedor, debidamente notificado a la autoridad municipal.
+c) Por cualquier medio deterioren, ensucien o hagan uso indebido de inmuebles públicos o privados, murales, pisos, puentes, puentes peatonales, banquetas, contenedores de basura, postes, arbotantes, semáforos, buzones, tomas de agua, señalizaciones viales o de obras, y en general cualquier bien que forme parte del mobiliario e infraestructura urbana;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+d) Realicen actos u omisiones que pudiesen provocar el deterioro de la imagen de carácter público, tales como en: iglesias, hospitales, escuelas, comercios; y bienes de carácter privado como casas habitación, condominios, edificios de departamentos, bardas de lotes baldíos o cualquier otro; ubicado dentro del Municipio.
+
+Así como a aquéllos que de igual naturaleza causen daños materiales, o que omitan los trabajos de mantenimiento debidos conforme a la ley, sin consentimiento previo o autorización por escrito del propietario o legítimo poseedor, debidamente notificado a la Autoridad Municipal;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+e) Ofrezcan prestar algún servicio, solicitando un pago ilegítimo o bien ofrezca realizar trámites en dependencias municipales, violando los procedimientos establecidos para el mismo;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+f) Utilicen, cambien, condicionen o exploten de cualquier forma, el uso o destino de la vía pública, sin la autorización correspondiente, solicitando o no remuneración para ello;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+g) Mantengan estacionados por más de quince días o abandonen en las proximidades del domicilio particular, vehículos automotores en estado de inactividad o descompuestos;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+h) Borren, cubran, pinten, destruyan o peguen cualquier leyenda sobre los nombres y letras de las placas, señales o números con que se identifican las calles, vías, inmuebles y lugares públicos del Municipio de Puebla;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+i) Arrojen desperdicios sólidos o líquidos, basura, solventes, gas, petróleo, sus derivados, aceites, grasas, sustancias tóxicas o explosivos a los pozos, ríos, barrancas, alcantarillas, parques, jardines, vía pública o a las instalaciones de agua potable y drenaje;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+j) Arranquen o maltraten las coladeras, tapas, rejillas, postes, lámparas, luminarias, semáforos, mobiliario urbano, o cualquier bien del dominio público del Municipio;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+k) Practiquen el vandalismo alterando las instalaciones y buen funcionamiento de los servicios públicos municipales, o sus instalaciones o elementos sean muebles e inmuebles;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+l) Dañen plantas, talen, arranquen o partan árboles, pelen o arranquen sus cortezas, deterioren el césped, zonas de jardines, estatuas, monumentos que desmerezcan su valor decorativo y artístico, incluidos en éstos la destrucción de los juegos infantiles que se encuentren en los parques o jardines públicos;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+m) Realicen graffitis, entendiéndose por éstos los dibujos, pinturas, manchas, leyendas, logotipos, inscripción o grafismo con cualquier material (pintura, tinta, aerosoles, rotuladores o análogos) o colocación de calcomanías, emblemas o cualquier tipo de trazo en los inmuebles públicos o privados, bardas, puentes, pisos, banquetas, guarniciones, monumentos, señalamientos de tránsito o cualquier otro bien que se encuentre dentro del Municipio de Puebla, sin la autorización de los propietarios o poseedores o de la Autoridad Municipal competente; y
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+n) Rompan banquetas, pavimento, redes de agua potable y drenaje sin permiso de la Autoridad competente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 209 Bis.
+
+Para la correcta aplicación del artículo anterior y hacer cumplir sus determinaciones, los Jueces Calificadores deberán entender por:
+
+I. Amonestación.- Es la reconvención, pública o privada, que el Juez haga al infractor. La amonestación privada se realizará si se trata de la infracción primigenia y con amonestación pública en caso de reincidencia;
+
+II. Multa.- Es la cantidad en dinero que el infractor debe pagar y que en ningún caso podrá exceder del equivalente a 100 días de salario mínimo general vigente en el Municipio de Puebla, al momento de cometerse la infracción; exceptuándose cuando se trate del responsable solidario a quien se le impondrá una multa hasta de 500 días de salario mínimo general vigente en el Municipio de Puebla, al momento de cometerse la infracción;
+
+III. Arresto.- Es la privación de la libertad por un periodo hasta por treinta y seis horas, que se cumplirá en el lugar destinado para tal efecto; y
+
+IV. Trabajo a favor de la comunidad.- Se entiende por éste la prestación de servicios no remunerados, en la dependencia, institución, órgano o cualquier otra, que para tal efecto se establezca, a fin de lograr que el infractor resarza la afectación ocasionada por la infracción cometida, y en su caso se logre la reinserción familiar y social.
+
+Las sanciones señaladas en las fracciones II y III podrán ser conmutables por el programa social de trabajo a favor de la comunidad, siempre y cuando medie solicitud por escrito del infractor, requiriendo acogerse a esta modalidad.
 
 ###### Artículo 210.
 
 Se entiende por reincidencia, para los efectos del presente Capítulo, y para la correcta aplicación del artículo 214 del este ordenamiento, cuando un individuo cometa por más de una ocasión, una o varias de las faltas administrativas mencionadas en el artículo anterior, las cuales hayan sido sancionadas, pecuniaria o corporalmente, por un Juez Calificador.
 
-Al reincidente, se le aplicará, a través del Juez Calificador, el doble de las sanciones pecuniarias previstas en el artículo 209, sin embargo, las sanciones corporales en ningún caso podrán exceder de dieciocho horas de arresto.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Al reincidente, se le aplicará el doble de las sanciones pecuniarias establecidas en el artículo 209, la sanción privativa de la libertad no podrá exceder de TREINTA Y SEIS horas de arresto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Serán inconmutables:
+
+I. El vandalismo;
+
+II. La utilización, cambio, condición o explotación del uso o destino de la vía pública, sin la autorización correspondiente;
+
+III. Conducir vehículos en estado de embriaguez o bajo el influjo de cualquier estupefaciente o sustancia psicotrópica;
+
+IV. Organizar o ejercer el comercio en la vía pública sin autorización; y
+
+V. Realizar graffitis sin la autorización correspondiente o en lugares no autorizado para ello.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Se exceptúan de la inconmutabilidad a los menores de edad.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 A efecto de cumplir cabalmente con lo dispuesto en este artículo, se llevará un registro de los infractores, a través de los medios que se estimen convenientes por parte de la Sindicatura Municipal, estableciendo en dicho registro el nombre del infractor, la fecha, el motivo y la sanción impuesta, debiendo consultarse la existencia previa en el registro, para el efecto de establecer la reincidencia.
 
@@ -2033,9 +2217,29 @@ A efecto de cumplir cabalmente con lo dispuesto en este artículo, se llevará u
 
 La base para cuantificar la multa a que se refiere el artículo anterior, será el salario mínimo general vigente en el Municipio de Puebla al momento de cometerse la infracción.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 212.
 
-Solo en los casos de que los responsables sean sorprendidos al momento de cometer la infracción, habrá lugar a su detención por elementos de las fuerzas de seguridad pública o seguridad vial, en su caso, quienes deberán radicar de inmediato el asunto ante el Juez Calificador, debiendo poner al detenido a disposición de dicha autoridad. En los demás casos, el Juez Calificador ordenará la comparecencia del presunto infractor para poder substanciar el procedimiento en materia de faltas al presente Capítulo, apercibiéndolo de que en caso de negarse a acudir sin causa legítima, después de la tercera citación que se le haga legalmente, estaría incurriendo en el delito de desobediencia y resistencia de particulares.
+Sólo en los casos de que los responsables sean sorprendidos al momento de cometer la infracción, habrá lugar a su detención por elementos de las fuerzas de Seguridad Pública o Tránsito Municipal, en su caso, quienes deberán radicar de inmediato el asunto ante el Juez Calificador, debiendo poner al detenido a disposición de dicha Autoridad, cuando sea sorprendido en el momento de la ejecución de la falta, mediante boleta de remisión, acompañada de dictamen clínico/toxicológico. En los demás casos, el Juez Calificador ordenará la comparecencia del presunto infractor para poder substanciar el procedimiento en materia de faltas al presente Capítulo, con los apercibimientos correspondientes.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 212 Bis.
+
+La boleta de remisión a la que se refiere el artículo anterior deberá estar elaborada sin correcciones y tachaduras, y contener por lo menos los siguientes datos:
+
+I. Número de folio y hora de la remisión;
+
+II. Nombre, edad y domicilio del presunto infractor, en caso de que se proporcione, en caso contrario, se señalará la descripción física del infractor;
+
+III. Una relación clara de la infracción o infracciones cometidas, anotando circunstancias de modo, tiempo y lugar;
+
+IV. Descripción de todas las pertenencias del presunto infractor;
+
+V. Nombre, domicilio y firma de la parte peticionaria si la hay; y
+
+VI. Nombre, número de placa, jerarquía, número de vehículo, sector y firma de la Autoridad remitente.
 
 ###### Artículo 213.
 
@@ -2049,9 +2253,13 @@ a) Reincidencia;
 
 b) Si se produjo alarma pública;
 
-c) Si hubo oposición del infractor a los representantes de la Autoridad;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-d) La edad, condiciones económicas y culturales del infractor; y
+c) Si hubo oposición del infractor al momento de su detención;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+d) Los vínculos del infractor con el ofendido; y
 
 e) Si se puso en peligro a las personas o sus bienes, y las circunstancias de modo, lugar y tiempo en que se cometieron las faltas.
 
@@ -2063,13 +2271,21 @@ Tomando en cuenta lo antes mencionado, si el infractor no pagare la multa que se
 
 DE LA RESPONSABILIDAD
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 216.
 
-Son responsables de una falta:
+Son responsables de una falta administrativa las personas físicas:
 
-I. Los que tomaren parte en su concepción, preparación o ejecución; y
+I. Que tomaren parte en su ejecución;
 
-II. Los que indujeren o compelieren a otros o cometerla.
+II. Que indujeren o compelieren a otros o cometerla;
+
+III. Que tenga bajo su cuidado o responsabilidad a un menor de edad que haya cometido cualquier falta administrativa establecida en este Código; y
+
+IV. Que tenga bajo su cuidado o responsabilidad a un menor de edad, que reincida en la comisión de cualquier falta administrativa, si habiendo sido apercibido en anterior ocasión, no demostraren que tomaron medidas preventivas y de orientación correspondiente para evitar la reincidencia del menor.
+
+La responsabilidad determinada conforme a este Código es autónoma de las consecuencias jurídicas que las conductas pudieran generar en otro ámbito.
 
 ###### Artículo 217.
 
@@ -2082,6 +2298,12 @@ Las personas que padezcan incapacidad física, serán sancionadas por las faltas
 ###### Artículo 219.
 
 Cuando una falta se ejecute con la intervención de 2 o más personas y no constare la forma en que dichas personas actuaron, pero sí su participación en el hecho, a cada una se le aplicará la sanción que para la falta señale este Capítulo. El Juez Calificador podrá aumentar las sanciones discrecionalmente sin rebasar el límite máximo señalado por este Capítulo si apareciere que los infractores se ampararon en la fuerza o anonimato del grupo para cometer la falta.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 219 Bis.
+
+Cuando con una sola conducta el infractor transgreda varios preceptos, el Juez Calificador impondrá la sanción mayor.
 
 ORGANIZACIÓN ADMINISTRATIVA
 
@@ -2099,7 +2321,9 @@ IV. La Dirección de Juzgados Calificadores;
 
 V. Los Juzgados Calificadores
 
-VI. La dependencia del H. Ayuntamiento del Municipio de Puebla, que tenga a su cargo la Seguridad Publica y Vialidad; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VI. La Dependencia del Honorable Ayuntamiento del Municipio de Puebla, que tenga a su cargo la Seguridad Pública y Tránsito Municipal; y
 
 VII. La dependencia del H. Ayuntamiento del Municipio de Puebla, que tenga a su cargo el control de giros comerciales.
 
@@ -2109,47 +2333,149 @@ Al C. Presidente Municipal corresponde:
 
 I. La designación y remoción del Director de los Juzgados Calificadores a propuesta del Síndico Municipal; y
 
-II. La designación y remoción de los Jueces de los Juzgados Calificadores a propuesta del Síndico Municipal.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+II. La designación y remoción de los Jueces Calificadores, Secretarios, Alcaides, Supervisores y Notificadores de los Juzgados Calificadores, a propuesta del Síndico Municipal.
 
 ###### Artículo 222.
 
 Al Síndico Municipal corresponde:
 
-I. Promover ante el Presidente Municipal en términos de la ley, a los candidatos a Director de los Juzgados Calificadores, a Jueces Calificadores, Secretarios, Alcaides y Supervisores;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-II. Proponer los lineamientos y criterios de carácter técnico y jurídico a que se sujetará el funcionamiento de los Juzgados Calificadores;
+I. Proponer los lineamientos y criterios de carácter técnico y jurídico a que se sujetará el funcionamiento de los Juzgados Calificadores;
 
-III. Supervisar y aprobar, en su caso, el funcionamiento de los Juzgados Calificadores y la correcta aplicación del presente Capítulo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-IV. Autorizar, junto con el Secretario General del H. Ayuntamiento los libros que se lleven en los Juzgados Calificadores para el control de remitidos y detenidos; y
+II. Supervisar y aprobar, en su caso, el funcionamiento de los Juzgados Calificadores y la correcta aplicación del presente Capítulo;
 
-V. Reconsiderar cuando exista causa justificada las sanciones impuestas por los Jueces Calificadores.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+III. Autorizar junto con el Secretario del Honorable Ayuntamiento, los Libros de Gobierno que se lleven en los Juzgados Calificadores para el control de remitidos y detenidos; facultad que podrá ser delegada al Director de Juzgados Calificadores;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IV. Proponer al Presidente Municipal el número, distribución y competencia territorial de los Juzgados que deban funcionar;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+V. Diseñar los procedimientos para la supervisión, control y evaluación periódica del personal de los Juzgados;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VI. Diseñar y desarrollar los contenidos del curso propedéutico correspondiente para la capacitación de los Jueces y Secretarios e instrumentar mecanismos de actualización mediante convenios con instituciones académicas, debiendo contar con la anuencia del Presidente Municipal;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VII. Promover la difusión de la Justicia Municipal a través de campañas de información sobre sus objetivos y procedimientos;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VIII. Proponer al Presidente Municipal normas y criterios para mejorar los recursos y funcionamiento de la Justicia Municipal;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IX. Proponer y establecer Convenios de Colaboración que contribuyan al mejoramiento de los servicios de los Juzgados Calificadores, tanto en materia de profesionalización, como de coordinación con otras Instancias Públicas o Privadas, de orden Federal o Local, en beneficio de toda persona que sea presentada ante el Juzgado; así como también para la designación de los representantes que asistan a los menores, en los procedimientos que regula este Código. Dichas bases tendrán como finalidad, la canalización de menores que se encuentren en riesgo;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+X. Integrar el Registro de Infractores;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XI. Establecer con la Secretaria de Seguridad Pública y Tránsito Municipal, los mecanismos necesarios para el intercambio de información respecto de las remisiones de infractores, procedimientos iniciados y concluidos, sanciones aplicadas e integración del Registro de Infractores;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XII. Establecer los mecanismos para la supervisión de la realización de actividades de apoyo a la comunidad;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XIII. Entregar copia simple o certificada sobre hechos asentados en las actas de audiencia y los libros de registro del Juzgado Calificador;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XIV. Convocar a las Asociaciones de Abogados, Barras y Colegios de Abogados que tengan debidamente acreditada su personalidad, para realizar y formular la convocatoria para examen de oposición para Jueces Calificadores para que una vez realizado el examen se conozcan los resultados y el Síndico Municipal proponga los nombramientos al Presidente Municipal; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XV. Las demás facultades que le confiera el presente Capítulo; así como las que le encomiende el Ayuntamiento y el Presidente Municipal.
 
 ###### Artículo 223.
 
 Al Director de los Juzgados Calificadores corresponde:
 
-I. Supervisar y vigilar el funcionamiento de los Juzgados Calificadores, a fin de que realicen sus funciones conforme a las disposiciones legales y a los lineamientos y criterios emitidos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-II. Recibir para su guarda y utilización correspondiente, los documentos y objetos que se remitan a los Juzgados Calificadores;
+I. Supervisar y vigilar el funcionamiento de los Juzgados Calificadores, a fin de que realicen sus funciones de manera eficiente conforme a las disposiciones legales, a los lineamientos y criterios emitidos;
 
-III. Obtener la cooperación de las autoridades en la recepción y admisión de personas presentadas en los Juzgados Calificadores cuando se trate de menores de edad, enfermos graves o contagiosos, o que padezcan enfermedades mentales, toxicómanos o alcohólicos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-IV. Supervisar y aprobar, en su caso, los informes diarios que determinen y rindan los Juzgados Calificadores; y
+II. Recibir para su guarda y destino correspondiente, los documentos y objetos que le remitan. Llevando un Libro para Registro de Bienes y Valores Asegurados, durante los procedimientos efectuados en los Juzgados Calificadores y en su caso decidir el destino que se les dará a los mismos;
 
-V. En faltas eventuales del Síndico Municipal, reconsiderar cuando exista causa justificada las sanciones impuestas por los jueces calificadores, debiendo informar lo conducente al Síndico Municipal, a la brevedad posible.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+III. Obtener la cooperación del DIF Municipal y de las Instituciones de Asistencia Social correspondientes para las personas presentadas en los Juzgados Calificadores, cuando se trate de menores de edad, enfermos graves o contagiosos, o que padezcan enfermedades mentales, toxicómanos o alcoholizados;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IV. Supervisar y aprobar, en su caso, los informes diarios que determinen y rindan los Jueces Calificadores; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+V. Las demás funciones que le confiera el Código y otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 223 Bis.
+
+La supervisión de los Juzgados Calificadores estará a cargo de un Jefe de Departamento de Supervisión y dos Supervisores.
 
 LOS JUZGADOS CALIFICADORES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 224.
 
-El Director de los Juzgados Calificadores, será designado y removido por el C. Presidente Municipal, a propuesta del Síndico Municipal.
+En el Juzgado Calificador se llevarán los registros que determine la Sindicatura, y contará con los espacios físicos siguientes:
+
+I. Sala de Audiencias;
+
+II. Sección de Recuperación para personas en estado de ebriedad o intoxicadas;
+
+III. Sección de Menores;
+
+IV. Sección Médica; y
+
+V. Área de Seguridad.
+
+Las secciones a que se refieren las fracciones II, III y V contarán con departamentos separados para hombres y mujeres.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 225.
 
-Cada Juzgado Calificador estará integrado por un Juez, un Secretario y un Alcaide por cada turno, los cuales serán rotados permanentemente en los términos que señale el Director de los Juzgados Calificadores.
+Cada Juzgado Calificador actuará en turnos sucesivos, las veinticuatro horas los trescientos sesenta y cinco días del año, para tal efecto se instituirán los Jueces Calificadores que se requieran, los cuales desempeñaran sus funciones por jornadas de veinticuatro horas, cada uno y descansando cuarenta y ocho horas; gozando el personal adscrito a la Dirección de los Juzgados Calificadores de los periodos vacacionales a que tenga derecho, en forma escalonada y calendarizada, para que no se interrumpa la continuidad del servicio.
 
-Asimismo el Juez Calificador se auxiliará del Médico del Tribunal Superior de Justicia adscrito a cada Delegación y dos Policías Preventivos.
+El Juzgado Calificador estará integrado por cada turno, cuando menos, del personal siguiente:
+
+I. Un Juez;
+
+II. Un Secretario;
+
+III. Un Alcaide; y
+
+IV. Dos Policías Preventivos comisionados por la Secretaría de Seguridad Pública y Tránsito Municipal.
+
+El Juez Calificador se auxiliará del Médico Legista del Tribunal Superior de Justicia adscrito a cada Delegación del Ministerio Público, o en su caso del Médico Itinerante que designe el Presidente Municipal por examen de oposición.
+
+Asimismo el Juez Calificador se auxiliará de un notificador adscrito a la Dirección de los Juzgados Calificadores.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 225 Bis.
+
+El Juez Calificador deberá tomar las medidas necesarias para que los asuntos de su competencia se resuelvan durante el ejercicio de sus funciones, debiendo bajo su estricta responsabilidad, entregar las actuaciones practicadas hasta ese momento, dejando a disposición del Juez que inicia turno a los infractores que se encuentren en el Área de Seguridad.
 
 ###### Artículo 226.
 
@@ -2157,13 +2483,25 @@ Para ser Juez Calificador se requiere:
 
 I. Ser ciudadano mexicano por nacimiento;
 
-II. Ser Licenciado en Derecho con más de dos años de ejercicio profesional, debiendo contar con el título que lo acredite como tal, estando dicho documento debidamente registrado, a la fecha de su designación;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+II. Ser Licenciado en Derecho con más de un año de ejercicio profesional o acreditar haber terminado los estudios de licenciatura en derecho y que certifique su titulación automática por la institución de nivel superior así como contar con un año de experiencia, debiendo contar con Cédula y Título Profesional;
 
 III. Tener una vecindad no menor de tres años en el Municipio de Puebla;
 
-IV. No ejercer ningún otro cargo público; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-V. No haber sido sentenciado por la comisión de un delito doloso.
+IV. No ejercer ningún otro cargo público en la administración municipal;
+
+V. No haber sido sentenciado por la comisión de un delito doloso;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VI. No haber sido suspendido o inhabilitado para el desempeño de un cargo público; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VII. Aprobar los exámenes que para tal efecto establece el presente Código.
 
 ###### Artículo 227.
 
@@ -2177,31 +2515,71 @@ En las faltas eventuales del Juez Calificador, éste será sustituido por el Sec
 
 Son facultades y atribuciones de los jueces calificadores:
 
-I. Declarar la responsabilidad o no responsabilidad de los presuntos infractores;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-II. Aplicar las sanciones establecidas en este Capítulo;
+I. Declarar la responsabilidad o no responsabilidad de los probables infractores; incorporando en su caso a los infractores mayores de doce años y menores de dieciocho años a la comisión, dependencia, institución, órgano o cualquier otra, que para tal efecto se establezca, a fin de lograr su reinserción familiar y social;
 
-III. Ejercitar de oficio las funciones conciliatorias cuando de la falta cometida deriven daños y perjuicios que deban declamarse (sic) por la vía civil y en su caso obtener la reparación o dejar a salvo los derechos del ofendido;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+II. Aplicar las sanciones establecidas en este Capítulo y las aplicables, así como vigilar la ejecución de las mismas;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+III. Ejercitar de oficio las funciones conciliatorias cuando de la falta cometida deriven daños y perjuicios que deban reclamarse por la vía civil.
+
+Entre particulares, cuando con motivo de la comisión de alguna infracción se causen daños y perjuicios a terceros que deban reclamarse por la vía civil y en su caso, obtener la reparación del daño o dejar a salvo los derechos del ofendido, siempre que los interesados se sometan voluntariamente para evitar una controversia jurisdiccional; actuando el Juez como amigable componedor;
 
 IV. Expedir constancia sobre hechos asentados en los libros de registro del Juzgado Calificador;
 
-V. Dirigir administrativamente las labores del Juzgado Calificador;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+V. Dirigir administrativamente las labores del Juzgado Calificador e informar de manera inmediata las ausencias del personal a la Dirección de los Juzgados Calificadores;
 
 VI. Solicitar el auxilio de la fuerza pública en caso de que así se requiera, para el adecuado funcionamiento del Juzgado Calificador;
 
-VII. El Juez Calificador deberá firmar los recibos de multas impuestas; y
+VII. El Juez Calificador deberá firmar los recibos de multas impuestas; y (sic)
 
-VIII. El Juez Calificador deberá establecer estrecha coordinación con los titulares del Ministerio Público.
+VIII. El Juez Calificador deberá establecer estrecha coordinación con los titulares del Ministerio Público;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IX. Cuidar que se respete la dignidad humana y las garantías constitucionales impidiendo todo maltrato, abuso físico o verbal, incomunicación, exacción o coacción moral en agravio de las personas que comparezcan al Juzgado y en general preservar los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+X. Informar diariamente por escrito a la Sindicatura Municipal por medio de la Dirección de Juzgados Calificadores sobre los asuntos tratados y las resoluciones que haya dictado;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XI. Habilitar al personal del Juzgado para suplir las ausencias temporales del Secretario;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XII. Asistir a las reuniones a que sea convocado, así como aquéllas que se tengan con instituciones con las cuales haya celebrado convenio la Sindicatura Municipal;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XIII. Girar instrucciones a la Policía Preventiva Municipal en su jurisdicción, por conducto de su superior jerárquico;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XIV. La ejecución de los arrestos que impongan las Autoridades Administrativas Municipales, de conformidad con este Código será competencia del Juez Calificador;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XV. De las conductas establecidas en el Capítulo 27 del Código Reglamentario para el Municipio de Puebla, conocerá esta Autoridad Municipal y serán sancionadas en los términos establecidos en el artículo 1920 de dicho ordenamiento legal;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XVI. Brindarán orientación legal a quien lo solicite y tratándose de quejas entre particulares, dejarán constancia de la orientación y los canalizarán mediante oficio, a los órganos competentes cuando proceda y mediante tres citatorios se buscará la mediación; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XVII. Las demás atribuciones que le confieran este Reglamento y otros ordenamientos.
 
 ###### Artículo 230.
 
-Los Jueces Calificadores, a fin de hacer cumplir sus determinaciones y para mantener el orden en los Juzgados, podrán hacer uso de los siguientes medios:
-
-I. Amonestación; o
-
-II. Multa de 1 a 30 días de salario mínimo; o
-
-III. Arresto hasta por 18 horas.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 231.
 
@@ -2215,63 +2593,187 @@ I. Autorizar con su firma las actuaciones en que intervenga el Juez en turno, y 
 
 Asimismo, en caso de faltas eventuales del Secretario, las actuaciones en que intervenga el Juez en turno se autorizarán de igual forma con la asistencia de dos testigos;
 
-II. Autorizar las copias certificadas de constancias en que expida el Juzgado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-III. Recibir el importe de las multas que se impongan como sanciones; expedir el recibo correspondiente y entregar a la Tesorería Municipal en el siguiente día hábil las cantidades que reciba por ese concepto;
+II. Verificar que las actas de audiencia y demás documentos utilizados sean debidamente sellados y rubricados por los actuantes;
 
-IV. Custodiar y resolver cuando el Juez Calificador lo ordene, todos los objetos y valores que depositen los presuntos infractores.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-En los casos en que no proceda la devolución, remitirá dichos oficios al Director de los Juzgados Calificadores para que se determine su destino. No procederá la devolución en aquellos casos en que los objetos depositados representen un peligro para la seguridad o el orden público;
+III. Verificar que se entregue el recibo correspondiente por concepto de las multas que se impongan y que cobre la Tesorería Municipal;
 
-V. Llevar el control de la correspondencia, archivo y registros del Juzgado Calificador; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VI. Enviar a la Dirección de los Juzgados Calificadores un informe que contenga los asuntos tratados durante el turno y resoluciones dictadas por el Juez.
+IV. Custodiar y devolver cuando el Juez Calificador lo ordene, todos los objetos y valores que depositen los probables infractores.
 
-###### Artículo 233.
+En los casos en que no proceda la devolución de los objetos depositados por representar un peligro para la seguridad o el orden público, remitirá dichos oficios al Director de los Juzgados Calificadores para que determine su destino. No procederá la devolución en aquellos casos en que los objetos depositados representen un peligro para la seguridad o el orden público;
 
-Para ser secretario de juzgado calificador, se requiere:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+V. Llevar el control en los Libros respectivos de la correspondencia, archivo y registros del Juzgado Calificador y de los expedientes relativos a los asuntos que se ventilen en el Juzgado para el control de remitidos;
+
+VI. Enviar a la Dirección de los Juzgados Calificadores un informe que contenga los asuntos tratados durante el turno y resoluciones dictadas por el Juez;
+
+> <small>(ADICIONADA, P.O.31 DE DICIEMBRE DE 2008)</small>
+
+VII. Reportar inmediatamente al servicio de Localización Telefónica de la Administración Pública del Municipio de Puebla, la información sobre las personas presentadas, sancionadas, así como las que se encuentren en tiempo de recuperación.
+
+> <small>(ADICIONADO, P.O.31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 232 Bis.
+
+Para ser Secretario del Juzgado Calificador, se requiere:
 
 I. Ser ciudadano mexicano por nacimiento;
 
-II. Contar por lo menos con el documento que lo acredite como pasante de la Licenciatura en Derecho;
+II. Contar con carta de Pasante de la Licenciatura en Derecho;
 
-III. No ejercer ningún otro cargo público; y
+III. No ejercer ningún otro cargo público en la administración municipal;
 
-IV. No haber sido sentenciado por la comisión de un delito doloso.
+IV. No haber sido sentenciado por la comisión de un delito doloso;
+
+V. No haber sido suspendido o inhabilitado para el desempeño de un cargo público; y
+
+VI. Aprobar los exámenes que para tal efecto establece el Presente Código.
+
+> <small>(ADICIONADO, P.O.31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 232 Ter.
+
+Para ser Jefe de Departamento de Supervisión y Supervisor de Juzgados Calificadores, se requiere:
+
+I. Ser ciudadano mexicano por nacimiento;
+
+II. Ser Abogado o Licenciado en Derecho, contando con título y cédula profesional, y por lo menos con un año de experiencia en el ejercicio de la profesión;
+
+III. No ejercer ningún otro cargo público en la administración municipal;
+
+IV. No haber sido sentenciado por la comisión de un delito doloso;
+
+V. No haber sido suspendido o inhabilitado para el desempeño de un cargo público; y
+
+VI. Aprobar los exámenes que para tal efecto establece el Presente Código.
+
+> <small>(ADICIONADO, P.O.31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 232 Quáter.
+
+Al Jefe de Departamento de Supervisión de Juzgados Calificadores corresponderá:
+
+I. Coordinar a los supervisores, para realizar las diferentes visitas de inspección a los Juzgados Calificadores que le sean asignadas;
+
+II. Levantar actas administrativas, en caso de que exista irregularidad en las visitas de los supervisores a los juzgados;
+
+III. Verificar que los supervisores realicen sus actividades de conformidad con lo previsto por este Capítulo; y
+
+IV. Desempeñar aquellas funciones que le encomiende el Director de Juzgados Calificadores y que correspondan al área de su competencia, así como las demás que establece el presente Código Reglamentario.
+
+> <small>(ADICIONADO, P.O.31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 232 Quinquies.
+
+Al Supervisor del Juzgado Calificador corresponderá:
+
+I. Visitar los Juzgados Calificadores en diferentes horarios de las veinticuatro horas durante todo el año, supervisando el trabajo administrativo;
+
+II. Levantar actas administrativas en caso de que exista irregularidad en los procedimientos para determinar la responsabilidad del probable infractor;
+
+III. Verificar que los infractores sean tratados con respeto a sus derechos humanos;
+
+IV. Asesorar al personal de los Juzgados Calificadores, con relación a la interpretación del Código Reglamentario del Municipio;
+
+V. Desempeñar aquellas funciones que le encomiende el Director de Juzgados Calificadores, que por su naturaleza, correspondan al área de su competencia;
+
+VI. Verificar que en los juzgados, todos los recibos de multa expedidos cumplan con las características establecidas;
+
+VII. Verificar si es necesario, que las audiencias de conciliación derivadas de la comisión de una falta, sean en base a la Ley; y
+
+VIII. Investigar, en caso de alguna queja por parte de un ciudadano infractor, los motivos de ésta; y rendir el informe pertinente al Director de Juzgados Calificadores y éste deberá informar a la Contraloría Municipal, para los efectos conducentes.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 233.
+
+Al Notificador de los Juzgados Calificadores corresponderá:
+
+I. Hacer entrega de los citatorios que ordene el Juez Calificador;
+
+II. Llevar una bitácora de las actividades realizadas durante el desempeño de sus funciones;
+
+III. Llevar el registro de los citatorios que le son entregados, en el Libro correspondiente; y
+
+IV. Las demás que establezca la Dirección de los Juzgados Calificadores.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 233 Bis.
+
+Para ser Notificador del Juzgado Calificador, se requiere:
+
+I. Ser ciudadano mexicano por nacimiento;
+
+II. Contar con estudios de Educación Media Superior;
+
+III. No ejercer ningún otro cargo público en la administración municipal;
+
+IV. No haber sido sentenciado por la comisión de un delito doloso;
+
+V. No haber sido suspendido o inhabilitado para el desempeño de un cargo público; y
+
+VI. Aprobar los exámenes que para tal efecto establece el presente Código.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 234.
 
-Al alcaide del Juzgado Calificador corresponderá:
+Al Alcaide de los Juzgados Calificadores corresponderá:
 
 I. Ejecutar las órdenes de la Autoridad competente, de remisiones, custodia y vigilancia; así como la presentación de los infractores y detenidos ante éstas;
 
-II. La vigilancia sobre las celdas de las delegaciones auxiliado de un elemento de la Policía Preventiva;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-III. La vigilancia y conservación para mantener la salubridad e higiene de las celdas;
+II. Ejecutar las órdenes del Juez Calificador;
 
-IV. Recibir a los detenidos de las dependencias autorizadas como:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+III. La vigilancia sobre las celdas de la delegación, auxiliado de un elemento de la Policía Preventiva Municipal;
 
-Dirección de Seguridad Pública, Dirección de Tránsito Municipal, Policía Judicial, Departamento de Auxilio y Seguridad Ciudadana, a petición del Juez Calificador;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-V. Tener bajo su custodia y protección a las personas que estén a disposición del Juez Calificador;
+IV. La vigilancia del área de seguridad de las delegaciones, auxiliado de los elementos de la Policía Preventiva Municipal;
 
-VI. Vigilar la introducción de alimentos para los detenidos, no permitiendo la introducción de metales, envases de vidrio y en general objetos que por su propia naturaleza denoten peligrosidad o atenten contra la seguridad;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+V. Mantener la salubridad e higiene de las celdas; y (sic)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VI. Vigilar la introducción de alimentos para los infractores;
 
 VII. Presentar a los infractores cuantas veces lo disponga el Juez Calificador;
 
 VIII. No permitirá la estancia de los remisos o detenidos en la sección de la Alcaldía, sino que inmediatamente de recibirlos deberá trasladarlos a la celda.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 235.
 
-Para ser Alcaide de juzgado calificador, se requiere:
+Para ser Alcaide de los Juzgados Calificadores, se requiere:
 
 I. Ser ciudadano mexicano por nacimiento;
 
-II. No ejercer ningún otro cargo público; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-III. No haber sido sentenciado por la comisión de un delito doloso.
+II. No ejercer ningún otro cargo público en la administración municipal;
+
+III. No haber sido sentenciado por la comisión de un delito doloso;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IV. Contar con escolaridad media; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+V. Aprobar los exámenes que para tal efecto establece el Presente Código.
 
 DEL PROCEDIMIENTO
 
@@ -2279,15 +2781,153 @@ DEL PROCEDIMIENTO
 
 Radicado el asunto ante el Juez Calificador, éste procederá a informar al presunto infractor el derecho que tiene a comunicarse con persona que le asista y defienda; haciéndose constar por parte del Juez Calificador en turno, dentro del procedimiento respectivo, el ejercicio por parte del infractor, del derecho que le confiere el presente artículo, señalando el medio que tuvo al alcance el infractor para ejercer el mismo.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 236 Bis.
+
+Del trabajo a favor de la comunidad.
+
+I. Cuando el infractor acredite fehacientemente su identidad y domicilio, podrá solicitar al Juez Calificador, se le permita realizar trabajo a favor de la comunidad, a efecto de no cubrir su multa o el arresto que se le hubiese impuesto, excepto en caso de reincidencia;
+
+II. Las actividades del trabajo a favor de la comunidad, se desarrollarán de acuerdo a la tabla de cálculo que se menciona en el inciso f) párrafos cuarto y quinto del artículo 236 Ter. En ningún caso podrán realizarse dentro de la jornada laboral del infractor;
+
+III. El Juez Calificador en base a las circunstancias del infractor, podrá acordar la suspensión de la sanción impuesta y señalar los días, horas y lugares en que se llevarán a cabo las actividades del trabajo a favor de la comunidad y sólo hasta la ejecución de las mismas, se cancelará la sanción de que se trate.
+
+En todos los casos el Juez Calificador hará del conocimiento del infractor la prerrogativa a que se refiere la fracción anterior.
+
+El programa deberá garantizar que los sujetos de la medida, presten sus servicios en dependencias o entidades municipales, tomando en cuenta los usos y costumbres de la comunidad a que pertenezca y se deberá informar del cumplimiento respectivo.
+
+Son actividades del trabajo a favor de la comunidad:
+
+a) Limpieza, pintura o restauración de centros públicos educativos, de salud o de servicios;
+
+b) Limpieza, pintura, restauración de los bienes dañados por el infractor o semejantes a los mismos;
+
+c) Realización de obras de ornato, en lugares de uso común;
+
+d) Realización de obras de balizamiento, limpia o reforestación, en lugares de uso común; y
+
+e) Compartir pláticas a vecinos o educandos de la comunidad, en que hubiera cometido la infracción, relacionadas con la convivencia ciudadana o realización de actividades relacionadas con la profesión, oficio u ocupación del infractor.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 236 Ter.
+
+Las actividades del trabajo a favor de la comunidad, se llevarán a cabo bajo la supervisión, cuidado y vigilancia del personal que sea designado para tal efecto, debiendo cumplir lo siguiente:
+
+a) El trabajo se realizará en el horario que no afecte, su asistencia a la escuela o institución académica o a su jornada normal de trabajo;
+
+b) Toda persona que acepte como medida trabajo a favor de la comunidad, quedará bajo el cuidado y vigilancia del personal que sea designado para tal efecto; quién tendrá conocimiento del lugar, los días y el horario en que deba prestarse y el tipo de servicio que deberá desempeñar el obligado, de acuerdo con el programa social que se establezca;
+
+c) Una vez que se haya otorgado este beneficio, el Juez Calificador notificará al día hábil siguiente a la dependencia, institución, órgano o cualquier otra, el nombre del infractor que prestará este servicio debiendo señalar el tiempo que deberá permanecer en el lugar, entregándole copia del oficio respectivo;
+
+d) La dependencia, institución, órgano o cualquier otra, informará por escrito al Juez Calificador, sobre el cumplimiento u omisión de este servicio;
+
+e) Para otorgar este beneficio el infractor deberá garantizar el importe de la sanción impuesta por multa equivalente a las horas de arresto, mediante los siguientes medios:
+
+1. Depósito en efectivo o fianza que estime la Autoridad competente.
+
+El depósito a que se refiere el inciso anterior se pagará en la caja que para tal efecto autorice la Tesorería Municipal.
+
+f) Una vez que el infractor haya cumplido con el servicio determinado, se le reembolsará la garantía depositada, previa solicitud que realice ante la Dirección de Juzgados Calificadores; para lo cual se le expedirá la constancia respectiva por el Juez Calificador en turno.
+
+En caso de que el infractor no haya cumplido con el trabajo a favor de la comunidad, se hará efectiva la fianza que el infractor haya depositado para tal efecto, a favor del Ayuntamiento; debiéndose notificar mediante oficio a la Autoridad correspondiente.
+
+Se exceptuarán de este beneficio a los infractores que se encuentren bajo el influjo de alguna sustancia psicotrópica, droga o enervante.
+
+Las horas de servicio comunitario a conmutar por el infractor se calcularán en base a la Tabla siguiente:
+
+Horas de Arresto Horas de Servicio
+
+Comunitario
+
+8 4
+
+12 6
+
+18 9
+
+22 11
+
+25 121/2
+
+29 141/2
+
+32 16
+
+36 18
+
+Tratándose de una sanción económica las horas de servicio comunitario se determinarán conforme a la siguiente Tabla:
+
+Sanción Horas equivalentes Horas Servicio
+
+Económica Arresto Comunitario
+
+5 - 15 días 8 4
+
+16 - 20 días 12 6
+
+21 - 25 días 18 9
+
+26 - 30 días 22 11
+
+31 - 40 días 25 121/2
+
+41 - 50 días 29 141/2
+
+51 - 74 días 32 16
+
+75 -100 días 36 18
+
+Únicamente cuando se trate de trabajo a favor de la comunidad se aplicarán estas Tablas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 236 Quáter.
+
+Se considerará a los padres, tutores, a los representantes legales, o persona que legalmente tenga bajo su custodia, cuidado o responsabilidad a un menor de edad, responsables solidarios por las infracciones, acciones u hechos que realicen o protagonicen los menores de edad a su cargo, por lo que serán éstos quienes indemnicen o reparen los daños causados.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 236 Quinquies.
+
+En el caso de menores de edad, serán sus padres, tutores, representantes legales o persona que legalmente tenga bajo su custodia, cuidado o responsabilidad a un menor de edad, los que podrán realizar servicio a favor de la comunidad, ya que son solidariamente responsables por las infracciones, acciones u hechos que realicen o protagonicen los menores de edad a su cargo.
+
+La petición deberá formularse por el menor, por escrito y con la autorización de sus padres, tutores o representantes legales, debiendo ser firmada por ambos. Anexando a dicha solicitud comprobante domiciliario fidedigno.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 236 Sexies.
+
+En caso de que los padres, tutores, representantes legales o persona que legalmente tenga bajo su custodia, cuidado o responsabilidad a un menor de edad, en su carácter de responsables solidarios, no cumplieran con la reparación establecida, se sancionarán con multa hasta de quinientos días de salario mínimo general vigente en la zona económica en la que se encuentra comprendido el Municipio de Puebla, al momento de cometerse la infracción; dejando a salvo los derechos del quejoso para hacerlos valer en la vía legal correspondiente.
+
+En caso de que el responsable solidario no cubriera la multa impuesta por el Juez Calificador, se girará oficio a la Autoridad Fiscal competente para que determine el crédito fiscal correspondiente y en su caso inicie el Procedimiento Administrativo de Ejecución.
+
+En el caso de reincidencia de la conducta del menor a que se refiere el artículo se aplicará doble sanción a los responsables solidarios.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 236 Septies.
+
+Las faltas sólo se sancionarán, cuando se hubiesen consumado y la potestad para castigarlas prescribe a partir del tercer día en que se cometen.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 237.
 
-Si el presunto infractor solicita tiempo para comunicarse con persona que le asista y defienda, el Juez suspenderá el procedimiento y le facilitará los medios idóneos para su aplicación, concediéndole un plazo prudente que no excederá de 4 horas para que se presente el defensor.
+Si el probable infractor solicita tiempo para comunicarse con la persona que le asista y defienda, el Juez suspenderá el procedimiento y le facilitará los medios idóneos para su aplicación, concediéndole un plazo prudente que no excederá de dos horas para que se presente el defensor.
 
 ###### Artículo 238.
 
 Cuando la persona presentada se encuentre en estado de ebriedad o bajo el influjo de estupefacientes o substancias psicotrópicas, el Juez Calificador podrá solicitar al Médico del Tribunal Superior de Justicia que previo examen, dictamine el estado físico del infractor y señale el plazo probable de recuperación, el cual se tomará como base para iniciar el procedimiento.
 
-En tanto transcurra la recuperación, la persona será ubicada en la sección que corresponda.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+En tanto transcurra la recuperación, la persona será ubicada en la sección que corresponda tomando en consideración que:
+
+I. Si el Médico determina, que el probable infractor requiere de atención médica de urgencia, y que deba trasladarse a una institución de salud, el Juez realizará las diligencias necesarias para su canalización; y
+
+II. Si el Médico determina, que no puede permanecer el infractor en área cerrada, el Juez permitirá su salida del Juzgado.
 
 ###### Artículo 239.
 
@@ -2297,83 +2937,181 @@ Cuando las personas presentadas denoten peligrosidad o intenciones de evadirse s
 
 Cuando el presunto infractor padezca alguna enfermedad mental, a consideración del Médico de Turno, el Juez Calificador suspenderá el procedimiento y citará a las personas obligadas a la custodia del enfermo y a faltas de éstas, al Ministerio Público y a las autoridades del Sector Salud que deban intervenir, a fin de que se le proporcione la ayuda asistencial que se requiera.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 241.
 
-Si la persona presentada es extranjero, deberá acreditar su legal estancia en el país si no lo hace, independientemente de que se le siga el procedimiento y se le impongan las sanciones a que haya lugar, se dará aviso a las autoridades migratorias y se le pondrá a su disposición para los efectos procedentes.
+Si la persona presentada es extranjero, deberá acreditar su legal estancia en el País, si no lo hace, independientemente de que se le siga el procedimiento y se le impongan las sanciones a que haya lugar, se dará aviso a las Autoridades Migratorias inmediatamente y se le pondrá a su disposición para los efectos procedentes tomando en cuenta que:
 
-En caso de que la autoridad migratoria no acuda al aviso que se le dé en términos del párrafo anterior, el Juez Calificador pondrá en inmediata libertad al extranjero infractor, una vez concluido su arresto.
+a) En caso de que la Autoridad Migratoria no acuda al aviso que se le dé en términos del párrafo anterior, el Juez Calificador pondrá en inmediata libertad al extranjero infractor, una vez concluido su arresto o pagada su multa;
+
+b) Cuando el probable infractor no hable español, o se trate de un sordomudo, y no cuente con traductor o intérprete, se le proporcionará uno, sin cuya presencia el procedimiento administrativo no podrá dar inicio;
+
+c) Si el probable infractor, no estuviere acompañado de una persona que fuera traductor o interprete, el Juez deberá de comunicarse de inmediato a la Dirección de los Juzgados Calificadores para que provea lo conducente; y
+
+d) Si transcurridas tres horas a partir del llamado a la Dirección de los Juzgados Calificadores, sin que se logre la comparecencia del traductor o interprete, el Juez sobreseerá el procedimiento y autorizará la salida del probable infractor.
+
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+DE LOS MENORES DE EDAD
+
+> <small>(REFORMADO Y REUBICADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 242.
 
-Si el infractor es menor de edad, el Juez Calificador ordenará inmediatamente su presentación ante el Consejo Tutelar, por conducto de trabajadores sociales, o de quienes legalmente tengan bajo su cuidado al menor o por las personas que designe el Juez a su propio criterio. No se alojará a menores en lugares destinados a la detención, reclusión o arresto de mayores de edad.
+Si se presenta un menor de edad y se presume que no tiene cumplidos los doce años de edad, se solicitará al médico o perito autorizado, dictamine la mayoría o minoría de edad, y al ser menor de doce años se sobreseerá el procedimiento, el Juez procurará que un familiar acuda al juzgado por el menor, si no acude en dos horas, el Juez lo remitirá (sic) alguna de las Instituciones Públicas de Asistencia Social.
+
+Si el menor tuviera entre doce y catorce años de edad y no acudieran sus padres al juzgado, en un término de dos horas, se remitirá a alguna de las Instituciones mencionadas en el párrafo que antecede y cuando el presentado tenga catorce años y menos de dieciocho años, se observarán las siguientes reglas:
+
+I. El Juez realizará las diligencias necesarias, para lograr la comparecencia de la persona que ejerza la custodia o tutela legal o derecho del menor, para que lo asista y se encuentre presente en el procedimiento;
+
+II. En tanto acude quien custodia o tutela al menor, éste deberá permanecer en la oficina del Juzgado, en área destinada para ello;
+
+III. Si por cualquier causa no asistiera el responsable del menor en un plazo de dos horas, se otorgará una prórroga de dos horas;
+
+IV. Si al término de la prórroga no asistiera el responsable, el Juez le nombrará un representante del Gobierno Municipal, para que lo asista y defienda en su caso, será preferentemente un abogado que designe el DlF Municipal. Una vez que cuente con la asistencia legal, se sustanciará el procedimiento sumario en términos del artículo 244 de este Capítulo, si transcurridas dos horas no llegara el representante, se sobreseerá el procedimiento;
+
+V. Si a consideración del Juez el adolescente, se encontrara en situación de riesgo o abandono por no contar con familiares, se enviará ante las Autoridades del DIF a efecto de que reciba la atención correspondiente; los Jueces Calificadores podrán solicitar por escrito o forma verbal a la Secretaría de Seguridad Pública y Tránsito Municipal, que instruya entre su personal quien deberá realizar el traslado correspondiente; y
+
+VI. No se alojará a menores acusados de la comisión de una falta administrativa en lugares destinados a la detención, reclusión o arresto de mayores de edad.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 242 Bis.
+
+El procedimiento señalado en el artículo anterior, se efectuará en presencia del menor infractor a quien se le amonestará para que no reincida, facultándose al Juez Calificador, en términos de la fracción I del artículo 229 de este Código proceda su incorporación a la comisión, dependencia, institución, órgano o cualquier otra que para tal efecto se establezca, a fin de lograr su reinserción familiar y desarrollo social.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 242 Ter.
+
+Para la aplicación del procedimiento e imposición de sanciones, la edad de los menores, se acreditará mediante certificación o constancia de inscripción de su nacimiento en el Registro del Estado Civil de las Personas o en su defecto se determinará, por medio del dictamen médico legista o de perito autorizado.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 243.
 
-El Juez Calificador dará vista al Ministerio Público, de aquellos hechos que en su concepto puedan constituir delito y que aparezcan durante el desarrollo del procedimiento.
+El Juez Calificador dará vista al Agente del Ministerio Público Local o Federal, o al Ministerio Público especializado en Justicia para Adolescentes, respectivamente, mediante remisión de aquellos hechos que en su concepto puedan constituir delito y que tenga conocimiento de éstos durante el desarrollo del procedimiento con motivo de sus funciones independientemente de imponer la sanción que corresponda.
 
 DE LAS AUDIENCIAS
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 244.
 
-El procedimiento en materia de faltas al presente Capítulo, se substanciará en una sola audiencia, y solamente el Juez Calificador podrá disponer la celebración de otra por única vez. En todas las acciones se levantará acta pormenorizada que firmarán los que en ellas intervinieron. El procedimiento será oral y las audiencias públicas, y las mismas se realizaran en forma pronta y expedita sin más formalidades que las establecidas en este Capítulo.
+El procedimiento en materia de faltas al presente Capítulo, de probables infractores mayores de edad, se substanciará en presencia del remitido practicando el Juez Calificador una averiguación sumaria tendiente a comprobar la falta cometida y la responsabilidad del remitido, se substanciará en una sola audiencia, levantándose acta pormenorizada que firmarán los que en ellas intervinieron. El procedimiento será oral y las audiencias públicas, levantándose constancia por escrito de lo actuado y las mismas se realizarán en forma pronta y expedita sin más formalidades que las establecidas en este Capítulo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 245.
 
-El Juez Calificador en presencia del infractor practicará una averiguación sumaria, tendiente a comprobar la falta cometida y la responsabilidad de éste.
+En la audiencia el Juez levantará inventario de los objetos o instrumentos que presente el remitido y tratándose de aquéllos que pudieran perturbar el orden o ser utilizados para delinquir se decomisarán y formarán parte del Patrimonio del Ayuntamiento, quien decidirá su destino.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 246.
 
-En la averiguación a que se refiere el artículo anterior se seguirá el siguiente procedimiento:
+En la averiguación a que se refiere el artículo 244 se seguirá el siguiente procedimiento:
 
-I. Se hará saber al infractor la falta o faltas que motivaron su remisión;
+I. Se escuchará al quejoso o al representante de la Autoridad que haya remitido al inculpado, acerca de los hechos materia de la causa;
 
-II. Se escucharán los alegatos y se recibirán las pruebas que aporte el inculpado en su defensa;
+II. Se hará saber al probable infractor la falta o faltas que motivaron su remisión y manifestará lo que a su derecho convenga;
 
-III. Se escuchará al quejoso o al representante de la autoridad que haya remitido al inculpado, acerca de los hechos materia de la causa y, el Juez Calificador dictará su resolución haciendo la calificación correspondiente a la sanción impuesta, firmando el acta y boleta respectiva; y
+III. Se recibirán las pruebas que aporte el inculpado en su defensa y se escucharán los alegatos y el Juez Calificador dictará su resolución haciendo la calificación correspondiente a la sanción impuesta, fundando y motivando su determinación, firmando el acta respectiva; y
 
-IV. Emitida la resolución, el Juez Calificador notificará personalmente al enjuiciado y al denunciante si lo hubiere.
+IV. Emitida la resolución, el Juez Calificador notificará personalmente al infractor y al denunciante si lo hubiere.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 246 Bis.
+
+Si el probable infractor niega los cargos, se seguirá de conformidad con lo establecido en las fracciones I y II del artículo que antecede y se continuará con la audiencia, se recibirán las pruebas ofrecidas y el Juez dictará la resolución que corresponda.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 247.
 
-Si el presunto infractor resulta no ser responsable de la falta imputada, el Juez Calificador resolverá que no hay sanción que imponer y ordenará la libertad inmediata de éste.
+Si el probable infractor resulta no ser responsable de la falta imputada, el Juez Calificador resolverá que no hay sanción que imponer y autorizará que se retire de las oficinas del Juez Calificador.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 248.
 
-El Juez Calificador en ningún caso autorizará el pago de una multa sin que el Secretario expida al interesado el recibo correspondiente, que contendrá la fecha, el motivo de la infracción, la cantidad pagada, el nombre y la dirección del infractor.
+El Juez Calificador en ningún caso autorizará el pago de una multa sin que el Secretario expida al interesado el recibo correspondiente, que contendrá la fecha, el motivo de la infracción, la cantidad a pagar, el nombre y la dirección del infractor. El pago correspondiente se realizará en la caja que la Tesorería Municipal haya implementado para tal caso o a quién ésta autorice.
 
 ###### Artículo 249.
 
 El recibo al que se refiere el artículo anterior, deberá contenerse en el talonario en el que se hagan las mismas anotaciones, para los efectos de inspecciones o supervisiones de la Tesorería Municipal, de la Contraloría Municipal o de la Dirección de Juzgados Calificadores.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 250.
 
-En todos los procedimientos del Juzgado Calificador, se respetará la garantía de previa audiencia y el derecho de petición consagrados en los artículos 8, 14, 16 y 21 Constitucionales.
+En todos los procedimientos el Juez Calificador, respetará la garantía de previa audiencia, el principio de legalidad y el derecho de petición consagrados en los artículos 8, 14, 16, 17, 18, 20, 21 y 22 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 251.
 
-En todo lo no previsto en este Capítulo, se aplicarán las disposiciones del Código de Defensa Social para el Estado de Puebla y al Código de Procedimientos en Materia de Defensa Social del Estado de Puebla.
+En todo lo no previsto en este Capítulo, se aplicarán las disposiciones del Código de Defensa Social para el Estado Libre y Soberano de Puebla, Código de Procedimientos en Materia de Defensa Social del Estado Libre y Soberano de Puebla y Código de Justicia para Adolescentes del Estado Libre y Soberano de Puebla.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 252.
 
-Es facultad del Presidente Municipal, resolver cualquier duda, respecto a la interpretación del presente Capítulo, la aplicación del mismo y las sanciones que establece, así como delegar estas facultades en el funcionario que designe.
+Es facultad del Presidente Municipal, resolver cualquier duda, respecto a la interpretación del presente Capítulo, la aplicación del mismo y las sanciones que establece, así como delegar mediante oficio estas facultades en el funcionario que designe.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 252 Bis.
+
+En contra de las determinaciones que realice el Juez Calificador procederá el Recurso de Inconformidad en la forma y términos establecidos en el artículo 252 de la Ley Orgánica Municipal.
 
 ### CAPÍTULO 12. ESPECTÁCULOS PÚBLICOS
 
 DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 253.
 
 Las disposiciones del presente Capítulo tienen por objeto regular la seguridad vial y el tránsito, tanto de peatones como de vehículos, en las vías públicas ubicadas dentro de la extensión territorial del Municipio, así como proveer en el orden de la administración pública municipal al cumplimiento de los preceptos de las disposiciones federales, leyes estatales y reglamentos derivados de las mismas, que resulten aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 254.
 
-Para efectos de la aplicación del presente Capítulo, las vías públicas se integran por el conjunto de áreas que, en forma ordinaria o accidental, permitan el libre tránsito de vehículos y peatones y faciliten la comunicación terrestre dentro del Municipio, misma que se clasifican como sigue:
+Para efectos de la aplicación del presente Capítulo se entiende por:
 
-I. Vías primarias, que comprenden los anillos periféricos, viaductos, ejes viales, avenidas, calles, paseos, calzadas y bulevares;
+I. Agente: Elemento de la Dirección de Tránsito Municipal;
 
-II. Vías secundarias, que comprenden los callejones, callejuelas, rinconadas, cerradas, privadas, caminos de terracería, calles peatonales, pasajes, andadores y portales; y
+II. Áreas de Transferencia o Servicios Complementarios: Aquéllas que incluyen las instalaciones de lugares de resguardo de bicicletas, las terminales urbanas, suburbanas y foráneas, las estaciones de transporte de pasajeros, los paraderos, los sitios, las estaciones para cargar gasolina y gas licuado de petróleo, los estacionamientos públicos, bahías y otras estaciones o áreas similares;
 
-III. Áreas de transferencia o servicios complementarios, que incluyen las instalaciones y lugares de resguardo para bicicleta, las terminales urbanas, suburbanas y foráneas, las estaciones de transporte de pasajeros, los paraderos, los sitios, las estaciones para cargar gasolina y gas licuado de petróleo, los estacionamientos públicos y otras estaciones o áreas similares.
+III. Capítulo: El Capítulo 10 del Código Reglamentario para el Municipio de Puebla;
+
+IV. Ciclovía: Infraestructura con señalización, para la circulación exclusiva de ciclistas;
+
+V. Departamento de Infracciones: El Departamento de Infracciones de la Dirección de Ingresos de la Tesorería Municipal;
+
+VI. Dirección de Ingresos: La Dirección de Ingresos de la Tesorería Municipal;
+
+VII. Dirección de Tránsito: La Dirección de Tránsito Municipal;
+
+VIII. Infracción: Conducta que transgreda alguna disposición del presente Capítulo y que tiene como consecuencia una sanción;
+
+IX. Secretaría: La Secretaria de Seguridad Pública y Tránsito Municipal;
+
+X. Seguridad Vial: Conjunto de medidas tendientes a preservar la integridad física de las personas con motivo de su tránsito en las vías públicas;
+
+XI. Vía de Acceso Controlado: Aquélla que presenta dos o más secciones centrales y laterales, en un solo sentido con separador central y accesos y salidas sin cruces a nivel controlados por semáforo;
+
+XII. Vía Primaria: Aquella que por su anchura, longitud, señalización y equipamiento, posibilita un amplio volumen de tránsito vehicular;
+
+XIII. Vía Pública: Todo espacio de uso común destinado al libre tránsito y que sea propiedad del Municipio, que cuente con las características y especificaciones señaladas en el Capítulo de construcciones; y
+
+XIV. Vía Secundaria: Aquélla que permite la circulación al interior de las colonias, barrios y pueblos, tales como callejones, callejuelas, rinconadas, cerradas, privadas, caminos de terracería, calles peatonales, pasajes, andadores y portales.
 
 ###### Artículo 255.
 
@@ -2395,11 +3133,11 @@ DE LA COMPETENCIA Y ATRIBUCIONES
 
 El Ayuntamiento, a través de la Secretaría de Seguridad Pública y Tránsito Municipal, la Dirección de Tránsito Municipal, los agentes de vialidad estarán facultados para la aplicación y observancia de las disposiciones contenidas en el presente Capítulo y, en lo conducente, de los preceptos contenidos en los ordenamientos federales y estatales en la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 259.
 
-La Secretaría de Seguridad Pública y Tránsito Municipal, a través de la Dirección de Tránsito Municipal vigilará en forma permanente que el tránsito municipal se lleve a cabo conforme a las disposiciones de este Capítulo, para lo cual tendrá atribuciones:
+La Secretaría a través de la Dirección de Tránsito vigilará en forma permanente que el tránsito municipal se lleve a cabo conforme a las disposiciones de este Capítulo, para lo cual tendrá las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
 
@@ -2439,7 +3177,9 @@ XIV. Otorgar a las autoridades administrativas y judiciales, el auxilio que requ
 
 XV. Proporcionar a las personas físicas o jurídicas colectivas que acrediten conforme a derecho su interés jurídico, copia certificada a su costa de las constancias que le sean útiles para justificar que han cumplido con las disposiciones de la materia o de cualquier otro documento público de naturaleza similar, así como de la información que requieran de los expedientes de la propia Secretaría, siempre que en este caso realicen su petición por escrito, señalen el expediente de que se trata y los datos que requieran, y que la información no sea de carácter confidencial;
 
-XVI. Proponer al Ayuntamiento para su aprobación, a través del Presidente Municipal y por acuerdo del Secretario General de Seguridad Pública y Vialidad Municipal, el ordenamiento y los manuales necesarios para determinar y regular el funcionamiento interno de la dependencia, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XVI. Proponer al Ayuntamiento para su aprobación, a través del Presidente Municipal y por acuerdo del Secretario de Seguridad Pública y Tránsito Municipal, el ordenamiento y los manuales necesarios para determinar y regular el funcionamiento interno de la dependencia; y
 
 XVII. Las demás que les confieran este Capítulo, así como las disposiciones que resulten aplicables y los convenios celebrados con aprobación del Ayuntamiento.
 
@@ -2479,13 +3219,13 @@ En cada caso, en que la infracción a las disposiciones de tránsito establecida
 
 Para los efectos del artículo anterior, será sancionada la persona que aparezca dada de alta en el Registro Estatal de Vehículos, observándose al respecto lo establecido por el artículo 361 Bis del presente ordenamiento legal.
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 259 Bis 6.
 
-Si en un mismo evento concurren dos o más infracciones al presente Capítulo, y una de ellas se derive de la aplicación de un CINEMÓMETRO, el Agente de Seguridad Vial, se encuentra facultado para dar alcance al vehículo automotor correspondiente, detenerlo, hacerle ver que ha sido detectado por el CINEMÓMETRO por exceder el límite de velocidad y que por ende llegará a su domicilio la infracción respectiva, conminándolo para que disminuya su velocidad, haciéndole saber que de no respetar el límite de velocidad será considerado reincidente y en su caso se procederá al aseguramiento del vehículo.
+Si en un mismo evento concurren dos o más infracciones al presente Capítulo, y una de ellas se derive de la aplicación de un CINEMÓMETRO, el agente, se encuentra facultado para dar alcance al vehículo automotor correspondiente, detenerlo, hacerle ver que ha sido detectado por el CINEMÓMETRO por exceder el límite de velocidad y que por ende llegará a su domicilio la infracción respectiva.
 
-Respecto a la infracción concurrente, el Agente de Seguridad Vial Municipal se encuentra facultado para proceder en términos del presente Capítulo determinando la infracción que en su caso hubiese cometido el conductor en términos del artículo 304 y demás relativos del presente ordenamiento legal.
+Respecto a la infracción concurrente, el agente se encuentra facultado para proceder en términos del presente Capítulo determinando la infracción que en su caso hubiese cometido el conductor en términos del artículo 304 y demás relativos del presente ordenamiento legal.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -2493,11 +3233,17 @@ Respecto a la infracción concurrente, el Agente de Seguridad Vial Municipal se 
 
 Con independencia de lo señalado en los artículos 259 Bis, 259 Bis 1,259 Bis 2, 259 Bis 3, 259 Bis 4, 259 Bis 5 y 259 Bis 6, la Dirección de Tránsito Municipal a través de su personal, mantiene las facultades discrecionales en términos del presente Capítulo, a fin de cerciorarse de que un vehículo ha excedido el límite de velocidad en aquellas vialidades en donde no se encuentre un CINEMÓMETRO, conminando a los conductores a fin de que no incurran nuevamente en una falta por exceso de velocidad y realizando las acciones que en términos del presente Capítulo sean procedentes.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 260.
 
-De acuerdo con el artículo anterior, los agentes de vialidad adscritos a la Dirección de Tránsito Municipal, están facultados para proceder conforme a las fracciones IX, X y XII del mismo precepto, en los supuestos en que los conductores o propietarios de vehículos y peatones contravengan alguna de las disposiciones del presente Capítulo, aplicando las medidas preventivas y de seguridad que se requieran y levantando las actas de infracción, en su caso, de acuerdo con los procedimientos para el efecto, las cuales se ejecutarán de conformidad al tabulador de infracciones y sanciones establecido en este Capítulo.
+De acuerdo con el artículo 259 del presente Código, los agentes, están facultados para proceder conforme a las fracciones IX, X y XII del mismo precepto, en los supuestos en que los conductores o propietarios de vehículos y peatones contravengan alguna de las disposiciones del presente Capítulo, aplicando las medidas preventivas y de seguridad que se requieran y levantando las actas de infracción, en su caso, de acuerdo con los procedimientos para el efecto, las cuales se ejecutarán o sancionarán por el Departamento de Infracciones, de conformidad al tabulador de infracciones y sanciones establecido en este Capítulo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 260 Bis.
+
+La Dirección de Tránsito instalará programas de control y preventivos de ingestión de alcohol u otras substancias tóxicas, para conductores de vehículos para salvaguardar la vida, integridad física y propiedad de los conductores, pasajeros y peatones.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -2721,27 +3467,59 @@ Los propietarios y conductores de vehículos deben evitar que éstos sean conduc
 
 DE LOS PEATONES Y PASAJEROS
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 279.
 
-Los peatones deben transitar sobre las aceras de las vías públicas y por las zonas destinadas para ese objeto, evitando interrumpir u obstruir la corriente de tránsito vehicular en cualquier forma. Los peatones tendrán preferencia de paso respecto de los vehículos para cruzar las vías públicas municipales, siempre que lo hagan por los lugares y en la forma indicados.
+Los peatones y personas con capacidades diferentes tienen derecho de preferencia sobre el tránsito vehicular, para garantizar su integridad física cuando:
+
+I. En los pasos peatonales la señal del semáforo así lo indique;
+
+II. Habiéndoles correspondido el paso de acuerdo con el ciclo del semáforo no alcancen a cruzarla vía;
+
+Ill. Los vehículos vayan a dar vuelta para entrar a otra vía y haya peatones cruzando ésta;
+
+IV. Los vehículos circulen sobre el acotamiento y en éste haya peatones transitando en el caso de que no dispongan de zona peatonal;
+
+V. Transiten por la banqueta y algún conductor deba cruzarla para entrar o salir de una cochera o estacionamiento; y
+
+VI. Vayan en comitivas organizadas o filas escolares.
 
 ###### Artículo 280.
 
 Se prohíbe a los peatones entorpecer, en cualquier forma, la marcha de columnas militares, escolares, cívicas, de servicios especiales o manifestaciones permitidas, o cruzar las filas de éstas. De igual forma, se prohíbe formar grupos o depositar bultos que obstruyan el tránsito en las aceras o canales de uso exclusivo para los peatones, para seguridad de los mismos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 281.
 
-El cruce de las vías públicas municipales por los peatones queda sujeto a las siguientes disposiciones:
+Los peatones deberán observar lo siguiente:
 
-I. Los peatones deben cruzar las vías públicas en las esquinas, en las zonas especiales de paso que estén debidamente señaladas o utilizando los puentes peatonales respectivos, atendiendo estrictamente las indicaciones de tránsito;
+I. Cruzar las vías en las esquinas o zonas marcadas para tal efecto;
 
-II. Queda prohibido cruzar las calles en forma diagonal, lejos de las esquinas, fuera de las zonas permitidas y sin utilizar los puentes peatonales en donde éstos existan;
+II. Utilizar los puentes o pasos peatonales para cruzar la vía;
 
-III. Los peatones que no se encuentren en uso completo de sus facultades o de sus movimientos, y los niños menores de ocho años, deben ser conducidos por personas aptas para cruzar las vías públicas;
+III. Tomar las precauciones necesarias en caso de no existir semáforo;
 
-IV. Los invidentes deberán usar bastón plegadizo de color rojo y blanco y silbato, con el objeto de que algún elemento de la policía municipal, de seguridad vial, de auxilio municipal o cualquier otro peatón, los ayude a atravesar las calles; y
+IV. Obedecer las indicaciones de los agentes, promotores voluntarios de seguridad vial y las señales de tránsito; y
 
-V. Las personas con discapacidad o enfermos que circulen en carros de mano, sillas de ruedas o aparatos similares, deben cruzar por las rampas destinadas a tal efecto y, de preferencia, ser auxiliados por otras personas.
+V. Abstenerse de colocar obstáculos que impidan el tránsito peatonal, el desplazamiento o acceso de personas con capacidades diferentes y/o obstáculos que impidan el estacionamiento de vehículos en la vía pública.
+
+Los peatones que no cumplan con las obligaciones de este Reglamento, serán amonestados verbalmente por los agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
+
+Las autoridades correspondientes tomarán las medidas que procedan para garantizar la integridad física y el tránsito seguro de los peatones por la banqueta y el correcto flujo vehicular.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 281 Bis.
+
+Los ciclistas tienen derecho de preferencia sobre el tránsito vehicular cuando:
+
+I. Habiéndoles correspondido el paso de acuerdo con el ciclo del semáforo no alcancen a cruzar la vía;
+
+II. Los vehículos vayan a dar vuelta a la derecha para entrar a otra vía y haya ciclistas cruzando ésta, siempre y cuando el ciclista observe las disposiciones de conducción y circulación de vehículos que establece el presente Capitulo; y
+
+III. Los vehículos deban circular o cruzar una ciclovía y en ésta haya ciclistas circulando.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -2879,9 +3657,11 @@ La Dirección de Tránsito Municipal marcará sobre el pavimento de las calles, 
 
 A la Dirección de Tránsito Municipal le corresponde señalar las zonas o lugares de la vía pública en donde el estacionamiento esté permitido, sujeto a horarios especiales, limitado a vehículos oficiales o prohibido, mandando pintar en el primer caso una franja blanca sobre la guarnición de las banquetas y en los tres supuestos siguientes, un franja de color amarillo sin perjuicio de utilizar o autorizar otro tipo de señalizaciones con el mismo fin. En todo caso, se debe procurar que los accesos vehiculares a inmuebles de propiedad pública o privada se mantengan libres de obstáculos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 290.
 
-Cuando se controle el tránsito por medio de agentes o cadetes de seguridad vial se observará el siguiente sistema de señales:
+Cuando se controle el tránsito por medio de agentes de tránsito se observará el siguiente sistema de señales:
 
 I. ALTO: El frente y la espalda del elemento respectivo;
 
@@ -2915,13 +3695,13 @@ II. Adosar o colocar propaganda, letreros u otra clase de objetos, cuando por su
 
 DE LAS VIALIDADES DE INTENSO TRÁNSITO
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 292.
 
-La Dirección de Tránsito Municipal realizará las acciones necesarias para definir y establecer las vialidades de intenso tránsito en el Municipio, en las que sea necesario establecer disposiciones especiales, horarios o restricciones, para facilitar o hacer más expedita la circulación de vehículos.
+La Dirección de Tránsito realizará las acciones necesarias para definir y establecer las vialidades de intenso tránsito en el Municipio, en las que sea necesario establecer disposiciones especiales, horarios o restricciones, para facilitar o hacer más expedita la circulación de vehículos.
 
-Para este objeto, la Dirección de Tránsito Municipal debe tomar en cuenta las zonas comerciales, de oficinas públicas, de centros de reunión, de espectáculos, de mercados y todas aquéllas que por su naturaleza determinen una afluencia considerable de vehículos.
+Para este objeto, la Dirección de Tránsito debe tomar en cuenta las zonas comerciales, de oficinas públicas, de centros de reunión, de espectáculos, de mercados y todas aquéllas que por su naturaleza determinen una afluencia considerable de vehículos.
 
 DE LOS ESTACIONAMIENTOS
 
@@ -2941,11 +3721,11 @@ III. En todo caso los conductores deben observar estrictamente las disposiciones
 
 IV. Los vehículos no podrán ser estacionados fuera de los lugares permitidos para ese efecto, ni a menos de diez metros de la esquina en donde no se encuentre marcada la limitación correspondiente; tampoco podrá estacionarse en o cerca de una curva, o la cima donde el vehículo no pueda ser visto por otro a una distancia de seguridad, de acuerdo con la velocidad permitida en la vía.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 294.
 
-Las personas con capacidad diferente, tienen derecho a estacionar los vehículos que utilicen en las áreas o cajones destinados para uso exclusivo de las mismas, correspondiendo a la Dirección de Tránsito Municipal la salvaguarda de dicha prerrogativa, para la cual tendrá las siguientes atribuciones:
+Las personas con capacidad diferente, tienen derecho a estacionar los vehículos que utilicen en las áreas o cajones destinados para uso exclusivo de las mismas, correspondiendo a la Dirección de Tránsito la salvaguarda de dicha prerrogativa, para la cual tendrá las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -2953,9 +3733,9 @@ I. Vigilar en coordinación con la Unidad de Normatividad y Regulación Comercia
 
 II. En las calles y avenidas en el que se permita el estacionamiento de vehículos, destinar un espacio por cada veinte o fracción a partir de diez, para uso reservado a personas con discapacidad, con las dimensiones que la misma autoridad estime convenientes y con una ubicación lo más cercana posible de las rampas establecidas para facilitar el tránsito, la seguridad y la accesibilidad de dichas personas, instalando la señal internacional del discapacitado en un lugar fácilmente visible y pintada, además sobre el pavimento del cajón;
 
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-III. Procurar el respeto de estos espacios, cuidando que en los mismos sólo se estacionen los vehículos que tengan la placa correspondiente, expedida por la autoridad estatal competente;
+III. Procurar el respeto de estos espacios, cuidando que en los mismos sólo se estacionen vehículos que tengan pegada, en lugar visible, la placa oficial;
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
 
@@ -2981,15 +3761,21 @@ II. En el cruce o zona de peatones;
 
 III. Dentro de una distancia de 10 metros de un hidrante o toma de agua para el uso de servicios públicos;
 
-IV. Frente a accesos vehiculares a inmuebles públicos o privados;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IV. Frente a accesos vehiculares e inmuebles públicos o privados causando molestias, en cuyo caso se utilizará grúa con cargo al infractor;
 
 V. Sobre un puente o paso a desnivel, en una curva o cima, o dentro de una distancia cercana a ellos, no mayor de 20 metros;
 
 VI. En los lugares en donde haya señales oficiales de no estacionarse o exista algún otro dispositivo o restricción, salvo que se cumplan los lineamientos que en su caso determine la autoridad competente;
 
-VII. En doble o triple fila;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VIII. Sobre la banqueta y los camellones o en las calles o vías angostas en donde el estacionarse impida o dificulte el tráfico;
+VII. En doble o más filas;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VIII. Por estacionarse sobre la banqueta, camellones, calles o vías angostas, donde el estacionarse impida o dificulte el tráfico, tanto vehicular como peatonal, en cuyo caso se utilizará grúa para trasladarlo al depósito vehicular, con cargo al infractor;
 
 IX. En lugares permitidos como paradas, estaciones, terminales, bases o sitios, excepto los vehículos autorizados;
 
@@ -3045,13 +3831,17 @@ Los conductores están obligados a respetar los límites de velocidad establecid
 
 > <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
 
-I.- Cuando la vía pública carezca de señalamientos, la velocidad máxima será de sesenta kilómetros por hora, siendo aplicable el mismo límite si se trata de vías primarias, rápidas, bulevares o avenidas con camellón, y de cuarenta kilómetros por hora si se trata de vías secundarias, calles del Centro Histórico o avenidas sin camellón;
+I. Cuando la vía pública carezca de señalamientos, la velocidad máxima será de sesenta kilómetros por hora, siendo aplicable el mismo límite si se trata de vías primarias, rápidas, bulevares o avenidas con camellón, y de cuarenta kilómetros por hora si se trata de vías secundarias, calles del Centro Histórico o avenidas sin camellón;
 
 II. En caso de que un vehículo sea conducido a una velocidad debajo de la mínima establecida, deberá circular siempre por su extrema derecha;
 
 III. Al pasar frente a escuelas, hospitales, lugares de espectáculos y demás centros de reunión, durante las horas en que éstos sean habitualmente frecuentados por el público, los conductores deben disminuir la velocidad de su vehículo a veinte kilómetros por hora o menos, teniendo estrictamente prohibido detenerse en los carriles de circulación para permitir el ascenso o descenso de pasajeros; y
 
 IV. En las zonas de velocidad controlada, así como las curvas, bocacalles y cruceros, queda prohibida adelantar a otro vehículo que marche a la velocidad máxima permitida en esos lugares.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Cuando por el uso de cinemómetros no se pueda identificar al conductor infractor, el propietario del mismo será el responsable solidario en el pago de la multa.
 
 ###### Artículo 304.
 
@@ -3065,9 +3855,13 @@ III. Rebasar en “alto” las líneas que protegen las zonas de peatones o, en 
 
 IV. No respetar lo ordenado en la señales de tránsito y semáforos;
 
-V. Interrumpir desfiles; marchas o evoluciones similares;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VI. Conducir en estado de ebriedad, bajo el influjo de drogas o enervantes o con evidente somnolencia;
+V. Entorpecer la marcha de columnas militares, escolares, desfiles cívicos y similares, autorizadas por el Honorable Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VI. Conducir en estado de ebriedad o bajo el influjo de estupefacientes, enervantes, psicotrópicos o cualquier otra sustancia que produzca efecto similar;
 
 VII. Conducir usando cualquier instrumento que pueda distraer al conductor y ponga en riesgo la seguridad de los pasajeros y peatones, tales como teléfonos celulares, radios de comunicación, televisores, computadoras portátiles, periódicos, agendas o cualquier otro objeto similares a éstos, excepto si se trata de ambulancias, carros de bomberos, patrullas, unidades de emergencia o vehículos de transporte mercantil, en el supuesto de radios de comunicación;
 
@@ -3077,7 +3871,9 @@ IX. Conducir vehículos que contaminen ostensiblemente el ambiente;
 
 X. Transitar sobre las banquetas, rayas longitudinales marcadas en la superficie de rodamiento para delimitar los carriles de circulación o dentro de una isleta, sus marcas de aproximación o zonas de seguridad peatonal;
 
-XI. Llevar a su izquierda o entre sus manos alguna persona, animal o bulto, o permitir intromisiones sobre el control de dirección;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XI. Llevar a su izquierda o entre sus manos alguna persona, dispositivo móvil, animal, bulto o permitir intromisiones sobre el control de dirección;
 
 XII. Permitir que los menores de edad viajen sin utilizar los cinturones o asientos de seguridad respectivos, debiendo colorarse estos últimos en la parte posterior del vehículo;
 
@@ -3087,9 +3883,15 @@ XIV. Usar o mantener encendidos teléfonos celulares dentro de gasolineras o est
 
 XV. Conducir vehículos cuyos vidrios laterales, medallón y parabrisas impidan la plena visibilidad hacia el interior del vehículo, en los términos y con la salvedad que prevé el presente Capítulo;
 
-XVI. Conducir usando audífonos o con el volumen de algún aparato de sonido, de tal manera que éste se escuche en el exterior del vehículo; y
+XVI. Conducir usando audífonos o con el volumen de algún aparato de sonido, de tal manera que éste se escuche en el exterior del vehículo; y (sic)
 
-XVII. Las demás que se deriven del presente Capítulo.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XVII. Ofender, insultar o denigrar a los agentes o personal de tránsito municipal en el desempeño de sus labores; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XVIII. Las demás que deriven del presente Capítulo.
 
 ###### Artículo 305.
 
@@ -3222,6 +4024,12 @@ En intersecciones o zonas marcadas para paso de peatones, donde no haya semáfor
 ###### Artículo 321.
 
 El conductor que produzca o sufra algún accidente de tránsito, está obligado a detenerse inmediatamente y si hubiere algún lesionado, las personas involucradas deberán solicitar auxilio y no separarse del lugar bajo ningún pretexto, hasta que hayan intervenido las autoridades competentes, correspondiendo al área de servicios periciales de la Dirección de Tránsito Municipal dictaminar, en su caso, sobre las circunstancias en que se produjo el accidente y las responsabilidades en materia vial derivadas del mismo, para los efectos a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 321 Bis.
+
+Si como resultado de un accidente de tránsito se ocasionaran daños a bienes propiedad municipal y/o equipamiento urbano, los implicados serán responsables del pago de los mismos, independientemente de lo que establezca el Código de Defensa Social para el Estado Libre y Soberano de Puebla y el presente Código Reglamentario.
 
 ###### Artículo 322.
 
@@ -3445,13 +4253,11 @@ II. Admitida la solicitud, la Dirección de Tránsito Municipal procederá a ins
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-III. Cumplido lo anterior, se elaborará el proyecto de dictamen correspondiente y el Secretaio de Seguridad Pública y Tránsito Municipal resolverá lo conducente; y
+III. Cumplido lo anterior, se elaborará el proyecto de dictamen correspondiente y el Secretario de Seguridad Pública y Tránsito Municipal resolverá lo conducente; y
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-IV. En caso de ser favorable el dictamen, el Secretario de Seguridad Pública y Tránsito Municipal
-
-debe indicar en éste el número máximo de unidades que se permita estacionar al mismo tiempo, el cual no podrá ser superior a cinco en el caso de bases o sitios en la vía pública, o si, tratándose de una base, sólo servirá de referencia de paso o control.
+IV. En caso de ser favorable el dictamen, el Secretario de Seguridad Pública y Tránsito Municipal debe indicar en éste el número máximo de unidades que se permita estacionar al mismo tiempo, el cual no podrá ser superior a cinco en el caso de bases o sitios en la vía pública, o si, tratándose de una base, sólo servirá de referencia de paso o control.
 
 ###### Artículo 341.
 
@@ -3577,9 +4383,13 @@ VII. Al levantar el acta de infracción, el agente de seguridad vial debe dar op
 
 VIII. Cumplido lo anterior, se procederá a la firma del acta por quienes en ella hayan intervenido, se entregará el original de la misma al interesado y otro tanto se remitirá a la Dirección de Tránsito Municipal;
 
-IX. Si el conductor o la persona con quien se entendió la diligencia se negaré a firmar, o a aceptar el original del acta levantada, ello no afectará el valor jurídico de la misma ni su eficacia, siempre y cuando el agente de seguridad vial haga constar dichas circunstancias y asiente las razones relativas; y
+IX. Si el conductor o la persona con quien se entendió la diligencia se negaré a firmar, o a aceptar el original del acta levantada, ello no afectará el valor jurídico de la misma ni su eficacia, siempre y cuando el agente de seguridad vial haga constar dichas circunstancias y asiente las razones relativas; y (sic)
 
-X. En caso de que el infractor no esté presente en el momento en que se levante el acta de infracción o se niegue a recibirla, el original de ésta se dejara en lugar visible del vehículo.
+X. En caso de que el infractor no esté presente en el momento en que se levante el acta de infracción o se niegue a recibirla, el original de ésta se dejara en lugar visible del vehículo;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XI. A la persona que conduzca en estado de ebriedad o bajo el influjo de estupefacientes, enervantes, psicotrópicos o cualquier otra sustancia que produzca efecto similar, se deberá practicar el dictamen médico y toxicológico, para determinar la sanción.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -3595,7 +4405,47 @@ La oposición de cualquier persona a la verificación de los vehículos, el esta
 
 La fuga del infractor se considerará desobediencia a un mandato legítimo de autoridad, pero también constituirá una infracción administrativa y será motivo de sanción.
 
-Los agentes de seguridad vial también podrán detener para su remisión a las autoridades competentes, a los conductores que se encuentren en estado de ebriedad o bajo el efecto de alguna droga o que denoten peligrosidad o la intención de evadirse.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Los agentes también podrán detener para su remisión a las Autoridades competentes, a los conductores que se encuentren en estado de ebriedad, o bajo el efecto de alguna droga, o que denoten peligrosidad, o la intención de evadirse.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 350 Bis.
+
+Ninguna persona podrá conducir vehículos por la vía pública, superior al grado de intoxicación alcohólica o psicotrópica que establece la Norma Oficial Mexicana que señala los diferentes periodos de intoxicación etílica. Los operadores de vehículos destinados al servicio de transporte de pasajeros, de carga, sustancias peligrosas o tóxicas, no deben presentar ninguna cantidad de alcoholo bajo los efectos de narcóticos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 350 Ter.
+
+Los agentes pueden detener la marcha de un vehículo cuando los conductores u operadores de vehículos presenten señas aparentes de circular bajo el influjo de cualquiera de estas sustancias.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 350 Quáter.
+
+Cuando se realicen operativos de programas de control y preventivos de ingestión de alcohol o de narcóticos, se realizará lo siguiente:
+
+I. Los agentes indicarán la detención del vehículo;
+
+II. El presunto infractor procederá a bajar del vehículo;
+
+III. Una vez fuera del vehículo los conductores se someterán a las pruebas para la detección del grado de intoxicación, que establezca la Norma Oficial Mexicana que determina los diferentes periodos de intoxicación etílica que se instrumenten a través del Programa del Alcoholímetro que implemente el Ayuntamiento;
+
+IV. En el caso de que el conductor sobrepase el límite permitido de alcohol o narcóticos, será remitido al Juez Calificador y el vehículo será remitido al depósito vehicular; y
+
+V. El agente entregará un ejemplar del comprobante de los resultados de la prueba al Juez Calificador, documento que constituirá prueba fehaciente de la cantidad de alcohol o narcóticos encontrados.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 350 Quinquies.
+
+En los casos que proceda la remisión del vehículo al depósito oficial y previamente a que se inicie el procedimiento de arrastre, los agentes deberán sellarlo para garantizar la guarda y custodia de los objetos que en él se encuentren; si el conductor fuese menor de 16 años, el agente levantará la infracción que corresponda y remitirá el vehículo al depósito.
+
+Los agentes que hubieren llevado a cabo la remisión al depósito, informarán de inmediato al centro de control correspondiente los datos del depósito, como lo son número de placas, marca y tipo del vehículo y depósito oficial de vehículos.
+
+Para la devolución de los vehículos remitidos al encierro, será indispensable la comprobación de la propiedad o la posesión legal del mismo, pago de las multas y derechos que procedan.
 
 ###### Artículo 351.
 
@@ -3607,11 +4457,11 @@ El propietario del vehículo objeto de la infracción y de la medida preventiva 
 
 Después de recibir las actas de infracción que se levanten, el Departamento de Infracciones dependiente de la Dirección de Ingresos de la Tesorería Municipal procederá a aplicar las sanciones correspondientes, las cuales se determinarán, individualizarán, calificarán, impondrán y en su caso ejecutarán, conforme a lo dispuesto por este Capítulo y demás ordenamientos que resulten aplicables, en los términos establecidos en el tabulador de infracciones y multas, sin perjuicio de las sanciones que procedan conforme a las leyes penales u otras disposiciones.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 353.
 
-Si los hechos u omisiones asentados en el acta de infracción corresponde a alguno de los supuestos que, de acuerdo con las disposiciones aplicables en materia de licencias, se deben sancionar con la suspensión o cancelación de la licencia respectiva, la Dirección de Tránsito Municipal deberá hacerlo del conocimiento de la autoridad competente, enviando dentro del término que señala el artículo siguiente, copia certificada del expediente formado, para que ésta pueda iniciar el procedimiento que corresponda, participando la Dirección de Tránsito Municipal en los términos conducentes.
+Si los hechos u omisiones asentados en el acta de infracción corresponde a alguno de los supuestos que, de acuerdo con las disposiciones aplicables en materia de licencias, se deben sancionar con la suspensión o cancelación de la licencia respectiva, la Dirección de Tránsito deberá hacerlo del conocimiento de la autoridad competente, enviando dentro del término que señala el artículo siguiente, copia certificada del expediente formado, para que ésta pueda iniciar el procedimiento que corresponda, participando la Dirección de Tránsito en los términos conducentes.
 
 ###### Artículo 354.
 
@@ -3639,7 +4489,11 @@ d). Cuando el titular de la misma haya conducido vehículo en estado de ebriedad
 
 e). Por hacer uso de una licencia alterado o falsificada;
 
-f). Por dos o más suspensiones dictadas por la autoridad competente.
+f). Por dos o más suspensiones dictadas por la autoridad competente;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+g) Para la licencia provisional cuando el conductor de dieciséis a dieciocho años o que sean mayor de esta última edad y esté aprendiendo a conducir, maneje en el Municipio, en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias tóxicas.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -3661,19 +4515,41 @@ DE LAS FALTAS, MEDIDAS DE SEGURIDAD Y SANCIONES
 
 La Dirección de Tránsito Municipal, aplicará a los propietarios o conductores de vehículos, medidas de seguridad y sanciones por faltas o violaciones a cualquiera de las normas de este Capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 358.
 
-Son medidas de seguridad las disposiciones que dicte la Dirección de Tránsito Municipal a través de los agentes autorizados, con el fin de proteger el orden, la seguridad, los servicios públicos o el patrimonio municipal, y de garantizar el pago de las multas que se impongan con motivo de la comisión de alguna falta, considerándose como tales medidas, para efectos de este Capítulo, las siguientes:
+Son medidas de seguridad las disposiciones que dicte la Dirección de Tránsito a través de los agentes autorizados, con el fin de proteger el orden, la seguridad, los servicios públicos o el patrimonio municipal, y de garantizar el pago de las multas que se impongan con motivo de la comisión de alguna falta, considerándose como tales medidas, para efectos de este Capítulo, las siguientes:
 
-I. Retensión de licencia de conducir, tarjetas de circulación, placas de vehículos, o permisos de circulación;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+I. Retención de licencia de conducir, tarjetas de circulación, placas de vehículos, o permisos de circulación;
 
 II. La inmovilización de vehículos, en los supuestos a que se refiere el artículo 329 del presente Capítulo;
 
-III. El retiro de la circulación y aseguramiento de vehículos, el cual será procedente sólo en los supuestos de los artículos 270, 300, 304 fracción VI y 324 de este Capítulo, o si una de las multas a imponer, de acuerdo con el tabulador de infracciones viales, pude ser superior al importe de diez días de salario mínimo; y
+III. El retiro de la circulación y aseguramiento de vehículos, el cual será procedente sólo en los supuestos de los artículos 270, 300, 304 fracción VI y 324 de este Capítulo, o si una de las multas a imponer, de acuerdo con el tabulador de infracciones viales, pude ser superior al importe de diez días de salario mínimo; y (sic)
 
-IV. La inhabilitación del infractor para conducir en el Municipio de Puebla, por un término determinado, no menor de quince días ni mayor de un año.
+IV. La inhabilitación del infractor para conducir en el Municipio de Puebla, por un término determinado, no menor de quince días ni mayor de un año;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+V. Cuando se presuma que un conductor es menor de edad, el agente procederá a realizar lo siguiente:
+
+a) Hará la señal correspondiente para detener el vehículo;
+
+b) El presunto menor de edad procederá a bajar del vehículo;
+
+c) Una vez fuera del vehículo el agente solicitará la licencia de conducir o la licencia provisional;
+
+d) En caso de que no cuente con la licencia correspondiente, solicitará que acredite su mayoría de edad;
+
+e) El agente impedirá la circulación del vehículo retirándolo de la circulación y asegurándolo;
+
+f) Retendrá la licencia provisional para su envió a la Autoridad correspondiente en términos del artículo 355 del presente Código Reglamentario, y notificará en caso de ser menor de edad por cualquier medio a los padres o a quien tenga su representación legal que el menor ha cometido una infracción al presente Capítulo;
+
+g) Cuando se trate de menores de edad invariablemente deberá remitirlo al Juzgado Calificador para su resguardo, debiendo permanecer en las oficinas hasta que se resuelva su situación legal; y
+
+h) Dará aviso a la Autoridad competente de los hechos u omisiones para que proceda a la suspensión o cancelación de la licencia o permiso correspondiente.
 
 Para el retiro de vehículos de la circulación, se hará uso de la grúa si fuere necesario y para la inmovilización de los mismos los medios mecánicos que se consideren pertinentes, cuidando en ambos casos no dañar los vehículos.
 
@@ -3689,11 +4565,11 @@ II. Multa por el importe de 2 a 40 días de salario mínimo general vigente en e
 
 Las anteriores sanciones se aplicarán, sin perjuicio de las que procedan conforme al Código de Defensa Social del Estado de Puebla, el Capítulo de Policía y Gobierno de este Código Reglamentario o algún otro ordenamiento que resulte aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 360.
 
-Cuando una persona infrinja por primera vez este Capítulo, de acuerdo con la base de datos de la Dirección de Tránsito Municipal, sólo se le sancionará de manera preventiva, imponiendo una amonestación verbal, salvo en caso de trasgresión a los artículos 261, 262, 268, 291 fracción I, 301, 303, 304 fracciones I y VI, 309, 321, 338 y 373 de este mismo ordenamiento. En estos últimos supuestos o a partir de la segunda infracción en los demás casos, las violaciones se sancionarán con la amonestación o la imposición de la multa señalada para cada falta de manera específica, y con equivalencia a las ordenadas estatalmente, en el siguiente:
+Cuando una persona infrinja por primera vez este Capítulo, de acuerdo con la base de datos de la Dirección de Tránsito, sólo se le sancionará de manera preventiva, imponiendo una amonestación verbal, salvo en caso de trasgresión a los artículos 261, 262, 268, 291 fracción I, 301, 303, 304 fracciones I y VI, 309, 321, 338 y 373 de este mismo ordenamiento. En estos últimos supuestos o a partir de la segunda infracción en los demás casos, las violaciones se sancionarán con la amonestación o la imposición de la multa señalada para cada falta de manera específica, y con equivalencia a las ordenadas estatalmente, en el siguiente:
 
 TABULADORES DE INFRACCIONES Y SANCIONES
 
@@ -3733,11 +4609,13 @@ VII. Las demás atenuantes o agravantes que pudieran incidir.
 
 En caso de que la infracción sea cometida por el conductor de un vehículo destinado al servicio de transporte público o mercantil de personas y que al momento de producirse ésta, hubiere uno o más pasajeros en el vehículo, se aplicará siempre el importe máximo de la multa, fijado en el tabulador de este Capítulo para la infracción respectiva.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 363.
 
-Las multas impuestas como sanción deberán pagarse dentro del término de veinte días naturales, contados a partir del día siguiente a la fecha en que se levantó la (sic) acta de infracción.
+Las multas impuestas como sanción deberán pagarse dentro del término de veinte días naturales, contados a partir del día siguiente a la fecha en que se levantó el acta de infracción.
 
-El infractor que de manera espontánea pague la multa dentro de los cinco días siguientes a la fecha de la infracción, se beneficiará con la reducción automática del monto debido en un cincuenta por ciento, en tanto que si el pago lo hace después de los cinco días, sin exceder de diez, la reducción será del veinticinco por ciento. Entre el onceavo y el vigésimo día no se concederá descuento alguno y después de vencido el término, se estará a lo fijado en las disposiciones fiscales aplicables.
+El infractor que de manera espontánea pague la multa dentro de los cinco días siguientes a la fecha de la infracción, se beneficiará con la reducción automática del monto debido en un cincuenta por ciento, en tanto que si el pago lo hace después de los cinco días, sin exceder de diez, la reducción será del veinticinco por ciento. Entre el onceavo y el vigésimo día no se concederá descuento alguno y después de vencido el término, se estará a lo fijado en las disposiciones fiscales correspondientes, no será aplicable dicho descuento al infractor por transgresiones a lo señalado en los artículos 301 y 304 fracción VI del presente Código.
 
 ###### Artículo 364.
 
@@ -3777,11 +4655,33 @@ En caso de que el infractor no esté presente en el momento en que se levante el
 
 Las infracciones se harán constar en actas de infracción, llenando formas impresas numeradas, que deberán contener los siguientes datos:
 
-I. Nombre y domicilio del infractor;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-II. Número de especificación de su licencia de manejar;
+I. Fundamento Jurídico:
 
-III. Datos de la placa del vehículo relacionados con la infracción;
+a) Artículos que prevén la infracción cometida; y
+
+b) Artículos que prevén la sanción impuesta.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+II. Motivación:
+
+a) Día, hora, lugar y breve descripción del hecho o conducta infractora;
+
+b) Nombre y domicilio del infractor, salvo que no esté presente o no los proporcione;
+
+c) Número de matrícula o en su caso número del permiso de circulación del vehículo;
+
+d) En su caso número y tipo de Licencia o Permiso para conducir; y
+
+e) Marca, tipo de vehículo y uso a que esté destinado el mismo.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+III. Nombre, número de placa, sector al que pertenece y firma del agente que imponga la sanción.
+
+Todas las actas de infracción tendrán el señalamiento en el anverso de que en contra de actos y resoluciones realizadas y emitidas por las Autoridades Municipales en materia de seguridad vial y tránsito procede el Recurso de Revisión que establece el artículo 373 de este Código;
 
 IV. Clase, marca y uso a que esté destinado el vehículo;
 
@@ -3793,15 +4693,19 @@ VII. Señalamiento en el anverso de que en contra de los actos y resoluciones re
 
 VIII. Nombre, número y firma de la gente de vialidad que levante la infracción.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 372.
 
-El conductor que pudiera ser responsable de un delito o infracción a disposiciones del Bando de Policía y Gobierno, será puesto a disposición de la autoridad judicial o administrativa correspondiente, según sea el caso, siendo también responsable del pago de las multas impuestas conforme al presente Capítulo.
+El conductor que pudiera ser responsable de una falta administrativa o infracción a las disposiciones del Capítulo 9 denominado "Policía y Gobierno" del presente Código, será puesto a disposición de la Autoridad Administrativa correspondiente, según sea el caso, siendo también responsable del pago de las multas impuestas conforme al presente Capítulo.
 
-Los agentes de vialidad o la Dirección de Seguridad Vial, además de remitir en su caso los vehículos involucrados en algunos de los hechos referidos en el párrafo anterior, deben denunciar ante el Ministerio Público correspondiente, bajo su responsabilidad, a los conductores que cometan alguno de los siguientes hechos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-I. Haber violado dos o más veces las disposiciones del presente Capítulo, en lo que se refiere a exceso de velocidad;
+Los agentes de tránsito o la Dirección de Tránsito, además de remitir en su caso los vehículos involucrados en algunos de los hechos referidos en el párrafo anterior, deben denunciar ante el Ministerio Público correspondiente, bajo su responsabilidad, a los conductores que cometan alguno de los siguientes hechos:
 
-II. Cometer alguna infracción a este Capítulo, por manejar vehículos de motor en estado de ebriedad o bajo el influjo de estupefacientes;
+I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
+
+II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
 III. Quitar o destruir las señales, dispositivos o marcas de señalamiento, utilizadas para la seguridad del tránsito en vías públicas de jurisdicción municipal;
 
@@ -3823,9 +4727,11 @@ En contra de los actos y resoluciones realizados y emitidas, con motivo de la ap
 
 Las facultades contenidas en los artículos 328, 329, 330 y 335, así como las infracciones e imposición de sanciones contenidas en los apartados VIII y IX del artículo 360 del presente Código Reglamentario, se ejecutaran previo acuerdo suscrito con el Gobierno del Estado a través de la instancia que corresponda.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 375.
 
-Para la aplicación del presente Capítulo, se estará en todo caso a lo establecido en las leyes y reglamentos federales, estatales y las disposiciones que al efecto determine el Ayuntamiento por conducto de la Dirección de Seguridad Vial.
+Para la aplicación del presente Capítulo, se estará en todo caso a lo establecido en las leyes y reglamentos federales, estatales y las disposiciones que al efecto determine el Ayuntamiento por conducto de la Dirección de Tránsito.
 
 ###### Artículo 376.
 
@@ -3837,7 +4743,7 @@ DISPOSICIONES GENERALES
 
 ###### Artículo 377.
 
-El presente Capítulo tiene por objeto la observancia y cumplimiento estricto, del Acuerdo por el que se establece el Sistema Municipal de Protección Civil en el Municipio de Puebla, regulando la aplicación de las acciones de protección civil relativas a la prevención y salvaguarda de las personas y sus bienes, así como el funcionamiento adecuado de los servicios públicos y equipamiento estratégico en caso de alto riesgo, catástrofe o calamidad pública.
+El presente Capítulo tiene por objeto la observancia y cumplimiento estricto del acuerdo por el que se establece el Sistema Municipal de Protección Civil en el Municipio de Puebla, regulando la aplicación de las acciones de Protección Civil relativas a la prevención y salvaguarda de las personas y sus bienes, así como el funcionamiento adecuado de los servicios públicos y equipamiento estratégico en caso de alto riesgo, catástrofe o calamidad pública, aplicables a toda actividad comercial, de servicios, industrial y educativa.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -3845,9 +4751,11 @@ El presente Capítulo tiene por objeto la observancia y cumplimiento estricto, d
 
 Corresponde al Presidente Municipal por conducto del Secretario de Gobernación Municipal y del Sistema Municipal de Protección Civil, la aplicación del presente Capítulo a través de la Unidad Operativa Municipal de Protección Civil o la autoridad competente que desempeñe las funciones descritas en el mismo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 379.
 
-Las Disposiciones de este Capítulo son obligatorias para las autoridades, instituciones y organizaciones tanto de carácter público como privado o social, y en general para todas aquellas personas físicas o morales que tengan su domicilio, habiten o transiten temporalmente en el Municipio de Puebla.
+Las disposiciones de este Capítulo son obligatorias para las Autoridades instituciones y organizaciones tanto de carácter público como privado y en general para todas aquellas personas físicas o jurídicas que tengan su domicilio, habiten o transiten temporalmente en el Municipio de Puebla, incluidos dentro de éstas los establecimientos comerciales e industriales que se ubiquen dentro del mismo.
 
 ###### Artículo 380.
 
@@ -4183,9 +5091,13 @@ II. Establecer los planes y programas básicos de prevención, auxilio y apoyo f
 
 III. Elaborar el catálogo de recursos movilizables con base en la información que proporcionen los miembros integrantes del Consejo Municipal, verificar su existencia, coordinar su agilización en casos de emergencia;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 IV. Realizar las acciones necesarias para garantizar la protección de las personas, instalaciones y bienes de interés común en caso de riesgo colectivo, catástrofe o calamidad pública;
 
-V. Ejecutar acciones de auxilio y rehabilitación inicial para atender las consecuencias de los efectos destructivos de un desastre, con el propósito fundamental de garantizar el normal funcionamiento de los servicios básicos para la comunidad;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+V. Realizar visitas de inspección en todo tipo de establecimientos tanto industriales como comerciales o de servicios, incluyendo a los centros botaneros, bares, cantinas, centros de entretenimiento y cualquier otro que determine la Autoridad competente, con la finalidad de verificar el cumplimiento de las medidas de seguridad dispuestas para los mismos;
 
 VI. Proponer medidas que garanticen el mantenimiento o pronto restablecimiento de los servicios públicos fundamentales en los lugares afectados por desastres;
 
@@ -4203,13 +5115,21 @@ XII. Expedir y modificar los acuerdos, instructivos, circulares y demás disposi
 
 XIII. Solicitar el auxilio de la fuerza pública cuando fuere necesario para hacer cumplir sus determinaciones sin necesidad de autorización previa; y
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XIV. Llevar a cabo la identificación y delimitación de lugares o zonas de riesgo a través del dictamen técnico correspondiente; y
+XIV. Vigilar que en los establecimientos o los espectáculos se observe el cupo autorizado;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XV. Las demás que le confieran otras leyes, decretos, reglamentos y acuerdos.
+XV. Solicitar y verificar que las salidas de emergencia estén libres de llaves, candados o cualquier otro objeto que pueda obstruir o bloquear las mismas, pudiendo liberar éstas en el momento de la verificación e inspección;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XVI. Solicitar y verificar que los establecimientos comerciales cuenten con medidas de seguridad que controlen sus accesos; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XVII. Las demás que le confieran otras leyes, decretos, reglamentos y acuerdos.
 
 DE LOS PROGRAMAS Y SUBPROGRAMAS MUNICIPALES DE PROTECCIÓN CIVIL
 
@@ -4435,7 +5355,7 @@ a). Instalar en cada piso, extinguidores de polvo químico seco tipo ABC con mí
 
 b). Los edificios de cuatro o más niveles, o los que excedan de más de 2,000 M2, construidos en un solo cuerpo, deberán tener, además de lo señalado en el inciso anterior, las siguientes instalaciones y equipo:
 
-1- Cisterna o tanque de almacenamiento de agua, a razón de 5 litros por metro cuadrado construido, estableciéndose como capacidad mínima para este fin la de 100,000 litros, debiendo ser utilizados exclusivamente para el abastecimiento de la red contra incendios.
+1. Cisterna o tanque de almacenamiento de agua, a razón de 5 litros por metro cuadrado construido, estableciéndose como capacidad mínima para este fin la de 100,000 litros, debiendo ser utilizados exclusivamente para el abastecimiento de la red contra incendios.
 
 2. Bomba eléctrica automática y otra con motor de combustión interna, exclusivamente para mantener la presión necesaria a la red contra incendios.
 
@@ -4925,49 +5845,87 @@ DISPOSICIONES GENERALES
 
 ###### Artículo 474.
 
-El presente Capítulo es de interés público y de observancia general para todas aquellas personas físicas o morales, que de manera permanente o transitoria, organicen, promuevan, patrocinen o exploten cualquier evento considerado como espectáculo público.
+El presente Capítulo tiene por objeto regular los espectáculos públicos que se presenten en el Municipio de Puebla, a través de la Coordinación de Fiscalización de Espectáculos Públicos dependiente de la Unidad de Normatividad y Regulación Comercial.
 
 ###### Artículo 475.
 
 Por diversión o espectáculo público debe entenderse, toda función de esparcimiento, sea teatral, deportiva, o de cualquier otra naturaleza semejante, excepto cines, que se verifique en salones, teatros, estadios, carpas, calles, plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas, pagando el importe del boleto de entrada o de cualquier otro derecho de admisión. Quedan incluidas en el concepto de diversión o espectáculo público, las ferias, muestras, exposiciones y eventos similares, si para el acceso se paga o no alguna cantidad.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Se consideran incluidos dentro de este Capítulo la realización de actos públicos o concentraciones masivas.
+
 ###### Artículo 476.
 
 (DEROGADO, P.O. 27 DE MARZO DE 2006)
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 477.
 
-Para efectos del presente Capítulo, se considera empresa, a toda persona física o moral que permanente o transitoriamente patrocine, promueva o explote cualquier evento determinado como espectáculo público.
+Para efectos del presente Capítulo, se entiende por promotor de espectáculos públicos, a toda persona física o jurídica que permanente o transitoriamente organice, patrocine, promueva o explote cualquier evento considerado como espectáculo público.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 478.
 
-Todas las construcciones que se ocupen para la presentación de espectáculos públicos, deberán cumplir con las disposiciones establecidas en los Capítulos de Construcciones y de Medidas Preventivas contra Incendios del presente Código Reglamentario.
+Todas las construcciones e instalaciones que se ocupen para la presentación de espectáculos públicos, deberán cumplir con las disposiciones establecidas en los Capítulos de Construcciones, y de Protección Civil, además cumplir con las medidas de seguridad que se establezcan en términos del presente Capítulo.
 
 DE LAS AUTORIZACIONES
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 479.
 
-Toda empresa dedicada a la promoción, patrocinio o explotación de espectáculos públicos, requiere para su presentación, de la autorización previa y por escrito de la Tesorería Municipal a través de la Unidad de Normatividad y Regulación Comercial.
+Se requiere para la presentación de espectáculos públicos, permiso por escrito que expida la Coordinación de Fiscalización de Espectáculos Públicos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 480.
 
-Para el otorgamiento del permiso a que se refiere el artículo anterior, se requiere que la empresa cumpla con los siguientes requisitos:
+Para el otorgamiento del permiso a que se refiere el artículo anterior, se requiere que el promotor de espectáculos lo solicite por escrito con una anticipación de quince días hábiles, antes de la presentación del mismo; dicha solicitud deberá cumplir con los siguientes requisitos:
 
-I. Formular solicitud por escrito;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-II. Describir la clase de espectáculo que se pretenda montar, señalando el tiempo de presentación del mismo;
+I. Formular solicitud por escrito que deberá contener la siguiente información:
 
-III. Otorgar garantía en billete de depósito o fianza de que cubrirá los impuestos municipales que cause el espectáculo;
+a) Nombre, denominación o razón social del promotor de espectáculos o de su representante legal;
 
-IV. Fijar el precio por boleto, por abono y especificar el número de localidades y categorías de éstas;
+b) Domicilio para oír y recibir notificaciones personales que le correspondan, ubicado dentro del Municipio de Puebla;
+
+c) Correo electrónico, fax y teléfono donde se le pueda localizar;
+
+d) Dirección del lugar donde se llevará a cabo el espectáculo;
+
+e) Descripción del espectáculo que se va a presentar, señalando el tiempo de duración del mismo y la(s) fecha(s) en que se desea realizar;
+
+f) Fecha de instalación y en su caso retiro de las estructuras que se pretendan montar;
+
+g) Inventario de estructuras y mobiliario a ocupar;
+
+h) Constancia de aforo del recinto donde se llevará a cabo el espectáculo público, y precio de entrada que se pretenda cobrar; y
+
+i) Fecha en que se presenta la solicitud y firma.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+II. Presentar Dictamen Técnico en materia de protección civil, que garantice que el lugar donde se llevará a cabo el espectáculo cuenta con las medidas de seguridad, de conformidad con lo establecido en el presente Capítulo, que garanticen la integridad física de los espectadores;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+III. Otorgar garantía que cubrirá las contribuciones municipales que cause el espectáculo mediante depósito en efectivo en la Coordinación de Fiscalización de Espectáculos Públicos, en la Tesorería o en el lugar que establezca para tal fin, o fianza otorgada por institución afianzadora autorizada, la que gozará de los beneficios de orden y exclusión; u obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia suficiente a juicio de la Autoridad, por un monto del 10% del costo total de los boletos emitidos;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IV. Fijar el precio por boleto y especificar el número de localidades y categorías de éstas;
 
 V. Presentar el modelo de boleto y de las tarjetas de abono que deberán contener:
 
 a) Número de folio;
 
-b) Razón social o nombre del empresario;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+b) Razón social o nombre del promotor;
 
 c) Registro federal de Contribuyentes;
 
@@ -4975,35 +5933,83 @@ d) Clase de espectáculo;
 
 e) Numero de funciones a que tiene derecho el espectador y las fechas en que se efectuarán;
 
-f) Categoría de la localidad que ampara el boleto o el abono;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-g) Precio del boleto o de la tarjeta de abono;
+f) Categoría de la localidad que ampara el boleto;
 
-h) Fecha y firma de la persona autorizada por la empresa.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VI. En el caso de que la empresa presente actuaciones artísticas, deberán adjuntar copia del contrato que haya celebrado con los artistas;
+g) Precio del boleto y número de folio;
 
-VII. Presentar el contrato de arrendamiento en su caso, del inmueble en el que se presentará el espectáculo; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VIII. Exhibir los documentos que amparen la contratación de los servicios médicos y de seguridad y vigilancia.
+h) Fecha y firma del promotor de espectáculos o de la persona autorizada por el mismo; y
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+i) Nombre del espectáculo público.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VI. En caso de vender boletos electrónicos, determinar la forma en que se podrán adquirir;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VII. En caso de vender boletos electrónicos, exhibir contrato de la empresa que llevará acabo la venta del boletaje electrónico;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VIII. En el caso de que el promotor de espectáculos presente actuaciones artísticas, deberán adjuntar copia del contrato que haya celebrado con los artistas o sus representantes;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IX. Presentar croquis de ubicación del lugar donde se pretenda realizar el espectáculo y acreditar la propiedad, posesión o derecho de uso del inmueble o local donde se realizará el espectáculo;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+X. Exhibir los documentos que amparen la contratación de los servicios médicos, de seguridad privada o auxiliar, en los casos en que la Coordinación de Fiscalización de Espectáculos Públicos así lo determine, para el caso de los elementos de seguridad privada deberán estar registrados en el Sistema Nacional de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XI. Presentar, Licencia, Permiso y/o Permiso Publicitario por concepto de publicidad expedido por la Agencia de Protección al Ambiente y Desarrollo Sustentable, sólo si se publicita a través de los anuncios señalados en el Capítulo 18 del presente Código Reglamentario;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XII. En el caso de que se realice el trámite por conducto de un representante, presentar el instrumento legal que lo faculte;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XIII. El programa especial de seguridad que señala el artículo 488 Ter;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XIV. Presentar carta compromiso que garantice que en caso de que el Ayuntamiento retire anuncios publicitarios no autorizados, el promotor de espectáculos cubrirá los gastos del retiro antes de que se realice el espectáculo; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XV. Las demás que en su caso solicite la Coordinación de Fiscalización de Espectáculos Públicos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 480 Bis.
+
+Respecto de las autorizaciones de ocupación de bienes de uso común en donde se realicen actos públicos o concentraciones masivas, corresponderá a la Secretaría de Gobernación dar su anuencia a fin de mantener el orden social.
+
+Para tal efecto, los interesados deberán presentar la solicitud con quince días de anticipación a la ocupación; debiendo las Autoridades Fiscales determinar el pago o no de derechos que correspondan.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 481.
 
-La Autoridad Municipal con vista de la solicitud y demás requisitos contenidos en este Capítulo, dará contestación en un plazo máximo de diez días hábiles contados a partir del día siguiente al que el solicitante exhiba la documentación completa para obtención del permiso, debiendo notificarse la resolución al solicitante.
+Cuando la solicitud no reúna los requisitos previstos por este Capítulo, la Coordinación de Fiscalización de Espectáculos Públicos, notificará al interesado por una sola ocasión para que en un término de cinco días hábiles, siguientes a la notificación acredite el cumplimiento de los requisitos omitidos. Si el interesado no da cumplimiento al requerimiento de la Autoridad, después del término concedido, la solicitud se tendrá por no presentada.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+La Coordinación de Fiscalización de Espectáculos Públicos con vista de la solicitud y demás requisitos contenidos en este Capítulo, dará contestación fundada y motivada en un plazo máximo de cinco días hábiles contados a partir del día siguiente al que el solicitante exhiba la documentación completa para la obtención del permiso, otorgándolo o negándolo, debiendo notificar la resolución al solicitante.
 
-En caso de que transcurrido el término de referencia la Unidad de Normatividad y Regulación Comercial no dé contestación por escrito al solicitante, se tendrá por otorgado el permiso, independientemente de la responsabilidad administrativa en que incurra el servidor público.
+En caso de que transcurrido el término de referencia la Coordinación de Fiscalización de Espectáculos Públicos no dé contestación por escrito al solicitante, se tendrá por no otorgado el permiso, independientemente de la responsabilidad administrativa en que incurriere el servidor público.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+Contra el acto que emita la Coordinación de Fiscalización de Espectáculos Públicos que niegue el otorgamiento del permiso, el solicitante podrá interponer el Recurso de Inconformidad previsto en la Ley Orgánica Municipal.
 
-Contra el acto que emita la Unidad de Normatividad y Regulación Comercial que niegue el otorgamiento del permiso, el solicitante podrá interponer el recurso el Recurso (sic) de Revisión previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla y su Reglamento.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-En el caso de que el Recurso de Revisión se interponga en contra de una negativa ficta, la Dirección General Jurídica y de lo Contencioso dará vista a la Contraloría Municipal.
+En el caso de que el Recurso de Inconformidad se interponga en contra de la negación del otorgamiento del permiso, la Dirección General Jurídica y de lo Contencioso de la Sindicatura Municipal dará vista a la Contraloría Municipal.
 
 ###### Artículo 482.
 
@@ -5013,9 +6019,17 @@ En el caso de que el Recurso de Revisión se interponga en contra de una negativ
 
 Sólo podrán autorizarse variaciones a los programas, cuando las mismas obedezcan a causas imprevistas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 484.
 
-La Autoridad Municipal podrá autorizar también, por una sola vez el aumento de precios fijados, cuando se trate de funciones de beneficencia, debiendo especificarse ese precio en los boletos y abonos.
+La Coordinación de Fiscalización de Espectáculos Públicos podrá autorizar también, por una sola vez el aumento de precios fijados, cuando se trate de funciones de beneficencia, debiendo especificarse ese precio en los boletos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 484 Bis.
+
+La Coordinación de Fiscalización de Espectáculos Públicos, remitirá a la Agencia de Protección al Ambiente y Desarrollo Sustentable información sobre los espectáculos públicos autorizados en un término que no excederá de dos días previos a la presentación de los mismos.
 
 ###### Artículo 485.
 
@@ -5023,73 +6037,279 @@ La Autoridad Municipal podrá autorizar también, por una sola vez el aumento de
 
 DE LOS ESPECTÁCULOS PROVISIONALES
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 486.
 
-La instalación de carpas, circos, plazas de toros portátiles, aparatos mecánicos y similares en parques, lotes o vía pública, requiere de autorización de la Tesorería Municipal a través de la Unidad de Normatividad y Regulación Comercial. Para el caso de los juegos mecánicos, se deberá presentar, además un escrito de los vecinos, a través del cual, manifiesten que no existe inconveniente para la instalación de los aparatos; excepto en las fiestas profano religiosas tradicionales que tengan diez años o más de celebrarse.
+Para la obtención del permiso para la instalación de juegos mecánicos además de cumplir con los requisitos enunciados en el presente Capítulo, se deberá presentar un escrito de los vecinos, a través del cual, manifiesten que no tienen inconveniente para la instalación de los aparatos; excepto en las fiestas profano religiosas tradicionales que tengan diez años o más de celebrarse.
 
 ###### Artículo 487.
 
 Las instalaciones provisionales a que se refiere el artículo anterior, o cualquier otra similar, que se hagan sobre la superficie y sin cementaciones, se fijarán por medio de anclas o soportes que garanticen su estabilidad y la seguridad de los usuarios, y deberán tener en el perímetro de la superficie que ocupen cercas para su protección.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 488.
 
-Las empresas que presenten espectáculos en carpas o en instalaciones móviles, serán responsables del aseo, higiene y conservación de la vía pública, en la porción que ocupen.
+Los promotores que presenten espectáculos en carpas o en instalaciones móviles, serán responsables del aseo, higiene, conservación del lugar en que se coloquen y de la vía pública, en la porción que ocupen.
 
-DE LAS OBLIGACIONES DE LAS EMPRESAS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+DE LA SEGURIDAD
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 488 Bis.
+
+Para los efectos del presente Capítulo se entiende por medida de seguridad toda acción tendiente a salvaguardar el orden público y la integridad de los espectadores y participantes del mismo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 488 Ter.
+
+El promotor de espectáculos presentará ante la Coordinación de Fiscalización de Espectáculos Públicos el Programa Especial de Seguridad mismo que deberá contener:
+
+I. Plano del establecimiento indicando las medidas, distribución del mobiliario, número de lugares, entradas y salidas debidamente identificadas;
+
+II. Número y ubicación de los servicios médicos y de emergencia de que dispondrá;
+
+III. Cantidad de elementos de seguridad privada o auxiliar en su caso, dentro y fuera de las instalaciones, quienes estarán a cargo de la seguridad de los espectadores y participantes;
+
+IV. Los dispositivos y mecanismos que garanticen la seguridad e integridad de los espectadores y participantes;
+
+V. El número y ubicación de cámaras de video, que se instalarán en el lugar en que se llevará acabo el espectáculo público, en los casos que determine la Secretaría de Seguridad Pública y Tránsito Municipal, quien fijará los mecanismos para su monitoreo;
+
+VI. La coordinación con la Secretaría de Seguridad Pública y Tránsito Municipal que garantice la instrumentación del mismo; y
+
+VII. Número de equipos para la detección de metales.
+
+La Autoridad competente, tendrá en todo momento, la facultad de verificar que se cumpla con este Programa.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 488 Quáter.
+
+El promotor de espectáculos contratará los servicios de seguridad privada o auxiliar, en su caso, cuando lo determine la Coordinación de Fiscalización de Espectáculos Públicos y/o cualquier otra Autoridad competente.
+
+El personal de seguridad privada o auxiliar en el interior del establecimiento estará a cargo de la integridad física y seguridad de los espectadores, participantes y asistentes en general y se sujetará a las siguientes reglas:
+
+I. Presentarse en el lugar al menos con una hora de anticipación a la apertura de la entrada de los espectadores;
+
+II. Permanecer en el establecimiento antes, durante y después del espectáculo, hasta la total desocupación del mismo;
+
+III. Estar distribuidos en el interior del establecimiento, así como en los accesos y salidas, sin obstruir las mismas;
+
+IV. Impedir que los espectadores se agredan físicamente entre sí, a los participantes, medios de comunicación o cualquier otra persona presente en el establecimiento;
+
+V. Solicitar el auxilio de la Policía Municipal para remitir a las personas que incurran en actos de violencia, cometan delitos o infracciones administrativas, a las Autoridades competentes; y
+
+VI. Conducir y orientar a los espectadores sobre las medidas de seguridad tomadas ante una emergencia, riesgo, siniestro o cualquier otra eventualidad.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 488 Quinquies.
+
+El promotor de espectáculos y el personal de seguridad privada o auxiliar serán responsables de la seguridad de los espectadores en todo momento.
+
+La cantidad de elementos de seguridad privada o auxiliar en el interior del establecimiento, lo determinará la Coordinación de Fiscalización de Espectáculos Públicos, la Unidad Operativa Municipal de Protección Civil y la Secretaría de Seguridad Pública y Tránsito Municipal en razón de los niveles de asistencia de los espectadores y el espectáculo de que se trate.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+DE LAS OBLIGACIONES DE LOS PROMOTORES DE ESPECTACULOS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 489.
 
-Las empresas están obligadas a:
+Los promotores de espectáculos están obligados a:
 
-I. Señalar las localidades numeradas en forma clara y visible;
+I. Poner a la venta el boletaje autorizado, para su adquisición directa por parte del público;
 
-II. Iniciar las funciones exactamente a la hora programada;
+II. Designar en el permiso correspondiente al responsable del espectáculo público de que se trate;
 
-III. En caso de suspensión del espectáculo por causas no imputables al empresario, éste deberá informar oportunamente a la Autoridad Municipal y al público en general y reintegrar a este último la totalidad del pago efectuado por los boletos o abonos;
+III. Presentar el calendario de actividades que se pretende desarrollar, especificando la actividad, el día y la hora en que se llevará acabo;
 
-IV. Especificar en la propaganda la clasificación del espectáculo como apto para todo público; para adolescentes y adultos; o, exclusivamente para adultos;
+IV. Señalar las localidades numeradas en forma clara y visible, en caso de que existan;
 
-V. No exceder de 15 minutos los intermedios en las funciones teatrales o cinematográficas;
+V. Iniciar el espectáculo a la hora programada;
 
-VI. Mantener la seguridad y el orden en el lugar donde se presente el espectáculo público; y
+VI. Cumplir con el programa anunciado, en los términos de la solicitud aprobada por la Coordinación de Fiscalización de Espectáculos Públicos;
 
-VII. Destinar las puertas o áreas que sean necesarias para el fácil acceso del público al lugar del espectáculo.
+VII. En caso de suspensión del espectáculo por causas no imputables al promotor de espectáculos, éste deberá informar oportunamente a la Coordinación de Fiscalización de Espectáculos Públicos y al público en general y reintegrar a este último la totalidad del pago efectuado por los boletos, en un término no mayor a treinta días después de la eventualidad;
 
-DE LAS PROHIBICIONES DE LA EMPRESA
+VIII. Especificar en la propaganda la clasificación del espectáculo como apto para todo público, para adolescentes y adultos, o exclusivamente para adultos;
+
+IX. No exceder de quince minutos los intermedios en las funciones a celebrarse;
+
+X. Mantener en condiciones óptimas el lugar donde se desarrollará el espectáculo público;
+
+XI. Mantener la seguridad y el orden en el lugar donde se presente el espectáculo público;
+
+XII. Cumplir y ejecutar las medidas de seguridad que emita la Autoridad correspondiente;
+
+XIII. Instalar en el lugar en que se vaya a efectuar el espectáculo, los servicios médicos adecuados y suficientes, de acuerdo con lo que señale la Unidad Operativa Municipal de Protección Civil, para la debida atención de los participantes del evento y del público asistente;
+
+XIV. Contar con servicio sanitario fijo o móvil para el usuario;
+
+XV. Conservar en condiciones de higiene la vía pública y los lugares ocupados, en el caso de ferias, circos, carpas y similares, durante el tiempo que permanezcan en el lugar autorizado;
+
+XVI. Destinar las puertas o áreas que sean necesarias para el fácil acceso y salida del público al lugar del espectáculo;
+
+XVII. Verificar que los lugares destinados a espectáculos se encuentren suficientemente ventilados;
+
+XVIII. Mantener abiertas las puertas y salidas de emergencia durante el espectáculo, evitando todo tipo de objetos que obstaculicen el paso;
+
+XIX. Presentar ante las Autoridades competes (sic) el Programa Especial de Seguridad;
+
+XX. Solicitar la intervención de la Secretaría de Seguridad Pública y Tránsito Municipal, para remitir ante las Autoridades competentes a las personas que infrinjan las disposiciones legales aplicables;
+
+XXI. Elaborar y aplicar Programas Especiales para la instalación de vendedores en el interior del establecimiento, así como para la debida circulación de vehículos y asistentes;
+
+XXII. Abstenerse de impedir el acceso al espectáculo por razones de carácter discriminatorio;
+
+XXIII. Impedir la entrada a personas armadas, exceptuando los miembros o corporaciones policíacas que estén destinadas al servicio de seguridad en ese lugar;
+
+XXIV. Contar con detectores de metales de cualquier tipo y cámaras de circuito cerrado con sonido interno y externos, en los casos que sea aplicable;
+
+XXV. Evitar que la publicidad obstaculice la visibilidad del espectador y ocasione daños;
+
+XXVI. Elaborar un registro del personal que participe en cualquier tipo de espectáculo público, incluyendo al de seguridad privada o auxiliar y al equipo de apoyo técnico de los artistas que se presenten, debiendo presentarlo a la Autoridad en el momento en que ésta lo requiera;
+
+XXVII. Verificar que el personal de seguridad privada o auxiliar cuente con carta de antecedentes no penales; y
+
+XXVIII. Colocar contenedores para el depósito de los residuos que se generen en el espectáculo.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+DE LAS PROHIBICIONES DE LOS PROMOTORES DE ESPECTACULOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 490.
 
-Las empresas tienen estrictamente prohibido:
+Los promotores de espectáculos tienen estrictamente prohibido:
 
 I. Aumentar el número de localidades y colocar asientos adicionales en pasillos o vías de acceso a las localidades;
 
-II. Poner a la venta un número mayor de boletos y abonos que el de las localidades con que cuente el centro de espectáculos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-III. Transmitir en las salas cinematográficas propaganda de películas clasificadas como exclusivamente para adultos, en las funciones aptas para todo público;
+II. Poner a la venta un número mayor de boletos que el de las localidades con que cuente el centro de espectáculos;
 
-IV. Modificar el precio por boleto o abono registrado conforme a este Capítulo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-V. Variar los programas autorizados; y
+III. Modificar el precio por boleto registrado conforme a este Capítulo;
 
-VI. Fijar propaganda en el Centro Histórico y en infraestructura urbana.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IV. Variar los programas autorizados;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+V. Fijar propaganda en el Centro Histórico, en infraestructura urbana y/o mobiliario urbano no autorizados, y en cualquier otro tipo de anuncio que no tenga la autorización correspondiente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VI. Vender bebidas alcohólicas y/o cigarros a menores de edad, así como permitirles su consumo;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VII. Vender estupefacientes, incluyendo a los menores de edad;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VIII. Realizar actos que impliquen reventa de boletos a precios superiores a los autorizados; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IX. Anunciar o presentar un espectáculo distinto al autorizado.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+DE LAS OBLIGACIONES DE LOS ESPECTADORES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 490 Bis.
+
+Son obligaciones de los espectadores:
+
+I. Presentar el boleto de admisión al momento de ingresar al espectáculo;
+
+II. Ingresar o salir del espectáculo por los accesos y salidas indicados;
+
+III. Ocupar el lugar designado en el boleto, si existen localidades numeradas;
+
+IV. Evitar obstruir los accesos y salidas del establecimiento;
+
+V. Abstenerse de agredir física o verbalmente a los asistentes del espectáculo;
+
+VI. Abstenerse de dañar o destruir el establecimiento, así como de incendiar, arrojar objetos y detonar artefactos explosivos;
+
+VII. Abstenerse de ingerir bebidas alcohólicas en lugares no autorizados y estupefacientes:
+
+VIII. Abstenerse de cruzar apuestas o juegos de azar no autorizados;
+
+IX. Cumplir con las indicaciones del personal a cargo del espectáculo;
+
+X. Guardar el orden durante el espectáculo; y
+
+XI. Abstenerse de introducir armas y objetos punzocortantes.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+DE LAS VISITAS DE VERIFICACIÓN Y CLAUSURAS
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 490 Ter.
+
+Las Autoridades competentes, para comprobar el cumplimiento de las disposiciones legales están facultadas para llevar acabo visitas de verificación o inspección tendientes a la comprobación del cumplimiento de obligaciones reglamentarias.
+
+La visita de verificación o inspección se realizará de manera conjunta o separada por la Unidad Operativa Municipal de Protección Civil y la Coordinación de Fiscalización de Espectáculos Públicos.
+
+Toda visita de verificación o inspección deberá ajustarse a los procedimientos y formalidades que establezcan este Código Reglamentario, el Código Fiscal y Presupuestario para el Municipio de Puebla y su Reglamento, y las demás disposiciones aplicables.
 
 DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 491.
 
-Las violaciones al presente Capítulo se sancionarán indistintamente con:
+La Unidad Operativa Municipal de Protección Civil impondrá las sanciones correspondientes por no cumplir con las medidas de seguridad señaladas en el presente Capítulo, en todos los demás casos de infracciones la Autoridad encargada de imponer sanciones será la Coordinación de Fiscalización de Espectáculos Públicos. Debiendo sancionarse indistintamente con:
 
-I. Multa de 20 a 200 veces el salario mínimo diario vigente del Municipio de Puebla;
+I. Multa de 100 a 1,000 días del salario mínimo general vigente en el Municipio de Puebla al momento de determinarla, por contravenir lo dispuesto en los artículos 479, 483, 484, 486, 487, 488, 489, 490 y 490 Bis del presente Capítulo;
 
-II. Clausura temporal; y
+II. Clausura temporal de 3 a 15 días del espectáculo y del local, carpa u otro lugar en que se realice o haya realizado el espectáculo, en los supuestos señalados a continuación:
 
-III. La cancelación del permiso concedido.
+a) Por no contar con la fianza señalada en el artículo 480 fracción III; y
+
+b) Por no presentar el Programa Especial de Seguridad con información fidedigna y como consecuencia se ponga en riesgo la integridad física de las personas.
+
+III. Clausura definitiva del espectáculo y del local, carpa u otro lugar en que se realice o haya realizado el espectáculo, en los supuestos señalados a continuación:
+
+a) Cuando el espectáculo y/o los establecimientos, locales o áreas en donde se realice alguna de las actividades reguladas por este ordenamiento, no cuenten con el permiso correspondiente;
+
+b) Cuando se realicen actos dentro de los espacios a que se refiere este ordenamiento, que perturben la tranquilidad del lugar, que atenten contra la paz e integridad física de las personas o sus intereses;
+
+c) Cuando el promotor de espectáculos o su representante legal no se presenten a regularizar la situación del establecimiento o del espectáculo;
+
+d) Por violar los sellos de clausura temporal; y
+
+e) Por no cubrir los gastos derivados del retiro de anuncios publicitarios que hayan sido colocados sin autorización.
+
+IV. La cancelación del permiso concedido.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 491 Bis.
+
+Independientemente de las sanciones aplicables, la Unidad Operativa Municipal de Protección Civil, clausurará o desmontará de oficio las instalaciones de cualquier clase en las que se realicen espectáculos, cuando pongan en peligro la integridad física de las personas o su patrimonio económico, para lo cual se levantará acta circunstanciada en presencia de dos testigos, en la que se asentarán los hechos que dieron lugar a la medida de seguridad aplicada.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 492.
 
-Para la aplicación de las sanciones a que se refiere el artículo anterior, la Autoridad tomará en cuenta:
+Para la aplicación de las sanciones a que se refiere el presente Capítulo, la Coordinación de Fiscalización de Espectáculos Públicos tomará en cuenta:
 
 I. La gravedad de la infracción;
 
@@ -6201,9 +7421,7 @@ En todo lo no previsto en el presente Capítulo se aplicarán de manera supletor
 
 ## TÍTULO II. DE LA ACTIVIDAD COMERCIAL
 
-### CAPÍTULO 16. COMERCIO AMBULANTE, SEMIFIJO Y PRESTADORES AMBULANTES DE SERVICIOS EN LA VÍA
-
-PÚBLICA DEL MUNICIPIO DE PUEBLA
+### CAPÍTULO 16. COMERCIO AMBULANTE, SEMIFIJO Y PRESTADORES AMBULANTES DE SERVICIOS EN LA VÍA PÚBLICA DEL MUNICIPIO DE PUEBLA
 
 DISPOSICIONES GENERALES
 
@@ -6219,13 +7437,11 @@ Para los efectos del presente Capítulo se consideran como bebidas alcohólicas 
 
 La venta de bebidas alcohólicas sólo podrá realizarse en los tipos de establecimientos que señale el presente Código Reglamentario.
 
-> <small>(REFORMADO, P. O. 11 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P. O. 31 DE DICIEMBRE DE 2008)</small>
 
-Los establecimientos a que se refieren las fracciones I, II, VII, XII, XV y XVI del artículo 611 del presente Código que menciona los tipos de establecimientos, no están autorizados para permitir el consumo de bebidas alcohólicas dentro de los mismos; por lo que el consumo de éstas sólo podrá realizarse en los locales o áreas en que operan los establecimientos que señale este Capítulo en las fracciones III, IV, V, VI, VIII, IX, X, XI, XIII, XIV, XVII y XIX del citado artículo.
+Los establecimientos a que se refieren las fracciones I, II, VII, XV y XVI del artículo 611 del presente Código que menciona los tipos de establecimientos, no están autorizados para permitir el consumo de bebidas alcohólicas dentro de los mismos; por lo que el consumo de éstas sólo podrá realizarse en los locales o áreas en que operan los establecimientos que señale este Capítulo en las fracciones III, IV, V, VI, VIII, IX, X, XI, XII XIII, XIV, XVII, XVIII y XIX del citado artículo.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
-
-Para la venta y consumo de bebidas alcohólicas, permisos y horarios a que se refiere este Capitulo, los establecimientos a que hace mención la fracción XX del artículo citado, quedarán sujetos a las restricciones y condiciones que se determinen para los establecimientos definidos en el artículo 611 del presente Código, que por sus características puedan homologarse al caso especifico de que se trate.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -6407,9 +7623,9 @@ IV. BODEGA DE ABARROTES Y BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. Local autoriz
 
 V. BAÑOS PÚBLICOS CON VENTA DE CERVEZA EN BOTELLA ABIERTA. Establecimiento mercantil que ofrece servicio de baños públicos y que cuenta con autorización para expender cerveza en botella abierta.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VI. BILLARES CON VENTA DE CERVEZA EN BOTELLA ABIERTA. Establecimiento mercantil cuya actividad preponderante es la renta de mesas de billar y en forma accesoria, cuenta con la autorización para expender cerveza en botella abierta.
+VI. BILLARES CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA ABIERTA.- Establecimiento mercantil, cuya actividad preponderante es la renta de mesas de billar y en forma accesoria, cuenta con la autorización para expender bebidas alcohólicas en botella abierta.
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
@@ -6423,9 +7639,9 @@ VIII. VINATERÍA. Establecimiento mercantil cuya actividad preponderante es la v
 
 IX. BOLICHE CON VENTA DE CERVEZA Y BEBIDAS REFRESCANTES CON UNA GRADUACIÓN ALCOHÓLICA DE 6° GL EN ENVASE ABIERTO. Establecimiento mercantil cuya actividad preponderante es la renta de pista para jugar boliche y en forma accesoria, cuenta con la autorización para expender cerveza y bebidas refrescantes con una graduación alcohólica de 6° GL en envase abierto.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-X. CENTRO BOTANERO. Establecimiento mercantil en el que se consume cerveza y se ofrece a los asistentes botanas como acompañamiento, las cuales reúnen las condiciones mínimas de seguridad e higiene que determine el Sector Salud, y que no se tenga desde la vía pública apreciación directa del interior del establecimiento.
+X. CENTRO BOTANERO.- Establecimiento mercantil en el que se consume cerveza y bebidas alcohólicas ofreciendo a los asistentes botanas como acompañamiento, las cuales deben reunir las condiciones mínimas de seguridad e higiene que determine el Sector Salud y que no se tenga desde la vía pública apreciación directa del interior del establecimiento. Queda estrictamente prohibido tener música en vivo y pista para bailar.
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
@@ -6441,9 +7657,9 @@ d) Comandas que demuestren que los comensales han tenido consumo de alimentos; y
 
 e) Carta de alimentos con tres tiempos como mínimo, que deberá coincidir con los alimentos que se preparen en la cocina.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XII. SALÓN SOCIAL. Establecimiento mercantil cuya actividad preponderante es la renta para cualquier evento y cuente con pista de baile e instalaciones para presentar de (sic) espectáculos o variedades, orquesta, conjunto musical, música grabada o videograbada y cuente con servicio de restaurante. Queda estrictamente prohibido en este tipo de establecimientos, la venta al público en general de bebidas alcohólicas, salvo cuando presenten espectáculos autorizados por el Ayuntamiento, de conformidad con las disposiciones señaladas en el Capítulo 12 denominado "Espectáculos Públicos" del presente Código.
+XII. SALÓN SOCIAL CON VENTA DE BEBIDAS ALCOHÓLICAS.- Establecimiento mercantil cuya actividad preponderante es la renta para la realización de eventos sociales, cuenta con pista de baile e instalaciones para presentar orquesta, conjunto musical, música grabada o videograbada y tenga el servicio de banquetes, quedando incluido el consumo de bebidas alcohólicas dentro o no del paquete que ofrezca el salón social a sus clientes.
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
@@ -6474,6 +7690,14 @@ XVIII. DISCOTECA. Establecimiento mercantil que cuenta con pista de baile con m�
 XIX. CABARET. Establecimiento mercantil que presenta espectáculos o representaciones artísticas exclusivamente para adultos con música en vivo, grabada o videograbada de acuerdo a las prescripciones del Capítulo 12 denominado "Espectáculos Públicos" del presente Código, y cuente con pista de baile, servicio de bar y opcionalmente restaurante.
 
 XX. (DEROGADA, P.O. 11 DE DICIEMBRE DE 2006)
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXI. ALIMENTOS EN GENERAL CON VENTA DE CERVEZA EN BOTELLA ABIERTA.- Establecimiento mercantil cuya actividad preponderante es la elaboración y venta de alimentos, los cuales deben reunir las condiciones de seguridad e higiene que determine el Sector Salud y de manera complementaria la venta de cerveza en botella abierta.
+
+XXII. SALÓN DE ESPECTÁCULOS PÚBLICOS CON VENTA DE BEBIDAS ALCOHÓLlCAS.- Establecimiento mercantil cuya actividad preponderante es la presentación de ARTISTAS y GRUPOS MUSICALES, quedando estrictamente obligados a cumplir con lo establecido en las disposiciones señaladas en el CAPÍTULO 12 denominado ESPECTÁCULOS PÚBLICOS, y que tiene venta al público de bebidas alcohólicas; y
+
+XXIII. CENTRO DE ENTRETENIMIENTO CON VENTA DE ALIMENTOS Y BEBIDAS ALCOHÓLlCAS.- Establecimiento mercantil cuya actividad preponderante son los juegos de azar de tipo manual, mecánico o electrónico y que además podrá ofrecer alimentos preparados así como bebidas alcohólicas a sus clientes.
 
 DEL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS
 
@@ -6575,9 +7799,9 @@ VIII. Anunciar en un lugar visible al público, el horario dentro del cual, el e
 
 IX. Colocar en un lugar visible del establecimiento la prohibición establecida en las fracciones VI y VII del artículo 615 del presente Código;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-X. Solicitar al cliente que consuma bebidas alcohólicas en los establecimientos señalados en las fracciones III, IV, V, VI, VIII, IX, X, XIlI, XIV y XVII del artículo 611, que exhiba la identificación donde demuestre claramente que es mayor de edad, debiendo ser: credencial de elector o en su defecto, pasaporte vigente o Cartilla del Servicio Militar Nacional;
+X. Solicitar al cliente que consuma bebidas alcohólicas en los establecimientos señalados en las fracciones III, IV, V, VI, VIII, IX, X, XI, XIlI, XIV, XVII, XVIII y XIX del artículo 611, que exhiba la identificación donde demuestre claramente que es mayor de edad, debiendo ser: Credencial de Elector o en su defecto, Pasaporte vigente o Cartilla del Servicio Militar Nacional;
 
 XI. Notificar oportunamente a la autoridad competente, de cualquier escándalo o riña que se registre en el interior o exterior de su local;
 
@@ -6589,9 +7813,29 @@ XII. Cuando por cualquier circunstancia, no se inicien las actividades del estab
 
 XIII. Los establecimientos a que hace referencia las fracciones I, II y XV del artículo 611 del presente Capítulo, deberán contar con licencia de sustancias susceptibles de inhalación y efectos tóxicos, expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos. Para la obtención de la misma, los licenciatarios deberán cumplir con lo establecido en el artículo 1932 del presente ordenamiento legal;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XIV. Las demás que se señalan en este Capítulo y otras disposiciones legales aplicables.
+XlV. Elaborar un registro del personal que labora en el establecimiento, así como de los guardias de seguridad privada o auxiliar, en caso de que se contraten para la vigilancia;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XV. Verificar que el personal y los guardias de seguridad del establecimiento cuenten con carta de antecedentes no penales actualizada;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XVI. Abstenerse de ingerir bebidas alcohólicas dentro del establecimiento;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XVII. Para el caso de los establecimientos autorizados, incluyendo a los que funcionen las 24 horas, deberán adquirir cámaras de vigilancia con sonido internas y externas, botón de pánico, controles de flujo de efectivo, cajas de seguridad, detectores de metales y espejos cóncavos, en los casos que sea aplicable;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XVIII. Capacitar al personal a su cargo en materia de protección civil y seguridad pública; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XIX. Las demás que se señalan en este Capítulo y otras disposiciones legales aplicables.
 
 ###### Artículo 615.
 
@@ -6613,7 +7857,9 @@ VI. La venta, enajenación consumo u obsequio de bebidas alcohólicas a menores 
 
 VII. Permitir la entrada de menores de edad a los establecimientos señalados en las fracciones V, VI, IX, XIII y XIV del artículo que enumera a los establecimientos para efectos de este Capítulo, así como a cualquiera de los establecimientos a que se refiere este Capítulo, si se encuentran en estado de embriaguez o bajo el efecto de enervantes, estupefacientes o psicotrópicos;
 
-VIII. La venta o enajenación de bebidas alcohólicas por menores de edad, así como permitir a éstos el consumo de las mismas, en los lugares o establecimientos a que hace referencia este Capítulo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VIII. La venta o enajenación de bebidas alcohólicas, cigarros, por menores de edad, así como permitir a éstos el consumo de las mismas, en los lugares o establecimientos a que hace referencia este Capítulo;
 
 IX. Permitir conductas que tiendan a la mendicidad o a la prostitución en el interior del local;
 
@@ -6627,9 +7873,17 @@ XII. Permitir que las emisiones de contaminación por ruido generadas dentro del
 
 XIII. Queda prohibida la venta o consumo de bebidas alcohólicas en botellas y vasos de vidrio o cualquier material que pueda utilizarse como un artefacto punzo cortante en los establecimientos señalados en las fracciones III, IV, V, VI, IX, XIII, XIV, XVII, XVIII y XIX del artículo 611 del presente Código.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XIV. Las demás que se establecen o se desprenden de las disposiciones de este Capítulo y de la legislación vigente aplicable.
+XIV. Permitir que el personal y los guardias de seguridad ingieran bebidas alcohólicas en los lugares o establecimientos a que hace referencia el presente Capítulo;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XV. La venta o enajenación de estupefacientes en el interior del establecimiento, incluyendo a los menores de edad; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XVI. Las demás que se establecen o se desprenden de las disposiciones de este Capítulo y de la legislación vigente aplicable.
 
 DE LOS HORARIOS AUTORIZADOS
 
@@ -6663,17 +7917,21 @@ V. BAÑOS PÚBLICOS CON VENTA DE CERVEZA. De las 06:00 a las 20:00 horas;
 
 VI. PULQUERÍA. De las 07:00 a las 19:00 horas;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VII. VINATERÍA.24:00 horas para venta;
+
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-VII. VINATERÍA. De las 06:00 a las 24:00 horas;
+VIII. CENTRO BOTANERO. De las 13:00a las 22:00 horas; y (sic)
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VIII. CENTRO BOTANERO. De las 13:00a las 22:00 horas; y
+IX. TIENDA DE AUTOSERVICIO O DEPARTAMENTAL CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. 24:00 horas; y
 
-> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-IX. TIENDA DE AUTOSERVICIO O DEPARTAMENTAL CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. De las 06:00 a las 24:00 horas.
+X. ALIMENTOS EN GENERAL CON VENTA DE CERVEZA EN BOTELLA ABIERTA.- De las 08:00 a las 2:00 horas.
 
 > <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2005)</small>
 
@@ -6681,17 +7939,17 @@ IX. TIENDA DE AUTOSERVICIO O DEPARTAMENTAL CON VENTA DE BEBIDAS ALCOHÓLICAS EN 
 
 En los comercios señalados en el presente artículo queda estrictamente prohibida la venta de bebidas alcohólicas e ingreso de clientes a partir de las 2:00Hrs.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-I. BILLARES CON VENTA DE CERVEZA EN BOTELLA ABIERTA;
+I. BILLARES CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA ABIERTA;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
 II. BOLICHE CON VENTA DE CERVEZA Y BEBIDAS REFRESCANTES CON UNA GRADUAClÓN ALCOHÓLlCA DE 6º GL EN ENVASE ABIERTO;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-III. SALÓN SOCIAL;
+III. SALÓN SOCIAL CON VENTA DE BEBIDAS ALCOHÓLICAS;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
@@ -6707,7 +7965,7 @@ VI. BAR;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-VII. DISCOTECA; y
+VII. DISCOTECA; y (sic)
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
@@ -6718,6 +7976,14 @@ IX. (DEROGADA, P.O. 11 DE DICIEMBRE DE 2006)
 X. (DEROGADA, P.O. 11 DE DICIEMBRE DE 2006)
 
 XI. (DERO0GADA, P.O. 11 DE DICIEMBRE DE 2006)
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XII. SALÓN DE ESPECTÁCULOS PÚBLICOS CON VENTA DE BEBIDAS ALCOHÓLICAS; Y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XIII. CENTRO DE ENTRETENIMIENTO CON VENTA DE ALIMENTOS Y BEBIDAS ALCOHÓLICAS.
 
 Dichos comercios podrán permitir que sus clientes permanezcan hasta las 3:00 Hrs., sin venta de bebidas alcohólicas, hora en la que cerrarán sus comercios, quedando estrictamente prohibida la permanencia de clientes en el interior de los mismos.
 
@@ -6731,9 +7997,53 @@ I. Multa de 100 a 1000 días salario mínimo;
 
 II. Arresto administrativo hasta por 36 horas;
 
-III. Clausura temporal de uno a treinta días según la gravedad del caso; y.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-IV. Clausura definitiva y cancelación de la licencia de funcionamiento.
+III. Clausura temporal de 1 a 30 días según la gravedad del caso en los siguientes supuestos:
+
+a) Los establecimientos que permitan que el personal o guardias de seguridad ingieran bebidas alcohólicas en su interior, mientras se encuentren laborando;
+
+b) Los establecimientos que obstaculicen las acciones de verificación, inspección o vigilancia;
+
+c) Los establecimientos que no hayan refrendado oportunamente la Licencia de Funcionamiento;
+
+d) Los establecimientos que sean sorprendidos por la Autoridad con menores de edad y/o al menos un menor ebrio; y
+
+e) Las demás que señale la Autoridad correspondiente.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IV. Clausura definitiva y revocación de la Licencia de Funcionamiento en los siguientes supuestos:
+
+a) Los establecimientos que alteren el original de la Licencia de Funcionamiento, presenten una Licencia apócrifa o presenten una licencia que no corresponda al mismo establecimiento;
+
+b) Por reincidencia en el inciso b) de la fracción anterior;
+
+c) Los establecimientos que permitan a los menores de edad, el consumo de bebidas alcohólicas, y/o cigarros;
+
+d) Los establecimientos que permitan el consumo de estupefacientes, incluyendo a los menores de edad;
+
+e) Los establecimientos que dejen de prestar el servicio correspondiente por más de dos años consecutivos, o que no hayan refrendado la Licencia de Funcionamiento por igual término;
+
+f) Los establecimientos que permitan e induzcan a conductas tendientes a la mendicidad o a la prostitución, incluyendo a los menores de edad;
+
+g) Los establecimientos en cuyo interior acontezca algún hecho violento, que traiga como consecuencia el fallecimiento de alguna persona cometido por el personal del establecimiento; y
+
+h) Los demás que señale la Autoridad correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 617 Bis.
+
+La revocación será dictada por la Dirección Jurídica de la Tesorería Municipal debiendo sujetarse al siguiente procedimiento:
+
+I. La Unidad de Normatividad y Regulación Comercial proporcionará oportunamente a la Dirección Jurídica de la Tesorería Municipal los documentos en los que obren las irregularidades motivo de la revocación, para que derivado de éstos, dé aviso por escrito y por una sola ocasión al titular de la Licencia de Funcionamiento, dándole a conocer la(s) irregularidad(es) y los elementos probatorios que la(s) sustenta(n);
+
+II. Le señalará un término de cinco días hábiles siguientes a la notificación, para que manifieste lo que a su derecho convenga y aporte las pruebas que estime procedentes; transcurrido el plazo sin que realice manifestación o aporte pruebas, la Dirección Jurídica de la Tesorería Municipal dictará la revocación correspondiente; y
+
+III. La Dirección Jurídica de la Tesorería Municipal, una vez transcurrido el plazo a que se refiere la fracción anterior, dictará resolución dentro de los cinco días hábiles siguientes, confirmando o negando la revocación.
+
+La resolución respectiva podrá ser recurrida a través del Recurso de Revisión previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla y su Reglamento.
 
 ###### Artículo 618.
 
@@ -6784,6 +8094,12 @@ II. Por tercera infracción: Clausura definitiva del establecimiento, cancelaci�
 Los establecimientos a los que se refiere este Capítulo, en los que ocurran hechos que incidan en la seguridad de los clientes o personas que concurran al establecimiento y representen graves consecuencias, deberán ser clausurados y/o se cancelará su licencia de funcionamiento.
 
 > <small>(DEROGADO SEGUNDO PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 624 Bis.
+
+Será responsabilidad del Licenciatario la seguridad de los clientes dentro del establecimiento y hasta salir del estacionamiento.
 
 ###### Artículo 625.
 
@@ -7853,11 +9169,11 @@ Contra el acto que emita el Jefe del Departamento de Licencias y Padrón de Cont
 
 De no otorgarse la licencia de funcionamiento la Tesorería Municipal hará la devolución al solicitante del pago de derechos a través de las cajas a su cargo. Los licenciatarios estarán obligados al pago de los gastos de trámite de la licencia negada, pagando el 2% sobre el importe total por el concepto de la misma.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 631.
 
-El titular de la licencia a que se refiere este Capítulo, podrá cederla a cualquier persona que reúna los requisitos inherentes, o cambiar de giro comercial, obligándose aquél, a dar aviso a la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes, bajo los siguientes requisitos:
+El titular de la Licencia a que se refiere este Capítulo, podrá cederla hasta dos veces por cada ejercicio fiscal a cualquier persona que reúna los requisitos inherentes, o cambiar de giro comercial, obligándose aquél, a dar aviso a la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos, bajo los siguientes requisitos:
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2006)</small>
 
@@ -7903,11 +9219,11 @@ e) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingreso
 
 La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes y en su caso la Unidad de Normatividad y Regulación Comercial entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 632.
 
-Las modificaciones que haga el titular de la licencia de funcionamiento, respecto al cambio de domicilio o baja del giro comercial, deberán realizarse ante la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes.
+Las modificaciones que haga el titular de la Licencia de Funcionamiento, respecto al cambio de domicilio sólo podrá hacerlo hasta dos veces por cada ejercicio fiscal o baja del giro comercial ante la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes, para lo cual se acompañará:
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2006)</small>
 
@@ -8031,6 +9347,12 @@ II. Clausura temporal del negocio de 3 a 45 días; y
 
 III. Clausura definitiva y cancelación de la licencia.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 638 Bis.
+
+Para quienes permitan a los vendedores que comercializan en la vía pública, vender sus productos dentro de sus instalaciones serán sancionados por la Tesorería Municipal con clausura definitiva.
+
 ###### Artículo 639.
 
 Para la aplicación de las sanciones a que se refiere el artículo anterior se tomarán en consideración:
@@ -8046,6 +9368,8 @@ IV. Las circunstancias de tiempo y lugar en que haya sido cometida la infracció
 Para los efectos de este Capítulo, será considerado como reincidente aquel que cometa dos o más infracciones.
 
 ### CAPÍTULO 18. ANUNCIOS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ### CAPÍTULO 19. LIMPIA, RECOLECCIÓN Y DISPOSICIÓN FINAL DE RESIDUOS
 
@@ -8071,9 +9395,9 @@ IV. Fijar los días y horarios, en los que se permita ejercer las actividades qu
 
 V. (DEROGADA, P.O. 29 DE AGOSTO DE 2008)
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VI. Elaborar y mantener actualizado el padrón de Comerciantes Ambulantes, Semifijos y Prestadores de Ambulantes de Servicios en la Vía Pública, en coordinación con el Departamento de Licencias y Padrón de Contribuyentes de la Tesorería Municipal;
+VI. Verificar y sancionar los actos por incumplimiento al presente Capítulo;
 
 VII. (DEROGADA, P.O. 27 DE MARZO DE 2006)
 
@@ -8273,17 +9597,15 @@ Corresponde a la Unidad de Normatividad y Regulación Comercial bajo el visto bu
 
 SANCIONES
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 652.
 
-Las infracciones al presente Capítulo, se sancionarán atendiendo a las sanciones contenidas en los Capítulos de Policía y Gobierno; mercados y central de abasto; establecimientos Industriales, Comerciales y de Servicios del presente Código Reglamentario para el Municipio de Puebla; sin perjuicio de las contenidas en otros ordenamientos.
+Las infracciones al presente Capítulo, se sancionarán atendiendo a lo establecido en los Capítulos de Policía y Gobierno; Mercados y Central de Abasto; Establecimientos de Giros Comerciales Autorizados del presente Código Reglamentario para el Municipio de Puebla; sin perjuicio de las contenidas en otros ordenamientos.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+En caso de reincidencia, la Secretaría de Gobernación, previa visita de verificación, procederá a la cancelación del permiso correspondiente conforme al procedimiento establecido en el artículo 2 del presente Código Reglamentario.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-Corresponde a la Secretaría de Gobernación la suspensión temporal y/o cancelación del permiso, en caso de violación al presente Capítulo; y en caso de reincidencia se turnará a la Unidad de Normatividad y Regulación Comercial para los efectos que señala el artículo 638 del presente ordenamiento.
+Contra la resolución que se emita para efectos del párrafo que antecede, procederá el Recurso de Inconformidad establecido en la Ley Orgánica Municipal.
 
 ###### Artículo 653.
 
@@ -9415,7 +10737,7 @@ IV. Industrial.
 
 Los proyectos para edificios, construcciones o utilización de inmuebles que impliquen usos mixtos se regirán por lo dispuesto en las normas de uso de suelo y zonificación contenidas en los Programas, así como por lo dispuesto en el presente Capítulo.
 
-###### Artículo 726
+###### Artículo 726.
 
 Las licencias de uso de suelo que expida la Dirección tendrán vigencia durante un año, a partir de la fecha de su expedición. En caso de que la obra, instalación, servicio, construcción, requisitos condicionantes, y en general, la utilización plena del predio o construcción no se hubiese iniciado durante el término de vigencia de licencia, se requerirá la tramitación de una nueva ante la Dirección; en este caso el inmueble quedará sujeto a la zonificación, nuevos requerimientos y normatividad de el Programa de Desarrollo Urbano, vigentes al momento de vencimiento de dichas licencias.
 
@@ -9511,7 +10833,9 @@ IX. Bacheo y relaminaciones;
 
 En el caso de guarniciones y banquetas se requiere sólo el alineamiento.
 
-En todos los casos deberá solicitarse banco de tiro de materiales sobrantes, en términos de ley.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+En todos los casos deberá solicitarse la aprobación del Plan de Manejo de Residuos generados en la construcción en términos de la Ley para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos y de Manejo Especial.
 
 Lo anterior no es aplicable en la Zona de Monumentos, rigiéndose tales situaciones por la normativa específica de este Capítulo.
 
@@ -9669,11 +10993,11 @@ II. Impacto Ambiental o Informe Preventivo; y
 
 III. Croquis esquemático y fotografía.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 758.
 
-Después de terminada la demolición el propietario deberá retirar el material producto de demolición en un término no mayor de 15 días y depositarlo en el lugar que se le indique en el informe ecológico respectivo, emitido por la Subdirección de Ecología del Honorable Ayuntamiento de Puebla.
+Después de terminada la demolición el propietario deberá retirar el material producto de demolición, de conformidad con la aprobación del Plan de Manejo de Residuos que apruebe el Gobierno del Estado.
 
 ###### Artículo 759.
 
@@ -9737,11 +11061,11 @@ En caso de edificios de departamentos, multifamiliares o condominios habitaciona
 
 a) La puerta de acceso así como las interiores tendrán un ancho no menor de 90 cm. y en caso de puertas dobles, cada hoja deberá tener esta dimensión.
 
-b). En el acceso al conjunto habitacional o edificio, así como todo el trayecto hasta la vivienda, deberán contar con las rampas necesarias para salvar desniveles, las que no tendrán una pendiente mayor al ocho por ciento.
+b) En el acceso al conjunto habitacional o edificio, así como todo el trayecto hasta la vivienda, deberán contar con las rampas necesarias para salvar desniveles, las que no tendrán una pendiente mayor al ocho por ciento.
 
 c) Las perillas de las puertas y ventanas, tendrán una altura máxima sobre el nivel del piso de 1.00m. Toda escalinata, acceso y/o andador, deberá contar con pasamanos para niños y adultos.
 
-d). Los controles generales de energía eléctrica, así como los apagadores de luz, tendrán una altura máxima de 1.20 mts.
+d) Los controles generales de energía eléctrica, así como los apagadores de luz, tendrán una altura máxima de 1.20 mts.
 
 e) En caso de existir elevador en la vivienda, los controles deben ser identificables para las personas con capacidades diferentes. Se deberán incluir placas de sistema Braille en el tablero de control, dentro y fuera de elevadores para señalar los pisos.
 
@@ -10785,7 +12109,7 @@ Un sistema de alcantarillado es el conjunto de dispositivos y tuberías instalad
 
 Un sistema de drenaje es el conjunto de dispositivos y tuberías instaladas con el propósito de recolectar, conducir y depositar en un lugar determinado las aguas producto de escurrimientos y/o pluviales.
 
-###### Artículo 884
+###### Artículo 884.
 
 Se denomina colector, al dispositivo o tubo de polietileno de alta densidad o de concreto conductor de aguas pluviales y/o residuales cuyo diámetro sea igual o mayor de 60 cm.
 
@@ -13079,7 +14403,7 @@ CAJAS: La interconexión de los tubos conduit será por medio de cajas cuadradas
 
 CONTRATUERCAS: Para la fijación de las cajas de tubería, deberán usarse contratuercas compatibles con el material de la tubería y la caja y de un tamaño no menor de trece (13) mm o conductores especiales de p.v.c. Según lo dispuesto en las Normas Oficiales Mexicanas de Instalaciones Eléctricas vigentes.
 
-###### Artículo 1061
+###### Artículo 1061.
 
 MONITOREO: Para la terminación final de una tubería ya sea en cajas de conexiones, apagadores, contactos o tableros, deberán usarse monitores de material similar al de la tubería y la caja de trece (13) mm como mínimo. Según lo dispuesto en las Normas Oficiales Mexicanas de Instalaciones Eléctricas vigentes.
 
@@ -13359,7 +14683,7 @@ VII. Salidas, rampas, pasillos y escaleras.
 
 ###### Artículo 1108.
 
-La constancia de terminación de obra o construcción en inmuebles de reunión masiva requerirá la obtención previa de "Informe de autorización" expedido por la UOMPROCI según el caso, en el que se haga constar el cumplimiento de las disposiciones consignadas en este apartado.
+La constancia de terminación de obra o construcción en inmuebles de reunión masiva requerirá la obtención previa de “Informe de autorización” expedido por la UOMPROCI según el caso, en el que se haga constar el cumplimiento de las disposiciones consignadas en este apartado.
 
 ###### Artículo 1109.
 
@@ -13917,7 +15241,7 @@ El personal designado para realizar las inspecciones y supervisiones, deberá es
 
 DE LAS DILIGENCIAS DE VERIFICACIÓN
 
-###### Artículo 1151
+###### Artículo 1151.
 
 Los inspectores y supervisores designados por la Dirección al realizar las verificaciones correspondientes levantarán un reporte de lo encontrado en las obras, construcciones o instalaciones, terminadas o en proceso, con el objeto de detectar y asentar en el reporte las omisiones y anomalías cometidas por el propietario, representante, los encargados, directores responsables de obra, y/o los auxiliares de éstos, en los lugares donde se realice la verificación, entregando copia del reporte al interesado, la cual deberá ser firmada por éstos últimos, y en caso de que se negaren asentaran las razones por las que se niegan a firmar dicho reporte.
 
@@ -15441,109 +16765,321 @@ DISPOSICIONES GENERALES
 
 ###### Artículo 1253.
 
-Las disposiciones de este Capítulo tienen por objeto regular la fijación, instalación, distribución, ubicación, modificación y retiro de toda clase de anuncios, incluyendo los emplazados en mobiliario urbano, en vía pública, visibles desde la vía pública y en vehículos privados y/o del servicio público.
+Las disposiciones de este Capítulo tienen por objeto regular la fijación, instalación, distribución, ubicación, modificación, clausura y retiro de toda clase de anuncios, incluyendo los emplazados en mobiliario urbano, en inmuebles de propiedad privada, en inmuebles propiedad del Gobierno, visibles desde la vía pública y en vehículos que porten publicidad, así como la publicidad para cualquier tipo de espectáculo.
 
 ###### Artículo 1254.
 
 Para los efectos de este Capítulo se entenderá por:
 
-I. Anuncio: Toda expresión gráfica o escrita que señale, promueva, muestre o difunda al público cualquier mensaje relacionado con la producción y venta de bienes, con la prestación de servicios y con el ejercicio lícito de actividades profesionales, industriales, mercantiles, técnicas, políticas, cívicas, culturales, artesanales, teatrales o del folklore nacional;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-II. Aviso: La manifestación escrita hecha por el interesado a la autoridad, donde señala que los datos manifestados corresponden de manera fehaciente al anuncio de referencia;
+I. Agencia: La Agencia de Protección al Ambiente y Desarrollo Sustentable;
 
-III. Anunciante: Persona física o moral que utiliza los servicios de publicidad para difundir o publicitar productos, bienes o servicios;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+II. Anunciante: Persona física o jurídica que utiliza los servicios de publicidad para difundir o publicitar productos, bienes o servicios;
 
-IV. Ayuntamiento: Al Honorable Ayuntamiento de Puebla, a través de las autoridades administrativas que ejerzan las facultades de aplicación y vigilancia del cumplimiento del presente Capítulo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-V. Contaminación Visual: Alteración que impide la contemplación y disfrute armónico de los paisajes natural, rural y urbano del Municipio de Puebla, ocasionando impactos negativos importantes en la percepción visual, por la distorsión o cualquier forma de transformación del entorno natural, histórico y urbano del Municipio de Puebla, que deteriore la calidad de vida de las personas;
+III. Anuncio: Toda expresión gráfica, escrita o auditiva que señale, promueva, muestre o difunda al público cualquier mensaje relacionado con la producción y venta de bienes, con la prestación de servicios y con el ejercicio lícito de actividades profesionales, industriales, mercantiles, técnicas, electorales, políticas, cívicas, culturales, artesanales, teatrales, del folclor nacional o cualquier tipo de espectáculo;
 
-VI. Contaminación Auditiva: Alteración del ruido que daña o perturba la claridad de los sonidos haciendo difícil la percepción auditiva, que ocasiona problemas en la salud;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VII. Corresponsable: Persona física con los conocimientos técnicos adecuados para responder en forma conjunta con el Director Responsable de Obra, o autónoma en las obras en las que otorgue su responsiva, en todos los aspectos técnicos relacionados al ámbito de su intervención profesional, mismos que son relativos a la seguridad estructural, al diseño urbano y arquitectónico e instalaciones; lo anterior de conformidad con lo establecido en el Capítulo de Construcciones para el Municipio de Puebla;
+IV. Anuncios Electorales: Aquéllos regulados en la legislación electoral quedando incluidos entre éstos los vinculados con actos anticipados de campaña, actos de precampaña o como propaganda electoral durante el periodo de campaña electoral;
 
-VIII. Cartel: Elemento publicitario de carácter gráfico, bidimensional o tridimensional que se fija en la estructura, cualquiera que ésta sea;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-IX. Contratista: Persona física o moral que celebra contratos para la fijación, instalación, mantenimiento, modificación o retiro de anuncios;
+V. Anuncios Políticos: Aquéllos destinados a la promoción de las ideas y opiniones, que tienen como propósito influir en el sistema de valores de los ciudadanos y en su conducta, dentro del marco de la legislación aplicable;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-X. Dirección de Gestión.- La Dirección de Gestión y Desarrollo Urbano Sustentable de la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable; quien actuará a través de las autoridades competentes adscritas a esta Dirección;
+VI. Aviso: La manifestación escrita hecha por el interesado a la Autoridad, donde señala que los datos manifestados corresponden de manera fehaciente al anuncio de referencia;
 
-XI. Director Responsable de Obra: Persona física que se hace responsable de la observancia del Capítulo de Construcciones, en el acto en que otorga su responsiva;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XII. Elemento Constitutivo: Objeto característico determinante para la integración de un anuncio;
+VII. Ayuntamiento: Al Honorable Ayuntamiento del Municipio Puebla, a través de las Autoridades Administrativas que ejerzan las facultades de aplicación y vigilancia del cumplimiento del presente Capítulo;
 
-XIII. Entorno Urbano: Conjunto de elementos naturales y construidos que conforman el territorio urbano, y que constituyen el marco de referencia y convivencia de los habitantes y visitantes, determinado por las características físicas, costumbres y usos, que se relacionan entre sí;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XIV. Estructura: Elemento de soporte anclado en terreno natural, inmueble o vehículo, independiente o dependiente del anuncio donde se fije, instale, ubique o modifique el mensaje, la publicidad o propaganda;
+VIII. Capítulo: El Capítulo de Anuncios del presente Código Reglamentario;
 
-XV. Empresa publicitaria: Persona física o moral que tiene como actividad mercantil la producción y/o comercialización de espacios publicitarios para exhibir, promover, difundir y publicar, productos, bienes o servicios a través de un anuncio;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XVI. Periódico Oficial: El Periódico Oficial del Estado;
+IX. Capítulo de Construcciones: El Capítulo de Construcciones del presente Código Reglamentario;
 
-XVII. Licencia: Acto administrativo mediante el cual la Autoridad Municipal otorga su autorización para llevar a cabo la construcción instalación, colocación, fijación, modificación, ampliación, retiro, desmantelamiento y, en su caso, la demolición de estructuras que soportan o sustentan el anuncio;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XVIII. Mobiliario Urbano: Todos aquellos elementos urbanos complementarios, que sirven de apoyo a la infraestructura y al equipamiento, reforzando así la imagen del Municipio de Puebla, los cuales pueden ser fijos, permanentes, móviles o temporales;
+X. Cartelera: Armazón con superficie adecuada para fijar los carteles o anuncios públicos;
 
-XIX. Orlas o cenefas: La orilla del toldo de materiales flexibles o rígidos y de la cortina de tela;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XX. Paisaje Natural: Conjunto de elementos preponderantemente naturales, derivados de las características geomorfológicas del ambiente no urbanizado, que forman parte del patrimonio cultural;
+XI. Centro Comercial o Plaza Comercial: Inmueble que aloja varios locales comerciales y de servicios;
 
-XXI. Paisaje Urbano: Síntesis visual del territorio, en la que interactúan todos los elementos naturales y construidos del entorno urbano, como resultado de acciones culturales, ambientales, sociales y económicas; y que se constituye como un factor de calidad de vida y de identidad del Municipio de Puebla;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XXII. Permiso: Acto administrativo mediante el cual la Autoridad Municipal otorga su autorización para fijar, instalar, distribuir, ubicar o modificar los anuncios señalados en el artículo 1310 del presente Código Reglamentario para el Municipio de Puebla;
+XII. Contaminación Visual: Alteración que impide la contemplación y disfrute armónico de los paisajes natural, rural y urbano del Municipio de Puebla, ocasionando impactos negativos importantes en la percepción visual, por la distorsión o cualquier forma de transformación del entorno natural, histórico y urbano, que deteriore la calidad de vida de las personas;
 
-XXIII. Permiso publicitario: Acto administrativo mediante el cual la Autoridad Municipal otorga su autorización para colocar publicidad en vehículos del servicio de transporte público o privado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XXIV. Presidente Municipal: El Presidente Municipal Constitucional del Municipio de Puebla;
+XIII. Contratista: Persona física o jurídica que celebra contratos para la fijación, instalación, mantenimiento, modificación o retiro de anuncios;
 
-XXV. Propaganda Electoral y/o Política: Aquella que señalen los Códigos Electorales aplicables para el Municipio de Puebla: conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos, los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía las candidaturas registradas. Se entiende también cualquier tipo de publicidad que contenga algún fin político oficial o no oficial;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XXVI. Propietario: Persona física o moral que tiene la propiedad jurídica de un bien inmueble o vehículo en el que se pretenda instalar un anuncio y su estructura;
+XIV. Corresponsable: Persona física con los conocimientos técnicos adecuados para responder en forma conjunta con el Director Responsable de Obra, o autónoma en las obras en las que otorgue su responsiva, en todos los aspectos técnicos relacionados al ámbito de su intervención profesional, mismos que son relativos a la seguridad estructural, al diseño urbano y arquitectónico e instalaciones; lo anterior de conformidad con lo establecido en el Capítulo de Construcciones del presente Código Reglamentario;
 
-XXVII. Poseedor: Persona física o moral que ejerce sobre una cosa un poder de hecho, en la que se pretenda instalar un anuncio y su estructura;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XXVIII Registro de publicistas en transporte: Padrón mediante el cual las personas físicas o morales quedan inscritas, previo cumplimiento de los requisitos señalados por la Administración Pública;
+XV. Dictamen de Factibilidad: Documento realizado por la Agencia, que consiste en un análisis del impacto que generará el anuncio en la imagen urbana;
 
-XXIX. Capítulo: El Capítulo de Anuncios del presente Código Reglamentario;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XXX. Capítulo de Construcciones: El Capítulo de Construcciones del presente Código Reglamentario;
+XVI. Dictamen de Protección Civil: Documento emitido por la Unidad Operativa Municipal de Protección Civil en el que se determina si el anuncio y/o estructura cuentan con las medidas de seguridad requeridas en materia de protección civil;
 
-XXXI. Responsable Solidario: Toda persona física o moral que se obliga mancomunadamente con el titular, a responder de las obligaciones derivadas de la instalación, modificación y/o retiro de un anuncio;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+XVII. Dirección de Gestión: La Dirección de Gestión y Desarrollo Urbano Sustentable de la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable; quien actuará a través de las Autoridades competentes adscritas a esta Dirección;
 
-XXXII. Secretaría.- La Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XXXIII. (DEROGADA, P.O. 29 DE AGOSTO DE 2008)
+XVIII. Director Responsable de Obra: Persona física que se hace responsable de la observancia del Capítulo de Construcciones, en el acto en que otorga su responsiva;
 
-XXXIV. Tapiales: Elementos de seguridad que sirven para cubrir y proteger perimetralmente y a nivel de banqueta, una obra en construcción, durante el tiempo que marque la respectiva licencia de construcción; los cuales pueden ser de madera, lámina, concreto, mampostería o de otro material que ofrezca las mismas garantías de seguridad;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XXXV. Titular: La persona física o moral debidamente acreditada y a cuyo nombre se expide la licencia o permiso;
+XIX. Elemento Constitutivo: Objeto característico determinante para la integración de un anuncio;
 
-XXXVI. Visita de Verificación: La diligencia de carácter administrativo que ordena la Autoridad, con el objeto de comprobar el cumplimiento de las disposiciones legales y reglamentarias por parte de los particulares; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XXXVII. Zona de Monumentos: A la Zona descrita en el Capítulo de Construcciones del presente Código Reglamentario.
+XX. Empresa Publicitaria: Persona física o jurídica que tiene como actividad mercantil la producción y/o comercialización de espacios publicitarios para exhibir, promover, difundir y publicar, productos, bienes, servicios o espectáculos a través de un anuncio;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXI. Entorno Urbano: Conjunto de elementos naturales y construidos que conforman el territorio urbano, y que constituyen el marco de referencia y convivencia de los habitantes y visitantes, determinado por las características físicas, costumbres y usos, que se relacionan entre sí;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXII. Estructura: Elemento de soporte anclado en terreno natural, inmueble o vehiculo, independiente o dependiente del anuncio donde se fije, instale, ubique o modifique el mensaje, la publicidad o propaganda;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXIII. Espectáculo Público: Toda función de esparcimiento, sea teatral, deportiva, o de cualquier otra naturaleza semejante, excepto cines, que se verifique en salones, teatros, estadios, carpas, calles, plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas, pagando el importe del boleto de entrada o de cualquier otro derecho de admisión; quedan incluidas en el concepto de diversión o espectáculo público, las ferias, muestras, exposiciones y eventos similares, si para el acceso se paga o no alguna cantidad;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXIV. Licencia: Acto administrativo mediante el cual la Autoridad Municipal otorga su autorización para llevar a cabo la construcción, instalación, colocación, fijación, modificación, ampliación, retiro, desmantelamiento y, en su caso, la demolición de estructuras que soportan o sustentan el anuncio; así como para colocar, fijar, instalar, distribuir, ubicar, modificar y ampliar los anuncios señalados en el artículo 1299 del presente Código Reglamentario;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXV. Mantódromo: Estructura propiedad del Ayuntamiento para colocar anuncios en mantas, previa expedición del Permiso por la Agencia;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXVI. Mobiliario Urbano: Todos aquellos elementos urbanos complementarios, que sirven de apoyo a la infraestructura y al equipamiento, reforzando así la imagen del Municipio los cuales pueden ser fijos, permanentes, móviles o temporales;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXVII. Orlas o Cenefas: La orilla del toldo de materiales flexibles o rígidos y de la cortina de tela;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXVIII. Padrón de Anuncios: Base de datos y/o registro que contiene información referente a las personas físicas o jurídicas, propietarias, poseedoras, titulares y/o responsables solidarios de los derechos y obligaciones en materia de anuncios, tipo de anuncio, descripción del anuncio, número de placa o folio, colonia, calle, número oficial en que se ubica, características técnicas, material, figura geométrica, número de caras, orientación, situación jurídica, vigencia, existencia y vigencia de la póliza de seguro de responsabilidad civil y daños causados a terceros y los demás datos que sean posibles para su ubicación e identificación y de los contribuyentes y sujetos de su regulación; el cual tiene por objeto proporcionar a la Autoridad Municipal, publicistas y anunciantes, información completa, confiable y oportuna;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXIX. Paisaje Natural: Conjunto de elementos preponderantemente naturales, derivados de las características geomorfológicas del ambiente no urbanizado, que forman parte del patrimonio cultural;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXX. Paisaje Urbano: Síntesis visual del territorio, en la que interactúan todos los elementos naturales y construidos del entorno urbano, como resultado de acciones culturales, ambientales, sociales y económicas; y que se constituye como un factor de calidad de vida y de identidad del Municipio de Puebla;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXXI. Pegote: Hoja de papel o de cualquier otro material con publicidad adherida con cola u otro tipo de pegamento a cualquier superficie de propiedad privada, vía pública o inmuebles propiedad del Gobierno;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXXII. Pendón: Anuncio que exclusivamente se puede colocar en la estructura metálica destinada para tal fin en postes de alumbrado público permitidos por la Autoridad Municipal;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXXIII. Periódico Oficial: El Periódico Oficial del Estado;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXXIV. Permiso: Acto administrativo mediante el cual la Autoridad Municipal otorga su autorización para fijar, instalar, distribuir, ubicar o modificar los anuncios señalados en el articulo 1310 del presente Código Reglamentario;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXXV. Permiso Publicitario: Acto administrativo mediante el cual la Autoridad Municipal otorga su autorización para colocar publicidad en vehículos;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXXVI. Poseedor: Persona física o jurídica que ejerce sobre una cosa un poder de hecho, en la que se pretenda instalar un anuncio y su estructura;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXXVII. Presidente Municipal: El Presidente Constitucional del Honorable Ayuntamiento del Municipio de Puebla;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXXVIII. Propietario: Persona física o jurídica que tiene la propiedad jurídica de un bien inmueble o vehículo en el que se pretenda instalar un anuncio y su estructura;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXXIX. Responsable Solidario: Toda persona física o jurídica que se obliga con el titular, a responder de las obligaciones derivadas de la instalación, modificación y/o retiro de un anuncio;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XL. Secretaría de Gestión: La Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XLI. Tapial: Elemento de seguridad que sirve para cubrir y proteger perimetralmente y a nivel de banqueta, una obra en construcción, durante el tiempo que marque la respectiva Licencia de Construcción; los cuales pueden ser de madera, lámina, concreto, mampostería o de otro material que ofrezca las mismas garantías de seguridad;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XLII. Titular: La persona física o jurídica debidamente acreditada y a cuyo nombre se expide la Licencia, Permiso o Permiso Publicitario;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XLIII. Visita de Verificación: La diligencia de carácter administrativo que ordena la Autoridad, con el objeto de comprobar el cumplimiento de las disposiciones legales y reglamentarias por parte de los particulares;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XLIV. Zona de Monumentos: A la Zona descrita en el Capítulo de Construcciones del presente Código Reglamentario; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XLV. Zonas Publicitarias: Los Corredores Urbanos CAl (Corredor de Alto Impacto) y CUMS (Corredor de Servicios y Uso Mixto) que describe el Programa Municipal de Desarrollo Urbano Sustentable de Puebla, en donde la Autoridad correspondiente autorizará la colocación de anuncios.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Los conceptos que se definen en el presente artículo se establecen en forma enunciativa, más no limitativa.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 1254 Bis.
+
+La Secretaría de Gestión tiene las facultades y obligaciones siguientes:
+
+I. Someter a consideración del Ayuntamiento, los programas en materia de anuncios para su aprobación;
+
+II. Establecer de acuerdo a su competencia y en apego a la normatividad vigente las políticas, criterios, sistemas y procedimientos en materia de anuncios;
+
+III. Poner a consideración de la Tesorería Municipal las propuestas en materia tributaria para la mejor definición de los elementos de las contribuciones, productos, aprovechamientos y demás conceptos de ingreso relacionados con la materia de anuncios;
+
+IV. Proponer al Ayuntamiento las adecuaciones normativas necesarias para el cumplimiento de los programas en materia de anuncios;
+
+V. Vigilar el cumplimiento y la correcta aplicación del presente Código Reglamentario y las demás disposiciones aplicables en materia de anuncios; y
+
+VI. Las demás que le confieran otras disposiciones legales o le asigne el Ayuntamiento, el Presidente y las que reciba por delegación o sean coordinadas en términos de los Convenios que se suscriban con Entidades Públicas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 1254 Ter.
+
+Corresponde a la Agencia:
+
+I. La ejecución de planes en materia de anuncios en el Municipio;
+
+II. Otorgar Licencias, Permisos y/o Permisos Publicitarios en materia de anuncios en el Municipio;
+
+III. Emitir los Dictámenes de Factibilidad respecto de las solicitudes para Licencias, Permisos y/o Permisos Publicitarios;
+
+IV. Emitir Dictámenes de Factibilidad previos al refrendo de Licencias y/o Permisos;
+
+V. Solicitar y proporcionar a la Tesorería Municipal y demás Autoridades del Ayuntamiento la información necesaria para el cumplimiento de sus funciones;
+
+VI. Coordinarse con la Tesorería Municipal a través de la Unidad de Normatividad y Regulación Comercial y/o con la Unidad Operativa Municipal de Protección Civil y con cualquier otra relacionada en la materia de anuncios, con el objeto de realizar las visitas de verificación, según corresponda y aplicar las disposiciones jurídicas relativas a anuncios;
+
+VII. Solicitar a los titulares, propietarios, poseedores y/o responsables solidarios la documentación que acredite la vigencia y el cumplimiento de las normas jurídicas aplicables de la Licencia, Permisos y/o Permisos Publicitarios correspondientes;
+
+VIII. La administración del Padrón de Anuncios;
+
+IX. Establecer los lineamientos para la generación de placas o folios de identificación que serán utilizadas para cada ejercicio fiscal, atendiendo al tipo de anuncios y las especificaciones de diseño, material y contenido que deban observar;
+
+X. Establecer los lineamientos para la generación de Zonas Publicitarias en el Municipio;
+
+XI. Establecer y difundir las especificaciones que debe tener cada anuncio nuevo, estableciendo, en su caso, periodos de transición hasta uniformar las características de los mismos;
+
+XII. Proponer a la Secretaría de Gestión los instrumentos necesarios para coordinar y homologar programas en materia de anuncios con los Municipios conurbanos;
+
+XIII. Adoptar las medidas necesarias para el adecuado aprovechamiento de espacios publicitarios, bajo criterios equitativos, de transparencia, legalidad y de igualdad en el acceso a los anunciantes, propietarios, poseedores, y/o titulares de anuncios, garantizando el acceso público, permanente y sin formalidades, a la información sobre la oferta de espacios;
+
+XIV. Integrar y administrar un inventario de infraestructura aprovechable en materia de anuncios;
+
+XV. Expedir los criterios para concesionar el uso y aprovechamiento de espacios públicos y la revisión de los existentes;
+
+XVI. Opinar sobre la viabilidad de la suscripción de contratos, convenios o acuerdos que se celebren con personas físicas o jurídicas de derecho público o privado en materia de anuncios;
+
+XVII. Aprobar los lineamientos que regirán la colocación de anuncios en mobiliario urbano, en inmuebles de propiedad privada, en inmuebles propiedad del Gobierno, en la vía pública y en vehículos de transporte privado;
+
+XVIII. Determinar todo tipo de infracciones y las asentadas en las actas de visita de verificación o inspección realizadas en materia de anuncios e imponer las sanciones correspondientes en términos del presente Código Reglamentario, de las leyes y reglamentos aplicables, remitiéndolas a las oficinas ejecutoras de la Tesorería Municipal para su cobro;
+
+XIX. Establecer y dar a conocer los lineamientos sobre el otorgamiento, monto, beneficiarios, vigencia y coberturas de la póliza de seguro de responsabilidad civil y daños causados a terceros; y
+
+XX. Las demás que le confieran otras disposiciones legales o le asigne el Ayuntamiento, el Presidente, el titular de la Secretaría de Gestión y las que reciba por delegación o sean coordinadas en términos de los Convenios que se suscriban con Entidades Públicas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1255.
 
-El texto de los anuncios deberá redactarse en el idioma español, con sujeción a las reglas de la gramática y sin el empleo de palabras de otro idioma, salvo que se trate de lenguas nativas o nombres propios de productos, marcas o nombres comerciales en lengua extranjera, de conformidad con los ordenamientos jurídicos aplicables.
+Son obligaciones de los anunciantes, propietarios, poseedores, titulares y/o responsables solidarios:
 
-Es responsabilidad del anunciante y/o empresa publicitaria el texto y contenido de los anuncios, los cuales deberán cumplir con los ordenamientos jurídicos aplicables.
+I. Proporcionar a la Agencia la información relativa al tipo de anuncio, descripción del anuncio, número de placa o folio, colonia, calle, número oficial en que se ubica, características técnicas, material, figura geométrica, número de caras, orientación, situación jurídica, vigencia y los demás datos que sean posibles para la ubicación e identificación de los contribuyentes y sujetos de esta regulación;
+
+II. Solicitar ante la Agencia la Licencia, Permiso y/o Permiso Publicitario en materia de anuncios;
+
+III. Inscribirse en el Padrón de Anuncios al momento en que le sea otorgada la Licencia, Permiso y/o Permiso Publicitario;
+
+IV. Solicitar ante la Agencia, el refrendo correspondiente dentro de los 25 días hábiles previos a la conclusión de la vigencia de la Licencia y/o Permiso;
+
+V. Mostrar la Licencia, Permiso y/o Permiso Publicitario, la póliza por responsabilidad y daños causados a terceros, así como la fianza señalada en la fracción IX de este artículo, cuando le sean requeridos por la Autoridad competente, en los casos de inspección o verificación o en cualquier otro momento que se le requiera;
+
+VI. Señalar un domicilio para recibir todo tipo de notificaciones y en general para la práctica de diligencias de carácter administrativo dentro del Municipio, e informar a la Agencia sobre los cambios que realice, los que deberán ser en el propio Municipio;
+
+VII. Verificar que los anuncios se coloquen conforme a los medios de control que emita la Agencia y los requisitos en materia de protección civil, construcciones y demás que resulten aplicables;
+
+VIII. Declarar bajo protesta de decir verdad las medidas totales del área de exhibición del anuncio;
+
+IX. Otorgar fianza por afianzadora debidamente autorizada a favor de la Tesorería Municipal, por un monto de 500 a 1,500 días de salario mínimo general vigente en el Municipio de Puebla al momento de su otorgamiento, monto que será determinado por la Agencia de acuerdo al anuncio que se trate, de conformidad con lo establecido en el artículo 268 del Código Fiscal y Presupuestario para el Municipio de Puebla;
+
+X. Presentar póliza de seguro de responsabilidad civil y daños causados a terceros;
+
+XI. Utilizar la Licencia, Permiso y/o Permiso Publicitario otorgado por la Agencia en el (los) lugar(es) en el (los) cual(es) fue autorizado, en razón de lo anterior queda estrictamente prohibido la utilización de postes de concreto y de madera pertenecientes a entidades paraestatales, paramunicipales, sociedades o cualquier otra persona física o jurídica de derecho público o privado, árboles, marquesinas, peldaños, cercas, bardas, mobiliario urbano o cualquier otro lugar que no sea autorizado;
+
+XII. Que el texto y contenidos de los anuncios no resulten agresivos y obscenos para la población;
+
+XIII. Regularizarse cuando se encuentren fuera del marco legal que los rige, sin perjuicio de las sanciones a que haya lugar; y
+
+XIV. Las demás que señalen los ordenamientos aplicables en la materia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1256.
 
-Son responsables solidarios con la empresa publicitaria:
+Son responsables solidarios con el titular de la Licencia, Permiso y/o Permiso Publicitario en el cumplimiento de las obligaciones que en materia de anuncios le señala este Capítulo:
 
-a) Los contratistas, quienes al ser requeridos para efectuar procedimientos y/o trabajos en un anuncio, deberán constatar que el mencionado anuncio cuenta con la licencia o permiso según lo prevea el presente Capítulo y demás disposiciones que le sean aplicables.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+a) Los contratistas, quienes al ser requeridos para efectuar procedimientos y/o trabajos en un anuncio, deberán constatar que el mencionado anuncio cuenta con la Licencia, Permiso y/o Permiso Publicitario según lo prevea este Capítulo y demás disposiciones que le sean aplicables, lo cual deberá plasmarse en el contrato que para tal efecto se celebre;
 
 b) Los Directores Responsables de Obra y Corresponsables, serán responsables por los daños y perjuicios que se causen a terceros en sus personas y bienes, por haber otorgado una responsiva para la instalación de anuncios.
 
-c) Las personas físicas o morales propietarias de los anuncios.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-d) Toda persona que tenga ingerencia para la instalación de un anuncio que no cuente con licencia expedida por la autoridad competente y que se encuentre en los supuestos antes señalados.
+c) Las personas físicas o jurídicas propietarias o poseedoras de los anuncios; así como de los inmuebles, predios y vehículos en donde se instalen los mismos;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+d) Las empresas publicitarias que se dediquen a la comercialización de espacios, quienes deberán cumplir estrictamente las disposiciones legales aplicables a la Licencia, Permiso y/o Permiso Publicitario;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+e) Los anunciantes, quienes al contratar el espacio, deberán constatar que éste cuente con Licencia, Permiso y/o Permiso Publicitario, según lo prevea el presente Capítulo; y
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+f) Toda persona que tenga ingerencia para la instalación de un anuncio que no cuente con Licencia, Permiso y/o Permiso Publicitario expedido por la Agencia competente y que se encuentre en los supuestos antes señalados.
 
 La responsabilidad solidaria comprende el pago de los gastos y multas que determine la autoridad competente, por las infracciones cometidas al presente Capítulo.
 
@@ -15557,21 +17093,89 @@ II. Los elementos de fijación y de estructuración;
 
 III. La caja o gabinete del anuncio;
 
-IV. La carátula vista o pantalla,
+IV. La carátula vista o pantalla;
 
-V. Los elementos de iluminación; y
+V. Los elementos de iluminación; y (sic)
 
-VI. El vehículo o medio de transporte en caso de anuncio móvil.
+VI. El vehículo o medio de transporte en caso de anuncio móvil;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VII. La placa o folio que contendrá el número de Licencia, Permiso y/o Permiso Publicitario y la fecha de vencimiento del mismo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Dicha placa deberá de permanecer en un lugar visible del anuncio, y se colocará en todos aquellos anuncios que requieran de una estructura anclada o fijada al piso, a la pared o a un vehículo; en todos los demás casos se usará folio que otorgará la Agencia.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 1257 Bis.
+
+La Agencia contará con un Padrón de Anuncios, el cual tiene por objeto proporcionar a la Autoridad Municipal, publicistas y anunciantes, información completa, confiable y oportuna.
 
 ###### Artículo 1258.
 
 En la construcción, instalación, colocación, fijación, modificación, ampliación, conservación, mantenimiento, reparación, retiro y/o demolición de las estructuras de anuncios, así como en la distribución de éstas, deberá observarse lo dispuesto en el presente Capítulo, sin perjuicio del cumplimiento de la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1259.
 
-Para comprobar el cumplimiento de las disposiciones de este Capítulo, el Ayuntamiento podrá llevar a cabo visitas de verificación ordinarias y/o extraordinarias.
+La Unidad Operativa Municipal de Protección Civil y la Unidad de Normatividad y Regulación Comercial, para comprobar el cumplimiento de las disposiciones legales estarán facultadas para llevar a cabo visitas de verificación tendientes a la comprobación del cumplimiento de obligaciones reglamentarias en materia de anuncios.
 
-Las visitas de verificación se realizarán en términos de lo dispuesto por el Capítulo de Construcciones del presente Código Reglamentario.
+Las visitas de verificación serán realizadas de manera conjunta o separada por las autoridades señaladas en el párrafo anterior, mismas que deberán informar el resultado de las mismas a la Agencia.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 1259 Bis.
+
+Las visitas de verificación se iniciarán mediante orden fundada y motivada, suscrita por la Agencia, que deberá contener:
+
+I. La Autoridad que emite la orden;
+
+II. El lugar o lugares donde deba efectuarse la visita;
+
+III. El nombre o razón social de la persona física o jurídica registrada en el padrón de anuncios, cuando se ignore el nombre de la persona que debe ser visitada, se señalarán datos suficientes que permitan su identificación;
+
+IV. El nombre y cargo de la persona o personas que practicarán la visita;
+
+V. El objeto de la visita;
+
+VI. El domicilio señalado para recibir notificaciones; y
+
+VII. Las disposiciones legales que fundamenten la visita de verificación.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 1259 Ter.
+
+Las visitas de verificación se desarrollarán conforme a lo siguiente:
+
+I. Se realizarán en el lugar(es) señalado(s) en la orden de visita, entregando el original de la misma al visitado o a su representante legal y si no estuvieran presentes, a la persona que se encuentre en el lugar en que deba practicarse la visita. En caso de no encontrarse persona alguna, con quien se entienda la visita, se dejará citatorio por una sola vez dirigido al anunciante, titular, propietario, poseedor y/o responsable solidario del anuncio para que se constituya en el día y hora señalando (sic) en el mismo, para el desahogo de la visita;
+
+II. En el día y hora señalado para realizar la visita de verificación, las autoridades y la persona con la que se deba desahogar la misma se constituirán en el lugar señalado en la orden de visita, para desarrollar la misma; en caso de que no acuda persona alguna a pesar de haber existido citatorio, la visita se desarrollará en los términos y condiciones señalados en este artículo;
+
+III. Los visitados, sus representantes o la persona con quien se entienda la visita, están obligados a permitir el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la documentación que acredite el cumplimiento de las disposiciones legales;
+
+IV. Al iniciarse la visita de verificación los visitadores deberán identificarse ante la persona con quien se entienda la diligencia requiriéndola para que designe dos testigos, si éstos no son designados o los mismos no aceptaren, los visitadores los designarán, haciendo constar esa situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la visita;
+
+V. En toda visita de verificación se levantará acta en la que se harán constar las irregularidades detectadas por los visitadores, relativas a la verificación del cumplimiento de las disposiciones legales aplicables;
+
+VI. Los visitados podrán formular observaciones en el acto de diligencia y ofrecer pruebas en relación a los hechos contenidos en el acta de la visita de verificación, o bien lo podrán hacer por escrito, dentro de los ocho días hábiles siguientes a la fecha en que hubiere levantado el acta de visita de verificación;
+
+VII. Al cierre de la visita de verificación el visitador requerirá a la persona con quien se entendió la diligencia y a los testigos para firmar el acta correspondiente, en caso de que cualquiera de éstos se negaren a firmar o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, se asentará dicha circunstancia en la propia acta, sin que esto afecte la validez y el valor probatorio de la misma, dándose por concluida la visita de verificación;
+
+VIII. Se dejará copia del acta de la visita de verificación a la persona con quien se entendió la diligencia, en caso de que no se hubiera entendido con alguien a pesar de haber existido citatorio, el acta se pondrá a disposición del titular, propietario, poseedor y/o responsable solidario del anuncio en la Agencia por un término de tres días hábiles contados al día siguiente a la visita de verificación; y
+
+IX. La Agencia con base en los resultados de la visita de verificación, dictará su resolución correspondiente en un término de quince días hábiles posteriores a la fecha en que se haya realizado la visita de verificación, pudiendo dictar medidas tendientes a corregir las irregularidades que se hubieren encontrado, notificándolas al interesado y otorgándoles un plazo de diez días hábiles, posteriores a aquél en que se haya notificado, para la realización de trámites y/o trabajos necesarios para cumplir con las disposiciones legales aplicables. En caso de no cumplir con lo anterior la Agencia procederá a la a la (sic) nulidad, revocación, clausura o retiro del anuncio, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 1259 Quáter.
+
+Se presumirá que el anunciante, titular, propietario, poseedor y/o responsable solidario carece de la documentación que acredite el cumplimiento de las disposiciones legales, cuando no se presente a recoger la copia del acta de la visita de verificación dentro del término de tres días hábiles contados al día siguiente a la visita de verificación o cuando no obren (sic) ésta en el sitio de la verificación.
+
+En este caso se procederá a la clausura o retiro del anuncio.
 
 DE LA CLASIFICACIÓN DE LOS ANUNCIOS
 
@@ -15597,7 +17201,9 @@ Los que contengan únicamente el nombre, denominación o razón social de una pe
 
 II. Anuncios de propaganda en espacios exteriores:
 
-Los que se refieren a la difusión de marcas, productos, eventos, bienes, servicios o actividades similares y que promuevan su venta, uso o consumo;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Los que se refieren a la difusión de marcas, productos, eventos, espectáculos, bienes, servicios o actividades similares y que promuevan su venta, uso o consumo;
 
 III. Anuncios mixtos:
 
@@ -15619,9 +17225,7 @@ II. Anuncios autosoportados:
 
 Los que se encuentren sustentados por uno o más elementos estructurales que estén apoyados o anclados directamente al piso de un predio y cuya característica principal sea que sus soportes y su carátula o pantalla no tenga contacto con edificación alguna;
 
-III. Anuncios en azotea:
-
-Los que se ubican sobre el plano horizontal de la misma;
+III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
 IV. Anuncios en saliente, volados o colgantes:
 
@@ -15646,6 +17250,24 @@ Aquellos cuya característica principal sea la de aparecer en objetos que conten
 IX. Anuncios en tapiales:
 
 Aquellos que se agregan a los tapiales que sirven para cubrir y proteger perimetralmente una obra en construcción, durante el periodo que marque la respectiva licencia de construcción.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+X. Anuncios en vallas publicitarias:
+
+Los que se encuentren sustentados por una estructura apoyada en el piso frente o anclada en los muros del primer nivel de la fachada de un inmueble;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XI. Anuncios en tótem grupal:
+
+Aquéllos que se colocan dentro de una estructura vertical desplantada en el piso, con la finalidad de anunciarse grupalmente;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XII. Anuncios en puentes peatonales:
+
+Los que se encuentren sustentados por uno o más elementos estructurales que estén apoyados o anclados directamente a la estructura de un puente peatonal;
 
 d) Por los materiales empleados, en:
 
@@ -15685,9 +17307,11 @@ VIII. Fachadas; y
 
 IX. Muros interiores, laterales, o de colindancia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1261.
 
-Los anuncios instalados en vehículos tanto del servicio de transporte como de particulares, se clasifican:
+Los anuncios instalados en vehículos que porten publicidad se clasifican:
 
 a) Por el lugar de su ubicación, en:
 
@@ -15703,9 +17327,7 @@ III. Anuncios en Posteriores:
 
 Los ubicados en la parte posterior exterior de la carrocería;
 
-IV. Anuncios en Interiores:
-
-Los ubicados en la parte interior del vehículo; y
+IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
 V. Anuncios Integrales:
 
@@ -15715,19 +17337,21 @@ b) Por el lugar de su instalación:
 
 I. Anuncios adheribles:
 
-Los pintados, impresos o grabados en un soporte de impresión, con posibilidad de sobreponerse o adherirse, mediante elementos de fijación, a los recubrimientos exteriores o interiores de la propia carrocería de los vehículos; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Los pintados, impresos o grabados en un soporte de impresión, con posibilidad de sobreponerse o adherirse, mediante elementos de fijación, a los recubrimientos exteriores de la propia carrocería de los vehículos; y
 
 II. Anuncios en accesorios:
 
 Los que se encuentran integrados o adheridos a una estructura y cuenten con dos o más elementos constitutivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1262.
 
-Los anuncios no considerados dentro de las especificaciones de instalación contenidas en este Capítulo, podrán ser puestos a consideración de la Dirección de Gestión para su análisis y evaluación.
+Los anuncios no considerados dentro de las especificaciones de instalación contenidas en este Capítulo podrán ser puestos a consideración de la Agencia para su análisis y evaluación.
 
-Los anuncios impresos tales como volantes, panfletos, trípticos, dípticos y cualesquiera otros similares, repartidos en la vía pública, serán regulados y sancionados en términos de los Capítulos de Policía y Gobierno y el relativo a Limpia del presente Código Reglamentario.
+Los anuncios impresos tales como volantes, panfletos, trípticos, dípticos y cualesquiera otros similares, repartidos en la vía pública, serán regulados en términos del presente Capítulo, independientemente de lo que señalan los Capítulos de Policía y Gobierno y el relativo a Limpia del presente Código Reglamentario.
 
 DE LAS ESPECIFICACIONES TÉCNICAS DE LOS ANUNCIOS
 
@@ -15747,17 +17371,51 @@ V. En muros laterales de acceso a establecimientos que den a la calle, sólo se 
 
 VI. En orlas o cenefas de toldos y cortinas de tela, sólo se permitirán anuncios pintados con el nombre comercial, razón social o logotipo de la empresa. En toldos fabricados con materiales rígidos se permitirá, además, colocar anuncios adosados en sus orlas y cenefas, siempre y cuando se formen con letras que por ningún motivo serán mayores que la altura de dichas orlas o cenefas;
 
-VII. En fachadas, sólo se permitirán anuncios pintados, integrados o adosados, debiendo ubicarse en las superficies de éstas entre la pared superior del cerramiento de la puerta y la parte inferior del repisón de las ventanas del primer piso. Los adosados se recomiendan con letras o símbolos aislados que pueden ser iluminados de diferentes formas, pero podrán contar con un tablero iluminado por medio de reflectores, o un gabinete de 20 centímetros de espesor con iluminación interior;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VIII. Los anuncios perpendiculares a la fachada, colgado de una ménsula que cumpla con las especificaciones técnicas que en su caso se requieran, sólo se permitirá la colocación de un anuncio por cada 12 metros de fachada cuya instalación sea hecha a una distancia mínima de 2 metros de la colindancia con el predio contiguo, respetando las dimensiones máximas de 90 centímetros de ancho por 1.20 metros de altura; dejando 2.50 metros libres, entre el nivel de banqueta y el anuncio. No se permitirán sobrevolados ni sobre salientes arquitectónicos de fachada;
+VII. En fachadas, sólo se permitirán anuncios pintados, integrados o adosados, debiendo ubicarse en las superficies de éstas entre la parte superior del cerramiento de la puerta y la parte inferior del repisón de las ventanas del primer piso, sin rebasar los 2.00 metros de altura, incluso cuando se trate de inmuebles de un nivel. Los adosados se recomiendan con letras o símbolos aislados que pueden ser iluminados de diferentes formas, pero podrán contar con un tablero iluminado por medio de reflectores, o un gabinete de 20 centímetros de espesor con iluminación interior;
 
-IX. Cuando se trate de centros comerciales cuyas fachadas sean muros ciegos, los anuncios denominativos del propio centro comercial, podrán cubrir hasta el quince por ciento de la superficie de éstos; y se podrán colocar anuncios denominativos para los establecimientos en ellos emplazados en autosoportados, colocados en los estacionamientos, uno hacia cada una de las calles a las que dé el centro comercial a una distancia mínima de 10 metros de la acera y a una distancia mínima de 50 metros entre los anuncios autosoportados. Estos deberán cumplir con las especificaciones señaladas en el presente Capítulo; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-X. Cuando se trate de un mismo anuncio denominativo, se puede instalar en varios vanos y fachadas de un mismo inmueble, siempre y cuando sean iguales entre sí para dar unidad y armonía al edificio.
+VIII. Los anuncios perpendiculares a la fachada, colgado de una ménsula que cumpla con las especificaciones técnicas que en su caso se requieran, sólo se permitirá la colocación de un anuncio por cada 12 metros de fachada cuya instalación sea hecha a una distancia mínima de 2 metros de la colindancia con el predio contiguo, respetando las dimensiones máximas de 90 centímetros de ancho por 1.20 metros de altura; dejando 2.50 metros libres, entre el nivel de banqueta y el anuncio. No se permitirán sobrevolados ni sobresalientes arquitectónicos de fachada;
 
-Cuando se trate de publicidad destinada a centros comerciales, cuyas fachadas sean muros ciegos, los anuncios denominativos adosados podrán cubrir hasta el quince por ciento de los mismos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-Se podrá colocar un anuncio denominativo autosoportado en el estacionamiento de centros comerciales a una distancia mínima de 10 metros de la acera, el cual deberá cumplir con las especificaciones señaladas en el presente Capítulo.
+IX. Cuando se trate de centros y plazas comerciales cuyas fachadas sean muros ciegos, los anuncios denominativos podrán cubrir hasta el quince por ciento de la superficie de éstos. En dichos establecimientos no podrán colocarse anuncios denominativos individuales autosoportados. Los anuncios denominativos solo podrán ser instalados dentro de estructuras tipo tótem, que contengan varios anuncios cumpliendo las especificaciones señaladas en el presente Código y que guarden características similares entre sí, en dimensión, forma y material;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+X. Cuando se trate de un mismo anuncio denominativo, se puede instalar en varios vanos y fachadas de un mismo inmueble, siempre y cuando sean iguales entre sí para dar unidad y armonía al edificio, con una distancia entre ellos no menor a 12.00 metros;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XI. Se permitirá la colocación de un anuncio denominativo autosoportado por establecimiento que no esté dentro de un centro o plaza comercial, siempre que el frente del local comercial sea mayor a 15.00 metros, sin invadir vía pública o área verde en su plano virtual. Las dimensiones de las carteleras, no podrán ser mayores a 3.00 metros de longitud por 2.50 metros de altura, y la altura total de la estructura no deberá rebasar los 15 metros medidos del nivel de banqueta a la parte superior de las carteleras; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XII. Los locales comerciales que cuenten con un estacionamiento con un área superior a 1,000 metros cuadrados, podrán colocar un (sic) anuncios denominativos autosoportado de hasta 12.90 metros de longitud por 7.20 metros de altura, sin rebasar la estructura total del anuncio los 20 metros de altura, medidos del nivel de banqueta a la parte superior de las carteleras, siempre que no exista un anuncio autosoportado de propaganda autorizado a una distancia menor de 200 metros.
+
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+> <small>(DEROGADO TERCER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 1263 Bis.
+
+Para la fijación, instalación, distribución, ubicación o modificación de anuncios tipo tótem se deberá cumplir con lo siguiente:
+
+I. Se permite la instalación de anuncios tipo tótem en centros o plazas comerciales; un tótem por cada calle que rodee el centro comercial. La estructura se colocará en los estacionamientos, previa Licencia por parte de la Agencia;
+
+II. El diseño del tótem podrá ser tridinámico, con dimensión máxima de cada lado de 3.00 a 5.00 metros de longitud por 15.00 metros de altura, medida sobre el nivel de banqueta a la parte superior de la cartelera;
+
+III. Sólo se permitirá un anuncio por giro comercial por cara;
+
+IV. No se permitirá que las carteleras o sus estructuras invadan físicamente o en su plano virtual la vía pública o los predios colindantes;
+
+V. Se permitirá instalar .este tipo de anuncios en la zona a que hace referencia el apartado relativo a la Zona de Monumentos del Capítulo de Construcciones, siempre que el diseño sea aprobado por la Agencia; y
+
+VI. Los anuncios tipo tótem deberán situarse a una distancia mínima de 5.00 metros de los cables de alta tensión.
 
 ###### Artículo 1264.
 
@@ -15767,47 +17425,47 @@ I. Se permitirán hasta dos carteleras, a un mismo nivel en paralelo, montadas s
 
 II. La altura máxima será de 25 metros, medida sobre nivel de banqueta a la parte superior de las carteleras;
 
-III. Se permitirá un anuncio por inmueble, siempre y cuando la construcción de éste, cumpla con las disposiciones del Capítulo de Construcciones y la superficie de terreno no sea menor a 250 metros cuadrados. Estos anuncios no podrán instalarse en las zonas de restricción que indiquen los planos de alineamientos, números oficiales y derechos de vía, ni en los estacionamientos y accesos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+III. Se permitirá un anuncio por inmueble, siempre y cuando la construcción de éste, cumpla con las disposiciones del Capítulo de Construcciones y la superficie de terreno no sea menor a 250 metros cuadrados. Estos anuncios no podrán instalarse en las zonas de restricción que indiquen los planos de alineamientos, números oficiales y derechos de vía, ni en los cajones de estacionamiento y accesos; y no se permitirá la instalación cuando el inmueble o predio cuente con vallas publicitarias;
 
 IV. No se permitirá que los anuncios o sus estructuras invadan físicamente o en su plano virtual la vía pública o los predios colindantes;
 
-V. La distancia mínima entre un anuncio autosoportado respecto de otro semejante o de azotea, deberá ser de 200 metros con una tolerancia de 10 metros;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VI. No se permitirá instalar este tipo de anuncios en la zona a que hace referencia el apartado relativo a la Zona de Monumentos del Capítulo de Construcciones, ni a una distancia menor de 200 metros medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en esta fracción; y
+V. La distancia mínima entre un anuncio autosoportado de propaganda respecto de otro semejante, valla publicitaria, tótem, espectacular o anuncio electrónico de publicidad, deberá ser de 200 metros;
 
-VII. No se permitirá ningún anuncio con doble área de exhibición sobre el mismo soporte, ni en un mismo plano.
+VI. No se permitirá instalar este tipo de anuncios en la zona a que hace referencia el apartado relativo a la Zona de Monumentos del Capítulo de Construcciones, ni a una distancia menor de 200 metros medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en esta fracción; y (sic)
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+VII. No se permitirá ningún anuncio con doble área de exhibición sobre el mismo soporte, ni en un mismo plano;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VIII. No se permite la instalación de este tipo de anuncios en centros y plazas comerciales;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IX. Solo se permitirán este tipo de anuncios en lugares en donde no se interfiera la visibilidad o funcionamiento de las señalizaciones oficiales de cualquier tipo; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+X. Los anuncios autosoportados de propaganda deberán situarse a una distancia mínima de 5.00 metros de los cables de alta tensión.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1264 Bis.
 
-El Ayuntamiento, a través de la Dirección de Gestión, determinará el lugar específico para la colocación de los anuncios autosoportados, previo dictamen que de éste haga la Unidad Operativa Municipal de Protección Civil.
+La Agencia determinará el lugar específico para la colocación de los anuncios autosoportados de propaganda, previo Dictamen de Protección Civil, y sólo dentro de las Zonas Publicitarias.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1265.
 
-Para la fijación, instalación, distribución, ubicación o modificación de los anuncios en azotea de propaganda se deberá cumplir con lo siguiente:
-
-I. La cartelera podrá tener una longitud de hasta 12.90 metros y hasta 7.20 metros de altura;
-
-II. La proyección horizontal, la estructura y soporte del anuncio, podrán ocupar la superficie libre de la azotea, descontando tinacos, lavaderos, tendederos, cuartos de servicio, tanques de gas, elevadores y estructuras de antenas, sin obstruir la circulación de personas;
-
-III. Se permitirán anuncios en inmuebles, siempre y cuando la superficie del terreno no sea menor a 250 metros cuadrados. El anuncio por ningún motivo podrá instalarse en los elementos señalados en la fracción anterior;
-
-IV. Los anuncios y los elementos que lo conformen, no podrán sobresalir del perímetro de la azotea del inmueble, ni invadir físicamente su plano virtual, la vía pública o los inmuebles colindantes;
-
-V. No se permitirán anuncios que obstruyan la visibilidad a los vecinos de los predios colindantes, debiendo tener una distancia mínima de 30 metros de éstos;
-
-VI. Sólo se permitirá una estructura por inmueble, la cual podrá contener dos carátulas a un mismo nivel formando un ángulo o paralelos. La altura mínima de la base o parte de la sustentación será de 2.20 metros entre la losa de la azotea y la parte inferior de la cartelera, mientras que su altura mínima del nivel de banqueta a la parte superior de la cartelera, no podrá ser mayor a 25 metros;
-
-VII. La distancia mínima entre un anuncio de éstos respecto de otro igual o autosoportado deberá ser de 200 metros con una tolerancia de 10 metros a los extremos más cercanos; y
-
-VIII. No se permitirá instalar este tipo de anuncios en la zona a que hace referencia el apartado relativo a la Zona de Monumentos del Capítulo de Construcciones, ni a una distancia menor de 200 metros medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en esta fracción.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+Queda estrictamente prohibida la instalación de cualquier tipo de anuncio sobre la azotea de un inmueble.
 
 ###### Artículo 1265 Bis.
 
-El Ayuntamiento, a través de la Dirección de Gestión determinará el lugar específico para la colocación de los anuncios en azoteas de propaganda, previo dictamen que de éste haga la Unidad Operativa Municipal de Protección Civil.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -15815,33 +17473,39 @@ El Ayuntamiento, a través de la Dirección de Gestión determinará el lugar es
 
 Para la ubicación o modificación de los anuncios en muros de colindancia se deberá cumplir con lo siguiente:
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-I. Sólo se permitirán anuncios pintados que no persigan fines lucrativos, siempre y cuando sean estéticos, decorativos y la mención de la firma o razón social que lo patrocine no exceda del cinco por ciento de la superficie utilizada. Para el otorgamiento de la licencia o permiso correspondiente, el Ayuntamiento, a través de la Dirección de Gestión las valorará y determinará sobre el carácter estético o decorativo del anuncio;
+I. Sólo se permitirán anuncios pintados que no persigan fines lucrativos, siempre y cuando sean estéticos, decorativos y la mención de la firma o razón social que lo patrocine no exceda del cinco por ciento de la superficie del anuncio. Para el otorgamiento de la Licencia correspondiente, el Ayuntamiento, a través de la Agencia, valorará y determinará sobre el carácter estético o decorativo del anuncio;
 
-II. No se permitirá la instalación o fijación de mantas y lonas; y
+II. No se permitirá la instalación o fijación de mantas y lonas; y (sic)
 
-III. No se permitirá instalar este tipo de anuncios en la zona a que hace referencia el apartado relativo a la Zona de Monumentos del Capítulo de Construcciones, ni a una distancia menor de 200 metros, medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en esta fracción.
+III. No se permitirá instalar este tipo de anuncios en la zona a que hace referencia el apartado relativo a la Zona de Monumentos del Capítulo de Construcciones, ni a una distancia menor de 200 metros, medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en esta fracción;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IV. El área de los anuncios en muros de colindancia no podrá exceder el treinta por ciento de la superficie libre del muro.
 
 ###### Artículo 1267.
 
 Para la fijación, instalación, distribución, ubicación o modificación de los anuncios en objetos inflables de propaganda se deberá cumplir con lo siguiente:
 
-I. Sólo se permitirá su instalación temporal, cuando se trate de promociones, eventos o de la publicidad de productos relacionados con la actividad comercial del establecimiento en que se instale en términos en términos (sic) del Capítulo aplicable de este Código Reglamentario Municipal;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+I. Sólo se permitirá su instalación temporal, cuando se trate de promociones, eventos o de la publicidad de productos relacionados con la actividad comercial del establecimiento en que se instale, en términos de este Capítulo;
 
 II. No se permitirán anuncios de este tipo en inmuebles destinados a uso habitacional, según lo establecido en los Programas de Desarrollo Urbano;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-III. La altura máxima de los objetos en que figure la publicidad deberá ser de acuerdo a lo que determine la Unidad Operativa Municipal de Protección Civil y en su caso; la Dirección de Gestión;
+IIl. La altura máxima de los objetos en que figure la publicidad deberá ser de acuerdo a lo que determine la Unidad Operativa Municipal de Protección Civil, previo Dictamen que para tal efecto realice;
 
 IV. Si el objeto es colocado directamente en el piso, debe contar con una protección en forma de valla a cuando menos 2 metros alrededor del mismo;
 
 V. Los objetos no deben invadir las áreas de tránsito peatonal o vehicular;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VI. Deberán ser inflados con aire o gas inerte, para lo cual deberán contar con el visto bueno de la Unidad Operativa Municipal de Protección Civil. No se permitirá la instalación de objetos inflados con algún tipo de gas tóxico, inflamable o explosivo;
+VI. Deberán ser inflados con aire o gas inerte, para lo cual deberán contar con la aprobación de la Unidad Operativa Municipal de Protección Civil. No se permitirá la instalación de objetos inflados con algún tipo de gas tóxico, inflamable o explosivo;
 
 VII. Cuando el objeto se encuentre suspendido en el aire, deberá estar anclado directamente en el lugar en el que se realice la promoción o evento anunciado, o se ubique en el establecimiento mercantil; y
 
@@ -15885,19 +17549,59 @@ V. Sólo podrán instalarse en lugares donde no interfieran la visibilidad o fun
 
 VI. No se permitirá instalar este tipo de anuncios en zonas históricas, arqueológicas, artísticas, en inmuebles catalogados por el Instituto Nacional de Antropología e Historia, o por el Ayuntamiento, ni a una distancia menor de 200 metros, medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en esta fracción.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1270 Bis.
 
-La Dirección de Gestión, determinará el lugar específico para la colocación de los anuncios en tapiales, previo dictamen que de éste haga la Unidad Operativa Municipal de Protección Civil.
+La Agencia determinará el lugar específico para la colocación de los anuncios en tapiales, previo Dictamen de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 1270 Ter.
+
+Para la fijación, instalación, distribución, ubicación o modificación de los anuncios de propaganda en vallas publicitarias se deberá cumplir con lo siguiente:
+
+I. Sólo se autorizarán un máximo de 3 carteleras publicitarias por inmueble, cuya superficie no sea menor a 250.00 metros cuadrados, teniendo cada una de éstas como dimensiones 3.00 metros de longitud por 2.40 metros de altura;
+
+II. La altura total de la estructura no deberá exceder los 2.50 metros de altura, medida sobre nivel de banqueta a la parte superior de las carteleras;
+
+III. Se permitirá que los anuncios en la parte de la cartelera invadan físicamente o en su plano virtual la vía pública sólo 10 centímetros, y en la parte de las estructuras de iluminación sólo 50 centímetros;
+
+IV. El material que se emplee en las vallas deberá ser de lámina galvanizada calibre 26;
+
+V. Los marcos estructurales serán PTR, de 2 pulgadas como mínimo;
+
+VI. En caso de usar iluminación, la instalación eléctrica deberá estar oculta mediante tubo condulec; el medidor correspondiente de la Comisión Federal de Electricidad deberá ser visible y la instalación eléctrica deberá ser firmada por un Corresponsable en instalaciones eléctricas;
+
+VII. En caso de que la estructura se encuentre anclada o fijada al piso, la cimentación deberá ser independiente a la construcción;
+
+VIII. La distancia mínima entre un grupo de vallas publicitaria respecto de otro semejante, anuncio de propaganda autosoportado, o anuncio electrónico de propaganda, deberá ser de 200 metros con una tolerancia de 10 metros;
+
+IX. No se permitirá la instalación de vallas publicitarias cuando el inmueble cuente con otro tipo de anuncio. Estos anuncios no podrán instalarse en las zonas de restricción que indiquen los planos de alineamientos, números oficiales y derechos de vía ni en los cajones de estacionamiento y accesos;
+
+X. No se permitirá instalar este tipo de anuncios en la zona a que hace referencia el apartado relativo a la Zona de Monumentos del Capítulo de Construcciones, ni a "una distancia menor de 200 metros medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en esta fracción;
+
+XI. No se permitirá la colocación de vallas publicitarias en centros o plazas comerciales; y
+
+XII. No se permitirá la colocación de vallas publicitarias en infraestructura urbana.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 1270 Quáter.
+
+El Ayuntamiento, a través de la Agencia, determinará el lugar específico para la colocación de las vallas publicitarias, previo Dictamen de Protección Civil y sólo dentro de las Zonas Publicitarias.
 
 ###### Artículo 1271.
 
 Para la fijación, instalación, distribución, ubicación o modificación de los anuncios electrónicos de propaganda se deberá cumplir con lo siguiente:
 
-I. Los anuncios podrán tener como dimensiones máximas 10.50 metros de longitud por 5.40 metros de altura;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-II. La distancia mínima entre un anuncio de éstos respecto de otro igual, o autosoportado, o de azotea, deberá ser de 200 metros, con una tolerancia de 10 metros a los extremos más cercanos;
+I. Los anuncios en sus carteleras podrán tener como dimensiones máximas 10.50 metros de longitud por 5.40 metros de altura;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+II. La distancia mínima entre un anuncio de éstos respecto de otro igual, o autosoportado, o valla publicitaria, deberá ser de 200 metros a los extremos más cercanos;
 
 III. El sistema de iluminación deberá tener un reductor que disminuya su luminosidad de las 19:00 a las 06:00 horas, del día siguiente;
 
@@ -15909,23 +17613,35 @@ VI. Las fuentes luminosas no deberán rebasar los 75 luxes;
 
 VII. No estará permitido este tipo de anuncios cuando se realicen cambios violentos en la intensidad de la luz, cuyos efectos penetren hacia el interior de las habitaciones;
 
-VIII. Sólo podrán instalarse en lugares donde no interfieran la visibilidad o el funcionamiento de señalizaciones oficiales de cualquier tipo, ni provoquen deslumbramiento a conductores de vehículos o a peatones; y
+VIII. Sólo podrán instalarse en lugares donde no interfieran la visibilidad o el funcionamiento de señalizaciones oficiales de cualquier tipo, ni provoquen deslumbramiento a conductores de vehículos o a peatones; y (sic)
 
-IX. No se permitirá que los anuncios o sus estructuras invadan físicamente o en su plano virtual la vía pública y/o los predios colindantes.
+IX. No se permitirá que los anuncios o sus estructuras invadan físicamente o en su plano virtual la vía pública y/o los predios colindantes;
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+X. La altura máxima en el caso de que este tipo de anuncio sea autosoportado será de 25 metros, medidos sobre el nivel de banqueta a la parte superior de las carteleras; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XI. Los anuncios electrónicos deberán situarse a una distancia mínima de 5.00 metros de los cables de alta tensión; (sic)
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1271 Bis.
 
-El Ayuntamiento, a través de la Dirección de Gestión, determinará el lugar específico para la colocación de los anuncios electrónicos de propaganda, previo dictamen que de éste haga la Unidad Operativa Municipal de Protección Civil.
+El Ayuntamiento, a través de la Agencia, determinará el lugar específico para la colocación de los anuncios electrónicos de propaganda, previo Dictamen de Protección Civil, y sólo dentro de las Zonas Publicitarias.
 
 ###### Artículo 1272.
 
 Para la fijación, instalación, distribución, ubicación o modificación de los anuncios de neón, se deberá cumplir con lo siguiente:
 
-I. Sus carteleras podrán tener un área de exhibición máxima de 12.90 metros de longitud por 7.20 metros de altura;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-II. La distancia mínima entre un anuncio de éstos respecto de otro igual, o autosoportado, o de azotea, deberá estar a 200 metros, con una tolerancia de 10 metros a los extremos más cercanos, independientemente del trazo de la vía pública;
+I. Sus carteleras podrán tener un área de exhibición máxima de 3.00 metros de longitud por 2.50 metros de altura. La altura total de la estructura cuando se trate de un anuncio autosoportado no deberá rebasar los 15 metros medidos del nivel de banqueta a la parte superior de las carteleras;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+II. La distancia mínima entre un anuncio neón respecto de otro igual, autosoportado, electrónico, espectacular, vallas publicitarias, o anuncios tipo tótem deberá estar a 200 metros, con una tolerancia de 10 metros a los extremos más cercanos, independientemente del trazo de la vía pública;
 
 III. No se permitirá instalar este tipo de anuncios en zonas históricas, arqueológicas, artísticas, en inmuebles catalogados por el Instituto Nacional de Antropología e Historia o el Ayuntamiento, ni a una distancia menor de 200 metros, medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en esta fracción;
 
@@ -15935,19 +17651,21 @@ V. Sólo podrán instalarse en lugares donde no interfieran la visibilidad o fun
 
 VI. No estarán permitidos este tipo de anuncios cuando su funcionamiento implique realizar cambios violentos en la intensidad de la luz, cuyos efectos penetren hacia el interior de las habitaciones; y
 
-VII. Este tipo de anuncios podrán ser autosoportados o de azotea, debiendo cumplir, además, con lo dispuesto en los artículos 1265 y 1266.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+VII. Este tipo de anuncios podrán ser autosoportados, debiendo cumplir, además, con lo dispuesto en el artículo 1264.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1272 Bis.
 
-El Ayuntamiento, a través de la Dirección de Gestión, determinará el lugar específico para la colocación de los anuncios de neón, previo dictamen que de éste haga la Unidad Operativa Municipal de Protección Civil.
+El Ayuntamiento, a través de la Agencia, determinará el lugar específico para la colocación de los anuncios de neón, previo Dictamen de Protección Civil, y sólo dentro de las Zonas Publicitarias.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1272 Ter.
 
-Para efectos del presente Capítulo, se entenderá por anuncio espectacular, a aquella estructura destinada a la colocación de propaganda publicitaria, sustentada por uno o más elementos que se encuentren apoyados o anclados directamente al piso de un predio, y en los que sus soportes, carátula o pantalla no tengan contacto con alguna edificación.
+Para efectos del presente Capítulo, se entenderá por anuncio espectacular, a aquella estructura destinada a la colocación de propaganda, sustentada por uno o más elementos que se encuentren apoyados o anclados directamente al piso de un predio, y en los que sus soportes, carátula o pantalla no tengan contacto con alguna edificación.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -15975,33 +17693,39 @@ IV. No se permitirán anuncios de este tipo en lugares que afecten inmuebles des
 
 V. Solo se permitirán este tipo de anuncios en lugares en donde no se interfiera la visibilidad o funcionamiento de las señalizaciones oficiales de cualquier tipo;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VI. Obtener la autorización correspondiente por parte de la Dirección de Gestión;
-
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
-
-VII. Queda estrictamente prohibido instalar en el Municipio de Puebla, anuncios cuyas dimensiones excedan de las medidas establecidas en la fracción I de este artículo; y
+VI. Obtener la Licencia correspondiente de la Agencia;
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
-VIII. Las demás que a juicio de la Autoridad correspondiente sean requeridas.
+VII. Queda estrictamente prohibido instalar en el Municipio de Puebla, anuncios cuyas dimensiones excedan de las medidas establecidas en la fracción I de este artículo; y (sic)
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VIII. Los anuncios espectaculares deberán situarse a una distancia mínima de 5.00 metros de los cables de alta tensión; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IX. Las demás que a juicio de la Autoridad correspondiente sean requeridas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1272 Quinquies.
 
-La autorización para la instalación de los anuncios espectaculares, quedará a cargo de la Dirección de Gestión, previo dictamen de factibilidad que haga la Unidad Operativa Municipal de Protección Civil.
+El Ayuntamiento, a través de la Agencia, determinará el lugar específico para la instalación de los anuncios espectaculares, previo Dictamen de Protección Civil, y sólo dentro de las Zonas Publicitarias.
 
-La vigencia de la autorización a la que hace referencia el párrafo anterior, quedará a consideración de la Dirección de Gestión. Una vez que haya concluido el término por el que se expidió dicha autorización, el particular autorizado, tendrá una prórroga de diez días naturales para retirar el espectacular, sin que genere gasto alguno por concepto de infracciones o pago de derechos por parte del mismo; posterior a ese plazo, será la autoridad quien lleve a cabo el retiro de la estructura, con cargo a dicho titular, así como de las infracciones y pago de derechos a los que se haga acreedor.
+Una vez que haya concluido el término por el que se expidió la Licencia correspondiente, el propietario, poseedor, titular y/o responsable solidario tendrá una prórroga de diez días naturales para retirar el espectacular, sin que genere gasto alguno por concepto de infracciones o pago de derechos por parte del mismo; transcurrido ese plazo, será la Autoridad quien lleve a cabo el retiro de la estructura, con cargo a dicho titular, así como las multas que se impongan y el pago de derechos a los que se haga acreedor.
 
-El Titular de la autorización, al momento de realizar el retiro del espectacular, deberá notificar a la Dirección de Gestión, así como a la Unidad Operativa Municipal de Protección Civil, con una anticipación de cuando menos de cinco días hábiles a los trabajos que se llevarán a cabo con motivo de dicho retiro.
+El titular de la Licencia, al momento de realizar el retiro del espectacular, deberá notificar a la Agencia, así como a la Unidad Operativa Municipal de Protección Civil, con una anticipación de cuando menos cinco días hábiles al inicio de los trabajos que se llevarán a cabo con motivo de dicho retiro.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1273.
 
-En los anuncios mixtos, la marca, logotipo o signo distintivo de la persona física o moral patrocinadora podrá estar integrado a un anuncio denominativo, siempre y cuando el patrocinio sea menor al cincuenta por ciento de la superficie del mismo.
+En los anuncios mixtos, la marca, logotipo o signo distintivo de la persona física o jurídica patrocinadora podrá estar integrado a un anuncio denominativo, siempre y cuando el patrocinio sea menor al cincuenta por ciento de la superficie del mismo.
 
-Los anuncios mixtos podrán ser: adosados; autosoportados; en azotea; en saliente, volados o colgantes; en marquesinas y en objetos inflables.
+Los anuncios mixtos podrán ser: adosados, autosoportados, en saliente, volados o colgantes, en marquesinas y en objetos inflables.
 
 ###### Artículo 1274.
 
@@ -16011,15 +17735,111 @@ El mobiliario urbano podrá contar con espacios para anuncios a título accesori
 
 Los espacios destinados para la publicidad en el mobiliario urbano, serán determinados de acuerdo al diseño, dimensiones y ubicación del mueble, mismos que serán analizados, evaluados y, en su caso, aprobados por el Ayuntamiento en apego a lo establecido en el presente Capítulo y demás disposiciones jurídicas, administrativas y técnicas aplicables.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1276.
 
-Sólo se permitirá instalar publicidad a aquellas personas físicas o morales las que se le rente o concesione la publicidad de puentes peatonales, sujetándose a las disposiciones del presente Capítulo en materia técnica y presentando propuesta de la estructura y tipo de publicidad a instalar, la cual será instalada una vez autorizada por el Ayuntamiento.
+Sólo se permitirá instalar publicidad a aquellas personas físicas o jurídicas las que se le rente o concesione la publicidad de puentes peatonales, sujetándose a las disposiciones del presente Capítulo en materia técnica y presentando propuesta de la estructura y tipo de publicidad a instalar, la cual será instalada una vez autorizada por el Ayuntamiento, y cubriendo lo siguiente:
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+I. Los anuncios en puentes peatonales deberán ser instalados en la parte superior de los túneles, y por ningún motivo en los paramentos de los parapetos;
+
+II. Las estructuras de los anuncios deberán estar integradas al diseño del puente, y no rebasar los 2.50 metros de altura a partir de la parte superior del túnel;
+
+III. Las estructuras de los anuncios deberán sujetarse a lo referido en los artículos 1295 y 1296 del presente Código; y
+
+IV. Queda prohibida la colocación de anuncios ocupando toda la longitud del túnel del puente. El espacio publicitario alojará un máximo de cuatro anuncios en dos carteleras con una dimensión máxima de 2.50 metros de altura por 7.00 metros de largo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 1276 Bis.
+
+Para la fijación, instalación, distribución, ubicación o modificación de anuncios en mantas se deberá cumplir con lo siguiente:
+
+I. Sólo se colocarán mantas en los mantódromos, en las fachadas de los centros o plazas comerciales y en las fachadas de los inmuebles;
+
+II. Las mantas que se coloquen en los mantódromos contarán con una medida reglamentaria de hasta 5.00 metros de longitud por 2.00 metros de altura;
+
+III. El anunciante, propietario, poseedor, titular y/o responsable solidario retirará a su costa la manta en un plazo no mayor a veinticuatro horas posteriores al vencimiento del Permiso para el que se autorizaron. En caso contrario la Autoridad procederá al retiro con cargo al particular, sin considerar las sanciones correspondientes;
+
+IV. Se colocarán mantas sin gabinetes e iluminación integrada;
+
+V. El material que se utilice tendrá las siguientes características:
+
+a) Deberá ser flexible sin bastidor;
+
+b) Deberá utilizarse sustrato de polietileno de baja densidad;
+
+c) Se utilizarán tintas UV (ultravioleta, que no utiliza solventes tradicionales de petróleo);
+
+d) Contará con tensores de plástico reciclables; y
+
+e) Deberá utilizarse termosellado en su construcción.
+
+VI. Queda prohibida la colocación de mantas en muros de colindancia; en barandales de los centros o plazas comerciales para anunciar los servicios y promociones; en postes de concreto o de madera pertenecientes a personas físicas o jurídicas de derecho público o privado; Señales Informativas de Destino (SID); semáforos; árboles y vegetación en general; postes de señalética vial, informativa y turística; puentes peatonales y vehiculares;
+
+VII. Por cuanto hace a la fachada, se prohíbe la colocación de mantas que rebasen los 2.00 de altura por 4.00 metros de longitud;
+
+VIII. Queda prohibido colocar más de una manta por sección en el mantódromo; y
+
+IX. No se permite la instalación de mantas que cubran los vanos de las fachadas, ni aquéllas que ocupen más del treinta por ciento de la superficie de la misma; así mismo no deberán obstaculizar la visibilidad al interior o al exterior.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1277.
 
-La Dirección de Gestión, expedirá la autorización respectiva para la colocación de anuncios publicitarios en los bastidores que para tal fin, haya destinado el propio Ayuntamiento.
+Los espectáculos que se anuncien por medio de pegotes requerirán de Permiso de la Agencia para instalarse en los paneles colocados ex profeso para ello por parte del Ayuntamiento o en los muebles colocados por las empresas a las que se les concesione la explotación de este tipo de publicidad. Bajo ninguna circunstancia se podrán colocar sobre otra superficie, mobiliario urbano, infraestructura o fachadas de los inmuebles. Las medidas de cada cartel no podrán rebasar los 0.60 metros de longitud por 0.80 metros de altura.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 1277 Bis.
+
+Para la fijación, instalación, distribución, ubicación o modificación de los pendones se deberá cumplir con lo siguiente:
+
+I. Contarán con una medida reglamentaria de hasta 0.80 centímetros de longitud por 1.60 metros de altura;
+
+II. El material que se utilice tendrá las siguientes características:
+
+a) Deberá ser flexible sin bastidor;
+
+b) Deberá utilizarse sustrato de polietileno de baja densidad;
+
+c) Se utilizarán tintas UV (Ultravioleta, que no utiliza solventes tradicionales de petróleo);
+
+d) Contará con tensores de plástico reciclables; y
+
+e) Deberá utilizarse termosellado en su construcción.
+
+III. El propietario de la Licencia se sujetará al número de pendones autorizados por la Agencia;
+
+IV. Los pendones serán sujetados de la parte superior e inferior de la estructura colocada en el poste de alumbrado público;
+
+V. Los pendones serán retirados a costa del propietario o responsable solidario en un plazo no mayor a veinticuatro horas posteriores al término de la autorización. En caso contrario serán retirados por la Autoridad con cargo al particular sin excepción de las sanciones correspondientes; y
+
+VI. Bajo ninguna circunstancia se permitirá la colocación de pendones sin autorización.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 1277 Ter.
+
+Se prohíbe la colocación de pendones en los siguientes supuestos:
+
+I Cuando excedan en el número de pendones autorizados;
+
+II. Se coloque más de un pendón por luminaria;
+
+III. Se coloquen pendones en espacios ocupados por otro anunciante que cuente con autorización;
+
+IV. Obstruyan la visibilidad de la nomenclatura y señalética de cualquier tipo existente, así como la circulación vial y peatonal;
+
+V. Se coloque publicidad que no corresponda a la medida reglamentaria;
+
+VI. Se utilice madera como soporte, grapas metálicas para fijar el sustrato y alambre para sujetarlo a los postes;
+
+VII. Se utilicen materiales que no sean reciclables;
+
+VIII. Se instalen pendones con gabinete e iluminación integrada; y
+
+IX. Se coloquen pendones en postes de concreto o de madera pertenecientes a personas físicas o jurídicas de derecho público o privado; Señales Informativas de Destino (SID); semáforos; árboles y vegetación en general; postes de señalética vial, informativa y turística; así como en puentes peatonales y vehiculares.
 
 ###### Artículo 1278.
 
@@ -16033,27 +17853,43 @@ III. Inciten a la comisión de algún delito o perturben el orden público;
 
 IV. Empleen los símbolos patrios con fines comerciales, salvo para su promoción, exaltación y respeto, de conformidad con la Ley sobre el Escudo, la Bandera y el Himno Nacional;
 
-V. Interfieran la visibilidad de la circulación vial y peatonal;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+V. Obstruyan la visibilidad de la nomenclatura y señalética de cualquier tipo existente, así como la circulación vial y peatonal;
 
-VI. La Dirección de Gestión, solo podrá autorizar, previo dictamen de factibilidad que emita al respecto la propia instancia y en los lugares destinados para tal fin, que se localicen en los muebles que forman o constituyen el mobiliario urbano, la instalación de anuncios dentro de la zona a que se hace referencia en el apartado relativo a la Zona de Monumentos del Capítulo de Construcciones, así como a una distancia menor de 200 metros medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en esta fracción;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VII. Sea publicidad de tipo político o electoral, fuera de plazos y fechas de elecciones oficiales o bien fuera de los plazos y lugares específicos convenidos con las autoridades electorales correspondientes; y (sic)
+VI. Se ubiquen dentro de la Zona de Monumentos, así como cuando no cumplan con una distancia menor de 200 metros medidos en proyección horizontal a partir de los límites de las zona referida o de las fachadas de los inmuebles ubicados dentro de la misma; excepto cuando la Agencia autorice su colocación siguiendo lo establecido en este Código Reglamentario, previa autorización del Instituto Nacional de Antropología e Historia;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VII. Sean anuncios de tipo político o electoral, fuera de los plazos y lugares específicos convenidos con las Autoridades electorales correspondientes;
 
 VIII. Se empleen materiales adhesivos, pegotes, carteles o cualquier otro tipo de materia que al colocarse requiera de algún pegamento especial y acelere el detrimento de la imagen urbana y del mismo mobiliario;
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
-IX. Cuando la publicidad exceda en dimensiones respecto de los lugares destinados para tal fin, en el mobiliario urbano.
+IX. Cuando la publicidad exceda en dimensiones respecto de los lugares destinados para tal fin, en el mobiliario urbano;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+X. Se coloquen en espacios ocupados por otro anunciante que cuente con Licencia;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XI. Se exceda el número de anuncios autorizados; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XII. En caso de contar con iluminación integrada, no cuenten con el medidor correspondiente de la Comisión Federal de Electricidad.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1279.
 
-Solo podrán instalar anuncios en mobiliario urbano, las personas físicas o morales que cuenten con la autorización correspondiente para explotar dichos espacios, misma que deberá ser expedida, previo estudio y análisis correspondiente por parte de la Dirección de Gestión, y de conformidad con las disposiciones contenidas en el presente Capítulo.
+Sólo podrán instalar anuncios en mobiliario urbano, las personas físicas o jurídicas que cuenten con la autorización correspondiente para explotar dichos espacios, misma que deberá ser expedida por la Autoridad correspondiente, previo estudio y análisis correspondiente por parte de la Agencia, y de conformidad con las disposiciones contenidas en el presente Capítulo.
 
-Se considera también mobiliario urbano, todos aquellos muebles y equipamiento que se encuentre concesionado, rentado o administrado a una persona o empresa. De igual manera deberán sujetarse al presente Capítulo todo aquel mobiliario o equipamiento ubicado en la vía pública municipal o áreas de uso común, que contengan publicidad o anuncio alguno.
+Se considera también mobiliario urbano, todos aquellos muebles y equipamiento que se encuentren concesionados, rentados o administrados a una persona o empresa. De igual manera deberán sujetarse al presente Capítulo todo aquel mobiliario o equipamiento ubicado en la vía pública municipal o áreas de uso común, que contengan publicidad o anuncio alguno.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
@@ -16061,17 +17897,21 @@ Se considera también mobiliario urbano, todos aquellos muebles y equipamiento q
 
 El Ayuntamiento, a través del Presidente Municipal, para fines de colocación de cualquier tipo de anuncios publicitarios, estará facultado para celebrar convenios o contratos, por concepto de concesión, renta o administración de los muebles que forman parte o constituyan el mobiliario urbano, pudiendo recibir como contraprestaciones beneficios en especie, las cuales, en ningún caso deberán ser menores al monto por la autorización o permiso o cuando éstas sean en detrimento del patrimonio municipal.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1280.
 
-Para la instalación de anuncios y publicidad sobre los espacios destinados en el mobiliario urbano distintos a los señalados en el presente Capítulo, el Ayuntamiento, a través de la Dirección de Gestión, valorará y en su caso, aprobará dicha colocación, previo dictamen técnico que de esos lugares haga la Dirección mencionada.
+Para la instalación de anuncios y publicidad sobre los espacios destinados en el mobiliario urbano, distintos a los señalados en el presente Capítulo, la Agencia valorará y en su caso, aprobará dicha colocación, previo Dictamen de Factibilidad.
 
-DE LAS ESPECIFICACIONES TÉCNICAS EN VEHÍCULOS PARTICULARES Y DEL SERVICIO DE TRANSPORTE
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+DE LOS VEHÍCULOS QUE PORTEN PUBLICIDAD
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1281.
 
-Los anuncios en vehículos Particulares y del Servicio de Transporte Público o Privado deberán sujetarse a lo siguiente:
+Los anuncios en vehículos que porten publicidad deberán sujetarse a lo siguiente:
 
 I. Todos los elementos constitutivos que integran el anuncio deben fabricarse con materiales incombustibles, anticorrosivos, no higroscópicos y de gran resistencia; deberán soportar las condiciones ambientales y tener una vida útil mínima de doce meses a partir de su instalación;
 
@@ -16081,37 +17921,45 @@ III. No se podrá alterar la visibilidad desde el interior y exterior del vehíc
 
 IV. Los acabados superficiales, no deberán deslumbrar a los peatones y a los conductores de otros vehículos;
 
-V. No podrán sobreponerse, bloquear o cubrir la información dirigida tanto a los pasajeros como al operador de la unidad vehicular, sobre la orientación, las obligaciones, la operación, señales luminosas, conductos de ventilación y los dispositivos de seguridad;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+V. No podrán sobreponerse, bloquear o cubrir la información referente a la orientación, las obligaciones, la operación, señales luminosas, conductos de ventilación y los dispositivos de seguridad;
 
-VI. Queda prohibido bloquear o tapar las placas de circulación, número de concesión, número de folio, grafismos de la ruta y las inscripciones de identificación del sistema de transporte al que pertenecen;
+VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
-VII. Los instalados en el interior del habitáculo de los vehículos deben estar fuera del ángulo visual de sus operadores;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VIII. No se permitirá instalar anuncios en superficies laminadas interiores, de toldos, posteriores, vestiduras de asientos o piso de los vehículos, excepto los accesorios sujetos a una base o al respaldo del asiento del conductor;
+VII. Los anuncios instalados en los vehículos deberán estar fuera del ángulo visual de sus operadores; y
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-IX. En minibuses y autobuses, podrán instalarse hasta dos tipos de anuncios en el interior y exterior, en el caso de los vehículos del Transporte Público, para efectos de anuncios colocados en el exterior, estos solo se permitirá instalarlos en la parte posterior exterior de los mismos, debiéndose observar las disposiciones establecidas en el artículo 1289 del presente Capítulo, y que estos no cubran los datos descritos en la fracción VI de este artículo;
+VIII. No se permitirá instalar anuncios en superficies interiores.
 
-X. En taxis y bicicletas adaptadas sólo se autoriza la instalación de un tipo de anuncios en el exterior y un tipo en el interior por vehículo;
+IX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+X. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
-XI. En lo que respecta a los vehículos del Sistema de Transporte Público u otros organismos y empresas cuyos vehículos cuenten con especificaciones particulares de diseño, la instalación de anuncios se deberá ajustar a sus características y dimensiones específicas, con la autorización de la Secretaría de Comunicaciones y Transportes, así como del Ayuntamiento y su Secretaría de Seguridad Pública y Tránsito Municipal; y
+XI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
-XII. Para el caso de vehículos de transporte escolar o de personal, se autorizará únicamente la instalación de anuncios laterales y posteriores cumpliendo con las inscripciones oficiales que se señalen en los manuales o acuerdos de la materia.
+XII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1282.
 
-La base o estructura de los anuncios en vehículos del Servicio de Transporte Público deberán reunir las siguientes características:
+La base o estructura de los anuncios en vehículos que porten publicidad deberán reunir las siguientes características:
 
 I. Deberá ser de fácil instalación, fijación y mantenimiento, para el correcto funcionamiento de todos los elementos que la componen;
 
-II. En accesorios instalados en el exterior del vehículo deberá existir un aislamiento o sellado entre los elementos que componen al accesorio, para evitar la corrosión de piezas metálicas o un corto eléctrico en caso de contar con un sistema de iluminación o monitores de audio y video; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-III. No deberá impedir su drenado ni dificultar su limpieza, desmontaje o reposición en caso de mantenimiento.
+II. En accesorios instalados en el exterior del vehículo deberá existir un aislamiento o sellado entre los elementos que componen al accesorio, para evitar la corrosión de piezas metálicas o un corto eléctrico en caso de contar con un sistema de iluminación;
+
+III. No deberá impedir su drenado ni dificultar su limpieza, desmontaje o reposición en caso de mantenimiento;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IV. Las estructuras con anuncios de propaganda, montados sobre la carrocería o remolques, tendrán una altura máxima de 2.80 metros medidos desde la parte superior de la plataforma hasta la parte superior del anuncio, y un largo máximo de 4.50 metros sin sobrepasar las dimensiones del vehículo o remolque.
 
 ###### Artículo 1283.
 
@@ -16141,19 +17989,25 @@ III. No se utilizarán en las impresiones los colores en tonos fluorescentes.
 
 Los anuncios en toldos deberán sujetarse a lo siguiente:
 
-I. En taxis podrán ser en accesorios;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-II. En bicicletas adaptadas, vagonetas, minibuses y autobuses sólo podrán ser adheribles; y
+I. Únicamente podrán ser en accesorios;
 
-III. No deberán sobreponerse o bloquear a las inscripciones oficiales.
+II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
+
+III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 1286.
 
 Los anuncios en accesorios deberán observar, además de lo señalado en el artículo anterior, lo siguiente:
 
-I. La configuración de su estructura deberá ser aerodinámica, alterando en forma mínima su resistencia en el desplazamiento de la unidad;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-II. La estructura no deberá sobrepasar las dimensiones en largo y ancho del toldo; además deberá considerarse un espacio suficiente para las inscripciones oficiales en toldo. Su altura total deberá ser de 40 centímetros como máximo, a partir de la superficie del toldo;
+I. La configuración de su estructura deberá ser aerodinámica, alterando en forma mínima su resistencia en el desplazamiento del vehículo;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+II. La estructura no deberá sobrepasar las dimensiones en largo y ancho del toldo, su altura total deberá ser de 40 centímetros como máximo, a partir de la superficie del toldo;
 
 III. No deberá sobrepasar la altura máxima de su estructura;
 
@@ -16181,79 +18035,55 @@ VI. El voltaje y amperaje deberán ser los adecuados para la operación del sist
 
 (DEROGADO, P.O. 19 DE DICIEMBRE DE 2007)
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1289.
 
-Los anuncios en posteriores deberán sujetarse a lo siguiente:
+Los anuncios adheribles en exteriores deberán sujetarse a lo siguiente:
 
-I. En bicicletas adaptadas, minibuses y autobuses, únicamente se autorizarán los adheribles sobre las superficies laminadas de la concha posterior;
+I. En vehículos que porten publicidad, se autorizarán anuncios adheribles sobre las superficies laminadas exteriores;
 
-II. En las bicicletas adaptadas con medallón transparente, deberán tener como máximo 50 centímetros de ancho y podrán ubicarse a lo largo de la parte posterior, debajo del medallón; y
+II. Deberá evitarse el deterioro y la alteración de las especificaciones de fabricación de la carrocería;
 
-III. En minibuses y autobuses, con medallón transparente, se deberán ubicar inmediatamente abajo de éste, sin obstruir la visibilidad de los emblemas de identificación, los dispositivos de iluminación y reflejantes o la placa, y en la parte exterior, teniendo un ancho máximo de un metro y su largo se deberá adecuar a las dimensiones de cada modelo de unidad.
+III. Deberán ubicarse los anuncios por debajo del medallón transparente, sin obstruir la visibilidad de los emblemas de identificación, los dispositivos de iluminación y ref1ejantes o la placa, adecuándose sus dimensiones al modelo de cada unidad;
+
+IV. Sólo se permitirá la incorporación del anuncio sobre las superficies laminadas de los costados del vehículo, la del toldo y de la concha posterior;
+
+V. No se autorizará la instalación parcial o total del anuncio sobre las ventanillas de los costados, medallones transparentes, parabrisas, concha anterior o frontal y en los dispositivos de iluminación y reflejantes;
+
+VI. Deberán tener una vida útil minima de un año y soportar las condiciones climatológicas del ambiente;
+
+VII. No deberán invadir, parcial o totalmente, los marcos de la ventanería, rozaderas, vueltas de salpicaderas, defensas, caras de llantas y rines, ni molduras; (sic)
 
 ###### Artículo 1290.
 
-Los anuncios en interiores deberán sujetarse a lo siguiente:
-
-I. No deberán interferir el libre acceso o desplazamiento de los usuarios;
-
-II. Queda prohibida la instalación de anuncios en el área del operador; y
-
-III. Queda prohibida la instalación de anuncios en la parte superior de puertas de ascenso y descenso.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 1291.
 
-Los anuncios adheribles en superficies laminadas de las dovelas:
-
-I. Se podrán instalar en minibuses, autobuses, y vehículos del Sistema de Transporte Público, considerándose como dovela a aquella superficie conformada interiormente en la intersección entre el toldo y los costados laterales del vehículo, y sus dimensiones serán de acuerdo al espacio disponible por tipo de unidad en que se coloquen; y
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
-
-II. La Secretaría de Seguridad Pública y Tránsito Municipal, podrá autorizar el número de anuncios a instalar. De acuerdo al área disponible que presente el interior del vehículo que se trate, y que estos no obstaculicen la visibilidad del chofer hacia el exterior y con ellos se ponga en riesgo la integridad de los usuarios.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 1292.
 
 Las pantallas con iluminación o electrónicas:
 
-I. Sólo podrán ubicarse en el interior de minibuses, autobuses taxis y vehículos del Sistema de Transporte Público, localizándose en espacios que no limiten el libre y seguro movimiento de los pasajeros y del conductor del vehículo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-II. El voltaje y amperaje necesarios para su operación, no deberán afectar el funcionamiento de la unidad y deberán contar además con un control de encendido y apagado independiente, de fácil acceso y con fusible como protección. Deberá preverse que la instalación eléctrica permanezca protegida, aislada y oculta; y
+I. Sólo podrán ubicarse en el exterior de vehículos que porten publicidad, localizándose en espacios que no limiten el libre y seguro movimiento del conductor del vehículo;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+II. El voltaje y amperaje necesarios para su operación, no deberán afectar el funcionamiento del vehículo y deberán contar además con un control de encendido y apagado independiente, de fácil acceso y con fusible como protección. Deberá preverse que la instalación eléctrica permanezca protegida, aislada y oculta; y
 
 III. Su sistema de fijación deberá evitar causar riesgos de seguridad a los usuarios, ya sea por su desprendimiento o por problemas eléctricos y tampoco podrán ser utilizadas como plataforma o base.
 
 ###### Artículo 1293.
 
-Los sistemas de audio y/o video:
-
-I. Sólo podrán instalarse en el interior de los autobuses, taxis y vehículos, localizándose en espacios que no obstruyan el libre y seguro movimiento de los pasajeros y del conductor del vehículo, en su caso, la instalación y el tamaño de estos dispositivos deberán cumplir los lineamientos en materia de anuncios que señale el Ayuntamiento;
-
-II. El voltaje y amperaje necesarios para su operación, no deberá afectar el funcionamiento de la unidad, y deberá contar además con un sistema automático de programación, con un control de encendido y apagado independiente, de fácil acceso y con un sistema de protección para la instalación eléctrica;
-
-III. La ubicación de esos dispositivos electrónicos en el vehículo, se hará según lo determinen en común acuerdo el Ayuntamiento y los organismos públicos de transporte correspondientes,
-
-IV. El sistema de fijación a la carrocería no deberá afectar las características constructivas de la unidad, ni causar riesgos de seguridad tanto a los usuarios como al operador, evitando el desprendimiento de soportes y monitores provocado por las fuerzas ejercidas por el movimiento del vehículo ni deberán ser utilizados como plataforma o base; y
-
-V. El contenido de la transmisión en los monitores de audio y video, deberá sujetarse a lo establecido en los lineamientos en materia de anuncios en vehículos de servicio de transporte.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 1294.
 
-Los anuncios integrales deberán sujetarse a lo siguiente:
-
-I. Sólo se autorizará la instalación de anuncios adheribles en autobuses;
-
-II. Deberán ser de material autoadherible, evitando el deterioro y la alteración de las especificaciones de fabricación de la carrocería;
-
-III. Sólo se permitirá la incorporación del anuncio sobre las superficies laminadas de los costados del vehículo, la del toldo y de la concha posterior;
-
-IV. No se autorizará la instalación parcial o total del anuncio sobre las ventanillas de los costados, medallones transparentes, parabrisas, concha anterior o frontal y en los dispositivos de iluminación y reflejantes;
-
-V. La pintura y/o componentes adheridos que conformen el anuncio no deberán invadir los marcos de la ventanería, rozaderas, vueltas de salpicaderas, defensas, caras de llantas y rines, ni molduras;
-
-VI. Deberán tener una vida útil mínima de un año y soportar las condiciones climatológicas del ambiente;
-
-VII. No deberán invadir, parcial o totalmente, los vidrios de las puertas de ascenso y descenso, en el caso de las puertas de descenso se podrá cubrir estas, tomando como referencia la parte baja de las ventanillas; y
-
-VIII. Los señalamientos de identificación de los vehículos deberán incorporarse sobre un fondo de color contrastante al anuncio, cumpliendo con la instalación, dimensión y tipografía especificada oficialmente.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 
 DE LA ESTRUCTURA DE LOS ANUNCIOS
 
@@ -16273,27 +18103,35 @@ III. Anuncios en marquesinas, con una dimensión de más de 3.60 metros de longi
 
 IV. Anuncios en Inmuebles y/o monumentos en construcción, remodelación o restauración, los que podrán proteger de los riesgos de estas obras cubriendo las fachadas de los mismos en su totalidad con lienzos de lona o materiales similares con publicidad, que permitan espacios y condiciones de iluminación y ventilación requeridas, siempre y cuando el 60 por ciento contenga la reproducción de sus fachadas y el otro 40 por ciento podrá utilizarse para la razón social o imagen corporativa del patrocinador. En el supuesto anterior, quedan prohibidos los anuncios de bebidas alcohólicas y cigarros así como los que inciten a la violencia, drogadicción y desintegración familiar.
 
-V. Anuncios que se ubiquen en azoteas, sin importar la dimensión de los mismos; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VI. Anuncios autosoportados con una altura mayor a 2.10 metros del nivel de banqueta a la parte inferior de la carátula.
+V. Anuncios en espectaculares, tipo tótem, en puentes peatonales o anuncios en vallas publicitarias; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VI. Anuncios autosoportados con una altura mayor a 2.50 metros del nivel de banqueta a la parte inferior de la carátula.
 
 PROCEDIMIENTO PARA LA OBTENCIÓN DE LICENCIAS
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1297.
 
-Para llevar a cabo la construcción, instalación, colocación, fijación, modificación, ampliación, retiro, desmantelamiento y en su caso, la demolición de estructuras que soportan o sustentan el anuncio, será necesario obtener licencia que expidan las Dirección de Gestión, previo dictamen de la Unidad Operativa Municipal de Protección Civil.
+Para llevar a cabo la construcción, instalación, colocación, fijación, modificación, ampliación, retiro, desmantelamiento y en su caso, la demolición de estructuras que soportan o sustentan el anuncio, será necesario obtener Licencia que expida la Dirección de Gestión, previo Dictamen de Protección Civil y Dictamen de Factibilidad.
 
 ###### Artículo 1298.
 
 Las licencias para la instalación de anuncios, se sujetarán a lo que establezca el presente Capítulo; el Capítulo de Construcciones; los Programas de Desarrollo Urbano del Municipio de Puebla; y las demás disposiciones jurídicas y administrativas aplicables.
 
+REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)
+
 ###### Artículo 1299.
 
-Se requiere la obtención de licencia para fijar, instalar, distribuir, ubicar o modificar anuncios cuando se trate de alguno de los que se precisan a continuación:
+Se requiere la obtención de Licencia por parte de la Agencia, para fijar, instalar, distribuir, ubicar o modificar anuncios, cuando se trate de alguno de los que se precisan a continuación:
 
-I. En azotea, autosoportados, en saliente, volados o colgantes, en marquesina o adosados y en lonas o materiales similares cuando requieran responsiva de Director Responsable de Obra y/o Corresponsable;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+I. Autosoportados, en saliente, volados o colgantes, en marquesina o adosados cuando requieran responsiva de Director Responsable de Obra y/o Corresponsables;
 
 II. De proyección óptica;
 
@@ -16303,33 +18141,51 @@ IV. De neón;
 
 V. En mobiliario urbano;
 
-VI. Mantas de 3.60 y hasta 5.60 metros de longitud por 90 centímetros y hasta 2.40 metros de altura;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VII. Banderolas de 3.60 y hasta 5.60 metros de altura por 90 centímetros y hasta 1.80 metros de longitud;
+VI. Anuncios espectaculares;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VII. Estructuras tipo tótem en centros o plazas comerciales;
 
 VIII. Todos aquellos que vayan a instalarse en inmuebles considerados como monumentos o colindantes a monumentos o en zona de monumentos con valor arqueológico, artístico o histórico;
 
-IX. Pintados sobre la superficie de los muros de colindancia de las edificaciones a que se refiere el artículo 1266 fracción I, de este ordenamiento; e
+IX. Pintados sobre la superficie de los muros de colindancia de las edificaciones a que se refiere el artículo 1266 fracción I, de este ordenamiento; e (sic)
 
-X. Instalados en tapiales; y
+X. Instalados en tapiales; y (sic)
 
-XI. Vehículos de Transporte público o privado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XI. Anuncios en puentes peatonales; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XII. Anuncios en vallas publicitarias.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1300.
 
-La solicitud de licencia a que se refiere este apartado, deberá ser suscrita por el publicista o persona física o moral que se va a publicitar o por el propietario o poseedor del inmueble y, en su caso, por el representante legal de las personas antes mencionadas; por el Director Responsable de Obra y/o Corresponsable, en caso de que se requiera.
+La solicitud de Licencia a que se refiere este apartado, deberá ser suscrita por el publicista o persona física o jurídica que se va a publicitar o por el propietario o poseedor del inmueble y, en su caso, por el representante legal de las personas antes mencionadas; por el Director Responsable de Obra y/o Corresponsable, en caso de que se requiera. La cual deber ser presentada debidamente requisitada ante la Agencia.
 
-Cuando sean varios los copropietarios del predio, el que deberá solicitar la licencia será el representante legal de estos.
+Cuando sean varios los copropietarios del predio, el que deberá solicitar la Licencia será el representante legal de éstos, previa autorización por escrito de todos los copropietarios.
 
 ###### Artículo 1301.
 
 La solicitud anterior deberá contener la siguiente información:
 
-I. Nombre, denominación o razón social del publicista o persona física o moral que se va a publicitar, del propietario o poseedor del inmueble donde se instalará el anuncio y, en su caso, de los representantes legales de las personas mencionadas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-II. Domicilio para oír y recibir notificaciones del titular de la licencia, del propietario o poseedor del inmueble donde se instalará el anuncio, de la persona física o moral que se va a publicitar o, en su caso, de sus respectivos representantes legales, y del Director Responsable de Obra o Corresponsable;
+I. Nombre, teléfono, denominación o razón social del publicista o persona física o jurídica que se va a publicitar, del propietario o poseedor del inmueble donde se instalará el anuncio y, en su caso, de los representantes legales de las personas mencionadas;
 
-III. Croquis de ubicación del inmueble en donde se pretenda colocar el anuncio;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+II. Domicilio para oír y recibir notificaciones, ubicado dentro del Municipio, del titular de la Licencia, del propietario o poseedor del inmueble donde se instalará el anuncio, de la persona física o jurídica que se va a publicitar o, en su caso, de sus respectivos representantes legales, y del Director Responsable de Obra o Corresponsable;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+III. Croquis de ubicación del inmueble en donde se pretenda colocar el anuncio, para el caso específico de pendones deberán señalarse las calles donde se pretenden colocar;
 
 IV. Fecha de instalación y, en su caso, de retiro; y
 
@@ -16347,7 +18203,9 @@ III. Documento con el que el titular de la Licencia, el propietario y el poseedo
 
 IV. Escritura pública inscrita en el Registro Publico de la Propiedad y del Comercio, con la que se acredite la propiedad del inmueble sujeto al otorgamiento de la licencia;
 
-V. Documento con el que se acredite la posesión derivada del inmueble sujeto al otorgamiento de la licencia;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+V. El documento con el que se acredite la propiedad, o en su caso, la posesión legal del inmueble sujeto al otorgamiento de la Licencia;
 
 VI. Cédula Fiscal del solicitante, propietario o poseedor, en la que conste el Registro Federal de Contribuyentes;
 
@@ -16361,11 +18219,15 @@ X. Cuando se requiera, copia de la autorización del Instituto Nacional de Antro
 
 XI. Proyecto arquitectónico, estructural y de instalaciones, firmado por el Director Responsable de Obra o Corresponsable;
 
-XI. (sic) Memorias de cálculo estructural y de instalaciones, suscritas por el Director Responsable de Obra o Corresponsable;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XII. Memorias de cálculo estructural y de instalaciones, suscritas por el Director Responsable de Obra o Corresponsable. En el caso de anuncios en puentes peatonales la memoria deberá considerar los cálculos que garanticen la seguridad y estabilidad del puente con las estructuras publicitarias;
 
 XIII. Memoria descriptiva de todos los elementos de la estructura, que incluya altura, dimensiones, materiales a emplear, número de carteleras y distancias a partir del alineamiento, suscritas por el titular de la licencia y el Director Responsable de Obra y/o el Corresponsable;
 
-XIV. Para la entrega de la licencia se deberá presentar el comprobante de pago de derechos, de conformidad con lo establecido en el Código fiscal y Presupuestario, así como la Ley de Ingresos Vigente, a excepción de los anuncios propios del establecimiento que se publicite, siempre que se encuentren instalados, fijados, adosados y cualquier otra forma de anuncio, en el mobiliario del establecimiento publicitado por el anuncio correspondiente, en cuyo caso no será necesario realizar el pago de los derechos a que se refiere esta fracción.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XIV. Para la entrega de la Licencia y la placa o folio se deberá presentar el comprobante de pago de derechos, de conformidad con lo establecido en el Código Fiscal y Presupuestario para el Municipio de Puebla, así como la Ley de Ingresos Vigente, a excepción de los anuncios propios del establecimiento que se publicite, siempre que se encuentren instalados, fijados, adosados y cualquier otra forma de anuncio, en el mobiliario del establecimiento publicitado por el anuncio correspondiente, en cuyo caso no será necesario realizar el pago de los derechos a que se refiere esta fracción;
 
 XV.- (DEROGADA, P.O. 27 DE MARZO DE 2006)
 
@@ -16375,35 +18237,51 @@ XVI.- (DEROGADA, P.O. 27 DE MARZO DE 2006)
 
 XVII.- Presentar póliza de seguro de responsabilidad civil y daños causados a terceros;
 
-XVIII. El dictamen técnico favorable en materia de protección civil, emitido por autoridad competente para los anuncios referidos en las fracciones I, III, IV, VIII y X del artículo 1299 de este Capítulo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+XVIII. El Dictamen de Protección Civil favorable para los anuncios referidos en las fracciones I, III, IV, VI, VII, VIII, X, Xl y XII del artículo 1299 de este Capítulo;
 
-XIX. El dictamen estructural favorable por parte de la Dirección de Gestión, tratándose de anuncios autosoportados y en azoteas; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+XIX. El Dictamen de Factibilidad favorable en todos los casos de anuncios fijos;
 
-XX. El dictamen estructural favorable por parte de la Dirección de Gestión, en todos los casos de anuncios fijos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+XX. Presentar fianza señalada en el artículo 1255 fracción IX del presente Código Reglamentario;
 
-La Dirección de Gestión no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXI. Licencia de Funcionamiento, para el caso de anuncios denominativos; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXII. Comprobante de domicilio e identificación oficial.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+La Agencia no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Los documentos deberán presentarse en original y copia, una vez que hayan sido cotejados se devolverán los documentos originales a quien solicite la Licencia.
 
 LOS ANUNCIOS QUE PUBLICITEN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1303.
 
-Las licencias tendrán una vigencia de hasta un año a partir de su otorgamiento y podrán ser revalidadas por la Dirección de Gestión previa inspección que realice dentro de los cinco días hábiles siguientes a la solicitud en la que se corrobore que no han cambiado las condiciones que originaron la expedición de la misma.
+Las Licencias tendrán una vigencia de hasta un año a partir de su otorgamiento y podrán ser refrendadas por la Agencia, previo pago de derechos de conformidad con lo establecido en el Código Fiscal y Presupuestario para el Municipio de Puebla, así como la Ley de Ingresos Vigente y previa realización de los dictámenes correspondientes, sin perjuicio del pago de derechos que el refrendo origine y de las facultades de verificación o inspección de las Autoridades competentes.
 
-La revalidación deberá solicitarse dentro de los quince días hábiles previos a la conclusión de la vigencia de la licencia.
+El refrendo deberá solicitarse a más tardar veinticinco días hábiles previos a la conclusión de la vigencia de la Licencia, debiendo el solicitante actualizar los requisitos señalados en el artículo 1302.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+En caso de no realizarlo en el término señalado se tendrá por no presentado debiéndose iniciar como si fuera la primera vez.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1304.
 
-Cuando la solicitud no reúna los requisitos previstos por este Capítulo, la Dirección de Gestión prevendrá al interesado para que en un término de cinco días hábiles, acredite el cumplimiento de los requisitos omitidos, debiendo notificarse la resolución al solicitante. Después del término señalado, si el interesado no da cumplimiento al requerimiento de la autoridad, la solicitud se tendrá por no presentada.
+Cuando la solicitud no reúna los requisitos previstos por este Capítulo, la Agencia prevendrá al interesado por una sola vez, para que en un término de cinco días hábiles siguientes a la notificación, acredite el cumplimiento de los requisitos omitidos. Después del término señalado, si el interesado no da cumplimiento al requerimiento de la Autoridad, la solicitud se tendrá por no presentada.
 
 ###### Artículo 1305.
 
@@ -16413,9 +18291,13 @@ No se autorizarán las licencias de los anuncios que no se encuentren considerad
 
 No se concederá licencia cuando la responsiva haya sido otorgada por Director Responsable de Obra o Corresponsable que se encuentre suspendido en el ejercicio de sus funciones por la autoridad competente, o que no cuenten con el resello o refrendo correspondiente.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1307.
 
-Recibida la solicitud con la información y documentación completa, la autoridad correspondiente, en un plazo de hasta diez días hábiles, contados a partir del día siguiente al de la fecha de recepción de la misma, deberá expedir la licencia correspondiente o, en su caso, contestar de manera negativa, fundando y motivando su resolución.
+Recibida la solicitud con la información y documentación completa, la Agencia en un plazo de hasta diez días hábiles, contados a partir del día siguiente al de la fecha de recepción de la misma, deberá expedir la Licencia correspondiente o, en su caso, contestar de manera negativa, fundando y motivando su resolución.
+
+En caso de que la Agencia no emita la Licencia correspondiente dentro del término señalado, se tendrá por no otorgada.
 
 ###### Artículo 1308.
 
@@ -16429,15 +18311,29 @@ III. Trasmitir las obligaciones y derechos adquiridos con motivo de la expedici�
 
 IV. Enterar de la transmisión a la autoridad que expidió la licencia, en un plazo máximo de diez días hábiles a partir de que se efectuó el traspaso y presentar copia certificada en la que se acredite lo señalado en la fracción que antecede;
 
-V. Pagar los gastos que haya erogado El Ayuntamiento por virtud del retiro de anuncios;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+V. Pagar los gastos que haya erogado el Ayuntamiento por virtud del retiro de anuncios, en términos de lo dispuesto por el Código Fiscal y Presupuestario para el Municipio de Puebla;
 
 VI. Mantener vigente la póliza del seguro de responsabilidad civil y daños a terceros durante la permanencia del anuncio y su estructura;
 
-VII. Colocar en lugar visible del anuncio el número de la licencia;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VIII. Dar aviso por escrito a las autoridades correspondientes de la terminación de los trabajos de instalación del anuncio; y
+VII. Colocar en lugar visible del anuncio la placa o folio que contendrá el número de la Licencia;
 
-IX. Cumplir con las disposiciones contenidas en este Capítulo.
+VIII. Dar aviso por escrito a las autoridades correspondientes de la terminación de los trabajos de instalación del anuncio; y (sic)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IX. Retirar el anuncio cuando la Autoridad Municipal fundamente y motive las razones para su retiro;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+X. Acatar y ejecutar las recomendaciones que haga la Unidad Operativa Municipal de Protección Civil, quien estará facultada para revisar la estructura cuando considere pertinente; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XI. Cumplir con las disposiciones contenidas en este Capítulo.
 
 ###### Artículo 1309.
 
@@ -16445,29 +18341,51 @@ En los casos en que se requiera de la responsiva de un Director Responsable de O
 
 DE LOS PERMISOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1310.
 
-Se requiere obtener el permiso correspondiente para fijar, instalar, distribuir, ubicar o modificar los siguientes anuncios:
+Se requiere obtener de la Agencia el Permiso correspondiente para fijar, instalar, distribuir, ubicar o modificar los siguientes anuncios:
 
 I. Anuncios adosados con una dimensión de 1.80 hasta 3.60 metros de longitud por 90 centímetros de altura y cuyo peso sea hasta 50 kilogramos;
 
-II. Pintados sobre la superficie de las edificaciones con una dimensión de 1.80 hasta 3.60 metros de longitud por 90 centímetros de altura;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-III. Mantas con una dimensión de 1.80 hasta 3.60 metros de longitud por 90 centímetros de altura; únicamente en propiedad privada;
+II. Pintados sobre la superficie de las edificaciones con una dimensión que no exceda de 10.00 metros de longitud por 2.50 metros de altura;
 
-IV. Banderolas con una dimensión de 1.80 hasta 3.60 metros de altura por 90 centímetros de longitud;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+III. Mantas colocadas en inmuebles, en centros o plazas comerciales, o mantódromos propiedad del Ayuntamiento, bajo los supuestos señalados en el presente Capítulo;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IV. Anuncios perpendiculares a fachadas con una dimensión máxima de 1.20 metros de altura por 90 centímetros de ancho;
 
 V. En objetos inflables;
 
 VI. En saliente, volados o colgantes, siempre que la altura de su estructura de soporte sea de hasta 2.50 metros del nivel de banqueta a su parte inferior y su carátula no exceda de 45 centímetros de longitud por 45 centímetros de altura y un espesor de 20 centímetros;
 
-VII. Autosoportados, con una altura de hasta 2.50 metros del nivel de banqueta a su parte inferior; en estos casos la carátula no debe exceder de 90 centímetros de longitud por 1.20 metros de altura y un espesor de 20 centímetros; y
+VII. Autosoportados, con una altura de hasta 2.50 metros del nivel de banqueta a su parte inferior; en estos casos la carátula no debe exceder de 90 centímetros de longitud por 1.20 metros de altura y un espesor de 20 centímetros; y (sic)
 
-VIII. En marquesinas, con dimensiones de hasta 3.60 metros de longitud por 90 centímetros de altura y un espesor de 20 centímetros y cuyo peso sea de hasta 50 Kg.
+VIII. En marquesinas, con dimensiones de hasta 3.60 metros de longitud por 90 centímetros de altura y un espesor de 20 centímetros y cuyo peso sea de hasta 50 Kg;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IX. Para repartir anuncios impresos tales como volantes, panfletos, trípticos, dícticos y cualesquiera otros similares repartidos en la vía pública;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+X. Anuncios a través de pegotes, bajo los supuestos señalados en el presente Capítulo; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XI. Banderolas con una dimensión de hasta 1.50 metros de altura, cuya carátula no rebase los 60 centímetros de ancho.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1311.
 
-La solicitud de permiso a que se refiere este Capítulo, deberá ser suscrita por el propietario o poseedor del inmueble y el publicista o persona física o moral que se va a publicitar o sus representantes legales, en su caso, y se presentará debidamente requisitada en el Ayuntamiento dentro del polígono cuyo perímetro vaya a quedar colocado el anuncio.
+La solicitud de Permiso a que se refiere este Capítulo, deberá ser suscrita por el propietario o poseedor del inmueble y el publicista o persona física o jurídica que se va a publicitar o sus representantes legales, en su caso, y se presentará debidamente requisitada ante la Agencia.
 
 Cuando sean varios los copropietarios, quien lo deberá suscribir será el representante legal de estos.
 
@@ -16475,11 +18393,15 @@ Cuando sean varios los copropietarios, quien lo deberá suscribir será el repre
 
 La solicitud del permiso del anuncio deberá contener la siguiente información:
 
-I. Nombre, denominación o razón social del propietario o poseedor del predio donde se instalará el anuncio; del publicista; de la persona física o moral que se va a publicitar y en su caso, de los representantes legales de las personas mencionadas.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+I. Nombre, teléfono, identificación oficial, denominación o razón social del anunciante propietario, poseedor, titular y/o responsable solidario del predio donde se instalará el anuncio; del publicista; de la persona física o jurídica que se va a publicitar y en su caso, de los representantes legales de las personas mencionadas;
 
 Cuando sean varios los copropietarios, quien deberá suscribir el permiso será el representante legal de estos.
 
-II. Domicilio para oír y recibir notificaciones; de las personas citadas en la fracción anterior;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+II. Domicilio para oír y recibir notificaciones, ubicado dentro del Municipio; de las personas citadas en la fracción anterior;
 
 III. Ubicación del anuncio;
 
@@ -16493,23 +18415,59 @@ a) Cuando se actúe a través de un representante legal, el documento que acredi
 
 b) Información gráfica que describa la forma, dimensiones y demás elementos que constituyan el anuncio, así como las especificaciones técnicas y los materiales de que estará constituido, incluyendo los datos de altura sobre el nivel de la banqueta y para el caso de anuncios en colgantes, volados o en salientes, la saliente máxima desde el alineamiento del predio y desde el paramento de la construcción en la que quedará ubicado el anuncio;
 
-c) Para la entrega del permiso se debe presentar el comprobante de pago de derechos, a excepción de los anuncios propios del establecimiento que se publicite, siempre que se encuentren instalados, fijados, adosados y cualquier otra forma de anuncio, en el mobiliario del establecimiento publicitado por el anuncio correspondiente, en cuyo caso no será necesario realizar el pago de los derechos a que se refiere este inciso.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+c) Para la entrega del Permiso y la placa o folio se debe presentar el comprobante de pago de derechos de conformidad con lo establecido en el Código Fiscal y Presupuestario para el Municipio de Puebla, así como la Ley de Ingresos vigente, a excepción de los anuncios propios del establecimiento que se publicite, siempre que se encuentren instalados, fijados, adosados y cualquier otra forma de anuncio, en el mobiliario del establecimiento publicitado por el anuncio correspondiente, en cuyo caso no será necesario realizar el pago de los derechos a que se refiere este inciso;
 
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
 d) Presentar póliza de seguro de responsabilidad civil y daños causados a terceros;
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-La Dirección de Gestión no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+e) Presentar Fianza señalada en el artículo 1255 fracción IX del presente Código Reglamentario;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+f) El Dictamen de Protección Civil favorable para el caso de los anuncios establecidos en el artículo 1310 de este Código Reglamentario, excepto los señalados en la fracción IX y X;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+g) El Dictamen de Factibilidad favorable para el caso de los anuncios establecidos en el artículo 1310 de este Código Reglamentario, excepto los señalados en la fracción IX;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+h) Cuando se requiera, autorización del Instituto Nacional de Antropología e Historia;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+i) Copia de Licencia de Funcionamiento, para el caso de los anuncios denominativos; y
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+j) Comprobante de domicilio e identificación oficial.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+La Agencia no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Los documentos deberán presentarse en original y copia, una vez que hayan sido cotejados se devolverán los documentos originales a quien solicite el Permiso.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1313.
 
-Cuando la solicitud no reúna los requisitos previstos por este Capítulo, la autoridad prevendrá al interesado para que en un término de 5 días hábiles, presente los requisitos omitidos. Después del término señalado, si el interesado no da cumplimiento al requerimiento de la autoridad, la solicitud se tendrá por no presentada.
+Cuando la solicitud no reúna los requisitos previstos por este Capítulo, la Autoridad prevendrá al interesado, por una sola vez, para que en un término de cinco días hábiles siguientes a la notificación, presente los requisitos omitidos. Después del término señalado, si el interesado no da cumplimiento al requerimiento de la Autoridad, la solicitud se tendrá por no presentada.
 
 ###### Artículo 1314.
 
 Recibida la solicitud con la información y documentación completa, el Ayuntamiento en un plazo de diez días hábiles, contados a partir del día siguiente al de la fecha de recepción de la misma, deberá expedir el permiso correspondiente o, en su caso, contestar de manera negativa, fundando y motivando su resolución.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+En caso de que la Agencia no emita el Permiso correspondiente dentro del término señalado, se tendrá por no otorgado.
 
 ###### Artículo 1315.
 
@@ -16519,39 +18477,103 @@ I. Conservar el anuncio en condiciones de seguridad, estabilidad y mantenimiento
 
 II. Pagar los gastos que haya cubierto el Ayuntamiento y que se hubieren generado con motivo del retiro de anuncios.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1316.
 
-Los permisos para la instalación de anuncios, se sujetará a lo que establece el presente Capítulo; su vigencia será la que al efecto señale la Dirección de Gestión, en atención a las circunstancias y características del anuncio y podrán ser revalidados, excepto en los casos a que se refieren las fracciones III, IV y V del artículo 1310, que tendrá una vigencia máxima de 90 días.
+Los Permisos para la instalación de anuncios, se sujetarán a lo que establece el presente Capítulo; su vigencia será de hasta un año y podrán ser refrendados, previo pago de derechos de conformidad con lo establecido en el Código Fiscal y Presupuestario para el Municipio de Puebla, así como la Ley de Ingresos Vigente y previa realización de los dictámenes correspondientes, excepto en los casos a que se refieren las fracciones II, IlI, IV, V, IX, X y XI del artículo 1310 del presente ordenamiento, que tendrán una vigencia máxima de noventa días.
 
-DE LOS PERMISOS PUBLICITARIOS EN VEHÍCULOS DEL SERVICIO DE TRANSPORTE
+El refrendo deberá solicitarse a más tardar veinticinco días hábiles previos a la conclusión de la vigencia del Permiso, debiendo el solicitante actualizar los requisitos señalados en el artículo 1312.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+En caso de no realizarlo en el término señalado se tendrá por no presentado debiéndose iniciar como si fuera la primera vez.
+
+Recibida la solicitud con la información y documentación completa, la Agencia en un plazo de diez días hábiles contados a partir del día siguiente al de la fecha de recepción de la misma, deberá expedir el refrendo del Permiso correspondiente o en su caso, contestar de manera negativa, fundando y motivando su resolución.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+DE LOS PERMISOS PUBLICITARIOS EN VEHÍCULOS QUE PORTEN PUBLICIDAD
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1317.
 
-Las empresas interesadas en colocar publicidad en vehículos del servicio de transporte público o privado, deberán tramitar el permiso correspondiente ante la Dirección de Gestión.
+Las personas físicas o jurídicas interesadas en fijar, instalar, ubicar o colocar anuncios en vehículos que porten publicidad, que no estén destinados al servicio de transporte público o mercantil, deberán presentar solicitud de Permiso Publicitario, debidamente requisitada ante la Agencia previo Dictamen de Factibilidad.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1318.
 
-Recibida la solicitud con los requisitos, se calificarán los documentos anexados a la misma, dentro de los cinco días hábiles contados a partir del día siguiente de su recepción, emitiendo la respuesta correspondiente, dentro de un término no mayor a diez días hábiles, la cual deberá ser notificada al solicitante, en caso contrario la autoridad incurrirá en responsabilidad administrativa.
+Recibida la solicitud con los requisitos, se calificarán los documentos anexados a la misma, dentro de los cinco días hábiles contados a partir del día siguiente de su recepción, emitiendo la respuesta correspondiente, dentro de un término de diez días hábiles, contados a partir del siguiente día en que se hayan valorado los documentos; la cual deberá ser notificada al solicitante, en caso contrario la Autoridad incurrirá en responsabilidad administrativa.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
 En caso de que el interesado no cumpla con los requisitos establecidos, se le prevendrá para que desahogue los mismos en un término de cinco días hábiles, contados a partir del día siguiente de su notificación. Después del término señalado, si el interesado no da cumplimiento al requerimiento de la autoridad, la solicitud se tendrá por no presentada.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+En caso de que la Agencia no emita el Permiso Publicitario correspondiente dentro del término señalado, se tendrá por no otorgado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1319.
 
-Se requiere necesariamente de permiso publicitario para la instalación de anuncios en cada vehículo del servicio de transporte público o privado; así como, para el caso de los anuncios transmitidos a través de pantallas electrónicas, monitores de audio y video o pantallas planas, para lo cual se tramitará el permiso por sistema en cada vehículo.
+Se requiere necesariamente de Permiso publicitario para la instalación de anuncios en cada vehículo a ocupar.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1320.
 
-Los interesados en obtener el permiso publicitario, deberán presentar una solicitud por cada tipo de anuncio de acuerdo a su lugar de colocación.
+Los interesados en obtener el Permiso Publicitario, deberán presentar una solicitud por cada tipo de anuncio de acuerdo a su lugar de colocación, ante la Agencia.
+
+La solicitud debe contener la siguiente información:
+
+I. Nombre de la empresa, del anunciante, propietario o poseedor del vehículo o de su representante legal;
+
+II. Tipo de anuncio solicitado de acuerdo a su colocación, bien, producto o servicio a anunciar, número de Permisos solicitados y tiempo solicitado para portar los anuncios;
+
+III. Domicilio para recibir notificaciones, ubicado dentro del Municipio de Puebla; y
+
+IV. Fecha en que se presenta la solicitud y firma.
+
+A la solicitud se deberán anexar los siguientes requisitos:
+
+a) Relación en la que se especifique el número de placa de los vehículos que portarán los anuncios, la ruta por la que se realizará la publicidad, tipo de vehículo y modelo de los mismos;
+
+b) Original o copia certificada del contrato de arrendamiento o convenio que el publicista celebre con el propietario o poseedor del vehículo o con su representante legal, identificaciones de las personas que celebran dicho contrato o convenio, así como sus facultades legales para contratar u obligarse;
+
+c) Fotografía o dibujo a color, tamaño carta, que muestre el diseño del anuncio;
+
+d) En caso del que el bien, producto o servicio a anunciar, requiera de la autorización de otra Autoridad, se deberá presentar copia simple de la misma;
+
+e) Original y copia de la póliza de seguro de responsabilidad civil, tratándose de anuncios por accesorio en toldo, pantalla con iluminación o electrónica y anuncios que requieran estructura; y
+
+f) Para la entrega del Permiso se debe presentar el comprobante de pago de derechos.
+
+Además, de acuerdo al tipo de anuncio de que se trate deberá cumplir con los siguientes requisitos:
+
+1. Representación gráfica de las vistas superior, frontal y lateral de la estructura donde se coloque el anuncio, proyectado a escala con cortes y detalles, sobre hojas tamaño carta;
+
+2. Representación gráfica de la estructura y del anuncio proyectado, incluyendo una lista de partes que describan técnicamente los componentes, cantidad de piezas y materiales utilizados, aclarando los aspectos de uso y función, sobre hojas tamaño carta;
+
+3. Descripción escrita con los esquemas necesarios, que especifiquen los materiales de cada componente del anuncio y aclaren los aspectos de uso y función;
+
+4. Dictamen de Protección Civil favorable para el caso de anuncios que requieran la colocación de estructuras de soporte;
+
+5. Representación gráfica a color con su correspondiente descripción, de la vista superior, frontal, lateral y posterior del anuncio colocado en el vehículo propuesto, sobre hojas tamaño carta;
+
+6. Proceso de reposición del material publicitario instalado;
+
+7. Características de tintas y procesos de impresión de los anuncios;
+
+8. Descripción del sistema de ventilación; y
+
+9. Comprobante de domicilio e identificación oficial.
+
+Los documentos deberán presentarse en original y copia, una vez que hayan sido cotejados se devolverán los documentos originales a quien solicite el Permiso Publicitario.
 
 ###### Artículo 1321.
 
-Recibida la solicitud con los requisitos exigidos, valorará los documentos anexados a la misma, dentro de los siete días hábiles contados a partir del día siguiente de la recepción de la solicitud. En caso de que el interesado no cumpla con los requisitos establecidos, se le prevendrá para que desahogue los mismos en un término de cinco días hábiles, contados a partir del día siguiente de su notificación.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 1322.
 
@@ -16565,13 +18587,17 @@ Los permisos publicitarios tendrán una vigencia máxima de un año.
 
 En ningún caso se otorgarán permisos publicitarios cuando el modelo del vehículo de que se trate tenga una antigüedad superior a los diez años contados a partir de la fecha de solicitud del permiso publicitario.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1325.
 
-Cuando el concesionario o dueño del vehículo de servicio de transporte permita que se instalen anuncios sin contar con el permiso publicitario, se le aplicarán las sanciones económicas correspondientes.
+Cuando el publicista o propietario del vehículo, permita que se instalen anuncios sin contar con el Permiso Publicitario, se le aplicarán las sanciones correspondientes.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1326.
 
-Concluida la vigencia del permiso publicitario del anuncio deberá ser retirado y darse aviso al Ayuntamiento dentro de los tres días hábiles siguientes.
+Concluida la vigencia del Permiso Publicitario del anuncio deberá ser retirado en un término de tres días hábiles posteriores a la misma y darse aviso a la Agencia dentro de los tres días hábiles siguientes al día que se efectúe el retiro del mismo.
 
 ###### Artículo 1327.
 
@@ -16587,91 +18613,165 @@ III. Efectuar mantenimiento necesario al anuncio y medios de fijación para gara
 
 IV. Corresponsabilizarse de que los operadores de los vehículos en los que se exhiban los anuncios porten el original o copia certificada del permiso publicitario correspondiente;
 
-V. Anotar en el cuerpo del anuncio y en forma visible el número del permiso publicitario;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VI. Mantener actualizados los datos inscritos ante al Ayuntamiento; y
+V. Colocar en el cuerpo del anuncio y en forma visible la placa o folio correspondiente al Permiso Publicitario;
 
-VII. Informar al Ayuntamiento, del retiro de los anuncios.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+VI. Mantener actualizados los datos inscritos ante el Padrón de Anuncios;
 
-La Dirección de Gestión no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VII. Informar a la Agencia del retiro de los anuncios, dentro de los tres días hábiles posteriores a su retiro; y
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VIII. Presentar Fianza señalada en el artículo 1255 fracción IX del presente Código Reglamentario.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+La Agencia no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1328.
 
-Los titulares de permiso no podrán:
+Los titulares de Permisos Publicitarios no podrán:
 
-I. Instalar anuncios integrales en los vehículos que presten el servicio especializado de pasajeros;
+I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
 II. Instalar anuncios en los vehículos que presten el servicio de transporte de carga;
 
-III. Instalar anuncios en el interior de los vehículos que consideren el uso de toldos, y posteriores o vestiduras de asientos; con excepción de los sistemas de pantallas electrónicas y monitores de audio y/o video;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-IV. Instalar pantallas electrónicas y monitores de audio y video en el exterior del vehículo;
+III. Instalar anuncios en el interior de los vehículos que consideren el uso de toldos, y posteriores o vestiduras de asientos;
+
+IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
 V. Instalar pantallas electrónicas y monitores de audio y video en el interior del vehículo orientados al exterior;
 
-VI. Instalar anuncios en accesorios sobre toldos de autobuses, minibuses, vagonetas, y vehículos del Sistema de Transporte Público.
+VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
-VII. Instalar anuncios que oculten los números de identificación, logotipos o grafismos de la ruta de transporte de la unidad vehicular;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VII. Instalar anuncios que bloqueen u oculten las placas de circulación y demás elementos de identificación del vehículo;
 
 VIII. Instalar anuncios que invadan las ventanillas, medallón transparente, el parabrisas y la concha interior, en los dispositivos de iluminación y reflejantes, los marcos de la ventanería, rosaderas, vueltas de salpicaderas, defensas, molduras, caras laterales de llantas, rines y vidrios de puertas de ascenso.
 
-IX. Instalar anuncios integrales en vehículos del Sistema de Transporte Público, minibuses, vagonetas, taxis, bicicletas adaptadas y autobuses de transporte escolar o de personal;
+IX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
-X. Instalar o dar mantenimiento a anuncios en vehículos del Servicio de Transporte en vía pública, paraderos o sitios; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+X. Instalar o dar mantenimiento a anuncios en vehículos de transporte privado en la vía pública; y
 
 XI. Instalar anuncios con movimiento al interior o exterior del vehículo.
 
-DE LA NULIDAD Y REVOCACIÓN DE LA LICENCIA Y EL PERMISO
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 1328 Bis.
+
+Se presumirá que el anunciante se encuentra irregular cuando, a requerimiento de la Agencia, la Unidad de Normatividad y Regulación Comercial, la Unidad Operativa Municipal de Protección Civil y/o cualquier otra autoridad competente, haga caso omiso en proporcionar la información necesaria para efectos de control del Padrón de Anuncios.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+DE LA NULIDAD Y REVOCACIÓN
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1329.
 
-Son nulos y no surtirán efectos las licencias y permisos otorgados bajo los siguientes supuestos:
+Son nulos y no surtirán efectos las Licencias, Permisos y/o Permisos Publicitarios otorgados bajo los siguientes supuestos:
 
-I. Cuando los datos proporcionados por el solicitante resultaren falsos y con base en ellos se hubiera expedido la licencia y/o el permiso;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+I. Cuando los datos proporcionados por el solicitante resultaren falsos y con base en ellos se hubiera expedido la Licencia, Permiso y/o Permiso Publicitario;
 
 II. Cuando el funcionario que la hubiese otorgado carezca de competencia para ello; y
 
 III. Cuando se hubiera otorgado con violación manifiesta de un precepto a las diversas leyes aplicables en la materia y/o este Capítulo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1330.
 
-Las licencias y/o, permisos se revocarán en los siguientes casos:
+Las Licencias, Permisos y/o Permisos Publicitarios se revocarán en los siguientes casos:
 
 I. Cuando se incurra en algunos de los supuestos del artículo anterior;
 
 II. Cuando se le requiera al propietario o responsable efectuar trabajos de conservación del anuncio, y estos no se efectúen dentro del plazo que se le haya señalado;
 
-III. Si el anuncio se fija o se coloca en sitio distinto al autorizado en la licencia;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+III. Si el anuncio se fija o coloca en el sitio distinto al autorizado en la Licencia, Permiso y/o Permiso Publicitario;
 
 IV. Cuando con motivo de proyectos aprobados de obra pública, remodelación urbana, cambios de regulación en la zona en que está colocado el anuncio, u otras razones de interés público o de beneficio colectivo, el anuncio resultase prohibido o deba retirarse;
 
 V. Cuando se hubiera modificado oficialmente el uso de suelo del inmueble en el que se encuentra instalado el anuncio, haciéndolo incompatible;
 
-VI. El incumplimiento por parte del permisionario de cualquiera de las obligaciones que se establezcan en el presente Capítulo;
+VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
 VII. Enajenar en cualquier forma los derechos en ellos conferidos;
 
 VIII. No contar con póliza de seguro vigente, para indemnizar los daños motivo de la instalación de anuncios que causen a los usuarios, peatones o terceros en su persona y/o propiedad;
 
-IX. No cubrir las indemnizaciones por daños causados a los peatones, conductores y terceros, en su persona y/o propiedades con motivo de la fracción anterior; y
+IX. No cubrir las indemnizaciones por daños causados a los peatones, conductores y terceros, en su persona y/o propiedades con motivo de la fracción anterior; y (sic)
 
-X. Las contenidas en el presente Capítulo y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+X. Cuando no se señale el valor total del anuncio y estructura;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XI. En el caso de que incumpla con alguna de las cláusulas del convenio, cuando de anuncios en puentes peatonales o concesión de mobiliario urbano se trate;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XII. No contar con la fianza señalada en el artículo 1255 fracción IX;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XIII. No contar o efectuar medidas de seguridad preventivas o correctivas para evitar riesgos y daños que pudieran causar los anuncios, a las personas o sus bienes; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XIV. Las contenidas en el presente Capítulo y demás disposiciones aplicables.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1331.
 
-La revocación será dictada por la autoridad competente para la expedición de la licencia, permiso siguiendo el procedimiento administrativo de ejecución.
+La nulidad y revocación será dictada por la Agencia, debiendo sujetarse al siguiente procedimiento:
+
+I. Dará aviso por escrito y por una sola vez al anunciante, propietario, poseedor, titular y/o responsable solidario del anuncio, dándole a conocer la(s) irregularidad(es) y los elementos probatorios que la(s) sustenta(n);
+
+II. Le señalará un término de tres días hábiles siguientes a la notificación, para (sic) manifieste lo que a su derecho convenga y aporte las pruebas que estime procedentes; y
+
+III. La Agencia, una vez transcurrido el plazo a que se refiere el artículo anterior, dictará resolución dentro de los diez días siguientes, declarando la revocación o nulidad en su caso.
+
+La resolución respectiva podrá ser recurrida a través del recurso de inconformidad regulado por la Ley Orgánica Municipal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1332.
 
-Cuando los propietarios de los anuncios o los responsables solidarios, se opongan u obstaculicen el ejercicio de las facultades que tienen las autoridades consignadas en el presente Capítulo, estas últimas podrán en forma indistinta:
+Cuando los anunciantes, propietarios, poseedores, titulares y/o responsables solidarios de los anuncios, se opongan u obstaculicen el ejercicio de las facultades que tienen las Autoridades consignadas en el presente Capítulo, estas últimas podrán en forma indistinta:
 
-a) Imponer una multa de 500 veces el salario mínimo general vigente en el Municipio de Puebla;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+a) Imponer una multa de 30 hasta 1,000 veces el salario mínimo general vigente en el Municipio de Puebla al momento de determinarla;
 
 b) Solicitar el auxilio de la fuerza pública que permita la ejecución de la diligencia correspondiente; y
 
-c) Arresto hasta por 36 horas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+c) Imponer arresto hasta por treinta y seis horas, que será ejecutado por el Juez Calificador en términos de lo que dispone el Capítulo 9 del presente Código; pudiendo la Agencia requerir el auxilio de la Fuerza Pública.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 1332 Bis.
+
+El Ayuntamiento podrá realizar campañas y/o acciones tendientes a la regularización de los anuncios existentes en el Municipio de Puebla.
 
 DE LAS MEDIDAS DE SEGURIDAD
 
@@ -16679,9 +18779,11 @@ DE LAS MEDIDAS DE SEGURIDAD
 
 Las medidas de seguridad son acciones preventivas de ejecución inmediata, de carácter temporal, cuyo objetivo es evitar el daño a personas o bienes. En los casos en que así lo determine la autoridad, se aplicarán las sanciones previstas con cargo a los titulares de las licencias y/o permisos, y/o a los responsables solidarios. Su monto será considerado como crédito fiscal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1334.
 
-El Ayuntamiento podrá en cualquier etapa de la visita de verificación, ordenar las medidas de seguridad preventivas o correctivas para evitar riesgos y daños que pudieran causar los anuncios, a las personas o sus bienes, y consistirán en:
+El Ayuntamiento a través de sus Autoridades en materia de protección civil podrá en cualquier etapa de la visita de inspección, ordenar las medidas de seguridad preventivas o correctivas para evitar riesgos y daños que pudieran causar los anuncios, a las personas o sus bienes, y consistirán en:
 
 I. Ordenar el mantenimiento necesario para el anuncio;
 
@@ -16711,17 +18813,21 @@ III. Se aplicarán sin perjuicio de la responsabilidad civil o penal que pudiera
 
 DE LAS SANCIONES Y DE LOS MEDIOS DE DEFENSA
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1336.
 
-La aplicación del presente apartado, estará a cargo de la Dirección de Gestión, quien actuará a través de las autoridades competentes en la materia.
+La aplicación del presente apartado, estará a cargo de la Agencia.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+Serán responsables solidarios los servidores públicos que otorguen cualquier tipo de Licencia, Permiso y/o Permiso Publicitario vulnerando las disposiciones que rigen los anuncios o que cualquier forma, por acción u omisión contribuyan a evadir las disposiciones que rigen la materia de anuncios.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1336 Bis.
 
-En el caso de que el retiro de un anuncio sea efectuado por la autoridad, el material que resulte quedará bajo resguardo de la misma en el lugar que para el efecto se destine, hasta por un plazo de 2 meses contados a partir de la fecha en que se realice el retiro, a cuyo vencimiento se estará a lo dispuesto en el Código Fiscal y Presupuestario del Municipio de Puebla.
+En el caso de que el retiro de un anuncio sea efectuado por la Autoridad, el material que resulte quedará bajo resguardo de la misma en el lugar que para el efecto se destine, hasta por un plazo de tres meses contados a partir de la fecha en que se realice el retiro, a cuyo vencimiento se estará a lo dispuesto en el Código Fiscal y Presupuestario para el Municipio de Puebla.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 El material que resulte del retiro, podrá ser devuelto a quien lo solicite, debiendo acreditar:
 
@@ -16729,13 +18835,17 @@ a) Ser su Legítimo propietario;
 
 b) Efectuar el pago de la(s) multa(s) impuesta(s), y los gastos erogados por el Ayuntamiento en virtud del retiro de anuncio(s); exhibiendo el recibo correspondiente; y
 
-c) Realizar el pago por el servicio de almacenaje, en los términos establecidos en el Código Financiero del Municipio de Puebla.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+c) Realizar el pago por el servicio de almacenaje, en los términos establecidos en el Código Fiscal y Presupuestario para el Municipio de Puebla, vigente al momento de determinar los conceptos de ingresos correspondientes.
 
 ###### Artículo 1337.
 
 Para la imposición de las sanciones se tomará en cuenta la gravedad de la infracción cometida, la reincidencia del infractor, los costos de inversión del anuncio, los daños o perjuicios causados a terceros, el grado de afectación al interés público, el incumplimiento de las condiciones fijadas en la licencia, permiso o permiso publicitario, según sea el caso, el ocultamiento deliberado de la infracción y las circunstancias en que ésta se haya llevado a cabo.
 
-En el supuesto de que se determine aplicar como sanción el retiro de anuncios, con independencia de otras sanciones, ello deberá efectuarse por el titular de la licencia, permiso o permiso publicitario, así como por el propietario o poseedor del predio, en un término que no exceda las 24 horas siguientes a partir de la notificación que al efecto se realice. En caso de no cumplir con esta circunstancia, dicho retiro será efectuado por la autoridad con cargo al particular.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+En el supuesto de que se determine aplicar como sanción el retiro de anuncios, con independencia de otras sanciones, ello deberá efectuarse por el titular de la Licencia, Permiso y/o Permiso Publicitario, así como por el propietario o poseedor del predio y/o por el responsable solidario, en un término que no exceda de tres días hábiles siguientes a partir de la notificación que al efecto se realice. En caso de no cumplir con esta circunstancia, dicho retiro será efectuado por la Agencia con cargo al particular. Pudiendo seguirse el Procedimiento Administrativo de Ejecución en términos del Código Fiscal y Presupuestario para el Municipio y su Reglamento.
 
 ###### Artículo 1338.
 
@@ -16743,23 +18853,53 @@ La contravención a las disposiciones de este Capítulo, se sancionarán de la s
 
 I. Se aplicará amonestación con apercibimiento a los titulares de los permisos publicitarios, por violaciones a los artículos del 1281 al 1294;
 
-II. Multa de 10 a 20 días de salario mínimo general vigente en el Municipio de Puebla, por contravención a los artículos 1263, 1266, 1267 fracciones I a V, VII y VIII; 1272 y 1277;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-III. Multa de 20 a 30 días de salario mínimo general vigente en el Municipio de Puebla, por contravención a los artículos 1255, 1271, 1299 fracciones VI y VII, 1308 fracciones VIII y IX, 1310, 1315, 1316;
+II. Multa de 30 a 100 días de salario mínimo general vigente en el Municipio de Puebla al momento de determinarla, por contravención a los artículos 1263, 1266, 1267 fracciones I a V, VII y VIII, 1272, 1277,1278 fracciones I a VI y 1295;
 
-IV. Multa de 30 a 40 días de salario mínimo general vigente en el Municipio de Puebla, por hacer caso omiso a la amonestación o apercibimiento, en términos de la fracción I de este artículo, así como por la contravención a los artículos 1264 fracciones I, II y V, 1279, 1299 fracciones II a V y XI, 1308 fracciones I, II, III, IV, V, VI, VII, y X, 1325 y 1326;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-V. Multa de 30 a 50 días de salario mínimo general vigente en el Municipio de Puebla, por contravención a los artículos 1317, 1320, 1327 y 1328;
+III. Multa de 30 a 300 días de salario mínimo general vigente en el Municipio de Puebla al momento de determinarla, por contravención a los artículos 1255, 1271, 1299 fracción VIII, 1308 fracciones VIII y IX, 1309, 1310,1315 y 1316;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VI. Multa de 50 a 200 días de salario mínimo general vigente en el Municipio de Puebla, por contravención a los artículos 1264 en las fracciones no señaladas en la fracción IV de este artículo, 1265 fracciones III, IV, VI y VIII, 1270, 1272 quater, 1299 fracciones I, VIII y X;
+IV. Multa de 30 a 400 días de salario mínimo general vigente en el Municipio de Puebla al momento de determinarla, por hacer caso omiso a la amonestación o apercibimiento, en términos de la fracción I de este artículo, así como por la contravención a los artículos 1264 fracciones I, II y V, 1279, 1299 fracciones II a V, 1308 fracciones I a VII, X y XI, 1325 y 1326;
 
-VII. Multa de 100 a 120 días de salario mínimo general vigente en el Municipio de Puebla, a los anunciantes, quienes al contratar el espacio, deberán verificar que la empresa publicitaria cumpla con lo dispuesto en el presente Capítulo y que cuenta con licencia o permiso, según lo prevea el presente ordenamiento y los demás que le sean aplicables; y a las personas físicas o morales propietarias de los inmuebles y vehículos en los que se instale el anuncio, sin contar éste con la licencia, o permiso correspondiente;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VIII. Retiro del anuncio; cuando no cuente con licencia o permiso, expedido por la Autoridad respectiva; y
+V. Multa de 40 a 500 días de salario mínimo general vigente en el Municipio de Puebla al momento de determinarla, por contravención a los artículos 1317, 1320, 1327 y 1328;
 
-IX. Clausura del anuncio; cuando no cuente con licencia o permiso, expedido por la Autoridad respectiva.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VI. Multa de 150 a 1,200 días de salario mínimo general vigente en el Municipio de Puebla al momento de determinarla, por contravención a los artículos 1256, 1258, 1263-Bis, 1264 fracciones III, IV, VI, VII, VIII y IX, 1265, 1269, 1270, 1270 Ter, 1271, 1272 Quáter, 1273, 1299 fracciones I, VI, VII, IX, X, XI y XII;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VII. Multa de 150 a 1,500 días de salario mínimo general vigente en el Municipio al momento de determinarla, a los anunciantes, quienes al contratar el espacio, deberán verificar que la empresa publicitaria cumpla con lo dispuesto en el presente Capítulo y que cuenta con Licencia, Permiso y/o Permiso Publicitario, según lo prevea el presente ordenamiento y los demás que le sean aplicables; y a las personas físicas o jurídicas propietarias o poseedoras de los inmuebles y vehículos en los que se instale el anuncio, sin contar éste con la Licencia, Permiso y/o Publicitario Publicitario (sic) correspondiente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VIII. Clausura del anuncio en los supuestos señalados en los siguientes incisos:
+
+a) Clausura temporal cuando no haya tramitado el refrendo correspondiente en tiempo y forma;
+
+b) Clausura temporal en los casos señalados en los artículos 1330 fracciones VII, VIII, XII y XIII;
+
+c) Clausura definitiva cuando no cuente con Licencia, Permiso y/o Permiso Publicitario expedido por la Agencia;
+
+d) Clausura definitiva en los supuestos señalados en el artículo 1330 fracciones II, IX y XI; y
+
+e) La clausura definitiva origina subsecuentemente el retiro del anuncio.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IX. Retiro del anuncio en los siguientes casos:
+
+a) Cuando no cuente con Licencia, Permiso y/o Permiso Publicitario;
+
+b) Cuando la Agencia, haya determinado la clausura y el anunciante, propietario, poseedor, titular y/o responsable solidario del anuncio permanezca en una situación irregular y/o no haya pagado los derechos y multas a las que se hizo acreedor o en su caso haga caso omiso al cumplimiento de sus obligaciones; y
+
+c) Cuando se incurra en los supuestos señalados en los artículos 1329 fracciones I a IV; y 1330 fracciones III, IV y V.
 
 Independientemente de las sanciones previstas en las fracciones que anteceden, las unidades de transporte que cuenten con anuncios sin permiso publicitario, serán impedidas de circular y remitidas a los depósitos de guarda y custodia de vehículos infraccionados.
 
@@ -16769,7 +18909,9 @@ La reincidencia se sancionará con la imposición del doble de la multa impuesta
 
 Los responsables solidarios, a que se refiere el artículo 1256 de este ordenamiento, responderán por el pago de gastos y multas, que determine la autoridad competente, por las infracciones cometidas al presente Capítulo.
 
-Cualquier otra violación a las disposiciones del presente Capítulo, cuya sanción no esté expresamente prevista y que implique contravención grave al espíritu del presente Capítulo, se impondrá multa de 100 a 250 días de salario mínimo general vigente en el Municipio de Puebla. Se impondrá la multa señalada en el presente artículo y se procederá al retiro del anuncio con cargo al particular, cuando:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Cualquier otra violación a las disposiciones del presente Capítulo, cuya sanción no esté expresamente prevista y que implique contravención grave al espíritu del presente Capítulo, se impondrá multa de 200 a 2,500 días de salario mínimo general vigente en el Municipio de Puebla al momento de determinarla. Se impondrá la multa señalada en el presente artículo y se procederá al retiro del anuncio con cargo al particular, cuando:
 
 a) Con su instalación se cause perjuicio al interés social o se contravengan disposiciones de orden público.
 
@@ -16777,11 +18919,27 @@ b) Carezca de licencia y/o permiso.
 
 c) Se determine que por su estado físico constituye un riesgo para la integridad física o los bienes de las personas.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1338 Bis.
 
-Toda persona Física o Jurídica que no dé cumplimiento a la sanción impuesta por la autoridad competente, en un término de cinco días hábiles, contados a partir del día siguiente al que le fue impuesta la sanción, se procederá a retirar su propaganda publicitaria y los gastos que genere, serán a cargo de los infractores.
+Toda persona física o jurídica que no dé cumplimiento a la sanción impuesta por la Autoridad competente, en un término de cinco días hábiles, contados a partir del día siguiente al que le fue impuesta la sanción, se procederá a clausurar y retirar su propaganda y los gastos que genere, serán a cargo de los infractores.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 1338 Ter.
+
+La clausura se realizará ajustándose al procedimiento que se indica a continuación:
+
+I. Derivado de la visita de verificación o inspección, la Autoridad correspondiente dará cuenta a la Agencia del resultado de la misma, para que proceda a la realización del acuerdo de clausura correspondiente;
+
+II. La Agencia dará aviso por escrito y por una sola vez al anunciante, propietario, poseedor, titular y/o responsable solidario del anuncio, dándole a conocer la(s) irregularidad(es);
+
+III. Le señalará un término de tres días hábiles siguientes a la notificación, para (sic) manifieste lo que a su derecho convenga;
+
+IV. En caso de no hacer uso de la facultad señalada en la fracción anterior, se determinará y comunicará la nulidad y/o revocación correspondiente y en su caso la clausura definitiva y el retiro del anuncio; y
+
+V. La Agencia en un término de diez días hábiles contados a partir del día siguiente a aquél en que se haya dado aviso al anunciante, propietario, poseedor, titular y/o responsable solidario del anuncio dictará su resolución, confirmando o negando la clausura.
 
 ###### Artículo 1339.
 
@@ -16789,9 +18947,11 @@ Contra todos los actos de las autoridades competentes en relación con las dispo
 
 DE LA DENUNCIA
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1340.
 
-Toda persona física o moral podrá denunciar ante el Ayuntamiento, los hechos, actos u omisiones relacionados con los anuncios y sus estructuras que puedan poner en peligro la vida o la integridad física de las personas o causar daños a los bienes de terceros.
+Toda persona física o jurídica podrá denunciar ante el Ayuntamiento, los hechos, actos u omisiones relacionados con los anuncios y sus estructuras que puedan poner en peligro la vida o la integridad física de las personas o causar daños a los bienes de terceros.
 
 ###### Artículo 1341.
 
@@ -16805,17 +18965,19 @@ Dentro de los cinco días hábiles siguientes a la recepción de una denuncia ci
 
 DE LA PROPAGANDA POLÍTICA Y/O ELECTORAL
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1343.
 
-Los anuncios que se utilicen para propaganda política y/o electoral, se sujetarán a las disposiciones que al efecto disponga la Autoridad Municipal, de conformidad con los convenios que celebre con los diversos actores de este sector.
+Los anuncios políticos o electorales, se sujetarán a las disposiciones que al efecto disponga la Autoridad Municipal, de conformidad con los convenios que celebre con los diversos actores de este sector.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1343 Bis.
 
-Queda estrictamente prohibido fijar, instalar, y ubicar propaganda político electoral dentro del primer cuadro de la ciudad comprendido -“entre la 13 norte-sur a 14 norte-sur y de 18 oriente-poniente a 11 oriente-poniente”-, aun y cuando sean tiempos electorales, con la finalidad de salvaguardar el patrimonio histórico de la Ciudad de Puebla.
+Queda estrictamente prohibido fijar, instalar, y ubicar anuncios políticos o electorales dentro de la Zona de Monumentos a que se refiere el artículo 1186 fracción XXX de este Código, aun cuando sean tiempos electorales, con la finalidad de salvaguardar el patrimonio histórico de la Ciudad de Puebla.
 
-Quien infrinja lo dispuesto por el párrafo anterior, serán sancionados con una multa de 200 a 400 días de salario mínimo general vigente en el Municipio de Puebla.
+Quien infrinja lo dispuesto por el párrafo anterior, serán sancionados con una multa de 200 a 3,000 días de salario mínimo general vigente en el Municipio al momento de determinarla.
 
 ###### Artículo 1344.
 
@@ -16825,19 +18987,27 @@ Los anuncios de carácter político y/o electoral, que en cualquier tiempo se pr
 
 Para los efectos específicos de los anuncios relativos a la propaganda política y/o electoral, se considerará como solidario responsable, a aquella persona cuya imagen aparezca en los anuncios de índole político y/o electoral referidos; y responderá solidariamente ante la autoridad municipal por todos y cada uno de los efectos que se deriven del incumplimiento a las disposiciones del presente Código Reglamentario Municipal.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1346.
 
-Queda reservada a la Dirección de Gestión, la facultad para permitir la instalación en la forma, lugar y demás circunstancias, los anuncios relativos a propaganda política y/o electoral y demás anuncios de esta clase, conforme lo estime conveniente.
+La Agencia autorizará la instalación de anuncios políticos o electorales, conforme lo estime conveniente, siempre y cuando dicha autorización no contravenga las disposiciones del presente Código y demás disposiciones aplicables.
+
+La Agencia determinará los lugares de uso común para la colocación de anuncios electorales, en bastidores, mamparas y elementos de equipamiento urbano, siendo éstos los únicos sitios para la colocación de los mismos.
+
+La colocación de todo anuncio electoral que no esté ubicado en los lugares autorizados deberá pagar los derechos correspondientes.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1347.
 
-El Honorable Ayuntamiento de Puebla acordará lo que estime conveniente, a efecto de salvaguardar la imagen urbana, procurando desde luego, que en la Zona de Monumentos a que se refiere el Capítulo de Construcciones, no se coloque ningún tipo de anuncios relativos a propaganda política y/o electoral y que en las demás zonas del territorio del Municipio de Puebla, no se produzca contaminación visual ni colocación o fijación excesiva de este tipo de anuncios, independientemente de que la que sea colocada, deberá ser retirada por quienes tengan la calidad de responsables en términos del presente Capítulo, a más tardar en un término de 10 días.
+El Ayuntamiento acordará lo que estime conveniente, a efecto de salvaguardar la imagen urbana, procurando desde luego, que en la Zona de Monumentos declarada así mediante Decreto publicado en el Diario Oficial de la Federación de fecha dieciocho de noviembre de mil novecientos setenta y siete, no se coloque ningún tipo de anuncios políticos o electorales y que en las demás zonas del territorio del Municipio de Puebla, no se produzca contaminación visual ni colocación o fijación excesiva de este tipo de anuncios, independientemente de que la que sea colocada, deberá ser retirada por quienes tengan la calidad de responsables en términos del presente Capítulo, a más tardar en un término de diez días.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1348.
 
-En caso de incumplimiento a lo dispuesto en el artículo anterior, se sancionará con multa de cinco días de salario mínimo, en el entendido de que las infracciones al presente Capítulo relativos a la propaganda electoral, se sujetarán a lo dispuesto por el artículo 1344. Lo anterior, independientemente de las sanciones a que se hagan acreedores por virtud de la aplicación del presente Código Reglamentario.
+En caso de incumplimiento a lo dispuesto en el artículo anterior, se sancionará con multa de 1,000 días de salario mínimo general vigente en el Municipio al momento de determinarla, en el entendido de que las infracciones al presente Capitulo relativos a la propaganda electoral, se sujetarán a lo dispuesto por el artículo 1344 del presente ordenamiento. Lo anterior, independientemente de las sanciones a que se hagan acreedores por virtud de la aplicación del presente Código Reglamentario.
 
 ###### Artículo 1349.
 
@@ -16891,7 +19061,7 @@ III. Ayuntamiento: Máximo Órgano Colegiado que rige los intereses de un munici
 
 IV. Basura: Residuos sólidos que no tienen ningún uso y que no pueden ser comercializados, es decir, que no son reusables o reciclables y que se consideran como desechos;
 
-V. Centros de Acopio: Son los sitios donde se depositan, limpian, clasifican y comercializan los residuos sólidos con características reciclables o reusables;
+V. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
 VI. Colonia: División territorial del Municipio. En este Capítulo se entenderá por colonia también a los barrios y a los fraccionamientos;
 
@@ -17009,7 +19179,7 @@ I. Nombrar el personal necesario del Organismo y proporcionar en su caso, los el
 
 II. Aplicar las sanciones que correspondan por violaciones al presente Capítulo;
 
-III. Empadronar los centros de acopio;
+III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
 IV. Promover tipos de bolsas y empaques para el mejor manejo de la recolección de los residuos sólidos;
 
@@ -17241,41 +19411,19 @@ DE LOS CENTROS DE ACOPIO
 
 ###### Artículo 1372.
 
-La filosofía de operación de un centro de acopio corresponde a la de la libre empresa, por tal motivo estarán sujetos a la Ley de la oferta y la demanda que se tenga en el sitio donde se ubiquen, pero en todos los casos, los propietarios de un centro de acopio deberán almacenar los subproductos en condiciones higiénicas, tales que, no produzcan malos olores, fauna nociva y contaminación visual.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 1373.
 
-Los centros de acopio estarán clasificados como microcentros y macrocentros de acopio.
-
-I. Un microcentro de acopio se caracteriza por tener una capacidad no mayor a 250 metros cúbicos de almacenamiento y 5 metros de altura en su estibamiento; y
-
-II. Un macrocentro de acopio se caracteriza por tener una mayor capacidad de acopio de subproductos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 1374.
 
-Los centros de acopio, además de informar al Organismo trimestralmente sobre los volúmenes o toneladas manejadas por tipo de material, así como el destino de los mismos, deberán cumplir con los requisitos siguientes para ser autorizados:
-
-I. Un microcentro de acopio sólo tendrá que presentar su solicitud ante el Organismo, con objeto de realizar un padrón de los mismos; y
-
-En dicha solicitud se anotará el nombre del responsable, dirección del centro de acopio, superficie de ocupación, teléfono, subproductos a manejar, forma de transporte de los subproductos, horario de trabajo y carta de no objeción del representante de los colonos ante el Ayuntamiento o en su defecto de un supervisor del Organismo Operador de Limpia, para la operación del centro de acopio, y pagar los derechos e impuestos correspondientes si su funcionamiento lo exigiere.
-
-II. Un macrocentro de acopio, además de lo que marca la fracción anterior, deberá llenar los requisitos de un negocio establecido y deberá pagar puntualmente sus derechos e impuestos correspondientes. Si resulta ser una persona jurídica, deberá presentar una autorización y copia del acta constitutiva debidamente otorgada ante notario público.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 1375.
 
-Un centro de acopio podrá ser sancionado por el Organismo por las siguientes causas:
-
-I. Haberse convertido en un foco de infección y malos olores, por la acumulación y el manejo inadecuados de los subproductos;
-
-II. Recibir y almacenar materiales clasificados como residuos peligrosos;
-
-III. Transportar inadecuadamente los subproductos o esparcirlos en la vía pública;
-
-IV. Transportar y/o acopiar basura;
-
-V. No tener autorización del Organismo para operar; y
-
-VI. No rendir el informe trimestral sobre el volumen y destino del material reciclado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 
 DE LAS PROHIBICIONES
 
@@ -21957,9 +24105,9 @@ III. Corrección: Modificación de los procesos causales de deterioro ambiental 
 
 IV. Deterioro ambiental: Afectación de carácter negativo en la calidad del ambiente, en su conjunto o de los elementos que lo integran; la disminución de la diversidad biótica, así como la alteración de los procesos naturales en los sistemas ecológicos;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-V. Dirección de Gestión: Dirección de Gestión y Desarrollo Urbano Sustentable quien actúa a través de la Subdirección de Ecología y Medio Ambiente;
+V. Agencia: La Agencia de Protección al Ambiente y Desarrollo Sustentable del Municipio de Puebla;
 
 VI. Disposición Final: El depósito permanente de los residuos en sitios y condiciones adecuadas para evitar daños a los ecosistemas;
 
@@ -22031,7 +24179,9 @@ El presidente municipal podrá firmar convenios de diversa índole con la federa
 
 El H. Ayuntamiento por conducto del presidente municipal podrá suscribir convenios con los sectores privado y social con la finalidad de dar cumplimiento al presente Capítulo.
 
-La Dirección, esta facultada para realizar los acuerdos operativos con los sectores social, público y privado, en materia protección, conservación, mejoramiento, recuperación, restauración y regeneración del medio ambiente en el territorio municipal.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+La Agencia, está facultada para realizar los acuerdos operativos con los sectores social, público y privado, en materia protección, conservación, mejoramiento, recuperación, restauración y regeneración del medio ambiente en el territorio municipal.
 
 ###### Artículo 1716.
 
@@ -22061,7 +24211,9 @@ II. Formular, aprobar y evaluar el Programa Municipal de Protección al Ambiente
 
 III. Aprobar el Ordenamiento Ecológico del Municipio;
 
-IV. Evaluar y aprobar el desempeño de la Dirección en el cumplimiento de los Programas Ambientales y del Ordenamiento Ecológico;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IV. Evaluar y aprobar el desempeño de la Agencia en el cumplimiento de los Programas Ambientales y del Ordenamiento Ecológico;
 
 V. Establecer y regular las Zonas de Preservación Ecológica de los Centros de Población en el Municipio;
 
@@ -22083,13 +24235,15 @@ XIII. Promover la participación en materia ambiental de las organizaciones soci
 
 XIV. Las demás que se establezcan en el presente Capítulo u otros ordenamientos legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1718.
 
-Son atribuciones del Director de Gestión a través de la Subdireccion de Ecología y Medio Ambiente las siguientes:
+Son atribuciones del Director General de la Agencia las siguientes:
 
-I. Coordinar y evaluar las actividades de las unidades administrativas adscritas a la Dirección;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+I. Coordinar y evaluar las actividades de las unidades administrativas adscritas a la Agencia;
 
 II. Coordinar y ejecutar las acciones derivadas de los acuerdos y convenios en los que el H. Ayuntamiento sea parte;
 
@@ -22129,9 +24283,9 @@ DE LA COMISIÓN DE ECOLOGÍA Y MEDIO AMBIENTE
 
 La Comisión de Ecología del Honorable Ayuntamiento, además de estar integrada por los regidores que apruebe H. Ayuntamiento, se complementará por los siguientes vocales:
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-I. El Director de Gestión y Desarrollo Urbano Sustentable; y (sic)
+I. El Director General de la Agencia;
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -22147,7 +24301,9 @@ VI. Siete representantes de organizaciones civiles, privadas o instituciones edu
 
 Los vocales tendrán derecho solamente a voz. Cada uno de los vocales contará con un suplente. La designación de los vocales de la comisión, será hecha por el H. Ayuntamiento en sesión de Cabildo.
 
-Los trabajos de la comisión se realizarán con base a lo establecido en la Ley Orgánica Municipal y en el Capítulo 5 del presente Código Reglamentario.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Los Trabajos de la Comisión se realizarán con base a lo establecido en la Ley Orgánica Municipal y en el Capítulo 5 del presente Código Reglamentario, con excepción de lo dispuesto en el artículo 103 de la citado (sic) Código, toda vez que la reunión de esta Comisión será válida si asisten la mayoría de los integrantes con derecho a voto.
 
 ###### Artículo 1720.
 
@@ -22287,17 +24443,19 @@ X. El Programa de Ordenamiento Ecológico.
 
 El plan de Gestión Ambiental tendrá la vigencia que apruebe el H. Ayuntamiento, y podrá ser modificado o adicionado, siempre y cuando se cumpla con lo dispuesto en los artículos 1722, 1723 y 1724 del presente Capítulo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1726.
 
-EL H. Ayuntamiento, mediante la Comisión de Ecología y Medio Ambiente, dará seguimiento y evaluará los avances en la aplicación del plan de Gestión Ambiental, para este fin la Dirección presentará un informe semestral de los avances.
+El Honorable Ayuntamiento, mediante la Comisión de Ecología y Medio Ambiente, dará seguimiento y evaluará los avances en la aplicación del Plan de Gestión Ambiental, para este fin la Agencia presentará un informe semestral de los avances.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1727.
 
-Para la aplicación del Plan de Gestión Ambiental se requerirá invariablemente de la participación de los sectores público, privado y social, el H.
+Para la aplicación del Plan de Gestión Ambiental se requerirá invariablemente de la participación de los sectores público, privado y social, el Honorable Ayuntamiento definirá los mecanismos, escuchando la opinión de la Agencia.
 
-Ayuntamiento definirá los mecanismos, escuchando la opinión de la Dirección.
-
-Para elaborar los documentos y materiales del Plan de Gestión Ambiental, la Comisión se podrá apoyar del área administrativa de Planeación, Normatividad y Política Ambiental de la Dirección o en su caso contratar a la persona física o moral que lo auxilie en dichos trabajos.
+Para elaborar los documentos y materiales del Plan de Gestión Ambiental, la Comisión se podrá apoyar de la Agencia o en su caso contratar a la persona física o moral que lo auxilie en dichos trabajos.
 
 DEL ORDENAMIENTO ECOLÓGICO
 
@@ -22349,9 +24507,11 @@ VII. Las que se determinen dentro de este ordenamiento así como las establecida
 
 Queda prohibida la realización de actividades señaladas en los artículos anteriores, fuera de los sitios establecidos en el Ordenamiento Ecológico del Municipio.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1731.
 
-El H. Ayuntamiento, a través de la Dirección podrá solicitar a la Federación y al gobierno del Estado recomendaciones, opiniones y participación en los procesos de consulta para la formulación del Programa de Ordenamiento Ecológico del Municipio.
+El Honorable Ayuntamiento, a través de la Agencia podrá solicitar a la Federación y al Gobierno del Estado recomendaciones, opiniones y participación en los procesos de consulta para la formulación del Programa de Ordenamiento Ecológico del Municipio.
 
 ###### Artículo 1732.
 
@@ -22371,13 +24531,19 @@ I. Instrumentos de carácter fiscal: se otorgarán a las personas físicas y mor
 
 a) Sólo pueden realizarse exenciones fiscales en relación con los impuestos y derechos que establezca la Ley de Ingresos del Municipio de Puebla.
 
-b) Las personas que promuevan el gozo de este instrumento económico, deberán presentar solicitud por escrito ante la Dirección.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-c) La Dirección emitirá un dictamen respecto a las actividades o acciones con las que el promovente, solicita él estímulo fiscal, dicho dictamen contendrá los elementos técnicos en relación para otorgar o negar dicho beneficio económico.
+b) Las personas que promuevan el gozo de este instrumento económico, deberán presentar solicitud por escrito ante la Agencia.
 
-d) En el dictamen correspondiente la Dirección relacionará si estas actividades se consideran prioritarias, para otorgarse beneficios y estímulos fiscales con respecto a las que señala el artículo 33 de la Ley Estatal.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-e) El presidente municipal como autoridad fiscal podrá otorgar dichas exenciones de impuesto y derechos, en los términos del Código Fiscal y Presupuestario para el Municipio de Puebla;
+c) La Agencia emitirá un dictamen respecto a las actividades o acciones con las que el promovente, solicita el estímulo fiscal, dicho dictamen contendrá los elementos técnicos en relación para otorgar o negar dicho beneficio económico.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+d) En el dictamen correspondiente la Agencia relacionará si estas actividades se consideran prioritarias, para otorgarse beneficios y estímulos fiscales con respecto a las que señala el artículo 33 de la Ley Estatal.
+
+e) El presidente municipal como autoridad fiscal podrá otorgar dichas exenciones de impuesto y derechos, en los términos del Código Fiscal y Presupuestario para el Municipio de Puebla.
 
 f) No se otorgaran los beneficios de este instrumento económico a las personas, que hayan obtenido un estimulo fiscal por parte de la Federación y del Estado, respecto a la misma actividad o acción; y
 
@@ -22393,9 +24559,11 @@ c) El H. Ayuntamiento de Puebla podrá crear los fideicomisos que considere pert
 
 El H. Ayuntamiento, con el fin de reducir la existencia de actividades que perjudiquen o alteren el medio ambiente o el equilibrio ecológico, considerarán en las propuestas al Proyecto de Ley de Ingresos para el ejercicio fiscal correspondiente, disposiciones relativas al establecimiento de tasas especiales y demás que se estimen conducentes para las personas físicas o morales cuyo aprovechamiento del suelo, giro o actividad realizada tenga por objeto la producción de bienes que puedan generar un desequilibrio, contaminación o contingencia ambiental.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1736.
 
-Los ingresos que se generen al Gobierno Municipal por la aplicación de sanciones y pago de derechos objeto del presente Capítulo deberán de ser empleados en los programas de la Dirección, para tal efecto la Tesorería Municipal, contabilizará anualmente el monto de ingresos por este concepto, con la finalidad de que se incluya en el Presupuesto del año siguiente que corresponda las mismas partidas, las cuales serán independientes a las de gasto corriente.
+Los ingresos que se generen al Gobierno Municipal por la aplicación de sanciones y pago de derechos objeto del presente Capítulo deberán de ser empleados en los programas de la Agencia, bajo lo dispuesto en el Código Fiscal y Presupuestario para el Municipio de Puebla.
 
 DE LA EVALUACIÓN DEL IMPACTO AMBIENTAL EN EL MUNICIPIO
 
@@ -22407,19 +24575,23 @@ El fin de la evaluación del impacto ambiental es evitar o reducir al mínimo lo
 
 Son sujetos del procedimiento de evaluación del impacto ambiental toda persona física, moral o jurídica que realice obras o actividades que causen afectaciones en el medio ambiente, y no podrán realizar o ejecutarse obras, ni operar ningún establecimiento sin la evaluación y aprobación de dicho estudio de impacto ambiental.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1738.
 
-La Dirección realizará el procedimiento de evaluación del impacto ambiental, siempre y cuando el H. Ayuntamiento signe el convenio respectivo con el Gobierno del Estado, para que este último le delegue las atribuciones que le confiere la sección sexta del capítulo tercero de la Ley Estatal.
+La Agencia realizará el procedimiento de evaluación del impacto ambiental, siempre y cuando el Honorable Ayuntamiento signe el convenio respectivo con el Gobierno del Estado, para que este último le delegue las atribuciones que le confiere la Sección Sexta del Capítulo Tercero de la Ley Estatal.
 
-Una vez firmado dicho convenio la Dirección realizará el procedimiento de evaluación del impacto ambiental conforme a las disposiciones establecidas en la Ley Estatal y en el Reglamento específico que para tal fin elabore y apruebe la SEDURBECOP.
+Una vez firmado dicho convenio la Agencia realizará el procedimiento de evaluación del impacto ambiental conforme a las disposiciones establecidas en la Ley Estatal y en el Reglamento específico que para tal fin elabore y apruebe la SEDURBECOP.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1739.
 
-En caso de que la Dirección conozca de obras y actividades que se estén realizando sin la evaluación y aprobación correspondiente en materia de impacto ambiental, esta lo hará del conocimiento de la Dirección de Desarrollo Urbano, con la finalidad de que el H. Ayuntamiento en uso de las facultades que le otorga el artículo 48 de la Ley Estatal, condicione o revoque las autorizaciones de uso de suelo, licencias de construcción y funcionamiento, a la autorización correspondiente en materia de impacto ambiental.
+En caso de que la Agencia conozca de obras y actividades que se estén realizando sin la evaluación y aprobación correspondiente en materia de impacto ambiental, ésta lo hará del conocimiento de la Dirección de Gestión Urbana y Desarrollo Urbano Sustentable, con la finalidad de que el Honorable Ayuntamiento en uso de las facultades que le otorga el artículo 48 de la Ley Estatal, condicione o revoque las autorizaciones de uso de suelo, licencias de construcción y funcionamiento, a la autorización correspondiente en materia de impacto ambiental.
 
-La Dirección de Desarrollo Urbano cuando autorice los uso de suelo, licencias construcción y funcionamiento, solicitará invariablemente la aprobación correspondiente al impacto ambiental, dando cuenta a la Dirección de dichas autorizaciones para que lleve el registro de los mismos.
+La Dirección de Gestión Urbana y Desarrollo Urbano Sustentable cuando autorice los uso de suelo, licencias construcción y funcionamiento, solicitará invariablemente la aprobación correspondiente al impacto ambiental, dando cuenta a la Dirección de dichas autorizaciones para que lleve el registro de los (sic) mismas.
 
-Los responsables de cualquier obra o proyecto, ya sea de desarrollo urbano, turístico, de servicios o industrial, serán corresponsables junto con los dueños del proyecto en caso de un impacto ambiental negativo desarrollado posteriormente, mismo que será sancionado o denunciado en los términos del presente Capítulo por la Dirección.
+Los responsables de cualquier obra o proyecto, ya sea de desarrollo urbano, turístico, de servicios o industrial, serán corresponsables junto con los dueños del proyecto en caso de un impacto ambiental negativo desarrollado posteriormente, mismo que será sancionado o denunciado en los términos del presente Capítulo por la Agencia.
 
 DE LA PROTECCIÓN AL AMBIENTE POR EL IMPACTO URBANO
 
@@ -22431,19 +24603,23 @@ Las construcciones, fraccionamientos, desarrollos habitacionales y viviendas en 
 
 El H. Ayuntamiento se reserva el derecho de establecer condiciones particulares para la realización de cada proyecto, siempre y cuando los mismos no ocasionen afectaciones irreversibles al medio ambiente.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1741.
 
-El H. Ayuntamiento, a través de la Dirección, autorizará y supervisará el derribo, despunte o poda de árboles. En el caso de derribo en vía pública, se deberá contar con autorización correspondiente por parte de la Dirección, deberá realizar el pago correspondiente, así como recuperar la cobertura vegetal perdida.
+El Honorable Ayuntamiento, a través de la Agencia, autorizará y supervisará el derribo, despunte o poda de árboles. En el caso de derribo en vía pública, se deberá contar con autorización correspondiente por parte de la Agencia, deberá realizar el pago correspondiente, así como recuperar la cobertura vegetal perdida.
 
-En los predios urbanos de propiedad privada, el derribo de árboles deberá notificarse a la Dirección, así como realizarse el pago correspondiente por la autorización de derribo, asumiendo el responsable, el compromiso de recuperar la vegetación perdida.
+En los predios urbanos de propiedad privada, el derribo de árboles deberá notificarse a la Agencia, así como realizarse el pago correspondiente por la autorización de derribo, asumiendo el responsable, el compromiso de recuperar la vegetación perdida.
 
-El derribo, despunte y poda de árboles se realizará en los términos de la disposición administrativa que establezca los lineamientos técnicos que emita el H. Ayuntamiento de Puebla en sesión de Cabildo, escuchando las propuestas que para este fin emita la Dirección.
+El derribo, despunte y poda de árboles se realizará en los términos de la disposición administrativa que establezca los lineamientos técnicos que emita el Honorable Ayuntamiento de Puebla en Sesión de Cabildo, escuchando las propuestas que para este fin emita la Agencia.
 
-Para la recuperación de cobertura vegetal a la que se refiere este artículo, la Dirección determinará la especie, considerándose el impacto al ambiente de la zona, así como, las condiciones económicas del solicitante, no pudiendo ser menor a 5 unidades de la cobertura vegetal perdida.
+Para la recuperación de cobertura vegetal a la que se refiere este artículo, la Agencia determinará la especie, considerándose el impacto al ambiente de la zona, así como, las condiciones económicas del solicitante, no pudiendo ser menor a la masa vegetal de la cobertura perdida.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1742.
 
-La Dirección, con el apoyo de la Comisión de Ecología y Medio Ambiente del Municipio, auspiciará el cuidado, el mejoramiento y conservación del paisaje urbano y rural, tomando en cuenta los ecosistemas existentes y los valores ambientales, paisajistas, históricos, arqueológicos científicos y culturales a través de la aplicación de las disposiciones en materia de Desarrollo Urbano, el Programa Municipal de Desarrollo Urbano y el presente Capítulo.
+La Agencia, con el apoyo de la Comisión de Ecología y Medio Ambiente del Municipio, auspiciará el cuidado, el mejoramiento y conservación del paisaje urbano y rural, tomando en cuenta los ecosistemas existentes y los valores ambientales, paisajistas, históricos, arqueológicos científicos y culturales a través de la aplicación de las disposiciones en materia de Desarrollo Urbano, el Programa Municipal de Desarrollo Urbano Sustentable, el Ordenamiento Ecológico y el presente Capítulo.
 
 DE LA PROTECCIÓN AL AMBIENTE POR EL IMPACTO TURÍSTICO E INDUSTRIAL
 
@@ -22455,9 +24631,11 @@ Los establecimientos comerciales, industriales o de servicios de competencia mun
 
 DE LA EDUCACIÓN AMBIENTAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1744.
 
-Con el fin de apoyar las actividades de conservación, protección y mejoramiento del ambiente, el H. Ayuntamiento, a través de la Dirección impulsará la educación ambiental no formal y la participación social de las distintas comunidades del Municipio, con el fin de:
+Con el fin de apoyar las actividades de conservación, protección y mejoramiento del ambiente, el Honorable Ayuntamiento, a través de la Agencia impulsará la educación ambiental no formal y la participación social de las distintas comunidades del Municipio, con el fin de:
 
 I. Fomentar y fortalecer la cultura ambiental, dirigida hacia el respeto, mantenimiento e incremento de los ecosistemas, de las Zonas de Preservación Ecológica de los Centros de Población y áreas verdes de jurisdicción municipal;
 
@@ -22489,15 +24667,19 @@ Los desarrollos turísticos y de servicios de competencia municipal, sin menosca
 
 DE LA INFORMACIÓN OPORTUNA SOBRE LAS CONDICIONES DEL AMBIENTE
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1748.
 
-El H. Ayuntamiento, por conducto de la Dirección, establecerá y operará permanentemente un sistema de información sobre la calidad del ambiente en el Municipio, para lo cual podrá:
+El Honorable Ayuntamiento, por conducto de la Agencia, establecerá y operará permanentemente un sistema de información sobre la calidad del ambiente en el Municipio, para lo cual podrá:
 
 I. Solicitar la asistencia técnica de la PROFEPA, SEMARNAT y de la SEDURBECOP, así como establecer acuerdos de coordinación con estos órdenes de gobierno para apoyar la ejecución de las actividades mencionadas;
 
 II. Fomentar la participación de instituciones de educación superior de investigación y de los grupos sociales en la operación y evaluación del sistema de monitoreo e información ambiental; y
 
-III. Emitir, a través de la Dirección, un informe público anual sobre el estado que guarda el ambiente y los recursos naturales del Municipio.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+III. Emitir, a través de la Agencia, un informe público anual sobre el estado que guarda el ambiente y los recursos naturales del Municipio.
 
 ###### Artículo 1749.
 
@@ -22507,7 +24689,9 @@ Los solicitantes deberán identificarse indicando su nombre o razón social y do
 
 Quien reciba información ambiental de las autoridades municipales en los términos del presente capítulo, será responsable de su adecuada utilización y deberá responder por los daños y perjuicios que se ocasionen por su indebido manejo.
 
-La Dirección podrá negar la información solicitada cuando se esté en los supuestos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+La Agencia podrá negar la información solicitada cuando se esté en los supuestos siguientes:
 
 I. Se considere por disposición legal que dicha información es confidencial o que por su propia naturaleza, su difusión afecte o pueda afectar la seguridad pública del Municipio;
 
@@ -22545,9 +24729,11 @@ Las Zonas de Preservación Ecológica Municipales tendrán la denominación que 
 
 Para que el H. Ayuntamiento realice las declaratorias de Zonas de Preservación Ecológica, primero debe de incluirlas en los Programas de Desarrollo Urbano y el Programa de Ordenamiento Ecológico.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1754.
 
-El H. Ayuntamiento, a través de la Dirección, mantendrá un sistema permanente de información y vigilancia sobre los ecosistemas y su equilibrio ecológico en el Municipio, para la cual, coordinará sus acciones con el Gobierno del Estado, la Federación y los Municipios conurbados; así mismo, establecerá al respecto sistemas de evaluación y seguimiento de las acciones que emprenda.
+El Honorable Ayuntamiento, a través de la Agencia, mantendrá un sistema permanente de información y vigilancia sobre los ecosistemas y su equilibrio ecológico en el Municipio, para la cual, coordinará sus acciones con el Gobierno del Estado, la Federación y los Municipios conurbados; así mismo, establecerá al respecto sistemas de evaluación y seguimiento de las acciones que emprenda.
 
 ###### Artículo 1755.
 
@@ -22597,9 +24783,11 @@ No se permitirá depositar residuos sólidos urbanos y desechos de jardinería y
 
 El H. Ayuntamiento podrá otorgar en custodia parques, jardines y parques urbanos, con la finalidad de incentivar la inversión privada en estas áreas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1761.
 
-Previo acuerdo con la Dirección, las personas físicas o morales podrán instalar en los camellones, glorietas y demás áreas verdes, anuncios que señalen que la persona física o moral que corresponda se hace cargo del mantenimiento del área verde; estos anuncios tendrán las dimensiones y características que determine la Dirección.
+Previo acuerdo con la Agencia, las personas físicas o jurídicas podrán instalar en los camellones, glorietas y demás áreas verdes, anuncios que señalen que la persona física o jurídica que corresponda se hace cargo del mantenimiento del área verde; estos anuncios tendrán las dimensiones y características que determine la Agencia.
 
 Las personas físicas o morales tendrán como obligación conservar dichas áreas en buenas condiciones, de no cumplir con la anterior obligación la autoridad Municipal procederá a retirar al (sic) anuncio colocado.
 
@@ -22611,9 +24799,11 @@ La Unidad Administrativa encargada de parques y jardines elaborará un padrón d
 
 Los inmuebles de propiedad municipal que sean destinados como plazas, parques, jardines, camellones, glorietas no podrán cambiar su uso, sino mediante Acuerdo de Cabildo, en el que invariablemente deberá informar la forma en que se reemplazará el área suprimida, por una superficie igual o mayor para destinarla a áreas verdes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1764.
 
-La Dirección con el apoyo de la Unidad Administrativa encargada de Parques y Jardines, se encargará de la forestación y reforestación de los espacios de bienes de uso común, fundamentalmente en:
+La Agencia, se encargará de la forestación y reforestación de los espacios de bienes de uso común, fundamentalmente en:
 
 I. Vías públicas y plazas;
 
@@ -22621,17 +24811,21 @@ II. Parques y Jardines;
 
 III. Camellones y glorietas; y
 
-V (sic). Los demás lugares que así lo consideren las Autoridades Municipales y compete a la Dirección determinar la cantidad y las especies de árboles, plantas y arbustos que convenga utilizar de acuerdo a un dictamen técnico que elabore para este fin.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IV. Los demás lugares que así lo consideren las Autoridades Municipales y compete a la Agencia determinar la cantidad y las especies de árboles, plantas y arbustos que convenga utilizar de acuerdo a un dictamen técnico que elabore para este fin.
 
 El H. Ayuntamiento tendrá los viveros necesarios para realizar las funciones de repoblación forestal, teniendo facultades para celebrar convenios con instituciones públicas o privadas, para producir e intercambiar especies o bien, mejorar las que cultiva en sus viveros.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1765.
 
-La Dirección emitirá un dictamen de recomendación a las urbanizaciones de nueva creación y asentamientos a regularizar, a efecto de orientar el tipo adecuado de árboles y vegetación.
+La Agencia emitirá un dictamen de recomendación a las urbanizaciones de nueva creación y asentamientos a regularizar, a efecto de orientar el tipo adecuado de árboles y vegetación.
 
-La Dirección elaborará programas de forestación y reforestación en los que participen todos los sectores de la ciudadanía, a fin de lograr un mejor entorno ambiental, estos programas se presentarán cada año e indicarán la cantidad de especies y en que zona y/o lugares del Municipio serán plantados.
+La Agencia elaborará programas de forestación y reforestación en los que participen todos los sectores de la ciudadanía, a fin de lograr un mejor entorno ambiental, estos programas se presentarán cada año e indicarán la cantidad de especies yen qué zonas y/o lugares del Municipio serán plantados.
 
-La Dirección promoverá y dará asesoría a las asociaciones vecinales sobre la forma de como forestar y reforestar las áreas verdes de su colonia; y promoverá la utilización de lotes baldíos de propiedad particular, previo convenio celebrado en los términos de este Capítulo con: propietarios y con la participación ciudadana y las asociaciones vecinales, para la creación de áreas verdes, viveros o huertos.
+La Agencia promoverá y dará asesoría a las asociaciones vecinales sobre la forma de como forestar y reforestar las áreas verdes de su colonia; y promoverá la utilización de lotes baldíos de propiedad particular, previo convenio celebrado en los términos de este Capítulo con: propietarios y con la participación ciudadana y las asociaciones vecinales, para la creación de áreas verdes, viveros o huertos.
 
 ###### Artículo 1766.
 
@@ -22661,9 +24855,11 @@ El H. Ayuntamiento al promover la protección a la atmósfera considerara los cr
 
 Los propietarios de fuentes fijas de contaminación atmosférica de competencia municipal deberán cumplir invariablemente lo dispuesto en el artículo 115 de la Ley Estatal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1770.
 
-Para promover y efectuar la protección a la atmósfera, corresponde, al H. Ayuntamiento, dentro de su ámbito de competencia, por conducto de la Dirección:
+Para promover y efectuar la protección a la atmósfera, corresponde, al Honorable Ayuntamiento, dentro de su ámbito de competencia, por conducto de la Agencia:
 
 I. Requerir, a todas aquellas personas físicas o morales, públicas o privadas, que realicen actividades contaminantes de la atmósfera, que utilicen tecnologías y combustibles que generen menos contaminación atmosférica, y medidas de mitigación necesarias para reducir o eliminar las emisiones contaminantes;
 
@@ -22697,13 +24893,21 @@ XIV. Elaborar los informes sobre la calidad del aire en el Municipio, haciéndol
 
 La emisión de contaminantes a la atmósfera no deberá exceder los niveles máximos permisibles que se establezcan en las NOM, por lo tanto se prohíbe: producir, expeler, descargar o emitir contaminantes que alteren la atmósfera o que puedan provocar degradación o molestias en perjuicio de la salud humana, la fauna, o los ecosistemas del Municipio; para tal efecto se observará las siguientes reglas:
 
-I. Para la operación y funcionamiento de fuentes fijas de jurisdicción municipal que emitan o puedan emitir olores, gases o partículas sólidas o liquidas a la atmósfera, se requerirá autorización misma que expedirá la SAU a través de la Dirección;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-II. Para obtener la autorización correspondiente, los responsables de las fuentes deberán presentar ante la Dirección: datos generales del solicitante; ubicación de la fuente; descripción del proceso; distribución de maquinaria y equipo; materias primas o combustibles que se utilicen en el proceso y forma de almacenamiento; transporte de materias primas o combustibles al área de proceso; transformación de materias primas o combustible; productos, subproductos y desechos que vayan a generarse, cantidad y naturaleza de los contaminantes a la atmósfera esperados, equipos de control de la contaminación a la atmósfera que vayan a utilizarse y programa de acciones en caso de contingencias atmosféricas, que contenga medidas y acciones que se llevarán a cabo;
+I. Para la operación y funcionamiento de fuentes fijas de jurisdicción municipal que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, se requerirá autorización misma que expedirá la Agencia a través de la Dirección;
 
-III. Presentada la solicitud, la Dirección deberá emitir una resolución autorizando o negando la autorización a que se refiere este artículo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-IV. El responsable de a (sic) fuente tiene la obligación de dar aviso por escrito de manera anticipada a la Dirección, del inicio de sus operaciones, de paros programados en su caso, y de inmediato en el caso en que estos puedan provocar una contingencia ambiental;
+II. Para obtener la autorización correspondiente, los responsables de las fuentes deberán presentar ante la Agencia: datos generales del solicitante, ubicación de la fuente, descripción del proceso, distribución de maquinaria y equipo, materias primas o combustibles que se utilicen en el proceso y forma de almacenamiento, transporte de materias primas o combustibles al área de proceso, transformación de materias primas o combustible, productos, subproductos y desechos que vayan a generarse, cantidad y naturaleza de los contaminantes a la atmósfera esperados, equipos de control de la contaminación a la atmósfera que vayan a utilizarse y programa de acciones en caso de contingencias atmosféricas, que contenga medidas y acciones que se llevarán a cabo;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+III. Presentada la solicitud, la Agencia deberá emitir una resolución autorizando o negando la autorización a que se refiere este artículo;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IV. El responsable de a (sic) fuente tiene la obligación de dar aviso por escrito de manera anticipada a la Agencia, del inicio de sus operaciones, de paros programados en su caso, y de inmediato en el caso en que éstos puedan provocar una contingencia ambiental;
 
 V. Están obligados los responsables a emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que no rebasen los niveles máximos permisibles establecidas en las NOM; y
 
@@ -22713,13 +24917,17 @@ VI. Tales operaciones sólo podrán realizarse de conformidad con el presente Ca
 
 Queda estrictamente prohibido realizar quemas al aire libre, de cualquier material o residuo sólido o líquido.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1773.
 
-La Dirección se coordinará con la Secretaria de Seguridad Pública y Vialidad para garantizar el cumplimiento de las disposiciones del artículo 329 fracciones I, II y III del Capítulo de Seguridad Vial y Tránsito del presente Código Reglamentario, ya que la inaplicabilidad de estas disposiciones pueden ocasionar afectaciones a la atmósfera.
+La Agencia se coordinará con la Secretaría de Seguridad Pública y Tránsito Municipal para garantizar el cumplimiento de las disposiciones del artículo 329 fracciones I, II y III del Capítulo de Seguridad Vial y Tránsito del presente Código Reglamentario, ya que la inaplicabilidad de estas disposiciones pueden ocasionar afectaciones a la atmósfera.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1774.
 
-El H. Ayuntamiento a través de la Dirección regulará, sin menoscabo a lo señalado en las leyes federal y estatal en la materia, las siguientes fuentes emisoras de contaminantes atmosféricos:
+El Honorable Ayuntamiento a través de la Agencia regulará, sin menoscabo a lo señalado en las leyes federales y estatales en la materia, las siguientes fuentes emisoras de contaminantes atmosféricos:
 
 I. Las fuentes naturales, que incluyen la prevención de incendios forestales no provocados por el hombre en ecosistemas naturales o parte de ellos, por acción del viento y otros semejantes, de jurisdicción municipal; y
 
@@ -22751,9 +24959,11 @@ VII. Son obligaciones de los habitantes del Municipio: utilizar racionalmente el
 
 VII. Queda estrictamente prohibido el relleno, secado y uso diferente al que tienen los cuerpos de agua superficiales en el territorio municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1776.
 
-En cuanto al saneamiento y uso racional y salubre de las aguas y aguas residuales, en coordinación con el SOAPAP, CNA o el organismo competente en su caso, corresponden al H. Ayuntamiento, por conducto de la Dirección, las siguientes atribuciones:
+En cuanto al saneamiento y uso racional y salubre de las aguas y aguas residuales, en coordinación con el SOAPAP, CNA o el organismo competente en su caso, corresponden al Honorable Ayuntamiento, por conducto de la Agencia, las siguientes atribuciones:
 
 I. Proteger los elementos hidrológicos, los ecosistemas acuáticos y el equilibrio de los recursos naturales que intervienen en su ciclo;
 
@@ -22761,7 +24971,9 @@ II. Realizar las gestiones necesarias para que se aproveche de forma sustentable
 
 III. Proteger los suelos y áreas boscosas, así como el mantenimiento de caudales básicos y fuentes naturales de las corrientes de agua con el objeto de mantener la capacidad de recarga de los mantos acuíferos, para mantener la integridad y equilibrio de los elementos naturales que intervienen en el ciclo hidrológico;
 
-IV. Formular, a través de la Dirección, programas relacionados con el aprovechamiento del agua en el Municipio, así como de proyectos de estructuras que permitan el almacenamiento, utilización, infiltración de agua de lluvia;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IV. Formular, a través de la Agencia, programas relacionados con el aprovechamiento del agua en el Municipio, así como de proyectos de estructuras que permitan el almacenamiento, utilización, infiltración de agua de lluvia;
 
 V. Elaborar y aplicar los programas necesarios para prevenir y controlar la contaminación de las aguas de jurisdicción municipal;
 
@@ -22785,21 +24997,27 @@ En el Municipio, las aguas residuales provenientes de cualquier fuente, sólo po
 
 Atendiendo a las NOM aplicables, se prohíbe descargar, sin previo tratamiento, aguas residuales que contengan contaminantes, desechos, materiales radiactivos o cualquier sustancia dañina a la salud de las personas, a la flora y la fauna, a los bienes de este Municipio o que alteren el paisaje, en aguas designadas o concesionadas al Municipio, para la prestación de servicios públicos y en los sistemas de drenaje y alcantarillado de los centros de población o infiltrar en terrenos.
 
-La Dirección solicitará al SOAPAP y a la CNA que todas las industrias y giros comerciales o de servicios, presenten continuamente, los análisis fisicoquímicos y biológicos de sus aguas residuales, a efecto de verificar conjuntamente, el cumplimiento de la reglamentación aplicable.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+La Agencia solicitará al SOAPAP y a la CNA que todas las industrias y giros comerciales o de servicios, presenten continuamente, los análisis fisicoquímicos y biológicos de sus aguas residuales, a efecto de verificar conjuntamente, el cumplimiento de la reglamentación aplicable.
 
 Los análisis deberán contener como información mínima los valores de los siguientes parámetros: sólidos sedimentarios, grasas y aceites, temperatura, potencial hidrógeno y demanda bioquímica de oxigeno.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1779.
 
-La Dirección hará del conocimiento del SOAPAP las descargas de aguas residuales de cualquier tipo, a los sistemas municipales de drenaje y alcantarillado, solicitando la aplicación de las medidas correctivas y la imposición de sanciones a que haya lugar.
+La Agencia hará del conocimiento del SOAPAP las descargas de aguas residuales de cualquier tipo, a los sistemas municipales de drenaje y alcantarillado, solicitando la aplicación de las medidas correctivas y la imposición de sanciones a que haya lugar.
 
 ###### Artículo 1780.
 
 Los generadores de aguas residuales están obligados al tratamiento de las mismas, considerando lo establecido en la Ley de Aguas Nacionales, sus Reglamentos y las NOM.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1781.
 
-Los vehículos que transporten sustancias peligrosas dentro del área urbana del Municipio, deberán reportar su paso a la Dirección, con el objeto de vigilar su arribo o salida, asimismo deberán portar una guía sobre el tipo de producto que se transporta y la forma de contrarrestar su impacto en caso de accidente.
+Los vehículos que transporten sustancias peligrosas dentro del área urbana del Municipio, deberán reportar su paso a la Unidad Operativa Municipal de Protección Civil, con el objeto de vigilar su arribo o salida, asimismo deberán portar una guía sobre el tipo de producto que se transporta y la forma de contrarrestar su impacto en caso de accidente.
 
 PROTECCIÓN DE LA FLORA Y FAUNA SILVESTRE Y/O ACUATICA
 
@@ -22867,9 +25085,11 @@ Queda prohibido hacer mal uso de los suelos y realizar todo tipo de acciones neg
 
 DEL MANEJO DE LOS RESIDUOS SÓLIDOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1787.
 
-En cuanto al manejo de los residuos sólidos urbanos, corresponde al H. Ayuntamiento, por conducto de la Dirección, las siguientes atribuciones:
+En cuanto al manejo de los residuos sólidos urbanos, corresponde al Honorable Ayuntamiento, por conducto de la Agencia, las siguientes atribuciones:
 
 I. Vigilar que los servicios municipales no propicien o generen residuos sólidos sin control;
 
@@ -22879,15 +25099,53 @@ III. Llevar un inventario de las fuentes generadoras que incluirán un registro 
 
 IV. Promover la educación y la difusión entre la población sobre las formas de separación desde el origen, reciclaje y aprovechamiento integral de los residuos municipales, con el fin de racionalizar la utilización de materias primas y reducir la generación de desperdicios;
 
-V. Vigilar que la disposición final de lodos procedentes de las plantas de tratamiento de las aguas residuales que se encuentren en operación dentro del Municipio, se realicen de acuerdo a las NOM aplicables; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VI. Proteger que los suelos no sean impactados por la inadecuada disposición de residuos sólidos urbanos, ya sean en propiedades públicas o privadas.
+V. Coadyuvar con el Ayuntamiento y el Organismo Operador del Servicio de Limpia del Municipio de Puebla, en el diseño del programa municipal para la prevención, gestión y manejo integral de los residuos sólidos urbanos;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VI. Prevenir la generación y controlar el manejo integral de los residuos sólidos urbanos en el ámbito de su competencia;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VII. Establecer y mantener actualizado el registro de grandes generadores de residuos sólidos urbanos del Municipio;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VIII. Proponer y suscribir los convenios, en términos de la legislación aplicable, con las Autoridades competentes para participar en el control tanto de los residuos peligrosos como los de manejo especial, que se generen dentro su jurisdicción, así como imponer las sanciones que procedan de acuerdo con la normatividad aplicable y lo que establezcan dichos convenios;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IX. Coadyuvar en la prevención de la contaminación de sitios con residuos peligrosos y de manejo especial, y su remediación;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+X. Realizar periódicamente los estudios de caracterización y composición de los residuos que se generen en el Municipio para facilitar su manejo y aprovechamiento;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XI. Promover la instrumentación de los planes de manejo del sector gubernamental en las dependencias y entidades de la administración pública municipal y dar el seguimiento correspondiente;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XII. Representar al Ayuntamiento ante el Sistema Estatal para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos y de Manejo Especial;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XIII. Solicitar a los generadores los planes de manejo de residuos en los términos de la legislación aplicable y en su caso emitir las autorizaciones; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XIV. Emitir las autorizaciones y en su caso revocar las mismas a las personas que realicen labores de manejo de residuos consistentes en: caracterización, acopio, almacenamiento, trasporte, reutilización, reciclado y aprovechamiento de residuos en los términos de la ley de la materia.
 
 ###### Artículo 1788.
 
 La operación del sistema municipal que garantice la prestación del servicio público municipal de limpia, recolección, traslado, tratamiento y disposición final de residuos sólidos urbanos, estará a cargo del OOSL, quien deberá observar lo dispuesto en el Capítulo de Limpia de este Código Reglamentario.
 
-Dirección hará del conocimiento del Gobierno del Estado del incumplimiento de las disposiciones jurídicas aplicables, en cuanto hace a los residuos de manejo especial, solicitado las (sic) medidas correctivas y las sanciones a que haya lugar.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+La Agencia hará del conocimiento del Gobierno del Estado del incumplimiento de las disposiciones jurídicas aplicables, en cuanto hace a los residuos de manejo especial, solicitado las medidas correctivas y las sanciones a que haya lugar.
 
 Queda prohibido descargar, depositar o infiltrar productos contaminantes en los suelos comprendidos en el Municipio, sin el cumplimiento de las NOM aplicables, que para tal efecto establezca las autoridades correspondientes.
 
@@ -22903,7 +25161,9 @@ III. La modificación, trastorno o alteración en el aprovechamiento, uso y expl
 
 IV. La contaminación de los ríos, cuencas, cauces, lagos, embalses, mantos acuíferos, aguas subterráneas y otros cuerpos de agua.
 
-El H. Ayuntamiento, a través de la Dirección y el OOSL, en forma conjunta con los diferentes órdenes de gobierno y la sociedad, fomentará y desarrollará programas de manejo integral de residuos sólidos urbanos, mediante actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, trasporte, (sic) y disposición final.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+El Honorable Ayuntamiento, a través de la Agencia y el OOSL, en forma conjunta con los diferentes órdenes de gobierno y la sociedad; fomentará y desarrollará programas de manejo integral de residuos sólidos urbanos, mediante actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final.
 
 Estos programas se realizarán o combinarán de manera apropiada, considerando las condiciones y necesidades del Municipio, y deberán considerar la valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social.
 
@@ -22947,9 +25207,11 @@ II. Cuando ambas fuentes las naturales y las artificiales; son alteradas, increm
 
 III. La contaminación que es generada por los olores, ruido, vibraciones, energía térmica, electromagnética y lumínica, entre otras, debe ser regulada para evitar que excedan los límites máximos de tolerancia humana y en su caso, deberá sancionarse toda acción que contribuya a la generación de las emisiones contaminantes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1796.
 
-En materia de prevención de la contaminación ambiental producida por olores, ruido, vibración, luces, radiaciones, corresponden al H. Ayuntamiento, por conducto de la Dirección, las siguientes atribuciones:
+En materia de prevención de la contaminación ambiental producida por olores, ruido, vibración, luces, radiaciones, corresponden al Honorable Ayuntamiento, por conducto de la Agencia, las siguientes atribuciones:
 
 I. Considerando lo dispuesto en el artículo 155 de la Ley, así como la restricción señalada en el artículo 142 de la Ley Estatal, adoptar las medidas que considere necesarias para evitar que las emisiones de contaminación visual, olores, ruido, vibraciones, energía térmica, energía electromagnética y lumínica rebasen los límites máximos contenidos en las NOM establecidas, considerando los valores de concentración máxima permisible para el ser humano y el ambiente; y
 
@@ -22967,25 +25229,33 @@ Toda persona física, moral, o pública, que realice actividades industriales, c
 
 No se autorizará en las zonas habitacionales o colindantes a ellas, así como a centros escolares y hospitalarios, la instalación de establecimientos comerciales, industriales, de servicios o de cualquier otro giro que por sus emisiones y olores, ruidos, vibraciones, energía térmica, energía electromagnética y lumínica, puedan ocasionar molestias a la población.
 
-La licencia de funcionamiento que otorga el H. Ayuntamiento, por conducto de la Dirección de Desarrollo Urbano, quedará condicionada a la implementación por parte de los interesados de medidas tendientes a prevenir, controlar y corregir sus emisiones de olores, ruidos, luces, vibraciones y energía térmica, para evitar los efectos nocivos y desagradables a la población y al ambiente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-La Dirección cuando tenga conocimiento de que no se implantaron las medidas para controlar y corregir las emisiones correspondientes dentro de los plazos que se fijen, solicitará a la Dirección de Desarrollo Urbano la cancelación de la licencia de funcionamiento, independientemente de que se impongan las sanciones ha que haya lugar en los términos del presente Capítulo.
+La Licencia de Funcionamiento que otorga el Honorable Ayuntamiento, quedará condicionada a la implementación por parte de los interesados de medidas tendientes a prevenir, controlar y corregir sus emisiones de olores, ruidos, luces, vibraciones y energía térmica, para evitar los efectos nocivos y desagradables a la población y al ambiente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+La Agencia cuando tenga conocimiento de que no se implantaron las medidas para controlar y corregir las emisiones correspondientes dentro de los plazos que se fijen, solicitará a la Autoridad competente la cancelación de la licencia de funcionamiento, independientemente de que se impongan las sanciones ha (sic) que haya lugar en los términos del presente Capítulo.
 
 ###### Artículo 1800.
 
 Queda prohibido provocar emisiones ionizantes que puedan contaminar el aire, el agua o los suelos, la flora y la fauna silvestre o acuática, o los alimentos que conlleven al deterioro temporal o permanente de la salud o de los ecosistemas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1801.
 
-Cualquier actividad no cotidiana que se vaya a realizar en los centros población cuyas emisiones de olores, ruido, vibraciones, energía térmica, energía electromagnética y lumínica rebasen o puedan rebasar los límites máximos establecidos en las NOM o puedan ocasionar molestias a la población, requiere permiso de la Dirección para poder realizarse.
+Cualquier actividad no cotidiana que se vaya a realizar en los centros (sic) población cuyas emisiones de olores, ruido, vibraciones, energía térmica, energía electromagnética y lumínica rebasen o puedan rebasar los límites máximos establecidos en las Normas Oficiales Mexicanas o puedan ocasionar molestias a la población, requiere permiso de la Agencia para poder realizarse.
 
 ###### Artículo 1802.
 
 La contaminación visual por actividades publicitarias o anuncios que pueden alterar el paisaje natural o de la imagen urbana, serán regulados por el Capítulo de Anuncios para el Municipio de Puebla.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1803.
 
-Cuando por instalarse o colocarse anuncios se derribe o destruya cualquier elemento natural sin autorización de la Dirección, se solicitará en forma inmediata el retiro del anuncio a la autoridad municipal competente, debiéndose resarcir el daño causado a la naturaleza por el infractor.
+Cuando por instalarse o colocarse anuncios se derribe o destruya cualquier elemento natural sin autorización de la Agencia, se solicitará en forma inmediata el retiro del anuncio a la Autoridad Municipal competente, debiéndose resarcir el daño causado a la naturaleza por el infractor.
 
 ###### Artículo 1804.
 
@@ -23015,13 +25285,17 @@ III. Promover la celebración de convenios con los diversos medios de comunicaci
 
 DE LA DENUNCIA POPULAR
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1807.
 
-Se entiende como denuncia popular, aquel instrumento jurídico por medio del cuál, toda persona física, moral, pública u organización no gubernamental, puede hacer del conocimiento de la Dirección, los hechos que produzcan o puedan producir daños ambientales o a los recursos naturales, o contravengan las disposiciones del presente Capítulo y demás ordenamientos que regulen las materias relacionadas con la conservación y protección al ambiente, así como la restauración del equilibrio, con el fin de que la autoridad competente atienda y solucione las quejas presentadas.
+Se entiende como denuncia popular, aquel instrumento jurídico por medio del cual, toda persona física, jurídica, pública u organización no gubernamental, puede hacer del conocimiento de la Agencia, los hechos que produzcan o puedan producir daños ambientales o a los recursos naturales, o contravengan las disposiciones del presente Capítulo y demás ordenamientos que regulen las materias relacionadas con la conservación y protección al ambiente, así como la restauración del equilibrio, con el fin de que la autoridad competente atienda y solucione las quejas presentadas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1808.
 
-El H. Ayuntamiento, por conducto de la Dirección, tendrá las siguientes atribuciones en materia de denuncia popular:
+El Honorable Ayuntamiento, por conducto de la Agencia, tendrá las siguientes atribuciones en materia de denuncia popular:
 
 I. Promover la formación de consejos ecológicos en las organizaciones escolares, obreras, patronales y campesinas, para reforzar la acción de la denuncia popular;
 
@@ -23045,21 +25319,29 @@ III. Los datos que permitan identificar al presunto infractor o localizar la fue
 
 IV. Las pruebas documentales que en su caso ofrezca el denunciante.
 
-Asimismo, podrá formularse la denuncia por los medios que disponga la Dirección, tales como fax, teléfono, correo electrónico y cualesquiera otros que, por acuerdo de la Dirección, generen una simplificación administrativa; en cuyo supuesto, el servidor público que la reciba, realizará anotación de los datos señalados en las fracciones I, II y III del presente artículo, y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que la autoridad competente investigue de oficio los hechos constitutivos de la denuncia.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Asimismo, podrá formularse la denuncia por los medios que disponga la Agencia tales como fax, teléfono, correo electrónico y cualesquiera otros que, por acuerdo de la Dirección, generen una simplificación administrativa; en cuyo supuesto, el servidor público que la reciba, realizará anotación de los datos señalados en las fracciones I, II y III del presente artículo, y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que la Autoridad competente investigue de oficio los hechos constitutivos de la denuncia.
 
 Si el denunciante ratifica la denuncia pero solicita a la autoridad competente guardar secreto respecto de su identidad por razones de seguridad e interés particular debidamente fundadas, ésta llevará a cabo el seguimiento de la denuncia conforme a las atribuciones que la presente Ley y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1810.
 
-La Dirección, una vez recibida la denuncia, procederá a verificar los hechos materia de aquella, y le asignará un número de expediente.
+La Agencia, una vez recibida la denuncia, procederá a verificar los hechos materia de aquella, y le asignará un número de expediente.
 
 En caso de recibirse dos más denuncias por los mismos actos u omisiones, el director ordenará su acumulación, debiendo notificar a los denunciantes de este hecho.
 
-La Dirección, al recibir una denuncia, identificará debidamente al denunciante, la verificará y escuchará el testimonio del responsable del deterioro ambiental y en su caso, impondrá medidas correctivas y las sanciones correspondientes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+La Agencia, al recibir una denuncia, identificará debidamente al denunciante, la verificará y escuchará el testimonio del responsable del deterioro ambiental y en su caso, impondrá medidas correctivas y las sanciones correspondientes.
 
 Los expedientes de denuncia popular que hubieren sido abiertos, podrán ser concluidos por las siguientes causas:
 
-I. Por incompetencia de la Dirección para conocer de la denuncia popular planteada;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+I. Por incompetencia de la Agencia para conocer de la denuncia popular planteada;
 
 II. Por la emisión de una resolución derivada del procedimiento de Inspección;
 
@@ -23071,13 +25353,17 @@ MEDIDAS DE SEGURIDAD, INSPECCIÓN, VIGILANCIA Y SANCIONES EN MATERIA DE
 
 PROTECCION AMBIENTAL
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1811.
 
-Cuando en el Municipio se presenten contingencias ambientales que pongan en peligro la salud pública o actividades que repercutan peligrosamente en los ecosistemas locales, la Dirección podrá ordenar, fundada y motivadamente, medidas de seguridad.
+Cuando en el Municipio se presenten contingencias ambientales que pongan en peligro la salud pública o actividades que repercutan peligrosamente en los ecosistemas locales, la Agencia podrá ordenar, fundada y motivadamente, medidas de seguridad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1812.
 
-Las medidas de seguridad que dictará el H. Ayuntamiento, por conducto de la Dirección serán:
+Las medidas de seguridad que dictará el Honorable Ayuntamiento, por conducto de la Agencia serán:
 
 I. La clausura temporal, parcial o definitiva de la fuente;
 
@@ -23085,17 +25371,23 @@ II. El aseguramiento precautorio de los bienes, utensilios o instrumentos direct
 
 III. Todas aquellas medidas de seguridad que establezcan otros ordenamientos.
 
-La Dirección podrá solicitar el auxilio de la fuerza pública para ejecutar cualquiera de las acciones anteriores.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+La Agencia podrá solicitar el auxilio de la fuerza pública para ejecutar cualquiera de las acciones anteriores.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1813.
 
-Cuando las contingencias ambientales rebasen el ámbito de competencia del Municipio, el H. Ayuntamiento, por conducto de la Dirección, notificará inmediatamente a la PROFEPA o a las autoridades estatales correspondientes para que decomisen, retengan o destruyan las sustancias o productos contaminantes y en su caso, apliquen las sanciones establecidas en las legislaciones correspondientes.
+Cuando las contingencias ambientales rebasen el ámbito de competencia del Municipio, el Honorable Ayuntamiento, por conducto de la Agencia, notificará inmediatamente a la PROFEPA o a las Autoridades Estatales correspondientes para que decomisen, retengan o destruyan las sustancias o productos contaminantes y en su caso, apliquen las sanciones establecidas en las legislaciones correspondientes.
 
 DE LA INSPECCIÓN Y VIGILANCIA EN MATERIA DE PROTECCIÓN AMBIENTAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1814.
 
-Corresponden al H. Ayuntamiento por conducto de la Dirección:
+Corresponden al Honorable Ayuntamiento por conducto de la Agencia:
 
 I. Celebrar convenios y contratos en coordinación con las autoridades federales, estatales, consultoras ambientales o bufetes acreditados para apoyar la realización de acciones de inspección y vigilancia necesarias dentro del Municipio, con el fin de verificar el cumplimiento de los asuntos de su competencia;
 
@@ -23103,13 +25395,17 @@ II. Realizar dentro del Municipio, las visitas de inspección que considere nece
 
 III. Citar a comparecencias, practicar las vistas, inspecciones, con el fin de comprobar la existencia de fuentes o actividades contaminantes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1815.
 
-La Dirección en el ámbito de su competencia, realizará las visitas de inspección en materia de protección ambiental, a través del personal debidamente autorizado por la Dirección, el personal estará obligado mostrar su identificación oficial y el oficio de comisión con la persona con quien se entienda la diligencia. El oficio de comisión deberá estar debidamente fundado y motivado, con la firma del Director, en el que se precisará el lugar o zona que deberá inspeccionarse, la vigencia de la orden de inspección, su objeto y su alcance.
+La Agencia en el ámbito de su competencia, realizará las visitas de inspección en materia de protección ambiental, a través del personal debidamente autorizado por la Agencia, el personal estará obligado mostrar su identificación oficial y el oficio de comisión con la persona con quien se entienda la diligencia. El oficio de comisión deberá estar debidamente fundado y motivado, con la firma del Director General de la Agencia, en el que se precisará el lugar o zona que deberá inspeccionarse, la vigencia de la orden de inspección, su objeto y su alcance.
 
 Este oficio de comisión no puede ser requisitado a mano, y tampoco podrá tener alteraciones notorias, todo ello con la finalidad de dar certeza y evitar malos manejos de estos documentos.
 
-La Dirección deberá llevar una bitácora en la que se registren los números de oficio de comisión, la fecha de vigencia del mismo y el nombre o nombres de las personas acreditadas para realizar la inspección o verificación.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Agencia (sic ) deberá llevar una bitácora en la que se registren los números de oficio de comisión, la fecha de vigencia del mismo y el nombre o nombres de las personas acreditadas para realizar la inspección o verificación.
 
 El personal autorizado, previo a iniciar la inspección requerirá la presencia del visitado o su Representante Legal; en caso de no encontrarse ambos, se entenderá la diligencia con el encargado o cualquier trabajador, le exhibirá la orden respectiva y le entregará copia de la misma con firma autógrafa, requiriéndola para que en el acto designe dos testigos.
 
@@ -23165,13 +25461,17 @@ El personal autorizado para la inspección, deberá dejar al visitado copia del 
 
 Si la persona con la que se entendió la diligencia, se negara a firmar el acta o aceptar copia de la misma, se asentará en ella dicha circunstancia, sin que esto afecte su validez.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1817.
 
-El H. Ayuntamiento a través de la Dirección, con base en el resultado de las inspecciones, dictará las medidas necesarias para corregir las deficiencias que se hubiesen encontrado, notificándolas al interesado y dándole un plazo no mayor de 15 días hábiles para su realización o pago; así como cualquiera de las sanciones administrativas a que se hubiese hecho acreedor.
+El Honorable Ayuntamiento a través de la Agencia, con base en el resultado de las inspecciones, dictará las medidas necesarias para corregir las deficiencias que se hubiesen encontrado, notificándolas al interesado y dándole un plazo no mayor de quince días hábiles para su realización o pago; así como cualquiera de las sanciones administrativas a que se hubiese hecho acreedor.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1818.
 
-Dentro de los diez días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias o irregularidades observadas, éste, deberá dar cumplimiento a las medidas ordenadas y en los términos del requerimiento respectivo comunicarlo por escrito y en forma detallada a la Dirección.
+Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias o irregularidades observadas, éste, deberá dar cumplimiento a las medidas ordenadas y en los términos del requerimiento respectivo comunicarlo por escrito y en forma detallada a la Agencia.
 
 La autoridad, deberá realizar una visita para verificar el cumplimiento de las medidas mencionadas en el artículo anterior.
 
@@ -23179,7 +25479,9 @@ La autoridad, deberá realizar una visita para verificar el cumplimiento de las 
 
 Cuando se trate de visita posterior de inspección para verificar el cumplimiento de un requerimiento anterior y del acta correspondiente, se desprende que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente podrá disponer la sanción o sanciones que procedan a conforme al presente Capítulo.
 
-En los casos en que proceda, la Dirección denunciará ante el Ministerio Público la realización u omisión de actos o hechos que pudieran configurar uno o más delitos ambientales en los términos del Código de Defensa Social para el Estado de Puebla y el Código Penal Federal.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+En los casos en que proceda, la Agencia denunciará ante el Ministerio Público la realización u omisión de actos o hechos que pudieran configurar uno o más delitos ambientales en los términos del Código de Defensa Social para el Estado de Puebla y el Código Penal Federal.
 
 DE LAS SANCIONES EN MATERIA DE PROTECCIÓN AMBIENTAL
 
@@ -23187,17 +25489,19 @@ DE LAS SANCIONES EN MATERIA DE PROTECCIÓN AMBIENTAL
 
 Se considera infractor toda persona o autoridad que por hecho, acto u omisión directa, intencional o imprudencial, colaborando de cualquier forma, o bien, induzca directa o indirectamente a alguien a infringir las disposiciones del presente Capítulo y demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1821.
 
-Las sanciones por infracción a las disposiciones que se disponen en el presente Capítulo serán impuestas por el Director de Gestión y en su caso, el Subdirector de Ecología y Medio Ambiente. Las sanciones que se aplicarán por violación a las disposiciones contenidas en el presente Capítulo, consistirán en:
+Las sanciones por infracción a las disposiciones que se disponen en el presente Capítulo serán impuestas por el Director de la Agencia. Las sanciones que se aplicarán por violación a las disposiciones contenidas en el presente Capítulo, consistirán en:
 
 I. Amonestación;
 
 II. Apercibimiento;
 
-III. Multa, conforme a la siguiente tabla:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+III. Multa de 20 a 3000 mil días de salario mínimo vigente en el Estado:
 
 SUPUESTO NORMATIVO INFRACCIÓN
 
@@ -23267,19 +25571,23 @@ VII. Suspensión de la licencia, permiso, concesión o autorización, según el 
 
 VIII. Arresto administrativo hasta por treinta y seis horas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1822.
 
-En caso de no contar con autorización expresa por parte de la Dirección conforme a lo establecido en el artículo 1741 del presente ordenamiento, el responsable se hará acreedor a las sanciones que se establecerán conforme a los siguientes criterios:
+En caso de no contar con autorización expresa por parte de la Agencia conforme a lo establecido en el artículo 1741 del presente ordenamiento, el responsable se hará acreedor a las sanciones que se establecerán conforme a los siguientes criterios:
 
-I. Quien en propiedad privada realice el derribo de uno o varios árboles se hará acreedor al pago de una multa por el equivalente de quince días de salario mínimo vigentes en el Municipio de Puebla, por cada árbol derribado y tendrá el compromiso de recuperar la cobertura vegetal perdida donando al H. Ayuntamiento el equivalente a cinco tantos de los árboles derribados;
+I.- Quien en propiedad privada realice el derribo de uno o varios árboles se hará acreedor al pago de una multa por el equivalente de quince días de salario mínimo vigentes en el Municipio de Puebla, por cada árbol derribado y tendrá el compromiso de recuperar la cobertura vegetal perdida donando al Honorable Ayuntamiento el equivalente a la masa vegetal de los árboles derribados;
 
-II. Quien en propiedad pública realice el derribo de uno o varios árboles se hará acreedor al pago de una multa por el equivalente de cincuenta días de salario mínimo vigentes en el Municipio de Puebla, por cada árbol derribado y tendrá la obligación de recuperar la cobertura vegetal perdida, donando al H. Ayuntamiento el equivalente a diez tantos de los árboles derribados en la misma zona; y
+II.- Quien en propiedad pública realice el derribo de uno o varios árboles se hará acreedor al pago de una multa por el equivalente de cincuenta días de salario mínimo vigentes en el Municipio de Puebla, por cada árbol derribado y tendrá la obligación de recuperar la cobertura vegetal perdida donando al Honorable Ayuntamiento el equivalente a la masa vegetal de los árboles derribados; y
 
-III. Cuando el derribo se realice para la construcción de obras, cuyas dimensiones, impliquen un fuerte impacto ambiental de la zona, para la recuperación de cobertura vegetal, la Dirección determinará la especie y número, considerándose el impacto al ambiente de la zona, independientemente de poder sancionar con clausura temporal o definitiva el lugar de la obra.
+III.- Cuando el derribo se realice para la construcción de obras, cuyas dimensiones, impliquen un fuerte impacto ambiental de la zona, para la recuperación de cobertura vegetal, la Agencia determinará la especie y número, considerándose el impacto al ambiente de la zona, independientemente de poder sancionar con clausura temporal o definitiva el lugar de la obra.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1823.
 
-Para la imposición de las sanciones por infracciones al presente Capítulo, se tomará en cuenta a juicio de la Dirección:
+Para la imposición de las sanciones por infracciones al presente Capítulo, se tomará en cuenta a juicio de la Agencia:
 
 I. La gravedad de la infracción, considerando principalmente el criterio del impacto en la salud pública y la generación de desequilibrio ecológico en el territorio del Municipio de Puebla; y
 
@@ -23291,13 +25599,19 @@ Procederá la clausura temporal o definitiva, parcial o total en los casos que s
 
 Cuando proceda la clausura temporal o definitiva, parcial o total como sanción, el personal comisionado para ejecutarla procederá a levantar acta detallada de la diligencia, siguiendo para ello los lineamientos generales establecidos para las inspecciones.
 
-En los casos en que se imponga como sanción la clausura temporal la Dirección indicará al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-Si una vez vencido el plazo concedido por la autoridad para subsanar las infracciones que se hubieran cometido, o resultare que dicha infracción o infracciones aun subsisten, la Dirección podrá imponerse al infractor multas por cada día que transcurra sin obedecer el mandato, sin que el total de las multas exceda el máximo permitido conforme a la fracción III del articulo 1821 de este Capítulo.
+En los casos en que se imponga como sanción la clausura temporal la Agencia indicará al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Si una vez vencido el plazo concedido por la Autoridad para subsanar las infracciones que se hubieran cometido, o resultare que dicha infracción o infracciones aún subsisten, la Agencia podrá imponerse al infractor multas por cada día que transcurra sin obedecer el mandato, sin que el total de las multas exceda el máximo permitido conforme a la fracción III del artículo 1821 de este Capítulo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1824.
 
-En caso de comprobarse la responsabilidad del infractor por haber realizado actos u omisiones que generen o puedan generar deterioro ambiental o daños a la salud dentro del Municipio, independientemente de la sanción impuesta por la Dirección, el infractor tiene la obligación de realizar o en su defecto, cubrir los gastos de acciones de restauración y en su caso, reparar los daños, hasta que las condiciones ambientales o de salud se restablezcan, a criterio de la Dirección.
+En caso de comprobarse la responsabilidad del infractor por haber realizado actos u omisiones que generen o puedan generar deterioro ambiental o daños a la salud dentro del Municipio, independientemente de la sanción impuesta por la Agencia, el infractor tiene la obligación de realizar o en su defecto, cubrir los gastos de acciones de restauración y en su caso, reparar los daños, hasta que las condiciones ambientales o de salud se restablezcan, a criterio de la Agencia.
 
 ###### Artículo 1825.
 
@@ -23363,9 +25677,11 @@ En todo lo no previsto en el presente Capítulo, se aplicarán las disposiciones
 
 Son objeto de tutela y protección del presente Capítulo, los animales y especies de fauna silvestre que se encuentren dentro del territorio del Municipio de Puebla.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1833.
 
-Para los efectos del presente Capítulo, además de los conceptos definidos en la Legislación Vigente y las normas oficiales mexicanas, se entenderá por:
+Para los efectos del presente Capítulo, además de los conceptos definidos en la Legislación vigente y las Normas Oficiales Mexicanas, se entenderá por:
 
 Animal abandonado: los animales que deambulen libremente por la vía pública sin placa de identidad u otra forma de identificación; así como aquellos que queden sin el cuidado o protección de sus propietarios o poseedores dentro de los bienes del dominio privado;
 
@@ -23399,7 +25715,9 @@ Campañas: acción pública realizada de manera periódica por la autoridad para
 
 Cautiverio: el alojamiento temporal o permanente de fauna en áreas o instalaciones distintas a su entorno natural, que no implique maltrato al mismo;
 
-Centro: el Centro Antirrábico, de Referencia Epidemiológica y de Control Animal del Municipio de Puebla, el cual realiza las funciones de captura, sacrificio humanitario de animales abandonados, la prevención y el control de la rabia, así como las demás actividades análogas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Centro: El Centro Antirrábico, de Referencia Epidemiológica y de Control Animal dependiente de la Agencia de Protección al Ambiente y Desarrollo Sustentable del Municipio de Puebla, el cual realiza las funciones de captura, sacrificio humanitario de animales abandonados, la prevención y el control de la rabia, así como las demás actividades análogas;
 
 Condiciones adecuadas: las condiciones de trato digno y respetuoso que este Capítulo establece, así como las referencias que al respecto determinan las normas oficiales mexicanas;
 
@@ -23475,11 +25793,11 @@ V. Celebrar convenios de concertación con los sectores público, social y priva
 
 VI. Las demás que le confiera la Ley, este Capítulo y los ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1838.
 
-Son atribuciones de la Dirección de Gestión a través de la Subdirección de Ecología y Medio Ambiente o la autoridad administrativa que ejerza las facultades previstas en el presente Capítulo, las siguientes:
+Corresponde a la Agencia como ente de la Administración Pública Municipal, el ejercicio de las siguientes facultades:
 
 I. La promoción de información y difusión que genere una cultura cívica de protección, responsabilidad, respeto y trato digno a los animales;
 
@@ -23537,11 +25855,11 @@ DE LA CULTURA PARA LA PROTECCIÓN A LOS ANIMALES
 
 Las autoridades municipales, en el ámbito de sus facultades, promoverán mediante programas y campañas de difusión la cultura de protección a los animales objeto de este Capítulo, consistente en valores y conductas de respeto por parte del ser humano hacia los animales, con base en las disposiciones establecidas en el presente Capítulo en materia de trato digno y respetuoso.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1843.
 
-La Dirección de Gestión a través de la Subdirección de Ecología y Medio Ambiente promoverá programas de formación en la cultura de protección a los animales, ante las autoridades competentes que las instituciones de educación básica, media, superior y de investigación, así como con las organizaciones no gubernamentales y asociaciones protectoras de animales.
+La Agencia promoverá programas de formación en la cultura de protección a los animales, ante las autoridades competentes que las instituciones de educación básica, media, superior y de investigación, así como con las organizaciones no gubernamentales y asociaciones protectoras de animales.
 
 ###### Artículo 1844.
 
@@ -24153,9 +26471,11 @@ Nadie puede sacrificar a un animal en la vía pública, salvo por motivos de pel
 
 DE LA DENUNCIA Y VIGILANCIA
 
-###### Artículo 1907
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-Toda persona podrá denunciar ante el Centro todo hecho, acto u omisión que contravenga a las disposiciones del presente Capítulo y demás ordenamientos jurídicos aplicables.
+###### Artículo 1907.
+
+Toda persona podrá denunciar ante la Agencia todo hecho, acto u omisión que contravenga a las disposiciones del presente Capítulo y demás ordenamientos jurídicos aplicables.
 
 Si por la naturaleza de los hechos denunciados se tratare de asuntos de competencia del orden federal o sujetos a la jurisdicción de otra autoridad federativa, las autoridades municipales deberán turnarla inmediatamente a la autoridad competente.
 
@@ -24231,7 +26551,9 @@ Las sanciones administrativas podrán ser:
 
 I. Amonestación;
 
-II. Multa o arresto hasta por dieciocho horas, en los términos del presente Capítulo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+II. Multa o arresto hasta por treinta y seis horas, en los términos del presente Capítulo;
 
 III. Clausura definitiva cuando exista reincidencia en los casos que haya motivado una clausura temporal o cuando se trate de hechos, actos u omisiones cuyo fin primordial sea el de realizar actos prohibidos por este Capítulo; y
 
@@ -24245,9 +26567,11 @@ Procederá la amonestación para aquellos casos en los que por primera vez se mo
 
 Las multas causarán un importe de 1 a 100 días de salario mínimo vigente en el Estado, dependiendo de la falta cometida y de conformidad con el tabulador de infracciones y los siguientes criterios:
 
-a) Sanciones que se homologan con el Capítulo de Policía y Gobierno del presente Código Reglamentario.
+a) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 
-I. Amonestación; Arresto hasta de dieciocho horas; o Multa de 1 a 8 días de Salario Mínimo vigente en el Estado, conforme al inciso b) fracción II del artículo 209 del Capítulo de Policía y Gobierno de este Código Reglamentario.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+b) Sanciones que se determinarán de la siguiente manera:
 
 (VEASE ARCHIVO ANEXO)
 
@@ -24293,9 +26617,11 @@ Los empleados del Centro y de Industrial de Abastos Puebla, que incurran en falt
 
 Cuando exista denuncia presentada en los términos de este Capítulo, el Centro impondrá la sanción administrativa.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 1927.
 
-Las personas que violen el presente Capítulo y sean sorprendidas en flagrancia, serán remitidas por la Policía Preventiva Municipal, al Juzgado Calificador, quien impondrá la sanción correspondiente en términos del Capítulo de Policía y Gobierno; y para la imposición de sanciones por faltas no previstas en el Capítulo de Policía y Gobierno en la materia de este Capítulo, el Juez Calificador, hará de conocimiento de la autoridad competente, remitiendo los informes suficientes, para efecto de que dicha autoridad, imponga las sanciones dispuestas en el presente Capítulo.
+Las personas que violen el presente Capítulo y sean sorprendidas en flagrancia, serán remitidas por la Policía Preventiva Municipal, al Juzgado Calificador, quien como ejecutor de la sanción impuesta por la Autoridad competente, recibirá al infractor y ordenará que se ingrese al área de seguridad a compurgar la sanción impuesta, y será competente para conocer de la conmutación si así lo solicitare el infractor, sea por multa o bien por trabajo a favor de la comunidad, previa la solicitud que realice; debiendo remitir los informes de conocimiento a la Autoridad ordenadora.
 
 DEL RECURSO DE INCONFORMIDAD
 
@@ -29802,3 +32128,47 @@ P.O. 29 DE AGOSTO DE 2008.
 ÚNICO.- Las presentes reformas, derogaciones y adiciones surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Lo previsto en el párrafo anterior se exceptúa en los casos en que, atendiendo a la característica accesoria del marco reglamentario, para la asunción de nuevas denominaciones de las estructuras administrativas se requiera de adecuaciones a la ley, en cuyo evento, la vigencia de este Dictamen surtirá sus efectos el mismo día que los decretos congresionales respectivos.
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+PRIMERO.- Las presentes reformas, derogaciones y adiciones surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las propuestas a que se refieren los artículos 222 fracción IX y 224 del Código Reglamentario para el Municipio de Puebla, se autorizarán siempre y cuando exista disponibilidad presupuestal.
+
+TERCERO.- Para el caso de los Jueces Calificadores, Secretarios, Supervisores y Notificadores que forman parte de los Juzgados Calificadores y que actualmente se encuentran laborando, deberán aprobar los exámenes por oposición y cumplir con los requisitos que señala el Código Reglamentario Municipal; para tal efecto el Síndico Municipal convocará a las Asociaciones de Abogados, Barras y Colegios de Abogados que tengan debidamente acreditada su personalidad, para realizar y formular la convocatoria para el examen aludido, lo anterior para ratificar o no los nombramientos correspondientes, en un plazo no mayor a treinta días a partir de la publicación del presente Reglamento en el Periódico Oficial del Estado.
+
+CUARTO.- Las Zonas Publicitarias que se señalan en el artículo 1254 fracción XLIV del Código Reglamentario para el Municipio de Puebla, se componen por los corredores urbanos CAl (Corredor de Alto Impacto) y CUMS (Corredor de Servicios y Uso Mixto), mismos que a continuación se detallan.
+
+(VEASE ARCHIVO ANEXO)
+
+QUINTO.- Para los efectos de los anuncios en azoteas, una vez que sea publicado este ordenamiento en el Periódico Oficial del Estado, los propietarios o titulares de las licencias deberán retirarlos a partir de la fecha de vencimiento de la licencia o refrendo correspondiente, en un término de treinta días hábiles; facultándose a la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable, a la Agencia de Protección al Ambiente y Desarrollo Sustentable del Municipio de Puebla, una vez que entre en vigor, a la Unidad de Normatividad y Regulación Comercial y a la Unidad Operativa Municipal de Protección Civil para que de manera conjunta o separada verifiquen el retiro del anuncio citado.
+
+Transcurrido el término señalado, sin que se retire el anuncio, será la Agencia de Protección al Ambiente y Desarrollo Sustentable del Municipio de Puebla, quién proceda al retiro de dichos anuncios con cargo al propietario o titular de la licencia correspondiente, o en su caso iniciará el Procedimiento Administrativo de Ejecución.
+
+SEXTO.- Para el caso de las vallas publicitarias, tótem, autosoportados denominativos y de propaganda, puentes peatonales, anuncios electrónicos, de neón, mantódromos y pendones, que actualmente tienen características y ubicaciones diferentes a las señaladas en la presente reforma, se les otorgará un término de sesenta días naturales para su regularización, a partir de su publicación en el Periódico Oficial del Estado.
+
+SÉPTIMO.- Las vallas publicitarias, tótem, autosoportados denominativos y de propaganda, anuncios en puentes peatonales, electrónicos y de neón, deberán contar con una distancia de 200 metros entre ellos, además de no invadir la vía pública en su plano virtual, en caso de que se encuentren irregulares se les otorgará el término señalado en el artículo transitorio anterior para su regularización.
+
+OCTAVO.- Los artículos que se reforman correspondientes a la Agencia de Protección al Ambiente y Desarrollo Sustentable del Municipio de Puebla, entrarán en vigor a partir del primero de enero de dos mil nueve, por lo que en tanto en cuanto entran en vigencia, se entenderá que se refieren a la Subdirección de Ecología y Medio Ambiente y/o Departamento de Parques y Jardines y/o Departamento de Antirrábico y/o Departamento de Imagen, Equipamiento Urbano y Patrimonio y/o Departamento de Alumbrado Público, según corresponda en las disposiciones que se reforman.
+
+NOVENO.- La Secretaría de Seguridad Pública y Tránsito Municipal dará a conocer al personal médico adscrito la Norma Oficial Mexicana 076SSA 1 2002 que establece los diferentes periodos de intoxicación etílica, siendo la siguiente:
+
+Aliento alcohólico 0.000 a 0.050 aliento alcohólico, sin penalización.
+
+1er. período 0.050 a 0.0100 primer periodo de intoxicación, afecta el Sistema Nervioso Central, incoordinación leve, rubor facial, ojos rojos.
+
+2°. período 0.100 a 0.150 segundo periodo de intoxicación, lo anterior, más actitud discutoria, más arrastra la voz (disartria).
+
+3er. periodo 0.150 a 0.200 tercer periodo de intoxicación, lo anterior más incoordinación evidente, irresponsabilidad, incongruencia en los juicios.
+
+El alcoholímetro está equipado con una celda electroquímica que detecta los radicales oxidrilo y nos muestra el porcentaje de BAC (braining alcohol concentration), haciendo la correlación clínica con las manifestaciones que presenta el ciudadano que realiza la prueba y esta medida que muestra el alcoholímetro permiten dictaminar en el formato el periodo de intoxicación.
+
+Cabe señalar que las manifestaciones en cada sujeto dependen del estado de salud, el sexo, la edad, la ingesta de alimentos, la masa muscular y el hábito de consumo.
+
+Por lo anteriormente expuesto sometemos a consideración de este Cuerpo Edilicio el siguiente:
+
+DICTAMEN
+
+PRIMERO.- Se aprueban las reformas, derogaciones y adiciones a diversas disposiciones del Código Reglamentario para el Municipio de Puebla, en los términos del considerando XX del presente Dictamen.
+
+SEGUNDO.- Se instruye al Secretario del Honorable Ayuntamiento para que realice los trámites necesarios a fin de que se publique por una sola vez en el Periódico Oficial del Estado, las reformas, derogaciones y adiciones a diversas disposiciones del Código Reglamentario para el Municipio de Puebla, que se aprueban mediante el presente Dictamen.
