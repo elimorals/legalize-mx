@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2008-01-25"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -395,11 +395,11 @@ La amonestación se hará en público o en privado, a juicio del funcionario que
 
 ### CAPITULO DECIMO.- PRISION
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 41.
 
-La sanción consistente en la privación de la libertad corporal será de tres días a setenta años, y se compurgará de preferencia, en el Centro de Readaptación Social de la Zona a la que corresponda el Distrito Judicial donde se dictó sentencia. Sin embargo el Ejecutivo podrá ordenar que la sanción se compurgue en cualquier otro de los centros de reclusión del Estado o bien en uno Federal de acuerdo con los convenios celebrados a este respecto.
+La sanción consistente en la privación de la libertad corporal será de tres días a setenta años. Sólo en los casos en que la ley expresamente lo autorice, se podrá imponer prisión vitalicia. Se compurgará de preferencia, en el Centro de Readaptación Social de la Zona a la que corresponda el Distrito Judicial donde se dictó sentencia, sin embargo el Ejecutivo podrá ordenar que la sanción se compurgue en cualquier otro de los Centros de Reclusión del Estado o bien en un Federal de acuerdo con los convenios celebrados a este respecto.
 
 ###### Artículo 42.
 
@@ -2839,25 +2839,39 @@ IV.- Cuando los plagiarios obren en grupo o banda.
 
 V.- Cuando se cometa robo de infante.
 
-> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-Si el secuestrado fallece en el tiempo en que se encuentra privado de la libertad, por causas directamente relacionadas con el ilícito que se comete en su contra, o es privado de la vida por su o sus secuestradores, se aplicarán las reglas del concurso de delitos.
-
-> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 302
 
-Bis.- Se impondrá de dieciocho a setenta años de prisión y multa de doscientos a dos mil días de salario, cuando la privación arbitraria de la libertad, por cualquier lapso, que tenga el carácter de plagio o secuestro, se cometa en contra de: incapaces física y mentalmente, menores de dieciséis años, mujeres, mayores de sesenta años o cualesquiera que padezca una enfermedad que requiera del suministro de medicamentos, radicaciones o la evaluación mediante exámenes de laboratorio químico en su persona y que de ser suspendido alteren su salud o pongan en peligro su vida y a cualquier persona que padezca una enfermedad crónica o grave o tenga una discapacidad que requiera de cuidados especiales.
+Bis.- Se impondrá de treinta años de prisión a prisión vitalicia y multa de cuatro mil a ocho mil días de salario, si en la privación de la libertad a que se hace referencia el artículo 302 concurre alguna o algunas de las circunstancias siguientes:
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+a) Que el autor sea o haya sido integrante de alguna institución de seguridad pública, o se ostente como tal sin serlo;
+
+b) Que la víctima sea menor de dieciocho años de edad, mayor de sesenta años de edad, mujer o que por cualquier otra circunstancia se encuentre en inferioridad física o mental respecto de quien ejecuta la privación de la libertad;
+
+c) Que a la víctima del secuestro se le cause alguna lesión de las previstas en los artículos 307 y 308 fracciones III, IV y V de este Código; o
+
+d) Que la víctima padezca una enfermedad crónica o grave o tenga una discapacidad que requiera de cuidados especiales; o que padezca una enfermedad que requiera del suministro de medicamentos, radiaciones o la evaluación mediante exámenes de laboratorio químico en su persona y que de ser suspendido alteren su salud o pongan en peligro su vida.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 302
+
+Ter.- Si el secuestrado fallece en el tiempo en que se encuentra privado de la libertad, por causas directamente relacionadas con el ilícito que se comete en su contra, o es privado de la vida por su o sus secuestradores, se impondrán de cuarenta años de prisión a prisión vitalicia y multa de seis mil a doce mil días de salario.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 303.
 
-Para efectos de la fracción V del artículo 302 de este Código, comete el delito de robo de infante la persona que, sin ser su familiar, se apodere de un menor de catorce años, sin derecho; sin consentimiento de la persona que ejerciere la patria potestad, la tutela, la custodia o la guarda sobre el mismo; mediante engaño o aprovechándose de un error.
+Si espontáneamente se libera al secuestrado dentro de los tres días siguientes a la privación de la libertad, sin lograr alguno de los propósitos a que se refieren las fracciones I y II del artículo 302 y sin haberle causado daños, la pena será de cuatro a ocho años de prisión y de cien a trescientos días de multa.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 304.
 
-Si el plagiario pusiere espontáneamente en libertad a la persona secuestrada, dentro de los tres días siguientes, y no le hubiere causado ninguna lesión, sólo se le aplicarán de dos a ocho años de prisión y multa de treinta a trescientos días de salario.
+Para efectos de la fracción V del artículo 302, comete el delito de robo de infante la persona que, sin ser su familiar, se apodere de un menor de catorce años, sin derecho; sin consentimiento de la persona que ejerciere la patria potestad, la tutela, la custodia o la guarda sobre el mismo; mediante engaño o aprovechándose de un error.
 
 CAPITULO DECIMOQUINTO.- DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
@@ -3176,6 +3190,8 @@ IV.- Cuando el aborto se deba a causas eugenésicas graves, según dictamen que 
 CAPITULO DECIMOSEXTO.- DELITOS DE PELIGRO
 
 #### SECCION SEPTIMA.- CHANTAJE
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 #### SECCION OCTAVA.- REGLA COMUN A VARIAS SECCIONES ANTERIORES
 
@@ -3799,9 +3815,11 @@ IV.- Cuando por imprudencia se ocasionare daño en propiedad ajena, que no sea m
 
 ###### Artículo 415.
 
-Comete el delito de chantaje el que con ánimo de conseguir un lucro o provecho, amenazare a otro con daños morales, físicos o patrimoniales, que afecten al amenazado o a persona física o jurídica con quien éste tuviere relaciones de cualquier orden que lo determinen a protegerlos.
+Comete el delito de chantaje el que con ánimo de conseguir un lucro o provecho, amenazare a otro por cualquier medio con la finalidad de causar daños morales, físicos o patrimoniales, que afecten al amenazado o a persona física o jurídica con quien éste tuviere relaciones de cualquier orden que lo determinen a protegerlos.
 
 Al culpable de este delito se le impondrán de dos a diez años de prisión y multa de cien a mil días de salario.
+
+Si el o los responsables del delito son o fueron servidores públicos o miembros de una institución de seguridad privada que en razón de su función utilizasen los medios o circunstancias que ésta le proporciona para la comisión del delito, se aumentará en dos tercios la pena que corresponda. Se impondrá además en el primer caso, la destitución del empleo, cargo o comisión público; en el segundo supuesto se estará a lo previsto en las leyes aplicables.
 
 En los procesos por chantaje, el procedimiento será secreto, sin publicación de ninguna de las constancias de autos, cuando los hechos afecten a juicio del Juez, el honor, prestigio o crédito de personas físicas o jurídicas.
 
@@ -4482,3 +4500,9 @@ P.O. 25 DE ENERO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
