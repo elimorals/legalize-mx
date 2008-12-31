@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-instituto-marca-chiapas-antes-ley-organica-524
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-10-12"
-last_updated: "2008-03-05"
+last_updated: "2008-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # LEY ORGANICA DEL INSTITUTO MARCA CHIAPAS -ANTES LEY ORGANICA DEL INSTITUTO DE LAS ARTESANIAS Y PRODUCTOS DE CHIAPAS-
 
-LEY ORGANICA DEL INSTITUTO DE LAS ARTESANIAS Y PRODUCTOS DE CHIAPAS
+LEY ORGANICA DEL INSTITUTO MARCA CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el jueves 12 de octubre de 2006.
 
@@ -39,13 +39,17 @@ Considerando
 
 Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido ha (sic) bien emitir la siguiente:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE MARZO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-Ley Orgánica del Instituto de las Artesanías y Productos de Chiapas
+Ley Orgánica del Instituto Marca Chiapas
 
 ### Capítulo I. De la Creación y Personalidad del Instituto
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 1º.
+
+Se crea el Organismo Público Descentralizado de la Administración Pública del Estado de Chiapas, denominado Instituto Marca Chiapas, en lo sucesivo el Instituto, cuyo objeto es el rescate, preservación, fomento, promoción, acopio, distribución y difusión de artesanías, productos regionales, así como el impulso del registro y comercialización de los mismos mediante la estrategia marca Chiapas y Sistema de Tiendas Marca Chiapas, mismo que estará sectorizado a la Secretaría de Economía del Estado.
 
 ###### Artículo 1°.
 
@@ -127,11 +131,15 @@ XVI. Opinar y en su caso, resolver sobre la procedencia de los programas y proye
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
 
-XVII. Coordinar y validar las acciones que se realicen en materia de artesanías y productos regionales en el Estado; y,
+XVII. Coordinar y validar las acciones que se realicen en materia de artesanías y productos regionales en el Estado; y, (sic)
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XVIII. Las demás que le señalen las Leyes, Reglamentos, Manuales y disposiciones relativas a la materia.
+XVIII. Impulsar el Registro y comercialización de los productos y conceptos de la estrategia marca Chiapas, y el sistema de tiendas marca Chiapas;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XIX. Los demás asuntos que le correspondan, en los términos de las leyes aplicables, su reglamento Interior y los que le instruya el Titular del Poder Ejecutivo del Estado.
 
 ### Capítulo III. De los Órganos de Gobierno del Instituto
 
@@ -157,27 +165,19 @@ La Junta de Gobierno del Instituto se integrará por:
 
 I. Un presidente que será el Secretario de Economía;
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-II. Un Secretario Técnico que será el Secretario de Turismo y Proyectos Estratégicos; y,
+II. Un Secretario Técnico que será el Secretario de Turismo y Relaciones Internacionales;
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 5 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-III. Cinco vocales, que serán:
+III. Los vocales, que serán:
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2008)</small>
+a) El Secretario de Hacienda.
 
-a) El Secretario de Finanzas;
+b) El Secretario de Pueblos Indios.
 
-b) El Secretario de Pueblos Indios;
-
-c) El Secretario de Desarrollo Social;
-
-d) El Presidente de la Comisión de Artesanías del Congreso del Estado.
-
-(ADICIONADO, P.O. 5 DE MARZO DE 2008) (F. DE E., P.O. 23 DE ABRIL DE 2008)
-
-e) El Secretario de Planeación y Desarrollo Sustentable.
+e) El Secretario de Desarrollo Social.
 
 (REFORMADO, P.O. 5 DE MARZO DE 2008) (F. DE E., P.O. 23 DE ABRIL DE 2008)
 
@@ -263,9 +263,15 @@ IV. Nombrar, remover y reubicar al personal técnico y administrativo del instit
 
 V. Otorgar, sustituir y revocar poderes generales y especiales para pleitos y cobranzas y actos de administración, con las facultades que les competen, entre ellas las que requieren autorización o cláusula especial, pero cuando sean a favor de personas ajenas al Instituto, deberá solicitar la aprobación a la Junta de Gobierno;
 
-VI. Presentar ante la Junta de Gobierno, para su aprobación correspondiente, los manuales de operación y el Reglamento Interno del Instituto; y,
+VI. Presentar ante la Junta de Gobierno, para su aprobación correspondiente, los manuales de operación y el Reglamento Interno del Instituto; y, (sic)
 
-VII. Todas aquellas que la Junta de Gobierno le encomiende en cumplimiento de la presente Ley y su Reglamento.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VII. Efectuar las acciones necesarias para el registro y comercialización de los productos y el concepto de la estrategia marca Chiapas, así como el sistema de tiendas marca Chiapas;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VIII. Todas aquellas que la Junta de Gobierno le encomiende en cumplimiento de la presente Ley, su Reglamento Interior y demás disposiciones aplicables.
 
 ### Capítulo V. Del Órgano de Vigilancia
 
@@ -346,3 +352,11 @@ P.O. 5 DE MARZO DE 2008.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Las menciones y atribuciones contenidas en otras leyes, reglamentos y en general, en cualquier disposición normativa, que se refieran al Instituto de las Artesanías y Productos de Chiapas, se entenderán concedidas al Instituto Marca Chiapas.
+
+Artículo Tercero.- Se derogan las disposiciones que se opongan a presente Decreto.
