@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-que-regula-la-prestacion-de-los-servicios-de-63813"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-10"
-last_updated: "2008-09-10"
+last_updated: "2008-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO QUE REGULA LA PRESTACION DE LOS SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 10 de septiembre de 2008.
 
@@ -81,7 +81,9 @@ XIV. Modalidad: A la particularidad del servicio otorgado por la Secretaría a l
 
 XV. Modificación: A la ampliación o cambio de las modalidades autorizadas al prestador del servicio;
 
-XVI. Multa: Sanción administrativa impuesta el prestador de servicio y que consiste en la obligación de pagar una cantidad determinada de dinero;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XVI. Multa: Sanción administrativa impuesta al prestador de servicio y que consiste en la obligación de pagar una cantidad determinada de dinero;
 
 XVII. Obligaciones: Los compromisos que se le imponen al prestador del servicio de seguridad privada;
 
@@ -137,11 +139,15 @@ Este ordenamiento, acuerdos, políticas y lineamientos administrativos aplicable
 
 La aplicación del presente reglamento corresponde al Ejecutivo Estatal por conducto de la Secretaría a través de la Dirección.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 8°.
 
-La Secretaría tendrá las siguientes facultades:
+La Secretaría a través de la Dirección, tendrá las siguientes facultades en materia de seguridad privada:
 
-I. Autorizar la prestación del servicio de seguridad privada en el Estado y, en su caso revalidar, revocar o modificar la autorización otorgada para dicho efecto;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+I. Emitir la autorización para la prestación del servicio de seguridad privada en el Estado y, en su caso revalidar, revocar o modificar la autorización otorgada para dicho efecto;
 
 II. Determinar e imponer las sanciones previstas en este reglamento;
 
@@ -207,7 +213,9 @@ VIII. Aceptación formal de la suspensión de su autorización o revalidación c
 
 En el escrito a que hace referencia el artículo anterior se deberá manifestar bajo protesta de decir verdad lo siguiente:
 
-I. Que la persona física, socios, asociados o integrantes del órgano de administración, gestores, representantes, apoderados y mandatarios legales, no son miembros activos de los cuerpos de seguridad pública o de las fuerzas armadas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+I. Que la persona física, socios, asociados o integrantes del órgano de administración, gestores, representantes, apoderados y mandatarios legales, no son miembros activos de los cuerpos de seguridad pública municipal, estatal, federal o de las fuerzas armadas;
 
 II. Que la persona física, socios, asociados o integrantes del órgano de administración, no han sido condenados por delito doloso con sanción privativa de la libertad mayor de un año; y,
 
@@ -269,9 +277,11 @@ XIX. Muestras físicas de insignias, distintivos, divisas, logotipos, emblemas o
 
 XX. Exhibir muestra física y fotografías a color del uniforme a utilizar por los elementos, de cuerpo entero, frontal, lateral y posterior, con todos los aditamentos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 13.
 
-Los documentos públicos a que hace referencia este Capítulo deberán presentarse en copia simple para su cotejo; los documentos privados se presentarán en original, debidamente firmados por el representante legal o persona autorizada para tal efecto.
+Los documentos públicos a que hace referencia este Capítulo deberán presentarse en original y copia simple para su cotejo; los documentos privados se presentarán en original, debidamente firmados por el representante legal o persona autorizada para tal efecto.
 
 Los particulares que para el cumplimiento de los requisitos establecidos en los artículos 11, 12 y 13 de este reglamento, no les resulte aplicable alguno lo manifestarán por escrito, bajo protesta de decir verdad y expondrán el motivo por el que no actualizan el supuesto.
 
@@ -285,17 +295,21 @@ La Secretaría en su carácter de autoridad normativa, podrá agregar los requis
 
 Si el peticionario de la autorización no exhibe con su solicitud la totalidad de los requisitos señalados en el Título Segundo de este reglamento, la Dirección, dentro de los diez días hábiles siguientes a la presentación, de la misma, lo prevendrá para que en un plazo improrrogable de veinte días hábiles, subsane las omisiones o deficiencias que en su caso presente la solicitud; transcurrido dicho plazo sin que el interesado haya subsanado las omisiones o deficiencias de la solicitud, ésta será desechada.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 16.
 
-De ser procedente la autorización, el solicitante deberá presentar dentro de los siete días hábiles siguientes a la notificación, Póliza de Fianza expedida por institución legalmente autorizada a favor de la Secretaría de Hacienda, por un monto equivalente a cinco mil veces el salario mínimo general vigente en Estado de Chiapas, que deberá contener la siguiente leyenda: "Para garantizar por un monto equivalente a cinco mil veces el salario mínimo general vigente en el Estado, las condiciones a que se sujetará en su caso la autorización o revalidación para prestar servicios de seguridad privada en el territorio del Estado de Chiapas otorgada por la Secretaría de Seguridad y Protección Ciudadana, con vigencia de un año a partir de la fecha de autorización; la presente fianza no podrá cancelarse sin previa autorización de su beneficiaria, la Secretaría de Hacienda".
+De ser procedente la autorización, el solicitante deberá presentar dentro de los siete días hábiles siguientes a la notificación, Póliza de Fianza expedida por institución legalmente autorizada a favor de la Secretaría de Hacienda, por un monto equivalente a cinco mil veces el salario mínimo general vigente en el Estado de Chiapas, que deberá contener la siguiente leyenda: "Para garantizar por un monto equivalente a cinco mil veces el salario mínimo general vigente en el Estado, las condiciones a la que se sujetará en su caso la autorización o revalidación para prestar servicios de seguridad privada en el territorio del Estado de Chiapas otorgada por la Secretaría de Seguridad y Protección Ciudadana, con vigencia de un año a partir de la fecha de autorización; la presente fianza no podrá cancelarse sin previa autorización de su beneficiaria, la Secretaría de Hacienda".
 
 ###### Artículo 17.
 
 La autorización será personal e intransferible, contendrá el número de registro otorgado por la Secretaría, modalidades que se autorizan y condiciones a que se sujeta la prestación de los servicios. La vigencia será de un año y podrá ser revalidada por el mismo tiempo en los términos establecidos en este reglamento.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 18.
 
-La autorización que la Secretaría otorgue a los prestadores del servicio quedará sujeta a las obligaciones, prohibiciones y restricciones establecidas en los artículos 10, 11, 12 y 13 del presente reglamento.
+La autorización que la Secretaría otorgue a los prestadores del servicio quedará sujeta a las obligaciones, prohibiciones y restricciones prescritas en el Título III del presente reglamento.
 
 ###### Artículo 19.
 
@@ -319,21 +333,27 @@ Una vez autorizada la revalidación, la Secretaría notificará al prestador par
 
 La revalidación se negará, cuando existan quejas graves presentadas por los usuarios y que se vean afectados con la prestación del servicio, previa comprobación de la Secretaría.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 24.
 
-La revalidación estará sujeta al estricto cumplimiento de los artículos 10, 11, 12 y 13 del presente ordenamiento.
+La revalidación estará sujeta al estricto cumplimiento de los artículos comprendidos en el Título III del presente ordenamiento.
 
 ###### Artículo 25.
 
 Transcurrida la vigencia de la autorización o su revalidación, el interesado deberá abstenerse de prestar el servicio de seguridad privada, hasta en tanto sea expedido un nuevo acto administrativo que para tal efecto lo autorice.
 
-### Capítulo IV. De las Modificaciones de la Autorización
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+### Capítulo IV. De las Modificaciones
 
 ###### Artículo 26.
 
 Los prestadores del servicio que hayan obtenido la autorización o revalidación y pretendan ampliar o modificar las modalidades en que se presta el servicio, deberán presentar ante la Secretaría solicitud por escrito para que en un término de 15 días hábiles acuerde lo procedente.
 
-En caso de existir alguna prevención, el prestador del servicio contará con quince días hábiles para subsanarla, contados a partir de la notificación del acto; de no hacerlo, el trámite se desechará.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+En caso de existir una prevención, el prestador del servicio contara con quince días hábiles para subsanarla, contados a partir de su notificación; de no hacerlo, el trámite se desechará.
 
 ###### Artículo 27.
 
@@ -379,9 +399,11 @@ Las personas que se dediquen a prestar el servicio en esta modalidad, quedarán 
 
 ### Capítulo VI. Del Registro Estatal
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 30.
 
-El Registro Estatal es un sistema a cargo de la Secretaría y contiene la información necesaria para la supervisión y el control de los prestadores del servicio. Se integrará con bancos de datos de las personas morales o físicas autorizadas para la prestación y utilización del servicio, de su personal directivo, técnico, administrativo y elementos, del equipo y en su caso de los datos de la asignación del armamento utilizado, así como los servicios y la cobertura de los mismos.
+El Registro Estatal es un sistema a cargo de la Secretaría y contiene la información necesaria para la supervisión y el control de los prestadores del servicio. Se integrará con la base de datos de las personas morales o físicas autorizadas para la prestación y utilización del servicio, de su personal directivo, técnico, administrativo y elementos, del equipo y en su caso de los datos de la asignación del armamento utilizado, así como los servicios y cobertura de los mismos.
 
 En él se inscribirán los rubros de prestadores de servicios autorizados, alta y baja de personal, vehículos, infraestructura y modalidades de seguridad privada, autorizaciones y constancias de registro, sanciones y delitos; accionistas, socios, gestores, representantes, apoderados y mandatarios legales y demás registros que sean necesarios a juicio de la Secretaría.
 
@@ -433,7 +455,7 @@ l) Cualquier procedimiento judicial en su contra, en trámite o concluido.
 
 X. Descripción de cada unidad de equipo y del armamento asignado a los elementos, conforme a la clasificación siguiente:
 
-a) Por perro utilizado en el servicio;
+a) Por perro .utilizado en el servicio;
 
 b) Por arma de fuego asignada a los elementos, al amparo de la licencia correspondiente;
 
@@ -491,9 +513,11 @@ X. Notificar mensualmente el movimiento nominal de su personal; y,
 
 XI. Coadyuvar con las autoridades y las diversas dependencias de la Secretaría.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 35.
 
-Con el objeto de que se efectúen las consultas de antecedentes policiales no negativos del personal directivo, administrativo, técnicos y elementos de los prestadores del servicio, al órgano competente del Sistema Nacional de Seguridad Pública, el prestador del servicio deberá presentar por escrito a la Secretaría, la relación de aspirantes. Dicho escrito deberá contener información relativa al nombre completo y Registro Federal de Contribuyentes.
+Con el objeto de que se efectoeen (sic) las consultas de antecedentes policiales no negativos del personal directivo, administrativo, técnicos y elementos de los prestadores del servicio, al órgano competente del Sistema Nacional de Seguridad Pública, el prestador del servicio deberá presentar por escrito a la Secretaría, la relación dé aspirantes. Dicho escrito deberá contener información relativa al nombre completo y Registro Federal de Contribuyentes.
 
 La Secretaría deberá de informar a más tardar dentro de los diez días hábiles siguientes a la presentación del escrito, el resultado de las consultas que se hubieren efectuado.
 
@@ -543,11 +567,15 @@ I. Carecer de antecedentes penales;
 
 II. Ser mayor de edad;
 
-III. Estar inscritos en el Registro Estatal y Nacional de Empresas, Personal y Equipo de Seguridad Privada;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+III. Estar inscritos en el Registro Nacional de Personal de Seguridad Pública;
 
 IV. Estar debidamente capacitados en las modalidades en que prestarán el servicio;
 
-V. No haber sido separado de las fuerzas armadas o de instituciones de seguridad pública o privada por alguna de las causas previstas en la fracción III, del artículo 12, del presente reglamento; y,
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+V. No haber sido separado de las fuerzas armadas o de instituciones de seguridad poeblica (sic) o privada por algunas de las causas previstas en la fracción III, incisos a), b), c), d), e), f), del artículo 11, del presente reglamento; y,
 
 VI. No ser miembros en activo de alguna Institución de Seguridad Pública Federal, Estatal o Municipal o de las fuerzas armadas.
 
@@ -757,9 +785,17 @@ Las notificaciones, citatorios, emplazamientos, requerimientos, solicitud de inf
 
 La Secretaría, de conformidad con las disposiciones del presente reglamento y con el fin de salvaguardar a las personas y sus bienes, así como para proteger la salud y seguridad pública, podrán ordenar una o más de las siguientes medidas cautelares:
 
-I. Clausura temporal, parcial o total de las instalaciones o de los sitios en donde se desarrollen actos que contravenga al presente reglamento; y,
+> <small>(REFORMADA P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-II. La suspensión temporal, parcial o total de la autorización.
+I. Clausura parcial o total de las instalaciones o de los sitios en donde se desarrollen actos que contravenga al presente reglamento;
+
+> <small>(REFORMADA P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+II. La suspensión temporal, parcial o total de la autorización; y,
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+III. La suspensión temporal o parcial de sus instalaciones.
 
 ###### Artículo 69.
 
@@ -769,41 +805,43 @@ Asimismo, la Secretaría podrá promover ante la autoridad competente, que se or
 
 ### Capítulo VI. De las Infracciones y Sanciones
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 70.
 
-Atendiendo al interés público, la Secretaría sancionará en el ámbito de su competencia a los prestadores de servicios cuando incurran en violaciones a este reglamento y demás disposiciones aplicables, conforme a lo siguiente:
+Atendiendo al interés público, la Secretaría sancionará en el ámbito de su competencia a los prestadores de servicios cuando incurran en violaciones a este Reglamento y demás disposiciones aplicables, conforme a lo siguiente:
 
-I. Cuando se incumplan las obligaciones ordenadas en el artículo 34 de este reglamento se podrán aplicar las sanciones prescritas en el artículo 90 del mismo, de acuerdo a lo siguiente:
+I. Cuando se incumplan las obligaciones ordenadas en el artículo 34 de este Reglamento se aplicarán las sanciones siguientes:
 
-a) Amonestación por escrito con apercibimiento, si se incumple lo dispuestos por las fracciones IV, V, VI, X y XI;
+a) Amonestación por escrito con apercibimiento, si se incumple lo dispuestos (sic) por las fracciones I, IV, V, VI, X y XI;
 
 b) Aseguramiento del vehículo, por incumplimiento a la fracción II; y,
 
 c) Suspensión temporal de actividades al prestador del servicio y multa, por incumplir lo dispuesto en las fracciones III, VII, VIII y IX.
 
-II. Cuando se incumplan las obligaciones ordenadas en el artículo 37 de este reglamento se podrán aplicar las sanciones prescritas en el artículo 90 del mismo, fracción I y II.
+II. Cuando se incumplan las obligaciones ordenadas en el artículo 37 de este Reglamento se podrán aplicar las sanciones prescritas en el artículo 71 del mismo, fracciones I y II.
 
-III. Cuando se incumplan las obligaciones ordenadas en el artículo 38 del presente reglamento, se podrán aplicar las sanciones prescritas en el artículo 90, de acuerdo a las consideraciones y fracciones siguientes:
+III. Cuando se incumplan las obligaciones ordenadas en el artículo 38 del presente Reglamento, se podrán aplicar las sanciones siguientes:
 
 a) Amonestación por escrito con apercibimiento I; y,
 
-b) Aseguramiento de vehículos; II.
+b) Aseguramiento de vehículos, II.
 
-IV. Cuando se incumpla lo previsto en el artículo 40 de este ordenamiento se aplicarán las sanciones prescritas en el artículo 90, fracciones I y II del mismo.
+IV. Cuando se incumpla lo previsto en el artículo 40 de este ordenamiento se aplicarán las sanciones prescritas en el artículo 71, fracciones I y II del mismo.
 
-V. Cuando se incumplan las obligaciones ordenadas en el artículo 47 de este reglamento, se podrán aplicar las sanciones prescritas en el artículo 90, de acuerdo a las consideraciones y fracciones siguientes:
+V. Cuando se incumplan las prohibiciones ordenadas en el artículo 46 de este Reglamento, se podrán aplicar las sanciones siguientes:
 
-a) Amonestación por escrito con apercibimiento; si se incumple lo dispuesto en las fracciones VI y VII;
+a) Amonestación por escrito con apercibimiento, si se incumple lo dispuesto en las fracciones I, VI y VII;
 
-b) Aseguramiento de vehículos, si existe desacato a lo establecido en la fracción IV;
+b) Aseguramiento de vehículos, si existe desacato a lo establecido en la fracción IV,
 
 c) Suspensión temporal de actividades a la empresa u organización, por incumplimiento a lo dispuesto por las fracciones II, III y V; y,
 
-c) Clausura, total o parcial, por incumplimiento a la fracción VIII.
+c) (sic) Clausura, total o parcial, por incumplimiento a la fracción VIII.
 
-VI. Cuando se incumpla ley previsto en el artículo 49, de este ordenamiento se podrán aplicar las sanciones prescritas en el artículo 90, de acuerdo a lo siguiente:
+VI. Cuando se incumpla lo previsto en el artículo 48, de este ordenamiento se podrán aplicar las sanciones siguientes:
 
-a) Amonestación por escrito con apercibimiento, por incumplir por lo dispuesto en la fracción III;
+a) Amonestación por escrito con apercibimiento, por incumplir lo dispuesto en la fracción III;
 
 b) Suspensión temporal de actividades a la empresa, por desacato a lo establecido en la fracción V;
 
@@ -811,11 +849,13 @@ c) Multa, por incumplir con la disposición de la fracción IV; y,
 
 d) Clausura total, por incumplimiento a las fracciones I, II y IV.
 
-VII. Cuando se incumpla lo previsto en los artículos 51 y 52, de este ordenamiento se podrán aplicar cualquiera de las sanciones prescritas en el artículo 90, fracciones I, II y III.
+VII. Cuando se incumpla lo previsto en los artículos 51 y 52, de este ordenamiento se podrán aplicar cualquiera de las sanciones prescritas en el artículo 71, fracciones I, II y III.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 71.
 
-Las sanciones previstas en el artículo anterior, procederán de la siguiente manera:
+Las sanciones aplicables a quienes incumplan las obligaciones generales, prohibiciones y restricciones serán las siguientes:
 
 I. Amonestación, con difusión pública en la página de internet de la Secretaría;
 
@@ -882,3 +922,13 @@ El Ejecutivo dispondrá se publique, circule y se le dé debido cumplimiento.
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 04 días del mes de agosto del año dos mil ocho.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Daniel Roque Figueroa, Secretario de Seguridad y Protección Ciudadana.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero.- La Secretaría de Seguridad y Protección Ciudadana, en el marco de su competencia, proveerá lo necesario para el cumplimiento del presente Decreto.
