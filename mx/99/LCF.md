@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "2007-12-21"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 27 de diciembre de 1978.
 
@@ -266,29 +266,23 @@ Los municipios y demarcaciones territoriales recibirán como mínimo el 20% de l
 
 Los recursos que reciban las entidades federativas, municipios y demarcaciones territoriales, en términos de este artículo, deberán destinarse exclusivamente a infraestructura vial, sea rural o urbana; infraestructura hidráulica; movilidad urbana, y por lo menos 12.5 por ciento a programas para la protección y conservación ambiental.
 
-> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 4o.-B.
 
-El Fondo de Extracción de Hidrocarburos estará conformado con el 0.46% del importe obtenido por el derecho ordinario sobre hidrocarburos pagado por Pemex Exploración y Producción, en términos de lo previsto en el artículo 254 de la Ley Federal de Derechos.
+El Fondo de Extracción de Hidrocarburos estará conformado con el 0.6 por ciento del importe obtenido por el derecho ordinario sobre hidrocarburos pagado por Pemex Exploración y Producción, en términos de lo previsto en el artículo 254 de la Ley Federal de Derechos.
 
-El Fondo a que se refiere este artículo será distribuido entre aquellas entidades federativas que formen parte de la clasificación de extracción de petróleo y gas definida en el último censo económico realizado por el Instituto Nacional de Estadística, Geografía e Informática, de acuerdo a la fórmula siguiente:
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2008)</small>
+
+El Fondo a que se refiere este artículo será distribuido entre aquellas entidades federativas que formen parte de la clasificación de extracción de petróleo y gas definida en el último censo económico realizado por el Instituto Nacional de Estadística y Geografía, de acuerdo a la fórmula siguiente:
 
 (VEASE ARCHIVO ANEXO)
 
-En donde FEXHIt se refiere al Fondo de Extracción de Hidrocarburos en el año a repartir.
-
-es el coeficiente relativo a la extracción de petróleo y gas.
-
-es el coeficiente relativo a la producción de gas asociado y no asociado.
-
-EXPi,t-1 es el valor de extracción bruta de los hidrocarburos de la entidad federativa i conforme a la clasificación de extracción de petróleo y gas definida en el último censo económico realizado por el Instituto Nacional de Estadística, Geografía e Informática.
-
-EXGi,t-1 es el valor de producción de gas natural asociado y no asociado de la entidad federativa i, en el año anterior para el cual se realiza el cálculo, según el Sistema de Información Energética.
-
-es la sumatoria de la variable que le sigue, sobre las entidades que formen parte de la clasificación de extracción de petróleo y gas definida en el último censo económico realizado por el Instituto Nacional de Estadística, Geografía e Informática.
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
 La Secretaría de Hacienda y Crédito Público enterará a las entidades federativas las cantidades correspondientes, a más tardar el día 25 del mes posterior a la presentación de los pagos provisionales a que se refiere el artículo 255 de la Ley Federal de Derechos. Asimismo, dicha dependencia efectuará el ajuste que corresponda a los enteros mensuales provisionales, de acuerdo con la declaración definitiva a que se refiere el artículo 254 de dicha Ley.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
 Los municipios recibirán cuando menos el 20% de los recursos percibidos por las entidades federativas.
 
@@ -1939,6 +1933,10 @@ VIII. La Secretaría de Hacienda y Crédito Público evaluará la política de h
 ## TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el 1 de enero de 2008, salvo por lo que respecta a los artículos Segundo, fracción III y Sexto del mismo, los cuales iniciarán su vigencia a los quince días siguientes a la fecha de publicación de este Decreto en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 2008.
+
+Único. El presente decreto entrará en vigor el 1o. de enero de 2009.
 
 ## TRANSITORIO
 
