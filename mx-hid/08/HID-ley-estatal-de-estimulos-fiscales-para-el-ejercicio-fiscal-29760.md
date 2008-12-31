@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-estimulos-fiscales-para-el-ejercicio-fiscal-2976
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-30"
-last_updated: "2005-12-30"
+last_updated: "2008-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY ESTATAL DE ESTIMULOS FISCALES, PARA EL EJERCICIO FISCAL 2003
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 28, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de diciembre de 2002.
 
@@ -188,3 +190,9 @@ P.O. 30 DE DICIEMBRE DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor el día 1º. de enero de 2006, previa su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1° de enero de 2009, previa su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al' contenido del presente Decreto.
