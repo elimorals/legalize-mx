@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-tenencia-o-uso-de-vehiculos-618"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2008-04-01"
+last_updated: "2008-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=618&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1980-12-19"
 
 LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS TERCERO Y CUARTO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSAS DISPOSICIONES, PUBLICADO EN EL D.O.F. DE 21 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO A PARTIR DEL 1 DE ENERO DE 2012.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS TERCERO Y CUARTO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSAS DISPOSICIONES, PUBLICADO EN EL D.O.F. DE 21 DE DICIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A PARTIR DEL 1 DE ENERO DE 2012.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2008 (ABROGADO).
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -301,13 +301,13 @@ Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de mu
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-###### Artículo 13.
+###### ARTICULO 13.
 
 Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%.
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-###### Artículo 14.
+###### ARTICULO 14.
 
 Tratándose de motocicletas nuevas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente:
 
@@ -349,17 +349,15 @@ El monto de las cuotas establecidas en este artículo se actualizarán con el fa
 
 Tratándose de motocicletas de más de diez años modelo anteriores al de aplicación de esta Ley, el impuesto se pagará a la tasa del 0%.
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2008)</small>
 
-###### Artículo 14-B.
+###### ARTICULO 14-B.
 
-Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos, que además cuenten con motor de combustión interna nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del automóvil el 0.16%.
-
-Para los efectos de este artículo, el impuesto únicamente será aplicable a aquellas unidades que para su circulación requieran de placas y tarjeta de circulación expedidas por las autoridades estatales o del Distrito Federal.
+Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos, que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-###### Artículo 14-C.
+###### ARTICULO 14-C.
 
 Para los efectos de lo dispuesto en los artículos 5o., 12, 14 y 14-A, de esta Ley, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el por ciento citado, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación.
 
@@ -403,11 +401,11 @@ Las autoridades competentes para expedir los certificados de aeronavegabilidad o
 
 ### Capítulo III-A. Vehículos Usados
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2008)</small>
 
-###### Artículo 15-B.
+###### ARTICULO 15-B.
 
-Tratándose de vehículos de fabricación nacional o importados, a que se refieren los artículos 5o., fracción IV y 14-B de esta Ley, así como de aeronaves y motocicletas, excepto automóviles destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
+Tratándose de vehículos de fabricación nacional o importados, a que se refieren los artículos 5o., fracción IV y 14-B de esta Ley, así como de aeronaves, excepto automóviles destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -448,8 +446,6 @@ I. El valor total del automóvil se multiplicará por el factor de depreciación
 > <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 II. La cantidad obtenida conforme a la fracción anterior se actualizará de conformidad con lo dispuesto en el artículo 14-C de esta Ley; el resultado obtenido se multiplicará por 0.245%.
-
-> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -499,7 +495,7 @@ Para efectos de la depreciación y actualización a que se refiere este artícul
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-###### Artículo 15-D.
+###### ARTICULO 15-D.
 
 Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, usados, el impuesto será el que resulte de aplicar el procedimiento siguiente:
 
@@ -550,6 +546,42 @@ Años de Antigüedad Factor de depreciación
 b) La cantidad obtenida conforme al inciso anterior, se actualizará de conformidad con lo dispuesto en el artículo 14-C de esta Ley; al resultado se le aplicará la tasa a que hace referencia el artículo 13 de la misma.
 
 Para los efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2008)</small>
+
+###### ARTICULO 15-E.
+
+Tratándose de motocicletas de fabricación nacional o importadas, de hasta nueve años modelo anteriores al de aplicación de esta Ley, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+El valor total de la motocicleta se multiplicará por el factor de depreciación, de acuerdo al año modelo de la motocicleta, de conformidad con la siguiente:
+
+Tabla
+
+Años de Factor de
+
+antigüedad depreciación
+
+1 0.9
+
+2 0.8
+
+3 0.7
+
+4 0.6
+
+5 0.5
+
+6 0.4
+
+7 0.3
+
+8 0.2
+
+9 0.1
+
+A la cantidad obtenida conforme al párrafo anterior, se le aplicará la tarifa a que hace referencia el artículo 14 de esta Ley.
+
+Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda la motocicleta.
 
 ### CAPITULO IV. Participaciones a las Entidades Federativas
 
@@ -623,9 +655,7 @@ A.- De fabricación nacional o importados iguales a los de fabricación nacional
 
 Año Categoría
 
-Modelo
-
-A B C D E F
+Modelo A B C D E F
 
 1977 300 1,000 1,500 4,000 10,000 20,000
 
@@ -639,9 +669,7 @@ A B C D E F
 
 1972 200 300 500 800 1,200 4,000
 
-1971-
-
-1970 200 200 300 400 750 1,000
+1971-1970 200 200 300 400 750 1,000
 
 Para los efectos de la tarifa anterior se atenderá a las siguientes categorías:
 
@@ -1846,3 +1874,7 @@ D.O.F. 1 DE ABRIL DE 2008.
 Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2008.
 
 Segundo. Los montos de las cantidades establecidas en el artículo 14 de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, se encuentran actualizadas al mes de diciembre de 2007.
+
+D.O.F. 31 DE DICIEMBRE DE 2008.
+
+Único. El presente decreto entrará en vigor el 1o. de enero de 2009.
