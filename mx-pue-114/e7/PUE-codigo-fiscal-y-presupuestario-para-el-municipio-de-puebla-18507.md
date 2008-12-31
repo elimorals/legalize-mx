@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-y-presupuestario-para-el-municipio-de-puebla-1850
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-17"
-last_updated: "2007-12-31"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 17 de diciembre de 1999.
 
@@ -263,11 +263,13 @@ VII. Dependencias.- Las dependencias de la Administración Pública Centralizada
 
 VIII. Destinataria: La dependencia o entidad beneficiaria de un acuerdo de destino respecto de un bien del dominio público;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-IX. SAU. Secretaría de Administración Urbana y Obra Pública del Honorable Ayuntamiento del Municipio de Puebla;
+IX. SAU.- Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable del Honorable Ayuntamiento del Municipio de Puebla;
 
-X. Dirección Jurídica.- La Dirección General Jurídica Consultiva del Honorable Ayuntamiento del Municipio de Puebla;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+X. Dirección Jurídica.- La Dirección General Jurídica y de lo Contencioso;
 
 XI. Entidades.- Los organismos, los fideicomisos públicos municipales y las empresas de participación municipal mayoritaria, de la Administración Pública del Municipio de Puebla;
 
@@ -289,11 +291,21 @@ XIX. Periódico Oficial.- Periódico Oficial del Estado de Puebla;
 
 XX. Presidente.- El Presidente Constitucional del Honorable Ayuntamiento del Municipio de Puebla;
 
-XXI. Síndico.- El Síndico del Honorable Ayuntamiento del Municipio de Puebla;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XXII. Tesorería.- La Tesorería del Honorable Ayuntamiento del Municipio de Puebla; y
+XXI. Perito Valuador.- Es la persona que cuenta con los conocimientos necesarios para emitir avalúos, siendo ingeniero, arquitecto, corredor público, técnico o especialista en valuación, contando con cédula profesional o constancia oficial, expedida por autoridad competente;
 
-XXIII. Tesorero.- El Titular de la Tesorería del Honorable Ayuntamiento del Municipio de Puebla.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXII. Síndico.- El Síndico del Honorable Ayuntamiento del Municipio de Puebla;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXIII. Tesorería.- La Tesorería del Honorable Ayuntamiento del Municipio de Puebla; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXIV. Tesorero.- El Titular de la Tesorería del Honorable Ayuntamiento del Municipio de Puebla.
 
 ###### Artículo 2.
 
@@ -567,37 +579,41 @@ b) El Jefe del Departamento de Ejecución u Oficina Ejecutora.
 
 c) El Director de Catastro.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-d) El Jefe del Departamento del Impuesto Sobre Adquisición de Bienes Inmuebles.
+d) El Jefe del Departamento de Impuestos Inmobiliarios.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-e) El Jefe del Departamento del Impuesto Predial.
+e) El Jefe del Departamento de Actualización de Predial.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-f) El Titular del Sistema Municipal de Registro y Fiscalización.
+f) El Titular de la Unidad de Normatividad y Regulación Comercial.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-g) El Titular del área de Padrón de Contribuyentes.
+g) El Jefe del Departamento de Licencias y Padrón de Contribuyentes.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-h) El Titular de cada área de Coordinación Operativa de Comercios Establecidos.
+h) El Titular de la Coordinación de Fiscalización de Comercio Establecido.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-i) El Titular de cada área de Coordinación Operativa de Vía Pública.
+i) El Titular de la Coordinación de Fiscalización de Espectáculos Públicos.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-j) El Titular de cada área de Coordinación Operativa de Espectáculos Públicos.
+j) El Titular de la Coordinación de Fiscalización a Vía Pública.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-k) El Director Jurídico de la Tesorería Municipal.
+k) El Titular de la Coordinación de Fiscalización de Mercados, Central e Industrial de Abasto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+l) El Director Jurídico de la Tesorería Municipal.
 
 V. Los demás servidores públicos a los que las leyes y convenios confieren facultades específicas en materia de hacienda municipal o las reciban por delegación expresa de las autoridades señaladas en este artículo; y
 
@@ -1220,6 +1236,78 @@ Durante el plazo concedido para el pago a plazos, se causarán recargos conforme
 ###### Artículo 59.
 
 Durante el plazo concedido para el pago a plazos, se causarán intereses sobre el saldo insoluto incluyendo los accesorios, a una tasa que será treinta y tres por ciento inferior a la de recargos que fije anualmente la Ley de Ingresos del Municipio.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 59 Bis.
+
+Los avalúos realizados a los inmuebles que se encuentren dentro del Municipio de Puebla, serán válidos para efectos del cálculo de contribuciones sobre la propiedad inmobiliaria, cuando sean elaborados, realizados y emitidos por peritos debidamente registrados y autorizados ante la Dirección de Catastro.
+
+Para obtener el registro al que se refiere el párrafo anterior, se deberán satisfacer los siguientes requisitos:
+
+I.- Presentar ante la Dirección de Catastro, los siguientes documentos:
+
+a) Solicitud por escrito, para inscribir en el Registro de Perito Valuador, señalando domicilio para oír y recibir notificaciones, debidamente firmada y dirigida al Director de Catastro del Municipio;
+
+b) Original y copia del Acta de Nacimiento reciente;
+
+c) Original y copia del documento expedido por las autoridades competentes que acredite los conocimientos requeridos en materia de valuación;
+
+d) Original y copia de la constancia de ejercicio de la profesión o técnica, y tener cuando menos dos años de práctica en valuación;
+
+e) Dos fotografías tamaño infantil;
+
+f) Original y copia de comprobante de domicilio;
+
+g) Copia de la Clave Única del Registro de Población;
+
+h) Original y copia del comprobante de pago de derechos, por la aplicación del examen de conocimientos prácticos y teóricos en materia valuatoria, el cual será aplicado por la Dirección de Catastro; e
+
+i) Original y copia del comprobante del pago de derechos, por la expedición de la autorización y credencial; siempre y cuando este requisito sea cubierto previamente a la aprobación del examen.
+
+II.- Acreditar el examen de conocimientos que aplique la Dirección de Catastro.
+
+III.- Cubrir el costo de los derechos que prevea la Ley de Ingresos del Municipio de Puebla, para el ejercicio fiscal que resulte aplicable.
+
+La Dirección de Catastro deberá analizar si la solicitud y los demás documentos a que se refiere la fracción I de este artículo se encuentran completos, y en caso contrario se notificará personalmente al solicitante, para que en el término de tres días hábiles siguientes en que surta sus efectos la notificación, acompañe la documentación requerida y en caso de no hacerlo así se tendrá por desechada su solicitud.
+
+En caso de reunir los requisitos mencionados, la Dirección de Catastro, dentro de los cinco días hábiles posteriores a la recepción de la solicitud, señalará lugar, día y hora para la aplicación del examen de conocimientos prácticos y teóricos en materia de valuación inmobiliaria, dando a conocer al solicitante esos datos en el domicilio que haya señalado para recibir notificaciones.
+
+El resultado se hará saber al solicitante, a más tardar diez días hábiles siguientes al examen, poniendo a su disposición el examen para su consulta.
+
+La omisión de responder al solicitante dentro del plazo referido será sancionado por la Contraloría.
+
+El resultado del examen podrá ser objetado ante la Dirección de Catastro, la que deberá someter el examen ante el Consejo Municipal de Catastro, quien lo revisará ante la presencia del solicitante, emitiendo el Consejo una determinación definitiva.
+
+En caso de que el examen sea aprobado, la Dirección de Catastro previo el pago de los derechos por la expedición de la credencial respectiva incorporará al solicitante al Registro de Peritos Valuadores y lo considerará apto para la expedición de avalúos para efectos del cálculo de las contribuciones sobre la propiedad inmobiliaria.
+
+El Registro de Peritos Valuadores será de acceso público.
+
+Dentro del mes de enero de cada ejercicio fiscal, los Peritos Valuadores deberán refrendar su registro ante la Dirección de Catastro previo el pago de derechos y siempre y cuando no haya sido cancelado el mismo por causas que le sean imputables al perito valuador.
+
+Los objetivos y contenido general de los exámenes serán aprobados por el Consejo Municipal de Catastro.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 59 Ter.
+
+Son obligaciones de los Peritos Valuadores:
+
+I.- Acudir personalmente al predio o al lugar donde se encuentran los bienes objetos del avalúo;
+
+II.- Establecer oficina en el lugar de su domicilio legal para el ejercicio de su profesión, debiendo anunciar su especialidad y número de registro, fijando en su exterior un letrero en que se indiquen los datos anteriores;
+
+III.- Cumplir con legalidad y honradez el ejercicio de su actividad;
+
+IV.- Dar a conocer previamente a la prestación de sus servicios el monto de sus honorarios;
+
+V.- Abstenerse de intervenir en los asuntos en los que por cualquier circunstancia no puedan emitir sus dictámenes con absoluta imparcialidad, así como en aquéllos que les sean propios o de su cónyuge, parientes consanguíneos en línea recta sin limitación de grado, colaterales hasta el cuarto y parientes por afinidad, y en general cuando se encuentren en alguna situación que afecte la imparcialidad de su opinión;
+
+VI.- Abstenerse de intervenir en peritajes y en la expedición de avalúos que se requieran para trámites ante entidades gubernamentales, cuando ocupe algún cargo o empleo en el sector público municipal;
+
+VII.- Observar en todo caso cualquier disposición normativa de valores que se dicte por parte de las Autoridades Fiscales; y
+
+VIII.- Emitir dictamen o avalúo y especificar todas las cuestiones relativas al peritaje.
 
 ###### Artículo 60.
 
@@ -2045,9 +2133,11 @@ V. No declarar o enterar las contribuciones municipales a la Tesorería en los t
 
 VI. Coadyuvar con los infractores en cualquier forma en la evasión total o parcial del pago de las contribuciones, mediante alteraciones, simulaciones, ocultación u otras acciones u omisiones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 84.
 
-Son infracciones cuya responsabilidad corresponde a los funcionarios y empleados públicos municipales, así como a los encargados de servicios públicos y órganos oficiales, las siguientes:
+Son infracciones cuya responsabilidad corresponde a los funcionarios y empleados públicos municipales, los encargados de servicios públicos y órganos oficiales, así como peritos valuadores, las siguientes:
 
 I. Dar entrada o curso a documentos que carezcan en todo o en parte, de los requisitos establecidos en las disposiciones fiscales y en general, no cuidar el cumplimiento de las mismas.
 
@@ -2061,19 +2151,23 @@ IV. No exigir el pago total de las prestaciones fiscales, recaudar, permitir u o
 
 V. No presentar ni proporcionar o hacer extemporáneamente los informes, avisos, datos o documentos que exijan las disposiciones fiscales o presentarlos incompletos o inexactos; no prestar auxilio a las autoridades fiscales para la determinación y cobro de las prestaciones tributarias;
 
-VI. Presentar los informes, avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VI. Presentar los informes, avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados, o tratándose de avalúos para efectos del cálculo de contribuciones sobre la propiedad inmobiliaria, presentarlos sin apegarse a los procedimientos y lineamientos técnicos y normativos aplicables;
 
 VII. Asentar falsamente que se ha dado cumplimiento a las disposiciones legales o que se practicaron visitas domiciliarias o incluir en las actas relativas, datos falsos;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-VIII. No practicar las visitas domiciliarias, inspecciones, verificaciones, o cualquier otro acto de fiscalización, así como omitir realizar operaciones catastrales cuando tengan obligación de hacerlo;
+VIII. No practicar las visitas domiciliarias, inspecciones, verificaciones, o cualquier otro acto de fiscalización, así como omitir realizar operaciones catastrales cuando tengan obligación de hacerlo o realizarlas sin contar con el registro de perito valuador en los casos en que así sea requerido;
 
 IX. Intervenir durante el ejercicio de sus funciones, en la tramitación o resolución de algún asunto en el que el servidor público tenga interés y del que se derive algún beneficio personal o de terceros con los que tenga relación profesional, laboral o de negocios estando impedido para hacerlo de acuerdo a las disposiciones legales;
 
 X. Faltar a la obligación de guardar absoluta reserva respecto de los asuntos que conozcan, revelar los datos declarados por los contribuyentes o aprovecharse de ellos. Para los efectos de esta fracción, los representantes de los contribuyentes que intervengan en las juntas o reuniones que califiquen, tabulen o aprueben en su caso, determinaciones para efectos fiscales, se asimilan a los servidores públicos;
 
-XI. Facilitar o permitir la alteración de declaraciones, avisos o cualquier otro documento o coadyuvar en cualquier forma para que se evadan las prestaciones fiscales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XI. Facilitar o permitir la alteración o asiento de datos falsos, en declaraciones, avisos, avalúos, o cualquier otro documento o coadyuvar en cualquier forma para que se evadan las prestaciones fiscales;
 
 XII. Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos;
 
@@ -2120,6 +2214,14 @@ XV. Infringir disposiciones fiscales en forma distinta de las previstas en las f
 ###### Artículo 86.
 
 El Ayuntamiento y sus dependencias fiscales impondrán las sanciones administrativas por infracción a las disposiciones fiscales, de acuerdo a los montos que señale la Ley de Ingresos del Municipio vigente en el momento en que se cometan las infracciones.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+La imposición de sanciones es independiente de las responsabilidades que se generen por la adecuación de conductas sancionadas por otros ordenamientos y de la responsabilidad solidaria de los créditos fiscales que se hayan dejado de pagar.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Tratándose de peritos valuadores, cuando la conducta infractora que realicen, sea reincidente o se realice en dos o más avalúos simultáneamente, se cancelará en forma definitiva su registro.
 
 ### CAPÍTULO III. DE LOS DELITOS FISCALES
 
@@ -2795,11 +2897,65 @@ La suspensión podrá ser solicitada en cualquier tiempo ante la oficina ejecuta
 
 No se exigirá garantía adicional si en el Procedimiento Administrativo de Ejecución se embargaron bienes suficientes para garantizar el interés del fisco municipal.
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+#### SECCIÓN SEXTA. DEL ABANDONO DE MERCANCÍAS
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 162 Bis.
+
+Causarán abandono en favor de la Hacienda Pública Municipal, los vehículos que se encuentren en los corralones del Municipio o en los lugares autorizados por éste, así como las mercancías que obran en los almacenes municipales como consecuencia de embargos, procedimientos de remate y adjudicación o retiro de mercancías de la vía pública, en los siguientes casos:
+
+I.- Expresamente, cuando los interesados así lo manifiesten por escrito.
+
+II.- Tácitamente, cuando no sean retiradas dentro de los plazos que a continuación se indican:
+
+a) Tres meses, tratándose de vehículos infraccionados que se encuentren en los corralones del Municipio o los lugares autorizados por éste, contados a partir del momento en que ingresan a los corralones, salvo que su retiro no sea posible por existir mandamiento de autoridad competente.
+
+En el caso referido en la última parte del párrafo anterior el plazo contará a partir del momento en que la autoridad competente determine que el vehículo se encuentra a disposición de su propietario o de quien tenga derecho a poseerlo.
+
+Si la orden de la autoridad competente es a favor de un depositario, no procederá el abandono, pero quien retire el vehículo pagará los conceptos de ingreso que prevea la Ley de Ingresos del Municipio de Puebla aplicable.
+
+b) Tres días, tratándose de mercancías que se encuentran en los almacenes municipales como consecuencia de su retiro de la vía pública, salvo que se trate de perecederos o de fácil descomposición, de animales vivos, de mercancías explosivas, inflamables, contaminantes o corrosivas, en cuyo caso el plazo es de veinticuatro horas.
+
+c) Tres meses, respecto de vehículos que se encontraban a disposición de otras autoridades, contados a partir del momento en que puedan ser retirados por sus propietarios o quien tenga derechos para poseerlos.
+
+d) Un mes, respecto de quienes adquieren los bienes por remate dentro del Procedimiento Administrativo de Ejecución y obtienen la autorización de la Autoridad Fiscal para su retiro, sin que el mismo haya ocurrido.
+
+e) Dos meses, en los demás casos en que no exista impedimento legal para el retiro del vehículo, salvo el pago de las infracciones y los derechos por maniobras, arrastre y guarda de vehículo.
+
+Se entenderá que las mercancías se encuentran a disposición del interesado a partir del día siguiente a aquél en que se notifique la resolución correspondiente.
+
+Tratándose de vehículos, en el caso de que el afectado, por resolución judicial tenga derecho a la devolución del bien, pero éste ya haya sido enajenado a través del Procedimiento de remate que regula este Código o destruido, el reclamante sólo podrá obtener el reembolso del valor que obtuvo el Municipio por tal acto. En los demás casos el Municipio retribuirá el valor de mercado de los bienes en el estado en que se encontraban u otros de similares características.
+
+No procederá el abandono respecto de mercancías que conforme a los ordenamientos aplicables deban ser puestas a disposición de autoridades diversas de las municipales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 162 Ter.
+
+Cuando hubiera transcurrido el plazo a que se refiere el artículo 162 Bis de este Código, la Autoridad Fiscal competente notificará personalmente si conoce el domicilio del particular o, en caso contrario, por instructivo que se fijará en las oficinas de la Tesorería, que ha transcurrido el plazo de abandono y que cuentan con quince días para retirarlos, previa la comprobación del cumplimiento del pago de las contribuciones, productos o aprovechamientos que adeuden, y que, de no hacerlo, se entenderá que han pasado a ser propiedad de la Hacienda Pública Municipal.
+
+Tratándose de mercancías explosivas, inflamables, contaminantes o corrosivas, así como de mercancías perecederas o de fácil descomposición y de animales vivos, el plazo para retirar las mercancías a que se refiere el párrafo anterior será de 24 horas.
+
+Una vez que los bienes pasen a propiedad de la Hacienda Pública Municipal, el Tesorero determinará el destino de los bienes, el que será ejecutado por la Secretaría de Administración y Tecnologías de la Información del Honorable Ayuntamiento. En el caso de bienes muebles no previstos en el párrafo anterior, se estará a lo dispuesto en la Ley de la materia.
+
+En su caso, el producto de la venta se destinará al pago de obligaciones municipales o inversiones públicas productivas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 162 Quáter.
+
+Los plazos de abandono se interrumpirán:
+
+I.- Por la interposición del Recurso de Revisión que prevé el presente Código y obtenga la suspensión respectiva; y
+
+II.- Por consulta entre autoridades, si de dicha consulta depende la entrega de las mercancías a los interesados.
+
 PARTE II
 
 DE LA MATERIA TRIBUTARIA
-
-#### SECCIÓN I. DE LA REVISIÓN
 
 ## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
@@ -2995,7 +3151,9 @@ XII. Cuando en la escritura pública se declare erección de construcción perma
 
 XIII. Remate judicial o administrativo;
 
-XIV. La readquisición de la propiedad, a consecuencia de la rescisión del contrato que hubiere generado la adquisición posterior; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XIV.- La readquisición de la propiedad, a consecuencia de la rescisión del contrato que hubiere generado la adquisición anterior;
 
 XV. Las aportaciones en la constitución, aumento o disminución de capital y liquidación de sociedades mercantiles en las que se incluyan bienes inmuebles.
 
@@ -3495,6 +3653,18 @@ Los derechos deberán ser pagados al inicio de la obra o dentro del plazo que se
 
 En el caso de que el monto de derechos a pagar, después de su cálculo, sea menor al costo real de la obra por ejecutar, la Tesorería podrá convenir con los usuarios, el pago de las diferencias resultantes.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 238 Bis.
+
+Por los derechos en materia de prevención y gestión integral de los residuos sólidos urbanos, se pagarán bajo las siguientes bases:
+
+I.- Por la inscripción de grandes generadores de residuos sólidos urbanos del Municipio;
+
+II.- Son sujetos del pago de estos derechos todas aquellas personas sujetas a la evaluación y autorización de los Planes de Manejo de Residuos Sólidos Urbanos; y
+
+III.- Por el registro y autorización de personas físicas o jurídicas que realicen las labores de manejo de residuos consistentes en caracterización, acopio, almacenamiento, transporte, reutilización, reciclado y aprovechamiento de residuos.
+
 ### CAPÍTULO V. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL SISTEMA OPERADOR DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO
 
 ###### Artículo 239.
@@ -3537,7 +3707,7 @@ III. Emisión de estudios de factibilidad de uso de suelo;
 
 IV. Evaluación de informe preventivo de impacto ambiental por obras de demolición;
 
-V. Asignación de bancos de material para el depósito de residuos sólidos producto de construcciones, demoliciones o desplantes;
+V. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
 VI. Evaluación de la manifestación de impacto ambiental previo análisis del proyecto o actividad a realizarse;
 
@@ -3741,7 +3911,9 @@ III. Que tiene la capacidad jurídica para solicitar la renovación de la licenc
 
 La expedición de las licencias a que se refiere el párrafo anterior, se pagará de conformidad a las cuotas, tasas y tarifas asignadas a cada giro para el ejercicio correspondiente.
 
-En el caso que para la expedición de la autorización para la colocación de publicidad se obligue el solicitante a retirarla del lugar en el que la coloque, deberá otorgar fianza por afianzadora debidamente autorizada a favor de la Tesorería, por un monto de 100 días de salario mínimo diario vigente en el Municipio de Puebla al momento de su otorgamiento, para el retiro de la misma.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+En el caso que para la expedición de la autorización para la colocación de publicidad se obligue el solicitante a retirarla del lugar en el que la coloque, deberá otorgar fianza expedida por afianzadora debidamente autorizada a favor de la Tesorería, por un monto de 500 a 1,500 días de salario mínimo diario vigente en el Municipio de Puebla al momento de su otorgamiento, para garantizar el retiro de la misma.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -3775,17 +3947,31 @@ III. La publicidad de la Federación, del Estado o del Municipio.
 
 ### CAPÍTULO XVI. DE LOS DERECHOS POR OCUPACIÓN DE ESPACIOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 272.
 
-Es objeto de estos derechos, la ocupación de espacios públicos en mercados municipales y/o mercados y tianguis sobre ruedas en vía pública, en la Central de Abasto, en los portales y otras áreas municipales exceptuando áreas verdes, en la vía pública para obras de construcción y en el subsuelo con construcción permanente, así como el mantenimiento de las áreas, el uso de cámaras de refrigeración, la expedición de la Cédula Única de Registro para mercados de apoyo y los trámites de autorización de altas, traspasos, cambios de giro, arreglo o modificaciones de sus locales, plataformas, bodegas o área que ocupen.
+Es objeto de estos derechos, la ocupación de espacios públicos en mercados municipales y/o mercados y tianguis sobre ruedas en vía pública, en la Central de Abasto, en los portales, en el depósito oficial de vehículos de la Dirección de Tránsito Municipal y otras áreas municipales exceptuando áreas verdes, en la vía pública para obras de construcción y en el subsuelo con construcción permanente, así como el mantenimiento de las áreas, el uso de cámaras de refrigeración, la expedición de la Cédula Única de Registro para Mercados de Apoyo y los trámites de autorización de altas, traspasos, cambios de giro, arreglo o modificaciones de sus locales, plataformas, bodegas o área que ocupen.
 
 Para efectos del cobro de estos derechos, los tipos de mercados municipales se clasificarán en mercados tipo A, B y C, así como mercados de apoyo y tianguis, de conformidad con los acuerdos que apruebe el Cabildo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Se equipararán a depósitos oficiales de vehículos de la Dirección de Tránsito Municipal los inmuebles que sean autorizados por ésta para tal efecto, en los que las autoridades municipales ejercerán las funciones relacionadas a los servicios de guarda de vehículos.
 
 ###### Artículo 273.
 
 Son sujetos de este derecho, las personas físicas o morales que utilicen espacios públicos en mercados municipales y/o mercados y tianguis sobre ruedas en vía pública, en la Central de Abasto, en los portales y otras áreas municipales, en la vía pública para obras de construcción y en el subsuelo con construcción permanente, utilicen cámaras de refrigeración, requieran la expedición de la Cédula Única de Registro para mercados de apoyo y soliciten trámites de autorización de altas, traspasos, cambios de giro, arreglo o modificaciones de sus locales, plataformas, bodegas o área que ocupen.
 
 Las personas que utilicen espacios en mercados de apoyo, así como en sus respectivos tianguis, deberán acreditar ante el Ayuntamiento, la propiedad de local, plataforma, bodega y/o titularidad del permiso correspondiente al área que ocupen, a efecto de conformarse un padrón por cada mercado de apoyo, debiendo el Ayuntamiento expedir una Cédula Única de Registro, previo el pago de derechos correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+También son sujetos de este derecho las personas físicas o morales que sean propietarias o por disposición legal o de autoridad competente puedan retirar de los depósitos oficiales de vehículos de la Dirección de Tránsito Municipal o los equiparados a éstos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+En los casos del párrafo anterior la Tesorería cobrará los derechos de arrastre y por maniobras en los casos en que se hayan realizado, para lo cual la Ley de Ingresos del Municipio de Puebla aplicable establecerá el cobro de acuerdo al tipo de maniobra y el arrastre en función de la unidad transportada.
 
 ###### Artículo 274.
 
@@ -3819,7 +4005,9 @@ XI. Tratándose de Talleres de Verano y/o cursos en áreas de seguridad y protec
 
 XII. Por ocupación temporal del Polideportivo José María Morelos y Pavón, por evento previamente determinado se pagará por hora, diferenciando por el uso de sus diversas instalaciones;
 
-XIII. Para la práctica individual de los deportes permitidos, por acceso a las instalaciones del Polideportivo José María Morelos y Pavón, se pagará por persona diferenciando entre niños y adultos; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XIII. Para la práctica individual de los deportes permitidos, por acceso a las instalaciones del PoIideportivo José María Morelos y Pavón, se pagará por persona diferenciando entre niños y adultos;
 
 XIV. Por la ocupación temporal de áreas autorizadas y locales, se pagarán diariamente por metro cuadrado diferenciando entre:
 
@@ -3832,6 +4020,10 @@ c) Ocupación temporal de local para uso de comedor restaurante.
 d) Uso de local para pasturero.
 
 e) Ocupación del local para descapotar.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XV. Por la ocupación en el depósito oficial de vehículos de la Dirección de Tránsito Municipal o en los lugares equiparados a éstos, se cobrará diariamente en función del tipo de unidad en depósito.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -4751,7 +4943,7 @@ Corresponde a la Sindicatura Municipal o al representante jurídico del organism
 
 Cuando a juicio del Síndico o del representante jurídico del organismo de que se trate, exista motivo suficiente que lo amerite, y sólo respecto de los bienes del dominio público, podrán abstenerse de dictar las resoluciones o de seguir los procedimientos a que se refieren los artículos 365 y 366 de este Código, y someter el asunto al conocimiento de los tribunales del fuero común. Dentro del procedimiento podrá solicitarse la ocupación administrativa de los bienes, de conformidad con lo establecido por el artículo 27 Constitucional. Los tribunales decretarán de plano la ocupación.
 
-#### SECCIÓN II. DE LAS CONCESIONES, PERMISOS O AUTORIZACIONES
+#### SECCIÓN I. DE LA REVISIÓN
 
 ###### Artículo 368.
 
@@ -4761,7 +4953,7 @@ Las resoluciones a que se refieren los artículos 365 y 366, podrán ser reclama
 
 A juicio de la autoridad responsable y siempre que no se afecte el interés público, interpuesto el recurso, dicha autoridad deberá suspender la ejecución de la resolución impugnada previo al otorgamiento de garantía bastante, a juicio de la SAU, que deberá otorgar el recurrente. En este evento la autoridad tomará las medidas que fueren necesarias para salvaguardar los intereses del Municipio.
 
-#### SECCIÓN III. DE LOS BIENES DE USO COMÚN
+#### SECCIÓN II. DE LAS CONCESIONES, PERMISOS O AUTORIZACIONES
 
 ###### Artículo 369.
 
@@ -4879,7 +5071,7 @@ Si el afectado estuviese conforme con el monto de la indemnización, la cantidad
 
 Los bienes del dominio público podrán ser enajenados, previo acuerdo de desincorporación emitido según el caso, por el Ayuntamiento o el órgano de gobierno de los organismos, cuando dejen de ser útiles para la prestación de los fines a los que se encuentran afectos o cuando su enajenación sea parte del proceso de ejecución de un Plan o Programa de Desarrollo Social. Para proceder a la desincorporación de un bien de dominio público previamente deberán cumplirse las condiciones y seguirse el procedimiento establecido en este ordenamiento.
 
-#### SECCIÓN IV. DE LOS BIENES EQUIPARADOS
+#### SECCIÓN III. DE LOS BIENES DE USO COMÚN
 
 ###### Artículo 380.
 
@@ -4899,7 +5091,7 @@ Cualquier persona puede usar los bienes de uso común, sin más restricciones qu
 
 Para aprovechamientos especiales sobre los bienes de uso común, se requiere concesión, permiso o autorización, otorgados con las condiciones y requisitos que apruebe el Cabildo y los títulos que se expidan.
 
-#### SECCIÓN I. DE LOS INMUEBLES DEL DOMINIO PRIVADO
+#### SECCIÓN IV. DE LOS BIENES EQUIPARADOS
 
 ###### Artículo 382.
 
@@ -4999,7 +5191,7 @@ Estará a cargo de las dependencias o instituciones que tengan destinados a su s
 
 ### CAPÍTULO IV. DE LOS BIENES DEL DOMINIO PRIVADO
 
-#### SECCIÓN II. DE LOS MUEBLES DEL DOMINIO PRIVADO
+#### SECCIÓN I. DE LOS INMUEBLES DEL DOMINIO PRIVADO
 
 ###### Artículo 392.
 
@@ -5110,6 +5302,8 @@ En los casos a que se refiere este artículo, el documento que consigne el contr
 ###### Artículo 406.
 
 El Gobierno Municipal está facultado para retener administrativamente los bienes que posea. Cuando se trate de recuperar la posesión provisional o definitiva, o de reivindicar los inmuebles de dominio privado, o de obtener el cumplimiento, la rescisión o la nulidad de los contratos celebrados respecto de dichos bienes, deberá deducir ante los tribunales del fuero común las acciones que correspondan. Presentada la demanda el Juez, a solicitud del Síndico y siempre que encuentre razón que lo amerite, podrá autorizar la ocupación administrativa provisional de los inmuebles. La resolución denegatoria podrá revocarse en cualquier estado del pleito por causas supervinientes.
+
+#### SECCIÓN II. DE LOS MUEBLES DEL DOMINIO PRIVADO
 
 ###### Artículo 407.
 
@@ -5358,3 +5552,17 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 TERCERO.- Los convenios, actos jurídicos o administrativos, títulos, acuerdos, órdenes y circulares que a la fecha de la entrada en vigor del presente Decreto, se refieran a la Secretaría de Administración Urbana, deberán ser considerados haciendo referencia a la Secretaría de Administración Urbana y Obra Pública.
 
 CUARTO.- Los procedimientos administrativos y los recursos presentados con anterioridad a la fecha de entrada en vigor de este Decreto, continuarán substanciándose conforme a las normas vigentes en ese momento.
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del primero de enero del año dos mil nueve.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Los Peritos Valuadores registrados con anterioridad a la vigencia del presente Decreto, tienen la obligación de refrendar su autorización y credencial dentro de los cuarenta y cinco días posteriores, a la iniciación de vigencia del mismo.
+
+CUARTO.- Los ordenamientos, acuerdos, circulares y demás documentos que a la fecha de entrada en vigor de este Decreto citen a la Secretaría de Administración Urbana, se entenderá que se refieren a la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable del Honorable Ayuntamiento del Municipio de Puebla.
+
+QUINTO.- Los ordenamientos, acuerdos, circulares y demás documentos que a la fecha de entrada en vigor de este Decreto citen a la Unidad del Sistema Municipal de Registro y Fiscalización, al Área de Coordinación Operativa de Comercios Establecidos, al Área de Coordinación Operativa de Vía Pública y al Área de Coordinación Operativa de Espectáculos Públicos, se entenderá que se refieren a la Unidad de Normatividad y Regulación Comercial, a la Coordinación de Fiscalización de Comercio Establecido, a la Coordinación de Fiscalización a Vía Pública y a la Coordinación de Fiscalización de Espectáculos Públicos, respectivamente.
+
+SEXTO.- En los casos en que por disposición de autoridad competente los servicios sean descentralizados o desconcentrados, el Ayuntamiento podrá acordar que los conceptos de ingresos que se recauden por los mismos, se destinen al cumplimiento de sus fines.
