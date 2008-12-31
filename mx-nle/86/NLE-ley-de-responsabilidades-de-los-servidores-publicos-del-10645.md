@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidades-de-los-servidores-publicos-del-10645"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2007-06-27"
+last_updated: "2008-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de enero de 1997.
 
@@ -697,9 +697,9 @@ III. En la Comisión Estatal Electoral, el Pleno, respecto a las faltas, infracc
 
 IV. En el Tribunal Estatal Electoral, el Pleno, respecto a las faltas, infracciones, acciones u omisiones de responsabilidad administrativa cometidas por los Magistrados y demás servidores públicos adscritos al mismo en los términos de la Ley Electoral.
 
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-V. En la Comisión de Acceso a la Información Pública, el Pleno, respecto a las faltas, infracciones, acciones u omisiones que puedan ser motivo de responsabilidad administrativa cometidas por los Comisionados y demás servidores públicos adscritos a la misma, en los términos de las disposiciones legales y administrativas aplicables.
+V. En la Comisión de Transparencia y Acceso a la Información, el Pleno, respecto a las faltas, infracciones, acciones u omisiones que puedan ser motivo de responsabilidad administrativa cometidas por los Comisionados y demás servidores públicos adscritos a la misma, en los términos de las disposiciones legales y administrativas aplicables.
 
 > <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2004)</small>
 
@@ -1075,11 +1075,11 @@ En el ámbito del Poder Ejecutivo, tiene obligación de presentar manifestación
 
 En el Poder Judicial, tiene la obligación de presentar manifestación de bienes, los Magistrados, los Consejeros del Consejo de la Judicatura, Visitadores, miembros del Instituto de la Judicatura, Jueces, Secretarios, Actuarios, de cualquier categoría o designación y los Directores, Subdirectores, Coordinadores y Jefe de Departamento que administren y vigilen recursos del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 114 Bis.
 
-En la Comisión Estatal Electoral, el Tribunal Estatal Electoral y la Comisión de Acceso a la Información Pública, y la Comisión de Derechos Humanos del Estado, tienen obligación de presentar manifestación de bienes, los Comisionados, los Magistrados, Secretarios, los Directores, Subdirectores, Coordinadores, Jefes de Departamento, Visitadores, así como aquellos que en su caso bajo su responsabilidad manejen, recauden o administren recursos públicos.
+En la Comisión Estatal Electoral, el Tribunal Estatal Electoral y la Comisión de Transparencia y Acceso a la Información, y la Comisión de Derechos Humanos del Estado, tienen obligación de presentar manifestación de bienes, los Comisionados, los Magistrados, Secretarios, los Directores, Subdirectores, Coordinadores, Jefes de Departamento, Visitadores, así como aquellos que en su caso bajo su responsabilidad manejen, recauden o administren recursos públicos.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
@@ -1408,3 +1408,7 @@ Artículo Quinto.- Se concede a las personas físicas y morales que transporten 
 P.O. 27 DE JUNIO DE 2007.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
