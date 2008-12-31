@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-remuneraciones-de-los-servidores-publicos-del-estado-569
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2007-09-20"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE REMUNERACIONES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -123,7 +123,9 @@ b) El Poder Legislativo del Estado;
 
 c) El Poder Judicial del Estado;
 
-d) Los Órganos Constitucionales Autónomos; tales como la Comisión Estatal Electoral, el Tribunal Estatal Electoral, el Tribunal de lo Contencioso Administrativo, la Comisión Estatal de Derechos Humanos y la Comisión de Acceso a la Información Pública; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+d) Los Órganos Constitucionales Autónomos; tales como la Comisión Estatal Electoral, el Tribunal Estatal Electoral, el Tribunal de lo Contencioso Administrativo, la Comisión Estatal de Derechos Humanos y la Comisión de Transparencia y Acceso a la Información; y
 
 e) Cualquier otra entidad Estatal.
 
@@ -141,7 +143,9 @@ d) Los Diputados y titulares de órganos de soporte técnico y de apoyo del Cong
 
 e) Magistrados, Consejeros de la Judicatura, Jueces, Secretarios y cargos de dirección administrativa del Poder Judicial del Estado;
 
-f) Los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, los Magistrados y Secretarios del Tribunal de lo Contencioso Administrativo, Presidente de la Comisión Estatal de Derechos Humanos, Comisionados de la Comisión de Acceso a la Información Pública y personal administrativo con cargo de dirección o su equivalente en dichos Organismos; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+f) Los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, los Magistrados y Secretarios del Tribunal de lo Contencioso Administrativo, Presidente de la Comisión Estatal de Derechos Humanos, Comisionados de la Comisión de Transparencia y Acceso a la Información y personal administrativo con cargo de dirección o su equivalente en dichos Organismos; y
 
 g) Todo servidor público no sindicalizado con cargo de dirección o superior o con percepciones y/o funciones similares a los indicados en los incisos anteriores.
 
@@ -404,3 +408,9 @@ RUBEN EDUARDO MARTINEZ DONDÉ
 EL C. OFICIAL MAYOR DE GOBIERNO
 
 ALFREDO GERARDO GARZA DE LA GARZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
