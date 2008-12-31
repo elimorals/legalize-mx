@@ -4,7 +4,7 @@ identifier: "LFPRH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2006-03-30"
-last_updated: "2008-11-13"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49841&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPRH"
 
 LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de marzo de 2006.
 
@@ -1528,111 +1528,101 @@ La Secretaría incluirá los reportes señalados en esta fracción, por entidad 
 
 Las entidades federativas, los municipios y las demarcaciones territoriales del Distrito Federal, publicarán los informes a que se refiere esta fracción en los órganos locales oficiales de difusión y los pondrán a disposición del público en general a través de sus respectivas páginas electrónicas de Internet o de otros medios locales de difusión, a más tardar a los 5 días hábiles posteriores a la fecha señalada en el párrafo anterior.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 2008)</small>
+
 ## TÍTULO QUINTO. De la Contabilidad Gubernamental
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 2008)</small>
 
 ### CAPÍTULO I. De la Valuación del Patrimonio del Estado
 
 ###### Artículo 86.
 
-La contabilidad gubernamental se llevará con base acumulativa. Para ello, los sistemas de contabilidad deben diseñarse y operarse en forma que faciliten el registro y la fiscalización de los activos, pasivos, ingresos, costos y gastos, y contribuyan a medir los avances en la ejecución de programas y proyectos y, en general, que permitan medir la eficacia, economía y eficiencia del gasto público federal, los ingresos, la administración de la deuda incluyendo las obligaciones contingentes y el patrimonio del Estado.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 87.
 
-En materia de gasto, la contabilidad gubernamental debe facilitar la determinación de los gastos y costos históricos; el seguimiento y fiscalización del Presupuesto de Egresos, y proporcionar elementos para la evaluación de los presupuestos y los programas con base en los objetivos, metas y unidades responsables, con un sistema de indicadores, complementario a la información contable, que facilite la medición del impacto del gasto público en el bienestar de la población. La base acumulativa implica el registro de las operaciones devengadas, por lo que la contabilización de las transacciones se deberá realizar conforme a la fecha en que éstas crean valor económico o modifican el patrimonio o su composición, independientemente de la de su pago.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 88.
 
-El sistema de contabilidad gubernamental será definido, desarrollado y supervisado, atendiendo las aportaciones técnicas de la Auditoría y de la Función Pública, por la instancia que determine la Secretaría y comprenderá el conjunto de principios, normas y procedimientos técnicos que permiten registrar, procesar, evaluar e informar sobre las transacciones relativas a la situación financiera de los ejecutores de gasto e ingreso públicos y los que afecten el patrimonio público, comprenderá la captación y el registro de las operaciones financieras, presupuestarias y de consecución de metas, a efecto de suministrar información que coadyuve a la toma de decisiones, la transparencia, la evaluación de las actividades efectuadas y la rendición de cuentas. Corresponderá a la Secretaría operar dicho sistema y emitir disposiciones específicas al respecto, tomando en cuenta las disposiciones que para efectos de fiscalización y auditorías emita la Auditoría.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 89.
 
-La contabilidad de las operaciones deberá estar respaldada por los documentos comprobatorios y justificativos originales. La Secretaría emitirá las disposiciones generales a este respecto, tomando en cuenta las disposiciones que para efectos de fiscalización y auditorías emita la Auditoría.
-
-Los Poderes Legislativo y Judicial y los entes autónomos convendrán con la Secretaría la manera de uniformar la contabilidad de las operaciones efectuadas por los mismos.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 90.
 
-Será responsabilidad de los ejecutores de gasto la confiabilidad de las cifras consignadas en su contabilidad, así como de la representatividad de los saldos de las cuentas de balance, en función de los activos y pasivos reales y contingentes, adoptando para ello las medidas de control y depuración correspondientes.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 91.
 
-El registro de las operaciones y la preparación de informes financieros deberán llevarse a cabo de acuerdo con los principios de contabilidad gubernamental generales y específicos, así como conforme a las disposiciones que emitan la Auditoría, la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias.
-
-En el caso de que los registros presupuestarios y contables impliquen una duplicación en los mismos, la Secretaría podrá reflejar montos netos en dichos registros, así como el monto neto por concepto de intereses derivados del costo financiero de la deuda pública.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 92.
 
-Los estados financieros y demás información financiera, presupuestaria y contable que emanen de las contabilidades de los ejecutores de gasto, serán consolidados por la Secretaría, la que será responsable de formular la Cuenta Pública y someterla a la consideración del titular del Ejecutivo Federal, para su presentación en los términos de la fracción IV del artículo 74 de la Constitución Política de los Estados Unidos Mexicanos.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 93.
 
-Cada ejecutor de gasto reportará sus operaciones a la contabilidad, la cual incluirá las cuentas para registrar tanto los activos, pasivos, capital o patrimonio, cuentas de orden, ingresos, costos, inversiones y gastos, así como las asignaciones, compromisos y ejercicios correspondientes a los programas y cuentas de gasto de su propio presupuesto.
-
-La contabilidad permitirá llevar un registro histórico detallado de las operaciones financieras y presupuestarias.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
 
 ### CAPÍTULO II. De los Catálogos de Cuentas y del Registro Contable de las Operaciones
 
 ###### Artículo 94.
 
-La Secretaría establecerá la forma y términos en que se deban llevar los registros auxiliares y contabilidad y, en su caso, la rendición de informes y cuentas para fines de contabilización y consolidación. Asimismo, examinará periódicamente el funcionamiento del sistema y los procedimientos de contabilidad y podrá autorizar su modificación o simplificación. Lo anterior, tomando en cuenta las disposiciones que para efectos de fiscalización y auditorías emita la Auditoría.
-
-Los Poderes Legislativo y Judicial y los entes autónomos, por conducto de sus respectivas unidades de administración, convendrán con la Secretaría la manera de aplicar lo dispuesto en el presente artículo.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 95.
 
-La Secretaría emitirá las disposiciones generales para integrar los catálogos de cuentas a que deberán ajustarse las dependencias y entidades para un registro uniforme de sus operaciones financieras y presupuestarias.
-
-Dichos catálogos deberán enviarse a la Auditoría para su opinión.
-
-Los Poderes Legislativo y Judicial y los entes autónomos, por conducto de sus respectivas unidades de administración, convendrán con la Secretaría la manera de aplicar lo dispuesto en el presente artículo.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 96.
 
-La Secretaría emitirá el catálogo de cuentas de la Administración Pública Federal Centralizada. Asimismo, las entidades deberán enviar sus catálogos de cuentas correspondientes para su autorización en los términos que establezca el Reglamento. Dichos catálogos deberán enviarse a la Auditoría para su opinión.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 97.
 
-La Secretaría podrá emitir disposiciones generales para que las entidades puedan desagregar las cuentas en subcuentas y demás registros complementarios que permitan el suministro de información interna para la toma de decisiones administrativas y para el control en la ejecución de las acciones, de acuerdo con las necesidades específicas de los ejecutores de gasto.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 98.
 
-Las dependencias y entidades contabilizarán las operaciones financieras y presupuestarias en sus libros o sistemas de registro principales de contabilidad, conforme a las disposiciones que emita la Secretaría.
-
-Los Poderes Legislativo y Judicial y los entes autónomos, por conducto de sus respectivas unidades de administración, convendrán con la Secretaría la manera de aplicar lo dispuesto en el presente artículo.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 99.
 
-La contabilidad deberá contener registros auxiliares que muestren los avances presupuestarios y financieros, con objeto de facilitar la evaluación en el ejercicio de gasto público, así como permitir el control y conocimiento individual de los distintos saldos de cada cuenta de balance.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 100.
 
-Los ejecutores de gasto estarán obligados a conservar en su poder y a disposición de la Auditoría, por los plazos que al respecto se establezcan en las disposiciones generales aplicables, los libros, registros auxiliares e información correspondiente, así como los documentos justificativos y comprobatorios de sus operaciones financieras. En el caso de las dependencias y entidades, la documentación citada deberá estar también a disposición de la Secretaría.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 101.
 
-El registro presupuestario de las operaciones de las dependencias y entidades se efectuará en las cuentas que para tal efecto establezca la Secretaría, las cuales reflejarán, entre otros, los siguientes momentos contables: presupuesto aprobado, modificado, comprometido, devengado, ejercido y pagado.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 102.
 
-Para el registro de las operaciones correspondientes a los proyectos de infraestructura productiva de largo plazo contemplados en el artículo 32 de esta Ley, las entidades deberán presentar tanto en la etapa de programación y presupuesto como en su reporte para la Cuenta Pública, el estado de cuenta relativo a cada una de ellos, así como de los pasivos directos y contingentes que al efecto se hayan contraído, los ingresos que hayan generado a la fecha y la proyección de sus pagos e ingresos hasta su total terminación.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 2008)</small>
 
 ### CAPÍTULO III. De la Formulación de Estados Financieros
 
 ###### Artículo 103.
 
-Las dependencias formularán los siguientes reportes financieros: hoja de trabajo o balanza, análisis de cuentas de erario, estado del ejercicio del presupuesto, analítico de ingresos y análisis de la deuda, y los estados financieros que en su caso establezcan las normas correspondientes.
-
-Las entidades elaborarán los siguientes estados financieros: balance general, estado de resultados, estado de origen y aplicación de recursos y flujo de efectivo.
-
-Lo anterior, para su integración a la Cuenta Pública y al Informe de Avance de Gestión Financiera y a otros documentos especiales que determinen la Secretaría o la Auditoría Superior de la Federación, en el ámbito de sus competencias.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 104.
 
-La Secretaría, atendiendo las normas aplicables en la materia, emitirá las disposiciones que las dependencias y entidades deberán observar para la conservación, custodia y autorización de baja del Archivo Contable Gubernamental, así como para obtener la autorización del uso del Sistema de Registro Contable.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
 
 ###### Artículo 105.
 
-Las dependencias y entidades remitirán anualmente, para efectos de autorización, sus libros o sistemas de registro principales de contabilidad, registrando permanentemente su inventario físico en el libro de inventarios y al cierre de cada ejercicio, éste deberá coincidir con los registros en las cuentas de activo correspondientes.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
 
 ## TÍTULO SEXTO. De la Información, Transparencia y Evaluación
 
@@ -1955,3 +1945,9 @@ La formalización del reconocimiento como deuda pública a que se refiere el sex
 Petróleos Mexicanos, por conducto de su Director General, deberá presentar en marzo de cada año a la dependencia coordinadora de sector y por conducto de ésta al H. Congreso de la Unión, un informe que deberá difundirse en la página de Internet de Petróleos Mexicanos. Asimismo, dicha página deberá difundir la información de la cartera de programas y proyectos de inversión, así como la relativa a sus análisis de costo y beneficio, con excepción de aquélla que, por su naturaleza, se considere como reservada, de acuerdo con los lineamientos que emita el comité respectivo.
 
 Quinto. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+D.O.F. 31 DE DICIEMBRE DE 2008.
+
+Primero.- El presente Decreto entrará en vigor el 1 de enero de 2009.
+
+Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto a la Ley que se expide a través del presente Decreto.
