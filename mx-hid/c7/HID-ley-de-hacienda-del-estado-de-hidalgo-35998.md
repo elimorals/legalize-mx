@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2007-12-31"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -69,7 +69,7 @@ Las contribuciones que se establezcan en la Ley de Ingresos, se norman por las d
 
 La Hacienda Pública del Estado, para el cumplimiento de las funciones que le atribuye el orden jurídico, percibirá las contribuciones federales y estatales a que se refiere el Artículo anterior y los que se encuentren pactados en los Convenios que se hayan suscrito o que se suscriban para tales efectos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 4.
 
@@ -87,11 +87,11 @@ DEL SUJETO:
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-## TITULO SEGUNDO. IMPUESTO SOBRE HONORARIOS Y OTRAS ACTIVIDADES LUCRATIVAS
+## TITULO SEGUNDO. DE LOS IMPUESTOS
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO PRIMERO. DEL IMPUESTO SOBRE HONORARIOS PROFESIONALES Y OTRAS ACTIVIDADES LUCRATIVAS
+### CAPITULO PRIMERO. IMPUESTO SOBRE HONORARIOS Y OTRAS ACTIVIDADES LUCRATIVAS
 
 DEL OBJETO:
 
@@ -150,6 +150,10 @@ La presentación de declaraciones de este impuesto deberá realizarse, vía inte
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
 El pago de este impuesto podrá efectuarse en efectivo, mediante tarjeta bancaria o transferencia electrónica de fondos en las cuentas de la Secretaría de Finanzas aperturadas en las Instituciones Bancarias autorizadas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Para el caso de que durante el periodo a declarar, el contribuyente no cuente con base gravable, deberá presentar ante el Centro Regional de Atención al Contribuyente de su jurisdicción, la declaración en ceros que corresponda.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -361,9 +365,13 @@ El impuesto, se causará en el momento en que se realicen las erogaciones por el
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-I.- Los contribuyentes que se encuentran en el supuesto establecido en la fracción I del Artículo 22 de ésta Ley, podrán presentar la declaración correspondiente de este impuesto vía Internet, o a través de las formas oficiales aprobadas por la Secretaría de Finanzas, de forma cuatrimestral dentro del término que no rebase el día 20 de los meses de Mayo y Septiembre del ejercicio fiscal en que se haya causado el impuesto y en el mes de Enero del ejercicio fiscal subsecuente; y
+I.- Los contribuyentes que se encuentran en el supuesto establecido en la fracción I del Artículo 22 de ésta Ley, podrán presentar la declaración correspondiente de este impuesto vía Internet, o a través de las formas oficiales aprobadas por la Secretaría de Finanzas, de forma cuatrimestral dentro del término que no rebase el día 20 de los meses de Mayo y Septiembre del ejercicio fiscal en que se haya causado el impuesto y en el mes de Enero del ejercicio fiscal subsecuente; y (sic)
 
-II.- Los contribuyentes que se encuentren en el supuesto establecido en las fracciones II y III del Artículo referido en la fracción anterior, deberán realizar la declaración vía internet o a través de las formas oficiales aprobadas por la Secretaría de Finanzas, de manera mensual, dentro del término que no rebase el día 20 del mes calendario siguiente al período de su causación.
+II.- Los contribuyentes que se encuentren en el supuesto establecido en las fracciones II y III del Artículo referido en la fracción anterior, deberán realizar la declaración vía internet o a través de las formas oficiales aprobadas por la Secretaría de Finanzas, de manera mensual, dentro del término que no rebase el día 20 del mes calendario siguiente al período de su causación;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+III.- Para el caso de que durante el periodo a declarar, el contribuyente no cuente con base gravable, deberá presentar ante el Centro Regional de Atención al Contribuyente de su jurisdicción, la declaración en ceros que corresponda.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -2053,6 +2061,10 @@ c).- Por las primeras cinco hojas certificadas. 2 salarios mínimos
 
 d).- Por cada hoja excedente. $15.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XI.- Por la venta de artesanías.
+
 ###### ARTICULO 88.
 
 Quedan comprendidos dentro de este capítulo, los ingresos ordinarios que obtengan el Estado y que no sean clasificados como impuestos, derechos, productos e ingresos extraordinarios, catalogándose como tales, los siguientes:
@@ -2218,3 +2230,9 @@ PRIMERO.- El presente Decreto entrará en vigor el día 1° de enero de 2008, pr
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
 TERCERO.- Lo dispuesto por el Artículo 86BIS de la Ley de Hacienda del Estado, entrará en vigor hasta el 15 de junio del año 2008.
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1° de enero de 2009, previa su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
