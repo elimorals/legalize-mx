@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2008-09-12"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE DICIEMBRE DE 2008.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -290,9 +290,9 @@ Cuando se produzca el supuesto a que hace referencia la fracción anterior, el P
 
 La dieta de los Diputados será disminuida cuando se actualice algunos de los siguientes supuestos;
 
-> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
 
-I.- El diputado que no concurra a una sesión del Pleno, o que pasando lista de asistencia al inicio de la sesión, no permanezca hasta su conclusión, sin causa justificada o sin permiso de la Presidencia, no tendrá derecho de la dieta correspondiente al día en que falte o se retire de la sesión.
+I.- El Diputado que no concurra a una sesión del Pleno, sin causa justificada o sin permiso de la Presidencia, no tendrá derecho de la dieta correspondiente al día en que falte.
 
 II.- El Diputado que no concurra a una sesión de Comisión o Comité, sin causa justificada o sin permiso de la Presidencia de la Comisión o Comité, el cual será otorgado únicamente por tratarse de causas graves o en razón de propios compromisos inherentes a la legislatura y la diputación no tendrá derecho al cincuenta por ciento de la dieta correspondiente al día en que falte.
 
@@ -652,9 +652,15 @@ VI.- (DEROGADA, G.O. 9 DE JULIO DE 2007)
 
 VII.- Difundir los temas más trascendentes para la vida política y social del Distrito Federal, a través de medios escritos, electrónicos o cualquier otro que sirva al propósito;
 
-VIII.- Celebrar convenios con casas editoriales para la presentación de fondos y novedades editoriales; y
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
 
-IX.- Los demás asuntos inherentes al tema editorial.
+VIII.- Celebrar convenios con casas editoriales para la presentación de fondos y novedades editoriales;
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IX.- Fomentar y utilizar papel reciclado en todas las publicaciones en que intervenga, ya sea directa o por medio de terceros, y
+
+X.- Los demás asuntos inherentes al tema editorial.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 52 BIS], G.O. 30 DE MARZO DE 2005)</small>
 
@@ -1454,9 +1460,9 @@ La Asamblea celebrará por lo menos dos sesiones a la semana y no podrá suspend
 
 Se requiere de la asistencia de la mitad más uno de los Diputados que integran la Asamblea para abrir cada sesión.
 
-> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2008)</small>
 
-El Secretario de la Mesa Directiva pasará lista de presentes al inicio de la sesión y al término de cada sesión. Si al inicio da (sic) la sesión no existe el quórum a que se refiere el párrafo anterior, lo informará al Presidente, quien deberá proceder levantar la sesión y a citar a los presentes y ausentes el día y hora que considere pertinente en atención a los asuntos a tratar.
+El Secretario de la Mesa Directiva pasará lista de asistencia al inicio de la sesión. Si al inicio de cada sesión no existe el quórum a que se refiere el párrafo anterior, lo informará al Presidente, quien deberá proceder a levantar la sesión y citar a los presentes y ausentes el día y hora que considere pertinente en atención a los asuntos a tratar.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
 
@@ -2795,3 +2801,13 @@ Todos los asuntos que se encuentren en archivo pendientes de desahogar por la qu
 ###### ARTÍCULO QUINTO.
 
 En el caso de las reformas relativas a la conformación del Programa Operativo Anual, operarán a partir del ejercicio fiscal 2009.
+
+G.O. 31 DE DICIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
