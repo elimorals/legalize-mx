@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-desarrollo-rural-51881"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-07-19"
-last_updated: "2006-07-19"
+last_updated: "2008-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO RURAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DEL CAMPO PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 19 de julio de 2006.
 
@@ -1264,3 +1266,19 @@ Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría de Desarr
 Dado en la residencia oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 22 días del mes de mayo del año 2006.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Roger Grajales González, Secretario de Gobierno.- Javier Antonio Ruiz Morales, Secretario de Desarrollo Rural.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Rural publicado en el Periódico Oficial del Estado número 373, Tomo II, de fecha diecinueve de julio de dos mil seis, así como las demás disposiciones de igualo menor jerarquía que se opongan al presente Reglamento.
+
+Artículo Tercero.- En los casos no previstos en el presente Reglamento y en los que se presente controversia en cuanto a su aplicación y observancia, el Secretario resolverá lo conducente.
+
+Artículo Cuarto.- Para las cuestiones no previstas en este Reglamento, respecto de las Delegaciones Regionales, Departamentos, Áreas y demás actividades del personal, se estará a lo dispuesto por los Manuales de Organización y Procedimientos de la Secretaría.
+
+Artículo Quinto.- En tanto se actualizan los Manuales Administrativos respectivos, el Secretario resolverá las incidencias de procedimiento y operación, que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Sexto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento Interior en el Periódico Oficial del Estado.
