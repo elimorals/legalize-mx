@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2008-12-15"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -343,11 +343,13 @@ Nunca, por ningún motivo, se entregarán los autos en confianza.
 
 El Magistrado, Juez, Secretario o cualquier servidor público que infrinja este artículo sufrirá una multa de cincuenta a doscientas cuotas; y serán responsables de todos los daños y perjuicios que se causaren y si reinciden en dicha falta, serán destituidos del empleo u oficio. Dicha sanción será impuesta en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 39.
 
-Las copias o testimonios de documentos que existan en los archivos o expedientes se permitirán a toda persona que los solicite, quedando razón y constancia de recibo en el que se señalen los que hubieren sido expedidos. Lo anterior con excepción de los casos en que la Ley de Acceso a la Información Pública obligue a la autoridad a negar el acceso público a la información, en los cuales sólo las partes legitimadas o quienes ellas autoricen podrán consultar y obtener copias de los expedientes.
+Las copias o testimonios de documentos que existan en los archivos o expedientes se permitirán a toda persona que los solicite, quedando razón y constancia de recibo en el que se señalen los que hubieren sido expedidos. Lo anterior con excepción de los casos en que la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, obligue a la autoridad a negar el acceso público a la información, en los cuales sólo las partes legitimadas o quienes ellas autoricen podrán consultar y obtener copias de los expedientes.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
 
 El Juez o Magistrado dictará las medidas que sean conducentes, para tal efecto.
 
@@ -9188,5 +9190,9 @@ DECRETO NUM. 298, POR EL QUE SE REFORMA LA FRACCION V DEL ARTICULO 325, DEL CODI
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 15 DE DICIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2008.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
