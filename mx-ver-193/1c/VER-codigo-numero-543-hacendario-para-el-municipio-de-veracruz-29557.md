@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-543-hacendario-para-el-municipio-de-veracruz-2955
 country: "mx"
 rank: "codigo"
 publication_date: "2003-03-10"
-last_updated: "2008-07-25"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CODIGO HACENDARIO PARA EL MUNICIPIO DE VERACRUZ, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 10 de marzo de 2003.
 
@@ -783,7 +783,7 @@ VIII. Proporcionar a las autoridades fiscales los datos o informes que les solic
 
 IX. Mostrar, a solicitud de la autoridad municipal, la cédula de empadronamiento, las licencias, permisos o autorizaciones originales, así como otros documentos diversos de la misma naturaleza de los anteriores que les sean requeridos;
 
-X. evolver para su cancelación la cédula o documento de empadronamiento en caso de clausura, cese de actividades, cambio de giro, de nombre o razón social, de domicilio o traspaso, en el momento en que dichas circunstancias sean comunicadas a la autoridad municipal;
+X. Devolver para su cancelación la cédula o documento de empadronamiento en caso de clausura, cese de actividades, cambio de giro, de nombre o razón social, de domicilio o traspaso, en el momento en que dichas circunstancias sean comunicadas a la autoridad municipal;
 
 XI. Dar aviso a la Tesorería, en el término de treinta días hábiles posteriores, respecto del cese de actividades o de funcionamiento definitivo de su negociación, para su anotación correspondiente en el padrón fiscal del Municipio;
 
@@ -1481,65 +1481,11 @@ En los casos de predios que no hubieren tenido modificaciones físicas no proced
 
 Para efectos de este impuesto, en los predios objeto de fraccionamiento, el nuevo valor generado por la introducción de obras de urbanización se considerará a partir de la conclusión de éstas.
 
-> <small>(REFORMADO, G.O. 11 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 117.
 
-El Impuesto Predial se causará anualmente y se liquidará y pagará de acuerdo a los rangos de valor, con las tarifas y tasas siguientes:
-
-Urbanos
-
-Rangos de valor Construidos Baldíos
-
-1.00-66,100.00 3 salarios mínimos 3 salarios mínimos
-
-66,101.00-100,000.00 3 salarios mínimos 4.5 salarios mínimos
-
-100,001.00-132,150.00 3 salarios mínimos 2.30 al millar
-
-132,151.00-182,500.00 4.5 salarios mínimos 2.30 al millar
-
-182,501.00-340,000.00 8 salarios mínimos 2.30 al millar
-
-340,001.00-650,000.00 1.15 al millar 2.30 al millar
-
-650.001.00-1,250,000.00 1.20 al millar 2.40 al millar
-
-1,250,001.00-
-
-2,000,000.00 1.30 al millar 2.60 al millar
-
-2,000,001.00-EN
-
-ADELANTE 1.40 al millar 2.80 al millar
-
-Suburbanos
-
-Rangos de valor Construidos Baldíos
-
-1.00-335,238.00 8 salarios mínimos 8 salarios mínimos
-
-335,239.00-503,428.00 8 salarios mínimos 1.05 al millar
-
-503,429.00-EN
-
-ADELANTE 0.70 al millar 1.05 al millar
-
-> <small>(REFORMADO, G.O. 6 DE JUNIO DE 2006)</small>
-
-Rurales
-
-RANGOS DE VALOR PARTICULARES EJIDALES
-
-1.00 - 78,822.00 8 salarios mínimos 8 salarios mínimos
-
-78,823.00 - 4.50 al millar 8 salarios mínimos
-
-293,333.00
-
-293,334.00 - EN 4.50 al millar 1.40 al millar
-
-ADELANTE
+El impuesto predial se causará anualmente y se liquidará y se pagará conforme a la tasa que sobre la base gravable autorice el Congreso en la Ley de Ingresos del municipio para el ejercicio fiscal de que se trate.
 
 ###### Artículo 118.
 
@@ -2743,7 +2689,7 @@ c) En los casos a que se refieren las fracciones anteriores, cuando se escriba p
 
 d) Copias certificadas de planos de construcción, 5 salarios mínimos.
 
-En los casos a que se refiere esta fracción, además de los derechos que establecen los incisos que anteceden, se cobrará por la búsqueda de los documentos de los que deba sacarse copia, cuando el interesado no proporcione los datos exactos para su localización, por cada año que comprenda la busca, 0.30 salarios mínimos;
+En los casos a que se refiere esta fracción, además de los derechos que establecen los incisos que anteceden, se cobrará por la búsqueda de los documentos de los que deba sacarse copia cuando el interesado no proporcione los datos exactos para su localización, por cada año que comprenda la busca, 0.30 salarios mínimos;
 
 III. Evaluación de impacto ambiental, 21 salarios mínimos;
 
@@ -6160,5 +6106,11 @@ G.O. 9 DE ENERO DE 2007.
 G.O. 25 DE JULIO DE 2008.
 
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 31 DE DICIEMBRE DE 2008.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
