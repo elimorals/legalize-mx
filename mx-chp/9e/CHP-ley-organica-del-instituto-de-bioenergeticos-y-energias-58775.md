@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-instituto-de-bioenergeticos-y-energias-58775"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-12-28"
-last_updated: "2008-10-29"
+last_updated: "2008-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGANICA DEL INSTITUTO DE BIOENERGETICOS Y ENERGIAS ALTERNATIVAS DEL ESTADO 
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 254, PUBLICADO EN EL P.O. DE 29 DE OCTUBRE DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 28 de diciembre de 2007.
 
@@ -353,10 +353,24 @@ Artículo Segundo.- Hasta en tanto entre en vigor el presente Decreto, el Ejecut
 
 A efecto de lo dispuesto en el párrafo que antecede, podrá concurrir en una misma persona la Titularidad de la Dirección General del Instituto de Bioenergéticos y Energías Alternativas del Estado de Chiapas y de la Dirección General del Instituto de Fomento de la Agricultura Tropical, cuando así lo determine el Gobernador del Estado mediante el nombramiento respectivo, para lo cual la persona en la que concurra la titularidad de los dos órganos, tendrá derecho a devengar solamente el salario que corresponda a uno de éstos y el otro, lo desempeñará de manera honorífica.
 
-Artículo Tercero.- La Secretaría de Hacienda y la Secretaría de Administración, en el ámbito de sus respectivas competencias, realizarán las acciones necesarias para el debido cumplimiento del presente Decreto.
+Artículo Tercero.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL INSTITUTO DE ENERGIAS ALTERNATIVAS, RENOVABLES Y BIOCOMBUSTIBLES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2008)
 
-Artículo Cuarto.- Los recursos humanos, materiales y financieros que a la entrada en vigor del presente Decreto, forman parte del Instituto de Bioenergéticos y Energías Alternativas del Estado de Chiapas que se extingue, serán transferidos al órgano desconcentrado de la Secretaría del Campo que para tal efecto se cree, respetando los derechos laborales de los trabajadores en términos de las disposiciones legales aplicables, así como de la normatividad respectiva.
+Artículo Cuarto.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL INSTITUTO DE ENERGIAS ALTERNATIVAS, RENOVABLES Y BIOCOMBUSTIBLES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2008)
 
-Artículo Quinto.- Las atribuciones y los compromisos adquiridos, así como los asuntos a cargo del Instituto de Bioenergétícos y Energías Alternativas del Estado de Chiapas que se extingue, que a la fecha de entrada en vigor del presente Decreto se encontraban en trámite o correspondían a éste, serán asumidos y se entenderán conferidos de inmediato al órgano desconcentrado a que se refiere el artículo transitorio que antecede, en términos del decreto administrativo respectivo.
+Artículo Quinto.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL INSTITUTO DE ENERGIAS ALTERNATIVAS, RENOVABLES Y BIOCOMBUSTIBLES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2008)
 
-Las referencias, atribuciones o menciones que hagan otros ordenamientos en relación con el Instituto de Bioenergéticos y Energías Alternativas del Estado de Chiapas que se extingue, serán transferidas y se entenderán conferidas al órgano desconcentrado a que se refiere el artículo transitorio que antecede, en términos del decreto administrativo respectivo.
+P.O. 31 DE DICIEMBRE DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día uno de enero del año de dos mil nueve.
+
+Artículo Segundo.- A partir de su publicación del presente Decreto en el Periódico Oficial, se derogan los Artículos Tercero, Cuarto y Quinto Transitorios, del Decreto número 254, por el que se Abroga la Ley Orgánica del Instituto de Bioenergéticos y Energías alternativas del Estado de Chiapas, publicado en el Periódico Oficial del Estado número 123, Tomo III, de fecha miércoles veintinueve de octubre de dos mil ocho.
+
+Artículo Tercero.- Las Secretarías de Hacienda y de la Función Pública, en el ámbito de sus respectivas competencias, realizarán las acciones necesarias para el debido cumplimiento de la presente Ley.
+
+Artículo Cuarto.- Los recursos humanos, materiales y financieros que forman parte del Instituto de Bioenergéticos y Energías Alternativas del Estado de Chiapas que se extinguió mediante el referido Decreto 254, serán transferidos al Instituto de Energías Alternativas, Renovables y Biocombustibles del Estado de Chiapas, que la presente Ley Orgánica crea, respetando los derechos laborales de los trabajadores en términos de las disposiciones legales aplicables, así como de la normatividad respectiva.
+
+Artículo Quinto.- Las atribuciones y los compromisos adquiridos, así como los asuntos a cargo del Instituto de Bioenergéticos y Energías Alternativas del Estado de Chiapas que se extinguió mediante el referido Decreto 254, que a la fecha de entrada en vigor de la presente Ley Orgánica se encontraban en trámite o correspondían a éste, serán asumidos y se entenderán conferidos de inmediato al Instituto de Energías Alternativas, Renovables y Biocombustibles del Estado de Chiapas.
+
+Artículo Sexto.- Las referencias, atribuciones o menciones que hagan otros ordenamientos legales o normativos en relación con el Instituto de Bioenergéticos y Energías Alternativas del Estado de Chiapas, serán transferidas y se entenderán conferidos al Organismo Descentralizado Instituto de Energías Alternativas, Renovables y Biocombustibles del Estado de Chiapas, que se crea con el presente Decreto.
+
+Artículo Séptimo.- El Director General del «Instituto», deberá someter a consideración de la Junta de Gobierno, en un plazo no mayor a noventa días hábiles, contados a partir de la publicación del presente Decreto, el Reglamento Interior de dicho Organismo Descentralizado, para su aprobación.
