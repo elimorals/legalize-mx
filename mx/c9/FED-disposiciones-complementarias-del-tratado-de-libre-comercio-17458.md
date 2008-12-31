@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-174
 country: "mx"
 rank: "otro"
 publication_date: "2003-12-31"
-last_updated: "2007-06-30"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17458&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,216 +19,134 @@ issue_date: "2003-12-30"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (REPUBLICA DE COSTA RICA, 1994)
 
-DECRETO QUE MODIFICA EL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE A PARTIR DEL 1 DE ENERO DE 2004 DEL IMPUESTO GENERAL DE IMPORTACION, PARA LAS MERCANCIAS ORIGINARIAS DE LA REPUBLICA DE COSTA RICA
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR A LOS ESTADOS UNIDOS MEXICANOS BIENES TEXTILES CLASIFICADOS EN EL CAPITULO 62 DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION, ORIGINARIOS DE LAS REPUBLICAS DE COSTA RICA, NICARAGUA Y EL SALVADOR, GUATEMALA Y HONDURAS
 
-Decreto publicado en la Tercera Sección del Diario Oficial de la Federación, el sábado 30 de junio de 2007.
+Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 2008.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 31 y 34 de la Ley Orgánica de la Administración Pública Federal y 2o. y 14 de la Ley de Comercio Exterior, y
+GERARDO RUIZ MATEOS, Secretario de Economía, con fundamento en los artículos 3-15 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica, 3-16 del Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua, y 3-20 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras; el Acuerdo por el que se da a conocer la Decisión No. 19 de la Comisión Administradora del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica, el Acuerdo por el que se da a conocer la Decisión No. 13 de la Comisión Administradora del Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua, y el Acuerdo por el que se da a conocer la Decisión No. 18 de la Comisión Administradora del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras; los artículos 34, fracciones I y XXXI de la Ley Orgánica de la Administración Pública Federal; 5o., fracción V, 6o., 13, 23 y 24, segundo párrafo de la Ley de Comercio Exterior; 14, 16, 26, 31 y 32 de su Reglamento; 5, fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica fue aprobado por el Senado de la República el 8 de junio de 1994, promulgado y publicado en el Diario Oficial de la Federación el 10 de enero de 1995;
+Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica fue aprobado por el Senado de la República el 8 de junio de 1994, publicado en el Diario Oficial de la Federación el 10 de enero de 1995 y entró en vigor el 1 de enero de ese mismo año;
 
-Que el 31 de diciembre de 2003 se publicó en el Diario Oficial de la Federación el Decreto por el que se establece la tasa aplicable a partir del 1 de enero de 2004 del Impuesto General de Importación, para las mercancías originarias de la República de Costa Rica, el cual fue reformado mediante el diverso publicado en el mismo órgano informativo el 12 de noviembre de 2004;
+Que el 12 de abril de 2007 se firmó el Protocolo por el que se adicionan disposiciones en materia de acumulación textil al Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica, suscrito en la Ciudad de México, el cinco de abril de mil novecientos noventa y cuatro, el cual fue aprobado por el Senado de la República el 26 de abril de 2007 según Decreto publicado en el Diario Oficial de la Federación el 19 de junio del mismo año;
 
-Que el 24 de junio de 2004 la Organización Mundial de Aduanas adoptó cambios al Sistema Armonizado de Designación y Codificación de Mercancías que incluyen, entre otros, modificaciones a las notas legales, la eliminación de varias subpartidas que describen productos que han reportado escaso movimiento comercial, así como la creación o reestructuración de otras para identificar productos nuevos en el comercio mundial;
+Que se divulgó en el Diario Oficial de la Federación el Acuerdo por el que se da a conocer la Decisión No. 19 de la Comisión Administradora del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica, por la que se adopta el Reglamento de Operación del Anexo al artículo 3-15 de dicho tratado;
 
-Que el 18 de junio de 2007 se publicó en el Diario Oficial de la Federación el Decreto por el que se expide la Ley de los Impuestos Generales de Importación y de Exportación con objeto de adoptar dichas modificaciones, y
+Que el Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua fue aprobado por el Senado de la República el 30 de abril de 1998, publicado en el Diario Oficial de la Federación el 1 de julio de 1998 y entró en vigor ese mismo día;
 
-Que resulta necesario ajustar el Decreto mencionado en el segundo considerando para reflejar dichas modificaciones y darlas a conocer a los operadores y autoridades aduaneras, he tenido a bien expedir el siguiente
+Que el 12 de abril de 2007 se firmó el Protocolo por el que se adicionan disposiciones en materia de acumulación textil al Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua, suscrito en la ciudad de Managua, el dieciocho de diciembre de mil novecientos noventa y siete, el cual fue aprobado por el Senado de la República el 26 de abril de 2007 según Decreto publicado en el Diario Oficial de la Federación el 30 de mayo del mismo año;
 
-DECRETO
+Que el 15 de agosto de 2008 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se da a conocer la Decisión No. 13 de la Comisión Administradora del Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua, por la que se adopta el Reglamento de Operación del Anexo al artículo 3-16 de dicho tratado;
 
-###### ARTÍCULO 1.
+Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras fue aprobado por el Senado de la República el 14 de diciembre de 2000, publicado en el Diario Oficial de la Federación el 14 de marzo de 2001 y entró en vigor el 15 de marzo de 2001 para el comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador y Guatemala, y el 1 de junio de 2001 para el comercio entre los Estados Unidos Mexicanos y la República de Honduras;
 
-Se modifica el ARTÍCULO 6 del Decreto por el que se establece la tasa aplicable a partir del 1 de enero de 2004 del Impuesto General de Importación, para las mercancías originarias de la República de Costa Rica, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2003, y su reforma, para quedar como sigue:
+Que el 16 de abril de 2007 se firmó el Protocolo por el que se adicionan disposiciones en materia de acumulación textil al Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, suscrito en la Ciudad de México, el veintinueve de junio de dos mil, el cual fue aprobado por el Senado de la República el 26 de abril de 2007 según Decreto publicado en el Diario Oficial de la Federación el 19 de junio del mismo año;
 
-“ARTÍCULO 6.- La importación de mercancías originarias de la región conformada por México y Costa Rica comprendidas en las fracciones arancelarias listadas en este artículo, estará sujeta al arancel preferencial indicado a continuación para cada una de ellas, del 1 de julio de 2007 al 31 de diciembre de 2008, y estará exenta a partir del 1 de enero de 2009:
+Que el 15 de agosto de 2008 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se da a conocer la Decisión No. 18 de la Comisión Administradora del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, por la que se adopta el Reglamento de Operación del Anexo 3-20 de dicho tratado;
+
+Que los protocolos mencionados en los considerandos segundo, quinto y octavo tienen por objeto otorgar un trato arancelario preferencial a bienes clasificados en el Capítulo 62 del Sistema Armonizado de Designación y Codificación de Mercancías originarios de Costa Rica, Nicaragua, El Salvador, Guatemala y Honduras;
+
+Que de conformidad con los referidos protocolos, el cupo global establecido en el presente Acuerdo podrá incrementarse hasta un monto de 200 millones de metros cuadrados equivalentes en un año calendario;
+
+Que es una estrategia prioritaria del gobierno federal fortalecer los mecanismos regionales de diálogo político y de integración económica, así como establecer los mecanismos adecuados para la administración de los acuerdos comerciales internacionales suscritos por los Estados Unidos Mexicanos;
+
+Que el procedimiento a través del cual se asigna el cupo de importación de conformidad con lo dispuesto en el párrafo segundo del artículo 24 de la Ley de Comercio Exterior es un instrumento de la política sectorial que busca promover la competitividad de los sectores productivos;
+
+Que a fin de instrumentar lo dispuesto en los protocolos referidos en los considerandos quinto y octavo, el 18 de agosto de 2008 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se dan a conocer los cupos para importar a los Estados Unidos Mexicanos bienes textiles clasificados en el Capítulo 62 del Sistema Armonizado, originarios de las Repúblicas de El Salvador, Guatemala, Honduras y Nicaragua;
+
+Que la República de Costa Rica ha finalizado sus procedimientos legales internos necesarios para la entrada en vigor del Protocolo referido en el considerando segundo, por lo que resulta necesario reflejarlo en el presente Acuerdo;
+
+Que para no crear confusión entre los usuarios y tener un solo instrumento que regule este cupo, con la publicación del presente Acuerdo se abroga el Acuerdo a que hace referencia el considerando decimocuarto, y
+
+Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
+
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR A LOS ESTADOS UNIDOS MEXICANOS BIENES TEXTILES CLASIFICADOS EN EL CAPITULO 62 DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION, ORIGINARIOS DE LAS REPUBLICAS DE COSTA RICA, NICARAGUA Y EL SALVADOR, GUATEMALA Y HONDURAS
+
+###### ARTICULO 1.
+
+Los cupos para importar a los Estados Unidos Mexicanos bienes textiles clasificados en el Capítulo 62 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación (TIGIE) originarios de las Repúblicas de Costa Rica, Nicaragua y El Salvador, Guatemala y Honduras, de conformidad con el Anexo al artículo 3-15 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica; el Anexo al artículo 3-16 del Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua, y el Anexo 3-20 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, según corresponda, durante el periodo enero-diciembre de cada año, son los que se determinan en el cuadro siguiente:
 
 (VEASE ARCHIVO ANEXO)
 
-###### Artículo 2.
+MCE=Metros cuadrados equivalentes significa una unidad de medida común obtenida al convertir unidades primarias de medida como unidad, docena o kilogramo. Para tal efecto se utilizarán los factores de conversión que figuran en el Apéndice 1 del Anexo al artículo 3-15 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica; Apéndice 1 del Anexo al artículo 3-16 del Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua, y el Apéndice 1 del Anexo 3-20 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, respectivamente.
 
-Para efectos del presente Acuerdo se entenderá por:
+1/ Las categorías textiles se encuentran en el Apéndice 1 del Anexo al artículo 3-15 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica; Apéndice 1 del Anexo al artículo 3-16 del Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua, y el Apéndice 1 del Anexo 3-20 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras.
 
-I. DOF, al Diario Oficial de la Federación;
+2/ Conforme se indica en el Apéndice 2 del Anexo al artículo 3-15 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica, el Apéndice 2 del Anexo al artículo 3-16 del Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua, y el Apéndice 2 del Anexo 3-20 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras.
 
-II. Instrumentos y programas de comercio exterior, al Programa IMMEX, al Programa PROSEC De las Industrias Diversas, al Programa PROSEC en la modalidad de productor indirecto, a los Permisos Previos de importación y de exportación, Avisos Automáticos de Exportación, Certificados de Origen y Cupos;
+###### ARTICULO 2.
 
-III. TIGIE 2002, a la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 18 de enero de 2002 y sus modificaciones;
+El mecanismo a través del cual se asignan los cupos descritos en el cuadro del artículo anterior, es de asignación directa en la modalidad de “Primero en tiempo, primero en derecho”.
 
-IV. TIGIE 2007, a la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 18 de junio de 2007;
+###### ARTICULO 3.
 
-V. Programa IMMEX, al programa autorizado al amparo del Decreto para el Fomento de la Industria Manufacturera, Maquiladora y de Servicios de Exportación, publicado en el Diario Oficial de la Federación el 1 de noviembre de 2006, así como las empresas que de conformidad con el artículo Quinto Transitorio del mismo Decreto aún no cuentan con su número;
+Pueden solicitar la asignación de los cupos de importación a que se refiere el presente Acuerdo, las personas físicas o morales establecidas en los Estados Unidos Mexicanos.
 
-VI. Programa PROSEC, al programa autorizado al amparo del Decreto por el que se establecen diversos Programas de Promoción Sectorial, publicado en el Diario Oficial de la Federación el 2 de agosto de 2002 y sus reformas;
+###### ARTICULO 4.
 
-VII. SAAI, al Sistema Automatizado Aduanero Integral de la Administración General de Aduanas del Servicio de Administración Tributaria;
+Los interesados podrán presentar en la ventanilla de atención al público de la representación federal de la Secretaría de Economía que corresponda, las solicitudes de asignación de cupo y expedición de certificado de cupo de manera simultánea. Para ello deberán utilizar los formatos SE-03-011-1 “Solicitud de asignación de cupo” y SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”, sin atender en este último el inciso 11) “Número de oficio de asignación de cupo”, en su lugar, en caso de que el certificado de origen-cupo consigne alguna de las categorías textiles 239, 359, 459, 659, 759 y 859, deberá indicar el número de piezas que ampara el documento, adjuntando el original del certificado de origen-cupo proporcionado al exportador por la Cámara de la Industria Textil y de la Confección de El Salvador; la Comisión Nacional de Administración de Cuotas Textiles y Prendas de Vestir del Ministerio de Economía de Guatemala; la Dirección General de Integración Económica y Política Comercial de la Secretaría de Estado en los Despachos de Industria y Comercio de Honduras; la Oficina Administradora de Textiles de la Comisión Nacional de Zonas Francas de Nicaragua, o la Asociación Nacional de Exportadores de la Industria Textil de Costa Rica, según corresponda.
 
-VIII. SAT, al Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público;
+El certificado de origen-cupo sólo será válido si no han transcurrido más de 90 días contados a partir de la fecha de su firma.
 
-IX. SE, a la Secretaría de Economía;
+La Dirección General de Comercio Exterior de esta Secretaría emitirá, en su caso, el oficio de asignación de cupo, y la representación federal de la Secretaría que corresponda, y expedirá el certificado de cupo, ambos dentro de los 7 días hábiles siguientes a la fecha de presentación de dichas solicitudes.
 
-X. SICEX, al Sistema Integral de Comercio Exterior mediante el cual la Secretaría de Economía administra diversos instrumentos y programas de comercio exterior, y
+En caso de que la resolución de la solicitud de asignación del cupo sea negativa, se entenderá que la solicitud de expedición de certificado de cupo también lo es.
 
-XI. Tabla de correlación TIGIE 2002-TIGIE 2007, a la Tabla de correlación que establece la equivalencia de las fracciones arancelarias vigentes hasta el 30 de junio de 2007 y las vigentes a partir del 1 de julio de 2007, anexa al presente Acuerdo.
+El certificado de cupo es nominativo e intransferible.
 
-###### Artículo 3.
+La vigencia máxima de los certificados de cupo a que se refiere este Acuerdo será de 30 días a partir de su expedición, sin exceder del 31 de diciembre de cada año.
 
-Los Acuerdos que se listan en el presente artículo continuarán vigentes en los términos que fueron publicados y las fracciones arancelarias contenidas en ellas permanecen sin cambio al amparo de la TIGIE 2007:
+###### ARTICULO 5.
 
-I. Acuerdo por el que se da a conocer el contingente mínimo para importar en 2007, exenta de arancel, leche en polvo originaria de los países miembros de la Organización Mundial del Comercio publicado en el DOF el 23 de enero de 2007 y su modificación del 11 de mayo del 2007.
+Los formatos a que hace referencia este Acuerdo están a disposición de los interesados en la Dirección General de Comercio Exterior de esta dependencia, en las representaciones federales de la Secretaría de Economía y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las siguientes direcciones electrónicas:
 
-II. Acuerdo por el que se da a conocer el mecanismo de asignación de los contingentes arancelarios para importar en 2007, con los aranceles preferenciales establecidos en el marco de los compromisos contraídos por México en la Organización Mundial del Comercio, publicado en el DOF el 1 de enero de 2007.
+a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”:
 
-III. Acuerdo por el que se dan a conocer los cupos mínimos para importar en el periodo 2004-2007 dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, maíz excepto para siembra, originario de los Estados Unidos de América o de Canadá, publicado en el DOF el 31 de diciembre de 2003 y sus modificaciones del 5 de agosto de 2004, 1 de diciembre de 2004, 1 de enero de 2007 y 23 de enero de 2007.
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
 
-IV. Acuerdo por el cual se da a conocer el cupo para internar a los Estados Unidos de América, dentro del arancel-cuota, establecido en el Tratado de Libre Comercio de América del Norte, jugo de naranja originario de los Estados Unidos Mexicanos, publicado en el DOF el 29 de diciembre de 2004.
+b) Para el caso del formato SE-03-013-5, “Solicitud de certificados de cupo (obtenido por asignación directa)”:
 
-V. Acuerdo por el que se dan a conocer los cupos mínimos para importar, dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, frijol, excepto para siembra, originario de los Estados Unidos de América y de Canadá, publicado en el DOF el 29 de diciembre de 2004 y su modificación del 15 de febrero del 2007.
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042-B
 
-VI. Acuerdo por el cual se da a conocer el cupo para internar a los Estados Unidos de América, dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, cacahuate originario de los Estados Unidos Mexicanos, publicado en el DOF el 29 de diciembre de 2004.
+###### ARTICULO 6.
 
-VII. Acuerdo por el que se da a conocer el cupo mínimo para importar, dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, jugo de naranja originario de los Estados Unidos de América, publicado en el DOF el 27 de enero de 2005.
+Para efectos del Artículo 5 del Reglamento de Operación del Anexo al artículo 3-15 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica; el Artículo 5 del Reglamento de Operación del Anexo al artículo 3-16 del Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua, y el Artículo 5 del Reglamento de Operación del Anexo 3-20 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, en caso de que en un período anual el cupo utilizado alcance el 90 por ciento del cupo global, México incrementará automáticamente en ese período el cupo global hasta un monto máximo equivalente al cupo que otorgue Estados Unidos a Costa Rica, Nicaragua, El Salvador, Guatemala y Honduras, de conformidad con el Apéndice 4.1-B del Tratado de Libre Comercio República Dominicana - Centroamérica - Estados Unidos. Este incremento no tomará en cuenta el monto que resulte al aplicar la nota 2 al párrafo 3 del mencionado Apéndice. El monto resultante del incremento será el cupo global base para los años subsiguientes y la Secretaría de Economía lo dará a conocer mediante publicación en este mismo órgano informativo.
 
-VIII. Acuerdo por el que se da a conocer el cupo mínimo para importar en 2007, leche en polvo originaria de los Estados Unidos de América, dentro del arancel cuota establecido en el Tratado de Libre Comercio de América del Norte publicado en el DOF el 23 de enero de 2007 y su modificación del 11 de mayo del 2007.
+En ningún caso el monto del cupo global resultante podrá exceder el máximo establecido en el párrafo 5 del Anexo al artículo 3-15, el párrafo 5 del Anexo al artículo 3-16 y el párrafo 5 del Anexo 3-20 mencionados en el párrafo anterior.
 
-IX. Acuerdo por el cual se da a conocer el cupo máximo para exportar a los Estados Unidos de América, cemento gris Pórtland y cemento clinker, originarios de los Estados Unidos Mexicanos durante 2006 a 2009, al amparo del Acuerdo sobre comercio de cemento celebrado entre la Secretaría de Economía de los Estados Unidos Mexicanos y la Oficina del Representante Comercial de los Estados Unidos de América y el Departamento de Comercio de los Estados Unidos de América publicado en el DOF el 29 de marzo de 2006 y su modificación del 30 de marzo de 2007.
+## TRANSITORIOS
 
-X. Acuerdo por el que se dan a conocer los cupos para internar a los Estados Unidos de América, azúcares originarios de los Estados Unidos Mexicanos publicado en el DOF el 20 de octubre de 2006.
+PRIMERO.- El presente Acuerdo entrará en vigor el 1 de enero de 2009.
 
-XI. Acuerdo por el que se da a conocer el cupo para importar azúcares y jarabes de azúcar, originarios de los Estados Unidos de América, publicado en el DOF el 16 de octubre de 2006.
+SEGUNDO.- De conformidad con lo establecido en el Artículo único transitorio del Reglamento de Operación del Anexo al artículo 3-15 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica; el Artículo único transitorio del Reglamento de Operación del Anexo al artículo 3-16 del Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua, y el Artículo único transitorio del Reglamento de Operación del Anexo 3-20 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, para el 2008 el monto del cupo global y sus sublímites se reducen en proporción al número de meses completos que hayan transcurrido a la fecha en que se dio a conocer dicho monto.
 
-XII. Acuerdo por el que se dan a conocer los cupos para importar leche ultra pasteurizada en envases herméticos y polvo para preparación de bebidas, originarios de la República de Costa Rica, publicado en el DOF el 29 de diciembre de 2004.
+Para efectos del párrafo anterior, se ratifican el monto del cupo global y sus sublímites que se fijaron en el Acuerdo por el que se dan a conocer los cupos para importar a los Estados Unidos Mexicanos bienes textiles clasificados en el Capítulo 62 del Sistema Armonizado, originarios de las Repúblicas de El Salvador, Guatemala, Honduras y Nicaragua, publicado en el Diario Oficial de la Federación el 18 de agosto de 2008, y que son los siguientes:
 
-XIII. Acuerdo por el que se da a conocer el cupo para internar a la República de Costa Rica, dentro del arancel-cuota establecido en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica, aguacates frescos originarios de los Estados Unidos Mexicanos, publicado en el DOF el 29 de diciembre de 2004.
+Cupo Global:
 
-XIV. Acuerdo por el que se dan a conocer los cupos para importar carne de bovino o su equivalente en ganado bovino en pie superior o igual a 250 kilogramos y queso fresco, acondicionado para su venta al por menor, originarios de la República de Nicaragua publicado en el DOF el 21 de julio de 2005.
+29'166,667 metros cuadrados equivalentes (MCE).
 
-XV. Acuerdo por el que se dan a conocer los cupos para importar a los Estados Unidos Mexicanos e internar al Estado de Israel, bienes textiles y de la confección que cumplan con lo dispuesto en el artículo 3-03.3 y su anexo del Tratado de Libre Comercio entre ambos países, publicado en el DOF el 29 de diciembre de 2004.
+Sublímites específicos:
 
-XVI. Acuerdo por el que se dan a conocer los cupos para importar a los Estados Unidos Mexicanos, ciertos productos textiles y calzado originarios de la Comunidad Europea, publicado en el DOF el 29 de diciembre de 2004.
+a) Un monto máximo de 13'125,000 de MCE podrá ser pantalones y faldas de algodón o fibras sintéticas o artificiales de las categorías textiles 342, 347, 348, 642, 647 ó 648, excluyendo las fracciones identificadas con el literal b).
 
-XVII. Acuerdo por el que se dan a conocer los cupos para internar a la Comunidad Europea en el periodo de julio de un año al 30 de junio del siguiente año: miel natural; espárragos frescos o refrigerados; chícharos congelados (guisantes, arvejas) (pisum sativum); aguacate; los demás melones; las demás fresas congeladas sin adición de azúcar ni otros edulcorantes; atún procesado, excepto lomos; melaza de caña; chicle; espárragos preparados o conservados, excepto en vinagre o ácido acético; mezclas de ciertas frutas preparadas o conservadas, incluso con adición de azúcar u otro edulcorante; jugo de naranja, excepto concentrado congelado y jugo de piña, sin fermentar y sin adición de alcohol con grado de concentración mayor a 20° brix, originarios de los Estados Unidos Mexicanos publicado en el DOF el 19 de julio de 2005.
+b) Un monto máximo de 5'833,333 de MCE podrá ser de pantalones con peto y tirantes, pantalones, y faldas de algodón de mezclilla azul y que se clasifiquen en las fracciones arancelarias de la TIGIE 6203.42.02, 6204.62.01, 6204.62.99 ó 6204.52.01.
 
-XVIII. Acuerdo por el que se dan a conocer los cupos para internar a la Comunidad Europea en el periodo de julio de un año al 30 de junio del siguiente año, huevo de ave fértil libre de patógenos (SPF); huevo sin cascarón (secas, líquidas o congeladas) y yemas de huevo (secas, líquidas o congeladas) aptas para consumo humano; rosas, claveles, orquídeas, gladiolas, crisantemos, jugo de naranja concentrado congelado con grado de concentración mayor a 20° brix y ovoalbúmina (apta para consumo humano), originarios de los Estados Unidos Mexicanos publicado en el DOF el 19 de julio de 2005 y su reforma de fecha 15 de agosto de 2005.
+c) Un monto máximo de 416,667 de MCE podrá ser de prendas de vestir de lana de las categorías textiles 433, 435 (chaquetas tipo traje únicamente: de la subpartida 6204.31, o de las fracciones arancelarias 6204.33.01, 6204.39.03 ó 6204.39.99), 442, 443, 444, 447 ó 448, y comprendidas en las partidas 62.03 ó 62.04.
 
-XIX. Acuerdo por el que se da a conocer el cupo para internar a la Comunidad Europea, lomos de atún originarios de los Estados Unidos Mexicanos publicado en el DOF el 16 de enero de 2007.
+TERCERO.- Se abroga el Acuerdo por el que se dan a conocer los cupos para importar a los Estados Unidos Mexicanos bienes textiles clasificados en el Capítulo 62 del Sistema Armonizado, originarios de las Repúblicas de El Salvador, Guatemala, Honduras y Nicaragua publicado en el Diario Oficial de la Federación el 18 de agosto de 2008.
 
-XX. Acuerdo por el que se da a conocer el cupo para internar a la Comunidad Europea, materias pécticas, pectinatos y pectatos en polvo originarios de los Estados Unidos Mexicanos publicado en el DOF el 20 de febrero de 2007.
+CUARTO.- Las solicitudes de asignación de cupo y expedición de certificados de cupo presentadas al amparo del Acuerdo por el que se dan a conocer los cupos para importar a los Estados Unidos Mexicanos bienes textiles clasificados en el Capítulo 62 del Sistema Armonizado, originarios de las Repúblicas de El Salvador, Guatemala, Honduras y Nicaragua, publicado en el Diario Oficial de la Federación el 18 de agosto de 2008, que se encuentren en trámite al momento de la publicación del presente en el citado órgano informativo, serán resueltas de conformidad con lo estipulado en este acuerdo.
 
-XXI. Acuerdo por el que se da a conocer el cupo para importar, atún en lata, con un peso no mayor a 1 Kg. originario de la República de Guatemala publicado en el DOF el 16 de enero de 2007.
+QUINTO.- Los certificados de cupo expedidos al amparo del Acuerdo por el que se dan a conocer los cupos para importar a los Estados Unidos Mexicanos bienes textiles clasificados en el Capítulo 62 del Sistema Armonizado, originarios de las Repúblicas de El Salvador, Guatemala, Honduras y Nicaragua, publicado en el Diario Oficial de la Federación el 18 de agosto de 2008, se entenderán autorizados conforme al presente acuerdo y serán válidos en los términos y condiciones acordados.
 
-XXII. Acuerdo por el que se dan a conocer los cupos para importar a los Estados Unidos Mexicanos, al amparo del arancel-cuota establecido en el tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, varilla de hierro o acero corrugada o barras de hierro o acero para armaduras, para cemento u hormigón, y perfiles de hierro o acero sin alear en “L” originarios de la República de El Salvador, publicado en el DOF el 6 de junio de 2006.
+México, D.F., a 23 de diciembre de 2008.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
 
-XXIII. Acuerdo por el que se dan a conocer los cupos para importar de los Estados de la Asociación Europea de Libre Comercio y para exportar a los Estados de la Asociación Europea de Libre Comercio, ciertos productos textiles, de la confección y del calzado, publicado en el DOF el 29 de diciembre de 2004.
+SECRETARIA DE ECONOMIA
 
-XXIV. Acuerdo por el que se dan a conocer los cupos y el procedimiento para su asignación, para importar quesos y tejidos de lana, originarios de la República Oriental del Uruguay, conforme al Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay publicado en el DOF el 14 de julio de 2005 y su modificación del 3 de noviembre de 2006.
+HOJA DE REQUISITOS DEL ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR A LOS ESTADOS UNIDOS MEXICANOS BIENES TEXTILES CLASIFICADOS EN EL CAPITULO 62 DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION ORIGINARIOS DE LAS REPUBLICAS DE COSTA RICA, NICARAGUA Y EL SALVADOR, GUATEMALA Y HONDURAS. 1/1
 
-XXV. Acuerdo por el que se dan a conocer los cupos para importar miel de abeja, preparación usada en panadería, harina y polvo de carne o despojos y ácido esteárico de vacuno, originarios de la República Oriental del Uruguay, conforme al Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay publicado en el DOF el 18 de julio de 2005.
-
-XXVI. Acuerdo por el cual se da a conocer el cupo para internar al Japón al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, carne y despojos de porcino y preparaciones y conservas de carne de porcino originarios de los Estados Unidos Mexicanos publicado en el DOF el 1 de abril de 2005 y su modificación del 12 de agosto de 2005.
-
-XXVII. Acuerdo por el cual se da a conocer el cupo para internar al Japón al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, carne de pollo, las demás preparaciones y conservas de ave originarios de los Estados Unidos Mexicanos publicado en el DOF el 1 de abril de 2005.
-
-XXVIII. Acuerdo por el cual se da a conocer el cupo para internar al Japón al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, carne y despojos de bovino y las demás preparaciones y conservas de bovino originarias de los Estados Unidos Mexicanos publicado en el DOF el 1 de abril de 2005 y su modificación del 16 de febrero de 2007.
-
-XXIX. Acuerdo por el que se da a conocer el cupo para internar a Japón, bananas o plátanos frescos originarios de los Estados Unidos Mexicanos, publicado en el DOF el 27 de abril de 2007.
-
-XXX. Acuerdo por el cual se dan a conocer los cupos para internar al Japón, al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, jugo de naranja, originario de los Estados Unidos Mexicanos publicado en el DOF el 1 de abril de 2005.
-
-XXXI. Acuerdo por el que se da a conocer el cupo para importar vehículos nuevos, originarios y procedentes del Japón, al amparo del Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, durante el periodo que se indica, publicado en el DOF el 1 de abril de 2005 y su reforma del 4 de abril de 2007.
-
-XXXII. Acuerdo por el cual se dan a conocer los cupos para internar al Japón, al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, miel natural, naranjas, jugo de tomate sin adición de azúcar, ketchup, las demás salsas de tomate, d-glucitol (sorbitol), dextrina y demás almidones y féculas modificados y prendas y complementos de vestir, originarios de los Estados Unidos Mexicanos publicado en el DOF el 1 de abril de 2005.
-
-XXXIII. Acuerdo por el cual se dan a conocer los cupos para exportar e importar, al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, ácido cítrico y sales del ácido cítrico publicado en el DOF el 16 de agosto de 2005.
-
-XXXIV. Acuerdo por el que se dan a conocer los cupos para internar a la República Federativa del Brasil, diversos productos, originarios y provenientes de los Estados Unidos Mexicanos, publicado en el DOF el 23 de junio de 2006.
-
-XXXV. Acuerdo por el que se dan a conocer los cupos para importar a los Estados Unidos Mexicanos diversos productos originarios y provenientes de la República Federativa de Brasil publicado en el DOF el 3 de julio de 2006.
-
-XXXVI. Acuerdo por el que se da a conocer el cupo para importar hasta el 31 de diciembre de 2007, productos automotores nuevos, originarios y provenientes de la República Oriental del Uruguay, conforme al Acuerdo de complementación Económica No. 55 suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa de Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, publicado en el DOF el 21 de noviembre de 2006.
-
-XXXVII. Acuerdo por el que se dan a conocer los cupos para internar a la República Argentina, duraznos en almíbar exclusivamente enlatados o envasados y productos de hierro y acero, originarios y provenientes de los Estados Unidos Mexicanos, con la preferencia arancelaria establecida en el anexo III del Decimoquinto Protocolo adicional al Acuerdo de Complementación Económica No. 6, celebrado entre los Estados Unidos Mexicanos y la República Argentina, publicado en el DOF el 1 de enero de 2007.
-
-XXXVIII. Acuerdo por el cual se da a conocer el cupo para internar a Taiwán, Penghu, Kimen y Matsu (Taipei Chino), vehículos automóviles (sic), originarios de los Estados Unidos Mexicanos durante 2007, al amparo del acuerdo temporal celebrado entre los Estados Unidos Mexicanos y el territorio aduanero independiente de Taiwán, Penghu, Kimen y Matsu (Taipei Chino) publicado en el DOF el 26 de diciembre de 2006.
-
-XXXIX. Acuerdo por el que se da a conocer el cupo para importar aceite en bruto de girasol, originario y procedente de la República de Argentina, fracción arancelaria 1512.11.01 publicado en el DOF el 21 de septiembre de 2005.
-
-XL. Acuerdo por el que se da a conocer el cupo mínimo para internar durante el año 2007, a la República de Colombia, vehículos automotores nuevos, originarios y provenientes de los Estados Unidos Mexicanos, conforme a la Decisión 42 de la Comisión Administradora del Tratado, suscrita entre la República de Colombia, la República Bolivariana de Venezuela y los Estados Unidos Mexicanos, publicado en el DOF el 28 de noviembre de 2006.
-
-XLI. Acuerdo por el que se da a conocer el cupo para importar fructosa originaria de los Estados Unidos de América y sus criterios, publicado en el DOF el 5 de octubre de 2006.
-
-La SE dará a conocer en la página de Internet www.siicex.gob.mx, el monto de los cupos que a la entrada en vigor del presente Acuerdo esté disponible para ser asignado al amparo de los Acuerdos listados en el presente artículo.
-
-###### Artículo 4.
-
-Los Acuerdos que dan a conocer diversos cupos al amparo de aranceles-cupo de conformidad con la TIGIE 2002, señalados en el presente artículo, se entenderán referidos a los aranceles cupo que se establezcan conforme a la TIGIE 2007:
-
-I. Acuerdo por el que se dan a conocer los cupos unilaterales para importar en 2006 y 2007, cebada en grano, con cáscara, excepto lo comprendido en la fracción 1003.00.01; las demás cebadas y malta tostada y sin tostar, fracciones arancelarias, 1003.00.02, 1003.00.99, 1107.10.01 y 1107.20.01, publicado en el DOF el 9 de marzo de 2006.
-
-II. Acuerdo por el que se da a conocer el cupo para importar, con el arancel-cupo establecido, cera de carnauba publicado en el DOF el 4 de abril de 2005.
-
-III. Acuerdo por el que se da a conocer el cupo unilateral para importar con el arancel-cupo establecido, avena, excepto para siembra publicado en el DOF el 7 de abril de 2005 y su modificación del 24 de julio de 2006.
-
-IV. Acuerdo por el que se dan a conocer los cupos para importar, con el arancel-cupo establecido, pato, ganso o pintada sin trocear, queso tipo egmont y extractos de café publicado en el DOF el 4 de abril de 2005.
-
-V. Acuerdo que determina las Reglas para la aplicación del Decreto para el apoyo de la competitividad de la industria automotriz terminal y el impulso al desarrollo del mercado interno de automóviles publicado en el DOF el 30 de junio de 2004 y su adición publicada el 4 de julio de 2006.
-
-VI. Acuerdo que establece la cantidad mensual máxima que podrán importar las empresas comerciales de autos usados, publicado en el DOF el 4 de abril de 2003.
-
-VII. Acuerdo por el que se da a conocer el cupo para importar piernas, muslos o piernas unidas al muslo, de pollo, originarias de los Estados Unidos de América publicado en el DOF el 29 de diciembre de 2004.
-
-La SE dará a conocer en la página de Internet www.siicex.gob.mx, el monto de los cupos que a la entrada en vigor del presente Acuerdo esté disponible para ser asignado al amparo de los Acuerdos listados en el presente artículo.
-
-###### Artículo 5.
-
-Los Acuerdos que dan a conocer diversos cupos al amparo de aranceles-cupo de conformidad con la TIGIE 2002, así como de los acuerdos y tratados de los que México es parte, señalados en el presente artículo, serán publicados de nueva cuenta por la SE:
-
-I. Acuerdo por el que se da a conocer el cupo para importar en 2007 con el arancel-cupo establecido, preparaciones a base de productos lácteos con un contenido de sólidos lácteos superior al 50% en peso, excepto las comprendidas en la fracción 1901.90.04 publicado en el DOF el 28 de febrero de 2007.
-
-II. Acuerdo por el que se da a conocer el cupo para importar diversas mercancías clasificadas en el capítulo 95 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación publicado en el DOF el 18 de agosto de 2005 y sus modificaciones del 31 de enero de 2006 y 30 de octubre del 2006.
-
-III. Acuerdo por el que se da a conocer el cupo para importar brandy a los Estados Unidos Mexicanos, en el periodo de julio de 2006 al 30 de junio de 2007 publicado en el DOF el 29 de septiembre de 2006.
-
-IV. Acuerdo por el que se dan a conocer los cupos y el procedimiento para su asignación, para importar a los Estados Unidos Mexicanos procedentes de la República de Honduras e internar a la República de Honduras, bienes textiles y del vestido en el periodo 2006-2009, que cumplan con lo dispuesto en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras publicado en el DOF el 9 de marzo de 2006.
-
-V. Acuerdo por el que se dan a conocer los cupos de exportación e importación de bienes textiles y prendas de vestir no originarios, susceptibles de recibir trato de preferencia arancelaria, conforme al Tratado de Libre Comercio de América del Norte, publicado en el DOF el 29 de diciembre de 2004.
-
-VI. Acuerdo por el que se dan a conocer los cupos para importar con la preferencia arancelaria establecida en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y el Estado de Israel, flores frescas y café kosher originarios del Estado de Israel, publicado en el DOF el 29 de diciembre de 2004.
-
-VII. Acuerdo por el cual se dan a conocer los cupos para importar a los Estados Unidos Mexicanos, al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, carne y despojos de bovino, carne y preparaciones de pollo, miel natural, bananas o plátanos frescos, naranjas, pasta o puré de tomate, jugo de naranja, jugo de tomate sin adición de azúcar, ketchup, las demás salsas de tomate, d-glucitol (sorbitol), dextrina y demás almidones y féculas modificados, cueros y pieles curtidos en “crust”, calzado, cueros y pieles depilados y productos laminados planos de hierro o acero, originarios de Japón publicado en el DOF el 1 de abril de 2005 y su modificación del 5 de marzo del 2007.
-
-VIII. Acuerdo por el que se dan a conocer los cupos para importar productos originarios y provenientes de la República Argentina, de la República de Cuba, de la República de Panamá y de la República del Perú, que sustituye al similar publicado el 29 de diciembre de 2005, publicado en el DOF el 16 de enero de 2006.
-
-IX. Acuerdo por el que se dan a conocer los cupos para importar productos originarios y provenientes de la República Argentina, de conformidad al Decimoquinto Protocolo Adicional del Acuerdo de Complementación Económica No. 6., publicado en el DOF el 14 de febrero de 2007 y su modificación del 25 de abril de 2007.
-
-X. Acuerdo por el que se da a conocer el cupo para importar atún procesado, excepto lomos, originario de los países de la Comunidad Europea, en el periodo de julio de 2006 al 30 de junio de 2007 publicado en el DOF el 2 de agosto de 2006.
-
-XI. Acuerdo por el que se dan a conocer los cupos para internar a la Comunidad Europea en el periodo de julio de 2006 al 30 de junio del 2007; huevo sin cascarón (secas, líquidas o congeladas) y yemas de huevo (secas, líquidas o congeladas) aptas para consumo humano y ovoalbúmina (apta para consumo humano), originarios de los Estados Unidos Mexicanos publicado en el DOF el 14 de julio de 2006.
-
-XII. Acuerdo por el que se da a conocer el cupo para internar a la Comunidad Europea en el periodo de julio de 2006 al 30 de junio de 2007, jugo de naranja concentrado congelado con grado de concentración mayor a 20o brix, originario de los Estados Unidos Mexicanos, publicado en el DOF el 27 de julio de 2006.
-
-XIII. Acuerdo por el que se dan a conocer los cupos para internar a la Comunidad Europea en el periodo de julio de 2006 al 30 de junio de 2007; miel natural; espárragos frescos o refrigerados; los demás melones; atún procesado, excepto lomos; chicle; jugo de naranja, excepto concentrado congelado y jugo de piña, sin fermentar y sin adición de alcohol con grado de concentración mayor a 20o brix, originarios de los Estados Unidos Mexicanos, publicado en el DOF el 28 de julio de 2006.
-
-XIV. Acuerdo por el que se da a conocer el cupo para importar leche en polvo, originaria de la República de Nicaragua, publicado en el DOF el 2 de agosto de 2006.
-
-###### Artículo 6.
-
-Los criterios y disposiciones aplicables a los instrumentos y programas de comercio exterior, son los señalados a continuación:
-
-I. La Dirección General de Comercio Exterior de la SE actualizará en el SICEX las fracciones arancelarias que correspondan a las mercancías autorizadas hasta el 29 de junio de 2007, en cada instrumento y programa de comercio exterior, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007.
-
-II. Los titulares de resoluciones de instrumentos y programas de comercio exterior, a partir del 1 de julio de 2007, podrán realizar operaciones de comercio exterior, respecto de las mercancías autorizadas en sus instrumentos y programas de comercio exterior, utilizando las fracciones arancelarias que les correspondan con base en la Tabla de Correlación TIGIE 2002-TIGIE 2007.
-
-Las resoluciones a que se refiere el párrafo anterior continuarán vigentes hasta la fecha que se indique en el documento correspondiente y, en su caso, por el saldo del monto autorizado, por lo que podrán continuar siendo utilizados para los efectos para los que fueron emitidos y ejercer dichas autorizaciones ante la aduana, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007 por lo que los titulares de dichas autorizaciones no deberán realizar ningún trámite ante la SE.
-
-III. La Dirección General de Comercio Exterior de la SE realizará el intercambio de información necesario con la Administración General de Aduanas del SAT a fin de que esté en posibilidad de actualizar en el SAAI las fracciones arancelarias de las resoluciones de los instrumentos y programas de comercio exterior, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007.
-
-## TRANSITORIO
-
-ÚNICO.- El presente Decreto entrará en vigor a partir del 1 de julio de 2007.
-
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiocho de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+(VEASE ARCHIVO ANEXO)
