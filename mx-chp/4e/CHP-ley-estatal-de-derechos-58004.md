@@ -4,7 +4,7 @@ identifier: "CHP-ley-estatal-de-derechos-58004"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2008-02-20"
+last_updated: "2008-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ESTATAL DE DERECHOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el miércoles 21 de noviembre de 2007.
 
@@ -45,15 +45,19 @@ Ley Estatal de Derechos
 
 ### Capítulo Único. Generalidades
 
-###### Artículo 1°.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-Las disposiciones de esta Ley, son de orden público e interés general y tienen por objeto establecer las prestaciones económicas que realizan los contribuyentes al erario estatal a cambio de la obtención de servicios, así como por el uso o aprovechamiento de los bienes del dominio público del Estado, que realizan las dependencias de la Administración Pública Centralizada, organismos descentralizados u órganos autónomos.
+###### Artículo 1º.
+
+Las disposiciones de esta Ley, son de orden público e interés general y tienen por objeto establecer las prestaciones económicas que realizarán los contribuyentes al erario estatal a cambio de la obtención de servicios, así como por el uso o aprovechamientos de los bienes del dominio público del Estado, que realizan los Poderes y Organismos Autónomos del Estado.
 
 ###### Artículo 2°.
 
 Para efectos de esta Ley, se entenderá por:
 
-I. Secretaría: Secretaría de Finanzas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+I. Secretaría: A la Secretaría de Hacienda.
 
 II. Código: Código de la Hacienda Pública para el Estado de Chiapas.
 
@@ -68,6 +72,12 @@ V. Autoridad Hacendaria: Las señaladas en el artículo 13, del Código de la Ha
 Los derechos que establece esta Ley, se pagarán por los servicios que presta el Estado en sus funciones de derecho público.
 
 También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Son derechos los derivados de Convenio de Coordinación y Colaboración Administrativa, que la Secretaría celebre con los municipios del Estado, en materia de prestación de servicios catastrales, en términos del artículo 284, fracción XII, del Código de la Hacienda Pública para el Estado de Chiapas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Se aplicarán las disposiciones establecidas en esta Ley, cuando de conformidad con la Ley Orgánica de la Administración Pública del Estado de Chiapas u otras disposiciones, las dependencias de la administración pública centralizada, organismos descentralizados u órganos autónomos, que prestan los servicios establecidos en la presente, sean atribuidos por reformas legales a otra dependencia u organismo.
 
@@ -89,21 +99,33 @@ Los servidores públicos encargados de la prestación de los servicios, serán r
 
 Las dependencias, organismos descentralizados u órganos autónomos que presten servicios por los cuales se paguen derechos, procederán a proporcionarlos, cuando el interesado presente el recibo oficial de pago requisitado, conforme a las disposiciones legales aplicables.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-Tratándose del pago de los derechos por servicios de control vehicular, éstos serán cubiertos de acuerdo a los siguientes periodos:
+Tratándose de los derechos por servicio de control vehicular, serán de vigencia anual y deberán ser enterados dentro de los siguientes periodos:
 
-I. Para el caso del refrendo anual de vehículos, el período de pago se establecerá en la Ley de Ingresos del Estado de Chiapas, vigente.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+I. Para el caso de la renovación anual de tarjeta de circulación y calcomanía, el entero deberá realizarse en los meses de enero, febrero y marzo de cada año.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 II. En los casos que implique efectuar movimientos de baja y alta del vehículo, dentro de los 15 días siguientes a haberse efectuado dicha operación.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 III. En los demás casos, en el momento que la persona solicite la prestación del servicio.
 
-IV. Cuando en un ejercicio fiscal se disponga el nuevo canje total de placas, el periodo de pago se establecerá en la Ley de Ingresos del Estado de Chiapas, vigente.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2007)</small>
+IV. Cuando se disponga el nuevo canje total de placas, el período de pago comprenderá los meses de enero, febrero y marzo del año en que se trate.
 
-Cuando se trate del pago de derechos por control vehicular, por la adquisición de vehículos nuevos, éste podrá ser cubierto por los contribuyentes en las agencias distribuidoras de automóviles que tengan celebrado Convenio de Prestación de Servicios para la Recepción y Cobro de Contribuciones Estatales y Federales en Materia Vehicular con la Secretaría.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+V. Tratándose de vehículos del servicios público estatal, el plazo para el pago de los derechos por concepto de refrendo anual de permisos de ruta, zona y para la prestación del servicio de transporte especial, así como el de la constancia pericial para determinar las condiciones de seguridad y de comodidad de los vehículos automotores (revisión mecánica), previstos por el artículo 33, de esta Ley, y en el plazo establecido en las fracciones I, III y IV, de este artículo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Cuando se trate del pago de derechos por control vehicular del servicio particular, por la adquisición de vehículos nuevos, éste podrá ser cubierto por los contribuyentes en las agencias distribuidoras de automóviles que tengan celebrado Convenio de Prestación de Servicios para la Recepción y Cobro de Contribuyentes Estatales y Federales en Materia Vehicular con la Secretaría.
 
 ###### Artículo 7°.
 
@@ -135,7 +157,9 @@ Acacoyagua, Acapetahua, Aldama, Altamirano, Amatán, Amatenango de la Frontera, 
 
 ## Título Segundo. De los Derechos
 
-### Capítulo I. Derechos por Servicios que Presta la Secretaría de Gobierno
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+### Capítulo I. Derechos por Servicios que Presta el Instituto de la Consejería y de Asistencia Legal
 
 #### Sección Primera. Servicios que Presta la Dirección del Registro Civil del Estado
 
@@ -155,17 +179,21 @@ Municipal
 
 A B
 
-I. Registro de nacimiento en la oficialía, o por
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-brigadas de 180 días a menor de 18 años o
+I. Registro de nacimiento en la oficialía, de
 
-registro de nacimiento por adopción plena. 2.5 2.0
+mayores de 180 días a menores de 18 años
+
+o registro de nacimiento por adopción plena. 2.5 2.0
 
 II. Registro de nacimiento a domicilio. 12.0 7.0
 
-III. Registro de nacimiento por brigadas a
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-mayores de 18 años. 3.0 2.0
+III. Registros extemporáneos de nacimiento a
+
+través de brigadas. 2.0 1.5
 
 IV. Trámite de registros extemporáneos de:
 
@@ -209,35 +237,39 @@ datos o búsqueda manual o constancia de
 
 inexistencia. 1.5 1.0
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XIV. Certificada o constancia de inexistencia de
+XIV. Certificada o constancia de inexistencia
 
-actas del estado civil sin datos concretos período
+de actas del estado civil sin datos concretos,
 
-de búsqueda hasta 5 años mediante búsqueda
+periodo de búsqueda de hasta 5 años,
 
-manual en oficialía y archivo. 2.5 1.5
+mediante búsqueda manual en oficialía
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+y archivo. 3.0 1.5
 
-XV. Certificada o constancia de inexistencia de
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-actas del estado civil sin datos concretos, período
+XV. Certificada o constancia de inexistencia
 
-de búsqueda de más de 5 años hasta 15 años
+de actas del estado civil sin datos concretos,
 
-búsqueda manual en oficialía y archivo. 3.0 2.0
+periodo de búsqueda de más de 5 años
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+hasta 15 años, búsqueda manual en oficialía
 
-XVI. Certificada o constancia de inexistencia de
+y archivo. 3.5 2.0
 
-actas del estado civil sin datos concretos, período
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-de búsqueda de más de 15 años búsqueda manual
+XVI. Certificada o constancia de inexistencia
 
-en oficialía y archivo. 4.0 3.0
+de actas del estado civil sin datos concretos,
+
+periodo de búsqueda de más de 15 años,
+
+búsqueda manual en oficialía y archivo. 4.0 3.0
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
 
@@ -279,6 +311,32 @@ XX. Inserción de actas del estado civil, adquirido
 
 por mexicanos en el extranjero. 7.0 5.3
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXI. Certificación de resoluciones de registros
+
+extemporáneos de actas del estado civil o
+
+reposición y expedición de constancia de trámite. 2.5 2.5
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXII. Primera certificada de nacimiento por
+
+brigadas. 1.0 0.5
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXIII. Constancia de Inexistencia de Actas
+
+de Nacimiento por Brigadas, búsqueda hasta
+
+por 15 años. 2.5 2.5
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXIV. Matrimonios Colectivos. 7.0 4.0
+
 El registro de nacimiento a menores a 180 días en oficialías esta exceptuado del pago de derechos que establece este artículo, salvo lo establecido en la fracción II, del presente.
 
 #### Sección Segunda. Servicios que Presta la Dirección del Registro Público de la Propiedad y de Comercio
@@ -309,6 +367,14 @@ legal no puedan conservar la propiedad de los
 
 bienes dados en pago o adjudicados. 15.5
 
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008) (F. DE E., P.O. 14 DE ENERO DE 2009)
+
+c) Por cancelación de las inscripciones
+
+ordenadas por la autoridad competente
+
+o por voluntad de las partes. 15.0
+
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
 
 II. Por la inscripción de:
@@ -323,25 +389,29 @@ los que se constituyan servidumbres o
 
 usufructos vitalicios. 8.5
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 III. Por la inscripción de:
 
-a) Contratos u operaciones de crédito o mutuo con
+a) Contratos y operaciones de crédito o mutuo con garantía hipotecaria o prendaria, así como los que se destinen al financiamiento de la producción agrícola, pagarán derechos, conforme a lo siguiente:
 
-garantía hipotecaria o prendaria. 20.5
+1. Cuando el monto del crédito sea para la
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2008)</small>
+adquisición de una vivienda de interés social. 8.5
 
-b) Contratos u operaciones de crédito o
+2. Cuando el valor del crédito es mayor al valor
 
-mutuo con garantía hipotecaria o prendaria
+de una vivienda de interés social y menor a
 
-y de cobertura que se destinen al
+cuatro veces el valor de la vivienda de interés
 
-financiamiento de la vivienda de interés
+social. 20.5
 
-social o al financiamiento de la producción
+3. Cuando el valor del crédito sea mayor a
 
-agrícola. 8.5
+cuatro veces el valor de la vivienda de interés
+
+social, pagarán conforme a la siguiente tarifa. 25.0
 
 IV. Por la inscripción de los convenios que modifiquen
 
@@ -378,6 +448,12 @@ de este artículo. 9.5
 IX. Por la inscripción preventiva de embargos sobre
 
 bienes inmuebles. 15.5
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+a) Por inscripción de embargo derivado de
+
+juicio de alimentos. 2.5
 
 X. Por inscripción o cancelación de cédulas
 
@@ -565,9 +641,15 @@ de arrendamiento o de comodato. 15.0
 
 Si en un mismo documento se consignan diversos actos o contratos registrables, se cobrarán derechos por la inscripción de cada uno de ellos, con base en lo establecido en las fracciones anteriores.
 
-XXIX. Por la devolución de documentos a solicitud
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-del interesado. 7.0
+Por cancelación de contratos de arrendamiento
+
+o de comodatos. 6.5
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXIX. Por inscripción de testamento. 6.5
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2008)</small>
 
@@ -645,9 +727,11 @@ dependencia, hasta 20 hojas. 2.5
 
 Por hoja adicional se cobrará $ 5.00.
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 IV. Certificado o constancia de no propiedad
 
-registrada. 10.5
+registrada. 6.5
 
 V. Certificado de no inscripción de un bien inmueble. 15.0
 
@@ -679,7 +763,11 @@ XI. Por verificación de datos regístrales por libro o
 
 XII. Por ratificación de firmas ante el registrador. 10.0
 
-XIII. Por los depósitos de testamentos ológrafos. 5.5
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XIII. Por búsqueda de bienes a nombre de
+
+personas. 6.5
 
 ###### Artículo 15.
 
@@ -725,9 +813,11 @@ o cerrado en la modalidad de ordinarios, especiales
 
 y libro de registros de cotejos. 3.0
 
-VII. Registro de sello, firma rubrica de Notarios
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-Públicos Adjuntos o Jueces de receptoría. 4.0
+VII. Registro de sello, firma, rúbrica de Notarios
+
+Públicos Adjuntos o Sustitutos. 6.0
 
 VIII. Por autorización de permisos especiales a
 
@@ -761,17 +851,51 @@ del Estado, hasta 20 hojas. 6.5
 
 Por cada hoja adicional $5.00.
 
-#### Sección Cuarta. Servicios que Presta la Dirección de Asuntos Jurídicos
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-### Capítulo II. Derechos por Servicios que Presta la Secretaría de Finanzas
+XIII. Búsqueda de escrituras asentadas en
 
-#### Sección Quinta. Otros Servicios que Presta la Secretaría de Gobierno
+protocolos notariales que están bajo resguardo
+
+del Archivo de Notarias. 7.0
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XIV. Razón de aclaración de datos en testimonio
+
+de protocolos que se encuentran bajo resguardo
+
+de la Dirección. 6.5
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XV. Constancias de prácticas notariales de vigencia
+
+en el ejercicio de la función notarial o de no
+
+haber sido cesado o suspendido de la misma. 10.5
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XVI. Constancias de disposiciones testamentarias. 6.5
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+#### Sección Primera. Derechos por Servicios que Presta la Dirección de Asuntos Jurídicos
+
+### Capítulo II. Derechos por Servicios que Presta la Secretaría General de Gobierno
+
+> <small>(REFORMADA Y REUBICADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+#### Sección Segunda. Derechos por otros Servicios que Presta la Secretaría General de Gobierno
 
 ###### Artículo 17.
 
 Los derechos por los servicios que presta la Dirección de Asuntos Jurídicos, se pagarán de la siguiente forma:
 
 Servicio Tarifa
+
+S.M.D.V.E.
 
 I. Publicaciones de edictos, anuncios de terrenos,
 
@@ -787,17 +911,17 @@ pagarán. $ 1.0
 
 II. Publicación de estados financieros por página. 7.5 S.M.D.V.E.
 
-III. Expedición de copias certificadas del Periódico
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-Oficial del Estado, sin considerar antigüedad hasta
+III. Expedición de copias certificadas del
 
-20 hojas. 6.5 S.M.D.V. E.
-
-Por hoja adicional se cobrará $5.00.
+Periódico Oficial, sin considerar antigüedad. 6.5
 
 Quedan exceptuados del pago de derechos por publicaciones, las dependencias y órganos desconcentrados de la administración pública centralizada.
 
-#### Sección Primera. Servicios que Presta la Dirección de Ingresos
+> <small>(REFORMADA Y REUBICADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+#### Sección Primera. Derechos por los Servicios que Presta la Dirección de Ingresos
 
 ###### Artículo 18.
 
@@ -815,9 +939,75 @@ II. Apostillado de documentos públicos estatales que
 
 deben surtir efectos en el extranjero. 15.0
 
-### Capítulo III. Derechos por Servicios que Presta la Secretaría de Administración
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-#### Sección Segunda. Servicios de Control Vehicular, que Prestan las Áreas de Recaudación de Ingresos
+### Capítulo III. Derechos por Los Servicios que Presta la Secretaría de Hacienda
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Artículo 18 A.- Los servicios que presta la Secretaría de Hacienda, se causarán y pagarán los derechos por cada uno de los conceptos o servicios de la siguiente forma:
+
+Servicio Tarifa
+
+S.M.D.V.E.
+
+I. Por la expedición de constancia de no
+
+adeudos fiscales. 3.0
+
+II. Por el pago de bases conforme a lo siguiente:
+
+> <small>(F. DE E., P.O. 14 DE ENERO DE 2009)</small>
+
+a. Invitación Abierta. 15.0
+
+b. Licitación Pública Estatal. 25.0
+
+c. Licitación Pública Nacional. 30.0
+
+III. Por acreditación en el Registro Voluntario de
+
+Proveedores, tomando en cuenta lo siguiente:
+
+a. Expedición de la credencial para el registro. 15.0
+
+b. Expedición de credenciales adicionales
+
+(cada ejemplar) o reposición. 7.0
+
+> <small>(F. DE E., P.O. 14 DE ENERO DE 2009)</small>
+
+IV. Por búsqueda, cotejo y certificación de
+
+nombramientos de los trabajadores al servicio
+
+del Estado de Chiapas que obren en los
+
+archivos de la Secretaría. 1.5
+
+V. Búsqueda y expedición de documentos
+
+que acreditan antigüedad laboral. 2.0
+
+VI. Expedición de copias simples de
+
+documentos que integren los
+
+expedientes personales de los servidores
+
+y ex servidores públicos, los cuales se
+
+encuentren bajo el resguardo del Archivo
+
+General de Gobierno del Estado, en
+
+fotostática, hasta 20 hojas. 6.5
+
+Por hoja adicional se pagará $ 5.00.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+#### Sección Segunda. Derechos por los Servicios de Control Vehicular, que Prestan las Áreas de Recaudación de Ingresos
 
 ###### Artículo 19.
 
@@ -901,7 +1091,43 @@ garantía prendaría, a través de las llamadas casas
 
 de empeño. 10.0
 
-#### Sección Tercera. Servicios que Presta la Dirección de Catastro Urbano y Rural
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+IX. Por la verificación ante Dependencias u
+
+Organismos de la Federación y/o Entidades
+
+Federativas, de documentos con los que se
+
+acreditan la legal estancia de vehículos
+
+extranjeros en el país. 2.0
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+X. Por la verificación en base de datos de
+
+documentos que acrediten la legal estancia de
+
+vehículos extranjeros en el país. 1.5
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XI. Expedición de constancias que acreditan
+
+que los documentos que amparan la legal
+
+estancia de vehículos de procedencia
+
+extranjera, se encuentran en proceso de
+
+verificación. 3.0
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+#### Sección Tercera. Derechos por Los Servicios que Presta La Dirección de Catastro Urbano y Rural
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 20.
 
@@ -975,11 +1201,15 @@ amparan la propiedad de vehículos extranjeros
 
 en el país, contra los que se presentan físicamente. 4.0
 
-#### Sección Cuarta. Servicios que Presta la Dirección de Cobranza y Procedimientos Tributarios
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+#### Sección Cuarta. Derechos por los Servicios que Presta la Dirección de Cobranza
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 21.
 
-Las personas físicas o morales que constituyan fraccionamientos o régimen de propiedad en condominio, pagarán derechos por registro y expedición de cédula catastral, por cada lote de área vendible de fraccionamiento o unidad de propiedad en condominio, en la forma siguiente:
+Las personas físicas o morales que constituyan fraccionamientos, Régimen de Propiedad en condominio o predios resultantes de la regularización de la tenencia de la tierra, pagarán derechos por registro y expedición de cédula catastral, por cada lote de área vendible de fraccionamiento o unidad de propiedad en condominio o regularización, en la forma siguiente:
 
 Clasificación Tarifa
 
@@ -1000,6 +1230,14 @@ e industriales de tipo selectivo. 8.0
 III. Habitacionales urbanos de primera, horizontal
 
 y vertical tipo residencial. 14.0
+
+> <small>(F. DE E., P.O. 7 DE ENERO DE 2009)</small>
+
+IV. Colonias, barrios o asentamientos humanos
+
+regularizados por los municipios o las
+
+dependencias facultadas. 2.0
 
 ###### Artículo 22.
 
@@ -1033,43 +1271,55 @@ i) De $5,000,001 en adelante. 80.0
 
 II. Expedición de cédula catastral, por predio:
 
-a) Tratándose de predios de interés social y de
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-colonias populares en proceso de regularización
+a) Tratándose de predios de interés social o
 
-de la tenencia de la tierra. 2.0
+predios resultantes de la regularización de la
+
+tenencia de la tierra. 2.0
 
 b) En los demás casos. 3.0
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008) (F. DE E., P.O. 14 DE ENERO DE 2009)
 
-III. Por la verificación de avalúo efectuados
+III. Por la verificación de avalúos efectuados por peritos autorizados por la Secretaría de Hacienda; de conformidad con el valor del inmueble objeto del avalúo, de acuerdo a lo siguiente:
 
-por peritos autorizados por la Secretaría de
+a) De $00.001.00 hasta $100,000 4.0
 
-Finanzas, de conformidad con el valor del
+b) De $100,001 hasta $200,000 8.0
 
-inmueble objeto del avalúo, de acuerdo a lo
+c) De $200,001 hasta $300,000 12.0
 
-siguiente:
+d) De $300,001 hasta $400,000 16.0
 
-a) De $00.001.00 hasta $100.000.00 5.0
+e) De $400,001 hasta $500,000 20.0
 
-b) De $101.000.00 hasta $250.000.00 15.0
+f) De $500,001 hasta $ 600,000 24.0
 
-c) De $251.000.00 hasta $500.000.00 20.0
+g) De $600,001 hasta $800,000 32.0
 
-d) De $501.000.00 hasta $1,000.000.00 25.0
+h) De $800,001 hasta $1'000,000 40.0
 
-e) De $1,001,000.00 en adelante 30.0
+i) De $1'000,001 hasta $1'500,000 60.0
 
-El pago de este derecho deberá ser enterado
+j) De $1'500,001 hasta $2'000,000 80.0
 
-antes de la presentación del avalúo ante las
+k) De $2'000,001 hasta $2'500,000 101.0
 
-autoridades catastrales. En ningún caso el
+l) De $2'500,001 hasta $3'000,000 121.0
 
-importe a pagar, podrá ser inferior a: 4.0
+m) De $3'000,001 hasta $3'500,000 141.0
+
+n) De $3'500,001 hasta $4'000,000 161.0
+
+o) De $4,000,001 hasta $5'000,000 202.0
+
+p) De $5'000,001 hasta $10'000,000 242.0
+
+q) De $10'000,001 en adelante. 500.0
+
+El pago de este derecho deberá ser enterado antes de la presentación del avalúo ante las autoridades catastrales.
 
 IV. Expedición de constancias y reportes catastrales, por predio:
 
@@ -1077,13 +1327,17 @@ a) De medidas y colindancias. 5.0
 
 b) De registro de datos catastrales. 3.0
 
-c) De reporte catastral generado por el sistema de
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-gestión catastral. 3.0
+c) De reporte catastral generado por el sistema
+
+de gestión catastral. 2.0
 
 V. Búsquedas catastrales, por predio:
 
-a) Por búsqueda en el sistema de gestión catastral. 2.0
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008) (F. DE E., P.O. 14 DE ENERO DE 2009)
+
+a) Por la búsqueda en el sistema de gestión catastral. 3.0
 
 b) Por búsqueda de documentos, que sean
 
@@ -1097,7 +1351,9 @@ con los que se registró catastralmente un predio,
 
 por cada predio, en fotostática, hasta 20 hojas. 2.5
 
-Por hoja adicional se cobrarán $5.00.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Por hoja adicional se cobrarán $3.00
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE FEBRERO DE 2008)</small>
 
@@ -1145,13 +1401,21 @@ X. Levantamiento con equipo topográfico y elaboración de planos correspondient
 
 a) Hasta una hectárea. 15.0
 
-b) Mayor de una hasta cinco hectáreas. 27.0
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-c) Mayor de cinco hasta diez hectáreas. 38.0
+b) Mayor de una hasta cinco hectáreas. 30.0
 
-d) De diez hasta veinte hectáreas. 50.0
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-e) De veinte hasta cuarenta hectáreas. 100.0
+c) Mayor de cinco hasta diez hectáreas. 40.0
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+d) Mayor de diez hasta veinte hectáreas. 60.0
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+e) Mayor de veinte hasta cuarenta hectáreas. 100.0
 
 f) Mayor de cuarenta, se cobrará por hectárea o
 
@@ -1163,15 +1427,21 @@ Los gastos de traslado y estancia del personal corren a cargo del solicitante de
 
 XI. Deslinde catastral y elaboración de planos correspondientes:
 
-a) Hasta una hectárea. 23.0
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+a) Hasta una hectárea. 30.0
 
 b) Mayor de una hasta cinco hectáreas. 40.0
 
-c) Mayor de cinco hasta diez hectáreas. 57.0
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+c) Mayor de cinco hasta diez hectáreas. 60.0
 
 d) Mayor de diez hasta veinte hectáreas. 75.0
 
-e) De veinte hasta cuarenta hectáreas. 150.0
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+e) Mayor de veinte hasta cuarenta hectáreas. 150.0
 
 f) Mayor de cuarenta, se cobrará por hectárea o
 
@@ -1211,9 +1481,11 @@ subdivisión de un predio y expedición de cédula
 
 catastral. 6.0
 
-XVI. Por registro y expedición de cedula
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-catastral de predios de localidades regularizadas. 3.0
+XVI. Por registro y expedición de cédula catastral
+
+de predios con estudio técnico. 3.0
 
 XVII. Captura gráfica digital en 2d de información
 
@@ -1265,25 +1537,41 @@ a) Local. 20.0
 
 b) Foráneo. 56.0
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 XXII. Escaneo fotogramétrico (resolución 25 Mb,
 
-archivo de 80 Mb, quemado en CD): fotografía. 7.0
+archivo de 80 Mb, quemado en CD): fotografía. 8.0
 
-XXIII. Armado de modelos, orientación absoluta y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-relativa, restitución, conversión de archivos 3d-2d,
+XXIII. Armado de modelos, orientación absoluta
 
-claves de niveles y limpieza topológica por modelo
+y relativa, restitución, conversión de archivos
 
-(2 Km2). 154.0
+3d, 2d, claves de niveles y limpieza topológica
 
-XXIV. Orthofoto digital impresa en papel por metro lineal:
+por modelo (2 Km2).
+
+202.0
+
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008) (F. DE E., P.O. 14 DE ENERO DE 2009)
+
+XXIV. Orthofoto digital impresa en papel por
+
+metro lineal:
 
 a) Bond. 12.0
 
 b) Vegetal. 17.0
 
 c) Fotográfico (escala 1:1000). 23.0
+
+d) Bond 21.0
+
+e) Vegetal 22.0
+
+f) Fotográfico (escala 1:1000). 26.0
 
 XXV. Por impresión de padrones o fichas de
 
@@ -1296,6 +1584,16 @@ magnéticos o impresos, siempre y cuando sea
 mayor de cinco predios, por registro, a solicitud
 
 de personas físicas o morales. 0.5
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXVI. Dictamen de Avalúo Catastral. 10.0
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XXVII. Modelo Digital de elevación y terreno de
+
+formato digital (1 Km2) 23.0
 
 ###### Artículo 23.
 
@@ -1317,11 +1615,13 @@ IV. Aplicación de examen a aspirantes a perito
 
 valuador. 8.0
 
-#### Sección Quinta. Servicios que Presta la Dirección de Auditoría Fiscal
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+#### Sección Quinta. Derechos por los Servicios que presta la Dirección de Auditoría Fiscal
 
 ###### Artículo 24.
 
-Los Servicios que presta la Dirección de Cobranza y Procedimientos Tributarios, causarán y pagarán los derechos por cada uno de los conceptos o servicios de la siguiente forma:
+Los servicios que presta la Dirección de Cobranza, causarán y pagarán los derechos por cada uno de los conceptos o servicios de la siguiente forma:
 
 Servicio Tarifa
 
@@ -1349,23 +1649,9 @@ competencia de esta Dirección y que obren en
 
 sus archivos. 1.5
 
-IV. Por la verificación ante dependencias u
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-organismos de la federación y/o entidades
-
-federativas, los documentos con los que se
-
-acreditan la legal estancia de vehículos
-
-extranjeros en el país. 2.0
-
-V. Por la verificación en base de datos de
-
-documentos que acreditan la legal estancia de
-
-vehículos extranjeros en el país. 1.5
-
-VI. Por el almacenaje de bienes muebles
+IV. Por el almacenaje de bienes muebles
 
 secuestrados y liberados en la vía del
 
@@ -1377,7 +1663,15 @@ Código de la Hacienda Pública para el Estado
 
 de Chiapas, por día. 0.3
 
-#### Sección Sexta. Servicios que Presta la Dirección de Coordinación Hacendaria
+V. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008) (F. DE E., P.O. 14 DE ENERO DE 2009)
+
+VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008) (F. DE E., P.O. 14 DE ENERO DE 2009)
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+#### Sección Sexta. Derechos por los Servicios que Presta la Unidad de Coordinación Hacendaria
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 25.
 
@@ -1423,113 +1717,97 @@ con interés y garantía prendaría, a través de las
 
 llamadas casas de empeño. 15.0
 
-#### Sección Primera
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+#### Sección Séptima. Derechos por los Servicios que Presta la Dirección de Remuneraciones y Retenciones
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 26.
 
-Los servicios que presta la Dirección de Coordinación Hacendaria, causarán y pagarán los derechos por cada uno de los conceptos o servicios de la siguiente forma:
+Los servicios que presta la Unidad de Coordinación Hacendaria, causarán y pagarán los servicios por cada uno de los conceptos o servicios de la siguiente forma:
 
-Servicio Tarifa
+Clasificación Tarifa
 
 S.M.D.V.E.
 
-I. Por la expedición de constancias de no adeudo. 3.0
+I. Por expedición de copias certificadas de
 
-II. Por la expedición de copias certificadas de
+documentos existentes en los archivos de la
 
-documentos existentes en los archivo de la
+Unidad, hasta 20 hojas. 6.5
 
-Dirección, hasta 20 hojas. 6.5
+Por hoja adicional se cobrara $5.00.
 
-Por hoja adicional se cobrará $5.00.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-#### Sección Segunda. Servicios que Prestan los Subcomités de Adquisiciones
+#### Sección Primera. Derechos por Servicios que Presta La Dirección de Sanidad
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 27.
 
-Los derechos por los servicios que presta la Secretaría de Administración, por conducto del Comité de Adquisiciones, Arrendamientos y Servicios de Bienes Muebles, causarán de la siguiente forma por cada uno de los conceptos o servicios:
+Los derechos por los servicios que presta la Dirección de Remuneraciones y Retenciones, causarán y pagarán los derechos siguientes:
 
 Servicio Tarifa
 
 S.M.D.V.E.
 
-I. Por el pago de bases conforme a lo siguiente:
-
-a) Invitación Abierta. 15.0
-
-b) Licitación Pública Estatal. 25.0
-
-c) Licitación Pública Nacional. 30.0
-
-II. Por el registro en el padrón de proveedores, tomando en cuenta lo siguiente:
-
-a) Expedición de la credencial para el registro
-
-en el padrón de proveedores. 15.0
-
-b) Expedición de credenciales adicionales (cada
-
-ejemplar por representante legal adicional), por
-
-modificación o reposición. 7.0
+I. Por la expedición de constancias de sueldo. 1.5
 
 ###### Artículo 28.
 
-Los derechos por los servicios que presta los Subcomités de Adquisiciones, Arrendamientos y Servicios de Bienes Muebles, causarán de la siguiente forma por cada uno de los conceptos o servicios:
-
-Servicio Tarifa
-
-S.M.D.V.E.
-
-I. Por el pago de bases conforme a lo siguiente:
-
-a) Invitación Abierta. 10.0
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 
 ### Capítulo IV. Derechos por Servicios que Presta la Secretaría del Campo
 
-#### Sección Primera. Servicios que Presta la Dirección de Sanidad
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2008)</small>
+#### Sección Primera. Derechos por Servicios que Presta la Dirección de La Policía Auxiliar y de servicios Privados de Seguridad
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 29.
 
-Las Uniones y Asociaciones Ganaderas pagarán los derechos por los servicios que presta la Secretaría del Campo, a través de la Dirección de Sanidad, los cuales se causarán por cada uno e los conceptos o servicios de la forma siguiente:
+Los Ayuntamientos, las Uniones y Asociaciones Ganaderas, así como el Comité de Fomento y Protección Pecuaria, pagarán por los servicios que presta la Secretaría del Campo, a través de la Dirección de Sanidad Pecuaria, los cuales se causarán por cada uno de los conceptos o servicios de la forma siguiente:
 
 Servicio Pesos
 
-I. Por la expedición de guías de tránsito
+I. Por la expedición de la guía de tránsito para
 
-para la movilización de semovientes,
+la movilización de semovientes, para repasto,
 
-productos y subproductos para
+abasto y comercialización, así como de los
 
-comercialización, se pagará: $ 5.00
-
-II. Por la expedición de guías de tránsito
-
-para la movilización de semovientes, se
-
-pagará: $ 5.00
+productos y subproductos de origen animal. $ 5.00
 
 Servicio Tarifa
 
 S.M.D.V.E.
 
-III. Por la acreditación de:
+II. Por la acreditación de:
 
 a) Oficial de Inspectoría Pecuaria. 8.0
 
-b) Oficialía de Inspección Pecuaria en
+b) Oficial de Inspectoría Pecuaria en Centros
 
-Centros de Sacrificios. 8.0
+de Sacrificios. 8.0
 
 c) Inspectores Pecuarios. 8.0
 
+III. Por la autorización de un juego de libros de
+
+registro de fierros, marcas, tatuajes o aretes
+
+que conste de original, duplicado y triplicado. 6.0
+
 ### Capítulo V. Derechos por Servicios que Presta la Secretaría de Seguridad y Protección Ciudadana
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 30.
 
-Los derechos por servicios que presta la Dirección de Policía Auxiliar y Servicios Privados de Seguridad, pagarán de la siguiente forma por cada uno de los conceptos o servicios:
+Los derechos por servicios que presta la Dirección de Policía Auxiliar y de Servicios Privados de Seguridad, se causarán por cada uno de los conceptos de la siguiente forma:
 
 Servicio Tarifa
 
@@ -1537,19 +1815,19 @@ S.M.D.V.E.
 
 I. Servicio armado por elemento de 12 horas,
 
-de lunes a sábado, por mes. 146.0
+de lunes a sábado, por mes. 156.0
 
-II. Servicio armado por elemento de 12 horas,
+II. Servicio armado por elementos de 12 horas,
 
-de lunes a domingo, por mes. 165.0
+De lunes a domingo, por mes. 175.0
 
-III. Servicio desarmado por elemento de 12 horas,
+III. Servicio desarmado por elemento de 12
 
-de lunes a sábado por mes. 132.0
+horas, de lunes a sábado por mes. 142.0
 
-IV. Servicio desarmado por elemento de 12 horas,
+IV. Servicio desarmado por elemento de 12
 
-de lunes a domingo, por mes. 150.0
+horas, de lunes a domingo, por mes. 160.0
 
 V. Servicio armado a instituciones de banca
 
@@ -1557,45 +1835,105 @@ múltiple y similares, con manejo de efectivo,
 
 por elemento de 12 horas, de lunes a sábado,
 
-por mes. 206.0
+por mes. 235.0
 
 VI. Servicio armado a instituciones de banca
 
-múltiple y similares, con manejo de efectivo, por
+múltiple y similares, con manejo de efectivo,
 
-elemento de 24 horas, de lunes a sábado, por mes. 442.0
+por elemento de 24 horas, de lunes a sábado,
 
-VII. Servicio extraordinario armado o desarmado
+por mes. 260.0
 
-por elemento de 12 horas. 15.0
+VII. Servicio extraordinario armado o
 
-VIII. Servicio de 6 rondines en turno de 12 horas,
+desarmado por elemento de 12 horas. 20.0
 
-con patrulla. 15.0
+VIII. Servicio de 6 rondines en turno de
 
-IX. Servicio de patrulla establecida, en turno de
+12 horas, con patrulla. 20.0
 
-12 horas. 38.0
+IX. Servicio de patrulla establecida, en turno
 
-X. Revalidación de la autorización para la
+de 12 horas. 45.0
 
-prestación de servicios de Seguridad Privada. 38.0
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XI. Trámite y expedición de la autorización para
+Artículo 30 A.- Los derechos por servicios que presta la Dirección de Policía Auxiliar y de Servicios Privados de Seguridad, por seguridad privada que realicen los particulares en el Estado, se causarán por cada uno de los conceptos de la siguiente forma:
 
-la prestación de servicios de Seguridad Privada
+Servicio Tarifa
 
-por modalidad. 107.0
+S.M.D.V.E.
 
-XII. Inscripción del personal al Registro del
+I. Estudio y trámite de la autorización para la
 
-Consejo Estatal de Seguridad Pública. 1.0
+prestación de servicios de seguridad privada. 50.0
 
-XIII. Por consulta de antecedentes policiales. 1.0
+II. Inscripción del personal al Registro Nacional
 
-#### Sección Primera. Servicios que Presta la Dirección de la Policía Auxiliar y Servicios Privados de Seguridad
+Del Personal de Seguridad Pública. 1.0
+
+III. Por consulta de antecedentes policiales. 1.0
+
+IV. Por la expedición de la constancia de
+
+aptitud de salud física (examen medico). 1.0
+
+V. Por la expedición de la constancia de
+
+aptitud mental (examen psicológico). 1.0
+
+VI. Por la expedición de la constancia de
+
+curso de capacitación aplicado en el Instituto
+
+de Formación Profesional de Policías del Estado. 10.0
+
+VII. Por la expedición de cada cédula de
+
+identificación del personal, con el registro
+
+asignado en su inscripción. 1.0
+
+VIII. Por la autorización o revalidación para
+
+prestar el servicio en la modalidad de vigilancia
+
+y custodia de lugares o establecimientos y en
+
+general de toda clase de inmuebles. 100.0
+
+IX. Por la autorización o revalidación para
+
+prestar el servicio en la modalidad de la
+
+protección, vigilancia o custodia de personas. 100.0
+
+X. Por la autorización o revalidación para
+
+prestar el servicio en la modalidad de la
+
+custodia de bienes muebles y valores. 100.0
+
+XI. Por la autorización o revalidación para
+
+prestar el servicio en la modalidad de el
+
+establecimiento y operación de sistemas y
+
+equipos de seguridad. 100.0
+
+XII. Por la autorización o revalidación para
+
+prestar los servicios en las demás actividades
+
+que se relacionen directamente con servicios
+
+de seguridad privada. 100.0
 
 #### Sección Segunda. Servicios que Presta la Dirección de Tránsito
+
+#### Sección Tercera. Servicios que Presta la Dirección de Coordinación Municipal y Concertación Sectorial
 
 ###### Artículo 31.
 
@@ -1727,7 +2065,47 @@ XIV. Por impartición de cursos de manejo por
 
 XV. Por reposición de licencia por pérdida o extravío. 3.0
 
-#### Sección Tercera. Servicios que Presta la Dirección de Coordinación Municipal y Concertación Sectorial
+#### Sección Cuarta. Servicios que Presta la Dirección de Promoción a La Cultura
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Artículo 32 A.- Por los servicios que presta la Dirección de Promoción a la Cultura, se causarán conforme a lo siguiente:
+
+Servicio Tarifa
+
+S.M.D.V.E.
+
+I. Asesorías a las empresas, instituciones,
+
+organismos y asociaciones privadas y del
+
+sector social, para integrar sus unidades
+
+internas de protección civil (ocho horas). 20.0
+
+II. Cursos de capacitación en materia de protección civil.
+
+a) Introducción a la protección civil. 15.0
+
+b) Prevención y combate de incendios. 25.0
+
+c) Integración de unidades internas de protección
+
+civil. 20.0
+
+d) Formación de brigadas. 15.0
+
+e) Análisis de riesgo. 25.0
+
+f) Plan familiar. 15.0
+
+g) Administración de refugios temporales. 25.0
+
+h) Señalización. 15.0
+
+i) Teoría del simulacro. 25.0
+
+j) Primeros auxilios. 25.0
 
 ###### Artículo 32.
 
@@ -1741,193 +2119,133 @@ I. Por la emisión de dictamen de evaluación de
 
 riesgos. 25.0
 
+(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008) (F. DE E., P.O. 14 DE ENERO DE 2009)
+
+II. Registro de asesoría y capacitación en
+
+material de protección civil. 150.0
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 #### Sección Primera. Servicios que Presta la Dirección de Concesiones y Autorizaciones
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO DEL DECRETO NO. 153, PUBLICADO EN EL P.O. DE 20 DE FEBRERO DE 2008, LA ESTRUCTURA DEL PRESENTE ARTICULO HA SIDO MODIFICADA, QUEDANDO INTEGRADO POR TREINTA Y OCHO FRACCIONES.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-### Capítulo VI. Derechos por Servicios que Presta la Secretaría de Transportes
+#### Sección Tercera. Derechos por Servicios que Presta la Dirección de Capacitación al Sector
 
-###### Artículo 33.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-La expedición de permisos, autorizaciones y concesiones al transporte público, así como por el refrendo anual de ruta o zona, copias de documentos, constancias simples, cerificados de aptitud e integración de expedientes para el transporte público causarán por cada uno de los conceptos o servicios los siguientes derechos:
+Artículo 33 B.- Por los servicios que presta la Dirección de Capacitación al Sector, causarán por cada uno de los conceptos los siguientes derechos:
 
 Servicio Tarifa
 
 S.M.D.V.E.
 
-I. Por la expedición de copias simples de
+I. Por expedición del certificado de aptitud de
 
-documentos de archivos, excepto de copia
+operador de transporte público. 2.0
 
-de concesiones, permisos o autorizaciones,
+II. Por la reposición del certificado de aptitud de
 
-hasta 20 hojas. 2.5
+operador del transporte público. 3.0
 
-Por hoja adicional se pagará $2.00.
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-II. Por constancia simple para determinar las
+### Capítulo VI. Derechos por Servicios que Presta la Secretaría de Transportes
 
-condiciones de seguridad y de comodidad en la
+#### Sección Segunda. Servicios que Presta la Dirección del Registro y Control del Transporte
 
-modalidad de moto taxis (revisión mecánica). 1.5
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+Artículo 33 A.- Por los servicios que presta la Dirección de Registro y Control del Transporte Público, causarán por cada uno de los conceptos los siguientes derechos:
 
-III. Por constancia pericial para determinar las
+Servicio Tarifa
 
-condiciones de seguridad y de comodidad de
+S.M.D.V.E.
 
-mototaxis (revisión mecánica). 1.5
+I. Por constancia para determinar las condiciones
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+de seguridad, comodidad y uniforme de los
 
-IV. Por la expedición de constancias de concesión
+vehículos automotores destinados a la
 
-y holograma (provisional y/o definitivo). 3.5
+prestación del servicio público de transporte
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+en sus distintas modalidades. 5.0
 
-V. Por constancia para determinar las condiciones
-
-de seguridad y de comodidad de los vehículos
-
-automotores del servicio público en sus
-
-modalidades de pasaje (revisión mecánica) o
-
-por reexpedición de tarjetón de identificación
-
-para conductores de transporte público. 5.0
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
-
-VI. Por la expedición de constancias de no
+II. Por la expedición de constancias de no
 
 infracción. 5.0
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
-
-VII. Por expedición de tarjetón de tarifas oficiales
-
-para el cobro de pasaje; por la reposición o
-
-revalidación del certificado de aptitud de operador
-
-de transporte público. 3.0
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
-
-VIII. Por certificación de documentos, excepto de
-
-concesiones, autorizaciones o permisos hasta
-
-20 hojas. 6.5
-
-Por hoja adicional se pagará $ 5.00.
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
-
-IX. Por expedición de permisos de zona para el
+III. Por expedición de permisos de zona para el
 
 transporte público de carga; en las modalidades
 
-de vehículos cerrados para el transporte de carga
+de vehículos cerrados para el transporte de
 
-exprés y de servicio mixto de carga y pasaje con
+carga exprés y de servicio mixto de carga y
 
-capacidad de hasta 3 toneladas. 12.0
+pasaje con capacidad de hasta tres toneladas. 12.0
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+IV. Por el refrendo anual de permisos de zona
 
-X. Por el refrendo anual de permisos de zona para
+para el transporte público de carga; en las
 
-el transporte público de carga; en las modalidades
+modalidades de vehículos cerrados para el
 
-de vehículos cerrados para el transporte de carga
+transporte de carga exprés y de servicio mixto
 
-exprés y, de servicio mixto de carga y pasaje con
+de carga y pasaje con capacidad de hasta tres
 
-capacidad de hasta 3 toneladas. 6.0
+toneladas. 6.0
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
-
-XI. Por la expedición de permiso temporal de
+V. Por la expedición de permiso temporal de
 
 sustitución de vehículos del servicio público de
 
 pasaje y carga por 30 días. 9.0
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
-
-XII. Por expedición de certificado de aptitud de
-
-operador de transporte público. 10.0
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
-
-XIII. Por expedición de permisos de zona en las
-
-modalidades de bajo tonelaje; acarreo de materiales
-
-para la construcción a granel. 16.0
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
-
-XIV. Por refrendo anual de permisos de zona en
+VI. Por la expedición de permiso de zona en
 
 las modalidades de bajo tonelaje; acarreo de
 
-materiales para la construcción a granel; previa
+materiales para la construcción agranel (sic). 16.0
+
+VII. Por expedición de certificado de aptitud de
+
+operador de transporte público. 2.0
+
+VIII. Por refrendo anual de permisos de zona en
+
+las modalidades de bajo tonelaje; acarreo de
+
+materiales para la construcción agranel (sic); previa
 
 presentación en el módulo de pago, del recibo
 
-de cobro anterior por concepto de expedición de
+de cobro anterior por concepto de expedición
 
-permiso de zona. 8.0
+de permiso de zona. 8.0
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+IX. Por expedición de permisos para la
 
-XV. Por expedición de autorizaciones o permisos
-
-para la explotación del servicio de transporte, en las
+explotación del servicio de transporte, en las
 
 modalidades de bicicletas, triciclos y motocicletas. 8.0
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+X. Expedición del permiso de ruta o zona para
 
-XVI. Expedición de títulos de concesión para el
+las modalidades de transporte de pasajeros en
 
-servicio de transporte público de vehículos cerrados
+servicio urbano y foráneo realizados en colectivo
 
-de carga exprés; servicio mixto de carga y pasaje
+ordinario tipo vagoneta (modalidad combi);
 
-con capacidad de hasta 3 toneladas. 17.0
+automóviles de alquiler taxis, autobuses y
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+minibuses urbanos o foráneos. 30.0
 
-XVII. Expedición de títulos de concesión para el
-
-servicio del transporte público en las modalidades
-
-de bajo tonelaje y volteos. 23.0
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
-
-XVIII. Expedición del permiso de ruta o zona para
-
-las modalidades de transporte de pasajeros
-
-en servicio urbano y foráneo realizados en
-
-colectivo ordinario tipo vagoneta (modalidad
-
-combi); automóviles de alquiler taxis, autobuses
-
-y minibuses urbanos o foráneos. 30.0
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
-
-XIX. Refrendo anual del permiso de ruta o zona
+XI. Refrendo anual del permiso de ruta o zona
 
 para las modalidades de transporte de pasajeros
 
@@ -1935,23 +2253,19 @@ en servicio urbano y foráneo realizados en
 
 colectivo ordinario tipo vagoneta (modalidad
 
-combi); automóviles de alquiler taxis, autobuses
+combi); automóviles de alquiler taxi, autobuses
 
 y minibuses urbanos o foráneos. 15.0
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
-
-XX. Expedición del permiso de ruta o zona de
+XII. Expedición del permiso de ruta o zona de
 
 vehículos de carga en general de bajo y alto
 
 tonelaje. 23.0
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+XIII. Refrendo anual del permiso de ruta o zona
 
-XXI. Refrendo anual del permiso de ruta o
-
-zona para las modalidades de transporte de
+para las modalidades de transporte de
 
 pasajeros en servicio urbano y foráneo
 
@@ -1961,175 +2275,185 @@ vanette o van; automóviles de alquiler taxis,
 
 autobuses y microbuses urbanos o foráneos. 11.5
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+XIV. Por la revalidación anual de los permisos
 
-XXII. Por la expedición de las autorizaciones de
+para vehículos de transporte de personal a
 
-vehículos para el transporte de personal a campo
+campo y empresas, transporte especial en
 
-y empresas, transporte especial en las modalidades
+las modalidades de ambulancia, carroza o
 
-de ambulancia, carroza o transporte escolar. 23.0
+transporte escolar. 11.5
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
-
-XXIII. Por la revalidación anual de las
-
-autorizaciones de vehículos para el transporte
-
-de personal a campo y empresas, transporte
-
-especial en las modalidades de ambulancia,
-
-carroza o transporte escolar. 11.5
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
-
-XXIV. Por la expedición de la autorización de
-
-vehículos para el transporte especial en las
-
-modalidades de pipas y centro de aprendizaje
-
-de conducción vehicular. 70.0
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
-
-XXV. Por la expedición de la autorización de
-
-vehículos para el transporte especial en las (sic)
-
-modalidad de grúa. 100.0
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
-
-XXVI. Por la revalidación anual o permisos
+XV. Por la revalidación anual de los permisos
 
 de vehículos para el transporte especial en las
 
-modalidades de pipas, centro de aprendizaje
+modalidades de pipas, centro de aprendizaje de
 
-de conducción vehicular y grúas. 35.0
+conducción vehicular y grúas. 11.5
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
-
-XXVII. Por la expedición de permisos de paso
-
-o penetración para el transporte federal de pasaje. 12.0
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
-
-XXVIII. Por la revalidación anual de permisos de
+XVI. Por la revalidación anual de permisos de
 
 paso o penetración para el transporte federal de
 
 pasaje. 6.0
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+XVII. Revalidación anual del permiso para la
 
-XXIX. Por expedición de título de regularización
+prestación del servicio de transporte especial
 
-de concesiones para cualquier modalidad, por
+de carga y pasaje en bicicletas con remolque,
 
-reposición, cambio de modalidad, estatalización
+triciclos o motocicletas. 6.0
 
-del servicio o por cambio de adscripción. 60.0
+XVIII. Por la autorización de reposición de placas
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+de servicio público de transporte de carga y
 
-XXX. Por la expedición de títulos de concesión
+pasaje en cualquiera de sus modalidades. 100.0
 
-para el servicio del transporte público; urbano
+XIX. Por la autorización de reposición de la tarjeta
 
-y foráneo en las modalidades de autobuses,
+de circulación de servicio público de transporte
+
+de carga y pasaje en cualquiera de sus
+
+modalidades. 20.0
+
+###### Artículo 33.
+
+La expedición de concesiones o permisos, copias de documentos, constancias simples, integración de expedientes para la solicitud de concesión o permiso para el transporte público, causará por cada uno de los conceptos los siguientes derechos:
+
+Servicio Tarifa
+
+S.M.D.V.E.
+
+I. Por la expedición de copias simples de
+
+documentos que obren en archivo, excepto
+
+copia de concesiones, permisos o
+
+autorizaciones, hasta 20 hojas. 2.5
+
+Por hoja adicional se pagará $ 2.00.
+
+II. Por la expedición de constancias de
+
+concesión y/o permiso (provisional y/o
+
+definitivo). 3.5
+
+III. Por certificación de documentos, excepto de
+
+concesiones o permisos hasta 20 hojas. 6.5
+
+Por hoja adicional se pagará $5.00
+
+IV. Expedición de títulos de concesión para el
+
+servicio de transporte público de vehículos
+
+cerrados de carga exprés; servicio mixto de
+
+carga y pasaje con capacidad hasta tres
+
+toneladas. 17.0
+
+V. Expedición de títulos de concesión para el
+
+servicio de transporte público en las
+
+modalidades de bajo tonelaje y volteos. 23.0
+
+VI. Por la expedición de permisos para vehículos
+
+para el transporte de personal a campo y
+
+empresas, transporte especial en las
+
+modalidades de ambulancias, carroza o
+
+transporte escolar. 23.0
+
+VII. Por la expedición de permiso para el
+
+transporte especial en las modalidades de pipas
+
+y centro de aprendizaje de conducción vehicular. 23.0
+
+VIII. Por la expedición de permiso para el
+
+transporte especial en la modalidad de grúa. 100.0
+
+IX. Por la expedición de permiso de paso o
+
+penetración para el transporte federal de carga. 12.0
+
+X. Por expedición de título de regularización
+
+de concesiones para cualquier modalidad,
+
+por reposición, cambio de modalidad,
+
+estatalización del servicio o por cambio de
+
+adscripción. 60.0
+
+XI. Por la expedición de títulos de concesión
+
+para el servicio del transporte público, urbano
+
+y foráneo, en la modalidades de autobuses,
 
 minibuses, colectivo ordinario en unidades tipo
 
-vagoneta (modalidad combi) y automóviles de
+vagoneta (modalidad combi) y automóvil de
 
-alquiler taxis. 60.0
+alquiler (taxi). 60.0
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+XII. Por la expedición de títulos de concesión
 
-XXXI. Por la expedición de títulos de concesión
-
-para el servicio de transporte público de carga
+para el servicio del transporte público de carga
 
 en modalidades de transporte de carga
 
 especializada y alto tonelaje. 55.0
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
-
-XXXII. Revalidación anual del permiso o
-
-autorización para la prestación del servicio
-
-de transporte especial de carga y pasaje en
-
-bicicletas con remolque, triciclos o motocicletas. 6.0
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
-
-XXXIII. Por integración de expediente de
+XIII. Por integración de expediente de
 
 regularización de concesiones en cualquier
 
-modalidad, específicamente por cesión o
+modalidad, específicamente cesión o
 
 transferencia de derechos. 5.0
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+XIV. Por expedición de títulos de regularización
 
-XXXIV. Por expedición de títulos de regularización
+de concesiones en cualquier modalidad, por
 
-de concesiones en cualquier modalidad por
+cesión o transferencia de derechos en sucesión
 
-cesión o transferencia de derechos en
+familiar de acuerdo a lo que marca la Ley de
 
-sucesión familiar de acuerdo a lo que marca
+Transportes del Estado de Chiapas en su
 
-la Ley de Transportes del Estado de Chiapas
+artículo 71, y con los requisitos que marca el
 
-en su artículo 71 y con los requisitos que
+reglamento General de la misma Ley en su
 
-marca el Reglamento General de la misma
+artículo 203. 100.0
 
-Ley en su artículo 203. 100.0
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
-
-XXXV. Por la autorización de reposición de
-
-placas de servicio público de transporte de carga
-
-y pasaje en cualquiera de sus modalidades. 100.0
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
-
-XXXVI. Por la autorización de reposición de la
-
-tarjeta de circulación de servicio público de
-
-transporte de carga y pasaje en cualquiera de
-
-sus modalidades. 20.0
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
-
-XXXVII. Por expedición de constancia del estado
+XV. Por expedición de constancia del estado
 
 que guarda un expediente en el archivo. 1.0
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2008)</small>
+XVI. Por pago de derechos por la integración
 
-XXXVIII. Por pago de derechos por la integración de
+de expediente para solicitar una concesión. 6.0
 
-expediente para solicitar una concesión. 6.0
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-Tratándose de concesiones que favorezcan a más de un vehículo para la prestación del transporte público se pagaran los derechos por cada vehículo que ampare la concesión, en las respectivas modalidades.
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ### Capítulo VII. Derechos por Servicios que Presta la Secretaría de Educación
 
@@ -2169,13 +2493,15 @@ a) Tipos básico, medio superior y superior. 60.0 20.0
 
 b) Capacitación para el trabajo. 55.0 15.0
 
-III. Por solicitud, estudio y resolución para impartir
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-educación preescolar, primaria y secundaria;
+III. Por solicitud de expedición del Acuerdo de
+
+Validez Oficial de Estudios de Tipo Básico;
 
 Reconocimiento de Validez Oficial de Estudios
 
-de tipo medio superior y superior por carrera y
+Tipo Medio Superior y Superior por carrera y
 
 modalidad. 60.0 50.0
 
@@ -2243,6 +2569,8 @@ constancias de terminación de estudios de centros
 
 de capacitación para el trabajo, por formato. 0.50 0.50
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 35.
 
 Por los servicios diversos que proporcione la Secretaría de Educación y Organismos Públicos Descentralizados del Gobierno del Estado que presten servicios educativos, excepto los que tienen el carácter de autónomos por Ley, se pagará por cada uno de los conceptos o servicios conforme a lo siguiente:
@@ -2257,39 +2585,49 @@ Municipal
 
 A B
 
-I. Por búsqueda, cotejo, certificación o emisión de
+I. Por búsqueda, cotejo y certificación de
 
-constancias de documentos de archivo;
+documentos de archivo. 2.5 2.0
 
-legalización; documentos de grado; certificación
+II. Validación de diplomas y constancias. 1.2 1.1
 
-o legalización de actas de examen profesional
+III. Legalización de certificados de estudios de
 
-niveles medio superior y superior. 2.5 2.0
+nivel Medio Superior y Superior en todos los
 
-II. Validación de diplomas y constancias; expedición,
+tipos y modalidades. 1.2 1.1
 
-legalización de certificados de estudios nivel medio
+IV. Equivalencia y/o revalidación de estudios tipo
 
-superior y superior, en todos los tipos de niveles
+básico. 1.2 1.1
 
-y modalidades; equivalencia y/o revalidación de
+V. Legalización de certificados de examen
 
-estudios tipo básico; legalización de certificados
+profesional y examen de regularización de
 
-de examen profesional y examen de regularización
+nivel básico, medio superior y superior. 1.2 1.1
 
-niveles básico, medio superior y superior. 1.2 1.1
+VI. Expedición de certificado de estudios tipo
 
-III. Expedición de resolución de equivalencia y/o
+básico, medio superior, superior y
+
+capacitación para el trabajo. 0.82 0.75
+
+VII. Expedición de duplicados de certificados de
+
+estudios tipo básico, medio superior, superior
+
+y capacitación para el trabajo. 0.82 0.75
+
+VIII. Expedición de resolución de equivalencia y/o
 
 revalidación de estudios tipo medio superior. 5.1 4.7
 
-IV. Expedición de resolución de equivalencia y/o
+IX. Expedición de resolución de equivalencia y/o
 
 revalidación de estudios tipo superior. 18.2 17.8
 
-V. Expedición de certificados de grados,
+X. Expedición de certificados de grado,
 
 legalización de títulos de grado y expedición
 
@@ -2297,45 +2635,49 @@ de acta de examen profesional, tipo medio
 
 superior y superior. 5.1 4.7
 
-VI. Expedición de certificados de estudio tipo
+XI. Elaboración, expedición y registro de título
 
-básico, medio superior, superior y capacitación
+profesional medio superior y superior
 
-para el trabajo. 0.82 0.75
+particulares; gestión para la expedición de
 
-VII. Elaboración, expedición y registro de título
+cédula profesional; visitas de supervisión a
 
-profesional medio superior y superior particulares;
+instalaciones de centros educativos
 
-gestión para la expedición de cédula profesional;
+particulares, centros de capacitación de
 
-visitas de supervisión a instalaciones de centros
-
-educativos particulares, centros de capacitación
-
-de comercio, corte y confección, belleza y niveles
+comercio, corte y confección, belleza y niveles
 
 varios, por cada ciclo escolar. 16.0 16.0
 
-VIII. Elaboración, expedición y registro de títulos
+XII. Elaboración, expedición y registro de títulos
 
-profesionales nivel superior oficiales; certificación
+profesionales nivel superior oficiales;
 
-de título profesional, nivel medio superior y superior. 3.0 2.7
+certificación de título profesional, nivel medio
 
-IX. Visita de supervisión a instalaciones de centros
+superior y superior. 3.0 2.7
 
-educativos particulares tipo básico y medio superior
+XIII. Visita de supervisión a instalaciones de
 
-y centros de capacitación para el trabajo en
+centros educativos particulares tipo básico y
 
-computación, en cada ciclo escolar. 40.0 35.0
+medio superior y centros de capacitación para
 
-### Capítulo VIII. Servicios que Presta La Secretaría de Salud
+el trabajo en computación, en cada ciclo
+
+escolar. 40.0 35.0
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+### Capítulo VIII. Derechos por Servicios que Presta la Secretaría de Salud
+
+(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008) (F. DE E., P.O. 7 DE ENERO DE 2009)
 
 ###### Artículo 36.
 
-Los derechos que se cobren por la expedición de licencias, permisos o autorizaciones para venta de bebidas alcohólicas que autorice la Secretaría de Salud, se sujetarán por cada uno de los conceptos o servicios a la siguiente:
+Los derechos que se cobren por la expedición de licencias, permisos, autorizaciones para venta de bebidas alcohólicas que realice la Autoridad Sanitaria, se sujetarán por cada uno de los conceptos o servicios a lo siguiente:
 
 Servicio Tarifa
 
@@ -2433,11 +2775,15 @@ Los derechos por revalidación de licencias para venta de bebidas alcohólicas d
 
 Los permisos para expender eventualmente bebidas alcohólicas, así como para la autorización de horario extraordinario, deberán pagarse antes de la realización del evento.
 
-El pago de este derecho no sustituye la autorización que deberá dar el comité de control de bebidas alcohólicas, que establece la Ley de Salud del Estado de Chiapas y su reglamento en la materia.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+El pago de este derecho no sustituye la licencia o permiso que deberá expedir la Secretaría de Salud o en su caso el Ayuntamiento, establecida en la Ley de Salud del Estado de Chiapas y su Reglamento en la materia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 39.
 
-Los derechos que se cobren por los servicios que presta la Dirección de Protección Contra Riesgos Sanitarios a los usuarios del sector privado, se sujetarán por cada uno de los conceptos y/o servicios conforme a la siguiente:
+Por los servicios que presta la Autoridad Sanitaria para actividades reguladas por la misma, se pagarán los siguientes derechos:
 
 Servicio Tarifa
 
@@ -2491,17 +2837,103 @@ b) Ponente Estatal. 11.0
 
 c) Ponente Local. 4.0
 
+(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008) (F. DE E., P.O. 14 DE ENERO DE 2009)
+
+X. Visitas de verificación para constatación de
+
+corrección de anomalías. 22.0
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XI. Visitas de verificación para levantamiento
+
+de medidas de seguridad. 15.0
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XII. Visitas de verificación para asesorías y
+
+fomentos de buenas prácticas de higiene y
+
+sanidad en áreas de procesos y/o instalaciones
+
+físico sanitarias. 22.0
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XIII. Verificación para balance de medicamentos
+
+controlados por la Secretaría de Salud,
+
+solicitados por los interesados. 22.0
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XIV. Capacitación en manejo y dispensación de
+
+medicamentos a los operadores de farmacias,
+
+droguerías, boticas y almacenes de
+
+medicamentos. 11.0
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XV. Autorización de inhumación o cremación de
+
+cadáveres, durante las primeras doce horas
+
+posteriores al fallecimiento y después de las
+
+cuarenta y ocho horas de ocurrido éste. 5.0
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XVI. Autorización para exhumación de cadáveres
+
+y restos áridos antes de los plazos señalados en
+
+el artículo 67, del Reglamento de la Ley General
+
+de Salud en materia de control sanitario de la
+
+disposición de órganos, tejidos y cadáveres de
+
+seres humanos para ser reinhumados en el
+
+mismo panteón o en otro. 10.0
+
+No se causará ningún derecho por la
+
+exhumación de cadáveres o restos áridos,
+
+cuando ésta sea ordenada por autoridad judicial
+
+o por el Ministerio Público en un proceso penal.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+XVII. Por autorización para el traslado de un
+
+cadáver o restos áridos exhumados a otra
+
+Entidad Federativa. 10.0
+
 ###### Artículo 40.
 
 Las personas físicas que utilicen los servicios que presta el Instituto de Salud pagarán las cuotas de recuperación por Servicios Médicos Asistenciales, Evaluación Sanitaria, de Diagnóstico y Referencias Epidemiológicas, de acuerdo a los tabuladores autorizados por el Consejo Nacional Médico.
 
 El monto de las cuotas citadas, se determinarán atendiendo a las condiciones socioeconómicas del contribuyente.
 
-### Capítulo IX. Por los Servicios que Presta la Secretaría de Turismo y Proyectos Estratégicos
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+### Capítulo IX. Derechos por los Servicios que Presta la Secretaría de Turismo y Relaciones Internacionales
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 41.
 
-Los servicios que presta la Secretaría de Turismo y Proyectos Estratégicos, se cobrarán de acuerdo a lo siguiente:
+Los servicios que presta la Secretaría de Turismo y Relaciones Internacionales, se cobrarán de acuerdo a lo siguiente:
 
 Servicio Tarifa
 
@@ -2513,11 +2945,15 @@ II. Por la revalidación anual de certificado de
 
 calidad turística. 70.0
 
-### Capítulo X. Derechos por Servicios que Presta la Secretaría de la Contraloría
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+### Capítulo X. Derechos por Servicios que Presta la Secretaría de la Función Pública
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 42.
 
-Los servicios que presta la Secretaría de la Contraloría, causarán los derechos por cada uno de los conceptos o servicios de la siguiente forma:
+Los servicios que presta la Secretaría de la Función Pública, causarán los derechos por cada uno de los conceptos o servicios de la siguiente forma:
 
 Servicio Tarifa
 
@@ -2549,19 +2985,27 @@ ejemplares de la constancia de inscripción en
 
 el registro de contratista (cada ejemplar). 8.0
 
-VII. Por el servicio de vigilancia, inspección y control que las leyes de la materia encomiendan a la Secretaría de la Contraloría, los contratistas que celebren contratos de obra pública con las dependencias y entidades del Gobierno del Estado, pagarán un derecho equivalente al cinco al millar sobre el importe de cada una de las estimaciones de trabajo.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VII. Por el servicio de vigilancia, inspección y control que las leyes de la materia encomiendan a la Secretaría de la Función Pública, los contratistas que celebren contratos de obra pública con las dependencias y entidades del Gobierno del Estado, pagarán un derecho equivalente al cinco al millar sobre el importe de cada una de las estimaciones de trabajo.
 
 Los órganos ejecutores de obras públicas al hacer el pago de las estimaciones de obra, retendrán el importe del derecho al que se refiere el párrafo anterior.
 
 Los recursos que se implican en la ejecución de las obras a que se refiere el párrafo primero de la presente fracción, son aquellos que por su origen se consideren distintos a los federales.
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 VIII. Por expedición de copias certificadas de
 
 documentos que se encuentren en los archivos
 
-de la Secretaría de la Contraloría hasta 20 hojas. 6.5
+de la Secretaría de la Función Pública hasta 20
 
-Por hoja adicional se cobrará $5.00.
+hojas. 6.5
+
+> <small>(F. DE E., P.O. 7 DE ENERO DE 2009)</small>
+
+Por hoja adicional se cobrará $ 5.00.
 
 IX. Por cotejo y devolución de documentos
 
@@ -2569,7 +3013,11 @@ integrados en los procedimientos administrativos
 
 disciplinarios, presentados por los solicitantes. 2.0
 
-### Capítulo XI. Por Servicios que Presta el Instituto de Formación Profesional de Policías del Estado
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+### Capítulo XI. Derechos por Servicios que Presta el Instituto de Formación Profesional de Policías del Estado
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 43.
 
@@ -2579,15 +3027,23 @@ Servicio Tarifa
 
 S.M.D.V.E.
 
-I. Selección de personal. 6.1
+I. Reclutamiento y selección de personal. 6.1
 
-II. Capacitación (externa). 15.3
+II. Capacitación externa (por persona). 15.3
 
-### Capítulo XII. Derechos por Servicios que Presta el Instituto de Historia Natural y Ecología
+III. Expedición de constancias de Capacitación
+
+de Formación Policial. 1.2
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+### Capítulo XII. Derechos por Servicios que Presta la Secretaría de Medio Ambiente y Vivienda
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 44.
 
-Los servicios que presta el Instituto de Historia Natural y Ecología, causarán los derechos por cada uno de los conceptos o servicios de la siguiente forma:
+Los servicios que presta la Secretaría de Medio Ambiente y Vivienda, causarán los derechos por cada uno de los conceptos o servicios de la siguiente forma:
 
 Servicio Tarifa
 
@@ -2637,7 +3093,9 @@ VIII. Evaluación del Manifiesto para Generadores
 
 de Residuos Sólidos No Peligrosos. 15.0
 
-### Capítulo XIII. Por Servicios que Presta el Consejo de Ejecución de Sanciones Penales y Medidas (sic) Seguridad
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+### Capítulo XIII. Derechos por Servicios que Presta el Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad
 
 ###### Artículo 45.
 
@@ -2657,11 +3115,15 @@ I. Por la expedición de constancias de antecedentes
 
 no penales. 4.0 3.0
 
-### Capítulo XIV. Derechos por Servicios que Presta el Ministerio de Justicia del Estado
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+### Capítulo XIV. Derechos por Servicios que Presta la Procuraduría General de Justicia del Estado
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 46.
 
-Los derechos que se cobren por los servicios que preste el Ministerio de Justicia del Estado, se sujetarán a la siguiente:
+Los derechos que se cobren por los servicios que preste la Procuraduría General de Justicia del Estado, se sujetarán a la siguiente:
 
 Servicio Tarifa
 
@@ -2689,65 +3151,53 @@ Nacional y Estatal de Vehículos Robados y
 
 Recuperados. 1.5
 
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ### Capítulo XV. Por los Costos de Reproducción y Gastos de Envío en Materia de Acceso a la Información Pública
 
 ###### Artículo 47.
 
-Para la recuperación de los costos de los materiales utilizados en el proceso de respuesta a las solicitudes de acceso a la información, se procederá conforme a lo previsto en la fracción VI, del artículo 4°, de la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas, por lo que su reproducción correrá a cargo del solicitante, en los siguientes términos:
-
-Tarifa
-
-I. Copia simple, por hoja. $ 01.00
-
-II. Expedición de copia impresa a color, por hoja. $ 10.00
-
-III. Fotografía o impresión de documento, por cada
-
-hoja. $ 05.00
-
-IV. Medios magnéticos, por unidad:
-
-a) Disco compacto (CD o DVD). $ 12.00
-
-b) Disco de 3 1/2. $ 06.00
-
-c) Audio casete. $ 10.00
-
-d) Video casete. $ 32.00
-
-En caso de reproducciones de documentos en copias certificadas, constancias u otros medios distintos a los señalados en este artículo, el pago de los derechos correspondientes en los términos establecidos en esta ley.
-
-Los solicitantes que proporcionen el material en el que sea reproducida la información pública, quedarán exentos del pago previsto en este artículo.
-
-Los gastos de envío se cobrarán conforme a las tarifas vigentes del Servicio Postal Mexicano, publicadas en el Diario Oficial de la Federación.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 
 ### Capítulo XVI. Otros Derechos
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 48.
 
-Los derechos por servicios de ratificación de firmas y certificación de documentos se pagarán por cada uno de los conceptos o servicios conforme a la siguiente:
+Tratándose de los servicios que a continuación se enumeran que sean prestados por los Poderes Judicial, Legislativo, Ejecutivo y Organismos Autónomos, se pagarán derechos conforme a las cuotas que para cada caso, a continuación se señalan:
 
 Servicio Tarifa
 
 S.M.D.V.E.
 
-I. Por ratificación de firmas en documentos
+I. Por certificación de documentos que expidan,
+
+hasta 20 hojas. 6.0
+
+a) Por cada hoja adicional $5.00
+
+II. Compulsa de documentos, por hoja $ 7.00
+
+III. Copias de planos certificados por cada una. 2.0
+
+IV. Legalización de firmas 7.0
+
+V. Por cualquier otra certificación o expedición
+
+de constancias distintas de las señaladas en las
+
+fracciones que anteceden. 4.0
+
+VI. Por ratificación de firmas en documentos
 
 privados ante autoridades estatales. 8.0
 
-II. Por certificación de documentos que expidan
-
-las dependencias de la administración
-
-pública centralizada, organismos descentralizados
-
-u órganos autónomos, hasta 20 hojas. 6.0
-
-a) Por cada hoja adicional $5.00.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 49.
 
-Los interesados que soliciten otros servicios prestados por las dependencias de la administración pública centralizada, organismos descentralizados u órganos autónomos, que no estén comprendidas en los demás conceptos de esta Ley, pagarán una cantidad equivalente a 6.5 S.M.D.V.E.
+Los interesados que soliciten otros servicios prestados por los Poderes Judicial, Legislativo, Ejecutivo y Organismos Autónomos, que no estén comprendidas en los demás conceptos de esta Ley, pagarán una cantidad equivalente a 6.5 S.M.D.V.E.
 
 ## Transitorios
 
@@ -2780,3 +3230,9 @@ Primero.- El presente de Decreto entrará en vigencia al día siguiente de su pu
 Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en la (sic) presente Decreto.
 
 Tercero.- Como consecuencia del contenido de la presente reforma, se suspende el canje de placas en el Estado, en los términos establecidos en el Decreto No. 110, publicado en el Periódico Oficial del Estado No. 071, Tomo III, de fecha 28 de diciembre de 2007.
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+Artículo Primero.- El presente de Decreto entrará en vigor a partir del día uno de enero de dos mil nueve.
+
+Artículo Segundo.- Se abrogan todas las disposiciones que se opongan a lo dispuesto en la presente Ley.
