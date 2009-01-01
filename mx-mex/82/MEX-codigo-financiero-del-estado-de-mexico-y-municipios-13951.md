@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2008-12-18"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,583 +21,259 @@ state: "MEX"
 ---
 # CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO POR EL QUE SE DA A CONOCER EL MANUAL GRÁFICO PARA EL USO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS, PUBLICADO EN EL D.O.F. DE 10 DE MAYO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-MANUAL GRÁFICO PARA EL USO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE ENERO DE 2009.
 
-> <small>N. DE E. SE SUGIERE CONSULTAR EL ARCHIVO ACROBAT QUE CONTIENE LAS FOTOGRAFÍAS E IMÁGENES QUE REFIERE EL PRESENTE MANUAL.</small>
+Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2018 (ABROGADO).
+CESAR CAMACHO QUIROZ, Gobernador del Estado Libre y Soberano de México, a sus habitantes, sabed:
 
-Manual publicado en la Segunda y Tercera Sección del Diario Oficial de la Federación, el martes 11 de junio de 2013.
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
 
-MANUAL GRÁFICO PARA EL USO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y F.A.M.
+DECRETO NUMERO 111
 
-Mayo 2013
+La H. "LIII" LEGISLATURA DEL ESTADO DE MEXICO
 
-ÍNDICE
+DECRETA:
 
-PRÓLOGO
+CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
 ## TITULO PRIMERO. DE LAS DISPOSICIONES PRELIMINARES
 
 ###### Artículo 1.
 
-Objeto. Que los servidores públicos del Instituto Sinaloense de la Juventud, que tienen a su cargo la administración, supervisión y ejecución de los procesos sustantivos y adjetivos de la institución, adopten e implementen los principios, valores y reglas de integridad emanadas del Código de Ética de los Servidores Públicos del Gobierno del Estado de Sinaloa, previniendo conductas discriminatorias, conflictos de interés y acoso sexual, e impulsando la cero tolerancia a la corrupción.
+Las disposiciones de este Código son de orden público e interés general y tienen por objeto regular la actividad financiera del Estado de México y municipios, en el ámbito de sus respectivas competencias.
+
+La actividad financiera comprende la obtención, administración y aplicación de los ingresos públicos.
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 2.
 
-Misión y visión:
+Los actos, procedimientos y resoluciones que dicten o ejecuten las autoridades, así como las inconformidades que se susciten por la aplicación de este ordenamiento, se tramitarán y resolverán conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México, salvo que se trate de actos y procedimientos regulados expresamente en este Código.
 
-Misión del Instituto Sinaloense de la Juventud
-
-Generar e impulsar políticas públicas que le permitan a la juventud sinaloense mejorar su calidad de vida y su desarrollo integral.
-
-Visión del Instituto Sinaloense de la Juventud
-
-Construir un Sinaloa prospero a través de jóvenes líderes comprometidos con su entorno.
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 3.
 
-Las disposiciones de este Código son aplicables a todos los servidores públicos que desempeñen un empleo, cargo o comisión en el Instituto Sinaloense de la Juventud, sin distinción de jerarquías, grados y funciones, mismos que deberán de cumplir con las disposiciones establecidas en el presente Código.
+Para efectos de este Código, Ley de Ingresos del Estado y del Presupuesto de Egresos se entenderá por:
+
+I. Ahorro Presupuestario. A la diferencia que resulte entre los recursos del presupuesto autorizado y el presupuesto que ejerza la dependencia u organismo auxiliar en el ejercicio de que se trate, sin afectar el cumplimiento de las metas de los programas, en los términos de las disposiciones aplicables. En este rubro se encuentran comprendidas las medidas previstas en las disposiciones generales en materia de ahorro y las vacantes en materia de servicios personales.
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+II. Ampliación de Recursos Presupuestarios. A la adecuación presupuestaria que implique un aumento líquido o compensado a la asignación de una clave presupuestaria.
+
+III. Asociación en Participación. Es un contrato por el cual una persona concede a otras que le aporten bienes o servicios, una participación en las utilidades y en las perdidas de una negociación mercantil o de una o varias operaciones de comercio.
+
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+Para efectos fiscales, las asociaciones en participación se consideran personas jurídicas colectivas.
+
+IV. Ayuntamiento. A los Ayuntamientos del Estado de México.
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+V. Cancelación de Recursos Presupuestarios. A la adecuación presupuestaria que reduce el presupuesto autorizado a las unidades ejecutoras.
+
+> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
+
+VI. Catálogo General de Puestos. Instrumento administrativo en el que se reúne, clasifica y sistematiza la información de los empleos públicos y que define la naturaleza, objetivos, tipos, especificaciones, categorías y requisitos para ocuparlos. Así mismo, incluirá por puesto, las políticas genéricas para la asignación de prestaciones y estímulos o beneficios adicionales al salario;
+
+VII. Código. Al Código Financiero del Estado de México y Municipios.
+
+VIII. Conjuntos Urbanos:
+
+A). Habitacional.
+
+B). Industrial.
+
+C). Agroindustrial.
+
+D). Abasto, comercio y servicios.
+
+E). Mixto.
+
+IX. Contraloría. A la Secretaría de la Contraloría.
+
+X. Dependencias. A las Secretarías que se señalan en la Ley Orgánica de la Administración Pública del Estado de México, incluyendo a sus unidades administrativas y órganos administrativos desconcentrados.
+
+XI. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2006)
+
+XII. Ejercicio Fiscal. Al que comprende del primero de enero al treinta y uno de diciembre.
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+XIII. Organismos Autónomos. Aquellas Entidades que cuentan con personalidad jurídica y patrimonio propios, autonomía de gestión e independencia de los Poderes Legislativo, Ejecutivo y Judicial, tales como la Universidad Autónoma del Estado de México, Comisión de Derechos Humanos del Estado de México y órganos electorales del Estado de México.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XIV. Entidades Públicas. A tribunales administrativos y organismos públicos descentralizados, empresas de participación estatal o municipal y fideicomisos públicos, todos del Estado de México.
+
+XV. Estado. Al Estado Libre y Soberano de México.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XVI. Estructura Programática. Al conjunto de categorías y elementos programáticos que sirven para dar orden y dirección al gasto público y para conocer el rendimiento esperado de la utilización de los fondos públicos y para vincular los propósitos de las políticas públicas derivadas del Plan de Desarrollo del Estado de México, de los planes de desarrollo de los municipios y de los planes que de ellos emanen, con la misión de las dependencias y entidades públicas.
+
+XVII. (DEROGADA, G.G. 4 DE JUNIO DE 2004)
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+XVIII. Gasto Corriente. A las erogaciones realizadas por las dependencias, entidades públicas, entes autónomos y municipios destinadas al pago de servicios personales, así como a la adquisición de bienes de consumo inmediato y servicios, con cargo a los capítulos de gasto 1000, 2000, 3000, 4000 y 8000.
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+XIX. Gasto de Inversión en Obras y Acciones. A las erogaciones realizadas por los Poderes del Estado, municipios y organismos autónomos, destinados al pago de obras públicas, adquisición de bienes muebles e inmuebles y ejecución de proyectos productivos de carácter social con cargo a los capítulos de gasto 5000, 6000, 7000 y 9000.
+
+XX. Gasto irreductible. Son las erogaciones mínimas indispensables para que pueda ejercer sus funciones una dependencia o entidad, principalmente asociados a las remuneraciones salariales, retenciones de seguridad social y fiscales, así como los bienes y servicios básicos.
+
+XXI. Gobernador. Al Gobernador del Estado de México.
+
+XXII. Hacienda Pública. A la obtención, administración y aplicación de los ingresos públicos del gobierno, en el ámbito de su competencia, que se conforma por las contribuciones, productos, aprovechamientos, bienes, propiedades y derechos que al gobierno, estatal o municipal le pertenecen y forman parte de su patrimonio.
+
+XXIII. IGECEM. Al Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XXIII-A. Ingresos Ordinarios. Son exclusivamente, los recursos percibidos por el Estado y los Municipios considerados en el artículo 1 de su respectiva Ley de Ingresos, del ejercicio fiscal del que se trate, con excepción de los Ingresos Derivados de Financiamiento.
+
+XXIV. Inversión financiera. Al importe de las erogaciones que se realizan para la adquisición de acciones, bonos y otros títulos de crédito. Incluye el otorgamiento de créditos para el fomento de actividades productivas y las que tienen por objeto las prestaciones y apoyos distintos a las laborales de los servidores públicos y de los subsidios para la población.
+
+XXV. Legislatura. A la Legislatura del Estado Libre y Soberano de México.
+
+> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
+
+XXVI. LIGECEM. Al Libro Décimo Cuarto del Código Administrativo del Estado de México, denominado "De la Información e Investigación Geográfica, Estadística y Catastral del Estado de México".
+
+XXVII. Ley de Ingresos. A la Ley de Ingresos del Estado de México y a la Ley de Ingresos de los Municipios del Estado de México.
+
+> <small>(ADICIONADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
+
+XXVIII. Manual Catastral. Al Manual Catastral del Estado de México.
+
+> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+XXVIII-A. Marco de Referencia para las Finanzas Públicas Estatales. Al documento emitido por el Ejecutivo Estatal por conducto de la Secretaría de Finanzas, que contendrá los principales objetivos y parámetros en materia de ingresos y egresos para el ejercicio fiscal siguiente.
+
+XXIX. Municipios. A los municipios que señala la Ley Orgánica Municipal del Estado de México.
+
+XXX. Periódico Oficial. A la "Gaceta del Gobierno" del Estado de México y a la Gaceta Municipal, en el caso de los municipios.
+
+XXXI. Procuraduría. A la Procuraduría General de Justicia.
+
+> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
+
+XXXII. Remuneración: A los pagos hechos por concepto de sueldo, compensaciones, gratificaciones, habitación, primas, comisiones, prestaciones en especie y cualquier otra percepción o prestación que se entregue al servidor público por su trabajo. Esta definición no será aplicable para los efectos del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal;
+
+> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
+
+XXXIII. Secretaría. A la Secretaría de Finanzas.
+
+XXXIV. Sector. A la agrupación de objetivos, proyectos y acciones que responden a un segmento de los fenómenos económicos y sociales que atienden de manera agregada a las previsiones del Plan de Desarrollo del Estado de México.
+
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+XXXV. Servicio de Deuda Pública. Al importe de las erogaciones destinadas a cubrir los intereses generados por los créditos y empréstitos concertados.
+
+XXXVI. Tesorería. A la tesorería municipal.
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+XXXVII. Transferencia. Asignaciones previstas en el presupuesto de egresos, que reciben los organismos auxiliares y fideicomisos públicos para sufragar su operación, inversión patrimonial y actividades inherentes.
+
+> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
+
+XXXVIII. Traspaso Presupuestario Externo. Serán aquellos que se realicen entre programas o capítulos de gasto.
+
+> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
+
+XXXIX. Traspaso Presupuestario Interno. A las modificaciones de los recursos asignados que se realicen dentro de un mismo programa y capítulo de gasto.
+
+XL. Vivienda. Es la prevista en la fracción I del artículo 5.41 del Código Administrativo del Estado de México y que se refiere a los tipos siguientes:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+A). Social Progresiva. Aquella cuyo valor al término de la construcción o adquisición no exceda de 226,557 pesos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+B). interés Social. La que tenga al término de la construcción o adquisición un valor mayor a 226,558 pesos y menor o igual a 294,524 pesos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+C). Popular. La que tenga al término de la construcción o adquisición un valor mayor a 294,525 pesos y menor o igual a 430,458 pesos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+D). Media. La que tenga al término de la construcción o adquisición un valor mayor a 430,459 pesos y menor o igual a 1'219,284 pesos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+E). Residencial. La que tenga al término de la construcción o adquisición un valor mayor a 1'219,285 pesos y menor o igual a 2'026,648 pesos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+F). Residencial alto y campestre. La que tenga al término de la construcción o adquisición un valor que exceda de la cantidad de 2'026,649 pesos.
+
+En el caso que las leyes federales incrementen o disminuyan los montos estimados, se deberá estar a lo dispuesto en esas disposiciones legales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XLI. Establecimiento principal. El lugar en el que se realicen actividades de administración, económicas, comerciales o de dirección, que generen obligaciones fiscales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XLII. Sucursal. Otros establecimientos distintos del principal, con actividades similares, que generen obligaciones fiscales.
+
+Cuando en este ordenamiento se señale al Estado y municipios o sus dependencias y entidades públicas, se entenderá que cada una actúa de acuerdo con su competencia.
 
 ###### Artículo 4.
 
-Para efectos del presente Código se entenderá por:
-
-I. Administración Pública: Administración Pública del Estado de Sinaloa;
-
-II. Bases: Las Bases para la Integración, Organización y Funcionamiento de los Comités de Ética y de Prevención de Conflictos de Interés;
-
-III. Código de Conducta: El instrumento emitido por el titular de la dependencia o entidad a propuesta de los Comités de Ética y de Prevención de Conflictos de Interés;
-
-IV. Código de Ética: El Código de Ética de los Servidores Públicos del Estado de Sinaloa
-
-V. Comité: El Comité de Ética y de Prevención de Conflictos de Interés de cada Ente Público. En su caso, los subcomités o comisiones permanentes o temporales que se establezcan conforme a los Lineamientos generales;
-
-VI. Conflicto de interés: La situación que se presenta cuando los intereses personales, familiares o de negocios del servidor público puedan afectar el desempeño independiente e imparcial de sus empleos, cargos, comisiones o funciones;
-
-VII. Ética: Conjunto de principios, valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la Administración Pública del Estado de Sinaloa;
-
-VIII. ISJU: Instituto Sinaloense de la Juventud.
-
-IX. Ley Estatal: Ley de Responsabilidades Administrativas del Estado de Sinaloa;
-
-X. Ley General: Ley General de Responsabilidades Administrativas;
-
-XI. Secretaría: La Secretaría de Transparencia y Rendición de Cuentas; y
-
-XII. Unidad: La unidad administrativa competente de la Secretaría de Transparencia y Rendición de Cuentas facultada para dar seguimiento y verificar el cumplimiento de las disposiciones del presente ordenamiento
+La Secretaría y los ayuntamientos, interpretarán para efectos administrativos las disposiciones de este Código, sin que por ningún motivo se puedan variar los elementos propios de las contribuciones.
 
 ###### Artículo 5.
 
-Los servidores públicos adscritos al Instituto Sinaloense de la Juventud, deben observar los principios constitucionales y legales que rigen el servicio público contenidos en el Código de Ética de los servidores públicos del Gobierno del Estado de Sinaloa, que son congruentes con los principios estipulados en los Lineamientos para la emisión del Código de Ética aprobados por el Comité Coordinador del Sistema Nacional Anticorrupción, a saber:
-
-I. Legalidad: Los servidores públicos hacen solo aquello que las normas expresamente les confieren y en todo momento someten su actuación a las facultades que las leyes, reglamentos y demás disposiciones jurídicas atribuyen a su empleo, cargo o comisión, por lo que conocen y cumplen las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones.
-
-II. Honradez: Los servidores públicos se conducen con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscan o aceptan compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización, debido a que están conscientes que ello compromete sus funciones y que el ejercicio de cualquier cargo público implica un alto sentido de austeridad y vocación de servicio.
-
-III. Lealtad: Los servidores públicos corresponden a la confianza que el Estado les ha conferido; tienen una vocación absoluta de servicio a la sociedad y satisfacen el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población.
-
-IV. Imparcialidad: Los servidores públicos dan a la ciudadanía, y a la población en general, el mismo trato, sin conceder privilegios o preferencias a organizaciones o personas, ni permiten que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva.
-
-V. Eficiencia: Los servidores públicos actúan en apego a los planes y programas previamente establecidos y optimizan el uso y la asignación de los recursos públicos en el desarrollo de sus actividades para lograr los objetivos propuestos.
-
-VI. Economía: Los servidores públicos en el ejercicio del gasto público administrarán los bienes, recursos y servicios públicos con legalidad, austeridad y disciplina, satisfaciendo los objetivos y metas a los que estén destinados, siendo éstos de interés social.
-
-VII. Disciplina: Los servidores públicos desempeñarán su empleo, cargo o comisión, de manera ordenada, metódica y perseverante, con el propósito de obtener los mejores resultados en el servicio o bienes ofrecidos.
-
-VIII. Profesionalismo: Los servidores públicos deberán conocer, actuar y cumplir con las funciones, atribuciones y comisiones encomendadas de conformidad con las leyes, reglamentos y demás disposiciones jurídicas atribuibles a su empleo, cargo o comisión, observando en todo momento disciplina, integridad y respeto, tanto a los demás servidores públicos como a las y los particulares con los que llegare a tratar.
-
-IX. Objetividad: Los servidores públicos deberán preservar el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general, actuando de manera neutral e imparcial en la toma de decisiones, que a su vez deberán de ser informadas en estricto apego a la legalidad.
-
-X. Transparencia: Los servidores públicos en el ejercicio de sus funciones y conforme a las disposiciones jurídicas aplicables, privilegian el principio de máxima publicidad de la información pública, atendiendo con diligencia los requerimientos de acceso y proporcionando la documentación que generan, obtienen, adquieren, transforman o conservan; y en el ámbito de su competencia, difunden de manera proactiva información gubernamental, como un elemento que genera valor a la sociedad y promueve un gobierno abierto, protegiendo los datos personales que estén bajo su custodia.
-
-XI. Rendición de Cuentas: Los servidores públicos asumen plenamente ante la sociedad y autoridades la responsabilidad que deriva del ejercicio de su empleo, cargo o comisión, por lo que en términos de las disposiciones jurídicas aplicables, informan, explican y justifican sus decisiones y acciones, y se sujetan a un sistema de sanciones, así como a la evaluación y al escrutinio público de sus funciones por parte de la ciudadanía.
-
-XII. Competencia por mérito: Los servidores públicos deberán ser seleccionados para sus puestos de acuerdo a su habilidad profesional, capacidad y experiencia, garantizando la igualdad de oportunidad, atrayendo a los mejores candidatos para ocupar los puestos mediante procedimientos transparentes, objetivos y equitativos, conforme a las disposiciones Jurídicas aplicables.
-
-XIII. Eficacia: Los servidores públicos actúan conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades y mediante el uso responsable y claro de los recursos públicos, eliminando cualquier ostentación y discrecionalidad Indebida en su aplicación.
-
-XIV. Integridad: Los servidores públicos actúan siempre de manera congruente con los principios que se deben observar en el desempeño de un empleo, cargo, comisión o función, convencidas en el compromiso de ajustar su conducta para que impere en su desempeño una ética que responda al interés público y generen certeza plena de su conducta frente a todas las personas con las que se vinculen u observen su actuar.
-
-XV. Equidad: Los servidores públicos procurarán que toda persona acceda con justicia e igualdad al uso, disfrute y beneficio de los bienes, servicios, recursos y oportunidades.
+Las leyes, reglamentos y demás disposiciones financieras de observancia general, obligan y surten sus efectos al día siguiente de su publicación en el Periódico Oficial, salvo que en las mismas se señale una fecha diferente.
 
 ###### Artículo 6.
 
-Los servidores públicos del Instituto Sinaloense de la Juventud, deben observar los valores que orientan el servicio público realizado en la Administración Pública del Estado de Sinaloa, contenidos en el Código de Ética de los servidores públicos del Gobierno del Estado de Sinaloa, y que son congruentes con el catálogo de valores y sus definiciones estipulados en los Lineamientos para la emisión del Código de Ética aprobados por el Comité Coordinador del Sistema Nacional Anticorrupción, a saber:
-
-I. Interés Público: Los servidores públicos actúan buscando en todo momento la máxima atención de las necesidades y demandas de la sociedad por encima de intereses y beneficios particulares, ajenos a la satisfacción colectiva.
-
-II. Respeto: Los servidores públicos se conducen con austeridad y sin ostentación, y otorgan un trato digno y cordial a las personas en general y a sus compañeras y compañeros de trabajo, superiores y subordinados, considerando sus derechos, de tal manera que propician el diálogo cortés y la aplicación armónica de instrumentos que conduzcan al entendimiento, a través de la eficacia y el interés público.
-
-III. Respeto a los Derechos Humanos: Los servidores públicos respetan los derechos humanos, y en el ámbito de sus competencias y atribuciones, los garantizan, promueven y protegen de conformidad con los Principios de: Universalidad que establece que los derechos humanos corresponden a toda persona por el simple hecho de serlo; de Interdependencia que implica que los derechos humanos se encuentran vinculados íntimamente entre si; de Indivisibilidad que refiere que los derechos humanos conforman una totalidad de tal forma que son complementarios e inseparables, y de Progresividad que prevé que los derechos humanos están en constante evolución y bajo ninguna circunstancia se justifica un retroceso en su protección.
-
-IV. Igualdad y No Discriminación: Los servidores públicos prestan sus servicios a todas las personas sin distinción, exclusión, restricción, o preferencia basada en el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o en cualquier otro motivo.
-
-V. Equidad de Género: Los servidores públicos, en el ámbito de sus competencias y atribuciones, garantizan que tanto mujeres como hombres accedan con las mismas condiciones, posibilidades y oportunidades a los bienes y servicios públicos; a los programas, beneficios institucionales, a los empleos, cargos y comisiones gubernamentales.
-
-VI. Entorno Cultural y Ecológico: Los servidores públicos en el desarrollo de sus actividades evitan la afectación del patrimonio cultural de cualquier nación y de los ecosistemas del planeta; asumen una férrea voluntad de respeto, defensa y preservación de la cultura y del medio ambiente, y en el ejercicio de sus funciones y conforme a sus atribuciones, promueven en la sociedad la protección y conservación de la cultura y el medio ambiente, al ser el principal legado para las generaciones futuras.
-
-VII. Cooperación: Los servidores públicos colaboran entre si y propician el trabajo en equipo para alcanzar los objetivos comunes previstos en los planes y programas gubernamentales, generando así una plena vocación de servicio público en beneficio de la colectividad y confianza de la ciudadanía en sus instituciones.
-
-VIII. Liderazgo: Los servidores públicos son guía, ejemplo y promotoras del Código de Ética y las Reglas de integridad; fomentan y aplican en el desempeño de sus funciones los principios que la Constitución Federal, la Constitución Política del Estado de Sinaloa y los que otras leyes les imponen, así como aquellos valores adicionales que por su importancia son intrínsecos a la función pública.
+(DEROGADO, G.G. 29 DE DICIEMBRE DE 2000)
 
 ## TITULO SEGUNDO. DE LOS PRINCIPIOS DE CARACTER FISCAL
 
-### CAPÍTULO I. UNIFORMES
+### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-PRIMERA SECCIÓN
-
-UNIFORMES COMUNES
-
-SUBSECCIÓN (A)
-
-DE CAMPAÑA
-
-SUBSECCIÓN (B)
-
-ADMINISTRATIVO
-
-SUBSECCIÓN (C)
-
-DE CEREMONIAS
-
-SUBSECCIÓN (D)
-
-DE GALA PARA GENERALES, JEFES Y OFICIALES
-
-SUBSECCIÓN (E)
-
-DE GIRA
-
-SUBSECCIÓN (F)
-
-DE MILITARES PROCESADOS Y SENTENCIADOS
-
-SUBSECCIÓN (G)
-
-DE COCINERO/A Y MESERO/A
-
-SUBSECCIÓN (H)
-
-DE SOBRECARGO
-
-SEGUNDA SECCIÓN
-
-UNIFORMES PARA PLANTELES MILITARES
-
-SUBSECCIÓN (A)
-
-UNIFORMES DE GRAN GALA
-
-SUBSECCIÓN (B)
-
-UNIFORME DE GALA PARA PLANTELES MILITARES
-
-SUBSECCIÓN (C)
-
-UNIFORME DE DOBLE BOTONADURA PARA PLANTELES MILITARES
-
-SUBSECCIÓN (D)
-
-UNIFORME BEIGE Y VERDE OLIVO CON BOTONES DORADOS PARA PLANTELES MILITARES
-
-TERCERA SECCIÓN
-
-UNIDADES Y CUERPOS ESPECIALES
-
-SUBSECCIÓN (A)
-
-POLICÍA MILITAR
-
-SUBSECCIÓN (B)
-
-BANDAS DE MÚSICA
-
-SUBSECCIÓN (C)
-
-CUERPO DE GUARDIAS PRESIDENCIALES
-
-SUBSECCIÓN (D)
-
-DEFENSAS RURALES
-
-CUARTA SECCIÓN
-
-VESTUARIO COMPLEMENTARIO
-
-QUINTA SECCIÓN
-
-CALZADO
-
-SEXTA SECCIÓN
-
-TOCADOS
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 7.
 
-Tomando en cuenta los principios y valores establecidos en el presente Código, se determinaron las reglas de integridad, las cuales consisten en conductas específicas esperadas de los servidores públicos adscritos al Instituto Sinaloense de la Juventud, dichas reglas se definen como las acciones y prohibiciones que guían el actuar de los mismos, así mismo, éstas se encuentran establecidas en el Código de Ética, en virtud de ello, de manera enunciativa y no limitativa, se expresan a continuación:
+Para cubrir el gasto público y demás obligaciones a su cargo, el Estado y los Municipios percibirán en cada ejercicio fiscal los impuestos, derechos, aportaciones de mejoras, productos, aprovechamientos, ingresos derivados de la coordinación hacendaria, e ingresos provenientes de financiamientos, establecidos en la Ley de Ingresos. Tratándose del Estado, también percibirá las aportaciones y cuotas de seguridad social.
 
-I. Actuación Pública
-
-Los servidores públicos que desempeñan un empleo, cargo, comisión o función, conducen su actuación con transparencia, honestidad, lealtad, cooperación, austeridad; sin ostentación y con una clara orientación al interés público.
-
-Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
-
-a) Abstenerse de ejercer las atribuciones y facultades que le impone el servicio público y que le confieren los ordenamientos legales y normativos correspondientes.
-
-b) Adquirir para sí o para terceros, bienes o servicios de personas u organizaciones beneficiadas con programas o contratos gubernamentales, a un precio notoriamente inferior o bajo condiciones de crédito favorables, distintas a las del mercado.
-
-c) Favorecer o ayudar a otras personas u organizaciones a cambio o bajo la promesa de recibir dinero, dádivas, obsequios, regalos o beneficios personales o para terceros.
-
-d) Utilizar las atribuciones de su empleo, cargo, comisión o funciones para beneficio personal o de terceros.
-
-e) Ignorar las recomendaciones de los organismos públicos protectores de los derechos humanos y de prevención de la discriminación, u obstruir alguna investigación por violaciones en esta materia.
-
-f) Hacer proselitismo en su jornada laboral u orientar su desempeño laboral hacia preferencias político-electorales.
-
-g) Utilizar recursos humanos, materiales o financieros institucionales para fines distintos a los asignados.
-
-h) Obstruir la presentación de denuncias administrativas, penales o políticas, por parte de compañeros de trabajo, subordinados o de ciudadanos en general.
-
-i) Asignar o delegar responsabilidades y funciones sin apegarse a las disposiciones normativas aplicables.
-
-j) Permitir que los servidores públicos subordinados incumplan total o parcialmente con su jornada u horario laboral.
-
-k) Realizar cualquier tipo de discriminación tanto a otros servidores públicos como a toda persona en general.
-
-l) Actuar como abogado o procurador en juicios de carácter penal, civil, mercantil o laboral que se promuevan en contra de instituciones públicas de cualquiera de los tres órdenes y niveles de Gobierno.
-
-m) Dejar de establecer medidas preventivas al momento de ser informado por escrito como superior jerárquico, de una posible situación de riesgo o de conflicto de interés.
-
-n) Hostigar, agredir, amedrentar, acosar, intimidar, extorsionar o amenazar a personal subordinado o compañeros de trabajo.
-
-ñ) Desempeñar dos o más puestos o celebrar dos o más contratos de prestación de servicios profesionales o la combinación de unos con otros, sin contar con dictamen de compatibilidad.
-
-o) Dejar de colaborar con otros servidores públicos y de propiciar el trabajo en equipo para alcanzar los objetivos comunes previstos en los planes y programas gubernamentales.
-
-p) Obstruir u obstaculizar la generación de soluciones a dificultades que se presenten para la consecución de las metas previstas en los planes y programas gubernamentales.
-
-q) Evitar conducirse bajo criterios de austeridad, sencillez y uso apropiado de los bienes y medios que disponga con motivo del ejercicio del cargo público.
-
-r) Conducirse de forma ostentosa, incongruente y desproporcionada a la remuneración y apoyos que perciba con motivo de cargo público.
-
-s) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
-
-II. Información Pública
-
-Los servidores públicos que desempeñan un empleo, cargo, comisión o función, conducen su actuación conforme al principio de transparencia y resguardan la documentación e información gubernamental que tienen bajo su responsabilidad.
-
-Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
-
-a) Asumir actitudes intimidatorias frente a las personas que requieren de orientación para la presentación de una solicitud de acceso a información pública.
-
-b) Retrasar de manera negligente las actividades que permitan atender de forma ágil y expedita las solicitudes de acceso a información pública.
-
-c) Declarar la incompetencia para la atención de una solicitud de acceso a información pública, a pesar de contar con atribuciones o facultades legales o normativas.
-
-d) Declarar la inexistencia de información o documentación pública, sin realizar una búsqueda exhaustiva en los expedientes y archivos institucionales bajo su resguardo.
-
-e) Ocultar información y documentación pública en archivos personales, ya sea dentro o fuera de los espacios institucionales.
-
-f) Alterar, ocultar o eliminar de manera deliberada, información pública.
-
-g) Permitir o facilitar la sustracción, destrucción o inutilización indebida, de información o documentación pública.
-
-h) Proporcionar indebidamente documentación e información confidencial o reservada.
-
-i) Utilizar con fines lucrativos las bases de datos a las que tenga acceso o que haya obtenido con motivo de su empleo, cargo, comisión o funciones.
-
-j) Obstaculizar las actividades para la identificación, generación, procesamiento, difusión y evaluación de la información en materia de transparencia proactiva y gobierno abierto.
-
-k) Difundir información pública en materia de transparencia proactiva y gobierno abierto en formatos que, de manera deliberada, no permitan su uso, reutilización o redistribución por cualquier interesado.
-
-l) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
-
-III. Contrataciones públicas, Licencias, Permisos, Autorización y Concesiones
-
-Los servidores públicos que con motivo de su empleo, cargo, comisión o función o a través de subordinados, participan en contrataciones públicas o en el otorgamiento y prórroga de licencias, permisos, autorizaciones y concesiones, se conducen con transparencia, imparcialidad y legalidad; orientan sus decisiones a las necesidades e intereses de la sociedad, y garantizan las mejores condiciones para el Estado.
-
-Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
-
-a) Omitir declarar conforme a las disposiciones aplicables los posibles conflictos de interés, negocios y transacciones comerciales que de manera particular haya tenido con personas u organizaciones inscritas en el Registro Único de Contratistas para la Administración Pública del Estado de Sinaloa.
-
-b) Dejar de aplicar el principio de equidad de la competencia que debe prevalecer entre los participantes dentro de los procedimientos de contratación.
-
-c) Formular requerimientos diferentes a los estrictamente necesarios para el cumplimiento del servicio público, provocando gastos excesivos e innecesarios.
-
-d) Establecer condiciones en las invitaciones o convocatorias que representen ventajas o den un trato diferenciado a los licitantes.
-
-e) Favorecer a los licitantes teniendo por satisfechos los requisitos o reglas previstos en las invitaciones o convocatorias cuando no lo están; simulando el cumplimiento de éstos o coadyuvando a su cumplimiento extemporáneo.
-
-f) Beneficiar a los proveedores sobre el cumplimiento de los requisitos previstos en las solicitudes de cotización.
-
-g) Proporcionar de manera indebida información de los particulares que participen en los procedimientos de contrataciones públicas.
-
-h) Ser parcial en la selección, designación, contratación, y en su caso, remoción o rescisión del contrato, en los procedimientos de contratación.
-
-i) Influir en las decisiones de otros servidores públicos para que se beneficie a un participante en los procedimientos de contratación o para el otorgamiento de licencias, permisos, autorizaciones y concesiones.
-
-j) Evitar imponer sanciones a licitantes, proveedores y contratistas que infrinjan las disposiciones jurídicas aplicables.
-
-k) Enviar correos electrónicos a los licitantes, proveedores, contratistas o concesionarios a través de cuentas personales o distintas al correo institucional.
-
-l) Reunirse con licitantes, proveedores, contratistas y concesionarios fuera de los inmuebles oficiales, salvo para los actos correspondientes a la visita al sitio.
-
-m) Solicitar requisitos sin sustento para el otorgamiento y prórroga de licencias, permisos, autorizaciones y concesiones.
-
-n) Dar trato inequitativo o preferencial a cualquier persona u organización en la gestión que se realice para el otorgamiento y prórroga de licencias, permisos, autorizaciones y concesiones.
-
-ñ) Recibir o solicitar cualquier tipo de compensación, dádiva, obsequio o regalo en la gestión que se realice para el otorgamiento y prórroga de licencias, permisos, autorizaciones y concesiones.
-
-o) Dejar de observar el protocolo de actuación en materia de contrataciones públicas y otorgamiento de licencias, permisos, autorizaciones, concesiones y sus prórrogas.
-
-p) Ser beneficiario directo o a través de familiares hasta el cuarto grado, de contratos gubernamentales relacionados con la dependencia o entidad que dirige o en la que presta sus servicios.
-
-q) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
-
-IV. Programas Gubernamentales
-
-Los servidores públicos que con motivo de su empleo, cargo, comisión o función o a través de subordinados, participan en el otorgamiento y operación de subsidios y apoyos de programas gubernamentales, garantizan que la entrega de estos beneficios se apeguen a los principios de igualdad y no discriminación, legalidad, imparcialidad, transparencia y respeto.
-
-Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
-
-a) Ser beneficiario directo o a través de familiares hasta el cuarto grado, de programas de subsidios o apoyos de la dependencia o entidad que dirige o en la que presta sus servicios.
-
-b) Permitir la entrega o entregar subsidios o apoyos de programas gubernamentales, de manera diferente a la establecida en la (sic) reglas de operación.
-
-c) Brindar apoyos o beneficios de programas gubernamentales a personas, agrupaciones o entes que no cumplan con los requisitos y criterios de elegibilidad establecidos en las reglas de operación.
-
-d) Proporcionar los subsidios o apoyos de programas gubernamentales en períodos restringidos por la autoridad electoral, salvo casos excepcionales por desastres naturales o de otro tipo de contingencia declarada por las autoridades competentes.
-
-e) Dar trato inequitativo o preferencial a cualquier persona u organización en la gestión del subsidio o apoyo del programa, lo cual incluye el ocultamiento, retraso o entrega engañosa o privilegiada de información.
-
-f) Discriminar a cualquier interesado para acceder a los apoyos o beneficios de un programa gubernamental.
-
-g) Alterar, ocultar, eliminar o negar información que impida el control y evaluación sobre el otorgamiento de los beneficios o apoyos a personas, agrupaciones o entes, por parte de las autoridades facultadas.
-
-h) Entregar, disponer o hacer uso de la información de los padrones de beneficiarios de programas gubernamentales diferentes a las funciones encomendadas.
-
-i) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
-
-V. Trámites y Servicios
-
-Los servidores públicos que con motivo de su empleo, cargo, comisión o función participan en las prestaciones de trámites y en el otorgamiento de servicios, atienden a los usuarios de forma respetuosa, eficiente, oportuna, responsable e imparcial.
-
-Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
-
-a) Ejercer una actitud contraria de servicio, respeto y cordialidad en el trato, incumpliendo protocolos de actuación o atención al público.
-
-b) Otorgar información falsa sobre el proceso y requisitos para acceder a consultas, trámites, gestiones y servicios.
-
-c) Realizar trámites y otorgar servicios de forma deficiente, retrasando los tiempos de respuesta, consultas, trámites, gestiones y servicios.
-
-d) Exigir, por cualquier medio, requisitos o condiciones adicionales a los señalados por las disposiciones jurídicas que regulan los trámites y servicios.
-
-e) Discriminar por cualquier motivo en la atención de consultas, la realización de trámites y gestiones, y la prestación de servicios.
-
-f) Recibir o solicitar cualquier tipo de compensación, dádiva, obsequio o regalo en la gestión que se realice para el otorgamiento del trámite o servicio.
-
-g) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
-
-VI. Recursos Humanos
-
-Los servidores públicos que participan en procedimientos de recursos humanos, de planeación de estructuras o que desempeñan en general un empleo, cargo, comisión o función, se apegan a los principios de igualdad y no discriminación, legalidad, imparcialidad, transparencia y rendición de cuentas.
-
-Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
-
-a) Dejar de garantizar la igualdad de oportunidades en el acceso a la función pública con base en el mérito.
-
-b) Designar, contratar o nombrar en un empleo, cargo, comisión o función, a personas cuyos intereses particulares, laborales, profesionales, económicos o de negocios puedan estar en contraposición o percibirse como contrarios a los intereses que les corresponderá velar si se desempeñaran en el servicio público.
-
-c) Proporcionar a un tercero no autorizado, información contenida en expedientes del personal y en archivos de recursos humanos bajo su resguardo.
-
-d) Suministrar información sobre los reactivos de los exámenes elaborados para la ocupación de plazas vacantes a personas ajenas a la organización de los concursos.
-
-e) Seleccionar, contratar, nombrar o designar a personas, sin haber obtenido previamente, la constancia de no inhabilitación.
-
-f) Seleccionar, contratar, nombrar o designar a personas que no cuenten con el perfil del puesto, con los requisitos y documentos establecidos, o que no cumplan con las obligaciones que las leyes imponen a todo ciudadano.
-
-g) Seleccionar, contratar, designar o nombrar directa o indirectamente como subalternos a familiares hasta el cuarto grado de parentesco.
-
-h) Inhibir la formulación o presentación de inconformidades o recursos que se prevean en las disposiciones aplicables para los procesos de ingreso.
-
-i) Otorgar a un servidor público subordinado, durante su proceso de evaluación, una calificación que no corresponda a sus conocimientos, actitudes, capacidades o desempeño.
-
-j) Disponer del personal a su cargo en forma indebida, para que le realice trámites, asuntos o actividades de carácter personal o familiar ajenos al servicio público.
-
-k) Presentar información y documentación falsa o que induzca al error, sobre el cumplimiento de metas de su evaluación del desempeño.
-
-l) Remover, cesar, despedir, separar o dar o solicitar la baja de servidores públicos de carrera, sin tener atribuciones o por causas y procedimientos no previstos en las leyes aplicables.
-
-m) Omitir excusarse de conocer asuntos que puedan implicar cualquier conflicto de interés.
-
-n) Evitar que el proceso de evaluación del desempeño de los servidores públicos se realice en forma objetiva y en su caso, dejar de retroalimentar sobre los resultados obtenidos cuando el desempeño del servidor público sea contrario a lo esperado.
-
-ñ) Eludir, conforme a sus atribuciones, la reestructuración de áreas identificadas como sensibles o vulnerables a la corrupción o en las que se observe una alta incidencia de conductas contrarias al Código de Ética, a las Reglas de Integridad o al Código de Conducta.
-
-o) así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
-
-VII. Administración de Bienes Muebles e Inmuebles
-
-Los servidores públicos que con motivo de su empleo, cargo, comisión o función, participan en procedimientos de baja, enajenación, transferencia o destrucción de bienes muebles o de administración de bienes inmuebles, administran los recursos con eficiencia, transparencia y honradez para satisfacer los objetivos a los que están destinados.
-
-Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
-
-a) Solicitar la baja, enajenación, transferencia o destrucción de bienes, cuando éstos sigan siendo útiles.
-
-b) Compartir información con terceros ajenos a los procedimientos de baja, enajenación, transferencia o destrucción de bienes públicos, o sustituir documentos o alterar éstos.
-
-c) Recibir o solicitar cualquier tipo de compensación, dádiva, obsequio o regalo, a cambio de beneficiar a los participantes en los procedimientos de enajenación de bienes muebles e inmuebles.
-
-d) Intervenir o influir en las decisiones de otros servidores públicos para que se beneficie a algún participante en los procedimientos de enajenación de bienes muebles e inmuebles.
-
-e) Tomar decisiones en los procedimientos de enajenación de bienes muebles e inmuebles, anteponiendo intereses particulares que dejen de asegurar las mejores condiciones en cuanto a precio disponible en el mercado.
-
-f) Manipular la información proporcionada por los particulares en los procedimientos de enajenación de bienes muebles e inmuebles.
-
-g) Utilizar el parque vehicular terrestre, marítimo o aéreo, de carácter oficial o arrendado para este propósito, para uso particular, personal o familiar, fuera de la normativa establecida por la dependencia o entidad en que labore.
-
-h) Utilizar los bienes inmuebles para uso ajeno a la normatividad aplicable.
-
-i) Disponer de los bienes y demás recursos públicos sin observar las normas a los que se encuentran afectos y destinarlos a fines distintos al servicio público.
-
-j) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
-
-VIII. Procesos de Evaluación
-
-Los servidores públicos que con motivo de su empleo, cargo, comisión o función, participan en procesos de evaluación, se apegan en todo momento a los principios de legalidad, imparcialidad y rendición de cuentas.
-
-Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
-
-a) Proporcionar indebidamente la información contenida en los sistemas de información de la Administración Pública del Estado de Sinaloa o acceder a ésta por causas distintas al ejercicio de sus funciones y facultades.
-
-b) Trasgredir el alcance y orientación de los resultados de las evaluaciones que realice cualquier instancia externa o interna en materia de evaluación o rendición de cuentas.
-
-c) Dejar de atender las recomendaciones formuladas por cualquier instancia de evaluación, ya sea interna o externa.
-
-d) Alterar registros de cualquier índole para simular o modificar los resultados de las funciones, programas y proyectos gubernamentales.
-
-e) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
-
-IX. Control Interno
-
-Los servidores públicos que en el ejercicio de su empleo, cargo, comisión o función, participan en procesos en materia de control interno, generan, obtienen, utilizan y comunican información suficiente, oportuna, confiable y de calidad, apegándose a los principios de legalidad, imparcialidad y rendición de cuentas.
-
-Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
-
-a) Dejar de comunicar los riesgos asociados al cumplimiento de objetivos institucionales, así como los relacionados con corrupción y posibles irregularidades que afecten los recursos económicos públicos.
-
-b) Omitir diseñar o actualizar las políticas o procedimientos necesarios en materia de control interno.
-
-c) Generar información financiera, presupuestaria y de operación sin el respaldo suficiente.
-
-d) Comunicar información financiera, presupuestaria y de operación incompleta, confusa o dispersa.
-
-e) Omitir supervisar los planes, programas o proyectos a su cargo, en su caso, las actividades y el cumplimiento de las funciones del personal que le reporta.
-
-f) Dejar de salvaguardar documentos e información que se deban conservar por su relevancia o por sus aspectos técnicos, jurídicos, económicos o de seguridad.
-
-g) Ejecutar sus funciones sin establecer las medidas de control que le correspondan.
-
-h) Omitir modificar procesos y tramos de control, conforme a sus atribuciones, en áreas en las que se detecten conductas contrarias al Código de Ética o al Código de Conducta.
-
-i) Dejar de implementar, en su caso, de adoptar, mejores prácticas y procesos para evitar la corrupción y prevenir cualquier conflicto de interés.
-
-j) Inhibir las manifestaciones o propuestas que tiendan a mejorar o superar deficiencias de operación, de procesos, de calidad de trámites y servicios, o de comportamiento ético de los servidores públicos.
-
-k) Eludir establecer estándares o protocolos de actuación en aquellos trámites o servicios de atención directa al público o dejar de observar aquéllos previstos por las instancias competentes.
-
-l) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
-
-X. Procedimiento Administrativo
-
-Los servidores públicos que en el ejercicio de su empleo, cargo, comisión o función, participan en procedimientos administrativos tienen una cultura de denuncia, respetan las formalidades esenciales del procedimiento y la garantía de audiencia conforme al principio de legalidad.
-
-Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
-
-a) Omitir notificar el inicio del procedimiento y sus consecuencias.
-
-b) Dejar de otorgar la oportunidad de ofrecer pruebas.
-
-c) Prescindir el desahogo de pruebas en que se finque la defensa.
-
-d) Excluir la oportunidad de presentar alegatos.
-
-e) Omitir señalar los medios de defensa que se pueden interponer para combatir la resolución dictada.
-
-f) Negarse a informar, declarar o testificar sobre hechos que le consten relacionados con conductas contrarias a la normatividad, así como al Código de Ética y al Código de Conducta.
-
-g) inobservar criterios de legalidad, imparcialidad, objetividad y discreción en los asuntos de los que tenga conocimiento que impliquen contravención a la normatividad, así como al Código de Ética o al Código de Conducta.
-
-h) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
-
-XI. Desempeño Permanente con Integridad
-
-Los servidores públicos que desempeñan un empleo, cargo, comisión o función, conducen su actuación con legalidad, imparcialidad, objetividad, transparencia, certeza, cooperación, ética e integridad.
-
-Vulneran esta regla, de manera enunciativa y no limitativa, las conductas siguientes:
-
-a) Omitir conducirse con un trato digno y cordial, conforme a los protocolos de actuación o atención al público, y de cooperación entre servidores públicos.
-
-b) Realizar cualquier tipo de discriminación tanto a otros servidores públicos como a toda persona en general.
-
-c) Retrasar de manera negligente las actividades que permitan atender de forma ágil y expedita al público en general.
-
-d) Hostigar, agredir, amedrentar, acosar, intimidar o amenazar a compañeros de trabajo o personal subordinado.
-
-e) Ocultar información y documentación gubernamental, con el fin de entorpecer las solicitudes de acceso a información pública.
-
-f) Recibir, solicitar o aceptar cualquier tipo de compensación, dádiva, obsequio o regalo en la gestión y otorgamiento de trámites y servicios.
-
-g) Realizar actividades particulares en horarios de trabajo que contravengan las medidas aplicables para el uso eficiente, transparente y eficaz de los recursos públicos.
-
-h) Omitir excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar, de negocios, o cualquier otro en el que tenga algún conflicto de interés.
-
-i) Aceptar documentación que no reúna los requisitos fiscales para la comprobación de gastos de representación, viáticos, pasajes, alimentación, telefonía celular, entre otros.
-
-j) Utilizar el parque vehicular terrestre, marítimo o aéreo, de carácter oficial o arrendado para este propósito, para uso particular, personal o familiar, fuera de la normativa establecida por la dependencia o entidad en que labore.
-
-k) Solicitar la baja, enajenación, transferencia o destrucción de bienes muebles, cuando éstos sigan siendo útiles.
-
-l) Obstruir la presentación de denuncias o acusaciones o sobre el uso indebido o de derroche de recursos económicos que impidan o propicien la rendición de cuentas.
-
-m) Evitar conducirse con criterios de sencillez, austeridad y uso adecuado de los bienes y medios que disponga con motivo del ejercicio del cargo público.
-
-n) Conducirse de manera ostentosa, inadecuada desproporcionada respecto a la remuneración y apoyos que se determinen presupuestalmente para su cargo público.
-
-ñ) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
-
-XII. Cooperación con la Integridad
-
-Los servidores públicos en el desempeño de su empleo, cargo, comisión o función, cooperan con la dependencia o entidad en la que laboran y con las instancias encargadas de velar por la observancia de los principios y valores intrínsecos a la función pública, en el fortalecimiento de la cultura ética y de servicio a la sociedad.
-
-Son acciones que, de manera enunciativa y no limitativa, hacen posible propiciar un servicio público integro, las siguientes:
-
-a) Detectar áreas sensibles o vulnerables a la corrupción.
-
-b) Proponer, en su caso, adoptar cambios a las estructuras y procesos a fin de inhibir ineficiencias, corrupción y conductas antiéticas.
-
-c) Recomendar, diseñar y establecer mejores prácticas a favor del servicio público.
-
-d) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
-
-XIII. Comportamiento Digno
-
-Los servidores públicos en el desempeño de su empleo, cargo, comisión o función, conducen su actuación respetando estrictamente la dignidad de todas las personas con la (sic) que tienen trato durante el cumplimiento de sus obligaciones institucionales.
-
-Son acciones que, de manera enunciativa y no limitativa, hacen posible propiciar un servicio público digno, las siguientes:
-
-a) Desempeñarse en el quehacer institucional considerando que la dignidad humana es el derecho que tiene cada ser humano, de ser respetado y valorado como ser individual y social, con sus características y condiciones particulares, por el solo hecho de ser persona.
-
-b) Concientizar de que todas las personas somos iguales como sujetos de derechos, y aquellos con menores posibilidades deben ser ayudados para que tengan igualdad de oportunidades.
-
-c) Dar un trato igualitario a todas las personas independientemente de su origen étnico o nacional, sexo, religión, ideología, coeficiente intelectual, mucho o poco dinero, problemas de salud, rasgos físicos (alto, bajo, rubio, moreno, delgado, robusto, etcétera).
-
-d) Manifestar y difundir que como seres dignos (valiosos) somos merecedores del derecho a la vida, a la libertad, a la educación y a la cultura, al trabajo, a poseer una vivienda, a constituir una familia, tener alimentación saludable y recreación. Debemos poder elegir nuestro destino, nuestra vocación, nuestras ideas, con el único límite del respeto a la dignidad de las demás personas.
-
-e) Así como cualquiera otra análoga a las anteriores que por sí misma sean contraria al conjunto de principios valores y deberes que dirigen o valoran el comportamiento de los servidores públicos y su recto proceder en el desempeño de su empleo, cargo o comisión en la administración pública del estado de Sinaloa.
+La Ley de Ingresos del Estado se elaborará con base en el Marco de Referencia para las Finanzas Públicas Estatales y/o en los criterios generales de política económica emitidos por el Gobierno Federal y, en su caso, con la última información económica publicada por el Banco de México y la Secretaría de Hacienda y Crédito Público, y deberá ser congruente con el Plan de Desarrollo del Estado y los programas que de él deriven.
 
 ###### Artículo 8.
 
@@ -765,15 +441,35 @@ Los sujetos que tengan obligación de presentar declaraciones periódicas de con
 
 Se considera domicilio fiscal de las personas físicas y jurídicas colectivas:
 
-I. El lugar en que realicen actividades que generen obligaciones fiscales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II. El lugar en que se realice el hecho generador de la obligación fiscal, cuando las actividades no se realicen en forma habitual.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-III. El que señalen ante la autoridad fiscal.
+I. El lugar o establecimiento donde se realicen actividades que generen obligaciones fiscales.
 
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Para efecto de cumplir obligaciones municipales se deberá señalar un domicilio dentro del territorio del municipio, y en el caso de obligaciones de carácter estatal, un domicilio dentro del territorio del Estado.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+II. El lugar o establecimiento en que se realice el hecho generador de la obligación fiscal, cuando las actividades no se realicen en forma habitual.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+III. El lugar o establecimiento que señalen ante la autoridad fiscal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+IV. La residencia que identifique la autoridad fiscal, cuando exista certeza de que es el único lugar posible de localización del contribuyente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Para efecto de cumplir obligaciones municipales se deberá señalar un domicilio fiscal dentro del territorio del municipio, y en el caso de obligaciones de carácter estatal, un domicilio fiscal dentro del territorio del Estado.
 
 > <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -805,7 +501,11 @@ Las notificaciones por estrados se harán fijando durante quince días el docume
 
 Las notificaciones de los actos previstos en este Código, se realizarán de forma personal, por edictos y/o por correo certificado de acuerdo en el procedimiento establecido en el Capítulo Tercero del Código de Procedimientos Administrativos del Estado de México; y de acuerdo a lo previsto en este Código, las relativas a estrados y correo electrónico.
 
-En el caso de notificaciones por correo electrónico se tendrá como fecha de notificación la que corresponda al acuse de recibo que se emita por parte del destinatario cuando transmita el documento digital con firma electrónica, que se emitirá al abrir el documento digital enviado, y surtirá efectos a partir del día hábil siguiente a este evento. Para los efectos de este párrafo se entenderá como firma electrónica del particular notificado, la que tenga reconocida ante la autoridad fiscal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+En el caso de notificaciones por correo electrónico, cuando la autoridad transmita un documento digital, a una dirección o portal electrónico manifestado por el contribuyente, se tendrá como fecha de notificación la que corresponda al acuse de recibo que se obtenga del destinatario en forma automática, que se formalizará al abrir el documento digital enviado, y surtirá efectos a partir del día hábil siguiente a este evento.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -817,7 +517,17 @@ Están exentos del pago de impuestos, derechos y aportaciones de mejoras, el Est
 
 Lo dispuesto en el párrafo anterior no resulta aplicable para los artículos 56 y 216-I de este Código.
 
-Para efectos de la declaración de la exención a que se refiere la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, la calidad de bien del dominio público, deberá acreditarse fehacientemente. La exención se solicitará por escrito a la autoridad fiscal, debiéndose acompañar u ofrecer las pruebas que demuestren su procedencia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Para efectos de la declaración de la exención a que se refiere la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, la calidad de bien del dominio público, deberá acreditarse fehacientemente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+La exención se solicitará por escrito a la autoridad fiscal competente, debiéndose acompañar u ofrecer las pruebas que demuestren su procedencia.
 
 No quedan comprendidos entre los bienes del dominio público los inmuebles que los organismos descentralizados utilicen para oficinas administrativas o en general para propósitos distintos a los del cumplimiento de su objeto.
 
@@ -825,79 +535,7 @@ No quedan comprendidos entre los bienes del dominio público los inmuebles que l
 
 Quienes de acuerdo con este Código, no estén obligadas a pagar contribuciones, únicamente tendrán las obligaciones de carácter administrativo que en el mismo se establezcan.
 
-### CAPÍTULO II. DIVISAS
-
-PRIMERA SECCIÓN
-
-DE JERARQUÍA
-
-SUBSECCIÓN (A)
-
-OBJETO
-
-SUBSECCIÓN (B)
-
-CARACTERÍSTICAS Y DIMENSIONES
-
-SUBSECCIÓN (C)
-
-INSIGNIAS EN EL TOCADO
-
-SUBSECCIÓN (D)
-
-INSIGNIAS EN LOS HOMBROS
-
-SUBSECCIÓN (E)
-
-INSIGNIAS DE JERARQUÍA EN MANGAS
-
-SEGUNDA SECCIÓN
-
-ESCUDOS
-
-SUBSECCIÓN (A)
-
-OBJETO
-
-SUBSECCIÓN (B)
-
-COLOCACIÓN DE ESCUDOS DE CUELLO
-
-SUBSECCIÓN (C)
-
-CARACTERÍSTICAS Y DIMENSIONES DE LOS ESCUDOS DE CUELLO
-
-SUBSECCIÓN (D)
-
-COLOCACIÓN DE LOS ESCUDOS PARA TOCADO
-
-SUBSECCIÓN (E)
-
-CARACTERÍSTICAS Y DIMENSIONES DE LOS ESCUDOS PARA TOCADO
-
-TERCERA SECCIÓN
-
-PLACAS DISTINTIVAS DE GRADO ACADÉMICO
-
-CUARTA SECCIÓN
-
-CONDECORACIONES
-
-QUINTA SECCIÓN
-
-ALAS
-
-SEXTA SECCIÓN
-
-CORDONES
-
-SÉPTIMA SECCIÓN
-
-GAFETES
-
-OCTAVA SECCIÓN
-
-BANDERAS, GUIONES Y GALLARDETES
+### CAPITULO SEGUNDO. DEL NACIMIENTO, DETERMINACION, GARANTIA Y EXTINCION DE CREDITOS FISCALES
 
 ###### Artículo 24.
 
@@ -911,57 +549,81 @@ Cualquier estipulación privada, relativa al pago de un crédito fiscal que se o
 
 El cumplimiento o exigibilidad de la obligación fiscal, no legitimará hechos o circunstancias no apegadas a la ley.
 
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 25.
 
-La determinación de los créditos fiscales corresponde a los contribuyentes, salvo disposición expresa en contrario. En caso de que la autoridad fiscal deba realizar esta determinación, los contribuyentes proporcionarán la información necesaria dentro de los quince días siguientes a la fecha de su causación.
+La determinación de los créditos fiscales corresponde a los contribuyentes, salvo disposición expresa en contrario. En caso de que la autoridad fiscal deba realizar esta determinación, los contribuyentes, proporcionarán la información necesaria dentro de los quince días siguientes contados a partir de que surta efecto la notificación del requerimiento de la autoridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 26.
 
 Los créditos fiscales se pagarán en efectivo, cheque de caja o certificado, cheques personales, transferencias de fondos a través de medios bancarios o electrónicos, tarjetas de crédito o débito y en especie vía dación en pago.
 
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
-
-El pago con cheques personales, las transferencias de fondos a través de medios bancarios o electrónicos, tarjetas de crédito o débito, la dación en pago, únicamente se aceptarán cuando así lo apruebe la autoridad fiscal. Las transferencias de fondos a través de medios electrónicos, deberán ser autorizadas previamente por la autoridad fiscal.
-
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
-
-La dación en pago estará condicionada a la aceptación por parte de la autoridad fiscal quien la admitirá únicamente cuando no haya otros bienes de más fácil realización. La resolución que se emita al efecto no constituirá instancia ni procederá recurso alguno en su contra.
-
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
-
-En el caso de los bienes inmuebles sólo se considerarán para dación en pago los que se puedan destinar a un servicio público, conforme al valor que resulte del peritaje elaborado por especialista en valuación inmobiliaria registrado ante el IGECEM. En caso de obras de arte y cultura, así como de bienes muebles de fácil realización, se aceptarán siempre y cuando se puedan incorporar al patrimonio del Estado y municipios, y su valuación se determine por perito designado por autoridad fiscal.
-
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
-
-Todos los gastos que se generen por virtud de la dación en pago, se pagarán por el contribuyente, pudiendo, en su caso, incorporarse a la liquidación total del crédito.
-
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+El pago con cheques personales, las transferencias de fondos a través de medios bancarios o electrónicos, tarjetas de crédito o débito y en especie vía dación en pago, únicamente se aceptarán cuando así lo apruebe la autoridad fiscal. Las transferencias de fondos a través de medios electrónicos, deberán ser autorizadas previamente por la autoridad fiscal.
 
 El pago con cheque se recibirá salvo buen cobro. Previa autorización de la autoridad fiscal, se aceptarán también cheques sin certificar distintos de la cuenta personal del contribuyente para el pago de créditos fiscales.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+El cheque recibido por la autoridad fiscal por concepto de pago de un crédito fiscal, deberá ser presentado al librado dentro de los quince días siguientes al de su fecha y en caso de que no sea pagado dará lugar a que la autoridad recaudadora proceda conjuntamente al cobro del monto del cheque; al de una indemnización que será del 20% del valor de éste, a la actualización y demás accesorios causados por el falso pago.
 
-El cheque recibido por la autoridad fiscal deberá ser presentado al librado dentro de los quince días siguientes al de su fecha y en caso de que no sea pagado dará lugar además del cobro del monto del cheque, a una indemnización que será del 20% del valor de éste y los accesorios legales que sean procedentes por el falso pago.
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+En caso de que el contribuyente realice el pago antes del cobro que practique la autoridad fiscal competente, éste se aplicará conforme al orden señalado en el artículo 34 de este Código, sin que dicho acto lo libere del pago de la indemnización correspondiente, la actualización y demás accesorios que se hubieren causado.
 
 Quien pague créditos fiscales recibirá de la oficina recaudadora el recibo oficial o la forma prellenada, en los que conste la impresión original de la máquina registradora, y cuando se carezca de ella, deberá constar el sello de la oficina recaudadora y el nombre y firma del cajero o del servidor público autorizado. Tratándose de los pagos efectuados en las oficinas de las instituciones de crédito o establecimientos mercantiles autorizados, bastará con que el comprobante de pago contenga la fecha en que se realizó el mismo, el importe que ampara y la línea de captura, la cual deberá ser consistente con los datos que se plasmen en la declaración o formato respectivo.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
-
 En el pago de créditos fiscales a través de transferencia de fondos, se considerará como recibo oficial del pago, el documento impreso por el contribuyente, emitido por el sistema de cobranza automatizado reconocido por la autoridad fiscal, en el que conste el número de referencia que se asigne a la operación autorizada.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 26-A.
+
+El pago en especie de un crédito fiscal vía dación en pago podrá hacerse en forma total o parcial y estará condicionado a la aceptación por parte de la autoridad fiscal competente, quien en su caso, lo admitirá únicamente cuando no existan bienes de más fácil realización y el deudor manifieste bajo protesta de decir verdad tal circunstancia.
+
+Esta forma de pago podrá efectuarse a través de servicios, bienes muebles e inmuebles, y cuando se haga en forma parcial, el remanente del importe de la contribución actualizada y sus accesorios deberá cubrirse en efectivo.
+
+La resolución que se emita al efecto no constituirá instancia ni procederá recurso alguno en su contra.
+
+En el caso de los bienes inmuebles se estará al valor que resulte del avalúo practicado por el IGECEM o por especialista en valuación inmobiliaria registrado ante el propio Instituto. Tratándose de bienes muebles, se aceptarán siempre y cuando se puedan incorporar al patrimonio del Estado o al de los municipios, y su valuación se determine por perito designado por autoridad fiscal.
+
+Todos los gastos que se generen por virtud de la dación en pago se pagarán por el contribuyente, pudiendo, en su caso, incorporarse a la liquidación total del crédito.
+
+Tratándose de servicios, la autoridad fiscal determinará los términos, las condiciones, y el monto hasta por el cual podrá aceptarse el ofrecimiento del deudor de pagar el crédito mediante la dación en pago de servicios, conforme a las reglas que al efecto publique la autoridad fiscal.
+
+La prestación de los servicios ofrecidos en dación en pago se deberá realizar en el plazo pactado, siempre que dicho plazo no exceda de 18 meses, contados a partir de la fecha de aceptación a que se refiere el primer párrafo de este artículo.
+
+La aceptación de bienes o servicios a que se refiere el presente artículo, suspenderá provisionalmente todos los actos tendientes al cobro del crédito fiscal respectivo, así como la actualización y accesorios respecto del monto cubierto por la dación en pago.
+
+En el supuesto de que el deudor no preste los servicios a las dependencias o unidades administrativas en el plazo y condiciones establecidos, o de no formalizarse la dación en pago, dará lugar a que quede sin efectos la suspensión del cobro del crédito, debiendo actualizarse el saldo remanente desde la fecha en que debió hacerse el pago y hasta que el mismo se efectúe, en términos del artículo 30 de este Código, teniéndose por no cumplida la obligación legal, para los efectos legales conducentes.
+
+Las dependencias o entidades públicas que aprovechen los servicios sujetos a las previsiones de este artículo, deberán informar periódicamente a la autoridad fiscal sobre el cumplimiento total o parcial de los mismos.
+
+La dación en pago quedará formalizada y el crédito extinguido de la siguiente manera:
+
+A). Tratándose de bienes inmuebles, a la fecha de firma de la escritura pública en que se transfiera el dominio del bien al Estado o Municipio a través de la autoridad fiscal competente, misma que se otorgará dentro de los 60 días hábiles siguientes a aquél en que se haya notificado la aceptación. Los gastos de escrituración y las contribuciones que origine la operación, serán por cuenta del deudor al que se le haya aceptado la dación en pago.
+
+B). Tratándose de bienes muebles, a la fecha de firma del acta de entrega de los mismos, que será dentro de los cinco días hábiles siguientes a aquél en que se haya notificado la aceptación.
+
+C). Tratándose de servicios, en la fecha en que éstos fueron efectivamente prestados.
+
+Los bienes muebles e inmuebles recibidos en dación en pago quedarán en custodia y administración de la Secretaría o el Municipio a partir de que ésta se formalice. Las autoridades fiscales pondrán dichos bienes a disposición de la autoridad competente para que sean incorporados al patrimonio estatal o municipal y determine su destino.
 
 ###### Artículo 27.
 
 Para determinar las contribuciones, aprovechamientos y sus accesorios se considerarán, inclusive, las fracciones del peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de uno hasta cincuenta centavos se ajusten a la unidad inmediata anterior y las que contengan cantidades de cincuenta y uno a noventa y nueve centavos, se ajusten a la unidad inmediata superior.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 28.
 
-Para el cumplimiento de obligaciones y pago de contribuciones, si el último día del plazo o en la fecha determinada, las oficinas recaudadoras permanecen cerradas durante el horario normal de labores o se trate de un día inhábil, se prorrogará el plazo hasta el siguiente día hábil. Lo dispuesto en este artículo es aplicable, inclusive cuando se autorice a las instituciones de crédito para recibir declaraciones. También se prorrogará el plazo hasta el siguiente día hábil cuando sea viernes el último día del plazo en que se deban presentar declaraciones.
+Para el cumplimiento de obligaciones y pago de contribuciones, si el último día del plazo o en la fecha determinada, las oficinas recaudadoras permanecen cerradas durante el horario normal de labores, se trate de un día inhábil, o no exista el mismo día en el mes de calendario correspondiente se prorrogará el plazo hasta el siguiente día hábil. Lo dispuesto en este artículo es aplicable, inclusive cuando se autorice a las instituciones de crédito para recibir declaraciones. También se prorrogará el plazo hasta el siguiente día hábil cuando sea viernes el último día del plazo en que se deban presentar declaraciones.
 
 ###### Artículo 29.
 
@@ -971,7 +633,17 @@ Los créditos fiscales se pagarán en la fecha o dentro del plazo señalado en l
 
 Los retenedores de contribuciones o las personas a quienes las leyes impongan la obligación de retenerlos periódicamente, los enterarán a más tardar el día diez del mes de calendario inmediato posterior al de la terminación del periodo de la retención o causación.
 
-El pago de derechos deberá hacerse, previamente a la prestación de los servicios, salvo los casos en que expresamente se señale otro plazo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+El pago de derechos, se sujetará a cualquiera de los siguientes supuestos:
+
+I. Su entero deberá ser previo a la prestación de los servicios.
+
+II. En el plazo que expresamente se señale en este Código.
+
+III. A más tardar el 31 de enero de cada año, para aquellos de causación cuya periodicidad de pago sea anual, cuando no se exprese época de pago.
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -983,15 +655,21 @@ El Fisco Estatal y Municipal tendrán preferencia para recibir el pago de crédi
 
 A). De los saldos garantizados con embargo o hipoteca que hayan sido inscritos en el Registro Publico de la Propiedad con anterioridad a la fecha de notificación del crédito fiscal originario, o del reconocimiento expreso del contribuyente mediante declaración en la que haya reconocido el adeudo.
 
-B). Del monto determinado en sentencia firme de pensiones alimenticias.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+B). Del monto determinado provisionalmente o en sentencia firme de pensiones alimenticias.
 
 C). De los adeudos por el pago de sueldos, salarios o indemnizaciones a los trabajadores, devengados en el último año, siempre y cuando exista laudo condenatorio firme.
 
 D). De los créditos fiscales federales notificados con anterioridad a los estatales o municipales.
 
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-La vigencia de los adeudos antes citados se deberán acreditar mediante certificado de gravamen expedido por el Registro Público de la Propiedad, dentro de los tres meses anteriores a la fecha de la solicitud de declaratoria y con la constancia del monto total de lo adeudado; con la sentencia interlocutoria en donde se ordene la ejecución de la sentencia definitiva de alimentos; o bien, por el auto en que se ordene dar trámite al incidente que señalan los artículos 979 al 981 de la Ley Federal del Trabajo, según corresponda a cada caso.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+La vigencia de los adeudos antes citados se deberá acreditar mediante certificado de gravamen expedido por el Instituto de la Función Registral, dentro de los tres meses anteriores a la fecha de la solicitud de declaratoria y con la constancia del monto total de lo adeudado; con la resolución judicial que determine la obligación de pagar alimentos, ya sean provisionales o definitivos y con la constancia de cumplimiento de dicha obligación; o bien, por el auto en que se ordene dar trámite al incidente que señalan los artículos 979 al 981 de la Ley Federal del Trabajo, según corresponda a cada caso.
 
 > <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -1003,11 +681,29 @@ Cuando en el procedimiento administrativo de ejecución concurran contra un mism
 
 La falta de pago de un crédito fiscal en la fecha o dentro del plazo fijado por este Código, dará lugar a que sea exigible mediante el procedimiento administrativo de ejecución.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizará por el transcurso del tiempo y con motivo de los cambios de precios aplicando el factor que se establezca en la correspondiente Ley de Ingresos por cada mes o fracción que transcurra desde que debió realizarse el pago y hasta que el mismo se efectúe, además deberán pagarse recargos en concepto de indemnización al fisco por la falta de pago oportuno. Dichos recargos se calcularán aplicando a la contribución o aprovechamiento actualizado la tasa que resulte de sumar la tasa mensual que fije la correspondiente Ley de Ingresos para cada uno de los meses en cada uno de los años que transcurran en el periodo referido en el presente artículo, excluyendo los propios recargos, la indemnización a que se refiere el séptimo párrafo del artículo 26 de este Código, los gastos de ejecución y las multas por infracciones a las disposiciones fiscales.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-Los recargos se causarán hasta por cinco años por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
+Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizará por el transcurso del tiempo y con motivo de los cambios de precios aplicando la tasa que resulte de sumar el porcentaje mensual de actualización que fije la correspondiente Ley de Ingresos, por cada mes o fracción que transcurra desde el día siguiente al vencimiento del plazo para pagar la contribución o aprovechamiento, hasta que el mismo se efectúe.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Además deberán pagarse recargos en concepto de indemnización al fisco por la falta de pago oportuno. Dichos recargos se calcularán aplicando a la contribución o aprovechamiento actualizado, la tasa que resulte de sumar la tasa mensual que fije la correspondiente Ley de Ingresos para cada uno de los meses en cada uno de los años que transcurran en el periodo referido en el presente artículo, excluyendo los propios recargos, la indemnización a que se refiere el cuarto párrafo del artículo 26 de este Código, los gastos de ejecución y las multas por infracciones a las disposiciones fiscales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+La causación de la actualización y los recargos inicia a partir del día siguiente al del vencimiento del plazo para realizar el pago de la contribución o aprovechamiento de que se trate.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Los recargos se causarán hasta por cinco años por cada mes o fracción que transcurra a partir del día siguiente a la fecha del vencimiento del periodo de pago del plazo para pagar y hasta que el mismo se efectúe, salvo en los casos a que se refiere el artículo 53 de este Código; supuestos en los cuales los recargos se causarán hasta en tanto no se extingan las facultades de la autoridad para determinar las contribuciones o aprovechamientos omitidos y sus accesorios, y se calcularán sobre el total del crédito fiscal.
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -1041,7 +737,9 @@ III. Resulte necesario salvaguardar las condiciones de seguridad, eficiencia y c
 
 En el caso de la fracción II, la facultad de ambas autoridades para otorgar dichos beneficios, se limita exclusivamente al pago de accesorios.
 
-Asimismo podrán dictar las medidas relacionadas con la administración, control, forma de pago y procedimientos señalados en este Código, sin variar las disposiciones relacionadas con el sujeto, el objeto, la base, la tasa o la tarifa de las contribuciones y aprovechamientos, las infracciones o las sanciones de las mismas, a fin de facilitar el cumplimiento de las obligaciones de los contribuyentes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO TERCER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Las resoluciones que conforme a este artículo se dicten, deberán señalar las contribuciones o aprovechamientos a que se refieren, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplir los beneficiarios.
 
@@ -1059,17 +757,21 @@ Durante el transcurso de la prórroga se causarán los recargos sobre saldos ins
 
 El saldo que se utilizará para el cálculo de las parcialidades, será el que resulte de restar el 20% del pago inicial al total del adeudo, y a dicho saldo se le aplicarán los recargos por prórroga sobre saldos insolutos, de conformidad a las tasas que se establezcan en la correspondiente Ley de Ingresos. La primera y subsecuentes parcialidades se cubrirán en montos iguales y en forma mensual y sucesiva, debiéndose enterar la primera de ellas el mismo día del mes siguiente a aquél en que se entere el 20% como pago inicial y las posteriores el mismo día de los meses subsecuentes, siendo aplicable el contenido del artículo 28 de este ordenamiento.
 
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Cuando no se pague alguna parcialidad en la fecha establecida, el contribuyente estará obligado a pagar el monto de la parcialidad actualizada y sobre dicho monto actualizado pagará recargos por extemporaneidad. El cálculo de la actualización y los recargos por extemporaneidad se realizará en los términos del artículo 30 de este Código por el número de meses o fracción de mes que transcurra desde la fecha en que se debió realizar el pago y hasta que éste se efectúe.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Cuando no se pague alguna parcialidad en la fecha establecida, el contribuyente estará obligado a pagar el monto de la parcialidad actualizada y sobre dicho monto actualizado pagará recargos por extemporaneidad. El cálculo de la actualización y los recargos por extemporaneidad se realizará en los términos del artículo 30 de este Código por el número de meses o fracción de mes que transcurra a partir del día siguiente a la fecha en que se debió realizar el pago y hasta que éste se efectúe.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 Tratándose del pago diferido, el monto a diferir será el resultado de restar el pago correspondiente al 20% señalado en el primer párrafo de este artículo al total del monto adeudado, dicho monto se cubrirá en una sola exhibición a más tardar en la fecha de pago especificada por el propio deudor, incluyendo los recargos por prórroga antes citados.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-No procederá la autorización del pago ya sea diferido o en parcialidades, cuando el crédito determinado a cargo de los contribuyentes derive de contribuciones retenidas o recaudadas, así como las responsabilidades administrativas resarcitorias.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+No procederá la autorización del pago ya sea diferido o en parcialidades, cuando el crédito determinado a cargo de los contribuyentes derive de contribuciones retenidas o recaudadas, así como las responsabilidades administrativas.
 
 > <small>(ADICIONADO, G.G. 29 DE MAYO DE 2007)</small>
 
@@ -1143,9 +845,11 @@ A). Bienes muebles, por el 75% de su valor de avalúo.
 
 No serán admisibles como garantía, los bienes que ya se encuentren embargados por autoridades fiscales, judiciales o en el dominio de los acreedores. Los de procedencia extranjera, sólo se admitirán cuando se compruebe su legal estancia en el país.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-B). Bienes inmuebles, por el 75% del valor de avalúo o catastral. Para estos efectos se deberá acompañar a la solicitud respectiva, el certificado del Registro Público de la Propiedad en el que se acredite que está libre de gravamen y que no tiene afectación urbanística o agraria, documento que será aceptado siempre y cuando a la fecha de presentación el mismo no tenga más de tres meses de que fue expedido. En el supuesto de que el inmueble reporte gravámenes, la suma del monto total de éstos y el interés fiscal a garantizar no podrá exceder del 75% del valor.
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+B). Bienes inmuebles, por el 75% del valor de avalúo o catastral. Para estos efectos se deberá acompañar a la solicitud respectiva, el certificado del Instituto de la Función Registral en el que se acredite que está libre de gravamen y que no tiene afectación urbanística o agraria, documento que será aceptado siempre y cuando a la fecha de presentación el mismo no tenga más de tres meses de que fue expedido. En el supuesto de que el inmueble reporte gravámenes, la suma del monto total de éstos y el interés fiscal a garantizar no podrá exceder del 75% del valor de avalúo.
 
 En la hipoteca, el otorgamiento de la garantía se hará en escritura pública que deberá inscribirse en el Registro Público de la Propiedad y contener los datos relacionados con el crédito fiscal. El otorgante podrá garantizar con la misma hipoteca los recargos futuros o ampliar la garantía cada año.
 
@@ -1157,7 +861,19 @@ IV. Tratándose del embargo en la vía administrativa, se sujetará a lo previst
 
 A). Se practicará a solicitud del contribuyente, quien deberá acompañar los documentos que señale la forma oficial correspondiente y a falta de ésta en escrito libre que cumpla con los requisitos que refiere el artículo 116 del Código de Procedimientos Administrativos del Estado de México y se realizará siguiendo los lineamientos que señala el Título Décimo Tercero del Código Financiero.
 
-B). El contribuyente señalará los bienes en que deba trabarse el embargo, debiendo ser suficientes para garantizar el interés fiscal, siempre que en su caso se refiera a cualquiera de las formas que se establecen en el artículo 35 de este Código, y en los porcentajes que refiere el presente artículo. No serán susceptibles de embargo los bienes que se encuentran en los supuestos a que se refieren los incisos A), B) Y C) del artículo 385 de este Código.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+B). El contribuyente señalará los bienes en que deba trabarse el embargo, debiendo ser suficientes para garantizar el interés fiscal, los cuales se aceptarán bajo las siguientes condiciones:
+
+I. Bienes muebles, por el 75% de su valor de avalúo.
+
+No serán admisibles como garantía, los bienes que ya se encuentren embargados por autoridades fiscales, judiciales o en el dominio de los acreedores. Los de procedencia extranjera, sólo se admitirán cuando se compruebe su legal estancia en el país.
+
+2. Bienes inmuebles y negociaciones, por el 75% del valor de avalúo o avalúo pericial, según corresponda. Para estos efectos se deberá acompañar a la solicitud respectiva, el certificado del Instituto de la Función Registral en el que se acredite que está libre de gravamen y que no tiene afectación urbanística o agraria; documento que será aceptado siempre y cuando a la fecha de presentación el mismo no tenga más de tres meses de que fue expedido. En el supuesto de que el inmueble o la negociación reporte gravámenes, la suma del monto total de éstos y el interés fiscal a garantizar no podrá exceder del 75% del valor de avalúo.
+
+No serán susceptibles de embargo los bienes que se encuentran en los supuestos a que se refieren los incisos A) y C) del artículo 385 de este Código.
 
 C). Tratándose de personas físicas el depositario de los bienes será el propietario y en el caso de personas jurídico colectivas el representante legal, quien podrá ser removido libremente de su cargo por la autoridad recaudadora.
 
@@ -1165,7 +881,11 @@ D). Deberán cubrirse, con anticipación a la práctica de la diligencia de emba
 
 V. Para que un tercero asuma la obligación de garantizar el interés fiscal, deberá sujetarse a lo siguiente:
 
-A). Manifestará su aceptación mediante escrito firmado ante la autoridad recaudadora que tenga encomendado el cobro del crédito fiscal, identificándose a satisfacción de la misma, ante la presencia de dos testigos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+A). Manifestará su aceptación mediante escrito firmado ante la autoridad recaudadora que tenga encomendado el cobro del crédito fiscal, identificándose a satisfacción de la misma, ante la presencia de dos testigos, señalando el tipo de garantía que otorga como responsable solidario.
 
 > <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -1267,55 +987,89 @@ XIII. Las sociedades nacionales de crédito, instituciones de crédito y cualqui
 
 XIV. Los copropietarios o los participantes en derechos mancomunados, respecto de los créditos fiscales derivados del bien o derecho en común y hasta por el valor de éste. Por el excedente de los créditos fiscales cada uno quedará obligado en la proporción que le corresponda en el bien o derecho mancomunado.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-XV. Los consignatarios, comisionistas, adquirentes y enajenantes, que intervengan en la venta o adquisición de vehículos automotores. Así como servidores públicos que autoricen altas, bajas, cambios de placas o cambios de propietario, sin que se acredite el pago de las contribuciones.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+XV. Tratándose del Impuesto sobre la Adquisición de Vehículos Automotores Usados, los consignatarios y/o comisionistas, en su caso, así como los adquirientes y enajenantes, que intervengan en la venta o adquisición de vehículos automotores, que no acrediten el pago de las contribuciones ante la autoridad fiscal.
 
-Para el caso de consignatarios, comisionistas y enajenantes, quedarán exceptuados de la responsabilidad de pago si informan a la autoridad fiscal la venta de vehículos automotores usados en un plazo de diecisiete días siguientes al evento, conforme al procedimiento y en el formato que publique la autoridad fiscal.
+Los consignatarios, comisionistas y enajenantes, sólo quedarán exceptuados de la responsabilidad de pago si avisan a la autoridad fiscal la venta de vehículos automotores usados dentro de un plazo de diecisiete días siguientes al evento, conforme al procedimiento y en el formato de aviso que señale la autoridad fiscal en los términos de este Código.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+La excepción de responsabilidad es respecto de las obligaciones fiscales futuras, a partir de la presentación del aviso respectivo.
 
-XVI. Los propietarios o poseedores de inmuebles en que se coloquen, instalen, armen o construyan anuncios publicitarios respecto del Impuesto sobre Anuncios Publicitarios.
+En el caso de extemporaneidad en la presentación del aviso, la responsabilidad cesará a partir de la fecha de su presentación.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-XVII. Los propietarios o poseedores de muebles o estructuras en que se coloquen, instalen, armen o construyan anuncios publicitarios, así como las personas físicas o jurídicas colectivas cuyo objeto o giro sea la publicidad de bienes o servicios, respecto del Impuesto sobre Anuncios Publicitarios.
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+XVI. Por lo que hace al Impuesto sobre Tenencia o Uso de Vehículos Automotores, quienes adquieran y enajenen vehículos, por los adeudos que éstos reportaren en el momento de la adquisición o venta.
 
-XVIII. Los notarios públicos, respecto de los impuestos Predial y sobre Adquisición de Inmuebles y otras Operaciones Traslativas de Dominio de Inmuebles, cuando autoricen definitivamente escrituras, sin que previamente verifiquen el pago de los mismos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-XIX. Los propietarios de negociaciones que permitan en su local la instalación de cualquier tipo de máquinas o aparatos de recreación y azar accionadas con monedas, fichas o cualquier otro mecanismo respecto del impuesto que se cause por este concepto.
+XVII. Los propietarios, tenedores, usuarios, adquirientes, enajenantes, así como los consignatarios y/o comisionistas, en su caso, por los derechos de control vehicular.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XX. Los depositarios de embargos por los bienes que les fueron dejados en custodia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-XXI. Los propietarios de inmuebles que permitan en los mismos la instalación y explotación de cualquier tipo de estacionamiento público.
+XVIII. Los propietarios o poseedores de inmuebles en que se coloquen, instalen, armen o construyan anuncios publicitarios respecto del Impuesto sobre Anuncios Publicitarios.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XIX. Los propietarios o poseedores de muebles o estructuras en que se coloquen, instalen, armen o construyan anuncios publicitarios, así como las personas físicas o jurídico colectivas cuyo objeto o giro sea la publicidad de bienes o servicios, respecto del Impuesto sobre Anuncios Publicitarios.
 
 > <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-XXII. Los propietarios de inmuebles que permitan en los mismos la instalación y explotación de diversiones, juegos mecánicos, espectáculos públicos, tianguis comerciales y otros similares.
+XX. Los notarios públicos, respecto de los impuestos Predial y sobre Adquisición de Inmuebles y otras Operaciones Traslativas de Dominio de Inmuebles, cuando autoricen definitivamente escrituras, sin que previamente verifiquen el pago de los mismos.
 
 > <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-XXIII. Los propietarios o poseedores de inmuebles, en los cuales se explote el servicio de hospedaje, en cualquiera de sus modalidades, respecto del impuesto que se cause por este concepto.
+XXI. Los propietarios de negociaciones que permitan en su local la instalación de cualquier tipo de máquinas o aparatos de recreación y azar accionadas con monedas, fichas o cualquier otro mecanismo respecto del impuesto que se cause por este concepto.
 
 > <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-XXIV. Los albaceas, por los créditos fiscales que deje de pagar el contribuyente, hasta por el total de la masa hereditaria.
+XXII. Los depositarios de embargos por los bienes que les fueron dejados en custodia.
 
-> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-XXV. Las personas físicas y jurídicas colectivas, respecto de aquellas con las que contraten la prestación de servicios consistente en la dotación de trabajadores, siempre que el trabajo personal se preste dentro del territorio del Estado, por el incumplimiento del directamente obligado al pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal en términos de este Código.
+XXIII. Los propietarios de inmuebles que permitan en los mismos la instalación y explotación de cualquier tipo de estacionamiento público.
+
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+XXIV. Los propietarios de inmuebles que permitan en los mismos la instalación y explotación de diversiones, juegos mecánicos, espectáculos públicos, tianguis comerciales y otros similares.
+
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+XXV. Los propietarios o poseedores de inmuebles, en los cuales se explote el servicio de hospedaje, en cualquiera de sus modalidades, respecto del impuesto que se cause por este concepto.
+
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+XXVI. Los albaceas, por los créditos fiscales que deje de pagar el contribuyente, hasta por el total de la masa hereditaria.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XXVII. Las personas físicas o jurídico colectivas que contraten la prestación de servicios, cuando las prestadoras no cumplan con su obligación en el entero del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal dentro del plazo establecido en este Código.
 
 La responsabilidad solidaria a que se refiere esta fracción, será hasta por el monto de las contraprestaciones efectuadas por dichos servicios sin incluir el Impuesto al Valor Agregado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XXVIII. Las autoridades fiscales competentes, que autoricen el registro de vehículos, permisos provisionales, matriculas, altas, cambios o bajas de placas o efectúen el refrendo de los mismos sin haberse cerciorado de que no existen adeudos por estos conceptos, salvo que el contribuyente acredite que se encuentra liberado de la obligación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+En los supuestos de las fracciones IV, VI y XII, a que se refiere este artículo, el plazo para su determinación se extinguirá en cinco años contados a partir de que el contribuyente no sea localizado y/o no cuente con bienes para asegurar la recuperación del crédito fiscal, o que teniéndolos no sean suficientes.
 
 La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas.
 
@@ -1367,15 +1121,21 @@ El término para la prescripción, se interrumpe con cada gestión de cobro que 
 
 Cuando se suspenda el procedimiento administrativo de ejecución, también se interrumpe el plazo de la prescripción. Igualmente se interrumpirá el plazo a que se refiere este artículo cuando el contribuyente desocupe su domicilio fiscal sin el aviso de cambio, cuando lo señale de manera incorrecta, o sea falso el mismo, continuando el cómputo del plazo a partir de que el contribuyente sea localizado.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 44.
 
-Los contribuyentes obligados a pagar mediante declaraciones podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución, incluyendo sus accesorios. Al efecto, bastará que efectúen la compensación de dichas cantidades actualizadas, conforme al factor que para tal efecto se señale en la Ley de Ingresos correspondiente, por cada mes que transcurra sin hacerse el pago, hasta aquel en que la compensación se realice. Los contribuyentes presentarán el aviso de compensación, dentro de los cinco días siguientes a aquél en el que la misma se haya efectuado, acompañada de la documentación que al efecto se señale mediante reglas de carácter general que emitirá la autoridad fiscal competente, mismas que habrán de publicarse en el Periódico Oficial. Los contribuyentes que hayan ejercido la opción y tuvieren remanente una vez efectuada la compensación, podrán solicitar su devolución.
+Los contribuyentes obligados a pagar mediante declaraciones podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución, incluyendo sus accesorios. Al efecto, bastará que efectúen la compensación de dichas cantidades actualizadas, conforme al porcentaje que para tal efecto se señale en la Ley de Ingresos correspondiente, por cada mes que transcurra desde que se presentó la declaración que manifiesta el saldo a favor o se hizo el pago de lo indebido, hasta aquel en que la compensación se realice. Los contribuyentes presentarán el aviso de compensación, dentro de los cinco días siguientes a aquél en el que la misma se haya efectuado, acompañada de la documentación que al efecto se señale mediante reglas de carácter general que emitirá la autoridad fiscal competente, mismas que habrán de publicarse en el Periódico Oficial. Los contribuyentes que hayan ejercido la opción y tuvieren remanente una vez efectuada la compensación, podrán solicitar su devolución.
 
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Si las cantidades que tengan a su favor los contribuyentes no derivan de la misma contribución, sólo se podrán compensar en los casos en que así lo determine la autoridad fiscal.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Si las cantidades que tengan a su favor los contribuyentes, no derivan de la misma contribución, sólo podrán compensar en los casos en que así lo determine la autoridad fiscal previa solicitud y resolución de autorización.
 
 No se causarán recargos cuando el contribuyente compense el saldo a su favor, hasta por el monto de dicho saldo, siempre que éste se haya originado con anterioridad a la fecha en que debió pagarse la contribución de que se trate.
 
@@ -1409,7 +1169,7 @@ La cancelación de créditos fiscales, procederá cuando sea incosteable o impos
 
 La cancelación de los créditos a que se refiere este artículo no libera de su pago.
 
-### CAPÍTULO III. BORDADOS
+### CAPITULO TERCERO. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES
 
 ###### Artículo 46.
 
@@ -1431,9 +1191,9 @@ D). La declaración de caducidad de las facultades de la autoridad.
 
 E). La autorización del pago mediante prórroga o parcialidades para regularizar su situación fiscal.
 
-> <small>(ADICIONADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-F). La autorización de pago concentrado del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal.
+F). (DEROGADO, G.G. 18 DE DICIEMBRE DE 2008)
 
 III. Presentar declaraciones complementarias.
 
@@ -1457,9 +1217,11 @@ Son obligaciones de los contribuyentes:
 
 I. Inscribirse en los registros fiscales en un plazo que no excederá de treinta días a partir de la fecha en que se genere la obligación fiscal, utilizando las formas oficiales.
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II. Señalar el domicilio fiscal en el que realicen actividades que generen obligaciones fiscales e informar de los cambios a éste. Cuando en las formas de declaración se prevea el señalamiento de cambio de domicilio fiscal y así se manifieste, se considerará presentando el aviso a que se refiere este artículo al presentar dicha declaración ante la autoridad recaudadora correspondiente.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+II. Señalar el domicilio fiscal en el que realicen actividades que generen obligaciones fiscales que será único para aquellos contribuyentes que cuenten con una o más sucursales e informar de los cambios a éste. Cuando en las formas de declaración se prevea el señalamiento de cambio de domicilio fiscal y así se manifieste, se considerará presentado el aviso a que se refiere este artículo al presentar dicha declaración ante la autoridad recaudadora correspondiente.
 
 III. Consignar en las declaraciones, manifestaciones y avisos previstos en este Código, la clave de registro asignada por la autoridad fiscal.
 
@@ -1477,6 +1239,12 @@ VIII. Llevar un registro en que se identifique el cumplimiento de cada una de su
 
 IX. Conservar en su domicilio fiscal la documentación comprobatoria del cumplimiento de obligaciones fiscales, durante el período de cinco años, contados a partir de la fecha en que presentaron o debieron haberse presentado las declaraciones o avisos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+El plazo para conservar la documentación respecto de aquellos conceptos en los cuales se hubiese promovido algún recurso o juicio, se computará a partir de la fecha en la que quede firme la resolución correspondiente.
+
 > <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 X. Facilitar a las autoridades catastrales y fiscales el ejercicio de sus facultades de comprobación, cobro y los trabajos para la instalación de instrumentos de medición.
@@ -1485,17 +1253,29 @@ X. Facilitar a las autoridades catastrales y fiscales el ejercicio de sus facult
 
 XI. Proporcionar a las autoridades fiscales, cuando así se lo soliciten, la información sobre sus clientes y proveedores, así como aquélla relacionada con su contabilidad que tengan en los medios o registros electrónicos.
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-XII. Presentar el aviso de suspensión, reanudación, baja de actividades, apertura de establecimiento o cambio de domicilio para los impuestos previstos en este Código, en un plazo que no excederá de diez días a partir de la fecha en que se dé el acto.
+XII. Presentar el aviso de suspensión, reanudación, baja de actividades, apertura y cierre de establecimiento o cambio de domicilio para los impuestos previstos en este Código, en un plazo que no excederá de diez días a partir de la fecha en que se dé el acto.
+
+En el caso de suspensión de actividades se deberá señalar un domicilio fiscal para efecto del cumplimiento de sus obligaciones fiscales.
+
+En el caso de cambio de domicilio fiscal una vez iniciadas las facultades de comprobación con el contribuyente, sin que se le haya notificado la resolución a que se refiere el penúltimo párrafo de las fracciones I y III del artículo 48 de este Código, el contribuyente deberá presentar el aviso de cambio de domicilio con cinco días de anticipación a tal situación. La autoridad fiscal podrá considerar como domicilio fiscal del contribuyente aquél en el que se verifique alguno de los supuestos establecidos en el artículo 22 de este Código.
 
 > <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 XIII. Dictaminar la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal por medio de Contador Público autorizado, en los términos de este Código y de conformidad con las reglas de carácter general que al efecto expidan las autoridades fiscales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XIV. Presentar aviso de baja del padrón vehicular de la entidad, en un término que no exceda de 30 días, cuando por siniestro o robo haya dejado de ser de su propiedad el vehículo.
+
+La presentación del aviso no libera de contribuciones pendientes de pago.
+
 > <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-XIV. Las demás que establezca este Código.
+XV. Las demás que establezca este Código.
 
 > <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -1509,49 +1289,59 @@ El registro a que se refiere la fracción VIII de este artículo incluirá los r
 
 En los casos en los que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los registros contables, cuentas especiales, documentos, papeles de trabajo, libros y registros sociales señalados en el párrafo precedente, por los equipos y sistemas electrónicos de registro fiscal y sus registros, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales.
 
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 47-A.
 
-Para los efectos de la fracción XIII del artículo 47 del Código, las personas físicas y jurídicas colectivas, que estén obligadas a pagar el Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, deberán dictaminar su determinación y pago por el ejercicio fiscal inmediato anterior cuando se ubiquen en cualquiera de los supuestos que se mencionan para cada una de ellas, en los términos siguientes:
+Las personas físicas y jurídico colectivas que estén obligadas a determinar el Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, deberán dictaminar su determinación y pago por el ejercicio fiscal inmediato anterior, por medio de Contador Público autorizado, cuando en dicho ejercicio fiscal se ubiquen en cualquiera de los supuestos que se mencionan para cada una de ellas, en los términos siguientes:
 
-I. Las que en el ejercicio fiscal inmediato anterior hayan realizado pagos por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado a más de 200 trabajadores en promedio mensual.
+I. Las que hayan realizado pagos por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado a más de 200 trabajadores en promedio mensual.
 
-II. Las que en el ejercicio fiscal inmediato anterior hayan realizado pagos por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado superiores a $400,000.00 en promedio mensual.
+II. Las que hayan realizado pagos por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado superiores a $400,000.00 en promedio mensual.
 
-III. Las que se encuentren obligadas a retener y enterar el impuesto en términos del segundo párrafo del artículo 56 de este Código, cuando se ubiquen en alguno de los supuestos previstos en las fracciones I y II de este artículo.
+III. Las que se encuentren obligadas a retener y enterar dicho impuesto en términos del presente Código, que hayan contratado servicios que generen la prestación de trabajo personal dentro del territorio del Estado por más de 200 trabajadores o cuando la base para la determinación de dicha retención haya sido superior a $400,000.00, en promedio mensual.
 
-IV. Las que formen parte de la Administración Pública estatal y municipal.
+IV. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008)
 
-V. Las entidades de la Administración Pública Federal a que se refiere la Ley Federal de las Entidades Paraestatales.
+V. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008)
 
-VI. Las integrantes del sistema financiero. Para estos efectos, se consideran integrantes del sistema financiero a las instituciones de crédito, de seguros y de fianzas, sociedades controladoras de grupos financieros, almacenes generales de depósito, administradoras de fondos para el retiro, arrendadoras financieras, uniones de crédito, sociedades financieras populares, sociedades de inversión de renta variable, sociedades de inversión en instrumentos de deuda, empresas de factoraje financiero, casas de bolsa, casas de cambio y sociedades financieras de objeto limitado, que sean residentes en México o en el extranjero.
+VI. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008)
 
-Asimismo, se considerarán integrantes del sistema financiero a las sociedades financieras de objeto múltiple a las que se refiere la Ley General de Organizaciones y Actividades Auxiliares del Crédito que tengan cuentas y documentos por cobrar derivados de las actividades que deben constituir su objeto social principal, conforme a lo dispuesto en dicha ley, que representen al menos el setenta por ciento de sus activos totales, o bien, que tengan ingresos derivados de dichas actividades y de la enajenación o administración de los créditos otorgados por ellas, que representen al menos el setenta por ciento de sus ingresos totales. Para los efectos de la determinación del porcentaje del setenta por ciento, no se considerarán los activos o ingresos que deriven de la enajenación a crédito de bienes o servicios de las propias sociedades, de las enajenaciones que se efectúen con cargo a tarjetas de crédito o financiamientos otorgados por terceros.
+VII. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008)
 
-VII. Las controladoras por cada una de sus controladas. Para estos efectos se considera controladora a la persona jurídica colectiva residente en México que posea más del cincuenta por ciento de las acciones con derecho a voto de otra u otras personas jurídicas colectivas controladas, pero que en ningún caso sea propiedad de otra u otras en ese mismo porcentaje, salvo que éstas sean residentes en algún país con el que se tenga acuerdo amplio de intercambio de información.
+VIII. Las que se hayan fusionado, por el ejercicio fiscal en que ocurra dicho acto. La persona jurídica colectiva que subsista o que surja con motivo de la fusión, se deberá dictaminar además por el ejercicio fiscal siguiente.
 
-Asimismo, se considera controlada a la persona jurídica colectiva en la cual más del cincuenta por ciento de sus acciones con derecho a voto sean propiedad, ya sea en forma directa, indirecta o de ambas formas, de una controladora.
+IX. Las que se hayan escindido, tanto la escindente como las escindidas, por el ejercicio fiscal en que ocurra la escisión y por el siguiente. Lo anterior no será aplicable a la escindente cuando ésta desaparezca con motivo de la escisión, salvo por el ejercicio fiscal en que ocurrió la escisión.
 
-VIII. Las que se fusionan, por el ejercicio fiscal en que ocurra dicho acto. La persona jurídica colectiva que subsista o que surja con motivo de la fusión, se deberá dictaminar además por el ejercicio fiscal siguiente.
+X. Las que hayan entrado en liquidación, por el ejercicio fiscal en que esto ocurra, así como por el ejercicio fiscal en que la sociedad esté en liquidación.
 
-IX. Las que se escindan, tanto la escindente como las escindidas, por el ejercicio fiscal en que ocurra la escisión y por el siguiente. Lo anterior no será aplicable a la escindente cuando esta desaparezca con motivo de la escisión, salvo por el ejercicio fiscal en que ocurrió la escisión.
+Las personas físicas y jurídico colectivas que no estén obligadas a dictaminar la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal conforme a este artículo, podrán optar por dictaminarse respecto del ejercicio fiscal inmediato anterior presentando oportunamente ante la autoridad fiscal competente el aviso de dictamen a que se refiere el primer párrafo del artículo 47 B de este Código, en cuyo caso les serán aplicables las mismas disposiciones fiscales atribuibles a los contribuyentes obligados. No se dará efecto legal alguno al ejercicio de la opción de dictaminarse fuera del plazo establecido en el primer párrafo del artículo 47 B de este Código, ni cuando dicha opción se ejerza después de notificado al contribuyente el inicio del ejercicio de las facultades de comprobación de las autoridades fiscales, respecto del impuesto y el ejercicio fiscal que se pretenda dictaminar.
 
-X. Las que entren en liquidación por el ejercicio fiscal en que esto ocurra, así como por el ejercicio fiscal en que la sociedad esté en liquidación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Las personas físicas y jurídicas colectivas que no estén obligadas a dictaminar la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal conforme a este artículo, podrán optar por hacerlo presentando ante la autoridad fiscal competente el aviso de dictamen a que se refiere el primer párrafo del artículo 47 B de este Código, quedando sujetos con dicha manifestación a los mismos términos aplicables a los contribuyentes obligados, pudiendo renunciar a la presentación del dictamen por el que hayan optado, siempre que comuniquen a la autoridad fiscal competente los motivos que tengan para ello a más tardar el último día del mes en que deban de presentarlo. No se dará efecto legal alguno al ejercicio de la opción de dictaminarse fuera del plazo establecido en el primer párrafo del artículo 47 B de este Código, ni cuando dicha opción se ejerza después de notificado al contribuyente el inicio del ejercicio de las facultades de comprobación de las autoridades fiscales respecto del impuesto y el ejercicio fiscal que se pretenda dictaminar.
-
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 47-B.
 
-Las personas físicas y jurídicas colectivas que estén obligadas a dictaminarse en los términos del artículo anterior y las que opten por hacerlo, deberán presentar aviso de dictamen ante la autoridad fiscal competente a más tardar el último día del mes de mayo del ejercicio fiscal siguiente al que se dictaminará.
+Las personas físicas y jurídico colectivas que estén obligadas a dictaminarse en los términos del artículo anterior y las que opten por hacerlo, deberán presentar aviso de dictamen ante la autoridad fiscal competente a más tardar el 31 de julio del ejercicio fiscal siguiente al que se dictaminará.
+
+> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 Los contribuyentes que se dictaminen, podrán sustituir en cualquier tiempo al Contador Público autorizado que hayan designado en el aviso de dictamen a que se refiere el párrafo anterior, informando a la autoridad fiscal competente de dicho cambio, expresando los motivos que se tengan y presentando en su caso las pruebas documentales pertinentes, a más tardar el último día en que concluya el plazo para la presentación oportuna del dictamen conforme al párrafo siguiente, sin que esto modifique en forma alguna el término autorizado para dicha presentación.
 
-El contribuyente deberá presentar ante la autoridad fiscal competente el dictamen sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal formulado por Contador Público autorizado, a más tardar el día 30 de junio del ejercicio fiscal inmediato siguiente a aquel que vaya a dictaminarse, de conformidad con este Código y las reglas de carácter general que al efecto expidan las autoridades fiscales y cumpliendo con los requisitos que en dichas reglas se establezcan.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+El contribuyente deberá presentar ante la autoridad fiscal competente el dictamen sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal formulado por Contador Público autorizado, a más tardar el 31 de agosto del ejercicio fiscal inmediato siguiente al que se dictaminará, de conformidad con este Código y las reglas de carácter general que al efecto expidan las autoridades fiscales, y cumpliendo con los requisitos que en dichas reglas se establezcan.
+
+> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 En todos los casos, el dictamen comprenderá la revisión sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal de un ejercicio fiscal, con independencia de que dicho ejercicio sea irregular. Para estos efectos, se considera irregular el ejercicio fiscal en el cual surja la obligación de pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal con posterioridad al primero de enero del año de calendario de que se trate, debiendo iniciarse el día en que haya surgido dicha obligación y terminarse el treinta y uno de diciembre del mismo año, o bien antes de este término en la fecha en que desaparezca dicha obligación en forma definitiva o cuando termine anticipadamente el ejercicio fiscal cuando en su caso, las personas jurídicas colectivas entren en liquidación, se fusionen o se escindan siempre que la sociedad escindente desaparezca.
+
+> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 El dictamen deberá contener:
 
@@ -1567,7 +1357,11 @@ V. La opinión profesional del Contador Público que lo formula, soportada razon
 
 VI. Notas aclaratorias.
 
+> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
 Las opiniones o interpretaciones contenidas en los dictámenes no obligan a la autoridad fiscal. La revisión de los dictámenes y demás información y documentos en relación a éstos se podrá efectuar en forma previa o simultánea al ejercicio de las otras facultades de comprobación previstas en este Código respecto de los contribuyentes o responsables solidarios.
+
+> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 En el caso de que en el dictamen se determinen diferencias de impuesto por pagar, estas deberán pagarse mediante declaraciones complementarias en términos de este Código dentro de los diez días posteriores a la presentación del dictamen.
 
@@ -1585,6 +1379,150 @@ III. El Contador Público incluya en el dictamen que formule, el informe sobre l
 
 IV. El dictamen sea formulado y presentado de conformidad con los lineamientos establecidos en este Código y con las reglas de carácter general que al efecto expidan las autoridades fiscales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Las aclaraciones a que se refiere el primer párrafo de este artículo, podrán efectuarse en una sola ocasión respecto de un mismo dictamen durante los 60 días siguientes a la fecha de presentación del dictamen respectivo, señalando las precisiones correspondientes y diferencias determinadas, así como su efecto cuantitativo sobre la determinación del impuesto, siempre que no se haya iniciado el ejercicio de facultades de comprobación de la autoridad fiscal competente relativo a la revisión de dicho dictamen y la demás información y documentación con este relacionada en términos del artículo 48 B de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Artículo 47 D.- El Contador Público que desee obtener autorización para formular dictamen fiscal a los contribuyentes sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal en los términos de este Código, deberá cubrir los siguientes requisitos:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+I. Presentar solicitud ante la autoridad fiscal competente, en la que manifieste lo siguiente:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+A). Nombre, registro federal de contribuyentes, clave única de registro de población y el número de registro asignado por la autoridad fiscal federal competente para formular el dictamen de estados financieros, en caso de contar con dicho registro.
+
+> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+B). Domicilio en el territorio del Estado para oír y recibir notificaciones por los actos que se emitan en relación con los dictámenes que formule.
+
+> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+C). El nombre, denominación o razón social del colegio profesional o asociación de contadores públicos reconocida y autorizada por la Secretaría de Educación Pública y, en su caso, de la Federación de Colegios Profesionales a la que pertenezca, al momento de presentar esta solicitud, así como el número de socio que tenga en dichas agrupaciones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+D). Manifestar bajo protesta de decir verdad que cuenta con experiencia mínima de tres años participando en la elaboración de dictámenes fiscales; que ha sido miembro de colegios profesionales o asociaciones de contadores públicos reconocidos y autorizados por la Secretaría de Educación Pública cuando menos durante los tres años previos a la presentación de esta solicitud; que no está sujeto a proceso o condenado por delitos de carácter fiscal o intencionales que ameriten pena corporal, y que no es agente o corredor de bolsa de valores en ejercicio ni funcionario o empleado del gobierno federal, estatal o municipal, o de un organismo descentralizado competente para determinar contribuciones locales o federales.
+
+> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+E). En caso de ser funcionario, socio, accionista, integrante o miembro de personas jurídicas colectivas, o en caso de tener conferido algún cargo o función en éstas o de estar vinculado de cualquier otra forma con dichas personas, deberá indicar el nombre, denominación o razón social y registro federal de contribuyentes de éstas, manifestando el vínculo que tienen entre sí y la fecha a partir de la cual se estableció dicho vínculo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Para el caso de que la persona jurídica colectiva a la que preste sus servicios profesionales, proporcione servicios de auditoría, adicionalmente deberá indicar el número de registro que ésta tenga asignado por la autoridad fiscal federal competente para los efectos del dictamen de estados financieros.
+
+> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+II. Adjuntar a la solicitud de autorización los siguientes documentos en original o copia certificada para cotejo y fotocopia simple:
+
+A). El que acredite su nacionalidad mexicana, o extranjera cuando tenga derecho a dictaminar conforme a los tratados internacionales de que México sea parte.
+
+B). Cédula profesional de Contador Público otorgada por la Secretaría de Educación Pública.
+
+C). Identificación oficial.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+D). Cédula de Identificación Fiscal o Constancia de Inscripción al Registro Federal de Contribuyentes, según corresponda.
+
+E). Comprobante del domicilio que señale dentro del territorio del Estado con fecha de expedición no mayor a dos meses.
+
+F) Constancia emitida por colegios profesionales o asociaciones de contadores públicos reconocidos y autorizados por la Secretaría de Educación Pública en la que acredite su calidad de miembro activo en alguna de dichas agrupaciones cuando menos en los últimos tres años previos a la presentación de la solicitud de autorización para formular dictamen.
+
+G). Constancia de cumplimiento de la norma de educación profesional continua o de actualización académica relativa al año previo al de la solicitud de autorización para formular dictamen, expedida por colegios profesionales o asociaciones de contadores públicos reconocidos y autorizados por la Secretaría de Educación Pública.
+
+> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+El Contador Público que sea autorizado para formular dictamen, deberá manifestar a la autoridad fiscal competente cualquier modificación a la información que le proporcione a dicha autoridad fiscal conforme a este artículo, dentro de los quince días siguientes a la fecha en que esto ocurra, presentando los documentos pertinentes que amparen la actualización de esa información.
+
+> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+Asimismo, el Contador Público autorizado deberá comprobar ante la autoridad fiscal competente dentro de los tres primeros meses de cada año, que continúa siendo miembro activo de un colegio profesional o asociación que estén reconocidos y autorizados por la Secretaría de Educación Pública y que cumplió con la norma de educación profesional continua o con su actualización académica, presentando las constancias pertinentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+El registro otorgado para formular dictamen, se dará de baja del padrón de profesionistas autorizados que tengan las autoridades fiscales cuando el Contador Público en cuestión no formule dictamen sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal en un periodo de tres años continuos, notificándosele este hecho mediante correo electrónico al colegio profesional o asociación de contadores públicos y, en su caso, a la federación de colegios profesionales a la que pertenezca. En estos casos, el Contador Público podrá solicitar a la autoridad fiscal competente que quede sin efectos dicha baja, manifestando los motivos que tenga para ello durante los 15 días siguientes a la fecha en que surta efectos la notificación correspondiente.
+
+> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+Cuando un Contador Público formule dictamen sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal en contravención a lo dispuesto en este Código, la autoridad fiscal competente lo amonestará, suspenderá temporalmente los efectos de su registro para formular dictamen o cancelará definitivamente el registro que le haya otorgado revocando la autorización correspondiente, de conformidad a la fracción III del artículo 362 Bis de este Código, previa la garantía de audiencia establecida en el artículo 129 del Código de Procedimientos Administrativos del Estado de México.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+En el caso de que un Contador Público haya obtenido la autorización y registro a que se refiere este artículo manifestando información falsa ante la autoridad fiscal competente, dicho otorgamiento quedará sin efectos a partir de que quede firme la resolución correspondiente, previa la garantía de audiencia señalada en el párrafo anterior, sin perjuicio de la sanción que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Artículo 47 E.- Estará impedido para formular dictamen sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, por afectar su independencia e imparcialidad, el Contador Público autorizado que:
+
+> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+I. Sea cónyuge, pariente por consanguinidad o civil en línea recta sin limitación de grado, transversal dentro del cuarto y por afinidad dentro del segundo, del propietario o socio principal del contribuyente a dictaminar o de algún director, administrador o empleado que tenga intervención importante en la administración.
+
+> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+II. Sea o haya sido en el ejercicio fiscal que dictamina, director, miembro del consejo de administración, administrador, comisario o empleado del contribuyente o de una empresa afiliada, subsidiaria o que esté vinculada económica o administrativamente a él, cualquiera que sea la forma como se le designe aún y cuando no se le retribuyan sus servicios.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+III. Tenga o haya tenido en el ejercicio fiscal que dictamine, alguna injerencia o vinculación económica en los negocios del contribuyente que le impida mantener su independencia e imparcialidad.
+
+> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+IV. Reciba, por cualquier circunstancia o motivo, participación directa en función de los resultados del dictamen que formule o lo emita en circunstancias en las que su emolumento dependa del resultado del mismo.
+
+> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+V. Sea agente o corredor de bolsa de valores en ejercicio.
+
+> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+VI. Sea funcionario o empleado del Gobierno Federal, Estatal o Municipal o de un organismo descentralizado competente para determinar contribuciones locales o federales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+VII. Se encuentre vinculado él o la persona jurídico colectiva a la que preste sus servicios profesionales, en cualquier otra forma con el contribuyente, que le impida su independencia e imparcialidad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Para los efectos del presente artículo, el Contador Público autorizado que formule dictamen deberá manifestar en el mismo, bajo protesta de decir verdad, que no existe impedimento alguno en los términos del presente artículo que afecte su independencia e imparcialidad respecto del contribuyente que se dictamine.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Cuando el Contador Público que formule el dictamen o las personas jurídico colectivas de las que éste sea miembro, integrante o ejerza cualquier cargo o función, hayan proporcionado al contribuyente que se dictamine directamente o a través de terceros, servicios contables, fiscales, legales, financieros, consultivos, de asesoría o de auditoría hasta por los dos ejercicios fiscales inmediatos anteriores al que se dictamina, el Contador Público en cuestión deberá manifestar en dicho dictamen el Registro Federal de Contribuyentes de quien prestó dichos servicios, la descripción de los mismos y la fecha en que éstos fueron prestados.
+
 > <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 47-F.
@@ -1597,11 +1535,69 @@ II. Las relativas al trabajo profesional, cuando:
 
 A). La planeación del trabajo y la supervisión de sus ayudantes le permitan allegarse de los elementos de juicio suficientes para fundar su dictamen.
 
-B). El estudio y evaluación del sistema de control interno del contribuyente le permita determinar el alcance y naturaleza de los procedimientos de auditoria de aplicación general que habrán de emplearse.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+B). El estudio y evaluación del sistema de control interno del contribuyente le permita determinar el alcance y naturaleza de los procedimientos de auditoría aplicables a las circunstancias que habrán de emplearse.
 
 C). Los elementos probatorios y la información presentada en el dictamen como soporte de la determinación y pago de la contribución revisada al contribuyente y en las notas aclaratorias relativas, sean suficientes y adecuados para su razonable interpretación.
 
 En caso de excepciones a lo anterior, el Contador Público deberá mencionar claramente en qué consisten, indicando los motivos y, en su caso, los fundamentos legales y conceptos que las originaron, señalando las inconsistencias o diferencias detectadas, así como su efecto cuantificado sobre la determinación y pago de la contribución revisada, emitiendo en consecuencia como resultado de su trabajo, una opinión negativa o con salvedades, según corresponda. Cuando se carezca de elementos probatorios, el Contador Público emitirá una abstención razonada de opinión sobre la información y documentación que en su conjunto tenga del contribuyente, respecto del cumplimiento de sus obligaciones fiscales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Para los efectos de este artículo, dentro del alcance que se establezca y la naturaleza de los procedimientos de auditoría generales aplicables a las circunstancias, deberá considerarse la revisión del total de los conceptos por remuneraciones al trabajo personal prestado dentro del territorio del Estado que deban integrar la base para la determinación del impuesto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Artículo 47 G.- La información cuantitativa a que se refiere la fracción III del quinto párrafo del artículo 47 B de este Código, se presentará en forma mensual e independiente según corresponda a la causación o retención de la contribución revisada; se expresará en pesos, una vez ajustados los montos que contengan fracciones de pesos a la unidad inmediata anterior o superior, ya sea que incluyan de uno hasta cincuenta centavos o de cincuenta y uno a noventa y nueve centavos, respectivamente; se referirá en forma precisa a los conceptos o parámetros y tasa que conforme a este Código resulten aplicables durante el ejercicio fiscal dictaminado para la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, misma que deberá contener y cumplir con lo siguiente:
+
+> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+I. La integración de esta información se presentará por cada uno de los establecimientos dentro del territorio del Estado, en los que se haya realizado el hecho generador o actividades que generen obligaciones fiscales respecto del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, indicando su domicilio o ubicación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+II. La información se mostrará relacionada con la descripción de la base para la determinación y el pago de la contribución revisada, ya sea como causante y/o retenedor, observando las diferencias determinadas respecto del cálculo del contribuyente dictaminado, debiendo manifestarse todos los pagos realizados en efectivo o en especie por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado, independientemente de la denominación que se les haya otorgado, así como el número total de trabajadores, informando aquellos pagos que no se consideraron en la determinación referida.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+III. En cuanto a los pagos de la contribución revisada que haya realizado el contribuyente dictaminado, deberá mencionarse su importe y el folio de la declaración o del acuse de recibo del documento digital de la declaración electrónica correspondiente que permita su identificación. Asimismo, se indicará el monto de las compensaciones y estímulos fiscales que se disminuyan del impuesto determinado a cargo del contribuyente o retenedor en el ejercicio fiscal que se dictamina, cuando dichas aplicaciones hayan sido autorizadas en caso necesario por la autoridad fiscal competente y surtan sus efectos para dicho ejercicio fiscal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+IV. En caso de que el contribuyente dictaminado tenga saldos a favor de la contribución revisada provenientes de ejercicios fiscales anteriores al que se refiera el dictamen, que se encuentren pendientes de aplicación al cierre del ejercicio fiscal inmediato anterior al que se revisa, dichos saldos y los que en su caso se generen en el ejercicio fiscal revisado, deberán manifestarse en el dictamen indicando el periodo en el que se originaron y en el que se aplicaron en caso de haberse compensado o solicitado en devolución durante el ejercicio fiscal revisado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+V. Análisis pormenorizado de la contribución revisada cuando se encuentre por pagar al cierre del ejercicio fiscal que se dictamina, el cual se presentará por cada periodo de causación o retención al que esté sujeta, una vez considerados los pagos que hayan sido cubiertos por el contribuyente o retenedor a la fecha de presentación del dictamen formulado. Cuando se haya obtenido de la autoridad fiscal competente la autorización para el pago en parcialidades de dicha contribución, esta situación deberá aclararse en el dictamen señalando los datos de identificación del documento de autorización correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+VI. Conciliación entre las cifras dictaminadas acumuladas de las remuneraciones al trabajo personal prestado dentro del territorio del Estado determinadas por el Contador Público y los saldos finales acumulados de las cuentas y subcuentas incluidas en la balanza de comprobación del contribuyente dictaminado que respalde la información contenida en sus estados financieros para efectos fiscales al último día del ejercicio fiscal revisado, resultantes de la contabilidad que esté obligado a llevar, señalándose la cuenta o subcuenta correspondiente y su número de referencia contable de conformidad con el catálogo de cuentas que tenga establecido el contribuyente en cuestión, debiendo manifestarse las aclaraciones pertinentes por las diferencias observadas. Los saldos finales referidos serán aquellos que se obtengan una vez realizados los asientos de ajuste contables que en su caso resulten pertinentes con motivo de la auditoría practicada, antes de efectuarse el asiento del cierre del ejercicio fiscal.
+
+En caso de que los saldos finales de las cuentas y subcuentas mencionadas en el párrafo inmediato anterior contengan información relativa a erogaciones realizadas por concepto de remuneraciones al trabajo personal prestado fuera del territorio del Estado, la conciliación referida deberá efectuarse únicamente respecto del monto que represente en dichos saldos las erogaciones realizadas por el contribuyente dictaminado por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+VII. Comparación analítica entre los conceptos o parámetros considerados para la determinación y pago de la contribución revisada en el ejercicio fiscal dictaminado y los considerados en el ejercicio fiscal inmediato anterior.
 
 > <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -1611,67 +1607,53 @@ En el informe a que se refiere la fracción IV del quinto párrafo del artículo
 
 I. Que se emite con estricto apego a lo dispuesto en este Código y de conformidad con las reglas de carácter general que al efecto expidan las autoridades fiscales, respecto de toda la información y documentación del contribuyente relacionada con la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal.
 
-II. Que dentro de las pruebas llevadas a cabo en cumplimento a las normas de auditoria generalmente aceptadas, se examinó la situación fiscal del contribuyente por el ejercicio fiscal y la contribución que comprende el dictamen. En caso de haber observado cualquier omisión respecto al cumplimiento de las obligaciones fiscales del contribuyente, ésta se mencionará en forma expresa; de lo contrario, se manifestará haberse cerciorado mediante la utilización de procedimientos de auditoria general aplicables a las circunstancias, que la contribución revisada fue razonablemente determinada y pagada.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III. Que se verificó el cálculo y el pago de la contribución revisada en el dictamen a cargo del contribuyente, detallando cualquier diferencia determinada o pago omitido resultante del dictamen formulado, independientemente de su importancia relativa.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+II. Que dentro de las pruebas llevadas a cabo en cumplimento a las normas de auditoría generalmente aceptadas, se examinó la situación fiscal del contribuyente por el ejercicio fiscal y la contribución que comprende el dictamen. En caso de haber observado cualquier omisión respecto al cumplimiento de las obligaciones fiscales del contribuyente inherentes a la contribución revisada, ésta se mencionará en forma expresa; con independencia de que sea subsanada antes de la presentación del dictamen; de lo contrario, se manifestará haberse cerciorado mediante la utilización de procedimientos de auditoría general aplicables a las circunstancias, que la contribución revisada fue razonablemente determinada y pagada.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+III. Que se verificó el cálculo y el pago de la contribución revisada en el dictamen a cargo del contribuyente o retenedor, detallando cualquier diferencia determinada o pago omitido resultante del dictamen formulado y las causas de su origen, independientemente de su importancia relativa.
 
 IV. Que se revisaron en función de su naturaleza y mecánica de aplicación utilizada en la determinación del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, las declaraciones normales y complementarias presentadas por el contribuyente y con las cifras dictaminadas respecto del ejercicio fiscal revisado, comprobando su estricto apego a las disposiciones fiscales respectivas establecidas en este Código, señalando en su caso, el incumplimiento en que haya incurrido el contribuyente en cuanto al cálculo y la base de pago de la contribución revisada.
 
 V. Que se revisó la información relativa a la aplicación de compensaciones, devoluciones, bonificaciones, estímulos fiscales o exenciones efectuadas en su caso por el contribuyente y que éstas se aplicaron en estricto apego a las disposiciones fiscales respectivas.
 
-### CAPÍTULO IV. EQUIPO
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-PRIMERA SECCIÓN
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-EQUIPO DE USO COMÚN
+VI. Que se corroboró la correcta aplicación de sentencias y resoluciones provenientes de cualquier medio de defensa o consulta jurídica sobre caso real y concreto que en su caso haya obtenido el contribuyente respecto del impuesto dictaminado.
 
-SEGUNDA SECCIÓN
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-EQUIPO DE USO ESPECIAL
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-TERCERA SECCIÓN
+VII. Que se revisó la información y documentación relativa a la contratación de la prestación de servicios personales subordinados y profesionales independientes, así como de servicios proporcionados por terceros que hayan generado la causación y/o retención del impuesto revisado con motivo de la prestación de trabajo personal dentro del territorio del Estado de México.
 
-EQUIPO PARA ACTIVIDADES ECUESTRES
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-SUBSECCIÓN (A)
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-DESCRIPCIÓN DEL EQUIPO
+VIII. Que se comprobó que los pagos por remuneraciones al trabajo personal objeto del impuesto revisado, corresponden a servicios efectivamente recibidos y se encuentran debidamente clasificados y registrados, verificando su correcta aplicación contable, incluyendo los montos devengados no pagados en el ejercicio fiscal dictaminado, confirmando la existencia de las personas a las que se les hayan efectuado dichos pagos.
 
-SUBSECCIÓN (B)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-EMPLEO DEL EQUIPO
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-CUARTA SECCIÓN
+IX. Que se verificó el correcto registro y valuación de todas las obligaciones contractuales y legales relacionadas con las remuneraciones al trabajo personal prestado dentro del territorio del Estado de México.
 
-EQUIPO DE BANDA DE GUERRA
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-QUINTA SECCIÓN
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-EQUIPO PARA HONORES FÚNEBRES
+X. Que se corroboró la integración a la base para la determinación del impuesto revisado, del monto total de las remuneraciones al trabajo personal sin deducción o disminución alguna, así como de las erogaciones provenientes de pasivos u obligaciones pendientes de pago relacionados con la base de dicho impuesto, de acuerdo al alcance establecido y la naturaleza de los procedimientos de auditoría generalmente aceptados aplicables a las circunstancias.
 
-SEXTA SECCIÓN
-
-ARTÍCULOS DIVERSOS
-
-DISPOSICIONES COMPLEMENTARIAS
-
-PRÓLOGO
-
-La historia del Ejército y Fuerza Aérea Mexicanos es la del país, de sus luchas por afianzar su independencia y su libertad; en ocasiones ha acudido a las armas, siempre que ha sido necesario salvaguardar la soberanía de la nación, cuando se ha visto amenazada por las presiones externas o por conflictos internos.
-
-El uso de uniformes, divisas y equipo, se hace indispensable por ser fiel reflejo de la historia y evolución del Ejército y Fuerza Área Mexicanos; reglamentar su uso ha sido complejo, sin embargo, se hace necesario, pues es así como se define y se fortalece la identidad de los integrantes de las Fuerzas Armadas Mexicanas.
-
-El vigente Reglamento de Uniformes, Divisas y Equipo del Ejército y Fuerza Aérea Mexicanos, fue publicado en el Diario Oficial de la Federación, el 30 de noviembre del 2012, estableciendo en su artículo cuarto transitorio, la obligación de esta Secretaría de emitir el Manual Gráfico para el uso de Uniformes, Divisas y Equipo del Ejército y Fuerza Aérea Mexicanos.
-
-El presente Manual Gráfico, tiene como propósito establecer los lineamientos para el uso de uniformes, divisas y equipo, en el Ejército y Fuerza Aérea Mexicanos; se prevé el diseño, características y forma de empleo de los diversos uniformes, divisas y equipo, por el personal de este Instituto Armado.
-
-En consecuencia, todos los uniformes, divisas y equipo que utilice el personal militar, deberán estar contemplados en el presente Manual Gráfico o en directivas giradas por el Alto Mando; asimismo y debido al avance progresivo de las nuevas tecnologías, puede ser sujeto de modificaciones o adiciones, para lo cual será necesario contar con la aprobación del titular de la Secretaría de la Defensa Nacional.
-
-Con el fin de actualizar este texto en posteriores ediciones, se recomienda a los lectores que propongan los cambios que estimen pertinentes, sometiendo a consideración de la Secretaría de la Defensa Nacional sus comentarios y opiniones.
-
-Asimismo, a fin de asegurar su comprensión y mejorar su contenido, toda proposición deberá citar en forma clara y específica la página, el párrafo y las líneas del texto a que se refiera, indicando en cada caso las razones que lo fundamenten, remitiéndose a la Secretaría de la Defensa Nacional, por conducto de la Dirección General de Intendencia, ubicada en el Campo Militar número 1-A, México, Distrito Federal.
-
-***
+### CAPITULO CUARTO. DE LAS FACULTADES DE LAS AUTORIDADES FISCALES
 
 ###### Artículo 48.
 
@@ -1716,6 +1698,14 @@ Los plazos antes referidos se suspenderán cuando:
 > <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 4. Fallezca el contribuyente, hasta en tanto se designe al representante de la sucesión.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+5. Tratándose de la fracción V del artículo 48 C, el plazo se suspenderá a partir de que la autoridad informe al contribuyente la reposición del procedimiento.
+
+Dicha suspensión no podrá exceder de un plazo de dos meses contados a partir de que la autoridad notifique al contribuyente la reposición del procedimiento.
 
 > <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -1821,19 +1811,23 @@ XV. Señalar las medidas de control y requisitos para aquellos contribuyentes qu
 
 XVI. Revisar los dictámenes formulados por contadores públicos registrados a nombre de los contribuyentes, sobre el debido cumplimiento de las disposiciones fiscales de este Código.
 
-> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-XVII. Emitir reglas de carácter general que señalen mecanismos de control y requisitos para aquellos trámites administrativos a que estén obligados los contribuyentes.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XVII. Emitir reglas de carácter general y medidas que señalen mecanismos de administración, control, forma de pago, procedimientos y requisitos para aquellos trámites administrativos, sin variar las disposiciones relacionadas con el sujeto, el objeto, la base, la tasa o la tarifa de las contribuciones y aprovechamientos, las infracciones o las sanciones de las mismas, a fin de facilitar el cumplimiento de las obligaciones de los contribuyentes.
 
 > <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 XVIII. Inscribir de oficio en el registro estatal de contribuyentes a aquellos particulares que no hubieran cumplido con dicha obligación en los plazos establecidos.
 
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 48-A.
 
-Iniciada una visita domiciliaria para comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes respecto del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, ordenada por cualquier periodo del ejercicio fiscal en el cual el contribuyente visitado se encuentre obligado a dictaminarse o bien haya optado por cumplir con dicha obligación fiscal presentando aviso de dictamen en el plazo legal permitido, las autoridades fiscales concluirán anticipadamente dicha visita domiciliaria comunicándole por escrito al contribuyente la conclusión de la visita y los motivos de tal hecho.
+Iniciada una visita domiciliaria para comprobar el cumplimiento de las disposiciones fiscales de los contribuyentes respecto del Impuesto sobre Erogaciones por Remuneraciones a Trabajo Personal, ordenada por cualquier periodo del ejercicio fiscal en el cual el contribuyente visitado se encuentre obligado a dictaminarse o bien haya ejercido la opción de cumplir con dicha obligación fiscal, la autoridad fiscal competente concluirá anticipadamente dicha visita domiciliaria comunicándole por escrito al contribuyente la conclusión de la visita y los motivos de tal hecho. Lo dispuesto en este párrafo no será aplicable cuando las autoridades fiscales hayan ejercido o iniciado directamente con el contribuyente sus facultades de comprobación al actualizarse alguno de los supuestos previstos en la fracción II del artículo 48 B de este Código.
 
 > <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -1863,9 +1857,17 @@ B). El dictamen se emita con abstención de opinión, opinión negativa o con sa
 
 C). En el dictamen se determinen diferencias de impuesto por pagar y éstas no se enteren de conformidad con lo dispuesto en el último párrafo del artículo 47 B del Código.
 
-D). El dictamen se presente en forma extemporánea sin tener concedida la prórroga correspondiente para cumplir con dicha obligación fiscal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-E). El Contador Público que haya formulado el dictamen no esté autorizado o su registro esté suspendido, dado de baja o cancelado en la fecha de presentación del dictamen.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+D). El dictamen no se presente o se presente en forma extemporánea.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+E). El Contador Público que haya formulado el dictamen esté impedido para ello, no esté autorizado, o su registro esté suspendido, dado de baja o cancelado en la fecha de presentación del dictamen.
 
 F). El Contador Público no sea localizado en el domicilio que haya señalado dentro del territorio del Estado ante las autoridades fiscales para oír y recibir notificaciones por los actos que se emitan en relación con los dictámenes que formule.
 
@@ -1873,7 +1875,11 @@ G). El dictamen haya sido formulado en contravención a lo dispuesto en este Có
 
 H). El contribuyente no acepte o no esté de acuerdo con su dictamen respecto del Contador Público autorizado que lo haya formulado.
 
-Para los efectos del inciso H) de esta fracción, se considera que el contribuyente no acepta o no está de acuerdo con el dictamen formulado por Contador Público autorizado, cuando así lo manifieste por escrito y bajo protesta de decir verdad ante la autoridad fiscal competente, a más tardar en los tres días siguientes a la fecha en que presentó o debió presentar el dictamen de que se trate, indicando las razones o los motivos que tenga y presentando las pruebas documentales pertinentes. En estos casos, dicha autoridad fiscal informará al contador público en cuestión acerca de la inconformidad presentada por el contribuyente respecto de su dictamen. Lo dispuesto en este párrafo es sin perjuicio de lo dispuesto en el artículo 47 C del Código y de la posible infracción en que incurra el contribuyente de conformidad con la fracción XV del artículo 361 de este Código.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Para los efectos del inciso H) de esta fracción, se considera que el contribuyente no acepta o no está de acuerdo con el dictamen formulado por Contador Público autorizado, cuando así lo manifieste por escrito y bajo protesta de decir verdad ante la autoridad fiscal competente, a más tardar en los diez días siguientes a la fecha en que presentó o debió presentar el dictamen de que se trate, indicando las razones o los motivos que tenga y presentando las pruebas documentales pertinentes. En estos casos, dicha autoridad fiscal informará al Contador Público en cuestión acerca de la inconformidad presentada por el contribuyente respecto de su dictamen. Lo dispuesto en este párrafo es sin perjuicio de lo dispuesto en el artículo 47 C del Código y de la posible infracción en que incurra el contribuyente de conformidad con la fracción XV del artículo 361 de este Código.
 
 III. Las autoridades fiscales podrán, en cualquier tiempo, solicitar a los terceros relacionados con el contribuyente o responsables solidarios, la información y documentación que se considere necesaria para verificar si son ciertos los datos consignados en el dictamen y en los demás documentos comprobatorios relacionados con la información en él contenida, en cuyo caso, la solicitud respectiva se hará por escrito, notificando copia de la misma al contribuyente.
 
@@ -1882,6 +1888,44 @@ La visita domiciliaria o el requerimiento de información y documentación que s
 Las autoridades fiscales podrán ejercer las facultades de comprobación a que se refiere este artículo conjunta, indistinta o sucesivamente a las previstas en el articulo 48 del Código y en otras disposiciones fiscales, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
 
 Tratándose de la revisión de pagos definitivos o de aquellos que en su caso tengan el carácter de provisionales efectuados por el contribuyente dictaminado, sólo se aplicará el orden establecido en este artículo, respecto de aquellos comprendidos en los meses a los que se refiera el ejercicio fiscal por el cual haya sido presentado el dictamen.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 48-C.
+
+En los casos de visitas domiciliarias, las autoridades fiscales, los visitados, responsables solidarios y los terceros estarán además a lo siguiente:
+
+I. La visita se realizará en el lugar o lugares señalados en la orden de visita.
+
+II. Si al presentarse los visitadores al lugar en donde deba practicarse la diligencia, no estuviere el visitado o su representante, dejarán citatorio con la persona que se encuentre en dicho lugar para que el mencionado visitado o su representante los esperen a la hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren, la visita se iniciará con quien se encuentre en el lugar visitado.
+
+Si el contribuyente presenta aviso de cambio de domicilio después de recibido el citatorio, la visita podrá llevarse a cabo en el nuevo domicilio manifestado por el contribuyente y en el anterior, cuando el visitado conserve el local de éste, sin que para ello se requiera nueva orden o ampliación de la orden de visita, haciendo constar tales hechos en el acta que levanten, salvo que en el domicilio anterior se verifique alguno de los supuestos establecidos en el artículo 22 de este Código, caso en el cual la visita se continuará en el domicilio anterior.
+
+Cuando exista peligro de que el visitado se ausente o pueda realizar acciones para impedir el inicio o desarrollo de la diligencia, los visitadores podrán proceder al aseguramiento de la contabilidad.
+
+III. Al iniciarse la visita en el domicilio fiscal los visitadores que en ella intervengan se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos. Si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la visita.
+
+Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lugar donde se esté llevando a cabo la visita, por ausentarse de él antes de que concluya la diligencia o por manifestar su voluntad de dejar de ser testigo. En tales circunstancias, la persona con la que se entienda la visita deberá designar de inmediato otros y ante su negativa o impedimento de los designados, los visitadores podrán designar a quienes deban sustituirlos. La sustitución de los testigos no invalida los resultados de la visita.
+
+La visita domiciliaria se desarrollará en el domicilio fiscal conforme a las siguientes reglas:
+
+A). De toda visita en el domicilio fiscal se levantará acta en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubieren conocido por los visitadores. Los hechos u omisiones consignados por los visitadores en las actas hacen prueba de la existencia de tales hechos o de las omisiones encontradas, para efectos de cualquiera de las contribuciones a cargo del visitado en el periodo revisado.
+
+B). Si la visita se realiza simultáneamente en dos o más lugares, en cada uno de ellos se deberán levantar actas parciales, mismas que se agregarán al acta final que de la visita se haga, la cual puede ser levantada en cualquiera de dichos lugares. En los casos a que se refiere esta fracción, se requerirá la presencia de dos testigos en cada establecimiento visitado en donde se levante acta parcial.
+
+C). Se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita. Una vez levantada el acta final, no se podrán levantar actas complementarias sin que exista una nueva orden de visita.
+
+D). Cuando resulte imposible continuar o concluir el ejercicio de las facultades de comprobación en los establecimientos del visitado, las actas en las que se haga constar el desarrollo de una visita en el domicilio fiscal podrán levantarse en las oficinas de las autoridades fiscales. En este caso se deberá notificar previamente esta circunstancia a la persona con quien se entiende la diligencia, excepto en el supuesto de que el visitado hubiere desaparecido del domicilio fiscal durante el desarrollo de la visita.
+
+E). Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante, se le dejará citatorio para que esté presente a una hora determinada del día siguiente. Si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado; en ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia, y los testigos, firmarán el acta, de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta o se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentara en la propia acta, sin que esto afecte la validez y el valor probatorio de la misma.
+
+IV. Las actas parciales se entenderá que forman parte integrante del acta final de la visita aunque no se señale así expresamente.
+
+V. Cuando de la revisión de las actas de visita y demás documentación vinculada a éstas, se observe que el procedimiento no se ajustó a las normas aplicables, que pudieran afectar la legalidad de la determinación del crédito fiscal, la autoridad podrá de oficio, por una sola vez, reponer el procedimiento, a partir de la violación formal cometida.
+
+Lo señalado en la fracción anterior, será sin perjuicio de la responsabilidad en que pueda incurrir el servidor público que motivó la violación.
 
 ###### Artículo 49.
 
@@ -1973,11 +2017,9 @@ No se podrá resolver favorablemente una solicitud de revisión administrativa p
 
 Lo señalado en el párrafo anterior, no constituirá instancia y las resoluciones que dicte la autoridad al respecto no podrán ser impugnadas por los contribuyentes.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Cuando en la revisión de las actas de visita y demás documentación vinculada a éstas, se observe que el procedimiento no se ajustó a las normas aplicables, que pudieran afectar la legalidad de la determinación del crédito fiscal, la autoridad podrá de oficio, por una sola vez, reponer el procedimiento, a partir de la violación formal cometida.
-
-> <small>(DEROGADO SEPTIMO PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO ULTIMO PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 55.
 
@@ -1989,1161 +2031,43 @@ Dicha confidencialidad tampoco comprenderá la información relativa a los créd
 
 ## TITULO TERCERO. DE LOS INGRESOS DEL ESTADO
 
-### CAPÍTULO I. UNIFORMES
+### CAPITULO PRIMERO. DE LOS IMPUESTOS
 
-PRIMERA SECCIÓN
+#### SECCION PRIMERA. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
 
-UNIFORMES COMUNES
-
-SUBSECCIÓN (A)
-
-DE CAMPAÑA
-
-1. Uniforme de campaña. Utilizado por Generales, Jefes, Oficiales, Cadetes y Tropa, en actividades operativas, administrativas, ceremonias y desfiles, en tela camuflada modelos selva y desierto para el Ejército y azul aéreo para la Fuerza aérea, compuesto de: tocado, guerrera, pantalón y calzado, como sigue:
-
-A. Tocado
-
-a. Gorra de campo con insignia del grado o escudo del plantel.
-
-b. Boina para personal de los cuerpos especiales del color que corresponda, en actividades administrativas, ceremonias y desfiles, para actividades operativas gorra de campo flexible.
-
-B. Guerrera:
-
-a. Escudos bordados de cuello.
-
-b. Grado bordado en sobrehombreras.
-
-c. Portanombre.
-
-d. Sector o puente con la leyenda “MÉXICO” y bandera de México, en caso de comisiones en el extranjero.
-
-e. Gafete de la escuela de formación.
-
-f. Una insignia de Alas de paracaidista o de especialidad.
-
-g. Insignias y divisas metálicas autorizadas, para desfiles y ceremonias cuando se ordene.
-
-h. Cordón de mando con silbato.
-
-C. Pantalón pie a tierra o de montar.
-
-D. Playera verde, beige o negra.
-
-E. Cinturón negro.
-
-F. Calcetín negro.
-
-G. Bota operativa, Bota operativa negra, de salto o de montar con acicates.
-
-SUBSECCIÓN (B)
-
-ADMINISTRATIVO
-
-2. Uniforme administrativo. Utilizado por Generales, Jefes, Oficiales y Tropa, para actividades administrativas en dependencias e instalaciones militares, así como en comisiones, compuesto de: tocado, camisa beige o azul aéreo manga corta y pantalón azul o azul aéreo, como sigue:
-
-A. Gorra cuartelera negra o azul aéreo dentro de instalaciones militares y gorra de guarnición para hombres y tocado para mujeres fuera del cuartel, incluye escarapela e insignia del grado.
-
-B. Camisa beige o azul aéreo manga corta:
-
-a. Escudos metálicos de cuello.
-
-b. Grado bordado en sobrehombreras.
-
-c. Portanombre.
-
-d. Sector o puente con la leyenda “MÉXICO” y bandera de México, en caso de comisiones en el extranjero.
-
-e. Gafete de la escuela de formación.
-
-f. Gafete de comisión.
-
-g. Un Gafete de las condecoraciones a las que se haya hecho acreedor el militar y si fuere la de perseverancia, la última autorizada.
-
-h. Una placa de curso o especialidad nacional o extranjera.
-
-i. Una insignia de Alas de paracaidista o de especialidad.
-
-C. Pantalón Azul, pie a tierra o de montar y azul aéreo para hombres.
-
-D. Pantalón o falda color azul o azul aéreo (se utilizarán sin cinturón y la falda a media rodilla) para mujeres.
-
-E. Playera blanca de cuello redondo.
-
-F. Cinturón negro.
-
-G. Calcetín negro para hombre.
-
-H. Pantimedia color natural para mujer.
-
-I. Zapato de presentación para hombres, color negro o botas de montar con acicates.
-
-J. Zapato para mujer en color negro.
-
-SUBSECCIÓN (C)
-
-DE CEREMONIAS
-
-3. Uniforme de ceremonias. Utilizado por los Generales, Jefes, Oficiales y Tropa, para ceremonias y eventos especiales, así como en comisiones que se ordenen, compuesto de tocado, guerrera, pantalón o falda azul o azul aéreo, como sigue:
-
-A. Gorra de guarnición para hombres y tocado para mujeres, incluye escarapela e insignia del grado o especialidad.
-
-B. Corbata negra para hombres.
-
-C. Corbatín negro para mujeres.
-
-D. Guerrera con:
-
-a. Camisa beige o azul aéreo manga larga, cuando la guerrera se use con palas del arma o servicio y grado correspondiente.
-
-b. Camisa blanca cuando se ordene el uso de la guerrera con palas de gala y grado correspondiente.
-
-c. Escudos metálicos de cuello.
-
-d. Portanombre.
-
-e. Sector o puente con la leyenda “MÉXICO” y bandera de México, en caso de comisiones en el extranjero.
-
-f. Gafete de la escuela de formación y/o cursos realizados.
-
-g. Gafete de comisión.
-
-h. Gafetes de condecoraciones.
-
-i. Placas de cursos o especialidades nacionales.
-
-j. Placas de cursos o especialidades extranjeros.
-
-k. Alas de cursos y/o especialidades nacionales.
-
-l. Alas de cursos y/o especialidades en el extranjero.
-
-E. Pantalón azul pie a tierra, azul de montar, azul deportivo de montar o azul aéreo para hombres.
-
-F. Pantalón o falda azul o azul aéreo (se utilizarán sin cinturón y la falda a media rodilla) para mujeres.
-
-G. Cinturón negro.
-
-H. Calcetín negro para hombre.
-
-I. Pantimedia color natural para mujer.
-
-J. Zapatos de presentación color negro o botas de montar tipo Federica o blucher con acicates y pialera.
-
-K. Zapato para mujeres color negro.
-
-L. Cordones de especialidad o comisión.
-
-Con este uniforme se podrán portar todas las alas de cursos y/o especialidades, placas de cursos o especialidades nacionales o extranjeros y gafetes de condecoraciones y perseverancia a los que se haya hecho acreedor el militar, la colocación será como lo especifica este manual y las placas únicamente en la superficie de las bolsas superiores.
-
-SUBSECCIÓN (D)
-
-DE GALA PARA GENERALES, JEFES Y OFICIALES
-
-4. Uniforme de gala para Generales, Jefes y Oficiales. Confeccionado con cuello tipo mao, será empleado en ceremonias, eventos sociales y comisiones oficiales dentro y fuera de instalaciones militares. El de gala de guerrera negra se utilizará en eventos y ceremonias de noche y el de guerrera marfil en eventos y ceremonias de día, no lleva botonaduras en la parte trasera, en la parte delantera lleva siete botones y se emplea sin fajilla, compuesto de: guerrera y pantalón o falda, de paño en color marfil o negro, como sigue:
-
-A. Gorra de gala o tocado de gala para mujer con escarapela e insignia del grado.
-
-B. La guerrera en color marfil o negro con:
-
-a. Escudos bordados de cuello.
-
-b. Palas de gala.
-
-c. Escudo bordado del plantel de formación militar en la manga izquierda.
-
-d. Gafete de comisión.
-
-e. Alas correspondientes.
-
-f. Medallas de condecoraciones.
-
-g. Placas de los diferentes cursos nacionales del lado izquierdo.
-
-h. Placas de los diferentes cursos en el extranjero del lado derecho.
-
-i. Cordones de especialidad o comisión.
-
-C. Pantalón en color negro para los hombres, falda (a media rodilla) o pantalón para las mujeres en color negro con franja de color, que en ambos casos será para el personal de Generales en galón dorado y para Jefes y Oficiales del color distintivo del arma o servicio al que pertenezca.
-
-D. Camisa blanca con cuello tipo mao.
-
-E. Cinturón negro.
-
-F. Calcetín negro para hombre.
-
-G. Pantimedia color natural para mujer.
-
-H. Zapatos de presentación en color negro para hombre.
-
-I. Zapatos en color negro para mujer.
-
-Las divisas serán bordadas en hilo metálico dorado.
-
-Con este uniforme se podrán portar todas las alas de cursos y/o especialidades, placas de cursos o especialidades nacionales o extranjeros y condecoraciones a los que se haya hecho acreedor el militar, la colocación será como lo especifica este manual.
-
-SUBSECCIÓN (E)
-
-DE GIRA
-
-5. Uniforme de gira. Es empleado de la siguiente manera:
-
-De gira azul manga corta y manga larga: por el C. General Secretario de la Defensa Nacional, funcionarios de la Plana Mayor y Ayudantía General.
-
-De gira verde olivo manga corta y manga larga: por el C. General Secretario de la Defensa Nacional, funcionarios de la Plana Mayor, Ayudantía General y Comandantes de Regiones, Zonas y Guarniciones Militares.
-
-De gira azul aéreo manga corta y manga larga: por el Comandante de la Fuerza Aérea Mexicana y Comandantes de Regiones y Bases Aéreas Militares.
-
-Compuesto de: tocado, guerrera y pantalón, como sigue:
-
-A. Gorra de guarnición con los uniformes azules y de campo con el uniforme verde olivo; para ceremonias en climas cálidos, este último uniforme se usará con gorra de guarnición.
-
-B. Guerrera: se utilizará conforme a lo dispuesto en el párrafo “2” del presente manual.
-
-C. Pantalón azul, azul aéreo o verde olivo.
-
-D. Playera blanca o verde olivo de cuello redondo.
-
-E. Cinturón negro.
-
-F. Zapatos de presentación en color negro para hombre.
-
-G. Cordones de especialidad o comisión.
-
-En las giras y visitas de trabajo que el C. Presidente de la República realiza en las entidades del país, en las cuales los comandantes de Región, Zona o Guarnición Militar tengan participación en su recepción o en eventos en los que se cuente con su presencia y no se emplee el uniforme administrativo, dichos comandantes portarán el uniforme de gira azul aéreo o verde olivo, manga larga o corta según corresponda.
-
-SUBSECCIÓN (F)
-
-DE MILITARES PROCESADOS Y SENTENCIADOS
-
-6. Uniforme de militares procesados y sentenciados. Para hombres y mujeres internos, compuesto de: tocado, camisola y pantalón en color azul eléctrico, como sigue:
-
-A. Gorra.
-
-a. Con divisas del grado, para procesados y sentenciados que no hayan sido destituidos del empleo.
-
-b. Sin divisas del grado, para militares que hayan sido destituidos del empleo.
-
-B. Camisola.
-
-Sobrehombreras con grado, para procesados y sentenciados que no hayan sido destituidos del empleo.
-
-C. Pantalón.
-
-D. Playera blanca.
-
-E. Cinturón negro.
-
-F. Medias botas o zapatos en color negro (para hombre y mujer).
-
-SUBSECCIÓN (G)
-
-DE COCINERO/A Y MESERO/A
-
-7. Uniforme de cocinero/a. Empleado por el personal de Oficiales y Tropa pertenecientes al Servicio de Intendencia en actividades propias, compuesto de: tocado, playera blanca, mandil blanco con peto, pantalón color negro y calzado.
-
-8. Uniforme de mesero/a. Empleado para actividades propias de su servicio, compuesto de: filipina blanca de cuello tipo mao y corte tipo torero, pantalón negro y calzado, como sigue:
-
-A. Para hombre:
-
-a. Camisa blanca manga larga para eventos especiales.
-
-b. Filipina blanca de cuello tipo mao para diario.
-
-c. Chaleco negro para eventos especiales.
-
-d. Pantalón negro.
-
-e. Zapato de presentación.
-
-B. Para mujer:
-
-a. Blusa blanca con corbatín para eventos especiales.
-
-b. Chaleco negro para mesera.
-
-c. Filipina blanca de cuello tipo mao para diario.
-
-d. Pantalón negro.
-
-e. Zapato negro para mujer.
-
-SUBSECCIÓN (H)
-
-DE SOBRECARGO
-
-9. Uniforme de sobrecargo. Empleado por el personal de Oficiales y Tropa en actividades propias, compuesto de: saco corto y chaleco, bata color azul aéreo, blusa en color azul cielo, pantalón o falda en color azul aéreo y calzado, como sigue:
-
-A. Saco corto y chaleco, con portanombre rígido y en la parte superior del lado izquierdo llevan un bordado de las alas de la Fuerza Aérea, del lado derecho el nombre bordado de quien lo porta.
-
-B. Bata color azul aéreo.
-
-C. Blusa manga larga y manga corta en color azul cielo.
-
-D. Corbatín en color negro.
-
-E. Pantalón y falda, son iguales a los descritos en el uniforme de ceremonias para mujer en color azul aéreo, excepto que presentan medio forro, la falda se utilizará a media rodilla.
-
-F. Zapato negro para mujer.
-
-SEGUNDA SECCIÓN
-
-UNIFORMES PARA PLANTELES MILITARES
-
-SUBSECCIÓN (A)
-
-DE GRAN GALA
-
-10. Uniforme de Gran Gala del Heroico Colegio Militar. Empleado por personal directivo y del cuerpo de Cadetes mujeres y hombres, para ceremonias y desfiles, así como en comisiones, compuesto de: tocado, guerrera, pantalón y calzado, como sigue:
-
-Para mujeres y hombres pie a tierra o de montar.
-
-A. Ross con penacho blanco, escudo del Heroico Colegio Militar y escarapela.
-
-B. Camisa blanca de manga larga cuello tipo Mao.
-
-C. Guerrera con:
-
-a. Escudos bordados de cuello.
-
-b. Tirilla en cuello y puños.
-
-c. Charreteras para Generales.
-
-d. Canelones para Jefes.
-
-e. Caponas con grado para Oficiales y sin grado para Cadetes.
-
-f. Cinta de galón dorado en tela de paño color carmesí para distinciones de Cadetes de Primera y grados para Clases de Cadetes.
-
-g. Alas correspondientes.
-
-h. Medallas de condecoraciones a la altura del segundo botón a partir del centro del pecho hacia la izquierda.
-
-i. Las placas nacionales se portarán a la altura del botón que esté libre después de las condecoraciones. Si fueran dos o tres, de derecha a izquierda de arriba hacia abajo conforme al orden cronológico en que fueron efectuados.
-
-D. Pantalón color negro pie a tierra (para mujer y hombre) o de montar (para hombre), con franja de color a los costados, para Generales en galón dorado y Jefes, Oficiales y Cadetes en color carmesí.
-
-E. Calcetín negro.
-
-F. Zapato tipo botín (para mujer y hombre) o bota de montar tipo federica con acicates y cadenas dorados (para hombre).
-
-G. Cordones de especialidad.
-
-H. Guantes blancos.
-
-Las divisas serán metálicas y/o bordadas en hilo metálico color dorado y el detalle de su empleo se describe en el presente manual.
-
-11. Uniforme de Gran Gala para el Colegio del Aire. Empleado por personal directivo y del cuerpo de Cadetes mujeres y hombres, para ceremonias y desfiles, así como en comisiones, compuesto de: tocado, guerrera, pantalón y calzado, como sigue:
-
-Mujer y Hombre.
-
-A. Ross con penacho en color morado obispo, escudo del Colegio del Aire y escarapela.
-
-B. Camisa azul cielo de manga larga cuello tipo sastre con corbata negra para hombre o corbatín para mujer.
-
-C. Guerrera con:
-
-a. Escudos metálicos de cuello.
-
-b. Charreteras para Generales.
-
-c. Canelones para Jefes.
-
-d. Caponas con grado para Oficiales y sin grado para Cadetes.
-
-e. Cinta de galón dorado en tela de paño color morado obispo para distinciones de Cadetes de Primera y grados para Clases de Cadetes.
-
-f. Alas de cursos y/o especialidades entre el primero y segundo botón del lado izquierdo.
-
-g. Las medallas de condecoraciones a la altura del segundo botón a partir del centro del pecho hacia la izquierda.
-
-h. Las placas nacionales se portarán a la altura del botón que esté libre después de las condecoraciones. Si fueran dos o tres de derecha a izquierda de arriba hacia abajo conforme al orden cronológico en el que fueron efectuados.
-
-D. Pantalón azul aéreo con franja de color a los costados, que será para el personal de Generales en galón dorado y para Jefes, Oficiales y Cadetes del color morado obispo.
-
-E. Calcetín negro.
-
-F. Zapato tipo botín.
-
-G. Cordón de especialidad.
-
-H. Guantes blancos.
-
-12. Uniforme blanco de presentación para la Escuela Militar de Enfermeras. Empleado por el personal directivo y del cuerpo de Cadetes, en ceremonias, desfiles y eventos especiales, compuesto de: cofia blanca, bata con alforzas y zapatilla blanca, como sigue:
-
-A. Cofia blanca.
-
-B. Bata con alforzas:
-
-a. Palas de gala con grado para Jefes y Oficiales y sin grado para Cadetes.
-
-b. Sector.
-
-c. Gafete de formación.
-
-d. Una placa de curso o especialidad nacionales debajo de la bolsa superior izquierda.
-
-e. Una placa de curso o especialidad en el extranjero en la parte superior derecha.
-
-f. Condecoraciones a partir del centro del pecho hacia la izquierda.
-
-g. Cordón de mando blanco o de la especialidad.
-
-h. Pañuelo blanco bordado en la bolsa superior izquierda, sostenido con pin de lámpara, para el personal de Jefes y Oficiales.
-
-i. El personal Diplomado de Estado Mayor la portará con sardinetas y marruecas bordadas en hilo dorado.
-
-C. Pantimedias en color champagne liso.
-
-D. Zapatilla blanca para bata con alforzas.
-
-SUBSECCIÓN (B)
-
-UNIFORME DE GALA PARA PLANTELES MILITARES
-
-13. Uniforme de Gala para planteles militares. Empleado por personal directivo y del cuerpo de Cadetes, de los cursos regulares de formación de Oficiales, para ceremonias y comisiones, compuesto de: tocado, guerrera con cuello tipo mao, pantalón o falda y calzado, como sigue:
-
-Mujer y Hombre.
-
-A. Gorra de gala o tocado de gala para mujer con escudo del plantel y escarapela.
-
-B. Camisa blanca de manga larga cuello tipo mao.
-
-C. Guerrera de siete botones en color negro para todos los planteles militares excepto el Colegio del Aire que será en color azul aéreo.
-
-a. Todos los planteles militares emplearán las marruecas y un vivo del color distintivo del plantel, el resto del puño será del mismo color de la guerrera.
-
-b. Escudos bordados del plantel militar correspondiente.
-
-c. Palas de gala con grado para Generales, Jefes y Oficiales.
-
-d. Palas de gala sin grado para Cadetes.
-
-e. Cinta de galón dorado para distinciones de Cadetes de Primera y grados para Clases.
-
-f. Alas de cursos y/o especialidades en la parte superior izquierda.
-
-g. Condecoraciones a la altura del segundo botón a partir del centro del pecho hacia la izquierda.
-
-h. Las placas nacionales se portarán a la altura del botón que esté libre después de las condecoraciones. Si fueran dos o tres de derecha a izquierda de arriba hacia abajo conforme al orden cronológico en el que fueron obtenidas.
-
-D. Pantalón con franja de color a los costados, falda con pliegues al frente, para el personal de Generales en galón dorado y para Jefes, Oficiales y Cadetes del color distintivo del plantel, la falda se utilizará a media rodilla.
-
-E. Calcetín negro para hombre.
-
-F. Medias color natural para mujer.
-
-G. Zapato tipo botín para hombre y mujer cuando se utilice con pantalón.
-
-H. Zapato negro para mujer cuando se utilice con falda.
-
-La gala para mujeres con pantalón será empleada en servicios en donde se constituyan unidades mixtas en ceremonias y desfiles y con falda para el resto de actividades.
-
-I. Pantalón de montar, es empleado por Generales, Jefes, Oficiales y Cadetes del Heroico Colegio Militar, para ceremonias, comisiones y desfiles, se usará con botas de montar tipo federicas y acicates y cadenas dorados.
-
-J. Cuando este uniforme se use con pantalón invariablemente se empleará con fajilla y espadín.
-
-SUBSECCIÓN (C)
-
-UNIFORME DE DOBLE BOTONADURA PARA PLANTELES MILITARES
-
-14. Uniforme de doble botonadura. Empleado exclusivamente por el personal del cuerpo de Cadetes del Heroico Colegio Militar y Colegio del Aire, compuesto de: tocado, guerrera, pantalón o falda color beige, como sigue:
-
-Mujer y Hombre.
-
-A. Gorra cuartelera para uso interno, gorra de guarnición o tocado de gala de mujer en visitas y actos fuera del plantel.
-
-B. Camisa blanca de manga larga cuello tipo mao.
-
-C. Guerrera con catorce botones para hombres o con pechera para mujer con:
-
-a. Escudos metálicos del plantel militar.
-
-b. Palas con grado para Jefes y Oficiales.
-
-c. Palas con vivos carmesí para el Heroico Colegio Militar y morado obispo para el Colegio del Aire, sin grado para Cadetes.
-
-d. Cinta de galón dorado en tela de paño del color distintivo del plantel, para distinciones de Cadetes de Primera y grados para Clases.
-
-e. Alas de cursos y/o especialidades entre el primero y segundo botón del lado izquierdo.
-
-D. Pantalón pie a tierra, de montar o falda (a media rodilla).
-
-E. Calcetín negro para hombre.
-
-F. Pantimedia color natural para mujer.
-
-G. Zapato tipo botín, botas de montar tipo federicas con acicates y cadenas o zapato negro para mujer.
-
-SUBSECCIÓN (D)
-
-UNIFORME BEIGE Y VERDE OLIVO CON BOTONES DORADOS PARA PLANTELES MILITARES.
-
-15. Uniforme beige con botones dorados para planteles militares. Empleado por Generales, Jefes, Oficiales y Cadetes, en escuelas de formación de Oficiales, compuesto de: tocado, guerrera, pantalón y calzado como sigue:
-
-A. Gorra cuartelera negra o azul aéreo con vivo del color representativo del plantel, escarapela e insignia del grado para Generales, Jefes y Oficiales y escudo del plantel para Cadetes y Alumnos en actividades internas.
-
-B. Gorra de gala para mujer en visitas y actos fuera del plantel.
-
-C. Guerrera con:
-
-a. Escudos de cuello metálicos del plantel.
-
-b. Sobrehombreras con grado para Generales, Jefes y Oficiales, sin grado para Cadetes y Alumnos.
-
-c. Cinta de galón dorado en tela del color distintivo del plantel militar para Cadetes de Primera y para Clases.
-
-d. Cordón de mando color beige.
-
-e. Portanombre.
-
-f. Gafetes de formación o distintivo del año y arma o servicio correspondiente.
-
-g. Alas de cursos y/o especialidades arriba de la bolsa superior izquierda.
-
-h. Gafete de la última perseverancia.
-
-D. Playera blanca.
-
-E. Pantalón pie a tierra o de montar.
-
-F. Calcetín negro para hombre.
-
-G. Zapato tipo botín, botas de montar tipo federicas con acicates y cadenas o zapato negro para mujer.
-
-16. Uniforme verde olivo con botones dorados para planteles militares. Empleado por Generales, Jefes, Oficiales y Discentes, en escuelas de formación de Clases, compuesto de: tocado, guerrera, pantalón y calzado como sigue:
-
-A. Gorra cuartelera negra o azul aéreo con vivo del color representativo del plantel, escarapela e insignia del grado para Generales, Jefes y Oficiales y escudo del plantel para Discentes.
-
-B. Guerrera con:
-
-a. Escudos de cuello metálicos del plantel.
-
-b. Sobrehombreras con grado para Generales, Jefes, Oficiales y sin grado para Discentes.
-
-c. Cinta de galón dorado en tela del color distintivo del plantel militar para Clases.
-
-d. Cordón de mando color verde olivo.
-
-e. Portanombre.
-
-f. Gafetes de formación o distintivo del año y arma o servicio correspondiente.
-
-g. Alas de cursos y/o especialidades arriba de la bolsa superior izquierda.
-
-h. Gafete de la última perseverancia.
-
-C. Playera negra.
-
-D. Pantalón pie a tierra.
-
-E. Calcetín negro para hombre.
-
-F. Zapato tipo Botín para hombre y mujer.
-
-TERCERA SECCIÓN
-
-UNIDADES Y CUERPOS ESPECIALES
-
-SUBSECCIÓN (A)
-
-POLICÍA MILITAR
-
-17. El personal perteneciente a la Policía Militar empleará el uniforme de campaña para las actividades operativas y administrativas dentro y fuera de las instalaciones militares con las divisas que se especifican en el párrafo “1” de este manual, con las siguientes variaciones:
-
-A. Casco antifragmento con forro en color del uniforme con las siglas P.M. en color blanco o verde.
-
-B. Brazalete en color del uniforme con las siglas “P.M.” con las letras en color blanco en servicios de seguridad, ceremonias y desfiles, en operaciones se utilizará con las letras en color verde.
-
-C. Bota operativa, en servicios de seguridad, ceremonias y desfiles se utilizará en color negro con agujeta color blanco con amarre de escalera.
-
-D. Arreos en color blanco para ceremonias y servicios (cordón de seguridad, siglas, gazné y guantes).
-
-E. Gazné color verde para actividades administrativas.
-
-SUBSECCIÓN (B)
-
-BANDAS DE MÚSICA
-
-18. Uniforme de gala para el personal perteneciente a las bandas de música del Heroico Colegio Militar y del Colegio del Aire, será empleado en eventos y ceremonias dentro y fuera de las instalaciones militares con las divisas correspondientes, se conforma de la siguiente manera:
-
-Mujer y hombre.
-
-A. Gorra de gala con escarapela y escudo distintivo del plantel.
-
-B. Guerrera con vivos del color distintivo del plantel en cuello y puños:
-
-a. Escudos de cuello del plantel.
-
-b. Palas de gala con grado.
-
-C. Pantalón con franjas a los costados del color distintivo del plantel.
-
-D. Zapato tipo botín.
-
-E. Camisa blanca de manga larga y cuello tipo mao.
-
-F. El personal perteneciente a las bandas de música del Ejército y banda y orquesta de la Fuerza Aérea, utilizará el uniforme de ceremonias cuando se ordene, con la particularidad de que el personal de Tropa empleará gorra de guarnición, con el escudo de su especialidad en lugar del grado y cintas de color, con su grado en las palas del uniforme.
-
-SUBSECCIÓN (C)
-
-CUERPO DE GUARDIAS PRESIDENCIALES
-
-19. Uniforme verde olivo de gala para el Cuerpo de Guardias Presidenciales. Empleado por el personal perteneciente a este cuerpo especial en honores, desfiles y ceremonias, compuesto de: tocado, guerrera con botones dorados, pantalón y calzado, como sigue:
-
-A. Boina color negro.
-
-B. Guerrera con:
-
-a. Escudos metálicos.
-
-b. Gafete de formación.
-
-c. Palas con el grado correspondiente.
-
-d. Fajilla y cartuchera negra en piel con escudo metálico.
-
-C. Pantalón (con tubos en la valenciana).
-
-D. Botas de salto negras con agujetas blancas y amarre tipo petatillo.
-
-E. Gazné blanco.
-
-F. Guantes blancos de piel.
-
-G. El personal del Grupo de Caballería del Cuerpo de Guardias Presidenciales, utilizará el uniforme de gala verde olivo con pantalón y botas de montar.
-
-SUBSECCIÓN (D)
-
-DEFENSAS RURALES
-
-20. Uniforme gris. Empleado por el personal perteneciente a los Cuerpos de Defensas Rurales, compuesto de: tocado, camisola, pantalón y calzado, como sigue:
-
-A. Sombrero color gris con escarapela y grado.
-
-B. Camisola con:
-
-a. Escudos metálicos de cuello.
-
-b. Sobrehombreras con grado.
-
-c. Portanombre.
-
-d. Sector.
-
-e. Cordón de mando.
-
-f. Playera blanca cuello redondo.
-
-C. Pantalón.
-
-D. Botas operativas negras.
-
-CUARTA SECCIÓN
-
-VESTUARIO COMPLEMENTARIO
-
-21. Abrigo largo. Consiste en un saco largo diseñado en paño, en modelo único, es empleado por el personal de Generales, Jefes y Oficiales; con los uniformes administrativos y de ceremonias, se usará sobre la camisa o sobre la guerrera, se fabrica en color azul y azul aéreo, para mujeres y hombres.
-
-22. Gabardina. Consiste en un impermeable modelo trinchera, diseñado en color negro, para mujeres y hombres, es empleado por el personal de Generales, Jefes y Oficiales, se usará sobre el uniforme administrativo y de ceremonias, cuando las condiciones del clima lo ameriten.
-
-23. Capote. Consiste en un saco largo con cuello redondo, diseñado en paño color verde olivo o azul aéreo, para mujeres y hombres, es empleado por el personal de Generales, Jefes, Oficiales y Cadetes de las instituciones educativas militares, se conforma de la manera siguiente:
-
-A. Escudos de cuello del Plantel Militar.
-
-B. Sector.
-
-C. Cintas de Galón para Cadetes con el grado o distinción correspondiente.
-
-D. Sobrehombreras, con grado para Generales, Jefes y Oficiales, para el personal de Cadetes sin grado.
-
-E. Parche del año que cursan los Cadetes en el hombro izquierdo.
-
-24. Impermeable modelo trinchera. Se fabrica en color verde olivo y azul aéreo, para mujer y hombre, es empleado por el personal de Generales, Jefes, Oficiales y Cadetes de los establecimientos de educación militar.
-
-25. Maquinoff. Consiste en un saco corto con botones dorados diseñados en paño azul o azul aéreo para mujeres y hombres, es empleado por el personal de Generales, Jefes, Oficiales y Tropa con los uniformes administrativos y de ceremonias, en actividades externas, se usará sobre la guerrera y en actividades internas, se usará en sustitución de la guerrera, también se fabricará en color verde olivo para Funcionarios de la Plana Mayor, Ayudantía General y Comandantes de Regiones Militares.
-
-26. Chamarra rompevientos. Está diseñada en color negro, en modelo único para mujeres y hombres, es empleada por el personal de Generales, Jefes, Oficiales y Tropa, en el interior de las oficinas sobre la camisa del uniforme administrativo y la guerrera del uniforme de ceremonias.
-
-27. Chamarra de campaña. Está diseñada en tela camuflada selva, desierto y azul aéreo, en su interior cuenta con un forro desmontable en modelo único, es empleada por el personal del Ejército y Fuerza Aérea, con el uniforme de campaña.
-
-28. Chamarra de vuelo. Está diseñada en tela retardante al fuego en color verde sagre, en modelo único, es empleada por el personal de la Fuerza Aérea que integra las tripulaciones de vuelo, con parches de tela de la jerarquía, material de vuelo, portanombre, alas, así como rodelas de la unidad y de la unidad superior.
-
-29. Uniforme deportivo. Está constituido por chamarra, pantalón, playera y pantalón corto, diseñado en modelo único, es utilizado por personal del Ejército en color negro excepto la playera, la cual es de color gris y para el personal de la Fuerza Aérea, azul aéreo.
-
-30. Traje de baño. Se diseña en licra color negro, es empleado por el personal del Ejército y Fuerza Aérea, en actividades deportivas acuáticas, el traje de baño para hombre tiene un corte tipo trusa y para mujeres completo de una sola pieza.
-
-31. Pijama. Se compone de sudadera y pantalón, se fabrica en modelo único, en color verde para el Ejército y Fuerza Aérea, así como en color gris para planteles militares, es empleada con el uniforme de campaña en climas fríos.
-
-32. Bata de trabajo. Se diseña en tela color blanco para mujer y hombre, es empleada por el personal del Ejército y Fuerza Aérea en actividades hospitalarias, de laboratorio, de fajina, almacenes y talleres.
-
-33. Bata para afanador/a. Se diseña en color beige, para mujer y hombre, es empleada por el personal de Tropa en actividades propias del servicio.
-
-34. Bata antiestática. Se diseña con tela antiestática en color azul, es empleada por el personal de Jefes, Oficiales y Tropa especialistas en electrónica de aviación, en actividades propias de su especialidad.
-
-35. Blusa de limpia. Se diseña en tela camuflada selva, es empleada por el personal de Tropa en actividades para el cuidado animal.
-
-36. Camisa de manga larga con cuello. Se diseña con cuello tipo sport para mujer y hombre, es empleada por el personal del Ejército y Fuerza Aérea, con el uniforme de ceremonias y uniforme deportivo de montar se utilizará en color beige, con el uniforme de ceremonias de la Fuerza Aérea y gran gala del Colegio del Aire se utilizará en color azul y para el personal de meseros se utilizará en color blanco.
-
-37. Camisa de manga larga de cuello tipo mao. Se diseña en color blanco para mujer y hombre, es empleada por el personal de Generales, Jefes, Oficiales y Cadetes con los uniformes de gran gala, gala y doble botonadura.
-
-38. Playera. Se diseña con cuello redondo para hombres y mujeres, es empleada por el personal del Ejército y Fuerza Aérea, en el uniforme de campaña de selva y de gira verde olivo se utilizará en color verde olivo; con el uniforme de campaña de desierto se utilizará el color beige; en los uniformes de Fuerzas Especiales, Cuerpo de Guardias Presidenciales y Fuerza Aérea se utilizará en color negro y en el uniforme administrativo, de ceremonias, para cocineros y de diario en planteles militares, será en color blanco.
-
-39. Uniforme para uso de los hospitales y enfermerías. Se diseña en color blanco para hombre y mujer, es empleado por Generales, Jefes, Oficiales, Cadetes y Tropa, en actividades hospitalarias, se conforma de la siguiente manera:
-
-A. Filipina para hombre manga corta y mujer manga corta y tres cuartos:
-
-a. Sobrehombreras con grado para Jefes, Oficiales, Clases y sin grado para Soldados y Cadetes.
-
-b. Sector para planteles militares.
-
-c. Portanombre.
-
-B. Playera blanca.
-
-C. Pantalón.
-
-D. Zapato hospitalario.
-
-40. Uniforme para médicos residentes. Se diseña en color blanco para hombre y mujer, es empleado por Jefes y Oficiales Médicos Cirujanos, en actividades hospitalarias que realicen dentro de escalones sanitarios, como sigue:
-
-A. Saco.
-
-a. Sobrehombreras con grado.
-
-b. Portanombre.
-
-c. Gafetes de formación.
-
-d. Camisa blanca.
-
-e. Corbata negra para hombre.
-
-f. Corbatín negro para mujer.
-
-B. Pantalón.
-
-C. Calcetín color blanco para hombre.
-
-D. Pantimedias color blanco para mujer.
-
-E. Zapato hospitalario.
-
-41. Uniforme para quirófano. Es empleado por Generales, Jefes, Oficiales, Tropa y Cadetes, que realizan sus actividades en el área de quirófano y terapia intensiva dentro de escalones sanitarios, se conforma de la siguiente manera:
-
-A. Para hombre.
-
-a. Blusa azul plumbago.
-
-1. Cuello en “V”.
-
-2. Manga corta.
-
-3. Bolsa superior de parche.
-
-b. Pantalón color azul plumbago.
-
-c. Zapatón.
-
-B. Para mujer:
-
-a. Blusa azul plumbago.
-
-1. Cuello en “V”.
-
-2. Manga corta.
-
-3. Bolsa superior de parche.
-
-b. Pantalón color azul plumbago con resorte.
-
-c. Zapatón.
-
-42. Filipina para el Centro de Rehabilitación Infantil. Es empleada por Generales, Jefes, Oficiales y Tropa del servicio de sanidad en las instalaciones del Centro de Rehabilitación Infantil. Se fabrica en cuatro colores (vino, azul rey, rosa y azul cielo) para hombre y mujer, se conforma de la siguiente manera:
-
-A. Filipina para hombre en colores vino y azul rey y para mujer en colores rosa y azul cielo, con los siguientes bordados en hilo color amarillo.
-
-a. Grado y nombre en la parte superior derecha.
-
-b. Logo del Centro de Rehabilitación Infantil en la parte superior izquierda y en la manga izquierda.
-
-B. Pantalón azul del uniforme administrativo.
-
-C. Zapato de presentación para hombre o zapato negro para mujer.
-
-43. Bata para el Centro de Desarrollo Infantil. Es empleada por el personal de estas instalaciones, en los siguientes tipos:
-
-A. De trabajo social.
-
-B. De educadora.
-
-C. De afanadora.
-
-44. Filipina para peluqueros. Es empleada por Oficiales y Tropa, se fabrica en modelo único para ambos sexos en color blanco, se utiliza en sustitución de la guerrera para llevar a cabo actividades propias de la especialidad.
-
-45. Bufanda. Es empleada por Generales, Jefes, Oficiales, Cadetes y Tropa en actividades operativas en climas fríos, se fabrica en modelo único color verde olivo.
-
-46. Coipa. Es empleada por Generales, Jefes, Oficiales, Cadetes y Tropa en actividades operativas y administrativas en épocas de frío, se coloca en el cuello a la altura de la barbilla, se fabrica en modelo único en colores verde olivo, negro y sepia.
-
-47. Cinturón negro. Es empleado por Generales, Jefes, Oficiales, Cadetes y Tropa, se fabrica en polyester color negro, con hebilla plateada, en modelo único, para los uniformes de campaña, administrativo, de ceremonias, de diario, gala y gran gala para Planteles Militares.
-
-48. Cinturón de cuero con hebilla dorada. Es empleado por Generales, Jefes y Oficiales; se fabrica en cuero negro con hebilla dorada, en modelo para hombre para los uniformes de ceremonias, administrativo, gala, médicos y enfermeros.
-
-49. Corbata. Es empleada por el personal de Generales, Jefes, Oficiales y Tropa, hombres en el uniforme de ceremonias y por el personal de médicos residentes, así como Cadetes del Colegio del Aire en el uniforme de gran gala, se confecciona en corte angosto y se fabrica en satín liso negro, en modelo para hombre.
-
-50. Corbatín. Es empleado por el personal de Generales, Jefes, Oficiales y Tropa para mujer en el uniforme de ceremonias y de Médicos residentes, se fabrica en satín liso negro con botón liso, color perla.
-
-51. Botones de metal dorado. Se usan en los uniformes y tocados del Ejército y Fuerza Aérea, son estriados de 25 y 15 milímetros de diámetro, respectivamente; llevan grabado al centro el Escudo Nacional e inscrita la leyenda “DEFENSA NACIONAL MÉXICO” alrededor de éste; para los uniformes del Heroico Colegio Militar llevan inscrita la leyenda “H. COLEGIO MILITAR MÉXICO” y su escudo representativo al centro.
-
-52. Guantes. Son empleados por el personal de Generales, Jefes, Oficiales, Cadetes y Tropa en climas fríos, se fabrican en modelo único, en acrilán verde olivo.
-
-53. Guantes blancos. Son empleados por el personal de Generales, Jefes, Oficiales, Cadetes y Tropa en establecimientos de Educación Militar y cuerpos especiales para ceremonias, se fabrican en modelo único para ambos sexos.
-
-54. Guantes negros. Son empleados por el personal de Generales, Jefes, Oficiales y Tropa, en ceremonias y en actividades operativas, cierran por la parte interior por medio de un broche y se fabrican en piel negra en modelo único para ambos sexos.
-
-55. Guantes de cetrero. Son empleados por Cadetes del Heroico Colegio Militar y del Colegio del Aire, se fabrican en piel color negro con un grosor de 0.5 cm., con una longitud de 27 cm. y anchura de 5 cm., con la forma de la mano (5 dedos), en modelo único, se compone de tres piezas (guante, cuerpo y refuerzo), en el extremo inferior de ambos lados cuenta con dos orificios para colocar la dragona, con la función de llamar la atención del ave, fabricada en piel de cabretilla color negro, con una longitud de 60 cm. y un grosor de 0.3 cm., en la contracara lleva dos argollas que sirven para enganchar la cadena de seguridad que sujeta al ave, asimismo en la parte interna cuenta con un corte de piel que sirve para unir la cara y contracara y en el antebrazo el escudo del plantel.
-
-56. Guantes de vuelo. Son empleados por el personal de las tripulaciones de las aeronaves de la Fuerza Aérea, como parte del overol de vuelo, se fabrica en modelo único, en piel color gris y tela verde sagre ignífuga.
-
-57. Moño. Es empleado por el personal de meseros hombres.
-
-58. Overol de vuelo. Es empleado por Generales, Jefes, Oficiales, Cadetes y Tropa que formen parte de una tripulación de vuelo, se fabrica en modelo único, en color verde sagre, mismo que se compone de la siguiente manera:
-
-A. Cuartelera azul aéreo incluye el grado y escarapela.
-
-B. Con parches del grado sobre los hombros, en la parte superior izquierda porta nombre con alas de especialidad, en la parte superior derecha sector del material de vuelo, en la manga izquierda sector de la unidad superior, parche de “México” (en comisiones en el extranjero), y sector de la unidad en la manga derecha.
-
-C. Playera color verde.
-
-D. Botas de vuelo.
-
-E. Guantes de vuelo.
-
-F. Las divisas serán bordadas a colores en actividades de adiestramiento y color negra con fondo verde cuando realice operaciones aéreas tácticas.
-
-G. Se usará con el equipo correspondiente al tipo de material de vuelo y operaciones que se efectúen.
-
-a. En aeronaves de ala rotativa, se utiliza con las divisas antes descritas y debe emplearse con los siguientes equipos de acuerdo a la misión que realice:
-
-1. Casco de vuelo táctico.
-
-2. Chaleco antibalas.
-
-3. Chaleco de supervivencia con los materiales de acuerdo al tipo de terreno en el que operará.
-
-4. Gafas de protección solar.
-
-b. En aeronaves de ala fija, se utiliza con las divisas antes descritas y debe emplearse con los siguientes equipos de acuerdo al tipo de material de vuelo y misiones que realice:
-
-1. Casco de vuelo con mascarilla.
-
-2. Audífonos.
-
-3. Chaleco antibalas.
-
-4. Chaleco de supervivencia con los materiales de acuerdo al tipo de terreno en el que operará.
-
-5. Traje anti “gs”.
-
-6. Paracaídas.
-
-7. Gafas de protección solar.
-
-c. Para personal de línea de vuelo, se utiliza con las divisas antes descritas, con las variantes siguientes:
-
-1. Protectores auditivos.
-
-2. Gafas de protección solar.
-
-3. Chaleco fluorescente color azul para oficiales y cadetes que desempeñen funciones de “oficial de seguridad aérea”.
-
-4. Chaleco fluorescente color amarillo para oficiales y cadetes que desempeñen funciones de “oficial de embarque”.
-
-59. Overol de trabajo. Es empleado por los Jefes, Oficiales y personal de Tropa Especialistas, que realizan actividades propias de su especialidad en el hangar, plataforma de vuelo y escalones de mantenimiento, con el fin de estandarizar y ofrecer seguridad al personal durante los trabajos, es fabricado en tela ignífuga color azul aéreo, excepto el overol para recargadores de oxígeno que será en color blanco, se compone de la siguiente manera:
-
-A. Cuartelera color azul aéreo, incluye el grado y escarapela.
-
-B. Overol de trabajo, incluye parches del grado sobre los hombros, portanombre con alas de la especialidad en la parte superior izquierda, sector del material de vuelo con el que está dotado la unidad en la parte superior derecha, sector de la unidad superior en la manga izquierda con parche de “México” (en comisiones en el extranjero) y sector de la unidad en la manga derecha.
-
-C. Playera verde.
-
-D. Medias botas industriales.
-
-E. Las divisas serán bordadas.
-
-F. Se emplearán con protectores auditivos y lentes industriales.
-
-G. Chaleco fluorescente del color de acuerdo a la especialidad.
-
-60. Overol de trabajo para el personal que maneja combustibles clase III-A. Es empleado por los Jefes, Oficiales y Tropa en actividades en apoyo de las operaciones aéreas, fabricado en color azul aéreo, se compone de la siguiente manera:
-
-A. Cuartelera azul aéreo, incluye el grado y escarapela, sólo deberá emplearla fuera de las plataformas y áreas de maniobra de las aeronaves.
-
-B. Playera blanca.
-
-C. Medias botas industriales.
-
-D. Equipo de protección correspondiente.
-
-61. Overol para unidades blindadas. Es empleado por el personal encuadrado en estas unidades, en actividades operativas, de adiestramiento y mantenimiento vehicular, se fabrica en modelo único.
-
-62. Overol para taller. Es empleado por personal del Ejército y Fuerza Aérea en color camuflaje selva para personal que labora en talleres, almacenes y actividades de mantenimiento y en color azul eléctrico para personal de procesados y sentenciados.
-
-63. Uniforme para personal del servicio de ingenieros. Es empleado para actividades propias de su especialidad, se fabrica en tela de mezclilla color azul marino, en modelo único.
-
-64. Pañuelo. Es empleado por el personal de Generales, Jefes, Oficiales, Cadetes y Tropa, se confecciona en tejido liso, con dobladillo en todo su contorno, se fabrica en tela lisa color blanco, en modelo único.
-
-65. Suéter blanco. Es empleado por el personal de Generales, Jefes, Oficiales, Cadetes y Tropa del servicio de Sanidad en actividades hospitalarias, se fabrica en acrilán blanco, en modelo único.
-
-66. Trusa. Es empleada por el personal de hombres, se fabrica en tela verde olivo y blanco, se confecciona en corte tipo bikini.
-
-67. Pantaleta. Es empleada por el personal de mujeres, es fabricada en tela blanca de algodón.
-
-68. Brassier. Es empleado por el personal de mujeres, es fabricado en tela blanca de algodón, de una pieza con broche, tirantes rectos y copa completa.
-
-69. Calceta. Es empleada por personal del Ejército y Fuerza Aérea en actividades deportivas, serán en color blanco.
-
-70. Calcetín. Son empleados por el personal del Ejército y Fuerza Aérea en actividades diarias, será en color negro.
-
-71. Pantimedias. Son empleadas por el personal de mujeres Generales, Jefes, Oficiales, Cadetes y Tropa, se fabrican en nylon color natural, champagne y blanco, lisos y sin rayas.
-
-QUINTA SECCIÓN
-
-CALZADO
-
-72. Calzado del Ejército y Fuerza Aérea.
-
-A. Bota de montar tipo inglés (federica).
-
-B. Bota de montar tres hebillas.
-
-C. Bota de montar tipo blucher.
-
-D. Bota operativa.
-
-E. Bota de salto operativa.
-
-F. Bota de vuelo.
-
-G. Bota industrial.
-
-H. Tenis.
-
-I. Zapato tipo botín.
-
-J. Zapato de presentación.
-
-K. Zapato hospitalario para hombre.
-
-L. Zapato para mujer.
-
-M. Zapato hospitalario para mujer.
-
-N. Zapatilla para bata con alforzas.
-
-73. Bota de montar tipo inglés (federica). Es empleada por el personal de Generales, Jefes, Oficiales y Cadetes con los uniformes de montar: Administrativo, de ceremonias, campaña, de gran gala, gala para instituciones educativas militares y de doble botonadura, en actividades ecuestres, administrativas y ceremonias, el personal de Tropa de los organismos montados podrá utilizarlas con el uniforme de ceremonias deportivo de montar o cuando se ordene.
-
-74. Bota de montar tres hebillas. Es empleada por el personal de Generales, Jefes, Oficiales, Cadetes y Tropa con los uniformes de montar de campaña y de diario de instituciones educativas militares y organismos montados.
-
-75. Bota de montar tipo blucher. Es empleada por el personal de Generales, Jefes y Oficiales con los uniformes de montar en actividades ecuestres, administrativas y ceremonias, cuenta con agujeta al frente.
-
-76. Bota operativa. Es empleada por el personal de Generales, Jefes, Oficiales, Cadetes y Tropa del Ejército con el uniforme de campaña, también se fabricará en color negro para la Fuerza Aérea, Cuerpo de Guardias Presidenciales, uniforme del Servicio de Ingenieros, Cocineros, Defensas Rurales, Procesados y Sentenciados, Policía Militar en servicios de seguridad, ceremonias y desfiles, así como Planteles militares de formación de Clases y con los overoles, en actividades operativas y administrativas.
-
-77. Bota de salto operativa. Es empleada por el personal de Generales, Jefes, Oficiales y Tropa de la Brigada de Fusileros Paracaidistas, con el uniforme de campaña, en actividades de paracaidismo, también se fabricará en color negro y será utilizada por este personal en ceremonias y desfiles y el de Guardias Presidenciales con el uniforme verde olivo de presentación.
-
-78. Bota de vuelo. Es empleada por el personal de tripulaciones de las aeronaves con el overol de vuelo exclusivamente, es de piel negra retardante al fuego, suela antiderrapante, cuenta con una solapa en la parte superior, lleva un parche con tela de contacto en sus laterales y cierran al frente por medio de una agujeta que se amarra en sus puntas con un barrilito.
-
-79. Bota industrial. Será empleada por el personal de los servicios del Ejército y Fuerza Aérea en actividades propias en los talleres y áreas de trabajo, son fabricadas en color negro con casco de material anti-impacto en la punta, suela antiderrapante y dieléctrica.
-
-80. Amarre de las agujetas de las medias botas. Será tipo escalera y tipo petatillo, empleándose este último para el amarre de las medias botas de salto, en desfiles y ceremonias.
-
-Para el personal de Guardias Presidenciales la agujeta será en amarre de petatillo en color blanco, para el personal de Policía Militar será amarre de escalera en color blanco en desfiles y ceremonias y para el personal de paracaidistas el amarre de petatillo será con agujeta para bota de salto.
-
-81. Tenis. Son empleados por el personal de Generales, Jefes, Oficiales, Cadetes y Tropa en actividades deportivas, se fabrican en modelo único para ambos sexos.
-
-82. Zapato tipo botín. Es empleado por el personal de Generales, Jefes, Oficiales y Cadetes de los establecimientos de Educación Militar, con los uniformes de presentación, gran gala, gala y doble botonadura, se fabrica modelo para hombre y para mujer.
-
-83. Zapato de presentación. Es empleado por el personal de Generales, Jefes, Oficiales y Tropa del Ejército y Fuerza Aérea con los uniformes de ceremonias, de gala, de gira, administrativo, para médico cirujano y odontólogo, de personal técnico y de mesero, en ceremonias y actividades administrativas y hospitalarias.
-
-84. Zapato hospitalario para hombre. Es empleado por el personal de Generales, Jefes, Oficiales, Cadetes y Tropa con los uniformes de prácticas y actividades hospitalarias, de médicos residentes, de especialidad y enfermeros.
-
-85. Zapato para mujer. Es empleado por el personal de Generales, Jefes, Oficiales, Cadetes y Tropa con los uniformes de ceremonias, administrativo, presentación, verano, gala, doble botonadura, mesera, médico cirujano y odontólogo y para personal técnico en actividades administrativas, con tacón de 5.2 centímetros de altura, incluida la tapa.
-
-86. Zapato hospitalario para mujer. Es empleado por el personal de Generales, Jefes, Oficiales, Cadetes y Tropa del servicio de Sanidad, con los uniformes para prácticas hospitalarias, médico residente de especialidad y de verano e invierno para enfermera.
-
-87. Zapatilla para bata con alforzas. Es empleada por el personal de Jefes, Oficiales y Cadetes pertenecientes al cuerpo de Cadetes de este plantel, en ceremonias y desfiles.
-
-SEXTA SECCIÓN
-
-TOCADOS
-
-88. Los tocados del Ejército y Fuerza Aérea son:
-
-A. Boina.
-
-B. Cofia para enfermera.
-
-C. Gorras de guarnición:
-
-a. Gorra de guarnición.
-
-b. Gorra de guarnición de gala:
-
-1. Generales.
-
-2. Jefes.
-
-3. Oficiales.
-
-4. Establecimientos de Educación Militar.
-
-5. Para músicos.
-
-D. Tocados para mujeres:
-
-a. De diario.
-
-b. De gala:
-
-1. Generales.
-
-2. Jefes.
-
-3. Oficiales.
-
-E. Ross:
-
-a. Generales.
-
-b. Jefes.
-
-c. Oficiales.
-
-d. Cadetes.
-
-F. Gorras de campo:
-
-a. Gorra de campo.
-
-b. Gorra de campo con tapasol.
-
-c. Gorra de trabajo para el personal del arma y servicio de ingenieros.
-
-G. Gorra cuartelera:
-
-a. Para uniforme Administrativo.
-
-b. Para establecimientos de Educación Militar de formación de Oficiales.
-
-c. Para Planteles Militares de formación de Clases.
-
-d. Para cocinero.
-
-H. Sombrero de defensas rurales.
-
-I. Sombrero para caporal.
-
-J. Gorro invernal.
-
-89. Boina. Es empleada por el personal de Generales, Jefes, Oficiales y Tropa que se encuentre encuadrado en las Unidades del Ejército de la siguiente forma: verde para Fuerzas Especiales, negra para Guardias Presidenciales y carmesí para Fusileros Paracaidistas.
-
-Su empleo será en ceremonias, desfiles, en actividades cívicas y administrativas, excepto en aquellos eventos que por su naturaleza, importancia y uniformidad se deba asistir con otro tipo de tocado.
-
-Los Generales, Jefes y Oficiales colocarán la insignia del grado al centro, alineada con la entreceja y un chapetón de metal en alto relieve alineado con el ojo izquierdo, con el escudo del cuerpo especial correspondiente, el personal de Tropa únicamente utilizará el chapetón como se indica; el luto será colocado a un centímetro de las cejas y la caída deberá ser a la altura del borde superior de la oreja del lado derecho y el borde del costado izquierdo será en forma semicircular en un solo plano, el luto llevará un amarre de nudo de corbata, el extremo corto será de 2 centímetros y el extremo largo será de 4 centímetros con un corte en forma de “V” invertida.
-
-Al descubrirse, tomará la boina con la mano derecha, doblada y la colocará bajo la sobrehombrera izquierda con el chapetón hacia el frente y hacia arriba.
-
-90. Cofia para enfermera. Es empleada por el personal de Jefes, Oficiales, Cadetes y Tropa enfermeras con los uniformes de bata con alforzas y blanco hospitalario, en el centro de la parte frontal lleva una cruz tricolor que forma parte de la cofia, en la parte posterior cierra con un botón color blanco con un relieve de una lámpara distintiva de la enfermería.
-
-91. Gorra de guarnición. Es empleada por Generales, Jefes, Oficiales y Tropa con el uniforme de ceremonias y administrativo, se fabrica en modelo para hombre.
-
-La colocación de los tocados al descubrirse, será de la siguiente manera:
-
-92. Cuando el personal porta un tocado rígido y tiene que descubrirse, si el tocado tiene visera debe colocarlo bajo el brazo izquierdo con la visera al frente, el plato hacia fuera y tener el brazo flexionado; además se debe colocar el dedo pulgar apoyado contra la visera a unos cinco centímetros del botón de la carrillera con los dedos restantes sobre la parte inferior de la propia visera.
-
-93. Cuando el personal porte cuartelera y se descubra, debe colocarla en la cintura bajo la hebilla del cinturón con las insignias hacia el frente.
-
-94. Cuando el personal porte ross y tenga que descubrirse, debe colocarlo delante del brazo izquierdo con la visera al frente, el plato hacia arriba y tener el brazo flexionado aproximadamente 90°, además se deben colocar los dedos sujetando la visera excepto el pulgar apoyado contra la visera en la parte inferior de la misma.
-
-95. Gorra de guarnición de gala para Generales. Es empleada por Generales con los uniformes de gala y gala para establecimientos de Educación Militar, se fabrica en modelo para hombre.
-
-96. De guarnición de gala para Jefes. Es empleada por Jefes con los uniformes de gala y gala para establecimientos de Educación Militar, se fabrica en modelo para hombre.
-
-97. Gorra de guarnición de gala para Oficiales. Es empleada por Oficiales con los uniformes de gala y gala para establecimientos de Educación Militar, se fabrica en modelo para hombre.
-
-98. Gorra de guarnición de gala para establecimientos de Educación Militar. Es empleada por Cadetes con los uniformes de gala y doble botonadura, así como por el personal que integra las bandas de música del Heroico Colegio Militar y del Colegio del Aire con el uniforme de gala correspondiente.
-
-99. Tocado de diario para mujer. Es empleado por Generales, Jefes, Oficiales con el uniforme de ceremonias y administrativo, las insignias se deben colocar directamente sobre el tocado, cuando el personal tenga que descubrirse se portará del mismo modo que la gorra de guarnición.
-
-100. Tocado de gala para mujer:
-
-A. Para Generales. Es empleado por el personal de Generales con los uniformes de gala, el modelo es de una base rígida forrada de tela y sobre la manga debe llevar en toda su circunferencia bordados dos cordones, una sierra y una rama de laurel y encino; así mismo las ramas de laurel no se unirán en la parte posterior del tocado, el interior debe ir forrado con tela nylon, las insignias se deben colocar sobre un óvalo rígido en color negro.
-
-B. Para Jefes. Es empleado por el personal de Jefes con los uniformes de gala, se fabrica en tela negra, el modelo es de una base rígida forrada de tela y sobre la manga lleva bordados en toda su circunferencia dos cordones y una sierra al centro, el interior debe ir forrado con tela nylon, las insignias se deben colocar sobre un óvalo rígido en color negro.
-
-C. Para Oficiales. Es empleado por el personal de Oficiales con los uniformes de gala, se fabrica en tela negra, el modelo es de una base rígida forrada de tela y sobre la manga lleva bordados en toda su circunferencia dos cordones y un cordón trenzado al centro, el interior debe ir forrado con tela nylon, las insignias se deben colocar sobre un óvalo rígido en color negro.
-
-101. Tocado para mujer de gala para instituciones educativas:
-
-A. Para Generales. Es empleado con el uniforme de gala para instituciones educativas militares, el modelo es de una base rígida forrada de tela y sobre la manga lleva los bordados correspondientes a la jerarquía, siendo para General de Brigada dos cordones, una cadena de lentejuelas, una sierra y una rama de laurel y encino, para General Brigadier un cordón, una cadena de lentejuelas, una sierra, una rama de laurel y encino, las ramas de laurel no se unirán en el centro en la parte posterior de la gorra, el interior debe ir forrado con tela nylon, los escudos de la institución educativa militar se deben colocar sobre un óvalo rígido en color negro.
-
-B. Para Jefes. Es empleado con el uniforme de gala para instituciones educativas militares, el modelo es de una base rígida forrada de tela y sobre la manga lleva los galones correspondientes a la jerarquía los cuales tendrán las siguientes características: para coronel tres galones de ½”, para teniente coronel dos galones externos de ½” y el central de ¼”, y para mayor dos galones externos de ¼” y el central de ½”, el interior debe ir forrado con tela nylon, los escudos de la institución educativa militar se deben colocar sobre un óvalo rígido en color negro.
-
-C. Para Oficiales. Es empleado con el uniforme de gala, el modelo es de una base rígida forrada de tela y sobre la manga lleva los galones correspondientes a la jerarquía, los cuales tendrán las siguientes características: para Capitán Primero los tres galones dorados de ¼”, para Capitán Segundo los dos galones externos dorados de ¼” y el central en color plateado de ¼”, para Teniente dos galones dorados de ¼”, y para Subteniente un galón dorado de ¼”, el interior debe ir forrado con tela nylon, los escudos de la institución educativa militar se deben colocar sobre un óvalo rígido en color negro.
-
-102. Tocado de gala para mujer, para establecimientos de Educación Militar. Es empleado por Cadetes con los uniformes de gala, el escudo del plantel, debe colocarse directamente sobre el tocado, cuando el personal tenga que descubrirse se portará del mismo modo que la gorra de guarnición.
-
-103. Ross. Es empleado por Generales, Jefes, Oficiales y Cadetes, con el uniforme de gran gala y se fabrica en tela negra para hombre y mujer, es de una base rígida forrada de tela con vivo de color rojo carmesí para el Heroico Colegio Militar y la compañía de Guardia de Honor, para el Colegio del Aire en color morado obispo.
-
-A. Para Generales. En la parte superior cuenta con dos ojillos por lado, debe llevar en toda su circunferencia los bordados correspondientes a la jerarquía, los cuales tienen las siguientes características: para General de División con un cordón, una cadena de lentejuelas, doble rama de laurel y encino, para General de Brigada son dos cordones, una cadena de lentejuelas, una rama de laurel y encino y para General Brigadier es un cordón, una cadena de lentejuelas, una rama de laurel y encino.
-
-Las ramas de laurel no se unirán en el centro, debiendo dejar un espacio libre de cinco centímetros al frente, cuenta con carrillera, falsa carrillera, visera y tafilete, en la parte superior tiene un penacho de color blanco y morado obispo según corresponda, los escudos de la institución educativa militar se deben colocar sobre un óvalo rígido en color negro.
-
-B. Para Jefes. Es empleado por Jefes con el uniforme de gran gala y se fabrica en tela negra, para hombre y mujer, es de una base rígida forrada de tela con vivo de color rojo carmesí para el Heroico Colegio Militar y morado obispo para el Colegio del Aire, en la parte superior tiene dos ojillos por lado, lleva galones dorados en toda su circunferencia, los cuales tendrán las siguientes características según la jerarquía correspondiente: para Coronel los tres galones de ½”, para Teniente Coronel los galones externos son de ½” y el central de ¼”, y para Mayor los dos galones externos son de ¼” y el central de ½”. Cuenta con carrillera y falsa carrillera en color dorado, visera, tafilete y un penacho de color blanco y morado obispo según corresponda, los escudos de la institución educativa militar se deben colocar sobre un óvalo rígido en color negro.
-
-C. Para Oficiales. Es empleado por Oficiales con el uniforme de gran gala y se fabrica en tela negra, modelo único para hombre y para mujer, es de una base rígida forrada de tela con vivo, de color rojo carmesí para el Heroico Colegio Militar y morado obispo para el Colegio del Aire, en la parte superior cuenta con dos ojillos por lado, lleva galones dorados en toda su circunferencia, los cuales tendrán las siguientes características según la jerarquía correspondiente: para Capitán Primero tiene tres galones dorados de ¼”, para Capitán Segundo dos galones externos dorados de ¼” y el central plateado de ¼”, para Teniente dos galones dorados de ¼”, y para Subteniente un galón dorado de ¼”, cuenta con carrillera y falsa carrillera en color dorado, visera, tafilete y un penacho de color blanco y morado obispo según corresponda, los escudos de la institución educativa militar se deben colocar sobre un óvalo rígido en color negro.
-
-D. Para Cadetes. Es empleado por Cadetes en desfiles y ceremonias con el uniforme de gran gala, se fabrica en tela negra modelo único para hombre y para mujer, es de una base rígida forrada de tela con vivo, de color rojo carmesí para el Heroico Colegio Militar y morado obispo para el Colegio del Aire, en la parte superior tiene dos ojillos por lado, cuenta con carrillera color negro y filos dorados, falsa carrillera en color dorado, visera, tafilete y penacho blanco o morado obispo según corresponda, los escudos de la institución educativa militar se deben colocar directamente sobre el ross.
-
-104. Gorra de campo. Es empleada por Generales, Jefes, Oficiales, Cadetes y Tropa con el uniforme de campaña, se fabrica en modelo único para hombre, en tela camuflaje selva y desierto para el personal del Ejército y azul aéreo para la Fuerza Aérea.
-
-105. Gorra de campo con tapasol. Es similar en forma y colores a la de campo, con la diferencia que tiene un tapasol de la misma tela de la gorra, que se coloca en la parte posterior, empleándose en actividades específicas.
-
-106. Tocado de campo para mujer. Es empleada por Generales, Jefes, Oficiales, Cadetes y Tropa con el uniforme de campaña, se fabrica en tela camuflaje selva y desierto para el personal del Ejército y Fuerza Aérea.
-
-107. Gorra de trabajo para el personal del servicio de ingenieros. Es empleada por el personal de dicha arma y servicio con el uniforme de trabajo, se fabrica en modelo único para ambos sexos.
-
-108. Gorra cuartelera. Es empleada por Generales, Jefes, Oficiales y Tropa, en actividades internas con el uniforme administrativo, se fabrica en modelo para hombre y mujer, en color negro para el Ejército Mexicano y azul aéreo para la Fuerza Aérea; para los Generales se confeccionará con un vivo color dorado en la parte media de la cuartelera.
-
-109. Gorra cuartelera para establecimientos de Educación Militar de formación de Oficiales. Es empleada por Jefes, Oficiales y Cadetes con el uniforme beige, se fabrica en tela negra en modelo para hombre y mujer, lleva en su contorno un vivo de acuerdo al color del plantel.
-
-110. Gorra Cuartelera para Planteles Militares de formación de Clases. Es empleada por el personal encuadrado en el cuerpo de alumnos con el uniforme verde olivo con botones dorados, el modelo es de corte rectangular, en la manga tiene un vivo de color distintivo del plantel y al frente pendiendo de la parte superior una borla del mismo color del vivo, se emplea en ceremonias y desfiles, para uso diario se emplea sin la borla.
-
-111. Gorra cuartelera para cocinero. Es empleada con el uniforme para cocinero y se fabrica en tela blanca, en modelo único para ambos sexos.
-
-112. Sombrero para defensas rurales. Es empleado por el personal perteneciente a dichos cuerpos, es de copa vaquera, ala ancha, de color gris, con toquilla y barbiquejo de cordón trenzado, así como con tafilete y forro interior.
-
-113. Sombrero para caporal. Es empleado por el personal del Criadero Militar de Ganado y de las granjas dependientes de la Secretaría de la Defensa Nacional y por el personal perteneciente a los Cuerpos de Caballería de Defensas Rurales, durante ceremonias, desfiles y actividades propias de estos organismos.
-
-114. Gorro invernal. Es empleado por Generales, Jefes, Oficiales, Cadetes y Tropa en actividades operativas en climas fríos, se fabrica en modelo único y en color verde olivo.
-
-#### SECCIÓN ÚNICA. DESCRIPCIÓN
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 56.
 
 Están obligadas al pago de este impuesto, las personas físicas y jurídicas colectivas, incluidas las asociaciones en participación, que realicen pagos en efectivo o especie por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, independientemente de la denominación que se les otorgue.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-También están obligados a retener y enterar este impuesto en términos del presente Código, las personas físicas o jurídicas colectivas que contraten la prestación de servicios de contribuyentes cuyo domicilio esté ubicado fuera del territorio de esta entidad, para que le proporcionen los trabajadores, siempre que el servicio personal se preste en el territorio del Estado. En este caso deberán entregar a la persona física o jurídica colectiva que le proporcione los trabajadores, la constancia de retención correspondiente.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-Para efectos de este impuesto se consideran remuneraciones, las siguientes:
+Están obligadas a retener y enterar este impuesto, las personas físicas y jurídico colectivas que contraten la prestación de servicios de contribuyentes domiciliados en otro Estado o entidad federativa, cuya realización genere la prestación de trabajo personal dentro del territorio del Estado. La retención del impuesto se efectuará al contribuyente que preste los servicios contratados, debiendo entregarle la constancia de retención correspondiente durante los quince días siguientes al periodo respectivo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Cuando para la determinación de la retención del impuesto se desconozca el monto de las remuneraciones al trabajo personal realizadas por el contribuyente de que se trate, la retención deberá determinarse aplicando la tasa del 2.5% al valor total de las contraprestaciones efectivamente pagadas por los servicios contratados en el mes que corresponda, sin incluir el Impuesto al Valor Agregado e independientemente de la denominación con que se designen.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Para efectos de este impuesto se consideran remuneraciones al trabajo personal, las siguientes:
 
 I. Pagos de sueldos y salarios.
 
 II. Pagos de tiempo extraordinario de trabajo.
 
-III. Pagos de premios, primas, bonos, estímulos e incentivos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+III. Pagos de premios, bonos, estímulos, incentivos y ayudas.
 
 IV. Pagos de compensaciones.
 
@@ -3155,21 +2079,57 @@ VII. Pagos de primas de antigüedad.
 
 VIII. Pagos de participación de los trabajadores en las utilidades.
 
-IX. (DEROGADA, G.G. 6 DE DICIEMBRE DE 2002)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA [N. DE E., ADICIONADA], G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+IX. Pagos en bienes y servicios, incluyendo la casa habitación, inclusive con la reserva del derecho de su dominio.
 
 X. Pagos de comisiones.
 
-XI. Pagos realizados a administradores, comisarios o miembros de los consejos directivos de vigilancia o de administración de sociedades o asociaciones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-XII. Pagos de servicios de comedor y comida proporcionado a los trabajadores.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-XIII. Pagos de vales de despensa.
+XI. Pagos realizados a administradores, comisarios, accionistas, socios o asociados de personas jurídico colectivas.
 
-XIV. Pagos de servicio de transporte.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XII. Pagos en efectivo o en especie, directa o indirectamente otorgados por los servicios de comedor y comida proporcionados a los trabajadores.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XIII. Pagos de despensa en efectivo, en especie o vales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XIV. Pagos en efectivo o en especie directa o indirectamente otorgados por los servicios de transporte proporcionados a los trabajadores.
 
 XV. Pagos de primas de seguros para gastos médicos o de vida.
 
-XVI. Pagos realizados a las personas por los servicios que presten a un prestatario, siempre que dichos servicios se lleven a cabo en las instalaciones o por cuenta de éste último, por los que no se deba pagar el impuesto al valor agregado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XVI. Pagos que se asimilen a los ingresos por salarios en los términos de la Ley del Impuesto Sobre la Renta.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XVII. Cualquier otra de naturaleza análoga a las señaladas en esta disposición que se entregue a cambio del trabajo personal, independientemente de la denominación que se le otorgue.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Cuando se desconozca el valor de los bienes o servicios, el monto de los mismos se considerará a valor de mercado.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -3181,73 +2141,77 @@ Quienes realicen pagos a trabajadores por concepto de edificación de obra, acab
 
 En caso de que el contribuyente después de ser requerido por la autoridad fiscal competente, no aporte dentro del término de 20 días, los datos y documentos necesarios y suficientes para la determinación del impuesto o cuando no sea posible establecer la base, se calculará considerando el número de metros cuadrados de construcción que declare el propio contribuyente o determine la autoridad fiscal.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Los propietarios que realicen la edificación de una sola vivienda social progresiva para su habitación personal, cuyo monto global no exceda de 216,179 pesos no causarán este impuesto. Tampoco causarán este impuesto, los propietarios que realicen modificaciones y/o remodelaciones a una vivienda social progresiva, cuando la obra no exceda un monto de 43,235 pesos. El documento con el que se acreditarán los supuestos anteriores lo constituirá la licencia de construcción que expida la autoridad municipal correspondiente.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Los propietarios que realicen la edificación de una sola vivienda social progresiva para su habitación personal, cuyo monto global no exceda de 226,556 pesos no causarán este impuesto. Tampoco causarán este impuesto, los propietarios que realicen modificaciones y/o remodelaciones a una vivienda social progresiva, cuando la obra no exceda un monto de 45,310 pesos. El documento con el que se acreditarán los supuestos anteriores lo constituirá la licencia de construcción que expida la autoridad municipal correspondiente.
 
 > <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 Al importe que resulte de multiplicar el número de metros cuadrados de construcción por el costo de mano de obra por metro cuadrado, de acuerdo a la siguiente tabla, se le aplicará la tasa vigente a que se refiere el artículo 57 de este código.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Tipo de obra Costo por m2
 
-Bardas $ 249
+Bardas $261
 
-Bodegas $ 331
+Bodegas $347
 
-Canchas de tenis $ 138
+Canchas de tenis $145
 
-Casa habitación de interés social $ 554
+Casa habitación de interés social $581
 
-Casa habitación tipo medio $ 657
+Casa habitación tipo medio $689
 
-Casa habitación residencial de lujo $ 860
+Casa habitación residencial de lujo $901
 
-Cines $ 641
+Cines $672
 
-Edificios habitacionales de interés social $ 535
+Edificios habitacionales de interés social $561
 
-Edificios habitacionales tipo medio $ 623
+Edificios habitacionales tipo medi o $653
 
-Edificios habitacionales de lujo $ 917
+Edificios habitacionales de lujo $961
 
-Edificios de oficinas $ 535
+Edificios de oficinas $56I
 
-Edificios de oficinas y locales comerciales $ 707
+Edificios de oficinas y locales comerciales $741
 
-Escuelas de estructura de concreto $ 483
+Escuelas de estructura de concreto $506
 
-Escuelas de estructura metálica $ 580
+Escuelas de estructura metálica $608
 
-Estacionamientos $ 312
+Estacionamientos $327
 
-Gasolineras $ 369
+Gasolineras $387
 
-Gimnasios $ 554
+Gimnasios $581
 
-Hospitales $ 952
+Hospitales $998
 
-Hoteles $ 959
+Hoteles $1,005
 
-Hoteles de lujo $ 1,291
+Hoteles de lujo $1,353
 
-Locales comerciales $ 575
+Locales comerciales $603
 
-Naves industriales $ 491
+Naves industriales $515
 
-Naves para fábricas, bodegas y/o talleres $ 344
+Naves para fábricas, bodegas y/o talleres $361
 
-Piscinas $ 438
+Piscinas $459
 
-Remodelaciones $ 564
+Remodelaciones $591
 
-Templos $ 528
+Templos $553
 
-Urbanizaciones $ 191
+Urbanizaciones $200
 
-Vías de comunicación subterráneas y conexas $ 977
+Vías de comunicación subterráneas y conexas $1,024
 
 > <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -3255,21 +2219,31 @@ Vías de comunicación subterráneas y conexas $ 977
 
 El impuesto se determinará aplicando la tasa del 2.5% sobre el monto total de los pagos efectuados por concepto de remuneraciones al trabajo personal a que se refiere el artículo 56 de este Código.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 58.
 
-Este impuesto se causará en el momento en que se realicen las erogaciones por remuneraciones al trabajo personal a que se refiere el artículo 56 de este Código, y se pagará mediante declaración en la forma oficial aprobada, que deberá presentarse a más tardar el día diez del mes siguiente a aquél en que se causó el impuesto.
+Este impuesto se causará o retendrá en el momento en que se realicen las erogaciones por remuneraciones al trabajo personal a que se refiere el artículo 56 de este Código, y se pagará o enterará mediante declaración en la forma oficial aprobada, que deberá presentarse a más tardar el día diez del mes siguiente a aquél en que se causó o retuvo el impuesto.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 58 Bis.
 
-Están obligados a presentar declaración anual informativa dentro de los tres primeros meses del año, las personas físicas o jurídicas colectivas que realicen los siguientes actos:
+Están obligados a presentar declaración anual informativa dentro de los dos primeros meses del año, las personas físicas o jurídico colectivas que realicen los siguientes actos;
+
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 I. Presten servicios mediante los cuales proporcionen trabajadores a terceros cuyo domicilio se encuentre dentro o fuera del territorio del Estado.
 
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
 II. Contraten en territorio del Estado, servicios mediante los cuales se le proporcione trabajadores.
+
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 La presentación de declaraciones informativas a que refiere este artículo se harán conforme a las reglas de carácter general que emitirá la autoridad fiscal competente, mismas que habrán de publicarse en el Periódico Oficial.
 
@@ -3289,7 +2263,11 @@ III. Becas educacionales y deportivas para los trabajadores.
 
 IV. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
 
-V. Indemnizaciones por riesgos o enfermedades profesionales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+V. Indemnizaciones por despido o terminación de la relación laboral, riesgos o enfermedades profesionales.
 
 VI. Pensiones, jubilaciones y gastos funerarios.
 
@@ -3313,131 +2291,37 @@ D). Las instituciones de beneficencia reconocida por el Estado.
 
 E). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2006)
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-F). Las microindustrias inscritas en el Padrón Nacional de la Microindustria, hasta por 6 trabajadores, que perciban el salario mínimo general vigente del área geográfica que corresponda.
+F). (DEROGADO, G.G. 18 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-G). Las asociaciones en participación que cuenten hasta con seis trabajadores que perciban el salario mínimo general vigente en el área geográfica que corresponda.
+G). (DEROGADO, G.G. 18 DE DICIEMBRE DE 2008)
 
 H). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000)
 
 I). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000)
 
-> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-XI. Pagos a administradores, comisarios o miembros de los consejos de administración de sociedades o asociaciones de carácter civil o mercantil que no provengan de una relación laboral.
+XI. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008)
 
-#### SECCIÓN ÚNICA. DESCRIPCIÓN
+#### SECCION SEGUNDA. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS AUTOMOTORES
 
-202. Los artículos bordados del Ejército y Fuerza Aérea son:
-
-A. Alas de pecho.
-
-B. Bordado de cuello:
-
-a. En uniformes de gala para Generales, Jefes y Oficiales.
-
-b. En uniformes de gran gala y gala para instituciones educativas militares.
-
-c. Para uniforme de gira verde olivo.
-
-C. Bordado para manga:
-
-a. En uniformes de gala para Generales, Jefes y Oficiales.
-
-b. En uniformes de gran gala y gala para Instituciones Educativas Militares.
-
-D. Gafetes bordados.
-
-E. Para chamarra.
-
-F. Para overol y chamarra de vuelo.
-
-G. De placas.
-
-H. Insignias de cursos de los cuerpos especiales.
-
-I. Marruecas y Sardinetas.
-
-J. Bordados de palas de gala.
-
-K. Parche de cuello.
-
-L. Portanombres.
-
-M. Puente.
-
-N. Sectores:
-
-a. De campaña.
-
-b. De colores.
-
-O. Sobrehombreras:
-
-a. De campaña.
-
-b. Para Generales.
-
-c. Con vivos de color.
-
-203. Alas de pecho bordadas. Son utilizadas por el personal de Generales, Jefes, Oficiales, Cadetes y Tropa con el uniforme de campaña. Se bordan en hilo negro con excepción de las empleadas con el uniforme camuflado desierto que se bordan en hilo café, para personal de pilotos aviadores cuando empleen el overol de vuelo, se bordan en hilo metálico dorado. Las alas de pecho bordadas se portan arriba y al centro de la costura de la cartera de la bolsa izquierda.
-
-204. En los uniformes de gala para Generales, Jefes y Oficiales se bordará el escudo del arma o servicio según corresponda en cada extremo del cuello, en hilo metálico dorado con fondo de color negro.
-
-205. En los uniformes para Generales de gran gala y gala de instituciones educativas militares, el cuello se borda en toda su circunferencia en hilo de canutillo dorado. Los bordados se realizan conforme a la jerarquía, los cuales tienen las siguientes características: para General de División, un cordón, una cadena de lentejuelas, una sierra y doble rama de laurel y encino, para General de Brigada, dos cordones, una cadena de lentejuelas, una sierra y una rama de laurel y encino y para General Brigadier, un cordón, una cadena de lentejuelas, una sierra y una rama de laurel y encino. Además, en el puño de los uniformes de los Generales de División se borda en canutillo dorado un cordón, una cadena de lentejuelas, una sierra y doble rama de laurel y encino, de los Generales de Brigada, dos cordones, una cadena de lentejuelas, una sierra y una rama de laurel y encino y de los Generales Brigadier, un cordón, una cadena de lentejuelas, una sierra y una rama de laurel y encino.
-
-206. En los uniformes de gala para instituciones educativas militares se borda el escudo correspondiente en cada extremo del cuello, en hilo metálico dorado con fondo de color negro.
-
-207. El uniforme de gira lleva bordados los escudo (sic) de cuello correspondientes en cada extremo del cuello, con hilo metálico dorado.
-
-208. Los uniformes de gala para Generales, Jefes y Oficiales Diplomados de Estado Mayor y Estado Mayor Aéreo llevan bordadas con hilo metálico sardinetas y marruecas.
-
-209. Bordados de las mangas para los uniformes de gran gala y gala para instituciones educativas militares. Llevan bordadas con hilo metálico las jerarquías según correspondan. Para General de División un cordón, una sierra, doble rama de laurel y encino, para General de Brigada son dos cordones, una sierra, una rama de laurel y encino, y para General Brigadier es un cordón, una sierra, una rama de laurel y encino, asimismo en caso de ser Diplomado de Estado Mayor para mujer u hombre, lleva bordadas sardinetas y marruecas, estas últimas de forma rectangular terminadas en punta.
-
-210. El personal Diplomado de Estado Mayor y de Estado Mayor Aéreo, mujeres y hombres, emplearán sardinetas y marruecas bordadas en hilo blanco con el uniforme de ceremonias, en hilo canutillo dorado para los uniformes de gala y gran gala para instituciones educativas; gala para Generales, Jefes y Oficiales; así como en el uniforme de ceremonias para el Jefe y Subjefes del Estado Mayor Presidencial.
-
-211. El personal de la ayudantía del C. Presidente de la República y del C. Secretario de la Defensa Nacional, Subsecretario, Oficial Mayor y Comandante de la Fuerza Aérea Mexicana no Diplomados de Estado Mayor usarán parches con las sardinetas de color dorado para el Presidente y blanco para los demás funcionarios, sin marruecas. Las sardinetas serán cuatro rectángulos terminados en punta y las marruecas serán ramas de laurel y encino.
-
-212. El bordado del gafete del curso de formación, es empleado por el personal de Generales, Jefes, Oficiales, Cadetes y Tropa con el uniforme de campaña. Es en hilo negro, con excepción del gafete empleado con el uniforme camuflaje de desierto, que se borda en hilo café, es de forma rectangular, bordado en todo su perímetro, en su parte central lleva el escudo distintivo del plantel respectivo. Los gafetes se portarán arriba y al centro de la costura de la cartera de la bolsa derecha.
-
-213. El bordado de la chamarra de campaña “EJÉRCITO MEXICANO” o “FUERZA AÉREA MEXICANA” es un parche del mismo tipo y color de tela que la chamarra y se borda en hilo negro con excepción de la (sic) camuflaje de desierto que se borda en hilo café.
-
-214. Los bordados del overol y chamarra de vuelo (alas de pecho con portanombre, sector tipo rodela y sector del material de vuelo) son utilizados por el personal de Generales, Jefes, Oficiales, Cadetes y Tropa que forman parte de las tripulaciones de vuelo.
-
-Las alas de pecho con portanombre serán bordadas en hilo dorado o plateado según sean para piloto aviador o especialista de Fuerza Aérea respectivamente, en un portanombre de tela negra, debajo de éstas y centrado se colocará el nombre bordado en hilo amarrillo, incluyendo en mayúsculas: La inicial o iniciales del o los nombres, apellido paterno completo e inicial del apellido materno, en letra arial de 7 milímetros de alto x 5 milímetros de ancho. De igual manera para el desarrollo de operaciones aéreas en campaña, se bordan alas y nombre en hilo negro sobre un portanombre de tela verde olivo, se porta arriba de la bolsa izquierda del overol.
-
-El sector del material de vuelo comprende un triángulo con esquinas curvas en fondo azul y borde blanco, donde se incluye una figura de la aeronave vista de planta en color blanco, incluyendo con letra tipo arial su nomenclatura. Se coloca a la altura del pecho, arriba de la bolsa derecha del overol.
-
-215. Las palas de gala son empleadas con el uniforme de gran gala para la Escuela Militar de Enfermeras, gala para Generales, Jefes y Oficiales, gala para instituciones educativas militares y uniforme de ceremonias. En ellas se borda con hilo canutillo dorado sobre tela, el escudo del arma, servicio o especialidad, así como la insignia de jerarquía correspondiente. Para el personal de Cadetes únicamente se borda el perímetro de la pala y lleva un vivo del color distintivo de la institución educativa.
-
-216. Los parches de cuello distintivos del arma, servicio, especialidad o instituciones educativas militares, son empleados por el personal de Generales, Jefes, Oficiales, Tropa y Cadetes con el uniforme de campaña y son del mismo tipo de tela que la del uniforme. Se bordan en hilo negro con excepción de los empleados con el uniforme camuflado desierto que se bordan en hilo café, para los Generales son de forma romboidal y tendrán al centro un laurel bordado al igual que todo el perímetro del parche, para los Jefes, Oficiales, Cadetes y Tropa son de forma triangular invertida en cuya parte superior se borda el escudo distintivo del arma, rama o servicio, así como el perímetro correspondiente, para las instituciones educativas militares son en forma de rombo con el escudo correspondiente.
-
-217. El bordado de porta nombres empleado por el personal de Generales, Jefes, Oficiales, Cadetes y Tropa con el uniforme de campaña, se borda en hilo negro, excepto el uniforme de campaña camuflaje desierto que se borda en hilo café, es de forma rectangular y en su parte central se encuentra bordado con letras mayúsculas tipo arial, la inicial de los nombres, el apellido paterno en forma completa y la inicial del apellido materno, se colocará abajo y al centro de la cartera de la bolsa derecha.
-
-218. El bordado de puente y el parche de la Bandera Nacional, son empleados por el personal comisionado en el extranjero con todos los uniformes, el puente se borda en hilo metálico dorado sobre tela color negro. Es de forma arqueada, lleva inscrita la palabra “MÉXICO” con letras mayúsculas tipo arial y se porta en la parte superior de la manga izquierda, la Bandera Nacional se borda en las proporciones y colores reglamentarios, se coloca a 10 milímetros por debajo del puente. En las comisiones en el extranjero se excluye la utilización del sector del organismo al que pertenece el militar comisionado.
-
-219. Los bordados de sectores de campaña son empleados por el personal de Generales, Jefes, Oficiales, Cadetes y Tropa en los uniformes de campaña con el objeto de indicar la unidad, dependencia, instalación o instituciones educativas militares a la que pertenece. Se bordan en un parche con hilo negro con excepción de los empleados con el uniforme de campaña de desierto que se bordan en hilo café. Pueden ser de forma rectangular con terminación en punta, rectangular con terminación redonda, circular y triangular.
-
-Los sectores rectangulares con terminación redonda y circulares llevan en su parte superior una franja de 15 milímetros de ancho con las palabras completas o abreviadas del organismo respectivo, inmediatamente, en la parte central y de un tamaño proporcional se coloca el escudo reglamentario.
-
-En los sectores circulares se borda una franja perimetral de 15 milímetros de ancho en las que se borda el nombre completo o abreviado del organismo correspondiente. Se portan en la manga izquierda de los uniformes a 3.0 centímetros del borde superior de la misma, centrado con respecto a la sobre hombrera.
-
-220. Los bordados de sectores de colores son empleados por el personal de Generales, Jefes, Oficiales, Cadetes y Tropa en los uniformes autorizados en el presente manual. Son similares en forma, dimensiones y bordado a los de campaña, diferenciándose únicamente en que se bordan en hilo con los colores distintivos del organismo correspondiente.
-
-221. Los bordados de sobrehombreras de campaña son empleados por Generales, Jefes, Oficiales y Tropa con la chamarra y uniformes de campaña, únicamente las sobrehombreras para Generales llevan un vivo de 14 milímetros. Se bordan en hilo negro sobre tela del mismo tipo y color del uniforme que se esté empleando, con excepción de las empleadas con el uniforme camuflado desierto que se bordan en hilo café.
-
-222. Las sobrehombreras para Generales son utilizadas con todas las prendas que llevan hombrera con excepción de la chamarra y uniformes de campaña. La jerarquía se borda en hilo metálico dorado y plateado sobre tela color negro con un vivo de galón dorado de 14 milímetros.
-
-223. Los bordados de sobrehombreras con vivo de color del arma o del servicio respectivo son empleadas en la totalidad del vestuario que tenga hombreras con excepción de la chamarra y uniformes de campaña. La jerarquía o distinción se borda sobre tela color negro, para Jefes y Oficiales con hilo amarillo y para el personal de Tropa con hilo de color del arma o servicio, todas llevan un vivo de 14 milímetros de ancho.
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 60.
 
 Están obligadas al pago de este impuesto, las personas físicas y jurídicas colectivas propietarias o poseedoras de vehículos automotores de más de diez años modelo de fabricación o ejercicio automotriz, anteriores al año fiscal de que se trate.
 
 El impuesto se pagará anualmente mediante declaración, dentro de los tres primeros meses de cada año.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+En el caso de robo del automóvil o pérdida total por accidente, no se pagará este impuesto a partir del año fiscal siguiente, si se acredita fehacientemente ante la autoridad fiscal competente, el evento por el que se haya dejado de ser propietario o poseedor del vehículo, siempre y cuando se reporte su baja en los términos previstos por este Código.
 
 > <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -3455,27 +2339,37 @@ Este impuesto se determinará como sigue:
 
 I. En el caso de vehículos de uso particular, la determinación será atendiendo al número de cilindros del motor, conforme a lo siguiente:
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
 NÚMERO DE CILINDROS TARIFA
 
-Hasta 4 $216
+Hasta 4 $226
 
-De 5 a 6 $647
+De 5 a 6 $678
 
-De más de 6 $808
+De más de 6 $847
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II. En el caso de motocicletas, motonetas, trimotos y cuadrimotos, se pagará una cuota de $269.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+II. En el caso de motocicletas, motonetas, trimotos y cuadrimotos, se pagará una cuota de $282.
 
-III. En el caso de vehículos destinados al transporte público de pasajeros, se pagará una cuota de $672.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+III. En el caso de vehículos destinados al transporte público de pasajeros, se pagará una cuota de $704.
 
 Tratándose de vehículos de servicio público de transporte de pasajeros que pasen a ser de servicio particular, no pagarán el impuesto previsto en esta sección en el año que esta circunstancia ocurra, siempre y cuando se encuentren al corriente en el pago de esta contribución.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IV. En el caso de vehículos de carga o de arrastre, con placas de servicio particular o de servicio público, se pagará una cuota de $150, por cada tonelada o fracción de capacidad de carga, o de arrastre, según corresponda. Si se acredita con la tarjeta de circulación respectiva que el vehículo se utiliza en actividades agropecuarias, no pagará este impuesto.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+IV. En el caso de vehículos de carga o de arrastre, con placas de servicio particular o de servicio público, se pagará una cuota de $157, por cada tonelada o fracción de capacidad de carga, o de arrastre, según corresponda. Si se acredita con la tarjeta de circulación respectiva que el vehículo se utiliza en actividades agropecuarias, no pagará este impuesto.
 
 #### SECCION TERCERA. DEL IMPUESTO SOBRE LA ADQUISICION DE VEHICULOS AUTOMOTORES USADOS
 
@@ -3505,33 +2399,35 @@ Este impuesto se determinará aplicando el siguiente procedimiento:
 
 I. Tratándose de automóviles de hasta diez años modelo anterior al de aplicación de este Código:
 
-Se considerará el valor total del automóvil establecido en la factura original o carta factura que hubiese expedido el fabricante, ensamblador o distribuidor autorizado, se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente tabla:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-AÑOS DE AÑO FACTOR DE FACTOR DE
+Se considerará el valor total del automóvil establecido en la factura original o carta factura que hubiese expedido el fabricante, ensamblador o distribuidor autorizado, sin incluir el Impuesto al Valor Agregado, siempre y cuando se encuentre desglosado, y se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente tabla:
 
-ANTIGÜEDAD DEPRECIACIÓN ACTUALIZACIÓN
+AÑOS DE AÑO FACTOR DE DE FACTOR DE
 
-1 2008 .9750 1.0000
+ANATIGÜEDAD DEPRECIACIÓN ACTUALIZACIÓN
 
-2 2007 .8500 1.0390
+1 2009 0.9750 1.0000
 
-3 2006 .7250 1.0810
+2 2008 0.8500 1.0480
 
-4 2005 .6000 1.1170
+3 2007 0.7250 1.0889
 
-5 2004 .5000 1.1750
+4 2006 .6000 1.1329
 
-6 2003 .4000 1.2218
+5 2005 0.5000 1.1706
 
-7 2002 .3000 1.2914
+6 2004 0.4000 1.2314
 
-8 2001 .2250 1.3483
+7 2003 0.3000 1.2804
 
-9 2000 .1500 1.4691
+8 2002 0.2250 1.3534
 
-10 1999 .0750 1.6500
+9 2001 0.1500 1.4130
+
+10 2000 0.0750 1.5396
 
 La cantidad obtenida conforme a los pasos anteriores, se multiplicará por el factor de actualización a que se refiere este artículo, y al resultado se le aplicará la tasa del 1%.
 
@@ -3539,13 +2435,17 @@ La cantidad obtenida conforme a los pasos anteriores, se multiplicará por el fa
 
 II. En el caso de vehículos de más de diez años modelo de fabricación o ejercicio automotriz anterior al año fiscal de que se trata la determinación del impuesto será atendiendo al número de cilindros del motor conforme a lo siguiente:
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
 NÚMERO DE CILINDROS TARIFA
 
-Hasta 4 $192
+Hasta 4 $201
 
-De 5 a 6 $580
+De 5 a 6 $608
 
-De más de 6 $724
+De más de 6 $759
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -3579,9 +2479,13 @@ II. Distribuyan o vendan los billetes, boletos, contraseñas o instrumentos que 
 
 III. Reciban, registren, crucen o capten apuestas, no obstante que el organizador del evento se encuentre fuera del territorio del Estado y de que el evento de cuyo resultado dependa la obtención del premio, se celebre también fuera del territorio estatal, aun cuando el importe de lo cobrado por la participación en ese evento sea inferior al costo del premio.
 
-> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IV. Obtengan los premios derivados o relacionados con las actividades a que se refiere la fracción anterior, incluyendo como premios las participaciones de bolsas formadas con el importe de las inscripciones o cuotas que se distribuyan en función del resultado de las propias actividades.
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+IV. Obtengan los premios derivados o relacionados con las actividades a que se refiere esta sección, incluyendo como premios las participaciones de bolsas formadas con el importe de las inscripciones o cuotas que se distribuyan en función del resultado de las propias actividades.
+
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 Se considera para los efectos de esta fracción, que se obtiene el premio por el organizador, cuando una vez realizado el evento ya sea de loterías, rifas, sorteos y concursos de toda clase a que se refiere esta sección, no exista por virtud del mismo (sic) persona que lo haya obtenido.
 
@@ -3687,6 +2591,8 @@ SUBSECCION PRIMERA
 
 DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION TECNICA Y DEL PERIODICO OFICIAL "GACETA DEL GOBIERNO"
 
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS [N. DE E. REFORMADO], G.G. 1 DE ENERO DE 2009)
+
 #### SECCION SEGUNDA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE FINANZAS
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
@@ -3701,1837 +2607,19 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION TECNICA Y DEL PERIODICO
 
 #### SECCION QUINTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE AGUA, Y OBRA PUBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 #### SECCION SEXTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE LA CONTRALORIA
 
-### CAPÍTULO II. DIVISAS
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS [N. DE E. REPUBLICADO], G.G. 1 DE ENERO DE 2009)
 
-115. Las divisas en el Ejército y Fuerza Aérea Mexicanos, se clasifican de la siguiente forma:
+### CAPITULO SEGUNDO. DE LOS DERECHOS
 
-A. De jerarquía.
+DISPOSICIONES GENERALES
 
-B. Escudos.
-
-C. Placas.
-
-D. Condecoraciones.
-
-E. Gafetes.
-
-F. Alas.
-
-G. Cordones.
-
-H. Banderas y estandartes.
-
-I. Divisas complementarias.
-
-Las placas, condecoraciones, gafetes y alas otorgadas por países extranjeros, otras fuerzas armadas e instituciones nacionales, se portarán previa autorización de la Secretaría de la Defensa Nacional.
-
-PRIMERA SECCIÓN
-
-DE JERARQUÍA
-
-SUBSECCIÓN (A)
-
-OBJETO
-
-116. Las insignias usadas por el Mando Supremo, Alto Mando y por personal del Ejército y Fuerza Aérea, tienen por objeto reconocer la jerarquía de la persona que las porta y son las siguientes:
-
-A. Mando Supremo.
-
-B. Alto Mando.
-
-C. General de División.
-
-D. General de Brigada.
-
-E. General Brigadier.
-
-F. Coronel.
-
-G. Teniente Coronel.
-
-H. Mayor.
-
-I. Capitán 1/o.
-
-J. Capitán 2/o.
-
-K. Teniente.
-
-L. Subteniente.
-
-M. Sargento Primero.
-
-N. Sargento Segundo.
-
-O. Cabo.
-
-P. Distintivo de Soldado de Primera.
-
-Q. Distintivo de Cadete de Primera.
-
-SUBSECCIÓN (B)
-
-CARACTERÍSTICAS Y DIMENSIONES
-
-117. Insignias del Mando Supremo, Alto Mando y de los grados del personal del Ejército y Fuerza Aérea. Deben tener las características y dimensiones que a continuación se describen:
-
-A. Características:
-
-a. Mando Supremo: Escudo Nacional dorado y cinco estrellas plateadas.
-
-b. Alto Mando: Escudo Nacional dorado y cuatro estrellas plateadas.
-
-c. Generales:
-
-1. De División: Escudo Nacional dorado y tres estrellas plateadas.
-
-2. De Brigada o de Ala: Escudo Nacional dorado y dos estrellas plateadas.
-
-3. Brigadier o de Grupo: Escudo Nacional dorado y una estrella plateada.
-
-d. Jefes:
-
-1. Coronel: tres estrellas doradas colocadas formando un triángulo equilátero.
-
-2. Teniente Coronel: dos estrellas doradas.
-
-3. Mayor: una estrella dorada.
-
-e. Oficiales:
-
-1. Capitán 1/o.: tres barras de igual dimensión.
-
-2. Capitán 2/o.: tres barras, la del centro con una longitud menor.
-
-3. Teniente: dos barras de igual dimensión.
-
-4. Subteniente: una barra.
-
-f. Cadetes:
-
-1. Sargento 1/o.: tres galones.
-
-2. Sargento 2/o.: dos galones.
-
-3. Cabo: un galón.
-
-g. Clases:
-
-1. Sargento 1/o.: tres cintas.
-
-2. Sargento 2/o.: dos cintas.
-
-3. Cabo: una cinta.
-
-h. Distinciones
-
-1. Cadete de 1/a: un galón en el brazo izquierdo.
-
-2. Soldado de 1/a: media cinta.
-
-B. Dimensiones:
-
-a. Mando Supremo, Alto Mando y Generales. El Escudo Nacional inscrito en un círculo de 30 milímetros de diámetro y las estrellas plateadas estriadas de cinco picos inscritas en un círculo de 15 milímetros de diámetro.
-
-b. Jefes.
-
-La estrella es dorada, estriada, de cinco picos e inscrita en un círculo de 20 milímetros de diámetro.
-
-c. Oficiales:
-
-1. Capitán 1/o. las tres barras verticales son estriadas e inscritas en un rectángulo de 28 por 30 milímetros.
-
-2. Capitán 2/o. las tres barras verticales son estriadas e inscritas en un rectángulo de 28 por 30 milímetros, la longitud de la barra de en medio es de 25 milímetros.
-
-3. Teniente. Las dos barras verticales son estriadas e inscritas en un rectángulo de 18 por 30 milímetros.
-
-4. Subteniente. La barra vertical es estriada e inscrita en un rectángulo de 8 por 30 milímetros.
-
-SUBSECCIÓN (C)
-
-INSIGNIAS EN EL TOCADO
-
-118. Gorra de guarnición de gala. Lleva al frente las insignias del grado correspondiente y escarapela, en un fondo ovalado rígido del mismo color y se colocan como se ilustra a continuación:
-
-A. Mando Supremo.
-
-B. Alto Mando.
-
-C. Generales.
-
-119. El tocado de gala para mujer con la jerarquía de Generales lleva al frente la insignia de jerarquía y escarapela, en un fondo ovalado rígido del mismo color y se colocan como se ilustra a continuación:
-
-120. La gorra de guarnición para hombres (Generales, Jefes y Oficiales) lleva al frente las insignias de grado y escarapela en metal, el personal de tropa en lugar de las insignias de grado, colocará el escudo del arma o servicio al que pertenezca, el tocado para mujer lleva la insignia del grado y escarapela directamente sobre el tocado y se colocan como se ilustra a continuación:
-
-A. Mando Supremo.
-
-B. Alto Mando.
-
-C. Generales.
-
-D. Jefes.
-
-E. Oficiales.
-
-121. La gorra de gira lleva al frente las insignias del grado correspondiente, bordadas en hilo metálico y se colocan como se ilustra a continuación:
-
-A. Mando Supremo y Alto Mando.
-
-B. Generales.
-
-122. La gorra de campo y el tocado de campo para mujer, llevan las insignias de los grados bordadas, se colocan de la misma forma que la gorra de gira y que el tocado de gala, con la diferencia de que son bordadas en hilo color negro o café de acuerdo al uniforme y se colocan como se ilustra a continuación:
-
-A. Alto Mando.
-
-B. Generales.
-
-C. Jefes.
-
-D. Oficiales.
-
-E. Tropa.
-
-123. La cuartelera lleva en el costado derecho y al frente las insignias del grado correspondiente, bordadas en hilo metálico dorado y plateado para Generales, en hilo amarillo para Jefes y Oficiales y con el color distintivo del arma o servicio correspondiente para Tropa, centradas en el área marcada y escarapela, se diseña en modelo único para hombre y mujer, se coloca como se ilustra a continuación:
-
-A. Mando Supremo.
-
-B. Alto Mando.
-
-C. Generales.
-
-D. Jefes.
-
-E. Oficiales.
-
-124. Los Generales, Jefes y Oficiales (hombres y mujeres), portarán las insignias de la jerarquía en la boina como se describe en el párrafo 95 del presente manual.
-
-A. Generales.
-
-B. Jefes.
-
-C. Oficiales.
-
-SUBSECCIÓN (D)
-
-INSIGNIAS EN LOS HOMBROS
-
-125. Charreteras. Son empleadas por los Generales en el uniforme de gran gala, llevan las insignias de grado bordadas sobre las mismas en hilo de canutillo dorado y plateado, se colocan como se ilustra a continuación:
-
-126. Caponas para Jefes. Son empleadas por los Jefes en el uniforme de gran gala, llevan las insignias de grado metálicas sobre las mismas, y se colocan como se ilustra a continuación.
-
-127. Caponas para Oficiales. Son empleadas por los Oficiales en el uniforme de gran gala, llevan las insignias de grado metálicas sobre las mismas, y se colocan como se ilustra a continuación.
-
-128. Palas de gala. Llevan las insignias del grado correspondiente bordadas sobre las mismas en hilo de canutillo, para Jefes y Oficiales llevan además el escudo distintivo del arma o servicio al que pertenezcan, incluyendo a los Diplomados de Estado Mayor y se colocan como se ilustra a continuación:
-
-A. Mando Supremo.
-
-B. Alto Mando.
-
-C. Generales.
-
-D. Jefes.
-
-E. Oficiales.
-
-129. Palas para uniforme de ceremonias. Llevan las insignias del grado metálicas sobre las mismas, para Generales llevan un vivo de color dorado y para Jefes, Oficiales y Tropa en color distintivo del arma o servicio al que pertenezcan y se colocan con la medida lateral más corta al frente, como se ilustra a continuación:
-
-A. Mando Supremo.
-
-B. Alto Mando.
-
-C. Generales.
-
-D. Jefes.
-
-E. Oficiales.
-
-130. Sobrehombreras bordadas a color. Llevan las insignias del grado correspondiente, para el Presidente de los Estados Unidos Mexicanos, Secretario de la Defensa Nacional y Generales serán en hilo metálico con un vivo de color dorado, para Jefes, Oficiales y Tropa en hilo amarillo con el vivo del color distintivo del arma o servicio.
-
-A. Mando Supremo y Alto Mando.
-
-B. Generales.
-
-C. Jefes.
-
-D. Oficiales.
-
-E. Tropa.
-
-131. Sobrehombreras de campaña. Llevan las Insignias del grado bordadas en hilo color negro o café, para el Presidente de los Estados Unidos Mexicanos, Secretario de la Defensa Nacional y Generales llevan un vivo color negro en el uniforme de campaña selva o café en el uniforme de campaña de desierto, para los Jefes, Oficiales y Tropa se bordarán sin vivo:
-
-A. Generales.
-
-B. Jefes.
-
-C. Oficiales.
-
-D. Tropa.
-
-Este personal usará las insignias de grado de las sobrehombreras en cinta de color negro de 10 milímetros de ancho, cuando sean varias deben ir separadas entre sí por 4 milímetros.
-
-SUBSECCIÓN (E)
-
-INSIGNIAS DE JERARQUÍA EN MANGAS
-
-132. La jerarquía en las mangas en los uniformes de gran gala y gala para planteles militares se emplearán de la siguiente manera:
-
-A. Jefes. Coronel, los tres galones de 1/2”, Teniente Coronel, los galones externos son de 1/2” y el central de 1/4”, y Mayor, los dos galones externos son de 1/4” y el central de 1/2”.
-
-B. Oficiales. Capitán Primero, tiene tres galones dorados de 1/4”, Capitán Segundo, dos galones externos dorados de 1/4” y el central plateado de 1/4”, Teniente, dos galones dorados de 1/4”, y Subteniente, un galón dorado de 1/4”.
-
-133. El personal de Cadetes de las Instituciones Educativas Militares, alumnos de la Escuela Militar de Sargentos, personal de Tropa de la compañía de Guardia de Honor y Cuerpo de Guardias Presidenciales, materializa su grado con galones dorados, cosidos sobre tela de color distintivo del arma, servicio o escuela respectivos, dejando en las orillas un vivo de 3 milímetros.
-
-Estos galones se utilizarán en el uniforme de diario, capote, de gala, gran gala y doble botonadura, cuando sean varios galones éstos deberán estar separados entre sí por un vivo de las mismas dimensiones.
-
-En el uniforme de campaña será en galones de color negro sobre tela de color verde.
-
-Los galones se colocan sobre las mangas a partir del codo hasta la parte inferior de la manga y a la altura de la costura de ésta con el puño, cuando se utilicen en el uniforme de campaña no se doblarán las mangas del mismo.
-
-134. Distintivo de Cadete de Primera. Consiste en un galón dorado, cosido sobre tela del color distintivo de la Institución Educativa Militar, Arma o Servicio que corresponda, dejando un vivo de 3 milímetros de ancho en cada lado. En el uniforme de campaña será en un galón de color negro sobre tela de color verde.
-
-Se coloca en la manga izquierda, partiendo de la costura de atrás del codo hacia el frente de la costura del puño.
-
-135. Distintivo de Soldado de Primera. En el uniforme administrativo, se coloca en las sobrehombreras y consiste en media cinta de color negro de 30 por 8 milímetros de ancho, dejando en las orillas un vivo de 2 milímetros del color del arma o servicio respectivo. En el uniforme de campaña, será en color negro sin vivos y se coloca en forma vertical.
-
-SEGUNDA SECCIÓN
-
-ESCUDOS
-
-SUBSECCIÓN (A)
-
-OBJETO
-
-136. Los escudos usados en el Ejército y Fuerza Aérea Mexicanos, tienen por objeto identificar a las unidades, dependencias, instalaciones, instituciones educativas militares, armas, servicios, especialidades y son los siguientes:
-
-A. Escudos de cuello:
-
-a. Para Generales.
-
-b. Fuerza Aérea.
-
-c. Armas y servicios:
-
-1. Infantería.
-
-2. Caballería.
-
-3. Artillería.
-
-4. Arma blindada.
-
-5. Arma y servicio de ingenieros.
-
-6. Transmisiones.
-
-7. Materiales de Guerra.
-
-8. Transportes.
-
-9. Intendencia.
-
-10. Administración.
-
-11. Sanidad.
-
-12. Veterinaria y Remonta.
-
-13. Justicia Militar.
-
-14. Cartografía.
-
-15. Informática.
-
-16. Archivo e Historia.
-
-17. Educación Física y Deportes.
-
-18. Banda de Música.
-
-19. Estado Mayor Presidencial.
-
-20. Diplomado de Estado Mayor.
-
-21. Diplomado de Estado Mayor Aéreo.
-
-22. Estado Mayor.
-
-d. Cuerpos especiales:
-
-1. Cuerpo de Guardias Presidenciales.
-
-2. Aerotropas.
-
-3. Policía Militar.
-
-4. Fuerzas Especiales Aeromóviles.
-
-5. Fuerzas Especiales Anfibias.
-
-e. Planteles militares:
-
-1. Colegio de Defensa Nacional.
-
-2. Escuela Superior de Guerra.
-
-3. Escuela Médico Militar
-
-4. Escuela Militar de Ingenieros.
-
-5. Escuela Militar de Odontología.
-
-6. Escuela Militar de Aplicación de las Armas y Servicios.
-
-7. Heroico Colegio Militar.
-
-8. Colegio del Aire.
-
-9. Escuela Militar de Enfermeras.
-
-10. Escuela Militar de Oficiales de Sanidad.
-
-11. Escuela Militar de Transmisiones.
-
-12. Escuela Militar de Materiales de Guerra.
-
-13. Escuela Militar de Clases de Transmisiones.
-
-14. Escuela Militar de Sargentos.
-
-15. Escuela Militar de Clases de Sanidad.
-
-16. Escuela Militar de Tropas Especialistas de la Fuerza Aérea.
-
-17. Escuela Militar del Servicio de Transportes.
-
-18. Centro de Estudios del Ejército y Fuerza Aérea.
-
-19. Escuela Militar de Idiomas.
-
-20. Escuela Militar de Tiro.
-
-21. Centro de Capacitación Virtual.
-
-B. Chapetón y Escudos de tocado:
-
-a. Boina:
-
-1. Cuerpo de Guardias Presidenciales.
-
-2. Fuerzas Especiales.
-
-3. Cuerpo de Aerotropas.
-
-b. Gorras de guarnición, de gala, tocado femenino de gala, cuartelera para instituciones educativas militares y Música Militar:
-
-1. Escuela Médico Militar.
-
-2. Escuela Militar de Ingenieros.
-
-3. Escuela Militar de Odontología.
-
-4. Heroico Colegio Militar.
-
-5. Colegio del Aire.
-
-6. Escuela Militar de Oficiales de Sanidad.
-
-7. Escuela Militar de Transmisiones.
-
-8. Escuela Militar de Materiales de Guerra.
-
-9. Escuela Militar de Clases de Transmisiones.
-
-10. Escuela Militar de Sargentos.
-
-11. Escuela Militar de Tropas Especialistas de la Fuerza Aérea.
-
-12. Unidades-Escuela de las Armas y Servicios.
-
-13. Música Militar.
-
-14. Escudos para tocado de gala de mujer
-
-c. Ross:
-
-1. Heroico Colegio Militar.
-
-2. Colegio del Aire.
-
-C. Escudos para cartucheras, hebillas para fornitura de gala y guantes de cetrería:
-
-a. Escuela Médico Militar.
-
-b. Escuela Militar de Ingenieros.
-
-c. Escuela Militar de Odontología.
-
-d. Heroico Colegio Militar.
-
-e. Colegio del Aire.
-
-f. Escuela Militar de Oficiales de Sanidad.
-
-g. Escuela Militar de Transmisiones.
-
-h. Escuela Militar de Materiales de Guerra.
-
-i. Escuela Militar de Clases de Transmisiones.
-
-j. Escuela Militar de Sargentos.
-
-k. Escuela Militar de Clases de Sanidad.
-
-l. Cuerpo de Guardias Presidenciales.
-
-D. Escudos para portabandera, portaestandarte y portaguión.
-
-SUBSECCIÓN (B)
-
-COLOCACIÓN DE ESCUDOS DE CUELLO
-
-137. En los uniformes de ceremonias, doble botonadura y capote, los escudos metálicos se colocarán en forma vertical a 90° con la horizontal, en los uniformes que tengan costura visible en el cuello, los escudos se alinearán con la misma.
-
-138. En los uniformes que lleven cuello sport los escudos metálicos se colocarán en cada uno de los extremos del cuello y se alinearán en dirección a la costura visible en el cuello.
-
-SUBSECCIÓN (C)
-
-CARACTERÍSTICAS Y DIMENSIONES DE LOS ESCUDOS DE CUELLO
-
-139. Los escudos de las armas, servicios, cuerpos especiales, instituciones educativas militares y de especialidad del Ejército y Fuerza Aérea que se colocan en los uniformes son metálicos, en aleación de latón, con recubrimiento color oro y en la parte posterior cuentan con clavos para su sujeción.
-
-Los escudos que cuentan con figuras con orientación derecha-izquierda deberán ser colocados con dichas figuras dando frente hacia adentro, tendrán las características y dimensiones siguientes:
-
-A. Para Generales: está formado por una rama de laurel con cinco hojas y una rama de encino entrelazadas, inscritas en un rectángulo de 25 por 55 milímetros y serán colocados con la rama de laurel hacia adentro.
-
-B. Fuerza Aérea: consiste en unas alas desplegadas y en el centro una hélice vertical, ambas doradas, todo inscrito en un rectángulo de 30 por 20 milímetros, con orientación única.
-
-C. Armas y Servicios:
-
-a. Infantería: consiste en dos armas tipo mosquetón vistas de perfil, cruzadas con la cantonera hacia abajo, sin marrazo, ni porta mosquetón, con una corneta en posición vertical al centro, con el pabellón hacia abajo y las armas pasan por el interior del tudel, todo inscrito en un rectángulo de 40 por 20 milímetros, con orientación única.
-
-b. Caballería: está formado por dos sables desenvainados vistos de perfil, cruzados con las puntas hacia arriba con un casco francés antiguo en el cruce e inscritos en un rectángulo de 40 por 20 milímetros, con orientación izquierda y derecha, serán colocados con el casco hacia el centro.
-
-c. Artillería: consiste en dos cañones cruzados con las bocas hacia arriba y en la parte superior del cruce una granada con flama, inscritos en un rectángulo de 40 por 30 milímetros con orientación izquierda y derecha, serán colocados con la flama hacia afuera.
-
-d. Arma Blindada: está formado por dos sables envainados cruzados en el centro con un tanque visto en posición de tres cuartos, inscritos en un rectángulo de 40 por 20 milímetros, con orientación izquierda y derecha, serán colocados con el cañón hacia afuera.
-
-e. Arma y Servicio de Ingenieros: Es una torre albarrana inscrita en un rectángulo de 15 por 25 milímetros, con orientación única.
-
-f. Transmisiones: está formado por dos banderolas desplegadas y cruzadas, con un rayo vertical en el cruce de éstas, con la punta hacia abajo, inscritas en un cuadrado de 20 milímetros por lado, con orientación única.
-
-g. Materiales de Guerra: consiste en una granada flamígera inscrita en un rectángulo de 20 por 25 milímetros, con orientación única.
-
-h. Transportes: consiste en una llanta de perfil y en el centro de ésta una “T”, inscrita en un círculo de 20 milímetros de diámetro, con orientación única.
-
-i. Intendencia: está formado por un arma tipo mosquetón sin marrazo ni porta mosquetón cruzado por un sable envainado con la punta hacia arriba y bajo el cruce un sol de 15 milímetros de diámetro, inscritos en un rectángulo de 40 por 20 milímetros, con orientación única.
-
-j. Administración: lleva al fondo un arma tipo mosquetón sin marrazo ni porta mosquetón y un sable envainado con la punta hacia arriba cruzados y bajo el cruce un sol, al frente, el escudo de la Secretaría de la Defensa Nacional y al centro un mensajero Mexica corriendo sobre la República Mexicana y enmarcado por un círculo. En la parte inferior lleva el Valle de México con el volcán Popocatépetl, el Iztaccíhuatl, dos cabezas de Quetzalcóatl y una mazorca. Todo está inscrito en un círculo con un diámetro de 25 milímetros, con orientación única
-
-k. Sanidad: consiste en una víbora enrollada en un haz de varas y sobre éste un espejo ovalado, todo inscrito en un rectángulo de 9 por 25 milímetros, con orientación izquierda y derecha, serán colocados con la cabeza de la serpiente hacia el centro.
-
-l. Veterinaria y Remonta: es un cetro con la punta hacia abajo, con dos serpientes enrollándolo con cuatro vueltas y tocándolo con la boca, lleva una letra “V” cuyo vértice es el punto del cruce de la quinta vuelta. En la parte superior del cetro y hacia ambos lados salen dos alas de tamaño proporcional al escudo. Todo está inscrito en un rectángulo de 30 por 40 milímetros, con orientación única.
-
-m. Justicia Militar: consiste en dos espadas romanas desenvainadas con un haz de varas vertical y al centro del cruce lleva un hacha antigua que atraviesa verticalmente el haz, todo inscrito en un rectángulo de 30 por 15 milímetros, con orientación única.
-
-n. Cartografía: está formado por un cestón sobre una antorcha con llama y cinco rayos en la parte superior de la antorcha, sobre el cestón un teodolito de perfil con el ocular a la izquierda y un trípode desplegado, en cuyo centro va una cámara fotogramétrica de frente. Dos alas abiertas parten del tercio superior del cestón, una a cada lado. Todo está inscrito en un rectángulo de 18 por 25 milímetros, con orientación única.
-
-o. Informática: consiste en dos óvalos que representan dos cintas magnéticas de los cuales sobresale un extremo de la cinta, ambos óvalos están entrelazados y con la figura de la República Mexicana en el centro. Todo está inscrito en un rectángulo de 40 por 14 milímetros, con orientación única.
-
-p. Archivo e Historia: está formado por una caja archivadora al frente y detrás de ella, distribuidos circularmente con un diámetro de 25 milímetros, todos los logotipos de las armas y servicios con un sol al fondo de 22 milímetros de diámetro, con orientación única.
-
-q. Educación Física y Deportes: consiste en un jugador de pelota mixteca sobrepuesto en un casco antifragmento color verde olivo, todo inscrito en un rectángulo de 18 por 23 milímetros, con orientación izquierda y derecha, se colocan con la figura hacia el centro.
-
-r. Músico Militar: Consiste en una lira inscrita en un rectángulo de 17 por 30 milímetros, con orientación única.
-
-s. Estado Mayor Presidencial: Consiste en un sol de 25 milímetros de diámetro integrado por ocho rayos de 8.5 milímetros de longitud cada uno, formando ocho sectores iguales, dentro de los cuales existen dos rayos de 7 milímetros y uno de 6 milímetros, con una perforación circular de 8 milímetros de diámetro. Sobrepuesto a la perforación central, va el águila del Escudo Nacional la cual va inscrita en un círculo de 16 milímetros de diámetro. Su colocación en los uniformes será con las águilas encontradas, con orientación izquierda y derecha.
-
-t. Diplomado de Estado Mayor: es empleado por el personal de Jefes y Oficiales que efectuó el curso de mando y estado mayor general en sustitución de los escudos de las armas y servicios, está formado por una antorcha con flama y cinco rayos en la parte central y superior. Superpuesto al mango de la antorcha lleva un casco de coracero de cuya carrillera penden dos sables cruzados desenvainados, partiendo del casco un ala desplegada a cada lado. Todo está inscrito en un rectángulo de 40 por 27 milímetros con orientación única, en la parte superior llevará una escuadra de metal de 4.0 milímetros de ancho. Todo en color dorado, con orientación única.
-
-u. Diplomado de Estado Mayor Aéreo: es empleado por el personal de Jefes y Oficiales que efectuó el curso de mando y estado mayor aéreo en sustitución de los escudos de Fuerza Aérea, está formado por una antorcha con cinco flamas y cuatro rayos que salen de su parte superior y al centro de ésta tiene unas alas desplegadas y una hélice de tres palas, con una de ellas colocada verticalmente hacia arriba, en la parte superior llevará una escuadra de metal de 40 milímetros de ancho. Todo en color dorado e inscrito en un cuadro de 40 milímetros, con orientación única.
-
-v. Estado Mayor: Es empleado por el personal que presta sus servicios en los Estados Mayores, está formado por una antorcha con flama y cinco rayos en la parte central y superior. Superpuesto al mango de la antorcha lleva un casco de coracero de cuya carrillera penden dos sables cruzados desenvainados, partiendo del casco un ala desplegada a cada lado. Todo está inscrito en un rectángulo de 40 por 27 milímetros con orientación única. Todo en color dorado, con orientación única.
-
-D. Cuerpos especiales:
-
-a. Guardias Presidenciales: consiste en una estrella de ocho puntas con un círculo interior de 20 milímetros de diámetro, dentro del cual va el águila del Escudo Nacional. El diámetro del círculo que inscribe la estrella es de 30 milímetros. Su colocación en los uniformes será con las águilas encontradas, con orientación izquierda y derecha. Se agregará el distintivo de la unidad que corresponda pudiendo ser 1, 2 B.T.A., P.M., escudo de Caballería, de Artillería, Ingenieros, Sanidad, Intendencia, Transportes y Transmisiones.
-
-b. Aerotropas: está formado por un paracaídas plateado que lleva a cada lado un ala de color dorado, todo inscrito en un rectángulo de 37 por 20 milímetros, con orientación única.
-
-c. Policía Militar: consiste en dos macahuitles cruzados (mazos de guerra) y al centro en posición vertical un carcaj o aljaba del que sobresalen la parte posterior de cinco mitles (flechas), todo inscrito en un rectángulo de 20 por 18 milímetros, con orientación única.
-
-d. Fuerzas Especiales Aeromóviles: está formado por un helicóptero estilizado y al centro, en la parte superior, tres rayos cayendo, todo inscrito en un rectángulo de 25 por 27 milímetros, con orientación única.
-
-e. Fuerzas Especiales Anfibias: consiste en una embarcación estilizada con dos militares a bordo, al centro y en la parte superior dos rayos cayendo, todo inscrito en un rectángulo de 35 por 20 milímetro (sic), con orientación única.
-
-E. Planteles militares:
-
-a. Colegio de Defensa Nacional: consiste en el perfil de la cabeza de un guerrero Azteca egresado del Calmécac, que por sus hazañas y reconocimientos de gran valor en la guerra, alcanzaba la más alta dignidad de guerrero Mixtli. Está inscrito en un rectángulo de 25 por 28 milímetros, con orientación izquierda y derecha, se colocan con la figura hacia el centro.
-
-b. Escuela Superior de Guerra: consiste en la cabeza, vista de perfil, de un guerrero Águila egresado del Calmécac y reconocido como Tlacatecuhtli. Dicho grabado va dentro de un rombo de color rojo carmesí de 25 milímetros por lado e inscrito en un rectángulo de 27 por 39 milímetros, con orientación izquierda y derecha, se coloca con la figura hacia el centro.
-
-c. Escuela Médico Militar: está formado por el escudo de sanidad enmarcado por ramas de olivo y laurel unidas por un lazo en un círculo de 12 milímetros sobrepuesto a una cruz, que se encuentra dividida en su interior en tres partes proporcionales, la cual medirá en su parte más larga 10 milímetros y en la más angosta 5 milímetros, quedando éstas divididas proporcionalmente en tres partes, con orientación única.
-
-d. Escuela Militar de Ingenieros: está formado por un cestón sobre una antorcha con llama y seis rayos en la parte superior de la antorcha, sobre el cestón un círculo en el cual va inscrito un triángulo y un ancla con su cuerda. Dos alas abiertas parten de la mitad superior del cestón, una a cada lado. En la parte posterior del mismo lleva una pala y un pico, y todo está inscrito en un rectángulo de 18 por 25 milímetros, con orientación única.
-
-e. Escuela Militar de Odontología: está formado por el escudo de sanidad enmarcado por ramas de olivo y laurel unidas por un lazo, en la parte inferior de éste dos instrumentos dentales cruzados (espejo y explorador). Todo esto inserto en un círculo de 12 milímetros sobrepuesto a una cruz que se encuentra dividida en su interior, en tres partes proporcionales, cuyas ramas medirán en su parte más larga 10 milímetros y en la más angosta 5 milímetros, con orientación única.
-
-f. Escuela Militar de Aplicación de las Armas y Servicios: está formado por una granada de mano de fragmentación sobre un rombo dividido proporcionalmente en seis partes con los colores característicos de las armas y los servicios. El rombo medirá 25 milímetros por lado y todo estará inscrito en un rectángulo de 27 por 39 milímetros, con orientación izquierda y derecha, se colocan con la espoleta de la granada hacia el centro.
-
-g. Heroico Colegio Militar: consiste en un cestón sobre una antorcha con flama y cinco rayos, ambos sobre dos cañones cruzados con la boca hacia arriba, todo inscrito en un rectángulo de 20 por 25 milímetros, con orientación única.
-
-h. Colegio del Aire: está formado por una antorcha con flama y cinco rayos que parten del tercio superior, sobre la misma lleva una hélice vertical plateada y a cada lado un ala desplegada de color dorado. Todo está inscrito en un rectángulo de 30 por 23 milímetros, con orientación única.
-
-i. Escuela Militar de Enfermeras: está formado por una lámpara antigua encendida, dentro de un círculo de 12 milímetros, sobrepuesta a una cruz que se encuentra dividida en su interior en tres partes proporcionales, con orientación izquierda y derecha, se coloca con la punta de la lámpara hacia el centro.
-
-j. Escuela Militar de Oficiales de Sanidad: consiste en el escudo de sanidad en un círculo de 12 milímetros, sobrepuesto a una cruz que se encuentra dividida en su interior en tres partes proporcionales, con orientación única.
-
-k. Escuela Militar de Transmisiones: está constituido por dos banderolas cruzadas, de trazo recto con división diagonal en cada una de ellas, cuyos triángulos interiores van achurados hacia adentro. Lleva una antorcha vertical flameando sobre el cruce de las banderolas y de ésta emergen seis rayos en forma de abanico. Todo está inscrito en un rectángulo de 25 por 20 milímetros, con orientación única.
-
-l. Escuela Militar de Materiales de Guerra: consiste en un “Tlacochicalcalli” (casa de las lanzas), cuya integración será la siguiente: el cuerpo de la casa de color blanco con una “T” en su parte interna de color amarillo y colocado sobre un rectángulo blanco. En su parte inferior irá una base de color amarillo y en la parte superior irán colocadas tres tecallis de color blanco, sobre las cuales estarán tres lanzas. Las cañas de las lanzas serán de 10 milímetros, de los cuales 5 milímetros superiores serán de color rojo y el resto de la caña de color amarillo, las puntas de las lanzas serán de color negro y alrededor de color café. En el lado derecho, debajo de la parte superior de la casa, llevará una granada flamígera en color amarillo, con un diámetro de 6 milímetros y la flama de 7 milímetros. Todo está dentro de un rombo de color shedrón (rojo ladrillo) de 25 milímetros por lado e inscrito en un rectángulo de 27 por 39 milímetros, con orientación única.
-
-m. Escuela Militar de Clases de Transmisiones: está constituido por dos banderolas desplegadas y cruzadas con división diagonal en cada una de ellas, con ambos triángulos interiores achurados hacia adentro, y en el cruce lleva una antorcha vertical de la que salen tres rayos. Todo está inscrito en un rectángulo de 25 por 20 milímetros, con orientación única.
-
-n. Escuela Militar de Sargentos: consiste en un arma tipo mosquetón cruzada con un sable envainado con la punta hacia arriba y a la izquierda. Al centro lleva una granada con flama vertical de la que parten cinco rayos. Todo está inscrito sobre un rectángulo de 40 por 25 milímetros, con orientación única.
-
-o. Escuela Militar de Tropas Especialistas de la Fuerza Aérea: consiste en un cuerpo de serpiente y sección de engrane, radar-paracaídas, avión de combate, Ocelotl, Ehecailacacozcatl, avión birreactor, cabeza de Quetzalcóatl-ehécatl y Quetzalcóatl. Todo inscrito en un rectángulo de 30.0 por 37.0 milímetros, con orientación única.
-
-p. Centro de Estudios del Ejército y Fuerza Aérea: consiste en un sol radiante de doce rayos y cuatro hojas verdes. Cada hoja lleva en su interior una letra y forman la palabra “PILA” iniciando con la hoja izquierda en sentido de las manecillas del reloj. Todo está sobre un rombo de color negro de 25 milímetros por lado e inscrito en un rectángulo de 27 por 39 milímetros, con orientación única.
-
-q. Escuela Militar de Idiomas: está formado por un globo terráqueo inscrito en un óvalo inscrito sobre un rectángulo de 30 por 25 milímetros con orientación única.
-
-r. Escuela Militar de Tiro: está formado por un conjunto de círculos concéntricos, un cruce de fendas, tres impactos en forma triangulada, todo inscrito sobre un triángulo de 40.0 por 50.0 milímetros, con fondo en color en verde con orientación única.
-
-s. Centro de Capacitación Virtual: Consiste en un libro con las hojas abiertas, un maya que simboliza el comienzo ancestral del avance educativo, enseguida un soldado y un piloto aviador que simbolizan al Ejército y Fuerza Aérea Mexicanos, con orientación izquierda y derecha, se colocan con las figuras hacia el centro, todo inscrito en un rectángulo de 40 por 25 milímetros.
-
-SUBSECCIÓN (D)
-
-COLOCACIÓN DE LOS ESCUDOS PARA TOCADO
-
-140. Los escudos de las armas, servicios, cuerpos especiales, instituciones educativas militares y de especialidad del Ejército y Fuerza Aérea que son utilizados en los tocados se colocarán en forma vertical.
-
-SUBSECCIÓN (E)
-
-CARACTERÍSTICAS Y DIMENSIONES DE LOS ESCUDOS PARA TOCADO
-
-141. Estos escudos se fabricarán en latón, con recubrimiento color oro. Los escudos tienen las siguientes dimensiones y características:
-
-A. Boina:
-
-a. Guardias Presidenciales: este escudo es similar al descrito en el escudo para cuello, con la excepción de que estará inscrito en un círculo de 50.0 milímetros.
-
-b. Fuerzas Especiales: Consiste en un escudo metálico de color negro con filete dorado, sobre él está colocado un cuchillo representativo de las unidades de Fuerzas Especiales y un helicóptero estilizado, en la parte superior y al centro descienden tres rayos de color dorado y en la parte inferior un listón con la leyenda “TODO POR MÉXICO”, todo lo anterior colocado sobre una base de tela en color negro con ribete blanco formando un rectángulo en la parte superior y un semi-círculo en la parte inferior de 45 por 55 milímetros.
-
-c. Aerotropas: un paracaídas plateado con un rayo que incide diagonalmente. En la parte inferior del paracaídas lleva la palabra “MÉXICO”, y está enmarcado por ramas de olivo y laurel unidas en la parte inferior por una estrella dorada de cinco puntas. Todo inscrito en un rectángulo de 50.0 por 58.0 milímetros.
-
-B. Escudos para gorras de guarnición, de gala, cuartelera (mujer y hombre) para instituciones educativas militares y Música Militar:
-
-a. Escuela Médico Militar: este escudo es similar al descrito en el escudo para cuello, con la excepción de que está inscrito en un cuadrado de 30.0 milímetros por lado.
-
-b. Escuela Militar de Ingenieros: este escudo es similar al descrito en el escudo para cuello, con la excepción de que estará inscrito en un rectángulo de 30.0 por 37.0 milímetros.
-
-c. Escuela Militar de Odontología: este escudo es similar al descrito en el escudo para cuello, con la excepción de que está inscrito en un cuadrado de 30.0 milímetros por lado.
-
-d. Heroico Colegio Militar: este escudo es similar al descrito en el escudo para cuello, con la excepción de que está inscrito en un rectángulo de 30.0 por 37.0 milímetros.
-
-e. Colegio del Aire: este escudo es similar al descrito en el escudo para cuello, con la excepción de que está inscrito en un rectángulo de 37.0 por 30.0 milímetros.
-
-f. Escuela Militar de Oficiales de Sanidad: este escudo es similar al descrito en el escudo para cuello, con la excepción de que está inscrito en un cuadrado de 30.0 milímetros por lado.
-
-g. Escuela Militar de Transmisiones: este escudo es similar al descrito en el escudo para cuello, con la excepción de que está inscrito en un rectángulo de 37.0 por 30.0 milímetros.
-
-h. Escuela Militar de Materiales de Guerra: este escudo es similar al descrito en el escudo para cuello, con la excepción de que está inscrito en un rectángulo de 37.0 por 30.0 milímetros.
-
-i. Escuela Militar de Clases de Transmisiones: este escudo es similar al descrito en el escudo para cuello, con la excepción de que está inscrito en un rectángulo de 37.0 por 30.0 milímetros.
-
-j. Escuela Militar de Sargentos: este escudo es similar al descrito en el escudo para cuello, con la excepción de que está inscrito en un círculo de 45 milímetros de diámetro.
-
-k. Escuela Militar de Tropas Especialistas de la Fuerza Aérea: consiste en un cuerpo de serpiente y sección de engrane, radar-paracaídas, avión de combate, Ocelotl, Ehecailacacozcatl, avión birreactor, cabeza de Quetzalcóatl-ehécatl y Quetzalcóatl. Todo inscrito en un rectángulo de 30.0 por 37.0 milímetros.
-
-l. Música Militar: este escudo es similar al descrito en el escudo para cuello, con la excepción de que está inscrito en un rectángulo de 30.0 por 37.0 milímetros.
-
-C. Escudos para tocado de gala de mujer:
-
-a. Escuela Médico Militar: este escudo es similar al descrito en el escudo para cuello, con la excepción de que está inscrito en un cuadrado de 30.0 milímetros por lado.
-
-b. Escuela Militar de Enfermeras: este escudo es similar al descrito en el escudo para cuello, con la excepción de que está inscrito en un cuadrado de 30.0 milímetros por lado.
-
-c. Heroico Colegio Militar: este escudo es similar al descrito en el escudo para cuello, con la excepción de que está inscrito en un cuadrado de 49.0 por 37.0 milímetros.
-
-d. Colegio del Aire: este escudo es similar al descrito en el escudo para cuello, con la excepción de que está inscrito en un rectángulo de 49.0 por 37.0 milímetros.
-
-D. Escudos para ross:
-
-a. Heroico Colegio Militar: este escudo es similar al descrito en el escudo para cuello, con la excepción de que está inscrito en un rectángulo de 49.0 por 37.0 milímetros.
-
-b. Colegio del Aire: este escudo es similar al descrito en el escudo para cuello, con la excepción de que está inscrito en un rectángulo de 49.0 por 37.0 milímetros.
-
-142. Los escudos metálicos de las cartucheras para fornitura de gala de instituciones educativas militares y guantes de cetrería del Heroico Colegio Militar y Colegio del Aire, se colocan verticalmente (90º con la horizontal) y centrada en la cartuchera, fabricados en latón, con recubrimiento color oro, con las características descritas anteriormente en los escudos para cuello, con las dimensiones siguientes:
-
-A. Escuela Médico Militar. Inscrito en un cuadrado de 88.0 milímetros por lado.
-
-B. Escuela Militar de Ingenieros. Inscrito en un rectángulo de 65.0 por 88.0 milímetros.
-
-C. Escuela Militar de Odontología. Inscrito en un cuadrado de 88.0 milímetros por lado.
-
-D. Heroico Colegio Militar. Inscrito en un rectángulo de 88.0 por 65.0 milímetros.
-
-E. Colegio del Aire. Inscrito en un rectángulo de 88.0 por 65.0 milímetros.
-
-F. Escuela Militar de Oficiales de Sanidad. Inscrito en un cuadrado de 88.0 milímetros por lado.
-
-G. Escuela Militar de Transmisiones: está inscrito en un rectángulo de 88.0 por 65.0 milímetros.
-
-H. Escuela Militar de Materiales de Guerra: Inscrito en un rectángulo de 88.0 por 65.0 milímetros.
-
-I. Escuela Militar de Clases de Transmisiones: Inscrito en un rectángulo de 88.0 por 65.0 milímetros.
-
-J. Cuerpo de Guardias Presidenciales: Inscrito en un rectángulo de 88.0 por 65.0 milímetros.
-
-143. Las hebillas para fornitura de gala de instituciones de educación militar llevan los escudos verticalmente (90º con la horizontal), con una altura total del escudo de 27.0 milímetros, con las características descritas anteriormente en los escudos para cuello.
-
-En la parte superior el nombre de la institución educativa militar en forma semicircular con una cuerda de 50.0 milímetros y en la parte inferior la palabra “MÉXICO”, ambas con letras de 5.0 milímetros de alto y 3.0 milímetros de ancho, metálicas, con recubrimiento color oro, con una dimensión de 55.0 milímetros de ancho por 82.0 milímetros de largo y un espesor del material de 5.0 milímetros.
-
-144. Los escudos para los portabandera, portaestandarte y portaguión de las Unidades, Dependencias, Instalaciones o Instituciones Educativas Militares, son iguales a los empleados en las cartucheras para fornitura de gala. Se colocarán a 27.0 centímetros arriba de la cuja, en el caso de llevar dos distintivos tendrán una separación de 2.5 centímetros.
-
-145. Los colores distintivos de las Armas, Servicios y Cuerpos Especiales del Ejército y Fuerza Aérea están dados por un sistema de coordenadas de color, compuesto por un equipo de lectura óptica de muestras, que son los siguientes:
-
-TERCERA SECCIÓN
-
-PLACAS DISTINTIVAS DE GRADO ACADÉMICO
-
-146. Las placas se otorgarán al personal militar cuando haya cursado satisfactoriamente carreras a nivel licenciatura o superior en instituciones de educación militares nacionales.
-
-A. Las placas de uso en el Ejército y Fuerza Aérea son:
-
-a. Colegio de Defensa Nacional.
-
-b. Escuela Superior de Guerra:
-
-1. Estado Mayor General.
-
-2. Estado Mayor Aéreo.
-
-c. Heroico Colegio Militar.
-
-d. Colegio del Aire:
-
-1. Escuela Militar de Aviación.
-
-2. Escuela Militar de Especialistas de la Fuerza Aérea (Meteorólogos).
-
-e. Escuela Militar de Graduados de Sanidad.
-
-f. Escuela Médico Militar.
-
-g. Escuela Militar de Ingenieros.
-
-h. Escuela Militar de Odontología.
-
-i. Ingenieros en Transmisiones Militares.
-
-j. Escuela Militar de Oficiales de Sanidad.
-
-k. Escuela Militar de Enfermeras.
-
-B. Colocación de las placas. Las placas nacionales se portarán en todos los uniformes, excepto en el uniforme de campaña, conforme al orden cronológico en que se hayan efectuado los cursos. Máximo se podrán utilizar dos placas en el uniforme administrativo, en el uniforme de gran gala, las que el usuario considere pertinentes.
-
-a. Para hombre.
-
-1. Placas de Cursos Nacionales. En los uniformes de gala y de gran gala, se portarán en el costado izquierdo, a la altura del segundo botón de la guerrera. Si fueran dos o tres, deberán quedar alineadas, colocadas en ambos casos de derecha a izquierda y de arriba hacia abajo. En el uniforme administrativo y en el de ceremonias, se colocarán sobre el tablón de la bolsa izquierda.
-
-2. Placas de Cursos en el Extranjero. En los uniformes de gala y de gran gala, se portarán en el costado derecho, a la altura del segundo botón de la guerrera. Si fueran dos o tres, deberán quedar alineadas, colocadas en ambos casos de derecha a izquierda y de arriba hacia abajo. En el uniforme administrativo y en el de ceremonias, se colocarán sobre el tablón de la bolsa derecha.
-
-b. Para mujer.
-
-1. Placas de Cursos Nacionales. En los uniformes de gala y de gran gala, se portarán en el costado izquierdo a la altura del segundo botón, en el uniforme administrativo sobre el tablón de la bolsa, en el uniforme de ceremonias, entre el primero y segundo botón de la guerrera. Si fueran dos o tres, deberán quedar alineadas, colocadas en ambos casos de derecha a izquierda y de arriba hacia abajo.
-
-2. Placas de Cursos en el Extranjero. En los uniformes de gala y de gran gala, se portarán en el costado derecho a la altura del segundo botón, en el uniforme administrativo sobre el tablón de la bolsa, en el de ceremonias, entre el primero y segundo botón de la guerrera. Si fueran dos o tres, deberán quedar alineadas, colocadas en ambos casos de derecha a izquierda y de arriba hacia abajo.
-
-CUARTA SECCIÓN
-
-CONDECORACIONES
-
-147. Las condecoraciones usadas en el Ejército y Fuerza Aérea son:
-
-A. Valor Heroico.
-
-B. Mérito Militar.
-
-a. De 1/a. clase en grado de orden.
-
-b. De 1/a. Clase.
-
-c. De 2/a. Clase.
-
-d. De 3/a. Clase.
-
-C. Mérito Técnico:
-
-e (sic). De 1/a. Clase.
-
-f. De 2/a. Clase.
-
-D. Mérito Facultativo:
-
-a. De 1/a. Clase.
-
-b. De 2/a. Clase.
-
-E. Mérito Docente.
-
-F. Mérito en la Campaña contra el Narcotráfico:
-
-a. En Grado de Orden.
-
-b. De 1/a. Clase.
-
-c. De 2/a. Clase.
-
-d. De 3/a. Clase.
-
-G. Perseverancia:
-
-a. Por la Patria.
-
-b. Institucional.
-
-c. Extraordinaria.
-
-d. Especial.
-
-e. De 1/a. Clase.
-
-f. De 2/a. Clase.
-
-g. De 3/a. Clase.
-
-h. De 4/a. Clase.
-
-i. De 5/a. Clase.
-
-H. De Retiro.
-
-I. Servicios Distinguidos.
-
-J. Legión de Honor.
-
-K. Mérito Deportivo:
-
-a. De 1/a. Clase.
-
-b. De 2/a. Clase.
-
-c. De 3/a. Clase.
-
-d. De 4/a. Clase.
-
-148. Las condecoraciones se portan en los uniformes de ceremonias, gala para Generales, Jefes y Oficiales, gran gala y gala para instituciones de educación militar, durante ceremonias, desfiles y actos militares que por su solemnidad lo ameriten.
-
-149. Las condecoraciones otorgadas al personal militar deben colocarse en la forma siguiente:
-
-A. Los Generales, Jefes y Oficiales, en los uniformes de gran gala y gala colocarán sus condecoraciones a la altura del segundo botón de la guerrera, a partir del centro del pecho hacia la izquierda.
-
-B. En los uniformes de ceremonias y seis botones irán prendidas a la altura del primer botón del saco, a partir de la parte superior de la cartera de la bolsa izquierda.
-
-C. Cada condecoración penderá de un solo broche. Cuando sean varias formarán una sola fila que será prolongada lo suficiente para darles cabida, pudiendo quedar sobrepuestas si su número lo requiere, pero en todo caso la fila no tendrá más de 128 milímetros de longitud.
-
-D. Si son varias las condecoraciones otorgadas, se colocarán de derecha a izquierda de la persona que las porte.
-
-E. Otras condecoraciones todavía en uso o aquellas que en el futuro lleguen a crearse, se colocarán de acuerdo con el valor relativo.
-
-F. Las condecoraciones con cintas que vayan suspendidas al cuello, se usarán ocultas bajo el uniforme, permitiendo que la condecoración cuelgue fuera del ojal del primer botón del uniforme de gala. En el uniforme de gran gala se suspenderá directamente del cuello, de manera que la condecoración quede entre el primero y segundo botón. En los uniformes de ceremonias, se colocarán suspendidas del cuello, abajo del saco o camisola, de manera que ésta sea visible en la “V” que forma la solapa o cuello abierto, encima de la corbata o pechera, respectivamente.
-
-G. Cuando se hayan otorgado condecoraciones de varias Clases, se usará la de la Clase más alta, ya que con esto se debe considerar que el portador se ha hecho acreedor a las anteriores.
-
-H. Las condecoraciones otorgadas por gobiernos extranjeros se usarán de acuerdo con el orden alfabético del nombre de los países que las hayan otorgado.
-
-I. Los militares que asistan a actos públicos o privados que no tengan carácter militar y sean promovidos por asociaciones científicas o culturales, nacionales o extranjeras, sólo podrán usar la condecoración del estado o sociedad que promueve el acto, con autorización de la Secretaría de la Defensa Nacional.
-
-J. Se pueden usar opcionalmente en el uniforme de gala condecoraciones miniatura, debiendo portarlas de igual manera que las condecoraciones convencionales, ajustándose a su heráldica correspondiente y dimensiones establecidas.
-
-150. Las condecoraciones se impondrán a los Generales pendidas de una banda, a los Jefes de un collar y a los Oficiales y Tropa en un listón.
-
-A. Las bandas se confeccionan con las siguientes características:
-
-a. Se componen de dos piezas confeccionadas en tela razo color blanco con un fleco de artícela torzal dorado en el extremo inferior de 70 milímetros y dos moños sobrepuestos del mismo material, éstos colocados sobre la pieza delantera a 230 milímetros del extremo inferior, excluyendo el fleco.
-
-b. La pieza delantera mide 960 milímetros y la trasera 740 milímetros de largo por 70 milímetros de ancho, ambas terminadas en punta achatada en su parte superior en donde se unen a base de tela de contacto, con una cinta central de 30 milímetros de ancho confeccionada en poliéster y seccionada en forma proporcional en los colores representativos de la condecoración, la cual va colocada a lo largo de la cara externa de cada una de las piezas.
-
-c. El moño de menor tamaño mide 90 milímetros y el mayor 120 milímetros de largo por 70 milímetros de ancho, colocados el primero sobre el segundo y sujetados al delantero por medio de un listón blanco de 6 milímetros de ancho. Ambos moños llevan una cinta central similar a la descrita en el párrafo anterior.
-
-B. También lleva dos cintas en los colores representativos a la condecoración, una de cada color y de 12 milímetros de ancho por 100 milímetros de largo, las cuales estarán unidas entre sí por un extremo, de tal forma que constituyan una sola cinta bicolor de 200 milímetros de largo.
-
-C. Los collares se confeccionan como se indica a continuación:
-
-a. Son de cinta poliéster con un ancho de 30 milímetros y una longitud de 710 milímetros.
-
-b. Con los colores representativos de la condecoración.
-
-c. Cierran en la parte superior con tela de contacto.
-
-d. En la parte media llevan dos argollas niqueladas para suspender la placa.
-
-D. Los listones serán de forma pentagonal con dos lados paralelos y vértice hacia abajo de donde penderán las preseas, confeccionados en popotillo de 30 milímetros de ancho por 40 milímetros de largo sobre su eje de simetría, el listón irá enganchado en su parte superior a una placa dorada de 40 milímetros de largo por 14 milímetros de ancho, labrada por la parte frontal con la palabra “MÉXICO” y en su cara posterior llevará un alfiler con seguro.
-
-151. El diseño de las cintas centrales de las bandas y las cintas con que se confeccionan los collares con los colores representativos de cada condecoración, es como sigue:
-
-A. Valor Heroico.
-
-Contará con tres franjas de 10 milímetros, dos rojo carmesí a los extremos y una blanca al centro.
-
-B. Mérito Militar.
-
-Contará con tres franjas de 10 milímetros, dos azul cobalto a los extremos y una dorada al centro.
-
-C. Mérito Técnico.
-
-a. De 1/a. Clase.
-
-Contará con tres franjas, siendo la central en color verde pálido de 18 milímetros y de color blanco en los extremos, de 6 milímetros cada una.
-
-b. De 2/a. Clase.
-
-Contará con cinco franjas alternadas de 6 milímetros cada una, dos color blanco en los extremos y en el centro y dos de color verde pálido.
-
-D. Mérito Facultativo.
-
-a. De 1/a. Clase.
-
-Contará con tres franjas, dos de color verde pálido en los extremos de 12 milímetros cada una y una color blanco en el centro de 6 milímetros.
-
-b. De 2/a. Clase.
-
-Contará con cinco franjas alternadas de 6 milímetros cada una, dos color verde pálido en los extremos y en el centro y dos de color blanco.
-
-E. Mérito Docente.
-
-Contará con tres franjas, dos de color rojo carmesí a los extremos de 9 milímetros y una color verde al centro de 12 milímetros.
-
-F. Mérito en la Campaña contra el Narcotráfico.
-
-a. En Grado de Orden.
-
-Contará con dos franjas color verde en los extremos de 6 milímetros y una color rojo al centro de 18 milímetros, sobre la cual se aplicará otra cinta tricolor en verde, blanco y rojo de 10 milímetros de ancho.
-
-b. De 1/a. Clase.
-
-Contará con las mismas medidas, formas y colores que el de Grado de Orden, excluyéndose la cinta tricolor.
-
-c. De 2/a. Clase.
-
-Contará con tres franjas, dos de color verde en los extremos de 12 milímetros y una color rojo al centro de 6 milímetros.
-
-d. De 3/a. Clase.
-
-Contará con cinco franjas alternadas de 6 milímetros cada una, dos de color verde en los extremos y en el centro y dos de color rojo.
-
-G. Perseverancia
-
-a. Por la Patria.
-
-Se compondrá de tres cintas de 30 milímetros de ancho por 320 milímetros de largo cada una, en la parte superior estará colocada la cinta de color verde, en la parte inferior la de color rojo y al centro se encontrará la cinta de color blanco, sobre la cual llevará bordada un águila en hilo canutillo dorado con un diámetro de 25 milímetros.
-
-b. Institucional.
-
-Se compondrá de tres cintas de 30 milímetros de ancho por 320 milímetros de longitud cada una, en la parte superior estará colocada la cinta de color verde, en la parte inferior la de color rojo y al centro se encontrará la cinta de color blanco, sobre la cual llevará bordada una estrella con un diámetro de 20 milímetros en hilo canutillo dorado.
-
-c. Extraordinaria.
-
-La cinta será color rojo de 30 milímetros de ancho, sobre la cual se aplicará en el centro otra cinta tricolor verde, blanco y rojo de 10 milímetros de ancho.
-
-d. Especial.
-
-Contará con dos franjas de 15 milímetros una de color amarillo del lado izquierdo y otra de color azul húsar en el derecho, al centro se aplicará otra cinta tricolor verde, blanco y rojo de 10 milímetros de ancho.
-
-e. De 1/a. Clase.
-
-Será una cinta color blanco de 30 milímetros sobre la cual se aplicará al centro otra cinta tricolor verde, blanco y rojo de 10 milímetros de ancho.
-
-f. De 2/a. Clase.
-
-Contará con tres franjas de 10 milímetros de ancho cada una de color verde, blanco y rojo.
-
-g. De 3/a. Clase.
-
-Contará con cinco franjas alternadas de 6 milímetros de ancho cada una, dos de color verde en los extremos y una roja al centro y dos de color blanco.
-
-h. De 4/a. Clase.
-
-Contará con tres franjas de color verde y rojo en los extremos de 6 milímetros de ancho y una color blanco al centro de 18 milímetros de ancho.
-
-i. De 5/a. Clase.
-
-Contará con dos franjas de 15 milímetros de ancho de color verde y rojo.
-
-H. De Retiro.
-
-Contará con tres franjas de 10 milímetros dos color azul celeste a los extremos y una color amarillo oro al centro.
-
-I. Servicios Distinguidos.
-
-Contará con tres franjas de 10 milímetros de ancho, dos de color azul turquesa a los extremos y una color blanco al centro.
-
-J. Legión de Honor.
-
-Contará con tres franjas de 6 milímetros de ancho, dos de color amarillo canario en los extremos y una color azul turquesa al centro de 18 milímetros de ancho.
-
-K. Mérito Deportivo.
-
-a. De 1/a. Clase.
-
-Contará con tres franjas de 6 milímetros, dos de color blanco en los extremos y una color anaranjado al centro de 18 milímetros.
-
-b. De 2/a. Clase.
-
-Contará con cinco franjas alternadas, dos de color blanco en los extremos y una al centro de 4 milímetros y dos de color anaranjado de 9 milímetros.
-
-c. De 3/a. Clase.
-
-Contará con siete franjas alternadas color blanco y anaranjado del mismo ancho, con los extremos color blanco.
-
-d. De 4/a. Clase.
-
-Contará con nueve franjas alternadas color blanco y anaranjado del mismo ancho, con los extremos color blanco.
-
-152. La condecoración del Valor Heroico tiene las siguientes características:
-
-A. Es dorada y está compuesta de una cruz lanceolada inscrita en un cuadrado, esmaltada en color rojo carmesí y rodeada por un filete dorado de medio milímetro.
-
-B. Los lados que forman las puntas de la cruz coinciden con los ángulos del cuadrado.
-
-C. Al centro lleva dos círculos concéntricos con sus circunferencias cercadas por un filete dorado.
-
-D. Sobre su esmalte blanco y en el espacio comprendido entre ambos círculos, en letras negras fileteadas va la inscripción “VALOR HEROICO” con la palabra “VALOR” centrada en la parte superior, y en la parte inferior la palabra “HEROICO”, separadas entre sí por dos guiones.
-
-E. El círculo interior va esmaltado en color rojo carmesí y el águila del Escudo Nacional dorada.
-
-F. Entre los brazos de la cruz, cubriendo totalmente el espacio entre ellos, parten del círculo exterior cuatro haces que coinciden con los lados del cuadrado donde está inscrita la cruz, los restantes aumentan de longitud hacia el centro, en tal forma que los extremos de los rayos centrales sean los vértices de los ángulos de un cuadrado por lado.
-
-G. La placa debe estar ligeramente convexa hacia la parte exterior, en su vértice superior tiene una argolla para suspenderla del listón y al reverso lleva una estrella de dieciséis lados con la leyenda creada en 1926, en letras mayúsculas realzadas.
-
-H. El listón de forma pentagonal es de popotillo con tres bandas verticales de 10 milímetros. de ancho, dos color rojo carmesí a los extremos y al centro del listón una color blanco.
-
-153. La condecoración del Mérito Militar tiene las siguientes características:
-
-A. Mérito Militar de Primera Clase en Grado de Orden:
-
-a. La presea del Mérito Militar de Primera Clase en Grado de Orden, Estará constituida por una cruz de malta, de 65 por 65 milímetros, con brazos de lados curvos esmaltados en color azul cobalto, excepto el borde exterior que estará formado por un filete metálico dorado de un milímetro de ancho. Sobrepuesta en la cruz irá una placa constituida por un disco convexo de 28 milímetros de diámetro, que comprende: en el exterior un filete metálico dorado de un milímetro de ancho; enseguida un anillo de 4 milímetros de ancho, esmaltado de rojo, con la leyenda “MÉRITO MILITAR” de “1A. CLASE” en letras metálicas doradas; a continuación otro filete metálico igual al primero, y al centro un círculo esmaltado de azul, en el que se destaca el águila nacional en ocho haces metálicos dorados constituidos cada uno por tres rayos y separados por otro; de éstos, el del centro de cada haz mide 10 milímetros, los laterales 6 milímetros y los intermedios 5 milímetros.
-
-b. La condecoración del Mérito Militar de Primera Clase en Grado de Orden, irá suspendida de una banda de seda blanca de 168 milímetros de largo por 10 milímetros de ancho, figurando en su parte central un listón de 30 milímetros de ancho, con los siguientes colores: azul cobalto, dorado y azul cobalto de 10 milímetros cada uno. En la parte inferior presenta un remate constituido por un moño del cual penderá la medalla y dicha banda se colocará atravesando el hombro izquierdo al costado opuesto inferior.
-
-B. Mérito Militar de Primera Clase:
-
-a. Es de características similares a la presea del Mérito Militar de Primera Clase en Grado de Orden con la diferencia de que la cruz de malta será de 45 por 45 milímetros. Sobrepuesta en la cruz irá una placa constituida por un disco convexo de 12 milímetros de diámetro que comprende: en el exterior un filete metálico dorado de un milímetro de ancho; enseguida un anillo de 2 milímetros de ancho, esmaltado de rojo, con la leyenda “MÉRITO MILITAR” de “1A. CLASE” en letras metálicas doradas; a continuación otro filete metálico igual al primero, y al centro un círculo esmaltado de azul, en el que se destaca el águila nacional en ocho haces metálicos dorados constituidos cada uno por tres rayos y separados por otro; de éstos, el del centro de cada haz mide 7 milímetros, los laterales 5 milímetros y los intermedios 2 milímetros.
-
-b. Esta condecoración irá suspendida de un collar de hilo de canutillo dorado de 67 centímetros de largo por 5 milímetros de grosor, enlazado por una pieza metálica dorada de 12 milímetros de ancho por 7 milímetros de circunferencia.
-
-C. Mérito Militar de Segunda Clase:
-
-a. Es de características similares a la presea del Mérito Militar de Primera Clase en Grado de Orden, con la diferencia de que la cruz de malta, será de 45 por 45 milímetros. Sobrepuesta en la cruz irá una placa constituida por un disco convexo de 12 milímetros de diámetro, que comprende: en el exterior un filete metálico dorado de un milímetro de ancho; en seguida un anillo de 2 milímetros de ancho, esmaltado de rojo, con la leyenda “MÉRITO MILITAR” de “2A. CLASE” en letras metálicas plateadas; a continuación otro filete metálico plateado de un milímetro de ancho, y al centro un círculo esmaltado de azul, en el que se destaca el águila nacional en ocho haces metálicos plateados constituidos cada uno por tres rayos y separados por otro; de éstos, el del centro de cada haz mide 7 milímetros, los laterales 5 milímetros y los intermedios 2 milímetros.
-
-b. Esta condecoración irá suspendida de un listón pentagonal de popotillo de 40 milímetros de largo por 30 milímetros de ancho, con tres franjas; las laterales de 12 milímetros de ancho de color azul cobalto y la central de 6 milímetros de ancho de color rojo. El listón irá enganchado a una pieza metálica dorada de 40 milímetros de largo por 14 milímetros de ancho en la que irá inscrita la palabra “MÉXICO”.
-
-D. Mérito Militar de Tercera Clase:
-
-a. Es de características similares a la presea del Mérito Militar de Primera Clase en Grado de Orden, con la diferencia de que la cruz de malta, será de 45 por 45 milímetros. Sobrepuesta en la cruz irá una placa constituida por un disco convexo de 12 milímetros de diámetro, que comprende: en el exterior un filete metálico plateado de un milímetro de ancho; enseguida un anillo de 2 milímetros de ancho, esmaltado de rojo, con la leyenda “MÉRITO MILITAR” de “3A. CLASE” en letras metálicas plateadas; a continuación otro filete metálico igual al primero, y al centro un círculo esmaltado de azul, en el que se destaca el águila nacional en ocho haces etálicos (sic) plateados constituidos cada uno por tres rayos y separados por otro; de éstos, el del centro de cada haz mide 7 milímetros, los laterales 5 milímetros y los intermedios 2 milímetros.
-
-b. Esta condecoración irá suspendida por un listón pentagonal de popotillo de 40 milímetros de largo por 30 milímetros de ancho, con cinco franjas; las laterales y la central principal de 5 milímetros de ancho de color azul cobalto y dos centrales de 5 milímetros de ancho en color rojo. El listón irá enganchado de una pieza metálica plateada de 40 milímetros de largo por 14 milímetros de ancho en la que irá inscrita la palabra “MÉXICO”.
-
-154. La condecoración del Mérito Técnico tiene las siguientes características:
-
-A. Mérito Técnico de Primera Clase:
-
-a. Está constituida por una insignia de metal dorado con ocho haces de cinco rayos cada uno, teniendo en la parte superior sobre la punta del rayo de mayor longitud de uno de los haces el Escudo Nacional, al centro lleva dos circunferencias concéntricas en rojo carmesí, separadas por dos filetes dorados entre las cuales irá la leyenda “MÉRITO TÉCNICO MILITAR”, el círculo interior tiene una estrella dorada de cinco puntas, y sobre los haces lleva dos ramas de laurel plateado, y
-
-b. El listón de forma pentagonal es de popotillo y se encuentra dividido en tres franjas verticales, siendo la central en color verde pálido de 18 milímetros y de color blanco los extremos de 6 milímetros.
-
-B. Mérito Técnico de Segunda Clase:
-
-a. Es de características similares a la de Primera Clase con la diferencia de que los haces, el águila del escudo y el reverso son de plata, no así las ramas de laurel que son doradas y
-
-b. El listón de forma pentagonal es de popotillo y se encuentra dividido en cinco franjas verticales de 6 milímetros de ancho, de color blanco los extremos y la franja central, siendo el resto de color verde pálido.
-
-155. La condecoración del Mérito Facultativo tiene las siguientes características:
-
-A. Mérito Facultativo de Primera Clase:
-
-a. Es de plata y está constituida por una medalla redonda, en el exergo irá la inscripción “MÉRITO FACULTATIVO” con letras mayúsculas realzadas en la parte superior y en la parte inferior la inscripción “RECOMPENSA AL SABER”, en el círculo inferior lleva una alegoría en la que un cadete presentando armas recibe una corona de laurel que le ofrece la Patria, representada por una mujer que se encuentra sentada en un trono, apoyándose con la mano izquierda en el Escudo Nacional y al fondo irá el Castillo de Chapultepec. Al reverso lleva el nombre de la escuela que la otorga, en la parte inferior dirá: Creada en 1891 y al centro lleva la inscripción “1/a. CLASE”, y
-
-b. El listón de forma pentagonal es de popotillo y se encuentra dividido en dos franjas verticales de 12 milímetros de ancho de color verde pálido en los extremos y al centro con una franja de 6 milímetros de ancho de color blanco.
-
-B. Mérito Facultativo de Segunda Clase:
-
-a. Es de características similares a la de Mérito Facultativo de Primera Clase, con la diferencia de que la insignia es de plata y
-
-b. El listón de forma pentagonal es de popotillo y se encuentra dividido en cinco franjas verticales, de 6 milímetros cada una, de color verde pálido en los extremos y al centro y las demás de color blanco.
-
-156. La condecoración del Mérito Docente tiene las siguientes características:
-
-A. La medalla tiene 40.5 milímetros de alto por 25 milímetros de ancho, en una de sus caras ostenta en relieve una figura simbólica representando a Minerva y Marte y en el reverso, en su parte superior, expresa “Creada por Decreto de 27 de junio de 1944”, y debajo de esta leyenda se especifica el nombre del plantel en el que actuó como director o como profesor aquél que vaya a ser agraciado con esa distinción y
-
-B. El listón de forma pentagonal es de popotillo con dos franjas color rojo carmesí de 9 milímetros de ancho en los extremos, con una franja verde al centro de 12 milímetros de ancho.
-
-157. La condecoración al Mérito en la Campaña contra el Narcotráfico tiene las características siguientes:
-
-A. En Grado de Orden:
-
-a. La insignia es dorada y está constituida por una cruz de malta de 42 milímetros de centro a centro, de brazos opuestos esmaltados en color rojo carmesí y rodeados de un filete dorado de medio milímetro.
-
-b. Al centro lleva sobrepuesta una placa dorada formada por ocho haces de cinco rayos cada uno, separados por otro más pequeño, el rayo más grande de cada dos haces sucesivos irá al centro de la cruz, inscritos en un círculo imaginario de 38 milímetros,
-
-c. Al centro de la placa de los haces, lleva sobrepuesta una placa formada por un disco convexo, que se compone de dos círculos concéntricos de 22 milímetros y 12 milímetros de diámetro, respectivamente, con sus circunferencias rodeadas de un filo dorado, el primer círculo tiene un fondo de esmalte blanco con la inscripción “MÉRITO EN CAMPAÑA” centrado en la parte superior y “NARCOTRÁFICO” en la parte inferior en letras doradas fileteadas, separados entre sí por dos puntos.
-
-d. En el círculo interior tiene un fondo verde esmaltado y lleva la silueta de la República Mexicana en color dorado y resaltada.
-
-e. Sobre la placa de haces y siguiendo el contorno del disco convexo, van dos ramas de laurel de metal dorado que parten del rayo del haz inferior hacia arriba sin llegar a juntarse.
-
-f. Sobre el brazo superior de la cruz tiene el águila del Escudo Nacional en metal dorado, con una grapa en su parte superior para unirla al listón.
-
-g. La condecoración en su parte posterior lleva resaltado un círculo de 25 milímetros de diámetro con la leyenda grabada: “creada por decreto del 12 de septiembre de 1988”.
-
-h. El listón de forma pentagonal es de popotillo y se forma por dos franjas de 6 milímetros de ancho de color verde en los extremos y al centro una de color rojo con ancho de 18 milímetros, en forma transversal de derecha a izquierda se aplicará una cinta tricolor verde, blanco y rojo de 10 milímetros de ancho.
-
-B. De Primera Clase:
-
-a. La insignia es de las mismas características que la de Grado de Orden y
-
-b. El listón tiene las mismas medidas, formas y colores que el de Grado de Orden, excluyéndose la banda tricolor.
-
-C. De Segunda Clase:
-
-a. La placa es dorada y tiene las mismas características que la de Primera Clase y
-
-b. El listón cuenta con las mismas medidas y forma que el de Primera Clase pero los colores son verde, rojo y verde, el color verde va a los lados y es de 12 milímetros, al centro va el color rojo y es de 6 milímetros de ancho.
-
-D. De Tercera Clase:
-
-a. La placa es dorada y tiene las mismas características que la de Primera Clase y
-
-b. El listón cuenta con las mismas medidas y forma que el de Primera Clase, pero los colores están divididos por cinco franjas de 6 milímetros de ancho cada una, tres franjas de color verde colocadas a los lados y centro respectivamente y dos franjas de color rojo intercaladas entre las verdes.
-
-158. La condecoración de Perseverancia tiene las siguientes características:
-
-A. Por la Patria:
-
-a. Esta presea consiste en una cruz de molina de 47 milímetros de largo de brazo a brazo, esmaltada en color amarillo oro, bordeada por un filete de metal dorado de medio milímetro de ancho, en cuyo interior y en el mismo plano, se representan otras dos más pequeñas también con filetes de metal dorado, quedando los espacios entre filetes en bajo relieve.
-
-b. Al centro de la cruz lleva una placa metálica en forma circular de 21 milímetros de diámetro, conteniendo un anillo de esmalte blanco fileteado de 4 milímetros de ancho, ostentando en la parte superior la leyenda “PERSEVERANCIA” y en la parte inferior “POR LA PATRIA”, ambas en esmalte de color negro y con filo dorado. El centro de la placa es en metal dorado con un diámetro de 12 milímetros, ostentando con números arábigos en relieve la cifra “50”, fileteada en dorado y esmaltada en color amarillo oro, quedando el centro de éstos en bajo relieve.
-
-c. En el brazo superior de la cruz lleva el Escudo Nacional en metal dorado.
-
-d. La cruz de molina va sobrepuesta sobre dos ramas de laurel circulares, con una circunferencia de 45 y 40 milímetros, respectivamente.
-
-e. El brazo superior lleva en su reverso un ganchillo que sirve para engancharse al listón del que penderá.
-
-f. El listón es de popotillo en forma pentagonal, ostentará tres franjas diagonales de 10 milímetros de ancho, en el orden de izquierda a derecha de color verde blanco y rojo.
-
-B. Institucional. Es de características similares a la condecoración de Perseverancia por la Patria, con las diferencias siguientes: el color del esmalte es guinda, en la parte inferior del anillo tiene inscrita la palabra “INSTITUCIONAL” y en la parte central el número “45” fileteado en dorado y esmaltado en guinda, el listón es de popotillo en forma pentagonal y lleva tres franjas diagonales de izquierda a derecha en forma ascendente, de anchura proporcional con los colores de la Bandera Nacional.
-
-C. Extraordinaria. De características similares a la condecoración de Perseverancia por la Patria con las diferencias siguientes: el esmalte es de color blanco, en la parte inferior del anillo se inscribirá “EXTRAORDINARIA” y en la parte central el número “40” fileteado en dorado y esmaltado en color blanco. El listón es de popotillo en forma pentagonal de color rojo de 30 milímetros de ancho, al centro una cinta tricolor verde, blanco y rojo de 10 milímetros de ancho.
-
-D. Especial. De características similares a la condecoración de Perseverancia por la Patria con las diferencias siguientes: la cruz de molina es de 37 milímetros de largo de brazo a brazo con el esmalte en color azul húsar, está bordeada por un filete de metal dorado de medio milímetro de ancho, en cuyo interior y en el mismo plano, se representan otras dos más pequeñas también con filetes de metal dorado, quedando los espacios entre filetes en bajo relieve y esmaltados en color azul húsar. La parte central del tercer filete está en el mismo plano que éstos y es de metal dorado, en la parte inferior del anillo tiene inscrita la palabra “ESPECIAL” y en la parte central el número “35” con filete dorado y esmaltados en color azul húsar. La cruz va sobrepuesta en una rama circular de laurel en metal dorado con un diámetro de 35 milímetros.
-
-El listón es de popotillo en forma pentagonal y ostenta dos franjas verticales, la del lado izquierdo color amarillo y la del lado derecho azul húsar, ambas de 15 milímetros de ancho, de manera diagonal de derecha a izquierda lleva aplicada una cinta tricolor verde blanco y rojo de 10 milímetros de ancho.
-
-E. Perseverancia de Primera Clase. De características similares a la condecoración de Perseverancia por la Patria con las diferencias siguientes: la cruz de molina de 37 milímetros de largo de brazo a brazo con el esmalte de color azul cobalto, está bordeada por un filete de metal dorado de medio milímetro de ancho, en cuyo interior y en el mismo plano se representan otras dos más pequeñas también con filetes de metal dorado, quedando los espacios entre filetes en bajo relieve y esmaltados en color azul cobalto. La parte central del tercer filete queda al mismo plano que éstos y es de metal dorado, en la parte inferior del anillo cuenta con la inscripción “1/a. CLASE” y en la parte central el número “30” con filete dorado y esmaltado en color azul cobalto.
-
-El listón de forma pentagonal es de popotillo color blanco, con una cinta de 10 milímetros de ancho de colores verde, blanco y rojo aplicada de manera diagonal de derecha a izquierda.
-
-F. Perseverancia de Segunda Clase. De características similares a la condecoración de Perseverancia por la Patria con las diferencias siguientes: La cruz de molina es de 37 milímetros de largo de brazo a brazo con esmalte de color rojo, estará bordeada por un filete de metal dorado de medio milímetro de ancho, en cuyo interior y en el mismo plano se representan otras dos más pequeñas también con filetes de metal dorado, quedando los espacios entre filetes en bajo relieve y esmaltados en color rojo. La parte central del tercer filete quedará al mismo plano que éstos y es de metal dorado, en la parte inferior del anillo se inscribirá “2/a. CLASE” y en el centro el número “25” con filete dorado y esmaltado en color rojo.
-
-La cruz irá sobrepuesta en una rama circular de laurel con un diámetro de 35 milímetros en metal dorado. El listón de forma pentagonal es de popotillo y tiene tres franjas verticales de 10 milímetros de ancho, en orden de izquierda a derecha en colores verde, blanco y rojo.
-
-G. Perseverancia de Tercera Clase. Es de características similares a la condecoración de Perseverancia por la Patria, con las diferencias siguientes: la cruz de molina es de 37 milímetros de largo de brazo a brazo con esmalte de color verde bandera, estará bordeada por un filete de metal dorado de medio milímetro de ancho, en cuyo interior y en el mismo plano se representan otras dos más pequeñas también con filetes de metal dorado, quedando los espacios entre filetes en bajo relieve y esmaltados en verde bandera. La parte central del tercer filete quedará al mismo plano que éstos y es de metal dorado, en la parte inferior se inscribirá “3/a. CLASE” y en el centro el número “20” con filete dorado y esmaltado en verde bandera.
-
-La cruz irá sobrepuesta en una rama circular de laurel con un diámetro de 35 milímetros en metal dorado y en el brazo superior de la cruz de molina lleva una estrella de cinco puntas calada en metal dorado, inscrita en un círculo imaginario de 8 milímetros de diámetro. El listón de forma pentagonal es de popotillo y lleva cinco franjas verticales de 6 milímetros de ancho, las de los extremos de color verde, la central roja y las intermedias en color blanco.
-
-H. Perseverancia de Cuarta Clase. Es de características similares a la condecoración de Perseverancia por la Patria, con las diferencias siguientes: la cruz de molina es de 37 milímetros de largo de brazo a brazo con esmalte de color blanco, estará bordeada por un filete de metal dorado de medio milímetro de ancho, en cuyo interior y en el mismo plano se representan otras dos más pequeñas también con filetes de metal dorado, quedando los espacios entre filetes en bajo relieve y esmaltados en color verde bandera. La parte central del tercer filete quedará al mismo plano que éstos y es de metal dorado, en la parte inferior del anillo se inscribirá “4/a. CLASE” y en el centro el número “15” con filete dorado y esmaltado en color blanco.
-
-La cruz irá sobrepuesta en una rama circular de laurel con un diámetro de 35 milímetros en metal dorado y el brazo superior de la cruz lleva una estrella de cinco puntas calada en metal dorado, inscrita en un círculo imaginario de 8 milímetros de diámetro. El listón de forma pentagonal es de popotillo y ostentará dos franjas verticales de 6 milímetros de ancho en los extremos, de colores verde en el lado izquierdo y rojo en el derecho, al centro una franja color blanco de 18 milímetros de ancho.
-
-I. Perseverancia de Quinta Clase. Es de características similares a la condecoración de Perseverancia por la Patria, con las diferencias siguientes: la cruz de molina es de 37 milímetros de largo de brazo a brazo con esmalte de color naranja, estará bordeada por un filete de metal dorado de medio milímetro de ancho, en cuyo interior y en el mismo plano se representan otras dos más pequeñas también con filetes de metal dorado, quedando los espacios entre filetes en bajo relieve y esmaltados en color blanco. La parte central del tercer filete quedará al mismo plano que éstos y es de metal dorado, en la parte inferior del anillo se inscribirá “5/a. CLASE” y en el centro el número “10” con filete dorado y esmaltado en color naranja.
-
-La cruz irá sobrepuesta en una rama circular de laurel con un diámetro de 35 milímetros en metal dorado y en el brazo superior de la cruz lleva una estrella de cinco puntas calada en metal dorado, inscrita en un círculo imaginario de 8 milímetros de diámetro. El listón de forma pentagonal es de popotillo y ostentará dos franjas verticales de 15 milímetros de ancho cada una, la del lado izquierdo de color verde y del lado derecho color rojo.
-
-159. La condecoración de Retiro tiene las siguientes características:
-
-A. Es en oro con ley de 0.900.
-
-B. Está formada por una placa en la que se aprecian cuatro aristas formando un octágono regular, las cuatro restantes quedan ocultas por cuatro brazos de una cruz, que sobresalen del octágono y están formados por tres rayos, siendo mayor el central.
-
-C. El grabado principal tiene de fondo los volcanes, Popocatépetl e Iztaccíhuatl y en la parte media y al frente la cabeza del Caballero Águila.
-
-D. Al centro y circundando al grabado principal lleva dos ramas, una de laurel y otra de encino.
-
-E. El listón es de forma pentagonal y es de popotillo, estará dividido en tres franjas de 10 milímetros de ancho, dos de color azul celeste a los extremos y al centro una franja color amarillo oro.
-
-160. La condecoración de Servicios Distinguidos tiene las siguientes características:
-
-A. Está formada por un medallón circular de metal dorado de 35 milímetros de diámetro, el cual presenta en su parte central el lienzo de Tlaxcala.
-
-B. Se distinguen la greca que se encuentra en la piedra policromada del sacrificio gladiatorio, el escudo de Ahuízotl, las aguas que circundan la isla de la gran Tenochtitlán, al poniente la calzada de Tlacopan y al sur la de Coyoacán, las cuales unían a la gran Tenochtitlán, las canoas con guerreros Mexica, Tepanecas y la unión de Cuauhtlalpan, en la defensa de los canales, las estacas que colocaron debajo del agua para varar a los bergantines y poder atacar con canoas, la isla de la gran Tenochtitlán, y el teocalli, integrado por los templos de Huitzilopochtli y Tláloc (escalinata y parte posterior de los templos mencionados),
-
-C. En su parte inferior se inscribirá la leyenda “SERVICIOS DISTINGUIDOS”, en letras metálicas de 4 milímetros de altura, y en la parte superior lleva un águila similar a la del Escudo Nacional, sin rama de laurel y olivo,
-
-D. El medallón estará circundado por dos ramas entrelazadas, una de laurel y la otra de olivo, de 5 milímetros de ancho, y
-
-E. El listón de forma pentagonal es de popotillo y estará dividido en tres franjas de 10 milímetros de ancho, dos de color azul turquesa a los extremos y al centro con una franja de color blanco.
-
-161. La condecoración de Legión de Honor tiene las características siguientes:
-
-A. Consiste en una medalla de 50 milímetros, teniendo un círculo en forma de greca azteca en fondo azul turquesa de 7 milímetros de ancho, otro círculo de menor diámetro en color rojo de 5 milímetros de ancho con la leyenda “LEGIÓN DE HONOR” en la parte superior, una rama de laurel entrelazada en la parte inferior y un círculo central de 17 milímetros de diámetro con el busto de Cuauhtémoc, en metal realzado sobre fondo azul turquesa. Del círculo rojo intermedio salen cuatro brazos en color rojo, semejantes a la cruz de malta, que rematan con adornos dorados con motivos aztecas, con excepción del superior que remata con el Escudo Nacional en metal dorado de 20 milímetros, del mismo círculo rojo salen, entre los brazos señalados, cuatro figuras doradas en forma de triángulo de la misma dimensión.
-
-B. Esta presea irá suspendida en un listón de forma pentagonal es de popotillo y estará dividido en dos franjas de 6 milímetros de color amarillo canario a los extremos y con una franja al centro de 18 milímetros de color azul turquesa.
-
-162. La condecoración del Mérito Deportivo tiene las características siguientes:
-
-A. Mérito Deportivo de Primera Clase:
-
-a. Constituida en una placa de bronce de 24 milímetros de ancho por 30 milímetros de altura, coronada por un águila nacional.
-
-b. El frente de la placa lleva realzados: al centro un blanco constituido por tres círculos concéntricos, sobre estos un fusil en forma vertical colocado sobre una flecha horizontal a la altura del cerrojo, y sobre todo esto una cabeza de caballo de metal amarillo en actitud de carrera.
-
-c. En la parte de arriba lleva la inscripción “MÉRITO” e inmediatamente abajo “1/a. CLASE”, en la parte inferior lleva la palabra “DEPORTIVO”.
-
-d. Al reverso lleva la inscripción “creada por decreto de 14 de agosto de 1935”. y
-
-e. Esta presea irá suspendida en un listón de forma pentagonal es de popotillo y estará dividido en dos franjas de 6 milímetros de ancho de color blanco en los extremos y al centro con una franja de 18 milímetros de color anaranjado.
-
-B. Mérito Deportivo de Segunda Clase:
-
-a. Es de características similares a la condecoración al Mérito Deportivo Militar de Primera Clase con la diferencia de que en la parte correspondiente dirá “2/a. CLASE”.
-
-b. El listón de forma pentagonal es de popotillo y estará dividido en cinco franjas alternadas, dos de color blanco en los extremos y una al centro de 4 milímetros y dos de color anaranjado de 9 milímetros.
-
-C. Mérito Deportivo de Tercera Clase:
-
-a. Es de características similares a la condecoración del Mérito Deportivo Militar de Primera Clase, con la diferencia de que en la parte correspondiente dirá “3/a. CLASE”.
-
-b. El listón de forma pentagonal es de popotillo y estará dividido en siete franjas alternadas color blanco y anaranjado del mismo ancho, con los extremos color blanco.
-
-D. Mérito Deportivo de Cuarta Clase:
-
-a. Es de características similares a la condecoración del Mérito Deportivo Militar de Primera Clase, con la diferencia de que en la parte correspondiente dirá “4/a. CLASE”.
-
-b. El listón de forma pentagonal es de popotillo y estará dividido en nueve franjas alternadas, blancas y anaranjadas del mismo ancho, con dos blancas en los extremos.
-
-QUINTA SECCIÓN
-
-ALAS
-
-163. Las alas de pecho del personal del Ejército y Fuerza Aérea son las siguientes:
-
-A. Fuerza Aérea:
-
-a. Piloto Aviador:
-
-1. Sin estrella.
-
-2. Con estrella.
-
-3. Con estrella y laurel.
-
-4. Para Oficiales en instrucción y Cadetes de la Escuela Militar de Aviación.
-
-b. Servicios de la Fuerza Aérea:
-
-1. Meteorólogos y Aerologistas.
-
-2. Abastecimiento de Material Aéreo.
-
-3. Mantenimiento de Material Aéreo.
-
-4. Especialista en Electrónica de Aviación.
-
-5. Armamento Aéreo.
-
-6. Controladores de Vuelo.
-
-c. Paracaidistas.
-
-1. Sin estrella.
-
-2. Con estrella.
-
-3. Con estrella y laurel.
-
-d. Alas de salto libre.
-
-1. Curso básico de caída libre militar.
-
-2. Maestro de salto de caída libre militar.
-
-B. Egresados de la Escuela Militar de Transmisiones.
-
-C. Fuerzas Especiales
-
-164. Las alas de pecho para Piloto Aviador son empleadas por los Oficiales, Oficiales graduados en el extranjero, Generales, Jefes y Oficiales extranjeros a quienes se les conceda oficialmente el título de “Pilotos Honorarios” de la Fuerza Aérea Mexicana.
-
-165. Cuando se emplean con el uniforme de ceremonias constan de un escudo central de 1.5 milímetros de grueso con filete dorado de 1 milímetro, con tres divisiones verticales con los colores verde, blanco y rojo, y sobre el color blanco el Escudo Nacional. En la parte superior del escudo lleva las siglas “FAM” con letras de 4 milímetros de alto en fondo de color morado obispo y tiene dos alas desplegadas lateralmente en color oro que forman un arco con cuerda de 80 milímetros y flecha de 5 milímetros.
-
-166. Cuando se emplean con el uniforme administrativo constan de un escudo central de 1 milímetro de grueso con filete dorado de 0.5 milímetros, con tres divisiones verticales con los colores verde, blanco y rojo, sobre el color blanco el escudo nacional en la parte superior del escudo lleva las siglas “FAM” con letras de 3 milímetros de alto en fondo de color morado obispo y tiene dos alas desplegadas lateralmente en color oro que forman un arco con cuerda de 55 milímetros y flecha de 5 milímetros.
-
-167. De acuerdo a las horas de vuelo que tengan los Pilotos Aviadores las alas de pecho tienen las características siguientes:
-
-A. Alas de pecho con estrella: las emplean cuando tienen más de 1500 horas de vuelo en aeronaves militares.
-
-En el uniforme de ceremonias llevan una estrella dorada de 5 picos, inscrita en un círculo cuyo diámetro es de 13 milímetros, apoyada con dos de los picos en la parte superior del escudo central.
-
-En el uniforme administrativo las alas llevan una estrella dorada de 5 picos inscrita en un círculo cuyo diámetro es de 7 milímetros apoyada con dos de los picos en la parte superior del escudo central.
-
-B. Alas de pecho con estrella y laurel: las emplean cuando tienen más de 3000 horas de vuelo en aeronaves militares.
-
-En el uniforme de ceremonias llevan una estrella dorada de cinco picos, inscrita en un círculo cuyo diámetro es de 13 milímetros, apoyada con dos de los picos en la parte superior del escudo central, naciendo en cada uno de ellos una rama de laurel dorada, circunscribiendo las dos a la estrella. Cada rama tiene tres ramos de hojas, uno a continuación de otro, rematando en una central a 3 milímetros arriba de la punta superior de la estrella y separadas entre sí por un espacio de 2 milímetros. Las medidas del ancho de los ramos de hojas son 3.5 milímetros el inferior, 3 milímetros el de en medio y 2.5 milímetros el superior. La hoja final es de 1 milímetro y los picos horizontales de la estrella están apoyados en las ramas.
-
-En el uniforme administrativo lleva una estrella dorada de 5 picos, inscrita en un círculo cuyo diámetro es de 7 milímetros, apoyada en la parte superior del escudo central naciendo en cada uno de ellos una rama de laurel, dorada, circunscribiendo las dos a la estrella, cada rama tiene tres ramos de hojas, uno a continuación de otro de 8 milímetros.
-
-C. Alas de pecho para Oficiales en instrucción, y Cadetes de la Escuela Militar de Aviación: las emplean cuando hayan realizado su primer vuelo “en solo”, son semejantes a las descritas en el presente artículo para Piloto Aviador, pero sin el ala derecha.
-
-168. Las alas de pecho para el personal de servicio de la Fuerza Aérea tienen características semejantes a las alas para Piloto Aviador sin estrella y sin laurel, son en color plata y en lugar del Escudo Nacional llevan el símbolo de la especialidad en relieve de un milímetro.
-
-De acuerdo con las funciones que se desempeñen los símbolos de la especialidad en las alas de pecho son las siguientes:
-
-A. Para Meteorólogos y Aerologistas. Se materializa el símbolo de especialidad a través de una estrella de cuatro puntas, un rayo que representa la tormenta eléctrica y un medidor de dirección e intensidad del viento.
-
-B. Para personal de abastecimiento de material aéreo. El símbolo de especialidad será a través de un sol con cuatro rayos divergentes.
-
-C. Para personal de mantenimiento de material aéreo. El símbolo de especialidad será a través de un engrane con una hélice de tres aspas.
-
-D. Para personal de electrónica de aviación. El símbolo de especialidad se materializa a través de un radar con un avión en su interior.
-
-E. para personal de armamento aéreo. El símbolo de especialidad será a través de una diana de cuatro círculos concéntricos.
-
-F. Para controlador de vuelo. Se materializa el símbolo de especialidad a través de una aeronave, un rayo y un micrófono.
-
-169. Para el personal de paracaidistas de cinta estática son empleadas por los Generales, Jefes, Oficiales, Cadetes y Tropas que hayan efectuado cinco saltos en el curso de paracaidistas nacional, tienen características semejantes a las de alas de Piloto Aviador, pero son en color plata, las alas van desplegadas en posición de descenso rápido y forman un arco con cuerda de 71 milímetros y flecha de 3.5 milímetros. En lugar del Escudo Nacional llevan la figura en silueta y de perfil de un paracaídas abierto de material plateado en relieve de un milímetro, formado por dos figuras geométricas, un semicírculo de 5.5 milímetros de cuerda y 3.5 milímetros de flecha que corresponde a la copa y que continúa hacia abajo con un triángulo isósceles cuya base es la citada cuerda y sus lados hacen vértice en el centro de la “punta de campaña”. Dentro de ese triángulo y partiendo de su base, lleva siete líneas repartidas simétricamente que convergen en el mismo vértice, formando entre las nueve líneas totales ocho triángulos interiores, estas líneas indicarán las cuerdas del paracaídas y los gajos de la copa. En la base de estos triángulos se destaca una pequeña onda hacia arriba entre línea y línea. El paracaídas mide 9 milímetros, 3.5 milímetros de flecha del semicírculo de la copa y 5.5 milímetros de altura del triángulo isósceles.
-
-De acuerdo con los saltos nacionales que se tengan las alas de pecho tienen las características siguientes:
-
-A. Con estrella: las emplean los Generales, Jefes, Oficiales y Tropa paracaidistas con más de 30 saltos estáticos, las alas llevan una estrella de cinco picos, inscrita en un círculo cuyo diámetro es de 13 milímetros, apoyada con dos de los picos en la parte superior del escudo central.
-
-B. Con estrella y laurel: las emplean los Generales, Jefes, Oficiales y Tropa paracaidistas con más de 60 saltos estáticos, llevan una estrella de cinco picos inscrita en un círculo cuyo diámetro es de 13 milímetros, circunscrita en una rama de laurel separada en su parte superior por 2.5 milímetros.
-
-170. De caída libre militar nacional son empleadas por los Generales, Jefes, Oficiales y Tropa que hayan efectuado satisfactoriamente los siguientes cursos:
-
-A. Curso Básico de caída libre militar, conserva los colores de las alas de paracaidista. Van desplegadas en posición de vuelo formando un Delta de 66 milímetros y flecha de 3.5 milímetros. En vez del Escudo Nacional llevan la figura en silueta y de frente de un paracaídas de Ala de alto rendimiento abierto, de material plateado en relieve de un milímetro, formado por dos figuras geométricas, una línea de curva de 5 milímetros de cuerda y 2.5 milímetros de flecha que corresponde a la copa del paracaídas de alto rendimiento y que continúa hacia abajo con un triángulo isósceles cuya base es la citada cuerda y sus lados hacen vértice en el centro de la “punta campaña”. Dentro de ese triángulo y partiendo de su base, lleva ocho líneas repartidas simétricamente que convergen en el mismo vértice, formando entre las ocho líneas totales siete triángulos interiores, estas líneas indicarán las cuerdas del paracaídas y las celdas de la copa. En la base de estos triángulos se destaca una pequeña onda hacia arriba entre línea y línea. El paracaídas mide 7.5 milímetros, 2.5 milímetros de flecha del semicírculo de la copa y 5 milímetros de altura del triángulo isósceles, todo esto enmarcado en un paracaídas de iguales características geométricas pero de distintas dimensiones.
-
-B. Maestro de salto de caída libre militar, tiene las mismas características que las alas de Instructor del curso básico de caída libre militar, con la única diferencia de que la estrella va circunscrita en una rama de laurel separada en su parte superior por 1 milímetro.
-
-171. Para el personal que egresa de la Escuela Militar de Transmisiones, constan de un escudo central de 1.5 milímetros de grueso con filo dorado de un milímetro con tres divisiones en color azul marino y sobre cada fracción, con letras verticales de arriba hacia abajo, las siglas “EMT”. En la parte superior del escudo lleva una torre de radiocomunicación con dos rayos y dos banderolas. Lleva dos alas semejantes a las de paloma mensajera desplegadas lateralmente en color oro, inscritas en un rectángulo de 80 milímetros de ancho por 22 milímetros de largo.
-
-172. Para Fuerzas Especiales. Dos alas de murciélago desplegadas en posición de descenso rápido, en color negro con filos dorados, llevan al centro un helicóptero y un cuchillo representativo de las unidades de Fuerzas Especiales, las alas forman un rectángulo de 50 por 31 milímetros.
-
-173. Las alas de pecho que se obtengan de cursos realizados en el extranjero, se portarán arriba de los gafetes en el costado derecho, las alas de cursos nacionales, se portarán de la misma manera en el costado izquierdo.
-
-SEXTA SECCIÓN
-
-CORDONES
-
-174. Los cordones usados en el Ejército y Fuerza Aérea son los siguientes:
-
-A. Cordones de uso diario:
-
-a. De especialidad.
-
-b. De comisión.
-
-c. De mando.
-
-d. De seguridad para pistola y silbato.
-
-B. Cordones de Gala:
-
-a. De especialidad.
-
-b. De comisión.
-
-175. Los cordones de especialidad y de comisión están formados por una trenza de 65 centímetros de longitud, la cual termina en su extremo superior en un cordón que se dobla para formar una gaza y continúa hasta sujetar una aguja metálica, por el extremo inferior también termina en un cordón que hace gaza y que se prolonga hasta el otro extremo, donde se dobla para continuar hasta sujetar a otra aguja igual que la anterior. Los extremos de los cordones, de los cuales penden las agujas, pasan a través del trenzado de una roseta y por un pasador de tres cordones formado con tres hilos de 1.0 milímetro de grueso cada uno, trenzados entre sí, colocados abajo de la roseta. Las agujas tienen una longitud de 85 milímetros y la roseta está formada por una trenza circular que va cosida en la parte superior de los cordones. En el caso de las mujeres las medidas esn (sic) proporcionales en 2/3 de las medidas establecidas con excepción de la roseta.
-
-Los cordones deben ser confeccionados como se indica a continuación:
-
-A. La trenza y la gaza en hilo de seda color azul para el personal del Ejército y para la Fuerza Aérea en color azul aéreo, para los uniformes de ceremonias, administrativo y en los ordenados por la superioridad.
-
-B. La trenza y la gaza en hilo de metal dorado para el Jefe y Subjefes del Estado Mayor Presidencial, Ayudantes del C. Presidente de la República y para los uniformes de gran gala y gala.
-
-C. Las agujas son de metal dorado para cordones de especialidad y de metal plateado para los cordones de comisión. Y
-
-D. Las rosetas se confeccionan en hilo de seda de color que corresponda a la especialidad o comisión que se desempeñe.
-
-Los cordones se usan suspendidos del hombro derecho, al que se sujetan por medio de un botón o broche bajo las hombreras, las agujas y las rosetas quedan hacia el frente, pasando los cordones por debajo del brazo derecho para asegurarse por la parte posterior del mismo botón.
-
-176. Los cordones se usan en el uniforme de ceremonias y los que ordene la superioridad por el personal de Generales, Jefes y Oficiales, Diplomados de Estado Mayor y Diplomado de Estado Mayor Aéreo, o que desempeñen una comisión, con excepción de los Generales que se encuentren ejerciendo el mando territorial o de grandes unidades.
-
-A. De especialidad: son empleados por personal Diplomado de Estado Mayor y de Estado Mayor Aéreo, con rosetas de color carmesí y morado obispo respectivamente, así como con agujas de metal dorado.
-
-B. De comisión: Son para uso diario de aquellos elementos que se encuentren desempeñando las comisiones siguientes:
-
-a. Ayudante del C. Presidente de la República, cuya roseta, agujas y cordón son de color dorado.
-
-b. Personal Diplomado de Estado Mayor y Diplomado de Estado Mayor Aéreo encuadrado en el Estado Mayor Presidencial, cuya roseta y agujas son de color dorado.
-
-c. Ayudantes del C. Secretario de la Defensa Nacional, cuya roseta es color blanco y las agujas plateadas.
-
-d. Ayudantes del C. Subsecretario de la Defensa Nacional, cuya roseta lleva un cordón azul prusia entrelazado con dos cordones del color de la trenza y las agujas es de color plateado.
-
-e. Ayudantes del C. Oficial Mayor de la Defensa Nacional, cuya roseta lleva un cordón verde esmeralda entrelazado con dos cordones del color de la trenza y las agujas es de color plateado.
-
-f. Ayudantes del C. Comandante de la Fuerza Aérea Mexicana cuya roseta es de color morado obispo entrelazado con dos cordones del color de la trenza y las agujas es de color plateado.
-
-177. El cordón de mando se usa en patrón pixelado con el uniforme de campaña, en color beige para plateles militares y blanco para el uniforme de gran gala de la Escuela Militar de Enfermeras. Va suspendido del botón de la hombrera del lado derecho y en su terminación tiene un silbato que se introduce en la bolsa superior de la camisola. Se coloca dando vuelta por debajo de la hombrera y está compuesto por una trenza de 65 centímetros de longitud. Es empleado por todo el personal que ejerza el mando.
-
-178. El cordón para policía militar lo empleara exclusivamente el personal perteneciente a la Policía Militar con los uniformes de campaña, se usa suspendido del hombro derecho dando vuelta a éste por debajo de la hombrera. Está confeccionado con piola de color blanco con una anilleta y una hebilla metálica, es trenzado, lleva como remate cinta de color verde esmeralda y en uno de sus extremos se coloca el silbato y en el otro la pistola.
-
-179. En los uniformes de gran gala y gala de institución educativa militar, gala de Generales, Jefes y Oficiales, los cordones de especialidad o comisión tienen las características, colores y uso siguientes.
-
-A. Están formados con una trenza de 75 centímetros y otra de 45 centímetros. Cada una de ellas está formada por tres cordones, terminando uno de los extremos de las trenzas en un cordón de 25 centímetros, llevando un nudo de cuatro vueltas en el primer tercio superior y en las puntas dos agujas doradas o plateadas, según corresponda, de 8.5 centímetros de longitud. El otro extremo de las trenzas, en donde van las agujas, están unidos con una pequeña gaza de hilo para suspenderlos del hombro derecho,
-
-B. Las trenzas de los cordones que usa el personal Diplomado de Estado Mayor y Diplomado de Estado Mayor Aéreo, se integran con dos cordones de canutillo de hilo dorado y uno de seda de color carmesí o morado obispo, respectivamente. El nudo de cuatro vueltas es de cordón de canutillo de hilo de seda del color correspondiente a la especialidad, y
-
-C. Los cordones se emplean suspendidos del hombro derecho y del primer botón.
-
-D. Las trenzas de los cordones que usa el personal de ayudantes del Presidente de la República y Generales, se integran con dos cordones de canutillo de hilo dorado y uno de seda de color dorado. El nudo de cuatro vueltas es de cordón de canutillo de hilo de seda de color dorado.
-
-E. Las trenzas de los cordones que usa el personal de Ayudantes del C. Secretario de la Defensa Nacional, Subsecretario, Oficial Mayor y Comandante de la Fuerza Aérea, se integran con dos cordones de canutillo de hilo dorado y uno de seda de color de la comisión que corresponde. El nudo de cuatro vueltas es de cordón de canutillo de hilo de seda del color correspondiente a la especialidad y las puntas metálicas son de color plateado.
-
-SEPTIMA SECCIÓN
-
-GAFETES
-
-180. Los gafetes que usarán el personal del Ejército y Fuerza Aérea serán los siguientes:
-
-A. De formación:
-
-a. Heroico Colegio Militar.
-
-b. Colegio del Aire:
-
-1. Escuela Militar de Aviación.
-
-2. Escuela Militar de Mantenimiento y Abastecimiento.
-
-i. Abastecedor de Material Aéreo.
-
-ii. Mantenimiento de Aviación.
-
-iii. Electrónica de Aviación.
-
-iv. Armamento Aéreo.
-
-3. Escuela Militar de Especialistas de la Fuerza Aérea:
-
-i. Aerologistas.
-
-ii. Controladores de Vuelo.
-
-4. Escuela Militar de Tropas Especialistas de la Fuerza Aérea.
-
-c. Escuela Militar de Ingenieros.
-
-d. Escuela Médico Militar.
-
-e. Escuela Militar de Odontología.
-
-f. Escuela Militar de Oficiales de Sanidad.
-
-g. Escuela Militar de Enfermeras.
-
-h. Escuela Militar de Transmisiones.
-
-i. Escuela Militar de Materiales de Guerra.
-
-j. Escuela Militar de Clases de Transmisiones.
-
-k. Escuela Militar de Sargentos.
-
-l. Escuela Militar de Clases de Sanidad.
-
-B. De cursos efectuados:
-
-a. Especialización de la Escuela Militar de Ingenieros.
-
-b. Escuela Militar de Graduados de Sanidad.
-
-c. Estado Mayor Conjunto.
-
-d. Superior de Armas y Servicios.
-
-e. Escuela Militar de Aplicación de las Armas y Servicios.
-
-f. Aplicación y Adiestramiento Táctico de la Fuerza Aérea.
-
-g. Escuela Militar de Servicios de Administración e Intendencia.
-
-h. Capacitación de Archivistas.
-
-i. Curso Técnico Especializado en Armamento.
-
-C. De comisión:
-
-a. Miembro del Estado Mayor de la Defensa Nacional.
-
-b. Miembro del Estado Mayor Aéreo.
-
-c. Miembro de la Inspección General del Ejército y Fuerza Aérea Mexicanos.
-
-d. Ayudante del C. Secretario de la Defensa Nacional.
-
-e. Ayudante del C. Subsecretario de la Defensa Nacional.
-
-f. Ayudante del C. Oficial Mayor de la Defensa Nacional. y
-
-g. Ayudante del C. Comandante de la Fuerza Aérea Mexicana.
-
-D. De condecoración:
-
-a. Valor Heroico.
-
-b. Mérito Militar:
-
-1. En Grado de Orden.
-
-2. De 1/a. Clase.
-
-3. De 2/a. Clase.
-
-4. De 3/a Clase.
-
-c. Mérito Técnico:
-
-1. De 1/a. Clase.
-
-2. De 2/a. Clase.
-
-d. Mérito Facultativo:
-
-1. De 1/a. Clase.
-
-2. De 2/a. Clase.
-
-e. Mérito Docente.
-
-f. Mérito en la Campaña contra el Narcotráfico:
-
-1. En Grado de Orden.
-
-2. De 1/a. Clase.
-
-3. De 2/a. Clase.
-
-4. De 3/a. Clase.
-
-g. Perseverancia:
-
-1. Por la Patria.
-
-2. Institucional.
-
-3. Extraordinaria.
-
-4. Especial.
-
-5. De 1/a. Clase.
-
-6. De 2/a. Clase.
-
-7. De 3/a. Clase.
-
-8. De 4/a. Clase.
-
-9. De 5/a. Clase.
-
-h. De Retiro.
-
-i. Servicios Distinguidos.
-
-j. Legión de Honor.
-
-k. Mérito Deportivo Militar:
-
-1. De 1/a. Clase.
-
-2. De 2/a. Clase.
-
-3. De 3/a. Clase. y
-
-4. De 4/a. Clase.
-
-E. Diversos:
-
-a. Fuerza de Tarea Cóndor.
-
-b. Fuerza de Tarea Marte y (sic)
-
-c. Fuerza de Tarea Arcoíris.
-
-d. Otros que autorice la Secretaría.
-
-181. Los gafetes están formados por una placa de metal de forma rectangular de 32 por 11 milímetros, bordeada por un filo dorado de 1 milímetro, con un fondo de esmalte de color distintivo y un recubrimiento de resina-poliéster transparente. En la parte central lleva el escudo, siglas o figura correspondiente a la escuela de formación, curso efectuado o comisión que desempeña quien los porta.
-
-182. Gafetes de formación. Son empleados por Generales, Jefes, Oficiales y Tropa, permiten identificar la escuela de formación de la que son egresados y son los siguientes:
-
-A. Heroico Colegio Militar.
-
-B. Colegio del Aire:
-
-a. Escuela Militar de Aviación.
-
-b. Abastecedores de Material Aéreo.
-
-c. Mantenimiento de Aviación.
-
-d. Electrónica de Aviación.
-
-e. Armamento Aéreo.
-
-f. Aerologistas.
-
-g. Controladores de Vuelo.
-
-C. Escuela Militar de Tropas Especialistas de la Fuerza Aérea.
-
-D. Escuela Militar de Ingenieros.
-
-E. Escuela Médico Militar.
-
-F. Escuela Militar de Odontología.
-
-G. Escuela Militar de Oficiales de Sanidad.
-
-H. Escuela Militar de Enfermeras.
-
-I. Escuela Militar de Transmisiones.
-
-J. Escuela Militar de Materiales de Guerra.
-
-K. Escuela Militar de Clases de Transmisiones.
-
-L. Escuela Militar de Sargentos.
-
-M. Escuela Militar de Clases de Sanidad.
-
-183. Gafetes de cursos efectuados. Identifican al personal de Generales, Jefes, Oficiales y Tropa que han realizado estudios superiores, especialización o capacitación, y son los siguientes:
-
-A. Especialización de la Escuela Militar de Ingenieros.
-
-B. Escuela Militar de Graduados de Sanidad.
-
-C. Estado Mayor Conjunto.
-
-D. Superior de las Armas y Servicios (CURSAS).
-
-E. Escuela Militar de Aplicación de las Armas y Servicios (EMAAYS).
-
-F. Aplicación y Adiestramiento Táctico de la Fuerza Aérea.
-
-G. Escuela Militar de Servicios de Administración e Intendencia.
-
-H. Capacitación de Archivistas.
-
-I. Curso Técnico Especializado en Armamento.
-
-184. Gafetes de comisión. Identifican la comisión que desempeña el personal de Generales, Jefes y Oficiales, llevan tres franjas horizontales: la superior de color verde de 2.5 milímetros, la inferior de color rojo de 2.5 milímetros y la central de color blanco de 3.5 milímetros, separadas entre sí por un filo dorado. Sobre la franja blanca van letras o números dorados de 2.5 milímetros de altura, correspondientes a las siglas y leyendas de la comisión, en caso de llevar el Escudo Nacional será de seis milímetros, con excepción del personal del Estado Mayor Presidencial que contara con su diseño propio.
-
-A. Miembro del Estado Mayor de la Defensa Nacional.
-
-B. Miembro del Estado Mayor Aéreo.
-
-C. Miembro de la Inspección General del Ejército y Fuerza Aérea Mexicanos.
-
-D. Ayudante del C. Secretario de la Defensa Nacional.
-
-E. Ayudante del C. Subsecretario de la Defensa Nacional.
-
-F. Ayudante del C. Oficial Mayor de la Defensa Nacional.
-
-G. Ayudante del C. Comandante de la Fuerza Aérea Mexicana.
-
-185. Gafetes de condecoración. Son los que distinguen al personal de Generales, Jefes, Oficiales y Tropa que le ha sido otorgada alguna condecoración según la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, y son los siguientes:
-
-A. Valor Heroico.
-
-B. Mérito Militar:
-
-a. En Grado de Orden.
-
-b. 1/a. Clase.
-
-c. 2/a. Clase.
-
-d. 3/a. Clase.
-
-C. Mérito Técnico:
-
-a. 1/a. Clase.
-
-b. 2/a. Clase.
-
-D. Mérito Facultativo:
-
-a. 1/a. Clase.
-
-b. 2/a. Clase.
-
-E. Mérito Docente.
-
-F. Mérito en la Campaña Contra el Narcotráfico:
-
-a. En Grado de Orden.
-
-b. 1/a. Clase.
-
-c. 2/a. Clase.
-
-d. 3/a. Clase.
-
-G. Perseverancia:
-
-a. Por la Patria.
-
-b. Institucional.
-
-c. Extraordinaria.
-
-d. Especial.
-
-e. 1/a. Clase.
-
-f. 2/a. Clase.
-
-g. 3/a. Clase.
-
-h. 4/a. Clase.
-
-i. 5/a. Clase.
-
-H. Retiro.
-
-I. Servicios Distinguidos.
-
-J. Legión de Honor:
-
-K. Mérito deportivo Militar:
-
-a. 1/a. Clase.
-
-b. 2/a. Clase.
-
-c. 3/a. Clase.
-
-d. 4/a. Clase.
-
-Cuando el personal militar obtenga en más de una ocasión la misma condecoración y en el Reglamento de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, no se encuentre descrita la forma en que habrá de portarse, al gafete distintivo se le agregará una estrella dorada de cinco puntas proporcional al tamaño del gafete, sobrepuesta en el centro, cuando la reciba por segunda ocasión; dos estrellas colocadas simétricamente sobre el gafete original en la tercera ocasión; y tres estrellas colocadas simétricamente en caso de obtenerla por cuarta o más ocasiones.
-
-186. Gafetes que distinguen al personal de Generales, Jefes, Oficiales y Tropa que han desempeñado comisiones consideradas meritorias siendo las siguientes:
-
-A. Fuerza de Tarea Cóndor.
-
-B. Fuerza de Tarea Marte.
-
-C. Fuerza de Tarea Arcoíris.
-
-187. Los gafetes de formación, cursos efectuados o diversos que a la fecha hayan quedado en receso, podrán seguir usándose por quien lo haya acreditado, de conformidad con el presente manual.
-
-188. Los gafetes de formación, cursos efectuados y de comisión se utilizan en el uniforme administrativo y de ceremonias con excepción del uniforme de campaña que sólo empleará el parche del gafete de formación, la colocación será como se indica a continuación:
-
-A. En los uniformes que tienen bolsas superiores se colocan arriba y en la parte central de la cartera de la bolsa derecha.
-
-B. En los uniformes que carecen de bolsas superiores, se colocan alineados con el primer botón en uniformes de ceremonias para mujer o con el segundo botón en uniformes de cuello cerrado para hombre, en ambos casos el gafete se centrará entre la línea de botones y la línea de costura de la manga.
-
-C. Primero se colocan los gafetes de formación, posteriormente los de cursos y comisión, estos gafetes se colocan de derecha a izquierda en orden cronológico en que se realizaron, como máximo se colocarán tres gafetes por línea.
-
-D. Cuando se tienen más de tres gafetes se colocan en el orden indicado en el párrafo anterior, agrupándolos cronológicamente de arriba hacia abajo, debiendo observar que en caso de tener cuatro, siete y diez gafetes, al centro y en la parte superior deberá colocarse el gafete de formación.
-
-189. Los gafetes de condecoración se utilizan en los uniformes administrativo, de ceremonias, de gira y verde olivo de presentación del Cuerpo de Guardias Presidenciales, se colocan como se indica a continuación:
-
-A. En los uniformes que tienen bolsas superiores se colocan arriba y en la parte central de la cartera de la bolsa izquierda.
-
-B. Primero se colocan los gafetes de perseverancia, posteriormente los de mérito, servicios distinguidos, legión de honor y finalmente el de retiro, estos gafetes se colocan de derecha a izquierda en orden cronológico en que se obtuvieron, como máximo se colocan tres gafetes por línea.
-
-C. Cuando se tienen más de tres gafetes se colocan en el orden indicado en el párrafo anterior agrupándolos en fila de tres y cronológicamente de abajo hacia arriba, cuando el uniforme tiene bolsas superiores se agrupan arriba de la cartera derecha, cuando el uniforme carece de bolsas superiores se agrupan por debajo del primer o segundo botón, según corresponda.
-
-D. Los gafetes de comisión del Cuerpo de Guardias Presidenciales, se utilizan en los uniformes administrativo, de ceremonias, de gira y verde olivo de presentación de dicho cuerpo especial, se colocan en la parte superior del gafete de formación, con excepción del gafete del Estado Mayor Presidencial el cual se coloca de manera invertida.
-
-OCTAVA SECCIÓN
-
-BANDERAS, GUIONES Y GALLARDETES.
-
-190. Las banderas, guiones, gallardetes y sus accesorios son:
-
-A. Banderas
-
-a. De guerra.
-
-1. Banderas de guerra.
-
-2. Estandartes.
-
-b. De edificio.
-
-c. Monumental.
-
-d. Para oficina.
-
-e. Para vehículo terrestre.
-
-f. Para féretro.
-
-g. De escritorio.
-
-h. Monumental para desfile.
-
-i. De gaza para descubierta de desfile.
-
-B. Gallardete.
-
-C. Guión.
-
-D. Portabandera, portaestandarte y portaguión.
-
-191. Bandera de guerra. Se fabrica en tela y es empleada para el abanderamiento de organismos del Ejército, Fuerza Aérea y establecimientos del sistema educativo militar, excepto a los organismos que les corresponda estandartes. Está constituida por las siguientes partes:
-
-A. Pabellón. Será un cuadro de 90 centímetros por lado, con tres franjas verticales de medidas idénticas con los colores en el siguiente orden a partir del asta: verde, blanco y rojo. En el centro de la franja blanca lleva el Escudo Nacional en un diámetro de 28 centímetros, constituido en términos del artículo 2 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales.
-
-Arriba del escudo y en forma de un arco, lleva bordada en hilo de color oro la inscripción “ESTADOS UNIDOS MEXICANOS”. En la parte inferior, irá bordada con hilo dorado la designación de la dependencia, unidad, instalación o institución educativa militar.
-
-B. Corbata. Se compone de dos cintas y un moño, con los colores verde, blanco y rojo, es de 12 centímetros de ancho, con una punta de 45 centímetros de largo y otra de 35 centímetros.
-
-C. Asta. Es de madera en color negro y tiene 1.85 metros de largo por 3.2 centímetros de diámetro. Llevará moharra de bronce dorado.
-
-192. Estandarte. Es de uso de las Unidades de Caballería, Artillería, Morteros, Motorizadas, Mecanizadas, Blindadas y de Transportes, el pabellón es cuadrado de 63 centímetros por lado, el Escudo Nacional es de 19 centímetros de diámetro, la inscripción superior “ESTADOS UNIDOS MEXICANOS”, tiene la forma de un arco, en la parte inferior, irá bordada con hilo dorado la designación de unidad y la corbata es de 12 centímetros de ancho, con una punta de 45 centímetros de largo y otra de 35 centímetros. El asta tiene 2.1 metros de longitud. El regatón es un casquillo cónico de 7 centímetros de largo con una esfera de 3 centímetros de diámetro en bronce dorado y una espiga de hierro de 7 centímetros de largo y 10 milímetros de espesor.
-
-193. Banderas de edificio y monumentales. Serán fabricadas en tela, constituidas por un rectángulo de tamaño proporcional al asta, dividido en tres franjas verticales de medidas idénticas, con los colores en el siguiente orden a partir del asta: verde, blanco y rojo. En la franja blanca y al centro tendrá el Escudo Nacional pintado con tinta textil, con un diámetro de tres cuartas partes de ancho de dicha franja. El largo de la bandera será igual a la mitad del asta bandera donde se izará y el ancho corresponderá a una proporción de 7 a 4 respecto al largo. Se considerará bandera monumental cuando la altura del asta sea de 50 metros o superior.
-
-194. Bandera para oficina. Esta bandera tendrá un largo de 1.58 metros y un ancho de 90 centímetros, el escudo tiene un diámetro de 39.5 centímetros y no lleva leyenda. El Escudo Nacional puede ser estampado o bordado dorado o de colores.
-
-195. Bandera para vehículo terrestre. Las dimensiones de esta bandera son de 53 centímetros de largo por 36 centímetros de ancho y el escudo tiene un diámetro de 15 centímetros y lleva cinco estrellas blancas para el mando supremo o cuatro para el alto mando sobre el color verde. El Escudo Nacional es bordado con hilo de colores, lleva un asta de tubo metálico de 88 centímetros de altura y 1.7 centímetros de diámetro, con una moharra de 6 centímetros de longitud, va montada sobre una estructura metálica.
-
-196. Bandera para féretro. Bandera con un largo de 1.58 metros y un ancho de 90 centímetros, el escudo es estampado con diámetro de 26 centímetros el cual no lleva leyenda.
-
-197. Bandera de escritorio. Es fabricada en tela, con las características del país que corresponda, pudiendo ser estampada o bordada y sus dimensiones son de 30 centímetros de largo por 17 centímetros de ancho; se complementa con una corbata la cual tiene un listón y moño. Se coloca sobre un asta.
-
-198. Bandera monumental para desfile y de gaza para descubierta de desfiles. Se fabricará de acuerdo a las dimensiones necesarias en las columnas de desfile en que participe.
-
-199. Guión. Se fabrica en tela del color distintivo del arma, servicio o institución educativa militar que corresponda, está formado por un cuadrado de 63 centímetros por lado, con fleco dorado de 10 centímetros de largo en tres de sus lados.
-
-El guión llevará una leyenda bordada que iniciará a 12 centímetros de la parte superior y 2 centímetros en los tres lados restantes, se utilizará máximo un renglón en la parte superior y dos renglones en la parte inferior.
-
-El escudo o emblema es bordado en el centro en un área máxima de un rectángulo de 40 centímetros de largo por 30 centímetros de ancho, los bordados son en color dorado o en colores distintivos de la unidad, dependencia, instalación o institución educativa militar.
-
-Las dependencias que no cuenten con escudo distintivo, el fondo será en color negro y llevará en el centro la silueta de la República Mexicana. El guión va montado sobre una estructura metálica.
-
-El asta es en color negro y tiene 1.85 metros de largo por 3.2 centímetros de diámetro. Llevará moharra de bronce dorado.
-
-200. Gallardete. Es del color distintivo de la unidad, dependencia, instalación o institución educativa militar al que corresponda, está formado por un triángulo isósceles horizontal de 50 centímetros de alto por 1.1 metro de largo. Lleva fleco dorado de 5 centímetros de largo en dos de sus lados y tiene el escudo, emblema, iniciales o leyenda en el centro, en dorado o en colores distintivos de la unidad, dependencia o instalación militar.
-
-El asta es en color negro y tiene 1.85 metros de largo por 3.2 centímetros de diámetro. Llevará moharra de bronce dorado.
-
-201. Portabandera, Portaestandarte y Portaguión. Es empleado por las unidades, dependencias e instalaciones del Ejército y Fuerza Aérea. Es en color negro y está constituido por dos tiras unidas en la parte superior, de 9 centímetros de ancho y 80 centímetros de largo.
-
-En sus extremos lleva una cuja, conformada por un cilindro metálico de 13.5 centímetros de altura por 5 centímetros de diámetro. A 27 centímetros arriba de la cuja irá colocado el número, iniciales, escudo o emblema de la dependencia, unidad, instalación o institución educativa militar según corresponda, en metal dorado de 10 centímetros de altura.
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS [N. DE E. REPUBLICADO], G.G. 1 DE ENERO DE 2009)
 
 #### SECCION SEPTIMA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE COMUNICACIONES
 
@@ -5541,19 +2629,13 @@ En sus extremos lleva una cuja, conformada por un cilindro metálico de 13.5 cen
 
 Las cantidades en moneda nacional que se establezcan en las cuotas y tarifas de los derechos contemplados en este Capítulo, se actualizarán el primer día del mes de enero de cada año.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+Para tal efecto se aplicará el factor de actualización anual que se establece en la Ley de Ingresos del Estado de México para el ejercicio fiscal de que se trate sobre aquellas cuotas y tarifas de los derechos que no hayan sido modificadas desde la última actualización general indicada en el párrafo anterior. El factor será publicado en la "Gaceta del Gobierno" del Estado de México.
 
-Para tal efecto se aplicará el factor de actualización anual que se establece en la Ley de Ingresos del Estado de México para el ejercicio fiscal de que se trate sobre aquellas cuotas y tarifas de los derechos que no hayan sido modificadas dentro de los 12 meses anteriores, ese factor será publicado en la "Gaceta del Gobierno" del Estado de México.
+Las cifras que presenten diferencias por redondeo hasta por dos pesos, derivado de la aplicación del factor de actualización anual a los valores históricos no redondeados que tenga la Secretaría de Finanzas en sus registros, se incorporarán automáticamente en los montos de los derechos contemplados en este Capítulo.
 
-> <small>(ADICIONADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
-
-Las cantidades de los derechos que se señalan como límites mínimos o máximos se actualizarán con la misma periodicidad y factor de actualización de los derechos a que hace referencia el párrafo anterior.
-
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+Las cantidades de los derechos que se señalan como límites mínimos o máximos se actualizarán con la misma periodicidad y factor de actualización referidos.
 
 Cuando el pago de los derechos se haya efectuado por el contribuyente y no sea prestado por alguna eventualidad sustantiva, incapacidad técnica o material, se procederá en su caso, a la devolución de la contribución enterada, no siendo obligatoria la prestación del servicio para la autoridad.
-
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 Una vez realizado el pago de los derechos el contribuyente o retenedor deberá de efectuar su trámite ante la autoridad prestadora del servicio a más tardar en un plazo de treinta días.
 
@@ -5563,49 +2645,31 @@ Una vez realizado el pago de los derechos el contribuyente o retenedor deberá d
 
 Por la expedición de los siguientes documentos se pagarán:
 
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
+
 TARIFA
 
 CONCEPTO
 
 I. Por la expedición de copias certificadas
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). Por la primera hoja $46.
 
-A). Por la primera hoja. $43.
+B). Por cada hoja subsecuente $22.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+II. Copias simples:
 
-B). Por cada hoja subsecuente. $21.
+A). Por la primera hoja $12.
 
-II. Copias simples $17.
+B). Por cada hoja subsecuente $1.
 
-> <small>(REFORMADO, G.G. 1 DE JULIO DE 2007)</small>
+III. Expedición de copias certificadas de testimonios de
 
-A). Por la primera hoja. $11.
+viviendas de interés social, social progresiva y popular $12.
 
-> <small>(REFORMADO, G.G. 1 DE JULIO DE 2007)</small>
+IV. Por la expedición de información en medios magnéticos. $12.
 
-B). Por cada hoja subsecuente. $1.
-
-> <small>(REFORMADA, G.G. 1 DE JULIO DE 2007)</small>
-
-III. Expedición de copias certificadas de testimonios
-
-de viviendas de interés social, social progresiva y
-
-popular. $11.
-
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADO], G.G. 1 DE JULIO DE 2007)
-
-IV. Por la expedición de información en medios
-
-magnéticos. $11.
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-V. Por la expedición de información en disco
-
-compacto. $17.
+V. Por la expedición de información en disco compacto. $18.
 
 > <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -5617,33 +2681,45 @@ Artículo 70 A.- Por los servicios prestados por las dependencias y entidades pu
 
 Para el cobro de estos derechos, los Organismos Autónomos harán las retenciones de los mismos de acuerdo a sus propias disposiciones.
 
-> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 70 Ter.
 
-Siempre que así lo establezca expresamente la ley de su creación u otras disposiciones aplicables, los montos de los derechos por los servicios que presten los organismos públicos descentralizados podrán actualizarse cuando el incremento porcentual acumulado del índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10% (diez por ciento) utilizando el factor de actualización que a continuación se describe. Dicha actualización entrará en vigor a partir del mes de enero o julio siguiente a aquél en el que se haya dado el incremento respectivo y se mantendrá vigente hasta la fecha de entrada en vigor de una nueva actualización.
+Siempre que así lo establezca expresamente la ley de su creación u otras disposiciones aplicables, los montos de los derechos por los servicios que presten los organismos públicos descentralizados podrán actualizarse cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor, desde el mes en que se actualizaron por última vez conforme al presente artículo, exceda del 10% (diez por ciento) utilizando el factor de actualización que a continuación se describe. Dicha actualización entrará en vigor a partir del mes siguiente a aquél en el que se haya dado el incremento respectivo y se mantendrá vigente hasta la fecha de entrada en vigor de una nueva actualización.
 
-Para efectos de lo previsto en el párrafo siguiente se entenderá por "periodo" el plazo comprendido entre el mes en que se calculó la última actualización o la fecha en que entró en vigor un derecho por servicios prestados por un organismo público descentralizado y el mes en el que a partir de dicha fecha el incremento porcentual acumulado del índice Nacional de Precios al Consumidor exceda del 10% (diez por ciento).
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Para efectos de lo previsto en el párrafo siguiente se entenderá por "periodo" el plazo comprendido entre el mes en que se calculó la última actualización conforme al presente artículo y el mes en el que a partir de dicha fecha el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor exceda del 10% (diez por ciento); en el entendido que el primer "periodo" empezará a contar a partir del mes de enero de 2009.
+
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
 
 El factor de actualización a que se refiere el primer párrafo de este artículo se obtendrá dividiendo el índice Nacional de Precios al Consumidor del mes anterior al último mes del periodo respectivo, entre el índice Nacional de Precios al Consumidor correspondiente al mes anterior al primer mes de dicho periodo. La Secretaria de Finanzas publicará en la Gaceta del Gobierno el factor de actualización en el entendido de que la falta de publicación no afectará su actualización.
 
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
 Con relación a aquellos derechos que se calculen con base en límites mínimos y máximos, los montos mínimos y máximos se actualizarán de conformidad con lo establecido en el primer párrafo de este artículo.
 
-La actualización que en su caso se realice conforme a lo previsto en el presente artículo se llevará a cabo únicamente por el monto o en la proporción que excede de la actualización de los montos de los derechos correspondientes que resulte conforme a lo previsto en el artículo 70 de este Código.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-En los términos de la normatividad aplicable, la Secretaría de Finanzas deberá presentar ante la Legislatura la iniciativa de modificaciones de los montos de los derechos que le presenten los organismos públicos descentralizados a efecto de que se incluyan en el Código Financiero del Estado de México y Municipios conforme a la normatividad aplicable.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+La actualización que en su caso se realice conforme a lo previsto en el presente articulo se llevará a cabo únicamente por el monto o en la proporción que excede de la actualización realizada en el mismo periodo de los montos de los derechos correspondientes que resulte conforme a lo previsto en el artículo 70 de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO ULTIMO PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 71.
 
-Por los servicios prestados por la Dirección Técnica y del Periódico Oficial "Gaceta del Gobierno" se pagarán derechos conforme a la siguiente tarifa:
+Por los servicios prestados por la Dirección Técnica y del Periódico Oficial "Gaceta del Gobierno" se pagarán derechos conforme a la siguiente:
 
 TARIFA
 
-> <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
-
 CONCEPTO
-
-> <small>(REFORMADA PRIMER PARRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 I. Legalización de firmas autógrafas de servidores públicos estatales y municipales:
 
@@ -5651,63 +2727,39 @@ A). Por cada legalización de firmas de servidores públicos del Poder Ejecutivo
 
 1. De Educación:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+a). Programas de estudio. $62.
 
-a). Programas de estudio. $59
+b). Boletas de Calificaciones. $62.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+c). Certificados de estudio. $62.
 
-b). Boletas de Calificaciones. $59
+d). Títulos profesionales. $185.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+2. Del Registro Civil. $62.
 
-c). Certificados de estudio. $59
+3. De otros servidores públicos del Poder Ejecutivo. $62.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+B). Por cada legalización de firmas de servidores públicos de
 
-d). Títulos profesionales. $175
+Poder Judicial. $62.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+C). Por cada legalización de firmas de servidores públicos
 
-2. Del Registro Civil. $59
+municipales. $62.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+II. Apostillamiento de documentos públicos para presentarse
 
-3. De otros servidores públicos del Poder
+en países firmantes de la convención de La Haya. $185.
 
-Ejecutivo. $59
+III. Por certificación de cada ejemplar agotado del Periódico
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-B). Por cada legalización de firmas de servidores
-
-públicos del Poder Judicial. $59
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-C). Por cada legalización de firmas de
-
-servidores públicos municipales. $175
-
-(ACTUALIZADA EN SU CANTIDAD, G.G. 1 DE JULIO DE 2007)
-
-II. Apostillamiento de documentos públicos para presentarse en países firmantes de la convención de La Haya. $170.
-
-III. (DEROGADA, G.G. 31 DE DICIEMBRE DE 2001)
-
-> <small>(REFORMADA PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+Oficial "Gaceta del Gobierno". $30.
 
 IV. Por autorización de folios de los volúmenes de protocolo ordinario y libros de cotejos.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). Folios de Protocolo ordinario, por volumen. $185.
 
-A). Folios de Protocolo ordinario,
-
-por volumen. $175
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-B). Folios de libros de cotejos, por volumen. $292
+B). Folios de libros de cotejos, por volumen. $309.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -5717,11 +2769,11 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA AGENCIA DE SEGURIDAD ESTATAL
 
 ###### Artículo 72.
 
-(DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
+(DEROGADO, G.G. 30 DE DICIEMBRE DE 2003) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
 ###### Artículo 73.
 
-(DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
+(DEROGADO, G.G. 30 DE DICIEMBRE DE 2003) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
 #### SECCION OCTAVA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE TRANSPORTE
 
@@ -5729,11 +2781,11 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA AGENCIA DE SEGURIDAD ESTATAL
 
 Artículo 97 B.- Por el otorgamiento de concesiones, permisos y autorizaciones, por su cesión (sic) de derechos o cambio de titular, por su prórroga o cambio de temporalidad, así como por los servicios conexos, de control vehicular y otros servicios, que sean de su competencia, se pagarán los siguientes derechos:
 
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
+
 TARIFA
 
 CONCEPTO
-
-> <small>(ADICIONADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 I. Otorgamiento de concesiones para explotar el servicio público de transporte de pasajeros, en sus modalidades de:
 
@@ -5741,55 +2793,35 @@ A). Servicio regular de pasaje.
 
 1. Colectivo:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+a). Autobuses de la. Clase. $20,234.
 
-a). Autobuses de 1ª. Clase. $19,125
+b). Autobuses de 2a. Clase. $16,590.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+c). Minibuses. $16,590.
 
-b). Autobuses de 2ª. Clase. $15,681
+d). Vagonetas. $16,590.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-c). Minibuses. $15,681
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-d). Vagonetas. $15,681
-
-2. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
+2. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
 3. Mixto:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-a). Camioneta de carga y pasaje. $12,750
+a). Camioneta de carga y pasaje. $13,490.
 
 B). Servicio discrecional de pasaje:
 
-1. Individual en automóvil de alquiler de sitio, de alquiler de radio servicio y de alquiler sin base, tipo intraurbano o suburbano:
+I. Individual en automóvil de alquiler de sitio, de alquiler de radio servicio y de alquiler sin base, tipo intraurbano o suburbano:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+a). Vehículo de cuatro puertas sin incluir la del portaequipaje,
 
-a). Vehículo de cuatro puertas sin incluir
+con un máximo de cinco asientos y un mínimo de cuatro,
 
-la del portaequipaje, con un máximo de
-
-cinco asientos y un mínimo de cuatro,
-
-incluido el del operador. $14,758
+incluido el del operador. $15,614.
 
 C). Por estudios técnicos y económicos, a solicitud de los particulares, para el otorgamiento de concesiones, ampliación de ruta y territorio de operación, referidos a:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Concesiones para servicio de transporte de pasajeros. $1,348.
 
-1. Concesiones para servicio de transporte
-
-de pasajeros. $1,274
-
-2. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
-
-> <small>(ADICIONADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
+2. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
 II. Por la cesión de derechos o cambio de titular de la concesión, que se refieran a las modalidades:
 
@@ -5797,95 +2829,61 @@ A). Servicio regular de pasaje:
 
 1. Colectivo:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+a). Autobuses de 1a. Clase. $16,188.
 
-a). Autobuses de 1ª. Clase. $15,301
+b). Autobuses de 2a. Clase. $13,490.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+c). Minibuses. $13,490.
 
-b). Autobuses de 2ª. Clase. $12,500
+d). Vagonetas. $13,271.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-c). Minibuses . $12,750
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-d). Vagonetas. $12,544
-
-2. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
+2. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
 3. Mixto:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-a). Camioneta mixta de carga y pasaje. $10,200
+a). Camioneta mixta de carga y pasaje. $10,792.
 
 B). Servicio discrecional de pasaje:
 
 1. Individual en automóvil de alquiler de sitio, de alquiler de radio servicio y de alquiler sin base, tipo intraurbano o suburbano:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+a). Vehículo de cuatro puertas sin incluir la del portaequipaje,
 
-a). Vehículo de cuatro puertas sin incluir
+con un máximo de 5 asientos y un mínimo de cuatro,
 
-la del portaequipaje, con un máximo de 5
-
-asientos y un mínimo de cuatro, incluido
-
-el del operador. $12,750
-
-> <small>(ADICIONADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
+incluido el del operador. $13,490.
 
 III. Por la prórroga o cambio de temporalidad de vigencia de la concesión, que se refieran a las modalidades de:
 
-A). Servicio regular de pasaje:
+A). Servicio regular de pasaje
 
-1. Colectivo:
+I. Colectivo:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+a). Autobuses de 1a. Clase. $10,116.
 
-a). Autobuses de 1a. Clase. $9,562
+b). Autobuses de 2a. Clase. $8,431.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+c). Minibuses. $8,431.
 
-b). Autobuses de 2a. Clase. $7,969
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-c). Minibuses. $7,969
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-d). Vagonetas. $7,969
-
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], G.G. 1 DE JULIO DE 2007)
+d). Vagonetas. $8,431.
 
 2. Alta capacidad o masivo. $0.
 
 3. Mixto:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+a). Camioneta mixta de carga y pasaje. $6,744.
 
-a). Camioneta mixta de carga y pasaje. $6,375
-
-B). Servicio discrecional de pasaje:
+B). Servicio discrecional de pasaje
 
 1. Individual en automóvil de alquiler de sitio, de alquiler de radio servicio y de alquiler sin base, tipo intraurbano o suburbano:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+a). Vehículo de cuatro puertas sin incluir la del portaequipaje,
 
-a). Vehículo de cuatro puertas sin incluir la
+con un máximo de cinco asientos y un mínimo de cuatro,
 
-del portaequipaje, con un máximo de cinco
-
-asientos y un mínimo de cuatro, incluido el
-
-del operador. $7,969
+incluido el del operador. $8,431.
 
 Las tarifas establecidas en esta fracción, amparan la prórroga o cambio de la temporalidad de vigencia de las concesiones por un período hasta de diez años, pudiendo los contribuyentes solicitar la prestación de estos servicios por anualidad, para lo cual se pagarán los derechos correspondientes en forma proporcional al período solicitado, cuando así lo acuerde la autoridad administrativa.
-
-> <small>(ADICIONADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 IV. Por el otorgamiento de permisos de:
 
@@ -5893,371 +2891,217 @@ A). Servicio discrecional de pasaje en la modalidad especializado:
 
 1. Vehículos de transporte de pasaje especializado escolar y personal de empresa:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+a). Autobús. $1,886.
 
-a). Autobús. $1,783
+b). Minibús. $1,886.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-b). Minibús. $1,783
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-c). Vagonetas. $1,529
+c). Vagonetas. $1,618.
 
 2. El servicio de transporte de pasaje especializado de turismo e individual en vehículo de propulsión no mecánica:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+a). Autobús. $4,164.
 
-a). Autobús. $3,935
+b). Minibús. $4,164.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+c). Vagonetas. $2,698.
 
-b). Minibús. $3,935
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-c). Vagonetas. $2,550
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-d) Bicitaxis. $516
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 26 DE DICIEMBRE DE 2007)</small>
+d). Bicitaxis. $546.
 
 B). Transporte de carga en general:
 
-1. Capacidad hasta de 3,000 kgs. $1,783
+1. Capacidad hasta de 3,000 kgs. $1,887.
 
-2. Capacidad de carga de más de 3,000 kgs. $2,550
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+2. Capacidad de carga de más de 3,000 kgs. $2,698.
 
 C). Servicio especializado de carga:
 
-1. Capacidad hasta de 3,000 kgs. $1,906
+1. Capacidad hasta de 3,000 kgs. $2,018.
 
-2. Capacidad de carga de más de 3,000 kgs. $2,550
+2. Capacidad de carga de más de 3,000 kgs. $2,698.
 
 D). El servicio discrecional de arrastre o de salvamento:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Grúas de arrastre u otros vehículos especializados para
 
-1. Grúas de arrastre u otros vehículos
+trasladar vehículos impedidos mecánica o legalmente
 
-especializados para trasladar vehículos
+para su auto-desplazamiento. $8,093.
 
-impedidos mecánica o legalmente para
+2. Grúas de salvamento u otros vehículos especializados
 
-su auto-desplazamiento. $7,650
+para el rescate de personas, objetos o animales que se
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+encuentren en situaciones de peligro o que atenten contra
 
-2. Grúas de salvamento u otros vehículos
+la seguridad de terceros en sus personas o bienes. $8,093.
 
-especializados para el rescate de
+3. Servicio de depósito de vehículos para guarda y custodia
 
-personas, objetos o animales que se
+de vehículos accidentados o a disposición de autoridades
 
-encuentren en situaciones de peligro o
+diversas por cada corralón. $5,755.
 
-que atenten contra la seguridad de
+4. Realización de estudios técnicos relativos a los numerales
 
-terceros en sus personas o bienes. $7,650
+anteriores a que se refiere este inciso. $1,348.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+5. Por la realización de estudios técnicos y económicos a
 
-3. Servicio de depósito de vehículos
+solicitud de los particulares, para el otorgamiento de permisos
 
-para guarda y custodia de vehículos
+en la modalidad de vehículos de propulsión no mecánica. $107.
 
-accidentados o a disposición de
+E). Por el Otorgamiento de permiso o autorización de bases,
 
-autoridades diversas por cada corralón. $5,439
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-4. Realización de estudios técnicos
-
-relativos a los numerales anteriores
-
-a que se refiere este inciso. $1,274
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-5. Por la realización de estudios
-
-técnicos y económicos a solicitud
-
-de los particulares, para el
-
-otorgamiento de permisos en la
-
-modalidad de vehículos de
-
-propulsión no mecánica. $101
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-E). Por el Otorgamiento de permiso o
-
-autorización de bases, sitios o
-
-lanzaderas, por cada uno de ellos. $1,124
-
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+sitios o lanzaderas, por cada uno de ellos. $1,189.
 
 F). Los servicios conexos al servicio público de transporte:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Por el otorgamiento de permiso para el establecimiento de
 
-1. Por el otorgamiento de permiso para
+terminales de pasaje. $5,452.
 
-el establecimiento de terminales de pasaje. $5,153
+2. Por el otorgamiento de permiso para el establecimiento de
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+bahías de ascenso y descenso. $1,636.
 
-2. Por el otorgamiento de permiso para
+3. Por el otorgamiento de permiso para el establecimiento de
 
-el establecimiento de bahías de ascenso
+cobertizos. $2,727.
 
-y descenso. $1,547
+4. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+5. Por la realización de estudios técnicos para el establecimiento
 
-3. Por el otorgamiento de permiso para
+de terminales de pasaje. $5,452.
 
-el establecimiento de cobertizos. $2,577
+6. Por la realización de estudios técnicos para el establecimiento
 
-4. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
+de bahías de ascenso y descenso. $1,636.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+7. Por la realización de estudios técnicos para el establecimiento
 
-5. Por la realización de estudios técnicos
+de cobertizos. $2,727.
 
-para el establecimiento de terminales
+8. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
-de pasaje. $5,153
+9. Por la realización de estudios técnicos y económicos a
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+solicitud de los Particulares, para el otorgamiento de
 
-6. Por la realización de estudios técnicos
+concesiones y permisos en todas sus Modalidades, por
 
-para el establecimiento de bahías de
+unidad vehicular. $1,348.
 
-ascenso y descenso. $1,547
+10. Por la realización de estudios técnicos y económicos a
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+solicitud de los Particulares, para la autorización de ruta o
 
-7. Por la realización de estudios técnicos
+derrotero, enlace, enrolamiento, sitios, bases o lanzaderas. $3,372.
 
-para el establecimiento de cobertizos. $2,577
+11. Por la realización de estudios técnicos y económicos a
 
-8. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
+solicitud de los Particulares, para la modificación de ruta o
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+derrotero, enlace, enrolamiento, Sitios, bases o lanzaderas. $3,372.
 
-9. Por la realización de estudios técnicos y
-
-económicos a solicitud de los particulares,
-
-para el otorgamiento de concesiones y
-
-permisos en todas sus modalidades, por
-
-unidad vehicular. $1,274
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-10. Por la realización de estudios técnicos y
-
-económicos a solicitud de los particulares,
-
-para la autorización de ruta o derrotero, enlace,
-
-enrolamiento, sitios, bases o lanzaderas. $3,187
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-11. Por la realización de estudios técnicos y
-
-económicos a solicitud de los particulares,
-
-para la modificación de ruta o derrotero,
-
-enlace, enrolamiento, sitios, bases o
-
-lanzaderas. $3,187
-
-12. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
+12. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
 G). La instalación y explotación de anuncios publicitarios en el transporte:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Por la obtención del permiso para la instalación de anuncios $2,725.
 
-1. Por la obtención del permiso para la
-
-instalación de anuncios publicitarios. $2,576
+publicitarios.
 
 2. Por la instalación y explotación de anuncios publicitarios por el período de ciento veinte días por unidad vehicular:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+a). Autobús. $546.
 
-a). Autobús. $516
+b). Minibús. $382.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+e). Pick up, panel, van y vagoneta. $327.
 
-b). Minibús. $361
+d). Vehículo de cuatro puertas sin incluir la del portaequipaje,
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+con un máximo de cinco asientos y un mínimo de cuatro,
 
-c). Vehículo de cuatro puertas sin incluir la
-
-del portaequipaje, con un máximo de cinco
-
-asientos y un mínimo de cuatro, incluido el
-
-del operador. $309
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-d). Vagonetas. $207
+incluido el del operador. $219.
 
 H). Por estudios técnicos y económicos a solicitud de los particulares por el otorgamiento de permisos referidos a:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Permisos para vehículos de transporte de pasaje
 
-1. Permisos para vehículos de transporte
+especializado escolar, personal de empresa y turismo
 
-de pasaje especializado escolar, personal
-
-de empresa y turismo y el servicio de
-
-arrastre o salvamento. $637
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+y el servicio de arrastre o salvamento. $674.
 
 V. Por la cesión de derechos o cambio de titular del permiso de carga en general y especializado de carga:
-
-> <small>(ADICIONADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 A). El servicio discrecional de pasaje:
 
 1. Transporte de pasaje especializado escolar y personal de empresa:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+a). Autobús. $1,618.
 
-a). Autobús. $1,529
+b). Minibús. $1,618.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-b). Minibús. $1,529
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-c). Vagoneta. $1,224
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+c). Vagoneta. $1,295.
 
 2. El servicio de transporte de pasaje especializado o individual.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+a). Autobús. $3,238.
 
-a). Autobús. $3,060
+b). Minibús. $3,238.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+c). Vagonetas. $2,158.
 
-b). Minibús. $3,060
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-c). Vagonetas. $2,039
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-d). Vehículos de propulsión no mecánica,
-
-bicitaxis. $258
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 26 DE DICIEMBRE DE 2007)</small>
+d). Vehículos de propulsión no mecánica, bicitaxis. $273.
 
 B). El servicio de carga en general y especializado de carga:
 
-1. Capacidad hasta de 3,000 kgs. $956
+1. Capacidad hasta de 3,000 kgs. $1,012.
 
-2. Capacidad de carga de más de 3,000 kgs. $1,275
-
-> <small>(ADICIONADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+2. Capacidad de carga de más de 3,000 kgs. $1,350.
 
 C). El servicio discrecional de arrastre o de salvamento:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Grúas de arrastre u otros vehículos especializados para
 
-1. Grúas de arrastre u otros vehículos
+trasladar vehículos impedidos mecánica o legalmente
 
-especializados para trasladar vehículos
+para su auto-desplazamiento. $8,093.
 
-impedidos mecánica o legalmente para
+2. Grúas de salvamento u otros vehículos especializados
 
-su auto-desplazamiento. $7,650
+para el rescate de personas, objetos o animales que se
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+encuentren en situaciones de peligro o que atenten contra
 
-2. Grúas de salvamento u otros vehículos
+la seguridad de terceros en sus personas o bienes. $8,093.
 
-especializados para el rescate de personas,
+3. Servicio de depósito de vehículos por cesión de derechos o
 
-objetos o animales que se encuentren en
+cambio de titular de permiso para guardar y custodia de
 
-situaciones de peligro o que atenten contra
+vehículos accidentados o a disposición de autoridades diversas,
 
-la seguridad de terceros en sus personas
-
-o bienes. $7,650
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-3. Servicio de depósito de vehículos por
-
-cesión de derechos o cambio de titular de
-
-permiso para guardar y custodia de vehículos
-
-accidentados o a disposición de autoridades
-
-diversas, por cada corralón. $5,439
-
-> <small>(ADICIONADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+por cada corralón. $5,755.
 
 D). Los servicios conexos:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Terminales de pasaje. $5,452.
 
-1. Terminales de pasaje. $5,153
+2. Bahías de ascenso y descenso. $1,909.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+3. Cobertizos. $1,636.
 
-2. Bahías de ascenso y descenso. $1,805
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-3. Cobertizos . $1,547.
-
-4. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
-
-> <small>(ADICIONADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+4. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
 E). La instalación de anuncios publicitarios en el transporte:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Por la cesión de derechos o cambio de titular del permiso
 
-1. Por la cesión de derechos o cambio de
-
-titular del permiso para la instalación de
-
-anuncios publicitarios. $1,289
-
-> <small>(ADICIONADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
+para la instalación de anuncios publicitarios. $1,363.
 
 VI. Por la prórroga o cambio de la temporalidad de vigencia del permiso respecto de:
 
@@ -6265,437 +3109,267 @@ A). El servicio discrecional de pasaje:
 
 1. El servicio de transporte de pasaje especializado escolar y personal de empresa:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+a). Autobús. $1,012.
 
-a). Autobús. $956
+b ). Minibús. $810.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+c). Vagonetas. $810.
 
-b). Minibús. $765
+2. El servicio de transporte de pasaje especializado de turismo e individual en vehículo de propulsión no mecánica.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+a). Autobús. $2,023.
 
-c). Vagonetas. $765
+b). Minibús. $2,023.
 
-2. El servicio de transporte de pasaje especializado de turismo e individual en vehículo de propulsión no mecánica:
+c). Vagonetas. $1,349.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-a). Autobús. $1,912
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-b). Minibús. $1,912
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-c ). Vagonetas. $1,275
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-d). Bicitaxi. $516
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 26 DE DICIEMBRE DE 2007)</small>
+d). Bicitaxi. $546.
 
 B). El servicio de carga en general y especializado de carga:
 
-1. Capacidad hasta de 3,000 kgs. $956
+1. Capacidad hasta de 3,000 kgs. $1,012.
 
-2. Capacidad de carga de más de 3,000 kgs. $1,275
+2. Capacidad de carga de más de 3,000 kgs. $1,350.
 
 C). El servicio discrecional de arrastre o de salvamento:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Grúas de arrastre u otros vehículos especializados para
 
-1. Grúas de arrastre u otros vehículos
+trasladar vehículos impedidos mecánica o legalmente
 
-especializados para trasladar vehículos
+para su auto-desplazamiento. $4,046.
 
-impedidos mecánica o legalmente para
+2. Grúas de salvamento u otros vehículos especializados
 
-su auto-desplazamiento. $3,824
+para el rescate de personas, objetos o animales que se
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+encuentren en situaciones de peligro o que atenten contra
 
-2. Grúas de salvamento u otros vehículos
+la seguridad de terceros en sus personas o bienes. $4,046.
 
-especializados para el rescate de personas,
+3. Servicio de depósito de vehículos para guarda y
 
-objetos o animales que se encuentren en
+custodia de vehículos accidentados o a disposición de
 
-situaciones de peligro o que atenten contra
-
-la seguridad de terceros en sus personas
-
-o bienes. $3,824
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-3. Servicio de depósito de vehículos para
-
-guarda y custodia de vehículos accidentados
-
-o a disposición de autoridades diversas por
-
-cada corralón. $5,439
+autoridades diversas por cada corralón. $5,755.
 
 D). Los servicios conexos, por el establecimiento de:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Terminales de pasaje. $2,727.
 
-1. Terminales de pasaje. $2,577
+2. Bahías de ascenso y descenso. $982.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+3. Cobertizos. $819.
 
-2. Bahías de ascenso y descenso. $928
+4. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-3. Cobertizos . $774
-
-4. (DEROGADO, G.G. 30 DE JUNIO DE 2006)
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-E). El permiso para la instalación de anuncios publicitarios: $2,577
+E). El permiso para la instalación de anuncios publicitarios: $2,727.
 
 En la prorroga o cambio de la temporalidad de vigencia de permisos para servicios de arrastre y de salvamento, depósito de vehículos y servicio de transporte especializado, que en términos del Reglamento de Transporte Público y Servicios Conexos del Estado de México, opten por la certificación de calidad respecto de dichos servicios y los bienes afectos a los mismos, acreditándolo debidamente ante la autoridad de transporte, se encontrarán exentos del pago que se contempla en esta fracción.
 
 Se exceptúan de lo anterior, los permisos para servicio con vehículos de propulsión no mecánica.
 
-> <small>(ADICIONADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
-
 VII. Por la expedición de autorizaciones o modificaciones complementarias de las concesiones y permisos que correspondan, respecto de:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). Autorización de ruta o área geográfica de operación del
 
-A). Autorización de ruta o área geográfica
+servicio público de transporte en las modalidades de colectivo,
 
-de operación del servicio público de transporte
+mixto, individual de automóvil de alquiler de sitio, de alquiler:
 
-en las modalidades de colectivo, mixto,
+de radio servicio y de alquiler sin base tipo intraurbano o
 
-individual de automóvil de alquiler de sitio,
+suburbano, de carga, especializado de carga, de arrastre
 
-de alquiler de radio servicio y de alquiler sin
-
-base tipo intraurbano o suburbano, de carga,
-
-especializado de carga, de arrastre y de
-
-salvamento, por cada vehículo. $1,576
+y de salvamento, por cada vehículo. $1,667.
 
 B). Modificación de rutas o área geográfica de operación del servicio público de transporte en las modalidades referidas en el inciso que antecede, por cada vehículo:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. De enrolamiento. $1,189.
 
-1. De enrolamiento. $1,124
+2. Por la fusión de dos rutas como resultado de un enlace. $1,189.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+3. De su derrotero por cambios de sentido de la circulación
 
-2. Por la fusión de dos rutas como resultado
+vehicular. $135.
 
-de un enlace. $1,124
+4. La reducción de su longitud por reubicarse su origen o
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+destino, reduciendo el derrotero. $135.
 
-3. De su derrotero por cambios de sentido
+5. De frecuencia de la ruta o derrotero. $1,189.
 
-de la circulación vehicular. $127
+6. Por el cambio de base en los lugares de origen o destino. $1,667.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+C). Autorización de las tarifas a que se sujetará la operación
 
-4. La reducción de su longitud por reubicarse
+del servicio público de transporte en las modalidades referidas
 
-su origen o destino, reduciendo el derrotero. $127
+en los incisos A) y B) anteriores, por cada vehículo. $191.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+D). Autorización de la cromática de los vehículos y equipos
 
-5. De frecuencia de la ruta o derrotero. $1,124
+afectos a los servicios de transporte en las modalidades
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+referidas en los incisos A) y B) anteriores, por cada vehículo. $602.
 
-6. Por el cambio de base en los lugares de
-
-origen o destino. $1,576
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-C). Autorización de las tarifas a que se
-
-sujetará la operación del servicio público de
-
-transporte en las modalidades referidas en
-
-los incisos A) y B) anteriores, por cada
-
-vehículo. $181
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-D). Autorización de la cromática de los
-
-vehículos y equipos afectos a los servicios
-
-de transporte en las modalidades referidas
-
-en los incisos A) y B) anteriores, por cada
-
-vehículo. $569
-
-E). (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+E). (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
 VIII. Por la expedición inicial de licencias o de permisos para conducir vehículos automotores:
 
-> <small>(REFORMADO, G.G. 1 DE JULIO DE 2007)</small>
+A). Chofer para servicio público
 
-A). Chofer para servicio público:
+1. Por cuatro años de vigencia. $1,324.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+2. Por tres años de vigencia. $952.
 
-1. Por cuatro años de vigencia. $1,251
+3. Por dos años de vigencia. $715.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-2. Por tres años de vigencia. $900
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-3. Por dos años de vigencia. $676
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-4. Por un año de vigencia. $506
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+4. Por un año de vigencia. $536.
 
 B). Chofer para servicio particular:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Por cuatro años de vigencia. $944.
 
-1. Por cuatro años de vigencia. $892
+2. Por tres años de vigencia. $709.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+3. Por dos años de vigencia. $532.
 
-2. Por tres años de vigencia. $670
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-3. Por dos años de vigencia. $502
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-4. Por un año de vigencia. $377
-
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+4. Por un año de vigencia. $398.
 
 C). Automovilista:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Por cuatro años de vigencia. $724.
 
-1. Por cuatro años de vigencia. $684
+2. Por tres años de vigencia. $545.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+3. Por dos años de vigencia. $408.
 
-2. Por tres años de vigencia. $515
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-3. Por dos años de vigencia. $385
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-4. Por un año de vigencia. $288
-
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+4. Por un año de vigencia. $304.
 
 D). Motociclista:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Por cuatro años de vigencia. $724.
 
-1. Por cuatro años de vigencia. $684
+2. Por tres años de vigencia. $545.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+3. Por dos años de vigencia. $408.
 
-2. Por tres años de vigencia. $515
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-3. Por dos años de vigencia. $385
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-4. Por un año de vigencia. $288
-
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+4. Por un año de vigencia. $304.
 
 E). Por la expedición de permiso provisional de practica "B".
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Por dos años de vigencia. $408.
 
-1. Por dos años de vigencia. $385
+2. Por un año de vigencia. $304.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+F). Por la expedición de permiso provisional de práctica "A". $1,447.
 
-2. Por un año de vigencia. $288
+El pago de los anteriores conceptos incluye en su caso, examen de conocimientos al Reglamento de Transito del Estado de México.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 1 DE JULIO DE 2007)
+IX. Duplicado de licencias y permisos, con la vigencia del
 
-F). Por la expedición de permiso provisional
+documento expedido originalmente y con la leyenda de
 
-de practica "A". $1,368
-
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
-
-El pago de los anteriores conceptos incluye en su caso, examen de conocimientos al Reglamento de Tránsito del Estado de México.
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-IX. Duplicado de licencias y permisos, con la
-
-vigencia del documento expedido originalmente
-
-y con la leyenda de "Duplicado". $194
-
-> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+"Duplicado". $206
 
 X. Por la expedición de medios de identificación para manejar vehículos automotores y equipos afectos al servicio público de transporte:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). Por la expedición de la tarjeta de identificación personal
 
-A). Por la expedición de la tarjeta de
+para operadores de transporte público, por año. $832.
 
-identificación personal para operadores
+B). Por el duplicado de la tarjeta de identificación personal
 
-de transporte público, por año. $786
+para operadores de transporte público con la vigencia del
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+documento expedido originalmente y con la leyenda "Duplicado". $608.
 
-B). Por el duplicado de la tarjeta de
-
-identificación personal para operadores
-
-de transporte público con la vigencia del
-
-documento expedido originalmente y con
-
-la leyenda "Duplicado". $574
-
-La expedición de la tarjeta de identificación personal incluye exámenes medico, psicométrico y toxicológico.
-
-> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+La expedición de la tarjeta de identificación personal incluye exámenes medico, Psicométrico y toxicológico.
 
 XI. Por los servicios de control vehicular se pagarán los siguientes derechos:
 
 A). Servicio público de transporte:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Por la expedición de placas, tarjeta de circulación y
 
-1. Por la expedición del placas, tarjetas
+calcomanía para vehículos de servicio público en todas sus
 
-de circulación y calcomanía para vehículos
+modalidades y tipos, excepto los de propulsión no mecánica. $873.
 
-de servicio público en todas sus modalidades
+2. Por refrendo anual para vehículos afectos a la prestación
 
-y tipos, excepto los de propulsión no mecánica. $825
+del servicio público del transporte en todas sus modalidades
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+y tipos, a excepción del servicio de carga en general y
 
-2. Por refrendo anual para vehículos afectos
+especializado de carga. $713.
 
-a la prestación del servicio público del
+3. Por cambio de propietario o cambio de motor del vehículo
 
-transporte en todas sus modalidades
+afecto a la prestación del servicio público de transporte en
 
-y tipos, a excepción del servicio de carga en
+todas sus modalidades y tipos. $144.
 
-general y especializado de carga. $674
+4. Por cambio de vehiculo afecto a la prestación del servicio
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+público de transporte, en todas sus modalidades y tipos. $380.
 
-3. Por cambio de propietario o cambio de motor del vehículo afecto a la prestación del servicio público de transporte en todas sus modalidades y tipos. $136
+5. Por el trámite de baja de placas para vehículos afectos
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+a la prestación del servicio público de transporte en todas
 
-4. Por cambio de vehículo afecto a la prestación del servicio público de transporte, en todas sus modalidades y tipos. $359
+sus modalidades y tipos. $290.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+6. Por la expedición de placas y tarjeta de circulación, para
 
-5. Por el trámite de baja de placas para
+vehículos de servicio público en la modalidad de individual
 
-vehículos afectos a la prestación del servicio
+en vehiculo de propulsión no mecánica. $268.
 
-público de transporte en todas sus
+7. Por la reposición de tarjeta de circulación, o del titulo
 
-modalidades y tipos. $274
+de concesión o permiso, en todas sus modalidades o tipos. $673.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+B). (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
-6. Por la expedición de placas y tarjeta de circulación, para vehículos de servicio público en la modalidad de individual en vehículo de propulsión no mecánica. $253
+XII. Expedición de permiso de transporte público en otras
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+Modalidades $674.
 
-7. Por la reposición de tarjeta de circulación, o del título de concesión o permiso en todas sus modalidades o tipos. $636
-
-B). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2006)
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XII. Expedición de permiso de transporte
-
-público en otras modalidades. $637
-
-XIII. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2006)
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+XIII. (DEROGADA, G.G. 30 DE DICIEMBRE DE 2003) (REPUBLICADA, G.G. 1 DE ENERO DE 2009)
 
 XIV. Expedición de autorización o su refrendo anual para prestar el servicio público de autotransporte colectivo de pasajeros en rutas fijas dentro del territorio del Estado, a concesionarios del Gobierno del Distrito Federal; personas físicas o personas jurídicas colectivas, unidades o empresas económicas.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). Autorización. $8,803.
 
-A). Autorización. $8,320
+B). Refrendo. $176.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+Los derechos por refrendo previstos en esta fracción, se pagarán anualmente dentro de los tres primeros meses de cada año.
 
-B). Refrendo. $166
+XV. Por la realización de estudios técnicos y económicos para
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+el establecimiento de bases o concesionarios del Gobierno
 
-XV. Por la realización de estudios técnicos
+del Distrito Federal; personas físicas o jurídicas colectivas,
 
-y económicos para el establecimiento
+unidades o empresas económicas. $3,372.
 
-de bases o concesionarios del Gobierno
+XVI. Expedición del permiso para el establecimiento de bases
 
-del Distrito Federal; personas físicas o
+a concesionarios del Gobierno del Distrito Federal, que
 
-jurídicas colectivas, unidades o empresas
+hayan sido autorizados para prestar el servicio público de
 
-económicas. $3,187
+autotransporte colectivo de pasajeros, en rutas fijas dentro
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XVI. Expedición del permiso para el
-
-establecimiento de bases a concesionarios
-
-del Gobierno del Distrito Federal, que
-
-hayan sido autorizados para prestar el
-
-servicio público de autotransporte colectivo
-
-de pasajeros, en rutas fijas dentro del
-
-territorio del Estado. $356
+del territorio del Estado. $376.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 74.
 
-(DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
+(DEROGADO, G.G. 30 DE DICIEMBRE DE 2003) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -6707,99 +3381,57 @@ territorio del Estado. $356
 
 Las personas físicas y jurídicas colectivas que presten los servicios de seguridad privada, pagarán derechos conforme a la siguiente:
 
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
+
 TARIFA
 
 CONCEPTO
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+I. Por la consulta de antecedentes policiales en el
 
-I. Por la consulta de antecedentes
+Registro Público correspondiente, respecto del
 
-policiales en el Registro Público
+personal operativo con que cuentan los prestadores
 
-correspondiente, respecto del
+de servicios, por elemento. $110.
 
-personal operativo con que
+II. Por el estudio y evaluación de la solicitud para la
 
-cuentan los prestadores de
+prestación de servicios de seguridad privada, en los
 
-servicios, por elemento. $104
+términos de ley, o su revalidación. $330.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+III. Por el estudio para determinar la legalidad de inscribir
 
-II. Por el estudio y evaluación de la
+cada arma de fuego o equipo utilizado en la prestación de
 
-solicitud para la prestación de
+los servicios, por cada arma o equipo. $110.
 
-servicios de seguridad privada, en
+IV. Por el estudio para determinar la legalidad de inscribir
 
-los términos de ley, o su
+en el Registro Público correspondiente, de cada uno de los
 
-revalidación. $312
+elementos operativos de quienes la Secretaría haya
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+efectuado la consulta previa de antecedentes policiales,
 
-III. Por el estudio para determinar
+por elemento. $110.
 
-la legalidad de inscribir cada arma
+V. Por la expedición de cédula de identificación a personal
 
-de fuego o equipo utilizado en la
+operativo, por cada elemento o su reposición. $165.
 
-prestación de los servicios, por
+VI. Por la modalidad de la prestación de los servicios de
 
-cada arma o equipo. $104
+seguridad privada. $275.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+VII. Por el cambio de modalidad del servicio de seguridad
 
-IV. Por el estudio para determinar
+privada o su ampliación. $330.
 
-la legalidad de inscribir en el
+VIII. Por inscripción de licencia colectiva de portación de
 
-Registro Público correspondiente,
-
-de cada uno de los elementos
-
-operativos de quienes la
-
-Secretaría haya efectuado la
-
-consulta previa de antecedentes
-
-policiales, por elemento. $104
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-V. Por la expedición de cédula de
-
-identificación a personal operativo,
-
-por cada elemento o su reposición. $156
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-VI. Por la modalidad de la
-
-prestación de los servicios de
-
-seguridad privada. $260
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-VII. Por el cambio de modalidad
-
-del servicio de seguridad privada
-
-o su ampliación. $312
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-VIII. Por inscripción de licencia
-
-colectiva de portación de arma de
-
-fuego por cada uno de los
-
-elementos operativos. $104
+arma de fuego por cada uno de los elementos operativos. $110.
 
 SUBSECCION TERCERA
 
@@ -6815,181 +3447,111 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DE PROTECCION C
 
 Por los servicios prestados por la Dirección General de Protección Civil, se pagarán derechos conforme a la siguiente:
 
-CONCEPTO TARIFA
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+TARIFA
 
-I. Por la evaluación y dictamen anual de la capacidad técnica y práctica de las personas físicas o jurídicas colectivas que ejerzan actividades en materia de protección civil.
+CONCEPTO
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+I Por la evaluación y dictamen anual de la capacidad técnica y práctica de las personas físicas o jurídicas colectivas que ejerzan actividades en materia de protección civil.
 
-A). Grupos voluntarios. $2,601
+A). Grupos voluntarios. $2,752.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+B). Prestadoras de servicios de consultoría o capacitación
 
-B). Prestadoras de servicios de consultoría
+en materia de protección civil. $3,216.
 
-o capacitación en materia de protección civil. $3,0039
+II. Derogada.
 
-II. (DEROGADA, G.G. 30 DE DICIEMBRE DE 2003)
+III. Por la evaluación de las condiciones de seguridad para
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+usos del suelo que generen impacto regional. $3,302.
 
-III. Por la evaluación de las condiciones de
+IV. Por la prestación de los servicios de asesoría técnica
 
-seguridad para usos del suelo que generen
+a personas físicas o jurídicas colectivas que así lo soliciten,
 
-impacto regional. $3,121
+para la elaboración de sus programas específicos de protección
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+civil. $2,479.
 
-IV. Por la prestación de los servicios de asesoría
+V. Por la evaluación del análisis de vulnerabilidad y
 
-técnica a personas físicas o jurídicas colectivas
+riesgo, así como la incorporación de información
 
-que así lo soliciten, para la elaboración de sus
+cualitativa del Subsistema Afectable identificado al
 
-programas específicos de protección civil. $2,343
+Sistema Estatal de Información de Protección Civil. $3,216.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+VI. Por el suministro de atlas estatal de riesgos o de los
 
-V. Por la evaluación del análisis de
+productos del Sistema Estatal de Información de
 
-vulnerabilidad y riesgo, así como la
+Protección Civil, en medios digitales o impresos. $1,991.
 
-incorporación de información
+VII. Por la prestación de los servicios que involucre el
 
-cualitativa del Subsistema Afectable
+Programa de Capacitación en materia de protección civil,
 
-identificado al Sistema Estatal de
+por hora de capacitación con un máximo de 20 personas. $273.
 
-Información de Protección Civil. $3,039
+VIII. Por la evaluación de las condiciones de seguridad para la emisión de la opinión favorable del Ejecutivo Estatal, en términos de la Ley Federal de Armas de Fuego y Explosivos:
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). Carro vitrina para juguetería pirotécnica. $344.
 
-VI. Por el suministro de atlas estatal de
+B). Bodega para artificios pirotécnicos. $1,380.
 
-riesgos o de los productos del Sistema
+C). Fabricación de artificios pirotécnicos. $2,070.
 
-Estatal de Información de Protección Civil,
+D). Fábrica de elementos pirotécnicos. $4,025.
 
-en medios digitales o impresos. $1,882
+E). Compra-venta de sustancias químicas. $2,473
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+F). Instalaciones en que se realiza la compra-venta de sustancias
 
-VII. Por la prestación de los servicios que
+químicas. $2,473.
 
-involucre el Programa de Capacitación en materia
+G). Obras de ingeniería civil. $2,473.
 
-de protección civil, por hora de capacitación
+H). Industrias químicas de transformación. $2,473.
 
-con un máximo de 20 personas. $258
+I). Almacén para la compra-venta de pólvoras deportivas,
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE DICIEMBRE DE 2005)</small>
+fulminantes y demás proyectiles impulsados por deflagración
 
-VIII. Por la evaluación de las condiciones de seguridad para la emisión de la opinión favorable del Ejecutivo Estatal, en términos de la Ley Federal de Armas de
+de pólvora. $2,473.
 
-Fuego y Explosivos:
+J). Reparación de armas de fuego y gas. $1,635.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-A). Carro vitrina para juguetería pirotécnica. $325
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-B). Bodega para artificios pirotécnicos. $1,304
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-C). Fabricación de artificios pirotécnicos. $1,956
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-D). Fábrica de elementos pirotécnicos. $3,805
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-E). Compra-venta de sustancias químicas. $2,338
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-F). Instalaciones en que se realiza la
-
-compra-venta de sustancias químicas. $2,338
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-G). Obras de ingeniería civil. $2,338
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-H). Industrias químicas de transformación. $2,338
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-I). Almacén para la compra-venta de pólvoras
-
-deportivas, fulminantes y demás proyectiles
-
-impulsados por deflagración de pólvora. $2,021
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-J). Reparación de armas de fuego y gas. $1,545
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-K). Transporte especializado de explosivos. $2,061
-
-> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+K). Transporte especializado de explosivos. $2,181.
 
 IX. Por la evaluación de Programas Específicos de Protección Civil:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). Presentación del programa. $2,479.
 
-A). Presentación del programa. $2,343
+B). Actualización del programa. $927.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+X. Por la evaluación y dictamen de condiciones de seguridad
 
-B). Actualización del programa. $877
+de los bienes inmuebles, sus instalaciones y equipo, por cada
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-X. Por la evaluación y dictamen de condiciones
-
-de seguridad de los bienes inmuebles, sus instalaciones
-
-y equipo, por cada vez que se solicite. $3,121
-
-> <small>(ADICIONADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
+vez que se solicite. $3,302.
 
 XI. Evaluación de condiciones de seguridad en sitios de concentración masiva de población donde se reúnan 3,000 o más personas, ó se realicen torneos de gallos:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). Instalaciones fijas, anual. $5,504.
 
-A). Instalaciones fijas, anual. $5,202
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-B). Instalaciones eventuales, por cada ocasión
-
-que se realice. $5,202
-
-> <small>(ADICIONADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+B). Instalaciones eventuales, por cada ocasión que se realice. $5,504.
 
 XII. Por el suministro de guías:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). Para la elaboración de programas específicos de protección
 
-A). Para la elaboración de programas específicos
+civil. $881.
 
-de protección civil. $832
+B). Para la elaboración de análisis de vulnerabilidad y riesgo, por
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-B). Para la elaboración de análisis de
-
-vulnerabilidad y riesgo, por guía. $832
+guía. $881.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -7005,15 +3567,13 @@ Por inscripción de documentos o actos relativos a bienes inmuebles se pagarán 
 
 I. Por inscripciones relativas a la propiedad o posesión originaria de bienes inmuebles:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-A). Apeo y deslinde. $416
+A). Apeo y deslinde. $440.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-B). Capitulaciones matrimoniales sobre
-
-Inmuebles. $416
+B). Capitulaciones matrimoniales sobre inmuebles. $440.
 
 C). La declaración, reconocimiento, adquisición o transmisión de la propiedad o posesión de inmuebles o derechos sobre los mismos por cualquier título.
 
@@ -7025,127 +3585,133 @@ D). La compraventa a plazos, con reserva de dominio o cualquier otra condición 
 
 E). La promesa cuyo contrato definitivo deba ser inscrito por disposición de Ley.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-Tratándose del registro de actos que constituyan compraventa a plazos, con reserva de dominio o cualquier otra condición resolutoria o suspensiva, constitución de fideicomiso traslativo de dominio, transmisión de dominio en ejecución de fideicomiso, promesa de venta y transmisión de propiedad o posesión relacionados con viviendas de interés social, social progresiva o popular, se pagarán por concepto de derechos $46.
+Tratándose del registro de actos que constituyan compraventa a plazos, con reserva de dominio o cualquier otra condición resolutoria o suspensiva, constitución de fideicomiso traslativo de dominio, transmisión de dominio en ejecución de fideicomiso, promesa de venta y transmisión de propiedad o posesión relacionados con viviendas de interés social, social progresiva o popular, se pagarán por concepto de derechos $49.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-En el caso de predios que se destinen a la construcción de conjuntos urbanos de los tipos de vivienda referidos en el párrafo que antecede, se pagarán $2,459.
+En el caso de predios que se destinen a la construcción de conjuntos urbanos de los tipos de vivienda referidos en el párrafo que antecede, se pagarán $2,601.
 
 F). La inmatriculación judicial o administrativa de inmuebles, por cada predio.
 
-Las inmatriculaciones administrativas por las que se regularice la tenencia de la tierra en campañas promovidas por el Gobierno o por los ayuntamientos, quedarán exentas del pago de los derechos señalados en este inciso.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 26 DE DICIEMBRE DE 2007)
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-G). Constitución de régimen de propiedad en condominio, división de la copropiedad, fusión, fraccionamiento, lotificación, relotificación, subdivisión de predios, por cada unidad privativa, fracción, lote resultante o fusionada se pagarán por concepto de derechos $625.
+Por las inmatriculaciones administrativas por las que se regularice la tenencia de la tierra en programas o campañas promovidas por el Estado o por los Ayuntamientos y cuya superficie no rebase los 1,000 m2 de superficie, se pagará por concepto de derechos $436.
+
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
+
+G). Constitución de régimen de propiedad en condominio, división de la copropiedad, fusión, fraccionamiento, lotificación, relotificación, subdivisión de predios, por cada unidad privativa, fracción, lote resultante o fusionada se pagarán por concepto de derechos $661.
 
 H). Otros actos inscribibles o anotables.
 
-> <small>(REFORMADO, G.G. 1 DE JULIO DE 2007)</small>
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-Por las inscripciones o anotaciones de régimen de propiedad en condominio, fraccionamiento, lotificación, relotificación o subdivisión de predios relacionados con vivienda de interés social, social progresiva o popular, se pagarán por concepto de derechos $98, por lote o vivienda resultante siempre y cuando conste de manera fehaciente la autorización expresa de que en los lotes o fracciones resultantes se construirán este tipo de viviendas, o que el condominio en su totalidad tendrá esa naturaleza.
+Por las inscripciones o anotaciones de régimen de propiedad en condominio, fraccionamiento, lotificación, relotificación o subdivisión de predios relacionados con vivienda de interés social, social progresivo o popular, se pagarán por concepto de derechos $103, por lote o vivienda resultante siempre y cuando conste de manera fehaciente la autorización expresa de que en los lotes o fracciones resultantes se construirán este tipo de viviendas, o que el condominio en su totalidad tendrá esa naturaleza.
 
 Por las inscripciones de los actos a que se refieren los incisos C), D), E), F) y H), se pagarán derechos, conforme a la siguiente:
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-CONCEPTO TARIFA
+TARIFA
 
-1. Cuando los actos a inscribir no tengan valor
+CONCEPTO
 
-determinado o éste sea hasta de $167,559. $1,126.
+1. Cuando los actos a inscribir no tengan valor determinado
 
-2. Cuando el valor de los actos a inscribir sea
+o éste sea hasta de $177,277. $1,191.
 
-de más de $167,559 y hasta de $209,449. $3,380.
+2. Cuando el valor de los actos a inscribir sea de más de
 
-3. Cuando el valor de los actos a inscribir sea de
+$177,277 y hasta de $221,597. $3576.
 
-más de $209,449 y hasta de $251,339. $5,635.
+3. Cuando el valor de los actos a inscribir sea de más de
 
-4. Cuando el valor de los actos a inscribir sea de
+$221,597 y hasta de $265,916. $5,962.
 
-más de $251,339 y hasta de $293,228. $7,888.
+4. Cuando el valor de los actos a inscribir sea de más de
 
-5. Cuando el valor de los actos a inscribir sea
+$265,916 y hasta de $310,236. $8,346.
 
-de más de $293,228 y hasta de $335,120. $10,143.
+5. Cuando el valor de los actos a inscribir sea de más de
 
-6. Cuando el valor de los actos a inscribir sea de
+$310,236 y hasta de $354,557. $10,731.
 
-más de $335,120. $11,292.
+6. Cuando el valor de los actos a inscribir sea de más de
+
+$354,557. $11,947.
 
 Por las inscripciones a que se refiere el inciso C), D), E) y H) se tomará como valor el que resulte mayor entre el inserto o declarado en la operación, el catastral o el de avalúo, para la ubicación del rango correspondiente de la tarifa anterior. Tratándose de las adquisiciones que hagan los arrendatarios financieros al ejercer la opción de compra, se tomará como valor el que se haya concertado en el contrato de arrendamiento financiero respectivo. Cuando el objeto del acto jurídico sean dos o más inmuebles se deberá expresar, en el documento respectivo, el valor de cada uno de ellos a fin de ubicarlos en el rango correspondiente en forma individual.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-La cancelación por revocación, rescisión, mandato judicial o a solicitud de parte interesada de las inscripciones a que se refiere esta fracción $445.
+La cancelación por revocación, rescisión, mandato judicial o a solicitud de parte interesada de las inscripciones a que se refiere esta fracción $471.
 
-II. Por inscripciones o anotaciones de actos o mandamientos judiciales que limiten, graven el derecho de propiedad o posesión o prohíban la enajenación de la propiedad o posesión original de bienes inmuebles, se pagarán por concepto de derechos, conforme a la siguiente:
+II. Por inscripciones o anotaciones de actos o mandamientos judiciales que limiten, graven el derecho de propiedad o posesión o prohíban la enajenación de la propiedad o posesión original de bienes inmuebles, se pagarán por concepto, de derechos, conforme a la siguiente:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-CONCEPTO TARIFA
+TARIFA
 
-1. Cuando los actos a inscribir no tengan valor
+CONCEPTO
 
-determinado o éste sea hasta de $167,559. $1,126
+1. Cuando los actos a inscribir no tengan valor determinado
 
-2. Cuando el valor de los actos a inscribir sea
+o éste sea hasta de $177,277. $1,191.
 
-de más de $167,559 y hasta de $209,449. $3,380
+2. Cuando el valor de los actos a inscribir sea de más de
 
-3. Cuando el valor de los actos a inscribir sea
+$177,277 y hasta de $221,597. $3,576.
 
-de más de $209,449 y hasta de $251,339. $5,635
+3. Cuando el valor de los actos a inscribir sea de más de
 
-4. Cuando el valor de los actos a inscribir sea
+$221,597 y hasta de $265,916. $5,962.
 
-de más de $251,339 y hasta de $293,228. $7,888
+4. Cuando el valor de los actos a inscribir sea de más de
 
-5. Cuando el valor de los actos a inscribir
+$265,916 y hasta de $310,236. $8,346.
 
-sea de más de $293,228 y hasta de $335,120. $10,143
+5. Cuando el valor de los actos a inscribir sea de más de
 
-6. Cuando el valor de los actos a inscribir sea
+$310,236 y hasta de $354,557. $10,731.
 
-de más de $335,120. $11,292
+6. Cuando el valor de los actos a inscribir sea de más de
+
+$354.557. $11,947.
 
 Tratándose de cédula hipotecaria se tomará como base la cantidad adeudada.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-La división de hipoteca pagará una cantidad equivalente a $1,126.
+La división de hipoteca pagará una cantidad equivalente a $1,191.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Por la inscripción de hipotecas en las que intervengan el Fondo Instituido en Relación a la Agricultura o la Financiera Rural, el pago de los derechos se hará conforme a la siguiente:
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-CONCEPTO TARIFA
+Por la inscripción de hipotecas en las que intervengan el Fondo Instituido en Relación a la Agricultura o la Financiera Rural, se pagará por concepto de derechos $650.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-A).Cuando el valor de la operación sea hasta de $386,528. $369
+Por la inscripción de hipotecas para garantizar el crédito principal y refinanciamiento para la construcción y adquisición de viviendas de interés social, social progresiva o popular, se pagarán $103.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-B). Cuando el valor de la operación exceda de $386,528. $934
-
-(ACTUALIZADO EN SU CANTIDAD, G.G. 1 DE JULIO DE 2007)
-
-Por la inscripción de hipotecas para garantizar el crédito principal y refinanciamiento para la construcción y adquisición de viviendas de interés social, social progresiva o popular, se pagarán $98.
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-Para cada cancelación de inscripción o anotación relativa a los actos anteriores se pagará $934, a excepción de las cancelaciones respecto de inmuebles destinados a viviendas de interés social, social progresiva o popular, en cuyo caso se pagará un derecho equivalente a $49, así como en el caso de cancelación de inscripciones o anotaciones que se relacionen con créditos en los que intervengan el Fondo Instituido en relación con la Agricultura o la Financiera Rural.
+Para cada cancelación de inscripción o anotación relativa a los actos anteriores se pagará $988., a excepción de las cancelaciones respecto de inmuebles destinados a viviendas de interés social, social progresiva o popular, en cuyo caso se pagará un derecho equivalente a $52., así como en el caso de cancelación de inscripciones o anotaciones que se relacionen con créditos en los que intervengan el Fondo Instituido en Relación con la Agricultura o la Financiera Rural.
 
 Cuando en un solo documento se contengan dos o más contratos a inscribir, el monto de cada uno de ellos se ubicará en el rango correspondiente en forma individual, para efectos de la aplicación de la tarifa de esta fracción.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADO PRIMER PARRAFO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-III. Por la inscripción de actos o documentos cuyo registro sea necesario como acto previo, para la inscripción de títulos traslativos de dominio, se pagarán por cada uno de ellos $416.
+III. Por la inscripción de actos o documentos cuyo registro sea necesario como acto previo, para la inscripción de títulos traslativos de dominio, se pagarán por cada uno de ellos $440.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Por la cancelación de la inscripción a que alude esta fracción, ordenada por la autoridad judicial o cuando así lo soliciten las partes que intervienen en el acto o documento, siempre y cuando no se haya realizado la inscripción definitiva, se pagarán $200.
 
 > <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -7159,7 +3725,7 @@ Tratándose de hipotecas para garantizar créditos obtenidos para la construcci�
 
 #### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE JUNIO DE 2006)</small>
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS [N. DE E. REPUBLICADO], G.G. 1 DE ENERO DE 2009)
 
 ###### Artículo 78.
 
@@ -7173,35 +3739,41 @@ III. Por otros actos inscribibles o anotables.
 
 Los derechos se pagarán conforme a la siguiente tarifa:
 
-CONCEPTO TARIFA
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+TARIFA
 
-1. Cuando los actos a inscribir no tengan valor determinado o éste sea hasta de $167,559. $1,126
+CONCEPTO
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Cuando los actos a inscribir no tengan valor determinado
 
-2. Cuando el valor de los actos a inscribir sea de más de $167,559 y hasta de $209,449. $3,380
+o éste sea hasta de $177,277. $1,191.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+2. Cuando el valor de los actos a inscribir sea de más de
 
-3. Cuando el valor de los actos a inscribir sea de más de $209,449 y hasta de $251,339. $5,635
+$177,277 y hasta de $221,597. $3,576.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+3. Cuando el valor de los actos a inscribir sea de más de
 
-4. Cuando el valor de los actos a inscribir sea de más de $251,339 y hasta de $293,228. $7,888
+$221,597 y hasta de $265,916. $5,962.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+4. Cuando el valor de los actos a inscribir sea de más de
 
-5. Cuando el valor de los actos a inscribir sea de más de $293,228 y hasta de $335,120. $10,143
+$265,916 y hasta de $310,236. $8,346.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+5. Cuando el valor de los actos a inscribir sea de más de
 
-6. Cuando el valor de los actos a inscribir sea de más de $335,120. $11,292
+$310,236 y hasta de $354,557. $10,731.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+6. Cuando el valor de los actos a inscribir sea de más de
 
-IV. Por cancelación de cualquiera de los actos contenidos en este artículo. $1,126
+$354,557. $11,947.
+
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
+
+IV. Por la cancelación de cualquiera de cualquiera (sic) de los
+
+actos contenidos en este artículo $1,191.
 
 > <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -7213,61 +3785,57 @@ IV. Por cancelación de cualquiera de los actos contenidos en este artículo. $1
 
 Por inscripciones de documentos o actos relativos a personas jurídicas colectivas, se pagarán los siguientes derechos:
 
-I. Escrituras constitutivas de personas jurídicas colectivas o aumento de capital social.
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-En las sociedades de capital variable se tomará el capital suscrito como valor para la ubicación en el rango de la tarifa correspondiente.
+I. Escrituras constitutivas de personas jurídicas colectivas
 
-II. Actas de asambleas de socios o de juntas de administradores de conformidad a la legislación aplicable.
+o aumento de capital social. $1.180.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-III. Otorgamiento o sustitución de poderes generales, nombramientos y revocación de los mismos conferidos a gerentes, administradores y cualesquiera otros mandatarios, se pagarán $458.
+II. Actas de asambleas de socios o de juntas de administradores
 
-IV. Emisiones de acciones, cédulas, obligaciones o certificados de participación, tomándose como valor el importe de la emisión para la ubicación en el rango de la tarifa correspondiente.
+de conformidad a la legislación aplicable. $1,180.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-V. Fianzas de corredores, se pagarán $624.
+III. Otorgamiento o sustitución de poderes generales,
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+nombramientos y revocación de los mismos conferidos
 
-VI. Depósito de la firma en facsímil de los administradores, se pagarán $1,126.
+a gerentes, administradores y cualesquiera otros mandatarios,
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+se pagarán $485.
 
-VII. Depósito de copia autorizada por balance, se pagarán $1,126.
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-VIII. Otros actos inscribibles o anotables.
+IV. Emisiones de acciones, cédulas, obligaciones o
 
-Por las inscripciones a que se refieren las fracciones I, II, IV y VIII de este artículo, se pagarán los derechos correspondientes, conforme a la siguiente:
+certificados de participación. $1,180.
 
-CONCEPTO TARIFA
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+V. Fianzas de corredores, se pagarán $661.
 
-1. Cuando los actos a inscribir no tengan valor determinado o éste sea hasta de $167,559. $1,126
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+VI. Depósito de la firma en facsímil de los administradores,
 
-2. Cuando el valor de los actos a inscribir sea de más de $167,559 y hasta de $209,449. $3,380
+se pagarán $1,191.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-3. Cuando el valor de los actos a inscribir sea de más de $209,449 y hasta de $251,339. $5,635
+VII. Depósito de copia autorizada por balance, se pagarán $1,191.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-4. Cuando el valor de los actos a inscribir sea de más de $251,339 y hasta de $293,228. $7,888
+VIII. Otros actos inscribibles o anotables. $1,180.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-5. Cuando el valor de los actos a inscribir sea de más de $293,228 y hasta de $335,120. $10,144
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-6. Cuando el valor de los actos a inscribir sea de más de $335,120. $11,292
-
-No pagarán los derechos señalados en este artículo las microindustrias que estén registradas en el Padrón Nacional de la Microindustria.
+Las microindustrias que se encuentren registradas en el Padrón Nacional de la Microindustria, previa comprobación de su registro, pagarán por concepto de derechos establecidos en el artículo (sic) $90.
 
 > <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -7275,31 +3843,35 @@ No pagarán los derechos señalados en este artículo las microindustrias que es
 
 Por inscripciones de títulos de propiedad sujetos a registro en los términos del Registro Público de la Propiedad, se pagarán derechos, conforme a la siguiente:
 
-CONCEPTO TARIFA
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+TARIFA
 
-1. Cuando los actos a inscribir no tengan valor determinado o éste sea hasta de $167,559. $1,126
+CONCEPTO
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Cuando los actos a inscribir no tengan valor determinado
 
-2. Cuando el valor de los actos a inscribir sea de más de $167,559 y hasta de $209,449. $3,380
+o éste sea hasta de $177,277. $1,191.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+2. Cuando el valor de los actos a inscribir sea de más de
 
-3. Cuando el valor de los actos a inscribir sea de más de $209,449 y hasta de $251,339. $5,635
+$177,277 y hasta de $221,597. $3,576.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+3. Cuando el valor de los actos a inscribir sea de más de
 
-4. Cuando el valor de los actos a inscribir sea de más de $251,339 y hasta de $293,228. $7,888
+$221,597 y hasta de $265,916. $5,962.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+4. Cuando el valor de los actos a inscribir sea de más de
 
-5. Cuando el valor de los actos a inscribir sea de más de $293,228 y hasta de $335,120. $10,143
+$265,916 y hasta de $310,236. $8,346.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+5. Cuando el valor de los actos a inscribir sea de más de
 
-6. Cuando el valor de los actos a inscribir sea de más de $335,120. $11,292
+$310,236 y hasta de $354,557. $10,731.
+
+6. Cuando el valor de los actos a inscribir sea de más de
+
+$354,557. $11,947.
 
 #### SECCION SEGUNDA. DEL IMPUESTO SOBRE ADQUISICION DE INMUEBLES Y OTRAS OPERACIONES TRASLATIVAS DE DOMINIO DE INMUEBLES
 
@@ -7309,9 +3881,9 @@ CONCEPTO TARIFA
 
 Por inscripciones de actos o contratos mercantiles, se pagarán los siguientes derechos:
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-I. Corresponsalía, $626.
+I. Corresponsalía, $662.
 
 II. Compra-venta con reserva de dominio.
 
@@ -7319,13 +3891,13 @@ III. Créditos refaccionarios, de habilitación o avío y en cuenta corriente.
 
 IV. Embargos.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-V. Cancelaciones de los actos o contratos señalados en las fracciones I, II y IV, $1,126.
+V. Cancelaciones de los actos o contratos señalados en las fracciones I, II, III y IV, $936.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-VI. Registros o matrículas que acrediten la calidad de personas físicas comerciantes, $445.
+VI. Registros o matrículas que acrediten la calidad de personas físicas comerciantes, $471.
 
 VII. Arrendamiento financiero.
 
@@ -7333,45 +3905,41 @@ VIII. Otros actos inscribibles o anotables.
 
 Por las inscripciones a que se refieren las fracciones II, III, IV, VII y VIII de este artículo, se pagarán los derechos correspondientes, conforme a la siguiente:
 
-CONCEPTO TARIFA
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+TARIFA
 
-1. Cuando los actos a inscribir no tengan valor determinado o éste sea hasta de $167,559. $1,126
+CONCEPTO
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Cuando los actos a inscribir no tengan valor determinado o
 
-2. Cuando el valor de los actos a inscribir sea de más de $167,559 y hasta de $209,449. $3,380
+éste sea hasta de $177,277. $1,191.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+2. Cuando el valor de los actos a inscribir sea de más de
 
-3. Cuando el valor de los actos a inscribir sea de más de $209,449 y hasta de $251,339. $5,635
+$177,277y hasta de $221,597. $3,576.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+3. Cuando el valor de los actos a inscribir sea de más de
 
-4. Cuando el valor de los actos a inscribir sea de más de $251,339 y hasta de $293,228. $7,888
+$221,597 y hasta de $265,916. $5,962.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+4. Cuando el valor de los actos a inscribir sea de más de
 
-5. Cuando el valor de los actos a inscribir sea de más de $293,228 y hasta de $335,120. $10,143
+$265,916 y hasta de $310,236. $8,346.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+5. Cuando el valor de los actos a inscribir sea de más de
 
-6. Cuando el valor de los actos a inscribir sea de más de $335,120. $11,292
+$310,236 y hasta de $354,557. $10,731.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+6. Cuando el valor de los actos a inscribir sea de más de
 
-Por la inscripción de créditos refaccionarios y de habilitación o avío en que intervengan el Fondo Instituido en Relación a la Agricultura o la Financiera Rural, el pago de los derechos se hará conforme a la siguiente:
+$354,557. $11,947.
 
-CONCEPTO TARIFA
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-A). Cuando el valor de la operación sea hasta $402,144. $369
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-B). Cuando el valor de la operación exceda de $410,187. $934
+Por la inscripción de créditos refaccionarios y de habilitación o avío en que intervengan el Fondo Instituido en Relación a la Agricultura o la Financiera Rural, se pagará por concepto de derecho, $650.
 
 > <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -7379,23 +3947,19 @@ B). Cuando el valor de la operación exceda de $410,187. $934
 
 Por las inscripciones o anotaciones de resoluciones judiciales que contengan actos mercantiles, se pagarán derechos:
 
-CONCEPTO TARIFA
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+TARIFA
 
-I. Providencias precautorias. $1,126
+CONCEPTO
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+I. Providencias precautorias. $1,191.
 
-II. Suspensión de pagos. $1,128
+II Suspensión de pagos. $1,194
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+III. Quiebras. $1,194.
 
-III. Quiebras. $1,128
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-IV. Otras resoluciones. $1,128
+IV. Otras resoluciones. $1,194.
 
 #### SECCION TERCERA. DEL IMPUESTO SOBRE CONJUNTOS URBANOS
 
@@ -7405,101 +3969,63 @@ IV. Otras resoluciones. $1,128
 
 Por la expedición de certificados y copias certificadas, se pagarán derechos conforme a la siguiente:
 
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
+
 TARIFA
 
 CONCEPTO
 
-> <small>(REFORMADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
-
 I. Expedición de certificados:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). De no inscripción. $561.
 
-A). De no inscripción. $531
+B). De no propiedad. $45.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+C). De inscripción. $556.
 
-B). De no propiedad. $43
+D). De libertad o de existencia de gravámenes. $647.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+Los derechos a que se refiere esta fracción, se pagarán por cada fracción de terreno, lote o vivienda.
 
-II. Expedición de certificados de
+II. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008) (REPUBLICADA, G.G. 1 DE ENERO DE 2009)
 
-inscripción. $531
+III. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008) (REPUBLICADA, G.G. 1 DE ENERO DE 2009)
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+IV. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008) (REPUBLICADA, G.G. 1 DE ENERO DE 2009)
 
-III. Expedición de certificados de libertad
+V. Por expedición de informes sobre la existencia o
 
-o existencia de gravámenes. $617
+inexistencia de testamentos. $471.
 
-Tratándose de la expedición de certificados
+VI. Por compulsa de documentos. $45.
 
-de libertad o existencia de gravámenes
+VII. Expedición de copias literales de asientos regístrales. $561.
 
-relacionados con la adquisición de viviendas
+VIII. Por la expedición del certificado de una secuencia
 
-de interés social, social progresiva o
+registral de un inmueble o asiento registral, por cada asiento
 
-popular. $106
+que se certifique. $475.
 
-Tratándose de terrenos en donde se construyan
+IX. Por la búsqueda y expedición, sin certificación, de
 
-viviendas de interés social, social progresiva o
+informes contenidos en los libros del Registro Público
 
-popular. $265
+de la Propiedad de antecedentes regístrales. $247.
 
-IV. (DEROGADA, G.G. 30 DE DICIEMBRE DE 2003)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-V. Por expedición de informes sobre la existencia
+En el caso de los certificados a que hace referencia la fracción I y tratándose de programas o campañas de regularización de la tenencia de la tierra llevadas a cabo por los organismos reguladores del Estado o de los municipios, quedarán exentos del pago de derechos, siempre y cuando el Instituto de la Función Registral del Estado de México sea parte en los convenios suscritos.
 
-o inexistencia de testamentos. $445
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-VI. Por compulsa de documentos. $43
+Cuando los servicios a que aluden las fracciones I, incisos C) y D), V, VII, VIII y IX de este artículo no se expidan, porque la solicitud contenga errores u omisiones y los derechos hayan sido cubiertos previamente, una vez subsanados los errores u omisiones, se extenderá la documentación solicitada, haciendo válido el pago efectuado.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-VII. Expedición de copias literales de
-
-asientos registrales. $531
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-VIII. Por la expedición del certificado de una
-
-secuencia registral de un inmueble o asiento
-
-registral, por cada asiento que se
-
-certifique. $449
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-IX. Por la búsqueda y expedición, sin
-
-certificación, de informes contenidos en los
-
-libros del Registro Público de la Propiedad
-
-de antecedentes registrales. $234
-
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
-
-Los derechos a que se refieren las fracciones I, II y III se pagarán por cada fracción de terreno, lote o vivienda.
-
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
-
-En el caso de certificados de no inscripción, de no propiedad o de libertad de gravámenes para fines de procedimientos por los que el Gobierno, o los ayuntamientos, lleven a cabo campañas de regularización de la tenencia de la tierra, quedarán exentos del pago de derechos señalados en las fracciones I y III.
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
-
-Cuando los servicios a que aluden las fracciones II, III, V, VII, VIII y IX de este artículo no se expidan, porque la solicitud contenga errores u omisiones y los derechos hayan sido cubiertos previamente, una vez subsanados los errores u omisiones, se extenderá la documentación solicitada, haciendo válido el pago efectuado.
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
 #### SECCION CUARTA. DEL IMPUESTO SOBRE ANUNCIOS PUBLICITARIOS
 
@@ -7511,9 +4037,9 @@ Cuando los servicios a que aluden las fracciones II, III, V, VII, VIII y IX de e
 
 ###### Artículo 84.
 
-Por la calificación de los documentos, cuando se devuelvan sin haberse practicado el registro o anotación correspondiente por carencia u omisión de requisitos, impedimento legal, por no cubrir los derechos dentro del plazo que señala el presente Código o a petición del interesado, se pagará por concepto de derechos $337.
+Por la calificación de los documentos, cuando se devuelvan sin haberse practicado el registro o anotación correspondiente por carencia u omisión de requisitos, impedimento legal, por no cubrir los derechos dentro del plazo que señala el presente Código o a petición del interesado, se pagará por concepto de derechos $357.
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 1 DE JULIO DE 2007)
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
 #### SECCION SEXTA. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
 
@@ -7521,27 +4047,27 @@ Por la calificación de los documentos, cuando se devuelvan sin haberse practica
 
 ###### Artículo 85.
 
-Por cotejo de documentos no autentificados que deban destinarse al apéndice, se pagarán por concepto de derechos $87.
+Por cotejo de documentos no autentificados que deban destinarse al apéndice, se pagarán por concepto de derechos $92.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
 ###### Artículo 86.
 
-Por la expedición de formas aprobadas, se pagarán por concepto de derechos $43.
+Por la expedición de formas aprobadas, se pagarán por concepto de derechos $45.
 
 ###### Artículo 87.
 
 Cuando un mismo título o documento origine dos o más inscripciones, los derechos se pagarán por cada una de ellas.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-Por la inscripción o anotación de modificaciones o rectificaciones relativas a inscripciones principales referentes a plazos, intereses, garantías, datos equivocados o cualesquiera otras que no constituyan novación de contrato, se pagará un derecho de $295, por cada una de ellas.
+Por la inscripción o anotación de modificaciones o rectificaciones relativas a inscripciones principales referentes a plazos, intereses, garantías, datos equivocados o cualesquiera otras que no constituyan novación de contrato, se pagará un derecho de $312, por cada una de ellas.
 
 Tratándose de instituciones y organizaciones de crédito y seguros, las inscripciones que deban hacerse pagarán los mismos derechos.
 
 ###### Artículo 87 Bis.
 
-(DEROGADO, G.G. 30 DE JUNIO DE 2006)
+(DEROGADO, G.G. 30 DE JUNIO DE 2006) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -7553,75 +4079,57 @@ Tratándose de instituciones y organizaciones de crédito y seguros, las inscrip
 
 Por los servicios prestados por el Archivo General de Notarías, se pagarán derechos conforme a la siguiente:
 
-CONCEPTO TARIFA
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+TARIFA
 
-I. Expedición de Testimonios, incluida
+CONCEPTO
 
-la autorización, por cada hoja. $43
+I. Expedición de Testimonios, incluida la autorización, por cada
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 1 DE JULIO DE 2007)
+hoja. $45.
 
-II. Expedición de copias certificadas de
+II. Expedición de copias certificadas de planos que obran en el
 
-planos que obran en el apéndice por cada
+apéndice por cada foja, Incluida la autorización. $92.
 
-foja, incluida la autorización. $87.
+III. Expedición de testimonio de escrituras mecanografiadas, por
 
-III. (DEROGADA, G.G. 30 DE DICIEMBRE DE 2003)
+hoja. $60.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+IV. Informe sobre existencia o inexistencia de testamento. $455.
 
-IV. Informe sobre existencia o inexistencia
+V. Búsqueda de antecedentes notariales. $45.
 
-de testamento. $430
+VI. Autorización definitiva de las escrituras o actas notariales
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+de valor determinado que no contengan cuota especial en este
 
-V. Búsqueda de antecedentes notariales. $43
+Código. $874.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+VII. Cuando se trate de actas o escrituras de valor indeterminado,
 
-VI. Autorización definitiva de las escrituras
+los derechos por autorización definitiva serán por una cantidad
 
-o actas notariales de valor determinado que
+equivalente a: $934.
 
-no contengan cuota especial en este Código. $826
+VIII. Por la cancelación de la disposición del patrimonio familiar. $440.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+IX. Por revocación, extinción y sustitución de poderes que se
 
-VII. Cuando se trate de actas o escrituras de
+asienten en nota complementaria dentro del acto jurídico que
 
-valor indeterminado, los derechos por
+corresponda. $450.
 
-autorización definitiva serán por una
-
-cantidad equivalente a: $883
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-VIII. Por la cancelación de la disposición del
-
-patrimonio familiar. $416
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-IX. Por revocación, extinción y sustitución de
-
-poderes que se asienten en nota complementaria
-
-dentro del acto jurídico que corresponda. $425
-
-X. (DEROGADA, G.G. 30 DE DICIEMBRE DE 2003)
+X. Deposito de aviso de testamento, por cada uno. $45.
 
 Por la autorización definitiva de escrituras que contengan diversos contratos o actos, los derechos se fijarán en su totalidad por cada uno de los actos o contratos principales, y en una mitad por los accesorios o complementarios.
 
-> <small>(REFORMADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS [N. DE E. REFORMADO], G.G. 1 DE ENERO DE 2009)
 
 ###### Artículo 89.
 
-Los notarios públicos deberán estimar el monto de los derechos a su cargo y efectuar el pago correspondiente de los derechos establecidos en esta subsección, directamente y bajo su responsabilidad ante las instituciones autorizadas, mediante la presentación, documental o por medios electrónicos, de los formatos autorizados para tal efecto por la Secretaria. Al presentar para su inscripción el testimonio respectivo, agregarán al mismo la comprobación correspondiente a los derechos ya cubiertos y el registrador de la propiedad calificará, posteriormente, el pago efectuado, conforme a sus atribuciones legales, determinando cantidades a favor o en contra.
+Los notarios públicos deberán, estimar el monto de los derechos a su cargo y efectuar el pago correspondiente de los derechos establecidos en esta subsección, directamente y bajo su responsabilidad ante las instituciones autorizadas, mediante la presentación, documental o por medios electrónicos de los formatos autorizados para tal efecto por el Instituto de la Función Registral. Al presentar para su inscripción el testimonio respectivo, agregará al mismo la comprobación correspondiente a los derechos ya cubiertos y el registrador de la propiedad calificará, posteriormente, el pago efectuado, conforme a sus atribuciones legales, determinando cantidades a favor o en contra.
 
 SUBSECCION QUINTA
 
@@ -7633,87 +4141,77 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DEL REGISTRO CI
 
 Por los servicios prestados por la Dirección General del Registro Civil, se pagarán los siguientes derechos:
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 26 DE DICIEMBRE DE 2007)
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-I. Expedición de copias certificadas en papel bond,
+I. Expedición de copias certificadas en papel bond
 
-de los apéndices de los procedimientos administrativos
+del apéndice de los procedimientos administrativos
 
 y de la documentación concentrada en la Dirección
 
-General del Registro Civil. $60
+General del Registro Civil. $64.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-II. Expedición de copia certificada del registro civil
+II. Expedición de copia certificada del Registro Civil en
 
-en papel bond para acuerdos de aclaración de
+papel bond para acuerdos de aclaración de actas,
 
-actas, concentradas en la Dirección General y
+concentradas en la Dirección General y oficinas regionales
 
-oficinas regionales del registro civil. $ 22
+del Registro Civil. $23.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 1 DE JULIO DE 2007)
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-III. Expedición de copias certificadas en papel seguridad
+III. Expedición de copia certificada en papel seguridad de las
 
-de las actas de los actos y/o hechos del estado civil
+actas de los actos y/o hechos del estado civil concentrados
 
-concentrados en la Dirección General. $44
+en la Dirección General. $47.
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 26 DE DICIEMBRE DE 2007)
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-IV. Por el dictamen de procedencia del divorcio
+IV. Por el dictamen de procedencia del divorcio administrativo. $880.
 
-administrativo. $439
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+V. Búsqueda en los libros y archivos del Registro Civil
 
-V. Búsqueda en los libros y archivos del registro
+que se encuentren concentrados en la Dirección
 
-civil que se encuentren concentrados en la
+General del Registro Civil, subdirecciones y oficinas
 
-Dirección General del Registro Civil,
+regionales, cuando no se señale fecha de registro, por
 
-subdirecciones y oficinas regionales, cuando
+cada año o fracción. $12.
 
-no se señale fecha de registro, por cada año
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-o fracción. $11
+VI. Por el trámite de aclaración de acta por vía administrativa
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+y el asentamiento de la anotación marginal correspondiente. $69.
 
-VI. Por el acuerdo de aclaración de acta por vía
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-administrativa realizado en la Dirección General,
+VII. Por certificación de constancia de inexistencia de registro. $47.
 
-subdirecciones y oficinas regionales. $65
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 1 DE JULIO DE 2007)
+VIII. Por cada hoja de papel seguridad para copia certificada. $2.
 
-VII. Por certificación de constancia de inexistencia
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-de registro. $44
+IX. Por juego de formato para el asentamiento de hechos y
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+actos del estado civil. $4.
 
-VIII. Por cada hoja de papel seguridad para copia
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-certificada. $2
+X. Por el servicio de encuadernación o rehabilitación de los
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 26 DE DICIEMBRE DE 2007)
+libros de Oficialía de las diversas actas de los actos y hechos
 
-IX. Por juego de formato para el asentamiento de
-
-hechos y actos del estado civil. $4
-
-(ACTUALIZADA EN SU CANTIDAD, G.G. 26 DE DICIEMBRE DE 2007)
-
-X. Por el servicio de encuadernación de los libros
-
-de Oficialía de las diversas actas de los actos
-
-y hechos del estado civil, por libro. $149
+del estado civil, por libro. $157.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -7721,61 +4219,37 @@ y hechos del estado civil, por libro. $149
 
 Por los servicios prestados por la Secretaría de Finanzas, se pagarán los siguientes derechos:
 
-CONCEPTO TARIFA
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+TARIFA
 
-l. Expedición de certificados por cada foja. $44
+CONCEPTO
 
-(ACTUALIZADA EN SU CANTIDAD, G.G. 1 DE JULIO DE 2007)
+I. Expedición de certificados por cada foja. $46.
 
-II. Expedición de formas aprobadas. $40
+II. Expedición de formas aprobadas. $43.
 
-III. Práctica de auditoria realizada a solicitud de particulares:
+III. Práctica de auditoría realizada a solicitud de particulares:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). Hora auditor. $38.
 
-A). Hora auditor. $35
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-B). Hora supervisor. $60
+B). Hora supervisor. $63.
 
 IV. Por el almacenaje de bienes muebles secuestrados y liberados en la vía del procedimiento administrativo de ejecución y no retirados oportunamente, se pagarán derechos de acuerdo con la siguiente:
 
-CONCEPTO TARIFA
+A). Cuando los bienes ocupen hasta I m2 de superficie, por día. $8.
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], G.G. 1 DE JULIO DE 2007)
+B). Por cada metro o fracción excedente, por día. $1.
 
-A). Cuando los bienes ocupen hasta 1 m2
+V. Expedición de copias microfilmadas a papel, por imagen. $12.
 
-de superficie, por día. $7.
+VI. Expedición de constancia de inexistencia de documentos. $24.
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], G.G. 1 DE JULIO DE 2007)
+VII. (DEROGADA, G.G. 27 DE DICIEMBRE DE 2005) (REPUBLICADA, G.G. 1 DE ENERO DE 2009)
 
-B). Por cada metro o fracción excedente,
+VIII. Expedición de constancias de pago de contribuciones y
 
-por día. $1.
-
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADO], G.G. 1 DE JULIO DE 2007)
-
-V. Expedición de copias microfilmadas a
-
-papel, por imagen. $11
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-VI. Expedición de constancia de inexistencia
-
-de documentos. $22
-
-VII. (DEROGADA, G.G. 27 DE DICIEMBRE DE 2005)
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-VIII. Expedición de constancias de pago de
-
-contribuciones. $113
+de constancias que reflejen la situación fiscal del contribuyente. $119.
 
 > <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -7787,135 +4261,163 @@ No pagarán estos derechos las empresas registradas en el Padrón Nacional de la
 
 Por los servicios de control vehicular prestados por la Secretaría de Finanzas, que sean de su competencia, se pagarán los siguientes derechos:
 
-I. Por la expedición inicial de placas, tarjeta de circulación y calcomanía:
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-A). Para vehículos de servicio particular y capacidades diferentes. $389
+TARIFA
 
-B). Para vehículos particulares de carga comercial. $673
+CONCEPTO
+
+1. Por la expedición inicial de placas, tarjeta de circulación y calcomanía:
+
+A). Para vehículos de servicio particular y capacidades diferentes. $450.
+
+B). Para vehículos particulares de carga comercial. $950.
 
 C). Para remolques:
 
-1. Con capacidad de carga de hasta 1,000 Kgs. $806
+1. Con capacidad de carga de hasta 1,000 Kgs. $1,175.
 
-2. Con capacidad de carga de 1,001 a 5,000 Kgs. $840
+2. Con capacidad de carga de 1,001 a 5,000 Kgs. $1,407.
 
-3. Con capacidad de carga de 5001 a 10,000 Kgs. $1,004
+3. Con capacidad de carga de 5.001 a 10,000 Kgs. $1,680.
 
-4. Con capacidad de carga de 10,001 Kgs., en adelante. $1,367
+4. Con capacidad de carga de 10,001 Kgs., en adelante. $2,288.
 
 D). Para motocicleta, motoneta, trimoto y cuadrimoto:
 
-1. Cilindrada hasta de 350 c.c. $374
+1. Cilindrada hasta de 350 c.c. $627.
 
-2. Cilindrada 351 c.c en adelante. $450
+2. Cilindrada 351 c.c en adelante. $753.
 
-E). Para auto antiguo. $970
+E). Para auto antiguo. $1,626.
 
 Para efectos del presente inciso, se entenderá por auto antiguo, a aquel vehículo con una antigüedad mínima de 30 años a partir de la fecha de su fabricación, que sus partes y componentes mecánicos y de carrocería conserven sus características de originalidad y de operación, debiendo contar con una certificación de sus condiciones físico-mecánicas, expedida por el fabricante u organismo de certificación, laboratorio de prueba o unidad de verificación debidamente acreditado.
 
-F). Por la obtención de un número de placas específico (sujeto a disponibilidad). $2,500
+F). (DEROGADO, G.G. 18 DE DICIEMBRE DE 2008) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
 Los derechos previstos en esta fracción se pagarán previamente a la prestación de los servicios o en su caso, dentro de los días considerados dentro del permiso provisional autorizado.
 
 II. Por refrendo anual:
 
-A). Para vehículos de uso particular y capacidades diferentes. $283
+A). Para vehículos de uso particular y capacidades diferentes. $299.
 
-B). Para vehículos particulares de carga comercial. $805
+B). Para vehículos particulares de carga comercial. $852.
 
 C). Para remolques:
 
-1. Con capacidad de carga de hasta 1,000 Kgs. $1,122
+l. Con capacidad de carga de hasta 1,000 Kgs. $1,187.
 
-2. Con capacidad de carga de 1,001 a 5,000 Kgs. $1,342
+2. Con capacidad de carga de 1,001 a 5,000 Kgs. $1,420.
 
-3. Con capacidad de carga de 5,001 a 10,000 Kgs. $1,603
+3. Con capacidad de carga de 5,001 a 10,000 Kgs. $1,696.
 
-4. Con capacidad de carga de 10,001 Kgs., en adelante. $2,183
+4. Con capacidad de carga de 10,001 Kgs., en adelante. $2,309.
 
-D) Para motocicleta, motoneta, trimoto y cuadrímoto:
+D). Para motocicleta, motoneta, trimoto y cuadrimoto:
 
-1. Cilindrada hasta de 350 c.c. $598
+l. Cilindrada hasta de 350 c.c. $633.
 
-2. Cilindrada 351 c.c. en adelante. $719
+2. Cilindrada 351 c.c en adelante. $761.
 
-E). Para auto antiguo. $1,551
+E). Para auto antiguo. $1,641.
 
 Los derechos previstos en esta fracción se pagarán anualmente de manera simultánea con el impuesto sobre tenencia, mediante declaración, dentro de los tres primeros meses de cada año.
 
-III. Por el duplicado o reposición de la tarjeta de circulación, con motivo de correcciones por errores imputables al contribuyente o actualizaciones de datos que afecten el registro en el padrón vehicular. $476
+III. Por el duplicado o reposición de la tarjeta de circulación,
 
-IV. Por cambio de propietario. $213
+con motivo de correcciones por errores imputables al
+
+contribuyente o actualizaciones de datos que afecten el
+
+registro en el padrón vehicular. $504.
+
+IV. Por cambio de propietario. $225.
 
 V. Por la expedición de permiso para circular sin placas y tarjeta de circulación hasta por treinta días:
 
-A). Para vehículos de uso particular. $121
+A). Para vehículos de uso particular. $128.
 
-B). Para vehículos particulares de carga comercial. $244
+B). Para vehículos particulares de carga comercial. $258.
 
-C). Para remolques. $244
+C). Para remolques. $258.
 
-D). Para motocicleta, motoneta, trimoto y cuadrimoto. $117
+D). Para motocicletas, motoneta, trimoto y cuadrimoto. $124.
 
 VI. Por la expedición del permiso para transportar carga en vehículo particular:
 
-A). Por ciento ochenta días. $596
+A). Por ciento ochenta días. $631.
 
-B). Para motocicletas, motonetas, trimoto y cuadrimoto por cada 30 días. $89
+B). Para motocicletas, motonetas, trimoto y cuadrimoto, por
+
+cada 30 días. $95.
 
 VII. Por el trámite de baja de vehículos o placas:
 
-A). Particular. $244
+A). Particular. $258.
 
-B). Vehículos particulares de carga comercial. $364
+B). Vehículos particulares de carga comercial. $386.
 
-C). Particular emplacado en otra entidad federativa. $ 0
+C). Particular emplacado en otra entidad federativa. $0.
 
-D). Remolque. $348
+D). Remolque. $368.
 
-E). Remolque emplacado en otra entidad federativa. $ 0
+E). Remolque emplacado en otra entidad federativa. $0.
 
-F). Motocicleta, motoneta, trimoto y cuadrimoto. $364
+F). Motocicleta, motoneta, trimoto y cuadrimoto. $386.
 
-G). Motocicleta, motoneta, trimoto y cuadrimoto, emplacada en otra entidad federativa.
+G). Motocicleta, motoneta, trimoto y cuadrimoto, emplacada
 
-VIII. Por la expedición con vigencia anual de placas de vehículos en demostración y traslado. $1,200
+en otra entidad federativa. $0.
+
+VIII. Por la expedición con vigencia anual de placas de vehículos
+
+en demostración y traslado. $1,270.
 
 IX. Por otros servicios relativos al transporte particular y comercial, se pagarán los siguientes derechos:
 
-A). Por la práctica anual de revista a vehículos particulares de carga. $308
+A.) Por la práctica de revista a vehículos particulares de carga. $326.
 
-B). Por la reposición del tarjetón de revista anual. $132
+Los derechos previstos en este inciso, se pagarán anualmente de manera simultánea con el Impuesto sobre Tenencia o Uso de Vehículos o el Impuesto sobre Tenencia o Uso de Vehículos Automotores, según corresponda, mediante declaración, dentro de los tres primeros meses de cada año.
 
-C). Por los servicios de certificación de extravío, mutilación o deterioro de documentos que amparen la circulación del vehículo. $43
+B). Por la reposición del tarjetón de revista anual. $140.
+
+C). Por los servicios de certificación de extravío, mutilación
+
+o deterioro de documentos que amparen la circulación del
+
+vehículo. $46.
 
 X. Por el canje de placas, tarjeta de circulación y calcomanía:
 
-A). Para vehículos de uso particular y capacidades diferentes. $381
+A). Para vehículos de uso particular y capacidades diferentes. $403.
 
-B). Para vehículos destinados a carga mercantil. $659
+B). Para vehículos destinados a carga mercantil. $697.
 
 C). Para remolques:
 
-1. Con capacidad de carga de hasta 1,000 Kg. $791
+1. Con capacidad de carga de hasta 1,000 Kgs. $837.
 
-2. Con capacidad de carga de 1,001 a 5,000 Kg. $824
+2. Con capacidad de carga de 1,001 a 5,000 Kgs. $872.
 
-3. Con capacidad de carga de 5,001 a 10,000 Kg. $984
+3. Con capacidad de carga de 5,001 a 10,00 Kgs. $1,041.
 
-4. Con capacidad de carga de 10,001 Kg., en adelante. $1,340
+4. Con capacidad de carga de 10,001 Kgs., en adelante. $1,418
 
-D). Para motocicleta, motoneta, trímoto y cuadrimoto.
+D). Para motocicleta, motoneta, trimoto y cuadrimoto:
 
-1. Hasta 350 c.c. $367
+1. Hasta 350 c.c. $388.
 
-2. Cilindrada 351 c.c., en adelante. $441
+2. Cilindrada 351 c.c., en adelante. $467.
 
-E). Para auto antiguo. $952
+E). Para auto antiguo. $1,007.
+
+XI. Por la obtención de un número de placas especifico sujeto a
+
+disponibilidad. $2,620.
 
 ###### Artículo 92.
 
-(DEROGADO, G.G. 26 DE DICIEMBRE DE 2007)
+(DEROGADO, G.G. 26 DE DICIEMBRE DE 2007) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -7923,345 +4425,223 @@ E). Para auto antiguo. $952
 
 Por los servicios prestados por la Secretaría de Educación, se pagarán derechos conforme a la siguiente:
 
-CONCEPTO TARIFA
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+TARIFA
 
-I. Por la inscripción al programa para la incorporación
+CONCEPTO
 
-gradual de los particulares que imparten educación
-
-preescolar al Sistema Educativo Estatal. $3,796
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+I. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008) (REPUBLICADA, G.G. 1 DE ENERO DE 2009)
 
 II. Por solicitud, estudio, revisión y resolución del trámite de autorización a instituciones particulares para impartir estudios, por plan de estudios, modalidad y turno:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). Preescolar. $4,016.
 
-A). Preescolar. $3,796
+B). Primaria. $4,179.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+C). Secundaria. $5,143.
 
-B). Primaria. $3,950
+D). Normal. $7,736.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+III. Por solicitud, estudio, revisión y resolución del trámite
 
-C). Secundaria. $4,861
+de reconocimiento de validez oficial de estudios, por plan
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+de estudios, a escuelas particulares de educación media
 
-D). Normal. $7,315
+superior. $6,686.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+IV. Por solicitud, estudio, revisión y resolución del trámite
 
-III. Por solicitud, estudio, revisión y
+de reconocimiento de validez oficial de estudios por plan
 
-resolución del trámite de reconocimiento
+de estudios o carrera a escuelas particulares de educación
 
-de validez oficial de estudios, por plan
+superior. $8,359.
 
-de estudios, a escuelas particulares de
+V. Por solicitud, estudio, revisión y resolución del trámite de reconocimiento de validez oficial de estudios por turno y por modalidad, a escuelas particulares.
 
-educación media superior. $6,320.
+A). Educación Media Superior. $6,686.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+B). Educación Superior. $8,359.
 
-IV. Por solicitud, estudio, revisión y
+VI. Por vigencia anual de derechos, por reconocimiento a escuelas particulares de educación media superior:
 
-resolución del trámite de reconocimiento
+A). Por plan de estudio o carrera. $5,851.
 
-de validez oficial de estudios por plan
+B). Por modalidad y turno. $5,851.
 
-de estudios o carrera a escuelas particulares
+VII. Por vigencia anual de derechos, por reconocimiento a escuelas particulares de educación superior:
 
-de educación superior. $7,900.
+A). Por plan de estudio o carrera. $7,315.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+B). Por modalidad y turno. $7,315.
 
-V. Por solicitud, estudio, revisión y resolución del trámite de reconocimiento de validez oficial de estudios por turno y por modalidad, a escuelas particulares:
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-A). Educación Media Superior. $6,319
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-B). Educación Superior. $7,901
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-VI. Por vigencia anual de derechos, por
-
-reconocimiento de plan de estudios a
-
-escuelas particulares de educación media
-
-superior. $5,851
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-VII. Por vigencia anual de derechos, por
-
-reconocimiento, por carrera a escuelas
-
-particulares de educación superior. $7,315
-
-VIII. Por vigencia anual de derechos, plan de estudios, modalidad y turno a escuelas particulares:
+VIII. Por vigencia anual de derechos por turno, a escuelas particulares:
 
 A). Autorización:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Preescolar. $4,183.
 
-1. Preescolar . $3,515
+2. Primaria. $4,332.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+3. Secundaria. $5,098.
 
-2. Primaria. $3,657
+4. Normal. $8,166.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+5. Escuelas inscritas en el programa de incorporación gradual
 
-3. Secundaria. $4,388
+a particulares que prestan servicio de educación preescolar
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+al Sistema Educativo Estatal. $4,324.
 
-4. Normal. $7.315
+B). (DEROGADO, G.G. 1 DE ENERO DE 2009) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+C). (DEROGADO, G.G. 1 DE ENERO DE 2009) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
-5. Escuelas inscritas en el programa de
+IX. Por servicios de evaluación, orientación o asesoría en
 
-incorporación gradual a particulares que
+materia administrativa o pedagógica, otorgados a
 
-prestan servicio de educación preescolar. $3,649
+instituciones educativas particulares de tipo básico,
 
-B). Reconocimiento de validez oficial de estudios:
+normal, medio superior y superior, por cada alumno de
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+nuevo ingreso matriculado en el plantel educativo,
 
-1. Educación Media Superior $5,851
+por una sola vez, independientemente del grado o ciclo
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-2. Educación Superior $7,315
-
-C). (DEROGADO, G.G. 27 DE DICIEMBRE DE 2005) (F. DE E., G.G. 6 DE MARZO DE 2006)
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-IX. Por servicios de evaluación, orientación o asesoría en materia administrativa o pedagógica, otorgados a instituciones educativas particulares de tipo básico, normal, medio superior y superior, por cada alumno de nuevo ingreso matriculado en el plantel educativo, por una sola vez, independientemente del grado o ciclo que curse. $59
+que curse. $62.
 
 X. Por cambios diversos:
 
 A). Por cambio de plan de estudio:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Educación Media Superior para Profesional Medio. $2,896.
 
-1. Educación Media Superior para
+2. Educación Superior. $2,896.
 
-Profesional Medio. $2,737
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-2. Educación Superior. $2,737
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-B). Por cambio de denominación de
-
-carrera de educación superior. $791
+B). Por cambio de denominación de carrera de educación superior.$837.
 
 C). Por actualización de contenidos de programas de estudios:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Educación Media Superior para Profesional Medio. $837.
 
-1. Educación Media Superior
-
-para Profesional Medio. $791
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-2. Educación Superior. $791
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+2. Educación Superior. $837.
 
 D). Por cambio de nombre del plantel, titular de incorporación, representante legal, apoderado legal, director escolar, docente de grupo, domicilio o turno:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Educación Básica. $837.
 
-1. Educación Básica. $791
+2. Educación Media Superior. $837.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-2. Educación Media Superior. $791
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-3. Educación Superior. $791
-
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+3. Educación Superior. $837.
 
 E). Por cambio de plantilla de personal docente:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Educación Media Superior. $837.
 
-1. Educación Media Superior. $791
+2. Educación Superior. $837.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+No se causarán los derechos a que hace referencia el inciso D) de esta fracción, respecto del cambio de personal, cuando el particular acredite que el director o docente sustituido goza de incapacidad otorgada por la institución de seguridad social correspondiente.
 
-2. Educación Superior. $791
-
-XI. Por expedición de certificados o de duplicados (sic) certificados de estudios realizados en escuelas estatales oficiales o particulares incorporadas:
-
-> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+XI. Por expedición de certificados o de duplicados de certificados de estudios realizados en escuelas estatales oficiales o particulares incorporadas:
 
 A). Por expedición de certificado:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Educación Media Superior. $132.
 
-1. Educación Media Superior. $125
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-2. Educación Superior. $176
+2. Educación Superior. $186.
 
 B). Por duplicado de certificado:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Educación Básica. $78.
 
-1. Educación Básica. $73
+2. Educación Media Superior. $132.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-2. Educación Media Superior. $125
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-3. Educación Superior. $176
+3. Educación Superior. $186.
 
 XII. Por resolución de revalidación de estudios o expedición de duplicados:
 
 A). Por resolución:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Educación Básica. $39.
 
-1. Educación Básica. $37
+2. Educación Media Superior. $234.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-2. Educación Media Superior. $221
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-3. Educación Superior. $663
+3. Educación Superior. $701.
 
 B). Por duplicado:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Educación Media Superior. $83.
 
-1. Educación Media Superior. $79
+2. Educación Superior. $194.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+C). Por modificación o enmienda
 
-2. Educación Superior. $184
+l. Educación Media Superior. $61.
 
-C). Por modificación o enmienda:
+2. Educación Superior. $194.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+XIII. Por resolución de equivalencia de estudios o expedición de duplicado:
 
-1. Educación Media Superior. $57
+A). Por resolución:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Educación Medio Superior. $232.
 
-2. Educación Superior. $184
+2. Educación Superior. $694.
 
-XIII. Por resolución por equivalencia de estudios de tipo:
+B). Por duplicado:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Educación Media Superior. $79.
 
-A). Medio Superior. $221
+2. Educación Superior. $184.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+XIV. Por expedición de cédula de pasante para el ejercicio
 
-B). Superior. $663
+profesional. $836.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+XV. Por expedición de duplicado de cédula de pasante
 
-XIV. Por expedición de cédula de pasante para el
-
-ejercicio profesional . $790
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XV. Por expedición de duplicado de cédula de
-
-pasante en el ejercicio profesional. $395
-
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+para el ejercicio profesional. $418.
 
 XVI. Por inscripción de:
 
-A). Títulos profesionales:
+A). Títulos profesionales con timbre holograma:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Licenciatura o grado académico. $515.
 
-1. Licenciatura o grado académico. $487
+2. Profesional Técnico o Técnico Superior Universitario. $313.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+B). Certificado, constancia o diplomas de especialidad con
 
-2. Profesional Técnico o Técnico
+timbre holograma. $515.
 
-Superior Universitario. $296
+XVII. Por registro de colegios de profesionistas. $5,931.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+XVIII. Por enmienda al registro de los colegios de profesionistas. $837.
 
-B). Certificados, constancias o
+XIX. Refrendo de registro de colegios de profesionistas. $837.
 
-diplomas de especialidad. $487
+XX. Autorización temporal para ejercer la actividad de perito. $837.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+XXI. Refrendo y expedición de duplicado a la autorización para
 
-XVII. Por registro de colegios de
+ejercer la actividad de perito. $837.
 
-profesionistas. $5,606
+XXII. Por la expedición de hojas de servicio, por cada hoja. $23.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+XXIII. Por la expedición de constancia de antecedentes
 
-XVIII. Por enmienda al registro de los
+profesionales. $55.
 
-colegios de profesionistas. $791
+XXIV. Por solicitud, estudio, revisión y resolución del trámite
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+de aprobación del reglamento académico o de titulación, o de
 
-XIX. Refrendo de registro de colegios de
+la actualización del mismo, a planteles particulares de tipo
 
-profesionistas. $791
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XX. Autorización temporal para ejercer la
-
-actividad de perito. $791
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XXI. Refrendo y expedición de duplicado
-
-a la autorización para ejercer la
-
-actividad de perito. $791
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XXII. Por expedición de hojas de servicio, por
-
-cada hoja. $22
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XXIII. Por la expedición de constancia de
-
-antecedentes profesionales. $52
+superior. $829.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -8269,127 +4649,83 @@ antecedentes profesionales. $52
 
 Por los servicios prestados por el Organismo Público Descentralizado denominado Servicios Educativos Integrados al Estado de México, se pagarán derechos conforme a la siguiente:
 
-CONCEPTO TARIFA
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+TARIFA
+
+CONCEPTO
 
 I. Por la autorización de instituciones particulares para impartir estudios, por plan de estudios, modalidad y turno de educación:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). Preescolar. $4,179.
 
-A). Preescolar. $3,950
+B). Primaria. $4,179.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+C). Secundaria. $5,013.
 
-B). Primaria. $3,950
+D). Normal. $7,739.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-C). Secundaria. $4,738
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-D). Normal. $7,315
-
-II. (DEROGADA, G.G. 30 DE JUNIO DE 2006)
-
-> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+II. (DEROGADA, G.G. 30 DE JUNIO DE 2006) (REPUBLICADA, G.G. 1 DE ENERO DE 2009)
 
 III. Por vigencia anual de derechos, por plan de estudios, modalidad, carrera y turno a escuelas particulares:
 
 A). Autorización:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Preescolar. $3,869.
 
-1. Preescolar. $3,657
+2. Primaria. $3,869.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+3. Secundaria. $4,644.
 
-2. Primaria. $3,657
+4. Normal. $7,739.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+B). A escuelas inscritas en el programa para la incorporación
 
-3. Secundaria. $4,389
+gradual de los particulares que imparten educación
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-4. Normal. $7,315
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-B). A escuelas inscritas en el programa para
-
-la incorporación gradual de los particulares
-
-que imparten educación preescolar al
-
-Sistema Educativo Estatal. $3,796.
-
-> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+preescolar al Sistema Educativo Estatal. $4,016.
 
 IV. Por expedición de certificados o duplicado de certificados de estudios realizados en escuelas oficiales o particulares incorporadas, de tipo:
 
-A). Certificados:
+A) Certificados:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Educación Normal. $186.
 
-1. Educación Normal. $176
+2. (DEROGADO, G.G. 30 DE JUNIO DE 2006) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
 B). Duplicados:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Educación Básica. $78.
 
-1. Educación Básica. $73
+2. Educación Normal. $185.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-2. Educación Normal. $175
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-V. Por dictamen de revalidación de estudios
-
-de tipo Básico. $37
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+V. Por dictamen de revalidación de estudios tipo Básico. $39.
 
 VI. Por servicios de evaluación, orientación o asesoría en
 
-materia administrativa o pedagógica, otorgados a instituciones
+materia administrativa o pedagógica, otorgados a
 
-educativas particulares de tipo básico, normal, medio superior
+instituciones educativas particulares de tipo básico, normal,
 
-y superior por cada alumno de nuevo ingreso matriculado en
+medio superior y superior por cada alumno de nuevo
 
-el plantel educativo, por una sola vez independientemente del
+ingreso matriculado en el plantel educativo, por una sola
 
-grado o ciclo que curse. $59
-
-> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+vez independientemente del grado o ciclo que curse. $62.
 
 VII. Por cambio del nombre del plantel, titular de incorporación, representante legal, apoderado legal, director escolar, domicilio o turno:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Educación Básica. $837.
 
-1. Educación Básica. $791
+2. Educación Media Superior. $837.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+3. Educación Superior. $837.
 
-2. Educación Media Superior. $791
+VIII. Por la inscripción al programa para la incorporación
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+gradual de los particulares que imparten educación
 
-3. Educación Superior. $791
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-VIII. Por la inscripción al programa para la
-
-incorporación gradual de los particulares
-
-que imparten educación preescolar
-
-al Sistema Educativo Estatal. $3,796
+preescolar al Sistema Educativo Estatal. $4,016.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 30 DE DICIEMBRE DE 2006)</small>
 
@@ -8399,9 +4735,9 @@ al Sistema Educativo Estatal. $3,796
 
 Por los servicios prestados por la Secretaría de Desarrollo Urbano se pagarán los siguientes derechos:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE JULIO DE 2007)</small>
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS [N. DE E. REFORMADO PRIMER PARRAFO], G.G. 1 DE ENERO DE 2009)
 
-I. Por la supervisión de las obras de urbanización infraestructura y equipamiento de conjuntos urbanos, lotificaciones condominales y, en su caso, de subdivisiones de más de 6,000 metros cuadrados de superficie, se pagarán derechos equivalentes al 2% sobre el monto total del presupuesto aprobado, a costo directo de las obras.
+I. Por la supervisión de la obras de urbanización, infraestructura y equipamiento de conjuntos urbanos, lotificaciones condominiales (sic) y, en su caso, de subdivisiones de más de 6,000 metros cuadrados de superficie, se pagarán derechos equivalentes al 2% sobre el monto total del presupuesto aprobado, a costo directo de las obras según corresponda.
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -8413,75 +4749,67 @@ Tratándose de conjuntos urbanos y lotificaciones en condominio habitacionales d
 
 II. Por la expedición de duplicados existentes en archivo, se pagarán los derechos conforme a la siguiente:
 
-CONCEPTO TARIFA
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+TARIFA
 
-A). Por el duplicado de la primera hoja simple. $43
+CONCEPTO
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). Por el primer duplicado de la primera hoja simple. $46.
 
-B). Por el duplicado de las
+B). Por el duplicado de las subsecuentes hojas simples. $22.
 
-subsecuentes hojas simples. $21
+C). Por duplicado de cada plano. $125.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-C). Por duplicado de cada plano. $119
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-D). Por el duplicado de planos con material
-
-proporcionado por el usuario. $84
+D). Por el duplicado de planos con material proporcionado por el usuario. $89.
 
 La expedición certificada de estos documentos, pagará un tanto adicional de la tarifa anterior correspondiente;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADO PRIMER PARRAFO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-III. Por la expedición de nombramientos de peritos responsables de obras, se pagarán derechos equivalentes a $1,040.
+III. Por la expedición de nombramientos de peritos responsables de obras, se pagarán derechos equivalentes a $1,101.
 
-Por el refrendo anual del nombramiento de perito responsable de obra, se pagará el 50% de la tarifa establecida.
+Por el refrendo anual del nombramiento de perito responsable de obra, se pagará el 50% de la tarifa establecida;
 
 > <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 Por la reposición de la credencial de perito responsable de obra que se encuentre vigente, se pagará el 50% de la tarifa establecida.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-IV. Por los dictámenes para usos de impacto regional o dictámenes de factibilidad para conjuntos urbanos se pagará una cuota de $2,601.
+IV. Por los dictámenes para usos de impacto regional o dictámenes de factibilidad para conjuntos urbanos se pagará una cuota de $2,752.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-V. Por las constancias de viabilidad o de aprovechamiento inmobiliario se pagará una cuota de $2,601.
+V. Por las constancias de viabilidad o de aprovechamiento inmobiliario se pagará una cuota de $2,752.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-VI. Por la expedición de informe técnico urbano, $993.
+VI. Por la expedición de informe técnico urbano, $1,050.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-VII. Por el trámite para sustituir los lotes constituidos en garantía hipotecaria por fianza o viceversa o la combinación de ambas se pagarán $468.
+VII. Por el trámite para sustituir los lotes constituidos en garantía hipotecaria por fianza o viceversa o la combinación de ambas se pagarán. $495.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-VIII. Por el trámite para permitir gravar, fideicomitir o afectar para si en alguna forma, los lotes vendibles de un conjunto urbano o áreas privativas de un condominio se pagarán $468.
+VIII. Por el trámite para permitir gravar, fideicomitir o afectar para sí en alguna forma, los lotes vendibles de un conjunto urbano o áreas privativas de un condominio, se pagarán. $495.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-IX. Por la aprobación de proyectos arquitectónicos de equipamiento urbano para conjuntos urbanos y condominio se pagarán $1,040.
+IX. Por la aprobación de proyectos arquitectónicos de equipamiento urbano para conjuntos urbanos y condominio, se pagarán. $1, 101.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 95.
 
-Por los servicios prestados por la Secretaría de Agua y Obra Pública a través del Organismo Público Descentralizado denominado Comisión del Agua del Estado de México se pagarán los derechos sin exención alguna conforme a lo siguiente:
+Por los servicios prestados por el Organismo Público Descentralizado, denominado, Comisión del Agua del Estado de México se pagarán los derechos sin exención alguna conforme a lo siguiente:
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 I. Por la conexión de la toma para el suministro de agua en bloque proporcionada por la Comisión del Agua del Estado de México, se pagará de acuerdo a la siguiente:
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
 TARIFA
 
@@ -8489,11 +4817,11 @@ GRUPO DE MUNICIPIOS
 
 M3/día 1 2 3 4
 
-Uso doméstico $2,419 $2,273 $2,129 $1,985
+Uso doméstico $2,599 $2,405 $2,252 $2,100
 
-Uso no doméstico $3,024 $2,733 $2,539 $2,392
+Uso no doméstico $3,199 $2,892 $2,686 $2,531
 
-Para su aplicación se atenderá a la clasificación de municipios contenida en el artículo 140 de este Código.
+Para su aplicación se atenderá a la clasificación de municipio contenida en el artículo 140 de este código.
 
 Por cada metro cúbico adicional al de la toma inicial, se pagará de acuerdo a la tarifa anterior.
 
@@ -8513,33 +4841,37 @@ La Comisión del Agua del Estado de México conjuntamente con los municipios o s
 
 Cuando los derechos a que se refiere esta fracción sean pagados previamente por quienes lleven a cabo los nuevos conjuntos urbanos a los ayuntamientos o sus descentralizadas, éstos deberán pagar los derechos a la Comisión del Agua del Estado de México por los servicios prestados, en un plazo no mayor de diez días después de haber recibido el pago.
 
-II. Por los servicios proporcionados a través del organismo público descentralizado denominado Comisión del Agua del Estado de México, se pagarán los siguientes derechos:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+II. Por los servicios proporcionados a través de la Comisión del Agua del Estado de México, se pagarán los siguientes derechos:
 
 A). Para el suministro de agua en bloque, se pagará de acuerdo con la siguiente:
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
 TARIFA
 
-GRUPO 1 1b 2 3 4 Otros
+GRUPO I I b 2 3 4 Otros
 
-$/m3 5.42 5.01 4.48 3.90 3.02 6.50
+$/M3 5.73 5.30 4.74 4.13 3.2 6.88
 
 Para su aplicación se atenderá a la clasificación siguiente:
 
 > <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-Grupo 1. Atizapán de Zaragoza, Coacalco de Berriozábal, Cuautitlán, Cuautitlán Izcalli, Ecatepec de Morelos, Naucalpan de Juárez, Tlalnepantla de Baz y Tultitlán.
+Grupo I. Atizapán de Zaragoza, Coacalco de Berriozábal, Cuautitlán, Cuautitlán Izcalli, Ecatepec de Morelos, Naucalpan de Juárez, Tlalnepantla de Baz y Tultitlán.
 
-Grupo 1 b. Chimalhuacán, Huixquilucan, Ixtapaluca, La Paz, Lerma, Nezahualcóyotl, Nicolás Romero, Tepotzotlán, Toluca y Valle de Chalco Solidaridad.
+Grupo I b. Chimalhuacán, Huixquilucan, Ixtapaluca, La Paz, Lerma, Nezahualcóyotl, Nicolás Romero, Tepotzotlán, Toluca y Valle de Chalco Solidaridad.
 
-Grupo 2. Atlacomulco, Chicoloapan, Huehuetoca, Nextlalpan, Ocoyoacac, Tecámac, Tianguistenco, Tultepec y Zumpango.
+Grupo 2. Atlacomulco, Chícoloapan, Huehuetoca, Nextlalpan, Ocoyoacac, Tecamac, Tianguistenco, Tultepec y Zumpango.
 
 Grupo 3. Almoloya de Juárez, Amecameca, Atlautla, Coyotepec, Hueypoxtla, Ixtlahuaca, Jaltenco, Otumba, Tenango del Valle, Teoloyucan, Tequixquiac y Tlalmanalco.
 
 > <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-Grupo 4. Axapusco, Ayapango, Ecatzingo, Jilotepec, Joquicingo, Juchitepec, Luvianos, Ozumba, San Simón de Guerrero, Soyaniquilpan de Juárez, Tejupilco, Temascaltepec, Tenango del Aire, Tepetlixpa y Timilpan.
+Grupo 4. Axapusco, Ayapango, Ecatzingo, Jilotepec, Joquicingo, juchitepec, Luvianos, Ozumba, San Simón de Guerrero, Soyaniquilpan de Juárez, Tejupilco, Temascaltepec, Tenango del Aire, Tepetlixpa y Timilpan
 
 > <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -8547,17 +4879,17 @@ Otros: Quedan comprendidos en forma transitoria en esta tarifa aquellos usuarios
 
 En caso de que un municipio distinto a los anteriores solicite el servicio, será clasificado de acuerdo al análisis de sus características socio-económicas y al costo que implique prestar el servicio, para incluirlo en algún grupo.
 
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 B). Para usuarios que tengan asignación directa de la Comisión Nacional del Agua y utilicen la infraestructura que opera la Comisión del Agua del Estado de México, para la conducción de los volúmenes asignados, pagarán:
 
-Por cada metro cúbico de agua asignada de fuentes federales (Sistema Cutzamala y pozos del Valle-PAI), $1.4103.
-
-Adicionalmente por cada metro cúbico proveniente del Sistema Cutzamala, por concepto de aportación de mejoras (Sistema Chilesdo), $0.0941.
+Por cada metro cúbico de agua asignada de fuentes federales $1.4779.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-C). Por el suministro de agua en bloque a los ayuntamientos, mediante la venta de cupones y entrega a carros tanque, se pagarán $8.44 por metro cúbico.
+C). Por el suministro de agua en bloque a los ayuntamientos, mediante la venta de cupones y entrega a carros tanque, se pagarán $ 8.93 por metro cúbico.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -8569,57 +4901,61 @@ D). Por el suministro y aprovechamiento de Agua residual tratada.
 
 Por el agua disponible dentro de las instalaciones de las plantas de tratamiento de jurisdicción estatal, se pagará conforme a la siguiente:
 
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
+
 TARIFA
 
 Usos Pesos/m3
 
-Uso a cargo del municipio $1.63
+Uso a cargo del municipio $1.72
 
-Otros usos $3.79
+Otros usos $4.01
 
-Este pago no aplica cuando exista intercambio de agua, en este caso se establecerá convenio entre el usuario, la Secretaría del Agua y Obra Pública y la Comisión del Agua del Estado de México para obligarse a liberar agua de primer uso por un caudal similar al recibido de agua tratada.
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS [N. DE E. REFORMADO], G.G. 1 DE ENERO DE 2009)
+
+Este pago no aplica cuando haya intercambio de agua, en este caso se establecerá convenio o contrato, entre el usuario, la Secretaría del Agua y Obra Pública y la Comisión del Agua del Estado de México para obligarse a liberar agua de primer uso por un caudal similar al recibido de agua tratada.
 
 E). Conexión, tratamiento y manejo ecológico de aguas residuales:
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-1. Por la conexión a colectores que descargan en las plantas de tratamiento se pagarán $2,454 por m3/día.
+1. Por la conexión a colectores que descargan en las plantas de tratamiento se pagarán $2,596 por m3/día.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-2. Por el tratamiento de aguas residuales en las plantas de tratamiento se pagará una tarifa de $3.49 por metro cúbico.
+2. Por el tratamiento de aguas residuales en las plantas de tratamiento se pagará una tarifa de $3.69 por metro cúbico.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 Las descargas que ingresen a los colectores que drenan a las plantas de tratamiento de jurisdicción estatal, no deberán exceder de los límites máximos permisibles de contaminación que señale el organismo y observarán las normas oficiales mexicanas en la materia, así como las observaciones que emitan otras autoridades competentes.
 
-Los usuarios cuyas descargas excedan los límites establecidos en la tarifa anterior, podrán optar por utilizar las instalaciones de las plantas, en cuyo caso deberán suscribir el convenio correspondiente para la prestación del servicio.
+Los usuarios cuyas descargas excedan los límites establecidos en la tarifa anterior, podrán optar por utilizar las instalaciones de las plantas, en cuyo caso deberán suscribir el convenio o contrato correspondiente para la prestación del servicio.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-F). Por el suministro y recarga de reactivos Gas-Cloro e Hipoclorito de Sodio y mantenimiento de equipos de cloración, se pagarán $0.109 por metro cúbico.
+F). Por el suministro y recarga de reactivos Gas-Cloro e Hipoclorito de Sodio y mantenimiento de equipos de cloración, se pagarán $0.115 por metro cúbico.
 
 > <small>(ADICIONADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 III. Por la expedición de duplicados existentes en archivo, se pagarán los derechos conforme a la siguiente:
 
-> <small>(REFORMADO [N. DE E. ACTUALIZADO EN SU CANTIDAD], G.G. 29 DE DICIEMBRE DE 2006)</small>
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-A). Por duplicado de cada plano $113.
+CONCEPTO TARIFA
 
-> <small>(REFORMADO [N. DE E. ACTUALIZADO EN SU CANTIDAD], G.G. 29 DE DICIEMBRE DE 2006)</small>
+A). Por duplicado de cada plano $120
 
-B). Por duplicado de planos con material
+B). Por el duplicado de planos con material proporcionada por
 
-proporcionado por el usuario $80.
+el usuario $85
 
 La iniciativa de reforma de cuotas y tarifas previstas en el presente artículo, deberán ser presentadas a más tardar el 15 de octubre a la Legislatura.
 
-> <small>N. DE E. EL PRESENTE PARRAFO HA SIDO REUBICADO, PERTENECIA A LA FRACCION II, COMO SEGUNDO PARRAFO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-Para efectos de aplicación de las tarifas previstas en este artículo, deberá atenderse invariablemente a las características, circunstancias y costos de los servicios. Las autoridades municipales competentes, tratándose de municipios u organismos descentralizados; los representantes legales de los conjuntos urbanos; o particulares que requieran cualquiera de los servicios prestados por la Comisión del Agua del Estado de México, deberán firmar el convenio y pagar los derechos contra la prestación del servicio, durante los treinta días posteriores a aquel en que se haya recibido el servicio.
+Para efectos de aplicación de las tarifas previstas en este artículo, deberá atenderse invariablemente a las características circunstancias y costos de los servicios. Las autoridades municipales competentes, tratándose de municipios u organismos descentralizados; los representantes legales de los conjuntos urbanos; o particulares que requieran cualquiera de los servicios prestados por la Comisión del Agua del Estado de México, deberán firmar el contrato o convenio correspondiente y pagar los derechos contra la prestación del servicio, durante los treinta días posteriores a aquel en que se haya recibido el servicio.
 
 > <small>N. DE E. EL PRESENTE PARRAFO HA SIDO REUBICADO, PERTENECIA A LA FRACCION II, COMO TERCER PARRAFO</small>
 
@@ -8633,13 +4969,9 @@ Los contribuyentes tendrán la obligación de presentar la declaración de pago 
 
 La parte de los ingresos de la Comisión del Agua del Estado de México que exceda el límite autorizado para el mes que corresponda, se deberá enterar a la Caja General de Gobierno del Estado.
 
-> <small>(REFORMADO [N. DE E., ADICIONADO], G.G. 27 DE MARZO DE 2008)</small>
-
 ###### Artículo 95 Bis.
 
-La Comisión del Agua del Estado de México, para efectos de las solicitudes de retención y pago de derechos y aprovechamientos por concepto de agua, a que se refieren los artículos 51 de la Ley de Coordinación Fiscal y 230 B de este ordenamiento, deberá entregar a la Comisión Nacional del Agua durante los primeros 10 días de cada mes, un informe sobre los volúmenes de agua suministrada a los municipios, incluyendo sus organismos operadores de agua.
-
-En caso de que la Comisión Nacional del Agua considere que existe alguna diferencia entre los volúmenes suministrados o adeudos informados, lo hará del conocimiento de la Comisión del Agua del Estado de México a fin de que en su caso se lleven al cabo los ajustes correspondientes.
+(DEROGADO, G.G. 1 DE ENERO DE 2009)
 
 ###### Artículo 96.
 
@@ -8691,209 +5023,139 @@ II. (DEROGADA, G.G. 30 DE DICIEMBRE DE 2003)
 
 Por el uso o aprovechamiento del derecho de vía estatal, así como por los servicios prestados por la Junta de Caminos, respecto de las concesiones, permisos o autorizaciones, se pagarán los siguientes derechos:
 
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
+
 TARIFA
 
 CONCEPTO
 
-I. Canalizaciones Superficiales por cada metro:
-
-> <small>(REFORMADO, G.G. 1 DE JULIO DE 2007)</small>
-
-A). De 0 a 999 metros. $11.
-
-> <small>(REFORMADO, G.G. 1 DE JULIO DE 2007)</small>
-
-B). A partir de 1000 metros. $7.
-
-II. Canalizaciones subterráneas por cada metro:
-
-> <small>(REFORMADO, G.G. 1 DE JULIO DE 2007)</small>
+I. Canalizaciones Superficiales por cada metro.
 
 A). De 0 a 999 metros. $12.
 
-> <small>(REFORMADO, G.G. 1 DE JULIO DE 2007)</small>
+B). A partir de 1000 metros. $8.
 
-B). A partir de 1000 metros. $7.
+II. Canalizaciones subterráneas por cada metro:
+
+A). De 0 a 999 metros. $13.
+
+B). A partir de 1000 metros. $8.
 
 III. Instalación de postería por cada metro:
 
-> <small>(REFORMADO, G.G. 1 DE JULIO DE 2007)</small>
-
 A). De 0 a 999 metros. $4.
-
-> <small>(REFORMADO, G.G. 1 DE JULIO DE 2007)</small>
 
 B). A partir de 1000 metros. $4.
 
 IV. Cruzamientos por cada metro:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). Aéreo. $45.
 
-A). Aéreo. $42
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-B). Subterráneo. $88
+B). Subterráneo. $93.
 
 V. Instalaciones marginales aéreas por cada metro:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). De 0 a 999 metros. $9.
 
-A). De 0 a 999 metros. $9
-
-> <small>(REFORMADO, G.G. 1 DE JULIO DE 2007)</small>
-
-B) A partir de 1000 metros. $6.
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+B). A partir de 1000 metros. $6.
 
 VI. Por el uso y aprovechamiento del derecho de vía para la colocación de señales informativas y estructuras con fines de publicidad, se pagarán anualmente los siguientes derechos:
 
 A). Elaboración de estudio técnico:
 
-1. Por señal informativa. $ 279.40
+1. Por señal informativa. $296.
 
-2. Por estructura para anuncios publicitarios. $2,794
+2. Por estructura para anuncios publicitarios. $2,956.
 
 B). Uso y aprovechamiento del derecho de vía:
 
-1. Por señal informativa de hasta 10 metros cuadrados. $1,899
+1. Por señal informativa de hasta I0 metros cuadrados. $2,009.
 
 2. Por estructura para anuncios publicitarios, según el tamaño, de acuerdo con lo siguiente:
 
-a) Hasta 10 metros cuadrados $ 1,944
+a) Hasta I0 metros cuadrados $2,057.
 
-b) Más de 10 y hasta 20 metros cuadrados $3,989
+b) Más de 10 y hasta 20 metros cuadrados $4,220.
 
-c) Más de 20 y hasta 30 metros cuadrados $5,983
+c) Más de 20 y hasta 30 metros cuadrados $6,330.
 
-d) Más de 30 y hasta 40 metros cuadrados $7,978
+d) Más de 30 y hasta 40 metros cuadrados $8,441.
 
-e) Más de 40 y hasta 50 metros cuadrados $9,972
+e) Más de 40 y hasta 50 metros cuadrados $10,550.
 
-f) Más de 50 y hasta 60 metros cuadrados $11,967
+f) Más de 50 y hasta 60 metros cuadrados $12,661.
 
-g) Más de 60 y hasta 70 metros cuadrados $13,961
+g) Más de 60 y hasta 70 metros cuadrados $14,771.
 
-h) Más de 70 y hasta 80 metros cuadrados $15,956
+h) Más de 70 y hasta 80 metros cuadrados $16,881.
 
-i) Más de 80 y hasta 90 metros cuadrados $17,950
+i) Más de 80 y hasta 90 metros cuadrados $18,991.
 
-C). Otorgamiento del permiso:
+C). Otorgamiento del Permiso:
 
-1. Por señal informativa. $101.30
+1. Por señal informativa. $107.
 
-2. Por estructura para anuncios publicitarios. $1,013
+2. Por estructura para anuncios publicitarios. $1,072.
 
 VII. Registros para canalizaciones en cruces, avenidas o calles, por registro:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). Para transición aéreo-subterráneo en baja tensión. $1,619.
 
-A). Para transición aéreo-subterráneo en
-
-baja tensión. $1,530
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-B). Para instalaciones de telecomunicaciones. $1,530
-
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+B). Para instalaciones de telecomunicaciones. $1,619.
 
 C). Para líneas de drenaje, agua potable, hidrocarburos o similares:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Por pozo. $1,619.
 
-1. Por pozo. $1,530
+2. Por registro. $809.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+VIII. Ruptura de banquetas por metro cúbico. $89.
 
-2. Por registro. $765
+IX. Ruptura o corte de carpeta y estructura de pavimento inferior, por metro cúbico.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). Manual. $106.
 
-VIII. Ruptura de banquetas por metro cúbico. $84
+B). Con maquinaria. $49.
 
-IX. Ruptura o corte de carpeta y estructura de pavimento inferior, por metro cúbico:
+X. Protección a instalaciones subterráneas con pintura o cinta
 
-(ACTUALIZADO EN SU CANTIDAD, G.G. 1 DE JULIO DE 2007)
+plástica por metro lineal. $14.
 
-A). Manual. $100.
+XI. Ruptura de guarnición por metro cúbico. $49.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-B). Con maquinaria. $46
-
-> <small>(REFORMADA, G.G. 1 DE JULIO DE 2007)</small>
-
-X. Protección a instalaciones subterráneas con
-
-pintura o cinta plástica por metro lineal. $13.
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XI. Ruptura de guarnición por metro cúbico $46
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XII. Accesos por metro cuadrado $309
+XII. Accesos por metro cuadrado. $327.
 
 XIII. Revisión técnica de memorias y/o planos:
 
-> <small>(REFORMADO, G.G. 1 DE JULIO DE 2007)</small>
+A). Instalaciones marginales por metro lineal. $13.
 
-A). Instalaciones marginales por metro lineal. $12.
+B). Cruzamientos aéreos o subterráneos por cruce. $741.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+C). Instalaciones marginales de telecomunicaciones por metro lineal. $4.
 
-B). Cruzamientos aéreos o subterráneos por cruce. $701
-
-> <small>(REFORMADO, G.G. 1 DE JULIO DE 2007)</small>
-
-C) Instalaciones marginales de telecomunicaciones por metro lineal. $4.
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-D). Anuncios por memoria. $3,939
+D). Anuncios por memoria. $4,168.
 
 XIV. Por retiro de estructuras de anuncios publicitarios:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). Estructurales. $19,140.
 
-A). Estructurales. $18,091
+B). Semiestructurales. $46,938.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+C). Unipolares. $77,258.
 
-B). Semiestructurales. $44,365.
+D). Bipolares. $85,577.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+E). Tripolares. $94,337.
 
-C). Unipolares. $73,022
+F). Denominativos. $3,388.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+G). Anuncios tipo oficial, pendones, gallardetes u otros análogos. $14.
 
-D). Bipolares. $80,886
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-E). Tripolares. $89,165
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-F). Denominativos. $3,202
-
-> <small>(REFORMADO, G.G. 1 DE JULIO DE 2007)</small>
-
-G). Anuncios tipo oficial, pendones,
-
-gallardetes u otros análogos. $13.
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-H). Estructura para vallas y columnas. $23,436
+H). Estructura para vallas y columnas. $24,795.
 
 > <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
-Cuando por su denominación o características del anuncio no se encuentran comprendidos en la clasificación anterior, se ubicará en aquél que por sus características le sea más semejante.
+Cuando por su denominación o características del anuncio no se encuentran comprendidos en la clasificación anterior, se ubicara en aquel que por sus características le sea más semejante.
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -8901,279 +5163,189 @@ Cuando por su denominación o características del anuncio no se encuentran comp
 
 Por el uso o aprovechamiento del derecho de vía de las autopistas de cuota y zonas aledañas, así como por los servicios prestados por el Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México, se pagarán los siguientes derechos:
 
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
+
 TARIFA
 
 CONCEPTO
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+I. Por la integración de expediente técnico de la solicitud
 
-I. Por la integración de expediente técnico de la solicitud para la explotación y utilización del derecho de vía de las autopistas de cuota estatales y zonas aledañas. $51.
+para la explotación y utilización del derecho de vía de las
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+autopistas de cuota estatales y zonas aledañas. $54.
 
-II. Por el estudio técnico de planos y proyectos
+II. Por el estudio técnico de planos y proyectos para la
 
-para la instalación de cada señalamiento vertical
+instalación de cada señalamiento vertical informativo dentro
 
-informativo dentro del derecho de vía de las
+del derecho de vía de las autopistas de cuota estatales y
 
-autopistas de cuota estatales y zonas
+zonas aledañas. $327.
 
-aledañas. $309
+III. Por el estudio técnico de planos y proyectos para la
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+instalación de cada señalamiento publicitario monumental
 
-III. Por el estudio técnico de planos y proyectos
+dentro del derecho de vía de las autopistas de cuota
 
-para la instalación de cada señalamiento
+estatales y zonas aledañas. $5,179.
 
-publicitario monumental dentro del derecho de
+IV. Por el estudio técnico de planos, proyectos y memorias de
 
-vía de las autopistas de cuota estatales y
+cálculo, para obras e instalaciones marginales dentro del
 
-zonas aledañas. $4,895
+derecho de vía de las autopistas de cuota estatales y zonas
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+aledañas, por cada 100 metros lineales o fracción que
 
-IV. Por el estudio técnico de planos, proyectos
+exceda de dicha longitud. $5,179.
 
-y memorias de cálculo, para obras e instalaciones
+V. Por el estudio técnico para validación y restitución del
 
-marginales dentro del derecho de vía de las
+derecho de vía de las autopistas de cuota estatales y zonas
 
-autopistas de cuota estatales y zonas aledañas,
+aledañas. $982.
 
-por cada 100 metros lineales o fracción que exceda
+VI. Por el estudio técnico de planos, proyectos y memorias
 
-de dicha longitud. $4,895
+de cálculo para la construcción de obras por cruzamientos
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+superficiales, subterráneos o aéreos que atraviesen las
 
-V. Por el estudio técnico para validación
+autopistas de cuota estatales y zonas aledañas. $3,816.
 
-y restitución del derecho de vía de las
+VII. Por el estudio técnico de planos, proyectos y memorias
 
-autopistas de cuota estatales y zonas
+de cálculo para la construcción de obras e instalaciones
 
-aledañas. $928
+marginales subterráneas, que se realicen dentro de los
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+derechos de vía de las autopistas de cuota estatales y
 
-VI. Por el estudio técnico de planos, proyectos
-
-y memorias de cálculo para la construcción de
-
-obras por cruzamientos superficiales, subterráneos
-
-o aéreos que atraviesen las autopistas de cuota
-
-estatales y zonas aledañas. $3,607
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-VII. Por el estudio técnico de planos, proyectos
-
-y memorias de cálculo para la construcción de
-
-obras e instalaciones marginales subterráneas,
-
-que se realicen dentro de los derechos de vía
-
-de las autopistas de cuota estatales y zonas
-
-aledañas, por kilómetro lineal o fracción. $928
-
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+zonas aledañas, por kilómetro lineal o fracción. $982.
 
 VIII. Por el estudio técnico del proyecto y aprobación de obras para paradores integrales de servicio en las autopistas de cuota estatales y zonas aledañas:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). Con superficie total del proyecto hasta 3,000 metros
 
-A). Con superficie total del proyecto hasta 3,000
+cuadrados. $42,307.
 
-metros cuadrados. $39,988
+B). Con superficie total del proyecto hasta 5,000 metros
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+cuadrados. $50,378.
 
-B). Con superficie total del proyecto hasta 5,000
+C). Con superficie total del proyecto hasta 10,000 metros
 
-metros cuadrados. $47,616
+cuadrados. $58,991.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+D). Con superficie mayor a los 10,000 metros cuadrados,
 
-C). Con superficie total del proyecto hasta 10,000
+para cada 1,000 metros cuadrados adicionales. $1,619.
 
-metros cuadrados. $55,757
+IX. Por el permiso para la instalación de cada señalamiento
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+informativo sobre el derecho de vía de las autopistas de
 
-D). Con superficie mayor a los 10,000 metros
-
-cuadrados, para cada 1,000 metros cuadrados adicionales. $1,598
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-IX. Por el permiso para la instalación de cada señalamiento informativo sobre el derecho de vía de las autopistas de cuota estatales y zonas aledañas. $181
-
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+cuota estatales y zonas aledañas. $191.
 
 X. Por el permiso para la instalación de cada señalamiento informativo publicitario, sobre el derecho de vía de las autopistas de cuota estatales y zonas aledañas:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). De 2.00 y hasta 50.00 metros cuadrados. $12,518.
 
-A). De 2.00 y hasta 50.00 metros cuadrados. $11,831
+B). De 51.00 y hasta 90.00 metros cuadrados. $15,727.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+XI. Por el permiso para la construcción de accesos que afecten el derecho de vía de las autopistas de cuota estatales y zonas aledañas:
 
-B). De 51.00 y hasta 90.00 metros cuadrados. $14,865
-
-(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
-
-XI. Por el permiso para la construcción de accesos que afecten el derecho de vía de las autopistas de cuota estatales y zonas aledañas
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-A). Proyecto a realizar en terreno plano. $15,923
-
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+A). Proyecto a realizar en terreno plano. $16,846.
 
 B). Proyecto a realizar en terreno de lomerío con:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Geometría en corte. $17,665.
 
-1. Geometría en corte. $16,697
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-2. Geometría en terraplén. $17,521
-
-(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+2. Geometría en terraplén. $18,537.
 
 C). Proyecto a realizar en terreno montañoso con:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+1. Geometría en corte. $21,045.
 
-1. Geometría en corte. $19,891
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-2. Geometría en terraplén. $20,664
+2. Geometría en terraplén. $21,863.
 
 XII. Por el permiso del proyecto geométrico, estructura de pavimentos y obras hidráulicas en las autopistas de cuota estatales y zonas aledañas:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). Por obras desarrolladas en un tramo de I kilómetro de
 
-A). Por obras desarrolladas en un tramo
+longitud. $16,846.
 
-de 1 kilómetro de longitud. $15,923
+B). Por obras desarrolladas en un tramo mayor de I kilómetro
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+y hasta 5 kilómetros de longitud. $18,537.
 
-B). Por obras desarrolladas en un tramo
+C). Por obras desarrolladas en un tramo mayor de
 
-mayor de 1 kilómetro y hasta 5 kilómetros de
+5 kilómetros y hasta 20 kilómetros de longitud. $21,863.
 
-longitud. $17,521
+D). Por obras desarrolladas en un tramo mayor de
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+20 kilómetros, por cada kilómetro adicional. $219.
 
-C). Por obras desarrolladas en un tramo mayor
+XIII. Pago anual por el permiso para permanencia de cada
 
-de 5 kilómetros y hasta 20 kilómetros de
+señalamiento informativo sobre el derecho de vía de las
 
-longitud. $20,664
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-D). Por obras desarrolladas en un tramo
-
-mayor de 20 kilómetros, por cada kilómetro
-
-adicional. $207
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XIII. Pago anual por el permiso para permanencia
-
-de cada señalamiento informativo sobre el
-
-derecho de vía de las autopistas de cuota estatales
-
-y zonas aledañas. $181
+autopistas de cuota estatales y zonas aledañas. $191.
 
 XIV. Pago anual por el permiso para la permanencia de cada señalamiento informativo publicitario, sobre el derecho de vía de las autopistas de cuota estatales y zonas aledañas:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). De 2.00 y hasta 50.00 metros cuadrados. $45,202.
 
-A). De 2.00 y hasta 50.00 metros cuadrados. $42,724
+B). De 51.00 y hasta 90.00 metros cuadrados. $67,242.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+XV. Pago anual por la explotación de cada acceso que afecte
 
-B). De 51.00 y hasta 90.00 metros cuadrados. $63,555
+el derecho de vía de las autopistas de cuota estatales y zonas
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+aledañas. $79,491.
 
-XV. Pago anual por la explotación de cada acceso
+XVI. Pago anual por la permanencia de cada cruce subterráneo
 
-que afecte el derecho de vía de las autopistas
+o aéreo en las autopistas de cuota estatales y zonas aledañas. $3,053.
 
-de cuota estatales y zonas aledañas. $75,134
+XVII. Pago anual por la permanencia de instalaciones
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+marginales subterráneas, que el particular realice dentro
 
-XVI. Pago anual por la permanencia de cada
+de los derechos de vía de las autopistas de cuota estatales
 
-cruce subterráneo o aéreo en las autopistas de
+y zonas aledañas, por kilómetro lineal o fracción. $763.
 
-cuota estatales y zonas aledañas. $2,885
+XVIII. Permiso por un día para la expedición de folletos o
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+volantes en plataformas y casetas de las autopistas de
 
-XVII. Pago anual por la permanencia de
+cuota estatales y zonas aledañas. $1,123.
 
-instalaciones marginales subterráneas, que el
+XIX. Por verificación inicial para desvíos y maniobras en
 
-particular realice dentro de los derechos de vía
+plataformas e instalaciones sobre el derecho de vía de
 
-de las autopistas de cuota estatales y zonas
+las autopistas de cuota estatales y zonas aledañas. $6,740.
 
-aledañas, por kilómetro lineal o fracción. $721
+XX. Por la verificación inicial para la construcción de obras
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+por cruzamientos superficiales, subterráneos o aéreos
 
-XVIII. Permiso por un día para la expedición de
+que atraviesen las autopistas de cuota estatales y zonas
 
-folletos o volantes en plataformas y casetas de
+aledañas. $16,536.
 
-las autopistas de cuota estatales y zonas
+XXI. Por el permiso para la construcción de obras e
 
-aledañas. $1,062
+instalaciones marginales, que se realicen dentro de los
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+derechos de vía de las autopistas de cuotas estatales
 
-XIX. Por verificación inicial para desvíos y
-
-maniobras en plataformas e instalaciones
-
-sobre el derecho de vía de las autopistas
-
-de cuota estatales y zonas aledañas. $6,370
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XX. Por la verificación inicial para la
-
-construcción de obras por cruzamientos
-
-superficiales, subterráneos o aéreos que
-
-atraviesen las autopistas de cuota
-
-estatales y zonas aledañas. $15,630
-
-> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-XXI. Por el permiso para la construcción de obras e instalaciones marginales, que se realicen dentro de los derechos de vía de las autopistas de cuotas estatales y zonas aledañas, por kilómetro lineal o fracción. $3,920
+y zonas aledañas, por kilómetro lineal o fracción. $4,147.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -10125,73 +6297,45 @@ territorio del Estado. $349.
 
 Por los servicios prestados por la Secretaría del Medio Ambiente que a continuación se mencionan, se pagarán los siguientes derechos:
 
-CONCEPTO TARIFA
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+TARIFA
 
-I. Por la búsqueda y reposición de la
+CONCEPTO
 
-constancia sobre los resultados de la
+I. Por la búsqueda y reposición de la constancia sobre los
 
-verificación del vehículo automotor. $115
+resultados de la verificación del vehículo automotor. $122.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+II. Por la expedición de la constancia que ampara a los
 
-II. Por la expedición de la constancia que
+vehículos que no quedan sujetos al programa "Hoy No Circula",
 
-ampara a los vehículos que no quedan sujetos
+conforme a las normas técnicas emitidas al efecto. $547.
 
-al programa "Hoy No Circula", conforme a las
+III. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2006) (REPUBLICADA, G.G. 1 DE ENERO DE 2009)
 
-normas técnicas emitidas al efecto. $517
+IV. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008) (REPUBLICADA, G.G. 1 DE ENERO DE 2009)
 
-III. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2006)
+V. Por la inscripción y expedición de constancia del
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+padrón de vehículos mercantiles a domicilio que operan
 
-IV. Por la expedición y grabación de la
+con combustibles alternos de gas licuado de petróleo,
 
-memoria del sistema de seguridad y
+natural o diesel, por cada uno. $596.
 
-control del equipo de reducción de
+VI. Por la certificación para la comercialización y/o
 
-emisiones, mismo que será administrado
+instalación de sistemas, equipos y dispositivos de control de
 
-por el Estado, para el Programa Integral de
+emisiones. $4,286.
 
-Reducción de Emisiones Contaminantes. $206
+VII. Por la renovación anual de la certificación para la
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+comercialización y/o instalación de sistemas, equipos y
 
-V. Por la inscripción y expedición de
-
-constancia del padrón de vehículos
-
-mercantiles a domicilio que operan con
-
-combustibles alternos de gas licuado
-
-de petróleo, natural o diesel, por cada uno. $563
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-VI. Por la certificación para la
-
-comercialización y/o instalación de
-
-sistemas, equipos y dispositivos de
-
-control de emisiones. $4051
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-VII. Por la renovación anual de la
-
-certificación para la comercialización
-
-y/o instalación de sistemas, equipos y
-
-dispositivos de control de emisiones. $1,012
+dispositivos de control de emisiones. $1,071.
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -10201,73 +6345,45 @@ El Gobernador emitirá semestralmente, por los servicios de verificación vehicu
 
 Por la evaluación del impacto ambiental, que efectúe la autoridad competente, en los términos de los ordenamientos jurídicos aplicables, se pagarán los siguientes derechos:
 
-CONCEPTO TARIFA
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-INDUSTRIAL OTROS
+TARIFA
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+CONCEPTO INDUSTRIAL OTROS
 
-I. Por la evaluación de la
+I. por la evaluación de la $7,450. $7,668.
 
-manifestación de impacto
+manifestación de impacto ambiental.
 
-ambiental. $7,042 $7,247
+II. Evaluación del estudio de riesgo $11,174. $11,502.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-II. Evaluación del estudio de
-
-riesgo ambiental. $10,562 $10,871
-
-> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+ambiental.
 
 III. Por la evaluación de las solicitudes presentadas para la acreditación para la prestación de servicios profesionales en materia de impacto y riesgo ambiental.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). Impacto. $3,068.
 
-A). Impacto. $2,900
+B). Riesgo. $3,068.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+IV. Por la evaluación del informe previo de impacto ambiental:
 
-B). Riesgo. $2,900
+A). Industria. $3,538.
 
-> <small>(ADICIONADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
-
-IV. Por la evaluación del Informe previo de impacto ambiental:
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-A). Industria. $3,344
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-B). Otros. $3,446
-
-> <small>(ADICIONADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+B). Otros. $3,646.
 
 V. Por expedición del oficio de prórroga de la vigencia de la resolución que contenga el análisis respecto de:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). Informe previo. $1,768.
 
-A). Informe previo. $1,671
+B). Manifestación de Impacto ambiental. $3,652.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+C). Estudio de riesgo. $5,477.
 
-B). Manifestación de impacto ambiental. $3,452
+VI. Por la expedición del oficio que determine que una
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+obra y/o actividad no requiere someterse al procedimiento
 
-C). Estudio de riesgo. $5,177
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-VI. Por la expedición del oficio que determine
-
-que una obra y/o actividad no requiere
-
-someterse al procedimiento de evaluación en
-
-materia de impacto ambiental. $341
+de avaluación en materia de impacto ambiental. $361.
 
 > <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -10275,7 +6391,7 @@ No pagarán los derechos previstos en este artículo los fraccionadores de conju
 
 ###### Artículo 99 Bis.
 
-(DEROGADO, G.G. 30 DE JUNIO DE 2006)
+(DEROGADO, G.G. 30 DE JUNIO DE 2006) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -10283,23 +6399,23 @@ No pagarán los derechos previstos en este artículo los fraccionadores de conju
 
 Por la evaluación permanente a verificentros autorizados, se pagará una cuota anual conforme a la siguiente:
 
-CONCEPTO TARIFA
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+TARIFA
 
-I. Por cada línea de verificación con que
+CONCEPTO
 
-cuente el verificentro. $3,797
+I. Por cada línea de verificación con que cuente el verificentro. $4,018.
 
-II. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
+II. DEROGADA, G.G. 29 DE DICIEMBRE DE 2000) (REPUBLICADA, G.G. 1 DE ENERO DE 2009)
 
-III. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
+III. DEROGADA, G.G. 29 DE DICIEMBRE DE 2000) (REPUBLICADA, G.G. 1 DE ENERO DE 2009)
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
 ###### Artículo 101.
 
-Por los análisis técnicos y económicos para la procedencia operativa de verificentros autorizados, se pagarán $7,596, por cada doce meses, dentro de los primeros cinco días siguientes de haberse presentado la solicitud.
+Por los análisis técnicos y económicos para la procedencia operativa de verificentros autorizados, se pagarán $8,036., por cada doce meses, dentro de los primeros cinco días siguientes de haberse presentado la solicitud.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -10307,37 +6423,31 @@ Por los análisis técnicos y económicos para la procedencia operativa de verif
 
 Por la expedición o prórroga de constancia, actualización o verificación de:
 
-CONCEPTO TARIFA
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+TARIFA
 
-I. Funcionamiento de emisiones
+CONCEPTO
 
-a la atmósfera. $351
+I. Funcionamiento de emisiones a la atmósfera. $372.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+II. Generador de residuos no peligrosos. $248.
 
-II. Generador de residuos no peligrosos. $234
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-III. Quema de materiales a cielo abierto. $586
+III. Quema de materiales a cielo abierto. $620.
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 102 Bis.
 
-Por la renovación anual de acreditación en el Programa Integral de Reducción de Emisiones de Contaminantes, se cobrarán derechos de acuerdo a la siguiente:
+Por la renovación anual de acreditación en el Programa Integral de Reducción de Emisiones Contaminantes, se cobrarán derechos de acuerdo a la siguiente:
+
+(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
 CONCEPTO TARIFA
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+Taller autorizado en el Programa Integral de Reducción
 
-Taller autorizado en el Programa Integral
-
-de Reducción de Emisiones de
-
-Contaminantes (PIREC). $3.865
+de Emisiones Contaminantes (PIREC). $4,089.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -10347,11 +6457,9 @@ Por los servicios prestados por la Procuraduría General de Justicia del Estado,
 
 CONCEPTO TARIFA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+(ACTUALIZADO PRIMER PARRAFO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
-I. Expedición de certificados de no
-
-antecedentes penales. $52
+I. Expedición de certificados de no antecedentes penales. $54.
 
 > <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -10361,13 +6469,13 @@ No se pagarán estos derechos por la expedición de certificados a los elementos
 
 II. No se pagarán los derechos previstos en el artículo 70 Bis por la expedición de:
 
-A). Las copias certificadas que se expidan para la sustanciación de los juicios de amparo.
+A). Las copias certificadas que se expidan para la sustanciación de los juicios de amparo;
 
-B). Las copias certificadas solicitadas por autoridades judiciales y administrativas.
+B). Las copias certificadas solicitadas por autoridades judiciales y administrativas;
 
-C). Cuando las copias certificadas se expidan para la sustanciación de procedimientos penales y familiares.
+C). Cuando las copias certificadas se expidan para la sustanciación de procedimientos penales y familiares;
 
-D). Las copias certificadas que se expidan de actas de levantamiento de denuncias de robo de vehículos.
+D). Las copias certificadas que se expidan de actas de levantamiento de denuncias de robo de vehículos;
 
 > <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -10375,7 +6483,7 @@ E). Las copias certificadas que se expidan para la sustanciación de procedimien
 
 ###### Artículo 104.
 
-(DEROGADO, G.G. 30 DE JUNIO DE 2006)
+(DEROGADO, G.G. 30 DE JUNIO DE 2006) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
 #### SECCION TERCERA. DE LOS DERECHOS DE DESARROLLO URBANO Y OBRAS PUBLICAS
 
@@ -10383,7 +6491,7 @@ E). Las copias certificadas que se expidan para la sustanciación de procedimien
 
 ###### Artículo 105.
 
-(DEROGADO, G.G. 30 DE JUNIO DE 2006)
+(DEROGADO, G.G. 30 DE JUNIO DE 2006) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -10394,8 +6502,6 @@ E). Las copias certificadas que se expidan para la sustanciación de procedimien
 ###### Artículo 106.
 
 Por certificados expedidos por el Tribunal de lo Contencioso Administrativo se pagarán los derechos establecidos en el artículo 70 Bis.
-
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 No se pagarán estos derechos ni los establecidos en el artículo 70 Bis, cuando se expidan:
 
@@ -10409,7 +6515,7 @@ III. Para la sustanciación de procedimientos penales y familiares.
 
 ## TITULO CUARTO. DE LOS INGRESOS DE LOS MUNICIPIOS
 
-### CAPÍTULO III. BORDADOS
+### CAPITULO PRIMERO. DE LOS IMPUESTOS
 
 #### SECCION SEXTA. DE LOS DERECHOS POR CORRAL DE CONCEJO, E IDENTIFICACION DE SEÑALES DE SANGRE, TATUAJES, ELEMENTOS ELECTROMAGNETICOS Y FIERROS PARA MARCAR GANADO Y MAGUEYES
 
@@ -10433,15 +6539,57 @@ El impuesto a pagar será la cantidad que resulte de aplicar al valor catastral 
 
 > <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-TARIFA
+T A R I F A
 
-(VEASE ARCHIVO ANEXO)
+RANGOS DE VALORES
+
+CATASTRALES
+
+(en pesos)
+
+RANGO LIMITE LIMITE CUOTA FACTOR
+
+INFERIOR SUPERIOR FIJA PARA
+
+(en pesos) APLICARSE A
+
+CADA RANGO
+
+1 1 180,970 150.00 0.000330
+
+2 180,971 343,840 210.00 0.001287
+
+3 343,841 554,420 420.00 0.001541
+
+4 554,421 763,890 745.00 0.001788
+
+5 763,891 973,930 1,120.00 0.002283
+
+6 973,931 1,188,880 1,600.00 0.002673
+
+7 1,188,881 1,403,840 2,175.00 0.003371
+
+8 1,403,841 1,618,840 2,900.00 0.003905
+
+9 1,618,841 1,854,060 3,740.00 0.004228
+
+10 1,854,061 2,100,310 4,735.00 0.004506
+
+11 2,100,311 2,433,150 5,845.00 0.004670
+
+12 2,433,151 2,780,990 7,400.00 0.004943
+
+13 2,780,991 En adelante 9,120.00 0.003500
 
 El monto anual del impuesto a pagar, será el resultado de sumar a la cuota fija que corresponda de la tarifa, el resultado de multiplicar el factor aplicable previsto para cada rango, por la diferencia que exista entre el valor catastral del inmueble de que se trate y el valor catastral que se indica en el límite inferior del rango relativo.
 
-Los ayuntamientos acordarán a favor de pensionados, jubilados, personas con capacidades diferentes, adultos mayores, viudas sin ingresos fijos y aquellas personas físicas cuya percepción diaria no rebase tres salarios mínimos generales del área geográfica que corresponda, el otorgamiento de una bonificación de hasta el 50% en el pago de este impuesto, previa acreditación de los supuestos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Los términos y condiciones en cuanto al otorgamiento de los apoyos indicados se determinarán en el correspondiente acuerdo de cabildo.
+> <small>(DEROGADO PENULTIMO PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO ULTIMO PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 > <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -10457,17 +6605,25 @@ Tratándose de predios destinados a panteones particulares, no se considera como
 
 El propietario del panteón bimestralmente presentará ante las autoridades catastral y fiscal competentes, una relación de los actos o contratos por los que se haya transmitido la posesión de lotes para destinarse a sepulturas en que se indique la fecha y superficie, así como una lista de lotes cuya posesión haya revertido a su favor.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 112.
 
-El pago del impuesto se efectuará en una sola exhibición durante los meses de enero y febrero, cuando su importe sea hasta de tres días de salario mínimo general del área geográfica que corresponda a la ubicación del inmueble.
+El pago del impuesto se efectuará en una sola exhibición durante los meses de enero, febrero y marzo, cuando su importe sea hasta de seis días de salario mínimo general del área geográfica que corresponda a la ubicación del inmueble.
 
-Cuando el importe sea mayor de tres y hasta seis días de salario mínimo, el pago se hará en dos exhibiciones que se enterarán durante los meses de enero y julio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Cuando exceda de seis días de salario mínimo general, el pago se dividirá en seis partes iguales que se cubrirán bimestralmente en los meses de enero, marzo, mayo, julio, septiembre y noviembre.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+Cuando el importe sea mayor de seis y hasta nueve días de salario mínimo, el pago se hará en dos exhibiciones que se enterarán durante los meses de enero y julio.
 
-> <small>(DEROGADO QUINTO PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Cuando exceda de nueve días de salario mínimo general, el pago se dividirá en seis partes iguales que se cubrirán bimestralmente en los meses de enero, marzo, mayo, julio, septiembre y noviembre.
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -10487,7 +6643,9 @@ Respecto de los créditos fiscales derivados del Impuesto Predial que no hayan s
 
 #### SECCION SEPTIMA. DE LOS DERECHOS POR USO DE VIAS Y AREAS PUBLICAS PARA EL EJERCICIO DE ACTIVIDADES COMERCIALES O DE SERVICIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 113.
 
@@ -10573,37 +6731,61 @@ XVI. La disolución de la sociedad conyugal, por la parte que se adquiera en dem
 
 Este impuesto se determinará conforme a la siguiente:
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 TARIFA
 
-(VEASE ARCHIVO ANEXO)
+BASE GRAVABLE
+
+RANGO LÍMITE LÍMITE CUOTA FACTOR
+
+INFERIOR SUPERIOR FIJA APLICABLE
+
+(en pesos) (en pesos) (en pesos) A CADA
+
+RANGO
+
+1 1. 180,970 156.00 0.01239
+
+2 180,971 343,840 2,400.00 0.01317
+
+3 343,841 554,420 4,545.00 0.01631
+
+4 554,421 973,930 7,980.00 0.01725
+
+5 973,931 1,618,840 15,220.00 0.01850
+
+6 1,618,841 2,433,150 27,155.00 0.01987
+
+7 2,433,151 En adelante 43,340.00 0.02184
 
 La base gravable de este impuesto será el valor que resulte mayor entre el valor catastral del inmueble, determinado conforme lo establece el Título Quinto de este Código y el de operación estipulado en el contrato respectivo.
 
 El monto del impuesto a pagar, será el resultado de sumar a la cuota fija que corresponda, de conformidad con la tarifa, la cantidad que se determine al multiplicar el factor aplicable previsto para cada rango, por la diferencia que exista entre la base gravable determinada conforme al párrafo anterior y el importe indicado en el límite inferior del rango de valor base relativo.
 
-> <small>(DEROGADO CUARTO PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(DEROGADO QUINTO PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO CUARTO PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Tratándose de vivienda social progresiva, de interés social y popular nueva o usada, se aplicarán las tasas del 0%, 0.4% y 0.8%, sobre el valor base determinado de acuerdo a este artículo.
+> <small>(DEROGADO QUINTO PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-Para la aplicación del impuesto previsto en este artículo, referido a viviendas de interés social, social progresiva o popular, su transmisión deberá llevarse a cabo directamente por el constructor de la vivienda, por la Federación, Estado o Municipio, a través de los organismos correspondientes, o bien, con recursos proporcionados por éstos, cuando la transmisión de la vivienda nueva o usada se haga entre particulares, debiendo acreditar fehacientemente la naturaleza de la vivienda y el origen de los recursos, mediante copia de la escritura pública preventiva relativa a la operación o instrumento privado certificado por notario público o la autoridad judicial o administrativa correspondientes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
-
-En el supuesto que no exista coincidencia entre los valores determinados en el artículo 3 fracción XL, para los tipos de vivienda social progresiva, interés social y popular, con los valores ajustados por el Banco de México, para las diversas categorías de vivienda, se aplicarán los valores publicados por éste, la Secretaría de Desarrollo Urbano, procederá a actualizarlos tomando como parámetro los valores que emita el Banco de México y publicará mensualmente en el periódico oficial los valores que regirán para el tipo de vivienda que se vea afectada.
+> <small>(DEROGADO SEXTO PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 En caso de que se transmita el usufructo o la nuda propiedad, el monto del impuesto que se determine según el valor que resulte más alto, entre el catastral y el de operación total, se reducirá en un 50%.
 
-Tratándose de la adquisición de predios para edificar conjuntos urbanos con viviendas tipo social progresiva, de interés social y popular, se aplicará la tasa del 1.5% al valor que resulte mayor entre el valor catastral y el de operación, después de reducirlo en un monto equivalente a 60 días de salario mínimo general elevado al año del área geográfica "A".
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(DEROGADO OCTAVO PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-Para gozar del beneficio requerido en el párrafo anterior se deberá contar con la respectiva constancia de viabilidad que expida la Secretaría de Desarrollo Urbano, en la que se consigne que acredite que el predio se destinará a la vivienda social progresiva, de interés social o popular.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO NOVENO PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 > <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -10632,6 +6814,12 @@ VI. En los contratos de arrendamiento financiero de bienes inmuebles, cuando se 
 > <small>(F. DE E., G.G. 25 DE MARZO DE 1999)</small>
 
 VII. En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro Público de la Propiedad, o si se trata de documentos privados, cuando se adquiera el dominio del bien conforme a las leyes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+La forma oficial única autorizada en el marco del Sistema de Coordinación Hacendaria del Estado de México y Municipios para la declaración de este impuesto, será de libre reproducción, para lo cual deberá publicarse en el Periódico Oficial y a través del portal electrónico del gobierno municipal.
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -10681,37 +6869,51 @@ GEOGRÁFICA QUE
 
 CORRESPONDA
 
-TARIFA GRUPO
+GRUPO
 
-TIPO DE CONJUNTOS
+TARIFA TIPO DE
+
+CONJUNTOS
 
 URBANOS BASE
 
-Habitacional Social Progresivo. Por cada vivienda prevista 4.2 3.6
+Habitacional Social Por cada vivienda 4.2 3.6
 
-Habitacional Interés Social. Por cada vivienda prevista 16.8 11.4
+Progresivo. prevista
 
-Habitacional Popular. Por cada vivienda prevista 25.2 18.6
+Habitacional Interés Por cada vivienda 16.8 11.4
 
-Habitacional Medio Por cada vivienda prevista 36.0 27.0
+Social. prevista
 
-Habitacional Residencial Por cada vivienda prevista 60.0 42.0
+Habitacional Popular. Por cada vivienda 25.2 18.6
 
-Habitacional Residencial alto y Por cada vivienda prevista 146.04 121.68
+prevista
 
-campestre.
+Habitacional Medio Por cada vivienda 36.0 27.0
 
-Industrial. Por cada 1,000 m2 de superficie
+prevista
 
-vendible 215.82 126.88
+Habitacional Residencial Por cada vivienda 60.0 42.0
 
-Agroindustrial. Por cada 1,000 m2 de superficie
+Prevista
 
-vendible 215.82 126.88
+Habitacional Por cada vivienda 146.04 121.68
 
-Abasto, comercio y servicios. Por cada 1,000 m2 de superficie
+Residencial alto prevista
 
-vendible 215.82 126.88
+y campestre.
+
+Industrial. Por cada 1,000 m2 de
+
+superficie vendible 215.82 126.88
+
+Agroindustrial. Por cada 1,000 m2 de
+
+superficie vendible 215.82 126.88
+
+Abasto, comercio Por cada 1,000 m2 de
+
+y servicios. superficie vendible 215.82 126.88
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -10759,67 +6961,69 @@ II. Los montos determinados de conformidad con lo previsto en este artículo, se
 
 Están obligadas al pago de este impuesto las personas físicas o jurídicas colectivas que se anuncien en bienes del dominio público o privado, mediante anuncios publicitarios susceptibles de ser observados desde la vía pública o lugares de uso común, así como la distribución de publicidad impresa en la vía pública, que anuncien o promuevan la venta de bienes o servicios. Lo anterior, observando las disposiciones aplicables en la materia, incluyendo las emitidas por la autoridad municipal de que se trate.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 121.
 
-Este impuesto, se pagará bimestralmente o por cada vez que se efectúe la publicidad, de acuerdo con la siguiente:
+Este impuesto, se pagará bimestralmente dentro de los cinco días siguientes al bimestre en que se causó, cuando se efectúe la publicidad, de acuerdo con la siguiente:
 
 TARIFA
 
-CONCEPTO Número de Salarios Mínimos
+CONCEPTO Número de Salarios
 
-Generales del Area Geográfica
+Mínimos Generales
 
-que corresponda.
+Diarios del Área
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+Geográfica que
+
+corresponda
 
 I. Anuncios adosados, pintados, murales,
 
-volados, marquesinas, por m2 o fracción. 0.6
+volados, marquesinas, por m2 o fracción. 0.66
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+II. Estructurales sin iluminación, exterior o
 
-II. Estructurales sin iluminación,
+interior, mobiliario urbano, autosoportados
 
-exterior o interior, mobiliario urbano,
+por m2 o fracción. 1.21
 
-autosoportados por m2 o fracción. 1.1
+III. Luminosos, de neón, electrónicos, de
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+proyección óptica, computarizados y los
 
-III. Luminosos, de neón, electrónicos,
+que pudieran ser explotados de forma mixta,
 
-de proyección óptica, computarizados
+por m2 o fracción 2.42
 
-y los que pudieran ser explotados de
+IV. Objetos inflables, botargas,
 
-forma mixta, por m2 o fracción. 2.2
+pancarteros y carpas
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-IV. Objetos inflables, botargas, pancarteros y carpas publicitarias por
-
-día o fracción. 3.3
-
-> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+publicitarias por día o fracción. 3.63
 
 V. Anuncios colgantes:
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+A). Lonas y mantas, por m2 o fracción,
 
-A). Lonas y mantas, por m2 o fracción, por día. 0.11
+por día. 0.121
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+B). Gallardetes o pendones por cada cien
 
-B). Gallardetes o pendones por cada cien unidades o fracción. 3.3
+unidades o fracción. 3.63
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+VII (SIC). Distribución de volantes, folletos y
 
-VI. Distribución de volantes, folletos y muestras gratuitas de
+muestras gratuitas de productos,
 
-productos, degustaciones, sonorización y perifoneo, por día. 3.3
+degustaciones, sonorización y perifoneo,
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+por día. 3.63
+
+Tratándose de las personas físicas y jurídicas colectivas que de manera eventual realicen esta actividad, deberán cumplir con la obligación de pago por el número de días en que se llevó a cabo la publicidad, conforme a la tarifa de este artículo, para lo cual, en caso de que no se señale una cuota diaria, deberán de dividir el monto a pagar bimestral entre 60 y el resultado multiplicarlo por el número de días en los que se efectuó la publicidad, de acuerdo al concepto de que se trate. En este caso, se pagará mediante declaración mensual que deberá presentarse dentro de los cinco días siguientes del mes siguiente.
 
 No pagarán este impuesto, aquellos anuncios que promuevan eventos educativos o culturales que no persigan fines de lucro.
 
@@ -10893,457 +7097,29 @@ El impuesto se determinará aplicando la tasa del 4% sobre el monto total de la 
 
 Este impuesto se pagará mediante declaración que se presentará a la tesorería, en la forma oficial aprobada, a más tardar el día diecisiete del mes siguiente a aquél en que se perciban las contraprestaciones.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 18 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 128.
 
-(DEROGADO, G.G. 29 DE DICIEMBRE DE 2000)
+La Tesorería deberá depositar el 50% de lo recaudado por el impuesto a que se refiere la presente Sección, dentro de los diez días siguientes al mes en que se reciba el pago del propio gravamen, en una cuenta bancaria específica en la que únicamente podrán depositarse los montos recaudados por el impuesto y en su caso los rendimientos que éstos produzcan.
 
-### CAPÍTULO IV. EQUIPO
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-PRIMERA SECCIÓN
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-EQUIPO DE USO COMÚN
+Artículo 128 Bis A.- Los ingresos depositados en la cuenta a que se refiere el artículo 128 del Código deberán destinarse al desarrollo de actividades de fomento al turismo en el territorio del municipio de que se trate.
 
-224. Los artículos que integran el equipo de campaña de uso común del Ejército y Fuerza Aérea son:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-A. Casco Antifragmento.
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-B. Bolsa de dormir.
+Artículo 128 Bis B.- El Órgano Superior de Fiscalización del Estado de México, en el ámbito de sus atribuciones, será responsable de fiscalizar y comprobar el ejercicio de los recursos a que se refiere la presente Sección.
 
-C. Bolsa de viaje.
+### CAPITULO SEGUNDO. DE LOS DERECHOS
 
-D. Botiquín de primeros auxilios tipo mochila.
-
-E. Fornituras:
-
-a. Para pistola.
-
-b. En color negro.
-
-c. Para fusil G-3 o FX-05.
-
-d. Para unidades blindadas.
-
-e. De piel negra para pistola.
-
-f. Fajilla de hilo dorado.
-
-g. De gala para establecimientos de educación. militar.
-
-h. Para mosquetón.
-
-i. Fajilla de gala para bandas de música del Heroico. Colegio Militar y Colegio del Aire.
-
-F. Manga.
-
-G. Mochila de campaña.
-
-H. Poncho.
-
-I. Portafusiles:
-
-a. Para G-3.
-
-b. Para FX-05.
-
-c. Para mosquetón.
-
-d. Blanco.
-
-J. Saco de ración.
-
-225. Casco antifragmento. Es empleado por Generales, Jefes, Oficiales, Cadetes y Tropa con el uniforme de campaña. Está constituido por una concha, suspensión y barbiquejo, se empleará con un forro y liga del color de la tela que corresponda al uniforme.
-
-226. Liga para casco antifragmento. Será confeccionada con material elástico, de 25 centímetros de diámetro, el color será acorde al uniforme a emplear, contará con dos cuadros de reflejante fluorescente plastificado de tipo "ojo de gato", cada uno de 2 centímetros de largo por 2 centímetros de ancho, la cual será colocada de tal forma que los "ojos de gato" se ubiquen en la parte central posterior del casco, a una distancia de 5 centímetros de separación entre cada uno.
-
-227. Bolsa de dormir. Es empleada por Generales, Jefes, Oficiales y Tropa en actividades operativas, se fabrica en modelo tipo sarcófago en tela color verde olivo.
-
-228. Bolsa de viaje. se fabrica en tipo costal redondo con tela camuflaje selva o desierto.
-
-229. Botiquín de primeros auxilios tipo mochila. Es empleado por Oficiales y Tropa del Servicio de Sanidad para transportar insumos médicos de primeros auxilios para una sección, en la parte frontal tiene una bolsa con el logotipo de la Cruz Roja. En la parte posterior tiene un arnés metálico y cinturón que se ajusta por medio de una hebilla de liberación.
-
-230. Fornitura para pistola. Es empleada por Generales, Jefes, Oficiales, así como por el personal de Tropa de policía militar, fuerzas especiales y guardias presidenciales. Se fabrica en modelo único en color negro, verde olivo, camuflaje selva y desierto. Está constituida por una fajilla, funda para pistola con extensión del lado derecho, tirantes y dos porta cargadores, los cuales se colocarán del lado izquierdo de la fajilla. En operaciones se podrá modificar la distribución.
-
-231. Fornitura en color negro. Es empleada por el personal de Fuerzas Especiales, en actividades diarias, de adiestramiento y operaciones.
-
-232. Fornitura para fusil G-3 o FX-05. Es empleada por el personal de Cadetes y Tropa en ceremonias, en servicios con arma, así como para actividades operativas en el caso del personal de Tropa, se fabrica en modelo único, la diferencia entre una y otra son las medidas de los porta cargadores, se confecciona en color negro, verde olivo, camuflaje selva y camuflaje desierto. Está integrada por una fajilla, tirantes y dos portacargadores que se colocan en la parte posterior de la fajilla.
-
-233. Fornitura para Unidades Blindadas. Es empleada en actividades operativas. Está constituida con funda para pistola, un tirante principal y dos secundarios, en la parte posterior tiene un accesorio de plástico en forma de trébol que sirve para sujetar los tirantes, sobre el tirante principal se sujeta la funda para pistola y los dos tirantes secundarios por medio de una bandola.
-
-234. Fornitura de piel negra para pistola. Es empleada por Generales, Jefes y Oficiales de las instituciones educativas militares y aquel otro que así se ordene con todos los uniformes excepto el de campaña, gala y gran gala. Está constituida por una fajilla, portacargador doble, funda para pistola, bandolera y tahalí portaespada.
-
-235. Fajilla de hilo dorado. Se emplea para portar la espada o sable con los uniformes de gran gala, gala y doble botonadura, consiste en una cinta de galón dorado de 2.5 centímetros de ancho por 100 centímetros de largo, sobrepuesta en una cinta de 3.8 centímetros de largo de cuero negro. Se ajusta a la cintura por una hebilla metálica con el Escudo Nacional y una trabilla metálica, consta de una anilleta a 17.5 centímetros de la hebilla en el lado izquierdo, donde se coloca el tahalí de gala.
-
-236. Fornitura de gala para establecimientos de Educación Militar y otros organismos. Es empleada por Cadetes, personal del Cuerpo de Guardias Presidenciales y de la Guardia de Honor en ceremonias y desfiles, se fabrica en modelo único en cuero negro, está constituida por una fajilla, cartuchera y portamarrazo, la fajilla se ajusta a la cintura por una hebilla metálica con la leyenda y el escudo del plantel u organismo correspondiente y una trabilla metálica. La cartuchera tiene un escudo metálico con el distintivo que corresponda, el portamarrazo está formado por una traba para sujetarse en la fajilla y un soporte para la vaina del mosquetón.
-
-237. Fornitura para mosquetón. Es empleada por el personal de Cadetes y defensas rurales. Está constituida por fajilla, tres cartucheras y portamarrazo. La fajilla es similar a la descrita en el párrafo anterior. La cartuchera cierra por una tapadera y broche de presión, en la parte posterior lleva dos trabillas. El portamarrazo está formado por una traba y un soporte para la vaina del marrazo.
-
-238. Fajilla de gala para bandas de música del Heroico Colegio Militar y Colegio del Aire. Se fabrica en cuero color blanco, con chapetón de latón con la leyenda y escudo del plantel que corresponda.
-
-239. Manga. Es empleada por Generales, Jefes, Oficiales, Cadetes y Tropa en actividades operativas. Se fabrica en color verde olivo, el modelo es de una pieza rectangular con ojillos distribuidos en su perímetro para sujetar cuando se emplee en vivac.
-
-240. Mochila de campaña. Es empleada en actividades operativas y se fabrica en color camuflaje selva y desierto.
-
-241. Poncho. Es empleado por Generales, Jefes, Oficiales, Cadetes y Tropa en actividades operativas. Se fabrica en modelo único en tela impermeable verde olivo, está compuesto por cuerpo y capucha.
-
-242. Portafusil para G-3. Es empleado con este tipo de armamento, se fabrica en modelo único en cinta de poliéster verde olivo o negro. Está constituido por dos cintas de 2.5 centímetros de ancho por 1.0 metro de largo, dos hebillas, gancho y bandola portafusil.
-
-243. Porta fusil FX-05. Es empleado con este tipo de armamento, se coloca en el fusil para portarlo de manera cómoda, así como para permitir una reacción eficiente; se fabrica en modelo único compuesto de una cinta de color negro, dos ganchos, dos hebillas de boca ancha y una hebilla de liberación rápida.
-
-244. Portafusil para mosquetón. Es empleado con este tipo de armamento, se fabrica en modelo único en cuero negro, está constituido por una cinta de cuero que mide 2.5 centímetros de ancho por 2.0 metros de largo, un extremo lleva terminado en punta con perforaciones para su ajuste y el otro con hebilla metálica y dos trabas de cuero.
-
-245. Portafusil blanco. Será empleado por Cadetes, alumnos del sistema educativo militar y personal de Tropa de la compañía de Guardia de Honor en desfiles y ceremonias ordenadas por la Superioridad.
-
-246. Saco de ración. Es empleado en actividades operativas para el transporte de utensilios y de la ración de campaña, se fabrica en color verde olivo.
-
-SEGUNDA SECCIÓN
-
-EQUIPO DE USO ESPECIAL
-
-247. Los artículos que integran el equipo de campaña de uso especial del Ejército y Fuerza Aérea son:
-
-A. Chaleco antibalas.
-
-B. Coderas y rodilleras.
-
-C. Contenedor de agua.
-
-D. Brazalete.
-
-E. Equipo para policía militar.
-
-F. Chaleco portagranadas.
-
-G. Equipo para manejo de ganado canino.
-
-H. Equipo para control de tránsito.
-
-I. Equipo para agente de rampa.
-
-J. Accesorios para fornitura.
-
-K. Gogles tácticos multifuncionales.
-
-L. Paracaídas.
-
-248. Chaleco antibalas. Es empleado por el personal de Generales, Jefes, Oficiales, Cadetes y Tropa en actividades operativas; compuesto de un contenedor, panel balístico y una o dos placas, se confecciona en color negro o en tela camuflaje selva o desierto.
-
-249. Coderas y rodilleras. Son empleadas con el uniforme de campaña por Generales, Jefes, Oficiales y Tropa en actividades operativas, se fabrican en juegos de rodilleras y coderas, en camuflaje selva, desierto, así como en color negro.
-
-250. Contenedor de agua. Es empleado en actividades operativas, se fabrica en tela camuflaje selva y desierto, así como en color negro, tiene capacidad para almacenar tres litros de agua.
-
-251. Brazalete. Es empleado por Jefes, Oficiales, Cadetes y Tropa en actividades propias de labor social, plan DN-III-E y ayuda humanitaria. Se fabrica en modelo único en tela color amarillo, camuflaje selva y desierto, en la parte superior tiene una cinta para sujetarse a la hombrera del uniforme y en la parte posterior dos cintas elásticas fijadas a los extremos del brazalete para su ajuste al brazo, cuenta con un bordado o estampado identificador. Para personal de instructores, monitores, en instrucción, puestos de seguridad militar, Guardia en prevención y otras actividades podrán emplearse brazaletes específicos.
-
-252. Equipo para Policía Militar. Es empleado por el personal de policía militar en funciones propias de su especialidad y se constituye por los siguientes accesorios:
-
-A. Escudo. Se fabrica de policarbonato transparente, su modelo es de forma rectangular y mide 1.20 metros de largo por 70.0 centímetros de ancho con un espesor de 10 milímetros En la parte frontal lleva una calcomanía con la leyenda “POLICÍA MILITAR” y en la parte posterior para su sujeción cuenta con una empuñadura y un asa de transporte.
-
-B. Máscara antigás. Se fabrica de material transparente resistente a gases y sustancias tóxicas. En su parte frontal tiene un filtro de aire intercambiable que permite la respiración de aire limpio al personal que lo porta en atmósferas tóxicas, se ajusta por medio de cintas elásticas.
-
-253. Chaleco portagranadas. se fabrica en modelo único en tela de nylon negra. En la parte frontal cuenta con un cierre y tiene diez bolsas sin tapadera.
-
-254. El equipo para el manejo de ganado canino en actividades de adiestramiento, operativas, de búsqueda y rescate, está constituido por los siguientes accesorios:
-
-A. Arnés de rappel para perro. Se emplea para suspenderlo en ascenso y descenso en áreas difíciles en actividades de adiestramiento y operativas.
-
-B. Cable acerado. Es empleado para sujeción y control del canino durante el adiestramiento.
-
-C. Collar controlador. Es empleada (sic) para control, adiestramiento canino, desfiles y presentaciones.
-
-D. Collar. Es empleado para control del can en operaciones.
-
-E. Correa. Es empleada para la conducción del can en adiestramiento, desfiles y operaciones.
-
-F. Línea. Se emplea para adiestramiento y control del can a distancia.
-
-G. Capa y muñequeras. se emplean para ceremonias, desfiles y presentaciones, se fabrican en paño en color verde esmeralda, con las siglas de “PM” en los costados derecho e izquierdo en color blanco.
-
-255. Equipo para control de tránsito. Es empleado por el personal que desempeña estas funciones, está constituido por los siguientes accesorios:
-
-A. Chaleco fluorescente. Se fabrica con tela de malla color naranja y ribeteado en todo su contorno con cinta de color negro. En la parte frontal y posterior lleva cintas reflejantes, el chaleco se ajusta al frente por medio de 2 cintas con hebillas de plástico.
-
-B. Cono fluorescente. Se fabrica en plástico de color naranja fluorescente, con una altura de 45.0 centímetros y un diámetro de base de 20.0 centímetros, el cono se coloca sobre una base cuadrada de plástico de color negro de 30.0 centímetros por lado.
-
-C. Paleta de control. Se fabrica en forma de octágono con un diámetro de 30.0 centímetros, en una de sus caras lleva escrita la palabra “SIGA” con letras de color blanco sobre un fondo color verde y en la otra cara lleva la palabra “ALTO” con letras de color blanco sobre un fondo de color rojo. Lleva una empuñadura de 40.0 centímetros de largo.
-
-D. Lámpara con capuchón fluorescente. Es una lámpara portátil de mano que lleva colocada en la parte donde se emite el haz de luz una capucha de plástico de color naranja fluorescente de 250 milímetros de largo.
-
-E. Silbato. Se fabrica en plástico negro, con hueco y esfera de unicel en su interior.
-
-256. Accesorios para agente de rampa. Son empleados por los Oficiales y Tropa que desempeñan funciones de agente de rampa en actividades en apoyo de las operaciones aéreas, el uniforme empleado será el correspondiente a la semana de trabajo, se compone de la siguiente manera:
-
-A. En operaciones diurnas: Chaleco reflejante, en la parte posterior la leyenda “agente de rampa”, palas, protectores auditivos (orejeras) y lentes protectores.
-
-B. En operaciones nocturnas: Chaleco reflejante, en la parte posterior la leyenda “agente de rampa”, señalador luminoso (lámpara), protectores auditivos (orejeras) y gafas protectoras.
-
-257. Accesorios para fornitura. Son empleados por el personal de Generales, Jefes y Oficiales en actividades operativas, son los siguientes:
-
-A. Mochila racionera. En su parte posterior cuenta con una cinta transversal que cruza por los costados con dos retenedores metálicos para sujetarse a la fajilla y dos cintas en los extremos superiores con ojillo metálico para sujetar los tirantes.
-
-B. Portacargadores con portagranadas. Cierra por una tapadera que se abrocha por medio de una hebilla de plástico y cuenta con dos bolsas portagranadas que cierran por medio de una cinta y un broche de presión. En la parte posterior tiene un par de retenedores metálicos para sujetarse en la fajilla.
-
-C. Portaánfora. Cierra en la parte superior por dos broches de presión y cuenta con una bolsa en el costado y tapadera que cierra con tela de contacto. En la parte posterior tiene una cinta con dos retenedores metálicos para sujetarse en la fajilla.
-
-D. Portalámpara. Cierra por una tapadera con tela de contacto y en la parte posterior lleva una cinta con un retenedor metálico para sujetarse en la fajilla.
-
-E. Bolsa de primeros auxilios. Cierra por una tapadera y broche de presión, en la parte posterior lleva una cinta con un retenedor metálico para sujetarse en la fajilla.
-
-258. Gogles Tácticos Multifuncionales. Son empleados en actividades de adiestramiento y operativas. Están constituidos por un marco de nylon resistente al calor que protege los ojos del viento, sol, resplandor y fragmentación, con espuma y material de goma que se ajustan al contorno de los ojos.
-
-259. Paracaídas. Son empleados como medio de infiltración de personal y abastecimientos, siendo los siguientes:
-
-A. Paracaídas principal.
-
-B. Paracaídas de reserva.
-
-260. Paracaídas principal. Para infiltración de personal, se acciona por medio de una cinta estática, se diseña en copa circular cóncava.
-
-261. Paracaídas de reserva. Para infiltración de personal, se utiliza en casos de emergencia, se acciona en forma manual, se diseña en copa circular plana.
-
-TERCERA SECCIÓN
-
-EQUIPO PARA ACTIVIDADES ECUESTRES
-
-SUBSECCIÓN (A)
-
-DESCRIPCIÓN DEL EQUIPO
-
-262. El equipo de montar utilizado por los organismos que cuentan con ganado equino es el siguiente:
-
-A. Equipo para ensillar el ganado:
-
-a. Albardón tipo inglés.
-
-b. Montura tipo texana.
-
-c. Bridas:
-
-1. De diario.
-
-2. De gala para el Heroico Colegio Militar.
-
-3. De gala para unidades montadas.
-
-4. Freno.
-
-5. Almartigón.
-
-B. Equipo de protección del lomo del caballo:
-
-a. Fieltro.
-
-b. Carona.
-
-c. Mantilla de diario.
-
-d. Mantilla de gala para el Heroico Colegio Militar.
-
-e. Mantilla de gala para el 1/er. Grupo de Caballería del Cuerpo de Guardias Presidenciales.
-
-C. Equipo y accesorios para ceremonias y desfiles en organismos montados:
-
-a. Ronsal de gala.
-
-b. Portasable.
-
-c. Mochilín o rollo.
-
-d. Borlas.
-
-e. Vendas.
-
-f. Cuja para estribo.
-
-D. Acicates y espuela:
-
-a. Acicates de diario para Generales, Jefes y Oficiales.
-
-b. Acicates de diario para Cadetes y Tropa.
-
-c. Acicates de gala.
-
-d. Espuelas.
-
-E. Chaparrera para caporal.
-
-F. Casco de adiestramiento y competencia.
-
-G. Balde morral.
-
-H. Equipo de forja y herraje:
-
-a. Mandil para herrador.
-
-b. Mandil para forja.
-
-SUBSECCIÓN (B)
-
-EMPLEO DEL EQUIPO
-
-263. Equipo para ensillar el ganado.
-
-A. Albardón tipo inglés. Es empleado en los organismos que cuentan con ganado equino para ensillarlo y emplearlo durante actividades de Adiestramiento, Deportes ecuestres y Ceremonias.
-
-B. Montura tipo texana. Es empleada por el personal del Criadero Militar de Ganado y las granjas dependientes de la Secretaría de la Defensa Nacional para ensillar al caballo y realizar Instrucción, ceremonias y actividades propias de estos organismos.
-
-C. Bridas. las que se utilizan en los organismos montados son las siguientes:
-
-a. Bridas de diario. Son empleadas en los organismos que cuentan con caballos para embridarlos y dirigirlos durante actividades de adiestramiento, deportes ecuestres y ceremonias.
-
-b. Bridas de gala para el Heroico Colegio Militar. Son empleadas para embridar y dirigir al caballo durante la realización de actividades de desfiles y ceremonias. Sus herrajes son en color dorado.
-
-c. Bridas de gala para unidades montadas. Son empleadas para embridar y dirigir al caballo durante la realización de actividades de adiestramiento, desfiles y ceremonias, sus herrajes son en color plateado.
-
-d. Freno. Es empleado por el personal del Criadero Militar de Ganado y de las Granjas dependientes de la Secretaría de la Defensa Nacional para dirigir al caballo durante actividades propias de estos organismos, se utiliza en adiestramiento y ceremonias.
-
-e. Almartigón. es empleado en los organismos que cuentan con ganado equino y se utiliza para conducir o asegurar al caballo fuera de su caballeriza.
-
-264. Equipo de protección del lomo del caballo.
-
-A. Fieltro. Se emplea para proteger el lomo del caballo del contacto directo con el albardón durante actividades de adiestramiento y ecuestres.
-
-B. Carona. Se emplea en el Criadero Militar de Ganado y las Granjas dependientes de esta Secretaría, su propósito es proteger el lomo del caballo del contacto directo con la montura tipo texana durante las actividades propias de estos organismos, así como de adiestramiento y ceremonias.
-
-C. Mantilla de diario. Es utilizada para proteger el lomo del caballo del contacto directo con el albardón durante actividades de adiestramiento y ecuestres.
-
-D. Mantilla de gala para el Heroico Colegio Militar. Es empleada para proteger el lomo del caballo del contacto directo con el albardón durante actividades de adiestramiento, desfiles, ceremonias y deportes ecuestres, cuenta con el escudo del Heroico Colegio Militar bordado en hilo dorado.
-
-E. Mantilla de gala para el 1/er. Grupo de Caballería del Cuerpo de Guardias Presidenciales, Centro Ecuestre de Alto Rendimiento y Criadero Militar de Ganado. Es empleada para proteger el lomo del caballo del contacto directo con el albardón durante actividades de adiestramiento, desfiles, ceremonias y deportes ecuestres, cuenta con el escudo de caballería bordado en hilo dorado.
-
-265. Equipo y accesorios para ceremonias y desfiles en organismos montados.
-
-A. Ronsal de gala. Es empleado por los organismos que cuentan con ganado equino para una mejor presentación del caballo, colocándose en el cuello del semoviente.
-
-B. Portasable. Es empleado por los organismos que cuentan con ganado equino durante actividades de adiestramiento, desfiles y ceremonias, es utilizado para sujetar el sable o machete sable del lado izquierdo de la montura, siendo sostenido de las anillas posteriores del lado izquierdo del albardón.
-
-C. Mochilín o rollo. Es empleado por el personal del Heroico Colegio Militar y el 1/er. Grupo de Caballería del Cuerpo de Guardias Presidenciales, durante desfiles y ceremonias para mejorar la presentación del caballo, se coloca en la parte posterior del albardón sostenido de las anillas, para el personal del Heroico Colegio Militar, llevará bordado el escudo de este plantel y para el 1/er. Grupo de Caballería del Cuerpo de Guardias Presidenciales el escudo propio de este organismo.
-
-D. Borlas. Son empleadas por los organismos que cuentan con ganado equino durante ceremonias y desfiles para mejorar la presentación del ganado, fabricada en hilo de estambre colocada en la crin del caballo.
-
-E. Vendas. Es empleado por los organismos que cuentan con ganado equino durante ceremonias y desfiles, para mejorar la presentación. Se coloca en las cañas de los miembros anteriores.
-
-F. Cuja para estribo. Es empleada en los organismos que cuentan con ganado equino para portar el estandarte, bandera, guión o lanza, en ceremonias y desfiles.
-
-266. Acicates y espuelas.
-
-A. Acicates de diario para Generales, Jefes y Oficiales. Son empleados con los uniformes de montar, durante actividades administrativas, de adiestramiento, ceremonias y deportes ecuestres.
-
-B. Acicates de diario para Cadetes y Tropa. Son empleados con los uniformes de montar, durante actividades administrativas y de adiestramiento.
-
-C. Acicates de gala. Son empleados con los uniformes de montar por los Oficiales y Cadetes del Heroico Colegio Militar, 1/er. Grupo de Caballería del Cuerpo de Guardias Presidenciales y aquel personal que se ordene durante ceremonias y desfiles.
-
-D. Espuelas. Son empleadas con el uniforme de montar por el personal del Criadero Militar de Ganado y de las Granjas dependientes de la Secretaría de la Defensa Nacional, durante actividades propias de estos organismos, en ceremonias y desfiles.
-
-267. Chaparrera para caporal. Es empleada con el uniforme de montar por el personal de caporales del Criadero militar de ganado y de las Granjas dependientes de la Secretaría de la Defensa Nacional, durante actividades propias de estos organismos, así como en ceremonias y desfiles para proteger el uniforme.
-
-268. Casco de adiestramiento y competencia. Es empleado por el personal de los organismos que cuentan con ganado equino para actividades de adiestramiento y deportivas, será en color negro para el personal de Generales, Jefes y Oficiales y Blanco para el personal de Tropa.
-
-269. Balde morral. Es empleado en los organismos que cuentan con ganado equino para proporcionar el grano o alimento al caballo en situaciones donde no se dispone de instalaciones fijas.
-
-270. Equipo de forja y herraje.
-
-A. Mandil para herrador. Es empleado por el personal que realiza esta actividad en los organismos que cuentan con ganado equino.
-
-B. Mandil para forja. Es empleado por el personal que realiza esta actividad en los organismos que cuentan con ganado equino.
-
-CUARTA SECCIÓN
-
-EQUIPO DE BANDA DE GUERRA
-
-271. Caja. Se compone de vaso, aros, parches, arillos, gancho perico, entorchado, bordonero, templaderas, gancho “s” y piola.
-
-272. Portacaja. Está formado por dos tiras de piel color negro de 9 centímetros de ancho y de longitud variable entre 70 y 80 centímetros, dichas tiras se unen entre sí por medio de un trozo de piel delgada, misma que lleva una argolla de alambrón, en la parte anterior y a la altura de las tetillas se colocará el número para identificar a la unidad a la que pertenece, en caso de ser una Institución de Educación Militar, se colocará el escudo correspondiente y en los extremos de las tiras de piel llevará una hebilla y una cinta del mismo material para su ajuste.
-
-273. Vestidura de gala para caja. Se utiliza para ceremonias de gala, es del color del arma, servicio o color distintivo de la Institución Educativa Militar que corresponda lleva (sic) el escudo respectivo; es de forma rectangular de 105 por 33 centímetros con el escudo o emblema bordado en el centro, en la parte inferior lleva fleco de artícela de 8 centímetros y cuatro curvaturas equidistantes a lo largo, y en sus extremos lleva dos cintas para su amarre en la caja.
-
-274. Baqueta de gala. Son unos palillos de encino de forma troncocónica los cuales en la parte más gruesa llevan un casquillo de latón de 5.5 centímetros de largo y un diámetro de 2.2 centímetros y en la más delgada 1.1 centímetros con una longitud total de 40 centímetros, en el extremo más delgado lleva un torneado de color blanco en forma de aceituna o bellota y el cuerpo en color negro.
-
-275. Baquetas de diario. Son unos palillos de encino de forma troncocónica los cuales en la parte más gruesa tienen un diámetro de 2.2 centímetros y en las más delgada 1.1 centímetros, con una longitud total de 40 centímetros, en el extremo más delgado lleva un torneado en forma de aceituna o bellota.
-
-276. Correas cargadoras. Son cuatro correas de piel negra de 50.0 centímetros de largo por 2.0 centímetros de ancho cada una, dos de éstas reciben el nombre de correas de hebilla y las otras dos se les designa con el nombre de correas de ojillos, todas llevan un dobles en sus extremos sujeto con remaches y costuras que sirven para introducir en ellos la piola, sirven para ajustar a la espalda del individuo la caja o tambor.
-
-277. Mandil. Es una pieza de cuero de color negro o blanco que sirve para preservar del desgaste de la prenda en la que se porte por el roce del bordonero cuando el individuo marcha, se sujeta y ajusta al cuerpo del individuo por medio de dos cinturones con hebilla.
-
-278. Corneta. Es un instrumento de latón con un largo total de 50 centímetros y se compone de pabellón, caña superior, caña inferior, alojamiento del tudel, tudel y boquilla, empleada por las bandas de guerra de las unidades de arma, servicios e instituciones educativas militares, con excepción de las de caballería, artillería y arma blindada.
-
-279. Trompeta. Es un instrumento de latón con un largo total de 56.0 centímetros y se compone de pabellón, caña superior, dos partes de caña inferior, émbolo o bomba con puente, tudel o rosquilla y boquilla, es empleada por las bandas de guerra de las unidades de caballería y armada blindada.
-
-280. Clarín. Es un instrumento de lámina de latón que mide 47.0 centímetros y se compone de pabellón, caña superior, émbolo o bomba con puente, dos partes de caña inferior y boquilla, es empleado por las bandas de guerra de las unidades de artillería.
-
-281. Vestidura de gala para corneta, clarín y trompeta. Es de piola trenzada del color distintivo de la unidad, dependencia, instalación o Institución Educativa Militar y en cada uno de sus extremos lleva una borla del mismo color; se enreda cubriendo parcialmente el cuerpo de la corneta, clarín o trompeta debiendo quedar las borlas colgando en la parte frontal de la misma y dejando una asa para suspender del hombro.
-
-282. Golpes para personal de bandas de guerra:
-
-A. De gala. Se confeccionan en tela del color distintivo de la Unidad, Dependencia, Instalación o Institución Educativa Militar según corresponda o blanco para el caso del uniforme de Gran Gala de la Escuela Militar de Enfermeras, en el cuerpo horizontalmente llevará tres franjas con un vivo de 2.2 milímetros de ancho, colocadas equidistantemente entre ellas, formando hacia el centro un ángulo interior de 130°; del vértice de este ángulo y de los extremos de cada cinta penderán unas pequeñas borlas del color de la tela, forradas con hilo del mismo color. Los golpes tendrán 17.8 centímetros de largo por 6.5 centímetros de ancho y se usarán dos en cada manga.
-
-B. Para ceremonias y desfiles. Se confecciona en tela de algodón camuflaje selva y desierto, con las características similares a los golpes de gala, pero las borlas son del color de la tela.
-
-QUINTA SECCIÓN
-
-EQUIPO PARA HONORES FÚNEBRES
-
-283. Artículos fúnebres. Son prendas destinadas a dar solemnidad y distinción a los actos fúnebres del militar fallecido en activo o retirado, los cuales portarán los Generales, Jefes, Oficiales, Cadetes y Tropa y se colocarán en la bandera e instrumentos de banda de guerra.
-
-Los artículos fúnebres son los siguientes: Moño o Corbata, el crespón, golpes, vestidura para caja y vestidura para corneta, clarín y trompeta.
-
-A. Moño o Corbata: se confecciona en tela color negro y se compone de una cinta con puntas de 53.0 y 34.0 centímetros de largo, respectivamente, y un moño de color negro en la parte superior de 19.0 centímetros de longitud y 9.0 centímetros de ancho. Se fijará a la bandera por medio de una cinta del mismo color de 2.0 centímetros de ancho.
-
-B. Crespón: Se confecciona en tela color negro, en forma rectangular de 40.0 centímetros de largo por 4.0 centímetros de ancho; en los extremos lleva tela de contacto para su ajuste en el brazo izquierdo del uniforme correspondiente.
-
-C. Golpes: se confecciona en tela de algodón color negro con las características similares a los golpes de gala, pero las borlas son de color negro sin forrar.
-
-D. Vestidura fúnebre para caja. Es de color negro, de forma rectangular, tiene 105.0 centímetros de largo por 33.0 centímetros de ancho con el escudo o emblema bordado en el centro. En la parte inferior lleva fleco de articela de 8 centímetros y cuatro curvaturas equidistantes a lo largo, y en sus extremos lleva dos cintas para su amarre en la caja.
-
-E. Vestidura fúnebre para corneta, clarín y trompeta. Es de piola trenzada de color negro y en cada uno de sus extremos lleva una borla del mismo color; se enreda cubriendo parcialmente el cuerpo de la corneta, clarín o trompeta debiendo quedar las borlas colgando en la parte frontal de la misma y dejando una asa para suspender del hombro.
-
-SEXTA SECCIÓN
-
-ARTÍCULOS DIVERSOS
-
-284. Placa metálica de identidad. Es empleada por el personal de Generales, Jefes, Oficiales, Cadetes y Tropa, y tiene por objeto facilitar la identificación del portador. Se fabrica en metal de color gris con una dimensión de 50 milímetros de largo por 23 milímetros de ancho y lleva la leyenda “SEDENA”. El nombre, matrícula y tipo de sangre del usuario troquelado en letras de tres milímetros de altura, distribuidas en forma proporcional en toda el área de la placa. La placa se colocará pendiendo del cuello por medio de una cadena de eslabones esféricos debajo de todas las prendas que se porten. Puede llevar una guarnición de hule para evitar que haga ruido al roce con otro metal.
-
-285. Portanombre rígido. Se utiliza en todos los uniformes con excepción de los de campaña, doble botonadura, gala y gran gala. Está fabricado en baquelita de 90 milímetros de largo por 20 milímetros de ancho, de color negro, con un filo de 2 milímetros de color blanco en el borde.
-
-La inscripción de la placa consistirá solamente en las iniciales del o los nombres, apellido paterno completo y la inicial del apellido materno inscritas en letras tipo arial de color blanco de 10 milímetros de altura por 5 milímetros de ancho, distribuidas en forma proporcional en toda la longitud de dicha placa. La placa se colocará sobre la cartera de la bolsa derecha, centrada en el espacio comprendido entre el ojal y el borde superior de la cartera y fijada a esta con broches.
-
-286. Gola. Sirve para identificar a los Jefes y Oficiales, titulares de los servicios de vigilancia, permanencia, oficial de cuartel y comandante de guardia en prevención. Se coloca suspendida del cuello. Está compuesta por una media luna convexa de latón, inscrita en un rectángulo de 145 por 95 milímetros y lleva en el centro el escudo del arma o servicio al que pertenezca.
-
-287. Escarapela Tricolor: Está formada por tres círculos concéntricos en un círculo de 22 milímetros de diámetro.
-
-288. Espada y sable. Son empleados por Generales, Jefes, Oficiales, Cadetes y Tropa en las Instituciones Educativas Militares y en las Unidades Montadas, en ceremonias y desfiles, para los Generales la vaina es de piel color negra con casquillo en el extremo inferior, para los Jefes y Oficiales es metálica, el personal de Tropa utiliza machete sable.
-
-A. Espada.
-
-B. Sable:
-
-a. Machete sable.
-
-289. Espadín. Es empleado por los Cadetes con el uniforme de gala para establecimientos de Educación Militar. La funda es de piel color negra con casquillo en el extremo inferior y el escudo distintivo en el extremo superior.
-
-290. Dragonas.
-
-A. Dragonas de diario. Es empleada por el personal de Generales, Jefes, Oficiales y discentes del Ejército y Fuerza Aérea para actividades de adiestramiento, siendo colocada en la empuñadura del sable o espada.
-
-B. Dragona de gala para General. Es empleada en desfiles y ceremonias, siendo colocada en la empuñadura del sable o espada.
-
-C. Dragona de gala para Jefes y Oficiales. Es empleada en ceremonias y desfiles, siendo colocada en la empuñadura del sable o espada.
-
-D. Dragona para machete sable. Es empleada por el personal de Tropa en las unidades montadas para ceremonias y desfiles, siendo colocada en la empuñadura del machete sable.
-
-DISPOSICIONES COMPLEMENTARIAS
-
-291. El Alto Mando será la única autoridad militar facultada para autorizar la creación o modificación de uniformes, divisas y equipo, empleados por el Ejército y Fuerza Aérea Mexicanos, establecidos en el presente manual.
-
-292. Independientemente de los uniformes, divisas y equipo que se citan en el presente manual, se podrán utilizar aquellos que en forma circunstancial sean ordenados por el alto mando para ceremonias y eventos específicos.
-
-En aquellos casos en que no se especifique la materia prima con que se confeccionen los uniformes, divisas y equipo del Ejército y Fuerza Aérea Mexicanos, su confección y elaboración se apegará a la descripción que contenga la ficha técnica correspondiente.
-
-293. De conformidad con el artículo 16 del Reglamento de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, el personal en situación de retiro cuando porte cualquier uniforme, deberá emplear las Divisas correspondientes al grado que se les confirió en el activo, en términos de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea mexicanos.
-
-México, Distrito Federal, a los veintinueve días del mes de mayo de dos mil trece.- El Secretario de la Defensa Nacional, General Salvador Cienfuegos Zepeda.- Rúbrica.
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-D.O.F. 10 DE MAYO DE 2018.
+> <small>(REFORMADA SU DENOMINACION, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 #### SECCION DECIMA SEGUNDA. DE LOS DERECHOS POR SERVICIOS DE ALUMBRADO PUBLICO
 
@@ -11393,9 +7169,9 @@ XI. Reconexión o reestablecimiento a los sistemas de agua potable.
 
 XII. Conexión de agua y drenaje.
 
-(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005) (F. DE E., G.G. 6 DE MARZO DE 2006)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-El Ayuntamiento mediante acuerdo de cabildo, determinará a favor de pensionados, jubilados, personas con capacidades diferentes, adultos mayores, viudas sin ingresos fijos y personas físicas, el otorgamiento de hasta un 50% de bonificaciones en el pago de los derechos por el suministro de agua potable y drenaje para uso doméstico, siempre y cuando su percepción diaria no rebase tres salarios mínimos generales del área geográfica que corresponda. Los términos y condiciones en cuanto al otorgamiento de los apoyos indicados se determinarán en el correspondiente acuerdo.
+> <small>(DEROGADO ANTEPENULTIMO PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 El consejo directivo del organismo público descentralizado de carácter municipal para la prestación de los servicios previstos en esta Sección, podrá acordar la realización de programas de apoyo a la regularización en el cumplimiento de obligaciones fiscales, mediante el otorgamiento de carácter general de subsidios de recargos y condonación de multas, previo acuerdo de cabildo, que será publicado en el periódico oficial.
 
@@ -11411,7 +7187,9 @@ I. Para uso doméstico:
 
 A). Con medidor.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 TARIFA
 
@@ -11439,6 +7217,10 @@ La cuota mínima a pagar en el bimestre no será menor a la que corresponda a un
 
 B). Si no existe aparato medidor o se encuentra en desuso, se pagarán bimestralmente los derechos, dentro de los primeros diecisiete días siguientes al bimestre que corresponda de acuerdo con la siguiente:
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
 TARIFA
 
 (VEASE ARCHIVO ANEXO)
@@ -11455,7 +7237,9 @@ II. Para uso no doméstico:
 
 A). Con medidor:
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 TARIFA
 
@@ -11472,6 +7256,10 @@ La cuota mínima a pagar en el bimestre no será menor a la que corresponda a un
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 B). Si no existe aparato medidor, o se encuentra en desuso, se pagarán bimestralmente los derechos de acuerdo con la siguiente:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 TARIFA
 
@@ -11517,19 +7305,23 @@ Los usuarios que se abastezcan de agua mediante carros tanque, pagarán la tarif
 
 Por el suministro de agua en bloque por parte de las autoridades municipales o sus organismos descentralizados a conjuntos urbanos y lotificaciones para condominio en el periodo comprendido desde la construcción hasta la entrega de las obras al municipio, se pagarán bimestralmente los derechos desde el momento en que reciba el servicio y que quede debidamente establecido en los convenios que al efecto se celebren con la autoridad fiscal competente, de acuerdo a la siguiente:
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
 TARIFA
 
-CONCEPTO GRUPOS DE MUNICIPIOS
+CONCEPTO GRUPOS DE MUNICIPIOS NUMERO DE
 
-NUMERO DE SALARIOS MINIMOS
+SALARIOS MINIMOS GENERALES DIARIOS
 
-GENERALES DIARIOS DEL AREA
+DEL AREA GEOGRAFICA QUE
 
-GEOGRAFICA QUE CORRESPONDA POR M3
+CORRESPONDA POR M3
 
-1 2 3 4
+Grupo 1 Grupo 2 Grupo 3 Grupo 4
 
-Agua en bloque 0.1362 0.12492 0.11424 0.10404
+Agua en Bloque 0.1410 0.1293 0.1182 0.1077
 
 Por lo anterior, la autoridad fiscal correspondiente instalará un aparato medidor de consumo a costa del desarrollador para determinar el volumen del suministro de agua en bloque y éste estará obligado a reportar mediante los formatos oficiales los consumos y a efectuar su pago dentro de los primeros diecisiete días siguientes al del bimestre que se esté reportando.
 
@@ -11755,7 +7547,9 @@ No pagarán los derechos previstos en este artículo los conjuntos urbanos o uni
 
 Los Ayuntamientos, que de conformidad con las características o circunstancias técnicas y operativas de la prestación de los servicios a que se refiere esta sección, requieran de tarifas diferentes a las establecidas, las propondrán a más tardar el 15 de noviembre a la Legislatura.
 
-Las tarifas que se propongan no podrán ser inferiores a las señaladas en esta sección ni a los costos directos que implique su prestación.
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2008)</small>
+
+Las tarifas que se propongan deberán atender a los costos directos que implique su prestación, determinados con base en el Manual Metodológico aprobado en el marco del Sistema de Coordinación Hacendaria.
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -12505,7 +8299,9 @@ excedente, por día. 1.0
 
 #### SECCION SEGUNDA. DEL PROCEDIMIENTO PARA LA INTEGRACION Y ACTUALIZACION DE LAS TABLAS DE VALOR
 
-> <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 150.
 
@@ -12621,31 +8417,41 @@ Por el registro anual de instrumentos para la identificación de señales de san
 
 ###### Artículo 154.
 
-Por el uso de vías, plazas públicas o áreas de uso común para realizar actividades comerciales o de servicios, se pagarán por día los derechos conforme a la siguiente:
-
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+Por el uso de vías, plazas públicas, mercados públicos municipales o áreas de uso común para realizar actividades comerciales o de servicios, se pagarán por día los derechos conforme a la siguiente:
 
 TARIFA
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 29 DE DICIEMBRE DE 2006)</small>
+CONCEPTO Número de Salarios
 
-CONCEPTO Número de Salarios Mínimos
+Mínimos Diarios
 
-Diarios Generales del Área
+Generales del Área
 
-Geográfica que corresponda.
+Geográfica que
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+corresponda.
 
-I. Puestos fijos, semifijos o comerciantes ambulantes por cada metro cuadrado o fracción. 0.052
+I. Puestos fijos, semifijos o comerciantes
 
-II. (DEROGADA, G.G. 26 DE DICIEMBRE DE 2007)
+ambulantes por cada metro cuadrado
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+o fracción. 0.01
 
-III. Máquinas accionadas por monedas, fichas o cualquier otro mecanismo, expendedoras de cualquier tipo de productos y/o prestadoras de servicios.
+II. Locales en mercados públicos
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+municipales, por cada metro
+
+cuadrado o fracción. 0.01
+
+III. Máquinas accionadas por monedas,
+
+fichas o cualquier otro mecanismo,
+
+expendedoras de cualquier tipo de
+
+productos y/o prestadoras de servicios,
+
+por máquina. 0.050
 
 El pago de este derecho deberá realizarse ante la tesorería correspondiente o bien a la persona autorizada para ello, siendo responsabilidad del tesorero entregar cada mes el recibo oficial respectivo, a cambio de los comprobantes provisionales de pago.
 
@@ -12839,11 +8645,15 @@ Generales Diarios Vigentes del
 
 corresponda.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
 I. Por cada cajón de estacionamiento de
 
 vehículos en la vía pública y lugares de
 
-uso común, por cada diez minutos. 0.0229
+uso común, por cada diez minutos. 0.0240
 
 II. Por el uso como base de taxis en la vía
 
@@ -12867,11 +8677,13 @@ En el caso de las fracciones II y III, el pago se realizará durante los diez pr
 
 Para proceder al cobro de este derecho la autoridad municipal deberá emitir las disposiciones administrativas que delimiten el uso de los cajones de estacionamiento por los que se hayan realizado los pagos de derechos en términos de la fracción II de este artículo, así como propiciar la correcta señalización y uso de la vía pública, de conformidad con el reglamento que para tal fin emita la propia autoridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 158.
 
-Por evaluación de la prestación del servicio municipal de recepción, guarda, custodia y devolución de vehículos automotores, el permisionario pagará derechos conforme a lo siguiente:
+Por evaluación de la prestación del servicio al público de recepción, guarda, custodia y devolución de vehículos automotores, el permisionario pagará derechos conforme a lo siguiente:
 
 I. Los establecimientos que presten el servicio de manera permanente pagarán bimestralmente 0.34 días de salario mínimo general del área geográfica que corresponda, por cada espacio o cajón autorizado, dentro de los días primero al diecisiete días (sic) de los meses de febrero, abril, junio, agosto, octubre y diciembre.
 
@@ -13353,25 +9165,31 @@ El importe de los derechos a pagar, será el resultado de sumar a la cuota fija 
 
 ### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 167.
 
-Las disposiciones de este título tienen por objeto normar la actividad catastral en el Estado y la integración y actualización de las Tablas de Valores Unitarios de Suelo y Construcciones.
+Las disposiciones de este título tienen por objeto normar la actividad catastral en el Estado, así como la integración y actualización de las Tablas de Valores Unitarios de Suelo y Construcciones.
 
 > <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 En lo concerniente a la integración, conservación y actualización de la información e investigación catastral, se estará a lo dispuesto en el LIGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables en la materia.
 
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 168.
 
-Catastro es el sistema de información territorial, cuyo propósito es integrar y conservar el padrón catastral que contiene los datos técnicos y administrativos de un inventario analítico de los inmuebles ubicados en el Estado.
+Catastro es el sistema de información territorial, cuyo propósito es integrar, conservar y mantener actualizado el padrón catastral que contiene los datos técnicos y administrativos de un inventario analítico de los inmuebles ubicados en el Estado.
 
-> <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-El padrón catastral es el inventario conformado por el conjunto de registros geográficos, gráficos, estadísticos, alfanuméricos y elementos y características resultantes de las actividades catastrales de identificación, inscripción, control y valuación de los inmuebles.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+El padrón catastral es el inventario analítico de los inmuebles, conformado por el conjunto de registros geográficos, gráficos, estadísticos, alfanuméricos y elementos y características resultantes de las actividades catastrales de identificación, inscripción, control y valuación de los inmuebles.
 
 > <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -13393,7 +9211,11 @@ II. El Secretario de Finanzas;
 
 III. El Director General del Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México;
 
-IV. Los ayuntamientos o quienes legalmente los representen.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+IV. El ayuntamiento y el servidor público que éste designe como titular del área de catastro municipal.
 
 > <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -13409,9 +9231,11 @@ Además de las atribuciones que otros ordenamientos le confieren en materia de i
 
 I. Establecer los procedimientos técnicos y administrativos en materia catastral y verificar su cumplimiento, en términos de el LIGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables en la materia.
 
-> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II. Autorizar los formatos para las manifestaciones catastrales, para efectos de inscripción y actualización de registros en el padrón catastral.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+II. Autorizar los formatos aplicables en materia catastral.
 
 > <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -13421,9 +9245,11 @@ III. Integrar, conservar y mantener actualizado el padrón catastral del Estado.
 
 IV. Practicar estudios de valores unitarios comerciales de suelo en el territorio del Estado.
 
-> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-V. Practicar avalúos catastrales y comerciales de inmuebles, levantamientos topográficos y verificar, en su caso, los avalúos practicados por terceros para fines catastrales.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+V. Practicar avalúos catastrales y comerciales de inmuebles, levantamientos topográficos y verificar los avalúos catastrales practicados por los especialistas en valuación inmobiliaria registrados en el IGECEM.
 
 > <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -13441,9 +9267,11 @@ VIII. Diagnosticar que la actividad catastral a cargo de los ayuntamientos se re
 
 IX. Asumir mediante convenio algunas de las funciones catastrales conferidas en este título al ayuntamiento, cuando se considere procedente y medie solicitud.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-X. Practicar avalúos catastrales y comerciales y levantamientos topográficos, solicitados por autoridades administrativas y fiscales.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+X. Establecer conjuntamente con las autoridades catastrales municipales los lineamientos de coordinación y participación catastral conforme a lo establecido en el Reglamento correspondiente.
 
 > <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -13499,17 +9327,21 @@ VII. Practicar levantamientos topográficos catastrales y verificación de linde
 
 VIII. Proporcionar la información que soliciten por escrito otras dependencias oficiales.
 
-> <small>(REFORMADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IX. Proponer al IGECEM la modificación, actualización y creación de áreas homogéneas, bandas de valor, manzanas catastrales, códigos de clave de calle, nomenclatura y valores unitarios de suelo y construcción.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+IX. Solicitar la opinión técnica al IGECEM sobre la modificación y actualización de áreas homogéneas, bandas de valor, manzanas catastrales, códigos de clave de calle, nomenclatura y valores unitarios de suelo y construcciones, que conformará el proyecto de Tablas de Valores Unitarios de Suelo y Construcciones que proponga a la Legislatura.
 
 > <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 X. Difundir dentro de su territorio las Tablas de Valores Unitarios de Suelo y Construcción aprobadas por la Legislatura.
 
-> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-XI. Aplicar las Tablas de Valores Unitarios de Suelo y Construcción aprobadas por la Legislatura, en la determinación del valor catastral de los inmuebles.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XI. Aplicar las Tablas de Valores Unitarios de Suelo y Construcciones aprobadas por la Legislatura, en la determinación del valor catastral de los inmuebles.
 
 > <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -13527,9 +9359,11 @@ XIV. Proponer al IGECEM la realización de estudios tendientes a lograr la actua
 
 XV. Proponer a la Legislatura para su aprobación el proyecto de Tablas de Valores Unitarios de Suelo y Construcciones.
 
-> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-XVI. Solicitar al IGECEM opinión técnica sobre el proyecto de Tablas de Valores Unitarios de Suelo y Construcciones que propongan a la Legislatura.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XVI. Asistir a las reuniones de trabajo o de capacitación convocadas por el IGECEM en el ámbito de la coordinación catastral.
 
 XVII. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2006)
 
@@ -13555,9 +9389,11 @@ Cuando el IGECEM o el Ayuntamiento, practiquen trabajos de levantamientos topogr
 
 Los hechos y circunstancias del levantamiento topográfico catastral y observaciones de los interesados, se harán constar en acta, que será firmada por todos los que intervengan y quieran hacerlo, a quienes previa solicitud se les entregará copia.
 
-> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Los datos obtenidos como resultado de los trabajos catastrales enunciados en este artículo, serán considerados para actualizar el padrón catastral del Ayuntamiento y del Estado, por lo que la autoridad que realice el levantamiento topográfico catastral deberá remitir copias del plano, del acta y del documento que acredite la propiedad al Ayuntamiento y copia del plano al IGECEM, según sea el caso.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Los datos obtenidos como resultado de los trabajos catastrales enunciados en este artículo, serán considerados para actualizar el padrón catastral del Ayuntamiento y del Estado.
 
 > <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -13567,11 +9403,13 @@ Cuando los colindantes hubiesen sido notificados en términos del Código de Pro
 
 Los levantamientos topográficos catastrales se practicarán de acuerdo a los términos y formas previstos por el reglamento correspondiente, el Manual Catastral y demás disposiciones aplicables.
 
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 173.
 
-El IGECEM y el ayuntamiento, a costa del interesado, previa solicitud por escrito en la que acredite su interés jurídico o legítimo, podrán expedir certificaciones o constancias de los documentos y datos que obren en sus archivos o en el padrón catastral, en la materia de su competencia.
+El IGECEM y el Ayuntamiento, a costa del interesado, previa solicitud por escrito en la que acredite su interés jurídico o legítimo, podrán expedir certificaciones o constancias de información catastral que obren en sus archivos o en el padrón catastral, en la materia de su competencia.
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -13593,11 +9431,13 @@ El Ayuntamiento enviará al IGECEM la información actualizada de los registros 
 
 ### CAPITULO TERCERO. DE LA INSCRIPCION DE INMUEBLES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 175.
 
-Los propietarios o poseedores de inmuebles ubicados en territorio del Estado, incluyendo las Dependencias y Entidades Públicas, están obligados a inscribirlos ante el catastro del Ayuntamiento, mediante manifestación que presenten de acuerdo al procedimiento en los formatos autorizados por el IGECEM, precisando las superficies del terreno y de la construcción, su ubicación, y uso de suelo, si es a título de propietario o poseedor y demás datos solicitados, exhibiendo la documentación requerida para estos efectos.
+Los propietarios o poseedores de inmuebles independientemente del régimen jurídico de propiedad ubicados en el territorio del Estado, incluyendo las Dependencias y Entidades Públicas, están obligados a inscribirlos ante el catastro del Ayuntamiento, mediante manifestación que presenten de acuerdo al procedimiento en los formatos autorizados por el IGECEM, precisando las superficies del terreno y de la construcción, su ubicación, y uso de suelo, si es a título de propietario o poseedor y demás datos solicitados, exhibiendo la documentación requerida para estos efectos.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -13707,7 +9547,11 @@ V. Acta de entrega, cuando se trate de inmuebles de interés social.
 
 VI. Cédula de contratación que emita la dependencia oficial autorizada para la regulación de la tenencia de la tierra.
 
-VII. Título, certificado o cesión de derechos agrarios o comunales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+VII. Título, certificado o cesión de derechos agrarios, comunales o ejidales.
 
 > <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -13735,11 +9579,13 @@ Cuando no se inscriba un inmueble, no se manifieste su valor o las modificacione
 
 El sistema de valuación catastral de inmuebles tiene como base las características predominantes en la circunscripción territorial denominada área homogénea y tomará como referencia los valores de mercado del suelo y de la construcción.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 186.
 
-Las Tablas de Valores Unitarios de Suelo y de Construcciones que forman parte integrante del Código, son el decreto emitido por la Legislatura del Estado, a iniciativa de los ayuntamientos, que contiene debidamente ordenada y relacionada geográficamente, la información de áreas homogéneas y bandas de valor, así como las manzanas catastrales, usos de suelo y tipología de las construcciones que conforman los valores unitarios de suelo y de construcciones aplicables.
+Las Tablas de Valores Unitarios de Suelo y de Construcciones que forman parte integrante del Código, son el decreto emitido por la Legislatura del Estado, a iniciativa de los ayuntamientos, que contiene debidamente ordenada y relacionada geográficamente, la información de áreas homogéneas y bandas de valor con las manzanas catastrales que las conforman y los valores unitarios de suelo que corresponde a cada una de ellas; asimismo, los códigos de usos de suelo, clases y categorías que identifican a las tipologías de construcciones y los valores unitarios aplicables a cada tipología.
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -13765,13 +9611,19 @@ Las bandas de valor son tramos de vialidad identificados dentro de una área hom
 
 El área base, es la superficie promedio preponderante, de los predios que integran a cada área homogénea, que determina las dimensiones del frente y fondo base, constituyen la referencia de comparación para la determinación y aplicación de los factores correspondientes, en la valuación de un inmueble.
 
-> <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 191.
 
-Las bandas de valor se delimitan por manzanas completas, por lo que sus extremos deben coincidir necesariamente, con cruceros de vialidades o límites físicos.
+Las bandas de valor se delimitarán por frentes completos de manzanas, en uno o ambos lados de la vialidad, por lo que sus extremos deben coincidir necesariamente, con cruceros de vialidades o límites físicos.
 
-Cuando un inmueble esté afectado por dos o más bandas, para efectos de valuación catastral, se considerará la de menor valor.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Cuando un inmueble esté afectado por dos o más bandas, para efectos de valuación catastral, deberá considerarse el valor unitario de suelo de aquella que corresponda a su acceso principal.
 
 > <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -13783,17 +9635,23 @@ Para efectos de integración del código de identificación de las bandas de val
 
 Los valores unitarios de suelo y de construcciones se determinarán por la unidad de medida que establecen las Tablas de Valores Unitarios de Suelo y Construcciones aprobadas por la Legislatura y que forman parte de este Código.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 193.
 
-Para los efectos de clasificación de las áreas homogéneas y la determinación de los valores unitarios de suelo, así como para la clasificación de las tipologías de construcción y la determinación de los valores unitarios de construcción, se atenderá a lo siguiente:
+Para los efectos de clasificación de las áreas homogéneas y la determinación de los valores unitarios de suelo, así como para la clasificación de las tipologías de construcción y la determinación de los valores unitarios de construcciones, se atenderá a lo siguiente:
 
 I. Tratándose de suelo, en la codificación que servirá para identificar a los diferentes tipos de áreas homogéneas, se deberán considerar los criterios de uso de suelo y nivel de jerarquización siguientes:
 
 El uso de suelo puede ser: Habitacional (H), Comercial (C), Industrial (I), Equipamiento (E), Agrícola (A), Agostadero (B), Forestal (F), Eriazo (G) y Especial (L).
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Los niveles de jerarquización se identifican por una clave que asigna diversas categorías a los usos de suelo y se definen atendiendo al análisis cuantitativo y cualitativo predominante sobre la existencia, calidad y disponibilidad de los servicios públicos; infraestructura urbana; equipamiento; régimen jurídico de la propiedad y tenencia de la tierra; nivel socioeconómico de la población; así como el tipo y calidad de las construcciones.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Los niveles de jerarquización se identifican por una clave que asigna diversas categorías a los usos de suelo y se definen atendiendo al análisis cuantitativo y cualitativo predominante sobre la existencia, calidad y disponibilidad de los servicios públicos; infraestructura; equipamiento; régimen jurídico de la propiedad; nivel socioeconómico de la población; así como el tipo y calidad de las construcciones.
 
 Con base en lo enunciado en los dos párrafos anteriores, el código del área homogénea se integra por dos caracteres, el primero es alfabético y corresponde a la clave de uso del suelo; el segundo es numérico y corresponde al nivel de jerarquización, conforme a la siguiente clasificación:
 
@@ -13853,7 +9711,11 @@ L2 Especial Cuerpos de agua 2
 
 L3 Especial Reservas naturales 3
 
-Las definiciones que permitan identificar las diferencias cualitativas y cuantitativas que corresponden a cada una de las áreas homogéneas antes indicadas, deberán establecerse en el Reglamento correspondiente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Las definiciones de los usos de suelo y las características que permitan identificar las diferencias cualitativas y cuantitativas que corresponden a cada una de las áreas homogéneas antes indicadas, deberán establecerse en el Reglamento de este Título.
 
 II. Tratándose de construcción, en la codificación que servirá para identificar a las diferentes tipologías de construcciones, se deberán considerar los criterios de uso, clase y categoría, siguientes:
 
@@ -13863,7 +9725,11 @@ Cada uso se clasifica en clases de acuerdo con el proyecto de la construcción y
 
 Asimismo, cada clase se clasifica en categorías atendiendo a la existencia y calidad de los acabados básicamente en muros, pisos, techos y baños.
 
-Con base en lo descrito en los tres párrafos anteriores, el código de las tipologías de construcción se integra por tres caracteres, el primero es alfabético y define el uso; el segundo es alfabético para definir la clase; y el tercero es numérico y corresponde a la categoría, de conformidad con la siguiente clasificación:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Con base en lo descrito en los tres párrafos anteriores, el código de las tipologías de construcción se integra por tres caracteres, el primero es alfabético e identifica el uso; el segundo es alfabético para referir la clase; y el tercero es numérico y corresponde a la categoría, de conformidad con la siguiente clasificación:
 
 Código Uso Clase Categoría
 
@@ -14117,7 +9983,11 @@ Metálicos
 
 EL3 Especiales Pavimento Alta
 
-Las definiciones que permitan identificar las diferencias cualitativas y cuantitativas respecto al proyecto de la construcción, material empleado en la ejecución de la obra básica y acabados, que corresponde a cada una de las tipologías de construcción antes enlistadas, deberán establecerse en el Reglamento correspondiente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Las características que permitan identificar las diferencias cualitativas y cuantitativas respecto al proyecto de la construcción, material empleado en la ejecución de la obra básica y acabados, que corresponde a cada una de las tipologías de construcción antes enlistadas, deberán establecerse en el Reglamento de este Título.
 
 > <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -14137,43 +10007,65 @@ En la Tabla de Valores Unitarios de Construcciones, se identifican el código de
 
 ###### Artículo 195.
 
-Las Tablas de Valores Unitarios de Suelo y Construcciones, se modificarán, actualizarán o crearán, por las autoridades de la materia, en los términos siguientes:
+Las Tablas de Valores Unitarios de Suelo y Construcciones, se modificarán, y actualizarán, por las autoridades en la materia, en los términos siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I. El ayuntamiento en coordinación con el IGECEM, de acuerdo a la normatividad establecida en el reglamento de este Título y en el Manual Catastral, elaborará las propuestas para la modificación, actualización o creación de áreas homogéneas, bandas de valor, manzanas, códigos de clave de calle, nomenclatura y valores unitarios de suelo y construcciones, de la totalidad del territorio municipal.
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+I. El Ayuntamiento en coordinación con el IGECEM, de acuerdo a la normatividad establecida en el reglamento de este Título y en el Manual Catastral, elaborará las propuestas para la modificación, y actualización de áreas homogéneas, bandas de valor, manzanas, códigos de clave de calle, nomenclatura y valores unitarios de suelo y construcciones, de la totalidad del territorio municipal.
+
+> <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 Para mantener la homogeneidad y la congruencia técnica de la información, el ayuntamiento presentará al IGECEM las propuestas acompañadas de los soportes técnicos que sustenten las actualizaciones, durante el período comprendido entre el uno de enero y el treinta de junio de cada año.
 
-Los soportes técnicos a que se hace mención en el párrafo anterior, se conforman por la documentación que contiene los estudios con los que se acredita que los valores unitarios de suelo y construcción propuestos, son equiparables a los valores de mercado, así como los gráficos correspondientes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Los soportes técnicos a que se hace mención en el párrafo anterior, se conforman por la documentación que contiene los estudios con los que se acredita que los valores unitarios de suelo y construcciones propuestos, son equiparables a los valores de mercado, así como los gráficos correspondientes.
+
+> <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 Para efectos de este Título, se entenderá por valor de mercado a la expresión en términos monetarios por unidad de medida, resultado de una investigación de precios de inmuebles comparables dentro de la zona en estudio, obtenidos en un período de tiempo razonable y en un mercado inmobiliario abierto donde imperen condiciones libres de toda coacción entre la oferta y la demanda, información que permite, mediante un proceso de análisis estadístico, obtener un valor promedio aplicable en dicha zona.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II. Las propuestas y los soportes técnicos a que se refiere la fracción anterior, serán revisadas técnicamente por el IGECEM durante los meses de julio y agosto de cada año, a efecto de que cumplan con lo dispuesto en este Título, su reglamento y en el Manual Catastral, que hayan sido elaboradas de acuerdo con los instructivos y formatos autorizados, enviándose durante los primeros siete días de septiembre al ayuntamiento para la integración del proyecto municipal de Tablas de Valores Unitarios de Suelo y Construcciones.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+II. Las propuestas y los soportes técnicos a que se refiere la fracción anterior, serán revisadas técnicamente por el IGECEM durante los meses de julio y agosto de cada año, a efecto de que cumplan con lo dispuesto en este Título, su reglamento y en el Manual Catastral, que hayan sido elaboradas de acuerdo con los instructivos y formatos autorizados. El IGECEM enviará la opinión técnica correspondiente durante los primeros siete días de septiembre al Ayuntamiento para la integración del proyecto municipal de Tablas de Valores Unitarios de Suelo y Construcciones.
 
-El Ayuntamiento en sesión de cabildo validará el proyecto municipal de Tablas de Valores Unitarios de Suelo y Construcciones y los soportes técnicos que lo sustentan e integrará la iniciativa correspondiente, que someterá a la Legislatura a más tardar el día quince de octubre, en los términos que dispone el Reglamento de este Título.
+El Ayuntamiento en sesión de cabildo validará el proyecto municipal de Tablas de Valores Unitarios de Suelo y Construcciones y los soportes técnicos que lo sustentan, elaborado por la autoridad catastral de su municipio e integrará la iniciativa correspondiente, que someterá a la Legislatura a más tardar el día quince de octubre, en los términos que dispone el Reglamento de este Título.
 
-En los años de renovación del ayuntamiento, las autoridades municipales que inician su gestión deberán conocer las propuestas que integran el proyecto municipal de Tablas de Valores Unitarios de Suelo y Construcciones, formulada por las autoridades municipales que concluyen su gestión y revisadas técnicamente por el IGECEM, a efecto de ratificar o rectificar estas propuestas y remitirlas a la Legislatura en los términos previstos en el párrafo anterior.
+En los años de renovación del Ayuntamiento, las autoridades municipales que inician su gestión deberán conocer las propuestas que integran el proyecto municipal de Tablas de Valores Unitarios de Suelo y Construcciones, elaborada por la autoridad catastral municipal que concluyen su gestión y revisadas técnicamente por el IGECEM, a efecto de ratificar o rectificar estas propuestas y remitirlas a la Legislatura en los términos previstos en el párrafo anterior.
+
+> <small>(REFORMADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 III. A la recepción de las iniciativas municipales de Tablas de Valores Unitarios de Suelo y Construcciones, la Legislatura verificará que los soportes documentales coincidan con aquellos revisados técnicamente por el IGECEM y en su caso, las aprobará durante los primeros quince días del mes de noviembre.
 
-Cuando de la verificación a que alude el párrafo anterior, se determine que alguna iniciativa municipal de Tablas de Valores Unitarios de Suelo y Construcciones no contiene los soportes técnicos necesarios o éstos no coinciden con los revisados por el IGECEM; en estos casos, la Legislatura otorgará un plazo improrrogable de quince días naturales a efecto de que corrija la omisión y presenten los sustentos documentales que permitan acreditar que los valores unitarios de suelo o construcción propuestos, son equiparables a los valores de mercado y previo análisis en lo particular, la Legislatura determinará lo conducente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Cuando de la verificación a que alude el párrafo anterior, se determine que alguna iniciativa municipal de Tablas de Valores Unitarios de Suelo y Construcciones no contiene los soportes técnicos necesarios o éstos no coinciden con los revisados por el IGECEM; en estos casos, la Legislatura otorgará un plazo improrrogable de quince días naturales a efecto de que corrija la omisión y presenten los sustentos documentales que permitan acreditar que los valores unitarios de suelo o construcciones propuestos, son equiparables a los valores de mercado y previo análisis en lo particular, la Legislatura determinará lo conducente.
 
 Tratándose de los ayuntamientos que no presenten ante la Legislatura su iniciativa municipal de Tablas de Valores Unitarios de Suelo y Construcciones en los términos establecidos en este Código, la Legislatura otorgará un plazo improrrogable de cinco días a efecto de que el ayuntamiento presente su iniciativa, en caso de incumplimiento, con los elementos que le proporcione el IGECEM, determinará lo procedente.
 
 Los valores unitarios aprobados iniciarán si (sic) vigencia a partir del primer día del mes de enero del siguiente año.
 
-IV. El ayuntamiento remitirá al IGECEM copia certificada del acta de cabildo de la sesión a que alude el segundo párrafo de la fracción II de este artículo, a más tardar el día quince de octubre.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+IV. El Ayuntamiento remitirá al IGECEM copia certificada del acuerdo contenido en el acta de cabildo de la sesión a que alude el segundo párrafo de la fracción II de este artículo, a más tardar el día quince de octubre.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 196.
 
-El ayuntamiento podrá proponer la modificación, actualización o creación de áreas homogéneas, bandas de valor, manzanas códigos de clave de calle, nomenclatura y valores unitarios de suelo, observando los siguientes lineamientos:
+El Ayuntamiento deberá proponer la modificación y actualización de áreas homogéneas, bandas de valor, manzanas, códigos de clave de calle, nomenclatura y valores unitarios de suelo, observando los siguientes lineamientos:
 
 > <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -14193,9 +10085,11 @@ IV. Cuando no haya operaciones inmobiliarias o sean escasas en el área homogén
 
 V. Con base en los estudios anteriores se determinará la consistencia, subdivisión o fusión del área homogénea y la existencia de una, varias o ninguna banda de valor.
 
-> <small>(REFORMADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-VI. La propuesta de modificación, actualización o creación de las áreas homogéneas, bandas de valor, manzanas, códigos de clave de calle, nomenclatura y valores unitarios de suelo, se deberá acompañar del plano o gráfico correspondiente y los formatos que contengan la información solicitada por el IGECEM debidamente requisitados.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+VI. La propuesta de modificación y actualización de las áreas homogéneas, bandas de valor, manzanas, códigos de clave de calle, nomenclatura y valores unitarios de suelo, se deberá acompañar del plano o gráfico correspondiente y los formatos que contengan la información solicitada por el IGECEM debidamente requisitados.
 
 VII. (DEROGADA, G.G. 31 DE DICIEMBRE DE 2001)
 
@@ -14411,9 +10305,17 @@ III. Promover el pago de las aportaciones.
 
 IV. Participar en la licitación, concurso y adjudicación cuando la obra o acción se encomiende a un tercero mediante contrato.
 
-V. Supervisar que la obra se realice de acuerdo con las especificaciones del proyecto aprobado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-VI. Informar a los beneficiarios de los avances de la obra y de los importes recuperados por la autoridad.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+V. Supervisar que la obra o acción se realice de acuerdo con las especificaciones del proyecto aprobado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+VI. Informar a los beneficiarios de los avances de la obra o acción y de los importes recuperados por la autoridad.
 
 VII. Contratar con cargo al presupuesto, los peritos para la supervisión de la obra, en caso de considerarlo necesario, previo acuerdo con la autoridad coordinadora.
 
@@ -14441,7 +10343,11 @@ Cuando la obra o la acción no se esté realizando conforme a las especificacion
 
 Si de la aplicación de las medidas correctivas recomendadas, resultare un costo adicional, éste no impactará en el pago de las aportaciones individuales.
 
-Si la obra no se realiza, los aportadores que hubieran pagado, podrán solicitar la devolución de la cantidad aportada más sus intereses en términos de este ordenamiento.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Si la obra o acción no se realiza, los aportadores que hubieran pagado, podrán solicitar la devolución de la cantidad aportada más sus intereses en términos de este ordenamiento.
 
 > <small>(REFORMADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -14485,19 +10391,23 @@ Sólo para efectos de este capítulo, el número de cajones de estacionamiento r
 
 El factor de mitigación de impacto vial se aplicará de acuerdo al tipo de vehículo que potencialmente hará uso del inmueble como sigue:
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
 TIPO DE VEHICULO FACTOR DE MITIGACION
 
 DE IMPACTO VIAL
 
-A. Automóvil, camioneta y pickup $566.
+A. Automóvil, camioneta y pickup $599.
 
 B. Autobuses, microbuses y similares
 
-hasta con cuatro ejes $799.
+hasta con cuatro ejes $845.
 
-C. Camiones de carga de dos hasta seis ejes $1,210.
+C. Camiones de carga de dos hasta seis ejes $1,280.
 
-D. Combinación de un tracto-camión $992.
+D. Combinación de un tracto-camión $1,050.
 
 con semiremolque y/o remolque
 
@@ -14527,7 +10437,7 @@ Zona C. Municipios de Bajo Impacto; son aquellos con baja densidad poblacional c
 
 Para establecer el número de cajones de estacionamiento requeridos por el inmueble y el factor de uso de suelo a que se refiere el artículo 216-B, se ubicará el rango que corresponda de acuerdo al uso general del suelo, el uso específico del suelo y la zona en que se localice el inmueble, de conformidad con la siguiente tabla:
 
-Esta tabla sólo se establece para efectos de poder determinar la aportación para obras de impacto vial, el número de cajones de estacionamiento requeridos por el inmueble por metro cuadrado o características de uso, sin que surta efectos para ningún otro fin.
+Esta tabla solo se establece para efectos de poder determinar la aportación para obras de impacto vial, el número de cajones de estacionamiento requeridos por el inmueble por metro cuadrado o características de uso, sin que surta efectos para ningún otro fin.
 
 (VEASE ARCHIVO ANEXO)
 
@@ -14539,65 +10449,65 @@ Cuando no se encuentre comprendido en la tabla anterior por su denominación alg
 
 Tratándose de conjuntos urbanos habitacionales en el Estado, para la determinación de la aportación que por cada vivienda corresponda, se aplicará la siguiente tarifa:
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 TIPO DE VIVIENDA MONTO DE APORTACIÓN
 
 POR VIVIENDA
 
-DE INTERÉS SOCIAL $516
+DE INTERÉS SOCIAL $546
 
-POPULAR $772
+POPULAR $817
 
-MEDIA $8,646
+MEDIA $9,147
 
-RESIDENCIA $14,373
+RESIDENCIA $15,207
 
 RESIDENCIAL ALTO
 
-Y CAMPESTRE $24,521
+Y CAMPESTRE $25,943
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 216-F.
 
-Estas Aportaciones para Obras de Impacto Vial deberán pagarse dentro de los diecisiete días siguientes al inicio de la vigencia de la primera licencia municipal de construcción, debiendo enterarlas mediante declaración en la forma oficial aprobada, o convenirse el pago diferido o en parcialidades, con otorgamiento de la garantía del interés fiscal conjuntamente con la solicitud de autorización, mismas que se deberán presentar dentro del plazo citado.
+Estas Aportaciones para Obras de Impacto Vial deberán pagarse dentro de los diecisiete días siguientes al inicio de la vigencia de la primera licencia o primer permiso municipal de construcción, salvo que cualquiera de dichos documentos se hubiesen notificado o entregado en fecha posterior, caso en el cual, se tomará esta última fecha para el cómputo del plazo para el pago, salvo que el inicio de la construcción, modificación o ampliación se realice en fecha posterior, caso en el cual se estará a lo establecido en el segundo párrafo de este artículo, debiendo enterarlas mediante declaración en la forma oficial aprobada, o convenirse el pago diferido o en parcialidades, con otorgamiento de la garantía del interés fiscal conjuntamente con la solicitud de autorización, mismas que se deberán presentar dentro del plazo citado.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+Para el caso de no iniciar la obra de manera simultánea o inmediata a la entrega de la licencia o permiso, se tomará la fecha de inicio de la obra como el inicio del plazo de los 17 días para el pago de la aportación. La fecha de inicio no podrá ser superior a la conclusión de la vigencia de la licencia o permiso.
 
-Las aportaciones de mejoras para obras de impacto vial, serán recibidas en obra para infraestructura vial, o bien, en depósito al fideicomiso de aportaciones para obras de impacto vial, de ser convenido previamente por la Secretaria de Comunicaciones y el municipio o municipios afectados.
+En todo caso, deberá de verificarse el inicio de la obra con el acta de inspección que levante la autoridad municipal, en éstos supuestos, el término para realizar el pago, contará a partir de la fecha de inicio de obra que se haga constar en dicha acta.
 
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+Las aportaciones de mejoras para obras de impacto vial, serán recibidas en obra para infraestructura vial cuando ésta se ubique en el territorio del municipio o municipios en que se hubiere dado el hecho generador, o bien, en depósito al fideicomiso de aportaciones para obras de impacto vial, de ser convenido previamente por la Secretaría de Comunicaciones y el municipio o municipios afectados.
 
-Para el caso de que la Secretaría de Comunicaciones y el municipio o municipios involucrados, convengan el depósito del importe correspondiente a la aportación de mejoras, se procederá conforme señala el primer párrafo del presente artículo; si se conviene la recepción de obra pública, la misma deberá ser realizada por el contribuyente en los términos que señale al efecto el Libro Séptimo del Código Administrativo del Estado de México, bajo la supervisión coordinada de la Secretaría de Comunicaciones y el municipio o municipios respectivos, debiéndose realizar la entrega a la dependencia, organismo descentralizado o municipio correspondiente.
+Para el caso de que la Secretaría de Comunicaciones y el municipio o municipios involucrados, convengan el depósito del importe correspondiente a la aportación de mejoras, se procederá conforme señala el primer párrafo del presente artículo; si se conviene la recepción del importe a través de obra pública, la misma deberá ser realizada por el contribuyente en el territorio del municipio o municipios que de lugar a la causación de la aportación de mejoras para obras de impacto vial, en los términos que señale al efecto el Libro Séptimo del Código Administrativo del Estado de México, bajo la supervisión coordinada de la Secretaría de Comunicaciones y el municipio o municipios respectivos, debiéndose realizar la entrega a la dependencia, organismo descentralizado o municipio correspondiente.
 
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
-
-En caso de que los ingresos generados por las aportaciones de mejoras para obras de impacto vial, se hayan pagado y no exista convenio para su destino, se depositarán en el fideicomiso en un plazo no mayor a diez días hábiles contados a partir de su recepción, informándose al municipio o municipios correspondientes en el mismo plazo.
-
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+En caso de que los ingresos generados por las aportaciones de mejoras para obras de impacto vial, se hayan pagado y no exista convenio para su destino, se depositarán en el fideicomiso en un plazo no mayor a diez días hábiles contados a partir de su recepción, informándose al municipio municipios correspondientes en el mismo plazo.
 
 A fin de dar seguimiento a la aplicación de estos recursos, se constituirá el Comité de Control y Vigilancia de las Aportaciones para Obras de Impacto Vial, que estará integrado por:
 
-I. Un representante del Poder Legislativo.
+I.- Un representante del Poder Legislativo;
 
-II. Un representante de la Secretaría de Comunicaciones.
+II.- Un representante de la Secretaría de Comunicaciones;
 
-> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
+III.- Un representante de la Secretaría de Finanzas.
 
-III. Un representante de la Secretaría de Finanzas.
-
-IV. Dos representantes de los municipios de la entidad, que serán designados anualmente en el seno del Instituto Hacendario del Estado de México, debiendo ser municipios en los cuales se genere la aportación.
-
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+IV.- Dos representantes de los municipios de la entidad, que serán designados anualmente en el seno del Instituto Hacendario del Estado de México, debiendo ser municipios en los cuales se genere la aportación.
 
 Este Comité será presidido por el representante de la Secretaría de Comunicaciones y tendrá, entre otras funciones, las siguientes:
 
-I. Dar seguimiento al ingreso que se obtenga por estas aportaciones.
+I. Dar seguimiento al ingreso que se obtenga por estas aportaciones;
 
-II. Vigilar el debido cumplimiento de los convenios que celebren la Secretaría de Comunicaciones con el municipio o los municipios involucrados, en los que se acuerden las obras que se deberán llevar a cabo en la zona de impacto vial.
+II. Vigilar el debido cumplimiento de los convenios que celebren la Secretaría de Comunicaciones con el municipio o los municipios involucrados, en los que se acuerden las obras que se deberán llevar a cabo en la zona de impacto vial;
 
 III. Vigilar el comportamiento de estas aportaciones de impacto vial y sus repercusiones y resultados.
+
+IV. Vigilar que el ingreso que se obtenga por estas aportaciones se destine a la realización de obras para infraestructura vial en el territorio del o los municipios en que se hubieren causado.
+
+V. Vigilar que las obras que se reciban como pago de estas aportaciones se ubiquen en el territorio del municipio o los municipios en que se hubieren causado.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -14635,37 +10545,53 @@ El proyecto de obra y su ejecución, se dará de manera coordinada, entre la Sec
 
 ### CAPITULO TERCERO. DE LAS APORTACIONES POR SERVICIOS AMBIENTALES
 
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 216-I.
 
-Están obligados al pago de Aportaciones de Mejoras por Servicios Ambientales, los organismos públicos descentralizados municipales que presten los servicios de suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales; los municipios cuando no cuenten con organismo prestador de dichos servicios, y quienes presten el servicio de suministro de agua de manera autónoma.
+Están obligados al pago de Aportaciones de Mejoras por Servicios Ambientales, los organismos públicos descentralizados municipales que presten, entre otros, los servicios de suministro de agua potable; los municipios cuando no cuenten con organismo prestador de dichos servicios, y las personas físicas o jurídico colectivas que presten el servicio de suministro de agua potable.
 
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 216-J.
 
-Para determinar el monto a pagar por concepto de aportación de mejoras por servicios ambientales, se aplicará una tarifa bimestral a razón del 3.5 por ciento sobre el monto de cada facturación que hagan los sujetos obligados al pago a los usuarios finales del recurso hídrico.
+Para determinar el monto a pagar por concepto de aportación de mejoras por servicios ambientales, se aplicará una tarifa del 3.5 por ciento sobre el monto de los ingresos efectivamente recaudados por concepto del suministro de agua potable, sin incluir conceptos diversos a dicho suministro.
 
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+Las aportaciones de mejoras, deberán pagarse mediante declaración en la forma oficial aprobada, a través de depósito al fideicomiso constituido al efecto, de manera bimestral, dentro de los diecisiete días siguientes al vencimiento del bimestre que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 216-K.
 
-Las aportaciones de mejoras a que se refiere el presente Capítulo deberán pagarse mediante declaración en la forma oficial aprobada, a través de depósito al fideicomiso constituido al efecto, que contará con un Comité Técnico, el cual deberá estar integrado al menos con representación de:
+El fideicomiso constituido al efecto contará con un Comité Técnico, que deberá estar integrado con un representante de:
 
-I. La Secretaria de Desarrollo Agropecuario;
+I. La Secretaría de Desarrollo Agropecuario;
 
 II. La Secretaría de Finanzas;
 
-III. El organismo público descentralizado de carácter estatal denominado Protectora de Bosques del Estado de México;
+III. La Secretaria del Medio Ambiente;
 
-IV. El organismo público descentralizado de carácter estatal denominado Comisión del Agua del Estado de México;
+IV. La Secretaría del Agua y Obra Pública;
 
-V. Los organismos públicos descentralizados municipales prestadores de los servicios de agua potable, alcantarillado y saneamiento;
+V. El organismo público descentralizado de carácter estatal denominado Protectora de Bosques del Estado de México;
 
-VI. El órgano de control interno de la Secretaría de Desarrollo Agropecuario, y
+VI. El organismo público descentralizado de carácter estatal denominado Comisión del Agua del Estado de México;
 
-VII. El órgano desconcentrado de carácter federal denominado Comisión Nacional Forestal.
+VII. Los organismos públicos descentralizados municipales prestadores de los servicios de agua potable, alcantarillado y saneamiento;
+
+VIII. Los municipios que no cuentan con organismo descentralizado para la prestación de los servicios de agua potable, alcantarillado y saneamiento;
+
+IX. El órgano de control interno de la Secretaría de Desarrollo Agropecuario; y
+
+X. El órgano desconcentrado de carácter federal denominado Comisión Nacional Forestal.
+
+El representante de los organismos públicos descentralizados municipales prestadores de los servicios de suministro de agua potable, y el de los municipios, serán elegidos por mayoría antes del 15 de febrero de cada ejercicio fiscal, de entre sus pares presentes, en sesión del Comité Técnico a la que convocará el Presidente del mismo, y durarán en su cargo un año calendario, pudiendo ser reelectos hasta en dos ocasiones, y tendrán la obligación de informar inmediatamente a sus representados los acuerdos y decisiones tomados.
 
 > <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -14699,11 +10625,13 @@ El incentivo previsto en el artículo 216-L, consistirá en un pago anual por ca
 
 Ñ.- En el caso de propietarios o poseedores de predios que se registren ante el fideicomiso, y se demuestre que fueron superficies boscosas y que actualmente no se encuentren cultivados o estén destinados a cultivos de temporal de muy bajo rendimiento, el incentivo del primer año consistirá en la entrega de plantas para reforestar el predio correspondiente y en los años subsecuentes podrán hacerse acreedores al incentivo referido en el articulo anterior.
 
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 216-O.
 
-El funcionamiento del Comité Técnico del fideicomiso a que se refiere el presente Capítulo, los términos y condiciones del registro a que se refiere el artículo 216-M y el acreditamiento de la calidad o vocación de las superficies a que se refieren los artículos 216-N y 216-Ñ, deberán preverse en las reglas de operación que al efecto se emitan.
+El funcionamiento del Comité Técnico del fideicomiso a que se refiere el presente Capítulo, los términos y condiciones del registro a que se refiere el artículo 216-M y el acreditamiento de la calidad, utilidad o destino de las superficies a que se refieren los artículos 216-N y 216-Ñ, deberán preverse en las reglas de operación que al efecto se emitan.
 
 ### CAPITULO PRIMERO. DEL SISTEMA DE COORDINACION HACENDARIA
 
@@ -14817,7 +10745,13 @@ La Recaudación Estatal Participable se distribuirá conforme a la fórmula sigu
 
 > <small>N. DE E. VÉASE FÓRMULA EN LA SECCIÓN TERCERA DE LA G.G. DE 26 DE DICIEMBRE DE 2007, PÁGINA 80.</small>
 
-La fórmula anterior no será aplicable en el evento de que en el año de cálculo la Recaudación Estatal Participable sea inferior a la observada en el año inmediato anterior. En dicho supuesto, la distribución de la Recaudación Estatal Participable se realizará en la misma proporción que cada municipio haya recibido en el año inmediato anterior.
+> <small>N. DE E. VÉASE REFORMAS A LA FÓRMULA EN LA SECCIÓN QUINTA DE LA G.G. DE 18 DE DICIEMBRE DE 2008, PÁGINA 60.</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+La fórmula anterior no será aplicable en el evento de que en el año de cálculo la Recaudación Estatal Participable sea inferior a la observada en el año inmediato anterior, aplicándose a esta última la inflación anual registrada en dicho ejercicio fiscal. En dicho supuesto, la distribución de la Recaudación Estatal Participable se realizará en la misma proporción que cada municipio haya recibido en el año inmediato anterior.
 
 La Secretaría deberá publicar las reglas para la asignación de las participaciones federales y estatales a los municipios, las cuales deberán contener las definiciones de los conceptos referidos en este Código a través del Periódico Oficial “Gaceta del Gobierno” y en Internet.
 
@@ -14828,6 +10762,12 @@ Las participaciones a favor de los municipios a que se refiere el inciso C) frac
 ###### Artículo 222.
 
 En caso de no contar con la información a que se refiere el artículo 221 del presente Código, la Secretaría practicará la estimación que considere conveniente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+La Secretaría podrá realizar ajustes en las participaciones provisionales cuando haya modificaciones en las variables que las determinan.
 
 ###### Artículo 223.
 
@@ -14841,7 +10781,11 @@ Las participaciones federales e incentivos federales derivados de convenios, as�
 
 La Secretaría, una vez identificada la asignación mensual que le corresponda a la Entidad de los mencionados fondos, determinará la participación mensual que le corresponda a cada municipio.
 
-La liquidación definitiva se determinará a más tardar dentro de los cinco meses siguientes al cierre de cada ejercicio fiscal, tomando en cuenta las cantidades que se hubieran afectado provisionalmente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+La liquidación y el cálculo definitivo de los ingresos a que hace referencia el artículo 219 de este Código y el ajuste respectivo, se realizarán y aplicaran en el transcurso de los seis meses siguientes al cierre de cada ejercicio fiscal, tomando en cuenta las cantidades que se hubieran afectado provisionalmente.
 
 El régimen de participaciones e incentivos federales derivados de convenios para los municipios en ingresos federales podrá ser modificado, ajustado o adaptado por el Gobernador, en consonancia con las modificaciones que, en su caso, se establezcan para la fórmula de distribución de participaciones dentro del Sistema Nacional de Coordinación Fiscal.
 
@@ -14851,17 +10795,15 @@ I. El 70%, en proporción directa al número de habitantes que tenga cada munici
 
 II. El 30% restante se distribuirá en partes iguales entre los municipios del Estado.
 
-En términos de lo dispuesto en el artículo 4-A de la Ley de Coordinación Fiscal, los recursos que reciban los municipios por este concepto deberán destinarse exclusivamente al desarrollo de infraestructura vial, rural o urbana; hidráulica; movilidad urbana, y por lo menos 12.5 por ciento a programas para la protección y conservación ambiental.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO ULTIMO PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 225.
 
-Las participaciones derivadas de las cantidades recaudadas por concepto del Impuesto sobre Loterías, Rifas, Sorteos, Concursos y Juegos Permitidos con Cruce de Apuestas, que correspondan a los municipios se distribuirán de la siguiente manera:
-
-I. Se constituirá un fondo con el 50% de las cantidades recaudadas mensualmente por concepto de ese impuesto.
-
-II. Dicho fondo se distribuirá mensualmente en proporción a la recaudación efectuada en el territorio de cada municipio donde se lleven a cabo los actos que dan origen a la causación de este impuesto.
-
-III. Los montos percibidos por los municipios que deriven de las participaciones recaudadas por concepto de este impuesto, se asignarán totalmente al Sistema Municipal para el Desarrollo Integral de la Familia, respectivo.
+(DEROGADO, G.G. 18 DE DICIEMBRE DE 2008)
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -14967,13 +10909,63 @@ Salvo lo dispuesto en el párrafo precedente, la solicitud de retención y pago 
 
 La Secretaría deberá efectuar los depósitos correspondientes a las retenciones y pagos a que se refiere el artículo 230 B del Código, dentro de los 5 días siguientes a la realización de la afectación correspondiente.
 
-En caso de que los recursos del Fondo previsto en la fracción IV del artículo 228 del presente ordenamiento no sean suficientes para cubrir las obligaciones de pago de derechos y aprovechamientos por concepto de agua que correspondan a la Comisión Nacional del Agua y a la Comisión de Agua del Estado de México, la Secretaría efectuará los depósitos de manera proporcional a los montos solicitados. Sin perjuicio de lo anterior, los saldos pendientes deberán cubrirse conforme se reciban las aportaciones futuras de dicho Fondo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+En caso de que los recursos del Fondo previsto en la fracción IV del artículo 228 del presente ordenamiento no sean suficientes para cubrir las obligaciones de pago de derechos y aprovechamientos por concepto de agua que correspondan a la Comisión Nacional del Agua y a la Comisión de Agua del Estado de México, la Secretaría efectuara los depósitos de manera proporcional al monto del derecho y/o aprovechamiento correspondiente al volumen suministrado. Sin perjuicio de lo anterior, los saldos pendientes deberán cubrirse conforme se reciban las aportaciones futuras de dicho Fondo.
 
 > <small>(ADICIONADO, G.G. 27 DE MARZO DE 2008)</small>
 
 ###### Artículo 230-F.
 
 La Comisión del Agua del Estado de México podrá ceder, afectar y en términos generales transferir los recursos derivados de la retención a que se refiere el artículo 230 D del Código, por la parte del adeudo que le sea propio, a fideicomisos u otros mecanismos de fuente de pago o de garantía, constituidos para el financiamiento de infraestructura hidráulica.
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 230-G.
+
+Para efectos de lo dispuesto en los artículos 230-H, 230-I, 230-J, 230-K y 230-L de este ordenamiento, se entenderá por:
+
+I. Adeudo Histórico: A las cantidades no pagadas por los usuarios a la Comisión Federal de Electricidad o Luz y Fuerza del Centro, por concepto de energía eléctrica consumida hasta el 31 de diciembre de 2007.
+
+II. Usuarios: A los Municipios del Estado de México, incluyendo sus organismos auxiliares.
+
+III. Pagos Corrientes: A los pagos que efectúen los usuarios por concepto de facturación de energía eléctrica consumida a partir del uno de enero de 2008.
+
+IV. Incumplimiento: La falta de pago total o parcial de las obligaciones a que se refiere la Fracción III del presente artículo, que deban realizar los usuarios, siempre y cuando tengan una antigüedad mayor a noventa días naturales.
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 230-H.
+
+En caso de incumplimiento a las obligaciones de pago por facturación de energía eléctrica consumida a partir del uno de enero de 2008, la Comisión Federal de Electricidad y Luz y Fuerza del Centro, según corresponda, podrán solicitar al Gobierno del Estado, a través de la Secretaría, previa acreditación del incumplimiento, la retención y pago de los adeudos correspondientes con cargo a los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal previsto en el artículo 228, fracción IV del presente ordenamiento que correspondan al municipio de que se trate.
+
+Para tal efecto, la Comisión Federal de Electricidad y Luz y Fuerza del Centro, según corresponda, sólo podrán solicitar la retención y pago señalados cuando los adeudos tengan una antigüedad mayor de noventa días naturales.
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 230-I.
+
+Para acreditar el incumplimiento (sic) Comisión Federal de Electricidad y Luz y Fuerza del Centro, según corresponda, deberán enviar a la Secretaría, por escrito, la relación de adeudos de cada uno de los usuarios, por concepto de suministro de energía eléctrica.
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 230-J.
+
+La solicitud de retención y pago a que se refiere el artículo 230-H de este Código, comprenderá la totalidad del adeudo a cargo del usuario de que se trate, a favor de la Comisión Federal de Electricidad y Luz y Fuerza del Centro, según corresponda con la instrucción de pagar de manera directa al acreedor.
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 230-K.
+
+La Secretaría deberá efectuar los depósitos correspondientes a las retenciones y pagos a que se refiere el artículo 230-H del Código, dentro de los cinco días siguientes a la realización de la afectación correspondiente.
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 230-L.
+
+Los recursos pagados a la Comisión Federal de Electricidad y a Luz y Fuerza del Centro, según corresponda serán aplicados al pago de los adeudos corrientes de suministro de energía eléctrica.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -14993,9 +10985,13 @@ Las obras o acciones que se lleven a cabo con los recursos a que se refiere el p
 
 La Secretaría con base en los lineamientos establecidos por la Ley de Coordinación Fiscal, calculará y hará la entrega de las aportaciones federales correspondientes a los municipios, debiendo publicarlas en el Periódico Oficial a más tardar el treinta y uno de enero del ejercicio fiscal aplicable, así como la fórmula y su respectiva metodología, justificando cada elemento y comunicado a cada uno de los ayuntamientos el monto calendarizado mensual y los procedimientos para su entrega.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
 ###### Artículo 235.
 
-Para la ejecución de las obras o acciones que lleven a cabo los municipios con los fondos a que se refiere el artículo 228 en sus fracciones III y IV de este título, los ayuntamientos presentarán a la Secretaría, para su análisis, las fichas técnicas de las obras propuestas por las comunidades y aprobadas por los ayuntamientos, mismo que deberán efectuar en un plazo no mayor de treinta días contados a partir de la fecha de su recepción, a fin de garantizar y apoyar su realización y operación, conforme a los (sic) establecido por los lineamientos y criterios básicos para la operación de los fondos de aportaciones federales que al efectos (sic) expida el Gobernador por conducto de la Secretaría.
+Para la ejecución de las obras o acciones que lleven a cabo los Municipios con los fondos a que se refiere el artículo 228 fracciones III y IV del Código, los ayuntamientos presentarán a la Secretaría de manera mensual, la información que sobre la aplicación de los fondos les sea requerida, con la finalidad de que la Secretaría informe lo conducente a las dependencias federales competentes. Será responsabilidad de los Ayuntamientos cumplir con lo señalado en la Ley de Coordinación Fiscal y demás legislación y normatividad aplicable, sobre el uso de estos recursos.
 
 ###### Artículo 236.
 
@@ -15165,7 +11161,11 @@ VII. Promover los convenios entre los municipios y el Estado para que éste se h
 
 VIII. Recomendar las regiones en que se agrupen los municipios del Estado.
 
-IX. Emitir los criterios necesarios para que los ayuntamientos generen información homogénea en materia hacendaria.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+IX. Emitir los criterios necesarios para que los ayuntamientos generen información homogénea en materia hacendaría y de la evaluación de la gestión.
 
 X. Establecer las políticas, normas y criterios de organización y administración del Instituto.
 
@@ -15215,7 +11215,11 @@ XIII. Llevar un sistema de estadística hacendaria.
 
 XIV. Solicitar a los municipios la información hacendaria que considere necesaria para cumplir con las funciones encomendadas.
 
-XV. Diseñar modelos para la integración de la información hacendaria del Estado y de sus municipios.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XV. Diseñar modelos para la integración de la información hacendaria y para el control, seguimiento y evaluación de la gestión de los municipios.
 
 XVI. Cooperar con el Gobierno del Estado en la integración de la información hacendaria del Estado y sus municipios.
 
@@ -15859,13 +11863,15 @@ Las remuneraciones estarán sujetas a las modificaciones que, en su caso, sean c
 
 Los Poderes Legislativo y Judicial, así como los organismos autónomos se sujetarán a las disposiciones de este Título en lo que no se contrapongan a los ordenamientos legales que los rigen.
 
-> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 287.
 
-La Secretaría deberá establecer y operar un Registro Estatal de Planes y Programas.
+La Secretaría deberá establecer y operar un Registro Estatal de Planes, Programas y Proyectos.
 
-Las autoridades competentes que formulen los anteproyectos de presupuesto tanto estatal como municipal serán responsables de que los presupuestos de egresos se encuentren relacionados con el Plan de Desarrollo del Estado de México y el correspondiente Plan de Desarrollo Municipal y los programas inscritos en el Registro Estatal de Planes y Programas.
+Las autoridades competentes que formulen los anteproyectos de presupuesto tanto estatal como municipal serán responsables de que los presupuestos de egresos se encuentren relacionados con el Plan de Desarrollo del Estado de México y el correspondiente Plan de Desarrollo Municipal y los programas inscritos en el Registro Estatal de Planes, Programas y Proyectos.
 
 > <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -15873,27 +11879,33 @@ Las autoridades competentes que formulen los anteproyectos de presupuesto tanto 
 
 Las iniciativas de ley o decreto del Gobernador que impliquen afectación al Presupuesto de Egresos para el ejercicio fiscal que corresponda, deberán estar sustentadas en un dictamen de impacto presupuestal realizado por el área que sometió la propuesta y aprobado por la Secretaría.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 289.
 
-Las dependencias, entidades públicas y unidades administrativas formularán su anteproyecto de Presupuesto de Egresos de acuerdo con las normas presupuestales vigentes y con base en sus programas anuales.
+Las dependencias, entidades públicas y unidades administrativas formularán su anteproyecto de Presupuesto de Egresos de acuerdo con las normas presupuestales vigentes y con base en sus programas y proyectos anuales.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 Las dependencias, entidades públicas, organismos autónomos y municipios que reciban recursos por programas de apoyos federales establecidos en un acuerdo o convenio, para la ejecución de dichos programas, deberán prever en el capítulo de gasto correspondiente el ejercicio de los mismos, informando de ello para la integración de la cuenta pública.
 
-> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Los servidores públicos, recibirán una remuneración adecuada e irrenunciable por el desempeño de su empleo, cargo o comisión de cualquier naturaleza, que será determinada anualmente en los presupuestos que correspondan. Ningún servidor público podrá percibir cantidad mayor a la del superior jerárquico, ni remuneración que no haya sido aprobada por la Legislatura o por el Ayuntamiento correspondiente.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Los servidores públicos, recibirán una remuneración adecuada e irrenunciable por el desempeño de su empleo, cargo o comisión de cualquier naturaleza, que será determinada anualmente en los presupuestos que correspondan, dichas remuneraciones deberán ser publicadas en la Gaceta de Gobierno o en la Gaceta Municipal. Ningún servidor público podrá percibir cantidad mayor a la del superior jerárquico, ni remuneración que no haya sido aprobada por la Legislatura o por el Ayuntamiento correspondiente, ni compensación extraordinaria que no haya sido incluida en el presupuesto correspondiente.
 
 > <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
 
 Para determinar las remuneraciones de los servidores públicos municipales, los ayuntamientos considerarán entre otros, los factores siguientes: población, recursos económicos disponibles, costo promedio de vida en el municipio y en la entidad, índice inflacionario, grado de marginalidad municipal, productividad en la prestación de servicios públicos, responsabilidad de la función y eficiencia en la recaudación de ingresos.
 
-> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-La asignación de remuneraciones se fijará con base en los criterios y elementos señalados por este artículo y ningún servidor público estará facultado para establecer percepciones, cualquiera que sea su denominación, de manera discrecional.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+La asignación de remuneraciones se fijará con base en los criterios y elementos señalados por este artículo y ningún servidor público estará facultado para establecer percepciones, cualquiera que sea su denominación, de manera discrecional, los bonos o compensaciones adicionales que se asignen a servidores públicos estatales y municipales no podrán ser superiores al 10% de su salario bruto mensual y deberán informarlo a la Legislatura del Estado.
 
 > <small>(ADICIONADO, G.G. 4 DE JUNIO DE 2004)</small>
 
@@ -15937,9 +11949,11 @@ b). 2000 Materiales y Suministros;
 
 c). 3000 Servicios Generales;
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-d). 4000 Subsidios, Transferencias, Previsiones Económicas, Ayudas, Erogaciones y Pensiones;
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+d). 4000 Subsidios, Apoyos, Transferencias, Erogaciones y Pensiones;
 
 e). 5000 Bienes Muebles e Inmuebles;
 
@@ -16083,7 +12097,11 @@ II. Estimación de los ingresos por cada una de sus fuentes;
 
 III. Estimaciones de egresos, agrupados de la siguiente forma:
 
-1. Clasificación Programática;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+1. Clasificación Programática a nivel de programas y proyectos.
 
 2. Clasificación Administrativa;
 
@@ -16151,9 +12169,11 @@ Se entenderá por subsidios, cooperaciones y donativos a las previsiones presupu
 
 Las dependencias, entidades públicas y unidades administrativas municipales, informarán y remitirán la documentación comprobatoria a la Secretaría o Tesorería según corresponda, dentro de los primeros diez días hábiles posteriores al término del ejercicio, todos los adeudos contraídos al 31 de diciembre del ejercicio inmediato anterior, para ser registrados como pasivos.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-El pago de adeudos provenientes de ejercicios anteriores que realicen las dependencias y entidades públicas se hará con cargo a los recursos previstos en el presupuesto de egresos.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+El pago de adeudos provenientes de ejercicios anteriores que realicen las dependencias, entidades públicas y unidades administrativas municipales se hará con cargo a los recursos previstos en el presupuesto de egresos.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -16231,15 +12251,39 @@ Las garantías que deban constituirse para asegurar los actos y contratos que ce
 
 En el caso de los Municipios, las garantías en todos los casos se constituirán a favor de la Tesorería.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 317.
 
-Los traspasos presupuestarios internos serán aquellos que se realicen dentro de un mismo programa y capitulo de gasto, sin que se afecte el monto total autorizado y las metas comprometidas en el programa anual.
+Los traspasos presupuestarios internos serán aquellos que se realicen dentro de un mismo programa y capítulo de gasto, sin que se afecte el monto total autorizado y siempre y cuando se cumplan completamente las metas comprometidas en la estructura programática del presupuesto aprobado por la Legislatura.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 Estos traspasos serán realizados de manera directa por las unidades ejecutoras, debiendo informar a la Secretaría dentro de los primeros diez días del mes siguiente al en que se realicen, para ser integrados al informe que el Poder Ejecutivo rinda al Poder Legislativo.
 
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
 En el caso de las entidades públicas dichos traspasos deberán ser autorizados previamente por el órgano de gobierno.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+En el caso de que los traspasos presupuestarios internos rebasen el 25% del total del programa, éstos deberán ser autorizados previamente por la Legislatura.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Tratándose de traspasos entre proyectos, el límite máximo ascenderá al 25% del valor original del programa de que se trate. En caso de exceder dicho porcentaje, requerirá la autorización previa de la Legislatura.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+En caso de que se requiera la realización de traspasos presupuestarios que rebasen el porcentaje señalado en este Artículo, el Ejecutivo deberá solicitar la autorización a la Legislatura o a la Diputación Permanente cuando aquélla se encuentre en receso, quién deberá aprobarlo en un plazo no mayor de 10 días naturales.
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -16255,9 +12299,23 @@ Los traspasos presupuestarios autorizados deberán informarse dentro de los prim
 
 El monto total de traspasos presupuestarios externos que autorice la Secretaría no podrá exceder del 5% del presupuesto total autorizado anual, exceptuando de este Capítulo los ajustes por incrementos salariales de carácter general y las contingencias derivadas de desastres naturales y siniestros.
 
-En caso de que se requiera la realización de traspasos presupuestarios externos que rebasen el porcentaje señalado en este artículo, el Ejecutivo deberá solicitar la autorización a la Legislatura o a la Diputación Permanente cuando aquella se encuentra en receso, quien deberá aprobarlo en un plazo no mayor de 15 días. En caso de no recibir respuesta, se entenderá por aprobado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-La Secretaría deberá informar a la Legislatura de aquellos traspasos externos que resulten en el incremento o disminución de más del 10% del presupuesto autorizado para un programa.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+En caso de que se requiera la realización de traspasos presupuestarios externos que rebasen el porcentaje señalado en este artículo, el Ejecutivo deberá solicitar la autorización a la Legislatura o a la Diputación Permanente cuando aquella se encuentra en receso, quien deberá aprobarlo en un plazo no mayor de 15 días.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+La Secretaría deberá informar a la Legislatura de aquellos traspasos externos que realice.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+No se podrán realizar traspasos presupuestarios del gasto de inversión en obras y acciones a los capítulos de gasto corriente.
 
 > <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -16334,6 +12392,16 @@ En el caso de aquellas entidades que no se encuentren adscritas a un sector, ser
 ###### Artículo 322.
 
 Los recursos asignados pero no ejercidos que resulten de la reestructuración de dependencias y de la desincorporación de entidades públicas, deberán destinarse preferentemente a cubrir los gastos del proceso de liquidación y el remanente a la amortización de la deuda pública estatal. En el caso de los municipios, la aplicación del remanente lo determinará el ayuntamiento respectivo, procurando preferentemente destinarlo a la amortización de la deuda pública y/o ejecución de programas prioritarios de desarrollo social.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 322 Bis.
+
+Los recursos asignados al sector central, a los órganos autónomos y a las entidades descentralizadas, que no hayan sido ejercidos en los plazos legales correspondientes, así como los que resulten del superávit de las finanzas públicas estatales, serán reintegrados a la hacienda pública estatal registrándose lo anterior a través de un apartado específico en la Ley de Ingresos del Estado.
+
+Quedan exceptuados de esto los recursos que se hayan comprometidos para gasto de inversión u obra pública.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -16437,15 +12505,19 @@ Las dependencias a través de las Unidades de Información, Planeación, Program
 
 Al efecto, se llevará a acabo la revisión, seguimiento y evaluación del cumplimiento de objetivos y metas establecidas en los proyectos aprobados, contra los resultados del ejercicio del Presupuesto de Egresos.
 
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 327-E.
 
-El Titular del Ejecutivo por conducto de la Secretaría, enviará a la Legislatura o a la Diputación Permanente cuando aquella se encuentre en receso, informes preliminares mensuales del comportamiento de los ingresos y egresos y, trimestralmente en abril, julio y octubre el avance programático-presupuestal del Poder Ejecutivo. Los informes mensual y trimestral preliminares correspondientes al cierre del ejercicio, se presentarán en el mes de marzo del año siguiente. En todos los casos, los informes reflejarán las incidencias presupuestales y programáticas sucedidas en el período que se reporta.
+El Titular del Ejecutivo por conducto de la Secretaría, enviara a la Legislatura o a la Diputación Permanente cuando aquella se encuentre en receso, informes preliminares mensuales del comportamiento de los ingresos y egresos y, trimestralmente en abril, julio y octubre el avance programático-presupuestal del Poder Ejecutivo. Los informes mensual y trimestral preliminares correspondientes al cierre del ejercicio, se presentarán en el mes de marzo del año siguiente. En todos los casos, los informes reflejarán las incidencias presupuestales y programáticas sucedidas en el periodo que se reporta por unidad responsable del gasto, función, programa, proyecto, capítulo de gasto y partida presupuestal.
 
 > <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 Se adicionará a dichos informes un apartado especial sobre las reasignaciones realizadas, describiendo con precisión los montos, programas, unidades ejecutoras y capítulos afectados en cada una de las operaciones, así como otro apartado para informar de las asignaciones de recursos excedentes en términos de lo dispuesto por el artículo 317 Bis A de este Código.
+
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 El Poder Ejecutivo a través de la Secretaría, comparecerá en las reuniones trimestrales de análisis y evaluación de los informes presentados, que celebren el Organo Superior de Fiscalización de la Legislatura y las Comisiones Legislativas respectivas.
 
@@ -16631,9 +12703,11 @@ La cuenta pública se constituye por la información económica, contable, presu
 
 La Secretaría y la Tesorería, proporcionarán la información complementaria requerida por el Organo Superior de Fiscalización del Estado de México para el análisis y evaluación de la cuenta pública.
 
-> <small>(ADICIONADO, G.G. 1 DE FEBRERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-El formato de entrega de las Cuentas Públicas del Estado y de los Municipios, deberá ser congruente y mantener la debida correlación con respecto a los formatos del Presupuesto de Egresos del Estado y de los Presupuestos de los Municipios respectivamente, para lograr una mejor claridad, comprensión y transparencia en la revisión y fiscalización por parte del Órgano Superior de Fiscalización del Estado de México.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+El formato de entrega de las Cuentas Públicas del Estado y de los Municipios, deberá ser congruente, contener el mismo nivel de desglose y mantener la debida correlación con respecto a los formatos del Presupuesto de Egresos del Estado y de los Presupuestos de los Municipios respectivamente, para lograr una mejor claridad, comprensión y transparencia en la revisión y fiscalización por parte del Órgano Superior de Fiscalización del Estado de México.
 
 > <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -16683,9 +12757,9 @@ La aplicación de las sanciones por infracciones a las disposiciones de este Có
 
 Cuando en el ejercicio de las facultades de comprobación la autoridad fiscal determine la omisión total o parcial en el pago de contribuciones, por la comisión de una o varias infracciones, si el contribuyente revisado paga la totalidad de las contribuciones omitidas actualizadas, con sus accesorios excluyendo la multa, antes de la notificación de la resolución que determine el monto de la contribución omitida, se le eximirá del pago por concepto de multas.
 
-> <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-Cuando las multas determinadas no se paguen en la fecha establecida en este Código, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, de acuerdo al factor que se establece en la Ley de Ingresos.
+Cuando las multas determinadas no se paguen en la fecha establecida en este Código, el monto de las mismas se actualizará en los términos del artículo 30 de este ordenamiento.
 
 ###### Artículo 358.
 
@@ -16789,9 +12863,31 @@ XIII. Resistirse por cualquier medio a las visitas de verificación; no proporci
 
 XIV. No conservar los registros contables y documentos que le sean dejados en calidad de depositario, por los visitadores al estarse practicando visitas de verificación; y se aplicará la sanción prevista en la fracción anterior.
 
-> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-XV. No cumplir con la obligación de dictaminar la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal estando obligado a ello o habiendo optado por cumplir con dicha obligación fiscal; no presentar el dictamen dentro del plazo legal o presentarlo cuando el dictamen no haya sido formulado por contador público autorizado con registro vigente y sin impedimento que afecte su independencia mental e imparcialidad de criterio; o no presentar aviso de dictamen en términos de este Código, y se sancionará con una multa de setenta y cinco y hasta setecientos cincuenta días de salario mínimo general vigente del área geográfica que corresponda.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XV. No presentar el dictamen correspondiente sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal estando obligado a ello o habiendo optado por dictaminarse; presentar dicho dictamen en forma extemporánea a requerimiento de autoridad fiscal competente, o cuando no obstante su presentación, se haya formulado por Contador Público impedido en términos del artículo 47 E de este Código, lo cual se sancionará con una multa de trescientos y hasta setecientos días de salario mínimo general del área geográfica "A".
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XVI. No presentar el aviso de dictamen correspondiente o presentarlo extemporáneamente a requerimiento de autoridad fiscal competente, y se sancionará con una multa de setenta y cinco y hasta ciento cincuenta días de salario mínimo general del área geográfica "A".
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XVII. No entregar la constancia de retención del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, por cada contribuyente y periodo al que corresponda, y se sancionará con una multa de cincuenta y hasta cien días de salario mínimo general del área geográfica "A".
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XVIII. No cumplir con el tiempo de entrega de la obra consignado en el Convenio de Recepción del Importe de las Aportaciones Estatales para Obras de Impacto Vial a través de Obra Pública, a que se refiere el artículo 216-F del Código, y se sancionará con una multa del 70% al 100% del monto de la contribución omitida.
+
+Para determinar la cuantía de la sanción, se considerará como monto de la contribución omitida el 10% del valor de la obra convenida, cuando el avance de la misma sea mayor del 50%, y el 20% del valor de a (sic) obra convenida cuando su avance sea menor al 50%.
 
 > <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -16841,7 +12937,11 @@ A). Se amonestará al Contador Público cuando:
 
 B de este Código, sin justificación que lo motive.
 
-3. No cumpla con lo establecido en el segundo o tercer párrafo del artículo 47-E de este Código, en cuyo caso la amonestación será por cada bimestre que transcurra sin cumplir con cualquiera de esas obligaciones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+3. No cumpla con lo establecido en el segundo o tercer párrafo del artículo 47 D de este Código, en cuyo caso la amonestación será por cada bimestre que transcurra sin cumplir con cualquiera de esas obligaciones.
 
 B). Se suspenderán temporalmente los efectos de su registro para formular dictamen por dos años cuando:
 
@@ -16859,7 +12959,11 @@ C). Se cancelará definitivamente su registro para formular dictamen, revocándo
 
 2. No exhiba a requerimiento de la autoridad fiscal competente los papeles de trabajo a que se refiere el inciso B) de la fracción I del artículo 48-B de éste Código.
 
-3. Haya formulado dictamen sin registro vigente para dictaminar o estando impedido por afectar su independencia mental e imparcialidad de criterio en términos del artículo 47-E de este Código.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+3. Formule dictamen estando impedido en términos del artículo 47 E de este Código.
 
 4. Haya participado en la comisión de delitos de carácter fiscal o delitos intencionales que ameriten pena corporal, respecto de los cuales se haya dictado sentencia definitiva que lo declare culpable.
 
@@ -16867,7 +12971,11 @@ C). Se cancelará definitivamente su registro para formular dictamen, revocándo
 
 El cómputo de lo dispuesto en el numeral 1, de los incisos A) y B) de la fracción III de ese artículo, se hará por cada actuación del Contador Público, independientemente del contribuyente al que se refieran.
 
-En caso de suspensión temporal o cancelación definitiva de registro a que se refieren los incisos B) y C) de la fracción III de este artículo, la autoridad fiscal competente dará aviso por escrito al colegio profesional o asociación de contadores públicos y, en su caso, a la Federación de Colegios Profesionales a la que pertenezca el Contador Público en cuestión.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+En caso de suspensión temporal o cancelación definitiva de registro a que se refieren los incisos B) y C) de la fracción III de este artículo, la autoridad fiscal competente dará aviso mediante correo electrónico al colegio profesional o asociación de contadores públicos y, en su caso, a la Federación de Colegios Profesionales a la que pertenezca el Contador Público en cuestión, sin perjuicio de la sanción que corresponda.
 
 ###### Artículo 363.
 
@@ -16890,6 +12998,18 @@ V. No destinar al pago de contribuciones las cantidades ministradas por los cont
 ###### Artículo 364.
 
 Mediante acuerdo del Gobernador del Estado, del Secretario de Finanzas, así como del Ayuntamiento, en el caso de los municipios, se podrán condonar total o parcialmente las multas por infracción a las disposiciones de este Código, indemnizaciones por devolución de cheques y recargos tomando en cuenta las circunstancias del caso y los motivos que tuvo la autoridad para imponer la sanción y la situación económica del contribuyente. La solicitud de condonación no constituirá instancia y dará lugar a la suspensión del procedimiento administrativo de ejecución, si se garantiza el interés fiscal. Asimismo, esta atribución podrá ser delegada mediante acuerdo que se publique en el Periódico Oficial y conforme a las bases en él contenidas, para el mejor ejercicio de la autoridad fiscal competente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Tratándose de organismos públicos descentralizados estatales o municipales que tengan la calidad de autoridad fiscal, deberán someter la solicitud de condonación para acuerdo del Gobernador, del Secretario de Finanzas o del Ayuntamiento, según se trate, previa aprobación de su consejo directivo u órgano de gobierno.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+En el ámbito estatal, las solicitudes deberán ser enviadas a través de la Secretaría de Finanzas.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -17009,11 +13129,21 @@ No se iniciará el procedimiento administrativo de ejecución, hasta que venza e
 
 La actualización a que se refiere el artículo 30 de éste Código y los accesorios a que se refiere el artículo 12 de este mismo ordenamiento que se causen durante el procedimiento administrativo de ejecución, se harán efectivos con el crédito inicial, sin necesidad de ninguna formalidad especial, pero será necesario que la autoridad funde y motive el procedimiento utilizado para determinar la actualización y los accesorios que se causen durante la aplicación de dicho procedimiento.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 377.
 
-Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y las jurídicas colectivas estarán obligadas a pagar el 2% del total del crédito por concepto de gastos de ejecución, por cada una de las diligencias de requerimiento de pago y embargo, ampliación de embargo o remate, enajenación fuera de remate, adjudicación al fisco estatal o municipal, previstos en el presente Código.
+Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y las jurídico colectivas estarán obligadas a pagar el 2% del total del crédito por concepto de gastos de ejecución, por cada una de las diligencias de requerimiento de pago, embargo, ampliación de embargo, remate, enajenación fuera de remate o adjudicación al fisco estatal o municipal, previstos en el presente Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Los gastos de ejecución, por cada una de las diligencias, no podrán ser menores al importe de cinco salarios mínimos generales del área geográfica "A", ni exceder de la cantidad equivalente a 2 salarios mínimos generales elevados al año.
+
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 Asimismo, el contribuyente pagará por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos, que comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones, de cancelaciones o de solicitudes de información en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios, interventores, administradores y peritos, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios, los honorarios que se deban erogar para la recuperación de títulos de crédito embargados así como los honorarios de las personas que contraten las autoridades para el auxilio de los interventores, los gastos que generen los servicios adicionales que sean contratados por la autoridad para el resguardo, conservación y mantenimiento de las negociaciones embargadas, los devengados por concepto de escrituración y las contribuciones que origine la transmisión de dominio de los bienes inmuebles que son aceptados por el Estado en dación de pago o en adjudicación en los términos de lo previsto por este Código y las contribuciones que se paguen para liberar de cualquier gravamen, bienes que sean objeto de remate.
 
@@ -17041,31 +13171,41 @@ Se entregará el mandamiento de ejecución a la persona con quien se entienda la
 
 Si la notificación del crédito fiscal adeudado o del requerimiento, en su caso, se hizo por edictos, la diligencia se entenderá con la autoridad administrativa estatal o municipal de la circunscripción de los bienes, salvo que en el momento de iniciarse la diligencia compareciera el deudor, en cuyo caso se entenderá con él.
 
-> <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 380.
 
-Se podrá practicar el embargo precautorio sobre los bienes o la negociación del contribuyente para asegurar el interés fiscal, cuando a criterio razonado de la autoridad:
-
-I. El contribuyente se oponga u obstaculice la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales o no se pueda notificar su inicio por haber desaparecido o por ignorarse su domicilio.
-
-II. Después de iniciadas las facultades de comprobación, el contribuyente desaparezca, exista riesgo inminente de que oculte, enajene o dilapide sus bienes, o realice cualquier maniobra tendiente a evadir el cumplimiento de la obligación tributaria.
-
-III. El crédito fiscal no sea exigible pero haya sido determinado por el contribuyente o por la autoridad en el ejercicio de sus facultades de comprobación, cuando a juicio de ésta exista peligro inminente de que el obligado realice cualquier maniobra tendiente a evadir su cumplimiento. En este caso, la autoridad trabará el embargo precautorio hasta por un monto equivalente al de la contribución o contribuciones determinadas, incluyendo sus accesorios. Si el pago se hiciera dentro de los plazos legales, el contribuyente no estará obligado a cubrir los gastos que origine la diligencia y se levantará el embargo.
+Se podrá practicar embargo precautorio, sobre los bienes o la negociación del contribuyente, para asegurar el interés fiscal, cuando el crédito fiscal no sea exigible pero haya sido determinado por el contribuyente o por la autoridad en el ejercicio de sus facultades de comprobación, cuando a juicio de esta exista peligro inminente de que el obligado realice cualquier acción tendiente a evadir su cumplimiento. En estos casos, la autoridad trabara el embargo.
 
 La autoridad que practique el embargo precautorio levantará acta circunstanciada en la que precise las razones del embargo.
 
-La autoridad requerirá al obligado, en el caso de la fracción III de este artículo para que dentro del término de 3 días desvirtúe el monto por el que se realizó el embargo. Transcurrido el plazo antes señalado, sin que el obligado hubiera desvirtuado el monto del embargo precautorio, éste quedará firme.
+La autoridad requerirá al obligado para que dentro del término de 3 días desvirtúe el monto por el que se realizó el embargo. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento. Transcurrido el plazo antes señalado, sin que el obligado hubiera desvirtuado el monto del embargo precautorio, éste quedará firme.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+El embargo precautorio practicado antes de la fecha en que el crédito fiscal sea exigible, se convertirá en definitivo al momento de la exigibilidad de dicho crédito fiscal y se aplicará el procedimiento administrativo de ejecución.
 
-En el caso de las fracciones I y II, el embargo precautorio quedará sin efectos si la autoridad fiscal no emite la resolución en la que se determinen créditos fiscales, dentro del plazo de treinta días, mismo que podrá ampliarse hasta seis meses en los casos en que se funde y motive el acto, contados desde la fecha en que fue practicado el embargo. Si dentro del plazo señalado la autoridad los determina, el embargo precautorio se convertirá en definitivo y se proseguirá el procedimiento administrativo de ejecución conforme a las disposiciones de esta Sección, debiendo dejar constancia de la resolución y de la notificación misma en el expediente de ejecución. Si el particular garantiza el interés fiscal en los términos señalados en el presente Código se levantará el embargo.
+Si el particular garantiza el interés fiscal en los términos del artículo 35 de este Código, se levantará el embargo.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+Son aplicables al embargo precautorio a que se refiere este artículo y a lo previsto por el artículo 41, fracción II, de este Código, las disposiciones establecidas para el embargo y para la intervención en el procedimiento administrativo de ejecución que, conforme a su naturaleza, le sean aplicables.
 
-El embargo precautorio practicado antes de la fecha en que el crédito fiscal sea exigible, se convertirá en definitivo al momento de la exigibilidad de dicho crédito fiscal y se aplicará el procedimiento administrativo de ejecución, para tal efecto, la autoridad invariablemente deberá emitir mandamiento de ejecución en el que ordene se requiera de pago al deudor, con el apercibimiento de que de no acreditar haber realizado el pago, se continuará el procedimiento administrativo de ejecución respecto de los bienes embargados precautoriamente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Son aplicables al embargo precautorio a que se refiere este artículo, las disposiciones establecidas para el embargo y para la intervención en el procedimiento administrativo de ejecución que, conforme a su naturaleza, le sean aplicables.
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+###### Artículo 380-A.
+
+La autoridad podrá decretar el aseguramiento de los bienes o la negociación del contribuyente cuando:
+
+I. El contribuyente se oponga u obstaculice la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales o no se pueda notificar su inicio por haber desaparecido o por ignorarse su domicilio.
+
+II. Después de iniciadas las facultades de comprobación, el contribuyente desaparezca o exista riesgo inminente de que oculte, enajene o dilapide sus bienes.
+
+III. El contribuyente se niegue a proporcionar la contabilidad que acredite el cumplimiento de las disposiciones fiscales a que se está obligado.
+
+En los casos anteriores, la autoridad que practique el aseguramiento deberá levantar acta circunstanciada en la que precise las razones para hacerlo.
+
+El aseguramiento precautorio quedará sin efectos si la autoridad no emite, dentro de los plazos a que se refiere el artículo 48 fracciones II y III de este Código, y de 18 meses en el caso de la fracción I, contados desde la fecha en que fue practicado, resolución en la que determine créditos fiscales. Si dentro de los plazos señalados la autoridad determina algún crédito, dejará de surtir efectos el aseguramiento precautorio y se proseguirá el procedimiento administrativo de ejecución, debiendo dejar constancia de la resolución y de la notificación de la misma en el expediente de ejecución.
 
 > <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -17131,13 +13271,19 @@ G). Negociaciones comerciales, industriales o agrícolas.
 
 En caso de que la persona con quien se entienda la diligencia de embargo no designe testigos, y si lo hiciere los testigos designados se negaren a firmar, así lo hará constar el ejecutor en el acta, sin que tales circunstancias afecten la legalidad del embargo.
 
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 384 Bis.
 
-En el caso de embargo de depósitos bancarios en términos del articulo 384 fracción III inciso A) de este Código, la autoridad que haya ordenado el embargo girará oficio a la Comisión Nacional Bancaria y de Valores, para que por su conducto se inmovilicen y conserven los fondos depositados, dejando a salvo los relativos a sueldos de trabajadores y hasta por el importe del crédito.
+En el caso de embargo de depósitos bancarios en términos del artículo 384 fracción III inciso A) de este Código, la autoridad que haya ordenado el embargo girará oficio a la Comisión Nacional Bancaria y de Valores, o a las instituciones bancarias que correspondan, para que por su conducto se inmovilicen y conserven los fondos depositados, dejando a salvo los relativos a sueldos de trabajadores y hasta por el importe del crédito.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 Los fondos únicamente podrán transferirse al fisco una vez que el crédito relacionado quede firme y hasta por el importe necesario para cubrirlo.
+
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 En tanto el crédito fiscal no quede firme, el contribuyente titular de las cuentas bancarias embargadas podrá ofrecer otra forma de garantía de acuerdo con el artículo 35 del presente Código, en sustitución del embargo de las cuentas. La autoridad deberá resolver y notificar al contribuyente sobre la admisión o rechazo de la garantía ofrecida, o el requerimiento de requisitos adicionales, dentro de un plazo máximo de 10 días. En caso de que proceda el cambio de garantía, la autoridad tendrá la obligación de comunicar a la institución bancaria la sustitución realizada, dentro del plazo de 15 días siguientes al en que se haya notificado la misma al contribuyente, a fin de que éste tenga libre disposición de sus cuentas bancarias.
 
@@ -17339,15 +13485,19 @@ IV. Cuando de conformidad con este Título se haya enajenado la negociación.
 
 En los casos de las fracciones I y IV de este artículo, la oficina ejecutora comunicará el hecho a la oficina del Registro Público de la Propiedad que corresponda para que se cancele la inscripción respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 401.
 
-Cuando no sea posible obtener la recuperación del crédito fiscal de que se trate en términos de lo previsto en el artículo 378, los interventores con cargo a caja o en administración, así como los depositarios, percibirán mensualmente los honorarios que fije la autoridad ejecutora de acuerdo a lo siguiente:
+Los interventores con cargo a caja o en administración, así como los administradores de bienes inmuebles que causen rentas, percibirán mensualmente por concepto de honorarios, el 5 al millar de los ingresos brutos mensuales que perciba el contribuyente o del importe mensual de las rentas, respectivamente.
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I. Para los interventores con cargo a caja, los honorarios referidos no podrán ser inferiores a ciento cincuenta días de salario mínimo general vigente del área geográfica en la que se encuentre la negociación, ni mayores a mil días del salario mínimo referido. Cualquiera que fueran las gestiones, operaciones y actos de administración que realicen, aún y cuando la intervención dure menos de un mes.
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+I. Para los interventores con cargo a caja y los administradores de bienes inmuebles que causen rentas, los honorarios referidos no podrán ser inferiores a ciento cincuenta días de salario mínimo general vigente del área geográfica "A", ni mayores a mil días del salario mínimo referido. Cualquiera que fueran las gestiones, operaciones y actos (sic) administración que realicen, aun y cuando la intervención dure menos de un mes.
 
 > <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -17443,6 +13593,12 @@ Salvo los casos que este Código autoriza, toda venta se hará en subasta públi
 
 La autoridad fiscal podrá designar otro lugar para la venta u ordenar que los bienes embargados se vendan en lotes o fracciones o en piezas sueltas, con el objeto de obtener un mayor rendimiento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+La autoridad fiscal podrá llevar a cabo el remate de los bienes a través de medios electrónicos.
+
 > <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 409.
@@ -17473,9 +13629,11 @@ La autoridad notificará personalmente al deudor el avalúo practicado, para que
 
 El remate podrá ser convocado para una fecha fijada dentro de los 30 días siguientes a la fecha en que quede firme el avalúo que le fue notificado al embargado. La publicación de la convocatoria se hará cuando menos 10 días antes de la fecha del remate.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-La convocatoria se fijará en sitio visible y usual de la oficina ejecutora, en los lugares públicos que se estimen convenientes y se publicará en la "Gaceta del Gobierno" dos veces consecutivas. Cuando el valor de los bienes muebles, inmuebles o negociaciones exceda de la cantidad que corresponda a seis veces el salario mínimo general elevado al año según el área geográfica que corresponda, la convocatoria se publicará además en uno de los periódicos de mayor circulación si lo hubiere donde resida la autoridad ejecutora, dos veces consecutivas.
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+La convocatoria se fijará en sitio visible y usual de la oficina ejecutora, en los lugares públicos que se estimen convenientes y se publicará en el Periódico Oficial dos veces consecutivas. Cuando el valor de los bienes muebles, inmuebles o negociaciones exceda de la cantidad que corresponda a seis veces el salario mínimo general elevado al año según el área geográfica que corresponda, la convocatoria se publicará además en uno de los periódicos de mayor circulación si lo hubiere donde resida la autoridad ejecutora, dos veces consecutivas. En el supuesto de que el remate se efectué a través de medios electrónicos, además, la convocatoria se dará a conocer en la página electrónica de las autoridades fiscales.
 
 > <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -17485,15 +13643,17 @@ En todo caso, a petición del deudor y previo pago del costo, la autoridad ejecu
 
 En la convocatoria se darán a conocer los bienes objeto del remate, el valor que servirá de base para su venta, el nombre de los acreedores que aparezcan en el certificado de gravámenes correspondientes a los últimos diez años, así como los requisitos que deberán cumplir los postores para concurrir al mismo.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 412.
 
-Los acreedores que aparezcan en el certificado de gravámenes correspondientes a los últimos 10 años, el que deberá obtenerse oportunamente, serán notificados para comparecer al acto del remate y, en caso de que no sean localizados o bien, que su domicilio se ubique fuera del territorio del Estado de México, se tendrá como notificación la fecha de la primera publicación de la convocatoria en el Periódico Oficial "Gaceta del Gobierno", en la cual deberá expresarse el nombre de los acreedores.
+Los acreedores que aparezcan en el certificado de gravámenes correspondientes a los últimos 10 años, el que deberá obtenerse oportunamente, serán notificados para comparecer al acto del remate y, en caso de que no sean localizados o que su domicilio se ubique fuera del territorio del Estado de México o del Municipio que corresponda, se tendrá como notificación la fecha de la primera publicación de la convocatoria en el Periódico Oficial, en la cual deberá expresarse el nombre de los acreedores.
 
-Los acreedores a que alude el párrafo anterior, tendrán derecho a concurrir ante la oficina ejecutora, hasta tres días antes de la fecha en que deba celebrarse el remate en primera almoneda. La concurrencia será con el propósito de hacer valer sus derechos de preferencia, lo cual harán mediante escrito libre adjuntando los documentos que acrediten su representación cuando no gestionen a nombre propio y la documental que acredite su preferencia, tal preferencia será resuelta mediante resolución por la autoridad ejecutora con base en lo dispuesto en el penúltimo párrafo del artículo 29 de este ordenamiento, a más tardar en la fecha en que deba de celebrarse el remate en primera almoneda, debiendo presentarse el acreedor ante dicha autoridad en esa fecha para ser notificado de la resolución correspondiente.
+Los acreedores a que alude el párrafo anterior, tendrán derecho a concurrir ante la oficina ejecutora, hasta tres días antes de la fecha en que deba celebrarse el remate. La concurrencia será con el propósito de hacer valer sus derechos de preferencia, lo cual harán mediante escrito libre adjuntando los documentos que acrediten su representación cuando no gestionen a nombre propio y la documental que acredite su preferencia, tal preferencia será resuelta mediante resolución por la autoridad ejecutora con base en lo dispuesto en el penúltimo párrafo del artículo 29 de este ordenamiento, a más tardar en la fecha en que deba de celebrarse el remate, debiendo presentarse el acreedor ante dicha autoridad en esa fecha para ser notificado de la resolución correspondiente.
 
-En caso de inconformidad, ésta será resuelta por la autoridad competente y en este supuesto, el producto obtenido en la primera o en la segunda almoneda, no se aplicará al pago de los créditos fiscales, hasta en tanto no quede firme la resolución que determine la preferencia; y se aplicará el producto a los créditos fiscales, siempre y cuando la resolución firme sea favorable a la autoridad ejecutora.
+En caso de inconformidad, esta será resuelta por la autoridad competente y en este supuesto, el producto obtenido, no se aplicará al pago de los créditos fiscales, hasta en tanto no quede firme la resolución que determine la preferencia; y se aplicará el producto a los créditos fiscales, siempre y cuando la resolución firme sea favorable a la autoridad ejecutora.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -17519,6 +13679,12 @@ Al escrito en que se haga la postura se acompañará necesariamente un depósito
 
 El importe del depósito que se constituya de acuerdo con lo que establece el presente artículo, servirá de garantía para el cumplimiento de las obligaciones que contraiga el postor por la adjudicación que se les haga de los bienes rematados. Inmediatamente después de fincado el remate, previa orden de la oficina ejecutora, se devolverán los cheques certificados o billetes de depósito a los postores, excepto el que corresponda al postor a cuyo favor se finque el remate, cuyo depósito continuará como garantía del cumplimiento de su obligación, y en su caso, como parte del precio de venta. Tratándose de la devolución de los billetes de depósito, la autoridad ejecutora como parte integrante del Gobierno del Estado de México o del municipio según corresponda, tendrá la facultad de endosarlo a favor del postor, para que éste lo pueda cobrar.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+En el supuesto de que el remate se efectúe a través de medios electrónicos, las posturas podrán enviarse en documento digital a la dirección electrónica que se señale en la convocatoria para el remate. La autoridad enviará los mensajes que confirmen la recepción de las posturas al correo electrónico que el postor señale en su postura. Dichos mensajes tendrán las características que se establezcan en la convocatoria de remate. Para participar en una subasta será necesario que el postor, antes de enviar su postura, realice el depósito de cuando menos el 20% a que se refiere el párrafo anterior, el cual podrá realizar por vía electrónica.
+
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 416.
@@ -17543,9 +13709,25 @@ II. Las cantidades que se ofrezcan; y
 
 III. Los que atendiendo al caso concreto, se señalen en la convocatoria.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Si los escritos que contienen las posturas no cumplen con los requisitos a que se refieren las fracciones anteriores y los que se señalen en la convocatoria, la autoridad ejecutora no las calificará como posturas legales, situación que se hará del conocimiento del interesado.
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+En el caso de que el remate se efectúe a través de medios electrónicos y en el supuesto de que la postura se presente a través de documento digital, este deberá contener los siguientes datos:
+
+I. Cuando se trate de personas físicas, el nombre, la nacionalidad y el domicilio del postor y, en su caso, la clave del registro federal de contribuyentes; tratándose de personas jurídico colectivas, el nombre o razón social, la fecha de constitución, la clave del Registro Federal de Contribuyentes y el domicilio.
+
+2. La cantidad que se ofrezca en precio cierto y determinado.
+
+3. La dirección de correo electrónico y el domicilio para oír y recibir notificaciones.
+
+4. El monto y número de la transferencia electrónica de fondos que haya realizado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Si las posturas no cumplen con los requisitos a que se refieren las fracciones anteriores y los que se señalen en la convocatoria, la autoridad ejecutora no las calificará como posturas legales, situación que se hará del conocimiento del interesado.
 
 > <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -17555,25 +13737,67 @@ El día y hora señalados en la convocatoria, el jefe de la oficina ejecutora, d
 
 Si en la última postura se ofrece igual suma de contado, por dos o más postores y dicha suma sea la postura más alta, se aceptará la primera postura que se hubiera recibido.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+En el caso de que el remate se efectúe a través de medios electrónicos, la autoridad especificará en la página electrónica de subastas, el periodo correspondiente a cada remate, el registro de los postores y las posturas que se reciban, así como la fecha y hora de su recepción.
+
 Los deudores garantizarán en efectivo cada puja.
 
-> <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+La subasta a través de medios electrónicos tendrá una duración de 8 días que empezará a partir de las 12:00 horas del primer día y concluirá a las 12:00 horas del octavo día. En dicho periodo los postores presentarán sus posturas y podrán mejorar las propuestas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Si dentro de los veinte minutos previos al vencimiento del plazo de remate se recibe una postura que mejore las anteriores, el remate no se cerrará conforme al término mencionado en el párrafo precedente, en este caso y a partir de las 12:00 horas del día de que se trate, se concederán plazos sucesivos de 5 minutos cada uno, hasta que la última postura no sea mejorada. Una vez transcurrido el último plazo sin que se reciba una mejor postura se tendrá por concluido el remate.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Se fincará el remate a favor de quien haya hecho la mejor postura. Cuando existan varios postores que hayan ofrecido una suma igual y dicha suma sea la postura más alta, se aceptará la primera postura de éstas que se haya recibido.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Una vez fincado el remate se comunicará el resultado del mismo a través de medios electrónicos a los postores que hubieren participado en él, remitiendo el acta que al efecto se levante.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 419.
 
-Fincado el remate de bienes muebles se aplicará el depósito constituido y el postor, dentro de los tres días siguientes a la fecha del remate, enterará en la caja de la oficina ejecutara, el saldo de la cantidad de contado ofrecida en su postura, o mejoras, y constituirá las garantías a que se hubiere obligado por la parte del precio que quedare adeudado.
+Fincado el remate de bienes muebles se aplicará el depósito constituido y el postor, dentro de los tres días siguientes a la fecha del remate, enterará en la caja de la oficina ejecutora, el saldo de la cantidad de contado ofrecida en su postura, o mejoras, y constituirá las garantías a que se hubiere obligado por la parte del precio que quedare adeudado. En el caso de que el remate se haya llevado a través de medios electrónicos, el pago se podrá hacer mediante pago electrónico.
+
+> <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 Tan pronto como el postor hubiere cumplido con los requisitos a que se refiere el párrafo anterior, se citará al contribuyente para que dentro de un plazo de tres días hábiles, entregue a la autoridad ejecutora las facturas o documentación comprobatoria de la venta de los mismos, cumpliendo con los requisitos a que se refiere este Código, apercibido que de no hacerlo, la autoridad ejecutara emitirá el documento correspondiente en su rebeldía.
 
+> <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+
 Con las facturas o documentación comprobatoria correspondiente, la oficina ejecutora dentro de un plazo de tres días contados a partir de que reciba dicha documentación o expida la correspondiente, procederá a entregar al adquirente los bienes que se le hubieren adjudicado.
+
+> <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la autoridad los ponga a su disposición, en caso de no hacerlo, se causarán derechos por el almacenaje a partir del día siguiente.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 420.
 
-Fincado el remate de bienes inmuebles o negociaciones se aplicará el depósito constituido. Dentro de los 10 días siguientes a la fecha del remate, el postor enterará en la caja de la oficina ejecutora, institución bancaria o caja habilitada, el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras.
+Fincado el remate de bienes inmuebles o negociaciones se aplicará el depósito constituido. Dentro de los 10 días siguientes a la fecha del remate, el postor enterará en la caja de la oficina ejecutora, institución bancaria o caja habilitada, el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras. En el caso de que el remate se haya llevado a través de medios electrónicos, el pago se podrá hacer en las modalidades que establezcan las autoridades fiscales.
+
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 Hecho el pago a que se refiere el párrafo anterior y designado en su caso el notario público por el postor, se citará al ejecutado, para que dentro de un plazo de 5 días, otorgue y firme la escritura de venta correspondiente, apercibido de que si no lo hace, el jefe de la oficina ejecutora lo hará en su rebeldía. El ejecutado aún en el caso de rebeldía, responde por la evicción y los vicios ocultos.
 
@@ -17748,18 +13972,6 @@ I. Por la interposición del recurso administrativo o la presentación de la dem
 II. Por consulta entre autoridades, si de dicha consulta depende la entrega de los bienes a los interesados.
 
 ## TRANSITORIOS
-
-PRIMERO.- El presente Código de Conducta del Instituto Sinaloense de la Juventud, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- En cumplimiento de lo establecido en el artículo Décimo Tercero de los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativa, (sic) emitidos por la Secretaría Ejecutiva del Sistema Nacional Anticorrupción, el presente Código, deberá de publicarse en el Periódico Oficial "El Estado de Sinaloa"; asimismo, en concordancia con lo establecido en el artículo 9 del Código de Ética de los Servidores Públicos del Gobierno del Estado de Sinaloa publicado el 7 de septiembre de 2020 en el periódico oficial "El Estado de Sinaloa", el presente Código deberá de difundirse y publicarse, en la página de internet institucional del Instituto Sinaloense de la Juventud.
-
-TERCERO.- Las Áreas del Instituto Sinaloense de la Juventud, a través del Comité de Ética, deberán hacer del conocimiento al personal adscrito a sus áreas el Código de Conducta de esta Dependencia, mediante oficios y acuse, presentaciones presenciales, cuadernillo impreso, correo electrónico y por otras vías más eficaces existentes, una vez publicado el mismo.
-
-Dado en la Ciudad de Culiacán, Sinaloa a los 25 días del mes de noviembre del dos mil veinte.
-
-C. Jesús Joaquín Rodríguez Astengo
-
-Director General del Instituto Sinaloense de la Juventud
 
 ###### ARTICULO PRIMERO.
 
@@ -18247,7 +14459,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 
 SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial "Gaceta del Gobierno".
 
-TERCERO.- Las retenciones y pagos que se realicen con cargo a los recursos del Fondo previsto en la fracción IV del artículo 228 del Código Financiero del Estado de México y Municipios, que correspondan al municipio y/o a sus organismos operadores de agua, a que se refieren los artículos 230 B, 230 D y 230 E del referido Código Financiero, sólo podrán solicitarse para el cobro de adeudos generados a partir del 1° de enero de 2008. Lo anterior, en el entendido de que las retenciones y pagos relativos a los conceptos de aprovechamientos por el suministro de agua en bloque por parte de la Comisión Nacional del Agua y por concepto de suministro de agua en bloque, cloración, operación, uso de la infraestructura hidráulica para la conducción de volúmenes y entrega de agua por la Comisión del Agua del Estado de México, con cargo a los recursos del citado Fondo, deberán efectuarse mediante la aplicación de los recursos del Fondo mencionado de manera gradual, con base en los siguientes porcentajes aplicables sobre el total de los recursos que le correspondan a cada municipio por concepto del Fondo previsto en la fracción IV del artículo 228 del propio Código Financiero vigente en la Entidad:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TRANSITORIO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+TERCERO.- Las retenciones y pagos que se realicen con cargo a los recursos del Fondo previsto en la fracción IV del artículo 228 del Código Financiero del Estado de México y Municipios, que correspondan al municipio y/o sus organismos operadores de agua, a que se refieren los artículos 230 B, 230 D, y 230 E del referido Código Financiero, sólo podrán solicitarse para el cobro de adeudos generados a partir del 10 de enero de 2008. Lo anterior, en el entendido de que las retenciones y pagos relativos a los conceptos del Derecho sobre agua por la explotación, uso o aprovechamiento de aguas nacionales y de aprovechamientos por el suministro de agua en bloque por parte de la Comisión Nacional del Agua y por concepto de suministro de agua en bloque, cloración, operación, uso de la infraestructura hidráulica para la conducción de volúmenes y entrega de agua por la Comisión del Agua del Estado de México, con cargo a los recursos del citado Fondo, deberán efectuarse mediante la aplicación de los recursos del Fondo mencionado de manera gradual, con base en los siguientes porcentajes aplicables sobre el total de los recursos que correspondan a cada municipio por concepto del Fondo previsto en la fracción IV del artículo 228 del propio Código Financiero vigente en la entidad.
 
 EJERCICIO FISCAL PORCENTAJE MÁXIMO DE
 
@@ -18255,7 +14471,7 @@ RETENCIÓN DEL FORTAMUN
 
 2008 40%
 
-2009 55%
+2009 45%
 
 2010 70%
 
@@ -18270,6 +14486,68 @@ QUINTO.- El Ejecutivo Estatal presentará ante la Legislatura Local, dentro de l
 SEXTO.- Los porcentajes máximos de retención contenidos en la tabla del Artículo Tercero Transitorio del presente Decreto, cubrirán las tarifas de los conceptos referidos en dicho artículo, cuando los aumentos anuales a las mismas no excedan del incremento porcentual al Índice Nacional de Precios al Consumidor, para cada uno de los ejercicios de que se trate, en el entendido de que a partir del año 2012, la cobertura de la garantía será del 100%.
 
 Si el incremento de las tarifas es superior al aumento del Índice Nacional de Precios al Consumidor, el porcentaje de retención a que se refiere la tabla del Artículo Tercero Transitorio, cubrirá hasta un monto equivalente a la tarifa anterior más el porcentaje del aumento que se hubiera dado a conocer para el Índice Nacional de Precios al Consumidor para el período de que se trate.
+
+G.G. 12 DE NOVIEMBRE DE 2008.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 18 DE DICIEMBRE DE 2008.
+
+DECRETO No. 233, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DEL CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO No. 233, QUE SE RELACIONAN CON EL CODIGO.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza al Ejecutivo del Estado para que por conducto de la Secretaría de Finanzas, emita a quien se lo solicite una constancia de que la afectación de las participaciones que en ingresos federales le corresponden al Estado a que se refiere el Artículo Sexto del Decreto No. 48 de la H. "LV" Legislatura del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" del Estado de México el 4 de junio de 2004 continúa en pleno vigor.
+
+###### ARTÍCULO CUARTO.
+
+El Capitulo Cuarto del Título Noveno del Código Financiero del Estado de México y Municipios, denominado 'Del Control, Información y Evaluación del Gasto Público', refiere aspectos relevantes en materia de las bases bajo las cuales han de establecerse los presupuestos. Sin embargo, es interés del Titular del Poder Ejecutivo instrumentar durante el ejercicio 2009 medidas adicionales en la materia, en concordancia con la reforma al artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, que hace obligatorio para todos los ámbitos de gobierno, el establecimiento de un presupuesto basado en resultados.
+
+Dicha reforma establece que los recursos públicos deben ejercerse con eficiencia, eficacia, economía, transparencia y honradez; señala también que el resultado del ejercicio de estos recursos será evaluado por las instancias técnicas que establezca cada ámbito de gobierno.
+
+Así, dichas medidas deberán consistir en adecuar la Ley de Planeación del Estado de México y Municipios y su Reglamento a través de nuevos preceptos y principios en la materia, clarificando otros ya existentes, así como depurando, mejorando y homologando los ordenamientos legales y reglamentarios y las herramientas administrativas de que se dispone, como lo son el Sistema Estatal de Evaluación del Desempeño (SIED) y el Sistema de Evaluación de la Gestión Municipal (SEGEMUN), para su uso y aplicación.
+
+En tal sentido, el Titular del Ejecutivo propondrá a la Legislatura Local las modificaciones a los ordenamientos legales que corresponda para avanzar en este sentido y cumplir con los objetivos propuestos, que permitirán al Estado de México seguir siendo pionero en mejorar los esquemas de evaluación y rendición de cuentas y cumplir con oportunidad con lo establecido por el artículo 134 constitucional referido.
+
+## TRANSITORIOS
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1° de enero de 2009.
+
+TERCERO.- Cuando el periodo de actualización a que refiere el segundo párrafo del artículo 30 del Código Financiero del Estado de México y Municipios incluya meses anteriores a la entrada en vigor del presente decreto, los factores de actualización previstos en la ley de ingresos correspondiente a cada mes en cada ejercicio, deberán convertirse en porcentajes de actualización, conversión que deberá representar el incremento porcentual determinado para cada factor de actualización que deba aplicarse.
+
+La conversión a que refiere el párrafo anterior se realizará eliminando la unidad a cada factor y el resultado obtenido se multiplicará por 100.
+
+CUARTO.- El párrafo que se adiciona al artículo 116 entrará en vigor a partir del I de julio de 2009. Para ello, los gobiernos municipales definirán durante los primeros seis meses del año 2009, en el marco del Sistema de Coordinación Hacendaria del Estado de México y Municipios, la forma oficial única para la declaración del Impuesto sobre Adquisición de Inmuebles y Otras Operaciones Traslativas del Dominio de Inmuebles.
+
+G.G. 18 DE DICIEMBRE DE 2008.
+
+DECRETO No. 235, POR EL QUE SE ADICIONAN LOS ARTICULOS 203-G, 230-H, 230-I, 230-J, 230-K Y 230-L AL CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS.
+
+SE TRANSCRIBEN UNICAMENTE EL ARTICULO SEGUNDO DEL DECRETO No. 235, QUE SE RELACIONA CON EL CODIGO.
+
+###### ARTICULO SEGUNDO.
+
+Las retenciones y pagos a que se refieren los artículos 37 de la Ley de Coordinación Fiscal, 230-B, 230-D y 230-E del Código Financiero del Estado de México y Municipios y Tercero Transitorio del Decreto Número 123 de la H. "LVI" Legislatura del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" de fecha 27 de marzo de 2008, tendrán en todo momento prioridad respecto de las retenciones a que se refieren los artículos 230-H, 230-J y 230-L del propio Código Financiero.
+
+## TRANSITORIOS
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las retenciones y pagos a que se refieren los artículos 230-H, 230-J y 230-L del Código Financiero del Estado de México y Municipios, que se realicen con cargo a los recursos que correspondan al municipio del Fondo previsto en el artículo 228 fracción IV del propio Código Financiero, sólo podrán solicitarse para el cobro de adeudos generados a partir del uno de enero de 2008, siempre y cuando el municipio de que se trate se haya acogido a lo dispuesto en el artículo 15 párrafo octavo de la Ley de Ingresos de la Federación para el Ejercicio Fiscal 2008.
+
+G.G. 1 DE ENERO DE 2009.
+
+Primero.- Publíquese en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+Segundo.- Dése a conocer a las Dependencias de la Administración Pública del Gobierno del Estado de México, así como a las Unidades Administrativas dependientes de la Subsecretaría de Ingresos.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER EL MANUAL GRÁFICO PARA EL USO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
 
