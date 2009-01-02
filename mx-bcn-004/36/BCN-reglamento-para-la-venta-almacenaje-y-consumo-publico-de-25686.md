@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-venta-almacenaje-y-consumo-publico-de-25686"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-03"
-last_updated: "2007-08-03"
+last_updated: "2009-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2009.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de mayo de 2002.
 
@@ -71,21 +71,31 @@ ACUERDO DE CABILDO: Es la resolución del pleno del Ayuntamiento que recae sobre
 
 AUTORIDAD MUNICIPAL: Son los órganos de Gobierno Municipal que tienen la facultad de ejecutar sus resoluciones aun con el auxilio de la fuerza pública.
 
-COMISIÓN REGULADORA DE BEBIDAS ALCOHOLICAS: Como la competente para dictaminar sobre los permisos, para la venta, almacenaje y consumo público de bebidas alcohólicas en el Municipio de Tijuana Baja California, así como para el estudio y análisis de los requisitos y de la factibilidad en su caso sobre los cambios de domicilio y de las revocaciones de los permisos otorgados.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2007)</small>
+COMISIÓN REGULADORA DE BEBIDAS ALCOHOLICAS: COMISIÓN REGULADORA DE BEBIDAS ALCOHOLICAS: La Comisión de Cabildo, competente para dictaminar sobre la expedición de permisos nuevos para la venta, almacenaje y consumo publico de bebidas alcohólicas en el Municipio de Tijuana Baja California, así como para el estudio y análisis de los requisitos y de la factibilidad de las revocaciones de los permisos otorgados.
 
-DICTAMEN DE COMISION: Es la resolución que emite la Comisión Reguladora de bebidas alcohólicas, respecto del expediente de solicitud de permiso o revocación, debidamente integrado y que se somete a consideración del Cabildo.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
-PERMISO: La autorización por escrito que otorga la autoridad municipal en cumplimiento al Dictamen de procedencia emitido por el pleno de Cabildo para que una persona física o moral, pueda distribuir, almacenar o vender, bebidas alcohólicas.
+DICTAMEN DE COMISION: Es la resolución que emite la Comisión Reguladora de Bebidas Alcohólicas respecto a la autorización o denegación de solicitudes de permisos nuevos o la revocación de los mismos, para ser sujeto a análisis, discusión y votación del Cabildo
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
+PERMISO: La autorización por escrito que otorga y expide la autoridad municipal en cumplimiento al Acuerdo de procedencia emitido por el pleno de Cabildo para que una persona física o moral, pueda distribuir, almacenar o vender bebidas alcohólicas.
 
 DICTAMEN DE PROCEDENCIA: Es la autorización que emite el Cabildo.
 
-REVALIDACIÓN: Acto administrativo que realiza la Secretaría del Ayuntamiento, anualmente por virtud del cual se autoriza la operación del permiso que haya sido otorgado por el Ayuntamiento, una vez que se ha verificado que se cumple con la reglamentación Municipal Vigente y previo pago de los derechos correspondientes.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
-OPINION TECNICA: Es el documento expedido por el Secretario del Ayuntamiento respecto de la viabilidad de autorizar un permiso para la explotación de bebidas alcohólicas en el giro que corresponda conforme al presente reglamento cuando se trate de proyectos en proceso, ya sea de construcción, habilitación o remodelación de un local o establecimiento, debidamente autorizados por las autoridades correspondientes.
+REVALIDACIÓN: Acto administrativo que realiza la Secretaria de Gobierno Municipal anualmente, a través de la Dirección de Bebidas Alcohólicas, por virtud del cual se autoriza la operación del permiso que haya sido otorgado por el Ayuntamiento, una vez que se ha verificado que se cumple con la reglamentación Municipal vigente y previo pago de los derechos correspondientes.
 
-ESTUDIO DE IMPACTO SOCIAL: Es el documento expedido por la Dirección General de Gobierno Municipal, una vez integrado debidamente el expediente donde se contienen los aspectos generales y estudio de cada uno de los requisitos exigidos por el reglamento y la Ley.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
+OPINION TECNICA: Es el documento expedido por la Dirección de Bebidas Alcohólicas respecto de la viabilidad de autorizar un permiso para la explotación de bebidas alcohólicas en el giro que corresponda conforme al presente reglamento cuando se trate de proyectos en proceso, ya sea de construcción, habilitación o remodelación de un local o establecimiento, debidamente autorizados por las autoridades correspondientes.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
+ESTUDIO DE IMPACTO SOCIAL: Es el documento expedido por el Secretario de Gobierno Municipal y el Director de Bebidas Alcohólicas una vez integrado debidamente el expediente donde se contienen los aspectos generales y estudio de cada uno de los requisitos exigidos por el Reglamento y la Ley.
 
 EVENTO: Es el suceso mediante el cual las personas realizan Espectáculos Públicos, Bailes Públicos, Ferias, Variedades o Diversiones Análogas en los cuales se expenden bebidas alcohólicas por un determinado lapso de tiempo.
 
@@ -101,9 +111,17 @@ ESTABLECIMIENTO: Lugar destinado, habilitado y acondicionado para la venta, dist
 
 GIRO: La actividad mercantil preponderante del establecimiento, de acuerdo a lo descrito en el Artículo 6, fracción VIII de la Ley.
 
-DISTRIBUCIÓN: Acto por el cual las empresas legalmente constituidas, cuyo objeto sea el suministrar o abastecer productos con contenido alcohólico e inscritas en el padrón Municipal suministren productos a establecimientos legalmente establecidos e inscritos en el padrón de establecimientos a cargo de la Secretaría del Ayuntamiento mismos que cuentan con permiso para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas.
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2009)</small>
 
-SERVICIOS ADICIONALES: Las actividades de diversión, entretenimiento o espectáculos, que se realicen o presenten en los establecimientos o giros autorizados para desarrollar cualquiera de las actividades a que se refiere la ley, bajo las modalidades que se determinen como tales en el reglamento y que previo permiso otorgado, podrán explotar de manera temporal o permanente los permisionarios en sus establecimientos.
+GIRO SIMILAR: Aquellos que de acuerdo al artículo 6 fracción VIII, inciso a), de la Ley para la venta, almacenaje y consumo público de bebidas alcohólicas del Estado, su actividad predominante sea la misma.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
+DISTRIBUCIÓN: Acto por el cual las empresas legalmente constituidas, cuyo objeto sea el suministrar o abastecer productos con contenido alcohólico e inscritas en el padrón Municipal suministren productos a establecimientos legalmente establecidos e inscritos en el padrón de establecimientos a cargo de la Secretaría de Gobierno Municipal, mismos que cuentan con permiso para la venta, almacenaje para su venta y venta para consumo publico de bebidas alcohólicas.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
+SERVICIOS ADICIONALES.- Las actividades de diversión, entretenimiento o espectáculos, que se realicen o presenten en los establecimientos o giros autorizados para desarrollar cualquiera de las actividades a que se refiere la ley, bajo las modalidades que se determinen como tales en el Reglamento y que previo permiso otorgado por la Dirección de Bebidas Alcohólicas, podrán explotar de manera temporal o permanente los permisionarios en sus establecimientos, sujetos a revalidación anual;
 
 PERMISIONARIO: Persona física o moral titular de un permiso.
 
@@ -113,21 +131,31 @@ INSPECTOR: Servidor Público que se le ordena practicar visitas domiciliarias a 
 
 INSPECCION: Actuación que realiza un órgano de autoridad o auxiliar a fin de examinar con los propios sentidos un hecho o una cosa y asentarlo en una acta administrativa.
 
-INFRACCION: Es una violación a este reglamento.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
-MULTA: Sanción de tipo pecuniaria impuesta por la autoridad por violar un precepto legal de este ordenamiento.
+INFRACCION: Es una violación a este reglamento o a la Ley.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
+MULTA: Sanción de tipo pecuniaria impuesta por la autoridad por violar un precepto legal de este ordenamiento o de la Ley.
 
 APERCIBIMIENTO: Es un acto administrativo por medio del cual se hace del conocimiento de la persona requerida, de las consecuencias que trae aparejada la repetición de una conducta que es sancionable y que debe corregir, pues en caso contrario se procederá a la aplicación de las sanciones correspondientes.
 
 CLAUSURA: Sanción en la cual la autoridad municipal competente cierra y obliga a permanecer cerrado un establecimiento o cierta área del mismo, colocando sellos en los lugares que se determine por la autoridad, cuando se contravenga las disposiciones del reglamento o ley, la cual podrá ser temporal o definitiva.
 
-CLAUSURA TEMPORAL: Sanción aplicada por la Autoridad Municipal competente para suspender en forma temporal la actividad comercial de un establecimiento, ésta no excederá de cuarenta y cinco días naturales, y empezarán a contar al día siguiente de su ejecución.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
-CLAUSURA DEFINITIVA: Sanción aplicada por la Autoridad Municipal competente con respecto a un establecimiento, por el cual se suspende en forma definitiva la actividad del mismo.
+CLAUSURA TEMPORAL: Sanción aplicada por la Autoridad Municipal competente para suspender en forma temporal la actividad comercial de un establecimiento o cierta área del mismo, colocando sellos en los lugares que determine la autoridad, cuando se contravenga las disposiciones del reglamento o ley, ésta no excederá de cuarenta y cinco días naturales, y empezarán a contar al día siguiente de su ejecución, en caso de reincidencia, se procederá a la clausura total del establecimiento.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
+CLAUSURA DEFINITIVA: Sanción aplicada por la Autoridad Municipal competente con respecto a un establecimiento, por el cual se suspende en forma definitiva la actividad del mismo, por violaciones graves a la Ley o al Reglamento.
 
 REINCIDENCIA: Cuando un infractor comete la misma infracción en un período de treinta días naturales o incurre en dos o más infracciones en un período de sesenta días.
 
-DOCUMENTO OFICIAL CON FOTOGRAFIA: Credencial Federal o Estatal de Elector, Cartilla Militar, Pasaporte o Licencia de Conducir.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
+DOCUMENTO OFICIAL CON FOTOGRAFIA: Credencial Federal de Elector, Cartilla Militar, Pasaporte o Licencia de Conducir.
 
 ###### ARTICULO 3.
 
@@ -145,11 +173,11 @@ Para operar un giro, se requiere de permiso expedido por el Cabildo a través de
 
 La publicidad y propaganda sobre bebidas alcohólicas, deberá reunir y cumplir con los requisitos que fija la Ley General de Salud y el Reglamento Sanitario de Publicidad respectivo, y el Reglamento de Rótulos, Anuncios y Similares para el Municipio de Tijuana Baja California.
 
-> <small>(F. DE E., P.O. 7 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 6.
 
-Las atribuciones y facultades que éste reglamento confiere a la autoridad municipal, se ejercerán por conducto del Ayuntamiento y en su caso por el Presidente Municipal, la Secretaría del Ayuntamiento, la Dirección General de Gobierno, y la Dirección de Regulación Municipal, sin perjuicio de aquellas que confiere la Ley al Gobernador del Estado.
+Las atribuciones y facultades que éste reglamento confiere a la Autoridad Municipal, se ejercerán por conducto del Ayuntamiento, por el Presidente Municipal, el Secretario de Gobierno Municipal, la Dirección de Bebidas Alcohólicas y la Dirección de Inspección y Verificación Municipal, sin perjuicio de aquellas que confiere la Ley al Gobernador del Estado.
 
 > <small>(F. DE E., P.O. 7 DE JUNIO DE 2002)</small>
 
@@ -165,9 +193,13 @@ I.- Ayuntamiento de Tijuana;
 
 II.- Presidente Municipal;
 
-III.- Secretario del Ayuntamiento;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
 
-IV.- Dirección General de Gobierno, y
+III.- Secretario de Gobierno Municipal;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+IV.- Dirección de Bebidas Alcohólicas y;
 
 V.- La Dirección de Regulación Municipal y los Inspectores que éste designe.
 
@@ -177,9 +209,9 @@ V.- La Dirección de Regulación Municipal y los Inspectores que éste designe.
 
 Son facultades del Ayuntamiento:
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
 
-I.- Otorgar, negar o revocar en ejercicio de la facultad plena de Cabildo y de la Autonomía Municipal los permisos a que se refiere el Artículo 10 de la Ley, y el presente ordenamiento, atendiendo al orden público e interés social y las revocaciones de los mismos:
+I.- Otorgar, negar o revocar, en ejercicio de la facultad plena de Cabildo y de la Autonomía Municipal los permisos a que se refiere el artículo 10 de la ley, atendiendo al Orden Publico e interés Social;
 
 II.- Autorizar las ampliaciones de horarios permanentes según corresponda a cada giro;
 
@@ -187,25 +219,49 @@ III.- Decretar la prohibición de fechas especificas, conforme a lo establecido 
 
 IV.- La creación de giros diversos atendiendo a las necesidades comerciales del Municipio.
 
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+V.- Las demás que establezca la Ley y este Reglamento.
+
 ###### ARTICULO 9.
 
 Son facultades del Presidente Municipal:
 
-I.- Tramitar las solicitudes que se reciban en la Secretaría del Ayuntamiento para la expedición de permisos para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
 
-II.- Autorizar cambios de giro, cambios de titular y los cambios nombre (sic) comercial;
+I.- Tramitar las solicitudes que se reciban en la Dirección de Bebidas Alcohólicas para la expedición de permisos para la venta, almacenaje para su venta y venta para consumo publico de bebidas alcohólicas;
 
-III.- Autorizar los servicios adicionales a que se refiere el presente Reglamento;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
 
-IV.- Determinar e Imponer las sanciones a las que se refiere el presente ordenamiento, y
+II.- Autorizar por conducto del Secretario de Gobierno Municipal los cambios de domicilio, giro, titular y de nombre comercial;
 
-V.- Otorgar los permisos eventuales que señala el presente reglamento, y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
 
-VI.- Las demás que le confiere este reglamento, leyes y disposiciones aplicables.
+III.- Autorizar por conducto de la Dirección de Bebidas Alcohólicas los servicios adicionales a que se refiere el presente Reglamento;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+IV.- Determinar e Imponer por conducto de las autoridades municipales facultadas, las sanciones a las que se refiere el presente ordenamiento;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+V.- Otorgar por conducto del Secretario de Gobierno Municipal los permisos eventuales que señala el presente reglamento;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+VI.- Otorgar por conducto del Secretario de Gobierno Municipal autorización temporal para explotar el giro solicitado, condicionada a los establecimientos cuya solicitud este en trámite, una vez realizada la inspección por la autoridad competente, de la cual se desprenda que cumple con los requisitos de forma, sin que esto implique de ninguna manera que se otorgará el permiso definitivo, dicha autorización no podrá exceder de 60 días naturales;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+VII.- Revocar o cancelar en su caso, por conducto del Secretario de Gobierno Municipal las autorizaciones a que hace referencia la fracción anterior a la primer falta grave considerada como tal en el presente ordenamiento y la Ley de la materia, y
+
+VIII.- Las demás que le confiere este reglamento, leyes y disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 10.
 
-Corresponde al Secretario del Ayuntamiento:
+Corresponde al Secretario de Gobierno Municipal las siguientes facultades:
 
 I.- Llevar el padrón ó registro de permisos que expida la autoridad municipal para su debido control;
 
@@ -219,11 +275,13 @@ V.- Autorizar los servicios adicionales a que se refiere este Reglamento;
 
 VI.- Recepcionar los documentos presentados por la ciudadanía en los que soliciten la expedición de permisos permanentes o eventuales, para la venta, almacenaje para su venta o venta para consumo público de bebidas alcohólicas, así como cuando soliciten cambios de titular, cambio de domicilio, giro o nombre comercial;
 
-VII.- Requerir a la Dirección de Regulación Municipal la inspección de los establecimientos para los que hayan solicitado permisos, para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas, así como cuando soliciten cambios de domicilio o cambios de giro;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
 
-> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
+VII.- Realizar por conducto de la Dirección de Bebidas Alcohólicas la inspección de los establecimientos para los que hayan solicitado permisos, para la venta, almacenaje para su venta y venta para consumo publico de bebidas alcohólicas, así como cuando soliciten cambios de domicilio o cambios de giro;
 
-VIII.- Solicitar a la Dirección de Regulación Municipal la inspección de los establecimientos sobre los cuales se haya otorgado un permiso para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+VIII.- Solicitar a la Dirección de Inspección y Verificación Municipal la inspección de los establecimientos sobre los cuales se haya otorgado un permiso para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas;
 
 > <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
 
@@ -237,23 +295,49 @@ XII.- Otorgar la Opinión Técnica respecto de la factibilidad de proyectos en p
 
 XIII.- Las que le confiere este reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 11.
 
-Corresponden al Director General de Gobierno, las siguientes facultades:
+Corresponde a la Dirección de Bebidas Alcohólicas el ejercicio de las siguientes facultades:
 
-> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
+I.- La integración de los expedientes relativos a solicitudes de permisos permanentes y eventuales para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas, así como de los expedientes relativos a cambios de domicilio, cambios de titular, de giro y de nombre comercial;
 
-I.- Elaborar los estudios de impacto social correspondientes sobre las solicitudes de permisos para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas, así como cuando se solicite cambio de domicilio o cambio de giro;
+II.- Realizar o solicitar a la Dirección de Inspección y Verificación Municipal la realización de las diligencias tendientes a notificar o verificar el cumplimiento de la normatividad por parte de los interesados en los permisos para la venta, almacenaje para su venta o venta para consumo público de bebidas alcohólicas, así como la elaboración de las actas correspondientes a que haya lugar;
 
-II.- Girar las órdenes de pago correspondientes de todos los trámites relacionados con los permisos para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas;
+III.- Elaborar los estudios de Impacto Social correspondientes sobre las solicitudes de permisos para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas, así como cuando se solicite cambio de domicilio o aumento de giro respecto de permisos para la venta en envase abierto;
 
-III.- Integrar los expedientes sobre solicitudes de permisos para la venta de bebidas alcohólicas en los términos del reglamento y la ley, así como asignarles un numero de folio, y
+IV.- Remitir a Cabildo por conducto de la Secretaria de Gobierno Municipal los expedientes relativos a solicitudes de permisos permanentes para la venta, almacenaje para su venta o venta para consumo público de bebidas alcohólicas para su análisis, discusión y aprobación en su caso;
 
-IV.- Las demás facultades que le confieren este reglamento y leyes aplicables.
+V.- Remitir los expedientes relativos a solicitudes de cambio de domicilio, titular, giro y nombre comercial de permisos para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas al Secretario de Gobierno Municipal para su autorización;
+
+VI.- Elaborar las autorizaciones y permisos en su caso, derivados de la aprobación de los expedientes relativos a solicitudes y cambios de permisos permanentes para la venta, almacenaje para su venta o venta para consumo público de bebidas alcohólicas, y turnarlos para firma del Presidente Municipal y del Secretario de Gobierno Municipal;
+
+VII.- Autorizar, modificar o revocar, en su caso, los permisos eventuales relativos a espectáculos públicos, ferias, bailes públicos, variedades o diversiones análogas, cuando en dichos eventos se pretenda el consumo de bebidas alcohólicas en cualquiera de sus modalidades, así como los gastronómicos;
+
+VIII.- Girar las órdenes de pago correspondientes de todos los tramites relacionados con los permisos para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas;
+
+IX.- Autorizar previo cumplimiento de la normatividad en la materia, los servicios adicionales y horario extraordinario a los establecimientos que lo soliciten;
+
+X.- La guarda y custodia de los expedientes de los permisos para la venta, almacenaje para su venta o venta para consumo público de bebidas alcohólicas otorgados y los que se encuentran en trámite, así como de toda la documentación relativa al padrón de alcoholes;
+
+XI.- Llevar acabo (sic) la revalidación anual de los permisos de bebidas alcohólicas;
+
+XII.- Otorgar previo cumplimiento de la normatividad en la materia, las anuencias para la Cesión de Derechos y cierres temporales sobre permisos de bebidas alcohólicas;
+
+XIII.- Elaboración y seguimiento de los procedimientos de requerimiento por incumplimiento en el pago de revalidaciones, cancelación y revocación de los permisos para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas;
+
+XIV.- Otorgar la Opinión Técnica respecto de la factibilidad de proyectos en proceso, cuando soliciten permiso para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas;
+
+XV.- Expedir copia certificada de los permisos para la venta, almacenaje y consumo publico de bebidas alcohólicas, y
+
+XVI.- Las demás que se deriven de las disposiciones legales aplicables y las que indique el Secretario de Gobierno Municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 12.
 
-Corresponden a la Dirección de Regulación Municipal las siguientes facultades:
+Corresponden a la Dirección de Inspección y Verificación Municipal el ejercicio de las siguientes facultades:
 
 I.- Efectuar recorridos de inspección y vigilancia en los establecimientos ubicados en el Municipio que se dediquen a la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas;
 
@@ -269,7 +353,9 @@ b).- Falta de certificación de medidas de seguridad en el establecimiento, áre
 
 c).- El Incumplimiento de acuerdos y disposiciones municipales previamente notificadas al organizador del evento.
 
-V.- Remitir las actas de inspección al Secretario del Ayuntamiento, y auxiliar en las clausuras que se decreten;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+V.- Informar de las actas de inspección al Secretario de Gobierno Municipal, y llevar a cabo las clausuras que se decreten;
 
 VI.- Ejecutar las notificaciones o resoluciones que emita la autoridad municipal;
 
@@ -279,13 +365,17 @@ VIII.- Aplicar las medidas de apremio que autoriza este reglamento;
 
 IX.- Retirar sellos de clausura, previo acuerdo de la Autoridad Municipal;
 
-X.- Informar de las actividades realizadas al Director General de Gobierno;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+X.- Informar a la Dirección de Bebidas Alcohólicas de las sanciones a los establecimientos que expendan bebidas alcohólicas.
 
 XI.- Dirigir y coordinar las labores de inspección y vigilancia, en los términos que señala la ley y este reglamento;
 
-XII.- Informar a la Dirección General de Gobierno sobre las inspecciones realizadas a los establecimientos que se encuentren tramitando o cuenten con el permiso para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
 
-XIII.- Autorizar el horario extraordinario de operación de los establecimientos que lo soliciten, siempre y cuando cumplan con los lineamientos establecidos en el presente reglamento;
+XII.- Informar cuando les (sic) sea solicitado a la Dirección de Bebidas Alcohólicas mediante acta circunstanciada, sobre las inspecciones realizadas a los establecimientos que se encuentren tramitando o cuenten con el permiso para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas;
+
+XIII.- (DEROGADA, P.O. 2 DE ENERO DE 2009)
 
 XIV.- Determinar y ejecutar las sanciones y medidas de seguridad por violaciones a la ley o al presente reglamento, y
 
@@ -443,47 +533,83 @@ e).- Pista de Baile.
 
 Los servicios adicionales únicamente podrán ser autorizados en los giros indicados previo pago de los derechos correspondientes.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 19.
 
-Los negocios contemplados en los incisos del I) al O) y del R) al U), del artículo anterior de este reglamento, contarán con una hora adicional al horario permitido para la venta de bebidas alcohólicas, para desalojar a la clientela del establecimiento, sin que durante este lapso de tiempo autorizado se permita la venta o consumo de bebidas alcohólicas, asimismo se autoriza este tiempo para realizar los movimientos contables que correspondan, culminando este lapso quedarán totalmente cerrados, solo podrán permanecer en el interior del establecimiento el personal de limpieza y de seguridad.
+Los negocios contemplados en los incisos del K) al O) y del R) al U), del artículo anterior de este reglamento, contarán con una hora adicional al horario permitido para la venta de bebidas alcohólicas, para desalojar a la clientela del establecimiento, sin que durante este lapso de tiempo autorizado se permita la venta o consumo de bebidas alcohólicas, asimismo se autoriza este tiempo para realizar los movimientos contables que correspondan, culminando este lapso quedarán totalmente cerrados, solo podrán permanecer en el interior del establecimiento el personal de limpieza y de seguridad.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 20.
 
-La Dirección de Regulación Municipal, podrá autorizar horarios extraordinarios, que excedan el limite señalado en los diferentes giros contemplados en el artículo 18 fracción I del presente reglamento, a excepción de los giros identificados con los incisos A), B), C), D), I), P) y Q). El horario extraordinario no excederá de catorce horas por semana calendario, y de 2 horas por día, dicha autorización se sujetará a los lineamientos que previamente establezca la Dirección de Regulación Municipal mediante el pago de los derechos correspondientes.
+La Dirección de Bebidas Alcohólicas, podrá autorizar horarios extraordinarios, que excedan el limite señalado en los diferentes giros contemplados en el artículo 18 fracción I del presente reglamento, a excepción de los giros identificados con los incisos A), B), C), D) e I). El horario extraordinario no excederá de catorce horas por semana calendario, y de 2 horas por día, dicha autorización se sujetará a los lineamientos que previamente establezca la Dirección mediante el pago de los derechos correspondientes.
+
+En zonas donde el uso de suelo sea estrictamente residencial o habitacional, no podrá ser autorizado el horario extraordinario al que se refiere el párrafo anterior en los giros de bares y café cantante.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2009)</small>
+
+ARTICULO 20 BIS.- La autoridad podra negar la autorización de horario extraordinario si de la revisin (sic) del expediente se desprende que el interesado ha rincidido (sic) en la comision de infracciones graves al Reglamento o la Ley.
 
 ### CAPITULO QUINTO. DE LOS PERMISOS Y UBICACIÓN
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 21.
 
-El Ayuntamiento de Tijuana, es la autoridad facultada para otorgar los permisos nuevos para la venta, almacenaje y venta para consumo público de bebidas alcohólicas.
+El Ayuntamiento de Tijuana, es la autoridad facultada para otorgar los permisos permanentes para la venta, almacenaje y venta para consumo público de bebidas alcohólicas.
 
-El Cabildo decidirá el otorgar o negar la solicitud sobre el permiso permanente o eventual gastronómico, para la venta, almacenaje, o venta para consumo público, de bebidas alcohólicas, así como decidir sobre las revocaciones de permisos, previo dictamen de la Comisión Reguladora de Bebidas Alcohólicas.
+El Cabildo decidirá el otorgar o negar la solicitud sobre el permiso permanente para la venta, almacenaje o venta para consumo público, de bebidas alcohólicas, así como decidir sobre las revocaciones de permisos, previo dictamen de la Comisión Reguladora de Bebidas Alcohólicas.
 
-Los cambios de domicilio de los establecimientos que cuenten con el permiso correspondiente, serán autorizados por la autoridad administrativa por conducto de la Secretaría de Desarrollo Económico, siempre y cuando se cumpla con la normatividad vigente. La Secretaría de Desarrollo Económico deberá informar al Cabildo sobre los resultados del ejercicio de esa atribución.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
-> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
+ARTICULO 21 BIS.- El permiso eventual gastronómico, se podrá otorgar cuando la actividad solicitada se refiera exclusivamente a los establecimientos cuyo giro sea la venta de alimentos preparados para consumo a que se refieren los incisos l y j del articulo 18 de este Reglamento; dicho permiso contendrá esta condición, la mención de que es improrrogable e intransferible, así como la fecha de su vencimiento, entendiéndose que a partir de su vencimiento no podrá venderse bebidas alcohólicas de ninguna especie. Dicho permiso podrá ser revocado por actualizarse alguna de las causales que establece el artículo 22 de este Reglamento.
 
-ARTICULO 21 BIS.- El permiso eventual gastronómico, se podrá otorgar cuando la actividad solicitada se refiera exclusivamente a los establecimientos cuyo giro sea la venta de alimentos preparados para consumo a que se refieren los incisos i, j y k del artículo 18 de este reglamento; dicho permiso contendrá esta condición, la mención de que es improrrogable e intransferible, así como la fecha de su vencimiento, entendiéndose que a partir de este vencimiento no podrá venderse bebidas alcohólicas de ninguna especie.
+Para la solicitud del permiso eventual gastronómico el interesado deberá presentar ante la Dirección de Bebidas Alcohólicas lo siguiente:
 
-> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
+I.- Acudir personalmente con Identificación oficial con fotografía del interesado, representante o apoderado legal;
 
-El permisionario eventual gastronomico obtendrá el permiso permanente, si dentro del plazo de vigencia del eventual referido, realiza el pago de los derechos correspondientes al permanente.
+II.- Presentar formato de solicitud expedido por la Dirección de Bebidas Alcohólicas debiendo llenarlo bajo protesta de decir verdad;
 
-> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
+III.- Copia del acta de nacimiento o acta constitutiva, según sea persona física o moral, y tratándose de persona moral, además acompañar poder notarial si el trámite se realiza mediante apoderado legal distinto al autorizado en el acta constitutiva de la sociedad;
 
-Si pasado el plazo, no se realizo el pago de derechos correspondientes a un permiso permanente, el interesado deberá realizar de nueva cuenta el trámite desde su inicio. No se podrá solicitar permiso eventual gastronómico de manera inmediata en el mismo domicilio.
+IV.- Presentar Cédula del Registro Federal de Contribuyentes;
+
+V.- Croquis o plano en que se indique, en forma clara y precisa, la ubicación del establecimiento y los nombres de las calles que corresponden a la manzana o área de ubicación del establecimiento;
+
+VI.- Presentar original y copia del permiso de operación municipal definitivo, expedido por la Dirección de Administración Urbana y la Tesorería Municipal, acompañando la licencia de anuncios, rótulos y similares, vigente para el Municipio de Tijuana, Baja California;
+
+VII.- Presentar Original y copia del Certificado de Medidas de seguridad, emitido por la Dirección de Bomberos;
+
+VIII.- Contar con certificado de no adeudo municipal;
+
+IX.- Fotografías, tanto del exterior como del interior del local, que muestren la totalidad del mismo, incluyendo sus instalaciones sanitarias;
+
+X.- Cubrir los derechos correspondientes de acuerdo a la Ley de ingresos Municipal, y
+
+XI.- Las demás que señale la Ley y el presente Reglamento.
+
+> <small>N. DE E. LA INTEGRACIÓN DEL CONTENIDO DEL PRESENTE ARTÍCULO ES RESULTADO DEL ACERVO CON EL QUE CUENTA ESTE CENTRO DE DOCUMENTACIÓN Y ANÁLISIS.</small>
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 22.
 
-El Presidente Municipal a través de la Secretaría del Ayuntamiento solicitara a (sic) Cabildo la revocación de los permisos otorgados cuando no se cumplan o se infrinjan las disposiciones que establece la ley y este reglamento.
+El Presidente Municipal a través de la Secretaria de Gobierno Municipal solicitara a Cabildo la revocación de los permisos otorgados cuando:
+
+I y II.-..............
+
+III.- Cuando no se cumplan las condiciones de operación de los giros mercantiles establecidas o se infrinjan las disposiciones que establece la Ley para la Venta, Almacenaje y Consumo Publico de Bebidas Alcohólicas del Estado de Baja California, La Ley de Salud Publica para el Estado de Baja California o cuando se actualicen los extremos del articulo 90 de este Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 23.
 
-Para la solicitud de los permisos referidos en este capítulo, el solicitante deberá reunir los requisitos de ubicación indicados en el artículo 39 del presente reglamento, y además deberá presentar ante la Secretaría del Ayuntamiento los siguientes documentos:
+Para la solicitud de los permisos permanentes referidos en este capítulo, el solicitante deberá reunir los requisitos de ubicación indicados en el Artículo 39 del presente Reglamento, y además deberá presentar ante la Dirección de Bebidas Alcohólicas los siguientes documentos:
 
-I.- Formato de solicitud expedido por la Dirección General de Gobierno, debidamente llenado, bajo protesta de decir verdad;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+I.- Formato de solicitud expedido por la Dirección de Bebidas Alcohólicas, debidamente llenado, bajo protesta de decir verdad;
 
 II.- Ser mayor de edad y estar en pleno goce y ejercicio de sus derechos, y en caso de ser una persona moral, estar debidamente constituida conforme a las leyes de los Estados Unidos Mexicanos;
 
@@ -491,13 +617,17 @@ III.- En caso de que el solicitante sea persona física presentar identificació
 
 IV.- En caso de que el solicitante sea persona moral presentar Acta Constitutiva, además acompañar Poder Notarial si el trámite se realiza mediante Apoderado Legal distinto al autorizado en el Acta Constitutiva de la Sociedad;
 
-V.- Presentar Cédula del Registro Federal de Contribuyentes o curp;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+V.- Cédula de Registro Federal de Contribuyentes;
 
 VI.- Croquis o plano en que se indique, en forma clara y precisa, la ubicación del establecimiento y los nombres de las calles que corresponden a la manzana o área de ubicación del establecimiento;
 
 VII. Identificación oficial con fotografía del interesado, representante o apoderado legal;
 
-VIII.- Presentar original y copia del dictamen factible de usos del suelo;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+VIII.- Dictamen factible de uso del suelo, cuando proceda;
 
 IX.- Fotografías, tanto del exterior como del interior del local, que muestren la totalidad del mismo, incluyendo sus instalaciones sanitarias;
 
@@ -509,9 +639,11 @@ XII.- Recibo del impuesto predial, u oficio expedido por la Dirección de Admini
 
 XIII.- Certificado de no adeudo o libertad de gravámenes municipal vigente a nombre del solicitante expedido por la Tesorería Municipal;
 
-XIV.- Carta de no antecedentes penales y carta de residencia por 5 años;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
 
-XV.- La designación del beneficiario del permiso de que se trate;
+XIV.- Carta de no antecedentes penales y constancia de residencia por 6 meses;
+
+XV.- (DEROGADA, P.O. 2 DE ENERO DE 2009)
 
 XVI.- Presentar el aviso público a que se hace referencia en el artículo 27 de este ordenamiento, cuando se trate de solicitud de permiso en envase abierto;
 
@@ -519,41 +651,61 @@ XVII.- El pago de los derechos correspondientes de acuerdo a la ley de ingresos 
 
 XVII (SIC).- Los demás requisitos establecidos en este reglamento, la ley y demás ordenamientos municipales.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 24.
 
-Para determinar el otorgamiento de permisos para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas, el Ayuntamiento deberá tomar en cuenta además del expediente integrado por la Secretaría del Ayuntamiento, el número de establecimientos con el mismo giro en el área, las condiciones sociales y económicas de sus habitantes, el impacto social y el desarrollo proyectado de la zona.
+Para determinar el otorgamiento de permisos para la venta, almacenaje para su venta y venta para consumo publico de bebidas alcohólicas, el Ayuntamiento deberá tomar en cuenta además del expediente integrado por la Dirección de Bebidas Alcohólicas, el numero de establecimientos con el mismo giro en el área, las condiciones de salud, seguridad, sociales y económicas de sus habitantes, así como el impacto social en la zona y el desarrollo proyectado para la misma.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 25.
 
-Recibida la solicitud y demás documentos a que se refiere el artículo 23, el Secretario del Ayuntamiento, solicitará a la Dirección de Regulación Municipal, en un plazo que no excederá de 3 días hábiles, se realice una inspección al establecimiento motivo de la solicitud, que deberá efectuarse dentro de un término no mayor de 8 días hábiles contados a partir de la fecha en que reciba la orden de inspección a fin de verificar los datos proporcionados por el solicitante y si cumple o no con los requisitos ordenados por la ley y el reglamento levantándose el Acta Circunstanciada correspondiente.
+Recibida la solicitud y demás documentos a que se refiere el Articulo 23, la Dirección de Bebidas Alcohólicas realizara o solicitará a la Dirección de Inspección y Verificación Municipal, se realice una inspección al establecimiento motivo de la solicitud, que deberá efectuarse dentro de un término no mayor de 15 días hábiles contados a partir de la fecha en que reciba la orden de inspección, a fin de verificar los datos proporcionados por el solicitante y si cumple o no con los requisitos ordenados por la ley y el reglamento levantándose el Acta Circunstanciada correspondiente.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 26.
 
-Para el caso de la solicitud de permiso para la venta de bebidas alcohólicas en envase abierto en un giro comercial, al momento de realizarse la inspección a la que se refiere el párrafo anterior, la Dirección de Regulación Municipal deberá colocar un aviso público visible en el lugar en el que se pretende establecer el giro comercial durante un periodo de 15 días hábiles en los términos del artículo 21 de la Ley, circunstancia que deberá hacerse constar en el acta señalada en el artículo anterior, para el efecto de que la ciudadanía manifieste por escrito lo que a su derecho convenga, en cuanto a la afectación cierta y directa que le pudiera ocasionar el giro comercial solicitado, manifestaciones que deberán ser integradas al expediente respectivo.
+Para el caso de la solicitud de permiso para la venta de bebidas alcohólicas en envase abierto en un giro comercial, al momento de realizarse la inspección a la que se refiere el párrafo anterior, deberá colocarse un aviso público visible en el lugar en el que se pretende establecer el giro comercial durante un periodo de 15 días hábiles en los términos del artículo 21 de la Ley, circunstancia que deberá hacerse constar en el acta señalada en el articulo anterior, para el efecto de que la ciudadanía manifieste por escrito lo que a su derecho convenga, en cuanto a la afectación cierta y directa que le pudiera ocasionar el giro comercial solicitado, manifestaciones que deberán ser integradas al expediente respectivo.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 27.
 
-El aviso al que se refiere el artículo anterior correrá a costa del solicitante y deberá contar con cuando menos un metro de ancho por uno y medio de largo, con fondo blanco y letras que contrasten, de cuando menos diez centímetros de altura; debiendo contener la leyenda de que se trata de un aviso público, indicando la fecha de instalación del aviso, con la leyenda "EN ESTE LUGAR SE PRETENDE ABRIR UN GIRO CON VENTA DE BEBIDAS ALCOHÓLICAS EN ENVASE ABIERTO", el tipo de giro de que se trata estableciendo que cualquier inconformidad se deberá presentar por escrito en un plazo no mayor de quince días a partir de la fecha en que se fija el aviso, en las oficinas de la Dirección de Regulación Municipal, debiendo acompañar copia y original para cotejo de su credencial de elector.
+El aviso al que se refiere el articulo anterior correrá a costa del solicitante y deberá contar con cuando menos un metro de ancho por uno y medio de largo, con fondo blanco y letras que contrasten, de cuando menos diez centímetros de altura; debiendo contener la leyenda de que se trata de un Aviso Publico, indicando la fecha de instalación del aviso, con la leyenda "EN ESTE LUGAR SE PRETENDE ABRIR UN GIRO CON VENTA DE BEBIDAS ALCOHOLICAS EN ENVASE ABIERTO", el tipo de giro de que se trata, estableciendo que cualquier inconformidad se deberá presentar por escrito en un plazo no mayor de 15 días hábiles a partir de la fecha en que se fija el aviso, en las oficinas de la Dirección de Bebidas Alcohólicas ubicadas en Palacio Municipal, debiendo acompañar copia y original para cotejo de su credencial de elector.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 28.
 
-Transcurrido el plazo para interponer el escrito de inconformidad a que se refiere el artículo anterior, la Secretaria del Ayuntamiento hará constar en el expediente si se recibió o no escrito de inconformidad, que deberá en su caso ser tomado en cuenta al momento de elaborar la opinión técnica que emite la Secretaria y el estudio de impacto social.
+Transcurrido el plazo para interponer el escrito de inconformidad a que se refiere el artículo anterior, la Dirección de Bebidas Alcohólicas hará constar en el expediente si se recibió o no escrito de inconformidad, que deberá en su caso ser tomado en cuenta al momento de elaborar el estudio de impacto social.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 29.
 
-Levantada el acta circunstanciada señalada en el artículo 25, se remitirá a la Secretaria del Ayuntamiento, a fin de que sea integrada al expediente correspondiente y previo estudio y verificación de las disposiciones legales aplicables se elaborará el estudio de impacto social, firmado por el Secretario del Ayuntamiento y por el Director General de Gobierno, en un término no mayor de 15 días hábiles contados a partir de la fecha en que se recibió el acta circunstanciada señalada con anterioridad, para el caso de de (sic) las solicitudes de permisos en envase abierto el término de quince días antes referido correrá a partir de vencido el plazo del aviso público, establecido en el artículo 26 de este reglamento.
+Levantada el acta circunstanciada señalada en el artículo 25, así como el reporte de inspección correspondiente, la Dirección de Bebidas Alcohólicas lo integrara al expediente y previo estudio y verificación de las disposiciones legales aplicables elaborará el estudio de Impacto Social, en un término no mayor de 15 días hábiles contados a partir de la fecha en que se recibió el reporte de inspección, mismo que será firmado por el Secretario de Gobierno Municipal y el Director de Bebidas Alcohólicas. Para el caso de las solicitudes de permisos en envase abierto el termino de 15 días antes referido correrá a partir de vencido el plazo del aviso público establecido en el artículo 26 de este reglamento.
 
-Una vez elaborado el estudio de impacto social e integrado el expediente, éste será turnado al Secretario del Ayuntamiento para que este se incluya en el orden del dia de la próxima inmediata sesión de cabildo, para que a su vez en sesión de cabildo sea turnado a los regidores que integran la Comisión Reguladora de Bebidas Alcohólicas del Ayuntamiento, quienes previo estudio y verificación del expediente, en el plazo establecido en el Reglamento Interior de Cabildo dictaminen lo que corresponda.
+Una vez elaborado el Estudio de Impacto Social e integrado el expediente, éste será turnado por el Director de Bebidas Alcohólicas al Secretario de Gobierno Municipal para que el expediente se turne a la Comisión Reguladora de Bebidas Alcohólica, para el estudio y verificación de los datos contenidos en el expediente mismo, emitiendo el dictamen de la Comisión para ser puesto a consideración del Cabildo en la sesión ordinaria correspondiente.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 30.
 
-Elaborado el Dictamen de Comisión se turnará al Secretario del Ayuntamiento quien deberá incluirlo en el orden del día de la próxima inmediata sesión ordinaria de Cabildo para su resolución, la cual deberá ser notificada por la autoridad municipal en forma personal al solicitante en un término de 5 días.
+El Cabildo estudiara y revisara el dictamen de la Comisión Reguladora de Bebidas Alcohólicas y resolverá mediante votación, el sentido de la resolución edilicia.
 
-> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
+El Director de Bebidas Alcohólicas previo el pago de los derechos correspondientes, comunicará por escrito y en forma personal el sentido de la resolución de Cabildo al interesado, la cual deberá contener la fecha de la sesión y el número de dictamen mediante al cual se aprobó su solicitud.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 31.
 
-Los interesados a quienes el Ayuntamiento les haya autorizado permisos, deberán comparecer ante la Autoridad Municipal a recibirlos en un plazo no mayor de 30 días a partir de la fecha de notificación, previo pago de los derechos correspondiente (sic) de acuerdo a la ley de ingresos vigente para el Municipio de Tijuana, en caso de que transcurra dicho término sin que haya sido peticionada su entrega sin causa justificada, quedara sin efecto el mismo y se tendrá que iniciar nuevamente, en su caso el tramite.
+Los interesados a quienes el Ayuntamiento les haya autorizado permisos, deberán comparecer ante la Dirección de Bebidas Alcohólicas a recibirlos en un plazo no mayor de 45 días, contados a partir de la fecha de notificación, previo pago de los derechos correspondientes de acuerdo a la ley de ingresos vigente para el Municipio de Tijuana.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2009)</small>
+
+En caso de que transcurran 30 días a partir de que se comunicó la resolución de Cabildo, sin que el interesado acuda ante la Dirección de Bebidas Alcohólicas sin causa justificada, a realizar al pago de derechos correspondientes, podrá el Secretario de Gobierno Municipal previa comprobación de que fueron debidamente enterados los interesados, remitir relación de los mismos a Cabildo para que este en ejercicio de sus facultades determine si deja sin efecto o no los permisos autorizados, teniendo el interesado que iniciar nuevamente, en su caso el tramite.
 
 > <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
 
@@ -563,11 +715,11 @@ Una vez entregado dicho permiso al interesado este lo deberá presentar ante la 
 
 El giro cuya operación haya sido autorizada por el Ayuntamiento, deberá iniciar su actividad en un plazo no mayor de sesenta días contados a partir de la entrega del permiso respectivo. En caso de no iniciarse la operación del giro en el plazo mencionado se aplicaran las medidas de apremio y sanciones a que se refiere el presente ordenamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 33.
 
-Los permisos autorizados por el Ayuntamiento serán entregados por el Secretario de Desarrollo Económico al solicitante, debiendo contener dichos permisos los siguientes datos:
+Los permisos autorizados por el Ayuntamiento serán entregados por el Director de Bebidas Alcohólicas al solicitante, debiendo contener dichos permisos los siguientes datos:
 
 > <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
 
@@ -589,23 +741,35 @@ h).- Fecha de Sesión del Ayuntamiento en que se autorizó y fecha de expedició
 
 i).- Número de permiso;
 
-j).- Registro Federal de Contribuyentes del titular o curp;
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+j).- Registro Federal de Contribuyentes del titular;
 
-k).- Firma del Presidente Municipal y del Secretario de Desarrollo Económico;
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
-l).- Llevara la siguiente leyenda: "En caso de cesión de derechos el titular del presente permiso, deberá previamente dar aviso por escrito a la Secretaría del Ayuntamiento, para conocer sobre la situación actual del permiso de acuerdo a la ley y el reglamento que regulan las bebidas alcohólicas", y
+k).- Firma del Presidente Municipal y del Secretario de Gobierno Municipal;
 
-m).- Sello de la Secretaría del Ayuntamiento.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
-> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
+l).- Llevara la siguiente leyenda: “En caso de cesión de derechos, el titular del presente permiso deberá previamente dar aviso por escrito a la Dirección de Bebidas Alcohólicas para conocer sobre la inconveniencia o no por parte de la Autoridad para que se lleve a cabo la Cesión de derechos;
 
-Para el caso de los permisos eventuales gastronómicos, estos deberán contener los mismos datos que el permanente, así como lo previsto en el artículo 21 Bis, con excepción de lo establecido en el inciso l) de este mismo artículo.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
+m).- Sello de la Dirección de Bebidas Alcohólicas, y
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
+n).- Los demás que la Dirección de Bebidas Alcohólicas considere convenientes.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
+Para el caso de los permisos eventuales gastronómicos, estos deberán contener los mismos datos de identificación que el permanente, en cuanto a los eventuales apliquen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 34.
 
-La Secretaría del Ayuntamiento, llevará el padrón o registro de permisos, que se dediquen a la venta, almacenaje y consumo público de bebidas alcohólicas, para efecto de control de los establecimientos, especificando, altas, bajas o cualquier modificación que hayan sufrido los permisos, mismo que deberá ser actualizado y entregado al Ayuntamiento para análisis cada seis meses, el cual contendrá los siguientes datos:
+La Dirección de Bebidas Alcohólicas llevará el padrón o registro de permisos, que se dediquen a la venta, almacenaje y consumo publico de bebidas alcohólicas, para efecto de control de los establecimientos, especificando, altas, bajas o cualquier modificación que hayan sufrido los permisos, mismo que deberá ser actualizado y entregado al Ayuntamiento para análisis cada seis meses, el cual contendrá los siguientes datos:
 
 a).- Nombre del titular;
 
@@ -621,29 +785,41 @@ f).- Fecha de expedición del permiso y revalidaciones;
 
 g).- Sanciones y reportes; y
 
-h).- Los demás que la Secretaría considere convenientes.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
+h).- Los demás que la Dirección de Bebidas Alcohólicas considere convenientes.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 35.
 
-En caso de extravío, robo o destrucción del permiso original, el titular del mismo deberá formular la denuncia correspondiente ante las autoridades competentes y con la copia certificada de la misma, solicitar al Secretario del Ayuntamiento, previa demostración de la personalidad con la que se ostenta, la expedición de una nueva impresión del permiso respectivo, previa verificación de la parte relativa del acta de la Sesión del Ayuntamiento, en la que se haya otorgado el permiso, realizando el pago de derechos respectivo.
+En caso de extravió, robo o destrucción del permiso original, el titular del mismo deberá formular la denuncia ante las Autoridades competentes y con la copia certificada de la constancia respectiva, solicitar al Director de Bebidas Alcohólicas, previa demostración de la personalidad con la que se ostenta, y solo cuando sea por primera vez la expedición de una nueva impresión del permiso, previa verificación de la parte relativa del acta de la Sesión de Cabildo, en la que se haya otorgado el permiso, realizando el pago de derechos correspondiente. Posteriormente la Autoridad, podrá expedir a solicitud del interesado copia certificada del permiso correspondiente.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 36.
 
-El Presidente Municipal por conducto de la Secretaría del Ayuntamiento o la Dirección General de Gobierno, podrá otorgar, negar o revocar permisos eventuales para espectáculos públicos, bailes públicos, ferias, variedades o diversiones análogas, en donde se vendan, consuman o degusten, bebidas alcohólicas.
+La Dirección de Bebidas Alcohólicas podrá autorizar, negar o revocar permisos eventuales para espectáculos públicos, bailes públicos, ferias, variedades o diversiones análogas, así como los gastronómicos, en donde se vendan, consuman o degusten, bebidas alcohólicas. Dichos permisos podrán revocarse por actualizarse alguna de las causales que establece el artículo 22 de este Reglamento.
 
-> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 37.
 
-Para la expedición de permisos eventuales para espectáculos públicos, bailes públicos, ferias, variedades o diversiones análogas, el interesado deberá solicitarlo cuando menos con 10 días hábiles de anticipación a la celebración del evento, presentando la solicitud por escrito ante la Secretaría del Ayuntamiento, de acuerdo al formato expedido por la Dirección General de Gobierno en el que señale su nombre, domicilio particular, lugar del evento; asimismo deberá informar la causa o motivo del evento, duración, área de servicio del evento y horario deseado, además deberá cumplir con los siguientes requisitos de acuerdo al tipo de evento solicitado:
+Para la expedición de permisos eventuales para espectáculos públicos, bailes públicos, ferias, variedades o diversiones análogas, el interesado deberá solicitarlo cuando menos con 10 días hábiles de anticipación a la celebración del evento, presentando la solicitud por escrito ante la Dirección de Bebidas Alcohólicas de acuerdo al formato expedido por la misma, en el que señale su nombre, domicilio particular, lugar del evento; asimismo deberá informar la causa o motivo del evento, duración, área de servicio del evento y horario deseado, además deberá cumplir con los siguientes requisitos de acuerdo al tipo de evento solicitado:
+
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
 
 a).- Para eventos sociales deberá:
 
 1.- Acreditar la personalidad del solicitante mediante presentación de identificación oficial o poder notarial en su caso;
 
-2.- Presentar plan de seguridad para el desarrollo del evento, y además deberá exhibir comprobantes de la contratación de elementos de seguridad pública en su caso, privada y unidades de emergencia médica para prestación de primeros auxilios de acuerdo al número de asistentes. Por cada 100 asistentes o fracción mayor, 1 elemento de seguridad pública y un elemento de seguridad privada y por cada 1000 asistentes o fracción mayor una ambulancia, o en su caso las que determine la Dirección de Protección Civil, y
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
+2.- Presentar plan de seguridad para el desarrollo del evento, y además deberá exhibir comprobantes de la contratación de elementos de seguridad pública en su caso, privada y unidades de emergencia médica para prestación de primeros auxilios de acuerdo al número de asistentes. La autoridad podrá determinar de acuerdo al tipo de evento social, el número de oficiales tanto públicos como privados necesarios para el buen desarrollo y seguridad de los eventos.
 
 3.- Presentar documento que acredite que el solicitante puede disponer del lugar en que se llevará a cabo el evento.
+
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
 
 b).- Para Degustación:
 
@@ -653,35 +829,47 @@ b).- Para Degustación:
 
 3.- Anexar relación de giros comerciales en donde se llevarán a cabo las degustaciones, y carta de aceptación de dichos establecimientos, así mismo (sic) especificación detallada de las bebidas alcohólicas que se ofrecerán en el evento.
 
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
+
 c).- Para espectáculos públicos o diversiones análogas:
 
 1.- Original y copia del documento que justifique el uso o arrendamiento del inmueble en donde se pretende llevar a cabo el evento solicitado.
 
-2.- Copia del contrato de prestación de servicios entre el solicitante del permiso y el artista o similar.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
+2.- Copia del contrato de prestación de servicios entre el solicitante del permiso y el artista o promotor.
 
 3.- Copia de identificación oficial con fotografía del solicitante, en caso de realizarse el trámite por conducto del apoderado legal, deberá presentar original y copia de la escritura pública con la que acredite su personalidad.
 
-4.- Presentar plan de seguridad para el desarrollo del evento, y además deberá exhibir comprobantes de la contratación de elementos de seguridad pública en su caso, privada y unidades de emergencia médica para prestación de primeros auxilios de acuerdo al número de asistentes. Por cada 100 asistentes o fracción mayor un elemento de seguridad pública y un elemento de seguridad privada y por cada 1000 asistentes o fracción mayor una ambulancia, o en su caso las que determine la Dirección de Protección Civil, y
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
+4.- Presentar plan de seguridad para el desarrollo del evento, y además deberá exhibir comprobantes de la contratación de elementos de seguridad pública en su caso, privada y unidades de emergencia médica para prestación de primeros auxilios de acuerdo al número de asistentes. La autoridad podrá determinar de acuerdo al tipo y magnitud del espectáculo el número de oficiales tanto públicos como privados necesarios para el buen desarrollo y seguridad de los asistentes.
 
 > <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
 
 5.- Se deberá garantizar el crédito fiscal estimado por la tesorería municipal mediante fianza mercantil otorgada por compañía afianzadora acreditada en el Municipio para eventos de más de 5000 personas.
 
-> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2009)</small>
 
-###### ARTICULO 38.
+La Dirección de Bebidas Alcohólicas para la seguridad y realización de espectáculos públicos deberá solicitar a los interesados anuencia o constancia de no inconveniencia emitido por la Dirección de Protección Civil, la Dirección de Bomberos, la Dirección de Administración Urbana o bien por la Dirección de Seguridad Pública Municipal.
 
-El Permiso eventual para espectáculos públicos, bailes públicos, ferias, variedades o diversiones análogas, que se expida contendrá el nombre de la persona física o moral a favor de quien se otorgue, la duración, lugar y horario de funcionamiento del evento a realizarse, el tipo de bebidas alcohólicas autorizadas, la delimitación del área específica donde se expenderán las bebidas alcohólicas, en su caso la prohibición de entrada a menores de edad, la firma del Presidente Municipal o la del Secretario del Ayuntamiento o la del Director General de Gobierno, así mismo llevara estampado el sello de la Secretaria.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2009)</small>
+
+###### ARTÍCULO 38.
+
+El Permiso eventual para espectáculos públicos, bailes públicos, ferias, variedades o diversiones análogas, que se expida contendrá el nombre de la persona física o moral a favor de quien se otorgue, la duración, lugar y horario de funcionamiento del evento a realizarse, el tipo de bebidas alcohólicas autorizadas, la delimitación del área especifica donde se expenderán las bebidas alcohólicas, en su caso la prohibición de entrada a menores de edad, así como la firma y sello del Secretario de Gobierno Municipal o del Director de Bebidas Alcohólicas.
 
 > <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
 
 Los permisos eventuales se otorgarán previo pago de los derechos de acuerdo a lo establecido en la Ley de Ingresos Municipal.
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 39.
 
-Los ciudadanos que soliciten el otorgamiento de un permiso permanente, se ubicarán a una distancia de 100 metros entre establecimientos o giro similar, siendo los establecimientos y giros similares aquellos que expendan bebidas con graduación alcohólica en envase cerrado, a excepción de aquellos en que sea la venta para consumo exclusivamente con alimentos o se establezcan en zonas que el Ayuntamiento determine como hoteleras, restauranteras o turísticas, y comerciales, además se ubicarán a una distancia de 150 metros de cualquier centro escolar, hospital o iglesias y centros deportivos u otros giros similares. Dichas distancias se tomarán a partir del lindero más próximo al lindero que tiene la puerta principal del solicitante.
+El establecimiento comercial por sobre el cual se pretenda solicitar el otorgamiento de un permiso permanente para la venta o consumo de bebidas alcohólicas, deberá estar ubicado a una distancia mínima de 100 metros de otros con el mismo giro, a excepción de aquellos en que se pretenda la venta para consumo exclusivamente con alimentos o se establezcan en zonas que el Ayuntamiento determine como hoteleras, restauranteras, turísticas o comerciales; además, tratándose de giros cuya actividad predominante sea la venta para consumo de bebidas alcohólicas, se deberán ubicar a una distancia mínima de 150 metros de cualquier centro escolar, hospital, iglesias, centros deportivos u otros de actividad similar.
+
+La determinación de dichas distancias se tomaran a partir de la puerta de acceso del establecimiento solicitante, a la puerta principal de acceso del giro ya establecido o bien de las puertas de acceso de los centros escolares, deportivos, iglesias u otros.
 
 ### CAPITULO SEXTO. DE LAS REVALIDACIONES
 
@@ -691,119 +879,199 @@ El empadronamiento de los negocios que operen en base a los permisos otorgados p
 
 En el año en que sea expedido el permiso pagará únicamente la parte proporcional que corresponda entre el día que se le expida y el último mes de ese año, debiendo cubrir el pago de la revalidación en su totalidad, el año siguiente en los términos del párrafo anterior.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 41.
 
-La revalidación anual se sujetará a los siguientes requisitos:
+La revalidación anual se sujetara a los siguientes requisitos:
 
-El Titular o su Representante legal deberá acudir a las cajas de la Tesorería Municipal habilitada para el pago de los derechos correspondientes por la revalidación anual, debiendo presentar copia del último pago de la revalidación del giro.
+Acudir personalmente ante la Dirección de Bebidas Alcohólicas con Identificación oficial con fotografía del interesado, representante o apoderado legal, debiendo presentar.
 
-Para poder realizar la revalidación anual del permiso correspondiente al giro será necesario:
+I. Copia del último pago de la revalidación del giro;
 
-I.- Que el mismo se encuentre en operación o que cuente con autorización de cierre temporal;
+II. Revalidación anual de la licencia de operación, y
 
-II.- Que se encuentre autorizado el trámite por la Secretaría del Ayuntamiento;
+III. Certificado de no adeudo municipal.
 
-En tanto se realiza el trámite de revalidación los negocios seguirán operando en los términos del permiso giro y domicilio autorizado, bajo el amparo de la copia del recibo de pago correspondiente.
+Además, el establecimiento deberá encontrarse en operación o que cuente con autorización de cierre temporal;
 
-Transcurrido el plazo que (sic) el presente reglamento o la prórroga otorgada por el Ayuntamiento para el cumplimiento de esta obligación, la Dirección General de Gobierno requerirá al permisionario para que cumpla con dicha obligación en un plazo no mayor de 15 días, transcurrido este plazo sin que el titular del permiso cumpla con la misma, la Dirección General de Gobierno requerirá por segunda ocasión al titular para que cumpla con la citada obligación en un plazo de 10 días, apercibiéndolo para el caso de incumplimiento se hará acreedor a la aplicación de las medidas de apremio contempladas en este reglamento, en caso de persistir en el incumplimiento de su obligación la Dirección General de Gobierno requerirá por tercera ocasión al permisionario para que cumpla con su obligación en un plazo no mayor de 5 días, apercibiéndolo que en caso de no hacerlo se iniciara el procedimiento de revocación previsto en este reglamento.
+En tanto se realiza el trámite de revalidación los negocios seguirán operando en los términos del permiso autorizado.
+
+Transcurrido el plazo que señala el presente Reglamento, o en su caso la prórroga otorgada por el Ayuntamiento para el cumplimiento de esta obligación, la Dirección de Bebidas Alcohólicas o la Dirección de Inspección y Verificación podrán requerir a quienes hayan incumplido en la revalidación, apercibiéndolo que en caso contrario se hará acreedor a las sanciones que marca la Ley y el presente Reglamento.
+
+Además la Dirección remitirá al Recaudador de Rentas Municipal lista de permisionarios que incumplieron con dicha obligación, a fin de que sea requerido el correspondiente crédito fiscal.
 
 ### CAPITULO SÉPTIMO. DE LOS CAMBIOS DE TITULAR, DOMICILIO, GIRO Y DE NOMBRE COMERCIAL
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 42.
 
-El Presidente Municipal, por conducto del Secretario de Desarrollo Económico o el Departamento de Desarrollo Económico podrá autorizar el cambio de titular, cambio de giro o cambio de nombre comercial, de los negocios que exploten los permisos que expida, de acuerdo a sus facultades, cuando se reúnan los requisitos que señala el presente reglamento, y la ley conforme al supuesto de que se trate.
+El Secretario de Gobierno Municipal podrá autorizar el cambio de domicilio, de titular, de giro o de nombre comercial, de los negocios que exploten permisos para la venta, almacenaje y consumo publico de bebidas alcohólicas, cuando se reúnan los requisitos que señala el presente Reglamento y la Ley conforme al supuesto de que se trate.
 
-Es facultad del Secretario de Desarrollo Económico autorizar los cambios de domicilio.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 43.
 
-Los titulares de los permisos que se regulan en este reglamento y la ley, deberán solicitar por escrito, la autorización para el cierre temporal de los establecimientos hasta por una vigencia de noventa días naturales, previo pago de los derechos correspondientes, mismo que se podrán (sic) autorizar siempre y cuando estén al corriente en el pago de la revalidación anual del permiso de que se trate.
+Los titulares de los permisos que se regulan en este reglamento y la Ley, podrán solicitar por escrito, a la Dirección de Bebidas Alcohólicas el cierre temporal de los establecimientos que se encuentren sin operar, debiendo especificar los motivos de su petición, dicha autorización se otorgará hasta por una vigencia de noventa días naturales, previo pago de los derechos correspondientes, mismo que se podrá autorizar siempre y cuando se esté al comente en el pago de la revalidación anual del permiso de que se trate.
+
+La autorización de cierre temporal de un establecimiento en el que se explote un permiso para la venta, almacenaje y consumo publico de bebidas alcohólicas, que tenga por objeto solicitar ante la Autoridad un cambio de domicilio para explotar dicho permiso en un lugar distinto, permitirá a la Autoridad competente el autorizar un nuevo permiso para la venta, almacenaje y consumo público de bebidas alcohólicas en el establecimiento objeto del cierre, siempre y cuando el interesado reúna los requisitos para ello.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 44.
 
-Los cierres temporales autorizados podrán prorrogarse por una sola vez durante un tiempo igual al que fueron autorizados. En caso de no reiniciar operaciones en dicho término, la Secretaría del Ayuntamiento iniciará el trámite de revocación del permiso respectivo.
+Los cierres temporales autorizados podrán prorrogarse por un plazo igual al que fueron autorizados, debiendo el permisionario dar aviso a la Dirección de Bebidas Alcohólicas sobre la reanudación de actividades. En caso de no reiniciar operaciones al término de los cierres, la Dirección podrá sancionar o en su caso iniciar el trámite de revocación del permiso respectivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 45.
 
-En caso de fallecimiento del titular del permiso, la persona que tenga conocimiento de ello deberá notificar a la autoridad municipal de dicho evento mediante documental pública idónea, en un plazo de treinta días hábiles.
+En caso de fallecimiento del titular del permiso, la persona que tenga conocimiento de ello deberá notificar a la Dirección de Bebidas Alcohólicas de dicho evento mediante documental publica idónea.
 
-Una vez que la autoridad municipal tenga conocimiento del fallecimiento del titular del permiso, quien pretenda revalidar el permiso deberá acreditar su interés jurídico con documental pública idónea.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
+Una vez que la Dirección de Bebidas Alcohólicas tenga conocimiento del fallecimiento del titular del permiso, quien pretenda revalidar el permiso deberá acreditar su interés jurídico con documental pública idónea.
 
 Cuando la autoridad judicial correspondiente determine a favor de quien recaen los derechos de heredero en relación al permiso respectivo, este deberá inmediatamente iniciar los trámites para el cambio de titular a su nombre como heredero, previa acreditación del interés jurídico con documental pública idónea y el cumplimiento de los requisitos que establece el presente reglamento.
 
 Tratándose de personas morales que se fusionen o escicionen (sic), y que esto sea debidamente acreditado mediante la protocolización del Acta de Asamblea correspondiente, deberá iniciar inmediatamente el procedimiento de cambio de titular a favor de la sociedad fusionante, o escindente.
 
-En caso de extinción de un persona moral titular de un permiso y obrando constancia dentro del expediente en documental pública idónea, la Secretaría del Ayuntamiento procederá a efectuar el procedimiento de revocación del mismo.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
+En caso de extinción de un (sic) persona moral titular de un permiso y obrando constancia de ello dentro del expediente en documental pública idónea, la Dirección de Bebidas Alcohólicas podrá proceder a efectuar el procedimiento de revocación del mismo.
 
 Cualquier persona física o moral que adquiera un permiso de un tercero se sujetará a lo descrito en el presente capítulo
 
-> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 46.
 
-Para llevar a efecto cambio de titular, cambio de giro, cambio de domicilio del permiso o solicitar servicios adicionales, se requiere que los interesados obtengan autorización por escrito, debiendo presentar para ello lo siguiente:
+Para llevar a efecto el cambio de domicilio de un permiso se requiere que los interesados obtengan autorización por escrito, debiendo estar al corriente en el pago de la revalidación anual, y cumplir con los siguientes requisitos:
 
-I.- Acudir personalmente, previa identificación oficial a realizar los tramites correspondientes;
+I.- Acudir personalmente con Identificación oficial con fotografía del interesado, representante o apoderado legal;
 
-II.- Presentar formato de solicitud expedido por la Dirección General de Gobierno, debiendo llenarlo bajo protesta de decir verdad;
+II.- Presentar formato de solicitud ante la Dirección de Bebidas Alcohólicas debiendo llenarlo bajo protesta de decir verdad;
 
 III.- Copia del acta de nacimiento o acta constitutiva, según sea persona física o moral, y tratándose de persona moral, además acompañar poder notarial si el trámite se realiza mediante apoderado legal distinto al autorizado en el acta constitutiva de la sociedad;
 
-IV.- Presentar Cedula del Registro Federal de Contribuyentes;
+IV.- Presentar Cédula del Registro Federal de Contribuyentes;
 
 V.- Croquis o plano en que se indique, en forma clara y precisa, la ubicación del establecimiento y los nombres de las calles que corresponden a la manzana o área de ubicación del establecimiento;
 
-VI.- Identificación oficial con fotografía del interesado, representante o apoderado legal;
+VI.- Original y copia del Dictamen factible de uso de suelo, cuando proceda;
 
-VII.- Presentar original y copia de la licencia de uso de suelo;
+VII.- Presentar original y copia del permiso de operación municipal definitivo expedido por la Dirección de Administración Urbana y la Tesorería Municipal, o en su caso, cuando proceda, Constancia de Actividades Mercantiles, acompañando la licencia de anuncios, rótulos y similares, vigente para el Municipio de Tijuana, Baja California;
 
-VIII.- Presentar original y copia del permiso de operación municipal definitivo, expedido por la Dirección de Administración Urbana y la Tesorería Municipal, acompañando la licencia de anuncios, rótulos y similares, vigente para el Municipio de Tijuana, Baja California;
+VIII.- Presentar Original y copia del Certificado de Medidas de seguridad, emitido por la Dirección de Bomberos;
 
-IX.- Presentar original y copia del certificado de medidas de seguridad, emitido por la Dirección de Bomberos;
+IX.- Anexar original y copia del permiso para operar la venta de bebidas alcohólicas;
 
-X.- Original y copia del pago de la ultima revalidación;
+X.- Presentar original y copia del aviso de cierre temporal del establecimiento, en su caso;
 
-XI.- Anexar original y copia del permiso para operar la venta de bebidas alcohólicas;
+XI.- Contar con certificado de no adeudo municipal;
 
-XII.- Presentar original y copia del aviso de cierre temporal del establecimiento en su caso;
+XII.- Fotografías, tanto del exterior como del interior del local, que muestren la totalidad del mismo, incluyendo sus instalaciones sanitarias;
 
-XIII.- Tratándose de cambio de titular con motivo de una cesión de derechos deberá presentar el documento publico debidamente protocolizado por fedatario publico respecto del permiso para la venta de bebidas alcohólicas que la contenga y haber cumplido con lo que se establece en el artículo 48 del presente ordenamiento municipal;
+XIII.- Cubrir los derechos correspondientes de acuerdo a la Ley de ingresos Municipal, y
 
-XIV.- Contar con certificado de no adeudo fiscal, y
+XIV.- Los demás requisitos establecidos en el presente reglamento, la ley y demás ordenamientos municipales.
 
-XV.- Los demás requisitos establecidos en el presente reglamento, la ley y demás ordenamientos municipales.
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2009)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2007)</small>
+ARTICULO 46 BIS.- Para llevar a efecto cambio de titular del permiso se requiere que los interesados obtengan autorización por escrito, debiendo estar al corriente en el pago de la revalidación anual, y cumplir con los siguientes requisitos:
 
-El Secretario de Desarrollo Económico autorizará los cambios de domicilio de los negocios que así lo soliciten y exploten permisos autorizados por la autoridad correspondiente, siempre y cuando se cumplan los requisitos a que se refiere este artículo.
+I.- Acudir personalmente con Identificación oficial con fotografía del interesado, representante o apoderado legal;
+
+II.- Presentar formato de solicitud expedido por la Dirección de Bebidas Alcohólicas, debiendo llenarlo bajo protesta de decir verdad;
+
+III.- Copia del acta de nacimiento o acta constitutiva, según sea persona física o moral, y tratándose de persona moral, además acompañar poder notarial si el trámite se realiza mediante apoderado legal distinto al autorizado en el acta constitutiva de la sociedad;
+
+IV.- Carta de no antecedentes penales y Constancia de residencia por 6 meses;
+
+V.- Presentar Cédula del Registro Federal de Contribuyentes;
+
+VI.- Anexar original y copia del permiso para operar la venta de bebidas alcohólicas;
+
+VII.- Presentar original y copia del aviso de cierre temporal del establecimiento, en su caso;
+
+VIII.- Tratándose de cambio de titular con motivo de una cesión de derechos o una fusión, deberá presentar el documento público debidamente protocolizado por fedatario público respecto del permiso para la venta de bebidas alcohólicas que la contenga y haber cumplido con lo que se establece en el artículo 48 del presente Reglamento;
+
+IX.- Contar con certificado de no adeudo municipal, de ambos;
+
+X.- Cubrir los derechos correspondientes de acuerdo a la Ley de ingresos Municipal, y
+
+XI.- Los demás requisitos establecidos en el presente reglamento, la ley y demás ordenamientos municipales.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2009)</small>
+
+ARTICULO 46 TER.-Para llevar a efecto cambio de giro se requiere que los interesados obtengan autorización por escrito, debiendo estar al corriente en el pago de la revalidación anual, y cumplir con los siguientes requisitos:
+
+I.- Acudir personalmente con Identificación oficial con fotografía del interesado, representante o apoderado legal;
+
+II.- Presentar formato de solicitud expedido por la Dirección de Bebidas Alcohólicas, debiendo llenarlo bajo protesta de decir verdad;
+
+III.- Original y copia del Dictamen Factible de uso de suelo, cuando proceda;
+
+IV.- Presentar Constancia de Actividades Mercantiles para el giro solicitado, emitida por la Dirección de Administración Urbana;
+
+V.- Presentar Original y copia del Certificado de Medidas de seguridad, emitido por la Dirección de Bomberos;
+
+VI.- Anexar original y copia del permiso para operar la venta de bebidas alcohólicas;
+
+VII.- Contar con certificado de no adeudo municipal;
+
+VIII.- Cubrir los derechos correspondientes de acuerdo a la Ley de ingresos Municipal, y
+
+IX.- Fotografías, tanto del exterior como del interior del local, que muestren la totalidad del mismo, incluyendo sus instalaciones sanitarias;
+
+X.- Los demás requisitos establecidos en el presente reglamento, la ley y demás ordenamientos municipales.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2009)</small>
+
+ARTÍCULO 46 QUATER.- Para llevar a efecto cambio de nombre comercial del permiso o solicitar servicios adicionales, se requiere que los interesados obtengan autorización por escrito, y cumplir con los siguientes requisitos:
+
+I.- Acudir personalmente con Identificación oficial con fotografía del interesado, representante o apoderado legal;
+
+II.- Presentar formato de solicitud expedido por la Dirección de Bebidas Alcohólicas, debiendo llenarlo bajo protesta de decir verdad;
+
+III.- Anexar original y copia del permiso para operar la venta de bebidas alcohólicas;
+
+IV.- Contar con certificado de no adeudo municipal;
+
+V.- Cubrir los derechos correspondientes de acuerdo a la Ley de ingresos Municipal, y
+
+VI.- Los demás requisitos establecidos en el presente reglamento, la ley y demás ordenamientos municipales.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 47.
 
-En tanto no se reúnan los requisitos señalados en el artículo anterior y la Secretaría del Ayuntamiento, no haya aprobado el cambio solicitado, el único autorizado y responsable será quien aparece en el permiso.
+En tanto el Secretario de Gobierno Municipal, no haya aprobado los cambios solicitados, el permiso deberá explotarse conforme a las condiciones en que fue expedido originalmente.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 48.
 
-Para que el titular del permiso pueda ceder sus derechos respecto al permiso deberá previamente dar aviso por escrito a la Secretaría del Ayuntamiento, quien le dará contestación a dicho escrito en un plazo no mayor de 5 días hábiles, donde se le informara al titular del permiso, sobre la situación actual del mismo de acuerdo a lo que establece la ley y el presente reglamento.
+Para que el titular del permiso pueda ceder sus derechos respecto al permiso deberá previamente dar aviso por escrito a la Dirección de Bebidas Alcohólicas quien le dará contestación a dicho escrito en un plazo no mayor de 5 días hábiles, donde se le informara al titular del permiso, sobre la inconveniencia o no por parte de la Autoridad para que se lleve a cabo la Cesión de derechos.
+
+La cesión de derechos de un permiso que conste en documento debidamente protocolizado por fedatario público, no exime al cesionario de cumplir con los requisitos que señala el presente Reglamento de acuerdo a los cambios que sean solicitados.
+
+La falta de aviso a que se refiere este artículo, será motivo de sanción, mas no será impedimento para que la autoridad lleve a cabo el cambio solicitado si se cumple con los demás requisitos.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 49.
 
-Cuando el titular del permiso, pretenda solicitar aumento o disminución del giro deberá reunir los siguientes requisitos:
+En tratándose de solicitudes de aumento de giro en envase abierto, con excepción de aquellos que sea la venta para consumo exclusivamente con alimentos, la Dirección de Bebidas Alcohólicas deberá elaborar estudio de impacto social para verificar que no se afecte el interés social.
 
-I.- Contar como mínimo con seis meses de vigencia de la expedición de su permiso;
+De igual manera, en tratándose de cambios de domicilio, la Dirección de Bebidas Alcohólicas elabora el correspondiente estudio de impacto social para verificar que no se afecte el interés social. En ambos casos, el estudio será firmado por el Secretario de Gobierno Municipal y el Director de Bebidas Alcohólicas.
 
-II.- Justificar estar al corriente en el pago de revalidaciones;
-
-III.- Llenar la solicitud expedida por la Dirección General de Gobierno, y expresar las razones del cambio, bajo protesta de decir verdad, en caso de disminución de giro, esta será suficiente para tenerlo por aceptado;
-
-VI (SIC).- Presentar el permiso original, y
-
-VII.- Los demás requisitos establecidos en la ley y el presente reglamento.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 50.
 
-Si la autoridad municipal aprueba la solicitud del titular del permiso, en los supuestos de este capítulo, se expedirá uno nuevo, para lo cual la Secretaría del Ayuntamiento, procederá a la sustitución del anterior.
+Si la Autoridad Municipal aprueba la solicitud del titular del permiso en los supuestos de este capitulo, se expedirá uno nuevo, para lo cual la Dirección de Bebidas Alcohólicas procederá a la sustitución del anterior.
 
 ### CAPITULO OCTAVO. DE LAS PROHIBICIONES PARA LOS TITULARES, ENCARGADOS, REPRESENTANTES O EMPLEADOS EN LOS ESTABLECIMIENTOS
 
@@ -935,13 +1203,11 @@ El cargo de Consejero durará un período no mayor del que dure la administraci�
 
 Todos los consejeros tendrán derecho a voz y voto.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 56.
 
-El Consejo nombrará de entre sus miembros ciudadanos y por mayoría de votos un representante en calidad de Presidente y un Secretario Técnico, cuyas facultades y actividades estarán sujetas a lo descrito en el presente capítulo. El Presidente del Consejo Consultivo Municipal durará en su cargo un año, pudiendo ser reelecto por una sola ocasión.
-
-La opinión que emita el Consejo Consultivo en ningún caso será vinculatoria con las decisiones que al efecto tome la Autoridad Municipal.
+El Consejo nombrara de entre sus miembros ciudadanos y por mayoría de votos un representante en calidad de Presidente, un Secretario Técnico y los ocho Vocales ciudadanos, cuyas facultades y actividades estarán sujetas a lo descrito en el presente capítulo.
 
 ###### ARTICULO 57.
 
@@ -949,7 +1215,13 @@ Las sesiones del Consejo Consultivo se realizaran de manera ordinaria trimestral
 
 Es facultad del Presidente del Consejo emitir la convocatoria que contendrá lugar y fecha en que deberá celebrarse la sesión y el orden del día.
 
-Debiendo asistir a estas sesiones cuando menos dos representantes de los organismos que representan a los permisionarios y dos representantes de los organismos no gubernamentales cuyo objeto social este relacionado con la problemática del consumo inmoderado de bebidas alcohólicas; para que el consejo sesione validamente, se requerirá la presencia de la mitad mas uno de sus integrantes mas el representante de la autoridad municipal.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
+Para que el consejo sesione validamente, se requerirá de la presencia de la mitad mas uno de sus integrantes incluyendo a su Presidente, mas el representante de la autoridad municipal.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2009)</small>
+
+Ante la ausencia del Secretario Técnico, podrá el Presidente nombrar de entre los vocales ciudadanos presentes a quien lo sustituya para el solo efecto de llevar a cabo la sesión. Las fallas reiteradas del Secretario o de los vocales sin causa justificada podrán dar lugar a la revocación de su nombramiento mediante acuerdo de los demás integrantes del Consejo, quienes deberán sustituirlos en los mismos términos que para su elección.
 
 ###### ARTICULO 58.
 
@@ -1001,9 +1273,11 @@ Las opiniones, comentarios, sugerencias, así como los proyectos y programas que
 
 ### CAPITULO DÉCIMO. DE LA VIGILANCIA PARA EL CUMPLIMIENTO DE LAS DISPOSICIONES DE ESTE REGLAMENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 63.
 
-La Dirección de Regulación Municipal, podrá ordenar y practicar visitas domiciliarias a los establecimientos que se dediquen a las actividades que regula la ley y el presente reglamento, para verificar el cumplimiento de las mismas, dichas visitas domiciliarias se realizaran previo mandamiento de inspección, y que será dictado en los términos de los artículos 14 y 16 de la Constitución Política de Los Estados Unidos Mexicanos, el cual deberá:
+La Dirección de Bebidas Alcohólicas, así como la Dirección de Inspección y Verificación Municipal podrán ordenar y practicar visitas domiciliarias a los establecimientos que se dediquen a las actividades que regula la ley y el presente reglamento, para verificar el cumplimiento de las mismas, dichas visitas domiciliarias se realizaran previo mandamiento de inspección, y que será dictado en apego a los términos de los Artículos 14 y 16 de la Constitución Política de Los Estados Unidos Mexicanos, el cual deberá:
 
 I.- Constar por escrito especificando domicilio, fecha y hora;
 
@@ -1013,7 +1287,9 @@ III.- Estar fundado y motivado;
 
 IV.- Contener la firma autógrafa del funcionario competente que lo emite;
 
-V.- Precisar el nombre o nombres de las personas a las que va dirigido;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+V.- Precisar el nombre o nombres de las personas a las que va dirigido, sea física o moral;
 
 VI.- El nombre comercial del establecimiento;
 
@@ -1025,13 +1301,17 @@ El Mandamiento de Inspección deberá ser firmado por la persona con quien se de
 
 Para la realización de las visitas domiciliarias a establecimientos o lugares públicos o privados a los que se les haya otorgado permiso permanente o eventual, se considerarán todos los días del año y las veinticuatro horas del día como hábiles.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 64.
 
-Las visitas domiciliarias practicadas por la Dirección de Regulación Municipal, a través de los Inspectores que designe tendrán como objeto, el verificar que los permisos correspondientes a la venta, almacenaje y consumo público de bebidas alcohólicas, se ajusten a las disposiciones de la ley y este reglamento, así como al pago de su revalidación anual.
+Las visitas domiciliarias practicadas a través de la Dirección de Bebidas Alcohólicas y la Dirección de Inspección y Verificación Municipal, por medio de los Inspectores que designen, tendrán como objeto el verificar que los permisionarios exploten el permiso correspondiente en los términos en los que fue expedido, así mismo, que cumplan con las obligaciones y restricciones establecidas por la ley y este reglamento.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 65.
 
-Si al momento de practicar la inspección, la autoridad municipal advierte que en el interior del establecimiento se realizan hechos delictuosos, el servidor público que practique la misma, presentará la denuncia correspondiente ante la autoridad competente.
+Si al momento de practicar la inspección, la Autoridad Municipal advierte que en el interior del establecimiento se realizan hechos o actos probablemente delictuosos, el servidor público que practique la misma, presentará la denuncia correspondiente ante la autoridad competente.
 
 ###### ARTICULO 66.
 
@@ -1053,9 +1333,13 @@ III.- Número y fecha del mandamiento de inspección, así como los datos de ide
 
 IV.- Denominación y ubicación física del giro o establecimiento o de las instalaciones donde se realicen las actividades que sean objeto de la inspección incluyendo, calle, número oficial de predio, e interior del establecimiento, código postal y población;
 
-V.- Nombre y domicilio de las personas designadas como testigos;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
 
-VI.- Nombre y carácter o personalidad jurídica de la persona con quien se desahogo la visita domiciliaria, así como los datos de la credencial oficial con que se haya identificado;
+V.- Nombre de las personas designadas como testigos, así como los datos de la credencial oficial con que se hayan identificado;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+VI.- Nombre y carácter o personalidad jurídica de la persona con quien se deshogo (sic) la visita domiciliaria, así como los datos de la identificación oficial con que se haya identificado, en caso de negativa o no contar con identificación oficial, el inspector hará constar en el acta la media filiación de la persona con la que se atiendo la diligencia;
 
 VII.- Síntesis descriptiva sobre la visita, asentando los hechos, datos y omisiones derivadas del objeto de la misma; así como los preceptos jurídicos que se hubieran infringido en su caso;
 
@@ -1077,11 +1361,11 @@ En su caso si así lo determinan los inspectores que realizan la visita domicili
 
 La oposición, resistencia o impedimento para la práctica de visitas de inspección domiciliaria a los establecimientos o cualquier local en que se vendan o consuman bebidas alcohólicas, serán sancionados conforme a lo estipulado en este reglamento y demás disposiciones legales aplicables.
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 70.
 
-Los inspectores remitirán las actuaciones al Director de Inspección y Verificación Municipal, quien calificará las omisiones o infracciones que resultaren en su caso, imponiendo las sanciones que resulten procedentes y ordenando las medidas que deban adoptarse para corregir las omisiones que se presenten, facultad que también corresponderá al Secretario de Desarrollo Económico.
+Los inspectores remitirán las actuaciones al Director de Inspección y Verificación Municipal, quien calificará las omisiones o infracciones que resultaren en su caso, imponiendo las sanciones que resulten procedentes y ordenando las medidas que deban adoptarse para corregir las omisiones que se presenten, facultad que también corresponderá al Director de Bebidas Alcohólicas.
 
 ###### ARTICULO 71.
 
@@ -1093,13 +1377,17 @@ II.- La notificación que se le hizo al infractor de la sanción impuesta.
 
 ### CAPITULO DECIMO PRIMERO. DE LAS INFRACCIONES Y MEDIDAS DE APREMIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 72.
 
-Son infracciones al presente reglamento:
+Son infracciones además de las contenidas en los artículos 28, 29 y 30 de la Ley, las siguientes:
 
 I.- La violación de cualquiera de las prohibiciones a que se refiere el artículo 51 de este Reglamento;
 
-II.- No contar con la autorización por escrito de la autoridad municipal para trabajar horario extraordinario para la venta o consumo publico de bebidas alcohólicas, en los casos mencionados en este reglamento;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+II.- No contar con la autorización de no inconveniencia municipal para la Cesión de Derechos, que señala el articulo 48 de este Reglamento;
 
 III.- La violación o destrucción, de los sellos de clausura temporal o definitiva;
 
@@ -1107,7 +1395,9 @@ IV.- No cumplir con las obligaciones impuestas en el artículo 13 de este Reglam
 
 V.- Que el titular, el encargado, el representante o empleados de los establecimientos impidan de cualquier forma o dificulten la entrada a las autoridades encargadas de la aplicación y observancia del presente reglamento y la ley;
 
-VI.- Expender bebidas alcohólicas, fuera del establecimiento, en lugares tales como: patios, traspatios, estacionamientos, pasillos, habitaciones contiguas, a través de ventanas, y en algún otro lugar o forma semejante, sin previa autorización, y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+VI.- Expender bebidas alcohólicas fuera del establecimiento o de las áreas de servicio, y
 
 VII.- La violación a cualquier otra disposición contenida en la ley o el presente reglamento.
 
@@ -1121,19 +1411,19 @@ II.- Utilización de la fuerza pública.
 
 ### CAPITULO DECIMO SEGUNDO. DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 74.
 
-Las infracciones que se cometan al presente reglamento, serán sancionadas en los términos de los artículos 27, 28, 29 y 30 de la Ley para la Venta y Consumo Público de Bebidas Alcohólicas del Estado de Baja California y cuando se presuma que los hechos encontrados revisten carácter delictivo, se procederá a dar parte a la autoridad competente.
+Las infracciones que se cometan al presente Reglamento, serán sancionadas en los términos del artículo 27 de la Ley, de acuerdo a la gravedad de la infracción, teniendo en cuenta lo estipulado por el artículo 76 de este Reglamento.
 
-La clausura directa procede además de lo estipulado por la ley, por infringir lo establecido en las fracciones I, IV, V y VI del artículo 51 del presente reglamento.
+Aquellas infracciones señaladas como tal en este Reglamento que no se encuentren contempladas en los artículos 28, 29 y 30 de la Ley, serán sancionadas conforme al artículo 27 de la Ley, dependiendo de la gravedad y reincidencia del infractor.
+
+La clausura temporal de actividades mediante clausura directa, procede además de lo estipulado por la ley, por infringir lo establecido en las fracciones I, II, IV, V y VI del artículo 51 del presente reglamento.
 
 Si dentro del establecimiento que deba ser clausurado se encuentra mercancía susceptible de descomposición o deterioro, se apercibirá al interesado para que retire esos bienes antes de que se coloquen los sellos de clausura. Si no lo hace se procederá a la clausura, asentando en el acta la negativa del titular.
 
-> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2006)</small>
-
-Así mismo se impondrá multa de cien a mil quinientos días de salario mínimo vigente a quien incurra en las infracciones previstas en las fracciones I y II de (sic) artículo 51 de este ordenamiento.
+La imposición de una sanción consistente en la clausura temporal de actividades por violaciones a la Ley o al Reglamento, podrá a petición del infractor ser conmutada por multa que va de cien a mil quinientos días de salario mínimo general vigente en el Estado.
 
 ###### ARTICULO 75.
 
@@ -1171,17 +1461,21 @@ IV.- Para el cumplimiento de las fracciones anteriores podrán aplicarse las med
 
 ### CAPITULO DECIMO TERCERO. DE LAS MULTAS
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 78.
 
-La sanción de multa motivada y fundamentada se aplicará en los términos de los artículos 27 y 28 de la Ley.
+Toda sanción impuesta por violación a la Ley y al presente Reglamento, deberá estar debidamente motivada y fundamentada por la Autoridad competente conforme al procedimiento administrativo que prevé el Reglamento.
 
 ###### ARTICULO 79.
 
 El pago de las multas que se impongan con base a este reglamento, se efectuará sólo en las cajas de recaudación autorizadas por la Tesorería Municipal quien extenderá el recibo oficial al infractor, una vez que haya cubierto el pago de la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 80.
 
-El Secretario del Ayuntamiento, llevara un registro de las infracciones que los permisionarios cometan, que deberá ser tomado en cuenta en el momento de imponer las sanciones a las que se refiere el presente reglamento, dicho registro deberá contener la siguiente información:
+La Dirección de Bebidas Alcohólicas, así como la Dirección de Inspección y Verificación Municipal, llevaran un registro de las infracciones que los permisionarios cometan, mismo que deberá ser tomado en cuenta al momento de imponer las sanciones a las que se refiere el presente Reglamento y la Ley, dicho registro deberá contener la siguiente información.
 
 I.- Nombre o razón social de la persona infractora;
 
@@ -1197,43 +1491,63 @@ VI.- Número del permiso.
 
 ### CAPITULO DECIMO CUARTO. PROCEDIMIENTO ADMINISTRATIVO SANCIONADOR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 81.
 
-La autoridad municipal que imponga sanciones por violaciones a las disposiciones del presente reglamento deberá sujetarse a lo siguiente:
+La Autoridad Municipal que imponga sanciones por violaciones a las disposiciones del presente Reglamento y la Ley, deberá sujetarse a lo siguiente:
 
 I.- Todo procedimiento administrativo se hará constar por escrito;
 
-II.- El procedimiento debe tener como base un acta administrativa elaborada por el área competente para la inspección y vigilancia de la materia en los términos de la ley y el presente reglamento;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
 
-III.- El acta administrativa deberá establecer la obligación del titular del permiso de comparecer el día y hora señalada a efecto de que aporte pruebas y alegar lo que a su derecho convenga, la incomparecencia del presunto infractor surtirá efectos de renuncia de ese derecho;
+II.- El procedimiento debe tener como base un acta administrativa elaborada por la Dirección de Inspección y Verificación Municipal o bien por la Dirección de Bebidas Alcohólicas en los términos de la Ley y el presente Reglamento;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+III.- El acta administrativa deberá establecer la obligación del titular del permiso de comparecer dentro de los 5 días hábiles siguientes a las oficinas ubicadas en Palacio Municipal, a efecto de que aporte pruebas y alegar lo que a su derecho convenga, la incomparecencia del presunto infractor surtirá efectos de renuncia de ese derecho;
 
 IV.- La autoridad municipal deberá cerciorarse que el acta administrativa base del procedimiento contenga correctamente los datos que requiere y se establezcan las condiciones de tiempo, modo y lugar en que ocurrieron los hechos que se imputan como infracción, en caso de que el acta administrativa no contenga los datos y condiciones mencionados anteriormente se procederá a declararla improcedente y quedara sin efecto la misma, resolución que se notificará al infractor dentro de los cinco días siguientes;
 
-V.- Dentro de los cinco días siguientes al que se elaboró el acta administrativa se celebrará una audiencia ante la autoridad municipal, en la que el infractor aportará las pruebas y argumentos que a su derecho convengan, debiendo ser valoradas y razonadas por la autoridad municipal al momento de su resolución;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
 
-VI.- Una vez celebrada la audiencia a la que se refiere la fracción anterior, la autoridad municipal emitirá resolución por escrito en la que determine si en efecto se ha cometido la infracción y en su caso la sanción a la que se ha hecho acreedor, notificándose al infractor la resolución antes referida;
+V.- En la audiencia a la que hace referencia la fracción III de este artículo, la autoridad municipal valorará y razonará las pruebas aportadas por el presunto infractor al momento de su resolución;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+VI.- Una vez celebrada la audiencia, la autoridad municipal emitirá resolución por escrito en la que determine si en efecto se ha cometido la infracción y en su caso la sanción a la que se ha hecho acreedor, notificándose al infractor la resolución antes referida;
 
 VII.- La resolución que emita la autoridad municipal deberá estar debidamente fundada y motivada, guardando las formalidades de las resoluciones administrativas, y
 
-VIII.- En las sanciones que la autoridad municipal imponga se deberá tomar en cuenta el número de infracciones cometidas previamente por el presunto infractor y la gravedad de las mismas, en los términos del capítulo sexto de la ley, y el artículo 76 del presente reglamento.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+VIII.- En las sanciones que la autoridad municipal imponga se deberá tomar en cuenta el número de infracciones cometidas previamente por el presunto infractor y la gravedad de las mismas, en los términos de la Ley y el presente Reglamento.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 La autoridad municipal encargada de aplicar el presente reglamento y ley, podrá solicitar el auxilio de la fuerza pública para hacer cumplir los acuerdos y resoluciones que dicte.
 
 ### CAPITULO DECIMO QUINTO. DEL DELITO DE LESIVIDAD SOCIAL
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 82.
 
-Cuando la autoridad municipal tenga conocimiento de que el particular incurra en el delito de lesividad social que contempla el artículo 31 de la ley, de manera inmediata y con los elementos de prueba suficientes se solicitará al Departamento Jurídico del Ayuntamiento, que realice la querella respectiva y la presente ante la Autoridad competente, a efecto de que le dé curso, y en su caso imponga la penalidad establecida por el delito cometido señaladas en el artículo antes mencionado.
+Cuando la Autoridad Municipal tenga conocimiento de que el particular incurra en el delito de lesividad social que contempla el artículo 250 bis del Código Penal para el Estado, de manera inmediata y con los elementos de prueba suficientes se solicitará a la Conserjería Jurídica del Ayuntamiento que realice la querella respectiva y la presente ante la Autoridad competente, a efecto de que le dé curso, y en su caso imponga la penalidad establecida por el delito cometido señaladas en el artículo antes mencionado.
 
 ### CAPITULO DÉCIMO SEXTO. DE LOS RECURSOS
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 83.
 
-Los actos, acuerdos o resoluciones que dicten las autoridades municipales en aplicación de éste reglamento, podrán ser impugnados por la parte interesada, mediante la interposición del Recurso de Reconsideración.
+Los actos, acuerdos o resoluciones que dicten las autoridades Municipales en aplicación de éste Reglamento, podrán ser impugnados por la parte interesada, mediante la interposición de los recursos previstos en el Reglamento de Justicia para el Municipio de Tijuana, B.C.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 84.
 
-El recurso de Reconsideración que procederá contra actos o resoluciones que dicte la autoridad municipal a que se refiere el artículo anterior, se interpondrá por escrito ante la misma autoridad que emitió el acto, dicho escrito deberá contener:
+En todo caso, el recurso de Reconsideración que se interponga contra resoluciones de las autoridades municipales competentes conforme a este Reglamento debe constar por escrito y contener:
 
 I.- Nombre y Domicilio del promovente, así como los documentos que acrediten la autorización de la actividad que regula el presente reglamento, y los que acrediten su personalidad, el cual deberá comparecer personalmente o por medio de apoderado legal y en caso de ser persona moral deberá acreditar la personalidad mediante poder notarial;
 
@@ -1253,13 +1567,17 @@ VIII.- Los agravios que el recurrente estime le causa la resolución o acto impu
 
 IX.- La firma autógrafa del promovente.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 85.
 
-El recurso de Reconsideración se interpondrá dentro del término de cinco días hábiles, contados a partir del día siguiente a la fecha en que fuere notificado el acuerdo o resolución que se pretende impugnar.
+El recurso de reconsideración deberá presentarse dentro de los 5 días hábiles siguientes al de la notificación o resolución, ante la propia autoridad que emitió el acto.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 86.
 
-El desahogo de las pruebas se realizará en un plazo que no excederá de diez días, debiendo emitir su resolución dentro del término legal de cinco días.
+Interpuesto el recurso por el interesado, la autoridad contara con un plazo de hasta 7 días hábiles para el desahogo de las probanzas a que haya lugar, al término del cual, la autoridad deberá emitir su resolución en un plazo de 7 días hábiles.
 
 ###### ARTICULO 87.
 
@@ -1272,6 +1590,54 @@ Las autoridades municipales deberán tomar en cuenta, para la resolución del Re
 ###### ARTICULO 89.
 
 Si presentado el recurso de Reconsideración las autoridades municipales no emiten resolución en los plazos establecidos, sin causa justificada, se tendrá por resuelto en sentido negativo, por lo que el promovente lo podrá impugnar ante el Tribunal Unitario Contencioso Administrativo Municipal o ante la autoridad jurisdiccional que estime conveniente.
+
+> <small>N. DE E. LA INTEGRACIÓN DEL CONTENIDO DEL PRESENTE ARTÍCULO ES RESULTADO DEL ACERVO CON EL QUE CUENTA ESTE CENTRO DE DOCUMENTACIÓN Y ANÁLISIS.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2009)</small>
+
+###### ARTÍCULO 90.
+
+El Ayuntamiento podrá revocar los permisos permanentes para la venta, almacenaje y consumo publico de bebidas alcohólicas, por encuadrarse alguna de las causales que señala el artículo 22 de este Reglamento o bien las que establece el artículo 30 de la Ley, así como en los siguientes casos:
+
+I.- a la VI.- ..............
+
+VII.- Derogada.
+
+VIII.- a la X.- ..............
+
+> <small>N. DE E. LA INTEGRACIÓN DEL CONTENIDO DEL PRESENTE ARTÍCULO ES RESULTADO DEL ACERVO CON EL QUE CUENTA ESTE CENTRO DE DOCUMENTACIÓN Y ANÁLISIS.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2009)</small>
+
+###### ARTICULO 91.
+
+En los casos a que se refiere el artículo anterior, la Dirección de Bebidas Alcohólicas sustanciara el procedimiento administrativo de Revocación del permiso, autorización o licencia, y citará al interesado a una audiencia para que este ofrezca pruebas y alegue lo que a su derecho convenga.
+
+En el citatorio, que se entregará personalmente al interesado, se le hará saber la causa que motive el procedimiento, el lugar, día y hora de celebración de la audiencia, el derecho que tiene para ofrecer pruebas y alegar lo que a su derecho convenga, así como el apercibimiento de que si no comparece sin justa causa, la resolución se dictara tomando en cuenta sólo las constancias del expediente.
+
+La audiencia se celebrará............
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2009)</small>
+
+ARTICULO 91 BIS.- En caso de que se ignore el domicilio del titular de los derechos del permiso sujeto a revocación, este deberá ser notificado mediante edictos que serán publicados por tres ocasiones consecutivas en el Periódico Oficial del Estado y en dos ocasiones en un periódico de mayor circulación en el Municipio. En el edicto deberá especificarse el objeto de la notificación, la autoridad que la emite, la fecha de inicio del procedimiento de revocación del permiso, así como la obligación de presentarse a mas tardar dentro de los 15 días siguientes a que surta efectos la ultima notificación, apercibiéndole que en caso contrario se le tendrá por precluido su derecho a presentar pruebas.
+
+> <small>N. DE E. LA INTEGRACIÓN DEL CONTENIDO DEL PRESENTE ARTÍCULO ES RESULTADO DEL ACERVO CON EL QUE CUENTA ESTE CENTRO DE DOCUMENTACIÓN Y ANÁLISIS.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2009)</small>
+
+ARTICULO 93 (SIC).- La audiencia se celebrará ..............
+
+Si por la naturaleza de las pruebas no fuere posible llevar acabo (sic) su desahogo dentro de la audiencia, la Autoridad señalara la hora, día y lugar para que tenga lugar la audiencia de desahogo de dichas probanzas, misma que deberá celebrarse dentro de los siguientes 5 días hábiles.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2009)</small>
+
+ARTICULO 95 (SIC).- La Dirección de Bebidas Alcohólicas dentro de los diez días hábiles siguientes a la celebración de la audiencia o del desahogo de todas las probanzas, emitirá el correspondiente Dictamen debidamente fundado y motivado. Si del dictamen se desprende que hay elementos para revocar el permiso de referencia, deberá remitir el expediente al Secretario de Gobierno Municipal, para que sea puesto previo estudio y análisis del mismo por la Comisión Reguladora de Bebidas Alcohólicas a consideración del Cabildo para su resolución.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2009)</small>
+
+###### ARTICULO 96.
+
+La resolución de revocación de un permiso para la venta, almacenaje y consumo público de bebidas alcohólicas emitida por Cabildo, surtirá efectos en su caso, de clausura definitiva en tratándose de giros cuya actividad predominante sea la venta, almacenaje para su venta o venta para consumo público de bebidas alcohólicas o bien, de revocación en el ejercicio de las actividades a que se refiere el permiso respectivo.
 
 ## TRANSITORIOS
 
@@ -1400,3 +1766,9 @@ P.O. 3 DE AGOSTO DE 2007.
 > <small>N. DE E. SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
 
 SEGUNDO.- El presente Acuerdo entrará en vigor al momento de su aprobación y se publicará en el Periódico Oficial, órgano de difusión del Gobierno del Estado de Baja California, y en un diario local de mayor circulación y/o la Gaceta Municipal para conocimiento de los vecinos.
+
+P.O. 2 DE ENERO DE 2009.
+
+> <small>N. DE E. SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+SEGUNDO.- Las presentes reformas entran en vigor al momento de su publicación, el cual para conocimiento del público en general, deberá de publicarse en el Periódico Oficial del Estado de Baja California en los términos de la Ley del Régimen Municipal para el Estado de Baja California.
