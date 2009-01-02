@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-40-2008-del-pleno-del-consejo-de-la-62199"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-08-15"
-last_updated: "2008-08-15"
+last_updated: "2009-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62199&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-07-02"
 
 ACUERDO GENERAL 40/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LA OBLIGACION DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO DE GENERAR LAS VERSIONES PUBLICAS DE LAS SENTENCIAS QUE DICTEN Y SE ENVIEN AL SEMANARIO JUDICIAL DE LA FEDERACION, PARA SU PUBLICACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL 84/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 2 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 15 de agosto de 2008.
 
@@ -70,3 +72,13 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para su difusión, publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en los medios electrónicos de consulta pública.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 40/2008, del Pleno del Consejo de la Judicatura Federal, que Establece la Obligación de los Tribunales Colegiados de Circuito de Generar las Versiones Públicas de las Sentencias que Dicten y se Envíen al Semanario Judicial de la Federación, para su Publicación, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de dos de julio de dos mil ocho, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Indalfer Infante Gonzales, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a siete de agosto de dos mil ocho.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 2 DE ENERO DE 2009.
+
+PRIMERO. El presente acuerdo entrará en vigor el dos de enero de dos mil nueve.
+
+SEGUNDO. Se abroga el Acuerdo General 30/2003, del Pleno del Consejo de la Judicatura Federal, que Establece los Organos, Criterios y Procedimientos Institucionales para la Transparencia y Acceso a la Información Pública para este Organo del Poder Judicial de la Federación, los Tribunales de Circuito y los Juzgados de Distrito; el Acuerdo General 3/2008, del Pleno del Consejo de la Judicatura Federal, que Establece los Lineamientos para la Elaboración de Versiones Públicas de las Resoluciones Judiciales de los Tribunales de Circuito y Juzgados de Distrito; el Acuerdo General 40/2008, del Pleno del Consejo de la Judicatura Federal, que Establece la Obligación de los Tribunales Colegiados de Circuito de Generar las Versiones Públicas de las Sentencias que Dicten y se Envíen al Semanario Judicial de la Federación para su Publicación, así como cualquier otra disposición general que se oponga a lo previsto en el presente acuerdo.
+
+TERCERO. Para su difusión, publíquese en el Diario Oficial de la Federación, en el Semanario Judicial y su Gaceta, así como en los medios electrónicos de consulta pública.
