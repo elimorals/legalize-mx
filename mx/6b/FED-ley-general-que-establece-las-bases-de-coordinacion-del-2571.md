@@ -4,7 +4,7 @@ identifier: "FED-ley-general-que-establece-las-bases-de-coordinacion-del-2571"
 country: "mx"
 rank: "ley_general"
 publication_date: "1995-12-11"
-last_updated: "2004-08-23"
+last_updated: "2009-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2571&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1995-12-08"
 
 LEY GENERAL QUE ESTABLECE LAS BASES DE COORDINACION DEL SISTEMA NACIONAL DE SEGURIDAD PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE AGOSTO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PUBLICA, PUBLICADA EN EL D.O.F. DE 2 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 11 de diciembre de 1995.
 
@@ -532,3 +534,33 @@ Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 23 DE AGOSTO DE 2004.
 
 Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE ENERO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente del de su publicación en el Diario Oficial de la Federación, salvo lo previsto en los artículos transitorios siguientes.
+
+SEGUNDO.- El Ejecutivo Federal contará con el plazo de un año a partir de la entrada en vigor de este Decreto para crear e instalar el Centro Nacional de Certificación y Acreditación, el cual deberá acreditar a los centros de evaluación y control de confianza de las Instituciones de Seguridad Pública y sus respectivos procesos de evaluación en un plazo no mayor de dos años a partir de la entrada en operación del citado Centro Nacional.
+
+TERCERO.- De manera progresiva y en un plazo de cuatro años a partir de la entrada en vigor de este Decreto, las Instituciones de Seguridad Pública, por conducto de los centros de evaluación y control de confianza, deberán practicar las evaluaciones respectivas a sus integrantes, de conformidad con lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública, sus respectivos ordenamientos legales y el calendario aprobado por el Consejo Nacional.
+
+CUARTO.- Todos los integrantes de las Instituciones de Seguridad Pública deberán contar con el certificado a que se refiere el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y la Ley General del Sistema Nacional de Seguridad Pública, en los términos y plazos previstos en el artículo transitorio anterior. Quienes no obtengan el certificado serán separados del servicio, observando lo dispuesto en el artículo 123, Apartado B, Fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
+
+QUINTO.- Los servicios de carrera vigentes en las Instituciones de Seguridad Pública a la fecha de entrada en vigor de este Decreto, deberán ajustarse a los requisitos, criterios y procedimientos que establece la Ley General del Sistema Nacional de Seguridad Pública y las leyes estatales, en la rama correspondiente, en un plazo no mayor a un año.
+
+SEXTO.- Los servidores públicos que obtengan el certificado y que satisfagan los requisitos de ingreso y permanencia que se establecen en la Ley General del Sistema Nacional de Seguridad Pública y los ordenamientos legales federales y estatales aplicables, ingresarán o serán homologados al servicio de carrera, en las ramas ministerial, policial y pericial, según corresponda, en la jerarquía y grado, así como antigüedad y derechos que resulten aplicables, de conformidad con lo previsto en el presente Decreto.
+
+SÉPTIMO.- Las referencias realizadas en la presente Ley a la reinserción social, quedarán entendidas al término vigente readaptación social, toda vez que con este Decreto no entra en vigor el párrafo tercero del artículo 21 constitucional sujeto a la vacancia prevista en el articulo Quinto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos publicado en el Diario Oficial de la Federación el 18 de junio de 2008.
+
+OCTAVO.- El Ejecutivo Federal expedirá las disposiciones reglamentarias de la presente Ley en un plazo no mayor a dieciocho meses a partir de la entrada en vigor de este Decreto.
+
+NOVENO.- El Consejo Nacional y las Conferencias que prevé la presente Ley, deberán expedir las disposiciones a que se refiere la Ley General del Sistema Nacional de Seguridad Pública, en un plazo no mayor a nueve meses, a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO.- Por única ocasión, el Secretario Ejecutivo emitirá la convocatoria para la integración de la Conferencia Nacional de Seguridad Pública Municipal, conforme a lo establecido en el artículo 32 de la Ley General del Sistema Nacional de Seguridad Pública.
+
+DÉCIMO PRIMERO.- Los recursos humanos, materiales y financieros con que cuente el Secretario Ejecutivo de conformidad con la abrogada Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública y demás disposiciones jurídicas aplicables, se transferirán al Secretariado Ejecutivo previsto en esta Ley, a la brevedad posible.
+
+Lo mismo sucederá con los asuntos en trámite del Secretario Ejecutivo, salvo que pudiera causarse algún daño o menoscabo al servicio o a los intereses del Sistema.
+
+Los derechos del personal del Secretario Ejecutivo que, en virtud de lo dispuesto en el presente Decreto, sea transferido, se respetarán conforme a la ley aplicable.
+
+DÉCIMO SEGUNDO.- Se abroga la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública y se derogan las demás disposiciones que se opongan a la presente Ley.
