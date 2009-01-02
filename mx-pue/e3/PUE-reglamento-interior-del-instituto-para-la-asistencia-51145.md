@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-para-la-asistencia-51145"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-19"
-last_updated: "2007-10-31"
+last_updated: "2009-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51145&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO PARA LA ASISTENCIA PUBLICA DEL ESTADO DE PUEBLA
 
-REGLAMENTO PUBLICADO EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2007.
+REGLAMENTO PUBLICADO EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2009.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 19 de junio de 2006.
 
@@ -65,7 +65,9 @@ III.- Un Director General, y
 
 IV.- Las siguientes unidades administrativas:
 
-1) Dirección del Monte de Piedad;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2009)</small>
+
+1) Dirección del Monte de Piedad de Puebla;
 
 a. Subdirección Técnica de Valuación;
 
@@ -85,7 +87,9 @@ a. (DEROGADO, P.O. 31 DE OCTUBRE DE 2007)
 
 6) Dirección de Desarrollo Administrativo, Planeación e Informática, y
 
-7) Coordinación de Seguimiento Operacional.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
+7) Coordinación de Seguimiento Operacional y Administrativo.
 
 ###### ARTÍCULO 5.
 
@@ -97,7 +101,9 @@ Las unidades productivas son aquéllas que por su propia naturaleza tienden a la
 
 I.- El Monte de Piedad de Puebla y sus sucursales;
 
-II.- El Panteón de la Piedad y los Servicios Funerarios de la Piedad;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+II.- El Panteón de la Piedad y los Servicios Funerarios Integrales de la Piedad;
 
 III.- La Exhacienda de Chautla;
 
@@ -105,13 +111,17 @@ IV.- Los estacionamientos;
 
 V.- La administración de los inmuebles en propiedad o en posesión del Instituto;
 
-VI.- Las Estaciones de Servicio, y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+VI.- Las Farmacias; y
 
 VII.- Todas aquéllas que sean incorporadas al Instituto bajo cualquier título, para su administración.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
 ###### ARTÍCULO 7.
 
-Para efectos del presente Reglamento, las unidades productivas serán consideradas indistintamente como unidades administrativas.
+Para efectos del presente Reglamento, las unidades productivas serán consideradas indistintamente como unidades administrativas y estarán adscritas a las Direcciones competentes conforme a este ordenamiento.
 
 ###### ARTÍCULO 8.
 
@@ -161,9 +171,41 @@ V.- Participar en las sesiones de los órganos de gobierno de las demás entidad
 
 VI.- Definir y mantener vigentes junto con el personal a su cargo, la misión, la visión, los valores y objetivos estratégicos de la Institución y asegurar que todo el personal los conozca;
 
-VII.- Instruir y decidir sobre las propuestas que le sean formuladas por el Sindicato de Trabajadores al Servicio del Estado y Organismos Descentralizados para la modificación de las condiciones generales de trabajo, y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
 
-VIII.- Las demás que le asigne la propia Junta Directiva y el presente Reglamento.
+VII.- Instruir y decidir sobre las propuestas que le sean formuladas por el Sindicato de Trabajadores al Servicio del Estado y Organismos Descentralizados para la modificación de las condiciones generales de trabajo;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+VIII.- Proponer a la Junta Directiva, previa opinión de las instancias competentes, la cancelación de créditos o cuentas incobrables;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+IX.- Autorizar, conforme a las disposiciones aplicables, la elaboración o contratación de los proyectos, estudios y sistemas, administrativos o técnicos, que requiera la operación del Instituto;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+X.- Recibir en acuerdo a los titulares de las unidades administrativas del Instituto, para el trámite y resolución de los asuntos de sus respectivas competencias;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XI.- Proponer al Gobernador del Estado, a través de las instancias correspondientes y con el consentimiento de la Junta Directiva, proyectos de iniciativas de leyes o decretos, así como proyectos de reglamentos y acuerdos, respecto de los asuntos que sean competencia del Instituto;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XII.- Intervenir en los procedimientos judiciales o administrativos en que el Organismo sea parte o tenga interés jurídico, así como substanciar y resolver en el ámbito de su competencia los medios de defensa que se interpongan en contra de los actos emanados del Instituto, de conformidad con las facultades que le otorgan las disposiciones vigentes;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XIII.- Otorgar de conformidad con las disposiciones legales aplicables y previa autorización de la Junta Directiva, mandatos y poderes generales y especiales a los titulares de las unidades administrativas del Instituto o a personas físicas o jurídicas diferentes de éstos, únicamente para el ejercicio de funciones delegables y el cumplimiento de los objetivos del mismo;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XIV.- Conferir o delegar a los servidores públicos subalternos el desempeño de las atribuciones que este Reglamento le confiere, excepto aquéllas que por disposición jurídica o por acuerdo de la Junta Directiva, deban ser ejecutadas directamente por él; y
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XV.- Las demás que le asigne la propia Junta Directiva y el presente Reglamento.
 
 ### CAPÍTULO IV. DE LOS DIRECTORES
 
@@ -175,7 +217,9 @@ Al frente de cada Dirección habrá un Director, quien se auxiliará de los Subd
 
 Los Directores tendrán las siguientes atribuciones:
 
-I.- Planear, organizar, dirigir, controlar y evaluar las actividades de la unidad administrativa a su cargo;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+I.- Planear, programar, organizar, dirigir, controlar y evaluar las actividades de la Dirección a su cargo y de las unidades administrativas adscritas a la misma, conforme a las disposiciones, procedimientos y políticas vigentes;
 
 II.- Elaborar en coordinación con la Dirección Administrativa, el presupuesto anual de ingresos y egresos del Instituto, bajo criterios de racionalidad, y evaluar mensualmente su ejercicio, en caso de existir discrepancias, proponer al Director General alternativas de solución;
 
@@ -187,9 +231,13 @@ V.- Proponer al Director General, los proyectos de innovación, técnicos, admin
 
 VI.- Desempeñar las funciones y comisiones que el Director General les delegue o encomiende, manteniéndolo informado sobre el desarrollo de sus actividades del área que tenga asignada;
 
-VII.- Proporcionar los informes y datos que les sean solicitados por el Director General o por otras unidades administrativas del Instituto;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
 
-VIII.- Verificar que el personal a su cargo cumpla con eficiencia, lealtad, honestidad y diligencia la función laboral que le fue asignada y proponer al Director General los cambios y movimientos correspondientes;
+VII.- Proporcionar en el ámbito de su competencia, los informes, datos y apoyo técnico que les sean solicitados por el Director General o por otras unidades administrativas del Instituto;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+VIII.- Realizar estudios sobre la organización y procedimientos de las unidades administrativas a su cargo, y proponer al Director General los cambios, los movimientos de personal y las demás medidas que procedan;
 
 IX.- Procurar y fomentar la capacitación y actualización del personal adscrito a su Dirección;
 
@@ -205,11 +253,33 @@ XIV.- Turnar a la Dirección Jurídica, previo acuerdo del Director General, los
 
 XV.- Elaborar, actualizar y proponer al Director General para la posterior aprobación de la Junta Directiva, los Manuales de Organización, de Procedimientos y de Servicios al Público, de conformidad con los lineamientos que al efecto establezca la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, con la asesoría de la Dirección de Desarrollo Administrativo, Planeación e Informática;
 
-XVI.- Asegurarse que el personal adscrito a la unidad administrativa a su cargo, conozca el puesto que desempeña, los manuales de organización, de procedimientos y de servicios al público, así como su correcta aplicación;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
 
-XVII.- Observar las normas y políticas generales del Instituto, y
+XVI.- Supervisar que el personal a su cargo, conozca el puesto que desempeña, los manuales de organización, de procedimientos y de servicios al público, así como su correcta aplicación, y que cumpla con eficiencia, lealtad, honestidad y diligencia la función laboral o el servicio que le fue encomendado;
 
-XVIII.- Las que les delegue o encomiende el Director General, así como las que les confieran las demás disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XVII.- Formular, previo acuerdo con el Director General y en coordinación con las instancias competentes, las actas administrativas que correspondan cuando tengan conocimiento de irregularidades cometidas por los servidores públicos a su cargo y en caso de que éstas pudieran constituir infracciones o delitos, hacerlas del conocimiento y turnar los expedientes respectivos a la Dirección Jurídica, para los trámites a que haya lugar;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XVIII.- Recibir a los titulares de las unidades administrativas de su adscripción, a efecto de acordar los asuntos que sean competencia de las mismas y someterlos a la consideración del Director General;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XIX.- Autorizar mediante su firma el trámite y despacho de los asuntos de su competencia y coordinarse, en su caso, con la Dirección Jurídica, para expedir en forma conjunta las constancias o copias certificadas de los datos o documentos que obren en sus respectivos archivos;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XX.- Coordinarse entre sí y con las demás unidades administrativas del Instituto, para el mejor desempeño de sus funciones;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XXI.- Observar las normas y políticas generales del Instituto; y
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XXII.- Las que les delegue o encomiende el Director General, así como las que les confieran las demás disposiciones legales aplicables.
 
 ### CAPÍTULO V. DE LA DIRECCIÓN DEL MONTE DE PIEDAD DE PUEBLA
 
@@ -217,13 +287,17 @@ XVIII.- Las que les delegue o encomiende el Director General, así como las que 
 
 La Dirección del Monte de Piedad de Puebla, depende del Director General y su Titular además de las atribuciones establecidas en el artículo 14 del presente Reglamento, tendrá las siguientes:
 
-I.- Prever y optimizar la disposición de recursos para préstamos de las sucursales;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+I.- Coordinar, administrar, evaluar, supervisar y controlar las actividades de las sucursales del Monte de Piedad de Puebla, así como prever y optimizar la disposición de recursos para préstamos de las sucursales;
 
 II.- Autorizar y enviar a la Dirección General y a la Dirección Administrativa, los reportes diarios, semanales y mensuales de las operaciones que realicen las sucursales;
 
 III.- Realizar conjuntamente con la Dirección Administrativa del Instituto, la conciliación de la contabilidad general del Monte de Piedad de Puebla, los controles auxiliares, los estados de resultados y los balances mensuales y anuales;
 
-IV.- Aplicar los sistemas de control de las operaciones que realicen los comisionistas y valuadores;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+IV.- Aplicar los sistemas de control de las operaciones que realicen los comisionistas y valuadores e informar al superior jerárquico de todo acto u omisión del personal sujeto a su dirección, que pueda implicar incumplimiento de sus obligaciones legales o administrativas;
 
 V.- Reportar a la unidad administrativa correspondiente, las fallas del sistema informático o en su caso, solicitar la actualización del mismo;
 
@@ -241,7 +315,9 @@ VIII.- Estructurar junto con la Unidad de Comunicación Social, campañas de pro
 
 El Titular de la Dirección de Administración de Negocios, depende del Director General y además de las atribuciones establecidas en el artículo 14 del presente Reglamento, tendrá las siguientes:
 
-I.- Analizar diariamente el reporte de ingresos remitidos por las unidades productivas bajo su adscripción;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+I.- Coordinar, administrar, evaluar, supervisar y controlar las actividades del Panteón de la Piedad y los Servicios Funerarios Integrales de la Piedad, la Exhacienda de Chautla, los estacionamientos, las farmacias, así como las relacionadas con la administración de los inmuebles en propiedad o en posesión del Instituto y con el funcionamiento de las demás unidades productivas que le sean adscritas para su administración, debiendo analizar y validar diariamente el reporte de ingresos remitidos por cada una;
 
 II.- Realizar todo tipo de actos y trámites administrativos ante las dependencias y entidades del orden Federal, Estatal y Municipal competentes, así como ante organismos públicos y privados en los términos del poder notarial que al efecto le otorgue el Director General, previo acuerdo de la Junta Directiva, relacionados con asuntos de su exclusiva competencia;
 
@@ -251,11 +327,15 @@ IV.- Establecer vínculos con instituciones públicas y privadas dedicadas a la 
 
 V.- Proponer eventos en los que participen organizaciones públicas y privadas que actúen con el carácter de benefactores, en beneficio del Instituto;
 
-VI.- Elaborar en coordinación con la Dirección Jurídica y Administrativa del Organismo, los contratos que sean necesarios en relación con los servicios requeridos para la realización de los eventos;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+VI.- Elaborar en coordinación con las Direcciones Jurídica y Administrativa del Organismo, los contratos que sean necesarios en relación con las funciones de las unidades productivas bajo su adscripción o los servicios requeridos para la realización de eventos, rifas, sorteos u otros actos o proyectos productivos que autorice la Junta Directiva, así como intervenir en su formalización y supervisar continuamente el cumplimiento de los mismos;
 
 VII.- Establecer controles de calidad en atención al cliente en las unidades productivas a su cargo;
 
-VIII.- Proponer al Director General la creación y desarrollo de negocios que puedan representar ingresos para el Instituto, contactando a organismos públicos y privados;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+VIII.- Proponer al Director General la creación y desarrollo de proyectos productivos o negocios que puedan representar ingresos para el Instituto, contactando a organismos públicos y privados;
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2007)</small>
 
@@ -309,17 +389,27 @@ III.- Proponer al Director General, las disposiciones y lineamientos aplicables,
 
 IV.- Elaborar el presupuesto de ingresos y egresos del Instituto en coordinación con los Directores de Área, aplicando las políticas de austeridad, racionalidad y disciplina presupuestal, prevista en la normatividad aplicable;
 
-V.- Organizar y proponer al Director General, las estrategias tendientes a eficientar los mecanismos y criterios para la contratación, nombramientos, renuncias, remociones, cambio de adscripciones, otorgamiento de vacaciones y demás trámites necesarios para el personal del Instituto, en apego a las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
 
-VI.- Vigilar el cumplimiento de las disposiciones legales en materia de adquisiciones, abasto, obra pública, mantenimiento y reparación de bienes muebles e inmuebles llevadas a cabo por el Instituto;
+V.- Organizar, proponer al Director General e instrumentar, las estrategias, políticas y bases tendientes a hacer más eficientes los mecanismos y criterios para la selección, capacitación, contratación, nombramiento, adscripción, integración de expedientes y administración del personal del Instituto, así como los relativos a actualización, cambio de adscripción, vacaciones, seguridad social, permisos, renuncias, remociones, finiquitos y demás trámites laborales correspondientes, en apego a las disposiciones legales aplicables;
 
-VII.- Asegurar el cumplimiento de las disposiciones fiscales que obliguen al Instituto;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+VI.- Vigilar el cumplimiento de las disposiciones legales en materia de adquisiciones, servicios, abasto, obra pública, mantenimiento y reparación de bienes muebles e inmuebles llevadas a cabo por el Instituto;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+VII.- Administrar los sistemas de cobro y de pagos, custodiar los valores y títulos a favor del Instituto, llevar la contabilidad del mismo, atender las consultas o solicitudes de información que formulen las autoridades competentes y asegurar el cumplimiento de las disposiciones fiscales que obliguen al Organismo;
 
 VIII.- Autorizar las requisiciones y transferencia de recursos, que soliciten las unidades administrativas del Instituto, previa consulta de sus respectivos presupuestos y en apego a la normatividad aplicable, debiendo informar al Director General sobre los resultados obtenidos;
 
-IX.- Elaborar y actualizar permanentemente el inventario de bienes muebles e inmuebles y equipo de oficina del Instituto, en coordinación con las áreas involucradas;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
 
-X.- Suscribir, previo acuerdo del Director General, convenios y demás documentos relativos al ejercicio de sus funciones;
+IX.- Elaborar y actualizar permanentemente el inventario de bienes muebles e inmuebles y equipo de oficina del Instituto, así como gestionar en su caso, la desincorporación de activos y la baja de maquinaria y equipo, en coordinación con las áreas involucradas;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+X.- Asegurar el abasto oportuno de materiales y suministros necesarios para una óptima operación de las unidades administrativas del Instituto;
 
 XI.- Formular los estados financieros y dictámenes que le sean solicitados por el Director General y asesorar técnicamente en asuntos de su especialidad a las otras áreas del Instituto, cuando se le solicite;
 
@@ -329,11 +419,29 @@ XIII.- Participar en la ejecución de programas de intercambio de información, 
 
 XIV.- Coadyuvar en la implantación de los programas de modernización y simplificación administrativa del Instituto, que proponga la Dirección de Desarrollo Administrativo, Planeación e Informática, autorizada por el Director General;
 
-XV.- Establecer relación con los dirigentes sindicales, para mantener un ambiente de armonía entre el Sindicato y el Instituto, concertar previo acuerdo del Director General los aumentos y prestaciones que les otorgue el Gobierno del Estado de Puebla;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
 
-XVI.- Asegurar el abasto oportuno de materiales y suministros necesarios para una óptima operación de las unidades administrativas del Instituto, y
+XV.- Suscribir, previo acuerdo del Director General o por delegación de éste, únicamente en los casos que autorice la Junta Directiva o procedan conforme a la ley, convenios, contratos, pedidos, requisiciones, movimientos y demás documentos relativos al ejercicio de sus funciones;
 
-XVII.- Proporcionar la información, datos, cooperación y asesoría técnica que le sea (sic) requeridas por las unidades administrativas del propio Instituto, de acuerdo a las disposiciones legales aplicables y a las políticas establecidas al respecto.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XVI.- Conducir las relaciones laborales del Instituto y validar, de conformidad con la normatividad aplicable, los movimientos de personal, así como las plantillas, tabuladores, remuneraciones, prestaciones, incentivos, promociones, constancias, identificaciones, incapacidades, licencias y demás trámites en materia de recursos humanos a que se refieran los ordenamientos legales aplicables;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XVII.- Atender y resolver, en el ámbito administrativo y en los casos que proceda, los asuntos del personal del Instituto, con base en las disposiciones legales y demás lineamientos en la materia;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XVIII.- Fungir como enlace entre el Instituto y el sindicato respectivo, previo acuerdo del Director General, para concertar los aspectos relativos a las condiciones generales de trabajo y las relaciones colectivas de sus trabajadores, y mantener un ambiente de armonía laboral;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XIX.- Establecer los lineamientos para la administración y control de la realización del servicio social y prácticas profesionales, que se lleven a cabo en las unidades administrativas del Instituto, así como someter a consideración del Director General, los convenios de colaboración a suscribirse sobre estos aspectos, con las diversas Instituciones Educativas; y
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XX.- Proporcionar la información, datos, cooperación y asesoría técnica que le sean requeridas por las unidades administrativas del propio Instituto, de acuerdo a las disposiciones legales aplicables y a las políticas establecidas al respecto.
 
 ### CAPÍTULO IX. DE LA DIRECCIÓN JURÍDICA
 
@@ -343,11 +451,15 @@ El Titular de la Dirección Jurídica, depende del Director General y además de
 
 I.- Apoyar y asesorar a la Junta Directiva, Patronato y Dirección General, así como a las demás unidades administrativas del Instituto, en la elaboración de documentos de carácter jurídico, que sean de su competencia;
 
-II.- Representar al Instituto en todas las controversias y trámites que sean de su competencia, en términos del poder notarial otorgado por el Director General, con la autorización previa de la Junta Directiva;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+II.- Representar al Instituto en todas las controversias, procedimientos, gestiones y trámites que sean de su competencia, en términos del poder notarial otorgado por el Director General, con la autorización previa de la Junta Directiva;
 
 III.- Tramitar las sucesiones testamentarias e intestamentarias en aquellos asuntos susceptibles de incrementar el patrimonio del Instituto;
 
-IV.- Ejercitar las acciones conducentes ante los órganos jurisdiccionales, interponer recursos, promover incidentes, ofrecer o rendir pruebas, alegar y seguir los juicios y procedimientos hasta ejecutar las resoluciones;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+IV.- Ejercitar las acciones conducentes ante los órganos jurisdiccionales, oponer excepciones, interponer recursos, promover incidentes, ofrecer o rendir pruebas, alegar y seguir los juicios y procedimientos hasta ejecutar las resoluciones;
 
 V.- Formular denuncias y querellas ante las autoridades competentes, respecto de hechos presuntamente ilícitos, que sean perpetrados en contra de los intereses del Instituto;
 
@@ -355,9 +467,41 @@ VI.- Intervenir en los Juicios de Amparo en los que el Instituto sea llamado a j
 
 VII.- Previo acuerdo del Director General, expedir en forma conjunta con el responsable del área respectiva, las constancias o copias de documentos relativos a los asuntos que se tramitan en el Instituto, que soliciten las dependencias Federales, Estatales y Municipales y los particulares;
 
-VIII.- Gestionar ante las autoridades o instituciones competentes la certificación de documentos que requiera el Instituto y, en su caso, expedir mancomunadamente con el responsable del área, copias certificadas de los documentos que obren en los archivos del Instituto a quien tenga derecho para ello, y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
 
-IX.- Autorizar la radicación y la baja de los expedientes tanto jurisdiccionales como administrativos, previo el estudio y análisis correspondiente.
+VIII.- Gestionar ante las autoridades o instituciones competentes la certificación de datos o documentos que requiera el Instituto y, en su caso, expedir mancomunadamente con el responsable del área, copias certificadas de los datos o documentos que obren en los archivos del Instituto a quien renga derecho para ello, previo cumplimiento de las disposiciones respectivas;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+IX.- Autorizar la radicación y la baja de los expedientes tanto jurisdiccionales como administrativos, previo el estudio y análisis correspondiente, debiendo informar de ello al Director General;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+X.- Conocer, substanciar y proponer al Director General la resolución de los procedimientos y recursos administrativos que sean de su competencia o deba conocer, de conformidad con las disposiciones que resulten aplicables;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XI.- Preparar los informes que deba rendir el Instituto, relacionados con los juicios o procedimientos en que intervenga, o que sean requeridos por alguna autoridad ministerial o jurisdiccional competente;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XII.- Recibir de las unidades administrativas del Instituto la documentación que señalen los ordenamientos vigentes e integrarla para hacer efectivos los depósitos, títulos de crédito, prendas y en general, cualquier garantía o derecho otorgados a favor del Instituto, o para poder gestionar ante las instancias competentes la instrumentación del procedimiento correspondiente por tratarse de fianzas otorgadas para garantizar contratos administrativos;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XIII.- Elaborar y proponer al Director General, para su acuerdo y tramitación correspondientes, los anteproyectos de leyes, decretos, reglamentos, convenios, acuerdos y circulares que sean de la competencia del Instituto;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XIV.- Tramitar la publicación oficial de aquellos actos que sean competencia del Instituto, así como gestionar ante Notario la protocolización, ratificación o certificación de actos, hechos o documentos que sean del interés del mismo;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XV.- Recibir y resolver en el ámbito de su competencia, las consultas que le formulen las unidades administrativas del Instituto, sobre situaciones reales y concretas relacionadas con la aplicación de disposiciones jurídicas, el cumplimiento de convenios o la ejecución de resoluciones; y
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XVI.- Atender en general, los asuntos de naturaleza jurídica de la competencia del Instituto, que no estén reservados a otras áreas del mismo.
 
 ### CAPÍTULO X. DE LA DIRECCIÓN DE DESARROLLO ADMINISTRATIVO, PLANEACIÓN E INFORMÁTICA
 
@@ -415,9 +559,33 @@ VII.- Realizar permanentemente visitas de supervisión a las diferentes unidades
 
 VIII.- Difundir y apoyar al personal de su área, en la toma de cursos de capacitación administrativa y técnica;
 
-IX.- Supervisar el desempeño, comportamiento y productividad del personal adscrito al área administrativa a su cargo, y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
 
-X.- Las que le delegue o encomiende el Director General o el Superior Jerárquico correspondiente, así como las que le confieran las demás disposiciones legales aplicables.
+IX.- Supervisar el desempeño, comportamiento y productividad del personal adscrito al área administrativa a su cargo;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+X.- Formular, previo acuerdo con su Director y en coordinación con las instancias competentes, las actas administrativas que correspondan cuando tengan conocimiento de irregularidades cometidas por los servidores públicos a su cargo y en caso de que éstas pudieran constituir infracciones o delitos, hacerlas del conocimiento y turnar los expedientes respectivos a la Dirección Jurídica, para los trámites a que haya lugar;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XI.- Recibir a los titulares de las unidades administrativas de su adscripción, a efecto de acordar los asuntos que sean competencia de las mismas y someterlos a la consideración de su Superior Jerárquico;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XII.- Autorizar mediante su firma el trámite y despacho de los asuntos de su competencia y coordinarse en su caso con la Dirección Jurídica, para expedir en forma conjunta las constancias o copias certificadas de los datos o documentos que obren en sus respectivos archivos;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XIII.- Coordinarse entre sí y con las demás unidades administrativas del Instituto, para el mejor desempeño de sus funciones;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XIV.- Observar las normas y políticas generales del Instituto; y
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XV.- Las que le deleguen o encomienden el Director Generala el Superior Jerárquico correspondiente, así como las que le confieran las demás disposiciones aplicables.
 
 ### CAPÍTULO XII. DE LA SUBDIRECCIÓN TÉCNICA DE VALUACIÓN
 
@@ -435,13 +603,17 @@ IV.- Coadyuvar en la optimización de los recursos destinados para préstamos de
 
 V.- Informar al Director del Monte de Piedad de Puebla, sobre las cotizaciones base del centenario, solicitando su autorización para efecto de aplicarlas;
 
-VI.- Mantener actualizados a los valuadores sobre la cotización base y los precios en el mercado del centenario, relojería, gemas y otros artículos;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+VI.- Capacitar, evaluar y mantener actualizados a los valuadores, en particular sobre la cotización base y los precios en el mercado del centenario, relojería, gemas y otros artículos;
 
 VII.- Informar al Director sobre el estado que guardan los precios de las mercancías que son entregadas al Monte de Piedad de Puebla en comisión y consignación;
 
 VIII.- Realizar continuamente visitas y supervisiones a las Sucursales del Monte de Piedad previa autorización del Director del Monte de Piedad de Puebla, para verificar el correcto desempeño de los valuadores y así poder reportar anomalías detectadas con motivo del desempeño de sus funciones;
 
-IX.- Elaborar los reportes que le sean solicitados por el Director del Monte de Piedad de Puebla;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+IX.- Elaborar los reportes y dictámenes periciales que le sean solicitados por el Director del Monte de Piedad de Puebla;
 
 X.- Coordinar y autorizar las suplencias y movimientos de valuadores requeridos en las Sucursales previa autorización del Director del Monte de Piedad de Puebla;
 
@@ -473,7 +645,9 @@ IV.- Integrar la información necesaria para reportar a la Dirección del Monte 
 
 V.- Participar con el Director en la elaboración de presupuestos anuales, proyectos, así como planes y estrategias de mejora y crecimiento;
 
-VI.- Coordinar y autorizar la rotación de personal entre Sucursales, por suplencias, capacitación de acuerdo a las necesidades del servicio, previa autorización del Director;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+VI.- Coordinar y autorizar la rotación de personal entre Sucursales, por suplencias, e intervenir en su capacitación administrativa, de acuerdo a las necesidades del servicio y previa autorización del Director del Monte de Piedad de Puebla;
 
 VII.- Evaluar y proponer estrategias que lleven a incrementar los ingresos del Monte de Piedad de Puebla, así como mejorar su posicionamiento en el mercado;
 
@@ -487,19 +661,27 @@ XI.- Verificar la disponibilidad de efectivo para dotar a las Sucursales en sus 
 
 XII.- Realizar visitas y supervisiones a las Sucursales del Monte de Piedad para verificar el correcto desempeño del personal acorde a las políticas y procedimientos vigentes;
 
-XIII.- Informar oportunamente el estado que guardan las Sucursales y reportar cualquier anomalía detectada dentro de la operación de las mismas para poder tomar medidas pertinentes; y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XIII.- Informar oportunamente el estado que guardan las Sucursales, reportar cualquier anomalía detectada dentro de la operación de las mismas para poder tomar medidas pertinentes e intervenir en la elaboración de las minutas o actas respectivas; y
 
 XIV.- Apoyar en el proceso de reclutamiento, contratación y capacitación de personal de nuevo ingreso, acorde a las necesidades del puesto, así como proponer la capacitación y cursos de integración del personal ya existente dirigido a fortalecer los valores de la Institución.
 
-### CAPÍTULO XIV. DE LA COORDINACIÓN DE SEGUIMIENTO OPERACIONAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE ENERO DE 2009)</small>
+
+### CAPÍTULO XIV. DE LA COORDINACIÓN DE SEGUIMIENTO OPERACIONAL Y ADMINISTRATIVO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTÍCULO 25.
 
-La Coordinación de Seguimiento Operacional, estará a cargo de un Coordinador bajo el mando directo del Director General y su Titular además de las atribuciones establecidas en el artículo 22 de este Reglamento, tendrá las siguientes:
+La Coordinación de Seguimiento Operacional y Administrativo, estará a cargo de un Coordinador bajo el mando directo del Director General, quien además de las atribuciones establecidas en el artículo 14 de este Reglamento, tendrá las siguientes:
 
 I.- Evaluar a través de estrategias y mecanismos adecuados, el cumplimiento de los objetivos y metas que se establezcan en el programa operativo anual del Organismo;
 
-II.- Dar seguimiento, acorde con la normatividad establecida por el Gobierno del Estado, a través de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, al desarrollo de programas y metas del Organismo;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+II.- Dar seguimiento, acorde con la normatividad establecida por el Gobierno del Estado, a través de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, al desarrollo operacional y administrativo de los programas y metas del Organismo;
 
 III.- Asesorar al Director General en asuntos que sean de su competencia;
 
@@ -509,19 +691,43 @@ V.- Solicitar, recopilar y analizar la información de las unidades del Institut
 
 VI.- Dar seguimiento a la correspondencia de la Dirección General;
 
-VII.- Revisar y analizar las solventaciones que las unidades administrativas deban presentar ante la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, en coordinación con los titulares de las áreas involucradas;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+VII.- Revisar y analizar, en coordinación con los titulares de las áreas involucradas, las solventaciones que el Organismo deba presentar ante las instancias facultadas para la fiscalización, verificación, evaluación y control de los recursos públicos, derivado de las auditorías que éstas practiquen;
 
 VIII.- Evaluar el impacto socioeconómico de los programas del Organismo, sustentado en los datos que se generen mensual y anualmente;
 
-IX.- Registrar el cumplimiento de las metas y objetivos de las unidades administrativas del Organismo, y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
 
-X.- Las demás que le confieran las disposiciones legales aplicables y las que le encomiende el Director General.
+IX.- Registrar el cumplimiento de las metas y objetivos de las unidades administrativas del Organismo;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+X.- Coordinar la integración de la cuenta pública del Instituto y que se solventen las observaciones que al respecto formulen las instancias competentes, en términos de lo que establecen las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XI.- Revisar las conciliaciones bancarias del Instituto, glosar los registros contables y presupuestales y supervisar la elaboración de los estados de origen y aplicación de fondos;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XII.- Supervisar el cumplimiento de las políticas y parámetros de inversión financiera y erogaciones, que establezca el Director General;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XIII.- Proponer al Director General las políticas y procedimientos necesarios para la adecuada planeación, desarrollo y control operacional y administrativo del Instituto, de acuerdo a las condiciones tanto internas como externas y a la normatividad vigente, y vigilar su correcta aplicación; y
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+XIV.- Las demás que le confieran las disposiciones legales aplicables y las que le encomiende el Director General.
 
 ## TÍTULO TERCERO. DE LAS SUPLENCIAS
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
 ###### ARTÍCULO 26.
 
-El Director General del Instituto durante sus ausencias no mayores a quince días, previo acuerdo de él mismo, será suplido por cualquiera de los Titulares de las Direcciones que al efecto designe, de acuerdo al asunto de que se trate y en sus respectivos ámbitos de su competencia, sin perjuicio de las facultades conferidas a la Junta Directiva.
+El Director General del Instituto durante sus ausencias no mayores a quince días, previo acuerdo de él mismo, será suplido por el Coordinador de Seguimiento Operacional y Administrativo o cualquiera de los Titulares de las Direcciones que al efecto designe, de acuerdo al asunto de que se trate y en sus respectivos ámbitos de competencia, sin perjuicio de las facultades conferidas a la Junta Directiva.
 
 ###### ARTÍCULO 27.
 
@@ -538,3 +744,9 @@ Dado en la Heroica Puebla de Zaragoza, a los veintisiete días del mes de abril 
 P.O. 31 DE OCTUBRE DE 2007.
 
 ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE ENERO DE 2009.
+
+Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
