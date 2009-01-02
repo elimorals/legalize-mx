@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-30-2008-del-pleno-del-consejo-de-la-61572"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-06-23"
-last_updated: "2008-10-20"
+last_updated: "2009-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61572&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-06-11"
 
 ACUERDO GENERAL 30/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE OCTUBRE DE 2008
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE ENERO DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 23 de junio de 2008.
 
@@ -373,25 +373,65 @@ El Instituto con base en los elementos que se mencionan en el artículo 31 de es
 
 El Instituto proporcionará a cada uno de los integrantes del Jurado: los proyectos, el formato y el dictamen que se hubiere aprobado; los documentos anteriores sólo deberán contener el código de barras del participante.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 81/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE ENERO DE 2009)</small>
+
 ###### Artículo 31.
 
-La valoración detallada de los elementos a considerar por el Jurado en el caso práctico serán:
+La puntuación del caso práctico se sustentará sobre dos rubros específicos. Estructura de la sentencia, así como fundamentación y motivación de la misma. La valoración detallada de los elementos a considerar por el Jurado es la siguiente:
 
-Estructura de la sentencia 15 puntos
+I. Estructura de la sentencia (congruencia
 
-Congruencia de considerandos 15 puntos
+interna del proyecto): hasta 35 puntos
 
-y puntos resolutivos
+a) Determinar la certeza de actos. 10 puntos
 
-Exhaustividad 15 puntos
+b) Análisis de los argumentos jurídicos
 
-Desarrollo del tema 15 puntos
+hechos valer:
 
-Fundamentación y motivación 15 puntos
+- Se aborden de manera clara y ordenada
 
-Tesis aplicables 10 puntos
+cada uno de los actos reclamados, como
 
-Conclusión 15 puntos
+de los planteamientos expuestos
+
+(improcedencia, orden preferente,
+
+lógica jurídica). 10 puntos
+
+- Congruencia entre las consideraciones y
+
+los puntos resolutivos. 10 puntos
+
+c) Redacción y ortografía. 5 puntos
+
+II. Fundamentación y motivación
+
+(argumentación de la solución
+
+propuesta-exhaustividad y
+
+congruencia externa): hasta 65 puntos
+
+a) Detectar los puntos jurídicos materia
+
+de estudio. 10 puntos
+
+b) Pronunciamiento respecto de cada uno
+
+de los puntos anteriores. 10 puntos
+
+> <small>(F. DE E., D.O.F. 14 DE ENERO DE 2009)</small>
+
+c) Fundamento en los ordenamientos
+
+jurídicos y en la jurisprudencia. 25 puntos
+
+d) Explicación de las causas y motivos
+
+del porqué el supuesto jurídico general
+
+se actualiza en el caso concreto. 20 puntos
 
 ###### Artículo 32.
 
@@ -731,17 +771,9 @@ La actualización de alguna de las causas señaladas en este mismo artículo tra
 
 La descalificación se decretará sin perjuicio del inicio de los procedimientos de responsabilidad y otros que procedan.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
-
 ###### Artículo 52.
 
-Los aspirantes que hayan accedido a una etapa de oposición anterior, que no hubieren sido designados vencedores, podrán participar en los concursos que se lleven a cabo dentro de los dos años siguientes, sin necesidad de presentar la primera etapa (selección de aspirantes), consistente en resolver por escrito un cuestionario.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 30/2008, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO, D.O.F. 20 DE OCTUBRE DE 2008)</small>
-
-En este caso, la puntuación que hubieren obtenido en esa etapa se respetará y quedarán sujetos a los resultados de los nuevos concursantes.
-
-Para ese efecto, deberán presentar su solicitud de inscripción y a ésta, acompañar el documento en el que bajo protesta de decir verdad manifiesten su elección y que se encuentran en el supuesto de este artículo.
+(DEROGADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 81/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE ENERO DE 2009)
 
 ###### Artículo 53.
 
@@ -766,3 +798,11 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en la página web del Consejo de la Judicatura Federal y del Tribunal Electoral.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma al Acuerdo General 30/2008, del Pleno del Consejo de la judicatura Federal, que Reglamenta el Capítulo I del Título Séptimo de la Ley Orgánica del Poder Judicial de la Federación, por el que se Establecen los Lineamientos Generales para la Celebración de Concursos Internos de Oposición para la Designación de Magistrados de Circuito.
+
+D.O.F. 2 DE ENERO DE 2009.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta, así como en la página web del Consejo de la Judicatura Federal y del Tribunal Electoral.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar, de inmediato, el texto de esta reforma, a los Acuerdos Generales 30/2008 y 57/2008, del Pleno del Consejo de la Judicatura Federal, que Reglamentan el Capítulo I del Título Séptimo de la Ley Orgánica del Poder Judicial de la Federación, por el que se Establecen los Lineamientos Generales para la Celebración de Concursos Internos de Oposición para la Designación de Magistrados de Circuito y Jueces de Distrito, respectivamente.
