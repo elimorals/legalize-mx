@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-26316"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-30"
-last_updated: "2008-05-23"
+last_updated: "2009-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPORTE PUBLICO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 30 de agosto de 2002.
 
@@ -311,9 +311,17 @@ V.- Dictar las medidas necesarias, en ejercicio de sus facultades, para la organ
 
 VI.- Dictar y aplicar las medidas que sean necesarias para garantizar la prestación del servicio de transporte público, en caso de un paro o suspensión por parte de los concesionarios o permisionarios en perjuicio de la población;
 
-VII.- Ordenar la suspensión parcial o total del servicio, cuando no reúna las condiciones de eficiencia, seguridad e higiene; y
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
 
-VIII.- Las demás que le concedan las Leyes y Reglamentos aplicables.
+VII.- Ordenar la suspensión parcial o total del servicio, cuando no reúna las condiciones de eficiencia, seguridad e higiene;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+VIII.- Suscribir, junto con el Secretario del Ayuntamiento y el Director del Sistema Municipal del Transporte, los acuerdos por medio de los cuales se autorice el otorgamiento, así como la revalidación de permisos y concesiones; y,
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+
+IX.- Las demás que le concedan las Leyes y Reglamentos aplicables.
 
 ###### ARTÍCULO 8.
 
@@ -327,7 +335,9 @@ III.- Formular los estudios técnicos y operativos para determinar la necesidad 
 
 IV.- Formular los dictámenes que sirvan de base para el otorgamiento, modificación, revalidación, cancelación y revocación de permisos y concesiones;
 
-V.- Revalidar los permisos y concesiones en los casos procedentes y conforme al procedimiento establecido;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+
+V.- Dictaminar las solicitudes de revalidación de los permisos y concesiones, y someterlos a consideración del Presidente Municipal de Mexicali, Baja California, o del Comité de Concesiones y Permisos, respectivamente;
 
 VI.- Dictar las medidas tendientes al mejoramiento en la prestación del servicio de transporte del Municipio en los términos del Plan Maestro de Vialidad y Transporte;
 
@@ -3083,13 +3093,17 @@ IX.- Firma del solicitante o del representante legal cuando se trate de persona 
 
 El Sistema resolverá la solicitud antes de la fecha de vencimiento de la concesión, para lo cual previamente realizará los estudios técnicos y operativos, para verificar la eficacia y seguridad del servicio que se presta, considerando el interés público. Con base en los estudios y las valoraciones del Sistema respecto a la inversión de ampliación, mejoramiento y las demás proyecciones financieras y operativas que consideren la rentabilidad de la concesión, se determinará si la revalidación se puede autorizar con las condiciones en que fue originalmente otorgada (sic) o si es necesario (sic) su modificación.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+
 ###### ARTÍCULO 286.
 
-Si resultara procedente, previo dictamen que debe aprobarle el Comité, el Sistema autorizará la revalidación de la concesión. En caso contrario, se hará del conocimiento del Ayuntamiento para los efectos del otorgamiento de una nueva concesión.
+Si resultara procedente, previo dictamen que debe presentarle el Sistema, el Comité autorizará la revalidación de la concesión. En caso contrario, se hará del conocimiento del Ayuntamiento para los efectos del otorgamiento de una nueva concesión.
 
-El Sistema resolverá sobre la procedencia de la revalidación del permiso, previo dictamen que emita.
+El Sistema dictaminará sobre la procedencia de la revalidación de los permisos, y turnará su propuesta de resolución al Presidente Municipal de Mexicali, Baja California, para su emisión.
 
-Al revalidar la concesión y permiso, el Sistema podrá modificar las condiciones en que fue otorgada la concesión o permiso cuando así lo exija el interés público, o bien a propuesta de los propios concesionarios o permisionarios, sólo en los aspectos relativos a horarios, frecuencias, número de vehículos y extensiones o modificaciones de rutas.
+Al revalidar la concesión o permiso, se podrán modificar las condiciones en que fueron otorgados, cuando así lo exija el interés público, o bien a propuesta de los propios concesionarios o permisionarios, sólo en los aspectos relativos a horarios, frecuencias, número de vehículos y extensiones o modificaciones de rutas.
+
+El acuerdo que autorice la revalidación de una concesión o permiso, será firmado por el Presidente Municipal de Mexicali, Baja California, el Secretario del Ayuntamiento y el Director del Sistema Municipal del Transporte.
 
 ### CAPÍTULO XIV
 
@@ -3570,3 +3584,7 @@ TERCERO.- Para los efectos de la modernización del transporte público de pasaj
 P.O. 23 DE MAYO DE 2008.
 
 Único.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 2 DE ENERO DE 2009.
+
+ÚNICO: EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
