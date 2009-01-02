@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-30-2003-del-pleno-del-consejo-de-la-45049"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-06-12"
-last_updated: "2004-04-02"
+last_updated: "2009-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45049&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2003-06-09"
 
 ACUERDO GENERAL 30/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LOS ORGANOS, CRITERIOS Y PROCEDIMIENTOS INSTITUCIONALES PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA ESTE ORGANO DEL PODER JUDICIAL DE LA FEDERACION, LOS TRIBUNALES DE CIRCUITO Y LOS JUZGADOS DE DISTRITO
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL REGLAMENTO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL CONSEJO DE LA JUDICATURA FEDERAL PARA LA APLICACION DE LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL, PUBLICADO EN EL D.O.F. DEL 2 DE ABRIL DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO, CON EXCEPCION DE LOS ORGANOS SEÑALADOS EN DICHO ACUERDO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL 84/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 2 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: DEROGADO.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 12 de junio de 2003.
 
@@ -544,3 +544,11 @@ TERCERO. Los órganos establecidos en los Acuerdos Generales 9/2003, del Pleno d
 CUARTO. Con la salvedad establecida en el artículo transitorio que antecede, se derogan los Acuerdos Generales 9/2003, del Pleno de la Suprema Corte de Justicia de la Nación, emitido el veintisiete de mayo de dos mil tres y 30/2003, del Consejo de la Judicatura Federal, aprobado el nueve de junio de dos mil tres, así como las demás disposiciones derivadas de esos Acuerdos.
 
 QUINTO. La consulta física de los expedientes relativos a los asuntos jurisdiccionales o administrativos, que antes del doce de junio de dos mil tres habían concluido y se encontraban bajo resguardo de la Suprema Corte, del Consejo o de los Organos Jurisdiccionales se permitirá sin mayores restricciones que las necesarias para su conservación.
+
+D.O.F. 2 DE ENERO DE 2009.
+
+PRIMERO. El presente acuerdo entrará en vigor el dos de enero de dos mil nueve.
+
+SEGUNDO. Se abroga el Acuerdo General 30/2003, del Pleno del Consejo de la Judicatura Federal, que Establece los Organos, Criterios y Procedimientos Institucionales para la Transparencia y Acceso a la Información Pública para este Organo del Poder Judicial de la Federación, los Tribunales de Circuito y los Juzgados de Distrito; el Acuerdo General 3/2008, del Pleno del Consejo de la Judicatura Federal, que Establece los Lineamientos para la Elaboración de Versiones Públicas de las Resoluciones Judiciales de los Tribunales de Circuito y Juzgados de Distrito; el Acuerdo General 40/2008, del Pleno del Consejo de la Judicatura Federal, que Establece la Obligación de los Tribunales Colegiados de Circuito de Generar las Versiones Públicas de las Sentencias que Dicten y se Envíen al Semanario Judicial de la Federación para su Publicación, así como cualquier otra disposición general que se oponga a lo previsto en el presente acuerdo.
+
+TERCERO. Para su difusión, publíquese en el Diario Oficial de la Federación, en el Semanario Judicial y su Gaceta, así como en los medios electrónicos de consulta pública.
