@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2008-11-03"
+last_updated: "2009-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -735,7 +735,9 @@ El Cabildo por decisión de sus dos terceras partes podrá remover de su cargo a
 
 Podrá haber Comisiones colegiadas integradas por un mínimo de dos y un máximo de cinco integrantes del H. Ayuntamiento, y en las cuales el Regidor que la presida será el responsable del buen funcionamiento de la Comisión y de rendir informe de actividades al Secretario del H. Ayuntamiento.
 
-Cada Regidor deberá presidir una Comisión permanente como mínimo y no podrá integrarse en más de tres Comisiones permanentes.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2009)</small>
+
+Cada Regidor deberá presidir una Comisión permanente como mínimo y no podrá integrarse en más de cinco Comisiones permanentes.
 
 Las Comisiones serán encomendadas a los Regidores y Síndicos en congruencia con su profesión, aptitudes y experiencia.
 
@@ -18514,3 +18516,7 @@ DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 298, 306, 320, 321, 324, Y 545, SE 
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día 16 de noviembre del año 2008.
+
+P.O. 5 DE ENERO DE 2009.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
