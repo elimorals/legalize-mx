@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-para-el-5877
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-02-05"
-last_updated: "2008-02-05"
+last_updated: "2009-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58776&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-10-03"
 
 ESTATUTO ORGANICO DEL INSTITUTO DEL FONDO NACIONAL PARA EL CONSUMO DE LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 2009.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 5 de febrero de 2008.
 
@@ -199,11 +199,7 @@ f) Los demás que constituya el Consejo.
 
 IV. El Comité Directivo y los otros que constituya el Director General;
 
-V. Las Direcciones General Adjuntas que a continuación se señalan:
-
-a) De Planeación y Finanzas, y
-
-b) De Operación Comercial.
+V. (DEROGADA, D.O.F. 5 DE ENERO DE 2009)
 
 VI. Las Subdirecciones Generales que a continuación se señalan:
 
@@ -219,7 +215,9 @@ e) De Administración.
 
 VII. Abogado General;
 
-VIII. Direcciones Regionales;
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
+
+VIII. Direcciones Comerciales Regionales;
 
 IX. Direcciones Estatales y de Plaza;
 
@@ -321,9 +319,11 @@ Cada una de las organizaciones de patrones y de trabajadores, designará al Cons
 
 ## TITULO IV. DEL PERSONAL DIRECTIVO
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 15.
 
-El presente Estatuto establece las funciones, facultades, atribuciones y obligaciones de los servidores públicos de nivel directivo, con independencia de lo que establezca el Manual General de Organización del Instituto.
+El presente Estatuto establece las funciones, facultades, atribuciones y obligaciones de los servidores públicos de nivel directivo.
 
 Las funciones, facultades, atribuciones y obligaciones del personal distinto al mencionado en el párrafo anterior, serán previstas en el Manual General de Organización.
 
@@ -347,11 +347,15 @@ VI. Con el fin de dar cumplimiento al objeto del Instituto, podrá hacer ajustes
 
 VII. Las demás que le atribuyan el Consejo, la Ley, su Reglamento y la Ley Federal de las Entidades Paraestatales o cualquier otra disposición aplicable.
 
-### Capítulo II. DE LOS DIRECTORES GENERALES ADJUNTOS, SUBDIRECTORES GENERALES Y ABOGADO GENERAL
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 2009)</small>
+
+### Capítulo II. DE LOS SUBDIRECTORES GENERALES Y ABOGADO GENERAL
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 17.
 
-Los Directores Generales Adjuntos, Subdirectores Generales y el Abogado General del Instituto serán designados por el Consejo, a propuesta del Director General. El nombramiento deberá recaer en persona que reúna los siguientes requisitos:
+Los Subdirectores Generales y el Abogado General del Instituto serán designados por el Consejo, a propuesta del Director General. El nombramiento deberá recaer en persona que reúna los siguientes requisitos:
 
 I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
@@ -365,17 +369,23 @@ V. No haber sido sentenciado por delitos patrimoniales o inhabilitado para ejerc
 
 VI. Contar como mínimo con estudios de licenciatura y estudios en el ámbito de sus facultades.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 18.
 
-La realización de las operaciones del Instituto previstas en el artículo 9 de la Ley, serán responsabilidad de cada Dirección General Adjunta, Subdirección General o del Abogado General, en el ámbito de sus respectivas facultades.
+La realización de las operaciones del Instituto previstas en el artículo 9 de la Ley, serán responsabilidad de cada Subdirección General o del Abogado General, en el ámbito de sus respectivas facultades.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 19.
 
-Los Directores Generales Adjuntos, los Subdirectores Generales y el Abogado General del Instituto, tendrán las siguientes atribuciones y facultades:
+Los Subdirectores Generales y el Abogado General del Instituto, tendrán las siguientes atribuciones y facultades:
 
 I. Dirigir los programas y controlar las acciones de las unidades administrativas de su adscripción, que deberán ser congruentes con la planeación institucional;
 
-II. Suscribir, administrar y dar seguimiento a los contratos cuyo monto sea superior a 20,500 veces el salario mínimo general vigente en el Distrito Federal y cuyas áreas usuarias estén adscritas a la Dirección General Adjunta o a la Subdirección General a su cargo. En caso de estar involucradas las dos Direcciones Generales Adjuntas o dos o más Subdirecciones Generales, la suscripción, administración y seguimiento será mancomunada en el ámbito de su respectiva competencia;
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
+
+II. Suscribir, administrar y dar seguimiento a los contratos cuyo monto sea superior a 20,500 veces el salario mínimo general vigente en el Distrito Federal y cuyas áreas usuarias estén adscritas a la Subdirección General a su cargo. En caso de estar involucradas dos o más Subdirecciones Generales, la suscripción, administración y seguimiento será mancomunada en el ámbito de su respectiva competencia;
 
 III. Dirigir la integración de los anteproyectos de programas y presupuestos en el marco del programa estratégico y los programas operativo y financiero anuales;
 
@@ -403,57 +413,31 @@ XIV. Actuar como apoderados legales con poder general para actos de administraci
 
 XV. Actuar como apoderados legales con poder especial para que en nombre y representación del Instituto suscriban los convenios, contratos y documentos necesarios a efecto de que proceda a formalizar la cancelación parcial de las garantías otorgadas a favor del Instituto, previa autorización de las instancias competentes, sin que dichas autorizaciones deban ser acreditadas ante terceros;
 
-XVI. Otorgar y delegar facultades y poderes generales y especiales, para actos de administración y para pleitos y cobranzas, revocar unos y otros y sustituirlos en todo o en parte, conforme a las atribuciones conferidas a cada Director General Adjunto, Subdirector General o Abogado General;
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
+
+XVI. Otorgar y delegar facultades y poderes generales y especiales, para actos de administración y para pleitos y cobranzas, revocar unos y otros y sustituirlos en todo o en parte, conforme a las atribuciones conferidas a cada Subdirector General o Abogado General;
 
 XVII. Imponer las sanciones y medidas disciplinarias cuando el personal a su cargo incurra en irregularidades o faltas de carácter administrativo, y
 
 XVIII. Las demás que les otorgue expresamente el Director General y las que le confieran las disposiciones legales aplicables.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 20.
 
-Cada Director General Adjunto, Subdirector General y el Abogado General, para el desempeño de sus atribuciones y facultades contarán con las áreas y el personal que al efecto establezca el Manual General de Organización y la estructura aprobada, respectivamente.
+Cada Subdirector General y el Abogado General, para el desempeño de sus atribuciones y facultades contarán con las áreas y el personal que al efecto establezca el Manual General de Organización y la estructura aprobada, respectivamente.
 
 #### Sección Primera
 
 ###### ARTICULO 21.
 
-EL DIRECTOR GENERAL ADJUNTO DE PLANEACION Y FINANZAS tendrá las siguientes atribuciones y facultades:
-
-I. Acordar con el Director General, las directrices del Plan Estratégico a corto, mediano y largo plazo a fin de transmitirlas al resto de la organización para su implementación y alineamiento;
-
-II. Alinear las estrategias del área de Planeación y Finanzas al Plan Estratégico a fin de alcanzar los objetivos establecidos;
-
-III. Garantizar que las estrategias institucionales de planeación, mercadotecnia y finanzas converjan con los objetivos y estrategias de las otras áreas, a fin de generar las sinergias necesarias para el cumplimiento de los objetivos organizacionales;
-
-IV. Garantizar que la creación de productos y programas, así como las condiciones de financiamiento respondan a las estrategias del Instituto;
-
-V. Asegurar, en coordinación con los responsables de las demás áreas, el cumplimiento de los objetivos en el Plan Estratégico a fin de que lo planeado concuerde con lo logrado y se cumpla el crecimiento estipulado para los próximos años;
-
-VI. Propiciar que la operación del Instituto se dé en un entorno de motivación, trabajo en equipo, empoderamiento y desarrollo de personal que contribuya a generar un clima laboral de mejora continua, y
-
-VII. Las demás que señalen otras disposiciones legales, reglamentarias o administrativas y sus superiores jerárquicos, dentro de la esfera de sus facultades.
+(DEROGADO, D.O.F. 5 DE ENERO DE 2009)
 
 #### Sección Segunda
 
 ###### ARTICULO 22.
 
-EL DIRECTOR GENERAL ADJUNTO DE OPERACION COMERCIAL tendrá las siguientes atribuciones y facultades:
-
-I. Garantizar el alineamiento y cumplimiento de las estrategias, lineamientos, políticas y procedimientos de promoción y afiliación de trabajadores, Centros de Trabajo y Distribuidores al Plan Estratégico, a fin de cumplir con los objetivos planteados por el Instituto;
-
-II. Garantizar la sistematización de los procesos sustantivos y de soporte del Instituto, estableciendo el marco normativo de operación que permita lograr el cumplimiento de los indicadores establecidos en el Plan Estratégico;
-
-III. Garantizar que la promoción de la oferta de productos y servicios que se ofrecen a los mercados meta, estén alineados a lo establecido en el Plan Estratégico, con la finalidad de que se cumpla con los indicadores y en consecuencia, con los objetivos definidos para el Instituto;
-
-IV. Promover y negociar, con los grandes corporativos, los productos y servicios que el Instituto ofrece a fin de desarrollar convenios que incrementen las metas comerciales establecidas en el Plan Estratégico;
-
-V. Establecer alianzas con otras instituciones públicas y privadas generando convenios de colaboración que beneficien los intereses comerciales tanto del Instituto como los de la organización participante;
-
-VI. Diseñar y dirigir estrategias y lineamientos normativos que regulen la operación sustantiva del Instituto con el objetivo de estandarizar y optimizar los procesos operativos y generar valor a la organización;
-
-VII. Propiciar que la operación del Instituto se dé en un entorno de motivación, trabajo en equipo, corresponsabilidad y desarrollo de personal que contribuya a generar un clima laboral de mejora continua, y
-
-VIII. Las demás que señalen otras disposiciones legales, reglamentarias o administrativas y sus superiores jerárquicos, dentro de la esfera de sus facultades.
+(DEROGADO, D.O.F. 5 DE ENERO DE 2009)
 
 #### Sección Tercera
 
@@ -461,11 +445,19 @@ VIII. Las demás que señalen otras disposiciones legales, reglamentarias o admi
 
 EL SUBDIRECTOR GENERAL DE FINANZAS tendrá las siguientes atribuciones y facultades:
 
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 2009)</small>
+
 I. Proponer e instrumentar las estrategias financieras del Instituto para dotar de recursos económicos que den soporte a las operaciones del mismo;
+
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 2009)</small>
 
 II. Planear la viabilidad económica y financiera del Instituto a fin de garantizar la sostenibilidad de las operaciones en el mediano y largo plazo;
 
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 2009)</small>
+
 III. Proponer la cartera crediticia a ser asegurada;
+
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 2009)</small>
 
 IV. Asegurar la emisión de los reportes e informes contables y financieros tanto para uso interno como los requeridos por las autoridades reguladoras del Instituto a fin de cumplir oportunamente con las obligaciones establecidas;
 
@@ -483,9 +475,27 @@ X. Garantizar el control del nivel de endeudamiento del Instituto evaluando las 
 
 XI. Dirigir las estrategias necesarias que permitan dar cumplimiento a todas las normas de carácter contable, fiscal y normativo encaminadas a ofrecer total apego a las normas de información financiera que le apliquen;
 
-XII. Dirigir el desarrollo del personal del área, de conformidad con las estrategias y políticas del Instituto, para garantizar la consecución de los resultados y la continuidad de las operaciones del área a corto, mediano y largo plazo, y
+XII. Dirigir el desarrollo del personal del área, de conformidad con las estrategias y políticas del Instituto, para garantizar la consecución de los resultados y la continuidad de las operaciones del área a corto, mediano y largo plazo, y (sic)
 
-XIII. Las demás que le señalen otras disposiciones legales, reglamentarias o administrativas y sus superiores jerárquicos, dentro de la esfera de sus facultades.
+(ADICIONADA, D.O.F. 5 DE ENERO DE 2009) (F. DE E., D.O.F. 27 DE MARZO DE 2009)
+
+XIII. Garantizar que las estrategias institucionales de finanzas converjan con los objetivos y estrategias de las otras áreas, a fin de generar las sinergias necesarias para el cumplimiento de los objetivos organizacionales;
+
+(ADICIONADA, D.O.F. 5 DE ENERO DE 2009) (F. DE E., D.O.F. 27 DE MARZO DE 2009)
+
+XIV. Alinear las estrategias del área de Finanzas al Plan Estratégico a fin de alcanzar los objetivos establecidos;
+
+(ADICIONADA, D.O.F. 5 DE ENERO DE 2009) (F. DE E., D.O.F. 27 DE MARZO DE 2009)
+
+XV. Garantizar que las condiciones de financiamiento respondan a las estrategias del Instituto;
+
+(ADICIONADA, D.O.F. 5 DE ENERO DE 2009) (F. DE E., D.O.F. 27 DE MARZO DE 2009)
+
+XVI. Propiciar que la operación del Instituto se dé en un entorno de motivación, trabajo en equipo, empoderamiento y desarrollo de personal que contribuya a generar un clima laboral de mejora continua;
+
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 2009)</small>
+
+XVII. Las demás que le señalen otras disposiciones legales, reglamentarias o administrativas y sus superiores jerárquicos, dentro de la esfera de sus facultades.
 
 #### Sección Cuarta
 
@@ -493,17 +503,31 @@ XIII. Las demás que le señalen otras disposiciones legales, reglamentarias o a
 
 EL SUBDIRECTOR GENERAL DE PLANEACION ESTRATEGICA tendrá las siguientes atribuciones y facultades:
 
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 2009)</small>
+
 I. Dirigir y coordinar el proceso de planeación del Instituto a corto, mediano y largo plazo, con el propósito de formular el Plan Estratégico Institucional;
+
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 2009)</small>
 
 II. Definir y dirigir el desarrollo de las estrategias, lineamientos normativos, políticas y procedimientos para el desarrollo de nuevos productos, innovación tecnológica y gubernamental, promoción y publicidad, a fin de administrar la utilización de los recursos;
 
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 2009)</small>
+
 III. Dirigir los estudios de investigación del entorno económico, tecnológico y de mercado, con la finalidad de detectar y desarrollar nuevos productos, proyectos, servicios y procesos que permitan la permanencia, productividad y crecimiento del Instituto en el ámbito nacional;
+
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 2009)</small>
 
 IV. Dirigir la identificación de necesidades de trabajadores, Centros de Trabajo y Distribuidores, a fin de desarrollar los productos y servicios necesarios que permitan mantener e incrementar las operaciones del Instituto;
 
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 2009)</small>
+
 V. Definir y dirigir el diseño de estrategias de mercadotecnia y campañas de promoción y publicidad para productos y servicios del Instituto, a fin de difundir la imagen del Instituto y mantener e incrementar la afiliación de trabajadores, Centros de Trabajo y Distribuidores, así como la colocación de créditos;
 
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 2009)</small>
+
 VI. Dirigir la elaboración de informes y estudios estadísticos relativos a programas institucionales y reportes de transparencia y combate a la corrupción para presentarlos ante las autoridades gubernamentales correspondientes;
+
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 2009)</small>
 
 VII. Dirigir el proceso de implantación del Sistema de Gestión de la Calidad en los procesos del Instituto, incluyendo el diseño de los procesos de capacitación, documentación de procedimientos, auditorías de calidad y monitoreo a las áreas involucradas para la certificación de ISO 9001:2000;
 
@@ -511,9 +535,39 @@ VIII. Participar en el Comité Directivo del Instituto, para proponer y evaluar 
 
 IX. Participar en la definición y dirigir la integración de los asuntos que deben ser presentados a consideración del Organo de Gobierno;
 
-X. Dirigir el desarrollo del personal del área, de conformidad con las estrategias y políticas del Instituto, para garantizar la consecución de los resultados y la continuidad de las operaciones del área a corto, mediano y largo plazo, y
+X. Dirigir el desarrollo del personal del área, de conformidad con las estrategias y políticas del Instituto, para garantizar la consecución de los resultados y la continuidad de las operaciones del área a corto, mediano y largo plazo, y (sic)
 
-XI. Las demás que señalen otras disposiciones legales, reglamentarias o administrativas y su superior jerárquico, dentro de la esfera de sus facultades.
+(ADICIONADA, D.O.F. 5 DE ENERO DE 2009) (F. DE E., D.O.F. 27 DE MARZO DE 2009)
+
+XI. Garantizar que las estrategias institucionales de planeación y mercadotecnia converjan con los objetivos y estrategias de las otras áreas, a fin de generar las sinergias necesarias para el cumplimiento de los objetivos organizacionales;
+
+(ADICIONADA, D.O.F. 5 DE ENERO DE 2009) (F. DE E., D.O.F. 27 DE MARZO DE 2009)
+
+XII. Acordar con el Director General, las directrices del Plan Estratégico a corto, mediano y largo plazo a fin de transmitirlas al resto de la organización para su implementación y alineamiento;
+
+(ADICIONADA, D.O.F. 5 DE ENERO DE 2009) (F. DE E., D.O.F. 27 DE MARZO DE 2009)
+
+XIII. Alinear las estrategias del área de Planeación al Plan Estratégico a fin de alcanzar los objetivos establecidos;
+
+(ADICIONADA, D.O.F. 5 DE ENERO DE 2009) (F. DE E., D.O.F. 27 DE MARZO DE 2009)
+
+XIV. Asegurar, en coordinación con los responsables de las demás áreas, el cumplimiento de los objetivos en el Plan Estratégico a fin de que lo planeado concuerde con lo logrado y se cumpla el crecimiento estipulado para los próximos años;
+
+(ADICIONADA, D.O.F. 5 DE ENERO DE 2009) (F. DE E., D.O.F. 27 DE MARZO DE 2009)
+
+XV. Garantizar que la creación de productos y programas respondan a las estrategias del Instituto;
+
+(ADICIONADA, D.O.F. 5 DE ENERO DE 2009) (F. DE E., D.O.F. 27 DE MARZO DE 2009)
+
+XVI. Definir y dirigir el diseño de estrategias de mercadotecnia y campañas de promoción y publicidad para productos y servicios del Instituto, a fin de difundir la imagen del Instituto y mantener e incrementar la afiliación de trabajadores, Centros de Trabajo y Distribuidores, así como la colocación de créditos;
+
+(ADICIONADA, D.O.F. 5 DE ENERO DE 2009) (F. DE E., D.O.F. 27 DE MARZO DE 2009)
+
+XVII. Propiciar que la operación del Instituto se dé en un entorno de motivación, trabajo en equipo, empoderamiento y desarrollo de personal que contribuya a generar un clima laboral de mejora continua;
+
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 2009)</small>
+
+XVIII. Las demás que señalen otras disposiciones legales, reglamentarias o administrativas y su superior jerárquico, dentro de la esfera de sus facultades.
 
 #### Sección Quinta
 
@@ -521,9 +575,15 @@ XI. Las demás que señalen otras disposiciones legales, reglamentarias o admini
 
 EL SUBDIRECTOR GENERAL DE SISTEMAS Y OPERACION tendrá las siguientes atribuciones y facultades:
 
-I. Definir y dirigir el desarrollo de las estrategias, lineamientos normativos, políticas y procedimientos, en materia de crédito, cobranza y tecnología de información que serán ejecutados por las Direcciones Comerciales Regionales, Direcciones Estatales y de Plaza, a fin de homologar procesos y lograr una operación eficiente;
+(REFORMADA, D.O.F. 5 DE ENERO DE 2009) (F. DE E., D.O.F. 27 DE MARZO DE 2009)
+
+I. Diseñar y dirigir estrategias y lineamientos normativos, políticas y procedimientos que regulen la operación sustantiva del Instituto en materia de crédito, cobranza y tecnología de información que serán ejecutados por las Direcciones Comerciales Regionales, Direcciones Estatales y de Plaza, a fin de homologar procesos y lograr una operación eficiente; y generar valor a la organización;
+
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 2009)</small>
 
 II. Definir y garantizar la implementación de estrategias de desarrollo tecnológico que soporten los procesos sustantivos y adjetivos del Instituto con el objeto de optimizar y agilizar las operaciones en beneficio de los clientes y de los resultados del negocio;
+
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 2009)</small>
 
 III. Asegurar la optimización y sistematización de los procesos sustantivos del Instituto a fin de agilizar el servicio brindado a los trabajadores, Centros de Trabajo y Distribuidores, que permitan impactar en la mejora de indicadores de productividad del Instituto;
 
@@ -533,9 +593,19 @@ V. Asegurar el control y cumplimiento de los procesos relacionados con la solici
 
 VI. Definir y desarrollar los esquemas electrónicos del crédito para el Instituto que permitan incursionar en nuevas prácticas que faciliten la operación e incrementen el otorgamiento del mismo;
 
-VII. Dirigir el desarrollo del personal del área, de conformidad con las estrategias y políticas del Instituto, para garantizar la consecución de los resultados y la continuidad de las operaciones del área a corto, mediano y largo plazo, y
+VII. Dirigir el desarrollo del personal del área, de conformidad con las estrategias y políticas del Instituto, para garantizar la consecución de los resultados y la continuidad de las operaciones del área a corto, mediano y largo plazo, y (sic)
 
-VIII. Las demás que señalen otras disposiciones legales, reglamentarias o administrativas y sus superiores jerárquicos.
+(ADICIONADA, D.O.F. 5 DE ENERO DE 2009) (F. DE E., D.O.F. 27 DE MARZO DE 2009)
+
+VIII. Garantizar la optimización de los procesos sustantivos y de soporte del Instituto, estableciendo el marco normativo de operación que permita lograr el cumplimiento de los indicadores establecidos en el Plan Estratégico;
+
+(ADICIONADA, D.O.F. 5 DE ENERO DE 2009) (F. DE E., D.O.F. 27 DE MARZO DE 2009)
+
+IX. Propiciar que la operación del Instituto se dé en un entorno de motivación, trabajo en equipo, empoderamiento y desarrollo de personal que contribuya a generar un clima laboral de mejora continua;
+
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 2009)</small>
+
+X. Las demás que señalen otras disposiciones legales, reglamentarias o administrativas y sus superiores jerárquicos.
 
 #### Sección Sexta
 
@@ -543,21 +613,53 @@ VIII. Las demás que señalen otras disposiciones legales, reglamentarias o admi
 
 EL SUBDIRECTOR GENERAL COMERCIAL tendrá las siguientes atribuciones y facultades:
 
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 2009)</small>
+
 I. Dirigir los programas de promoción y afiliación de trabajadores, Centros de Trabajo y Distribuidores, que permitan difundir la oferta de productos y servicios del Instituto, a fin de incrementar la colocación de créditos en el ámbito nacional;
+
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 2009)</small>
 
 II. Dirigir los procesos de análisis y otorgamiento del crédito, así como su administración y recuperación para garantizar que éstos se otorguen y operen dentro de los lineamientos establecidos;
 
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 2009)</small>
+
 III. Asegurar la aplicación del proceso de crédito establecido en la norma ISO 9001:2000, con el objeto de que la operación cumpla con los Sistemas de Gestión de la Calidad y beneficie al usuario final;
 
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 2009)</small>
+
 IV. Establecer y proponer convenios y/o contratos con entidades públicas y privadas, para mantener la red de Distribuidores y Centros de Trabajo en el ámbito nacional, con el propósito de ampliar la cobertura de servicio y crédito del Instituto;
+
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 2009)</small>
 
 V. Evaluar la productividad y eficiencia de las Direcciones Comerciales Regionales, Direcciones Estatales y de Plaza, a fin de determinar la reubicación o apertura de las mismas, para cumplir los objetivos estratégicos establecidos;
 
 VI. Dirigir el desarrollo del personal del área, de conformidad con las estrategias y políticas del Instituto, para garantizar la consecución de los resultados y la continuidad de las operaciones del área a corto, mediano y largo plazo;
 
-VII. Definir el contenido, estacionalidad y programa de difusión de las campañas institucionales y locales a fin de favorecer el cumplimiento de las metas institucionales, y
+VII. Definir el contenido, estacionalidad y programa de difusión de las campañas institucionales y locales a fin de favorecer el cumplimiento de las metas institucionales, y (sic)
 
-VIII. Las demás que le señalen otras disposiciones legales, reglamentarias o administrativas y sus superiores jerárquicos.
+(ADICIONADA, D.O.F. 5 DE ENERO DE 2009) (F. DE E., D.O.F. 27 DE MARZO DE 2009)
+
+VIII. Garantizar que la promoción de la oferta de productos y servicios que se ofrecen a los mercados meta, estén alineados a lo establecido en el Plan Estratégico, con la finalidad de que se cumpla con los indicadores y, en consecuencia, con los objetivos definidos para el Instituto;
+
+(ADICIONADA, D.O.F. 5 DE ENERO DE 2009) (F. DE E., D.O.F. 27 DE MARZO DE 2009)
+
+IX. Garantizar el alineamiento y cumplimiento de las estrategias, lineamientos, políticas y procedimientos de promoción y afiliación de trabajadores, Centros de Trabajo y Distribuidores al Plan Estratégico, a fin de cumplir con los objetivos planteados por el Instituto;
+
+(ADICIONADA, D.O.F. 5 DE ENERO DE 2009) (F. DE E., D.O.F. 27 DE MARZO DE 2009)
+
+X. Promover y negociar, con los grandes corporativos, los productos y servicios que el Instituto ofrece a fin de desarrollar convenios que incrementen las metas comerciales establecidas en el Plan Estratégico;
+
+(ADICIONADA, D.O.F. 5 DE ENERO DE 2009) (F. DE E., D.O.F. 27 DE MARZO DE 2009)
+
+XI. Establecer alianzas con otras instituciones públicas y privadas generando convenios de colaboración que beneficien los intereses comerciales tanto del Instituto como los de la organización participante;
+
+(ADICIONADA, D.O.F. 5 DE ENERO DE 2009) (F. DE E., D.O.F. 27 DE MARZO DE 2009)
+
+XII. Propiciar que la operación del Instituto se dé en un entorno de motivación, trabajo en equipo, empoderamiento y desarrollo de personal que contribuya a generar un clima laboral de mejora continua;
+
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 2009)</small>
+
+XIII. Las demás que le señalen otras disposiciones legales, reglamentarias o administrativas y sus superiores jerárquicos.
 
 #### Sección Séptima
 
@@ -685,7 +787,9 @@ IX. Coordinar, planear y supervisar las actividades de promoción y operación d
 
 X. Las demás que le señalen otras disposiciones legales, reglamentarias o administrativas y de superiores jerárquicos, dentro de la esfera de sus facultades.
 
-### Capítulo V. DE LAS DIRECCIONES DE AREA
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 2009)</small>
+
+### Capítulo V. DIRECTORES DE AREA
 
 ###### ARTICULO 31.
 
@@ -701,7 +805,9 @@ IV. Formular los anteproyectos de programas y presupuestos que les correspondan 
 
 V. Imponer las sanciones y medidas disciplinarias cuando el personal a su cargo incurra en irregularidades o faltas de carácter administrativo;
 
-VI. Acordar con el Director General Adjunto o Subdirector General, según su adscripción, los asuntos inherentes al ejercicio de las funciones encomendadas en el ámbito de sus respectivas competencias, y
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
+
+VI. Acordar con el Subdirector General y con el Abogado General, según su adscripción, los asuntos inherentes al ejercicio de las funciones encomendadas en el ámbito de sus respectivas competencias, y
 
 VII. Las demás atribuciones, que en la materia de su competencia le sean autorizadas por acuerdo expreso del Director General o que les asigne el presente Estatuto.
 
@@ -931,7 +1037,9 @@ VI. Definir los requerimientos, características y criterios para soportar y sis
 
 VII. Coordinar la atención y respuesta a las auditorías, observaciones y acciones de mejora emitidas por los órganos de vigilancia para cumplir con la operación dentro de los marcos normativos establecidos;
 
-VIII. Asesorar y capacitar a las Direcciones Regionales, Estatales y de Plaza así como a las representaciones del Instituto en los procesos operativos de crédito, con el fin de brindar un mejor servicio a los trabajadores, Centros de Trabajo y Distribuidores;
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
+
+VIII. Asesorar y capacitar a las Direcciones Comerciales Regionales, Estatales y de Plaza así como a las representaciones del Instituto en los procesos operativos de crédito, con el fin de brindar un mejor servicio a los trabajadores, Centros de Trabajo y Distribuidores;
 
 IX. Proponer y asegurar la implementación de las tasas de financiamiento autorizadas para los créditos y programas vigilando su correcta aplicación a fin de que se cumpla la normatividad establecida;
 
@@ -1119,9 +1227,13 @@ XVI. Autorizar el dictamen respectivo que sirva de apoyo para la condonación y 
 
 XVII. En el ámbito de sus atribuciones y facultades, coordinar y evaluar contratos y convenios, con la finalidad de establecer los derechos y obligaciones correspondientes que permitan salvaguardar los intereses del Instituto y, en su caso, emitir opinión sobre cualquier tipo de instrumentos jurídicos que le correspondan;
 
-XVIII. Estimar el monto de pérdidas potenciales derivado de los asuntos en que el Instituto sea parte dentro de procesos o procedimientos judiciales, y
+XVIII. Estimar el monto de pérdidas potenciales derivado de los asuntos en que el Instituto sea parte dentro de procesos o procedimientos judiciales, y (sic)
 
-XIX. Las demás que señalen otras disposiciones legales, reglamentarias o administrativas y sus superiores jerárquicos, dentro de la esfera de sus facultades.
+> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2009)</small>
+
+XIX. Rescindir cualquier vínculo jurídico en los que el Instituto Fonacot sea parte;
+
+XX. Las demás que señalen otras disposiciones legales, reglamentarias o administrativas y sus superiores jerárquicos, dentro de la esfera de sus facultades.
 
 #### Sección Décima Séptima
 
@@ -1163,11 +1275,17 @@ XVI. Asegurar la modificación y actualización a la normatividad interna aplica
 
 XVII. Coordinar la actualización y elaboración de los instrumentos jurídicos que deriven de los cambios a las Políticas, Manuales, Reglas de Operación y Procedimientos;
 
-XVIII. Controlar el otorgamiento y, en su caso, el ejercicio del mandato otorgado a servidores públicos y prestadores externos de servicios, a fin de asegurar que lo utilicen para salvaguardar los intereses del Instituto, y
+XVIII. Controlar el otorgamiento y, en su caso, el ejercicio del mandato otorgado a servidores públicos y prestadores externos de servicios, a fin de asegurar que lo utilicen para salvaguardar los intereses del Instituto, y (sic)
 
-XIX. Proporcionar asesoría jurídica al personal de las diferentes áreas del Fonacot a efecto de que su desempeño se desarrolle conforme a derecho;
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
 
-XX. Las demás que señalen otras disposiciones legales, reglamentarias o administrativas y sus superiores jerárquicos, dentro de la esfera de sus facultades.
+XIX. Proporcionar asesoría jurídica al personal de las diferentes áreas del Instituto Fonacot a efecto de que su desempeño se desarrolle conforme a derecho;
+
+> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2009)</small>
+
+XX. Rescindir cualquier vínculo jurídico en los que el Instituto Fonacot sea parte;
+
+XXI. Las demás que señalen otras disposiciones legales, reglamentarias o administrativas y sus superiores jerárquicos, dentro de la esfera de sus facultades.
 
 #### Sección Décima Octava
 
@@ -1191,21 +1309,31 @@ VII. Coordinar las modificaciones a los convenios e instrumentos normativos deri
 
 VIII. Dirigir la celebración de convenios de terminación de las relaciones individuales de trabajo, a fin de asegurar que no se violen derechos laborales y prevenir contingencias laborales;
 
-IX. Dirigir las investigaciones laborales de trabajadores cuando se considere que existen indicios suficientes de la posible existencia de responsabilidad para allegarse de elementos tendientes a ejecutar las acciones legales a que haya lugar, o imponer las sanciones derivadas del procedimiento de investigación señalado en el Contrato Colectivo de Trabajo;
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
 
-X. Fungir como enlace en la atención de los asuntos laborales del Instituto, cuando sean atendidos a través de prestadores externos de servicios profesionales;
+IX. Dirigir las investigaciones laborales de trabajadores cuando se considere que existen indicios suficientes de la posible existencia de responsabilidad para allegarse de elementos tendientes a ejecutar las acciones laborales a que haya lugar;
 
-XI. Coordinar con la Dirección de Desarrollo de Factor Humano la formalización de instrumentos jurídicos relativos al cumplimiento de las prestaciones contenidas en el Contrato Colectivo de Trabajo;
+> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2009)</small>
 
-XII. Determinar las gestiones judiciales que se ejecuten en la secuela procesal de los juicios administrativos, laborales y mercantiles para obtener sentencias o laudos favorables para el Instituto;
+X. Imponer las sanciones laborales derivadas del procedimiento de investigación señalado en el Contrato Colectivo de Trabajo;
 
-XIII. Dirigir y coordinar a los despachos externos contratados por el Instituto en los procedimientos judiciales que le sean turnados desde el inicio del asunto y hasta su total conclusión;
+XI. Fungir como enlace en la atención de los asuntos laborales del Instituto, cuando sean atendidos a través de prestadores externos de servicios profesionales;
 
-XIV. Controlar los procedimientos ante PROFECO derivados de las quejas interpuestas por los usuarios, verificando que no se violen disposiciones normativas relativas al otorgamiento de crédito para resolver estas controversias y evitar el detrimento de la imagen institucional o la imposición de multas;
+XII. Coordinar con la Dirección de Desarrollo de Factor Humano la formalización de instrumentos jurídicos relativos al cumplimiento de las prestaciones contenidas en el Contrato Colectivo de Trabajo;
 
-XV. Evaluar las quejas y procedimientos iniciados ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros a nivel nacional, y
+XIII. Determinar las gestiones judiciales que se ejecuten en la secuela procesal de los juicios administrativos, laborales y mercantiles para obtener sentencias o laudos favorables para el Instituto;
 
-XVI. Las demás que señalen otras disposiciones legales, reglamentarias o administrativas y sus superiores jerárquicos, dentro de la esfera de sus facultades.
+XIV. Dirigir y coordinar a los despachos externos contratados por el Instituto en los procedimientos judiciales que le sean turnados desde el inicio del asunto y hasta su total conclusión;
+
+XV. Controlar los procedimientos ante PROFECO derivados de las quejas interpuestas por los usuarios, verificando que no se violen disposiciones normativas relativas al otorgamiento de crédito para resolver estas controversias y evitar el detrimento de la imagen institucional o la imposición de multas;
+
+XVI. Evaluar las quejas y procedimientos iniciados ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros a nivel nacional, y (sic)
+
+> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2009)</small>
+
+XVII. Rescindir cualquier vínculo jurídico en los que el Instituto Fonacot sea parte;
+
+XVIII. Las demás que señalen otras disposiciones legales, reglamentarias o administrativas y sus superiores jerárquicos, dentro de la esfera de sus facultades.
 
 ## TITULO V. DE LOS COMITES DE APOYO DEL INSTITUTO
 
@@ -1413,9 +1541,13 @@ II. Un profesionista independiente con amplia experiencia en la materia;
 
 III. Un especialista del sector de los trabajadores;
 
-IV. El Subdirector General de Operaciones;
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
 
-V. El Subdirector General de Planeación, y
+IV. El Subdirector General de Sistemas y Operación;
+
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
+
+V. El Subdirector General de Planeación Estratégica, y
 
 VI. El Director de Desarrollo de Mercados.
 
@@ -1483,9 +1615,13 @@ IV. Un profesionista independiente con amplia experiencia en la materia creditic
 
 V. Un especialista del sector de los trabajadores;
 
-VI. El Subdirector General de Operaciones;
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
 
-VII. El Subdirector General de Planeación;
+VI. El Subdirector General de Sistemas y Operación;
+
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
+
+VII. El Subdirector General de Planeación Estratégica;
 
 VIII. El Director de Crédito, y
 
@@ -1591,9 +1727,15 @@ El titular del Organo Interno de Control en el Instituto participará, con voz p
 
 El titular del Organo Interno de Control, en su carácter de secretario, acordará con el presidente del Comité los asuntos a tratar en el seno del mismo y lo mantendrá informado, a través de los documentos denominados “informes ejecutivos de auditoría”, y podrá inscribir asuntos en el orden del día que considere necesarios.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 82.
 
-Serán invitados permanentes: el Director General del Instituto y los Subdirectores Generales de Operaciones, Planeación, y Administración, así como el titular del área de auditoría interna del Organo Interno de Control y el Auditor Externo del Instituto.
+Serán invitados permanentes: el Director General del Instituto y los Subdirectores Generales de Sistemas y Operación, Planeación Estratégica, y Administración, así como el titular del área de auditoría interna del Organo Interno de Control y el Auditor Externo del Instituto.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
+Podrán asistir como invitados el Subdirector General Comercial y el Abogado General. Así mismo podrán considerarse invitados específicos por los temas que se puedan tratar.
 
 Además, se podrá invitar a cualquier otra persona que tenga relación con los asuntos a tratar, quien comparecerá con voz pero sin voto.
 
@@ -1679,7 +1821,13 @@ V. El Subdirector General de Finanzas, y
 
 VI. El Director de Administración de Riesgos.
 
-Los Subdirectores Generales de Operaciones, de Planeación, y de Administración, podrán participar como invitados de este Comité.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
+Los Subdirectores Generales de Sistemas y Operación, de Planeación Estratégica, y de Administración, podrán participar como invitados de este Comité.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
+Podrán asistir como invitados el Subdirector General Comercial y el Abogado General. Así mismo podrán considerarse invitados específicos por los temas que se puedan tratar.
 
 El servidor público del Instituto que designe el Director General fungirá como Secretario del Comité y tendrá voz pero no voto.
 
@@ -1843,7 +1991,7 @@ El Comité Directivo estará integrado por:
 
 I. El Director General, quien fungirá como Presidente del Comité;
 
-II. Los Directores Generales Adjuntos;
+II. (DEROGADA, D.O.F. 5 DE ENERO DE 2009)
 
 III. Los Subdirectores Generales;
 
@@ -1901,25 +2049,33 @@ Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de
 
 ## TITULO VIII. DEL EJERCICIO DE LAS ATRIBUCIONES
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 107.
 
-Las atribuciones encomendadas por este Estatuto a los titulares de las Direcciones Generales Adjuntas, las Subdirecciones Generales o al Abogado General, podrán, previo acuerdo, ser ejercidas según sea el caso, por los Directores Regionales, Estatales y de área, de la Subdirección General correspondiente.
+Las atribuciones encomendadas por este Estatuto a los titulares de las Subdirecciones Generales o al Abogado General, podrán, previo acuerdo, ser ejercidas según sea el caso, por los Directores Comerciales Regionales, Estatales y de Plaza y de Area, de la Subdirección General correspondiente o de la Oficina del Abogado General.
 
 ## TITULO IX. DE LA AUSENCIA Y SUPLENCIA DE LOS SERVIDORES PUBLICOS
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 108.
 
-Las ausencias del Director General, serán suplidas por el servidor público de la jerarquía inmediata inferior que él designe y, a falta de dicha designación, serán suplidas por el Director General Adjunto de Planeación y Finanzas, el Director General Adjunto de Operación Comercial, los Subdirectores Generales de Operación y Sistemas; de Administración y Abogado General, en ese orden.
+Las ausencias del Director General, serán suplidas por el servidor público de la jerarquía inmediata inferior que él designe y, a falta de dicha designación, serán suplidas por los Subdirectores Generales de Sistemas y Operación; Planeación Estratégica; Finanzas; Comercial; de Administración y Abogado General, en ese orden.
 
-En los juicios de amparo o, en cualquier otro procedimiento jurisdiccional o contencioso administrativo, inclusive en materia laboral, el Director General podrá ser suplido por el Abogado General o por alguno de los Directores de dicha Subdirección.
+En los juicios de amparo o, en cualquier otro procedimiento jurisdiccional o contencioso administrativo, inclusive en materia laboral, el Director General podrá ser suplido por el Abogado General o por alguno de los Directores de la Oficina del Abogado General.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 109.
 
-Los titulares de las Direcciones Generales Adjuntas, de las Subdirecciones Generales y el Abogado General, serán suplidos entre sí en sus ausencias temporales, indistintamente, previo acuerdo del Director General.
+Los titulares de las Subdirecciones Generales y el Abogado General, serán suplidos entre sí en sus ausencias temporales, indistintamente, previo acuerdo del Director General.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 110.
 
-Los Directores Regionales serán suplidos en sus ausencias indistintamente por los Directores Estatales o de Plaza. Los Directores Estatales serán suplidos por los Coordinadores.
+Los Directores Comerciales Regionales serán suplidos en sus ausencias indistintamente por los Directores Estatales o de Plaza. Los Directores Estatales serán suplidos por los Coordinadores.
 
 ## TRANSITORIOS
 
@@ -1934,3 +2090,9 @@ Para el cumplimiento de lo anterior, el Consejo Directivo del Instituto del Fond
 El presente Estatuto Orgánico, se expide con la aprobación del Consejo Directivo del Instituto del Fondo Nacional para el Consumo de los Trabajadores, en términos de lo dispuesto por el artículo quinto transitorio de la Ley que crea al Instituto del Fondo Nacional para el Consumo de los Trabajadores.
 
 México, D.F., a 4 de octubre de 2007.- El Director General del Instituto del Fondo Nacional para el Consumo de los Trabajadores, Arsenio Díaz Escalante.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 5 DE ENERO DE 2009.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
