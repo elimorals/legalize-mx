@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2008-07-21"
+last_updated: "2009-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE JESUS MARIA, AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2009.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -52,11 +52,27 @@ El territorio del Municipio de Jesús María, cuenta con una superficie total de
 
 Al Norte, con los Municipios de San José de Gracia, Pabellón de Arteaga, San Francisco de los Romo; al Este, con el Municipio de Aguascalientes; al Sur, con el Municipio de Aguascalientes, y al Oeste, con el Municipio de Calvillo.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 4o.
 
-El territorio del Municipio de Jesús María está dividido en cinco Delegaciones y Cabecera Municipal. las Delegaciones son: San Antonio de los Horcones, Maravillas, Gral. Ignacio Zaragoza o Venadero, J. Gómez Portugal o Margaritas y Valladolid; la Cabecera Municipal de nombre Jesús María. Las localidades pertenecientes al Municipio de Jesús María, serán las siguientes: Agua Amarilla, El Alto o La Concepción, Las Amarillas, Los Arenales, Los Arquitos, Arroyo Hondo o La Salve, Bajío de las Liebres, El Aurero, Los Gavilanes, Avícola El Llano, La Barranca, Boca del Coyote, La Boquilla, Las Bóvedas, Brownsville, Buena Vista, El Canutillo, Canteritas, Cañada del Rodeo, La Cañada, El Capricho, Cavas de Fontenac, Cavas de Montoro, El Cenizo, El Centro, Cieneguitas, Las Claras, Club Hípico San Marcos, Colonia Nueva, Colonia la Providencia, Margaritas, El Colorín, El Conejo o Puerta El Llano, El Cordero, Corral Colorado, Corral de Barrancos, El Cortijo, Crucero Gracias a Dios, Las Cruces, Los Cuartos, El Chacho o Las Cruces, La Chaveña, El Chavenal, Chichihuas, El Chichimeco, Ejido El Aurero, La Esperanza o La Máquina, La Florida, La Forestal, Los Gavilanes, El Gemelo, General Ignacio Zaragoza o Venadero, Gracias a Dios, Granja Albamex, Granja Aparicio, Granja Las Bugambilias, Granja Camino Real, Granja Chispiritos, Granja Elizondo, Granja Estelita, Granja El Refugio, Granja El Refugio de los Arquitos, Granja El Sol, Granja Imelda, Granja Lizzy, Granja Ma. Eugenia, Miravalle, Granja Pikita, Granja Santa Elena, Granja Troncales, La Granjita, Hípico Valladolid, Hípico Villa Asunción, Las Isabeles, La Isla o San Francisco, Las Jaulas, Jesús Gómez Portugal o Margaritas, Jesús María, El Jilotito, La Ladrillera, Loma Bonita, La Loma de Maravillas, La Loma de Valladolid, La Loma, Lomas de Vergeles, La Lomita de Paso Blanco o Las Canoas, El Llano, El Llano o San Isidro, El Maguey, La Malobra, Maravillas, Mesa de las Carretas o un Nuevo Amanecer, La Mesa del Contadero o El Contadero, Milpillas de Arriba, La Miniatura, Los Muñoz, Paso Blanco, Las Palomas, El Pedernal Primero, El Pedernal Segundo, El Perjuicio, Rancho Piedrafita, Piedras Negras, La Pileta, Las Polleras, Los Ponce, El Potrero, La Posta, Pocitos, Potrero del Espejo, (San Isidro), Presa Abelardo Rodríguez, Presa de Huijolotes, La Presita, La Primavera, La Providencia o La Loma, Puente de Villalpando o El Puente, La Puerta del Chaveña, Puerta del Llano o San Isidro, La Puerta del Sol, Quinta La Chiquis, Quinta Sofía o La Matutina, La Quinta, Quinta Sonia Leticia, Los Ramírez, Rancho Casa Blanca, Rancho El Castillo, Rancho El Feo, Rancho el Lucero, Rancho la Laguna, Rancho La Primavera, Rancho Los Campos, Rancho Los Martínez o Rancho María Antonieta, Rancho María Teresa, Rancho Seco, Rancho Yaya, El Rastro, El Refugio, El Retiro, Rila, La Rinconada, El Rinconcito Lejano, El Rosario, San Antonio de los Horcones, San Cristóbal, San Guillermo o Rancho Viejo, San Isidro, San Lorenzo, San Isidro de los Muñoz o San Isidro, San Jacobo, San Juan de Dios, San Miguel de Díaz, San Nicolás o Las Huertas, Santa Elena, Santa Fe, Los Sauces, Sector Dos Los Cuartos, Sector Nueve Santa Elena, Sector Seis La Providencia, Sector Diez Las Liebres, Sector Siete San Isidro, Sector Uno Las Ladrilleras, Sector Uno Benigno Chávez, Sector Venustiano Carranza, La Soledad, Tapias Viejas, Tepetates, La Tomatina, Las Tranquitas, Unión de Ladrilleros, Valladolid, El Varal, Los Vázquez, Venaderito, La Ventana, Villas de Guadalupe, Fraccionamiento Villas de Monteclaro, Viñedos Coral, Viñedos Don Trini o Jaltipa, Viñedos Eva o Fraccionamiento Paso Blanco, Viñedos Frutilandia, Viñedos Ríos o Granja Chispiritos, Don Trini, Viñedos Ríos o Viñedos Silvia, Vista Hermosa, Viznaga, El Zapote, Sector Tres Benito Juárez, La Soledad, El Tepetate, El Varal, Los Vázquez, La Ventana, Rancho El Vergel, Viñedos Elizondo, Potrero de las Escobas, El Chaveño, El Chacho (de Ags. ó Jesús María), La Escondida, Santa Elena (aparece como localidad sin nombre), Sartenejo, Viñedos Ríos o V. El Panal, El Llano (San Isidro), La Soledad, Milpillas de Abajo, La Soledad (por donde está Gracias a Dios), La Soledad (Poniente de Margaritas), La Soledad (Carr. 45), Potrero del Espejo (San Isidro), La Loma, San Isidro, El Llano (San Isidro).
+El territorio del Municipio de Jesús María estará dividido en una Cabecera Municipal y Seis Delegaciones. La Cabecera Municipal se denominará Jesús María.
+
+Las Delegaciones son las siguientes:
+
+I.- San Antonio de los Horcones;
+
+II.- Maravillas;
+
+III.- Gral. Ignacio Zaragoza o Venadero;
+
+IV.- J. Gómez Portugal o Margaritas;
+
+V.- Valladolid; y
+
+VI.- Paseo de "Las Arboledas", que contará con la siguiente jurisdicción: Al Norte, con Río Chicalote; Al Oriente, con la Carretera Federal Número 45 Norte, y bordeando todo el límite del Municipio; Al Sur, con límite del Municipio; y Al Oriente, con Calle Prolongación Zaragoza y su proyecto de continuación, hasta cerrar el polígono en la intersección con el Río Chicalote.
+
+Las localidades pertenecientes al municipio de Jesús María, son las siguientes: "Agua Amarilla"; "El Alto o La Concepción"; "Las Amarillas"; "Los Arenales"; "Los Arquitos"; "Arroyo Hondo" o "La Salve"; "Bajío de las Liebres"; "El Aurero"; "Los Gavilanes"; "Avícola El Llano"; "La Barranca"; "Boca del Coyote"; "La Boquilla"; "Las Bóvedas"; "Brownsville"; "Buena Vista"; "El Canutillo"; "Canteritas"; "Cañada del Rodeo"; "La Cañada"; "El Capricho"; "Cavas de Fontenac"; "Cavas de Montoro"; "El Cenizo"; "El Centro"; "Cieneguitas"; "Las Claras"; "Club Hípico San Marcos"; "Colonia Nueva"; "Colonia La Providencia"; "Margaritas"; "El Colorín"; "El Conejo" o "Puerta El Llano”; “El Cordero”; “Corral Colorado”; “Corral de Barrancos”; “El Cortijo”; “Crucero Gracias Dios"; "Las Cruces"; "Los Cuartos"; "El Chacho" o "Las Cruces"; "La Chaveña"; "El Chavenal"; "Chichihuas"; "El Chichimeco"; "Ejido El Aurero"; "La Esperanza" o "La Máquina"; "La Florida"; "La Forestal"; "Los Gavilanes"; "El Gemelo"; "General Ignacio Zaragoza" o "Venadero"; "Gracias a Dios"; "Granja Albamex"; "Granja Aparicio"; "Granja Las Bugambilias"; "Granja Camino Real"; "Granja Chispiritos"; "Granja Elizondo"; "Granja Estelita"; "Granja El Refugio"; "Granja El Refugio de los Arquitos"; "Granja El Sol"; "Granja Imelda"; "Granja Lizzy."; "Granja Ma. Eugenia"; "Miravalle"; "Granja Pikita"; "Granja Santa Elena"; "Granja Troncales"; "La Granjita"; "Hípico Valladolid"; "Hípico Villa Asunción"; "Las Isabeles"; "La Isla" o "San Francisco"; "Las Jaulas"; "Jesús Gómez Portugal" o "Margaritas"; "Jesús María"; "El Jilotito"; "La Ladrillera"; "Loma Bonita"; "La Loma de Maravillas"; "La Loma de Valladolid"; "La Loma"; "Lomas de Vergeles"; "La Lomita de Paso Blanco" o "Las Canoas"; "El Llano"; "El Llano" o "San Isidro"; "El Maguey"; "La Malobra"; "Maravillas"; "Mesa de las Carretas" o "Un Nuevo Amanecer"; "La Mesa del Contadero" o "El Contadero"; "Milpillas de Arriba"; "La Miniatura"; "Los Muñoz"; "Paso Blanco"; "Las Palomas"; "El Perjuicio"; "Rancho Piedrafita"; "Piedras Negras"; "La Pileta"; "Las Polleras"; "Los Ponce"; "El Potrero"; "La Posta"; "Pocitos"; "Potrero del Espejo" ("San Isidro"); "Presa Abelardo Rodríguez"; "Presa de Huijolotes"; "La Presita"; "La Primavera"; "La Providencia" o "La Loma"; "Puente de Villalpando" o "El Puente"; "La Puerta del Chaveña"; "Puerta del Llano" o "San Isidro"; "La Puerta del Sol"; "Quinta La Chiquis"; "Quinta Sofía" o "La Matutina"; "La Quinta"; "Quinta Sonia Leticia"; "Los Ramírez"; "Rancho Casa Blanca"; "Rancho El Castillo"; "Rancho El Feo"; "Rancho El Lucero": "Rancho La Laguna"; "Rancho La Primavera"; “Rancho Los Campos"; "Rancho Los Martínez" o "Rancho Maria Antonieta"; "Rancho Maria Teresa"; "Rancho Seco"; "Rancho Yaya"; "El Rastro"; "El Refugio"; "El Retiro"; "Rila"; "La Rinconada"; "El Rinconcito Lejano"; "El Rosario"; "San Antonio de los Horcones"; "San Cristóbal"; "San Guillermo" o "Rancho Viejo"; "San Isidro"; "San Lorenzo"; "San Isidro de Los Muñoz" o "San Isidro"; "San Jacobo"; "San Juan de Dios"; "San Miguel de Díaz"; "San Nicolás" o "Las Huertas"; "Santa Elena"; "Santa Fe"; "Los Sauces"; "Sector Dos Los Cuartos"; "Sector Nueve Santa Elena"; "Sector Seis La Providencia"; "Sector Diez Las Liebres"; "Sector Siete San Isidro"; "Sector Uno Las Ladrilleras"; "Sector Uno Benigno Chávez"; "Sector Venustiano Carranza"; "La Soledad"; "Tapias Viejas"; "Tepetates"; "La Tomatina"; "Las Tranquitas"; "Unión de Ladrilleros"; "Valladolid"; "El Varal"; "Los Vázquez"; "Venaderito"; "La Ventana"; "Villas de Guadalupe"; "Fraccionamiento Villas de Monteclaro"; "Viñedos Coral"; "Viñedos Don Trini" o "Jaltipa"; "Viñedos Eva" o "Fraccionamiento Paso Blanco"; "Viñedos Frutilandia"; ''Viñedos Rios" o "Granja Chispiritos"; "Don Trini"; ''Viñedos Ríos" o "Viñedos Silvia"; "Vista Hermosa"; "Viznaga"; "El Zapote"; "Sector Tres Benito Juárez"; "La Soledad"; "El Tepetate"; "El Varal"; "Los Vázquez"; "La Ventana"; "Rancho El Vergel"; "Viñedos Elizondo"; "Potrero de Las Escobas"; "El Chaveño"; "EI Chacho" (de Ags. ó Jesús María); "La Escondida"; "Santa Elena" (aparece como localidad sin nombre): "Sartenejo"; "Viñedos Ríos" o "Viñedos El Panal"; "El Llano" ("San Isidro"); "La Soledad"; "Milpillas de Abajo"; "La Soledad" (por donde está "Gracias a Dios"); "La Soledad" (Poniente de "Margaritas"); "La Soledad" (Carretera 45); "Potrero del Espejo" ("San Isidro"); "La Loma"; "San Isidro" y "El Llano" ("San Isidro").
 
 ### CAPITULO SEGUNDO. Nombre y Escudo
 
@@ -14405,5 +14421,11 @@ SEGUNDO.- Las reformas aprobadas, entrarán en vigor al día siguiente de su pub
 P.O. 21 DE JULIO DE 2008.
 
 ...
+
+SEGUNDO.- Las reformas aprobadas, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE ENERO DE 2009.
+
+....
 
 SEGUNDO.- Las reformas aprobadas, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
