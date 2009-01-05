@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-44-2007-del-pleno-del-consejo-de-la-57290"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-10-30"
-last_updated: "2007-10-30"
+last_updated: "2009-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57290&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2007-10-16"
 
 ACUERDO GENERAL 44/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS DE OPOSICION LIBRES PARA LA DESIGNACION DE JUECES DE DISTRITO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 83/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 5 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 30 de octubre de 2007.
 
@@ -532,3 +534,13 @@ CUARTO. Comuníquese al Pleno de la Suprema Corte de Justicia de la Nación, el 
 QUINTO. En virtud de que el Pleno del Consejo en sesión ordinaria celebrada el 28 de febrero de dos mil siete, suspendió el Tercer Concurso de Oposición Libre para la Designación de Jueces de Distrito, se ordena cancelarlo por no ajustarse a los términos del presente Acuerdo.
 
 El LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 44/2007, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Capítulo I del Título Séptimo de la Ley Orgánica del Poder Judicial de la Federación, por el que se Establecen los Lineamientos Generales para la Celebración de Concursos de Oposición Libres para la Designación de Jueces de Distrito, fue aprobado en sesión extraordinaria de dieciséis de octubre de dos mil siete, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Miguel A. Quirós Pérez y Oscar Vázquez Marín.- México, Distrito Federal, a veintitrés de octubre de dos mil siete.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 5 DE ENERO DE 2009.
+
+PRIMERO. El presente acuerdo general entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y será aplicable para concursos que en el futuro se convoquen.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en la página web del Consejo.
+
+TERCERO. Se abroga el Acuerdo General 44/2007 del Pleno del Consejo de la Judicatura Federal.
