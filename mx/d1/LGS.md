@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2008-12-15"
+last_updated: "2009-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 2009.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -220,9 +220,15 @@ XXVIII.- El control sanitario de la disposición de órganos, tejidos y sus comp
 
 XXVIII bis.- El control sanitario de cadáveres de seres humanos;
 
-XXIX.- La sanidad internacional, y
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
 
-XXX.- Las demás materias que establezca esta Ley y otros ordenamientos legales, de conformidad con el párrafo tercero del artículo 4o. Constitucional.
+XXIX.- La sanidad internacional;
+
+> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2009)</small>
+
+XXX.- El tratamiento integral del dolor, y
+
+XXXI.- Las demás materias que establezca esta Ley y otros ordenamientos legales, de conformidad con el párrafo tercero del artículo 4o. Constitucional.
 
 ###### ARTICULO 4o.
 
@@ -454,9 +460,9 @@ X.- Las demás que sean necesarias para hacer efectivas las facultades anteriore
 
 B. Corresponde a los gobiernos de las entidades federativas, en materia de salubridad general, como autoridades locales y dentro de sus respectivas jurisdicciones territoriales:
 
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
 
-I.- Organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general a que se refieren las fracciones II, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII y XXVIII Bis del artículo 3o. de esta Ley, de conformidad con las disposiciones aplicables;
+I.- Organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general a que se refieren las fracciones II, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXVIII Bis y XXX del artículo 3o. de esta Ley, de conformidad con las disposiciones aplicables;
 
 II.- Coadyuvar a la consolidación y funcionamiento del Sistema Nacional de Salud, y planear, organizar y desarrollar sistemas estatales de salud, procurando su participación programática en el primero;
 
@@ -676,7 +682,9 @@ I.- La educación para la salud, la promoción del saneamiento básico y el mejo
 
 II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
-III.- La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias;
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
+
+III.- La atención médica integral, que comprende actividades preventivas, curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias;
 
 IV.- La atención materno-infantil;
 
@@ -732,9 +740,17 @@ Las actividades de atención médica son:
 
 I.- Preventivas, que incluyen las de promoción general y las de protección específica;
 
-II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno, y
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
 
-III.- De rehabilitación, que incluyen acciones tendientes a corregir las invalideces físicas o mentales.
+II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno;
+
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
+
+III.- De rehabilitación, que incluyen acciones tendientes a corregir las invalideces físicas o mentales, y
+
+> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2009)</small>
+
+IV.- Paliativas, que incluyen el cuidado integral para preservar la calidad de vida del paciente, a través de la prevención, tratamiento y control del dolor, y otros síntomas físicos y emocionales por parte de un equipo profesional multidisciplinario.
 
 ### CAPITULO III. Prestadores de Servicios de Salud
 
@@ -910,9 +926,11 @@ VI.- Información a las autoridades competentes de las irregularidades o deficie
 
 VII.- Otras actividades que coadyuven a la protección de la salud.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 59.
 
-Las dependencias y entidades del sector salud y los gobiernos de las entidades federativas, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades y accidentes, y de prevención de invalidez y de rehabilitación de inválidos.
+Las dependencias y entidades del sector salud y los gobiernos de las entidades federativas, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades y accidentes, y de prevención de invalidez y de rehabilitación de inválidos, así como en los cuidados paliativos.
 
 ###### ARTICULO 60.
 
@@ -1934,9 +1952,9 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Prorporcionar (sic) a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
 
-> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades.
+III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgos de automedicación, prevención de fármacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -2104,7 +2122,9 @@ La Secretaría de Salud y las autoridades federales, estatales y municipales en 
 
 Sin perjuicio de lo que establecen la Ley Federal del Trabajo y sus reglamentos, en relación con labores peligrosas e insalubres, el cuerpo humano sólo podrá ser expuesto a radiaciones dentro de los máximos permisibles que establezca la Secretaría de Salud, incluyendo sus aplicaciones para la investigación médica y de diagnóstico y terapéutica.
 
-### CAPITULO UNICO
+### CAPÍTULO I. Disposiciones Comunes
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 128.
 
@@ -2144,11 +2164,13 @@ La Secretaría de Salud llevará a cabo programas tendientes a prevenir accident
 
 Para los efectos de esta ley se consideran bajo la denominación de establecimientos, los locales y sus instalaciones, dependencias y anexos, estén cubiertos o descubiertos, sean fijos o móviles, sean de producción, transformación, almacenamiento, distribución de bienes o prestación de servicios, en los que se desarrolle una actividad ocupacional.
 
-## TITULO NOVENO. Asistencia Social, Prevención de Invalidez y Rehabilitación de Inválidos
+## TITULO OCTAVO BIS. De los Cuidados Paliativos a los Enfermos en Situación Terminal
 
-### CAPITULO UNICO
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPÍTULO II. De los Derechos de los Enfermos en Situación Terminal
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 133.
 
@@ -2164,9 +2186,9 @@ III.- Realizar los programas y actividades que estime necesario para la prevenci
 
 IV.- Promover la colaboración de las instituciones de los sectores público, social y privado, así como de los profesionales, técnicos y auxiliares para la salud y de la población en general, para el óptimo desarrollo de los programas y actividades a que se refieren las fracciones II y III.
 
-### CAPITULO I. Consejo Nacional Contra las Adicciones
+### CAPÍTULO III. De las Facultades y Obligaciones de las Instituciones de Salud
 
-> <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 134.
 
@@ -2364,13 +2386,11 @@ Se prohibe la introducción o el transporte por el territorio nacional de animal
 
 La Secretaría de Salud y los gobiernos de las entidades federativas en el ámbito de sus respectivas competencias, se coordinarán para la promoción del uso del condón, priorizando a las poblaciones de mayor vulnerabilidad y riesgo de contraer la infección del VIH/SIDA.
 
-### CAPITULO II. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
+### CAPÍTULO IV. De los Derechos, Facultades y Obligaciones de los Médicos y Personal Sanitario
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
-### CAPITULO III. Programa Contra el Tabaquismo
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 158.
 
@@ -2404,13 +2424,13 @@ La Secretaría de Salud coordinará sus actividades con otras dependencias y ent
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO IV. Programa Contra la Farmacodependencia
+### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO I. Consejo Nacional Contra las Adicciones
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 162.
 
@@ -2454,27 +2474,255 @@ La Secretaría de Salud dictará, en el ámbito de su competencia, y sin perjuic
 
 Los servicios de salud que proporcionen las instituciones de seguridad social con motivo de riesgos de trabajo, se regirán por sus propias leyes y las demás disposiciones legales aplicables y se ajustarán a las normas oficiales mexicanas en materia de salud. En este caso, las autoridades sanitarias propiciarán con dichas instituciones la coordinación de acciones en materia de higiene y prevención de accidentes.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
+
+## TITULO NOVENO. Asistencia Social, Prevención de Invalidez y Rehabilitación de Inválidos
+
+### CAPITULO II. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+###### ARTICULO 166 Bis.
+
+El presente título tiene por objeto:
+
+I.- Salvaguardar la dignidad de los enfermos en situación terminal, para garantizar una vida de calidad a través de los cuidados y atenciones médicas, necesarios para ello;
+
+II.- Garantizar una muerte natural en condiciones dignas a los enfermos en situación terminal;
+
+III.- Establecer y garantizar los derechos del enfermo en situación terminal en relación con su tratamiento;
+
+IV.- Dar a conocer los límites entre el tratamiento curativo y el paliativo;
+
+V.- Determinar los medios ordinarios y extraordinarios en los tratamientos; y
+
+VI.- Establecer los límites entre la defensa de la vida del enfermo en situación terminal y la obstinación terapéutica.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
+###### ARTICULO 166 Bis 1.
+
+Para los efectos de este Título, se entenderá por:
+
+I.- Enfermedad en estado terminal. A todo padecimiento reconocido, irreversible, progresivo e incurable que se encuentra en estado avanzado y cuyo pronóstico de vida para el paciente sea menor a 6 meses;
+
+II.- Cuidados básicos. La higiene, alimentación e hidratación, y en su caso el manejo de la vía aérea permeable;
+
+III.- Cuidados Paliativos. Es el cuidado activo y total de aquéllas enfermedades que no responden a tratamiento curativo. El control del dolor, y de otros síntomas, así como la atención de aspectos psicológicos, sociales y espirituales;
+
+IV.- Enfermo en situación terminal. Es la persona que tiene una enfermedad incurable e irreversible y que tiene un pronóstico de vida inferior a seis meses;
+
+V.- Obstinación terapéutica. La adopción de medidas desproporcionadas o inútiles con el objeto de alargar la vida en situación de agonía;
+
+VI.- Medios extraordinarios. Los que constituyen una carga demasiado grave para el enfermo y cuyo perjuicio es mayor que los beneficios; en cuyo caso, se podrán valorar estos medios en comparación al tipo de terapia, el grado de dificultad y de riesgo que comporta, los gastos necesarios y las posibilidades de aplicación respecto del resultado que se puede esperar de todo ello;
+
+VII.- Medios ordinarios. Los que son útiles para conservar la vida del enfermo en situación terminal o para curarlo y que no constituyen, para él una carga grave o desproporcionada a los beneficios que se pueden obtener;
+
+VIII.- Muerte natural. El proceso de fallecimiento natural de un enfermo en situación terminal, contando con asistencia física, psicológica y en su caso, espiritual; y
+
+IX.- Tratamiento del dolor. Todas aquellas medidas proporcionadas por profesionales de la salud, orientadas a reducir los sufrimientos físico y emocional producto de una enfermedad terminal, destinadas a mejorar la calidad de vida.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
+###### ARTICULO 166 Bis 2.
+
+Corresponde al Sistema Nacional de Salud garantizar el pleno, libre e informado ejercicio de los derechos que señalan esta Ley y demás ordenamientos aplicables, a los enfermos en situación terminal.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
+
+### CAPITULO III. Programa Contra el Tabaquismo
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+###### ARTICULO 166 Bis 3.
+
+Los pacientes enfermos en situación terminal tienen los siguientes derechos:
+
+I.- Recibir atención médica integral;
+
+II.- Ingresar a las instituciones de salud cuando requiera atención médica;
+
+III.- Dejar voluntariamente la institución de salud en que esté hospitalizado, de conformidad a las disposiciones aplicables;
+
+IV.- Recibir un trato digno, respetuoso y profesional procurando preservar su calidad de vida;
+
+V.- Recibir información clara, oportuna y suficiente sobre las condiciones y efectos de su enfermedad y los tipos de tratamientos por los cuales puede optar según la enfermedad que padezca;
+
+VI.- Dar su consentimiento informado por escrito para la aplicación o no de tratamientos, medicamentos y cuidados paliativos adecuados a su enfermedad, necesidades y calidad de vida;
+
+VII.- Solicitar al médico que le administre medicamentos que mitiguen el dolor;
+
+VIII.- Renunciar, abandonar o negarse en cualquier momento a recibir o continuar el tratamiento que considere extraordinario;
+
+IX.- Optar por recibir los cuidados paliativos en un domicilio particular;
+
+X.- Designar, a algún familiar, representante legal o a una persona de su confianza, para el caso de que, con el avance de la enfermedad, esté impedido a expresar su voluntad, lo haga en su representación;
+
+XI.- A recibir los servicios espirituales, cuando lo solicite él, su familia, representante legal o persona de su confianza; y
+
+XII.- Los demás que las leyes señalen.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
+###### ARTICULO 166 Bis 4.
+
+Toda persona mayor de edad, en pleno uso de sus facultades mentales, puede, en cualquier momento e independientemente de su estado de salud, expresar su voluntad por escrito ante dos testigos, de recibir o no cualquier tratamiento, en caso de que llegase a padecer una enfermedad y estar en situación terminal y no le sea posible manifestar dicha voluntad. Dicho documento podrá ser revocado en cualquier momento.
+
+Para que sea válida la disposición de voluntad referida en el párrafo anterior, deberá apegarse a lo dispuesto en la presente Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
+###### ARTICULO 166 Bis 5.
+
+El paciente en situación terminal, mayor de edad y en pleno uso de sus facultades mentales, tiene derecho a la suspensión voluntaria del tratamiento curativo y como consecuencia al inicio de tratamiento estrictamente paliativo en la forma y términos previstos en esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
+###### ARTICULO 166 Bis 6.
+
+La suspensión voluntaria del tratamiento curativo supone la cancelación de todo medicamento que busque contrarrestar la enfermedad terminal del paciente y el inicio de tratamientos enfocados de manera exclusiva a la disminución del dolor o malestar del paciente.
+
+En este caso, el médico especialista en el padecimiento del paciente terminal interrumpe, suspende o no inicia el tratamiento, la administración de medicamentos, el uso de instrumentos o cualquier procedimiento que contribuya a la prolongación de la vida del paciente en situación terminal dejando que su padecimiento evolucione naturalmente.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
+###### ARTICULO 166 Bis 7.
+
+El paciente en situación terminal que esté recibiendo los cuidados paliativos, podrá solicitar recibir nuevamente el tratamiento curativo, ratificando su decisión por escrito ante el personal médico correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
+###### ARTICULO 166 Bis 8.
+
+Si el enfermo en situación terminal es menor de edad, o se encuentra incapacitado para expresar su voluntad, las decisiones derivadas de los derechos señalados en este título, serán asumidos por los padres o el tutor y a falta de estos por su representante legal, persona de su confianza mayor de edad o juez de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
+###### ARTICULO 166 Bis 9.
+
+Los cuidados paliativos se proporcionarán desde el momento en que se diagnostica el estado terminal de la enfermedad, por el médico especialista.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
+###### ARTICULO 166 Bis 10.
+
+Los familiares del enfermo en situación terminal tienen la obligación de respetar la decisión que de manera voluntaria tome el enfermo en los términos de este título.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
+###### ARTICULO 166 Bis 11.
+
+En casos de urgencia médica, y que exista incapacidad del enfermo en situación terminal para expresar su consentimiento, y en ausencia de familiares, representante legal, tutor o persona de confianza, la decisión de aplicar un procedimiento médico quirúrgico o tratamiento necesario, será tomada por el médico especialista y/o por el Comité de Bioética de la institución.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
+###### ARTICULO 166 Bis 12.
+
+Todos los documentos a que se refiere este título se regirán de acuerdo a lo que se establezca en el reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
+
+### CAPITULO IV. Programa Contra la Farmacodependencia
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+###### ARTICULO 166 Bis 13.
+
+Las Instituciones del Sistema Nacional de Salud:
+
+I.- Ofrecerán el servicio para la atención debida a los enfermos en situación terminal;
+
+II.- Proporcionarán los servicios de orientación, asesoría y seguimiento al enfermo en situación terminal y o sus familiares o persona de confianza en el caso de que los cuidados paliativos se realicen en el domicilio particular;
+
+III.- De igual manera, en el caso de que los cuidados paliativos se realicen en el domicilio particular, la Secretaría pondrá en operación una línea telefónica de acceso gratuito para que se le oriente, asesore y dé seguimiento al enfermo en situación terminal o a sus familiares o persona de su confianza;
+
+IV.- Proporcionarán los cuidados paliativos correspondientes al tipo y grado de enfermedad, desde el momento del diagnóstico de la enfermedad terminal hasta el último momento;
+
+V.- Fomentarán la creación de áreas especializadas que presten atención a los enfermos en situación terminal; y
+
+VI.- Garantizarán la capacitación y actualización permanente de los recursos humanos para la salud, en materia de cuidados paliativos y atención a enfermos en situación terminal.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
+
+### CAPITULO I. Disposiciones Comunes
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+###### ARTICULO 166 Bis 14.
+
+Los médicos tratantes y el equipo sanitario que preste los cuidados paliativos, para el mejor desempeño de sus servicios, deberán estar debidamente capacitados humana y técnicamente, por instituciones autorizadas para ello.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
+###### ARTICULO 166 Bis 15.
+
+Los médicos especialistas en las instituciones de segundo y tercer nivel, tendrán las siguientes obligaciones:
+
+I.- Proporcionar toda la información que el paciente requiera, así como la que el médico considere necesaria para que el enfermo en situación terminal pueda tomar una decisión libre e informada sobre su atención, tratamiento y cuidados;
+
+II.- Pedir el consentimiento informado del enfermo en situación terminal, por escrito ante dos testigos, para los tratamientos o medidas a tomar respecto de la enfermedad terminal;
+
+III.- Informar oportunamente al enfermo en situación terminal, cuando el tratamiento curativo no dé resultados;
+
+IV.- Informar al enfermo en situación terminal, sobre las opciones que existan de cuidados paliativos;
+
+V.- Respetar la decisión del enfermo en situación terminal en cuanto al tratamiento curativo y cuidados paliativos, una vez que se le haya explicado en términos sencillos las consecuencias de su decisión;
+
+VI.- Garantizar que se brinden los cuidados básicos o tratamiento al paciente en todo momento;
+
+VII.- Procurar las medidas mínimas necesaria para preservar la calidad de vida de los enfermos en situación terminal;
+
+VIII.- Respetar y aplicar todas y cada una de las medidas y procedimientos para los casos que señala esta ley;
+
+IX.- Hacer saber al enfermo, de inmediato y antes de su aplicación, si el tratamiento a seguir para aliviar el dolor y los síntomas de su enfermedad tenga como posibles efectos secundarios disminuir el tiempo de vida;
+
+X.- Solicitar una segunda opinión a otro médico especialista, cuando su diagnóstico sea una enfermedad terminal; y
+
+XI.- Las demás que le señalen ésta y otras leyes.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
+###### ARTICULO 166 Bis 16.
+
+Los médicos tratantes podrán suministrar fármacos paliativos a un enfermo en situación terminal, aún cuando con ello se pierda estado de alerta o se acorte la vida del paciente, siempre y cuando se suministren dichos fármacos paliativos con el objeto de aliviar el dolor del paciente.
+
+Podrán hacer uso, de ser necesario de acuerdo con lo estipulado en la presente Ley de analgésicos del grupo de los opioides. En estos casos será necesario el consentimiento del enfermo.
+
+En ningún caso se suministrarán tales fármacos con la finalidad de acortar o terminar la vida del paciente, en tal caso se estará sujeto a las disposiciones penales aplicables.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
+###### ARTICULO 166 Bis 17.
+
+Los médicos tratantes, en ningún caso y por ningún motivo implementaran medios extraordinarios al enfermo en situación terminal, sin su consentimiento.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
+###### ARTICULO 166 Bis 18.
+
+Para garantizar una vida de calidad y el respeto a la dignidad del enfermo en situación terminal, el personal médico no deberá aplicar tratamientos o medidas consideradas como obstinación terapéutica ni medios extraordinarios.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
+###### ARTICULO 166 Bis 19.
+
+El personal médico que deje de proporcionar los cuidados básicos a los enfermos en situación terminal, será sancionado conforme lo establecido por las leyes aplicables.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
+###### ARTICULO 166 Bis 20.
+
+El personal médico que, por decisión propia, deje de proporcionar cualquier tratamiento o cuidado sin el consentimiento del enfermo en situación terminal, o en caso que esté impedido para expresar su voluntad, el de su familia o persona de confianza, será sancionado conforme lo establecido por las leyes aplicables.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+
+###### ARTICULO 166 Bis 21.
+
+Queda prohibida, la práctica de la eutanasia, entendida como homicidio por piedad así como el suicidio asistido conforme lo señala el Código Penal Federal, bajo el amparo de esta ley. En tal caso se estará a lo que señalan las disposiciones penales aplicables.
+
 ## TITULO DECIMO. Acción Extraordinaria en Materia de Salubridad General
 
 ### CAPITULO II. Alimentos y Bebidas no Alcohólicas
-
-### CAPITULO III. Bebidas Alcohólicas
-
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
-
-### CAPITULO IV. Medicamentos
-
-### CAPITULO V. Estupefacientes
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
-
-## TITULO DECIMO PRIMERO. Programas Contra las Adicciones
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 27 DE MAYO DE 1987)</small>
-
-### CAPITULO VI. Substancias psicotrópicas
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 167.
 
@@ -2576,9 +2824,11 @@ Las autoridades sanitarias y las educativas, en el ámbito de sus respectivas co
 
 La Secretaría de Salud y los gobiernos de las entidades federativas, en coordinación con otras instituciones públicas, promoverán que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas inválidas.
 
-## TITULO DECIMO SEGUNDO. Control Sanitario de Productos y Servicios y de su Importación y Exportación
+## TITULO DECIMO PRIMERO. Programas Contra las Adicciones
 
-### CAPITULO VII. Establecimientos Destinados al Proceso de Medicamentos
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+### CAPITULO III. Bebidas Alcohólicas
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -2598,11 +2848,11 @@ En los casos a que se refieren los artículos anteriores, el Ejecutivo Federal p
 
 Cuando hubieren desaparecido las causas que hayan originado la declaración de quedar sujeta una región a la acción extraordinaria en materia de salubridad general, el Ejecutivo Federal expedirá un decreto que declare terminada dicha acción.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 184.
 
-La acción extraordinaria en materia de salubridad general será ejercida por la Secretaría de Salud, la que podrá integrar brigadas especiales que actuarán bajo su dirección y responsabilidad y tendrán las atribuciones siguientes:
+La acción extraordinaria en materia de salubridad general será ejercida por la Secretaría de Salud, la que deberá integrar y mantener permanentemente capacitadas y actualizadas brigadas especiales que actuarán bajo su dirección y responsabilidad y tendrán las atribuciones siguientes:
 
 I.- Encomendar a las autoridades federales, estatales y municipales, así como a los profesionales, técnicos y auxiliares de las disciplinas para la salud, el desempeño de las actividades que estime necesarias y obtener para ese fin la participación de los particulares;
 
@@ -2614,11 +2864,9 @@ IV.- Utilizar libre y prioritariamente los servicios telefónicos, telegráficos
 
 V.- Las demás que determine la propia Secretaría.
 
-## TITULO DECIMO TERCERO. Publicidad
+## TITULO DECIMO SEGUNDO. Control Sanitario de Productos y Servicios y de su Importación y Exportación
 
-### CAPITULO VIII
-
-Equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos
+### CAPITULO IV. Medicamentos
 
 ###### ARTICULO 184 Bis.
 
@@ -2626,7 +2874,9 @@ Se crea el Consejo Nacional Contra las Adicciones, que tendrá por objeto promov
 
 La organización y funcionamiento del Consejo se regirán por las disposiciones que expida el Ejecutivo Federal.
 
-### CAPITULO IX. Productos de Perfumería y Belleza
+### CAPITULO V. Estupefacientes
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 185.
 
@@ -2656,11 +2906,13 @@ IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social,
 
 En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará las acciones que se desarrollen contra el alcoholismo y el abuso de bebidas alcohólicas. La coordinación en la adopción de medidas, en los ámbitos federal y local, se llevará a cabo a través de los acuerdos de coordinación que celebre la Secretaría de Salud con los gobiernos de las entidades federativas.
 
-### CAPITULO X. Productos de Aseo
+### CAPITULO VI. Substancias psicotrópicas
 
-### CAPITULO XI. Tabaco
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+### CAPITULO VII. Establecimientos Destinados al Proceso de Medicamentos
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 188.
 
@@ -2678,9 +2930,9 @@ En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará l
 
 (DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
-### CAPITULO XII. Plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas
+### CAPITULO VIII
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+Equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos
 
 ###### ARTICULO 191.
 
@@ -2702,11 +2954,9 @@ La Secretaría de Salud elaborará un programa nacional contra la farmacodepende
 
 Los profesionales de la salud, al prescribir medicamentos que contengan substancias que puedan producir dependencia, se atendrán a lo previsto en los Capítulos V y VI del Título Decimosegundo de esta Ley, en lo relativo a prescripción de estupefacientes y substancias psicotrópicas.
 
-## TITULO DECIMO QUINTO. Sanidad Internacional
+## TITULO DECIMO TERCERO. Publicidad
 
-### CAPITULO XII BIS. Productos biotecnológicos
-
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+### CAPITULO IX. Productos de Perfumería y Belleza
 
 ###### ARTICULO 194.
 
@@ -2936,9 +3186,7 @@ Los envases y embalajes de los productos a que se refiere este título deberán 
 
 La Secretaría de Salud publicará en el Diario Oficial de la Federación las normas oficiales mexicanas que expida y, en caso necesario, las resoluciones sobre otorgamiento y revocación de autorizaciones sanitarias de medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan, equipos médicos, plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas, así como de las materias primas que se utilicen en su elaboración.
 
-### CAPITULO XIII. Importación y exportación
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPITULO X. Productos de Aseo
 
 ###### ARTICULO 215.
 
@@ -2970,9 +3218,9 @@ La Secretaría de Salud, con base en la composición de los alimentos y bebidas,
 
 Los alimentos o bebidas que se pretendan expender o suministrar al público en presentaciones que sugieran al consumidor que se trate de productos o substancias con características o propiedades terapéuticas, deberán en las etiquetas de los empaques o envases incluir la siguiente leyenda: “Este producto no es un medicamento”, escrito con letra fácilmente legible y en colores contrastantes.
 
-### CAPITULO UNICO
+### CAPITULO XI. Tabaco
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 217.
 
@@ -2996,9 +3244,9 @@ La Secretaría de Salud, en su caso, publicará en el Diario Oficial de la Feder
 
 En ningún caso y de ninguna forma se podrán expender o suministrar bebidas alcohólicas a menores de edad.
 
-### CAPITULO I. Disposiciones comunes
+### CAPITULO XII. Plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 221.
 
@@ -3160,9 +3408,9 @@ Los medicamentos de origen biológico de acción inmunológica ostentarán en su
 
 Quedan prohibidos la venta y suministro de medicamentos con fecha de caducidad vencida.
 
-### CAPITULO II. Donación
+### CAPITULO XII BIS. Productos biotecnológicos
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 234.
 
@@ -3274,9 +3522,9 @@ Los citados establecimientos recogerán invariablemente las recetas o permisos, 
 
 Los preparados que contengan acetildihidrocodeína, codeína, destropropoxifeno, dihidrocodeína, etilmorfina, folcodina, nicocodina, corcodeína y propiram, que formen parte de la composición de especialidades farmacéuticas, estarán sujetos, para los fines de su preparación, prescripción y venta o suministro al público, a los requisitos que sobre su formulación establezca la Secretaría de Salud.
 
-### CAPITULO III. Trasplantes
+### CAPITULO XIII. Importación y exportación
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 244.
 
@@ -3760,9 +4008,9 @@ Los medicamentos que tengan incorporadas substancias psicotrópicas que puedan c
 
 Los envases y empaques de las substancias psicotrópicas, para su expendio llevarán etiquetas que, además de los requisitos que determina el artículo 210 de esta Ley, ostenten los que establezcan las disposiciones aplicables a la materia de este Capítulo.
 
-### CAPITULO IV. Pérdida de la vida
+### CAPITULO UNICO
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 257.
 
@@ -3834,9 +4082,9 @@ VI.- En los establecimientos señalados en la fracción XII, el Consejo de Salub
 
 En los casos en que resulten afectadas, por acción u omisión, la identidad, pureza, conservación, preparación, dosificación o manufactura de los productos, el responsable del establecimiento y el propietario del mismo responderán solidariamente de las sanciones que correspondan en los términos que señalen esta Ley y demás disposiciones legales aplicables.
 
-### CAPITULO V. Cadáveres
+### CAPITULO I. Disposiciones comunes
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 262.
 
@@ -3918,9 +4166,9 @@ Queda prohibido realizar tatuajes, micro pigmentaciones y perforaciones a person
 
 La violación de esta disposición se sancionará en los términos previstos en el artículo 419 de esta Ley, y conllevará a la revocación definitiva de la autorización respectiva.
 
-### CAPITULO I. Disposiciones comunes
+### CAPITULO II. Donación
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 269.
 
@@ -3950,9 +4198,13 @@ Cualquier cirugía estética y cosmética relacionada con cambiar o corregir el 
 
 En las etiquetas de los envases y empaques en los que se presenten los productos a que se refiere este Capítulo, además de lo establecido en el artículo 210 de esta Ley, en lo conducente, figurarán las leyendas que determinen las disposiciones aplicables.
 
-### CAPITULO II. Sanidad en Materia de Migración
+### CAPITULO III. Trasplantes
 
-### CAPITULO III. Sanidad marítima, aérea y terrestre
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
+### CAPITULO IV. Pérdida de la vida
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 273.
 
@@ -3984,7 +4236,9 @@ IX.- Los demás de naturaleza análoga que determine la Secretaría de Salud.
 
 En las etiquetas de los envases y empaques en los que se presenten los productos a que se refiere el artículo anterior, además de lo establecido en el artículo 210 de esta Ley, en lo conducente, figurarán las leyendas que determinen las disposiciones aplicables.
 
-### CAPITULO I. Autorizaciones
+### CAPITULO V. Cadáveres
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 275.
 
@@ -4010,7 +4264,9 @@ En las etiquetas de los envases y empaques en los que se presenten los productos
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE MAYO DE 1997)</small>
 
-### CAPITULO II. Revocación de autorizaciones sanitarias
+### CAPITULO I. Disposiciones comunes
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 278.
 
@@ -4070,7 +4326,7 @@ El control sanitario de las substancias a que se refiere el artículo 278, se aj
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 7 DE MAYO DE 1997)</small>
 
-### CAPITULO III. Certificados
+### CAPITULO II. Sanidad en Materia de Migración
 
 ###### ARTICULO 282 Bis.
 
@@ -4088,13 +4344,9 @@ Se deberá notificar a la Secretaría de Salud, de todos aquellos productos biot
 
 Las disposiciones y especificaciones relacionadas con el proceso, características y etiquetas de los productos objeto de este capítulo, se establecerán en las normas oficiales mexicanas correspondientes.
 
-### CAPITULO UNICO
+### CAPITULO III. Sanidad marítima, aérea y terrestre
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-### CAPITULO I. Medidas de Seguridad Sanitaria
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPITULO I. Autorizaciones
 
 ###### ARTICULO 283.
 
@@ -4228,9 +4480,9 @@ La Secretaría de Salud, mediante acuerdo que publicará en el Diario Oficial de
 
 Cuando se autorice la importación de las substancias mencionadas en el artículo anterior, corresponde a la Secretaría de Salud vigilar y controlar las actividades que con ellas se efectúen, en los términos de las disposiciones aplicables.
 
-## TITULO DECIMO SEXTO. Autorizaciones y certificados
+## TITULO DECIMO QUINTO. Sanidad Internacional
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO II. Revocación de autorizaciones sanitarias
 
 ###### ARTICULO 300.
 
@@ -4414,7 +4666,7 @@ TITULO DECIMOCUARTO
 
 Donación, trasplantes y pérdida de la vida
 
-### CAPITULO III. Procedimiento Para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO III. Certificados
 
 ###### ARTICULO 313.
 
@@ -4530,7 +4782,9 @@ Se considerará disposición ilícita de órganos, tejidos, células y cadávere
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO IV. Recurso de inconformidad
+### CAPITULO UNICO
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 320.
 
@@ -4614,7 +4868,9 @@ De igual forma el Centro Nacional de Trasplantes se encargará de expedir el doc
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO V. Prescripción
+### CAPITULO I. Medidas de Seguridad Sanitaria
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 330.
 
@@ -4732,9 +4988,7 @@ Los centros estatales proporcionarán al Registro Nacional de Trasplantes la inf
 
 > <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2003)</small>
 
-### CAPITULO VI. Delitos
-
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 340.
 
@@ -4753,6 +5007,8 @@ La disposición de sangre, componentes sanguíneos y células progenitoras hemat
 Cualquier órgano o tejido que haya sido extraído, desprendido o seccionado por intervención quirúrgica, accidente o hecho ilícito y que sanitariamente constituya un deshecho, deberá ser manejado en condiciones higiénicas y su destino final se hará conforme a las disposiciones generales aplicables, salvo que se requiera para fines terapéuticos, de docencia o de investigación, en cuyo caso los establecimientos de salud podrán disponer de ellos o remitirlos a instituciones docentes autorizadas por la Secretaría de Salud, en los términos de esta Ley y demás disposiciones generales aplicables.
 
 > <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
+### CAPITULO III. Procedimiento Para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 343.
 
@@ -4797,6 +5053,8 @@ II. Electroencefalograma que demuestre ausencia total de actividad eléctrica ce
 No existirá impedimento alguno para que a solicitud o autorización de las siguientes personas: el o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante; conforme al orden expresado; se prescinda de los medios artificiales que evitan que en aquel que presenta muerte cerebral comprobada se manifiesten los demás signos de muerte a que se refiere la fracción II del artículo 343.
 
 > <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
+### CAPITULO IV. Recurso de inconformidad
 
 ###### ARTICULO 346.
 
@@ -4896,7 +5154,9 @@ En el caso de que el cadáver del feto no sea reclamado dentro del término que 
 
 Los establecimientos en los que se realicen actos relacionados con cadáveres de seres humanos deberán presentar el aviso correspondiente a la Secretaría de Salud en los términos de esta Ley y demás disposiciones generales aplicables, y contarán con un responsable sanitario que también deberá presentar aviso.
 
-## TITULO DECIMO SEPTIMO. Vigilancia Sanitaria
+## TITULO DECIMO SEXTO. Autorizaciones y certificados
+
+### CAPITULO V. Prescripción
 
 ###### ARTICULO 351.
 
@@ -4950,6 +5210,10 @@ Cuando en las localidades donde residan cónsules mexicanos aparezcan casos de e
 
 La Secretaría de Salud notificará a la Organización Mundial de la Salud de todas medidas (sic) que haya adoptado, de modo temporal o permanente, en materia de sanidad internacional. Asimismo, informará a esta misma organización y con la oportunidad debida, sobre cualquier caso que sea de interés en la vigilancia epidemiológica de las enfermedades que se citan en el Reglamento Sanitario Internacional, las que puedan originar epidemias o cualesquiera otras que considere de importancia notificar.
 
+### CAPITULO VI. Delitos
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 360.
 
 Cuando así lo estime conveniente la autoridad sanitaria, someterá a examen médico a cualquier persona que pretenda entrar al territorio nacional.
@@ -4998,7 +5262,7 @@ La Secretaría de Salud determinará el tipo de servicio médico, medicamentos, 
 
 Las embarcaciones y aeronaves procedentes del extranjero con destino al territorio nacional, así como las que partan del territorio nacional al extranjero, deberán estar provistas de la documentación sanitaria exigida por los tratados y convenciones internacionales a que se refiere el artículo 351 de esta Ley y demás disposiciones generales aplicables.
 
-## TITULO DECIMO OCTAVO. Medidas de Seguridad, Sanciones y Delitos
+## TITULO DECIMO SEPTIMO. Vigilancia Sanitaria
 
 ###### ARTICULO 368.
 
@@ -5249,6 +5513,8 @@ V.- La Secretaría de Salud podrá reconocer centros de investigación y organiz
 Los certificados a que se refiere este título, se extenderán en los modelos aprobados por la Secretaría de Salud y de conformidad con las normas oficiales mexicanas que la misma emita. Dichos modelos serán publicados en el Diario Oficial de la Federación.
 
 Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
+
+## TITULO DECIMO OCTAVO. Medidas de Seguridad, Sanciones y Delitos
 
 ###### ARTICULO 393.
 
@@ -5578,21 +5844,21 @@ Se sancionará con multa hasta dos mil veces el salario mínimo general diario v
 
 Se sancionará con multa de dos mil hasta seis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 121, 142, 147, 153, 198, 200, 204, 241, 259, 260, 265, 267, 304, 307, 341, 348, segundo y tercer párrafo, 349, 350 bis, 350 bis 2, 350 bis 3 y 373 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 421.
 
 Se sancionará con una multa equivalente de seis mil hasta doce mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 67, 101, 125, 127, 149, 193, 210, 212, 213, 218, 220, 230, 232, 233, 237, 238, 240, 242, 243, 247, 248, 251, 252, 255, 256, 258, 266, 306, 308, 309, 315, 317, 330, 331, 332, 334, 335, 336, 338, último párrafo, 342, 348, primer párrafo, 350 bis 1, 365, 367, 375, 376, 400, 411 y 413 de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 18 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 421 Bis.
 
-Se sancionará con multa equivalente de doce mil hasta dieciséis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos, 100, 122, 126, 146, 205, 235, 254, 264, 281, 289, 293, 298, 325, 327 y 333 de esta Ley.
+Se sancionará con multa equivalente de doce mil hasta dieciséis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 100, 122, 126, 146, 166 Bis 19, 166 Bis 20, 205, 235, 254, 264, 281, 289, 293, 298, 325, 327 y 333 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 422.
 
@@ -6313,3 +6579,19 @@ DECRETO QUE REFORMA LA FRACCION V DEL ARTICULO 100 Y EL ARTICULO 461, Y SE ADICI
 D.O.F. 15 DE DICIEMBRE DE 2008.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE ENERO DE 2009.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 184 DE LA LEY GENERAL DE SALUD.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE ENERO DE 2009.
+
+DECRETO POR EL QUE SE REFORMA Y ADICIONA LA LEY GENERAL DE SALUD EN MATERIA DE CUIDADOS PALIATIVOS.
+
+Artículo Primero.- La Secretaría de Salud deberá emitir los reglamentos y Normas Oficiales Mexicanas que sean necesarios para garantizar el ejercicio de los derechos que concede este Título.
+
+Artículo Segundo.- La Secretaría de Salud tendrá 180 días naturales para expedir el Reglamento respectivo de este Título, contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Tercero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
