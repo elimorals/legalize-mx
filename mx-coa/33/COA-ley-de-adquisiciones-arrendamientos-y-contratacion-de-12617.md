@@ -4,7 +4,7 @@ identifier: "COA-ley-de-adquisiciones-arrendamientos-y-contratacion-de-12617"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-28"
-last_updated: "2007-05-15"
+last_updated: "2009-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 6 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de enero de 1997.
 
@@ -1022,3 +1024,11 @@ P.O. 15 DE MAYO DE 2007.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 6 DE ENERO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado en fecha 28 de enero de 1997.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
