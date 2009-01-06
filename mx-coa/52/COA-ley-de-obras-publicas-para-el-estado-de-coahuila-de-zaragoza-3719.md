@@ -4,7 +4,7 @@ identifier: "COA-ley-de-obras-publicas-para-el-estado-de-coahuila-de-zaragoza-37
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-24"
-last_updated: "2007-01-26"
+last_updated: "2009-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE OBRAS PUBLICAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 6 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 24 de agosto de 1984.
 
@@ -1030,3 +1032,11 @@ P.O. 26 DE ENERO DE 2007.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 6 DE ENERO DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Obras Públicas para el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado en fecha 15 de agosto de 1995.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
