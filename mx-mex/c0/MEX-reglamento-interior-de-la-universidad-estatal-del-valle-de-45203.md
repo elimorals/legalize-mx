@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-estatal-del-valle-de-4520
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-02"
-last_updated: "2008-12-23"
+last_updated: "2009-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE ENERO DE 2009 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC DEL ESTADO DE MEXICO
 
 ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE DICIEMBRE DE 2008.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 6 DE ENERO DE 2009 NO APLICA AL ARTICULADO DEL ACUERDO PUBLICADO EN LA G.G. DE 23 DE DICIEMBRE DE 2008.</small>
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 2 de junio de 2005.
 
