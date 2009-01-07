@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-registro-publico-de-la-propiedad-y-del-56363"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-11"
-last_updated: "2007-07-11"
+last_updated: "2009-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 11 de julio del 2007.
 
@@ -47,7 +47,7 @@ El presente Reglamento es de orden público e interés social y tiene por objeto
 
 ###### ARTÍCULO 2.
 
-El Registro Público de la Propiedad y del Comercio es una unidad administrativa del Poder Ejecutivo del Estado, adscrita a la Secretaría de Gobierno y tendrá sus oficinas en la Ciudad de Cuernavaca, Morelos; no obstante, cuando las necesidades del servicio lo requieran, podrán establecerse oficinas en otras ciudades de la Entidad por acuerdo administrativo del titular del Ejecutivo que se publique en el Periódico Oficial del Estado.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGANICO DEL INSTITUTO DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 7 DE ENERO DE 2009)
 
 ###### ARTÍCULO 3.
 
@@ -106,6 +106,8 @@ El Registro Público de actos de Comercio se sujetará además a los ordenamient
 ###### ARTÍCULO 5.
 
 Para el cumplimiento de su objeto, el Registro Público utilizará el sistema de cómputo o cualquier otro creado por la tecnología, que dé seguridad y celeridad a los servicios que proporciona, el cual tendrá plena validez legal.
+
+> <small>(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGANICO DEL INSTITUTO DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS, P.O. 7 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO II. DE LA ORGANIZACIÓN Y FUNCIONES
 
@@ -1284,3 +1286,13 @@ EL SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE ENERO DE 2009.
+
+PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Periódico "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO. Se deroga el artículo 2, y el Capítulo II del TÍTULO PRIMERO del Reglamento del Registro Público de la Propiedad y del Comercio del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número 4544 de fecha 11 de julio de 2007, y las disposiciones administrativas que se opongan al presente Reglamento.
+
+TERCERO. En el término de dieciocho meses contados a partir de la entrada en vigor del presente instrumento, el Instituto deberá ajustar sus Manuales de Organización al mismo.
