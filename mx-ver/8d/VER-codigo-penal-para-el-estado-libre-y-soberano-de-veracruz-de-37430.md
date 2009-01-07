@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2008-09-26"
+last_updated: "2009-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE ENERO DE 2009.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -2053,7 +2053,9 @@ Si el juez lo considera conveniente, además de las penas previstas para cada un
 
 Se considera violencia familiar el uso de la fuerza física o moral que, de manera reiterada, el agente activo ejerce a sus parientes, cónyuge, concubina o concubinario, si habitan en la misma casa, en agravio de su integridad corporal, psíquica o ambas.
 
-A quien cometa el delito de violencia familiar se le impondrán de dos a seis años de prisión, en su caso caución de no ofender, perderá el derecho a heredar por ley respecto de la víctima y se le sujetará al tratamiento psicoterapéutico correspondiente.
+> <small>(REFORMADO, G.O. 7 DE ENERO DE 2009)</small>
+
+A quien cometa el delito de violencia familiar se le impondrán de dos a seis años de prisión y multa de hasta cuatrocientas veces el salario mínimo, en su caso caución de no ofender, perderá el derecho a heredar por ley respecto de la víctima y se le sujetará al tratamiento psicoterapéutico correspondiente.
 
 (REFORMADO, G.O. 15 DE AGOSTO DE 2005) (F. DE E., G.O. 24 DE AGOSTO DE 2005)
 
@@ -3300,5 +3302,11 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 G.O. 26 DE SEPTIEMBRE DE 2008.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE ENERO DE 2009.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
