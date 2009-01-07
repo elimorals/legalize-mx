@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2007-08-15"
+last_updated: "2009-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGANICA DEL MUNICIPIO LIBRE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE ENERO DE 2009.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -553,7 +553,7 @@ XXIII. Presidir el Consejo Municipal de Protección Civil;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 22 DE ABRIL DE 2003)</small>
 
-XXIV. Asumir la representación jurídica del Ayuntamiento en los actos y hechos en que éste fuera parte, cuando el Síndico esté impedido legalmente para ello, se excuse o se niegue a asumirla, requiriéndose, en este último caso, la previa autorización del Cabildo;
+XXIV. Asumir la representación jurídica del Ayuntamiento en los actos y hechos en que éste fuera parte, cuando el Síndico esté impedido legalmente para ello, se excuse o se niegue a asumirla, requiriéndose, en este último caso, la previa autorización del Cabildo; y
 
 > <small>(REFORMADA, G.O. 3 DE ENERO DE 2007)</small>
 
@@ -667,9 +667,17 @@ XIII. Ornato, Parques, Jardines y Alumbrado;
 
 XIV. Ecología y Medio Ambiente;
 
-XV. Registro Civil, Panteones y Reclutamiento; y
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2009)</small>
 
-XVI. Gobernación, Reglamentos y Circulares.
+XV. Registro Civil, Panteones y Reclutamiento;
+
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2009)</small>
+
+XVI. Gobernación, Reglamentos y Circulares; y
+
+> <small>(ADICIONADA, G.O. 7 DE ENERO DE 2009)</small>
+
+XVII. Equidad de Género.
 
 ###### Artículo 41.
 
@@ -1009,6 +1017,28 @@ V. Dar a conocer los bandos solemnes; y
 
 VI. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
 
+> <small>(ADICIONADO, G.O. 7 DE ENERO DE 2009)</small>
+
+Artículo 60 bis. Son atribuciones de la Comisión de Equidad de Género:
+
+I. Establecer coordinación con el Instituto Veracruzano de las Mujeres para la creación de la instancia e Instituto de la Mujer;
+
+II. Fomentar la creación de los espacios de expresión para que las mujeres puedan dar a conocer sus necesidades e inquietudes sin distinción o discriminación;
+
+III. Fomentar la generación y aplicación de mecanismos que permitan el acceso de la mujer a los beneficios de los programas municipales en condiciones de igualdad;
+
+IV. Impulsar en el municipio los programas que en favor de las mujeres promuevan organismos nacionales e internacionales y diseñar y aplicar los propios;
+
+V. Cuidar el cumplimiento de la obligación de que las niñas y los niños en edad escolar asistan a las escuelas;
+
+VI. Promover la planeación del desarrollo municipal, bajo una perspectiva de equidad de género;
+
+VII. Gestionar que los apoyos y recursos que se soliciten, ya sea individualmente o a través de organizaciones y asociaciones, cumplan en su distribución con el principio de equidad de género;
+
+VIII. Promover y organizar la participación de los ciudadanos y de los vecinos en las actividades del Ayuntamiento, desde una perspectiva de equidad de género; y
+
+IX. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
+
 ### CAPÍTULO IX. DE LOS JEFES DE MANZANA Y ORGANISMOS AUXILIARES
 
 ###### Artículo 61.
@@ -1021,25 +1051,49 @@ Los Agentes y Subagentes Municipales cuidarán la observancia de las leyes y reg
 
 I. Dar aviso inmediato al Ayuntamiento de cualquier alteración en el orden público y de las medidas que hayan tomado para corregirlas;
 
-II. Formular y remitir al Ayuntamiento, en el primer mes del año, el padrón de los habitantes de su demarcación, facilitando toda la información y datos estadísticos que les sean solicitados;
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2009)</small>
 
-III. Expedir gratuitamente las constancias requeridas por el Encargado del Registro Civil y cualquier otra autoridad en ejercicio de sus funciones;
+II. Coadyuvar en la incorporación de la perspectiva de género en sus localidades, promoviendo el desarrollo integral de las mujeres para lograr su plena integración a la vida económica, política, cultural y social de sus comunidades;
 
-IV. Promover que en sus respectivas demarcaciones se establezcan los servicios públicos que requiera la comunidad;
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2009)</small>
 
-V. Vigilar el cumplimiento del precepto de la enseñanza obligatoria;
+III. Formular y remitir al Ayuntamiento, en el primer mes del año, el padrón de los habitantes de su demarcación, facilitando toda la información y datos estadísticos que les sean solicitados;
 
-VI. Dar parte a las autoridades de la aparición de cualquier calamidad pública para que se tomen las medidas convenientes;
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2009)</small>
 
-VII. Actuar por delegación en el ejercicio de las funciones, comisiones o encargos que el Ayuntamiento le encomiende;
+IV. Expedir gratuitamente las constancias requeridas por el Encargado del Registro Civil y cualquier otra autoridad en ejercicio de sus funciones;
 
-VIII. Fungir como Auxiliar del Ministerio Público;
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2009)</small>
 
-IX. Tomar las medidas conducentes para el desempeño de sus funciones;
+V. Promover que en sus respectivas demarcaciones se establezcan los servicios públicos que requiera la comunidad;
 
-X. Solicitar al Ayuntamiento los medios que estimen necesarios para el desempeño de sus funciones; y
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2009)</small>
 
-XI. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
+VI. Vigilar el cumplimiento del precepto de la enseñanza obligatoria, tanto para los niños como para las niñas;
+
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2009)</small>
+
+VII. Dar parte a las autoridades de la aparición de cualquier calamidad pública para que se tomen las medidas convenientes;
+
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2009)</small>
+
+VIII. Actuar por delegación en el ejercicio de las funciones, comisiones o encargos que el Ayuntamiento le encomiende;
+
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2009)</small>
+
+IX. Fungir como Auxiliar del Ministerio Público;
+
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2009)</small>
+
+X. Tomar las medidas conducentes para el desempeño de sus funciones;
+
+> <small>(REFORMADA, G.O. 7 DE ENERO DE 2009)</small>
+
+XI. Solicitar al Ayuntamiento los medios que estimen necesarios para el desempeño de sus funciones; y
+
+> <small>(ADICIONADA, G.O. 7 DE ENERO DE 2009)</small>
+
+XII. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
 
 ### CAPÍTULO X. DE LOS CRONISTAS MUNICIPALES
 
@@ -2656,3 +2710,9 @@ Segundo. Los procedimientos de revocación o suspensión del mandato de los edil
 G.O. 15 DE AGOSTO DE 2007.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
+
+G.O. 7 DE ENERO DE 2009.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto
