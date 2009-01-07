@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-5149
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-07-15"
-last_updated: "2008-04-23"
+last_updated: "2009-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2009.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2006.
 
@@ -333,7 +333,9 @@ X. Designar y tomar la protesta a los Consejeros representantes del Poder Legisl
 
 XI. Crear el Diario de los Debates y la Gaceta Parlamentaria, y actualizarlos en los términos que señale el Reglamento.
 
-El Diario de los Debates es el órgano oficial en el que se publicará la fecha y el lugar en que se verifique la sesión, el orden del día, el nombre del presidente que presida, el acta de la sesión anterior, la versión escrita de las discusiones en el orden en que se desarrollaron y la inserción íntegra de todos los documentos que fueron leídos.
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2009)</small>
+
+El Diario de los Debates es el órgano oficial en el que se publicará la fecha y el lugar en que se verifique la sesión, el orden del día, el nombre del presidente que presida, el acta de la sesión anterior, la versión escrita de las discusiones en el orden en que se desarrollaron; además, se agregará un ejemplar de la Gaceta Parlamentaria al acta correspondiente de la fecha en que se llevó a cabo la sesión respectiva. Solo se podrá solicitar a la presidencia de la Mesa Directiva, se inserten de manera íntegra al Diario de los Debates, aquellos documentos que no hayan sido publicados en la Gaceta Parlamentaria a solicitud de algún diputado, siempre y cuando se haya aprobado su inclusión en el orden del día, autorizado lo anterior se podrá dar cuenta de un resumen o síntesis de su contenido por quien corresponda.
 
 La Gaceta Parlamentaria es el instrumento de publicidad del Poder Legislativo y deberá contener las iniciativas, los puntos de acuerdo y los dictámenes que se agenden en cada sesión. Adicionalmente podrán ser incluidos otros documentos cuando así lo determine la Presidencia de la Mesa Directiva;
 
@@ -2144,3 +2146,7 @@ P.O. 23 DE ABRIL DE 2008.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 7 DE ENERO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
