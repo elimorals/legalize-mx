@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-general-del-poder-legislativo-del-estado-de-52505"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-13"
-last_updated: "2008-06-14"
+last_updated: "2009-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2009.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 13 de diciembre de 2006.
 
@@ -775,9 +775,9 @@ V. Remisión al Poder Ejecutivo.
 
 Las resoluciones de la Legislatura tendrán el carácter de ley, decreto o acuerdo.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2009)</small>
 
-Artículo 94 bis.- En las Sesiones del Pleno a que se refiere el artículo 83 de este Reglamento, el orador proponente de iniciativas, puntos de acuerdo o dictámenes, podrá solicitar a la Presidencia, la inserción íntegra de su propuesta en el Diario de los Debates a que se refiere la fracción XI del artículo 20 de la Ley Orgánica del Poder Legislativo, en cuyo caso, podrá argumentar su propuesta exponiendo un resumen o síntesis de su contenido.
+Artículo 94 bis.- En las Sesiones del Pleno a que se refiere el artículo 83 de este Reglamento, el orador proponente de iniciativas, puntos de acuerdo o dictámenes, que se hayan publicado en la Gaceta Parlamentaria, podrá solicitar a la Presidencia, se le autorice argumentar su propuesta exponiendo un resumen o síntesis de su contenido, si así lo desea.
 
 ### Capítulo II. De las iniciativas
 
@@ -2260,3 +2260,7 @@ Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
 P.O. 14 DE JUNIO DE 2008.
 
 Único.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 7 DE ENERO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
