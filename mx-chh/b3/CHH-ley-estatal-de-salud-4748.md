@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-4748"
 country: "mx"
 rank: "ley"
 publication_date: "1987-03-11"
-last_updated: "2007-08-04"
+last_updated: "2009-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2009.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 11 de marzo de 1987.
 
@@ -920,6 +920,10 @@ La divulgación o emisión de publicaciones, imágenes o escenas vinculadas dire
 ###### ARTICULO 96.
 
 El Ejecutivo Local formulará y desarrollará programas de nutrición estatales promoviendo la participación de los organismos cuyas atribuciones tengan relación con los mismos, así como de los sectores social y privado.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2009)</small>
+
+Particularmente establecerá, a través de la Secretaría de Educación y Cultura, programas tendientes a fomentar hábitos alimenticios adecuados para prevenir enfermedades relacionadas con una' deficiente nutrición de los educandos.
 
 ###### ARTICULO 97.
 
@@ -2344,3 +2348,9 @@ P.O. 4 DE AGOSTO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Ejecutivo del Estado, a través de la Secretaría de Fomento Social, deberá implementar los programas especiales y permanentes de detección y atención especializada de cáncer mamario y cérvico-uterino en un plazo de noventa días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 7 DE ENERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
