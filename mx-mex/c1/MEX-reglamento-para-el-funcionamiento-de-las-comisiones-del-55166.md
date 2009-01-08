@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-el-funcionamiento-de-las-comisiones-del-55166"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-04"
-last_updated: "2008-11-27"
+last_updated: "2009-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE ENERO DE 2009.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 4 de abril de 2007.
 
@@ -2523,2603 +2523,1233 @@ II. En su caso, podrá enviar al término del evento un reporte pormenorizado de
 
 III. La Comisión proveerá lo necesario para la transmisión de los debates realizados, en el Sistema de Radio y Televisión Mexiquense.
 
-> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES, APARTADOS Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 # LIBRO SEXTO. DE LA FISCALIZACIÓN
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+1. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-1. La normatividad contenida en el presente documento, es de observancia para todos los partidos políticos y coaliciones, que hayan sido registrados o acreditados ante el Instituto Electoral del Estado de México y se aplicará tanto para las actividades ordinarias así como para las de precampaña y campaña.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+2. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-2. El presente Libro tiene por objeto establecer los criterios y reglas que deberán observar los partidos políticos y coaliciones, para registrar todos sus ingresos y gastos, tanto ordinarios, de precampaña y de campaña; así como la presentación de los informes que den cuenta del origen y el monto de los ingresos que obtengan por cualquier tipo de financiamiento y de su aplicación, como lo establecen las fracciones I y II del artículo 62 del Código Electoral del Estado de México.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+3. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-3. Para las campañas de las candidaturas comunes que se postulen, cada partido político llevará sus registros contables.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+4. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-4. Los partidos políticos y coaliciones deberán proporcionar los datos y documentos oficiales que garanticen la veracidad de lo reportado en los informes de origen y el monto de sus ingresos, así como la aplicación y empleo de sus egresos conforme a las disposiciones contenidas en este ordenamiento y demás disposiciones de la materia.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+5. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-5. Los plazos y términos concedidos en el presente Libro, se computarán por días naturales durante el proceso electoral y días hábiles en periodo no electoral.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+6. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-6. Para los efectos del presente Libro se entenderá por:
-
-I. Código: El Código Electoral del Estado de México.
-
-II. Instituto: El Instituto Electoral del Estado de México.
-
-III. Tribunal: El Tribunal Electoral del Estado de México.
-
-IV. Consejo: El Consejo General del Instituto Electoral del Estado de México.
-
-V. Comisión: La Comisión de Fiscalización del Instituto Electoral del Estado de México.
-
-VI. Secretaría Técnica: La Secretaría Técnica de la Comisión de Fiscalización del Instituto.
-
-VII. Partidos Políticos: A las entidades de interés público, con acreditación o registro ante el Instituto.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-7. Además de los anteriores conceptos y para efectos de apoyo e interpretación de los partidos políticos se entenderán los incluidos en el glosario que forma parte del presente Libro.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+7. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Articulo 6.
 
-8. Todo lo no previsto en el presente Libro será resuelto por la propia Comisión, o por el Consejo General en su caso.
+8. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO II. Del Órgano Interno
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+9. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-9. Como lo dispone el artículo 59 del Código, los partidos políticos deberán contar con un Órgano Interno encargado de la percepción y administración de sus recursos generales, de precampaña y de campaña, así como de la presentación de los informes correspondientes.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+10. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-10. El Órgano Interno será el único responsable ante el Consejo y la Comisión para entregar oportuna y verazmente, la información que determina el Código y el presente Libro, así como la que soliciten expresamente tanto el Consejo como la Comisión.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+11. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-11. Los partidos políticos y coaliciones dentro de los cinco días siguientes a su registro deberán acreditar ante el Instituto, a través de la Comisión y mediante nombramiento oficial, al personal que será responsable administrativo de su Órgano Interno, encargado de la administración de sus recursos financieros, materiales, técnicos y humanos de que disponga; asimismo podrán designar Órganos Internos Desconcentrados o una estructura organizacional definida, misma que deberá contener las funciones, jerarquías y responsabilidades.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+12. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-12. El Órgano Interno deberá apegarse para el registro de sus operaciones financieras a los Principios de Contabilidad Generalmente Aceptados que le sean aplicables a los partidos políticos o coaliciones. Asimismo a aquellos procedimientos o bases de registro específicos que en materia electoral sean revisados y aprobados por la Comisión y el Consejo, en su caso.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+13. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-13. Los partidos políticos y coaliciones a través de su Comité Estatal o equivalente deberán acreditar al personal que integre el Órgano Interno durante el primer mes de cada año tratándose de actividades ordinarias y al inicio del proceso electoral para actividades de precampaña y de campaña. Asimismo deberán señalar quiénes lo conforman: el que fungirá como titular del mismo, el que recibirá el financiamiento público y la persona facultada para signar los informes anuales, de precampaña y de campaña, así como los documentos relativos a los mismos. Y a falta del titular de cualquier acreditado será el representante del partido político ante el Consejo General.
+14. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-14. En proceso electoral los partidos políticos que decidan coaligarse deberán señalar en el convenio, la integración del Órgano Interno.
-
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO III. Del Registro Contable
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN PRIMERA. De la contabilidad, del catálogo de cuentas y guía contabilizadora
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+15. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-15. Para el registro contable de las operaciones de los partidos políticos y coaliciones, los Órganos Internos utilizarán el catálogo de cuentas y guía contabilizadora que en este Libro se establecen. Además observarán lo siguiente:
-
-I. Los partidos políticos que integren coaliciones llevarán su contabilidad por separado y por cada una de las campañas en que participen, y para la presentación de los estados financieros consolidarán sus resultados.
-
-II. Los partidos políticos que postulen candidaturas comunes llevarán su contabilidad de forma separada por cada una de las campañas en que participen.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+16. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-16. En la medida de sus necesidades y requerimientos, cada Órgano Interno podrá abrir cuentas adicionales para llevar su control contable.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+17. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-17. Los Órganos Internos generarán en forma mensual las balanzas de comprobación, las cuales deberán contener los saldos iniciales, los movimientos y saldos finales del periodo contable que corresponda.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+18. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-18. Cada Órgano Interno deberá realizar de forma mensual las conciliaciones bancarias, basándose en el estado de cuenta del banco y registros auxiliares de bancos. Estas conciliaciones deberán ser avaladas por él o los responsables del mismo.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+19. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-19. Los partidos políticos y coaliciones tendrán la obligación de conservar la contabilidad y su documentación soporte en los términos que señala el Código Fiscal de la Federación. La Secretaría General del Instituto resguardará la documentación que integre a los informes ordinarios, de precampaña, campaña y otros.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+20. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-20. Los partidos políticos practicarán cuando menos una vez al año, un inventario físico de bienes muebles e inmuebles de su propiedad.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+21. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-21. El inventario físico de bienes muebles e inmuebles deberá estar con corte al último día del mes de diciembre de cada año utilizando el formato IAF.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+22. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-22. El Órgano Interno podrá determinar que intervengan auditores externos para supervisar dichos inventarios, o bien podrá solicitar a la Secretaría Técnica de la Comisión que designe personal comisionado para tal fin.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+23. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-23. Los partidos políticos y coaliciones deberán instaurar y aplicar, tanto en actividades ordinarias como de precampaña y campaña, un sistema de control de activo fijo que les permita reducir riesgos, tales como: desvíos, conductas inapropiadas, errores o irregularidades que conlleven a la salvaguarda de los mismos. Para ello, los partidos políticos y coaliciones deberán seguir las siguientes políticas de control interno:
+24. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-I. Los bienes muebles e inmuebles existentes deberán ser utilizados exclusivamente en el cumplimiento de los fines para los cuales está constituido el partido político y la coalición. La Comisión podrá inspeccionar y verificar la existencia y utilización de los mismos;
-
-II. Los bienes muebles e inmuebles existentes deberán estar correctamente inventariados y resguardados bajo el formato IAF;
-
-III. En caso de modificaciones al activo fijo por concepto de altas o bajas deberán requisitarse los formatos AAF y BAF;
-
-IV. Considerando la vida probable de uso y monto de adquisición, el Órgano Interno deberá tomar en cuenta como bienes muebles de poco valor las adquisiciones y donaciones con un monto máximo de cincuenta veces el salario mínimo diario general vigente en la capital del Estado de México (Zona C), los cuales no serán registrados como activos fijos, sino en cuenta de gastos;
-
-V. Que los trámites y movimientos para la salvaguarda, funcionamiento y uso de los activos fijos, se efectúen con la autorización del Órgano Interno;
-
-VI. Que se integren los expedientes con la información que se genere en el manejo y control de los activos fijos incluyendo la factura original cuidando que estén actualizados y correctamente archivados; y
-
-VII. El Órgano Interno deberá clasificar contablemente los activos fijos de acuerdo a su naturaleza de inversión, de conformidad con el catálogo de cuentas.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-24. Los partidos políticos y las coaliciones deberán formalizar mediante contratos de comodato las aportaciones temporales de bienes muebles e inmuebles realizadas por los militantes y simpatizantes.
-
-Los registros contables deberán aplicarse en cuentas de orden, los cuales no afectarán al patrimonio del partido político, sino su objetivo principal será el de reconocer a los bienes como propiedad de terceros.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN SEGUNDA. De los estados financieros
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+25. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-25. Los partidos políticos y coaliciones deberán elaborar los siguientes estados financieros: el de Posición Financiera, el Estado de Ingresos y Egresos y el estado de cambios en la posición financiera.
+26. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-26. Los estados financieros correspondientes deberán ser avalados por él o los responsables del Órgano Interno de cada partido político o coalición.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN TERCERA. De los ingresos
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+27. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-27. Todos los ingresos en efectivo y en especie por cualquier modalidad de financiamiento que reciban los partidos políticos y coaliciones, en términos de lo dispuesto en el artículo 58 fracción I del Código, así como por las transferencias deberán registrarse contablemente conforme al catálogo de cuentas y estar sustentados con la documentación correspondiente.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+28. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-28. Todos los ingresos por cualquier modalidad de financiamiento y por transferencias serán reconocidos cuando efectivamente se hayan recibido y se registrarán contablemente en cuentas específicas según su naturaleza.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+29. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-29. Todos los ingresos en efectivo que reciban los partidos políticos y las coaliciones deberán depositarse en cuenta bancaria específica, tanto para actividades ordinarias como de precampaña y campaña a nombre del partido político o coalición, además serán manejadas mancomunadamente por quienes designe el Comité Directivo Estatal, no teniendo injerencia de ninguna índole el Comité Directivo Nacional.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+30. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-30. El Órgano Interno deberá realizar un corte de cheques al último día de cada mes, con el objeto de conocer los cheques utilizados, cancelados y los pendientes de usar.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+31. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-31. Respecto a las donaciones de bienes muebles, que reciban los partidos políticos y las coaliciones deberán formalizarse mediante los contratos conforme a los ordenamientos legales aplicables; determinándose su valor a través de una cotización no mayor a un año de antigüedad, o al valor de mercado en el momento de la donación.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+32. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-32. Para determinar el valor de registro de las donaciones de bienes inmuebles deberán registrarse de conformidad con el avalúo emitido por el perito valuador en la materia o conforme a su valor catastral.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-33. En caso de que la Comisión dude sobre cualquier valor de registro podrá ordenar que se solicite una cotización o avalúo realizado por un perito en la materia autorizado por la misma absorbiendo los gastos el propio partido político o coalición.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+33. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Articulo 6.
 
-34. El Órgano Interno deberá elaborar los recibos foliados correspondientes por las aportaciones de sus militantes y organizaciones sociales (APOM), y simpatizantes (APOS) y serán llenados de manera que los datos resulten legibles en las copias, las que quedarán en poder del partido político.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+34. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-35. El Órgano Interno deberá realizar un corte de los recibos de aportaciones de militantes, organizaciones sociales y simpatizantes al último día de cada mes, con el objeto de conocer los recibos utilizados cancelados los pendientes de utilizar, usando los formatos APOM1 y APOS1, según corresponda.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+35. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-36. El Órgano Interno en el último día de cada mes, integrará a detalle los montos aportados por militantes, simpatizantes y organizaciones sociales, utilizando los formatos APOM2 y APOS2.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+36. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-37. La suma total de las aportaciones en efectivo provenientes por cada una de las modalidades del financiamiento que no provenga del erario público, no podrá ser mayor al financiamiento público correspondiente.
+37. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN CUARTA. De los Militantes
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
 ###### Artículo 6.
 
-38. Cada partido político determinará libremente los montos mínimos y máximos y la periodicidad de las cuotas ordinarias y extraordinarias de sus afiliados; y controlará preferentemente a través de un padrón, el registro de sus afiliados, así como las aportaciones de sus organizaciones sociales en términos del artículo 58 fracción V apartado A, inciso b) del Código. El Órgano Interno deberá informar de los montos anteriores dentro de los primeros treinta días de cada año a la Comisión. Asimismo deberá informar de las modificaciones dentro de los treinta días siguientes de la fecha en que los determine.
+38. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN QUINTA. De los Simpatizantes
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+39. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-39. El financiamiento de simpatizantes estará conformado por las aportaciones o donativos en dinero o en especie hechas a los partidos políticos y a las coaliciones en forma libre y voluntaria, por las personas físicas o morales mexicanas con residencia en el país, a excepción de las de carácter mercantil.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+40. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-40. Las aportaciones o donativos en dinero superiores a treinta y tres salarios mínimos vigentes en la Capital del Estado de México (Zona C), se harán en todo caso, por medio de libramiento de cheque para depósito en cuenta del partido, del cual se conservará copia en la póliza contable correspondiente.
+41. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-41. Los partidos políticos y las coaliciones, no podrán recibir aportaciones de personas no identificadas, con excepción de las obtenidas mediante colectas realizadas en mítines o en vía pública.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN SEXTA. Del autofinanciamiento
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+42. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-42. El autofinanciamiento de los partidos políticos y las coaliciones estará conformado por los ingresos que obtengan de actividades promocionales, tales como: conferencias, espectáculos, juegos, sorteos, eventos culturales y ventas editoriales, así como cualquier otra similar que realicen para allegarse de fondos, siempre y cuando cumplan con las disposiciones legales que les sean aplicables.
+43. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-Por cada evento realizado deberá integrarse un expediente, en donde se conserven los permisos, pago de derecho, talonarios, y otros que sean necesarios.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-43. Los ingresos por autofinanciamiento estarán apoyados en un control por cada evento y se elaborará el formato AUTOFIN. En el último día de cada mes integrará a detalle los ingresos obtenidos según el formato AUTOFIN1.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN SÉPTIMA. De los rendimientos financieros
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+44. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-44. Se entenderá por rendimientos financieros a los intereses y dividendos generados por el manejo del financiamiento en cualquiera de sus modalidades en instituciones bancarias.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+45. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-45. Los rendimientos financieros deberán destinarse al cumplimiento del artículo 58 fracción V apartado D inciso c) del Código. Podrán crear un fondo o fideicomiso, para lo cual los partidos políticos y las coaliciones deberán sujetarse a las siguientes reglas:
+46. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-a) En la elaboración del contrato correspondiente, se incluirá una cláusula por la que se autorice a la Comisión solicitar a la Institución Fiduciaria correspondiente, la información que considere necesaria a fin de verificar la correcta utilización de los recursos, renunciando expresamente los partidos políticos y las coaliciones, al secreto bancario previsto por la Ley de la materia (artículo 117 de la Ley de Instituciones de Crédito y Organizaciones Auxiliares);
-
-b) Los fondos y fideicomisos deberán ser registrados ante la Secretaria Técnica de la Comisión remitiendo un ejemplar del contrato o convenio correspondiente, dentro de los treinta días siguientes a su constitución;
-
-c) Los rendimientos financieros obtenidos, a través de esta modalidad deberán destinarse para el cumplimiento de los fines del partido político y coalición; y
-
-d) Los ingresos por rendimientos financieros, en fondos o fideicomisos estarán sustentados con los estados de cuenta que les remitan las instituciones bancarias o financieras, así como por los documentos en que consten los actos constitutivos o modificatorios de las operaciones financieras.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-46. Los ingresos obtenidos mensualmente o por el periodo que corresponda por concepto de rendimientos financieros serán registrados contablemente en cuenta específica conforme al catálogo de cuentas y deberán controlarse a través del formato RENDIFIN.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN OCTAVA. De las Transferencias
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+47. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-47. Todos los recursos en efectivo que sean transferidos del Comité Ejecutivo Nacional, de organizaciones adherentes u órgano equivalente al Comité Ejecutivo Estatal serán recibidos por el Órgano Interno y deberán depositarse en cuentas bancarias a nombre del partido político o coalición.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+48. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-48. Las transferencias de recursos que se efectúen serán registradas como tales en la contabilidad del partido político o coalición y deberán conservarse las pólizas de los cheques correspondientes junto con los recibos que hubiere expedido el Órgano Interno que reciba los recursos transferidos.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+49. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-49. Los partidos políticos y las coaliciones serán responsables hasta por treinta días posteriores a la realización de la transferencia, para entregar ante la Comisión la documentación probatoria del origen de los recursos.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+50. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-50. El órgano interno controlará cada una de las trasferencias mediante el formato TRANSFER.
+51. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-51. Los partidos políticos podrán recibir transferencias de recursos de su dirigencia nacional, comités estatales o municipales, pero en ningún caso, podrán transferir fondos al Comité Directivo Nacional así como a la de otros estados.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN NOVENA. De los egresos
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+52. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-52. Los partidos políticos y las coaliciones deberán proporcionar los datos y documentos que avalen la veracidad de lo reportado como egresos, conforme a las disposiciones contenidas en este ordenamiento y demás disposiciones aplicables, debiendo ser en todo tiempo verificables y razonables, presentando la documentación soporte sin tachaduras ni enmendaduras.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+53. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-53. Todos los egresos realizados deberán destinarse para el cumplimiento de los fines de los partidos políticos y de las coaliciones.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+54. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-54. Todos los gastos deberán contabilizarse en pólizas de egresos o de diario, de acuerdo con el movimiento realizado; por regla general, los cheques emitidos se expedirán de forma nominativa. Para aquellas erogaciones superiores a $2,000.00 (Dos mil pesos 00/100 M.N.) deberán cubrirse a través de cheque nominativo a favor del proveedor, salvo en los casos de gastos a comprobar, viáticos, pasajes y erogaciones efectuadas por cuenta del partido político y la coalición a través de personal autorizado, los cuales se emitirán a nombre del beneficiario directo, quien comprobará a más tardar dentro de los treinta días siguientes.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+55. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-55. Los gastos por arrendamiento, así como los de servicios personales pagados por nómina y honorarios deberán contar con el soporte documental autorizado por el responsable del Órgano Interno, así como con las retenciones de orden fiscal que correspondan de conformidad con su modalidad.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+56. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-56. Los partidos políticos y las coaliciones tendrán las obligaciones de retener y enterar el impuesto y exigir la documentación que reúna los requisitos fiscales cuando hagan pagos a terceros y estén obligados a ello en términos del artículo 102 de la Ley del Impuesto Sobre la Renta.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+57. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-57. Para el control de reconocimientos por actividades políticas deberán de expedirse recibos foliados (REPAP) de manera progresiva permaneciendo el original en poder del Órgano Interno y la copia para el beneficiario.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+58. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-58. Las erogaciones por reconocimientos en actividades políticas a militantes y simpatizantes podrán otorgarse para apoyo político tanto en actividades ordinarias como de precampaña y campaña. Los cuales no podrán exceder en un mes a una sola persona, de una cantidad equivalente a cuatrocientos días de salario mínimo general vigente en la capital del Estado de México (Zona C); y en su conjunto no deberán exceder la cantidad equivalente a tres mil días de salario mínimo en un año para actividades ordinarias y en el proceso electoral.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+59. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-59. El Órgano Interno realizará un corte de los recibos de reconocimientos por actividades políticas al último día de cada mes, con el objeto de conocer los utilizados, cancelados y pendientes de usar; a través del formato REPAP1.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+60. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-60. Los gastos por obtención de recursos materiales o suministros, servicios generales e inversiones deberán contar con la autorización por escrito o firma dentro del mismo comprobante, de quien autorizó el gasto y de quien recibió el material, servicio o bien.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+61. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-61. Toda comprobación de gastos será registrada y soportada con la documentación original comprobatoria que cumpla con los requisitos fiscales contemplados en los artículos 29 y 29A del Código Fiscal de la Federación y el artículo 37 del Reglamento del Código referido.
-
-La comprobación de los gastos también podrá llevarse a cabo a través de la facturación electrónica, siempre y cuando cumpla con las disposiciones fiscales que establece la Secretaría de Hacienda y Crédito Público.
-
-Los comprobantes que el partido presente como sustento de sus gastos que indiquen que se trató de erogaciones realizadas fuera del territorio nacional, deberán estar acompañados de los documentos probatorios correspondientes.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+62. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-62. Con el objeto de mejorar la calidad de su control interno en la documentación probatoria de los gastos y de agilizar la revisión, los Órganos Internos deberán utilizar un sello fechador que incluya el logotipo del partido y la leyenda de "ordinarios", "precampaña" o "campaña" según corresponda (ver Anexo "Sellos de control").
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+63. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-63. Cuando se compre o se reciba un bien o servicio, así como cuando haya servicios personales devengados, que a la fecha del cierre del periodo reportado en algún informe no estén efectivamente pagados deberán registrarse contablemente creando el pasivo correspondiente en la cuenta de proveedores o acreedores diversos, a fin de reconocer el gasto en el periodo que corresponda y reservar el recurso respectivo.
-
-Los Órganos Internos deberán justificar la antigüedad de los saldos mayores a un año.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+64. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-64. Todos los materiales adquiridos, que sean almacenables y no sean de consumo inmediato deberán registrarse en la subcuenta específica de la cuenta de almacén y controlarse en kárdex por cada tipo de material, que permita identificar claramente las entradas y salidas de estos materiales de manera cronológica.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+65. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-65. La comprobación de viáticos y pasajes, considerados como gastos menores deberán estar acompañados de la documentación probatoria mínima, así como requisitar el formato BITÁCORA.
+66. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-66. Cuando el Comité Ejecutivo Estatal tenga la obligación de remitir la documentación original probatoria de aquellos gastos efectuados con recursos transferidos por el Comité Ejecutivo Nacional, estos comprobantes deberán ser previamente cotejados por la Comisión o por notario público conservando copia fotostática de ellos.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO IV. De los Informes de los Partidos Políticos
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+67. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-67. Los partidos políticos y las coaliciones deberán entregar en las fechas establecidas por el artículo 61 del Código a la Comisión a través de la Secretaría Técnica, los informes correspondientes sobre el origen y monto de los ingresos que reciban por cualquier modalidad de financiamiento y transferencias, así como su aplicación y empleo.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+68. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-68. Los informes deberán ser presentados debidamente suscritos por él o los responsables del Órgano Interno del partido político o la coalición.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+69. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-69. La presentación de los informes anuales, de precampaña y campaña de los partidos políticos y las coaliciones, se realizará ante la Secretaria Técnica de la Comisión, a través de oficialía de partes, quien expedirá el acuse de recibo correspondiente.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+70. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-70. Una vez presentados los informes a la Comisión, esta documentación no podrá ser modificada; sólo podrá ser complementada, a través de aclaraciones o rectificaciones derivadas de la existencia de errores u omisiones detectadas durante el proceso de revisión.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+71. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-71. La integración del informe comprenderá los siguientes documentos:
+72. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-I. Estados financieros;
-
-II. Las balanzas de comprobación y auxiliares correspondientes;
-
-III. Las conciliaciones bancarias junto con los estados de cuenta y el auxiliar de bancos;
-
-IV. Los controles de folios (APOM1, APOS1, REPAP1);
-
-V. El inventario físico de bienes muebles e inmuebles; y
-
-VI. Formatos y anexos correspondientes.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-72. La documentación señalada como sustento para la comprobación de los informes anuales, de precampaña y campaña, así como la documentación que la propia Comisión tenga bajo su resguardo deberá ser conservada en los términos que señala el Código Fiscal de la Federación y a partir de la fecha en que se aprueben los dictámenes correspondientes por el Consejo.
-
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO V. De la Revisión y Dictamen de los Informes
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN PRIMERA. De la revisión
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+73. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-73. Las revisiones de los Informes estarán a cargo de la Comisión y el personal auxiliar que la propia Comisión designe.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+74. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-74. La Comisión, a través de la Secretaría Técnica tendrá la facultad de solicitar al Órgano Interno de cada partido político y coalición, la documentación necesaria para comprobar la veracidad de lo reportado en los informes anuales, de precampaña y campaña. Durante el periodo de revisión, los partidos políticos y coaliciones tendrán la obligación de permitir a la autoridad electoral, el acceso a todos los documentos originales que soporten sus registros contables e instalaciones.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+75. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-75. La Comisión podrá determinar la realización de verificaciones selectivas de la documentación probatoria de los ingresos y gastos de los partidos políticos y de las coaliciones, a partir de criterios objetivos emanados de las Normas y Procedimientos de Auditoria. Dichas verificaciones podrán ser totales o parciales de uno o varios rubros.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+76. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-76. La Secretaría Técnica informará por escrito a los partidos políticos y coaliciones, los nombres del personal encargado de la verificación documental y registro contable correspondiente y señalará día y hora para realizar la comparecencia en las oficinas del partido o bien para que se realice la entrega de la información en las oficinas de la misma. El personal comisionado deberá identificarse adecuadamente ante los representantes de los partidos políticos.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+77. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-77. El personal comisionado para la revisión podrá señalar al reverso de los comprobantes presentados por el partido político y la coalición como soporte documental de sus ingresos y egresos, el año revisado, la fecha de revisión y su firma.
+78. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-78. Durante la ejecución del procedimiento de revisión de los informes de los partidos políticos y las coaliciones, la Comisión podrá solicitar a éstos, que pidan por escrito a las personas físicas o morales que hayan extendido comprobantes de ingresos y egresos en favor de los partidos políticos y coaliciones confirmen las operaciones amparadas en dichos comprobantes. De los resultados obtenidos, se informará en el dictamen correspondiente.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN SEGUNDA. Del periodo de garantía de audiencia
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+79. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-79. La Comisión notificará al Órgano Interno cuando considere que de la revisión de los informes se desprenda la existencia de errores u omisiones técnicas, así como conductas sancionables conforme al Código o a otras leyes aplicables y le otorgará un plazo de veinte días contados a partir de la notificación para que presente los documentos probatorios y haga las aclaraciones o rectificaciones que estime convenientes.
+80. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-80. Cuando a un partido político o coalición se le notifique de algún error u omisión y no lo enmiende o aclare en los términos antes señalados, se precluirá su derecho a hacerlo y se tendrán por ciertos.
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN TERCERA. De las sanciones
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
 ###### Artículo 6.
 
-81. La Comisión podrá proponer al Consejo las sanciones a los partidos políticos y a las coaliciones, independientemente de las responsabilidades en que incurran al incumplir en tiempo y forma con la obligación contenida en el artículo 61 del Código.
+81. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN CUARTA. Del Dictamen de la Comisión
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+82. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-82. En cumplimiento a lo dispuesto por el artículo 61 fracción III incisos a) y d) del Código, la Comisión deberá culminar el análisis y estudio de los informes anuales y de campaña dentro de los plazos de sesenta y noventa días respectivamente; así como emitir el dictamen sobre los mismos, el cual contendrá al menos el resultado y conclusiones; los errores, omisiones e irregularidades detectadas, las aclaraciones o rectificaciones y las recomendaciones contables y administrativas.
+83. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-Tratándose del procedimiento para la revisión y resolución de los informes de precampaña se estará a lo dispuesto por los artículos 61, fracción II, apartado 1, inciso d) y 144 H del Código, y el capítulo IX del presente Libro.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-83. Si del análisis y revisión que realice la Comisión se desprenden conductas sancionables conforme al Código o a otras leyes aplicables, ésta le notificará sobre las mismas al Consejo.
-
-> <small>(ADICIONADO CON LAS SECCIONES, APARTADOS Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO VI. De la Fiscalización de los Informes por Actividades Ordinarias
 
-> <small>(ADICIONADA CON LOS APARTADOS Y ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN PRIMERA. Del origen y monto de los ingresos
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 Financiamiento público
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
 ###### Artículo 6.
 
-84. Los partidos políticos y las coaliciones gozarán del financiamiento que apruebe anualmente el Consejo para el ejercicio exclusivamente de sus actividades ordinarias y se entregará por la Dirección de Partidos Políticos a las personas debidamente acreditadas por los mismos, para ese fin. El financiamiento público ordinario no podrá ser ejercido para cubrir gastos de campaña.
+84. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 Otras modalidades de financiamiento
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+85. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-85. Al financiamiento obtenido por los partidos políticos y las coaliciones mediante las modalidades de militantes, simpatizantes, autofinanciamiento, rendimientos financieros y transferencias, les será aplicable la normatividad contenida en el presente Libro del Capítulo III Secciones, Cuarta, Quinta, Sexta, Séptima y Octava, respectivamente.
+86. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-86. Las aportaciones en dinero que realice cada simpatizante tendrán un límite anual equivalente al 0.1% del monto total del financiamiento público otorgado a los partidos políticos y en su conjunto, la suma de estas aportaciones deberán ser menores al que reciban como financiamiento público.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN SEGUNDA. De la aplicación del financiamiento
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+87. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-87. Los partidos políticos y las coaliciones podrán ejercer el financiamiento para cubrir gastos sobre servicios personales, materiales y suministros, servicios generales, gastos financieros, publicidad y propaganda institucional, impuestos, activos fijos y otro tipo de gastos de menor cuantía.
+88. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-88. Los egresos considerados como menores que efectúen los partidos políticos y las coaliciones por concepto de viáticos y pasajes en un ejercicio anual, podrán ser comprobados hasta el 10% del monto total del financiamiento público ordinario que le corresponda a cada partido político o coaliciones a través del formato BITÁCORA. En todo caso, se anexarán a las bitácoras los comprobantes simplificados que se recaben.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN TERCERA. De los informes, formatos y anexos
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+89. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-89. El Órgano Interno entregará a la Comisión el informe anual del origen y monto por financiamiento, así como su aplicación y empleo, en los términos de lo señalado por el artículo 61 fracciones I y III del Código.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+90. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-90. El informe anual que deberá remitirse a la Comisión contendrá los siguientes:
-
-FORMATOS CLAVES
-
-Control de folios de los recibos de militantes APOM1
-
-Detalle de montos aportados
-
-por los militantes APOM2
-
-Control de folios de los recibos
-
-de simpatizantes APOS1,
-
-Detalle de montos aportados
-
-por los simpatizantes APOS2
-
-Detalle de ingresos obtenidos
-
-por autofinanciamiento AUTOFIN1
-
-Detalle de ingresos obtenidos
-
-por rendimientos financieros RENDIFIN,
-
-Detalle de las transferencias realizadas TRANSFER
-
-Control de folios de recibos
-
-de reconocimientos por actividades políticas REPA P1
-
-Detalle de montos otorgados
-
-a cada persona de reconocimiento
-
-por actividades políticas REPA P2
-
-Relación detallada de mensajes
-
-promocionales en televisión PROMTV
-
-Detalle de proveedor de promocionales
-
-en televisión PROMTV1
-
-Relación detallada de mensajes
-
-promocionales en radio PROMR
-
-Detalle por proveedor de
-
-promociones en radio PROMR1,
-
-Relación detallada de mensajes
-
-promocionales en prensa PROMP
-
-Detalle por proveedor de
-
-promocionales en prensa PROMP1
-
-Altas de Activo Fijo AAF
-
-Bajas de Activo Fijo BAF
-
-Inventario de Activo Fijo IAF
-
-Carta en la que expresa no haber
-
-recibido financiamiento según lo establecen
-
-los artículos 58 fracción I, último párrafo
-
-y 60 del Código. CARTA.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+91. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-91. En el caso de que algún formato no haya sido aplicable, éste deberá señalarse o presentarse con la leyenda de NO APLICABLE, o en su defecto el órgano interno deberá comunicar por oficio a la Comisión cuando no se aplique alguno de los formatos.
+92. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-92. El informe anual que deberá remitirse a la Comisión contendrá los siguientes:
-
-ANEXOS
-
-a) Estados financieros dictaminados por Contador Público que cuente con Cédula Profesional expedida por la Secretaría de Educación Pública. Dichos documentos financieros son: el Estado de Posición Financiera al 31 de diciembre del año que se informa, el Estado de Ingresos y Egresos por el periodo comprendido del 1° de enero al 31 de diciembre del mismo año, y el estado de cambios en la posición financiera, los cuales contarán con sus notas aclaratorias respectivas;
-
-b) Balanza de comprobación anual a nivel cuentas de mayor y analítica;
-
-c) Auxiliares de todas las cuentas en forma anual; y
-
-d) Conciliaciones bancarias con los estados de cuenta bancarios y los auxiliares contables correspondientes.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN CUARTA. De la presentación de los informes
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+93. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-93. Los informes anuales deberán ser presentados a más tardar el treinta de marzo del año siguiente al que corresponda, en las oficinas de la Secretaría Técnica de la Comisión y contendrán los ingresos y gastos ordinarios de los partidos políticos.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+94. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-94. Se deberá anexar a los estados financieros dictaminados presentados por los partidos políticos dentro de sus Informes Anuales, copia certificada ante Notario Público de la Cédula Profesional del dictaminador.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+95. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-95. El dictamen elaborado por el Contador asignado por cada partido político deberá ser elaborado de conformidad con lo establecido por las Normas y Procedimientos de Auditoria emitidas por el Instituto Mexicano de Contadores Públicos, así como por la normatividad interna que la Comisión emita para estos efectos.
+96. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-96. La Comisión podrá realizar entrevistas con el auditor externo de cada partido político, con el objeto de obtener evidencia suficiente sobre los porcentajes determinados en el alcance de su revisión.
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN QUINTA. De la revisión de los informes, elaboración y presentación del dictamen al Consejo
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
 ###### Artículo 6.
 
-97. En cumplimiento a lo dispuesto por el artículo 61 fracciones I y III incisos a) y d) del Código, la Comisión deberá culminar el análisis y estudio de los informes de gastos ordinarios dentro del plazo de sesenta días; así como emitir el dictamen sobre los mismos, el cual contendrá al menos el resultado y conclusiones, los errores, omisiones e irregularidades detectadas; las aclaraciones o rectificaciones y las recomendaciones contables y administrativas.
+97. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN SEXTA. De las sanciones
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
 ###### Artículo 6.
 
-98. El Consejo en uso de las facultades que le confiere el artículo 95 fracción XL del Código y en cumplimiento a lo dispuesto por el artículo 355 del ordenamiento en cita podrá imponer a los partidos políticos, a sus dirigentes y candidatos a propuesta de la Comisión, independientemente de las responsabilidades en que incurran, al incumplir en tiempo y forma con la obligación contenida en el artículo 61 del Código, las siguientes sanciones:
+98. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-I. Multa de 150 a 2000 días de salario mínimo general vigente en la capital del Estado de México (Zona C), por incumplir con lo ordenado por el artículo 52 fracciones XV y XVIII del Código;
-
-II. Reducción de hasta el 50% de la entrega de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución, por incumplir con lo ordenado por el artículo 52 fracción III del Código, o reincidir en lo indicado por la fracción XVIII del mismo ordenamiento;
-
-III. Supresión total de la entrega de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución, por incumplir con lo ordenado por los artículos 58 fracción I último párrafo, 60 y 160 del Código;
-
-IV. Suspensión del registro como partido político, para participar en las elecciones locales que señale la resolución, por reincidir en el incumplimiento de lo dispuesto en los artículos 58 fracción I último párrafo y 60 del Código; y
-
-V. Cancelación del registro del partido político para participar en las elecciones locales por utilizar para gastos ordinarios, recursos provenientes de actividades ilícitas.
-
-> <small>(ADICIONADO CON LAS SECCIONES, APARTADOS Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO VII. De la Fiscalización de los Informes por Actividades de Campaña
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN PRIMERA. Del origen y monto de los ingresos
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
 ###### Artículo 6.
 
-99. Para la conformación de coaliciones, los partidos políticos que las integren deberán considerar en su convenio correspondiente, entre otras, las situaciones siguientes:
-
-I. Nombrar a los responsables del órgano interno encargados de la recepción del financiamiento, así como la obligación de entregar los informes que correspondan en los tiempos y términos citados legalmente;
-
-II. Señalar los porcentajes que les correspondería para cubrir compras consolidadas;
-
-III. Señalar cual será el domicilio para recibir notificaciones y en donde se procesaría la contabilidad; y
-
-IV. Señalar quien de los partidos políticos, será el responsable de consolidar la información financiera.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+99. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Articulo 6.
 
-100. Para el control de las operaciones de las coaliciones durante el proceso electoral, los partidos políticos que las integren deberán sujetarse al artículo 52 fracciones XIII, XIV, XV, XVIII y XXI del Código y al presente Libro, por lo que además deberán observar la normatividad siguiente:
-
-I. Los gastos administrativos y operativos que genere el órgano interno deberán ser prorrateados en los porcentajes previamente establecidos a cada una de las campañas en que participen los partidos políticos;
-
-II. La documentación probatoria de las operaciones estará a nombre de cada partido político que intervenga, misma que deberá ser resguardada y conservada por su respectivo partido político; y
-
-III. Las coaliciones consolidarán su información financiera por los periodos contables que determine la Comisión, a nivel cuentas de mayor y subcuentas principales (ver anexo de estados financieros consolidados).
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+100. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-101. Los partidos políticos que postulen candidatos comunes, conservarán cada uno de sus derechos, obligaciones y prerrogativas que les otorga el Código. Por lo que observarán lo siguiente:
-
-I. Los partidos políticos que las postulen llevarán en forma separada el registro contable de sus operaciones por cada una de las campañas en que participen;
-
-II. La documentación probatoria de sus gastos estará a nombre de cada partido político que realice la erogación; y
-
-III. La presentación de los informes por cada una de las campañas en que participen estará a cargo del órgano interno de cada partido político que la conforme.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+101. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-102. Si al concluir las actividades de campaña quedara algún remanente de recursos en efectivo o en especie sin importar su procedencia, éstos serán trasladados por el responsable del Órgano Interno a la administración para actividades ordinarias del partido político elaborando todos los registros contables correspondientes.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+102. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-103. Para determinar el monto de los ingresos para el tope de gastos de campaña por concepto de aportaciones de bienes muebles e inmuebles, se estará a lo siguiente:
+103. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-a) Aportaciones consumibles.- Se refiere a los bienes de consumo inmediato como son los alimentos, mantas, pinturas, papelería, pancartas, gorras, trípticos y otros similares. Se informará de ellos a la Comisión, dentro de los primeros siete días de su recepción. El importe total por este tipo de aportaciones será considerado para el tope de gastos de campaña;
-
-b) Aportaciones temporales.- Se refiere a los bienes muebles e inmuebles recibidos en comodato por los partidos políticos y las coaliciones, cuyo beneficio será cuantificado mediante un (sic) cotización en la modalidad de arrendamiento de los bienes que se puedan cuantificar y cuando esto no sea posible, se aplicará el criterio de razonabilidad para determinar dichos ingresos, formulándose los formatos APOM o APOS correspondientes. Dichas aportaciones deberán ser reportadas a la Comisión, dentro de los primeros siete días de su recepción;
-
-El importe que será considerado para el tope de gastos de campaña no será el valor total del bien estimado; y
-
-c) Aportaciones definitivas.- Se refiere a los bienes muebles e inmuebles con que se beneficien los partidos políticos y coaliciones, mismas que deberán formar parte del activo fijo y se informará de ellos a la Comisión, dentro de los primeros siete días de su recepción.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 Financiamiento público
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
 ###### Artículo 6.
 
-104. El financiamiento público para la obtención del voto a que se refiere el artículo 58 fracción II de (sic) Código será ejercido exclusivamente para sufragar los gastos de campaña de Gobernador, Diputados Locales y Ayuntamientos y no podrá cubrir ningún tipo de gasto que pertenezca a actividades ordinarias.
+104. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 Otras modalidades de financiamiento
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
 ###### Artículo 6.
 
-105. Las aportaciones voluntarias que los candidatos comunes reciban en efectivo o en especie por parte de los militantes o simpatizantes, el aportante deberá indicar a que partido político será acreditado y el órgano interno respectivo elaborará los formatos (APOM) o (APOS) y en su caso, el formato AAF según corresponda para su contabilización.
+105. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-Los recursos en efectivo y en especie que provenga (sic) del financiamiento de militantes, simpatizantes, autofinanciamiento y rendimientos financieros que reciban los candidatos, serán controlados por el órgano interno del partido o coalición.
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN SEGUNDA. De los militantes
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
 ###### Artículo 6.
 
-106. Las cuotas voluntarias y personales que los candidatos aporten exclusivamente para sus campañas tendrán el límite que el partido político y la coalición hubieran fijado conforme al articulo 58 fracción V apartado A inciso c) del Código. El Órgano Interno deberá informar a la Comisión sobre este límite, dentro de los primeros quince días a partir del inicio del proceso electoral.
+106. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-Las cuotas voluntarias y personales que los militantes aporten exclusivamente para sus campañas tendrán el límite que el partido político y la coalición hubieran fijado conforme al articulo 58 fracción V apartado A inciso b) del Código. El Órgano Interno deberá informar a la Comisión sobre este límite, dentro de los primeros quince días a partir del inicio del proceso electoral.
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN TERCERA. De los simpatizantes
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
 ###### Artículo 6.
 
-107. Las donaciones de bienes muebles e inmuebles al cierre de campaña, se traspasarán a la contabilidad ordinaria formando parte del patrimonio del partido.
+107. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN CUARTA. Del autofinanciamiento
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
 ###### Artículo 6.
 
-108. El Órgano Interno deberá contabilizar en cuenta específica el ingreso neto de cada uno de los actos de autofinanciamiento, por cada una de las campañas.
+108. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN QUINTA. De los rendimientos financieros
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
 ###### Artículo 6.
 
-109. Son aplicables al presente capítulo las disposiciones contenidas en el Capítulo III Sección Séptima de este Libro.
+109. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN SEXTA. De las transferencias
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+110. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-110. Las transferencias podrán realizarse durante el periodo de la campaña electoral o bien, hasta con treinta días de anticipación a su inicio, o hasta treinta días después de su conclusión utilizando el formato TRANSFER. Si un partido político o coalición lo desea podrá solicitar por escrito la ampliación de tales plazos a la Comisión, la cual resolverá fundada y motivadamente sobre tal petición.
+111. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-111. Al final del periodo de las campañas, los remanentes sobre transferencias que se encuentren depositados en cuenta única destinada a erogaciones en campañas de Gobernador, distritales y municipales deberán ser reintegradas por el Órgano Interno a la cuenta bancaria donde se administren los recursos destinados para cubrir sus actividades ordinarias.
-
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO VIII. De la Aplicación del Financiamiento
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN PRIMERA. Disposiciones generales
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+112. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-112. Los egresos de campaña serán reportados en forma analítica o pormenorizada en los informes de campaña y serán los efectuados y registrados dentro del periodo contable que a continuación se detalla:
+113. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-I. Los ejercidos dentro del periodo comprendido entre la fecha del otorgamiento de registro por el Consejo, de los candidatos en la elección de que se trate y hasta tres días antes de la jornada electoral serán gastos de propaganda, gastos operativos y gastos de difusión en prensa, radio y televisión;
-
-II. Los ejercidos dentro del periodo de tres días antes y hasta el día de la jornada electoral serán exclusivamente los gastos relacionados con viáticos y pasajes de menor cuantía; y
-
-III. Los ejercidos posteriormente al día de la jornada electoral serán los relacionados a finiquitos y cancelación de pasivos, los cuales deberán realizarse quince días posteriores al día de la jornada y los relacionados a gastos por servicios públicos que serán cubiertos hasta dos meses posteriores al día de la jornada electoral.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-113. En el caso de adquisición de bienes y servicios consolidados, el gasto se distribuirá entre todas las campañas que se beneficien por este concepto teniendo el Órgano Interno, la obligación de informar a la Comisión, el criterio de prorrateo utilizado a más tardar al inicio de la campaña electoral correspondiente.
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN SEGUNDA. Gastos de propaganda
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
 ###### Artículo 6.
 
-114. Los gastos de propaganda serán los comprendidos únicamente en el artículo 161 fracción I del Código.
+114. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN TERCERA. Gastos operativos de campaña
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+115. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-115. Los gastos operativos de campaña serán los comprendidos únicamente en el artículo 161 fracción II del Código.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+116. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-116. Con los informes de cada una de las campañas deberá presentarse un control de folios (REPAP1), así como una relación de las personas que recibieron reconocimientos por actividades políticas (REPAP2).
+117. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-117. Para efectos de gastos de campaña únicamente en los rubros de viáticos y pasajes, los partidos políticos y las coaliciones podrán comprobar, a través de bitácora y sobre el total de estos gastos, hasta un 15% si se trata de distritos y municipios urbanos, un 22% en caso de distritos y municipios considerados como mixtos, y 30% en el caso de distritos y municipios considerados rurales, de conformidad con la clasificación contenida en el instructivo VIATPAS.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN CUARTA. Gastos de difusión
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+118. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-118. Los gastos de difusión serán los comprendidos únicamente en el artículo 161 fracción III del Código.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+119. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-119. Los comprobantes de gastos de propaganda en televisión, en radio y en prensa, deberán especificar el número total de promocionales y el período de tiempo en que se transmitieron. El Órgano Interno requisitará los formatos PROMTV, PROMR y PROMP respectivamente.
-
-La Comisión solicitará de manera quincenal, a partir de que se inicien las campañas electorales, a las empresas encargadas de medios electrónicos e impresos los montos pagados por los partidos y coaliciones electorales, y en su caso, si se han realizado bonificaciones a los mismos.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+120. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-120. Los comprobantes de gastos de propaganda en televisión deberán especificar el nombre de la empresa, el horario y el número de impactos transmitidos. Los partidos políticos y las coaliciones deberán solicitar anexa a la documentación comprobatoria de los gastos, entre otros, un monitoreo de pautaje que ampara la factura correspondiente.
-
-En el caso de que algún partido político o coalición solicite los servicios de alguna casa productora, para la realización de su propaganda en televisión deberá presentar la factura que contenga el desglose de los gastos de producción.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+121. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-121. Los comprobantes de gastos de propaganda en radio deberán especificar el nombre de la empresa, el horario y el número de impactos transmitidos. Los partidos políticos y las coaliciones deberán solicitar anexa a la documentación comprobatoria de los gastos, entre otros, un monitoreo de pautaje que ampara la factura correspondiente. También en el caso de que algún partido político o coalición solicite los servicios de alguna casa productora, para la realización de su propaganda en radio deberá presentar la factura que contenga el desglose de los gastos de producción.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+122. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-122. Los partidos políticos y las coaliciones que hagan uso de la publicidad virtual (internet) deberán presentar los comprobantes de gastos en donde se especifique, entre otros, el nombre de la empresa contratada, el tamaño de la inserción y el periodo en que se publico.
+123. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-123. El Órgano Interno deberá conservar la página completa de un ejemplar original de las publicaciones que contengan las inserciones en prensa que realicen en las campañas electorales, dichas publicaciones deberán anexarse a la póliza contable y requisitar los formatos PROMP y PROMP1.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN QUINTA. De las transferencias
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+124. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-124. Los partidos políticos y coaliciones no podrán transferir recursos del total del financiamiento que reciban hacia campañas políticas nacionales, estatales o hacia su Comité Ejecutivo Nacional.
+125. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-125. Los apoyos en efectivo que se realicen entre campañas locales, se controlarán a través de transferencias utilizando el formato TRANSFER.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN SEXTA. De los topes de gastos de campaña
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+126. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-126. Por lo que se refiere al tope de gastos de campaña, el limite lo fijará el Consejo, en términos de los artículos 71 fracción II apartado C, 95 fracción XXI y 160 del Código, como se menciona a continuación:
-
-a) Por lo que se refiere al tope de gastos de campaña para las coaliciones, el límite se fijará como si se tratará de un solo partido político; y
-
-b) Para el caso de candidaturas comunes, el tope de gastos de campaña lo fijará el Consejo en forma independiente para cada uno de los partidos políticos.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+127. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-127. Para el control de las operaciones de los partidos políticos que participen en las elecciones para gobernador, diputados y ayuntamientos bajo las figuras de coaliciones, se sujetarán a las reglas siguientes:
-
-a) El Órgano Interno de la coalición consolidará la información financiera de ingresos y gastos de cada campaña en que participe;
-
-b) Independientemente de lo anterior, los órganos internos de los partidos políticos participantes deberán conservar y tener a disposición de la Comisión, la documentación siguiente:
-
-Estados financieros.
-
-Balanzas de comprobación y auxiliares correspondientes.
-
-Documentos probatorios de las operaciones realizadas.
-
-Chequeras donde se manejen los recursos en efectivo.
-
-Conciliaciones bancarias y estados de cuenta del banco.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+128. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-128. El Órgano Interno de cada partido político y coalición presentará a la Comisión, por cada una de las campañas en que participen y durante los diez días siguientes al comienzo de las campañas electorales, una balanza con saldos iniciales a nivel cuenta de mayor con sus auxiliares correspondientes y, posteriormente, en las fechas que determine la Comisión con la aprobación del Consejo, en donde se muestre el origen, monto, aplicación y empleo de todos sus ingresos.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+129. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-129. El Órgano Interno deberá elaborar las balanzas de comprobación a último nivel según el catálogo de cuentas, por campaña, según se trate, las cuales deberán ser entregadas a la Comisión a través del Secretario Técnico; una a la mitad de las campañas electorales y la otra, diez días antes del cierre de las mismas. La fecha de corte contable será establecida por la Comisión.
+130. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-130. El Órgano Interno estará obligado a presentar la documentación e información que el Consejo o la Comisión considere necesaria para complementar, aclarar o corroborar la veracidad de las declaraciones señaladas en los dos artículos previos.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN SÉPTIMA. De las revisiones precautorias
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+131. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-131. La Comisión podrá solicitar al Consejo llevar a cabo hasta dos revisiones precautorias para verificar que los partidos políticos, coaliciones (mismos que se considerarán como un sólo partido político) y aquellas que hayan postulado candidaturas comunes, no rebasen los topes de campaña; dicho procedimiento se aplicará de acuerdo a lo dispuesto en el artículo 61 fracción II numeral 2 incisos b), c), d), e) y f) del Código.
+132. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-132. La Comisión podrá supervisar en cualquier momento con el personal auxiliar de la propia comisión que se asigne para ese fin, los registros contables de todos los partidos políticos y coaliciones a efecto de coadyuvar en el correcto y adecuado control interno de todas sus operaciones durante el tiempo que dure el proceso electoral.
-
-> <small>(ADICIONADA CON LOS APARTADOS Y ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN OCTAVA. De los informes, formatos y anexos
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 Generalidades
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
 ###### Artículo 6.
 
-133. El Órgano Interno de cada partido político, así como de aquellos que constituyan candidaturas comunes y el de las coaliciones entregarán a la Comisión los informes de campaña de que se trate, en el número que hayan registrado, aún cuando en alguna de ellas no se hubiera erogado gasto alguno. Cada uno de estos informes se elaborará en los términos del artículo 61 fracción II numeral 2 del Código.
+133. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 De los formatos y anexos
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+134. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-134. El informe de cada una de las campañas para gobernador, diputados locales y ayuntamientos, que deberán remitirse a la Comisión, contendrá los siguientes:
-
-FORMATOS CLAVES
-
-Informe de campaña sobre el origen y destino
-
-de los recursos de los partidos políticos CAMPAÑA
-
-Control de folios de los recibos de los militantes APOM1
-
-Detalle de montos aportados por los militantes APOM2
-
-Control de folios de los recibos de simpatizantes APOS1
-
-Detalle de montos aportados por los simpatizantes APOS2
-
-Detalle de ingresos obtenidos
-
-por autofinanciamiento AUTOFIN1
-
-Detalle de ingresos obtenidos
-
-por rendimientos financieros RENDIFIN
-
-Detalle de las transferencias realizadas TRANSFER
-
-Control de folios de recibos de reconocimientos
-
-por actividades políticas REPA P1
-
-Detalle de montos otorgados a cada persona
-
-de reconocimiento por actividades políticas EPAP2
-
-Relación detallada de mensajes
-
-promocionales en televisión PROMTV
-
-Detalle por proveedor de
-
-promocionales en televisión PROMTV1
-
-Relación detallada de mensajes
-
-promocionales en radio PROMR
-
-Detalle por proveedor de promocionales en radio PROMR1
-
-Relación detallada de promocionales en prensa PROMP
-
-Detalle por proveedor de
-
-promocionales en prensa PROMP1
-
-Altas de Activo Fijo AAF
-
-Bajas de Activo Fijo BAF
-
-Inventario de Activo Fijo IAF
-
-Carta en la que expresa no haber
-
-recibido financiamiento según lo
-
-establecen los artículos 58 fracción I
-
-último párrafo y 60 del Código. CARTA
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+135. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-135. En el caso de que algún formato no haya sido aplicable, éste deberá señalarse o presentarse con la leyenda de NO APLICABLE, o en su defecto, el Órgano Interno deberá comunicar por escrito a la Comisión, cuando no se aplique alguno de los formatos.
+136. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-136. El informe de cada una de las campañas para gobernador, diputados locales y ayuntamientos, que deberán remitirse a la Comisión contendrá los siguientes:
-
-ANEXOS:
-
-a) Estados financieros (estado de posición financiera y estado de ingresos y egresos), avalados por el Órgano Interno de cada partido político;
-
-b) Consolidación de estados financieros de las coaliciones;
-
-c) Balanza de comprobación por cada uno de los meses del periodo de campaña; y
-
-d) Conciliaciones bancarias junto con los estados de cuenta bancarios y los auxiliares contables mensuales.
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN NOVENA. Del plazo para la presentación de los informes
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
 ###### Artículo 6.
 
-137. Los partidos políticos y coaliciones deberán presentar un informe por cada una de las campañas para gobernador, diputados locales y ayuntamientos, a más tardar dentro de los tres meses siguientes contados a partir del día siguiente al de la jornada electoral.
+137. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN DÉCIMA. De la revisión de los informes, elaboración y presentación del dictamen al Consejo
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+138. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-138. Independientemente de la revisión a la consolidación financiera, la Comisión podrá revisar la contabilidad de cada partido político coaligado, así como de aquellos que hayan postulado y registrado candidaturas comunes.
+139. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-139. En cumplimiento a lo dispuesto por el artículo 61 fracciones II numeral 2 y III incisos a) y d) del Código, la Comisión deberá culminar el análisis y estudio de los informes de gastos de campaña dentro del plazo de noventa días; así como emitir el dictamen sobre los mismos, el cual contendrá al menos el resultado y conclusiones, los errores o irregularidades detectadas, las aclaraciones o rectificaciones y las recomendaciones contables, así como la declaración de que los partidos políticos y coaliciones respetaron o no los topes de gastos de campaña.
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN DÉCIMA PRIMERA. De las sanciones
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
 ###### Artículo 6.
 
-140. El Consejo en uso de las facultades que le confiere el artículo 95 fracción XL del Código y en cumplimiento a lo dispuesto por el artículo 355 del ordenamiento en cita, podrá imponer a los partidos políticos, y coaliciones, a sus dirigentes y candidatos, a propuesta de la Comisión, independientemente de las responsabilidades en que incurran al incumplir en tiempo y forma con la obligación contenida en el artículo 61 del ordenamiento legal invocado, las siguientes sanciones:
+140. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-I. Multa de 150 a 2000 días de salario mínimo general vigente en la capital del Estado de México (Zona C), por incumplir con lo ordenado por el artículo 52 fracciones XIV y XVIII, del Código;
-
-II. Reducción de hasta el 50% de la entrega de ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución, por incumplir con lo ordenado por el artículo 52 fracción XIII del Código, o reincidir en el incumplimiento de las fracciones XIV y XVIII del mismo ordenamiento;
-
-III. Supresión total de la entrega de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución, por incumplir con lo ordenado por los artículos 58 fracción I último párrafo, 60 y 160 del Código;
-
-IV. Suspensión del registro como partido político o coalición para participar en las elecciones locales que señale la resolución, por reincidir en el incumplimiento de lo dispuesto en los artículos 58 fracción I último párrafo, 60 y 160 del Código;
-
-V. Cancelación del registro del partido político o coalición para participar en las elecciones locales por utilizar para gastos de campaña recursos provenientes de actividades ilícitas;
-
-VI. Multa equivalente al doble de la cantidad con la que algún partido político o coalición rebase el tope de gastos de campaña; y
-
-VII. En el supuesto contenido en el artículo 61 fracción III párrafo antepenúltimo del Código, se podrá imponer la cancelación de la constancia de mayoría otorgada al candidato del partido político o coalición, que infrinja dicha disposición.
-
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO IX. De la Fiscalización de los Informes por Actividades de Precampaña
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN PRIMERA. De los plazos de precampañas
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+141. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-141. Los partidos políticos conforme a su reglamentación interna determinarán los periodos durante los cuales los aspirantes a ocupar un cargo de elección popular podrán hacer precampañas, considerando los plazos previstos en el Código y este Libro.
+142. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-142. En caso de celebrarse elecciones extraordinarias a que se refieren los artículos 27 y 28 del Código, se estará a lo dispuesto en el artículo 29 del mismo ordenamiento legal, a efecto de que las precampañas correspondientes que realicen los partidos políticos, se ajusten (sic) los plazos establecidos en el Código, a este Libro y a la convocatoria respectiva.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN SEGUNDA. Del registro de aspirantes a candidatos
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+143. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-143. En términos del artículo 52 fracción XV del Código Electoral, los partidos políticos, a través de sus representantes, deberán informar al Consejo General las fechas de inicio, selección y cierre del proceso de precampañas, el periodo, los sistemas y formas de postulación así como el número, hasta tres días posteriores a la conclusión del registro de aspirantes a candidatos de la elección de que se trate y deberán acompañar, en su caso, los lineamientos o acuerdos a los que se deberán sujetar los aspirantes a candidatos y la convocatoria correspondiente.
-
-La información anterior deberá contener los siguientes datos del aspirante:
-
-I. Nombre completo;
-
-II. Lugar y fecha de nacimiento;
-
-III. Domicilio y tiempo de residencia en el mismo;
-
-IV. Profesión u ocupación;
-
-V. Clave de elector; y
-
-VI. Cargo de elección popular al que aspira ser postulado;
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+144. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-144. El partido político que decida registrar a un aspirante a candidato que haya desarrollado actos de precampaña con anterioridad, pero dentro del periodo permitido, quedará obligado a reportar los gastos efectuados por éste a partir del momento en que el aspirante realizó dichos actos.
+145. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-145. Los partidos políticos solo podrán registrar a sus aspirantes a candidatos cuando cumplan con los requisitos de elegibilidad que exigen para tal efecto, la Constitución Local, el Código y sus estatutos, según el cargo para el que se pretenda postular.
-
-Asimismo, en el escrito mediante el cual se notifique al Consejo General del registro y acreditación de los aspirantes a candidatos, deberá señalar que cumplieron con los requisitos correspondientes.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN TERCERA. Del financiamiento de las precampañas
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+146. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-146. El régimen de financiamiento de los partidos, para efectos de sus respectivos procesos de selección interna, tendrá las modalidades que establece el artículo 58 del Código.
-
-No podrán realizar aportación o donativo alguno, en dinero o en especie, a los partidos o aspirantes a candidatos, por sí o por interpósita persona y bajo ninguna circunstancia los sujetos señalados en el artículo 60 del Código.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+147. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-147. El financiamiento público para las precampañas, será el que los partidos políticos destinen a ello, del otorgado por el Consejo General para el desarrollo de sus actividades ordinarias.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+148. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-148. El financiamiento que no provenga del erario público, proveniente de militantes y simpatizantes, tendrán el límite que el partido político hubiere fijado conforme al artículo 58 fracción V, apartados A. y B. respectivamente. El Órgano Interno deberá informar a la Comisión sobre este límite, en los términos del artículo 6.143 del presente Libro.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+149. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-149. Los partidos deberán abrir una sola cuenta bancaria, para registrar los ingresos y egresos que se efectúen con motivo de las precampañas, dicha cuenta deberá ser manejada mancomunadamente por quienes designe el Comité Estatal o el representante ante el Consejo General.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+150. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-150. El partido político deberá reportar en la contabilidad como "saldo inicial" los recursos en efectivo o especie con que cuente a la fecha de registro de sus aspirantes a candidatos, debiendo observar las prohibiciones relativas a donativos o aportaciones en dinero o en especie señaladas en el artículo 60 del propio Código.
-
-Al respecto, si los aspirantes a candidato contaran con fondos derivados de su actividad previa al inicio del proceso de selección de candidatos y cuyo origen se encuentre prohibido por la ley, éstos no podrán integrarse al "saldo inicial" y no podrán ser utilizados para gastos de precampaña.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+151. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-151. Los ingresos solo se podrán recibir por los órganos internos, ya sea en efectivo o en especie debiendo ser soportados con el recibo correspondiente.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+152. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-152. Los ingresos que obtengan los partidos políticos por cualquier modalidad de financiamiento, deberán registrarse contablemente así como expedir y recabar la documentación probatoria correspondiente.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+153. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-153. Para determinar el monto de los ingresos para el tope de gastos de precampaña por concepto de aportaciones de bienes muebles e inmuebles, se estará a lo siguiente:
+154. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-I. Aportaciones consumibles.- Se refiere a los bienes de consumo inmediato como son los alimentos, mantas, pinturas, papelería, pancartas, gorras, trípticos y otros similares. Se informará de ellos a la Comisión, dentro de los primeros siete días de su recepción. El importe total por este tipo de aportaciones será considerado para el tope de gastos de precampaña;
-
-II. Aportaciones temporales.- Se refiere a los bienes muebles e inmuebles recibidos en comodato por los partidos políticos, los cuales serán registrados en cuentas de orden, cuyo beneficio será cuantificado mediante una cotización en la modalidad de arrendamiento de los bienes que se puedan cuantificar y cuando esto no sea posible, se aplicará a precio de mercado para determinar dichos ingresos, formulándose los formatos APOM o APOS correspondientes. Dichas aportaciones deberán ser reportadas a la Comisión, dentro de los primeros siete días de su recepción. El importe que será considerado para el tope de gastos de precampaña no será el valor total del bien estimado; y
-
-III. Aportaciones definitivas.- Se refiere a los bienes muebles e inmuebles con que se beneficien los partidos políticos, mismas que deberán formar parte del activo fijo y se informará de ellos a la Comisión, dentro de los primeros siete días de su recepción. Las aportaciones en especie serán cuantificadas a precio de mercado, en caso de que no se cuente con la factura o escritura correspondiente.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-154. Si al concluir las actividades de precampaña quedara algún remanente de recursos en efectivo o en especie sin importar su procedencia, éstos serán trasladados por el responsable del Órgano Interno a la administración para actividades ordinarias del partido político elaborando todos los registros contables correspondientes.
-
-> <small>(ADICIONADA CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN CUARTA. De los gastos de las precampañas
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+155. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-155. Los gastos de precampaña serán los comprendidos únicamente en el artículo 161 del Código.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+156. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-156. Los gastos deberán ser registrados contablemente y soportados con la documentación probatoria correspondiente.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+157. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-157. Toda la documentación probatoria de los gastos deberá contener la leyenda de "PRECAMPAÑA".
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+158. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-158. Los comprobantes de gastos de propaganda en televisión y radio deberán especificar el nombre de la empresa, el horario y el número de promocionales transmitidos. Los partidos políticos deberán solicitar anexa a la documentación comprobatoria de los gastos, entre otros, el pautaje que ampare la factura correspondiente.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+159. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-159. Respecto de los gastos en medios publicitarios, en el apartado prensa, se deberán reportar, la totalidad de las inserciones y desplegados que se difundan en favor del aspirante a candidato correspondiente en medios impresos, tales como diarios de circulación nacional y local, revistas y semanaria, independientemente de la materia o público al que se dirigen. En todos los casos las publicaciones deberán incluir la leyenda "inserción pagada", así como el nombre del responsable de la publicación, debiendo anexar un ejemplar.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+160. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-160. Los partidos políticos que hagan uso de la publicidad virtual (internet), deberán presentar los comprobantes de gastos en donde se especifique, entre otros, el nombre de la empresa contratada, el tamaño del banner publicitario y el periodo en que se publicó.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+161. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-161. Los gastos que realicen los partidos políticos el día del evento de selección de candidatos, no se computarán para efectos del tope de gastos de precampaña, sino estos serán registrados y reportados en el informe anual de actividades ordinarias. Además, no se incluirán como gastos de precampaña los realizados por los partidos políticos para el sostenimiento de sus Órganos Directivos y sus Organizaciones.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+162. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-162. Los egresos deberán estar soportados con la documentación original que se expida a nombre del partido político, por la persona física o moral a quien se efectuó el pago. Dicha documentación deberá cubrir los requisitos a que se refieren los artículos 29 y 29-A, del Código Fiscal de la Federación.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+163. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-163. Para efectos de gastos de precampaña únicamente en los rubros de viáticos y pasajes, los partidos políticos podrán comprobar, a través de bitácora y sobre el total de estos gastos, hasta un 15% si se trata de distritos y municipios urbanos, un 22% en caso de distritos y municipios considerados como mixtos, y 30% en el caso de distritos y municipios considerados rurales, de conformidad con la clasificación contenida en el instructivo VIATPAS.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+164. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-164. Los partidos políticos informarán en términos del artículo 6.143 del presente Libro del criterio de prorrateo de gastos entre sus aspirantes, por compras consolidadas.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+165. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-165. Los partidos políticos estarán obligados a reportar en términos del artículo 6.144 de este Libro los gastos efectuados, respecto de aquellos aspirantes a candidatos que de manera previa al inicio del registro, hayan realizado actos de precampaña.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+166. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-166. En caso de sustitución de aspirantes a candidatos, los partidos políticos deberán reportar en cualquier caso, todos los gastos que se hayan efectuado por el aspirante a candidato que se sustituye y éstos se computarán para los efectos de tope de gastos de precampaña correspondiente.
+167. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-167. Los partidos políticos no podrán transferir recursos respecto de las diversas modalidades obtenidas durante el desarrollo de las precampañas hacia sus Órganos Directivos Nacionales.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN QUINTA. De los topes de gastos de precampaña
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+168. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-168. A efecto de dar cumplimiento a lo establecido en el artículo 144 G, del Código, el Consejo General al inicio del proceso electoral respectivo dará a conocer los topes de gastos de precampaña.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+169. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-169. La suma de los gastos de todos los aspirantes que cada partido político realice, por municipio, distrito o Entidad, no podrá rebasar el tope de gastos de precampaña a que se refiere el artículo 144 G del Código.
+170. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-170. El aspirante a candidato que rebase la parte proporcional del tope de gastos de precampaña, o no se sujete a los plazos y disposiciones establecidas en el Código, en el presente Libro y a la normatividad interna del propio partido que lo tenga registrado con tal carácter, y dicho incumplimiento sea determinante para el resultado de la elección interna, será motivo para que el Consejo Electoral respectivo, en su momento, le niegue el registro como candidato, sin menoscabo de las sanciones a las que pueda ser sujeto por incumplir con los estatutos del partido político correspondiente.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN SEXTA. De la presentación y revisión de los informes de precampañas
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+171. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-171. El órgano interno del partido político deberá entregar los informes correspondientes a la Comisión, dentro de los quince días siguientes a aquel en que concluya la selección de candidatos, formula o planilla, conforme al artículo 61 fracción II numeral 1 del Código.
-
-Los informes de precampaña deberán contener el origen y monto, así como la aplicación y empleo de los recursos con motivo de los actos de la precampaña realizada, a partir del registro del aspirante a candidato y hasta el momento en que se celebre el evento de selección.
-
-Los partidos políticos deberán concentrar en las oficinas de su Comité Estatal u órgano equivalente toda la documentación soporte de todos los ingresos y gastos realizados por los aspirantes a candidatos y permitir al responsable de la revisión el acceso a dicha documentación.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+172. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-172. Para efectos de presentación de la información contenida en cada uno de los informes de los aspirantes a candidatos de los partidos políticos, se utilizarán invariablemente los formatos establecidos en el presente Libro debiendo incorporar a dichos formatos la leyenda "PRECAMPAÑA" y llevar su propio consecutivo de folios.
+173. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-173. El procedimiento para la revisión, dictamen y resolución de los informes de gastos de precampaña será el siguiente:
-
-I. La Comisión revisará los informes en un plazo de diez días contados a partir de su recepción:
-
-II. Una vez re visados (sic) los informes correspondientes, se otorgará al partido político un plazo de cinco días para presentar las aclaraciones o rectificaciones conducentes;
-
-III. Concluido el plazo a que hace referencia la fracción anterior, la Comisión contará con cinco días para valorar y analizar las aclaraciones y rectificaciones correspondientes; y
-
-IV. Transcurrido el plazo señalado en la fracción anterior, la Comisión dispondrá de siete días para elaborar el dictamen correspondiente, que será turnado al Consejo General a efecto de que en su oportunidad culmine el análisis y estudio de los informes de gastos de precampaña y resuelva lo conducente.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN SÉPTIMA. De las sanciones
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 6.
+
+174. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-174. Los partidos políticos serán sancionados por el incumplimiento a las obligaciones señaladas en el presente Libro, en términos de lo establecido en el artículo 355 del Código.
+175. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 6.
-
-175. Será motivo para negar el registro como candidatos a aquellos aspirantes a candidato que incumplan lo establecido en el artículo 144 G del Código; siempre que el incumplimiento haya sido determinante para el resultado de la elección interna.
-
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)</small>
 
 # LIBRO SÉPTIMO. CONSTITUCIÓN Y REGISTRO DE PARTIDOS POLITICOS LOCALES
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 7.
+
+1. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-1. El presente ordenamiento es reglamentario de los capítulos primero y segundo del Libro Segundo del Código Electoral del Estado de México. Tiene por objeto establecer, los requisitos, procedimientos, métodos y demás disposiciones necesarias, para que:
-
-a) Una Organización Política obtenga el registro como Partido Político Local.
-
-b) Un Partido Político Local pierda su registro.
-
-c) Un Partido Político Nacional que haya perdido ese carácter pueda optar por el registro como Partido Político Local.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+2. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-2. El Consejo General del Instituto Electoral del Estado de México es el órgano competente para conocer y resolver sobre el otorgamiento o pérdida del registro de los Partidos Políticos Locales, emitiendo las declaratorias correspondientes, en ejercicio de las atribuciones que le confieren los artículos 38 párrafo segundo, 45, 48, 49, 93 y 95 fracción XII, XIII y XIV del Código Electoral del Estado.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+3. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-2. El Consejo General del Instituto Electoral del Estado de México es el órgano competente para conocer y resolver sobre el otorgamiento o pérdida del registro de los Partidos Políticos Locales, emitiendo las declaratorias correspondientes, en ejercicio de las atribuciones que le confieren los artículos 38 párrafo segundo, 45, 48, 49, 93 y 95 fracción XII, XIII y XIV del Código Electoral del Estado.
+4. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 7.
-
-3. La Comisión Dictaminadora del Registro de Partidos Políticos del Consejo General del Instituto Electoral del Estado de México, es de carácter permanente en términos del artículo 93 del Código Electoral del Estado de México y tiene como propósito fundamental dictaminar el derecho de registro como Partido Político Local de las Organizaciones Políticas que lo pretendan y del Partido Político Nacional que pierda su registro con este carácter, solicitando el registro como Partido Político Local.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO II. De la Intención de una Organización para Constituirse como Partido Político Local
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 7.
+
+5.- (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-4. Para los efectos del presente Libro se entenderá por:
-
-a) "Instituto", al Instituto Electoral del Estado de México.
-
-b) "Consejo General", al Consejo General del Instituto Electoral del Estado de México.
-
-c) "Código", al Código Electoral del Estado de México.
-
-d) “Libro", al Libro para la Constitución y Registro de Partidos Políticos Locales.
-
-e) "Integrantes del Consejo", al Consejero Presidente, a los Consejeros Electorales, a los representantes de los Partidos Políticos, al Director General y al Secretario General del Consejo General del Instituto Electoral del Estado de México.
-
-f) "Secretario General", al Secretario del Consejo General del Instituto.
-
-g) "Comisión", a la Comisión Dictaminadora del Registro de Partidos Políticos.
-
-h) "Presidente", al Presidente de la Comisión Dictaminadora del Registro de Partidos Políticos.
-
-i) "Secretario Técnico", al Secretario Técnico de la Comisión Dictaminadora del Registro de Partidos Políticos.
-
-j) "Junta General", a la Junta General del Instituto Electoral del Estado de México.
-
-k) "Dirección de Partidos Políticos", a la Dirección de Partidos Políticos del Instituto Electoral del Estado de México.
-
-l) "Organización Política", al conjunto de ciudadanos constituidos que pretendan registrarse como Partido Político Local.
-
-m) "Representantes", a los representantes de los Partidos Políticos o Coaliciones que forman parte de la Comisión.
-
-n) "Reunión de Trabajo", las reuniones que realiza la Comisión con el objeto de estudiar asuntos en particular.
-
-o) "Representantes de la Organización", a los representantes de la Organización Política.
-
-p) "Tribunal", al Tribunal Electoral del Estado de México.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+6. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-5.- La Organización Política que pretenda constituirse como Partido Político Local, deberá presentar escrito de información al Instituto, en el cual manifieste su intención de iniciar el procedimiento tendiente a cumplir con los requisitos previos que señala el Código y el presente Libro.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+7. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-6. El escrito de información deberá contener:
-
-a) La denominación de la Organización Política;
-
-b) Los nombres de los dirigentes que la representan;
-
-c) La acreditación de la personalidad de los dirigentes de la Organización Política, con documentos fehacientes;
-
-d) Los nombres de los representantes de la Organización Política que mantendrán la relación con el Instituto; y
-
-e) El domicilio para oír y recibir notificaciones en la Ciudad de Toluca de Lerdo, México.
-
-El escrito de información del inicio de actividades tendientes a obtener el registro, deberá estar suscrito por los dirigentes o representantes de la organización política.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+8. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-7. El escrito de información deberá estar acompañado de la siguiente documentación:
-
-a) El Acta Constitutiva de la Organización Política protocolizada ante Notario Público;
-
-b) La Declaración de Principios, el Programa de Acción y los Estatutos, en los términos de los artículos 39, 40, 41 y 42 del Código.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+9. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-8. El escrito de información y sus anexos deberán presentarse ante el Presidente del Consejo General, el cual instruirá al Secretario General para que sea turnado a la Comisión y proceda a su estudio y análisis, dictaminando si la documentación cumple con los requisitos establecidos en los artículos 7.6 y 7.7 del presente Libro.
+10. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
-Si después de su estudio y análisis se determina la existencia de alguna omisión, la Comisión lo notificará a la Organización Política solicitante otorgándole un plazo de 15 días hábiles para subsanarlas.
-
-Si vencido el plazo a que se refiere el párrafo anterior, la Organización Política no subsana la omisión, el escrito de información será declarado improcedente y quedará sin efectos el trámite realizado por la Organización. En este supuesto, el expediente se remitirá a la Secretaría General para que obre en los archivos del Instituto y se dé cuenta al Consejo General para su aprobación definitiva.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 7.
-
-9. Si la Comisión dictamina que la Organización Política cumple con los requisitos establecidos para el inicio de actividades, la Comisión lo remitirá al Secretario General para que dé cuenta al Consejo General. Una vez aprobado el dictamen por el Consejo General, la Comisión notificará por conducto del Secretario Técnico, a la dirigencia de la Organización Política que cuenta con un año para cumplimentar los requisitos del registro a los que hace referencia la fracción III del artículo 43 del Código; apercibiéndola de que en caso de incumplimiento, se tendrá por no presentado el escrito de información y perderán vigencia las actividades realizadas y la documentación presentada.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO III. Del Procedimiento para la Celebración de Asambleas Municipales
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 7.
+
+11. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-10. La Comisión enviará el expediente para que se integre a la Dirección de Partidos Políticos.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+12. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-11. Para los efectos del presente Libro se entenderá por Asamblea Municipal a la reunión de por lo menos 200 ciudadanos afiliados a una Organización Política que residan en el municipio correspondiente de la asamblea, y que se reúnan en una fecha, hora y lugar determinado por esa Organización Política, con la finalidad de cumplir con los requisitos que se establecen en los artículos 39 fracción II y 43 fracción I del Código.
-
-La Organización Política convocante de la Asamblea Municipal en ningún caso podrá asociar este acto con otro de distinta naturaleza.
-
-Antes, durante y después del desarrollo de la Asamblea no se permitirá la distribución de despensas, materiales de construcción o cualquier otro bien que pretenda inducir a los ciudadanos participantes en la Asamblea y que lesione su derecho de libre asociación.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+13. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-12. Para llevar a cabo una Asamblea Municipal, la Organización Política deberá dar aviso por escrito con 72 horas de anticipación a la Dirección de Partidos Políticos, informando la fecha, hora y lugar de la celebración; así como los nombres de los responsables de la organización en la Asamblea.
-
-Los Partidos Políticos integrantes de la Comisión tendrán derecho a acreditar representantes para que concurran como observadores a las Asambleas Municipales de la Organización Política, haciéndolo constar en el acta que para tal efecto elabore el representante del Instituto o Notario Público.
-
-Los Partidos Políticos que acudan como observadores, podrán presentar ante la Secretaría Técnica escritos con sus observaciones, para conocimiento de la Comisión; escritos que no surtirán ningún efecto jurídico.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+14. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-13. El lugar elegido por la Organización Política para el desarrollo de su Asamblea deberá identificarse con un señalamiento que precise el carácter político de ésta, además deberá contener el nombre y emblema de la Organización Política.
-
-Si la Asamblea se desarrolla en un espacio abierto, la Organización Política deberá delimitar el perímetro del área donde se realizará.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+15. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-14. El formato de afiliación foliado de los militantes es el documento que contiene el emblema y denominación de la Organización Política, en el cual una persona manifiesta su voluntad de pertenecer a ésta, debiendo contener, además, los siguientes requisitos:
-
-a) El nombre del ciudadano afiliado, tal como se encuentra en su credencial para votar;
-
-b) El domicilio de su residencia en el que se especificará el municipio al que pertenece, mismo que deberá coincidir con el de la credencial para votar;
-
-c) La Clave de Elector;
-
-d) Copia legible de la credencial para votar por ambos lados;
-
-e) Un texto en el cual el ciudadano afiliado declare formalmente su afiliación voluntaria y libre a la Organización Política; y
-
-f) Firma, o en caso de no saber hacerlo deberá poner la huella digital, nombre completo y firma, de la persona que lo haga a su ruego o encargo.
-
-La lista de afiliados deberá contener:
-
-a) Folio, nombre completo del afiliado;
-
-b) Domicilio y municipio; y
-
-c) Clave de Elector.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+16. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-15. Para la certificación de la Asamblea Municipal, el Director de Partidos Políticos suscribirá oficio de comisión al representante del Instituto y personal que le asistirá, o en su caso, Notario Público con la finalidad de acreditarse ante los responsables de la organización de la asamblea.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+17. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-16. El orden del día de la Asamblea Municipal deberá contener como mínimo los siguientes puntos:
-
-a) Verificación de asistencia de los ciudadanos afiliados en la mesa de registro;
-
-b) Informe del Representante del Instituto, o en su caso, Notario Público, sobre la asistencia y registro de afiliados presentes;
-
-c) En su caso, declaración de la instalación de la Asamblea Municipal por el responsable de la organización de la asamblea;
-
-d) Lectura, discusión y, en su caso, aprobación del proyecto de Documentos Básicos: Declaración de Principios, Programa de Acción y Estatutos; pudiendo la asamblea, con el voto de la mayoría, dispensar su lectura.
-
-e) Elección, o en su caso, ratificación del Comité Directivo Municipal o equivalente de la Organización Política;
-
-f) Elección de Delegados propietario y suplente a la Asamblea Estatal Constitutiva; y
-
-g) Declaración de clausura de la Asamblea Municipal.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+18. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-17. Para que una Asamblea Municipal pueda desarrollarse deberá satisfacer los requisitos establecidos en el artículo 39 fracción II y 43 fracción I del Código, bajo el siguiente procedimiento:
-
-a) Se establecerá una mesa de registro, en la que estarán presentes el responsable de la organización de la asamblea y el representante del Instituto con el personal de asistencia, o en su caso, Notario Público, en la que los ciudadanos asistentes entregarán los formatos de su afiliación con una copia de su credencial para votar, con la finalidad de verificar que los datos y fotografía de la credencial para votar coinciden con el ciudadano asistente a la Asamblea. Para este efecto se aplicará tinta indeleble en el pulgar derecho de cada uno de los ciudadanos afiliados presentes.
-
-b) Una vez realizada la verificación, se hará un recuento para comprobar la presencia de por lo menos 200 ciudadanos afiliados en la asamblea, que en ningún caso podrá ser de municipio distinto al de la celebración de la misma.
-
-c) Declarada la presencia de por lo menos 200 ciudadanos afiliados por el Representante del Instituto, o en su caso, Notario Público, se informará al responsable de la organización de la Asamblea para que proceda a la declaratoria de instalación y al desahogo de los puntos del orden del día restantes.
-
-El responsable de la organización de la Asamblea podrá solicitar al representante del Instituto, o en su caso, al Notario Público, el plazo de 30 minutos para el inicio de la Asamblea Municipal.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+19. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-18. En el caso de que no se hayan reunido al menos los 200 ciudadanos afiliados, el representante del Instituto, o en su caso, el Notario Público, informará al responsable de la organización de la asamblea que podrá continuar con la reunión en su carácter de acto político, conservando su derecho de dirigir escrito a la Dirección de Partidos Políticos solicitando la reprogramación de la Asamblea Municipal.
-
-Para este efecto, el representante del Instituto, o en su caso, el Notario Público, elaborará por duplicado acta circunstanciada certificando los hechos de la cual se entregará un tanto al representante de la Organización Política.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+20. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-19. En cada una de las Asambleas Municipales, certificadas con el mínimo de afiliados a que se refieren los artículos 39 fracción II y 43 fracción I del Código, el responsable de la organización de la asamblea acreditado, entregará al Representante del Instituto, o en su caso, al Notario Público, la siguiente documentación:
-
-a) Los formatos de afiliación de al menos 200 ciudadanos acompañados de copia simple de la credencial para votar, que sirvieron para la declaración de asistencia del mínimo de afiliados verificados en la mesa de registro;
-
-b) El orden del día de la Asamblea Municipal;
-
-c) La lista de ciudadanos afiliados a la Organización Política en el municipio;
-
-d) Un ejemplar de los Documentos Básicos que fueron discutidos y aprobados por los asistentes a la Asamblea;
-
-e) La relación de los integrantes del Comité Municipal o equivalente elegidos o ratificados en la Asamblea; y
-
-f) La relación de los delegados propietario y suplente electos en la Asamblea Municipal a la Asamblea Estatal Constitutiva.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+21.- (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-20. Cumplido el procedimiento anterior y concluida la Asamblea Municipal, se procederá a elaborar acta de certificación, en la que el representante del Instituto, o en su caso, el Notario Público, precise:
+22.- (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
-a) El municipio, hora de inicio, fecha de realización y lugar de celebración de la Asamblea;
-
-b) Nombre de la Organización Política;
-
-c) Nombre de los responsables de la organización en la Asamblea Municipal;
-
-d) El número de ciudadanos afiliados a la Organización Política que se registraron y verificaron en la mesa de registro;
-
-e) Que los ciudadanos afiliados a la Organización Política y que concurrieron a la Asamblea Municipal, conocieron, discutieron y aprobaron, en su caso, los Documentos Básicos;
-
-f) Que los ciudadanos afiliados suscribieron el documento de manifestación formal de afiliación de manera libre y voluntaria;
-
-g) Que los ciudadanos afiliados eligieron o ratificaron a sus dirigentes municipales;
-
-h) Que los ciudadanos afiliados eligieron Delegados, propietario y suplente, a la Asamblea Estatal Constitutiva, señalando sus nombres;
-
-i) El número de asistentes a la Asamblea Municipal;
-
-j) La hora de clausura de la Asamblea;
-
-k) Que se integraron las listas de afiliados con los datos siguientes: Nombre, domicilio en el municipio donde celebró la Asamblea y clave de elector;
-
-l) Que se entregaron los documentos establecidos en el artículo 7.19 de este Libro;
-
-m) Los incidentes que se presentaron durante el desarrollo de la asamblea; y
-
-n) La hora de cierre del acta.
-
-Antes del cierre del acta de certificación, se otorgará el uso de la palabra al responsable de la Organización Política, o a quien éste designe, para que manifieste lo que a su derecho convenga.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 7.
-
-21.- El acta de certificación de la Asamblea Municipal, se elaborará por duplicado conteniendo los elementos establecidos en el artículo anterior, de la cual se entregará un tanto al responsable de la organización de la Asamblea.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO IV. Del Procedimiento para la Realización de la Asamblea Estatal Constitutiva
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 7.
+
+23. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-22.- El acta de la Asamblea Municipal que haya sido certificada por el representante del Instituto, deberá ser entregada a la Dirección de Partidos Políticos; en caso del acta levantada por Notario Público, éste deberá remitirla dentro de los tres días hábiles siguientes a su celebración; adjuntando en ambos casos la documentación entregada por la Organización Política a fin de que obre en el expediente respectivo.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+24. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-23. Para los efectos del presente Libro se entenderá por Asamblea Estatal Constitutiva, a la reunión de Delegados propietarios o suplentes de al menos la mitad más uno de los municipios del Estado, que fueron electos en las Asambleas Municipales celebradas por la Organización Política y que son convocados en una fecha, hora y lugar determinados, con el propósito de cumplir con el requisito que se establece en el artículo 43 fracción II del Código.
-
-La Organización Política convocante de la Asamblea Estatal Constitutiva en ningún caso podrá asociar este acto con otro de distinta naturaleza.
-
-Antes, durante y después del desarrollo de la asamblea no se permitirá la distribución de despensas, materiales de construcción o cualquier otro bien que pretenda inducir a los ciudadanos participantes en la asamblea y que lesione su derecho de libre asociación.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+25. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-24. La Organización Política que pretenda celebrar su Asamblea Estatal Constitutiva, deberá informar a la Dirección de Partidos Políticos sobre la realización de Asambleas Municipales en por lo menos la mitad más uno de los municipios del Estado, señalando los municipios donde se llevaron a cabo y sobre la forma en que se observaron los requisitos que se señalan en el Código y el presente Libro. En el mismo escrito se informará la fecha, hora y lugar donde se celebrará, así como los nombres de los responsables de la organización en la Asamblea Estatal. En el documento se incluirá una relación de los Delegados propietarios y suplentes que fueron electos en las asambleas municipales respectivas.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+26. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-25. El escrito a que hace referencia el artículo anterior, deberá ser presentado en la Dirección de Partidos Políticos, con siete días hábiles de anticipación a la fecha de la celebración de la Asamblea.
-
-Los Partidos Políticos integrantes de la Comisión, tendrán derecho de acreditar representantes para que concurran como observadores a la Asamblea Estatal Constitutiva de la Organización Política, debiendo constar en el acta que para tal efecto elabore el representante del Instituto.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+27. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-26. El lugar elegido por la Organización Política para el desarrollo de su Asamblea Estatal Constitutiva deberá identificarse con un señalamiento que precise el carácter político de ésta, además deberá contener el nombre y emblema de la Organización Política.
-
-Si la Asamblea Estatal Constitutiva se desarrolla en un espacio abierto, la Organización deberá delimitar el perímetro del área donde se realizará.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+28. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-27. Para la certificación de la Asamblea Estatal Constitutiva, el Director de Partidos Políticos acreditará al representante del Instituto y el personal que le asistirá ante los representantes de la Organización Política.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+29. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-28. La Organización Política convocante de la Asamblea Estatal Constitutiva, en ningún caso podrá asociar este acto a otro de distinta naturaleza.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+30. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-29. La Asamblea Estatal Constitutiva dará inicio en la fecha, hora y lugar previamente definidos, con la asistencia de los Delegados propietarios o suplentes de al menos la mitad más uno de los municipios del Estado que fueron electos en las Asambleas Municipales celebradas por la Organización Política.
-
-Para determinar el número de delegados que concurren a la Asamblea se establecerá una mesa de registro en la que estará el representante del Instituto el personal de asistencia, y el responsable de la organización de la Asamblea, para verificar la acreditación de los Delegados propietarios o suplentes. Se compulsará la lista general de asistencia con las actas de las Asambleas Municipales donde fueron designados delegados y que obran integradas en los expedientes de las Asambleas Municipales.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+31. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-30. El orden del día de la Asamblea deberá contener como mínimo los siguientes puntos:
-
-a) Lista de delegados verificados en la mesa de registro;
-
-b) Informe por el Representante del Instituto sobre el registro de Delegados presentes;
-
-c) En su caso, declaración de la instalación de la Asamblea Estatal Constitutiva por el responsable de la organización de la Asamblea;
-
-d) Lectura, discusión y, en su caso, aprobación de la Declaración de Principios, el Programa de Acción y los Estatutos de la Organización Política, pudiendo la Asamblea, con el voto de la mayoría, dispensar su lectura;
-
-e) Elección o ratificación, en su caso, de la Dirigencia Estatal o equivalente;
-
-f) Toma de protesta de la Dirigencia Estatal o equivalente; y
-
-g) Clausura de la Asamblea Estatal Constitutiva.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+32. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-31. Si no asisten los Delegados propietarios o suplentes de al menos la mitad más uno de los municipios del Estado que fueron electos en las Asambleas Municipales a la Asamblea Estatal Constitutiva, el representante del Instituto elaborará acta circunstanciada certificando este hecho e informará al responsable de la organización de la Asamblea el derecho de continuar la reunión como acto político, así como el de solicitar la reprogramación de la Asamblea Estatal.
-
-Para este efecto, el Representante del Instituto elaborará por duplicado acta circunstanciada certificando los hechos, de la cual se entregará un tanto al representante de la Organización Política.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+33. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-32. Si se declara instalada la Asamblea Estatal Constitutiva el representante del Instituto, al finalizar la Asamblea, elaborará en presencia de los Representantes o dirigentes de la Organización Política el acta de certificación de la Asamblea por duplicado, entregando un tanto a la Organización Política.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+34. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-33. En el acta de Asamblea a que hace referencia el artículo anterior, el Representante del Instituto deberá certificar:
-
-a) El municipio, hora de inicio, fecha de realización y lugar de celebración de la Asamblea;
-
-b) Nombre de la Organización Política;
-
-c) Los nombres de los responsables de la organización en la Asamblea;
-
-d) El número de Delegados propietarios o suplentes verificados en la mesa de registro;
-
-e) Que los Delegados a la Asamblea Estatal que concurrieron conocieron, discutieron y aprobaron, en su caso, los Documentos Básicos;
-
-f) Que los Delegados eligieron o ratificaron a la Dirigencia Estatal o equivalente;
-
-g) La hora de clausura de la Asamblea;
-
-h) Que se entregaron los documentos a que hace referencia el artículo 7.34 del presente Libro;
-
-i) Los incidentes que se presentaron durante el desarrollo de la Asamblea Estatal Constitutiva; y
-
-j) La hora de cierre del acta.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+35. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-34. Los responsables de la organización de la Asamblea Estatal Constitutiva, al concluir ésta, entregarán al Representante del Instituto los siguientes documentos:
+36. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
-a) La lista de Delegados acreditados en la mesa de registro que concurrieron a la Asamblea Estatal Constitutiva;
-
-b) Los nombres y cargos de los integrantes de la Dirigencia Estatal o equivalente aprobados por los Delegados en la Asamblea Estatal;
-
-c) Las actas de Asamblea Municipal, en caso de ser elaboradas por Notario Público.
-
-d) Un ejemplar de los Documentos Básicos que fueron aprobados por los Delegados en la Asamblea Estatal Constitutiva; y
-
-e) Las listas de ciudadanos afiliados a la Organización Política por municipio independientemente de las que fueron entregadas en las Asambleas Municipales.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 7.
-
-35. En cumplimiento del artículo 44 del Código, la Organización Política solicitará a la Dirección de Partidos Políticos la expedición de las siguientes constancias:
-
-a) La entrega de la Declaración de Principios, el Programa de Acción y los Estatutos;
-
-b) La entrega de la lista nominal de afiliados por municipio de la Organización Política;
-
-c) La celebración de las Asambleas Municipales en por lo menos la mitad más uno de los municipios del Estado;
-
-d) La celebración de la Asamblea Estatal Constitutiva; y
-
-e) La realización de las actividades políticas independientes a que hace referencia la fracción III del artículo 39 del Código.
-
-Para que la Dirección de Partidos Políticos expida la constancia señalada en el inciso e), la Organización Política podrá ofrecer cualquier medio de prueba permitido por el Código, que demuestre plenamente haber cumplido con los requisitos señalados en la fracción III del artículo 44 del mismo ordenamiento.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO V. De la Solicitud Formal de Registro
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 7.
+
+37. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-36. Una vez que la Organización Política haya realizado las Asambleas Municipales, la Asamblea Estatal Constitutiva y obren en su poder las constancias previstas en el artículo 44 del Código, podrá presentar ante el Instituto su solicitud de registro como Partido Político Local.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+38. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-37. La solicitud de registro como Partido Político Local, es el documento que una Organización Política presenta ante el Instituto, en el que informa haber cumplido con los requisitos establecidos en los artículos 39, 40, 41, 42, 43 y 44 del Código, así como de los señalados en el presente Libro.
+39. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 7.
-
-38. La Organización Política deberá adjuntar a su solicitud de registro como Partido Político Local, las constancias a que hace referencia el artículo 7.35 del presente Libro, así como el nombre de los representantes de la Organización Política ante el Instituto, y el domicilio para oír y recibir notificaciones en la Ciudad de Toluca de Lerdo, México.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO VI. Del Análisis y Revisión de las Actividades y Documentos Presentados por la Organización Política para Constituirse como Partido Político Local
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 7.
+
+40. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-39. La solicitud de registro como Partido Político Local, deberá presentarse ante el Consejero Presidente del Consejo General, el cual instruirá al Secretario General para que sea turnado a la Comisión para su debida sustanciación conforme lo establece el Código y el presente Libro.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+41. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-40. Recibida la solicitud de registro, la Comisión procederá al análisis y revisión de las actividades y documentos presentados por la Organización Política.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+42. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-41. La Comisión tendrá un plazo de cuarenta días contados a partir de la recepción de la solicitud de registro, para el análisis y revisión de las actividades y documentos presentados por la Organización Política. Durante este plazo elaborará un proyecto de dictamen que será sometido a la consideración y aprobación, en su caso, del Consejo General.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+43. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-42. La Comisión elaborará el cronograma de actividades para el análisis y la revisión de la documentación presentada que se detalla en el anexo único del presente Libro.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+44. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-43. La Comisión verificará que la Organización Política haya presentado su solicitud de registro como Partido Político Local, por lo menos catorce meses antes del día de la siguiente elección.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+45. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-44. La Comisión verificará que la Organización Política, haya realizado sus actividades y presentado su solicitud de registro dentro del año contado a partir de la presentación al Instituto, del escrito de información del inicio de actividades conforme lo dispone el artículo 43 del Código.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+46. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-45. La Comisión verificará que la solicitud de registro como Partido Político Local esté acompañada de la documentación, certificaciones y constancias requeridas por el Código y el presente Libro.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+47. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-46. La Comisión procederá a realizar el análisis y el estudio de los Documentos Básicos presentados por la Organización Política en la Asamblea Estatal Constitutiva, los cuales deberán cumplir con lo dispuesto por los artículos 40, 41 y 42 del Código.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+48. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-47. La Comisión procederá a constatar que las actas de las Asambleas Municipales, así como la de la Asamblea Estatal Constitutiva celebradas por la Organización Política, cumplan con los requisitos señalados por el Código y el presente Libro.
-
-Se consideraran incumplidos los requisitos para declarar válida la celebración de una Asamblea Municipal o la Estatal Constitutiva cuando se demuestren los siguientes supuestos:
-
-a) Si después de la verificación de los formatos de afiliación realizada por la Comisión se determina que una asamblea municipal no mantiene el mínimo de afiliados a que hace referencia el artículo 39 fracción II del Código o a la Asamblea Estatal Constitutiva no asisten los Delegados de al menos la mitad más uno de los municipios del Estado a que hace referencia el artículo 43 del Código.
-
-b) Si en la confrontación de la lista de afiliados con el registro de los formatos de afiliación que integraron el mínimo de afiliados a que hace referencia el artículo 39 fracción II y 43 fracción I apartado B del Código, no coinciden plenamente, y el número de formatos de afiliación es menor a 200 personas.
-
-c) Cuando una organización política dé aviso de la celebración de las Asambleas Municipales o Estatal Constitutiva o informe la modificación del lugar, fecha y hora fuera del plazo legal señalado en los artículos 7.12, 7.24 y 7.25 del presente Libro.
-
-d) Cuando las Asambleas Municipales o la Estatal Constitutiva se hayan celebrado en fecha, hora y lugar distinto al señalado en el escrito de programación de las mismas.
-
-e) Si del acta de certificación se desprende que hubo coacción hacia los representantes del Instituto o se impida el correcto desempeño de sus funciones.
-
-f) Si del acta de certificación se demuestra que durante el desarrollo de la Asamblea Municipal o Estatal Constitutiva se coaccionó o ejerció violencia física o verbal contra los asistentes a la misma, con el propósito de inducir a los ciudadanos participantes y que lesione su derecho de asociación.
-
-g) Si del acta de certificación se desprende indubitablemente que en el domicilio donde se realizó la Asamblea Municipal o Estatal Constitutiva, antes, durante y después del desarrollo de la Asamblea se observó la distribución de despensas; materiales de construcción; o, cualquier o otro bien que pretenda inducir a los ciudadanos participantes a asistir y que lesione su derecho de asociación.
-
-h) Cuando se demuestre de manera indubitable en el acta de la Asamblea Municipal o Estatal Constitutiva que los ciudadanos que asistieron fueron convocados e informados de un fin distinto al de constituir un Partido Político Local o les ofrecieron gestionar la prestación de un servicio público.
-
-i) Si del acta de certificación se desprende que no se cumplió con el mínimo de afiliados para aprobar validamente los acuerdos.
-
-j) Si del acta de certificación se desprende que la Asamblea Municipal o Estatal Constitutiva no se desarrolló conforme al orden del día aprobado.
-
-k) Si del acta de certificación se desprende que no aprobaron sus documentos básicos.
-
-Lo anterior sin perjuicio de aquellas circunstancias y hechos que a juicio de la Comisión y del Consejo General se constituyan en una causa válida para declarar nula una asamblea.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+49. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-48. La Comisión hará una revisión física de los expedientes conforme al anexo del presente Libro, para identificar posibles inconsistencias.
+50. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 7.
-
-49. La Comisión verificará que la Organización Política haya realizado actividades políticas independientes de cualquier otra Organización, por lo menos durante el año anterior a la fecha en que se presente la solicitud de registro.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO VII. Del Dictamen o Resolución de la Comisión
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 7.
+
+51. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-50. La Comisión otorgará la garantía de audiencia a los representantes de la Organización Política, para que manifiesten lo que a su derecho convenga, dentro de los cuarenta días a que hace referencia el artículo 7.41 del presente Libro, bajo el siguiente procedimiento:
+52. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
-La Comisión notificará a los representantes de la Organización Política el inicio del procedimiento para el desahogo de la garantía de audiencia, adjuntando el anteproyecto de dictamen, fijándole día, hora y lugar para que comparezca ante la Comisión y, manifieste lo que a su derecho convenga, ofrezca pruebas de su parte y alegue lo que estime procedente. En fecha posterior, la Comisión procederá a elaborar el proyecto de dictamen correspondiente, debiendo considerar lo aportado por la Organización Política en la garantía de audiencia.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 7.
-
-51. El dictamen que elabore la Comisión deberá contener, entre otros apartados, los siguientes:
-
-a) Antecedentes. Describirá los trámites realizados por la Organización Política solicitante;
-
-b) Considerandos. Se señalará en los ordenamientos jurídicos correspondientes la forma como la Organización Política cumplió o no con los requisitos establecidos en el Código y el presente Libro. En un apartado específico se describirá, en su caso, la forma como fueron corregidas y aclaradas las omisiones observadas en los mismos; y
-
-c) Resolución. Contendrá la determinación que otorgue o niegue a la Organización Política el registro como Partido Político Local, debidamente fundada y motivada.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO VIII. De la Declaratoria de Pérdida del Registro de Partido Político Local
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 7.
+
+53. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-52. La Comisión, a través de su Presidente y Secretario Técnico, enviarán el proyecto de dictamen al Secretario General para que lo presente al Consejo General, en términos de lo dispuesto por la fracción XIII del artículo 95 del Código.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+54.- (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-53. Se denomina declaratoria de pérdida de registro de un Partido Político Local, al acuerdo o resolución que emite el Consejo General mediante el cual, un Partido Político Local que se encuentre en alguna de las causales del artículo 48 del Código, pierde la calidad de Partido Político, así como los derechos y prerrogativas establecidos en la Constitución y el Código.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+55. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-54.- Para la declaratoria de pérdida de registro como Partido Político Local debido a la causal que se señala en la fracción I del articulo 48 del Código, el Secretario General elaborará un proyecto de dictamen fundado en los cómputos y declaración de validez respectivas de los Consejos del Instituto, así como de las resoluciones del Tribunal.
+56. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
-Elaborado el proyecto de dictamen, el Secretario General lo remitirá a la Junta General para que sustancie el procedimiento de pérdida del registro.
-
-El Secretario General notificará a los Representantes del Partido Político el inicio del procedimiento para la pérdida del registro como Partido Político Local, adjuntando el proyecto de dictamen, fijándole día, hora y lugar para que comparezca ante la Junta General al desahogo de la garantía de audiencia en la que manifieste lo que a su derecho convenga, y ofrezca las pruebas de su parte y alegue lo que estime procedente.
-
-Una vez sustanciado el procedimiento, se remitirá al Consejo General, para que, en su caso, emita la declaratoria respectiva y ordene su publicación en la Gaceta del Gobierno.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 7.
-
-55. Cuando algún Partido Político Local se encuentre en las causales establecidas en la fracción II y III del artículo 48 del Código, el Instituto, a través de la Junta General, en ejercicio de las facultades conferidas por el artículo 99 del Código, elaborará un dictamen, el cual será notificado a la dirigencia a fin de que manifieste lo que a su derecho convenga.
-
-Una vez sustanciado el procedimiento, la Junta General valorará los elementos de prueba presentados por el Partido Político, para que, en su caso, emita un proyecto de dictamen fundado y motivado, que será remitido al Consejo General, para que, de ser procedente, emita la declaratoria correspondiente y ordene su publicación en la Gaceta del Gobierno.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO IX. Del Procedimiento de Registro como Partido Político Local de un Partido Político Nacional que Pierda su Registro
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+###### Artículo 7.
+
+57. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-56. El Partido Político Local que haya sido declarado disuelto por acuerdo de sus miembros, deberá informarlo al Instituto por conducto del Consejero Presidente, anexando para tal efecto la siguiente documentación:
-
-a) La Convocatoria a la Asamblea Estatal o equivalente;
-
-b) El acta de la Asamblea Estatal o equivalente, en la que se resolvió de acuerdo a sus normas estatuarias la disolución del Partido Político.
-
-El Consejero Presidente remitirá al Secretario General, el informe y sus anexos para que elabore el proyecto de dictamen debidamente fundado y motivado, que será remitido al Consejo General para que, de ser procedente, emita la declaratoria correspondiente y ordene su publicación en la Gaceta del Gobierno.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+58. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-57. Cuando un Partido Político Nacional pierda su registro como tal, podrá solicitar, a través de la dirigencia estatal, su registro como Partido Político Local al Instituto, por conducto del Consejero Presidente, quien instruirá al Secretario General para que turne la solicitud a la Comisión y se inicie el procedimiento para el otorgamiento del registro en términos del párrafo segundo del artículo 37 del Código.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+59. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-58. La solicitud de registro deberá estar acompañada de la siguiente documentación:
-
-a) Copia certificada del registro como Partido Político Nacional, expedida por el Instituto Federal Electoral;
-
-b) Certificación expedida por el Instituto Federal Electoral que acredite la personalidad del solicitante como presidente del Comité Ejecutivo Estatal o equivalente del Partido;
-
-c) Certificación de la declaratoria de pérdida de registro como partido político nacional, expedida por el Instituto Federal Electoral;
-
-d) Certificación del Secretario General del Instituto Electoral del Estado de México, que acredite que el Partido Político solicitante obtuvo al menos el 1.5% de la votación válida emitida en la última elección de diputados y ayuntamientos del Estado y hubiere postulado candidatos propios en al menos la mitad de los municipios y distritos;
-
-e) Declaración de Principios, Programa de Acción y Estatutos, que le regirán como Partido Político Local, en términos de los artículos 40, 41 y 42 del Código;
-
-f) Los Representantes que habrán de mantener la relación con el Instituto; y
-
-g) El domicilio para oír y recibir notificaciones en la Ciudad de Toluca, Estado de México.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+60. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 7.
 
-59. La Comisión tendrá un plazo de 30 días contados a partir de la presentación de la solicitud de registro como Partido Político Local, para su estudio, análisis y emisión del dictamen correspondiente. Dentro de este plazo la Comisión notificará a los representantes de la Organización Política, antes Partido Político Nacional, el inicio del procedimiento para el desahogo de la garantía de audiencia, adjuntando el anteproyecto de dictamen, fijándole día, hora y lugar para que comparezca ante la Comisión y, manifieste lo que a su derecho corresponda, ofrezca las pruebas de su parte y alegue lo que estime procedente.
+61. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
-###### Artículo 7.
+ANEXO DEL LIBRO SEXTO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO.
 
-60. El dictamen que elabore la Comisión deberá:
-
-I. Verificar que el Partido Político Nacional que perdió su registro presentó, a través de su dirigencia estatal, en tiempo y forma, su solicitud de registro como Partido Político Local;
-
-II. Comprobar que la documentación se ajusta a los requisitos que prevé el párrafo segundo del artículo 37 del Código y el artículo 7.58 del presente Libro; y
-
-III. Considerar lo aportado por la Organización Política, antes Partido Político Nacional, en el desahogo de la garantía de audiencia.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-###### Artículo 7.
-
-61. Una vez aprobado el dictamen por la Comisión, se enviará al Secretario General a fin de someterlo al Consejo General para que, de ser procedente, emita la declaratoria correspondiente y ordene su publicación en la Gaceta del Gobierno.
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
-
-ANEXO DEL LIBRO SEXTO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO
-
-Principios de Contabilidad Generalmente Aceptados
-
-Los partidos políticos y coaliciones deberán apegarse para el registro y control de sus operaciones financieras, a los Principios de Contabilidad Generalmente Aceptados y aplicables a los partidos políticos, que permitan proporcionar una información financiera veraz y oportuna de sus operaciones, siendo los siguientes:
-
-a) Relativos al aspecto financiero
-
-Ente. Se considera a todo partido político y coalición con personalidad jurídica creado por la ley.
-
-Cuantificación en términos monetarios. Los derechos u obligaciones y, en general, todas las operaciones que se realicen serán registradas en moneda nacional.
-
-Periodo contable. La vida del partido político o coalición se dividirá en periodos uniformes para el efecto del registro de las operaciones y de la información de las mismas.
-
-b) Relativos a la cuantificación de las operaciones
-
-Valor histórico original. Los bienes muebles e inmuebles deberán registrarse al costo de adquisición o a su valor estimado.
-
-Existencia permanente. Se considera que los partidos políticos tienen vida permanente, salvo modificación posterior de la ley que los creó.
-
-Base de registro. Los gastos deben ser reconocidos y registrados en el momento en que se devenguen y los ingresos cuando se obtengan.
-
-c) Relativo a la información
-
-Revelación suficiente. Los estados financieros deben incluir la información suficiente para mostrar amplia y claramente la situación financiera y patrimonial de los partidos políticos y coaliciones.
-
-d) Relativos a los requisitos generales
-
-Importancia relativa. La información contenida en los estados financieros deberá revelar todas las partidas que son de suficiente importancia para efectuar las evaluaciones o tomar decisiones.
-
-Consistencia. Las políticas, métodos y procedimientos contables deberán ser los apropiados para reflejar la situación del partido político y coalición debiendo aplicarse con criterio uniforme a lo largo de un periodo y de un periodo a otro.
-
-Cumplimiento de disposiciones legales. Los partidos políticos y coaliciones observarán las disposiciones legales aplicables para cualquier aspecto relacionado con el sistema contable.
-
-Observaciones generales en la aplicación de los principios. Los partidos políticos y coaliciones no estarán obligados a determinar la depreciación contable de sus activos fijos, así como tampoco la revaluación (sic) o actualización de los valores económicos de los mismos.
-
-Glosario
-
-Activo. El total de los bienes materiales, créditos y derechos de una persona, de una sociedad, de una corporación, de una asociación o de una entidad cualquiera.
-
-Activo fijo. Son las propiedades, bienes materiales o derechos que en el curso normal de los negocios no están destinados a la venta, sino que representan la inversión de capital en las cosas usadas o aprovechadas por la entidad.
-
-Actividades políticas. El conjunto de actividades o tareas que desarrolla un partido político a través de sus grupos de activistas, militantes, candidatos y dirigentes, encaminados a cumplir los principios ideológicos y con el propósito de ganar prosélitos o adeptos a la doctrina ideológica del partido y de obtener el voto ciudadano para acceder al poder público.
-
-Autofinanciamiento. Son los ingresos que los partidos políticos obtienen de sus actividades promocionales, tales como conferencias, espectáculos, juegos y sorteos, eventos culturales, ventas editoriales de bienes y propaganda utilitaria, así como cualquier otra que realicen para allegarse de fondos.
-
-Balanza de comprobación. Documento que se formula periódicamente para comprobar que la totalidad de los cargos es igual a la totalidad de abonos hechos en los libros durante cierto periodo.
-
-Banca de desarrollo. Instituciones que ejercen el servicio de banca y crédito de largo plazo para atender el impulso de sectores, regiones o actividades prioritarias de acuerdo con sus leyes orgánicas constitutivas. Por ejemplo, Nacional Financiera (NAFIN) o el Banco Rural (BANRURAL), a los que se les encomienda promover el ahorro y la inversión, así como canalizar apoyos financieros y técnicos al fomento industrial o al sector agropecuario respectivamente y, en general, al desarrollo económico nacional y regional del país. Las instituciones de banca de desarrollo tienen por objeto financiar proyectos prioritarios para el país y estimular con equidad y eficiencia el desarrollo económico nacional.
-
-Bien inmueble. Son aquellos que por su naturaleza permanecen estáticos en un sólo lugar o de manera fija.
-
-Bien mueble. Son aquellos cuerpos que por su naturaleza pueden trasladarse de un lugar a otro, ya sea que se muevan por sí mismos o por una fuerza exterior.
-
-Campaña electoral. En términos del artículo 152, es el conjunto de actividades llevadas a cabo por los partidos políticos y los candidatos registrados, para la obtención del voto en el periodo comprendido, entre la fecha de registro de candidaturas y hasta tres días antes de la jornada electoral. Son actos de campaña la emisión de mensajes políticos, las reuniones públicas, asambleas, marchas y en general, los actos en que los candidatos o voceros de los partidos se dirigen al electorado para promover sus candidaturas.
-
-Campaña política. La forma de comunicación referida al campo ideológico que persigue influir sobre las actividades y opiniones de los individuos de una determinada colectividad, para perpetuar o cambiar las estructuras de poder, imperantes en la misma mediante la inducción a obrar de acuerdo con los términos contenidos en el mensaje.
-
-Candidatura común. Se entiende como la postulación de un mismo candidato, por dos o más partidos políticos sin mediar convenio.
-
-Catálogo de cuentas. Lista pormenorizada y ordenada de una serie de cuentas que se han de llevar para el registro de ciertas operaciones, para sistematizar la contabilidad de una entidad, distrito o municipio.
-
-Código Electoral. Cuerpo de Leyes que forma un sistema completo de legislación en materia electoral.
-
-Coalición. Acuerdo formalmente escrito en el que intervienen la voluntad de dos o más partidos políticos para unirse o aliarse en un proceso electoral.
-
-Comisión de Fiscalización. Integrada por tres Consejeros designados por el Consejo General con voz y voto, por los representantes de los partidos y coaliciones con voz, un Secretario Técnico y un especialista en el área contable y de fiscalización, como asesor. Sólo tendrán derecho a voz el Secretario Técnico y el Asesor Contable y de Fiscalización.
-
-Consejo General. Órgano superior de dirección del Instituto Electoral del Estado de México, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como velar que los principios de certeza, legalidad, independencia, imparcialidad y objetividad, guíen todas sus actividades conforme al artículo 85 del Código.
-
-Conciliación bancaria. Es la comparación que se formula contra el estado de cuenta bancario, sea en detalle o de modo condensado.
-
-Contabilidad. Es una técnica que se utiliza para producir sistemática y estructuradamente información cuantitativa expresada en unidades monetarias de las transacciones que realiza un partido político y de ciertos eventos económicos identificables y cuantificables que le afectan, con el objeto de facilitar a los diversos interesados el tomar decisiones en relación con dicho partido político.
-
-Cuentas de orden. Son aquellas que no representan activo, pasivo o capital, ni resultados reales o efectivos de la negociación.
-
-Generalmente se establecen para registrar derechos y obligaciones contingentes.
-
-Dictamen. Es la explicación del alcance del trabajo realizado. Contendrá el resultado y conclusiones, errores o irregularidades detectadas, las aclaraciones o rectificaciones y las recomendaciones contables, propuestas de sanciones y en su caso lo expresado por los partidos en las garantías de comparecencias.
-
-Estado de cuenta. Es el documento privado unilateral elaborado por el contador del banco (Institución de Crédito), el cual contiene los movimientos que dieron origen al saldo, como son los abonos, los retiros, tipo de tasa, valor de la tasa aplicada, intereses generados, durante un periodo determinado.
-
-Estado de ingresos y egresos. Es el documento que muestra las diferentes modalidades de ingresos así como de egresos, que como resultado de su comparación presenta un ahorro o insuficiencia.
-
-Estado de posición financiera. Es el estado demostrativo de la situación financiera del partido político, a una fecha determinada preparado de acuerdo con la contabilidad y documentación respectiva, que incluye el activo, el pasivo y el capital contable.
-
-Estados financieros. Documentos de soporte que presentan los partidos políticos ante los órganos electorales, en los informes que dan cuenta del origen y monto de los ingresos que reciban por cualquier modalidad de financiamiento, el cual debe ser dictaminado por un contador público autorizado con el objeto de verificar el correcto empleo y aplicación de los mismos, conforme a lo dispuesto por la ley de la materia; para el cumplimiento de esta obligación, los partidos políticos deberán presentar informes anuales.
-
-Fideicomiso. Acto por el cual se destinan ciertos bienes a un fin lícito determinado, encomendado a una institución fiduciaria (institución bancaria) la realización de este fin.
-
-Financiamiento privado. Es aquel que los partidos políticos obtienen por sus propios medios o de terceros, para el desarrollo, promoción y fortalecimiento de sus actividades.
-
-Financiamiento público. Es aquel que el estado otorga a los partidos políticos como entidades de interés público, para contribuir subsidiariamente al desarrollo y promoción de sus actividades políticas en la entidad conforme a lo establecido por el artículo 12, párrafo III de la Constitución Política del Estado Libre y Soberano del Estado de México y artículo 57, fracción I del Código.
-
-Gasto menor. Erogación en donde por su valor mínimo no se recaba documentación con registros fiscales.
-
-Guía contabilizadora. Documento que establece los procedimientos para el adecuado manejo de las cuentas y del registro contable de las operaciones de una entidad.
-
-Informe anual. El informe anual de los ingresos y gastos de actividades ordinarias de los partidos políticos.
-
-Informe de campaña. El informe de los ingresos y gastos de campaña por actividades de cada partido político y sus candidatos.
-
-Inventario. Es la relación detallada de las existencias materiales comprendidas en el activo, el cual debe demostrar el número de unidades en existencia.
-
-Militante. Es aquella persona que está afiliada a algún partido político de acuerdo con sus estatutos. Son las personas físicas, organizaciones sociales y los candidatos que están afiliados a algún Partido Político y que realizan aportaciones en forma ordinaria, extraordinaria y voluntaria de recursos en efectivo y en especie.
-
-Normas y Procedimientos de Auditoria. Normas personales del contador público para la conducción del trabajo de una auditoria externa y para la formulación de su informe de dicha auditoria.
-
-Órgano Interno. Es el encargado de la percepción y administración de los recursos generales y de campaña, así como de proporcionar la información financiera para su revisión, registrado por cada partido político ante la Comisión en términos del artículo 59 del Código.
-
-Partido político. Entidad de interés público que tiene como fin promover la vida democrática, contribuir a la integración de la representación popular y, como organización de ciudadanos hacer posible el acceso de éstos al ejercicio del poder de acuerdo con los programas, principios e ideas que postulen.
-
-Pasivo. Conjunto de obligaciones y gravámenes que tiene en su contra una persona.
-
-Patrimonio. Universalidad de bienes derechos y obligaciones en el hacer de una persona física o moral, susceptibles de ser valuados en dinero.
-
-Persona física. Son todos los seres humanos susceptibles de contraer derechos y obligaciones.
-
-Persona moral. Ente jurídico susceptible de derechos y obligaciones. Se entienden comprendidas, entre otras, las sociedades mercantiles, los organismos descentralizados que realicen preponderantemente actividades empresariales, las instituciones de crédito y las asociaciones civiles.
-
-Prerrogativas. Derechos y privilegios que el Código Electoral otorga a los partidos políticos por considerarlos entidades de interés público con lo cual se otorgan los medios para garantizar su permanencia y contribuir así al desarrollo de la democracia.
-
-Principios de contabilidad generalmente aceptados. Son los conceptos básicos que establecen las delimitaciones e identificación del partido político, las bases de cuantificación de las operaciones y la presentación de la información financiera cuantitativa por medio de los estados financieros.
-
-Propaganda electoral. Es el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos, los candidatos registrados y sus simpatizantes, con el propósito de presentar y promover ante los ciudadanos las candidaturas presentadas y obtener el voto ciudadano.
-
-Publicidad. Es el conjunto de gastos realizados en medios de radio, televisión y prensa.
-
-Reconocimiento por actividades políticas. Son erogaciones de los partidos políticos a militantes y simpatizantes por apoyo político en operaciones ordinarias y de campaña en forma esporádica y no permanentes.
-
-Registro contable. Es la forma de asentar, clasificar y resumir las operaciones de una entidad, en los libros de contabilidad.
-
-Rendimiento financiero. Producto o utilidad que se genera por inversiones bancarias o préstamos otorgados.
-
-Salario mínimo. Cantidad menor que debe recibir en efectivo una persona por los servicios prestados en una jornada de trabajo. Pueden ser generales por una o varias áreas geográficas y extenderse a una o más entidades federativas, los cuales se modifican al inicio de cada año. Además, se utiliza como unidad de medida más baja para equiparar a ciertas cantidades de ingresos o pagos.
-
-Simpatizante. Es aquella persona que no está afiliada a algún partido político determinado, pero le es afín y vota por él. Son las personas físicas o morales mexicanas con residencia en el país que realizan aportaciones en dinero o en especie en forma libre y voluntaria.
-
-Subcuentas. Término con el cual se designan las cuentas comprendidas dentro de una cuenta colectiva o sea aquellas que se llevan en libros de registro.
-
-Viáticos. Conjunto de gastos menores por concepto de comidas, hospedaje y gastos de viaje efectuados por el personal de los partidos políticos y coaliciones, comprobados mediante documentación simplificada.
-
-> <small>N. DE E. VEASE FORMATOS EN LA SECCION CUARTA DE LA G.G. DE 3 DE JULIO DE 2007, PAGINAS DE LA 67 A LA 112.</small>
-
-> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)</small>
 
 ANEXO DEL LIBRO SÉPTIMO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO.
-
-ANEXO
-
-Análisis y revisión de las actividades y documentos presentados por la Organización Política para constituirse como Partido Político Local.
-
-Con fundamento en el artículo 7.42 del Libro Séptimo, la Comisión elaborará el cronograma de actividades para el análisis y revisión de la documentación presentada por la Organización Política solicitante de Registro conforme la siguiente metodología:
-
-1. De la Solicitud de Registro.
-
-1.1 Solicitud de registro.
-
-La Comisión comprobará que la Organización Política se constituyó legalmente, así como la personalidad de quien presente la solicitud al Instituto para constituirse como Partido Político Local, y que ésta se presentó dentro del año de vigencia de actividades a que hace referencia en la fracción II del artículo 43 del Código.
-
-Se verificará que la Organización Política haya presentado su solicitud de registro por lo menos catorce meses antes del día (sic) la elección que corresponda, en términos de la fracción IV del artículo 39 del Código.
-
-1.2 Anexos.
-
-Se verificará que la solicitud cuente con la constancia de entrega de la Declaración de Principios, Programa de Acción y Estatutos expedida por la Dirección de Partidos Políticos y que los Documentos Básicos aprobados en la Asamblea Estatal Constitutiva, reúnan los requisitos establecidos en los artículos 40, 41 y 42 del Código.
-
-Se compulsarán los Documentos Básicos aprobados en la Asamblea Estatal Constitutiva, con los presentados en el escrito de información de inicio de actividades y, en su caso, de las reformas y adiciones realizadas.
-
-1.2.1 Listas nominales de afiliados.
-
-Se verificará que en la solicitud se anexa la constancia de entrega de las listas nominales de afiliados, en las que se encuentren al menos 200 afiliados de por lo menos la mitad más uno de los municipios del Estado, conforme a los artículos 39 fracción II y 44 fracción II del Código.
-
-1.2.2 Actas de Asambleas Municipales y Estatal Constitutiva.
-
-Se verificará que en la solicitud, se anexa la constancia de celebración de las Asambleas Municipales en por lo menos la mitad más uno de los municipios del Estado y Estatal Constitutiva, en términos de la fracción III del artículo 44 del Código.
-
-1.2.3 Actividades Políticas Independientes.
-
-Se verificará que en la solicitud se anexa la constancia de realización de actividades políticas independientes a que hace referencia la fracción III del artículo 39 del Código.
-
-2. Análisis de las Asambleas Municipales y Estatal Constitutiva.
-
-El expediente de la Organización Política en las que obren las Asambleas Municipales y Estatal Constitutiva, deberá ordenarse de manera cronológica a su celebración y contener:
-
-Oficio de aviso de celebración de la Asamblea Municipal y Estatal Constitutiva, en su caso.
-
-Oficio de comisión del representante del Instituto.
-
-Orden del Día.
-
-Lista de afiliados de los municipios.
-
-Formatos de afiliación a la Organización Política verificados en la mesa de registro, o en su caso, lista de Delegados.
-
-Ejemplar de los Documentos Básicos aprobados en la Asamblea Municipal o Estatal Constitutiva.
-
-Relación de Integrantes del Comité Estatal o Municipal o su equivalente, electos en las asambleas respectivas.
-
-Relación de los Delegados propietario y suplente electos en las Asambleas Municipales.
-
-Acta de certificación.
-
-2.1 De las Asambleas Municipales se verificará:
-
-Que el municipio, hora, fecha y lugar de celebración de la Asamblea Municipal es coincidente con el oficio de aviso de la misma, en ese mismo sentido se confrontará el oficio de comisión del representante del Instituto, y que éste fue quien certificó la Asamblea.
-
-Que el orden del día de las Asambleas Municipales cumplan con los requisitos mínimos establecidos en el artículo 7.16 del Libro Séptimo.
-
-El número de asistentes y el número de ciudadanos afiliados que sirvieron de base para la declaratoria de instalación de la asamblea que para tal efecto asentó el Representante del Instituto en el acta respectiva.
-
-Que los Documentos Básicos de la Organización Política fueron conocidos, discutidos y aprobados por los ciudadanos afiliados a la Organización Política en la Asamblea; bajo el mismo procedimiento se comprobará que se eligió o ratificó su dirigencia municipal, así como los Delegados propietario y suplente a la Asamblea Estatal Constitutiva.
-
-Que el número de formatos de afiliación sea igual al número de ciudadanos inscritos en las listas de afiliación.
-
-Que fueron entregados los documentos a que hace referencia el artículo 7.19 del Libro Séptimo. Al final de cada expediente se integrará un informe en el que verse el análisis.
-
-2.2 De la Asamblea Estatal Constitutiva se comprobará:
-
-Que la Asamblea Estatal Constitutiva se celebró en municipio, fecha, hora y lugar, y que es coincidente con el escrito de información de la misma, en ese mismo sentido se confrontará el oficio de comisión del representante del Instituto y que éste fue quien certificó la Asamblea.
-
-Que el orden del día de la Asamblea Estatal Constitutiva cumpla con los requisitos mínimos establecidos en el artículo 7.30 del Libro Séptimo.
-
-Que se acreditaron cuando menos un Delegado electo, propietario o suplente, de la mitad más uno de los municipios del Estado, misma que sirvió de base para la declaratoria que para tal efecto asentó el Representante del Instituto en el acta respectiva.
-
-Que los Documentos Básicos de la Organización Política fueron conocidos, discutidos y aprobados por los Delegados de la Organización Política en la Asamblea Estatal Constitutiva; bajo el mismo procedimiento se comprobará que se eligió o ratificó a su dirigencia estatal y que protestó en términos de sus estatutos.
-
-Que fueron entregados los documentos a que hace referencia el artículo 7.34 del Libro Séptimo.
-
-Al final de cada expediento (sic) se integrará un informe en el que verse el análisis.
-
-3. Validación de los Ciudadanos afiliados a la Organización Política.
-
-3.1 Confrontación de las listas y formatos de afiliación.
-
-Se verificará que las listas de los ciudadanos afiliados y los formatos de afiliación de cada Asamblea Municipal, cuenten con los elementos establecidos en el artículo 7.14 del Libro Séptimo.
-
-Se confrontarán los listados de afiliados con los formatos de afiliación, precisando los que sirvieron para la declaratoria de instalación de la asamblea, a afecto de que aquellos que no cuenten con alguno de los requisitos sean descontados de los afiliados que asistieron a la celebración de la misma. De la misma forma, se descontarán aquellas afiliaciones duplicadas.
-
-Los formatos de los ciudadanos afiliados a la Organización Política que no asistieron a la asamblea, pero que formaron parte del expediente de la misma, serán verificados a efecto de comprobar que cumplen con los elementos establecidos en el artículo 7.14 del Libro Séptimo. Dichas manifestaciones de afiliación serán contabilizadas únicamente para conformar el total de afiliados de la Organización Política por municipio.
-
-3.2 Muestreo Aleatorio.
-
-Para verificar que los ciudadanos afiliados a la Organización Política que formaron parte del mínimo de afiliados a que hace referencia los artículos 39 fracción II y 43 fracción I, apartado B del Código se encuentran inscritos en el padrón electoral, se procederá de la siguiente forma:
-
-Se ordenarán de manera cronológica las listas de afiliados por municipio donde se certificaron Asambleas Municipales.
-
-Se calculará una selección del 20 % de los ciudadanos afiliados presentes de cada una de las Asambleas Municipales.
-
-La selección se obtendrá de la aplicación del programa de computación Excel a cargo de la Unidad de Informática del Instituto; se desarrollará con la supervisión de la Comisión.
-
-La Comisión solicitará al Director General tramite ante el Registro Federal de Electores la realización de un dictamen técnico de las posibles inconsistencias, resultado de la confrontación de la lista muestral con el padrón electoral.
-
-Si se detectaran inconsistencias, se tolerarán hasta 200 para ser considerada como procedente. En caso de exceder este número se procederá a clasificar las inconsistencias de acuerdo a sus causas de la siguiente forma:
-
-a) Atribuibles al Registro Federal de Electores.
-
-b) Atribuibles a la Organización Política.
-
-c) Atribuibles al Instituto.
-
-Si la Organización Política se encontrara en este supuesto, la Comisión elaborará un análisis que forme parte de la notificación de la garantía de audiencia a que haya lugar.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
@@ -5138,3 +3768,19 @@ G.G. 27 DE NOVIEMBRE DE 2008.
 PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
 
 SEGUNDO.- Se abroga el Libro Primero del Reglamento aprobado por el Consejo General mediante Acuerdos números 12(doce) y 21/2007 (veintiuno/dos mil siete), de fechas treinta de marzo y veintiocho de junio del año dos mil siete.
+
+G.G. 8 DE ENERO DE 2009.
+
+ACUERDO CG/61/2008, POR EL QUE SE DEROGA EL LIBRO SEPTIMO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
+
+SEGUNDO.- Se deroga el Libro Séptimo "Constitución y Registro de Partidos Políticos Locales" del Reglamento para el Funcionamiento de las Comisiones del Consejo General del Instituto Electoral del Estado de México, aprobado mediante Acuerdo número 21/2007 (veintiuno/dos mil siete), de fecha veintiocho de junio del año dos mil siete.
+
+G.G. 8 DE ENERO DE 2009.
+
+ACUERDO CG/67/2008, POR EL QUE SE DEROGA EL LIBRO SEXTO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
+
+SEGUNDO.- Se deroga el Libro Sexto "De la Fiscalización" del Reglamento para el Funcionamiento de las Comisiones del Consejo General del Instituto Electoral del Estado de México, aprobado mediante Acuerdo número 21/2007 (veintiuno/dos mil siete), de fecha veintiocho de junio del año dos mil siete.
