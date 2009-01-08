@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-relaciones-21799"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-08-10"
-last_updated: "2004-08-26"
+last_updated: "2009-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21799&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-08-08"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE RELACIONES EXTERIORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE AGOSTO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE RELACIONES EXTERIORES, PUBLICADO EN EL D.O.F. DE 8 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 10 de agosto de 2001.
 
@@ -1774,3 +1776,49 @@ SEGUNDO.- Los asuntos que se encuentren en trámite en las unidades administrati
 Cuando la competencia de alguna unidad administrativa establecida con anterioridad a la vigencia de este Decreto deba ser ejercida por alguna otra unidad de las que el mismo establece, el personal y los recursos materiales y financieros con que aquélla contaba y que fueren necesarios al efecto, pasarán a la unidad competente, de acuerdo con la asignación que haga el Oficial Mayor.
 
 TERCERO.- Las modificaciones que se lleven a cabo por el presente Decreto a la estructura orgánica de la Secretaría de Relaciones Exteriores, deberán realizarse mediante movimientos compensados, sin que representen incremento alguno en el presupuesto regularizable de servicios personales aprobado para dicha dependencia en el ejercicio fiscal del año en curso y subsecuentes.
+
+D.O.F. 8 DE ENERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Relaciones Exteriores, publicado en el Diario Oficial de la Federación el 10 de agosto de 2001, y se derogan todas las disposiciones administrativas que se opongan al presente ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+Al entrar en vigor el presente Reglamento, las menciones que se hagan en cualesquier disposición administrativa a la:
+
+a) Coordinación General Plan Puebla Panamá, se entenderán hechas a la Dirección General del Proyecto de Integración y Desarrollo de Mesoamérica.
+
+b) Dirección General de Protección y Asuntos Consulares, se entenderán hechas a las Direcciones Generales de Protección a Mexicanos en el Exterior, y de Servicios Consulares, respectivamente.
+
+c) Dirección General para el Sistema de las Naciones Unidas, se entenderán hechas a la Dirección General para la Organización de las Naciones Unidas.
+
+d) Dirección General del Servicio Exterior y de Personal, se entenderán hechas a la Dirección General del Servicio Exterior y de Recursos Humanos.
+
+e) Dirección General de Comunicaciones e Informática, se entenderán hechas a la Dirección General de Tecnologías de Información e Innovación.
+
+f) Dirección General de Asuntos Culturales, se entenderán hechas a la Dirección General de Cooperación Educativa y Cultural.
+
+g) Sección Mexicana de las Comisiones Internacionales de Límites y Aguas México-Guatemala y México-Belice, se entenderán hechas a la Sección Mexicana de las Comisiones Internacionales de Límites y Aguas entre México y Guatemala, y entre México y Belize.
+
+Los asuntos pendientes al entrar en vigor este Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquélla o aquéllas a las que se les haya atribuido la competencia en este Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Cuando la competencia de alguna unidad administrativa establecida con anterioridad a la vigencia de este Reglamento deba ser ejercida por alguna otra unidad de las que el mismo establece, pasarán a la unidad competente el archivo, mobiliario y, en general, el equipo que aquella hubiera venido utilizando, así como los recursos humanos y presupuestales correspondientes.
+
+###### ARTÍCULO QUINTO.
+
+Los derechos de los trabajadores serán respetados conforme a las disposiciones aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Las modificaciones a la estructura orgánica que deriven de la entrada en vigor del presente Reglamento serán realizadas mediante movimientos compensados, por lo que no aumentarán el presupuesto regularizable de la Secretaría de Relaciones Exteriores.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los cambios en la estructura y programas para atender el contenido del presente Reglamento, serán cubiertos con el presupuesto autorizado a la Secretaría de Relaciones Exteriores.
