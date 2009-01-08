@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-comunicaciones-y-1047"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-06-21"
-last_updated: "2005-11-21"
+last_updated: "2009-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1047&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1995-06-19"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y TRANSPORTES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE NOVIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y TRANSPORTES, PUBLICADO EN EL D.O.F. DE 8 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 21 de junio de 1995.
 
@@ -1836,3 +1838,13 @@ CUARTO.- Los asuntos que se encuentren pendientes a la entrada en vigor de este 
 QUINTO.- Cuando la competencia de alguna de las áreas o unidades administrativas establecidas con anterioridad a la vigencia de este Decreto deba ser ejercida por otra u otras unidades que el mismo establece, los recursos, humanos, materiales y financieros con que aquélla contaba, pasarán a la unidad o unidades administrativas competentes, distribuyéndose, en su caso, de conformidad con el ámbito de atribuciones que a cada una corresponda.
 
 SEXTO.- En tanto se emiten las modificaciones a los manuales que correspondan, el Secretario resolverá lo conducente en aquellas cuestiones no previstas en este Decreto y que deban regularse por dichos manuales.
+
+D.O.F. 8 DE ENERO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Comunicaciones y Transportes, publicado en el Diario Oficial de la Federación el día 21 de junio de 1995, y se derogan todas aquellas disposiciones administrativas que se opongan al presente ordenamiento.
+
+TERCERO.- Se abroga el Acuerdo por el que los Titulares de los Centros SCT, en el ámbito de su jurisdicción, tendrán las facultades que se indican, publicado en el Diario Oficial de la Federación, el 13 de mayo de 1991.
+
+CUARTO.- Los asuntos pendientes a la entrada en vigor de este Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en el presente Reglamento Interior.
