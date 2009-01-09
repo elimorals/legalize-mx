@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-de-la-funcion-registral-61167
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-03"
-last_updated: "2008-04-03"
+last_updated: "2009-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE LA FUNCION REGISTRAL DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE LA FUNCION REGISTRAL DEL ESTADO DE MEXICO
+REGLAMENTO INTERIOR DEL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE ENERO DE 2009.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 3 de abril de 2008.
 
@@ -359,13 +359,17 @@ XII. Oficina Registral Tenango del Valle, en los municipios de Almoloya del Río
 
 XIII. Oficina Registral Texcoco, en los municipios de Acolman, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Papalotla, Atenco, La Paz, Teotihuacan, Tepletlaoxtoc, Texcoco y Tezoyuca.
 
-> <small>(F. DE E., G.G. 21 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, G.G. 9 DE ENERO DE 2009)</small>
 
-XIV. Oficina Registral Tlalnepantla I, en los municipios de Atizapán de Zaragoza, Isidro Fabela, Jilotzingo, Nicolás Romero y Tlalnepantla de Baz.
+XIV. Oficina Registral Tlalnepantla, en los municipios de Atizapán de Zaragoza, Isidro Fabela, Jilotzingo, Nicolás Romero y Tlalnepantla de Baz.
 
-XV. Oficina Registral Tlalnepantla II, en los municipios de Naucalpan de Juárez y Huixquilucan.
+> <small>(REFORMADA, G.G. 9 DE ENERO DE 2009)</small>
 
-XVI. Oficina Registral Tlalnepantla III, en los municipios de Ecatepec de Morelos y Coacalco de Berriozábal.
+XV. Oficina Registral Naucalpan, en los municipios de Naucalpan de Juárez y Huixquilucan.
+
+> <small>(REFORMADA, G.G. 9 DE ENERO DE 2009)</small>
+
+XVI. Oficina Registral de Ecatepec, en los municipios de Ecatepec de Morelos y Coacalco de Berriozábal.
 
 XVII. Oficina Registral Toluca, en los municipios de Almoloya de Juárez, Metepec, Temoaya, Toluca, Villa Victoria y Zinacantepec.
 
@@ -379,7 +383,7 @@ Corresponde a las Oficinas Registrales las atribuciones siguientes:
 
 > <small>(F. DE E., G.G. 21 DE MAYO DE 2008)</small>
 
-I. Planear, programar, ejecutar y evaluar en el ámbito de su competencia las atribuciones y funciones que en materia registral le corresponden al Instituto.
+I. Planear, programar, ejecutar y evaluar, en el ámbito de su competencia, las atribuciones y funciones que en materia registral le corresponden al Instituto.
 
 II. Aplicar las normas, lineamientos y procedimientos establecidos para la ejecución de la función registral y, en su caso, proponer a su superior jerárquico las modificaciones que se requieran.
 
@@ -440,3 +444,15 @@ MTRO. ALEJANDRO l. MURAT HINOJOSA
 DIRECTOR GENERAL DEL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 9 DE ENERO DE 2009.
+
+PRIMERO. Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. Cuando en otros ordenamientos legales y administrativos, se haga referencia a las oficinas registrales: Tlalnepantla I, Tlalnepantla II y Tlalnepantla III, se entenderán las oficinas registrales de Tlalnepantla, Naucalpan y Ecatepec, respectivamente.
+
+CUARTO. Se derogan las disposiciones de igualo menor jerarquía jurídica que se opongan al presente Acuerdo.
