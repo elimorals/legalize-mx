@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-las-juntas-de-mejoramiento-moral-civico-y-48865"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-03"
-last_updated: "2006-10-13"
+last_updated: "2009-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LAS JUNTAS DE MEJORAMIENTO MORAL, CIVICO Y MATERIAL, DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 3 de febrero de 2006.
 
@@ -99,9 +99,9 @@ El Ayuntamiento a través de la Coordinación, fomentará la integración de Jun
 
 Para la adecuada coordinación de las actividades y operaciones de las Juntas, se creara una Directiva por la cual serán representadas.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2009)</small>
 
-Las directivas estarán integradas por un Presidente, un Secretario, un Tesorero y dos vocales, y durarán en su encargo tres años, las cuales no podrán ser reelectas en el período posterior inmediato.
+Las directivas estarán integradas por un Presidente, un Secretario, un Tesorero y dos Vocales, y durarán en su encargo tres años, pudiendo ser reelectas por una ocasión en el periodo posterior inmediato, conforme al procedimiento previsto en los artículos siguientes.
 
 Los cargos de los miembros de las Juntas, serán honoríficos y su aceptación voluntaria, quienes acepten quedarán obligados a desempeñar con eficacia las comisiones que se comprometan cumplir.
 
@@ -287,9 +287,13 @@ II. La del secretario o tesorero, será suplida por el segundo vocal;
 
 III. La de cualquiera de los vocales, será suplida por la persona que determine la Coordinación; y
 
-Procederá celebrar asamblea para reestructurar a la directiva de una Junta, cuando en la misma fecha falten de manera definitiva tres o más de sus integrantes. En este caso, el objeto de la asamblea será elegir a quienes ocuparán los puestos vacantes, bajo el mismo procedimiento.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2009)</small>
 
-En el supuesto de que no se reúna la asamblea, o de no hacerse en la misma la elección que corresponda, procederá el Presidente o su representante a designar a quienes cubrirán las vacantes. Dicha designación será hecha a través de la Coordinación.
+Cuando falte una directiva en su totalidad, el Presidente podrá a través de la Coordinación de Delegaciones, nombrar a una directiva interina, en tanto se elija a la que corresponda conforme al procedimiento establecido en el presente Reglamento. El encargo de la directiva interina no podrá ser menor de tres ni mayor de doce meses. La directiva interina y los ciudadanos que desempeñen algún cargo en la misma, podrán ser electos para integrar la directiva en el siguiente periodo de tres años.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2009)</small>
+
+Procederá celebrar asamblea para reestructurar a la directiva de una Junta, cuando en la misma fecha falten de manera definitiva tres o cuatro de sus integrantes. En este caso, el objeto de la asamblea será elegir a quienes ocuparán los puestos vacantes, bajo el procedimiento previsto en este mismo Capítulo. En el supuesto de que no se reúna la asamblea, o de no hacerse en la misma elección que corresponda, procederá el Presidente o su representante a designar a quienes cubrirán las vacantes. Dicha designación será hecha por el Presidente a través de la Coordinación.
 
 ### CAPÍTULO TERCERO. DE LOS PROGRAMAS DE TRABAJO E INFORMES DE ACTIVIDADES DE LAS JUNTAS DE MEJORAMIENTO MORAL, CÍVICO Y MATERIAL
 
@@ -592,3 +596,7 @@ SECRETARIO DEL XVIII AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA.
 P.O. 13 DE OCTUBRE DE 2006.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 9 DE ENERO DE 2009.
+
+Único.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
