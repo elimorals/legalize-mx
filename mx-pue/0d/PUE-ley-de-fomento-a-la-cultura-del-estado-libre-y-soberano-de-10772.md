@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-fomento-a-la-cultura-del-estado-libre-y-soberano-de-1077
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-18"
-last_updated: "1996-03-15"
+last_updated: "2009-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DE FOMENTO A LA CULTURA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 1996.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CULTURA DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 12 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 18 de noviembre de 1994.
 
@@ -520,3 +522,53 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 12 DE ENERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Fomento a la Cultura del Estado de Puebla, publicada en el Periódico Oficial del Estado, el día dieciocho de noviembre de mil novecientos noventa y cuatro, así como todas las disposiciones contrarias a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Decreto mediante el cual se instituye el Festival de la Danza del Estado de Puebla, publicado en el Periódico Oficial del Estado, el día catorce de septiembre de mil novecientos setenta y seis.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga el Decreto que instituye el Festival Anual de Bandas de Música del Estado de Puebla, publicado en el Periódico Oficial del Estado, el día diecisiete de diciembre de mil novecientos setenta y seis.
+
+###### ARTÍCULO QUINTO.
+
+Se abroga el Decreto por el que se crea el Cargo de Cronista del Estado de Puebla, publicado en el Periódico Oficial del Estado, el día doce de marzo de mil novecientos ochenta y siete.
+
+###### ARTÍCULO SEXTO.
+
+Se abroga el Decreto por el que se instituyen los Estímulos Puebla como reconocimiento a la Actividad en las Artes, publicado en el Periódico Oficial del Estado el día quince de octubre de dos mil uno.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los Cronistas que a la fecha de entrada en vigor hayan sido nombrados conforme a las disposiciones aplicables, continuarán ejerciendo el cargo en los términos establecidos en esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Las Declaratorias de Patrimonio Cultural que a la entrada en vigor hayan sido expedidas conforme a las disposiciones aplicables, continuarán vigentes y surtirán todos sus efectos legales.
+
+###### ARTÍCULO NOVENO.
+
+Las erogaciones que deriven de la aplicación de la presente Ley, estarán sujetas a la suficiencia presupuestal que para cada ejercicio fiscal apruebe el Honorable Congreso del Estado Libre y Soberano de Puebla.
+
+###### ARTÍCULO DÉCIMO.
+
+Las erogaciones que deriven del cumplimiento de las obligaciones que se prevén en este ordenamiento legal a cargo de los Ayuntamientos, estarán sujetos a la suficiencia presupuestal que para cada ejercicio fiscal autorice el Cabildo Municipal.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Ejecutivo del Estado emitirá el Reglamento correspondiente a la presente Ley, en un plazo máximo de doce meses contados a partir de la entrada en vigor de la misma.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+El Ejecutivo del Estado expedirá el Decreto de creación del Consejo Poblano de Cultura, dentro de un plazo de ciento veinte días naturales.
