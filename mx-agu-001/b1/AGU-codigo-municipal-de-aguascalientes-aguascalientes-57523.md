@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2009-01-05"
+last_updated: "2009-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -9957,7 +9957,377 @@ Los inodoros, lavabos y regaderas a que se refiere este artículo se distribuir�
 
 Para los efectos de este Libro, deberá tomarse en consideración la siguiente tabla:
 
-(VEASE ARCHIVO ANEXO)
+SERVICIOS SANITARIOS
+
+Tipo de Edificación Magnitud de la Inodoros Lavabos Regaderas
+
+Edificación
+
+2.- Servicios
+
+2.1.- Oficinas
+
+Hasta 100 personas 2 2 ----
+
+De 100 hasta 200 3 2 ----
+
+per.
+
+Cada 100
+
+adicionales o 2 1 ----
+
+fracción
+
+2.2.- Comercios (1)
+
+Hasta 25 empleados 2 2 ----
+
+De 25 hasta 50 3 2 ----
+
+empleados
+
+De 50 hasta 75 4 2 ----
+
+empleados
+
+De 75 hasta 100 5 3 ----
+
+empleados
+
+Cada 100 3 2 ----
+
+adicionales o
+
+fracción
+
+2.2.1.- Servicios al Público
+
+Baños públicos Hasta 5 usuarios 1 1 1
+
+(2) (3)
+
+De 5 hasta 10 2 2 2
+
+usuarios
+
+De 10 hasta 20 3 3 5
+
+usuarios
+
+De 20 hasta 50 4 4 8
+
+Usuarios
+
+Cada 50 adicionales 3 3 4
+
+o fracción
+
+2.3.- Salud Salas de espera 2 2 ----
+
+Hasta 100 personas
+
+De 100 hasta 200 3 2 ----
+
+personas
+
+Cada 100 2 1 ----
+
+adicionales o
+
+fracción
+
+Cuartos de 1 1 1
+
+encamados Hasta
+
+10 camas
+
+De 10 hasta 25 3 2 2
+
+camas
+
+Cada 25 adicionales 1 1 1
+
+o fracción
+
+Baños para 2 2 ----
+
+empleados hasta
+
+25 empleados
+
+De 25 hasta 50 3 2 ----
+
+empleados
+
+De 50 hasta 75 4 2 ----
+
+empleados
+
+De 75 hasta 100 5 3 ----
+
+empleados
+
+Cada 100 3 2 ----
+
+adicionales
+
+o fracción
+
+Laboratorios Clínicos 2 2 1
+
+2.4.- Educación y
+
+Cultura (4)
+
+Educación Hasta 50 alumnos 2 2 ----
+
+elemental,
+
+media y Superior
+
+De 50 hasta 75 3 2 ----
+
+alumnos
+
+De 75 hasta 150 4 2 ----
+
+alumnos
+
+Cada 75 adicionales 2 2 ----
+
+o fracción
+
+2.5.- Centros de
+
+Información
+
+Hasta 100 personas 2 2 ----
+
+De 100 hasta 200 4 4 ----
+
+personas
+
+Cada 200 2 2 ----
+
+adicionales o
+
+fracción
+
+2.6.- Recreación
+
+2.6.1.- 2 2 ----
+
+Entretenimiento (sic)
+
+Hasta 100 personas
+
+De 100 hasta 200 4 4 ----
+
+personas
+
+} Cada 200 2 2 ----
+
+adicionales o
+
+fracción
+
+2.6.2.- Deportes y
+
+Recreación
+
+Canchas y centros Hasta 100 personas 2 2 2
+
+Deportivos (2) (3)
+
+De 100 hasta 200 4 4 4
+
+Personas
+
+Cada 200 2 2 2
+
+adicionales o
+
+fracción
+
+Estadios hasta 100 2 2 ----
+
+personas
+
+De 100 hasta 200 4 4 ----
+
+personas
+
+Cada 200 2 2 ----
+
+adicionales o
+
+fracción
+
+2.7.- Alojamiento
+
+2.7.1.- Casas de Hasta 10 huéspedes 1 1 1
+
+Huéspedes y
+
+Albergues
+
+de 10 hasta 25 2 2 2
+
+huéspedes
+
+cada 25 adicionales 1 2 1
+
+ó fracción
+
+2.8.- Seguridad
+
+Hasta 10 personas 1 1 1
+
+De 10 hasta 25 2 2 2
+
+personas
+
+Cada 25 adicionales 1 1 1
+
+o fracción
+
+2.9.- Servicios
+
+Funerarios
+
+Hasta 100 personas 2 2 ----
+
+De 100 hasta 200 4 4 ----
+
+personas
+
+Cada 200 2 2 ----
+
+adicionales o
+
+fracción
+
+2.10.- Comunicaciones
+
+y Transportes
+
+2.10.1.- Terminales Hasta 100 personas 2 2 ----
+
+y Estaciones de
+
+Transporte
+
+De 100 hasta 200 4 4 ----
+
+personas
+
+Cada 200 2 2 ----
+
+adicionales o
+
+fracción
+
+2.10.2.- Empleados 1 1 ----
+
+Estacionamiento
+
+Público Para 2 2 ----
+
+estacionamiento
+
+vertical, la
+
+especificación es
+
+por piso.
+
+2.10.3.- Hasta 100 personas 2 2 ----
+
+Comunicaciones
+
+De 100 hasta 200 3 2 ----
+
+personas
+
+Cada 100 2 1 ----
+
+adicionales o
+
+fracción
+
+3.- Industria (4)
+
+Industria, almacenes y
+
+bodegas donde se
+
+manipulen materiales
+
+y substancias que
+
+ocasionen desaseo.
+
+Hasta 25 personas 2 2 2
+
+De 25 hasta 50 3 3 3
+
+personas
+
+De 50 hasta 75 4 4 4
+
+personas
+
+De 75 hasta 100 5 4 4
+
+personas
+
+Cada 100 3 3 3
+
+adicionales o
+
+fracción
+
+Otras industrias,
+
+almacenes y Bodegas
+
+Hasta 25 personas 2 1 1
+
+De 25 hasta 50 3 2 2
+
+personas
+
+De 50 hasta 75 4 3 2
+
+personas
+
+De 75 hasta 100 5 3 3
+
+personas
+
+Cada 100 3 2 2
+
+adicionales o
+
+fracción
+
+4.- Espacios Abiertos
+
+4.1.- Jardines y Hasta 100 personas 2 2 ----
+
+Parques
+
+De 100 hasta 400 4 4 ----
+
+personas
+
+Cada 200 1 1 ----
+
+adicionales o
+
+fracción
 
 Observaciones:
 
@@ -10261,7 +10631,19 @@ Las escaleras eléctricas pueden tener ángulos de inclinación hasta de treinta
 
 Los cálculos de las capacidades se harán con la siguiente tabla:
 
-(VEASE ARCHIVO ANEXO)
+Escaleras Eléctricas
+
+Velocidad
+
+Ancho entre Personas
+
+Pasamanos por Escalón Capacidades
+
+0.30 m/seg. 0.60 m/seg
+
+0.81 m 1.25 5,000-personas/h 6,700 personas/h
+
+1.12m 1.80 7,200-personas/h 9,700 personas/h
 
 ###### ARTÍCULO 730.
 
@@ -10729,7 +11111,49 @@ VI. En todas las albercas donde la profundidad sea mayor de noventa centímetros
 
 VII. La instalación de trampolines y plataformas cumplirá las siguientes condiciones:
 
-(VEASE ARCHIVO ANEXO)
+TRAMPOLlNES y PLATAFORMAS
+
+TRAMPOLlNES
+
+Altura de los Profundidad Distancia que debe mantenerse
+
+trampolines mínima del la profundidad mínima del agua
+
+sobre el agua (mts.) a partir de la proyección vertical
+
+nivel del del centro del extremo frontal del
+
+agua (mts.) trampolín (mts.)
+
+Al frente Hacia A cada
+
+Atrás lado
+
+Hasta 1.00 3.00 5.30 1.50 2.20
+
+PLATAFORMAS
+
+Altura de los Profundidad Distancia que debe mantenerse
+
+plataformas mínima del la profundidad mínima del agua
+
+sobre el agua (mts.) a partir de la proyección vertical
+
+nivel del del centro del extremo frontal de
+
+agua (mts.) la plataforma (mts.)
+
+Al frente Hacia A cada
+
+Atrás lado
+
+Hasta 6.50 4.00 7.00 1.50 3.00
+
+De 6.50 a 4.50 10.00 1.50 3.00
+
+10:00
+
+(Máxima)
 
 La anchura de los trampolines será de punto cincuenta metros y la mínima de la plataforma de dos metros. La superficie de ambos será antiderrapante.
 
@@ -10799,15 +11223,15 @@ Las áreas destinadas a andadores, deberán estar libres de los estorbos que pue
 
 ###### ARTÍCULO 807.
 
-Estacionamiento es el lugar de propiedad pública o privada destinado para guardar vehículos, quedando incluidos las pensiones y corralones.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 808.
 
-Todo estacionamiento destinado al servicio al público deberá estar drenado adecuadamente, y limitadas sus colindancias mediante muros a altura no menor de dos punto cincuenta metros, con los predios vecinos.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 809.
 
-Los estacionamientos públicos deberán tener carriles separados, debidamente señalados, para la entrada y salida de los vehículos, con una anchura mínima del arroyo de dos metros cincuenta centímetros cada uno.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 810.
 
@@ -10815,27 +11239,55 @@ Los estacionamientos tendrán áreas de espera techadas para la recepción y ent
 
 ###### ARTÍCULO 811.
 
-Los estacionamientos deberán tener una caseta de control anexa al área de espera para el público, situada a una distancia no menor de cuatro metros cincuenta centímetros, del alineamiento y con superficie mínima de dos metros cuadrados, además deberá contar con servicios sanitario dividido para hombres y mujeres.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 812.
 
-Las construcciones para estacionamiento tendrán una altura libre mínima de dos metros diez centímetros.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 813.
 
-En los estacionamientos de servicio al público, el espacio para cada vehículo se señalará claramente. Para la maniobra de entrada y salida al cajón de estacionamiento, se deberá disponer de una distancia de cuando menos seis metros entre el límite del cajón y el límite del predio o límite del cajón opuesto. Esta distancia podrá reducirse según el ángulo de inclinación del diseño de los cajones en la medida que faciliten una maniobra cómoda y segura del vehículo.
-
-En los estacionamientos públicos o privados que no sean de autoservicio, podrá permitirse que los cajones se dispongan de tal manera que para sacar un vehículo se mueva un máximo de dos.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 814.
 
 Los estacionamientos deberán contar con topes de quince centímetros de peralte en todos los cajones colindantes con muros, colocados de un metro veinte centímetros de éstos. Las medidas de los cajones de estacionamiento para automóviles serán de cinco metros por dos metros cuarenta centímetros, sé podrá permitir hasta el cincuenta por ciento de los cajones para automóviles chicos de cuatro metros veinte centímetros, por dos metros cuarenta centímetros.
 
-(VEASE ARCHIVO ANEXO)
+Tipo de Automóvil Dimensiones del cajón (metros)
+
+En batería En cordón
+
+Grandes y medianos 5.0 x 2.4 6.0 x 2.4
+
+Chicos 4.2 x 2.4 4.8 x 2.4
+
+Angulo del cajón Ancho del pasillo (metros)
+
+Tipo de automóvil
+
+Grandes y medios Chicos
+
+30° 3 2.7
+
+45° 3.3 3
+
+60° 5 4
+
+90° 6 5
 
 Se admitirán en los estacionamientos hasta un 50 por ciento de cajones para autos chicos. Esto es aplicable tanto a estacionamientos existentes como a los que se han de construir.
 
-(VEASE ARCHIVO ANEXO)
+Posición Ancho de Long. Ancho
+
+Pasillo del cajón del cajón
+
+Cordón 10 10 3
+
+45° 7.5 10 3.5
+
+90° frente 14 10 4
+
+90° reversa 8 10 4
 
 ###### ARTÍCULO 815.
 
@@ -10863,21 +11315,19 @@ Los estacionamientos deberán tener ventilación natural por medio de vanos con 
 
 ###### ARTÍCULO 819.
 
-En los estacionamientos de servicio privado no se exigirá que tengan carriles separados, áreas para recepción y entrega de vehículos, servicios sanitarios ni casetas de control.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 820.
 
-Las edificaciones que no cumplan con los espacios de estacionamiento dentro de sus predios, podrán usar para tal efecto otros predios, siempre y cuando se ubiquen dentro de la zona centro y zona urbana consolidada de la Ciudad, que no se encuentren a una distancia mayor de doscientos cincuenta metros, no se atraviesen vialidades primarias, y los propietarios de dichas edificaciones comprueben su titulo de propiedad, inscrito en el Registro Público de la Propiedad de los predios mencionados.
-
-En estos casos se deberán colocar letreros en las edificaciones, señalando la ubicación del estacionamiento y en los predios, señalando la edificación a la que dan servicio; así mismo, el propietario del edificio que carece de estacionamiento propio, deberá presentar el contrato de arrendamiento por cinco años como mínimo del estacionamiento público que le da servicio y garantía por escrito, en convenio con la Secretaría, esto es, durante la vida útil del referido inmueble proporcionará los cajones de estacionamiento que se requieran según sea el uso autorizado.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 821.
 
-Los casos contrarios a lo señalado en el artículo anterior deberán adquirir la superficie necesaria para la disposición de cajones de estacionamiento requeridos.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 822.
 
-Todo estacionamiento público deberá estar drenado adecuadamente y bardeado en sus colindancias con los predios vecinos y al frente o acceso(s), sus fachadas deberán ser acordes a su entorno, colindancias, a la imagen urbana y deberán respetar los reglamentos y normatividad aplicable, conservando el alineamiento de calles.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 823.
 
@@ -10891,11 +11341,11 @@ Los requerimientos mínimos en materia de cajones de estacionamiento son los sig
 
 ###### ARTÍCULO 824.
 
-Los edificios e inmuebles destinados a estacionamientos de vehículos deberán contar, además de las protecciones señaladas en este capítulo con recipientes con arena cuyo número, capacidad y colocación sean a juicio de la Secretaría los necesarios para el control de incendios en los vehículos. Cada recipiente contará con un artefacto que posibilite la aplicación de la arena.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 825.
 
-No se permitirá el uso de materiales combustibles o inflamables en ninguna construcción o instalación de los estacionamientos.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ### CAPÍTULO XIII. Diseño por Viento
 
@@ -12157,7 +12607,23 @@ En virtud de las condiciones geohidrológicas y climáticas prevalecientes en el
 
 Con relación a los Espectros de Diseño Sísmico, las características de los mismos aplicables al Estado de Aguascalientes se muestran a continuación para edificaciones pertenecientes al Grupo B;
 
-(VEASE ARCHIVO ANEXO)
+Espectros de Diseño Sísmico
+
+Zonas de Mediano
+
+y Bajo riesgo
+
+Parámetro Terreno Tipo I Terreno Tipo II
+
+C 0.105 0.24
+
+a 0.04 0.08
+
+Ta 0.10 q0.20
+
+Tb 0.60 1.50
+
+r 1/2 2/3
 
 La simbología que aparece en esta tabla se puede consultar directamente en las Normas Técnicas Complementarias.
 
@@ -16209,165 +16675,19 @@ El Cabildo determinará y modificará las tarifas a que deberán ajustarse los a
 
 ###### ARTÍCULO 1401.
 
-Las presentes disposiciones señalan la normatividad a la que deberán sujetarse los estacionamientos y pensiones del Municipio de Aguascalientes.
-
-El servicio al público de estacionamientos y pensiones consiste en la recepción, guarda, protección y devolución de los vehículos en los lugares autorizados, pudiendo prestarse por hora, día o mes a cambio del pago que señale la tarifa autorizada.
-
-Para los efectos de este Código se entiende por:
-
-I. Estacionamiento: Predio o inmueble de propiedad privada o propiedad pública destinada a guardar temporalmente vehículos, mediante el pago de cuota diaria, por hora o fracción.
-
-II. Estacionamiento Provisional: Predio o inmueble de propiedad privada o de propiedad pública destinada a guardar temporalmente vehículos a través del pago de una tarifa establecida mediante una concesión provisional la cual será expedida por un periodo no mayor de treinta días consecutivos o no.
-
-Los estacionamientos públicos y provisionales se clasifican en:
-
-A. Atendiendo a las instalaciones:
-
-a) Estacionamientos de intemperie: Es aquel que cuenta con una sola planta estando al descubierto para la prestación del servicio.
-
-b) Estacionamiento bajo techo: Son los que cuentan con una sola planta estando cubiertos para la prestación del servicio.
-
-c) Estacionamiento de edificio: Aquel que tenga más de un nivel para la prestación del servicio.
-
-B. Atendiendo al tipo de servicio:
-
-a) De autoservicio: Aquel en el que el usuario estaciona el vehículo.
-
-b) De acomodadores:
-
-En el que personal del estacionamiento acomoda el vehículo.
-
-C. Atendiendo a la capacidad de vehículos:
-
-a) De uno a cincuenta cajones.
-
-b) De cincuenta y uno a ciento cincuenta cajones.
-
-c) De ciento cincuenta y un cajones en adelante.
-
-III. Estacionamiento privado: Como tales se entienden las áreas destinadas a este fin en todo tipo de unidades habitacionales así como las dedicadas a cubrir las necesidades propias y las que se generen con motivo de las actividades de instituciones o empresas siempre que el servicio otorgado sea gratuito. Estos estacionamientos no estarán sujetos a este capítulo.
-
-IV. Pensión: Predio o inmueble de propiedad pública o privada destinado a guardar temporalmente vehículos mediante el pago de una tarifa mensual o anual.
-
-Las pensiones se clasifican:
-
-A. Atendiendo a las instalaciones:
-
-a) Pensión de intemperie: Es aquella que cuenta con una sola planta estando al descubierto para la prestación del servicio; y
-
-b) Pensión bajo techo: es la que cuenta con una sola planta estando cubierta para la prestación del servicio.
-
-B. Atendiendo a la capacidad de vehículos:
-
-a) De uno a cincuenta cajones.
-
-b) De cincuenta y uno a ciento cincuenta cajones.
-
-c) De ciento cincuenta y un cajones en adelante.
-
-Los talleres y auto lavados que trabajen como pensiones y/o estacionamientos de manera secundaria a su actividad principal deberán ajustarse a lo establecido por este capítulo.
-
-El servicio público de estacionamiento o pensión de vehículos podrá ser brindado por personas físicas o morales, privadas o públicas.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 1402.
 
-Corresponde a la Secretaría de Servicios Públicos y Ecología, a través de la Dirección de Mercados, Estacionamientos y Áreas Comerciales, regular y controlar el funcionamiento de los estacionamientos y pensiones, así como determinar el horario de funcionamiento.
-
-Para la apertura de todo estacionamiento y pensión se deberá cumplir con los siguientes requisitos:
-
-Presentar ante la Dirección de Mercados, Estacionamientos y Áreas Comerciales, solicitud escrita la que deberá contener lo siguiente:
-
-I. Nombre o razón social y domicilio del solicitante.
-
-II. Ubicación del estacionamiento.
-
-III. Documentación que acredite la propiedad o legítima posesión del inmueble.
-
-IV. Constancia de alineamiento y compatibilidad de uso de suelo expedido por la Secretaría de Desarrollo Urbano Municipal.
-
-V. Dictamen Técnico expedido por la Dirección de la Unidad de Protección Civil Municipal.
-
-VI. Número de cajones de estacionamiento.
-
-VII. Copia del alta ante hacienda.
-
-VIII. El horario en que prestará el servicio.
-
-IX. La forma y términos en que responderá por los daños que sufran los vehículos estacionados de conformidad con el artículo 1403, fracción II, inciso i).
-
-Con la presentación de la solicitud, la Dirección de Mercados, Estacionamientos y Áreas Comerciales, verificará el cumplimiento de los requisitos señalados con anterioridad, así como lo establecido en el Libro Sexto, Título Cuarto, Capítulo Vigésimo Segundo, denominado Estacionamientos y Pensiones del presente Código; para lo cual levantará un acta estableciendo las condiciones del lugar y posteriormente remitirá a la Comisión de Mercados, Rastros y Estacionamientos, para que ésta analice, discuta y presente al H. Ayuntamiento el dictamen para la valorización y en su caso la aprobación del mismo.
-
-Cuando el propietario o administrador soliciten la modificación a las características autorizadas a un estacionamiento público o pensión, deberán presentar escrito en el que se detallen los cambios que deberán ser conforme a lo establecido en el párrafo anterior y determinar para el caso la clasificación que le corresponda según lo establece el artículo 1401 del presente Código.
-
-Para el refrendo anual el administrador o propietario deberá acudir a la Dirección de Mercados, Estacionamientos y Áreas Comerciales, dentro de los primeros tres meses del año con su licencia especial anterior y después de una verificación por parte del Departamento de Mercados y Estacionamientos, se dictaminará si continua o no su funcionamiento.
-
-Cuando el propietario o arrendatario de un estacionamiento o pensión público termine la prestación del servicio, deberá de comunicarlo con un mes de anticipación a la Dirección de Mercados, Estacionamientos y Áreas Comerciales, así como colocar el aviso respectivo en un lugar visible del estacionamiento o pensión.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 1403.
 
-El servicio que otorguen los estacionamientos a los particulares deberá ajustarse a las disposiciones de este apartado y a las que determine el H. Ayuntamiento conforme a las leyes de este Código, de conformidad con lo siguiente:
-
-I. Del servicio de estacionamientos:
-
-a) Los propietarios o administradores de los estacionamientos deberán de solicitar a la Dirección de Mercados, Estacionamientos y Áreas Comerciales, la tarifa de acuerdo a lo establecido en la Ley de Ingresos respectiva.
-
-b) Los propietarios o administradores de estacionamientos deberán capacitar a su personal para ofrecer una atención adecuada al público y conducir apropiadamente los vehículos en guarda.
-
-Para prestar su servicio los acomodadores deberán contar con licencia de conducir.
-
-II. Son obligaciones de los propietarios o administradores:
-
-a) Mantener libre de obstáculos los carriles de entrada y salida; en los estacionamientos de autoservicio también los de circulación.
-
-b) Conservar las instalaciones sanitarias y el establecimiento en condiciones de seguridad e higiene, tanto para el personal como para los vehículos.
-
-c) Proporcionar la vigilancia necesaria para la integridad de los vehículos y la seguridad del usuario.
-
-d) Mantener en la caseta de cobro a la vista del público la tarifa y el horario autorizado.
-
-e) Contar con una póliza de seguro, para el robo, daño o siniestro que sufran los vehículos dentro del estacionamiento o pensión.
-
-f) Expedir a los usuarios boletos debidamente marcados con reloj checador al recibir los vehículos. En el caso de que los propietarios de los vehículos extravíen el boleto, estos deberán de comprobar plenamente la propiedad a satisfacción del encargado del estacionamiento.
-
-El boleto que entregue el estacionamiento al usuario deberá de contener los siguientes datos:
-
-1. Nombre o razón social y domicilio del estacionamiento.
-
-2. Los números telefónicos para reportar quejas, tanto del propio estacionamiento como para los que ese efecto establezca la Dirección de Mercados, Estacionamientos y Áreas Comerciales.
-
-3. Número de folio del boleto.
-
-4. Forma en la que se responderá por los daños que hayan sufrido los vehículos durante el tiempo de guarda.
-
-5. Espacio para asentar la hora de entrada y de salida.
-
-6. Espacio para anotar el número de placas.
-
-g) Expedir cuando el usuario lo solicite comprobante de pago por el servicio, mismo que deberá especificar la tarifa autorizada.
-
-h) Colocar cuando se encuentren ocupados todos los lugares de estacionamiento un anuncio que así lo indique a la entrada del establecimiento.
-
-i) Cubrir a los usuarios los daños que sufran en sus vehículos y equipos automotrices durante el tiempo de su guarda de conformidad con lo siguiente:
-
-1. En los estacionamientos de autoservicio sólo por robo total.
-
-2. En los de acomodadores robo total o parcial así como daños y destrucción causados por el personal del estacionamiento.
-
-III. Queda prohibido a los propietarios, administradores, encargados y acomodadores de estacionamientos y pensiones:
-
-a) Permitir que personas ajenas a los acomodadores manejen los vehículos de los usuarios.
-
-b) Permitir una entrada mayor de vehículos al número o rango de cajones autorizado.
-
-c) Permitir que los empleados se encuentren en estado de ebriedad o bajo el influjo de sustancias tóxicas.
-
-d) Sacar del estacionamiento los vehículos confiados a su custodia sin autorización del propietario o poseedor.
-
-Los vehículos dados en guarda se presumirían abandonados cuando su propietario no los reclame dentro de los treinta días naturales siguientes a su ingreso siempre que el servicio no se haya contratado por un tiempo mayor. Vencido el plazo señalado el titular de la licencia del estacionamiento deberá de reportar el automóvil, especificando sus características a la autoridad competente.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTICULO 1404.
 
-Corresponde al H. Ayuntamiento fijar las tarifas de pago y horario de servicio de los estacionamientos.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 # LIBRO OCTAVO. DE LOS ESPECTÁCULOS TAURINOS Y DEPORTIVOS
 
@@ -18520,3 +18840,13 @@ El presente decreto entrará en vigor el día 16 de noviembre del año 2008.
 P.O. 5 DE ENERO DE 2009.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 12 DE ENERO DE 2009.
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Todos los permisos para prestar el servicio de estacionamiento otorgados y que se otorguen, deberán ajustarse a las disposiciones del presente Reglamento, a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+TERCERO.- Todos los permisionarios o concesionarios que soliciten por primera vez o renueven su permiso para el año de 2009, deberán cumplir con todas las disposiciones del presente Reglamento a más tardar el día 31 de marzo del año 2009.
+
+CUARTO.- Se derogan los articulas 807, 808, 809, 811, 812, 813, 819, 820, 821, 822, 824, 825, 1401, 1402., 1403, 1404 del Código Municipal de Aguascalientes.
