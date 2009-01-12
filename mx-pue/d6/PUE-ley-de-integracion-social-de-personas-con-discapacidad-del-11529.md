@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-integracion-social-de-personas-con-discapacidad-del-1152
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-04"
-last_updated: "1996-11-04"
+last_updated: "2009-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DE INTEGRACION SOCIAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 12 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el lunes 4 de noviembre de 1996.
 
@@ -518,3 +520,19 @@ Se derogan las disposiciones legales o reglamentarias, en todo lo que se opongan
 El GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los treinta y un días del mes de octubre de mil novecientos noventa y seis.- Diputada Presidenta.- BLANCA ALCALA RUIZ.- Rúbrica.- Diputado Secretario.- ALEJANDRO BELISARIO LOPEZ BRAVO.- Diputado Secretario.- DELFINO JAVIER CRUZ GUTIERREZ.- Rúbrica.
 
 Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio de Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los treinta y un días del mes de octubre de mil novecientos noventa y seis.- El Gobernador Constitucional del Estado.- LICENCIADO MANUEL BARTLETT DIAZ.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO P. MARIN TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE ENERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Integración Social de Personas con Discapacidad del Estado de Puebla, publicada en el Periódico Oficial del Estado con fecha cuatro de noviembre de mil novecientos noventa y seis.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan a la presente Ley.
