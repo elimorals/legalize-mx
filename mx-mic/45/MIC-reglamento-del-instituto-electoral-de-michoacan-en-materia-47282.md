@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-del-instituto-electoral-de-michoacan-en-materia-4728
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-19"
-last_updated: "2005-12-19"
+last_updated: "2009-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO DEL INSTITUTO ELECTORAL DE MICHOACAN EN MATERIA DE ACCESO A LA INFORMACION PUBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL DE MICHOACAN, PUBLICADO EN EL P.O. DE 12 DE ENERO DEL 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el lunes 19 de diciembre de 2005.
 
@@ -524,3 +526,27 @@ Que el presente documento en 16 fojas útiles por un solo lado, es copia fiel de
 LIC. RAMÓN HERNÁNDEZ REYES
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE ENERO DEL 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento del Instituto Electoral de Michoacán en Materia de Acceso a la Información Pública de fecha 08 ocho de Diciembre del año 2005, dos mil cinco.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos en trámite por la Unidad de Acceso a la Información y Comunicación Institucional del Instituto Electoral de Michoacán, serán sustanciados y resueltos por la Unidad de Transparencia, Acceso a la Información y Comunicación Social del Instituto Electoral de Michoacán.
+
+La Unidad, con el apoyo de las áreas del IEM contara con sesenta días hábiles a partir de la aprobación del presente Reglamento para elaborar el índice que se menciona en el Capítulo Undécimo.
+
+El Área Técnica establecida en el artículo 9 corresponde a la Unidad de Sistemas Informáticos del propio IEM.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, y en la Página Web del IEM (www.iem.org.mx).
