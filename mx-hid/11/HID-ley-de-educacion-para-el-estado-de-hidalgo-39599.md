@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-para-el-estado-de-hidalgo-39599"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-10"
-last_updated: "2004-05-10"
+last_updated: "2009-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACION PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de mayo de 2004.
 
@@ -49,7 +49,9 @@ Las disposiciones de esta Ley son de orden público, interés social y de observ
 
 Todo individuo tiene derecho a recibir educación y por lo tanto, todos los habitantes de la Entidad tienen las mismas oportunidades de acceso al Sistema Educativo Estatal.
 
-La educación es un medio fundamental para adquirir, transmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad y es factor determinante para la adquisición de conocimientos y para formar personas de manera que tengan sentido de solidaridad social.
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2009)</small>
+
+La educación es un medio fundamental para adquirir, transmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad y es factor determinante para le adquisición de conocimientos y para formar personas sanas física y mentalmente de manera que tengan sentido de solidaridad social.
 
 En el Proceso Educativo, deberá asegurarse la participación activa del educando, estimulando su iniciativa y su sentido de responsabilidad social, para alcanzar los fines a que se refiere el Artículo 8 de esta Ley.
 
@@ -151,7 +153,9 @@ VII.- Promover en todos los tipos, niveles y modalidades de la educación, actit
 
 VIII.- Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, nacional y en especial, la del Patrimonio Cultural del Estado de Hidalgo;
 
-IX.- Estimular el desarrollo de la cultura física y de la práctica sistemática del deporte;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2009)</small>
+
+IX.- Implementar hábitos y prácticas de alimentación sana y balanceada y estimular el desarrollo de la cultura física y de la práctica sistemática del deporte;
 
 X.- Desarrollar aptitudes solidarias en los individuos para crear conciencia sobre la preservación de la salud, la planeación familiar, la maternidad y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a las adicciones;
 
@@ -305,9 +309,15 @@ XIX.- Proporcionar, en concurrencia con la Federación y los Municipios, recurso
 
 XX.- Vigilar la correcta aplicación de los recursos concurrentes que aportan las Autoridades Federal y Estatal destinados a Carrera Magisterial;
 
-XXI.- Canalizar a través de los educadores a la Instancia correspondiente los casos que detecte de educandos con problemas de salud física o mental y
+XXI.- Canalizar a través de los educadores a la Instancia correspondiente los casos que detecte de educandos con problemas de salud física o mental y (sic)
 
-XXII.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables en la materia.
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2009)</small>
+
+XXII.- Vigilar que los alimentos y bebidas comercializados al interior de las escuelas de nivel básico contengan aportes nutrimentales y que no constituyan un factor de riesgo que generen, entre otras anomalías, sobrepeso u obesidad; y
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2009)</small>
+
+XXIII.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables en la materia.
 
 ###### ARTICULO 23.
 
@@ -575,7 +585,9 @@ IV.- Conocimientos elementales y el desarrollo de habilidades para valorar las d
 
 V.- Elementos básicos y cualidades éticas, para la participación libre y responsable en la vida familiar, comunitaria y social;
 
-VI.- Conocimientos básicos, valores, hábitos y actitudes para la conservación de la salud individual y colectiva, así como el cuidado del entorno ecológico y
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2009)</small>
+
+VI.- Conocimientos básicos, valores, actitudes y hábitos alimenticios para la conservación de la salud individual y colectiva, así como el cuidado del entorno ecológico y
 
 VII.- Capacidad para relacionarse, comunicarse y colaborar en el trabajo colectivo, para el logro de un objetivo común.
 
@@ -590,6 +602,12 @@ La Autoridad Educativa Local, considerará que en los contenidos regionales se e
 La Autoridad Educativa Local, propondrá a la Autoridad Educativa Federal, las revisiones y actualizaciones sistemáticas de los Planes y Programas de Estudios Vigentes.
 
 Los Planes y Programas de Estudio, así como sus modificaciones, deberán publicarse en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2009)</small>
+
+ARTICULO 54 BIS.- En atención a la salud de los educandos, no podrán comercializarse al interior de los planteles de educación básica, alimentos o bebidas con bajo o escaso valor nutrimental a los educandos, o que vayan en detrimento de los buenos hábitos alimenticios.
+
+Las Secretarías de Educación Pública y de Salud, serán las competentes para emitir la evaluación del estándar de los alimentos y bebidas que contengan el valor nutricional adecuado así como los de bajo valor nutricional que no podrán expenderse al interior de los planteles educativos, tomando en cuenta siempre como premisa fundamental, la salud física y mental del educando.
 
 #### SECCION PRIMERA. DE LA EDUCACION ESPECIAL
 
@@ -1428,3 +1446,9 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE ENERO DE 2009.
+
+ÚNICO.- Con excepción de lo referente a la comercialización de alimentos en los planteles educativos que se aplicará a partir del siguiente ciclo escolar, el presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
