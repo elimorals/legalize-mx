@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-462
 country: "mx"
 rank: "otro"
 publication_date: "1995-03-13"
-last_updated: "2008-01-31"
+last_updated: "2009-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46227&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,117 +19,101 @@ issue_date: "1995-03-03"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (MULTILATERAL, 1994)
 
-ACUERDO POR EL QUE SE DA A CONOCER LA DECISION No. 49 DE LA COMISION ADMINISTRADORA DEL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LA REPUBLICA DE COLOMBIA Y LA REPUBLICA DE VENEZUELA, POR LA QUE SE OTORGA UNA PRORROGA A LA DISPENSA TEMPORAL PARA LA UTILIZACION DE MATERIALES DE FUERA DE LA ZONA DE LIBRE COMERCIO PARA QUE DETERMINADOS BIENES TEXTILES Y DEL VESTIDO RECIBAN EL TRATO ARANCELARIO PREFERENCIAL DEL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LA REPUBLICA DE COLOMBIA Y LA REPUBLICA DE VENEZUELA
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO MINIMO PARA INTERNAR DURANTE LOS AÑOS 2009 Y 2010, A LA REPUBLICA DE COLOMBIA, VEHICULOS AUTOMOTORES NUEVOS, ORIGINARIOS Y PROVENIENTES DE LOS ESTADOS UNIDOS MEXICANOS, CONFORME A LA DECISION 42 DE LA COMISION ADMINISTRADORA DEL TRATADO, SUSCRITA ENTRE LA REPUBLICA DE COLOMBIA, LA REPUBLICA BOLIVARIANA DE VENEZUELA Y LOS ESTADOS UNIDOS MEXICANOS
 
-Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 31 de enero de 2008.
+Acuerdo publicado en la Primera Sección del Diario de la Federación, el martes 13 de enero de 2009.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 5o. fracción X de la Ley de Comercio Exterior; 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+GERARDO RUIZ MATEOS, Secretario de Economía, con fundamento en los artículos 4-03.2, inciso a), párrafo iii del Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela y la Decisión 42 de la Comisión Administradora del Tratado; 34 fracción I de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 23 y 24, segundo párrafo de la Ley de Comercio Exterior; 9o. fracción V, 26, 31, 32, 33, 34 y 35 del Reglamento de la Ley de Comercio Exterior; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el 1 de enero de 1995 entró en vigor el Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela (el Tratado), en el cual las Partes establecieron, de conformidad con el artículo 6-20 del propio Tratado, un Comité de Integración Regional de Insumos (CIRI);
+Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República Bolivariana de Venezuela (el Tratado) fue aprobado por el Senado de la República el 13 de junio de 1994 y publicado en el Diario Oficial de la Federación el 9 de enero de 1995;
 
-Que el 23 de mayo de 2006 el gobierno de Venezuela notificó al gobierno de México su decisión de denunciar el Tratado, por lo que de conformidad con el artículo 23-08 del mismo, dicha denuncia surtió efectos a partir del 19 de noviembre de 2006;
+Que el Comité Automotor del Tratado negoció la incorporación del sector automotor en el marco del Tratado, lo cual fue ratificado por las partes a través de la firma de la Decisión 42 de la Comisión Administradora el 21 de febrero de 2005;
 
-Que el 17 de noviembre de 2006 se publicó en el Diario Oficial de la Federación el Decreto por el que se determina que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela, firmado en la ciudad de Cartagena de Indias, Colombia, el trece de junio de mil novecientos noventa y cuatro, queda sin efectos entre los Estados Unidos Mexicanos y la República Bolivariana de Venezuela, a partir del diecinueve de noviembre de dos mil seis;
+Que la Decisión mencionada fue aprobada por la Cámara de Senadores del Honorable Congreso de la Unión, el 6 de octubre de 2005, según Decreto publicado en el Diario Oficial de la Federación el 20 de diciembre del propio año;
 
-Que el artículo 6-24 del Tratado faculta a la Comisión Administradora del Tratado (la Comisión) para que emita una resolución y establezca una dispensa, en los montos y términos convenidos por el CIRI en su dictamen, para la utilización de los materiales a que se refiere el párrafo 3 del artículo 6-21 del Tratado;
+Que el Decreto Promulgatorio de la Decisión 42 de la Comisión Administradora del Tratado de Libre Comercio celebrado entre la República de Colombia, los Estados Unidos Mexicanos y la República Bolivariana de Venezuela, firmada el 21 de febrero de dos mil cinco, fue publicado en el Diario Oficial de la Federación el 13 de enero de 2006;
 
-Que el punto 4 del artículo 6-24 del Tratado señala la facultad de la Comisión para que emita una resolución a fin de prorrogar una dispensa a solicitud de una Parte interesada, dentro de los seis meses anteriores a su vencimiento y previa revisión por el CIRI, por un término igual si persisten las causas que le dieron origen, y
+Que al amparo de la Decisión 42 del Tratado, se estableció un incremento en el cupo de 1,000 unidades por año hasta el 2010;
 
-Que los gobiernos de los Estados Unidos Mexicanos y de la República de Colombia, de conformidad con lo establecido en los artículos 6-20, 6-21, 6-22, 6-23 y 6-24 del Tratado, tomando en consideración el dictamen emitido el 10 de diciembre de 2007 por el CIRI, que incorpora una nueva dispensa para tres materiales textiles, incrementa el monto inicial de un producto otorgado en la Decisión No. 47 de 2007 y otorga una prórroga a las dispensas vigentes en 2007, para que continúen utilizando ciertos materiales producidos u obtenidos fuera de la zona de libre comercio en la manufactura de ciertos bienes textiles y del vestido y que estos bienes puedan recibir el trato arancelario preferencial, adoptaron, el 19 de diciembre de 2007, la referida dispensa, a través de la Decisión No. 49, he tenido a bien expedir el siguiente:
+Que en virtud del incremento anual de 1,000 unidades en el cupo, corresponde para 2009, una cantidad de 7,000 unidades y para el año 2010 una de 8,000 unidades para internar a la República de Colombia, vehículos automotores originarios de México, con el arancel preferencial establecido en la Decisión 42 del Tratado;
 
-ACUERDO POR EL QUE SE DA A CONOCER LA DECISION No. 49 DE LA COMISION ADMINISTRADORA DEL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LA REPUBLICA DE COLOMBIA Y LA REPUBLICA DE VENEZUELA, POR LA QUE SE OTORGA UNA PRORROGA A LA DISPENSA TEMPORAL PARA LA UTILIZACION DE MATERIALES DE FUERA DE LA ZONA DE LIBRE COMERCIO PARA QUE DETERMINADOS BIENES TEXTILES Y DEL VESTIDO RECIBAN EL TRATO ARANCELARIO PREFERENCIAL DEL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LA REPUBLICA DE COLOMBIA Y LA REPUBLICA DE VENEZUELA
+Que con el fin de dar mayor transparencia, certidumbre, equidad y eficiencia en el otorgamiento de cupos se establece un nuevo mecanismo de asignación del cupo para internar a la República de Colombia, vehículos automotores originarios de los Estados Unidos Mexicanos y una vigencia al 31 de diciembre de 2010;
 
-###### ARTÍCULO 1.
+Que es una estrategia prioritaria del Gobierno Federal fortalecer los mecanismos regionales de diálogo político y de integración económica, así como establecer los mecanismos adecuados para la administración de los acuerdos comerciales internacionales suscritos por los Estados Unidos Mexicanos;
 
-Se actualizan en el ARTÍCULO 3 del Decreto por el que se establece la Tasa aplicable a partir del 19 de noviembre de 2006 del Impuesto General de Importación para las mercancías originarias de la República de Colombia, publicado en el Diario Oficial de la Federación el 17 de noviembre de 2006, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+Que la asignación de cupos de exportación busca promover la competitividad de los sectores involucrados, así como establecer un marco regulatorio más equitativo y transparente, y
+
+Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO MINIMO PARA INTERNAR DURANTE LOS AÑOS 2009 Y 2010, A LA REPUBLICA DE COLOMBIA, VEHICULOS AUTOMOTORES NUEVOS, ORIGINARIOS Y PROVENIENTES DE LOS ESTADOS UNIDOS MEXICANOS, CONFORME A LA DECISION 42 DE LA COMISION ADMINISTRADORA DEL TRATADO, SUSCRITA ENTRE LA REPUBLICA DE COLOMBIA, LA REPUBLICA BOLIVARIANA DE VENEZUELA Y LOS ESTADOS UNIDOS MEXICANOS
+
+###### ARTICULO 1.
+
+El cupo mínimo para internar durante los años 2009 y 2010, a la República de Colombia, vehículos automotores nuevos, originarios y provenientes de los Estados Unidos Mexicanos, con el arancel preferencial establecido en el artículo 4-02, párrafo 1, inciso a) de la Decisión 42 de la Comisión Administradora del Tratado, suscrita entre la República de Colombia, la República Bolivariana de Venezuela y los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 13 de enero de 2006; es el que se especifica a continuación:
 
 (VEASE ARCHIVO ANEXO)
 
-###### ARTÍCULO 2.
+###### ARTICULO 2.
 
-Se actualizan en el ARTÍCULO 5 del Decreto que se señala en el Artículo 1 del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+De conformidad con lo dispuesto en los artículos 24 segundo párrafo de la Ley de Comercio Exterior y 31 de su Reglamento, y con objeto de promover las corrientes comerciales entre los Estados Unidos Mexicanos y la República de Colombia y cumplir con lo establecido en el artículo 4-06, párrafo 3, de la Decisión 42 de la Comisión Administradora del Tratado, al cupo a que se refiere el presente Acuerdo se aplicará el mecanismo de asignación directa.
+
+###### ARTICULO 3.
+
+Podrán solicitar asignación del cupo a que se refiere el presente Acuerdo, las personas morales establecidas en los Estados Unidos Mexicanos, que cuenten con Registro de Empresa Productora de Vehículos Automotores Ligeros Nuevos expedido por la Secretaría de Economía. La asignación del cupo será otorgada por la Dirección General de Comercio Exterior de la Secretaría de Economía.
+
+###### ARTICULO 4.
+
+El cupo para cada año se asignará en dos etapas, de conformidad con lo siguiente:
+
+I. Primera etapa. La asignación por empresa se calculará como la cantidad menor entre las siguientes dos cantidades 1) el monto solicitado multiplicado por 0.5, o 2) la suma de su participación en el volumen de exportación total de las empresas solicitantes de vehículos automotores ligeros a la República de Colombia ponderada por 0.75 más su participación en el volumen de producción nacional de vehículos automotores ligeros de las empresas solicitantes ponderada por 0.25, multiplicada por el 50% del monto del cupo total del año que corresponda, de conformidad con la siguiente fórmula:
 
 (VEASE ARCHIVO ANEXO)
 
-###### ARTÍCULO 3.
+La información de exportación total a la República de Colombia de vehículos automotores ligeros por empresa, será la que proporcione la Administración General de Aduanas a la Dirección General de Comercio Exterior de la Secretaría de Economía, y la información de producción de vehículos automotores ligeros por empresa, será la pública disponible que integrará la Dirección General de Industrias Pesadas y de Alta Tecnología y que enviará a la Dirección General de Comercio Exterior.
 
-Se deroga el ARTÍCULO 7 del Decreto que se señala en el Artículo 1 del presente ordenamiento.
+El periodo t para la información anterior será el siguiente: a) para el cupo de 2009, de diciembre de 2007 a noviembre de 2008; y b) para el cupo de 2010, de diciembre de 2008 a noviembre de 2009.
 
-###### ARTÍCULO 4.
+Los certificados de cupo de la primera etapa tendrán vigencia al 31 de diciembre del año en que sean expedidos y será improrrogable. La recepción de solicitudes para la primera etapa de 2009 será durante los 5 días hábiles siguientes a la entrada en vigor de este Acuerdo; en el caso de la asignación de 2010, el periodo de recepción de solicitudes será durante los primeros 5 días hábiles de dicho año.
 
-Se actualizan en el ARTÍCULO 11 del Decreto que se señala en el Artículo 1 del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+II. Segunda etapa: A la asignación de la segunda etapa sólo podrán acceder aquellas empresas que al 31 de mayo de cada año, hayan ejercido por lo menos el 50% de su asignación de la primera etapa.
 
-(VEASE ARCHVO ANEXO)
+La asignación por empresa se calculará como la suma de su participación en el volumen de exportación total de las empresas solicitantes de vehículos automotores ligeros a la República de Colombia ponderada por 0.75 más su participación en el volumen de producción nacional de vehículos automotores ligeros ponderada por 0.25, multiplicada por el 50% del monto del cupo total del año que corresponda más los saldos no asignados del cupo de la primera etapa en caso de existir. Lo anterior de conformidad con la siguiente fórmula:
 
-###### Artículo 5.
+(VEASE ARCHIVO ANEXO)
 
-Los Acuerdos que dan a conocer diversos cupos al amparo de aranceles-cupo de conformidad con la TIGIE 2002, así como de los acuerdos y tratados de los que México es parte, señalados en el presente artículo, serán publicados de nueva cuenta por la SE:
+La información de exportación total a la República de Colombia de vehículos automotores ligeros por empresa, será la que proporcione la Administración General de Aduanas a la Dirección General de Comercio Exterior de la Secretaría de Economía, y la información de producción de vehículos automotores ligeros por empresa, será la pública disponible que integrará la Dirección General de Industrias Pesadas y de Alta Tecnología y que enviará a la Dirección General de Comercio Exterior.
 
-I. Acuerdo por el que se da a conocer el cupo para importar en 2007 con el arancel-cupo establecido, preparaciones a base de productos lácteos con un contenido de sólidos lácteos superior al 50% en peso, excepto las comprendidas en la fracción 1901.90.04 publicado en el DOF el 28 de febrero de 2007.
+El periodo t para la información anterior será el siguiente: a) para la segunda etapa de 2009, de diciembre de 2008 a mayo de 2009; y, b) para la segunda etapa de 2010, de diciembre de 2009 a mayo de 2010.
 
-II. Acuerdo por el que se da a conocer el cupo para importar diversas mercancías clasificadas en el capítulo 95 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación publicado en el DOF el 18 de agosto de 2005 y sus modificaciones del 31 de enero de 2006 y 30 de octubre del 2006.
+Los certificados de cupo de la segunda etapa tendrán vigencia al 31 de diciembre del año en que sean expedidos y será improrrogable. La recepción de solicitudes para la segunda etapa de 2009 será del 9 al 15 de junio de dicho año, mientras que para la segunda etapa de 2010 será del 10 al 16 de junio de ese mismo año.
 
-III. Acuerdo por el que se da a conocer el cupo para importar brandy a los Estados Unidos Mexicanos, en el periodo de julio de 2006 al 30 de junio de 2007 publicado en el DOF el 29 de septiembre de 2006.
+###### ARTICULO 5.
 
-IV. Acuerdo por el que se dan a conocer los cupos y el procedimiento para su asignación, para importar a los Estados Unidos Mexicanos procedentes de la República de Honduras e internar a la República de Honduras, bienes textiles y del vestido en el periodo 2006-2009, que cumplan con lo dispuesto en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras publicado en el DOF el 9 de marzo de 2006.
+Los interesados podrán presentar en la ventanilla de atención al público de la representación federal de la Secretaría de Economía que le corresponda, las solicitudes de asignación y expedición de manera simultánea. Para ello deberán utilizar los formatos SE-03-011-1 “Solicitud de Asignación de Cupo” y SE-03-013-5 “Solicitud de Certificados de Cupo (obtenido por asignación directa)”, sin requisitar el campo referente a “número de oficio de asignación de cupo”, acompañando escrito libre en papel membretado de la empresa en el que señale la razón social y domicilio del importador en la República de Colombia.
 
-V. Acuerdo por el que se dan a conocer los cupos de exportación e importación de bienes textiles y prendas de vestir no originarios, susceptibles de recibir trato de preferencia arancelaria, conforme al Tratado de Libre Comercio de América del Norte, publicado en el DOF el 29 de diciembre de 2004.
+La Dirección General de Comercio Exterior de la Secretaría emitirá, en su caso, el oficio de asignación y la representación federal de la Secretaría que corresponda expedirá el certificado de cupo, ambos dentro de los diez días hábiles, contados a partir del día hábil siguiente a la fecha de recepción de las solicitudes debidamente requisitadas.
 
-VI. Acuerdo por el que se dan a conocer los cupos para importar con la preferencia arancelaria establecida en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y el Estado de Israel, flores frescas y café kosher originarios del Estado de Israel, publicado en el DOF el 29 de diciembre de 2004.
+El certificado de cupo es nominativo e intransferible.
 
-VII. Acuerdo por el cual se dan a conocer los cupos para importar a los Estados Unidos Mexicanos, al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, carne y despojos de bovino, carne y preparaciones de pollo, miel natural, bananas o plátanos frescos, naranjas, pasta o puré de tomate, jugo de naranja, jugo de tomate sin adición de azúcar, ketchup, las demás salsas de tomate, d-glucitol (sorbitol), dextrina y demás almidones y féculas modificados, cueros y pieles curtidos en “crust”, calzado, cueros y pieles depilados y productos laminados planos de hierro o acero, originarios de Japón publicado en el DOF el 1 de abril de 2005 y su modificación del 5 de marzo del 2007.
+###### ARTICULO 6.
 
-VIII. Acuerdo por el que se dan a conocer los cupos para importar productos originarios y provenientes de la República Argentina, de la República de Cuba, de la República de Panamá y de la República del Perú, que sustituye al similar publicado el 29 de diciembre de 2005, publicado en el DOF el 16 de enero de 2006.
+Para la aplicación general de los criterios que se mencionan en el presente Acuerdo, la Dirección General de Comercio Exterior podrá solicitar la opinión de la Dirección General de Industrias Pesadas y de Alta Tecnología.
 
-IX. Acuerdo por el que se dan a conocer los cupos para importar productos originarios y provenientes de la República Argentina, de conformidad al Decimoquinto Protocolo Adicional del Acuerdo de Complementación Económica No. 6., publicado en el DOF el 14 de febrero de 2007 y su modificación del 25 de abril de 2007.
+###### ARTICULO 7.
 
-X. Acuerdo por el que se da a conocer el cupo para importar atún procesado, excepto lomos, originario de los países de la Comunidad Europea, en el periodo de julio de 2006 al 30 de junio de 2007 publicado en el DOF el 2 de agosto de 2006.
+Los formatos a que se hace referencia en este Acuerdo estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las representaciones federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria en las siguientes direcciones electrónicas:
 
-XI. Acuerdo por el que se dan a conocer los cupos para internar a la Comunidad Europea en el periodo de julio de 2006 al 30 de junio del 2007; huevo sin cascarón (secas, líquidas o congeladas) y yemas de huevo (secas, líquidas o congeladas) aptas para consumo humano y ovoalbúmina (apta para consumo humano), originarios de los Estados Unidos Mexicanos publicado en el DOF el 14 de julio de 2006.
+a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”:
 
-XII. Acuerdo por el que se da a conocer el cupo para internar a la Comunidad Europea en el periodo de julio de 2006 al 30 de junio de 2007, jugo de naranja concentrado congelado con grado de concentración mayor a 20o brix, originario de los Estados Unidos Mexicanos, publicado en el DOF el 27 de julio de 2006.
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
 
-XIII. Acuerdo por el que se dan a conocer los cupos para internar a la Comunidad Europea en el periodo de julio de 2006 al 30 de junio de 2007; miel natural; espárragos frescos o refrigerados; los demás melones; atún procesado, excepto lomos; chicle; jugo de naranja, excepto concentrado congelado y jugo de piña, sin fermentar y sin adición de alcohol con grado de concentración mayor a 20o brix, originarios de los Estados Unidos Mexicanos, publicado en el DOF el 28 de julio de 2006.
+b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”:
 
-XIV. Acuerdo por el que se da a conocer el cupo para importar leche en polvo, originaria de la República de Nicaragua, publicado en el DOF el 2 de agosto de 2006.
-
-###### Artículo 6.
-
-Los criterios y disposiciones aplicables a los instrumentos y programas de comercio exterior, son los señalados a continuación:
-
-I. La Dirección General de Comercio Exterior de la SE actualizará en el SICEX las fracciones arancelarias que correspondan a las mercancías autorizadas hasta el 29 de junio de 2007, en cada instrumento y programa de comercio exterior, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007.
-
-II. Los titulares de resoluciones de instrumentos y programas de comercio exterior, a partir del 1 de julio de 2007, podrán realizar operaciones de comercio exterior, respecto de las mercancías autorizadas en sus instrumentos y programas de comercio exterior, utilizando las fracciones arancelarias que les correspondan con base en la Tabla de Correlación TIGIE 2002-TIGIE 2007.
-
-Las resoluciones a que se refiere el párrafo anterior continuarán vigentes hasta la fecha que se indique en el documento correspondiente y, en su caso, por el saldo del monto autorizado, por lo que podrán continuar siendo utilizados para los efectos para los que fueron emitidos y ejercer dichas autorizaciones ante la aduana, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007 por lo que los titulares de dichas autorizaciones no deberán realizar ningún trámite ante la SE.
-
-III. La Dirección General de Comercio Exterior de la SE realizará el intercambio de información necesario con la Administración General de Aduanas del SAT a fin de que esté en posibilidad de actualizar en el SAAI las fracciones arancelarias de las resoluciones de los instrumentos y programas de comercio exterior, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007.
-
-###### Artículo 7.
-
-Para los efectos de los Acuerdos que se listan en este artículo, la Tabla de Correlación entre las fracciones arancelarias vigentes hasta el 30 de junio de 2007 y las vigentes a partir del 1 de julio de 2007, es la que se establece como anexa al presente Acuerdo.
-
-I. Acuerdo que establece la clasificación y codificación de mercancías y productos cuya importación, exportación, internación o salida está sujeta a regulación sanitaria por parte de la Secretaría de Salud, publicado en el DOF el 29 de marzo de 2002 y sus modificaciones del 27 de marzo de 2003 y 27 de enero, 1 de abril y 26 de octubre de 2005.
-
-II. Acuerdo que establece la clasificación y codificación de los productos químicos esenciales cuya importación o exportación está sujeta a la presentación de un aviso previo ante la Secretaría de Salud, publicado en el DOF el 29 de marzo de 2002.
-
-III. Acuerdo que establece la clasificación y codificación de mercancías cuya importación está sujeta a regulación por parte de las dependencias que integran la Comisión Intersecretarial para el Control del Proceso y Uso de Plaguicidas, Fertilizantes y Sustancias Tóxicas, publicado en el DOF el 29 de marzo de 2002 y su modificación del 1 de abril de 2005.
-
-IV. Acuerdo que establece la clasificación y codificación de mercancías cuya importación está sujeta a regulación por parte de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, publicado en el DOF el 26 de marzo de 2002.
-
-V. Acuerdo por el que se establece la clasificación y codificación de mercancías cuya exportación está sujeta a la presentación de un certificado de origen expedido por la Asociación Mexicana de la Cadena Productiva del Café, A.C., o los consejos estatales del café, y el procedimiento para la emisión del Certificado de Origen, publicado en el DOF el 7 de febrero de 2007.
-
-VI. Acuerdo que establece la clasificación y codificación de las mercancías cuya importación o exportación están sujetas a regulación por parte de la Secretaría de la Defensa Nacional, publicado en el DOF el 25 de noviembre de 2002 y sus modificaciones del 13 de agosto de 2003 y 20 de octubre de 2006.
-
-VII. Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta a regulación por parte de la Secretaría de Medio Ambiente y Recursos Naturales, publicado en el DOF el 29 de marzo de 2002 y sus modificaciones del 30 de diciembre de 2003, 16 de agosto de 2004 y 26 de enero de 2005.
-
-VIII. Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta a autorización previa por parte de la Secretaría de Energía, publicado en el DOF el 28 de marzo de 2002.
-
-IX. Acuerdo que establece la clasificación y codificación de los bienes considerados monumentos históricos o artísticos, cuya exportación está sujeta a autorización previa de exportación por parte del Instituto Nacional de Antropología e Historia, o del Instituto Nacional de Bellas Artes y Literatura.
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
 
 ###### ARTÍCULO 8.
 
@@ -217,6 +201,6 @@ VIII.- "Trato arancelario preferencial" y "tasa arancelaria preferencial", el ar
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo estará en vigor del 1 de febrero de 2008 al 31 de enero de 2009.
+UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2010.
 
-México, D.F., a 22 de enero de 2008.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+México, D.F., a 6 de enero de 2009.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
