@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-las-y-los-jovenes-del-distrito-federal-36036"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-25"
-last_updated: "2008-11-10"
+last_updated: "2009-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36036&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-05-30"
 
 LEY DE LAS Y LOS JOVENES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ENERO DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 25 de julio del 2000.
 
@@ -540,11 +540,15 @@ VIII. Representar al Gobierno del Distrito Federal en materia de juventud, ante 
 
 > <small>(ADICIONADA, G.O. 3 DE FEBRERO DE 2006)</small>
 
-IX. Concertar acuerdos y convenios con los Gobiernos Estatales, las Demarcaciones Territoriales del Distrito Federal y los sectores social y privado, para promover acciones y programas tendientes al desarrollo integral de la juventud en el Distrito Federal, y
+IX. Concertar acuerdos y convenios con los Gobiernos Estatales, las Demarcaciones Territoriales del Distrito Federal y los sectores social y privado, para promover acciones y programas tendientes al desarrollo integral de la juventud en el Distrito Federal, y (sic)
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 3 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2009)</small>
 
-X. Los demás que determine la presente Ley.
+X. Entregar el Premio de la Juventud bajo las normas establecidas en esta ley;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2009)</small>
+
+XI. Las demás que determine la presente ley.
 
 ### CAPITULO III. DEL DIRECTOR DEL INSTITUTO
 
@@ -632,7 +636,9 @@ VI. Aprobar la creación de centros, sistemas y dependencias necesarias que tien
 
 VII. Aprobar, crear, suprimir o modificar políticas y programas de fomento para el desarrollo de la juventud;
 
-VIII. (DEROGADA, G.O. 17 DE NOVIEMBRE DE 2004)
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2009)</small>
+
+VIII. Emitir la convocatoria del Premio de la Juventud del Distrito Federal bajo las normas establecidas en esta ley;
 
 IX. Conferir títulos honoríficos;
 
@@ -642,9 +648,9 @@ XI. Vigilar el cumplimiento de los fines del Instituto, y
 
 XII. Las demás que establezca la presente Ley.
 
-### CAPITULO UNICO
+### CAPITULO UNICO. DEL PREMIO DE LA JUVENTUD DEL DISTRITO FEDERAL
 
-DE LAS SANCIONES APLICABLES A LOS SERVIDORES PUBLICOS RESPONSABLES DE EJECUTAR LA PRESENTE LEY.
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2009)</small>
 
 ###### Artículo 57.
 
@@ -729,6 +735,12 @@ I. Asesorar, proponer, opinar y apoyar al instituto en la elaboración y ejecuci
 II. Vigilar el cumplimiento de las disposiciones establecidas en la presente Ley en términos de una efectiva ejecución del Plan Estratégico de Desarrollo Integral de la Juventud del Distrito Federal.
 
 > <small>(REFORMADO. G.O. 27 DE ENERO DE 2004)</small>
+
+### CAPITULO UNICO
+
+DE LAS SANCIONES APLICABLES A LOS SERVIDORES PUBLICOS RESPONSABLES DE APLICAR LA PRESENTE LEY.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 76], G.O. 13 DE ENERO DE 2009)
 
 ###### Artículo 62.
 
@@ -826,15 +838,97 @@ El Instituto en coordinación con los Gobiernos de las Demarcaciones Territorial
 
 Las autoridades competentes del Gobierno gestionarán ante las autoridades fiscales correspondientes la deducibilidad de los donativos de las personas físicas o morales, de los sectores social y privado destinados al apoyo de iniciativas con real participación juvenil.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 13 DE ENERO DE 2009)</small>
+
 ###### Artículo 76.
 
-El incumplimiento de las disposiciones contenidas en esta Ley por parte de los servidores públicos responsables de su aplicación, se sancionará conforme a la Ley Federal de Responsabilidad de los Servidores Públicos.
+El Premio de la Juventud del Distrito Federal será convocado una vez al año y será entregado a jóvenes cuya edad quede comprendida entre los quince y veintinueve años, y su conducta o dedicación al trabajo o al estudio cause entusiasmo y admiración entre sus contemporáneos y pueda considerarse ejemplo estimulante para crear y desarrollar motivos de superación personal o de progreso de la comunidad. El premio de la Juventud del Distrito Federal se otorgará en las siguientes distinciones:
+
+I. Actividades académicas, científicas o profesionales.
+
+II. Actividades culturales, artísticas o deportivas.
+
+III. Mérito cívico, ambiental y de labor social.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2009)</small>
 
 ###### Artículo 77.
 
-La violación a los Derechos Humanos de las y los jóvenes se sancionarán conforme a lo establecido en el Código Penal del Distrito Federal.
+El órgano encargado de emitir la convocatoria y las bases respectivas será la Junta de Gobierno del Instituto de la Juventud del Distrito Federal, emitiendo la misma a más tardar el día quince de septiembre y cerrando la misma obligatoriamente el quince de noviembre del mismo año.
+
+La convocatoria deberá ser publicada por lo menos en dos diarios de circulación nacional y en el Diario Oficial de la Federación y la Gaceta Oficial del Distrito Federal. El Instituto de la Juventud del Distrito Federal podrá establecer convenios con las instituciones educativas para que contribuyan con la difusión de la convocatoria entre los jóvenes estudiantes.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2009)</small>
+
+###### Artículo 78.
+
+El órgano encargado de evaluar las propuestas para este premio, será un Jurado Calificador, el cual estará compuesto por:
+
+I. El Director del Instituto de la Juventud del Distrito Federal o un representante de éste.
+
+II. El Presidente de la Comisión de Juventud de la Asamblea Legislativa del Distrito Federal.
+
+III. El Rector de la Universidad Nacional Autónoma de México o un representante de éste.
+
+IV. El Rector de la Universidad Autónoma de la Ciudad de México o un representante de éste.
+
+V. El Director del Instituto Mexicano de la Juventud o un representante de éste.
+
+VI. Tres diputados de la Asamblea Legislativa electos en el Pleno.
+
+El Presidente del Jurado Calificador será el Presidente de la Comisión de Juventud de la Asamblea Legislativa del Distrito Federal, quien será el responsable de convocar a las sesiones.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2009)</small>
+
+###### Artículo 79.
+
+El Jurado sesionará válidamente, tomará, dictaminará y votará con la mayoría de sus integrantes; sus decisiones se tomarán por mayoría de votos, y, en caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2009)</small>
+
+###### Artículo 80.
+
+El Jurado tendrá las siguientes atribuciones:
+
+I. Sujetarse a la periodicidad de sus sesiones, que dictaminarán ellos mismos por medio de acuerdo en acta.
+
+II. Compilar los dictámenes que formulen.
+
+III. Autentificar con la firma de sus integrantes los dictámenes que emita y turnarlos a la Junta de Gobierno del Instituto de la Juventud del Distrito Federal.
+
+IV. Declarar el premio desierto cuando así lo consideren pertinente.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2009)</small>
 
 ## TITULO QUINTO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 13 DE ENERO DE 2009)</small>
+
+###### Artículo 81.
+
+Los miembros del Jurado están obligados a guardar reserva sobre los asuntos de que conozcan en el ejercicio de sus funciones.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2009)</small>
+
+###### Artículo 82.
+
+El Premio de la Juventud del Distrito Federal será entregado en sesión solemne que deberá celebrarse, con este único objeto, dentro del mes de enero de cada año.
+
+(REUBICADO [N. DE E. ANTES TITULO QUINTO], G.O. 13 DE ENERO DE 2009)
+
+###### Artículo 83.
+
+El incumplimiento de las disposiciones contenidas en esta Ley por parte de los servidores públicos responsables de su aplicación, se sancionará conforme a la Ley Federal de Responsabilidad de los Servidores Públicos.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 77], G.O. 13 DE ENERO DE 2009)
+
+###### Artículo 84.
+
+La violación a los Derechos Humanos de las y los jóvenes se sancionarán conforme a lo establecido en el Código Penal del Distrito Federal.
+
+## TITULO SEXTO
+
+> <small>(REFORMADO Y REUBICADO, G.O. 13 DE ENERO DE 2009)</small>
 
 ## TRANSITORIOS
 
@@ -941,3 +1035,11 @@ Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de 
 ###### ARTÍCULO SEGUNDO.
 
 El Presente Decreto entrará en vigor 30 días después de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 13 DE ENERO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Al día siguiente de su publicación, el Jefe de Gobierno, efectuará las acciones necesarias para realizar los ajustes administrativos y presupuestales para la entrada en vigor del decreto.
+
+TERCERO. Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
