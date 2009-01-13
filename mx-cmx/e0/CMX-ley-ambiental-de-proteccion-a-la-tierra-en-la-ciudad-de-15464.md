@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2008-10-31"
+last_updated: "2009-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ENERO DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -1086,9 +1086,15 @@ Una vez que la autoridad competente reciba una manifestación de impacto ambient
 
 Los promoventes de la obra o actividad podrán requerir que se mantenga en reserva la información que haya sido integrada al expediente, y que, de hacerse pública, pudiera afectar derechos de propiedad industrial, y la confidencialidad de la información comercial que aporte el interesado.
 
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2009)</small>
+
 ###### ARTÍCULO 50.
 
-La autoridad competente, podrá llevar a cabo una consulta pública, conforme a las bases de la Ley de Participación Ciudadana y al Reglamento de la presente Ley.
+La autoridad competente, deberá llevar a cabo una consulta pública, conforme a las bases de la Ley de Participación Ciudadana y al Reglamento de la presente Ley.
+
+Dicha consulta tendrá que realizarse a costa del interesado que haya presentado la manifestación a la que se refiere el artículo 47 de esta Ley, con independencia del pago de la publicación a la que se refiere el siguiente artículo.
+
+En estos casos, la Secretaría dictará las medidas y los mecanismos de operación que considere pertinentes para el desarrollo de la consulta pública.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -3657,3 +3663,9 @@ TERCERO.- De conformidad con el artículo 39 de la Ley Orgánica de la Secretar�
 ...
 
 QUINTO.- La Secretaría de Seguridad Pública del Gobierno del Distrito Federal, establecerá la estructura administrativa, así como los recursos humanos y materiales necesarios para la creación del cuerpo de policía ambiental con los recursos adicionales que le sean autorizados.
+
+G.O. 13 DE ENERO DE 2009.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
