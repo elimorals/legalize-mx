@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2009-01-06"
+last_updated: "2009-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2009.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -491,7 +491,9 @@ En el caso de que ningún grupo se encuentre en este supuesto la responsabilidad
 
 La Mesa Directiva del Congreso garantizará que en los trabajos legislativos prevalezca lo dispuesto en la Constitución, la Ley y el Reglamento Interior; conducirán la (sic) Sesiones del Pleno y asegurará el desarrollo de los debates, discusiones y votaciones, así mismo, velará por el adecuado funcionamiento de las Comisiones.
 
-El Presidente de la Mesa Directiva será el Presidente del Congreso y conducirá las relaciones institucionales con los otros poderes, responderá el informe de Gobierno y tendrá la representación protocolaria en el ámbito de la diplomacia parlamentaria.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2009)</small>
+
+El Presidente de la Mesa Directiva será el Presidente del Congreso y conducirá las relaciones institucionales con los otros Poderes, responderá los informes de gobierno y tendrá la representación protocolaria en el ámbito de la diplomacia parlamentaria.
 
 El Diputado Presidente del Congreso velará por el respeto al Fuero Constitucional de los miembros de dicho Congreso y por la inviolabilidad de su recinto.
 
@@ -661,11 +663,21 @@ El Congreso del Estado deberá quedar instalado el día primero de octubre del a
 
 El Congreso tendrá sesiones extraordinarias cada vez que sea convocado por la Comisión Permanente, pero en tales casos solo podrá ocuparse del asunto o asuntos especificados en la Convocatoria respectiva.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 24.
 
-Entre los dieciséis de noviembre y dieciséis de diciembre de cada año, el Congreso del Estado, celebrará sesión solemne para el efecto de que el Gobernador del Estado presente su informe escrito acerca de la situación que guarden los diversos ramos de la Administración Publica; el Congreso determinará el día en que debe celebrarse dicha sesión. El Diputado Presidente del Congreso, será quien conteste dicho informe y su contenido será motivo de análisis en sesiones ordinarias subsecuentes en los términos de la Ley Orgánica del propio Congreso del Estado.
+El Congreso celebrará sesiones solemnes para efecto de que el Gobernador del Estado presente informes de la situación que guarden diversos ramos de la administración pública y de los proyectos y planes futuros, los cuales presentará de manera cuatrimestral, de la siguiente manera:
+
+a) Primer informe, se celebrará dentro del período comprendido del quince de marzo al quince de abril del año que corresponda, e informará de los asuntos relativos a los meses de diciembre del año inmediato anterior, enero, febrero y marzo del año que transcurra.
+
+b) Segundo Informe, se deberá llevar a cabo dentro del período comprendido del quince de julio al quince de agosto del año que corresponda, y consistirá en las acciones correspondientes a los meses de abril, mayo, junio y julio del año que transcurra.
+
+c) Tercer Informe, se celebrará entre el quince de noviembre y quince de diciembre del año que corresponda y se informará lo relativo a los meses de agosto, septiembre, octubre y noviembre del año que transcurra; en el presente informe el Gobernador del Estado deberá presentar la situación que guarden los diversos ramos de la administración pública y de los proyectos y planes futuros, incluyendo lo realizado en todo el año, se considerará como presentado el informe anual.
+
+El Diputado Presidente del Congreso, será quien conteste los informes y su contenido será motivo de análisis en sesiones ordinarias subsecuentes en los términos de la Ley Orgánica del Propio Congreso del Estado. El Congreso determinará el día en que deberán celebrarse las sesiones solemnes dentro de los periodos establecidos en el párrafo anterior.
+
+El Congreso acordará que los informes se lleven a cabo en diversas sesiones, en las que el Ejecutivo del Estado deberá informar en cada Región, lo referente a los asuntos de competencia de la misma, a fin de que su análisis sea específico a los rubros informados. El Ejecutivo del Estado propondrá al Congreso las sedes y sesiones que sean necesarias llevarse a cabo durante el periodo establecido para rendir los informes, de conformidad a la importancia de los asuntos a analizar.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -899,7 +911,7 @@ El Órgano de Fiscalización Superior del Congreso del Estado, deberá guardar r
 
 El Congreso del Estado designará al Titular del Órgano de Fiscalización Superior del Congreso del Estado, con el voto de las dos terceras partes de los Diputados presentes, la Ley determinará el procedimiento para su designación. Dicho Titular durará en su cargo siete años, y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente por las causas graves que señale esta Constitución en su Título Noveno, con la misma votación requerida para su nombramiento.
 
-Para ser Titular del Organo de Fiscalización Superior del Congreso del Estado, se requiere cumplir con los requisitos establecidos en el artículo 43 de esta Constitución, además de los que señalen la Ley y el Reglamento respectivo.
+Para ser Titular del Órgano de Fiscalización Superior del Congreso del Estado, se requiere cumplir con los requisitos establecidos en el artículo 43 de esta Constitución, además de los que señalen la Ley y el Reglamento respectivo.
 
 Durante el ejercicio de su encargo, no podrá formar parte de un Partido Político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados, en asociaciones científicas, docentes, artísticas o de beneficencia.
 
@@ -1157,9 +1169,9 @@ XV.- Iniciar ante el Congreso las leyes y decretos que juzgue convenientes;
 
 XVI.- Solicitar a la Comisión Permanente que convoque al Congreso a Sesiones Extraordinarias;
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2009)</small>
 
-XVII.- Entre el dieciséis de noviembre y el dieciséis de diciembre de cada año, presentar al Congreso un informe debidamente documentado del Estado que guarden los diversos ramos de la Administración Pública;
+XVII.- Presentar al Congreso tres informes cuatrimestrales en los meses de abril, agosto y diciembre, debidamente documentados del estado que guardan los diversos ramos de la administración pública, y de los proyectos, y planes futuros;
 
 > <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1277,7 +1289,7 @@ Los titulares de las dependencias y de las entidades deberán comparecer ante el
 
 ###### ARTICULO 47.
 
-El Ministerio Publico es una institución pública, autónoma de buena fe, la cual tiene por objeto promover la acción de la justicia en defensa de la legalidad, de los derechos de las personas y del interés público tutelado por la ley, de oficio o a petición de los interesados, así como procurar ante los tribunales la satisfacción del interés social. El Ministerio Público ejercerá sus atribuciones por medio de órganos propios, conforme a los principios de unidad de actuación y dependencia jerárquica y con sujeción a la legalidad.
+El Ministerio Publico es una institución pública, autónoma de buena fe, la cual tiene por objeto promover la acción de la justicia en defensa de la legalidad, de los derechos de las personas y del interés público tutelado por la ley, de oficio o a petición de los interesados, así como procurar ante los tribunales la satisfacción del interés social. El Ministerio Público ejercerá sus atribuciones por medio de órganos propios, conforme A los principios de unidad de actuación y dependencia jerárquica y con sujeción a la legalidad.
 
 En el caso de delitos electorales, la Institución del Ministerio Público, actuará por conducto de la Fiscalía Electoral, en términos del artículo 19 de esta Constitución y las disposiciones que fijen las leyes secundarias.
 
@@ -2483,19 +2495,19 @@ P.O. 1 DE MARZO DE 1933.
 
 P.O. 28 DE NOVIEMBRE DE 1934.
 
-DECRETO 103/8 QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO.
-
-1º.- Quedan derogadas todas las leyes, decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente Decreto.
-
-2º.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
-
-P.O. 28 DE NOVIEMBRE DE 1934.
-
 DECRETO NÚMERO 104/9 QUE REFORMA ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 1º.- Quedan derogadas todas las Leyes, Decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente Decreto.
 
 2º.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
+
+P.O. 28 DE NOVIEMBRE DE 1934.
+
+DECRETO 104/9 QUE REFORMA ART. 43 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+1º.- Quedan derogadas todas las Leyes, Decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente Decreto.
+
+2º.- Este Decreto empezará a regir desee la fecha de su publicación en el Periódico Oficial.
 
 P.O. 25 DE DICIEMBRE DE 1935.
 
@@ -3420,3 +3432,13 @@ Igualmente, la referencia que se hace en la presente reforma a la Ley orgánica 
 Artículo Séptimo.- Los asuntos que se encuentren en trámite por el Ministerio de Justicia del Estado, continuarán siendo desahogados y concluidos por la Procuraduría General de Justicia del Estado, a través de los mismos órganos que se iniciaron, previa razón que se asiente en cada uno de los expedientes con motivo de la presente reforma.
 
 Artículo Octavo.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 13 DE ENERO DE 2009.
+
+Artículo Primero.- Remítase el Decreto por el que se reforma y adiciona diversas disposiciones de la Constitución Política del Estado de Chiapas; al Poder Ejecutivo, para su publicación en el Periódico Oficial del Estado, a efecto de dar cumplimiento a la fracción II, del artículo 83, de la Constitución Política del Estado.
+
+Artículo Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Tercero.- El Ejecutivo del Estado deberá rendir el primer informe correspondiente al mes de diciembre del 2008, y a los meses de enero, febrero y marzo de 2009, dentro del período comprendido del quince de marzo al quince de abril de 2009.
+
+Artículo Cuarto.- Se derogan todas las disposiciones que se opongan a este Decreto.
