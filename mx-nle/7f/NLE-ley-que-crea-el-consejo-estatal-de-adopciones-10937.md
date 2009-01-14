@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-consejo-estatal-de-adopciones-10937"
 country: "mx"
 rank: "ley"
 publication_date: "1996-02-09"
-last_updated: "2007-07-04"
+last_updated: "2009-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10937&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL CONSEJO ESTATAL DE ADOPCIONES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 9 de febrero de 1996.
 
@@ -37,9 +37,11 @@ NUM. 155
 
 LEY QUE CREA EL CONSEJO ESTATAL DE ADOPCIONES
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
+
 ###### Artículo 1o.
 
-Se crea el Consejo Estatal de Adopciones como un órgano de colaboración, técnico y de consulta, el cual tendrá como objetivo general procurar y proteger el interés superior del menor sujeto a adopción.
+Se crea el Consejo Estatal de Adopciones como un órgano de colaboración, técnico y de consulta, el cual tendrá como objetivo general procurar y proteger el interés superior del menor de edad susceptible de adopción.
 
 ###### Artículo 2o.
 
@@ -47,33 +49,65 @@ El Consejo Estatal de Adopciones tendrá las siguientes atribuciones:
 
 I.- Unificar todos los programas de adopción que se apliquen en el Estado, con el fin de lograr la uniformidad de los mismos en las instituciones públicas y privadas que los lleven;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
 
-II.- Emitir opinión respecto a los organismos, personas físicas o personas morales de derecho privado a que se refiere la Ley de Beneficencia Privada para el Estado, en el Artículo 87 fracción I inciso l);
+II.- Emitir opinión respecto de las adopciones que se tramiten en la entidad en los casos previstos por la fracción VIII del artículo 390 del Código Civil para el Estado de Nuevo León;
 
-III.- (DEROGADA, P.O. 28 DE ABRIL DE 2004)
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
 
-IV.- Coordinarse con las autoridades competentes a fin de cumplir con su objetivo general y las funciones propias del Consejo;
+III.- Emitir opinión respecto a los organismos, personas físicas o morales de derecho privado a que se refiere la ley de Beneficencia Privada para el Estado, en el articulo 87 fracción I inciso l) y las constituidas en los términos del Titulo Décimo Primero del Libro Cuarto del Código Civil para el Estado;
 
-V.- Difundir los objetivos del Consejo Estatal de Adopciones;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
 
-VI.- Llevar un registro de sus miembros;
+IV.- Evaluar cada seis meses, los procedimientos de adopción y de seguimiento de las mismas, así como los informes de los seguimientos de adopción, que presenten las instituciones integrantes de este Consejo;
 
-VII.- Instituir y mantener actualizado un padrón de instituciones que tengan en custodia menores que puedan ser sujetos de adopción;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
 
-> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2004)</small>
+V.- Coordinarse con las autoridades competentes a fin de cumplir con su objetivo general y las funciones propias del Consejo;
 
-VIII.- Determinar las instituciones públicas y privadas competentes para realizar la evaluación psicológica y socioeconómica para la adopción;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+VI.- Difundir los objetivos del Consejo Estatal de Adopciones;
 
-IX.- Elaborar su reglamento interno;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
 
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2007)</small>
+VlI.- Llevar un registro de sus miembros:
 
-X.- Difundir la cultura a favor de la Adopción estableciendo sus principos básicos; y
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
 
-XI.- Las demás que le confiera ésta y otras leyes.
+VlII.- Instituir y mantener actualizado un padrón de instituciones que tengan en el Estado, menores de edad en guarda, custodia o en ambos supuestos;
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
+
+IX.- Determinar las instituciones públicas y privadas competentes para realizar la evaluación psicológica y socioeconómica para la adopción;
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
+
+X.- Elaborar y modificar su reglamento interno;
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
+
+XI.- Difundir la cultura a favor de la Adopción estableciendo sus principios básicos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE ENERO DE 2009)</small>
+
+XII.- Elaborar un manual de políticas, procedimientos y criterios que regulen:
+
+a) La apertura, funcionamiento, suspensión de operación, y cierre de Instituciones que tengan menores de edad, en guarda, custodia o en ambos supuestos; y
+
+b) La apertura, operación y cierre de los expedientes de cada uno de los menores de edad, en guarda, custodia o en ambos supuestos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE ENERO DE 2009)</small>
+
+XIII.- Proponer al Ejecutivo un Proyecto de Reglamento de esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE ENERO DE 2009)</small>
+
+XIV.- Establecer y operar un banco de datos de adopciones realizadas en el Estado y de los menores de edad que viven en las instituciones susceptibles de ser adoptados; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE ENERO DE 2009)</small>
+
+XV.- Las demás que le confiera ésta y otras leyes.
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 1997)</small>
 
@@ -89,21 +123,45 @@ III.- El Procurador General de Justicia;
 
 IV.- El Secretario de Desarrollo Social;
 
-V.- Un Presidente Ejecutivo, que será el Director General del Sistema para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
 
-VI.- Un Secretario Técnico, que será el Titular de la Procuraduría de la Defensa del Menor y la Familia;
+V.- Secretario de Educación;
 
-VII.- Un representante del Sistema para el Desarrollo Integral de la Familia distinto a los previstos en las fracciones V y VI de este Artículo y que será designado por el Director General del Sistema para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
 
-VIII.- El Presidente de la Comisión Estatal de Derechos Humanos;
+VI.- Secretario de Salud;
 
-IX.- Los representantes de la (sic) instituciones públicas y privadas que cuenten con un programa de adopciones y lo hayan operado durante un plazo no menor de doce meses o quien sin tener un programa de adopción tengan en custodia menores que puedan ser sujetos de ello; y
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
 
-X.- Los representantes de las asociaciones civiles constituidas por adoptantes o adoptados, o ambos, cuyo objeto social sea promover y proteger la institución de adopción, así como asesorar, orientar y brindar apoyo a sus integrantes, a quienes se encuentren en proceso de adopción, y a las instituciones públicas y privadas que tengan fines similares o que se vinculen a ellas.
+VII.- Un Presidente Ejecutivo, que será el Director General del Sistema para el Desarrollo Integral de la Familia;
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
 
-Los representantes de las instituciones y asociaciones privadas a que se refieren las fracciones IX y X de este Artículo serán determinados por la asamblea plenaria por mayoría de votos.
+VIII.- Un Secretario Técnico, que será el Titular de la Procuraduría de la Defensa del Menor y la Familia;
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
+
+IX.- Un representante del Sistema para el Desarrollo Integral de la Familia distinto a los previstos en las fracciones VII y VIII de este Artículo y que será designado por el Director General del Sistema para el Desarrollo Integral de la Familia;
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
+
+X.- El Presidente de la Comisión Estatal de Derechos Humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE ENERO DE 2009)</small>
+
+XI.- El Presidente de la Junta de Beneficencia Privada del Estado de Nuevo León;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE ENERO DE 2009)</small>
+
+XII.- Los representantes de las Instituciones Públicas y Privadas o de las Instituciones de Beneficencia Privada que estén constituidas legalmente y hayan cumplido con todas las disposiciones legales y normativas aplicable para su apertura y funcionamiento y cuenten con un programa de adopciones y lo hayan operado durante un plazo no menor de tres años, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE ENERO DE 2009)</small>
+
+XIII.- Los representantes de las asociaciones civiles constituidas por adoptantes o adoptados, o ambos, cuyo objeto social sea promover y proteger la institución de adopción, así como asesorar, orientar y brindar apoyo a sus integrantes, a quienes se encuentren en proceso de adopción, y a las instituciones públicas y privadas que tengan fines similares o que se vinculen a ellas.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
+
+Los representantes de las instituciones y asociaciones privadas a que se refieren las fracciones XII y XIII de este Artículo serán determinados por la asamblea plenaria por mayoría de votos.
 
 Cada integrante propietario del Consejo designará a su suplente, informándolo, por escrito al Presidente Ejecutivo, observándose la misma formalidad en caso de substitución. Los integrantes del Consejo desempeñarán sus funciones en forma honorífica.
 
@@ -137,29 +195,41 @@ El Consejo determinará en sesión plenaria, cuáles son las instituciones públ
 
 El Consejo por conducto de su Presidente Ejecutivo, rendirá al Ejecutivo Estatal un informe anual de actividades durante el mes de enero de cad (sic) año.
 
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2009)</small>
+
+El informe que señala el párrafo anterior, deberá publicarse en forma permanente, dentro de los treinta días posteriores a su presentación, en el portal de internet del Gobierno del Estado.
+
 ###### Artículo 10.
 
 Las instituciones señaladas en la fracción VII del artículo 2o. de esta ley, darán las facilidades necesarias al Consejo para el cumplimiento de la atribución que se menciona en la misma.
 
-> <small>(ADICIONADO, P.O. 22 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 11.
 
-Para efecto de dar cumplimiento a la disposición contenida en el artículo 2 fracción VII de esta Ley, se establece que son obligaciones de todas las instituciones que custodian menores de edad en el Estado las siguientes:
-
-a) Registrarse ante el Consejo Estatal de Adopciones dentro de los diez días siguientes a la fecha de iniciación de actividades;
-
-b) Presentar a dicho Consejo un informe trimestral que incluya, entre otros, los datos generales de los menores que custodien y los de quien o quienes autorizaron su ingreso a la institución respectiva;
-
-c) Presentar al consejo un aviso de ingreso y egreso de los menores de edad, dentro de los tres días siguientes a que sucedan estos hechos y acompañando al primero una fotografía del menor; y
-
-d) Proporcionar al Consejo, a través de las personas que para tal efecto designe, las facilidades de acceso a las instalaciones, registros, expedientes así como a los menores en custodia, para verificar la información entregada al mismo.
+Para efecto de dar cumplimiento a la disposición contenida en el artículo 2 fracción VIII de esta Ley, se establece que son obligaciones de todas las instituciones que tienen en el Estado, menores de edad, en guarda, custodia o en ambos supuestos, las siguientes:
 
 > <small>(ADICIONADO, P.O. 22 DE ENERO DE 1997)</small>
 
+a) Registrarse ante el Consejo Estatal de Adopciones dentro de los diez días siguientes a la fecha de iniciación de actividades;
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
+
+b) Presentar a dicho Consejo un informe trimestral que incluya, entre otros, los datos generales de los menores de edad que tengan en guarda, custodia o en ambos supuestos y los de quien o quienes autorizaron su ingreso a la Institución respectiva;
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 1997)</small>
+
+c) Presentar al consejo un aviso de ingreso y egreso de los menores de edad, dentro de los tres días siguientes a que sucedan estos hechos y acompañando al primero una fotografía del menor; y
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
+
+d) Proporcionar al Consejo, a través de las personas que para tal efecto designe, las facilidades de acceso a las instalaciones, registros, expedientes así como a los menores de edad en guarda, custodia o en ambos supuestos, para verificar la información entregada al mismo.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
+
 ###### Artículo 12.
 
-Para los efectos de esta Ley, se consideran instituciones que custodian menores de edad, aquellos que prestan servicios de guardia y cuidado bajo el sistema de internado.
+Para los efectos de esta Ley, se considera que los menores de edad se encuentran bajo la guarda de una persona moral o física cuando cualquiera de éstas se responsabilizan sólo de su cuidado temporal por autorización voluntaria de quien o quienes ejerzan la patria potestad sobre los mismos menores; y se considera que se encuentran bajo custodia, cuando dicho cuidado deriva de una orden de autoridad judicial competente o de una autorización otorgada formalmente ante la Procuraduría de la Defensa del Menor y la Familia o ante Juez competente, por quien o quienes ejerzan la patria potestad, con permiso expreso para ejercer los derechos de posesión o tenencia material, crianza, formación, educación, atención a la salud, protección, socialización y demás necesarios para el adecuado desarrollo integral de los menores de edad.
 
 TRANSITORIOS:
 
@@ -214,3 +284,13 @@ Las partes, en los procedimientos referidos en el párrafo anterior, podrán opt
 P.O. 4 DE JULIO DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 14 DE ENERO DE 2009.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- En relación a las modificaciones al Artículo 2 de la Ley que Crea el Consejo Estatal de Adopciones de Nuevo León, el Consejo Estatal de Adopciones formulará al Ejecutivo Estatal proyecto de Reglamento de dicha Ley, en su plazo no mayor a sesenta días naturales contados a partir del inicio de la vigencia de este Decreto.
+
+Tercero.- El Ejecutivo Estatal emitirá el Reglamento de la Ley que Crea el Consejo Estatal de Adopciones de Nuevo León, dentro de los treinta días naturales una vez recibido el proyecto que dispone el Artículo Transitorio anterior.
+
+Cuarto.- El Ejecutivo del Estado a través de la Secretaría de Finanzas y Tesorería General del Estado, determinará la reasignación presupuestal que corresponda al Consejo Estatal de Adopciones, dentro del Ejercicio Fiscal 2009.
