@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2009-01-13"
+last_updated: "2009-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2009.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -555,7 +555,7 @@ Ningún partido tendrá derecho a que le sean reconocidos más de veinticuatro d
 
 ### CAPITULO SEGUNDO. DE LA ORGANIZACION DEL PODER EJECUTIVO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 17.
 
@@ -905,7 +905,7 @@ III.- Entregar los informes del resultado de la revisión de las cuentas públic
 
 IV.- Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Estado y efectuar visitas domiciliarias únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas en la Ley.
 
-V.- Determinar los daños y perjuicios que afecten a la Hacienda Pública Estatal y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades: promover las acciones de responsabilidad a que se refiere el Título Noveno de esta Constitución, y presentar las denuncias y querellas penales, en cuyos procedimientos tendrán la intervención que señale la Ley.
+V.- Determinar los daños y perjuicios que afecten a la Hacienda Publica Estatal y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades: promover las acciones de responsabilidad a que se refiere el Título Noveno de esta Constitución, y presentar las denuncias y querellas penales, en cuyos procedimientos tendrán la intervención que señale la Ley.
 
 El Órgano de Fiscalización Superior del Congreso del Estado, deberá guardar reserva de sus actuaciones y observaciones, hasta que rinda los informes a que se refiere este artículo; la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
 
@@ -1195,7 +1195,7 @@ XXI.- Someter a consideración del Congreso o de la Comisión Permanente, los no
 
 > <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
-XXII.- Nombrar y remover libremente a los empleados y funcionarios de la Administración Pública del Estado de Chiapas, respetando en todo caso los derechos que les asistan conforme a la Legislación aplicable.
+XXII.- Nombrar y remover libremente a los empleados y funcionarios de la Administración Pública del Estado de Chiapas, respetando en todo caso los derechos que les asistan conforme a la Legislación aplicable;
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 2009)</small>
 
@@ -1235,7 +1235,7 @@ XXVIII.- Las demás que le confiera expresamente esta Constitución.
 
 ###### ARTICULO 43.
 
-Para el despacho de los asuntos administrativos del Estado, habrá las Dependencias, y Entidades que establezca la Ley Orgánica de la Administración Pública del Estado, la que señalara las funciones que a cada una correspondan y los requisitos que deban reunir sus titulares.
+Para el despacho de los asuntos administrativos del Estado, habrán las Dependencias, Organismos y Entidades que establezcan la Ley Orgánica de la Administración Pública del Estado y la Ley de Entidades Paraestatales del Estado de Chiapas, las que señalarán las funciones que a cada una correspondan y los requisitos que deban reunir sus titulares, en el ámbito de su competencia.
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 2009)</small>
 
@@ -1253,15 +1253,21 @@ II.- No pertenecer al estado eclesiástico;
 
 III.- No haber cometido delito grave intencional alguno;
 
-IV.- Satisfacer los demás requisitos que señale la Ley Orgánica de la Administración Pública del Estado.
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
+
+IV.- Ser Mexicano Chiapaneco;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2009)</small>
+
+V.- Satisfacer los demás requisitos que señale la Ley Orgánica de la Administración Pública del Estado.
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 2009)</small>
 
 El Secretario General de Gobierno deberá, además, ser ciudadano chiapaneco.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
-El Gobernador el Estado deberá nombrar, como máximo al setenta por ciento de personas del mismo sexo como Secretarios de Despachos y Titulares de las Dependencias de la Administración pública.
+El Gobernador del Estado deberá nombrar, como máximo al setenta por ciento de personas del mismo sexo como titulares de las Dependencias Organismos y Entidades de la administración pública.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -1289,7 +1295,7 @@ Los titulares de las dependencias y de las entidades deberán comparecer ante el
 
 ###### ARTICULO 47.
 
-El Ministerio Publico es una institución pública, autónoma de buena fe, la cual tiene por objeto promover la acción de la justicia en defensa de la legalidad, de los derechos de las personas y del interés público tutelado por la ley, de oficio o a petición de los interesados, así como procurar ante los tribunales la satisfacción del interés social. El Ministerio Público ejercerá sus atribuciones por medio de órganos propios, conforme A los principios de unidad de actuación y dependencia jerárquica y con sujeción a la legalidad.
+El Ministerio Publico es una institución pública, autónoma de buena fe, la cual tiene por objeto promover la acción de la justicia en defensa de la legalidad, de los derechos de las personas y del interés público tutelado por la ley, de oficio o a petición de los interesados, así como procurar ante los tribunales la satisfacción del interés social. El Ministerio Público ejercerá sus atribuciones por medio de órganos propios, conforme a los principios de unidad de actuación y dependencia jerárquica y con sujeción a la legalidad.
 
 En el caso de delitos electorales, la Institución del Ministerio Público, actuará por conducto de la Fiscalía Electoral, en términos del artículo 19 de esta Constitución y las disposiciones que fijen las leyes secundarias.
 
@@ -1317,8 +1323,6 @@ El Gobernador del Estado podrá solicitar al Consejo de Procuración de Justicia
 
 El Procurador General de Justicia del Estado elaborará un proyecto general de presupuesto de egresos de la Procuraduría General de Justicia del Estado, el cual enviará al Ejecutivo para glosarlo al proyecto de presupuesto de egresos del Estado.
 
-> <small>(DEROGADO NOVENO PARRAFO, P.O. 6 DE ENERO DE 2009)</small>
-
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 2009)</small>
 
 La Fiscalía Electoral tendrá jurisdicción en todo el Estado, para el desarrollo de la función ministerial en materia de delitos electorales y formará parte de la Procuraduría General de Justicia del Estado.
@@ -1343,9 +1347,9 @@ III. Poseer el día de su designación, con antigüedad mínima de cinco años, 
 
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo cualquiera que haya sido la pena.
 
-> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
 
-V. Haber residido en el Estado durante los cinco años anteriores al día de la designación.
+V. Ser Mexicano Chiapaneco.
 
 > <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
@@ -2495,19 +2499,19 @@ P.O. 1 DE MARZO DE 1933.
 
 P.O. 28 DE NOVIEMBRE DE 1934.
 
-DECRETO NÚMERO 104/9 QUE REFORMA ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
+DECRETO 103/8 QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO.
 
-1º.- Quedan derogadas todas las Leyes, Decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente Decreto.
+1º.- Quedan derogadas todas las leyes, decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente Decreto.
 
 2º.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
 
 P.O. 28 DE NOVIEMBRE DE 1934.
 
-DECRETO 104/9 QUE REFORMA ART. 43 DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO NÚMERO 104/9 QUE REFORMA ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 1º.- Quedan derogadas todas las Leyes, Decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente Decreto.
 
-2º.- Este Decreto empezará a regir desee la fecha de su publicación en el Periódico Oficial.
+2º.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
 
 P.O. 25 DE DICIEMBRE DE 1935.
 
@@ -3442,3 +3446,9 @@ Artículo Segundo.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Tercero.- El Ejecutivo del Estado deberá rendir el primer informe correspondiente al mes de diciembre del 2008, y a los meses de enero, febrero y marzo de 2009, dentro del período comprendido del quince de marzo al quince de abril de 2009.
 
 Artículo Cuarto.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 14 DE ENERO DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
