@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2008-12-31"
+last_updated: "2009-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -6703,15 +6703,19 @@ Si el menor expósito no hubiere sido acogido por institución pública o privad
 
 IV.- En los casos a que se refiere el artículo 732 Bis de este Código, deberá acreditarse la pérdida de la patria potestad de quienes por disposición de ley la tienen.
 
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2009)</small>
+
+V.- Deberá contar con la opinión del Consejo Estatal (sic) Adopciones.
+
 > <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 1999)</small>
 
 Tratándose de adopciones de menores abandonados o expósitos acogidos en Instituciones públicas o privadas, la asesoría de las instituciones oficiales en la tramitación de las mismas, se hará sin costo alguno para los interesados.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 936.
 
-Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deban darlo conforme a los artículos 394 y 395 del Código Civil el tribunal resolverá dentro del tercer día.
+Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deban darlo conforme a los artículos 394 y 395 del Código Civil, el tribunal remitirá dentro del término de tercer día, el expediente respectivo al Consejo Estatal de Adopciones, para que éste emita en igual término la opinión correspondiente, efectuado lo anterior con informe o sin él en caso de no haberlo remitido dentro del término fijado, el Juez resolverá lo conducente dentro del tercer día.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -9196,3 +9200,13 @@ P.O. 15 DE DICIEMBRE DE 2008.
 P.O. 31 DE DICIEMBRE DE 2008.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ENERO DE 2009.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- En relación a las modificaciones al Artículo 2 de la Ley que Crea el Consejo Estatal de Adopciones de Nuevo León, el Consejo Estatal de Adopciones formulará al Ejecutivo Estatal proyecto de Reglamento de dicha Ley, en su plazo no mayor a sesenta días naturales contados a partir del inicio de la vigencia de este Decreto.
+
+Tercero.- El Ejecutivo Estatal emitirá el Reglamento de la Ley que crea el Consejo Estatal de Adopciones de Nuevo León, dentro de los treinta días naturales una vez recibido el proyecto que dispone el Artículo Transitorio anterior.
+
+Cuarto.- El Ejecutivo del Estado a través de la Secretaría de Finanzas y Tesorería General del Estado, determinará la reasignación presupuestal que corresponda al Consejo Estatal de Adopciones, dentro del Ejercicio Fiscal 2009.
