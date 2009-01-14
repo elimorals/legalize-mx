@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2008-12-31"
+last_updated: "2009-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -2997,15 +2997,17 @@ IV.- Que tiene un certificado de salud;
 
 V.- Evaluación psicológica y socioeconómica practicada por instituciones públicas o privadas competentes debidamente aprobadas y certificadas por el Consejo Estatal de Adopciones. El Juez cuidará que sean exhibidas y en su caso revisadas en el procedimiento de adopción;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
 
-VI.- Su identidad, historia familiar y razones para adoptar; y
+VI.- Su identidad, historia familiar y razones para adoptar;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
 
-VII.- La identidad, las circunstancias familiares y sociales, así como la historia médica y los antecedentes en materia de tradiciones, creencias y entorno cultural, del menor que se pretende adoptar, siempre que no se trate de un menor expósito.
+VII.- La identidad, las circunstancias familiares y sociales, así como la historia médica y los antecedentes en materia de tradiciones, creencias y entorno cultural, del menor que se pretenda adoptar, siempre que no se trate de un menor expósito; y
 
-VIII.- (DEROGADA, P.O. 28 DE ABRIL DE 2004)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE ENERO DE 2009)</small>
+
+VIII.- Opinión del Consejo Estatal de Adopciones.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
@@ -7011,7 +7013,7 @@ Las servidumbres continuas y aparentes se adquieren por cualquier título legal,
 
 ###### Art. 1111.
 
-Las servidumbres continuas no aparentes, y las discontinuas, sean o nó aparentes, no podrán adquirirse por prescripción.
+Las servidumbres continuas no aparentes, y las discontinuas, sean o no aparentes, no podrán adquirirse por prescripción.
 
 ###### Art. 1112.
 
@@ -16670,6 +16672,16 @@ P.O. 15 DE DICIEMBRE DE 2008.
 P.O. 31 DE DICIEMBRE DE 2008.
 
 Único.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ENERO DE 2009.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- En relación a las modificaciones al Artículo 2 de la Ley que Crea el Consejo Estatal de Adopciones de Nuevo León, el Consejo Estatal de Adopciones formulará al Ejecutivo Estatal proyecto de Reglamento de dicha Ley, en su plazo no mayor a sesenta días naturales contados a partir del inicio de la vigencia de este Decreto.
+
+Tercero.- El Ejecutivo Estatal emitirá el Reglamento de la Ley que Crea el Consejo Estatal de Adopciones de Nuevo León, dentro de los treinta días naturales una vez recibido el proyecto que dispone el Artículo Transitorio anterior.
+
+Cuarto.- El Ejecutivo del Estado a través de la Secretaria de Finanzas y Tesorería General del Estado, determinará la reasignación presupuestal que corresponda al Consejo Estatal de Adopciones, dentro del Ejercicio Fiscal 2009.
 
 ###### ARTICULO TERCERO.
 
