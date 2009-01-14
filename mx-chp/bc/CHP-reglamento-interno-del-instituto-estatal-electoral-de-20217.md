@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interno-del-instituto-estatal-electoral-de-20217"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-02-21"
-last_updated: "2001-02-21"
+last_updated: "2009-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERNO DEL INSTITUTO ESTATAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO (SIC) DEL REGLAMENTO INTERNO DEL INSTITUTO DE ELECCIONES Y PARTICIPACION CIUDADANA, PUBLICADO EN EL P.O. DE 14 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 21 de febrero de 2001.
 
@@ -1190,3 +1192,21 @@ ASI LO ACORDARON POR MAYORIA DE OCHO VOTOS, LOS CC. CONSEJEROS ELECTORALES GILBE
 CERTIFICACION: EL SUSCRITO LICENCIADO ALEJANDRO DE JESUS CALDERON MAZA, SECRETARIO EJECUTIVO DEL INSTITUTO ESTATAL ELECTORAL, EN EJERCICIO DE LAS FACULTADES ESTABLECIDAS EN LA FRACCION XXVI DEL ARTICULO 120 DEL CODIGO ELECTORAL DEL ESTADO, CERTIFICO Y HAGO CONSTAR: QUE LAS PRESENTES COPIAS FOTOSTATICAS CONSTANTES DE 14 FOJAS UTILES RELATIVAS AL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ESTATAL ELECTORAL, POR EL QUE SE EMITE EL REGLAMENTO INTERNO DEL INSTITUTO ESTATAL ELECTORAL, COINCIDEN FIEL Y EXACTAMENTE CON SU ORIGINAL QUE TUVE A LA VISTA Y QUE OBRAN EN LOS ARCHIVOS DE ESTE INSTITUTO. LO QUE SE HACE CONSTAR PARA LOS EFECTOS LEGALES A QUE HAYA LUGAR; EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS, A LOS 09 DIAS DEL MES DE FEBRERO DEL AÑO 2001. - DOY FE.
 
 EL SECRETARIO EJECUTIVO, LIC. ALEJANDRO DE JESUS CALDERON MAZA.- RUBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIO DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE ENERO DE 2009.
+
+Primero.- El presente Reglamento entrará en vigor a partir de su aprobación por el Consejo General.
+
+Segundo.- La divulgación y distribución de este Reglamento se hará extensiva a todo el personal del Instituto.
+
+Tercero.- El Secretario Ejecutivo adoptará las medidas necesarias a efecto de que se imprima el número de ejemplares que sean necesarios para la consecución de lo dispuesto en el artículo que antecede.
+
+Cuarto.- El Consejo General será el órgano facultado para realizar las reformas, adiciones y derogaciones a este Reglamento, cuando así lo considere pertinente.
+
+Segundo (sic).- El Reglamento Interno del entonces Instituto Estatal Electoral quedará abrogado con la entrada en vigencia del Reglamento Interno del Instituto de Elecciones y Participación Ciudadana.
+
+Tercero.- En términos de lo dispuesto por los artículos 391 y 395 del Código de Elecciones y Participación Ciudadana, notifíquese el contenido del presente acuerdo a los representantes de los partidos políticos acreditados ante el Consejo General de éste organismo electoral.
+
+Cuarto.- Publíquese en el Periódico Oficial del Estado.
