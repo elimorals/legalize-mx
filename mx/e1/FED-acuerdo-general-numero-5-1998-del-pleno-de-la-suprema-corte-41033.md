@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-5-1998-del-pleno-de-la-suprema-corte-410
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-08-24"
-last_updated: "1998-08-24"
+last_updated: "2009-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41033&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1998-08-17"
 
 ACUERDO GENERAL 5/1998, RELATIVO AL PAGO DE LOS GASTOS Y LOS HONORARIOS DE LOS PERITOS DESIGNADOS POR LOS MINISTROS INSTRUCTORES EN LAS CONTROVERSIAS CONSTITUCIONALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NUMERO 15/2008, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 14 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 24 de agosto de 1998 y en Semanario Judicial de la Federación y su Gaceta, Tomo VIII, Agosto de 1998, página 937.
 
@@ -84,3 +86,15 @@ LICENCIADO JOSÉ JAVIER AGUILAR DOMÍNGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA
 CERTIFICA:
 
 Que este Acuerdo General 5/1998 relativo al pago de los gastos y los honorarios de los peritos designados por los Ministros instructores en las controversias constitucionales, fue emitido por el Tribunal Pleno en sesión privada de once de junio de mil novecientos noventa y ocho, por unanimidad de once votos de los señores Ministros: presidente José Vicente Aguinaco Alemán, Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Juventino V. Castro y Castro, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Humberto Román Palacios, Olga María Sánchez Cordero y Juan N. Silva Meza.-México, Distrito Federal, a diecisiete de agosto de mil novecientos noventa y ocho.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 14 DE ENERO DE 2009.
+
+PRIMERO. Este Acuerdo General entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo General Plenario 5/98.
+
+TERCERO. El pago de gastos y honorarios de los peritos designados por el Ministro instructor tratándose de pruebas ya admitidas en controversias constitucionales o acciones de inconstitucionalidad, se regirá por lo establecido en este Acuerdo.
+
+CUARTO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta, así como en el Diario Oficial de la Federación y en medios electrónicas de consulta pública en términos de los (sic) previsto en los artículos 7o., fracción XIV y 9o., de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
