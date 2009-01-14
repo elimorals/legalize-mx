@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-19016
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2008-07-30"
+last_updated: "2009-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2009.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de diciembre del 2000.
 
@@ -983,111 +983,105 @@ Recibida la obra, la unidad o área administrativa bajo cuya responsabilidad que
 
 ### CAPITULO TERCERO. DE LAS EXCEPCIONES A LA LICITACION PUBLICA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 79.
 
-Los Municipios, sus Organismos Públicos Descentralizados, las Empresas de Participación Municipal mayoritarias y los Fideicomisos en los que los Municipios tengan el carácter de Fideicomitentes según correspondan, de conformidad con lo dispuesto por las Leyes de la materia y bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos de obra pública y servicios relacionados con la misma, a través de adjudicación directa y/o un procedimiento de licitación restringida mediante invitación a cuando menos tres contratistas, cuando el importe de las operaciones no exceda de los montos establecidos en este artículo, siempre y cuando las propuestas se consideren técnicamente válidas y las operaciones no se fraccionen para quedar comprendidas en este supuesto de excepción a la licitación pública.
+Los municipios, sus Organismos Públicos Descentralizados, las Empresas de Participación Municipal Mayoritarias y los Fideicomisos en los que los Municipios tengan el carácter de Fideicomitentes según correspondan, de conformidad con lo dispuesto por las Leyes de la materia y bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos de obra pública y servicios relacionados con la misma, a través de adjudicación directa y/o un procedimiento de licitación restringida mediante invitación a cuando menos tres contratistas, cuando el importe de las operaciones no exceda de los montos establecidos en este artículo, siempre y cuando las propuestas se consideren técnicamente válidas y las operaciones no se fraccionen para quedar comprendidas en este supuesto de excepción a la licitación pública.
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2005)</small>
-
-Los municipios garantizarán que el contrato se adjudique preferentemente con personas físicas o morales debidamente constituidas, residentes en la localidad o lugar donde deba ejecutarse la obra y que se encuentren al corriente de sus obligaciones fiscales, siempre y cuando cuenten con capacidad de respuesta inmediata y ofrezcan las mejores condiciones en cuanto a precio, pago, financiamiento y oportunidad en el cumplimiento y no se encuentre en los supuestos del artículo 42; así como asegurar que la obra no se fraccionará para quedar en los supuestos del artículo 43 de la misma Ley.
-
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2005)</small>
+Los municipios garantizarán que el contrato se adjudique preferentemente con personas físicas o morales debidamente constituidas, residentes en la localidad o lugar donde deba ejecutarse la obra y que se encuentren al corriente de sus obligaciones fiscales, siempre y cuando cuenten con capacidad de respuesta inmediata y ofrezcan las mejores condiciones en cuanto a precio, pago, financiamiento y oportunidad en el cumplimiento, y no se encuentre en los supuestos del artículo 42; así como asegurar que la obra no se fraccionará para quedar en los supuestos del artículo 43 de la misma Ley.
 
 Para garantizar la buena calidad de la obra y la correcta aplicación del anticipo, el contratista estará obligado, mediante una carta compromiso; en el primer caso, por un 10% del monto total contratado; y en el segundo, por el 100% del anticipo otorgado.
 
-GRUPO MUNICIPIOS ADJUDICACION INVITACION A TRES
+GRUPO MUNICIPIOS ADJUDICACION INVITACION
 
-DIRECTA CONTRATISTAS
+DIRECTA A TRES
 
-I JUAREZ Y CHIHUAHUA De un SMGV De más de 55
+CONTRATISTAS
+
+I Juárez y Chihuahua De un SMGV De más de 55
 
 hasta 55 SMGV hasta
 
-veces X365 110x365
+veces x 365 110 x 365
 
-II DELICIAS, CUAUHTEMOC, De un SMGV De más de 40
+II Delicias, Cuauhtemoc, De un SMGV De más de 40
 
-HIDALGO DEL PARRAL, hasta 40 veces SMGV hasta
+Hidalgo del Parral, hasta 40 veces SMGV hasta
 
-GUADALUPE Y CALVO, X365 60X365
+Guadalupe y Calvo, x 365 60 x 365
 
-NUEVO CASAS GRANDES,
+Nuevo Casas Grandes,
 
-CAMARGO, GUACHOCHI,
+Camargo, Guachochi,
 
-GUERRERO Y MADERA
+Guerrero, Madera,
 
-III MEOQUI, SAUCILLO, De un SMGV De más de 35
+Bocoyna, Jiménez,
 
-BOCOYNA, OJINAGA, hasta 35 veces SMGV hasta
+Meoqui y Saucillo
 
-NAMIQUIPA Y URIQUE X365 50X365
+III Ahumada, Aldama, De un SMGV De más de 35
 
-IV BALLEZA, SANTA BARBARA, De un SMGV De más de 30
+Ascensión. Balleza, hasta 35 veces SMGV hasta
 
-BUENAVENTURA, hasta 30 veces SMGV hasta
+Batopilas, Buenaventura, x 365 50 x 365
 
-CORONADO, X365 45x365
+Santa Bárbara, Ojinaga,
 
-ASCENSION, ALDAMA,
+Namiquipa y Urique
 
-BATOPILAS, AHUMADA,
+IV Coronado, De un SMGV De más de 30
 
-GUADALUPE Y
+Guadalupe, Morelos, hasta 30 veces SMGV hasta
 
-DISTRITO BRAVOS,
+Carichi, Rosales, x 365 45 x 365
 
-MORELOS, CARICHI,
+Uruachi, San Francisco
 
-ROSALES, URUACHI,
+del Oro, Guazapares,
 
-SAN FRANCISCO DEL ORO,
+Ocampo, Riva Palacio,
 
-GUAZAPARES, OCAMPO,
+Allende, Casas Grandes,
 
-RIVA PALACIO, ALLENDE,
+Janos, Temósachi,
 
-CASAS GRANDES, JANOS,
+Chinipas, Gómez Farías,
 
-TEMOSACHI, CHINIPAS,
+Praxedis G. Guerrero,
 
-GOMEZ FARIAS,
+Ignacio Zaragoza,
 
-JIMENEZ, PRAXEDIS G.
+Bachiniva, Cusihuiriachi,
 
-GUERRERO,
+Valle De Zaragoza,
 
-IGNACIO ZARAGOZA,
+Aquiles Serdán, Satevo,
 
-BACHINIVA, CUSIHUIRIACHI,
+Moris, López, Santa Isabel,
 
-VALLE DE ZARAGOZA,
+Julimes, Matamoros,
 
-AQUILES SERDAN, SATEVO,
+Nonoava, San Francisco
 
-MORIS, LOPEZ, SANTA ISABEL,
+de Conchos, Matachi,
 
-JULIMES, MATAMOROS,
+Galeana, La Cruz,
 
-NONOAVA,
+Coyame Del Sotol,
 
-SAN FRANCISCO DE CONCHOS,
+Dr. Belisario Domínguez,
 
-MATACHI, GALEANA, LA CRUZ,
+Manuel Benavides, Gran
 
-COYAME DEL SOTOL,
+Morelos, Rosario,
 
-DR. BELISARIO DOMINGUEZ,
+Maguarichi, San Francisco
 
-MANUEL BENAVIDES, GRAN MORELOS,
+de Borja, Huejotitan
 
-ROSARIO, MAGUARICHI,
-
-SAN FRANCISCO DE BORJA, HUEJOTITAN
-
-Y EL TULE.
+y El Tule.
 
 Los montos que resulten de la formula anterior, se considerarán sin incluir el Impuesto al Valor Agregado.
 
@@ -1097,7 +1091,7 @@ El salario mínimo general vigente (SMGV) será el que corresponda a la zona eco
 
 La opción que ejerzan deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para la Entidad, Dependencia u Organismo respectivo. En el dictamen que al efecto se emita, deberán acreditar, de entre los criterios mencionados, aquellos en que se funde el ejercicio de la opción, considerando el monto del contrato y la naturaleza de la obra o servicio.
 
-En el caso de Dependencias y Organismos Estatales, y en el caso las Municipales que ejerzan recursos estatales, a más tardar el último día hábil de cada mes enviaran a la Contraloría y a la Secretaria y, en su caso, al Organo de Gobierno respectivo, un informe, acompañando copia del dictamen aludido en el párrafo anterior.
+En el caso de Dependencias y Organismos Estatales, y en el caso las Municipales que ejerzan recursos estatales, a más tardar el último día hábil de cada mes enviaran a la Contraloría y a la Secretaria y, en su caso, al Órgano de Gobierno respectivo, un informe, acompañando copia del dictamen aludido en el párrafo anterior.
 
 ###### ARTICULO 80.
 
@@ -1458,3 +1452,9 @@ P.O. 30 DE JULIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ENERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
