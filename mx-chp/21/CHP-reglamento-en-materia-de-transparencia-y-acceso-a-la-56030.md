@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-en-materia-de-transparencia-y-acceso-a-la-56030"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-11"
-last_updated: "2008-02-13"
+last_updated: "2009-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 11 de abril de 2007.
 
@@ -75,7 +75,7 @@ Acuerdo
 
 Primero.- Se aprueba en todos sus términos el "Reglamento en Materia de Transparencia y Acceso a la Información Pública del Instituto Estatal Electoral de Chiapas", que a la letra dice:
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO POR EL QUE SE REFORMAN, MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO, CON EXCEPCIÓN DE LOS ARTÍCULOS 5°, 6° Y 9°, DA COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL; DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 13 DE FEBRERO DE 2008.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO POR EL QUE SE REFORMAN, MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO, CON EXCEPCIÓN DE LOS ARTÍCULOS 5°, 6° Y 9°, DA COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL; DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 14 DE ENERO DE 2009.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE FEBRERO DE 2008)</small>
 
@@ -89,55 +89,37 @@ Primero.- Se aprueba en todos sus términos el "Reglamento en Materia de Transpa
 
 ### Capítulo I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 1°.
 
-Las disposiciones del presente Reglamento son de orden público y de observancia general para todas las instancias que conforman el Instituto de Elecciones y Participación Ciudadana. Tiene por objeto establecer los dispositivos, criterios y procedimientos institucionales para garantizar a todas las personas el acceso a la información del Instituto de Elecciones y Participación Ciudadana.
+Las disposiciones del presente Reglamento son de orden público y de observancia general para todas las instancias que conforman el Instituto de Elecciones y Participación Ciudadana y los partidos políticos. Tiene por objeto establecer los dispositivos, criterios y procedimientos institucionales para garantizar a toda persona el acceso a la información pública en posesión del Instituto de Elecciones y Participación Ciudadana y de los partidos políticos.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 2°.
-
-El Instituto de Elecciones y Participación Ciudadana de Chiapas tiene, en materia de transparencia y acceso a la información, los siguientes objetivos:
-
-I.- Proveer lo necesario para que toda persona física o moral pueda tener acceso a la información pública que genera, administra o posee el Instituto, mediante procedimientos sencillos y expeditos;
-
-II.- Transparentar la gestión pública mediante la difusión de la información generada en los términos y con las limitaciones establecidas en la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas, y en este instrumento;
-
-III.- Garantizar la protección de la información clasificada como reservada, parcialmente reservada y confidencial en los términos establecidos en la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas, y el presente instrumento;
-
-IV.- Fortalecer el sistema de rendición de cuentas a los ciudadanos, de manera que éstos puedan valorar el desempeño del Instituto;
-
-V.- Mejorar la organización, clasificación y manejo de los documentos en posesión del Instituto; y,
-
-VI.- Contribuir al desarrollo democrático, al fortalecimiento del Estado de derecho, a la transparencia de la función pública y a la rendición de cuentas de los servidores públicos electorales del Estado de Chiapas.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2008)</small>
-
-###### Artículo 3°.
 
 Para los efectos del presente reglamento se entenderá por:
 
 I.- Ley: La Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas;
 
-II.- Derogado;
+II.- Código: El Código de Elecciones y Participación Ciudadana;
 
-III.- Código: El Código Electoral del Estado de Chiapas;
+III.- Reglamento Interno: El Reglamento Interno del Instituto de Elecciones y Participación Ciudadana;
 
 IV.- Reglamento: El Reglamento en materia de Transparencia y Acceso a la Información Pública del Instituto de Elecciones y Participación Ciudadana;
 
-V.- Instituto: El Instituto de Elecciones y Participación Ciudadana;
+V.- Instituto: El Instituto de Elecciones y Participación ciudadana;
 
 VI.- Consejo General: El Consejo General del Instituto de Elecciones y Participación Ciudadana;
 
 VII.- Comité: El Comité de Transparencia y Acceso a la Información Pública del Instituto de Elecciones y Participación Ciudadana;
 
-VIII.- Unidad de Acceso a la Información Pública o Unidad de Acceso: Es la Dirección de Documentación y Acceso a la Información Pública del Instituto de Elecciones y Participación Ciudadana;
+VIII.- Unidad de Acceso: La Unidad de Transparencia y Acceso a la Información Pública del Instituto de Elecciones y Participación Ciudadana;
 
-IX.- Coordinación: La Coordinación de Planeación, Auditoria y Evaluación del Instituto de Elecciones y Participación Ciudadana;
+IX.- Contraloría: Contraloría Interna del Instituto de Elecciones y Participación Ciudadana;
 
-X.- Coordinación: La Coordinación de Planeación, Auditoria y Evaluación del Instituto de Elecciones y Participación Ciudadana;
+X.- Derecho de Acceso a la Información Pública: La prerrogativa que tiene toda persona física o moral para acceder a la información pública de manera gratuita, salvo los costos generados por la reproducción y/o gastos de envío del material que contenga la información solicitada, sin necesidad de identificarse plenamente, acreditar interés alguno o justificar su utilización, así como sin más limitaciones que las expresamente prevista en la Ley;
 
 XI.- Solicitante: Toda persona física o moral que presente por escrito, en forma verbal o por medios electrónicos una petición de acceso a la información pública del Instituto de Elecciones y Participación Ciudadana;
 
@@ -145,37 +127,75 @@ XII.- Clasificación: Acto por el cual se establece qué la información del Ins
 
 XIII.- Desclasificación: Acto por el cual se determina la publicidad de un documento que anteriormente fue clasificado como reservado o parcialmente reservado;
 
-XIV.- Datos Personales: Toda información sobre una persona física identificada o identificable mediante números, signos, uno o varios elementos específicos, característicos de su identidad física, moral, emocional, fisiológica, psíquica, económica, cultural, étnica, racial, social o relacionada con su vida afectiva y familiar, estado civil, domicilio, número telefónico, patrimonio, ideología y opiniones o convicciones políticas, creencias religiosas o filosóficas, preferencias u orientación sexual, así como cualquier otra análoga que afecte su privacidad e intimidad;
+XIV.- Datos personales: Toda información sobre una persona física identificada o identificable mediante números, signos, uno o varios elementos específicos, característicos de su identidad física, moral, emocional, fisiológica, psíquica, económica, cultural, étnica, racial, social o relacionada con su vida afectiva y familiar, estado civil, domicilio, número telefónico, patrimonio, ideología y opiniones o convicciones políticas, creencias religiosas o filosóficas, preferencias u orientación sexual, así como cualquier otra análoga que afecte su privacidad e intimidad;
 
 XV.- Protección de Datos Personales: La obligación del Instituto de Elecciones y Participación Ciudadana de resguardar el derecho relativo a la tutela de la confidencialidad de los datos personales que se encuentren en su poder;
 
-XVI.- Información Pública: La contenida en documentos que haya sido generada, recabada, obtenida, adquirida, transformada, conservada y/o administrada por el Instituto de Elecciones y Participación Ciudadana, en el ejercicio de sus actividades, funciones, atribuciones o facultades y que se encuentre bajo su conservación, custodia, resguardo, posesión o control, en los archivos de trámite, concentración, muerto o inactivo e histórico, siempre y cuando no esté clasificada como reservada o confidencial;
+XVI.- Información pública: La contenida en documentos que haya sido generada, recabada, obtenida, adquirida, transformada, conservada y/o administrada por el Instituto de Elecciones y Participación Ciudadana, en el ejercicio de sus actividades, funciones, atribuciones o facultades y que se encuentre bajo su conservación, custodia, resguardo, posesión o control, en los archivos de tramite, concentración, muerto o inactivo e histórico, siempre y cuando no esté clasificada como reservada o confidencial;
 
-XVII.- Información Reservada: La información pública clasificada que temporalmente no puede darse a conocer al público por disposición expresa de la
+XVII.- Información reservada: La información pública clasificada que temporalmente no puede darse a conocer al público por disposición expresa de la Ley;
 
-Ley;
-
-XVIII.- Información Confidencial: La información clasificada en poder del Instituto de Elecciones y Participación Ciudadana que contenga datos personales y la considerada con ese carácter por cualquier otra legislación, cuyo manejo y divulgación este protegida por el derecho fundamental a la privacidad y que haya sido circunscrita únicamente a los servidores públicos que la deban conocer en razón del ejercicio de sus funciones;
+XVIII.- Información confidencial: La información clasificada en poder del Instituto de Elecciones y Participación Ciudadana que contenga datos personales y la considerada con ese carácter por cualquier otra legislación, cuyo manejo y divulgación este protegida por el derecho fundamental a la privacidad y que haya sido circunscrita únicamente a los servidores públicos que la deban conocer en razón del ejercicio de sus funciones;
 
 XIX.- Documentos: Los expedientes, escritos, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, tarjetas, memorandos, estadísticas, mapas, cartas geográficas, o bien, cualquier otro registro que documente información sobre el ejercicio de las facultades o la actividad del Instituto, y de sus servidores públicos sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, sea escrito, impreso, sonoro, visual, electrónico, grabado, fotográfico, informático, holográfico o cualquier otro elemento técnico que tenga ese carácter y que haya sido creado u obtenido por los sujetos obligados;
 
 XX.- Expediente: Una serie ordenada de datos, documentos o cualquier elemento informativo inherente a la función del Instituto;
 
-XXI.- Lineamientos o Criterios Generales: Toda disposición administrativa, reglamentación, bases técnicas o, normas y políticas expedidas por el Instituto de Acceso a la Información Pública de la Administración Pública Estatal;
+XXI.- Lineamientos o criterios generales: Toda disposición administrativa, reglamentación, bases técnicas o, normas y políticas expedidas por el Instituto de Acceso a la Información Pública de la Administración Pública Estatal;
 
 XXII.- Publicación: La reproducción en medios electrónicos o impresos de información contenida en documentos para su conocimiento público;
 
 XXIII.- Recomendaciones: Las opiniones propuestas, sugerencias, comentarios y otros actos que emite el Instituto de Acceso a la Información Pública de la Administración Pública Estatal;
 
+XXIV.- Unidades de enlace: Las áreas directivas, ejecutivas, administrativas, operativas y técnicas, así como los Consejos Distritales y Municipales Electorales del Instituto de Elecciones y Participación Ciudadana y los partidos políticos que de acuerdo con la normatividad interna generan, administran y posean información de acuerdo con sus atribuciones, siendo las responsables de dar trámite a las solicitudes de acceso a la información pública y de acceso o corrección de datos personales que a la misma se dirijan, y de entregar la información a través de los servidores públicos de la Unidad de Acceso a la Información Pública;
+
+XXV.- Portal de Transparencia o Portal: El portal o pagina de Internet del Instituto de Elecciones y Participación Ciudadana, divulgará o publicará la información pública de oficio u obligatoria que le corresponda, así como todas las solicitudes de acceso a la información que se le presenten y las propuestas correspondientes a cada una de ellas, siendo este medio una vía o forma adecuada de notificación
+
+XXVI.- Medios Electrónicos: Los sistemas informáticos o computacionales a través de los cuales se podrá presentar las solicitudes de acceso a la información pública, de acceso, rectificación y/o protección de datos personales y el recurso de revisión, si fuera el caso. Los medios electrónicos se encontrarán en la Unidad de Acceso a la Información Pública, serán administrados por ella y cualquier persona podrá tener acceso a ella en calidad de usuarios, a través del Portal de Transparencia;
+
+XXVII.- Recurso: Al recurso de revisión;
+
+XXVIII.- Recurrente: Solicitante que impugna mediante el recurso de revisión, los actos o resoluciones de las unidades de enlace, del Comité y de la Unidad de Acceso a la Información Pública;
+
+XXIX.- Estrados: A la plataforma que se instalará en un lugar público visible que se encontrara en el Instituto de Elecciones y Participación Ciudadana, para dar a conocer las notificaciones que se realicen a los solicitantes;
+
+XXX.- Transparencia: El acto que consiste en abrir la información Pública del Instituto de Elecciones y Participación Ciudadana, al escrutinio público, de manera clara, veraz, oportuna y suficiente, mediante sistemas de clasificación y difusión;
+
+XXXI.- Información Pública de Oficio u obligatoria: La información pública que el Instituto de Elecciones y Participación Ciudadana y los partidos políticos, deberán proporcionar, actualizar y poner a disposición del público de manera permanente a través del portal de transparencia, sin que medie o se presente solicitud alguna para procurar una adecuada rendición de cuentas;
+
+XXXII.- Información Parcialmente Reservada: La información pública que contenga una o varias partes que se clasifiquen como reservadas y otras que no tengan ese carácter;
+
+XXXIII.- Seguridad Estatal: Las acciones destinadas a proteger la integridad, estabilidad y permanencia del Estado Libre y Soberano de Chiapas, así como la gobernabilidad democrática y la seguridad interior del Instituto, orientadas al bienestar general de la sociedad, que permitan el cumplimiento de los fines del Estado;
+
 XXXIV.- Solicitud de Acceso, Rectificación y/o Protección de Datos Personales: El ejercicio del titular de los datos personales para acceder, actualizar, corregir, rectificar, suprimir, o mantener la confidencialidad de dicha información;
 
 XXXV.- Servidor Público: La persona física que desempeñe algún empleo, cargo o comisión de cualquier naturaleza, en el Instituto de Elecciones y Participación Ciudadana;
 
-XXXVI.- Enlace Operativo: Personal de plantilla, adscrito a cada una de las Unidades de Enlace del Instituto quienes serán designados por el Titular de las mismas y apoyarán en la coordinación, atención, seguimiento y control de las respuestas de solicitudes que reciban de la Unidad de Acceso a la Información Pública;
+XXXVI.- Enlace del partido: La persona física que desempeñe algún empleo, cargo o comisión de cualquier naturaleza en el partido político designado por el representante acreditado ante el Consejo General del Instituto de Elecciones y Participación Ciudadana para apoyar en la coordinación, atención, seguimiento y control de las respuestas de solicitudes que reciba la Unidad de Acceso a la Información Pública;
 
-XXXVII.- Sujetos Obligados: Son todos aquellos a que se refiere el artículo 2°, de la Ley; y,
+XXXVII.- Enlace operativo: Personal adscrito a cada una de las Unidades de Enlace del Instituto quienes serán designados por el Titular de las mismas y apoyarán en la coordinación, atención, seguimiento y control de las respuestas de solicitudes que reciban de la Unidad de Acceso a la Información Pública;
 
-XXXVIII.- Lineamientos o Criterios Específicos: Los actos administrativos de carácter obligatorio y general emitidos por el Comité de Transparencia y Acceso a la Información Pública del Instituto de Elecciones y Participación Ciudadana, que no podrán contravenir los lineamientos o criterios generales.
+XXXVlII.- Sujetos Obligados: son todos aquellos a que se refieren los artículos 2° de la Ley y 74 del Código; y,
+
+XXXIX.- Lineamientos o criterios específicos: Los actos administrativos de carácter obligatorio y general emitidos por el Comité de Transparencia y Acceso a la Información Pública del Instituto de Elecciones y Participación Ciudadana, que no podrán contravenir los lineamientos o criterios generales.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
+
+###### Artículo 3°.
+
+El Instituto de Elecciones y Participación Ciudadana de Chiapas tiene, en materia de transparencia y acceso a la información, los siguientes objetivos:
+
+I.- Proveer lo necesario para que toda persona física o moral pueda tener acceso a la información pública que genera, administra o posee el Instituto, y a la información obligatoria de los partidos políticos, en el ámbito de su competencia, mediante procedimientos sencillos y expeditos;
+
+II.- Transparentar la gestión pública mediante la difusión de la información generada en los términos y con las limitaciones establecidas en la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas y en este instrumento;
+
+III.- Garantizar la protección de la información clasificada como reservada, parcialmente reservada y confidencial en los términos establecidos en la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas, el Código de Elecciones y Participación Ciudadana y el presente instrumento;
+
+IV.- Fortalecer el sistema de rendición de cuentas a los ciudadanos, de manera que éstos puedan valorar el desempeño del Instituto de Elecciones y Participación Ciudadana;
+
+V.- Mejorar la organización, clasificación y manejo de los documentos en posesión del Instituto de Elecciones y Participación Ciudadana; y,
+
+VI.- Contribuir al desarrollo democrático, al fortalecimiento del Estado de derecho, a la transparencia de la función pública y a la rendición de cuentas de los servidores públicos electorales del Estado de Chiapas y de los partidos políticos.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2008)</small>
 
@@ -187,11 +207,11 @@ I.- La información pública, esta sujeta a la máxima publicidad, salvo en los 
 
 II.- El acceso a la información pública es gratuito, sin embargo el costo de la reproducción de la información correrá a cargo del solicitante, en los términos establecidos en la Ley y en este Reglamento.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 5°.
 
-Corresponde al Consejo General, al Comité, a la Unidad de Acceso a la Información Pública y a la Coordinación, velar por el cumplimiento del presente reglamento.
+Corresponde al Consejo General, al Comité, a la Unidad de Acceso y a la Contraloría, velar por el cumplimiento del presente reglamento.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 2008)</small>
 
@@ -213,6 +233,8 @@ Para los efectos del presente reglamento, el cómputo de los plazos se hará tom
 
 Para efectos de la recepción de solicitudes de acceso a la información pública por medios electrónicos, cuando se presenten después de las dieciséis horas se tomará como fecha de recepción la correspondiente al día hábil siguiente.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
+
 ###### Artículo 9°.
 
 En los términos de la Ley, el Instituto coadyuvará con el Instituto de Acceso a la Información Pública, para capacitar y actualizar de forma permanente a sus servidores públicos en materia del derecho de acceso a la información pública y en el ejercicio del derecho a la protección de datos personales a través de diplomados, cursos, seminarios, talleres, conferencias y toda otra forma de enseñanza o capacitación que el Comité considere pertinente.
@@ -223,19 +245,19 @@ La Unidad de Acceso, podrá coordinar acciones, compartir experiencias y firmar 
 
 ### Capítulo II. De las Obligaciones en Materia de Transparencia
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 10.
 
-Para la difusión permanente de la información pública de oficio u obligatoria del Instituto se diseñará, programará e implementará un portal de Transparencia, en el cual de acuerdo a sus fines y facultades, sin que medie solicitud de parte, además de la información enumerada en el artículo 37, de la Ley, se difundirá la siguiente:
+Para la difusión permanente de la información pública de oficio u obligatoria del Instituto y de los partidos políticos se diseñará, programará e implementará un Portal de Transparencia, en el cual de acuerdo a sus fines y facultades, sin que medie solicitud de parte, además de la información enumerada en los artículos 37 de la Ley y 75 del Código, se difundirá la siguiente:
 
-I.- Las normas jurídicas que regulen los procesos electorales en el Estado de Chiapas, la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas y los reglamentos aprobados por el Consejo General;
+I.- Las normas jurídicas que regulen los procesos electorales en el Estado de Chiapas y los procedimientos de participación ciudadana que son competencia del Instituto, la Ley y los reglamentos aprobados por el Consejo General;
 
 II.- Los acuerdos, dictámenes, resoluciones, circulares, procedimientos, lineamientos y demás normatividad emitida o aprobada por el Consejo General, así como los resultados preliminares y finales de cada elección;
 
 III.- Los informes que hayan sido presentados ante el Consejo General por las Unidades de Enlace;
 
-IV.- Las actas de las sesiones aprobadas del Consejo General;
+IV. - Las actas de las sesiones aprobadas del Consejo General;
 
 V.- El plan rector, las políticas, programas generales y particulares del Instituto;
 
@@ -243,25 +265,25 @@ VI.- Las metas y objetivos del Instituto, de conformidad con sus políticas y pr
 
 VII.- El proyecto de orden del día de las sesiones del Consejo General, a partir de la convocatoria;
 
-VIII.- El nombre de la Unidad de Acceso a la Información pública, su domicilio oficial, dirección electrónica, horarios de atención al público y su número telefónico; y,
+VIII.- El nombre de la Unidad de Acceso, su domicilio oficial, dirección electrónica, horarios de atención al público y su número telefónico; y,
 
 IX.- Los requisitos y formatos necesarios para realizar trámites en materia de transparencia y acceso a la información pública ante el Instituto.
 
 Si por razones técnicas o por su volumen, no fuere posible consultar en línea, en el Portal de Transparencia, la totalidad de los documentos enunciados en este artículo, con todo y sus anexos, se publicará un aviso en dicho Portal, indicándose el procedimiento a seguir para su consulta.
 
-El portal será administrado por la Unidad de Acceso a la Información Pública con el apoyo y soporte Técnico del área de Informática de este Organismo Electoral, previa autorización del Secretario Ejecutivo.
+El Portal será administrado por la Unidad de Acceso con el apoyo y soporte técnico de la Unidad de Informática de este Instituto, previa autorización del Secretario Ejecutivo.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 11.
 
-Las Unidades de Enlace, serán las responsables de proporcionar a la Unidad de Acceso, la información pública de oficio u obligatoria que les aplique, de conformidad con la competencia y atribuciones que sobre la misma ejerzan. La Unidad de Acceso recabará dicha información y la remitirá al área de Informática para cu colocación en el Portal.
+Las Unidades de Enlace, serán las responsables de proporcionar a la Unidad de Acceso, la información pública de oficio u obligatoria que les aplique, de conformidad con la competencia y atribuciones que sobre la misma ejerzan. La Unidad de Acceso recabará dicha información y la remitirá a la Unidad de Informática para su colocación en el Portal.
 
 La información con carácter obligatorio deberá presentarse de manera clara, sencilla y completa, de forma tal que asegure su calidad, veracidad, oportunidad y confiabilidad.
 
-La Unidad de Acceso y el Comité, deberán vigilar que la información pública de oficio u obligatoria señalada en los artículos 37, de la Ley y 10 de este reglamento, se encuentren en el Portal de manera permanente y que las Unidades de Enlace las estén actualizando en los términos de la Ley y este Reglamento.
+La Unidad de Acceso y el Comité, deberán vigilar que la información pública de oficio u obligatoria señaladas en los artículos 37 de la Ley, 75 del Código y 10 de este reglamento, se encuentren en el Portal de manera permanente y que las Unidades de Enlace y los partidos políticos las estén actualizando en los términos de la Ley, del Código y este Reglamento.
 
-En todos los casos, la información proporcionada por las unidades de enlace deberá incluir el nombre y cargo del servidor público que la generó y la última fecha de su actualización.
+En todos los casos, la información proporcionada por las unidades de enlace y los partidos políticos deberá incluir el nombre y cargo del servidor público o enlace partidista que la generó y la última fecha de su actualización.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
 
@@ -277,11 +299,11 @@ No obstante lo anterior, la información se encontrará disponible en los archiv
 
 La actualización de la información pública de oficio u obligatoria contenida en el Portal de Transparencia se hará cuando las Unidades de Enlace así lo soliciten, todas las actualizaciones que se realicen deberán indicar la fecha en que se llevaron a cabo.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 14.
 
-La Unidad de Acceso podrá requerir en cualquier momento a las Unidades de Enlace, a efecto de mantener permanentemente actualizada la información pública de oficio u obligatoria a que se refiere la Ley y el presente instrumento.
+La Unidad de Acceso podrá requerir en cualquier momento a las Unidades de Enlace, a efecto de mantener permanentemente actualizada la información pública de oficio u obligatoria a que se refiere la Ley, el Código y el presente instrumento.
 
 > <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
 
@@ -323,19 +345,19 @@ III.- Se confirme o modifique la preclasificación de las unidades de enlace.
 
 El Comité al emitir los acuerdos de clasificación específica, deberán cumplir con lo que determine la Ley, el Reglamento y los lineamientos o criterios generales para la clasificación y desclasificación de la información que hayan sido emitidos por el Instituto de Acceso a la Información Pública de la Administración Pública Estatal para el manejo, protección y seguridad de la información pública y los datos personales.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 19.
 
-Si los expedientes o documentos que se encuentren en los archivos contienen información clasificada, podrá difundirse la información que no lo esté, siempre que lo anterior sea técnicamente posible. De lo contrario se restringirá su acceso conforme a lo dispuesto en la Ley.
+Si los expedientes o documentos que se encuentren en los archivos contienen información clasificada, podrá difundirse la información que no lo esté, siempre que lo anterior sea técnicamente posible. De lo contrario se restringirá su acceso conforme a lo dispuesto en la Ley y en el Código.
 
 El Comité emitirá el acuerdo específico que determine la posibilidad o imposibilidad técnica de separar la información pública de la que se encuentre clasificada.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 20.
 
-Todo documento o expediente clasificado, se integrará al índice o catálogo que formará parte de la información pública, previa validación por parte del Comité, el cual deberá remitir a la Unidad de acceso a la Información Pública para su publicación en el Portal de Transparencia.
+Todo documento o expediente clasificado; se integrará al índice o catálogo que formará parte de la información pública, previa validación por parte del Comité, el cual deberá remitir a la Unidad de Acceso para su publicación en el Portal de Transparencia.
 
 Las Unidades de Enlace formarán dos índices o catálogos, uno de información pública obligatoria y otro de la información que se encuentre clasificada, los cuáles deberán ser actualizados cada tres meses, y remitidos a la Unidad de Acceso, a través de los medios que está establezca. Los índices o catálogos deberán contener, según sea el caso, lo siguiente:
 
@@ -353,7 +375,7 @@ VI.- Fundamento legal;
 
 VII.- La clasificación correspondiente;
 
-VIII.- El plazo de reserva; y,
+VIII.- El plazo de reserva; y
 
 IX.- Si existe pronunciamiento de consentimiento de la publicidad de los datos personales.
 
@@ -361,11 +383,11 @@ IX.- Si existe pronunciamiento de consentimiento de la publicidad de los datos p
 
 ### Capítulo II. De la Información Reservada
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 21.
 
-En los términos del artículo 28, de la Ley, será información reservada la siguiente:
+En los términos del artículo 28 de la Ley, será información reservada la siguiente:
 
 I.- Los expedientes que contengan el desahogo de un asunto relacionado con la aplicación de las diferentes normatividades del Instituto y la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, en tanto no causen estado; y las que contengan las opiniones o recomendaciones de los miembros de algún órgano deliberativo del Instituto hasta en tanto no sea adoptada la decisión definitiva;
 
@@ -373,11 +395,11 @@ II.- Los expedientes formados con motivo de los recursos, procedimientos, invest
 
 III.- Los expedientes formados en los procedimientos de determinación e imposición de sanciones por violación a las disposiciones del código y ordenados por el Consejo General;
 
-IV.- Los expedientes de las investigaciones derivadas de auditorías practicadas a las instancias del Instituto y el informe de resultados, hasta en tanto no se concluyan;
+IV. - Los expedientes de las investigaciones derivadas de auditorias practicadas a las instancias del Instituto y el informe de resultados, hasta en tanto no se concluyan;
 
-V.- Aquella información o documentación señaladas en el Código Electoral del Estado, así como las que se generen y cuya difusión pueda causar un serio perjuicio al desarrollo de las actividades del Instituto de Elecciones y Participación Ciudadana; y,
+V.- Aquella información o documentación señaladas en el Código, así como las que se generen y cuya difusión pueda causar un serio perjuicio al desarrollo de las actividades del Instituto de Elecciones y Participación Ciudadana; y,
 
-VI.- Las demás que determine la Ley, los criterios y lineamientos que emita el Instituto de Acceso a la Información Pública Estatal y el Comité.
+VI.- Las demás que determine la Ley, el Código, los criterios y lineamientos que emita el Instituto de Acceso a la Información Pública Estatal y el Comité.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
 
@@ -405,13 +427,13 @@ La información clasificada como reservada podrá tener ese carácter hasta por 
 
 Excepcionalmente, el Comité, de oficio a solicitud de la Unidad de Enlace que propuso la clasificación de la información de que se trate, podrá ampliar el periodo de reserva hasta por un plazo igual, siempre y cuando se justifique que subsiste la causa que dio origen a su clasificación.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 25.
 
-Las solicitudes de ampliación del período de reserva y la procedencia de éstas, podrán ser tantas y cuantas sean necesarias, mientras subsista la causa que dio origen a ello, o bien, se actualice cualquiera de los supuestos previstos en el artículo 29, de la Ley; bastará que la Unidad de Enlace que propuso la clasificación de la información de que se trate, solicite al Comité su ampliación, fundando y motivando la necesidad de la medida.
+Las solicitudes de ampliación del periodo de reserva y la procedencia de éstas, podrán ser tantas y cuantas sean necesarias, mientras subsista la causa que dio origen a ello, o bien, se actualice cualquiera de los supuestos previstos en el artículo 28 de la Ley; bastará que la Unidad de Enlace que propuso la clasificación de la información de que se trate, solicite al Comité su ampliación, fundando y motivando la necesidad de la medida.
 
-Corresponderá a la Unidad de Enlace realizar la solicitud de ampliación al Comité, antes del vencimiento del período de clasificación de la información. Cuando el período de la información clasificada como reservada se hubiere vencido y la Unidad de Enlace que propuso la clasificación omitió indebidamente solicitar la ampliación del período, ello no impedirá en su momento volver a clasificar la información como reservada, pero no eximirá al titular de la Unidad de Enlace que corresponda de la responsabilidad en que incurra por omisión.
+Corresponderá a la Unidad de Enlace realizar la solicitud de ampliación al Comité, antes del vencimiento del periodo de clasificación de la información. Cuando el periodo de la información clasificada como reservada se hubiere vencido y la Unidad de Enlace que propuso la clasificación omitió indebidamente solicitar la ampliación del periodo, ello no impedirá en su momento volver a clasificar la información como reservada, pero no eximirá al titular de la Unidad de Enlace que corresponda de la responsabilidad en que incurra por omisión.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
 
@@ -431,21 +453,21 @@ IV.- Por resolución del Instituto de Acceso a la Información Pública, de conf
 
 ### Capítulo III. De la Información Confidencial
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 27.
 
-En los términos del artículo 33, de la Ley, será información confidencial la siguiente:
+En los términos del artículo 33 de la Ley, será información confidencial la siguiente:
 
 I.- La información que los ciudadanos aporten al Registro Federal de Electores y que por convenio es proporcionada al Instituto por el Instituto Federal Electoral;
 
 II.- Cualquier tipo de información que, a juicio del Comité, comprometa o ponga en riesgo la seguridad del Instituto, de sus servidores públicos, de sus instalaciones, de sus equipos de cómputo y comunicaciones y, en su caso, de los procesos electorales;
 
-III.- Cualquier tipo de información relacionada con las bitácoras y configuración lógica y física de los sistemas de cómputo y comunicaciones; los programas fuente de los sistemas informáticos (electorales y administrativos), así como los esquemas y políticas de seguridad informática;
+III. - Cualquier tipo de información relacionada con las bitácoras y configuración lógica y física de los sistemas de cómputo y comunicaciones; los programas fuente de los sistemas informáticos (electorales y administrativos), así como los esquemas y políticas de seguridad informática;
 
 IV.- Cualquier tipo de información relacionada con los sistemas hidráulicos, electrónicos, de aire acondicionado, planos arquitectónicos y estructurales de las instalaciones y, logística de seguridad del Instituto;
 
-V.- Los datos personales de los funcionarios y empleados del Instituto, de acuerdo a la fracción IV, del artículo 3°, de la Ley;
+V.- Los datos personales de los funcionarios y empleados del Instituto, de acuerdo a la fracción IV del artículo 3°, de la Ley;
 
 VI.- La proporcionada al Instituto por particulares en virtud de un censo o estudio estadístico, misma que sólo podrá usarse para los fines que se proporcionó;
 
@@ -459,9 +481,7 @@ X.- Las medidas de seguridad de las boletas y actas a utilizarse en la jornada e
 
 XI.- El sistema que se utilice para operar el programa de resultados electorales preliminares durante un proceso electoral, y todo lo relativo al mismo; y,
 
-XII.- Las demás que determine la Ley, los criterios y lineamientos que emita el Instituto de Acceso a la Información Pública Estatal y el Comité.
-
-Cuando la Unidad de Acceso a la Información Pública reciba una solicitud de acceso a un expediente o documentos que contengan información confidencial, el Comité deberá requerir al titular de la información su autorización para entregarla, quién tendrá diez días hábiles para responder a partir de la notificación correspondiente. El silencio del titular de la información será considerado como una negativa.
+XII.- Las demás que determine la Ley, el Código, los criterios y lineamientos que emitan el Instituto de Acceso a la Información Pública Estatal y el Comité.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
 
@@ -505,27 +525,27 @@ El Comité deberá dar acceso a las versiones públicas de los expedientes o doc
 
 ### Capítulo I. De la Unidad de Acceso a la Información Pública
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 33.
 
-La Unidad de Acceso a la Información Pública, en términos de la Ley, es la oficina de información, facultada como ventanilla única para recibir las solicitudes presentadas, gestionar y dar respuesta a las mismas.
+La Unidad de Acceso, en términos de la Ley, es la oficina de información, facultada como ventanilla única para recibir las solicitudes presentadas, gestionar y dar respuesta a las mismas.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 34.
 
 Son funciones y atribuciones de la Unidad de Acceso a la Información Pública las siguientes:
 
-I.- Recabar y difundir la información a que se refiere el artículo 37, de la Ley, además de propiciar que las Unidades de Enlace la actualicen periódicamente;
+I.- Recabar y difundir la información a que se refiere el artículo 37 de la Ley, 74; 75 y 76 del Código, además de propiciar que las Unidades de Enlace y los partidos políticos la actualicen periódicamente;
 
-II.- Acatar los lineamientos y criterios expedidos por el Instituto de Acceso a la Información Pública de la Administración Pública Estatal y, por el Comité, atendiendo las recomendaciones en términos de lo establecido en la Ley;
+II.- Acatar los lineamientos y criterios expedidos por el Instituto de Acceso a la Información Pública de la Administración Pública Estatal y por el Comité, atendiendo las recomendaciones en términos de lo establecido en la Ley;
 
 III.- Realizar los trámites necesarios para entregar la información solicitada;
 
-IV.- Notificar a los particulares por correo electrónico, estrados y/o (sic) través del Portal de Transparencia, las determinaciones de complementación, corrección o de ampliación procedentes dictadas con relación a las solicitudes presentadas;
+IV.- Notificar a los particulares por correo electrónico, estrados y/o a través del Portal de Transparencia, las determinaciones de complementación, corrección o de ampliación procedentes dictadas con relación a las solicitudes presentadas;
 
-V.- Preparar las propuestas de clasificación de información, conforme con los lineamientos y criterios expedidos por el Instituto de Acceso a la Información Pública de la Administración Pública Estatal;
+V.- Preparar las propuestas de clasificación de información, conforme con los lineamientos y criterios, expedidos por el Instituto de Acceso a la Información Pública de la Administración Pública Estatal y el Comité;
 
 VI.- Recibir de las Unidades de Enlace los índices o catálogos de información clasificada;
 
@@ -539,11 +559,11 @@ X.- Llevar un registro estadístico de las solicitudes, el que deberá contener,
 
 XI.- Requerir a la Unidad de Enlace respectiva, la información solicitada, para que en un plazo no mayor a quince días hábiles, posteriores a la recepción de la solicitud, le remita el acuerdo de resolución, informando sobre la localización de la información, o bien haciendo del conocimiento la imposibilidad de su entrega;
 
-XII.- En el caso de que el titular de la Unidad de Enlace requerida no cumpla con lo establecido en la fracción que antecede, el responsable de la Unidad de Acceso a la Información Pública enviará un segundo requerimiento en el que fijará la remisión de la resolución, a más tardar al día siguiente del requerimiento, apercibiéndolo de la responsabilidad administrativa a que se puede hacer acreedor en caso de no informar en tiempo y forma, sobre la posibilidad de entregar la información o la imposibilidad para hacerlo;
+XII.- En el caso de que el titular de la Unidad de Enlace requerida no cumpla con lo establecido en la fracción que antecede, el responsable de la Unidad de Acceso enviará un segundo requerimiento en el que fijará la remisión de la resolución, a más tardar al día siguiente del requerimiento, apercibiéndolo de la responsabilidad administrativa a que se puede hacer acreedor en caso de no informar en tiempo y forma, sobre la posibilidad de entregar la información o la imposibilidad para hacerlo;
 
-XIII.- Abstenerse de dar trámite a solicitudes irrespetuosas u ofensivas, o que estén formuladas en un idioma distinto al español, sin la traducción correspondiente;
+VIII (SIC).- Abstenerse de dar trámite a solicitudes irrespetuosas u ofensivas, o que estén formuladas en un idioma distinto al español, sin la traducción correspondiente;
 
-XIV.- Tener a su cargo el archivo general del Instituto;
+XIV.- Tener a su cargo el archivo general y la biblioteca del Instituto;
 
 XV.- Las que sean establecidas mediante circular por el Presidente del Comité, para agilizar el flujo de la información al interior del Instituto;
 
@@ -551,37 +571,43 @@ XVI.- Proporcionar asesoría y apoyo a las Unidades de Enlace y Enlaces Operativ
 
 XVII.- Llevar un control y seguimiento puntual de las solicitudes de acceso a la información pública que se presenten, así como la estadística correspondiente, misma que deberá contemplar el estatus que guardan cada una de las solicitudes;
 
-XVIII.- Elaborar los manuales de procedimientos para el acceso a la información, organización de archivos, manejo de los sistemas electrónicos de actualización de la información obligatoria y de solicitudes de acceso a la información, así como demás normatividades administrativas, en coordinación con las Unidades de Enlace, para eficientar, homogenizar y organizar las acciones relacionadas con la transparencia y el acceso a la información pública; y,
+XVIII.- Elaborar los manuales de procedimientos para el acceso a la información, organización de archivos, manejo de los sistemas electrónicos de actualización de la información obligatoria y de solicitudes de acceso a la información, así como demás normatividades administrativas, en coordinación con las Unidades de Enlace, para eficientar, homogenizar y organizar las acciones relacionadas con la transparencia y el acceso a la información pública;
 
-XIX.- Las demás necesarias para garantizar la transparencia y agilizar el flujo de acceso a la información pública, en los términos que establezcan la Ley, los criterios y lineamientos que emita el Instituto de Acceso a la Información Pública de la Administración Pública Estatal, el presente reglamento y otras disposiciones legales aplicables.
+XIX.- Proveer lo necesario a efecto de observar lo dispuesto en el artículo 74 del Código, relativo a las obligaciones de los partidos políticos en materia de transparencia, actuando, en el ámbito de su competencia, como vínculo entre los solicitantes de información y los instituto políticos, mediante la presentación de solicitudes específicas, en los formatos y de acuerdo a los procedimientos y plazos para desahogarlas que al respecto establezca de manera conjunta con la Comisión de Fiscalización Electoral; y,
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+XX.- Las demás necesarias para garantizar la transparencia y agilizar el flujo de acceso a la información pública, en los términos que establezcan el Código, la Ley, los criterios y lineamientos que emita el Instituto de Acceso a la Información Pública de la Administración Pública Estatal y el Comité, el Reglamento Interno, el presente Reglamento y otras disposiciones legales aplicables, es como las que en el ámbito de su competencia le asigne el Consejero Presidente.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 35.
 
-La Unidad de Acceso a la Información Pública no será responsable cuando la Unidad de Enlace a la que fue turnada la solicitud o petición, no proporcione la información o niegue la misma sin causa justificada. En este supuesto, la Unidad de Acceso a la Información Pública lo hará del conocimiento del Comité para que a su vez de vista a la Coordinación, y ésta de inicio al procedimiento administrativo, en contra del funcionario que haya incumplido con sus obligaciones.
+La Unidad de Acceso no será responsable cuando la Unidad de Enlace a la que fue turnada la solicitud o petición, no proporcione la información o niegue la misma sin causa justificada.
+
+En este supuesto, la Unidad de Acceso lo hará del conocimiento del Comité para que a su vez de vista a la Contraloría, y ésta de inicio al procedimiento administrativo, en contra del funcionario que haya incumplido con sus obligaciones.
+
+Si la Unidad de Enlace es un partido político y este no proporciona la información solicitada por la Unidad de Acceso o niegue la misma sin causa justificada, la Unidad de Acceso lo hará del conocimiento del Comité para que por ese conducto se de vista a la Comisión de Fiscalización Electoral y esta proceda en términos de lo dispuesto por el Código.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2008)</small>
 
 ### Capítulo II. De las Unidades de Enlace
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 36.
 
 Las Unidades de Enlace, estarán a cargo del titular de la misma, y tendrán las siguientes atribuciones y responsabilidades:
 
-I.- Entregar la información solicitada a la Unidad de Acceso (sic) de Acceso a la Información Pública, todas las respuestas, mediante resolución, incluyendo los documentos anexos, protegiendo los datos personales que pudiera contener;
+I.- Entregar la información solicitada a la Unidad de Acceso, todas las respuestas, mediante resolución, incluyendo los documentos anexos, protegiendo los datos personales que pudiera contener;
 
 II.- Revisar los criterios emitidos por el Comité, para determinar si es procedente la entrega de la información solicitada;
 
-III.- Elaborar los índices o catálogos de la información clasificada, así como, la de datos personales y remitirla a la Unidad de Acceso a la Información Pública;
+III.- Elaborar los índices o catálogos de la información clasificada, así como, la de datos personales y remitirla a la Unidad de Acceso;
 
 IV.- Abstenerse de dar trámite a solicitudes ofensivas;
 
-V.- Actualizar la información pública que señala el artículo 37, de la Ley, que en el ámbito de su competencia aplique;
+V.- Actualizar la información pública que señalan los artículos 37 de la Ley y 75 del Código, que en el ámbito de su competencia aplique;
 
-VI.- Tramitar las solicitudes de corrección de datos personales que le remita la Unidad de Acceso a la Información Pública y mantener actualizados los datos personales que generen o posean;
+VI.- Tramitar las solicitudes de corrección de datos personales que le remita la Unidad de Acceso y mantener actualizados los datos personales que generen o posean;
 
 VII.- Coadyuvar en la elaboración de propuestas de clasificación de los documentos públicos, reservados o confidenciales con base en los criterios y lineamientos establecidos por el Instituto de Acceso a la Información Pública y del Comité, y remitirlos para su revisión y aprobación de este último;
 
@@ -597,11 +623,11 @@ XII.- Coordinar y supervisar las acciones tendentes a proporcionar información;
 
 XIII.- Supervisar la aplicación de los criterios en materia de conservación de los documentos administrativos, así como la organización de archivos, de conformidad con los criterios emitidos por el Instituto de Acceso a la Información Pública;
 
-XIV.- Acatar y difundir las disposiciones que establezca la Unidad de Acceso a la Información Pública, en materia de Transparencia y Acceso a la Información;
+XIV.- Acatar y difundir las disposiciones que establezca la Unidad de Acceso, en materia de Transparencia y Acceso a la Información;
 
 XV.- Elaborar las resoluciones de respuesta a las solicitudes y suscribirlas;
 
-XVI.- Designar entre el personal de plantilla adscrito a su área a los servidores públicos que estime necesarios, quienes fungirán como enlace operativo;
+XVI.- Designar entre el personal adscrito a su área a los servidores públicos que estime necesarios, quienes fungirán como enlace operativo;
 
 XVII.- Coordinarse con los enlaces operativos designados, en todo lo relativo a la transparencia y acceso a la información pública;
 
@@ -619,11 +645,11 @@ XXIII.- Observar los lineamientos o criterios generales emitidos por el Institut
 
 XXIV.- Las demás previstas en las disposiciones aplicables en la materia.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 37.
 
-Las Unidades de Enlace estarán vinculadas con la Unidad de Acceso a la Información Pública; en consecuencia, no deberán atender directamente a las personas solicitantes de información pública, salvo que la Unidad de Acceso a la Información Pública así lo haya requerido expresamente.
+Las Unidades de Enlace estarán vinculadas con la Unidad de Acceso; en consecuencia, no deberán atender directamente a las personas solicitantes de información pública, salvo que la Unidad de Acceso así lo haya requerido expresamente.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
 
@@ -635,13 +661,15 @@ Las Unidades de Enlace y los enlaces operativos ejercerán sus funciones respeta
 
 ### Capítulo III. De los Enlaces Operativos
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 39.
 
-Los Enlaces operativos, son los servidores públicos, adscritos a cada una de las Unidades de Enlace del Instituto, quienes serán designados por el Titular de las mismas, entre el personal de plantilla, situación que deberán hacer del conocimiento del responsable de la Unidad de Acceso a la Información Pública.
+Los enlaces operativos, son los servidores públicos, adscritos a cada una de las Unidades de Enlace del Instituto, quienes serán designados por el Titular de las mismas, entre el personal adscrito, situación que deberán hacer del conocimiento del responsable de la Unidad de Acceso.
 
-Los Enlaces Operativos serán los encargados de facilitar los trabajos en materia de transparencia y acceso a la información pública al titular de la Unidad de Enlace y atender sus requerimientos, a fin de que éste pueda remitir, entregar y actualizar en tiempo y forma la información pública con carácter obligatorio a la que se refieren los artículos 37, de la Ley y 10 de este Reglamento, así como elaborar e integrar el índice o catálogo de la información, a partir de la valoración documental de los archivos que las propias Unidades de Enlace llevarán a cabo.
+Los enlaces operativos serán los encargados de facilitar los trabajos en materia de transparencia y acceso a la información pública al titular de la Unidad de Enlace y atender sus requerimientos, a fin de que éste pueda remitir, entregar y actualizar en tiempo y forma la información pública con carácter obligatorio a la que se refieren los artículos 37 de la Ley y 10 de este Reglamento, así como elaborar e integrar el índice o catálogo de la información, a partir de la valoración documental de los archivos que las propias Unidades de Enlace llevarán a cabo.
+
+Los enlaces del partido, serán las personas físicas que desempeñen algún empleo, cargo o comisión de cualquier naturaleza en el partido político mismas que serán designadas por el representante acreditado ante el Consejo General del Instituto para apoyar en la coordinación, atención, seguimiento, control y entrega de las respuestas de solicitudes de información que reciba la Unidad de Acceso. Así como también actualizar en tiempo y forma la información pública a que se refiere el artículo 75 del Código.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
 
@@ -669,13 +697,13 @@ VI.- Elaborar las propuestas de clasificación de la información pública que p
 
 ### Capítulo Único. De su Integración y Funciones
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 41.
 
-El Comité es el órgano normativo interno, encargado de instrumentar las acciones necesarias para cumplir con la Ley, los criterios y lineamientos que emita el Instituto de Acceso a la Información Pública de la Administración Pública Estatal y el presente reglamento.
+El Comité es el órgano normativo interno, con carácter permanente, encargado de instrumentar las acciones necesarias para cumplir con la Ley, los criterios y lineamientos que emita el Instituto de Acceso a la Información Pública de la Administración Pública Estatal y el presente reglamento.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 42.
 
@@ -687,21 +715,21 @@ II.- El titular de la Secretaría Ejecutiva, quien será vocal;
 
 III.- El Consejero Electoral, Presidente de la Comisión Especial de Reglamentos del Consejo General del Instituto de Elecciones y Participación Ciudadana, quien será vocal;
 
-IV.- El titular de la Dirección de Asuntos Jurídicos, quién será vocal;
+IV.- El titular de la Unidad de Asuntos Jurídicos, quién será vocal;
 
-V.- El titular de la Coordinación de Planeación, Auditoria y Evaluación, quien será vocal; y,
+V.- El titular de la Controlaría, quien será vocal; y,
 
-VI.- El titular de la Unidad de Acceso a la Información Pública fungirá como Secretario Técnico del Comité y únicamente tendrá voz.
+VI.- El titular de la Unidad de Acceso fungirá como Secretario Técnico del Comité y únicamente tendrá voz.
 
 El Consejero Presidente del Instituto podrá designar a quién lo sustituya como Presidente del Comité, y este podrá nombrar un suplente, sin perjuicio de que el Consejero Presidente del Instituto pueda actuar por si mismo.
 
-El Presidente del Comité, deberá convocar a sesiones en tiempo y forma remitiendo la documentación respectiva a los demás integrantes para su participación en las mismas. En su ausencia lo hará el Secretario Técnico del Comité.
+El Presidente del Comité, deberá convocar a sesiones en tiempo y forma remitiendo. La documentación respectiva a los demás integrantes para su participación en las mismas, con una anticipación de veinticuatro horas, indicando fecha, hora y lugar en que se llevará a cabo. En su ausencia lo hará el Secretario Técnico del Comité.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 43.
 
-Las funciones de los integrantes del Comité con derecho a voto son indelegables, excepto en año electoral, durante el cual podrán designar a un suplente, quien asumirá las atribuciones del vocal propietario.
+Las funciones de los titulares que integren el" Comité, tendrán el carácter permanente, por lo que podrán nombrar representantes debidamente acreditados y facultados para participar en las sesiones del mismo.
 
 Los integrantes del Comité tendrán la obligación de asistir a las sesiones que éste realice, salvo por causa plenamente justificada ante el mismo, estando obligados a guardar la discreción en los asuntos que conozcan.
 
@@ -717,13 +745,13 @@ El Comité sesionará una vez al mes en forma ordinaria y, a petición de cualqu
 
 El Comité tomará sus decisiones por mayoría de votos. En caso de empate, su Presidente tendrá voto de calidad.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 46.
 
 El Comité tendrá las atribuciones previstas en la Ley, en los criterios y lineamientos que emita el Instituto de Acceso a la Información Pública de la Administración Pública Estatal y las que a continuación se precisan:
 
-I.- Coordinar y supervisar las acciones de la Unidad de Acceso a la Información Pública, así como de las Unidades de Enlace, tendentes a proporcionar la información prevista en la Ley y en este Reglamento;
+I.- Coordinar y supervisar las acciones de la Unidad de Acceso, así como de las Unidades de Enlace, tendentes a proporcionar la información prevista en la Ley, en el Código y en este Reglamento;
 
 II.- Instituir los procedimientos para asegurar la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
 
@@ -735,13 +763,13 @@ V.- Dar seguimiento al cumplimiento de todas y cada una de las obligaciones esta
 
 VI.- Emitir los acuerdos debidamente fundados y motivados que determinen: la posibilidad o imposibilidad de separar la información pública de la parcialmente clasificada, la ampliación del periodo de clasificación de la información reservada, la desclasificación de la información reservada, la clasificación de la información confidencial, así como la ampliación del plazo de entrega de la información por diez días hábiles más al plazo original;
 
-VII.- Instrumentar las acciones necesarias, a efecto de que el Instituto dé cumplimiento a lo dispuesto por el artículo 38, de la Ley;
+VII.- Instrumentar las acciones necesarias, a efecto de que el Instituto de cumplimiento a lo dispuesto por el artículo 38 de la Ley;
 
 VIII.- Elaborar propuestas de normatividad del Instituto en materia de transparencia y acceso a la información;
 
 IX.- Vigilar que la información pública sea incorporada al Portal de Transparencia, y permanezca actualizada y disponible, cuando menos durante el período de su vigencia, en términos de la Ley, de los criterios y lineamientos que emita el Instituto de Acceso a la Información Pública de la Administración Pública Estatal y, del presente reglamento;
 
-X.- Elaborar el proyecto de informe anual a que se refiere el artículo 41, de la Ley y remitirlo oportunamente al Secretario Ejecutivo del Instituto para someterlo a la consideración del Consejo General. Una vez aprobado el informe, será enviado al Instituto de Acceso a la Información Pública de la Administración Pública Estatal;
+X.- Elaborar el proyecto de informe anual a que se refiere el artículo 41 de la Ley y remitirlo oportunamente al Secretario Ejecutivo del Instituto para someterlo a la consideración del Consejo General. Una vez aprobado el informe, será enviado al Instituto de Acceso a la Información Pública de la Administración Pública Estatal;
 
 XI.- Vigilar y atender, en el ámbito de sus funciones, el cumplimiento de las políticas, lineamientos y disposiciones generales en materia de acceso a la información, que emita el Instituto de Acceso a la Información Pública de la Administración Pública Estatal;
 
@@ -755,13 +783,15 @@ XV.- Aprobar el manual de operación de la Unidad de Acceso a la Información P�
 
 XVI.- Aprobar el manual de operación de las Unidades de Enlace, a propuesta del titular de la Unidad de Acceso a la Información Pública;
 
-XVII.- Hacer del conocimiento de la Coordinación, aquellas conductas cometidas por los servidores públicos del Instituto, que con motivo del incumplimiento de la Ley y del presente reglamento, puedan constituir infracciones administrativas;
+XVII.- Hacer del conocimiento de la Contraloría, aquellas conductas cometidas por los servidores públicos del Instituto, que con motivo del incumplimiento de la Ley y del presente reglamento, puedan constituir infracciones administrativas;
 
-XVIII.- Informar cuatrimestralmente al Consejo General, a través del Presidente del Comité, acerca del desarrollo de sus actividades;
+XVIII.- Hacer del conocimiento de la Comisión de Fiscalización Electoral, aquellas conductas cometidas por los partidos políticos, que con motivo del incumplimiento del Código y del presente reglamento, puedan constituir infracciones;
 
-XIX.- Rendir los informes en términos de la Ley, de los criterios y lineamientos que emita el Instituto de Acceso a la Información Pública de la Administración Pública Estatal y del presente reglamento, así como las que le requiera el Consejo General; y,
+XIX.- Informar cuatrimestralmente al Consejo General, a través del Presidente del Comité, acerca del desarrollo de sus actividades;
 
-XX.- Las demás que le sean conferidas por la Ley, los criterios y lineamientos que emita el Instituto de Acceso a la Información Pública de la Administración Pública Estatal y el presente reglamento, el Consejo General y, el Consejero Presidente.
+XX.- Rendir los informes en términos de la Ley, de los criterios y lineamientos que emita el Instituto de Acceso a la Información Pública de la Administración Pública Estatal y del presente reglamento, así como las que le requiera el Consejo General; y,
+
+XXI.- Las demás que le sean conferidas por la Ley, el Código, los criterios y lineamientos que emita el Instituto de Acceso a la Información Pública de la Administración Pública Estatal y el presente reglamento, el Consejo General y, el Consejero Presidente.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
 
@@ -789,19 +819,19 @@ Los acuerdos, resoluciones y lineamientos o criterios específicos que emita el 
 
 ### Capítulo I. Del Procedimiento de Acceso a la Información Pública
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 50.
 
-La información del Instituto que no esté clasificada como reservada, parcialmente reservada o confidencial, podrá ser obtenida o consultada por los solicitantes a través de los medios siguientes:
+La información del Instituto y de los partidos políticos que no esté clasificada como reservada, parcialmente reservada o confidencial, podrá ser obtenida o consultada por los solicitantes a través de los medios siguientes:
 
 I.- En el Portal de Transparencia del Instituto;
 
 II.- En los estrados del Instituto y en el Periódico Oficial de Gobierno del Estado, cuando se haya ordenado su publicación por esos medios;
 
-III.- Personalmente en la Unidad de Acceso a la Información Pública; y,
+II.- Personalmente en la Unidad de Acceso a la Información Pública; y,
 
-IV.- Mediante solicitud presentada ante la Unidad de Acceso a la Información Pública, en los términos de la Ley y del presente reglamento.
+IV.- Mediante solicitud presentada ante la Unidad de Acceso, en los términos de la Ley, el Código y del presente reglamento.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
 
@@ -809,23 +839,25 @@ IV.- Mediante solicitud presentada ante la Unidad de Acceso a la Información P�
 
 Para ejercer el derecho de acceso a la información pública, no es necesario acreditar derechos subjetivos, interés legítimo o las razones que motiven el pedimento.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 52.
 
-Toda persona, tiene derecho a solicitar y recibir información del Instituto. La solicitud podrá hacerse por escrito o a través de medios electrónicos, a menos que las condiciones del solicitante se lo impidan, será verbal, en cuyo caso, el personal adscrito a la Unidad de acceso a la Información Pública, registrará en un formato los requisitos de la solicitud y procederá a entregar una copia del mismo al interesado.
+Toda persona, tiene derecho a solicitar y recibir información del Instituto y de los partidos políticos.
 
-Cuando la solicitud sea por escrito o verbal, deberá de presentarse ante la Unidad de Acceso a la Información Pública; y cuando se realice a través de medios electrónicos, la solicitud se deberá hacer a través del Portal de Transparencia del Instituto.
+La solicitud podrá hacerse por escrito o a través de medios electrónicos, a menos que las condiciones del solicitante se lo impidan, será verbal, en cuyo caso, el personal adscrito a la Unidad de Acceso a la Información Pública, registrará en un formato los requisitos de la solicitud y procederá a entregar una copia del mismo al interesado.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+Cuando la solicitud sea por escrito o verbal, deberá de presentarse ante la Unidad de Acceso; y cuando se realice a través de medios electrónicos, la solicitud se deberá hacer a través del Portal de Transparencia del Instituto.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 53.
 
-La Unidad de Acceso a la Información Pública proporcionará apoyo a los solicitantes que lo requieran, proveyendo todo tipo de asistencia respecto de los trámites y servicios que preste y, brindará el auxilio necesario para el llenado del formato respectivo y para realizar la consulta de la información solicitada.
+La Unidad de Acceso proporcionará apoyo a los solicitantes que lo requieran, proveyendo todo tipo de asistencia respecto de los trámites y servicios que preste y, brindará el auxilio necesario para el llenado del formato respectivo y para realizar la consulta de la información solicitada.
 
 La solicitud que se presente por escrito deberá contener, los siguientes requisitos:
 
-I.- Estar dirigida a la Unidad de Acceso a la Información Pública del Instituto en términos respetuosos y en idioma español, o bien anexar la traducción correspondiente;
+I.- Estar dirigida a la Unidad de Acceso en términos respetuosos y en idioma español, o bien anexar la traducción correspondiente;
 
 II.- Nombre del solicitante;
 
@@ -841,15 +873,15 @@ IV.- Datos generales del representante legal, en caso de que lo hubiera;
 
 V.- Los datos claros y precisos que permitan identificar la información que se requiere;
 
-VI.- Cualquier otro dato que propicie la localización de la información con el objeto de facilitar la búsqueda; y,
+VI.- Cualquier otro dato que propicie la localización de la información con el objeto de facilitar la búsqueda; y
 
-VII.- Modalidad en que prefiere que se otorgue la información, en términos del artículo 17, de la Ley.
+VII.- Modalidad en que prefiere que se otorgue la información, en términos del artículo 17 de la Ley.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 54.
 
-Recibida la solicitud, la Unidad de Acceso a la Información Pública, deberá iniciar el expediente administrativo correspondiente, al cual se le proporcionará un número de folio y se le dará el control y seguimiento necesario hasta la entrega de la información requerida.
+Recibida la solicitud, la Unidad de Acceso, deberá iniciar el expediente administrativo correspondiente, al cual se le proporcionará un número de folio y se le dará el control y seguimiento necesario hasta la entrega de la información requerida.
 
 Cuando se presente por escrito, verbal o medio electrónico, la Unidad de Acceso a la Información Pública, deberá acusar de recibido la solicitud correspondiente.
 
@@ -857,7 +889,7 @@ Los expedientes que se formen con motivo de la solicitud, se facilitarán para c
 
 La Unidad de Acceso a la Información Pública turnará la solicitud a la Unidad de Enlace que corresponda a fin de que ésta localice la información, verifique su clasificación y comunique a la vez la procedencia del acceso a la información y la manera en que ésta se encuentra disponible.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 55.
 
@@ -867,17 +899,17 @@ Toda solicitud de información pública deberá ser resuelta en un plazo no mayo
 
 En caso de que la información solicitada esté clasificada, también se comunicará dicha situación al interesado dentro del término de los veinte días hábiles siguientes a la presentación.
 
-El silencio de la Unidad de Acceso a la Información Pública, no se interpretará como negativa de la solicitud de información, sino como un acto de incumplimiento de obligaciones en el que, en su caso, incurrirán los servidores públicos adscritos a la misma, lo que deberá sancionarse conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y al Estatuto del Servicio Profesional para el Personal del Instituto Estatal Electoral.
+El silencio de la Unidad de Acceso, no se interpretará como negativa de la solicitud de información, sino como un acto de incumplimiento de obligaciones en el que, en su caso, incurrirán los servidores públicos adscritos a la misma, lo que deberá sancionarse conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y al Estatuto del Servicio Profesional para el Personal del Instituto.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 56.
 
-Si la solicitud no es precisa o no contiene los datos requeridos, la Unidad de Acceso a la Información Pública del Instituto, a través del Portal, contará con cinco días hábiles siguientes a la presentación del escrito, para requerir al solicitante dentro de un término igual, complemente o aclare su petición, apercibiéndolo que en caso de no hacerlo, se tendrá por no presentada. Este requerimiento interrumpirá el plazo de 20 días a que se refiere el artículo 20, de la Ley.
+Si la solicitud no es precisa o no contiene los datos requeridos, la Unidad de Acceso, a través del Portal, contará con cinco días hábiles siguientes a la presentación del escrito, para requerir al solicitante dentro de un término igual, complemente o aclare su petición, apercibiéndolo que en caso de no hacerlo, se tendrá por no presentada. Este requerimiento interrumpirá el plazo de 20 días a que se refiere el artículo 20 de la Ley.
 
 En todos los casos se orientará al solicitante respecto del sujeto obligado a quién deba dirigir la solicitud.
 
-Los encargados de proporcionar la información auxiliarán a los particulares en la elaboración de las peticiones de acceso a la información, en los casos en que el solicitante no sepa leer y escribir.
+Los encargados de proporcionar la información auxiliaran a los particulares en la elaboración de las peticiones de acceso a la información, en los casos en que el solicitante no sepa leer y escribir.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
 
@@ -885,11 +917,13 @@ Los encargados de proporcionar la información auxiliarán a los particulares en
 
 De ser procedente la solicitud, la Unidad de Acceso a la Información Pública proporcionará la información tal como se encuentra en sus archivos; en consecuencia no deberá procesarla, resumirla, efectuar cálculos, ni practicar investigaciones, sin que ello implique incumplimiento de sus responsabilidades de Ley.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 58.
 
-En caso de que la Unidad de Enlace respectiva, no encuentre la información solicitada, deberá informar a la Unidad de Acceso a la Información Pública, para que esta a su vez informe al Comité de esta situación. El comité analizará el caso y tomará las medidas pertinentes para localizar la información solicitada y resolverá en consecuencia; procediendo a expedir una resolución que confirme la inexistencia de la información solicitada, la cual será notificada al solicitante.
+En caso de que la Unidad de Enlace respectiva, no encuentre la información solicitada, deberá informar a la Unidad de Acceso, para que esta a su vez informe al Comité de esta situación.
+
+El Comité analizará el caso y tomará las medidas pertinentes para localizar la información solicitada y resolverá en consecuencia; procediendo a expedir una resolución que contiene la inexistencia de la información solicitada, la cual será notificada al solicitante.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2008)</small>
 
@@ -931,11 +965,11 @@ A solicitud de la Unidad de Enlace, dentro de los diez días hábiles siguientes
 
 ### Capítulo II. Del Acceso, Rectificación o Supresión de Datos Personales
 
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 63.
 
-El procedimiento de acceso, rectificación o supresión de datos personales inicia con la presentación de la solicitud, dirigido a la Unidad de Acceso a la Información Pública, en el formato que para tal efecto se determine.
+El procedimiento de acceso, rectificación o supresión de datos personales inicia con la presentación de la solicitud, dirigido a la Unidad de Acceso, en el formato que para tal efecto se determine.
 
 > <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
 
@@ -951,11 +985,11 @@ El expediente que se forme con motivo de la solicitud, será facilitado para con
 
 En caso de fallecimiento de la persona titular de los datos personales, el representante legal de la sucesión podrá solicitar esa información, para lo cual acreditará fehacientemente esa personalidad en términos de las disposiciones legales aplicables.
 
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
-###### Artículo 66.
+###### Artículo 66°.
 
-Una vez recibida la solicitud de rectificación o supresión de datos personales la Unidad de Acceso de la Información Pública, remitirá la misma a la Unidad de Enlace respectiva, la que en caso de tener dicha información deberá determinar la procedencia total o parcial, o la improcedencia de la corrección de los datos personales; hecho lo anterior, deberá enviar su determinación al Comité dentro de los diez días hábiles siguientes a la recepción de la solicitud, para que éste confirme o revoque el mismo, mediante acuerdo debidamente fundado y motivado, contando para ello con cinco días hábiles a partir de la recepción de la determinación de la Unidad de Enlace.
+Una vez recibida la solicitud de rectificación o supresión de datos personales la Unidad de Acceso, remitirá la misma a la Unidad de Enlace respectiva, la que en caso de tener dicha información deberá determinar la procedencia total o parcial, o la improcedencia de la corrección de los datos personales; hecho lo anterior, deberá enviar su determinación al Comité dentro de los diez días hábiles siguientes a la recepción de la solicitud, para que éste confirme o revoque el mismo, mediante acuerdo debidamente fundado y motivado, contando para ello con cinco días hábiles a partir de la recepción de la determinación de la Unidad de Enlace.
 
 En los casos de revocación del acto o resolución, no existirá reenvío para efectos de que se emita nuevamente, sino que el Comité emitirá el acuerdo definitivo y lo enviará a la Unidad de Enlace, para que de cumplimiento inmediato al mismo. La Unidad de Enlace realizará las correcciones de manera inmediata y enviará el acuerdo del Comité a la Unidad de Acceso, para que ésta lo notifique al solicitante.
 
@@ -1005,11 +1039,11 @@ En las solicitudes de modificación o de rectificación, el solicitante deberá 
 
 ### Capítulo Único. Del Procedimiento del Recurso de Revisión
 
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 72.
 
-El solicitante que se considere afectado por los actos y resoluciones del Comité, Unidad de Acceso a la Información Pública o las Unidades de Enlace, con relación a las solicitudes de acceso a la información, por negar, limitar u omitir el acceso a la información pública o a través de los medios electrónicos que ponga a disposición el Instituto, podrán promover el recurso de revisión ante la Unidad de Acceso de la Información Pública, dentro de los diez días hábiles siguientes a la fecha de la notificación, observando para tal efecto las formalidades previstas en la Ley.
+El solicitante que se considere afectado por los actos y resoluciones del Comité, Unidad de Acceso o las Unidades de Enlace, con relación a las solicitudes de acceso a la información, por negar, limitar u omitir el acceso a la información pública o a través de los medios electrónicos que ponga a disposición el Instituto, podrán promover el recurso de revisión ante la Unidad de Acceso, dentro de los diez días hábiles siguientes a la fecha de la notificación, observando para tal efecto las formalidades previstas en la Ley.
 
 > <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
 
@@ -1027,11 +1061,11 @@ IV.- La omisión o el retraso en la entrega; y,
 
 V.- La negativa a efectuar modificaciones o correcciones a los datos personales.
 
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 74.
 
-El recurso podrá presentarse por escrito ante la Unidad de Acceso a la Información Pública o a través de los medios electrónicos, cumpliendo con los siguientes requisitos:
+El recurso podrá presentarse por escrito ante la Unidad de Acceso o a través de los medios electrónicos, cumpliendo con los siguientes requisitos:
 
 I.- Estará dirigido a la Unidad de Acceso a la Información Pública del Instituto;
 
@@ -1039,7 +1073,7 @@ II.- El nombre del recurrente y, en su caso, el de su representante legal que ac
 
 III.- Señalar el medio a través del cual el solicitante pueda recibir notificaciones, mismos que podrán ser:
 
-a).- Por correo electrónico; y/o,
+a).- Por correo electrónico, y/o.
 
 b).- Por estrados del Instituto.
 
@@ -1049,19 +1083,23 @@ V.- Mencionar de manera expresa y clara los hechos en que se funde la impugnaci�
 
 VI.- Adjuntar como anexo copia de la resolución o acto que se impugna y de la notificación correspondiente; cuando se trate de actos que no se resolvieron en tiempo, acompañar la solicitud con que se dio inicio al trámite, señalando la fecha que corresponda.
 
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 75.
 
-Una vez que la Unidad de Acceso a la Información Pública, reciba el recurso, solicitará a la Unidad de Enlace o al Comité, para que en el término de 48 cuarenta y ocho horas a partir de la solicitud correspondiente, rinda un informe, fundado y motivado, en donde justifiquen el acto o resolución que se impugna, así como la documentación que soporte el acto impugnado.
+Una vez que la Unidad de Acceso, reciba el recurso, solicitará a la Unidad de Enlace o al Comité, para que en el término de 48 cuarenta y ocho horas a partir de la solicitud correspondiente, rinda un informe, fundado y motivado, en donde justifiquen el acto o resolución que se impugna, así como la documentación que soporte el acto impugnado.
 
 En caso de que el Comité o la Unidad de Enlace no rindan el informe dentro del plazo establecido, la Unidad de Acceso a la Información Pública, requerirá al responsable de la Unidad de Enlace o del Comité para que remita dicho informe en el término de veinticuatro horas, y de esta manera la Unidad de Acceso pueda remitir al Instituto de Acceso a la Información Pública de la Administración Pública Estatal, por oficio o a través de los medios electrónicos, dentro del término de cinco días hábiles contados a partir del día siguiente al de la recepción del recurso, la siguiente documentación: la interposición del recurso, copia certificada del expediente, así como el informe a que se refiere el párrafo anterior.
 
-Si el Comité o la Unidad de Enlace no envía el informe dentro del término señalado, la Unidad de Acceso le requerirá por segunda ocasión para que remita la información el mismo día del requerimiento, e informará al órgano competente, para que inicie el procedimiento de responsabilidad administrativa previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
+Si el Comité o la Unidad de Enlace no envían el informe dentro del término señalado, la Unidad de Acceso le requerirá por segunda ocasión para que remita la información el mismo día del requerimiento, e informará al órgano competente, para que inicie el procedimiento de responsabilidad administrativa previsto en la
+
+Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
+
+Si la Unidad de Enlace que no envié el informe a que se refiere el párrafo que antecede es un partido político, la Unidad de Acceso lo hará del conocimiento del Comité para que por ese conducto se haga del conocimiento del Instituto de Acceso a la Información Pública de la Administración Pública Estatal y a la Comisión de Fiscalización Electoral a efecto de que procedan en el ámbito de su competencia y de las disposiciones legales aplicables.
 
 Al emitir copias certificadas del expediente, la Unidad de Acceso a la Información Pública deberá conservar el original para su resguardo.
 
-Cuando por alguna circunstancia el recurso se presente ante la Unidad de Acceso a la Información Pública y esta no sea competente, el personal de esta deberá orientar al recurrente para que lo presente ante la Unidad de Acceso a la Información Pública del sujeto obligado que corresponda. Sin que esto interrumpa el término a que se refiere el artículo 46, de la Ley.
+Cuando por alguna circunstancia el recurso se presente ante la Unidad de Acceso a la Información Pública y esta no sea competente, el personal de esta deberá orientar al recurrente para que lo presente ante la Unidad de Acceso a la Información Pública del sujeto obligado que corresponda. Sin que esto interrumpa el término a que se refiere el artículo 46 de la Ley.
 
 > <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
 
@@ -1075,7 +1113,7 @@ II.- Confirmar el acto impugnado; o,
 
 III.- Revocar total o parcialmente el acto impugnado, debiendo precisar la forma y los términos en que la resolución deba cumplirse.
 
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 77.
 
@@ -1087,11 +1125,11 @@ II.- La modificación o revocación del acto impugnado que deje sin materia el r
 
 III.- El fallecimiento del recurrente o, tratándose de personas morales, su disolución;
 
-IV.- Cuando admitido el recurso, aparezca alguna causal de improcedencia en los términos de la Ley; y,
+IV.- Cuando admitido el recurso, aparezca alguna causal de improcedencia en los términos de la Ley; y
 
-V.- Cuando la materia de la impugnación no sea facultad de conocimiento del Comité, de la Unidad de Acceso de la Información Pública o de la Unidad de Enlace.
+V.- Cuando la materia de la impugnación no sea facultad de conocimiento del Comité, de la Unidad de Acceso o de la Unidad de Enlace.
 
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 78.
 
@@ -1105,13 +1143,13 @@ III.- Se recurra una resolución que no haya sido emitida por el Comité, la Uni
 
 IV.- El acto o la resolución impugnados hubiesen sido consentidos expresamente.
 
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 79.
 
 La resolución que ponga fin al recurso deberá constar por escrito debidamente fundada y motivada:
 
-Cuando la solicitud se haya realizado por medios electrónicos, el recurrente tendrá un plazo de tres días naturales para acusar recibo de la resolución; transcurrido el plazo, se le tendrá como legalmente notificado
+Cuando la solicitud se haya realizado por medios electrónicos, el recurrente tendrá un plazo de tres días naturales para acusar recibo de la resolución; transcurrido el plazo, se le tenga como legalmente notificado.
 
 Una vez que la Unidad de Acceso a la Información Pública reciba la notificación de la resolución del recurso que le envíe el Instituto de Acceso a la Información Pública de la Administración Pública Estatal, deberá dar cumplimiento a la misma, en el entendido que de no hacerla, el Instituto de Acceso a la Información Pública de la Administración Pública Estatal podrá ejercer la atribución señalada en la fracción XIII, del artículo 64, de la Ley.
 
@@ -1121,47 +1159,163 @@ Una vez que la Unidad de Acceso a la Información Pública reciba la notificaci�
 
 La persona agraviada, tendrá en todo tiempo el derecho para acudir a los órganos jurisdiccionales para hacer valer lo que a su derecho corresponda. En la resolución del recurso deberán señalarse los medios por los que pueda impugnarse.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ENERO DE 2009)</small>
 
-## Título VII. De los Costos de Reproducción y Gastos de Envío de la Información
+## Título VII. De la Reproducción y/o Envío de la Información
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ENERO DE 2009)</small>
 
-### Capítulo Único. De los Costos de Reproducción y Gastos de Envío de la Información Solicitada al Instituto
+### Capítulo I. De la Reproducción y/o Envío sin Costo
 
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 81.
 
-La consulta de la información pública será gratuita; salvo en lo que se refiere a los costos generados por la reproducción y/o gastos de envío del material que contenga la información solicitada.
+La consulta de la información pública será gratuita, salvo las excepciones establecidas en la Ley, pudiendo acceder a dicha información, de manera gratuita, toda persona que la solicite en las siguientes modalidades:
 
-Cuando los solicitantes requieran que se entregue la información en copias certificadas, deberán acreditar previamente el pago por concepto de derechos establecidos en las Leyes de Ingresos respectivas.
+I.- Por escrito: Documento emitido por el Instituto que será entregado a través de la Unidad de Acceso.
 
-La reproducción de copias simples o elementos técnicos, debe tener un costo directamente relacionado con el material empleado, cuyo pago se hará ante las oficinas de la Dirección Ejecutiva de Administración del Instituto, sin que lo anterior implique lucro a favor del mismo. Los costos por obtener la información no podrán ser superiores al costo de los materiales utilizados en la reproducción de la misma y al costo de envío.
+II.- Consulta directa: Consulta física en la Unidad de Acceso.
 
-Se entregará o se enviará la información pública una vez cubierto el costo correspondiente, cuado éste proceda. Si se solicitara en un medio electrónico, el solicitante podrá proveer a la Unidad de Acceso a la Información Pública, los discos o cintas que para el caso se requieran.
+III.- Por medio de comunicación electrónica: Consulta en un sitio de Internet o envío de la información vía electrónica.
 
-La información reproducida estará a disposición del solicitante en la Unidad de Acceso a la Información Pública durante un plazo de 30 días naturales a partir de la fecha señalada para su entrega, en caso de que el solicitante no acuda durante dicho término por la información respectiva, esta podrá ser destruida previo acuerdo que se emita al respecto.
+IV.- En medio magnético, óptico o electrónico: CD, DVD, diskette, audio casete, video casete, USB, o cualquier otro mecanismo de almacenamiento de información en formato digital, proporcionado por el solicitante.
 
-Fenecido dicho término y en caso de necesitar aún la información, el solicitante deberá cubrir nuevamente el costo correspondiente.
+V.- Teléfono o fax: Con cargo al solicitante ya sea local o foráneo.
 
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
+Tratándose de la entrega o corrección de datos personales, en un medio que genere costos de reproducción o envío, se sujetará al procedimiento de cobro para las solicitudes de acceso a la información previsto en este título.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 82.
 
-A requerimiento formulado por la Unidad de Acceso a la Información Pública, las Unidades de Enlace del Instituto facilitarán al área de informática, con conocimiento del Comité, la información pública que obre en su poder para su incorporación al Portal de Transparencia del Instituto.
+Cuando la información sea solicitada en formato digital, y en ese formato se encuentre en los archivos del área correspondiente, las Unidades de Enlace o los Enlaces Operativos, la remitirán a la Unidad de Acceso a través de la red interna, o en el medio de almacenamiento proporcionado por la Unidad de Acceso.
 
-Esta información deberá incorporarse al Portal de Transparencia a más tardar dentro de los treinta días siguientes a la fecha de su generación o modificación. Para estos efectos, la Unidad de Acceso a la Información Pública se apoyará con el área de informática del Instituto.
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2009)</small>
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 2008)</small>
+### Capítulo II. De la Reproducción y/o Envío con Costo
 
-### Capítulo Único. De las Responsabilidades
-
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
 
 ###### Artículo 83.
 
-Además de las previstas en el artículo 45, de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, son causas de responsabilidad administrativa de los servidores públicos de este organismo electoral, por incumplimiento de las obligaciones establecidas en la Ley y este Reglamento, las siguientes:
+Los costos para obtener la información, en un formato que implique un gasto específico, no podrán ser superiores al costo de los materiales utilizados en la reproducción de la misma y al costo del envío.
+
+En este sentido implicará costo la reproducción y/o envío de la información en las siguientes modalidades:
+
+I.- Copias simples.
+
+II.- Copias certificadas.
+
+III.- En medio magnético, óptico o electrónico: CD, DVD, diskette, audio casete, video casete, USB, o cualquier otro mecanismo de almacenamiento de información en formato digital, proporcionado por el Instituto.
+
+IV. - Envío de la información a través de servicio de mensajería.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
+
+###### Artículo 84.
+
+Para la recuperación de los costos de los materiales utilizados en el proceso de respuesta a las solicitudes de acceso a la información, se procederá conforme a lo previsto en la fracción VI del artículo 4 de la Ley, por lo que la reproducción y/o envío correrá a cargo del solicitante en los siguientes términos:
+
+I.- Copia simple, por hoja. $ 01.00
+
+II.- Expedición de copia impresa a color, por hoja. $ 05.00
+
+III.- Fotografía o Impresión de documento,
+
+Por cada hoja. $ 10.00
+
+IV.- Medios magnéticos, por unidad:
+
+a) Disco compacto (CD o DVD). $12.00
+
+b) Disco de 3 ½. $ 06.00
+
+c) Audio casete. $ 10.00
+
+d) Video casete $ 32.00
+
+V.- Derecho por certificación de documentos
+
+Expedidos por el Instituto. $ 3.0 SMGVE
+
+a) Por cada hoja adicional. $ 01.00
+
+VI.- Envío por correo mensajería a través del
+
+servicio que el solicitante decida o del Servicio
+
+Postal Mexicano Tarifa establecida por
+
+El prestador del servicio
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2009)</small>
+
+###### Artículo 85.
+
+Los solicitantes que proporcionen el material en el que se reproducirá la información pública, quedarán exentos del pago previsto en el artículo que antecede.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2009)</small>
+
+###### Artículo 86.
+
+Salvo en el caso de las copias certificadas, los costos referidos en el artículo 84, de este Reglamento, no podrán rebasar el de los materiales utilizados para la reproducción de la información.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2009)</small>
+
+###### Artículo 87.
+
+El envío de la información solicitada, podrá realizarse por correo certificado o mensajería a través del servicio que el solicitante decida o del Servicio Postal Mexicano, con acuse de recibo, siempre y cuando el o los solicitantes hayan cubierto o cubran el servicio respectivo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE ENERO DE 2009)</small>
+
+### Capítulo III. Del Procedimiento del Cobro
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2009)</small>
+
+###### Artículo 88.
+
+En caso de que la información se encuentre en los archivos del Instituto en un formato distinto al solicitado, las Unidades de Enlace harán del conocimiento de la Unidad de Acceso tal situación, sin reproducir los documentos que la contengan, hasta en tanto no reciban la solicitud expresa por parte de la Unidad de Acceso, la cual previa notificación al solicitante y acreditación del pago correspondiente, lo requerirá a la Unidad de Enlace.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2009)</small>
+
+###### Artículo 89.
+
+Si la información solicitada esta disponible en el Instituto y esta implica costo de reproducción y/o envío, una vez efectuado el cálculo, la Unidad de Acceso notificará al solicitante tal situación y le entregará la orden de pago debidamente requisitada, que deberá contener entre otros datos: el número de la solicitud, nombre del solicitante, concepto que se cobra, cantidad de hojas a reproducir, imprimir y/o certificar, en su caso la cantidad y descripción de los medios magnéticos, ópticos o electrónicos a utilizar, monto a pagar, procedimiento de pago, fecha de expedición y firma del servidor público responsable del trámite, para que en el término de treinta días hábiles efectúe el pago.
+
+Una vez hecha la notificación, a que se refiere el párrafo anterior, se interrumpirá el plazo a que se refiere el artículo 20 de la Ley, hasta que sea cubierto dicho costo, computándose de nueva cuenta a partir del día hábil siguiente a aquél en que presente el comprobante de pago de los derechos correspondientes ante la Unidad de Acceso.
+
+Si el solicitante manifiesta su negativa o no da contestación a la notificación, dentro del término de treinta días hábiles, la Unidad de Acceso concluirá el expediente y lo enviará al archivo.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2009)</small>
+
+###### Artículo 90.
+
+La Dirección Ejecutiva de Administración, a través del Departamento de Recursos Financieros, será la única área del Instituto, facultada para recibir el cobro de los costos de reproducción de la información, efectuado de manera directa en sus oficinas, para lo cual recibirá el pago y entregará al solicitante el recibo correspondiente en original y copia, que deberá presentar a la Unidad de Acceso, para el trámite procedente.
+
+Asimismo el pago podrá ser efectuado, a través de depósito bancario a la cuenta destinada para tal efecto, en este último supuesto, una vez realizado el pago ante la institución bancaria el solicitante lo remitirá a la Unidad de Acceso con el propósito de darle seguimiento al trámite, ante la Dirección Ejecutiva de Administración y ante la Unidad de Enlace correspondiente.
+
+El envío de la ficha bancaria podrá hacerse directamente, a través de fax, o correo electrónico dirigido a la Unidad de Acceso, la cual, le indicará al peticionario la fecha en que estará a su disposición la información solicitada, e indicará a la Unidad de Enlace respectiva, que puede proceder a la reproducción de la misma.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2009)</small>
+
+###### Artículo 91.
+
+Para cualquier caso no previsto en el presente Título, se estará a lo dispuesto en la Ley, en el Código y demás disposiciones legales aplicables en materia de transparencia y derecho a la información pública.
+
+(REUBICADO CON EL CAPITULO QUE LO INTEGRA, P.O. 14 DE ENERO DE 2009)
+
+## Título VIII. De las Responsabilidades y Sanciones Administrativas en Materia de Acceso a la Información Pública
+
+(REUBICADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE ENERO DE 2009)
+
+### Capítulo Único. De las Responsabilidades
+
+(REUBICADO, ANTES ARTICULO 83, P.O. 14 DE ENERO DE 2009)
+
+###### Artículo 92.
+
+Además de las previstas en el artículo 45 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, son causas de responsabilidad administrativa de los servidores públicos de este organismo electoral, por incumplimiento de las obligaciones establecidas en la Ley y este Reglamento, las siguientes:
 
 I.- Usar, sustraer, destruir, ocultar, inutilizar, divulgar o alterar, total o parcialmente y de manera indebida, información pública que se encuentre bajo su custodia, a la cual tengan acceso o conocimiento con motivo de su empleo, cargo o comisión;
 
@@ -1175,21 +1329,17 @@ V.- Clasificar como reservada, de manera dolosa información que no cumple con l
 
 La sanción procederá posterior a la verificación y señalamiento de criterios de clasificación por parte del Instituto y del Comité respectivo;
 
-VI.- Difundir de manera verbal o entregar, por cualquier medio, información considerada como reservada o confidencial conforme a lo dispuesto por la Ley o los criterios específicos establecidos por el Comité;
+VI.- Difundir de manera verbal o entregar, por cualquier medio, información considerada como reservada o confidencial conforme, a lo dispuesto por la Ley o los criterios específicos establecidos por el Comité;
 
 VII.- Entregar intencionalmente información incompleta, errónea o falsa; y,
 
 VIII.- Difundir, distribuir o comercializar, contrario a lo previsto por la Ley, información confidencial.
 
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2008)</small>
+(REUBICADO, ANTES ARTICULO 83, P.O. 14 DE ENERO DE 2009)
 
-###### Artículo 84.
+###### Artículo 93.
 
-La responsabilidad administrativa que se genere por el incumplimiento de las obligaciones a que hace referencia el presente reglamento y las que establece la Ley, serán sancionadas en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, el Código y el Estatuto del Servicio Profesional para el Personal de este organismo electoral, independientemente de las que en el orden civil o penal procedan.
-
-## Título VIII. De las Responsabilidades y Sanciones Administrativas en Materia de Acceso a la Información Pública
-
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 2008)</small>
+La responsabilidad administrativa que se genere por el incumplimiento de las obligaciones a que hace referencia el presente reglamento y las que establece la Ley y el Código, serán sancionadas en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, el Código y el Estatuto del Servicio Profesional para el Personal de este organismo electoral, independientemente de las que en el orden civil o penal procedan.
 
 ## Transitorios
 
@@ -1246,3 +1396,19 @@ Segundo.- El presente acuerdo entrará en vigor el día siguiente al de su aprob
 Tercero.- El Consejo General del Instituto de Elecciones y Participación Ciudadana de Chiapas, será el órgano facultado para realizar las reformas, adiciones y derogaciones al presente Reglamento, cuando así lo considere pertinente.
 
 Cuarto.- Se instruye al Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana, a efecto de que provea lo necesario para la publicación del presente acuerdo en el Periódico Oficial del Gobierno del Estado, asimismo se circule y se le dé amplia difusión para los efectos correspondientes.
+
+P.O. 14 DE ENERO DE 2009.
+
+Primero.- Las presentes modificaciones y adiciones a este Reglamento entrarán en vigor, a partir de su aprobación por el Consejo General.
+
+Segundo.- El Consejo General del Instituto de Elecciones y Participación Ciudadana de Chiapas, será el órgano facultado para realizar las reformas, adiciones y derogaciones al presente Reglamento, cuando así lo considere pertinente.
+
+Tercero.- El Secretario Ejecutivo del Instituto proveerá lo necesario para que el presente Reglamento se publique en el Periódico Oficial de Gobierno del Estado, se circule y se le dé amplia difusión para los efectos correspondientes.
+
+SE TRANSCRIBEN LOS PUNTO DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE REGLAMENTO.
+
+Segundo.- El presente acuerdo entrará en vigor a partir de la fecha de su aprobación por el Consejo General.
+
+Tercero.- En términos de lo dispuesto por los artículos 391 y 395 del Código de Elecciones y Participación Ciudadana, notifíquese el contenido del presente acuerdo a los representantes de los partidos políticos acreditados ante el Consejo General de éste organismo electoral.
+
+Cuarto.- Publíquese en el Periódico Oficial del Estado.
