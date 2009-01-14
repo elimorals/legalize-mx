@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "2008-12-31"
+last_updated: "2009-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2009.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -603,9 +603,7 @@ Tratándose de predios en que se encuentren ubicadas empresas comerciales, indus
 
 Para que se tenga derecho a los descuentos señalados en este artículo, así como, de los establecidos en los artículos 41 y 43 de esta Ley, los causantes deberán estar al corriente de sus pagos.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-Para los efectos del párrafo anterior, se considerará que el causante está al corriente de sus pagos del impuesto predial cuando los realice dentro del año fiscal que corresponda.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 14 DE ENERO DE 2009)</small>
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -3328,3 +3326,13 @@ P.O. 31 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 1 de enero del año 2009, previa su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 14 DE ENERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Los beneficios que se deriven de la aprobación del presente Decreto serán aplicables a partir del día primero de enero del año 2009.
