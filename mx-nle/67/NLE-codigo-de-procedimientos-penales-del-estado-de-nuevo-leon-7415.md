@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2008-12-31"
+last_updated: "2009-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -918,6 +918,14 @@ Tratándose del Juicio Oral Penal se determinará que el público abandone la sa
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
 Las audiencias se llevarán a cabo, concurran o no las partes, salvo el Ministerio Público y el defensor, que no podrán dejar de asistir a ellas, con excepción de lo establecido en este Código.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2009)</small>
+
+Tratándose de cualquiera de los delitos establecidos en los artículos 165 Bis, 176, 357, 357 Bis ó 395 del Código Penal para el Estado, tanto las autoridades investigadoras como las judiciales deberán desahogar todas las diligencias con los procesados o sentenciados en las instalaciones del centro de reinserción social en que se encuentre el detenido, a fin de procurar mayor seguridad a la comunidad y evitar riesgos de evasión. La autoridad ejecutora dará las facilidades necesarias para la práctica de las audiencias que requieran la presencia del inculpado.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2009)</small>
+
+Por los mismos fines expuestos en el párrafo anterior, tratándose de cualquiera de los delitos establecidos en los artículos 165 Bis, 176, 357, 357 Bis ó 395 del Código Penal para el Estado, las autoridades investigadoras o judiciales en su caso, podrán disponer de la presencia del inculpado en forma virtual durante el desahogo de cualquier audiencia dentro del proceso, mediante el sistema de videoconferencia, asegurando en todo caso la posibilidad de contradicción de las partes y la salvaguarda del derecho de defensa.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -5568,3 +5576,7 @@ P.O. 24 DE NOVIEMBRE DE 2008.
 P.O. 31 DE DICIEMBRE DE 2008.
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ENERO DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
