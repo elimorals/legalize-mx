@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-9"
 country: "mx"
 rank: "ley"
 publication_date: "1936-01-10"
-last_updated: "2006-04-24"
+last_updated: "2009-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-12-30"
 
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ENERO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 10 de enero de 1936.
 
@@ -2121,17 +2121,17 @@ Formulado el proyecto de sentencia, se señalará día y hora para su discusión
 
 Cuando el quejoso alegue entre las violaciones de fondo, en asuntos del orden penal, la extinción de la acción persecutoria, el tribunal de amparo deberá estudiarla de preferencia; en el caso de que la estime fundada, o cuando, por no haberla alegado el quejoso, considere que debe suplirse la deficiencia de la queja, conforme al artículo 76 Bis, se abstendrá de entrar al estudio de las otras violaciones. Si encontrare infundada dicha violación, entrará al examen de las demás violaciones.
 
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 184.
 
-Para la resolución de los asuntos en revisión o en materia de amparo directo, los Tribunales Colegiados de Circuito observarán las siguientes reglas:
+Para la resolución de los asuntos en revisión o en materia de amparo directo, los tribunales colegiados de circuito observarán las siguientes reglas:
 
-> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1980)</small>
+I. El Presidente turnará el expediente dentro del término de cinco días al Magistrado relator que corresponda, a efecto de que formule por escrito, el proyecto de resolución redactado en forma de sentencia;
 
-I.- El Presidente turnará el expediente dentro del término de cinco días al Magistrado relator que corresponda, a efecto de que formule por escrito, el proyecto de resolución redactado en forma de sentencia, y
+II. El auto por virtud del cual se turne el expediente al Magistrado relator tendrá efectos de citación para sentencia, la que se pronunciará dentro de los quince días siguientes, por unanimidad o mayoría de votos, y
 
-II.- El auto por virtud del cual se turne el expediente al Magistrado relator tendrá efectos de citación para sentencia, la que se pronunciará, sin discusión pública, dentro de los quince días siguientes, por unanimidad o mayoría de votos.
+III. Las sesiones de los tribunales colegiados de circuito que resuelvan los juicios o recursos promovidos ante ellos, deberán ser videograbadas, con el fin de integrar un archivo digital que puede ser difundido posteriormente. Estas grabaciones y su difusión se realizarán bajo los lineamientos que al efecto formule el Consejo de la Judicatura Federal, y de conformidad con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, protegiendo en todo momento los datos personales.
 
 (REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
@@ -2930,3 +2930,9 @@ D.O.F. 16 DE AGOSTO DE 2005.
 D.O.F. 24 DE ABRIL DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE ENERO DE 2009.
+
+Primero. El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la entrada en vigor del presente decreto, el Consejo de la Judicatura Federal deberá implantar las acciones necesarias para la realización de las grabaciones de las sesiones de los tribunales colegiados de circuito, en un plazo no mayor a 90 días hábiles.
