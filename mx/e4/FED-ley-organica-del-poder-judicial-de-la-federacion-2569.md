@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2008-07-01"
+last_updated: "2009-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ENERO DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -974,9 +974,13 @@ XXXIII. Fijar los períodos vacacionales de los magistrados de circuito y jueces
 
 XXXIV. Administrar los bienes muebles e inmuebles del Poder Judicial de la Federación, cuidando su mantenimiento, conservación y acondicionamiento, a excepción de los que correspondan a la Suprema Corte de Justicia;
 
-XXXV. Fijar las bases de la política informática y de información estadística que permitan conocer y planear el desarrollo del Poder Judicial de la Federación;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2009)</small>
 
-XXXVI. Investigar y determinar las responsabilidades y sanciones a los servidores públicos y empleados del propio Consejo, de los tribunales de circuito y juzgados de distrito, en los términos y mediante los procedimientos establecidos en la ley, los reglamentos y acuerdos que por el Consejo dicte en materia disciplinaria;
+XXXV. Fijar las bases de la política informática y de información estadística que permitan conocer y planear el desarrollo del Poder Judicial de la Federación, así como regular, recopilar, documentar, seleccionar y difundir para conocimiento público, con apego a las normas en materia de transparencia y acceso a la información pública, las sesiones de los tribunales colegiados de circuito;
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2009)</small>
+
+XXXVI. Investigar y determinar las responsabilidades y sanciones a los servidores públicos y empleados del propio Consejo; de los tribunales de circuito, que para el caso de que se trate de tribunales colegiados, deberá considerar las grabaciones que se encuentren documentadas de las sesiones en que resuelvan los juicios o recursos promovidos ante ellos; y juzgados de distrito; todo ello en los términos y mediante los procedimientos establecidos en la ley, los reglamentos y acuerdos que el Consejo dicte en materia disciplinaria;
 
 XXXVII. Realizar visitas extraordinarias o integrar comités de investigación, cuando estime que se ha cometido una falta grave o cuando así lo solicite el pleno de la Suprema Corte de Justicia, sin perjuicio de las facultades que correspondan a la Visitaduría Judicial o a la Contraloría del Poder Judicial de la Federación;
 
@@ -3339,3 +3343,9 @@ c) A más tardar el 5 de marzo de 2013 la Cámara de Senadores elegirá a la tot
 ## TRANSITORIO
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE ENERO DE 2009.
+
+Primero. El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la entrada en vigor del presente decreto, el Consejo de la Judicatura Federal deberá implantar las acciones necesarias para la realización de las grabaciones de las sesiones de los tribunales colegiados de circuito, en un plazo no mayor a 90 días hábiles.
