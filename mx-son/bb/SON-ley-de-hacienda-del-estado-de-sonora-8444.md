@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2008-12-26"
+last_updated: "2009-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE ENERO DE 2009.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -1952,6 +1952,24 @@ XII.- Aportación del patrón a los fondos de ahorro siempre y cuando se integre
 > <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 XIII.- Pagos que resulten del crédito al salario conforme a la Ley del Impuesto Sobre la Renta.
+
+> <small>(ADICIONADO, B.O. 15 DE ENERO DE 2009)</small>
+
+###### Artículo 218 Bis.
+
+Se otorga un estimulo fiscal consistente en una reducción del 100% en el pago del impuesto a personas físicas y morales que realicen aportaciones en efectivo, no onerosas, ni remunerativas, equivalentes al impuesto causado en el periodo más un donativo adicional de por lo menos el 25% de la aportación, a instituciones de asistencia privada autorizadas por la Secretaria de Hacienda y cuyo objeto preponderantemente sea brindar apoyos económicos bajo un esquema de aportaciones paritarias con fines específicos a organizaciones e instituciones de la sociedad civil que proporcionen gratuitamente servicios de asistencia social a la población del Estado con mayores niveles de marginación económica y social.
+
+Para los fines del presente artículo, deberá entenderse por esquema de aportaciones paritarias con fines específicos aquél en el que la institución aportante y la institución beneficiaria otorguen la misma cantidad de recursos para alcanzar a través de esta última un fin específico, siempre que éste se haga explícito y cumpla con objetivos en materia de asistencia social.
+
+El presente estímulo será otorgado de conformidad con los lineamientos que al efecto expida la Secretaría de Hacienda.
+
+La Secretaría de Hacienda hará efectivo el estímulo mediante la presentación del comprobante de la aportación expedido a nombre del contribuyente, al rendir la declaración correspondiente.
+
+La Secretaría de Hacienda otorgará anualmente este beneficio hasta por una cantidad límite equivalente al 8% del impuesto presupuestado en la Ley de Ingresos del Estado del ejercicio correspondiente.
+
+Los contribuyentes beneficiarios al (sic) estímulo previsto en este artículo, deberán presentar sus declaraciones fiscales de conformidad con las disposiciones vigentes, señalando el monto del impuesto causado y el monto del estímulo a que sean acreedores, mismo que será deducido del impuesto causado.
+
+El beneficio que se confiere en el presente artículo no otorga a los contribuyentes el derecho de devolución, ni será aplicable en los accesorios en caso de que estos se hubieren causado.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -5740,3 +5758,17 @@ B.O. 26 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del 1° de enero de 2009, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 15 DE ENERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los estímulos fiscales a que se hace referencia en la Ley de Hacienda del Estado se otorgarán a partir del 1º de enero del 2009.
