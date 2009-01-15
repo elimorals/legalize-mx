@@ -4,7 +4,7 @@ identifier: "SON-ley-de-asistencia-social-8480"
 country: "mx"
 rank: "ley"
 publication_date: "1986-06-16"
-last_updated: "1986-06-16"
+last_updated: "2009-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ASISTENCIA SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA BOLETIN OFICIAL: 15 DE ENERO DE 2009.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 16 de junio de 1986.
 
@@ -189,7 +189,9 @@ IV.- Promover e impulsar el sano crecimiento físico, mental y social de la niñ
 
 V.- Proponer a la Secretaría de Salud Pública, en su carácter de administradora del patrimonio de la beneficencia pública, programas de asistencia social.
 
-VI.- Fomentar y apoyar las acciones de las instituciones de los sectores social y privado, cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias o entidades.
+> <small>(REFORMADA, B.O. 15 DE ENERO DE 2009)</small>
+
+VI.- Promover, apoyar y fortalecer los programas de las instituciones de asistencia privada, de asociaciones civiles y de organizaciones de la sociedad civil que proporcionen gratuitamente servicios de asistencia social a la población del Estado con mayores niveles de marginación, así como los de las instituciones de asistencia privada cuyo objeto preponderante sea brindar a las anteriores apoyos económicos para desarrollar sus actividades de asistencia social y que se encuentren autorizadas para recibir donativos en los términos del artículo 218 Bis de la Ley de Hacienda del Estado.
 
 VII.- Operar establecimientos de asistencia social para menores en estado de abandono, ancianos desamparados y minusválidos sin recursos.
 
@@ -546,3 +548,19 @@ RODOLFO FELIX VALDES.
 MANLIO FABIO BELTRONES R.
 
 Secretario de Gobierno.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 15 DE ENERO DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los estímulos fiscales a que se hace referencia en la Ley de Hacienda del Estado se otorgarán a partir del 1º de enero del 2009.
