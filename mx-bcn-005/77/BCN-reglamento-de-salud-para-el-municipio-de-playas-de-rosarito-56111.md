@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-salud-para-el-municipio-de-playas-de-rosarito-561
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-29"
-last_updated: "2007-06-29"
+last_updated: "2009-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "BCN"
 
 REGLAMENTO DE SALUD PARA EL MUNICIPIO DE PLAYAS DE ROSARITO BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 29 de junio de 2007.
 
-EL CIUDADANO MANUEL ALBERTO OCHOA MAGALLON, SECRETARIO GENERAL DEL HONORABLE TERCER AYUNTAMIENTO DE PLAYAS DE ROSARlTO BAJA CALIFORNIA.
+EL CIUDADANO MANUEL ALBERTO OCHOA MAGALLON, SECRETARIO GENERAL DEL HONORABLE TERCER AYUNTAMIENTO DE PLAYAS DE ROSARITO BAJA CALIFORNIA.
 
 C E R T I F I C A
 
@@ -387,9 +387,11 @@ e. Parasitosis
 
 f. Hepatitis a
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 39.
 
-Con la finalidad de poder prevenir el contagio de las enfermedades descritas en el artículo anterior, la dirección de SMM. Realizara los exámenes necesarios cada 90 días y otorgara al igual que en los programas anteriores una tarjeta de sanidad, la que deberá contener además de los datos personales del sujeto, la fecha de vigencia.
+Con la finalidad de poder prevenir el contagio de las enfermedades descritas en el artículo anterior, la dirección de SMM. Realizara los exámenes necesarios cada 180 días y otorgara al igual que en los programas anteriores una tarjeta de sanidad, la que deberá contener además de los datos personales del sujeto, la fecha de vigencia.
 
 ###### ARTICULO 40.
 
@@ -686,3 +688,13 @@ SECRETARIO
 PROFRA. DELFINA MONTOYA Y SALAS
 
 VOCAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE ENERO DE 2009.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+SEGUNDO.- Se deroga cualquier disposición u ordenamiento que contravenga al presente Reglamento.
+
+TERCERO.- Publíquese en el diario de mayor circulación de la municipalidad y en el Periódico Oficial del Estado, a efecto de que inicie su vigencia a partir de su publicación en este ultimo ordenamiento.
