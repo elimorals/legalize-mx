@@ -4,7 +4,7 @@ identifier: "LAERO"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "2006-07-05"
+last_updated: "2009-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=808&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAERO"
 
 LEY DE AEROPUERTOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE ENERO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 22 de diciembre de 1995.
 
@@ -266,7 +266,9 @@ Cuando la Secretaría resuelva negativamente sobre el otorgamiento de un permiso
 
 La inversión extranjera podrá participar hasta el cuarenta y nueve por ciento en el capital de las sociedades concesionarias o permisionarias de aeródromos de servicio al público.
 
-Se requerirá resolución favorable de la Comisión Nacional de Inversiones Extranjeras para que la inversión a que se refiere el párrafo anterior participe en un porcentaje mayor. Dicha Comisión deberá considerar al resolver, que se propicie el desarrollo regional y tecnológico, y se salvaguarde la integridad soberana de la Nación.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+Se requerirá resolución favorable de la Comisión Nacional de Inversiones Extranjeras para que la inversión a que se refiere el párrafo anterior participe en un porcentaje mayor. Dicha Comisión deberá considerar al resolver, que se propicie el desarrollo regional y tecnológico, y se salvaguarde el equilibrio ecológico y la integridad soberana de la Nación.
 
 ###### ARTICULO 20.
 
@@ -440,9 +442,11 @@ La Secretaría por sí, o por cuenta de los concesionarios, previa evaluación y
 
 El concesionario deberá elaborar un programa maestro de desarrollo, revisable cada cinco años, el cual una vez autorizado por la Secretaría, previa opinión de la Secretaría de la Defensa Nacional en el ámbito de su competencia, con base en las políticas y programas establecidos para el desarrollo del sistema aeroportuario nacional y su interrelación con otros modos de transporte, será parte integrante del título de concesión.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
 ###### ARTICULO 39.
 
-El permisionario de un aeródromo de servicio al público deberá elaborar un programa indicativo de inversiones en materia de construcción, conservación y mantenimiento, en el que se incluyan medidas específicas relacionadas con la seguridad y la protección al ambiente, y hacerlo del conocimiento de la Secretaría.
+El permisionario de un aeródromo de servicio al público, deberá elaborar un programa indicativo de inversiones en materia de construcción, conservación y mantenimiento, en el que se incluyan medidas específicas relacionadas con la seguridad y protección del equilibrio ecológico, y hacerlo del conocimiento de la Secretaría.
 
 ###### ARTICULO 40.
 
@@ -825,3 +829,7 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 5 DE JULIO DE 2006.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE ENERO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
