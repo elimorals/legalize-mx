@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2006-08-11"
+last_updated: "2009-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE ENERO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -104,9 +104,9 @@ XVI. Cédulas o cédula de determinación: el medio magnético, digital, electr�
 
 XVII. Cédulas o cédula de liquidación: el medio magnético, digital, electrónico o de cualquier otra naturaleza, o bien el documento impreso, mediante el cual el Instituto, en ejercicio de sus facultades como organismo fiscal autónomo, determina en cantidad líquida los créditos fiscales a su favor previstos en la Ley;
 
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2009)</small>
 
-XVIII. Salarios o salario: la retribución que la Ley Federal del Trabajo define como tal. Para efectos de esta Ley, el salario base de cotización se integra con los pagos hechos en efectivo por cuota diaria, gratificaciones, percepciones, alimentación, habitación, primas, comisiones, prestaciones en especie y cualquiera otra cantidad o prestación que se entregue al trabajador por su trabajo, con excepción de los conceptos previstos en el artículo 27 de la Ley; y
+XVIII. Salarios o salario: la retribución que la Ley Federal del Trabajo define como tal, y
 
 > <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2005)</small>
 
@@ -362,31 +362,53 @@ Las disposiciones de esta Ley, que se refieren a los patrones y a los trabajador
 
 ### CAPITULO II. DE LAS BASES DE COTIZACION Y DE LAS CUOTAS
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
 
 ###### Artículo 27.
 
-Para los efectos de esta Ley, se excluyen como integrantes del salario base de cotización, dada su naturaleza, los siguientes conceptos:
+El salario base de cotización se integra con los pagos hechos en efectivo por cuota diaria, gratificaciones, percepciones, alimentación, habitación, primas, comisiones, prestaciones en especie y cualquiera otra cantidad o prestación que se entregue al trabajador por su trabajo. Se excluyen como integrantes del salario base de cotización, dada su naturaleza, los siguientes conceptos:
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 I. Los instrumentos de trabajo tales como herramientas, ropa y otros similares;
 
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+
 II. El ahorro, cuando se integre por un depósito de cantidad semanaria, quincenal o mensual igual del trabajador y de la empresa; si se constituye en forma diversa o puede el trabajador retirarlo más de dos veces al año, integrará salario; tampoco se tomarán en cuenta las cantidades otorgadas por el patrón para fines sociales de carácter sindical;
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 III. Las aportaciones adicionales que el patrón convenga otorgar a favor de sus trabajadores por concepto de cuotas del seguro de retiro, cesantía en edad avanzada y vejez;
 
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+
 IV. Las cuotas que en términos de esta Ley le corresponde cubrir al patrón, las aportaciones al Instituto del Fondo Nacional de la Vivienda para los Trabajadores, y las participaciones en las utilidades de la empresa;
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 V. La alimentación y la habitación cuando se entreguen en forma onerosa a los trabajadores; se entiende que son onerosas estas prestaciones cuando el trabajador pague por cada una de ellas, como mínimo, el veinte por ciento del salario mínimo general diario que rija en el Distrito Federal;
 
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+
 VI. Las despensas en especie o en dinero, siempre y cuando su importe no rebase el cuarenta por ciento del salario mínimo general diario vigente en el Distrito Federal;
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 VII. Los premios por asistencia y puntualidad, siempre que el importe de cada uno de estos conceptos no rebase el diez por ciento del salario base de cotización;
 
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+
 VIII. Las cantidades aportadas para fines sociales, considerándose como tales las entregadas para constituir fondos de algún plan de pensiones establecido por el patrón o derivado de contratación colectiva. Los planes de pensiones serán sólo los que reúnan los requisitos que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro, y
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 IX. El tiempo extraordinario dentro de los márgenes señalados en la Ley Federal del Trabajo.
 
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+
 Para que los conceptos mencionados en este precepto se excluyan como integrantes del salario base de cotización, deberán estar debidamente registrados en la contabilidad del patrón.
+
+> <small>(REFORMADO D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 En los conceptos previstos en las fracciones VI, VII y IX cuando el importe de estas prestaciones rebase el porcentaje establecido, solamente se integrarán los excedentes al salario base de cotización.
 
@@ -2904,17 +2926,25 @@ El Instituto, en su carácter de organismo fiscal autónomo, se sujetará al ré
 
 En materia de recaudación y administración de las contribuciones que conforme a esta Ley le corresponden, que de conformidad con lo dispuesto por el artículo 2o., fracción II y penúltimo párrafo, del Código, tienen la naturaleza de aportaciones de seguridad social, el Instituto recaudará, administrará y, en su caso, determinará y liquidará, las cuotas correspondientes a los seguros establecidos en esta Ley, aplicando al efecto lo dispuesto en la misma y en lo no previsto expresamente en ella, el Código, contando respecto de ambas disposiciones con todas las facultades que ese Código confiere a las autoridades fiscales en él previstas, las que serán ejercidas de manera ejecutiva por el Instituto, sin la participación de ninguna otra autoridad fiscal.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
 
 ###### Artículo 272.
 
-El Instituto, en materia de presupuesto, gasto y su contabilidad, se regirá por lo dispuesto en esta Ley y, en lo no previsto expresamente en ella, aplicará la Ley de Presupuesto, Contabilidad y Gasto Público Federal y disposiciones que de ella emanen.
+El Instituto, en materia de presupuesto, gasto y su contabilidad, se regirá por lo dispuesto en esta Ley y, en lo no previsto expresamente en ella, aplicará la Ley Federal de Presupuesto y Responsabilidad Hacendaria y disposiciones que de ella emanen.
 
-Los servidores públicos del Instituto serán responsables de cualquier daño o perjuicio estimable en dinero que afecte a la hacienda pública federal o el patrimonio del propio Instituto, por lo que resultará aplicable la Ley de Presupuesto, Contabilidad y Gasto Público Federal, sin perjuicio de lo dispuesto en la Ley Federal de Responsabilidades de los Servidores Públicos y en la Ley de Fiscalización Superior de la Federación.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2009)</small>
 
-Corresponderá a la Secretaría de Contraloría y Desarrollo Administrativo, por sí o a través del órgano interno de control en el propio Instituto, el ejercicio de las atribuciones que en materia de control, inspección, vigilancia y evaluación le confieren la Ley Orgánica de la Administración Pública Federal y demás ordenamientos legales aplicables, sin perjuicio de las facultades que corresponden a la Auditoría Superior de la Federación.
+Los servidores públicos del Instituto serán responsables de cualquier daño o perjuicio estimable en dinero que afecte a la hacienda pública federal o el patrimonio del propio Instituto, por lo que resultará aplicable la Ley Federal de Presupuesto y Responsabilidad Hacendaria, sin perjuicio de lo dispuesto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en la Ley de Fiscalización Superior de la Federación.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+Corresponderá a la Secretaría de la Función Pública, por sí o a través del órgano interno de control en el propio Instituto, el ejercicio de las atribuciones que en materia de control, inspección, vigilancia y evaluación le confieren la Ley Orgánica de la Administración Pública Federal y demás ordenamientos legales aplicables, sin perjuicio de las facultades que corresponden a la Auditoría Superior de la Federación.
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 El Instituto deberá formular su proyecto de presupuesto y ejercer el gasto correspondiente, con estricto respeto a los criterios de disciplina, productividad, ahorro, austeridad, eficacia, eficiencia, desregulación presupuestaria y transparencia, debiendo aplicarlos en forma tal que no afecte la atención a sus derechohabientes. El Instituto planeará su gasto de manera que contribuya a mantener su estabilidad y equilibrio financiero en un horizonte de mediano y largo plazo, conforme a las tendencias demográficas y epidemiológicas de su población beneficiaria.
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 Las cuotas, contribuciones y aportaciones que conforme a lo dispuesto en esta Ley deberá enterar el Gobierno Federal al Instituto, se manifestarán de manera expresa, señalando su destino específico, en un apartado individual del correspondiente decreto del Presupuesto de Egresos de la Federación que anualmente se apruebe, haciendo referencia al total del gasto que se prevea habrá de ejercer el propio Instituto señalando, en su caso, las reglas para su control y seguimiento.
 
@@ -3012,7 +3042,9 @@ Si los ajustes a la baja indicados no fueren suficientes, el Instituto podrá di
 
 Si habiéndose hecho uso de la Reserva indicada en el párrafo anterior, el ajuste al presupuesto de egresos necesario para cumplir con las metas de reservas y fondos establecidos afecta sensiblemente los programas de operación del Instituto, éste podrá, previa autorización del Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, disminuir los montos de reservas o fondos a incrementar.
 
-La Secretaría de Contraloría y Desarrollo Administrativo vigilará el estricto y oportuno cumplimiento de esta disposición.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+La Secretaría de la Función Pública vigilará el estricto y oportuno cumplimiento de esta disposición.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -3044,19 +3076,37 @@ El Consejo Técnico solamente podrá crear, sustituir o contratar plazas con suj
 
 El Instituto tiene la obligación de publicar en el Diario Oficial de la Federación, a más tardar el 30 de junio del ejercicio fiscal correspondiente, el informe analítico de todas (sic) los puestos y plazas, incluyendo temporales, sustitutos, residentes y análogas; los sueldos, prestaciones y estímulos de todo tipo de sus servidores públicos, agrupados por nivel, grado y grupo de mando, y los cambios autorizados a su estructura organizacional por el Consejo Técnico, así como el número, características y remuneraciones totales de la contratación de servicios profesionales por honorarios.
 
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
 
-Artículo 277 E. Sin perjuicio de lo dispuesto por la Ley de Presupuesto, Contabilidad y Gasto Público Federal, los ingresos y gastos de cada seguro se registrarán contablemente por separado. Los gastos indirectos comunes se sujetarán a las reglas de carácter general para la distribución de costos, al catálogo de cuentas y al manual de contabilización y del ejercicio del gasto que al efecto emita el Consejo Técnico a propuesta del Director General, quien deberá contar con la opinión previa de la Secretaría de Hacienda y Crédito Público.
+Artículo 277 E. Sin perjuicio de lo dispuesto por la Ley Federal de Presupuesto y Responsabilidad Hacendaria, los ingresos y gastos de cada seguro se registrarán contablemente por separado. Los gastos indirectos comunes se sujetarán a las reglas de carácter general para la distribución de costos, al catálogo de cuentas y al manual de contabilización y del ejercicio del gasto que al efecto emita el Consejo Técnico a propuesta del Director General, quien deberá contar con la opinión previa de la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 El catálogo de cuentas y el manual de contabilización y del ejercicio del gasto deberán tomar como base los equivalentes que al efecto se establezcan por las autoridades competentes para las entidades de la administración pública federal, adecuándolos a las características y necesidades del Instituto.
 
-Los recursos de cada ramo de seguros a que se refiere esta Ley sólo podrán utilizarse para cubrir las prestaciones y pago de beneficios y constitución (sic) reservas que correspondan a cada uno de ellos.
-
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
-Artículo 277 F. En casos debidamente justificados, el Consejo Técnico podrá autorizar que el Instituto celebre, por conducto del Director General y bajo su responsabilidad, contratos de obra pública, adquisiciones o de otra índole que rebasen las asignaciones presupuestarias aprobadas para el año, pero en estos casos los compromisos excedentes no cubiertos quedarán sujetos, para los fines de su ejecución y pago, a la disponibilidad presupuestaria de los años subsecuentes.
+Los recursos de cada ramo de seguros a que se refiere esta Ley sólo podrán utilizarse para cubrir las prestaciones y pago de beneficios y constitución (sic) reservas que correspondan a cada uno de ellos.
 
-De dichas contrataciones se deberá dar cuenta previamente a la Secretaría de Hacienda y Crédito Público, y el Instituto no podrá celebrar nuevos contratos de ese tipo, si en el criterio razonado y fundado de esa dependencia, los ingresos del Instituto no sean suficientes en los ejercicios subsecuentes, para cubrir los compromisos relativos.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+Artículo 277 F. En casos debidamente justificados, el Consejo Técnico podrá autorizar que el Instituto celebre contratos plurianuales de obras públicas, adquisiciones, arrendamientos o servicios durante el ejercicio fiscal, siempre que:
+
+I. Justifiquen que su celebración representa ventajas económicas o que sus términos o condiciones son más favorables, considerando en su caso, la vigencia de las patentes de los bienes a adquirir;
+
+II. Justifiquen el plazo de la contratación y que el mismo no afectará negativamente la competencia económica en el sector de que se trate;
+
+III. Identifiquen el gasto corriente o de inversión correspondiente, y
+
+IV. Desglosen el gasto a precios del año tanto para el ejercicio fiscal correspondiente, como para los subsecuentes.
+
+De dichas contrataciones se deberá dar cuenta previamente a la Secretaría de Hacienda y Crédito Público. El Instituto no podrá celebrar nuevos contratos de ese tipo si, en el criterio razonado y fundado de esa dependencia, los ingresos del Instituto no son suficientes en los ejercicios subsecuentes, para cubrir los compromisos relativos.
+
+Los contratos plurianuales serán formalizados por los servidores públicos que establezca su Reglamento Interior.
+
+En el caso de aquellos contratos cuya prestación genere una obligación de pago para el Instituto igual o mayor a 190,150 veces el salario mínimo general vigente para el Distrito Federal en alguno de sus años de vigencia, éstos deberán ser suscritos, de forma indelegable, por el Director General del Instituto.
+
+El Instituto deberá informar a la Secretaría de la Función Pública sobre la celebración de los contratos a que se refiere este artículo, dentro de los 30 días posteriores a su formalización.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -3921,5 +3971,9 @@ D.O.F. 14 DE DICIEMBRE DE 2005.
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 11 DE AGOSTO DE 2006.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE ENERO DE 2009.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
