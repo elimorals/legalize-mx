@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-federal-electoral-62114"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-11"
-last_updated: "2008-08-11"
+last_updated: "2009-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62114&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-07-10"
 
 REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL ELECTORAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE ENERO DE 2009.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 11 de agosto de 2008.
 
@@ -103,9 +103,11 @@ Reglamento Interior del Instituto Federal Electoral
 
 1. El presente Reglamento tiene por objeto establecer las normas que regulan el funcionamiento de la estructura orgánica del Instituto, para el correcto ejercicio de sus atribuciones constitucionales y legales en cumplimiento de sus fines.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
 ###### Artículo 2.
 
-1. El presente Reglamento es de observancia general para el personal del Instituto. El Consejo General vigilará el cumplimiento irrestricto de las disposiciones contenidas en el mismo.
+1. El presente Reglamento es de observancia general para el personal y las diversas instancias del Instituto. El Consejo General vigilará el cumplimiento irrestricto de las disposiciones contenidas en el mismo.
 
 ###### Artículo 3.
 
@@ -153,109 +155,125 @@ s) Comité: Comité de Radio y Televisión.
 
 ### Capítulo Segundo. De su Estructura
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
 ###### Artículo 4.
 
-1. El Instituto ejercerá sus atribuciones a través de:
+1. El Instituto ejercerá sus atribuciones a través de sus órganos de dirección, ejecutivos, técnicos, de vigilancia y de control previstos por el presente artículo, de conformidad con lo dispuesto por la Constitución, el Código y el presente Reglamento.
 
-A) Organos de Dirección:
+2. Son órganos de Dirección:
 
-I. Centrales:
+A) Centrales
 
 a) El Consejo General; y
 
-b) La Presidencia del Consejo.
+b) La Presidencia del Consejo;
 
-II. Delegacionales:
+B) Delegacionales
 
 a) Los Consejos Locales;
 
-b) Los Consejos Distritales; y
+C) Subdelegacionales
 
-c) Las Mesas Directivas de Casilla.
+a) Los Consejos Distritales;
 
-B) Organos Ejecutivos:
+D) Seccionales
 
-I. Centrales:
+a) Las Mesas Directivas de Casilla.
 
-a) Junta General Ejecutiva;
+2.1. Por su naturaleza deliberativa y normativa, así como por los efectos vinculantes con terceros que se generan con sus determinaciones, el Comité de Radio y Televisión será considerado órgano central de Dirección.
 
-b) Secretaría Ejecutiva; y
+2.2. Atendiendo a su naturaleza deliberativa en la emisión de medidas cautelares y los efectos que éstas producen a terceros, la Comisión de Quejas y Denuncias será considerada órgano central de Dirección.
 
-c) Direcciones Ejecutivas:
+3. Son órganos ejecutivos:
 
-i. Registro Federal de Electores;
+A) Centrales
 
-ii. Prerrogativas y Partidos Políticos;
+a) La Junta General Ejecutiva;
 
-iii. Organización Electoral;
+b) La Secretaría Ejecutiva;
 
-iv. Servicio Profesional Electoral;
+c) Las Direcciones Ejecutivas;
 
-v. Capacitación Electoral y Educación Cívica; y
+I. Registro Federal de Electores;
 
-vi. Administración.
+II. Prerrogativas y Partidos Políticos;
 
-II. Delegacionales:
+III. Organización Electoral;
 
-a) Juntas Locales y Distritales Ejecutivas;
+IV. Servicio Profesional Electoral;
 
-b) Los Vocales Ejecutivos Locales y Distritales; y
+V. Capacitación Electoral y Educación Cívica; y
 
-c) Oficinas Municipales.
+VI. Administración.
 
-III. Comité de Radio y Televisión.
+B) Delegacionales:
 
-IV. Organos técnicos:
+a) Las Juntas Locales Ejecutivas; y
+
+b) Los Vocales Ejecutivos Locales.
+
+C) Subdelegacionales
+
+a) Las Juntas Distritales Ejecutivas;
+
+b) Los Vocales Ejecutivos Distritales; y
+
+c) Las Oficinas Municipales.
+
+4. Son órganos técnicos:
+
+A) Centrales
 
 a) Las Direcciones o Unidades Técnicas:
 
-i. Coordinación Nacional de Comunicación Social;
+I. La Coordinación Nacional de Comunicación Social;
 
-ii. Coordinación de Asuntos Internacionales;
+II. La Coordinación de Asuntos Internacionales;
 
-iii. Servicios de Informática;
+III. La de Servicios de Informática;
 
-iv. Dirección Jurídica;
+IV. La Dirección Jurídica;
 
-v. Dirección del Secretariado;
+V. La Dirección del Secretariado;
 
-vi. Centro para el Desarrollo Democrático; y
+VI. El Centro para el Desarrollo Democrático; y
 
-vii. Las demás que determine el Consejo General.
+VIII (SIC). Las demás que determine el Consejo General.
 
-b) Unidad de Fiscalización de los Recursos de los Partidos Políticos.
+4.1. En el acuerdo de creación correspondiente se determinará la adscripción de las Unidades Técnicas, según corresponda.
 
-C) Organos de vigilancia:
+a) La Unidad de Fiscalización de los Recursos de los Partidos Políticos.
 
-I. Centrales:
+b) Los Comités Técnicos Especiales.
 
-a) Comisión Nacional de Vigilancia; y
+5. Son órganos de vigilancia:
 
-b) Las demás que determine el Consejo.
+A) Centrales
 
-II. Delegacionales:
+a) La Comisión Nacional de Vigilancia; y
 
-a) Comisión Local de Vigilancia;
+b) Los demás que determine el Consejo.
 
-b) Comisión Distrital de Vigilancia; y
+B) Delegacionales
 
-c) Las demás que determine el Consejo.
+a) Las comisiones locales de vigilancia;
 
-D) Organos Auxiliares:
+b) Las comisiones distritales de vigilancia; y
 
-I. Comité Nacional de Supervisión y Evaluación.
+c) Los demás que determine el Consejo.
 
-E) Organos en Materia de Transparencia:
+6. Organos en materia de transparencia.
 
-I. Unidad Técnica de Servicios de Información y Documentación;
+A) El Organo Garante de la Transparencia y el Acceso a la Información;
 
-II. Organo Garante de la Transparencia y el Acceso a la Información; y
+B) El Comité de Información; y
 
-III. Comité de Información.
+C) La Unidad Técnica de Servicios de Información y Documentación.
 
-F) Organo de Control:
+7. Organo de Control
 
-I. Contraloría General.
+A) La Contraloría General.
 
 ## Título Segundo. De los Organos de Dirección Centrales
 
@@ -331,11 +349,13 @@ b) El informe de actividades en el que se precisen las tareas desarrolladas, su 
 
 2. Las Comisiones Permanentes y Temporales, por cada asunto que se les encomiende, deberán presentar un informe, dictamen o proyecto de resolución, según el caso, dentro del plazo que determine el Código o el Consejo.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
 ###### Artículo 9.
 
-1. Las Comisiones de Prerrogativas y Partidos Políticos; Organización Electoral; Servicio Profesional Electoral; Capacitación Electoral y Educación Cívica; Registro Federal de Electores; y, de Quejas y Denuncias se integrarán exclusivamente por Consejeros Electorales, con un máximo de tres, designados por el Consejo, quienes podrán participar hasta en dos de ellas por un periodo de tres años, uno de los cuales será su Presidente y funcionarán de manera permanente, la Presidencia será rotativa en forma anual entre sus integrantes. El procedimiento de rotación se determinará en el Reglamento de Comisiones del Consejo.
+1. Las Comisiones de Prerrogativas y Partidos Políticos; Organización Electoral; Servicio Profesional Electoral; Capacitación Electoral y Educación Cívica; Registro Federal de Electores; y, de Quejas y Denuncias se integrarán exclusivamente por Consejeros Electorales, con un máximo de tres, designados por el Consejo, quienes podrán participar hasta en dos de ellas por un periodo de tres años, uno de los cuales será su Presidente y funcionarán de manera permanente. La Presidencia será rotativa en forma anual entre sus integrantes. El procedimiento de rotación se determinará en el Reglamento de Comisiones del Consejo.
 
-2. En la Comisión del Servicio Profesional Electoral exclusivamente participaran Consejeros; en las demás, podrán participar con voz pero sin voto los Consejeros del Poder Legislativo y los Representantes de los partidos políticos.
+2. En la Comisión del Servicio Profesional Electoral exclusivamente participarán Consejeros; en las demás, podrán participar con voz pero sin voto los Consejeros del Poder Legislativo y los Representantes de los partidos políticos.
 
 ###### Artículo 10.
 
@@ -779,7 +799,9 @@ w) Adoptar las medidas a que hubiere lugar con el fin de asegurar a los partidos
 
 x) Las que señalen los reglamentos en materia de transparencia, de quejas, de fiscalización y de radio y televisión; y
 
-y) Las demás que le confiera el Código.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+y) Las demás que le confiera el Código y otras disposiciones aplicables.
 
 #### Sección Primera. Del Presidente del Consejo Distrital
 
@@ -1041,15 +1063,21 @@ s) Suscribir conjuntamente con el Consejero Presidente, los convenios que se cel
 
 t) En su carácter de Secretario del Consejo, realizar las acciones conducentes para sustanciar y formular los proyectos de resolución de los procedimientos administrativos sancionadores ordinario y especial, en los términos del Código y del Reglamento de la materia;
 
-u) Tomar las medidas conducentes para requerir a las autoridades competentes la entrega de pruebas que obren en su poder, o para que le permitan obtener la información que se encuentre reservada o protegida por el secreto fiscal, bancario o fiduciario, estableciendo las medidas de resguardo de la información;
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+u) Tomar las medidas conducentes para requerir a las autoridades competentes la entrega de pruebas que obren en su poder, estableciendo las medidas de resguardo de la información;
 
 v) Recibir los avisos de recuento de votos en la totalidad de las casillas en los Distritos en los que se acrediten los supuestos legales previstos en el artículo 295, párrafos 2 y 3 del Código;
 
 w) Acordar sobre las franquicias postales y telegráficas, así como los descuentos en las tarifas de los transportes otorgados a las dependencias oficiales de las que gozarán los funcionarios electorales y representantes de los partidos políticos nacionales debidamente acreditados ante los órganos del Instituto, en términos de lo previsto por el artículo 168 del Código;
 
-x) Las que señalen los reglamentos en materia de transparencia, de quejas, de fiscalización y de radio y televisión; y
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2009)</small>
 
-y) Las demás que le confiera el Código y otras disposiciones aplicables.
+x) Solicitar el apoyo de los titulares de las Direcciones Ejecutivas y de las Unidades Técnicas adscritas a la Secretaría Ejecutiva, para la atención de asuntos y suscripción de documentos relacionados con éstos, siempre y cuando la naturaleza de los mismos así lo permita y exista la debida motivación y fundamentación para ello, sin que implique la delegación de facultades;
+
+y) Las que señalen los reglamentos en materia de transparencia, de quejas, de fiscalización y de radio y televisión; y
+
+z) Las demás que le confiera el Código y otras disposiciones aplicables.
 
 ### Capítulo Tercero. De las Direcciones Ejecutivas
 
@@ -1117,7 +1145,9 @@ j) Las demás que les confiera el Código y otras disposiciones aplicables.
 
 ###### Artículo 42.
 
-1. A los titulares de las Secretarias Técnicas de las Comisiones les corresponde:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+1. A los titulares de las Secretarías Técnicas de las Comisiones les corresponde:
 
 a) Asistir a las reuniones de la Comisión que les compete, con derecho a voz;
 
@@ -1137,9 +1167,13 @@ b) Solicitar a las comisiones de vigilancia los estudios y desahogo de las consu
 
 c) Coordinar las actividades de IFETEL y presentar los informes correspondientes;
 
-d) Solicitar y realizar las gestiones necesarias a efecto de que el Secretario Ejecutivo publique en el Diario Oficial de la Federación los convenios de colaboración y otros instrumentos celebrados entre el Instituto Federal Electoral y las entidades federativas, incluidos los anexos respectivos, que determinen el plazo para solicitar la Credencial para Votar; así como aquéllos que tengan por objeto apoyar la realización de los procesos electorales locales, en materia de padrón electoral cuyo objeto sea expeditar el desarrollo de los trabajos de inscripción y la depuración del padrón electoral; y
+d) Solicitar y realizar las gestiones necesarias a efecto de que el Secretario Ejecutivo publique en el Diario Oficial de la Federación los convenios de colaboración y otros instrumentos celebrados entre el Instituto Federal Electoral y las entidades federativas, incluidos los anexos respectivos, que determinen el plazo para solicitar la Credencial para Votar; así como aquéllos que tengan por objeto apoyar la realización de los procesos electorales locales, en materia de padrón electoral cuyo objeto sea expeditar el desarrollo de los trabajos de inscripción y la depuración del padrón electoral; y (sic)
 
-e) Las demás que le confiera el Código y otras disposiciones aplicables.
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+e) Coadyuvar con la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica en el diseño e instrumentación de las campañas institucionales; y
+
+f) Las demás que le confiera el Código y otras disposiciones aplicables.
 
 2. El IFETEL será el órgano encargado de brindar a la ciudadanía información en posesión del Instituto, por medio de consultas telefónicas, así como recibir inconformidades, quejas, sugerencias y reconocimientos sobre el desarrollo de los procesos o la actuación de las autoridades electorales; y estará adscrito a la Dirección Ejecutiva del Registro Federal de Electores.
 
@@ -1259,7 +1293,9 @@ g) Promover la celebración de convenios con otras instituciones con la finalida
 
 h) Coordinar programas de investigación que en materia de educación cívica se requieren;
 
-i) Coordinar, diseñar e instrumentar las campañas de difusión institucionales;
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+i) Diseñar e instrumentar las campañas de difusión institucionales y, en su caso, coordinarse para ello con las instancias que por el objeto o contenido de la campaña sean competentes;
 
 j) Ejecutar las funciones que en materia de radio y televisión, le ordene el Código, el Reglamento específico y otras disposiciones aplicables;
 
@@ -1267,11 +1303,19 @@ k) Coadyuvar con la Dirección Ejecutiva de Administración, en el diseño y ela
 
 l) Planear, dirigir y supervisar las campañas de difusión y los programas de divulgación de la cultura democrática;
 
-m) Diseñar e instrumentar las campañas de difusión institucionales;
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2009)</small>
 
-n) Coordinar junto con las instancias competentes las campañas de difusión institucional; y
+m) Las demás que le confiera el Código y otras disposiciones aplicables.
 
-ñ) Las demás que le confiera el Código y otras disposiciones aplicables.
+n) (DEROGADO, D.O.F. 16 DE ENERO DE 2009)
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+2. Para el correcto cumplimiento de lo dispuesto en el inciso i) del párrafo anterior y por el artículo 62, párrafo 1, inciso o) del presente Reglamento, la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica diseñará e instrumentará las campañas de difusión relacionadas con el Registro Federal de Electores en estrecha coordinación con la dirección del ramo.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+3. Respecto de dicha coordinación se tomará en cuenta lo dispuesto por el artículo 8, párrafo 1, inciso l) del Reglamento de Sesiones y Funcionamiento de las Comisiones de Vigilancia del Registro Federal de Electores.
 
 ###### Artículo 48.
 
@@ -1401,9 +1445,17 @@ k) Supervisar el procedimiento y desahogo de los medios de impugnación, que se 
 
 l) Coordinarse en el ámbito de las atribuciones de la Junta Local con las áreas correspondientes de las Juntas Distritales, previo acuerdo del Secretario Ejecutivo;
 
-m) Proporcionar el apoyo necesario a las Juntas Distritales para el resguardo de los paquetes electorales desde la conclusión del proceso electoral hasta que se determine el procedimiento para su destrucción; y
+m) Proporcionar el apoyo necesario a las Juntas Distritales para el resguardo de los paquetes electorales desde la conclusión del proceso electoral hasta que se determine el procedimiento para su destrucción; y (sic)
 
-n) Las demás que les confiera el Código y otras disposiciones aplicables.
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+n) Recibir, dar trámite y, en su caso, sustanciar los medios de impugnación que se interpongan en términos de lo establecido en la ley de la materia; y
+
+ñ) Las demás que les confiera el Código y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+2. Los Vocales Secretarios Locales tendrán las facultades que señala el Reglamento de Quejas y Denuncias, así como aquellas que se determinen en su calidad de Secretario de los Consejos Locales.
 
 ### Capítulo Sexto. De las Juntas Distritales Ejecutivas
 
@@ -1455,9 +1507,29 @@ h) Suscribir los convenios con las autoridades municipales y delegacionales para
 
 i) Auxiliar al Consejo Distrital en todo lo que requiera para la adecuada supervisión de las actividades de la Junta Distrital;
 
-j) Resguardar los paquetes electorales desde la conclusión del proceso electoral hasta que se determine el procedimiento para su destrucción; y
+j) Resguardar los paquetes electorales desde la conclusión del proceso electoral hasta que se determine el procedimiento para su destrucción; y (sic)
 
-k) Las demás que le confiera el Código y otras disposiciones aplicables.
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+k) Recibir y dar trámite a los medios de impugnación que se interpongan en términos de lo establecido en la ley de la materia;
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+l) Instruir al Vocal Secretario a efecto de que conduzca las audiencias de pruebas y alegatos en términos de lo dispuesto por el artículo 72 del Reglamento de Quejas y Denuncias del Instituto Federal Electoral;
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+m) Ordenar al Vocal Secretario para que en cumplimiento a lo señalado en el artículo 236, párrafo 5 del Código, realice las diligencias de verificación que estime necesarias; y
+
+n) Las demás que le confiera el Código y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+2. A efecto de formalizar lo señalado en el inciso l) del párrafo precedente, el Vocal Ejecutivo que corresponda deberá instruir mediante oficio al Vocal Secretario, y éste tendrá que asentar en el acta correspondiente tanto la instrucción como la clave que identifique la comunicación por la cual se le ordena conducir la audiencia de pruebas y alegatos.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+3. El Vocal Ejecutivo podrá designar de entre los funcionarios adscritos a la Junta Ejecutiva o Consejo Distrital que presida, a efecto de notificar los acuerdos y diligencias dictados y ordenados en el ámbito de su competencia.
 
 ### Capítulo Octavo. De las Oficinas Municipales
 
@@ -1535,7 +1607,9 @@ o) Las demás que les confiera el Reglamento y otras disposiciones aplicables.
 
 ###### Artículo 62.
 
-1. Corresponde a la Coordinación Nacional de Comunicación Social, las atribuciones siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+1. La Coordinación Nacional de Comunicación Social estará adscrita a la Presidencia del Consejo y tendrá las atribuciones siguientes:
 
 a) Proponer al Presidente del Consejo la estrategia de comunicación social necesaria, para difundir las actividades y funciones que desarrolla el Instituto para que, una vez que sea aprobada por el mismo, se incorpore a la propuesta de Políticas y Programas Generales del Instituto que la Junta debe poner a consideración del Consejo;
 
@@ -1577,7 +1651,9 @@ r) Las demás que le confiera el presente Reglamento y otras disposiciones aplic
 
 ###### Artículo 63.
 
-1. Corresponde a la Coordinación de Asuntos Internacionales las atribuciones siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+1. La Coordinación de Asuntos Internacionales estará adscrita a la Presidencia del Consejo y tendrá las atribuciones siguientes:
 
 a) Proponer al Presidente del Consejo e instrumentar los programas de actividades relativas a la vinculación, información, cooperación y difusión internacional del Instituto;
 
@@ -1619,7 +1695,9 @@ r) Las demás que le confiera el presente Reglamento y otras disposiciones aplic
 
 ###### Artículo 64.
 
-1. Corresponde a la Unidad Técnica de Servicios de Informática, las atribuciones siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+1. La Unidad Técnica de Servicios de Informática estará adscrita a la Secretaría Ejecutiva y tendrá las atribuciones siguientes:
 
 a) Proponer al Secretario Ejecutivo los reglamentos y lineamientos en materia de informática y telecomunicaciones para su presentación ante el Consejo y/o la Junta, según corresponda;
 
@@ -1679,7 +1757,9 @@ t) Las demás que le confiera este Reglamento y otras disposiciones aplicables.
 
 ###### Artículo 65.
 
-1. Corresponde a la Dirección Jurídica, las atribuciones siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+1. La Dirección Jurídica estará adscrita a la Secretaría Ejecutiva y tendrá las atribuciones siguientes:
 
 a) Coadyuvar con el Secretario Ejecutivo en el ejercicio de la representación legal del Instituto;
 
@@ -1703,7 +1783,9 @@ j) Tener acceso, mediante el personal que designe su titular, al Sistema Integra
 
 k) En caso de ausencia temporal del Secretario Ejecutivo, su Titular podrá ejercer el poder otorgado de conformidad con lo previsto en el artículo 125, párrafo 1, inciso q) del Código, y suscribir los informes, recursos y cualquier otro escrito dirigido a las autoridades judiciales y administrativas con la finalidad de salvaguardar las acciones y derechos que correspondan al Instituto, dentro de los procedimientos que se tramiten ante tales instancias; así como desahogar los requerimientos formulados por las mismas;
 
-l) Auxiliar al Secretario Ejecutivo en su carácter de Secretario del Consejo a realizar, en los plazos establecidos en el Reglamento aplicable, las notificaciones personales derivadas de los acuerdos y resoluciones que éste apruebe;
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+l) Auxiliar al Secretario Ejecutivo en su carácter de Secretario del Consejo para realizar, en los plazos establecidos en el Reglamento aplicable, las notificaciones personales derivadas de los acuerdos y resoluciones que éste apruebe con excepción de las que deban ser encomendadas a las Direcciones Ejecutivas por su naturaleza y complejidad técnica, en razón de su contenido o porque su cumplimiento involucre diversas actividades que deba realizar la propia Dirección Ejecutiva;
 
 m) Implantar los mecanismos de coordinación con las dependencias, entidades o instancias con las que por necesidades del servicio y sus programas específicos, obliguen a relacionarse, previo acuerdo del Secretario Ejecutivo;
 
@@ -1715,9 +1797,19 @@ o) Las demás que le confiera el presente Reglamento y otras disposiciones aplic
 
 2. A efecto de que la Dirección Jurídica esté en posibilidad de realizar las notificaciones personales a que se hace referencia en el inciso l), párrafo 1 del presente artículo, las áreas responsables deberán remitir toda la documentación y anexos que resulten necesarios, incluyendo la certificación debidamente firmada por el titular de la Secretaria Ejecutiva.
 
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+3. El Titular de la Dirección Jurídica y el personal jurídico adscrito a la Dirección de Quejas, inclusive, podrá ser instruido por el Secretario Ejecutivo a efecto de coadyuvar en el desahogo de las audiencias a las que hace referencia el artículo 369, párrafo 1 del Código, debiéndose formalizar dicha instrucción mediante oficio y asentándose la clave con que se identifique al mismo en el acta que se instrumente en la audiencia de pruebas y alegatos.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+4. Por instrucciones del Secretario Ejecutivo, el titular de esta Unidad Técnica podrá emitir los acuerdos y oficios a que hace referencia el artículo 67, párrafos 1 y 2 del Reglamento de Quejas y Denuncias del Instituto Federal Electoral.
+
 ###### Artículo 66.
 
-1. Corresponde a la Dirección del Secretariado, las atribuciones siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+1. La Dirección del Secretariado estará adscrita a la Secretaría Ejecutiva y tendrá las atribuciones siguientes:
 
 a) Supervisar y verificar que las disposiciones legales, normas, políticas, criterios, lineamientos y metodología aprobada para la coordinación, control y gestión de los recursos, se cumplan en las áreas bajo su adscripción;
 
@@ -1751,7 +1843,9 @@ n) Elaborar los trabajos especiales encargados por la Secretaría Ejecutiva;
 
 o) Acordar con el Secretario Ejecutivo los asuntos de su competencia;
 
-p) Auxiliar al Secretario Ejecutivo en su carácter de Secretario del Consejo a realizar en los plazos establecidos en el Reglamento aplicable, la remisión o, en su caso, la notificación a los integrantes del Consejo, a los órganos centrales, locales y distritales del Instituto los acuerdos y resoluciones aprobados por el órgano máximo de dirección del Instituto;
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+p) Auxiliar al Secretario Ejecutivo en su carácter de Secretario del Consejo para realizar en los plazos establecidos en el Reglamento aplicable, las remisiones y notificaciones a los integrantes del Consejo, a los órganos centrales, locales y distritales del Instituto los acuerdos y resoluciones aprobados por el órgano máximo de dirección del Instituto, incluyendo aquellos que hayan sido objeto de engrose por parte del Consejo;
 
 q) Asignar a los acuerdos y resoluciones que emita el Consejo, una clave de control e identificación, formada con el número arábigo progresivo que corresponda, seguido por el año de su aprobación; y
 
@@ -1759,7 +1853,9 @@ r) Las demás que le confiera el presente Reglamento y otras disposiciones aplic
 
 ###### Artículo 67.
 
-1. Corresponden al Centro para el Desarrollo Democrático las atribuciones siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+1. El Centro para el Desarrollo Democrático estará adscrito a la Presidencia del Consejo y tendrá las atribuciones siguientes:
 
 a) Proponer al Presidente del Consejo, por conducto de su Titular, los programas, estrategias de trabajo y presupuesto de esta Unidad conforme a las atribuciones señaladas en el presente artículo y otras disposiciones para que, una vez aprobados por el propio Consejero Presidente, se incorporen a la propuesta de Políticas y Programas Generales del Instituto que la Junta debe poner a consideración del Consejo, así como del proyecto de presupuesto correspondiente;
 
@@ -1807,21 +1903,109 @@ b) Informar al Consejero Presidente el avance de la ejecución del programa de t
 
 ### Capítulo Segundo. De la Unidad de Fiscalización de los Recursos de los Partidos Políticos
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
 ###### Artículo 69.
 
-1. La Unidad de Fiscalización es el órgano técnico del Consejo que tiene a su cargo la recepción y revisión integral de los informes que presenten los partidos respecto del origen y monto de los recursos que reciban por cualquier modalidad de financiamiento, así como sobre su destino y aplicación.
+1. La Unidad de Fiscalización es el órgano técnico del Consejo General del Instituto Federal Electoral que tiene a su cargo la recepción y revisión integral de los informes de ingresos y gastos que presenten los partidos políticos, las agrupaciones políticas nacionales, las organizaciones a las que pertenezcan los observadores electorales, y las organizaciones de ciudadanos que pretendan obtener registro como partido político; así como la substanciación de los procedimientos administrativos oficiosos y de queja en materia de origen y aplicación de los recursos de los partidos y agrupaciones políticas.
 
-2. Para la organización y funcionamiento de la Unidad de Fiscalización, se estará a lo dispuesto en el Código y en el Reglamento específico que se emita para tal efecto.
+2. En el ejercicio de sus atribuciones, la Unidad de Fiscalización contará con autonomía de gestión y su nivel jerárquico será equivalente al de Dirección Ejecutiva.
 
-3. El Director General de la Unidad de Fiscalización será designado por el Consejo mediante la propuesta que formule el Consejero Presidente.
+3. El director general de la Unidad de Fiscalización será designado por el Consejo General, a propuesta del Consejero Presidente, y deberá reunir los requisitos previstos en el artículo 112, párrafo 1, en relación con el numeral 127, párrafo 1 del Código, además de contar con una experiencia de al menos cinco años en tareas de dirección de fiscalización.
+
+4. La estructura administrativa de la Unidad de Fiscalización será la que determine su Reglamento Interior, y los recursos presupuestarios que le correspondan serán aprobados por el Consejo.
+
+5. En el desempeño de sus facultades y atribuciones, los secretos bancario, fiscal o fiduciario establecidos por otras leyes no le serán oponibles a la Unidad de Fiscalización. Las autoridades competentes están obligadas a atender y resolver, en un plazo máximo de treinta días hábiles, los requerimientos de información que en esas materias les presente la Unidad.
+
+6. La Unidad de Fiscalización será el conducto para que las autoridades competentes en materia de fiscalización de los recursos de los partidos políticos en las entidades federativas superen las limitaciones de los secretos bancario, fiduciario o fiscal.
+
+7. La Unidad de Fiscalización tendrá las siguientes atribuciones:
+
+a) Facultades reglamentarias:
+
+I. Presentar al Consejo el proyecto de reglamento para la fiscalización de los recursos de los partidos políticos, agrupaciones políticas nacionales, organizaciones a las que pertenezcan los observadores electorales, y organizaciones de ciudadanos que pretendan obtener registro como partido político;
+
+II. Proponer al Consejo las normas generales de contabilidad y los acuerdos necesarios para regular el registro contable y la comprobación documental de los recursos de los sujetos referidos en la fracción anterior; y
+
+III. Presentar al Consejo el proyecto de Reglamento para el desahogo de los procedimientos administrativos oficiosos y de queja en materia de origen y aplicación de los recursos de los partidos y agrupaciones políticas.
+
+b) Facultades de fiscalización de los recursos de los sujetos obligados a la presentación de informes de ingresos y egresos:
+
+I. Recibir y revisar los informes trimestrales, informes anuales e informes de campaña de los partidos políticos; los informes de precampaña que presenten los precandidatos registrados; los informes de las organizaciones a las que pertenezcan los observadores electorales; y los informes mensuales que deben entregar las organizaciones de ciudadanos que pretendan obtener registro como partido político;
+
+II. Notificar los errores u omisiones que hayan sido detectados en la revisión de dichos informes a los partidos políticos, agrupaciones políticas nacionales, organizaciones a las que pertenezcan los observadores electorales, u organizaciones de ciudadanos que pretendan obtener registro como partido político, con la finalidad de garantizar en todo momento su derecho de audiencia y dentro de los plazos señalados en el artículo 84, párrafo 1 del Código;
+
+III. Elaborar un dictamen y un proyecto de resolución que serán presentados al Consejo General para su aprobación, con las sanciones que correspondan por las irregularidades que no hayan sido subsanadas, dentro de los plazos señalados en el artículo 84, párrafo 1 del Código. Lo anterior con excepción de los informes trimestrales los cuales tendrán un carácter exclusivamente informativo;
+
+IV. Ordenar la práctica de auditorias directamente o a través de terceros, a las finanzas de los partidos políticos;
+
+V. Ordenar visitas de verificación a los partidos políticos con el fin de corroborar el cumplimiento de sus obligaciones y la veracidad de sus informes;
+
+VI. Revisar los informes de ingresos y gastos que le presenten las agrupaciones políticas nacionales y las organizaciones de observadores electorales, de conformidad a lo que establezca los reglamentos correspondientes; y
+
+VII. Requerir información complementaria a los partidos políticos, agrupaciones políticas nacionales, organizaciones a las que pertenezcan los observadores electorales, u organizaciones de ciudadanos que pretendan obtener registro como partido político, respecto de los informes de ingresos y egresos o documentación comprobatoria que presenten.
+
+c) Facultades de investigación de presuntas irregularidades en materia de financiamiento y gasto de los partidos y agrupaciones políticas:
+
+I. Recibir las quejas sobre financiamiento y gasto de los partidos políticos contra partidos y agrupaciones políticas derivados de presuntas violaciones en materia de origen y aplicación de recursos;
+
+II. Iniciar los procedimientos administrativos de carácter oficioso por mandato del Consejo General o vista de la Secretaría Ejecutiva;
+
+III. A fin de allegarse de elementos de convicción, la Unidad de Fiscalización podrá solicitar información y documentación, ya sea de manera directa o a través del Secretario del Consejo, a personas físicas y morales, públicas o privadas, para que proporcionen la información y documentación necesaria para la investigación;
+
+IV. En caso de que se determine la existencia de indicios suficientes respecto de la comisión de las irregularidades investigadas, emplazar al partido o agrupación denunciado, corriéndole traslado con todos los elementos que integren el expediente respectivo; y
+
+V. Elaborar el proyecto de resolución respectivo para presentarlo al Consejo General, así como proponer las sanciones que, en su caso, se determinen por la comisión de faltas en materia de origen y aplicación de los recursos de los partidos políticos.
+
+d) Proporcionar la orientación, asesoría y capacitación necesarias para el cumplimiento de sus obligaciones a los partidos políticos, agrupaciones políticas nacionales, organizaciones a las que pertenezcan los observadores electorales, y organizaciones de ciudadanos que pretendan obtener registro como partido político; y
+
+e) Ser responsable de los procedimientos de liquidación de los partidos políticos que pierdan su registro.
 
 ### Capítulo Tercero. Del Comité de Radio y Televisión
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
 ###### Artículo 70.
 
-1. Es el órgano colegiado que se constituye para asegurar a los partidos políticos la debida participación en la materia.
+1. El Comité de Radio y Televisión del Instituto Federal Electoral es el órgano técnico colegiado, cuya finalidad consiste en asegurar a los partidos políticos las prerrogativas que consagra el artículo 41, base III de la Constitución, y que se integra por los tres consejeros electorales que integren la Comisión de Prerrogativas y Partidos Políticos del Instituto, el director ejecutivo de Prerrogativas y Partidos Políticos, quien actuará como su secretario técnico, y por un representante propietario y un suplente, designados por cada partido político nacional.
 
-2. Para la organización y funcionamiento del Comité deberá atenderse a lo dispuesto en el Código y en el Reglamento de la materia que, para tales efectos, expida el Consejo.
+2. El Comité será presidido por el consejero electoral que presida la Comisión de Prerrogativas y Partidos Políticos.
+
+3. El Comité se reunirá de manera ordinaria una vez al mes y de manera extraordinaria cuando lo convoque el Consejero Electoral que lo presida o a solicitud de que a este último presenten al menos dos partidos políticos.
+
+4. Son atribuciones del Comité de Radio y Televisión del Instituto Federal Electoral:
+
+a) Conocer y aprobar las pautas de transmisión correspondientes a los programas mensuales y mensajes de los partidos políticos, formuladas por la Dirección Ejecutiva de Prerrogativas y Partidos Políticos.
+
+b) Conocer y, en su caso, corregir, suprimir o adicionar las pautas que presenten las autoridades electorales locales, respecto del tiempo que corresponda a los partidos políticos;
+
+c) Conocer y aprobar los demás asuntos que en la materia de acceso a radio y televisión conciernan en forma directa a los partidos políticos;
+
+d) Elaborar, con el apoyo de otras autoridades, el catálogo y mapa de coberturas de todas las estaciones de radio y canales de televisión, así como su alcance efectivo;
+
+e) Ordenar al titular de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos la realización de las notificaciones de las pautas respectivas a los concesionarios y permisionarios;
+
+f) Acordar que los mensajes que en un mes correspondan a un mismo partido, se transmitan en forma anticipada a la prevista en la pauta original, de conformidad con lo previsto en el artículo 71, párrafo 4 del Código electoral;
+
+g) Resolver las consultas que le sean formuladas sobre la aplicación de las disposiciones del Código y el Reglamento de Acceso a Radio y Televisión en Materia Electoral, respecto de asuntos que en la materia conciernan en forma directa a los partidos políticos;
+
+h) Interpretar, en el ejercicio de sus atribuciones, las disposiciones contenidas en el Código y el Reglamento de Acceso a Radio y Televisión en Materia Electoral, respecto de asuntos que en la materia conciernan en forma directa a los partidos políticos;
+
+i) Proponer a la Junta General Ejecutiva modificaciones, adiciones o reformas al Reglamento de Acceso a Radio y Televisión en Materia Electoral;
+
+j) Definir los mecanismos y unidades de medida para la distribución de tiempos que, por disposición del Código o del Reglamento de Acceso a Radio y Televisión en Materia Electoral, correspondan a los partidos políticos, tanto en periodos electorales como fuera de ellos;
+
+k) Solicitar al Secretario Ejecutivo del Instituto Federal Electoral rinda informes respecto de asuntos que en la materia de acceso a la radio y la televisión conciernan en forma directa a los partidos políticos;
+
+l) Conocer, aprobar y presentar ante el Consejo General los catálogos y mapas de cobertura correspondientes a las entidades federativas que celebren procesos electorales locales;
+
+m) Analizar y definir las coberturas de concesionarios y permisionarios de radio y televisión, a fin de garantizar plenamente las prerrogativas de los partidos políticos en aquellas entidades federativas que celebren procesos electorales locales;
+
+n) Emitir acuerdos y criterios en materia de acceso a la radio y la televisión que conciernan en forma directa a los partidos políticos, y que resultarán vinculantes al ser difundidos a los integrantes del Comité y publicados en la página electrónica correspondiente; y
+
+ñ) Las demás que le confiera el Código, el Reglamento de Acceso a Radio y Televisión en Materia Electoral, el Consejo General y demás disposiciones aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 16 DE ENERO DE 2009)</small>
 
 ## Título Quinto. De los Organos de Vigilancia Centrales
 
@@ -1839,13 +2023,17 @@ b) Informar al Consejero Presidente el avance de la ejecución del programa de t
 
 Delegacionales
 
-### Capítulo Tercero (sic). De las Comisiones Locales de Vigilancia
+> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO TERCERO], D.O.F. 16 DE ENERO DE 2009)</small>
+
+### Capítulo Segundo. De las Comisiones Locales de Vigilancia
 
 ###### Artículo 72.
 
 1. La Comisión Local de Vigilancia se integrará por un Presidente, que será el Vocal del Registro Federal de Electores, un representante propietario y un suplente por cada partido político nacional y un secretario designado por su Presidente.
 
-### Capítulo Cuarto. De las Comisiones Distritales de Vigilancia
+> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO CUARTO], D.O.F. 16 DE ENERO DE 2009)</small>
+
+### Capítulo Tercero. De las Comisiones Distritales de Vigilancia
 
 ###### Artículo 73.
 
@@ -1969,15 +2157,21 @@ b) La inhabilitación para desempeñar un empleo, cargo o comisión en el servic
 
 5. El Contralor General para el buen despacho de los asuntos que tiene encomendados, podrá auxiliarse de los Subcontralores y los Directores de Area que integren el propio órgano de control, quienes podrán ejercer las atribuciones y funciones inherentes a las áreas a su cargo que se comprendan en los incisos f) al aa), del dd) al hh) y ññ) del párrafo 1 de este numeral, sin perjuicio de su ejercicio directo por parte de su titular.
 
-## Título Séptimo (sic). De los Flujos de Información
+> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES TITULO SEPTIMO], D.O.F. 16 DE ENERO DE 2009)</small>
+
+## Título Octavo. De los Flujos de Información
 
 ### Capítulo Unico. Flujos de Información, Internos y Externos
 
 ###### Artículo 77.
 
-1. La información institucional que no se difunda en la página de internet del Instituto, será proporcionada por los funcionarios del Instituto de conformidad con las reglas siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
 
-a) El Consejo o cualquiera de sus integrantes, podrá requerir en forma directa, información a todos los órganos centrales. La información de carácter reservado o confidencial no estará a la disposición de las Representaciones de los partidos políticos y los Consejeros del Poder Legislativo ante el Consejo, hasta en tanto mantenga ese carácter. Se excluye de lo anterior, aquella que les debe ser remitida de conformidad con las disposiciones contenidas en el Reglamento de Sesiones de dicho órgano de dirección.
+1. La información institucional que no se difunda en la página de Internet del Instituto, será proporcionada por los funcionarios del Instituto de conformidad con las reglas siguientes:
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2009)</small>
+
+a) El Consejo o cualquiera de sus integrantes, podrá requerir en forma directa, información a todos los órganos centrales.
 
 En el supuesto de que la información se encuentre en los órganos delegacionales y subdelegacionales del Instituto, deberán solicitarla a través del Secretario del Consejo, quien la tramitará de forma inmediata;
 
@@ -2033,7 +2227,9 @@ f) Los órganos de vigilancia, delegacionales y subdelegacionales, que requieran
 
 3. La información institucional se divulgará externamente en la página de Internet del Instituto, de conformidad con los criterios del Consejo, de las disposiciones del presente Reglamento y de la normatividad relativa a la transparencia y acceso a la información pública. La información sólo será confidencial y temporalmente reservada en aquellos supuestos que marque el reglamento de la materia.
 
-## Título Octavo. Disposiciones Complementarias
+> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES TITULO OCTAVO], D.O.F. 16 DE ENERO DE 2009)</small>
+
+## Título Noveno. Disposiciones Complementarias
 
 ### Capítulo Primero. Protesta Constitucional
 
@@ -2112,3 +2308,11 @@ Segundo.- Una vez que entre el vigor el presente Reglamento, se abroga el Reglam
 Tercero.- Las adecuaciones inmediatas que requiera el presente instrumento, serán evaluadas y propuestas al Consejo por la Comisión de Reglamentos antes del inicio del proceso electoral federal 2008-2009.
 
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 10 de julio de dos mil ocho.- El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 16 DE ENERO DE 2009.
+
+Primero: A la brevedad posible, las instancias competentes procederán a homologar las atribuciones del Comité de Radio y Televisión que se señalen en otros instrumentos normativos con los establecidos en el presente Reglamento.
+
+Segundo: El presente Reglamento entrará en vigor a partir de su publicación en el Diario Oficial de la Federación.
