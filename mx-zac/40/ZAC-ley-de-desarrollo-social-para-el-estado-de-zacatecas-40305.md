@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-desarrollo-social-para-el-estado-de-zacatecas-40305"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-14"
-last_updated: "2004-07-14"
+last_updated: "2009-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS, PUBLICADA EN EL SUPLEMENTO DEL P.O. DE 17 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 14 de julio de 2004.
 
@@ -620,3 +622,25 @@ DR. RICARDO MONREAL ÁVILA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JAIME ARTURO CASAS MADERO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE ENERO DE 2009.
+
+Artículo primero.- La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se abroga la Ley de Desarrollo Social para el Estado de Zacatecas, publicada en Suplemento al número 56 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 14 de julio del año 2004.
+
+Artículo tercero.- Dentro de los sesenta días naturales siguientes a la entrada en vigor de este ordenamiento, la o el Titular del Ejecutivo deberá publicar el Reglamento de la presente Ley.
+
+En el mismo plazo deberá reformarse el Reglamento Interior de la Secretaría de Planeación y Desarrollo Regional, para adecuarlo a lo establecido en esta Ley.
+
+Los manuales de organización, de procedimientos y de servicios al público de la Secretaría, deberán publicarse en la citada Gaceta gubernamental dentro de los noventa días naturales siguientes contados a partir de la publicación del Reglamento de la Ley.
+
+Artículo cuarto.- El Programa deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de la presente Ley.
+
+Artículo quinto.- Dentro de los sesenta días siguientes a la entrada en vigor de esta Ley, la o el Titular del Ejecutivo del Estado deberá designar al Coordinador del Subcomité Sectorial de Desarrollo Social.
+
+Artículo sexto.- A partir del presupuesto de egresos del Estado para el ejercicio fiscal 2009, deberán incluirse las partidas presupuestales correspondientes para el desarrollo social.
+
+Artículo séptimo.- Se derogan todas las disposiciones que se opongan a la presente Ley.
