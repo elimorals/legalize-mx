@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-transito-del-estado-de-zacatecas-8266"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-18"
-last_updated: "2004-05-01"
+last_updated: "2009-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY DE TRANSITO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPORTE, TRANSITO Y VIALIDAD DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 17 DE ENERO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 18 de enero de 1989.
 
@@ -450,3 +452,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 1 DE MAYO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 17 DE ENERO DE 2009.
+
+Artículo primero. La presente Ley entrará en vigor a los noventa días naturales siguientes a su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se abroga la Ley de Tránsito del Estado de Zacatecas, publicada en Suplemento número 5 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 18 de Enero de 1989.
+
+Artículo tercero. Se derogan las disposiciones que contravengan la presente Ley.
+
+Artículo cuarto. Dentro del término de sesenta días naturales siguientes al inicio de vigencia de esta Ley, la Dirección creará el Registro Estatal del Transporte, implementando las acciones necesarias a fin de habilitar y transferir recursos financieros, humanos y materiales de su adscripción, para cumplir las funciones que esta Ley le otorga.
+
+Artículo quinto. Los Poderes Legislativo y Ejecutivo, llevarán a cabo las acciones legales que en materia fiscal corresponda, para establecer el pago de los derechos que surjan a partir de esta Ley.
+
+Artículo sexto. Dentro de los noventa días naturales siguientes al inicio de vigencia de esta Ley, los Ayuntamientos expedirán su Reglamento Municipal relativo a los Servicios complementarios que esta Ley les atribuye.
