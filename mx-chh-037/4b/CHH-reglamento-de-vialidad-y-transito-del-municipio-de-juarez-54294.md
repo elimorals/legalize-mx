@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-vialidad-y-transito-del-municipio-de-juarez-54294
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-03"
-last_updated: "2007-12-01"
+last_updated: "2009-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO DE VIALIDAD Y TRANSITO DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 2009.
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 3 de febrero de 2007.
 
@@ -609,7 +609,9 @@ I. Los vehículos de transporte foráneo de pasajeros federal, deberán circular
 
 II. Queda estrictamente prohibido el estacionamiento de vehículos de transporte foráneo de pasajeros federal en la vía pública, así como detenerse a levantar pasajeros fuera de los lugares autorizados para tal efecto.
 
-Cuando se infrinja lo preceptuado en este artículo por más de dos ocasiones, dentro de un periodo de treinta días naturales, la corporación de tránsito, sin perjuicio de la multa correspondiente, retirará de la vía pública y trasladará al corralón correspondiente, el vehículo de transporte foráneo de pasajeros federal, cumpliendo con lo preceptuado para tal efecto en este Reglamento.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2009)</small>
+
+Cuando se infrinja lo preceptuado en este artículo, la corporación de tránsito, sin perjuicio de la multa correspondiente, retirará de la vía pública y trasladará al corralón correspondiente, el vehículo de transporte foráneo de pasajeros federal, cumpliendo con lo preceptuado para tal efecto en este Reglamento.
 
 > <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2007)</small>
 
@@ -2118,3 +2120,7 @@ LIC. JORGE ANTONIO ÁLVAREZ COMPEAN.
 P.O. 1 DE DICIEMBRE DE 2007.
 
 ÚNICO.- La presente adición de los artículos señalados en este acuerdo, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
+
+P.O. 17 DE ENERO DE 2009.
+
+ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
