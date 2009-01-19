@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-sistema-para-el-desarrollo-integral-351
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-24"
-last_updated: "2008-09-22"
+last_updated: "2009-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 24 de noviembre de 2003.
 
@@ -1203,13 +1203,19 @@ El Comité Técnico estará integrado de la siguiente manera:
 
 I.- Presidente: Director General del DIF estatal;
 
-II.- Vicepresidente: Director de Desarrollo Comunitario del DIF Estatal;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2009)</small>
 
-III.- Secretario: Director de Planeación del DIF Estatal;
+II.- Vicepresidente: Director de Atención y Desarrollo a Personas Adultas Mayores del DIF Estatal;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2009)</small>
+
+III.- Secretario: El Jefe de Departamento de Procesos Institucionales del DIF Estatal;
 
 IV.- Tesorero: Director de Administración y Finanzas del DIF Estatal;
 
-V.- Vocal: Delegado del Instituto Nacional para la Atención de Personas Adultas Mayores, en su caso;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2009)</small>
+
+V.- Vocal: El Jefe de Departamento del Centro Gerontológico;
 
 VI.- Vocal: Secretario de Finanzas del Estado; y
 
@@ -1277,13 +1283,19 @@ El Comité Técnico estará integrado de la siguiente manera:
 
 I- PRESIDENTE: Director General del DIF Estatal;
 
-II.- VICEPRESIDENTE: Asesor del Gobernador del área de Asistencia Social;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2009)</small>
 
-III.- SECRETARIO: Director de Planeación del DIF Estatal;
+II.-VICEPRESIDENTE: El Director de Servicios Médicos del DIF Estatal;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2009)</small>
+
+III.- SECRETARIO: El Jefe de Departamento de Procesos Institucionales del DIF Estatal;
 
 IV.- TESORERO: Director de Administración y Finanzas del DIF Estatal;
 
-V.- VOCAL EJECUTIVO: Director de Servicios Médicos del DIF Estatal;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2009)</small>
+
+V.- VOCAL: El Director de Atención y Desarrollo a Personas Adultas Mayores;
 
 VI.- VOCAL: Secretario de Finanzas del Estado; y
 
@@ -1920,3 +1932,7 @@ Se derogan todas aquellas disposiciones reglamentarias que se contengan en otros
 P.O. 22 DE SEPTIEMBRE DE 2008.
 
 LAS MODIFICACIONES CON ANTELACION CITADAS, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS REFORMADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 19 DE ENERO DE 2009.
+
+Único.- Las presentes disposiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
