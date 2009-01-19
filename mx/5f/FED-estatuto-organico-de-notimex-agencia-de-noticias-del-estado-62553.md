@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-notimex-agencia-de-noticias-del-estado-625
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-09-01"
-last_updated: "2008-09-01"
+last_updated: "2009-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62553&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-06-26"
 
 ESTATUTO ORGANICO DE NOTIMEX, AGENCIA DE NOTICIAS DEL ESTADO MEXICANO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ENERO DE 2009.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 1 de septiembre de 2008.
 
@@ -919,6 +919,10 @@ PRIMERO.- El presente Estatuto entrará en vigor al día siguiente de su publica
 
 SEGUNDO.- Con la finalidad de que no se altere la continuidad de la operación de la Agencia, esta contará con los recursos financieros, humanos y materiales asignados para el ejercicio correspondiente al año de 2008 y con la estructura de Notimex, S.A. de C.V. durante la etapa de transición que abarcará desde el 16 de junio hasta el 31 de diciembre de 2008, periodo durante el cual se obtendrá el Diagnóstico de Impacto Organizacional que expide la Secretaría de la Función Pública respecto del presente Estatuto y el Diagnóstico de Impacto Presupuestal que en su momento emita la Secretaría de Hacienda y Crédito Público referente a la nueva estructura organizacional; lo anterior derivado del acuerdo emitido por la Junta de Gobierno en sus sesiones del 24 de abril y 26 de junio, ambas del año de 2008.
 
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2009)</small>
+
+SEGUNDO BIS.- Con la finalidad de que no se altere la continuidad de la operación de la Agencia, esta contará con los recursos financieros, humanos y materiales asignados para el ejercicio correspondiente y con la estructura de Notimex, S.A. de C.V. durante la etapa de transición que abarcará desde el 16 de junio hasta el 31 de enero de 2009, período durante el cual se obtendrá el Diagnóstico de Impacto Organizacional que expide la Secretaría de la Función Pública respecto del presente Estatuto y el Diagnóstico de Impacto Presupuestal que en su momento emita la Secretaría de Hacienda y Crédito Público referente a la nueva estructura organizacional; lo anterior derivado del acuerdo emitido por la Junta de Gobierno en sus sesiones del 24 de abril, 26 de junio y 27 de noviembre, todas del año 2008.
+
 TERCERO.- Los funcionarios públicos que ocupen cargos dentro de los dos niveles jerárquicos administrativos inferiores al del Director General, durante la referida etapa de transición, recibirán dicho nombramiento con el carácter y bajo la denominación "En la etapa de transición".
 
 CUARTO.- Inmediatamente después de su publicación, la Dirección General iniciará la elaboración del Manual de Organización Específico de la Agencia, para quedar concluido dentro de los 90 días naturales siguientes a la entrada en vigor del presente Estatuto, mismo que será presentado a la Junta de Gobierno para su aprobación y en su momento a la Secretaría de la Función Pública, para los efectos legales correspondientes.
@@ -932,3 +936,9 @@ El Secretario de la Junta de Gobierno de Notimex, Agencia de Noticias del Estado
 Lic. Jorge Enrique Cervantes Martínez
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 19 DE ENERO DE 2009.
+
+EL ACUERDO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL FEDERAL VIGENTE.
