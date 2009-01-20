@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-mexicano-del-seguro-social-51
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-18"
-last_updated: "2007-10-05"
+last_updated: "2009-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51651&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-09-11"
 
 REGLAMENTO INTERIOR DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 2009.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 18 de septiembre de 2006.
 
@@ -2605,7 +2605,9 @@ Jurisdicción: Estado de Michoacán, excepto los Municipios de Aquila, Chinicuil
 
 a) Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social: Lázaro Cárdenas.
 
-Jurisdicción: El Municipio de Lázaro Cárdenas.
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2009)</small>
+
+Jurisdicción: Los Municipios de Arteaga y Lázaro Cárdenas.
 
 b) Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social: Morelia.
 
@@ -2613,7 +2615,9 @@ Jurisdicción: Los Municipios de Acuitzio, Álvaro Obregón, Angamacutiro, Ario,
 
 c) Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social: Uruapan.
 
-Jurisdicción: Los Municipios de Aguililla, Apatzingán, Arteaga, Buenavista, Coalcomán de Vázquez Pallares, Charapan, Cherán, Gabriel Zamora, Múgica, Nahuatzen, Nuevo Parangaricutiro, Nuevo Urecho, Parácuaro, Paracho, Tancítaro, Taretan, Tepalcatepec, Tingambato, Tumbiscatío, Uruapan y Ziracuaretiro.
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2009)</small>
+
+Jurisdicción: Los Municipios de Aguililla, Apatzingán, Buenavista, Coalcomán de Vázquez Pallares, Charapan, Cherán, Gabriel Zamora, Múgica, Nahuatzen, Nuevo Parangaricutiro, Nuevo Urecho, Parácuaro, Paracho, Tancítaro, Taretan, Tepalcatepec, Tingambato, Tumbiscatío, Uruapan y Ziracuaretiro.
 
 d) Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social: Zamora.
 
@@ -2741,7 +2745,9 @@ Jurisdicción: Los Municipios de Benito Juárez, Isla Mujeres y Lázaro Cárdena
 
 b) Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social: Playa del Carmen.
 
-Jurisdicción: Los Municipios de Cozumel y Solidaridad.
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2009)</small>
+
+Jurisdicción: Los Municipios de Cozumel, Solidaridad y Tulum.
 
 c) Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social: Chetumal.
 
@@ -3064,3 +3070,9 @@ Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 D.O.F. 5 DE OCTUBRE DE 2007.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE ENERO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos que se encuentren en trámite o pendientes de resolución ante las Subdelegaciones y Oficinas para Cobros del Instituto, cuya jurisdicción se modifica con el presente Decreto, se sustanciarán y resolverán conforme a las disposiciones vigentes al momento en el que se inició dicho trámite.
