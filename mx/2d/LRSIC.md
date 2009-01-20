@@ -4,7 +4,7 @@ identifier: "LRSIC"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-15"
-last_updated: "2008-02-01"
+last_updated: "2009-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22829&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRSIC"
 
 LEY PARA REGULAR LAS SOCIEDADES DE INFORMACION CREDITICIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 15 de enero de 2002.
 
@@ -338,13 +338,11 @@ VI. Infrinja de manera grave o reiterada esta ley o cualquier otra disposición 
 
 ### CAPITULO II. DE LA BASE DE DATOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
 
 ###### Artículo 20.
 
-La base de datos de las Sociedades se integrará con la información sobre operaciones crediticias y otras de naturaleza análoga que le sea proporcionada por los Usuarios. Los Usuarios que entreguen dicha información a las Sociedades deberán hacerlo de manera completa y veraz.
+La base de datos de las Sociedades se integrará con la información sobre operaciones crediticias y otras de naturaleza análoga que le sea proporcionada por los Usuarios. Los Usuarios que entreguen dicha información a las Sociedades deberán hacerlo de manera completa y veraz; y, deberán contar con los documentos en que se acredite de manera fehaciente la existencia de la relación contractual con el Cliente, así como de la existencia del incumplimiento que constituye la cartera vencida. Dicha información deberá incluir en su historial crediticio, los pagos oportunos o anticipados que haya efectuado el Cliente respecto del mismo crédito.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -354,17 +352,19 @@ En caso de que la información proporcionada por el Usuario sea relativa a una p
 
 Cuando el Banco de México lo determine, considerando el comportamiento del mercado, el tamaño del sector financiero y las tarifas de aquellas Sociedades que se encuentren operando al amparo de esta ley, podrá emitir disposiciones de carácter general para que las Entidades Financieras proporcionen información relativa a sus operaciones crediticias a las Sociedades organizadas conforme a esta ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2009)</small>
 
-> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
-
-Cuando el Cliente realice el pago total de un adeudo vencido, deberá solicitar al Usuario acreedor que proporcione anticipadamente a la Sociedad la información del pago total del adeudo y la eliminación de la clave de prevención u observación correspondiente. En este supuesto, el Usuario deberá enviar dicha información dentro los cinco días hábiles siguientes a partir de la fecha en que se haya realizado la solicitud del Cliente. En el caso a que se refiere el párrafo quinto del artículo 27 Bis, y cuando así lo solicite el Cliente en términos de este párrafo, los Usuarios contarán con un plazo de hasta diez días hábiles para enviar la información actualizada a la Sociedad.
+Cuando el cliente realice el cumplimiento de una obligación, el Usuario deberá proporcionar a la Sociedad la información del pago correspondiente y la eliminación de la clave de prevención u observación correspondiente. El Usuario deberá enviar dicha información dentro de los cinco días hábiles posteriores al pago. En el caso a que se refiere el párrafo quinto del artículo 27 bis, los Usuarios contarán con un plazo de hasta diez días hábiles para enviar la información actualizada a la Sociedad.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
 En el supuesto al que se refiere el párrafo anterior, las Sociedades tendrán un plazo de hasta tres días hábiles contados a partir de la fecha en que hayan recibido la información de los Usuarios, para actualizar dicha información en sus bases de datos.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 2009)</small>
+
+Cuando los clientes se acojan a programas de recuperación de créditos de entidades financieras, Empresas Comerciales o Sofomes E.N.R. los usuarios deberán reportar a las sociedades de Información Crediticia dichos créditos como saldados, en caso de que hayan sido finiquitados.
 
 > <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -431,6 +431,10 @@ Sólo las Entidades Financieras, las Empresas Comerciales y las Sofomes E.N.R. p
 Las Sociedades deberán proporcionar información a los Usuarios, a las autoridades judiciales en virtud de providencia dictada en juicio en el que el Cliente sea parte o acusado, así como a las autoridades hacendarias federales, a través de la Comisión, para efectos fiscales, de combate al blanqueo de capitales o de acciones tendientes a prevenir y castigar el financiamiento del terrorismo.
 
 Las Sociedades podrán negar la prestación de sus servicios a aquellas personas que no les proporcionen información para la realización de su objeto. Para esos efectos, se considerará que una persona no proporciona información, cuando realice en forma habitual y profesional operaciones de crédito u otras de naturaleza análoga y no proporcione información sobre las mismas.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 2009)</small>
+
+Tratándose de personas físicas, en ningún caso la información contenida en los reportes de crédito podrá ser utilizada por los Usuarios, para efectos laborales del Cliente, salvo por mandamiento judicial o legal que así lo amerite.
 
 ###### Artículo 27.
 
@@ -890,7 +894,9 @@ V. La Sociedad, en términos del artículo 21, no cuente con las claves de preve
 
 VI. La Entidad Financiera se abstenga de utilizar las claves de prevención, observación, o los manuales operativos previstos en el artículo 21;
 
-VII. (DEROGADA, D.O.F. 1 DE FEBRERO DE 2008)
+> <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 2009)</small>
+
+VII. Cuando la Sociedad incorpore en la Base Primaria de Datos la información de cartera vencida proporcionada por los usuarios sin ajustarse a los términos de la fracción I del artículo 2o. de esta Ley;
 
 > <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -920,7 +926,9 @@ XV. La Entidad Financiera omita realizar de inmediato las modificaciones en su b
 
 XVI. La Sociedad no remita al Cliente la respuesta del Usuario con la evidencia que sustente dicha respuesta en el plazo establecido en el artículo 45, segundo párrafo;
 
-XVII. (DEROGADA, D.O.F. 1 DE FEBRERO DE 2008)
+> <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 2009)</small>
+
+XVII. Cuando la Entidad Financiera envíe información sin contar con el soporte documental a que se refiere el primer párrafo del artículo 20 de esta Ley;
 
 > <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -1022,13 +1030,17 @@ XIV. La Sociedad no incluya en los Reportes de Crédito o Reportes de Crédito E
 
 XV. La Entidad Financiera se abstenga de proporcionar al Cliente el Reporte de Crédito Especial, en la forma y términos establecidos en el artículo 40, primer párrafo;
 
-> <small>(ADICIONADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2009)</small>
 
-XVI. La Entidad Financiera envíe nuevamente a la Sociedad la información, previamente contenida en la base de datos de ésta y que se haya modificado o eliminado, a que hace referencia el artículo 46, y
+XVI. La Entidad Financiera envíe nuevamente a la Sociedad la información, previamente contenida en la base de datos de ésta y que se haya modificado o eliminado, a que hace referencia el artículo 46;
 
-> <small>(ADICIONADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2009)</small>
 
-XVII. La Sociedad que no elimine de la base de datos la información a que se refiere el artículo 23 en los plazos y condiciones señalados en dicho artículo.
+XVII. La Sociedad que no elimine de la base de datos la información a que se refiere el artículo 23 en los plazos y condiciones señalados en dicho artículo, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 2009)</small>
+
+XVIII. La Entidad Financiera utilice información proporcionada por la Sociedad con la finalidad de ser utilizada para efectos laborales, sin que exista resolución judicial que así lo amerite.
 
 > <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2004)</small>
 
@@ -1192,15 +1204,25 @@ XII. Envíen nuevamente a la Sociedad la información, previamente contenida en 
 
 XIII. Omitan entregar la información sobre operaciones crediticias en términos del artículo 20, primer párrafo;
 
-> <small>(ADICIONADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2009)</small>
 
-XIV. Incumplan con las disposiciones de carácter general que emita el Banco de México en términos del artículo 12 y del artículo 20, tercer párrafo, y
+XIV. Incumplan con las disposiciones de carácter general que emita el Banco de México en términos del artículo 12 y del artículo 20, tercer párrafo;
 
-> <small>(ADICIONADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2009)</small>
 
-XV. Se abstengan de actualizar ante la Sociedad, en el plazo señalado, el pago realizado por el Cliente, según lo establecido en el artículo 20, cuarto párrafo.
+XV. Se abstengan de actualizar ante la Sociedad, en el plazo señalado, el pago realizado por el Cliente, según lo establecido en el artículo 20, cuarto párrafo;
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 2009)</small>
+
+XVI. Se abstenga de informar a la Sociedad del cumplimiento de la obligación realizado por el Cliente, en los términos del cuarto párrafo del artículo 20 de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 2009)</small>
+
+XVII. Envíen información sin contar con el soporte documental a que se refiere el primer párrafo del artículo 20 de esta Ley, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 2009)</small>
+
+XVIII. Se utilice información proporcionada por la Sociedad con la finalidad de ser utilizada para efectos laborales, sin que exista mandamiento judicial o legal que así lo amerite.
 
 > <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -1281,6 +1303,10 @@ QUINTO.- Las Sociedades deberán eliminar de sus bases de datos los registros re
 Las Sociedades serán sancionadas por la Comisión con una multa de 100 a 1000 veces el salario mínimo general diario vigente en el Distrito Federal por cada registro en el que se omita la eliminación a que se refiere el párrafo anterior.
 
 SEXTO.- Las Sociedades tendrán un plazo de 100 días naturales contados a partir de la entrada en vigor del presente Decreto para enviar a la Comisión para su aprobación las claves de prevención y observación a que se refiere el artículo 21. Hasta en tanto la Comisión no apruebe dichas claves de prevención y observación, las Sociedades seguirán aplicando las vigentes al momento de la solicitud.
+
+D.O.F. 20 DE ENERO DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57.- POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
 
