@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2007-01-30"
+last_updated: "2009-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE ENERO DE 2009.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -803,9 +803,9 @@ V. No inscribirlo en el Instituto de Seguridad Social del Estado de México y Mu
 
 VI. Las análogas a las establecidas en las fracciones anteriores, de igual manera graves y de consecuencias semejantes.
 
-> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 20 DE ENERO DE 2009)</small>
 
-En estos casos, el servidor público podrá separarse de su trabajo dentro de los treinta días siguientes a la fecha en que se dé cualquiera de las causas y tendrá derecho a que la institución pública lo indemnice con el importe de tres meses de sueldo base, veinte días por cada año devengado y cubriéndole las prestaciones a que tenga derecho, así como los salarios vencidos desde la fecha del despido hasta que se cumplimente el laudo.
+En estos casos, el servidor público podrá separarse de su trabajo dentro de los treinta días siguientes a la fecha en que se dé cualquiera de las causas y tendrá derecho a que la institución pública lo indemnice con el importe de tres meses de sueldo base, veinte días por cada año devengado y cubriéndole las prestaciones a que tenga derecho, así como los salarios vencidos desde la fecha en que el Servidor Público se haya separado de su trabajo hasta que se cumplimente el laudo, o hasta que el servidor público se incorpore a laborar en un municipio o institución pública de los poderes del Estado, independientemente del tiempo que dure el proceso.
 
 > <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -815,21 +815,25 @@ Cuando el sueldo base del servidor público exceda del doble del salario mínimo
 
 Para el pago de cualquier indemnización que se genere por las relaciones laborales entre las instituciones o dependencias y sus servidores públicos señaladas en esta ley no generarán ningún tipo de interés.
 
-> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 20 DE ENERO DE 2009)</small>
 
 ###### Artículo 96.
 
-El servidor público podrá solicitar ante el Tribunal o la Sala correspondiente, que se le reinstale en el trabajo que desempeñaba, o que se le indemnice. Cuando el servidor público considere injustificada la causa de rescisión de la relación laboral, o bien lo injustificado del despido podrá demandar ante el Tribunal o en la Sala que se le cubra la indemnización de tres meses de su salario base, así como los salarios vencidos desde la fecha del despido hasta que se cumplimente el laudo o que se le reinstale en el trabajo que desempeñaba con el pago de los salarios vencidos desde la fecha del despido hasta que se cumplimente el laudo.
+El servidor público podrá solicitar ante el Tribunal o la Sala Auxiliar correspondiente, que se le reinstale en el trabajo que desempeñaba, o que se le indemnice. Cuando el servidor público considere injustificada la causa de rescisión de la relación laboral, o bien lo injustificado del despido podrá demandar ante el Tribunal o en la Sala Auxiliar que se le cubra la indemnización de tres meses de su salario base, así como los salarios vencidos desde la fecha del despido hasta que se cumplimente el laudo o que se le reinstale en el trabajo que desempeñaba con el pago de los salarios vencidos desde la fecha del despido hasta que se cumplimente el laudo, o hasta que el servidor público se incorpore a laborar en un municipio o institución pública de los poderes del Estado, independientemente del tiempo que dure el proceso.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 No se considerará en el pago de salarios vencidos los aguinaldos e incrementos que se otorguen en el salario de los servidores públicos mientras dure el proceso para objeto de las indemnizaciones a que se refieren los artículos 95, 96 y 97 de esta ley.
 
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+
 Cuando el servidor público ejercite la acción de reinstalación en el trabajo que desempeñaba, será procedente el pago proporcional de sus prestaciones a que tenga derecho con los incrementos que sufra su salario en el período que dure el proceso.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 20 DE ENERO DE 2009)</small>
 
 ###### Artículo 97.
 
-Las instituciones públicas o dependencias no estarán obligadas a reinstalar al servidor público, pero sí a cubrirle la indemnización de tres meses de salario base, veinte días por cada año de servicios, en términos del Artículo 95 párrafo segundo de esta ley y cubrirle las prestaciones a que tenga derecho, así como los salarios vencidos desde la fecha del despido hasta que se cumplimente el laudo, cuando:
+Las instituciones públicas o dependencias no estarán obligadas a reinstalar al servidor público, pero sí a cubrirle la indemnización de tres meses de salario base, veinte días por cada año de servicios, en términos del artículo 95 párrafo segundo de esta ley y cubrirle las prestaciones a que tenga derecho, así como los salarios vencidos desde la fecha del despido hasta que se cumplimente el laudo, o hasta que el servidor público se incorpore a laborar en un municipio o institución pública de los poderes del Estado, independientemente del tiempo que dure el proceso.
 
 I. El servidor público cuente con una antigüedad menor a un año;
 
@@ -1461,31 +1465,31 @@ En tanto la huelga no sea declarada inexistente, ilegal, ilícita o terminada, e
 
 Las acciones que se deriven de esta ley, de los actos que den origen a la relación laboral y de los acuerdos que fijen las condiciones generales de trabajo, prescribirán en un año, contado a partir del día siguiente al en que la obligación sea exigible, con excepción de los casos previstos en las siguientes fracciones:
 
-I. En un mes:
+> <small>(REFORMADA, G.G. 20 DE ENERO DE 2009)</small>
 
-> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+I. En un mes:
 
 a) Las acciones para pedir la nulidad o la modificación de un nombramiento, a partir de la fecha de su vigencia o alta del servidor público; y
 
 b) Las acciones de los servidores públicos para ejercitar el derecho a ocupar el puesto que hayan dejado por accidente o por enfermedad, contando el plazo a partir de la fecha en que estén en aptitud de volver al trabajo.
 
-> <small>(ADICIONADO, .G.G. 30 DE ENERO DE 2007)</small>
-
-c) Las acciones de los servidores públicos para rescindir la relación laboral, a partir del día siguiente a aquél en que ocurra el hecho que da origen a la rescisión o tengan conocimiento del mismo.
+> <small>(REFORMADA, G.G. 20 DE ENERO DE 2009)</small>
 
 II. En dos meses:
 
-a) En caso de suspensión o despido injustificados, las acciones para exigir la reinstalación en su trabajo o la indemnización que la ley concede, contados a partir del día siguiente al de la fecha del despido o suspensión.
+a) Las acciones de los servidores públicos para rescindir la relación laboral, a partir del día siguiente en que el servidor público se separe de su trabajo; y
+
+b) En caso de suspensión o despido injustificados, las acciones para exigir la reinstalación en su trabajo o la indemnización que la ley concede, contados a partir del día siguiente al de la fecha del despido o suspensión.
+
+> <small>(REFORMADA, G.G. 20 DE ENERO DE 2009)</small>
 
 III. En cuatro meses:
 
-a) Las acciones de los servidores públicos para rescindir la relación laboral, a partir del día siguiente a aquél en que ocurra el hecho que da origen a la rescisión o tengan conocimiento del mismo;
+a) Las acciones de los titulares de las instituciones públicas o dependencias para rescindir la relación laboral, desde el día siguiente en que sean conocidas las causas;
 
-b) Las acciones de los titulares de las instituciones públicas o dependencias para rescindir la relación laboral, desde el día siguiente en que sean conocidas las causas;
+b) En caso de supresión de plazas, las acciones para que se otorgue otra equivalente a la suprimida o la indemnización de ley, a partir del día siguiente de que se informe; y
 
-c) En caso de supresión de plazas, las acciones para que se otorgue otra equivalente a la suprimida o la indemnización de ley, a partir del día siguiente de que se informe; y
-
-d) La aplicación de medidas disciplinarias a sus servidores públicos, contando el término desde que sean conocidas las causas.
+c) La aplicación de medidas disciplinarias a sus servidores públicos, contando el término desde que sean conocidas las causas.
 
 IV. En dos años:
 
@@ -1747,13 +1751,17 @@ El representante común tendrá los derechos, obligaciones y responsabilidades i
 
 Cuando existan en el expediente datos que lo justifiquen, el Tribunal o las Salas, de oficio, deberán declararse incompetentes en cualquier estado del proceso, hasta antes de ser declarado el cierre de la instrucción. Si el Tribunal o la Sala que se trate, se declara incompetente, con citación de las partes, remitirán de inmediato el expediente a la autoridad que estime competente o, en su caso, a la que deba decidir la competencia.
 
+> <small>(ADICIONADO, G.G. 20 DE ENERO DE 2009)</small>
+
+La excepción de incompetencia no exime al demandado de contestar la demanda, si no lo hace y el Tribunal o la Sala Auxiliar (sic) declara competente, se tendrá por confesada la demanda.
+
 ###### Artículo 201.
 
 Las cuestiones de competencia sólo pueden promoverse por declinatoria.
 
-> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 20 DE ENERO DE 2009)</small>
 
-La declinatoria deberá promoverse al dar contestación a la demanda, acompañando los elementos en que se funde. El Tribunal o la Sala, después de examinar las pruebas, las que deberán referirse exclusivamente a la cuestión de incompetencia, dictará en el acto resolución.
+La declinatoria deberá promoverse en la primera etapa del procedimiento en la audiencia respectiva, acompañando los elementos en que se funde. El Tribunal o la Sala, después de examinar las pruebas, que deberán referirse exclusivamente a la cuestión de incompetencia, dictará en el acto, resolución.
 
 > <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -1875,7 +1883,9 @@ Las partes desde el escrito inicial de demanda y de la contestación a la misma,
 
 Se harán personalmente las notificaciones siguientes:
 
-I. El emplazamiento a juicio, y cuando se trate del primer proveído que se dicte en el mismo;
+> <small>(REFORMADA, G.G. 20 DE ENERO DE 2009)</small>
+
+I. El emplazamiento a juicio, la reconvención y cuando se trate del primer proveído que se dicte en el mismo;
 
 II. El auto de radicación del juicio, en los expedientes que les remitan otras autoridades;
 
@@ -1897,7 +1907,9 @@ IX. El auto que conceda término o señale fecha para que el servidor público s
 
 X. El auto por el que se ordena la reposición de actuaciones;
 
-XI. El acuerdo que prevenga al actor a aclarar su demanda en los términos del artículo 230 de esta ley; y (sic)
+> <small>(REFORMADA, G.G. 20 DE ENERO DE 2009)</small>
+
+XI. El acuerdo que prevenga al actor a aclarar su demanda en los términos del artículo 229 de esta Ley;
 
 > <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -1952,6 +1964,26 @@ V. Excusa.
 ###### Artículo 218.
 
 Cuando se promueva un incidente dentro de una audiencia o diligencia, el tribunal substanciará y resolverá de plano, oyendo a las partes, continuándose el procedimiento de inmediato. Cuando se trate de nulidad, competencia y en los casos de acumulación y excusa, dentro de las veinticuatro horas siguientes se señalará día y hora para la audiencia incidental, en la que se resolverá.
+
+> <small>(ADICIONADO, G.G. 20 DE ENERO DE 2009)</small>
+
+El incidente de acumulación procede de oficio o a instancia de parte en los siguientes casos:
+
+I. Cuando se trate de procesos promovidos por el mismo actor en contra del mismo demandado, en las que se reclamen las mismas prestaciones.
+
+II. Cuando sean las mismas partes aunque las prestaciones sean distintas, pero derivadas de una misma acción.
+
+III. Cuando se trate de procesos promovidos por varios actores contra el mismo demandado, si el conflicto tuvo su origen en el mismo hecho derivado de la relación de trabajo.
+
+Si es procedente la acumulación, el proceso o procesos más recientes se acumularán al más antiguo.
+
+Cuando se declare procedente el incidente de acumulación producirá los siguientes efectos:
+
+En el caso de la fracción primera únicamente surtirá efectos en las actuaciones del juicio más antiguo.
+
+En los casos previstos en las fracciones II y III de este artículo, el tribunal o la sala resolverán en una sola resolución.
+
+Será competente el tribunal o la sala, que hubiere prevenido o que tenga el expediente más antiguo de acuerdo a la competencia de cada uno que menciona esta ley.
 
 ### CAPITULO IX. De las Pruebas
 
@@ -2033,11 +2065,11 @@ Artículo 220 F. Si la persona que deba absolver posiciones tiene su residencia 
 
 El Tribunal exhortado recibirá la confesional en los términos en que lo solicite el Tribunal o la Sala exhortante.
 
-> <small>(ADICIONADO, .G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 20 DE ENERO DE 2009)</small>
 
-Artículo 220 G. Se tendrá por confesión expresa y espontánea, las afirmaciones contenidas en el escrito de demanda o en la contestación de la demanda.
+Artículo 220 G. Se tendrá por confesión expresa y espontánea, las afirmaciones que formulen las partes en cualquier acto del procedimiento.
 
-> <small>(ADICIONADO, .G.G. 30 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO, G.G. 30 DE ENERO DE 2007)</small>
 
 Artículo 220 H. Cuando la persona a quien se señale para absolver posiciones sobre hechos propios, ya no labore para la institución pública o dependencia, previa comprobación de hecho, el oferente de la prueba será requerido para que proporcione el domicilio donde deba ser citada. En caso de que el oferente ignore el domicilio, lo hará del conocimiento del Tribunal o la Sala antes de la fecha señalada para la celebración de la Audiencia de desahogo de pruebas, y el Tribunal o la Sala requerirán a la Institución o dependencia Pública que proporcione el último domicilio que tenga registrado de dicha persona.
 
@@ -2345,11 +2377,15 @@ III. Si las partes llegan a un acuerdo, se dará por terminado el conflicto. El 
 
 > <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
 
-IV. Las partes, de común acuerdo, podrán solicitar por una sola ocasión, que se suspenda la audiencia con el objeto de conciliarse. El Tribunal o la Sala podrán suspenderla y fijarán su reanudación, dentro de los diez días hábiles siguientes, quedando notificadas las partes de la nueva fecha con los apercibimientos de ley; y
+IV. Las partes, de común acuerdo, podrán solicitar por una sola ocasión, que se suspenda la audiencia con el objeto de conciliarse. El Tribunal o la Sala podrán suspenderla y fijarán su reanudación, dentro de los diez días hábiles siguientes, quedando notificadas las partes de la nueva fecha con los apercibimientos de ley; y (sic)
 
 > <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
 
-V. Sí las partes no concurren o no llegaren a un acuerdo, se les tendrá por inconformes con todo arreglo conciliatorio y se pasará a la etapa de ofrecimiento y admisión de pruebas.
+V. Sí las partes no concurren o no llegaren a un acuerdo, se les tendrá por inconformes con todo arreglo conciliatorio y se pasará a la etapa de ofrecimiento y admisión de pruebas;
+
+> <small>(ADICIONADA, G.G. 20 DE ENERO DE 2009)</small>
+
+VI. Si el demandado reconviene al actor, el Tribunal o la Sala Auxiliar, le concederá un término de 5 días hábiles contados a partir del día siguiente de la notificación, con los apercibimientos que señala el Artículo 229 de esta Ley.
 
 > <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -2395,9 +2431,7 @@ Cuando las pruebas sean documentos que se hayan solicitado a autoridades diversa
 
 ###### Artículo 240.
 
-Las pruebas confesional y testimonial se ofrecerán y desahogarán conforme a lo siguiente: Se podrá solicitar que se cite a absolver posiciones u ofrecer testimonio personalmente, a quienes ejerzan funciones de representación de la institución pública o dependencia, o de representación de sus titulares, así como a los miembros de la directiva de los sindicatos, cuando los hechos que dieron origen al conflicto les sean propios y se les hayan atribuido en la demanda o contestación, o bien que por razones de sus funciones les deban ser conocidos.
-
-Cuando se trate de los titulares de las instituciones públicas, dependencias o unidades administrativas, estas pruebas se desahogarán por oficio.
+(DEROGADO, G.G. 20 DE ENERO DE 2009)
 
 ###### Artículo 241.
 
@@ -2481,9 +2515,13 @@ Los medios de apremio que podrán ser empleados por el Tribunal o la Sala, para 
 
 I. Requerimiento con amonestación y señalamiento de los medios de apremio que se podrán ordenar;
 
-II. Multa que podrá ser, de uno hasta quince días del salario base que perciba el servidor público; y
+> <small>(REFORMADA, G.G. 20 DE ENERO DE 2009)</small>
 
-III. En caso de reincidencia, la suspensión temporal del cargo del servidor público hasta de uno a quince días sin goce de sueldo, así sucesivamente hasta su cumplimiento.
+II. Multa que podrá ser, de uno hasta quince días del salario base que perciba el servidor público;
+
+> <small>(REFORMADA, G.G. 20 DE ENERO DE 2009)</small>
+
+III. En caso de reincidencia, la suspensión temporal del cargo del servidor público hasta de uno a quince días sin goce de sueldo, así sucesivamente hasta su cumplimiento; y (sic)
 
 El Tribunal o la Sala respetarán estrictamente el orden, de los medios de apremio establecidos en este artículo.
 
@@ -2512,6 +2550,54 @@ La diligencia de requerimiento de pago, con la prevención o de la aplicación d
 El actuario dará cuenta de la diligencia al Tribunal o a la Sala quienes girarán oficio al titular de la institución pública o dependencia responsable de administrar dichos recursos, quien a su vez tendrá la obligación de entregar el importe del crédito laboral ante el Tribunal, o la Sala en un plazo no mayor de veinte días hábiles. Los titulares de las instituciones públicas o dependencias responsable (sic) del personal y los superiores jerárquicos de los servidores públicos multados tendrán la obligación de informar en un plazo no mayor de treinta días hábiles, el cumplimiento de la resolución respectiva, haciéndose acreedores, en caso contrario, de los medios de apremio que menciona este capítulo.
 
 El Tribunal o la Sala una vez cumplido el laudo o convenio ordenará que se archive el expediente como asunto concluido. Pudiendo conservar el mismo por medio de sistemas magnéticos o de información electrónica.
+
+> <small>(ADICIONADO CON LOS ARTICULO QUE LO INTEGRAN, G.G. 20 DE ENERO DE 2009)</small>
+
+### CAPITULO XII. Del Fondo Auxiliar para la Justicia Laboral Burocrática
+
+> <small>(ADICIONADO, G.G. 20 DE ENERO DE 2009)</small>
+
+###### Artículo 257.
+
+El Fondo Auxiliar para la Justicia Laboral Burocrática, tendrá por objeto obtener recursos económicos, para apoyar al personal del Tribunal en su formación profesional o estímulos, mejorar las instalaciones en las que se imparte justicia laboral burocrática y desarrollar todas aquellas actividades tendientes a elevar la calidad de la prestación del servicio de la justicia laboral burocrática.
+
+> <small>(ADICIONADO, G.G. 20 DE ENERO DE 2009)</small>
+
+###### Artículo 258.
+
+El Fondo Auxiliar para la Justicia Laboral Burocrática, se integrará:
+
+A.- Fondo propio, constituido por:
+
+I. El importe de las multas, que se hagan efectivas a los titulares o servidores públicos de las instituciones o dependencias, litigantes, apoderados, testigos y en general a las partes que se involucren en el proceso laboral burocrático, por mandato del Tribunal o de las Salas Auxiliares;
+
+II. Las donaciones o aportaciones que se hagan a favor del Fondo;
+
+III. Las cantidades que se le asignen por disposición del Presupuesto de Egresos o por acuerdo del Gobernador del Estado;
+
+IV. Los remanentes del Presupuesto de Egresos asignado a este Tribunal que resulten al término del ejercicio fiscal anual;
+
+V. Los intereses o rendimientos que se generen por las inversiones y depósitos que se realicen de recursos propios o ajenos;
+
+VI. Los demás bienes que el Fondo adquiera.
+
+B.- Fondo ajeno, constituido por:
+
+I. Depósitos en efectivo o en valores, que por cualquier causa se realicen o se hayan realizado ante el Tribunal.
+
+II. Los valores depositados por cualquier motivo ante el Tribunal que no fueran retirados por quien tenga derecho a ellos, dentro del término de un año computado a partir de la fecha en que se haya depositado o no exista actividad procesal.
+
+> <small>(ADICIONADO, G.G. 20 DE ENERO DE 2009)</small>
+
+###### Artículo 259.
+
+Las sumas o valores que se reciban en el reglón de fondo ajeno, serán reintegrados a los depositantes o beneficiarios, según proceda, mediante orden por escrito del Tribunal, en el que se haya otorgado el depósito, en el término máximo de cinco días hábiles.
+
+> <small>(ADICIONADO, G.G. 20 DE ENERO DE 2009)</small>
+
+###### Artículo 260.
+
+El Pleno del Tribunal, por conducto del Presidente, atenderá la administración y manejo del Fondo, bajo su más estricta responsabilidad, haciendo todas las acciones que más convengan a la institución y a sus servidores públicos, mediante el delegado administrativo que en todo tiempo informará al Pleno.
 
 T R A N S I T O R I O S
 
@@ -2620,3 +2706,43 @@ El Ejecutivo del Estado proveerá al Tribunal de les recursos presupuestales par
 ###### ARTÍCULO SEXTO.
 
 Hasta en tanto las Salas no sean instaladas, el Tribunal conocerá y resolverá los asuntos de conformidad con lo establecido en las disposiciones vigentes aplicables.
+
+G.G. 20 DE ENERO DE 2009.
+
+DECRETO No. 257, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS A LA LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que se encuentren en trámite se resolverán de conformidad con lo establecido en las disposiciones vigentes hasta antes de entrar en vigor este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado realizará lo necesario con base en las reglas que regulan el presupuesto de egresos, para que los ahorros presupuestales que el Tribunal tenga y puedan ser entregados y depositados en el Fondo Auxiliar para la Justicia Laboral Burocrática.
+
+###### ARTÍCULO QUINTO.
+
+Se contará con la intervención del Subsecretario de Finanzas el cual asesorará vigilará y supervisará el buen manejo y funcionamiento del Fondo Auxiliar para la Justicia Laboral Burocrática.
+
+###### ARTÍCULO SEXTO.
+
+El Tribunal contará con tres meses a partir de la publicación de este decreto para adecuar su Reglamento Interno en relación al Fondo Auxiliar para la Justicia Laboral Burocrática.
+
+G.G. 20 DE ENERO DE 2009.
+
+DECRETO No. 258, POR EL QUE SE REFORMAN Y DEROGAN DIVERSOS ARTICULOS A LA LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Este decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
