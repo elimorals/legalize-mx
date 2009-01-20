@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-53416"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-02-01"
-last_updated: "2007-02-01"
+last_updated: "2009-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-01-31"
 
 LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de febrero de 2007.
 
@@ -45,15 +45,19 @@ LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
+
 ###### ARTÍCULO 1.
 
-La presente ley tiene por objeto establecer la coordinación entre la Federación, las entidades federativas y los municipios para prevenir, sancionar y erradicar la violencia contra las mujeres, así como los principios y modalidades para garantizar su acceso a una vida libre de violencia que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación, así como para garantizar la democracia, el desarrollo integral y sustentable que fortalezca la soberanía y el régimen democrático establecidos en la Constitución Política de los Estados Unidos Mexicanos.
+La presente ley tiene por objeto establecer la coordinación entre la Federación, las entidades federativas, el Distrito Federal y los municipios para prevenir, sancionar y erradicar la violencia contra las mujeres, así como los principios y modalidades para garantizar su acceso a una vida libre de violencia que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación, así como para garantizar la democracia, el desarrollo integral y sustentable que fortalezca la soberanía y el régimen democrático establecidos en la Constitución Política de los Estados Unidos Mexicanos.
 
 Las disposiciones de esta ley son de orden público, interés social y de observancia general en la República Mexicana.
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2009)</small>
+
 ###### ARTÍCULO 2.
 
-La Federación, las entidades federativas y los municipios, en el ámbito de sus respectivas competencias expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en Materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano.
+La Federación, las entidades federativas, el Distrito Federal y los municipios, en el ámbito de sus respectivas competencias expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en Materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano.
 
 ###### ARTÍCULO 3.
 
@@ -101,7 +105,9 @@ XI. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos vio
 
 Los tipos de Violencia contra las Mujeres son:
 
-I. La violencia psicológica.- Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, desamor, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2009)</small>
+
+I. La violencia psicológica.- Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 
 II. La violencia física.- Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas, o ambas;
 
@@ -121,9 +127,11 @@ VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañ
 
 Violencia familiar: Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo Agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
+
 ###### ARTÍCULO 8.
 
-Los modelos de atención, prevención y sanción que establezcan la Federación, las entidades federativas y los municipios, son el conjunto de medidas y acciones para proteger a las víctimas de violencia familiar, como parte de la obligación del Estado, de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos. Para ello, deberán tomar en consideración:
+Los modelos de atención, prevención y sanción que establezcan la Federación, las entidades federativas, el Distrito Federal y los municipios, son el conjunto de medidas y acciones para proteger a las víctimas de violencia familiar, como parte de la obligación del Estado, de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos. Para ello, deberán tomar en consideración:
 
 I. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializados y gratuitos a las víctimas, que favorezcan su empoderamiento y reparen el daño causado por dicha violencia;
 
@@ -171,9 +179,11 @@ El hostigamiento sexual es el ejercicio del poder, en una relación de subordina
 
 El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
+
 ###### ARTÍCULO 14.
 
-Las entidades federativas en función de sus atribuciones tomarán en consideración:
+Las entidades federativas y el Distrito Federal, en función de sus atribuciones, tomarán en consideración:
 
 I. Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales y/o de docencia;
 
@@ -236,6 +246,8 @@ Para cumplir con su obligación de garantizar el derecho de las mujeres a una vi
 ### CAPÍTULO VI. DE LAS ÓRDENES DE PROTECCIÓN
 
 ### CAPÍTULO I. DEL SISTEMA NACIONAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
 
 ###### ARTÍCULO 21.
 
@@ -377,13 +389,15 @@ Las personas mayores de 12 años de edad podrán solicitar a las autoridades com
 
 ### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2009)</small>
+
 ## TITULO III
 
 ### CAPÍTULO IV. DE LA ATENCIÓN A LAS VÍCTIMAS
 
 ###### ARTÍCULO 35.
 
-La Federación, las entidades federativas y los municipios, se coordinarán para la integración y funcionamiento del Sistema, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+La Federación, las entidades federativas, el Distrito Federal y los municipios, se coordinarán para la integración y funcionamiento del Sistema, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
 Todas las medidas que lleve a cabo el Estado deberán ser realizadas sin discriminación alguna. Por ello, considerará el idioma, edad, condición social, preferencia sexual, o cualquier otra condición, para que puedan acceder a las políticas públicas en la materia.
 
@@ -453,7 +467,7 @@ El Ejecutivo Federal propondrá en el Proyecto de Presupuesto de Egresos de la F
 
 ###### ARTÍCULO 40.
 
-La Federación, las entidades federativas y los municipios, coadyuvarán para el cumplimiento de los objetivos de esta ley de conformidad con las competencias previstas en el presente ordenamiento y demás instrumentos legales aplicables.
+La Federación, las entidades federativas, el Distrito Federal y los municipios, coadyuvarán para el cumplimiento de los objetivos de esta ley de conformidad con las competencias previstas en el presente ordenamiento y demás instrumentos legales aplicables.
 
 #### Sección Primera.. De la Federación
 
@@ -477,7 +491,9 @@ VII. Vigilar que los usos y costumbres de toda la sociedad no atenten contra los
 
 VIII. Coordinar la creación de Programas de reeducación y reinserción social con perspectiva de género para agresores de mujeres;
 
-IX. Garantizar una adecuada coordinación entre la Federación, las entidades federativas y los municipios, con la finalidad de erradicar la violencia contra las mujeres;
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2009)</small>
+
+IX. Garantizar una adecuada coordinación entre la Federación, las entidades federativas, el Distrito Federal y los municipios, con la finalidad de erradicar la violencia contra las mujeres;
 
 X. Realizar a través del Instituto Nacional de las Mujeres y con el apoyo de las instancias locales, campañas de información, con énfasis en la doctrina de la protección integral de los derechos humanos de las mujeres, en el conocimiento de las leyes y las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
 
@@ -513,7 +529,9 @@ II. Diseñar la política integral con perspectiva de género para promover la c
 
 III. Elaborar el Programa en coordinación con las demás autoridades integrantes del Sistema;
 
-IV. Formular las bases para la coordinación entre las autoridades federales, locales y municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2009)</small>
+
+IV. Formular las bases para la coordinación entre las autoridades federales, locales, del Distrito Federal y municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
 V. Coordinar y dar seguimiento a las acciones de los tres órdenes de gobierno en materia de protección, atención, sanción y erradicación de la violencia contra las mujeres;
 
@@ -677,6 +695,8 @@ XIV. Las demás previstas para el cumplimiento de la presente ley.
 
 #### Sección Novena.. De las Entidades Federativas
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
+
 #### Sección Décima.. De los Municipios
 
 ###### ARTÍCULO 47.
@@ -707,7 +727,9 @@ Corresponde al Instituto Nacional de las Mujeres:
 
 I. Fungir como Secretaría Ejecutiva del Sistema, a través de su titular;
 
-II. Integrar las investigaciones promovidas por las dependencias de la Administración Pública Federal sobre las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de las medidas de prevención, atención y erradicación, y la información derivada a cada una de las instituciones encargadas de promover los derechos humanos de las mujeres en las entidades federativas o municipios. Los resultados de dichas investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes hacia la erradicación de la violencia;
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2009)</small>
+
+II. Integrar las investigaciones promovidas por las dependencias de la Administración Pública Federal sobre las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de las medidas de prevención, atención y erradicación, y la información derivada a cada una de las instituciones encargadas de promover los derechos humanos de las mujeres en las entidades federativas, el Distrito Federal o municipios. Los resultados de dichas investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes hacia la erradicación de la violencia;
 
 III. Proponer a las autoridades encargadas de la aplicación de la presente ley, los programas, las medidas y las acciones que consideren pertinentes, con la finalidad de erradicar la violencia contra las mujeres;
 
@@ -725,9 +747,9 @@ IX. Celebrar convenios de cooperación, coordinación y concertación en la mate
 
 X. Las demás previstas para el cumplimiento de la ley.
 
-###### ARTÍCULO 49.
+###### Artículo 49.
 
-Corresponde a las entidades federativas, de conformidad con lo dispuesto por esta ley y los ordenamientos locales aplicables en la materia:
+Corresponde a las entidades federativas y al Distrito Federal, de conformidad con lo dispuesto por esta ley y los ordenamientos locales aplicables en la materia:
 
 I. Instrumentar y articular sus políticas públicas en concordancia con la política nacional integral desde la perspectiva de género para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
 
@@ -932,3 +954,9 @@ En un marco de coordinación, las Legislaturas de los Estados, promoverán las r
 México, D.F., a 19 de diciembre de 2006.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria Eugenia Jiménez Valenzuela, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de enero de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 20 DE ENERO DE 2009.
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
